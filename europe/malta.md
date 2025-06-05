@@ -174,7 +174,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 7.86 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-4.5 beds/1,000 population (2017)<br>
+4.4 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -195,9 +195,9 @@ _spirits_: 2.51 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.42 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 24% (2020 est.)<br>
-_male_: 26.4% (2020 est.)<br>
-_female_: 21.6% (2020 est.)<br>
+_total_: 22.1% (2025 est.)<br>
+_male_: 23.9% (2025 est.)<br>
+_female_: 20.2% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 63.2% (2023 est.)<br>
@@ -350,7 +350,7 @@ _telephone_: [356] 2561-4000<br>
 _email address and website_: <br>ACSMalta@state.gov<br><br>https://mt.usembassy.gov/<br>
 
 **Flag description**<br>
-two equal vertical bands of white (hoist side) and red; in the upper hoist-side corner is a representation of the George Cross, edged in red; according to legend, the colors are taken from the red and white checkered banner of Count Roger of Sicily who removed a bi-colored corner and granted it to Malta in 1091; an uncontested explanation is that the colors are those of the Knights of Saint John who ruled Malta from 1530 to 1798; in 1942, King George VI of the UK awarded the George Cross to the islanders for their exceptional bravery and gallantry in World War II; since independence in 1964, the George Cross bordered in red has appeared directly on the white field<br>
+two equal vertical bands of white (hoist side) and red; in the upper hoist-side corner is the George Cross, edged in red; according to legend, the colors come from the red-and-white checkered banner of Count Roger of Sicily, who removed a bi-colored corner and granted it to Malta in 1091, but the colors more likely come from the Knights of Saint John, who ruled Malta from 1530 to 1798; in 1942, Britain's King George VI awarded the George Cross to the islanders for their exceptional bravery and gallantry in World War II; since independence in 1964, the George Cross bordered in red has appeared on the white field<br>
 
 **National symbol(s)**<br>
 Maltese eight-pointed cross; national colors: red, white<br>
@@ -615,11 +615,11 @@ the Armed Forces of Malta (AFM): Land Component (combat, combat support, and com
 <strong>note:</strong> the Malta Police Force maintains internal security; both the Police and the AFM report to the Ministry of Home Affairs, National Security, and Law Enforcement<br>
 
 **Military expenditures**<br>
-0.8% of GDP (2023 est.)<br>
-0.7% of GDP (2022)<br>
-0.5% of GDP (2021)<br>
-0.6% of GDP (2020)<br>
-0.5% of GDP (2019)<br>
+0.5% of GDP (2024 est.)<br>
+0.5% of GDP (2023 est.)<br>
+0.7% of GDP (2022 est.)<br>
+0.5% of GDP (2021 est.)<br>
+0.6% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 active Armed Forces of Malta (2025)<br>

@@ -188,9 +188,6 @@ _unimproved: total_: total: 28.4% of population (2020 est.)<br>
 **Physician density**<br>
 0.32 physicians/1,000 population (2022)<br>
 
-**Hospital bed density**<br>
-2 beds/1,000 population<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 76.3% of population<br>
 _improved: rural_: rural: 31.9% of population<br>
@@ -210,9 +207,9 @@ _spirits_: 0.36 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 2.16 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 14.4% (2020 est.)<br>
-_male_: 25.1% (2020 est.)<br>
-_female_: 3.7% (2020 est.)<br>
+_total_: 11.7% (2025 est.)<br>
+_male_: 21.4% (2025 est.)<br>
+_female_: 2.4% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 11.8% (2018/19)<br>
@@ -221,9 +218,9 @@ _female_: 3.7% (2020 est.)<br>
 53.3% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 5.2%<br>
-_women married by age 18_: 29%<br>
-_men married by age 18_: 2.8% (2018 est.)<br>
+_women married by age 15_: 5.2% (2018)<br>
+_women married by age 18_: 29% (2018)<br>
+_men married by age 18_: 2.8% (2018)<br>
 
 **Education expenditures**<br>
 3.7% of GDP (2020)<br>
@@ -380,7 +377,7 @@ _FAX_: [260]&nbsp; (0) 211-357-224<br>
 _email address and website_: <br>ACSLusaka@state.gov<br><br>https://zm.usembassy.gov/<br>
 
 **Flag description**<br>
-green field with a panel of three vertical bands of red (hoist side), black, and orange below a soaring orange eagle, on the outer edge of the flag; green stands for the country's natural resources and vegetation, red symbolizes the struggle for freedom, black the people of Zambia, and orange the country's mineral wealth; the eagle represents the people's ability to rise above the nation's problems<br>
+green field with a panel of three vertical bands of red (hoist side), black, and orange, below a soaring orange eagle on the outer edge of the flag; green stands for the country's natural resources and vegetation, red for the struggle for freedom, black for the people, and orange for the country's mineral wealth; the eagle represents the people's ability to rise above the nation's problems<br>
 
 **National symbol(s)**<br>
 African fish eagle; national colors: green, red, black, orange<br>

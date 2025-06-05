@@ -188,6 +188,9 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Physician density**<br>
 0.54 physicians/1,000 population (2021)<br>
 
+**Hospital bed density**<br>
+2.3 beds/1,000 population (2021 est.)<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.9% of population<br>
 _improved: rural_: rural: 100% of population<br>
@@ -207,9 +210,9 @@ _spirits_: 4.78 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 22.1% (2020 est.)<br>
-_male_: 41.3% (2020 est.)<br>
-_female_: 2.9% (2020 est.)<br>
+_total_: 18.1% (2025 est.)<br>
+_male_: 36.1% (2025 est.)<br>
+_female_: 1.6% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 7.7% (2019)<br>
@@ -218,9 +221,9 @@ _female_: 2.9% (2020 est.)<br>
 60.8% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 3%<br>
-_women married by age 18_: 20.2%<br>
-_men married by age 18_: 9.8% (2019 est.)<br>
+_women married by age 15_: 5.5% (2022)<br>
+_women married by age 18_: 17% (2022)<br>
+_men married by age 18_: 5.8% (2022)<br>
 
 **Education expenditures**<br>
 3.2% of GDP (2020 est.)<br>
@@ -398,11 +401,14 @@ _email address and website_: <br>acsbkk@state.gov<br><br>https://th.usembassy.go
 _consulate(s) general_: Chiang Mai<br>
 
 **Flag description**<br>
-five horizontal bands of red (top), white, blue (double width), white, and red; the red color symbolizes the nation and the blood of life, white represents religion and the purity of Buddhism, and blue stands for the monarchy<br>
+five horizontal bands of red (top), white, blue (double-width), white, and red; the red color stands for the nation and the blood of life, white for religion and the purity of Buddhism, and blue for the monarchy<br>
 <strong>note:</strong> similar to the flag of Costa Rica but with the blue and red colors reversed<br>
 
 **National symbol(s)**<br>
 garuda (mythical half-man, half-bird figure), elephant; national colors: red, white, blue<br>
+
+**National coat of arms**<br>
+<p>In 1911, King Vajiravudh (Rama VI) of Thailand officially adopted the Garuda as the national coat of arms and emblem. This mythological half-man, half-bird figure from the Hindu and Buddhist traditions is considered the vahana (vehicle) of the god Vishnu (Narayana) and was a symbol of royalty in Thailand for centuries.</p><br>
 
 **National anthem**<br>
 _name_: "Phleng Chat Thai" (National Anthem of Thailand)<br>
@@ -412,9 +418,6 @@ _lyrics/music_: Luang SARANUPRAPAN/Phra JENDURIYANG<br>
 **National heritage**<br>
 _total World Heritage Sites_: 8 (5 cultural, 3 natural)<br>
 _selected World Heritage Site locales_: <p>Historic City of Ayutthaya (c); Historic Sukhothai and Associated Historic Towns (c); Thungyai-Huai Kha Khaeng Wildlife Sanctuaries (n); Ban Chiang Archaeological Site (c); Dong Phayayen-Khao Yai Forest Complex (n); Kaeng Krachan Forest Complex (n); The Ancient Town of Si Thep and its Associated Dvaravati Monuments (n); Phu Phrabat, a testimony to the Sīma stone tradition of the Dvaravati period (c)</p><br>
-
-**National coat of arms**<br>
-<p>In 1911, King Vajiravudh (Rama VI) of Thailand officially adopted the Garuda as the national coat of arms and emblem. This mythological half-man, half-bird figure from the Hindu and Buddhist traditions is considered the vahana (vehicle) of the god Vishnu (Narayana) and was a symbol of royalty in Thailand for centuries.</p><br>
 
 ## Economy
 
@@ -692,11 +695,11 @@ Royal Thai Armed Forces (RTARF): Royal Thai Army (RTA), Royal Thai Navy (RTN; in
 <strong>note:</strong> official paramilitary forces in Thailand include the Thai Rangers (Thahan Phran or "Hunter Soldiers") under the Army; the Paramilitary Marines under the Navy; the Border Patrol Police (BPP) under the Royal Thai Police; the Volunteer Defense Corps (VDC or <em>O So</em>) and National Defense Volunteers (NDV), both under the Ministry of Interior; there are also several government-backed volunteer militias created to provide village security against insurgents in the Deep South or to assist government security forces<br>
 
 **Military expenditures**<br>
+1.1% of GDP (2024 est.)<br>
 1.3% of GDP (2023 est.)<br>
 1.3% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>
-1.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 350,000 active-duty Armed Forces (250,000 Army; 70,000 Navy; 30,000 Air Force) (2025)<br>

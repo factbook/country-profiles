@@ -173,7 +173,7 @@ _unimproved: total_: total: 1.3% of population (2020 est.)<br>
 4.23 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
-1.3 beds/1,000 population (2017)<br>
+2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 97.6% of population<br>
@@ -192,6 +192,11 @@ _beer_: 3.21 liters of pure alcohol (2019 est.)<br>
 _wine_: 0.4 liters of pure alcohol (2019 est.)<br>
 _spirits_: 5.1 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.6 liters of pure alcohol (2019 est.)<br>
+
+**Tobacco use**<br>
+_total_: 13.1% (2025 est.)<br>
+_male_: 24.1% (2025 est.)<br>
+_female_: 2.6% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 53.6% (2023 est.)<br>
@@ -347,7 +352,7 @@ _consulate(s) general_: Miami, New York<br>
 _embassy_: the US does not have an embassy in Saint Lucia; the US Ambassador to Barbados is accredited to Saint Lucia<br>
 
 **Flag description**<br>
-cerulean blue with a gold isosceles triangle below a black arrowhead; the upper edges of the arrowhead have a white border; the blue color represents the sky and sea, gold stands for sunshine and prosperity, and white and black the racial composition of the island (with the latter being dominant); the two major triangles invoke the twin Pitons (Gros Piton and Petit Piton), cone-shaped volcanic plugs that are a symbol of the island<br>
+cerulean blue with a gold isosceles triangle below a black arrowhead; the upper edges of the arrowhead have a white border; blue stands for the sky and sea, gold for sunshine and prosperity, and white and black for the ethnic composition of the island; the triangles represent Gros Piton and Petit Piton, the cone-shaped volcanic plugs that are a symbol of the island<br>
 
 **National symbol(s)**<br>
 twin pitons (volcanic peaks), Saint Lucia parrot; national colors: cerulean blue, gold, black, white<br>

@@ -210,7 +210,7 @@ _FAX_: [39] (06) 4674-3411<br>
 _email address and website_: <br>https://va.usembassy.gov/<br>
 
 **Flag description**<br>
-two vertical bands of yellow (hoist side) and white with the arms of the Holy See, consisting of the crossed keys of Saint Peter surmounted by the three-tiered papal tiara, centered in the white band; the yellow color represents the pope's spiritual power, the white his worldly power<br>
+two vertical bands of yellow (hoist side) and white with the arms of the Holy See, consisting of the crossed keys of Saint Peter with the three-tiered papal tiara above, centered in the white band; the yellow color represents the pope's spiritual power, and the white his worldly power<br>
 
 **National symbol(s)**<br>
 crossed keys beneath a papal tiara; national colors: yellow, white<br>
@@ -258,7 +258,7 @@ the Vatican Television Center (CTV) transmits live broadcasts of the Pope's week
 .va<br>
 
 **Internet users**<br>
-_percent of population_: 75% (2021 est.)<br>
+_percent of population_: 87% (2023 est.)<br>
 
 ## Transportation
 

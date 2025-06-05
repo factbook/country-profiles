@@ -198,9 +198,6 @@ _total_: 17.8% (2020 est.)<br>
 _male_: 33% (2020 est.)<br>
 _female_: 2.6% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-11.7% (2013)<br>
-
 **Currently married women (ages 15-49)**<br>
 69.2% (2023 est.)<br>
 
@@ -341,7 +338,7 @@ _chief of mission_: Ambassador Ann Marie YASTISHOCK (since 16 April 2024); note 
 _embassy_: Port Vila<br>
 
 **Flag description**<br>
-two equal horizontal bands of red (top) and green with a black isosceles triangle (based on the hoist side) all separated by a black-edged yellow stripe in the shape of a horizontal Y (the two points of the Y face the hoist side and enclose the triangle); centered in the triangle is a boar's tusk encircling two crossed namele fern fronds, all in yellow; red represents the blood of boars and men, as well as unity, green the richness of the islands, and black the ni-Vanuatu people; the yellow Y-shape - which reflects the pattern of the islands in the Pacific Ocean - symbolizes the light of the Gospel spreading through the islands; the boar's tusk is a symbol of prosperity frequently worn as a pendant on the islands; the fern fronds represent peace<br>
+two equal horizontal bands of red (top) and green with a black isosceles triangle (based on the hoist side), all separated by a black-edged yellow stripe in the shape of a horizontal Y (the two points of the Y face the hoist side and enclose the triangle); a boar's tusk in the triangle encircles two crossed namele fern fronds, all in yellow; red stands for unity and the blood of men and boars, green for the richness of the islands, and black for the ni-Vanuatu people; the yellow Y-shape reflects the islands' layout in the Pacific Ocean and symbolizes the light of the Gospel; the boar's tusk is a symbol of prosperity; the ferns represent peace<br>
 <strong>note:</strong> one of four national flags that reflect the shape of the country in the flag design; the others are Bosnia and Herzegovina, Brazil, and Eritrea<br>
 
 **National symbol(s)**<br>

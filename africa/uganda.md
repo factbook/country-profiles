@@ -183,9 +183,6 @@ _unimproved: total_: total: 16.9% of population (2020 est.)<br>
 **Physician density**<br>
 0.19 physicians/1,000 population (2022)<br>
 
-**Hospital bed density**<br>
-0.5 beds/1,000 population<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 67.3% of population<br>
 _improved: rural_: rural: 27.5% of population<br>
@@ -205,9 +202,9 @@ _spirits_: 0.5 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 5.46 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 8.4% (2020 est.)<br>
-_male_: 13% (2020 est.)<br>
-_female_: 3.7% (2020 est.)<br>
+_total_: 4.5% (2025 est.)<br>
+_male_: 7.8% (2025 est.)<br>
+_female_: 1.5% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 7.6% (2019/20)<br>
@@ -216,9 +213,9 @@ _female_: 3.7% (2020 est.)<br>
 58.3% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 7.3%<br>
-_women married by age 18_: 34%<br>
-_men married by age 18_: 5.5% (2016 est.)<br>
+_women married by age 15_: 7.3% (2016)<br>
+_women married by age 18_: 34% (2016)<br>
+_men married by age 18_: 5.5% (2016)<br>
 
 **Education expenditures**<br>
 2.7% of GDP (2021 est.)<br>
@@ -373,7 +370,7 @@ _FAX_: [256] (0) 414-259-794<br>
 _email address and website_: <br>KampalaWebContact@state.gov<br><br>https://ug.usembassy.gov/<br>
 
 **Flag description**<br>
-six equal horizontal bands of black (top), yellow, red, black, yellow, and red; a white disk is superimposed at the center and depicts a grey crowned crane (the national symbol) facing the hoist side; black symbolizes the African people, yellow sunshine and vitality, red African brotherhood; the crane was the military badge of Ugandan soldiers under the UK<br>
+six equal horizontal bands of black (top), yellow, red, black, yellow, and red; a white disk is at the center and shows a grey crowned crane (the national symbol); black stands for the African people, yellow for sunshine and vitality, and red for African brotherhood<br>
 
 **National symbol(s)**<br>
 grey crowned crane; national colors: black, yellow, red<br>
@@ -614,7 +611,7 @@ public broadcaster, Uganda Broadcasting Corporation (UBC), operates radio and TV
 .ug<br>
 
 **Internet users**<br>
-_percent of population_: 10% (2021 est.)<br>
+_percent of population_: 15% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 44,000 (2023 est.)<br>

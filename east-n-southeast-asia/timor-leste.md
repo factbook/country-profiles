@@ -196,9 +196,9 @@ _spirits_: 0.05 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 39.2% (2020 est.)<br>
-_male_: 67.6% (2020 est.)<br>
-_female_: 10.8% (2020 est.)<br>
+_total_: 36.1% (2025 est.)<br>
+_male_: 62.6% (2025 est.)<br>
+_female_: 8.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 31.9% (2020)<br>
@@ -207,9 +207,9 @@ _female_: 10.8% (2020 est.)<br>
 55.9% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 2.6%<br>
-_women married by age 18_: 14.9%<br>
-_men married by age 18_: 1.2% (2016 est.)<br>
+_women married by age 15_: 2.6% (2016)<br>
+_women married by age 18_: 14.9% (2016)<br>
+_men married by age 18_: 1.2% (2016)<br>
 
 **Education expenditures**<br>
 4.2% of GDP (2020 est.)<br>
@@ -350,7 +350,7 @@ _FAX_: [1] (202) 966-3205<br>
 _email address and website_: <br>info@timorlesteembassy.org<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Donna Ann WELTON (since 16 July 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Marc WEINSTOCK (since 22 February 2025)<br>
 _embassy_: Avenida de Portugal, Praia dos Coqueiros, Dili<br>
 _mailing address_: 8250 Dili Place, Washington, DC 20521-8250<br>
 _telephone_: (670) 332-4684, (670) 330-2400<br>
@@ -358,7 +358,7 @@ _FAX_: (670) 331-3206<br>
 _email address and website_: <br>ConsDili@state.gov<br><br>https://tl.usembassy.gov/<br>
 
 **Flag description**<br>
-red with a black isosceles triangle (based on the hoist side) superimposed on a slightly longer yellow arrowhead that extends to the center of the flag; a white star - pointing to the upper hoist-side corner of the flag - is in the center of the black triangle; yellow denotes the colonialism in Timor-Leste's past, black represents the obscurantism that needs to be overcome, red stands for the national liberation struggle; the white star symbolizes peace and serves as a guiding light<br>
+red with a black isosceles triangle (based on the hoist side) on a slightly longer yellow arrowhead that extends to the center of the flag; a white star is in the center of the black triangle; yellow stands for past colonialism, black for obscurantism that needs to be overcome, and red for the struggle for freedom; the white star represents peace and a guiding light<br>
 
 **National symbol(s)**<br>
 Mount Ramelau; national colors: red, yellow, black, white<br>
@@ -608,9 +608,9 @@ _key ports_: Dili<br>
 Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (F-FDTL)): Land Component, Light Air Component, Naval Component<br><br>Ministry of Interior: National Police of Timor-Leste (Polícia Nacional de Timor-Leste, PNTL) (2025)<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2023 est.)<br>
-1.8% of GDP (2022 est.)<br>
-1.8% of GDP (2021 est.)<br>
+2.5% of GDP (2023 est.)<br>
+1.4% of GDP (2022 est.)<br>
+1.2% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
 1.7% of GDP (2019 est.)<br>
 

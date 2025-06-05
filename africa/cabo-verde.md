@@ -173,7 +173,7 @@ _unimproved: total_: total: 3.3% of population (2020 est.)<br>
 0.73 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-2.1 beds/1,000 population<br>
+2 beds/1,000 population (2018 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 91.7% of population<br>
@@ -194,12 +194,17 @@ _spirits_: 0.6 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 11.4% (2020 est.)<br>
-_male_: 17.3% (2020 est.)<br>
-_female_: 5.4% (2020 est.)<br>
+_total_: 9.8% (2025 est.)<br>
+_male_: 15.3% (2025 est.)<br>
+_female_: 4.5% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 46.9% (2023 est.)<br>
+
+**Child marriage**<br>
+_women married by age 15_: 1.8% (2018)<br>
+_women married by age 18_: 8.4% (2018)<br>
+_men married by age 18_: 1.5% (2018)<br>
 
 **Education expenditures**<br>
 7.6% of GDP (2020 est.)<br>
@@ -351,7 +356,7 @@ _email address and website_: <br>PraiaConsular@state.gov<br><br>https://cv.usemb
 five unequal horizontal bands; the top-most band of blue -- equal to half the width of the flag -- is followed by three narrow bands of white, red, and white, and a bottom&nbsp; stripe of blue; a circle of 10 yellow five-pointed stars is centered on the red stripe and sits toward the left side of the flag; blue stands for the sea and sky; the stripes symbolize the country's formation through peace (white) and effort (red); the circle of stars represents the 10 major islands<br>
 
 **National symbol(s)**<br>
-ten, five-pointed, yellow stars; national colors: blue, white, red, yellow<br>
+ten five-pointed yellow stars; national colors: blue, white, red, yellow<br>
 
 **National anthem**<br>
 _name_: "Cantico da Liberdade" (Song of Freedom)<br>
@@ -603,11 +608,11 @@ Cabo Verdean Armed Forces (FACV): National Guard (GN), Cabo Verde Coast Guard (G
 <strong>note:</strong>  the National Police are under the Ministry of Internal Affairs<br>
 
 **Military expenditures**<br>
+0.6% of GDP (2024 est.)<br>
 0.6% of GDP (2023 est.)<br>
 0.5% of GDP (2022 est.)<br>
 0.5% of GDP (2021 est.)<br>
 0.5% of GDP (2020 est.)<br>
-0.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the FACV has approximately 1,000-1,500 active personnel (2025)<br>

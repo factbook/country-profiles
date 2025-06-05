@@ -188,7 +188,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 5.52 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-7.3 beds/1,000 population (2018)<br>
+7.1 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -209,9 +209,9 @@ _spirits_: 1.9 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 26.4% (2020 est.)<br>
-_male_: 27.7% (2020 est.)<br>
-_female_: 25% (2020 est.)<br>
+_total_: 19.7% (2025 est.)<br>
+_male_: 21.1% (2025 est.)<br>
+_female_: 18.3% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 58.7% (2023 est.)<br>
@@ -661,9 +661,9 @@ Austrian Armed Forces (Bundesheer): Land Forces, Air Force, Cyber Forces, Specia
 **Military expenditures**<br>
 1% of GDP (2024 est.)<br>
 0.9% of GDP (2023 est.)<br>
-0.7% of GDP (2022)<br>
-0.8% of GDP (2021)<br>
-0.7% of GDP (2020)<br>
+0.7% of GDP (2022 est.)<br>
+0.8% of GDP (2021 est.)<br>
+0.7% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 22,000 active Armed Forces (includes about 14,000 regular troops and around 8,000 reservists/militia undergoing refresher training) (2025)<br>

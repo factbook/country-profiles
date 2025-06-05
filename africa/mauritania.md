@@ -208,9 +208,9 @@ _spirits_: 0 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 10.7% (2020 est.)<br>
-_male_: 19.3% (2020 est.)<br>
-_female_: 2.1% (2020 est.)<br>
+_total_: 8.3% (2025 est.)<br>
+_male_: 15.5% (2025 est.)<br>
+_female_: 1.7% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 22.4% (2022)<br>
@@ -219,9 +219,9 @@ _female_: 2.1% (2020 est.)<br>
 66% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 15.5%<br>
-_women married by age 18_: 36.6%<br>
-_men married by age 18_: 1.2% (2021 est.)<br>
+_women married by age 15_: 15.5% (2021)<br>
+_women married by age 18_: 36.6% (2021)<br>
+_men married by age 18_: 1.2% (2021)<br>
 
 **Education expenditures**<br>
 1.9% of GDP (2020 est.)<br>
@@ -384,7 +384,7 @@ _FAX_: [222] 4525-1592<br>
 _email address and website_: <br>consularnkc@state.gov<br><br>https://mr.usembassy.gov/<br>
 
 **Flag description**<br>
-green with a yellow, five-pointed star between the horns of a yellow, upward-pointing crescent moon; red stripes along the top and bottom edges; the crescent, star, and color green are traditional symbols of Islam; green also represents hope for a bright future; the yellow color stands for the sands of the Sahara; red symbolizes the blood shed in the struggle for independence<br>
+green with a five-pointed yellow star between the ends of a yellow, upward-pointing crescent moon and red stripes along the top and bottom edges; the crescent, star, and color green are traditional symbols of Islam; green also represents hope for a bright future; the yellow color stands for the sands of the Sahara, and red for blood shed in the fight for independence<br>
 
 **National symbol(s)**<br>
 five-pointed star between the horns of a horizontal crescent moon; national colors: green, yellow<br>
@@ -607,7 +607,7 @@ _subscriptions per 100 inhabitants_: 113 (2022 est.)<br>
 .mr<br>
 
 **Internet users**<br>
-_percent of population_: 44% (2022 est.)<br>
+_percent of population_: 37% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 14,000 (2022 est.)<br>
@@ -648,11 +648,11 @@ Mauritanian Armed Forces (aka Armée Nationale Mauritanienne): National Army, Na
 <strong>note 1:</strong> the National Police are responsible for enforcing the law and maintaining order in urban areas, while the paramilitary Gendarmerie is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas; like the Mauritanian Armed Forces, the Gendarmerie is under the Ministry of Defense, but also supports the ministries of Interior and Justice<br><br><strong>note 2:</strong> the National Guard performs a limited police function in keeping with its peacetime role of providing security at government facilities, to include prisons; regional authorities may call upon the National Guard to restore civil order during riots and other large-scale disturbances; the National Guard includes the nomadic Camel Corps or Nomad Group, also known as the Méhariste<br>
 
 **Military expenditures**<br>
+2.4% of GDP (2024 est.)<br>
 2.5% of GDP (2023 est.)<br>
 2.5% of GDP (2022 est.)<br>
 2.4% of GDP (2021 est.)<br>
 2.5% of GDP (2020 est.)<br>
-2.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 17,000 active Mauritanian Armed Forces; estimated 3,000 Gendarmerie (2025)<br>

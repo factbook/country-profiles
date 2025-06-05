@@ -174,7 +174,7 @@ _unimproved: total_: total: 15.8% of population (2020 est.)<br>
 0.05 physicians/1,000 population (2014)<br>
 
 **Hospital bed density**<br>
-0.9 beds/1,000 population (2017)<br>
+0.9 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 82.4% of population<br>
@@ -196,11 +196,6 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 62.9% (2023 est.)<br>
-
-**Child marriage**<br>
-_women married by age 15_: 16.8%<br>
-_women married by age 18_: 35.5%<br>
-_men married by age 18_: 5.6% (2020 est.)<br>
 
 **Education expenditures**<br>
 0.3% of GDP (2019)<br>
@@ -360,7 +355,7 @@ _telephone_: [254] 20 363-6451<br>
 _email address and website_: <br>SomaliaPublicAffairs@state.gov<br><br>https://so.usembassy.gov/<br>
 
 **Flag description**<br>
-light blue with a large white five-pointed star in the center; the blue field was originally influenced by the flag of the UN but today is said to denote the sky and the neighboring Indian Ocean; the five points of the star represent the five regions in the horn of Africa that are inhabited by Somali people: the former British Somaliland and Italian Somaliland (which together make up Somalia), Djibouti, Ogaden (Ethiopia), and the North East Province (Kenya)<br>
+light blue with a large white five-pointed star in the center; the blue field was originally influenced by the UN flag but today is said to represent the sky and the Indian Ocean; the five points of the star represent the regions in the horn of Africa where Somali people live: the former British Somaliland and Italian Somaliland (which together make up Somalia), Djibouti, Ogaden (Ethiopia), and the Northeast Province (Kenya)<br>
 
 **National symbol(s)**<br>
 leopard; national colors: blue, white<br>
@@ -589,7 +584,7 @@ _key ports_: Baraawe, Berbera, Boosaaso, Kismaayo, Marka, Muqdisho<br>
 
 **Military and security forces**<br>
 Somali Armed Forces (SAF; aka Somali Defense Force): Somali National Army (SNA; aka Land Forces), Somali Navy, Somali Air Force<br><br>Ministry of Internal Security: Somali National Police (SNP, includes Coast Guard, commando unit) (2024)<br>
-<strong>note 1:</strong> Somalia has numerous militia ("macawisley") and regional/state forces operating throughout the country; these forces include ones that are clan- and warlord-based, semi-official paramilitary and special police forces ("darwish"), and externally sponsored militias<br><br><strong>note 2: </strong>Somaliland and Puntland have separate military, security, and paramilitary forces<br>
+<strong>note 1:</strong> Somalia has numerous militia ("ma’awisley") and regional/state forces operating throughout the country; these forces include ones that are clan- and warlord-based, semi-official paramilitary and special police forces ("darwish"), and externally sponsored militias<br><br><strong>note 2: </strong>Somaliland and Puntland have separate military, security, and paramilitary forces<br>
 
 **Military expenditures**<br>
 6% of GDP (2021 est.)<br>

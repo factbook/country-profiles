@@ -176,7 +176,7 @@ _unimproved: total_: total: 2.5% of population (2020 est.)<br>
 2.34 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-1.9 beds/1,000 population (2017)<br>
+2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99% of population<br>
@@ -197,9 +197,9 @@ _spirits_: 0.11 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.01 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 22.5% (2020 est.)<br>
-_male_: 43.8% (2020 est.)<br>
-_female_: 1.1% (2020 est.)<br>
+_total_: 21.5% (2025 est.)<br>
+_male_: 41.8% (2025 est.)<br>
+_female_: 0.6% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 14.1% (2019)<br>
@@ -372,8 +372,8 @@ _FAX_: [60] (3) 2142-2207<br>
 _email address and website_: <br>KLACS@state.gov<br><br>https://my.usembassy.gov/<br>
 
 **Flag description**<br>
-14 equal horizontal stripes of red (top) alternating with white (bottom); there is a dark blue rectangle in the upper hoist-side corner bearing a yellow crescent and a yellow 14-pointed star; the flag is often referred to as Jalur Gemilang (Stripes of Glory); the 14 stripes stand for the equal status in the federation of the 13 member states and the federal government; the 14 points on the star represent the unity between these entities; the crescent is a traditional symbol of Islam; blue symbolizes the unity of the Malay people and yellow is the royal color of Malay rulers<br>
-<strong>note:</strong> the design is based on the flag of the US<br>
+14 equal horizontal stripes of red (top) alternating with white (bottom); a dark blue rectangle in the upper hoist-side corner has a yellow crescent and a yellow 14-pointed star; the flag is often called Jalur Gemilang (Stripes of Glory); the 14 stripes stand for the equal status of the 13 member states and the federal government; the points on the star represent the unity among these entities; the crescent is a traditional symbol of Islam; blue symbolizes the unity of the Malay people, and yellow is the royal color<br>
+<strong>note:</strong> the design is based on the US flag<br>
 
 **National symbol(s)**<br>
 tiger, hibiscus; national colors: gold, black<br>
@@ -657,7 +657,7 @@ Malaysian Armed Forces (Angkatan Tentera Malaysia, ATM): Malaysian Army, Royal M
 <strong>note: </strong>the Royal Malaysia Police includes the General Operations Force, a paramilitary force with a variety of roles, including patrolling borders, counterterrorism, maritime security, and counterinsurgency<br>
 
 **Military expenditures**<br>
-1.1% of GDP (2024 est.)<br>
+1% of GDP (2024 est.)<br>
 0.9% of GDP (2023 est.)<br>
 1.1% of GDP (2022 est.)<br>
 1% of GDP (2021 est.)<br>

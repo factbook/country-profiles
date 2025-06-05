@@ -175,7 +175,7 @@ _unimproved: total_: total: 5.7% of population (2020 est.)<br>
 0.81 physicians/1,000 population (2015)<br>
 
 **Hospital bed density**<br>
-2 beds/1,000 population (2016)<br>
+1.9 beds/1,000 population (2017 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -196,9 +196,9 @@ _spirits_: 0.79 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 23.1% (2020 est.)<br>
-_male_: 35.6% (2020 est.)<br>
-_female_: 10.5% (2020 est.)<br>
+_total_: 26.8% (2025 est.)<br>
+_male_: 40.8% (2025 est.)<br>
+_female_: 12.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 4.6% (2021)<br>
@@ -207,9 +207,9 @@ _female_: 10.5% (2020 est.)<br>
 58.8% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.2%<br>
-_women married by age 18_: 4%<br>
-_men married by age 18_: 1.7% (2021 est.)<br>
+_women married by age 15_: 0.2% (2021)<br>
+_women married by age 18_: 4% (2021)<br>
+_men married by age 18_: 1.7% (2021)<br>
 
 **Education expenditures**<br>
 5.7% of GDP (2020 est.)<br>
@@ -353,7 +353,7 @@ _FAX_: [679] 330-2267<br>
 _email address and website_: <br>SuvaACS@state.gov<br><br>https://fj.usembassy.gov/<br>
 
 **Flag description**<br>
-light blue with the flag of the UK in the upper hoist-side quadrant and the Fijian shield centered on the outer half of the flag; the blue symbolizes the Pacific Ocean and the Union Jack reflects the links with Great Britain; the shield - taken from Fiji's coat of arms - depicts a yellow lion, holding a coconut pod between its paws, above a white field quartered by the cross of Saint George; the four quarters depict stalks of sugarcane, a palm tree, a banana bunch, and a white dove of peace<br>
+light blue with the UK flag in the upper hoist-side quadrant and the Fijian shield centered on the outer half of the flag; blue symbolizes the Pacific Ocean; the shield is taken from Fiji's coat of arms and shows a yellow lion holding a coconut above a white field quartered by the cross of Saint George; the four quarters depict sugarcane, a palm tree, a banana bunch, and a white dove<br>
 
 **National symbol(s)**<br>
 Fijian canoe; national color: light blue<br>
@@ -622,11 +622,11 @@ _key ports_: Lautoka Harbor, Levuka, Malai, Savusavu Bay, Suva Harbor<br>
 Republic of Fiji Military Forces (RFMF): Land Force, Republic of Fiji Navy (2025)<br>
 
 **Military expenditures**<br>
+1.4% of GDP (2024 est.)<br>
 1.1% of GDP (2023 est.)<br>
 1.2% of GDP (2022 est.)<br>
 1.5% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>
-1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 4,000 active Republic of Fiji Military Forces (2025)<br>

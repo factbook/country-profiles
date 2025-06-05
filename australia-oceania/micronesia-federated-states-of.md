@@ -167,9 +167,6 @@ _unimproved: total_: total: 21.4% of population (2017 est.)<br>
 **Physician density**<br>
 0.97 physicians/1,000 population (2020)<br>
 
-**Hospital bed density**<br>
-3.2 beds/1,000 population<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -296,11 +293,11 @@ _legislature name_: Congress<br>
 _legislative structure_: unicameral<br>
 _number of seats_: 14 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
-_scope of elections_: full renewal<br>
+_scope of elections_: partial renewal<br>
 _term in office_: 2 years<br>
-_most recent election date_: 3/7/2023<br>
+_most recent election date_: 3/4/2025<br>
 _percentage of women in chamber_: 21.4%<br>
-_expected date of next election_: March 2025<br>
+_expected date of next election_: March 2027<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federated States of Micronesia Supreme Court (consists of the chief justice and not more than 5 associate justices and organized into appellate and criminal divisions)<br>
@@ -330,7 +327,7 @@ _FAX_: [691] 320-2186<br>
 _email address and website_: <br>koloniaacs@state.gov<br><br>https://fm.usembassy.gov/<br>
 
 **Flag description**<br>
-light blue with four white five-pointed stars centered; the stars are arranged in a diamond pattern; blue symbolizes the Pacific Ocean, the stars represent the four island groups of Chuuk, Kosrae, Pohnpei, and Yap<br>
+light blue with four white five-pointed stars centered and arranged in a diamond pattern; blue stands for the Pacific Ocean, and the stars for the four island groups of Chuuk, Kosrae, Pohnpei, and Yap<br>
 
 **National symbol(s)**<br>
 four, five-pointed, white stars on a light blue field, hibiscus flower; national colors: light blue, white<br>

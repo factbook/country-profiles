@@ -191,9 +191,9 @@ _spirits_: 3.48 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 17.4% (2020 est.)<br>
-_male_: 34.8% (2020 est.)<br>
-_female_: 0% (2020 est.)<br>
+_total_: 16% (2025 est.)<br>
+_male_: 32.6% (2025 est.)<br>
+_female_: 0% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 9.3% (2017)<br>
@@ -202,7 +202,9 @@ _female_: 0% (2020 est.)<br>
 69.7% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 18_: 0.1% (2017 est.)<br>
+_women married by age 15_: 0% (2017)<br>
+_women married by age 18_: 0.1% (2017)<br>
+_men married by age 18_: 0% (2017)<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -345,7 +347,7 @@ none<br><br><strong>Note</strong>:  North Korea has a Permanent Mission to the 
 _embassy_: none; the Swedish Embassy in Pyongyang represents the US as consular protecting power<br>
 
 **Flag description**<br>
-three horizontal bands of blue (top), red (triple width), and blue; the red band is edged in white; on the hoist side of the red band is a white disk with a red five-pointed star; the broad red band symbolizes revolutionary traditions; the narrow white bands stand for purity, strength, and dignity; the blue bands signify sovereignty, peace, and friendship; the red star represents socialism<br>
+three horizontal bands of blue (top), red (triple-width), and blue; the red band is edged in white; on the hoist side of the red band is a white disk with a red five-pointed star; the red band stands for revolutionary traditions, the white for purity, strength, and dignity; blue for sovereignty, peace, and friendship; the red star represents socialism<br>
 
 **National symbol(s)**<br>
 red star, chollima (winged horse); national colors: red, white, blue<br>
@@ -530,7 +532,7 @@ Korean People's Army (KPA): KPA Ground Forces, KPA Navy, KPA Air Force and Air D
 <strong>note 1</strong>: North Korea employs a systematic and intentional overlap of powers and responsibilities among its multiple internal security organizations to prevent any potential subordinate consolidation of power and assure that each unit provided a check and balance on the other<br><br><strong>note 2: </strong>Kim Jong Un is the KPA supreme commander, while operational control of the armed forces resides in the General Staff Department (GSD), which reports directly to Kim; the GSD maintains overall control of all military forces and is charged with turning Kim’s directives into operational military orders; the Ministry of National Defense (MND) is responsible for administrative control of the military and external relations with foreign militaries<strong><br><br>note 3:</strong> the Security Guard Command protects the Kim family, other senior leadership figures, and government facilities<br><strong><br>note 4: </strong>the North also has a large paramilitary/militia force organized into the Worker Peasant Red Guard and Red Youth Guard; these organizations are present at all levels of government (province, county, ward) and are under the control of the Korean Workers' Party in peacetime, but revert to KPA control in crisis or war; they are often mobilized for domestic projects, such as road building and agricultural support<br>
 
 **Military expenditures**<br>
-defense spending is a regime priority; between 2010 and 2020, military expenditures accounted for an estimated 20-30% of North Korea's GDP annually; spending estimates ranged from $7 billion to $11 billion annually; in 2023, North Korea announced that it would spend nearly 16% of state expenditures on defense; North Korea in the 2010s and 2020s has increasingly relied on illicit activities &mdash; including cybercrime &mdash; to generate revenue for its weapons of mass destruction and ballistic missile programs to evade US and UN sanctions<br>
+defense spending is a regime priority; between 2010 and 2020, military expenditures accounted for an estimated 20-30% of North Korea's GDP annually; spending estimates ranged from $7 billion to $11 billion annually; in 2024, North Korea announced that it would spend nearly 16% of state expenditures on defense; North Korea in the 2010s and 2020s has increasingly relied on illicit activities &mdash; including cybercrime &mdash; to generate revenue for its weapons of mass destruction and ballistic missile programs to evade US and UN sanctions<br>
 
 **Military and security service personnel strengths**<br>
 estimates vary; approximately 1-1.3 million active-duty Korean People's Army (2024)<br>

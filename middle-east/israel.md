@@ -181,7 +181,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 3.8 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-3 beds/1,000 population (2018)<br>
+3.1 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -202,9 +202,9 @@ _spirits_: 1.16 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.04 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 21.2% (2020 est.)<br>
-_male_: 28.9% (2020 est.)<br>
-_female_: 13.5% (2020 est.)<br>
+_total_: 18.6% (2025 est.)<br>
+_male_: 24.9% (2025 est.)<br>
+_female_: 12.4% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 51.7% (2023 est.)<br>
@@ -358,7 +358,7 @@ _email address and website_: <br>consular@washington.mfa.gov.il<br><br>https://e
 _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Stephanie L. HALLETT (since January 2025)<br>
+_chief of mission_: Ambassador Mike HUCKABEE (21 April 2025)<br>
 _embassy_: 14 David Flusser Street, Jerusalem, 9378322<br>
 _mailing address_: 6350 Jerusalem Place, Washington DC&nbsp; 20521-6350<br>
 _telephone_: [972] (2) 630-4000<br>
@@ -368,8 +368,8 @@ _branch office(s)_: Tel Aviv<br>
 <strong>note:</strong> on 14 May 2018, the US Embassy relocated to Jerusalem from Tel Aviv; on 4 March 2019, Consulate General Jerusalem merged into US Embassy Jerusalem to form a single diplomatic mission<br>
 
 **Flag description**<br>
-white with a blue hexagram (six-pointed linear star) known as the Magen David (Star of David or Shield of David) centered between two equal horizontal blue bands near the top and bottom edges of the flag; the basic design resembles a traditional Jewish prayer shawl (tallit), which is white with blue stripes; the hexagram as a Jewish symbol dates back to medieval times<br>
-<strong>note:</strong> the Israeli flag proclamation states that the flag colors are sky blue and white, but the exact shade of blue has never been set and can vary from a light to a dark blue<br>
+white with a blue hexagram (six-pointed linear star) known as the Magen David (Star of David or Shield of David) centered between two equal horizontal blue bands near the top and bottom edges of the flag; the design resembles a traditional Jewish prayer shawl (<em>tallit</em>), which is white with blue stripes; the hexagram as a Jewish symbol dates back to medieval times<br>
+<strong>note:</strong> the Israeli flag proclamation states that the flag colors are sky blue and white, but the exact shade of blue has never been set and can vary<br>
 
 **National symbol(s)**<br>
 Star of David (Magen David), menorah (seven-branched lampstand); national colors: blue, white<br>
@@ -647,11 +647,11 @@ _key ports_: Ashdod, Ashqelon, Elat, Hadera, Haifa<br>
 Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes commandos), Israel Air Force (IAF, includes air defense)<br><br>Ministry of National Security: Israeli Police (2025)<br>
 
 **Military expenditures**<br>
-4.5% of GDP (2023 est.)<br>
+8% of GDP (2024 est.)<br>
+5% of GDP (2023 est.)<br>
 4.5% of GDP (2022 est.)<br>
 5% of GDP (2021 est.)<br>
 5% of GDP (2020 est.)<br>
-5.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 170,000 active-duty Defense Forces (130,000 Ground Forces; 10,000 Naval; 30,000 Air Force); more than 400,000 reserves (2025)<br>

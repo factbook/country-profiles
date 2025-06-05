@@ -185,7 +185,7 @@ _unimproved: total_: total: 5.9% of population (2020 est.)<br>
 1.01 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-0.3 beds/1,000 population (2012)<br>
+0.4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 95.1% of population<br>
@@ -206,9 +206,9 @@ _spirits_: 0.13 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 30.4% (2020 est.)<br>
-_male_: 47.9% (2020 est.)<br>
-_female_: 12.8% (2020 est.)<br>
+_total_: 22.9% (2025 est.)<br>
+_male_: 40.3% (2025 est.)<br>
+_female_: 7.6% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 18.7% (2022)<br>
@@ -217,9 +217,9 @@ _female_: 12.8% (2020 est.)<br>
 74.6% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 7.9%<br>
-_women married by age 18_: 32.8%<br>
-_men married by age 18_: 9% (2019 est.)<br>
+_women married by age 15_: 5.8% (2022)<br>
+_women married by age 18_: 34.9% (2022)<br>
+_men married by age 18_: 7% (2022)<br>
 
 **Education expenditures**<br>
 4.2% of GDP (2020 est.)<br>
@@ -386,8 +386,8 @@ _FAX_: [977] (1) 400-7272<br>
 _email address and website_: <br>usembktm@state.gov<br><br>https://np.usembassy.gov/<br>
 
 **Flag description**<br>
-crimson red with a blue border around the unique shape of two overlapping right triangles; the smaller, upper triangle bears a white stylized moon and the larger, lower triangle displays a white 12-pointed sun; the color red represents the rhododendron (Nepal's national flower) and is a sign of victory and bravery, the blue border signifies peace and harmony; the two right triangles are a combination of two single pennons (pennants) that originally symbolized the Himalaya Mountains while their charges represented the families of the king (upper) and the prime minister, but today they are understood to denote Hinduism and Buddhism, the country's two main religions; the moon represents the serenity of the Nepalese people and the shade and cool weather in the Himalayas, while the sun depicts the heat and higher temperatures of the lower parts of Nepal; the moon and the sun are also said to express the hope that the nation will endure as long as these heavenly bodies<br>
-<strong>note:</strong> Nepal is the only country in the world whose flag is not rectangular or square<br>
+crimson red with a blue border around the unique shape of two overlapping right triangles; the smaller upper triangle has a white stylized moon, and the larger, lower triangle displays a white 12-pointed sun; the color red represents the rhododendron (the national flower) and victory and bravery, and the blue border signifies peace and harmony; the two triangles are a combination of two pennants that originally symbolized the Himalaya Mountains, but today they refer to Hinduism and Buddhism, the country's two main religions; the moon stands for the serenity of the people and the Himalayan shade and cool weather, and the sun for the heat and higher temperatures of the rest of the country<br>
+<strong>note:</strong> Nepal is the only country in the world with a flag that is not rectangular or square<br>
 
 **National symbol(s)**<br>
 rhododendron blossom; national color: red<br>
@@ -611,7 +611,7 @@ state operates 3 TV stations, as well as national and regional radio stations; 1
 .np<br>
 
 **Internet users**<br>
-_percent of population_: 50% (2022 est.)<br>
+_percent of population_: 56% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1.44 million (2022 est.)<br>

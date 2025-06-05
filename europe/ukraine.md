@@ -187,7 +187,7 @@ _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 3.53 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-7.5 beds/1,000 population (2014)<br>
+6.3 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -208,12 +208,9 @@ _spirits_: 2.88 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.05 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 25.8% (2020 est.)<br>
-_male_: 40% (2020 est.)<br>
-_female_: 11.5% (2020 est.)<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
+_total_: 20.4% (2025 est.)<br>
+_male_: 35.5% (2025 est.)<br>
+_female_: 8% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 61.6% (2023 est.)<br>
@@ -374,7 +371,7 @@ _email address and website_: <br>emb_us@mfa.gov.ua<br><br>https://usa.mfa.gov.ua
 _consulate(s) general_: Chicago, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Bridget A. BRINK (since 2 June 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Ambassador Julie S. DAVIS (since 5 May 2025)<br>
 _embassy_: 4 A. I. Igor Sikorsky Street, 04112 Kyiv<br>
 _mailing address_: 5850 Kyiv Place, Washington, DC 20521-5850<br>
 _telephone_: [380] (44) 521-5000<br>
@@ -382,7 +379,7 @@ _FAX_: [380] (44) 521-5544<br>
 _email address and website_: <br>kyivacs@state.gov<br><br>https://ua.usembassy.gov/<br>
 
 **Flag description**<br>
-two equal horizontal bands of azure (top) and golden yellow; although the colors date back to medieval heraldry, in modern times they are sometimes claimed to represent grain fields under a blue sky<br>
+two equal horizontal bands of blue (top) and yellow; the colors date back to medieval heraldry, but they are sometimes said to represent grain fields under a blue sky<br>
 
 **National symbol(s)**<br>
 tryzub (trident), sunflower; national colors: blue, yellow<br>
@@ -637,7 +634,7 @@ media landscape dominated by oligarch-owned news outlets; United News created fo
 .ua<br>
 
 **Internet users**<br>
-_percent of population_: 79% (2021 est.)<br>
+_percent of population_: 82% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 8.07 million (2023 est.)<br>
@@ -680,7 +677,7 @@ Armed Forces of Ukraine (AFU; Zbroyni Syly Ukrayiny or ZSU): Ground Forces (Sukh
 
 **Military expenditures**<br>
 4% of GDP (2021 est.)<br>
-4% of GDP (2020 est.)<br>
+4.4% of GDP (2020 est.)<br>
 3.4% of GDP (2019 est.)<br>
 3.1% of GDP (2018 est.)<br>
 3.1% of GDP (2017 est.)<br>

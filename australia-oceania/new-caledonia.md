@@ -293,10 +293,10 @@ none (overseas territory of France)<br>
 _embassy_: none (overseas territory of France)<br>
 
 **Flag description**<br>
-New Caledonia has two official flags; alongside the flag of France, the Kanak (indigenous Melanesian) flag has equal status; the latter consists of three equal horizontal bands of blue (top), red, and green; a large yellow disk - diameter two-thirds the height of the flag - shifted slightly to the hoist side is edged in black and displays a black fleche faitiere symbol, a native rooftop adornment<br>
+two official flags: the flag of France and the Kanak (ethnic Melanesian) flag have equal status; the latter consists of three equal horizontal bands of blue (top), red, and green; a large yellow disk shifted slightly to the hoist side is edged in black and displays a black <em>fleche faîtière</em> symbol, a native rooftop adornment<br>
 
 **National symbol(s)**<br>
-fleche faitiere (native rooftop adornment), kagu bird; national colors: gray, red<br>
+fleche faitiere (native rooftop adornment), kagu bird; national colors: grey, red<br>
 
 **National anthem**<br>
 _name_: "Soyons unis, devenons freres" (Let Us Be United, Let Us Become Brothers)<br>

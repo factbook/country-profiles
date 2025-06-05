@@ -126,11 +126,6 @@ _improved: rural_: rural: 100% of population<br>
 **Currently married women (ages 15-49)**<br>
 52% (2023 est.)<br>
 
-**Child marriage**<br>
-_women married by age 15_: 0.4%<br>
-_women married by age 18_: 10.1%<br>
-_men married by age 18_: 2.8% (2019 est.)<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -232,7 +227,7 @@ none (territory of New Zealand)<br>
 none (territory of New Zealand)<br>
 
 **Flag description**<br>
-a yellow stylized Tokelauan canoe on a dark blue field sails toward the manu - the Southern Cross constellation of four, white, five-pointed stars at the hoist side; the Southern Cross represents the role of Christianity in Tokelauan culture and, in conjunction with the canoe, symbolizes the country navigating into the future; the color yellow indicates happiness and peace, and the blue field represents the ocean on which the community relies<br>
+a yellow stylized Tokelauan canoe on a dark blue field sails toward the Southern Cross constellation with four white five-pointed stars at the hoist side; the stars represent the role of Christianity in Tokelauan culture; the stars and canoe together symbolize the country navigating into the future; yellow stands for happiness and peace, and blue for the ocean<br>
 
 **National symbol(s)**<br>
 tuluma (fishing tackle box); national colors: blue, yellow, white<br>

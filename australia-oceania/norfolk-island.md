@@ -192,19 +192,19 @@ none (territory of Australia)<br>
 _embassy_: none (territory of Australia)<br>
 
 **Flag description**<br>
-three vertical bands of green (hoist side), white, and green with a large green Norfolk Island pine tree centered in the slightly wider white band; green stands for the rich vegetation on the island, and the pine tree - endemic to the island - is a symbol of Norfolk Island<br>
-<strong>note:</strong> somewhat reminiscent of the flag of Canada with its use of only two colors and depiction of a prominent local floral symbol in the central white band; also resembles the green and white triband of Nigeria<br>
+three vertical bands of green (hoist side), white, and green, with a large green Norfolk Island pine tree centered in the white band; green stands for the island's rich vegetation, and the native pine tree is an island symbol<br>
+<strong>note:</strong> resembles Canada's flag in its use of only two colors and depiction of a local floral symbol in the central white band; also resembles Nigeria's green-and-white triband<br>
 
 **National symbol(s)**<br>
 Norfolk Island pine<br>
+
+**National coat of arms**<br>
+Norfolk Island is part of the Commonwealth of Australia, and in 1980, Queen Elizabeth II granted it a separate coat of arms (pictured). In the center is the island&rsquo;s symbol, the Norfolk Island Pine, with Britain&rsquo;s lion and Australia&rsquo;s kangaroo supporting the shield. The island&rsquo;s motto, &ldquo;Inasmuch,&rdquo; comes from a verse in the Bible&rsquo;s Gospel of Matthew<br>
 
 **National anthem**<br>
 _name_: "Come Ye Blessed"<br>
 _lyrics/music_: New Testament/John Prindle SCOTT<br>
 <strong>note:</strong> the local anthem, whose lyrics consist of the words from Matthew 25:34-36, 40, is also known as "The Pitcairn Anthem;" the island does not recognize "Advance Australia Fair" (which other Australian territories use); instead "God Save the King" is official (see United Kingdom)<br>
-
-**National coat of arms**<br>
-Norfolk Island is part of the Commonwealth of Australia, and in 1980, Queen Elizabeth II granted it a separate coat of arms (pictured). In the center is the island&rsquo;s symbol, the Norfolk Island Pine, with Britain&rsquo;s lion and Australia&rsquo;s kangaroo supporting the shield. The island&rsquo;s motto, &ldquo;Inasmuch,&rdquo; comes from a verse in the Bible&rsquo;s Gospel of Matthew<br>
 
 ## Economy
 

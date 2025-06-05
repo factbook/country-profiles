@@ -178,7 +178,7 @@ _unimproved: total_: total: 3.8% of population (2020 est.)<br>
 1.63 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-2.3 beds/1,000 population (2016)<br>
+1.9 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 95.5% of population<br>
@@ -199,12 +199,12 @@ _spirits_: 1.2 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.02 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 5% (2020 est.)<br>
-_male_: 7.7% (2020 est.)<br>
-_female_: 2.2% (2020 est.)<br>
+_total_: 4.5% (2025 est.)<br>
+_male_: 7.4% (2025 est.)<br>
+_female_: 1.7% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-3% (2019)<br>
+2.9% (2019)<br>
 
 **Currently married women (ages 15-49)**<br>
 58.6% (2023 est.)<br>
@@ -352,7 +352,7 @@ _email address and website_: <br>info@embassyofpanama.org<br><br>https://www.emb
 _consulate(s) general_: Houston, Los Angeles, Miami, New Orleans, New York, Philadelphia, Tampa<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires John M. BARRETT (since January 2025)<br>
+_chief of mission_: Ambassador Kevin Marino CABRERA (since 5 May 2025)<br>
 _embassy_: Building 783, Demetrio Basilio Lakas Avenue, Clayton<br>
 _mailing address_: 9100 Panama City PL, Washington, DC 20521-9100<br>
 _telephone_: [507] 317-5000<br>
@@ -360,7 +360,7 @@ _FAX_: [507] 317-5568<br>
 _email address and website_: <br>Panama-ACS@state.gov<br><br>https://pa.usembassy.gov/<br>
 
 **Flag description**<br>
-divided into four, equal rectangles; the top quadrants are white (hoist side) with a blue five-pointed star in the center and plain red; the bottom quadrants are plain blue (hoist side) and white with a red five-pointed star in the center; the blue and red colors are those of the main political parties (Conservatives and Liberals respectively) and the white denotes peace between them; the blue star stands for the civic virtues of purity and honesty, the red star signifies authority and law<br>
+divided into four equal rectangles; one of the top quadrants is white (hoist side) with a five-pointed blue star in the center, and the other is plain red; one of the bottom quadrants is plain blue (hoist side), and the other is white with a five-pointed red star in the center; the blue and red stand for the main political parties, and the white for peace between them; the blue star stands for the civic virtues of purity and honesty, and the red star signifies authority and law<br>
 
 **National symbol(s)**<br>
 harpy eagle; national colors: blue, white, red<br>
@@ -596,7 +596,7 @@ multiple privately owned TV networks and a government-owned educational TV stati
 .pa<br>
 
 **Internet users**<br>
-_percent of population_: 74% (2022 est.)<br>
+_percent of population_: 78% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 809,000 (2023 est.)<br>
@@ -638,11 +638,11 @@ no regular military forces; Ministry of Public Security: Panama National Police 
 <strong>note 1:</strong> collectively, the security forces are known as the Panamanian Public Forces <br><br><strong>note 2: </strong>the PNP includes a special forces directorate with counterterrorism and counternarcotics units; SENAFRONT has three regionally based border security brigades, plus a specialized brigade comprised of special forces, counternarcotics, maritime, and rapid reaction units<br>
 
 **Military expenditures**<br>
+1.1% of GDP (2024 est.)<br>
 1.1% of GDP (2023 est.)<br>
 1.2% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>
-1.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 30,000 Ministry of Public Security personnel (2025)<br>

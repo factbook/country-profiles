@@ -185,7 +185,7 @@ _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 1.81 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-1.6 beds/1,000 population (2017)<br>
+1.9 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -206,9 +206,9 @@ _spirits_: 0.02 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 13.6% (2020 est.)<br>
-_male_: 24.1% (2020 est.)<br>
-_female_: 3.1% (2020 est.)<br>
+_total_: 13.3% (2025 est.)<br>
+_male_: 23.8% (2025 est.)<br>
+_female_: 2.8% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 4.3% (2017)<br>
@@ -371,7 +371,7 @@ none <br><strong><br>Note</strong>:  Iran has an Interests Section in the Paki
 _embassy_: none; the US Interests Section is located in the Embassy of Switzerland; US Foreign Interests Section, Embassy of Switzerland, Pasdaran, Shahid Mousavi Street (Golestan 5th), Corner of Paydarfard Street, No. 55, Tehran<br>
 
 **Flag description**<br>
-three equal horizontal bands of green (top), white, and red; the national emblem (a stylized representation of the word Allah in the shape of a tulip, a symbol of martyrdom) in red is centered in the white band; ALLAH AKBAR (God is Great) in white Arabic script is repeated 11 times along the bottom edge of the green band and 11 times along the top edge of the red band; green is the color of Islam and also represents growth, white symbolizes honesty and peace, red stands for bravery and martyrdom<br>
+three equal horizontal bands of green (top), white, and red; centered in the white band is the red national emblem, a stylization of the word <em>Allah </em>in the shape of a tulip, a symbol of martyrdom; ALLAH AKBAR (God is Great) in white Arabic script is repeated 11 times along the bottom edge of the green band and 11 times along the top edge of the red band; green is the color of Islam and also represents growth, white stands for honesty and peace, and red for bravery and martyrdom<br>
 
 **National symbol(s)**<br>
 lion; national colors: green, white, red<br>
@@ -607,7 +607,7 @@ state-run broadcast media with no private, independent broadcasters; Islamic Rep
 .ir<br>
 
 **Internet users**<br>
-_percent of population_: 82% (2022 est.)<br>
+_percent of population_: 80% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 10.9 million (2023 est.)<br>
@@ -649,11 +649,11 @@ the military forces of Iran are divided between the Islamic Republic of Iran Reg
 <strong>note 1:</strong> the Artesh Navy operates Iran’s larger warships and operates in the Gulf of Oman, the Caspian Sea, and deep waters in the region and beyond; the IRGC Navy has responsibility for the closer-in waters of the Persian Gulf and Strait of Hormuz<br><br><strong>note 2:</strong> the Basij is a volunteer paramilitary group under the IRGC with local organizations across the country, which sometimes acts as an auxiliary law enforcement unit for the IRGC; it is formally known as the Organization for the Mobilization of the Oppressed and also known as the Popular Mobilization Army<br><br><strong>note 3: </strong>the Ministry of Intelligence and Security and law enforcement forces under the Interior Ministry, which report to the president, and the IRGC, which reports to the supreme leader, share responsibility for law enforcement and maintaining order<br><br><strong>note 4:</strong> the Law Enforcement Command (FARAJA) is the uniformed police of Iran and includes branches for public security, traffic control, anti-narcotics, special forces (riot control, counterterrorism, hostage rescue, etc), intelligence, and criminal investigations; it has responsibility for border security (Border Guard Command)<br>
 
 **Military expenditures**<br>
-2.1% of GDP (2023 est.)<br>
+2% of GDP (2024 est.)<br>
+2.3% of GDP (2023 est.)<br>
 2.5% of GDP (2022 est.)<br>
 2.3% of GDP (2021 est.)<br>
 2.1% of GDP (2020 est.)<br>
-2.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; up to 600,000 total active armed forces personnel; estimated 400,000 Islamic Republic of Iran Regular Forces (350,000 Ground Forces; 18,000 Navy; 40,000 Air Force/Air Defense Forces); up to estimated 190,000 Islamic Revolutionary Guard Corps (100-150,000 Ground Forces; 20,000 Navy; 15,000 Aerospace Force; 5,000 Qods Force); estimated 90,000 active Basij Paramilitary Forces (2025)<br>

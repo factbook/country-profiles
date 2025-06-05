@@ -171,7 +171,7 @@ _unimproved: total_: total: 3.2% of population (2017 est.)<br>
 2.92 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-2.9 beds/1,000 population (2017)<br>
+3.3 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: total_: total: 91.7% of population<br>

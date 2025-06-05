@@ -178,7 +178,7 @@ _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 2.24 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
-4.3 beds/1,000 population<br>
+5 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -199,9 +199,9 @@ _spirits_: 0.45 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 25.2% (2020 est.)<br>
-_male_: 44.4% (2020 est.)<br>
-_female_: 6% (2020 est.)<br>
+_total_: 28% (2025 est.)<br>
+_male_: 41.5% (2025 est.)<br>
+_female_: 9.2% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 14.8% (2016/17)<br>
@@ -210,8 +210,9 @@ _female_: 6% (2020 est.)<br>
 71.9% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 18_: 2.2%<br>
-_men married by age 18_: 2.2% (2017 est.)<br>
+_women married by age 15_: 0% (2017)<br>
+_women married by age 18_: 2.2% (2017)<br>
+_men married by age 18_: 2.2% (2017)<br>
 
 **Education expenditures**<br>
 5.8% of GDP (2020 est.)<br>
@@ -357,7 +358,7 @@ _FAX_: [94] (11) 243-7345<br>
 _email address and website_: <br>Homepage - U.S. Embassy in Maldives<br>
 
 **Flag description**<br>
-red with a large green rectangle in the center bearing a vertical white crescent moon; the closed side of the crescent is on the hoist side of the flag; red recalls those who have sacrificed their lives in defense of their country, the green rectangle represents peace and prosperity, and the white crescent signifies Islam<br>
+red with a large green rectangle in the center and a vertical white crescent moon; red stand for those who have sacrificed their lives to defend the country, the green represents peace and prosperity, and the white crescent is a symbol of Islam<br>
 
 **National symbol(s)**<br>
 coconut palm, yellowfin tuna; national colors: red, green, white<br>
@@ -574,7 +575,7 @@ formerly a state-owned radio and TV monopoly; now 4 state-operated and 7 private
 .mv<br>
 
 **Internet users**<br>
-_percent of population_: 84% (2022 est.)<br>
+_percent of population_: 85% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 98,000 (2023 est.)<br>

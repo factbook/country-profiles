@@ -177,7 +177,7 @@ _unimproved: total_: total: 9.2% of population (2020 est.)<br>
 0.21 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-1.4 beds/1,000 population (2017)<br>
+1.4 beds/1,000 population (2018 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 87.7% of population<br>
@@ -204,8 +204,8 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 50.6% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 1.4%<br>
-_women married by age 18_: 6.5% (2019 est.)<br>
+_women married by age 15_: 1.4% (2019)<br>
+_women married by age 18_: 6.5% (2019)<br>
 
 **Education expenditures**<br>
 3.6% of GDP (2018 est.)<br>
@@ -360,7 +360,7 @@ _FAX_: [253] 21-45-31-29<br>
 _email address and website_: <br>DjiboutiACS@state.gov<br><br>https://dj.usembassy.gov/<br>
 
 **Flag description**<br>
-two equal horizontal bands of light blue (top) and light green with a white isosceles triangle based on the hoist side bearing a red five-pointed star in the center; blue stands for sea and sky and the Issa Somali people; green symbolizes earth and the Afar people; white represents peace; the red star recalls the struggle for independence and stands for unity<br>
+two equal horizontal bands of light blue (top) and light green with a white isosceles triangle based on the hoist side and with a red five-pointed star in the center; blue stands for sea and sky and the Issa Somali people, green for earth and the Afar people, and white for peace; the red star stands for the struggle for independence and for unity<br>
 
 **National symbol(s)**<br>
 red star; national colors: light blue, green, white, red<br>
@@ -576,7 +576,7 @@ state-owned Radiodiffusion-T&eacute;l&eacute;vision de Djibouti operates the sol
 .dj<br>
 
 **Internet users**<br>
-_percent of population_: 65% (2022 est.)<br>
+_percent of population_: 65% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 17,000 (2023 est.)<br>

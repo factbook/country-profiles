@@ -182,7 +182,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 3.41 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-2.2 beds/1,000 population (2017)<br>
+2.2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
@@ -203,12 +203,12 @@ _spirits_: 0 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 14.3% (2020 est.)<br>
-_male_: 26.5% (2020 est.)<br>
-_female_: 2% (2020 est.)<br>
+_total_: 17.6% (2025 est.)<br>
+_male_: 28.3% (2025 est.)<br>
+_female_: 2% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-3.5% (2020) NA<br>
+3.5% (2020)<br>
 
 **Currently married women (ages 15-49)**<br>
 63.2% (2023 est.)<br>
@@ -367,8 +367,8 @@ _email address and website_: <br>RiyadhACS@state.gov<br><br>https://sa.usembassy
 _consulate(s) general_: Dhahran, Jeddah<br>
 
 **Flag description**<br>
-green, a traditional color in Islamic flags, with the Shahada or Muslim creed in large white Arabic script (translated as "There is no god but God; Muhammad is the Messenger of God") above a white horizontal saber (the tip points to the hoist side); design dates to the early twentieth century and is closely associated with the Al Saud family, which established the kingdom in 1932; the flag is manufactured with differing obverse and reverse sides so that the Shahada reads - and the sword points - correctly from right to left on both sides<br>
-<strong>note:</strong> the only national flag to display an inscription as its principal design; one of only three national flags that differ on their obverse and reverse sides - the others are Moldova and Paraguay<br>
+green (traditional Islamic color) with the Shahada, or Muslim creed, in large white Arabic script that translates as, "There is no god but God; Muhammad is the messenger of God;" the text is above a white horizontal saber pointing to the hoist side; design dates to the early 20th century and is closely associated with the Al Saud family who established the kingdom in 1932; the flag has different sides so that the text reads correctly from right to left and the saber points in the proper direction on both sides<br>
+<strong>note:</strong> the only national flag that has an inscription as its principal design; one of three national flags that have different sides -- the others are Moldova and Paraguay<br>
 
 **National symbol(s)**<br>
 palm tree surmounting two crossed swords; national colors: green, white<br>
@@ -632,11 +632,11 @@ the Saudi Arabian Armed Forces (SAAF) are divided into two ministries:<br><br>Mi
 <strong>note 1:</strong> the SANG (also known as the White Army) is a land force comprised off tribal elements loyal to the House of Saud; it is responsible for internal security, protecting the royal family, and external defense<br><br><strong>note 2:</strong> the SAAF includes the Saudi Royal Guard Command, a unit which provides security and protection to the ruling family and other dignitaries<br>
 
 **Military expenditures**<br>
+7.1% of GDP (2024 est.)<br>
 7% of GDP (2023 est.)<br>
-6% of GDP (2022 est.)<br>
-6% of GDP (2021 est.)<br>
+6.5% of GDP (2022 est.)<br>
+7% of GDP (2021 est.)<br>
 8% of GDP (2020 est.)<br>
-8.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 250,000 active Saudi Armed Forces, including 125,000 under the Ministry of Defense and 125,000 in the National Guard (2025)<br>

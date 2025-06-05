@@ -185,7 +185,7 @@ _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 4.41 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
-2.1 beds/1,000 population (2018)<br>
+2 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -206,12 +206,9 @@ _spirits_: 1 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.1 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 24% (2020 est.)<br>
-_male_: 29.8% (2020 est.)<br>
-_female_: 18.2% (2020 est.)<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
+_total_: 19.9% (2025 est.)<br>
+_male_: 25.8% (2025 est.)<br>
+_female_: 13.9% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 53.4% (2023 est.)<br>
@@ -371,7 +368,7 @@ _FAX_: [46] (08) 661-19-64<br>
 _email address and website_: <br>STKACSinfo@state.gov<br><br>https://se.usembassy.gov/<br>
 
 **Flag description**<br>
-blue with a golden yellow cross extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors reflect those of the Swedish coat of arms - three gold crowns on a blue field<br>
+blue with a golden yellow cross extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors come from the Swedish coat of arms<br>
 
 **National symbol(s)**<br>
 three crowns, lion; national colors: blue, yellow<br>
@@ -659,10 +656,10 @@ Swedish Armed Forces (F&ouml;rsvarsmakten): Army, Navy, Air Force, Home Guard (2
 
 **Military expenditures**<br>
 2.1% of GDP (2024 est.)<br>
-1.7% of GDP (2023)<br>
-1.3% of GDP (2022)<br>
-1.3% of GDP (2021)<br>
-1.2% of GDP (2020)<br>
+1.7% of GDP (2023 est.)<br>
+1.3% of GDP (2022 est.)<br>
+1.3% of GDP (2021 est.)<br>
+1.2% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active Armed Forces (14,000 continuous service/full-time and 11,000 temporary service); approximately 21,000 Home Guard (some on active duty) (2025)<br>

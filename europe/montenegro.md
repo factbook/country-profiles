@@ -183,7 +183,7 @@ _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 2.78 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-3.9 beds/1,000 population (2017)<br>
+3.8 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -204,9 +204,9 @@ _spirits_: 3.22 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.16 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 31.4% (2020 est.)<br>
-_male_: 31.6% (2020 est.)<br>
-_female_: 31.1% (2020 est.)<br>
+_total_: 31.6% (2025 est.)<br>
+_male_: 29.9% (2025 est.)<br>
+_female_: 33.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 3.7% (2018/19)<br>
@@ -215,9 +215,9 @@ _female_: 31.1% (2020 est.)<br>
 57.1% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 1.9%<br>
-_women married by age 18_: 5.8%<br>
-_men married by age 18_: 3.2% (2018 est.)<br>
+_women married by age 15_: 1.9% (2018)<br>
+_women married by age 18_: 5.8% (2018)<br>
+_men married by age 18_: 3.2% (2018)<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -375,7 +375,7 @@ _FAX_: [382]&nbsp; (0) 20-241-358<br>
 _email address and website_: <br>PodgoricaACS@state.gov<br><br>https://me.usembassy.gov/<br>
 
 **Flag description**<br>
-a red field bordered by a narrow golden-yellow stripe with the Montenegrin coat of arms centered; the arms consist of a double-headed golden eagle - symbolizing the unity of church and state - surmounted by a crown; the eagle holds a golden scepter in its right claw and a blue orb in its left; the breast shield over the eagle shows a golden lion passant on a green field in front of a blue sky; the lion is a symbol of episcopal authority and harkens back to the three and a half centuries when Montenegro was ruled as a theocracy<br>
+a red field bordered with a narrow golden-yellow stripe and the Montenegrin coat of arms in the center; the arms consist of a double-headed golden eagle that symbolizes the unity of church and state, with a crown above; the eagle holds a golden scepter in its right claw and a blue orb in its left; the breast shield over the eagle shows a golden lion on a green field in front of a blue sky; the lion is a symbol of episcopal authority, a reference to the three-and-a-half centuries when Montenegro was ruled as a theocracy<br>
 
 **National symbol(s)**<br>
 double-headed eagle; national colors: red, gold<br>
@@ -392,7 +392,7 @@ _selected World Heritage Site locales_: Natural and Culturo-Historical Region of
 ## Economy
 
 **Economic overview**<br>
-upper middle-income, small Balkan economy; uses euro as de facto currency; strong growth driven by tourism and consumption; new impetus for EU accession under Europe Now government; influx of affluent migrants from Russia and Ukraine; progress in fiscal position subject to risks from pension costs, debt service, and informal sector<br>
+<p>upper-middle-income, small Balkan economy; uses euro as de facto currency; reduced growth due to slowdown in tourism and industrial production; new impetus for EU accession under Europe Now government; energy price cap and declining food and services prices easing inflation rate</p> <p> </p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $17.173 billion (2023 est.)<br>
@@ -610,7 +610,7 @@ state-funded national radio and TV broadcaster operates 2 terrestrial TV network
 .me<br>
 
 **Internet users**<br>
-_percent of population_: 88% (2022 est.)<br>
+_percent of population_: 90% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 203,000 (2023 est.)<br>

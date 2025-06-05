@@ -173,9 +173,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Literacy**<br>
 _total population_: NA<br>
 _male_: NA<br>
@@ -270,16 +267,16 @@ none (overseas territory of the UK)<br>
 _embassy_: none (overseas territory of the UK)<br>
 
 **Flag description**<br>
-blue with the flag of the UK in the upper hoist-side quadrant and the Saint Helenian shield centered on the outer half of the flag; the upper third of the shield depicts a white plover (wire bird) on a yellow field; the remainder of the shield depicts a rocky coastline on the left, offshore is a three-masted sailing ship with sails furled but flying an English flag<br>
+blue with the UK flag in the upper hoist-side quadrant and the Saint Helenian shield centered on the outer half of the flag; the upper third of the shield depicts a white plover on a yellow field; the rest of the shield depicts a rocky coastline and a three-masted sailing ship with sails furled and flying an English flag<br>
 
 **National symbol(s)**<br>
 Saint Helena plover (wire bird)<br>
 
-**National anthem**<br>
-<p><strong>note:</strong> as an overseas territory of the UK, "God Save the King" is official (see United Kingdom)</p><br>
-
 **National coat of arms**<br>
 The coat of arms of Saint Helena was officially granted on January 30, 1984. The national bird, the Saint Helena plover (<em>Charadrius sanctaehelenae</em>), is at the top of the shield. The lower part of the shield shows a three-masted sailing ship with the mountainous island to the left. Below the shield is a scroll with the motto “Loyal and unshakable.” The crest shows an image of Saint Helena, holding a cross and a flower.<br>
+
+**National anthem**<br>
+<p><strong>note:</strong> as an overseas territory of the UK, "God Save the King" is official (see United Kingdom)</p><br>
 
 ## Economy
 

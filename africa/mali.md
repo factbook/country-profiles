@@ -190,7 +190,7 @@ _unimproved: total_: total: 13.6% of population (2020 est.)<br>
 0.19 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-0.1 beds/1,000 population<br>
+0.2 beds/1,000 population (2018 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 85.7% of population<br>
@@ -211,9 +211,9 @@ _spirits_: 0.02 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.49 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 8.3% (2020 est.)<br>
-_male_: 15.6% (2020 est.)<br>
-_female_: 1% (2020 est.)<br>
+_total_: 6.9% (2025 est.)<br>
+_male_: 13.1% (2025 est.)<br>
+_female_: 0.6% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 18.5% (2022)<br>
@@ -222,9 +222,9 @@ _female_: 1% (2020 est.)<br>
 77.9% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 15.9%<br>
-_women married by age 18_: 53.7%<br>
-_men married by age 18_: 2.1% (2018 est.)<br>
+_women married by age 15_: 15.9% (2018)<br>
+_women married by age 18_: 53.7% (2018)<br>
+_men married by age 18_: 2.1% (2018)<br>
 
 **Education expenditures**<br>
 4.4% of GDP (2021 est.)<br>
@@ -390,7 +390,7 @@ _email address and website_: <br>ACSBamako@state.gov<br><br>https://ml.usembassy
 
 **Flag description**<br>
 three equal vertical bands of green (hoist side), yellow, and red<br>
-<strong>note:</strong> uses the popular Pan-African colors of Ethiopia; the colors from left to right are the same as those of neighboring Senegal (which has an additional green central star) and the reverse of those on the flag of neighboring Guinea<br>
+<strong>note:</strong> uses the popular pan-African colors of Ethiopia; the colors from left to right are the same as those of neighboring Senegal (which has an additional green central star) and the reverse of those on the flag of neighboring Guinea<br>
 
 **National symbol(s)**<br>
 Great Mosque of Djenne; national colors: green, yellow, red<br>
@@ -615,7 +615,7 @@ national public TV broadcaster; 2 privately owned companies provide subscription
 .ml<br>
 
 **Internet users**<br>
-_percent of population_: 33% (2022 est.)<br>
+_percent of population_: 35% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 179,000 (2022 est.)<br>
@@ -643,11 +643,11 @@ Malian Armed Forces (Forces Armées Maliennes or FAMa): Army (l’Armée de Terr
 <strong>note 1:</strong> the Gendarmerie and the National Guard are under the authority of the Ministry of Defense and Veterans Affairs (Ministere De La Defense Et Des Anciens Combattants, MDAC), but operational control is shared with the Ministry of Internal Security and Civil Protection which also controls the National Police; the National Police has responsibility for law enforcement and maintenance of order in urban areas and supports the FAMa in internal military operations<br><br><strong>note 2: </strong>the Gendarmerie's primary mission is internal security and public order; its duties also include territorial defense, humanitarian operations, intelligence gathering, and protecting private property, mainly in rural areas; it also has a specialized border security unit<br><br><strong>note 3: </strong>the National Guard is a military force responsible for providing security to government facilities and institutions, prison service, public order, humanitarian operations, some border security, and intelligence gathering; its forces include a camel corps for patrolling the deserts and borders of northern Mali<br><br><strong>note 4: </strong>there are also pro-government militias operating in Mali, such as the Imghad Tuareg Self-Defense Group and Allies (GATIA); the leader of GATIA is also a general in the national army<br>
 
 **Military expenditures**<br>
+4.3% of GDP (2024 est.)<br>
 4% of GDP (2023 est.)<br>
 3.5% of GDP (2022 est.)<br>
-3.5% of GDP (2021 est.)<br>
+3.4% of GDP (2021 est.)<br>
 3.4% of GDP (2020 est.)<br>
-3.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; estimated 35-40,000 active FAMa, Gendarmerie, and National Guard (2025)<br>
@@ -659,7 +659,7 @@ the FAMa's inventory includes a large amount of Soviet-era weapons and equipment
 18 years of age for men and women for selective compulsory and voluntary military service; 24-month compulsory service obligation (2023)<br>
 
 **Military deployments**<br>
-<strong>note: </strong>until announcing its withdrawal in May of 2022, Mali was part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mauritania, and Niger; Mali had committed 1,100 troops and 200 gendarmes to the force<br>
+<strong>note 1: </strong>in 2024, Mali, Burkina Faso, and Niger announced they were forming joint force of 5,000 troops to combat extremist groups in the Sahel<strong><br><br>note 2:</strong> until announcing its withdrawal in May of 2022, Mali was part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mauritania, and Niger; Mali had committed 1,100 troops and 200 gendarmes to the force<br>
 
 **Military - note**<br>
 the FAMa is responsible for defense of the country’s sovereignty and territory, but also has some domestic security duties, including the maintenance of public order and support to law enforcement if required, as well as counterterrorism and counterinsurgency operations; it also participates in socio-economic development projects; the military has traditionally played a large role in Mali’s politics; prior to the coup in August 2020 and military takeover in May 2021, it had intervened in the political arena at least five times since the country gained independence in 1960 (1968, 1976, 1978, 1991, 2012)<br><br>the FAMa and other security forces are actively engaged in operations against several insurgent/terrorist groups affiliated with al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS), as well as other rebel organizations, communal militias, and criminal bands spread across the central, northern, and southern regions of the country; the government is reportedly in control of only an estimated 10-20% of the country's central and northern territories, and attacks have increased in the more heavily populated south, including around the capital Bamako; the Macina Liberation Front (FLM), part of the Jama’at Nusrat al Islam wal Muslimin (JNIM) coalition of al-Qa'ida-linked terror groups, has played a large role in a surge in violence in Mali’s central and southern regions; in the north, ISIS in the Greater Sahara (ISIS-GS) has regained strength in recent years<br><br>the FAMa and the remainder of the security forces collapsed in 2012 during the fighting against Tuareg rebels and Islamic militants and have since been rebuilt with considerable external assistance, including the EU, France, and the UN; for example, the EU Training Mission in Mali (EUTM) from 2013-2022 trained as many as 15,000 Malian soldiers and eight combined arms battalions/battlegroups (Groupement Tactique InterArmes, GTIA), each of which was structured to be self-sufficient with its own motorized/mechanized infantry, light armor, commandos, artillery, engineers, and other support forces; the EUTM and the French military ended their missions in 2022 citing issues with the ruling military government, including human rights abuses and the presence of Russian private military contractors; the UN Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) operated in the country from 2013-2023 with the mission of providing security, rebuilding Malian security forces, protecting civilians, supporting national political dialogue, and assisting in the reestablishment of Malian government authority; MINUSMA had more than 15,000 personnel at its peak strength and lost over 300 peacekeepers during the course of the mission, which was concluded at the end of 2023 after the ruling junta demanded the withdrawal of foreign forces<br><br>the military government has increased security ties with Russia; Russia has provided military equipment, and in December 2021, Mali contracted with a Russian private military company to provide training and other support for local armed forces, as well as security for senior Malian officials (2024)<br>

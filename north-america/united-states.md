@@ -198,7 +198,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 3.68 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-2.9 beds/1,000 population (2017)<br>
+2.7 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.8% of population<br>
@@ -219,9 +219,9 @@ _spirits_: 3.29 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 23% (2020 est.)<br>
-_male_: 28.4% (2020 est.)<br>
-_female_: 17.5% (2020 est.)<br>
+_total_: 22.1% (2025 est.)<br>
+_male_: 27.7% (2025 est.)<br>
+_female_: 16.7% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 0.4% (2017/18)<br>
@@ -397,7 +397,7 @@ Democratic Party<br>Green Party<br>Libertarian Party<br>Republican Party<br>
 ADB (nonregional member), AfDB (nonregional member), ANZUS, APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE (observer), CERN (observer), CICA (observer), CP, EAPC, EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Quad, SAARC (observer), SELEC (observer), SICA (observer), SPC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNITAR, UNMIL, UNMISS, UNOOSA, UNRWA, UN Security Council (permanent), UNTSO, UPU, USMCA, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Flag description**<br>
-13 equal horizontal stripes of red (top and bottom) alternating with white; there is a blue rectangle in the upper hoist-side corner bearing 50 small, white, five-pointed stars arranged in nine offset horizontal rows of six stars (top and bottom) alternating with rows of five stars; the 50 stars represent the 50 states, the 13 stripes represent the 13 original colonies; blue stands for loyalty, devotion, truth, justice, and friendship, red symbolizes courage, zeal, and fervency, while white denotes purity and rectitude of conduct; commonly referred to by its nickname of Old Glory<br>
+13 equal horizontal stripes of red (top and bottom) alternating with white; a blue rectangle in the upper hoist-side corner has 50 five-pointed white stars, arranged in nine offset horizontal rows of six stars (top and bottom) alternating with rows of five stars; the stars represent the 50 states, and the stripes represent the 13 original colonies; blue stands for loyalty, devotion, truth, justice, and friendship, red for courage, zeal, and fervency, and white for purity and rectitude of conduct; commonly referred to by its nickname of "Old Glory"<br>
 <strong>note:</strong> the design and colors have been the basis for a number of other flags, including Chile, Liberia, Malaysia, and Puerto Rico<br>
 
 **National symbol(s)**<br>

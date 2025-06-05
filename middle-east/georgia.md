@@ -180,7 +180,7 @@ _unimproved: total_: total: 2.7% of population (2020 est.)<br>
 5.64 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-2.9 beds/1,000 population (2014)<br>
+4.9 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 96.3% of population<br>
@@ -201,9 +201,9 @@ _spirits_: 2.52 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.02 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 31.7% (2020 est.)<br>
-_male_: 56.3% (2020 est.)<br>
-_female_: 7.1% (2020 est.)<br>
+_total_: 28.7% (2025 est.)<br>
+_male_: 53.9% (2025 est.)<br>
+_female_: 7.5% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 2.1% (2018)<br>
@@ -212,9 +212,9 @@ _female_: 7.1% (2020 est.)<br>
 67.1% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.3%<br>
-_women married by age 18_: 13.9%<br>
-_men married by age 18_: 0.5% (2018 est.)<br>
+_women married by age 15_: 0.3% (2018)<br>
+_women married by age 18_: 13.9% (2018)<br>
+_men married by age 18_: 0.5% (2018)<br>
 
 **Education expenditures**<br>
 3.6% of GDP (2021 est.)<br>
@@ -335,7 +335,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 10/26/2024<br>
 _parties elected and seats per party_: Georgian Dream (89); Coalition for Changes (19); Unity - National Movement (16); Strong Georgia – Lelo, For people, For Liberty! (14); For Georgia (12)<br>
-_percentage of women in chamber_: 22%<br>
+_percentage of women in chamber_: 13.9%<br>
 _expected date of next election_: October 2028<br>
 
 **Judicial branch**<br>
@@ -367,7 +367,7 @@ _FAX_: [995] (32) 253-23-10<br>
 _email address and website_: <br>askconsultbilisi@state.gov<br><br>https://ge.usembassy.gov/<br>
 
 **Flag description**<br>
-white rectangle with a central red cross extending to all four sides of the flag; each of the four quadrants displays a small red bolnur-katskhuri cross; sometimes referred to as the Five-Cross Flag; although adopted as the official Georgian flag in 2004, the five-cross design is based on a 14th century banner of the Kingdom of Georgia<br>
+white rectangle with a central red cross extending to all four sides of the flag; each of the four quadrants displays a small red <em>bolnur-katskhuri</em> cross; sometimes referred to as the Five-Cross Flag, the design is based on a 14th-century banner of the Kingdom of Georgia<br>
 
 **National symbol(s)**<br>
 Saint George, lion; national colors: red, white<br>
@@ -652,11 +652,11 @@ _key ports_: Batumi, Sokhumi, Supsa Marine Terminal<br>
 Georgian Defense Forces (GDF; aka Defense Forces of Georgia, DFG): Ground Forces, Air Force, Special Operations Forces, National Guard<br><br>Ministry of Internal Affairs: Police, Border Police of Georgia, Coast Guard of Georgia (includes naval forces, which were merged with the Coast Guard in 2009) (2025)<br>
 
 **Military expenditures**<br>
+1.7% of GDP (2024 est.)<br>
 1.7% of GDP (2023 est.)<br>
-1.7% of GDP (2022 est.)<br>
-1.7% of GDP (2021 est.)<br>
-1.8% of GDP (2020 est.)<br>
-1.8% of GDP (2019 est.)<br>
+1.6% of GDP (2022 est.)<br>
+1.5% of GDP (2021 est.)<br>
+1.6% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Georgia Defense Forces are authorized up to 37,000 personnel (2025)<br>

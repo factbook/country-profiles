@@ -96,8 +96,6 @@ _conventional short form_: Paracel Islands<br>
 
 ## Economy
 
-## Communications
-
 ## Transportation
 
 **Airports**<br>

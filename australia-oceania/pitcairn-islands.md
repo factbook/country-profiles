@@ -183,7 +183,7 @@ none (overseas territory of the UK)<br>
 _embassy_: none (overseas territory of the UK)<br>
 
 **Flag description**<br>
-blue with the flag of the UK in the upper hoist-side quadrant and the Pitcairn Islander coat of arms centered on the outer half of the flag; the green, yellow, and blue of the shield represents the island rising from the ocean; the green field features a yellow anchor surmounted by a bible (both the anchor and the bible were items found on the HMS Bounty); sitting on the crest is a Pitcairn Island wheelbarrow from which springs a flowering twig of miro (a local plant)<br>
+blue with the UK flag in the upper hoist-side quadrant and the Pitcairn Islander coat of arms centered on the outer half of the flag; the green, yellow, and blue of the shield represents the island rising from the ocean; the green field features a yellow anchor with a Bible over it (both were found on the <em>HMS Bounty</em>); a Pitcairn Island wheelbarrow is on the crest, with a flowering twig of miro (a local plant)<br>
 
 **National anthem**<br>
 _name_: "We From Pitcairn Island"<br>

@@ -187,7 +187,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 4.48 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-4.6 beds/1,000 population (2018)<br>
+4.4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -208,12 +208,9 @@ _spirits_: 1.76 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.12 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 25.5% (2020 est.)<br>
-_male_: 28.1% (2020 est.)<br>
-_female_: 22.9% (2020 est.)<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
+_total_: 22.8% (2025 est.)<br>
+_male_: 25.5% (2025 est.)<br>
+_female_: 20.1% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 57.5% (2023 est.)<br>
@@ -351,7 +348,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 10/22/2023<br>
 _parties elected and seats per party_: Swiss People's Party (SVP/UDC) (62); Socialist Party (SP/PS) (41); Centre Party (29); FDP/The Liberals (FDP/PLR) (28); Green Party (GPS/PES) (23); Liberal Green Party (GLP/PVL) (10); Other (7)<br>
-_percentage of women in chamber_: 38.5%<br>
+_percentage of women in chamber_: 39%<br>
 _expected date of next election_: October 2027<br>
 
 **Legislative branch - upper chamber**<br>
@@ -362,7 +359,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 10/22/2023<br>
 _parties elected and seats per party_: Centre Party (15); FDP/The Liberals (FDP/PLR) (11); Socialist Party (SP/PS) (9); Swiss People's Party (SVP/UDC) (6); Green Party (GPS/PES) (3); Other (2)<br>
-_percentage of women in chamber_: 34.8%<br>
+_percentage of women in chamber_: 33.3%<br>
 _expected date of next election_: October 2027<br>
 
 **Judicial branch**<br>
@@ -395,8 +392,8 @@ _FAX_: [41] (031) 357-73-20<br>
 _email address and website_: <br>https://ch.usembassy.gov/<br>
 
 **Flag description**<br>
-red square with a bold, equilateral white cross in the center that does not extend to the edges of the flag; various medieval legends purport to describe the origin of the flag; a white cross used as identification for troops of the Swiss Confederation is first attested at the Battle of Laupen (1339)<br>
-<strong>note:</strong> in 1863, a newly formed international relief organization convening in Geneva, Switzerland sought to come up with an identifying flag or logo; they chose the inverse of the Swiss flag - a red cross on a white field - as their symbol; today that organization is known throughout the world as the International Red Cross<br>
+red square with an equilateral white cross in the center that does not extend to the edges of the flag; the origin of the flag is unclear, but a white cross was used to identify Swiss Confederation troops at the Battle of Laupen (1339)<br>
+<strong>note:</strong> in 1863, the newly formed International Red Cross chose the inverse of the Swiss flag -- a red cross on a white field -- as its symbol<br>
 
 **National symbol(s)**<br>
 Swiss cross (white cross on red field, arms equal length); national colors: red, white<br>
@@ -671,11 +668,11 @@ Swiss Armed Forces (aka Swiss Army or Schweizer Armee); Army (aka Land Forces), 
 <strong>note:</strong> the federal police maintain internal security and report to the Federal Department of Justice and Police<br>
 
 **Military expenditures**<br>
-0.7% of GDP (2023)<br>
-0.7% of GDP (2022)<br>
-0.7% of GDP (2021)<br>
-0.7% of GDP (2020)<br>
-0.7% of GDP (2019)<br>
+0.7% of GDP (2024 est.)<br>
+0.7% of GDP (2023 est.)<br>
+0.7% of GDP (2022 est.)<br>
+0.7% of GDP (2021 est.)<br>
+0.7% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 145,000 Swiss Armed Forces (2024)<br>

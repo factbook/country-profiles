@@ -186,7 +186,7 @@ _unimproved: total_: total: 6.7% of population (2020 est.)<br>
 0.52 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-1 beds/1,000 population (2017)<br>
+1.4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 97.2% of population<br>
@@ -207,9 +207,9 @@ _spirits_: 0.02 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 37.6% (2020 est.)<br>
-_male_: 71.4% (2020 est.)<br>
-_female_: 3.7% (2020 est.)<br>
+_total_: 39% (2025 est.)<br>
+_male_: 74.9% (2025 est.)<br>
+_female_: 3.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 17.7% (2018)<br>
@@ -218,8 +218,8 @@ _female_: 3.7% (2020 est.)<br>
 70% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 2%<br>
-_women married by age 18_: 16.3% (2017 est.)<br>
+_women married by age 15_: 2% (2017)<br>
+_women married by age 18_: 16.3% (2017)<br>
 
 **Education expenditures**<br>
 3.5% of GDP (2020 est.)<br>
@@ -380,7 +380,7 @@ _email address and website_: <br>washington.kbri@kemlu.go.id<br><br>Embassy of T
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Kamala Shirin LAKHDHIR (since 8 August 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Heather MERRITT (since May 2025)<br>
 _embassy_: Jl. Medan Merdeka Selatan No. 3-5, Jakarta 10110<br>
 _mailing address_: 8200 Jakarta Place, Washington DC&nbsp; 20521-8200<br>
 _telephone_: [62] (21) 5083-1000<br>
@@ -390,8 +390,8 @@ _consulate(s) general_: Surabaya<br>
 _consulate(s)_: Medan<br>
 
 **Flag description**<br>
-two equal horizontal bands of red (top) and white; the colors derive from the banner of the Majapahit Empire of the 13th-15th centuries; red symbolizes courage, white represents purity<br>
-<strong>note:</strong> similar to the flag of Monaco, which is shorter; also similar to the flag of Poland, which is white (top) and red<br>
+two equal horizontal bands of red (top) and white; the colors derive from the banner of the Majapahit Empire of the 13th-15th centuries; red symbolizes courage, and white represents purity<br>
+<strong>note:</strong> similar to the flags of Monaco, which is shorter, and Poland, which is white (top) and red<br>
 
 **National symbol(s)**<br>
 garuda (mythical bird); national colors: red, white<br>
@@ -681,11 +681,11 @@ Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-An
 <strong>note 1:</strong> the National Police are an independent organization reporting directly to the president of Indonesia<br><br><strong>note 2:</strong> the KPLP ensures the safety of shipping inside the Indonesian Maritime Zone; the Bakamla conducts security and safety patrols in the territorial waters of Indonesia<br>
 
 **Military expenditures**<br>
+0.8% of GDP (2024 est.)<br>
 0.8% of GDP (2023 est.)<br>
 0.8% of GDP (2022 est.)<br>
 0.8% of GDP (2021 est.)<br>
 0.8% of GDP (2020 est.)<br>
-0.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 400,000 active Armed Forces, including about 300,000 Army (2025)<br>

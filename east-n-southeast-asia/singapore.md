@@ -178,7 +178,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 2.83 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-2.5 beds/1,000 population (2017)<br>
+2.6 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -199,18 +199,16 @@ _spirits_: 0.24 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.04 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 16.5% (2020 est.)<br>
-_male_: 28% (2020 est.)<br>
-_female_: 5% (2020 est.)<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
+_total_: 16.2% (2025 est.)<br>
+_male_: 27.6% (2025 est.)<br>
+_female_: 3.8% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 54.3% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 18_: 0.1% (2022 est.)<br>
+_women married by age 15_: 0% (2023)<br>
+_women married by age 18_: 0.1% (2023)<br>
 
 **Education expenditures**<br>
 2.8% of GDP (2021 est.)<br>
@@ -328,10 +326,9 @@ _number of seats_: 104 (93 directly elected; 9 appointed)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 7/10/2020<br>
-_parties elected and seats per party_: People's Action Party (PAP) (83); Workers' Party (WPS) (10); Other (2)<br>
+_most recent election date_: 5/3/2025<br>
 _percentage of women in chamber_: 29.6%<br>
-_expected date of next election_: May 2025<br>
+_expected date of next election_: May 2030<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (number of judges varies but includes judicial commissioners, judges of appeal, and international judges); the court is organized into an upper-tier Appeal Court and a lower-tier High Court<br>
@@ -363,7 +360,7 @@ _FAX_: [65] 6476-9340<br>
 _email address and website_: <br>singaporeusembassy@state.gov<br><br>https://sg.usembassy.gov/<br>
 
 **Flag description**<br>
-two equal horizontal bands of red (top) and white; near the hoist side of the red band, there is a vertical, white crescent (closed portion is toward the hoist side) partially enclosing five white five-pointed stars arranged in a circle; red denotes brotherhood and equality; white signifies purity and virtue; the waxing crescent moon symbolizes a young nation on the ascendancy; the five stars represent the nation's ideals of democracy, peace, progress, justice, and equality<br>
+two equal horizontal bands of red (top) and white; near the hoist side of the red band is a vertical white crescent partially enclosing a circle of five white five-pointed stars; red stands for brotherhood and equality, and white for purity and virtue; the waxing crescent moon symbolizes a young nation on the ascendancy; the stars represent the national ideals of democracy, peace, progress, justice, and equality<br>
 
 **National symbol(s)**<br>
 lion, merlion (mythical half lion-half fish creature), orchid; national colors: red, white<br>

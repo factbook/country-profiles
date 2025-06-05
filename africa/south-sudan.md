@@ -187,9 +187,6 @@ _unimproved: total_: total: 75.4% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 6.6% (2014)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 72% (2023 est.)<br>
 
@@ -344,8 +341,8 @@ _telephone_: [211] 912-105-188<br>
 _email address and website_: <br>ACSJuba@state.gov<br><br>https://ss.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of black (top), red, and green; the red band is edged in white; a blue isosceles triangle based on the hoist side contains a gold, five-pointed star; black represents the people of South Sudan, red the blood shed in the struggle for freedom, green the verdant land, and blue the waters of the Nile; the gold star represents the unity of the states making up South Sudan<br>
-<strong>note:</strong> resembles the flag of Kenya; one of only two national flags to display six colors as part of its primary design, the other is South Africa's<br>
+three equal horizontal bands of black (top), red, and green; the red band is edged in white; a blue isosceles triangle based on the hoist side has a gold, five-pointed star; black stands for the people, red for the blood shed in the struggle for freedom, green for the land, and blue for the Nile; the gold star represents the unity of the country's states<br>
+<strong>note:</strong> resembles the flag of Kenya; South Sudan has one of two national flags that display six colors as part of the primary design -- the other is South Africa's<br>
 
 **National symbol(s)**<br>
 African fish eagle; national colors: red, green, blue, yellow, black, white<br>
@@ -576,11 +573,11 @@ South Sudan People’s Defense Force (SSPDF): Land Forces (includes Presidential
 <strong>note 1: </strong>the NUF are being formed by retraining rebel and pro-government militia fighters into military, police, and other government security forces; the first operational NUF deployed in November 2023<strong><br><br>note 2:</strong> numerous irregular forces operate in the country with official knowledge, including militias operated by the National Security Service (an internal security force under the Ministry of National Security) and proxy forces<br>
 
 **Military expenditures**<br>
-2.5% of GDP (2022 est.)<br>
+2% of GDP (2023 est.)<br>
+2% of GDP (2022 est.)<br>
 2% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
 3.1% of GDP (2019 est.)<br>
-3.2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; estimated 150-200,000 active Defense Forces (2025)<br>

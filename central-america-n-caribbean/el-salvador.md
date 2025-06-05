@@ -179,7 +179,7 @@ _unimproved: total_: total: 1.8% of population (2020 est.)<br>
 1.62 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-1.2 beds/1,000 population (2017)<br>
+1.2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -200,16 +200,16 @@ _spirits_: 1.37 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 7.9% (2020 est.)<br>
-_male_: 14.1% (2020 est.)<br>
-_female_: 1.7% (2020 est.)<br>
+_total_: 7.8% (2025 est.)<br>
+_male_: 14.7% (2025 est.)<br>
+_female_: 1.7% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 55% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 4.3%<br>
-_women married by age 18_: 19.7% (2021 est.)<br>
+_women married by age 15_: 4.3% (2021)<br>
+_women married by age 18_: 19.7% (2021)<br>
 
 **Education expenditures**<br>
 4.1% of GDP (2020 est.)<br>
@@ -359,8 +359,8 @@ _FAX_: [503] 2501-2150<br>
 _email address and website_: <br>ACSSanSal@state.gov<br><br>https://sv.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of cobalt blue (top), white, and cobalt blue with the national coat of arms centered in the white band; the coat of arms features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands symbolize the Pacific Ocean and the Caribbean Sea, while the white band represents the land between the two bodies of water, as well as peace and prosperity<br>
-<strong>note:</strong> similar to the flag of Nicaragua, which has a different coat of arms centered in the white band; also similar to the flag of Honduras, which has five blue stars arranged in an X pattern centered in the white band<br>
+three equal horizontal bands of cobalt blue (top), white, and cobalt blue with the national coat of arms centered in the white band; the coat of arms features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands stand for the Pacific Ocean and the Caribbean Sea, and the white for the land, as well as peace and prosperity<br>
+<strong>note:</strong> similar to the flag of Nicaragua, which has a different coat of arms centered in the white band; also similar to the flag of Honduras, which has five blue stars arranged in an X pattern and centered in the white band<br>
 
 **National symbol(s)**<br>
 turquoise-browed motmot (bird); national colors: blue, white<br>
@@ -633,11 +633,11 @@ _key ports_: Acajutla, Acajutla Offshore Terminal, La Union<br>
 The Armed Forces of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of El Salvador (Ejercito de El Salvador, ES), Naval Force of El Salvador (Fuerza Naval de El Salvador, FNES), Salvadoran Air Force (Fuerza Aérea Salvadoreña, FAS)<br><br>Ministry of Justice and Public Safety: National Civil Police (Policia Nacional Civil, PNC) (2025)<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2024 est.)<br>
 1.2% of GDP (2023 est.)<br>
-1.2% of GDP (2022 est.)<br>
+1.3% of GDP (2022 est.)<br>
 1.2% of GDP (2021 est.)<br>
-1.2% of GDP (2020 est.)<br>
-1.2% of GDP (2019 est.)<br>
+1.4% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active FAES (2025)<br>

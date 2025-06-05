@@ -177,7 +177,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 4.37 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-2.8 beds/1,000 population (2019)<br>
+2.8 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -198,9 +198,9 @@ _spirits_: 1.22 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 12% (2020 est.)<br>
-_male_: 11.9% (2020 est.)<br>
-_female_: 12% (2020 est.)<br>
+_total_: 8% (2025 est.)<br>
+_male_: 7.9% (2025 est.)<br>
+_female_: 8% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 45.1% (2023 est.)<br>
@@ -356,7 +356,7 @@ _FAX_: [354] 562-9118<br>
 _email address and website_: <br>ReykjavikConsular@state.gov<br><br>https://is.usembassy.gov/<br>
 
 **Flag description**<br>
-blue with a red cross outlined in white extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors represent three of the elements that make up the island: red is for the island's volcanic fires, white recalls the snow and ice fields of the island, and blue is for the surrounding ocean<br>
+blue with a red cross outlined in white extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); red stands for the island's volcanic fires, white for the snow and ice fields, and blue for the ocean<br>
 
 **National symbol(s)**<br>
 gyrfalcon; national colors: blue, white, red<br>
@@ -373,7 +373,7 @@ _selected World Heritage Site locales_: Thingvellir National Park (c); Surtsey (
 ## Economy
 
 **Economic overview**<br>
-high-income north Atlantic island economy; non-EU member but market integration via European Economic Area (EEA); dominant tourism, fishing, and aluminum industries vulnerable to demand swings and volcanic activity; inflation remains above target rate; barriers to foreign business access and economic diversification<br>
+<p>high-income North Atlantic island economy; not an EU member but market integration via European Economic Area (EEA); dominant tourism, fishing, and aluminum industries vulnerable to demand swings and disruption from volcanic activity; inflation remains above target rate; barriers to foreign business access and economic diversification</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $26.455 billion (2023 est.)<br>

@@ -186,9 +186,6 @@ _unimproved: total_: total: 8% of population (2020 est.)<br>
 **Physician density**<br>
 0.05 physicians/1,000 population (2022)<br>
 
-**Hospital bed density**<br>
-1.3 beds/1,000 population (2011)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 59.9% of population<br>
 _improved: rural_: rural: 35.9% of population<br>
@@ -208,9 +205,9 @@ _spirits_: 0.25 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 1.7 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 10.8% (2020 est.)<br>
-_male_: 17.5% (2020 est.)<br>
-_female_: 4.1% (2020 est.)<br>
+_total_: 6.3% (2025 est.)<br>
+_male_: 11.7% (2025 est.)<br>
+_female_: 1.4% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 11.7% (2020)<br>
@@ -219,9 +216,9 @@ _female_: 4.1% (2020 est.)<br>
 60.7% (2022 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 7.5%<br>
-_women married by age 18_: 37.7%<br>
-_men married by age 18_: 7% (2020 est.)<br>
+_women married by age 15_: 7.5% (2020)<br>
+_women married by age 18_: 37.7% (2020)<br>
+_men married by age 18_: 7% (2020)<br>
 
 **Education expenditures**<br>
 2.9% of GDP (2020 est.)<br>
@@ -383,7 +380,7 @@ _FAX_: [265] (0) 177-0471<br>
 _email address and website_: <br>LilongweConsular@state.gov<br><br>https://mw.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of black (top), red, and green with a radiant, rising, red sun centered on the black band; black represents the native peoples, red the blood shed in their struggle for freedom, and green the color of nature; the rising sun represents the hope of freedom for the continent of Africa<br>
+three equal horizontal bands of black (top), red, and green, with a rising red sun centered on the black band; black represents ethnic groups, red the blood shed in their struggle for freedom, and green the color of nature; the sun represents the hope of freedom for the continent of Africa<br>
 
 **National symbol(s)**<br>
 lion; national colors: black, red, green<br>
@@ -632,11 +629,11 @@ Malawi Defense Force (MDF): Malawi Army (Land Forces), Malawi Maritime Force (MM
 <strong>note:</strong> the MDF reports directly to the president as commander in chief<br>
 
 **Military expenditures**<br>
-0.7% of GDP (2023 est.)<br>
-0.7% of GDP (2022 est.)<br>
+0.8% of GDP (2024 est.)<br>
+1% of GDP (2023 est.)<br>
+0.8% of GDP (2022 est.)<br>
 0.9% of GDP (2021 est.)<br>
 0.9% of GDP (2020 est.)<br>
-1.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 10,000 active Malawi Defense Forces (2025)<br>

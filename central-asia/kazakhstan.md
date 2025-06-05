@@ -188,7 +188,7 @@ _unimproved: total_: total: 2.6% of population (2020 est.)<br>
 3.75 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-6.1 beds/1,000 population (2014)<br>
+6.7 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.9% of population<br>
@@ -209,15 +209,19 @@ _spirits_: 1.05 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 23.2% (2020 est.)<br>
-_male_: 39.6% (2020 est.)<br>
-_female_: 6.7% (2020 est.)<br>
+_total_: 20.1% (2025 est.)<br>
+_male_: 35.7% (2025 est.)<br>
+_female_: 6.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 2% (2015)<br>
 
 **Currently married women (ages 15-49)**<br>
 61.8% (2023 est.)<br>
+
+**Child marriage**<br>
+_women married by age 15_: 0.2% (2015)<br>
+_women married by age 18_: 7% (2015)<br>
 
 **Education expenditures**<br>
 4.5% of GDP (2020 est.)<br>
@@ -395,7 +399,7 @@ _email address and website_: <br>USAKZ@state.gov<br><br>https://kz.usembassy.gov
 _consulate(s) general_: Almaty<br>
 
 **Flag description**<br>
-a gold sun with 32 rays above a soaring golden steppe eagle, both centered on a sky blue background; the hoist side displays a national ornamental pattern "koshkar-muiz" (the horns of the ram) in gold; the blue color is of religious significance to the Turkic peoples of the country, and so symbolizes cultural and ethnic unity; it also represents the endless sky as well as water; the sun, a source of life and energy, exemplifies wealth and plenitude; the sun's rays are shaped like grain, which is the basis of abundance and prosperity; the eagle has appeared on the flags of Kazakh tribes for centuries and represents freedom, power, and the flight to the future<br>
+a gold sun with 32 rays above a soaring golden steppe eagle, both centered on a sky-blue background; the hoist side displays a national pattern called <em>koshkar-muiz</em> (the horns of the ram) in gold; the blue color has religious significance for the Turkic peoples and symbolizes cultural and ethnic unity, as well as sky and water; the sun stands for wealth and plenitude, with rays shaped like grain; the eagle has appeared on Kazakh tribal flags for centuries and represents freedom, power, and the flight to the future<br>
 
 **National symbol(s)**<br>
 golden eagle; national colors: blue, yellow<br>
@@ -676,11 +680,11 @@ Armed Forces of the Republic of Kazakhstan: Land Forces (Army of Kazakhstan), Na
 <strong>note:</strong> the National Guard is a gendarmerie type force administered by the Ministry of Internal Affairs, but also serves the Ministry of Defense; it is responsible for fighting crime, maintaining public order, and ensuring public safety; other duties include anti-terrorism operations, guarding prisons, riot control, and territorial defense in time of war<br>
 
 **Military expenditures**<br>
-0.8% of GDP (2023 est.)<br>
-0.7% of GDP (2022 est.)<br>
+0.9% of GDP (2024 est.)<br>
+1% of GDP (2023 est.)<br>
+0.9% of GDP (2022 est.)<br>
 1% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
-1.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 available information varies widely; estimated 50,000 active Armed Forces; estimated 30,000 National Guard (2025)<br>

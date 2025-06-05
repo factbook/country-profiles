@@ -171,9 +171,6 @@ _unimproved: total_: total: 19.7% of population (2020 est.)<br>
 **Physician density**<br>
 0.56 physicians/1,000 population (2023)<br>
 
-**Hospital bed density**<br>
-2.1 beds/1,000 population (2011)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 92.3% of population<br>
 _improved: rural_: rural: 83.9% of population<br>
@@ -193,12 +190,17 @@ _spirits_: 0 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 5.17 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 9.2% (2020 est.)<br>
-_male_: 16.5% (2020 est.)<br>
-_female_: 1.8% (2020 est.)<br>
+_total_: 8.5% (2025 est.)<br>
+_male_: 16.1% (2025 est.)<br>
+_female_: 1.2% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 37.1% (2023 est.)<br>
+
+**Child marriage**<br>
+_women married by age 15_: 0.1% (2022)<br>
+_women married by age 18_: 1.9% (2022)<br>
+_men married by age 18_: 0% (2022)<br>
 
 **Education expenditures**<br>
 5% of GDP (2021 est.)<br>
@@ -363,18 +365,18 @@ _FAX_: [268] 2416-3344<br>
 _email address and website_: <br>ConsularMbabane@state.gov<br><br>Homepage - U.S. Embassy in Eswatini (usembassy.gov)<br>
 
 **Flag description**<br>
-three horizontal bands of blue (top), red (triple width), and blue; the red band is edged in yellow; centered in the red band is a large black and white shield covering two spears and a staff decorated with feather tassels, all placed horizontally; blue stands for peace and stability, red represents past struggles, and yellow the mineral resources of the country; the shield, spears, and staff symbolize protection from the country's enemies, while the black and white of the shield are meant to portray black and white people living in peaceful coexistence<br>
+three horizontal bands of blue (top), red (triple-width), and blue; the red band is edged in yellow, with a large black-and-white shield in the center and covering two horizontal spears and a staff with feather tassels; blue stands for peace and stability, red for past struggles, and yellow for the mineral resources of the country; the shield, spears, and staff symbolize protection from enemies, and the shield colors stand for ethnic groups living in peaceful coexistence<br>
 
 **National symbol(s)**<br>
 lion, elephant; national colors: blue, yellow, red<br>
+
+**National coat of arms**<br>
+Eswatini&rsquo;s national coat of arms was adopted in 1968 after it gained independence from the United Kingdom. Two national symbols, the lion (representing the king of Eswatini) and the elephant (representing the queen mother), support a traditional Nguni shield. Above the shield is the king's lidlabe, or crown of feathers, and at the bottom is Eswatini's motto, &ldquo;Siyinqaba,&rdquo; or "We are the fortress.&rdquo;<br>
 
 **National anthem**<br>
 _name_: "Nkulunkulu Mnikati wetibusiso temaSwati" (Oh God, Bestower of the Blessings of the Swazi)<br>
 _lyrics/music_: Andrease Enoke Fanyana SIMELANE/David Kenneth RYCROFT<br>
 <strong>note:</strong> adopted 1968; uses elements of both ethnic Swazi and Western music styles<br>
-
-**National coat of arms**<br>
-Eswatini&rsquo;s national coat of arms was adopted in 1968 after it gained independence from the United Kingdom. Two national symbols, the lion (representing the king of Eswatini) and the elephant (representing the queen mother), support a traditional Nguni shield. Above the shield is the king's lidlabe, or crown of feathers, and at the bottom is Eswatini's motto, &ldquo;Siyinqaba,&rdquo; or "We are the fortress.&rdquo;<br>
 
 ## Economy
 
@@ -618,11 +620,11 @@ _narrow gauge_: 301 km (2014) 1.067-m gauge<br>
 Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing); the Royal Eswatini Police Service (REPS) (2025)<br>
 
 **Military expenditures**<br>
-1.6% of GDP (2023 est.)<br>
+1.4% of GDP (2024 est.)<br>
+1.4% of GDP (2023 est.)<br>
 1.6% of GDP (2022 est.)<br>
 1.7% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
-1.9% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 3,000 active-duty Defense Force (2023)<br>

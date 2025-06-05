@@ -275,7 +275,7 @@ none (overseas territory of the UK)<br>
 _embassy_: none (overseas territory of the UK)<br>
 
 **Flag description**<br>
-two horizontal bands of white (top, double width) and red with a three-towered red castle in the center of the white band; hanging from the castle gate is a gold key centered in the red band; the design is that of Gibraltar's coat of arms granted on 10 July 1502 by King Ferdinand and Queen Isabella of Spain; the castle symbolizes Gibraltar as a fortress, while the key represents Gibraltar's strategic importance - the key to the Mediterranean<br>
+two horizontal bands of white (top, double-width) and red with a three-towered red castle in the center of the white band; a gold key hangs from the castle gate and is centered in the red band; the design comes from Gibraltar's coat of arms that was granted on 10 July 1502 by King Ferdinand and Queen Isabella of Spain; the castle symbolizes Gibraltar as a fortress, and the key represents Gibraltar's strategic importance -- the key to the Mediterranean<br>
 
 **National symbol(s)**<br>
 Barbary partridge; national colors: red, white, yellow<br>

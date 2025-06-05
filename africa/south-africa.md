@@ -207,20 +207,20 @@ _spirits_: 1.31 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.7 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 20.3% (2020 est.)<br>
-_male_: 34% (2020 est.)<br>
-_female_: 6.5% (2020 est.)<br>
+_total_: 20.1% (2025 est.)<br>
+_male_: 35.3% (2025 est.)<br>
+_female_: 6% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-5.5% (2017)<br>
+4.9% (2017)<br>
 
 **Currently married women (ages 15-49)**<br>
 36.9% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.9%<br>
-_women married by age 18_: 3.6%<br>
-_men married by age 18_: 0.6% (2016 est.)<br>
+_women married by age 15_: 0.9% (2016)<br>
+_women married by age 18_: 3.6% (2016)<br>
+_men married by age 18_: 0.6% (2016)<br>
 
 **Education expenditures**<br>
 6.6% of GDP (2021 est.)<br>
@@ -352,7 +352,7 @@ _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 5/29/2024<br>
-_percentage of women in chamber_: 44.8%<br>
+_percentage of women in chamber_: 44.7%<br>
 _expected date of next election_: May 2029<br>
 
 **Legislative branch - upper chamber**<br>
@@ -394,8 +394,8 @@ _email address and website_: <br>ACSJohannesburg@state.gov<br><br>https://za.use
 _consulate(s) general_: Cape Town, Durban, Johannesburg<br>
 
 **Flag description**<br>
-two equal width horizontal bands of red (top) and blue separated by a central green band that splits into a horizontal Y, the arms of which end at the corners of the hoist side; the Y embraces a black isosceles triangle from which the arms are separated by narrow yellow bands; the red and blue bands are separated from the green band and its arms by narrow white stripes; the flag colors do not have any official symbolism, but the Y stands for the "convergence of diverse elements within South African society, taking the road ahead in unity"; black, yellow, and green are found on the flag of the African National Congress, while red, white, and blue are the colors in the flags of the Netherlands and the UK, whose settlers ruled South Africa during the colonial era<br>
-<strong>note:</strong> the South African flag is one of only two national flags to display six colors as part of its primary design, the other is South Sudan's<br>
+two equal-width horizontal bands of red (top) and blue separated by a central green band that splits into a horizontal Y; a black isosceles triangle is in the Y, with narrow yellow bands around it; the red and blue bands are bordered by narrow white stripes; the colors have no official meaning, but the Y stands for "the convergence of diverse elements within South African society, taking the road ahead in unity"<br>
+<strong>note:</strong> South Africa has one of two national flags that display six colors as part of the primary design -- the other is South Sudan's<br>
 
 **National symbol(s)**<br>
 springbok (antelope), king protea flower; national colors: red, green, blue, yellow, black, white<br>

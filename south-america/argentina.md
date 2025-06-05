@@ -189,7 +189,7 @@ _unimproved: total_: total: (2020 est.) NA<br>
 5.11 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-5 beds/1,000 population (2017)<br>
+3.3 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -209,9 +209,9 @@ _spirits_: 0.72 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.72 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 24.5% (2020 est.)<br>
-_male_: 29.4% (2020 est.)<br>
-_female_: 19.6% (2020 est.)<br>
+_total_: 21.9% (2025 est.)<br>
+_male_: 26.9% (2025 est.)<br>
+_female_: 17.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 2% (2018/19)<br>
@@ -220,8 +220,8 @@ _female_: 19.6% (2020 est.)<br>
 48.9% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 2.4%<br>
-_women married by age 18_: 15.5% (2020 est.)<br>
+_women married by age 15_: 2.4% (2020)<br>
+_women married by age 18_: 15.5% (2020)<br>
 
 **Education expenditures**<br>
 5% of GDP (2020 est.)<br>
@@ -693,7 +693,7 @@ Armed Forces of the Argentine Republic (Fuerzas Armadas de la República Argenti
 <strong>note: </strong>all federal police forces are under the Ministry of Security<br>
 
 **Military expenditures**<br>
-0.8% of GDP (2024 est.)<br>
+0.6% of GDP (2024 est.)<br>
 0.5% of GDP (2023 est.)<br>
 0.6% of GDP (2022 est.)<br>
 0.8% of GDP (2021 est.)<br>

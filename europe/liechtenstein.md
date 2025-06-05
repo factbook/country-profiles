@@ -300,7 +300,7 @@ _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 2/9/2025<br>
-_parties elected and seats per party_: Patriotic Union (VU) (10); Progressive Citizens' Party (FBP) (10); Free List (FL) (3); Democrats for Liechtenstein (DpL) (2)<br>
+_parties elected and seats per party_: Patriotic Union (VU) (10); Progressive Citizens' Party (FBP) (7); Democrats for Liechtenstein (DpL) (6); Free List (FL) (2)<br>
 _percentage of women in chamber_: 32%<br>
 _expected date of next election_: February 2029<br>
 
@@ -326,18 +326,18 @@ _email address and website_: <br>washington@llv.li<br><br>https://www.liechtenst
 _embassy_: the US does not have an embassy in Liechtenstein; the US Ambassador to Switzerland is accredited to Liechtenstein<br>
 
 **Flag description**<br>
-two equal horizontal bands of blue (top) and red with a gold crown on the hoist side of the blue band; the colors may derive from the blue and red livery design used in the principality's household in the 18th century; the prince's crown was introduced in 1937 to distinguish the flag from that of Haiti<br>
+two equal horizontal bands of blue (top) and red, with a gold crown on the hoist side of the blue band; the colors may derive from the blue-and-red livery used in the principality's household in the 18th century; the prince's crown was introduced in 1937 to distinguish it from Haiti's flag<br>
 
 **National symbol(s)**<br>
 princely hat (crown); national colors: blue, red<br>
+
+**National coat of arms**<br>
+<p>The six motifs on Liechtenstein's coat of arms provide a history of the royal House of Liechtenstein since 1719, when the country was founded. The small shield at the center is the royal family’s gold-and-red coat of arms, the gold-crowned eagle signifies the Silesia family, the diamond wreath represents the Kuenringer family, the red-and-silver shield is the Duchy of Troppau, the black eagle comes from the coat of arms of a family that married into the royal line, and the golden hunting horn represents the Duchy of Jägerndorf.</p> <p> </p><br>
 
 **National anthem**<br>
 _name_: "Oben am jungen Rhein" (High Above the Young Rhine)<br>
 _lyrics/music_: Jakob Joseph JAUCH/Josef FROMMELT<br>
 <strong>note:</strong> adopted 1850, revised 1963; uses the tune of "God Save the King"<br>
-
-**National coat of arms**<br>
-<p>The six motifs on Liechtenstein's coat of arms provide a history of the royal House of Liechtenstein since 1719, when the country was founded. The small shield at the center is the royal family’s gold-and-red coat of arms, the gold-crowned eagle signifies the Silesia family, the diamond wreath represents the Kuenringer family, the red-and-silver shield is the Duchy of Troppau, the black eagle comes from the coat of arms of a family that married into the royal line, and the golden hunting horn represents the Duchy of Jägerndorf.</p> <p> </p><br>
 
 ## Economy
 

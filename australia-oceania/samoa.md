@@ -191,20 +191,20 @@ _spirits_: 0.17 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 25.3% (2020 est.)<br>
-_male_: 36.1% (2020 est.)<br>
-_female_: 14.5% (2020 est.)<br>
+_total_: 20.5% (2025 est.)<br>
+_male_: 28.6% (2025 est.)<br>
+_female_: 12.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-3.4% (2019/20)<br>
+3.4% (2019)<br>
 
 **Currently married women (ages 15-49)**<br>
 61.7% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.9%<br>
-_women married by age 18_: 7.4%<br>
-_men married by age 18_: 2% (2020 est.)<br>
+_women married by age 15_: 0.9% (2020)<br>
+_women married by age 18_: 7.4% (2020)<br>
+_men married by age 18_: 2% (2020)<br>
 
 **Education expenditures**<br>
 4.8% of GDP (2020 est.)<br>
@@ -345,7 +345,7 @@ _FAX_: [685] 22-030<br>
 _email address and website_: <br>ApiaConsular@state.gov<br><br>https://ws.usembassy.gov/<br>
 
 **Flag description**<br>
-red with a blue rectangle in the upper hoist-side quadrant bearing five white, five-pointed stars representing the Southern Cross constellation; red stands for courage, blue represents freedom, and white signifies purity<br>
+red with a blue rectangle in the upper hoist-side quadrant bearing five white, five-pointed stars that represent the Southern Cross constellation; red stands for courage, blue for freedom, and white for purity<br>
 <strong>note:</strong> similar to the flag of Taiwan<br>
 
 **National symbol(s)**<br>
@@ -551,7 +551,7 @@ state-owned TV station privatized in 2008; 4 privately owned TV stations; about 
 .ws<br>
 
 **Internet users**<br>
-_percent of population_: 75% (2022 est.)<br>
+_percent of population_: 58% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,000 (2022 est.)<br>

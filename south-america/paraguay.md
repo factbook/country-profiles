@@ -187,7 +187,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 3.89 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-0.8 beds/1,000 population (2016)<br>
+1 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.6% of population<br>
@@ -208,9 +208,9 @@ _spirits_: 1.59 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.03 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 11.5% (2020 est.)<br>
-_male_: 18.6% (2020 est.)<br>
-_female_: 4.4% (2020 est.)<br>
+_total_: 9.3% (2025 est.)<br>
+_male_: 15.5% (2025 est.)<br>
+_female_: 3.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 1.3% (2016)<br>
@@ -219,8 +219,8 @@ _female_: 4.4% (2020 est.)<br>
 59.4% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 3.6%<br>
-_women married by age 18_: 21.6% (2016 est.)<br>
+_women married by age 15_: 3.6% (2016)<br>
+_women married by age 18_: 21.6% (2016)<br>
 
 **Education expenditures**<br>
 3.3% of GDP (2020 est.)<br>
@@ -388,8 +388,8 @@ _FAX_: [595] (21) 213-728<br>
 _email address and website_: <br>ParaguayACS@state.gov<br><br>https://py.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal, horizontal bands of red (top), white, and blue with an emblem centered in the white band; unusual flag in that the emblem is different on each side; the obverse (hoist side at the left) bears the national coat of arms (a yellow five-pointed star within a green wreath capped by the words REPUBLICA DEL PARAGUAY, all within two circles); the reverse (hoist side at the right) bears a circular seal of the treasury (a yellow lion below a red Cap of Liberty and the words PAZ Y JUSTICIA (Peace and Justice)); red symbolizes bravery and patriotism, white represents integrity and peace, and blue denotes liberty and generosity<br>
-<strong>note:</strong> the three color bands resemble those on the flag of the Netherlands; one of only three national flags that differ on their obverse and reverse sides - the others are Moldova and Saudi Arabia<br>
+three equal horizontal bands of red (top), white, and blue, with an emblem centered in the white band; the emblem is different on each side; one side (hoist side at the left) has the national coat of arms (a five-pointed yellow star in a green wreath and capped by the words REPUBLICA DEL PARAGUAY, all inside two circles); the other side (hoist side at the right) has a circular treasury seal (a yellow lion below a red Cap of Liberty and the words PAZ Y JUSTICIA, or Peace and Justice); red stands for bravery and patriotism, white for integrity and peace, and blue for liberty and generosity<br>
+<strong>note:</strong> the three color bands resemble the Dutch flag; one of three national flags that differ on each side -- the others are Moldova and Saudi Arabia<br>
 
 **National symbol(s)**<br>
 lion; national colors: red, white, blue<br>
@@ -660,11 +660,11 @@ _key ports_: Puerto de Asuncion<br>
 Armed Forces of Paraguay (Fuerzas Armadas de Paraguay; aka Armed Forces of the Nation or Fuerzas Armadas de la Nación): Paraguayan Army (Ejército Paraguayo), Paraguayan Navy (Armada Paraguaya; includes marines), Paraguayan Air Force (Fuerza Aérea Paraguaya)<br><br>Ministry of Internal Affairs: National Police of Paraguay (Policía Nacional del Paraguay, PNP) (2025)<br>
 
 **Military expenditures**<br>
+0.8% of GDP (2024 est.)<br>
 0.8% of GDP (2023 est.)<br>
 0.8% of GDP (2022 est.)<br>
 1% of GDP (2021 est.)<br>
 1% of GDP (2020 est.)<br>
-1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 15,000 active-duty Armed Forces (2025)<br>

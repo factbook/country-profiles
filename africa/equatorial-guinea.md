@@ -350,7 +350,7 @@ _telephone_: [240] 333 09-57-41<br>
 _email address and website_: <br>Malaboconsular@state.gov<br><br>https://gq.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of green (top), white, and red, with a blue isosceles triangle based on the hoist side and the coat of arms centered in the white band; the coat of arms has six yellow six-pointed stars (representing the mainland and five offshore islands) above a gray shield bearing a silk-cotton tree and below which is a scroll with the motto UNIDAD, PAZ, JUSTICIA (Unity, Peace, Justice); green symbolizes the jungle and natural resources, blue represents the sea that connects the mainland to the islands, white stands for peace, and red recalls the fight for independence<br>
+three equal horizontal bands of green (top), white, and red, with a blue isosceles triangle based on the hoist side and the coat of arms centered in the white band; the coat of arms has six yellow six-pointed stars (representing the mainland and five offshore islands) above a gray shield bearing a silk-cotton tree; below is a scroll with the motto UNIDAD, PAZ, JUSTICIA (Unity, Peace, Justice); green stands for the jungle and natural resources, blue for the sea, white for peace, and red for the fight for independence<br>
 
 **National symbol(s)**<br>
 silk cotton tree; national colors: green, white, red, blue<br>
@@ -554,7 +554,7 @@ the state maintains control of broadcast media; 1 state-owned TV station, 1 priv
 .gq<br>
 
 **Internet users**<br>
-_percent of population_: 67% (2022 est.)<br>
+_percent of population_: 60% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,000 (2022 est.)<br>
@@ -588,11 +588,11 @@ Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Arm
 <strong>note:</strong> the National Police report to the Ministry of National Security, while the Gendarmerie reports to the Ministry of National Defense; police generally are responsible for maintaining law and order in the cities, while gendarmes are responsible for security outside cities and for special events<br>
 
 **Military expenditures**<br>
+1% of GDP (2024)<br>
 1.6% of GDP (2023 est.)<br>
-1.1% of GDP (2022 est.)<br>
+1.3% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
-1.5% of GDP (2020 est.)<br>
-1.5% of GDP (2019 est.)<br>
+1.6% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 2,000 active Armed Forces, including Gendarmerie (2025)<br>

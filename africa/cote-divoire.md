@@ -204,9 +204,9 @@ _spirits_: 0.2 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.04 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 9.4% (2020 est.)<br>
-_male_: 17.9% (2020 est.)<br>
-_female_: 0.9% (2020 est.)<br>
+_total_: 7.8% (2025 est.)<br>
+_male_: 14.9% (2025 est.)<br>
+_female_: 0.6% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 14% (2021)<br>
@@ -215,9 +215,9 @@ _female_: 0.9% (2020 est.)<br>
 60.3% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 7%<br>
-_women married by age 18_: 27%<br>
-_men married by age 18_: 3.5% (2016 est.)<br>
+_women married by age 15_: 7.4% (2021)<br>
+_women married by age 18_: 25.8% (2021)<br>
+_men married by age 18_: 1.9% (2021)<br>
 
 **Education expenditures**<br>
 3.4% of GDP (2020 est.)<br>
@@ -666,11 +666,11 @@ Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republi
 <strong>note:</strong> the National Gendarmerie is a paramilitary force under the Ministry of Defense that is responsible for ensuring public safety, maintaining order, enforcing laws, and protecting institutions, people, and property; it is organized into mobile and territorial components; the Mobile Gendarmerie is responsible for maintaining and restoring order and is considered the backbone of the country’s domestic security; the Territorial Gendarmerie is responsible for the administrative, judicial, and military police; the Gendarmerie also has separate specialized units for security, intervention (counterterrorism, hostage rescue, etc), VIP protection, and surveillance<br>
 
 **Military expenditures**<br>
+0.8% of GDP (2024 est.)<br>
 0.9% of GDP (2023 est.)<br>
 0.9% of GDP (2022 est.)<br>
 1.1% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
-1.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25-30,000 active FACI, including Gendarmerie personnel (2025)<br>

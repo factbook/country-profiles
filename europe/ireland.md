@@ -176,7 +176,7 @@ _unimproved: total_: total: 2.6% of population (2020 est.)<br>
 3.88 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-3 beds/1,000 population (2018)<br>
+2.9 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 97.8% of population<br>
@@ -197,9 +197,9 @@ _spirits_: 2.29 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.82 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 20.8% (2020 est.)<br>
-_male_: 22.5% (2020 est.)<br>
-_female_: 19% (2020 est.)<br>
+_total_: 16.8% (2025 est.)<br>
+_male_: 19.2% (2025 est.)<br>
+_female_: 14.4% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 52.1% (2023 est.)<br>
@@ -369,8 +369,8 @@ _FAX_: [353] (1) 688-8056<br>
 _email address and website_: <br>ACSDublin@state.gov<br><br>https://ie.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal vertical bands of green (hoist side), white, and orange; officially the flag colors have no meaning, but a common interpretation is that the green represents the Irish nationalist (Gaelic) tradition of Ireland; orange represents the Orange tradition (minority supporters of William of Orange); white symbolizes peace (or a lasting truce) between the green and the orange<br>
-<strong>note:</strong> similar to the flag of Cote d'Ivoire, which is shorter and has the colors reversed - orange (hoist side), white, and green; also similar to the flag of Italy, which is shorter and has colors of green (hoist side), white, and red<br>
+three equal vertical bands of green (hoist side), white, and orange; the flag colors have no official meaning, but a common interpretation is that the green stands for the Irish nationalist tradition, orange for the Orange tradition (minority supporters of William of Orange), and white for peace or a lasting truce between the green and the orange<br>
+<strong>note:</strong> similar to the flag of Cote d'Ivoire, which is shorter and has the colors reversed; also similar to the flag of Italy, which is shorter and has red instead of orange<br>
 
 **National symbol(s)**<br>
 harp, shamrock (trefoil); national colors: blue, green<br>
@@ -650,11 +650,11 @@ Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Re
 <strong>note:</strong> An Garda Siochana (or Garda) is the national police force and maintains internal security under the auspices of the Department of Justice<br>
 
 **Military expenditures**<br>
+0.2% of GDP (2024 est.)<br>
 0.2% of GDP (2023 est.)<br>
 0.3% of GDP (2022 est.)<br>
 0.3% of GDP (2021 est.)<br>
 0.3% of GDP (2020 est.)<br>
-0.3% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 7,500 active-duty Defense Forces (authorized establishment of 9,500) (2025)<br>

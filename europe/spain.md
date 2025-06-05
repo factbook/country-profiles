@@ -187,7 +187,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 4.29 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-3 beds/1,000 population (2018)<br>
+2.9 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -208,12 +208,9 @@ _spirits_: 2.34 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.19 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 27.7% (2020 est.)<br>
-_male_: 28.6% (2020 est.)<br>
-_female_: 26.7% (2020 est.)<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
+_total_: 23.9% (2025 est.)<br>
+_male_: 25.8% (2025 est.)<br>
+_female_: 22% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 50.1% (2023 est.)<br>
@@ -394,8 +391,7 @@ _email address and website_: <br>askACS@state.gov<br><br>https://es.usembassy.go
 _consulate(s) general_: Barcelona<br>
 
 **Flag description**<br>
-three horizontal bands of red (top), yellow (double width), and red with the national coat of arms on the hoist side of the yellow band; the coat of arms is quartered to display the emblems of the traditional kingdoms of Spain (clockwise from upper left, Castile, Leon, Navarre, and Aragon) while Granada is represented by the stylized pomegranate at the bottom of the shield; the arms are framed by two columns representing the Pillars of Hercules, which are the two promontories (Gibraltar and Ceuta) on either side of the eastern end of the Strait of Gibraltar; the red scroll across the two columns bears the imperial motto of "Plus Ultra" (further beyond) referring to Spanish lands beyond Europe; the triband arrangement with the center stripe twice the width of the outer dates to the 18th century<br>
-<strong>note:</strong> the red and yellow colors are related to those of the oldest Spanish kingdoms: Aragon, Castile, Leon, and Navarre<br>
+three horizontal bands of red (top), yellow (double-width), and red, with the national coat of arms on the hoist side of the yellow band; the coat of arms shows the emblems of the area's former kingdoms (clockwise from upper left: Castile, Leon, Navarre, and Aragon), which also used red and yellow as their colors; Granada is represented by the stylized pomegranate at the bottom of the shield; the two columns represent the Pillars of Hercules, which are promontories (Gibraltar and Ceuta) on the Strait of Gibraltar; a red scroll bears the imperial motto of "Plus Ultra" (further beyond), referring to Spanish lands outside Europe<br>
 
 **National symbol(s)**<br>
 Pillars of Hercules; national colors: red, yellow<br>

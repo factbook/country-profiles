@@ -170,9 +170,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Physician density**<br>
 8.61 physicians/1,000 population (2020)<br>
 
-**Hospital bed density**<br>
-13.8 beds/1,000 population (2012)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: NA<br>
@@ -312,8 +309,8 @@ _consulate(s) general_: New York<br>
 _embassy_: US does not have an embassy in Monaco; the US Ambassador to France is accredited to Monaco; the US Consul General in Marseille (France), under the authority of the US Ambassador to France, handles diplomatic and consular matters concerning Monaco; +(33)(1) 43-12-22-22, enter zero "0" after the automated greeting; US Embassy Paris, 2 Avenue Gabriel, 75008 Paris, France<br>
 
 **Flag description**<br>
-two equal horizontal bands of red (top) and white; the colors are those of the ruling House of Grimaldi and have been in use since 1339, making the flag one of the world's oldest national banners<br>
-<strong>note:</strong> similar to the flag of Indonesia which is longer and the flag of Poland which is white (top) and red<br>
+two equal horizontal bands of red (top) and white; the colors are those of the ruling House of Grimaldi and have been in use since 1339, making the national flag one of the world's oldest<br>
+<strong>note:</strong> similar to the flags of Indonesia (longer) and Poland (colors reversed)<br>
 
 **National symbol(s)**<br>
 red and white lozenges (diamond shapes); national colors: red, white<br>

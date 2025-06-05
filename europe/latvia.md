@@ -180,7 +180,7 @@ _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 3.4 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-5.5 beds/1,000 population (2018)<br>
+5.3 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 98.9% of population<br>
@@ -201,9 +201,9 @@ _spirits_: 5.3 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 1 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 37% (2020 est.)<br>
-_male_: 50.3% (2020 est.)<br>
-_female_: 23.7% (2020 est.)<br>
+_total_: 28.8% (2025 est.)<br>
+_male_: 43.5% (2025 est.)<br>
+_female_: 16.4% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 49.1% (2023 est.)<br>
@@ -358,7 +358,7 @@ _FAX_: [371] 6710-7050<br>
 _email address and website_: <br>askconsular-riga@state.gov<br><br>https://lv.usembassy.gov/<br>
 
 **Flag description**<br>
-three horizontal bands of maroon (top), white (half-width), and maroon; the flag is one of the older banners in the world; a medieval chronicle mentions a red standard with a white stripe being used by Latvian tribes in about 1280<br>
+three horizontal bands of maroon (top), white (half-width), and maroon; the flag is one of the older banners in the world -- a medieval chronicle mentions Latvian tribes using a red standard with a white stripe around 1280<br>
 
 **National symbol(s)**<br>
 white wagtail (bird); national colors: maroon, white<br>
@@ -375,7 +375,7 @@ _selected World Heritage Site locales_: Historic Center of Riga; Struve Geodetic
 ## Economy
 
 **Economic overview**<br>
-high-income EU and eurozone member; economic contraction triggered by export decline and energy shocks; recovery driven by easing inflation, wage growth, and investments supported by EU funds; challenges from skilled labor shortages, capital market access, large informal sector, and green and digital transitions&nbsp;<br>
+<p>high-income EU and eurozone member; weak recovery following economic contraction, with slight increase in private consumption and uncertain trade environment; challenges from skilled-labor shortages, capital market access, large informal sector, and green and digital transitions</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $69.479 billion (2023 est.)<br>

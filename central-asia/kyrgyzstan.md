@@ -185,7 +185,7 @@ _unimproved: total_: total: 6.4% of population (2020 est.)<br>
 1.85 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-4.4 beds/1,000 population (2014)<br>
+4.2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -206,9 +206,9 @@ _spirits_: 3.35 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 25.4% (2020 est.)<br>
-_male_: 48% (2020 est.)<br>
-_female_: 2.8% (2020 est.)<br>
+_total_: 26% (2025 est.)<br>
+_male_: 50.7% (2025 est.)<br>
+_female_: 3.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 1.8% (2018)<br>
@@ -217,8 +217,8 @@ _female_: 2.8% (2020 est.)<br>
 66.2% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.3%<br>
-_women married by age 18_: 12.9% (2018 est.)<br>
+_women married by age 15_: 0.3% (2018)<br>
+_women married by age 18_: 12.9% (2018)<br>
 
 **Education expenditures**<br>
 6.2% of GDP (2020 est.)<br>
@@ -377,7 +377,7 @@ _FAX_: [996] (312) 597-744<br>
 _email address and website_: <br>ConsularBishkek@state.gov<br><br>https://kg.usembassy.gov/<br>
 
 **Flag description**<br>
-red field with a yellow sun in the center having 40 rays representing the 40 Kyrgyz tribes; on the obverse side the rays run counterclockwise, on the reverse, clockwise; in the center of the sun is a red ring crossed by two sets of three lines, a stylized representation of a "tunduk" - the crown of a traditional Kyrgyz yurt; red symbolizes bravery and valor, the sun evinces peace and wealth<br>
+red field with a yellow sun in the center that has 40 rays to represent the Kyrgyz tribes; the rays run counterclockwise on the front of the flag and clockwise on the reverse; in the center of the sun is a red ring crossed by two sets of three lines in a stylized representation of a <em>tunduk,</em> the crown of a traditional Kyrgyz yurt; red stands for bravery and valor, and the sun for peace and wealth<br>
 
 **National symbol(s)**<br>
 white falcon; national colors: red, yellow<br>
@@ -617,7 +617,7 @@ state-funded public TV broadcaster NTRK operates Ala-Too 24 news channel and 4 o
 .kg<br>
 
 **Internet users**<br>
-_percent of population_: 80% (2022 est.)<br>
+_percent of population_: 89% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 456,000 (2023 est.)<br>
@@ -644,11 +644,11 @@ _broad gauge_: 424 km (2018) 1.520-m gauge<br>
 Armed Forces of the Kyrgyz Republic: Land Forces (Kygyz Army), Air Defense Forces (Kyrgyz Air Force), National Guard of the Armed Forces of the Kyrgyz Republic<br><br>Ministry of Internal Affairs: Internal Security Service<br><br>State Committee for National Security: Border Guard Service (2025)<br>
 
 **Military expenditures**<br>
-1.5% of GDP (2022 est.)<br>
-1.7% of GDP (2021 est.)<br>
-1.8% of GDP (2020 est.)<br>
-2.3% of GDP (2019 est.)<br>
-2.3% of GDP (2018 est.)<br>
+3% of GDP (2024 est.)<br>
+3.5% of GDP (2023 est.)<br>
+3% of GDP (2022 est.)<br>
+2.8% of GDP (2021 est.)<br>
+3% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 limited available information; estimated 10-15,000 active Armed Forces, including the National Guard (2025)<br>

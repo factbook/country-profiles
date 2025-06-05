@@ -243,7 +243,7 @@ _embassy_: none (self-governing territory in free association with New Zealand)<
 <strong>note:</strong> on 25 September 2023, the US officially established diplomatic relations with Niue<br>
 
 **Flag description**<br>
-yellow with the flag of the UK in the upper hoist-side quadrant; the flag of the UK bears five yellow five-pointed stars - a large star on a blue disk in the center and a smaller star on each arm of the bold red cross; the larger star stands for Niue, the smaller stars recall the Southern Cross constellation on the New Zealand flag and symbolize links with that country; yellow represents the bright sunshine of Niue and the warmth and friendship between Niue and New Zealand<br>
+yellow with the UK flag in the upper hoist-side quadrant; the UK flag has five yellow five-pointed stars, with a large star (representing Niue) on a blue disk in the center and smaller stars on each arm of the red cross that symbolize links with New Zealand; yellow stands for sunshine and the warmth and friendship between Niue and New Zealand<br>
 
 **National symbol(s)**<br>
 yellow, five-pointed star; national color: yellow<br>

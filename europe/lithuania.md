@@ -179,7 +179,7 @@ _unimproved: total_: total: 2% of population (2020 est.)<br>
 6.1 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-6.4 beds/1,000 population (2018)<br>
+6 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.5% of population<br>
@@ -200,9 +200,9 @@ _spirits_: 4.96 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 1.48 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 32% (2020 est.)<br>
-_male_: 42.1% (2020 est.)<br>
-_female_: 21.8% (2020 est.)<br>
+_total_: 26.6% (2025 est.)<br>
+_male_: 38% (2025 est.)<br>
+_female_: 16.7% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 2.5% (2021)<br>
@@ -211,7 +211,8 @@ _female_: 21.8% (2020 est.)<br>
 53.4% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 18_: 0.3% (2021 est.)<br>
+_women married by age 15_: 0% (2022)<br>
+_women married by age 18_: 0.2% (2022)<br>
 
 **Education expenditures**<br>
 4% of GDP (2019 est.)<br>
@@ -367,7 +368,7 @@ _FAX_: [370] (5) 266-5510<br>
 _email address and website_: <br>consec@state.gov<br><br>https://lt.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of yellow (top), green, and red; yellow symbolizes golden fields, as well as the sun, light, and goodness; green represents the forests of the countryside, in addition to nature, freedom, and hope; red stands for courage and the blood spilled in defense of the homeland<br>
+three equal horizontal bands of yellow (top), green, and red; yellow stands for golden fields, the sun, light, and goodness; green represents the forests, nature, freedom, and hope; red stands for courage and the blood spilled in defense of the homeland<br>
 
 **National symbol(s)**<br>
 mounted knight known as Vytis (the Chaser), white stork; national colors: yellow, green, red<br>
@@ -384,7 +385,7 @@ _selected World Heritage Site locales_: Vilnius Historic Center; Curonian Spit; 
 ## Economy
 
 **Economic overview**<br>
-high-income EU and eurozone member, largest Baltic economy; growth stalled due to Ukraine war impact on energy, exports, and fiscal spending for defense and refugee support; rebound supported by EU fund-driven investments and reduced inflation; structural challenges include pension reform, labor market inefficiencies, health care, and education spending<br>
+<p>high-income EU and eurozone member, largest Baltic economy; recovery supported by private consumption and EU fund-driven investments; structural challenges include pension reform, aging workforce, and high energy-import costs</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $134.219 billion (2023 est.)<br>

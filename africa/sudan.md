@@ -185,7 +185,7 @@ _unimproved: total_: total: 12.9% of population (2020 est.)<br>
 0.25 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-0.7 beds/1,000 population (2017)<br>
+0.7 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 72.1% of population<br>
@@ -361,7 +361,7 @@ _email address and website_: <br>ACSKhartoum@state.gov<br><br>https://sd.usembas
 <strong>note:</strong>  the U.S. Embassy in Khartoum suspended operations (to include visa, passport, and other routine consular services) on 22 April 2023<br>
 
 **Flag description**<br>
-three equal horizontal bands of red (top), white, and black with a green isosceles triangle based on the hoist side; colors and design based on the Arab Revolt flag of World War I, but the meanings of the colors are expressed as follows: red signifies the struggle for freedom, white is the color of peace, light, and love, black represents the people of Sudan (in Arabic 'Sudan' means black), green is the color of Islam, agriculture, and prosperity<br>
+three equal horizontal bands of red (top), white, and black, with a green isosceles triangle based on the hoist side; colors and design based on the Arab Revolt flag of World War I; red stands for the struggle for freedom, white for peace, light, and love, black for the people, and green for Islam, agriculture, and prosperity<br>
 
 **National symbol(s)**<br>
 secretary bird; national colors: red, white, black, green<br>
@@ -585,7 +585,7 @@ state-owned broadcasters that self-censor but are somewhat independent (2022)<br
 .sd<br>
 
 **Internet users**<br>
-_percent of population_: 29% (2022 est.)<br>
+_percent of population_: 26% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 30,000 (2022 est.)<br>
@@ -623,8 +623,8 @@ _key ports_: Al Khair Oil Terminal, Beshayer Oil Terminal, Port Sudan, Sawakin H
 ## Military and Security
 
 **Military and security forces**<br>
-Sudanese Armed Forces (SAF): Ground Force (Sudanese Army), Sudanese Navy, Sudanese Air Force; Rapid Support Forces (RSF); Border Guards<br><br>Ministry of Interior: Sudan Police Forces (SPF), Central Reserve Police (CRP) (2024)<br>
-<strong>note 1:</strong> the RSF is a semi-autonomous paramilitary force formed in 2013 to fight armed rebel groups in Sudan, with Mohammed Hamdan DAGALO (aka Hemeti) as its commander; it was initially placed under the National Intelligence and Security Service, then came under the direct command of former president Omar al-BASHIR, who boosted the RSF as his own personal security force; as a result, the RSF was better funded and equipped than the regular armed forces; the RSF has since recruited from all parts of Sudan beyond its original Darfuri Arab groups but remains under the personal patronage and control of DAGALO; the RSF has participated in military operations in Yemen, Darfur, South Kordofan, and the Blue Nile State; it has also been used to respond to anti-regime demonstrations; the RSF has been accused of committing human rights abuses against civilians and is reportedly involved in business enterprises, such as gold mining<br><br><strong>note 2:</strong> the Central Reserve Police (aka Abu Tira) is a combat-trained paramilitary force that has been used against demonstrators and sanctioned by the US for human rights abuses<br>
+Sudanese Armed Forces (SAF): Ground Force (Sudanese Army), Sudanese Navy, Sudanese Air Force; Rapid Support Forces (RSF); Border Guards<br><br>Ministry of Interior: Sudan Police Forces (SPF), Central Reserve Police (CRP) (2025)<br>
+<strong>note 1:</strong> the RSF is a semi-autonomous paramilitary force formed in 2013 to fight armed rebel groups in Sudan, with Mohammed Hamdan DAGALO (aka Hemeti) as its commander; it was initially placed under the National Intelligence and Security Service, then came under the direct command of former president Omar al-BASHIR, who boosted the RSF as his own personal security force; as a result, the RSF was better funded and equipped than the regular armed forces; the RSF has since recruited from all parts of Sudan beyond its original Darfuri Arab groups but remains under the personal patronage and control of DAGALO; the RSF has participated in military operations in Yemen, Darfur, South Kordofan, and the Blue Nile State; it has also been used to respond to anti-regime demonstrations; the RSF has been accused of committing human rights abuses against civilians and is reportedly involved in business enterprises, such as gold mining<br><br><strong>note 2:</strong> the Central Reserve Police (aka Abu Tira) is a combat-trained paramilitary force that has been used against demonstrators and sanctioned by the US for human rights abuses<br><br><strong>note 3:</strong> there are also numerous armed militias operating in Sudan<br>
 
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>

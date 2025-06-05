@@ -276,7 +276,7 @@ none (Special Administrative Region of China)<br>
 _embassy_: the US has no offices in Macau; US Consulate General in Hong Kong is accredited to Macau<br>
 
 **Flag description**<br>
-green with a lotus flower above a stylized bridge and water in white, beneath an arc of five gold, five-pointed stars: one large in the center of the arc and two smaller on either side; the lotus is the floral emblem of Macau, the three petals represent the peninsula and two islands that make up Macau; the five stars echo those on the flag of China<br>
+green with a lotus flower above a stylized bridge and water in white, under an arc of five five-pointed gold stars; the lotus is the national floral emblem, and the three petals represent the country's peninsula and two islands; the five stars echo those on the Chinese flag<br>
 
 **National symbol(s)**<br>
 lotus blossom; national colors: green, white, yellow<br>

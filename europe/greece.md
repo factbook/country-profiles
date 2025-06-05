@@ -179,7 +179,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 6.58 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-4.2 beds/1,000 population (2018)<br>
+4.2 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -200,9 +200,9 @@ _spirits_: 1.45 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.08 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 33.5% (2020 est.)<br>
-_male_: 36.5% (2020 est.)<br>
-_female_: 30.5% (2020 est.)<br>
+_total_: 27.3% (2025 est.)<br>
+_male_: 30.3% (2025 est.)<br>
+_female_: 24.6% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 54.1% (2023 est.)<br>
@@ -365,8 +365,8 @@ _email address and website_: <br>athensamericancitizenservices@state.gov<br><br>
 _consulate(s) general_: Thessaloniki<br>
 
 **Flag description**<br>
-nine equal horizontal stripes of blue alternating with white; a blue square bearing a white cross appears in the upper hoist-side corner; the cross symbolizes Greek Orthodoxy, the established religion of the country; there is no agreed upon meaning for the nine stripes or for the colors<br>
-<strong>note:</strong> Greek legislation states that the flag colors are cyan and white, but cyan can mean "blue" in Greek, so the exact shade of blue has never been set and has varied from a light to a dark blue over time; in general, the hue of blue normally encountered is a form of azure<br>
+nine equal horizontal stripes of blue alternating with white; a blue square with a white cross is in the upper hoist-side corner; the cross symbolizes Greek Orthodoxy, the established religion of the country; there is no set meaning for the stripes and colors<br>
+<strong>note:</strong> Greek legislation states that the flag colors are cyan and white, but cyan can mean "blue" in Greek, so the exact shade of blue has never been set and has varied from a light to a dark blue over time; the blue is now usually an azure<br>
 
 **National symbol(s)**<br>
 Greek cross (white cross on blue field, arms equal length); national colors: blue, white<br>

@@ -181,7 +181,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 3.3 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-2.5 beds/1,000 population (2019)<br>
+2.4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.8% of population<br>
@@ -202,18 +202,15 @@ _spirits_: 2.35 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.61 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 15.4% (2020 est.)<br>
-_male_: 17.3% (2020 est.)<br>
-_female_: 13.5% (2020 est.)<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
+_total_: 11.5% (2025 est.)<br>
+_male_: 13.3% (2025 est.)<br>
+_female_: 9.8% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 50.7% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 18_: 0.1% (2020 est.)<br>
+_women married by age 18_: 0% (2021)<br>
 
 **Education expenditures**<br>
 5.5% of GDP (2020 est.)<br>
@@ -372,7 +369,7 @@ _email address and website_: <br>ukin.washington@fcdo.gov.uk<br><br>https://www.
 _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Matthew PALMER (since January 2025)<br>
+_chief of mission_: Ambassador Warren A. STEPHENS (since 21 May 2025)<br>
 _embassy_: 33 Nine Elms Lane, London, SW11 7US<br>
 _mailing address_: 8400 London Place, Washington DC&nbsp; 20521-8400<br>
 _telephone_: [44] (0) 20-7499-9000<br>
@@ -381,7 +378,7 @@ _email address and website_: <br>SCSLondon@state.gov<br><br>https://uk.usembassy
 _consulate(s) general_: Belfast, Edinburgh<br>
 
 **Flag description**<br>
-blue field with the red cross of Saint George (patron saint of England) edged in white superimposed on the diagonal red cross of Saint Patrick (patron saint of Ireland), which is superimposed on the diagonal white cross of Saint Andrew (patron saint of Scotland); properly known as the Union Flag, but commonly called the Union Jack; the design and colors (especially the Blue Ensign) have been the basis for a number of other flags including other Commonwealth countries and their constituent states or provinces, and British overseas territories<br>
+blue field with the red cross of Saint George (patron saint of England) edged in white on top of the diagonal red cross of Saint Patrick (patron saint of Ireland), which is on top of the diagonal white cross of Saint Andrew (patron saint of Scotland); the official name is the Union Flag, but commonly called the Union Jack; the design and colors have been the basis for a number of other flags<br>
 
 **National symbol(s)**<br>
 lion (Britain in general); lion, Tudor rose, oak (England); lion, unicorn, thistle (Scotland); dragon, daffodil, leek (Wales); shamrock, flax (Northern Ireland); national colors: red, white, blue (Britain in general); red, white (England); blue, white (Scotland); red, white, green (Wales)<br>
@@ -634,7 +631,7 @@ public-service British Broadcasting Corporation (BBC) is the largest broadcastin
 .uk<br>
 
 **Internet users**<br>
-_percent of population_: 95% (2022 est.)<br>
+_percent of population_: 96% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 28.2 million (2023 est.)<br>

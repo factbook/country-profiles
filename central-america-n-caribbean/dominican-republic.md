@@ -185,7 +185,7 @@ _unimproved: total_: total: 2.8% of population (2020 est.)<br>
 2.43 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-1.6 beds/1,000 population (2017)<br>
+1.4 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 97.4% of population<br>
@@ -206,9 +206,9 @@ _spirits_: 2.18 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.06 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 10.6% (2020 est.)<br>
-_male_: 14.6% (2020 est.)<br>
-_female_: 6.5% (2020 est.)<br>
+_total_: 9.7% (2025 est.)<br>
+_male_: 13.5% (2025 est.)<br>
+_female_: 5.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 3% (2019)<br>
@@ -217,8 +217,8 @@ _female_: 6.5% (2020 est.)<br>
 52.1% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 9.4%<br>
-_women married by age 18_: 31.5% (2019 est.)<br>
+_women married by age 15_: 9.4% (2019)<br>
+_women married by age 18_: 31.5% (2019)<br>
 
 **Education expenditures**<br>
 4.6% of GDP (2020 est.)<br>
@@ -387,7 +387,7 @@ _telephone_: (809) 567-7775<br>
 _email address and website_: <br>SDOAmericans@state.gov<br><br>https://do.usembassy.gov/<br>
 
 **Flag description**<br>
-a centered white cross that extends to the edges divides the flag into four rectangles - the top ones are ultramarine blue (hoist side) and vermilion red, and the bottom ones are vermilion red (hoist side) and ultramarine blue; a small coat of arms featuring a shield supported by a laurel branch (left) and a palm branch (right) is at the center of the cross; above the shield a blue ribbon displays the motto, DIOS, PATRIA, LIBERTAD (God, Fatherland, Liberty), and below the shield, REPUBLICA DOMINICANA appears on a red ribbon; in the shield a bible is opened to a verse that reads "Y la verdad nos hara libre" (And the truth shall set you free); blue stands for liberty, white for salvation, and red for the blood of heroes<br>
+a centered white cross extends to the edges and divides the flag into four rectangles; the top ones are ultramarine blue (hoist side) and vermilion red, and the bottom ones are vermilion red (hoist side) and ultramarine blue; a small coat of arms featuring a shield supported by a laurel branch (left) and a palm branch (right) is at the center of the cross; above the shield a blue ribbon displays the motto DIOS, PATRIA, LIBERTAD (God, Fatherland, Liberty), and below the shield, REPUBLICA DOMINICANA appears on a red ribbon; in the shield, a Bible is opened to a verse that reads "Y la verdad nos hara libre" (And the truth shall set you free); blue stands for liberty, white for salvation, and red for the blood of heroes<br>
 
 **National symbol(s)**<br>
 palmchat (bird); national colors: red, white, blue<br>
@@ -626,7 +626,7 @@ combination of state-owned and privately owned broadcast media; 1 state-owned TV
 .do<br>
 
 **Internet users**<br>
-_percent of population_: 84% (2022 est.)<br>
+_percent of population_: 85% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1.26 million (2023 est.)<br>
@@ -669,11 +669,11 @@ Armed Forces of the Dominican Republic: Army of the Dominican Republic (Ejercito
 <strong>note 1:</strong> in addition to the three main branches of the military, the Ministry of Defense directs the Specialized Border Security Corps (CESFRONT), the Specialized Corps in Port Security (CESEP), and the Specialized Corps in Airport and Civil Aviation Safety (CESAC); these specialized corps are joint forces, made up of personnel from all military branches in addition to civilian personnel; they may also assist in overall citizen security working together with the National Police, which is under the Ministry of Interior<br>
 
 **Military expenditures**<br>
-0.6% of GDP (2023 est.)<br>
+0.8% of GDP (2024 est.)<br>
+0.7% of GDP (2023 est.)<br>
 0.7% of GDP (2022 est.)<br>
 0.7% of GDP (2021 est.)<br>
 0.8% of GDP (2020 est.)<br>
-0.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 55-60,000 Armed Forces; up to 35,000 National Police (2025)<br>

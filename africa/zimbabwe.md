@@ -185,9 +185,6 @@ _unimproved: total_: total: 23.1% of population (2020 est.)<br>
 **Physician density**<br>
 0.14 physicians/1,000 population (2023)<br>
 
-**Hospital bed density**<br>
-1.7 beds/1,000 population (2011)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 96.1% of population<br>
 _improved: rural_: rural: 49% of population<br>
@@ -207,9 +204,9 @@ _spirits_: 0.39 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 1.47 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 11.7% (2020 est.)<br>
-_male_: 21.8% (2020 est.)<br>
-_female_: 1.5% (2020 est.)<br>
+_total_: 8.4% (2025 est.)<br>
+_male_: 17.6% (2025 est.)<br>
+_female_: 0.7% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 9.7% (2019)<br>
@@ -218,9 +215,9 @@ _female_: 1.5% (2020 est.)<br>
 61.6% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 5.4%<br>
-_women married by age 18_: 33.7%<br>
-_men married by age 18_: 1.9% (2019 est.)<br>
+_women married by age 15_: 5.4% (2019)<br>
+_women married by age 18_: 33.7% (2019)<br>
+_men married by age 18_: 1.9% (2019)<br>
 
 **Education expenditures**<br>
 3.9% of GDP (2018 est.)<br>
@@ -397,7 +394,7 @@ _FAX_: [263] 24-233-4320<br>
 _email address and website_: <br>consularharare@state.gov<br><br>https://zw.usembassy.gov/<br>
 
 **Flag description**<br>
-seven equal horizontal bands of green (top), yellow, red, black, red, yellow, and green with a white isosceles triangle edged in black with its base on the hoist side; a yellow Zimbabwe bird representing the long history of the country is superimposed on a red five-pointed star in the center of the triangle, which symbolizes peace; green represents agriculture, yellow mineral wealth, red the blood shed to achieve independence, and black stands for the native people<br>
+seven equal horizontal bands of green (top), yellow, red, black, red, yellow, and green, with a white isosceles triangle edged in black with its base on the hoist side; a yellow bird representing the long history of the country is on top of a five-pointed red star in the center of the triangle, which symbolizes peace; green stands for agriculture, yellow for mineral wealth, red for the blood shed to achieve independence, and black for the people<br>
 
 **National symbol(s)**<br>
 Zimbabwe bird symbol, African fish eagle, flame lily; national colors: green, yellow, red, black, white<br>

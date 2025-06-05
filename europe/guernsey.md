@@ -283,7 +283,7 @@ none (British crown dependency)<br>
 _embassy_: none (British crown dependency)<br>
 
 **Flag description**<br>
-white with the red cross of Saint George (patron saint of England) extending to the edges of the flag and a yellow equal-armed cross of William the Conqueror superimposed on the Saint George cross; the red cross represents the old ties with England and the fact that Guernsey is a British Crown dependency; the gold cross is a replica of the one used by William the Conqueror at the Battle of Hastings in 1066<br>
+white with the red cross of Saint George (patron saint of England) extending to the edges of the flag and a yellow equal-armed cross of William the Conqueror superimposed on the Saint George cross; the red cross represents Guernsey's status as a British Crown dependency; the gold cross is a replica of the one William the Conqueror carried at the Battle of Hastings in 1066<br>
 
 **National symbol(s)**<br>
 Guernsey cow, donkey; national colors: red, white, yellow<br>

@@ -183,7 +183,7 @@ _unimproved: total_: total: 15.6% of population (2020 est.)<br>
 1.87 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-4.7 beds/1,000 population (2014)<br>
+4.3 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 98.9% of population<br>
@@ -210,8 +210,8 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 72% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.1%<br>
-_women married by age 18_: 8.7% (2017 est.)<br>
+_women married by age 15_: 0.1% (2017)<br>
+_women married by age 18_: 8.7% (2017)<br>
 
 **Education expenditures**<br>
 5.9% of GDP (2020 est.)<br>
@@ -379,7 +379,7 @@ _FAX_: [992] (37) 229-20-50<br>
 _email address and website_: <br>DushanbeConsular@state.gov<br><br>https://tj.usembassy.gov/<br>
 
 **Flag description**<br>
-three horizontal stripes of red (top), a wider stripe of white, and green; a gold crown surmounted by seven gold, five-pointed stars is located in the center of the white stripe; red represents the sun, victory, and the unity of the nation, white stands for purity, cotton, and mountain snows, while green is the color of Islam and the bounty of nature; the crown symbolizes the Tajik people; the seven stars signify the Tajik magic number "seven" - a symbol of perfection and the embodiment of happiness<br>
+three horizontal stripes of red (top), a wider stripe of white, and green; a gold crown under seven gold five-pointed stars is in the center of the white stripe; red stands for the sun, victory, and the unity of the nation, white for purity, cotton, and mountain snows, and green for Islam and nature's bounty; the crown symbolizes the Tajik people; the stars represent the number seven, which is considered a symbol of perfection and the embodiment of happiness<br>
 
 **National symbol(s)**<br>
 crown surmounted by an arc of seven, five-pointed stars; Marco Polo sheep; national colors: red, white, green<br>
@@ -618,7 +618,7 @@ state-run broadcaster has 9 national TV and 10 radio stations, and 4 regional st
 .tj<br>
 
 **Internet users**<br>
-_percent of population_: 36% (2022 est.)<br>
+_percent of population_: 57% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 6,000 (2022 est.)<br>
@@ -646,11 +646,11 @@ Armed Forces of the Republic of Tajikistan: Ground Forces, Mobile Forces, Air an
 <strong>note 1: </strong>the Mobile Forces are the airborne, air assault, mountain, and rapid reaction troops of the Armed Forces<br><br><strong>note 2:</strong> the Tajik National Guard, formerly the Presidential Guard, is a paramilitary force under direct authority of the President; it is tasked with ensuring public safety and security, similar to the tasks of the Internal Troops; it also has ceremonial duties<br>
 
 **Military expenditures**<br>
-1.2% of GDP (2023 est.)<br>
-1.1% of GDP (2022 est.)<br>
+1.8% of GDP (2024 est.)<br>
+2% of GDP (2023 est.)<br>
+1.9% of GDP (2022 est.)<br>
 1.2% of GDP (2021 est.)<br>
-1% of GDP (2020 est.)<br>
-2.1% of GDP (2019 est.)<br>
+1.1% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 10,000 active Armed Forces; estimated 5-10,000 active paramilitary National Guard, Border Service, and Internal Troops personnel (2025)<br>

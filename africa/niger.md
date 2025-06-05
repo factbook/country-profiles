@@ -189,7 +189,7 @@ _unimproved: total_: total: 31.4% of population (2020 est.)<br>
 0.04 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-0.4 beds/1,000 population (2017)<br>
+0.3 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 81.9% of population<br>
@@ -210,9 +210,9 @@ _spirits_: 0.06 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 7.4% (2020 est.)<br>
-_male_: 13.7% (2020 est.)<br>
-_female_: 1.1% (2020 est.)<br>
+_total_: 7.5% (2025 est.)<br>
+_male_: 13.7% (2025 est.)<br>
+_female_: 1.2% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 34.6% (2022)<br>
@@ -349,6 +349,12 @@ _election results_: <em><br>2020/2021</em>: Mohamed BAZOUM elected president in 
 <strong>note:</strong> deposed president BAZOUM has been under house arrest since a military coup on 26 July 2023<br>
 
 **Legislative branch**<br>
+_legislature name_: Advisory Council for the Refoundation (Conseil consultatif de la refondation)<br>
+_legislative structure_: unicameral<br>
+_number of seats_: 194 (all appointed)<br>
+_electoral system_: mixed system<br>
+_scope of elections_: full renewal<br>
+_most recent election date_: 5/1/2025<br>
 <strong>Note:</strong> on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the National Assembly; a commission recommended to the junta in February 2025 a minimum of a five-year transition to democratic rule<br>
 
 **Judicial branch**<br>
@@ -379,7 +385,7 @@ _FAX_: [227] 20-73-55-60<br>
 _email address and website_: <br>consulateniamey@state.gov<br><br>https://ne.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of orange (top), white, and green with a small orange disk centered in the white band; the orange band denotes the drier northern regions of the Sahara; white stands for purity and innocence; green symbolizes hope and the fertile and productive southern and western areas, as well as the Niger River; the orange disc represents the sun and the sacrifices made by the people<br>
+three equal horizontal bands of orange (top), white, and green, with a small orange disk centered in the white band; the orange stands for the northern Sahara regions, white for purity and innocence, and green for hope and the fertile and productive southern and western areas, as well as the Niger River; the orange disc represents the sun and the people's sacrifices <br>
 <strong>note:</strong> similar to the flag of India, which has a blue spoked wheel centered in the white band<br>
 
 **National symbol(s)**<br>
@@ -610,7 +616,7 @@ state-run TV station; 3 private TV stations provide a mix of local and foreign p
 .ne<br>
 
 **Internet users**<br>
-_percent of population_: 17% (2022 est.)<br>
+_percent of population_: 23% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 14,000 (2022 est.)<br>
@@ -646,6 +652,9 @@ the FAN has a wide mix of mostly older, typically Soviet-era, or donated/secondh
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for selective compulsory or voluntary military service for unmarried men and women; 24-month service term (2023)<br>
+
+**Military deployments**<br>
+<strong>note:</strong> in 2024, Mali, Burkina Faso, and Niger announced they were forming joint force of 5,000 troops to combat extremist groups in the Sahel<br>
 
 **Military - note**<br>
 the military seized control of the government in 2023; since its establishment in 1960-61, it has played a significant role in the country’s politics, attempting coups in 1974, 1996, 1999, 2010, and 2021, and ruling Niger for much of the period before 1999<br><br>while the FAN is responsible for ensuring external security, most of its focus is on internal counterinsurgency/counterterrorism operations against terrorist groups operating in the areas bordering Burkina Faso, Libya, Mali, and Nigeria, as well as much of northern Niger and the Diffa and Lake Chad regions; these groups include the Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS), Boko Haram, ISIS-West Africa, and Jama’at Nusrat al-Islam wal-Muslimin (JNIM)<br><br>since the 2010s, Niger has placed considerable emphasis on improving the effectiveness and mobility of its security forces for countering terrorism and protecting the country’s borders; with training support and material assistance from the US and the EU, each security service has created new units or reconfigured existing units with an emphasis on mobility, hybridization, and specialized training; the Army has established a special operations command, several special intervention battalions, and an anti-terrorism unit known as the 1st Expeditionary Force of Niger (EFoN); the National Gendarmerie has created mobile units modeled on European gendarmerie forces known as the Rapid Action Group—Surveillance and Response in the Sahel (Groupe d'action Rapides—Surveillance et Intervention au Sahel or GAR-SI Sahel); the National Guard (GNN) has established mobile Multipurpose Squadrons (Escadrons Polyvalentes de la Garde Nationale de Niger or EP-GNN), while the National Police have created Mobile Border Control Companies (Compagnie Mobile de Contrôle des Frontières or CMCF); Niger has also established training centers for special forces in Tillia and peacekeeping in Ouallam; meanwhile, the Air Force has received armed UAVs from Turkey (2024)<br>

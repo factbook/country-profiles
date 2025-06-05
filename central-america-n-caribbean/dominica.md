@@ -165,7 +165,7 @@ _unimproved: urban_: urban: 4.3% of population<br>
 1.16 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-3.8 beds/1,000 population<br>
+3 beds/1,000 population (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 27.9% (2016)<br>
@@ -317,7 +317,7 @@ _consulate(s) general_: New York<br>
 _embassy_: the US does not have an embassy in Dominica; the US Ambassador to Barbados is accredited to Dominica<br>
 
 **Flag description**<br>
-green with a centered cross of three equal bands - the vertical part is yellow (hoist side), black, and white and the horizontal part is yellow (top), black, and white; superimposed in the center of the cross is a red disk bearing a Sisserou parrot, unique to Dominica, encircled by 10 green, five-pointed stars edged in yellow; the 10 stars represent the 10 administrative divisions (parishes); green symbolizes the island's lush vegetation; the triple-colored cross represents the Christian Trinity; the yellow color denotes sunshine, the main agricultural products (citrus and bananas), and the native Carib Indians; black is for the rich soil and the African heritage of most citizens; white signifies rivers, waterfalls, and the purity of aspirations; the red disc stands for social justice<br>
+green with a centered cross of three equal bands; the vertical part is yellow (hoist side), black, and white, and the horizontal part is yellow (top), black, and white; in the center of the cross is a red disk with a Sisserou parrot encircled by 10 green five-pointed stars edged in yellow; the stars represent the 10 administrative divisions (parishes); green symbolizes the island's lush vegetation; the tri-color cross represents the Christian Trinity; yellow stands for sunshine, the main agricultural products (citrus and bananas), and the native Carib Indians; black is for the rich soil and the African heritage of most citizens; white stands for the rivers, waterfalls, and the purity of aspirations; the red disc stands for social justice<br>
 
 **National symbol(s)**<br>
 Sisserou parrot, Carib Wood flower; national colors: green, yellow, black, white, red<br>

@@ -224,7 +224,7 @@ _telephone_: [32] (2) 811-4100<br>
 _email address and website_: <br>https://useu.usmission.gov/<br>
 
 **Flag description**<br>
-a blue field with 12 five-pointed gold stars arranged in a circle in the center; blue represents the sky of the Western world, the stars are the peoples of Europe in a circle, a symbol of unity; the number of stars is fixed<br>
+a blue field with 12 five-pointed gold stars arranged in a circle in the center; blue represents the sky of the Western world, the stars stand for unity, solidarity, and harmony; the number of stars is fixed and does not correspond to the number of member states<br>
 
 **National symbol(s)**<br>
 a circle of 12, five-pointed, golden yellow stars on a blue field; union colors: blue, yellow<br>

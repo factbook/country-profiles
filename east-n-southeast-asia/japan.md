@@ -185,7 +185,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 2.65 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-13 beds/1,000 population (2018)<br>
+12.7 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
@@ -206,9 +206,9 @@ _spirits_: 1.63 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 5.09 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 20.1% (2020 est.)<br>
-_male_: 30.1% (2020 est.)<br>
-_female_: 10% (2020 est.)<br>
+_total_: 15.5% (2025 est.)<br>
+_male_: 24.4% (2025 est.)<br>
+_female_: 7.2% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 46.8% (2023 est.)<br>
@@ -377,7 +377,7 @@ _consulate(s) general_: Chicago<br>
 _consulate(s)_: Anchorage (AK), Atlanta, Boston, Denver (CO), Detroit (MI), Hagatna (Guam), Honolulu, Houston, Los Angeles, Miami, Nashville (TN), New York, Portland (OR), San Francisco, Saipan (Northern Mariana Islands), Seattle (WA)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Joseph M. YOUNG (since 9 February 2025)<br>
+_chief of mission_: Ambassador-designate George GLASS (since 18 April 2025)<br>
 _embassy_: 1-10-5 Akasaka, Minato-ku, Tokyo 107-8420<br>
 _mailing address_: 9800 Tokyo Place, Washington DC&nbsp; 20521-9800<br>
 _telephone_: [81] (03) 3224-5000<br>
@@ -387,10 +387,13 @@ _consulate(s) general_: Naha (Okinawa), Osaka-Kobe, Sapporo<br>
 _consulate(s)_: Fukuoka, Nagoya<br>
 
 **Flag description**<br>
-white with a large red disk (representing the sun without rays) in the center<br>
+white with a large red disk, representing the sun without rays, in the center<br>
 
 **National symbol(s)**<br>
 red sun disc, chrysanthemum; national colors: red, white<br>
+
+**National coat of arms**<br>
+The Kikumon is the Japanese emperor's family coat of arms and dates from 1183. The Imperial chrysanthemum emblem (菊の御紋, <em>kikunogomon</em>) is a yellow or orange chrysanthemum with black or red outlines and background. A central disc is surrounded by a front set of 16 petals. A rear set of 16 petals are half-staggered in relation to the front set and are visible at the edges of the flower.<br>
 
 **National anthem**<br>
 _name_: "Kimigayo" (The Emperor's Reign)<br>
@@ -400,9 +403,6 @@ _lyrics/music_: unknown/Hiromori HAYASHI<br>
 **National heritage**<br>
 _total World Heritage Sites_: 26 (21 cultural, 5 natural)<br>
 _selected World Heritage Site locales_: <p>Buddhist Monuments in the Horyu-ji Area (c); Historic Monuments of Ancient Nara (c); Himeji-jo (c); Shiretoko (n); Mozu-Furuichi Kofun Group: Mounded Tombs of Ancient Japan (c); Iwami Ginzan Silver Mine and its Cultural Landscape (c); Jomon Prehistoric Sites in Northern Japan (c); Yakushima (n); Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities)(c); Hiroshima Peace Memorial (Genbaku Dome) (c); Shirakami-Sanchi (n); Historic Villages of Shirakawa-go and Gokayama (c); Itsukushima Shinto Shrine (c); Historic Monuments of Ancient Nara (c); Shrines and Temples of Nikko (c); Gusuku Sites and Related Properties of the Kingdom of Ryukyu (c); Sacred Sites and Pilgrimage Routes in the Kii Mountain Range (c); Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land (c); Ogasawara Islands (n); Fujisan, sacred place and source of artistic inspiration (c); Tomioka Silk Mill and Related Sites (c); Sites of Japan’s Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining (c); The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement (c); Sacred Island of Okinoshima and Associated Sites in the Munakata Region (c); Hidden Christian Sites in the Nagasaki Region (c); Amami-Oshima Island, Tokunoshima Island, Northern part of Okinawa Island, and Iriomote Island (n); Jomon Prehistoric Sites in Northern Japan (c); Sado Island Gold Mines (c)</p><br>
-
-**National coat of arms**<br>
-The Kikumon is the Japanese emperor's family coat of arms and dates from 1183. The Imperial chrysanthemum emblem (菊の御紋, <em>kikunogomon</em>) is a yellow or orange chrysanthemum with black or red outlines and background. A central disc is surrounded by a front set of 16 petals. A rear set of 16 petals are half-staggered in relation to the front set and are visible at the edges of the flower.<br>
 
 ## Economy
 
@@ -672,10 +672,10 @@ Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSD
 
 **Military expenditures**<br>
 1.4% of GDP (2024 est.)<br>
-1.2% of GDP (2023)<br>
-1.1% of GDP (2022)<br>
-1% of GDP (2021)<br>
-1% of GDP (2020)<br>
+1.2% of GDP (2023 est.)<br>
+1.1% of GDP (2022 est.)<br>
+1% of GDP (2021 est.)<br>
+1% of GDP (2020 est.)<br>
 <strong>note:</strong> the Japanese Government in 2022 pledged to increase defense expenditures to 2% of GDP in line with NATO standards by March 2028; if the planned increase occurs, Japan would have the world's third largest defense budget<br>
 
 **Military and security service personnel strengths**<br>

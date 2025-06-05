@@ -178,9 +178,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 37.4% (2023 est.)<br>
 
@@ -326,7 +323,7 @@ none (territory of the US)<br>
 _embassy_: none (territory of the US with commonwealth status)<br>
 
 **Flag description**<br>
-five equal horizontal bands of red (top, center, and bottom) alternating with white; a blue isosceles triangle based on the hoist side bears a large, white, five-pointed star in the center; the white star symbolizes Puerto Rico; the three sides of the triangle signify the executive, legislative and judicial parts of the government; blue stands for the sky and the coastal waters; red symbolizes the blood shed by warriors, while white represents liberty, victory, and peace<br>
+five equal horizontal bands of red (top, center, and bottom) alternating with white; a blue isosceles triangle based on the hoist side has a large five-pointed white star in the center, symbolizing the country; the three sides of the triangle stand for the executive, legislative, and judicial parts of the government; blue stands for the sky and the coastal waters, red for the blood shed by warriors, and white for liberty, victory, and peace<br>
 <strong>note:</strong> design initially influenced by the US flag, but similar to the Cuban flag, with the colors of the bands and triangle reversed<br>
 
 **National symbol(s)**<br>

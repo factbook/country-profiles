@@ -62,8 +62,6 @@ icebergs common in Davis Strait, Denmark Strait, and the northwestern Atlantic O
 **Geography - note**<br>
 major chokepoints include the Dardanelles, Strait of Gibraltar, access to the Panama and Suez Canals; strategic straits include the Strait of Dover, Straits of Florida, Mona Passage, The Sound (Oresund), and Windward Passage; the equator divides the Atlantic Ocean into the North Atlantic Ocean and South Atlantic Ocean<br>
 
-## People and Society
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -81,8 +79,6 @@ tropical cyclones (hurricanes) develop off the coast of Africa near Cabo Verde a
 _etymology_: name derives from the ancient Greek description of the waters beyond the Strait of Gibraltar, <em>Atlantis thalassa</em>, meaning "Sea of Atlas"<br>
 
 ## Economy
-
-## Communications
 
 ## Transportation
 

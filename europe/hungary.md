@@ -184,7 +184,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 3.46 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-7 beds/1,000 population (2018)<br>
+6.8 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -205,9 +205,9 @@ _spirits_: 3.5 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 31.8% (2020 est.)<br>
-_male_: 35.8% (2020 est.)<br>
-_female_: 27.8% (2020 est.)<br>
+_total_: 28.5% (2025 est.)<br>
+_male_: 33.7% (2025 est.)<br>
+_female_: 23.8% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 51.4% (2023 est.)<br>
@@ -378,7 +378,7 @@ _FAX_: [36] (1) 475-4248<br>
 _email address and website_: <br>acs.budapest@state.gov<br><br>https://hu.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of red (top), white, and green; the flag dates to the national movement of the 18th and 19th centuries, and fuses the medieval colors of the Hungarian coat of arms with the revolutionary tricolor form of the French flag; folklore attributes virtues to the colors: red for strength, white for faithfulness, and green for hope; alternatively, the red is seen as being for the blood spilled in defense of the land, white for freedom, and green for the pasturelands that make up so much of the country<br>
+three equal horizontal bands of red (top), white, and green; the flag dates to the national movement of the 18th and 19th centuries and fuses the medieval colors of the Hungarian coat of arms with the revolutionary tricolor of the French flag; folklore attributes virtues to the colors: red for strength, white for faithfulness, and green for hope; alternatively, the red can stand for the blood spilled in defense of the land, white for freedom, and green for pasturelands&nbsp;<br>
 
 **National symbol(s)**<br>
 Holy Crown of Hungary (Crown of Saint Stephen); national colors: red, white, green<br>
@@ -395,7 +395,7 @@ _selected World Heritage Site locales_: Budapest, including the Banks of the Dan
 ## Economy
 
 **Economic overview**<br>
-high-income EU and OECD economy; tightening fiscal policy in response to budget deficit; delayed EU cohesion fund disbursement due to judicial independence concerns; high inflation and low consumer confidence; seeking alternatives to dependence on Russian natural gas&nbsp;<br>
+<p>high-income EU and OECD economy; modest recovery from 2024 recession driven by private consumption and moderated inflation; challenges include high fiscal deficits, frozen access to EU funds, and risks from export reliance; implementing tax exemptions, price controls, and mortgage interest caps ahead of 2026 elections</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $388.906 billion (2023 est.)<br>

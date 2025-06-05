@@ -185,7 +185,7 @@ _unimproved: total_: total: 1% of population (2020 est.)<br>
 4.33 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-7.5 beds/1,000 population (2017)<br>
+7.8 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -206,12 +206,12 @@ _spirits_: 4.96 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.06 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 39% (2020 est.)<br>
-_male_: 40.9% (2020 est.)<br>
-_female_: 37.1% (2020 est.)<br>
+_total_: 33.1% (2025 est.)<br>
+_male_: 36.2% (2025 est.)<br>
+_female_: 30.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-1.9% (2014)<br>
+1.6% (2014)<br>
 
 **Currently married women (ages 15-49)**<br>
 57.3% (2023 est.)<br>

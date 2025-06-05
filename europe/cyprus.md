@@ -183,7 +183,7 @@ _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 3.56 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-3.4 beds/1,000 population (2017)<br>
+2.2 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.7% of population<br>
@@ -204,9 +204,9 @@ _spirits_: 4.02 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 35.1% (2020 est.)<br>
-_male_: 47% (2020 est.)<br>
-_female_: 23.2% (2020 est.)<br>
+_total_: 33.1% (2025 est.)<br>
+_male_: 44.1% (2025 est.)<br>
+_female_: 22.2% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 54.5% (2023 est.)<br>
@@ -638,11 +638,11 @@ _key ports_: Dhekelia, Famagusta, Kyrenia, Larnaca, Limassol, Xeros<br>
 Cypriot National Guard (Ethniki Froura, EF): Army, Navy, Air Force (2025)<br>
 
 **Military expenditures**<br>
+1.7% of GDP (2024 est.)<br>
 1.8% of GDP (2023 est.)<br>
-1.8% of GDP (2022)<br>
-1.8% of GDP (2021)<br>
-1.8% of GDP (2020)<br>
-1.6% of GDP (2019)<br>
+1.8% of GDP (2022 est.)<br>
+1.8% of GDP (2021 est.)<br>
+1.8% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 12-15,000 active Cypriot National Guard (2025)<br>

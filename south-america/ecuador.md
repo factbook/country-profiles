@@ -183,7 +183,7 @@ _unimproved: total_: total: 4.6% of population (2020 est.)<br>
 2.31 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
-1.4 beds/1,000 population (2016)<br>
+1.3 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -204,9 +204,9 @@ _spirits_: 0.61 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.03 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 11.3% (2020 est.)<br>
-_male_: 18.4% (2020 est.)<br>
-_female_: 4.2% (2020 est.)<br>
+_total_: 9.7% (2025 est.)<br>
+_male_: 17.2% (2025 est.)<br>
+_female_: 2.4% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 5.2% (2018/19)<br>
@@ -215,8 +215,8 @@ _female_: 4.2% (2020 est.)<br>
 55.1% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 3.8%<br>
-_women married by age 18_: 22.2% (2018 est.)<br>
+_women married by age 15_: 3.8% (2018)<br>
+_women married by age 18_: 22.2% (2018)<br>
 
 **Education expenditures**<br>
 3.7% of GDP (2021 est.)<br>
@@ -370,7 +370,7 @@ _email address and website_: <br>eecuusanotifications@mmrree.gob.ec<br><br>Conta
 _consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, Minneapolis (MN), New Haven (CT), New York, Newark (NJ), Phoenix, San Juan (PR)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Arthur W. BROWN (since 26 June 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Lawrence PETRONI (since 17 April 2025)<br>
 _embassy_: E12-170 Avenida Avigiras y Avenida Eloy Alfaro, Quito<br>
 _mailing address_: 3420 Quito Place, Washington DC&nbsp; 20521-3420<br>
 _telephone_: [593] (2) 398-5000<br>
@@ -378,8 +378,8 @@ _email address and website_: <br>ACSQuito@state.gov<br><br>https://ec.usembassy.
 _consulate(s) general_: Guayaquil<br>
 
 **Flag description**<br>
-three horizontal bands of yellow (top, double width), blue, and red with the coat of arms superimposed at the center of the flag; the flag retains the three main colors of the banner of Gran Colombia, the South American republic that broke up in 1830; the yellow color represents sunshine, grain, and mineral wealth, blue the sky, sea, and rivers, and red the blood of patriots spilled in the struggle for freedom and justice<br>
-<strong>note:</strong> similar to the flag of Colombia, which is shorter and does not bear a coat of arms<br>
+three horizontal bands of yellow (top, double-width), blue, and red, with the coat of arms at the center of the flag; yellow stands for sunshine, grain, and mineral wealth; blue for the sky, sea, and rivers; red for the blood of patriots spilled in the struggle for freedom and justice<br>
+<strong>note:</strong> similar to the flag of Colombia, which is shorter and does not have a coat of arms<br>
 
 **National symbol(s)**<br>
 Andean condor; national colors: yellow, blue, red<br>
@@ -617,7 +617,7 @@ _subscriptions per 100 inhabitants_: 97 (2022 est.)<br>
 .ec<br>
 
 **Internet users**<br>
-_percent of population_: 73% (2023 est.)<br>
+_percent of population_: 77% (2024 est.)<br>
 according to 2021 statistics from Ecuador's Ministry of Telecommunications and Information Society, 50% of homes do not have access to fixed internet<br>
 
 **Broadband - fixed subscriptions**<br>
@@ -660,11 +660,11 @@ Ecuadorian Armed Forces (Fuerzas Armadas del Ecuador): Ground Force (Fuerza Terr
 <strong>note:</strong> the National Police of Ecuador (Policía Nacional del Ecuador) is under the Ministry of Government/Interior<br>
 
 **Military expenditures**<br>
-2% of GDP (2023 est.)<br>
-2% of GDP (2022 est.)<br>
-2% of GDP (2021 est.)<br>
+2.2% of GDP (2024 est.)<br>
+2.3% of GDP (2023 est.)<br>
+2.2% of GDP (2022 est.)<br>
+2.4% of GDP (2021 est.)<br>
 2.3% of GDP (2020 est.)<br>
-2.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 40,000 active Ecuadorian Armed Forces (2025)<br>

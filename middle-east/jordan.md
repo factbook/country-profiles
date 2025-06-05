@@ -187,7 +187,7 @@ _unimproved: total_: total: 0.9% of population (2020 est.)<br>
 2.85 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-1.5 beds/1,000 population (2017)<br>
+1.4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 98.8% of population<br>
@@ -208,9 +208,9 @@ _spirits_: 0.19 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 34.8% (2020 est.)<br>
-_male_: 56.8% (2020 est.)<br>
-_female_: 12.8% (2020 est.)<br>
+_total_: 37.1% (2025 est.)<br>
+_male_: 58.6% (2025 est.)<br>
+_female_: 13.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 2.7% (2019)<br>
@@ -219,9 +219,9 @@ _female_: 12.8% (2020 est.)<br>
 55.6% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 1.5%<br>
-_women married by age 18_: 9.7%<br>
-_men married by age 18_: 0.1% (2018 est.)<br>
+_women married by age 15_: 1.5% (2018)<br>
+_women married by age 18_: 9.7% (2018)<br>
+_men married by age 18_: 0.1% (2018)<br>
 
 **Education expenditures**<br>
 3.2% of GDP (2021 est.)<br>
@@ -392,7 +392,7 @@ _FAX_: [962] (6) 592-0163<br>
 _email address and website_: <br>Amman-ACS@state.gov<br><br>https://jo.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of black (top), representing the Abbassid Caliphate, white, representing the Ummayyad Caliphate, and green, representing the Fatimid Caliphate; a red isosceles triangle on the hoist side, representing the Great Arab Revolt of 1916, and bearing a small white seven-pointed star symbolizing the seven verses of the opening Sura (Al-Fatiha) of the Holy Koran; the seven points on the star represent faith in One God, humanity, national spirit, humility, social justice, virtue, and aspirations; design is based on the Arab Revolt flag of World War I<br>
+three equal horizontal bands, with black (top) representing the Abbassid Caliphate, white representing the Ummayyad Caliphate, and green representing the Fatimid Caliphate; a red isosceles triangle on the hoist side stands for the Great Arab Revolt of 1916 and has a small white seven-pointed star symbolizing the seven verses of the opening Sura (Al-Fatiha) of the Koran; the points on the star represent faith in One God, humanity, national spirit, humility, social justice, virtue, and aspirations; the design is based on the Arab Revolt flag of World War I<br>
 
 **National symbol(s)**<br>
 eagle; national colors: black, white, green, red<br>
@@ -628,7 +628,7 @@ radio and TV dominated by the government-owned Jordan Radio and Television Corpo
 .jo<br>
 
 **Internet users**<br>
-_percent of population_: 90% (2022 est.)<br>
+_percent of population_: 93% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 805,000 (2023 est.)<br>
@@ -668,11 +668,11 @@ _key ports_: Al Aqabah<br>
 Jordanian Armed Forces (JAF; aka Arab Army): Jordanian Army (Jordanian Ground Forces; includes Special Operations Forces, Border Guards, Royal Guard), Jordanian Air Force, Jordanian Navy)  <br><br>Ministry of Interior: Public Security Directorate (includes national police, the Gendarmerie, and the Civil Defense Directorate) (2025)<br>
 
 **Military expenditures**<br>
+4.5% of GDP (2024 est.)<br>
 4.5% of GDP (2023 est.)<br>
 4.8% of GDP (2022 est.)<br>
 5% of GDP (2021 est.)<br>
 5% of GDP (2020 est.)<br>
-5.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 100,000 active-duty Armed Forces (85,000 Army; 14,000 Air Force; 1,000 Navy) (2025)<br>

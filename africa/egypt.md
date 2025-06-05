@@ -193,7 +193,7 @@ _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 0.67 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
-1.4 beds/1,000 population (2017)<br>
+1.1 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.9% of population<br>
@@ -214,12 +214,16 @@ _spirits_: 0.04 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 24.3% (2020 est.)<br>
-_male_: 48.1% (2020 est.)<br>
-_female_: 0.4% (2020 est.)<br>
+_total_: 25.8% (2025 est.)<br>
+_male_: 51% (2025 est.)<br>
+_female_: 0.3% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 71.1% (2023 est.)<br>
+
+**Child marriage**<br>
+_women married by age 15_: 1.8% (2021)<br>
+_women married by age 18_: 15.8% (2021)<br>
 
 **Education expenditures**<br>
 2.5% of GDP (2020 est.)<br>
@@ -398,8 +402,8 @@ _email address and website_: <br>ConsularCairoACS@state.gov<br><br>https://eg.us
 _consulate(s) general_: Alexandria<br>
 
 **Flag description**<br>
-three equal horizontal bands of red (top), white, and black; the national emblem (a gold Eagle of Saladin facing the hoist side with a shield superimposed on its chest above a scroll bearing the name of the country in Arabic) centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white)<br>
-<strong>note:</strong> similar to the flag of Syria, which has two green stars in the white band; Iraq, which has an Arabic inscription centered in the white band; and Yemen, which has a plain white band<br>
+three equal horizontal bands of red (top), white, and black; centered in the white band is the national emblem, a gold Eagle of Saladin facing the hoist side with a shield on its chest above a scroll with the country's name in Arabic; the band colors derive from the Arab Liberation flag and represent oppression (black) overcome through bloody struggle (red), to be replaced by a bright future (white)<br>
+<strong>note:</strong> similar to the flags of Syria (two green stars in the white band), Iraq (an Arabic inscription centered in the white band), and Yemen (plain white band)<br>
 
 **National symbol(s)**<br>
 golden eagle, white lotus; national colors: red, white, black<br>
@@ -691,11 +695,11 @@ Egyptian Armed Forces (EAF): Army (includes Republican Guard), Navy (includes Co
 <strong>note:</strong> the Public Security Sector Police are responsible for law enforcement nationwide; the Central Security Force protects infrastructure and is responsible for crowd control; the National Security Agency is responsible for internal security threats and counterterrorism along with other security services<br><br>
 
 **Military expenditures**<br>
+0.8% of GDP (2024 est.)<br>
 1% of GDP (2023 est.)<br>
 1.2% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
 1.3% of GDP (2020 est.)<br>
-1.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 450,000 active Armed Forces (2025)<br>

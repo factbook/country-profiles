@@ -179,7 +179,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 3.36 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-4.2 beds/1,000 population (2014)<br>
+4.6 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -200,9 +200,9 @@ _spirits_: 2.78 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.01 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 25.5% (2020 est.)<br>
-_male_: 49.4% (2020 est.)<br>
-_female_: 1.5% (2020 est.)<br>
+_total_: 21.5% (2025 est.)<br>
+_male_: 47.6% (2025 est.)<br>
+_female_: 1.6% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 2.6% (2015/16)<br>
@@ -211,9 +211,9 @@ _female_: 1.5% (2020 est.)<br>
 64.8% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0%<br>
-_women married by age 18_: 5.3%<br>
-_men married by age 18_: 0.4% (2016 est.)<br>
+_women married by age 15_: 0% (2016)<br>
+_women married by age 18_: 5.3% (2016)<br>
+_men married by age 18_: 0.4% (2016)<br>
 
 **Education expenditures**<br>
 2.8% of GDP (2021 est.)<br>
@@ -636,8 +636,8 @@ Armenian Republic Armed Forces: Armenian Army (includes land, air, air defense f
 <strong>note: </strong>the Police of the Republic of Armenia is responsible for internal security, while the National Security Service is responsible for national security, intelligence activities, and border control<br>
 
 **Military expenditures**<br>
-5.3% of GDP (2024 est.)<br>
-5.6% of GDP (2023 est.)<br>
+5.5% of GDP (2024 est.)<br>
+5.5% of GDP (2023 est.)<br>
 4.3% of GDP (2022 est.)<br>
 4.4% of GDP (2021 est.)<br>
 5% of GDP (2020 est.)<br>

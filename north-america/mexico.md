@@ -193,7 +193,7 @@ _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 2.59 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-1 beds/1,000 population (2018)<br>
+1 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.9% of population<br>
@@ -214,9 +214,9 @@ _spirits_: 0.19 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.15 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 13.1% (2020 est.)<br>
-_male_: 19.9% (2020 est.)<br>
-_female_: 6.2% (2020 est.)<br>
+_total_: 13.8% (2025 est.)<br>
+_male_: 21.8% (2025 est.)<br>
+_female_: 6.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 4.2% (2021)<br>
@@ -225,8 +225,8 @@ _female_: 6.2% (2020 est.)<br>
 56.6% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 3.6%<br>
-_women married by age 18_: 20.7% (2018 est.)<br>
+_women married by age 15_: 3.6% (2018)<br>
+_women married by age 18_: 20.7% (2018)<br>
 
 **Education expenditures**<br>
 4.3% of GDP (2018 est.)<br>
@@ -409,7 +409,7 @@ _consulate(s)_: Albuquerque (NM), Boise (ID), Brownsville (TX), Calexico (CA), D
 <strong> </strong><br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Mark Coolidge JOHNSON (since January 2025)<br>
+_chief of mission_: Ambassador Ronald D. JOHNSON (since 19 May 2025)<br>
 _embassy_: Paseo de la Reforma 305, Colonia Cuauht&eacute;moc, 06500 Mexico, CDMX<br>
 _mailing address_: 8700 Mexico City Place, Washington DC&nbsp; 20521-8700<br>
 _telephone_: (011) [52]-55-5080-2000<br>
@@ -418,8 +418,8 @@ _email address and website_: <br>ACSMexicoCity@state.gov<br><br>https://mx.usemb
 _consulate(s) general_: Ciudad Ju&aacute;rez, Guadalajara, Hermosillo, Matamoros, M&eacute;rida, Monterrey, Nogales, Nuevo Laredo, Tijuana<br>
 
 **Flag description**<br>
-three equal vertical bands of green (hoist side), white, and red; Mexico's coat of arms (an eagle with a snake in its beak perched on a cactus) is centered in the white band; green signifies hope, joy, and love; white represents peace and honesty; red stands for hardiness, bravery, strength, and valor; the coat of arms is derived from a legend that the wandering Aztec people were to settle at a location where they would see an eagle on a cactus eating a snake; the city they founded, Tenochtitlan, is now Mexico City<br>
-<strong>note:</strong> similar to the flag of Italy, which is shorter, uses lighter shades of green and red, and does not display anything in its white band<br>
+three equal vertical bands of green (hoist side), white, and red; Mexico's coat of arms (an eagle with a snake in its beak perched on a cactus) is centered in the white band; green stands for hope, joy, and love; white for peace and honesty; red for hardiness, bravery, strength, and valor<br>
+<strong>note:</strong> similar to the flag of Italy, which is shorter, has no emblem, and uses lighter shades of green and red<br>
 
 **National symbol(s)**<br>
 golden eagle, dahlia; national colors: green, white, red<br>
@@ -717,11 +717,11 @@ the Mexican Armed Forces (Fuerzas Armadas de México) are divided between the S
 <strong>note:</strong> the National Guard was formed in 2019 of personnel from the former Federal Police (disbanded in December 2019) and military police units of the Army and Navy<br>
 
 **Military expenditures**<br>
-0.6% of GDP (2023 est.)<br>
+0.9% of GDP (2024 est.)<br>
+0.7% of GDP (2023 est.)<br>
 0.7% of GDP (2022 est.)<br>
 0.7% of GDP (2021 est.)<br>
 0.6% of GDP (2020 est.)<br>
-0.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 260,000 active-duty Armed Forces; approximately 110,000 National Guard personnel (2025)<br>

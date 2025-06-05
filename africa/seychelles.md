@@ -173,7 +173,7 @@ _unimproved: total_: total: 3.8% of population (2017 est.)<br>
 2.25 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
-3.6 beds/1,000 population (2011)<br>
+3.2 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
@@ -194,9 +194,9 @@ _spirits_: 4.62 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.25 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 20.2% (2020 est.)<br>
-_male_: 34% (2020 est.)<br>
-_female_: 6.4% (2020 est.)<br>
+_total_: 20.5% (2025 est.)<br>
+_male_: 34.2% (2025 est.)<br>
+_female_: 5.2% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 45% (2023 est.)<br>
@@ -345,7 +345,7 @@ _embassy_: 2nd Floor, Oliaji Trade Center, Victoria Mahe, Seychelles; note - US 
 _telephone_: [248] 422 5256<br>
 
 **Flag description**<br>
-five oblique bands of blue (hoist side), yellow, red, white, and green (bottom) radiating from the bottom of the hoist side; the oblique bands are meant to symbolize a dynamic new country moving into the future; blue represents sky and sea, yellow the sun giving light and life, red the peoples' determination to work for the future in unity and love, white social justice and harmony, and green the land and natural environment<br>
+five oblique bands of blue (hoist side), yellow, red, white, and green (bottom), radiating from the bottom of the hoist side; the bands symbolize a dynamic new country moving into the future; blue stands for the sky and sea, yellow for the sun giving light and life, red for the people's determination to work for the future in unity and love, white for social justice and harmony, and green for the land and natural environment<br>
 
 **National symbol(s)**<br>
 coco de mer (sea coconut); national colors: blue, yellow, red, white, green<br>

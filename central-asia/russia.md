@@ -197,7 +197,7 @@ _unimproved: total_: total: 2.4% of population (2020 est.)<br>
 5.11 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-7.1 beds/1,000 population (2018)<br>
+7 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 95.2% of population<br>
@@ -218,19 +218,16 @@ _spirits_: 3.16 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.12 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 26.8% (2020 est.)<br>
-_male_: 40.8% (2020 est.)<br>
-_female_: 12.8% (2020 est.)<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
+_total_: 26.5% (2025 est.)<br>
+_male_: 40.2% (2025 est.)<br>
+_female_: 15.1% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 53.1% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.3%<br>
-_women married by age 18_: 6.2% (2017 est.)<br>
+_women married by age 15_: 0.3% (2017)<br>
+_women married by age 18_: 6.2% (2017)<br>
 
 **Education expenditures**<br>
 3.7% of GDP (2020 est.)<br>
@@ -413,11 +410,13 @@ _email address and website_: <br>MoscowACS@state.gov<br><br>https://ru.usembassy
 _consulate(s) general_: Vladivostok (suspended status), Yekaterinburg (suspended status)<br>
 
 **Flag description**<br>
-three equal horizontal bands of white (top), blue, and red<br>
-<strong>note:</strong> the Russian flag was created when Russia built its first naval vessels, and was used mostly as a naval ensign until the nineteenth century; the colors may have been based on those of the Dutch flag; despite many popular interpretations, there is no official meaning assigned to the colors of the Russian flag; the flag inspired several other Slavic countries to adopt horizontal tricolors of the same colors but in different arrangements, and so red, blue, and white became the Pan-Slav colors<br>
+three equal horizontal bands of white (top), blue, and red; created when Russia built its first naval vessels, and was used mostly as a naval ensign until the 19th century; colors may have been based on the Dutch flag, but no official meaning is assigned; inspired several other Slavic countries to adopt horizontal tricolors of the same colors in different arrangements<br>
 
 **National symbol(s)**<br>
 bear, double-headed eagle; national colors: white, blue, red<br>
+
+**National coat of arms**<br>
+The current coat of arms of Russia was adopted by presidential decree on 30 November 1993. The double-headed eagle was adopted as a Russian symbol in 1472 when Ivan III married Sophia Palaiologina, niece of the last Byzantine emperor in Constantinople. The eagle had served as her family's emblem.<br>
 
 **National anthem**<br>
 _name_: "Gimn Rossiyskoy Federatsii" (National Anthem of the Russian Federation)<br>
@@ -427,9 +426,6 @@ _lyrics/music_: Sergey Vladimirovich MIKHALKOV/Aleksandr Vasilyevich ALEKSANDROV
 **National heritage**<br>
 _total World Heritage Sites_: 32 (21 cultural, 11 natural)<br>
 _selected World Heritage Site locales_: <p>Historic Centre of Saint Petersburg and Related Groups of Monuments (c); Kizhi Pogost (c); Kremlin and Red Square, Moscow (c); Cultural and Historic Ensemble of the Solovetsky Islands (c); Historic Monuments of Novgorod and Surroundings (c); White Monuments of Vladimir and Suzdal (c); Architectural Ensemble of the Trinity Sergius Lavra in Sergiev Posad (c); Church of the Ascension, Kolomenskoye (c); Virgin Komi Forests (n); Lake Baikal (n); Volcanoes of Kamchatka (n); Golden Mountains of Altai (n); Western Caucasus (n); Curonian Spit (c); Ensemble of the Ferapontov Monastery (c); Historic and Architectural Complex of the Kazan Kremlin (c); Central Sikhote-Alin (n); Citadel, Ancient City and Fortress Buildings of Derbent (c); Uvs Nuur Basin (n); Ensemble of the Novodevichy Convent(c); Natural System of Wrangel Island Reserve (n); Historical Centre of the City of Yaroslavl (c); Struve Geodetic Arc (c); Putorana Plateau (n); Lena Pillars Nature Park (n); Bolgar Historical and Archaeological Complex (c); Assumption Cathedral and Monastery of the town-island of Sviyazhsk (c); Landscapes of Dauria (n); Churches of the Pskov School of Architecture (c); Petroglyphs of Lake Onega and the White Sea (c); Astronomical Observatories of Kazan Federal University (c); Cultural Landscape of Kenozero Lake (c)</p><br>
-
-**National coat of arms**<br>
-The current coat of arms of Russia was adopted by presidential decree on 30 November 1993. The double-headed eagle was adopted as a Russian symbol in 1472 when Ivan III married Sophia Palaiologina, niece of the last Byzantine emperor in Constantinople. The eagle had served as her family's emblem.<br>
 
 ## Economy
 
@@ -716,11 +712,11 @@ Armed Forces of the Russian Federation: Ground Troops (Sukhoputnyye Voyskia, SV)
 <strong>note 1: </strong>the Air Force and Aerospace Defense Forces were merged into the VKS in 2015; VKS responsibilities also include launching military and dual‐use satellites, maintaining military satellites, and monitoring and defending against space threats; in 2024, the Russian Government announced plans to create an Unmanned Systems Force branch in 2025<br><br><strong>note 2:</strong> the Ministry of Internal Affairs, Federal Security Service, Investigative Committee, Office of the Prosecutor General, and National Guard are responsible for law enforcement; the Federal Security Service is responsible for state security, counterintelligence, and counterterrorism, as well as for fighting organized crime and corruption; the national police force, under the Ministry of Internal Affairs, is responsible for combating all crime<br><br><strong>note 3:</strong> the National Guard was created in 2016 as an independent agency for internal/regime security, combating terrorism and narcotics trafficking, protecting important state facilities and government personnel, and supporting border security; it also participates in armed defense of the country’s territory in coordination with the Armed Forces; forces under the National Guard include the Special Purpose Mobile Units (OMON), Special Rapid Response Detachment (SOBR), and Interior Troops (VV); these troops were originally under the command of the Interior Ministry (MVD)<br>
 
 **Military expenditures**<br>
+7% of GDP (2024 est.)<br>
 5% of GDP (2023 est.)<br>
-4% of GDP (2022 est.)<br>
+4.5% of GDP (2022 est.)<br>
 4% of GDP (2021 est.)<br>
 4% of GDP (2020 est.)<br>
-3.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 1.1-1.2 million active Armed Forces; estimated 350,000 Federal National Guard Troops (2025)<br>

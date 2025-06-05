@@ -179,7 +179,7 @@ _unimproved: total_: total: 3.6% of population (2020 est.)<br>
 0.46 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-1.7 beds/1,000 population (2017)<br>
+1.7 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 98.6% of population<br>
@@ -200,9 +200,9 @@ _spirits_: 1.66 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.35 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 9.4% (2020 est.)<br>
-_male_: 15% (2020 est.)<br>
-_female_: 3.8% (2020 est.)<br>
+_total_: 9% (2025 est.)<br>
+_male_: 15.1% (2025 est.)<br>
+_female_: 3.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 2.5% (2018/19)<br>
@@ -368,7 +368,7 @@ _FAX_: (876) 702-6348<br>
 _email address and website_: <br>KingstonACS@state.gov<br><br>https://jm.usembassy.gov/<br>
 
 **Flag description**<br>
-diagonal yellow cross divides the flag into four triangles - green (top and bottom) and black (hoist side and fly side); green represents hope, vegetation, and agriculture, black reflects hardships overcome and to be faced, and yellow recalls golden sunshine and the island's natural resources<br>
+diagonal yellow cross divides the flag into four triangles, two green (top and bottom) and two black (hoist side and fly side); green stands for hope, vegetation, and agriculture, black for hardships overcome and to be faced, and yellow for sunshine and natural resources<br>
 
 **National symbol(s)**<br>
 green-and-black streamertail (bird), Guiacum officinale (Lignum Vitae); national colors: green, yellow, black<br>
@@ -600,7 +600,7 @@ _subscriptions per 100 inhabitants_: 106 (2022 est.)<br>
 .jm<br>
 
 **Internet users**<br>
-_percent of population_: 85% (2022 est.)<br>
+_percent of population_: 83% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 448,000 (2023 est.)<br>
@@ -637,11 +637,11 @@ Jamaica Defense Force (JDF): Jamaica Regiment (Land Force), Maritime, Air, and C
 <strong>note:</strong> the Jamaica Constabulary Force (JCF) is the country’s police force; it has primary responsibility for internal security and has units for community policing, special response, intelligence gathering, and internal affairs; both it and the JDF are under the Ministry of National Security<br>
 
 **Military expenditures**<br>
+1.4% of GDP (2024 est.)<br>
 1.2% of GDP (2023 est.)<br>
 1.3% of GDP (2022 est.)<br>
 1.4% of GDP (2021 est.)<br>
 1.7% of GDP (2020 est.)<br>
-1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 4,000 active Jamaica Defense Forces (2025)<br>

@@ -181,7 +181,7 @@ _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 0.38 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-1.8 beds/1,000 population<br>
+2.2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 94.9% of population<br>
@@ -202,9 +202,9 @@ _spirits_: 0.96 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 1.64 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 19.4% (2020 est.)<br>
-_male_: 30.4% (2020 est.)<br>
-_female_: 8.3% (2020 est.)<br>
+_total_: 17.1% (2025 est.)<br>
+_male_: 29.2% (2025 est.)<br>
+_female_: 5.5% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -377,6 +377,9 @@ light blue with a horizontal white-edged black stripe in the center; the blue sy
 **National symbol(s)**<br>
 zebra; national colors: light blue, white, black<br>
 
+**National coat of arms**<br>
+The two zebras on Botswana's coat of arms are the country’s national symbol. They support an elephant tusk that represents the country's fauna and a head of sorghum that signifies agriculture. The three wavy blue bands symbolize the country’s reliance on water, the cog wheels stand for industry, and the bull’s head represents the cattle industry. The coat of arms also features the national colors of light blue, white, and black. The motto reflects the scarcity of rain in the country: <em>pula </em>means “let there be rain” in Setswana, the national language.<br>
+
 **National anthem**<br>
 _name_: "Fatshe leno la rona" (Our Land)<br>
 _lyrics/music_: Kgalemang Tumedisco MOTSETE<br>
@@ -385,9 +388,6 @@ _lyrics/music_: Kgalemang Tumedisco MOTSETE<br>
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
 _selected World Heritage Site locales_: Tsodilo Hills (c); Okavango Delta (n)<br>
-
-**National coat of arms**<br>
-The two zebras on Botswana's coat of arms are the country’s national symbol. They support an elephant tusk that represents the country's fauna and a head of sorghum that signifies agriculture. The three wavy blue bands symbolize the country’s reliance on water, the cog wheels stand for industry, and the bull’s head represents the cattle industry. The coat of arms also features the national colors of light blue, white, and black. The motto reflects the scarcity of rain in the country: <em>pula </em>means “let there be rain” in Setswana, the national language.<br>
 
 ## Economy
 
@@ -631,11 +631,11 @@ Botswana Defense Force (BDF): Ground Forces Command, Air Arm Command, Defense Lo
 <strong>note 1:</strong> both the BDF and the Botswana Police Service (BPS) report to the Ministry of Defense, Justice and Security; the BPS has primary responsibility for internal security<br><br><strong>note 2: </strong>the Ground Force Command includes a marine unit with boats and river craft for patrolling Botswana's internal waterways and supporting anti-poaching operations<br>
 
 **Military expenditures**<br>
+2.9% of GDP (2024 est.)<br>
 2.6% of GDP (2023 est.)<br>
 2.8% of GDP (2022 est.)<br>
 3% of GDP (2021 est.)<br>
 3% of GDP (2020 est.)<br>
-2.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 10,000 active Botswana Defense Force (2025)<br>

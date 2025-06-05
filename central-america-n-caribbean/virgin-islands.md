@@ -170,9 +170,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 27.4% (2023)<br>
 
@@ -274,7 +271,7 @@ none (territory of the US)<br>
 none (territory of the US)<br>
 
 **Flag description**<br>
-white field with a modified US coat of arms in the center between the large blue initials V and I; the coat of arms shows a yellow eagle holding an olive branch in its right talon and three arrows in the left with a superimposed shield of seven red and six white vertical stripes below a blue panel; white is a symbol of purity, the letters stand for the Virgin Islands<br>
+white field with a modified US coat of arms in the center between the large blue initials V and I; the coat of arms shows a yellow eagle holding an olive branch in its right talon and three arrows in the left, with a shield of seven red and six white vertical stripes below a blue panel; white is a symbol of purity, and the letters stand for the Virgin Islands<br>
 
 **National anthem**<br>
 _name_: "Virgin Islands March"<br>

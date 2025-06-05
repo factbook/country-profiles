@@ -176,7 +176,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 2.69 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-1.1 beds/1,000 population (2019)<br>
+1.2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99% of population<br>
@@ -197,9 +197,9 @@ _spirits_: 0.36 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.39 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 8.8% (2020 est.)<br>
-_male_: 12.9% (2020 est.)<br>
-_female_: 4.6% (2020 est.)<br>
+_total_: 8.1% (2025 est.)<br>
+_male_: 12.2% (2025 est.)<br>
+_female_: 4.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 2.9% (2018)<br>
@@ -208,8 +208,8 @@ _female_: 4.6% (2020 est.)<br>
 48.4% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 2%<br>
-_women married by age 18_: 17.1% (2018 est.)<br>
+_women married by age 15_: 2% (2018)<br>
+_women married by age 18_: 17.1% (2018)<br>
 
 **Education expenditures**<br>
 6.7% of GDP (2020 est.)<br>
@@ -367,6 +367,9 @@ five horizontal bands of blue (top), white, red (double width), white, and blue,
 **National symbol(s)**<br>
 yiguirro (clay-colored thrush); national colors: blue, white, red<br>
 
+**National coat of arms**<br>
+<p>The Costa Rican coat of arms highlights the country’s natural beauty and history. Three volcanoes, each topped with a white cloud, are surrounded with water, symbolizing the seaports of the Pacific and Atlantic Oceans. The rising sun in the background commemorates the birth of a new nation, and the seven white stars stand for the country's seven provinces. The two merchant ships carrying Costa Rica’s flag are a reminder of the maritime trade that shaped the country's history.</p> <p> </p><br>
+
 **National anthem**<br>
 _name_: "Himno Nacional de Costa Rica" (National Anthem of Costa Rica)<br>
 _lyrics/music_: Jose Maria ZELEDON Brenes/Manuel Maria GUTIERREZ<br>
@@ -375,9 +378,6 @@ _lyrics/music_: Jose Maria ZELEDON Brenes/Manuel Maria GUTIERREZ<br>
 **National heritage**<br>
 _total World Heritage Sites_: 4 (1 cultural, 3 natural)<br>
 _selected World Heritage Site locales_: Guanacaste Conservation Area (n); Cocos Island National Park (n); Precolumbian Stone Spheres (c); La Amistad International Park (n)<br>
-
-**National coat of arms**<br>
-<p>The Costa Rican coat of arms highlights the country’s natural beauty and history. Three volcanoes, each topped with a white cloud, are surrounded with water, symbolizing the seaports of the Pacific and Atlantic Oceans. The rising sun in the background commemorates the birth of a new nation, and the seven white stars stand for the country's seven provinces. The two merchant ships carrying Costa Rica’s flag are a reminder of the maritime trade that shaped the country's history.</p> <p> </p><br>
 
 ## Economy
 
@@ -642,11 +642,11 @@ no regular military forces; Ministry of Public Security (Ministerio de Seguridad
 <strong>note:</strong> Costa Rica's armed forces were constitutionally abolished in 1949<br>
 
 **Military expenditures**<br>
+0.6% of GDP (2024 est.)<br>
 0.6% of GDP (2023 est.)<br>
 0.6% of GDP (2022 est.)<br>
 0.7% of GDP (2021 est.)<br>
 0.7% of GDP (2020 est.)<br>
-0.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 10-15,000 Ministry of Public Security personnel (2025)<br>

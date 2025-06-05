@@ -176,7 +176,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 0.74 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
-1.7 beds/1,000 population (2017)<br>
+1.7 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
@@ -197,9 +197,9 @@ _spirits_: 0.66 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.01 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 14.9% (2020 est.)<br>
-_male_: 25.3% (2020 est.)<br>
-_female_: 4.5% (2020 est.)<br>
+_total_: 17.3% (2025 est.)<br>
+_male_: 24.3% (2025 est.)<br>
+_female_: 4.8% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 43.8% (2023 est.)<br>
@@ -628,11 +628,11 @@ Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Roy
 <strong>note 1:</strong> the Royal Guard is officially under the command of the Army, but exercises considerable autonomy <br><br><strong>note 2:</strong> the Ministry of Interior is responsible for internal security and oversees police and specialized security units responsible for maintaining internal order; the National Guard's primary mission is to guard critical infrastructure such as the airport and oil fields and is a back-up to the police; the Guard is under the Ministry of Interior but reports directly to the king<br>
 
 **Military expenditures**<br>
-3.1% of GDP (2023 est.)<br>
+3% of GDP (2024 est.)<br>
+3.2% of GDP (2023 est.)<br>
 3.2% of GDP (2022 est.)<br>
 3.6% of GDP (2021 est.)<br>
 4.2% of GDP (2020 est.)<br>
-4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 10,000 active Bahrain Defense Force; approximately 3,000 National Guard (2025)<br>

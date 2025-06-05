@@ -180,7 +180,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 5.85 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-3.5 beds/1,000 population (2018)<br>
+3.5 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.9% of population<br>
@@ -201,9 +201,9 @@ _spirits_: 1.34 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.37 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 25.4% (2020 est.)<br>
-_male_: 30.5% (2020 est.)<br>
-_female_: 20.2% (2020 est.)<br>
+_total_: 20.7% (2025 est.)<br>
+_male_: 26.1% (2025 est.)<br>
+_female_: 15.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 0.4% (2015/16)<br>
@@ -334,10 +334,9 @@ _number of seats_: 230 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 3/10/2024<br>
-_parties elected and seats per party_: Socialist Party (PS) (78); Social Democratic Party (PPD/PSD) - Democratic and Social Centre - People's Party (CDS-PP) - People's Monarchist Party (PPM) (77); Chega (CH) (50); Other (25)<br>
+_most recent election date_: 5/18/2025<br>
 _percentage of women in chamber_: 34.8%<br>
-_expected date of next election_: May 2025<br>
+_expected date of next election_: September 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supremo Tribunal de Justica (consists of 12 justices); Constitutional Court or Tribunal Constitucional (consists of 13 judges)<br>
@@ -369,7 +368,7 @@ _email address and website_: <br>conslisbon@state.gov<br><br>https://pt.usembass
 _consulate(s)_: Ponta Delgada (Azores)<br>
 
 **Flag description**<br>
-two vertical bands of green (hoist side, two-fifths) and red (three-fifths) with the national coat of arms (armillary sphere and Portuguese shield) centered on the dividing line; explanations for the color meanings are ambiguous, but a popular interpretation has green symbolizing hope and red the blood of those defending the nation<br>
+two vertical bands of green (hoist side, two-fifths) and red (three-fifths), with the national coat of arms (armillary sphere and national shield) centered on the dividing line; explanations for the color meanings are ambiguous, but a popular interpretation has green symbolizing hope and red the blood of those defending the nation<br>
 
 **National symbol(s)**<br>
 armillary sphere (a spherical astrolabe modeling objects in the sky and representing the Republic); national colors: red, green<br>

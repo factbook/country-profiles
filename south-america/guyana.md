@@ -181,7 +181,7 @@ _unimproved: total_: total: 3.2% of population (2020 est.)<br>
 1.39 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
-1.7 beds/1,000 population (2016)<br>
+2.6 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 97.8% of population<br>
@@ -202,15 +202,20 @@ _spirits_: 2.3 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.02 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 12.1% (2020 est.)<br>
-_male_: 21.7% (2020 est.)<br>
-_female_: 2.4% (2020 est.)<br>
+_total_: 9.2% (2025 est.)<br>
+_male_: 16.9% (2025 est.)<br>
+_female_: 1.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 9.4% (2019)<br>
 
 **Currently married women (ages 15-49)**<br>
 62.6% (2023 est.)<br>
+
+**Child marriage**<br>
+_women married by age 15_: 6.3% (2020)<br>
+_women married by age 18_: 32.3% (2020)<br>
+_men married by age 18_: 11.9% (2020)<br>
 
 **Education expenditures**<br>
 4.5% of GDP (2018 est.)<br>
@@ -335,7 +340,7 @@ _term in office_: 5 years<br>
 _most recent election date_: 3/2/2020<br>
 _parties elected and seats per party_: People's Progressive Party/Civic (PPP/C) (33); A Partnership for National Unity - Alliance for Change (APNU-AFC) (31); Other (1)<br>
 _percentage of women in chamber_: 39.4%<br>
-_expected date of next election_: May 2025<br>
+_expected date of next election_: September 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Judicature (consists of the Court of Appeal with a chief justice and 3 justices, and the High Court with a chief justice and 10 justices organized into 3- or 5-judge panels); Caribbean Court of Justice is the final court of appeal in civil and criminal cases<br>
@@ -365,7 +370,7 @@ _FAX_: [592] 225-8497<br>
 _email address and website_: <br>acsgeorge@state.gov<br><br>https://gy.usembassy.gov/<br>
 
 **Flag description**<br>
-green with a red isosceles triangle (based on the hoist side) superimposed on a long, yellow arrowhead; there is a narrow, black border between the red and yellow, and a narrow, white border between the yellow and the green; green represents forest and foliage; yellow stands for mineral resources and a bright future; white symbolizes Guyana's rivers; red signifies zeal and the sacrifice of the people; black indicates perseverance; also referred to by its nickname The Golden Arrowhead<br>
+green with a red isosceles triangle (based on the hoist side) on top of a long, yellow arrowhead; a narrow black border sits between the red and yellow, and a narrow white border between the yellow and green; green stands for forest and foliage, yellow for mineral resources and a bright future, white for the rivers, red for zeal and the people's sacrifice, and black for perseverance<br>
 
 **National symbol(s)**<br>
 Canje pheasant (hoatzin), jaguar, Victoria Regia water lily; national colors: red, yellow, green, black, white<br>
@@ -567,7 +572,7 @@ government-dominated broadcast media; the National Communications Network (NCN) 
 .gy<br>
 
 **Internet users**<br>
-_percent of population_: 85% (2022 est.)<br>
+_percent of population_: 82% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 106,000 (2022 est.)<br>
@@ -601,11 +606,11 @@ the Guyana Defense Force (GDF) is a unified force with ground, air, and coast gu
 <strong>note:</strong> the Guyana Police Force under the Ministry of Home Affairs is responsible for internal security<br>
 
 **Military expenditures**<br>
+0.9% of GDP (2024 est.)<br>
 0.6% of GDP (2023 est.)<br>
 0.6% of GDP (2022 est.)<br>
 1% of GDP (2021 est.)<br>
 1.2% of GDP (2020 est.)<br>
-1.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 3,500 active-duty Guyana Defense Forces (2025)<br>

@@ -193,7 +193,7 @@ _unimproved: total_: total: 4.5% of population (2020 est.)<br>
 0.72 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
-0.5 beds/1,000 population (2017)<br>
+1.6 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 98.6% of population<br>
@@ -214,9 +214,9 @@ _spirits_: 2.85 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 27.2% (2020 est.)<br>
-_male_: 41.3% (2020 est.)<br>
-_female_: 13% (2020 est.)<br>
+_total_: 21.8% (2025 est.)<br>
+_male_: 34.1% (2025 est.)<br>
+_female_: 8.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 31.5% (2019/21)<br>
@@ -225,9 +225,9 @@ _female_: 13% (2020 est.)<br>
 72.6% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 4.8%<br>
-_women married by age 18_: 23.3%<br>
-_men married by age 18_: 2.6% (2021 est.)<br>
+_women married by age 15_: 4.8% (2021)<br>
+_women married by age 18_: 23.3% (2021)<br>
+_men married by age 18_: 2.6% (2021)<br>
 
 **Education expenditures**<br>
 4.5% of GDP (2020 est.)<br>
@@ -405,7 +405,7 @@ _email address and website_: <br>acsnd@state.gov<br><br>https://in.usembassy.gov
 _consulate(s) general_: Chennai (Madras), Hyderabad, Kolkata (Calcutta), Mumbai (Bombay)<br>
 
 **Flag description**<br>
-three equal horizontal bands of saffron (subdued orange) (top), white, and green, with a blue chakra (24-spoked wheel) centered in the white band; saffron represents courage, sacrifice, and the spirit of renunciation; white signifies purity and truth; green stands for faith and fertility; the blue chakra symbolizes the wheel of life in movement and death in stagnation<br>
+three equal horizontal bands of saffron (top), white, and green, with a blue <em>chakra </em>(24-spoked wheel) centered in the white band; saffron stands for courage, sacrifice, and the spirit of renunciation; white for purity and truth; green for faith and fertility; the chakra symbolizes the wheel of life in movement and death in stagnation<br>
 <strong>note:</strong> similar to the flag of Niger, which has a small orange disk centered in the white band<br>
 
 **National symbol(s)**<br>
@@ -658,7 +658,7 @@ Doordarshan, India's public TV network, has a monopoly on terrestrial broadcasti
 .in<br>
 
 **Internet users**<br>
-_percent of population_: 43% (2020 est.)<br>
+_percent of population_: 56% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 39.3 million (2023 est.)<br>
@@ -701,11 +701,11 @@ Indian Armed Forces (IAF): Army, Navy, Air Force, Coast Guard<br><br>Ministry of
 <strong>note 1: </strong>the Border Security Force (BSF) is responsible for the Indo-Pakistan and Indo-Bangladesh borders; the Sashastra Seema Bal (SSB or Armed Border Force) guards the Indo-Nepal and Indo-Bhutan borders<br><br><strong>note 2:</strong> the Central Reserve Police Force (CRPF) includes a Rapid Reaction Force (RAF) for riot control and the Commando Battalion for Resolute Action (COBRA) for counter-insurgency operations <br><br><strong>note 3:</strong> the Assam Rifles are under the administrative control of the Ministry of Home Affairs, while operational control falls under the Ministry of Defense (specifically the Indian Army)<br>
 
 **Military expenditures**<br>
+2% of GDP (2024 est.)<br>
 2.3% of GDP (2023 est.)<br>
 2.1% of GDP (2022 est.)<br>
 2.2% of GDP (2021 est.)<br>
 2.5% of GDP (2020 est.)<br>
-2.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 1.5 million active Indian Armed Forces, including about 1.25 million in the Army (2025)<br>

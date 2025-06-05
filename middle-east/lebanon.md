@@ -175,7 +175,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 2.68 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
-2.7 beds/1,000 population (2017)<br>
+2.7 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
@@ -196,9 +196,9 @@ _spirits_: 0.53 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.02 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 38.2% (2020 est.)<br>
-_male_: 47.5% (2020 est.)<br>
-_female_: 28.9% (2020 est.)<br>
+_total_: 34.1% (2025 est.)<br>
+_male_: 43.8% (2025 est.)<br>
+_female_: 25.4% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 3.4% (2021)<br>
@@ -207,8 +207,8 @@ _female_: 28.9% (2020 est.)<br>
 51.4% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 1.4%<br>
-_women married by age 18_: 6% (2016 est.)<br>
+_women married by age 15_: 1.4% (2016)<br>
+_women married by age 18_: 6% (2016)<br>
 
 **Education expenditures**<br>
 1.7% of GDP (2020 est.)<br>
@@ -365,7 +365,7 @@ _FAX_: [961] (4) 544-019<br>
 _email address and website_: <br>BeirutACS@state.gov<br><br>https://lb.usembassy.gov/<br>
 
 **Flag description**<br>
-three horizontal bands consisting of red (top), white (middle, double width), and red (bottom) with a green cedar tree centered in the white band; the red bands symbolize blood shed for liberation, the white band denotes peace, the snow of the mountains, and purity; the green cedar tree is the symbol of Lebanon and represents eternity, steadiness, happiness, and prosperity<br>
+three horizontal bands consisting of red (top), white (middle, double-width), and red (bottom), with a green cedar tree centered in the white band; the red bands stand for blood shed for liberation, and the white for peace, the snow of the mountains, and purity; the green cedar tree is the national symbol and represents eternity, steadiness, happiness, and prosperity<br>
 
 **National symbol(s)**<br>
 cedar tree; national colors: red, white, green<br>
@@ -629,11 +629,11 @@ Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, 
 <strong>note:</strong> the commander of the LAF is also the head of the Army; the LAF patrols external borders, while official border checkpoints are under the authority of Directorate for General Security<br>
 
 **Military expenditures**<br>
+2.9% of GDP (2022 est.)<br>
 3.2% of GDP (2021 est.)<br>
 3% of GDP (2020 est.)<br>
 4.7% of GDP (2019 est.)<br>
 5.1% of GDP (2018 est.)<br>
-4.6% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 70,000 active Lebanese Armed Forces (2025)<br>

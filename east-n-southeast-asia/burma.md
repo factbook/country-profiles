@@ -189,7 +189,7 @@ _unimproved: total_: total: 14.7% of population (2020 est.)<br>
 0.76 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
-1 beds/1,000 population (2017)<br>
+1.1 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 93.9% of population<br>
@@ -210,20 +210,20 @@ _spirits_: 1.55 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 44.1% (2020 est.)<br>
-_male_: 68.5% (2020 est.)<br>
-_female_: 19.7% (2020 est.)<br>
+_total_: 42.2% (2025 est.)<br>
+_male_: 68.1% (2025 est.)<br>
+_female_: 17.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-19.1% (2017/18)<br>
+19.1% (2018)<br>
 
 **Currently married women (ages 15-49)**<br>
 57.5% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 1.9%<br>
-_women married by age 18_: 16%<br>
-_men married by age 18_: 5% (2016 est.)<br>
+_women married by age 15_: 1.9% (2016)<br>
+_women married by age 18_: 16% (2016)<br>
+_men married by age 18_: 5% (2016)<br>
 
 **Education expenditures**<br>
 2.1% of GDP (2019 est.)<br>

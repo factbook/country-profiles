@@ -182,12 +182,9 @@ _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 55.3% (2016)<br>
 
 **Tobacco use**<br>
-_total_: 17.6% (2020 est.)<br>
-_male_: 27.3% (2020 est.)<br>
-_female_: 7.9% (2020 est.)<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
+_total_: 16.3% (2025 est.)<br>
+_male_: 25.2% (2025 est.)<br>
+_female_: 6.8% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 45.6% (2023 est.)<br>
@@ -348,7 +345,7 @@ _FAX_: [680] 587-2911<br>
 _email address and website_: <br>ConsularKoror@state.gov<br><br>https://pw.usembassy.gov/<br>
 
 **Flag description**<br>
-light blue with a large yellow disk shifted slightly to the hoist side; the blue color represents the ocean, the disk represents the moon; Palauans consider the full moon to be the optimum time for human activity; it is also considered a symbol of peace, love, and tranquility<br>
+light blue with a large yellow disk shifted slightly to the hoist side; blue stands for the ocean, and the disk for the moon, which is considered a symbol of peace, love, and tranquility<br>
 
 **National symbol(s)**<br>
 bai (native meeting house); national colors: blue, yellow<br>

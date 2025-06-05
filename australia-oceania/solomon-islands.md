@@ -176,9 +176,6 @@ _unimproved: total_: total: 26.9% of population (2020 est.)<br>
 **Physician density**<br>
 0.24 physicians/1,000 population (2023)<br>
 
-**Hospital bed density**<br>
-1.4 beds/1,000 population (2012)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 95.6% of population<br>
 _improved: rural_: rural: 22.6% of population<br>
@@ -198,15 +195,20 @@ _spirits_: 0.02 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 36.5% (2020 est.)<br>
-_male_: 53.8% (2020 est.)<br>
-_female_: 19.2% (2020 est.)<br>
+_total_: 36.8% (2025 est.)<br>
+_male_: 54.5% (2025 est.)<br>
+_female_: 18.8% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 16.2% (2015)<br>
 
 **Currently married women (ages 15-49)**<br>
 64.1% (2023 est.)<br>
+
+**Child marriage**<br>
+_women married by age 15_: 5.6% (2015)<br>
+_women married by age 18_: 21.3% (2015)<br>
+_men married by age 18_: 4.4% (2015)<br>
 
 **Education expenditures**<br>
 12.8% of GDP (2020 est.)<br>
@@ -343,7 +345,7 @@ _FAX_: [677] 27429<br>
 _email address and website_: <br>EmbassyHoniara@state.gov<br><br>https://pg.usembassy.gov/<br>
 
 **Flag description**<br>
-divided diagonally by a thin yellow stripe from the lower hoist-side corner; the upper triangle (hoist side) is blue with five white five-pointed stars arranged in an X pattern; the lower triangle is green; blue represents the ocean, green the land, and yellow sunshine; the five stars stand for the five main island groups of the Solomon Islands<br>
+divided diagonally by a thin yellow stripe from the lower hoist-side corner; the upper triangle (hoist side) is blue with five white five-pointed stars in an X pattern; the lower triangle is green; blue stands for the ocean, green for the land, and yellow for sunshine; the five stars stand for the main island groups<br>
 
 **National symbol(s)**<br>
 national colors: blue, yellow, green, white<br>
@@ -552,7 +554,7 @@ multi-channel pay-TV is available; Solomon Islands Broadcasting Corporation (SIB
 .sb<br>
 
 **Internet users**<br>
-_percent of population_: 45% (2022 est.)<br>
+_percent of population_: 43% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2022 est.)<br>

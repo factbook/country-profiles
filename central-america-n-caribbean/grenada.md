@@ -164,7 +164,7 @@ _unimproved: total_: total: 3.2% of population (2017 est.)<br>
 1.38 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-3.6 beds/1,000 population (2017)<br>
+3.2 beds/1,000 population (2018 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
@@ -344,7 +344,7 @@ _FAX_: [1] (473) 444-4820<br>
 _email address and website_: <br>StgeorgesACS@state.gov<br><br>https://bb.usembassy.gov/embassy/grenada/<br>
 
 **Flag description**<br>
-a rectangle divided diagonally into yellow triangles (top and bottom) and green triangles (hoist side and outer side), with a red border around the flag; there are seven yellow, five-pointed stars with three centered in the top red border, three centered in the bottom red border, and one on a red disk superimposed at the center of the flag; there is also a symbolic nutmeg pod on the hoist-side triangle (Grenada is a leading nutmeg producer); the seven stars stand for the seven administrative divisions, with the central star denoting the capital, St. George's; yellow represents the sun and the warmth of the people, green stands for vegetation and agriculture, and red symbolizes harmony, unity, and courage<br>
+a rectangle divided diagonally into yellow triangles (top and bottom) and green triangles (hoist side and outer side), with a red border around the flag; three yellow five-pointed stars are centered on the top red border, three on the bottom red border, and one on a red disk at the center of the flag; a nutmeg pod is on the hoist-side triangle; the seven stars stand for the administrative divisions, with the central star denoting the capital, St. George's; yellow stands for the sun and the warmth of the people, green for vegetation and agriculture, and red for harmony, unity, and courage<br>
 
 **National symbol(s)**<br>
 Grenada dove, bougainvillea flower; national colors: red, yellow, green<br>

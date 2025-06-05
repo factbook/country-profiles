@@ -178,9 +178,6 @@ _unimproved: total_: total: 43.9% of population (2020 est.)<br>
 **Physician density**<br>
 0.17 physicians/1,000 population (2022)<br>
 
-**Hospital bed density**<br>
-0.2 beds/1,000 population<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 49.2% of population<br>
 _improved: rural_: rural: 22.1% of population<br>
@@ -200,9 +197,9 @@ _spirits_: 0.32 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 27.8% (2020 est.)<br>
-_male_: 42.7% (2020 est.)<br>
-_female_: 12.8% (2020 est.)<br>
+_total_: 24.1% (2025 est.)<br>
+_male_: 40.2% (2025 est.)<br>
+_female_: 8.2% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 22.6% (2021)<br>
@@ -211,9 +208,9 @@ _female_: 12.8% (2020 est.)<br>
 60.1% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 12.7%<br>
-_women married by age 18_: 38.8%<br>
-_men married by age 18_: 11.2% (2021 est.)<br>
+_women married by age 15_: 12.7% (2021)<br>
+_women married by age 18_: 38.8% (2021)<br>
+_men married by age 18_: 11.2% (2021)<br>
 
 **Education expenditures**<br>
 3.1% of GDP (2020 est.)<br>
@@ -376,7 +373,7 @@ _FAX_: [261] 33-44-320-35<br>
 _email address and website_: <br>antanACS@state.gov<br><br>https://mg.usembassy.gov/<br>
 
 **Flag description**<br>
-two equal horizontal bands of red (top) and green with a vertical white band of the same width on hoist side; by tradition, red stands for sovereignty, green for hope, white for purity<br>
+two equal horizontal bands of red (top) and green, with a vertical white band of the same width on hoist side; red stands for sovereignty, green for hope, and white for purity<br>
 
 **National symbol(s)**<br>
 traveller's palm (ravenala), zebu; national colors: red, green, white<br>
@@ -586,7 +583,7 @@ state-owned Radio Nationale Malagasy (RNM) and Television Malagasy (TVM) have an
 .mg<br>
 
 **Internet users**<br>
-_percent of population_: 21% (2022 est.)<br>
+_percent of population_: 20% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 34,000 (2023 est.)<br>
@@ -624,11 +621,11 @@ Madagascar Armed Forces (aka Armed forces of the Republic of Madagascar); Malaga
 <strong>note: </strong>the National Gendarmerie is under the Ministry of Defense but separate from the PAF and is responsible for maintaining law and order in rural areas at the village level, protecting government facilities, and operating a maritime police contingent; the National Police under the Ministry of Security is responsible for maintaining law and order in urban areas<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2024 est.)<br>
 0.7% of GDP (2023 est.)<br>
 0.7% of GDP (2022 est.)<br>
 0.7% of GDP (2021 est.)<br>
 0.7% of GDP (2020 est.)<br>
-0.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 13,000 Armed Forces; estimated 10,000 Gendarmerie (2025)<br>

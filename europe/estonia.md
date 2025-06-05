@@ -180,7 +180,7 @@ _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 3.47 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-4.6 beds/1,000 population (2018)<br>
+4.5 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.8% of population<br>
@@ -201,9 +201,9 @@ _spirits_: 4.6 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 1.13 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 29.7% (2020 est.)<br>
-_male_: 36.3% (2020 est.)<br>
-_female_: 23% (2020 est.)<br>
+_total_: 23.7% (2025 est.)<br>
+_male_: 29.9% (2025 est.)<br>
+_female_: 18.3% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 52.3% (2023 est.)<br>
@@ -362,7 +362,7 @@ _FAX_: [372] 668-8265<br>
 _email address and website_: <br>acstallinn@state.gov<br><br>https://ee.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of blue (top), black, and white; various interpretations are linked to the flag colors; blue represents faith, loyalty, and devotion, while also reminiscent of the sky, sea, and lakes of the country; black symbolizes the soil of the country and the dark past and suffering endured by the Estonian people; white refers to the striving towards enlightenment and virtue, and is the color of birch bark and snow, as well as summer nights illuminated by the midnight sun<br>
+three equal horizontal bands of blue (top), black, and white; blue represents faith, loyalty, and devotion, and also the sky, sea, and lakes; black stands for the soil of the country, as well as the Estonian people's past suffering; white stands for striving towards enlightenment and virtue and also for birch bark, snow, and summer nights illuminated by the midnight sun<br>
 
 **National symbol(s)**<br>
 barn swallow, cornflower; national colors: blue, black, white<br>
@@ -379,7 +379,7 @@ _selected World Heritage Site locales_: Historic Center (Old Town) of Tallinn; S
 ## Economy
 
 **Economic overview**<br>
-advanced, service-based EU and eurozone economy; economic downturn due to inflation, trade, and energy impacts of Ukraine war; decline in intra-EU trade; low public debt relative to EU members; recovery depends on improving private investment and productivity rates<br>
+<p>high-income, service-based EU and eurozone economy; rebound in exports playing a role in economic recovery; rising food prices contributing to inflation; decrease in labor force participation and rising unemployment rate; recovery depends on boosting private investment and productivity rates</p> <p> </p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $58.199 billion (2023 est.)<br>

@@ -171,7 +171,7 @@ _unimproved: total_: total: 0% of population (2020)<br>
 2.04 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
-4.9 beds/1,000 population (2020)<br>
+4.9 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 96.4% of population<br>
@@ -309,7 +309,7 @@ _FAX_: [852] 2845-1598<br>
 _email address and website_: <br>acshk@state.gov<br><br>https://hk.usconsulate.gov/<br>
 
 **Flag description**<br>
-red with a stylized, white, five-petal Bauhinia flower in the center; each petal contains a small, red, five-pointed star in its middle; the red color is the same as that on the Chinese flag and represents the motherland; the fragrant Bauhinia - developed in Hong Kong the late 19th century - has come to symbolize the region; the five stars echo those on the flag of China<br>
+red with a stylized, five-petal, white Bauhinia flower in the center; each petal has a small, five-pointed red star; the red color is the same as the Chinese flag and represents the motherland, and the five stars also echo the Chinese flag; the Bauhinia flower was developed in Hong Kong the late 19th century and has come to symbolize the region<br>
 
 **National symbol(s)**<br>
 bauhinia flower; national colors: red, white<br>

@@ -187,6 +187,9 @@ _unimproved: total_: total: 33.5% of population (2020 est.)<br>
 **Physician density**<br>
 0.24 physicians/1,000 population (2022)<br>
 
+**Hospital bed density**<br>
+0.8 beds/1,000 population (2019 est.)<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: 93.7% of population<br>
 _improved: rural_: rural: 30.3% of population<br>
@@ -212,9 +215,9 @@ _other alcohols_: 0.08 liters of pure alcohol (2019 est.)<br>
 55.7% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 7.9%<br>
-_women married by age 18_: 30.3%<br>
-_men married by age 18_: 6% (2016 est.)<br>
+_women married by age 15_: 7.9% (2016)<br>
+_women married by age 18_: 30.3% (2016)<br>
+_men married by age 18_: 6% (2016)<br>
 
 **Education expenditures**<br>
 2.4% of GDP (2020 est.)<br>
@@ -609,7 +612,7 @@ state-owned media dominate; only four privately owned newspapers still exist in 
 .ao<br>
 
 **Internet users**<br>
-_percent of population_: 39% (2022 est.)<br>
+_percent of population_: 45% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 137,000 (2023 est.)<br>
@@ -650,11 +653,11 @@ _key ports_: Cabinda, Estrela Oil Field, Lobito, Luanda, Malongo Oil Terminal, N
 Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Guerra Angola, MGA), Angolan National Air Force (Forca Aerea Nacional Angolana, FANA)<br><br>Ministry of Interior: National Police, Border Guard Police (2025)<br>
 
 **Military expenditures**<br>
+1% of GDP (2024 est.)<br>
 1.3% of GDP (2023 est.)<br>
 1.3% of GDP (2022 est.)<br>
 1.4% of GDP (2021 est.)<br>
 1.7% of GDP (2020 est.)<br>
-1.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 100,000 active-duty Armed Forces (2025)<br>

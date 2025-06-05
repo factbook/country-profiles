@@ -175,9 +175,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 51% (2023 est.)<br>
 
@@ -305,7 +302,7 @@ _branch office(s)_: American Institute in Taiwan<br>No. 100, Jinhu Road,<br>Neih
 _other offices_: Kaohsiung (Branch Office)<br>
 
 **Flag description**<br>
-red field with a dark blue rectangle in the upper hoist-side corner bearing a white sun with 12 triangular rays; the blue and white design of the canton (symbolizing the sun of progress) dates to 1895; it was later adopted as the flag of the Kuomintang Party; blue signifies liberty, justice, and democracy, red stands for fraternity, sacrifice, and nationalism, and white represents equality, frankness, and the people's livelihood; the 12 rays of the sun are those of the months and the twelve traditional Chinese hours (each ray equals two hours)<br>
+red field with a dark blue rectangle in the upper hoist-side corner, bearing a white sun with 12 triangular rays; the blue-and-white design of the canton (symbolizing the sun of progress) dates to 1895; blue stands for liberty, justice, and democracy, red for fraternity, sacrifice, and nationalism, and white for equality, frankness, and the people's livelihood; the 12 rays represent the months of the year and the traditional Chinese hours (each ray equals two hours)<br>
 <strong>note:</strong> similar to the flag of Samoa<br>
 
 **National symbol(s)**<br>
@@ -549,11 +546,11 @@ Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force<br><br>Ocean 
 <strong>note: </strong>the CGA is a law enforcement organization with homeland security functions during peacetime and national defense missions during wartime<br>
 
 **Military expenditures**<br>
+2.4% of GDP (2024 est.)<br>
 2.5% of GDP (2023 est.)<br>
-2.1% of GDP (2022)<br>
-2.1% of GDP (2021)<br>
-2.1% of GDP (2020)<br>
-1.8% of GDP (2019)<br>
+2.1% of GDP (2022 est.)<br>
+2.1% of GDP (2021 est.)<br>
+2.1% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 180,000 active-duty Armed Forces (95,000 Army; 45,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2025)<br>

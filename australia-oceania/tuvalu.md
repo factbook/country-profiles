@@ -188,19 +188,20 @@ _spirits_: 0.22 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 35.6% (2020 est.)<br>
-_male_: 49.8% (2020 est.)<br>
-_female_: 21.3% (2020 est.)<br>
+_total_: 32.4% (2025 est.)<br>
+_male_: 46.2% (2025 est.)<br>
+_female_: 18.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-3.1% (2019/20) NA<br>
+2.9% (2019/20)<br>
 
 **Currently married women (ages 15-49)**<br>
 66.1% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 18_: 1.8%<br>
-_men married by age 18_: 1.7% (2020 est.)<br>
+_women married by age 15_: 0% (2020)<br>
+_women married by age 18_: 1.8% (2020)<br>
+_men married by age 18_: 1.7% (2020)<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -337,7 +338,7 @@ note - the Tuvalu Permanent Mission to the UN serves as the Embassy<br>
 _embassy_: the US does not have an embassy in Tuvalu; the US Ambassador to Fiji is accredited to Tuvalu<br>
 
 **Flag description**<br>
-light blue with the flag of the UK in the upper hoist-side quadrant; the outer half of the flag represents a map of the country with nine yellow, five-pointed stars on a blue field symbolizing the nine atolls in the ocean<br>
+light blue with the UK flag in the upper hoist-side quadrant; the outer half of the flag represents a map of the country, with the nine yellow five-pointed stars on a blue field symbolizing the atolls in the ocean<br>
 
 **National symbol(s)**<br>
 maneapa (native meeting house); national colors: light blue, yellow<br>

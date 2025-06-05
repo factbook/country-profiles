@@ -185,9 +185,9 @@ _spirits_: 1.81 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 48.5% (2020 est.)<br>
-_male_: 47.8% (2020 est.)<br>
-_female_: 49.1% (2020 est.)<br>
+_total_: 47.7% (2025 est.)<br>
+_male_: 49.3% (2025 est.)<br>
+_female_: 46.1% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 59.6% (2023 est.)<br>
@@ -315,7 +315,7 @@ _email address and website_: <br>nauru@onecommonwealth.org<br><br>https://www.un
 _embassy_: the US does not have an embassy in Nauru; the US Ambassador to Fiji is accredited to Nauru<br>
 
 **Flag description**<br>
-blue with a narrow, horizontal, gold stripe across the center and a large white 12-pointed star below the stripe on the hoist side; blue stands for the Pacific Ocean, the star indicates the country's location in relation to the Equator (the gold stripe) and the 12 points symbolize the 12 original tribes of Nauru; the star's white color represents phosphate, the basis of the island's wealth<br>
+blue with a narrow horizontal gold stripe across the center and a large white 12-pointed star below the stripe on the hoist side; blue stands for the Pacific Ocean; the star indicates the country's location in relation to the equator (the gold stripe) and the 12 points stand for the original tribes of Nauru; the star's white color represents phosphate, the basis of the island's wealth<br>
 
 **National symbol(s)**<br>
 frigatebird, calophyllum flower; national colors: blue, yellow, white<br>

@@ -187,6 +187,9 @@ _unimproved: total_: total: 12.7% of population (2020 est.)<br>
 **Physician density**<br>
 0.11 physicians/1,000 population (2023)<br>
 
+**Hospital bed density**<br>
+0.7 beds/1,000 population (2019 est.)<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: 94.1% of population<br>
 _improved: rural_: rural: 55.5% of population<br>
@@ -206,9 +209,9 @@ _spirits_: 0.02 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 6.9% (2020 est.)<br>
-_male_: 13.1% (2020 est.)<br>
-_female_: 0.7% (2020 est.)<br>
+_total_: 5.4% (2025 est.)<br>
+_male_: 10.5% (2025 est.)<br>
+_female_: 0.5% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 14.4% (2019)<br>
@@ -217,9 +220,9 @@ _female_: 0.7% (2020 est.)<br>
 65.3% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 8.8%<br>
-_women married by age 18_: 30.5%<br>
-_men married by age 18_: 0.7% (2019 est.)<br>
+_women married by age 15_: 8.8% (2019)<br>
+_women married by age 18_: 30.5% (2019)<br>
+_men married by age 18_: 0.7% (2019)<br>
 
 **Education expenditures**<br>
 5.5% of GDP (2020 est.)<br>
@@ -380,8 +383,8 @@ _telephone_: [221] 33-879-4000<br>
 _email address and website_: <br>DakarACS@state.gov<br><br>https://sn.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal vertical bands of green (hoist side), yellow, and red with a small green five-pointed star centered in the yellow band; green represents Islam, progress, and hope; yellow signifies natural wealth and progress; red symbolizes sacrifice and determination; the star denotes unity and hope<br>
-<strong>note:</strong> uses the popular Pan-African colors of Ethiopia; the colors from left to right are the same as those of neighboring Mali and the reverse of those on the flag of neighboring Guinea<br>
+three equal vertical bands of green (hoist side), yellow, and red, with a small green five-pointed star centered in the yellow band; green stands for Islam, progress, and hope, yellow for natural wealth and progress, and red for sacrifice and determination; the star represents unity and hope<br>
+<strong>note:</strong> uses the popular pan-African colors of Ethiopia; the colors from left to right are the same as Mali's flag and the reverse of Guinea's flag<br>
 
 **National symbol(s)**<br>
 lion; national colors: green, yellow, red<br>
@@ -611,7 +614,7 @@ over 25 private TV stations; state-run Radiodiffusion T&eacute;l&eacute;vision S
 .sn<br>
 
 **Internet users**<br>
-_percent of population_: 60% (2022 est.)<br>
+_percent of population_: 61% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 357,000 (2023 est.)<br>

@@ -206,16 +206,16 @@ _spirits_: 0.52 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.01 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 14.5% (2020 est.)<br>
-_male_: 26.8% (2020 est.)<br>
-_female_: 2.1% (2020 est.)<br>
+_total_: 15.8% (2025 est.)<br>
+_male_: 30% (2025 est.)<br>
+_female_: 1.7% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 51.8% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 8.4%<br>
-_women married by age 18_: 29.1%<br>
+_women married by age 15_: 6.9% (2015)<br>
+_women married by age 18_: 27.3% (2015)<br>
 _men married by age 18_: 5.6% (2018 est.)<br>
 
 **Education expenditures**<br>
@@ -653,11 +653,11 @@ Congolese Armed Forces (Forces Armees Congolaises, FAC): Army, Navy, Congolese A
 <strong>note:</strong> the National Gendarmerie (GN) is a paramilitary force with domestic law enforcement and security responsibilities; it is under the Ministry of Defense, but also reports to the Ministry of Interior; the GN nominally includes the Republican Guard (GR), which is responsible for presidential security and has a separate command structure<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2024 est.)<br>
 2% of GDP (2023 est.)<br>
 1.8% of GDP (2022 est.)<br>
-2.5% of GDP (2021 est.)<br>
-3.2% of GDP (2020 est.)<br>
-2.3% of GDP (2019 est.)<br>
+2.4% of GDP (2021 est.)<br>
+2.8% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 12-14,000 active FAC, including Gendarmerie (2025)<br>

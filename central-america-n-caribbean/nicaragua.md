@@ -183,7 +183,7 @@ _unimproved: total_: total: 16.8% of population (2020 est.)<br>
 0.68 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-0.9 beds/1,000 population (2017)<br>
+0.9 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 89.9% of population<br>
@@ -356,8 +356,8 @@ _FAX_: [505] 2252-7250<br>
 _email address and website_: <br>ACS.Managua@state.gov<br><br>https://ni.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of blue (top), white, and blue with the national coat of arms centered in the white band; the coat of arms features a triangle encircled by the words REPUBLICA DE NICARAGUA on the top and AMERICA CENTRAL on the bottom; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands symbolize the Pacific Ocean and the Caribbean Sea, while the white band represents the land between the two bodies of water<br>
-<strong>note:</strong> similar to the flag of El Salvador, which features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL centered in the white band; also similar to the flag of Honduras, which has five blue stars arranged in an X pattern centered in the white band<br>
+three equal horizontal bands of blue (top), white, and blue, with the national coat of arms centered in the white band; the coat of arms has a triangle encircled by the words REPUBLICA DE NICARAGUA on the top and AMERICA CENTRAL on the bottom; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands stand for the Pacific Ocean and the Caribbean Sea, and the white band for the land between the two bodies of water<br>
+<strong>note:</strong> similar to the flag of El Salvador, which has a round emblem with the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL; also similar to the flag of Honduras, which has five blue stars in an X pattern centered in the white band<br>
 
 **National symbol(s)**<br>
 turquoise-browed motmot (bird); national colors: blue, white<br>
@@ -589,7 +589,7 @@ multiple terrestrial TV stations, supplemented by cable TV in most urban areas; 
 .ni<br>
 
 **Internet users**<br>
-_percent of population_: 61% (2022 est.)<br>
+_percent of population_: 58% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 371,000 (2023 est.)<br>
@@ -623,11 +623,11 @@ Armed Forces of Nicaragua (formal name is Army of Nicaragua or Ejercito de Nicar
 <strong>note:</strong> both the military and the Nicaraguan National Police (Policía Nacional de Nicaragua or PNN) report directly to the president; Parapolice, which are non-uniformed, armed, and masked units with marginal tactical training and loose hierarchical organization, act in coordination with government security forces and report to the National Police; they have been used to suppress anti-government protesters<br>
 
 **Military expenditures**<br>
+0.5% of GDP (2024 est.)<br>
 0.6% of GDP (2023 est.)<br>
 0.6% of GDP (2022 est.)<br>
 0.6% of GDP (2021 est.)<br>
 0.6% of GDP (2020 est.)<br>
-0.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 12,000 active Armed Forces (2025)<br>

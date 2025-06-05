@@ -187,7 +187,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 3.88 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-3.2 beds/1,000 population (2018)<br>
+2.9 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -208,9 +208,9 @@ _spirits_: 1.36 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 22.2% (2020 est.)<br>
-_male_: 24.4% (2020 est.)<br>
-_female_: 19.9% (2020 est.)<br>
+_total_: 18.7% (2025 est.)<br>
+_male_: 21% (2025 est.)<br>
+_female_: 16.4% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 53.7% (2023 est.)<br>
@@ -333,9 +333,10 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King WILLEM-ALEXANDER (since 30 April 2013)<br>
-_head of government_: Prime Minister Dick SCHOOF (since 2 July 2024)<br>
+_head of government_: Caretaker Prime Minister Dick SCHOOF (since 3 June 2025)<br>
 _cabinet_: Council of Ministers appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following Second Chamber elections, the leader of the majority party or majority coalition is usually appointed prime minister by the monarch; deputy prime ministers are appointed by the monarch<br>
+<strong>note:</strong> Prime Minister Dick SCHOOF resigned on 3 June 2025 after a party withdrew from his governing coalition, but he will continue in a caretaker capacity until new elections are held, probably in the fall of 2025<br>
 
 **Legislative branch**<br>
 _legislature name_: States General (Staten-Generaal)<br>
@@ -390,7 +391,7 @@ _email address and website_: <br>AmsterdamUSC@state.gov<br><br>https://nl.usemba
 _consulate(s) general_: Amsterdam<br>
 
 **Flag description**<br>
-three equal horizontal bands of red (bright vermilion; top), white, and blue (cobalt); similar to the flag of Luxembourg, which uses a lighter blue and is longer; the colors were derived from those of WILLIAM I, Prince of Orange, who led the Dutch Revolt against Spanish sovereignty in the latter half of the 16th century; originally the upper band was orange, but because its dye tended to turn red over time, the red shade was eventually made the permanent color; the banner is perhaps the oldest tricolor in continuous use<br>
+three equal horizontal bands of bright red (top), white, and cobalt blue; similar to the flag of Luxembourg, which uses a lighter blue and is longer; the colors come from WILLIAM I, Prince of Orange; originally the upper band was orange, but the dye would turn red over time, and red was eventually made the permanent color<br>
 
 **National symbol(s)**<br>
 lion, daisy; national color: orange<br>

@@ -185,6 +185,9 @@ _unimproved: total_: total: 17.3% of population (2020 est.)<br>
 **Physician density**<br>
 0.09 physicians/1,000 population (2022)<br>
 
+**Hospital bed density**<br>
+0.7 beds/1,000 population (2020 est.)<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: 89.1% of population<br>
 _improved: rural_: rural: 83.2% of population<br>
@@ -204,9 +207,9 @@ _spirits_: 0.09 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 6 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 13.7% (2020 est.)<br>
-_male_: 20.1% (2020 est.)<br>
-_female_: 7.2% (2020 est.)<br>
+_total_: 11.4% (2025 est.)<br>
+_male_: 17% (2025 est.)<br>
+_female_: 6.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 7.7% (2019/20)<br>
@@ -215,7 +218,9 @@ _female_: 7.2% (2020 est.)<br>
 50.4% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 18_: 0.4% (2020 est.)<br>
+_women married by age 15_: 0.3% (2020)<br>
+_women married by age 18_: 5.5% (2020)<br>
+_men married by age 18_: 0.4% (2020)<br>
 
 **Education expenditures**<br>
 3.8% of GDP (2021 est.)<br>
@@ -388,7 +393,7 @@ _FAX_: [250] 252 580-325<br>
 _email address and website_: <br>consularkigali@state.gov<br><br>https://rw.usembassy.gov/<br>
 
 **Flag description**<br>
-three horizontal bands of sky blue (top, double width), yellow, and green, with a golden sun with 24 rays near the fly end of the blue band; blue represents happiness and peace, yellow economic development and mineral wealth, green hope of prosperity and natural resources; the sun symbolizes unity, as well as enlightenment and transparency from ignorance<br>
+three horizontal bands of sky blue (top, double-width), yellow, and green, with a golden sun with 24 rays near the fly end of the blue band; blue stands for happiness and peace, yellow for economic development and mineral wealth, and green for hope for prosperity and natural resources; the sun symbolizes unity and enlightenment<br>
 
 **National symbol(s)**<br>
 traditional woven basket with peaked lid; national colors: blue, yellow, green<br>

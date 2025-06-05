@@ -181,7 +181,7 @@ _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 2.94 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-4.3 beds/1,000 population (2017)<br>
+4.2 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -208,8 +208,8 @@ _other alcohols_: 0.03 liters of pure alcohol (2019 est.)<br>
 66.5% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.3%<br>
-_women married by age 18_: 7.5% (2019 est.)<br>
+_women married by age 15_: 0.3% (2019)<br>
+_women married by age 18_: 7.5% (2019)<br>
 
 **Education expenditures**<br>
 NA<br>

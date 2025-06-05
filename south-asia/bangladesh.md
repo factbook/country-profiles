@@ -184,7 +184,7 @@ _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 0.72 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-0.8 beds/1,000 population (2016)<br>
+0.9 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 85.3% of population<br>
@@ -205,9 +205,9 @@ _spirits_: 0 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 34.7% (2020 est.)<br>
-_male_: 52.2% (2020 est.)<br>
-_female_: 17.1% (2020 est.)<br>
+_total_: 29.7% (2025 est.)<br>
+_male_: 47.6% (2025 est.)<br>
+_female_: 12.5% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 22.6% (2019)<br>
@@ -216,8 +216,8 @@ _female_: 17.1% (2020 est.)<br>
 80.1% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 15.5%<br>
-_women married by age 18_: 51.4% (2019 est.)<br>
+_women married by age 15_: 15.5% (2019)<br>
+_women married by age 18_: 51.4% (2019)<br>
 
 **Education expenditures**<br>
 2.1% of GDP (2021 est.)<br>
@@ -376,6 +376,9 @@ green field with a large red disk shifted slightly to the hoist side; the red di
 **National symbol(s)**<br>
 Bengal tiger, water lily; national colors: green, red<br>
 
+**National coat of arms**<br>
+The coat of arms of Bangladesh features the water lily, which is the national flower and symbolizes promise, aesthetics, and elegance. The water under the lily, the rice sheaves on the sides, and the jute leaves at the top represent the Bangladeshi landscape and economy. The four stars represent the aims and ambition of the nation.<br>
+
 **National anthem**<br>
 _name_: "Amar Shonar Bangla" (My Golden Bengal)<br>
 _lyrics/music_: Rabindranath TAGORE<br>
@@ -384,9 +387,6 @@ _lyrics/music_: Rabindranath TAGORE<br>
 **National heritage**<br>
 _total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>
 _selected World Heritage Site locales_: Bagerhat Historic Mosque (c); Ruins of the Buddhist Vihara at Paharpur (c); Sundarbans (n)<br>
-
-**National coat of arms**<br>
-The coat of arms of Bangladesh features the water lily, which is the national flower and symbolizes promise, aesthetics, and elegance. The water under the lily, the rice sheaves on the sides, and the jute leaves at the top represent the Bangladeshi landscape and economy. The four stars represent the aims and ambition of the nation.<br>
 
 ## Economy
 
@@ -662,11 +662,11 @@ Armed Forces of Bangladesh (aka Bangladesh Defense Force): Bangladesh Army, Bang
 <strong>note 1: </strong>the Armed Forces of Bangladesh are jointly administered by the Ministry of Defense (MOD) and the Armed Forces Division (AFD), both under the Prime Minister's Office; the AFD has ministerial status and parallel functions with MOD; the AFD is a joint coordinating headquarters for the three services and also functions as a joint command center during wartime; to coordinate policy, the prime minister and the president are advised by a six-member board, which includes the three service chiefs of staff, the principal staff officer of the AFD, and the military secretaries to the prime minister and president<br><br><strong>note 2: </strong>the RAB, Ansars, and VDP are paramilitary organizations for internal security; the RAB is a joint task force comprised of Police, Army, Navy, Air Force, and Border Guards personnel seconded to the RAB; its mandate includes internal security, intelligence gathering related to criminal activities, and government-directed investigations<br>
 
 **Military expenditures**<br>
+0.9% of GDP (2024 est.)<br>
 1% of GDP (2023 est.)<br>
 1.1% of GDP (2022 est.)<br>
 1.2% of GDP (2021 est.)<br>
 1.3% of GDP (2020 est.)<br>
-1.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 170,000 active Armed Forces (2025)<br>

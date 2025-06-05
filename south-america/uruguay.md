@@ -187,7 +187,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 4.67 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-2.4 beds/1,000 population (2017)<br>
+2.5 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.2% of population<br>
@@ -208,9 +208,9 @@ _spirits_: 0.71 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 21.5% (2020 est.)<br>
-_male_: 24.4% (2020 est.)<br>
-_female_: 18.5% (2020 est.)<br>
+_total_: 18% (2025 est.)<br>
+_male_: 21.3% (2025 est.)<br>
+_female_: 14.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 1.8% (2018)<br>
@@ -396,8 +396,8 @@ _FAX_: [+598] 1770-2128<br>
 _email address and website_: <br>MontevideoACS@state.gov<br><br>https://uy.usembassy.gov/<br>
 
 **Flag description**<br>
-nine equal horizontal stripes of white (top and bottom) alternating with blue; a white square in the upper hoist-side corner with a yellow sun bearing a human face (delineated in black) known as the Sun of May with 16 rays that alternate between triangular and wavy; the stripes represent the nine original departments of Uruguay; the sun symbol evokes the legend of the sun breaking through the clouds on 25 May 1810 as independence was first declared from Spain (Uruguay subsequently won its independence from Brazil); the sun features are said to represent those of Inti, the Inca god of the sun<br>
-<strong>note:</strong> the banner was inspired by the national colors of Argentina and by the design of the US flag<br>
+nine equal horizontal stripes of white (top and bottom) alternating with blue; a white square in the upper hoist-side corner has a yellow sun with a human face (outlined in black) known as the Sun of May, with 16 rays that alternate between triangular and wavy; the stripes represent the country's nine original departments; the sun refers to the legend of the sun breaking through the clouds on 25 May 1810 as independence was declared from Spain (Uruguay subsequently won its independence from Brazil); the sun is said to be Inti, the Inca god of the sun<br>
+<strong>note:</strong> the banner was inspired by the national colors of Argentina and the design of the US flag<br>
 
 **National symbol(s)**<br>
 Sun of May (a sun-with-face symbol); national colors: blue, white, yellow<br>
@@ -674,11 +674,11 @@ Armed Forces of Uruguay (Fuerzas Armadas del Uruguay or FF.AA. del Uruguay): Nat
 <strong>note: </strong>the National Police includes the paramilitary National Republican Guard (Guardia Nacional Republicana)<br>
 
 **Military expenditures**<br>
-1% of GDP (2023 est.)<br>
-1% of GDP (2022 est.)<br>
+2.1% of GDP (2024 est.)<br>
+2% of GDP (2023 est.)<br>
+2% of GDP (2022 est.)<br>
 2.3% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
-2.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 23,000 active-duty Armed Forces (15,000 Army; 5,000 Navy; 3,000 Air Force) (2025)<br>

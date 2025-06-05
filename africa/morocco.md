@@ -171,7 +171,6 @@ _female_: 76 years<br>
 
 **Contraceptive prevalence rate**<br>
 70.8% (2018)<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.3% of population<br>
@@ -180,7 +179,6 @@ _improved: total_: total: 91% of population<br>
 _unimproved: urban_: urban: 1.7% of population<br>
 _unimproved: rural_: rural: 20.9% of population<br>
 _unimproved: total_: total: 9% of population (2017 est.)<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Current health expenditure**<br>
 5.7% of GDP (2021)<br>
@@ -189,7 +187,7 @@ _unimproved: total_: total: 9% of population (2017 est.)<br>
 0.74 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
-1 beds/1,000 population (2017)<br>
+0.7 beds/1,000 population (2020 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Sanitation facility access**<br>
@@ -213,9 +211,9 @@ _spirits_: 0.09 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 14.5% (2020 est.)<br>
-_male_: 28.2% (2020 est.)<br>
-_female_: 0.8% (2020 est.)<br>
+_total_: 12.3% (2025 est.)<br>
+_male_: 23.7% (2025 est.)<br>
+_female_: 0.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 2.8% (2019/20)<br>
@@ -224,8 +222,8 @@ _female_: 0.8% (2020 est.)<br>
 58.8% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.5%<br>
-_women married by age 18_: 13.7% (2018 est.)<br>
+_women married by age 15_: 0.5% (2018)<br>
+_women married by age 18_: 13.7% (2018)<br>
 
 **Education expenditures**<br>
 6.8% of GDP (2020)<br>
@@ -408,7 +406,7 @@ _email address and website_: <br>https://ma.usembassy.gov/<br>
 _consulate(s) general_: Casablanca<br>
 
 **Flag description**<br>
-red with a green pentacle (five-pointed, linear star) known as Sulayman's (Solomon's) seal in the center of the flag; red and green are traditional colors in Arab flags, although the use of red is more commonly associated with the Arab states of the Persian Gulf; the pentacle represents the five pillars of Islam and signifies the association between God and the nation; design dates to 1912<br>
+red with a green pentacle (five-pointed linear star) known as Sulayman's (Solomon's) seal in the center of the flag; red and green are traditional colors in Arab flags, although the use of red is more commonly associated with the Arab states of the Persian Gulf; the pentacle represents the five pillars of Islam and signifies the association between God and the nation; the design dates to 1912<br>
 
 **National symbol(s)**<br>
 pentacle symbol, lion; national colors: red, green<br>
@@ -680,11 +678,11 @@ Royal Moroccan Armed Forces (FAR): Royal Moroccan Army (includes the Moroccan Ro
 <strong>note 1:</strong> the Royal Guard is officially part of the Army, but is under the direct operational control of the Royal Military Household of His Majesty the King; it provides for the security and safety of the King and royal family; it was established in the 11th century and is considered one of the world's oldest active units still in military service<strong><br><br></strong><strong>note 2:  </strong>the DGSN manages internal law enforcement in cities; the Gendarmerie is responsible for law enforcement in rural regions and on national highways and has a counterterrorism role; the Auxiliary Forces provide support to the Gendarmerie and DGSN <br>
 
 **Military expenditures**<br>
+4% of GDP (2024 est.)<br>
 4% of GDP (2023 est.)<br>
 4.5% of GDP (2022 est.)<br>
 4.5% of GDP (2021 est.)<br>
 4.5% of GDP (2020 est.)<br>
-3.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 220,000 active Armed Forces (175,000 Army; 10,000 Navy; 15,000 Air Force, 20,000 Gendarmerie) (2025)<br>

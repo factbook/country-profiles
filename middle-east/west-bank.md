@@ -172,7 +172,7 @@ _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 3.25 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
-1.3 beds/1,000 population (2019)<br>
+1.3 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.9% of population<br>
@@ -192,8 +192,8 @@ _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 <strong>note:</strong> data includes Gaza and the West Bank<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.7%<br>
-_women married by age 18_: 13.4% (2020 est.)<br>
+_women married by age 15_: 0.7% (2020)<br>
+_women married by age 18_: 13.4% (2020)<br>
 <strong>note:</strong> includes both the Gaza Strip and the West Bank<br>
 
 **Education expenditures**<br>

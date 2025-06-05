@@ -164,9 +164,6 @@ _unimproved: total_: total: 0% of population (2020)<br>
 **Physician density**<br>
 2.62 physicians/1,000 population (2016)<br>
 
-**Hospital bed density**<br>
-4.2 beds/1,000 population (2016)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -297,8 +294,8 @@ none (self-governing overseas administrative division of Denmark)<br>
 _embassy_: none (self-governing overseas administrative division of Denmark)<br>
 
 **Flag description**<br>
-white with a red cross outlined in blue extending to the edges of the flag; the vertical part of the cross is shifted toward the hoist side in the style of the Dannebrog (Danish flag); referred to as Merkid, meaning "the banner" or "the mark," the flag resembles those of neighboring Iceland and Norway, and uses the same three colors - but in a different sequence; white represents the clear Faroese sky, as well as the foam of the waves; red and blue are traditional Faroese colors<br>
-<strong>note:</strong> the blue on the flag is a lighter blue (azure) than that found on the flags of Iceland or Norway<br>
+white with a red cross outlined in blue extending to the edges of the flag; the vertical part of the cross is shifted toward the hoist side in the style of the Dannebrog (Danish flag); referred to as Merkid, meaning "the banner" or "the mark," the flag resembles the flags of Iceland and Norway and uses the same three colors in a different sequence; white represents the clear Faroese sky and sea foam; red and blue are traditional Faroese colors<br>
+<strong>note:</strong> the blue on the flag is a lighter blue (azure) than the flags of Iceland and Norway<br>
 
 **National symbol(s)**<br>
 ram; national colors: red, white, blue<br>

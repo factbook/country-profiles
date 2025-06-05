@@ -177,7 +177,7 @@ _unimproved: total_: total: 42.2% of population (2015 est.)<br>
 0.09 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-0.7 beds/1,000 population (2011)<br>
+1 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 44.5% of population<br>
@@ -350,7 +350,7 @@ _FAX_: [291] (1) 12-75-84<br>
 _email address and website_: <br>consularasmara@state.gov<br><br>https://er.usembassy.gov/<br>
 
 **Flag description**<br>
-red isosceles triangle (based on the hoist side) dividing the flag into two right triangles; the upper triangle is green, the lower one is blue; a gold wreath encircling a gold olive branch is centered on the hoist side of the red triangle; green stands for the country's agriculture economy, red signifies the blood shed in the fight for freedom, and blue symbolizes the bounty of the sea; the wreath-olive branch symbol is similar to that on the first flag of Eritrea from 1952; the shape of the red triangle broadly mimics the shape of the country<br>
+a red isosceles triangle (based on the hoist side) divides the flag into two right triangles; the upper triangle is green, the lower is blue; a gold wreath encircling a gold olive branch is centered on the hoist side of the red triangle; green stands for the country's agriculture economy, red for the blood shed in the fight for freedom, and blue for the sea's bounty; the shape of the red triangle mimics the shape of the country<br>
 <strong>note:</strong> one of four national flags that reflect the shape of the country in the flag design; the others are Bosnia and Herzegovina, Brazil, and Vanuatu<br>
 
 **National symbol(s)**<br>

@@ -185,7 +185,7 @@ _unimproved: total_: total: 5.8% of population (2020 est.)<br>
 1.66 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-0.9 beds/1,000 population (2017)<br>
+1 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
@@ -204,9 +204,6 @@ _beer_: 1.54 liters of pure alcohol (2019 est.)<br>
 _wine_: 0.01 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0.92 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.03 liters of pure alcohol (2019 est.)<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
 
 **Currently married women (ages 15-49)**<br>
 51.5% (2023 est.)<br>
@@ -336,10 +333,9 @@ _number of seats_: 277 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 12/6/2020<br>
-_parties elected and seats per party_: Democratic Unity Roundtable alliance (MUD) (109); United Socialist Party of Venezuela (PSUV) (55)<br>
+_most recent election date_: 5/25/2025<br>
 _percentage of women in chamber_: 32.1%<br>
-_expected date of next election_: May 2025<br>
+_expected date of next election_: May 2030<br>
 <strong>note:</strong> in 2020, the National Electoral Council increased the number of seats in the National Assembly from 167 to 277 for the December 2020 election<br>
 
 **Judicial branch**<br>
@@ -364,7 +360,7 @@ _telephone_: 1-888-407-4747<br>  <br>
 _email address and website_: <br>ACSBogota@state.gov<br><br>https://ve.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of yellow (top), blue, and red with the coat of arms on the hoist side of the yellow band and an arc of eight white five-pointed stars centered in the blue band; the flag retains the three equal horizontal bands and three main colors of the banner of Gran Colombia, the South American republic that broke up in 1830; yellow is interpreted as standing for the riches of the land, blue for the courage of its people, and red for the blood shed in attaining independence; the seven stars on the original flag represented the seven provinces in Venezuela that united in the war of independence; in 2006, then President Hugo CHAVEZ ordered an eighth star added to the star arc - a decision that sparked much controversy - to conform with the flag proclaimed by Simon Bolivar in 1827 and to represent the historic province of Guayana<br>
+three equal horizontal bands of yellow (top), blue, and red, with the coat of arms on the hoist side of the yellow band and an arc of eight white five-pointed stars centered in the blue band; the flag retains the three equal horizontal bands and three main colors from the flag of Gran Colombia, the South American republic that broke up in 1830; yellow stands for the riches of the land, blue for the courage of its people, and red for the blood shed in attaining independence; in 2006, President Hugo CHAVEZ added the eighth star -- the original seven stars represented the country's provinces that united in the war of independence -- to match Simon Bolivar's flag from 1827 and to represent the historic province of Guayana<br>
 
 **National symbol(s)**<br>
 troupial (bird); national colors: yellow, blue, red<br>
@@ -625,11 +621,11 @@ Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bol
 <strong>note 1: </strong>the Bolivarian Militia and the Presidential Honor Guard are considered special/secondary components of the FANB;<strong> </strong>the Militia is composed of the Military Reserve and the Territorial Militia and is comprised of armed civilians who receive periodic training in exchange for a small stipend<br><br><strong>note 2: </strong>the National Guard was made part of the FANB in 2007 and is responsible for maintaining public order, guarding the exterior of key government installations and prisons, conducting counter-narcotics operations, monitoring borders, and providing law enforcement in remote areas; it reports to both the Ministry of Defense and the Ministry of Interior, Justice, and Peace<br><br><strong>note 3: </strong>the PNB is a federal force created by Hugo CHAVEZ in 2008 as a “preventative police force,” separate from state and local ones; the PNB largely focuses on policing Caracas’ Libertador municipality, patrolling Caracas-area highways, railways, and metro system, and protecting diplomatic missions; the PNB includes the Special Action Forces (Fuerzas de Acciones Especiales, FAES), a paramilitary unit created by President MADURO to bolster internal security after the 2017 anti-government protests <br>
 
 **Military expenditures**<br>
-5.2% of GDP (2019 est.)<br>
-4.4% of GDP (2018 est.)<br>
-2.9% of GDP (2017 est.)<br>
-2.2% of GDP (2016 est.)<br>
-1.8% of GDP (2015 est.)<br>
+0.6% of GDP (2024 est.)<br>
+0.5% of GDP (2023 est.)<br>
+0.6% of GDP (2022 est.)<br>
+0.3% of GDP (2021 est.)<br>
+1.6% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 125-150,000 active Armed Forces; estimated 200,000 Bolivarian Militia (2025)<br>

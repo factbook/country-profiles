@@ -183,7 +183,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 4.98 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-3.5 beds/1,000 population (2018)<br>
+3.4 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -204,12 +204,16 @@ _spirits_: 1 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.19 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 16.2% (2020 est.)<br>
-_male_: 17% (2020 est.)<br>
-_female_: 15.4% (2020 est.)<br>
+_total_: 12% (2025 est.)<br>
+_male_: 12.6% (2025 est.)<br>
+_female_: 11.3% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 50.2% (2023 est.)<br>
+
+**Child marriage**<br>
+_women married by age 15_: 0% (2022)<br>
+_women married by age 18_: 0% (2022)<br>
 
 **Education expenditures**<br>
 5.9% of GDP (2020 est.)<br>
@@ -368,7 +372,7 @@ _FAX_: [47] 22-56-27-51<br>
 _email address and website_: <br>OsloACS@state.gov<br><br>https://no.usembassy.gov/<br>
 
 **Flag description**<br>
-red with a blue cross outlined in white that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors recall Norway's past political unions with Denmark (red and white) and Sweden (blue)<br>
+red with a blue cross outlined in white that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors represent Norway's past political unions with Denmark (red and white) and Sweden (blue)<br>
 
 **National symbol(s)**<br>
 lion; national colors: red, white, blue<br>

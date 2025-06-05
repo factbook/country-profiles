@@ -175,7 +175,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 2.99 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-1.4 beds/1,000 population (2017)<br>
+2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
@@ -195,8 +195,10 @@ _wine_: 0.14 liters of pure alcohol (2019 est.)<br>
 _spirits_: 1.65 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.02 liters of pure alcohol (2019 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
+**Tobacco use**<br>
+_total_: 10.7% (2025 est.)<br>
+_male_: 13.9% (2025 est.)<br>
+_female_: 2.4% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 72.4% (2023 est.)<br>
@@ -354,7 +356,7 @@ _email address and website_: <br>abudhabiacs@state.gov<br><br>https://ae.usembas
 _consulate(s) general_: Dubai<br>
 
 **Flag description**<br>
-three equal horizontal bands of green (top), white, and black with a wider vertical red band on the hoist side; the flag incorporates all four Pan-Arab colors, which in this case represent fertility (green), neutrality (white), petroleum resources (black), and unity (red); red was the traditional color incorporated into all flags of the emirates before their unification<br>
+three equal horizontal bands of green (top), white, and black, with a wider vertical red band on the hoist side; the flag incorporates all four pan-Arab colors, which in this case represent fertility (green), neutrality (white), oil (black), and unity (red); red is a traditional color that was part of all the emirates' flags before their unification<br>
 
 **National symbol(s)**<br>
 golden falcon; national colors: green, white, black, red<br>
@@ -623,11 +625,11 @@ United Arab Emirates Armed Forces: Land Forces (Army), Navy, Air Force, Presiden
 <strong>note: </strong>each emirate maintains a local police force called a general directorate, which is officially a branch of the federal Ministry of Interior; all emirate-level general directorates of police enforce their respective emirate’s laws autonomously; they also enforce federal laws within their emirate in coordination with one another under the federal ministry; the State Security Directorate (SSD) in Abu Dhabi and Dubai State Security (DSS) have primary responsibility for counterterrorism law enforcement efforts; local, emirate-level police forces, especially the Abu Dhabi Police and Dubai Police, are the first responders in such cases and provide technical assistance to SSD and DSS<br>
 
 **Military expenditures**<br>
-4% of GDP (2023 est.)<br>
+4% of GDP (2024 est.)<br>
+4.3% of GDP (2023 est.)<br>
 4% of GDP (2022 est.)<br>
-5% of GDP (2021 est.)<br>
-5.6% of GDP (2020 est.)<br>
-5.4% of GDP (2019 est.)<br>
+4.5% of GDP (2021 est.)<br>
+6.1% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 65,000 active Armed Forces (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2025)<br>

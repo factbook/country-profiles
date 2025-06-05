@@ -182,7 +182,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 4.19 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-3.1 beds/1,000 population (2018)<br>
+3.2 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -203,9 +203,9 @@ _spirits_: 0.83 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 23.1% (2020 est.)<br>
-_male_: 26.6% (2020 est.)<br>
-_female_: 19.5% (2020 est.)<br>
+_total_: 19.8% (2025 est.)<br>
+_male_: 23.2% (2025 est.)<br>
+_female_: 16.6% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 52.5% (2023 est.)<br>
@@ -374,7 +374,7 @@ _consulate(s) general_: Boston, Chicago, Houston, Miami, New York, Los Angeles, 
 _consulate(s)_: Detroit<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Shawn CROWLEY (since January 2025); note - also accredited to San Marino<br>
+_chief of mission_: Ambassador Tilman J. FERTITTA (since 6 May 2025); note - also accredited to San Marino<br>
 _embassy_: via Vittorio Veneto 121, 00187 Roma<br>
 _mailing address_: 9500 Rome Place, Washington DC&nbsp; 20521-9500<br>
 _telephone_: [39] 06-46741<br>
@@ -383,8 +383,8 @@ _email address and website_: <br>uscitizenrome@state.gov<br><br>https://it.usemb
 _consulate(s) general_: Florence, Milan, Naples<br>
 
 **Flag description**<br>
-three equal vertical bands of green (hoist side), white, and red; design inspired by the French flag brought to Italy by Napoleon in 1797; colors are those of Milan (red and white) combined with the green uniform color of the Milanese civic guard<br>
-<strong>note:</strong> similar to the flag of Mexico, which is longer, uses darker shades of green and red, and has its coat of arms centered on the white band; Ireland, which is longer and is green (hoist side), white, and orange; also similar to the flag of the Cote d'Ivoire, which has the colors reversed - orange (hoist side), white, and green<br>
+three equal vertical bands of green (hoist side), white, and red; design inspired by the French flag that Napoleon brought to Italy in 1797; colors are those of Milan (red and white) combined with the green uniform color of the Milanese civic guard<br>
+<strong>note:</strong> similar to the flags of Mexico (longer, darker shades of green and red, and has its coat of arms centered on the white band), Ireland (longer and with orange instead of red), and Cote d'Ivoire (colors reversed)<br>
 
 **National symbol(s)**<br>
 white, five-pointed star (Stella d'Italia); national colors: red, white, green<br>

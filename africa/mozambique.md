@@ -186,7 +186,7 @@ _unimproved: total_: total: 26.7% of population (2020 est.)<br>
 0.18 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-0.7 beds/1,000 population (2011)<br>
+0.7 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 71.9% of population (2015 est.)<br>
@@ -212,10 +212,15 @@ _male_: 23% (2020 est.)<br>
 _female_: 5.6% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-14.6% (2019/20)<br>
+14.8% (2019/20)<br>
 
 **Currently married women (ages 15-49)**<br>
 63.7% (2023 est.)<br>
+
+**Child marriage**<br>
+_women married by age 15_: 16.8% (2015)<br>
+_women married by age 18_: 52.9% (2015)<br>
+_men married by age 18_: 9.7% (2015)<br>
 
 **Education expenditures**<br>
 6.3% of GDP (2020 est.)<br>
@@ -377,11 +382,11 @@ _telephone_: [258] (84) 095-8000<br>
 _email address and website_: <br>MaputaConsular@state.gov<br><br>https://mz.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of green (top), black, and yellow with a red isosceles triangle based on the hoist side; the black band is edged in white; centered in the triangle is a yellow five-pointed star bearing a crossed rifle and hoe in black superimposed on an open white book; green represents the riches of the land, white peace, black the African continent, yellow the country's minerals, and red the struggle for independence; the rifle symbolizes defense and vigilance, the hoe refers to the country's agriculture, the open book stresses the importance of education, and the star represents Marxism and internationalism<br>
-<strong>note:</strong> one of only two national flags featuring a firearm, the other is Guatemala<br>
+three equal horizontal bands of green (top), black, and yellow, with a red isosceles triangle based on the hoist side; the black band is edged in white; centered in the triangle is a yellow five-pointed star with a crossed rifle and hoe in black superimposed on an open white book; green stands for the riches of the land, white for peace, black for the African continent, yellow for the country's minerals, and red for the fight for independence; the rifle symbolizes defense and vigilance, the hoe refers to the country's agriculture, the open book stresses the importance of education, and the star represents Marxism and internationalism<br>
+<strong>note:</strong> one of two national flags featuring a firearm; the other is Guatemala<br>
 
 **National symbol(s)**<br>
-national colors: green, black, yellow, white, red; national symbols: rifle, hoe, and book&nbsp;&nbsp;<br>
+national symbols: rifle, hoe, and book; national colors: green, black, yellow, white, red<br>
 
 **National anthem**<br>
 _name_: "Patria Amada" (Lovely Fatherland)<br>
@@ -619,7 +624,7 @@ _subscriptions per 100 inhabitants_: 42 (2022 est.)<br>
 .mz<br>
 
 **Internet users**<br>
-_percent of population_: 21% (2022 est.)<br>
+_percent of population_: 20% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 65,000 (2022 est.)<br>

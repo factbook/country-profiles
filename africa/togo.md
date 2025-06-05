@@ -181,7 +181,7 @@ _unimproved: total_: total: 25.4% of population (2020 est.)<br>
 0.08 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-0.7 beds/1,000 population (2011)<br>
+0.6 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 81.9% of population<br>
@@ -202,9 +202,9 @@ _spirits_: 0.2 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.33 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 6.8% (2020 est.)<br>
-_male_: 12.3% (2020 est.)<br>
-_female_: 1.2% (2020 est.)<br>
+_total_: 5% (2025 est.)<br>
+_male_: 9.3% (2025 est.)<br>
+_female_: 0.7% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 15.2% (2017)<br>
@@ -213,9 +213,9 @@ _female_: 1.2% (2020 est.)<br>
 62% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 6.4%<br>
-_women married by age 18_: 24.8%<br>
-_men married by age 18_: 2.6% (2017 est.)<br>
+_women married by age 15_: 6.4% (2017)<br>
+_women married by age 18_: 24.8% (2017)<br>
+_men married by age 18_: 2.6% (2017)<br>
 
 **Education expenditures**<br>
 4% of GDP (2020 est.)<br>
@@ -384,8 +384,8 @@ _FAX_: [228] 2261-5501<br>
 _email address and website_: <br>consularLome@state.gov<br><br>https://tg.usembassy.gov/<br>
 
 **Flag description**<br>
-five equal horizontal bands of green (top and bottom) alternating with yellow; a white five-pointed star on a red square is in the upper hoist-side corner; the five horizontal stripes stand for the five different regions of the country; the red square is meant to express the loyalty and patriotism of the people, green symbolizes hope, fertility, and agriculture, while yellow represents mineral wealth and faith that hard work and strength will bring prosperity; the star symbolizes life, purity, peace, dignity, and Togo's independence<br>
-<strong>note:</strong> uses the popular Pan-African colors of Ethiopia<br>
+five equal horizontal bands of green (top and bottom) alternating with yellow; a white five-pointed star on a red square is in the upper hoist-side corner; the five horizontal stripes stand for the country's regions; red stands for the people's loyalty and patriotism, green for hope, fertility, and agriculture, and yellow for mineral wealth and faith that hard work and strength will bring prosperity; the star symbolizes life, purity, peace, dignity, and national independence<br>
+<strong>note:</strong> uses the popular pan-African colors of Ethiopia<br>
 
 **National symbol(s)**<br>
 lion; national colors: green, yellow, red, white<br>
@@ -655,10 +655,10 @@ Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army, Togolese Na
 <strong>note:</strong> the Police and GNT are responsible for law enforcement and maintenance of order within the country; the GNT is also responsible for migration and border enforcement; the GNT falls under the Ministry of the Armed Forces but also reports to the Ministry of Security and Civil Protection on many matters involving law enforcement and internal security; in 2022, the Ministry of the Armed Forces was made part of the Office of the Presidency<br>
 
 **Military expenditures**<br>
-2.2% of GDP (2023 est.)<br>
-2.1% of GDP (2022 est.)<br>
-1.9% of GDP (2021 est.)<br>
-2% of GDP (2020 est.)<br>
+3% of GDP (2023 est.)<br>
+4% of GDP (2022 est.)<br>
+2.8% of GDP (2021 est.)<br>
+2.8% of GDP (2020 est.)<br>
 2.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>

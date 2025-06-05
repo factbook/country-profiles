@@ -185,7 +185,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 1.93 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-4 beds/1,000 population (2014)<br>
+4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.8% of population<br>
@@ -206,9 +206,9 @@ _spirits_: 0.98 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 5.5% (2020 est.)<br>
-_male_: 10.6% (2020 est.)<br>
-_female_: 0.4% (2020 est.)<br>
+_total_: 4.8% (2025 est.)<br>
+_male_: 9.4% (2025 est.)<br>
+_female_: 0.5% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 3.1% (2019)<br>
@@ -217,8 +217,8 @@ _female_: 0.4% (2020 est.)<br>
 64.3% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.2%<br>
-_women married by age 18_: 6.1% (2019 est.)<br>
+_women married by age 15_: 0.2% (2019)<br>
+_women married by age 18_: 6.1% (2019)<br>
 
 **Education expenditures**<br>
 3.1% of GDP (2019 est.)<br>
@@ -379,8 +379,7 @@ _FAX_: [993] (12) 94-26-14<br>
 _email address and website_: <br>ConsularAshgab@state.gov<br><br>https://tm.usembassy.gov/<br>
 
 **Flag description**<br>
-green field with a vertical red stripe near the hoist side, containing five tribal guls (designs used in producing carpets) stacked above two crossed olive branches; five white, five-pointed stars and a white crescent moon appear in the upper corner of the field just to the fly side of the red stripe; the green color and crescent moon represent Islam; the five stars symbolize the regions or welayats of Turkmenistan; the guls reflect the national identity of Turkmenistan where carpet-making has long been a part of traditional nomadic life<br>
-<strong>note:</strong> the flag of Turkmenistan is the most intricate of all national flags<br>
+green field with a vertical red stripe near the hoist side, containing five tribal <em>guls </em>(designs used in producing carpets) stacked above two crossed olive branches; five white five-pointed stars and a white crescent moon appear in the upper corner of the field; the green color and crescent moon stand for Islam, the five stars for the country's regions, and the guls for national identity<br>
 
 **National symbol(s)**<br>
 Akhal-Teke horse; national colors: green, white<br>

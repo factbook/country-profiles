@@ -166,6 +166,9 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Physician density**<br>
 1.67 physicians/1,000 population (2020)<br>
 
+**Hospital bed density**<br>
+8.2 beds/1,000 population (2021 est.)<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -185,9 +188,9 @@ _spirits_: 7.07 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 24% (2020 est.)<br>
-_male_: 27.7% (2020 est.)<br>
-_female_: 20.3% (2020 est.)<br>
+_total_: 24% (2025 est.)<br>
+_male_: 28.6% (2025 est.)<br>
+_female_: 20.1% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 42.6% (2023 est.)<br>

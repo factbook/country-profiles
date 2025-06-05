@@ -184,7 +184,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 4.35 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-6.6 beds/1,000 population (2018)<br>
+6.6 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -205,9 +205,9 @@ _spirits_: 3.24 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 30.7% (2020 est.)<br>
-_male_: 35% (2020 est.)<br>
-_female_: 26.4% (2020 est.)<br>
+_total_: 26.8% (2025 est.)<br>
+_male_: 30.8% (2025 est.)<br>
+_female_: 23% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 48.4% (2023 est.)<br>
@@ -404,7 +404,7 @@ _selected World Heritage Site locales_: Historic Prague (c); Historic Telč (c);
 ## Economy
 
 **Economic overview**<br>
-high-income, diversified EU economy; manufacturing-oriented exporter led by automotive industry; growth stalled by inflation and energy supply disruption; business-friendly regulatory frameworks; tight labor market with low unemployment; seeking reforms to support decarbonization and improve energy efficiency<br>
+<p>high-income, diversified EU economy; manufacturing-oriented exporter led by automotive industry; moderate growth driven by household consumption and investments, despite negative contribution from net exports; tight labor market with low unemployment; gained energy independence from Russian oil in April 2025</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $539.737 billion (2023 est.)<br>

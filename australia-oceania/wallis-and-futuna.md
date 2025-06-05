@@ -164,9 +164,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: 7.1% of population<br>
 _unimproved: total_: total: 7.1% of population (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 56% (2023)<br>
 
@@ -275,8 +272,8 @@ none (overseas territory of France)<br>
 none (overseas collectivity of France)<br>
 
 **Flag description**<br>
-unofficial, local flag has a red field with four white isosceles triangles in the middle, representing the three native kings of the islands and the French administrator; the apexes of the triangles are oriented inward and at right angles to each other; the flag of France, outlined in white on two sides, is in the upper hoist quadrant<br>
-<strong>note:</strong> the design is derived from an original red banner with a white cross pattee that was introduced in the 19th century by French missionaries; the flag of France is used for official occasions<br>
+unofficial local flag has a red field with four white isosceles triangles in the middle, representing the three native kings of the islands and the French administrator; the apexes of the triangles are oriented inward and at right angles to each other; the flag of France, outlined in white on two sides, is in the upper hoist quadrant<br>
+<strong>note:</strong> the design is derived from a red flag with a white cross that French missionaries introduced in the 19th century; the flag of France is used for official occasions<br>
 
 **National symbol(s)**<br>
 red saltire (Saint Andrew's Cross) on a white square on a red field; national colors: red, white<br>

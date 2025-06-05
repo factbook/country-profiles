@@ -186,7 +186,7 @@ _unimproved: total_: total: 7.6% of population (2020 est.)<br>
 0.27 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-0.9 beds/1,000 population (2011)<br>
+0.7 beds/1,000 population (2015 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 84.8% of population<br>
@@ -207,9 +207,9 @@ _spirits_: 0.39 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.61 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 3.5% (2020 est.)<br>
-_male_: 6.6% (2020 est.)<br>
-_female_: 0.3% (2020 est.)<br>
+_total_: 2.8% (2025 est.)<br>
+_male_: 5.4% (2025 est.)<br>
+_female_: 0.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 12.6% (2017/18)<br>
@@ -218,9 +218,9 @@ _female_: 0.3% (2020 est.)<br>
 54.3% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 5%<br>
-_women married by age 18_: 19.3%<br>
-_men married by age 18_: 3.9% (2018 est.)<br>
+_women married by age 15_: 3.3% (2022)<br>
+_women married by age 18_: 16.1% (2022)<br>
+_men married by age 18_: 2.4% (2022)<br>
 
 **Education expenditures**<br>
 3.9% of GDP (2018 est.)<br>
@@ -373,8 +373,8 @@ _telephone_: [233] (0) 30-274-1000<br>
 _email address and website_: <br>ACSAccra@state.gov<br><br>https://gh.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of red (top), yellow, and green, with a large black five-pointed star centered in the yellow band; red symbolizes the blood shed for independence, yellow represents the country's mineral wealth, while green stands for its forests and natural wealth; the black star is said to be the lodestar of African freedom<br>
-<strong>note:</strong> uses the popular Pan-African colors of Ethiopia; similar to the flag of Bolivia, which has a coat of arms centered in the yellow band<br>
+three equal horizontal bands of red (top), yellow, and green, with a large black five-pointed star centered in the yellow band; red stands for the blood shed for independence, yellow for the country's mineral wealth, and green for its forests and natural wealth; the black star is said to be the lodestar of African freedom<br>
+<strong>note:</strong> uses the popular pan-African colors of Ethiopia; similar to the flag of Bolivia, which has a coat of arms centered in the yellow band<br>
 
 **National symbol(s)**<br>
 black star, golden eagle; national colors: red, yellow, green, black<br>
@@ -659,11 +659,11 @@ Ghana Armed Forces (GAF): Army, Air Force, Ghana Navy<br><br>Ministry of Interio
 note: the GAF also has a Medical Service/Corps<br>
 
 **Military expenditures**<br>
+0.4% of GDP (2024 est.)<br>
 0.4% of GDP (2023 est.)<br>
 0.4% of GDP (2022 est.)<br>
 0.5% of GDP (2021 est.)<br>
 0.4% of GDP (2020 est.)<br>
-0.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 15-20,000 active Armed Forces (2025)<br>

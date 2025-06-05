@@ -183,7 +183,7 @@ _unimproved: total_: total: 5% of population (2020 est.)<br>
 1.28 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
-0.4 beds/1,000 population (2017)<br>
+0.4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 90.4% of population<br>
@@ -204,15 +204,20 @@ _spirits_: 0.68 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.01 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 10.9% (2020 est.)<br>
-_male_: 20.1% (2020 est.)<br>
-_female_: 1.6% (2020 est.)<br>
+_total_: 11.8% (2025 est.)<br>
+_male_: 22.5% (2025 est.)<br>
+_female_: 1.5% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 14.4% (2021/22)<br>
 
 **Currently married women (ages 15-49)**<br>
 57.2% (2023 est.)<br>
+
+**Child marriage**<br>
+_women married by age 15_: 6.2% (2015)<br>
+_women married by age 18_: 29.5% (2015)<br>
+_men married by age 18_: 9.6% (2015)<br>
 
 **Education expenditures**<br>
 3.1% of GDP (2021 est.)<br>
@@ -367,8 +372,8 @@ _FAX_: [502] 2326-4654<br>
 _email address and website_: <br>AmCitsGuatemala@state.gov<br><br>https://gt.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal vertical bands of light blue (hoist side), white, and light blue, with the coat of arms centered in the white band; the coat of arms includes a green and red quetzal (the national bird) representing liberty and a scroll bearing the inscription LIBERTAD 15 DE SEPTIEMBRE DE 1821 (the original date of independence from Spain) - all superimposed on a pair of crossed rifles signifying Guatemala's willingness to defend itself and a pair of crossed swords representing honor - and framed by a laurel wreath symbolizing victory; the blue bands represent the Pacific Ocean and Caribbean Sea; the white band denotes peace and purity<br>
-<strong>note:</strong> one of only two national flags featuring a firearm, the other is Mozambique<br>
+three equal vertical bands of light blue (hoist side), white, and light blue, with the coat of arms centered in the white band; the coat of arms includes a green-and-red quetzal (the national bird) and a scroll with the inscription LIBERTAD 15 DE SEPTIEMBRE DE 1821 (the original date of independence from Spain); a pair of crossed rifles on the coat of arms signify Guatemala's willingness to defend itself and a pair of crossed swords represent honor; framed by a laurel wreath symbolizing victory; the blue bands stand for the Pacific Ocean and Caribbean Sea, and the white for peace and purity<br>
+<strong>note:</strong> one of two national flags featuring a firearm; the other is Mozambique<br>
 
 **National symbol(s)**<br>
 quetzal (bird); national colors: blue, white<br>
@@ -613,7 +618,7 @@ _subscriptions per 100 inhabitants_: 115 (2022 est.)<br>
 .gt<br>
 
 **Internet users**<br>
-_percent of population_: 54% (2022 est.)<br>
+_percent of population_: 56% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 921,000 (2023 est.)<br>
@@ -655,11 +660,11 @@ Army of Guatemala (Ejercito de Guatemala; aka Armed Forces of Guatemala or Fuerz
 <strong>note:</strong> the National Civil Police (Policia Nacional Civil or PNC) are under the Ministry of Government (Interior)<br>
 
 **Military expenditures**<br>
+0.4% of GDP (2024 est.)<br>
 0.4% of GDP (2023 est.)<br>
 0.4% of GDP (2022 est.)<br>
 0.4% of GDP (2021 est.)<br>
 0.4% of GDP (2020 est.)<br>
-0.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 20,000 active Armed Forces (2025)<br>

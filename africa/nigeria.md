@@ -209,9 +209,9 @@ _spirits_: 0.4 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 3.27 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 3.7% (2020 est.)<br>
-_male_: 6.9% (2020 est.)<br>
-_female_: 0.5% (2020 est.)<br>
+_total_: 2.6% (2025 est.)<br>
+_male_: 4.8% (2025 est.)<br>
+_female_: 0.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 18.4% (2019/20)<br>
@@ -220,9 +220,9 @@ _female_: 0.5% (2020 est.)<br>
 66.2% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 12.3%<br>
-_women married by age 18_: 30.3%<br>
-_men married by age 18_: 1.6% (2021 est.)<br>
+_women married by age 15_: 12.3% (2021)<br>
+_women married by age 18_: 30.3% (2021)<br>
+_men married by age 18_: 1.6% (2021)<br>
 <strong>note:</strong> due to prolonged insecurity concerns, some parts of states, including Borno state, were not sampled<br>
 
 **Education expenditures**<br>
@@ -396,7 +396,7 @@ _email address and website_: <br>AbujaACS@state.gov<br><br>https://ng.usembassy.
 _consulate(s) general_: Lagos<br>
 
 **Flag description**<br>
-three equal vertical bands of green (hoist side), white, and green; the color green represents the forests and abundant natural wealth of the country, white stands for peace and unity<br>
+three equal vertical bands of green (hoist side), white, and green; the color green stands for the country's forests and natural resources, and white for peace and unity<br>
 
 **National symbol(s)**<br>
 eagle; national colors: green, white<br>
@@ -691,7 +691,7 @@ Armed Forces of Nigeria (AFN): Nigerian Army, Nigerian Navy (includes Coast Guar
 information varies; estimated 150,000 active Armed Forces&nbsp; (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; the military is undergoing a modernization program, and in recent years has received equipment from a range of suppliers, including Brazil, China, France, Italy, Russia, Turkey, and the US; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2024)<br>
+the military's inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; the military is undergoing a modernization program, and in recent years has received equipment from a range of suppliers, including Brazil, China, France, Italy, Russia, South Korea, Turkey, and the US; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2025)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service for men and women; no conscription (2023)<br>

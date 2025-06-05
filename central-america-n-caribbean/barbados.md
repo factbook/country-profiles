@@ -171,7 +171,7 @@ _unimproved: total_: total: 2% of population (2020 est.)<br>
 2.96 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-6 beds/1,000 population (2017)<br>
+5.7 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
@@ -192,9 +192,9 @@ _spirits_: 4.75 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.17 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 8.5% (2020 est.)<br>
-_male_: 15% (2020 est.)<br>
-_female_: 1.9% (2020 est.)<br>
+_total_: 6.2% (2025 est.)<br>
+_male_: 11.4% (2025 est.)<br>
+_female_: 1.5% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 57.1% (2023 est.)<br>
@@ -609,11 +609,11 @@ Barbados Defense Force (BDF): The Barbados Regiment, The Barbados Coast Guard (2
 <strong>note 1: </strong>the Barbados Police Service (TBPS) is the national police force; it is modeled after London's Metropolitan Police Service and divided into three territorial divisions<strong><br><br>note 2: </strong>the Barbados Cadet Corps is a national youth organization affiliated with the BDF; membership is open to all school children in Barbados between the ages of 11 and 18<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2024 est.)<br>
 0.7% of GDP (2023 est.)<br>
 0.8% of GDP (2022 est.)<br>
 0.9% of GDP (2021 est.)<br>
 0.9% of GDP (2020 est.)<br>
-0.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 600 active BDF personnel (2025)<br>

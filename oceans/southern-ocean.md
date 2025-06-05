@@ -83,8 +83,6 @@ _etymology_: the International Hydrographic Organization (IHO) has not formally 
 
 ## Economy
 
-## Communications
-
 ## Transportation
 
 **Transportation - note**<br>

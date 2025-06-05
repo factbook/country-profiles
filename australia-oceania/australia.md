@@ -196,7 +196,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 4.09 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-3.8 beds/1,000 population (2016)<br>
+3.8 beds/1,000 population (2016 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
@@ -217,9 +217,9 @@ _spirits_: 1.32 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.81 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 13.6% (2020 est.)<br>
-_male_: 15.6% (2020 est.)<br>
-_female_: 11.5% (2020 est.)<br>
+_total_: 11.4% (2025 est.)<br>
+_male_: 13.6% (2025 est.)<br>
+_female_: 9.2% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 55.9% (2023 est.)<br>
@@ -358,10 +358,9 @@ _number of seats_: 151 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 3 years<br>
-_most recent election date_: 5/21/2022<br>
-_parties elected and seats per party_: Australian Labor Party (ALP) (77); Liberal National coalition (58); Independents (10); Other (6)<br>
+_most recent election date_: 5/3/2025<br>
 _percentage of women in chamber_: 39.1%<br>
-_expected date of next election_: May 2025<br>
+_expected date of next election_: May 2028<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate<br>
@@ -369,10 +368,9 @@ _number of seats_: 76 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: partial renewal<br>
 _term in office_: 6 years<br>
-_most recent election date_: 5/21/2022<br>
-_parties elected and seats per party_: Australian Labor Party (ALP) (15); Liberal (7); The Greens (6); Liberal/Nationals (5); Liberal National Party of Queensland (2); Other (5)<br>
+_most recent election date_: 5/3/2025<br>
 _percentage of women in chamber_: 56.6%<br>
-_expected date of next election_: May 2025<br>
+_expected date of next election_: May 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court of Australia (consists of 7 justices, including the chief justice); each of the 6 states, 2 territories, and Norfolk Island has a Supreme Court; the High Court is the final appellate court<br>
@@ -409,6 +407,9 @@ blue, with the flag of the UK in the upper hoist-side quadrant and a large seven
 **National symbol(s)**<br>
 Commonwealth Star (seven-pointed Star of Federation), golden wattle tree (Acacia pycnantha), kangaroo, emu; national colors: green, gold<br>
 
+**National coat of arms**<br>
+King George V granted the current Commonwealth Coat of Arms to Australia on 19 September 1912. The center of the shield has the symbols of Australia&rsquo;s six states. The kangaroo and the emu symbolize a nation moving forward, since neither animal can move backward easily. The gold Commonwealth Star sits above the shield, with six of the star&rsquo;s points representing the Australian states and the seventh point representing the territories. The gold and blue in the wreath under the star are the livery, or identifying, colors for the coat of arms. Australia&rsquo;s floral emblem, the golden wattle, frames the shield.<br>
+
 **National anthem**<br>
 _name_: Advance Australia Fair<br>
 _lyrics/music_: Peter Dodds McCORMICK<br>
@@ -417,9 +418,6 @@ _lyrics/music_: Peter Dodds McCORMICK<br>
 **National heritage**<br>
 _total World Heritage Sites_: 20 (4 cultural, 12 natural, 4 mixed); note - includes one site on Heard Island and McDonald Islands<br>
 _selected World Heritage Site locales_: Great Barrier Reef (n); Greater Blue Mountains Area (n); Fraser Island (n); Gondwana Rainforests (n); Lord Howe Island Group (n); Royal Exhibition Building and Carlton Gardens (c); Shark Bay (n); Sydney Opera House (c); Uluṟu-Kata Tjuṯa National Park (m); Kakadu National Park (m)<br>
-
-**National coat of arms**<br>
-King George V granted the current Commonwealth Coat of Arms to Australia on 19 September 1912. The center of the shield has the symbols of Australia&rsquo;s six states. The kangaroo and the emu symbolize a nation moving forward, since neither animal can move backward easily. The gold Commonwealth Star sits above the shield, with six of the star&rsquo;s points representing the Australian states and the seventh point representing the territories. The gold and blue in the wreath under the star are the livery, or identifying, colors for the coat of arms. Australia&rsquo;s floral emblem, the golden wattle, frames the shield.<br>
 
 ## Economy
 
@@ -690,11 +688,11 @@ Australian Defense Force (ADF): Australian Army, Royal Australian Navy, Royal Au
 <strong>note: </strong>the Australian Federal Police (AFP) is an independent agency of the Attorney-General’s Department; the AFP, state, and territorial police forces are responsible for internal security; the Australian Border Force (ABF) is under the Department of Home Affairs<br>
 
 **Military expenditures**<br>
+2% of GDP (2024 est.)<br>
 2% of GDP (2023 est.)<br>
-2% of GDP (2022)<br>
-2% of GDP (2021)<br>
-2% of GDP (2020)<br>
-2% of GDP (2019)<br>
+2% of GDP (2022 est.)<br>
+2% of GDP (2021 est.)<br>
+2% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 60,000 active ADF personnel (2025)<br>

@@ -200,9 +200,9 @@ _spirits_: 0.31 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.82 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 24.3% (2020 est.)<br>
-_male_: 43.1% (2020 est.)<br>
-_female_: 5.4% (2020 est.)<br>
+_total_: 22.8% (2025 est.)<br>
+_male_: 42.4% (2025 est.)<br>
+_female_: 4.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 10.5% (2018)<br>
@@ -211,9 +211,9 @@ _female_: 5.4% (2020 est.)<br>
 53.7% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 1%<br>
-_women married by age 18_: 16.4%<br>
-_men married by age 18_: 1.9% (2018 est.)<br>
+_women married by age 15_: 1% (2018)<br>
+_women married by age 18_: 16.4% (2018)<br>
+_men married by age 18_: 1.9% (2018)<br>
 
 **Education expenditures**<br>
 8.7% of GDP (2021 est.)<br>
@@ -384,7 +384,7 @@ _FAX_: [266] 22310116<br>
 _email address and website_: <br>USConsularMaseru@state.gov<br><br>https://ls.usembassy.gov/<br>
 
 **Flag description**<br>
-three horizontal stripes of blue (top), white, and green in the proportions of 3:4:3; the colors represent rain, peace, and prosperity respectively; centered in the white stripe is a black mokorotlo, a traditional Basotho straw hat and national symbol; the redesigned flag was unfurled in October 2006 to celebrate 40 years of independence<br>
+three horizontal stripes of blue (top), white, and green, representing respectively rain, peace, and prosperity; centered in the white stripe is a black <em>mokorotlo</em>, a traditional Basotho straw hat and national symbol; the redesigned flag was introduced in 2006 to celebrate 40 years of independence<br>
 
 **National symbol(s)**<br>
 mokorotio (Basotho hat); national colors: blue, white, green, black<br>
@@ -613,7 +613,7 @@ _subscriptions per 100 inhabitants_: 68 (2022 est.)<br>
 .ls<br>
 
 **Internet users**<br>
-_percent of population_: 47% (2022 est.)<br>
+_percent of population_: 48% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 9,000 (2023 est.)<br>
@@ -634,11 +634,11 @@ Lesotho Defense Force (LDF) (2025)<br>
 <strong>note:</strong> the Lesotho Mounted Police Service is responsible for internal security and reports to the Minister of Local Government, Chieftainship, Home Affairs and Police<br>
 
 **Military expenditures**<br>
-1.5% of GDP (2023 est.)<br>
+1.5% of GDP (2024 est.)<br>
+1.6% of GDP (2023 est.)<br>
 1.6% of GDP (2022 est.)<br>
 1.5% of GDP (2021 est.)<br>
 1.6% of GDP (2020 est.)<br>
-1.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 active Defense Forces (2025)<br>

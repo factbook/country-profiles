@@ -188,6 +188,9 @@ _unimproved: total_: total: 28.8% of population (2020 est.)<br>
 **Physician density**<br>
 0.29 physicians/1,000 population (2023)<br>
 
+**Hospital bed density**<br>
+1.3 beds/1,000 population (2019 est.)<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: 84% of population<br>
 _improved: rural_: rural: 48.1% of population<br>
@@ -207,15 +210,20 @@ _spirits_: 0.81 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.03 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 11.1% (2020 est.)<br>
-_male_: 19.5% (2020 est.)<br>
-_female_: 2.7% (2020 est.)<br>
+_total_: 8.6% (2025 est.)<br>
+_male_: 15.5% (2025 est.)<br>
+_female_: 1.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 10.1% (2022)<br>
 
 **Currently married women (ages 15-49)**<br>
 56.8% (2023 est.)<br>
+
+**Child marriage**<br>
+_women married by age 15_: 2.2% (2022)<br>
+_women married by age 18_: 12.5% (2022)<br>
+_men married by age 18_: 1.8% (2022)<br>
 
 **Education expenditures**<br>
 4.8% of GDP (2021 est.)<br>
@@ -390,7 +398,7 @@ _FAX_: [254] (20) 363-6157<br>
 _email address and website_: <br>kenya_acs@state.gov<br><br>https://ke.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of black (top), red, and green; the red band is edged in white; a large Maasai warrior's shield covering crossed spears is superimposed at the center; black symbolizes the majority population, red the blood shed in the struggle for freedom, green stands for natural wealth, and white for peace; the shield and crossed spears symbolize the defense of freedom<br>
+three equal horizontal bands of black (top), red, and green; the red band is edged in white; a large Maasai warrior's shield covering crossed spears is at the center; black stands for the majority population, red for the blood shed in the struggle for freedom, green for natural wealth, and white for peace; the shield and crossed spears symbolize the defense of freedom<br>
 
 **National symbol(s)**<br>
 lion; national colors: black, red, green, white<br>
@@ -666,11 +674,11 @@ Kenya Defense Forces (KDF): Kenya Army, Kenya Navy, Kenya Air Force<br><br>Minis
 <strong>note:</strong> the National Police Service maintains internal security and includes a paramilitary General Service Unit and Rapid Deployment Unit, as well as a Border Police Unit<br>
 
 **Military expenditures**<br>
-1% of GDP (2023 est.)<br>
+1.1% of GDP (2024 est.)<br>
+1.1% of GDP (2023 est.)<br>
 1.1% of GDP (2022 est.)<br>
 1.2% of GDP (2021 est.)<br>
 1.2% of GDP (2020 est.)<br>
-1.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active Kenya Defense Forces (2025)<br>

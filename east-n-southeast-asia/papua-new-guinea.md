@@ -183,6 +183,9 @@ _unimproved: total_: total: 52.5% of population (2020 est.)<br>
 **Physician density**<br>
 0.06 physicians/1,000 population (2023)<br>
 
+**Hospital bed density**<br>
+0.2 beds/1,000 population (2019 est.)<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: 57.8% of population<br>
 _improved: rural_: rural: 18.2% of population<br>
@@ -202,17 +205,17 @@ _spirits_: 0.6 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 39.3% (2020 est.)<br>
-_male_: 53.5% (2020 est.)<br>
-_female_: 25.1% (2020 est.)<br>
+_total_: 38.9% (2025 est.)<br>
+_male_: 53.4% (2025 est.)<br>
+_female_: 23.8% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 65.5% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 8%<br>
-_women married by age 18_: 27.3%<br>
-_men married by age 18_: 3.7% (2018 est.)<br>
+_women married by age 15_: 8% (2018)<br>
+_women married by age 18_: 27.3% (2018)<br>
+_men married by age 18_: 3.7% (2018)<br>
 
 **Education expenditures**<br>
 1.4% of GDP (2020 est.)<br>
@@ -364,7 +367,7 @@ _telephone_: [675] 308-9100<br>
 _email address and website_: <br>ConsularPortMoresby@state.gov<br><br>https://pg.usembassy.gov/<br>
 
 **Flag description**<br>
-divided diagonally from upper hoist-side corner; the upper triangle is red with a soaring yellow bird of paradise centered; the lower triangle is black with five, white, five-pointed stars of the Southern Cross constellation centered; red, black, and yellow are traditional colors of Papua New Guinea; the bird of paradise - endemic to the island of New Guinea - is an emblem of regional tribal culture and represents the emergence of Papua New Guinea as a nation; the Southern Cross, visible in the night sky, symbolizes Papua New Guinea's connection with Australia and several other countries in the South Pacific<br>
+divided diagonally from upper hoist-side corner; the upper triangle is red with a soaring yellow bird of paradise centered; the lower triangle is black with five white five-pointed stars of the Southern Cross constellation centered; red, black, and yellow are the country's traditional colors; the bird of paradise is an emblem of regional tribal culture and represents the emergence of Papua New Guinea as a nation; the Southern Cross symbolizes the country's connection with Australia and several other countries in the South Pacific<br>
 
 **National symbol(s)**<br>
 bird of paradise; national colors: red, black<br>
@@ -587,7 +590,7 @@ _subscriptions per 100 inhabitants_: 48 (2021 est.)<br>
 .pg<br>
 
 **Internet users**<br>
-_percent of population_: 27% (2022 est.)<br>
+_percent of population_: 24% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 22,000 (2022 est.)<br>

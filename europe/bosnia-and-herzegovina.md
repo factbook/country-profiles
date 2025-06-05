@@ -180,7 +180,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 2.58 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
-3.5 beds/1,000 population (2014)<br>
+2.3 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.5% of population<br>
@@ -201,9 +201,9 @@ _spirits_: 0.62 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.17 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 35% (2020 est.)<br>
-_male_: 42% (2020 est.)<br>
-_female_: 28% (2020 est.)<br>
+_total_: 34% (2025 est.)<br>
+_male_: 39.2% (2025 est.)<br>
+_female_: 29% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 63.8% (2023 est.)<br>
@@ -369,7 +369,7 @@ _email address and website_: <br>info@bhembassy.org<br><br>http://www.bhembassy.
 _consulate(s) general_: Chicago<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Michael J. MURPHY (since 23 February 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Daniel KOSKI (since February 2025)<br>
 _embassy_: 1 Robert C. Frasure Street, 71000 Sarajevo<br>
 _mailing address_: 7130 Sarajevo Place, Washington DC&nbsp; 20521-7130<br>
 _telephone_: [387] (33) 704-000<br>
@@ -647,11 +647,11 @@ _key ports_: Neum<br>
 Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegovine, OSBiH): Army, Air, Air Defense forces organized into an Operations Command and a Support Command<br><br>Ministry of Security: Border Police (2025)<br>
 
 **Military expenditures**<br>
+0.8% of GDP (2024 est.)<br>
 0.8% of GDP (2023 est.)<br>
-0.8% of GDP (2022)<br>
-0.9% of GDP (2021)<br>
-0.9% of GDP (2020)<br>
-0.8% of GDP (2019)<br>
+0.8% of GDP (2022 est.)<br>
+0.9% of GDP (2021 est.)<br>
+0.9% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 10,000 active-duty Armed Forces (2024)<br>

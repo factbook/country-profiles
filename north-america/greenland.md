@@ -167,9 +167,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Physician density**<br>
 1.87 physicians/1,000 population (2016)<br>
 
-**Hospital bed density**<br>
-14 beds/1,000 population (2016)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 100% of population<br>
@@ -308,7 +305,7 @@ _telephone_: (+299) 384100<br>
 _email address and website_: <br>USConsulateNuuk@state.gov<br><br>Homepage - U.S. Embassy &amp; Consulate in the Kingdom of Denmark (usembassy.gov)<br>
 
 **Flag description**<br>
-two equal horizontal bands of white (top) and red with a large disk slightly to the hoist side of center - the top half of the disk is red, the bottom half is white; the design represents the sun reflecting off a field of ice; the colors are the same as those of the Danish flag and symbolize Greenland's links to the Kingdom of Denmark<br>
+two equal horizontal bands of white (top) and red, with a large disk slightly to the hoist side of center; the top half of the disk is red, and the bottom is white; the design represents the sun reflecting off a field of ice; the colors are the same as those of the Danish flag and symbolize Greenland's links to the Kingdom of Denmark<br>
 
 **National symbol(s)**<br>
 polar bear; national colors: red, white<br>

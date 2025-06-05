@@ -177,7 +177,7 @@ _unimproved: total_: total: 18% of population (2020 est.)<br>
 0.2 physicians/1,000 population (2013)<br>
 
 **Hospital bed density**<br>
-1.9 beds/1,000 population (2016)<br>
+1.9 beds/1,000 population (2016 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 75.4% of population<br>
@@ -198,9 +198,9 @@ _spirits_: 0.17 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 40.6% (2020 est.)<br>
-_male_: 53.9% (2020 est.)<br>
-_female_: 27.3% (2020 est.)<br>
+_total_: 35.4% (2025 est.)<br>
+_male_: 48.4% (2025 est.)<br>
+_female_: 23.6% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 6.9% (2018/19)<br>
@@ -209,9 +209,9 @@ _female_: 27.3% (2020 est.)<br>
 67.6% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 2.4%<br>
-_women married by age 18_: 18.4%<br>
-_men married by age 18_: 8.6% (2019 est.)<br>
+_women married by age 15_: 2.4% (2019)<br>
+_women married by age 18_: 18.4% (2019)<br>
+_men married by age 18_: 8.6% (2019)<br>
 
 **Education expenditures**<br>
 12.4% of GDP (2019 est.)<br>
@@ -347,7 +347,7 @@ _chief of mission_: Ambassador Marie DAMOUR (since 6 December 2022); note - Amba
 <strong>Note</strong>:  the US does not have an embassy in Kiribati but has announced its intention to open an embassy<br>
 
 **Flag description**<br>
-the upper half is red with a yellow frigatebird flying over a yellow rising sun, and the lower half is blue with three horizontal wavy white stripes to represent the Pacific ocean; the white stripes represent the three island groups - the Gilbert, Line, and Phoenix Islands; the 17 rays of the sun represent the 16 Gilbert Islands and Banaba (formerly Ocean Island); the frigatebird symbolizes authority and freedom<br>
+the upper half is red with a yellow frigatebird flying over a yellow rising sun, and the lower half is blue with three horizontal wavy white stripes to represent the Pacific ocean; the white stripes represent the Gilbert, Line, and Phoenix island groups; the 17 rays of the sun represent the 16 Gilbert Islands and Banaba (formerly Ocean Island); the frigatebird symbolizes authority and freedom<br>
 
 **National symbol(s)**<br>
 frigatebird; national colors: red, white, blue, yellow<br>

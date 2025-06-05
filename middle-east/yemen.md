@@ -181,9 +181,6 @@ _unimproved: total_: total: 10.4% of population (2020 est.)<br>
 **Physician density**<br>
 0.1 physicians/1,000 population (2023)<br>
 
-**Hospital bed density**<br>
-0.7 beds/1,000 population (2017)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 83.5% of population<br>
 _improved: rural_: rural: 44.2% of population<br>
@@ -203,15 +200,16 @@ _spirits_: 0 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 20.3% (2020 est.)<br>
-_male_: 32.5% (2020 est.)<br>
-_female_: 8.1% (2020 est.)<br>
-
-**Children under the age of 5 years underweight**<br>
-39.9% (2013)<br>
+_total_: 20.2% (2025 est.)<br>
+_male_: 33.1% (2025 est.)<br>
+_female_: 7.3% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 60.4% (2023 est.)<br>
+
+**Child marriage**<br>
+_women married by age 15_: 6.5% (2023)<br>
+_women married by age 18_: 29.6% (2023)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -368,8 +366,8 @@ _FAX_: US Embassy Riyadh [966] 11-488-7360<br>
 _email address and website_: <br>YemenEmergencyUSC@state.gov<br><br>https://ye.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of red (top), white, and black; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white)<br>
-<strong>note:</strong> similar to the flag of Syria, which has two green stars in the white band, and of Iraq, which has an Arabic inscription centered in the white band; also similar to the flag of Egypt, which has a heraldic eagle centered in the white band<br>
+three equal horizontal bands of red (top), white, and black; the band colors come from the Arab Liberation flag and represent oppression (black) overcome through bloody struggle (red), to be replaced by a bright future (white)<br>
+<strong>note:</strong> similar to the flags of Iraq (Arabic inscription centered in the white band) and Egypt (heraldic eagle centered in the white band)<br>
 
 **National symbol(s)**<br>
 golden eagle; national colors: red, white, black<br>

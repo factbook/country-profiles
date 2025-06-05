@@ -185,6 +185,9 @@ _unimproved: total_: total: 39.1% of population (2020 est.)<br>
 **Physician density**<br>
 0.09 physicians/1,000 population (2023)<br>
 
+**Hospital bed density**<br>
+0.4 beds/1,000 population (2017 est.)<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: 57.5% of population<br>
 _improved: rural_: rural: 4.9% of population<br>
@@ -204,9 +207,9 @@ _spirits_: 0.01 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.16 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 8.3% (2020 est.)<br>
-_male_: 13.8% (2020 est.)<br>
-_female_: 2.7% (2020 est.)<br>
+_total_: 6.5% (2025 est.)<br>
+_male_: 11.8% (2025 est.)<br>
+_female_: 1.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 18.9% (2022)<br>
@@ -215,9 +218,9 @@ _female_: 2.7% (2020 est.)<br>
 70.6% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 24.2%<br>
-_women married by age 18_: 60.6%<br>
-_men married by age 18_: 8.1% (2019 est.)<br>
+_women married by age 15_: 24.2% (2019)<br>
+_women married by age 18_: 60.6% (2019)<br>
+_men married by age 18_: 8.1% (2019)<br>
 
 **Education expenditures**<br>
 2.9% of GDP (2021 est.)<br>
@@ -631,11 +634,11 @@ Chadian National Army (Armee Nationale du Tchad, ANT): Ground Forces (l'Armee de
 <strong>note 1:</strong> the GDSSIE is the presidential guard force and is considered to be Chad's elite military unit; it is reportedly a division-sized force with infantry, armor, and special forces/anti-terrorism regiments (known as the Special Anti-Terrorist Group or SATG, aka Division of Special Anti-Terrorist Groups or DGSAT); it reports directly to the president<br><br><strong>note 2:</strong> the Chadian National Police are under the Ministry of Public Security and Immigration; border security duties are shared by the ANT, Customs (Ministry of Public Security and Immigration), the National Gendarmerie, and the GNNT<br>
 
 **Military expenditures**<br>
+3% of GDP (2024 est.)<br>
 2.9% of GDP (2023 est.)<br>
 2.6% of GDP (2022 est.)<br>
 2.5% of GDP (2021 est.)<br>
 2.9% of GDP (2020 est.)<br>
-2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 35-40,000 active Chadian National Army (2025)<br>

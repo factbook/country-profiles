@@ -189,7 +189,7 @@ _unimproved: total_: total: 14.9% of population (2020 est.)<br>
 0.21 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
-1.9 beds/1,000 population (2016)<br>
+0.7 beds/1,000 population (2018 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -210,15 +210,20 @@ _spirits_: 0.41 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 21.1% (2020 est.)<br>
-_male_: 36.1% (2020 est.)<br>
-_female_: 6% (2020 est.)<br>
+_total_: 14.5% (2025 est.)<br>
+_male_: 24.9% (2025 est.)<br>
+_female_: 4.7% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 16.3% (2022)<br>
 
 **Currently married women (ages 15-49)**<br>
 66.4% (2023 est.)<br>
+
+**Child marriage**<br>
+_women married by age 15_: 1.9% (2022)<br>
+_women married by age 18_: 17.9% (2022)<br>
+_men married by age 18_: 3.3% (2022)<br>
 
 **Education expenditures**<br>
 3.1% of GDP (2020 est.)<br>
@@ -652,11 +657,11 @@ Royal Cambodian Armed Forces (RCAF): Royal Cambodian Army, Royal Khmer Navy, Roy
 <strong>note 1:</strong> the National Committee for Maritime Security performs coast guard functions and has representation from military and civilian agencies<br><br><strong>note 2:</strong> the Cambodian National Police are under the Ministry of Interior<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2024 est.)<br>
+1.5% of GDP (2023 est.)<br>
 2.1% of GDP (2022 est.)<br>
 2.3% of GDP (2021 est.)<br>
 2.3% of GDP (2020 est.)<br>
-2.2% of GDP (2019 est.)<br>
-2.2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; estimated 200,000 Armed Forces, including Gendarmerie (2025)<br>

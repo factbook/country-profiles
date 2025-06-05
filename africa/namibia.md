@@ -188,9 +188,6 @@ _unimproved: total_: total: 8.6% of population (2020 est.)<br>
 **Physician density**<br>
 0.55 physicians/1,000 population (2022)<br>
 
-**Hospital bed density**<br>
-2.7 beds/1,000 population<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 70.6% of population<br>
 _improved: rural_: rural: 23.6% of population<br>
@@ -210,9 +207,9 @@ _spirits_: 0.53 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.32 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 15.1% (2020 est.)<br>
-_male_: 24.2% (2020 est.)<br>
-_female_: 6% (2020 est.)<br>
+_total_: 11.8% (2025 est.)<br>
+_male_: 20.5% (2025 est.)<br>
+_female_: 3.9% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 33.3% (2023 est.)<br>
@@ -387,7 +384,7 @@ _FAX_: [264] (61) 202-5219<br>
 _email address and website_: <br>ConsularWindhoek@state.gov<br><br>https://na.usembassy.gov/<br>
 
 **Flag description**<br>
-a wide red stripe edged by narrow white stripes divides the flag diagonally from lower hoist corner to upper fly corner; the upper hoist-side triangle is blue and charged with a golden-yellow, 12-rayed sunburst; the lower fly-side triangle is green; red signifies the heroism of the people and their determination to build a future of equal opportunity for all; white stands for peace, unity, tranquility, and harmony; blue represents the Namibian sky and the Atlantic Ocean, the country's precious water resources and rain; the golden-yellow sun denotes power and existence; green symbolizes vegetation and agricultural resources<br>
+a wide red stripe edged with narrow white stripes divides the flag diagonally from lower hoist corner to upper fly corner; the upper triangle is blue and has a golden-yellow, 12-rayed sunburst, and the lower triangle is green; red stands for the heroism of the people and their determination to build a future of equal opportunity; white stands for peace, unity, tranquility, and harmony; blue stands for the sky and the Atlantic Ocean, the sun for power and existence, and green for vegetation and agricultural resources<br>
 
 **National symbol(s)**<br>
 oryx (antelope); national colors: blue, red, green, white, yellow<br>

@@ -190,7 +190,7 @@ _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 2.36 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-2.1 beds/1,000 population (2017)<br>
+2.5 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 94.1% of population<br>
@@ -211,9 +211,9 @@ _spirits_: 2 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.04 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 12.8% (2020 est.)<br>
-_male_: 16.2% (2020 est.)<br>
-_female_: 9.4% (2020 est.)<br>
+_total_: 11.2% (2025 est.)<br>
+_male_: 14.4% (2025 est.)<br>
+_female_: 8.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 3.1% (2019)<br>
@@ -707,11 +707,11 @@ Brazilian Armed Forces (Forças Armadas Brasileiras): Brazilian Army (Exercito B
 <strong>note:</strong> the three national police forces – the Federal Police, Federal Highway Police, and Federal Railway Police – have domestic security responsibilities and report to the Ministry of Justice and Public Security (Ministry of Justice)<br>
 
 **Military expenditures**<br>
+1.1% of GDP (2024 est.)<br>
 1.1% of GDP (2023 est.)<br>
 1.2% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>
-1.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 360,000 active Armed Forces (220,000 Army; 70,000 Navy; 70,000 Air Force) (2025)<br>

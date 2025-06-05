@@ -182,7 +182,7 @@ _unimproved: total_: total: 21.5% of population (2020 est.)<br>
 0.15 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-0.4 beds/1,000 population<br>
+0.2 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 90.8% of population<br>
@@ -203,15 +203,20 @@ _spirits_: 0.31 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 5.88 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 14.3% (2020 est.)<br>
-_male_: 22.1% (2020 est.)<br>
-_female_: 6.4% (2020 est.)<br>
+_total_: 12.4% (2025 est.)<br>
+_male_: 20.4% (2025 est.)<br>
+_female_: 4.6% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 17.5% (2021)<br>
 
 **Currently married women (ages 15-49)**<br>
 73.5% (2023)<br>
+
+**Child marriage**<br>
+_women married by age 15_: 8.9% (2015)<br>
+_women married by age 18_: 51.3% (2015)<br>
+_men married by age 18_: 1.6% (2015)<br>
 
 **Education expenditures**<br>
 5.5% of GDP (2020 est.)<br>
@@ -624,11 +629,11 @@ Armed Forces of Burkina Faso (FABF; aka National Armed Forces (FAN), aka Defense
 <strong>note 1:</strong> the National Gendarmerie is under the Ministry of Defense, but usually operates in support of the Ministry of Territorial Administration, Decentralization, and Security; the Gendarmerie's primary mission is counterterrorism<br><br><strong>note 2:</strong> the VDP is a lightly armed civilian defense/militia force established in 2019 to act as auxiliaries to the Army; the volunteers receive two weeks of training and typically assist with carrying out surveillance, information-gathering, and escort duties, as well as local defense; they are based in each of the country's more than 300 municipalities<br>
 
 **Military expenditures**<br>
+4.5% of GDP (2024 est.)<br>
 4% of GDP (2023 est.)<br>
 2.9% of GDP (2022 est.)<br>
 2.4% of GDP (2021 est.)<br>
 2.4% of GDP (2020 est.)<br>
-2.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 20,000 Armed Forces; estimated 50,000 Homeland Defense Volunteers (2025)<br>
@@ -640,6 +645,9 @@ the FABF has a mix of older, secondhand, and some modern equipment from a variet
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service for men and women; citizens 18-77 years of age are eligible to volunteer for the VDP (2023)<br>
 <strong>note:</strong> the military government implemented an emergency law in 2023 that allows the president extensive powers to combat terrorist groups operating in the country, including conscripting citizens into the security services<br>
+
+**Military deployments**<br>
+<strong>note:</strong> in 2024, Burkina Faso, Mali, and Niger announced they were forming joint force of 5,000 troops to combat extremist groups in the Sahel<br>
 
 **Military - note**<br>
 the FABF has a history of interference in the country’s politics, having conducted eight coups since its formation in 1960-61, including the most recent in September 2022; several combat units were disbanded in 2011 following mutinies; while the FABF is responsible for external defense, it has an internal security role and can be called out to assist internal security forces in restoring public order, combating crime, securing the border, and counterterrorism; indeed, for more than a decade, its focus has largely been internal counterterrorism and counterinsurgency operations, and it is actively engaged in combat operations against terrorist groups affiliated with al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS), particularly in the northern and eastern regions<br><br>in the north, Jama'at Nusrat al-Islam wal-Muslimin (JNIM), a coalition of al-Qa'ida linked militant groups that act as al-Qa'ida in the Land of the Islamic Magreb's (AQIM) arm in the Sahel, has exploited ethnic tensions and perceptions of state neglect, as well as grievances over corruption, patronage politics, social stratification, and land disputes; in 2024, JNIM was active in nearly all of the country's 13 provinces; the ISIS-Greater Sahara (ISIS-GS) terrorist group operates in the eastern part of the country (2024)<br>

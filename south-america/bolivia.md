@@ -188,7 +188,7 @@ _unimproved: total_: total: 6.5% of population (2020 est.)<br>
 1.28 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
-1.3 beds/1,000 population (2017)<br>
+1.4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 97.8% of population<br>
@@ -209,9 +209,9 @@ _spirits_: 0.54 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.08 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 12.7% (2020 est.)<br>
-_male_: 20.5% (2020 est.)<br>
-_female_: 4.8% (2020 est.)<br>
+_total_: 11% (2025 est.)<br>
+_male_: 18.9% (2025 est.)<br>
+_female_: 3.2% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 3.4% (2016)<br>
@@ -220,9 +220,9 @@ _female_: 4.8% (2020 est.)<br>
 57.1% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 3.4%<br>
-_women married by age 18_: 19.7%<br>
-_men married by age 18_: 5.2% (2016 est.)<br>
+_women married by age 15_: 3.4% (2016)<br>
+_women married by age 18_: 19.7% (2016)<br>
+_men married by age 18_: 5.2% (2016)<br>
 
 **Education expenditures**<br>
 9.8% of GDP (2020 est.)<br>
@@ -672,11 +672,11 @@ Bolivian Armed Forces (Fuerzas Armadas de Bolivia or FAB): Bolivian Army (Ejerci
 <strong>note:</strong> the PNB is part of the reserves for the Armed Forces; the police and military share responsibility for border enforcement<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2024 est.)<br>
 1.2% of GDP (2023 est.)<br>
 1.3% of GDP (2022 est.)<br>
 1.4% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>
-1.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 35,000 active-duty Armed Forces (2025)<br>

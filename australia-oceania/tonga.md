@@ -195,9 +195,9 @@ _spirits_: 0.11 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 31% (2020 est.)<br>
-_male_: 46.7% (2020 est.)<br>
-_female_: 15.3% (2020 est.)<br>
+_total_: 30.5% (2025 est.)<br>
+_male_: 46.1% (2025 est.)<br>
+_female_: 15.8% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 0.8% (2019)<br>
@@ -206,9 +206,9 @@ _female_: 15.3% (2020 est.)<br>
 54.9% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.4%<br>
-_women married by age 18_: 10.1%<br>
-_men married by age 18_: 2.8% (2019 est.)<br>
+_women married by age 15_: 0.4% (2019)<br>
+_women married by age 18_: 10.1% (2019)<br>
+_men married by age 18_: 2.8% (2019)<br>
 
 **Education expenditures**<br>
 6.6% of GDP (2021 est.)<br>
@@ -351,7 +351,7 @@ _chief of mission_: Ambassador Marie DAMOUR (since 6 December 2022); note - Amba
 _embassy_: although the US opened an embassy in Tonga on 9 May 2023, the US Ambassador to Fiji is accredited to Tonga while the Embassy is being staffed<br>
 
 **Flag description**<br>
-red with a bold red cross on a white rectangle in the upper hoist-side corner; the cross reflects the deep-rooted Christianity in Tonga, red represents the blood of Christ and his sacrifice, and white signifies purity<br>
+red with a red cross on a white rectangle in the upper hoist-side corner; the cross stands for Christianity in Tonga, red for Christ's blood and sacrifice, and white for purity<br>
 
 **National symbol(s)**<br>
 red cross on white field, arms equal length; national colors: red, white<br>

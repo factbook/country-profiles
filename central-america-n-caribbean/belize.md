@@ -176,7 +176,7 @@ _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 1.09 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-1 beds/1,000 population (2017)<br>
+1 beds/1,000 population (2018 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.1% of population<br>
@@ -197,9 +197,9 @@ _spirits_: 1.19 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.17 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 8.5% (2020 est.)<br>
-_male_: 15.1% (2020 est.)<br>
-_female_: 1.8% (2020 est.)<br>
+_total_: 8.3% (2025 est.)<br>
+_male_: 14.8% (2025 est.)<br>
+_female_: 1.8% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 4.6% (2015/16)<br>
@@ -208,9 +208,9 @@ _female_: 1.8% (2020 est.)<br>
 64.3% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 6.3%<br>
-_women married by age 18_: 33.5%<br>
-_men married by age 18_: 22.2% (2016 est.)<br>
+_women married by age 15_: 6.3% (2016)<br>
+_women married by age 18_: 33.5% (2016)<br>
+_men married by age 18_: 22.2% (2016)<br>
 
 **Education expenditures**<br>
 8.7% of GDP (2021 est.)<br>
@@ -329,7 +329,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 3/12/2025<br>
 _parties elected and seats per party_: People's United Party (PUP) (26); United Democratic Party (UDP) (5)<br>
-_percentage of women in chamber_: 9.7%<br>
+_percentage of women in chamber_: 12.5%<br>
 _expected date of next election_: March 2030<br>
 
 **Legislative branch - upper chamber**<br>
@@ -337,9 +337,9 @@ _chamber name_: Senate<br>
 _number of seats_: 13 (all appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 12/11/2020<br>
-_percentage of women in chamber_: 28.6%<br>
-_expected date of next election_: May 2025<br>
+_most recent election date_: 5/9/2025<br>
+_percentage of women in chamber_: 35.7%<br>
+_expected date of next election_: May 2030<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Judicature (consists of the Court of Appeal with the court president and 3 justices, and the Supreme Court with the chief justice and 10 justices); the Caribbean Court of Justice is the final court of appeal<br>
@@ -625,11 +625,11 @@ Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard (BCG) (2025)<br>
 <strong>note:</strong> the Ministry of National Defense and Border Security is responsible for oversight of the BDF and the Coast Guard, while the Ministry of Home Affairs and New Growth Industries has responsibility for the Belize Police Department (BPD) and prisons<br>
 
 **Military expenditures**<br>
+1% of GDP (2024 est.)<br>
 0.9% of GDP (2023 est.)<br>
 1.1% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
 1.5% of GDP (2020 est.)<br>
-1.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,500 BDF personnel (2025)<br>

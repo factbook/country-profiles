@@ -190,7 +190,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 4.53 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-8 beds/1,000 population (2017)<br>
+7.8 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -211,9 +211,9 @@ _spirits_: 1.97 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 22% (2020 est.)<br>
-_male_: 24.1% (2020 est.)<br>
-_female_: 19.9% (2020 est.)<br>
+_total_: 17.2% (2025 est.)<br>
+_male_: 19.4% (2025 est.)<br>
+_female_: 15% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 0.5% (2014/17)<br>
@@ -395,7 +395,7 @@ _email address and website_: <br>BerlinPCO@state.gov<br><br>https://de.usembassy
 _consulate(s) general_: Dusseldorf, Frankfurt am Main, Hamburg, Leipzig, Munich<br>
 
 **Flag description**<br>
-three equal horizontal bands of black (top), red, and gold; these colors have played an important role in German history and can be traced back to the medieval banner of the Holy Roman Emperor - a black eagle with red claws and beak on a gold field<br>
+three equal horizontal bands of black (top), red, and gold; the colors can be traced back to the medieval banner of the Holy Roman Emperor -- a black eagle with red claws and beak on a gold field<br>
 
 **National symbol(s)**<br>
 eagle; national colors: black, red, yellow<br>
@@ -642,7 +642,7 @@ a mix of publicly operated and privately owned TV and radio stations; 70 nationa
 .de<br>
 
 **Internet users**<br>
-_percent of population_: 92% (2023 est.)<br>
+_percent of population_: 94% (2024 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 38.4 million (2023 est.)<br>

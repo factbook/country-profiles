@@ -180,13 +180,16 @@ _unimproved: urban_: urban: 17.7% of population<br>
 _unimproved: rural_: rural: 49.5% of population<br>
 _unimproved: total_: total: 32.3% of population (2015 est.)<br>
 
+**Children under the age of 5 years underweight**<br>
+12.3% (2022)<br>
+
 **Currently married women (ages 15-49)**<br>
 66.2% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 5%<br>
-_women married by age 18_: 18.7% (2022 est.)<br>
-_men married by age 18_: 2.8% (2021 est.)<br>
+_women married by age 15_: 4.3% (2023)<br>
+_women married by age 18_: 18.7% (2023)<br>
+_men married by age 18_: 2.7% (2022)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -275,8 +278,8 @@ _chief of state_: there are 27 countries with royal families in the world: most 
 <strong>note:</strong> there are 230 political entities with legislative bodies; of these 144 are unicameral (a single “house”) and 86 are bicameral (both upper and lower houses); 33 territories, possessions, or other special administrative units have their own governing bodies<br>
 
 **Flag description**<br>
-while a "World" flag does not exist, the flag of the United Nations (UN) -- adopted on 7 December 1946 -- has been used on occasion to represent the entire planet; technically, however, it only represents the international organization itself; the flag displays the official emblem of the UN in white on a blue background; the emblem design shows a world map in an azimuthal equidistant projection centered on the North Pole, with the image flanked by two olive branches crossed below; blue was selected as the color to represent peace, in contrast to the red usually associated with war; the map projection chosen includes all of the continents except Antarctica<br>
-<strong>note 1:</strong> the flags of 12 nations -- Austria, Botswana, Georgia, Jamaica, Japan, Laos, Latvia, Micronesia, Nigeria, North Macedonia, Switzerland, and Thailand -- have no top or bottom and may be flown with either long edge on top without any notice being taken<br><br><strong>note 2:</strong> the most common colors found on national flags are as follows: red (including deep red; ~75%), white (~70%), and blue (including light blue; ~50%); these three colors are so prevalent that there are only two countries, Jamaica and Sri Lanka, that do not include one of them on their flag; the next three most popular colors are yellow/gold and green (both ~45%) and black (~30%)<br><br><strong>note 3:</strong> flags composed of three colors are by far the most common type and, of those, the red-white-blue combination is the most widespread<br>
+a "World" flag does not exist, but the United Nations (UN) flag -- adopted on 7 December 1946 -- has sometimes been used to represent the entire planet; the flag displays the official emblem of the UN in white on a blue background; the emblem design shows a world map in an azimuthal equidistant projection centered on the North Pole, with the image flanked by two olive branches; blue was chosen to represent peace, in contrast to the red usually associated with war; the map projection includes all the continents except Antarctica<br>
+<strong>note 1:</strong> the flags of 12 nations -- Austria, Botswana, Georgia, Jamaica, Japan, Laos, Latvia, Micronesia, Nigeria, North Macedonia, Switzerland, and Thailand -- have no top or bottom and may be flown with either long edge on top <br><br><strong>note 2:</strong> the most common colors found on national flags are as follows: red (including deep red; ~75%), white (~70%), and blue (including light blue; ~50%); these three colors are so prevalent that there are only two countries, Jamaica and Sri Lanka, that do not include one of them; the next three most popular colors are yellow/gold and green (both ~45%) and black (~30%)<br><br><strong>note 3:</strong> flags composed of three colors are by far the most common type and, of those, the red-white-blue combination is the most widespread<br>
 
 **National anthem**<br>
 _name_: virtually every country has a national anthem; most (but not all) anthems have lyrics, which are usually in the national or most common language of the country; states with more than one national language may offer several versions of their anthem<br>
@@ -460,7 +463,7 @@ _total subscriptions_: 8,891,100,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 111 (2023 est.)<br>
 
 **Internet users**<br>
-_percent of population_: 67% (2023 est.)<br>
+_percent of population_: 68% (2024 est.)<br>
 <strong>top ten countries by Internet usage (in millions):</strong> 854 China; 560 India; 293 United States; 171 Indonesia; 149 Brazil; 123 Nigeria; 119 Japan; 116 Russia; 96 Bangladesh; 88 Mexico (2023)<br>
 
 **Broadband - fixed subscriptions**<br>

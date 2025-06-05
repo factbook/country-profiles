@@ -172,9 +172,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Physician density**<br>
 0.47 physicians/1,000 population (2012)<br>
 
-**Hospital bed density**<br>
-2.7 beds/1,000 population<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 96.6% of population<br>
 _improved: rural_: rural: 65.4% of population<br>
@@ -187,9 +184,9 @@ _unimproved: total_: total: 10.3% of population (2020 est.)<br>
 52.9% (2016)<br>
 
 **Tobacco use**<br>
-_total_: 28.5% (2020 est.)<br>
-_male_: 48.7% (2020 est.)<br>
-_female_: 8.3% (2020 est.)<br>
+_total_: 30.9% (2025 est.)<br>
+_male_: 52.9% (2025 est.)<br>
+_female_: 8.5% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 11.9% (2017)<br>
@@ -345,7 +342,7 @@ _FAX_: [692] 247-4012<br>
 _email address and website_: <br>MAJConsular@state.gov<br><br>https://mh.usembassy.gov/<br>
 
 **Flag description**<br>
-blue with two stripes radiating from the lower hoist-side corner - orange (top) and white; a white star with four large rays and 20 small rays appears on the hoist side above the two stripes; blue represents the Pacific Ocean, the orange stripe signifies the Ralik Chain or sunset and courage, while the white stripe signifies the Ratak Chain or sunrise and peace; the star symbolizes the cross of Christianity, each of the 24 rays designates one of the electoral districts in the country and the four larger rays highlight the principal cultural centers of Majuro, Jaluit, Wotje, and Ebeye; the rising diagonal band can also be interpreted as representing the equator, with the star showing the archipelago's position just to the north<br>
+blue with an orange stripe and a white stripe radiating from the lower hoist-side corner; a white star with four large rays and 20 small rays appears on the hoist side above the two stripes; the blue stands for the Pacific Ocean, the orange stripe for the Ralik Chain (or sunset and courage), and the white stripe for the Ratak Chain (or sunrise and peace); the star symbolizes the Christian cross, with a small ray for each electoral district and a larger ray for the principal cultural centers of Majuro, Jaluit, Wotje, and Ebeye; the diagonal stripes can also be interpreted as representing the equator, with the star showing the archipelago's position<br>
 
 **National symbol(s)**<br>
 a 24-rayed star; national colors: blue, white, orange<br>
@@ -517,7 +514,7 @@ no TV broadcast station; a cable network is available on Majuro with programming
 .mh<br>
 
 **Internet users**<br>
-_percent of population_: 73% (2022 est.)<br>
+_percent of population_: 66% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2022 est.)<br>

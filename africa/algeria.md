@@ -182,7 +182,7 @@ _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 1.66 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-1.9 beds/1,000 population (2015)<br>
+1.6 beds/1,000 population (2017 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 98.3% of population<br>
@@ -203,9 +203,9 @@ _spirits_: 0.08 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 21% (2020 est.)<br>
-_male_: 41.3% (2020 est.)<br>
-_female_: 0.7% (2020 est.)<br>
+_total_: 21.4% (2025 est.)<br>
+_male_: 41.6% (2025 est.)<br>
+_female_: 0.6% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 2.7% (2018/19)<br>
@@ -214,7 +214,8 @@ _female_: 0.7% (2020 est.)<br>
 56% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 18_: 3.8% (2019 est.)<br>
+_women married by age 15_: 0% (2019)<br>
+_women married by age 18_: 3.8% (2019)<br>
 
 **Education expenditures**<br>
 7% of GDP (2020 est.)<br>
@@ -348,7 +349,7 @@ _electoral system_: plurality/majority<br>
 _scope of elections_: partial renewal<br>
 _term in office_: 6 years<br>
 _most recent election date_: 3/9/2025<br>
-_percentage of women in chamber_: 4.1%<br>
+_percentage of women in chamber_: 2.5%<br>
 _expected date of next election_: January 2028<br>
 
 **Judicial branch**<br>
@@ -604,7 +605,7 @@ Radio Alg&eacute;rienne is the state-run radio broadcast; the National Company o
 .dz<br>
 
 **Internet users**<br>
-_percent of population_: 71% (2022 est.)<br>
+_percent of population_: 77% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 5.54 million (2023 est.)<br>
@@ -644,11 +645,11 @@ Algerian People's National Army (ANP): Land Forces, Naval Forces (includes Coast
 <strong>note: </strong>the Republican Guard is subordinate to the ANP, but responsible to the President; the National Gendarmerie performs police functions outside urban areas under the auspices of the Ministry of National Defense and shares responsibility with the General Directorate of National Security for maintaining law and order; it is comprised of territorial, intervention/mobile, border guard, railway, riot control, and air support units<br>
 
 **Military expenditures**<br>
-9% of GDP (2023 est.)<br>
+8% of GDP (2024 est.)<br>
+8% of GDP (2023 est.)<br>
 4.8% of GDP (2022 est.)<br>
 5.6% of GDP (2021 est.)<br>
 6.7% of GDP (2020 est.)<br>
-6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; estimated 200,000 active ANP, including the National Gendarmerie (2025)<br>

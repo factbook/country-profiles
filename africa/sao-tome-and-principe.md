@@ -177,7 +177,7 @@ _unimproved: total_: total: 1.5% of population (2020 est.)<br>
 0.46 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-2.9 beds/1,000 population (2011)<br>
+2.9 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 57.1% of population<br>
@@ -198,9 +198,9 @@ _spirits_: 0.23 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 5.7% (2020 est.)<br>
-_male_: 10.1% (2020 est.)<br>
-_female_: 1.3% (2020 est.)<br>
+_total_: 7.3% (2025 est.)<br>
+_male_: 13.1% (2025 est.)<br>
+_female_: 1.7% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 5.4% (2019)<br>
@@ -209,9 +209,9 @@ _female_: 1.3% (2020 est.)<br>
 51.9% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 5.4%<br>
-_women married by age 18_: 28%<br>
-_men married by age 18_: 3.1% (2019 est.)<br>
+_women married by age 15_: 5.4% (2019)<br>
+_women married by age 18_: 28% (2019)<br>
+_men married by age 18_: 3.1% (2019)<br>
 
 **Education expenditures**<br>
 5% of GDP (2020 est.)<br>
@@ -355,8 +355,8 @@ _embassy_: the US does not have an embassy in Sao Tome and Principe; the US Amba
 _mailing address_: 2290 Sao Tome Place, Washington DC&nbsp; 20521-2290<br>
 
 **Flag description**<br>
-three horizontal bands of green (top), yellow (double width), and green with two black five-pointed stars placed side by side in the center of the yellow band and a red isosceles triangle based on the hoist side; green stands for the country's rich vegetation, red recalls the struggle for independence, and yellow represents cocoa, one of the country's main agricultural products; the two stars symbolize the two main islands<br>
-<strong>note:</strong> uses the popular Pan-African colors of Ethiopia<br>
+three horizontal bands of green (top), yellow (double-width), and green with two black five-pointed stars in the center of the yellow band and a red isosceles triangle based on the hoist side; green stands for the country's rich vegetation, red for the struggle for independence, and yellow for cocoa, one of the country's main agricultural products; the two stars symbolize the main islands<br>
+<strong>note:</strong> uses the popular pan-African colors of Ethiopia<br>
 
 **National symbol(s)**<br>
 palm tree; national colors: green, yellow, red, black<br>

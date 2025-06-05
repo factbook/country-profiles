@@ -194,12 +194,17 @@ _spirits_: 0.07 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 20.3% (2020 est.)<br>
-_male_: 29.5% (2020 est.)<br>
-_female_: 11.1% (2020 est.)<br>
+_total_: 14.7% (2025 est.)<br>
+_male_: 24.8% (2025 est.)<br>
+_female_: 4.7% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 61.2% (2023 est.)<br>
+
+**Child marriage**<br>
+_women married by age 15_: 4.9% (2022)<br>
+_women married by age 18_: 20.7% (2022)<br>
+_men married by age 18_: 6.9% (2022)<br>
 
 **Education expenditures**<br>
 2.6% of GDP (2015 est.)<br>
@@ -347,7 +352,7 @@ _email address and website_: <br>comoros@un.int<br><br>https://www.un.int/comoro
 _embassy_: the US does not have an embassy in Comoros; the US Ambassador to Madagascar is accredited to Comoros<br>
 
 **Flag description**<br>
-four equal horizontal bands of yellow (top), white, red, and blue, with a green isosceles triangle based on the hoist; centered within the triangle is a vertical white crescent moon with the convex side facing the hoist and four white, five-pointed stars placed vertically in a line between the points of the crescent; the horizontal bands and the four stars represent the four main islands of the archipelago - Mwali, N'gazidja, Ndzuwani, and Mahore (Mayotte - department of France, but claimed by Comoros)<br>
+four equal horizontal bands of yellow (top), white, red, and blue, with a green isosceles triangle based on the hoist; a vertical white crescent moon is centered in the triangle, with the convex side facing the hoist and four white five-pointed stars placed vertically in a line between the points of the crescent; the horizontal bands and the four stars represent the four main islands of the archipelago -- Mwali, N'gazidja, Ndzuwani, and Mahore (Mayotte is a department of France, but claimed by Comoros)<br>
 <strong>note:</strong> the crescent, stars, and color green are traditional symbols of Islam<br>
 
 **National symbol(s)**<br>
@@ -554,7 +559,7 @@ national state-owned TV station and a TV station run by Anjouan regional governm
 .km<br>
 
 **Internet users**<br>
-_percent of population_: 27% (2021 est.)<br>
+_percent of population_: 36% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,000 (2023 est.)<br>

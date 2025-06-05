@@ -175,7 +175,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 1.44 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-3.7 beds/1,000 population (2020)<br>
+3.7 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.9% of population<br>
@@ -196,9 +196,9 @@ _spirits_: 0.88 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.03 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 20.2% (2020 est.)<br>
-_male_: 37.3% (2020 est.)<br>
-_female_: 3% (2020 est.)<br>
+_total_: 19.6% (2025 est.)<br>
+_male_: 37.4% (2025 est.)<br>
+_female_: 2.6% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 62% (2023 est.)<br>
@@ -352,8 +352,8 @@ _FAX_: [230] 208-9534<br>
 _email address and website_: <br>PTLConsular@state.gov<br><br>https://mu.usembassy.gov/<br>
 
 **Flag description**<br>
-four equal horizontal bands of red (top), blue, yellow, and green; red represents self-determination and independence, blue the Indian Ocean surrounding the island, yellow has been interpreted as the new light of independence, golden sunshine, or the bright future, and green can symbolize either agriculture or the lush vegetation of the island<br>
-<strong>note:</strong> while many national flags consist of three - and in some cases five - horizontal bands of color, the flag of Mauritius is the world's only national flag to consist of four horizontal color bands<br>
+four equal horizontal bands of red (top), blue, yellow, and green; red stands for self-determination and independence, blue for the Indian Ocean, yellow for the new light of independence, golden sunshine, or the bright future, and green for agriculture or the island's lush vegetation<br>
+<strong>note:</strong> the flag of Mauritius is the only national flag with four horizontal color bands<br>
 
 **National symbol(s)**<br>
 dodo bird, Trochetia Boutoniana flower; national colors: red, blue, yellow, green<br>

@@ -181,7 +181,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 2.61 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-12.4 beds/1,000 population (2018)<br>
+12.8 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
@@ -202,12 +202,12 @@ _spirits_: 0.22 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 5.66 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 20.8% (2020 est.)<br>
-_male_: 35.7% (2020 est.)<br>
-_female_: 5.9% (2020 est.)<br>
+_total_: 17.4% (2025 est.)<br>
+_male_: 29.7% (2025 est.)<br>
+_female_: 5.2% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-0.9% (2019/21) NA<br>
+0.3% (2020)<br>
 
 **Currently married women (ages 15-49)**<br>
 52.9% (2023 est.)<br>
@@ -320,12 +320,12 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal; note - the voting age was lowered from 19 to 18 beginning with the 2020 national election<br>
 
 **Executive branch**<br>
-_chief of state_: LEE Ju Ho (Acting President and Prime Minister since 2 May 2025 after Prime Minister and Acting President Han Duck Soo resigned to run for president); on 14 December 2024 the National Assembly impeached and suspended President YOON Suk Yeol (inaugurated 10 May 2022) from office; on 4 April 2025, the Constitutional Court confirmed YOON's impeachment and removal from office; under Article 68 of the Constitution, a new presidential election must be held within 60 days of the court's ruling<br>
-_head of government_: LEE Ju Ho (Acting President and Prime Minister since 2 May 2025 after Prime Minister and Acting President Han Duck Soo resigned to run for president); on 14 December 2024 the National Assembly impeached and suspended President YOON Suk Yeol (inaugurated 10 May 2022) from office; on 4 April 2025, the Constitutional Court confirmed YOON's impeachment and removal from office<br>
+_chief of state_: President LEE Jae-myung (since 4 June 2025)<br>
+_head of government_: Acting Prime Minister LEE Ju Ho (since 2 May 2025)<br>
 _cabinet_: State Council appointed by the president on the prime minister's recommendation<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a single 5-year term; election last held on 9 March 2022 (next to be held on 3 June 2025); prime minister appointed by president with consent of the National Assembly<br>
-_election results_: <em><br>2022</em>: YOON Suk-yeol elected president; YOON Suk-yeol (PPP) 48.6%, LEE Jae-myung (DP) 47.8%; other 3.6%<br><br><em>2017</em>: MOON Jae-in elected president; MOON Jae-in (DP) 41.1%, HONG Joon-pyo (Liberty Korea Party) 24%, AHN Cheol-soo (PP) 21.4%, YOO Seung-min (Bareun Party) 6.8%, SIM Sang-jung (Justice Party) 6.2%<br>
-<strong>note: </strong>the president is both chief of state and head of government; the prime minister serves as the principal executive assistant to the president, similar to the role of a vice president<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a single 5-year term; election held on 3 June 2025 (next to be held in 2030) was a special snap election in the wake of the impeachment of former President YOON Suk-yeol; prime minister appointed by president with consent of the National Assembly<br>
+_election results_: <em>2025: </em>LEE Jae-myung elected president; LEE Jae-myung (DPK) 49.4%, KIM Moon-soo (PPP) 41.2%, LEE Jun-seok (New Reform Party) 8.3%<br><em><br>2022</em>: YOON Suk-yeol elected president; YOON Suk-yeol (PPP) 48.6%, LEE Jae-myung (DPK) 47.8%; other 3.6%<br>
+<strong>note 1: </strong>the president is both chief of state and head of government; the prime minister serves as the principal executive assistant to the president, similar to the role of a vice president<br><br><strong>note 2:</strong> President LEE Jae-myung has nominated KIM Min Seok to replace Acting Prime Minister LEE<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Kuk Hoe)<br>
@@ -368,7 +368,7 @@ _email address and website_: <br>seoulinfoACS@state.gov<br><br>https://kr.usemba
 _consulate(s)_: Busan<br>
 
 **Flag description**<br>
-white with a red (top) and blue yin-yang symbol in the center; there is a different black trigram from the ancient I Ching (Book of Changes) in each corner of the white field; the South Korean national flag is called Taegukki; white is a traditional Korean color and represents peace and purity; the blue section represents the negative cosmic forces of the yin, while the red symbolizes the opposite positive forces of the yang; each trigram (kwae) denotes one of the four universal elements, which together express the principle of movement and harmony<br>
+white with a red-and-blue yin-yang symbol in the center;a black trigram (<em>kwae</em>) from the ancient I Ching (Book of Changes) is in each corner of the white field; the flag is called Taegukki; white is a traditional Korean color and represents peace and purity; the blue represents the negative cosmic forces of the yin, and the red symbolizes the opposite positive forces of the yang; each trigram stands for one of the universal elements, which together express the principle of movement and harmony<br>
 
 **National symbol(s)**<br>
 taegeuk (yin yang symbol), Hibiscus syriacus (Rose of Sharon), Siberian tiger; national colors: red, white, blue, black<br>
@@ -656,11 +656,11 @@ _key ports_: Busan, Gwangyang Hang, Inchon, Masan, Mokpo, Pyeongtaek Hang, Ulsan
 Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Republic of Korea Navy (ROKN, includes Marine Corps, ROKMC), Republic of Korea Air Force (ROKAF)<br><br>Ministry of Maritime Affairs and Fisheries: Korea Coast Guard; Ministry of Interior and Safety: Korean National Police Agency (2025)<br>
 
 **Military expenditures**<br>
-2.32% of GDP (2025 est.)<br>
-2.34% of GDP (2024 est.)<br>
-2.37% of GDP (2023 est.)<br>
-2.35% of GDP (2022 est.)<br>
-2.38% of GDP (2021 est.)<br>
+2.3% of GDP (2025 est.)<br>
+2.3% of GDP (2024 est.)<br>
+2.4% of GDP (2023 est.)<br>
+2.4% of GDP (2022 est.)<br>
+2.4% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 500,000 active Armed Forces (365,000 Army; 70,000 Navy, including about 30,000 Marines; 65,000 Air Force) (2025)<br>

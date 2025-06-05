@@ -193,7 +193,7 @@ _unimproved: total_: total: 4.9% of population (2020 est.)<br>
 3.11 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-4.3 beds/1,000 population (2017)<br>
+5 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 97.6% of population<br>
@@ -214,9 +214,9 @@ _spirits_: 2.63 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 25.6% (2020 est.)<br>
-_male_: 49.4% (2020 est.)<br>
-_female_: 1.7% (2020 est.)<br>
+_total_: 24.5% (2025 est.)<br>
+_male_: 46.6% (2025 est.)<br>
+_female_: 1.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 2.4% (2013)<br>
@@ -225,9 +225,9 @@ _female_: 1.7% (2020 est.)<br>
 75.9% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.1%<br>
-_women married by age 18_: 2.8%<br>
-_men married by age 18_: 0.7% (2020 est.)<br>
+_women married by age 15_: 0.1% (2020)<br>
+_women married by age 18_: 2.8% (2020)<br>
+_men married by age 18_: 0.7% (2020)<br>
 
 **Education expenditures**<br>
 3.6% of GDP (2020 est.)<br>
@@ -394,7 +394,7 @@ _email address and website_: <br>chinaemppress_us@mfa.gov.cn<br><br>http://www.c
 _consulate(s) general_: Chicago, Los Angeles, New York, San Francisco; note - the US ordered closure of the Houston consulate in late July 2020<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Anny VU (since March 2025)<br>
+_chief of mission_: Ambassador-designate David PERDUE (since 16 May 2025)<br>
 _embassy_: 55 Anjialou Road, Chaoyang District, Beijing 100600<br>
 _mailing address_: 7300 Beijing Place, Washington DC&nbsp; 20521-7300<br>
 _telephone_: [86] (10) 8531-3000<br>
@@ -403,7 +403,7 @@ _email address and website_: <br>BeijingACS@state.gov<br><br>https://china.usemb
 _consulate(s) general_: Guangzhou, Shanghai, Shenyang, Wuhan; note - the Chinese Government ordered closure of the US consulate in Chengdu in late July 2020<br>
 
 **Flag description**<br>
-red with a large yellow five-pointed star and four smaller yellow five-pointed stars (arranged in a vertical arc toward the middle of the flag) in the upper hoist-side corner; the color red represents revolution, while the stars symbolize the four social classes - the working class, the peasantry, the urban petty bourgeoisie, and the national bourgeoisie (capitalists) - united under the Communist Party of China<br>
+red with a large yellow five-pointed star and four smaller yellow five-pointed stars, arranged in a vertical arc toward the middle of the flag, in the upper hoist-side corner; the color red represents revolution, and the stars symbolize the four social classes -- the working class, the peasantry, the urban petty bourgeoisie, and the national bourgeoisie (capitalists) -- united under the Communist Party of China<br>
 
 **National symbol(s)**<br>
 dragon, giant panda; national colors: red, yellow<br>
@@ -656,7 +656,7 @@ all broadcast media are owned by, or affiliated with, the Chinese Communist Part
 .cn<br>
 
 **Internet users**<br>
-_percent of population_: 77% (2023 est.)<br>
+_percent of population_: 78% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 636 million (2023 est.)<br>
@@ -696,11 +696,11 @@ People's Liberation Army (PLA): Ground Forces or People's Liberation Army Army (
 <strong>note:</strong> the PAP is a paramilitary police component of China’s armed forces that is under the dual authority of the Central Committee of the Communist Party and the Central Military Commission; the China Coast Guard (CCG) is subordinate to the PAP<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2024 est.)<br>
 1.5% of GDP (2023 est.)<br>
 1.5% of GDP (2022 est.)<br>
 1.5% of GDP (2021 est.)<br>
 1.7% of GDP (2020 est.)<br>
-1.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2 million active-duty PLA (950,000-1 million Ground; 250,000 Navy, including about 50,000 Marines; 350-400,000 Air Force; 120,000 Rocket Forces; 150-175,000 other forces) (2024)<br>

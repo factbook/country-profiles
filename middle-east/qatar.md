@@ -178,7 +178,7 @@ _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 3.02 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-1.3 beds/1,000 population (2017)<br>
+1.1 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
@@ -199,12 +199,9 @@ _spirits_: 0.59 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.01 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 11.8% (2020 est.)<br>
-_male_: 21.7% (2020 est.)<br>
-_female_: 1.9% (2020 est.)<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
+_total_: 19.2% (2025 est.)<br>
+_male_: 24.6% (2025 est.)<br>
+_female_: 2.3% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 65.8% (2023 est.)<br>
@@ -360,8 +357,8 @@ _FAX_: [974] 4488-4298<br>
 _email address and website_: <br>PasDoha@state.gov<br><br>https://qa.usembassy.gov/<br>
 
 **Flag description**<br>
-maroon with a broad white serrated band (nine white points) on the hoist side; maroon represents the blood shed in Qatari wars, white stands for peace; the nine-pointed serrated edge signifies Qatar as the ninth member of the "reconciled emirates" in the wake of the Qatari-British treaty of 1916<br>
-<strong>note:</strong> the other eight emirates are the seven that compose the UAE and Bahrain; according to some sources, the dominant color was formerly red, but this darkened to maroon upon exposure to the sun and the new shade was eventually adopted<br>
+maroon with a broad white serrated band on the hoist side; maroon stands for the blood shed in Qatari wars, and white for peace; the nine-pointed serrated edge is a reference to Qatar's status as the ninth member of the "reconciled emirates" after the Qatari-British treaty of 1916<br>
+<strong>note:</strong> the other eight emirates are Bahrain and the seven that are part of the UAE<br>
 
 **National symbol(s)**<br>
 a maroon field surmounted by a white serrated band with nine white points; national colors: maroon, white<br>
@@ -622,8 +619,8 @@ _key ports_: Al Rayyan Terminal, Al Shaheen Terminal, Doha, Jazirat Halul, Ras L
 Qatar Armed Forces (QAF): Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari Amiri Navy (QAN, includes Coast Guard), Qatari Amiri Air Force (QAAF)<br><br>Ministry of Interior: General Directorate of Public Security, General Directorate of Coasts and Border Security, Internal Security Force (ISF or Lekhwiya) (2025)<br>
 
 **Military expenditures**<br>
-4% of GDP (2023 est.)<br>
-4% of GDP (2022 est.)<br>
+5% of GDP (2023 est.)<br>
+5% of GDP (2022 est.)<br>
 4% of GDP (2021 est.)<br>
 4% of GDP (2020 est.)<br>
 3.4% of GDP (2019 est.)<br>

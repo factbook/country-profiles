@@ -194,9 +194,9 @@ _spirits_: 0.54 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 1.28 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 9% (2020 est.)<br>
-_male_: 17% (2020 est.)<br>
-_female_: 0.9% (2020 est.)<br>
+_total_: 6.7% (2025 est.)<br>
+_male_: 13.2% (2025 est.)<br>
+_female_: 0.5% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 18.8% (2019)<br>
@@ -205,9 +205,9 @@ _female_: 0.9% (2020 est.)<br>
 56.7% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 8.1%<br>
-_women married by age 18_: 25.7%<br>
-_men married by age 18_: 2.2% (2019 est.)<br>
+_women married by age 15_: 8.1% (2019)<br>
+_women married by age 18_: 25.7% (2019)<br>
+_men married by age 18_: 2.2% (2019)<br>
 
 **Education expenditures**<br>
 2.7% of GDP (2020 est.)<br>
@@ -352,8 +352,8 @@ _mailing address_: 2080 Bissau Place, Washington DC&nbsp; 20521-2080<br>
 _email address and website_: <br>dakarACS@state.gov<br><br>https://gw.usmission.gov/<br>
 
 **Flag description**<br>
-two equal horizontal bands of yellow (top) and green with a vertical red band on the hoist side; there is a black five-pointed star centered in the red band; yellow symbolizes the sun; green denotes hope; red represents blood shed during the struggle for independence; the black star stands for African unity<br>
-<strong>note:</strong> uses the popular Pan-African colors of Ethiopia; the flag design was heavily influenced by the Ghanaian flag<br>
+two equal horizontal bands of yellow (top) and green with a vertical red band on the hoist side; a black five-pointed star is centered in the red band; yellow stands for the sun, green for hope, red for blood shed during the struggle for independence; the black star stands for African unity<br>
+<strong>note:</strong> uses the popular pan-African colors of Ethiopia; the Ghanaian flag heavily influenced the design<br>
 
 **National symbol(s)**<br>
 black star; national colors: red, yellow, green, black<br>
@@ -566,7 +566,7 @@ _subscriptions per 100 inhabitants_: 126 (2022 est.)<br>
 .gw<br>
 
 **Internet users**<br>
-_percent of population_: 32% (2022 est.)<br>
+_percent of population_: 33% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 7,000 (2023 est.)<br>
@@ -600,11 +600,11 @@ People's Revolutionary Armed Force (Forcas Armadas Revolucionarias do Povo or FA
 <strong>note: </strong>the Public Order Police is responsible for maintaining law and order, while the Judicial Police, under the Ministry of Justice, has primary responsibility for investigating drug trafficking, terrorism, and other transnational crimes<br>
 
 **Military expenditures**<br>
-1.4% of GDP (2023 est.)<br>
-1.6% of GDP (2022 est.)<br>
-1.8% of GDP (2021 est.)<br>
-1.7% of GDP (2020 est.)<br>
-1.9% of GDP (2019 est.)<br>
+1.2% of GDP (2024 est.)<br>
+1.2% of GDP (2023 est.)<br>
+1.4% of GDP (2022 est.)<br>
+1.5% of GDP (2021 est.)<br>
+1.5% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 4,000 active FARP (2025)<br>

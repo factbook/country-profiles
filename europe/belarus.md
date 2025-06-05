@@ -182,7 +182,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 4.72 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-10.8 beds/1,000 population (2014)<br>
+9.7 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.9% of population<br>
@@ -203,17 +203,17 @@ _spirits_: 4.67 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 2.66 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 30.5% (2020 est.)<br>
-_male_: 47.4% (2020 est.)<br>
-_female_: 13.5% (2020 est.)<br>
+_total_: 26.4% (2025 est.)<br>
+_male_: 44.5% (2025 est.)<br>
+_female_: 11.6% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 66.6% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.1%<br>
-_women married by age 18_: 4.7%<br>
-_men married by age 18_: 1.6% (2019 est.)<br>
+_women married by age 15_: 0.1% (2019)<br>
+_women married by age 18_: 4.7% (2019)<br>
+_men married by age 18_: 1.6% (2019)<br>
 
 **Education expenditures**<br>
 4.7% of GDP (2021 est.)<br>
@@ -668,11 +668,11 @@ Belarus Armed Forces: Army, Air and Air Defense Force, Special Operations Force,
 <strong>note:</strong> in early 2023, President LUKASHENKA ordered the formation of a new volunteer paramilitary territorial defense force to supplement the Army<br>
 
 **Military expenditures**<br>
-1.5% of GDP (2023 est.)<br>
-1.1% of GDP (2022 est.)<br>
-1.2% of GDP (2021 est.)<br>
+2% of GDP (2024 est.)<br>
+1.8% of GDP (2023 est.)<br>
+1.7% of GDP (2022 est.)<br>
+1.4% of GDP (2021 est.)<br>
 1.5% of GDP (2020 est.)<br>
-1.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 50-60,000 active-duty military personnel (2025)<br>

@@ -166,14 +166,15 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 12% of population (2017)<br>
 
 **Children under the age of 5 years underweight**<br>
-0.4% (2019/20) NA<br>
+0.4% (2019/20)<br>
 
 **Currently married women (ages 15-49)**<br>
 59.1% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 18_: 23.3%<br>
-_men married by age 18_: 5.1% (2020 est.)<br>
+_women married by age 15_: 0% (2020)<br>
+_women married by age 18_: 23.3% (2020)<br>
+_men married by age 18_: 5.1% (2020)<br>
 
 **Education expenditures**<br>
 4.5% of GDP (2021 est.)<br>
@@ -293,7 +294,7 @@ none (overseas territory of the UK)<br>
 _embassy_: none (overseas territory of the UK)<br>
 
 **Flag description**<br>
-blue with the flag of the UK in the upper hoist-side quadrant and the colonial shield centered on the outer half of the flag; the shield is yellow and displays a conch shell, a spiny lobster, and Turk's cap cactus - three common elements of the islands' biota<br>
+blue with the UK flag in the upper hoist-side quadrant and the colonial shield centered on the outer half of the flag; the shield is yellow and displays a conch shell, a spiny lobster, and Turk's cap cactus<br>
 
 **National symbol(s)**<br>
 conch shell, Turk's cap cactus<br>

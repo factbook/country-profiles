@@ -194,7 +194,7 @@ _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 2.82 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-2.5 beds/1,000 population (2019)<br>
+2.6 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.1% of population<br>
@@ -215,9 +215,9 @@ _spirits_: 2.1 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.4 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 13% (2020 est.)<br>
-_male_: 15.3% (2020 est.)<br>
-_female_: 10.7% (2020 est.)<br>
+_total_: 10.1% (2025 est.)<br>
+_male_: 12.3% (2025 est.)<br>
+_female_: 8% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 52.2% (2023 est.)<br>
@@ -358,13 +358,13 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 4/28/2025<br>
 _parties elected and seats per party_: Liberal Party (160); Conservative Party (119); Bloc Québécois (BQ) (32); NDP-New Democratic Party (NDP) (25); Other (2)<br>
-_percentage of women in chamber_: 30.9%<br>
+_percentage of women in chamber_: 30.3%<br>
 _expected date of next election_: October 2029<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate<br>
 _number of seats_: 105 (all appointed)<br>
-_percentage of women in chamber_: 54.3%<br>
+_percentage of women in chamber_: 54.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Canada (consists of the chief justice and 8 judges)<br>

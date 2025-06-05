@@ -209,9 +209,9 @@ _spirits_: 0.05 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 12.8% (2020 est.)<br>
-_male_: 22.7% (2020 est.)<br>
-_female_: 2.9% (2020 est.)<br>
+_total_: 10.4% (2025 est.)<br>
+_male_: 18.8% (2025 est.)<br>
+_female_: 2.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 23.1% (2017/18)<br>
@@ -220,9 +220,9 @@ _female_: 2.9% (2020 est.)<br>
 55.3% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 8.4%<br>
-_women married by age 18_: 29.1%<br>
-_men married by age 18_: 5.6% (2018 est.)<br>
+_women married by age 15_: 8.4% (2018)<br>
+_women married by age 18_: 29.1% (2018)<br>
+_men married by age 18_: 5.6% (2018)<br>
 
 **Education expenditures**<br>
 2.7% of GDP (2021 est.)<br>
@@ -678,11 +678,11 @@ Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Repu
 <strong>note: </strong>the Republican Guard is a military unit under the direct control of the president<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2024 est.)<br>
 1.2% of GDP (2023 est.)<br>
 0.7% of GDP (2022 est.)<br>
 0.7% of GDP (2021 est.)<br>
 0.7% of GDP (2020 est.)<br>
-0.9% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 100-150,000 active FARDC (2025)<br>

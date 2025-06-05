@@ -185,7 +185,7 @@ _unimproved: total_: total: 3% of population (2020 est.)<br>
 1.88 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
-2.9 beds/1,000 population (2013)<br>
+2.9 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.8% of population<br>
@@ -206,9 +206,9 @@ _spirits_: 1.43 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.08 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 22.4% (2020 est.)<br>
-_male_: 38.8% (2020 est.)<br>
-_female_: 6% (2020 est.)<br>
+_total_: 21.4% (2025 est.)<br>
+_male_: 37% (2025 est.)<br>
+_female_: 6.2% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 1.5% (2017/18)<br>
@@ -217,9 +217,9 @@ _female_: 6% (2020 est.)<br>
 67.2% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 1.4%<br>
-_women married by age 18_: 11.8%<br>
-_men married by age 18_: 1.2% (2018 est.)<br>
+_women married by age 15_: 1.4% (2018)<br>
+_women married by age 18_: 11.8% (2018)<br>
+_men married by age 18_: 1.2% (2018)<br>
 
 **Education expenditures**<br>
 3.1% of GDP (2020 est.)<br>
@@ -344,10 +344,9 @@ _number of seats_: 140 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 4/25/2021<br>
-_parties elected and seats per party_: Socialist Party of Albania (PS) (74); Democratic Party (PD) (59); Other (7)<br>
+_most recent election date_: 5/11/2025<br>
 _percentage of women in chamber_: 35.7%<br>
-_expected date of next election_: May 2025<br>
+_expected date of next election_: May 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 19 judges, including the chief justice); Constitutional Court (consists of 9 judges, including the chairman)<br>

@@ -188,7 +188,7 @@ _unimproved: total_: total: 0.7% of population (2020 est.)<br>
 1.02 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-1.3 beds/1,000 population (2017)<br>
+1.3 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -209,9 +209,9 @@ _spirits_: 0.04 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 18.5% (2020 est.)<br>
-_male_: 35.1% (2020 est.)<br>
-_female_: 1.8% (2020 est.)<br>
+_total_: 18.6% (2025 est.)<br>
+_male_: 36.2% (2025 est.)<br>
+_female_: 1.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 3.9% (2018)<br>
@@ -220,8 +220,8 @@ _female_: 1.8% (2020 est.)<br>
 65.5% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 7.2%<br>
-_women married by age 18_: 27.9% (2018 est.)<br>
+_women married by age 15_: 7.2% (2018)<br>
+_women married by age 18_: 27.9% (2018)<br>
 
 **Education expenditures**<br>
 4.7% of GDP (2016)<br>
@@ -383,8 +383,8 @@ _telephone_: 0760-030-3000<br>
 _email address and website_: <br>BaghdadACS@state.gov<br><br>https://iq.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of red (top), white, and black; the Takbir (Arabic expression meaning "God is great") in green Arabic script is centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); the Council of Representatives approved this flag in 2008 as a compromise replacement for the Ba'thist SADDAM-era flag<br>
-<strong>note:</strong> similar to the flag of Syria, which has two stars but no script; Yemen, which has a plain white band; and that of Egypt, which has a golden Eagle of Saladin centered in the white band<br>
+three equal horizontal bands of red (top), white, and black; the Takbir (Arabic phrase meaning "God is great") in green Arabic script is centered in the white band; the colors come from the Arab Liberation flag and stand for oppression (black) overcome through bloody struggle (red), to be replaced by a bright future (white); the Council of Representatives approved this flag in 2008 as a compromise replacement for the Ba'thist SADDAM-era flag<br>
+<strong>note:</strong> similar to the flags of Syria (two stars but no script), Yemen (plain white band), and Egypt (a golden Eagle of Saladin centered in the white band)<br>
 
 **National symbol(s)**<br>
 golden eagle; national colors: red, white, black<br>
@@ -613,7 +613,7 @@ the number of private radio and TV stations has increased rapidly since 2003; st
 .iq<br>
 
 **Internet users**<br>
-_percent of population_: 79% (2022 est.)<br>
+_percent of population_: 82% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 7.77 million (2023 est.)<br>
@@ -654,11 +654,11 @@ Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Fo
 <strong>note 1: </strong>the Iraqi military and associated forces are collectively known as the Iraqi Security Forces (ISF)<br><br><strong>note 2:</strong> the PMF and TMF are a collection of more than 50 militias of widely varied sizes and political interests<br><br><strong>note 3:</strong> the federal constitution provides the Kurdistan Regional Government (KRG) the right to maintain its own military/militia (peshmerga) and security forces, but the two main Kurdish political parties, the Kurdistan Democratic Party (KDP) and the Patriotic Union of Kurdistan (PUK), each maintain their own forces; the Unit/Division 80 Forces and the Counterterrorism Directorate (CTD) are under the KDP, while the Unit/Division 80 Forces and the Counter Terrorism Group (CTG) are under the PUK; the KDP and PUK jointly staff the Regional Guard Brigades; the KDP and PUK also maintain separate police, emergency response, and internal security/intelligence (Asayish) services under nominal KRG Ministry of Interior control<br>
 
 **Military expenditures**<br>
-3% of GDP (2023 est.)<br>
-2.1% of GDP (2022 est.)<br>
-3.7% of GDP (2021 est.)<br>
-4.1% of GDP (2020 est.)<br>
-3.8% of GDP (2019 est.)<br>
+2.5% of GDP (2024 est.)<br>
+2.5% of GDP (2023 est.)<br>
+1.8% of GDP (2022 est.)<br>
+3% of GDP (2021 est.)<br>
+3.2% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 200,000 active armed forces personnel under the Ministry of Defense (Army, Aviation Command, Air/Air Defense, Navy, Special Forces); approximately 20-25,000 National-Level Security Forces<br><br>Ministry of Peshmerga: approximately 150,000 active personnel (2025)<br>

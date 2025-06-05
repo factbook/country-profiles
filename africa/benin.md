@@ -181,7 +181,7 @@ _unimproved: total_: total: 25.3% of population (2020 est.)<br>
 0.22 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-0.5 beds/1,000 population<br>
+0.4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 56.3% of population<br>
@@ -202,9 +202,9 @@ _spirits_: 0.2 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.22 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 6.9% (2020 est.)<br>
-_male_: 11.8% (2020 est.)<br>
-_female_: 1.9% (2020 est.)<br>
+_total_: 4.8% (2025 est.)<br>
+_male_: 8.3% (2025 est.)<br>
+_female_: 1.5% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 16.8% (2017/18)<br>
@@ -213,9 +213,9 @@ _female_: 1.9% (2020 est.)<br>
 68.3% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 9.4%<br>
-_women married by age 18_: 30.6%<br>
-_men married by age 18_: 4.8% (2018 est.)<br>
+_women married by age 15_: 5.9% (2022)<br>
+_women married by age 18_: 27.5% (2022)<br>
+_men married by age 18_: 4.6% (2022)<br>
 
 **Education expenditures**<br>
 3% of GDP (2020 est.)<br>
@@ -643,11 +643,11 @@ Beninese Armed Forces (Forces Armees Beninoises, FAB; aka Benin Defense Forces):
 <strong>note:</strong> FAB is under the Ministry of Defense and is responsible for external security and supporting the DGPR in maintaining internal security, which has primary responsibility for enforcing law and maintaining order; the DGPR was formed in 2018 through a merger of police and gendarmes<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2024 est.)<br>
 0.5% of GDP (2023 est.)<br>
 0.7% of GDP (2022 est.)<br>
 0.7% of GDP (2021 est.)<br>
 0.5% of GDP (2020 est.)<br>
-0.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 10,000 active-duty Armed Forces (including National Guard) (2025)<br>

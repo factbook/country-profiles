@@ -173,9 +173,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Physician density**<br>
 5.07 physicians/1,000 population (2023)<br>
 
-**Hospital bed density**<br>
-2.5 beds/1,000 population<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 100% of population<br>
@@ -195,9 +192,9 @@ _spirits_: 2.32 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 31.8% (2020 est.)<br>
-_male_: 35.3% (2020 est.)<br>
-_female_: 28.3% (2020 est.)<br>
+_total_: 33% (2025 est.)<br>
+_male_: 31.7% (2025 est.)<br>
+_female_: 34.4% (2025 est.)<br>
 
 **Education expenditures**<br>
 2.9% of GDP (2021 est.)<br>

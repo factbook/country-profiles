@@ -183,9 +183,6 @@ _unimproved: total_: total: 6.9% of population (2020 est.)<br>
 **Physician density**<br>
 0.52 physicians/1,000 population (2022)<br>
 
-**Hospital bed density**<br>
-6.3 beds/1,000 population<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 81.3% of population<br>
 _improved: rural_: rural: 55.1% of population<br>
@@ -209,6 +206,11 @@ _other alcohols_: 0.04 liters of pure alcohol (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 49.7% (2023 est.)<br>
+
+**Child marriage**<br>
+_women married by age 15_: 2.9% (2021)<br>
+_women married by age 18_: 13.3% (2021)<br>
+_men married by age 18_: 4.8% (2021)<br>
 
 **Education expenditures**<br>
 3.2% of GDP (2020 est.)<br>
@@ -367,10 +369,13 @@ _FAX_: [241] 011-45-71-05<br>
 _email address and website_: <br>ACSLibreville@state.gov<br><br>https://ga.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of green (top), yellow, and blue; green represents the country's forests and natural resources, gold represents the equator (which transects Gabon) as well as the sun, blue represents the sea<br>
+three equal horizontal bands of green (top), yellow, and blue; green stands for the country's forests and natural resources, gold for the equator and the sun, and blue for the sea<br>
 
 **National symbol(s)**<br>
 black panther; national colors: green, yellow, blue<br>
+
+**National coat of arms**<br>
+On Gabon’s coat of arms, the panthers represent vigilance and courage, and they support a shield with a ship and an okoume tree, which is a symbol of the timber trade. The ribbon below the shield has the national motto in French, <em>Union, Travail, Justice</em> ("Union, Work, Justice"), and the ribbon above the shield has the Latin phrase <em>Uniti Progrediemur</em> ("We shall go forward united").<br>
 
 **National anthem**<br>
 _name_: "La Concorde" (The Concorde)<br>
@@ -380,9 +385,6 @@ _lyrics/music_: Georges Aleka DAMAS<br>
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 natural, 1 mixed)<br>
 _selected World Heritage Site locales_: Ecosystem and Relict Cultural Landscape of Lop&eacute;-Okanda (m); Ivindo National Park (n)<br>
-
-**National coat of arms**<br>
-On Gabon’s coat of arms, the panthers represent vigilance and courage, and they support a shield with a ship and an okoume tree, which is a symbol of the timber trade. The ribbon below the shield has the national motto in French, <em>Union, Travail, Justice</em> ("Union, Work, Justice"), and the ribbon above the shield has the Latin phrase <em>Uniti Progrediemur</em> ("We shall go forward united").<br>
 
 ## Economy
 
@@ -643,11 +645,11 @@ Gabonese Armed Forces (Force Armées Gabonaise or FAG; aka National Defense and 
 <strong>note 1: </strong>the National Police Forces, under the Ministry of Interior, and the National Gendarmerie (GENA), under the Ministry of Defense, are responsible for law enforcement and public security; elements of the armed forces and the Republican Guard, an elite unit that protects the president under his direct authority, sometimes perform internal security functions<br><br><strong>note 2:</strong> the GENA is organized into regionally-based “legions,” mobile forces, a national parks security unit, and a special intervention group<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2024 est.)<br>
 1.3% of GDP (2023 est.)<br>
 1.3% of GDP (2022 est.)<br>
 1.7% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
-1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 7,000 active-duty Armed Forces including the Republican Guard and Gendarmerie (2025)<br>

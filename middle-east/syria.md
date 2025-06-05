@@ -181,7 +181,7 @@ _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 1.52 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
-1.4 beds/1,000 population (2017)<br>
+1.4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.5% of population<br>
@@ -200,9 +200,6 @@ _beer_: 0.02 liters of pure alcohol (2019 est.)<br>
 _wine_: 0 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0.11 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
 
 **Currently married women (ages 15-49)**<br>
 52.6% (2023 est.)<br>
@@ -353,8 +350,8 @@ _mailing address_: 6110 Damascus Place, Washington DC&nbsp; 20521-6110<br>
 _email address and website_: <br>USIS_damascus@embassy.mzv.cz<br><br>https://sy.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of red (top), white, and black; two small, green, five-pointed stars in a horizontal line centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); identical to the former flag of the United Arab Republic (1958-1961) where the two stars represented the constituent states of Syria and Egypt; the current design dates to 1980<br>
-<strong>note:</strong> similar to the flag of Yemen, which has a plain white band; Iraq, which has an Arabic inscription centered in the white band; and that of Egypt, which has a gold Eagle of Saladin centered in the white band<br>
+three equal horizontal bands of red (top), white, and black; two green five-pointed stars in a horizontal line centered in the white band; the band colors come from the Arab Liberation flag and represent oppression (black) overcome through bloody struggle (red), to be replaced by a bright future (white); identical to the former flag of the United Arab Republic (1958-1961), where the two stars represented the constituent states of Syria and Egypt; the current design dates to 1980<br>
+<strong>note:</strong> similar to the flags of Yemen (plain white band), Iraq (Arabic inscription centered in the white band), and Egypt (gold Eagle of Saladin centered in the white band)<br>
 
 **National symbol(s)**<br>
 northern bald ibis; national colors: red, white, black, green<br>
@@ -575,7 +572,7 @@ state-run TV has 2 networks and 5 satellite channels; roughly two-thirds of home
 .sy<br>
 
 **Internet users**<br>
-_percent of population_: 36% (2020 est.)<br>
+_percent of population_: 35% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1.62 million (2023 est.)<br>

@@ -180,7 +180,7 @@ _unimproved: total_: total: 11.2% of population (2020 est.)<br>
 0.33 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-1.5 beds/1,000 population (2012)<br>
+1.3 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -201,9 +201,9 @@ _spirits_: 4.46 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 31.8% (2020 est.)<br>
-_male_: 53.3% (2020 est.)<br>
-_female_: 10.3% (2020 est.)<br>
+_total_: 24.1% (2025 est.)<br>
+_male_: 41% (2025 est.)<br>
+_female_: 7.2% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 21.1% (2017)<br>
@@ -212,9 +212,9 @@ _female_: 10.3% (2020 est.)<br>
 60.1% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 7.1%<br>
-_women married by age 18_: 32.7%<br>
-_men married by age 18_: 10.8% (2017 est.)<br>
+_women married by age 15_: 7.1% (2017)<br>
+_women married by age 18_: 32.7% (2017)<br>
+_men married by age 18_: 10.8% (2017)<br>
 
 **Education expenditures**<br>
 2.3% of GDP (2020 est.)<br>
@@ -372,7 +372,7 @@ _FAX_: [856] 21-48-7040<br>
 _email address and website_: <br>CONSLAO@state.gov<br><br>https://la.usembassy.gov/<br>
 
 **Flag description**<br>
-three horizontal bands of red (top), blue (double width), and red with a large white disk centered in the blue band; the red bands recall the blood shed for liberation; the blue band represents the Mekong River and prosperity; the white disk symbolizes the full moon against the Mekong River, but also signifies the unity of the people under the Lao People's Revolutionary Party, as well as the country's bright future<br>
+three horizontal bands of red (top), blue (double-width), and red with a large white disk centered in the blue band; the red bands stand for the blood shed for liberation, and the blue for the Mekong River and prosperity; the white disk represents the full moon over the Mekong River and the unity of the people under the Lao People's Revolutionary Party, as well as the country's bright future<br>
 
 **National symbol(s)**<br>
 elephant; national colors: red, white, blue<br>
@@ -606,7 +606,7 @@ _subscriptions per 100 inhabitants_: 65 (2021 est.)<br>
 .la<br>
 
 **Internet users**<br>
-_percent of population_: 66% (2022 est.)<br>
+_percent of population_: 64% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 183,000 (2022 est.)<br>

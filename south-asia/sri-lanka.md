@@ -179,7 +179,7 @@ _unimproved: total_: total: 7.2% of population (2020 est.)<br>
 1.14 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-4.2 beds/1,000 population (2017)<br>
+4 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 96.6% of population<br>
@@ -200,9 +200,9 @@ _spirits_: 2.32 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.03 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 22% (2020 est.)<br>
-_male_: 41.4% (2020 est.)<br>
-_female_: 2.6% (2020 est.)<br>
+_total_: 18.2% (2025 est.)<br>
+_male_: 36.3% (2025 est.)<br>
+_female_: 2% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 20.5% (2016)<br>
@@ -211,8 +211,8 @@ _female_: 2.6% (2020 est.)<br>
 65.1% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.9%<br>
-_women married by age 18_: 9.8% (2016 est.)<br>
+_women married by age 15_: 0.9% (2016)<br>
+_women married by age 18_: 9.8% (2016)<br>
 
 **Education expenditures**<br>
 1.9% of GDP (2019 est.)<br>
@@ -368,7 +368,7 @@ _FAX_: [94] (11) 243-7345<br>
 _email address and website_: <br>colomboacs@state.gov<br><br>https://lk.usembassy.gov/<br>
 
 **Flag description**<br>
-yellow with two panels; the smaller hoist-side panel has two equal vertical bands of green (hoist side) and orange; the other larger panel depicts a yellow lion holding a sword on a maroon rectangular field that also displays a yellow bo leaf in each corner; the yellow field appears as a border around the entire flag and extends between the two panels; the lion represents Sinhalese ethnicity, the strength of the nation, and bravery; the sword demonstrates the sovereignty of the nation; the four bo leaves - symbolizing Buddhism and its influence on the country - stand for the four virtues of kindness, friendliness, happiness, and equanimity; orange signifies Sri Lankan Tamils, green Sri Lankan Moors, and maroon the Sinhalese majority; yellow denotes other ethnic groups; also referred to as the Lion Flag<br>
+yellow with two panels; the smaller hoist-side panel has two equal vertical bands of green (hoist side) and orange; the larger panel has a yellow lion holding a sword on a maroon field, as well as a yellow bo leaf in each corner; the sword stands for national sovereignty, the lion for Sinhalese ethnicity, the strength of the nation, and bravery,&nbsp; and the four bo leaves for Buddhism and the four virtues of kindness, friendliness, happiness, and equanimity; orange stands for Tamils, green for Moors, and maroon for the Sinhalese majority; yellow represents other ethnic groups; also referred to as the Lion Flag<br>
 
 **National symbol(s)**<br>
 lion, water lily; national colors: maroon, yellow<br>
@@ -649,7 +649,7 @@ Sri Lanka Armed Forces: Sri Lanka Army (includes National Guard and the Voluntee
 2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 215,000 active Armed Forces (140,000 Army; 30,000 Air Force; 45,000 Navy) (2025)<br>
+estimated 210,000 active Armed Forces (140,000 Army; 25,000 Air Force; 45,000 Navy) (2025)<br>
 <strong>note: </strong>the Sri Lankan military has been downsizing for several years; in 2025, the Sri Lankan Government announced its intent to decrease the size of the Army to 100,000, the Air Force to 18,000, and the Navy to 40,000 by 2030<br>
 
 **Military equipment inventories and acquisitions**<br>

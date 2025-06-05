@@ -181,7 +181,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 7.24 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
-2.6 beds/1,000 population (2019)<br>
+2.5 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -202,15 +202,15 @@ _spirits_: 1.66 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 17.5% (2020 est.)<br>
-_male_: 17.8% (2020 est.)<br>
-_female_: 17.1% (2020 est.)<br>
+_total_: 14.3% (2025 est.)<br>
+_male_: 14.4% (2025 est.)<br>
+_female_: 14.3% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 59.6% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 18_: 0.7% (2021 est.)<br>
+_women married by age 18_: 0.7% (2021)<br>
 
 **Education expenditures**<br>
 6.4% of GDP (2020 est.)<br>
@@ -366,8 +366,8 @@ _FAX_: [45] 35-43-02-23<br>
 _email address and website_: <br>CopenhagenACS@state.gov<br><br>https://dk.usembassy.gov/<br>
 
 **Flag description**<br>
-red with a white cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side; the banner is referred to as the Dannebrog (Danish flag) and is one of the oldest national flags in the world; traditions as to the origin of the flag design vary, but the best known is a legend that the banner fell from the sky during an early-13th century battle; caught up by the Danish king before it ever touched the earth, this heavenly talisman inspired the royal army to victory; in actuality, the flag may derive from a crusade banner or ensign<br>
-<strong>note:</strong> the shifted cross design element was subsequently adopted by the other Nordic countries of Finland, Iceland, Norway, and Sweden, as well as by the Faroe Islands<br>
+red with a white cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side; the banner is referred to as the Dannebrog (Danish flag) and is one of the oldest national flags in the world; traditions as to the origin of the flag design vary, but the best known is a legend that the banner fell from the sky during an early-13th-century battle and inspired the royal army to victory; in actuality, the flag may derive from a crusade banner or ensign<br>
+<strong>note:</strong> the shifted cross design element was subsequently adopted by Finland, Iceland, Norway, and Sweden, as well as by the Faroe Islands<br>
 
 **National symbol(s)**<br>
 lion, mute swan; national colors: red, white<br>
@@ -384,7 +384,7 @@ _selected World Heritage Site locales_: Denmark: Mounds, Runic Stones, and Churc
 ## Economy
 
 **Economic overview**<br>
-<p>high-income, EU member, trade-oriented Nordic economy; growth driven by pharmaceuticals, energy and services; large share of employment in public sector; fixed exchange rate pegged to euro; strong fiscal position; tight labor market addressed by migrant workers and higher average retirement age</p><br>
+<p>high-income, EU-member, trade-oriented Nordic economy; growth driven by pharmaceuticals, energy, and services; large share of employment in public sector; fixed exchange rate pegged to euro; strong fiscal position and declining public debt; tight labor market mitigated by migrant workers and higher retirement age</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $428.759 billion (2023 est.)<br>

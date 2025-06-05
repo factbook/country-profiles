@@ -183,7 +183,7 @@ _unimproved: total_: total: 3.9% of population (2020 est.)<br>
 0.49 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
-0.6 beds/1,000 population (2017)<br>
+0.7 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 96.7% of population<br>
@@ -203,6 +203,11 @@ _wine_: 0.04 liters of pure alcohol (2019 est.)<br>
 _spirits_: 1.09 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
+**Tobacco use**<br>
+_total_: 11.9% (2025 est.)<br>
+_male_: 22.2% (2025 est.)<br>
+_female_: 1.6% (2025 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 7.1% (2019)<br>
 
@@ -210,9 +215,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 53.5% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 9.2%<br>
-_women married by age 18_: 34%<br>
-_men married by age 18_: 10% (2019 est.)<br>
+_women married by age 15_: 9.2% (2019)<br>
+_women married by age 18_: 34% (2019)<br>
+_men married by age 18_: 10% (2019)<br>
 
 **Education expenditures**<br>
 6.4% of GDP (2020 est.)<br>
@@ -359,7 +364,7 @@ _email address and website_: <br>info@wadchn.com<br><br>https://hondurasembusa.o
 _consulate(s) general_: Atlanta, Boston, Charlotte (NC), Chicago, Dallas, Houston, Los Angeles, McAllen (TX), Miami, New Orleans, New York, San Francisco, Seattle<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Laura F. DOGU (since 12 April 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Roy PERRIN (since April 2025)<br>
 _embassy_: Avenida La Paz, Tegucigalpa M.D.C.<br>
 _mailing address_: 3480 Tegucigalpa Place, Washington DC&nbsp; 20521-3480<br>
 _telephone_: [504] 2236-9320,<br>
@@ -367,8 +372,8 @@ _FAX_: [504] 2236-9037<br>
 _email address and website_: <br>usahonduras@state.gov<br><br>https://hn.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of cerulean blue (top), white, and cerulean blue, with five cerulean, five-pointed stars arranged in an X pattern centered in the white band; the stars represent the members of the former Federal Republic of Central America: Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; the blue bands symbolize the Pacific Ocean and the Caribbean Sea; the white band represents the land between the two bodies of water and the peace and prosperity of its people<br>
-<strong>note:</strong> similar to the flag of El Salvador, which features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL centered in the white band; also similar to the flag of Nicaragua, which features a triangle encircled by the words REPUBLICA DE NICARAGUA on top and AMERICA CENTRAL on the bottom, centered in the white band<br>
+three equal horizontal bands of cerulean blue (top), white, and cerulean blue, with five cerulean five-pointed stars arranged in an X pattern and centered in the white band; the stars represent the members of the former Federal Republic of Central America: Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; the blue bands stand for the Pacific Ocean and the Caribbean Sea, and the white band for the land and the peace and prosperity of its people<br>
+<strong>note:</strong> similar to the flag of El Salvador, which features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL; also similar to the flag of Nicaragua, which features a triangle encircled by the words REPUBLICA DE NICARAGUA on top and AMERICA CENTRAL on the bottom<br>
 
 **National symbol(s)**<br>
 scarlet macaw, white-tailed deer; national colors: blue, white<br>
@@ -604,7 +609,7 @@ multiple privately owned terrestrial TV networks, supplemented by multiple cable
 .hn<br>
 
 **Internet users**<br>
-_percent of population_: 60% (2022 est.)<br>
+_percent of population_: 58% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 476,000 (2023 est.)<br>
@@ -646,11 +651,11 @@ Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Hond
 <strong>note 1:</strong> the National Police of Honduras (Policía Nacional de Honduras, PNH) are under the Secretariat of Security and responsible for internal security; some larger cities have police forces that operate independently of the national police and report to municipal authorities <br><br><strong>note 2:</strong> the PMOP supports the PNH against narcotics trafficking and organized crime; it is subordinate to the Secretariat of Defense/FFAA, but conducts operations sanctioned by civilian security officials as well as by military leaders <br><br><strong>note 3:</strong> the National Interinstitutional Security Force is an interagency command that coordinates the overlapping responsibilities of the HNP, PMOP, and other security organizations such as the National Intelligence Directorate and the Public Ministry (public prosecutor), but exercises coordination, command, and control responsibilities only during interagency operations involving those forces<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2024 est.)<br>
 1.5% of GDP (2023 est.)<br>
 1.4% of GDP (2022 est.)<br>
 1.5% of GDP (2021 est.)<br>
 1.6% of GDP (2020 est.)<br>
-1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 15,000 active Honduran Armed Forces (2025)<br>

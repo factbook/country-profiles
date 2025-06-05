@@ -191,7 +191,7 @@ _unimproved: total_: total: 23.6% of population (2020 est.)<br>
 0.14 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-0.3 beds/1,000 population (2016)<br>
+0.3 beds/1,000 population (2016 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 52.5% of population<br>
@@ -212,9 +212,9 @@ _spirits_: 0.2 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.03 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 5.1% (2020 est.)<br>
-_male_: 8.8% (2020 est.)<br>
-_female_: 1.3% (2020 est.)<br>
+_total_: 4.5% (2025 est.)<br>
+_male_: 7.7% (2025 est.)<br>
+_female_: 1.4% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 21.2% (2019)<br>
@@ -223,9 +223,9 @@ _female_: 1.3% (2020 est.)<br>
 67.5% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 14.1%<br>
-_women married by age 18_: 40.3%<br>
-_men married by age 18_: 5% (2016 est.)<br>
+_women married by age 15_: 14.1% (2016)<br>
+_women married by age 18_: 40.3% (2016)<br>
+_men married by age 18_: 5% (2016)<br>
 
 **Education expenditures**<br>
 4.5% of GDP (2019 est.)<br>
@@ -406,8 +406,8 @@ _FAX_: [251] 111-24-24-01<br>
 _email address and website_: <br>AddisACS@state.gov<br><br>https://et.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of green (top), yellow, and red, with a yellow pentagram and single yellow rays emanating from the angles between the points on a light blue disk centered on the three bands; green represents hope and the fertility of the land, yellow symbolizes justice and harmony, while red stands for sacrifice and heroism in the defense of the land; the blue of the disk symbolizes peace and the pentagram represents the unity and equality of the nationalities and peoples of Ethiopia<br>
-<strong>note:</strong> Ethiopia is the oldest independent country in Africa, and the three main colors of her flag (adopted ca. 1895) were so often appropriated by other African countries upon independence that they became known as the Pan-African colors; the emblem in the center of the current flag was added in 1996<br>
+three equal horizontal bands of green (top), yellow, and red, with a yellow pentagram and single yellow rays emanating from the angles between the points on a light blue disk centered on the three bands; green stands for hope and the land's fertility, yellow for justice and harmony, and red for sacrifice and heroism; the blue of the disk symbolizes peace, and the pentagram represents the unity and equality of the Ethiopian people<br>
+<strong>note:</strong> Ethiopia is the oldest independent country in Africa, and newly independent African countries often adopted the Ethiopian flag's colors, leading them to become known as the pan-African colors; the emblem in the center of the current flag was added in 1996<br>
 
 **National symbol(s)**<br>
 Abyssinian lion (traditional), yellow pentagram with five rays of light on a blue field (promoted by current government); national colors: green, yellow, red<br>
@@ -680,11 +680,11 @@ Ethiopian National Defense Force (ENDF; aka Federal Defense Force of Ethiopia, F
 <strong>note 1: </strong>national and regional police forces are responsible for law enforcement and maintenance of order, with the ENDF sometimes providing internal security support; the Ethiopian Federal Police (EFP) report to the Prime Minister’s Office<br><br><strong>note 2:</strong> the regional governments control regional security forces, including "special" paramilitary forces, which generally operate independently from the federal government and in some cases operate as regional defense forces maintaining national borders; in April 2023, the federal government ordered the integration of these regional special forces into the EFP or ENDF; in some cases, the regional governments have maintained former members of the special forces for “crowd control/Adma Bitena” as a separate unit within their security structures; local militias also operate across the country in loose and varying coordination with regional security and police forces, the ENDF, and the EFP<br><br><strong>note 3:</strong> in 2018, Ethiopia established a Republican Guard military unit as a separate command operationally under the Office of the Prime Minister and administratively accountable to the Ministry of Defense; it is responsible for protecting senior officials and government institutions and conducting some military operations <br><br><br><br>
 
 **Military expenditures**<br>
+0.7% of GDP (2024 est.)<br>
 1% of GDP (2023 est.)<br>
 1.7% of GDP (2022 est.)<br>
 0.5% of GDP (2021 est.)<br>
 0.5% of GDP (2020 est.)<br>
-0.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 available information varies widely; estimated 150-300,000 active-duty Defense Force&nbsp; (2025)<br>

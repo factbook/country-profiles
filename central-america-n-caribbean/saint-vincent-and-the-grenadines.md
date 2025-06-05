@@ -169,7 +169,7 @@ _unimproved: total_: total: 4.9% of population (2017 est.)<br>
 0.66 physicians/1,000 population (2012)<br>
 
 **Hospital bed density**<br>
-4.3 beds/1,000 population (2016)<br>
+4.2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
@@ -188,9 +188,6 @@ _beer_: 2.52 liters of pure alcohol (2019 est.)<br>
 _wine_: 0.24 liters of pure alcohol (2019 est.)<br>
 _spirits_: 4.48 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.23 liters of pure alcohol (2019 est.)<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
 
 **Currently married women (ages 15-49)**<br>
 53.3% (2023 est.)<br>
@@ -332,7 +329,7 @@ _consulate(s) general_: New York<br>
 _embassy_: the US does not have an embassy in Saint Vincent and the Grenadines; the US Ambassador to Barbados is accredited to Saint Vincent and the Grenadines<br>
 
 **Flag description**<br>
-three vertical bands of blue (hoist side), gold (double width), and green; the gold band bears three green diamonds arranged in a V pattern, which stands for Vincent; the diamonds recall the islands as "the Gems of the Antilles" and are set slightly lowered in the gold band to reflect the nation's position in the Antilles; blue conveys the colors of a tropical sky and crystal waters, yellow signifies the golden Grenadine sands, and green represents lush vegetation<br>
+three vertical bands of blue (hoist side), gold (double-width), and green; the gold band has three green diamonds arranged in a V pattern that stands for "Vincent;" the diamonds represent the islands as "the Gems of the Antilles" and are set slightly lowered in the gold band to reflect the nation's position in the Antilles; blue stands for the tropical sky and sea, yellow for the sand, and green for vegetation<br>
 
 **National symbol(s)**<br>
 Saint Vincent parrot; national colors: blue, gold, green<br>
@@ -537,7 +534,7 @@ St. Vincent and the Grenadines Broadcasting Corporation operates 1 TV station an
 .vc<br>
 
 **Internet users**<br>
-_percent of population_: 78% (2022 est.)<br>
+_percent of population_: 76% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 31,000 (2023 est.)<br>

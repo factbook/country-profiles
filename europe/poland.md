@@ -188,7 +188,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 4.03 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-6.5 beds/1,000 population (2018)<br>
+6.1 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -209,9 +209,9 @@ _spirits_: 4.36 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 24% (2020 est.)<br>
-_male_: 27.9% (2020 est.)<br>
-_female_: 20.1% (2020 est.)<br>
+_total_: 21.6% (2025 est.)<br>
+_male_: 25.6% (2025 est.)<br>
+_female_: 17.8% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 56.6% (2023 est.)<br>
@@ -338,7 +338,7 @@ _chief of state_: President Andrzej DUDA (since 6 August 2015)<br>
 _head of government_: Prime Minister Donald TUSK (since 11 December 2023)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, appointed by the president, and approved by the Sejm<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election held on 18 May 2025 first round with the second round to be held on 1 June 2025; prime minister, deputy prime ministers, and Council of Ministers appointed by the president and confirmed by the Sejm; all presidential candidates resign their party affiliation<br>
-_election results_: <br>2025: First round Rafal TRZASKOWSKI (KO) 31.4%, Karol NAWROCKI 29.5% (PiS), Slawomir MENTZEN 14.8%, Grzegorz BRAUN 6.3%, and Szymon HOLOWNIA 5.0%; second round to be held on 1 June 2025; <br><br><em>2020:</em> Andrzej DUDA reelected president in second round; percent of vote - Andrzej DUDA (independent) 51%, Rafal TRZASKOWSKI (KO) 49%<br><em><br>2015:</em> Andrzej DUDA elected president in second round; percent of vote - Andrzej DUDA (independent) 51.5%, Bronislaw KOMOROWSKI (independent) 48.5% <p> </p><br>
+_election results_: <br>2025: Karol NAWROCKI elected president in second round; percent of vote - Karol NAWROCKI (PiS) 50.9%, Rafal TRZASKOWSKI (KO) 49.1%; NAWROCKI takes office 6 August 2025<br><br>2025: First round Rafal TRZASKOWSKI (KO) 31.4%, Karol NAWROCKI 29.5% (PiS), Slawomir MENTZEN 14.8%, Grzegorz BRAUN 6.3%, and Szymon HOLOWNIA 5.0%; second round to be held on 1 June 2025; <br><br><em>2020:</em> Andrzej DUDA reelected president in second round; percent of vote - Andrzej DUDA (independent) 51%, Rafal TRZASKOWSKI (KO) 49%<br><em><br>2015:</em> Andrzej DUDA elected president in second round; percent of vote - Andrzej DUDA (independent) 51.5%, Bronislaw KOMOROWSKI (independent) 48.5% <p> </p><br>
 
 **Legislative branch**<br>
 _legislative structure_: bicameral<br>
@@ -395,8 +395,8 @@ _email address and website_: <br>acswarsaw@state.gov<br><br>https://pl.usembassy
 _consulate(s) general_: Krakow<br>
 
 **Flag description**<br>
-two equal horizontal bands of white (top) and red; colors derive from the Polish emblem - a white eagle on a red field<br>
-<strong>note:</strong> similar to the flags of Indonesia and Monaco which are red (top) and white<br>
+two equal horizontal bands of white (top) and red; colors derive from the Polish emblem, a white eagle on a red field<br>
+<strong>note:</strong> similar to the flags of Indonesia and Monaco, which are red (top) and white<br>
 
 **National symbol(s)**<br>
 white crowned eagle; national colors: white, red<br>

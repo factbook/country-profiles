@@ -184,7 +184,7 @@ _unimproved: total_: total: 12.4% of population (2020 est.)<br>
 4.13 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-8 beds/1,000 population (2017)<br>
+10.6 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 97.4% of population<br>
@@ -205,9 +205,9 @@ _spirits_: 1.82 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 29.4% (2020 est.)<br>
-_male_: 51.7% (2020 est.)<br>
-_female_: 7.1% (2020 est.)<br>
+_total_: 28.9% (2025 est.)<br>
+_male_: 51.9% (2025 est.)<br>
+_female_: 7.2% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 1.8% (2018)<br>
@@ -216,9 +216,9 @@ _female_: 7.1% (2020 est.)<br>
 58.9% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.9%<br>
-_women married by age 18_: 12%<br>
-_men married by age 18_: 2.1% (2018 est.)<br>
+_women married by age 15_: 0.9% (2018)<br>
+_women married by age 18_: 12% (2018)<br>
+_men married by age 18_: 2.1% (2018)<br>
 
 **Education expenditures**<br>
 4.7% of GDP (2020 est.)<br>
@@ -377,7 +377,7 @@ _FAX_: [976] 7007-6174<br>
 _email address and website_: <br>UlaanbaatarACS@state.gov<br><br>https://mn.usembassy.gov/<br>
 
 **Flag description**<br>
-three, equal vertical bands of red (hoist side), blue, and red; centered on the hoist-side red band in yellow is the national emblem ("soyombo" - a columnar arrangement of abstract and geometric representation for fire, sun, moon, earth, water, and the yin-yang symbol); blue represents the sky, red symbolizes progress and prosperity<br>
+three equal vertical bands of red (hoist side), blue, and red; centered on the hoist-side red band in yellow is the national emblem, the <em>soyombo,</em> which is an abstract geometric representation of fire, sun, moon, earth, water, and the yin-yang symbol; blue stands for the sky, and red for progress and prosperity<br>
 
 **National symbol(s)**<br>
 soyombo emblem; national colors: red, blue, yellow<br>
@@ -610,7 +610,7 @@ state-run radio and TV provider is now a public-service provider; also available
 .mn<br>
 
 **Internet users**<br>
-_percent of population_: 84% (2022 est.)<br>
+_percent of population_: 83% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 499,000 (2023 est.)<br>
@@ -640,11 +640,11 @@ Mongolian Armed Forces (MAF): Land Force, Air Force, Cyber Security Forces, Spec
 <strong>note: </strong>the National Police Agency and the General Authority for Border Protection, which operate under the Ministry of Justice and Home Affairs, are primarily responsible for internal security; they are assisted by the General Intelligence Agency under the prime minister<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2024 est.)<br>
 0.6% of GDP (2023 est.)<br>
 0.6% of GDP (2022 est.)<br>
 0.8% of GDP (2021 est.)<br>
 0.8% of GDP (2020 est.)<br>
-0.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; estimated 10-20,000 active Mongolian Armed Forces (2025)<br>

@@ -183,9 +183,6 @@ _unimproved: total_: total: 14.8% of population (2020 est.)<br>
 **Physician density**<br>
 0.21 physicians/1,000 population (2022)<br>
 
-**Hospital bed density**<br>
-0.3 beds/1,000 population (2011)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 90.9% of population<br>
 _improved: rural_: rural: 38.7% of population<br>
@@ -211,9 +208,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 68.7% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 17%<br>
-_women married by age 18_: 46.5%<br>
-_men married by age 18_: 1.9% (2018 est.)<br>
+_women married by age 15_: 17% (2018)<br>
+_women married by age 18_: 46.5% (2018)<br>
+_men married by age 18_: 1.9% (2018)<br>
 
 **Education expenditures**<br>
 2.2% of GDP (2020 est.)<br>
@@ -373,8 +370,8 @@ _FAX_: [224] 65-10-42-97<br>
 _email address and website_: <br>ConakryACS@state.gov<br><br>https://gn.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal vertical bands of red (hoist side), yellow, and green; red represents the people's sacrifice for liberation and work; yellow stands for the sun, for the riches of the earth, and for justice; green symbolizes the country's vegetation and unity<br>
-<strong>note:</strong> uses the popular Pan-African colors of Ethiopia; the colors from left to right are the reverse of those on the flags of neighboring Mali and Senegal<br>
+three equal vertical bands of red (hoist side), yellow, and green; red stands for the people's sacrifice for liberation and work; yellow for the sun, the riches of the earth, and justice; green for the country's vegetation and unity<br>
+<strong>note:</strong> uses the popular pan-African colors of Ethiopia; the colors from left to right are the reverse of those on the flags of neighboring Mali and Senegal<br>
 
 **National symbol(s)**<br>
 elephant; national colors: red, yellow, green<br>
@@ -592,7 +589,7 @@ government maintains control over broadcast media; single state-run TV station; 
 .gn<br>
 
 **Internet users**<br>
-_percent of population_: 34% (2022 est.)<br>
+_percent of population_: 27% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2022 est.)<br>
@@ -634,11 +631,11 @@ Guinean (or National) Armed Forces (Forces Armées Guinéennes): Army, Air Force
 <strong>note:</strong> the National Gendarmerie is overseen by the Ministry of Defense, while the National Police is under the Ministry of Security; the Gendarmerie and National Police share responsibility for internal security, but only the Gendarmerie can arrest police or military officials; Guinea's military and security forces are sometimes collectively referred to as the Defense and Security Forces<br>
 
 **Military expenditures**<br>
-2.2% of GDP (2023 est.)<br>
+2.1% of GDP (2024 est.)<br>
+2.1% of GDP (2023 est.)<br>
 1.8% of GDP (2022 est.)<br>
 1.5% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>
-1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 10-12,000 active Armed Forces (2025)<br>

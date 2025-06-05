@@ -179,7 +179,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 2.98 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-4.3 beds/1,000 population (2019)<br>
+4.2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -200,9 +200,9 @@ _spirits_: 2.14 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 21.1% (2020 est.)<br>
-_male_: 22.4% (2020 est.)<br>
-_female_: 19.8% (2020 est.)<br>
+_total_: 21% (2025 est.)<br>
+_male_: 22.1% (2025 est.)<br>
+_female_: 19.9% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 51.4% (2023 est.)<br>
@@ -363,7 +363,7 @@ _FAX_: [352] 46-14-01<br>
 _email address and website_: <br>Luxembourgconsular@state.gov<br><br>https://lu.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of red (top), white, and light blue; similar to the flag of the Netherlands, which uses a darker blue and is shorter; the coloring is derived from the Grand Duke's coat of arms (a red lion on a white and blue striped field)<br>
+three equal horizontal bands of red (top), white, and light blue; similar to the flag of the Netherlands, which uses a darker blue and is shorter; the coloring is derived from the Grand Duke's coat of arms<br>
 
 **National symbol(s)**<br>
 red, rampant lion; national colors: red, white, light blue<br>
@@ -380,7 +380,7 @@ _selected World Heritage Site locales_: Luxembourg City Old Quarters and Fortifi
 ## Economy
 
 **Economic overview**<br>
-high-income EU and eurozone economy; global, highly capitalized banking sector; one of highest GDP-per-capita countries; trending toward recovery after economic contraction from energy-driven inflation, reduced exports and investments, and financial sector weakness<br>
+<p>high-income EU and eurozone economy; global, highly capitalized banking sector; one of highest GDP-per-capita countries; strengthened domestic demand and lower interest rates contributing to economic growth; challenges include pension-system sustainability, labor-market dynamics, and energy price volatility</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $88.533 billion (2023 est.)<br>

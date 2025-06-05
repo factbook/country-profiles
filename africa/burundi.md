@@ -183,9 +183,6 @@ _unimproved: total_: total: 18.4% of population (2020 est.)<br>
 **Physician density**<br>
 0.08 physicians/1,000 population (2022)<br>
 
-**Hospital bed density**<br>
-0.8 beds/1,000 population (2014)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 87.4% of population<br>
 _improved: rural_: rural: 53.7% of population<br>
@@ -205,9 +202,9 @@ _spirits_: 0 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 2.23 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 11.8% (2020 est.)<br>
-_male_: 17.4% (2020 est.)<br>
-_female_: 6.1% (2020 est.)<br>
+_total_: 9.1% (2025 est.)<br>
+_male_: 14% (2025 est.)<br>
+_female_: 4.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 27.6% (2022)<br>
@@ -216,9 +213,9 @@ _female_: 6.1% (2020 est.)<br>
 54.1% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 2.8%<br>
-_women married by age 18_: 19%<br>
-_men married by age 18_: 1.4% (2017 est.)<br>
+_women married by age 15_: 2.8% (2017)<br>
+_women married by age 18_: 19% (2017)<br>
+_men married by age 18_: 1.4% (2017)<br>
 
 **Education expenditures**<br>
 5% of GDP (2020 est.)<br>
@@ -628,11 +625,11 @@ Burundi National Defense Force (BNDF; Force de Defense Nationale du Burundi, FDN
 <strong>note:</strong> the Naval Force is responsible for monitoring Burundi’s 175-km shoreline on Lake Tanganyika; the Specialized Units include a special security brigade for the protection of institutions (aka BSPI), commandos, special forces, and military police<br>
 
 **Military expenditures**<br>
-3.7% of GDP (2023 est.)<br>
-2.8% of GDP (2022 est.)<br>
+3.5% of GDP (2024 est.)<br>
+3% of GDP (2023 est.)<br>
+2.6% of GDP (2022 est.)<br>
 2% of GDP (2021 est.)<br>
 2.1% of GDP (2020 est.)<br>
-3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 limited available information; estimated 25-30,000 active-duty Defense Force troops (2025)<br>

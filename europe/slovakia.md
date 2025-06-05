@@ -183,7 +183,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 3.7 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-5.7 beds/1,000 population (2018)<br>
+5.7 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.9% of population<br>
@@ -204,12 +204,9 @@ _spirits_: 4.14 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 31.5% (2020 est.)<br>
-_male_: 37.4% (2020 est.)<br>
-_female_: 25.6% (2020 est.)<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
+_total_: 30.3% (2025 est.)<br>
+_male_: 34.5% (2025 est.)<br>
+_female_: 26.3% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 47.9% (2023 est.)<br>
@@ -374,8 +371,8 @@ _FAX_: [421] (2) 5441-8861<br>
 _email address and website_: <br>consulbratislava@state.gov<br><br>https://sk.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of white (top), blue, and red derive from the Pan-Slav colors; the Slovakian coat of arms (consisting of a red shield bordered in white and bearing a white double-barred cross of St. Cyril and St. Methodius surmounting three blue hills) is centered over the bands but offset slightly to the hoist side<br>
-<strong>note:</strong> the Pan-Slav colors were inspired by the 19th-century flag of Russia<br>
+three equal horizontal bands of white (top), blue, and red come from the pan-Slav colors; the national coat of arms (a red shield bordered in white and with a white double-barred cross of St. Cyril and St. Methodius on top of three blue hills) is centered over the bands but offset slightly to the hoist side<br>
+<strong>note:</strong> the pan-Slav colors were inspired by Russia's flag<br>
 
 **National symbol(s)**<br>
 double-barred cross (Cross of St. Cyril and St. Methodius) surmounting three peaks; national colors: white, blue, red<br>
@@ -624,7 +621,7 @@ state-owned public broadcaster, Radio and Television of Slovakia (RTVS), has 2 n
 .sk<br>
 
 **Internet users**<br>
-_percent of population_: 87% (2023 est.)<br>
+_percent of population_: 90% (2024 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1.83 million (2023 est.)<br>

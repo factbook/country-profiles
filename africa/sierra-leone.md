@@ -200,9 +200,9 @@ _spirits_: 0.15 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 2.9 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 13.5% (2020 est.)<br>
-_male_: 20.5% (2020 est.)<br>
-_female_: 6.4% (2020 est.)<br>
+_total_: 9.8% (2025 est.)<br>
+_male_: 14.8% (2025 est.)<br>
+_female_: 4.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 12% (2021)<br>
@@ -211,9 +211,9 @@ _female_: 6.4% (2020 est.)<br>
 58.9% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 8.6%<br>
-_women married by age 18_: 29.6%<br>
-_men married by age 18_: 4.1% (2019 est.)<br>
+_women married by age 15_: 8.6% (2019)<br>
+_women married by age 18_: 29.6% (2019)<br>
+_men married by age 18_: 4.1% (2019)<br>
 
 **Education expenditures**<br>
 9.1% of GDP (2021 est.)<br>
@@ -363,7 +363,7 @@ _telephone_: [232] 99 105 000<br>
 _email address and website_: <br>consularfreetown@state.gov<br><br>https://sl.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of light green (top), white, and light blue; green symbolizes agriculture, mountains, and natural resources, white represents unity and justice, and blue the sea and the natural harbor in Freetown<br>
+three equal horizontal bands of light green (top), white, and light blue; green stands for agriculture, mountains, and natural resources, white for unity and justice, and blue for the sea and the natural harbor in Freetown<br>
 
 **National symbol(s)**<br>
 lion; national colors: green, white, blue<br>
@@ -574,7 +574,7 @@ _subscriptions per 100 inhabitants_: 98 (2021 est.)<br>
 .sl<br>
 
 **Internet users**<br>
-_percent of population_: 30% (2022 est.)<br>
+_percent of population_: 21% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 0 (2021 est.)<br>

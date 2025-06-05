@@ -179,7 +179,7 @@ _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 1.99 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-1.5 beds/1,000 population (2017)<br>
+1.2 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -200,9 +200,9 @@ _spirits_: 0.29 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 8% (2020 est.)<br>
-_male_: 15.5% (2020 est.)<br>
-_female_: 0.4% (2020 est.)<br>
+_total_: 11.6% (2025 est.)<br>
+_male_: 17.9% (2025 est.)<br>
+_female_: 0.4% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 11.2% (2016/17)<br>
@@ -370,7 +370,7 @@ _FAX_: [968] 2464-3740<br>
 _email address and website_: <br>ConsularMuscat@state.gov<br><br>https://om.usembassy.gov/<br>
 
 **Flag description**<br>
-three horizontal bands of white (top), red, and green of equal width with a broad, vertical, red band on the hoist side; the national emblem (a khanjar dagger in its sheath superimposed on two crossed swords in scabbards) in white is centered near the top of the vertical band; white represents peace and prosperity, red recalls battles against foreign invaders, and green symbolizes the Jebel al Akhdar (Green Mountains) and fertility<br>
+three equal horizontal bands of white (top), red, and green, with a vertical red band on the hoist side; the national emblem (a <em>khanjar</em> dagger in its sheath on top of crossed swords in scabbards) in white is centered near the top of the vertical band; white stands for peace and prosperity, red for battles against foreign invaders, and green for the Jebel al Akhdar (Green Mountains) and fertility<br>
 
 **National symbol(s)**<br>
 khanjar dagger superimposed on two crossed swords; national colors: red, white, green<br>
@@ -629,11 +629,11 @@ Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO),
 <strong>note:</strong> in addition to its policing duties, the ROP conducts many administrative functions similar to the responsibilities of a Ministry of Interior in other countries<br>
 
 **Military expenditures**<br>
+6% of GDP (2024 est.)<br>
 5.5% of GDP (2023 est.)<br>
 5.5% of GDP (2022 est.)<br>
 8% of GDP (2021 est.)<br>
 11% of GDP (2020 est.)<br>
-11.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 40,000 active Sultan's Armed Forces (25,000 Army, 5,000 Navy; 5,000 Air Force; 5,000 Royal Guard) (2025)<br>

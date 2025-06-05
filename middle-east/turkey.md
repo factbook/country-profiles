@@ -188,7 +188,7 @@ _unimproved: total_: total: 1% of population (2020 est.)<br>
 2.24 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-2.9 beds/1,000 population (2018)<br>
+3 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.8% of population<br>
@@ -209,9 +209,9 @@ _spirits_: 0.35 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 30.7% (2020 est.)<br>
-_male_: 42.1% (2020 est.)<br>
-_female_: 19.2% (2020 est.)<br>
+_total_: 30.1% (2025 est.)<br>
+_male_: 40.1% (2025 est.)<br>
+_female_: 20.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 1.5% (2018/19)<br>
@@ -220,8 +220,8 @@ _female_: 19.2% (2020 est.)<br>
 65.4% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 2%<br>
-_women married by age 18_: 14.7% (2018 est.)<br>
+_women married by age 15_: 2% (2018)<br>
+_women married by age 18_: 14.7% (2018)<br>
 
 **Education expenditures**<br>
 3.4% of GDP (2020 est.)<br>
@@ -378,7 +378,7 @@ _email address and website_: <br>embassy.washingtondc@mfa.gov.tr<br><br>T.C. Dı
 _consulate(s) general_: Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Michael GOLDMAN (since September 2024)<br>
+_chief of mission_: Ambassador Thomas J. BARRACK (since 14 May 2025)<br>
 _embassy_: 1480 Sokak No. 1, Cukurambar Mahallesi, 06530 Cankaya, Ankara<br>
 _mailing address_: 7000 Ankara Place, Washington, DC 20512-7000<br>
 _telephone_: [90] (312) 294-0000<br>
@@ -388,7 +388,7 @@ _consulate(s) general_: Istanbul<br>
 _consulate(s)_: Adana<br>
 
 **Flag description**<br>
-red with a vertical white crescent moon (the closed portion is toward the hoist side) and white five-pointed star centered just outside the crescent opening; the flag colors and designs closely resemble those on the banner of the Ottoman Empire, which preceded modern-day Turkey; the crescent moon and star serve as insignia for Turkic peoples; according to one interpretation, the flag represents the reflection of the moon and a star in a pool of blood of Turkish warriors<br>
+red with a vertical white crescent moon and five-pointed white star centered just outside the crescent opening; the flag colors and designs closely resemble the Ottoman Empire's flag; the crescent moon and star serve as insignia for Turkic peoples; according to one interpretation, the flag represents the reflection of the moon and a star in a pool of blood of Turkish warriors<br>
 
 **National symbol(s)**<br>
 vertical crescent moon with adjacent five-pointed star; national colors: red, white<br>
@@ -639,7 +639,7 @@ Turkish Radio and Television Corporation (TRT) operates multiple TV and radio ne
 .tr<br>
 
 **Internet users**<br>
-_percent of population_: 86% (2023 est.)<br>
+_percent of population_: 87% (2024 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 19.6 million (2023 est.)<br>

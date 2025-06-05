@@ -189,7 +189,7 @@ _unimproved: total_: total: 2.3% of population (2020 est.)<br>
 2.54 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-1.7 beds/1,000 population (2018)<br>
+1.7 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.1% of population<br>
@@ -210,15 +210,20 @@ _spirits_: 0.92 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.02 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 8.5% (2020 est.)<br>
-_male_: 12.4% (2020 est.)<br>
-_female_: 4.6% (2020 est.)<br>
+_total_: 7.6% (2025 est.)<br>
+_male_: 11.2% (2025 est.)<br>
+_female_: 4.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 3.7% (2015/16)<br>
 
 **Currently married women (ages 15-49)**<br>
 55.3% (2023 est.)<br>
+
+**Child marriage**<br>
+_women married by age 15_: 4.9% (2015)<br>
+_women married by age 18_: 23.4% (2015)<br>
+_men married by age 18_: 6.7% (2015)<br>
 
 **Education expenditures**<br>
 4.9% of GDP (2020 est.)<br>
@@ -684,11 +689,11 @@ Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: 
 <strong>note:</strong> the PNC is a civilian force under the jurisdiction of the Ministry of Defense<br>
 
 **Military expenditures**<br>
-2.9% of GDP (2023 est.)<br>
+3.4% of GDP (2024 est.)<br>
+3% of GDP (2023 est.)<br>
 3% of GDP (2022 est.)<br>
-3% of GDP (2021 est.)<br>
-3% of GDP (2020 est.)<br>
-3.1% of GDP (2019 est.)<br>
+3.2% of GDP (2021 est.)<br>
+3.4% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 260,000 active Military Forces (200,000 Army; 45,000 Navy, including about 20,000 marines; 15,000 Air Force); approximately 150,000 National Police (2025)<br>

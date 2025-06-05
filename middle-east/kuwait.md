@@ -180,7 +180,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 2.27 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
-2 beds/1,000 population (2017)<br>
+2.4 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
@@ -201,9 +201,9 @@ _spirits_: 0 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 17.9% (2020 est.)<br>
-_male_: 33.5% (2020 est.)<br>
-_female_: 2.2% (2020 est.)<br>
+_total_: 22.4% (2025 est.)<br>
+_male_: 34.9% (2025 est.)<br>
+_female_: 1.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 2.5% (2020)<br>
@@ -356,7 +356,7 @@ _FAX_: [00] (965) 2538-0282<br>
 _email address and website_: <br>KuwaitACS@state.gov<br><br>https://kw.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of green (top), white, and red with a black trapezoid based on the hoist side; colors and design are based on the Arab Revolt flag of World War I; green represents fertile fields, white stands for purity, red denotes blood on Kuwaiti swords, black signifies the defeat of the enemy<br>
+three equal horizontal bands of green (top), white, and red with a black trapezoid based on the hoist side; colors and design are based on the Arab Revolt flag of World War I; green stands for fertile fields, white for purity, red for blood on Kuwaiti swords, and black for defeating the enemy<br>
 
 **National symbol(s)**<br>
 golden falcon; national colors: green, white, red, black<br>
@@ -610,11 +610,11 @@ Kuwait Armed Forces (KAF): Kuwait Army (aka Kuwait Land Forces, KLF), Kuwait Nav
 <strong>note 1:</strong> the Emiri Guard Authority and the 25th Commando Brigade are special units within the KAF that exercise independent command authority, although activities such as training and equipment procurement are often coordinated with the other services; the 25th Commando Brigade is Kuwait's leading special forces unit; the Emiri Guard Authority (aka Emiri Guard Brigade) is responsible for protecting Kuwait's heads of state<br><br><strong>note 2:</strong> the National Guard reports directly to the prime minister and the amir and possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior; it is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required<br>
 
 **Military expenditures**<br>
-5% of GDP (2023 est.)<br>
+4.9% of GDP (2024 est.)<br>
+4.8% of GDP (2023 est.)<br>
 4.5% of GDP (2022 est.)<br>
-6.8% of GDP (2021 est.)<br>
+6.5% of GDP (2021 est.)<br>
 6.3% of GDP (2020 est.)<br>
-5.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 17,000 active Kuwait Armed Forces; approximately 7,000 National Guard (2025)<br>

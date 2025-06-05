@@ -179,7 +179,7 @@ _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 1.32 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
-2.2 beds/1,000 population (2017)<br>
+2.4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 98.8% of population<br>
@@ -200,9 +200,9 @@ _spirits_: 0.17 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.03 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 24.6% (2020 est.)<br>
-_male_: 47.2% (2020 est.)<br>
-_female_: 2% (2020 est.)<br>
+_total_: 19% (2025 est.)<br>
+_male_: 37.6% (2025 est.)<br>
+_female_: 1.4% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 1.6% (2018)<br>
@@ -211,7 +211,9 @@ _female_: 2% (2020 est.)<br>
 53.9% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 1.5% (2018 est.)<br>
+_women married by age 15_: 0% (2018)<br>
+_women married by age 18_: 1.5% (2018)<br>
+_men married by age 18_: 0% (2018)<br>
 
 **Education expenditures**<br>
 7.3% of GDP (2016 est.)<br>
@@ -378,8 +380,7 @@ _FAX_: [216] 71-107-090<br>
 _email address and website_: <br>tuniswebsitecontact@state.gov<br><br>https://tn.usembassy.gov/<br>
 
 **Flag description**<br>
-red with a white disk in the center bearing a red crescent nearly encircling a red five-pointed star; resembles the Ottoman flag (red banner with white crescent and star) and recalls Tunisia's history as part of the Ottoman Empire; red represents the blood shed by martyrs in the struggle against oppression, white stands for peace; the crescent and star are traditional symbols of Islam<br>
-<strong>note:</strong> the flag is based on that of Turkey, itself a successor state to the Ottoman Empire<br>
+red with a white disk in the center with a red crescent around a five-pointed red star; resembles the Ottoman flag (red banner with white crescent and star), a reference to Tunisia's history as part of the Ottoman Empire; red stands for martyrs' blood shed the fight against oppression, and white for peace; the crescent and star are traditional symbols of Islam<br>
 
 **National symbol(s)**<br>
 encircled red crescent moon and five-pointed star; national colors: red, white<br>
@@ -663,11 +664,11 @@ Tunisian Armed Forces (Forces Armées Tunisiennes, FAT): Tunisian Army (includes
 <strong>note:</strong> the National Police has primary responsibility for law enforcement in the major cities, while the National Guard (gendarmerie) oversees border security and patrols smaller towns and rural areas<br>
 
 **Military expenditures**<br>
+2.5% of GDP (2024 est.)<br>
 2.5% of GDP (2023 est.)<br>
 2.7% of GDP (2022 est.)<br>
 3% of GDP (2021 est.)<br>
 3% of GDP (2020 est.)<br>
-3.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 35,000 active-duty Armed Forces (25,000 Army; 5,000 Navy; 5,000 Air Force) (2025)<br>

@@ -100,7 +100,7 @@ US common law<br>
 see United States<br>
 
 **Flag description**<br>
-the flag of the US is used<br>
+the US flag is used<br>
 
 ## Economy
 

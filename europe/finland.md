@@ -184,7 +184,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 3.61 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
-3.6 beds/1,000 population (2018)<br>
+2.8 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -205,15 +205,15 @@ _spirits_: 1.96 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.91 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 21.6% (2020 est.)<br>
-_male_: 26.9% (2020 est.)<br>
-_female_: 16.3% (2020 est.)<br>
+_total_: 18% (2025 est.)<br>
+_male_: 21.7% (2025 est.)<br>
+_female_: 14.3% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 57.2% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 18_: 0.1% (2017 est.)<br>
+_women married by age 18_: 0.1% (2017)<br>
 
 **Education expenditures**<br>
 5.9% of GDP (2020 est.)<br>
@@ -372,7 +372,7 @@ _FAX_: [358] (9) 174-681<br>
 _email address and website_: <br>HelsinkiACS@state.gov<br><br>https://fi.usembassy.gov/<br>
 
 **Flag description**<br>
-white with a blue cross extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the blue represents the thousands of lakes scattered across the country, while the white is for the snow that covers the land in winter<br>
+white with a blue cross extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the blue stands for the country's thousands of lakes, and the white for snow<br>
 
 **National symbol(s)**<br>
 lion; national colors: blue, white<br>
@@ -659,7 +659,7 @@ Finnish Defense Forces (FDF; Puolustusvoimat): Army (Maavoimat), Navy (Merivoima
 
 **Military expenditures**<br>
 2.4% of GDP (2024 est.)<br>
-2.5% of GDP (2023)<br>
+2.45% of GDP (2023)<br>
 2% of GDP (2022)<br>
 1.9% of GDP (2021)<br>
 1.5% of GDP (2020)<br>

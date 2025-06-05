@@ -185,7 +185,7 @@ _unimproved: total_: total: 2.2% of population (2020 est.)<br>
 2.81 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
-4 beds/1,000 population (2014)<br>
+4.9 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -206,9 +206,9 @@ _spirits_: 2.19 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 17.6% (2020 est.)<br>
-_male_: 34% (2020 est.)<br>
-_female_: 1.1% (2020 est.)<br>
+_total_: 15.4% (2025 est.)<br>
+_male_: 30.2% (2025 est.)<br>
+_female_: 1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 1.8% (2021)<br>
@@ -217,8 +217,8 @@ _female_: 1.1% (2020 est.)<br>
 68.6% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.2%<br>
-_women married by age 18_: 3.4% (2022 est.)<br>
+_women married by age 15_: 0.2% (2022)<br>
+_women married by age 18_: 3.4% (2022)<br>
 
 **Education expenditures**<br>
 4.9% of GDP (2020 est.)<br>
@@ -391,7 +391,7 @@ _FAX_: [998] 78-120-6335<br>
 _email address and website_: <br>ACSTashkent@state.gov<br><br>https://uz.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of blue (top), white, and green separated by red fimbriations with a vertical, white crescent moon (closed side to the hoist) and 12 white, five-pointed stars shifted to the hoist on the top band; blue is the color of the Turkic peoples and of the sky, white signifies peace and the striving for purity in thoughts and deeds, while green represents nature and is the color of Islam; the red stripes are the vital force of all living organisms that links good and pure ideas with the eternal sky and with deeds on earth; the crescent represents Islam and the 12 stars the months and constellations of the Uzbek calendar<br>
+three equal horizontal bands of blue (top), white, and green separated by narrow red stripes with a vertical white crescent moon and 12 five-pointed white stars shifted to the hoist on the top band; blue stands for the Turkic peoples and the sky, white for peace and the striving for purity in thoughts and deeds, and green for nature and Islam; the red stripes represent the vital force of all living organisms; the crescent represents Islam and the 12 stars the months and constellations of the Uzbek calendar<br>
 
 **National symbol(s)**<br>
 khumo (mythical bird); national colors: blue, white, red, green<br>

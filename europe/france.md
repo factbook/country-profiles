@@ -200,7 +200,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 3.28 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-5.9 beds/1,000 population (2018)<br>
+6 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -221,9 +221,9 @@ _spirits_: 2.3 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.18 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 33.4% (2020 est.)<br>
-_male_: 34.9% (2020 est.)<br>
-_female_: 31.9% (2020 est.)<br>
+_total_: 28.9% (2025 est.)<br>
+_male_: 30.7% (2025 est.)<br>
+_female_: 27.3% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 54.8% (2023 est.)<br>
@@ -414,8 +414,8 @@ _consulate(s) general_: Marseille, Strasbourg<br>
 _consulate(s)_: Bordeaux, Lyon, Rennes<br>
 
 **Flag description**<br>
-three equal vertical bands of blue (hoist side), white, and red; known as the "Le drapeau tricolore" (French Tricolor), the origin of the flag dates to 1790 and the French Revolution when the "ancient French color" of white was combined with the blue and red colors of the Parisian militia; the official flag for all French dependent areas<br>
-<strong>note:</strong> for the first four years, 1790-94, the order of colors was reversed, red-white-blue, instead of the current blue-white-red; the design and/or colors are similar to a number of other flags, including those of Belgium, Chad, Cote d'Ivoire, Ireland, Italy, Luxembourg, and Netherlands<br>
+three equal vertical bands of blue (hoist side), white, and red; known as the <em>le tricolore</em> (tricolor), the flag dates to 1790 and the French Revolution, when the traditional color of white was combined with the blue and red of the Paris militia; serves as the official flag for all French dependencies<br>
+<strong>note:</strong> for the first four years of the flag's use, 1790-94, the order of colors was reversed (red-white-blue); the design and colors are similar to a number of other flags, including those of Belgium, Chad, Cote d'Ivoire, Ireland, Italy, Luxembourg, and Netherlands<br>
 
 **National symbol(s)**<br>
 Gallic rooster, fleur-de-lis, Marianne (female personification of the country); national colors: blue, white, red<br>

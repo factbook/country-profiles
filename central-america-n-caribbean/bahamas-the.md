@@ -165,7 +165,7 @@ _unimproved: total_: total: 1.1% of population (2017 est.)<br>
 1.9 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-3 beds/1,000 population (2017)<br>
+2.7 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: total_: total: 98.2% of population<br>
@@ -182,9 +182,9 @@ _spirits_: 4.08 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.31 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 10.6% (2020 est.)<br>
-_male_: 18.8% (2020 est.)<br>
-_female_: 2.4% (2020 est.)<br>
+_total_: 10.8% (2025 est.)<br>
+_male_: 20.8% (2025 est.)<br>
+_female_: 1.9% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 38.9% (2023 est.)<br>
@@ -345,13 +345,13 @@ three equal horizontal bands of aquamarine (top), gold, and aquamarine, with a b
 **National symbol(s)**<br>
 blue marlin, flamingo, Yellow Elder flower; national colors: aquamarine, yellow, black<br>
 
+**National coat of arms**<br>
+The motto on the Bahamas coat of arms is &ldquo;Forward, Upward, Onward Together.&rdquo; The flamingo and marlin supporting the shield are national animals that represent respectively the land and sea; the pink conch shell symbolizes the marine life of the islands; and the green palm fronds represent the natural vegetation. The Santa Maria, Christopher Columbus&rsquo;s flagship, also appears on the shield, and the sun signifies the world-famous climate and the bright future of the islands.<br>
+
 **National anthem**<br>
 _name_: "March On, Bahamaland!"<br>
 _lyrics/music_: Timothy GIBSON<br>
 <strong>note:</strong> adopted 1973; as a Commonwealth country, in addition to the national anthem, "God Save the King" serves as the royal anthem (see United Kingdom)<br>
-
-**National coat of arms**<br>
-The motto on the Bahamas coat of arms is &ldquo;Forward, Upward, Onward Together.&rdquo; The flamingo and marlin supporting the shield are national animals that represent respectively the land and sea; the pink conch shell symbolizes the marine life of the islands; and the green palm fronds represent the natural vegetation. The Santa Maria, Christopher Columbus&rsquo;s flagship, also appears on the shield, and the sun signifies the world-famous climate and the bright future of the islands.<br>
 
 ## Economy
 
@@ -586,11 +586,11 @@ Royal Bahamas Defense Force (RBDF): includes land, air, maritime elements; Royal
 <strong>note:</strong> the RBPF maintains internal security; both the RBDF and the RBPF, as well as the Department of Corrections, report to the Minister of National Security<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2024 est.)<br>
 0.8% of GDP (2023 est.)<br>
 0.8% of GDP (2022 est.)<br>
 0.9% of GDP (2021 est.)<br>
 0.9% of GDP (2020 est.)<br>
-0.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,700 active RBDF&nbsp; (2024)<br>

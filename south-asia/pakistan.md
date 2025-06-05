@@ -190,7 +190,7 @@ _unimproved: total_: total: 6% of population (2020 est.)<br>
 1.16 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
-0.6 beds/1,000 population (2017)<br>
+0.5 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 88.6% of population<br>
@@ -211,20 +211,20 @@ _spirits_: 0.04 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 20.2% (2020 est.)<br>
-_male_: 33% (2020 est.)<br>
-_female_: 7.3% (2020 est.)<br>
+_total_: 15.5% (2025 est.)<br>
+_male_: 25.7% (2025 est.)<br>
+_female_: 5.4% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-23.1% (2017/18)<br>
+23.1% (2018)<br>
 
 **Currently married women (ages 15-49)**<br>
 63.5% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 3.6%<br>
-_women married by age 18_: 18.3%<br>
-_men married by age 18_: 4.7% (2018 est.)<br>
+_women married by age 15_: 3.6% (2018)<br>
+_women married by age 18_: 18.3% (2018)<br>
+_men married by age 18_: 4.7% (2018)<br>
 
 **Education expenditures**<br>
 2.4% of GDP (2021 est.)<br>
@@ -403,7 +403,7 @@ _email address and website_: <br>ACSIslamabad@state.gov<br><br>https://pk.usemba
 _consulate(s) general_: Karachi, Lahore, Peshawar<br>
 
 **Flag description**<br>
-green with a vertical white band (symbolizing the role of religious minorities) on the hoist side; a large white crescent and star are centered in the green field; the crescent, star, and color green are traditional symbols of Islam<br>
+green with a vertical white band on the hoist side, symbolizing the role of religious minorities; a large white crescent and star are centered in the green field, all of which are traditional Islamic symbols<br>
 
 **National symbol(s)**<br>
 five-pointed star between the horns of a waxing crescent moon, jasmine; national colors: green, white<br>
@@ -656,7 +656,7 @@ _subscriptions per 100 inhabitants_: 82 (2022 est.)<br>
 .pk<br>
 
 **Internet users**<br>
-_percent of population_: 33% (2022 est.)<br>
+_percent of population_: 27% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3.36 million (2023 est.)<br>

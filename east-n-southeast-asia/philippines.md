@@ -182,7 +182,7 @@ _unimproved: total_: total: 3% of population (2020 est.)<br>
 0.79 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
-1 beds/1,000 population (2014)<br>
+1 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 96% of population<br>
@@ -203,19 +203,19 @@ _spirits_: 3.34 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.01 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 22.9% (2020 est.)<br>
-_male_: 39.3% (2020 est.)<br>
-_female_: 6.5% (2020 est.)<br>
+_total_: 19.2% (2025 est.)<br>
+_male_: 34.4% (2025 est.)<br>
+_female_: 3.7% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-19.1% (2018)<br>
+19.1% (2015)<br>
 
 **Currently married women (ages 15-49)**<br>
 59.3% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 2.2%<br>
-_women married by age 18_: 16.5% (2017 est.)<br>
+_women married by age 15_: 1.5% (2022)<br>
+_women married by age 18_: 9.4% (2022)<br>
 
 **Education expenditures**<br>
 3.7% of GDP (2020 est.)<br>
@@ -347,9 +347,9 @@ _number of seats_: 316 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 3 years<br>
-_most recent election date_: 5/9/2022<br>
+_most recent election date_: 5/12/2025<br>
 _percentage of women in chamber_: 28%<br>
-_expected date of next election_: May 2025<br>
+_expected date of next election_: May 2028<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate (Senado)<br>
@@ -357,10 +357,9 @@ _number of seats_: 24 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: partial renewal<br>
 _term in office_: 6 years<br>
-_most recent election date_: 5/9/2022<br>
-_parties elected and seats per party_: Nationalist People's Coalition (NPC) (5); Partido Demokratiko Pilipino-Laban (PDP-Laban) (5); Nacionalista Party (NP) (4); Independents (5); Other (5)<br>
+_most recent election date_: 5/12/2025<br>
 _percentage of women in chamber_: 30.4%<br>
-_expected date of next election_: May 2025<br>
+_expected date of next election_: May 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of a chief justice and 14 associate justices)<br>
@@ -390,11 +389,14 @@ _FAX_: [63] (2) 5301-2017<br>
 _email address and website_: <br>acsinfomanila@state.gov<br><br>https://ph.usembassy.gov/<br>
 
 **Flag description**<br>
-two equal horizontal bands of blue (top) and red; a white equilateral triangle is based on the hoist side; the center of the triangle displays a yellow sun with eight primary rays; each corner of the triangle contains a small, yellow, five-pointed star; blue stands for peace and justice, red symbolizes courage, the white equal-sided triangle represents equality; the rays recall the first eight provinces that sought independence from Spain, while the stars represent the three major geographical divisions of the country: Luzon, Visayas, and Mindanao; the design of the flag dates to 1897<br>
-<strong>note:</strong> in wartime the flag is flown upside down with the red band at the top<br>
+two equal horizontal bands of blue (top) and red; a white equilateral triangle is based on the hoist side; the center of the triangle has a yellow sun with eight primary rays; each corner of the triangle contains a small five-pointed yellow star; blue stands for peace and justice, red for courage, and the triangle for equality; the rays represent the first eight provinces that sought independence from Spain, and the stars represent the country's three parts: Luzon, Visayas, and Mindanao; the design dates to 1897<br>
+<strong>note:</strong> in wartime, the flag is flown upside-down with the red band at the top<br>
 
 **National symbol(s)**<br>
 three stars and sun, Philippine eagle; national colors: red, white, blue, yellow<br>
+
+**National coat of arms**<br>
+The coat of arms of the Philippines was adopted on 3 July 1946. The three gold stars represent the major island groups of Luzon, the Visayas, and Mindanao. The rays of the sun represent the provinces of the Philippines. The American eagle and lion of Spain represent the nation's colonial past.<br>
 
 **National anthem**<br>
 _name_: "Lupang Hinirang" (Chosen Land)<br>
@@ -404,9 +406,6 @@ _lyrics/music_: Jose PALMA (revised by Felipe PADILLA de Leon)/Julian FELIPE<br>
 **National heritage**<br>
 _total World Heritage Sites_: 6 (3 cultural, 3 natural)<br>
 _selected World Heritage Site locales_: Baroque Churches of the Philippines (c); Tubbataha Reefs Natural Park (n); Rice Terraces of the Philippine Cordilleras (c); Historic Vigan (c); Puerto-Princesa Subterranean River National Park (n); Mount Hamiguitan Range Wildlife Sanctuary (n)<br>
-
-**National coat of arms**<br>
-The coat of arms of the Philippines was adopted on 3 July 1946. The three gold stars represent the major island groups of Luzon, the Visayas, and Mindanao. The rays of the sun represent the provinces of the Philippines. The American eagle and lion of Spain represent the nation's colonial past.<br>
 
 ## Economy
 
@@ -641,7 +640,7 @@ multiple national private TV and radio networks; multi-channel satellite and cab
 .ph<br>
 
 **Internet users**<br>
-_percent of population_: 75% (2022 est.)<br>
+_percent of population_: 84% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 7.51 million (2023 est.)<br>

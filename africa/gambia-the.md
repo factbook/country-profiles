@@ -186,7 +186,7 @@ _unimproved: total_: total: 10.5% of population (2020 est.)<br>
 0.09 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-1.1 beds/1,000 population (2011)<br>
+1.2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 75.8% of population<br>
@@ -207,9 +207,9 @@ _spirits_: 0.02 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 2.44 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 11.1% (2020 est.)<br>
-_male_: 21.4% (2020 est.)<br>
-_female_: 0.8% (2020 est.)<br>
+_total_: 8.6% (2025 est.)<br>
+_male_: 17% (2025 est.)<br>
+_female_: 0.5% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 11.6% (2020)<br>
@@ -218,9 +218,9 @@ _female_: 0.8% (2020 est.)<br>
 60.9% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 5.6%<br>
-_women married by age 18_: 23.1%<br>
-_men married by age 18_: 0.2% (2020 est.)<br>
+_women married by age 15_: 5.6% (2020)<br>
+_women married by age 18_: 23.1% (2020)<br>
+_men married by age 18_: 0.2% (2020)<br>
 
 **Education expenditures**<br>
 2.8% of GDP (2020 est.)<br>
@@ -368,7 +368,7 @@ _FAX_: [220] 439-2475<br>
 _email address and website_: <br>ConsularBanjul@state.gov<br><br>https://gm.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of red (top), blue with white edges, and green; red stands for the sun and the savannah, blue represents the Gambia River, and green symbolizes forests and agriculture; the white stripes denote unity and peace<br>
+three equal horizontal bands of red (top), blue with white edges, and green; red stands for the sun and the savannah, blue for the Gambia River, and green for forests and agriculture; the white stripes denote unity and peace<br>
 
 **National symbol(s)**<br>
 lion; national colors: red, blue, green, white<br>
@@ -617,11 +617,11 @@ Gambian Armed Forces (GAF; aka Armed Forces of the Gambia): the Gambian National
 <strong>note: </strong>the RNG is responsible for VIP protection, riot control, and presidential security, while the GPF maintains internal security<br>
 
 **Military expenditures**<br>
+0.6% of GDP (2024 est.)<br>
 0.6% of GDP (2023 est.)<br>
 0.7% of GDP (2022 est.)<br>
 0.8% of GDP (2021 est.)<br>
 0.8% of GDP (2020 est.)<br>
-0.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 3,000-4,000 active Gambian Armed Forces (2025)<br>

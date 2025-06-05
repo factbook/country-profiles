@@ -176,7 +176,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 4.16 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
-3 beds/1,000 population (2017)<br>
+1.6 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
@@ -198,6 +198,10 @@ _other alcohols_: 0.09 liters of pure alcohol (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 48.6% (2023 est.)<br>
+
+**Child marriage**<br>
+_women married by age 15_: 0.7% (2022)<br>
+_women married by age 18_: 4.2% (2022)<br>
 
 **Education expenditures**<br>
 4.1% of GDP (2020 est.)<br>
@@ -320,9 +324,9 @@ _chamber name_: Senate<br>
 _number of seats_: 32 (all appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 8/28/2020<br>
+_most recent election date_: 5/23/2025<br>
 _percentage of women in chamber_: 32.3%<br>
-_expected date of next election_: August 2025<br>
+_expected date of next election_: May 2030<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Judicature (consists of a chief justice for both the Court of Appeal with 12 judges and the High Court with 24 judges)<br>
@@ -353,18 +357,18 @@ _FAX_: (868) 822-5905<br>
 _email address and website_: <br>ptspas@state.gov<br><br>https://tt.usembassy.gov/<br>
 
 **Flag description**<br>
-red with a white-edged black diagonal band from the upper hoist side to the lower fly side; the colors represent the elements of earth, water, and fire; black stands for the wealth of the land and the dedication of the people; white symbolizes the sea surrounding the islands, the purity of the country's aspirations, and equality; red symbolizes the warmth and energy of the sun, the vitality of the land, and the courage and friendliness of its people<br>
+red with a white-edged black diagonal band from the upper hoist side to the lower fly side; the colors represent the elements of earth, water, and fire; black also stands for the wealth of the land and the dedication of the people; white for the sea, the purity of the country's aspirations, and equality; red for the sun, the vitality of the land, and the people's courage and friendliness<br>
 
 **National symbol(s)**<br>
 scarlet ibis (bird of Trinidad), cocrico (bird of Tobago), Chaconia flower; national colors: red, white, black<br>
+
+**National coat of arms**<br>
+Designed in 1962, Trinidad and Tobago&rsquo;s coat of arms shows the scarlet ibis (national bird of Trinidad) and the cocrico (national bird of Tobago). They support a shield displaying two hummingbirds, because Trinidad is home to 18 species of the bird and is called the &ldquo;Land of Hummingbirds.&rdquo; Three gold ships on a backdrop of national colors represent Christopher Columbus, who visited the islands. The three peaks in the lower left refer to Trinidad being named after the Holy Trinity and also represent a famous mountain. The image of a gold ship's wheel in front of a coconut palm was also used on the Great Seals of British Colonial Tobago. The gold helmet represents Queen Elizabeth II of England (ruler of the country at the time), and the national motto promotes harmony in diversity<br>
 
 **National anthem**<br>
 _name_: "Forged From the Love of Liberty"<br>
 _lyrics/music_: Patrick Stanislaus CASTAGNE<br>
 <strong>note:</strong> adopted 1962; song originally created to serve as an anthem for the West Indies Federation; adopted by Trinidad and Tobago following the Federation's dissolution in 1962<br>
-
-**National coat of arms**<br>
-Designed in 1962, Trinidad and Tobago&rsquo;s coat of arms shows the scarlet ibis (national bird of Trinidad) and the cocrico (national bird of Tobago). They support a shield displaying two hummingbirds, because Trinidad is home to 18 species of the bird and is called the &ldquo;Land of Hummingbirds.&rdquo; Three gold ships on a backdrop of national colors represent Christopher Columbus, who visited the islands. The three peaks in the lower left refer to Trinidad being named after the Holy Trinity and also represent a famous mountain. The image of a gold ship's wheel in front of a coconut palm was also used on the Great Seals of British Colonial Tobago. The gold helmet represents Queen Elizabeth II of England (ruler of the country at the time), and the national motto promotes harmony in diversity<br>
 
 ## Economy
 
@@ -600,11 +604,11 @@ Trinidad and Tobago Defense Force (TTDF): Trinidad and Tobago Regiment (Army/Lan
 <strong>note:</strong> the Ministry of National Security oversees both the TTDF and the TTPS<br>
 
 **Military expenditures**<br>
+0.9% of GDP (2024 est.)<br>
 1% of GDP (2023 est.)<br>
-1.1% of GDP (2022 est.)<br>
+1% of GDP (2022 est.)<br>
 1% of GDP (2021 est.)<br>
 1% of GDP (2020 est.)<br>
-1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 5,000 Defense Forces (2025)<br>

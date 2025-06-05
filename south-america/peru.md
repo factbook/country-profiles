@@ -191,7 +191,7 @@ _unimproved: total_: total: 6% of population (2020 est.)<br>
 1.69 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-1.6 beds/1,000 population (2017)<br>
+1.6 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 93.6% of population<br>
@@ -212,9 +212,9 @@ _spirits_: 2.26 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.01 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 8.1% (2020 est.)<br>
-_male_: 13.2% (2020 est.)<br>
-_female_: 3% (2020 est.)<br>
+_total_: 5.7% (2025 est.)<br>
+_male_: 9.5% (2025 est.)<br>
+_female_: 2.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 2.1% (2021)<br>
@@ -223,8 +223,8 @@ _female_: 3% (2020 est.)<br>
 51.2% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 2%<br>
-_women married by age 18_: 14.1% (2020 est.)<br>
+_women married by age 15_: 2% (2020)<br>
+_women married by age 18_: 14.1% (2020)<br>
 
 **Education expenditures**<br>
 4% of GDP (2021 est.)<br>
@@ -384,7 +384,7 @@ _email address and website_: <br>Webadmin@embassyofperu.us<br><br>Embassy of Per
 _consulate(s) general_: Atlanta, Boston, Chicago, Dallas, Denver, Hartford (CT), Houston, Los Angeles, Miami, New York, Paterson (NJ), San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Stephanie SYPTAK-RAMNATH (since 20 June 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Joan PERKINS (since 18 April 2025)<br>
 _embassy_: Avenida La Encalada, Cuadra 17 s/n, Surco, Lima 33<br>
 _mailing address_: 3230 Lima Place, Washington DC&nbsp; 20521-3230<br>
 _telephone_: [51] (1) 618-2000<br>
@@ -392,7 +392,7 @@ _FAX_: [51] (1) 618-2724<br>
 _email address and website_: <br>lima_webmaster@state.gov<br><br>https://pe.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal, vertical bands of red (hoist side), white, and red with the coat of arms centered in the white band; the coat of arms features a shield bearing a vicuna (representing fauna), a cinchona tree (the source of quinine, signifying flora), and a yellow cornucopia spilling out coins (denoting mineral wealth); red recalls blood shed for independence, white symbolizes peace<br>
+three equal vertical bands of red (hoist side), white, and red, with the coat of arms centered in the white band; the coat of arms has a shield with a vicuna (symbolizing fauna), a cinchona tree (the source of quinine, symbolizing flora), and a yellow cornucopia spilling out coins (symbolizing mineral wealth); red stands for blood shed for independence, and white for peace<br>
 
 **National symbol(s)**<br>
 vicuna (a camelid related to the llama); national colors: red, white<br>
@@ -639,7 +639,7 @@ _subscriptions per 100 inhabitants_: 122 (2022 est.)<br>
 .pe<br>
 
 **Internet users**<br>
-_percent of population_: 75% (2022 est.)<br>
+_percent of population_: 80% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3.53 million (2023 est.)<br>
@@ -680,11 +680,11 @@ _key ports_: Bahia de Matarani, Iquitos, Puerto del Callao, Talara<br>
 Armed Forces of Peru (Fuerzas Armadas del Perú or FAP): Peruvian Army (Ejercito del Peru), Peruvian Navy (Marina de Guerra del Peru, MGP, includes naval infantry and General Directorate of Captaincies and Coast Guards, DICAPI), Air Force of Peru (Fuerza Aerea del Peru, FAP)<br><br>Ministry of the Interior: Peruvian National Police (Policía Nacional del Perú, PNP) (2025)<br>
 
 **Military expenditures**<br>
+0.8% of GDP (2024 est.)<br>
 1% of GDP (2023 est.)<br>
 1.1% of GDP (2022 est.)<br>
 1.1% of GDP (2021 est.)<br>
 1.2% of GDP (2020 est.)<br>
-1.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 85,000 active-duty Armed Forces (50,000 Army; 25,000 Navy; 10,000 Air Force); approximately 75,000 National Police (2025)<br>

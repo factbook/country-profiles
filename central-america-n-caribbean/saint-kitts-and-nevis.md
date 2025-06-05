@@ -170,7 +170,7 @@ _unimproved: total_: total: 1.7% of population (2015 est.)<br>
 3.09 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-4.8 beds/1,000 population (2012)<br>
+4.3 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 87.3% of population<br>
@@ -189,9 +189,6 @@ _beer_: 3.73 liters of pure alcohol (2019 est.)<br>
 _wine_: 1.02 liters of pure alcohol (2019 est.)<br>
 _spirits_: 3.89 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.21 liters of pure alcohol (2019 est.)<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
 
 **Currently married women (ages 15-49)**<br>
 57.2% (2023 est.)<br>
@@ -336,10 +333,13 @@ _consulate(s) general_: Los Angeles, New York<br>
 _embassy_: the US does not have an embassy in Saint Kitts and Nevis; the US Ambassador to Barbados is accredited to Saint Kitts and Nevis<br>
 
 **Flag description**<br>
-divided diagonally from the lower hoist side by a broad black band bearing two white, five-pointed stars; the black band is edged in yellow; the upper triangle is green, the lower triangle is red; green signifies the island's fertility, red symbolizes the struggles of the people from slavery, yellow denotes year-round sunshine, and black represents the African heritage of the people; the white stars stand for the islands of Saint Kitts and Nevis, but can also express hope and liberty, or independence and optimism<br>
+divided diagonally from the lower hoist side by a broad black band with two five-pointed white stars; the black band is edged in yellow; the upper triangle is green, and the lower is red; green stands for the island's fertility, red for the struggles of the people from slavery, yellow for year-round sunshine, and black for the people's African heritage; the white stars stand for the islands of Saint Kitts and Nevis but can also express hope and liberty, or independence and optimism<br>
 
 **National symbol(s)**<br>
 brown pelican, royal poinciana (flamboyant) tree; national colors: green, yellow, red, black, white<br>
+
+**National coat of arms**<br>
+<p>The coat of arms of Saint Kitts and Nevis features a Carib who represents the original inhabitants of the islands, and a fleur-de-lis and rose that represent the French and English who arrived in the 1620s. The shield also features the poinciana (the national flower) and a traditional boat. Three hands hold the torch, which represents the quest for freedom: the hand of an African, a European, and a person of mixed ethnicity. Pelicans (the national bird) support the shield, with a sugarcane plant and a coconut tree that symbolize the land.</p><br>
 
 **National anthem**<br>
 _name_: "Oh Land of Beauty!"<br>
@@ -349,9 +349,6 @@ _lyrics/music_: Kenrick Anderson GEORGES<br>
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
 _selected World Heritage Site locales_: Brimstone Hill Fortress National Park<br>
-
-**National coat of arms**<br>
-<p>The coat of arms of Saint Kitts and Nevis features a Carib who represents the original inhabitants of the islands, and a fleur-de-lis and rose that represent the French and English who arrived in the 1620s. The shield also features the poinciana (the national flower) and a traditional boat. Three hands hold the torch, which represents the quest for freedom: the hand of an African, a European, and a person of mixed ethnicity. Pelicans (the national bird) support the shield, with a sugarcane plant and a coconut tree that symbolize the land.</p><br>
 
 ## Economy
 

@@ -301,8 +301,8 @@ _FAX_: [383] 38-604-890<br>
 _email address and website_: <br>PristinaACS@state.gov<br><br>https://xk.usembassy.gov/<br>
 
 **Flag description**<br>
-centered on a dark blue field is a gold-colored silhouette of Kosovo surmounted by six white, five-pointed stars arrayed in a slight arc; each star represents one of the major ethnic groups of Kosovo: Albanians, Serbs, Turks, Gorani, Roma, and Bosniaks<br>
-<strong>note:</strong> one of only two national flags that uses a map as a design element; the flag of Cyprus is the other<br>
+a dark blue field with a gold-colored silhouette of Kosovo in the center, with six five-pointed white stars in a slight arc over it; each star represents one of the major ethnic groups of Kosovo: Albanians, Serbs, Turks, Gorani, Roma, and Bosniaks<br>
+<strong>note:</strong> one of two national flags that uses a map as a design element; the flag of Cyprus is the other<br>
 
 **National symbol(s)**<br>
 six, five-pointed, white stars; national colors: blue, gold, white<br>
@@ -538,11 +538,11 @@ Kosovo Security Force (KSF; Forca e Sigurisë së Kosovës or FSK): Land Force, 
 <strong>note:</strong> the Kosovo Police are under the Ministry of Internal Affairs<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2024 est.)<br>
 1.3% of GDP (2023 est.)<br>
 1.1% of GDP (2022 est.)<br>
 1.1% of GDP (2021 est.)<br>
 1% of GDP (2020 est.)<br>
-0.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 3,300 Kosovo Security Forces, including about 800 reserves (2024)<br>

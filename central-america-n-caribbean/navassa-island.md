@@ -95,8 +95,6 @@ the flag of the US is used<br>
 
 ## Economy
 
-## Communications
-
 ## Transportation
 
 ## Military and Security

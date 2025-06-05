@@ -188,7 +188,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 3.63 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-6.9 beds/1,000 population (2017)<br>
+7.1 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 96.9% of population<br>
@@ -209,15 +209,16 @@ _spirits_: 2.25 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 28% (2020 est.)<br>
-_male_: 35.9% (2020 est.)<br>
-_female_: 20% (2020 est.)<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
+_total_: 26.7% (2025 est.)<br>
+_male_: 36.2% (2025 est.)<br>
+_female_: 17.9% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 54.8% (2023)<br>
+
+**Child marriage**<br>
+_women married by age 15_: 0.5% (2021)<br>
+_women married by age 18_: 6.9% (2021)<br>
 
 **Education expenditures**<br>
 3.7% of GDP (2020 est.)<br>
@@ -334,12 +335,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Interim President Ilie BOLOJAN (since 12 February 2025)<br>
+_chief of state_: President Nicușor DAN (since 26 May 2025)<br>
 _head of government_: Interim Prime Minister Catalin PREDOIU (since 6 May 2025)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held in November 2024, but results were annulled, with new election expected in May 2025; prime minister appointed by the president with consent of Parliament<br>
-_election results_: <em><br>2019: </em>Klaus IOHANNIS reelected president in second round; percent of vote - Klaus IOHANNIS (PNL) 66.1%, Viorica DANCILA (PSD) 33.9%<br><br><em>2014:</em> Klaus IOHANNIS elected president in second round; percent of vote - Klaus IOHANNIS (PNL) 54.4%, Victor PONTA (PSD) 45.6%<br>
-<strong>note: </strong>Romania's constitutional court has annulled the results of the most recent presidential election in November-December 2024, which resets the election cycle. A new election is expected in May 2025.<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held 18 May 2025; prime minister appointed by the president with consent of Parliament<br>
+_election results_: <em><br>2025: </em>Nicușor DAN elected president in runoff; percent of vote - Nicușor DAN (unaffiliated) 53.6%, George SIMION (AUR) 46.4%<em><br><br>2019: </em>Klaus IOHANNIS reelected president in second round; percent of vote - Klaus IOHANNIS (PNL) 66.1%, Viorica DANCILA (PSD) 33.9%<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament of Romania (Parlamentul României)<br>
@@ -395,7 +395,7 @@ _FAX_: [40] (21) 200-3442<br>
 _email address and website_: <br>ACSBucharest@state.gov<br><br>https://ro.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal vertical bands of cobalt blue (hoist side), chrome yellow, and vermilion red; modeled after the flag of France, the colors are those of the principalities of Walachia (red and yellow) and Moldavia (red and blue), which united in 1862 to form Romania; the national coat of arms that used to be centered in the yellow band has been removed<br>
+three equal vertical bands of blue (hoist side), yellow, and red; modeled after the flag of France, the colors are those of the principalities of Walachia (red and yellow) and Moldavia (red and blue), which united in 1862 to form Romania; the national coat of arms that used to be centered in the yellow band has been removed<br>
 <strong>note:</strong> now similar to the flag of Chad, whose blue band is darker; also resembles the flags of Andorra and Moldova<br>
 
 **National symbol(s)**<br>

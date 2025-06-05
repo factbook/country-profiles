@@ -184,7 +184,7 @@ _unimproved: total_: total: 3.1% of population (2020 est.)<br>
 1.11 physicians/1,000 population (2021)<br>
 
 **Hospital bed density**<br>
-3.2 beds/1,000 population (2013)<br>
+2.6 beds/1,000 population (2017 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 98.7% of population<br>
@@ -205,9 +205,9 @@ _spirits_: 0.21 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 24.8% (2020 est.)<br>
-_male_: 47.4% (2020 est.)<br>
-_female_: 2.2% (2020 est.)<br>
+_total_: 22% (2025 est.)<br>
+_male_: 43.1% (2025 est.)<br>
+_female_: 2.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 11.6% (2020)<br>
@@ -216,9 +216,9 @@ _female_: 2.2% (2020 est.)<br>
 72.6% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 1.1%<br>
-_women married by age 18_: 14.6%<br>
-_men married by age 18_: 1.9% (2021 est.)<br>
+_women married by age 15_: 1.1% (2021)<br>
+_women married by age 18_: 14.6% (2021)<br>
+_men married by age 18_: 1.9% (2021)<br>
 
 **Education expenditures**<br>
 4.1% of GDP (2020 est.)<br>
@@ -380,7 +380,7 @@ _email address and website_: <br>ACShanoi@state.gov<br><br>https://vn.usembassy.
 _consulate(s) general_: Ho Chi Minh City<br>
 
 **Flag description**<br>
-red field with a large yellow five-pointed star in the center; red symbolizes revolution and blood, the five-pointed star represents the five elements of the populace - peasants, workers, intellectuals, traders, and soldiers - that unite to build socialism<br>
+red field with a five-pointed yellow star in the center; red stands for revolution and blood, and the five-pointed star for the five elements of the populace -- peasants, workers, intellectuals, traders, and soldiers -- that unite to build socialism<br>
 
 **National symbol(s)**<br>
 yellow, five-pointed star on red field; lotus blossom; national colors: red, yellow<br>

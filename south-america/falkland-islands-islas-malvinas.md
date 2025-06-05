@@ -241,18 +241,18 @@ none (administered by the UK; claimed by Argentina)<br>
 _embassy_: none (administered by the UK; claimed by Argentina)<br>
 
 **Flag description**<br>
-blue with the flag of the UK in the upper hoist-side quadrant and the Falkland Island coat of arms centered on the outer half of the flag; the coat of arms contains a white ram (sheep raising was once the major economic activity) above the sailing ship Desire (whose crew discovered the islands) with a scroll at the bottom bearing the motto DESIRE THE RIGHT<br>
+blue with the UK flag in the upper hoist-side quadrant and the Falkland Island coat of arms centered on the outer half of the flag; the coat of arms has a white ram above the ship Desire (whose crew discovered the islands), with a scroll at the bottom bearing the motto DESIRE THE RIGHT<br>
 
 **National symbol(s)**<br>
 ram<br>
+
+**National coat of arms**<br>
+<p>The Falkland Islands adopted its coat of arms in 1948. The shield highlights the national symbol, the ram, which represents the country’s agricultural industry and stands on native tussock grass. English navigator John Davis’s sailing vessel, the <em>Desire</em>,<em> </em>is shown, referencing his sighting of the islands in 1592. Below the shield is the Falklands’ motto, “Desire the Right.”</p><br>
 
 **National anthem**<br>
 _name_: "Song of the Falklands"<br>
 _lyrics/music_: Christopher LANHAM<br>
 <strong>note:</strong> adopted 1930s; the song is the local unofficial anthem; as a territory of the United Kingdom, "God Save the King" is official (see United Kingdom)<br>
-
-**National coat of arms**<br>
-<p>The Falkland Islands adopted its coat of arms in 1948. The shield highlights the national symbol, the ram, which represents the country’s agricultural industry and stands on native tussock grass. English navigator John Davis’s sailing vessel, the <em>Desire</em>,<em> </em>is shown, referencing his sighting of the islands in 1592. Below the shield is the Falklands’ motto, “Desire the Right.”</p><br>
 
 ## Economy
 

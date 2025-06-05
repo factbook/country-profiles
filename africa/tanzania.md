@@ -190,7 +190,7 @@ _unimproved: total_: total: 28% of population (2020 est.)<br>
 0.13 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-0.7 beds/1,000 population<br>
+0.6 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 89.4% of population<br>
@@ -211,9 +211,9 @@ _spirits_: 0.38 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 6.6 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 8.7% (2020 est.)<br>
-_male_: 14% (2020 est.)<br>
-_female_: 3.4% (2020 est.)<br>
+_total_: 6.5% (2025 est.)<br>
+_male_: 11.3% (2025 est.)<br>
+_female_: 2% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 12.1% (2022)<br>
@@ -222,9 +222,9 @@ _female_: 3.4% (2020 est.)<br>
 59.5% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 5.2%<br>
-_women married by age 18_: 30.5%<br>
-_men married by age 18_: 3.9% (2016 est.)<br>
+_women married by age 15_: 5.2% (2022)<br>
+_women married by age 18_: 29.1% (2022)<br>
+_men married by age 18_: 3.5% (2022)<br>
 
 **Education expenditures**<br>
 3.3% of GDP (2021 est.)<br>
@@ -391,7 +391,7 @@ _FAX_: [255] (22) 229-4721<br>
 _email address and website_: <br>DRSACS@state.gov<br><br>https://tz.usembassy.gov/<br>
 
 **Flag description**<br>
-divided diagonally by a yellow-edged black band from the lower hoist-side corner; the upper triangle (hoist side) is green and the lower triangle is blue; the banner combines colors found on the flags of Tanganyika and Zanzibar; green represents the natural vegetation of the country, gold its rich mineral deposits, black the native Swahili people, and blue the country's many lakes and rivers, as well as the Indian Ocean<br>
+divided diagonally by a yellow-edged black band from the lower hoist-side corner; the upper triangle (hoist side) is green, and the lower is blue; combines colors from the flags of Tanganyika and Zanzibar; green stands for natural vegetation, gold for rich mineral deposits, black for the Swahili people, and blue for lakes and rivers, as well as the Indian Ocean<br>
 
 **National symbol(s)**<br>
 Uhuru (Freedom) torch, giraffe; national colors: green, yellow, blue, black<br>

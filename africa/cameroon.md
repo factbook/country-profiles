@@ -187,7 +187,7 @@ _unimproved: total_: total: 21.4% of population (2020 est.)<br>
 0.14 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-1.3 beds/1,000 population<br>
+2.6 beds/1,000 population (2016 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 83.2% of population<br>
@@ -208,9 +208,9 @@ _spirits_: 0.01 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 1.56 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 7.3% (2020 est.)<br>
-_male_: 13.2% (2020 est.)<br>
-_female_: 1.4% (2020 est.)<br>
+_total_: 5% (2025 est.)<br>
+_male_: 9.2% (2025 est.)<br>
+_female_: 0.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 11% (2018/19)<br>
@@ -219,9 +219,9 @@ _female_: 1.4% (2020 est.)<br>
 54.2% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 10.7%<br>
-_women married by age 18_: 29.8%<br>
-_men married by age 18_: 2.9% (2018 est.)<br>
+_women married by age 15_: 10.7% (2018)<br>
+_women married by age 18_: 29.8% (2018)<br>
+_men married by age 18_: 2.9% (2018)<br>
 
 **Education expenditures**<br>
 3.2% of GDP (2020 est.)<br>
@@ -682,11 +682,11 @@ Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army, Cameroon Navy (i
 <strong>note 1:</strong> the Army includes the Rapid Intervention Brigade (Brigade d’Intervention Rapide or BIR), which maintains its own command and control structure and reports directly to the Chief of Defense staff and the Presidency; the BIR includes airborne/airmobile, amphibious, armored reconnaissance, artillery, and counterterrorism forces, as well as support elements, such as intelligence <br><br><strong>note 2:</strong> the Cameroon Police and the National Gendarmerie are responsible for internal security; the Gendarmerie conducts administrative, criminal, and military investigative functions; other missions include customs, air and maritime surveillance, and road traffic control; in times of conflict, it participates in internal defense<br>
 
 **Military expenditures**<br>
+1% of GDP (2024 est.)<br>
 1% of GDP (2023 est.)<br>
 1% of GDP (2022 est.)<br>
 1% of GDP (2021 est.)<br>
 1% of GDP (2020 est.)<br>
-1.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 40-50,000 active FAC, including the Gendarmerie (2025)<br>

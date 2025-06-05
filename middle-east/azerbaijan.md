@@ -184,7 +184,7 @@ _unimproved: total_: total: 2.9% of population (2020 est.)<br>
 3.19 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-4.8 beds/1,000 population (2014)<br>
+3.9 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -205,9 +205,9 @@ _spirits_: 0.94 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.01 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 24% (2020 est.)<br>
-_male_: 47.9% (2020 est.)<br>
-_female_: 0.1% (2020 est.)<br>
+_total_: 18.4% (2025 est.)<br>
+_male_: 37.9% (2025 est.)<br>
+_female_: 0.1% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 62.9% (2023 est.)<br>
@@ -632,11 +632,11 @@ Azerbaijan Armed Forces: Land Forces, Air Forces, Navy Forces, Special Forces, S
 <strong>note:</strong> the Ministry of Internal Affairs and the State Security Service (intelligence, counterterrorism) are responsible for internal security; the SSPS is under the president and provides protective services to senior officials, foreign missions, significant state assets, government buildings, etc; the National Guard also serves as a reserve for the Army<br>
 
 **Military expenditures**<br>
+5.1% of GDP (2024 est.)<br>
 4.5% of GDP (2023 est.)<br>
 4.5% of GDP (2022 est.)<br>
 5% of GDP (2021 est.)<br>
 5% of GDP (2020 est.)<br>
-3.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies widely; estimated 100,000 active Armed Forces personnel (2025)<br>

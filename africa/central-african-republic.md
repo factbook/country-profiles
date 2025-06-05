@@ -181,9 +181,6 @@ _unimproved: total_: total: 37.1% of population (2020 est.)<br>
 **Physician density**<br>
 0.07 physicians/1,000 population (2023)<br>
 
-**Hospital bed density**<br>
-1 beds/1,000 population (2011)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 53.8% of population<br>
 _improved: rural_: rural: 12.4% of population<br>
@@ -209,9 +206,9 @@ _other alcohols_: 0.33 liters of pure alcohol (2019 est.)<br>
 64.7% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 25.8%<br>
-_women married by age 18_: 61%<br>
-_men married by age 18_: 17.1% (2019 est.)<br>
+_women married by age 15_: 25.8% (2019)<br>
+_women married by age 18_: 61% (2019)<br>
+_men married by age 18_: 17.1% (2019)<br>
 
 **Education expenditures**<br>
 2.2% of GDP (2020 est.)<br>
@@ -611,11 +608,11 @@ Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includ
 <strong>note: </strong>the Special Republican Protection Group (Groupement Spécial Chargé de la Protection Républicaine or GSPR) provides protection to the head of state; it is part of the Army but reports to the president<br>
 
 **Military expenditures**<br>
+2.5% of GDP (2024 est.)<br>
 1.8% of GDP (2023 est.)<br>
 1.7% of GDP (2022 est.)<br>
 1.8% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
-1.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 10-15,000 active FACA (2025)<br>

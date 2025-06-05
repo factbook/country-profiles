@@ -185,7 +185,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 3.61 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-2.6 beds/1,000 population (2019)<br>
+2.7 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -206,9 +206,9 @@ _spirits_: 1.62 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 1.26 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 13.7% (2020 est.)<br>
-_male_: 15% (2020 est.)<br>
-_female_: 12.3% (2020 est.)<br>
+_total_: 10% (2025 est.)<br>
+_male_: 11.2% (2025 est.)<br>
+_female_: 8.9% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 57.6% (2023 est.)<br>
@@ -335,7 +335,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 3 years<br>
 _most recent election date_: 10/14/2023<br>
 _parties elected and seats per party_: National Party (49); Labour Party (34); Green Party (15); ACT New Zealand (11); New Zealand First (8); Other (6)<br>
-_percentage of women in chamber_: 45.5%<br>
+_percentage of women in chamber_: 46.3%<br>
 _expected date of next election_: September 2026<br>
 
 **Judicial branch**<br>
@@ -367,10 +367,13 @@ _email address and website_: <br>AucklandACS@state.gov<br><br>https://nz.usembas
 _consulate(s) general_: Auckland<br>
 
 **Flag description**<br>
-blue with the flag of the UK in the upper hoist-side quadrant with four red five-pointed stars edged in white centered in the outer half of the flag; the stars represent the Southern Cross constellation<br>
+blue with the UK flag in the upper hoist-side quadrant, with four red five-pointed stars edged in white centered in the outer half of the flag; the stars represent the Southern Cross constellation<br>
 
 **National symbol(s)**<br>
 Southern Cross constellation (four, five-pointed stars), kiwi (bird), silver fern; national colors: black, white, red (ochre)<br>
+
+**National coat of arms**<br>
+The first quarter of the shield shows four stars that represent the Southern Cross constellation and three ships that symbolize New Zealand's sea trade. In the second quarter, a fleece represents the sheep farming industry. The wheat sheaf in the third quarter represents the agricultural industry, and the crossed hammers in the fourth quarter represent mining. On either side of the shield are a Māori chieftain holding a <em>taiaha </em>(a Māori war weapon) and a European woman holding the New Zealand flag. St Edward's Crown, shown above the shield, symbolizes the British monarch.<br>
 
 **National anthem**<br>
 _name_: "God Defend New Zealand"<br>
@@ -380,9 +383,6 @@ _lyrics/music_: Thomas BRACKEN [English], Thomas Henry SMITH [Maori]/John Joseph
 **National heritage**<br>
 _total World Heritage Sites_: 3 (2 natural, 1 mixed)<br>
 _selected World Heritage Site locales_: Te Wahipounamu – South West New Zealand (n); Tongariro National Park (m); New Zealand Sub-Antarctic Islands (n)<br>
-
-**National coat of arms**<br>
-The first quarter of the shield shows four stars that represent the Southern Cross constellation and three ships that symbolize New Zealand's sea trade. In the second quarter, a fleece represents the sheep farming industry. The wheat sheaf in the third quarter represents the agricultural industry, and the crossed hammers in the fourth quarter represent mining. On either side of the shield are a Māori chieftain holding a <em>taiaha </em>(a Māori war weapon) and a European woman holding the New Zealand flag. St Edward's Crown, shown above the shield, symbolizes the British monarch.<br>
 
 ## Economy
 

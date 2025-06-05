@@ -82,8 +82,6 @@ _etymology_: named by Portuguese explorer Ferdinand MAGELLAN while circumnavigat
 
 ## Economy
 
-## Communications
-
 ## Transportation
 
 ## Military and Security

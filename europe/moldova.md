@@ -183,7 +183,7 @@ _unimproved: total_: total: 7.9% of population (2020 est.)<br>
 4.02 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-5.7 beds/1,000 population (2014)<br>
+5.7 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99% of population<br>
@@ -204,9 +204,9 @@ _spirits_: 2.25 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.1 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 29% (2020 est.)<br>
-_male_: 51.7% (2020 est.)<br>
-_female_: 6.2% (2020 est.)<br>
+_total_: 28.7% (2025 est.)<br>
+_male_: 54.2% (2025 est.)<br>
+_female_: 6.4% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 67% (2023 est.)<br>
@@ -370,8 +370,8 @@ _FAX_: [373] (22) 233-044<br>
 _email address and website_: <br>ChisinauACS@state.gov<br><br>https://md.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal vertical bands of Prussian blue (hoist side), chrome yellow, and vermilion red; emblem in center of flag is of a Roman eagle of dark gold (brown) outlined in black with a red beak and talons carrying a yellow cross in its beak and a green olive branch in its right talons and a yellow scepter in its left talons; on its breast is a shield divided horizontally red over blue with a stylized aurochs head, star, rose, and crescent all in black-outlined yellow; based on the color scheme of the flag of Romania - with which Moldova shares a history and culture - but Moldova's blue band is lighter; the reverse of the flag displays a mirrored image of the coat of arms<br>
-<strong>note:</strong> one of only three national flags that differ on their obverse and reverse sides - the others are Paraguay and Saudi Arabia<br>
+three equal vertical bands of Prussian blue (hoist side), chrome yellow, and vermilion red; emblem in center of flag is a Roman eagle of dark gold outlined in black, with a red beak and talons; the eagle carries a yellow cross in its beak, a green olive branch in its right talons, and a yellow scepter in its left talons; on the eagle's breast is a red-and-blue shield divided horizontally, with a stylized aurochs head, star, rose, and crescent in black and outlined yellow; colors are based on the Romanian flag, but Moldova's blue band is lighter; the reverse of the flag displays a mirror image of the coat of arms<br>
+<strong>note:</strong> one of three national flags that differ on their obverse and reverse sides -- the others are Paraguay and Saudi Arabia<br>
 
 **National symbol(s)**<br>
 aurochs (a type of wild cattle); national colors: blue, yellow, red<br>
@@ -605,7 +605,7 @@ state-owned national radio-TV broadcaster operates 1 TV and 1 radio station; tot
 .md<br>
 
 **Internet users**<br>
-_percent of population_: 64% (2022 est.)<br>
+_percent of population_: 80% (2023 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 841,000 (2023 est.)<br>
@@ -638,8 +638,8 @@ Armed Forces of the Republic of Moldova (Forțele Armate ale Republicii Moldova)
 <strong>note:</strong> the Carabinieri is a quasi-militarized gendarmerie responsible for protecting public buildings, maintaining public order, and other national security functions; the GPI is the primary law enforcement body, responsible for internal security, public order, traffic, and criminal investigations<br>
 
 **Military expenditures**<br>
-0.5% of GDP (2024 est.)<br>
-0.5% of GDP (2023 est.)<br>
+0.6% of GDP (2024 est.)<br>
+0.6% of GDP (2023 est.)<br>
 0.4% of GDP (2022 est.)<br>
 0.4% of GDP (2021 est.)<br>
 0.4% of GDP (2020 est.)<br>

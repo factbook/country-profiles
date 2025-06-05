@@ -178,7 +178,7 @@ _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 3.37 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-4.4 beds/1,000 population (2018)<br>
+4.2 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
@@ -199,12 +199,9 @@ _spirits_: 1.26 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 22% (2020 est.)<br>
-_male_: 24.4% (2020 est.)<br>
-_female_: 19.6% (2020 est.)<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
+_total_: 17.3% (2025 est.)<br>
+_male_: 19.3% (2025 est.)<br>
+_female_: 15.3% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 46.4% (2023 est.)<br>
@@ -379,7 +376,7 @@ _FAX_: [386] (1) 200-5555<br>
 _email address and website_: <br>LjubljanaACS@state.gov<br><br>https://si.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal bands of white (top), blue, and red, derive from the medieval coat of arms of the Duchy of Carniola; the Slovenian seal (a shield with the image of Triglav, Slovenia's highest peak, in white against a blue background at the center; beneath it are two wavy blue lines depicting seas and rivers, and above it are three six-pointed stars arranged in an inverted triangle, which are taken from the coat of arms of the Counts of Celje, the prominent Slovene dynastic house of the late 14th and early 15th centuries) appears in the upper hoist side of the flag centered on the white and blue bands<br>
+three equal horizontal bands of white (top), blue, and red that come from the medieval coat of arms of the Duchy of Carniola; the Slovenian seal (a shield with Triglav, Slovenia's highest peak, in white on a blue background) is at the center, with two wavy blue lines under it to represent seas and rivers; three six-pointed stars in an inverted triangle appear on the upper hoist side of the flag and are taken from the coat of arms of the Counts of Celje (a Slovene dynastic house)<br>
 
 **National symbol(s)**<br>
 Mount Triglav; national colors: white, blue, red<br>

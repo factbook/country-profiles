@@ -177,7 +177,7 @@ _unimproved: total_: total: 0.9% of population (2020 est.)<br>
 1.36 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-3 beds/1,000 population (2017)<br>
+2.9 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 98.5% of population<br>
@@ -204,9 +204,9 @@ _other alcohols_: 0.18 liters of pure alcohol (2019 est.)<br>
 52.1% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 8.8%<br>
-_women married by age 18_: 36%<br>
-_men married by age 18_: 19.6% (2018 est.)<br>
+_women married by age 15_: 8.8% (2018)<br>
+_women married by age 18_: 36% (2018)<br>
+_men married by age 18_: 19.6% (2018)<br>
 
 **Education expenditures**<br>
 5% of GDP (2020 est.)<br>
@@ -322,10 +322,9 @@ _number of seats_: 51 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 5/25/2020<br>
-_parties elected and seats per party_: Progressive Reform Party (VHP) (20); National Democratic Party (NDP) (16); General Liberation and Development Party (ABOP) (8); National Party of Suriname (NPS) (3); Other (4)<br>
+_most recent election date_: 5/25/2025<br>
 _percentage of women in chamber_: 31.4%<br>
-_expected date of next election_: May 2025<br>
+_expected date of next election_: May 2030<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court of Justice of Suriname (consists of the court president, vice president, and 4 judges)<br>
@@ -356,7 +355,7 @@ _FAX_: [597] 551-524<br>
 _email address and website_: <br>caparamar@state.gov<br><br>https://sr.usembassy.gov/<br>
 
 **Flag description**<br>
-five horizontal bands of green (top, double width), white, red (quadruple width), white, and green (double width); a large, yellow, five-pointed star is centered in the red band; red stands for progress and love, green symbolizes hope and fertility, white signifies peace, justice, and freedom; the star represents the unity of all ethnic groups; from its yellow light the nation draws strength to bear sacrifices patiently while working toward a golden future<br>
+five horizontal bands of green (top, double-width), white, red (quadruple-width), white, and green (double-width); a five-pointed yellow star is centered in the red band; red stands for progress and love, green for hope and fertility, and white for peace, justice, and freedom; the star represents the unity of ethnic groups<br>
 
 **National symbol(s)**<br>
 royal palm, faya lobi (flower); national colors: green, white, red, yellow<br>

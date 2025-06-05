@@ -187,7 +187,7 @@ _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 3.1 physicians/1,000 population (2022)<br>
 
 **Hospital bed density**<br>
-5.6 beds/1,000 population (2017)<br>
+5.4 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.6% of population<br>
@@ -208,9 +208,9 @@ _spirits_: 2.37 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.22 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 39.8% (2020 est.)<br>
-_male_: 40.5% (2020 est.)<br>
-_female_: 39.1% (2020 est.)<br>
+_total_: 36% (2025 est.)<br>
+_male_: 37.8% (2025 est.)<br>
+_female_: 34.5% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 1% (2019)<br>
@@ -219,8 +219,8 @@ _female_: 39.1% (2020 est.)<br>
 60.8% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 1.2%<br>
-_women married by age 18_: 5.5% (2019 est.)<br>
+_women married by age 15_: 1.2% (2019)<br>
+_women married by age 18_: 5.5% (2019)<br>
 
 **Education expenditures**<br>
 3.6% of GDP (2019 est.)<br>
@@ -386,8 +386,8 @@ _FAX_: [381] (11) 706-4481<br>
 _email address and website_: <br>belgradeacs@state.gov<br><br>https://rs.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal horizontal stripes of red (top), blue, and white - the Pan-Slav colors representing freedom and revolutionary ideals; charged with the coat of arms of Serbia shifted slightly to the hoist side; the principal field of the coat of arms represents the Serbian state and displays a white two-headed eagle on a red shield; a smaller red shield on the eagle represents the Serbian nation, and is divided into four quarters by a white cross; interpretations vary as to the meaning and origin of the white, curved symbols resembling firesteels (fire strikers) or Cyrillic "C's" in each quarter; a royal crown surmounts the coat of arms<br>
-<strong>note:</strong> the Pan-Slav colors were inspired by the 19th-century flag of Russia<br>
+three equal horizontal stripes of red (top), blue, and white, which are the pan-Slav colors representing freedom and revolutionary ideals; the national coat of arms is shifted slightly to the hoist side; the principal field of the coat of arms represents the government and displays a two-headed white eagle on a red shield; a smaller red shield on the eagle represents the nation and is divided into four quarters by a white cross; the meaning and origin of the curved white symbols in each quarter are not clear; a royal crown is on top of the coat of arms<br>
+<strong>note:</strong> the pan-Slav colors were inspired by Russia's flag<br>
 
 **National symbol(s)**<br>
 white double-headed eagle; national colors: red, blue, white<br>
@@ -656,11 +656,11 @@ Serbian Armed Forces (Vojska Srbije, VS): Army (aka Land Forces; includes Riveri
 <strong>note:</strong> the Serbian Guard is a brigade-sized unit that is directly subordinate to the Serbian Armed Forces Chief of General Staff; its duties include safeguarding key defense facilities and rendering military honors to top foreign, state, and military officials <br><br>
 
 **Military expenditures**<br>
+2.5% of GDP (2024 est.)<br>
 2.4% of GDP (2023 est.)<br>
 2.2% of GDP (2022 est.)<br>
 2.2% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
-2.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active-duty Armed Forces (15,000 Land Forces; 5,000 Air/Air Defense; 5,000 other, including Serbian Guard) (2025)<br>
