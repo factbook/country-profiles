@@ -171,8 +171,9 @@ _unimproved: urban_: urban: 1.1% of population<br>
 _unimproved: rural_: rural: 3% of population<br>
 _unimproved: total_: total: 1.5% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-13.8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 13.8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 21% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 9.54 physicians/1,000 population (2021)<br>
@@ -214,14 +215,14 @@ _women married by age 15_: 4.8% (2019)<br>
 _women married by age 18_: 29.4% (2019)<br>
 _men married by age 18_: 5.9% (2019)<br>
 
-**Education expenditures**<br>
-NA<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 8.4% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 17% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 99.7%<br>
-_male_: 99.6%<br>
-_female_: 99.7% (2021)<br>
+_total population_: 97.7% (2019 est.)<br>
+_male_: 99% (2019 est.)<br>
+_female_: 96.4% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -295,12 +296,6 @@ _etymology_: Spanish soldier Diego VELAZQUEZ named the city San Cristobal de la 
 **Administrative divisions**<br>
 15 provinces (provincias, singular - provincia) and 1 special municipality* (municipio especial); Artemisa, Camaguey, Ciego de Avila, Cienfuegos, Granma, Guantanamo, Holguin, Isla de la Juventud*, La Habana (Havana), Las Tunas, Matanzas, Mayabeque, Pinar del R&iacute;o, Sancti Spiritus, Santiago de Cuba, Villa Clara<br>
 
-**Independence**<br>
-20 May 1902 (from Spain 10 December 1898; administered by the US from 1898 to 1902); not acknowledged by the Cuban Government as a day of independence<br>
-
-**National holiday**<br>
-Triumph of the Revolution (Liberation Day), 1 January (1959)<br>
-
 **Legal system**<br>
 civil law system based on Spanish civil code<br>
 
@@ -347,9 +342,6 @@ _subordinate courts_: People's Provincial Courts; People's Regional Courts; Peop
 **Political parties**<br>
 Cuban Communist Party or PCC<br>
 
-**International organization participation**<br>
-ACP, ACS, ALBA, AOSIS, CABEI, CELAC, EAEU (observer), FAO, G-77, IAEA, ICAO, ICC (national committees), ICRM, IFAD, IFRCS, IHO, ILO, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAES, LAIA, NAM, OAS (excluded from formal participation since 1962), OPANAL, OPCW, PCA, Petrocaribe, PIF (partner), UN, UNCTAD, UNESCO, UNHRC, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Lianys TORRES RIVERA (since 14 January 2021)<br>
 _chancery_: 2630 16th Street NW, Washington, DC 20009<br>
@@ -365,12 +357,24 @@ _telephone_: [53] (7) 839-4100<br>
 _FAX_: [53] (7) 839-4247<br>
 _email address and website_: <br>acshavana@state.gov<br><br>https://cu.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, ACS, ALBA, AOSIS, CABEI, CELAC, EAEU (observer), FAO, G-77, IAEA, ICAO, ICC (national committees), ICRM, IFAD, IFRCS, IHO, ILO, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAES, LAIA, NAM, OAS (excluded from formal participation since 1962), OPANAL, OPCW, PCA, Petrocaribe, PIF (partner), UN, UNCTAD, UNESCO, UNHRC, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+20 May 1902 (from US administration); 10 December 1898 (from Spain); not acknowledged by the Cuban Government as days of independence<br>
+
+**National holiday**<br>
+Triumph of the Revolution (Liberation Day), 1 January (1959)<br>
+
 **Flag description**<br>
 five equal horizontal bands of blue (top, center, and bottom) alternating with white; a red equilateral triangle based on the hoist side has a white, five-pointed star in the center; the blue bands refer to the three former divisions of the island: central, occidental, and oriental; the white bands stand for the purity of the independence ideal; the triangle symbolizes liberty, equality, and fraternity; the red color stands for the blood shed in the independence struggle; the white star, called La Estrella Solitaria (the Lone Star) lights the way to freedom and was inspired by the flag of Texas<br>
 <strong>note:</strong> design similar to the Puerto Rican flag, with the colors of the bands and triangle reversed<br>
 
 **National symbol(s)**<br>
-royal palm; national colors: red, white, blue<br>
+royal palm<br>
+
+**National colors**<br>
+red, white, blue<br>
 
 **National anthem**<br>
 _name_: "La Bayamesa" (The Bayamo Song)<br>

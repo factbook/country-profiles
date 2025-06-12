@@ -177,8 +177,9 @@ _unimproved: urban_: urban: 0.8% of population<br>
 _unimproved: rural_: rural: 4.5% of population<br>
 _unimproved: total_: total: 3.1% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-4.6% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 4.6% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 10.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.11 physicians/1,000 population (2021)<br>
@@ -220,14 +221,14 @@ _women married by age 15_: 1.1% (2021)<br>
 _women married by age 18_: 14.6% (2021)<br>
 _men married by age 18_: 1.9% (2021)<br>
 
-**Education expenditures**<br>
-4.1% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.9% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 15.4% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 95.8%<br>
-_male_: 97%<br>
-_female_: 94.6% (2019)<br>
+_total population_: 96% (2022 est.)<br>
+_male_: 97% (2022 est.)<br>
+_female_: 95% (2022 est.)<br>
 
 ## Environment
 
@@ -304,12 +305,6 @@ _etymology_: the name means "inside the river," from the Vietnamese words <em>ha
 **Administrative divisions**<br>
 <p>58 provinces (tinh, singular and plural) and 5 municipalities (thanh pho, singular and plural)</p> <p><strong>provinces:</strong> An Giang, Bac Giang, Bac Kan, Bac Lieu, Bac Ninh, Ba Ria-Vung Tau, Ben Tre, Binh Dinh, Binh Duong, Binh Phuoc, Binh Thuan, Ca Mau, Cao Bang, Dak Lak, Dak Nong, Dien Bien, Dong Nai, Dong Thap, Gia Lai, Ha Giang, Ha Nam, Ha Tinh, Hai Duong, Hau Giang, Hoa Binh, Hung Yen, Khanh Hoa, Kien Giang, Kon Tum, Lai Chau, Lam Dong, Lang Son, Lao Cai, Long An, Nam Dinh, Nghe An, Ninh Binh, Ninh Thuan, Phu Tho, Phu Yen, Quang Binh, Quang Nam, Quang Ngai, Quang Ninh, Quang Tri, Soc Trang, Son La, Tay Ninh, Thai Binh, Thai Nguyen, Thanh Hoa, Thua Thien-Hue, Tien Giang, Tra Vinh, Tuyen Quang, Vinh Long, Vinh Phuc, Yen Bai</p> <p><strong>municipalities:</strong> Can Tho, Da Nang, Ha Noi (Hanoi), Hai Phong, Ho Chi Minh City (Saigon)</p><br>
 
-**Independence**<br>
-2 September 1945 (from France)<br>
-
-**National holiday**<br>
-Independence Day (National Day), 2 September (1945)<br>
-
 **Legal system**<br>
 civil law system with European influences<br>
 
@@ -358,9 +353,6 @@ _subordinate courts_: High Courts (administrative, civil, criminal, economic, la
 Communist Party of Vietnam or CPV<br>
 <strong>note:</strong>  other parties proscribed<br>
 
-**International organization participation**<br>
-ADB, APEC, ARF, ASEAN, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (2024)<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Nguyen Quoc DZUNG (since 19 April 2022)<br>
 _chancery_: 1233 20th Street NW, Suite 400, Washington, DC 20036<br>
@@ -379,11 +371,23 @@ _FAX_: [84] (24) 3850-5010<br>
 _email address and website_: <br>ACShanoi@state.gov<br><br>https://vn.usembassy.gov/<br>
 _consulate(s) general_: Ho Chi Minh City<br>
 
+**International organization participation**<br>
+ADB, APEC, ARF, ASEAN, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (2024)<br>
+
+**Independence**<br>
+2 September 1945 (from France)<br>
+
+**National holiday**<br>
+Independence Day (National Day), 2 September (1945)<br>
+
 **Flag description**<br>
 red field with a five-pointed yellow star in the center; red stands for revolution and blood, and the five-pointed star for the five elements of the populace -- peasants, workers, intellectuals, traders, and soldiers -- that unite to build socialism<br>
 
 **National symbol(s)**<br>
-yellow, five-pointed star on red field; lotus blossom; national colors: red, yellow<br>
+five-pointed yellow star on a red field, lotus blossom<br>
+
+**National colors**<br>
+red, yellow<br>
 
 **National anthem**<br>
 _name_: "Tien quan ca" (The Song of the Marching Troops)<br>

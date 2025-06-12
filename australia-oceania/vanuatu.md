@@ -169,8 +169,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 10.3% of population<br>
 _unimproved: total_: total: 7.7% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-4.4% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 4.4% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 3.9% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.16 physicians/1,000 population (2019)<br>
@@ -201,14 +202,14 @@ _female_: 2.6% (2020 est.)<br>
 **Currently married women (ages 15-49)**<br>
 69.2% (2023 est.)<br>
 
-**Education expenditures**<br>
-2.2% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 10.6% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 20.9% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 89.1%<br>
-_male_: 89.8%<br>
-_female_: 88.4% (2021)<br>
+_total population_: 88% (2023 est.)<br>
+_male_: 87.7% (2023 est.)<br>
+_female_: 88.2% (2023 est.)<br>
 
 ## Environment
 
@@ -269,12 +270,6 @@ _etymology_: the local name of Vila is sometimes used alone for the the port tow
 **Administrative divisions**<br>
 6 provinces; Malampa, Penama, Sanma, Shefa, Tafea, Torba<br>
 
-**Independence**<br>
-30 July 1980 (from France and the UK)<br>
-
-**National holiday**<br>
-Independence Day, 30 July (1980)<br>
-
 **Legal system**<br>
 mixed system of English common law, French law, and customary law<br>
 
@@ -322,9 +317,6 @@ _subordinate courts_: Magistrates Courts; Island Courts<br>
 **Political parties**<br>
 Iauko Group (Eagle Party) or IG <br>Land and Justice Party (Graon mo Jastis Pati or GJP) <br>Leaders Party of Vanuatu or LPV <br>Rural Development Party or RDP <br>Reunification of Movement for Change or RMC <br>Union of Moderate Parties or UMP<br>Vanua'aku Pati (Our Land Party) or VP<br>
 
-**International organization participation**<br>
-ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IOM, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIF, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Odo TEVI (since 8 September 2017)<br>note - also Permanent Representative to the UN<br>
 _chancery_: 800 Second Avenue, Suite 400B, New York, NY 10017<br>
@@ -337,12 +329,24 @@ note - the Vanuatu Permanent Mission to the UN serves as the embassy<br>
 _chief of mission_: Ambassador Ann Marie YASTISHOCK (since 16 April 2024); note - also accredited to the Papua New Guinea and the Solomon Islands, based in Port Moresby, Papua New Guinea<br>
 _embassy_: Port Vila<br>
 
+**International organization participation**<br>
+ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IOM, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIF, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+30 July 1980 (from France and the UK)<br>
+
+**National holiday**<br>
+Independence Day, 30 July (1980)<br>
+
 **Flag description**<br>
 two equal horizontal bands of red (top) and green with a black isosceles triangle (based on the hoist side), all separated by a black-edged yellow stripe in the shape of a horizontal Y (the two points of the Y face the hoist side and enclose the triangle); a boar's tusk in the triangle encircles two crossed namele fern fronds, all in yellow; red stands for unity and the blood of men and boars, green for the richness of the islands, and black for the ni-Vanuatu people; the yellow Y-shape reflects the islands' layout in the Pacific Ocean and symbolizes the light of the Gospel; the boar's tusk is a symbol of prosperity; the ferns represent peace<br>
 <strong>note:</strong> one of four national flags that reflect the shape of the country in the flag design; the others are Bosnia and Herzegovina, Brazil, and Eritrea<br>
 
 **National symbol(s)**<br>
-boar's tusk with crossed fern fronds; national colors: red, black, green, yellow<br>
+boar's tusk with crossed fern fronds<br>
+
+**National colors**<br>
+red, black, green, yellow<br>
 
 **National anthem**<br>
 _name_: "Yumi, Yumi, Yumi" (We, We, We)<br>

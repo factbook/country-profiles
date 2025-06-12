@@ -184,8 +184,9 @@ _unimproved: urban_: urban: 4.7% of population<br>
 _unimproved: rural_: rural: 31.2% of population<br>
 _unimproved: total_: total: 17.4% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-4.1% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 4.1% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 4.3% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.38 physicians/1,000 population (2023)<br>
@@ -225,14 +226,14 @@ _women married by age 18_: 30.3% (2021)<br>
 _men married by age 18_: 1.6% (2021)<br>
 <strong>note:</strong> due to prolonged insecurity concerns, some parts of states, including Borno state, were not sampled<br>
 
-**Education expenditures**<br>
-0.5% of GDP (2013)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 0.3% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 4.3% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 62%<br>
-_male_: 71.3%<br>
-_female_: 52.7% (2018)<br>
+_total population_: 63.2% (2021 est.)<br>
+_male_: 73.7% (2021 est.)<br>
+_female_: 53.3% (2021 est.)<br>
 
 ## Environment
 
@@ -257,9 +258,6 @@ _other_: 1.1% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 54.3% of total population (2023)<br>
 _rate of urbanization_: 3.92% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_widespread lack of access_: <em><em>due to persistent civil conflict in the northern areas, </em></em><em>floods, high food prices, and an economic slowdown </em><em>- </em>about 24.86 million people are projected to face acute food insecurity during the June to August 2023 lean season, which is more than the 19.45 million people estimated to be acutely food insecure in 2022; acute food insecurity is mostly the result of worsening insecurity and conflicts in northern states, which, as well as impeding farmers’ physical access to their lands and disrupting agricultural activities, led to the displacement of about 3.57 million people as of April 2023; macroeconomic challenges, marked by persistent high inflation, depreciation of the naira on the informal market, high fuel prices and the lingering impacts of cash shortages following the introduction of new banknotes at the start of 2023, have aggravated the food security conditions of vulnerable households (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 55.64 micrograms per cubic meter (2019 est.)<br>
@@ -307,12 +305,6 @@ _etymology_: the newly built city of Abuja replaced Lagos as the capital city in
 
 **Administrative divisions**<br>
 36 states and 1 territory*; Abia, Adamawa, Akwa Ibom, Anambra, Bauchi, Bayelsa, Benue, Borno, Cross River, Delta, Ebonyi, Edo, Ekiti, Enugu, Federal Capital Territory*, Gombe, Imo, Jigawa, Kaduna, Kano, Katsina, Kebbi, Kogi, Kwara, Lagos, Nasarawa, Niger, Ogun, Ondo, Osun, Oyo, Plateau, Rivers, Sokoto, Taraba, Yobe, Zamfara<br>
-
-**Independence**<br>
-1 October 1960 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day (National Day), 1 October (1960)<br>
 
 **Legal system**<br>
 mixed system of English common law, Islamic law (in 12 northern states), and traditional law<br>
@@ -375,9 +367,6 @@ _subordinate courts_: Court of Appeal; Federal High Court; High Court of the Fed
 **Political parties**<br>
 Accord Party or ACC <br>Africa Democratic Congress or ADC  <br>All Progressives Congress or APC <br>All Progressives Grand Alliance or APGA <br>Labor Party or LP <br>New Nigeria People’s Party or NNPP <br>Peoples Democratic Party or PDP <br>Young Progressive Party or YPP <br>
 
-**International organization participation**<br>
-ACP, AfDB, ATMIS, AU, C, CD, D-8, ECOWAS, EITI (compliant country), FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINURSO, MNJTF, MONUSCO, NAM, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Samson Sunday ITEGBOJE (since 22 October 2024)<br>
 _chancery_: 3519 International Court NW, Washington, DC 20008<br>
@@ -395,11 +384,23 @@ _FAX_: [234] (9) 461-4036<br>
 _email address and website_: <br>AbujaACS@state.gov<br><br>https://ng.usembassy.gov/<br>
 _consulate(s) general_: Lagos<br>
 
+**International organization participation**<br>
+ACP, AfDB, ATMIS, AU, C, CD, D-8, ECOWAS, EITI (compliant country), FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINURSO, MNJTF, MONUSCO, NAM, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+1 October 1960 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day (National Day), 1 October (1960)<br>
+
 **Flag description**<br>
 three equal vertical bands of green (hoist side), white, and green; the color green stands for the country's forests and natural resources, and white for peace and unity<br>
 
 **National symbol(s)**<br>
-eagle; national colors: green, white<br>
+eagle<br>
+
+**National colors**<br>
+green, white<br>
 
 **National anthem**<br>
 _name_: "Nigeria, We Hail Thee"<br>
@@ -681,11 +682,11 @@ Armed Forces of Nigeria (AFN): Nigerian Army, Nigerian Navy (includes Coast Guar
 <strong>note 1: </strong>the NSCDC is a paramilitary agency commissioned to assist the military in the management of threats to internal security, including attacks and natural disasters<br><br><strong>note 2: </strong>some states have created local security forces akin to neighborhood watches in response to increased violence, insecurity, and criminality that have exceeded the response capacity of federal government security forces, but official security forces remained the constitutional prerogative of the federal government; in 2023, the federal government began deploying thousands of "agro rangers" across 19 states and the Federal Capital Territory to help safeguard farmland and mediate conflicts, especially in areas hit by farmer-herder clashes<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2024)<br>
 0.7% of GDP (2023 est.)<br>
 0.6% of GDP (2022 est.)<br>
 0.7% of GDP (2021 est.)<br>
 0.6% of GDP (2020 est.)<br>
-0.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; estimated 150,000 active Armed Forces&nbsp; (2025)<br>

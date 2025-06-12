@@ -121,10 +121,10 @@ _female_: 82.51 years<br>
 **Gross reproduction rate**<br>
 0.75 (2024 est.)<br>
 
-**Current health expenditure**<br>
+**Health expenditure**<br>
 10.9% of GDP (2021)<br>
 
-**Education expenditures**<br>
+**Education expenditure**<br>
 5% of GDP (2020 est.)<br>
 
 ## Environment
@@ -151,7 +151,7 @@ _carbon dioxide emissions_: 2,881.62 megatons (2016 est.)<br>
 _conventional long form_: European Union<br>
 _abbreviation_: EU<br>
 
-**Political structure**<br>
+**Government type**<br>
 a hybrid and unique intergovernmental and supranational organization<br>
 
 **Capital**<br>
@@ -166,13 +166,6 @@ _time zone note_: the 27 European Union member states are spread across three ti
 <p>27 countries: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden</p> <p>13 overseas countries and territories: 1 with Denmark (Greenland), 6 with France (French Polynesia, French Southern and Antarctic Lands, New Caledonia, Saint Barthelemy, Saint Pierre and Miquelon, Wallis and Futuna), and 6 with the Netherlands (Aruba, Bonaire, Curacao, Saba, Sint Eustatius, Sint Maarten); all are part of the Overseas Countries and Territories Association (OCTA)</p><br>
 <strong>note 1: </strong>the 9 EU candidate countries include Albania, Bosnia and Herzegovina, Georgia, Moldova, Montenegro, North Macedonia, Serbia, Turkey, and Ukraine<strong><br><br>note 2:</strong> several non-European overseas countries and territories (OCTs) have special relations with Denmark, France, and the Netherlands (list is annexed to the Treaty on the Functioning of the European Union) and are associated with the EU to promote their economic and social development; member states apply the same treatment to their trade with OCTs as they accord each other; OCT nationals are in principle EU citizens, but OCTs are not part of or subject to the EU<br>
 
-**Independence**<br>
-7 February 1992 (Maastricht Treaty signed establishing the European Union); 1 November 1993 (Maastricht Treaty entered into force)<br>
-<strong>note:</strong> the Treaties of Rome, signed on 25 March 1957 and entered into force on 1 January 1958, created the European Economic Community and the European Atomic Energy Community; a series of subsequent treaties increased efficiency and transparency, prepared for new member states, and introduced new areas of cooperation such as a single currency; the Treaty of Lisbon, signed on 13 December 2007 and entered into force on 1 December 2009, is the most recent<br>
-
-**National holiday**<br>
-Europe Day (also known as Schuman Day), 9 May (1950)<br>
-
 **Legal system**<br>
 unique supranational system in which EU treaties and EU law have primacy over member-state law<br>
 
@@ -184,7 +177,7 @@ _amendment process_: EU treaties can be amended in several ways:<br><br>1) Ordin
 18 years of age (16 years in Austria); universal; voting for the European Parliament is permitted in each member state<br>
 
 **Executive branch**<br>
-<br>under the EU treaties, three EU institutions have functions that may be regarded as executive in nature:<br><em><br>European Council </em>- composed of member-state heads of state or government, along with the president of the European Commission, and meets at least four times a year to issue general policy guidance; the president of the European Council is appointed by leaders of the EU member states for a 2 1/2 year term, renewable once<br><em><br>Council of the European Union </em>- consists of member-state officials, ranging from working-level diplomats to cabinet ministers in specific policy fields such as foreign affairs, agriculture, or economy; it has policymaking, coordinating, and legislative functions; the six-month Council presidency rotates among the member states <br><em><br>European Commission</em> - composed of 27 commissioners (one from each member state), including the president; each commissioner is responsible for one or more policy areas, as assigned by the president; the Commission has the sole right to initiate EU legislation, except for foreign and security/defense policy, and is also responsible for monitoring the application of EU law, implementing/executing the EU budget, negotiating in certain policy areas, and ensuring the EU's external representation in some policy areas; the president is nominated by the European Council and confirmed by the European Parliament; the European Parliament confirms the Commission for a 5-year term<br>
+<br>three EU institutions have functions that can be regarded as executive in nature:<em><br></em> <p><em>European Council </em>- composed of member-state heads of state or government, along with the president of the European Commission; meets at least four times a year to issue general policy guidance; the president of the European Council is appointed by leaders of the EU member states for a 2 1/2 year term, renewable once</p> <strong>president:</strong> António Costa (since 1 December 2024)<br><br><em>Council of the European Union </em>- consists of member-state officials, ranging from working-level diplomats to cabinet ministers in specific policy fields such as foreign affairs, agriculture, or economy; has policymaking, coordinating, and legislative functions<br><br><strong>president:</strong> the six-month presidency rotates among the member states <em><em><br></em></em> <p><em>European Commission</em> - composed of 27 commissioners (one from each member state), including the president; the president assigns each commissioner one or more policy areas, called portfolios; the Commission has the sole right to initiate EU legislation, except for foreign and security/defense policy, and is responsible for monitoring the application of EU law, implementing/executing the EU budget, negotiating in certain policy areas, and ensuring the EU's external representation in some policy areas; the president is nominated for a 5-year term by the European Council and confirmed by the European Parliament; the European Parliament also confirms the entire Commission for a 5-year term</p> <strong>president: </strong>Ursula von der Leyen (since 1 December 2019)<br>
 <strong>note:</strong> for external representation and foreign policy, member-state leaders appoint a High Representative of the Union for Foreign Affairs and Security Policy; the High Representative's concurrent appointment as Vice President of the European Commission is meant to bring more coherence to the EU’s foreign policy; the High Representative helps develop and implement the EU's Common Foreign and Security Policy and Common Security and Defense Policy, chairs the Council of the EU's meetings of member-state foreign ministers, represents and acts for the EU in many international contexts, and oversees the European External Action Service, the EU's diplomatic corps<br>
 
 **Legislative branch**<br>
@@ -206,9 +199,6 @@ _judge selection and term of office_: judges appointed by the common consent of 
 **Political parties**<br>
 The Left or GUE/NGL <br>European Conservatives and Reformists or ECR <br>Greens/European Free Alliance or Greens/EFA <br>European People's Party or EPP <br>Europe of Sovereign Nations or ESN <br>Patriots for Europe or PfE <br>Progressive Alliance of Socialists and Democrats or S&amp;D <br>Renew Europe or Renew (formerly Alliance of Liberals and Democrats for Europe or ALDE)<br>
 
-**International organization participation**<br>
-ARF, ASEAN (dialogue member), Australian Group, BIS, BSEC (observer), CBSS, CERN, EBRD, FAO, FATF, G-7, G-10, G-20, IDA, IEA, IGAD (partners), LAIA (observer), NSG (observer), OAS (observer), OECD, PIF (partner), SAARC (observer), SICA (observer), UN (observer), UNRWA (observer), WCO, WTO, ZC (observer)<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jovita NELIUP&Scaron;IENĖ, Head of Delegation (since 27 February 2024)<br>
 _chancery_: 2175 K Street NW, Washington, DC 20037<br>
@@ -223,11 +213,24 @@ _mailing address_: use embassy street address<br>
 _telephone_: [32] (2) 811-4100<br>
 _email address and website_: <br>https://useu.usmission.gov/<br>
 
+**International organization participation**<br>
+ARF, ASEAN (dialogue member), Australian Group, BIS, BSEC (observer), CBSS, CERN, EBRD, FAO, FATF, G-7, G-10, G-20, IDA, IEA, IGAD (partners), LAIA (observer), NSG (observer), OAS (observer), OECD, PIF (partner), SAARC (observer), SICA (observer), UN (observer), UNRWA (observer), WCO, WTO, ZC (observer)<br>
+
+**Independence**<br>
+7 February 1992 (Maastricht Treaty signed establishing the European Union); 1 November 1993 (Maastricht Treaty entered into force)<br>
+<strong>note:</strong> the Treaties of Rome, signed on 25 March 1957 and entered into force on 1 January 1958, created the European Economic Community and the European Atomic Energy Community; a series of subsequent treaties increased efficiency and transparency, prepared for new member states, and introduced new areas of cooperation such as a single currency; the Treaty of Lisbon, signed on 13 December 2007 and entered into force on 1 December 2009, is the most recent<br>
+
+**National holiday**<br>
+Europe Day (also known as Schuman Day), 9 May (1950)<br>
+
 **Flag description**<br>
 a blue field with 12 five-pointed gold stars arranged in a circle in the center; blue represents the sky of the Western world, the stars stand for unity, solidarity, and harmony; the number of stars is fixed and does not correspond to the number of member states<br>
 
 **National symbol(s)**<br>
-a circle of 12, five-pointed, golden yellow stars on a blue field; union colors: blue, yellow<br>
+a circle of 12 five-pointed golden-yellow stars on a blue field<br>
+
+**National colors**<br>
+blue, yellow<br>
 
 **National anthem**<br>
 _name_: "Ode to Joy"<br>

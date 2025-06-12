@@ -178,8 +178,9 @@ _unimproved: urban_: urban: 0.5% of population<br>
 _unimproved: rural_: rural: 2.6% of population<br>
 _unimproved: total_: total: 1% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-8.6% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 8.6% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 11.6% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 4.33 physicians/1,000 population (2022)<br>
@@ -216,11 +217,11 @@ _female_: 30.3% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 57.3% (2023 est.)<br>
 
-**Education expenditures**<br>
-4% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.9% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 9.4% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 98.4%<br>
 _male_: 98.7%<br>
 _female_: 98.2% (2021)<br>
@@ -301,12 +302,6 @@ _etymology_: named after the Church of Saint Sofia in the city, parts of which m
 **Administrative divisions**<br>
 28 provinces (oblasti, singular - oblast); Blagoevgrad, Burgas, Dobrich, Gabrovo, Haskovo, Kardzhali, Kyustendil, Lovech, Montana, Pazardzhik, Pernik, Pleven, Plovdiv, Razgrad, Ruse, Shumen, Silistra, Sliven, Smolyan, Sofia, Sofia-Grad (Sofia City), Stara Zagora, Targovishte, Varna, Veliko Tarnovo, Vidin, Vratsa, Yambol<br>
 
-**Independence**<br>
-3 March 1878 (as an autonomous principality within the Ottoman Empire); 22 September 1908 (complete independence from the Ottoman Empire)<br>
-
-**National holiday**<br>
-Liberation Day, 3 March (1878)<br>
-
 **Legal system**<br>
 civil law<br>
 
@@ -353,11 +348,8 @@ _subordinate courts_: appeals courts; regional and district courts; administrati
 **Political parties**<br>
 BSP for Bulgaria (electoral alliance of BSP, PKT, Ecoglasnost)<br>Bulgarian Rise or BV<br>Bulgarian Socialist Party or BSP<br>Citizens for the European Development of Bulgaria or GERB (alliance with SDS) <br>Democratic Bulgaria or DB (electoral alliance of Yes! Bulgaria, DSB, and The Greens) <br>Democrats for a Strong Bulgaria or DSB<br>Ecoglasnost<br>Green Movement or The Greens <br>Movement for Rights and Freedoms or DPS<br>Political Club Thrace or PKT<br>Revival<br>Stand Up.BG or IS.BG<br>There is Such a People or ITN<br>Union of Democratic Forces or SDS (alliance with GERB) <br>Yes! Bulgaria <br>We Continue the Change or PP <br>We Continue the Change and Democratic Bulgaria or PP-DB (electoral alliance of PP, DB, Yes! Bulgaria)<br>
 
-**International organization participation**<br>
-Australia Group, BIS, BSEC, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EU, FAO, G- 9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMIL, UNOOSA,&nbsp; UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Georgi Velikov PANAYOTOV (since 7 June 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Stefka YOVCHEVA (since April 2025)<br>
 _chancery_: 1621 22nd Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 387 5770<br>
 _FAX_: [1] (202) 234-7973<br>
@@ -372,12 +364,24 @@ _telephone_: [359] (2) 937-5100<br>
 _FAX_: [359] (2) 937-5209<br>
 _email address and website_: <br>acs_sofia@state.gov<br><br>https://bg.usembassy.gov/<br>
 
+**International organization participation**<br>
+Australia Group, BIS, BSEC, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EU, FAO, G- 9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMIL, UNOOSA,&nbsp; UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+3 March 1878 (as an autonomous principality within the Ottoman Empire); 22 September 1908 (complete independence from the Ottoman Empire)<br>
+
+**National holiday**<br>
+Liberation Day, 3 March (1878)<br>
+
 **Flag description**<br>
 three equal horizontal bands of white (top), green, and red; the pan-Slavic white-blue-red colors were modified by substituting a green band (representing freedom) for the blue<br>
 <strong>note:</strong> the national emblem, formerly on the hoist side of the white stripe, has been removed<br>
 
 **National symbol(s)**<br>
-lion; national colors: white, green, red<br>
+lion<br>
+
+**National colors**<br>
+white, green, red<br>
 
 **National anthem**<br>
 _name_: "Mila Rodino" (Dear Homeland)<br>
@@ -681,7 +685,7 @@ approximately 27,000 active-duty Armed Forces (17,000 Army; 3,000 Navy; 7,000 Ai
 <strong>note:</strong> in 2021, Bulgaria released a 10-year defense plan which called for an active military strength of 43,000<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists mostly of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern Western weapons systems (2024)<br>
+the military's inventory consists largely of Soviet-era equipment, although in recent years Bulgaria has procured some more modern Western weapons systems in an effort to modernize and achieve NATO interoperability (2024)<br>
 
 **Military service age and obligation**<br>
 18-40 years of age for voluntary military service; conscription ended in 2007; service obligation 6-9 months (2023)<br>

@@ -181,8 +181,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 31.7% of population<br>
 _unimproved: total_: total: 23.5% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-21.8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 21.8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 1.1% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.32 physicians/1,000 population (2023)<br>
@@ -224,14 +225,14 @@ _women married by age 15_: 9.6% (2023)<br>
 _women married by age 18_: 28.7% (2023)<br>
 _men married by age 18_: 7.3% (2015)<br>
 
-**Education expenditures**<br>
-2.9% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.3% of GDP (2017 est.)<br>
+_Education expenditure (% national budget)_: 8.2% national budget (2017 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 37.3%<br>
-_male_: 52.1%<br>
-_female_: 22.6% (2021)<br>
+_total population_: 37% (2021 est.)<br>
+_male_: 52% (2021 est.)<br>
+_female_: 26.6% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 10 years<br>
@@ -261,9 +262,6 @@ _other_: 39.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 26.9% of total population (2023)<br>
 _rate of urbanization_: 3.34% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to civil conflict, population displacement, and economic slowdown - </em>the latest analysis estimated the number of people in crisis or emergency food insecurity at 15.3 million people (35% of the population analyzed) between May and October 2023; although the levels of acute food insecurity have declined compared to the same season in 2022, largely due to seasonal improvements and the scale‑up of humanitarian assistance in 2022, the situation could deteriorate in areas where humanitarian assistance faces access constraints; the ban on women’s participation in the humanitarian response poses a challenge to the delivery of quality humanitarian assistance leading to significant additional access constraints, particularly to the most vulnerable, women and children (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 62.49 micrograms per cubic meter (2019 est.)<br>
@@ -312,12 +310,6 @@ _etymology_: named for the Kabul River, but the river's name is of unknown origi
 **Administrative divisions**<br>
 34 provinces (welayat, singular - welayat); Badakhshan, Badghis, Baghlan, Balkh, Bamyan, Daykundi, Farah, Faryab, Ghazni, Ghor, Helmand, Herat, Jowzjan, Kabul, Kandahar, Kapisa, Khost, Kunar, Kunduz, Laghman, Logar, Nangarhar, Nimroz, Nuristan, Paktika, Paktiya, Panjshir, Parwan, Samangan, Sar-e Pul, Takhar, Uruzgan, Wardak, Zabul<br>
 
-**Independence**<br>
-19 August 1919 (from UK control over Afghan foreign affairs)<br>
-
-**National holiday**<br>
-previous: Independence Day, 19 August (1919); under the Taliban Government, 15 August (2022) is declared a national holiday, marking the anniversary of the victory of the Afghan jihad<br><br><br>
-
 **Legal system**<br>
 <p>the Taliban is implementing its own interpretation of Islamic law, which is partially based on the Hanifi school of Islamic jurisprudence and have enforced strict punishments; before the Taliban takeover, Afghanistan had a mixed legal system of civil, customary, and Islamic law</p> (2021)<br>
 
@@ -353,21 +345,30 @@ _subordinate courts_: provincial courts, religious courts, and specialty courts<
 **Political parties**<br>
 the Taliban Government enforces an authoritarian state and has banned other political parties; note - before 15 August 2021, the Ministry of Justice had licensed 72 political parties as of April 2019<br><br>the Taliban have banned other political parties but have allowed some party leaders, including the head of Hezb-e-Islami, Gulbuddin Hekmatyar, to continue to live and work in Afghanistan; Hekmatyar likely continues to enjoy some political support from loyalists; leaders of other parties, including Jamiat-e-Islami’s Salahuddin Rabbani and Jumbesh’s Rashid Dostum, operate from abroad but likely also command some following within Afghanistan; note - before 15 August 2021, the Ministry of Justice had licensed 72 political parties as of April 2019<br>
 
-**International organization participation**<br>
-Afghanistan is a member of the following organizations but Taliban representatives do not participate: ADB, CICA, CP, ECO, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, OSCE (partner), SAARC, SACEP, SCO (dialogue member), UN, UNAMA, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 none<strong><br><br>Note</strong>:  the Afghan Embassy closed in March 2022<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the United States does not maintain a presence in Afghanistan and its diplomatic mission to Afghanistan has relocated to Doha, Qatar<br>
 
+**International organization participation**<br>
+Afghanistan is a member of the following organizations but Taliban representatives do not participate: ADB, CICA, CP, ECO, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, OSCE (partner), SAARC, SACEP, SCO (dialogue member), UN, UNAMA, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+19 August 1919 (from UK control over Afghan foreign affairs)<br>
+
+**National holiday**<br>
+previous: Independence Day, 19 August (1919); under the Taliban Government, 15 August (2022) is declared a national holiday, marking the anniversary of the victory of the Afghan jihad<br><br><br>
+
 **Flag description**<br>
 three equal vertical bands of black (hoist side), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other bands; the center of the emblem features a mosque with pulpit and flags on either side; below the mosque are Eastern Arabic numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); this central image is circled by a border consisting of sheaves of wheat on the left and right; in the upper-center is an Arabic inscription of the Shahada (Muslim creed), below which are rays of the rising sun over the Takbir (Arabic expression meaning "God is great"), and at bottom center is a scroll bearing the name Afghanistan; black signifies the past, red is for the blood shed for independence, and green can represent either hope for the future, agricultural prosperity, or Islam<br>
 <strong>note 1: </strong>the United States has not recognized the Taliban or any other entity as the government of Afghanistan and, accordingly, continues to display the flag of Afghanistan as set forth in the country's constitution of 2004<strong><br><br>note 2:</strong> Afghanistan had more changes to its national flag in the 20th century -- 19 by one count -- than any other country; the colors black, red, and green appeared on most of them<br>
 
 **National symbol(s)**<br>
-lion; national colors: red, green, black<br>
+lion<br>
+
+**National colors**<br>
+red, green, black<br>
 
 **National anthem**<br>
 _name_: "Milli Surood" (National Anthem)<br>
@@ -626,7 +627,7 @@ service is voluntary; there is no conscription (2023)<br>
 <strong>note: </strong>the Taliban dismissed nearly all women from the former Afghan National Defense and Security Forces, except those serving in detention facilities and assisting with body searches<br>
 
 **Military - note**<br>
-the Taliban&rsquo;s security priorities include border security, armed anti-Taliban resistance elements, and the Islamic State of Iraq and ash-Sham - Khorasan (ISIS-K) terrorist group (2025)<br>
+the Taliban&rsquo;s key security priorities are border and internal security; specific issues have included rising tensions with Pakistan along their shared border, armed anti-Taliban resistance elements, and the Islamic State of Iraq and ash-Sham - Khorasan (ISIS-K) terrorist group (2025)<br>
 
 ## Terrorism
 

@@ -172,8 +172,9 @@ _unimproved: urban_: urban: 0.3% of population<br>
 _unimproved: rural_: rural: 8.8% of population<br>
 _unimproved: total_: total: 7.2% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-4.1% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 4.1% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 9.5% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.14 physicians/1,000 population (2023)<br>
@@ -214,14 +215,14 @@ _female_: 2% (2025 est.)<br>
 _women married by age 15_: 0.9% (2016)<br>
 _women married by age 18_: 9.8% (2016)<br>
 
-**Education expenditures**<br>
-1.9% of GDP (2019 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 1.8% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 7.2% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 92.3%<br>
-_male_: 93%<br>
-_female_: 91.6% (2019)<br>
+_total population_: 93% (2023 est.)<br>
+_male_: 93% (2023 est.)<br>
+_female_: 92% (2023 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -251,9 +252,6 @@ _other_: 20.5% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 19.2% of total population (2023)<br>
 _rate of urbanization_: 1.22% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_widespread lack of access_: <em>due to unfavorable prospects for 2023 agricultural output and high prices of key food items - </em>the 2023 cereal production is forecast below the five-year average, mostly reflecting constraints on farmers’ access to agricultural inputs; elevated prices of key food items are also constraining economic access to food for a large number of households (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 23.88 micrograms per cubic meter (2019 est.)<br>
@@ -294,12 +292,6 @@ _etymology_: the origin of Colombo's name is unclear; it may derive from the Sin
 
 **Administrative divisions**<br>
 9 provinces; Central, Eastern, North Central, Northern, North Western, Sabaragamuwa, Southern, Uva, Western<br>
-
-**Independence**<br>
-4 February 1948 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day (National Day), 4 February (1948)<br>
 
 **Legal system**<br>
 mixed system of Roman-Dutch civil law, English common law, Jaffna Tamil customary law, and Muslim personal law<br>
@@ -347,9 +339,6 @@ _subordinate courts_: Court of Appeals; High Courts; Magistrates' Courts; munici
 **Political parties**<br>
 Crusaders for Democracy or CFD<br>Eelam People's Democratic Party or EPDP<br>Eelam People's Revolutionary Liberation Front or EPRLF<br>Illankai Tamil Arasu Kachchi or ITAK<br>Janatha Vimukthi Peramuna or JVP<br>Jathika Hela Urumaya or JHU<br>National People's Power or NPP (also known as Jathika Jana Balawegaya or JJB)<br>People's Liberation Organisation of Tamil Eelam or PLOTE<br>Samagi Jana Balawegaya or SJB<br>Sri Lanka Freedom Party or SLFP<br>Sri Lanka Muslim Congress or SLMC<br>Sri Lanka People's Freedom Alliance or SLPFA (includes SLPFP, SLPP, and several smaller parties)<br>Sri Lanka Podujana Peramuna (Sri Lanka's People's Front) or SLPP<br>Tamil Eelam Liberation Organization or TELO<br>Tamil National Alliance or TNA (includes ITAK, PLOTE, TELO)<br>Tamil National People's Front or TNPF<br>Tamil People's National Alliance or TPNA<br>United National Front for Good Governance or UNFGG (coalition includes JHU, UNP)<br>United National Party or UNP<br>
 
-**International organization participation**<br>
-ABEDA, ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, FAO, G-11, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, NAM, OAS (observer), OPCW, PCA, SAARC, SACEP, SCO (dialogue member), UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Mahinda SAMARASINGHE (since 13 January 2022)<br>
 _chancery_: 3025 Whitehaven Street NW, Washington, DC 20008<br>
@@ -367,11 +356,23 @@ _telephone_: [94] (11) 249-8500<br>
 _FAX_: [94] (11) 243-7345<br>
 _email address and website_: <br>colomboacs@state.gov<br><br>https://lk.usembassy.gov/<br>
 
+**International organization participation**<br>
+ABEDA, ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, FAO, G-11, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, NAM, OAS (observer), OPCW, PCA, SAARC, SACEP, SCO (dialogue member), UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+4 February 1948 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day (National Day), 4 February (1948)<br>
+
 **Flag description**<br>
 yellow with two panels; the smaller hoist-side panel has two equal vertical bands of green (hoist side) and orange; the larger panel has a yellow lion holding a sword on a maroon field, as well as a yellow bo leaf in each corner; the sword stands for national sovereignty, the lion for Sinhalese ethnicity, the strength of the nation, and bravery,&nbsp; and the four bo leaves for Buddhism and the four virtues of kindness, friendliness, happiness, and equanimity; orange stands for Tamils, green for Moors, and maroon for the Sinhalese majority; yellow represents other ethnic groups; also referred to as the Lion Flag<br>
 
 **National symbol(s)**<br>
-lion, water lily; national colors: maroon, yellow<br>
+lion, water lily<br>
+
+**National colors**<br>
+maroon, yellow<br>
 
 **National anthem**<br>
 _name_: "Sri Lanka Matha" (Mother Sri Lanka)<br>
@@ -642,11 +643,11 @@ Sri Lanka Armed Forces: Sri Lanka Army (includes National Guard and the Voluntee
 <strong>note: </strong>the Civil Security Department, also known as the Civil Defense Force, is an auxiliary force administered by the Ministry of Defense<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2024 est.)<br>
 1.6% of GDP (2023 est.)<br>
 1.7% of GDP (2022 est.)<br>
 1.9% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
-2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 210,000 active Armed Forces (140,000 Army; 25,000 Air Force; 45,000 Navy) (2025)<br>

@@ -168,9 +168,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 1.5% of population (2017)<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
 _total population_: NA<br>
 _male_: NA<br>
@@ -227,12 +224,6 @@ _etymology_: named after Saint HELIER, the patron saint of Jersey, who was reput
 **Administrative divisions**<br>
 none (British crown dependency); there are no first-order administrative divisions as defined by the US Government, but there are 12 parishes; Grouville, Saint Brelade, Saint Clement, Saint Helier, Saint John, Saint Lawrence, Saint Martin, Saint Mary, Saint Ouen, Saint Peter, Saint Saviour, Trinity<br>
 
-**Independence**<br>
-none (British Crown dependency)<br>
-
-**National holiday**<br>
-Liberation Day, 9 May (1945)<br>
-
 **Legal system**<br>
 the laws of the UK apply, as well as local statutes<br>
 
@@ -272,20 +263,29 @@ _subordinate courts_: Magistrate's Court; Youth Court; Petty Debts Court; Parish
 Better Way or BW (group of independent candidates)<br>Jersey Alliance or JA <br>Jersey Liberal Conservatives or JLC <br>Progress Party or PP <br>Reform Jersey or RJ<br>
 <strong>note:</strong> most deputies sit as independents<br>
 
-**International organization participation**<br>
-UPU<br>
-
 **Diplomatic representation in the US**<br>
 none (British Crown dependency)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (British Crown dependency)<br>
 
+**International organization participation**<br>
+UPU<br>
+
+**Independence**<br>
+none (British Crown dependency)<br>
+
+**National holiday**<br>
+Liberation Day, 9 May (1945)<br>
+
 **Flag description**<br>
 white with a diagonal red cross extending to the corners of the flag; a red shield with three lions in yellow is in the upper quadrant, with a yellow crown above; according to tradition, the ships of Jersey differentiated themselves from English ships flying the horizontal cross of St. George by rotating the cross to the "X" (saltire) configuration; because this arrangement resembled the Irish cross of St. Patrick, the Plantagenet crown and Jersey coat of arms were added<br>
 
 **National symbol(s)**<br>
-Jersey cow; national colors: red, white<br>
+Jersey cow<br>
+
+**National colors**<br>
+red, white<br>
 
 **National anthem**<br>
 _name_: "Isle de Siez Nous" (Island Home)<br>

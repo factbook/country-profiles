@@ -178,8 +178,9 @@ _unimproved: urban_: urban: 0.2% of population<br>
 _unimproved: rural_: rural: 0.3% of population<br>
 _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-10.7% of GDP (2022)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 10.7% of GDP (2022)<br>
+_Health expenditure (as % of national budget)_: 19% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 4.41 physicians/1,000 population (2021)<br>
@@ -213,8 +214,9 @@ _female_: 13.9% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 53.4% (2023 est.)<br>
 
-**Education expenditures**<br>
-7.2% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 7.1% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 14.6% national budget (2022 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -297,12 +299,6 @@ _etymology_: the name of the city probably comes from the Swedish words <em>stak
 **Administrative divisions**<br>
 21 counties (lan, singular and plural); Blekinge, Dalarna, Gavleborg, Gotland, Halland, Jamtland, Jonkoping, Kalmar, Kronoberg, Norrbotten, Orebro, Ostergotland, Skane, Sodermanland, Stockholm, Uppsala, Varmland, Vasterbotten, Vasternorrland, Vastmanland, Vastra Gotaland<br>
 
-**Independence**<br>
-6 June 1523 (Gustav VASA elected king of Sweden, marking the abolishment of the Kalmar Union between Denmark, Norway, and Sweden)<br>
-
-**National holiday**<br>
-National Day, 6 June (1983); note - from 1916 to 1982 this date was celebrated as Swedish Flag Day<br>
-
 **Legal system**<br>
 civil law system influenced by Roman-Germanic law and customary law<br>
 
@@ -348,9 +344,6 @@ _subordinate courts_: first instance, appellate, general, and administrative cou
 **Political parties**<br>
 Center Party (Centerpartiet) or C <br>Christian Democrats (Kristdemokraterna) or KD <br>Green Party (Miljopartiet de Grona) or MP <br>Left Party (Vansterpartiet) or V <br>Moderate Party (Moderaterna) or M <br>Sweden Democrats (Sverigedemokraterna) or SD <br>Swedish Social Democratic Party (Socialdemokraterna) or S/SAP <br>The Liberals (Liberalerna) or L <br>
 
-**International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNMOGIP, UNOOSA, UNRWA, UN Security Council (temporary), UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Urban AHLIN (since 15 September 2023)<br>
 _chancery_: 2900 K Street NW, Washington, DC 20007<br>
@@ -367,11 +360,23 @@ _telephone_: [46] (08) 783-53-00<br>
 _FAX_: [46] (08) 661-19-64<br>
 _email address and website_: <br>STKACSinfo@state.gov<br><br>https://se.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNMOGIP, UNOOSA, UNRWA, UN Security Council (temporary), UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+6 June 1523 (Gustav VASA elected king of Sweden, marking the abolishment of the Kalmar Union of Denmark, Norway, and Sweden)<br>
+
+**National holiday**<br>
+National Day, 6 June (1983); note - from 1916 to 1982 this date was celebrated as Swedish Flag Day<br>
+
 **Flag description**<br>
 blue with a golden yellow cross extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors come from the Swedish coat of arms<br>
 
 **National symbol(s)**<br>
-three crowns, lion; national colors: blue, yellow<br>
+three crowns, lion<br>
+
+**National colors**<br>
+blue, yellow<br>
 
 **National anthem**<br>
 _name_: "Du Gamla, Du Fria" (Thou Ancient, Thou Free)<br>
@@ -385,7 +390,7 @@ _selected World Heritage Site locales_: Royal Domain of Drottningholm (c); Lapon
 ## Economy
 
 **Economic overview**<br>
-high-income, largest Nordic economy; EU member but non-euro user; export-oriented led by automotive, electronics, machinery and pharmaceuticals; highly ranked for competitiveness, R&amp;D investments and governance; slowdown triggered by high inflation, weak consumption and financial tightening<br>
+<p>high-income, largest Nordic economy; EU member but does not use the euro; export-oriented, led by automotive, electronics, machinery, and pharmaceuticals; highly ranked for competitiveness, R&amp;D investments and governance; recovery, with falling inflation and real wage growth balanced by risks from trade uncertainty</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $665.016 billion (2023 est.)<br>

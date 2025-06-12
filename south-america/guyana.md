@@ -174,8 +174,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 4.4% of population<br>
 _unimproved: total_: total: 3.2% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-4.9% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 4.9% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 10.5% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.39 physicians/1,000 population (2020)<br>
@@ -217,14 +218,14 @@ _women married by age 15_: 6.3% (2020)<br>
 _women married by age 18_: 32.3% (2020)<br>
 _men married by age 18_: 11.9% (2020)<br>
 
-**Education expenditures**<br>
-4.5% of GDP (2018 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.5% of GDP (2018 est.)<br>
+_Education expenditure (% national budget)_: 16.2% national budget (2018 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over has ever attended school<br>
-_total population_: 88.8%<br>
-_male_: 89.3%<br>
-_female_: 88.4% (2021)<br>
+_total population_: 85.6% (2020 est.)<br>
+_male_: 84.2% (2020 est.)<br>
+_female_: 86.9% (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -296,12 +297,6 @@ _etymology_: the British founded the town in 1781 and named it in honor of King 
 **Administrative divisions**<br>
 10 regions; Barima-Waini, Cuyuni-Mazaruni, Demerara-Mahaica, East Berbice-Corentyne, Essequibo Islands-West Demerara, Mahaica-Berbice, Pomeroon-Supenaam, Potaro-Siparuni, Upper Demerara-Berbice, Upper Takutu-Upper Essequibo<br>
 
-**Independence**<br>
-26 May 1966 (from the UK)<br>
-
-**National holiday**<br>
-Republic Day, 23 February (1970)<br>
-
 **Legal system**<br>
 common law system, based on the English model, with some Roman-Dutch civil law influence<br>
 
@@ -350,9 +345,6 @@ _subordinate courts_: Land Court; magistrates' courts<br>
 **Political parties**<br>
 A New and United Guyana or ANUG<br>A Partnership for National Unity or APNU<br>Alliance for Change or AFC<br>Justice for All Party<br>Liberty and Justice Party or LJP<br>National Independent Party or NIP<br>People's Progressive Party/Civic or PPP/C<br>The New Movement or TNM<br>The United Force or TUF<br>United Republican Party or URP<br>
 
-**International organization participation**<br>
-ACP, ACS, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (correspondent), ITU, LAES, MIGA, NAM, OAS, OIC, OPANAL, OPCW, PCA, Petrocaribe, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Samuel Archibald HINDS (since 7 July 2021)<br>
 _chancery_: 2490 Tracy Place NW, Washington, DC 20008<br>
@@ -369,11 +361,26 @@ _telephone_: [592] 225-4900 through 4909<br>
 _FAX_: [592] 225-8497<br>
 _email address and website_: <br>acsgeorge@state.gov<br><br>https://gy.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, ACS, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (correspondent), ITU, LAES, MIGA, NAM, OAS, OIC, OPANAL, OPCW, PCA, Petrocaribe, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+26 May 1966 (from the UK)<br>
+
+**National holiday**<br>
+Republic Day, 23 February (1970)<br>
+
 **Flag description**<br>
 green with a red isosceles triangle (based on the hoist side) on top of a long, yellow arrowhead; a narrow black border sits between the red and yellow, and a narrow white border between the yellow and green; green stands for forest and foliage, yellow for mineral resources and a bright future, white for the rivers, red for zeal and the people's sacrifice, and black for perseverance<br>
 
 **National symbol(s)**<br>
-Canje pheasant (hoatzin), jaguar, Victoria Regia water lily; national colors: red, yellow, green, black, white<br>
+Canje pheasant (hoatzin), jaguar, Victoria Regia water lily<br>
+
+**National colors**<br>
+red, yellow, green, black, white<br>
+
+**National coat of arms**<br>
+<p>Guyana’s coat of arms was adopted in 1966, the year of the country’s independence from the United Kingdom. The jaguars signify strength and resilience, with one holding a pickaxe that stands for labor and the other holding stalks of rice and sugarcane for agriculture. Two national symbols, the Canje pheasant and the Victorian lily, are on the shield, with the national motto underneath. Three wavy blue lines stand for the Essequibo, Demerara, and Berbice rivers, the headdress for the country’s ethnic groups, and the diamonds for the mining industry. The helmet is a symbol of past UK rule in Guyana.</p><br>
 
 **National anthem**<br>
 _name_: "Dear Land of Guyana, of Rivers and Plains"<br>

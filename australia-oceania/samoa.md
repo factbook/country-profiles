@@ -166,8 +166,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 2% of population<br>
 _unimproved: total_: total: 1.6% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-6.8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 6.8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 15.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.56 physicians/1,000 population (2021)<br>
@@ -206,14 +207,14 @@ _women married by age 15_: 0.9% (2020)<br>
 _women married by age 18_: 7.4% (2020)<br>
 _men married by age 18_: 2% (2020)<br>
 
-**Education expenditures**<br>
-4.8% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.5% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 12.9% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 99.1%<br>
-_male_: 99%<br>
-_female_: 99.3% (2021)<br>
+_total population_: 98% (2019 est.)<br>
+_male_: 98.3% (2019 est.)<br>
+_female_: 97.7% (2019 est.)<br>
 
 ## Environment
 
@@ -273,18 +274,12 @@ _time difference_: UTC+13 (18 hours ahead of Washington, DC, during Standard Tim
 **Administrative divisions**<br>
 11 districts; A'ana, Aiga-i-le-Tai, Atua, Fa'asaleleaga, Gaga'emauga, Gagaifomauga, Palauli, Satupa'itea, Tuamasaga, Va'a-o-Fonoti, Vaisigano<br>
 
-**Independence**<br>
-1 January 1962 (from New Zealand-administered UN trusteeship)<br>
-
-**National holiday**<br>
-Independence Day Celebration, 1 June (1962); note - 1 January 1962 is the date of independence from the New Zealand-administered UN trusteeship, but it is observed in June<br>
-
 **Legal system**<br>
 mixed system of English common law and customary law; judicial review of legislative acts involving fundamental citizen rights<br>
 
 **Constitution**<br>
 _history_: several previous (pre-independence); latest 1 January 1962<br>
-_amendment process_: proposed as an act by the Legislative Assembly; passage requires at least two-thirds majority vote by the Assembly membership in the third reading - provided at least 90 days have elapsed since the second reading, and assent of the chief of state; passage of amendments affecting constitutional articles on customary land or constitutional amendment procedures also requires at least two-thirds majority approval in a referendum<br>
+_amendment process_: proposed as an act by the Legislative Assembly; passage requires at least two-thirds majority vote by the Assembly membership in the third reading, provided at least 90 days have elapsed since the second reading, and assent of the chief of state; passage of amendments affecting constitutional articles on customary land or constitutional amendment procedures also requires at least two-thirds majority approval in a referendum<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -325,9 +320,6 @@ _subordinate courts_: District Court; Magistrates' Courts; Land and Titles Court
 **Political parties**<br>
 Fa'atuatua i le Atua Samoa ua Tasi or FAST <br>Human Rights Protection Party or HRPP <br>Tautua Samoa Party or TSP <br>
 
-**International organization participation**<br>
-ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IPU, ITU, ITUC (NGOs), MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Pa’olelei LUTERU (since 7 July 2021); note - also Permanent Representative to the UN<br>
 _chancery_: 685 Third Avenue, 44th Street, 11th Floor, Suite 1102, New York, NY 10017<br>
@@ -344,12 +336,24 @@ _telephone_: [685] 21-436<br>
 _FAX_: [685] 22-030<br>
 _email address and website_: <br>ApiaConsular@state.gov<br><br>https://ws.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IPU, ITU, ITUC (NGOs), MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+1 January 1962 (from New Zealand-administered UN trusteeship)<br>
+
+**National holiday**<br>
+Independence Day Celebration, 1 June (1962); note - 1 January 1962 is the date of independence from the New Zealand-administered UN trusteeship, but it is observed in June<br>
+
 **Flag description**<br>
 red with a blue rectangle in the upper hoist-side quadrant bearing five white, five-pointed stars that represent the Southern Cross constellation; red stands for courage, blue for freedom, and white for purity<br>
 <strong>note:</strong> similar to the flag of Taiwan<br>
 
 **National symbol(s)**<br>
-Southern Cross constellation (five, five-pointed stars); national colors: red, white, blue<br>
+Southern Cross constellation (five five-pointed stars)<br>
+
+**National colors**<br>
+red, white, blue<br>
 
 **National anthem**<br>
 _name_: "O le Fu'a o le Sa'olotoga o Samoa" (The Banner of Freedom)<br>

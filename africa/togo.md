@@ -174,8 +174,9 @@ _unimproved: urban_: urban: 6.2% of population<br>
 _unimproved: rural_: rural: 39.7% of population<br>
 _unimproved: total_: total: 25.4% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-5.6% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.6% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 2.6% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.08 physicians/1,000 population (2022)<br>
@@ -217,14 +218,14 @@ _women married by age 15_: 6.4% (2017)<br>
 _women married by age 18_: 24.8% (2017)<br>
 _men married by age 18_: 2.6% (2017)<br>
 
-**Education expenditures**<br>
-4% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.1% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 11.6% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 66.5%<br>
-_male_: 80%<br>
-_female_: 55.1% (2019)<br>
+_total population_: 72.6% (2022 est.)<br>
+_male_: 82.8% (2022 est.)<br>
+_female_: 63.7% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -298,12 +299,6 @@ _etymology_: the name comes from a local word meaning "little market"<br>
 **Administrative divisions**<br>
 5 regions (regions, singular - region); Centrale, Kara, Maritime, Plateaux, Savanes<br>
 
-**Independence**<br>
-27 April 1960 (from French-administered UN trusteeship)<br>
-
-**National holiday**<br>
-Independence Day, 27 April (1960)<br>
-
 **Legal system**<br>
 customary law system<br>
 
@@ -365,9 +360,6 @@ _subordinate courts_: Court of Assizes (sessions court); Appeal Court; tribunals
 **Political parties**<br>
 Action Committee for Renewal or CAR <br>Alliance of Democrats for Integral Development or ADDI <br>Democratic Convention of African Peoples or CDPA <br>Democratic Forces for the Republic or FDR <br>National Alliance for Change or ANC <br>New Togolese Commitment <br>Pan-African National Party or PNP <br>Pan-African Patriotic Convergence or CPP <br>Patriotic Movement for Democracy and Development or MPDD <br>Socialist Pact for Renewal or PSR <br>The Togolese Party <br>Union of Forces for Change or UFC <br>Union for the Republic or UNIR <br>
 
-**International organization participation**<br>
-ACP, AfDB, AIIB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Fr&eacute;d&eacute;ric Edem HEGBE (since 24 April 2017)<br>
 _chancery_: 2208 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -383,12 +375,24 @@ _telephone_: [228] 2261-5470<br>
 _FAX_: [228] 2261-5501<br>
 _email address and website_: <br>consularLome@state.gov<br><br>https://tg.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AIIB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+27 April 1960 (from French-administered UN trusteeship)<br>
+
+**National holiday**<br>
+Independence Day, 27 April (1960)<br>
+
 **Flag description**<br>
 five equal horizontal bands of green (top and bottom) alternating with yellow; a white five-pointed star on a red square is in the upper hoist-side corner; the five horizontal stripes stand for the country's regions; red stands for the people's loyalty and patriotism, green for hope, fertility, and agriculture, and yellow for mineral wealth and faith that hard work and strength will bring prosperity; the star symbolizes life, purity, peace, dignity, and national independence<br>
 <strong>note:</strong> uses the popular pan-African colors of Ethiopia<br>
 
 **National symbol(s)**<br>
-lion; national colors: green, yellow, red, white<br>
+lion<br>
+
+**National colors**<br>
+green, yellow, red, white<br>
 
 **National anthem**<br>
 _name_: "Salut a toi, pays de nos aieux" (Hail to Thee, Land of Our Forefathers)<br>
@@ -655,11 +659,11 @@ Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army, Togolese Na
 <strong>note:</strong> the Police and GNT are responsible for law enforcement and maintenance of order within the country; the GNT is also responsible for migration and border enforcement; the GNT falls under the Ministry of the Armed Forces but also reports to the Ministry of Security and Civil Protection on many matters involving law enforcement and internal security; in 2022, the Ministry of the Armed Forces was made part of the Office of the Presidency<br>
 
 **Military expenditures**<br>
+2.2% of GDP (2024 est.)<br>
 3% of GDP (2023 est.)<br>
 4% of GDP (2022 est.)<br>
 2.8% of GDP (2021 est.)<br>
 2.8% of GDP (2020 est.)<br>
-2.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 15-20,000 active Armed Forces, including Gendarmerie (2025)<br>

@@ -216,12 +216,6 @@ _time difference_: UTC+12 (17 hours ahead of Washington, DC, during Standard Tim
 **Administrative divisions**<br>
 3 administrative precincts (circonscriptions, singular - circonscription) Alo, Sigave, Uvea<br>
 
-**Independence**<br>
-none (overseas collectivity of France)<br>
-
-**National holiday**<br>
-Bastille Day, 14 July (1789)<br>
-
 **Legal system**<br>
 French civil law<br>
 
@@ -262,21 +256,30 @@ _subordinate courts_: courts of first instance; labor court<br>
 **Political parties**<br>
 Left Radical Party or PRG (formerly Radical Socialist Party or PRS and the Left Radical Movement or MRG)<br>Lua Kae Tahi (Giscardians)<br>Rally for Wallis and Futuna-The Republicans (Rassemblement pour Wallis and Futuna) or RPWF-LR <br>Socialist Party or PS<br>Taumu'a Lelei <br>Union Pour la Democratie Francaise or UDF<br>
 
-**International organization participation**<br>
-PIF (observer), SPC, UPU<br>
-
 **Diplomatic representation in the US**<br>
 none (overseas territory of France)<br>
 
 **Diplomatic representation from the US**<br>
 none (overseas collectivity of France)<br>
 
+**International organization participation**<br>
+PIF (observer), SPC, UPU<br>
+
+**Independence**<br>
+none (overseas collectivity of France)<br>
+
+**National holiday**<br>
+Bastille Day, 14 July (1789)<br>
+
 **Flag description**<br>
 unofficial local flag has a red field with four white isosceles triangles in the middle, representing the three native kings of the islands and the French administrator; the apexes of the triangles are oriented inward and at right angles to each other; the flag of France, outlined in white on two sides, is in the upper hoist quadrant<br>
 <strong>note:</strong> the design is derived from a red flag with a white cross that French missionaries introduced in the 19th century; the flag of France is used for official occasions<br>
 
 **National symbol(s)**<br>
-red saltire (Saint Andrew's Cross) on a white square on a red field; national colors: red, white<br>
+red saltire (Saint Andrew's Cross) on a white square on a red field<br>
+
+**National colors**<br>
+red, white<br>
 
 **National anthem**<br>
 <p><strong>note:</strong> as a territory of France, "La Marseillaise" is official (see France)</p><br>

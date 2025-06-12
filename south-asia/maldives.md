@@ -171,8 +171,9 @@ _unimproved: urban_: urban: 1% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-10% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 10% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 18.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.24 physicians/1,000 population (2019)<br>
@@ -214,14 +215,14 @@ _women married by age 15_: 0% (2017)<br>
 _women married by age 18_: 2.2% (2017)<br>
 _men married by age 18_: 2.2% (2017)<br>
 
-**Education expenditures**<br>
-5.8% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.2% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 10.7% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 97.9%<br>
-_male_: 97.6%<br>
-_female_: 98.4% (2021)<br>
+_total population_: 98.2% (2019 est.)<br>
+_male_: 98.2% (2019 est.)<br>
+_female_: 98.3% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -289,12 +290,6 @@ _etymology_: the name may come from the Sanskrit word <em>mala</em>, or "garland
 **Administrative divisions**<br>
 21 administrative atolls (atholhuthah, singular - atholhu); Addu (Addu City), Ariatholhu Dhekunuburi (South Ari Atoll), Ariatholhu Uthuruburi (North Ari Atoll), Faadhippolhu, Felidhuatholhu (Felidhu Atoll), Fuvammulah, Hahdhunmathi, Huvadhuatholhu Dhekunuburi (South Huvadhu Atoll), Huvadhuatholhu Uthuruburi (North Huvadhu Atoll), Kolhumadulu, Maale (Male), Maaleatholhu (Male Atoll), Maalhosmadulu Dhekunuburi (South Maalhosmadulu), Maalhosmadulu Uthuruburi (North Maalhosmadulu), Miladhunmadulu Dhekunuburi (South Miladhunmadulu), Miladhunmadulu Uthuruburi (North Miladhunmadulu), Mulakatholhu (Mulaku Atoll), Nilandheatholhu Dhekunuburi (South Nilandhe Atoll), Nilandheatholhu Uthuruburi (North Nilandhe Atoll), Thiladhunmathee Dhekunuburi (South Thiladhunmathi), Thiladhunmathee Uthuruburi (North Thiladhunmathi)<br>
 
-**Independence**<br>
-26 July 1965 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 26 July (1965)<br>
-
 **Legal system**<br>
 Islamic (sharia) legal system with English common law influences, primarily in commercial matters<br>
 
@@ -341,9 +336,6 @@ _subordinate courts_: High Court; Criminal, Civil, Family, Juvenile, and Drug Co
 **Political parties**<br>
 <p>Adhaalath (Justice) Party or AP<br>Dhivehi Rayyithunge Party or DRP<br>Maldives Development Alliance or MDA<br>Maldivian Democratic Party or MDP<br>Maldives Third Way Democrats or MTD<br>People's National Congress or PNC<br>People's National Front<br>Republican (Jumhooree) Party or JP</p><br>
 
-**International organization participation**<br>
-ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Abdul GHAFOOR Mohamed (since 15 June 2023)<br>
 _chancery_: 1100 H Street NW, Suite 250, Washington, D.C. 20005<br>
@@ -357,11 +349,23 @@ _telephone_: [94] (11) 249-8500<br>
 _FAX_: [94] (11) 243-7345<br>
 _email address and website_: <br>Homepage - U.S. Embassy in Maldives<br>
 
+**International organization participation**<br>
+ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+26 July 1965 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 26 July (1965)<br>
+
 **Flag description**<br>
 red with a large green rectangle in the center and a vertical white crescent moon; red stand for those who have sacrificed their lives to defend the country, the green represents peace and prosperity, and the white crescent is a symbol of Islam<br>
 
 **National symbol(s)**<br>
-coconut palm, yellowfin tuna; national colors: red, green, white<br>
+coconut palm, yellowfin tuna<br>
+
+**National colors**<br>
+red, green, white<br>
 
 **National anthem**<br>
 _name_: "Gaumee Salaam" (National Salute)<br>

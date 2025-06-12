@@ -173,8 +173,9 @@ _unimproved: urban_: urban: 0.6% of population<br>
 _unimproved: rural_: rural: 5.7% of population<br>
 _unimproved: total_: total: 2.7% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-7.4% of GDP (2022)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 7.4% of GDP (2022)<br>
+_Health expenditure (as % of national budget)_: 10.5% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 5.64 physicians/1,000 population (2023)<br>
@@ -216,14 +217,14 @@ _women married by age 15_: 0.3% (2018)<br>
 _women married by age 18_: 13.9% (2018)<br>
 _men married by age 18_: 0.5% (2018)<br>
 
-**Education expenditures**<br>
-3.6% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.7% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 14.1% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 99.6%<br>
-_male_: 99.7%<br>
-_female_: 99.5% (2019)<br>
+_total population_: 99.6% (2023 est.)<br>
+_male_: 99.5% (2023 est.)<br>
+_female_: 99.6% (2023 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
@@ -294,12 +295,6 @@ _etymology_: the name comes from the Georgian word <em>tbili</em>, meaning "warm
 <p>9 regions (mkharebi, singular - mkhare), 1 city (kalaki), and 2 autonomous republics (avtomnoy respubliki, singular - avtom respublika)</p> <p><strong>regions:</strong> Guria, Imereti, Kakheti, Kvemo Kartli, Mtskheta Mtianeti, Racha-Lechkhumi and Kvemo Svaneti, Samegrelo and Zemo Svaneti, Samtskhe-Javakheti, Shida Kartli; note - the breakaway region of South Ossetia consists of the northern part of Shida Kartli, eastern slivers of the Imereti region and Racha-Lechkhumi and Kvemo Svaneti, and part of western Mtskheta-Mtianeti</p> <p><strong>city:</strong> Tbilisi</p> <strong>autonomous republics:</strong> Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi), Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)<br>
 <strong>note 1:</strong> the administrative centers of the two autonomous republics are shown in parentheses <br><br><strong>note 2:</strong> the United States recognizes the breakaway regions of Abkhazia and South Ossetia to be part of Georgia<br>
 
-**Independence**<br>
-9 April 1991 (from the Soviet Union); notable earlier date: A.D. 1008 (Georgia unified under King BAGRAT III)<br>
-
-**National holiday**<br>
-Independence Day, 26 May (1918); note - 26 May 1918 was the date of independence from Soviet Russia, 9 April 1991 was the date of independence from the Soviet Union<br>
-
 **Legal system**<br>
 civil law system<br>
 
@@ -347,9 +342,6 @@ _subordinate courts_: Courts of Appeal; regional (town) and district courts<br>
 **Political parties**<br>
 Citizens<br>European Socialists<br>For Georgia<br>Georgian Dream<br>Girchi<br>Law and Justice<br>Lelo for Georgia<br>National Democratic Party<br>People's Power<br>Progress and Freedom<br>Republican Party<br>State for the People<br>Strategy Aghmashenebeli<br>United National Movement or UNM<br>Victorious Georgia<br>
 
-**International organization participation**<br>
-ADB, BSEC, CD, CE, CPLP (associate), EAPC, EBRD, FAO, G-11, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OIF (observer), OPCW, OSCE, PFP, SELEC (observer), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires&nbsp;Khatuna KVESELAVA (since 31 December 2024)<br>
 _chancery_: 1824 R Street NW, Washington, DC 20009<br>
@@ -366,11 +358,23 @@ _telephone_: [995] (32) 227-70-00<br>
 _FAX_: [995] (32) 253-23-10<br>
 _email address and website_: <br>askconsultbilisi@state.gov<br><br>https://ge.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB, BSEC, CD, CE, CPLP (associate), EAPC, EBRD, FAO, G-11, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OIF (observer), OPCW, OSCE, PFP, SELEC (observer), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+9 April 1991 (from the Soviet Union); notable earlier date: A.D. 1008 (Georgia unified under King BAGRAT III)<br>
+
+**National holiday**<br>
+Independence Day, 26 May (1918); note - 26 May 1918 was the date of independence from Soviet Russia, 9 April 1991 was the date of independence from the Soviet Union<br>
+
 **Flag description**<br>
 white rectangle with a central red cross extending to all four sides of the flag; each of the four quadrants displays a small red <em>bolnur-katskhuri</em> cross; sometimes referred to as the Five-Cross Flag, the design is based on a 14th-century banner of the Kingdom of Georgia<br>
 
 **National symbol(s)**<br>
-Saint George, lion; national colors: red, white<br>
+Saint George, lion<br>
+
+**National colors**<br>
+red, white<br>
 
 **National anthem**<br>
 _name_: "Tavisupleba" (Liberty)<br>

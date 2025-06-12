@@ -186,8 +186,9 @@ _unimproved: urban_: urban: 3.1% of population<br>
 _unimproved: rural_: rural: 5.3% of population<br>
 _unimproved: total_: total: 4.5% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-3.3% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 3.3% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 4.5% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.72 physicians/1,000 population (2020)<br>
@@ -229,14 +230,14 @@ _women married by age 15_: 4.8% (2021)<br>
 _women married by age 18_: 23.3% (2021)<br>
 _men married by age 18_: 2.6% (2021)<br>
 
-**Education expenditures**<br>
-4.5% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.1% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 14.2% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 74.4%<br>
-_male_: 82.4%<br>
-_female_: 65.8% (2018)<br>
+_total population_: 82% (2023 est.)<br>
+_male_: 88% (2023 est.)<br>
+_female_: 75% (2023 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
@@ -319,12 +320,6 @@ _etymology_: the name is of unknown origin; one theory says it may come from the
 28 states and 8 union territories*; Andaman and Nicobar Islands*, Andhra Pradesh, Arunachal Pradesh, Assam, Bihar, Chandigarh*, Chhattisgarh, Dadra and Nagar Haveli and Daman and Diu*, Delhi*, Goa, Gujarat, Haryana, Himachal Pradesh, Jammu and Kashmir*, Jharkhand, Karnataka, Kerala, Ladakh*, Lakshadweep*, Madhya Pradesh, Maharashtra, Manipur, Meghalaya, Mizoram, Nagaland, Odisha, Puducherry*, Punjab, Rajasthan, Sikkim, Tamil Nadu, Telangana, Tripura, Uttar Pradesh, Uttarakhand, West Bengal<br>
 <strong>note:</strong> although its status is that of a union territory, the official name of Delhi is National Capital Territory of Delhi<br>
 
-**Independence**<br>
-15 August 1947 (from the UK)<br>
-
-**National holiday**<br>
-Republic Day, 26 January (1950)<br>
-
 **Legal system**<br>
 common law system based on the English model; separate personal law codes apply to Muslims, Christians, and Hindus; judicial review of legislative acts<br>
 
@@ -384,9 +379,6 @@ _subordinate courts_: High Courts; District Courts; Labour Court<br>
 **Political parties**<br>
 Aam Aadmi Party or AAP<br>All India Trinamool Congress or AITC<br>Bahujan Samaj Party or BSP<br>Bharatiya Janata Party or BJP<br>Biju Janata Dal or BJD<br>Communist Party of India-Marxist or CPI(M)<br>Dravida Munnetra Khazhagam<br>Indian National Congress or INC<br>Nationalist Congress Party or NCP<br>Rashtriya Janata Dal or RJD<br>Samajwadi Party or SP<br>Shiromani Akali Dal or SAD<br>Shiv Sena or SS<br>Telegana Rashtra Samithi or TRS<br>Telugu Desam Party or TDP<br>YSR Congress or YSRCP or YCP<br>
 
-**International organization participation**<br>
-ADB, AfDB (nonregional member), Arctic Council (observer), ARF, ASEAN (dialogue partner), BIMSTEC, BIS, BRICS, C, CD, CERN (observer), CICA, CP, EAS, FAO, FATF, G-15, G-20, G-24, G-5, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS (observer), MIGA, MINURSO, MONUSCO, NAM, OAS (observer), OECD, OPCW, Pacific Alliance (observer), PCA, PIF (partner), Quad, SAARC, SACEP, SCO (observer), UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNITAR, UNMISS, UNOCI, UNOOSA, UNSOM, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Vinay Mohan KWATRA (since 18 September 2024)<br>
 _chancery_: 2107 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -404,12 +396,24 @@ _FAX_: [91] (11) 2419-0017<br>
 _email address and website_: <br>acsnd@state.gov<br><br>https://in.usembassy.gov/<br>
 _consulate(s) general_: Chennai (Madras), Hyderabad, Kolkata (Calcutta), Mumbai (Bombay)<br>
 
+**International organization participation**<br>
+ADB, AfDB (nonregional member), Arctic Council (observer), ARF, ASEAN (dialogue partner), BIMSTEC, BIS, BRICS, C, CD, CERN (observer), CICA, CP, EAS, FAO, FATF, G-15, G-20, G-24, G-5, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS (observer), MIGA, MINURSO, MONUSCO, NAM, OAS (observer), OECD, OPCW, Pacific Alliance (observer), PCA, PIF (partner), Quad, SAARC, SACEP, SCO (observer), UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNITAR, UNMISS, UNOCI, UNOOSA, UNSOM, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+15 August 1947 (from the UK)<br>
+
+**National holiday**<br>
+Republic Day, 26 January (1950)<br>
+
 **Flag description**<br>
 three equal horizontal bands of saffron (top), white, and green, with a blue <em>chakra </em>(24-spoked wheel) centered in the white band; saffron stands for courage, sacrifice, and the spirit of renunciation; white for purity and truth; green for faith and fertility; the chakra symbolizes the wheel of life in movement and death in stagnation<br>
 <strong>note:</strong> similar to the flag of Niger, which has a small orange disk centered in the white band<br>
 
 **National symbol(s)**<br>
-the Lion Capital of Ashoka, which depicts four Asiatic lions standing back to back mounted on a circular abacus, is the official emblem; Bengal tiger; lotus flower; national colors: saffron, white, green<br>
+the Lion Capital of Ashoka, which depicts four Asiatic lions standing back-to-back and mounted on a circular abacus (official); Bengal tiger and lotus flower (traditional)<br>
+
+**National colors**<br>
+saffron, white, green<br>
 
 **National anthem**<br>
 _name_: "Jana-Gana-Mana" (Thou Art the Ruler of the Minds of All People)<br>

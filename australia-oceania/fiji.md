@@ -168,8 +168,9 @@ _unimproved: urban_: urban: 1.8% of population<br>
 _unimproved: rural_: rural: 10.9% of population<br>
 _unimproved: total_: total: 5.7% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-5.4% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.4% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 10.3% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.81 physicians/1,000 population (2015)<br>
@@ -211,13 +212,14 @@ _women married by age 15_: 0.2% (2021)<br>
 _women married by age 18_: 4% (2021)<br>
 _men married by age 18_: 1.7% (2021)<br>
 
-**Education expenditures**<br>
-5.7% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.2% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 11.6% national budget (2024 est.)<br>
 
 **Literacy**<br>
 _total population_: 99.1%<br>
 _male_: 99.1%<br>
-_female_: 99.1% (2018)<br>
+_female_: 92.4% (2021 est.)<br>
 
 ## Environment
 
@@ -282,12 +284,6 @@ _etymology_: the name means "little hill" in the native Fijian language and may 
 **Administrative divisions**<br>
 14 provinces and 1 dependency*; Ba, Bua, Cakaudrove, Kadavu, Lau, Lomaiviti, Macuata, Nadroga and Navosa, Naitasiri, Namosi, Ra, Rewa, Rotuma*, Serua, Tailevu<br>
 
-**Independence**<br>
-10 October 1970 (from the UK)<br>
-
-**National holiday**<br>
-Fiji (Independence) Day, 10 October (1970)<br>
-
 **Legal system**<br>
 common law system based on the English model<br>
 
@@ -334,9 +330,6 @@ _subordinate courts_: Magistrates' Court (organized into civil, criminal, juveni
 **Political parties**<br>
 Fiji First <br>Fiji Labor Party or FLP <br>Freedom Alliance (formerly Fiji United Freedom Party or FUFP)<br>National Federation Party or NFP <br>People's Alliance <br>Peoples Democratic Party or PDP <br>Social Democratic Liberal Party or SODELPA <br>Unity Fiji<br>
 
-**International organization participation**<br>
-ACP, ADB, AOSIS, C, CP, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OPCW, PCA, PIF, Sparteca (suspended), SPC, UN, UNCTAD, UNDOF, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Ilisoni VUIDREKETI (since 17 June 2024)<br>
 _chancery_: 1707 L Street NW, Suite 200, Washington, DC 20036<br>
@@ -352,11 +345,23 @@ _telephone_: [679] 331-4466<br>
 _FAX_: [679] 330-2267<br>
 _email address and website_: <br>SuvaACS@state.gov<br><br>https://fj.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, ADB, AOSIS, C, CP, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OPCW, PCA, PIF, Sparteca (suspended), SPC, UN, UNCTAD, UNDOF, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+10 October 1970 (from the UK)<br>
+
+**National holiday**<br>
+Fiji (Independence) Day, 10 October (1970)<br>
+
 **Flag description**<br>
 light blue with the UK flag in the upper hoist-side quadrant and the Fijian shield centered on the outer half of the flag; blue symbolizes the Pacific Ocean; the shield is taken from Fiji's coat of arms and shows a yellow lion holding a coconut above a white field quartered by the cross of Saint George; the four quarters depict sugarcane, a palm tree, a banana bunch, and a white dove<br>
 
 **National symbol(s)**<br>
-Fijian canoe; national color: light blue<br>
+Fijian canoe<br>
+
+**National colors**<br>
+light blue<br>
 
 **National anthem**<br>
 _name_: "God Bless Fiji"<br>

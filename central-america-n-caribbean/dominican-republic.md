@@ -178,8 +178,9 @@ _unimproved: urban_: urban: 1.7% of population<br>
 _unimproved: rural_: rural: 8.3% of population<br>
 _unimproved: total_: total: 2.8% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-4.9% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 4.9% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 14.4% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.43 physicians/1,000 population (2023)<br>
@@ -220,14 +221,14 @@ _female_: 5.9% (2025 est.)<br>
 _women married by age 15_: 9.4% (2019)<br>
 _women married by age 18_: 31.5% (2019)<br>
 
-**Education expenditures**<br>
-4.6% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.3% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 21.9% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 95.5%<br>
-_male_: 95.4%<br>
-_female_: 95.6% (2022)<br>
+_total population_: 94% (2016 est.)<br>
+_male_: 94% (2016 est.)<br>
+_female_: 87.4% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -301,12 +302,6 @@ _etymology_: named after Saint Domingo de GUZMAN (1170-1221), founder of the Dom
 **Administrative divisions**<br>
 31 provinces (provincias, singular - provincia), 1 district* (distrito); Azua, Baoruco, Barahona, Dajab&oacute;n, Distrito Nacional*, Duarte, El&iacute;as Pi&ntilde;a, El Seibo, Espaillat, Hato Mayor, Hermanas Mirabal, Independencia, La Altagracia, La Romana, La Vega, Mar&iacute;a Trinidad S&aacute;nchez, Monse&ntilde;or Nouel, Monte Cristi, Monte Plata, Pedernales, Peravia, Puerto Plata, Saman&aacute;, S&aacute;nchez Ram&iacute;rez, San Crist&oacute;bal, San Jos&eacute; de Ocoa, San Juan, San Pedro de Macor&iacute;s, Santiago, Santiago Rodr&iacute;guez, Santo Domingo, Valverde<br>
 
-**Independence**<br>
-27 February 1844 (from Haiti)<br>
-
-**National holiday**<br>
-Independence Day, 27 February (1844)<br>
-
 **Legal system**<br>
 civil law system based on the French civil code; Criminal Procedures Code modified in 2004 to include important elements of an accusatory system<br>
 
@@ -368,9 +363,6 @@ _subordinate courts_: courts of appeal; courts of first instance; justices of th
 **Political parties**<br>
 Alliance for Democracy or APD<br>Broad Front (Frente Amplio)<br>Country Alliance or AP<br>Dominican Liberation Party or PLD<br>Dominican Revolutionary Party or PRD<br>Dominicans For Change or DXC<br>Independent Revolutionary Party or PRI<br>Institutional Social Democratic Bloc or BIS<br>Liberal Reformist Party or PRL (formerly the Liberal Party of the Dominican Republic or PLRD)<br>Modern Revolutionary Party or PRM<br>National Progressive Front or FNP<br>People's First Party or PPG<br>People's Force or FP<br>Social Christian Reformist Party or PRSC<br>
 
-**International organization participation**<br>
-ACP, ACS, AOSIS, BCIE, Caricom (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, MINUSMA, NAM, OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA (associated member), UN, UNCTAD, UNESCO, UNHRC, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Maria Isabel CASTILLO B&aacute;ez (since January 2025)<br>
 _chancery_: 1715 22nd Street NW, Washington, DC 20008<br>
@@ -386,11 +378,23 @@ _mailing address_: 3470 Santo Domingo Place, Washington DC&nbsp; 20521-3470<br>
 _telephone_: (809) 567-7775<br>
 _email address and website_: <br>SDOAmericans@state.gov<br><br>https://do.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, ACS, AOSIS, BCIE, Caricom (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, MINUSMA, NAM, OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA (associated member), UN, UNCTAD, UNESCO, UNHRC, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+27 February 1844 (from Haiti)<br>
+
+**National holiday**<br>
+Independence Day, 27 February (1844)<br>
+
 **Flag description**<br>
 a centered white cross extends to the edges and divides the flag into four rectangles; the top ones are ultramarine blue (hoist side) and vermilion red, and the bottom ones are vermilion red (hoist side) and ultramarine blue; a small coat of arms featuring a shield supported by a laurel branch (left) and a palm branch (right) is at the center of the cross; above the shield a blue ribbon displays the motto DIOS, PATRIA, LIBERTAD (God, Fatherland, Liberty), and below the shield, REPUBLICA DOMINICANA appears on a red ribbon; in the shield, a Bible is opened to a verse that reads "Y la verdad nos hara libre" (And the truth shall set you free); blue stands for liberty, white for salvation, and red for the blood of heroes<br>
 
 **National symbol(s)**<br>
-palmchat (bird); national colors: red, white, blue<br>
+palmchat (bird)<br>
+
+**National colors**<br>
+red, white, blue<br>
 
 **National anthem**<br>
 _name_: "Himno Nacional" (National Anthem)<br>

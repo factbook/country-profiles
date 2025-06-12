@@ -177,8 +177,9 @@ _unimproved: urban_: urban: 2.8% of population<br>
 _unimproved: rural_: rural: 44.7% of population<br>
 _unimproved: total_: total: 6.9% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-2.7% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 2.7% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 9.6% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.52 physicians/1,000 population (2022)<br>
@@ -212,14 +213,14 @@ _women married by age 15_: 2.9% (2021)<br>
 _women married by age 18_: 13.3% (2021)<br>
 _men married by age 18_: 4.8% (2021)<br>
 
-**Education expenditures**<br>
-3.2% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.3% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 13.6% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 85.5%<br>
-_male_: 86.2%<br>
-_female_: 84.7% (2021)<br>
+_total population_: 88.9% (2021 est.)<br>
+_male_: 90.8% (2021 est.)<br>
+_female_: 87.1% (2021 est.)<br>
 
 ## Environment
 
@@ -288,12 +289,6 @@ _etymology_: the city was founded in 1849 by freed slaves, and the name means "f
 **Administrative divisions**<br>
 9 provinces; Estuaire, Haut-Ogooue, Moyen-Ogooue, Ngounie, Nyanga, Ogooue-Ivindo, Ogooue-Lolo, Ogooue-Maritime, Woleu-Ntem<br>
 
-**Independence**<br>
-17 August 1960 (from France)<br>
-
-**National holiday**<br>
-Independence Day, 17 August (1960)<br>
-
 **Legal system**<br>
 mixed system of French civil law and customary law<br>
 
@@ -349,9 +344,6 @@ _subordinate courts_: Courts of Appeal; county courts; military courts<br>
 Gabonese Democratic Party or PDG <br>Restoration of Republican Values or RV<br>The Democrats or LD<br>
 Paul Mba Abessole<br>
 
-**International organization participation**<br>
-ACP, AfDB, AU (suspended), BDEAC, CEMAC, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador No&euml;l Nelson MESSONE (12 December 2022)<br>
 _chancery_: 2034 20th Street NW, Suite 200, Washington, DC 20009<br>
@@ -368,14 +360,26 @@ _telephone_: [241] 011-45-71-00<br>
 _FAX_: [241] 011-45-71-05<br>
 _email address and website_: <br>ACSLibreville@state.gov<br><br>https://ga.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU (suspended), BDEAC, CEMAC, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+17 August 1960 (from France)<br>
+
+**National holiday**<br>
+Independence Day, 17 August (1960)<br>
+
 **Flag description**<br>
 three equal horizontal bands of green (top), yellow, and blue; green stands for the country's forests and natural resources, gold for the equator and the sun, and blue for the sea<br>
 
 **National symbol(s)**<br>
-black panther; national colors: green, yellow, blue<br>
+black panther<br>
+
+**National colors**<br>
+green, yellow, blue<br>
 
 **National coat of arms**<br>
-On Gabon’s coat of arms, the panthers represent vigilance and courage, and they support a shield with a ship and an okoume tree, which is a symbol of the timber trade. The ribbon below the shield has the national motto in French, <em>Union, Travail, Justice</em> ("Union, Work, Justice"), and the ribbon above the shield has the Latin phrase <em>Uniti Progrediemur</em> ("We shall go forward united").<br>
+the panthers represent vigilance and courage, and they support a shield with a ship and an okoume tree, which is a symbol of the timber trade; the ribbon below the shield has the national motto in French, <em>Union, Travail, Justice</em> ("Union, Work, Justice"), and the ribbon above the shield has the Latin phrase <em>Uniti Progrediemur</em> ("We shall go forward united")<br>
 
 **National anthem**<br>
 _name_: "La Concorde" (The Concorde)<br>

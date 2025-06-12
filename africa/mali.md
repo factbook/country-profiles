@@ -183,8 +183,9 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 24.1% of population<br>
 _unimproved: total_: total: 13.6% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-4.5% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 4.5% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 5.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.19 physicians/1,000 population (2023)<br>
@@ -226,14 +227,14 @@ _women married by age 15_: 15.9% (2018)<br>
 _women married by age 18_: 53.7% (2018)<br>
 _men married by age 18_: 2.1% (2018)<br>
 
-**Education expenditures**<br>
-4.4% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.2% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 17.8% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 35.5%<br>
-_male_: 46.2%<br>
-_female_: 25.7% (2018)<br>
+_total population_: 35% (2018 est.)<br>
+_male_: 46% (2018 est.)<br>
+_female_: 26% (2018 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 7 years<br>
@@ -263,9 +264,6 @@ _other_: 53.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 46.2% of total population (2023)<br>
 _rate of urbanization_: 4.57% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <p><em>due to civil insecurity and </em><em>high food prices </em><em>- </em>according to the latest analysis, about 1.26 million people are projected to face acute food insecurity during the June to August 2023 lean season period; in total however, the number of food insecure is lower in 2023 compared to 2022; food insecurity conditions are primarily underpinned by the impact of the conflict in central and northern areas, which has caused the displacement of over 375,000 people, as of April 2023; persistent high food prices affect vulnerable households across the country, but limit in particular the food access of people in conflict-affected areas due to market disruptions and limited access to sources of income and humanitarian assistance</p> (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 38.55 micrograms per cubic meter (2019 est.)<br>
@@ -317,12 +315,6 @@ _etymology_: the origin of the name is unclear, but it comes from the Bambara la
 **Administrative divisions**<br>
 19 regions (regions, singular - region), 1 district*; Bamako*, Bandiagara, Bougouni, Dioila, Douentza, Gao, Kayes, Kidal, Kita, Koulikoro, Koutiala, Menaka, Mopti, Nara, Nioro, San, Segou, Sikasso, Taoudenni, Tombouctou (Timbuktu)<br>
 
-**Independence**<br>
-22 September 1960 (from France)<br>
-
-**National holiday**<br>
-Independence Day, 22 September (1960)<br>
-
 **Legal system**<br>
 civil law system based on the French civil law model and influenced by customary law; Constitutional Court reviews legislative acts<br>
 
@@ -370,9 +362,6 @@ _subordinate courts_: Court of Appeal; High Court of Justice (jurisdiction limit
 <p>African Solidarity for Democracy and Independence or SADI<br>Alliance for Democracy and Progress or ADP-Maliba<br>Alliance for Democracy in Mali-Pan-African Party for Liberty, Solidarity, and Justice or ADEMA-PASJ<br>Alliance for the Solidarity of Mali-Convergence of Patriotic Forces or ASMA-CFP<br>Convergence for the Development of Mali or CODEM <br>Democratic Alliance for Peace or ADP-Maliba<br>Movement for Mali or MPM<br>Party for National Renewal (also Rebirth or Renaissance or PARENA)<br>Rally for Mali or RPM <br>Social Democratic Convention or CDS<br>Union for Democracy and Development or UDD<br>Union for Republic and Democracy or URD<br>Yéléma</p><br>
 <strong>note 1:  </strong>only parties with 2 or more seats in the last National Assembly parliamentary elections (30 March and 19 April 2020) included<br><strong><br>note 2:</strong>  the National Assembly was dissolved on 18 August 2020 following a military coup and replaced with a National Transition Council; currently 121 members, party affiliations unknown<br>
 
-**International organization participation**<br>
-ACP, AfDB, AU (suspended), CD, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MONUSCO, NAM, OIC, OPCW, UN, UNCTAD, UNDP, UNESCO, UNFPA, UNHCR, UNIDO, UNOPS, UN Women, UNWTO, UPU, WADB (regional), WAEMU, World Bank Group, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador S&eacute;kou BERTHE (since 16 September 2022)<br>
 _chancery_: 2130 R Street NW, Washington, DC 20008<br>
@@ -388,12 +377,24 @@ _telephone_: [223] 20-70-23-00<br>
 _FAX_: [223] 20-70-24-79<br>
 _email address and website_: <br>ACSBamako@state.gov<br><br>https://ml.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU (suspended), CD, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MONUSCO, NAM, OIC, OPCW, UN, UNCTAD, UNDP, UNESCO, UNFPA, UNHCR, UNIDO, UNOPS, UN Women, UNWTO, UPU, WADB (regional), WAEMU, World Bank Group, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+22 September 1960 (from France)<br>
+
+**National holiday**<br>
+Independence Day, 22 September (1960)<br>
+
 **Flag description**<br>
 three equal vertical bands of green (hoist side), yellow, and red<br>
 <strong>note:</strong> uses the popular pan-African colors of Ethiopia; the colors from left to right are the same as those of neighboring Senegal (which has an additional green central star) and the reverse of those on the flag of neighboring Guinea<br>
 
 **National symbol(s)**<br>
-Great Mosque of Djenne; national colors: green, yellow, red<br>
+Great Mosque of Djenne<br>
+
+**National colors**<br>
+green, yellow, red<br>
 
 **National anthem**<br>
 _name_: "Le Mali" (Mali)<br>

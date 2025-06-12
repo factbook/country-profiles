@@ -178,8 +178,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-5.6% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.6% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 8.5% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.93 physicians/1,000 population (2023)<br>
@@ -220,14 +221,14 @@ _female_: 0.5% (2025 est.)<br>
 _women married by age 15_: 0.2% (2019)<br>
 _women married by age 18_: 6.1% (2019)<br>
 
-**Education expenditures**<br>
-3.1% of GDP (2019 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.7% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 20.5% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 99.7%<br>
 _male_: 99.8%<br>
-_female_: 99.6% (2015)<br>
+_female_: 99.6% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -306,12 +307,6 @@ _etymology_: derived from the Turkmen words <em>ushq</em>, meaning "love," and <
 5 provinces (velayatlar, singular - velayat) and 1 independent city*: Ahal Velayat (Arkadag), Ashgabat*, Balkan Velayat (Balkanabat), Dashoguz Velayat, Lebap Velayat (Turkmenabat), Mary Velayat<br>
 <strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)<br>
 
-**Independence**<br>
-27 October 1991 (from the Soviet Union)<br>
-
-**National holiday**<br>
-Independence Day, 27 October (1991)<br>
-
 **Legal system**<br>
 civil law system with Islamic (sharia) law influences<br>
 
@@ -360,9 +355,6 @@ _subordinate courts_: High Commercial Court; appellate courts; provincial, distr
 Agrarian Party of Turkmenistan or APT<br>Democratic Party of Turkmenistan or DPT<br>Party of Industrialists and Entrepreneurs or PIE<br>
 <strong>note:</strong> all of these parties support President BERDIMUHAMEDOV; a law authorizing the registration of political parties went into effect in January 2012; unofficial, small opposition movements exist abroad<br>
 
-**International organization participation**<br>
-ADB, CIS (associate member, has not ratified the 1993 CIS charter although it participates in meetings and held the chairmanship of the CIS in 2012), EAPC, EBRD, ECO, FAO, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), ISO (correspondent), ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Meret ORAZOV (since 14 February 2001)<br>
 _chancery_: 2207 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -378,11 +370,23 @@ _telephone_: [993] (12) 94-00-45<br>
 _FAX_: [993] (12) 94-26-14<br>
 _email address and website_: <br>ConsularAshgab@state.gov<br><br>https://tm.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB, CIS (associate member, has not ratified the 1993 CIS charter although it participates in meetings and held the chairmanship of the CIS in 2012), EAPC, EBRD, ECO, FAO, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), ISO (correspondent), ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO<br>
+
+**Independence**<br>
+27 October 1991 (from the Soviet Union)<br>
+
+**National holiday**<br>
+Independence Day, 27 October (1991)<br>
+
 **Flag description**<br>
 green field with a vertical red stripe near the hoist side, containing five tribal <em>guls </em>(designs used in producing carpets) stacked above two crossed olive branches; five white five-pointed stars and a white crescent moon appear in the upper corner of the field; the green color and crescent moon stand for Islam, the five stars for the country's regions, and the guls for national identity<br>
 
 **National symbol(s)**<br>
-Akhal-Teke horse; national colors: green, white<br>
+Akhal-Teke horse<br>
+
+**National colors**<br>
+green, white<br>
 
 **National anthem**<br>
 _name_: "Garassyz, Bitarap Turkmenistanyn" (Independent, Neutral, Turkmenistan State Anthem)<br>

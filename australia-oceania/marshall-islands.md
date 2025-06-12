@@ -166,8 +166,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0.2% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-12.5% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 12.5% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 6.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.47 physicians/1,000 population (2012)<br>
@@ -194,11 +195,11 @@ _female_: 8.5% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 68.3% (2022 est.)<br>
 
-**Education expenditures**<br>
-13.6% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 7.5% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 11.3% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 98.3%<br>
 _male_: 98.3%<br>
 _female_: 98.2% (2011)<br>
@@ -269,12 +270,6 @@ _etymology_: Majuro means "two openings" or "two eyes" and refers to the two maj
 **Administrative divisions**<br>
 24 municipalities; Ailinglaplap, Ailuk, Arno, Aur, Bikini &amp; Kili, Ebon, Enewetak &amp; Ujelang, Jabat, Jaluit, Kwajalein, Lae, Lib, Likiep, Majuro, Maloelap, Mejit, Mili, Namorik, Namu, Rongelap, Ujae, Utrik, Wotho, Wotje<br>
 
-**Independence**<br>
-21 October 1986 (from the US-administered UN trusteeship)<br>
-
-**National holiday**<br>
-Constitution Day, 1 May (1979)<br>
-
 **Legal system**<br>
 mixed system of US and English common law, customary law, and local statutes<br>
 
@@ -322,9 +317,6 @@ _subordinate courts_: High Court; District Courts; Traditional Rights Court; Com
 **Political parties**<br>
 traditionally there have been no formally organized political parties; what has existed more closely resembles factions or interest groups because they do not have party headquarters, formal platforms, or party structures<br>
 
-**International organization participation**<br>
-ACP, ADB, AOSIS, FAO, G-77, IAEA, IBRD, ICAO, ICCt, IDA, IFAD, IFC, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNHRC, WHO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Charles Rudolph PAUL (since 27 February 2024)<br>
 _chancery_: 2433 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -341,11 +333,23 @@ _telephone_: [692] 247-4011<br>
 _FAX_: [692] 247-4012<br>
 _email address and website_: <br>MAJConsular@state.gov<br><br>https://mh.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, ADB, AOSIS, FAO, G-77, IAEA, IBRD, ICAO, ICCt, IDA, IFAD, IFC, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNHRC, WHO<br>
+
+**Independence**<br>
+21 October 1986 (from the US-administered UN trusteeship)<br>
+
+**National holiday**<br>
+Constitution Day, 1 May (1979)<br>
+
 **Flag description**<br>
 blue with an orange stripe and a white stripe radiating from the lower hoist-side corner; a white star with four large rays and 20 small rays appears on the hoist side above the two stripes; the blue stands for the Pacific Ocean, the orange stripe for the Ralik Chain (or sunset and courage), and the white stripe for the Ratak Chain (or sunrise and peace); the star symbolizes the Christian cross, with a small ray for each electoral district and a larger ray for the principal cultural centers of Majuro, Jaluit, Wotje, and Ebeye; the diagonal stripes can also be interpreted as representing the equator, with the star showing the archipelago's position<br>
 
 **National symbol(s)**<br>
-a 24-rayed star; national colors: blue, white, orange<br>
+a 24-rayed star<br>
+
+**National colors**<br>
+blue, white, orange<br>
 
 **National anthem**<br>
 _name_: "Forever Marshall Islands"<br>
@@ -519,9 +523,6 @@ _percent of population_: 66% (2023 est.)<br>
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
-
-**Communications - note**<br>
-Kwajalein hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are at Cape Canaveral, Florida (US), on Ascension (Saint Helena, Ascension, and Tristan da Cunha), and at Diego Garcia (British Indian Ocean Territory))<br>
 
 ## Transportation
 

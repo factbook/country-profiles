@@ -141,12 +141,6 @@ _etymology_: the name derives from the hill called Mons Vaticanus, on which the 
 **Administrative divisions**<br>
 none<br>
 
-**Independence**<br>
-11 February 1929; note - the three treaties signed with Italy on 11 February 1929 acknowledged, among other things, the full sovereignty of the Holy See and established its territorial extent; however, the origin of the Papal States, which over centuries varied considerably in extent, may be traced back to A.D. 754<br>
-
-**National holiday**<br>
-Election Day of Pope FRANCIS, 13 March (2013)<br>
-
 **Legal system**<br>
 religious system based on canon (religious) law<br>
 
@@ -191,9 +185,6 @@ _subordinate courts_: Appellate Court of Vatican City; Tribunal of Vatican City<
 **Political parties**<br>
 none<br>
 
-**International organization participation**<br>
-CE (observer), IAEA, Interpol, IOM, ITSO, ITU, ITUC (NGOs), OAS (observer), OPCW, OSCE, Schengen Convention (de facto member), UN (observer), UNCTAD, UNHCR, UNWTO (observer), UPU, WIPO, WTO (observer)<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Apostolic Nuncio Cardinal Christophe PIERRE (since 27 June 2016)<br>
 _chancery_: 3339 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -209,11 +200,24 @@ _telephone_: [39] (06) 4674-1<br>
 _FAX_: [39] (06) 4674-3411<br>
 _email address and website_: <br>https://va.usembassy.gov/<br>
 
+**International organization participation**<br>
+CE (observer), IAEA, Interpol, IOM, ITSO, ITU, ITUC (NGOs), OAS (observer), OPCW, OSCE, Schengen Convention (de facto member), UN (observer), UNCTAD, UNHCR, UNWTO (observer), UPU, WIPO, WTO (observer)<br>
+
+**Independence**<br>
+11 February 1929<br>
+<strong>note:</strong> the three treaties signed with Italy on 11 February 1929 acknowledged the full sovereignty of the Holy See and established its territorial extent, but the origin of the Papal States, which over centuries varied considerably in extent, can be traced back to A.D. 754<br>
+
+**National holiday**<br>
+Election Day of Pope FRANCIS, 13 March (2013)<br>
+
 **Flag description**<br>
 two vertical bands of yellow (hoist side) and white with the arms of the Holy See, consisting of the crossed keys of Saint Peter with the three-tiered papal tiara above, centered in the white band; the yellow color represents the pope's spiritual power, and the white his worldly power<br>
 
 **National symbol(s)**<br>
-crossed keys beneath a papal tiara; national colors: yellow, white<br>
+crossed keys under a papal tiara<br>
+
+**National colors**<br>
+yellow, white<br>
 
 **National anthem**<br>
 _name_: "Inno e Marcia Pontificale" (Hymn and Pontifical March); often called The Pontifical Hymn<br>

@@ -168,8 +168,9 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-5.3% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.3% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 12.1% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.99 physicians/1,000 population (2023)<br>
@@ -203,14 +204,14 @@ _female_: 2.4% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 72.4% (2023 est.)<br>
 
-**Education expenditures**<br>
-3.9% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.9% of GDP (2021 est.)<br>
+_Education expenditure (% national budget)_: 14.8% national budget (2021 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 98.1%<br>
-_male_: 98.8%<br>
-_female_: 97.2% (2021)<br>
+_total population_: 98% (2023 est.)<br>
+_male_: 99% (2023 est.)<br>
+_female_: 97% (2023 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
@@ -282,12 +283,6 @@ _etymology_: in Arabic, <em>abu</em> means "father," and <em>dhabi</em> refers t
 **Administrative divisions**<br>
 7 emirates (imarat, singular - imarah); Abu Zaby (Abu Dhabi), 'Ajman, Al Fujayrah, Ash Shariqah (Sharjah), Dubayy (Dubai), Ra's al Khaymah, Umm al Qaywayn<br>
 
-**Independence**<br>
-2 December 1971 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day (National Day), 2 December (1971)<br>
-
 **Legal system**<br>
 mixed system of Islamic (sharia) law and civil law<br>
 
@@ -335,9 +330,6 @@ _subordinate courts_: Federal Court of Cassation (determines the constitutionali
 **Political parties**<br>
 none; political parties are banned; all candidates run as independents<br>
 
-**International organization participation**<br>
-ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, BRICS, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OIF (observer), OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Yousif AL OTAIBA (since 28 July 2008)<br>
 _chancery_: 3522 International Court NW, Suite 400, Washington, DC 20008<br>
@@ -355,11 +347,23 @@ _FAX_: [971] (2) 414-2241<br>
 _email address and website_: <br>abudhabiacs@state.gov<br><br>https://ae.usembassy.gov/<br>
 _consulate(s) general_: Dubai<br>
 
+**International organization participation**<br>
+ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, BRICS, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OIF (observer), OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+2 December 1971 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day (National Day), 2 December (1971)<br>
+
 **Flag description**<br>
 three equal horizontal bands of green (top), white, and black, with a wider vertical red band on the hoist side; the flag incorporates all four pan-Arab colors, which in this case represent fertility (green), neutrality (white), oil (black), and unity (red); red is a traditional color that was part of all the emirates' flags before their unification<br>
 
 **National symbol(s)**<br>
-golden falcon; national colors: green, white, black, red<br>
+golden falcon<br>
+
+**National colors**<br>
+green, white, black, red<br>
 
 **National anthem**<br>
 _name_: "Nashid al-watani al-imarati" (National Anthem of the UAE)<br>

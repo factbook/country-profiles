@@ -169,14 +169,6 @@ _unimproved: total_: total: 1% of population (2020 est.)<br>
 **Currently married women (ages 15-49)**<br>
 53.5% (2023 est.)<br>
 
-**Education expenditures**<br>
-NA<br>
-
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -224,12 +216,6 @@ _time difference_: UTC-11 (6 hours behind Washington, DC, during Standard Time)<
 **Administrative divisions**<br>
 none (territory of the US); there are no first-order administrative divisions as defined by the US Government, but there are 3 districts and 2 islands* at the second order; Eastern, Manu'a, Rose Island*, Swains Island*, Western<br>
 
-**Independence**<br>
-none (territory of the US)<br>
-
-**National holiday**<br>
-Flag Day, 17 April (1900)<br>
-
 **Legal system**<br>
 mixed legal system of US common law and customary law<br>
 
@@ -262,20 +248,29 @@ _subordinate courts_: district and village courts<br>
 **Political parties**<br>
 Democratic Party<br>Republican Party<br>
 
-**International organization participation**<br>
-AOSIS (observer), Interpol (subbureau), IOC, PIF (observer), SPC<br>
-
 **Diplomatic representation in the US**<br>
 none (territory of the US)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (territory of the US)<br>
 
+**International organization participation**<br>
+AOSIS (observer), Interpol (subbureau), IOC, PIF (observer), SPC<br>
+
+**Independence**<br>
+none (territory of the US)<br>
+
+**National holiday**<br>
+Flag Day, 17 April (1900)<br>
+
 **Flag description**<br>
 a large white triangle edged in red that is based on the fly side and extends to the hoist side and is charged with an eagle, all on a blue field; the red, white, and blue colors are traditionally used by both the United States and Samoa; the brown and white American bald eagle carries two traditional Samoan symbols of authority, a war club known as a <em>fa'alaufa'i</em> (upper), and a coconut-fiber fly whisk known as a <em>fue </em>(lower); the combination of symbols reflects the US Great Seal and the relationship between the US and American Samoa<br>
 
 **National symbol(s)**<br>
-a fue (coconut fiber fly whisk; representing wisdom) crossed with a to'oto'o (staff; representing authority); national colors: red, white, blue<br>
+a <em>fue </em>(coconut fiber fly whisk that represents wisdom) crossed with a <em>to'oto'o</em> (staff that represents authority)<br>
+
+**National colors**<br>
+red, white, blue<br>
 
 **National anthem**<br>
 _name_: "Amerika Samoa" (American Samoa)<br>

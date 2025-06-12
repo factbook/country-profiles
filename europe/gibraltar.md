@@ -165,8 +165,8 @@ _unimproved: total_: total: 0% of population (2020)<br>
 **Currently married women (ages 15-49)**<br>
 40.7% (2023 est.)<br>
 
-**Education expenditures**<br>
-NA<br>
+**Education expenditure**<br>
+8.8% national budget (2023 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -219,12 +219,6 @@ _etymology_: from the Spanish derivation of the Arabic <em>jabal tariq</em>, whi
 **Administrative divisions**<br>
 none (overseas territory of the UK)<br>
 
-**Independence**<br>
-none (overseas territory of the UK)<br>
-
-**National holiday**<br>
-National Day, 10 September (1967); note - day of the national referendum to decide whether to remain with the UK or join Spain<br>
-
 **Legal system**<br>
 the laws of the UK apply<br>
 
@@ -265,20 +259,29 @@ _subordinate courts_: Court of First Instance; Magistrates' Court; specialized t
 **Political parties**<br>
 Gibraltar Liberal Party or Liberal Party of Gibraltar or LPG <br>Gibraltar Social Democrats or GSD <br>Gibraltar Socialist Labor Party or GSLP <br>GSLP-Liberal Alliance <br>Together Gibraltar or TG <br>
 
-**International organization participation**<br>
-ICC (NGOs), Interpol (subbureau), UPU<br>
-
 **Diplomatic representation in the US**<br>
 none (overseas territory of the UK)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (overseas territory of the UK)<br>
 
+**International organization participation**<br>
+ICC (NGOs), Interpol (subbureau), UPU<br>
+
+**Independence**<br>
+none (overseas territory of the UK)<br>
+
+**National holiday**<br>
+National Day, 10 September (1967); note - day of the national referendum to decide whether to remain with the UK or join Spain<br>
+
 **Flag description**<br>
 two horizontal bands of white (top, double-width) and red with a three-towered red castle in the center of the white band; a gold key hangs from the castle gate and is centered in the red band; the design comes from Gibraltar's coat of arms that was granted on 10 July 1502 by King Ferdinand and Queen Isabella of Spain; the castle symbolizes Gibraltar as a fortress, and the key represents Gibraltar's strategic importance -- the key to the Mediterranean<br>
 
 **National symbol(s)**<br>
-Barbary partridge; national colors: red, white, yellow<br>
+Barbary partridge<br>
+
+**National colors**<br>
+red, white, yellow<br>
 
 **National anthem**<br>
 _name_: "Gibraltar Anthem"<br>

@@ -175,8 +175,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0.4% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-6.6% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 6.6% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 12.3% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 4.72 physicians/1,000 population (2023)<br>
@@ -215,14 +216,14 @@ _women married by age 15_: 0.1% (2019)<br>
 _women married by age 18_: 4.7% (2019)<br>
 _men married by age 18_: 1.6% (2019)<br>
 
-**Education expenditures**<br>
-4.7% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 12.8% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 99.9%<br>
-_male_: 99.9%<br>
-_female_: 99.9% (2019)<br>
+_total population_: 100% (2019 est.)<br>
+_male_: 100% (2019 est.)<br>
+_female_: 100% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -300,12 +301,6 @@ _etymology_: the origin of the name is disputed; it may be derived from the Menk
 6 regions (voblastsi, singular - voblasts') and 1 municipality* (horad); Brest, Homyel' (Gomel'), Horad Minsk* (Minsk City), Hrodna (Grodno), Mahilyow (Mogilev), Minsk, Vitsyebsk (Vitebsk)<br>
 <strong>note:</strong> administrative divisions have the same names as their administrative centers; Russian spelling provided for reference when different from Belarusian<br>
 
-**Independence**<br>
-25 August 1991 (from the Soviet Union)<br>
-
-**National holiday**<br>
-Independence Day, 3 July (1944); note - 3 July 1944 was the date Minsk was liberated from German troops, 25 August 1991 was the date of independence from the Soviet Union<br>
-
 **Legal system**<br>
 civil law system<br>
 <strong>note:</strong> nearly all major codes (civil, civil procedure, criminal, criminal procedure, family, and labor) were revised and came into force in 1999 and 2000<br>
@@ -366,9 +361,6 @@ _subordinate courts_: oblast courts; Minsk City Court; town courts; Minsk city a
 **Political parties**<br>
 Belaya Rus or BR<br>Republican Party of Labour and Justice or RPTS<br>Communist Party of Belarus or CBP<br>Liberal Democratic Party of Belarus or LDPB<br>
 
-**International organization participation**<br>
-BSEC (observer), CBSS (observer), CEI, CIS, CSTO, EAEC, EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFC, IFRCS, ILO, IMF, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OPCW, OSCE, PCA, PFP, SCO (dialogue member), UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer), ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant; recalled by Belarus in 2008); Charg&eacute; d'Affaires Pavel SHIDLOWSKI (since 9 August 2022)<br>
 _chancery_: 1619 New Hampshire Avenue NW, Washington, DC 20009<br>
@@ -384,11 +376,23 @@ _telephone_: [375] (17) 210-12-83<br>
 _FAX_: [375] (17) 334-78-53<br>
 _email address and website_: <br>ConsularMinsk@state.gov<br><br>https://by.usembassy.gov/<br>
 
+**International organization participation**<br>
+BSEC (observer), CBSS (observer), CEI, CIS, CSTO, EAEC, EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFC, IFRCS, ILO, IMF, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OPCW, OSCE, PCA, PFP, SCO (dialogue member), UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer), ZC<br>
+
+**Independence**<br>
+25 August 1991 (from the Soviet Union)<br>
+
+**National holiday**<br>
+Independence Day, 3 July (1944); note - 3 July 1944 was the date Minsk was liberated from German troops, 25 August 1991 was the date of independence from the Soviet Union<br>
+
 **Flag description**<br>
 red horizontal band (top) and green horizontal band one-half the width of the red band; a white vertical stripe on the hoist side bears Belarusian national ornamentation in red; the red stands for past struggles from oppression, and the green represents hope and the many forests of the country<br>
 
 **National symbol(s)**<br>
-no clearly defined current national symbol, the mounted knight known as Pahonia (the Chaser) is the traditional Belarusian symbol; national colors: green, red, white<br>
+no official symbol; the mounted knight known as Pahonia (the Chaser) is the traditional symbol<br>
+
+**National colors**<br>
+green, red, white<br>
 
 **National anthem**<br>
 _name_: "My, Bielarusy" (We Belarusians)<br>

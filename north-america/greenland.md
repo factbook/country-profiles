@@ -178,11 +178,10 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Currently married women (ages 15-49)**<br>
 39.4% (2023 est.)<br>
 
-**Education expenditures**<br>
+**Education expenditure**<br>
 10.2% of GDP (2019 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 100%<br>
 _male_: 100%<br>
 _female_: 100% (2015)<br>
@@ -240,12 +239,6 @@ _etymology_: <em>nuuk </em>is the Inuit word for "cape;" until 1979, the name wa
 5 municipalities (kommuner, singular kommune); Avannaata, Kujalleq, Qeqertalik, Qeqqata, Sermersooq<br>
 <strong>note:</strong> Northeast Greenland National Park (Kalaallit Nunaanni Nuna Eqqissisimatitaq) and the Pituffik Space Base (formerly known as Thule Air Base) in northwest Greenland are two unincorporated areas; the national park's 972,000 sq km - about 46% of the island - makes it the largest national park in the world and also the most northerly<br>
 
-**Independence**<br>
-none (extensive self-rule as part of the Kingdom of Denmark; foreign affairs is the responsibility of Denmark, but Greenland actively participates in international agreements relating to Greenland)<br>
-
-**National holiday**<br>
-National Day, June 21; note - marks the summer solstice and the longest day of the year in the Northern Hemisphere<br>
-
 **Legal system**<br>
 Denmark's laws apply in some areas, and Greenland's law for the remainder<br>
 
@@ -287,9 +280,6 @@ _subordinate courts_: Court of Greenland; 18 district or magistrates' courts<br>
 **Political parties**<br>
 Democrats Party (Demokraatit) or D <br>Fellowship Party (Atassut) or A <br>Forward Party (Siumut) or S <br>Inuit Community (Inuit Ataqatigiit) or IA <br>Signpost Party (Naleraq) or N (formerly Partii Naleraq)<br>
 
-**International organization participation**<br>
-Arctic Council, ICC, NC, NIB, UPU<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Kenneth H&Oslash;EGH, Head of Representation (since 1 August 2021)<br>
 _chancery_: 3200 Whitehaven Street, NW<br>Washington, DC  20008<br>
@@ -304,11 +294,23 @@ _embassy_: Aalisartut Aqqutaa 47<br>Nuuk 3900<br>Greenland<br>
 _telephone_: (+299) 384100<br>
 _email address and website_: <br>USConsulateNuuk@state.gov<br><br>Homepage - U.S. Embassy &amp; Consulate in the Kingdom of Denmark (usembassy.gov)<br>
 
+**International organization participation**<br>
+Arctic Council, ICC, NC, NIB, UPU<br>
+
+**Independence**<br>
+none (extensive self-rule as part of the Kingdom of Denmark)<br>
+
+**National holiday**<br>
+National Day, June 21; note - marks the summer solstice and the longest day of the year in the Northern Hemisphere<br>
+
 **Flag description**<br>
 two equal horizontal bands of white (top) and red, with a large disk slightly to the hoist side of center; the top half of the disk is red, and the bottom is white; the design represents the sun reflecting off a field of ice; the colors are the same as those of the Danish flag and symbolize Greenland's links to the Kingdom of Denmark<br>
 
 **National symbol(s)**<br>
-polar bear; national colors: red, white<br>
+polar bear<br>
+
+**National colors**<br>
+red, white<br>
 
 **National anthem**<br>
 _name_: "Nunarput utoqqarsuanngoravit" (Our Country, Who's Become So Old also translated as You Our Ancient Land)<br>

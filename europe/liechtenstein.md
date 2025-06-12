@@ -183,7 +183,7 @@ _unimproved: total_: total: 0% of population (2020)<br>
 **Currently married women (ages 15-49)**<br>
 65.2% (2023 est.)<br>
 
-**Education expenditures**<br>
+**Education expenditure**<br>
 2.6% of GDP (2011 est.)<br>
 
 **Literacy**<br>
@@ -260,12 +260,6 @@ _etymology_: may be a conflation from the Latin <em>vallis</em> (valley) and the
 **Administrative divisions**<br>
 11 communes (Gemeinden, singular - Gemeinde); Balzers, Eschen, Gamprin, Mauren, Planken, Ruggell, Schaan, Schellenberg, Triesen, Triesenberg, Vaduz<br>
 
-**Independence**<br>
-23 January 1719 (Principality of Liechtenstein established); 12 July 1806 (independence from the Holy Roman Empire); 24 August 1866 (independence from the German Confederation)<br>
-
-**National holiday**<br>
-National Day, 15 August (1940); note - a National Day was originally established in 1940 to combine celebrations for the Feast of the Assumption (15 August) with those honoring the birthday of former Prince FRANZ JOSEF II (1906-1989) whose birth fell on 16 August; after the prince's death, National Day became the official national holiday by law in 1990<br>
-
 **Legal system**<br>
 civil law system influenced by Swiss, Austrian, and German law<br>
 
@@ -312,9 +306,6 @@ _subordinate courts_: Court of Appeal (second instance), Regional Court (first i
 **Political parties**<br>
 Democrats for Liechtenstein (Demokraten pro Liechtenstein) or DpL <br>Fatherland Union (Vaterlaendische Union) or VU <br>Progressive Citizens' Party (Fortschrittliche Buergerpartei) or FBP <br>The Free List (Die Freie Liste) or FL <br>The Independents (Die Unabhaengigen) or DU <br>
 
-**International organization participation**<br>
-CD, CE, EBRD, EFTA, IAEA, ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITSO, ITU, ITUC (NGOs), OAS (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UPU, WIPO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Georg SPARBER (since 1 December 2021)<br>
 _chancery_: 2900 K Street NW, Suite 602B, Washington, DC 20007<br>
@@ -325,14 +316,26 @@ _email address and website_: <br>washington@llv.li<br><br>https://www.liechtenst
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Liechtenstein; the US Ambassador to Switzerland is accredited to Liechtenstein<br>
 
+**International organization participation**<br>
+CD, CE, EBRD, EFTA, IAEA, ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITSO, ITU, ITUC (NGOs), OAS (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UPU, WIPO, WTO<br>
+
+**Independence**<br>
+23 January 1719 (Principality of Liechtenstein established); 12 July 1806 (independence from the Holy Roman Empire); 24 August 1866 (independence from the German Confederation)<br>
+
+**National holiday**<br>
+National Day, 15 August (1940); note - a National Day was originally established in 1940 to combine celebrations for the Feast of the Assumption (15 August) with those honoring the birthday of former Prince FRANZ JOSEF II (1906-1989) whose birth fell on 16 August; after the prince's death, National Day became the official national holiday by law in 1990<br>
+
 **Flag description**<br>
 two equal horizontal bands of blue (top) and red, with a gold crown on the hoist side of the blue band; the colors may derive from the blue-and-red livery used in the principality's household in the 18th century; the prince's crown was introduced in 1937 to distinguish it from Haiti's flag<br>
 
 **National symbol(s)**<br>
-princely hat (crown); national colors: blue, red<br>
+princely hat (crown)<br>
+
+**National colors**<br>
+blue, red<br>
 
 **National coat of arms**<br>
-<p>The six motifs on Liechtenstein's coat of arms provide a history of the royal House of Liechtenstein since 1719, when the country was founded. The small shield at the center is the royal family’s gold-and-red coat of arms, the gold-crowned eagle signifies the Silesia family, the diamond wreath represents the Kuenringer family, the red-and-silver shield is the Duchy of Troppau, the black eagle comes from the coat of arms of a family that married into the royal line, and the golden hunting horn represents the Duchy of Jägerndorf.</p> <p> </p><br>
+the six motifs on the coat of arms provide a history of the royal House of Liechtenstein since 1719, when the country was founded; the small shield at the center is the royal family&rsquo;s gold-and-red coat of arms, the gold-crowned eagle signifies the Silesia family, the diamond wreath represents the Kuenringer family, the red-and-silver shield is the Duchy of Troppau, the black eagle comes from the coat of arms of a family that married into the royal line, and the golden hunting horn represents the Duchy of J&auml;gerndorf<br>
 
 **National anthem**<br>
 _name_: "Oben am jungen Rhein" (High Above the Young Rhine)<br>

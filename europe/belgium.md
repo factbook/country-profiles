@@ -175,8 +175,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-11% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 11% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 15.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 6.53 physicians/1,000 population (2023)<br>
@@ -217,8 +218,9 @@ _female_: 22% (2025 est.)<br>
 _women married by age 15_: 0% (2020)<br>
 _women married by age 18_: 0.1% (2020)<br>
 
-**Education expenditures**<br>
-6.7% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 6.4% of GDP (2021 est.)<br>
+_Education expenditure (% national budget)_: 11.3% national budget (2021 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -302,12 +304,6 @@ _etymology_: the name is of Germanic origin, from <em>broca </em>(marsh) and <em
 3 regions (French: régions, singular - région; Dutch: gewesten, singular - gewest); Brussels-Capital Region, also known as Brussels Hoofdstedelijk Gewest (Dutch), Region de Bruxelles-Capitale (French long form), Bruxelles-Capitale (French short form); Flemish Region (Flanders), also known as Vlaams Gewest (Dutch long form), Vlaanderen (Dutch short form), Region Flamande (French long form), Flandre (French short form); Walloon Region (Wallonia), also known as Region Wallone (French long form), Wallonie (French short form), Waals Gewest (Dutch long form), Wallonie (Dutch short form)<br>
 <strong>note:</strong> as a result of the 1993 constitutional revision that furthered devolution into a federal state, there are now three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; the 2012 sixth state reform transferred additional competencies from the federal state to the regions and linguistic communities<br>
 
-**Independence**<br>
-4 October 1830 (a provisional government declared independence from the Netherlands); 21 July 1831 (King LEOPOLD I ascended to the throne)<br>
-
-**National holiday**<br>
-Belgian National Day (ascension to the throne of King LEOPOLD I), 21 July (1831)<br>
-
 **Legal system**<br>
 civil law system based on the French Civil Code; judicial review of legislative acts<br>
 
@@ -366,9 +362,6 @@ _subordinate courts_: Courts of Appeal; regional courts; specialized courts for 
 **Political parties**<br>
 <strong>Flemish parties:</strong> <br>Christian Democratic and Flemish or CD&amp;V <br>Vooruit or Forward (formerly Social Progressive Alternative or SP.A)<br>Groen or Green (formerly AGALEV, Flemish Greens)<br>New Flemish Alliance or N-VA <br>Open Flemish Liberals and Democrats or Open VLD <br>Vlaams Belang (Flemish Interest) or VB <br><strong>Francophone parties:</strong> <br>Ecolo (Francophone Greens) <br>Francophone Federalist Democrats or Defi <br>Les Engages (formerly Humanist and Democratic Center or CDH)<br>Reform Movement or MR <br>Socialist Party or PS <br>Workers' Party or PVDA-PTB<br>
 
-**International organization participation**<br>
-ADB (nonregional members), AfDB (nonregional members), Australia Group, Benelux, BIS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Fr&eacute;d&eacute;ric BERNARD (since 25 February 2025)<br>
 _chancery_: 1430 K Street NW, Washington DC 20005<br>
@@ -385,11 +378,23 @@ _telephone_: [32] (2) 811-4000<br>
 _FAX_: [32] (2) 811-4500<br>
 _email address and website_: <br>uscitizenBrussels@state.gov<br><br>https://be.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB (nonregional members), AfDB (nonregional members), Australia Group, Benelux, BIS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+4 October 1830 (a provisional government declared independence from the Netherlands); 21 July 1831 (King LEOPOLD I ascended to the throne)<br>
+
+**National holiday**<br>
+Belgian National Day (ascension to the throne of King LEOPOLD I), 21 July (1831)<br>
+
 **Flag description**<br>
 three equal vertical bands of black (hoist side), yellow, and red; the vertical design was based on the flag of France; the colors are from the arms of the duchy of Brabant (yellow lion with red claws and tongue on a black field)<br>
 
 **National symbol(s)**<br>
-golden rampant lion; national colors: red, black, yellow<br>
+golden rampant lion<br>
+
+**National colors**<br>
+red, black, yellow<br>
 
 **National anthem**<br>
 _name_: "La Brabanconne" (The Song of Brabant)<br>

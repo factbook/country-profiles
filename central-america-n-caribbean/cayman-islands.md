@@ -171,8 +171,9 @@ _unimproved: total_: total: 4.4% of population (2015 est.)<br>
 **Currently married women (ages 15-49)**<br>
 51.4% (2023 est.)<br>
 
-**Education expenditures**<br>
-2.1% of GDP (2019)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 1.5% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 15% national budget (2019 est.)<br>
 
 **Literacy**<br>
 _total population_: 98.9% NA<br>
@@ -229,12 +230,6 @@ _etymology_: originally named Hogstyes, the town was renamed in honor of English
 **Administrative divisions**<br>
 6 districts; Bodden Town, Cayman Brac and Little Cayman, East End, George Town, North Side, West Bay<br>
 
-**Independence**<br>
-none (overseas territory of the UK)<br>
-
-**National holiday**<br>
-Constitution Day, the first Monday in July (1959)<br>
-
 **Legal system**<br>
 English common law and local statutes<br>
 
@@ -273,14 +268,20 @@ _subordinate courts_: Summary Court<br>
 **Political parties**<br>
 Cayman Islands Peoples Party or CIPP<br>People's Progressive Movement or PPM<br>
 
-**International organization participation**<br>
-Caricom (associate), CDB, Interpol (subbureau), IOC, UNESCO (associate), UPU<br>
-
 **Diplomatic representation in the US**<br>
 none (overseas territory of the UK)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (overseas territory of the UK); consular services provided through the US Embassy in Jamaica<br>
+
+**International organization participation**<br>
+Caricom (associate), CDB, Interpol (subbureau), IOC, UNESCO (associate), UPU<br>
+
+**Independence**<br>
+none (overseas territory of the UK)<br>
+
+**National holiday**<br>
+Constitution Day, the first Monday in July (1959)<br>
 
 **Flag description**<br>
 a blue field with the UK flag in the upper hoist-side quadrant and the Caymanian coat of arms centered on the outer half of the flag; the coat of arms includes a crest with a pineapple (representing ties to Jamaica) and a turtle (representing Cayman's seafaring tradition) above a shield bearing a golden lion (symbolizing Great Britain); below are three green stars (representing the three islands) over white and blue wavy lines representing the sea; a scroll below the shield bears the motto HE HATH FOUNDED IT UPON THE SEAS<br>
@@ -288,13 +289,13 @@ a blue field with the UK flag in the upper hoist-side quadrant and the Caymanian
 **National symbol(s)**<br>
 green sea turtle<br>
 
+**National coat of arms**<br>
+the Queen of England approved the Cayman Islands' coat of arms -- which was designed with input from the public -- in 1958; the shield features the<em> </em>lion of England and three green stars that symbolize the three islands of Grand Cayman, Cayman Brac, and Little Cayman; the green turtle stands for the islands’ seafaring history, the rope under it for the thatch-rope industry, and the pineapple for historical ties with Jamaica; the motto comes from Psalms 24, acknowledging the Caymans’ Christian heritage<br>
+
 **National anthem**<br>
 _name_: "Beloved Isle Cayman"<br>
 _lyrics/music_: Leila E. ROSS<br>
 <strong>note:</strong> adopted 1993; served as an unofficial anthem since 1930; as an overseas territory of the United Kingdom, in addition to the local anthem, "God Save the King" is official (see United Kingdom)<br>
-
-**National coat of arms**<br>
-<p>The Cayman Islands is a British dependency, and the Queen of England approved its coat of arms – which was designed with input from the public -- in 1958. The shield features the<em> </em>lion of England and three green stars that symbolize the three islands of Grand Cayman, Cayman Brac, and Little Cayman. The green turtle recalls the islands’ seafaring history, and the rope under it refers to the thatch rope industry. The pineapple references historical ties with Jamaica. The motto comes from Psalms 24, acknowledging the Caymans’ Christian heritage.</p> <p> </p><br>
 
 ## Economy
 

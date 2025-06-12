@@ -169,8 +169,9 @@ _unimproved: urban_: urban: 3% of population<br>
 _unimproved: rural_: rural: 1.9% of population<br>
 _unimproved: total_: total: 2.6% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-6.1% of GDP (2022)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 6.1% of GDP (2022)<br>
+_Health expenditure (as % of national budget)_: 22.3% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.88 physicians/1,000 population (2023)<br>
@@ -204,8 +205,9 @@ _female_: 14.4% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 52.1% (2023 est.)<br>
 
-**Education expenditures**<br>
-3.1% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3% of GDP (2021 est.)<br>
+_Education expenditure (% national budget)_: 12% national budget (2021 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -285,12 +287,6 @@ _etymology_: derived from the Irish words <em>dubh</em> (black or dark) and <em>
 **Administrative divisions**<br>
 28 counties and 3 cities*; Carlow, Cavan, Clare, Cork, Cork*, Donegal, Dublin*, Dun Laoghaire-Rathdown, Fingal, Galway, Galway*, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, South Dublin, Tipperary, Waterford, Westmeath, Wexford, Wicklow<br>
 
-**Independence**<br>
-6 December 1921 (from the UK by the Anglo-Irish Treaty, which ended British rule); 6 December 1922 (Irish Free State established); 18 April 1949 (Republic of Ireland Act enabled)<br>
-
-**National holiday**<br>
-Saint Patrick's Day, 17 March; note - marks the traditional death date of Saint Patrick, patron saint of Ireland, during the latter half of the fifth century A.D. (most commonly cited years are c. 461 and c. 493); although Saint Patrick's feast day was celebrated in Ireland as early as the ninth century, it only became an official public holiday in Ireland in 1903<br>
-
 **Legal system**<br>
 common law system based on the English model but substantially modified by customary law; Supreme Court reviews legislative acts<br>
 
@@ -349,9 +345,6 @@ _subordinate courts_: High Court, Court of Appeal; circuit and district courts; 
 **Political parties**<br>
 Aontu <br>Solidarity-People Before Profit or PBP-S <br>Fianna Fail <br>Fine Gael <br>Green Party <br>Human Dignity Alliance<br>Independent Ireland <br>Labor (Labour) Party<br>100% Redress <br>Right to Change or RTC<br>Sinn Fein <br>Social Democrats <br>Socialist Party<br>The Workers' Party<br>
 
-**International organization participation**<br>
-ADB (nonregional member), Australia Group, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNIFIL, UNOCI, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Geraldine BYRNE NASON (since 16 September 2022)<br>
 _chancery_: 2234 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -368,12 +361,24 @@ _telephone_: [353] (1) 668-8777<br>
 _FAX_: [353] (1) 688-8056<br>
 _email address and website_: <br>ACSDublin@state.gov<br><br>https://ie.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB (nonregional member), Australia Group, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNIFIL, UNOCI, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+6 December 1921 (from the UK); 6 December 1922 (Irish Free State established); 18 April 1949 (Republic of Ireland Act enabled)<br>
+
+**National holiday**<br>
+Saint Patrick's Day, 17 March; note - marks the traditional death date of Saint Patrick, patron saint of Ireland, during the latter half of the fifth century A.D. (most commonly cited years are c. 461 and c. 493); although Saint Patrick's feast day was celebrated in Ireland as early as the ninth century, it only became an official public holiday in Ireland in 1903<br>
+
 **Flag description**<br>
 three equal vertical bands of green (hoist side), white, and orange; the flag colors have no official meaning, but a common interpretation is that the green stands for the Irish nationalist tradition, orange for the Orange tradition (minority supporters of William of Orange), and white for peace or a lasting truce between the green and the orange<br>
 <strong>note:</strong> similar to the flag of Cote d'Ivoire, which is shorter and has the colors reversed; also similar to the flag of Italy, which is shorter and has red instead of orange<br>
 
 **National symbol(s)**<br>
-harp, shamrock (trefoil); national colors: blue, green<br>
+harp, shamrock (trefoil)<br>
+
+**National colors**<br>
+blue, green<br>
 
 **National anthem**<br>
 _name_: "Amhran na bhFiann" (The Soldier's Song)<br>

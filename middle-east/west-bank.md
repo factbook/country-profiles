@@ -168,6 +168,10 @@ _unimproved: rural_: rural: 1% of population<br>
 _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 <strong>note:</strong> includes Gaza Strip and the West Bank<br>
 
+**Health expenditure**<br>
+13.5% of national budget (2022 est.)<br>
+<strong>note:</strong> includes Gaza Strip and the West Bank<br>
+
 **Physician density**<br>
 3.25 physicians/1,000 population (2020)<br>
 
@@ -196,15 +200,14 @@ _women married by age 15_: 0.7% (2020)<br>
 _women married by age 18_: 13.4% (2020)<br>
 <strong>note:</strong> includes both the Gaza Strip and the West Bank<br>
 
-**Education expenditures**<br>
-5.3% of GDP (2018 est.)<br>
+**Education expenditure**<br>
+5.4% of GDP (2021 est.)<br>
 <strong>note:</strong> includes Gaza Strip and the West Bank<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 97.5%<br>
-_male_: 98.8%<br>
-_female_: 96.2% (2020)<br>
+_total population_: 98% (2022 est.)<br>
+_male_: 99% (2022 est.)<br>
+_female_: 97% (2022 est.)<br>
 <strong>note:</strong> estimates are for Gaza and the West Bank<br>
 
 **School life expectancy (primary to tertiary education)**<br>

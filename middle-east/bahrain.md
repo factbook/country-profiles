@@ -169,8 +169,9 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-4.3% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 4.3% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 8.6% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.74 physicians/1,000 population (2020)<br>
@@ -204,14 +205,14 @@ _female_: 4.8% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 43.8% (2023 est.)<br>
 
-**Education expenditures**<br>
-2.2% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 7.7% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 97.5%<br>
-_male_: 99.9%<br>
-_female_: 94.9% (2018)<br>
+_total population_: 98% (2023 est.)<br>
+_male_: 99% (2023 est.)<br>
+_female_: 96% (2023 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
@@ -286,12 +287,6 @@ _etymology_: name derives from the Arabic word <em>al-manama</em>, meaning "plac
 4 governorates (muhafazat, singular - muhafazah); Asimah (Capital), Janubiyah (Southern), Muharraq, Shamaliyah (Northern)<br>
 <strong>note:</strong> each governorate administered by an appointed governor<br>
 
-**Independence**<br>
-15 August 1971 (from the UK)<br>
-
-**National holiday**<br>
-National Day, 16 December (1971); note - 15 August 1971 was the date of independence from the UK, 16 December 1971 was the date of independence from British protection<br>
-
 **Legal system**<br>
 mixed legal system of Islamic (sharia) law, English common law, Egyptian civil, criminal, and commercial codes; customary law<br>
 
@@ -349,9 +344,6 @@ _subordinate courts_: Civil High Courts of Appeal; middle and lower civil courts
 **Political parties**<br>
 <p><strong>note:</strong>  political parties are prohibited, but political societies were legalized under a July 2005 law</p><br>
 
-**International organization participation**<br>
-ABEDA, AFESD, AMF, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Abdulla bin Rashed AL KHALIFA (since 21 July 2017)<br>
 _chancery_: 3502 International Drive NW, Washington, DC 20008<br>
@@ -368,12 +360,24 @@ _telephone_: [973] 17-242700<br>
 _FAX_: [973] 17-272594<br>
 _email address and website_: <br>ManamaConsular@state.gov<br><br>https://bh.usembassy.gov/<br>
 
+**International organization participation**<br>
+ABEDA, AFESD, AMF, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+15 August 1971 (from the UK)<br>
+
+**National holiday**<br>
+National Day, 16 December (1971); note - 15 August 1971 was the date of independence from the UK, 16 December 1971 was the date of independence from British protection<br>
+
 **Flag description**<br>
 red, the traditional color for flags of Persian Gulf states, with a white serrated band of five white points on the hoist side; the five points represent the five pillars of Islam<br>
 <strong>note:</strong> until 2002, the flag had eight white points, but this was reduced to five to avoid confusion with the Qatari flag<br>
 
 **National symbol(s)**<br>
-a red field surmounted by a white serrated band with five white points; national colors: red, white<br>
+a white serrated band with five white points on top of a red field<br>
+
+**National colors**<br>
+red, white<br>
 
 **National anthem**<br>
 _name_: "Bahrainona" (Our Bahrain)<br>

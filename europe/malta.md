@@ -167,8 +167,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-10.6% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 10.6% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 16.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 7.86 physicians/1,000 population (2022)<br>
@@ -202,11 +203,11 @@ _female_: 20.2% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 63.2% (2023 est.)<br>
 
-**Education expenditures**<br>
-5.9% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.8% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 12.7% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 94.9%<br>
 _male_: 93.4%<br>
 _female_: 96.4% (2021)<br>
@@ -280,12 +281,6 @@ _etymology_: named in honor of Jean Parizot de la VALETTE, the Grand Master of t
 **Administrative divisions**<br>
 68 localities (Il-lokalita); Attard, Balzan, Birgu, Birkirkara, Birzebbuga, Bormla, Dingli, Fgura, Floriana, Fontana, Ghajnsielem, Gharb, Gharghur, Ghasri, Ghaxaq, Gudja, Gzira, Hamrun, Iklin, Imdina, Imgarr, Imqabba, Imsida, Imtarfa, Isla, Kalkara, Kercem, Kirkop, Lija, Luqa, Marsa, Marsaskala, Marsaxlokk, Mellieha, Mosta, Munxar, Nadur, Naxxar, Paola, Pembroke, Pieta, Qala, Qormi, Qrendi, Rabat, Rabat (Ghawdex), Safi, San Giljan/Saint Julian, San Gwann/Saint John, San Lawrenz/Saint Lawrence, Sannat, San Pawl il-Bahar/Saint Paul's Bay, Santa Lucija/Saint Lucia, Santa Venera/Saint Venera, Siggiewi, Sliema, Swieqi, Tarxien, Ta' Xbiex, Valletta, Xaghra, Xewkija, Xghajra, Zabbar, Zebbug, Zebbug (Ghawdex), Zejtun, Zurrieq<br>
 
-**Independence**<br>
-21 September 1964 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 21 September (1964); Republic Day, 13 December (1974)<br>
-
 **Legal system**<br>
 mixed system of English common law and civil law based on the Roman and Napoleonic civil codes; subject to European Union law<br>
 
@@ -332,9 +327,6 @@ _subordinate courts_: Civil Court (divided into the General Jurisdiction Section
 **Political parties**<br>
 AD+PD or ADPD (formed from the merger of Democratic Alternative or AD and Democratic Party (Partit Demokratiku) or PD)<br>Labor Party (Partit Laburista) or PL <br>Nationalist Party (Partit Nazzjonalista) or PN <br>
 
-**International organization participation**<br>
-Australia Group, C, CD, CE, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO (partner), NSG, OAS (observer), OPCW, OSCE, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, Union Latina (observer), UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Godfrey C. XUEREB (since 19 April 2023)<br>
 _chancery_: 2017 Connecticut Avenue NW, Washington, DC 20008<br>
@@ -349,11 +341,23 @@ _mailing address_: 5800 Valletta Place, Washington DC&nbsp; 20521-5800<br>
 _telephone_: [356] 2561-4000<br>
 _email address and website_: <br>ACSMalta@state.gov<br><br>https://mt.usembassy.gov/<br>
 
+**International organization participation**<br>
+Australia Group, C, CD, CE, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO (partner), NSG, OAS (observer), OPCW, OSCE, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, Union Latina (observer), UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+21 September 1964 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 21 September (1964); Republic Day, 13 December (1974)<br>
+
 **Flag description**<br>
 two equal vertical bands of white (hoist side) and red; in the upper hoist-side corner is the George Cross, edged in red; according to legend, the colors come from the red-and-white checkered banner of Count Roger of Sicily, who removed a bi-colored corner and granted it to Malta in 1091, but the colors more likely come from the Knights of Saint John, who ruled Malta from 1530 to 1798; in 1942, Britain's King George VI awarded the George Cross to the islanders for their exceptional bravery and gallantry in World War II; since independence in 1964, the George Cross bordered in red has appeared on the white field<br>
 
 **National symbol(s)**<br>
-Maltese eight-pointed cross; national colors: red, white<br>
+Maltese eight-pointed cross<br>
+
+**National colors**<br>
+red, white<br>
 
 **National anthem**<br>
 _name_: "L-Innu Malti" (The Maltese Anthem)<br>

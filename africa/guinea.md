@@ -177,8 +177,9 @@ _unimproved: urban_: urban: 0.5% of population<br>
 _unimproved: rural_: rural: 23.1% of population<br>
 _unimproved: total_: total: 14.8% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-3.8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 3.8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 5% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.21 physicians/1,000 population (2022)<br>
@@ -212,14 +213,14 @@ _women married by age 15_: 17% (2018)<br>
 _women married by age 18_: 46.5% (2018)<br>
 _men married by age 18_: 1.9% (2018)<br>
 
-**Education expenditures**<br>
-2.2% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 1.7% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 9.3% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 45.3%<br>
-_male_: 61.2%<br>
-_female_: 31.3% (2021)<br>
+_total population_: 40% (2018 est.)<br>
+_male_: 54% (2018 est.)<br>
+_female_: 28% (2018 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
@@ -249,9 +250,6 @@ _other_: 5.2% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 38.1% of total population (2023)<br>
 _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to reduced incomes - </em>levels of acute food insecurity are expected to increase in 2023; food prices are likely to remain at high levels, supported by the unfolding effects of the war in Ukraine on international trade; nearly 710,000 people are projected to be acutely food insecure during the June to August 2023 lean season, an improvement compared to 2022 when about 1.22 million people were estimated to face acute food insecurity; acute food insecurity is mainly driven by high food prices (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 37.57 micrograms per cubic meter (2019 est.)<br>
@@ -299,12 +297,6 @@ _etymology_: <p>the name derives from <em>konakri</em>, a Susu word meaning "ove
 **Administrative divisions**<br>
 7 regions administrative (administrative regions) and 1 gouvenorat (governorate)*; Boke, Conakry*, Faranah, Kankan, Kindia, Labe, Mamou, N'Zerekore<br>
 
-**Independence**<br>
-2 October 1958 (from France)<br>
-
-**National holiday**<br>
-Independence Day, 2 October (1958)<br>
-
 **Legal system**<br>
 civil law system based on the French model<br>
 
@@ -350,9 +342,6 @@ _subordinate courts_: Court of Appeal or Cour d'Appel; High Court of Justice or 
 **Political parties**<br>
 African Congress for Democracy and Renewal or CADRE <br>Alliance for National Renewal or ARN <br>Alliance for National Renewal or ARENA <br>Bloc Liberal or BL <br>Citizen Generation or GECI <br>Citizen Party for the Defense of Collective Interests or PCDIC <br>Democratic Alliance for Renewal or ADR <br>Democratic National Movement or MND<br>Democratic Union for Renewal and Progress or UDRP <br>Democratic Union of Guinea or UDG <br>Democratic People's Movement of Guinea or MPDG <br>Democratic Workers' Party of Guinea or PDTG <br>Front for the National Alliance or FAN <br>Generation for Reconciliation Union and Prosperity or GRUP <br>Guinea for Democracy and Balance or GDE <br>Guinean Party for Peaceful Coexistence and Development or PGCD <br>Guinean Party for Solidarity and Democracy or PGSD <br>Guinean Union for Democracy and Development or UGDD <br>Guinean Rally for Development or RGD <br>Guinean Rally for Unity and Development or RGUD <br>Guinean Renaissance Party or PGR <br>Modern Guinea <br>Movement for Solidarity and Development or MSD <br>National Committee for Reconciliation and Development <br>National Front for Development or FND <br>National Union for Prosperity or UNP <br>National Party for Hope and Development or PEDN <br>New Democratic Forces or NFD <br>New Generation for the Republic or NGR <br>New Guinea or NG <br>New Political Generation or NGP <br>Party for Progress and Change or PPC <br>Party of Citizen Action through Labor or PACT <br>Party of Democrats for Hope or PADES <br>Party of Freedom and Progress or PLP <br>Party of Hope for National Development or PEDN <br>Rally for Renaissance and Development or RRD <br>Rally for the Guinean People or RPG <br>Rally for the Integrated Development of Guinea or RDIG <br>Rally for the Republic or RPR <br>Union of Democratic Forces of Guinea or UFDG<br>Union for Progress and Renewal or UPR <br>Union for the Defense of Republican Interests or UDIR <br>Union for the Progress of Guinea or UPG <br>Union of Democratic Forces or UFD a or UFDG <br>Union of Democrats for the Renaissance of Guinea or UDRG <br>Union of Republican Forces or UFR <br>Unity and Progress Party or PUP<br>
 
-**International organization participation**<br>
-ACP, AfDB, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Fatoumata KABA (since 19 April 2023)<br>
 _chancery_: 2112 Leroy Place NW, Washington, DC 20008<br>
@@ -369,12 +358,24 @@ _telephone_: [224] 65-10-40-00<br>
 _FAX_: [224] 65-10-42-97<br>
 _email address and website_: <br>ConakryACS@state.gov<br><br>https://gn.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+2 October 1958 (from France)<br>
+
+**National holiday**<br>
+Independence Day, 2 October (1958)<br>
+
 **Flag description**<br>
 three equal vertical bands of red (hoist side), yellow, and green; red stands for the people's sacrifice for liberation and work; yellow for the sun, the riches of the earth, and justice; green for the country's vegetation and unity<br>
 <strong>note:</strong> uses the popular pan-African colors of Ethiopia; the colors from left to right are the reverse of those on the flags of neighboring Mali and Senegal<br>
 
 **National symbol(s)**<br>
-elephant; national colors: red, yellow, green<br>
+elephant<br>
+
+**National colors**<br>
+red, yellow, green<br>
 
 **National anthem**<br>
 _name_: "Liberte" (Liberty)<br>

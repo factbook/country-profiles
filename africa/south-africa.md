@@ -182,8 +182,9 @@ _unimproved: urban_: urban: 0.3% of population<br>
 _unimproved: rural_: rural: 9.7% of population<br>
 _unimproved: total_: total: 3.3% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-8.3% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 8.3% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 16.9% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.79 physicians/1,000 population (2022)<br>
@@ -222,14 +223,14 @@ _women married by age 15_: 0.9% (2016)<br>
 _women married by age 18_: 3.6% (2016)<br>
 _men married by age 18_: 0.6% (2016)<br>
 
-**Education expenditures**<br>
-6.6% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 6.7% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 18.6% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 95%<br>
-_male_: 95.5%<br>
-_female_: 94.5% (2019)<br>
+_total population_: 90% (2021 est.)<br>
+_male_: 91% (2021 est.)<br>
+_female_: 89% (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -308,12 +309,6 @@ _etymology_: Pretoria was named in honor of Boer statesman Andries PRETORIUS in 
 **Administrative divisions**<br>
 9 provinces; Eastern Cape, Free State, Gauteng, KwaZulu-Natal, Limpopo, Mpumalanga, Northern Cape, North West, Western Cape<br>
 
-**Independence**<br>
-31 May 1910 (Union of South Africa formed from four British colonies: Cape Colony, Natal, Transvaal, and Orange Free State); 22 August 1934 (Status of the Union Act); 31 May 1961 (republic declared); 27 April 1994 (majority rule)<br>
-
-**National holiday**<br>
-Freedom Day, 27 April (1994)<br>
-
 **Legal system**<br>
 mixed system of Roman-Dutch civil law, English common law, and customary law<br>
 
@@ -373,9 +368,6 @@ _subordinate courts_: High Courts; Magistrates' Courts; labor courts; land claim
 **Political parties**<br>
 African Christian Democratic Party or ACDP <br>African Independent Congress or AIC <br>African National Congress or ANC <br>African People's Convention or APC <br>Agang SA <br>Congress of the People or COPE <br>Democratic Alliance or DA <br>Economic Freedom Fighters or EFF <br>Freedom Front Plus or FF+ <br>GOOD <br>Inkatha Freedom Party or IFP <br>National Freedom Party or NFP <br>Pan-Africanist Congress of Azania or PAC <br>United Christian Democratic Party or UCDP <br>United Democratic Movement or UDM <br>
 
-**International organization participation**<br>
-ACP, AfDB, AIIB, AU, BIS, BRICS, C, CD, FAO, FATF, G-20, G-24, G-5, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, NSG, OECD (enhanced engagement), OPCW, Paris Club (associate), PCA, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNITAR, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Ismail ESAU (since 18 March 2025)<br>
 _chancery_: 3051 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -393,12 +385,24 @@ _FAX_: [27] (12) 342-2299<br>
 _email address and website_: <br>ACSJohannesburg@state.gov<br><br>https://za.usembassy.gov/<br>
 _consulate(s) general_: Cape Town, Durban, Johannesburg<br>
 
+**International organization participation**<br>
+ACP, AfDB, AIIB, AU, BIS, BRICS, C, CD, FAO, FATF, G-20, G-24, G-5, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, NSG, OECD (enhanced engagement), OPCW, Paris Club (associate), PCA, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNITAR, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+31 May 1910 (Union of South Africa formed from four British colonies: Cape Colony, Natal, Transvaal, and Orange Free State); 22 August 1934 (Status of the Union Act); 31 May 1961 (republic declared); 27 April 1994 (majority rule)<br>
+
+**National holiday**<br>
+Freedom Day, 27 April (1994)<br>
+
 **Flag description**<br>
 two equal-width horizontal bands of red (top) and blue separated by a central green band that splits into a horizontal Y; a black isosceles triangle is in the Y, with narrow yellow bands around it; the red and blue bands are bordered by narrow white stripes; the colors have no official meaning, but the Y stands for "the convergence of diverse elements within South African society, taking the road ahead in unity"<br>
 <strong>note:</strong> South Africa has one of two national flags that display six colors as part of the primary design -- the other is South Sudan's<br>
 
 **National symbol(s)**<br>
-springbok (antelope), king protea flower; national colors: red, green, blue, yellow, black, white<br>
+springbok (antelope), king protea flower<br>
+
+**National colors**<br>
+red, green, blue, yellow, black, white<br>
 
 **National anthem**<br>
 _name_: "National Anthem of South Africa"<br>
@@ -689,11 +693,11 @@ _key ports_: Cape Town, Durban, Mossel Bay, Port Elizabeth, Richards Bay, Saldan
 South African National Defense Force (SANDF): South African Army (includes Reserve Force), South African Navy (SAN), South African Air Force (SAAF), South African Military Health Services<br><br>Ministry of Police: South African Police Service (2025)<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2024 est.)<br>
 0.7% of GDP (2023 est.)<br>
 0.8% of GDP (2022 est.)<br>
 0.9% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
-1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 65-70,000 active-duty National Defense Forces (2025)<br>

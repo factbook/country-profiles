@@ -174,14 +174,15 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-9% of GDP (2022)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 9% of GDP (2022)<br>
+_Health expenditure (as % of national budget)_: 19% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.33 physicians/1,000 population (2023)<br>
 
 **Hospital bed density**<br>
-2.1 beds/1,000 population (2018)<br>
+2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -202,21 +203,21 @@ _spirits_: 2.43 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Tobacco use**<br>
-_total_: 29.2% (2020 est.)<br>
-_male_: 31.6% (2020 est.)<br>
-_female_: 26.8% (2020 est.)<br>
+_total_: 26.2% (2025 est.)<br>
+_male_: 28.4% (2025 est.)<br>
+_female_: 24.1% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 46.3% (2023 est.)<br>
 
-**Education expenditures**<br>
-5.6% of GDP (2019 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5% of GDP (2021 est.)<br>
+_Education expenditure (% national budget)_: 14.9% national budget (2021 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 97%<br>
-_male_: 97.1%<br>
-_female_: 97% (2021)<br>
+_total population_: 96% (2017 est.)<br>
+_male_: 96% (2017 est.)<br>
+_female_: 96% (2017 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
@@ -296,12 +297,6 @@ _etymology_: Santiago is named after Saint James, the patron saint of Spain (San
 16 regions (regiones, singular - region); Aysen, Antofagasta, Araucania, Arica y Parinacota, Atacama, Biobio, Coquimbo, Libertador General Bernardo O'Higgins, Los Lagos, Los Rios, Magallanes y de la Antartica Chilena (Magallanes and Chilean Antarctica), Maule, Nuble, Region Metropolitana (Santiago), Tarapaca, Valparaiso<br>
 <strong>note:</strong> the US does not recognize any claims to Antarctica<br>
 
-**Independence**<br>
-18 September 1810 (from Spain)<br>
-
-**National holiday**<br>
-Independence Day, 18 September (1810)<br>
-
 **Legal system**<br>
 civil law system influenced by several Western European civil legal systems; Constitutional Tribunal reviews legislative acts<br>
 
@@ -363,9 +358,6 @@ _subordinate courts_: Courts of Appeal; oral criminal tribunals; military tribun
 **Political parties**<br>
 Approve Dignity (Apruebo Dignidad) coalition or AD (included PC, FA, and FREVS); note - dissolved 2023<br>Broad Front Coalition (Frente Amplio) or FA (includes RD, CS, and Comunes)<br>Chile We Can Do More (Chile Podemos  Más) or ChP+ (coalition includes EVOPOLI, PRI, RN, UDI)<br>Christian Democratic Party or PDC<br>Common Sense Party or SC<br>Commons (Comunes)<br>Communist Party of Chile or PCCh<br>Democratic Revolution or RD<br>Democrats or PD<br>Equality Party or PI<br>Green Ecological Party or PEV (dissolved 7 February 2022)<br>Green Popular Alliance or AVP<br>Humanist Action Party or PAH<br>Humanist Party or PH<br>Independent Democratic Union or UDI<br>Liberal Party (Partido Liberal de Chile) or PL<br>National Renewal or RN<br>New Social Pact or NPS (includes PDC, PL, PPD, PRSD, PS)<br>Party for Democracy or PPD<br>Party of the People or PDG<br>Political Evolution or EVOPOLI<br>Popular Party or PP<br>Progressive Homeland Party or PRO<br>Radical Party or PR<br>Republican Party or PLR<br>Social Christian Party or PSC<br>Social Convergence or CS<br>Social Green Regionalist Federation or FREVS<br>Socialist Party or PS<br>Yellow Movement for Chile or AMAR<br>
 
-**International organization participation**<br>
-APEC, BIS, CAN (associate), CD, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OECD (enhanced engagement), OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, Union Latina, UNMOGIP, UNOOSA, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Juan Gabriel VALDES Soublette (since 7 June 2022)<br>
 _chancery_: 1732 Massachusetts Avenue NW, Washington, DC 20036<br>
@@ -382,12 +374,24 @@ _telephone_: [56] (2) 2330-3000<br>
 _FAX_: [56] (2) 2330-3710<br>
 _email address and website_: <br>SantiagoUSA@state.gov<br><br>https://cl.usembassy.gov/<br>
 
+**International organization participation**<br>
+APEC, BIS, CAN (associate), CD, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OECD (enhanced engagement), OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, Union Latina, UNMOGIP, UNOOSA, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+18 September 1810 (from Spain)<br>
+
+**National holiday**<br>
+Independence Day, 18 September (1810)<br>
+
 **Flag description**<br>
 two equal horizontal bands of white (top) and red; a blue square the same height as the white band at the hoist-side end of the white band; the square bears a white five-pointed star in the center, representing a guide to progress and honor; blue stands for the sky, white for the snow-covered Andes, and red for the blood spilled to achieve independence<br>
 <strong>note:</strong> design influenced by the US flag<br>
 
 **National symbol(s)**<br>
-huemul (mountain deer), Andean condor; national colors: red, white, blue<br>
+huemul (mountain deer), Andean condor<br>
+
+**National colors**<br>
+red, white, blue<br>
 
 **National anthem**<br>
 _name_: "Himno Nacional de Chile" (National Anthem of Chile)<br>
@@ -667,11 +671,11 @@ Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chi
 <strong>note 1: </strong>the Directemar is the country's coast guard<br> <br><strong>note 2:</strong> the National Police Force (Carabineros de Chile) is responsible to both the Ministry of Defense and the Ministry of the Interior and Public Security<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2024 est.)<br>
 1.5% of GDP (2023 est.)<br>
 1.6% of GDP (2022 est.)<br>
 2% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
-1.9% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 70,000 active Armed Forces (40,000 Army; 20,000 Navy; 10,000 Air Force); approximately 50,000 Carabineros (2025)<br>

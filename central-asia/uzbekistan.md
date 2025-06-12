@@ -178,8 +178,9 @@ _unimproved: urban_: urban: 0.4% of population<br>
 _unimproved: rural_: rural: 3.9% of population<br>
 _unimproved: total_: total: 2.2% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-7.7% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 7.7% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 7.1% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.81 physicians/1,000 population (2021)<br>
@@ -220,14 +221,14 @@ _female_: 1% (2025 est.)<br>
 _women married by age 15_: 0.2% (2022)<br>
 _women married by age 18_: 3.4% (2022)<br>
 
-**Education expenditures**<br>
-4.9% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.5% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 21.6% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 100%<br>
-_male_: 100%<br>
-_female_: 100% (2019)<br>
+_total population_: 100% (2022 est.)<br>
+_male_: 100% (2022 est.)<br>
+_female_: 100% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
@@ -306,12 +307,6 @@ _etymology_: the current name of the ancient city was first used in the 11th cen
 12 provinces (viloyatlar, singular - viloyat), 1 autonomous republic* (avtonom respublikasi), and 3 cities** (shahar); Andijon Viloyati, Buxoro Viloyati [Bukhara Province], Farg'ona Viloyati [Fergana Province], Jizzax Viloyati, Namangan Shahri, Namangan Viloyati, Navoiy Viloyati, Qashqadaryo Viloyati (Qarshi), Qoraqalpog'iston Respublikasi [Karakalpakstan Republic]* (Nukus), Samarqand Shahri [Samarkand City], Samarqand Viloyati [Samarkand Province], Sirdaryo Viloyati (Guliston), Surxondaryo Viloyati (Termiz), Toshkent Shahri [Tashkent City]**, Toshkent Viloyati [Nurafshon], Xorazm Viloyati (Urganch)  <br>
 <strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses) <br>
 
-**Independence**<br>
-1 September 1991 (from the Soviet Union)<br>
-
-**National holiday**<br>
-Independence Day, 1 September (1991)<br>
-
 **Legal system**<br>
 civil law system<br>
 <strong>note:</strong> in 2020, the criminal code, criminal procedure code, and code of administrative responsibility were reformed; a constitutional referendum in 2023 included additional criminal code reforms  <br>
@@ -371,9 +366,6 @@ _subordinate courts_: regional, district, city, and town courts<br>
 **Political parties**<br>
 Ecological Party of Uzbekistan (O'zbekiston Ekologik Partivasi)<br>Justice (Adolat) Social Democratic Party of Uzbekistan<br>Liberal Democratic Party of Uzbekistan (O'zbekiston Liberal-Demokratik Partiyasi) or LDPU<br>National Revival Democratic Party of Uzbekistan (O'zbekiston Milliy Tiklanish Demokratik Partiyasi)<br>People's Democratic Party of Uzbekistan (Xalq Demokratik Partiyas) or PDP (formerly Communist Party)<br>
 
-**International organization participation**<br>
-ADB, CICA, CIS, EAEU (observer), EAPC, EBRD, ECO, EEU (observer), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Furqat SIDIKOV (since 19 April 2023)<br>
 _chancery_: 1746 Massachusetts Avenue NW, Washington, DC 20036<br>
@@ -390,11 +382,23 @@ _telephone_: [998] 78-120-5450<br>
 _FAX_: [998] 78-120-6335<br>
 _email address and website_: <br>ACSTashkent@state.gov<br><br>https://uz.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB, CICA, CIS, EAEU (observer), EAPC, EBRD, ECO, EEU (observer), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
+
+**Independence**<br>
+1 September 1991 (from the Soviet Union)<br>
+
+**National holiday**<br>
+Independence Day, 1 September (1991)<br>
+
 **Flag description**<br>
 three equal horizontal bands of blue (top), white, and green separated by narrow red stripes with a vertical white crescent moon and 12 five-pointed white stars shifted to the hoist on the top band; blue stands for the Turkic peoples and the sky, white for peace and the striving for purity in thoughts and deeds, and green for nature and Islam; the red stripes represent the vital force of all living organisms; the crescent represents Islam and the 12 stars the months and constellations of the Uzbek calendar<br>
 
 **National symbol(s)**<br>
-khumo (mythical bird); national colors: blue, white, red, green<br>
+khumo (mythical bird)<br>
+
+**National colors**<br>
+blue, white, red, green<br>
 
 **National anthem**<br>
 _name_: "O'zbekiston Respublikasining Davlat Madhiyasi" (National Anthem of the Republic of Uzbekistan)<br>

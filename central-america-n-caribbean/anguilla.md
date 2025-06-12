@@ -173,13 +173,9 @@ _unimproved: total_: total: 0.9% of population (2017 est.)<br>
 **Currently married women (ages 15-49)**<br>
 46.1% (2023 est.)<br>
 
-**Education expenditures**<br>
-4% of GDP (2020 est.)<br>
-
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.5% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 10.3% national budget (2024 est.)<br>
 
 ## Environment
 
@@ -223,12 +219,6 @@ _etymology_: name may derive from the capital's location among several hills<br>
 **Administrative divisions**<br>
 none (overseas territory of the UK)<br>
 
-**Independence**<br>
-none (overseas territory of the UK)<br>
-
-**National holiday**<br>
-Anguilla Day, 30 May (1967)<br>
-
 **Legal system**<br>
 common law based on the English model<br>
 
@@ -266,14 +256,20 @@ _subordinate courts_: Magistrate's Court; Juvenile Court<br>
 **Political parties**<br>
 Anguilla Progressive Movement or APM; (formerly Anguilla United Movement or AUM)<br>Anguilla United Front or AUF<br>
 
-**International organization participation**<br>
-Caricom (associate), CDB, Interpol (subbureau), OECS, UNESCO (associate), UPU<br>
-
 **Diplomatic representation in the US**<br>
 none (overseas territory of the UK)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (overseas territory of the UK); alternate contact is the US Embassy in Barbados [1] (246) 227-4000<br>
+
+**International organization participation**<br>
+Caricom (associate), CDB, Interpol (subbureau), OECS, UNESCO (associate), UPU<br>
+
+**Independence**<br>
+none (overseas territory of the UK)<br>
+
+**National holiday**<br>
+Anguilla Day, 30 May (1967)<br>
 
 **Flag description**<br>
 blue, with the flag of the UK in the upper hoist-side quadrant and the Anguillan coat of arms centered in the outer half of the flag; the coat of arms depicts three orange dolphins in an interlocking circular design on a white background with a turquoise-blue field below; the white in the background represents peace, the blue base symbolizes the sea, faith, youth, and hope, and the three dolphins stand for endurance, unity, and strength<br>
@@ -281,13 +277,13 @@ blue, with the flag of the UK in the upper hoist-side quadrant and the Anguillan
 **National symbol(s)**<br>
 dolphin<br>
 
+**National coat of arms**<br>
+the Anguillan coat of arms features three interlocking dolphins jumping out of seawater; they represent endurance, unity, and strength, and their circular motion stands for continuity; the white background symbolizes peace and tranquility, and the turquoise-blue base represents the sea, as well as faith, youth, and hope<br>
+
 **National anthem**<br>
 _name_: "God Bless Anguilla"<br>
 _lyrics/music_: Alex RICHARDSON<br>
 <strong>note:</strong> local anthem adopted 1981; as an overseas territory of the United Kingdom, "God Save the King" is official (see United Kingdom)<br>
-
-**National coat of arms**<br>
-The Anguillan coat of arms features three interlocking dolphins jumping out of seawater. The dolphins represent endurance, unity, and strength, and their circular motion stands for continuity. The white background symbolizes peace and tranquility, and the turquoise-blue base represents the sea, as well as faith, youth, and hope.<br>
 
 ## Economy
 

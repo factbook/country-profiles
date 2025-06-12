@@ -161,8 +161,9 @@ NA<br>
 _improved: total_: total: 78.6% of population<br>
 _unimproved: total_: total: 21.4% of population (2017 est.)<br>
 
-**Current health expenditure**<br>
-11% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 11% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 1.9% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.97 physicians/1,000 population (2020)<br>
@@ -188,8 +189,9 @@ _other alcohols_: 0.01 liters of pure alcohol (2019 est.)<br>
 **Currently married women (ages 15-49)**<br>
 51.7% (2023 est.)<br>
 
-**Education expenditures**<br>
-9.7% of GDP (2018 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 11.6% of GDP (2020 est.)<br>
+_Education expenditure (% national budget)_: 18.6% national budget (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -255,12 +257,6 @@ _time zone note_: Micronesia has two time zones<br>
 **Administrative divisions**<br>
 4 states; Chuuk (Truk), Kosrae (Kosaie), Pohnpei (Ponape), Yap<br>
 
-**Independence**<br>
-3 November 1986 (from the US-administered UN trusteeship)<br>
-
-**National holiday**<br>
-Constitution Day, 10 May (1979)<br>
-
 **Legal system**<br>
 mixed system of common and customary law<br>
 
@@ -307,9 +303,6 @@ _subordinate courts_: the highest state-level courts are: Chuuk Supreme Court; K
 **Political parties**<br>
 no formal parties<br>
 
-**International organization participation**<br>
-ACP, ADB, AOSIS, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, IMF, IOC, IOM, IPU, ITSO, ITU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, WHO, WMO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jackson T. SORAM (since 27 February 2024)<br>
 _chancery_: 1725 N Street NW, Washington, DC 20036<br>
@@ -326,11 +319,23 @@ _telephone_: [691] 320-2187<br>
 _FAX_: [691] 320-2186<br>
 _email address and website_: <br>koloniaacs@state.gov<br><br>https://fm.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, ADB, AOSIS, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, IMF, IOC, IOM, IPU, ITSO, ITU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, WHO, WMO<br>
+
+**Independence**<br>
+3 November 1986 (from the US-administered UN trusteeship)<br>
+
+**National holiday**<br>
+Constitution Day, 10 May (1979)<br>
+
 **Flag description**<br>
 light blue with four white five-pointed stars centered and arranged in a diamond pattern; blue stands for the Pacific Ocean, and the stars for the four island groups of Chuuk, Kosrae, Pohnpei, and Yap<br>
 
 **National symbol(s)**<br>
-four, five-pointed, white stars on a light blue field, hibiscus flower; national colors: light blue, white<br>
+four five-pointed white stars on a light blue field, hibiscus flower<br>
+
+**National colors**<br>
+light blue, white<br>
 
 **National anthem**<br>
 _name_: "Patriots of Micronesia"<br>

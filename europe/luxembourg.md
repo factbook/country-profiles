@@ -172,8 +172,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 1.4% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-5.5% of GDP (2022)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.5% of GDP (2022)<br>
+_Health expenditure (as % of national budget)_: 11% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.98 physicians/1,000 population (2017)<br>
@@ -207,8 +208,9 @@ _female_: 19.9% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 51.4% (2023 est.)<br>
 
-**Education expenditures**<br>
-5% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.7% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 10.7% national budget (2022 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -291,12 +293,6 @@ _etymology_: probably derived from an early Celtic or Germanic form of the name,
 **Administrative divisions**<br>
 12 cantons (cantons, singular - canton); Capellen, Clervaux, Diekirch, Echternach, Esch-sur-Alzette, Grevenmacher, Luxembourg, Mersch, Redange, Remich, Vianden, Wiltz<br>
 
-**Independence**<br>
-1839 (from the Netherlands)<br>
-
-**National holiday**<br>
-National Day (birthday of Grand Duke HENRI), 23 June; note - this date of birth is not the true date of birth for any of the Royals, but the national festivities were shifted in 1962 to allow observance during a more favorable time of year<br>
-
 **Legal system**<br>
 civil law system<br>
 
@@ -343,9 +339,6 @@ _subordinate courts_: Court of Accounts; district and local tribunals and courts
 **Political parties**<br>
 Alternative Democratic Reform Party or ADR <br>Christian Social People's Party or CSV <br>Democratic Party or DP <br>Green Party <br>Luxembourg Socialist Workers' Party or LSAP <br>Pirate Party <br>The Left (dei Lenk/la Gauche) <br>
 
-**International organization participation**<br>
-ADB (nonregional member), Australia Group, Benelux, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNOOSA, UNRWA, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Nicole BINTNER-BAKSHIAN (since 15 August 2021)<br>
 _chancery_: 2200 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -362,11 +355,23 @@ _telephone_: [352] 46-01-23-00<br>
 _FAX_: [352] 46-14-01<br>
 _email address and website_: <br>Luxembourgconsular@state.gov<br><br>https://lu.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB (nonregional member), Australia Group, Benelux, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNOOSA, UNRWA, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+1839 (from the Netherlands)<br>
+
+**National holiday**<br>
+National Day (birthday of Grand Duke HENRI), 23 June; note - this date of birth is not the true date of birth for any of the Royals, but the national festivities were shifted in 1962 to allow observance during a more favorable time of year<br>
+
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and light blue; similar to the flag of the Netherlands, which uses a darker blue and is shorter; the coloring is derived from the Grand Duke's coat of arms<br>
 
 **National symbol(s)**<br>
-red, rampant lion; national colors: red, white, light blue<br>
+red rampant lion<br>
+
+**National colors**<br>
+red, white, light blue<br>
 
 **National anthem**<br>
 _name_: "Ons Heemecht" (Our Motherland); "De Wilhelmus" (The William)<br>

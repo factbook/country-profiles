@@ -170,8 +170,9 @@ _unimproved: urban_: urban: 5% of population<br>
 _unimproved: rural_: rural: 34.1% of population<br>
 _unimproved: total_: total: 26.9% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-4.8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 4.8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 9.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.24 physicians/1,000 population (2023)<br>
@@ -210,8 +211,9 @@ _women married by age 15_: 5.6% (2015)<br>
 _women married by age 18_: 21.3% (2015)<br>
 _men married by age 18_: 4.4% (2015)<br>
 
-**Education expenditures**<br>
-12.8% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 8.3% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 25.9% national budget (2023 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -275,12 +277,6 @@ _etymology_: the name derives from the local term <em>nagho ni ara</em>, meaning
 **Administrative divisions**<br>
 9 provinces and 1 city*; Central, Choiseul, Guadalcanal, Honiara*, Isabel, Makira and Ulawa, Malaita, Rennell and Bellona, Temotu, Western<br>
 
-**Independence**<br>
-7 July 1978 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 7 July (1978)<br>
-
 **Legal system**<br>
 mixed system of English common law and customary law<br>
 
@@ -327,9 +323,6 @@ _subordinate courts_: Magistrates' Courts; Customary Land Appeal Court; local co
 Democratic Alliance Party or DAP <br>Kadere Party of Solomon Islands or KAD <br>Ownership, Unity, and Responsibility Party (OUR Party) <br>People First Party or PFP <br>Solomon Islands Democratic Party or SIDP <br>Solomon Islands Party for Rural Advancement or SIPRA <br>Solomon Islands United Party or SIUP <br>United for Change Party or U4C<br> <br>Coalition for Accountability Reform and Empowerment (CARE) is comprised of DAP, SIDP, and U4C<br>
 <strong>note:</strong> in general, Solomon Islands politics is characterized by fluid coalitions<br>
 
-**International organization participation**<br>
-ACP, ADB, AOSIS, C, EITI (candidate country), ESCAP, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IOC, ITU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WFTU, WHO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jane Mugafalu Kabui WAETARA (since 16 September 2022); note - also Permanent Representative to the UN<br>
 _chancery_: 685 Third Avenue, 11th Floor, Suite 1102, New York, NY 10017<br>
@@ -344,11 +337,20 @@ _telephone_: [677] 23426<br>
 _FAX_: [677] 27429<br>
 _email address and website_: <br>EmbassyHoniara@state.gov<br><br>https://pg.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, ADB, AOSIS, C, EITI (candidate country), ESCAP, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IOC, ITU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WFTU, WHO, WMO, WTO<br>
+
+**Independence**<br>
+7 July 1978 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 7 July (1978)<br>
+
 **Flag description**<br>
 divided diagonally by a thin yellow stripe from the lower hoist-side corner; the upper triangle (hoist side) is blue with five white five-pointed stars in an X pattern; the lower triangle is green; blue stands for the ocean, green for the land, and yellow for sunshine; the five stars stand for the main island groups<br>
 
-**National symbol(s)**<br>
-national colors: blue, yellow, green, white<br>
+**National colors**<br>
+blue, yellow, green, white<br>
 
 **National anthem**<br>
 _name_: "God Save Our Solomon Islands"<br>

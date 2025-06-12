@@ -169,8 +169,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-7.6% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 7.6% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 25.8% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.69 physicians/1,000 population (2022)<br>
@@ -211,14 +212,14 @@ _female_: 4.1% (2025 est.)<br>
 _women married by age 15_: 2% (2018)<br>
 _women married by age 18_: 17.1% (2018)<br>
 
-**Education expenditures**<br>
-6.7% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 6.2% of GDP (2021 est.)<br>
+_Education expenditure (% national budget)_: 31.2% national budget (2021 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 98%<br>
 _male_: 98%<br>
-_female_: 98.1% (2021)<br>
+_female_: 94.1% (2018 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
@@ -288,12 +289,6 @@ _etymology_: Spanish settlers originally named the city Villa Nueva in 1736; it 
 **Administrative divisions**<br>
 7 provinces (provincias, singular - provincia); Alajuela, Cartago, Guanacaste, Heredia, Limon, Puntarenas, San Jose<br>
 
-**Independence**<br>
-15 September 1821 (from Spain)<br>
-
-**National holiday**<br>
-Independence Day, 15 September (1821)<br>
-
 **Legal system**<br>
 civil law system based on Spanish civil code; Supreme Court reviews legislative acts<br>
 
@@ -341,9 +336,6 @@ _subordinate courts_: appellate courts; trial courts; first instance and justice
 **Political parties**<br>
 <p>Accessibility Without Exclusion or PASE<br>Broad Front (Frente Amplio) or PFA<br>Citizen Action Party or PAC<br>Costa Rican Renewal Party or PRC<br>Here Costa Rica Commands Party or ACRM<br>Liberal Progressive Party or PLP <br>Libertarian Movement Party or ML<br>National Integration Party or PIN<br>National Liberation Party or PLN<br>National Restoration Party or PRN<br>New Generation or PNG<br>New Republic Party or PNR<br>Social Christian Republican Party or PRSC<br>Social Christian Unity Party or PUSC of UNIDAD<br>Social Democratic Progress Party or PPSD</p><br>
 
-**International organization participation**<br>
-ACS, BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, NAM (observer), OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Catalina CRESPO SANCHO (since 19 April 2023)<br>
 _chancery_: 2114 S Street NW, Washington, DC 20008<br>
@@ -360,15 +352,27 @@ _telephone_: [506] 2519-2000<br>
 _FAX_: [506] 2519-2305<br>
 _email address and website_: <br>acssanjose@state.gov<br><br>https://cr.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACS, BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, NAM (observer), OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+15 September 1821 (from Spain)<br>
+
+**National holiday**<br>
+Independence Day, 15 September (1821)<br>
+
 **Flag description**<br>
 five horizontal bands of blue (top), white, red (double width), white, and blue, with the coat of arms in a white elliptical disk placed toward the hoist side of the red band; Costa Rica retained the earlier blue-white-blue flag of Central America until 1848 when, in response to revolutions in Europe, it was decided to incorporate the French colors by adding a central red stripe; today the blue is said to stand for the sky, opportunity, and perseverance, the white for peace, happiness, and wisdom, and the red for the blood shed for freedom, as well as Costa Ricans' generosity and vibrancy<br>
 <strong>note:</strong> somewhat resembles the flag of North Korea; similar to the flag of Thailand, but with the blue and red colors reversed<br>
 
 **National symbol(s)**<br>
-yiguirro (clay-colored thrush); national colors: blue, white, red<br>
+yiguirro (clay-colored thrush)<br>
+
+**National colors**<br>
+blue, white, red<br>
 
 **National coat of arms**<br>
-<p>The Costa Rican coat of arms highlights the country’s natural beauty and history. Three volcanoes, each topped with a white cloud, are surrounded with water, symbolizing the seaports of the Pacific and Atlantic Oceans. The rising sun in the background commemorates the birth of a new nation, and the seven white stars stand for the country's seven provinces. The two merchant ships carrying Costa Rica’s flag are a reminder of the maritime trade that shaped the country's history.</p> <p> </p><br>
+the Costa Rican coat of arms highlights the country&rsquo;s natural beauty and history; three volcanoes, each topped with a white cloud, are surrounded with water, symbolizing the seaports of the Pacific and Atlantic Oceans; the rising sun in the background stands for the birth of a new nation, and the seven white stars for the country's provinces; the two merchant ships carrying Costa Rica&rsquo;s flag are a reminder of the maritime trade that shaped the country's history<br>
 
 **National anthem**<br>
 _name_: "Himno Nacional de Costa Rica" (National Anthem of Costa Rica)<br>

@@ -179,8 +179,9 @@ _unimproved: urban_: urban: 10.1% of population<br>
 _unimproved: rural_: rural: 30.9% of population<br>
 _unimproved: total_: total: 20.2% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-3.1% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 3.1% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 6.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.17 physicians/1,000 population (2023)<br>
@@ -219,14 +220,14 @@ _women married by age 15_: 7.4% (2021)<br>
 _women married by age 18_: 25.8% (2021)<br>
 _men married by age 18_: 1.9% (2021)<br>
 
-**Education expenditures**<br>
-3.4% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.4% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 15.9% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 89.9%<br>
-_male_: 93.1%<br>
-_female_: 86.7% (2019)<br>
+_total population_: 50% (2021 est.)<br>
+_male_: 60.2% (2021 est.)<br>
+_female_: 40.3% (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -304,12 +305,6 @@ _etymology_: formerly a village named N'Gokro, Yamoussoukro is named after Queen
 **Administrative divisions**<br>
 12 districts and 2 autonomous districts*; Abidjan*, Bas-Sassandra, Comoe, Denguele, Goh-Djiboua, Lacs, Lagunes, Montagnes, Sassandra-Marahoue, Savanes, Vallee du Bandama, Woroba, Yamoussoukro*, Zanzan<br>
 
-**Independence**<br>
-7 August 1960 (from France)<br>
-
-**National holiday**<br>
-Independence Day, 7 August (1960)<br>
-
 **Legal system**<br>
 civil law system based on the French civil code; Constitutional Chamber of the Supreme Court reviews legislation<br>
 
@@ -370,9 +365,6 @@ _subordinate courts_: Courts of Appeal (organized into civil, criminal, and soci
 **Political parties**<br>
 African Peoples' Party-Cote d'Ivoire or PPA-CI <br>Democratic Party of Cote d'Ivoire or PDCI <br>Ivorian Popular Front or FPI <br>Liberty and Democracy for the Republic or LIDER <br>Movement of the Future Forces or MFA <br>Pan-African Congress for People's Justice and Equality or COJEP <br>Rally of Houphouetists for Democracy and Peace or RHDP <br>Rally of the Republicans or RDR<br>Together for Democracy and Sovereignty or EDS <br>Together to Build (UDPCI, FPI,and allies) <br>Union for Cote d'Ivoire or UPCI <br>Union for Democracy and Peace in Cote d'Ivoire or UDPCI<br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, Union Latina, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Ibrahima TOURE (since 13 January 2022)<br>
 _chancery_: 2424 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -388,12 +380,24 @@ _telephone_: [225] 27-22-49-40-00<br>
 _FAX_: [225] 27-22-49-43-23<br>
 _email address and website_: <br>AbjAmCit@state.gov<br><br>https://ci.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, Union Latina, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+7 August 1960 (from France)<br>
+
+**National holiday**<br>
+Independence Day, 7 August (1960)<br>
+
 **Flag description**<br>
 three equal vertical bands of orange (hoist side), white, and green; orange stands for the savannah and fertility, white for peace and unity, green for the forests of the south and the hope for a bright future; design based on France's flag<br>
 <strong>note:</strong> similar to the flag of Ireland, which is longer and has the colors reversed -- green (hoist side), white, and orange; also similar to the flag of Italy, which is green (hoist side), white, and red<br>
 
 **National symbol(s)**<br>
-elephant; national colors: orange, white, green<br>
+elephant<br>
+
+**National colors**<br>
+orange, white, green<br>
 
 **National anthem**<br>
 _name_: "L'Abidjanaise" (Song of Abidjan)<br>

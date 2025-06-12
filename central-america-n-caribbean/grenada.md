@@ -157,8 +157,9 @@ NA<br>
 _improved: total_: total: 96.8% of population<br>
 _unimproved: total_: total: 3.2% of population (2017 est.)<br>
 
-**Current health expenditure**<br>
-5.7% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.7% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 6.3% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.38 physicians/1,000 population (2018)<br>
@@ -187,11 +188,11 @@ _other alcohols_: 0.31 liters of pure alcohol (2019 est.)<br>
 **Currently married women (ages 15-49)**<br>
 41.3% (2023 est.)<br>
 
-**Education expenditures**<br>
-3.6% of GDP (2018 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.1% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 14.5% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 98.6%<br>
 _male_: 98.6%<br>
 _female_: 98.6% (2014 est.)<br>
@@ -260,12 +261,6 @@ _etymology_: originally named Ville de Fort Royal (Fort Royal Town), the name wa
 **Administrative divisions**<br>
 6 parishes and 1 dependency*; Carriacou and Petite Martinique*, Saint Andrew, Saint David, Saint George, Saint John, Saint Mark, Saint Patrick<br>
 
-**Independence**<br>
-7 February 1974 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 7 February (1974)<br>
-
 **Legal system**<br>
 common law based on English model<br>
 
@@ -324,9 +319,6 @@ _subordinate courts_: magistrates' courts; Court of Magisterial Appeals<br>
 **Political parties**<br>
 National Democratic Congress or NDC<br>New National Party or NNP<br>
 
-**International organization participation**<br>
-ACP, ACS, AOSIS, CARIFORUM, CARIBCAN, Caricom, CBI, CDB, CELAC, CSME, ECCU, EPA, FAO, G-77, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, ITUC, LAES, MIGA, NAM, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Tarlie FRANCIS (since 15 September 2023)<br>
 _chancery_: 1701 New Hampshire Avenue NW, Washington, DC 20009<br>
@@ -343,11 +335,26 @@ _telephone_: [1] (473) 444-1173<br>
 _FAX_: [1] (473) 444-4820<br>
 _email address and website_: <br>StgeorgesACS@state.gov<br><br>https://bb.usembassy.gov/embassy/grenada/<br>
 
+**International organization participation**<br>
+ACP, ACS, AOSIS, CARIFORUM, CARIBCAN, Caricom, CBI, CDB, CELAC, CSME, ECCU, EPA, FAO, G-77, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, ITUC, LAES, MIGA, NAM, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO<br>
+
+**Independence**<br>
+7 February 1974 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 7 February (1974)<br>
+
 **Flag description**<br>
 a rectangle divided diagonally into yellow triangles (top and bottom) and green triangles (hoist side and outer side), with a red border around the flag; three yellow five-pointed stars are centered on the top red border, three on the bottom red border, and one on a red disk at the center of the flag; a nutmeg pod is on the hoist-side triangle; the seven stars stand for the administrative divisions, with the central star denoting the capital, St. George's; yellow stands for the sun and the warmth of the people, green for vegetation and agriculture, and red for harmony, unity, and courage<br>
 
 **National symbol(s)**<br>
-Grenada dove, bougainvillea flower; national colors: red, yellow, green<br>
+Grenada dove, bougainvillea flower<br>
+
+**National colors**<br>
+red, yellow, green<br>
+
+**National coat of arms**<br>
+<p>Grenada’s coat of arms shows Grand Etang Lake, a crater lake on the volcano that formed Grenada. In the center of the shield is Christopher Columbus’s ship, the <em>Santa Maria</em>, which landed on the island in 1498. The gold cross dividing the shield, the two Madonna lilies, and the national motto signal the importance of religion. Two lions symbolize past UK rule (1762-1974), as well as Grenada’s current status as a Commonwealth country. The corn stalk and banana plant represent agriculture. The armadillo and Grenada dove next to the shield are native to the island, and the roses in the bougainvillea flower garland represent Grenada’s seven communities. </p><br>
 
 **National anthem**<br>
 _name_: "Hail Grenada"<br>

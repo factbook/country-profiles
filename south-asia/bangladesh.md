@@ -177,8 +177,9 @@ _unimproved: urban_: urban: 1% of population<br>
 _unimproved: rural_: rural: 1.3% of population<br>
 _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-2.4% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 2.4% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 1.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.72 physicians/1,000 population (2023)<br>
@@ -219,14 +220,14 @@ _female_: 12.5% (2025 est.)<br>
 _women married by age 15_: 15.5% (2019)<br>
 _women married by age 18_: 51.4% (2019)<br>
 
-**Education expenditures**<br>
-2.1% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 11.6% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 74.9%<br>
-_male_: 77.8%<br>
-_female_: 72% (2020)<br>
+_total population_: 79% (2022 est.)<br>
+_male_: 81% (2022 est.)<br>
+_female_: 77% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
@@ -256,9 +257,6 @@ _other_: 13.2% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 40.5% of total population (2023)<br>
 _rate of urbanization_: 2.88% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to economic constraints and high prices of important food items -</em> food insecurity is expected to remain fragile, given persisting economic constraints; domestic prices of wheat flour and palm oil, important food items, were at high levels in May 2023 (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 45.99 micrograms per cubic meter (2019 est.)<br>
@@ -307,12 +305,6 @@ _etymology_: the origins of the name are unclear, but it may be derived from eit
 **Administrative divisions**<br>
 8 divisions; Barishal, Chattogram, Dhaka, Khulna, Mymensingh, Rajshahi, Rangpur, Sylhet<br>
 
-**Independence**<br>
-16 December 1971 (from Pakistan)<br>
-
-**National holiday**<br>
-Independence Day, 26 March (1971); Victory Day, 16 December (1971); note - 26 March 1971 is the date of the Awami League's declaration of an independent Bangladesh, and 16 December (Victory Day) memorializes the military victory over Pakistan and the official creation of the state of Bangladesh<br>
-
 **Legal system**<br>
 common law, incorporating elements of English common law; since independence, statutory law has been the primary form of legislation; Islamic law applies to Muslims in family and inheritance laws, with Hindu personal law applying to Hindus and Buddhists<br>
 
@@ -351,9 +343,6 @@ _subordinate courts_: civil courts include: Assistant Judge's Court; Joint Distr
 **Political parties**<br>
 <p>Awami League or AL<br>Bangladesh Jamaat-i-Islami or JIB<br>Bangladesh Nationalist Party or BNP<br>Islami Andolan Bangladesh<br>Jatiya Party or JP (Ershad faction)<br>Jatiya Party or JP (Manju faction)<br>National Socialist Party (Jatiya Samajtantrik Dal) or JSD<br>Workers Party or WP</p> <p> </p><br>
 
-**International organization participation**<br>
-ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSCA, MONUSCO, NAM, OIC, OPCW, PCA, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNIFIL, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Asad Alam SIAM (since 13 January 2025)<br>
 _chancery_: 3510 International Drive NW, Washington, DC 20008<br>
@@ -370,14 +359,26 @@ _telephone_: [880] (2) 5566-2000<br>
 _FAX_: [880] (2) 5566-2907<br>
 _email address and website_: <br>DhakaACS@state.gov<br><br>https://bd.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSCA, MONUSCO, NAM, OIC, OPCW, PCA, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNIFIL, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+16 December 1971 (from Pakistan)<br>
+
+**National holiday**<br>
+Independence Day, 26 March (1971); Victory Day, 16 December (1971); note - 26 March 1971 is the date of the Awami League's declaration of an independent Bangladesh, and 16 December (Victory Day) memorializes the military victory over Pakistan and the official creation of the state of Bangladesh<br>
+
 **Flag description**<br>
 green field with a large red disk shifted slightly to the hoist side; the red disk represents the rising sun and the sacrifice to achieve independence; the green field symbolizes the lush vegetation of Bangladesh<br>
 
 **National symbol(s)**<br>
-Bengal tiger, water lily; national colors: green, red<br>
+Bengal tiger, water lily<br>
+
+**National colors**<br>
+green, red<br>
 
 **National coat of arms**<br>
-The coat of arms of Bangladesh features the water lily, which is the national flower and symbolizes promise, aesthetics, and elegance. The water under the lily, the rice sheaves on the sides, and the jute leaves at the top represent the Bangladeshi landscape and economy. The four stars represent the aims and ambition of the nation.<br>
+the water lily is the national flower and symbolizes promise, aesthetics, and elegance; the water under the lily, the rice sheaves on the sides, and the jute leaves at the top represent the Bangladeshi landscape and economy; the four stars represent the aims and ambition of the nation<br>
 
 **National anthem**<br>
 _name_: "Amar Shonar Bangla" (My Golden Bengal)<br>

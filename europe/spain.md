@@ -180,8 +180,9 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-10.7% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 10.7% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 15.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 4.29 physicians/1,000 population (2022)<br>
@@ -215,14 +216,14 @@ _female_: 22% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 50.1% (2023 est.)<br>
 
-**Education expenditures**<br>
-4.6% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.3% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 9.2% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 98.6%<br>
-_male_: 99%<br>
-_female_: 98.2% (2020)<br>
+_total population_: 100% (2021 est.)<br>
+_male_: 100% (2021 est.)<br>
+_female_: 100% (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years<br>
@@ -303,12 +304,6 @@ _etymology_: the meaning and origin of the name is unclear; the city grew from a
 17 autonomous communities (comunidades autonomas, singular - comunidad autonoma) and 2 autonomous cities* (ciudades autonomas, singular - ciudad autonoma); Andalucia; Aragon; Asturias; Canarias (Canary Islands); Cantabria; Castilla-La Mancha; Castilla-Leon; Cataluña (Castilian), Catalunya (Catalan), Catalonha (Aranese) [Catalonia]; Ceuta*; Comunidad Valenciana (Castilian), Comunitat Valenciana (Valencian) [Valencian Community]; Extremadura; Galicia; Illes Baleares (Balearic Islands); La Rioja; Madrid; Melilla*; Murcia; Navarra (Castilian), Nafarroa (Basque) [Navarre]; Pais Vasco (Castilian), Euskadi (Basque) [Basque Country]<br>
 <strong>note:</strong> the autonomous cities of Ceuta and Melilla plus three small islands of Islas Chafarinas, Penon de Alhucemas, and Penon de Velez de la Gomera, administered directly by the Spanish central government, are all along the coast of Morocco and are collectively referred to as Places of Sovereignty (Plazas de Soberania)<br>
 
-**Independence**<br>
-1492; the Iberian peninsula was characterized by a variety of independent kingdoms prior to the Muslim occupation that began in the early 8th century A.D. and lasted nearly seven centuries; the small Christian redoubts of the north began the reconquest almost immediately, culminating in the seizure of Granada in 1492; this event completed the unification of several kingdoms and is traditionally considered the forging of present-day Spain<br>
-
-**National holiday**<br>
-National Day (Hispanic Day), 12 October (1492); note - commemorates the arrival of COLUMBUS in the Americas<br>
-
 **Legal system**<br>
 civil law system with regional variations<br>
 
@@ -370,9 +365,6 @@ _subordinate courts_: National High Court; High Courts of Justice (in each of th
 **Political parties**<br>
 Asturias Forum or FAC <br>Basque Country Unite (Euskal Herria Bildu) or EH Bildu (coalition of 4 Basque pro-independence parties)<br>Basque Nationalist Party or PNV or EAJ <br>Canarian Coalition or CC (coalition of 5 parties)<br>Ciudadanos Party (Citizens Party) or Cs <br>Compromis - Compromise Coalition <br>Navarrese People's Union or UPN <br>Together for Catalonia or Junts <br>People's Party or PP <br>Republican Left of Catalonia or ERC <br>Spanish Socialist Workers Party or PSOE <br>Teruel Existe or TE <br>Unidas (Unite) or Sumar (electoral coalition formed in March 2022) (formerly Unidas Podemos or UP)<br>Vox or VOX<br>
 
-**International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BCIE, BIS, CABEI, CAN (observer), CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador &Aacute;ngeles MORENO Bau (since 27 February 2024)<br>
 _chancery_: 2375 Pennsylvania Avenue NW, Washington, DC 20037<br>
@@ -390,11 +382,24 @@ _FAX_: [34] (91) 587-2303<br>
 _email address and website_: <br>askACS@state.gov<br><br>https://es.usembassy.gov/<br>
 _consulate(s) general_: Barcelona<br>
 
+**International organization participation**<br>
+ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BCIE, BIS, CABEI, CAN (observer), CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+1492<br>
+<strong>note:</strong> the Iberian peninsula was home to a variety of independent kingdoms prior to the Muslim occupation that began in the early 8th century A.D. and lasted nearly seven centuries; the small Christian redoubts of the north began the reconquest almost immediately, culminating in the seizure of Granada in 1492; this completed the unification of several kingdoms and is traditionally considered the forging of present-day Spain<br>
+
+**National holiday**<br>
+National Day (Hispanic Day), 12 October (1492); note - commemorates the arrival of COLUMBUS in the Americas<br>
+
 **Flag description**<br>
 three horizontal bands of red (top), yellow (double-width), and red, with the national coat of arms on the hoist side of the yellow band; the coat of arms shows the emblems of the area's former kingdoms (clockwise from upper left: Castile, Leon, Navarre, and Aragon), which also used red and yellow as their colors; Granada is represented by the stylized pomegranate at the bottom of the shield; the two columns represent the Pillars of Hercules, which are promontories (Gibraltar and Ceuta) on the Strait of Gibraltar; a red scroll bears the imperial motto of "Plus Ultra" (further beyond), referring to Spanish lands outside Europe<br>
 
 **National symbol(s)**<br>
-Pillars of Hercules; national colors: red, yellow<br>
+Pillars of Hercules<br>
+
+**National colors**<br>
+red, yellow<br>
 
 **National anthem**<br>
 _name_: "Himno Nacional Espanol" (National Anthem of Spain)<br>
@@ -408,7 +413,7 @@ _selected World Heritage Site locales_: Cave of Altamira and Paleolithic Cave Ar
 ## Economy
 
 **Economic overview**<br>
-high-income core EU and eurozone economy; strong growth driven by public consumption, tourism, and other service exports; tight labor market despite high structural unemployment; government debt remains high amid deficit reductions; innovation and economic freedom ranked lower than EU and OECD peers<br>
+<p>high-income, core-EU and eurozone economy; strong growth driven by public consumption, tourism, and other service exports; tight labor market despite high structural unemployment; efforts to narrow persistent fiscal deficits through tax and spending measures; high but declining unemployment supported by job growth and immigration</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $2.279 trillion (2023 est.)<br>

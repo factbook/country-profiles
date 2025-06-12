@@ -180,8 +180,9 @@ _unimproved: urban_: urban: 3.3% of population<br>
 _unimproved: rural_: rural: 9% of population<br>
 _unimproved: total_: total: 8% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-7.4% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 7.4% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 3.3% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.05 physicians/1,000 population (2022)<br>
@@ -220,14 +221,14 @@ _women married by age 15_: 7.5% (2020)<br>
 _women married by age 18_: 37.7% (2020)<br>
 _men married by age 18_: 7% (2020)<br>
 
-**Education expenditures**<br>
-2.9% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.3% of GDP (2018 est.)<br>
+_Education expenditure (% national budget)_: 1.2% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 67.3%<br>
-_male_: 71.2%<br>
-_female_: 63.7% (2021)<br>
+_total population_: 70.2% (2020 est.)<br>
+_male_: 78.6% (2020 est.)<br>
+_female_: 62.7% (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -257,9 +258,6 @@ _other_: 12.9% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 18.3% of total population (2023)<br>
 _rate of urbanization_: 4.41% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_widespread lack of access_: <em><em>due to </em>weather extremes and high food prices - </em>the latest analysis indicates that about 3.8 million people (20 percent of the population) are estimated to have faced high levels of acute food insecurity between January and March 2023; this figure is more than double the number in the corresponding months of 2022; high food prices are the key reason for the deterioration in food insecurity, which, in the absence of a substantial increase in incomes, are severely constraining households’ economic access to food; production shortfalls in southern districts in 2022, areas that have the highest prevalence of food insecurity, are a further contributing factor; the impact of Cyclone Freddy (February-March 2023) on southern districts, including crop losses and destruction of infrastructure as well as high food prices, are expected to aggravate food insecurity conditions in 2023 (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 18.57 micrograms per cubic meter (2019 est.)<br>
@@ -309,12 +307,6 @@ _etymology_: named after the Lilongwe River that flows through the city; the ori
 **Administrative divisions**<br>
 28 districts; Balaka, Blantyre, Chikwawa, Chiradzulu, Chitipa, Dedza, Dowa, Karonga, Kasungu, Likoma, Lilongwe, Machinga, Mangochi, Mchinji, Mulanje, Mwanza, Mzimba, Neno, Ntcheu, Nkhata Bay, Nkhotakota, Nsanje, Ntchisi, Phalombe, Rumphi, Salima, Thyolo, Zomba<br>
 
-**Independence**<br>
-6 July 1964 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 6 July (1964); note - also called Republic Day since 6 July 1966<br>
-
 **Legal system**<br>
 mixed system of English common law and customary law; Supreme Court of Appeal reviews legislative acts<br>
 
@@ -362,9 +354,6 @@ _subordinate courts_: High Court; magistrate courts; Industrial Relations Court;
 **Political parties**<br>
 Democratic Progressive Party or DPP <br>Malawi Congress Party or MCP <br>People's Party or PP <br>United Democratic Front or UDF<br>United Transformation Movement or UTM <br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, C, CD, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OPCW, SADC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNISFA, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Esme Jynet CHOMBO (since 19 April 2022)<br>
 _chancery_: 2408 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -379,11 +368,23 @@ _telephone_: [265] (0) 177-3166<br>
 _FAX_: [265] (0) 177-0471<br>
 _email address and website_: <br>LilongweConsular@state.gov<br><br>https://mw.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, C, CD, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OPCW, SADC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNISFA, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+6 July 1964 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 6 July (1964); note - also called Republic Day since 6 July 1966<br>
+
 **Flag description**<br>
 three equal horizontal bands of black (top), red, and green, with a rising red sun centered on the black band; black represents ethnic groups, red the blood shed in their struggle for freedom, and green the color of nature; the sun represents the hope of freedom for the continent of Africa<br>
 
 **National symbol(s)**<br>
-lion; national colors: black, red, green<br>
+lion<br>
+
+**National colors**<br>
+black, red, green<br>
 
 **National anthem**<br>
 _name_: "Mulungu dalitsa Malawi" (Oh God Bless Our Land of Malawi)<br>

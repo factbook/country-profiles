@@ -176,11 +176,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Currently married women (ages 15-49)**<br>
 22.5% (2023 est.)<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 96.9%<br>
 _male_: 97.3%<br>
 _female_: 96.5% (2015)<br>
@@ -236,12 +232,6 @@ _etymology_: established in 1854 as Port-de-France, the settlement was renamed N
 **Administrative divisions**<br>
 3 provinces; Province Iles (Islands Province), Province Nord (North Province), and Province Sud (South Province)<br>
 
-**Independence**<br>
-none (overseas collectivity of France); note - in three independence referenda, on 4 November 2018, 4 October 2020, and 12 December 2021, the majority voted to reject independence in favor of maintaining the status quo; an 18-month transition period is now in place (ending 30 June 2023), during which a referendum on the new status of New Caledonia within France will take place<br>
-
-**National holiday**<br>
-F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - the local holiday is New Caledonia Day, 24 September (1853)<br>
-
 **Legal system**<br>
 civil law system based on French civil law<br>
 
@@ -283,20 +273,30 @@ _subordinate courts_: Courts of First Instance include: civil, juvenile, commerc
 **Political parties**<br>
 Caledonia Together or CE <br>Caledonian Union or UC <br>Future With Confidence or AEC <br>Kanak Socialist Front for National Liberation or FLNKS (alliance includes PALIKA, UNI, UC, and UPM) <br>Labor Party or PT <br>National Union for Independence or UNI <br>Oceanian Awakening <br>Party of Kanak Liberation or PALIKA <br>Socialist Kanak Liberation or LKS <br>The Republicans (formerly The Rally or UMP) <br>
 
-**International organization participation**<br>
-ITUC (NGOs), PIF, SPC, UPU, WFTU (NGOs), WMO<br>
-
 **Diplomatic representation in the US**<br>
 none (overseas territory of France)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (overseas territory of France)<br>
 
+**International organization participation**<br>
+ITUC (NGOs), PIF, SPC, UPU, WFTU (NGOs), WMO<br>
+
+**Independence**<br>
+none (overseas collectivity of France)<br>
+<strong>note:</strong> in three independence referenda, on 4 November 2018, 4 October 2020, and 12 December 2021, the majority voted to reject independence in favor of maintaining the status quo; an 18-month transition period is now in place (ending 30 June 2023), during which a referendum on the new status of New Caledonia within France will take place<br>
+
+**National holiday**<br>
+F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - the local holiday is New Caledonia Day, 24 September (1853)<br>
+
 **Flag description**<br>
 two official flags: the flag of France and the Kanak (ethnic Melanesian) flag have equal status; the latter consists of three equal horizontal bands of blue (top), red, and green; a large yellow disk shifted slightly to the hoist side is edged in black and displays a black <em>fleche faîtière</em> symbol, a native rooftop adornment<br>
 
 **National symbol(s)**<br>
-fleche faitiere (native rooftop adornment), kagu bird; national colors: grey, red<br>
+fl&egrave;che fa&icirc;ti&egrave;re (native rooftop adornment), kagu bird<br>
+
+**National colors**<br>
+grey, red<br>
 
 **National anthem**<br>
 _name_: "Soyons unis, devenons freres" (Let Us Be United, Let Us Become Brothers)<br>

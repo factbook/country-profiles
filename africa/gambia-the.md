@@ -179,8 +179,9 @@ _unimproved: urban_: urban: 8.2% of population<br>
 _unimproved: rural_: rural: 14.3% of population<br>
 _unimproved: total_: total: 10.5% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-3.2% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 3.2% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 7.5% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.09 physicians/1,000 population (2023)<br>
@@ -222,14 +223,14 @@ _women married by age 15_: 5.6% (2020)<br>
 _women married by age 18_: 23.1% (2020)<br>
 _men married by age 18_: 0.2% (2020)<br>
 
-**Education expenditures**<br>
-2.8% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.7% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 17.5% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 58.1%<br>
-_male_: 65.2%<br>
-_female_: 51.2% (2021)<br>
+_total population_: 51.6% (2021 est.)<br>
+_male_: 65.3% (2021 est.)<br>
+_female_: 40.5% (2021 est.)<br>
 
 ## Environment
 
@@ -296,12 +297,6 @@ _etymology_: the name derives from a misunderstanding between Portuguese colonis
 **Administrative divisions**<br>
 5 regions, 1 city*, and 1 municipality**; Banjul*, Central River, Kanifing**, Lower River, North Bank, Upper River, West Coast<br>
 
-**Independence**<br>
-18 February 1965 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 18 February (1965)<br>
-
 **Legal system**<br>
 mixed system of English common law, Islamic law, and customary law<br>
 
@@ -349,9 +344,6 @@ _subordinate courts_: Court of Appeal; High Court; Special Criminal Court; Khadi
 **Political parties**<br>
 Alliance for Patriotic Reorientation and Construction or APRC <br>Gambia Democratic Congress or GDC <br>Gambia Moral Congress or GMC <br>National People's Party or NPP <br>People's Progressive Party or PPP <br>United Democratic Party or UDP <br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, ECOWAS, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNISFA, UNMIL, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Momodou Lamin BAH (12 December 2022)<br>
 _chancery_: 5630 16th Street NW, Washington, DC 20011<br>
@@ -367,11 +359,23 @@ _telephone_: [220] 439-2856<br>
 _FAX_: [220] 439-2475<br>
 _email address and website_: <br>ConsularBanjul@state.gov<br><br>https://gm.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, ECOWAS, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNISFA, UNMIL, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+18 February 1965 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 18 February (1965)<br>
+
 **Flag description**<br>
 three equal horizontal bands of red (top), blue with white edges, and green; red stands for the sun and the savannah, blue for the Gambia River, and green for forests and agriculture; the white stripes denote unity and peace<br>
 
 **National symbol(s)**<br>
-lion; national colors: red, blue, green, white<br>
+lion<br>
+
+**National colors**<br>
+red, blue, green, white<br>
 
 **National anthem**<br>
 _name_: "For The Gambia, Our Homeland"<br>

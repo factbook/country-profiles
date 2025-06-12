@@ -179,8 +179,9 @@ _unimproved: urban_: urban: 1.8% of population<br>
 _unimproved: rural_: rural: 13.2% of population<br>
 _unimproved: total_: total: 6.7% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-3.7% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 3.7% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 8% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.52 physicians/1,000 population (2023)<br>
@@ -221,14 +222,14 @@ _female_: 3.1% (2025 est.)<br>
 _women married by age 15_: 2% (2017)<br>
 _women married by age 18_: 16.3% (2017)<br>
 
-**Education expenditures**<br>
-3.5% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 1.3% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 13.9% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 96%<br>
-_male_: 97.4%<br>
-_female_: 94.6% (2020)<br>
+_total population_: 96% (2020 est.)<br>
+_male_: 97% (2020 est.)<br>
+_female_: 95% (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -315,12 +316,6 @@ _etymology_: derives from the Sanscrit name Jayakarta, meaning "victory and pros
 35 provinces (provinsi-provinsi, singular - provinsi), 1 autonomous province*, 1 special region** (daerah istimewa), and 1 national capital district*** (daerah khusus ibukota); Aceh*, Bali, Banten, Bengkulu, Gorontalo, Jakarta***, Jambi, Jawa Barat (West Java), Jawa Tengah (Central Java), Jawa Timur (East Java), Kalimantan Barat (West Kalimantan), Kalimantan Selatan (South Kalimantan), Kalimantan Tengah (Central Kalimantan), Kalimantan Timur (East Kalimantan), Kalimantan Utara (North Kalimantan), Kepulauan Bangka Belitung (Bangka Belitung Islands), Kepulauan Riau (Riau Islands), Lampung, Maluku, Maluku Utara (North Maluku), Nusa Tenggara Barat (West Nusa Tenggara), Nusa Tenggara Timur (East Nusa Tenggara), Papua, Papua Barat (West Papua), Papua Barat Daya (Southwest Papua), Papua Pegunungan (Papua Highlands), Papua Selatan (South Papua), Papua Tengah (Central Papua), Riau, Sulawesi Barat (West Sulawesi), Sulawesi Selatan (South Sulawesi), Sulawesi Tengah (Central Sulawesi), Sulawesi Tenggara (Southeast Sulawesi), Sulawesi Utara (North Sulawesi), Sumatera Barat (West Sumatra), Sumatera Selatan (South Sumatra), Sumatera Utara (North Sumatra), Yogyakarta**<br>
 <strong>note:</strong> following the implementation of decentralization beginning on 1 January 2001, regencies and municipalities have become the key administrative units responsible for providing most government services<br>
 
-**Independence**<br>
-17 August 1945 (declared independence from the Netherlands)<br>
-
-**National holiday**<br>
-Independence Day, 17 August (1945)<br>
-
 **Legal system**<br>
 civil law system based on the Roman-Dutch model and influenced by customary law<br>
 
@@ -368,9 +363,6 @@ _subordinate courts_: High Courts of Appeal, district courts, religious courts<b
 **Political parties**<br>
 Democrat Party or PD <br>Functional Groups Party or GOLKAR <br>Great Indonesia Movement Party or GERINDRA <br>Indonesia Democratic Party-Struggle or PDI-P <br>National Awakening Party or PKB <br>National Democratic Party or NasDem <br>National Mandate Party or PAN <br>Prosperous Justice Party or PKS <br>
 
-**International organization participation**<br>
-ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, D-8, EAS, EITI (compliant country), FAO, G-11, G-15, G-20, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IORA, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, MSG (associate member), NAM, OECD (enhanced engagement), OIC, OPCW, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Ida Bagus Made BIMANTARA (since 30 November 2023)<br>
 _chancery_: 2020 Massachusetts Avenue NW, Washington, DC 20036<br>
@@ -389,12 +381,24 @@ _email address and website_: <br>jakartaacs@state.gov<br><br>https://id.usembass
 _consulate(s) general_: Surabaya<br>
 _consulate(s)_: Medan<br>
 
+**International organization participation**<br>
+ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, D-8, EAS, EITI (compliant country), FAO, G-11, G-15, G-20, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IORA, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, MSG (associate member), NAM, OECD (enhanced engagement), OIC, OPCW, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+17 August 1945 (declared independence from the Netherlands)<br>
+
+**National holiday**<br>
+Independence Day, 17 August (1945)<br>
+
 **Flag description**<br>
 two equal horizontal bands of red (top) and white; the colors derive from the banner of the Majapahit Empire of the 13th-15th centuries; red symbolizes courage, and white represents purity<br>
 <strong>note:</strong> similar to the flags of Monaco, which is shorter, and Poland, which is white (top) and red<br>
 
 **National symbol(s)**<br>
-garuda (mythical bird); national colors: red, white<br>
+garuda (mythical bird)<br>
+
+**National colors**<br>
+red, white<br>
 
 **National anthem**<br>
 _name_: "Indonesia Raya" (Great Indonesia)<br>

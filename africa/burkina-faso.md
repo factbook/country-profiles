@@ -175,8 +175,9 @@ _unimproved: urban_: urban: 5.3% of population<br>
 _unimproved: rural_: rural: 28.7% of population<br>
 _unimproved: total_: total: 21.5% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-6.4% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 6.4% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 8.4% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.15 physicians/1,000 population (2022)<br>
@@ -218,14 +219,14 @@ _women married by age 15_: 8.9% (2015)<br>
 _women married by age 18_: 51.3% (2015)<br>
 _men married by age 18_: 1.6% (2015)<br>
 
-**Education expenditures**<br>
-5.5% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.3% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 20.3% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 46%<br>
-_male_: 54.5%<br>
-_female_: 37.8% (2021)<br>
+_total population_: 40.9% (2022 est.)<br>
+_male_: 49.8% (2022 est.)<br>
+_female_: 33.7% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
@@ -255,9 +256,6 @@ _other_: 24.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 32.5% of total population (2023)<br>
 _rate of urbanization_: 4.75% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to civil insecurity in the north and high food prices - </em>according to the latest analysis, about 3.53 million people are projected to face acute food insecurity during the June to August 2023 lean season period; this would be a slight increase compared to the preceding year; acute food insecurity is primarily underpinned by poor insecurity in northern and eastern areas, and in particular by the use of siege tactics by non-state armed groups in the country’s Sahel region; as of March 2023, civil insecurity resulted in the displacement of about 2.06 million people; persistent high food prices are affecting vulnerable households across the country, particularly those in conflict-affected areas due to market disruptions as well as constrained access to sources of income and humanitarian assistance (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 40.74 micrograms per cubic meter (2019 est.)<br>
@@ -305,12 +303,6 @@ _etymology_: Ouagadougou is a Francophone spelling of the native name "Wogodogo,
 **Administrative divisions**<br>
 13 regions; Boucle du Mouhoun, Cascades, Centre, Centre-Est, Centre-Nord, Centre-Ouest, Centre-Sud, Est, Hauts-Bassins, Nord, Plateau-Central, Sahel, Sud-Ouest<br>
 
-**Independence**<br>
-5 August 1960 (from France)<br>
-
-**National holiday**<br>
-Republic Day, 11 December (1958); note - commemorates the day that Upper Volta became an autonomous republic in the French Community<br>
-
 **Legal system**<br>
 civil law based on the French model and customary law<br>
 
@@ -357,9 +349,6 @@ _subordinate courts_: Appeals Court; High Court; first instance tribunals; distr
 **Political parties**<br>
 Act Together<br>African Democratic Rally/Alliance for Democracy and Federation or ADF/RDA<br>Congress for Democracy and Progress or CDP<br>Convergence for Progress and Solidarity-Generation 3 or CPS-G3<br>Movement for the Future Burkina Faso or MBF<br>National Convention for Progress or CNP<br>New Era for Democracy or NTD<br>Pan-African Alliance for Refoundation or APR<br>Party for Democracy and Socialism/Metba or PDS/Metba<br>Party for Development and Change or PDC<br>Patriotic Rally for Integrity or RPI<br>Peoples Movement for Progress or MPP<br>Progressives United for Renewal or PUR<br>Union for Progress and Reform or UPC<br>Union for Rebirth - Sankarist Party or UNIR-PS<br>
 
-**International organization participation**<br>
-ACP, AfDB, AU (suspended), CD, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNITAR, UNMISS, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Edouard BOUDA (since 1 February 2024)<br>
 _chancery_: 2340 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -375,12 +364,24 @@ _telephone_: (226) 25-49-53-00<br>
 _FAX_: (226) 25-49-56-23<br>
 _email address and website_: <br>AmembOuaga@state.gov<br><br>https://bf.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU (suspended), CD, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNITAR, UNMISS, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+5 August 1960 (from France)<br>
+
+**National holiday**<br>
+Republic Day, 11 December (1958); note - commemorates the day that Upper Volta became an autonomous republic in the French Community<br>
+
 **Flag description**<br>
 two equal horizontal bands of red (top) and green with a yellow five-pointed star in the center; red stands for the country's struggle for independence, green for hope and abundance, and yellow for the country's mineral wealth<br>
 <strong>note:</strong> uses the popular pan-African colors of Ethiopia<br>
 
 **National symbol(s)**<br>
-white stallion; national colors: red, yellow, green<br>
+white stallion<br>
+
+**National colors**<br>
+red, yellow, green<br>
 
 **National anthem**<br>
 _name_: "Le Ditanye" (Anthem of Victory)<br>

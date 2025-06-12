@@ -181,8 +181,9 @@ _unimproved: urban_: urban: 0.8% of population<br>
 _unimproved: rural_: rural: 19.8% of population<br>
 _unimproved: total_: total: 6.5% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-8.2% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 8.2% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 16.4% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.28 physicians/1,000 population (2021)<br>
@@ -224,14 +225,14 @@ _women married by age 15_: 3.4% (2016)<br>
 _women married by age 18_: 19.7% (2016)<br>
 _men married by age 18_: 5.2% (2016)<br>
 
-**Education expenditures**<br>
-9.8% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 8.3% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 23.1% national budget (2021 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 92.5%<br>
-_male_: 96.5%<br>
-_female_: 88.6% (2015)<br>
+_total population_: 94% (2020 est.)<br>
+_male_: 97% (2020 est.)<br>
+_female_: 91% (2020 est.)<br>
 
 ## Environment
 
@@ -308,12 +309,6 @@ _etymology_: La Paz is a shortening of the original name of the city, Pueblo Nue
 **Administrative divisions**<br>
 9 departments (departamentos, singular - departamento); Beni, Chuquisaca, Cochabamba, La Paz, Oruro, Pando, Potosi, Santa Cruz, Tarija<br>
 
-**Independence**<br>
-6 August 1825 (from Spain)<br>
-
-**National holiday**<br>
-Independence Day, 6 August (1825)<br>
-
 **Legal system**<br>
 civil law system with influences from Roman, Spanish, canon (religious), French, and ethnic groups' pre-colonial law<br>
 
@@ -376,9 +371,6 @@ _subordinate courts_: National Electoral Court; District Courts (in each of the 
 Community Citizen Alliance or ACC<br>Front for Victory or FPV<br>Movement Toward Socialism or MAS<br>National Unity or UN<br>Revolutionary Left Front or FRI<br>Revolutionary Nationalist Movement or MNR<br>Social Democrat Movement or MDS<br>Third System Movement or MTS<br>We Believe or Creemos<br>
 <strong>note:</strong> We Believe or Creemos [Luis Fernando CAMACHO Vaca] is a coalition comprised of several opposition parties that participated in the 2020 election, which includes the Christian Democratic Party (PDC) and Solidarity Civic Unity (UCS)<br>
 
-**International organization participation**<br>
-CAN, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, PCA, UN, UN Security Council (temporary), UNAMID, UNASUR, UNCTAD, UNESCO, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Henry BALDELOMAR CH&Aacute;VEZ (since 11 October 2023)<br>
 _chancery_: 3014 Massachusetts Ave., NW, Washington, DC 20008<br>
@@ -396,12 +388,24 @@ _FAX_: [591] (2) 216-8111<br>
 _email address and website_: <br>ConsularLaPazACS@state.gov<br><br>https://bo.usembassy.gov/<br>
 <strong>note:</strong> in September 2008, the Bolivian Government expelled the US Ambassador to Bolivia, Philip GOLDBERG, and both countries have yet to reinstate their ambassadors<br>
 
+**International organization participation**<br>
+CAN, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, PCA, UN, UN Security Council (temporary), UNAMID, UNASUR, UNCTAD, UNESCO, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+6 August 1825 (from Spain)<br>
+
+**National holiday**<br>
+Independence Day, 6 August (1825)<br>
+
 **Flag description**<br>
 three equal horizontal bands of red (top), yellow, and green, with the coat of arms centered on the yellow band; red stands for bravery and the blood of national heroes, yellow for the nation's mineral resources, and green for the land's fertility<br>
 <strong>note:</strong> similar to the flag of Ghana, which has a large black five-pointed star centered in the yellow band; in 2009, a presidential decree made it mandatory for a <em>wiphala -</em>- a square, multi-colored flag representing the country's ethnic groups -- to be used alongside the traditional flag<br>
 
 **National symbol(s)**<br>
-llama, Andean condor, two national flowers: the cantuta and the patuju; national colors: red, yellow, green<br>
+llama, Andean condor; two national flowers, the cantuta and the patuju<br>
+
+**National colors**<br>
+red, yellow, green<br>
 
 **National anthem**<br>
 _name_: "Cancion Patriotica" (Patriotic Song)<br>

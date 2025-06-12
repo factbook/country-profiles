@@ -178,8 +178,9 @@ _unimproved: urban_: urban: 2.7% of population<br>
 _unimproved: rural_: rural: 3.6% of population<br>
 _unimproved: total_: total: 3% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-7.3% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 7.3% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 9.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.88 physicians/1,000 population (2020)<br>
@@ -221,14 +222,14 @@ _women married by age 15_: 1.4% (2018)<br>
 _women married by age 18_: 11.8% (2018)<br>
 _men married by age 18_: 1.2% (2018)<br>
 
-**Education expenditures**<br>
-3.1% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.9% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 10.1% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 98.4%<br>
-_male_: 98.7%<br>
-_female_: 98.2% (2021)<br>
+_total population_: 98.8% (2017 est.)<br>
+_male_: 98.6% (2017 est.)<br>
+_female_: 99% (2017 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -304,12 +305,6 @@ _etymology_: the name "Tirana" first appears in a 1418 Venetian document; the or
 **Administrative divisions**<br>
 12 counties (qarqe, singular - qark); Berat, Diber, Durres, Elbasan, Fier, Gjirokaster, Korce, Kukes, Lezhe, Shkoder, Tirane (Tirana), Vlore<br>
 
-**Independence**<br>
-28 November 1912 (from the Ottoman Empire)<br>
-
-**National holiday**<br>
-Independence Day, 28 November (1912), also known as Flag Day<br>
-
 **Legal system**<br>
 civil law system except in the northern rural areas where customary law known as the "Code of Leke" is still present<br>
 
@@ -356,10 +351,6 @@ _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized co
 **Political parties**<br>
 Alliance for Change (electoral coalition led by PD)<br>Democratic Party or PD <br>Party for Justice, Integration and Unity or PDIU (part of the Alliance for Change)<br>Social Democratic Party or PSD<br>Freedom Party of Albania or PL (formerly the Socialist Movement for Integration or LSI)<br>Socialist Party or PS <br>
 
-**International organization participation**<br>
-BSEC, CD, CE, CEI, EAPC, EBRD, EITI (compliant country), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIC, OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-<strong>note</strong>: Albania is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Ervin BUSHATI (since 15 September 2023)<br>
 _chancery_: 2100 S Street NW, Washington, DC 20008<br>
@@ -376,11 +367,24 @@ _telephone_: [355] 4 2247-285<br>
 _FAX_: [355] 4 2232-222<br>
 _email address and website_: <br>ACSTirana@state.gov<br><br>https://al.usembassy.gov/<br>
 
+**International organization participation**<br>
+BSEC, CD, CE, CEI, EAPC, EBRD, EITI (compliant country), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIC, OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+<strong>note</strong>: Albania is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
+
+**Independence**<br>
+28 November 1912 (from the Ottoman Empire)<br>
+
+**National holiday**<br>
+Independence Day, 28 November (1912), also known as Flag Day<br>
+
 **Flag description**<br>
 red with a black two-headed eagle in the center; the design is claimed to be that of 15th-century hero Georgi Kastrioti SKANDERBEG, who led a successful uprising against the Ottoman Turks that resulted in a short-lived independence for some Albanian regions (1443-78); an unsubstantiated explanation for the eagle symbol is the tradition that Albanians see themselves as descendants of the eagle; they refer to themselves as "Shqiptare," which translates as "sons of the eagle"<br>
 
 **National symbol(s)**<br>
-black double-headed eagle; national colors: red, black<br>
+black double-headed eagle<br>
+
+**National colors**<br>
+red, black<br>
 
 **National anthem**<br>
 _name_: "Hymni i Flamurit" (Hymn to the Flag)<br>
@@ -672,7 +676,7 @@ since joining NATO, the military has been in the process of modernizing by retir
 <strong>note: </strong>as of 2024, women comprised about 15% of the military's full-time personnel<br>
 
 **Military - note**<br>
-the Albanian Armed Forces (AAF) are responsible for defending the country&rsquo;s independence, sovereignty, and territory, assisting with internal security, providing disaster and humanitarian relief, and participating in international peacekeeping missions; the it is a small, lightly armed force that has been undergoing a modernization effort to improve its ability to fulfill NATO missions, including training and equipment purchases; the AAF has contributed small numbers of forces to several NATO missions since Albania joined NATO in 2009, including peacekeeping/stability missions in Afghanistan, Kosovo, and Iraq, and multinational battlegroups in Bulgaria and Latvia; it has also contributed to EU and UN missions (2024)<br>
+the Albanian Armed Forces (AAF) are responsible for defending the country&rsquo;s independence, sovereignty, and territory, assisting with internal security, providing disaster and humanitarian relief, and participating in international peacekeeping missions; the AAF is a small, lightly armed force that has been undergoing a modernization effort to improve its ability to fulfill NATO missions; the AAF has contributed small numbers of forces to several NATO missions since Albania joined NATO in 2009, including peacekeeping/stability missions in Afghanistan, Kosovo, and Iraq, and multinational battlegroups in Bulgaria and Latvia; it has also contributed to EU and UN missions (2025)<br>
 
 ## Terrorism
 

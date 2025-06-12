@@ -177,6 +177,9 @@ _unimproved: urban_: urban: 0.4% of population<br>
 _unimproved: rural_: rural: 0.7% of population<br>
 _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 
+**Health expenditure**<br>
+7.8% of national budget (2022 est.)<br>
+
 **Physician density**<br>
 1.52 physicians/1,000 population (2021)<br>
 
@@ -205,10 +208,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 52.6% (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 86.4%<br>
-_male_: 91.7%<br>
-_female_: 81% (2015)<br>
+_total population_: 94% (2021 est.)<br>
+_male_: 97% (2021 est.)<br>
+_female_: 92% (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
@@ -238,9 +240,6 @@ _other_: 23.7% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 57.4% of total population (2023)<br>
 _rate of urbanization_: 5.38% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: <em>due to civil conflict and economic crisis - </em>based on the World Food Program’s (WFP’s) food security and agriculture sector estimated that about 15 million people are in need of some form of food and agriculture assistance (representing 68 percent of the total population), of whom about 12.1 million are food insecure and about 2.9 million people are estimated to be at risk of food insecurity; fuel scarcity and increases in fuel prices led to a rise in transportation and freight charges for goods, both imported and domestically produced, including agricultural and food products; additional price increases at retail level further constrained the already weakened purchasing power of the majority of the population threatening their food security (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 25.14 micrograms per cubic meter (2019 est.)<br>
@@ -288,12 +287,6 @@ _etymology_: the city has an ancient, pre-Semitic name of unknown origin<br>
 **Administrative divisions**<br>
 14 provinces (muhafazat, singular - muhafazah); Al Hasakah, Al Ladhiqiyah (Latakia), Al Qunaytirah, Ar Raqqah, As Suwayda', Dar'a, Dayr az Zawr, Dimashq (Damascus), Halab (Aleppo), Hamah, Hims (Homs), Idlib, Rif Dimashq (Damascus Countryside), Tartus<br>
 
-**Independence**<br>
-17 April 1946 (from League of Nations mandate under French administration)<br>
-
-**National holiday**<br>
-Independence Day (Evacuation Day), 17 April (1946); note - celebrates the leaving of the last French troops and the proclamation of full independence<br>
-
 **Legal system**<br>
 mixed system of civil and Islamic (sharia) law (for family courts)<br>
 
@@ -338,9 +331,6 @@ _subordinate courts_: courts of first instance; magistrates' courts; religious a
 **Political parties**<br>
 <strong>legal parties/alliances:<br></strong> Arab Socialist Ba'ath Party<br>Arab Socialist (Ba'ath) Party – Syrian Regional<br>Arab Socialist Ba'ath Party – Syrian Regional Branch, Socialist Unionist Democratic Party<br>Arab Socialist Union of Syria or ASU<br>Democratic Arab Socialist Union<br>National Progressive Front or NPF<br>Socialist Unionist Democratic Party<br>Socialist Unionist Party<br>Syrian Communist Party (two branches)<br>Syrian Social Nationalist Party or SSNP<br>Unionist Socialist Party<br><strong><br>major political organizations:<br></strong>Kurdish Democratic Union Party or PYD<br>Kurdish National Council or KNC<br>Syriac Union Party<br>Syrian Democratic Council or SDC<br>Syrian Democratic Party<br>Syrian Opposition Coalition<br> <p><strong>de facto governance entities:<br></strong>Democratic Autonomous Administration of Northeast Syria or DAANES <br>Syrian Interim Government or SIG<br>Syrian Salvation Government or SSG</p><br>
 
-**International organization participation**<br>
-ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, ICSID, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WBG, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
-
 **Diplomatic representation in the US**<br>
 none<strong><br><br>Note</strong>:  operations at the embassy were suspended on 18 March 2014<br>
 
@@ -349,12 +339,24 @@ _chief of mission_: Ambassador (vacant); note - on 6 February 2012, the US suspe
 _mailing address_: 6110 Damascus Place, Washington DC&nbsp; 20521-6110<br>
 _email address and website_: <br>USIS_damascus@embassy.mzv.cz<br><br>https://sy.usembassy.gov/<br>
 
+**International organization participation**<br>
+ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, ICSID, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WBG, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
+
+**Independence**<br>
+17 April 1946 (from League of Nations mandate under French administration)<br>
+
+**National holiday**<br>
+Independence Day (Evacuation Day), 17 April (1946); note - celebrates the leaving of the last French troops and the proclamation of full independence<br>
+
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and black; two green five-pointed stars in a horizontal line centered in the white band; the band colors come from the Arab Liberation flag and represent oppression (black) overcome through bloody struggle (red), to be replaced by a bright future (white); identical to the former flag of the United Arab Republic (1958-1961), where the two stars represented the constituent states of Syria and Egypt; the current design dates to 1980<br>
 <strong>note:</strong> similar to the flags of Yemen (plain white band), Iraq (Arabic inscription centered in the white band), and Egypt (gold Eagle of Saladin centered in the white band)<br>
 
 **National symbol(s)**<br>
-northern bald ibis; national colors: red, white, black, green<br>
+northern bald ibis<br>
+
+**National colors**<br>
+red, white, black, green<br>
 
 **National anthem**<br>
 _name_: "Humat ad-Diyar" (Guardians of the Homeland)<br>

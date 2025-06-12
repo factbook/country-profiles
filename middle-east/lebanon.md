@@ -168,8 +168,9 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-10.1% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 10.1% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 15.5% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.68 physicians/1,000 population (2020)<br>
@@ -210,14 +211,14 @@ _female_: 25.4% (2025 est.)<br>
 _women married by age 15_: 1.4% (2016)<br>
 _women married by age 18_: 6% (2016)<br>
 
-**Education expenditures**<br>
-1.7% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.4% of GDP (2020 est.)<br>
+_Education expenditure (% national budget)_: 9.9% national budget (2020 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 95.1%<br>
-_male_: 96.9%<br>
-_female_: 93.3% (2018)<br>
+_total population_: 93% (2018 est.)<br>
+_male_: 95% (2018 est.)<br>
+_female_: 90% (2018 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -247,9 +248,6 @@ _other_: 19.5% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 89.4% of total population (2023)<br>
 _rate of urbanization_: -1.23% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_widespread lack of access_: <em>due to the ongoing financial and economic crisis - </em>according to the latest analysis, about 1.46 million Lebanese residents (38% of the resident population) were subjected to severe food insecurity between January and April 2023 (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 24.23 micrograms per cubic meter (2019 est.)<br>
@@ -291,12 +289,6 @@ _etymology_: derived from the Phoenician or Hebrew word <em>be'erot</em>, meanin
 
 **Administrative divisions**<br>
 8 governorates (mohafazat, singular - mohafazah); Aakkar, Baalbek-Hermel, Beqaa (Bekaa), Beyrouth (Beirut), Liban-Nord (North Lebanon), Liban-Sud (South Lebanon), Mont-Liban (Mount Lebanon), Nabatiye<br>
-
-**Independence**<br>
-22 November 1943 (from League of Nations mandate under French administration)<br>
-
-**National holiday**<br>
-Independence Day, 22 November (1943)<br>
 
 **Legal system**<br>
 mixed system of civil law based on the French civil code, Ottoman legal tradition, and religious laws covering personal status, marriage, divorce, and other family relations of the Jewish, Islamic, and Christian communities<br>
@@ -345,9 +337,6 @@ _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized tr
 **Political parties**<br>
 <p>Al-Ahbash (Association of Islamic Charitable Projects) or AICP<br>Amal Movement ("Hope Movement")<br>Azm Movement<br>Ba’th Arab Socialist Party of Lebanon<br>Free Patriotic Movement or FPM<br>Future Movement Bloc or FM<br>Hizballah<br>Islamic Action Front or IAF<br>Kata'ib Party<br>Lebanese Democratic Party<br>Lebanese Forces or LF<br>Marada Movement<br>Progressive Socialist Party or PSP<br>Social Democrat Hunshaqian Party<br>Syrian Social Nationalist Party or SSNP<br>Tashnaq or Armenian Revolutionary Federation</p><br>
 
-**International organization participation**<br>
-ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Wa&euml;l HACHEM, Counselor (since 15 March 2021)<br>
 _chancery_: 2560 28th Street NW, Washington, DC 20008<br>
@@ -364,11 +353,23 @@ _telephone_: [961] (04) 543-600<br>
 _FAX_: [961] (4) 544-019<br>
 _email address and website_: <br>BeirutACS@state.gov<br><br>https://lb.usembassy.gov/<br>
 
+**International organization participation**<br>
+ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
+
+**Independence**<br>
+22 November 1943 (from League of Nations mandate under French administration)<br>
+
+**National holiday**<br>
+Independence Day, 22 November (1943)<br>
+
 **Flag description**<br>
 three horizontal bands consisting of red (top), white (middle, double-width), and red (bottom), with a green cedar tree centered in the white band; the red bands stand for blood shed for liberation, and the white for peace, the snow of the mountains, and purity; the green cedar tree is the national symbol and represents eternity, steadiness, happiness, and prosperity<br>
 
 **National symbol(s)**<br>
-cedar tree; national colors: red, white, green<br>
+cedar tree<br>
+
+**National colors**<br>
+red, white, green<br>
 
 **National anthem**<br>
 _name_: "Kulluna lil-watan" (All Of Us, For Our Country!)<br>

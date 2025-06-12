@@ -168,8 +168,9 @@ _unimproved: urban_: urban: 0.4% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0.1% of population (2020)<br>
 
-**Current health expenditure**<br>
-2.2% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 2.2% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 6.4% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.89 physicians/1,000 population (2021)<br>
@@ -203,11 +204,11 @@ _female_: 1.9% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 54.3% (2023 est.)<br>
 
-**Education expenditures**<br>
-4.4% of GDP (2016 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.4% of GDP (2016 est.)<br>
+_Education expenditure (% national budget)_: 11.4% national budget (2016 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 97.6%<br>
 _male_: 98.3%<br>
 _female_: 96.9% (2021)<br>
@@ -277,12 +278,6 @@ _etymology_: named in 1970 after Sultan Omar Ali SAIFUDDIEN III (1914-1986), who
 **Administrative divisions**<br>
 4 districts (daerah-daerah, singular - daerah); Belait, Brunei dan Muara, Temburong, Tutong<br>
 
-**Independence**<br>
-1 January 1984 (from the UK)<br>
-
-**National holiday**<br>
-National Day, 23 February (1984); note - 1 January 1984 was the date of independence from the UK, 23 February 1984 was the date of independence from British protection; the Sultan's birthday, 15 June<br>
-
 **Legal system**<br>
 mixed legal system based on English common law and Islamic law<br>
 <strong>note:</strong> in 2019, sharia penal codes came into force and apply to Muslims and partly to non-Muslims in parallel with common law codes<br>
@@ -332,9 +327,6 @@ _subordinate courts_: Intermediate Court; Magistrates' Courts; Juvenile Court; s
 National Development Party or NDP<br>
 <strong>note:</strong> the NDP is Brunei’s only registered party, but does not have representation in the Legislative Council, which is appointed<br>
 
-**International organization participation**<br>
-ADB, APEC, ARF, ASEAN, C, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, ISO (correspondent), ITSO, ITU, NAM, OIC, OPCW, UN, UNCTAD, UNESCO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Dato Paduka Haji SERBINI bin Haji Ali (since 28 January 2016)<br>
 _chancery_: 3520 International Court NW, Washington, DC 20008<br>
@@ -351,11 +343,23 @@ _telephone_: (673) 238-7400<br>
 _FAX_: (673) 238-7533<br>
 _email address and website_: <br>ConsularBrunei@state.gov<br><br>https://bn.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB, APEC, ARF, ASEAN, C, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, ISO (correspondent), ITSO, ITU, NAM, OIC, OPCW, UN, UNCTAD, UNESCO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+1 January 1984 (from the UK)<br>
+
+**National holiday**<br>
+National Day, 23 February (1984); note - 1 January 1984 was the date of independence from the UK, 23 February 1984 was the date of independence from British protection; the Sultan's birthday, 15 June<br>
+
 **Flag description**<br>
 yellow with two diagonal bands of white and black starting from the upper hoist side; the national emblem in red is at the center; yellow symbolizes the sultanate, and the white and black bands stand for the chief ministers; the emblem includes a swallow-tailed flag, a royal umbrella representing the monarchy, two wings with four feathers (justice, tranquility, prosperity, and peace), two upraised hands signifying the government's pledge to preserve and promote the welfare of the people, and the&nbsp; crescent moon of Islam (the state religion); the state motto "Always render service with God's guidance" appears in yellow Arabic script on the crescent; a ribbon below the crescent reads "Brunei, the Abode of Peace"<br>
 
 **National symbol(s)**<br>
-royal parasol; national colors: yellow, white, black<br>
+royal parasol<br>
+
+**National colors**<br>
+yellow, white, black<br>
 
 **National anthem**<br>
 _name_: "Allah Peliharakan Sultan" (God Bless His Majesty)<br>

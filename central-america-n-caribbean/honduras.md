@@ -176,8 +176,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 9.3% of population<br>
 _unimproved: total_: total: 3.9% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-9.2% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 9.2% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 14.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.49 physicians/1,000 population (2020)<br>
@@ -219,14 +220,14 @@ _women married by age 15_: 9.2% (2019)<br>
 _women married by age 18_: 34% (2019)<br>
 _men married by age 18_: 10% (2019)<br>
 
-**Education expenditures**<br>
-6.4% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 13.3% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 88.5%<br>
-_male_: 88.2%<br>
-_female_: 88.7% (2019)<br>
+_total population_: 89% (2019 est.)<br>
+_male_: 88% (2019 est.)<br>
+_female_: 89% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 10 years<br>
@@ -298,12 +299,6 @@ _etymology_: the name is a Nahuatl word meaning "silver mountain," probably refe
 **Administrative divisions**<br>
 18 departments (departamentos, singular - departamento); Atl&aacute;ntida, Choluteca, Colon, Comayagua, Copan, Cortes, El Paraiso, Francisco Moraz&aacute;n, Gracias a Dios, Intibuca, Islas de la Bahia, La Paz, Lempira, Ocotepeque, Olancho, Santa Barbara, Valle, Yoro<br>
 
-**Independence**<br>
-15 September 1821 (from Spain)<br>
-
-**National holiday**<br>
-Independence Day, 15 September (1821)<br>
-
 **Legal system**<br>
 civil law system<br>
 
@@ -352,9 +347,6 @@ _subordinate courts_: courts of appeal; courts of first instance; justices of th
 **Political parties**<br>
 Anti-Corruption Party or PAC<br>Christian Democratic Party or DC<br>Democratic Liberation of Honduras or Liderh<br>Democratic Unification Party or UD<br>The Front or El Frente<br>Honduran Patriotic Alliance or AP<br>Innovation and Unity Party or PINU<br>Liberal Party or PL<br>Liberty and Refoundation Party or LIBRE<br>National Party of Honduras or PNH<br>New Route or NR<br>Opposition Alliance against the Dictatorship or Alianza de Oposicion contra la Dictadura (electoral coalition)<br>Savior Party of Honduras or PSH<br>Vamos or Let’s Go<br>We Are All Honduras (Todos Somos Honduras) or TSH<br>
 
-**International organization participation**<br>
-ACS, BCIE, CACM, CD, CELAC, EITI (candidate country), FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC (suspended), IOM, IPU, ISO (subscriber), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINURSO, MINUSTAH, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNHRC, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO (suspended), WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Javier Efrain BU SOTO (since 12 December 2022)<br>
 _chancery_: 1220 19th Street NW, Suite #320, Washington, DC 20036<br>
@@ -371,12 +363,24 @@ _telephone_: [504] 2236-9320,<br>
 _FAX_: [504] 2236-9037<br>
 _email address and website_: <br>usahonduras@state.gov<br><br>https://hn.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACS, BCIE, CACM, CD, CELAC, EITI (candidate country), FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC (suspended), IOM, IPU, ISO (subscriber), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINURSO, MINUSTAH, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNHRC, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO (suspended), WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+15 September 1821 (from Spain)<br>
+
+**National holiday**<br>
+Independence Day, 15 September (1821)<br>
+
 **Flag description**<br>
 three equal horizontal bands of cerulean blue (top), white, and cerulean blue, with five cerulean five-pointed stars arranged in an X pattern and centered in the white band; the stars represent the members of the former Federal Republic of Central America: Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; the blue bands stand for the Pacific Ocean and the Caribbean Sea, and the white band for the land and the peace and prosperity of its people<br>
 <strong>note:</strong> similar to the flag of El Salvador, which features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL; also similar to the flag of Nicaragua, which features a triangle encircled by the words REPUBLICA DE NICARAGUA on top and AMERICA CENTRAL on the bottom<br>
 
 **National symbol(s)**<br>
-scarlet macaw, white-tailed deer; national colors: blue, white<br>
+scarlet macaw, white-tailed deer<br>
+
+**National colors**<br>
+blue, white<br>
 
 **National anthem**<br>
 _name_: "Himno Nacional de Honduras" (National Anthem of Honduras)<br>

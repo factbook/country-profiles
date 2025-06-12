@@ -162,8 +162,9 @@ NA<br>
 _improved: total_: total: 95.1% of population<br>
 _unimproved: total_: total: 4.9% of population (2017 est.)<br>
 
-**Current health expenditure**<br>
-5.4% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.4% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 8.6% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.66 physicians/1,000 population (2012)<br>
@@ -192,8 +193,9 @@ _other alcohols_: 0.23 liters of pure alcohol (2019 est.)<br>
 **Currently married women (ages 15-49)**<br>
 53.3% (2023 est.)<br>
 
-**Education expenditures**<br>
-5.7% of GDP (2018 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 6.5% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 12.6% national budget (2024 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -263,12 +265,6 @@ _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<
 **Administrative divisions**<br>
 6 parishes; Charlotte, Grenadines, Saint Andrew, Saint David, Saint George, Saint Patrick<br>
 
-**Independence**<br>
-27 October 1979 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 27 October (1979)<br>
-
 **Legal system**<br>
 English common law<br>
 
@@ -314,9 +310,6 @@ _subordinate courts_: magistrates' courts<br>
 **Political parties**<br>
 New Democratic Party or NDP<br>SVG Green Party or SVGP<br>Unity Labor Party or ULP (formed in 1994 by the coalition of Saint Vincent Labor Party or SVLP and the Movement for National Unity or MNU)<br>
 
-**International organization participation**<br>
-ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (subscriber), ITU, MIGA, NAM, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU (NGOs), WHO, WIPO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Lou-Anne Gaylene GILCHRIST (since 18 January 2017)<br>
 _chancery_: 1627 K Street, NW, Suite 704, Washington, DC 20006<br>
@@ -328,11 +321,23 @@ _consulate(s) general_: New York<br>
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Saint Vincent and the Grenadines; the US Ambassador to Barbados is accredited to Saint Vincent and the Grenadines<br>
 
+**International organization participation**<br>
+ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (subscriber), ITU, MIGA, NAM, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU (NGOs), WHO, WIPO, WTO<br>
+
+**Independence**<br>
+27 October 1979 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 27 October (1979)<br>
+
 **Flag description**<br>
 three vertical bands of blue (hoist side), gold (double-width), and green; the gold band has three green diamonds arranged in a V pattern that stands for "Vincent;" the diamonds represent the islands as "the Gems of the Antilles" and are set slightly lowered in the gold band to reflect the nation's position in the Antilles; blue stands for the tropical sky and sea, yellow for the sand, and green for vegetation<br>
 
 **National symbol(s)**<br>
-Saint Vincent parrot; national colors: blue, gold, green<br>
+Saint Vincent parrot<br>
+
+**National colors**<br>
+blue, gold, green<br>
 
 **National anthem**<br>
 _name_: "St. Vincent! Land So Beautiful!"<br>

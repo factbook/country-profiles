@@ -184,8 +184,9 @@ _unimproved: urban_: urban: 11.2% of population<br>
 _unimproved: rural_: rural: 65.3% of population<br>
 _unimproved: total_: total: 40.6% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-3.8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 3.8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 4% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.21 physicians/1,000 population (2022)<br>
@@ -224,14 +225,14 @@ _women married by age 15_: 8.4% (2018)<br>
 _women married by age 18_: 29.1% (2018)<br>
 _men married by age 18_: 5.6% (2018)<br>
 
-**Education expenditures**<br>
-2.7% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.8% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 18.4% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write French, Lingala, Kingwana, or Tshiluba<br>
-_total population_: 80%<br>
-_male_: 89.5%<br>
-_female_: 70.8% (2021)<br>
+_total population_: 73.6% (2018 est.)<br>
+_male_: 87.5% (2018 est.)<br>
+_female_: 61.6% (2018 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -261,9 +262,6 @@ _other_: 29.8% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 47.4% of total population (2023)<br>
 _rate of urbanization_: 4.33% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_widespread lack of access_: <em>due to internal conflict in eastern regions and high food prices - </em>according to an October 2022 analysis, 24.5 million people were projected to experience acute food insecurity between January and June 2023; this is due to the intensification of the conflict in the northeastern provinces, which, among other factors, has prevented completion of the harvests and likely will reduce food availability in the months to come (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 31.58 micrograms per cubic meter (2019 est.)<br>
@@ -318,12 +316,6 @@ _etymology_: founded as a trading post in 1881 and named Leopoldville in honor o
 
 **Administrative divisions**<br>
 26 provinces (provinces, singular - province); Bas-Uele (Lower Uele), Equateur, Haut-Katanga (Upper Katanga), Haut-Lomami (Upper Lomami), Haut-Uele (Upper Uele), Ituri, Kasai, Kasai-Central, Kasai-Oriental (East Kasai), Kinshasa, Kongo Central, Kwango, Kwilu, Lomami, Lualaba, Mai-Ndombe, Maniema, Mongala, Nord-Kivu (North Kivu), Nord-Ubangi (North Ubangi), Sankuru, Sud-Kivu (South Kivu), Sud-Ubangi (South Ubangi), Tanganyika, Tshopo, Tshuapa<br>
-
-**Independence**<br>
-30 June 1960 (from Belgium)<br>
-
-**National holiday**<br>
-Independence Day, 30 June (1960)<br>
 
 **Legal system**<br>
 civil law system primarily based on Belgian law, but also customary and tribal law<br>
@@ -383,9 +375,6 @@ _subordinate courts_: State Security Court; Court of Appeals (organized into adm
 **Political parties**<br>
 Christian Democrat Party or PDC <br>Congolese Rally for Democracy or RCD <br>Convention of Christian Democrats or CDC <br>Engagement for Citizenship and Development or ECIDE <br>Forces of Renewal or FR <br>Movement for the Liberation of the Congo or MLC <br>Nouvel Elan <br>Our Congo or CNB ("Congo Na Biso") <br>People's Party for Reconstruction and Democracy or PPRD <br>Social Movement for Renewal or MSR <br>Together for Change ("Ensemble") <br>Unified Lumumbist Party or PALU<br>Union for the Congolese Nation or UNC <br>Union for Democracy and Social Progress or UDPS<br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, CEMAC, CEPGL, COMESA, EAC, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC (observer), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Michael SHAKU YUMI (since 1 August 2024)<br>
 _chancery_: 1100 Connecticut Avenue NW, Suite 725, Washington DC 20036<br>
@@ -402,11 +391,23 @@ _telephone_: [243] 081 556-0151<br>
 _FAX_: [243] 81 556-0175<br>
 _email address and website_: <br>ACSKinshasa@state.gov<br><br>https://cd.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, CEMAC, CEPGL, COMESA, EAC, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC (observer), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+30 June 1960 (from Belgium)<br>
+
+**National holiday**<br>
+Independence Day, 30 June (1960)<br>
+
 **Flag description**<br>
 sky-blue field divided diagonally from the lower hoist corner to upper fly corner by a red stripe bordered by two narrow yellow stripes; a yellow five-pointed star appears in the upper hoist corner; blue stands for peace and hope, red for the blood of the country's martyrs, and yellow for the country's wealth and prosperity; the star symbolizes unity and the brilliant future for the country<br>
 
 **National symbol(s)**<br>
-leopard; national colors: sky blue, red, yellow<br>
+leopard<br>
+
+**National colors**<br>
+sky blue, red, yellow<br>
 
 **National anthem**<br>
 _name_: "Debout Congolaise" (Arise Congolese)<br>

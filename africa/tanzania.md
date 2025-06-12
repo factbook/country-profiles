@@ -183,8 +183,9 @@ _unimproved: urban_: urban: 4.9% of population<br>
 _unimproved: rural_: rural: 40.6% of population<br>
 _unimproved: total_: total: 28% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-3.4% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 3.4% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 5.1% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.13 physicians/1,000 population (2022)<br>
@@ -226,14 +227,14 @@ _women married by age 15_: 5.2% (2022)<br>
 _women married by age 18_: 29.1% (2022)<br>
 _men married by age 18_: 3.5% (2022)<br>
 
-**Education expenditures**<br>
-3.3% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.2% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 13.4% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write Kiswahili (Swahili), English, or Arabic<br>
-_total population_: 81.8%<br>
-_male_: 85.5%<br>
-_female_: 78.2% (2021)<br>
+_total population_: 78% (2015 est.)<br>
+_male_: 83% (2015 est.)<br>
+_female_: 73% (2015 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
@@ -263,9 +264,6 @@ _other_: 4.8% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 37.4% of total population (2023)<br>
 _rate of urbanization_: 4.89% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to localized shortfalls in staple food production - </em>according to the latest analysis, an estimated 990,000 million people were facing severe acute food insecurity between March and May 2023, 839,000 people in 28 mainland districts and 151,000 on Zanzibar Island; the food insecurity situation was mainly driven by a reduced crop production in 2022 due to dry weather conditions and by high food prices (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 15.36 micrograms per cubic meter (2019 est.)<br>
@@ -319,12 +317,6 @@ _etymology_: the name comes from the name of a nearby mountain; the origin of th
 **Administrative divisions**<br>
 31 regions; Arusha, Dar es Salaam, Dodoma, Geita, Iringa, Kagera, Kaskazini Pemba (Pemba North), Kaskazini Unguja (Zanzibar North), Katavi, Kigoma, Kilimanjaro, Kusini Pemba (Pemba South), Kusini Unguja (Zanzibar Central/South), Lindi, Manyara, Mara, Mbeya, Mjini Magharibi (Zanzibar Urban/West), Morogoro, Mtwara, Mwanza, Njombe, Pwani (Coast), Rukwa, Ruvuma, Shinyanga, Simiyu, Singida, Songwe, Tabora, Tanga<br>
 
-**Independence**<br>
-26 April 1964 (Tanganyika united with Zanzibar to form the United Republic of Tanganyika and Zanzibar); 29 October 1964 (renamed United Republic of Tanzania); notable earlier dates: 9 December 1961 (Tanganyika became independent from UK-administered UN trusteeship); 10 December 1963 (Zanzibar became independent from UK)<br>
-
-**National holiday**<br>
-Union Day (Tanganyika and Zanzibar), 26 April (1964)<br>
-
 **Legal system**<br>
 English common law; judicial review of legislative acts limited to matters of interpretation<br>
 
@@ -372,9 +364,6 @@ _subordinate courts_: Resident Magistrates Courts; Kadhi courts (for Islamic fam
 **Political parties**<br>
 Alliance for Change and Transparency (Wazalendo) or ACT-Wazalendo<br>Civic United Front (Chama Cha Wananchi) or CUF<br>Party of Democracy and Development (Chama Cha Demokrasia na Maendeleo) or CHADEMA<br>Revolutionary Party of Tanzania (Chama Cha Mapinduzi) or CCM<br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, C, CD, EAC, EADB, EITI, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Elsie Sia KANZA (since 1 December 2021)<br>
 _chancery_: 1232 22nd Street NW, Washington, DC 20037<br>
@@ -390,11 +379,23 @@ _telephone_: [255] (22) 229-4000<br>
 _FAX_: [255] (22) 229-4721<br>
 _email address and website_: <br>DRSACS@state.gov<br><br>https://tz.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, C, CD, EAC, EADB, EITI, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+26 April 1964 (Tanganyika united with Zanzibar to form the United Republic of Tanganyika and Zanzibar); 29 October 1964 (renamed United Republic of Tanzania); notable earlier dates: 9 December 1961 (Tanganyika became independent from UK-administered UN trusteeship); 10 December 1963 (Zanzibar became independent from UK)<br>
+
+**National holiday**<br>
+Union Day (Tanganyika and Zanzibar), 26 April (1964)<br>
+
 **Flag description**<br>
 divided diagonally by a yellow-edged black band from the lower hoist-side corner; the upper triangle (hoist side) is green, and the lower is blue; combines colors from the flags of Tanganyika and Zanzibar; green stands for natural vegetation, gold for rich mineral deposits, black for the Swahili people, and blue for lakes and rivers, as well as the Indian Ocean<br>
 
 **National symbol(s)**<br>
-Uhuru (Freedom) torch, giraffe; national colors: green, yellow, blue, black<br>
+Uhuru (freedom) torch, giraffe<br>
+
+**National colors**<br>
+green, yellow, blue, black<br>
 
 **National anthem**<br>
 _name_: "Mungu ibariki Afrika" (God Bless Africa)<br>
@@ -671,11 +672,11 @@ Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): 
 <strong>note 1:</strong> the Nation Building Army (aka National Services) is a paramilitary organization under the Defense Forces that provides six months of military and vocational training to individuals as part of their two years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the Reserves<br><br><strong>note 2:</strong> the Tanzania Police Force includes the Police Field Force (aka Field Force Unit), a special police division with the responsibility for controlling unlawful demonstrations and riots<br>
 
 **Military expenditures**<br>
+1.4% of GDP (2024 est.)<br>
 1.3% of GDP (2023 est.)<br>
 1.2% of GDP (2022 est.)<br>
 1.1% of GDP (2021 est.)<br>
 1.2% of GDP (2020 est.)<br>
-1.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active Defense Forces (2025)<br>

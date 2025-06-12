@@ -182,8 +182,9 @@ _unimproved: urban_: urban: 0.7% of population<br>
 _unimproved: rural_: rural: 19.4% of population<br>
 _unimproved: total_: total: 14.9% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-7.5% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 7.5% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.21 physicians/1,000 population (2019)<br>
@@ -225,14 +226,14 @@ _women married by age 15_: 1.9% (2022)<br>
 _women married by age 18_: 17.9% (2022)<br>
 _men married by age 18_: 3.3% (2022)<br>
 
-**Education expenditures**<br>
-3.1% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 11.5% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 83.9%<br>
-_male_: 88.4%<br>
-_female_: 79.8% (2021)<br>
+_total population_: 71.9% (2021 est.)<br>
+_male_: 81.5% (2021 est.)<br>
+_female_: 63.6% (2021 est.)<br>
 
 ## Environment
 
@@ -305,12 +306,6 @@ _etymology_: the name means "mountain of plenty," from the Cambodian words <em>p
 **Administrative divisions**<br>
 <p>24 provinces (khett, singular and plural) and 1 municipality (krong, singular and plural)</p> <p><strong>provinces:</strong> Banteay Meanchey, Battambang, Kampong Cham, Kampong Chhnang, Kampong Speu, Kampong Thom, Kampot, Kandal, Kep, Koh Kong, Kratie, Mondolkiri, Oddar Meanchey, Pailin, Preah Sihanouk, Preah Vihear, Prey Veng, Pursat, Ratanakiri, Siem Reap, Stung Treng, Svay Rieng, Takeo, Tbong Khmum</p> <p><strong>municipalities:</strong> Phnom Penh (Phnum Penh)</p><br>
 
-**Independence**<br>
-9 November 1953 (from France)<br>
-
-**National holiday**<br>
-Independence Day, 9 November (1953)<br>
-
 **Legal system**<br>
 civil law system (influenced by the UN Transitional Authority in Cambodia), customary law, Communist legal theory, and common law<br>
 
@@ -372,9 +367,6 @@ _subordinate courts_: Appellate Court; provincial and municipal courts; Military
 Candlelight Party or CP<br>Cambodian People's Party or CPP <br>Khmer Will Party or KWP<br>
 <strong>note 1: </strong>18 parties registered to run in the 2023 parliamentary election<br><br><strong>note 2:</strong>  the Cambodian Government disqualified the Candlelight Party, the main opposition party, from the July 2023 election<br>
 
-**International organization participation**<br>
-ADB, ARF, ASEAN, CICA, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Socheat OUM&nbsp;(since 20 September 2024)<br>
 _chancery_: 4530 16th Street NW, Washington, DC 20011<br>
@@ -390,12 +382,24 @@ _telephone_: [855] (23) 728-000<br>
 _FAX_: [855] (23) 728-700<br>
 _email address and website_: <br>ACSPhnomPenh@state.gov<br><br>https://kh.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB, ARF, ASEAN, CICA, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+9 November 1953 (from France)<br>
+
+**National holiday**<br>
+Independence Day, 9 November (1953)<br>
+
 **Flag description**<br>
 three horizontal bands of blue (top), red (double-width), and blue, with a white, three-towered temple representing Angkor Wat outlined in black in the center of the red band; red and blue are traditional Cambodian colors<br>
 <strong>note:</strong> only national flag to prominently incorporate an identifiable building into its design; Afghanistan, San Marino, Portugal, and Spain show small generic buildings as part of their coats of arms on the flag<br>
 
 **National symbol(s)**<br>
-Angkor Wat temple, kouprey (wild ox); national colors: red, blue<br>
+Angkor Wat temple, kouprey (wild ox)<br>
+
+**National colors**<br>
+red, blue<br>
 
 **National anthem**<br>
 _name_: "Nokoreach" (Royal Kingdom)<br>

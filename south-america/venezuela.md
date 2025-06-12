@@ -178,8 +178,9 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 5.8% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-4% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 4% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 6% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.66 physicians/1,000 population (2017)<br>
@@ -208,14 +209,14 @@ _other alcohols_: 0.03 liters of pure alcohol (2019 est.)<br>
 **Currently married women (ages 15-49)**<br>
 51.5% (2023 est.)<br>
 
-**Education expenditures**<br>
-1.3% of GDP (2017 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 1.3% of GDP (2017 est.)<br>
+_Education expenditure (% national budget)_: 0% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 97.5%<br>
-_male_: 97.4%<br>
-_female_: 97.7% (2021)<br>
+_total population_: 97% (2016 est.)<br>
+_male_: 97% (2016 est.)<br>
+_female_: 97% (2016 est.)<br>
 
 ## Environment
 
@@ -240,9 +241,6 @@ _other_: 23.3% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 88.4% of total population (2023)<br>
 _rate of urbanization_: 1.16% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_widespread lack of access_: <em>due to severe economic crisis -</em>despite a resumption of economic growth since 2021, outflows of refugees and migrants have continued in the first five months of 2023; the number of Venezuelan refugees and migrants (in-destination) in need of food assistance is projected at 3.62 million in 2023 (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 16.21 micrograms per cubic meter (2019 est.)<br>
@@ -292,19 +290,12 @@ _etymology_: named for the Caracas tribe that originally settled in the area; th
 23 states (estados, singular - estado), 1 capital district* (distrito capital), and 1 federal dependency** (dependencia federal); Amazonas, Anzoátegui, Apure, Aragua, Barinas, Bolivar, Carabobo, Cojedes, Delta Amacuro, Dependencias Federales (Federal Dependencies)**, Distrito Capital (Capital District)*, Falcon, Guárico, La Guairá, Lara, Merida, Miranda, Monagas, Nueva Esparta, Portuguesa, Sucre, Táchira, Trujillo, Yaracuy, Zulia<br>
 <strong>note:</strong> the federal dependency consists of 11 federally controlled island groups with a total of 72 individual islands<br>
 
-**Independence**<br>
-5 July 1811 (from Spain)<br>
-
-**National holiday**<br>
-Independence Day, 5 July (1811)<br>
-
 **Legal system**<br>
 civil law system based on the Spanish civil code<br>
 
 **Constitution**<br>
 _history_: many previous; latest adopted 15 December 1999, effective 30 December 1999<br>
 _amendment process_: proposed through agreement by at least 39% of the National Assembly membership, by the president of the republic in session with the cabinet of ministers, or by petition of at least 15% of registered voters; passage requires simple majority vote by the Assembly and simple majority approval in a referendum<br>
-<strong>note:</strong> in 2016, President MADURO issued a decree to hold an election to form a constituent assembly to change the constitution; the election in July 2017 approved the formation of a 545-member constituent assembly and elected its delegates, empowering them to change the constitution and dismiss government institutions and officials<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -346,9 +337,6 @@ _subordinate courts_: Superior or Appeals Courts (Tribunales Superiores); Distri
 **Political parties**<br>
 <p>A New Era (Un Nuevo Tiempo) or UNT<br>Cambiemos Movimiento Ciudadano or CMC<br>Christian Democrats or COPEI (also known as the Social Christian Party)<br>Citizens Encounter or EC<br>Clear Accounts or CC<br>Coalition of parties loyal to Nicolas MADURO - Great Patriotic Pole or GPP<br>Coalition of opposition parties - Democratic Alliance (Alianza Democratica) (includes AD, EL CAMBIO, COPEI, CMC, and AP)<br>Come Venezuela (Vente Venezuela) or VV<br>Communist Party of Venezuela or PCV<br>Consenso en la Zona or Conenzo<br>Convergencia<br>Democratic Action or AD<br>Fatherland for All (Patria para Todos) or PPT<br>Fearless People's Alliance or ABP<br>Fuerza Vecinal or FV<br>Hope for Change (Esperanza por el Cambio) or EL CAMBIO<br>Justice First (Primero Justicia) or PJ<br>LAPIZ<br>Movement to Socialism (Movimiento al Socialismo) or MAS<br>Popular Will (Voluntad Popular) or VP<br>Progressive Advance (Avanzada Progresista) or AP<br>The Radical Cause or La Causa R<br>United Socialist Party of Venezuela or PSUV<br>Venezuela First (Primero Venezuela) or PV<br>Venezuelan Progressive Movement or MPV<br>Venezuela Project or PV</p><br>
 
-**International organization participation**<br>
-ACS, Caricom (observer), CD, CDB, CELAC, FAO, G-15, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LAES, LAIA, LAS (observer), MIGA, NAM, OAS, OPANAL, OPCW, OPEC, PCA, Petrocaribe, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 none<br><br><strong>Note</strong>:  the embassy, which had been run by the Venezuelan political opposition, announced on 5 January 2023, that it had ended all embassy functions<br>
 
@@ -359,11 +347,23 @@ _mailing address_: 3140 Caracas Place, Washington DC&nbsp; 20521-3140<br>
 _telephone_: 1-888-407-4747<br>  <br>
 _email address and website_: <br>ACSBogota@state.gov<br><br>https://ve.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACS, Caricom (observer), CD, CDB, CELAC, FAO, G-15, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LAES, LAIA, LAS (observer), MIGA, NAM, OAS, OPANAL, OPCW, OPEC, PCA, Petrocaribe, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+5 July 1811 (from Spain)<br>
+
+**National holiday**<br>
+Independence Day, 5 July (1811)<br>
+
 **Flag description**<br>
 three equal horizontal bands of yellow (top), blue, and red, with the coat of arms on the hoist side of the yellow band and an arc of eight white five-pointed stars centered in the blue band; the flag retains the three equal horizontal bands and three main colors from the flag of Gran Colombia, the South American republic that broke up in 1830; yellow stands for the riches of the land, blue for the courage of its people, and red for the blood shed in attaining independence; in 2006, President Hugo CHAVEZ added the eighth star -- the original seven stars represented the country's provinces that united in the war of independence -- to match Simon Bolivar's flag from 1827 and to represent the historic province of Guayana<br>
 
 **National symbol(s)**<br>
-troupial (bird); national colors: yellow, blue, red<br>
+troupial (bird)<br>
+
+**National colors**<br>
+yellow, blue, red<br>
 
 **National anthem**<br>
 _name_: "Gloria al bravo pueblo" (Glory to the Brave People)<br>

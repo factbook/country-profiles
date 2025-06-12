@@ -170,8 +170,9 @@ _unimproved: urban_: urban: 0.2% of population<br>
 _unimproved: rural_: rural: 0.4% of population<br>
 _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-6.3% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 6.3% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 8.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.01 physicians/1,000 population (2021)<br>
@@ -210,14 +211,14 @@ _women married by age 15_: 0.4% (2019)<br>
 _women married by age 18_: 10.1% (2019)<br>
 _men married by age 18_: 2.8% (2019)<br>
 
-**Education expenditures**<br>
-6.6% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.3% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 9.3% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: can read and write Tongan and/or English<br>
-_total population_: 99.4%<br>
-_male_: 99.4%<br>
-_female_: 99.5% (2021)<br>
+_total population_: 91.1% (2019 est.)<br>
+_male_: 83.8% (2019 est.)<br>
+_female_: 97.6% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
@@ -282,12 +283,6 @@ _etymology_: name is said to be composed of the local words <em>nuku</em>, meani
 **Administrative divisions**<br>
 5 island divisions; 'Eua, Ha'apai, Ongo Niua, Tongatapu, Vava'u<br>
 
-**Independence**<br>
-4 June 1970 (from UK protectorate status)<br>
-
-**National holiday**<br>
-Official Birthday of King TUPOU VI, 4 July (1959); note - actual birthday of the monarch is 12 July 1959, 4 July (2015) is the day the king was crowned; Constitution Day (National Day), 4 November (1875)<br>
-
 **Legal system**<br>
 English common law<br>
 
@@ -335,9 +330,6 @@ _subordinate courts_: Supreme Court; Magistrates' Courts; Land Courts<br>
 **Political parties**<br>
 Democratic Party of the Friendly Islands or DPFI or PTOA <br>Tonga People's Party (Paati ʻa e Kakai ʻo Tonga) or PAK or TPPI<br>
 
-**International organization participation**<br>
-ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, IMF, IMO, IMSO, Interpol, IOC, IPU, ITU, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Viliana Va&rsquo;inga TONE (since 20 April 2021)<br>
 _chancery_: 250 East 51st Street, New York, NY 10022<br>
@@ -350,11 +342,23 @@ _consulate(s) general_: San Francisco<br>
 _chief of mission_: Ambassador Marie DAMOUR (since 6 December 2022); note - Ambassador DAMOUR is based in the US Embassy in the Republic of Fiji and is accredited to Tonga as well as Kiribati, Nauru, and Tuvalu<br>
 _embassy_: although the US opened an embassy in Tonga on 9 May 2023, the US Ambassador to Fiji is accredited to Tonga while the Embassy is being staffed<br>
 
+**International organization participation**<br>
+ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, IMF, IMO, IMSO, Interpol, IOC, IPU, ITU, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+4 June 1970 (from UK protectorate status)<br>
+
+**National holiday**<br>
+Official Birthday of King TUPOU VI, 4 July (1959); note - actual birthday of the monarch is 12 July 1959, 4 July (2015) is the day the king was crowned; Constitution Day (National Day), 4 November (1875)<br>
+
 **Flag description**<br>
 red with a red cross on a white rectangle in the upper hoist-side corner; the cross stands for Christianity in Tonga, red for Christ's blood and sacrifice, and white for purity<br>
 
 **National symbol(s)**<br>
-red cross on white field, arms equal length; national colors: red, white<br>
+red cross on white field<br>
+
+**National colors**<br>
+red, white<br>
 
 **National anthem**<br>
 _name_: "Ko e fasi `o e tu"i `o e `Otu Tonga" (Song of the King of the Tonga Islands)<br>
@@ -594,11 +598,11 @@ _key ports_: Neiafu, Nuku Alofa, Pangai<br>
 His Majesty's Armed Forces Tonga (HMAF; aka Tonga Defense Services): Tonga Royal Guard, Tonga Land Force (Royal Tongan Marines), Tonga Navy, Air Wing <br><br>Ministry of Police and Fire Services: Tonga Police Force (2025)<br>
 
 **Military expenditures**<br>
+1.8% of GDP (2024 est.)<br>
 1.6% of GDP (2023 est.)<br>
 1.6% of GDP (2022 est.)<br>
 1.5% of GDP (2021 est.)<br>
 2.1% of GDP (2020 est.)<br>
-2.4% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 600 active Armed Forces (2025)<br>

@@ -181,8 +181,9 @@ _unimproved: urban_: urban: 18.7% of population<br>
 _unimproved: rural_: rural: 63.5% of population<br>
 _unimproved: total_: total: 33.5% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-3% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 3% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 6.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.24 physicians/1,000 population (2022)<br>
@@ -219,14 +220,14 @@ _women married by age 15_: 7.9% (2016)<br>
 _women married by age 18_: 30.3% (2016)<br>
 _men married by age 18_: 6% (2016)<br>
 
-**Education expenditures**<br>
-2.4% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.5% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 6.5% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 71.1%<br>
-_male_: 82.6%<br>
-_female_: 62.4% (2015)<br>
+_total population_: 66.2% (2015 est.)<br>
+_male_: 83.8% (2015 est.)<br>
+_female_: 51.9% (2015 est.)<br>
 
 ## Environment
 
@@ -300,12 +301,6 @@ _etymology_: the Portuguese named the city S&atilde;o Paulo da Assun&ccedil;&ati
 **Administrative divisions**<br>
 18 provinces (provincias, singular - provincia); Bengo, Benguela, Bie, Cabinda, Cuando Cubango, Cuanza-Norte, Cuanza-Sul, Cunene, Huambo, Huila, Luanda, Lunda-Norte, Lunda-Sul, Malanje, Moxico, Namibe, Uige, Zaire<br>
 
-**Independence**<br>
-11 November 1975 (from Portugal)<br>
-
-**National holiday**<br>
-Independence Day, 11 November (1975)<br>
-
 **Legal system**<br>
 civil legal system based on Portuguese civil law; no judicial review of legislation<br>
 
@@ -352,9 +347,6 @@ _subordinate courts_: provincial and municipal courts<br>
 **Political parties**<br>
 Broad Convergence for the Salvation of Angola Electoral Coalition or CASA-CE <br>Humanist Party of Angola or PHI <br>National Front for the Liberation of Angola or FNLA; note - party has two factions<br>National Union for the Total Independence of Angola or UNITA (largest opposition party)<br>Popular Movement for the Liberation of Angola or MPLA; note- ruling party in power since 1975<br>Social Renewal Party or PRS <br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, CEMAC, CPLP, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Agostinho de Carvalho dos Santos VAN-D&Uacute;NEM (since 30 June 2023)<br>
 _chancery_: 2108 16th Street NW, Washington, DC 20009<br>
@@ -371,11 +363,23 @@ _telephone_: [244] (222) 64-1000<br>
 _FAX_: [244] (222) 64-1000<br>
 _email address and website_: <br>Consularluanda@state.gov<br><br>https://ao.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, CEMAC, CPLP, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+11 November 1975 (from Portugal)<br>
+
+**National holiday**<br>
+Independence Day, 11 November (1975)<br>
+
 **Flag description**<br>
 two equal horizontal bands of red (top) and black with a centered yellow emblem consisting of a five-pointed star within half a cogwheel crossed by a machete (in the style of a hammer and sickle); red represents liberty and black the African continent; the symbols characterize workers and peasants<br>
 
 **National symbol(s)**<br>
-Palanca Negra Gigante (giant black sable antelope); national colors: red, black, yellow<br>
+giant black sable antelope (<em>Palanca negra gigante</em>)<br>
+
+**National colors**<br>
+red, black, yellow<br>
 
 **National anthem**<br>
 _name_: "Angola Avante" (Forward Angola)<br>

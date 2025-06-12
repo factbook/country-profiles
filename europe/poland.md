@@ -181,8 +181,9 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-6.7% of GDP (2022)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 6.7% of GDP (2022)<br>
+_Health expenditure (as % of national budget)_: 10.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 4.03 physicians/1,000 population (2023)<br>
@@ -216,11 +217,11 @@ _female_: 17.8% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 56.6% (2023 est.)<br>
 
-**Education expenditures**<br>
-5.2% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.6% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 10.5% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 99.8%<br>
 _male_: 99.8%<br>
 _female_: 99.8% (2021)<br>
@@ -308,12 +309,6 @@ _etymology_: the origin of the name is unknown; Warszawa was the name of a fishi
 **Administrative divisions**<br>
 16 voivodships [provinces] (wojewodztwa, singular - wojewodztwo); Dolnoslaskie (Lower Silesia), Kujawsko-Pomorskie (Kuyavia-Pomerania), Lodzkie (Lodz), Lubelskie (Lublin), Lubuskie (Lubusz), Malopolskie (Lesser Poland), Mazowieckie (Masovia), Opolskie (Opole), Podkarpackie (Subcarpathia), Podlaskie, Pomorskie (Pomerania), Slaskie (Silesia), Swietokrzyskie (Holy Cross), Warminsko-Mazurskie (Warmia-Masuria), Wielkopolskie (Greater Poland), Zachodniopomorskie (West Pomerania)<br>
 
-**Independence**<br>
-11 November 1918 (republic proclaimed); notable earlier dates: 14 April 966 (adoption of Christianity, traditional founding date), 1 July 1569 (Polish-Lithuanian Commonwealth created)<br>
-
-**National holiday**<br>
-Constitution Day, 3 May (1791)<br>
-
 **Legal system**<br>
 civil law system; judicial review of legislative, administrative, and other governmental acts; constitutional law rulings of the Constitutional Tribunal are final<br>
 
@@ -374,9 +369,6 @@ _subordinate courts_: administrative courts; military courts; local, regional an
 **Political parties**<br>
 AGROunion or AU<br>Center for Poland or CdP<br>Civic Platform or PO<br>Confederation of the Polish Crown or KKP<br>Kukiz' 15 or K'15<br>Labor Union or UP<br>Law and Justice or PiS<br>Left Together or LR<br>Modern or .N<br>National Movement or NN<br>New Hope or RN<br>New Left or NL<br>Poland 2050 or PL2050<br>Polish Initiative or iPL<br>Polish People's Party or PSL<br>Polish Socialist Party or PPS<br>Renewal of the Republic of Poland or ON RP<br>Sovereign Poland or SP<br>The Greens or Zieloni<br>Union of European Democrats or UED<br>Yes! For Poland or T!DPL<br>
 
-**International organization participation**<br>
-Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMIL, UNMISS, UNOCI, UNOOSA, UN Security Council (temporary), UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Bogdan Adam KLICH (since 21 November 2024)<br>
 _chancery_: 2640 16th Street NW, Washington, DC 20009<br>
@@ -394,12 +386,24 @@ _FAX_: [48] (22) 504-2088<br>
 _email address and website_: <br>acswarsaw@state.gov<br><br>https://pl.usembassy.gov/<br>
 _consulate(s) general_: Krakow<br>
 
+**International organization participation**<br>
+Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMIL, UNMISS, UNOCI, UNOOSA, UN Security Council (temporary), UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+11 November 1918 (republic proclaimed); notable earlier dates: 14 April 966 (adoption of Christianity, traditional founding date), 1 July 1569 (Polish-Lithuanian Commonwealth created)<br>
+
+**National holiday**<br>
+Constitution Day, 3 May (1791)<br>
+
 **Flag description**<br>
 two equal horizontal bands of white (top) and red; colors derive from the Polish emblem, a white eagle on a red field<br>
 <strong>note:</strong> similar to the flags of Indonesia and Monaco, which are red (top) and white<br>
 
 **National symbol(s)**<br>
-white crowned eagle; national colors: white, red<br>
+white crowned eagle<br>
+
+**National colors**<br>
+white, red<br>
 
 **National anthem**<br>
 _name_: "Mazurek Dabrowskiego" (Dabrowski's Mazurka)<br>
@@ -413,7 +417,7 @@ _selected World Heritage Site locales_: Historic Krakow (c); Historic Warsaw (c)
 ## Economy
 
 **Economic overview**<br>
-high-income, diversified, EU-member economy; significant growth in GDP, trade, and investment since joining EU in 2004; rebounding from slowdown triggered by inflation and fall in consumer demand; strong foreign investment supported by EU structural funds; income tax reform and defense spending have added to public debt<br>
+<p>high-income, diversified, EU-member economy; significant growth in GDP, trade, and investment since joining EU in 2004; private consumption and EU-funded public investments driving GDP growth; increased social spending, flooding recovery costs, and defense spending have added to public debt</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.628 trillion (2023 est.)<br>

@@ -179,8 +179,9 @@ _unimproved: urban_: urban: 2.1% of population<br>
 _unimproved: rural_: rural: 33.1% of population<br>
 _unimproved: total_: total: 23.1% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-2.8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 2.8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 5.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.14 physicians/1,000 population (2023)<br>
@@ -219,14 +220,14 @@ _women married by age 15_: 5.4% (2019)<br>
 _women married by age 18_: 33.7% (2019)<br>
 _men married by age 18_: 1.9% (2019)<br>
 
-**Education expenditures**<br>
-3.9% of GDP (2018 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 0.4% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 17.9% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_definition_: any person age 15 and above who completed at least grade 3 of primary education<br>
-_total population_: 89.7%<br>
-_male_: 88.3%<br>
-_female_: 90.9% (2021)<br>
+_total population_: 93.2% (2019 est.)<br>
+_male_: 93.1% (2019 est.)<br>
+_female_: 93.4% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -256,9 +257,6 @@ _other_: 15.7% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 32.5% of total population (2023)<br>
 _rate of urbanization_: 2.41% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_widespread lack of access_: <em><em>due to high food prices</em></em><em> </em><em>-</em> based on a government assessment, an estimated 3.8 million people are expected to be in need of humanitarian assistance between January and March 2023; this number is higher than the level estimated in the first quarter of 2022; the downturn in food security conditions is largely on account of poor food access resulting from prevailing high food prices and reduced incomes owing to the effects of an economic downturn; a decline in cereal production in 2022 has also aggravated conditions (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 13.08 micrograms per cubic meter (2019 est.)<br>
@@ -306,12 +304,6 @@ _etymology_: named after a village of Harare at the site of the present capital;
 
 **Administrative divisions**<br>
 8 provinces and 2 cities* with provincial status; Bulawayo*, Harare*, Manicaland, Mashonaland Central, Mashonaland East, Mashonaland West, Masvingo, Matabeleland North, Matabeleland South, Midlands<br>
-
-**Independence**<br>
-18 April 1980 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 18 April (1980)<br>
 
 **Legal system**<br>
 mixed system of English common law, Roman-Dutch civil law, and customary law<br>
@@ -375,9 +367,6 @@ _subordinate courts_: High Court; Labor Court; Administrative Court; regional ma
 **Political parties**<br>
 Citizens Coalition for Change <br>Movement for Democratic Change or MDC-T <br>National People's Congress or NPC <br>Zimbabwe African National Union-Patriotic Front or ZANU-PF <br>Zimbabwe African Peoples Union or ZAPU<br>
 
-**International organization participation**<br>
-ACP, AfDB, ATMIS, AU, COMESA, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Sarah BHOROMA (since 12 November 2024)<br>
 _chancery_: 1608 New Hampshire Avenue NW, Washington, DC 20009<br>
@@ -393,11 +382,23 @@ _telephone_: [263] 867-701-1000<br>
 _FAX_: [263] 24-233-4320<br>
 _email address and website_: <br>consularharare@state.gov<br><br>https://zw.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, ATMIS, AU, COMESA, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+18 April 1980 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 18 April (1980)<br>
+
 **Flag description**<br>
 seven equal horizontal bands of green (top), yellow, red, black, red, yellow, and green, with a white isosceles triangle edged in black with its base on the hoist side; a yellow bird representing the long history of the country is on top of a five-pointed red star in the center of the triangle, which symbolizes peace; green stands for agriculture, yellow for mineral wealth, red for the blood shed to achieve independence, and black for the people<br>
 
 **National symbol(s)**<br>
-Zimbabwe bird symbol, African fish eagle, flame lily; national colors: green, yellow, red, black, white<br>
+Zimbabwe bird symbol, African fish eagle, flame lily<br>
+
+**National colors**<br>
+green, yellow, red, black, white<br>
 
 **National anthem**<br>
 _name_: "Kalibusiswe Ilizwe leZimbabwe" [Northern Ndebele language] "Simudzai Mureza WeZimbabwe" [Shona] (Blessed Be the Land of Zimbabwe)<br>
@@ -649,11 +650,11 @@ _narrow gauge_: 3,427 km (2014) 1.067-m gauge (313 km electrified)<br>
 Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ)<br><br>Ministry of Home Affairs: Zimbabwe Republic Police (2025)<br>
 
 **Military expenditures**<br>
+0.4% of GDP (2024 est.)<br>
 0.3% of GDP (2023 est.)<br>
-0.5% of GDP (2022 est.)<br>
-0.8% of GDP (2021 est.)<br>
-0.5% of GDP (2020 est.)<br>
-2.6% of GDP (2019 est.)<br>
+0.9% of GDP (2022 est.)<br>
+1.4% of GDP (2021 est.)<br>
+1% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 30,000 active Zimbabwe Defense Forces (2025)<br>

@@ -181,8 +181,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-12.1% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 12.1% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 16.3% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 5.52 physicians/1,000 population (2023)<br>
@@ -216,8 +217,9 @@ _female_: 18.3% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 58.7% (2023 est.)<br>
 
-**Education expenditures**<br>
-5.1% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.8% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 9% national budget (2022 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -306,12 +308,6 @@ _etymology_: the name may have evolved from the Roman name Vindobona, which was 
 **Administrative divisions**<br>
 9 states (Bundeslaender, singular - Bundesland); Burgenland, Kaernten (Carinthia), Niederoesterreich (Lower Austria), Oberoesterreich (Upper Austria), Salzburg, Steiermark (Styria), Tirol (Tyrol), Vorarlberg, Wien (Vienna)<br>
 
-**Independence**<br>
-no official date of independence: 976 (Margravate of Austria established); 17 September 1156 (Duchy of Austria founded); 6 January 1453 (Archduchy of Austria acknowledged); 11 August 1804 (Austrian Empire proclaimed); 30 March 1867 (Austro-Hungarian dual monarchy established); 12 November 1918 (First Republic proclaimed); 27 April 1945 (Second Republic proclaimed)<br>
-
-**National holiday**<br>
-National Day (commemorates passage of the law on permanent neutrality), 26 October (1955)<br>
-
 **Legal system**<br>
 civil law system; Constitutional Court reviews legislative acts<br>
 
@@ -366,9 +362,6 @@ _subordinate courts_: Courts of Appeal (4); Regional Courts (20); district court
 **Political parties**<br>
 Austrian People's Party or OeVP <br>Freedom Party of Austria or FPOe <br>The Greens - The Green Alternative <br>NEOS - The New Austria and Liberal Forum <br>Social Democratic Party of Austria or SPOe <br>
 
-**International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Petra SCHNEEBAUER (since 19 APRIL 2023)<br>
 _chancery_: 3524 International Court NW, Washington, DC 20008-3035<br>
@@ -386,11 +379,23 @@ _telephone_: [43] (1) 31339 0<br>
 _FAX_: [43] (1) 31339 2017<br>
 _email address and website_: <br>ConsulateVienna@state.gov<br><br>https://at.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+no official date of independence: 976 (Margravate of Austria established); 17 September 1156 (Duchy of Austria founded); 6 January 1453 (Archduchy of Austria acknowledged); 11 August 1804 (Austrian Empire proclaimed); 30 March 1867 (Austro-Hungarian dual monarchy established); 12 November 1918 (First Republic proclaimed); 27 April 1945 (Second Republic proclaimed)<br>
+
+**National holiday**<br>
+National Day (commemorates passage of the law on permanent neutrality), 26 October (1955)<br>
+
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and red; the flag design is one of the oldest national banners in the world; according to tradition, after a fierce battle in the Third Crusade in 1191, Duke Leopold V of Austria's white tunic became blood-spattered; upon removal of his sash, a white band was revealed, and the red-white-red color combination was adopted as his banner<br>
 
 **National symbol(s)**<br>
-eagle, edelweiss, Alpine gentian; national colors: red, white<br>
+eagle, edelweiss, Alpine gentian<br>
+
+**National colors**<br>
+red, white<br>
 
 **National anthem**<br>
 _name_: "Bundeshymne" (Federal Hymn)<br>

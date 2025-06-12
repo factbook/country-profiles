@@ -182,8 +182,9 @@ _unimproved: urban_: urban: 1.1% of population<br>
 _unimproved: rural_: rural: 16.8% of population<br>
 _unimproved: total_: total: 8.6% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-9.4% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 9.4% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 11.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.55 physicians/1,000 population (2022)<br>
@@ -214,11 +215,11 @@ _female_: 3.9% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 33.3% (2023 est.)<br>
 
-**Education expenditures**<br>
-9.6% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 9.4% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 24.7% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 92.3%<br>
 _male_: 90.6%<br>
 _female_: 92.3% (2021)<br>
@@ -246,9 +247,6 @@ _other_: 45% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 54.9% of total population (2023)<br>
 _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em><em>due to localized shortfalls in cereal production and </em></em><em>rising food prices </em><em>- </em>an estimated 390,000 people faced acute food insecurity in the January to March 2023 period, lower than the figure in the corresponding period of 2022; high food prices and localized weather induced shortfalls in cereal production in 2022 were the key drivers (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 11.81 micrograms per cubic meter (2019 est.)<br>
@@ -298,12 +296,6 @@ _etymology_: the name is an Afrikaans word meaning "windy corner;" a local Khoik
 
 **Administrative divisions**<br>
 14 regions; Erongo, Hardap, //Karas, Kavango East, Kavango West, Khomas, Kunene, Ohangwena, Omaheke, Omusati, Oshana, Oshikoto, Otjozondjupa, Zambezi; note - the Karas Region was renamed //Karas in September 2013 to include the alveolar lateral click of the Khoekhoegowab language<br>
-
-**Independence**<br>
-21 March 1990 (from South African mandate)<br>
-
-**National holiday**<br>
-Independence Day, 21 March (1990)<br>
 
 **Legal system**<br>
 mixed system of uncodified civil law based on Roman-Dutch law and customary law<br>
@@ -365,9 +357,6 @@ _subordinate courts_: High Court; Electoral Court, Labor Court; regional and dis
 **Political parties**<br>
 All People's Party or APP <br>Christian Democratic Voice or CDV <br>Landless People's Movement or LPM <br>National Unity Democratic Organization or NUDO <br>Namibian Economic Freedom Fighters or NEFF <br>Popular Democratic Movement or PDM (formerly Democratic Turnhalle Alliance or DTA) <br>Rally for Democracy and Progress or RDP <br>Republican Party or RP<br>South West Africa National Union or SWANU <br>South West Africa People's Organization or SWAPO <br>United Democratic Front or UDF <br>United People's Movement or UPM<br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, C, CD, CPLP (associate observer), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Margareth Natalie MENSAH-WILLIAMS (since 18 January 2021)<br>
 _chancery_: 1605 New Hampshire Avenue NW, Washington, DC 20009<br>
@@ -383,11 +372,23 @@ _telephone_: [264] (61) 202-5000<br>
 _FAX_: [264] (61) 202-5219<br>
 _email address and website_: <br>ConsularWindhoek@state.gov<br><br>https://na.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, C, CD, CPLP (associate observer), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+21 March 1990 (from South African mandate)<br>
+
+**National holiday**<br>
+Independence Day, 21 March (1990)<br>
+
 **Flag description**<br>
 a wide red stripe edged with narrow white stripes divides the flag diagonally from lower hoist corner to upper fly corner; the upper triangle is blue and has a golden-yellow, 12-rayed sunburst, and the lower triangle is green; red stands for the heroism of the people and their determination to build a future of equal opportunity; white stands for peace, unity, tranquility, and harmony; blue stands for the sky and the Atlantic Ocean, the sun for power and existence, and green for vegetation and agricultural resources<br>
 
 **National symbol(s)**<br>
-oryx (antelope); national colors: blue, red, green, white, yellow<br>
+oryx (antelope)<br>
+
+**National colors**<br>
+blue, red, green, white, yellow<br>
 
 **National anthem**<br>
 _name_: "Namibia, Land of the Brave"<br>
@@ -656,11 +657,11 @@ Namibian Defense Force (NDF): Namibian Army, Namibian Navy, Namibian Air Force (
 <strong>note:</strong> the Namibian Police Force is under the Ministry of Home Affairs, Immigration, Safety, and Security; it has a paramilitary Special Field Force responsible for protecting borders and government installations<br>
 
 **Military expenditures**<br>
+2.8% of GDP (2024 est.)<br>
 2.8% of GDP (2023 est.)<br>
 3% of GDP (2022 est.)<br>
 3% of GDP (2021 est.)<br>
 3.4% of GDP (2020 est.)<br>
-3.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 12,000 active Namibian Defense Forces (2025)<br>

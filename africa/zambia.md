@@ -182,8 +182,9 @@ _unimproved: urban_: urban: 9.8% of population<br>
 _unimproved: rural_: rural: 43.4% of population<br>
 _unimproved: total_: total: 28.4% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-6.6% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 6.6% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 8.9% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.32 physicians/1,000 population (2022)<br>
@@ -222,14 +223,14 @@ _women married by age 15_: 5.2% (2018)<br>
 _women married by age 18_: 29% (2018)<br>
 _men married by age 18_: 2.8% (2018)<br>
 
-**Education expenditures**<br>
-3.7% of GDP (2020)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.1% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 14.5% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write English<br>
-_total population_: 86.7%<br>
-_male_: 90.6%<br>
-_female_: 83.1% (2018)<br>
+_total population_: 71.1% (2018 est.)<br>
+_male_: 81.7% (2018 est.)<br>
+_female_: 62.2% (2018 est.)<br>
 
 ## Environment
 
@@ -254,9 +255,6 @@ _other_: 8.2% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 46.3% of total population (2023)<br>
 _rate of urbanization_: 4.15% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to reduced incomes and localized shortfalls in cereal production -</em>an estimated 1.95 million people were projected to face acute food insecurity between October 2022 and March 2023, an increase compared to the 1.6 million people estimated in 2021/22; the high level of acute food insecurity is associated with the effects of a below-average cereal harvest and high food prices that adversely impacted households’ food availability and access (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 16.9 micrograms per cubic meter (2019 est.)<br>
@@ -306,12 +304,6 @@ _etymology_: named after a village with a headman (chief) called LUSAAKAS<br>
 **Administrative divisions**<br>
 10 provinces; Central, Copperbelt, Eastern, Luapula, Lusaka, Muchinga, Northern, North-Western, Southern, Western<br>
 
-**Independence**<br>
-24 October 1964 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 24 October (1964)<br>
-
 **Legal system**<br>
 mixed system of English common law and customary law<br>
 
@@ -358,9 +350,6 @@ _subordinate courts_: Court of Appeal; High Court; Industrial Relations Court; s
 **Political parties**<br>
 Alliance for Democracy and Development or ADD <br>Forum for Democracy and Development or FDD <br>Movement for Multiparty Democracy or MMD <br>Party of National Unity and Progress or PNUP <br>Patriotic Front or PF <br>United Party for National Development or UPND <br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, C, COMESA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, PCA, SADC, UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Chibamba KANYAMA (since 30 June 2023)<br>
 _chancery_: 2200 R Street NW, Washington, DC 20008<br>
@@ -376,11 +365,23 @@ _telephone_: [260] (0) 211-357-000<br>
 _FAX_: [260]&nbsp; (0) 211-357-224<br>
 _email address and website_: <br>ACSLusaka@state.gov<br><br>https://zm.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, C, COMESA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, PCA, SADC, UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+24 October 1964 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 24 October (1964)<br>
+
 **Flag description**<br>
 green field with a panel of three vertical bands of red (hoist side), black, and orange, below a soaring orange eagle on the outer edge of the flag; green stands for the country's natural resources and vegetation, red for the struggle for freedom, black for the people, and orange for the country's mineral wealth; the eagle represents the people's ability to rise above the nation's problems<br>
 
 **National symbol(s)**<br>
-African fish eagle; national colors: green, red, black, orange<br>
+African fish eagle<br>
+
+**National colors**<br>
+green, red, black, orange<br>
 
 **National anthem**<br>
 _name_: "Lumbanyeni Zambia" (Stand and Sing of Zambia, Proud and Free)<br>
@@ -644,11 +645,11 @@ Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Servi
 <strong>note 1:</strong> the Zambia National Service is a support organization that also does public work projects; its main objectives revolve around land development, agriculture, industries, youth skills training as well as arts, sports and culture; the ZDF also includes a Defense Force Medical Service<br><br><strong>note 2:</strong> the Zambia Army comprises the Regular Force, the Home Guard, and the Territorial Reserve<br>
 
 **Military expenditures**<br>
-1.4% of GDP (2023 est.)<br>
-1.2% of GDP (2022 est.)<br>
-1.3% of GDP (2021 est.)<br>
-1.3% of GDP (2020 est.)<br>
-1.3% of GDP (2019 est.)<br>
+1.3% of GDP (2024 est.)<br>
+1.3% of GDP (2023 est.)<br>
+1.1% of GDP (2022 est.)<br>
+1.1% of GDP (2021 est.)<br>
+1.2% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 16,000 active Defense Forces (2025)<br>

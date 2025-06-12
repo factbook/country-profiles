@@ -181,8 +181,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-6.5% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 6.5% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 11.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.63 physicians/1,000 population (2022)<br>
@@ -220,14 +221,14 @@ _female_: 17.9% (2025 est.)<br>
 _women married by age 15_: 0.5% (2021)<br>
 _women married by age 18_: 6.9% (2021)<br>
 
-**Education expenditures**<br>
-3.7% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.3% of GDP (2021 est.)<br>
+_Education expenditure (% national budget)_: 8.1% national budget (2021 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 98.9%<br>
-_male_: 99.1%<br>
-_female_: 98.7% (2021)<br>
+_total population_: 99% (2021 est.)<br>
+_male_: 99% (2021 est.)<br>
+_female_: 99% (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -309,12 +310,6 @@ _etymology_: the name is said to come from a shepherd named Bucur who is reputed
 **Administrative divisions**<br>
 41 counties (judete, singular - judet) and 1 municipality* (municipiu); Alba, Arad, Arges, Bacau, Bihor, Bistrita-Nasaud, Botosani, Braila, Brasov, Bucuresti (Bucharest)*, Buzau, Calarasi, Caras-Severin, Cluj, Constanta, Covasna, Dambovita, Dolj, Galati, Gorj, Giurgiu, Harghita, Hunedoara, Ialomita, Iasi, Ilfov, Maramures, Mehedinti, Mures, Neamt, Olt, Prahova, Salaj, Satu Mare, Sibiu, Suceava, Teleorman, Timis, Tulcea, Vaslui, Valcea, Vrancea<br>
 
-**Independence**<br>
-9 May 1877 (independence proclaimed from the Ottoman Empire; 13 July 1878 (independence recognized by the Treaty of Berlin); 26 March 1881 (kingdom proclaimed); 30 December 1947 (republic proclaimed)<br>
-
-**National holiday**<br>
-Unification Day (unification of Romania and Transylvania), 1 December (1918)<br>
-
 **Legal system**<br>
 civil law system<br>
 
@@ -375,9 +370,6 @@ _subordinate courts_: Courts of Appeal; regional tribunals; first instance court
 **Political parties**<br>
 Alliance for the Fatherland or APP <br>Alliance for the Unity of Romanians or AUR<br>Christian-Democratic National Peasants' Party or PNT-CD <br>Civic Hungarian Party<br>Democratic Union of Hungarians in Romania or UDMR <br>Ecologist Party of Romania or PER <br>Force of the Right or FD <br>Greater Romania Party or PRM <br>Green Party<br>National Liberal Party or PNL<br>Popular Movement Party or PMP <br>PRO Romania or PRO<br>Romanian Nationhood Party or PNR <br>Save Romania Union Party or USR <br>Social Democratic Party or PSD <br>Social Liberal Humanist Party or PUSL (formerly Humanist Power Party (Social-Liberal) or PPU-SL)<br>S.O.S. Romania <br>The Right Alternative or AD <br>United Romania Party or PRU <br>We are Renewing the European Project in Romania or REPER <br>
 
-**International organization participation**<br>
-Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CEI, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNOOSA,UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Dan-Andrei MURARU (since 15 September 2021)<br>
 _chancery_: 1607 23rd Street NW, Washington, DC 20008<br>
@@ -394,12 +386,24 @@ _telephone_: [40] (21) 200-3300<br>
 _FAX_: [40] (21) 200-3442<br>
 _email address and website_: <br>ACSBucharest@state.gov<br><br>https://ro.usembassy.gov/<br>
 
+**International organization participation**<br>
+Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CEI, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNOOSA,UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+9 May 1877 (independence proclaimed from the Ottoman Empire; 13 July 1878 (independence recognized by the Treaty of Berlin); 26 March 1881 (kingdom proclaimed); 30 December 1947 (republic proclaimed)<br>
+
+**National holiday**<br>
+Unification Day (unification of Romania and Transylvania), 1 December (1918)<br>
+
 **Flag description**<br>
-three equal vertical bands of blue (hoist side), yellow, and red; modeled after the flag of France, the colors are those of the principalities of Walachia (red and yellow) and Moldavia (red and blue), which united in 1862 to form Romania; the national coat of arms that used to be centered in the yellow band has been removed<br>
-<strong>note:</strong> now similar to the flag of Chad, whose blue band is darker; also resembles the flags of Andorra and Moldova<br>
+three equal vertical bands of blue (hoist side), yellow, and red; modeled after the flag of France; the colors come from the principalities of Walachia (red and yellow) and Moldavia (red and blue), which united in 1862 to form Romania; the national coat of arms that used to be centered in the yellow band has been removed<br>
+<strong>note:</strong> similar to the flag of Chad, which has a darker blue band; also resembles the flags of Andorra and Moldova<br>
 
 **National symbol(s)**<br>
-golden eagle; national colors: blue, yellow, red<br>
+golden eagle<br>
+
+**National colors**<br>
+blue, yellow, red<br>
 
 **National anthem**<br>
 _name_: "Desteapta-te romane!" (Wake up, Romanian!)<br>
@@ -413,7 +417,7 @@ _selected World Heritage Site locales_: <p>Danube Delta (n); Churches of Moldavi
 ## Economy
 
 **Economic overview**<br>
-high-income EU member economy; joined Schengen area as of March 2024; euro membership delayed over convergence criteria; persistent inflation but recovery driven by consumption and EU-funded investments; skilled labor shortage; regional economic disparities; fiscal reforms to address rising deficits<br>
+<p>high-income, EU-member economy; euro membership delayed over macroeconomic indicators; persistent inflation, but consumption and EU-funded investments driving recovery; skilled labor shortage; high public debt and budget deficit; challenges include fiscal sustainability and political instability</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $775.064 billion (2023 est.)<br>

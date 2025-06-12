@@ -181,8 +181,9 @@ _unimproved: urban_: urban: 4.1% of population<br>
 _unimproved: rural_: rural: 20.7% of population<br>
 _unimproved: total_: total: 12.7% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-4.4% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 4.4% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 3.4% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.11 physicians/1,000 population (2023)<br>
@@ -224,14 +225,14 @@ _women married by age 15_: 8.8% (2019)<br>
 _women married by age 18_: 30.5% (2019)<br>
 _men married by age 18_: 0.7% (2019)<br>
 
-**Education expenditures**<br>
-5.5% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 6.2% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 20.9% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 56.3%<br>
-_male_: 68.4%<br>
-_female_: 45.4% (2021)<br>
+_total population_: 50.4% (2023 est.)<br>
+_male_: 61.5% (2023 est.)<br>
+_female_: 41.5% (2023 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
@@ -261,9 +262,6 @@ _other_: 9.1% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 49.6% of total population (2023)<br>
 _rate of urbanization_: 3.59% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to localized shortfalls in cereal production and reduced incomes - </em>the latest analysis indicates that about 1.26 million people are projected to be acutely food insecure during the June to August 2023 lean season; this would be a significant deterioration compared to the previous year; the main drivers of acute food insecurity are macroeconomic challenges and high prices of basic food items (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 38.21 micrograms per cubic meter (2019 est.)<br>
@@ -312,12 +310,6 @@ _etymology_: the name comes from the Wolof word <em>n'dakar</em>, meaning "tamar
 **Administrative divisions**<br>
 14 regions (r&eacute;gions, singular - r&eacute;gion); Dakar, Diourbel, Fatick, Kaffrine, Kaolack, K&eacute;edougou, Kolda, Louga, Matam, Saint-Louis, Sedhiou, Tambacounda, Thies, Ziguinchor<br>
 
-**Independence**<br>
-4 April 1960 (from France); note - complete independence achieved upon dissolution of federation with Mali on 20 August 1960<br>
-
-**National holiday**<br>
-Independence Day, 4 April (1960)<br>
-
 **Legal system**<br>
 civil law system based on French law; Constitutional Council reviews legislative acts<br>
 
@@ -364,9 +356,6 @@ _subordinate courts_: High Court of Justice (for crimes of high treason by the p
 **Political parties**<br>
 Alliance for Citizenship and Work or ACT <br>Alliance for the Republic-Yakaar or APR <br>Alliance of Forces of Progress or AFP <br>AND (National Alliance for Democracy) <br>And-Jef/African Party for Democracy and Socialism or AJ/PADS <br>ARC (Alternative for the next generation of citizens) <br>Awalé <br>Benno Bokk Yakaar or BBY (United in Hope); coalition includes AFP, APR, BGC, LD-MPT, PIT, PS, and UNP<br>Bokk Gis Gis coalition <br>Citizen Movement for National Reform or MCRN-Bes Du Nakk <br>Coalition Mimi 2024 <br>Dare the Future movement <br>Democratic League-Labor Party Movement or LD-MPT <br>Democratic Renaissance Congress <br>Front for Socialism and Democracy/Benno Jubel or FSD/BJ <br>Gainde Centrist Bloc or BCG <br>General Alliance for the Interests of the Republic or AGIR <br>Grand Party or GP <br>Gueum sa Bopp (Believe in yourself) <br>Independence and Labor Party or PIT <br>Jotna Coalition <br>Liberate the People (Yewwi Askan Wi) or YAW <br>Madicke 2019 coalition <br>National Union for the People or UNP <br>Only Senegal Movement <br>Party for Truth and Development or PVD <br>Party of Unity and Rally or PUR <br>Patriotic Convergence Kaddu Askan Wi or CP-Kaddu Askan Wi <br>PRP (Republican party for Progress) <br>Rewmi Party <br>Save Senegal (Wallu Senegal Grand Coalition) or WS; coalition includes PDS, Jotna Coalition, Democratic Renaissance Congress<br>Senegalese Democratic Party or PDS <br>Socialist Party or PS <br>Tekki Movement <br>Réewum Ngor (Republic of Values) <br>Servants (Les Serviteurs)<br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, CD, CPLP (associate), ECOWAS, EITI (candidate country), FAO, FZ, G-15, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Isidor Marcel SENE (since 31 August 2024)<br>
 _chancery_: 2215 M ST NW, Washington, D.C. 20037<br>
@@ -382,12 +371,24 @@ _mailing address_: 2130 Dakar Place, Washington D.C.&nbsp; 20521-2130<br>
 _telephone_: [221] 33-879-4000<br>
 _email address and website_: <br>DakarACS@state.gov<br><br>https://sn.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, CD, CPLP (associate), ECOWAS, EITI (candidate country), FAO, FZ, G-15, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+4 April 1960 (from France); 20 August 1960 (full independence after federation with Mali is dissolved)<br>
+
+**National holiday**<br>
+Independence Day, 4 April (1960)<br>
+
 **Flag description**<br>
 three equal vertical bands of green (hoist side), yellow, and red, with a small green five-pointed star centered in the yellow band; green stands for Islam, progress, and hope, yellow for natural wealth and progress, and red for sacrifice and determination; the star represents unity and hope<br>
 <strong>note:</strong> uses the popular pan-African colors of Ethiopia; the colors from left to right are the same as Mali's flag and the reverse of Guinea's flag<br>
 
 **National symbol(s)**<br>
-lion; national colors: green, yellow, red<br>
+lion<br>
+
+**National colors**<br>
+green, yellow, red<br>
 
 **National anthem**<br>
 _name_: "Pincez Tous vos Koras, Frappez les Balafons" (Pluck Your Koras, Strike the Balafons)<br>
@@ -652,11 +653,11 @@ Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army (l’Arm�
 <strong>note:</strong> the National Police operates in major cities, while the Gendarmerie under the FAS primarily operates outside urban areas; both services have specialized anti-terrorism units, and the Gendarmerie has both Territorial and Mobile components<br>
 
 **Military expenditures**<br>
+1.6% of GDP (2024 est.)<br>
 1.5% of GDP (2023 est.)<br>
 1.6% of GDP (2022 est.)<br>
 1.7% of GDP (2021 est.)<br>
 1.5% of GDP (2020 est.)<br>
-1.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active Armed Forces personnel, including the Gendarmerie (2025)<br>

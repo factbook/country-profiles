@@ -184,8 +184,9 @@ _unimproved: urban_: urban: 1.5% of population<br>
 _unimproved: rural_: rural: 29.8% of population<br>
 _unimproved: total_: total: 23.6% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-3.2% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 3.2% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 5.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.14 physicians/1,000 population (2023)<br>
@@ -227,14 +228,14 @@ _women married by age 15_: 14.1% (2016)<br>
 _women married by age 18_: 40.3% (2016)<br>
 _men married by age 18_: 5% (2016)<br>
 
-**Education expenditures**<br>
-4.5% of GDP (2019 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.3% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 16.7% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 51.8%<br>
-_male_: 57.2%<br>
-_female_: 44.4% (2017)<br>
+_total population_: 47.5% (2016 est.)<br>
+_male_: 62.6% (2016 est.)<br>
+_female_: 40.4% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
@@ -264,9 +265,6 @@ _other_: 50.9% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 23.2% of total population (2023)<br>
 _rate of urbanization_: 4.4% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_widespread lack of access_: <em>due to conflict in Tigray Region, drought conditions in southeastern areas, high food prices - </em>according to the 2023 Humanitarian Response Plan, about 20.1 million people are estimated to be in need of emergency food assistance; the difficult food security situation is mainly the result of the lingering impact of the conflict in northern areas, episodes of intercommunal violence across the country, and the drought in southern areas that are affecting food availability and access; food insecurity is exacerbated by severe macroeconomic challenges including insufficient foreign currency reserves and the continuous depreciation of the national currency, which constrains imports of key commodities including fertilizers, as well as a very high inflation, with the year‑on‑year inflation rate estimated at 30.8 percent in May 2023 (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 21.8 micrograms per cubic meter (2019 est.)<br>
@@ -319,12 +317,6 @@ _etymology_: the name in Amharic means "new flower;" Empress TAITU gave the name
 
 **Administrative divisions**<br>
 12 ethnically based regional states (kililoch, singular - kilil) and 2 chartered cities* (astedader akabibiwach, singular - astedader akabibi); Adis Abeba* (Addis Ababa), Afar, Amara (Amhara), Binshangul Gumuz, Dire Dawa*, Gambela Hizboch (Gambela), Hareri Hizb (Harari), Oromia, Sidama, Sumale, Tigray, YeDebub Biheroch Bihereseboch na Hizboch (Southern Nations, Nationalities and Peoples), YeDebub M'irab Ityop'iya Hizboch (Southwest Ethiopia Peoples), Southern Ethiopia Peoples<br>
-
-**Independence**<br>
-oldest independent country in Africa and one of the oldest in the world - at least 2,000 years (may be traced to the Aksumite Kingdom, which coalesced in the first century B.C.)<br>
-
-**National holiday**<br>
-Derg Downfall Day (defeat of MENGISTU regime), 28 May (1991)<br>
 
 **Legal system**<br>
 civil law system<br>
@@ -386,9 +378,6 @@ _subordinate courts_: federal high courts and federal courts of first instance; 
 **Political parties**<br>
 Ethiopian Citizens for Social Justice and Democracy or EZEMA   <br>Gedeo People's Democratic Party<br>Independent<br>Kucha People Democratic Party <br>National Movement of Amhara or NAMA<br>Prosperity Party or PP<br>
 
-**International organization participation**<br>
-ACP, AfDB, ATMIS, AU, BRICS, COMESA, EITI, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (accession candidate)<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador BINALF Andualem Ashenef (since 25 February 2025)<br>
 _chancery_: 3506 International Drive NW, Washington, DC 20008<br>
@@ -405,12 +394,24 @@ _telephone_: [251] 111-30-60-00<br>
 _FAX_: [251] 111-24-24-01<br>
 _email address and website_: <br>AddisACS@state.gov<br><br>https://et.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, ATMIS, AU, BRICS, COMESA, EITI, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (accession candidate)<br>
+
+**Independence**<br>
+oldest independent country in Africa and one of the oldest in the world, at least 2,000 years; may be traced to the Aksumite Kingdom, which appeared in the first century B.C.<br>
+
+**National holiday**<br>
+Derg Downfall Day (defeat of MENGISTU regime), 28 May (1991)<br>
+
 **Flag description**<br>
 three equal horizontal bands of green (top), yellow, and red, with a yellow pentagram and single yellow rays emanating from the angles between the points on a light blue disk centered on the three bands; green stands for hope and the land's fertility, yellow for justice and harmony, and red for sacrifice and heroism; the blue of the disk symbolizes peace, and the pentagram represents the unity and equality of the Ethiopian people<br>
 <strong>note:</strong> Ethiopia is the oldest independent country in Africa, and newly independent African countries often adopted the Ethiopian flag's colors, leading them to become known as the pan-African colors; the emblem in the center of the current flag was added in 1996<br>
 
 **National symbol(s)**<br>
-Abyssinian lion (traditional), yellow pentagram with five rays of light on a blue field (promoted by current government); national colors: green, yellow, red<br>
+Abyssinian lion (traditional), yellow pentagram with five rays of light on a blue field (promoted by government)<br>
+
+**National colors**<br>
+green, yellow, red<br>
 
 **National anthem**<br>
 _name_: "Whedefit Gesgeshi Woud Enat Ethiopia" (March Forward, Dear Mother Ethiopia)<br>

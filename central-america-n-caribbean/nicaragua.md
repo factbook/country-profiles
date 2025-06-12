@@ -176,8 +176,9 @@ _unimproved: urban_: urban: 2.5% of population<br>
 _unimproved: rural_: rural: 37.4% of population<br>
 _unimproved: total_: total: 16.8% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-9.7% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 9.7% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 17.8% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.68 physicians/1,000 population (2018)<br>
@@ -206,11 +207,11 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 **Currently married women (ages 15-49)**<br>
 56% (2023 est.)<br>
 
-**Education expenditures**<br>
-4.6% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.9% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 17.7% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 82.6%<br>
 _male_: 82.4%<br>
 _female_: 82.8% (2015)<br>
@@ -283,12 +284,6 @@ _etymology_: the name comes from Lake Managua, whose name is composed of the Gua
 **Administrative divisions**<br>
 15 departments (departamentos, singular - departamento) and 2 autonomous regions* (regiones autonomistas, singular - region autonoma); Boaco, Carazo, Chinandega, Chontales, Costa Caribe Norte*, Costa Caribe Sur*, Esteli, Granada, Jinotega, Leon, Madriz, Managua, Masaya, Matagalpa, Nueva Segovia, Rio San Juan, Rivas<br>
 
-**Independence**<br>
-15 September 1821 (from Spain)<br>
-
-**National holiday**<br>
-Independence Day, 15 September (1821)<br>
-
 **Legal system**<br>
 civil law system; Supreme Court may review administrative acts<br>
 
@@ -336,9 +331,6 @@ _subordinate courts_: Appeals Court; first instance civil, criminal, and labor c
 **Political parties**<br>
 Alliance for the Republic or APRE<br>Alternative for Change or AC (operates in a political alliance with the FSLN)<br>Autonomous Liberal Party or PAL<strong><br></strong>Caribbean Unity Movement or PAMUC<br>Christian Unity Party or PUC (operates in a political alliance with the FSLN)<br>Independent Liberal Party or PLI<br>Liberal Constitutionalist Party or PLC<br>Moskitia Indigenous Progressive Movement or MOSKITIA PAWANKA (operates in a political alliance with the FSLN) <br>Multiethnic Indigenous Party or PIM (operates in a political alliance with the FSLN)<br>Nationalist Liberal Party or PLN (operates in a political alliance with the FSLN)<br>Nicaraguan Liberal Alliance or ALN<br>Nicaraguan Party of the Christian Path or CCN<br>Nicaraguan Resistance Party or PRN (operates in a political alliance with the FSLN)<strong><br></strong>Sandinista National Liberation Front or FSLN<br>Sons of Mother Earth or YATAMA<br>The New Sons of Mother Earth Movement or MYATAMARAN (operates in a political alliance with the FSLN)<br>
 
-**International organization participation**<br>
-ACS, BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, NAM, OAS, OPANAL, OPCW, PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires M. Lautaro SANDINO Montes (since 23 February 2024)<br>
 _chancery_: 1627 New Hampshire Avenue NW, Washington, DC 20009<br>
@@ -355,12 +347,24 @@ _telephone_: [505] 2252-7100,<br>
 _FAX_: [505] 2252-7250<br>
 _email address and website_: <br>ACS.Managua@state.gov<br><br>https://ni.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACS, BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, NAM, OAS, OPANAL, OPCW, PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+15 September 1821 (from Spain)<br>
+
+**National holiday**<br>
+Independence Day, 15 September (1821)<br>
+
 **Flag description**<br>
 three equal horizontal bands of blue (top), white, and blue, with the national coat of arms centered in the white band; the coat of arms has a triangle encircled by the words REPUBLICA DE NICARAGUA on the top and AMERICA CENTRAL on the bottom; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands stand for the Pacific Ocean and the Caribbean Sea, and the white band for the land between the two bodies of water<br>
 <strong>note:</strong> similar to the flag of El Salvador, which has a round emblem with the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL; also similar to the flag of Honduras, which has five blue stars in an X pattern centered in the white band<br>
 
 **National symbol(s)**<br>
-turquoise-browed motmot (bird); national colors: blue, white<br>
+turquoise-browed motmot (bird)<br>
+
+**National colors**<br>
+blue, white<br>
 
 **National anthem**<br>
 _name_: "Salve a ti, Nicaragua" (Hail to Thee, Nicaragua)<br>

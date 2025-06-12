@@ -178,8 +178,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-10% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 10% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 19.8% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.61 physicians/1,000 population (2022)<br>
@@ -213,8 +214,9 @@ _female_: 8.9% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 57.6% (2023 est.)<br>
 
-**Education expenditures**<br>
-6% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.2% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 13.1% national budget (2022 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -295,12 +297,6 @@ _etymology_: named in 1840 after Arthur WELLESLEY, the first Duke of Wellington,
 **Dependent areas**<br>
 Tokelau (1)<br>
 
-**Independence**<br>
-26 September 1907 (from the UK)<br>
-
-**National holiday**<br>
-Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealand), 6 February (1840); Anzac Day (commemorated as the anniversary of the landing of troops of the Australian and New Zealand Army Corps during World War I at Gallipoli, Turkey), 25 April (1915)<br>
-
 **Legal system**<br>
 common law system, based on English model, with special legislation and land courts for the Maori<br>
 
@@ -346,9 +342,6 @@ _subordinate courts_: Court of Appeal; High Court; tribunals and authorities; di
 **Political parties**<br>
 ACT New Zealand <br>Green Party <br>New Zealand First Party or NZ First <br>New Zealand Labor Party <br>New Zealand National Party <br>Te Pāti Māori <br>
 
-**International organization participation**<br>
-ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NSG, OECD, OPCW, Pacific Alliance (observer), Paris Club (associate), PCA, PIF, SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNOOSA, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Rosemary&nbsp;BANKS (since 17 June 2024)<br>
 _chancery_: 37 Observatory Circle NW, Washington, DC 20008<br>
@@ -366,14 +359,26 @@ _FAX_: [64] (4) 499-0490<br>
 _email address and website_: <br>AucklandACS@state.gov<br><br>https://nz.usembassy.gov/<br>
 _consulate(s) general_: Auckland<br>
 
+**International organization participation**<br>
+ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NSG, OECD, OPCW, Pacific Alliance (observer), Paris Club (associate), PCA, PIF, SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNOOSA, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+26 September 1907 (from the UK)<br>
+
+**National holiday**<br>
+Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealand), 6 February (1840); Anzac Day (commemorated as the anniversary of the landing of troops of the Australian and New Zealand Army Corps during World War I at Gallipoli, Turkey), 25 April (1915)<br>
+
 **Flag description**<br>
 blue with the UK flag in the upper hoist-side quadrant, with four red five-pointed stars edged in white centered in the outer half of the flag; the stars represent the Southern Cross constellation<br>
 
 **National symbol(s)**<br>
-Southern Cross constellation (four, five-pointed stars), kiwi (bird), silver fern; national colors: black, white, red (ochre)<br>
+Southern Cross constellation (four five-pointed stars), kiwi (bird), silver fern<br>
+
+**National colors**<br>
+black, white, red (ochre)<br>
 
 **National coat of arms**<br>
-The first quarter of the shield shows four stars that represent the Southern Cross constellation and three ships that symbolize New Zealand's sea trade. In the second quarter, a fleece represents the sheep farming industry. The wheat sheaf in the third quarter represents the agricultural industry, and the crossed hammers in the fourth quarter represent mining. On either side of the shield are a Māori chieftain holding a <em>taiaha </em>(a Māori war weapon) and a European woman holding the New Zealand flag. St Edward's Crown, shown above the shield, symbolizes the British monarch.<br>
+the first quarter of the shield shows four stars that represent the Southern Cross constellation and three ships that symbolize New Zealand's sea trade; in the second quarter, a fleece represents the sheep farming industry; the wheat sheaf in the third quarter represents the agricultural industry; the crossed hammers in the fourth quarter represent mining; the Māori chieftain holds a <em>taiaha </em>(a Māori war weapon) and a European woman holds the New Zealand flag; St. Edward's crown, shown above the shield, symbolizes the British monarch<br>
 
 **National anthem**<br>
 _name_: "God Defend New Zealand"<br>
@@ -387,7 +392,7 @@ _selected World Heritage Site locales_: Te Wahipounamu – South West New Zealan
 ## Economy
 
 **Economic overview**<br>
-high-income, globally integrated Pacific island economy; strong agriculture, manufacturing, and tourism sectors; reliant on Chinese market for exports; slow recovery from post-COVID recession and inflation; challenges of fiscal deficits, below-average productivity, and curbing greenhouse gas emissions<br>
+<p>high-income, globally integrated Pacific island economy; strong agriculture, manufacturing, and tourism sectors; reliant on Chinese market for exports; recovery trajectory following deep post-pandemic recession; challenges of fiscal deficits, below-average productivity, cost of living, and drop in net migration</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $255.026 billion (2023 est.)<br>
@@ -638,11 +643,11 @@ New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Roya
 <strong>note: </strong>the New Zealand Police, under the Minister of Police, are responsible for internal security<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2023)<br>
-1.3% of GDP (2022)<br>
-1.3% of GDP (2021)<br>
-1.5% of GDP (2020)<br>
-1.4% of GDP (2019)<br>
+1.2% of GDP (2024 est.)<br>
+1.3% of GDP (2023 est.)<br>
+1.3% of GDP (2022 est.)<br>
+1.3% of GDP (2021 est.)<br>
+1.5% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 8,800 active (Regular Force) New Zealand Defense Forces (4,300 Army; 2,100 Navy; 2,400 Air Force) (2025)<br>

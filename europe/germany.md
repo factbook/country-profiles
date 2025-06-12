@@ -183,8 +183,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-12.7% of GDP (2022)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 12.7% of GDP (2022)<br>
+_Health expenditure (as % of national budget)_: 20.5% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 4.53 physicians/1,000 population (2022)<br>
@@ -221,8 +222,9 @@ _female_: 15% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 54.4% (2023 est.)<br>
 
-**Education expenditures**<br>
-4.7% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.5% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 9.3% national budget (2023 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -313,12 +315,6 @@ _etymology_: the origin of the name is unclear but may be related to the Old Sla
 **Administrative divisions**<br>
 16 states (Laender, singular - Land); Baden-Wuerttemberg, Bayern (Bavaria), Berlin, Brandenburg, Bremen, Hamburg, Hessen (Hesse), Mecklenburg-Vorpommern (Mecklenburg-Western Pomerania), Niedersachsen (Lower Saxony), Nordrhein-Westfalen (North Rhine-Westphalia), Rheinland-Pfalz (Rhineland-Palatinate), Saarland, Sachsen (Saxony), Sachsen-Anhalt (Saxony-Anhalt), Schleswig-Holstein, Thueringen (Thuringia); note - Bayern, Sachsen, and Thueringen refer to themselves as free states (Freistaaten, singular - Freistaat), while Bremen calls itself a Free Hanseatic City (Freie Hansestadt) and Hamburg considers itself a Free and Hanseatic City (Freie und Hansestadt)<br>
 
-**Independence**<br>
-18 January 1871 (establishment of the German Empire); divided into four zones of occupation (UK, US, USSR, and France) in 1945 following World War II; Federal Republic of Germany (FRG or West Germany) proclaimed on 23 May 1949 and included the former UK, US, and French zones; German Democratic Republic (GDR or East Germany) proclaimed on 7 October 1949 and included the former USSR zone; West Germany and East Germany unified on 3 October 1990; all four powers formally relinquished rights on 15 March 1991; notable earlier dates: 10 August 843 (Eastern Francia established from the division of the Carolingian Empire); 2 February 962 (crowning of OTTO I, recognized as the first Holy Roman Emperor)<br>
-
-**National holiday**<br>
-German Unity Day, 3 October (1990)<br>
-
 **Legal system**<br>
 civil law system<br>
 
@@ -374,9 +370,6 @@ _subordinate courts_: Federal Administrative Court; Federal Finance Court; Feder
 **Political parties**<br>
 Alliance '90/Greens <br>Alternative for Germany or AfD <br>Christian Democratic Union or CDU <br>Christian Social Union or CSU <br>Free Democratic Party or FDP <br>Free Voters <br>The Left or Die Linke <br>Social Democratic Party or SPD <br>
 
-**International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNMISS, UNOOSA, UNRWA, UNSOM, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Andreas MICHAELIS (since 15 September 2023)<br>
 _chancery_: 4645 Reservoir Road NW, Washington, DC 20007<br>
@@ -394,11 +387,23 @@ _FAX_: [49] (30) 8305-1215<br>
 _email address and website_: <br>BerlinPCO@state.gov<br><br>https://de.usembassy.gov/<br>
 _consulate(s) general_: Dusseldorf, Frankfurt am Main, Hamburg, Leipzig, Munich<br>
 
+**International organization participation**<br>
+ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNMISS, UNOOSA, UNRWA, UNSOM, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+18 January 1871 (establishment of the German Empire); divided into four zones of occupation (UK, US, USSR, and France) in 1945 after World War II; Federal Republic of Germany (FRG or West Germany) proclaimed on 23 May 1949 and included the former UK, US, and French zones; German Democratic Republic (GDR or East Germany) proclaimed on 7 October 1949 and included the former USSR zone; West Germany and East Germany unified on 3 October 1990, with all four powers formally relinquishing rights on 15 March 1991; notable earlier dates: 10 August 843 (Eastern Francia established from the division of the Carolingian Empire); 2 February 962 (crowning of OTTO I, recognized as the first Holy Roman Emperor)<br>
+
+**National holiday**<br>
+German Unity Day, 3 October (1990)<br>
+
 **Flag description**<br>
 three equal horizontal bands of black (top), red, and gold; the colors can be traced back to the medieval banner of the Holy Roman Emperor -- a black eagle with red claws and beak on a gold field<br>
 
 **National symbol(s)**<br>
-eagle; national colors: black, red, yellow<br>
+eagle<br>
+
+**National colors**<br>
+black, red, yellow<br>
 
 **National anthem**<br>
 _name_: "Das Lied der Deutschen" (Song of the Germans)<br>

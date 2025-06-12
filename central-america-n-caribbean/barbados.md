@@ -164,8 +164,9 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 2% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-8.1% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 8.1% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 8.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.96 physicians/1,000 population (2022)<br>
@@ -199,11 +200,11 @@ _female_: 1.5% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 57.1% (2023 est.)<br>
 
-**Education expenditures**<br>
-6.5% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 12.5% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 99.6%<br>
 _male_: 99.6%<br>
 _female_: 99.6% (2014)<br>
@@ -269,12 +270,6 @@ _etymology_: originally named Indian Bridge in 1628 for a bridge built beside Ca
 **Administrative divisions**<br>
 11 parishes and 1 city*; Bridgetown*, Christ Church, Saint Andrew, Saint George, Saint James, Saint John, Saint Joseph, Saint Lucy, Saint Michael, Saint Peter, Saint Philip, Saint Thomas<br>
 
-**Independence**<br>
-30 November 1966 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 30 November (1966)<br>
-
 **Legal system**<br>
 English common law; no judicial review of legislative acts<br>
 
@@ -334,9 +329,6 @@ _subordinate courts_: Magistrates' Courts<br>
 **Political parties**<br>
 Alliance Party for Progress or APP<br>Barbados Labor Party or BLP<br>Democratic Labor Party or DLP<br>
 
-**International organization participation**<br>
-ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OPANAL, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Victor Anthony FERNANDES (since 18 September 2024)<br>
 _chancery_: 2144 Wyoming Avenue NW, Washington, DC 20008<br>
@@ -353,11 +345,23 @@ _telephone_: (246) 227-4000<br>
 _FAX_: (246) 431-0179<br>
 _email address and website_: <br>bridgetownpublicaffairs@state.gov<br><br>https://bb.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OPANAL, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+30 November 1966 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 30 November (1966)<br>
+
 **Flag description**<br>
 three equal vertical bands of ultramarine blue (hoist side), gold, and ultramarine blue with the head of a black trident centered on the gold band; the band colors represent the blue of the sea and sky and the gold of the beaches; the trident head represents independence and a break with the past&nbsp;<br>
 
 **National symbol(s)**<br>
-Neptune's trident, pelican, Red Bird of Paradise flower (also known as Pride of Barbados); national colors: blue, yellow, black<br>
+Neptune's trident, pelican, red bird of paradise flower (also known as "Pride of Barbados")<br>
+
+**National colors**<br>
+blue, yellow, black<br>
 
 **National anthem**<br>
 _name_: "The National Anthem of Barbados"<br>

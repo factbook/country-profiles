@@ -166,8 +166,9 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 3.8% of population (2017 est.)<br>
 
-**Current health expenditure**<br>
-5.3% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.3% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 10.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.25 physicians/1,000 population (2019)<br>
@@ -201,11 +202,11 @@ _female_: 5.2% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 45% (2023 est.)<br>
 
-**Education expenditures**<br>
-5.2% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.5% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 13.1% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 95.9%<br>
 _male_: 95.4%<br>
 _female_: 96.4% (2018)<br>
@@ -276,12 +277,6 @@ _etymology_: the British named the town Port Victoria in 1841 after Queen VICTOR
 **Administrative divisions**<br>
 27 administrative districts; Anse aux Pins, Anse Boileau, Anse Etoile, Anse Royale, Au Cap, Baie Lazare, Baie Sainte Anne, Beau Vallon, Bel Air, Bel Ombre, Cascade, Glacis, Grand Anse Mahe, Grand Anse Praslin, Ile Pers&eacute;v&eacute;rance I, Ile Pers&eacute;v&eacute;rance II, La Digue, La Rivi&egrave;re Anglaise, Les Mamelles, Mont Buxton, Mont Fleuri, Plaisance, Pointe Larue, Port Glaud, Roche Caiman, Saint Louis, Takamaka<br>
 
-**Independence**<br>
-29 June 1976 (from the UK)<br>
-
-**National holiday**<br>
-Constitution Day, 18 June (1993); Independence Day (National Day), 29 June (1976)<br>
-
 **Legal system**<br>
 mixed system of English common law, French civil law, and customary law<br>
 
@@ -329,9 +324,6 @@ _subordinate courts_: Magistrates' Courts of Seychelles; Family Tribunal for iss
 **Political parties**<br>
 Seychelles Party for Social Justice and Democracy or SPSJD<br>Seychellois Democratic Alliance or LDS (Linyon Demokratik Seselwa/Union Démocratique Seychelloise)<br>Seychelles National Party or SNP<br>United Seychelles or US<br>
 
-**International organization participation**<br>
-ACP, AfDB, AOSIS, AU, C, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Ian Dereck Joseph MADELEINE (since 1 December 2021); note - also Permanent Representative to the UN<br>
 _chancery_: 685 Third Avenue, Suite 1107, 11th Floor, New York, NY 10017<br>
@@ -344,11 +336,23 @@ _chief of mission_: Ambassador Henry V. JARDINE (since 22 February 2023) and Cha
 _embassy_: 2nd Floor, Oliaji Trade Center, Victoria Mahe, Seychelles; note - US Embassy in Seychelles reopened on 1 June 2023 after having been closed in 1996<br>
 _telephone_: [248] 422 5256<br>
 
+**International organization participation**<br>
+ACP, AfDB, AOSIS, AU, C, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+29 June 1976 (from the UK)<br>
+
+**National holiday**<br>
+Constitution Day, 18 June (1993); Independence Day (National Day), 29 June (1976)<br>
+
 **Flag description**<br>
 five oblique bands of blue (hoist side), yellow, red, white, and green (bottom), radiating from the bottom of the hoist side; the bands symbolize a dynamic new country moving into the future; blue stands for the sky and sea, yellow for the sun giving light and life, red for the people's determination to work for the future in unity and love, white for social justice and harmony, and green for the land and natural environment<br>
 
 **National symbol(s)**<br>
-coco de mer (sea coconut); national colors: blue, yellow, red, white, green<br>
+coco de mer (sea coconut)<br>
+
+**National colors**<br>
+blue, yellow, red, white, green<br>
 
 **National anthem**<br>
 _name_: "Koste Seselwa" (Seychellois Unite)<br>
@@ -597,11 +601,11 @@ Seychelles People's Defense Forces (SPDF; aka Seychelles Defense Forces, SDF): A
 <br>  <br>
 
 **Military expenditures**<br>
+1.5% of GDP (2024 est.)<br>
 1.6% of GDP (2023 est.)<br>
 1.4% of GDP (2022 est.)<br>
 1.5% of GDP (2021 est.)<br>
 1.6% of GDP (2020 est.)<br>
-1.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 500 active Defense Forces (2025)<br>

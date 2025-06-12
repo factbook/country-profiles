@@ -177,8 +177,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 6.7% of population<br>
 _unimproved: total_: total: 2.9% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-4.7% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 4.7% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 4.6% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.19 physicians/1,000 population (2022)<br>
@@ -212,14 +213,14 @@ _female_: 0.1% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 62.9% (2023 est.)<br>
 
-**Education expenditures**<br>
-4.3% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.6% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 10.4% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 99.8%<br>
-_male_: 99.9%<br>
-_female_: 99.7% (2019)<br>
+_total population_: 100% (2023 est.)<br>
+_male_: 100% (2023 est.)<br>
+_female_: 100% (2023 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -294,12 +295,6 @@ _etymology_: the name may derive from the Old Persian word <em>badkuba</em>, mea
 **Administrative divisions**<br>
 <p>66 districts (rayonlar; rayon - singular), 11 cities (saharlar; sahar - singular);</p> <p><strong>rayons:</strong> Abseron, Agcabadi, Agdam, Agdas, Agstafa, Agsu, Astara, Babak, Balakan, Barda, Beylaqan, Bilasuvar, Cabrayil, Calilabad, Culfa, Daskasan, Fuzuli, Gadabay, Goranboy, Goycay, Goygol, Haciqabul, Imisli, Ismayilli, Kalbacar, Kangarli, Kurdamir, Lacin, Lankaran, Lerik, Masalli, Neftcala, Oguz, Ordubad, Qabala, Qax, Qazax, Qobustan, Quba, Qubadli, Qusar, Saatli, Sabirabad, Sabran, Sadarak, Sahbuz, Saki, Salyan, Samaxi, Samkir, Samux, Sarur, Siyazan, Susa, Tartar, Tovuz, Ucar, Xacmaz, Xizi, Xocali, Xocavand, Yardimli, Yevlax, Zangilan, Zaqatala, Zardab</p> <p><strong>cities:</strong> Baku, Ganca, Lankaran, Mingacevir, Naftalan, Naxcivan (Nakhichevan), Saki, Sirvan, Sumqayit, Xankandi, Yevlax</p><br>
 
-**Independence**<br>
-30 August 1991 (declared from the Soviet Union); 18 October 1991 (adopted by the Supreme Council of Azerbaijan)<br>
-
-**National holiday**<br>
-Republic Day (founding of the Democratic Republic of Azerbaijan), 28 May (1918)<br>
-
 **Legal system**<br>
 civil law system<br>
 
@@ -346,9 +341,6 @@ _subordinate courts_: Courts of Appeal (replaced the Economic Court in 2002); di
 **Political parties**<br>
 Civic Solidarity Party or VHP<br>Democratic Reforms Party DiP<br>Great Order Party or BQP<br>Motherland Party or AVP<br>Party for Democratic Reforms or DIP<br>Republican Alternative Party or REAL<br>Unity Party or VƏHDƏT<br>Whole Azerbaijan Popular Front Party or BAXCP<br>New Azerbaijan Party (Yeni Azərbaycan Partiyasi) or YAP<br>
 
-**International organization participation**<br>
-ADB, BSEC, CD, CE, CICA, CIS, EAPC, EBRD, ECO, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Khazar IBRAHIM (since 15 September 2021)<br>
 _chancery_: 2741 34th Street NW, Washington, DC 20008<br>
@@ -365,11 +357,23 @@ _telephone_: [994] (12) 488-3300<br>
 _FAX_: [994] (12) 488-3330<br>
 _email address and website_: <br>BakuACS@state.gov<br><br>https://az.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB, BSEC, CD, CE, CICA, CIS, EAPC, EBRD, ECO, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
+
+**Independence**<br>
+30 August 1991 (declared from the Soviet Union); 18 October 1991 (adopted by the Supreme Council of Azerbaijan)<br>
+
+**National holiday**<br>
+Republic Day (founding of the Democratic Republic of Azerbaijan), 28 May (1918)<br>
+
 **Flag description**<br>
 three equal horizontal bands of sky blue (top), red, and green; a vertical crescent moon and an eight-pointed star in white are centered in the red band; the blue band stands for Azerbaijan's Turkic heritage, red for modernization and progress, and green for Islam; the crescent moon and star are a Turkic insignia; the eight star points represent the eight Turkic peoples of the world<br>
 
 **National symbol(s)**<br>
-flames of fire; national colors: blue, red, green<br>
+flames of fire<br>
+
+**National colors**<br>
+blue, red, green<br>
 
 **National anthem**<br>
 _name_: "Azerbaijan Marsi" (March of Azerbaijan)<br>

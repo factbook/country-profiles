@@ -178,8 +178,9 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-10.8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 10.8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 23.4% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.65 physicians/1,000 population (2022)<br>
@@ -213,8 +214,9 @@ _female_: 7.2% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 46.8% (2023 est.)<br>
 
-**Education expenditures**<br>
-3.4% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.2% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 7.5% national budget (2022 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -296,12 +298,6 @@ _etymology_: originally known as Edo, meaning "estuary" because of its location 
 **Administrative divisions**<br>
 47 prefectures; Aichi, Akita, Aomori, Chiba, Ehime, Fukui, Fukuoka, Fukushima, Gifu, Gunma, Hiroshima, Hokkaido, Hyogo, Ibaraki, Ishikawa, Iwate, Kagawa, Kagoshima, Kanagawa, Kochi, Kumamoto, Kyoto, Mie, Miyagi, Miyazaki, Nagano, Nagasaki, Nara, Niigata, Oita, Okayama, Okinawa, Osaka, Saga, Saitama, Shiga, Shimane, Shizuoka, Tochigi, Tokushima, Tokyo, Tottori, Toyama, Wakayama, Yamagata, Yamaguchi, Yamanashi<br>
 
-**Independence**<br>
-3 May 1947 (current constitution adopted as amendment to Meiji Constitution); notable earlier dates: 11 February 660 B.C. (mythological date of the founding of the nation by Emperor JIMMU); 29 November 1890 (Meiji Constitution provides for constitutional monarchy)<br>
-
-**National holiday**<br>
-Birthday of Emperor NARUHITO, 23 February (1960); note - celebrates the birthday of the current emperor<br>
-
 **Legal system**<br>
 civil law system based on German model; also reflects Anglo-American influence and Japanese traditions; Supreme Court reviews legislative acts<br>
 
@@ -364,9 +360,6 @@ _subordinate courts_: 8 High Courts (Koto-saiban-sho), each with a Family Court 
 **Political parties**<br>
 Conservative Party of Japan or CPJ<br>Constitutional Democratic Party of Japan or CDP <br>Democratic Party for the People or DPFP or DPP <br>Japan Communist Party or JCP <br>Japan Innovation Party or Nippon Ishin no kai or Ishin <br>Komeito or Komei<br>Liberal Democratic Party or LDP <br>Okinawa Social Mass Party or Okinawa Whirlwind or OW<br>Party to Protect the People from NHK or NHK<br>Reiwa Shinsengumi <br>Sanseito Party<br>Social Democratic Party or SDP<br>
 
-**International organization participation**<br>
-ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CE (observer), CERN (observer), CICA (observer), CP, CPLP (associate), EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Quad, SAARC (observer), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, UNOOSA, UNRWA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador YAMADA Shigeo (since 27 February 2024)<br>
 _chancery_: 2520 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -386,14 +379,26 @@ _email address and website_: <br>TokyoACS@state.gov<br><br>https://jp.usembassy.
 _consulate(s) general_: Naha (Okinawa), Osaka-Kobe, Sapporo<br>
 _consulate(s)_: Fukuoka, Nagoya<br>
 
+**International organization participation**<br>
+ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CE (observer), CERN (observer), CICA (observer), CP, CPLP (associate), EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Quad, SAARC (observer), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, UNOOSA, UNRWA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+3 May 1947 (current constitution adopted as amendment to Meiji Constitution); notable earlier dates: 11 February 660 B.C. (mythological date of Emperor JIMMU founding the nation); 29 November 1890 (Meiji Constitution provides for constitutional monarchy)<br>
+
+**National holiday**<br>
+Birthday of Emperor NARUHITO, 23 February (1960); note - celebrates the birthday of the current emperor<br>
+
 **Flag description**<br>
 white with a large red disk, representing the sun without rays, in the center<br>
 
 **National symbol(s)**<br>
-red sun disc, chrysanthemum; national colors: red, white<br>
+red sun disc, chrysanthemum<br>
+
+**National colors**<br>
+red, white<br>
 
 **National coat of arms**<br>
-The Kikumon is the Japanese emperor's family coat of arms and dates from 1183. The Imperial chrysanthemum emblem (菊の御紋, <em>kikunogomon</em>) is a yellow or orange chrysanthemum with black or red outlines and background. A central disc is surrounded by a front set of 16 petals. A rear set of 16 petals are half-staggered in relation to the front set and are visible at the edges of the flower.<br>
+the Kikumon is the Japanese emperor's family coat of arms and dates from 1183; the Imperial chrysanthemum emblem (菊の御紋, <em>kikunogomon</em>) is a yellow or orange chrysanthemum with black or red outlines and background; a central disc is surrounded by a front set of 16 petals; a rear set of 16 petals are half-staggered in relation to the front set and are visible at the edges of the flower<br>
 
 **National anthem**<br>
 _name_: "Kimigayo" (The Emperor's Reign)<br>

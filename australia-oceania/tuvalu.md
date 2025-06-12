@@ -163,8 +163,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-20% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 20% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 11.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.35 physicians/1,000 population (2020)<br>
@@ -203,8 +204,9 @@ _women married by age 15_: 0% (2020)<br>
 _women married by age 18_: 1.8% (2020)<br>
 _men married by age 18_: 1.7% (2020)<br>
 
-**Education expenditures**<br>
-NA<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 15.8% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 17% national budget (2024 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -271,12 +273,6 @@ _etymology_: the town has the same name as the island it is located on; the name
 **Administrative divisions**<br>
 7 island councils and 1 town council*; Funafuti*, Nanumaga, Nanumea, Niutao, Nui, Nukufetau, Nukulaelae, Vaitupu<br>
 
-**Independence**<br>
-1 October 1978 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 1 October (1978)<br>
-
 **Legal system**<br>
 mixed system of English common law and local customary law<br>
 
@@ -323,9 +319,6 @@ _subordinate courts_: magistrates' courts; island courts; land courts<br>
 **Political parties**<br>
 there are no political parties, but members of parliament usually align themselves in informal groupings<br>
 
-**International organization participation**<br>
-ACP, ADB, AOSIS, C, FAO, IBRD, IDA, IFAD, IFRCS (observer), ILO, IMF, IMO, IOC, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Tapugao FALEFOU (since 19 April 2023); note - also Permanent Representative to UN<br>
 _chancery_: 685 Third Avenue, Suite 1104, New York, NY 10017<br>
@@ -337,11 +330,23 @@ note - the Tuvalu Permanent Mission to the UN serves as the Embassy<br>
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Tuvalu; the US Ambassador to Fiji is accredited to Tuvalu<br>
 
+**International organization participation**<br>
+ACP, ADB, AOSIS, C, FAO, IBRD, IDA, IFAD, IFRCS (observer), ILO, IMF, IMO, IOC, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO<br>
+
+**Independence**<br>
+1 October 1978 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 1 October (1978)<br>
+
 **Flag description**<br>
 light blue with the UK flag in the upper hoist-side quadrant; the outer half of the flag represents a map of the country, with the nine yellow five-pointed stars on a blue field symbolizing the atolls in the ocean<br>
 
 **National symbol(s)**<br>
-maneapa (native meeting house); national colors: light blue, yellow<br>
+maneapa (native meeting house)<br>
+
+**National colors**<br>
+light blue, yellow<br>
 
 **National anthem**<br>
 _name_: "Tuvalu mo te Atua" (Tuvalu for the Almighty)<br>

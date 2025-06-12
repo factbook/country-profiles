@@ -164,8 +164,9 @@ _unimproved: urban_: urban: 0.4% of population<br>
 _unimproved: rural_: rural: 0.2% of population<br>
 _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-16.4% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 16.4% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 9.5% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.81 physicians/1,000 population (2023)<br>
@@ -189,14 +190,14 @@ _female_: 6.8% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 45.6% (2023 est.)<br>
 
-**Education expenditures**<br>
-6.8% of GDP (2019)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.5% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 9.8% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 96.6%<br>
-_male_: 96.8%<br>
-_female_: 96.3% (2015)<br>
+_total population_: 97% (2015 est.)<br>
+_male_: 97% (2015 est.)<br>
+_female_: 96% (2015 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
@@ -260,12 +261,6 @@ _etymology_: the name comes from a Palauan term meaning "place of fermented ange
 **Administrative divisions**<br>
 16 states; Aimeliik, Airai, Angaur, Hatohobei, Kayangel, Koror, Melekeok, Ngaraard, Ngarchelong, Ngardmau, Ngatpang, Ngchesar, Ngeremlengui, Ngiwal, Peleliu, Sonsorol<br>
 
-**Independence**<br>
-1 October 1994 (from the US-administered UN trusteeship)<br>
-
-**National holiday**<br>
-Constitution Day, 9 July (1981), day of a national referendum to pass the new constitution; Independence Day, 1 October (1994)<br>
-
 **Legal system**<br>
 mixed system of civil, common, and customary law<br>
 
@@ -325,9 +320,6 @@ _subordinate courts_: National Court and other inferior courts<br>
 **Political parties**<br>
 none<br>
 
-**International organization participation**<br>
-ACP, ADB, AOSIS, FAO, IAEA, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IPU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNAMID, UNCTAD, UNESCO, WHO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Hersey KYOTA (since 12 November 1997)<br>
 _chancery_: 1701 Pennsylvania Avenue NW, Suite 200, Washington, DC 20006<br>
@@ -344,11 +336,23 @@ _telephone_: [680] 587-2920<br>
 _FAX_: [680] 587-2911<br>
 _email address and website_: <br>ConsularKoror@state.gov<br><br>https://pw.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, ADB, AOSIS, FAO, IAEA, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IPU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNAMID, UNCTAD, UNESCO, WHO<br>
+
+**Independence**<br>
+1 October 1994 (from the US-administered UN trusteeship)<br>
+
+**National holiday**<br>
+Constitution Day, 9 July (1981), day of a national referendum to pass the new constitution; Independence Day, 1 October (1994)<br>
+
 **Flag description**<br>
 light blue with a large yellow disk shifted slightly to the hoist side; blue stands for the ocean, and the disk for the moon, which is considered a symbol of peace, love, and tranquility<br>
 
 **National symbol(s)**<br>
-bai (native meeting house); national colors: blue, yellow<br>
+bai (native meeting house)<br>
+
+**National colors**<br>
+blue, yellow<br>
 
 **National anthem**<br>
 _name_: "Belau rekid" (Our Palau)<br>

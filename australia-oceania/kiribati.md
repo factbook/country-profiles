@@ -170,8 +170,9 @@ _unimproved: urban_: urban: 2.8% of population<br>
 _unimproved: rural_: rural: 36.9% of population<br>
 _unimproved: total_: total: 18% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-14.8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 14.8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 9.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.2 physicians/1,000 population (2013)<br>
@@ -213,13 +214,14 @@ _women married by age 15_: 2.4% (2019)<br>
 _women married by age 18_: 18.4% (2019)<br>
 _men married by age 18_: 8.6% (2019)<br>
 
-**Education expenditures**<br>
-12.4% of GDP (2019 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 16.4% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 13.5% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
+_total population_: 98% (2018 est.) NA<br>
+_male_: 97.3% (2018 est.) NA<br>
+_female_: 98.6% (2018 est.) NA<br>
 
 ## Environment
 
@@ -280,12 +282,6 @@ _etymology_: the name is said to derive from the I-Kiribati words <em>te </em>(t
 **Administrative divisions**<br>
 3 geographical units: Gilbert Islands, Line Islands, Phoenix Islands; note - there are no first-order administrative divisions, but there are 6 districts (Banaba, Central Gilberts, Line Islands, Northern Gilberts, Southern Gilberts, Tarawa) and 21 island councils - one for each of the inhabited islands (Abaiang, Abemama, Aranuka, Arorae, Banaba, Beru, Butaritari, Kanton, Kiritimati, Kuria, Maiana, Makin, Marakei, Nikunau, Nonouti, Onotoa, Tabiteuea, Tabuaeran, Tamana, Tarawa, Teraina)<br>
 
-**Independence**<br>
-12 July 1979 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 12 July (1979)<br>
-
 **Legal system**<br>
 English common law supplemented by customary law<br>
 
@@ -332,9 +328,6 @@ _subordinate courts_: Court of Appeal; magistrates' courts<br>
 **Political parties**<br>
 Boutokaan Kiribati Moa Party (Supporting Kiribati First) or BKM <br>Tobwaan Kiribati Party (Embracing Kiribati) or TKP <br>
 
-**International organization participation**<br>
-ABEDA, ACP, ADB, AOSIS, C, FAO, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IOC, ITU, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNDP, UNESCO, UPU, WHO, WIPO, WMO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Teburoro TITO (since 24 January 2018); note - also Permanent Representative to the UN<br>
 _chancery_: 685 Third Avenue, Suite 1109, New York, NY 10017<br>
@@ -346,11 +339,23 @@ _email address and website_: <br>Kimission.newyork@mfa.gov.ki<br>
 _chief of mission_: Ambassador Marie DAMOUR (since 6 December 2022); note - Ambassador DAMOUR is based in the US Embassy in the Republic of Fiji and is accredited to Kiribati as well as Nauru, Tonga, and Tuvalu<br>
 <strong>Note</strong>:  the US does not have an embassy in Kiribati but has announced its intention to open an embassy<br>
 
+**International organization participation**<br>
+ABEDA, ACP, ADB, AOSIS, C, FAO, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IOC, ITU, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNDP, UNESCO, UPU, WHO, WIPO, WMO<br>
+
+**Independence**<br>
+12 July 1979 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 12 July (1979)<br>
+
 **Flag description**<br>
 the upper half is red with a yellow frigatebird flying over a yellow rising sun, and the lower half is blue with three horizontal wavy white stripes to represent the Pacific ocean; the white stripes represent the Gilbert, Line, and Phoenix island groups; the 17 rays of the sun represent the 16 Gilbert Islands and Banaba (formerly Ocean Island); the frigatebird symbolizes authority and freedom<br>
 
 **National symbol(s)**<br>
-frigatebird; national colors: red, white, blue, yellow<br>
+frigatebird<br>
+
+**National colors**<br>
+red, white, blue, yellow<br>
 
 **National anthem**<br>
 _name_: "Teirake kaini Kiribati" (Stand Up, Kiribati)<br>

@@ -171,8 +171,9 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-8.8% of GDP (2022)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 8.8% of GDP (2022)<br>
+_Health expenditure (as % of national budget)_: 15% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.37 physicians/1,000 population (2022)<br>
@@ -206,11 +207,11 @@ _female_: 15.3% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 46.4% (2023 est.)<br>
 
-**Education expenditures**<br>
-5.8% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.7% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 12% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: NA<br>
 _total population_: 99.7%<br>
 _male_: 99.7%<br>
 _female_: 99.7% (2015)<br>
@@ -292,12 +293,6 @@ _etymology_: by tradition, the name is related to the Slovene word <em>ljubljena
 **Administrative divisions**<br>
 <p>200 municipalities (obcine, singular - obcina) and 12 urban municipalities (mestne obcine, singular - mestna obcina)</p> <p><strong>municipalities:</strong> Ajdovscina, Ankaran, Apace, Beltinci, Benedikt, Bistrica ob Sotli, Bled, Bloke, Bohinj, Borovnica, Bovec, Braslovce, Brda, Brezice, Brezovica, Cankova, Cerklje na Gorenjskem, Cerknica, Cerkno, Cerkvenjak, Cirkulane, Crensovci, Crna na Koroskem, Crnomelj, Destrnik, Divaca, Dobje, Dobrepolje, Dobrna, Dobrova-Polhov Gradec, Dobrovnik/Dobronak, Dolenjske Toplice, Dol pri Ljubljani, Domzale, Dornava, Dravograd, Duplek, Gorenja Vas-Poljane, Gorisnica, Gorje, Gornja Radgona, Gornji Grad, Gornji Petrovci, Grad, Grosuplje, Hajdina, Hoce-Slivnica, Hodos, Horjul, Hrastnik, Hrpelje-Kozina, Idrija, Ig, Ilirska Bistrica, Ivancna Gorica, Izola/Isola, Jesenice, Jezersko, Jursinci, Kamnik, Kanal ob Soci, Kidricevo, Kobarid, Kobilje, Kocevje, Komen, Komenda, Kosanjevica na Krki, Kostel, Kozje, Kranjska Gora, Krizevci, Kungota, Kuzma, Lasko, Lenart, Lendava/Lendva, Litija, Ljubno, Ljutomer, Log-Dragomer, Logatec, Loska Dolina, Loski Potok, Lovrenc na Pohorju, Luce, Lukovica, Majsperk, Makole, Markovci, Medvode, Menges, Metlika, Mezica, Miklavz na Dravskem Polju, Miren-Kostanjevica, Mirna, Mirna Pec, Mislinja, Mokronog-Trebelno, Moravce, Moravske Toplice, Mozirje, Muta, Naklo, Nazarje, Odranci, Oplotnica, Ormoz, Osilnica, Pesnica, Piran/Pirano, Pivka, Podcetrtek, Podlehnik, Podvelka, Poljcane, Polzela, Postojna, Prebold, Preddvor, Prevalje, Puconci, Race-Fram, Radece, Radenci, Radlje ob Dravi, Radovljica, Ravne na Koroskem, Razkrizje, Recica ob Savinji, Rence-Vogrsko, Ribnica, Ribnica na Pohorju, Rogaska Slatina, Rogasovci, Rogatec, Ruse, Salovci, Selnica ob Dravi, Semic, Sempeter-Vrtojba, Sencur, Sentilj, Sentjernej, Sentjur, Sentrupert, Sevnica, Sezana, Skocjan, Skofja Loka, Skofljica, Slovenska Bistrica, Slovenske Konjice, Smarje pri Jelsah, Smarjeske Toplice, Smartno ob Paki, Smartno pri Litiji, Sodrazica, Solcava, Sostanj, Sredisce ob Dravi, Starse, Store, Straza, Sveta Ana, Sveta Trojica v Slovenskih Goricah, Sveti Andraz v Slovenskih Goricah, Sveti Jurij ob Scavnici, Sveti Jurij v Slovenskih Goricah, Sveti Tomaz, Tabor, Tisina, Tolmin, Trbovlje, Trebnje, Trnovska Vas, Trzic, Trzin, Turnisce, Velika Polana, Velike Lasce, Verzej, Videm, Vipava, Vitanje, Vodice, Vojnik, Vransko, Vrhnika, Vuzenica, Zagorje ob Savi, Zalec, Zavrc, Zelezniki, Zetale, Ziri, Zirovnica, Zrece, Zuzemberk</p> <p><strong>urban municipalities:</strong> Celje, Koper, Kranj, Krsko, Ljubljana, Maribor, Murska Sobota, Nova Gorica, Novo Mesto, Ptuj, Slovenj Gradec, Velenje</p><br>
 
-**Independence**<br>
-25 June 1991 (from Yugoslavia)<br>
-
-**National holiday**<br>
-Independence Day/Statehood Day, 25 June (1991)<br>
-
 **Legal system**<br>
 civil law system<br>
 
@@ -356,9 +351,6 @@ _subordinate courts_: county, district, regional, and high courts; specialized l
 **Political parties**<br>
 Democratic Party of Pensioners of Slovenia or DeSUS <br>Freedom Movement or GS (formerly Greens Actions Party or Z.DEJ)<br>List of Marjan Sarec or LMS <br>New Slovenia - Christian Democrats or NSi <br>Party of Alenka Bratusek or SAB (formerly Alliance of Social Liberal Democrats or ZSD and before that Alliance of Alenka Bratusek or ZaAB)<br>Resni.ca <br>Slovenian Democratic Party or SDS (formerly the Social Democratic Party of Slovenia or SDSS)<br>Slovenian National Party or SNS <br>Social Democrats or SD<br>The Left or Levica (successor to United Left or ZL)<br>
 
-**International organization participation**<br>
-Australia Group, BIS, CD, CE, CEI, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Iztok MIRO&Scaron;IČ (since 15 September 2023)<br>
 _chancery_: 2410 California Street NW, Washington, DC 20008<br>
@@ -375,11 +367,23 @@ _telephone_: [386] (1) 200-5500<br>
 _FAX_: [386] (1) 200-5555<br>
 _email address and website_: <br>LjubljanaACS@state.gov<br><br>https://si.usembassy.gov/<br>
 
+**International organization participation**<br>
+Australia Group, BIS, CD, CE, CEI, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+25 June 1991 (from Yugoslavia)<br>
+
+**National holiday**<br>
+Independence Day/Statehood Day, 25 June (1991)<br>
+
 **Flag description**<br>
 three equal horizontal bands of white (top), blue, and red that come from the medieval coat of arms of the Duchy of Carniola; the Slovenian seal (a shield with Triglav, Slovenia's highest peak, in white on a blue background) is at the center, with two wavy blue lines under it to represent seas and rivers; three six-pointed stars in an inverted triangle appear on the upper hoist side of the flag and are taken from the coat of arms of the Counts of Celje (a Slovene dynastic house)<br>
 
 **National symbol(s)**<br>
-Mount Triglav; national colors: white, blue, red<br>
+Mount Triglav<br>
+
+**National colors**<br>
+white, blue, red<br>
 
 **National anthem**<br>
 _name_: "Zdravljica" (A Toast)<br>
@@ -393,7 +397,7 @@ _selected World Heritage Site locales_: &Scaron;kocjan Caves (n); Ancient and Pr
 ## Economy
 
 **Economic overview**<br>
-high-income, EU and eurozone member economy; high per-capita income and low inequality; key exports in automotive and pharmaceuticals; tight labor market with low unemployment; growth supported by EU funds and reconstruction from 2023 floods; pressures over public sector wage demands<br>
+<p>high-income EU and eurozone economy; high per-capita income and low inequality; key exports in automotive and pharmaceuticals; tight labor market with low unemployment; growth supported by private consumption and public investment, with risks from tight labor market and trade conditions; narrowing fiscal deficit and declining public debt</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $102.299 billion (2023 est.)<br>

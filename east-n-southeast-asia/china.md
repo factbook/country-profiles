@@ -186,8 +186,9 @@ _unimproved: urban_: urban: 2.7% of population<br>
 _unimproved: rural_: rural: 8.5% of population<br>
 _unimproved: total_: total: 4.9% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-5.4% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.4% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 8.8% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.11 physicians/1,000 population (2022)<br>
@@ -229,14 +230,14 @@ _women married by age 15_: 0.1% (2020)<br>
 _women married by age 18_: 2.8% (2020)<br>
 _men married by age 18_: 0.7% (2020)<br>
 
-**Education expenditures**<br>
-3.6% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 10.5% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 96.8%<br>
-_male_: 98.5%<br>
-_female_: 95.2% (2018)<br>
+_total population_: 97% (2020 est.)<br>
+_male_: 98% (2020 est.)<br>
+_female_: 95% (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -328,12 +329,6 @@ _etymology_: the name comes from the Chinese words <em>bei </em>(north) and <em>
 <p>23 provinces (sheng, singular and plural), 5 autonomous regions (zizhiqu, singular and plural), 4 municipalities (shi, singular and plural), and two special administrative regions (tebie xingzhengqu, singular and plural)</p> <p><strong>provinces:</strong> Anhui, Fujian, Gansu, Guangdong, Guizhou, Hainan, Hebei, Heilongjiang, Henan, Hubei, Hunan, Jiangsu, Jiangxi, Jilin, Liaoning, Qinghai, Shaanxi, Shandong, Shanxi, Sichuan, Yunnan, Zhejiang; (see note on Taiwan)</p> <p><strong>autonomous regions:</strong> Guangxi, Nei Mongol (Inner Mongolia), Ningxia, Xinjiang Uyghur, Xizang (Tibet)</p> <p><strong>municipalities:</strong> Beijing, Chongqing, Shanghai, Tianjin<br><br><strong>special administrative regions:</strong> Hong Kong, Macau</p><br>
 <strong>note:</strong> China considers Taiwan its 23rd province; see separate entries for the special administrative regions of Hong Kong and Macau<br>
 
-**Independence**<br>
-1 October 1949 (People's Republic of China established); notable earlier dates: 221 B.C. (unification under the Qin Dynasty); 1 January 1912 (Qing Dynasty replaced by the Republic of China)<br>
-
-**National holiday**<br>
-National Day (anniversary of the founding of the People's Republic of China), 1 October (1949)<br>
-
 **Legal system**<br>
 civil law influenced by Soviet and continental European civil law systems; legislature retains power to interpret statutes<br>
 <strong>note:</strong> in 2020, the National People's Congress adopted the PRC Civil Code, which codifies personal relations and property relations<br>
@@ -382,9 +377,6 @@ _subordinate courts_: Higher People's Courts; Intermediate People's Courts; Dist
 Chinese Communist Party or CCP <br>
 <strong>note:</strong> China has 8 nominally independent small parties controlled by the CCP<br>
 
-**International organization participation**<br>
-ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), BIS, BRICS, CDB, CICA, EAS, FAO, FATF, G-20, G-24 (observer), G-5, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAIA (observer), MIGA, MINURSO, MONUSCO, NAM (observer), NSG, OAS (observer), OPCW, Pacific Alliance (observer), PCA, PIF (partner), SAARC (observer), SCO, SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UN Security Council (permanent), UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador XIE Feng (since 30 June 2023)<br>
 _chancery_: 3505 International Place NW, Washington, DC 20008<br>
@@ -402,11 +394,23 @@ _FAX_: [86] (10) 8531-4200<br>
 _email address and website_: <br>BeijingACS@state.gov<br><br>https://china.usembassy-china.org.cn/<br>
 _consulate(s) general_: Guangzhou, Shanghai, Shenyang, Wuhan; note - the Chinese Government ordered closure of the US consulate in Chengdu in late July 2020<br>
 
+**International organization participation**<br>
+ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), BIS, BRICS, CDB, CICA, EAS, FAO, FATF, G-20, G-24 (observer), G-5, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAIA (observer), MIGA, MINURSO, MONUSCO, NAM (observer), NSG, OAS (observer), OPCW, Pacific Alliance (observer), PCA, PIF (partner), SAARC (observer), SCO, SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UN Security Council (permanent), UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+1 October 1949 (People's Republic of China established); notable earlier dates: 221 B.C. (unification under the Qin Dynasty); 1 January 1912 (Qing Dynasty replaced by the Republic of China)<br>
+
+**National holiday**<br>
+National Day (anniversary of the founding of the People's Republic of China), 1 October (1949)<br>
+
 **Flag description**<br>
 red with a large yellow five-pointed star and four smaller yellow five-pointed stars, arranged in a vertical arc toward the middle of the flag, in the upper hoist-side corner; the color red represents revolution, and the stars symbolize the four social classes -- the working class, the peasantry, the urban petty bourgeoisie, and the national bourgeoisie (capitalists) -- united under the Communist Party of China<br>
 
 **National symbol(s)**<br>
-dragon, giant panda; national colors: red, yellow<br>
+dragon, giant panda<br>
+
+**National colors**<br>
+red, yellow<br>
 
 **National anthem**<br>
 _name_: "Yiyongjun Jinxingqu" (The March of the Volunteers)<br>

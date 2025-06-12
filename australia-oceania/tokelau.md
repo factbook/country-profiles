@@ -170,19 +170,13 @@ _time difference_: UTC+13 (18 hours ahead of Washington, DC during Standard Time
 **Administrative divisions**<br>
 none (territory of New Zealand)<br>
 
-**Independence**<br>
-none (territory of New Zealand)<br>
-
-**National holiday**<br>
-Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealand), 6 February (1840)<br>
-
 **Legal system**<br>
 common law system of New Zealand<br>
 
 **Constitution**<br>
 _history_: many previous; latest effective 1 January 1949 (Tokelau Act 1948 of New Zealand)<br>
 _amendment process_: proposed as a resolution by the General Fono; passage requires support by each village and approval by the General Fono<br>
-<strong>note:</strong> Tokelau is a non-self-governing territory and has been administered by New Zealand since 1926; Tokelau is considered "part of New Zealand” under the Tokelau Act 1948, and Tokelauans are New Zealand citizens; in the mid-2000s Tokelau held two referenda on becoming self-governing in free association with New Zealand; the first vote was held in February 2006 but narrowly missed the two-thirds majority required for a change of status, as did a second vote held in 2007; since the self-government referenda, Tokelau has put questions about its constitutional status on hold; it remains a territory of New Zealand, though one which exercises a substantial degree of self-government<br>
+<strong>note:</strong> Tokelau is a non-self-governing territory and has been administered by New Zealand since 1926; Tokelau is considered "part of New Zealand” under the Tokelau Act 1948, and Tokelauans are New Zealand citizens; in the mid-2000s Tokelau held two referenda on becoming self-governing in free association with New Zealand; the first vote was held in February 2006 but narrowly missed the two-thirds majority required for a change of status, as did a second vote held in 2007; since the self-government referenda, Tokelau has put questions about its constitutional status on hold; it remains a territory of New Zealand but exercises a substantial degree of self-government<br>
 
 **Citizenship**<br>
 see New Zealand<br>
@@ -217,20 +211,29 @@ _subordinate courts_: High Court (in New Zealand); Council of Elders or Taupuleg
 **Political parties**<br>
 none<br>
 
-**International organization participation**<br>
-PIF (associate member), SPC, UNESCO (associate), UPU<br>
-
 **Diplomatic representation in the US**<br>
 none (territory of New Zealand)<br>
 
 **Diplomatic representation from the US**<br>
 none (territory of New Zealand)<br>
 
+**International organization participation**<br>
+PIF (associate member), SPC, UNESCO (associate), UPU<br>
+
+**Independence**<br>
+none (territory of New Zealand)<br>
+
+**National holiday**<br>
+Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealand), 6 February (1840)<br>
+
 **Flag description**<br>
 a yellow stylized Tokelauan canoe on a dark blue field sails toward the Southern Cross constellation with four white five-pointed stars at the hoist side; the stars represent the role of Christianity in Tokelauan culture; the stars and canoe together symbolize the country navigating into the future; yellow stands for happiness and peace, and blue for the ocean<br>
 
 **National symbol(s)**<br>
-tuluma (fishing tackle box); national colors: blue, yellow, white<br>
+tuluma (fishing tackle box)<br>
+
+**National colors**<br>
+blue, yellow, white<br>
 
 **National anthem**<br>
 _name_: "Te Atua" (For the Almighty)<br>

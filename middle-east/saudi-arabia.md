@@ -175,8 +175,9 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-6% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 6% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 12.8% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.41 physicians/1,000 population (2023)<br>
@@ -213,14 +214,13 @@ _female_: 2% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 63.2% (2023 est.)<br>
 
-**Education expenditures**<br>
-7.8% of GDP (2020)<br>
+**Education expenditure**<br>
+5.1% of GDP (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 97.6%<br>
-_male_: 98.6%<br>
-_female_: 96% (2020)<br>
+_total population_: 98% (2020 est.)<br>
+_male_: 99% (2020 est.)<br>
+_female_: 96% (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
@@ -296,17 +296,11 @@ _etymology_: the name derives from the Arabic word <em>riyadh</em>, meaning "gar
 **Administrative divisions**<br>
 13 regions (manatiq, singular - mintaqah); Al Bahah, Al Hudud ash Shamaliyah (Northern Border), Al Jawf, Al Madinah al Munawwarah (Medina), Al Qasim, Ar Riyad (Riyadh), Ash Sharqiyah (Eastern), 'Asir, Ha'il, Jazan, Makkah al Mukarramah (Mecca), Najran, Tabuk<br>
 
-**Independence**<br>
-23 September 1932 (unification of the kingdom)<br>
-
-**National holiday**<br>
-Saudi National Day (Unification of the Kingdom), 23 September (1932)<br>
-
 **Legal system**<br>
 Islamic (sharia) system with some elements of Egyptian, French, and customary law; commercial disputes handled by special committees<br>
 
 **Constitution**<br>
-_history_: 1 March 1992 - Basic Law of Government, issued by royal decree, serves as the constitutional framework and is based on the Qur'an and the life and traditions of the Prophet Muhammad<br>
+_history_: 1 March 1992 -- Basic Law of Government, issued by royal decree, serves as the constitutional framework and is based on the Qur'an and the life and traditions of the Prophet Muhammad<br>
 _amendment process_: proposed by the king directly or proposed to the king by the Consultative Assembly or by the Council of Ministers; passage by the king through royal decree<br>
 
 **International law organization participation**<br>
@@ -346,9 +340,6 @@ _subordinate courts_: Court of Appeals; Specialized Criminal Court, first-degree
 **Political parties**<br>
 none<br>
 
-**International organization participation**<br>
-ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, BRICS, CAEU, CP, FAO, G-20, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Reema Bint Bandar Bin Sultan&nbsp;AL SAUD (since 8 July 2019)<br>
 _chancery_: 601 New Hampshire Avenue NW, Washington, DC 20037<br>
@@ -366,12 +357,24 @@ _FAX_: [966] (11) 488-7360<br>
 _email address and website_: <br>RiyadhACS@state.gov<br><br>https://sa.usembassy.gov/<br>
 _consulate(s) general_: Dhahran, Jeddah<br>
 
+**International organization participation**<br>
+ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, BRICS, CAEU, CP, FAO, G-20, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+23 September 1932 (unification of the kingdom)<br>
+
+**National holiday**<br>
+Saudi National Day (Unification of the Kingdom), 23 September (1932)<br>
+
 **Flag description**<br>
 green (traditional Islamic color) with the Shahada, or Muslim creed, in large white Arabic script that translates as, "There is no god but God; Muhammad is the messenger of God;" the text is above a white horizontal saber pointing to the hoist side; design dates to the early 20th century and is closely associated with the Al Saud family who established the kingdom in 1932; the flag has different sides so that the text reads correctly from right to left and the saber points in the proper direction on both sides<br>
 <strong>note:</strong> the only national flag that has an inscription as its principal design; one of three national flags that have different sides -- the others are Moldova and Paraguay<br>
 
 **National symbol(s)**<br>
-palm tree surmounting two crossed swords; national colors: green, white<br>
+palm tree over two crossed swords<br>
+
+**National colors**<br>
+green, white<br>
 
 **National anthem**<br>
 _name_: "Aash Al Maleek" (Long Live Our Beloved King)<br>

@@ -177,8 +177,9 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 0.2% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-9.5% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 9.5% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 16.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 4.35 physicians/1,000 population (2022)<br>
@@ -212,11 +213,11 @@ _female_: 23% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 48.4% (2023 est.)<br>
 
-**Education expenditures**<br>
-5.1% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.7% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 11.1% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: NA<br>
 _total population_: 99%<br>
 _male_: 99%<br>
 _female_: 99% (2011)<br>
@@ -300,12 +301,6 @@ _etymology_: the name may derive from the old Slavic word "praga" or "prah," mea
 **Administrative divisions**<br>
 13 regions (kraje, singular - kraj) and 1 capital city* (hlavni mesto); Jihocesky (South Bohemia), Jihomoravsky (South Moravia), Karlovarsky (Karlovy Vary), Kralovehradecky (Hradec Kralove), Liberecky (Liberec), Moravskoslezsky (Moravia-Silesia), Olomoucky (Olomouc), Pardubicky (Pardubice), Plzensky (Pilsen), Praha (Prague)*, Stredocesky (Central Bohemia), Ustecky (Usti), Vysocina (Highlands), Zlinsky (Zlin)<br>
 
-**Independence**<br>
-1 January 1993 (Czechoslovakia split into the Czech Republic and Slovakia); note - although 1 January is the day the Czech Republic came into being, the Czechs commemorate 28 October 1918, the day the former Czechoslovakia declared its independence from the Austro-Hungarian Empire, as their independence day<br>
-
-**National holiday**<br>
-Czechoslovak Founding Day, 28 October (1918)<br>
-
 **Legal system**<br>
 new civil code enacted in 2014, replacing civil code of 1964 based on former Austro-Hungarian civil codes and socialist theory&nbsp;<br>
 
@@ -366,9 +361,6 @@ _subordinate courts_: High Court; regional and district courts<br>
 **Political parties**<br>
 Action of Dissatisfied Citizens or ANO (<em lang="cs">Akce nespokojených občanů)<br></em>Christian and Democratic Union - Czechoslovak People's Party or<em lang="cs"> KDU-ČSL</em><br>Civic Democratic Party or ODS<br>Communist Party of Bohemia and Moravia or KSČM<br>Czech Pirate Party or Piráti<br>ForMOST or ProMOST<br>Freedom and Direct Democracy or SPD<br>Independents or NEZ<br>Mayors and Independents or STAN<br>Mayors for the Liberec Region or SLK<br>Ostravak<br>Přísaha<br>Senator 21 or SEN 21<br>Social Democracy SOCDEM<br>Svobodni<br>Tradition Responsibility Prosperity 09 or TOP 09<br>Tábor 2020 or T2020<br>United Democrats - Association of Independents or SD-SN<br>
 
-**International organization participation**<br>
-Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Miloslav STA&Scaron;EK (since 16 September 2022)<br>
 _chancery_: 3900 Spring of Freedom Street NW, Washington, DC 20008-3803<br>
@@ -385,12 +377,25 @@ _telephone_: [420] 257-022-000<br>
 _FAX_: [420] 257-022-809<br>
 _email address and website_: <br>ACSPrg@state.gov<br><br>https://cz.usembassy.gov/<br>
 
+**International organization participation**<br>
+Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+1 January 1993 (Czechoslovakia split into the Czech Republic and Slovakia)<br>
+<strong>note:</strong> although 1 January is the day the Czech Republic came into being, the Czechs commemorate 28 October 1918, the day the former Czechoslovakia declared its independence from the Austro-Hungarian Empire, as their independence day<br>
+
+**National holiday**<br>
+Czechoslovak Founding Day, 28 October (1918)<br>
+
 **Flag description**<br>
 two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side<br>
 <strong>note:</strong> combines the white and red colors of Bohemia with blue from the arms of Moravia; identical to the flag of the former Czechoslovakia<br>
 
 **National symbol(s)**<br>
-silver (or white), double-tailed, rampant lion; national colors: white, red, blue<br>
+silver (or white) double-tailed rampant lion<br>
+
+**National colors**<br>
+white, red, blue<br>
 
 **National anthem**<br>
 _name_: "Kde domov muj?" (Where is My Home?)<br>

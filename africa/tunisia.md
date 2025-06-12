@@ -172,8 +172,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 2.7% of population<br>
 _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-7% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 7% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 11.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.32 physicians/1,000 population (2021)<br>
@@ -215,14 +216,14 @@ _women married by age 15_: 0% (2018)<br>
 _women married by age 18_: 1.5% (2018)<br>
 _men married by age 18_: 0% (2018)<br>
 
-**Education expenditures**<br>
-7.3% of GDP (2016 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 6.7% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 17.8% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 82.7%<br>
-_male_: 89.1%<br>
-_female_: 82.7% (2021)<br>
+_total population_: 86.2% (2023 est.)<br>
+_male_: 92.7% (2023 est.)<br>
+_female_: 80.1% (2023 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -295,12 +296,6 @@ _etymology_: the origin of the ancient name is unclear; it is sometimes associat
 **Administrative divisions**<br>
 24 governorates (wilayat, singular - wilayah); Beja (Bajah), Ben Arous (Bin 'Arus), Bizerte (Banzart), Gabes (Qabis), Gafsa (Qafsah), Jendouba (Jundubah), Kairouan (Al Qayrawan), Kasserine (Al Qasrayn), Kebili (Qibili), Kef (Al Kaf), L'Ariana (Aryanah), Mahdia (Al Mahdiyah), Manouba (Manubah), Medenine (Madanin), Monastir (Al Munastir), Nabeul (Nabul), Sfax (Safaqis), Sidi Bouzid (Sidi Bu Zayd), Siliana (Silyanah), Sousse (Susah), Tataouine (Tatawin), Tozeur (Tawzar), Tunis, Zaghouan (Zaghwan)<br>
 
-**Independence**<br>
-20 March 1956 (from France)<br>
-
-**National holiday**<br>
-Independence Day, 20 March (1956); Revolution and Youth Day, 14 January (2011)<br>
-
 **Legal system**<br>
 mixed system of civil law, based on the French civil code and Islamic (sharia) law; Supreme Court reviews some legislative acts in joint session<br>
 
@@ -361,9 +356,6 @@ _subordinate courts_: Courts of Appeal; administrative courts; Court of Audit; H
 Afek Tounes<br>Al Badil Al-Tounisi (The Tunisian Alternative)<br>Al-Amal Party<br>Call for Tunisia Party (Nidaa Tounes)<br>Current of Love (formerly the Popular Petition party)<br>Democratic Current<br>Democratic Patriots' Unified Party<br>Dignity Coalition or Al Karama Coalition<br>Ennahda Movement (The Renaissance)<br>Ettakatol Party<br>Free Destourian Party or PDL<br>Green Tunisia Party<br>Harakat Hak<br>Heart of Tunisia (Qalb Tounes)<br>July 25 Movement<br>Labor and Achievement Party<br>Long Live Tunisia (Tahya Tounes)<br>Movement of Socialist Democrats or MDS<br>National Coalition Party<br>National Salvation Front<br>New Carthage Party<br>Party of the Democratic Arab Vanguard<br>People's Movement<br>Republican Party (Al Joumhouri)<br>The Movement Party (Hizb Harak)<br>Third Republic Party<br>Tunisian Ba'ath Movement<br>Voice of the Republic<br>Workers' Party<br>
 <strong>note:</strong> President SAIED in 2022 issued a decree that forbids political parties' participation in legislative elections; although parties remain a facet of Tunisian political life, they have lost significant influence<br>
 
-**International organization participation**<br>
-ABEDA, AfDB, AFESD, AIIB, AMF, AMU, AU, BSEC (observer), CAEU, CD, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, OSCE (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Hanene&nbsp;TAJOURI&nbsp;BESSASSI (since 1 December 2021)<br>
 _chancery_: 1515 Massachusetts Avenue NW, Washington, DC 20005<br>
@@ -379,11 +371,23 @@ _telephone_: [216] 71-107-000<br>
 _FAX_: [216] 71-107-090<br>
 _email address and website_: <br>tuniswebsitecontact@state.gov<br><br>https://tn.usembassy.gov/<br>
 
+**International organization participation**<br>
+ABEDA, AfDB, AFESD, AIIB, AMF, AMU, AU, BSEC (observer), CAEU, CD, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, OSCE (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+20 March 1956 (from France)<br>
+
+**National holiday**<br>
+Independence Day, 20 March (1956); Revolution and Youth Day, 14 January (2011)<br>
+
 **Flag description**<br>
 red with a white disk in the center with a red crescent around a five-pointed red star; resembles the Ottoman flag (red banner with white crescent and star), a reference to Tunisia's history as part of the Ottoman Empire; red stands for martyrs' blood shed the fight against oppression, and white for peace; the crescent and star are traditional symbols of Islam<br>
 
 **National symbol(s)**<br>
-encircled red crescent moon and five-pointed star; national colors: red, white<br>
+red crescent moon and five-pointed star in a white circle<br>
+
+**National colors**<br>
+red, white<br>
 
 **National anthem**<br>
 _name_: "Humat Al Hima" (Defenders of the Homeland)<br>

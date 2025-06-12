@@ -170,8 +170,9 @@ _unimproved: urban_: urban: 0.5% of population<br>
 _unimproved: rural_: rural: 1.8% of population<br>
 _unimproved: total_: total: 0.9% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-5.7% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.7% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 13.1% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.36 physicians/1,000 population (2023)<br>
@@ -208,11 +209,11 @@ _women married by age 15_: 8.8% (2018)<br>
 _women married by age 18_: 36% (2018)<br>
 _men married by age 18_: 19.6% (2018)<br>
 
-**Education expenditures**<br>
-5% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.9% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 8.6% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 95%<br>
 _male_: 96.5%<br>
 _female_: 93.4% (2021)<br>
@@ -282,12 +283,6 @@ _etymology_: the name comes from the Guaraní words <em>para </em>(water or rive
 **Administrative divisions**<br>
 10 districts (distrikten, singular - distrikt); Brokopondo, Commewijne, Coronie, Marowijne, Nickerie, Para, Paramaribo, Saramacca, Sipaliwini, Wanica<br>
 
-**Independence**<br>
-25 November 1975 (from the Netherlands)<br>
-
-**National holiday**<br>
-Independence Day, 25 November (1975)<br>
-
 **Legal system**<br>
 civil law system influenced by Dutch civil law<br>
 
@@ -335,9 +330,6 @@ _subordinate courts_: cantonal courts<br>
 **Political parties**<br>
 Brotherhood and Unity in Politics or BEP<br>Democratic Alternative '91 or DA91<br>General Liberation and Development Party or ABOP<br>National Democratic Party or NDP<br>National Party of Suriname or NPS<br>Party for Democracy and Development in Unity or DOE<br>Party for National Unity and Solidarity or KTPI<br>People's Alliance (Pertjajah Luhur) or PL<br>Progressive Workers' and Farmers' Union or PALU<br>Progressive Reform Party or VHP<br>Reform and Renewal Movement or HVB<br>Surinamese Labor Party or SPA<br>
 
-**International organization participation**<br>
-ACP, ACS, AOSIS, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OIC, OPANAL, OPCW, PCA, Petrocaribe, UN, UNASUR, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jan Marten Willem SCHALKWIJK (since 19 April 2022)<br>
 _chancery_: 4301 Connecticut Avenue NW, Suite 400, Washington, DC 20008<br>
@@ -354,11 +346,23 @@ _telephone_: [597] 556-700<br>
 _FAX_: [597] 551-524<br>
 _email address and website_: <br>caparamar@state.gov<br><br>https://sr.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, ACS, AOSIS, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OIC, OPANAL, OPCW, PCA, Petrocaribe, UN, UNASUR, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+25 November 1975 (from the Netherlands)<br>
+
+**National holiday**<br>
+Independence Day, 25 November (1975)<br>
+
 **Flag description**<br>
 five horizontal bands of green (top, double-width), white, red (quadruple-width), white, and green (double-width); a five-pointed yellow star is centered in the red band; red stands for progress and love, green for hope and fertility, and white for peace, justice, and freedom; the star represents the unity of ethnic groups<br>
 
 **National symbol(s)**<br>
-royal palm, faya lobi (flower); national colors: green, white, red, yellow<br>
+royal palm, faya lobi (flower)<br>
+
+**National colors**<br>
+green, white, red, yellow<br>
 
 **National anthem**<br>
 _name_: "God zij met ons Suriname!" (God Be With Our Suriname)<br>

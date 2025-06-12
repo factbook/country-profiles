@@ -177,8 +177,9 @@ _unimproved: urban_: urban: 7.5% of population<br>
 _unimproved: rural_: rural: 20% of population<br>
 _unimproved: total_: total: 16.9% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-4.7% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 4.7% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 4.9% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.19 physicians/1,000 population (2022)<br>
@@ -217,14 +218,14 @@ _women married by age 15_: 7.3% (2016)<br>
 _women married by age 18_: 34% (2016)<br>
 _men married by age 18_: 5.5% (2016)<br>
 
-**Education expenditures**<br>
-2.7% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.6% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 8.5% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 79%<br>
-_male_: 84%<br>
-_female_: 74.3% (2021)<br>
+_total population_: 69.1% (2016 est.)<br>
+_male_: 78.5% (2016 est.)<br>
+_female_: 61% (2016 est.)<br>
 
 ## Environment
 
@@ -249,9 +250,6 @@ _other_: 16.9% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 26.8% of total population (2023)<br>
 _rate of urbanization_: 5.41% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em><em>due to weather extremes, </em></em><em>civil insecurity, and high food prices </em><em>- </em>the latest analysis, conducted in the northeastern agro-pastoral Karamoja region, estimates that about 582,000 million people are facing acute food insecurity between April and August 2023; these conditions reflect the adverse impact of weather shocks, crop and livestock diseases, civil insecurity and high food prices; the significant deterioration of the food security situation during the last 12 months in Karamoja Region is mainly due to protracted insecurity that has caused livelihood losses and consecutive poor local harvests; in 2023, the national average price of maize increased by 20% between January and May 2023, with seasonal patterns compounded by a fast depletion of stocks due to a drought‑reduced production in 2022 (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 31.31 micrograms per cubic meter (2019 est.)<br>
@@ -299,12 +297,6 @@ _etymology_: the name is said to come from an African antelope, the impala<br>
 **Administrative divisions**<br>
 134 districts and 1 capital city*; Abim, Adjumani, Agago, Alebtong, Amolatar, Amudat, Amuria, Amuru, Apac, Arua, Budaka, Bududa, Bugiri, Bugweri, Buhweju, Buikwe, Bukedea, Bukomansimbi, Bukwo, Bulambuli, Buliisa, Bundibugyo, Bunyangabu, Bushenyi, Busia, Butaleja, Butambala, Butebo, Buvuma, Buyende, Dokolo, Gomba, Gulu, Hoima, Ibanda, Iganga, Isingiro, Jinja, Kaabong, Kabale, Kabarole, Kaberamaido, Kagadi, Kakumiro, Kalaki, Kalangala, Kaliro, Kalungu, Kampala*, Kamuli, Kamwenge, Kanungu, Kapchorwa, Kapelebyong, Karenga, Kasese, Kasanda, Katakwi, Kayunga, Kazo, Kibaale, Kiboga, Kibuku, Kikuube, Kiruhura, Kiryandongo, Kisoro, Kitagwenda, Kitgum, Koboko, Kole, Kotido, Kumi, Kwania, Kween, Kyankwanzi, Kyegegwa, Kyenjojo, Kyotera, Lamwo, Lira, Luuka, Luwero, Lwengo, Lyantonde, Madi-Okollo, Manafwa, Maracha, Masaka, Masindi, Mayuge, Mbale, Mbarara, Mitooma, Mityana, Moroto, Moyo, Mpigi, Mubende, Mukono, Nabilatuk, Nakapiripirit, Nakaseke, Nakasongola, Namayingo, Namisindwa, Namutumba, Napak, Nebbi, Ngora, Ntoroko, Ntungamo, Nwoya, Obongi, Omoro, Otuke, Oyam, Pader, Pakwach, Pallisa, Rakai, Rubanda, Rubirizi, Rukiga, Rukungiri, Rwampara, Sembabule, Serere, Sheema, Sironko, Soroti, Tororo, Wakiso, Yumbe, Zombo<br>
 
-**Independence**<br>
-9 October 1962 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 9 October (1962)<br>
-
 **Legal system**<br>
 mixed system of English common law and customary law<br>
 
@@ -351,9 +343,6 @@ _subordinate courts_: Court of Appeal (also acts as the Constitutional Court); H
 **Political parties**<br>
 Democratic Party or DP<br>Forum for Democratic Change or FDC<br>Justice Forum or JEEMA<br>National Resistance Movement or NRM<br>National Unity Platform<br>People's Progressive Party or PPP<br>Uganda People's Congress or UPC<br>
 
-**International organization participation**<br>
-ACP, AfDB, ATMIS, AU, C, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITC, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, PCA, UN, UNCDF, UNCTAD, UNECA, UNDP, UNFPA, UNESCO, UNHCR, UNICEF, UNIDO, UNISFA, UNOCI, UNOPS, UNSOM, UNWTO, UPU, WCO, WFP, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Robie KAKONGE (since 12 December 2022)<br>
 _chancery_: 5911 16th Street NW, Washington, DC 20011<br>
@@ -369,11 +358,23 @@ _telephone_: [256] (0) 312-306-001<br>
 _FAX_: [256] (0) 414-259-794<br>
 _email address and website_: <br>KampalaWebContact@state.gov<br><br>https://ug.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, ATMIS, AU, C, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITC, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, PCA, UN, UNCDF, UNCTAD, UNECA, UNDP, UNFPA, UNESCO, UNHCR, UNICEF, UNIDO, UNISFA, UNOCI, UNOPS, UNSOM, UNWTO, UPU, WCO, WFP, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+9 October 1962 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 9 October (1962)<br>
+
 **Flag description**<br>
 six equal horizontal bands of black (top), yellow, red, black, yellow, and red; a white disk is at the center and shows a grey crowned crane (the national symbol); black stands for the African people, yellow for sunshine and vitality, and red for African brotherhood<br>
 
 **National symbol(s)**<br>
-grey crowned crane; national colors: black, yellow, red<br>
+grey crowned crane<br>
+
+**National colors**<br>
+black, yellow, red<br>
 
 **National anthem**<br>
 _name_: "Oh Uganda, Land of Beauty!"<br>
@@ -643,7 +644,7 @@ Uganda People's Defense Force (UPDF): Land Force (includes marines), Air Force, 
 1.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 45-50,000 active Defense Forces&nbsp; (2025)<br>
+approximately 45,000 active Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the UPDF's inventory is mix of older and some more modern weapons and equipment; it is comprised mostly of Russian/Soviet-era arms with smaller quantities of Chinese, Israeli, North Korean, South African, UK, US, and domestically-produced items; Uganda has a small defense industry that assembles or manufactures light armored vehicles and performs maintenance on some military equipment, including its Russian-made helicopters (2024)<br>

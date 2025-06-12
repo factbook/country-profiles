@@ -159,8 +159,9 @@ _unimproved: urban_: urban: 0.5% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-3.8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 3.8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 6.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.55 physicians/1,000 population (2022)<br>
@@ -194,14 +195,14 @@ _female_: 9.8% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 62.8% (2023 est.)<br>
 
-**Education expenditures**<br>
-7% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.8% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 17.2% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 70.9%<br>
-_male_: 77.9%<br>
-_female_: 62.8% (2021)<br>
+_total population_: 67% (2017 est.)<br>
+_male_: 75% (2017 est.)<br>
+_female_: 57% (2017 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -271,12 +272,6 @@ _etymology_: the origins of the name are unclear; the traditional explanation, d
 **Administrative divisions**<br>
 20 districts (dzongkhag, singular and plural); Bumthang, Chhukha, Dagana, Gasa, Haa, Lhuentse, Mongar, Paro, Pemagatshel, Punakha, Samdrup Jongkhar, Samtse, Sarpang, Thimphu, Trashigang, Trashi Yangtse, Trongsa, Tsirang, Wangdue Phodrang, Zhemgang<br>
 
-**Independence**<br>
-17 December 1907 (became a unified kingdom under its first hereditary king); 8 August 1949 (Treaty of Friendship with India maintains Bhutanese independence)<br>
-
-**National holiday**<br>
-National Day (Ugyen WANGCHUCK became first hereditary king), 17 December (1907)<br>
-
 **Legal system**<br>
 civil law based on Buddhist religious law<br>
 
@@ -336,9 +331,6 @@ _subordinate courts_: High Court (first appellate court); District or Dzongkhag 
 **Political parties**<br>
 <p>Bhutan Peace and Prosperity Party (Druk Phuensum Tshogpa) or DPT<br>Bhutan Tendrel Party or BTP<br>Druk Thuendrel Tshogpa or DTT<br>People's Democratic Party or PDP<br>United Party of Bhutan (Druk Nyamrup Tshogpa) or DNT</p><br>
 
-**International organization participation**<br>
-ADB, BIMSTEC, CP, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IMF, Interpol, IOC, IOM (observer), IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador/Permanent Representative to the United Nations (vacant); Charg&eacute; d'Affaires Phuntsho NORBU (since October 2022); note - also serving as the Deputy Permanent Representative to the UN<br>
 _telephone_: [1] (212) 682-2371<br>
@@ -350,11 +342,23 @@ _consulate(s) general_: 343 East, 43rd Street, New York, NY 10017<br>
 **Diplomatic representation from the US**<br>
 _embassy_: none; frequent informal contact is maintained via the US embassy in New Delhi (India) and Bhutan's Permanent Mission to the UN<br>
 
+**International organization participation**<br>
+ADB, BIMSTEC, CP, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IMF, Interpol, IOC, IOM (observer), IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
+
+**Independence**<br>
+17 December 1907 (became a unified kingdom under its first hereditary king); 8 August 1949 (Treaty of Friendship with India maintains Bhutanese independence)<br>
+
+**National holiday**<br>
+National Day (Ugyen WANGCHUCK became first hereditary king), 17 December (1907)<br>
+
 **Flag description**<br>
 divided diagonally from the lower hoist-side corner; the upper triangle is yellow and the lower triangle is orange; centered along the dividing line is a large black and white dragon facing away from the hoist side; the dragon, called the Druk (Thunder Dragon), is the national emblem; its white color stands for purity, and the jewels in its claws symbolize wealth; the background colors represent spiritual and secular powers in Bhutan, with the orange standing for Buddhism and the yellow for the ruling dynasty<br>
 
 **National symbol(s)**<br>
-thunder dragon known as Druk Gyalpo; national colors: orange, yellow<br>
+mythical thunder dragon (<em>druk</em>)<br>
+
+**National colors**<br>
+orange, yellow<br>
 
 **National anthem**<br>
 _name_: "Druk tsendhen" (The Thunder Dragon Kingdom)<br>

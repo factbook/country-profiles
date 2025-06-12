@@ -177,8 +177,9 @@ _unimproved: urban_: urban: 1.6% of population<br>
 _unimproved: rural_: rural: 35.8% of population<br>
 _unimproved: total_: total: 12.4% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-6.9% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 6.9% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 9.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 4.13 physicians/1,000 population (2022)<br>
@@ -220,14 +221,14 @@ _women married by age 15_: 0.9% (2018)<br>
 _women married by age 18_: 12% (2018)<br>
 _men married by age 18_: 2.1% (2018)<br>
 
-**Education expenditures**<br>
-4.7% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.7% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 10% national budget (2021 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 99.2%<br>
-_male_: 99.1%<br>
-_female_: 99.2% (2020)<br>
+_total population_: 98.7% (2022 est.)<br>
+_male_: 98.5% (2022 est.)<br>
+_female_: 98.9% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -305,12 +306,6 @@ _etymology_: the name means "red hero" in Mongolian and honors national hero Dam
 **Administrative divisions**<br>
 21 provinces (aymguud, singular - aymag) and 1 municipality* (singular - hot); Arhangay, Bayanhongor, Bayan-Olgiy, Bulgan, Darhan-Uul, Dornod, Dornogovi, Dundgovi, Dzavhan (Zavkhan), Govi-Altay, Govisumber, Hentiy, Hovd, Hovsgol, Omnogovi, Orhon, Ovorhangay, Selenge, Suhbaatar, Tov, Ulaanbaatar*, Uvs<br>
 
-**Independence**<br>
-29 December 1911 (independence declared from China; in actuality, autonomy attained); 11 July 1921 (from China)<br>
-
-**National holiday**<br>
-Naadam (games) holiday (commemorates independence from China in the 1921 Revolution), 11-15 July; Constitution Day (marks the date that the Mongolian People's Republic was created under a new constitution), 26 November (1924)<br>
-
 **Legal system**<br>
 civil law system influenced by Soviet and Romano-Germanic systems; constitution ambiguous on judicial review of legislative acts<br>
 
@@ -357,9 +352,6 @@ _subordinate courts_: aimag (provincial) and capital city appellate courts; soum
 **Political parties**<br>
 Democratic Party or DP<br>Mongolian People's Party or MPP <br>National Coalition (consists of Mongolian Green Party or MGP and the Mongolian National Democratic Party or MNDP)<br>National Labor Party or HUN <br>Civil Will-Green Party or CWGP<br>
 
-**International organization participation**<br>
-ADB, ARF, CD, CICA, CP, EBRD, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, MONUSCO, NAM, OPCW, OSCE, SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMISS, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador BATBAYAR Ulziidelger (since 1 December 2021)<br>
 _chancery_: 2833 M Street NW, Washington, DC 20007<br>
@@ -376,11 +368,23 @@ _telephone_: [976] 7007-6001<br>
 _FAX_: [976] 7007-6174<br>
 _email address and website_: <br>UlaanbaatarACS@state.gov<br><br>https://mn.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB, ARF, CD, CICA, CP, EBRD, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, MONUSCO, NAM, OPCW, OSCE, SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMISS, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+29 December 1911 (independence declared from China; in actuality, autonomy attained); 11 July 1921 (from China)<br>
+
+**National holiday**<br>
+Naadam (games) holiday (commemorates independence from China in the 1921 Revolution), 11-15 July; Constitution Day (marks the date that the Mongolian People's Republic was created under a new constitution), 26 November (1924)<br>
+
 **Flag description**<br>
 three equal vertical bands of red (hoist side), blue, and red; centered on the hoist-side red band in yellow is the national emblem, the <em>soyombo,</em> which is an abstract geometric representation of fire, sun, moon, earth, water, and the yin-yang symbol; blue stands for the sky, and red for progress and prosperity<br>
 
 **National symbol(s)**<br>
-soyombo emblem; national colors: red, blue, yellow<br>
+Soyombo character (from the Soyombo writing system)<br>
+
+**National colors**<br>
+red, blue, yellow<br>
 
 **National anthem**<br>
 _name_: "Mongol ulsyn toriin duulal" (National Anthem of Mongolia)<br>

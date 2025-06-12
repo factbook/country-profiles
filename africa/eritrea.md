@@ -170,8 +170,9 @@ _unimproved: urban_: urban: 26.8% of population<br>
 _unimproved: rural_: rural: 46.7% of population<br>
 _unimproved: total_: total: 42.2% of population (2015 est.)<br>
 
-**Current health expenditure**<br>
-4.2% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 4.2% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 2.4% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.09 physicians/1,000 population (2022)<br>
@@ -205,11 +206,7 @@ _female_: 0.2% (2020 est.)<br>
 **Currently married women (ages 15-49)**<br>
 52.3% (2023 est.)<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 76.6%<br>
 _male_: 84.4%<br>
 _female_: 68.9% (2018)<br>
@@ -281,12 +278,6 @@ _etymology_: the name's origin is unclear; according to Tigrinya oral tradition,
 **Administrative divisions**<br>
 6 regions (zobatat, singular - zoba); 'Anseba, Debub (South), Debubawi K'eyyih Bahri (Southern Red Sea), Gash-Barka, Ma'ikel (Central), Semienawi K'eyyih Bahri (Northern Red Sea)<br>
 
-**Independence**<br>
-24 May 1993 (from Ethiopia)<br>
-
-**National holiday**<br>
-Independence Day, 24 May (1991)<br>
-
 **Legal system**<br>
 mixed system of civil, customary, and Islamic religious law<br>
 
@@ -331,9 +322,6 @@ _subordinate courts_: regional/zonal courts; community courts; special courts; s
 **Political parties**<br>
 People's Front for Democracy and Justice or PFDJ (the only party recognized by the government)<br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), IDA, IFAD, IFC, IFRCS (observer), IGAD, ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITU, ITUC (NGOs), LAS (observer), MIGA, NAM, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Berhane Gebrehiwet SOLOMON (since 15 March 2011)<br>
 _chancery_: 1708 New Hampshire Avenue NW, Washington, DC 20009<br>
@@ -349,12 +337,24 @@ _telephone_: [291] (1) 12-00-04<br>
 _FAX_: [291] (1) 12-75-84<br>
 _email address and website_: <br>consularasmara@state.gov<br><br>https://er.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), IDA, IFAD, IFC, IFRCS (observer), IGAD, ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITU, ITUC (NGOs), LAS (observer), MIGA, NAM, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO<br>
+
+**Independence**<br>
+24 May 1993 (from Ethiopia)<br>
+
+**National holiday**<br>
+Independence Day, 24 May (1991)<br>
+
 **Flag description**<br>
 a red isosceles triangle (based on the hoist side) divides the flag into two right triangles; the upper triangle is green, the lower is blue; a gold wreath encircling a gold olive branch is centered on the hoist side of the red triangle; green stands for the country's agriculture economy, red for the blood shed in the fight for freedom, and blue for the sea's bounty; the shape of the red triangle mimics the shape of the country<br>
 <strong>note:</strong> one of four national flags that reflect the shape of the country in the flag design; the others are Bosnia and Herzegovina, Brazil, and Vanuatu<br>
 
 **National symbol(s)**<br>
-camel; national colors: green, red, blue<br>
+camel<br>
+
+**National colors**<br>
+green, red, blue<br>
 
 **National anthem**<br>
 _name_: "Ertra, Ertra, Ertra" (Eritrea, Eritrea, Eritrea)<br>

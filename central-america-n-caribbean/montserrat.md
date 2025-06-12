@@ -169,8 +169,9 @@ _unimproved: total_: total: NA<br>
 **Currently married women (ages 15-49)**<br>
 35.8% (2023 est.)<br>
 
-**Education expenditures**<br>
-5.4% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 7.2% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 7.7% national budget (2024 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -225,12 +226,6 @@ _etymology_: now entirely deserted because of volcanic activity, the city was na
 **Administrative divisions**<br>
 3 parishes; Saint Anthony, Saint Georges, Saint Peter<br>
 
-**Independence**<br>
-none (overseas territory of the UK)<br>
-
-**National holiday**<br>
-Birthday of Queen ELIZABETH II, usually celebrated the Monday after the second Saturday in June (1926)<br>
-
 **Legal system**<br>
 English common law<br>
 
@@ -270,14 +265,20 @@ _subordinate courts_: magistrate's court<br>
 **Political parties**<br>
 Movement for Change and Prosperity or MCAP <br>People's Democratic Movement or PDM<br>
 
-**International organization participation**<br>
-Caricom, CDB, Interpol (subbureau), OECS, UPU<br>
-
 **Diplomatic representation in the US**<br>
 none (overseas territory of the UK)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (overseas territory of the UK); alternate contact is the US Embassy in Barbados [1] (246) 227-4000; US Embassy Bridgetown, Wildey Business Park, St. Michael BB 14006, Barbados, WI<br>
+
+**International organization participation**<br>
+Caricom, CDB, Interpol (subbureau), OECS, UPU<br>
+
+**Independence**<br>
+none (overseas territory of the UK)<br>
+
+**National holiday**<br>
+Birthday of Queen ELIZABETH II, usually celebrated the Monday after the second Saturday in June (1926)<br>
 
 **Flag description**<br>
 blue with the UK flag in the upper hoist-side quadrant and the Montserratian coat of arms centered in the outer half of the flag; the arms show a woman in a green dress (Erin, the female personification of Ireland) standing beside a yellow harp (a symbol of Ireland) and embracing a large dark cross with her right arm; blue represents awareness, trustworthiness, determination, and righteousness<br>

@@ -182,8 +182,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 12.5% of population<br>
 _unimproved: total_: total: 2.3% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-9% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 9% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 15.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.54 physicians/1,000 population (2023)<br>
@@ -225,14 +226,13 @@ _women married by age 15_: 4.9% (2015)<br>
 _women married by age 18_: 23.4% (2015)<br>
 _men married by age 18_: 6.7% (2015)<br>
 
-**Education expenditures**<br>
-4.9% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+5.3% of GDP (2020 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 95.6%<br>
-_male_: 95.4%<br>
-_female_: 95.9% (2020)<br>
+_total population_: 96% (2020 est.)<br>
+_male_: 95% (2020 est.)<br>
+_female_: 96% (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -311,12 +311,6 @@ _etymology_: originally named Santa Fe de Bacat&aacute; in 1538, after the Chibc
 **Administrative divisions**<br>
 32 departments (departamentos, singular - departamento) and 1 capital district* (distrito capital); Amazonas, Antioquia, Arauca, Atlantico, Bogota*, Bolivar, Boyaca, Caldas, Caqueta, Casanare, Cauca, Cesar, Choco, Cordoba, Cundinamarca, Guainia, Guaviare, Huila, La Guajira, Magdalena, Meta, Narino, Norte de Santander, Putumayo, Quindio, Risaralda, Archipielago de San Andres, Providencia y Santa Catalina (colloquially San Andres y Providencia), Santander, Sucre, Tolima, Valle del Cauca, Vaupes, Vichada<br>
 
-**Independence**<br>
-20 July 1810 (from Spain)<br>
-
-**National holiday**<br>
-Independence Day, 20 July (1810)<br>
-
 **Legal system**<br>
 civil law system influenced by the Spanish and French civil codes<br>
 
@@ -379,9 +373,6 @@ _subordinate courts_: Superior Tribunals (appellate courts for each of the judic
 Alternative Democratic Pole or PDA<br>Citizens Option (Opcion Ciudadana) or OC (formerly known as the National Integration Party or PIN)<br>The Commons (formerly People's Alternative Revolutionary Force or FARC)<br>Conservative Party or PC<br>Democratic Center Party or CD<br>Fair and Free Colombia (Colombia Justa Libres)<br>Green Alliance <br>Historic Pact for Colombia or PHxC (coalition composed of several left-leaning political parties and social movements)<br>Humane Colombia<br>Independent Movement of Absolute Renovation or MIRA<br>League of Anti-Corruption Rulers or LIGA<br>Liberal Party or PL<br>People's Alternative Revolutionary Force or FARC<br>Radical Change or CR<br>Team for Colombia - also known as the Experience Coalition or Coalition of the Regions (coalition composed of center-right and right-wing parties)<br>Union Party for the People or U Party<br>We Believe Colombia or CREEMOS<br>
 <strong>note:  </strong>Colombia has numerous smaller political parties and movements<br>
 
-**International organization participation**<br>
-ACS, BCIE, BIS, CABEI, CAN, Caricom (observer), CD, CDB, CELAC, EITI (candidate country), FAO, G-3, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Daniel GARC&Iacute;A-PE&Ntilde;A JARAMILLO (since 18 September 2024)<br>
 _chancery_: 1724 Massachusetts Avenue NW, Washington, DC 20036<br>
@@ -398,12 +389,24 @@ _telephone_: [57] (601) 275-2000<br>
 _FAX_: [57] (601) 275-4600<br>
 _email address and website_: <br>ACSBogota@state.gov<br><br>https://co.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACS, BCIE, BIS, CABEI, CAN, Caricom (observer), CD, CDB, CELAC, EITI (candidate country), FAO, G-3, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+20 July 1810 (from Spain)<br>
+
+**National holiday**<br>
+Independence Day, 20 July (1810)<br>
+
 **Flag description**<br>
 three horizontal bands of yellow (top, double-width), blue, and red; various interpretations of the colors exist; one interpretation has yellow for the gold in Colombia's land, blue for the sea, and red for the blood spilled in attaining freedom; alternatively, the colors have been described as representing sovereignty and justice (yellow), loyalty and vigilance (blue), and valor and generosity (red); another interpretation has the colors standing for liberty, equality, and fraternity<br>
 <strong>note:</strong> similar to the flag of Ecuador, which is longer and has the Ecuadorian coat of arms superimposed in the center<br>
 
 **National symbol(s)**<br>
-Andean condor; national colors: yellow, blue, red<br>
+Andean condor<br>
+
+**National colors**<br>
+yellow, blue, red<br>
 
 **National anthem**<br>
 _name_: "Himno Nacional de la Republica de Colombia" (National Anthem of the Republic of Colombia)<br>

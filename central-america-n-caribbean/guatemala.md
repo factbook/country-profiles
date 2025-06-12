@@ -176,8 +176,9 @@ _unimproved: urban_: urban: 2.1% of population<br>
 _unimproved: rural_: rural: 8% of population<br>
 _unimproved: total_: total: 5% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-6.9% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 6.9% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 16.9% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.28 physicians/1,000 population (2020)<br>
@@ -219,14 +220,14 @@ _women married by age 15_: 6.2% (2015)<br>
 _women married by age 18_: 29.5% (2015)<br>
 _men married by age 18_: 9.6% (2015)<br>
 
-**Education expenditures**<br>
-3.1% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.2% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 18.9% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 83.3%<br>
-_male_: 87.7%<br>
-_female_: 79.3% (2021)<br>
+_total population_: 83% (2022 est.)<br>
+_male_: 88.4% (2022 est.)<br>
+_female_: 78.6% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -297,12 +298,6 @@ _etymology_: the Spanish conquistadors' first capital (established in 1524) was 
 **Administrative divisions**<br>
 22 departments (departamentos, singular - departamento); Alta Verapaz, Baja Verapaz, Chimaltenango, Chiquimula, El Progreso, Escuintla, Guatemala, Huehuetenango, Izabal, Jalapa, Jutiapa, Peten, Quetzaltenango, Quiche, Retalhuleu, Sacatepequez, San Marcos, Santa Rosa, Solola, Suchitepequez, Totonicapan, Zacapa<br>
 
-**Independence**<br>
-15 September 1821 (from Spain)<br>
-
-**National holiday**<br>
-Independence Day, 15 September (1821)<br>
-
 **Legal system**<br>
 civil law system; judicial review of legislative acts<br>
 
@@ -351,9 +346,6 @@ _subordinate courts_: Appellate Courts of Accounts, Contentious Administrative T
 **Political parties**<br>
 Bienestar Nacional or BIEN<br>Blue Party (Partido Azul) or Blue<br>CABAL<br>Cambio<br>Citizen Prosperity or PC<br>Commitment, Renewal, and Order or CREO<br>Elephant Community (Comunidad Elefante) or Elephant<br>Everyone Together for Guatemala or TODOS<br>Guatemalan National Revolutionary Unity or URNG-MAIZ or URNG<br>Humanist Party of Guatemala or PHG<br>Movement for the Liberation of Peoples or MLP<br>Movimiento Semilla or SEMILLA<br>National Advancement Party or PAN<br>National Convergence Front or FCN-NACION<br>National Unity for Hope or UNE<br>Nationalist Change Union or UCN (dissolved 16 December 2021)<br>Nosotros or PPN<br>PODEMOS<br>Political Movement Winaq or Winaq<br>TODOS<br>Value or VALOR<br>Vamos por una Guatemala Diferente or VAMOS<br>Victory or VICTORIA<br>Vision with Values or VIVA<br>Will, Opportunity and Solidarity (Voluntad, Oportunidad y Solidaridad) or VOS<br>
 
-**International organization participation**<br>
-ACS, BCIE, CACM, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNISFA, UNITAR, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Hugo Eduardo&nbsp;BETETA (since 17 June 2024)<br>
 _chancery_: 2220 R Street NW, Washington, DC 20008<br>
@@ -371,12 +363,24 @@ _telephone_: [502] 2354-0000<br>
 _FAX_: [502] 2326-4654<br>
 _email address and website_: <br>AmCitsGuatemala@state.gov<br><br>https://gt.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACS, BCIE, CACM, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNISFA, UNITAR, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+15 September 1821 (from Spain)<br>
+
+**National holiday**<br>
+Independence Day, 15 September (1821)<br>
+
 **Flag description**<br>
 three equal vertical bands of light blue (hoist side), white, and light blue, with the coat of arms centered in the white band; the coat of arms includes a green-and-red quetzal (the national bird) and a scroll with the inscription LIBERTAD 15 DE SEPTIEMBRE DE 1821 (the original date of independence from Spain); a pair of crossed rifles on the coat of arms signify Guatemala's willingness to defend itself and a pair of crossed swords represent honor; framed by a laurel wreath symbolizing victory; the blue bands stand for the Pacific Ocean and Caribbean Sea, and the white for peace and purity<br>
 <strong>note:</strong> one of two national flags featuring a firearm; the other is Mozambique<br>
 
 **National symbol(s)**<br>
-quetzal (bird); national colors: blue, white<br>
+quetzal (bird)<br>
+
+**National colors**<br>
+blue, white<br>
 
 **National anthem**<br>
 _name_: "Himno Nacional de Guatemala" (National Anthem of Guatemala)<br>

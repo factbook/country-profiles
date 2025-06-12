@@ -181,8 +181,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 6.2% of population<br>
 _unimproved: total_: total: 2.6% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-3.9% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 3.9% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 10.6% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.75 physicians/1,000 population (2023)<br>
@@ -223,11 +224,11 @@ _female_: 6.3% (2025 est.)<br>
 _women married by age 15_: 0.2% (2015)<br>
 _women married by age 18_: 7% (2015)<br>
 
-**Education expenditures**<br>
-4.5% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.9% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 19.9% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 99.8%<br>
 _male_: 99.8%<br>
 _female_: 99.7% (2018)<br>
@@ -314,12 +315,6 @@ _etymology_: the name means "capital city" in Kazakh<br>
 17 provinces (oblystar, singular - oblys) and 4 cities* (qalalar, singular - qala); Abay (Semey), Almaty (Qonaev), Almaty*, Aqmola (Kokshetau), Aqtobe, Astana*, Atyrau, Batys Qazaqstan [West Kazakhstan] (Oral), Bayqongyr*, Mangghystau (Aqtau), Pavlodar, Qaraghandy, Qostanay, Qyzylorda, Shyghys Qazaqstan [East Kazakhstan] (Oskemen), Shymkent*, Soltustik Qazaqstan [North Kazakhstan] (Petropavl), Turkistan, Ulytau (Zhezqazghan), Zhambyl (Taraz), Zhetisu (Taldyqorghan)<br>
 <strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses); in 1995, the Governments of Kazakhstan and Russia entered into an agreement whereby Russia would lease for a period of 20 years an area of 6,000 sq km enclosing the Baikonur space launch facilities and the city of Bayqongyr (Baikonur, formerly Leninsk); in 2004, a new agreement extended the lease to 2050<br>
 
-**Independence**<br>
-16 December 1991 (from the Soviet Union)<br>
-
-**National holiday**<br>
-Independence Day, 16 December (1991)<br>
-
 **Legal system**<br>
 civil law system influenced by Roman-Germanic law and by the theory and practice of the Russian Federation<br>
 
@@ -378,9 +373,6 @@ _subordinate courts_: regional and local courts<br>
 **Political parties**<br>
 Ak Zhol Democratic Party or Ak Zhol<br>Amanat Party (formerly Nur Otan (Radiant Fatherland))<br>Auyl People's Democratic Patriotic Party or Auyl<br>Baytak (Boundless) Party<br>National Social Democratic Party or NSDP<br>People's Democratic (Patriotic) Party or Auyl or AHDPP<br>People's Party of Kazakhstan or PPK<br>Respublica<br>
 
-**International organization participation**<br>
-ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, MINURSO, NAM (observer), NSG, OAS (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Yerzhan ASHIKBAYEV (since 7 July 2021)<br>
 _chancery_: 1401 16th Street NW, Washington, DC 20036<br>
@@ -398,11 +390,23 @@ _FAX_: [7] (7172) 54-09-14<br>
 _email address and website_: <br>USAKZ@state.gov<br><br>https://kz.usembassy.gov/<br>
 _consulate(s) general_: Almaty<br>
 
+**International organization participation**<br>
+ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, MINURSO, NAM (observer), NSG, OAS (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+16 December 1991 (from the Soviet Union)<br>
+
+**National holiday**<br>
+Independence Day, 16 December (1991)<br>
+
 **Flag description**<br>
 a gold sun with 32 rays above a soaring golden steppe eagle, both centered on a sky-blue background; the hoist side displays a national pattern called <em>koshkar-muiz</em> (the horns of the ram) in gold; the blue color has religious significance for the Turkic peoples and symbolizes cultural and ethnic unity, as well as sky and water; the sun stands for wealth and plenitude, with rays shaped like grain; the eagle has appeared on Kazakh tribal flags for centuries and represents freedom, power, and the flight to the future<br>
 
 **National symbol(s)**<br>
-golden eagle; national colors: blue, yellow<br>
+golden eagle<br>
+
+**National colors**<br>
+blue, yellow<br>
 
 **National anthem**<br>
 _name_: "Menin Qazaqstanim" (My Kazakhstan)<br>

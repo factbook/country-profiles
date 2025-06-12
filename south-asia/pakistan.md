@@ -183,8 +183,9 @@ _unimproved: urban_: urban: 3.5% of population<br>
 _unimproved: rural_: rural: 7.5% of population<br>
 _unimproved: total_: total: 6% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-2.9% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 2.9% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 5.6% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.16 physicians/1,000 population (2021)<br>
@@ -226,14 +227,14 @@ _women married by age 15_: 3.6% (2018)<br>
 _women married by age 18_: 18.3% (2018)<br>
 _men married by age 18_: 4.7% (2018)<br>
 
-**Education expenditures**<br>
-2.4% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 1.9% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 8.3% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 58%<br>
-_male_: 69.3%<br>
-_female_: 46.5% (2019)<br>
+_total population_: 58.9% (2021 est.)<br>
+_male_: 69.1% (2021 est.)<br>
+_female_: 48.5% (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
@@ -263,9 +264,6 @@ _other_: 48.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 38% of total population (2023)<br>
 _rate of urbanization_: 2.1% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to population displacements, economic constraints, and high prices of the main food staple - </em>according to the latest analysis, the number of people facing high levels of acute food insecurity between April and October 2023 is estimated at 10.5 million people, due to the devastating flood impacts in 2022; price of wheat flour, the country’s main staple, were at elevated levels in most markets in January 2023, constraining access to a key staple food (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 50.13 micrograms per cubic meter (2019 est.)<br>
@@ -315,12 +313,6 @@ _etymology_: the name means "city of Islam" and derives from the Arabic <em>isla
 
 **Administrative divisions**<br>
 4 provinces, 2 Pakistan-administered areas*, and 1 capital territory**; Azad Kashmir*, Balochistan, Gilgit-Baltistan*, Islamabad Capital Territory**, Khyber Pakhtunkhwa, Punjab, Sindh<br>
-
-**Independence**<br>
-14 August 1947 (from British India)<br>
-
-**National holiday**<br>
-Pakistan Day (also referred to as Pakistan Resolution Day or Republic Day), 23 March (1940); note - commemorates both the adoption of the Lahore Resolution by the All-India Muslim League during its 22-24 March 1940 session, which called for the creation of independent Muslim states, and the adoption of the first constitution of Pakistan on 23 March 1956 during the transition to the Islamic Republic of Pakistan<br>
 
 **Legal system**<br>
 common law system with Islamic law influence<br>
@@ -382,9 +374,6 @@ _subordinate courts_: High Courts; Federal Shariat Court; provincial and distric
 **Political parties**<br>
 Awami National Party or ANP<br>Awami Muslim League or AML<br>Balochistan Awami Party or BAP<br>Balochistan National Party-Awami or BNP-A<br>Balochistan National Party-Mengal or BNP-M<br>Grand Democratic Alliance or GDA (alliance of several parties)<br>Hazara Democratic Party or HDP<br>Istehkam-e-Pakistan Party<br>Jamaat-e-Islami or JI<br>Jamhoori Wattan Party or JWP<br>Jamiat Ulema-e-Islam-Fazl or JUI-F<br>Majlis Wahdat-e-Muslimeen Pakistan or MWM<br>Muttahida Majlis-e-Amal or MMA (alliance of several parties)<br>Muttahida Qaumi Movement-Pakistan or MQM-P<br>National Party or NP<br>Pakistan Muslim League or PML-Z<br>Pakistan Muslim League-Functional or PML-F<br>Pakistan Muslim League-Nawaz or PML-N<br>Pakistan Muslim League-Quaid-e-Azam or PML-Q<br>Pakistan Peoples Party or PPP<br>Pakistan Rah-e-Haq Party or PRHP<br>Pakistan Tehrik-e Insaaf or PTI (Pakistan Movement for Justice)<br>Pashtoonkhwa Milli Awami Party or PMAP or PKMAP<br>Tehreek-e-Labbaik Pakistan or TLP<br>
 
-**International organization participation**<br>
-ADB, AIIB, ARF, ASEAN (sectoral dialogue partner), C, CERN (associate member), CICA, CP, D-8, ECO, FAO, G-11, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURCAT, MINURSO, MINUSCA, MONUSCO, NAM, OAS (observer), OIC, OPCW, PCA, SAARC, SACEP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNISFA, UNISFA, UNMISS, UNOOSA, UNSOS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Rizwan Saeed SHEIKH (since 18 September 2024)<br>
 _chancery_: 3517 International Court NW, Washington, DC 20008<br>
@@ -402,11 +391,23 @@ _FAX_: [92] 51-2338071<br>
 _email address and website_: <br>ACSIslamabad@state.gov<br><br>https://pk.usembassy.gov/<br>
 _consulate(s) general_: Karachi, Lahore, Peshawar<br>
 
+**International organization participation**<br>
+ADB, AIIB, ARF, ASEAN (sectoral dialogue partner), C, CERN (associate member), CICA, CP, D-8, ECO, FAO, G-11, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURCAT, MINURSO, MINUSCA, MONUSCO, NAM, OAS (observer), OIC, OPCW, PCA, SAARC, SACEP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNISFA, UNISFA, UNMISS, UNOOSA, UNSOS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+14 August 1947 (from British India)<br>
+
+**National holiday**<br>
+Pakistan Day (also referred to as Pakistan Resolution Day or Republic Day), 23 March (1940); note - commemorates both the adoption of the Lahore Resolution by the All-India Muslim League during its 22-24 March 1940 session, which called for the creation of independent Muslim states, and the adoption of the first constitution of Pakistan on 23 March 1956 during the transition to the Islamic Republic of Pakistan<br>
+
 **Flag description**<br>
 green with a vertical white band on the hoist side, symbolizing the role of religious minorities; a large white crescent and star are centered in the green field, all of which are traditional Islamic symbols<br>
 
 **National symbol(s)**<br>
-five-pointed star between the horns of a waxing crescent moon, jasmine; national colors: green, white<br>
+five-pointed star between the horns of a waxing crescent moon, jasmine<br>
+
+**National colors**<br>
+green, white<br>
 
 **National anthem**<br>
 _name_: "Qaumi Tarana" (National Anthem)<br>
@@ -698,11 +699,11 @@ Pakistan Armed Forces: Pakistan Army (includes National Guard), Pakistan Navy (i
 <strong>note:</strong> the National Guard is a paramilitary force and one of the Army's reserve forces; other Army reserves include the Pakistan Army Reserve, the Frontier Corps, and the Pakistan Rangers<br>
 
 **Military expenditures**<br>
+2.5% of GDP (2024 est.)<br>
 3% of GDP (2023 est.)<br>
 4% of GDP (2022 est.)<br>
 4% of GDP (2021 est.)<br>
 4% of GDP (2020 est.)<br>
-4.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 650,000 active Armed Forces (550,000 Army; 30,000 Navy; 70,000 Air Force) (2025)<br>

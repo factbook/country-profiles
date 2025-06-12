@@ -206,11 +206,10 @@ _women married by age 15_: 0% (2017)<br>
 _women married by age 18_: 0.1% (2017)<br>
 _men married by age 18_: 0% (2017)<br>
 
-**Education expenditures**<br>
-NA<br>
+**Education expenditure**<br>
+14.6% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 100%<br>
 _male_: 100%<br>
 _female_: 100% (2015)<br>
@@ -243,9 +242,6 @@ _other_: 28.7% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 63.2% of total population (2023)<br>
 _rate of urbanization_: 0.85% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_widespread lack of access_: <em>due to low food consumption levels, poor dietary diversity, and economic downturn -</em>the food security situation is expected to remain fragile, given persisting economic constraints aggravated by a below-average 2022 agricultural output (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 41.46 micrograms per cubic meter (2019 est.)<br>
@@ -284,17 +280,11 @@ _etymology_: the name translates as "flat land" in Korean<br>
 <p>9 provinces (do, singular and plural) and 4 special administration cities (si, singular and plural)</p> <p><strong>provinces:</strong> Chagang, Hambuk (North Hamgyong), Hamnam (South Hamgyong), Hwangbuk (North Hwanghae), Hwangnam (South Hwanghae), Kangwon, P'yongbuk (North Pyongan), P'yongnam (South Pyongan), Ryanggang</p> <p><strong>special administration cities:</strong> Kaesong, Nampo, P'yongyang, Rason</p><br>
 <strong>note:</strong> P'yongyang is identified as a directly controlled city, while Kaesong, Nampo, and Rason are designated as special cities<br>
 
-**Independence**<br>
-15 August 1945 (from Japan)<br>
-
-**National holiday**<br>
-Founding of the Democratic People's Republic of Korea (DPRK), 9 September (1948)<br>
-
 **Legal system**<br>
 civil law system based on the Prussian model; influenced by Japanese traditions and Communist legal theory<br>
 
 **Constitution**<br>
-_history_: previous 1948, 1972; latest adopted 1998 (during KIM Jong-il era)<br>
+_history_: previous 1948, 1972; latest adopted 1998&nbsp;<br>
 _amendment process_: proposed by the Supreme People&rsquo;s Assembly (SPA); passage requires more than two-thirds majority vote of the total SPA membership<br>
 
 **International law organization participation**<br>
@@ -337,20 +327,29 @@ _subordinate courts_: lower provincial courts as determined by the Supreme Peopl
 **Political parties**<br>
 <strong>major parties:</strong><br>Korean Workers' Party or KWP (formally known as Workers' Party of Korea) <br>General Association of Korean Residents in Japan (Chongryon; under KWP control) <br><strong>minor parties:</strong> <br>Chondoist Chongu Party (under KWP control)<br>Social Democratic Party or KSDP (under KWP control)<br>
 
-**International organization participation**<br>
-ARF, FAO, G-77, ICAO, ICRM, IFAD, IFRCS, IHO, IMO, IMSO, IOC, IPU, ISO, ITSO, ITU, NAM, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WFTU (NGOs), WHO, WIPO, WMO<br>
-
 **Diplomatic representation in the US**<br>
 none<br><br><strong>Note</strong>:  North Korea has a Permanent Mission to the UN in New York<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none; the Swedish Embassy in Pyongyang represents the US as consular protecting power<br>
 
+**International organization participation**<br>
+ARF, FAO, G-77, ICAO, ICRM, IFAD, IFRCS, IHO, IMO, IMSO, IOC, IPU, ISO, ITSO, ITU, NAM, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WFTU (NGOs), WHO, WIPO, WMO<br>
+
+**Independence**<br>
+15 August 1945 (from Japan)<br>
+
+**National holiday**<br>
+Founding of the Democratic People's Republic of Korea (DPRK), 9 September (1948)<br>
+
 **Flag description**<br>
 three horizontal bands of blue (top), red (triple-width), and blue; the red band is edged in white; on the hoist side of the red band is a white disk with a red five-pointed star; the red band stands for revolutionary traditions, the white for purity, strength, and dignity; blue for sovereignty, peace, and friendship; the red star represents socialism<br>
 
 **National symbol(s)**<br>
-red star, chollima (winged horse); national colors: red, white, blue<br>
+red star, chollima (winged horse)<br>
+
+**National colors**<br>
+red, white, blue<br>
 
 **National anthem**<br>
 _name_: "Aegukka" (Patriotic Song)<br>

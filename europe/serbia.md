@@ -180,8 +180,9 @@ _unimproved: urban_: urban: 0.3% of population<br>
 _unimproved: rural_: rural: 0.6% of population<br>
 _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-10% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 10% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 13.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.1 physicians/1,000 population (2022)<br>
@@ -222,14 +223,14 @@ _female_: 34.5% (2025 est.)<br>
 _women married by age 15_: 1.2% (2019)<br>
 _women married by age 18_: 5.5% (2019)<br>
 
-**Education expenditures**<br>
-3.6% of GDP (2019 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.2% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 7.4% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 99.5%<br>
-_male_: 99.9%<br>
-_female_: 99.1% (2019)<br>
+_total population_: 99% (2019 est.)<br>
+_male_: 100% (2019 est.)<br>
+_female_: 99% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -313,12 +314,6 @@ _etymology_: the name comes from the Serbian words <em>beo </em>(white) and <em>
 <p>117 municipalities (opstine, singular - opstina) and 28 cities (gradovi, singular - grad)</p> <p><strong>municipalities:</strong> Ada*, Aleksandrovac, Aleksinac, Alibunar*, Apatin*, Arandelovac, Arilje, Babusnica, Bac*, Backa Palanka*, Backa Topola*, Backi Petrovac*, Bajina Basta, Batocina, Becej*, Bela Crkva*, Bela Palanka, Beocin*, Blace, Bogatic, Bojnik, Boljevac, Bosilegrad, Brus, Bujanovac, Cajetina, Cicevac, Coka*, Crna Trava, Cuprija, Despotovac, Dimitrov, Doljevac, Gadzin Han, Golubac, Gornji Milanovac, Indija*, Irig*, Ivanjica, Kanjiza*, Kladovo, Knic, Knjazevac, Koceljeva, Kosjeric, Kovacica*, Kovin*, Krupanj, Kucevo, Kula*, Kursumlija, Lajkovac, Lapovo, Lebane, Ljig, Ljubovija, Lucani, Majdanpek, Mali Idos*, Mali Zvornik, Malo Crnice, Medveda, Merosina, Mionica, Negotin, Nova Crnja*, Nova Varos, Novi Becej*, Novi Knezevac*, Odzaci*, Opovo*, Osecina, Paracin, Pecinci*, Petrovac na Mlavi, Plandiste*, Pozega, Presevo, Priboj, Prijepolje, Raca, Raska, Razanj, Rekovac, Ruma*, Secanj*, Senta*, Sid*, Sjenica, Smederevska Palanka, Sokobanja, Srbobran*, Sremski Karlovci*, Stara Pazova*, Surdulica, Svilajnac, Svrljig, Temerin*, Titel*, Topola, Trgoviste, Trstenik, Tutin, Ub, Varvarin, Velika Plana, Veliko Gradiste, Vladicin Han, Vladimirci, Vlasotince, Vrbas*, Vrnjacka Banja, Zabalj*, Zabari, Zagubica, Zitiste*, Zitorada</p> <p><strong>cities:</strong> Beograd (Belgrade), Bor, Cacak, Jagodina, Kikinda*, Kragujevac, Kraljevo, Krusevac, Leskovac, Loznica, Nis, Novi Pazar, Novi Sad*, Pancevo*, Pirot, Pozarevac, Prokuplje, Sabac, Smederevo, Sombor*, Sremska Mitrovica*, Subotica*, Uzice, Valjevo, Vranje, Vrsac*, Zajecar, Zrenjanin*</p><br>
 <strong>note:</strong> the northern 37 municipalities and 8 cities -- about 28% of Serbia's area -- compose the Autonomous Province of Vojvodina and are indicated with an asterisk<br>
 
-**Independence**<br>
-5 June 2006 (from the State Union of Serbia and Montenegro); notable earlier dates: 1217 (Serbian Kingdom established); 16 April 1346 (Serbian Empire established); 13 July 1878 (Congress of Berlin recognizes Serbian independence); 1 December 1918 (Kingdom of Serbs, Croats, and Slovenes (Yugoslavia) established)<br>
-
-**National holiday**<br>
-Statehood Day, 15 February (1835), the day the first constitution of the country was adopted<br>
-
 **Legal system**<br>
 civil law system<br>
 
@@ -365,10 +360,6 @@ _subordinate courts_: basic courts, higher courts, appellate courts; courts of s
 **Political parties**<br>
 Alliance of Vojvodina Hungarians or SVM or VMSZ <br>Democratic Alliance of Croats in Vojvodina or DSHV <br>Democratic Party or DS <br>Ecological Uprising or EU <br>Green - Left Front or ZLF <br>Greens of Serbia or ZS <br>Justice and Reconciliation Party or SPP (formerly Bosniak Democratic Union of Sandzak or BDZS)<br>Movement for Reversal or PZP <br>Movement for the Restoration of the Kingdom of Serbia or POKS <br>Movement of Free Citizens or PSG <br>Movement of Socialists or PS <br>National Democratic Alternative or NADA (electoral coalition includes NDSS and POKS)<br>New Communist Party of Yugoslavia or NKPJ <br>New Democratic Party of Serbia or NDSS or New DSS  (formerly Democratic Party of Serbia or DSS)<br>New Face of Serbia or NLS <br>Party of Democratic Action of the Sandzak or SDAS <br>Party of Freedom and Justice or SSP <br>Party of United Pensioners, Farmers, and Proletarians of Serbia – Solidarity and Justice or PUPS - Solidarity and Justice (formerly Party of United Pensioners of Serbia or PUPS)<br>People's Movement of Serbia or NPS <br>People's Movement of Serbs from Kosovo and Metohija or Fatherland <br>People's Peasant Party or NSS <br>Political Battle of the Albanians Continues <br>Russian Party or RS <br>Serbia Against Violence or SPN (electoral coalition includes DS, SSP, ZLF, Zajedno, NPS, PSG, EU, PZP, USS Sloga, NLS, Fatherland)<br>Serbia Must Not Stop (electoral coalitions includes SNS, SDPS, PUPS, PSS, SNP, SPO, PS, NSS, USS)<br>Serbian People's Party or SNP <br>Serbian Progressive Party or SNS <br>Serbian Renewal Movement or SPO <br>Social Democratic Party of Serbia or SDPS <br>Socialist Party of Serbia or SPS <br>Strength of Serbia or PSS <br>Together or ZAJEDNO <br>United Peasant Party or USS <br>United Serbia or JS <br>United Trade Unions of Serbia "Sloga" or USS Sloga <br>We - The Voice from the People or MI-GIN <br>
 
-**International organization participation**<br>
-BIS, BSEC, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM (observer), NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNOCI, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
-<strong>note</strong>: Serbia is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador-designate Dragan &Scaron;UTANOVAC (since 8 May 2025)<br>
 _chancery_: 1333 16th Street, NW Washington, D.C. 20036<br>
@@ -385,12 +376,25 @@ _telephone_: [381] (11) 706-4000<br>
 _FAX_: [381] (11) 706-4481<br>
 _email address and website_: <br>belgradeacs@state.gov<br><br>https://rs.usembassy.gov/<br>
 
+**International organization participation**<br>
+BIS, BSEC, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM (observer), NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNOCI, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
+<strong>note</strong>: Serbia is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
+
+**Independence**<br>
+5 June 2006 (from the State Union of Serbia and Montenegro); notable earlier dates: 1217 (Serbian Kingdom established); 16 April 1346 (Serbian Empire established); 13 July 1878 (Congress of Berlin recognizes Serbian independence); 1 December 1918 (Kingdom of Serbs, Croats, and Slovenes established, later known as Yugoslavia)<br>
+
+**National holiday**<br>
+Statehood Day, 15 February (1835), the day the first constitution of the country was adopted<br>
+
 **Flag description**<br>
 three equal horizontal stripes of red (top), blue, and white, which are the pan-Slav colors representing freedom and revolutionary ideals; the national coat of arms is shifted slightly to the hoist side; the principal field of the coat of arms represents the government and displays a two-headed white eagle on a red shield; a smaller red shield on the eagle represents the nation and is divided into four quarters by a white cross; the meaning and origin of the curved white symbols in each quarter are not clear; a royal crown is on top of the coat of arms<br>
 <strong>note:</strong> the pan-Slav colors were inspired by Russia's flag<br>
 
 **National symbol(s)**<br>
-white double-headed eagle; national colors: red, blue, white<br>
+white double-headed eagle<br>
+
+**National colors**<br>
+red, blue, white<br>
 
 **National anthem**<br>
 _name_: "Boze pravde" (God of Justice)<br>

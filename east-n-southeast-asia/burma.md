@@ -182,8 +182,9 @@ _unimproved: urban_: urban: 4.6% of population<br>
 _unimproved: rural_: rural: 19.3% of population<br>
 _unimproved: total_: total: 14.7% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-5.6% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.6% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 2.5% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.76 physicians/1,000 population (2019)<br>
@@ -225,14 +226,14 @@ _women married by age 15_: 1.9% (2016)<br>
 _women married by age 18_: 16% (2016)<br>
 _men married by age 18_: 5% (2016)<br>
 
-**Education expenditures**<br>
-2.1% of GDP (2019 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2% of GDP (2019 est.)<br>
+_Education expenditure (% national budget)_: 9.8% national budget (2019 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 89.1%<br>
-_male_: 92.4%<br>
-_female_: 86.3% (2019)<br>
+_total population_: 89% (2019 est.)<br>
+_male_: 92% (2019 est.)<br>
+_female_: 86% (2019 est.)<br>
 <strong>note: </strong>most public schools were closed immediately after the coup in 2021, and attendance has remained low since schools reopened; literacy is expected to decline from 2019 to 2023<br>
 
 **School life expectancy (primary to tertiary education)**<br>
@@ -263,9 +264,6 @@ _other_: 37.3% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 32.1% of total population (2023)<br>
 _rate of urbanization_: 1.85% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to conflict, political instability, and economic constraints -</em> the protracted political crisis is compromising the fragile conditions of vulnerable households; domestic prices of “Emata” rice, the most consumed variety in the country, were at record levels as of May 2023, constraining access to a key staple food (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 27.16 micrograms per cubic meter (2019 est.)<br>
@@ -312,12 +310,6 @@ _etymology_: Rangoon/Yangon derives from the Burmese words <em>yan</em> and <em>
 **Administrative divisions**<br>
 <p>7 regions (taing-myar, singular - taing), 7 states (pyi ne-myar, singular - pyi ne), 1 union territory</p> <p><strong>regions:</strong> Ayeyarwady (Irrawaddy), Bago, Magway, Mandalay, Sagaing, Tanintharyi, Yangon (Rangoon)</p> <p><strong>states:</strong> Chin, Kachin, Kayah, Karen, Mon, Rakhine, Shan</p> <p><strong>union territory:</strong> Nay Pyi Taw</p><br>
 
-**Independence**<br>
-4 January 1948 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 4 January (1948); Union Day, 12 February (1947)<br>
-
 **Legal system**<br>
 mixed legal system of English common law (as introduced in codifications designed for colonial India) and customary law<br>
 
@@ -361,9 +353,6 @@ _subordinate courts_: High Courts of the Region; High Courts of the State; Court
 Arakan National Party or ANP <br>Democratic Party or DP <br>Kayah State Democratic Party or KySDP <br>Kayin People's Party or KPP <br>Kokang Democracy and Unity Party or KDUP <br>La Hu National Development Party or LHNDP <br>Lisu National Development Party or LNDP <br>Mon Unity Party (formed in 2019 from the All Mon Region Democracy Party and Mon National Party)<br>National Democratic Force or NDF <br>National League for Democracy or NLD <br>National Unity Party or NUP <br>Pa-O National Organization or PNO <br>People's Party <br>Shan Nationalities Democratic Party or SNDP <br>Shan Nationalities League for Democracy or SNLD <br>Ta'ang National Party or TNP <br>Tai-Leng Nationalities Development Party or TNDP <br>Union Solidarity and Development Party or USDP <br>Unity and Democracy Party of Kachin State or UDPKS <br>Wa Democratic Party or WDP <br>Wa National Unity Party or WNUP <br>Zomi Congress for Democracy or ZCD <br>
 <strong>note</strong>: more than 90 political parties participated in the 2020 elections; political parties continued to function after the 2021 coup, although some political leaders have been arrested by the military regime; in 2023, the regime announced a new law with several rules and restrictions on political parties and their ability to participate in elections; dozens of parties refused to comply with the new rules; the regime's election commission has subsequently banned more than 80 political parties, including the National League for Democracy<strong><br><br></strong><br>
 
-**International organization participation**<br>
-ADB, ARF, ASEAN, BIMSTEC, CP, EAS, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), NAM, OPCW (signatory), SAARC (observer), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires THET WIN (since 22 June 2022)<br>
 _chancery_: 2300 S Street NW, Washington, DC 20008<br>
@@ -380,11 +369,23 @@ _telephone_: [95] (1) 753-6509<br>
 _FAX_: [95] (1) 751-1069<br>
 _email address and website_: <br>ACSRangoon@state.gov<br><br>https://mm.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB, ARF, ASEAN, BIMSTEC, CP, EAS, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), NAM, OPCW (signatory), SAARC (observer), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+4 January 1948 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 4 January (1948); Union Day, 12 February (1947)<br>
+
 **Flag description**<br>
 three equal horizontal stripes of yellow (top), green, and red; centered on the green band is a white five-pointed star that overlaps onto the adjacent colored stripes; the design revives the triband colors that Burma used from 1943 to 1945, during the Japanese occupation<br>
 
 **National symbol(s)**<br>
-chinthe (mythical lion); national colors: yellow, green, red, white<br>
+chinthe (mythical lion)<br>
+
+**National colors**<br>
+yellow, green, red, white<br>
 
 **National anthem**<br>
 _name_: "Kaba Ma Kyei" (Till the End of the World, Myanmar)<br>

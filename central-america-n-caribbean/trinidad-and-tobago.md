@@ -169,8 +169,9 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-7% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 7% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 10.9% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 4.16 physicians/1,000 population (2021)<br>
@@ -203,14 +204,14 @@ _other alcohols_: 0.09 liters of pure alcohol (2019 est.)<br>
 _women married by age 15_: 0.7% (2022)<br>
 _women married by age 18_: 4.2% (2022)<br>
 
-**Education expenditures**<br>
-4.1% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.9% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 12.6% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 99%<br>
 _male_: 99.2%<br>
-_female_: 98.7% (2015)<br>
+_female_: 93.8% (2022 est.)<br>
 
 ## Environment
 
@@ -270,12 +271,6 @@ _etymology_: translation of the name the Spanish gave the town in 1595, Puerto d
 
 **Administrative divisions**<br>
 <p>9 regions, 3 boroughs, 2 cities, 1 ward</p> <p><strong>regions:</strong> Couva/Tabaquite/Talparo, Diego Martin, Mayaro/Rio Claro, Penal/Debe, Princes Town, Sangre Grande, San Juan/Laventille, Siparia, Tunapuna/Piarco</p> <p><strong>borough:</strong> Arima, Chaguanas, Point Fortin</p> <p><strong>cities:</strong> Port of Spain, San Fernando</p> <p><strong>ward:</strong> Tobago</p><br>
-
-**Independence**<br>
-31 August 1962 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 31 August (1962)<br>
 
 **Legal system**<br>
 English common law; Supreme Court reviews legislative acts<br>
@@ -337,9 +332,6 @@ _subordinate courts_: Courts of Summary Criminal Jurisdiction; Petty Civil Court
 **Political parties**<br>
 People's National Movement or PNM<br>United National Congress or UNC<br>Tobago People’s Party or Tobago<br>
 
-**International organization participation**<br>
-ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), Paris Club (associate), UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Venessa RAMHIT-RAMROOP (since 3 March 2024)<br>
 _chancery_: 1708 Massachusetts Avenue NW, Washington, DC 20036-1975<br>
@@ -356,14 +348,26 @@ _telephone_: (868) 622-6371<br>
 _FAX_: (868) 822-5905<br>
 _email address and website_: <br>ptspas@state.gov<br><br>https://tt.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), Paris Club (associate), UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+31 August 1962 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 31 August (1962)<br>
+
 **Flag description**<br>
 red with a white-edged black diagonal band from the upper hoist side to the lower fly side; the colors represent the elements of earth, water, and fire; black also stands for the wealth of the land and the dedication of the people; white for the sea, the purity of the country's aspirations, and equality; red for the sun, the vitality of the land, and the people's courage and friendliness<br>
 
 **National symbol(s)**<br>
-scarlet ibis (bird of Trinidad), cocrico (bird of Tobago), Chaconia flower; national colors: red, white, black<br>
+scarlet ibis (bird of Trinidad), cocrico (bird of Tobago), chaconia flower<br>
+
+**National colors**<br>
+red, white, black<br>
 
 **National coat of arms**<br>
-Designed in 1962, Trinidad and Tobago&rsquo;s coat of arms shows the scarlet ibis (national bird of Trinidad) and the cocrico (national bird of Tobago). They support a shield displaying two hummingbirds, because Trinidad is home to 18 species of the bird and is called the &ldquo;Land of Hummingbirds.&rdquo; Three gold ships on a backdrop of national colors represent Christopher Columbus, who visited the islands. The three peaks in the lower left refer to Trinidad being named after the Holy Trinity and also represent a famous mountain. The image of a gold ship's wheel in front of a coconut palm was also used on the Great Seals of British Colonial Tobago. The gold helmet represents Queen Elizabeth II of England (ruler of the country at the time), and the national motto promotes harmony in diversity<br>
+designed in 1962, the coat of arms shows the scarlet ibis (national bird of Trinidad) and the cocrico (national bird of Tobago); they support a shield displaying two hummingbirds, because Trinidad is home to 18 species of the bird and is called the &ldquo;Land of Hummingbirds;&rdquo; three gold ships on a backdrop of national colors represent Christopher Columbus, who visited the islands; the three peaks in the lower left refer to Trinidad being named after the Holy Trinity and also represent a famous mountain; the image of a gold ship's wheel in front of a coconut palm was also used on the Great Seals of British Colonial Tobago; the gold helmet represents Queen Elizabeth II of England (ruler of the country at the time), and the national motto promotes harmony in diversity<br>
 
 **National anthem**<br>
 _name_: "Forged From the Love of Liberty"<br>

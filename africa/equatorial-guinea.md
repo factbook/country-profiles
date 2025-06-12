@@ -167,8 +167,9 @@ _unimproved: urban_: urban: 18.3% of population<br>
 _unimproved: rural_: rural: 67.9% of population<br>
 _unimproved: total_: total: 32.4% of population (2017 est.)<br>
 
-**Current health expenditure**<br>
-3.4% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 3.4% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 4.4% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.15 physicians/1,000 population (2022)<br>
@@ -194,11 +195,7 @@ _other alcohols_: 0.05 liters of pure alcohol (2019 est.)<br>
 **Currently married women (ages 15-49)**<br>
 60.2% (2023 est.)<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 95.3%<br>
 _male_: 97.4%<br>
 _female_: 93% (2015)<br>
@@ -265,12 +262,6 @@ _etymology_: English settlers who founded the city in 1827 named it Port Clarenc
 **Administrative divisions**<br>
 8 provinces (provincias, singular - provincia); Annobon, Bioko Norte, Bioko Sur, Centro Sur, Djibloho, Kie-Ntem, Litoral, Wele-Nzas<br>
 
-**Independence**<br>
-12 October 1968 (from Spain)<br>
-
-**National holiday**<br>
-Independence Day, 12 October (1968)<br>
-
 **Legal system**<br>
 mixed system of civil and customary law<br>
 
@@ -331,9 +322,6 @@ _subordinate courts_: Court of Guarantees; military courts; Courts of Appeal; fi
 **Political parties**<br>
 Center Right Union or UCD<br>Convergence Party for Social Democracy or CPDS <br>Democratic Party for Equatorial Guinea or PDGE <br>Liberal Democratic Convention or CLD <br>Liberal Party or PL <br>National Congress of Equatorial Guinea (CNGE) <br>National Democratic Party (PNDGE) <br>National Democratic Union or UDENA <br>National Union for Democracy PUNDGE <br>Popular Action of Equatorial Guinea or APGE <br>Popular Union or UP <br>Progressive Democratic Alliance or ADP <br>Social and Popular Convergence Party or CSDP <br>Social Democratic Coalition Party (PCSD) <br>Social Democratic Party of Equatorial Guinea or PSDGE <br>Social Democratic Union or UDS <br>Socialist Party of Equatorial Guinea <br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, BDEAC, CEMAC, CPLP, FAO, Francophonie, FZ, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IPU, ITSO, ITU, MIGA, NAM, OAS (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WHO, WIPO, WTO (observer)<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Dr. Crisantos OBAMA ONDO (since 27 February 2024)<br>
 _chancery_: 2020 16th Street NW, Washington, DC 20009<br>
@@ -349,11 +337,23 @@ _mailing address_: 2320 Malabo Place, Washington, DC 20521-2520<br>
 _telephone_: [240] 333 09-57-41<br>
 _email address and website_: <br>Malaboconsular@state.gov<br><br>https://gq.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, BDEAC, CEMAC, CPLP, FAO, Francophonie, FZ, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IPU, ITSO, ITU, MIGA, NAM, OAS (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WHO, WIPO, WTO (observer)<br>
+
+**Independence**<br>
+12 October 1968 (from Spain)<br>
+
+**National holiday**<br>
+Independence Day, 12 October (1968)<br>
+
 **Flag description**<br>
 three equal horizontal bands of green (top), white, and red, with a blue isosceles triangle based on the hoist side and the coat of arms centered in the white band; the coat of arms has six yellow six-pointed stars (representing the mainland and five offshore islands) above a gray shield bearing a silk-cotton tree; below is a scroll with the motto UNIDAD, PAZ, JUSTICIA (Unity, Peace, Justice); green stands for the jungle and natural resources, blue for the sea, white for peace, and red for the fight for independence<br>
 
 **National symbol(s)**<br>
-silk cotton tree; national colors: green, white, red, blue<br>
+silk cotton tree<br>
+
+**National colors**<br>
+green, white, red, blue<br>
 
 **National anthem**<br>
 _name_: "Caminemos pisando la senda" (Let Us Tread the Path)<br>

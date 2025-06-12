@@ -187,12 +187,6 @@ _etymology_: named in 1844 after Edward SMITH-STANLEY, the 14th Earl of Derby<br
 **Administrative divisions**<br>
 none (administered by the UK; claimed by Argentina)<br>
 
-**Independence**<br>
-none (overseas territory of the UK; also claimed by Argentina)<br>
-
-**National holiday**<br>
-Liberation Day, 14 June (1982)<br>
-
 **Legal system**<br>
 English common law and local statutes<br>
 
@@ -231,14 +225,20 @@ _subordinate courts_: Magistrate's Court (senior magistrate presides over civil 
 **Political parties**<br>
 none; all independents<br>
 
-**International organization participation**<br>
-UPU<br>
-
 **Diplomatic representation in the US**<br>
 none (administered by the UK; claimed by Argentina)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (administered by the UK; claimed by Argentina)<br>
+
+**International organization participation**<br>
+UPU<br>
+
+**Independence**<br>
+none (overseas territory of the UK; also claimed by Argentina)<br>
+
+**National holiday**<br>
+Liberation Day, 14 June (1982)<br>
 
 **Flag description**<br>
 blue with the UK flag in the upper hoist-side quadrant and the Falkland Island coat of arms centered on the outer half of the flag; the coat of arms has a white ram above the ship Desire (whose crew discovered the islands), with a scroll at the bottom bearing the motto DESIRE THE RIGHT<br>
@@ -246,8 +246,11 @@ blue with the UK flag in the upper hoist-side quadrant and the Falkland Island c
 **National symbol(s)**<br>
 ram<br>
 
+**National colors**<br>
+red, white, blue<br>
+
 **National coat of arms**<br>
-<p>The Falkland Islands adopted its coat of arms in 1948. The shield highlights the national symbol, the ram, which represents the country’s agricultural industry and stands on native tussock grass. English navigator John Davis’s sailing vessel, the <em>Desire</em>,<em> </em>is shown, referencing his sighting of the islands in 1592. Below the shield is the Falklands’ motto, “Desire the Right.”</p><br>
+the Falkland Islands adopted its coat of arms in 1948; the shield highlights the national symbol, the ram, which represents the country’s agricultural industry and stands on native tussock grass; English navigator John Davis’s sailing vessel, the <em>Desire</em>,<em> </em>is shown, referencing his sighting of the islands in 1592; below the shield is the national motto, “Desire the Right”<br>
 
 **National anthem**<br>
 _name_: "Song of the Falklands"<br>

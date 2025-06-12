@@ -170,8 +170,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 6% of population<br>
 _unimproved: total_: total: 1.5% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-7.8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 7.8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 14.9% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.46 physicians/1,000 population (2022)<br>
@@ -213,14 +214,14 @@ _women married by age 15_: 5.4% (2019)<br>
 _women married by age 18_: 28% (2019)<br>
 _men married by age 18_: 3.1% (2019)<br>
 
-**Education expenditures**<br>
-5% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 18.1% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 94.8%<br>
-_male_: 96.5%<br>
-_female_: 91.1% (2021)<br>
+_total population_: 87.4% (2019 est.)<br>
+_male_: 92.5% (2019 est.)<br>
+_female_: 82.8% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
@@ -288,12 +289,6 @@ _etymology_: named after Saint THOMAS the Apostle by the Portuguese, who discove
 **Administrative divisions**<br>
 6 districts (distritos, singular - distrito), 1 autonomous region* (regiao autonoma); Agua Grande, Cantagalo, Caue, Lemba, Lobata, Me-Zochi, Principe*<br>
 
-**Independence**<br>
-12 July 1975 (from Portugal)<br>
-
-**National holiday**<br>
-Independence Day, 12 July (1975)<br>
-
 **Legal system**<br>
 mixed system of civil law based on the Portuguese model and customary law<br>
 
@@ -340,9 +335,6 @@ _subordinate courts_: Court of First Instance; Audit Court<br>
 **Political parties**<br>
 BASTA Movement <br>Independent Democratic Action or ADI <br>Movement for the Liberation of Sao Tome and Principe-Social Democratic Party or MLSTP-PSD <br>Movement of Independent Citizens of São Tomé and Príncipe - Socialist Party or MCI-PS <br>National Unity Party or PUN<br>
 
-**International organization participation**<br>
-ACP, AfDB, AOSIS, AU, CD, CEMAC, CPLP, EITI (candidate country), FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), IPU, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant)<br>
 _chancery_: 122 East 42nd Street, Suite 1604<br>New York, NY 101168<br>
@@ -354,12 +346,24 @@ _email address and website_: <br>stp1@attglobal.net<br><br>Sao Tome and Principe
 _embassy_: the US does not have an embassy in Sao Tome and Principe; the US Ambassador to Angola is accredited to Sao Tome and Principe<br>
 _mailing address_: 2290 Sao Tome Place, Washington DC&nbsp; 20521-2290<br>
 
+**International organization participation**<br>
+ACP, AfDB, AOSIS, AU, CD, CEMAC, CPLP, EITI (candidate country), FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), IPU, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
+
+**Independence**<br>
+12 July 1975 (from Portugal)<br>
+
+**National holiday**<br>
+Independence Day, 12 July (1975)<br>
+
 **Flag description**<br>
 three horizontal bands of green (top), yellow (double-width), and green with two black five-pointed stars in the center of the yellow band and a red isosceles triangle based on the hoist side; green stands for the country's rich vegetation, red for the struggle for independence, and yellow for cocoa, one of the country's main agricultural products; the two stars symbolize the main islands<br>
 <strong>note:</strong> uses the popular pan-African colors of Ethiopia<br>
 
 **National symbol(s)**<br>
-palm tree; national colors: green, yellow, red, black<br>
+palm tree<br>
+
+**National colors**<br>
+green, yellow, red, black<br>
 
 **National anthem**<br>
 _name_: "Independencia total" (Total Independence)<br>

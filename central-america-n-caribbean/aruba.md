@@ -173,11 +173,11 @@ _unimproved: total_: total: 2.3% of population (2015 est.)<br>
 **Currently married women (ages 15-49)**<br>
 42.1% (2023 est.)<br>
 
-**Education expenditures**<br>
-5.5% of GDP (2016 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.6% of GDP (2021 est.)<br>
+_Education expenditure (% national budget)_: 19.4% national budget (2019 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 97.8%<br>
 _male_: 97.8%<br>
 _female_: 97.8% (2018)<br>
@@ -240,12 +240,6 @@ _etymology_: translates as "orange city" in Dutch; in 1824, the city was named a
 none (part of the Kingdom of the Netherlands)<br>
 <strong>note:</strong> Aruba is one of four constituent countries of the Kingdom of the Netherlands; the other three are the Netherlands, Curacao, and Sint Maarten<br>
 
-**Independence**<br>
-none (part of the Kingdom of the Netherlands)<br>
-
-**National holiday**<br>
-National Anthem and Flag Day, 18 March (1976)<br>
-
 **Legal system**<br>
 civil law system based on the Dutch civil code<br>
 
@@ -285,20 +279,29 @@ _subordinate courts_: &nbsp;Court in First Instance<br>
 **Political parties**<br>
 Accion21<br>Aruban People's Party or AVP<br>Democratic Network or RED<br>Movimiento Aruba Soberano (Aruban Sovereignty Movement) or MAS<br>People's Electoral Movement Party or MEP<br>Pueblo Orguyoso y Respeta or POR<br>RAIZ (ROOTS)<br>
 
-**International organization participation**<br>
-ACS (associate), Caricom (observer), FATF, ILO, IMF, Interpol, IOC, ITUC (NGOs), UNESCO (associate), UNWTO (associate), UPU<br>
-
 **Diplomatic representation in the US**<br>
 none (represented by the Kingdom of the Netherlands)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Aruba; the Consul General to Curacao is accredited to Aruba<br>
 
+**International organization participation**<br>
+ACS (associate), Caricom (observer), FATF, ILO, IMF, Interpol, IOC, ITUC (NGOs), UNESCO (associate), UNWTO (associate), UPU<br>
+
+**Independence**<br>
+none (part of the Kingdom of the Netherlands)<br>
+
+**National holiday**<br>
+National Anthem and Flag Day, 18 March (1976)<br>
+
 **Flag description**<br>
 blue, with two narrow, horizontal yellow stripes across the lower portion and a red four-pointed star outlined in white in the upper hoist-side corner; the star represents Aruba's red soil and white beaches, and its four points stand for the major languages (Papiamento, Dutch, Spanish, English) and the points of a compass, to indicate that its inhabitants come from all over the world; the blue symbolizes Caribbean waters and skies; the stripes represent the island's two main industries, tourism and mining<br>
 
 **National symbol(s)**<br>
-Hooiberg (Haystack) Hill; national colors: blue, yellow, red, white<br>
+Hooiberg (Haystack) Hill<br>
+
+**National colors**<br>
+blue, yellow, red, white<br>
 
 **National anthem**<br>
 _name_: "Aruba Deshi Tera" (Aruba Precious Country)<br>

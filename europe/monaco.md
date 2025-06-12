@@ -164,8 +164,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-3.7% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 3.7% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 12% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 8.61 physicians/1,000 population (2020)<br>
@@ -178,8 +179,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Education expenditures**<br>
-1.2% of GDP (2019 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 1.2% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 7.7% national budget (2023 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -243,12 +245,6 @@ _etymology_: founded as a Greek colony in the 6th century B.C., the name's origi
 **Administrative divisions**<br>
 none; there are no first-order administrative divisions as defined by the US Government, but there are 4 quarters (quartiers, singular - quartier); Fontvieille, La Condamine, Monaco-Ville, Monte-Carlo; note - Moneghetti, a part of La Condamine, is sometimes called the 5th quarter of Monaco<br>
 
-**Independence**<br>
-1419 (beginning of permanent rule by the House of GRIMALDI)<br>
-
-**National holiday**<br>
-National Day (Saint Rainier's Day), 19 November (1857)<br>
-
 **Legal system**<br>
 civil law system influenced by French legal tradition<br>
 
@@ -294,9 +290,6 @@ _subordinate courts_: Court of Appeal; Civil Court of First Instance<br>
 **Political parties**<br>
 Monegasque National Union (includes Horizon Monaco, Primo!, Union Monegasque)<br>Horizon Monaco <br>Priorite Monaco or Primo! <br>Union Monegasque <br>
 
-**International organization participation**<br>
-CD, CE, FAO, IAEA, ICAO, ICC (national committees), ICRM, IFRCS, IHO, IMO, IMSO, Interpol, IOC, IPU, ITSO, ITU, OAS (observer), OIF, OPCW, OSCE, Schengen Convention (de facto member), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WHO, WIPO, WMO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Maguy MACCARIO&nbsp;DOYLE (since 3 December 2013)<br>
 _chancery_: 888 17th Street NW, Suite 500, Washington, DC 20006<br>
@@ -308,12 +301,24 @@ _consulate(s) general_: New York<br>
 **Diplomatic representation from the US**<br>
 _embassy_: US does not have an embassy in Monaco; the US Ambassador to France is accredited to Monaco; the US Consul General in Marseille (France), under the authority of the US Ambassador to France, handles diplomatic and consular matters concerning Monaco; +(33)(1) 43-12-22-22, enter zero "0" after the automated greeting; US Embassy Paris, 2 Avenue Gabriel, 75008 Paris, France<br>
 
+**International organization participation**<br>
+CD, CE, FAO, IAEA, ICAO, ICC (national committees), ICRM, IFRCS, IHO, IMO, IMSO, Interpol, IOC, IPU, ITSO, ITU, OAS (observer), OIF, OPCW, OSCE, Schengen Convention (de facto member), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WHO, WIPO, WMO<br>
+
+**Independence**<br>
+1419 (beginning of permanent rule by the House of GRIMALDI)<br>
+
+**National holiday**<br>
+National Day (Saint Rainier's Day), 19 November (1857)<br>
+
 **Flag description**<br>
 two equal horizontal bands of red (top) and white; the colors are those of the ruling House of Grimaldi and have been in use since 1339, making the national flag one of the world's oldest<br>
 <strong>note:</strong> similar to the flags of Indonesia (longer) and Poland (colors reversed)<br>
 
 **National symbol(s)**<br>
-red and white lozenges (diamond shapes); national colors: red, white<br>
+red and white lozenges (diamond shapes)<br>
+
+**National colors**<br>
+red, white<br>
 
 **National anthem**<br>
 _name_: "A Marcia de Muneghu" (The March of Monaco)<br>

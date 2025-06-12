@@ -183,8 +183,9 @@ _unimproved: urban_: urban: 0.2% of population<br>
 _unimproved: rural_: rural: 3.1% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-9.9% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 9.9% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 9% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.36 physicians/1,000 population (2023)<br>
@@ -221,14 +222,14 @@ _female_: 8.3% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 55.9% (2023 est.)<br>
 
-**Education expenditures**<br>
-6% of GDP (2019 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.5% of GDP (2021 est.)<br>
+_Education expenditure (% national budget)_: 12.8% national budget (2021 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 94.7%<br>
-_male_: 94.4%<br>
-_female_: 94.9% (2022)<br>
+_total population_: 93% (2018 est.)<br>
+_male_: 93% (2018 est.)<br>
+_female_: 93% (2018 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
@@ -316,12 +317,6 @@ _etymology_: the name is the Latinized form of the country name, bestowed on the
 **Administrative divisions**<br>
 26 states (estados, singular - estado) and 1 federal district* (distrito federal); Acre, Alagoas, Amapa, Amazonas, Bahia, Ceara, Distrito Federal*, Espirito Santo, Goias, Maranhao, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Para, Paraiba, Parana, Pernambuco, Piaui, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondonia, Roraima, Santa Catarina, S&atilde;o Paulo, Sergipe, Tocantins<br>
 
-**Independence**<br>
-7 September 1822 (from Portugal)<br>
-
-**National holiday**<br>
-Independence Day, 7 September (1822)<br>
-
 **Legal system**<br>
 civil law<br>
 <strong>note:</strong> a new civil-law code in 2002 replaced the 1916 code<br>
@@ -384,9 +379,6 @@ _subordinate courts_: Tribunal of the Union, Federal Appeals Court, Superior Cou
 **Political parties**<br>
 <p>Act (Agir) (formerly Christian Labor Party or PTC)<br>Avante (formerly Labor Party of Brazil or PTdoB)<br>Brazil Union (União Brasil); note - founded from a merger between the Democrats (DEM) and the Social Liberal Party (PSL)  <br>Brazilian Communist Party or PCB<br>Brazilian Democratic Movement or MDB<br>Brazilian Labor Party or PTB<br>Brazilian Renewal Labor Party or PRTB<br>Brazilian Labor Party or PTB<br>Brazilian Social Democracy Party or PSDB<br>Brazilian Socialist Party or PSB<br>Christian Democracy or DC (formerly Christian Social Democratic Party)<br>Cidadania (formerly Popular Socialist Party or PPS)<br>Communist Party of Brazil or PCdoB<br>Democratic Labor Party or PDT<br>Democratic Party or PSDC<br>Democrats or DEM (formerly Liberal Front Party or PFL); note - dissolved in February 2022<br>Green Party or PV<br>Liberal Party or PL [Valdemar Costa Neto] (formerly Party of the Republic or PR)<br>National Mobilization Party or PMN<br>New Party or NOVO<br>Patriota (formerly National Ecologic Party or PEN)<br>Podemos (formerly National Labor Party or PTN) <br>Progressive Party (Progressistas) or PP<br>Republican Social Order Party or PROS<br>Republicans (Republicanos) (formerly Brazilian Republican Party or PRB)<br>Social Christian Party or PSC<br>Social Democratic Party or PSD<br>Social Liberal Party or PSL<br>Socialism and Freedom Party or PSOL<br>Solidarity or SD<br>Sustainability Network or REDE<br>United Socialist Workers' Party or PSTU<br>Workers' Cause Party or PCO<br>Workers' Party or PT</p><br>
 
-**International organization participation**<br>
-AfDB (nonregional member), BIS, BRICS, CAN (associate), CD, CELAC, CPLP, FAO, FATF, G-15, G-20, G-24, G-5, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, LAS (observer), Mercosur, MIGA, MINURSO, MINUSTAH, MONUSCO, NAM (observer), NSG, OAS, OECD (enhanced engagement), OPANAL, OPCW, Paris Club (associate), PCA, PROSUR, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, UNISFA, UNIFIL, Union Latina, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Maria Luiza Ribeiro VIOTTI (since 30 June 2023)<br>
 _chancery_: 3006 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -405,12 +397,24 @@ _email address and website_: <br>BrasilliaACS@state.gov<br><br>https://br.usemba
 _consulate(s) general_: Recife, Porto Alegre, Rio de Janeiro, S&atilde;o Paulo<br>
 _branch office(s)_: Belo Horizonte<br>
 
+**International organization participation**<br>
+AfDB (nonregional member), BIS, BRICS, CAN (associate), CD, CELAC, CPLP, FAO, FATF, G-15, G-20, G-24, G-5, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, LAS (observer), Mercosur, MIGA, MINURSO, MINUSTAH, MONUSCO, NAM (observer), NSG, OAS, OECD (enhanced engagement), OPANAL, OPCW, Paris Club (associate), PCA, PROSUR, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, UNISFA, UNIFIL, Union Latina, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+7 September 1822 (from Portugal)<br>
+
+**National holiday**<br>
+Independence Day, 7 September (1822)<br>
+
 **Flag description**<br>
 green with a large yellow diamond in the center, showing a blue celestial globe with 27 white five-pointed stars; the globe has a white equatorial band with the motto ORDEM E PROGRESSO (Order and Progress); the flag was inspired by the former Empire of Brazil's flag (1822-1889); the green represents the forests of the country, and the yellow its mineral wealth, with the diamond representing the country's shape; the blue circle and stars depict the sky over Rio de Janeiro on the morning of 15 November 1889, the day the Republic of Brazil was declared; the number of stars has risen with the creation of new states, from 21 to 27 (one for each state and the Federal District)<br>
 <strong>note:</strong> one of four national flags that reflect the shape of the country in the flag design; the others are Bosnia and Herzegovina, Eritrea, and Vanuatu<br>
 
 **National symbol(s)**<br>
-Southern Cross constellation; national colors: green, yellow, blue<br>
+Southern Cross constellation<br>
+
+**National colors**<br>
+green, yellow, blue<br>
 
 **National anthem**<br>
 _name_: "Hino Nacional Brasileiro" (Brazilian National Anthem)<br>

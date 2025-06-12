@@ -179,8 +179,9 @@ _unimproved: urban_: urban: 6.6% of population<br>
 _unimproved: rural_: rural: 38.5% of population<br>
 _unimproved: total_: total: 26.7% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-9.1% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 9.1% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 8% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.18 physicians/1,000 population (2022)<br>
@@ -222,14 +223,14 @@ _women married by age 15_: 16.8% (2015)<br>
 _women married by age 18_: 52.9% (2015)<br>
 _men married by age 18_: 9.7% (2015)<br>
 
-**Education expenditures**<br>
-6.3% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 6% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 18.8% national budget (2021 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 63.4%<br>
-_male_: 74.1%<br>
-_female_: 53.8% (2021)<br>
+_total population_: 60% (2020 est.)<br>
+_male_: 72% (2020 est.)<br>
+_female_: 49% (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 10 years<br>
@@ -259,9 +260,6 @@ _other_: 1.2% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 38.8% of total population (2023)<br>
 _rate of urbanization_: 4.24% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <p><em>due to shortfall in insecurity in northern areas and extreme weather events - </em>food insecurity estimates for 2023 are not yet available, but the landing of cyclone Freddy in February 2023 is expected to have caused disruptions to livelihoods and resulted in crop damage, aggravating food insecurity of the affected population</p> (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 16.45 micrograms per cubic meter (2019 est.)<br>
@@ -312,12 +310,6 @@ _etymology_: named after the Maputo River, which drains into Maputo Bay south of
 **Administrative divisions**<br>
 10 provinces (provincias, singular - provincia), 1 city (cidade)*; Cabo Delgado, Gaza, Inhambane, Manica, Maputo, Cidade de Maputo*, Nampula, Niassa, Sofala, Tete, Zambezia<br>
 
-**Independence**<br>
-25 June 1975 (from Portugal)<br>
-
-**National holiday**<br>
-Independence Day, 25 June (1975)<br>
-
 **Legal system**<br>
 mixed system of Portuguese civil law and customary law<br>
 
@@ -364,9 +356,6 @@ _subordinate courts_: Administrative Court (capital city only); provincial court
 **Political parties**<br>
 Democratic Movement of Mozambique (Movimento Democratico de Mocambique) or MDM<br>Liberation Front of Mozambique (Frente de Liberatacao de Mocambique) or FRELIMO<br>Mozambican National Resistance (Resistencia Nacional Mocambicana) or RENAMO<br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OIF (observer), OPCW, SADC, UN, UNCTAD, UNDP, UNEP,&nbsp; UNESCO, UNHCR, UNIDO, UNWTO, Union Latina, UPU, WCO, WFP, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Alfredo Fabi&atilde;o NUVUNGA (since 19 April 2023)<br>
 _chancery_: 1525 New Hampshire Avenue NW, Washington, DC 20036<br>
@@ -381,12 +370,24 @@ _mailing address_: 2330 Maputo Place, Washington DC&nbsp; 20521-2330<br>
 _telephone_: [258] (84) 095-8000<br>
 _email address and website_: <br>MaputaConsular@state.gov<br><br>https://mz.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OIF (observer), OPCW, SADC, UN, UNCTAD, UNDP, UNEP,&nbsp; UNESCO, UNHCR, UNIDO, UNWTO, Union Latina, UPU, WCO, WFP, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+25 June 1975 (from Portugal)<br>
+
+**National holiday**<br>
+Independence Day, 25 June (1975)<br>
+
 **Flag description**<br>
 three equal horizontal bands of green (top), black, and yellow, with a red isosceles triangle based on the hoist side; the black band is edged in white; centered in the triangle is a yellow five-pointed star with a crossed rifle and hoe in black superimposed on an open white book; green stands for the riches of the land, white for peace, black for the African continent, yellow for the country's minerals, and red for the fight for independence; the rifle symbolizes defense and vigilance, the hoe refers to the country's agriculture, the open book stresses the importance of education, and the star represents Marxism and internationalism<br>
 <strong>note:</strong> one of two national flags featuring a firearm; the other is Guatemala<br>
 
 **National symbol(s)**<br>
-national symbols: rifle, hoe, and book; national colors: green, black, yellow, white, red<br>
+rifle, hoe, and book<br>
+
+**National colors**<br>
+green, black, yellow, white, red<br>
 
 **National anthem**<br>
 _name_: "Patria Amada" (Lovely Fatherland)<br>
@@ -662,11 +663,11 @@ Armed Forces for the Defense of Mozambique (Forcas Armadas de Defesa de Mocambiq
 <strong>note 1: </strong>the FADM and other security forces are referred to collectively as the Mozambican Defense and Security Forces (FDS)<br><strong><br>note 2:</strong> the PRM, SERNIC, and the UIR are responsible for law enforcement and internal security; the Border Security Force is responsible for protecting the country’s international borders and for carrying out police duties within 24 miles of borders<br><br><strong>note 3:</strong> in 2023, the Mozambique Government legalized local militias that have been assisting security forces operating in Cabo Delgado against Islamic militants since 2020; this Local Force is comprised of ex-combatants and other civilians and receives training, uniforms, weapons, and logistical support from the FADM<br>
 
 **Military expenditures**<br>
+2% of GDP (2024 est.)<br>
 1.5% of GDP (2023 est.)<br>
 1.3% of GDP (2022 est.)<br>
 1.2% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
-1.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 12,000 active FADM (2025)<br>

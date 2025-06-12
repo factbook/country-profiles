@@ -173,8 +173,9 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-5.8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 9.4% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.27 physicians/1,000 population (2020)<br>
@@ -211,14 +212,14 @@ _female_: 1.9% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 59.6% (2023 est.)<br>
 
-**Education expenditures**<br>
-6.6% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 12.6% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 96.5%<br>
-_male_: 97.1%<br>
-_female_: 95.4% (2020)<br>
+_total population_: 96% (2020 est.)<br>
+_male_: 97% (2020 est.)<br>
+_female_: 95% (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -292,12 +293,6 @@ _etymology_: the name comes from the Arabic <em>al-kuwayt</em>, a diminutive of 
 **Administrative divisions**<br>
 6 governorates (muhafazat, singular - muhafazah); Al Ahmadi, Al 'Asimah, Al Farwaniyah, Al Jahra', Hawalli, Mubarak al Kabir<br>
 
-**Independence**<br>
-19 June 1961 (from the UK)<br>
-
-**National holiday**<br>
-National Day, 25 February (1950)<br>
-
 **Legal system**<br>
 mixed system consisting of English common law, French civil law, and Islamic sharia law<br>
 
@@ -336,9 +331,6 @@ _subordinate courts_: High Court of Appeal; Court of First Instance; Summary Cou
 **Political parties**<br>
 none; the government does not recognize any political parties or allow their formation, although no formal law bans political parties<br>
 
-**International organization participation**<br>
-ABEDA, AfDB (nonregional member), AFESD, AMF, BDEAC, CAEU, CD, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, Paris Club (associate), PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNRWA, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador AL-ZAIN Sabah Naser Saud Al-Sabah (since 19 April 2023)<br>
 _chancery_: 2940 Tilden Street NW, Washington, DC 20008<br>
@@ -355,11 +347,23 @@ _telephone_: [00] (965) 2259-1001<br>
 _FAX_: [00] (965) 2538-0282<br>
 _email address and website_: <br>KuwaitACS@state.gov<br><br>https://kw.usembassy.gov/<br>
 
+**International organization participation**<br>
+ABEDA, AfDB (nonregional member), AFESD, AMF, BDEAC, CAEU, CD, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, Paris Club (associate), PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNRWA, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+19 June 1961 (from the UK)<br>
+
+**National holiday**<br>
+National Day, 25 February (1950)<br>
+
 **Flag description**<br>
 three equal horizontal bands of green (top), white, and red with a black trapezoid based on the hoist side; colors and design are based on the Arab Revolt flag of World War I; green stands for fertile fields, white for purity, red for blood on Kuwaiti swords, and black for defeating the enemy<br>
 
 **National symbol(s)**<br>
-golden falcon; national colors: green, white, red, black<br>
+golden falcon<br>
+
+**National colors**<br>
+green, white, red, black<br>
 
 **National anthem**<br>
 _name_: "Al-Nasheed Al-Watani" (National Anthem)<br>

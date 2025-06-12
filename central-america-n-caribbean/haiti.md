@@ -174,8 +174,9 @@ _unimproved: urban_: urban: 8.1% of population<br>
 _unimproved: rural_: rural: 43.9% of population<br>
 _unimproved: total_: total: 23.5% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-3.5% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 3.5% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 4.1% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.29 physicians/1,000 population (2022)<br>
@@ -217,14 +218,14 @@ _women married by age 15_: 2.1% (2017)<br>
 _women married by age 18_: 14.9% (2017)<br>
 _men married by age 18_: 1.6% (2017)<br>
 
-**Education expenditures**<br>
-1.4% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 1.1% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 13.2% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 61.7%<br>
-_male_: 65.3%<br>
-_female_: 58.3% (2016)<br>
+_total population_: 68% (2017 est.)<br>
+_male_: 72.9% (2017 est.)<br>
+_female_: 63.9% (2017 est.)<br>
 
 ## Environment
 
@@ -249,9 +250,6 @@ _other_: 22.5% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 59.7% of total population (2023)<br>
 _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to high food prices, natural disasters, and worsening civil insecurity - </em>about 4.9 million people are estimated to face severe acute food insecurity and were in need of urgent food assistance between March and June 2023; the high levels of food insecurity are the result of sustained economic downturn, reducing domestic food production, elevated food prices, fuel shortage and frequent natural disasters; the situation is exacerbated by worsening insecurity, which has limited access to essential services, including markets, caused population displacements and hampered delivery of humanitarian assistance (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 9.69 micrograms per cubic meter (2019 est.)<br>
@@ -290,12 +288,6 @@ _etymology_: the name means "the port of the prince" and probably came from a sh
 
 **Administrative divisions**<br>
 10 departments (d&eacute;partements, singular - d&eacute;partement); Artibonite, Centre, Grand'Anse, Nippes, Nord, Nord-Est, Nord-Ouest, Ouest, Sud, Sud-Est<br>
-
-**Independence**<br>
-1 January 1804 (from France)<br>
-
-**National holiday**<br>
-Independence Day, 1 January (1804)<br>
 
 **Legal system**<br>
 civil law system strongly influenced by Napoleonic Code<br>
@@ -361,9 +353,6 @@ _subordinate courts_: Courts of Appeal; Courts of First Instance; magistrate's c
 **Political parties**<br>
 Alternative League for Haitian Progress and Emancipation (Ligue Alternative pour le Progres et l’Emancipation Haitienne) or LAPEH<br>Christian Movement for a New Haiti or MCNH or Mochrenha<br>Christian National Movement for the Reconstruction of Haiti or UNCRH<br>Combat of Peasant Workers to Liberate Haiti (Konbit Travaye Peyizan Pou Libere Ayiti) or Kontra Pep La <br>Convention for Democratic Unity or KID<br>Cooperative Action to Rebuild Haiti or KONBA<br>December 16 Platform or Platfom 16 Desanm<br>Democratic Alliance Party or ALYANS (coalition includes KID and PPRH)<br>Democratic Centers' National Council or CONACED<br>Democratic and Popular Sector (Secteur Democratique et Populaire) or SDP<br>Democratic Unity Convention (Konvansyon Inite Demokratik) or KID<br>Dessalinian Patriotic and Popular Movement or MOPOD<br>Effort and Solidarity to Create an Alternative for the People or ESKAMP<br>Fanmi Lavalas or FL<br>Forward (En Avant)<br>Fusion of Haitian Social Democrats (Fusion Des Sociaux-Démocrates Haïtiens) or FHSD<br>G18 Policy Platform (Plateforme Politique G18)<br>Haiti in Action (Ayiti An Aksyon Haiti's Action) or AAA<br>Haitian Tet Kale Party (Parti Haitien Tet Kale) or PHTK<br>Independent Movement for National Reconciliation or MIRN<br>Lavni Organization or LAVNI<br>Lod Demokratik<br>Love Haiti (Renmen Ayiti) or RA<br>MTV Ayiti<br>National Consortium of Haitian Political Parties (Consortium National des Partis Politiques Haitiens) or CNPPH <br>National Shield Network (Reseau Bouclier National)<br>Organization of the People's Struggle (Oganizasyon Pep Kap Lite) or OPL<br>Patriotic Unity (Inite Patriyotik) or Inite<br>Platform Pitit Desalin (Politik Pitit Dessalines) or PPD<br>Political Party for Us All or Bridge (Pont) or Pou Nou Tout<br>Popular Patriotic Dessalinien Movement (Mouvement Patriotique Populaire Dessalinien) or MOPOD<br>Rally of Progressive National Democrats (Rassemblement des Democrates Nationaux Progressistes) or RDNP<br>Respe (Respect)<br>Women and Families Political Parties (Defile Pati Politik Fanm Ak Fanmi)<br>
 
-**International organization participation**<br>
-ACP, ACS, AOSIS, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OIF, OPANAL, OPCW, PCA, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Louis Harold JOSEPH (since 15 May 2023)<br>
 _chancery_: 2311 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -380,11 +369,23 @@ _telephone_: [011] (509) 2229-8000<br>
 _FAX_: [011] (509) 2229-8027<br>
 _email address and website_: <br>acspap@state.gov<br><br>https://ht.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, ACS, AOSIS, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OIF, OPANAL, OPCW, PCA, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+1 January 1804 (from France)<br>
+
+**National holiday**<br>
+Independence Day, 1 January (1804)<br>
+
 **Flag description**<br>
 two equal horizontal bands of blue (top) and red with a centered white rectangle bearing the coat of arms, which has a palm tree flanked by flags and two cannons above a scroll with the motto L'UNION FAIT LA FORCE (Union Makes Strength); the colors are taken from the French flag and represent the union of ethnic groups<br>
 
 **National symbol(s)**<br>
-Hispaniolan trogon (bird), hibiscus flower; national colors: blue, red<br>
+Hispaniolan trogon (bird), hibiscus flower<br>
+
+**National colors**<br>
+blue, red<br>
 
 **National anthem**<br>
 _name_: "La Dessalinienne" (The Dessalines Song)<br>

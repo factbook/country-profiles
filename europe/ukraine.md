@@ -180,8 +180,9 @@ _unimproved: urban_: urban: 0.6% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 10.6% of national budget (2021 est.)<br>
 
 **Physician density**<br>
 3.53 physicians/1,000 population (2023)<br>
@@ -215,11 +216,11 @@ _female_: 8% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 61.6% (2023 est.)<br>
 
-**Education expenditures**<br>
-5.4% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.9% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 8.5% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 100%<br>
 _male_: 100%<br>
 _female_: 100% (2021)<br>
@@ -252,9 +253,6 @@ _other_: 12% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 70.1% of total population (2023)<br>
 _rate of urbanization_: -0.27% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <p><em>due to conflict</em> - Ukraine continues to be a significant supplier of food commodities for the world; however, according to a 2023 analysis, at least 17.6 million people are estimated to be in need of multi-sectoral humanitarian assistance in 2023 due to the war, including over 11 million in need of food security and livelihood interventions; the harvest of the 2023 winter cereal crops, mostly wheat, is onging and will be concluded by August; as a result of a smaller planted area, the 2023 wheat harvest in areas under government control is estimated at 18.5 million mt, about 8% below the already war‑affected 2022 output; despite decreased cereal production, food availability at the national level is reported to be adequate, but access remains a major challenge; the country has already experienced elevated levels of food price inflation in the past, due to the economic impact of the conflict in eastern areas; in addition, rising energy costs, amidst high unemployment rates and limited livelihood opportunities, are reducing households’ purchasing power and driving more people into poverty</p> (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 13.51 micrograms per cubic meter (2019 est.)<br>
@@ -304,12 +302,6 @@ _etymology_: the origin of the name is unclear; traditionally, the name comes fr
 24 provinces (oblasti, singular - oblast'), 1 autonomous republic* (avtonomna respublika), and 2 municipalities** (mista, singular - misto) with oblast status; Cherkasy, Chernihiv, Chernivtsi, Crimea or Avtonomna Respublika Krym* (Simferopol), Dnipropetrovsk (Dnipro), Donetsk, Ivano-Frankivsk, Kharkiv, Kherson, Khmelnytskyi, Kirovohrad (Kropyvnytskyi), Kyiv**, Kyiv, Luhansk, Lviv, Mykolaiv, Odesa, Poltava, Rivne, Sevastopol**, Sumy, Ternopil, Vinnytsia, Volyn (Lutsk), Zakarpattia (Uzhhorod), Zaporizhzhia, Zhytomyr<br>
 <strong>note 1:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses); plans include the eventual renaming of Dnipropetrovsk and Kirovohrad oblasts, but because these names are mentioned in the Constitution of Ukraine, the change will require a constitutional amendment <br><br><strong>note 2:</strong> the US Government does not recognize Russia's illegal annexation of Ukraine's Autonomous Republic of Crimea and the municipality of Sevastopol, nor their redesignation as the "Republic of Crimea" and the "Federal City of Sevastopol"; neither does the US Government recognize Russia's claimed annexation of Donetsk, Kherson, Luhansk, and Zaporizhzhia oblasts<br>
 
-**Independence**<br>
-24 August 1991 (from the Soviet Union); notable earlier dates: ca. 982 (VOLODYMYR I consolidates Kyivan Rus); 1199 (Principality (later Kingdom) of Ruthenia formed); 1648 (establishment of the Cossack Hetmanate); 22 January 1918 (from Soviet Russia)<br>
-
-**National holiday**<br>
-Independence Day, 24 August (1991); note - 22 January 1918, the day Ukraine first declared its independence from Soviet Russia, and the date the short-lived Western and Greater (Eastern) Ukrainian republics united (1919), is now celebrated as Unity Day<br>
-
 **Legal system**<br>
 civil law system; judicial review of legislative acts<br>
 
@@ -358,10 +350,6 @@ _subordinate courts_: <p>Courts of Appeal; district courts</p><br>
 **Political parties**<br>
 Batkivshchyna (Fatherland)<br>European Solidarity or YeS<br>Holos (Voice or Vote)<br>Opposition Bloc (formerly known as Opposition Bloc — Party for Peace and Development, successor of the Industrial Party of Ukraine, and resulted from a schism in the original Opposition Bloc in 2019; banned in court June 2022; ceased to exist in July 2022)<br>Opposition Bloc or OB (divided into Opposition Bloc - Party for Peace and Development and Opposition Platform - For Life in 2019; ceased to exist in July 2022)<br>Opposition Platform - For Life (resulted from a schism in the original Opposition Bloc in 2019; activities suspended by the National Security and Defense Council in March 2022; dissolved in April 2022)<br>Platform for Life and Peace<br>Radical Party or RPOL<br>Samopomich (Self Reliance)<br>Servant of the People<br>Svoboda (Freedom)<br>
 
-**International organization participation**<br>
-Australia Group, BSEC, CBSS (observer), CD, CE, CEI, CICA (observer), CIS (participating member, has not signed the 1993 CIS charter), EAEC (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NAM (observer), NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-<strong>note</strong>: Ukraine is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Oksana MARKAROVA (since 7 July 2021)<br>
 _chancery_: 3350 M Street NW, Washington, DC 20007<br>
@@ -378,11 +366,24 @@ _telephone_: [380] (44) 521-5000<br>
 _FAX_: [380] (44) 521-5544<br>
 _email address and website_: <br>kyivacs@state.gov<br><br>https://ua.usembassy.gov/<br>
 
+**International organization participation**<br>
+Australia Group, BSEC, CBSS (observer), CD, CE, CEI, CICA (observer), CIS (participating member, has not signed the 1993 CIS charter), EAEC (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NAM (observer), NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+<strong>note</strong>: Ukraine is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
+
+**Independence**<br>
+24 August 1991 (from the Soviet Union); notable earlier dates: ca. 982 (VOLODYMYR I consolidates Kyivan Rus); 1199 (Principality (later Kingdom) of Ruthenia formed); 1648 (establishment of the Cossack Hetmanate); 22 January 1918 (from Soviet Russia)<br>
+
+**National holiday**<br>
+Independence Day, 24 August (1991); note - 22 January 1918, the day Ukraine first declared its independence from Soviet Russia, and the date the short-lived Western and Greater (Eastern) Ukrainian republics united (1919), is now celebrated as Unity Day<br>
+
 **Flag description**<br>
 two equal horizontal bands of blue (top) and yellow; the colors date back to medieval heraldry, but they are sometimes said to represent grain fields under a blue sky<br>
 
 **National symbol(s)**<br>
-tryzub (trident), sunflower; national colors: blue, yellow<br>
+tryzub (trident), sunflower<br>
+
+**National colors**<br>
+blue, yellow<br>
 
 **National anthem**<br>
 _name_: "Shche ne vmerla Ukraina" (Ukraine Has Not Yet Perished)<br>

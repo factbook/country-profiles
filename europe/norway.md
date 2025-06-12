@@ -176,8 +176,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-8.1% of GDP (2022)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 8.1% of GDP (2022)<br>
+_Health expenditure (as % of national budget)_: 17.8% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 4.98 physicians/1,000 population (2023)<br>
@@ -215,8 +216,9 @@ _female_: 11.3% (2025 est.)<br>
 _women married by age 15_: 0% (2022)<br>
 _women married by age 18_: 0% (2022)<br>
 
-**Education expenditures**<br>
-5.9% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 10.1% national budget (2022 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -300,12 +302,6 @@ _etymology_: the name may derive from the Old Norwegian word <em>os</em>, meanin
 **Dependent areas**<br>
 Bouvet Island, Jan Mayen, Svalbard (3)<br>
 
-**Independence**<br>
-7 June 1905 (union with Sweden declared dissolved); 26 October 1905 (Sweden agreed to the repeal of the union); notable earlier dates: ca. 872 (traditional unification of petty Norwegian kingdoms by HARALD Fairhair); 1397 (Kalmar Union of Denmark, Norway, and Sweden); 1524 (Denmark-Norway); 17 May 1814 (Norwegian constitution adopted); 4 November 1814 (Sweden-Norway union confirmed)<br>
-
-**National holiday**<br>
-Constitution Day, 17 May (1814)<br>
-
 **Legal system**<br>
 mixed system of civil, common, and customary law; Supreme Court can advise on legislative acts<br>
 
@@ -352,9 +348,6 @@ _subordinate courts_: Courts of Appeal or Lagmennsrett; regional and district co
 **Political parties**<br>
 <p>Center Party or Sp <br>Christian Democratic Party or KrF <br>Conservative Party or H <br>Green Party or MDG <br>Labor Party or Ap <br>Liberal Party or V<br>Patient Focus or PF <br>Progress Party or FrP <br>Red Party or R <br>Socialist Left Party or SV </p><br>
 
-**International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Anniken Scharning HUITFELDT (since 18 September 2024)<br>
 _chancery_: 2720 34th Street NW, Washington, DC 20008<br>
@@ -371,11 +364,23 @@ _telephone_: [47] 21-30-85-40<br>
 _FAX_: [47] 22-56-27-51<br>
 _email address and website_: <br>OsloACS@state.gov<br><br>https://no.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+7 June 1905 (union with Sweden declared dissolved); 26 October 1905 (Sweden agreed to the repeal of the union); notable earlier dates: ca. 872 (traditional unification of Norwegian kingdoms by HARALD Fairhair); 1397 (Kalmar Union of Denmark, Norway, and Sweden); 1524 (Denmark-Norway); 17 May 1814 (Norwegian constitution adopted); 4 November 1814 (Sweden-Norway union confirmed)<br>
+
+**National holiday**<br>
+Constitution Day, 17 May (1814)<br>
+
 **Flag description**<br>
 red with a blue cross outlined in white that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors represent Norway's past political unions with Denmark (red and white) and Sweden (blue)<br>
 
 **National symbol(s)**<br>
-lion; national colors: red, white, blue<br>
+lion<br>
+
+**National colors**<br>
+red, white, blue<br>
 
 **National anthem**<br>
 _name_: "Ja, vi elsker dette landet" (Yes, We Love This Country)<br>
@@ -389,7 +394,7 @@ _selected World Heritage Site locales_: Bryggen (c); Urnes Stave Church (c); Rø
 ## Economy
 
 **Economic overview**<br>
-high-income, non-EU economy with trade links via European Economic Area (EEA); key European energy security role as leader in oil, gas, and electricity exports; major fishing, forestry, and extraction industries; oil sovereign fund supports generous welfare system; low unemployment; inflation and response hampering growth in non-energy sectors<br>
+<p>high-income, non-EU economy with trade links via European Economic Area (EEA); key role in European energy security as leader in oil, gas, and electricity exports; major fishing, forestry, and oil(?) extraction industries; oil sovereign fund supports generous welfare system; low unemployment; inflation moderating but remains above target level</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $499.357 billion (2023 est.)<br>

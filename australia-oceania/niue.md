@@ -117,8 +117,9 @@ _female_: 75.7 years (2016 est.)<br>
 _improved: total_: total: 97% of population<br>
 _unimproved: total_: total: 3% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-7.8% of GDP (2020)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 7.8% of GDP (2020)<br>
+_Health expenditure (as % of national budget)_: 6.9% of national budget (2022 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: total_: total: 95.5% of population<br>
@@ -133,6 +134,9 @@ _beer_: 4.28 liters of pure alcohol (2019 est.)<br>
 _wine_: 1.89 liters of pure alcohol (2019 est.)<br>
 _spirits_: 2.33 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
+**Education expenditure**<br>
+5.6% national budget (2025 est.)<br>
 
 ## Environment
 
@@ -188,12 +192,6 @@ _etymology_: a traditional name for an area of the island; became the name for t
 **Administrative divisions**<br>
 none; there are no first-order administrative divisions as defined by the US Government, but there are 14 villages at the second order<br>
 
-**Independence**<br>
-19 October 1974 (Niue became a self-governing state in free association with New Zealand)<br>
-
-**National holiday**<br>
-Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealand), 6 February (1840)<br>
-
 **Legal system**<br>
 English common law<br>
 
@@ -232,9 +230,6 @@ _subordinate courts_: High Court<br>
 **Political parties**<br>
 none<br>
 
-**International organization participation**<br>
-ACP, AOSIS, FAO, IFAD, OPCW, PIF, Sparteca, SPC, UNESCO, UPU, WHO, WIPO, WMO<br>
-
 **Diplomatic representation in the US**<br>
 none (self-governing territory in free association with New Zealand)<br>
 
@@ -242,11 +237,23 @@ none (self-governing territory in free association with New Zealand)<br>
 _embassy_: none (self-governing territory in free association with New Zealand)<br>
 <strong>note:</strong> on 25 September 2023, the US officially established diplomatic relations with Niue<br>
 
+**International organization participation**<br>
+ACP, AOSIS, FAO, IFAD, OPCW, PIF, Sparteca, SPC, UNESCO, UPU, WHO, WIPO, WMO<br>
+
+**Independence**<br>
+19 October 1974 (Niue became a self-governing state in free association with New Zealand)<br>
+
+**National holiday**<br>
+Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealand), 6 February (1840)<br>
+
 **Flag description**<br>
 yellow with the UK flag in the upper hoist-side quadrant; the UK flag has five yellow five-pointed stars, with a large star (representing Niue) on a blue disk in the center and smaller stars on each arm of the red cross that symbolize links with New Zealand; yellow stands for sunshine and the warmth and friendship between Niue and New Zealand<br>
 
 **National symbol(s)**<br>
-yellow, five-pointed star; national color: yellow<br>
+yellow five-pointed star<br>
+
+**National colors**<br>
+yellow<br>
 
 **National anthem**<br>
 _name_: "Ko e Iki he Lagi" (The Lord in Heaven)<br>

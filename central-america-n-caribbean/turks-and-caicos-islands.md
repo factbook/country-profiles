@@ -176,8 +176,9 @@ _women married by age 15_: 0% (2020)<br>
 _women married by age 18_: 23.3% (2020)<br>
 _men married by age 18_: 5.1% (2020)<br>
 
-**Education expenditures**<br>
-4.5% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.1% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 8.7% national budget (2023 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -239,12 +240,6 @@ _etymology_: named after Sir Francis COCKBURN, who served as governor of the Bah
 **Administrative divisions**<br>
 none (overseas territory of the UK)<br>
 
-**Independence**<br>
-none (overseas territory of the UK)<br>
-
-**National holiday**<br>
-Birthday of Queen ELIZABETH II, usually celebrated the Monday after the second Saturday in June<br>
-
 **Legal system**<br>
 mixed system of English common law and civil law<br>
 
@@ -284,14 +279,20 @@ _subordinate courts_: magistrates' courts<br>
 **Political parties**<br>
 People's Democratic Movement or PDM<br>Progressive National Party or PNP<br>
 
-**International organization participation**<br>
-Caricom (associate), CDB, Interpol (subbureau), UPU<br>
-
 **Diplomatic representation in the US**<br>
 none (overseas territory of the UK)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (overseas territory of the UK)<br>
+
+**International organization participation**<br>
+Caricom (associate), CDB, Interpol (subbureau), UPU<br>
+
+**Independence**<br>
+none (overseas territory of the UK)<br>
+
+**National holiday**<br>
+Birthday of Queen ELIZABETH II, usually celebrated the Monday after the second Saturday in June<br>
 
 **Flag description**<br>
 blue with the UK flag in the upper hoist-side quadrant and the colonial shield centered on the outer half of the flag; the shield is yellow and displays a conch shell, a spiny lobster, and Turk's cap cactus<br>

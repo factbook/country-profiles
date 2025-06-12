@@ -176,6 +176,9 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
+**Health expenditure**<br>
+5.1% of national budget (2022 est.)<br>
+
 **Physician density**<br>
 2.04 physicians/1,000 population (2017)<br>
 
@@ -206,11 +209,7 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 **Currently married women (ages 15-49)**<br>
 59.2% (2023 est.)<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 91%<br>
 _male_: 96.7%<br>
 _female_: 85.6% (2015)<br>
@@ -238,9 +237,6 @@ _other_: 91.2% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 81.6% of total population (2023)<br>
 _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to civil insecurity, economic and political instability, and high food prices -</em> a 2023 analysis states that about 300,000 people are estimated to be in need of humanitarian assistance in 2023; the country relies heavily on imports (up to 90%) to cover its cereal consumption requirements (mostly wheat for human consumption and barley for feed); between 2016 and 2020, the country sourced over 30% of its wheat imports from Ukraine, and 20% from the Russian Federation; almost 65% of total maize imports of 650,000 mt, and 50% of total barley imports of 1 million mt originated from Ukraine, making the Libya vulnerable to disruptions in shipments from the Black Sea region (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 29.84 micrograms per cubic meter (2019 est.)<br>
@@ -285,12 +281,6 @@ _etymology_: the name derives from the Greek words <em>tri </em>and <em>polis</e
 **Administrative divisions**<br>
 22 governorates (muhafazah, singular - muhafazat); Al Butnan, Al Jabal al Akhdar, Al Jabal al Gharbi, Al Jafarah, Al Jufrah, Al Kufrah, Al Marj, Al Marqab, Al Wahat, An Nuqat al Khams, Az Zawiyah, Banghazi (Benghazi), Darnah, Ghat, Misratah, Murzuq, Nalut, Sabha, Surt, Tarabulus (Tripoli), Wadi al Hayat, Wadi ash Shati<br>
 
-**Independence**<br>
-24 December 1951 (from UN trusteeship)<br>
-
-**National holiday**<br>
-Liberation Day, 23 October (2011)<br>
-
 **Legal system**<br>
 Libya's post-revolution system is in flux and driven by state and non-state entities<br>
 
@@ -332,9 +322,6 @@ _highest court(s)_: Libya's judicial system consists of a supreme court, central
 **Political parties**<br>
 NA<br><br>
 
-**International organization participation**<br>
-ABEDA, AfDB, AFESD, AMF, AMU, AU, BDEAC, CAEU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, LCBC, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNSMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Fadil S M OMAR (since 17 July 2023)<br>
 _chancery_: 1460 Dahlia Street NW, Washington, DC 20012<br>
@@ -350,11 +337,23 @@ _telephone_: [216] 71-107-000<br>
 _email address and website_: <br>Webmaster_Libya@state.gov<br><br>https://ly.usembassy.gov/<br>
 <strong>note:</strong> the US Embassy in Tripoli closed in July 2014 due to Libyan civil unrest; embassy staff and operations currently are located at US Embassy Tunis, Tunisia<br>
 
+**International organization participation**<br>
+ABEDA, AfDB, AFESD, AMF, AMU, AU, BDEAC, CAEU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, LCBC, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNSMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
+
+**Independence**<br>
+24 December 1951 (from UN trusteeship)<br>
+
+**National holiday**<br>
+Liberation Day, 23 October (2011)<br>
+
 **Flag description**<br>
 three horizontal bands of red (top), black (double-width), and green, with a white crescent and star centered on the black stripe; the National Transitional Council reintroduced this flag design from the former Kingdom of Libya (1951-1969) in 2011 to replace the all-green banner of the QADHAFI regime; the colors represent the three major regions of the country: red stands for Fezzan, black for Cyrenaica, and green for Tripolitania; the crescent and star represent Islam<br>
 
 **National symbol(s)**<br>
-star and crescent, hawk; national colors: red, black, green<br>
+star and crescent, hawk<br>
+
+**National colors**<br>
+red, black, green<br>
 
 **National anthem**<br>
 _name_: "Libya, Libya, Libya"<br>

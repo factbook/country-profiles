@@ -187,8 +187,9 @@ _unimproved: urban_: urban: 0.7% of population<br>
 _unimproved: rural_: rural: 0.9% of population<br>
 _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-11.2% of GDP (2022)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 11.2% of GDP (2022)<br>
+_Health expenditure (as % of national budget)_: 19.5% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.82 physicians/1,000 population (2023)<br>
@@ -222,8 +223,9 @@ _female_: 8% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 52.2% (2023 est.)<br>
 
-**Education expenditures**<br>
-5.2% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.5% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 11.2% national budget (2023 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -314,12 +316,6 @@ _etymology_: the city lies on the south bank of the Ottawa River, from which it 
 **Administrative divisions**<br>
 10 provinces and 3 territories*; Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories*, Nova Scotia, Nunavut*, Ontario, Prince Edward Island, Qu&eacute;bec, Saskatchewan, Yukon*<br>
 
-**Independence**<br>
-1 July 1867 (union of British North American colonies); 11 December 1931 (recognized by UK per Statute of Westminster)<br>
-
-**National holiday**<br>
-Canada Day, 1 July (1867)<br>
-
 **Legal system**<br>
 common law system except in Quebec, where civil law based on the French civil code prevails<br>
 
@@ -375,9 +371,6 @@ _subordinate courts_: federal level: Federal Court of Appeal; Federal Court; Tax
 **Political parties**<br>
 Bloc Quebecois<br>Conservative Party of Canada or CPC<br>Green Party<br>Liberal Party<br>New Democratic Party or NDP<br>People's Party of Canada<br>
 
-**International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CDB, CE (observer), EAPC, EBRD, EITI (implementing country), FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNOOSA, UNRWA, UNTSO, UPU, USMCA, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Kirsten HILLMAN (since 17 July 2020)<br>
 _chancery_: 501 Pennsylvania Avenue NW, Washington, DC 20001<br>
@@ -397,11 +390,23 @@ _email address and website_: <br>OttawaNIV@state.gov<br><br>https://ca.usembassy
 _consulate(s) general_: Calgary, Halifax, Montreal, Quebec City, Toronto, Vancouver<br>
 _consulate(s)_: Winnipeg<br>
 
+**International organization participation**<br>
+ADB (nonregional member), AfDB (nonregional member), APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CDB, CE (observer), EAPC, EBRD, EITI (implementing country), FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNOOSA, UNRWA, UNTSO, UPU, USMCA, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+1 July 1867 (union of British North American colonies); 11 December 1931 (recognized by UK per Statute of Westminster)<br>
+
+**National holiday**<br>
+Canada Day, 1 July (1867)<br>
+
 **Flag description**<br>
 two vertical bands of red (hoist and fly side, half-width) with white square between them; an 11-pointed red maple leaf, a national symbol, is centered in the white square<br>
 
 **National symbol(s)**<br>
-maple leaf, beaver; national colors: red, white<br>
+maple leaf, beaver<br>
+
+**National colors**<br>
+red, white<br>
 
 **National anthem**<br>
 _name_: "O Canada"<br>

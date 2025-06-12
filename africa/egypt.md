@@ -186,8 +186,9 @@ _unimproved: urban_: urban: 0.3% of population<br>
 _unimproved: rural_: rural: 0.3% of population<br>
 _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-4.6% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 4.6% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 7.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.67 physicians/1,000 population (2020)<br>
@@ -225,14 +226,14 @@ _female_: 0.3% (2025 est.)<br>
 _women married by age 15_: 1.8% (2021)<br>
 _women married by age 18_: 15.8% (2021)<br>
 
-**Education expenditures**<br>
-2.5% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.9% of GDP (2015 est.)<br>
+_Education expenditure (% national budget)_: 12% national budget (2015 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 73.1%<br>
-_male_: 78.8%<br>
-_female_: 67.4% (2021)<br>
+_total population_: 71% (2017 est.)<br>
+_male_: 76% (2017 est.)<br>
+_female_: 66% (2017 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -316,12 +317,6 @@ _etymology_: the ancient Egyptian name of the original city was Khere-ohe or Khe
 **Administrative divisions**<br>
 27 governorates (muhafazat, singular - muhafazat); Ad Daqahliyah, Al Bahr al Ahmar (Red Sea), Al Buhayrah, Al Fayyum, Al Gharbiyah, Al Iskandariyah (Alexandria), Al Isma'iliyah (Ismailia), Al Jizah (Giza), Al Minufiyah, Al Minya, Al Qahirah (Cairo), Al Qalyubiyah, Al Uqsur (Luxor), Al Wadi al Jadid (New Valley), As Suways (Suez), Ash Sharqiyah, Aswan, Asyut, Bani Suwayf, Bur Sa'id (Port Said), Dumyat (Damietta), Janub Sina' (South Sinai), Kafr ash Shaykh, Matruh, Qina, Shamal Sina' (North Sinai), Suhaj<br>
 
-**Independence**<br>
-28 February 1922 (from UK protectorate status; the military-led revolution that began on 23 July 1952 led to a republic being declared on 18 June 1953 and all British troops withdrawn on 18 June 1956); note - it was ca. 3200 B.C. that the Two Lands of Upper (southern) and Lower (northern) Egypt were first united politically<br>
-
-**National holiday**<br>
-Revolution Day, 23 July (1952)<br>
-
 **Legal system**<br>
 mixed system based on Napoleonic civil and penal law, Islamic religious law, and vestiges of colonial-era laws; Supreme Constitutional Court reviews laws<br>
 
@@ -381,9 +376,6 @@ _subordinate courts_: Courts of Appeal; Courts of First Instance; courts of limi
 **Political parties**<br>
 Al-Nour<br>Arab Democratic Nasserist Party<br>Congress Party<br>Conservative Party<br>Democratic Peace Party<br>Egyptian National Movement Party<br>Egyptian Social Democratic Party<br>El Ghad Party<br>El Serh El Masry el Hor<br>Eradet Geel Party<br>Free Egyptians Party<br>Freedom Party<br>Justice Party<br>Homeland’s Protector Party<br>Modern Egypt Party<br>My Homeland Egypt Party<br>Nation's Future Party (Mostaqbal Watan)<br>National Progressive Unionist (Tagammu) Party<br>Reform and Development Party<br>Republican People’s Party<br>Revolutionary Guards Party<br>Wafd Party<br>
 
-**International organization participation**<br>
-ABEDA, AfDB, AFESD, AMF, AU, BRICS, BSEC (observer), CAEU, CD, CICA, COMESA, D-8, EBRD, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, LCBC (observer), MIGA, MINURSO, MONUSCO, NAM, OAPEC, OAS (observer), OIC, OIF, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Motaz Mounir ZAHRAN (since 17 September 2020)<br>
 _chancery_: 3521 International Court NW, Washington, DC 20008<br>
@@ -401,12 +393,25 @@ _FAX_: [20-2] 2797-3200<br>
 _email address and website_: <br>ConsularCairoACS@state.gov<br><br>https://eg.usembassy.gov/<br>
 _consulate(s) general_: Alexandria<br>
 
+**International organization participation**<br>
+ABEDA, AfDB, AFESD, AMF, AU, BRICS, BSEC (observer), CAEU, CD, CICA, COMESA, D-8, EBRD, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, LCBC (observer), MIGA, MINURSO, MONUSCO, NAM, OAPEC, OAS (observer), OIC, OIF, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+28 February 1922 (from UK protectorate status; the military-led revolution that began on 23 July 1952 led to a republic being declared on 18 June 1953 and all British troops withdrawn on 18 June 1956)<br>
+<strong>note:</strong>  the Two Lands of Upper (southern) and Lower (northern) Egypt were first united politically around 3200 B.C.<br>
+
+**National holiday**<br>
+Revolution Day, 23 July (1952)<br>
+
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and black; centered in the white band is the national emblem, a gold Eagle of Saladin facing the hoist side with a shield on its chest above a scroll with the country's name in Arabic; the band colors derive from the Arab Liberation flag and represent oppression (black) overcome through bloody struggle (red), to be replaced by a bright future (white)<br>
 <strong>note:</strong> similar to the flags of Syria (two green stars in the white band), Iraq (an Arabic inscription centered in the white band), and Yemen (plain white band)<br>
 
 **National symbol(s)**<br>
-golden eagle, white lotus; national colors: red, white, black<br>
+golden eagle, white lotus<br>
+
+**National colors**<br>
+red, white, black<br>
 
 **National anthem**<br>
 _name_: "Bilady, Bilady, Bilady" (My Homeland, My Homeland, My Homeland)<br>

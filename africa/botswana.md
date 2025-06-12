@@ -174,8 +174,9 @@ _unimproved: urban_: urban: 0.2% of population<br>
 _unimproved: rural_: rural: 3.1% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-6.3% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 6.3% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 14.6% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.38 physicians/1,000 population (2023)<br>
@@ -212,11 +213,11 @@ NA<br>
 **Currently married women (ages 15-49)**<br>
 45% (2023 est.)<br>
 
-**Education expenditures**<br>
-8.7% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 8.1% of GDP (2020 est.)<br>
+_Education expenditure (% national budget)_: 21.5% national budget (2020 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 88.5%<br>
 _male_: 88%<br>
 _female_: 88.9% (2015)<br>
@@ -299,12 +300,6 @@ _etymology_: named after GABORONE (ca. 1825-1931), a chief of the Tlokwa tribe, 
 **Administrative divisions**<br>
 10 districts and 6 town councils*; Central, Chobe, Francistown*, Gaborone*, Ghanzi, Jwaneng*, Kgalagadi, Kgatleng, Kweneng, Lobatse*, North East, North West, Selebi-Phikwe*, South East, Southern, Sowa Town*<br>
 
-**Independence**<br>
-30 September 1966 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day (Botswana Day), 30 September (1966)<br>
-
 **Legal system**<br>
 mixed legal system of civil law influenced by the Roman-Dutch model, including customary and common law<br>
 
@@ -353,9 +348,6 @@ _subordinate courts_: Industrial Court (with circuits scheduled monthly in the c
 **Political parties**<br>
 Alliance of Progressives or AP <br>Botswana Congress Party or BCP <br>Botswana Democratic Party or BDP <br>Botswana National Front or BNF [Duma BOKO]Botswana Patriotic Front or BPF <br>Botswana Peoples Party or BPP <br>Botswana Republic Party or BRP <br>Umbrella for Democratic Change or UDC (various times the coalition has included the BPP, BCP, BNF and other parties)<br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, SACU, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Mpho Churchill MOPHUTING (since 18 September 2024)<br>
 _chancery_: 1531-1533 New Hampshire Avenue NW, Washington, DC 20036<br>
@@ -371,14 +363,26 @@ _telephone_: [267] 395-3982<br>
 _FAX_: [267] 318-0232<br>
 _email address and website_: <br>ConsularGaborone@state.gov<br><br>https://bw.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, SACU, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+30 September 1966 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day (Botswana Day), 30 September (1966)<br>
+
 **Flag description**<br>
 light blue with a horizontal white-edged black stripe in the center; the blue symbolizes water in the form of rain, and the black and white bands represent racial harmony<br>
 
 **National symbol(s)**<br>
-zebra; national colors: light blue, white, black<br>
+zebra<br>
+
+**National colors**<br>
+light blue, white, black<br>
 
 **National coat of arms**<br>
-The two zebras on Botswana's coat of arms are the country’s national symbol. They support an elephant tusk that represents the country's fauna and a head of sorghum that signifies agriculture. The three wavy blue bands symbolize the country’s reliance on water, the cog wheels stand for industry, and the bull’s head represents the cattle industry. The coat of arms also features the national colors of light blue, white, and black. The motto reflects the scarcity of rain in the country: <em>pula </em>means “let there be rain” in Setswana, the national language.<br>
+the two zebras, the country’s national symbol, support an elephant tusk that represents the country's fauna and a head of sorghum that signifies agriculture; the three wavy blue bands stand for the country’s reliance on water, the cog wheels for industry, and the bull’s head for the cattle industry; the coat of arms also features the national colors of light blue, white, and black; the motto reflects the scarcity of rain in the country: <em>pula </em>means “let there be rain” in Setswana, the national language<br>
 
 **National anthem**<br>
 _name_: "Fatshe leno la rona" (Our Land)<br>

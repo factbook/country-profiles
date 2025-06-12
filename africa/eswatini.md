@@ -165,8 +165,9 @@ _unimproved: urban_: urban: 2.5% of population<br>
 _unimproved: rural_: rural: 25.2% of population<br>
 _unimproved: total_: total: 19.7% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-7% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 7% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 11.3% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.56 physicians/1,000 population (2023)<br>
@@ -202,14 +203,14 @@ _women married by age 15_: 0.1% (2022)<br>
 _women married by age 18_: 1.9% (2022)<br>
 _men married by age 18_: 0% (2022)<br>
 
-**Education expenditures**<br>
-5% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 6% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 19.2% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 88.4%<br>
-_male_: 88.3%<br>
-_female_: 88.5% (2018)<br>
+_total population_: 90.7% (2022 est.)<br>
+_male_: 91.1% (2022 est.)<br>
+_female_: 90.4% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -239,9 +240,6 @@ _other_: 1.5% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 24.8% of total population (2023)<br>
 _rate of urbanization_: 2.42% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to higher staple food prices - </em>the latest analysis indicates that nearly 259,000 people faced acute food insecurity between January and March 2023, an improvement compared to the previous year; food insecurity in 2022-23 is driven by high food prices and a slowdown in economic growth, curbing households’ income earning opportunities (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 15.07 micrograms per cubic meter (2019 est.)<br>
@@ -281,12 +279,6 @@ _etymology_: the origin of the name is unclear; it may come from the Mbabane Riv
 
 **Administrative divisions**<br>
 4 regions; Hhohho, Lubombo, Manzini, Shiselweni<br>
-
-**Independence**<br>
-6 September 1968 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day (Somhlolo Day), 6 September (1968)<br>
 
 **Legal system**<br>
 mixed system of civil, common, and customary law<br>
@@ -346,9 +338,6 @@ _subordinate courts_: magistrates' courts; National Swazi Courts for administeri
 **Political parties**<br>
 political parties exist but conditions for their operations, particularly in elections, are undefined, legally unclear, or culturally restricted; the following are considered political associations:<br>African United Democratic Party or AUDP <br>Ngwane National Liberatory Congress or NNLC <br>People's United Democratic Movement or PUDEMO <br>Swazi Democratic Party or SWADEPA <br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, C, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SACU, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Kennedy Fitzgerald GROENING (7 June 2022)<br>
 _chancery_: 1712 New Hampshire Avenue NW, Washington, DC 20009<br>
@@ -364,14 +353,26 @@ _telephone_: (268) 2417-9000<br>
 _FAX_: [268] 2416-3344<br>
 _email address and website_: <br>ConsularMbabane@state.gov<br><br>Homepage - U.S. Embassy in Eswatini (usembassy.gov)<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, C, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SACU, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+6 September 1968 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day (Somhlolo Day), 6 September (1968)<br>
+
 **Flag description**<br>
 three horizontal bands of blue (top), red (triple-width), and blue; the red band is edged in yellow, with a large black-and-white shield in the center and covering two horizontal spears and a staff with feather tassels; blue stands for peace and stability, red for past struggles, and yellow for the mineral resources of the country; the shield, spears, and staff symbolize protection from enemies, and the shield colors stand for ethnic groups living in peaceful coexistence<br>
 
 **National symbol(s)**<br>
-lion, elephant; national colors: blue, yellow, red<br>
+lion, elephant<br>
+
+**National colors**<br>
+blue, yellow, red<br>
 
 **National coat of arms**<br>
-Eswatini&rsquo;s national coat of arms was adopted in 1968 after it gained independence from the United Kingdom. Two national symbols, the lion (representing the king of Eswatini) and the elephant (representing the queen mother), support a traditional Nguni shield. Above the shield is the king's lidlabe, or crown of feathers, and at the bottom is Eswatini's motto, &ldquo;Siyinqaba,&rdquo; or "We are the fortress.&rdquo;<br>
+the national coat of arms was adopted in 1968 after independence from the United Kingdom; two national symbols, the lion (representing the king of Eswatini) and the elephant (representing the queen mother), support a traditional Nguni shield; above the shield is the king's <em>lidlabe</em>, or crown of feathers, and at the bottom is Eswatini's motto, <em>Siyinqaba</em>, or "We are the fortress”<br>
 
 **National anthem**<br>
 _name_: "Nkulunkulu Mnikati wetibusiso temaSwati" (Oh God, Bestower of the Blessings of the Swazi)<br>

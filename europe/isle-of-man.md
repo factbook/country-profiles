@@ -170,9 +170,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
 _total population_: NA<br>
 _male_: NA<br>
@@ -227,12 +224,6 @@ _etymology_: the name comes from the Gaelic name <em>Dubhghlais</em>, or "black 
 
 **Administrative divisions**<br>
 none; there are no first-order administrative divisions as defined by the US Government, but there are 24 local authorities each with its own elections<br>
-
-**Independence**<br>
-none (British Crown dependency)<br>
-
-**National holiday**<br>
-Tynwald Day, 5 July (1417); date Tynwald Day was first recorded<br>
 
 **Legal system**<br>
 UK laws apply, as well as Manx statutes<br>
@@ -289,20 +280,29 @@ _subordinate courts_: High Court; Court of Summary Gaol Delivery; Summary Courts
 Green Party <br>Liberal Vannin Party or LVP <br>Manx Labor Party<br>Mec Vannin (sometimes referred to as the Manx Nationalist Party)<br>
 <strong>note:</strong> most members sit as independents<br>
 
-**International organization participation**<br>
-UPU<br>
-
 **Diplomatic representation in the US**<br>
 none (British crown dependency)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (British crown dependency)<br>
 
+**International organization participation**<br>
+UPU<br>
+
+**Independence**<br>
+none (British Crown dependency)<br>
+
+**National holiday**<br>
+Tynwald Day, 5 July (1417); date Tynwald Day was first recorded<br>
+
 **Flag description**<br>
 red with the Three Legs of Man emblem (triskelion) in the center; the three legs are joined at the thigh and bent at the knee; in order to have the toes pointing clockwise on both sides of the flag, a two-sided emblem is used; the flag is based on the coat of arms of the last recognized Norse King of Mann, MAGNUS III (r. 1252-65); the triskelion has its roots in an early Celtic sun symbol<br>
 
 **National symbol(s)**<br>
-triskelion (a motif of three legs); national colors: red, white<br>
+triskelion (a motif of three legs)<br>
+
+**National colors**<br>
+red, white<br>
 
 **National anthem**<br>
 _name_: "Arrane Ashoonagh dy Vannin" (O Land of Our Birth)<br>

@@ -160,8 +160,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-13.1% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 13.1% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 11.8% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.27 physicians/1,000 population (2015)<br>
@@ -192,13 +193,14 @@ _female_: 46.1% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 59.6% (2023 est.)<br>
 
-**Education expenditures**<br>
-7.1% of GDP (2021) NA<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.6% of GDP (2023 est.) NA<br>
+_Education expenditure (% national budget)_: 9.6% national budget (2018 est.)<br>
 
 **Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
+_total population_: 96.6% (2023 est.) NA<br>
+_male_: 93.4% (2023 est.) NA<br>
+_female_: 99.7% (2023 est.) NA<br>
 
 ## Environment
 
@@ -255,12 +257,6 @@ _time difference_: UTC+12 (17 hours ahead of Washington, DC, during Standard Tim
 **Administrative divisions**<br>
 14 districts; Aiwo, Anabar, Anetan, Anibare, Baitsi, Boe, Buada, Denigomodu, Ewa, Ijuw, Meneng, Nibok, Uaboe, Yaren<br>
 
-**Independence**<br>
-31 January 1968 (from the Australia-, NZ-, and UK-administered UN trusteeship)<br>
-
-**National holiday**<br>
-Independence Day, 31 January (1968)<br>
-
 **Legal system**<br>
 mixed system of common law based on the English model and customary law<br>
 
@@ -301,9 +297,6 @@ _subordinate courts_: District Court, Family Court<br>
 **Political parties**<br>
 Nauru does not have formal political parties; alliances within the government are often formed based on extended family ties<br>
 
-**International organization participation**<br>
-ACP, ADB, AOSIS, C, FAO, G-77, ICAO, ICCt, IFAD, Interpol, IOC, IOM, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WHO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Lara Erab DANIEL (since 13 January 2025); note - also Permanent Representative to the UN<br>
 _chancery_: 801 2nd Avenue, Third Floor, New York, NY 10017<br>
@@ -314,11 +307,23 @@ _email address and website_: <br>nauru@onecommonwealth.org<br><br>https://www.un
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Nauru; the US Ambassador to Fiji is accredited to Nauru<br>
 
+**International organization participation**<br>
+ACP, ADB, AOSIS, C, FAO, G-77, ICAO, ICCt, IFAD, Interpol, IOC, IOM, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WHO<br>
+
+**Independence**<br>
+31 January 1968 (from the Australia-, NZ-, and UK-administered UN trusteeship)<br>
+
+**National holiday**<br>
+Independence Day, 31 January (1968)<br>
+
 **Flag description**<br>
 blue with a narrow horizontal gold stripe across the center and a large white 12-pointed star below the stripe on the hoist side; blue stands for the Pacific Ocean; the star indicates the country's location in relation to the equator (the gold stripe) and the 12 points stand for the original tribes of Nauru; the star's white color represents phosphate, the basis of the island's wealth<br>
 
 **National symbol(s)**<br>
-frigatebird, calophyllum flower; national colors: blue, yellow, white<br>
+frigatebird, calophyllum flower<br>
+
+**National colors**<br>
+blue, yellow, white<br>
 
 **National anthem**<br>
 _name_: "Nauru Bwiema" (Song of Nauru)<br>

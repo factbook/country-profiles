@@ -175,8 +175,9 @@ _unimproved: urban_: urban: 7.5% of population<br>
 _unimproved: rural_: rural: 42% of population<br>
 _unimproved: total_: total: 27.2% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-8.6% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 8.6% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 5.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.13 physicians/1,000 population (2022)<br>
@@ -215,14 +216,14 @@ _women married by age 15_: 8.6% (2019)<br>
 _women married by age 18_: 29.6% (2019)<br>
 _men married by age 18_: 4.1% (2019)<br>
 
-**Education expenditures**<br>
-9.1% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 8.5% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 29.4% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write English, Mende, Temne, or Arabic<br>
-_total population_: 48.6%<br>
-_male_: 56.3%<br>
-_female_: 41.3% (2022)<br>
+_total population_: 43.6% (2019 est.)<br>
+_male_: 54.6% (2019 est.)<br>
+_female_: 33.9% (2019 est.)<br>
 
 ## Environment
 
@@ -247,9 +248,6 @@ _other_: 10.7% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 44.3% of total population (2023)<br>
 _rate of urbanization_: 3.02% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to high food prices and reduced incomes - </em>according to the latest analysis, about 1.18 million people are projected to be in need of humanitarian assistance between the June to August 2023 lean season; acute food insecurity is underpinned by elevated food prices, in part driven by a weak currency, and low purchasing power of vulnerable households (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 39.42 micrograms per cubic meter (2019 est.)<br>
@@ -290,12 +288,6 @@ _etymology_: the name described the original settlement in 1781, which served as
 
 **Administrative divisions**<br>
 4 provinces and 1 area*; Eastern, Northern, North Western, Southern, Western*<br>
-
-**Independence**<br>
-27 April 1961 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 27 April (1961)<br>
 
 **Legal system**<br>
 mixed system of English common law and customary law<br>
@@ -345,9 +337,6 @@ _subordinate courts_: magistrates' courts; District Appeals Court; local courts<
 **Political parties**<br>
 All People's Congress or APC <br>Sierra Leone People's Party or SLPP<br>
 
-**International organization participation**<br>
-ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Sheku MESALI (since 14 January 2025)<br>
 _chancery_: 1701 19th Street NW, Washington, DC 20009-1605<br>
@@ -362,11 +351,23 @@ _mailing address_: 2160 Freetown Place, Washington DC&nbsp; 20521-2160<br>
 _telephone_: [232] 99 105 000<br>
 _email address and website_: <br>consularfreetown@state.gov<br><br>https://sl.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+27 April 1961 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 27 April (1961)<br>
+
 **Flag description**<br>
 three equal horizontal bands of light green (top), white, and light blue; green stands for agriculture, mountains, and natural resources, white for unity and justice, and blue for the sea and the natural harbor in Freetown<br>
 
 **National symbol(s)**<br>
-lion; national colors: green, white, blue<br>
+lion<br>
+
+**National colors**<br>
+green, white, blue<br>
 
 **National anthem**<br>
 _name_: "High We Exalt Thee, Realm of the Free"<br>
@@ -610,11 +611,11 @@ _key ports_: Bonthe, Freetown, Pepel<br>
 Republic of Sierra Leone Armed Forces (RSLAF): organized as a Joint Force Command with land, air, and maritime components<br><br>Ministry of Internal Affairs: Sierra Leone Police (2025)<br>
 
 **Military expenditures**<br>
+0.5% of GDP (2024 est.)<br>
 0.6% of GDP (2023 est.)<br>
 0.6% of GDP (2022 est.)<br>
 0.3% of GDP (2021 est.)<br>
 0.3% of GDP (2020 est.)<br>
-0.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 10,000 active Armed Forces (2025)<br>

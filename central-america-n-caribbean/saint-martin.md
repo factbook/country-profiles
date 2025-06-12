@@ -147,8 +147,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
-**Education expenditures**<br>
-NA<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.9% of GDP (2023 est.) NA<br>
+_Education expenditure (% national budget)_: 23% national budget (2023 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -193,12 +194,6 @@ _geographic coordinates_: 18 04 N, 63 05 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
 _etymology_: the name is taken from the French word <em>marigot</em>, meaning "backwater" or "swampy area;" it probably comes from the original fishing village's location next to a water-logged area on a lagoon<br>
 
-**Independence**<br>
-none (overseas collectivity of France)<br>
-
-**National holiday**<br>
-F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - local holiday is Schoelcher Day (Slavery Abolition Day) 12 July (1848), as well as St. Martin's Day, 11 November (1985), which commemorates the discovery of the island by COLUMBUS on Saint Martin's Day, 11 November 1493; the latter holiday celebrated on both halves of the island<br>
-
 **Legal system**<br>
 French civil law<br>
 
@@ -235,14 +230,20 @@ _expected date of next election_: March 2027<br>
 **Political parties**<br>
 Alternative<br>Future Saint Martin (Avenir Saint Martin)<br>Generation Hope or HOPE<br>Rassemblement Saint-Martinois or RSM (formerly Movement for Justice and Prosperity or MJP)<br>Saint Martin with You<br>Union for Democracy or UD<br>
 
-**International organization participation**<br>
-ACS (associate), UPU<br>
-
 **Diplomatic representation in the US**<br>
 none (overseas collectivity of France)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (overseas collectivity of France)<br>
+
+**International organization participation**<br>
+ACS (associate), UPU<br>
+
+**Independence**<br>
+none (overseas collectivity of France)<br>
+
+**National holiday**<br>
+F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - local holiday is Schoelcher Day (Slavery Abolition Day) 12 July (1848), as well as St. Martin's Day, 11 November (1985), which commemorates the discovery of the island by COLUMBUS on Saint Martin's Day, 11 November 1493; the latter holiday celebrated on both halves of the island<br>
 
 **Flag description**<br>
 the flag of France is used<br>

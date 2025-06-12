@@ -170,8 +170,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-8.6% of GDP (2022)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 8.6% of GDP (2022)<br>
+_Health expenditure (as % of national budget)_: 16.5% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 4.37 physicians/1,000 population (2023)<br>
@@ -205,8 +206,9 @@ _female_: 8% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 45.1% (2023 est.)<br>
 
-**Education expenditures**<br>
-7.7% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 6.7% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 14.8% national budget (2023 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -285,12 +287,6 @@ _etymology_: the name means "smoky bay" in Icelandic and refers to the steam fro
 **Administrative divisions**<br>
 64 municipalities (sveitarfelog, singular - sveitarfelagidh); Akranes, Akureyri, Arneshreppur, Asahreppur, Blaskogabyggdh, Bolungarvik, Borgarbyggdh, Dalabyggdh, Dalvikurbyggdh, Eyjafjardharsveit, Eyja-og Miklaholtshreppur, Fjallabyggdh, Fjardhabyggdh, Fljotsdalshreppur, Floahreppur, Gardhabaer, Grimsnes-og Grafningshreppur, Grindavikurbaer, Grundarfjardharbaer, Grytubakkahreppur, Hafnarfjordhur, Horgarsveit, Hrunamannahreppur, Hunathing Vestra, Hunabyggdh, Hvalfjardharsveit, Hveragerdhi, Isafjardharbaer, Kaldrananeshreppur, Kjosarhreppur, Kopavogur, Langanesbyggdh, Mosfellsbaer, Mulathing, Myrdalshreppur, Nordhurthing, Rangarthing Eystra, Rangarthing Ytra, Reykholahreppur, Reykjanesbaer, Reykjavik, Seltjarnarnes, Skaftarhreppur, Skagabyggdh, Skagafjordhur, Skeidha-og Gnupverjahreppur, Skorradalshreppur, Snaefellsbaer, Strandabyggdh, Stykkisholmur, Sudhavikurhreppur, Sudhurnesjabaer, Svalbardhsstrandarhreppur, Sveitarfelagidh Arborg, Sveitarfelagidh Hornafjordhur, Sveitarfelagidh Olfus, Sveitarfelagidh Skagastrond, Sveitarfelagidh Vogar, Talknafjardharhreppur, Thingeyjarsveit, Tjorneshreppur, Vestmannaeyjar, Vesturbyggdh, Vopnafjardharhreppur<br>
 
-**Independence**<br>
-1 December 1918 (became a sovereign state under the Danish Crown); 17 June 1944 (from Denmark; birthday of Jon SIGURDSSON, leader of Iceland's 19th Century independence movement)<br>
-
-**National holiday**<br>
-Independence Day, 17 June (1944)<br>
-
 **Legal system**<br>
 civil law system influenced by the Danish model<br>
 
@@ -337,9 +333,6 @@ _subordinate courts_: Appellate Court or Landsrettur; 8 district courts; Labor C
 **Political parties**<br>
 <p>Center Party (Midflokkurinn) or CP <br>Independence Party (Sjalfstaedisflokkurinn) or IP <br>Left-Green Movement (Vinstrihreyfingin-graent frambod) or LGM <br>Liberal Reform Party (Vidreisn) <br>People's Party (Flokkur Folksins) <br>Pirate Party (Piratar) <br>Progressive Party (Framsoknarflokkurinn) or PP <br>Social Democratic Alliance (Samfylkingin) or SDA </p><br>
 
-**International organization participation**<br>
-Arctic Council, Australia Group, BIS, CBSS, CD, CE, EAPC, EBRD, EFTA, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Svanhildur H&oacute;lm VALSD&Oacute;TTIR (since 18 September 2024)<br>
 _chancery_: House of Sweden, 2900 K Street NW, #509, Washington, DC 20007<br>
@@ -355,11 +348,23 @@ _telephone_: [354] 595-2200<br>
 _FAX_: [354] 562-9118<br>
 _email address and website_: <br>ReykjavikConsular@state.gov<br><br>https://is.usembassy.gov/<br>
 
+**International organization participation**<br>
+Arctic Council, Australia Group, BIS, CBSS, CD, CE, EAPC, EBRD, EFTA, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+1 December 1918 (became a sovereign state under the Danish Crown); 17 June 1944 (from Denmark; birthday of Jon SIGURDSSON, leader of Iceland's 19th-century independence movement)<br>
+
+**National holiday**<br>
+Independence Day, 17 June (1944)<br>
+
 **Flag description**<br>
 blue with a red cross outlined in white extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); red stands for the island's volcanic fires, white for the snow and ice fields, and blue for the ocean<br>
 
 **National symbol(s)**<br>
-gyrfalcon; national colors: blue, white, red<br>
+gyrfalcon<br>
+
+**National colors**<br>
+blue, white, red<br>
 
 **National anthem**<br>
 _name_: "Lofsongur" (Song of Praise)<br>

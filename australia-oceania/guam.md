@@ -172,9 +172,6 @@ _unimproved: total_: total: 10.2% of population (2015 est.)<br>
 **Currently married women (ages 15-49)**<br>
 37% (2023 est.)<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
 _total population_: NA<br>
 _male_: NA<br>
@@ -230,12 +227,6 @@ _etymology_: the name Hagatna is derived from the Chamorro word <em>haga</em>, m
 **Administrative divisions**<br>
 none (territory of the US)<br>
 
-**Independence**<br>
-none (territory of the US)<br>
-
-**National holiday**<br>
-Discovery Day (or Magellan Day), first Monday in March (1521)<br>
-
 **Legal system**<br>
 common law modeled on US system; US federal laws apply<br>
 
@@ -277,21 +268,30 @@ _subordinate courts_: Superior Court of Guam (includes several divisions); US Fe
 **Political parties**<br>
 Democratic Party<br>Republican Party<br>
 
-**International organization participation**<br>
-AOSIS (observer), IOC, PIF (observer), SPC, UPU<br>
-
 **Diplomatic representation in the US**<br>
 none (territory of the US)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (territory of the US)<br>
 
+**International organization participation**<br>
+AOSIS (observer), IOC, PIF (observer), SPC, UPU<br>
+
+**Independence**<br>
+none (territory of the US)<br>
+
+**National holiday**<br>
+Discovery Day (or Magellan Day), first Monday in March (1521)<br>
+
 **Flag description**<br>
 territorial flag is dark blue with a narrow red border on all four sides; centered is a red-bordered, pointed, vertical ellipse containing a beach scene, a <em>proa (</em>outrigger canoe with sail), and a palm tree; the word GUAM in red is centered in the ellipse; the proa is sailing in Agana Bay with the promontory of Puntan Dos Amantes in the background; the central emblem is shaped like a Chamorro sling stone, a weapon for defense or hunting; blue stands for the sea and red for the blood shed in the fight against oppression<br>
 <strong>note:</strong> the US flag is the national flag<br>
 
 **National symbol(s)**<br>
-coconut tree; national colors: deep blue, red<br>
+coconut tree<br>
+
+**National colors**<br>
+deep blue, red<br>
 
 **National anthem**<br>
 _name_: "Fanohge Chamoru" (Stand Ye Guamanians)<br>

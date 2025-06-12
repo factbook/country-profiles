@@ -170,8 +170,9 @@ _unimproved: urban_: urban: 0.3% of population<br>
 _unimproved: rural_: rural: 40.7% of population<br>
 _unimproved: total_: total: 9.2% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-2.9% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 2.9% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 5.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.21 physicians/1,000 population (2022)<br>
@@ -207,8 +208,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _women married by age 15_: 1.4% (2019)<br>
 _women married by age 18_: 6.5% (2019)<br>
 
-**Education expenditures**<br>
-3.6% of GDP (2018 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.8% of GDP (2018 est.)<br>
+_Education expenditure (% national budget)_: 14.5% national budget (2018 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -243,9 +245,6 @@ _other_: 26.2% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 78.6% of total population (2023)<br>
 _rate of urbanization_: 1.56% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_widespread lack of access_: <em>due to unfavorable weather and high food prices - </em>about 250,000 people were estimated to have faced acute food insecurity between March and June 2023, mainly due to the lingering impact of a prolonged and severe drought between late 2020 and early 2023, and high food prices (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 19.98 micrograms per cubic meter (2019 est.)<br>
@@ -287,12 +286,6 @@ _etymology_: the name is said to derive from the Afar word <em>gabouri</em>, mea
 
 **Administrative divisions**<br>
 6 districts (cercles, singular - cercle); Ali Sabieh, Arta, Dikhil, Djibouti, Obock, Tadjourah<br>
-
-**Independence**<br>
-27 June 1977 (from France)<br>
-
-**National holiday**<br>
-Independence Day, 27 June (1977)<br>
 
 **Legal system**<br>
 mixed system based primarily on the French civil code (as it existed in 1997), Islamic religious law (in matters of family law and successions), and customary law<br>
@@ -341,9 +334,6 @@ _subordinate courts_: High Court of Appeal; Courts of First Instance; customary 
 **Political parties**<br>
 Front for Restoration of Unity and Democracy (Front pour la Restauration de l'Unite Democratique) or FRUD<br>National Democratic Party or PND<br>People's Rally for Progress or RPP<br>Peoples Social Democratic Party or PPSD<br>Union for Democracy and Justice or UDJ<br>Union for the Presidential Majority coalition or UMP<br>Union of Reform Partisans or UPR<br>
 
-**International organization participation**<br>
-ACP, AfDB, AFESD, AMF, ATMIS, AU, CAEU (candidates), COMESA, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Mohamed Siad DOUALEH (28 January 2016)<br>
 _chancery_: 1156 15th Street NW, Suite 515, Washington, DC 20005<br>
@@ -359,11 +349,23 @@ _telephone_: [253] 21-45-30-00<br>
 _FAX_: [253] 21-45-31-29<br>
 _email address and website_: <br>DjiboutiACS@state.gov<br><br>https://dj.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AFESD, AMF, ATMIS, AU, CAEU (candidates), COMESA, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+27 June 1977 (from France)<br>
+
+**National holiday**<br>
+Independence Day, 27 June (1977)<br>
+
 **Flag description**<br>
 two equal horizontal bands of light blue (top) and light green with a white isosceles triangle based on the hoist side and with a red five-pointed star in the center; blue stands for sea and sky and the Issa Somali people, green for earth and the Afar people, and white for peace; the red star stands for the struggle for independence and for unity<br>
 
 **National symbol(s)**<br>
-red star; national colors: light blue, green, white, red<br>
+red star<br>
+
+**National colors**<br>
+light blue, green, white, red<br>
 
 **National anthem**<br>
 _name_: "Jabuuti" (Djibouti)<br>

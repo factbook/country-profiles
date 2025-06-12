@@ -224,12 +224,6 @@ _etymology_: the origin of the name is unclear; it probably comes from a local w
 **Administrative divisions**<br>
 none (commonwealth in political union with the US); there are no first-order administrative divisions as defined by the US Government, but there are 4 municipalities at the second order: Northern Islands, Rota, Saipan, Tinian<br>
 
-**Independence**<br>
-none (commonwealth in political union with the US)<br>
-
-**National holiday**<br>
-Commonwealth Day, 8 January (1978)<br>
-
 **Legal system**<br>
 the laws of the US apply, except for customs and some aspects of taxation<br>
 
@@ -262,17 +256,26 @@ _subordinate courts_: Superior Court<br>
 **Political parties**<br>
 Democratic Party<br>Republican Party<br>
 
+**Diplomatic representation from the US**<br>
+_embassy_: none (commonwealth in political union with the US) &nbsp; &nbsp; &nbsp;&nbsp;<br>
+
 **International organization participation**<br>
 PIF (observer), SPC, UPU<br>
 
-**Diplomatic representation from the US**<br>
-_embassy_: none (commonwealth in political union with the US) &nbsp; &nbsp; &nbsp;&nbsp;<br>
+**Independence**<br>
+none (commonwealth in political union with the US)<br>
+
+**National holiday**<br>
+Commonwealth Day, 8 January (1978)<br>
 
 **Flag description**<br>
 blue with a five-pointed white star on a gray latte stone (a traditional foundation stone) in the center, surrounded by a <em>mwáár </em>or head lei (wreath); blue stands for the Pacific Ocean, the star for the Commonwealth, and the latte stone and mwáár for Marianas culture; the mwáár is made from four kinds of flowers: flores mayo (<em>Plumeria</em>), ylang-ylang or langilang (<em>Cananga odorata</em>), angagha or peacock flower (<em>Caesalpinia pulcherrima</em>), and teibwo or Pacific basil (<em>Ocimum tenuiflorum</em>)<br>
 
 **National symbol(s)**<br>
-latte stone; national colors: blue, white<br>
+latte stone<br>
+
+**National colors**<br>
+blue, white<br>
 
 **National anthem**<br>
 _name_: "Gi Talo Gi Halom Tasi" (In the Middle of the Sea)<br>

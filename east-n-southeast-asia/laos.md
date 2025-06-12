@@ -173,8 +173,9 @@ _unimproved: urban_: urban: 2.9% of population<br>
 _unimproved: rural_: rural: 15.9% of population<br>
 _unimproved: total_: total: 11.2% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-2.7% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 2.7% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 4.3% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.33 physicians/1,000 population (2022)<br>
@@ -216,14 +217,14 @@ _women married by age 15_: 7.1% (2017)<br>
 _women married by age 18_: 32.7% (2017)<br>
 _men married by age 18_: 10.8% (2017)<br>
 
-**Education expenditures**<br>
-2.3% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 1.2% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 9.8% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 87.1%<br>
-_male_: 91.4%<br>
-_female_: 81.4% (2021)<br>
+_total population_: 85% (2015 est.)<br>
+_male_: 90% (2015 est.)<br>
+_female_: 79% (2015 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 10 years<br>
@@ -300,12 +301,6 @@ _etymology_: the name Viangchan means "city of sandalwood" in Laotian; the stand
 **Administrative divisions**<br>
 17 provinces (khoueng, singular and plural) and 1 prefecture* (kampheng nakhon); Attapu, Bokeo, Bolikhamxay, Champasak, Houaphanh, Khammouan, Louangnamtha, Louangphabang (Luang Prabang), Oudomxai, Phongsali, Salavan, Savannakhet, Viangchan (Vientiane)*, Viangchan, Xaignabouli, Xaisomboun, Xekong, Xiangkhouang<br>
 
-**Independence**<br>
-19 July 1949 (from France by the Franco-Lao General Convention); 22 October 1953 (Franco-Lao Treaty recognizes full independence)<br>
-
-**National holiday**<br>
-Republic Day (National Day), 2 December (1975)<br>
-
 **Legal system**<br>
 civil law system similar in form to the French system<br>
 
@@ -353,9 +348,6 @@ _subordinate courts_: appellate courts; provincial, municipal, district, and mil
 Lao People's Revolutionary Party or LPRP<br>
 <strong>note:</strong>  other parties proscribed<br>
 
-**International organization participation**<br>
-ADB, ARF, ASEAN, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IPU, ISO (subscriber), ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Sisavath&nbsp;INPHACHANH (since 7 June 2022)<br>
 _chancery_: 2222 S Street NW, Washington, DC 20008<br>
@@ -371,11 +363,23 @@ _telephone_: [856] 21-48-7000<br>
 _FAX_: [856] 21-48-7040<br>
 _email address and website_: <br>CONSLAO@state.gov<br><br>https://la.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB, ARF, ASEAN, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IPU, ISO (subscriber), ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+19 July 1949 (from France); 22 October 1953 (Franco-Lao Treaty recognizes full independence)<br>
+
+**National holiday**<br>
+Republic Day (National Day), 2 December (1975)<br>
+
 **Flag description**<br>
 three horizontal bands of red (top), blue (double-width), and red with a large white disk centered in the blue band; the red bands stand for the blood shed for liberation, and the blue for the Mekong River and prosperity; the white disk represents the full moon over the Mekong River and the unity of the people under the Lao People's Revolutionary Party, as well as the country's bright future<br>
 
 **National symbol(s)**<br>
-elephant; national colors: red, white, blue<br>
+elephant<br>
+
+**National colors**<br>
+red, white, blue<br>
 
 **National anthem**<br>
 _name_: "Pheng Xat Lao" (Hymn of the Lao People)<br>

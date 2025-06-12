@@ -174,8 +174,9 @@ _unimproved: urban_: urban: 0.3% of population<br>
 _unimproved: rural_: rural: 1% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-8.5% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 8.5% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 12.4% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.94 physicians/1,000 population (2022)<br>
@@ -211,14 +212,10 @@ _other alcohols_: 0.03 liters of pure alcohol (2019 est.)<br>
 _women married by age 15_: 0.3% (2019)<br>
 _women married by age 18_: 7.5% (2019)<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 98.4%<br>
 _male_: 99.1%<br>
-_female_: 97.6% (2020)<br>
+_female_: 97.8% (2018 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -293,12 +290,6 @@ _etymology_: the name is of Illyrian or Macedonian origin, and the meaning is un
 **Administrative divisions**<br>
 80 municipalities (opstini, singular - opstina) and 1 city* (grad); Aracinovo, Berovo, Bitola, Bogdanci, Bogovinje, Bosilovo, Brvenica, Caska, Centar Zupa, Cesinovo-Oblesevo, Cucer Sandevo, Debar, Debarca, Delcevo, Demir Hisar, Demir Kapija, Dojran, Dolneni, Gevgelija, Gostivar, Gradsko, Ilinden, Jegunovce, Karbinci, Kavadarci, Kicevo, Kocani, Konce, Kratovo, Kriva Palanka, Krivogastani, Krusevo, Kumanovo, Lipkovo, Lozovo, Makedonska Kamenica, Makedonski Brod, Mavrovo i Rostuse, Mogila, Negotino, Novaci, Novo Selo, Ohrid, Pehcevo, Petrovec, Plasnica, Prilep, Probistip, Radovis, Rankovce, Resen, Rosoman, Skopje*, Sopiste, Staro Nagoricane, Stip, Struga, Strumica, Studenicani, Sveti Nikole, Tearce, Tetovo, Valandovo, Vasilevo, Veles, Vevcani, Vinica, Vrapciste, Zelenikovo, Zelino, Zrnovci. The Greater Skopje area is comprised of 10 municipalities: &nbsp;&nbsp;&nbsp; Aerodrom, Butel, Centar, Chair, Gazi Baba, Gjorce Petrov, Karposh, Kisela Voda, Saraj, and Shuto Orizari.<br>
 
-**Independence**<br>
-8 September 1991 (referendum by registered voters endorsed independence from Yugoslavia)<br>
-
-**National holiday**<br>
-Independence Day, 8 September (1991), also known as National Day<br>
-
 **Legal system**<br>
 civil law system; judicial review of legislative acts<br>
 
@@ -345,10 +336,6 @@ _subordinate courts_: Courts of Appeal; Basic Courts<br>
 **Political parties**<br>
 Alliance for Albanians or AfA or ASH<br>Alternative (Alternativa) or AAA<br>Besa Movement or BESA<br>Citizen Option for Macedonia or GROM <br>Democratic Alliance or DS<br>Democratic Movement or LD <br>Democratic Party of Albanians or PDSH<br>Democratic Party of Serbs or DPSM<br>Democratic Renewal of Macedonia or DOM<br>Democratic Union for Integration or BDI<br>European Democratic Party or PDE <br>Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity or VMRO-DPMNE<br>Internal Macedonian Revolutionary Organization - People's Party or VMRO-NP<br>Liberal Democratic Party or LDP<br>New Social-Democratic Party or NSDP<br>Social Democratic Union of Macedonia or SDSM<br>Socialist Party of Macedonia or SPM<br>Srpska Stranka in Macedonia or SSM<br>The Left (Levica) <br>The People Movement or LP<br>Turkish Democratic Party or TDP <br>Turkish Movement Party or THP <br>We Can! (coalition includes SDSM/BESA/VMRO-NP, DPT, LDP)<br>
 
-**International organization participation**<br>
-BIS, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIF, OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-<strong>note: </strong>North Macedonia is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Zoran POPOV (since 16 September 2022)<br>
 _chancery_: 2129 Wyoming Avenue NW, Washington, DC 20008<br>
@@ -365,11 +352,24 @@ _telephone_: [389] (2) 310-2000<br>
 _FAX_: [389] (2) 310-2499<br>
 _email address and website_: <br>SkopjeACS@state.gov<br><br>https://mk.usembassy.gov/<br>
 
+**International organization participation**<br>
+BIS, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIF, OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+<strong>note: </strong>North Macedonia is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
+
+**Independence**<br>
+8 September 1991 (referendum endorsed independence from Yugoslavia)<br>
+
+**National holiday**<br>
+Independence Day, 8 September (1991), also known as National Day<br>
+
 **Flag description**<br>
 a yellow sun (the Sun of Liberty) with eight broadening rays extending to the edges of the red field; the red and yellow colors have long been associated with Macedonia<br>
 
 **National symbol(s)**<br>
-eight-rayed sun; national colors: red, yellow<br>
+eight-rayed sun<br>
+
+**National colors**<br>
+red, yellow<br>
 
 **National anthem**<br>
 _name_: "Denes nad Makedonija" (Today Over Macedonia)<br>
@@ -383,7 +383,7 @@ _selected World Heritage Site locales_: Natural and Cultural Heritage of the Ohr
 ## Economy
 
 **Economic overview**<br>
-upper-middle-income European economy; recovering from energy-driven inflation; macroeconomic support from IMF and EU lending facilities; stalled progress on EU accession; fiscal consolidation hampered by deficit spending on public works; structural challenges of emigration, low productivity growth, and governance<br>
+<p>upper-middle-income European economy; GDP growth driven by private consumption, public infrastructure investments, and wage growth; stalled progress on EU accession; public debt rising due to high pensions, wages, and interest payments; structural challenges of emigration, low productivity growth, and governance</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $43.108 billion (2023 est.)<br>

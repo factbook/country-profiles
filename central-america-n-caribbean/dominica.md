@@ -158,8 +158,9 @@ NA<br>
 _improved: urban_: urban: 95.7% of population<br>
 _unimproved: urban_: urban: 4.3% of population<br>
 
-**Current health expenditure**<br>
-6.5% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 6.5% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 6.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.16 physicians/1,000 population (2018)<br>
@@ -180,8 +181,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 **Currently married women (ages 15-49)**<br>
 40.3% (2023 est.)<br>
 
-**Education expenditures**<br>
-5.5% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.4% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 5.8% national budget (2025 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -250,12 +252,6 @@ _etymology_: the name is French for "reed;" the first settlement was named after
 **Administrative divisions**<br>
 10 parishes; Saint Andrew, Saint David, Saint George, Saint John, Saint Joseph, Saint Luke, Saint Mark, Saint Patrick, Saint Paul, Saint Peter<br>
 
-**Independence**<br>
-3 November 1978 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 3 November (1978)<br>
-
 **Legal system**<br>
 common law based on the English model<br>
 
@@ -302,9 +298,6 @@ _subordinate courts_: Court of Summary Jurisdiction; magistrates' courts<br>
 **Political parties**<br>
 Dominica Freedom Party or DFP<br>Dominica Labor Party or DLP<br>Dominica United Workers Party or UWP<br>
 
-**International organization participation**<br>
-ACP, ACS, AOSIS, C, Caricom, CD, CDB, CELAC, Commonwealth of Nations, ECCU, FAO, G-77, IAEA, IBRD, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OAS, OECS, OIF, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Steve FERROL (since 15 September 2023)<br>
 _chancery_: 3216 New Mexico Ave NW Washington, DC 20016<br>
@@ -316,11 +309,23 @@ _consulate(s) general_: New York<br>
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Dominica; the US Ambassador to Barbados is accredited to Dominica<br>
 
+**International organization participation**<br>
+ACP, ACS, AOSIS, C, Caricom, CD, CDB, CELAC, Commonwealth of Nations, ECCU, FAO, G-77, IAEA, IBRD, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OAS, OECS, OIF, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+3 November 1978 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 3 November (1978)<br>
+
 **Flag description**<br>
 green with a centered cross of three equal bands; the vertical part is yellow (hoist side), black, and white, and the horizontal part is yellow (top), black, and white; in the center of the cross is a red disk with a Sisserou parrot encircled by 10 green five-pointed stars edged in yellow; the stars represent the 10 administrative divisions (parishes); green symbolizes the island's lush vegetation; the tri-color cross represents the Christian Trinity; yellow stands for sunshine, the main agricultural products (citrus and bananas), and the native Carib Indians; black is for the rich soil and the African heritage of most citizens; white stands for the rivers, waterfalls, and the purity of aspirations; the red disc stands for social justice<br>
 
 **National symbol(s)**<br>
-Sisserou parrot, Carib Wood flower; national colors: green, yellow, black, white, red<br>
+sisserou parrot, Carib wood flower<br>
+
+**National colors**<br>
+green, yellow, black, white, red<br>
 
 **National anthem**<br>
 _name_: "Isle of Beauty"<br>

@@ -179,8 +179,9 @@ _unimproved: urban_: urban: 7.7% of population<br>
 _unimproved: rural_: rural: 19.3% of population<br>
 _unimproved: total_: total: 17.3% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-7.3% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 7.3% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 9.5% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.09 physicians/1,000 population (2022)<br>
@@ -222,14 +223,14 @@ _women married by age 15_: 0.3% (2020)<br>
 _women married by age 18_: 5.5% (2020)<br>
 _men married by age 18_: 0.4% (2020)<br>
 
-**Education expenditures**<br>
-3.8% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.7% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 13.9% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 75.9%<br>
-_male_: 78.7%<br>
-_female_: 73.3% (2021)<br>
+_total population_: 79% (2022 est.)<br>
+_male_: 81% (2022 est.)<br>
+_female_: 77% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -307,12 +308,6 @@ _etymology_: the city takes its name from nearby Mount Kigali; the name is compo
 **Administrative divisions**<br>
 4 provinces (in French - provinces, singular - province; in Kinyarwanda - intara for singular and plural) and 1 city* (in French - ville; in Kinyarwanda - umujyi); Est (Eastern), Kigali*, Nord (Northern), Ouest (Western), Sud (Southern)<br>
 
-**Independence**<br>
-1 July 1962 (from Belgium-administered UN trusteeship)<br>
-
-**National holiday**<br>
-Independence Day, 1 July (1962)<br>
-
 **Legal system**<br>
 mixed system of civil law, based on German and Belgian models, and customary law; Supreme Court reviews legislative acts<br>
 
@@ -374,9 +369,6 @@ _subordinate courts_: High Court of the Republic; commercial courts including th
 **Political parties**<br>
 Democratic Green Party of Rwanda or DGPR <br>Liberal Party or PL <br>Party for Progress and Concord or PPC <br>Rwandan Patriotic Front or RPF <br>Rwandan Patriotic Front Coalition (includes RPF, PPC, PSP, UDPR, PDI, PSR, PDC) <br>Social Democratic Party or PSD <br>Social Party Imberakuri or PS-Imberakuri <br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, CEPGL, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Mathilde MUKANTABANA (since 18 July 2013)<br>
 _chancery_: 1714 New Hampshire Avenue NW,&nbsp; Washington, DC 20009<br>
@@ -392,11 +384,23 @@ _telephone_: [250] 252 596-400<br>
 _FAX_: [250] 252 580-325<br>
 _email address and website_: <br>consularkigali@state.gov<br><br>https://rw.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, CEPGL, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+1 July 1962 (from Belgium-administered UN trusteeship)<br>
+
+**National holiday**<br>
+Independence Day, 1 July (1962)<br>
+
 **Flag description**<br>
 three horizontal bands of sky blue (top, double-width), yellow, and green, with a golden sun with 24 rays near the fly end of the blue band; blue stands for happiness and peace, yellow for economic development and mineral wealth, and green for hope for prosperity and natural resources; the sun symbolizes unity and enlightenment<br>
 
 **National symbol(s)**<br>
-traditional woven basket with peaked lid; national colors: blue, yellow, green<br>
+traditional woven basket with peaked lid<br>
+
+**National colors**<br>
+blue, yellow, green<br>
 
 **National anthem**<br>
 _name_: "Rwanda nziza" (Rwanda, Our Beautiful Country)<br>
@@ -649,11 +653,11 @@ _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 Rwanda Defense Force (RDF; Ingabo z’u Rwanda): Rwanda Army (Rwanda Land Force), Rwanda Air Force (Force Aerienne Rwandaise, FAR), Rwanda Reserve Force, Special Units<br><br>Ministry of Internal Security: Rwanda National Police (2025)<br>
 
 **Military expenditures**<br>
-1.4% of GDP (2023 est.)<br>
+1.3% of GDP (2024 est.)<br>
+1.3% of GDP (2023 est.)<br>
 1.4% of GDP (2022 est.)<br>
 1.4% of GDP (2021 est.)<br>
 1.3% of GDP (2020 est.)<br>
-1.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 30-35,000 active Rwanda Defense Forces (2025)<br>

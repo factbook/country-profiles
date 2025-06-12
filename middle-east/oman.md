@@ -172,8 +172,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 2.1% of population<br>
 _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-4.4% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 4.4% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 8.3% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.99 physicians/1,000 population (2022)<br>
@@ -210,14 +211,14 @@ _female_: 0.4% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 56.4% (2023 est.)<br>
 
-**Education expenditures**<br>
-5.4% of GDP (2019 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.2% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 14.2% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 95.7%<br>
-_male_: 97%<br>
-_female_: 92.7% (2018)<br>
+_total population_: 97% (2022 est.)<br>
+_male_: 99% (2022 est.)<br>
+_female_: 95% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -289,12 +290,6 @@ _etymology_: the name derives from the Arabic name for the city, Masqat, which i
 **Administrative divisions**<br>
 11 governorates (muhafazat, singular - muhafaza); Ad Dakhiliyah, Al Buraymi, Al Wusta, Az Zahirah, Janub al Batinah (Al Batinah South), Janub ash Sharqiyah (Ash Sharqiyah South), Masqat (Muscat), Musandam, Shamal al Batinah (Al Batinah North), Shamal ash Sharqiyah (Ash Sharqiyah North), Zufar (Dhofar)<br>
 
-**Independence**<br>
-1650 (expulsion of the Portuguese)<br>
-
-**National holiday**<br>
-National Day, 18 November; note - celebrates Oman's independence from Portugal in 1650 and the birthday of Sultan QABOOS bin Said al Said, who reigned from 1970 to 2020<br>
-
 **Legal system**<br>
 mixed system of Anglo-Saxon law and Islamic law<br>
 
@@ -351,9 +346,6 @@ _subordinate courts_: Courts of Appeal; Administrative Court; Courts of First In
 **Political parties**<br>
 none; note - organized political parties are legally banned in Oman, and loyalties tend to form around tribal affiliations<br>
 
-**International organization participation**<br>
-ABEDA, AFESD, AMF, CAEU, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (NGOs), IDA, IDB, IFAD, IFC, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OIC, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador-designate Talal bin Sulaiman bin Habib AL RAHBI (since 17 March 2025)<br>
 _chancery_: 2535 Belmont Road, NW, Washington, DC 20008<br>
@@ -369,11 +361,23 @@ _telephone_: [968] 2464-3400<br>
 _FAX_: [968] 2464-3740<br>
 _email address and website_: <br>ConsularMuscat@state.gov<br><br>https://om.usembassy.gov/<br>
 
+**International organization participation**<br>
+ABEDA, AFESD, AMF, CAEU, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (NGOs), IDA, IDB, IFAD, IFC, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OIC, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+1650 (expulsion of the Portuguese)<br>
+
+**National holiday**<br>
+National Day, 18 November; note - celebrates Oman's independence from Portugal in 1650 and the birthday of Sultan QABOOS bin Said al Said, who reigned from 1970 to 2020<br>
+
 **Flag description**<br>
 three equal horizontal bands of white (top), red, and green, with a vertical red band on the hoist side; the national emblem (a <em>khanjar</em> dagger in its sheath on top of crossed swords in scabbards) in white is centered near the top of the vertical band; white stands for peace and prosperity, red for battles against foreign invaders, and green for the Jebel al Akhdar (Green Mountains) and fertility<br>
 
 **National symbol(s)**<br>
-khanjar dagger superimposed on two crossed swords; national colors: red, white, green<br>
+khanjar dagger on top of two crossed swords<br>
+
+**National colors**<br>
+red, white, green<br>
 
 **National anthem**<br>
 _name_: "Nashid as-Salaam as-Sultani" (The Sultan's Anthem)<br>

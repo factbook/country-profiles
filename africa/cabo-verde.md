@@ -166,8 +166,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 10% of population<br>
 _unimproved: total_: total: 3.3% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-6.9% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 6.9% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 16.1% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.73 physicians/1,000 population (2023)<br>
@@ -206,14 +207,14 @@ _women married by age 15_: 1.8% (2018)<br>
 _women married by age 18_: 8.4% (2018)<br>
 _men married by age 18_: 1.5% (2018)<br>
 
-**Education expenditures**<br>
-7.6% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.3% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 13.4% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 90.8%<br>
-_male_: 94.2%<br>
-_female_: 87.4% (2021)<br>
+_total population_: 87% (2015 est.)<br>
+_male_: 92% (2015 est.)<br>
+_female_: 82% (2015 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -281,12 +282,6 @@ _etymology_: the earlier Portuguese name was Villa de Praia ("Village of the Bea
 **Administrative divisions**<br>
 22 municipalities (concelhos, singular - concelho); Boa Vista, Brava, Maio, Mosteiros, Paul, Porto Novo, Praia, Ribeira Brava, Ribeira Grande, Ribeira Grande de Santiago, Sal, Santa Catarina, Santa Catarina do Fogo, Santa Cruz, S&atilde;o Domingos, S&atilde;o Filipe, S&atilde;o Lourenco dos Orgaos, S&atilde;o Miguel, S&atilde;o Salvador do Mundo, S&atilde;o Vicente, Tarrafal, Tarrafal de S&atilde;o Nicolau<br>
 
-**Independence**<br>
-5 July 1975 (from Portugal)<br>
-
-**National holiday**<br>
-Independence Day, 5 July (1975)<br>
-
 **Legal system**<br>
 civil law system of Portugal<br>
 
@@ -333,9 +328,6 @@ _subordinate courts_: appeals courts, first instance (municipal) courts; audit, 
 **Political parties**<br>
 African Party for Independence of Cabo Verde or PAICV <br>Democratic and Independent Cabo Verdean Union or UCID <br>Democratic Christian Party or PDC <br>Democratic Renewal Party or PRD <br>Movement for Democracy or MPD <br>Party for Democratic Convergence or PCD <br>Party of Work and Solidarity or PTS <br>Social Democratic Party or PSD <br>
 
-**International organization participation**<br>
-ACP, AfDB, AOSIS, AU, CD, CPLP, ECOWAS, FAO, G-77, IAEA, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jose Luis do Livramento MONTEIRO ALVES DE BRITO (since 23 December 2020)<br>
 _chancery_: 3415 Massachusetts Avenue NW, Washington, DC 20007<br>
@@ -352,11 +344,23 @@ _telephone_: [238] 260-8900<br>
 _FAX_: [238] 261-1355<br>
 _email address and website_: <br>PraiaConsular@state.gov<br><br>https://cv.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AOSIS, AU, CD, CPLP, ECOWAS, FAO, G-77, IAEA, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+5 July 1975 (from Portugal)<br>
+
+**National holiday**<br>
+Independence Day, 5 July (1975)<br>
+
 **Flag description**<br>
 five unequal horizontal bands; the top-most band of blue -- equal to half the width of the flag -- is followed by three narrow bands of white, red, and white, and a bottom&nbsp; stripe of blue; a circle of 10 yellow five-pointed stars is centered on the red stripe and sits toward the left side of the flag; blue stands for the sea and sky; the stripes symbolize the country's formation through peace (white) and effort (red); the circle of stars represents the 10 major islands<br>
 
 **National symbol(s)**<br>
-ten five-pointed yellow stars; national colors: blue, white, red, yellow<br>
+ten five-pointed yellow stars<br>
+
+**National colors**<br>
+blue, white, red, yellow<br>
 
 **National anthem**<br>
 _name_: "Cantico da Liberdade" (Song of Freedom)<br>

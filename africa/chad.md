@@ -179,8 +179,9 @@ _unimproved: urban_: urban: 9.8% of population<br>
 _unimproved: rural_: rural: 48.1% of population<br>
 _unimproved: total_: total: 39.1% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-5.2% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.2% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 7.3% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.09 physicians/1,000 population (2023)<br>
@@ -222,14 +223,14 @@ _women married by age 15_: 24.2% (2019)<br>
 _women married by age 18_: 60.6% (2019)<br>
 _men married by age 18_: 8.1% (2019)<br>
 
-**Education expenditures**<br>
-2.9% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.2% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 16.5% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write French or Arabic<br>
-_total population_: 26.8%<br>
-_male_: 35.4%<br>
-_female_: 18.2% (2021)<br>
+_total population_: 30.6% (2019 est.)<br>
+_male_: 44.5% (2019 est.)<br>
+_female_: 18.6% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 7 years<br>
@@ -259,9 +260,6 @@ _other_: 56.8% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 24.4% of total population (2023)<br>
 _rate of urbanization_: 4.1% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_widespread lack of access_: <em>due to civil insecurity and high food prices - </em>according to the latest analysis, about 1.86 million people are projected to experience acute food insecurity during the June to August 2023 lean season period; this would be an improvement compared to the previous year, mostly due to the higher year-on-year cereal output in 2022 after the below average 2021 production; acute food insecurity is underpinned by persisting insecurity in the Lac and Tibesti regions, which had displaced over 380 000 people by April 2023; furthermore, elevated food prices due to high fuel costs and localized crop losses during the 2022 floods are aggravating food insecurity (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 41.15 micrograms per cubic meter (2019 est.)<br>
@@ -309,12 +307,6 @@ _etymology_: said to derive its name from a local word meaning "place of rest"<b
 
 **Administrative divisions**<br>
 23 provinces (provinces, singular - province); Barh-El-Gazel, Batha, Borkou, Chari-Baguirmi, Ennedi-Est, Ennedi-Ouest, Guera, Hadjer-Lamis, Kanem, Lac, Logone Occidental, Logone Oriental, Mandoul, Mayo-Kebbi-Est, Mayo-Kebbi-Ouest, Moyen-Chari, N'Djamena, Ouaddai, Salamat, Sila, Tandjile, Tibesti, Wadi-Fira<br>
-
-**Independence**<br>
-11 August 1960 (from France)<br>
-
-**National holiday**<br>
-Independence Day, 11 August (1960)<br>
 
 **Legal system**<br>
 mixed system of civil and customary law<br>
@@ -375,9 +367,6 @@ _subordinate courts_: High Court of Justice; Courts of Appeal; tribunals; justic
 Chadian Convention for Peace and Development or CTPD<br>Federation Action for the Republic or FAR<br>National Rally for Development and Progress or Viva-RNDP<br>National Union for Democracy and Renewal or UNDR<br>Party for Unity and Reconstruction or PUR<br>Patriotic Salvation Movement or MPS <br>Rally for Democracy and Progress or RDP<br>Rally of Chadian Nationalists/Awakening or RNDT/Le Reveil<br>Social Democratic Party for a Change-over of Power or PDSA<br>Union for Democracy and the Republic or UDR<br>Union for Renewal and Democracy or URD<br>Transformers<strong><br></strong><br>
 <strong>note 1: </strong> 19 additional parties each contributed one member<br><strong><br>note 2: </strong> on 5 October 2021, Interim President Mahamat Idriss DEBY appointed 93 members to the interim National Transitional Council (NTC); 30% of the NTC members were retained from parties previously represented in the National Assembly<br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MNJTF, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador KITOKO GATA Ngoulou (since 30 June 2023)<br>
 _chancery_: 2401 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -393,12 +382,24 @@ _telephone_: [235] 6885-1065<br>
 _FAX_: [235] 2253-9102<br>
 _email address and website_: <br>NdjamenaACS@state.gov<br><br>https://td.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MNJTF, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+11 August 1960 (from France)<br>
+
+**National holiday**<br>
+Independence Day, 11 August (1960)<br>
+
 **Flag description**<br>
 three equal vertical bands of blue (hoist side), gold, and red; the flag combines the blue and red French (former colonial) colors with the red and yellow of the Pan-African colors; blue symbolizes the sky, hope, and the south of the country; gold represents the sun and the desert in the north; red stands for progress, unity, and sacrifice<br>
 <strong>note:</strong> almost identical to the flag of Romania but with a darker shade of blue; also similar to the flags of Andorra and Moldova, both of which have a national coat of arms centered in the yellow band; design based on France's flag<br>
 
 **National symbol(s)**<br>
-goat (north), lion (south); national colors: blue, yellow, red<br>
+goat (north), lion (south)<br>
+
+**National colors**<br>
+blue, yellow, red<br>
 
 **National anthem**<br>
 _name_: "La Tchadienne" (The Chadian)<br>

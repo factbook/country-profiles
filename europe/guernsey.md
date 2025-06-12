@@ -164,9 +164,6 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 1.2% of population (2017)<br>
 <strong>note:</strong> data represent Guernsey and Jersey<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
 _total population_: NA<br>
 _male_: NA<br>
@@ -224,12 +221,6 @@ _etymology_: named for the patron saint of fishermen; "port" distinguishes it fr
 none (British Crown dependency); there are no first-order administrative divisions as defined by the US Government, but there are 10 parishes: Castel, Forest, Saint Andrew, Saint Martin, Saint Peter Port, Saint Pierre du Bois, Saint Sampson, Saint Saviour, Torteval, Vale<br>
 <strong>note:</strong> two additional parishes for Guernsey are sometimes listed - Saint Anne on the island of Alderney and Saint Peter on the island of Sark - but they are generally not included in the enumeration of parishes<br>
 
-**Independence**<br>
-none (British Crown dependency)<br>
-
-**National holiday**<br>
-Liberation Day, 9 May (1945)<br>
-
 **Legal system**<br>
 customary system based on Norman customary law; includes elements of the French civil code and English common law<br>
 
@@ -273,20 +264,29 @@ _subordinate courts_: Court of Alderney; Court of the Seneschal of Sark; Magistr
 **Political parties**<br>
 Alliance Party Guernsey or APG <br>Guernsey Partnership of Independents or GPI <br>Guernsey Party or GP <br>
 
-**International organization participation**<br>
-UPU<br>
-
 **Diplomatic representation in the US**<br>
 none (British crown dependency)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (British crown dependency)<br>
 
+**International organization participation**<br>
+UPU<br>
+
+**Independence**<br>
+none (British Crown dependency)<br>
+
+**National holiday**<br>
+Liberation Day, 9 May (1945)<br>
+
 **Flag description**<br>
 white with the red cross of Saint George (patron saint of England) extending to the edges of the flag and a yellow equal-armed cross of William the Conqueror superimposed on the Saint George cross; the red cross represents Guernsey's status as a British Crown dependency; the gold cross is a replica of the one William the Conqueror carried at the Battle of Hastings in 1066<br>
 
 **National symbol(s)**<br>
-Guernsey cow, donkey; national colors: red, white, yellow<br>
+Guernsey cow, donkey<br>
+
+**National colors**<br>
+red, white, yellow<br>
 
 **National anthem**<br>
 _name_: "Sarnia Cherie" (Guernsey Dear)<br>

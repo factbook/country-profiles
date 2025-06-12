@@ -179,7 +179,6 @@ _unimproved: total_: total: NA<br>
 51% (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 98.5%<br>
 _male_: 99.7%<br>
 _female_: 97.3% (2014)<br>
@@ -233,9 +232,6 @@ _etymology_: the name means "Northern Taiwan," from the Chinese words <em>tai </
 <p>includes main island of Taiwan plus smaller islands nearby and off coast of China's Fujian Province; Taiwan is divided into 13 counties (xian, singular and plural), 3 cities (shi, singular and plural), and 6 special municipalities directly under the jurisdiction of the Executive Yuan</p> <p><strong>counties:</strong> Changhua, Chiayi, Hsinchu, Hualien, Kinmen, Lienchiang, Miaoli, Nantou, Penghu, Pingtung, Taitung, Yilan, Yunlin</p> <p><strong>cities:</strong> Chiayi, Hsinchu, Keelung</p> <p><strong>special municipalities:</strong> Kaohsiung (city), New Taipei (city), Taichung (city), Tainan (city), Taipei (city), Taoyuan (city)</p><br>
 <strong>note:</strong> Taiwan uses a variety of romanization systems; while a modified Wade-Giles system still dominates, the city of Taipei has adopted a Pinyin romanization for street and place names within its boundaries; other local authorities use different romanization systems<br>
 
-**National holiday**<br>
-Republic Day (National Day), 10 October (1911); note - celebrates the anniversary of the Chinese Revolution, also known as Double Ten (10-10) Day<br>
-
 **Legal system**<br>
 civil law system<br>
 
@@ -283,10 +279,6 @@ _subordinate courts_: high courts; district courts; hierarchy of administrative 
 Democratic Progressive Party or DPP <br>Kuomintang or KMT (Nationalist Party) <br>Taiwan People's Party or TPP <br>
 <strong>note:</strong> the DPP and the KMT are the two major political parties; more than 30 parties garnered votes in the 2024 election<br>
 
-**International organization participation**<br>
-ADB (Chinese Taipei), APEC (Chinese Taipei), BCIE, CABEI, IOC, ITUC (NGOs), SICA (observer), WTO (Chinese Taipei)<br>
-note - separate customs territory of Taiwan, Penghu, Kinmen, and Matsu<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: none<br>
 _Taipei Economic and Cultural Offices (branch offices)_: Atlanta, Boston, Chicago, Denver (CO), Hagatna (Guam), Honolulu, Houston, Los Angeles, Miami, New York, San Francisco, Seattle, Washington DC<br>
@@ -301,12 +293,22 @@ _email address and website_: TaipeiACS@state.gov<br><br>https://www.ait.org.tw/<
 _branch office(s)_: American Institute in Taiwan<br>No. 100, Jinhu Road,<br>Neihu District 11461, Taipei City<br>
 _other offices_: Kaohsiung (Branch Office)<br>
 
+**International organization participation**<br>
+ADB (Chinese Taipei), APEC (Chinese Taipei), BCIE, CABEI, IOC, ITUC (NGOs), SICA (observer), WTO (Chinese Taipei)<br>
+note - separate customs territory of Taiwan, Penghu, Kinmen, and Matsu<br>
+
+**National holiday**<br>
+Republic Day (National Day), 10 October (1911); note - celebrates the anniversary of the Chinese Revolution, also known as Double Ten (10-10) Day<br>
+
 **Flag description**<br>
 red field with a dark blue rectangle in the upper hoist-side corner, bearing a white sun with 12 triangular rays; the blue-and-white design of the canton (symbolizing the sun of progress) dates to 1895; blue stands for liberty, justice, and democracy, red for fraternity, sacrifice, and nationalism, and white for equality, frankness, and the people's livelihood; the 12 rays represent the months of the year and the traditional Chinese hours (each ray equals two hours)<br>
 <strong>note:</strong> similar to the flag of Samoa<br>
 
 **National symbol(s)**<br>
-white, 12-rayed sun on blue field; national colors: blue, white, red<br>
+white sun with 12 rays on a blue field<br>
+
+**National colors**<br>
+blue, white, red<br>
 
 **National anthem**<br>
 _name_: "Zhonghua Minguo guoge" (National Anthem of the Republic of China)<br>

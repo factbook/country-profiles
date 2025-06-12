@@ -163,11 +163,10 @@ _unimproved: total_: total: 0% of population (2020)<br>
 **Currently married women (ages 15-49)**<br>
 53.5% (2023 est.)<br>
 
-**Education expenditures**<br>
+**Education expenditure**<br>
 6.3% of GDP (2020 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 97.1%<br>
 _male_: 98.5%<br>
 _female_: 95.9% (2021)<br>
@@ -220,12 +219,6 @@ special administrative region of the People's Republic of China<br>
 **Administrative divisions**<br>
 none (special administrative region of the People's Republic of China)<br>
 
-**Independence**<br>
-none (special administrative region of China)<br>
-
-**National holiday**<br>
-National Day (anniversary of the Founding of the People's Republic of China), 1 October (1949); note - 20 December (1999) is celebrated as Macau Special Administrative Region Establishment Day<br>
-
 **Legal system**<br>
 civil law system based on the Portuguese model<br>
 
@@ -266,20 +259,29 @@ _subordinate courts_: Court of Second Instance; Court of First instance; Lower C
 Alliance for a Happy Home or ABL<br>Association of Synergy of Macau ("Synergy Power" or Poder da Singeria) or PS <br>Macau-Guangdong Union or UGM <br>New Hope or NE <br>Union for Development or UPD <br>Union for Promoting Progress or UPP or UNIPRO <br>United Citizens Association of Macau or ACUM<br>
 <strong>note:</strong> there is no political party ordinance, so there are no registered political parties; politically active groups register as societies or companies<br>
 
-**International organization participation**<br>
-ICC (national committees), IHO, IMF, IMO (associate), Interpol (subbureau), ISO (correspondent), UNESCO (associate), UNWTO (associate), UPU, WCO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 none (Special Administrative Region of China)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the US has no offices in Macau; US Consulate General in Hong Kong is accredited to Macau<br>
 
+**International organization participation**<br>
+ICC (national committees), IHO, IMF, IMO (associate), Interpol (subbureau), ISO (correspondent), UNESCO (associate), UNWTO (associate), UPU, WCO, WMO, WTO<br>
+
+**Independence**<br>
+none (special administrative region of China)<br>
+
+**National holiday**<br>
+National Day (anniversary of the Founding of the People's Republic of China), 1 October (1949); note - 20 December (1999) is celebrated as Macau Special Administrative Region Establishment Day<br>
+
 **Flag description**<br>
 green with a lotus flower above a stylized bridge and water in white, under an arc of five five-pointed gold stars; the lotus is the national floral emblem, and the three petals represent the country's peninsula and two islands; the five stars echo those on the Chinese flag<br>
 
 **National symbol(s)**<br>
-lotus blossom; national colors: green, white, yellow<br>
+lotus blossom<br>
+
+**National colors**<br>
+green, white, yellow<br>
 
 **National anthem**<br>
 <p><strong>note:</strong> as a Special Administrative Region of China, "Yiyongjun Jinxingqu" is the official anthem (see China)</p><br>

@@ -176,8 +176,9 @@ _unimproved: urban_: urban: 3.5% of population<br>
 _unimproved: rural_: rural: 20.1% of population<br>
 _unimproved: total_: total: 15.6% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 6.4% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.87 physicians/1,000 population (2023)<br>
@@ -213,14 +214,14 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _women married by age 15_: 0.1% (2017)<br>
 _women married by age 18_: 8.7% (2017)<br>
 
-**Education expenditures**<br>
-5.9% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.4% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 19.7% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 99.8%<br>
 _male_: 99.8%<br>
-_female_: 99.7% (2015)<br>
+_female_: 94.6% (2017 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -296,12 +297,6 @@ _etymology_: the name means Monday in Persian; today's city was originally at th
 2 provinces (viloyatho, singular - viloyat), 1 autonomous province* (viloyati mukhtor), 1 capital region** (viloyati poytakht), and 1 area referred to as Districts Under Republic Administration***; Dushanbe**, Khatlon (Bokhtar), Kuhistoni Badakhshon [Gorno-Badakhshan]* (Khorugh), Nohiyahoi Tobei Jumhuri***, Sughd (Khujand)<br>
 <strong>note:</strong> the administrative center name follows in parentheses<br>
 
-**Independence**<br>
-9 September 1991 (from the Soviet Union)<br>
-
-**National holiday**<br>
-Independence Day (or National Day), 9 September (1991)<br>
-
 **Legal system**<br>
 civil law system<br>
 
@@ -360,9 +355,6 @@ _subordinate courts_: regional and district courts; Dushanbe City Court; viloyat
 **Political parties**<br>
 Agrarian Party of Tajikistan or APT<br>Communist Party of Tajikistan or CPT<br>Democratic Party of Tajikistan or DPT<br>Party of Economic Reform of Tajikistan or PERT<br>People's Democratic Party of Tajikistan or PDPT<br>Social Democratic Party of Tajikistan or SDPT<br>Socialist Party of Tajikistan or SPT<br>
 
-**International organization participation**<br>
-ADB, CICA, CIS, CSTO, EAEC, EAPC, EBRD, ECO, EITI (candidate country), FAO, G-77, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Farrukh HAMRALIZODA (since 17 February 2021)<br>
 _chancery_: 1005 New Hampshire Avenue NW, Washington, DC 20037<br>
@@ -378,11 +370,23 @@ _telephone_: [992] (37) 229-20-00<br>
 _FAX_: [992] (37) 229-20-50<br>
 _email address and website_: <br>DushanbeConsular@state.gov<br><br>https://tj.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB, CICA, CIS, CSTO, EAEC, EAPC, EBRD, ECO, EITI (candidate country), FAO, G-77, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+9 September 1991 (from the Soviet Union)<br>
+
+**National holiday**<br>
+Independence Day (or National Day), 9 September (1991)<br>
+
 **Flag description**<br>
 three horizontal stripes of red (top), a wider stripe of white, and green; a gold crown under seven gold five-pointed stars is in the center of the white stripe; red stands for the sun, victory, and the unity of the nation, white for purity, cotton, and mountain snows, and green for Islam and nature's bounty; the crown symbolizes the Tajik people; the stars represent the number seven, which is considered a symbol of perfection and the embodiment of happiness<br>
 
 **National symbol(s)**<br>
-crown surmounted by an arc of seven, five-pointed stars; Marco Polo sheep; national colors: red, white, green<br>
+arc of seven five-pointed stars over a crown, Marco Polo sheep<br>
+
+**National colors**<br>
+red, white, green<br>
 
 **National anthem**<br>
 _name_: "Surudi milli" (National Anthem)<br>

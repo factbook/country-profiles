@@ -180,8 +180,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-11.3% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 11.3% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 15.9% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.88 physicians/1,000 population (2022)<br>
@@ -215,8 +216,9 @@ _female_: 16.4% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 53.7% (2023 est.)<br>
 
-**Education expenditures**<br>
-5.3% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.1% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 11.6% national budget (2022 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -306,12 +308,6 @@ _etymology_: the name is derived from the Dutch name of the local river, the Ams
 12 provinces (provincies, singular - provincie), 3 public entities* (openbare lichamen, singular - openbaar lichaam (Dutch); entidatnan publiko, singular - entidat publiko (Papiamento)); Bonaire*, Drenthe, Flevoland, Fryslan (Friesland), Gelderland, Groningen, Limburg, Noord-Brabant (North Brabant), Noord-Holland (North Holland), Overijssel, Saba*, Sint Eustatius*, Utrecht, Zeeland (Zealand), Zuid-Holland (South Holland)<br>
 <strong>note 1:</strong> the Netherlands is one of four constituent countries of the Kingdom of the Netherlands; the other three, Aruba, Curacao, and Sint Maarten, are all islands in the Caribbean; while all four parts are considered equal partners, in practice, most of the Kingdom's affairs are administered by the Netherlands, which makes up about 98% of the Kingdom's total land area and population <br><br><strong>note 2:</strong> although Bonaire, Saba, and Sint Eustatius are officially incorporated into the country of the Netherlands under the broad designation of "public entities," Dutch Government sources regularly apply to them the more descriptive term of "special municipalities"; Bonaire, Saba, and Sint Eustatius are collectively referred to as the Caribbean Netherlands<br>
 
-**Independence**<br>
-26 July 1581 (the northern provinces of the Low Countries formally declared their independence with an Act of Abjuration; however, it was not until 30 January 1648 and the Peace of Westphalia that Spain recognized this independence)<br>
-
-**National holiday**<br>
-King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967); note - King's or Queen's Day is observed on the ruling monarch's birthday; currently celebrated on 26 April if 27 April is a Sunday<br>
-
 **Legal system**<br>
 civil law system based on the French system; constitution does not permit judicial review of acts of the States General<br>
 
@@ -370,9 +366,6 @@ _subordinate courts_: courts of appeal; district courts, each with up to 5 subdi
 **Political parties**<br>
 Christian Democratic Appeal or CDA <br>Christian Union or CU<br>Correct Answer 2021 or JA21<br>Democrats 66 or D66 <br>Denk <br>Farmer-Citizen Movement or BBB <br>50Plus <br>Forum for Democracy or FvD <br>Green Left (GroenLinks) or GL <br>Labor Party or PvdA <br>New Social Contract or NSC <br>Party for Freedom or PVV <br>Party for the Animals or PvdD <br>People's Party for Freedom and Democracy or VVD <br>Reformed Political Party or SGP <br>Socialist Party or SP <br>Together or BIJ1 <br>Volt Netherlands or Volt <br>
 
-**International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, Benelux, BIS, CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, UNOOSA, UNRWA, UN Security Council (temporary), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Birgitta TAZELAAR (since 15 September 2023)<br>
 _chancery_: 4200 Linnean Avenue NW, Washington, DC 20008<br>
@@ -390,11 +383,24 @@ _FAX_: [31] (70) 310-2207<br>
 _email address and website_: <br>AmsterdamUSC@state.gov<br><br>https://nl.usembassy.gov/<br>
 _consulate(s) general_: Amsterdam<br>
 
+**International organization participation**<br>
+ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, Benelux, BIS, CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, UNOOSA, UNRWA, UN Security Council (temporary), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+26 July 1581 <br>
+<strong>note:</strong> the northern provinces of the Low Countries formally declared their independence with an Act of Abjuration in 1581, but, it was not until 30 January 1648 and the Peace of Westphalia that Spain recognized this independence<br>
+
+**National holiday**<br>
+King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967); note - King's or Queen's Day is observed on the ruling monarch's birthday; currently celebrated on 26 April if 27 April is a Sunday<br>
+
 **Flag description**<br>
 three equal horizontal bands of bright red (top), white, and cobalt blue; similar to the flag of Luxembourg, which uses a lighter blue and is longer; the colors come from WILLIAM I, Prince of Orange; originally the upper band was orange, but the dye would turn red over time, and red was eventually made the permanent color<br>
 
 **National symbol(s)**<br>
-lion, daisy; national color: orange<br>
+lion, daisy<br>
+
+**National colors**<br>
+orange<br>
 
 **National anthem**<br>
 _name_: "Het Wilhelmus" (The William)<br>
@@ -408,7 +414,7 @@ _selected World Heritage Site locales_: Schokland and Surroundings (c); Dutch Wa
 ## Economy
 
 **Economic overview**<br>
-high-income, core EU- and eurozone-member economy; trade-oriented with strong services, logistics, and high tech sectors; exiting mild recession triggered by inflation and weak export demand; tight labor market; low deficits and manageable public debt; strong ratings for innovation, competitiveness, and business climate<br>
+<p>high-income, core EU- and eurozone-member economy; strong services, logistics, and tech sectors; strongly trade-oriented with heightened risks from global tensions; declining inflation aided by easing energy prices and wage growth; rising but manageable deficits and public debt; strong ratings for innovation, competitiveness, and business climate</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.277 trillion (2023 est.)<br>

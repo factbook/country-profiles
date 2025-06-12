@@ -180,8 +180,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-11.8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 11.8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 12.4% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 4.48 physicians/1,000 population (2022)<br>
@@ -215,8 +216,9 @@ _female_: 20.1% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 57.5% (2023 est.)<br>
 
-**Education expenditures**<br>
-5.2% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.1% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 15.9% national budget (2023 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -303,12 +305,6 @@ _etymology_: the origin of the name is uncertain; it is sometimes associated wit
 26 cantons (cantons, singular - canton in French; cantoni, singular - cantone in Italian; Kantone, singular - Kanton in German); Aargau, Appenzell Ausserrhoden, Appenzell Innerrhoden, Basel-Landschaft, Basel-Stadt, Berne/Bern, Fribourg/Freiburg, Genève (Geneva), Glarus, Graubuenden/Grigioni/Grischun, Jura, Luzern (Lucerne), Neuchatel, Nidwalden, Obwalden, Sankt Gallen, Schaffhausen, Schwyz, Solothurn, Thurgau, Ticino, Uri, Valais/Wallis, Vaud, Zug, Zuerich<br>
 <strong>note:</strong> the canton names are in the official language(s) of the canton with the exception of Geneve and Luzern, where the conventional names (Geneva and Lucerne) have been added in parentheses; 6 of the cantons - Appenzell Ausserrhoden, Appenzell Innerrhoden, Basel-Landschaft, Basel-Stadt, Nidwalden, Obwalden - are referred to as half cantons because they elect only one member (instead of two) to the Council of States and, in popular referendums where a majority of popular votes and a majority of cantonal votes are required, these 6 cantons only have a half vote<br>
 
-**Independence**<br>
-1 August 1291 (founding of the Swiss Confederation)<br>
-
-**National holiday**<br>
-Founding of the Swiss Confederation in 1291; note - since 1 August 1891 celebrated as Swiss National Day<br>
-
 **Legal system**<br>
 civil law system; judicial review of legislative acts, except federal decrees of a general obligatory character<br>
 
@@ -371,9 +367,6 @@ _subordinate courts_: Federal Criminal Court (established in 2004); Federal Admi
 **Political parties**<br>
 The Center (Die Mitte, Alleanza del Centro, Le Centre, Allianza dal Center) (merger of the Christian Democratic People's Party and the Conservative Democratic Party)<br>Evangelical Peoples' Party or EVP/PEV <br>Federal Democrats or EDU <br>Geneva Citizens Movement or MCR/MCG <br>Green Liberal Party (Gruenliberale Partei or GLP, Parti vert liberale or PVL, Partito Verde-Liberale or PVL, Partida Verde Liberale or PVL) <br>Green Party (Gruene Partei der Schweiz or Gruene, Parti Ecologiste Suisse or Les Verts, Partito Ecologista Svizzero or I Verdi, Partida Ecologica Svizra or La Verda)<br>The Liberals or FDP.The Liberals (FDP.Die Liberalen, PLR.Les Liberaux-Radicaux, PLR.I Liberali, Ils Liberals)<br>Social Democratic Party (Sozialdemokratische Partei der Schweiz or SP, Parti Socialiste Suisse or PSS, Partito Socialista Svizzero or PSS, Partida Socialdemocratica de la Svizra or PSS) <br>Swiss People's Party (Schweizerische Volkspartei or SVP, Union Democratique du Centre or UDC, Unione Democratica di Centro or UDC, Uniun Democratica dal Center or UDC) <br>
 
-**International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNMOGIP, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Ralph HECKNER (since 18 September 2024)<br>
 _chancery_: 2900 Cathedral Ave NW, Washington, DC 20008<br>
@@ -391,12 +384,24 @@ _telephone_: [41] (031) 357-70-11<br>
 _FAX_: [41] (031) 357-73-20<br>
 _email address and website_: <br>https://ch.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNMOGIP, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+1 August 1291 (founding of the Swiss Confederation)<br>
+
+**National holiday**<br>
+Founding of the Swiss Confederation in 1291; note - since 1 August 1891 celebrated as Swiss National Day<br>
+
 **Flag description**<br>
 red square with an equilateral white cross in the center that does not extend to the edges of the flag; the origin of the flag is unclear, but a white cross was used to identify Swiss Confederation troops at the Battle of Laupen (1339)<br>
 <strong>note:</strong> in 1863, the newly formed International Red Cross chose the inverse of the Swiss flag -- a red cross on a white field -- as its symbol<br>
 
 **National symbol(s)**<br>
-Swiss cross (white cross on red field, arms equal length); national colors: red, white<br>
+Swiss cross (white cross on red field)<br>
+
+**National colors**<br>
+red, white<br>
 
 **National anthem**<br>
 _name_: the Swiss anthem has four names: "Schweizerpsalm" [German] "Cantique Suisse" [French] "Salmo svizzero," [Italian] "Psalm svizzer" [Romansch] (Swiss Psalm)<br>

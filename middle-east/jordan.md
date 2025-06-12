@@ -180,8 +180,9 @@ _unimproved: urban_: urban: 0.8% of population<br>
 _unimproved: rural_: rural: 2.1% of population<br>
 _unimproved: total_: total: 0.9% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-7.3% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 7.3% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 7.6% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.85 physicians/1,000 population (2022)<br>
@@ -223,14 +224,14 @@ _women married by age 15_: 1.5% (2018)<br>
 _women married by age 18_: 9.7% (2018)<br>
 _men married by age 18_: 0.1% (2018)<br>
 
-**Education expenditures**<br>
-3.2% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.2% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 9.7% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 98.4%<br>
-_male_: 98.7%<br>
-_female_: 98.4% (2021)<br>
+_total population_: 95% (2023 est.)<br>
+_male_: 97% (2023 est.)<br>
+_female_: 92% (2023 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -310,12 +311,6 @@ _etymology_: in the 13th century B.C., the Ammonites named their primary city Ra
 **Administrative divisions**<br>
 12 governorates (muhafazat, singular - muhafazah); 'Ajlun, Al 'Aqabah, Al Balqa', Al Karak, Al Mafraq, Al ‘Asimah (Amman), At Tafilah, Az Zarqa', Irbid, Jarash, Ma'an, Madaba<br>
 
-**Independence**<br>
-25 May 1946 (from League of Nations mandate under British administration)<br>
-
-**National holiday**<br>
-Independence Day, 25 May (1946)<br>
-
 **Legal system**<br>
 mixed system developed from Ottoman Empire codes (based on French law), British common law, and Islamic law<br>
 
@@ -373,9 +368,6 @@ _subordinate courts_: Courts of Appeal; Great Felonies Court; religious courts; 
 **Political parties**<br>
 'Azem<br>Blessed Land Party<br>Building and Labor Coalition<br>Eradah Party <br>Growth Party<br>Islamic Action Front or IAF<br>Jordanian al-Ansar Party<br>Jordanian al-Ghad Party<br>Jordanian Arab Socialist Ba'ath Party or JASBP <br>Jordanian Civil Democratic Party<br>Jordanian Communist Party or JCP<br>Jordanian Equality Party<br>Jordanian Democratic People's Party or HASD<br>Jordanian Democratic Popular Unity Party or JDPUP/Wihda<br>Jordanian Democratic Unionist Party<br>Jordanian Flame Party<br>Jordanian Future and Life Party<br>Jordanian Model Party<br>Jordanian National Integration Party<br>Jordanian National Loyalty Party<br>Jordanian Reform and Renewal Party or Hassad<br>Jordanian Shura Party <br>Jordanian Social Democratic Party or JSDP<br>Justice and Reform Party or JRP <br>Labor Party<br>National Charter Party<br>National Coalition Party <br>National Constitutional Party<br>National Current Party or NCP<br>National Islamic Party<br>National Union<br>Nationalist Movement Party or Hsq<br>New Path Party <br>Progress Party<br><br><br><br><br>
 
-**International organization participation**<br>
-ABEDA, AFESD, AMF, CAEU, CD, CICA, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINUSTAH, MONUSCO, NAM, NATO (partner), OIC, OPCW, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Dina Khalil Tawfiq KAWAR (since 27 June 2016)<br>
 _chancery_: 3504 International Drive NW, Washington, DC 20008<br>
@@ -391,11 +383,23 @@ _telephone_: [962] (6) 590-6000<br>
 _FAX_: [962] (6) 592-0163<br>
 _email address and website_: <br>Amman-ACS@state.gov<br><br>https://jo.usembassy.gov/<br>
 
+**International organization participation**<br>
+ABEDA, AFESD, AMF, CAEU, CD, CICA, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINUSTAH, MONUSCO, NAM, NATO (partner), OIC, OPCW, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+25 May 1946 (from League of Nations mandate under British administration)<br>
+
+**National holiday**<br>
+Independence Day, 25 May (1946)<br>
+
 **Flag description**<br>
 three equal horizontal bands, with black (top) representing the Abbassid Caliphate, white representing the Ummayyad Caliphate, and green representing the Fatimid Caliphate; a red isosceles triangle on the hoist side stands for the Great Arab Revolt of 1916 and has a small white seven-pointed star symbolizing the seven verses of the opening Sura (Al-Fatiha) of the Koran; the points on the star represent faith in One God, humanity, national spirit, humility, social justice, virtue, and aspirations; the design is based on the Arab Revolt flag of World War I<br>
 
 **National symbol(s)**<br>
-eagle; national colors: black, white, green, red<br>
+eagle<br>
+
+**National colors**<br>
+black, white, green, red<br>
 
 **National anthem**<br>
 _name_: "As-salam al-malaki al-urdoni" (Long Live the King of Jordan)<br>

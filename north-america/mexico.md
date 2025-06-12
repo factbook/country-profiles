@@ -186,8 +186,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 1.7% of population<br>
 _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-6.1% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 6.1% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 10.4% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.59 physicians/1,000 population (2022)<br>
@@ -228,14 +229,14 @@ _female_: 6.3% (2025 est.)<br>
 _women married by age 15_: 3.6% (2018)<br>
 _women married by age 18_: 20.7% (2018)<br>
 
-**Education expenditures**<br>
-4.3% of GDP (2018 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.2% of GDP (2021 est.)<br>
+_Education expenditure (% national budget)_: 15.9% national budget (2021 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 95.2%<br>
-_male_: 96.1%<br>
-_female_: 94.5% (2020)<br>
+_total population_: 95% (2020 est.)<br>
+_male_: 96% (2020 est.)<br>
+_female_: 94% (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -326,12 +327,6 @@ _etymology_: name may derive from one of the Nahuatl (Aztec) names for the capit
 **Administrative divisions**<br>
 32 states (estados, singular - estado); Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila, Colima, Cuidad de Mexico, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Mexico, Michoac&aacute;n, Morelos, Nayarit, Nuevo Leon, Oaxaca, Puebla, Queretaro, Quintana Roo, San Luis Potosi, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatan, Zacatecas<br>
 
-**Independence**<br>
-16 September 1810 (declared independence from Spain); 27 September 1821 (recognized by Spain)<br>
-
-**National holiday**<br>
-Independence Day, 16 September (1810)<br>
-
 **Legal system**<br>
 civil law system with US constitutional law influence; judicial review of legislative acts<br>
 
@@ -395,9 +390,6 @@ _subordinate courts_: federal level includes circuit, collegiate, and unitary co
 **Political parties**<br>
 <p>Citizen's Movement (Movimiento Ciudadano) or MC<br>Institutional Revolutionary Party (Partido Revolucionario Institucional) or PRI<br>Labor Party (Partido del Trabajo) or PT<br>Mexican Green Ecological Party (Partido Verde Ecologista de México) or PVEM<br>Movement for National Regeneration (Movimiento Regeneración Nacional) or MORENA<br>National Action Party (Partido Acción Nacional) or PAN<br>Party of the Democratic Revolution (Partido de la Revolución Democrática) or PRD<br>This Is For Mexico (Va Por México) (alliance that includes PAN, PRI, and PRD)<br>Together We Make History (Juntos Hacemos Historia) (alliance that included MORENA, PT, PVEM) (dissolved 23 December 2020)<br><br></p><br>
 
-**International organization participation**<br>
-ACS, APEC, Australia Group, BCIE, BIS, CABEI, CAN (observer), Caricom (observer), CD, CDB, CE (observer), CELAC, CSN (observer), EBRD, FAO, FATF, G-3, G-15, G-20, G-24, G-5, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, NAFTA, NAM (observer), NEA, NSG, OAS, OECD, OPANAL, OPCW, Pacific Alliance, Paris Club (associate), PCA, SICA (observer), UN, UNASUR (observer), UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina (observer), UNOOSA, UNWTO, UPU, USMCA, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Esteban MOCTEZUMA Barrag&aacute;n (since 20 April 2021)<br>
 _chancery_: 1911 Pennsylvania Avenue NW, Washington, DC 20006<br>
@@ -417,12 +409,24 @@ _FAX_: (011) 52-55-5080-2005<br>
 _email address and website_: <br>ACSMexicoCity@state.gov<br><br>https://mx.usembassy.gov/<br>
 _consulate(s) general_: Ciudad Ju&aacute;rez, Guadalajara, Hermosillo, Matamoros, M&eacute;rida, Monterrey, Nogales, Nuevo Laredo, Tijuana<br>
 
+**International organization participation**<br>
+ACS, APEC, Australia Group, BCIE, BIS, CABEI, CAN (observer), Caricom (observer), CD, CDB, CE (observer), CELAC, CSN (observer), EBRD, FAO, FATF, G-3, G-15, G-20, G-24, G-5, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, NAFTA, NAM (observer), NEA, NSG, OAS, OECD, OPANAL, OPCW, Pacific Alliance, Paris Club (associate), PCA, SICA (observer), UN, UNASUR (observer), UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina (observer), UNOOSA, UNWTO, UPU, USMCA, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+16 September 1810 (declared independence from Spain); 27 September 1821 (recognized by Spain)<br>
+
+**National holiday**<br>
+Independence Day, 16 September (1810)<br>
+
 **Flag description**<br>
 three equal vertical bands of green (hoist side), white, and red; Mexico's coat of arms (an eagle with a snake in its beak perched on a cactus) is centered in the white band; green stands for hope, joy, and love; white for peace and honesty; red for hardiness, bravery, strength, and valor<br>
 <strong>note:</strong> similar to the flag of Italy, which is shorter, has no emblem, and uses lighter shades of green and red<br>
 
 **National symbol(s)**<br>
-golden eagle, dahlia; national colors: green, white, red<br>
+golden eagle, dahlia<br>
+
+**National colors**<br>
+green, white, red<br>
 
 **National anthem**<br>
 _name_: "Himno Nacional Mexicano" (National Anthem of Mexico)<br>

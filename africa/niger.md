@@ -182,8 +182,9 @@ _unimproved: urban_: urban: 4.2% of population<br>
 _unimproved: rural_: rural: 36.9% of population<br>
 _unimproved: total_: total: 31.4% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-5.8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 7.1% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.04 physicians/1,000 population (2023)<br>
@@ -220,14 +221,14 @@ _female_: 1.2% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 80.3% (2023 est.)<br>
 
-**Education expenditures**<br>
-3.8% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.1% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 12.8% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 37.3%<br>
-_male_: 45.8%<br>
-_female_: 29% (2018)<br>
+_total population_: 35.6% (2022 est.)<br>
+_male_: 47.9% (2022 est.)<br>
+_female_: 25.7% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 6 years<br>
@@ -257,9 +258,6 @@ _other_: 62.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 17.1% of total population (2023)<br>
 _rate of urbanization_: 4.72% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_widespread lack of access_: <em>due to internal conflict, high food prices, and floods - </em>about 3.28 million people are projected to be acutely food insecure during the June to August 2023 lean season period; this would be an improvement on the situation in 2022, mostly reflecting the sharp upturn in crop yields following the below average cereal output in 2021; persistent insecurity continues to disrupt livelihoods and has displaced over 370,000 people, mostly in the Diffa, Tahoua and Tillabery regions, as of May 2023; high food prices, as well as the floods in 2022 that affected about 327,000 people, are additional factors that have aggravated food insecurity (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 50.15 micrograms per cubic meter (2019 est.)<br>
@@ -314,12 +312,6 @@ _etymology_: the origin of the name is unclear; one of many stories says that an
 **Administrative divisions**<br>
 7 regions (r&eacute;gions, singular - r&eacute;gion) and 1 capital district* (communaut&eacute; urbaine); Agadez, Diffa, Dosso, Maradi, Niamey*, Tahoua, Tillaberi, Zinder<br>
 
-**Independence**<br>
-3 August 1960 (from France)<br>
-
-**National holiday**<br>
-Republic Day, 18 December (1958); note - commemorates the founding of the Republic of Niger which predated independence from France in 1960<br>
-
 **Legal system**<br>
 <strong>note:</strong> following the 26 July 2023 military coup, the National Council for the Safeguard of the Homeland assumed control of all government institutions and rules by decree; formerly, mixed system of civil law, based on French civil law, Islamic law, and customary law<br>
 
@@ -366,9 +358,6 @@ _subordinate courts_: Court of Cassation; Council of State; Court of Finances; v
 <p>Alliance for Democracy and the Republic<br>Alliance for Democratic Renewal or ARD-Adaltchi-Mutuntchi <br>Alliance of Movements for the Emergence of Niger or AMEN AMIN<br>Congress for the Republic or CPR-Inganci<br>Democratic Alternation for Equity in Niger<br>Democratic and Republican Renewal-RDR-Tchanji<br>Democratic Movement for the Emergence of Niger Falala<br>Democratic Patriots' Rally or RPD Bazara<br>National Movement for the Development of Society-Nassara or MNSD-Nassara<br>Nigerien Alliance for Democracy and Progress-Zaman Lahiya or ANDP-Zaman Lahiya<br>Nigerien Democratic Movement for an African Federation or MODEN/FA Lumana<br>Nigerien Party for Democracy and Socialism or PNDS-Tarrayya<br>Nigerien Patriotic Movement or MPN-Kishin Kassa<br>Nigerien Rally for Democracy and Peace<br>Patriotic Movement for the Republic or MPR-Jamhuriya<br>Peace, Justice, Progress–Generation Doubara<br>Rally for Democracy and Progress-Jama'a or RDP-Jama'a<br>Rally for Peace and Progress or RPP Farilla<br>Social Democratic Rally or RSD-Gaskiyya<br>Social Democratic Party or PSD-Bassira</p><br>
 <strong>Note:</strong> after the 26 July 2023 military coup, the National Council for the Safeguard of the Homeland dissolved the National Assembly and prohibited all political party activity <br>
 
-**International organization participation**<br>
-ACP, AfDB, AU (suspended), CD, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSCA, MNJTF, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Hassane IDI (since 3 August 2023)<br>
 _chancery_: 2204 R Street NW, Washington, DC 20008<br>
@@ -384,12 +373,24 @@ _telephone_: [227] 20-72-26-61<br>
 _FAX_: [227] 20-73-55-60<br>
 _email address and website_: <br>consulateniamey@state.gov<br><br>https://ne.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU (suspended), CD, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSCA, MNJTF, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+3 August 1960 (from France)<br>
+
+**National holiday**<br>
+Republic Day, 18 December (1958); note - commemorates the founding of the Republic of Niger which predated independence from France in 1960<br>
+
 **Flag description**<br>
 three equal horizontal bands of orange (top), white, and green, with a small orange disk centered in the white band; the orange stands for the northern Sahara regions, white for purity and innocence, and green for hope and the fertile and productive southern and western areas, as well as the Niger River; the orange disc represents the sun and the people's sacrifices <br>
 <strong>note:</strong> similar to the flag of India, which has a blue spoked wheel centered in the white band<br>
 
 **National symbol(s)**<br>
-zebu; national colors: orange, white, green<br>
+zebu<br>
+
+**National colors**<br>
+orange, white, green<br>
 
 **National anthem**<br>
 _name_: "La Nigerienne" (The Nigerien)<br>
@@ -637,11 +638,11 @@ Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force
 <strong>note 1:</strong> the Gendarmerie (GN) and the National Guard (GNN) are paramilitary forces; the GN has primary responsibility for rural security while the GNN is responsible for domestic security and the protection of high-level officials and government buildings<br><br><strong>note 2: </strong>the National Police includes the Directorate of Territorial Surveillance, which is charged with border management<br>
 
 **Military expenditures**<br>
+2.2% of GDP (2024 est.)<br>
 2% of GDP (2023 est.)<br>
 1.7% of GDP (2022 est.)<br>
 1.8% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
-1.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 35-40,000 active Nigerien Armed Forces, including Gendarmerie; estimated 5-10,000 National Guard (2025)<br>

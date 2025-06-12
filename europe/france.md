@@ -193,8 +193,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-12.3% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 12.3% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 15.3% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.28 physicians/1,000 population (2022)<br>
@@ -228,8 +229,9 @@ _female_: 27.3% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 54.8% (2023 est.)<br>
 
-**Education expenditures**<br>
-5.5% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.4% of GDP (2021 est.)<br>
+_Education expenditure (% national budget)_: 8.9% national budget (2021 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -327,12 +329,6 @@ _etymology_: name derives from the Parisii, a Celtic tribe that inhabited the ar
 Clipperton Island, French Polynesia, French Southern and Antarctic Lands, New Caledonia, Saint Barthelemy, Saint Martin, Saint Pierre and Miquelon, Wallis and Futuna (8)<br>
 <strong>note:</strong> the US Government does not recognize claims to Antarctica; New Caledonia has been considered a "sui generis" collectivity of France since 1998, a unique status falling between that of an independent country and a French overseas department<br>
 
-**Independence**<br>
-no official date of independence: 486 (Frankish tribes unified under Merovingian kingship); 10 August 843 (Western Francia established from the division of the Carolingian Empire); 14 July 1789 (French monarchy overthrown); 22 September 1792 (First French Republic founded); 4 October 1958 (Fifth French Republic established)<br>
-
-**National holiday**<br>
-Fête de la Fédération, 14 July (1790); note - often incorrectly referred to as Bastille Day, the celebration commemorates the holiday held on the first anniversary of the storming of the Bastille (on 14 July 1789) and the establishment of a constitutional monarchy; other names for the holiday are <em>la Fête nationale</em> (National Holiday) and <em>le Quatorze Juillet</em> (14th of July)<br>
-
 **Legal system**<br>
 civil law; review of administrative but not legislative acts<br>
 
@@ -392,9 +388,6 @@ _subordinate courts_: appellate courts or cours d'appel; regional courts or trib
 **Political parties**<br>
 Citizen and Republican Movement or MRC <br>Debout la France or DLF <br>Democratic Movement or MoDem <br>Ensemble or ENS (electoral coalition including RE, MoDem, Horizons, PRV, UDI)<br>The Ecologists - the Greens or EELV<br>French Communist Party or PCF <br>Horizons <br>La France Insoumise or FI <br>Liberties, Independents, Overseas and Territories or LIOT <br>Movement of Progressives or MDP <br>National Rally or RN (formerly National Front or FN)<br>New Democrats or LND (formerly Ecology Democracy Solidarity or EDS)<br>New Popular Front or NFP (electoral coalition including FI, EELV, PS, PCF)<br>Radical Party of the Left or PRV <br>Reconquete or REC <br>Renaissance or RE <br>Résistons! <br>Socialist Party or PS <br>The Republicans or LR <br>Union of Democrats and Independents or UDI<br>Union of Far Right or UXD (electoral coalition of LR, RN)<br>
 
-**International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BDEAC, BIS, BSEC (observer), CBSS (observer), CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, FZ, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SPC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, Union Latina, UNMIL, UNOCI, UNOOSA, UNRWA, UN Security Council (permanent), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Laurent BILI (since 19 April 2023)<br>
 _chancery_: 4101 Reservoir Road NW, Washington, DC 20007<br>
@@ -413,12 +406,24 @@ _email address and website_: <br>Citizeninfo@state.gov<br><br>https://fr.usembas
 _consulate(s) general_: Marseille, Strasbourg<br>
 _consulate(s)_: Bordeaux, Lyon, Rennes<br>
 
+**International organization participation**<br>
+ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BDEAC, BIS, BSEC (observer), CBSS (observer), CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, FZ, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SPC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, Union Latina, UNMIL, UNOCI, UNOOSA, UNRWA, UN Security Council (permanent), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+no official date of independence: 486 (Frankish tribes unified under Merovingian kingship); 10 August 843 (Western Francia established from the division of the Carolingian Empire); 14 July 1789 (French monarchy overthrown); 22 September 1792 (First French Republic established); 4 October 1958 (Fifth French Republic established)<br>
+
+**National holiday**<br>
+Fête de la Fédération, 14 July (1790); note - often incorrectly referred to as Bastille Day, the celebration commemorates the holiday held on the first anniversary of the storming of the Bastille (on 14 July 1789) and the establishment of a constitutional monarchy; other names for the holiday are <em>la Fête nationale</em> (National Holiday) and <em>le Quatorze Juillet</em> (14th of July)<br>
+
 **Flag description**<br>
 three equal vertical bands of blue (hoist side), white, and red; known as the <em>le tricolore</em> (tricolor), the flag dates to 1790 and the French Revolution, when the traditional color of white was combined with the blue and red of the Paris militia; serves as the official flag for all French dependencies<br>
 <strong>note:</strong> for the first four years of the flag's use, 1790-94, the order of colors was reversed (red-white-blue); the design and colors are similar to a number of other flags, including those of Belgium, Chad, Cote d'Ivoire, Ireland, Italy, Luxembourg, and Netherlands<br>
 
 **National symbol(s)**<br>
-Gallic rooster, fleur-de-lis, Marianne (female personification of the country); national colors: blue, white, red<br>
+Gallic rooster, fleur-de-lis, Marianne (female personification of the country)<br>
+
+**National colors**<br>
+blue, white, red<br>
 
 **National anthem**<br>
 _name_: "La Marseillaise" (The Song of Marseille)<br>

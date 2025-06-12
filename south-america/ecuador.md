@@ -176,8 +176,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 12.9% of population<br>
 _unimproved: total_: total: 4.6% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-8.3% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 8.3% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 11.9% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.31 physicians/1,000 population (2020)<br>
@@ -218,14 +219,14 @@ _female_: 2.4% (2025 est.)<br>
 _women married by age 15_: 3.8% (2018)<br>
 _women married by age 18_: 22.2% (2018)<br>
 
-**Education expenditures**<br>
-3.7% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.9% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 9.7% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 93.9%<br>
-_male_: 94.9%<br>
-_female_: 93.1% (2022)<br>
+_total population_: 94% (2022 est.)<br>
+_male_: 95% (2022 est.)<br>
+_female_: 93% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -304,12 +305,6 @@ _etymology_: named after the Quitu, a Pre-Columbian people who lived in the area
 **Administrative divisions**<br>
 24 provinces (provincias, singular - provincia); Azuay, Bolivar, Canar, Carchi, Chimborazo, Cotopaxi, El Oro, Esmeraldas, Galapagos, Guayas, Imbabura, Loja, Los Rios, Manabi, Morona Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena, Santo Domingo de los Tsachilas, Sucumbios, Tungurahua, Zamora Chinchipe<br>
 
-**Independence**<br>
-24 May 1822 (from Spain)<br>
-
-**National holiday**<br>
-Independence Day (independence of Quito), 10 August (1809)<br>
-
 **Legal system**<br>
 civil law based on the Chilean civil code with modifications; traditional law in ethnic communities<br>
 
@@ -358,9 +353,6 @@ _subordinate courts_: provincial courts (one for each province except Galapagos)
 **Political parties**<br>
 Actuemos Ecuador or Actuemos<br>AMIGO movement, Independent Mobilizing Action Generating Opportunities (Movimiento AMIGO (Acción Movilizadora Independiente Generando Oportunidades)) or AM16O<br>Avanza Party or AVANZA<br>Central Democratic Movement or CD<br>Citizen Revolution Movement or MRC or RC5<br>Creating Opportunities Movement or CREO<br>Democratic Left or ID<br>Democracy Yes Movement (Movimiento Democracia Si)<br>For A Country Without Fear (Por Un País Sin Miedo) (an alliance including PSC, CD, and PSP)<br>Green Movement (Movimiento Verde)<br>Movimiento Construye or Construye<br>National Democratic Action (Acción Democrática Nacional) or ADN<br>Pachakutik Plurinational Unity Movement or MUPP<br>Patriotic Society Party or PSP<br>People, Equality, and Democracy Party (Partido Pueblo, Igualdad y Democracia) or PID<br>Popular Unity Party (Partido Unidad Popular) or UP<br>Revolutionary and Democratic Ethical Green Movement (Movimiento Verde Ético Revolucionario y Democrático) or MOVER<strong><br></strong>Social Christian Party or PSC<br>Socialist Party<br>Society United for More Action or SUMA<br>Total Renovation Movement (Movimiento Renovacion Total) or RETO<br>
 
-**International organization participation**<br>
-CAN, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OPANAL, OPCW, OPEC, Pacific Alliance (observer), PCA, PROSUR, SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador-designate Pablo ZAMBRANO Albuja (since 20 March 2025)<br>
 _chancery_: 2535 15th Street NW, Washington, DC 20009<br>
@@ -377,12 +369,24 @@ _telephone_: [593] (2) 398-5000<br>
 _email address and website_: <br>ACSQuito@state.gov<br><br>https://ec.usembassy.gov/<br>
 _consulate(s) general_: Guayaquil<br>
 
+**International organization participation**<br>
+CAN, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OPANAL, OPCW, OPEC, Pacific Alliance (observer), PCA, PROSUR, SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+24 May 1822 (from Spain)<br>
+
+**National holiday**<br>
+Independence Day (independence of Quito), 10 August (1809)<br>
+
 **Flag description**<br>
 three horizontal bands of yellow (top, double-width), blue, and red, with the coat of arms at the center of the flag; yellow stands for sunshine, grain, and mineral wealth; blue for the sky, sea, and rivers; red for the blood of patriots spilled in the struggle for freedom and justice<br>
 <strong>note:</strong> similar to the flag of Colombia, which is shorter and does not have a coat of arms<br>
 
 **National symbol(s)**<br>
-Andean condor; national colors: yellow, blue, red<br>
+Andean condor<br>
+
+**National colors**<br>
+yellow, blue, red<br>
 
 **National anthem**<br>
 _name_: "Salve, Oh Patria!" (We Salute You, Our Homeland)<br>

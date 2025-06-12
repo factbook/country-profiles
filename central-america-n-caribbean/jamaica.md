@@ -172,8 +172,9 @@ _unimproved: urban_: urban: 1.7% of population<br>
 _unimproved: rural_: rural: 6.1% of population<br>
 _unimproved: total_: total: 3.6% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-7.2% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 7.2% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 19% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.46 physicians/1,000 population (2023)<br>
@@ -210,14 +211,14 @@ _female_: 3.1% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 32.7% (2023 est.)<br>
 
-**Education expenditures**<br>
-6% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.7% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 14.5% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over has ever attended school<br>
 _total population_: 88.7%<br>
 _male_: 84%<br>
-_female_: 93.1% (2015)<br>
+_female_: 90.8% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
@@ -284,12 +285,6 @@ _etymology_: the name is a blend of the words "king's" and "town;" named after t
 14 parishes; Clarendon, Hanover, Kingston, Manchester, Portland, Saint Andrew, Saint Ann, Saint Catherine, Saint Elizabeth, Saint James, Saint Mary, Saint Thomas, Trelawny, Westmoreland<br>
 <strong>note:</strong> for local government purposes, Kingston and Saint Andrew were amalgamated in 1923 into the present single corporate body known as the Kingston and Saint Andrew Corporation<br>
 
-**Independence**<br>
-6 August 1962 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 6 August (1962)<br>
-
 **Legal system**<br>
 common law system based on the English model<br>
 
@@ -348,9 +343,6 @@ _subordinate courts_: resident magistrate courts, district courts, and petty ses
 **Political parties**<br>
 <p>Jamaica Labor Party or JLP<br>Jamaica Progressive Party or JPP<br>People's National Party or PNP<br>United Independents' Congress or UIC</p><br>
 
-**International organization participation**<br>
-ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Audrey Patrice MARKS (since 18 January 2017)<br>
 _chancery_: 1520 New Hampshire Avenue NW, Washington, DC 20036<br>
@@ -367,11 +359,23 @@ _telephone_: (876) 702-6000<br>
 _FAX_: (876) 702-6348<br>
 _email address and website_: <br>KingstonACS@state.gov<br><br>https://jm.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+6 August 1962 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 6 August (1962)<br>
+
 **Flag description**<br>
 diagonal yellow cross divides the flag into four triangles, two green (top and bottom) and two black (hoist side and fly side); green stands for hope, vegetation, and agriculture, black for hardships overcome and to be faced, and yellow for sunshine and natural resources<br>
 
 **National symbol(s)**<br>
-green-and-black streamertail (bird), Guiacum officinale (Lignum Vitae); national colors: green, yellow, black<br>
+green-and-black streamertail (bird), guaiacwood (<em>Guiacum officinale</em>)<br>
+
+**National colors**<br>
+green, yellow, black<br>
 
 **National anthem**<br>
 _name_: "Jamaica, Land We Love"<br>

@@ -175,8 +175,9 @@ _unimproved: urban_: urban: 0.9% of population<br>
 _unimproved: rural_: rural: 5% of population<br>
 _unimproved: total_: total: 3% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-5.1% of GDP (2022)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.1% of GDP (2022)<br>
+_Health expenditure (as % of national budget)_: 9% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.79 physicians/1,000 population (2021)<br>
@@ -217,14 +218,14 @@ _female_: 3.7% (2025 est.)<br>
 _women married by age 15_: 1.5% (2022)<br>
 _women married by age 18_: 9.4% (2022)<br>
 
-**Education expenditures**<br>
-3.7% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.6% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 16.7% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 96.3%<br>
-_male_: 95.7%<br>
-_female_: 96.9% (2019)<br>
+_total population_: 98% (2020 est.)<br>
+_male_: 98% (2020 est.)<br>
+_female_: 97% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -304,12 +305,6 @@ _etymology_: derives from the Tagalog word <em>may</em>, meaning "there is," and
 **Administrative divisions**<br>
 <p>81 provinces and 38 chartered cities</p> <p><strong>provinces:</strong> Abra, Agusan del Norte, Agusan del Sur, Aklan, Albay, Antique, Apayao, Aurora, Basilan, Bataan, Batanes, Batangas, Biliran, Benguet, Bohol, Bukidnon, Bulacan, Cagayan, Camarines Norte, Camarines Sur, Camiguin, Capiz, Catanduanes, Cavite, Cebu, Cotabato, Davao del Norte, Davao del Sur, Davao de Oro, Davao Occidental, Davao Oriental, Dinagat Islands, Eastern Samar, Guimaras, Ifugao, Ilocos Norte, Ilocos Sur, Iloilo, Isabela, Kalinga, Laguna, Lanao del Norte, Lanao del Sur, La Union, Leyte, Maguindanao, Marinduque, Masbate, Mindoro Occidental, Mindoro Oriental, Misamis Occidental, Misamis Oriental, Mountain, Negros Occidental, Negros Oriental, Northern Samar, Nueva Ecija, Nueva Vizcaya, Palawan, Pampanga, Pangasinan, Quezon, Quirino, Rizal, Romblon, Samar, Sarangani, Siquijor, Sorsogon, South Cotabato, Southern Leyte, Sultan Kudarat, Sulu, Surigao del Norte, Surigao del Sur, Tarlac, Tawi-Tawi, Zambales, Zamboanga del Norte, Zamboanga del Sur, Zamboanga Sibugay;</p> <p><strong>chartered cities:</strong> Angeles, Bacolod, Baguio, Butuan, Cagayan de Oro, Caloocan, Cebu, Cotabato, Dagupan, Davao, General Santos, Iligan, Iloilo, Lapu-Lapu, Las Pinas, Lucena, Makati, Malabon, Mandaluyong, Mandaue, Manila, Marikina, Muntinlupa, Naga, Navotas, Olongapo, Ormoc, Paranaque, Pasay, Pasig, Puerto Princesa, Quezon, San Juan, Santiago, Tacloban, Taguig, Valenzuela, Zamboanga</p><br>
 
-**Independence**<br>
-4 July 1946 (from the US)<br>
-
-**National holiday**<br>
-Independence Day, 12 June (1898); note - 12 June 1898 was date of declaration of independence from Spain; 4 July 1946 was date of independence from the US<br>
-
 **Legal system**<br>
 mixed system of civil, common, Islamic (sharia), and customary law<br>
 
@@ -369,9 +364,6 @@ _subordinate courts_: Court of Appeals; Sandiganbayan (special court for corrupt
 **Political parties**<br>
 Democratic Action (Aksyon Demokratiko) <br>Alliance for Change (Hugpong ng Pagbabago or HNP) <br>Lakas ng EDSA-Christian Muslim Democrats or Lakas-CMD <br>Liberal Party or LP <br>Nacionalista Party or NP <br>Nationalist People's Coalition or NPC <br>National Unity Party or NUP<br>Partido Demokratiko Pilipino-Lakas ng Bayan or PDP-Laban <br>Partido Federal ng Pilipinas or PFP <br>Progressive Movement for the Devolution of Initiatives or PROMDI<br>
 
-**International organization participation**<br>
-ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, EAS, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, NAM, OAS (observer), OPCW, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMOGIP, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jose Manuel del Gallego ROMUALDEZ (since 29 November 2017)<br>
 _chancery_: 1600 Massachusetts Avenue NW, Washington, DC 20036<br>
@@ -388,15 +380,27 @@ _telephone_: [63] (2) 5301-2000<br>
 _FAX_: [63] (2) 5301-2017<br>
 _email address and website_: <br>acsinfomanila@state.gov<br><br>https://ph.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, EAS, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, NAM, OAS (observer), OPCW, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMOGIP, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+4 July 1946 (from the US)<br>
+
+**National holiday**<br>
+Independence Day, 12 June (1898); note - 12 June 1898 was date of declaration of independence from Spain; 4 July 1946 was date of independence from the US<br>
+
 **Flag description**<br>
 two equal horizontal bands of blue (top) and red; a white equilateral triangle is based on the hoist side; the center of the triangle has a yellow sun with eight primary rays; each corner of the triangle contains a small five-pointed yellow star; blue stands for peace and justice, red for courage, and the triangle for equality; the rays represent the first eight provinces that sought independence from Spain, and the stars represent the country's three parts: Luzon, Visayas, and Mindanao; the design dates to 1897<br>
 <strong>note:</strong> in wartime, the flag is flown upside-down with the red band at the top<br>
 
 **National symbol(s)**<br>
-three stars and sun, Philippine eagle; national colors: red, white, blue, yellow<br>
+three stars and sun, Philippine eagle<br>
+
+**National colors**<br>
+red, white, blue, yellow<br>
 
 **National coat of arms**<br>
-The coat of arms of the Philippines was adopted on 3 July 1946. The three gold stars represent the major island groups of Luzon, the Visayas, and Mindanao. The rays of the sun represent the provinces of the Philippines. The American eagle and lion of Spain represent the nation's colonial past.<br>
+the coat of arms was adopted on 3 July 1946; the three gold stars represent the major island groups of Luzon, the Visayas, and Mindanao; the rays of the sun represent the provinces of the Philippines; the American eagle and lion of Spain represent the nation's colonial past<br>
 
 **National anthem**<br>
 _name_: "Lupang Hinirang" (Chosen Land)<br>
@@ -682,11 +686,11 @@ Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air F
 <strong>note 1:</strong> the PCG is an armed and uniformed service that would be attached to the AFP during a conflict<br><br><strong>note 2: </strong>the Philippine Government also arms and supports civilian militias; the AFP controls the Civilian Armed Force Geographical Units, while the Civilian Volunteer Organizations fall under PNP command<br>
 
 **Military expenditures**<br>
+1.7% of GDP (2024 est.)<br>
 1.5% of GDP (2023 est.)<br>
-1.2% of GDP (2022 est.)<br>
+1.4% of GDP (2022 est.)<br>
 1.2% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
-1.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 145,000 active Armed Forces (105,000 Army; 25,000 Navy, including about 8,000 Marine Corps; 15,000 Air Force) (2025)<br>

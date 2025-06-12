@@ -177,8 +177,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-10.2% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 10.2% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 14.8% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.61 physicians/1,000 population (2021)<br>
@@ -215,8 +216,9 @@ _female_: 14.3% (2025 est.)<br>
 **Child marriage**<br>
 _women married by age 18_: 0.1% (2017)<br>
 
-**Education expenditures**<br>
-5.9% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 6.5% of GDP (2021 est.)<br>
+_Education expenditure (% national budget)_: 10.2% national budget (2021 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -299,12 +301,6 @@ _etymology_: the modern name is a Finnish derivation; King Gustav VASA of Sweden
 **Administrative divisions**<br>
 19 regions (maakunnat, singular - maakunta (Finnish); landskapen, singular - landskapet (Swedish)); Aland (Swedish), Ahvenanmaa (Finnish); Etela-Karjala (Finnish), Sodra Karelen (Swedish) [South Karelia]; Etela-Pohjanmaa (Finnish), Sodra Osterbotten (Swedish) [South Ostrobothnia]; Etela-Savo (Finnish), Sodra Savolax (Swedish) [South Savo]; Kanta-Hame (Finnish), Egentliga Tavastland (Swedish); Kainuu (Finnish), Kajanaland (Swedish); Keski-Pohjanmaa (Finnish), Mellersta Osterbotten (Swedish) [Central Ostrobothnia]; Keski-Suomi (Finnish), Mellersta Finland (Swedish) [Central Finland]; Kymenlaakso (Finnish), Kymmenedalen (Swedish); Lappi (Finnish), Lappland (Swedish); Paijat-Hame (Finnish), Paijanne-Tavastland (Swedish); Pirkanmaa (Finnish), Birkaland (Swedish) [Tampere]; Pohjanmaa (Finnish), Osterbotten (Swedish) [Ostrobothnia]; Pohjois-Karjala (Finnish), Norra Karelen (Swedish) [North Karelia]; Pohjois-Pohjanmaa (Finnish), Norra Osterbotten (Swedish) [North Ostrobothnia]; Pohjois-Savo (Finnish), Norra Savolax (Swedish) [North Savo]; Satakunta (Finnish and Swedish); Uusimaa (Finnish), Nyland (Swedish) [Newland]; Varsinais-Suomi (Finnish), Egentliga Finland (Swedish) [Southwest Finland]<br>
 
-**Independence**<br>
-6 December 1917 (from Russia)<br>
-
-**National holiday**<br>
-Independence Day, 6 December (1917)<br>
-
 **Legal system**<br>
 civil law system based on the Swedish model<br>
 
@@ -352,9 +348,6 @@ _subordinate courts_: 6 Courts of Appeal; 8 regional administrative courts; 27 d
 **Political parties**<br>
 Aland Coalition (a coalition of several political parties on the Aland Islands)<br>Center Party or Kesk <br>Christian Democrats or KD <br>Finns Party or PS <br>Green League or Vihr <br>Left Alliance or Vas <br>Movement Now or Liike Nyt <br>National Coalition Party or Kok <br>Social Democratic Party or SDP <br>Swedish People's Party or RKP or SFP <br>
 
-**International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNOOSA, UNRWA, UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Leena-Kaisa MIKKOLA (since 18 September 2024)<br>
 _chancery_: 3301 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -371,11 +364,23 @@ _telephone_: [358] (9) 616-250<br>
 _FAX_: [358] (9) 174-681<br>
 _email address and website_: <br>HelsinkiACS@state.gov<br><br>https://fi.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNOOSA, UNRWA, UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+6 December 1917 (from Russia)<br>
+
+**National holiday**<br>
+Independence Day, 6 December (1917)<br>
+
 **Flag description**<br>
 white with a blue cross extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the blue stands for the country's thousands of lakes, and the white for snow<br>
 
 **National symbol(s)**<br>
-lion; national colors: blue, white<br>
+lion<br>
+
+**National colors**<br>
+blue, white<br>
 
 **National anthem**<br>
 _name_: "Maamme" (Our Land)<br>

@@ -191,8 +191,9 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 0.3% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-16.6% of GDP (2022)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 16.6% of GDP (2022)<br>
+_Health expenditure (as % of national budget)_: 24.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.68 physicians/1,000 population (2022)<br>
@@ -229,8 +230,9 @@ _female_: 16.7% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 51.9% (2023 est.)<br>
 
-**Education expenditures**<br>
-6.1% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.4% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 14% national budget (2022 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -324,12 +326,6 @@ _etymology_: named after George WASHINGTON (1732-1799), the first president of t
 American Samoa, Baker Island, Guam, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Navassa Island, Northern Mariana Islands, Palmyra Atoll, Puerto Rico, Virgin Islands, Wake Island (14)<br>
 <strong>note:</strong> from 18 July 1947 until 1 October 1994, the US administered the Trust Territory of the Pacific Islands; it entered into a political relationship with all four political entities: the Northern Mariana Islands is a commonwealth in political union with the US (effective 3 November 1986); the Republic of the Marshall Islands signed a Compact of Free Association with the US (effective 21 October 1986); the Federated States of Micronesia signed a Compact of Free Association with the US (effective 3 November 1986); Palau concluded a Compact of Free Association with the US (effective 1 October 1994)<br>
 
-**Independence**<br>
-4 July 1776 (declared independence from Great Britain); 3 September 1783 (recognized by Great Britain)<br>
-
-**National holiday**<br>
-Independence Day, 4 July (1776)<br>
-
 **Legal system**<br>
 common law system based on English common law at the federal level; state legal systems based on common law, except Louisiana, where state law is based on Napoleonic civil code; judicial review of legislative acts<br>
 
@@ -396,12 +392,21 @@ Democratic Party<br>Green Party<br>Libertarian Party<br>Republican Party<br>
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), ANZUS, APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE (observer), CERN (observer), CICA (observer), CP, EAPC, EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Quad, SAARC (observer), SELEC (observer), SICA (observer), SPC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNITAR, UNMIL, UNMISS, UNOOSA, UNRWA, UN Security Council (permanent), UNTSO, UPU, USMCA, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
+**Independence**<br>
+4 July 1776 (declared independence from Great Britain); 3 September 1783 (recognized by Great Britain)<br>
+
+**National holiday**<br>
+Independence Day, 4 July (1776)<br>
+
 **Flag description**<br>
 13 equal horizontal stripes of red (top and bottom) alternating with white; a blue rectangle in the upper hoist-side corner has 50 five-pointed white stars, arranged in nine offset horizontal rows of six stars (top and bottom) alternating with rows of five stars; the stars represent the 50 states, and the stripes represent the 13 original colonies; blue stands for loyalty, devotion, truth, justice, and friendship, red for courage, zeal, and fervency, and white for purity and rectitude of conduct; commonly referred to by its nickname of "Old Glory"<br>
 <strong>note:</strong> the design and colors have been the basis for a number of other flags, including Chile, Liberia, Malaysia, and Puerto Rico<br>
 
 **National symbol(s)**<br>
-bald eagle; national colors: red, white, blue<br>
+bald eagle<br>
+
+**National colors**<br>
+red, white, blue<br>
 
 **National anthem**<br>
 _name_: "The Star-Spangled Banner"<br>

@@ -170,6 +170,9 @@ _unimproved: urban_: urban: 3.6% of population<br>
 _unimproved: rural_: rural: 26.3% of population<br>
 _unimproved: total_: total: 15.8% of population (2020 est.)<br>
 
+**Health expenditure**<br>
+2.5% of national budget (2022 est.)<br>
+
 **Physician density**<br>
 0.05 physicians/1,000 population (2014)<br>
 
@@ -197,13 +200,14 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 **Currently married women (ages 15-49)**<br>
 62.9% (2023 est.)<br>
 
-**Education expenditures**<br>
-0.3% of GDP (2019)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 0.3% of GDP (2019 est.)<br>
+_Education expenditure (% national budget)_: 4.2% national budget (2019 est.)<br>
 
 **Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
+_total population_: 54% (2022 est.) NA<br>
+_male_: 65% (2022 est.) NA<br>
+_female_: 44% (2022 est.) NA<br>
 
 ## Environment
 
@@ -228,9 +232,6 @@ _other_: 20.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 47.9% of total population (2023)<br>
 _rate of urbanization_: 4.2% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: <em>due to drought conditions and internal conflict - </em>the food security situation remains dire and, at national level, about 6.5 million people (almost 40 percent of the total population) are projected to have faced severe acute food insecurity between April and June 2023; the high prevalence and severity of food insecurity are due to prolonged drought, which began in late 2020 and caused severe crop and livestock losses; the impact of the drought on households’ food security has been compounded by prolonged conflicts and hikes in international prices of wheat and fuel caused by the war in Ukraine (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 14.28 micrograms per cubic meter (2019 est.)<br>
@@ -272,12 +273,6 @@ _etymology_: the name is probably derived from the Arabic word <em>mukaddas</em>
 
 **Administrative divisions**<br>
 18 regions (plural - gobollo, singular - gobol); Awdal, Bakool, Banaadir, Bari, Bay, Galguduud, Gedo, Hiiraan, Jubbada Dhexe (Middle Jubba), Jubbada Hoose (Lower Jubba), Mudug, Nugaal, Sanaag, Shabeellaha Dhexe (Middle Shabeelle), Shabeellaha Hoose (Lower Shabeelle), Sool, Togdheer, Woqooyi Galbeed<br>
-
-**Independence**<br>
-1 July 1960 (from a merger of British Somaliland, which became independent from the UK on 26 June 1960, and Italian Somaliland, which became independent from the Italian-administered UN trusteeship on 1 July 1960 to form the Somali Republic)<br>
-
-**National holiday**<br>
-Foundation of the Somali Republic, 1 July (1960); note - 26 June (1960) in Somaliland<br>
 
 **Legal system**<br>
 mixed system of civil law, Islamic (sharia) law, and customary law (referred to as Xeer)<br>
@@ -338,9 +333,6 @@ _subordinate courts_: federal courts; federal member state-level courts; militar
 <p>Cosmopolitan Democratic Party<br>Green Party<br>Himilo Qaran Party<br>Ilays Party<br>Justice and Reconciliation Party<br>National Progressive Party<br>Peace and Unity Party<br>Qaransoor Party<br>Qiimo Qaran Party<br>Security and Justice Party<br>Social Justice Party<br>Somali Labour Party<br>Somali Republic Party<br>Somali Social Unity Party or SSUP<br>Union for Peace and Development Party or PDP<br>Wadajir Party</p><br>
 <strong>note:</strong> in 2017 an independent electoral commission (the NIEC) was inaugurated with a mandate to oversee the process of registration of political parties in the country; as of 2021, the NIEC had registered a total of 110 parties<br>
 
-**International organization participation**<br>
-ACP, AfDB, AFESD, AMF, AU, CAEU (candidate), EAC, FAO, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, LAS, NAM, OIC, OPCW, OPCW (signatory), UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UPU, WFTU (NGOs), WHO, WIPO, WMO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador DAHIR Hassan Abdi (since 18 September 2024)<br>
 _chancery_: 1609 22nd Street NW, Washington, DC 20008<br>
@@ -354,11 +346,23 @@ _mailing address_: P.O. Box 606 Village Market<br>00621 Nairobi, Kenya<br>
 _telephone_: [254] 20 363-6451<br>
 _email address and website_: <br>SomaliaPublicAffairs@state.gov<br><br>https://so.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AFESD, AMF, AU, CAEU (candidate), EAC, FAO, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, LAS, NAM, OIC, OPCW, OPCW (signatory), UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UPU, WFTU (NGOs), WHO, WIPO, WMO<br>
+
+**Independence**<br>
+1 July 1960 (from a merger of British Somaliland, which became independent from the UK on 26 June 1960, and Italian Somaliland, which became independent from the Italian-administered UN trusteeship on 1 July 1960 to form the Somali Republic)<br>
+
+**National holiday**<br>
+Foundation of the Somali Republic, 1 July (1960); note - 26 June (1960) in Somaliland<br>
+
 **Flag description**<br>
 light blue with a large white five-pointed star in the center; the blue field was originally influenced by the UN flag but today is said to represent the sky and the Indian Ocean; the five points of the star represent the regions in the horn of Africa where Somali people live: the former British Somaliland and Italian Somaliland (which together make up Somalia), Djibouti, Ogaden (Ethiopia), and the Northeast Province (Kenya)<br>
 
 **National symbol(s)**<br>
-leopard; national colors: blue, white<br>
+leopard<br>
+
+**National colors**<br>
+blue, white<br>
 
 **National anthem**<br>
 _name_: "Qolobaa Calankeed" (Every Nation Has its own Flag)<br>
@@ -598,7 +602,7 @@ estimated 20,000 active Somali Armed Forces (2025)<br>
 <strong>note: </strong>tens of thousands of militia forces are also active in Somalia<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SNA's inventory includes a variety of mostly older, secondhand equipment largely from Italy, Russia, South Africa, and the UK; in recent years, it has received limited quantities of more modern equipment as aid/donations from a variety of countries, including the US (2024)<br>
+the SNA's inventory is a mix of older, secondhand, and donated equipment from a variety of suppliers, including Italy, Russia, South Africa, Turkey, the UK, and the US (2024)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service for men and women; conscription of men aged 18-40 and women aged 18-30 is authorized, but not currently utilized (2023)<br>

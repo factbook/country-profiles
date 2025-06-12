@@ -181,8 +181,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 2.6% of population<br>
 _unimproved: total_: total: 0.7% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-5.2% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.2% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 5.8% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.02 physicians/1,000 population (2022)<br>
@@ -223,14 +224,13 @@ _female_: 1.3% (2025 est.)<br>
 _women married by age 15_: 7.2% (2018)<br>
 _women married by age 18_: 27.9% (2018)<br>
 
-**Education expenditures**<br>
+**Education expenditure**<br>
 4.7% of GDP (2016)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 85.6%<br>
-_male_: 91.2%<br>
-_female_: 79.9% (2017)<br>
+_total population_: 86% (2017 est.)<br>
+_male_: 91% (2017 est.)<br>
+_female_: 76.3% (2018 est.)<br>
 
 ## Environment
 
@@ -255,9 +255,6 @@ _other_: 76.3% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 71.6% of total population (2023)<br>
 _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to civil conflict and economic slowdown -</em> the 2022 Humanitarian Needs Overview identified 2.5 million people in need of humanitarian assistance, of which 960,000 have acute humanitarian needs; while the number of people in need remained similar to the previous year, the severity of those needs increased, largely due to the impact of the COVID‑19 pandemic on top of an existing humanitarian crisis, leading to a 35% increase in the number of people in acute need; more than half of these are concentrated in the governorates of Nineveh and Anbar; the number of severely food insecure people is estimated at about 435,000, while 731,000 are vulnerable to food insecurity (2022)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 39.29 micrograms per cubic meter (2019 est.)<br>
@@ -310,12 +307,6 @@ _etymology_: the origin of the name is unclear; it may mean "gift of God," from 
 18 governorates (muhafazat, singular - muhafazah (Arabic); parezgakan, singular - parezga (Kurdish)); 'Al Anbar; Al Basrah; Al Muthanna; Al Qadisiyah (Ad Diwaniyah); An Najaf; Arbil (Erbil) (Arabic), Hewler (Kurdish); As Sulaymaniyah (Arabic), Slemani (Kurdish); Babil; Baghdad; Dahuk (Arabic), Dihok (Kurdish); Dhi Qar; Diyala; Karbala'; Kirkuk; Maysan; Ninawa; Salah ad Din; Wasit<br>
 <strong>note: </strong>Iraq's Kurdistan Regional Government administers Arbil, Dahuk, and As Sulaymaniyah (as Hewler, Dihok, and Slemani respectively)<br>
 
-**Independence**<br>
-3 October 1932 (from League of Nations mandate under British administration); note - on 28 June 2004 the Coalition Provisional Authority transferred sovereignty to the Iraqi Interim Government<br>
-
-**National holiday**<br>
-Independence Day, 3 October (1932); Republic Day, 14 July (1958)<br>
-
 **Legal system**<br>
 mixed system of civil and Islamic law<br>
 
@@ -364,9 +355,6 @@ _subordinate courts_: Courts of Appeal (governorate level); civil courts, includ
 **Political parties**<br>
 Al Fatah Alliance<br>Azm Alliance<br>Babiliyun Movement<br>Imtidad<br>Ishraqat Konun<br>Kurdistan Democratic Party<br>National Contract Party<br>New Generation Movement<br>Patriotic Union of Kurdistan<br>Sadrist Bloc<br>State Forces Alliance<br>State of Law Coalition<br>Taqadum<br>Tasmim Alliance<br>
 
-**International organization participation**<br>
-ABEDA, AFESD, AIIB, AMF, CAEU, CICA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Nazar Issa Abdulhadi AL-KHIRULLAH (since 30 June 2023)<br>
 _chancery_: 1801 P Street NW, Washington, DC 20036<br>
@@ -382,12 +370,25 @@ _mailing address_: 6060 Baghdad Place, Washington DC&nbsp; 20521-6060<br>
 _telephone_: 0760-030-3000<br>
 _email address and website_: <br>BaghdadACS@state.gov<br><br>https://iq.usembassy.gov/<br>
 
+**International organization participation**<br>
+ABEDA, AFESD, AIIB, AMF, CAEU, CICA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
+
+**Independence**<br>
+3 October 1932 (from League of Nations mandate under British administration)<br>
+<strong>note:</strong> on 28 June 2004, the Coalition Provisional Authority transferred sovereignty to the Iraqi Interim Government<br>
+
+**National holiday**<br>
+Independence Day, 3 October (1932); Republic Day, 14 July (1958)<br>
+
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and black; the Takbir (Arabic phrase meaning "God is great") in green Arabic script is centered in the white band; the colors come from the Arab Liberation flag and stand for oppression (black) overcome through bloody struggle (red), to be replaced by a bright future (white); the Council of Representatives approved this flag in 2008 as a compromise replacement for the Ba'thist SADDAM-era flag<br>
 <strong>note:</strong> similar to the flags of Syria (two stars but no script), Yemen (plain white band), and Egypt (a golden Eagle of Saladin centered in the white band)<br>
 
 **National symbol(s)**<br>
-golden eagle; national colors: red, white, black<br>
+golden eagle<br>
+
+**National colors**<br>
+red, white, black<br>
 
 **National anthem**<br>
 _name_: "Mawtini" (My Homeland)<br>

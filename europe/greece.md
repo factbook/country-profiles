@@ -172,8 +172,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-9.2% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 9.2% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 8.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 6.58 physicians/1,000 population (2022)<br>
@@ -207,11 +208,11 @@ _female_: 24.6% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 54.1% (2023 est.)<br>
 
-**Education expenditures**<br>
-4.4% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.8% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 7.2% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 97.9%<br>
 _male_: 98.5%<br>
 _female_: 97.4% (2018)<br>
@@ -290,12 +291,6 @@ _etymology_: the origin of the name is uncertain; according to tradition, the ci
 **Administrative divisions**<br>
 13 regions (perifereies, singular - perifereia) and 1 autonomous monastic state* (aftonomi monastiki politeia); Agion Oros* (Mount Athos), Anatoliki Makedonia kai Thraki (East Macedonia and Thrace), Attiki (Attica), Dytiki Ellada (West Greece), Dytiki Makedonia (West Macedonia), Ionia Nisia (Ionian Islands), Ipeiros (Epirus), Kentriki Makedonia (Central Macedonia), Kriti (Crete), Notio Aigaio (South Aegean), Peloponnisos (Peloponnese), Sterea Ellada (Central Greece), Thessalia (Thessaly), Voreio Aigaio (North Aegean)<br>
 
-**Independence**<br>
-3 February 1830 (from the Ottoman Empire); note - 25 March 1821, outbreak of the national revolt against the Ottomans; 3 February 1830, signing of the London Protocol recognizing Greek independence by Great Britain, France, and Russia<br>
-
-**National holiday**<br>
-Independence Day, 25 March (1821)<br>
-
 **Legal system**<br>
 civil legal system based on Roman law<br>
 
@@ -343,9 +338,6 @@ _subordinate courts_: Courts of Appeal and Courts of First Instance (district co
 **Political parties**<br>
 Coalition of the Radical Left-Progressive Alliance or SYRIZA-PS <br>Communist Party of Greece or KKE <br>Course of Freedom<br>Democratic Patriotic Movement-Victory or NIKI<br>Greek Solution<br>New Democracy or ND<br>PASOK - Movement for Change or PASOK-KINAL<br>Spartans<br>
 
-**International organization participation**<br>
-Australia Group, BIS, BSEC, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Ekaterini NASSIKA (since 27 February 2024)<br>
 _chancery_: 2217 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -364,12 +356,25 @@ _FAX_: [30] (210) 724-5313<br>
 _email address and website_: <br>athensamericancitizenservices@state.gov<br><br>https://gr.usembassy.gov/<br>
 _consulate(s) general_: Thessaloniki<br>
 
+**International organization participation**<br>
+Australia Group, BIS, BSEC, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+3 February 1830 (from the Ottoman Empire)<br>
+<strong>note:</strong> the national revolt against the Ottomans began on 25 March 1821; the London Protocol recognizing Greek independence was signed on 3 February 1830 by Great Britain, France, and Russia<br>
+
+**National holiday**<br>
+Independence Day, 25 March (1821)<br>
+
 **Flag description**<br>
 nine equal horizontal stripes of blue alternating with white; a blue square with a white cross is in the upper hoist-side corner; the cross symbolizes Greek Orthodoxy, the established religion of the country; there is no set meaning for the stripes and colors<br>
 <strong>note:</strong> Greek legislation states that the flag colors are cyan and white, but cyan can mean "blue" in Greek, so the exact shade of blue has never been set and has varied from a light to a dark blue over time; the blue is now usually an azure<br>
 
 **National symbol(s)**<br>
-Greek cross (white cross on blue field, arms equal length); national colors: blue, white<br>
+Greek cross (white cross on a blue field)<br>
+
+**National colors**<br>
+blue, white<br>
 
 **National anthem**<br>
 _name_: "Ymnos eis tin Eleftherian" (Hymn to Liberty)<br>

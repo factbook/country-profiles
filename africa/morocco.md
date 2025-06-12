@@ -180,8 +180,9 @@ _unimproved: urban_: urban: 1.7% of population<br>
 _unimproved: rural_: rural: 20.9% of population<br>
 _unimproved: total_: total: 9% of population (2017 est.)<br>
 
-**Current health expenditure**<br>
-5.7% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.7% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 6.8% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.74 physicians/1,000 population (2021)<br>
@@ -225,12 +226,11 @@ _female_: 0.9% (2025 est.)<br>
 _women married by age 15_: 0.5% (2018)<br>
 _women married by age 18_: 13.7% (2018)<br>
 
-**Education expenditures**<br>
-6.8% of GDP (2020)<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 6% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 23.3% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 75.9%<br>
 _male_: 84.8%<br>
 _female_: 67.4% (2021)<br>
@@ -322,12 +322,6 @@ _etymology_: derives from the Arabic name Ribat el-Fath, from the words <em>riba
 12 regions; Beni Mellal-Khenifra, Casablanca-Settat, Dakhla-Oued Ed-Dahab, Draa-Tafilalet, Fes-Meknes, Guelmim-Oued Noun, Laayoune-Sakia El Hamra, Marrakech-Safi, Oriental, Rabat-Sale-Kenitra, Souss-Massa, Tanger-Tetouan-Al Hoceima<br>
 <strong>note:</strong> effective 10 December 2020, the US Government recognizes the sovereignty of Morocco over all of the territory of former Western Sahara<br>
 
-**Independence**<br>
-2 March 1956 (from France)<br>
-
-**National holiday**<br>
-Throne Day (accession of King MOHAMMED VI to the throne), 30 July (1999)<br>
-
 **Legal system**<br>
 mixed system of civil law based on French civil law and Islamic (sharia) law; Constitutional Court reviews legislative acts<br>
 
@@ -385,9 +379,6 @@ _subordinate courts_: courts of appeal; High Court of Justice; administrative an
 **Political parties**<br>
 Action Party or PA<br>Amal (hope) Party<br>An-Nahj Ad-Dimocrati or An-Nahj or Democratic Way<br>Authenticity and Modernity Party or PAM<br>Constitutional Union Party or UC<br>Democratic and Social Movement or MDS<br>Democratic Forces Front or FFD<br>Environment and Sustainable Development Party or PEDD<br>Federation of the Democratic Left or FGD<br>Green Left Party or PGV<br>Istiqlal (Independence) Party or PI<br>Moroccan Liberal Party or PML<br>Moroccan Union for Democracy or UMD<br>National Democratic Party<br>National Rally of Independents or RNI<br>Neo-Democrats Party<br>Party of Development Reform or PRD<br>Party of Justice and Development or PJD<br>Party of Liberty and Social Justice or PLJS<br>Party of Progress and Socialism or PPS<br>Popular Movement or MP<br>Renaissance and Virtue Party or PRV<br>Renaissance Party<br>Renewal and Equity Party or PRE<br>Shoura (consultation) and Istiqlal Party<br>Socialist Union of Popular Forces or USFP<br>Unified Socialist Party or GSU<br>Unity and Democracy Party<br>
 
-**International organization participation**<br>
-ABEDA, AfDB, AFESD, AIIB, AMF, AMU, AU, CAEU, CD, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNOOSA, UNSC (temporary), UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Youssef AMRANI (since 27 February 2024)<br>
 _chancery_: 3508 International Drive NW, Washington, DC 20008<br>
@@ -405,11 +396,23 @@ _FAX_: [212] 0537-637-201<br>
 _email address and website_: <br>https://ma.usembassy.gov/<br>
 _consulate(s) general_: Casablanca<br>
 
+**International organization participation**<br>
+ABEDA, AfDB, AFESD, AIIB, AMF, AMU, AU, CAEU, CD, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNOOSA, UNSC (temporary), UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+2 March 1956 (from France)<br>
+
+**National holiday**<br>
+Throne Day (accession of King MOHAMMED VI to the throne), 30 July (1999)<br>
+
 **Flag description**<br>
 red with a green pentacle (five-pointed linear star) known as Sulayman's (Solomon's) seal in the center of the flag; red and green are traditional colors in Arab flags, although the use of red is more commonly associated with the Arab states of the Persian Gulf; the pentacle represents the five pillars of Islam and signifies the association between God and the nation; the design dates to 1912<br>
 
 **National symbol(s)**<br>
-pentacle symbol, lion; national colors: red, green<br>
+pentacle symbol, lion<br>
+
+**National colors**<br>
+red, green<br>
 
 **National anthem**<br>
 _name_: "Hymne Cherifien" (Hymn of the Sharif)<br>

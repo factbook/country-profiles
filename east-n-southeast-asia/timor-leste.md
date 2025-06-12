@@ -171,8 +171,9 @@ _unimproved: urban_: urban: 2% of population<br>
 _unimproved: rural_: rural: 17.5% of population<br>
 _unimproved: total_: total: 12.6% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-11.4% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 11.4% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 8.9% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.75 physicians/1,000 population (2020)<br>
@@ -211,14 +212,14 @@ _women married by age 15_: 2.6% (2016)<br>
 _women married by age 18_: 14.9% (2016)<br>
 _men married by age 18_: 1.2% (2016)<br>
 
-**Education expenditures**<br>
-4.2% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3% of GDP (2021 est.)<br>
+_Education expenditure (% national budget)_: 7.5% national budget (2021 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 68.1%<br>
-_male_: 71.9%<br>
-_female_: 64.2% (2018)<br>
+_total population_: 65.8% (2016 est.)<br>
+_male_: 72.2% (2016 est.)<br>
+_female_: 59.6% (2016 est.)<br>
 
 **People - note**<br>
 one of only two predominantly Christian nations in Southeast Asia, the other being the Philippines<br>
@@ -286,12 +287,6 @@ _time difference_: UTC+9 (14 hours ahead of Washington, DC, during Standard Time
 12 municipalities (municipios, singular municipio) and 1 special adminstrative region* (regiao administrativa especial); Aileu, Ainaro, Baucau, Bobonaro (Maliana), Covalima (Suai), Dili, Ermera (Gleno), Lautem (Lospalos), Liquica, Manatuto, Manufahi (Same), Oe-Cusse Ambeno* (Pante Macassar), Viqueque<br>
 <strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)<br>
 
-**Independence**<br>
-20 May 2002 (from Indonesia); note - 28 November 1975 was the date independence was proclaimed from Portugal; 20 May 2002 was the date of international recognition of Timor-Leste's independence from Indonesia<br>
-
-**National holiday**<br>
-Restoration of Independence Day, 20 May (2002); Proclamation of Independence Day, 28 November (1975)<br>
-
 **Legal system**<br>
 civil law system based on the Portuguese model<br>
 
@@ -339,9 +334,6 @@ _subordinate courts_: Court of Appeal; High Administrative, Tax, and Audit Court
 **Political parties**<br>
 Democratic Party or PD <br>National Congress for Timorese Reconstruction or CNRT <br>National Unity of the Sons of Timor (Haburas Unidade Nasional Timor Oan or KHUNTO) <br>People's Liberation Party or PLP <br>Revolutionary Front of Independent Timor-Leste or FRETILIN<br>
 
-**International organization participation**<br>
-ACP, ADB, AOSIS, ARF, ASEAN (observer), CPLP, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OPCW, PIF (observer), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WMO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jos&eacute; Luis GUTERRES (since 17 June 2024)<br>
 _chancery_: 4201 Connecticut Avenue NW, Suite 504, Washington, DC 20008<br>
@@ -357,11 +349,23 @@ _telephone_: (670) 332-4684, (670) 330-2400<br>
 _FAX_: (670) 331-3206<br>
 _email address and website_: <br>ConsDili@state.gov<br><br>https://tl.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, ADB, AOSIS, ARF, ASEAN (observer), CPLP, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OPCW, PIF (observer), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WMO<br>
+
+**Independence**<br>
+28 November 1975 (from Portugal); 20 May 2002 (from Indonesia)<br>
+
+**National holiday**<br>
+Restoration of Independence Day, 20 May (2002); Proclamation of Independence Day, 28 November (1975)<br>
+
 **Flag description**<br>
 red with a black isosceles triangle (based on the hoist side) on a slightly longer yellow arrowhead that extends to the center of the flag; a white star is in the center of the black triangle; yellow stands for past colonialism, black for obscurantism that needs to be overcome, and red for the struggle for freedom; the white star represents peace and a guiding light<br>
 
 **National symbol(s)**<br>
-Mount Ramelau; national colors: red, yellow, black, white<br>
+Mount Ramelau<br>
+
+**National colors**<br>
+red, yellow, black, white<br>
 
 **National anthem**<br>
 _name_: "Patria" (Fatherland)<br>
@@ -608,11 +612,11 @@ _key ports_: Dili<br>
 Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (F-FDTL)): Land Component, Light Air Component, Naval Component<br><br>Ministry of Interior: National Police of Timor-Leste (Polícia Nacional de Timor-Leste, PNTL) (2025)<br>
 
 **Military expenditures**<br>
+2.5% of GDP (2024 est.)<br>
 2.5% of GDP (2023 est.)<br>
 1.4% of GDP (2022 est.)<br>
 1.2% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
-1.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 Defense Forces&nbsp; (2025)<br>

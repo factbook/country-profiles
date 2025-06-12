@@ -173,8 +173,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-6.9% of GDP (2022)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 6.9% of GDP (2022)<br>
+_Health expenditure (as % of national budget)_: 13.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.47 physicians/1,000 population (2022)<br>
@@ -208,11 +209,11 @@ _female_: 18.3% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 52.3% (2023 est.)<br>
 
-**Education expenditures**<br>
-6.6% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.7% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 14.6% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 99.9%<br>
 _male_: 99.9%<br>
 _female_: 99.9% (2021)<br>
@@ -290,12 +291,6 @@ _etymology_: the name derives from the Old Estonian term <em>tan-linn</em>, mean
 **Administrative divisions**<br>
 15 urban municipalities (linnad, singular - linn), 64 rural municipalities (vallad, singular vald)<br><br> <strong>urban municipalities:</strong> Haapsalu, Keila, Kohtla-Jarve, Loksa, Maardu, Narva, Narva-Joesuu, Paide, Parnu, Rakvere, Sillamae, Tallinn, Tartu, Viljandi, Voru<br><br><strong>rural municipalities:</strong> Alutaguse, Anija, Antsla, Elva, Haademeeste, Haljala, Harku, Hiiumaa, Jarva, Joelahtme, Jogeva, Johvi, Kadrina, Kambja, Kanepi, Kastre, Kehtna, Kihnu, Kiili, Kohila, Kose, Kuusalu, Laane-Harju, Laane-Nigula, Laaneranna, Luganuse, Luunja, Marjamaa, Muhu, Mulgi, Mustvee, Noo, Otepaa, Peipsiaare, Pohja-Parnumaa, Pohja-Sakala, Poltsamaa, Polva, Raasiku, Rae, Rakvere, Räpina, Rapla, Rouge, Ruhnu, Saarde, Saaremaa, Saku, Saue, Setomaa, Tapa, Tartu, Toila, Tori, Torva, Turi, Vaike-Maarja, Valga, Viimsi, Viljandi, Vinni, Viru-Nigula, Vormsi, Voru<br>
 
-**Independence**<br>
-24 February 1918 (from Soviet Russia); 20 August 1991 (declared from the Soviet Union); 6 September 1991 (recognized by the Soviet Union)<br>
-
-**National holiday**<br>
-Independence Day, 24 February (1918); note - 24 February 1918 was the date Estonia declared its independence from Soviet Russia and established its statehood; 20 August 1991 was the date it declared its independence from the Soviet Union restoring its statehood<br>
-
 **Legal system**<br>
 civil law system<br>
 
@@ -342,9 +337,6 @@ _subordinate courts_: circuit (appellate) courts; administrative, county, city, 
 **Political parties**<br>
 Conservative People's Party (Konservatiivne Rahvaerakond) or EKRE<br>Estonia 200 or E200<br>Estonia Centre Party of (Keskerakond) or KE<br>Estonian Free Party or VAP<br>Estonian Greens or EER<br>Estonian Nationalists and Conservatives or ERK <br>Estonian Reform Party (Reformierakond) or RE<br>Estonian United Left Party or EÜVP<br>Fatherland or I<br>Pro Patria (Isamaa)<br>The Right or PP<br>Social Democratic Party or SDE<br>
 
-**International organization participation**<br>
-Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Kristjan PRIKK (since 7 July 2021)<br>
 _chancery_: 2131 Massachusetts Ave, NW<br>Washington, DC, 20008<br>
@@ -361,11 +353,23 @@ _telephone_: [372] 668-8100<br>
 _FAX_: [372] 668-8265<br>
 _email address and website_: <br>acstallinn@state.gov<br><br>https://ee.usembassy.gov/<br>
 
+**International organization participation**<br>
+Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+24 February 1918 (from Soviet Russia); 20 August 1991 (declared from the Soviet Union); 6 September 1991 (recognized by the Soviet Union)<br>
+
+**National holiday**<br>
+Independence Day, 24 February (1918); note - 24 February 1918 was the date Estonia declared its independence from Soviet Russia and established its statehood; 20 August 1991 was the date it declared its independence from the Soviet Union restoring its statehood<br>
+
 **Flag description**<br>
 three equal horizontal bands of blue (top), black, and white; blue represents faith, loyalty, and devotion, and also the sky, sea, and lakes; black stands for the soil of the country, as well as the Estonian people's past suffering; white stands for striving towards enlightenment and virtue and also for birch bark, snow, and summer nights illuminated by the midnight sun<br>
 
 **National symbol(s)**<br>
-barn swallow, cornflower; national colors: blue, black, white<br>
+barn swallow, cornflower<br>
+
+**National colors**<br>
+blue, black, white<br>
 
 **National anthem**<br>
 _name_: "Mu isamaa, mu onn ja room" (My Native Land, My Pride and Joy)<br>

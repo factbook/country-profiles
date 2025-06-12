@@ -169,8 +169,9 @@ _unimproved: urban_: urban: 0.6% of population<br>
 _unimproved: rural_: rural: 9.3% of population<br>
 _unimproved: total_: total: 2.5% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-4.4% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 4.4% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 8% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.34 physicians/1,000 population (2023)<br>
@@ -207,14 +208,14 @@ _female_: 0.6% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 59.3% (2023 est.)<br>
 
-**Education expenditures**<br>
-3.9% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.6% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 17.1% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 95%<br>
-_male_: 96.2%<br>
-_female_: 93.6% (2019)<br>
+_total population_: 96% (2022 est.)<br>
+_male_: 97% (2022 est.)<br>
+_female_: 95% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -291,12 +292,6 @@ _etymology_: the name means "muddy river junction," referring to the city's loca
 **Administrative divisions**<br>
 13 states (negeri-negeri, singular - negeri); Johor, Kedah, Kelantan, Melaka, Negeri Sembilan, Pahang, Perak, Perlis, Pulau Pinang, Sabah, Sarawak, Selangor, Terengganu; and 1 federal territory (Wilayah Persekutuan) with 3 components, Kuala Lumpur, Labuan, and Putrajaya<br>
 
-**Independence**<br>
-31 August 1957 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day (or Merdeka Day), 31 August (1957) (independence of Malaya); Malaysia Day, 16 September (1963) (formation of Malaysia)<br>
-
 **Legal system**<br>
 mixed system of English common law, Islamic law (sharia), and customary law; the Federal Court can review legislative acts at the request of the supreme head of the federation<br>
 
@@ -352,9 +347,6 @@ _subordinate courts_: Court of Appeal; High Court; Sessions Court; Magistrates' 
 **Political parties**<br>
 <strong>National Front (Barisan Nasional) or BN:<br></strong>Malaysian Chinese Association (Persatuan Cina Malaysia) or MCA <br>Malaysian Indian Congress (Kongres India Malaysia) or MIC <br>United Malays National Organization (Pertubuhan Kebansaan Melayu Bersatu) or UMNO <br>United Sabah People's Party (Parti Bersatu Rakyat Sabah) or PBRS <br><br><strong>Alliance of Hope (Pakatan Harapan) or PH:</strong><br>Democratic Action Party (Parti Tindakan Demokratik) or DAP <br>National Trust Party (Parti Amanah Negara) or AMANAH <br>People's Justice Party (Parti Keadilan Rakyat) or PKR <br>United Progressive Kinabalu Organization (Pertubuhan Kinabalu Progresif Bersatu) or UPKO <br><br><strong>National Alliance (Perikatan Nasional) or PN:</strong><br>Malaysian People's Movement Party (Parti Gerakan Rakyat Malaysia) or GERAKAN or PGRM <br>Malaysian United Indigenous Party (Parti Pribumi Bersatu Malaysia) or PPBM or BERSATU <br>Pan-Malaysian Islamic Party (Parti Islam Se-Malaysia) or PAS <br> <p><strong>Sabah People's Alliance (Gabungan Rakya Sabah) or GRS:<br></strong>Homeland Solidarity Party (Parti Solidariti Tanah Airku) or STAR <br>Love Sabah Party (Parti Cinta Sabah) or PCS<br>Sabah People's Ideas Party (Parti Gagasan Rakyat Sabah) or GAGASAN or PGRS <br> <br><br><strong>Sarawak Parties Alliance (Gabungan Parti Sarawak) or GPS:</strong><br>Progressive Democratic Party (Parti Demokratik Progresif) or PDP <br>Sarawak People's Party (Parti Rakyat Sarawak) or PRS <br>Sarawak United People's Party (Parti Rakyat Bersatu Sarawak) or SUPP <br>United Bumiputera Heritage Party (Parti Pesaka Bumiputera Bersata) or PBB <br><strong><br>Others: </strong><strong><br></strong>Malaysian Nation Party (Parti Bangsa Malaysia) or PBM<br>Heritage Party (Parti Warisan) or WARISAN <br>Homeland Fighter's Party (Parti Pejuang Tanah Air) or PEJUANG <br>Malaysian United Democratic Alliance (Ikatan Demokratik Malaysia) or MUDA <br>United Sarawak Party (PSB) </p><br>
 
-**International organization participation**<br>
-ADB, APEC, ARF, ASEAN, BIS, C, CICA (observer), CP, D-8, EAS, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OIC, OPCW, PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires KHAERIAH Zaehera Abd Kayyum (since 9 February 2025)<br>
 _chancery_: 3516 International Court NW, Washington, DC 20008<br>
@@ -371,12 +363,24 @@ _telephone_: [60] (3) 2168-5000<br>
 _FAX_: [60] (3) 2142-2207<br>
 _email address and website_: <br>KLACS@state.gov<br><br>https://my.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB, APEC, ARF, ASEAN, BIS, C, CICA (observer), CP, D-8, EAS, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OIC, OPCW, PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+31 August 1957 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day (or Merdeka Day), 31 August (1957) (independence of Malaya); Malaysia Day, 16 September (1963) (formation of Malaysia)<br>
+
 **Flag description**<br>
 14 equal horizontal stripes of red (top) alternating with white (bottom); a dark blue rectangle in the upper hoist-side corner has a yellow crescent and a yellow 14-pointed star; the flag is often called Jalur Gemilang (Stripes of Glory); the 14 stripes stand for the equal status of the 13 member states and the federal government; the points on the star represent the unity among these entities; the crescent is a traditional symbol of Islam; blue symbolizes the unity of the Malay people, and yellow is the royal color<br>
 <strong>note:</strong> the design is based on the US flag<br>
 
 **National symbol(s)**<br>
-tiger, hibiscus; national colors: gold, black<br>
+tiger, hibiscus<br>
+
+**National colors**<br>
+gold, black<br>
 
 **National anthem**<br>
 _name_: "Negaraku" (My Country)<br>

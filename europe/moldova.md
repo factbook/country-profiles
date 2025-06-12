@@ -176,8 +176,9 @@ _unimproved: urban_: urban: 1.1% of population<br>
 _unimproved: rural_: rural: 13% of population<br>
 _unimproved: total_: total: 7.9% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-7.8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 7.8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 12.3% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 4.02 physicians/1,000 population (2023)<br>
@@ -211,11 +212,11 @@ _female_: 6.4% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 67% (2023 est.)<br>
 
-**Education expenditures**<br>
-6.4% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 6.6% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 15.9% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 99.6%<br>
 _male_: 99.7%<br>
 _female_: 99.5% (2021)<br>
@@ -297,12 +298,6 @@ _etymology_: origin unclear but may derive from the Old Moldovan word <em>kishin
 **Administrative divisions**<br>
 <p>32 raions (raioane, singular - raion), 3 municipalities (municipii, singular - municipiul), 1 autonomous territorial unit (unitatea teritoriala autonoma), and 1 territorial unit (unitatea teritoriala)</p> <p><strong>raions:</strong> Anenii Noi, Basarabeasca, Briceni, Cahul, Cantemir, Calarasi, Causeni, Cimislia, Criuleni, Donduseni, Drochia, Dubasari, Edinet, Falesti, Floresti, Glodeni, Hincesti, Ialoveni, Leova, Nisporeni, Ocnita, Orhei, Rezina, Riscani, Singerei, Soldanesti, Soroca, Stefan Voda, Straseni, Taraclia, Telenesti, Ungheni</p> <p><strong>municipalities:</strong> Balti, Bender, Chisinau</p> <p><strong>autonomous territorial unit:</strong> Gagauzia</p> <p><strong>territorial unit:</strong> Stinga Nistrului (Transnistria)</p><br>
 
-**Independence**<br>
-27 August 1991 (from the Soviet Union)<br>
-
-**National holiday**<br>
-Independence Day, 27 August (1991)<br>
-
 **Legal system**<br>
 civil law system with Germanic law influences; Constitutional Court reviews legislative acts<br>
 
@@ -350,10 +345,6 @@ _subordinate courts_: Courts of Appeal; Court of Business Audit; municipal court
 **Political parties**<br>
 <p>Bloc of Communists and Socialists or BCS<br>Party of Action and Solidarity or PAS</p><br>
 
-**International organization participation**<br>
-BSEC, CD, CE, CEI, CIS, EAEU (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, OIF, OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-<strong>note</strong>: Moldova is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Viorel URSU (since 12 December 2022)<br>
 _chancery_: 2101 S Street NW, Washington, DC 20008<br>
@@ -369,12 +360,25 @@ _telephone_: [373] (22) 408-300<br>
 _FAX_: [373] (22) 233-044<br>
 _email address and website_: <br>ChisinauACS@state.gov<br><br>https://md.usembassy.gov/<br>
 
+**International organization participation**<br>
+BSEC, CD, CE, CEI, CIS, EAEU (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, OIF, OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+<strong>note</strong>: Moldova is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
+
+**Independence**<br>
+27 August 1991 (from the Soviet Union)<br>
+
+**National holiday**<br>
+Independence Day, 27 August (1991)<br>
+
 **Flag description**<br>
 three equal vertical bands of Prussian blue (hoist side), chrome yellow, and vermilion red; emblem in center of flag is a Roman eagle of dark gold outlined in black, with a red beak and talons; the eagle carries a yellow cross in its beak, a green olive branch in its right talons, and a yellow scepter in its left talons; on the eagle's breast is a red-and-blue shield divided horizontally, with a stylized aurochs head, star, rose, and crescent in black and outlined yellow; colors are based on the Romanian flag, but Moldova's blue band is lighter; the reverse of the flag displays a mirror image of the coat of arms<br>
 <strong>note:</strong> one of three national flags that differ on their obverse and reverse sides -- the others are Paraguay and Saudi Arabia<br>
 
 **National symbol(s)**<br>
-aurochs (a type of wild cattle); national colors: blue, yellow, red<br>
+aurochs (type of wild cattle)<br>
+
+**National colors**<br>
+blue, yellow, red<br>
 
 **National anthem**<br>
 _name_: "Limba noastra" (Our Language)<br>

@@ -182,8 +182,9 @@ _unimproved: urban_: urban: 0.2% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: (2020 est.) NA<br>
 
-**Current health expenditure**<br>
-9.7% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 9.7% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 15.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 5.11 physicians/1,000 population (2023)<br>
@@ -223,14 +224,14 @@ _female_: 17.1% (2025 est.)<br>
 _women married by age 15_: 2.4% (2020)<br>
 _women married by age 18_: 15.5% (2020)<br>
 
-**Education expenditures**<br>
-5% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.8% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 12.7% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 99%<br>
 _male_: 98.9%<br>
-_female_: 99.1% (2018)<br>
+_female_: 99.1% (2018 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years<br>
@@ -314,12 +315,6 @@ _etymology_: the name translates as "fair winds" in Spanish; the full original n
 23 provinces (provincias, singular - provincia) and 1 autonomous city*; Buenos Aires, Catamarca, Chaco, Chubut, Ciudad Autonoma de Buenos Aires*, Cordoba, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquen, Rio Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego - Antartida e Islas del Atlantico Sur (Tierra del Fuego - Antarctica and the South Atlantic Islands), Tucuman<br>
 <strong>note:</strong> the US does not recognize any claims to Antarctica<br>
 
-**Independence**<br>
-9 July 1816 (from Spain)<br>
-
-**National holiday**<br>
-Revolution Day (May Revolution Day), 25 May (1810)<br>
-
 **Legal system**<br>
 civil law system based on Western European legal systems<br>
 <strong>note:</strong> in 2015, Argentina adopted a new civil code, replacing the old one in force since 1871<br>
@@ -381,9 +376,6 @@ _subordinate courts_: federal-level appellate, district, and territorial courts;
 **Political parties**<br>
 <p>Avanza Libertad or AL<br>Civic Coalition ARI or CC-ARI<br>Consenso Federal (Federal Consensus) or CF<br>Frente Cívico por Santiago (Civic Front for Santiago)<br>Frente de Izquierda y de los Trabajadores – Unidad (Workers' Left Front) or FIT-U (coalition of leftist parties in lower house; includes PTS, PO, and MST) <br>Frente de la Concordia Misionero (Front for the Renewal of Social Concord) or FRCS<br>Frente Renovador (Renewal Front) or FR<br>Generación por un Encuentro Nacional (Generation for a National Encounter) or GEN<br>Hacemos por Córdoba (We do for Cordoba) or HC<br>Hacemos por Nuestro Pais (We Do For Our Country) or NHP<br>Juntos por el Cambio (Together for Change) or JxC (includes CC-ARI, PRO, and UCR); note - primary opposition coalition since 2019<br>Juntos Somos Río Negro (Together We Are Rio Negro) or JSRN  <br>Partido Justicialista (Justicialist Party) or PJ<br>La Cámpora<br>La Libertad Avanza (The Liberty Advances) or LLA<br>Movimiento Popular Neuquino (Neuquén People's Movement) or MPN<br>Movimiento Socialista de los Trabajadores (Workers' Socialist Movement) or MST <br>Partido de los Trabajadores Socialistas (Socialist Workers' Party) or PTS<br>Partido Demócrata (Democratic Party) or PDN<br>Partido Libertario (Libertarian Party) or PL; note - party is also a founding member of the coalition La Libertad Avanza<br>Partido Obrero (Workers' Party) or PO<br>Partido Socialista or PS<br>Propuesta Republicana (Republican Proposal) or PRO<br>Unidad Federal (coalition of provencial parties in the lower house; includes FRCS and JSRN)<br>Unión Cívica Radical (Radical Civic Union) or UCR<br>Unión por la Patria (Union for the Homeland) or UP <em>(formerly Frente de Todos (Everyone's Front) or FdT) </em>(includes FR, La Cámpora, and PJ); note - ruling coalition since 2019; includes several national and provincial Peronist political parties<br>Vamos con Vos (Let's Go with You) or VcV </p><br>
 
-**International organization participation**<br>
-AfDB (nonregional member), Australia Group, BCIE, BIS, CAN (associate), CD, CABEI, CELAC, FAO, FATF, G-15, G-20, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, NAM (observer), NSG, OAS, OPANAL, OPCW, Paris Club (associate), PCA, PROSUR, SICA (observer), UN, UNASUR, UNCTAD, UNDOF, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, Union Latina (observer), UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador-designate Alejandro (Alec) OXENFORD (since November 2024)<br>
 _chancery_: 1600 New Hampshire Avenue NW, Washington, DC 20009<br>
@@ -400,11 +392,23 @@ _telephone_: [54] (11) 5777-4533<br>
 _FAX_: [54] (11) 5777-4240<br>
 _email address and website_: <br>Buenosairespublicaffairs@state.gov<br><br>https://ar.usembassy.gov/<br>
 
+**International organization participation**<br>
+AfDB (nonregional member), Australia Group, BCIE, BIS, CAN (associate), CD, CABEI, CELAC, FAO, FATF, G-15, G-20, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, NAM (observer), NSG, OAS, OPANAL, OPCW, Paris Club (associate), PCA, PROSUR, SICA (observer), UN, UNASUR, UNCTAD, UNDOF, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, Union Latina (observer), UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+9 July 1816 (from Spain)<br>
+
+**National holiday**<br>
+Revolution Day (May Revolution Day), 25 May (1810)<br>
+
 **Flag description**<br>
 three equal horizontal bands of sky blue (top), white, and sky blue; centered in the white band is a radiant yellow sun with a human face that is known as the Sun of May; the colors represent the clear skies and snow of the Andes; the sun symbol commemorates the appearance of the sun through cloudy skies on 25 May 1810 during the first mass demonstration in favor of independence; the sun features are those of Inti, the Inca god of the sun<br>
 
 **National symbol(s)**<br>
-Sun of May (a sun-with-face symbol); national colors: sky blue, white<br>
+Sun of May (a sun-with-face symbol)<br>
+
+**National colors**<br>
+sky blue, white<br>
 
 **National anthem**<br>
 _name_: "Himno Nacional Argentino" (Argentine National Anthem)<br>

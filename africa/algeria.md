@@ -175,8 +175,9 @@ _unimproved: urban_: urban: 0.4% of population<br>
 _unimproved: rural_: rural: 1.2% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-5.5% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.5% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 5.4% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.66 physicians/1,000 population (2022)<br>
@@ -217,14 +218,14 @@ _female_: 0.6% (2025 est.)<br>
 _women married by age 15_: 0% (2019)<br>
 _women married by age 18_: 3.8% (2019)<br>
 
-**Education expenditures**<br>
-7% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.6% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 14.4% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 81.4%<br>
 _male_: 87.4%<br>
-_female_: 75.3% (2018)<br>
+_female_: 74.2% (2019 est.)<br>
 
 ## Environment
 
@@ -295,12 +296,6 @@ _etymology_: name derives from the Arabic <em>al-jazair</em>, meaning "the islan
 **Administrative divisions**<br>
 58 provinces (wilayas, singular - wilaya); Adrar, Ain Defla, Ain Temouchent, Alger (Algiers), Annaba, Batna, Bechar, Bejaia, Beni Abbes, Biskra, Blida, Bordj Badji Mokhtar, Bordj Bou Arreridj, Bouira, Boumerdes, Chlef, Constantine, Djanet, Djelfa, El Bayadh, El Meghaier, El Meniaa, El Oued, El Tarf, Ghardaia, Guelma, Illizi, In Guezzam, In Salah, Jijel, Khenchela, Laghouat, Mascara, Medea, Mila, Mostaganem, M'Sila, Naama, Oran, Ouargla, Ouled Djellal, Oum el Bouaghi, Relizane, Saida, Setif, Sidi Bel Abbes, Skikda, Souk Ahras, Tamanrasset, Tebessa, Tiaret, Timimoun, Tindouf, Tipaza, Tissemsilt, Tizi Ouzou, Tlemcen, Touggourt<br>
 
-**Independence**<br>
-5 July 1962 (from France)<br>
-
-**National holiday**<br>
-Independence Day, 5 July (1962); Revolution Day, 1 November (1954)<br>
-
 **Legal system**<br>
 mixed system of French civil law and Islamic law; judicial review of legislative acts in ad hoc Constitutional Council composed of various public officials including several Supreme Court justices<br>
 
@@ -362,9 +357,6 @@ _subordinate courts_: appellate or wilaya courts; first instance or daira tribun
 Algerian National Front or FNA<br>Algerian Popular Movement or MPA<br>Algeria's Hope Rally or TAJ<br>Dignity or El Karama<br>El-Infitah<br>El Mostakbal (Future Front)<br>Ennour El Djazairi Party (Algerian Radiance Party) or PED<br>Equity and Proclamation Party or PEP<br>Islamic Renaissance Movement or Ennahda Movement<br>Justice and Development Front or FJD<br>Movement for National Reform or El Islah<br>Movement of Society for Peace or MSP<br>National Construction Movement or El-Bina (Harakat El-Binaa El-Watani)<br>National Democratic Rally (Rassemblement National Democratique) or RND<br>National Front for Social Justice or FNJS<br>National Liberation Front or FLN<br>National Militancy Front or FMN<br>National Party for Solidarity and Development or PNSD<br>National Republican Alliance or ANR<br>New Dawn Party (El-Fajr El-Jadid)<br>New Generation (Jil Jadid)<br>Oath of 1954 or Ahd 54<br>Party of Justice and Liberty or PLJ<br>Rally for Culture and Democracy or RCD<br>Socialist Forces Front or FFS<br>Union for Change and Progress or UCP<br>Union of Democratic and Social Forces or UFDS<br>Vanguard of Liberties (Talaie El Hurriyet)<br>Workers Party or PT<br>Youth Party or PJ<br>
 <strong>note:</strong> a law banning political parties based on religion was enacted in 1997<br>
 
-**International organization participation**<br>
-ABEDA, AfDB, AFESD, AMF, AMU, AU, BIS, CAEU, CD, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAPEC, OAS (observer), OIC, OPCW, OPEC, OSCE (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Sabri BOUKADOUM (since 27 February 2024)<br>
 _chancery_: 2118 Kalorama Road NW, Washington, DC 20008<br>
@@ -381,11 +373,23 @@ _telephone_: [213] (0) 770-08-2000<br>
 _FAX_: [213] (0) 770-08-2299<br>
 _email address and website_: <br>algierspd@state.gov<br><br>https://dz.usembassy.gov/<br>
 
+**International organization participation**<br>
+ABEDA, AfDB, AFESD, AMF, AMU, AU, BIS, CAEU, CD, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAPEC, OAS (observer), OIC, OPCW, OPEC, OSCE (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
+
+**Independence**<br>
+5 July 1962 (from France)<br>
+
+**National holiday**<br>
+Independence Day, 5 July (1962); Revolution Day, 1 November (1954)<br>
+
 **Flag description**<br>
 two equal vertical bands of green (hoist side) and white; a red, five-pointed star within a red crescent centered over the two-color boundary; the colors represent Islam (green), purity and peace (white), and liberty (red); the crescent and star are also Islamic symbols, but the crescent is more closed than those of other Muslim countries because Algerians believe the long crescent horns bring happiness<br>
 
 **National symbol(s)**<br>
-five-pointed star between the extended horns of a crescent moon, fennec fox; national colors: green, white, red<br>
+five-pointed star between the extended horns of a crescent moon; fennec fox<br>
+
+**National colors**<br>
+green, white, red<br>
 
 **National anthem**<br>
 _name_: "Kassaman" (We Pledge)<br>

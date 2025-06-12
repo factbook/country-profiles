@@ -167,8 +167,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-8.3% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 8.3% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 15.9% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 5.07 physicians/1,000 population (2023)<br>
@@ -196,11 +197,11 @@ _total_: 33% (2025 est.)<br>
 _male_: 31.7% (2025 est.)<br>
 _female_: 34.4% (2025 est.)<br>
 
-**Education expenditures**<br>
-2.9% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 1.9% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 12% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 100%<br>
 _male_: 100%<br>
 _female_: 100% (2016)<br>
@@ -262,12 +263,6 @@ _etymology_: translates as "Andorra the Old" in Catalan<br>
 **Administrative divisions**<br>
 7 parishes (parroquies, singular - parroquia); Andorra la Vella, Canillo, Encamp, Escaldes-Engordany, La Massana, Ordino, Sant Julia de Loria<br>
 
-**Independence**<br>
-1278 (formed under the joint sovereignty of the French Count of Foix and the Spanish Bishop of Urgell)<br>
-
-**National holiday**<br>
-Our Lady of Meritxell Day, 8 September (1278)<br>
-
 **Legal system**<br>
 mixed legal system of civil and customary law with the influence of canon (religious) law<br>
 
@@ -315,9 +310,6 @@ _subordinate courts_: Tribunal of Judges or Tribunal de Batlles; Tribunal of the
 **Political parties**<br>
 Action for Andorra or ACCIO <br>Committed Citizens or CC <br>Concord or C<br>Democrats for Andorra or DA <br>Forward Andorra or AE <br>Liberals of Andorra or L'A <br>Social Democratic Party or PS <br>Social Democracy and Progress or SDP<br>
 
-**International organization participation**<br>
-CE, FAO, ICAO, ICC (NGOs), ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITU, OIF, OPCW, OSCE, UN, UNCTAD, UNESCO, Union Latina, UNWTO, WCO, WHO, WIPO, WTO (observer)<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Joan FORNER ROVIRA (since 13 January 2025); note - also Permanent Representative to the UN<br>
 _chancery_: 2 United Nations Plaza, 27th Floor, New York, NY 10017<br>
@@ -328,12 +320,24 @@ _email address and website_: <br>contact@andorraun.org<br><br>https://www.exteri
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Andorra; the US ambassador to Spain is accredited to Andorra; US interests in Andorra are represented by the US Consulate General's office in Barcelona (Spain); mailing address: Paseo Reina Elisenda de Montcada, 23, 08034 Barcelona, Espana; telephone: [34] (93) 280-22-27; FAX: [34] (93) 280-61-75; email address: Barcelonaacs@state.gov<br>
 
+**International organization participation**<br>
+CE, FAO, ICAO, ICC (NGOs), ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITU, OIF, OPCW, OSCE, UN, UNCTAD, UNESCO, Union Latina, UNWTO, WCO, WHO, WIPO, WTO (observer)<br>
+
+**Independence**<br>
+1278 (formed under the joint sovereignty of the French Count of Foix and the Spanish Bishop of Urgell)<br>
+
+**National holiday**<br>
+Our Lady of Meritxell Day, 8 September (1278)<br>
+
 **Flag description**<br>
 three vertical bands of blue (hoist side), yellow, and red, with the national coat of arms centered in the yellow band, which is slightly wider than the other two; the coat of arms features a quartered shield with the emblems of (starting in the upper left and proceeding clockwise): Urgell, Foix, Bearn, and Catalonia; the motto reads VIRTUS UNITA FORTIOR (Strength United is Stronger); the flag combines the blue and red French colors with the red and yellow of Spain to show Franco-Spanish protection<br>
 <strong>note:</strong> similar to the flags of Chad and Romania, which do not have a national coat of arms in the center, and the flag of Moldova, which does bear a national emblem<br>
 
 **National symbol(s)**<br>
-red cow (breed unspecified); national colors: blue, yellow, red<br>
+red cow (breed unspecified)<br>
+
+**National colors**<br>
+blue, yellow, red<br>
 
 **National anthem**<br>
 _name_: "El Gran Carlemany" (The Great Charlemagne)<br>

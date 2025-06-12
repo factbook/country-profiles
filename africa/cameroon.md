@@ -180,8 +180,9 @@ _unimproved: urban_: urban: 4.9% of population<br>
 _unimproved: rural_: rural: 43.8% of population<br>
 _unimproved: total_: total: 21.4% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-3.8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 3.8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 3.9% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.14 physicians/1,000 population (2022)<br>
@@ -223,14 +224,14 @@ _women married by age 15_: 10.7% (2018)<br>
 _women married by age 18_: 29.8% (2018)<br>
 _men married by age 18_: 2.9% (2018)<br>
 
-**Education expenditures**<br>
-3.2% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.8% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 13.1% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 77.1%<br>
-_male_: 82.6%<br>
-_female_: 71.6% (2018)<br>
+_total population_: 72.5% (2018 est.)<br>
+_male_: 79.7% (2018 est.)<br>
+_female_: 66.2% (2018 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
@@ -260,9 +261,6 @@ _other_: 36.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 59.3% of total population (2023)<br>
 _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to civil insecurity and high food prices - </em>according to a March 2023 analysis, about 3 million people were estimated to be acutely food insecure between March and August 2023, as a result of conflict, sociopolitical unrest and high food prices, as well as floods that caused population displacements and damaged standing crops (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 56.37 micrograms per cubic meter (2019 est.)<br>
@@ -312,12 +310,6 @@ _etymology_: Germans founded the city in 1888, but the name comes from the nativ
 
 **Administrative divisions**<br>
 10 regions (regions, singular - region); Adamaoua, Centre, East (Est), Far North (Extr&ecirc;me-Nord), Littoral, North (Nord), North-West (Nord-Ouest), West (Ouest), South (Sud), South-West (Sud-Ouest)<br>
-
-**Independence**<br>
-1 January 1960 (from French-administered UN trusteeship)<br>
-
-**National holiday**<br>
-State Unification Day (National Day), 20 May (1972)<br>
 
 **Legal system**<br>
 mixed system of English common law, French civil law, and customary law<br>
@@ -377,9 +369,6 @@ _subordinate courts_: Parliamentary Court of Justice (jurisdiction limited to ca
 **Political parties**<br>
 Alliance for Democracy and Development <br>Cameroon People's Democratic Movement or CPDM <br>Cameroon People's Party or CPP <br>Cameroon Renaissance Movement or MRC <br>Cameroonian Democratic Union or UDC <br>Cameroonian Party for National Reconciliation or PCRN <br>Front for the National Salvation of Cameroon or FSNC <br>Movement for the Defense of the Republic or MDR <br>Movement for the Liberation and Development of Cameroon or MLDC <br>National Union for Democracy and Progress or UNDP <br>Progressive Movement or MP <br>Social Democratic Front or SDF <br>Union of Peoples of Cameroon or UPC <br>Union of Socialist Movements <br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, BDEAC, C, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MNJTF, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Henri ETOUNDI ESSOMBA (since 27 June 2016)<br>
 _chancery_: 2349 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -396,12 +385,24 @@ _FAX_: [237] 22251-4000, Ext. 4531<br>
 _email address and website_: <br>YaoundeACS@state.gov<br><br>https://cm.usembassy.gov/<br>
 _branch office(s)_: Douala<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, BDEAC, C, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MNJTF, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+1 January 1960 (from French-administered UN trusteeship)<br>
+
+**National holiday**<br>
+State Unification Day (National Day), 20 May (1972)<br>
+
 **Flag description**<br>
 three equal vertical bands of green (hoist side), red, and yellow, with a yellow five-pointed star centered in the red band; the vertical tricolor recalls France's flag; red stands for unity, yellow for the sun, happiness, and the northern savannahs, and green for hope and the southern forests; the star is referred to as the "star of unity"<br>
 <strong>note:</strong> uses the popular pan-African colors of Ethiopia<br>
 
 **National symbol(s)**<br>
-lion; national colors: green, red, yellow<br>
+lion<br>
+
+**National colors**<br>
+green, red, yellow<br>
 
 **National anthem**<br>
 _name_: "O Cameroun, Berceau de nos Ancetres" (O Cameroon, Cradle of Our Forefathers)<br>
@@ -633,7 +634,7 @@ _total subscriptions_: 26.2 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 83 (2022 est.)<br>
 
 **Broadcast media**<br>
-government maintains tight control over broadcast media; state-owned Cameroon Radio Television (CRTV), with both TV and radio broadcasts, was the only officially recognized and fully licensed broadcaster until 2007, when the government issued licenses to 2 private TV broadcasters and 1 private radio broadcaster; about 70 privately owned, unlicensed radio stations operate under &ldquo;administrative tolerance,&rdquo; meaning the stations could be subject to closure at any time (2019)<br>
+government maintains tight control over broadcast media; state-owned Cameroon Radio Television (CRTV), with both TV and radio broadcasts, was the only officially recognized and fully licensed broadcaster until 2007, when the government issued licenses to 2 private TV broadcasters and 1 private radio broadcaster; about 70 privately owned, unlicensed radio stations operate under &ldquo;administrative tolerance,&rdquo; meaning the stations could be subject to closure at any time (2023)<br>
 
 **Internet country code**<br>
 .cm<br>

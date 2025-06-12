@@ -160,8 +160,9 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-3.2% of GDP (2020)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 3.2% of GDP (2020)<br>
+_Health expenditure (as % of national budget)_: 11.9% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.67 physicians/1,000 population (2020)<br>
@@ -195,8 +196,9 @@ _female_: 20.1% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 42.6% (2023 est.)<br>
 
-**Education expenditures**<br>
-4.6% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.6% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 8.7% national budget (2024 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -261,12 +263,6 @@ _etymology_: translates as "two harbors" in Maori<br>
 **Administrative divisions**<br>
 none<br>
 
-**Independence**<br>
-4 August 1965 (Cook Islands became self-governing state in free association with New Zealand)<br>
-
-**National holiday**<br>
-Constitution Day, the first Monday in August (1965)<br>
-
 **Legal system**<br>
 common law similar to New Zealand common law<br>
 
@@ -308,9 +304,6 @@ _subordinate courts_: justices of the peace<br>
 **Political parties**<br>
 Cook Islands Party or CIP<br>Cook Islands United Party <br>Democratic Party or Demo<br>One Cook Islands Movement or OCI<br>
 
-**International organization participation**<br>
-ACP, ADB, AOSIS, FAO, ICAO, ICCt, ICRM, IFAD, IFRCS, IMO, IMSO, IOC, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UNESCO, UPU, WHO, WMO<br>
-
 **Diplomatic representation in the US**<br>
 none (self-governing in free association with New Zealand)<br>
 
@@ -318,11 +311,23 @@ none (self-governing in free association with New Zealand)<br>
 _embassy_: none (self-governing in free association with New Zealand)<br>
 <strong>note:</strong> on 25 September 2023, the US officially established diplomatic relations with Cook Islands<br>
 
+**International organization participation**<br>
+ACP, ADB, AOSIS, FAO, ICAO, ICCt, ICRM, IFAD, IFRCS, IMO, IMSO, IOC, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UNESCO, UPU, WHO, WMO<br>
+
+**Independence**<br>
+4 August 1965 (Cook Islands became self-governing state in free association with New Zealand)<br>
+
+**National holiday**<br>
+Constitution Day, the first Monday in August (1965)<br>
+
 **Flag description**<br>
 blue with the UK flag in the upper hoist-side quadrant and a large circle of 15 white five-pointed stars (one for every island) centered in the outer half of the flag<br>
 
 **National symbol(s)**<br>
-a circle of 15, five-pointed, white stars on a blue field, Tiare maori (Gardenia taitensis) flower; national colors: green, white<br>
+a circle of 15 five-pointed white stars on a blue field, tiare maori flower (<em>Gardenia taitensis</em>)<br>
+
+**National colors**<br>
+green, white<br>
 
 **National anthem**<br>
 _name_: "Te Atua Mou E" (To God Almighty)<br>

@@ -169,8 +169,9 @@ _unimproved: urban_: urban: 2.6% of population<br>
 _unimproved: rural_: rural: 11.5% of population<br>
 _unimproved: total_: total: 8.9% of population (2017 est.)<br>
 
-**Current health expenditure**<br>
-6.3% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 6.3% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 4.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.42 physicians/1,000 population (2022)<br>
@@ -206,11 +207,11 @@ _women married by age 15_: 4.9% (2022)<br>
 _women married by age 18_: 20.7% (2022)<br>
 _men married by age 18_: 6.9% (2022)<br>
 
-**Education expenditures**<br>
-2.6% of GDP (2015 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.3% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 11.5% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 62%<br>
 _male_: 67%<br>
 _female_: 56.9% (2021)<br>
@@ -282,19 +283,12 @@ _etymology_: the name means "at the place of fire," referring to the capital's l
 **Administrative divisions**<br>
 3 islands; Anjouan (Ndzuwani), Grande Comore (N'gazidja), Moheli (Mwali)<br>
 
-**Independence**<br>
-6 July 1975 (from France)<br>
-
-**National holiday**<br>
-Independence Day, 6 July (1975)<br>
-
 **Legal system**<br>
 mixed legal system of Islamic religious law, the French civil code of 1975, and customary law<br>
 
 **Constitution**<br>
 _history_: previous 1996, 2001; newest adopted 30 July 2018<br>
 _amendment process_: proposed by the president of the union or supported by at least one third of the Assembly of the Union membership; adoption requires approval by at least three-quarters majority of the total Assembly membership or approval in a referendum<br>
-<strong>note: </strong>a referendum held on 30 July 2018 - boycotted by the opposition - overwhelmingly approved a new constitution that allows for 2 consecutive 5-year presidential terms while retaining the rotating presidency within the islands<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -338,9 +332,6 @@ _subordinate courts_: Court of Appeals (in Moroni); Tribunal de premi&egrave;re 
 **Political parties**<br>
 Convention for the Renewal of the Comoros or CRC<br>Juwa Party (Parti Juwa) or PJ<br>Orange Party (2020)<br>
 
-**International organization participation**<br>
-ACP, AfDB, AMF, AOSIS, AU, CAEU (candidates), COMESA, FAO, FZ, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Issimail CHANFI (since 23 December 2020); note - also Permanent Representative to the UN<br>
 _chancery_: Permanent Mission to the UN, 866 United Nations Plaza, Suite 495, New York, NY 10017<br>
@@ -351,12 +342,24 @@ _email address and website_: <br>comoros@un.int<br><br>https://www.un.int/comoro
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Comoros; the US Ambassador to Madagascar is accredited to Comoros<br>
 
+**International organization participation**<br>
+ACP, AfDB, AMF, AOSIS, AU, CAEU (candidates), COMESA, FAO, FZ, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
+
+**Independence**<br>
+6 July 1975 (from France)<br>
+
+**National holiday**<br>
+Independence Day, 6 July (1975)<br>
+
 **Flag description**<br>
 four equal horizontal bands of yellow (top), white, red, and blue, with a green isosceles triangle based on the hoist; a vertical white crescent moon is centered in the triangle, with the convex side facing the hoist and four white five-pointed stars placed vertically in a line between the points of the crescent; the horizontal bands and the four stars represent the four main islands of the archipelago -- Mwali, N'gazidja, Ndzuwani, and Mahore (Mayotte is a department of France, but claimed by Comoros)<br>
 <strong>note:</strong> the crescent, stars, and color green are traditional symbols of Islam<br>
 
 **National symbol(s)**<br>
-four five-pointed stars and crescent moon; national colors: green, white<br>
+four five-pointed stars and crescent moon<br>
+
+**National colors**<br>
+green, white<br>
 
 **National anthem**<br>
 _name_: "Udzima wa ya Masiwa" (The Union of the Great Islands)<br>

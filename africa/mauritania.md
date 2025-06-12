@@ -183,8 +183,9 @@ _unimproved: urban_: urban: 1.3% of population<br>
 _unimproved: rural_: rural: 31.6% of population<br>
 _unimproved: total_: total: 14.8% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-4.1% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 4.1% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 6.3% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.26 physicians/1,000 population (2022)<br>
@@ -223,14 +224,14 @@ _women married by age 15_: 15.5% (2021)<br>
 _women married by age 18_: 36.6% (2021)<br>
 _men married by age 18_: 1.2% (2021)<br>
 
-**Education expenditures**<br>
-1.9% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.8% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 10.2% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 67%<br>
-_male_: 71.8%<br>
-_female_: 62.2% (2021)<br>
+_total population_: 59.5% (2020 est.)<br>
+_male_: 70.1% (2020 est.)<br>
+_female_: 51.8% (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
@@ -260,9 +261,6 @@ _other_: 61.2% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 57.7% of total population (2023)<br>
 _rate of urbanization_: 3.84% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_widespread lack of access_: <em>due to high food prices - </em>according to the latest analysis, over 472,000 people are projected to be in need of humanitarian assistance during the June to August 2023 lean season; this would be an improvement compared to the previous year, mostly due to a substantial increase in cereal production in 2022; high food prices, in particular of imported wheat, continue to worsen acute food security (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 41.98 micrograms per cubic meter (2019 est.)<br>
@@ -312,12 +310,6 @@ _etymology_: the meaning of the name is unclear; it may derive from the Berber <
 **Administrative divisions**<br>
 15 regions (wilayas, singular - wilaya); Adrar, Assaba, Brakna, Dakhlet Nouadhibou, Gorgol, Guidimaka, Hodh ech Chargui, Hodh El Gharbi, Inchiri, Nouakchott Nord, Nouakchott Ouest, Nouakchott Sud, Tagant, Tiris Zemmour, Trarza<br>
 
-**Independence**<br>
-28 November 1960 (from France)<br>
-
-**National holiday**<br>
-Independence Day, 28 November (1960)<br>
-
 **Legal system**<br>
 mixed system of Islamic and French civil law<br>
 
@@ -365,9 +357,6 @@ _subordinate courts_: Courts of Appeal; courts of first instance, or wilya court
 **Political parties**<br>
 Alliance for Justice and Democracy/Movement for Renewal or AJD/MR<br>El Insaf or Equity Party<br>El Islah or Reform Party<br>El Karama or Dignity Party<br>El Vadila or Virtue Party<br>Mauritanian Party of Union and Change or HATEM<br>National Democratic Alliance or AND<br>National Rally for Reform and Development or RNRD or TAWASSOUL<br>Nida El-Watan<br>Party for Conciliation and Prosperity or HIWAR<br>Party of the Mauritanian Masses or Hakam<br>Republican Front for Unity and Democracy or FRUD<br>Sawab Party<br>Union for Democracy and Progress or UDP<br>Union of Planning and Construction or UPC<br>
 
-**International organization participation**<br>
-ABEDA, ACP, AfDB, AFESD, AIIB, AMF, AMU, AU, CAEU, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Ciss&eacute; Mint Cheikh Ould BOIDE (since 15 September 2021)<br>
 _chancery_: 2129 Leroy Place NW, Washington, DC 20008<br>
@@ -383,11 +372,23 @@ _telephone_: [222] 4525-2660<br>
 _FAX_: [222] 4525-1592<br>
 _email address and website_: <br>consularnkc@state.gov<br><br>https://mr.usembassy.gov/<br>
 
+**International organization participation**<br>
+ABEDA, ACP, AfDB, AFESD, AIIB, AMF, AMU, AU, CAEU, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+28 November 1960 (from France)<br>
+
+**National holiday**<br>
+Independence Day, 28 November (1960)<br>
+
 **Flag description**<br>
 green with a five-pointed yellow star between the ends of a yellow, upward-pointing crescent moon and red stripes along the top and bottom edges; the crescent, star, and color green are traditional symbols of Islam; green also represents hope for a bright future; the yellow color stands for the sands of the Sahara, and red for blood shed in the fight for independence<br>
 
 **National symbol(s)**<br>
-five-pointed star between the horns of a horizontal crescent moon; national colors: green, yellow<br>
+five-pointed star between the horns of a horizontal crescent moon<br>
+
+**National colors**<br>
+green, yellow<br>
 
 **National anthem**<br>
 _name_: "Bilāda l-ʾubāti l-hudāti l-kirām" (Land of the Proud, Guided by Noblemen)<br>

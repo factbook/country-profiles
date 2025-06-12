@@ -180,8 +180,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 17.4% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.89 physicians/1,000 population (2022)<br>
@@ -222,14 +223,14 @@ _female_: 3.3% (2025 est.)<br>
 _women married by age 15_: 3.6% (2016)<br>
 _women married by age 18_: 21.6% (2016)<br>
 
-**Education expenditures**<br>
-3.3% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.4% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 22% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 94.5%<br>
-_male_: 94.9%<br>
-_female_: 94.2% (2020)<br>
+_total population_: 95% (2020 est.)<br>
+_male_: 95% (2020 est.)<br>
+_female_: 94% (2020 est.)<br>
 
 ## Environment
 
@@ -301,12 +302,6 @@ _etymology_: the name means "assumption" in Spanish; the Spanish founded the cit
 **Administrative divisions**<br>
 17 departments (departamentos, singular - departamento) and 1 capital city*; Alto Paraguay, Alto Parana, Amambay, Asuncion*, Boquer&oacute;n, Caaguaz&uacute;, Caazap&aacute;, Canindey&uacute;, Central, Concepcion, Cordillera, Guair&aacute;, Itap&uacute;a, Misiones, &Ntilde;eembuc&uacute;, Paraguar&iacute;, Presidente Hayes, San Pedro<br>
 
-**Independence**<br>
-14-15 May 1811 (from Spain); note - the uprising against Spanish authorities took place during the night of 14-15 May 1811 and both days are celebrated in Paraguay<br>
-
-**National holiday**<br>
-Independence Day, 14-15 May (1811) (observed 15 May); 14 May is celebrated as Flag Day<br>
-
 **Legal system**<br>
 civil law system with influences from Argentine, Spanish, Roman, and French civil law models; Supreme Court of Justice reviews legislative acts<br>
 
@@ -368,9 +363,6 @@ _subordinate courts_: appellate courts; first instance courts; minor courts, inc
 **Political parties**<br>
 Asociacion Nacional Republicana (National Republican Association) - Colorado Party or ANR<br>Avanza Pais coalition or AP<br>Frente Guasu (Broad Front coalition) or FG<br>GANAR Alliance (Great Renewed National Alliance) (alliance between PLRA and Guasú Front)<br>Movimiento Hagamos or MH<br>Movimiento Union Nacional de Ciudadanos Eticos (National Union of Ethical Citizens) or UNACE<br>Partido Cruzada Nacional (National Crusade Party) or PCN; note - formerly Movimiento Cruzada Nacional<br>Partido del Movimiento al Socialismo or P-MAS<br>Partido Democratica Progresista (Progressive Democratic Party) or PDP<br>Partido Encuentro Nacional or PEN<br>Partido Liberal Radical Autentico (Authentic Radical Liberal Party) or PLRA<br>Partido Pais Solidario or PPS<br>Partido Popular Tekojoja or PPT<br>Patria Querida (Beloved Fatherland Party) or PPQ<br>
 
-**International organization participation**<br>
-CAN (associate), CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, MONUSCO, NAM (observer), OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHRC, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador José Antonio DOS SANTOS BEDOYA (since 15 September 2021)<br>
 _chancery_: 2209 Massachusetts Avenue, NW, Washington DC&nbsp; 20008<br>
@@ -387,12 +379,25 @@ _telephone_: [595] (21) 248-3000<br>
 _FAX_: [595] (21) 213-728<br>
 _email address and website_: <br>ParaguayACS@state.gov<br><br>https://py.usembassy.gov/<br>
 
+**International organization participation**<br>
+CAN (associate), CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, MONUSCO, NAM (observer), OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHRC, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+14-15 May 1811 (from Spain)<br>
+<strong>note:</strong> the uprising against Spanish authorities took place during the night of 14-15 May 1811, so both days are celebrated in Paraguay<br>
+
+**National holiday**<br>
+Independence Day, 14-15 May (1811) (observed 15 May); 14 May is celebrated as Flag Day<br>
+
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and blue, with an emblem centered in the white band; the emblem is different on each side; one side (hoist side at the left) has the national coat of arms (a five-pointed yellow star in a green wreath and capped by the words REPUBLICA DEL PARAGUAY, all inside two circles); the other side (hoist side at the right) has a circular treasury seal (a yellow lion below a red Cap of Liberty and the words PAZ Y JUSTICIA, or Peace and Justice); red stands for bravery and patriotism, white for integrity and peace, and blue for liberty and generosity<br>
 <strong>note:</strong> the three color bands resemble the Dutch flag; one of three national flags that differ on each side -- the others are Moldova and Saudi Arabia<br>
 
 **National symbol(s)**<br>
-lion; national colors: red, white, blue<br>
+lion<br>
+
+**National colors**<br>
+red, white, blue<br>
 
 **National anthem**<br>
 _name_: "Paraguayos, Republica o muerte!" (Paraguayans, The Republic or Death!)<br>

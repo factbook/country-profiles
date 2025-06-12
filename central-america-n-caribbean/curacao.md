@@ -156,9 +156,6 @@ NA<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
 **Sanitation facility access**<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017)<br>
@@ -166,7 +163,7 @@ _unimproved: total_: total: 0% of population (2017)<br>
 **Currently married women (ages 15-49)**<br>
 49.7% (2023 est.)<br>
 
-**Education expenditures**<br>
+**Education expenditure**<br>
 7.4% of GDP (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
@@ -229,12 +226,6 @@ _etymology_: the name means "William's Town" in Dutch; named after Prince WILLEM
 none (part of the Kingdom of the Netherlands)<br>
 <strong>note:</strong> Curaçao is one of four constituent countries of the Kingdom of the Netherlands; the other three are the Netherlands, Aruba, and Sint Maarten<br>
 
-**Independence**<br>
-<p>none (part of the Kingdom of the Netherlands)</p><br>
-
-**National holiday**<br>
-<p>King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967); note - King's or Queen's Day are observed on the ruling monarch's birthday; celebrated on 26 April if 27 April is a Sunday</p><br>
-
 **Legal system**<br>
 <p>based on Dutch civil law</p><br>
 
@@ -273,9 +264,6 @@ _subordinate courts_: first instance courts, appeals court; specialized courts<b
 **Political parties**<br>
 Korsou di Nos Tur or KdnT<br>Korsou Esun Miho or KEM<br>Movementu Futuro Korsou or MFK<br>Movementu Progresivo or MP<br>Movishon Antia Nobo or MAN<br>Partido Antia Restruktura or PAR<br>Partido Inovashon Nashonal or PIN<br>Partido Nashonal di Pueblo or PNP<br>Pueblo Soberano or PS<br>Trabou pa Kòrsou or TPK<br>Un Korsou Hustu<br>
 
-**International organization participation**<br>
-<p>ACS (associate), Caricom (observer), FATF, ILO, ITU, UNESCO (associate), UPU</p><br>
-
 **Diplomatic representation in the US**<br>
 none (represented by the Kingdom of the Netherlands)<br>
 
@@ -287,11 +275,23 @@ _telephone_: [599] (9) 461-3066<br>
 _FAX_: [599] (9) 461-6489<br>
 _email address and website_: <br>ACSCuracao@state.gov<br><br>https://cw.usconsulate.gov/<br>
 
+**International organization participation**<br>
+<p>ACS (associate), Caricom (observer), FATF, ILO, ITU, UNESCO (associate), UPU</p><br>
+
+**Independence**<br>
+<p>none (part of the Kingdom of the Netherlands)</p><br>
+
+**National holiday**<br>
+<p>King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967); note - King's or Queen's Day are observed on the ruling monarch's birthday; celebrated on 26 April if 27 April is a Sunday</p><br>
+
 **Flag description**<br>
 on a blue field, a horizontal yellow band below the center divides the flag; two five-pointed white stars -- the smaller above and to the left of the larger -- appear in the upper left; the blue stands for the sky and sea, and yellow for the sun; the stars symbolize Curacao and its uninhabited sister island of Klein Curacao; the five star points signify the five continents from which Curacao's people originate<br>
 
 **National symbol(s)**<br>
-laraha (citrus tree); national colors: blue, yellow, white<br>
+laraha (citrus tree)<br>
+
+**National colors**<br>
+blue, yellow, white<br>
 
 **National anthem**<br>
 _name_: "Himmo di Korsou" (Anthem of Curacao)<br>

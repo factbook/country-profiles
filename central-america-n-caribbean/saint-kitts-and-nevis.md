@@ -163,8 +163,9 @@ _unimproved: urban_: urban: 1.7% of population<br>
 _unimproved: rural_: rural: 1.7% of population<br>
 _unimproved: total_: total: 1.7% of population (2015 est.)<br>
 
-**Current health expenditure**<br>
-6.2% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 6.2% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 5.9% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.09 physicians/1,000 population (2018)<br>
@@ -193,8 +194,9 @@ _other alcohols_: 0.21 liters of pure alcohol (2019 est.)<br>
 **Currently married women (ages 15-49)**<br>
 57.2% (2023 est.)<br>
 
-**Education expenditures**<br>
-2.5% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.5% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 11% national budget (2025 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -267,12 +269,6 @@ _etymology_: the French name translates as "low land" in English; the reference 
 **Administrative divisions**<br>
 14 parishes; Christ Church Nichola Town, Saint Anne Sandy Point, Saint George Basseterre, Saint George Gingerland, Saint James Windward, Saint John Capesterre, Saint John Figtree, Saint Mary Cayon, Saint Paul Capesterre, Saint Paul Charlestown, Saint Peter Basseterre, Saint Thomas Lowland, Saint Thomas Middle Island, Trinity Palmetto Point<br>
 
-**Independence**<br>
-19 September 1983 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 19 September (1983)<br>
-
 **Legal system**<br>
 English common law<br>
 
@@ -318,9 +314,6 @@ _subordinate courts_: magistrates' courts<br>
 **Political parties**<br>
 Concerned Citizens Movement or CCM<br>Nevis Reformation Party or NRP<br>People's Action Movement or PAM<br>People's Labour Party or PLP<br>Saint Kitts and Nevis Labor Party or SKNLP<br>
 
-**International organization participation**<br>
-ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, MIGA, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jacinth HENRY-MARTIN (since 15 September 2023)<br>
 _chancery_: 1203 19th St. NW, 5th Floor, Washington, DC 20036<br>
@@ -332,14 +325,26 @@ _consulate(s) general_: Los Angeles, New York<br>
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Saint Kitts and Nevis; the US Ambassador to Barbados is accredited to Saint Kitts and Nevis<br>
 
+**International organization participation**<br>
+ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, MIGA, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO<br>
+
+**Independence**<br>
+19 September 1983 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 19 September (1983)<br>
+
 **Flag description**<br>
 divided diagonally from the lower hoist side by a broad black band with two five-pointed white stars; the black band is edged in yellow; the upper triangle is green, and the lower is red; green stands for the island's fertility, red for the struggles of the people from slavery, yellow for year-round sunshine, and black for the people's African heritage; the white stars stand for the islands of Saint Kitts and Nevis but can also express hope and liberty, or independence and optimism<br>
 
 **National symbol(s)**<br>
-brown pelican, royal poinciana (flamboyant) tree; national colors: green, yellow, red, black, white<br>
+brown pelican, royal poinciana (flamboyant) tree<br>
+
+**National colors**<br>
+green, yellow, red, black, white<br>
 
 **National coat of arms**<br>
-<p>The coat of arms of Saint Kitts and Nevis features a Carib who represents the original inhabitants of the islands, and a fleur-de-lis and rose that represent the French and English who arrived in the 1620s. The shield also features the poinciana (the national flower) and a traditional boat. Three hands hold the torch, which represents the quest for freedom: the hand of an African, a European, and a person of mixed ethnicity. Pelicans (the national bird) support the shield, with a sugarcane plant and a coconut tree that symbolize the land.</p><br>
+the coat of arms of Saint Kitts and Nevis features a Carib who represents the original inhabitants of the islands, and a fleur-de-lis and rose that represent the French and English who arrived in the 1620; the shield also features the poinciana (the national flower) and a traditional boat; three hands hold the torch, which represents the quest for freedom: the hand of an African, a European, and a person of mixed ethnicity; pelicans (the national bird) support the shield, with a sugarcane plant and a coconut tree that symbolize the land<br>
 
 **National anthem**<br>
 _name_: "Oh Land of Beauty!"<br>

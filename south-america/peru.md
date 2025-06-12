@@ -184,8 +184,9 @@ _unimproved: urban_: urban: 2.8% of population<br>
 _unimproved: rural_: rural: 17.6% of population<br>
 _unimproved: total_: total: 6% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-6.2% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 6.2% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 16.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.69 physicians/1,000 population (2023)<br>
@@ -226,14 +227,14 @@ _female_: 2.1% (2025 est.)<br>
 _women married by age 15_: 2% (2020)<br>
 _women married by age 18_: 14.1% (2020)<br>
 
-**Education expenditures**<br>
-4% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.2% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 19.2% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 94.5%<br>
-_male_: 97%<br>
-_female_: 92% (2020)<br>
+_total population_: 94% (2020 est.)<br>
+_male_: 97% (2020 est.)<br>
+_female_: 92% (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -319,12 +320,6 @@ _etymology_: the name is an early Spanish mispronunciation of the Quechua name <
 **Administrative divisions**<br>
 24 departments (departamentos, singular - departamento), 1 province* (provincia), and 1 constitutional province** (provincia constitucional); Amazonas, Ancash, Apurimac, Arequipa, Ayacucho, Cajamarca, Callao**, Cusco, Huancavelica, Huánuco, Ica, Junín, La Libertad, Lambayeque, Lima, Lima*, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martin, Tacna, Tumbes, Ucayali<br>
 
-**Independence**<br>
-28 July 1821 (from Spain)<br>
-
-**National holiday**<br>
-Independence Day, 28-29 July (1821)<br>
-
 **Legal system**<br>
 civil law system<br>
 
@@ -372,9 +367,6 @@ _subordinate courts_: Court of Constitutional Guarantees; Superior Courts or Cor
 **Political parties**<br>
 <p>Advance the Nation (Avanza País) or AvP<br>Alliance for Progress (Alianza para el Progreso) or APP<br>Broad Front (Frente Amplio) or FA<br>Free Peru (Perú Libre) or PL<br>Front for Hope (Frente Esperanza)<br>Magisterial Block of National Concentration (Bloque Magisterial de Concertación Nacional) or BMCN<br>National Victory (Victoria Nacional) or VN<br>Peru Bicentennial (Perú Bicentenario) or PB<br>Popular Action (Acción Popular) or AP<br>Popular Force (Fuerza Popular) or FP<br>Popular Renewal (Renovación Popular) or RP<br>Purple Party (Partido Morado)<br>Social Integration Party (Avanza País - Partido de Integración Social)<br>Together For Perú (Juntos por el Peru) or JP<br>We Are Peru (Somos Perú) of SP<br>We Can Peru (Podemos Perú) or PP</p><br>
 
-**International organization participation**<br>
-AIIB, APEC, BIS, CAN, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, SICA (observer), UN, UNAMID, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMISS, UNOCI, UNOOSA, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Alfredo Santiago Carlos FERRERO DIEZ CANSECO (since 27 February 2024)<br>
 _chancery_: 1700 Massachusetts Avenue NW, Washington, DC 20036<br>
@@ -391,11 +383,23 @@ _telephone_: [51] (1) 618-2000<br>
 _FAX_: [51] (1) 618-2724<br>
 _email address and website_: <br>lima_webmaster@state.gov<br><br>https://pe.usembassy.gov/<br>
 
+**International organization participation**<br>
+AIIB, APEC, BIS, CAN, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, SICA (observer), UN, UNAMID, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMISS, UNOCI, UNOOSA, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+28 July 1821 (from Spain)<br>
+
+**National holiday**<br>
+Independence Day, 28-29 July (1821)<br>
+
 **Flag description**<br>
 three equal vertical bands of red (hoist side), white, and red, with the coat of arms centered in the white band; the coat of arms has a shield with a vicuna (symbolizing fauna), a cinchona tree (the source of quinine, symbolizing flora), and a yellow cornucopia spilling out coins (symbolizing mineral wealth); red stands for blood shed for independence, and white for peace<br>
 
 **National symbol(s)**<br>
-vicuna (a camelid related to the llama); national colors: red, white<br>
+vicuna (a camelid related to the llama)<br>
+
+**National colors**<br>
+red, white<br>
 
 **National anthem**<br>
 _name_: "Himno Nacional del Peru" (National Anthem of Peru)<br>

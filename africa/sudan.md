@@ -178,8 +178,9 @@ _unimproved: urban_: urban: 1% of population<br>
 _unimproved: rural_: rural: 19.3% of population<br>
 _unimproved: total_: total: 12.9% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-2.8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 2.8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 6.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.25 physicians/1,000 population (2017)<br>
@@ -212,7 +213,6 @@ _other alcohols_: 1.63 liters of pure alcohol (2019 est.)<br>
 61.4% (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 60.7%<br>
 _male_: 65.4%<br>
 _female_: 56.1% (2018)<br>
@@ -245,9 +245,6 @@ _other_: 30% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 36.3% of total population (2023)<br>
 _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to conflict, civil insecurity, and soaring food prices - </em>about 19.9 million people are currently expected to require emergency food and livelihood assistance, due to the conflict that broke out in mid-April 2023 which severely damaged livelihoods, paralyzed economic activities, triggered a surge in the already high food prices and caused large-scale displacements, with about 1.67 million people displaced inside of the country and about 528,000 people having fled to neighboring countries (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 21.43 micrograms per cubic meter (2019 est.)<br>
@@ -297,12 +294,6 @@ _etymology_: the name derives from the Arabic words <em>ras </em>(head or end) a
 18 states (wilayat, singular - wilayah); Blue Nile, Central Darfur, East Darfur, Gedaref, Gezira, Kassala, Khartoum, North Darfur, North Kordofan, Northern, Red Sea, River Nile, Sennar, South Darfur, South Kordofan, West Darfur, West Kordofan, White Nile<br>
 <strong>note: </strong>the peace Agreement signed in October 2020 included a provision to establish a system of governance to restructure the country's current 18 provinces/states into regions<br>
 
-**Independence**<br>
-1 January 1956 (from Egypt and the UK)<br>
-
-**National holiday**<br>
-Independence Day, 1 January (1956)<br>
-
 **Legal system**<br>
 mixed system of Islamic law and English common law<br>
 
@@ -342,9 +333,6 @@ _subordinate courts_: Court of Appeal; other national courts; public courts; dis
 <p>Democratic Unionist Party<br>Democratic Unionist Party or DUP<br>Federal Umma Party<br>Muslim Brotherhood or MB<br>National Congress Party or NCP<br>National Umma Party or NUP<br>Popular Congress Party or PCP<br>Reform Movement Now<br>Sudan National Front<br>Sudanese Communist Party or SCP<br>Sudanese Congress Party or SCoP<br>Umma Party for Reform and Development<br>Unionist Movement Party or UMP</p><br>
 <strong>note:  </strong>in November 2019, the transitional government banned the National Congress Party<br>
 
-**International organization participation**<br>
-ABEDA, ACP, AfDB, AFESD, AMF, AU (suspended), CAEU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Mohamed Abdalla IDRIS&nbsp;(since 16 September 2022)<br>
 _chancery_: 2210 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -360,11 +348,23 @@ _telephone_: [249] 187-0-22000<br>
 _email address and website_: <br>ACSKhartoum@state.gov<br><br>https://sd.usembassy.gov/<br>
 <strong>note:</strong>  the U.S. Embassy in Khartoum suspended operations (to include visa, passport, and other routine consular services) on 22 April 2023<br>
 
+**International organization participation**<br>
+ABEDA, ACP, AfDB, AFESD, AMF, AU (suspended), CAEU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
+
+**Independence**<br>
+1 January 1956 (from Egypt and the UK)<br>
+
+**National holiday**<br>
+Independence Day, 1 January (1956)<br>
+
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and black, with a green isosceles triangle based on the hoist side; colors and design based on the Arab Revolt flag of World War I; red stands for the struggle for freedom, white for peace, light, and love, black for the people, and green for Islam, agriculture, and prosperity<br>
 
 **National symbol(s)**<br>
-secretary bird; national colors: red, white, black, green<br>
+secretary bird<br>
+
+**National colors**<br>
+red, white, black, green<br>
 
 **National anthem**<br>
 _name_: "Nahnu Djundulla Djundulwatan" (We Are the Army of God and of Our Land)<br>

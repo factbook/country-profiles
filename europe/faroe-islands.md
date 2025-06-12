@@ -175,7 +175,7 @@ _unimproved: total_: total: NA<br>
 **Currently married women (ages 15-49)**<br>
 34.8% (2023 est.)<br>
 
-**Education expenditures**<br>
+**Education expenditure**<br>
 7.6% of GDP (2019 est.)<br>
 
 **Literacy**<br>
@@ -239,12 +239,6 @@ _etymology_: the name means "Thor's harbor" in Danish<br>
 **Administrative divisions**<br>
 part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark; there are 29 first-order municipalities (kommunur, singular - kommuna) Eidhi, Eystur, Famjin, Fuglafjordhur, Fugloy, Hov, Husavik, Hvalba, Hvannasund, Klaksvik, Kunoy, Kvivik, Nes, Porkeri, Runavik, Sandur, Sjovar, Skalavik, Skopun, Skuvoy, Sorvagur, Sumba, Sunda, Torshavn, Tvoroyri, Vagar, Vagur, Vestmanna, Vidhareidhi<br>
 
-**Independence**<br>
-none (part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark)<br>
-
-**National holiday**<br>
-Olaifest (Olavsoka) (commemorates the death in battle of King OLAF II of Norway, later St. OLAF), 29 July (1030)<br>
-
 **Legal system**<br>
 the laws of Denmark apply&nbsp;<br>
 
@@ -284,21 +278,27 @@ _subordinate courts_: Court of the First Instance or Tribunal de Premi&egrave;re
 **Political parties**<br>
 Center Party or H (Midflokkurin) <br>People's Party or A (Folkaflokkurin) <br>Progress Party or F (Framsokn) <br>Republic or E (Tjodveldi)  (formerly the Republican Party)<br>Self-Government Party or D (Sjalvstyri or Sjalvstyrisflokkurin) <br>Social Democratic Party or JF (Javnadarflokkurin) or JF <br>Union Party or B (Sambandsflokkurin) <br>
 
-**International organization participation**<br>
-Arctic Council, IMO (associate), NC, NIB, UNESCO (associate), UPU<br>
-
 **Diplomatic representation in the US**<br>
 none (self-governing overseas administrative division of Denmark)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (self-governing overseas administrative division of Denmark)<br>
 
+**International organization participation**<br>
+Arctic Council, IMO (associate), NC, NIB, UNESCO (associate), UPU<br>
+
+**Independence**<br>
+none (self-governing overseas administrative division of Denmark)<br>
+
+**National holiday**<br>
+Olaifest (Olavsoka) (commemorates the death in battle of King OLAF II of Norway, later St. OLAF), 29 July (1030)<br>
+
 **Flag description**<br>
 white with a red cross outlined in blue extending to the edges of the flag; the vertical part of the cross is shifted toward the hoist side in the style of the Dannebrog (Danish flag); referred to as Merkid, meaning "the banner" or "the mark," the flag resembles the flags of Iceland and Norway and uses the same three colors in a different sequence; white represents the clear Faroese sky and sea foam; red and blue are traditional Faroese colors<br>
 <strong>note:</strong> the blue on the flag is a lighter blue (azure) than the flags of Iceland and Norway<br>
 
 **National symbol(s)**<br>
-ram; national colors: red, white, blue<br>
+ram<br>
 
 **National anthem**<br>
 _name_: "Mitt alfagra land" (My Fairest Land)<br>

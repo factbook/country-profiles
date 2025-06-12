@@ -166,8 +166,9 @@ _unimproved: urban_: urban: 0.6% of population<br>
 _unimproved: rural_: rural: 1.5% of population<br>
 _unimproved: total_: total: 1.3% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-6.2% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 6.2% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 9% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 4.23 physicians/1,000 population (2020)<br>
@@ -201,8 +202,9 @@ _female_: 2.6% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 53.6% (2023 est.)<br>
 
-**Education expenditures**<br>
-3.6% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.7% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 11.8% national budget (2023 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -274,17 +276,11 @@ _etymology_: in 1785, the village of Carenage was renamed Castries, after Charle
 **Administrative divisions**<br>
 10 districts; Anse-la-Raye, Canaries, Castries, Choiseul, Dennery, Gros-Islet, Laborie, Micoud, Soufri&egrave;re, Vieux-Fort<br>
 
-**Independence**<br>
-22 February 1979 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 22 February (1979)<br>
-
 **Legal system**<br>
 English common law<br>
 
 **Constitution**<br>
-_history_: previous 1958, 1960 (preindependence); latest presented 20 December 1978, effective 22 February 1979<br>
+_history_: previous 1958, 1960 (pre-independence); latest presented 20 December 1978, effective 22 February 1979<br>
 _amendment process_: proposed by Parliament; passage requires at least two-thirds majority vote by the House of Assembly membership in the final reading and assent of the governor general; passage of amendments to various constitutional sections, such as those on fundamental rights and freedoms, government finances, the judiciary, and procedures for amending the constitution, require at least three-quarters majority vote by the House and assent of the governor general; passage of amendments approved by the House but rejected by the Senate require a majority of votes cast in a referendum<br>
 
 **International law organization participation**<br>
@@ -337,9 +333,6 @@ _subordinate courts_: magistrate's court<br>
 **Political parties**<br>
 Saint Lucia Labor Party or SLP<br>United Workers Party or UWP<br>
 
-**International organization participation**<br>
-ACP, ACS, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO, ITU, ITUC (NGOs), MIGA, NAM, OAS, OECS, OIF, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Elizabeth DARIUS-CLARKE (since 7 June 2022)<br>
 _chancery_: 1629 K Street NW, Suite 1250, Washington, DC 20006<br>
@@ -351,11 +344,23 @@ _consulate(s) general_: Miami, New York<br>
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Saint Lucia; the US Ambassador to Barbados is accredited to Saint Lucia<br>
 
+**International organization participation**<br>
+ACP, ACS, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO, ITU, ITUC (NGOs), MIGA, NAM, OAS, OECS, OIF, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+22 February 1979 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 22 February (1979)<br>
+
 **Flag description**<br>
 cerulean blue with a gold isosceles triangle below a black arrowhead; the upper edges of the arrowhead have a white border; blue stands for the sky and sea, gold for sunshine and prosperity, and white and black for the ethnic composition of the island; the triangles represent Gros Piton and Petit Piton, the cone-shaped volcanic plugs that are a symbol of the island<br>
 
 **National symbol(s)**<br>
-twin pitons (volcanic peaks), Saint Lucia parrot; national colors: cerulean blue, gold, black, white<br>
+twin pitons (volcanic peaks), Saint Lucia parrot<br>
+
+**National colors**<br>
+cerulean blue, gold, black, white<br>
 
 **National anthem**<br>
 _name_: "Sons and Daughters of St. Lucia"<br>

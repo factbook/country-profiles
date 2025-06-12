@@ -174,8 +174,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-9.5% of GDP (2022)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 9.5% of GDP (2022)<br>
+_Health expenditure (as % of national budget)_: 17.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 7.24 physicians/1,000 population (2021)<br>
@@ -212,8 +213,9 @@ _female_: 14.3% (2025 est.)<br>
 **Child marriage**<br>
 _women married by age 18_: 0.7% (2021)<br>
 
-**Education expenditures**<br>
-6.4% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.3% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 11.8% national budget (2022 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -293,12 +295,6 @@ _etymology_: name derives from the Danish words <em>køber </em>(merchant or buy
 **Administrative divisions**<br>
 metropolitan Denmark - 5 regions (regioner, singular - region); Hovedstaden (Capital), Midtjylland (Central Jutland), Nordjylland (North Jutland), Sjaelland (Zealand), Syddanmark (Southern Denmark)<br>
 
-**Independence**<br>
-ca. 965 (unified and Christianized under Harald I GORMSSON); 5 June 1849 (became a parliamentary constitutional monarchy)<br>
-
-**National holiday**<br>
-Constitution Day, 5 June (1849); note - closest equivalent to a national holiday<br>
-
 **Legal system**<br>
 civil law; judicial review of legislative acts<br>
 
@@ -346,9 +342,6 @@ _subordinate courts_: Special Court of Indictment and Revision; 2 High Courts; M
 **Political parties**<br>
 The Alternative or AP <br>Conservative People's Party or DKF or C <br>Danish People's Party or DF or O <br>Denmark Democrats or E <br>Green Left or SF or F (formerly Socialist People's Party or SF or F)<br>Liberal Alliance or LA or I <br>Liberal Party (Venstre) or V <br>Moderates or M <br>New Right Party or NB or D <br>Red-Green Alliance (Unity List) or EL <br>Social Democrats or SDP or A <br>Social Liberal Party or SLP or B <br>
 
-**International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOOSA, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jesper M&oslash;ller S&Oslash;RENSEN (since 15 September 2023)<br>
 _chancery_: 3200 Whitehaven Street NW, Washington, DC 20008<br>
@@ -365,12 +358,27 @@ _telephone_: [45] 33-41-71-00<br>
 _FAX_: [45] 35-43-02-23<br>
 _email address and website_: <br>CopenhagenACS@state.gov<br><br>https://dk.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOOSA, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+ca. 965 (unified and Christianized under Harald I GORMSSON); 5 June 1849 (became a parliamentary constitutional monarchy)<br>
+
+**National holiday**<br>
+Constitution Day, 5 June (1849); note - closest equivalent to a national holiday<br>
+
 **Flag description**<br>
 red with a white cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side; the banner is referred to as the Dannebrog (Danish flag) and is one of the oldest national flags in the world; traditions as to the origin of the flag design vary, but the best known is a legend that the banner fell from the sky during an early-13th-century battle and inspired the royal army to victory; in actuality, the flag may derive from a crusade banner or ensign<br>
 <strong>note:</strong> the shifted cross design element was subsequently adopted by Finland, Iceland, Norway, and Sweden, as well as by the Faroe Islands<br>
 
 **National symbol(s)**<br>
-lion, mute swan; national colors: red, white<br>
+lion, mute swan<br>
+
+**National colors**<br>
+red, white<br>
+
+**National coat of arms**<br>
+Denmark’s King Frederick VI adopted the national coat of arms in 1819. The crown of King Christian V, who ruled Denmark and Norway from 1670 to 1699,<em> </em>sits atop the shield, symbolizing royal and national authority. The three lions represent a strong and powerful country, with red lily pads in the shape of hearts that stand for strength, valor, and joy.<br>
 
 **National anthem**<br>
 _name_: "Der er et yndigt land" (There is a Lovely Country); "Kong Christian" (King Christian)<br>

@@ -169,8 +169,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0.6% of population<br>
 _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-5% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 11.5% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.09 physicians/1,000 population (2018)<br>
@@ -212,13 +213,14 @@ _women married by age 15_: 6.3% (2016)<br>
 _women married by age 18_: 33.5% (2016)<br>
 _men married by age 18_: 22.2% (2016)<br>
 
-**Education expenditures**<br>
-8.7% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.6% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 18.9% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
+_total population_: 90.9% (2015 est.) NA<br>
+_male_: 90.2% (2015 est.) NA<br>
+_female_: 91.6% (2015 est.) NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -285,12 +287,6 @@ _etymology_: the name is formed from two words: "Belize," the name of the longes
 **Administrative divisions**<br>
 6 districts; Belize, Cayo, Corozal, Orange Walk, Stann Creek, Toledo<br>
 
-**Independence**<br>
-21 September 1981 (from the UK)<br>
-
-**National holiday**<br>
-Battle of St. George's Caye Day (National Day), 10 September (1798); Independence Day, 21 September (1981)<br>
-
 **Legal system**<br>
 English common law<br>
 
@@ -349,9 +345,6 @@ _subordinate courts_: Magistrates' Courts; Family Court<br>
 **Political parties**<br>
 Belize People’s Front or BPF<br>Belize Progressive Party or BPP (formed in 2015 from a merger of the People's National Party, elements of the Vision Inspired by the People, and other smaller political groups)<br>People's United Party or PUP<br>United Democratic Party or UDP<br>Vision Inspired by the People or VIP<br>
 
-**International organization participation**<br>
-ACP, ACS, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Lynn Raymond YOUNG (since 7 July 2021)<br>
 _chancery_: 2535 Massachusetts Avenue NW, Washington, DC 20008-2826<br>
@@ -368,12 +361,24 @@ _telephone_: (501) 822-4011<br>
 _FAX_: (501) 822-4012<br>
 _email address and website_: <br>ACSBelize@state.gov<br><br>https://bz.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, ACS, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+21 September 1981 (from the UK)<br>
+
+**National holiday**<br>
+Battle of St. George's Caye Day (National Day), 10 September (1798); Independence Day, 21 September (1981)<br>
+
 **Flag description**<br>
 royal blue with a narrow red stripe along the top and the bottom edges; a large white disk bears the coat of arms at the center, which features a shield flanked by two workers in front of a mahogany tree with the motto SUB UMBRA FLOREO (I Flourish in the Shade) on a scroll at the bottom, all encircled by a green garland of 50 mahogany leaves; the figures, the tools, the mahogany tree, and the garland refer to the logging industry that led to British settlement of Belize; blue and red are the colors of the two main political parties<br>
 <strong>note:</strong> Belize has the only national flag that depicts humans; the flags of two British overseas territories, Montserrat and the British Virgin Islands, also depict humans<br>
 
 **National symbol(s)**<br>
-Baird's tapir (a large, browsing, forest-dwelling mammal), keel-billed toucan, Black Orchid; national colors: red, blue<br>
+Baird's tapir (a large forest-dwelling mammal), keel-billed toucan, black orchid<br>
+
+**National colors**<br>
+red, blue<br>
 
 **National anthem**<br>
 _name_: Land of the Free<br>

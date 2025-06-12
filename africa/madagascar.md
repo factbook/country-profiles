@@ -172,8 +172,9 @@ _unimproved: urban_: urban: 15% of population<br>
 _unimproved: rural_: rural: 62% of population<br>
 _unimproved: total_: total: 43.9% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-3.5% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 3.5% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 5.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.17 physicians/1,000 population (2022)<br>
@@ -212,14 +213,14 @@ _women married by age 15_: 12.7% (2021)<br>
 _women married by age 18_: 38.8% (2021)<br>
 _men married by age 18_: 11.2% (2021)<br>
 
-**Education expenditures**<br>
-3.1% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 18% national budget (2019 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 77.3%<br>
-_male_: 78.8%<br>
-_female_: 75.8% (2021)<br>
+_total population_: 74.7% (2021 est.)<br>
+_male_: 77.9% (2021 est.)<br>
+_female_: 71.8% (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 10 years<br>
@@ -249,9 +250,6 @@ _other_: 8.4% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 40.6% of total population (2023)<br>
 _rate of urbanization_: 4.26% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to the effects of extreme weather events and slow economic recovery - </em>in 2023, an estimated 2.2 million people are projected to face crisis levels of acute food insecurity in southern and southeastern areas, due to successive years of droughts; cyclone Freddy in February 2023 caused disruptions to livelihoods and resulted in crop damage, which further aggravated food insecurity (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 16.02 micrograms per cubic meter (2019 est.)<br>
@@ -290,12 +288,6 @@ _etymology_: the name means "City of the Thousand," from the Malagasy <em>an</em
 
 **Administrative divisions**<br>
 6 provinces (faritany); Antananarivo, Antsiranana, Fianarantsoa, Mahajanga, Toamasina, Toliara<br>
-
-**Independence**<br>
-26 June 1960 (from France)<br>
-
-**National holiday**<br>
-Independence Day, 26 June (1960)<br>
 
 **Legal system**<br>
 civil law system based on the old French civil code and customary law in matters of marriage, family, and obligation<br>
@@ -354,9 +346,6 @@ _subordinate courts_: Courts of Appeal; Court of Cassation; Courts of First Inst
 **Political parties**<br>
 <p>Group of Young Malagasy Patriots (Groupe des Jeunes Malgaches Patriotes) or GJMP<br>I Love Madagascar (Tiako I Madagasikara) or TIM<br>Isika Rehetra Miaraka amin'i Andry Rajoelina coalition or IRD<br>Malagasy Aware (Malagasy Tonga Saina) or MTS<br>Malagasy Tia Tanindrazana or MATITA or ANGADY<br>Movement for Democracy in Madagascar (Mouvement pour la Démocratie à Madagascar) or MDM<br>Rally for Democratic Socialism (Rassemblement pour Socialisme Démocratique - Nouveau) or RPSD Vaovao<br>Young Malagasies Determined (Tanora Malagasy Vonona) or TGV</p><br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Lantosoa RAKOTOMALALA (since 13 January 2025)<br>
 _chancery_: 2374 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -372,11 +361,23 @@ _telephone_: [261] 33-44-320-00<br>
 _FAX_: [261] 33-44-320-35<br>
 _email address and website_: <br>antanACS@state.gov<br><br>https://mg.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+26 June 1960 (from France)<br>
+
+**National holiday**<br>
+Independence Day, 26 June (1960)<br>
+
 **Flag description**<br>
 two equal horizontal bands of red (top) and green, with a vertical white band of the same width on hoist side; red stands for sovereignty, green for hope, and white for purity<br>
 
 **National symbol(s)**<br>
-traveller's palm (ravenala), zebu; national colors: red, green, white<br>
+traveller's palm (ravenala), zebu<br>
+
+**National colors**<br>
+red, green, white<br>
 
 **National anthem**<br>
 _name_: "Ry Tanindraza nay malala o" (Oh, Our Beloved Fatherland)<br>

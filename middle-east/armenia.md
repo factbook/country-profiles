@@ -172,8 +172,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-12.3% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 12.3% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 6.5% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.36 physicians/1,000 population (2022)<br>
@@ -215,14 +216,14 @@ _women married by age 15_: 0% (2016)<br>
 _women married by age 18_: 5.3% (2016)<br>
 _men married by age 18_: 0.4% (2016)<br>
 
-**Education expenditures**<br>
-2.8% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.4% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 10% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 99.8%<br>
-_male_: 99.8%<br>
-_female_: 99.7% (2020)<br>
+_total population_: 99.8% (2022 est.)<br>
+_male_: 99.7% (2022 est.)<br>
+_female_: 99.9% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -294,12 +295,6 @@ _etymology_: name origin is unclear; it may derive from the name of a local ethn
 **Administrative divisions**<br>
 11 provinces (marzer, singular - marz); Aragatsotn, Ararat, Armavir, Geghark'unik', Kotayk', Lorri, Shirak, Syunik', Tavush, Vayots' Dzor, Yerevan<br>
 
-**Independence**<br>
-21 September 1991 (from the Soviet Union); notable earlier dates: 321 B.C. (Kingdom of Armenia established under the Orontid Dynasty), A.D. 884 (Armenian Kingdom reestablished under the Bagratid Dynasty); 1198 (Cilician Kingdom established); 28 May 1918 (Democratic Republic of Armenia declared)<br>
-
-**National holiday**<br>
-Independence Day, 21 September (1991)<br>
-
 **Legal system**<br>
 civil law system<br>
 
@@ -347,9 +342,6 @@ _subordinate courts_: criminal and civil appellate courts; administrative appell
 **Political parties**<br>
 Armenia Alliance or HD<br>Armenian National Congress or ANC<br>Bright Armenia<br>Civil Contract or KP<br>Country To Live In<br>Homeland of Armenians<br>Homeland Party<br>I Have Honor Alliance (formerly known as the Republican Party of Armenia) PUD<br>Liberal Party<br>National Democratic Party<br>Prosperous Armenia or BHK<br>Republic Party (Hanrapetutyun Party)<br>
 
-**International organization participation**<br>
-ADB, BSEC, CD, CE, CIS, CSTO, EAEC (observer), EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM (observer), OAS (observer), OIF, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Lilit MAKUNTS (since 15 September 2021)<br>
 _chancery_: 2225 R Street NW, Washington, DC 20008<br>
@@ -366,11 +358,23 @@ _telephone_: [374] (10) 464-700<br>
 _FAX_: [374] (10) 464-742<br>
 _email address and website_: acsyerevan@state.gov<br><br>https://am.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB, BSEC, CD, CE, CIS, CSTO, EAEC (observer), EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM (observer), OAS (observer), OIF, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+21 September 1991 (from the Soviet Union); notable earlier dates: 321 B.C. (Kingdom of Armenia established under the Orontid Dynasty), A.D. 884 (Armenian Kingdom reestablished under the Bagratid Dynasty); 1198 (Cilician Kingdom established); 28 May 1918 (Democratic Republic of Armenia declared)<br>
+
+**National holiday**<br>
+Independence Day, 21 September (1991)<br>
+
 **Flag description**<br>
 three equal horizontal bands of red (top), blue, and orange; the color red stands for the blood shed for liberty, blue for the Armenian skies and hope, and orange for the land and the courage of the workers who farm it<br>
 
 **National symbol(s)**<br>
-Mount Ararat, eagle, lion; national colors: red, blue, orange<br>
+Mount Ararat, eagle, lion<br>
+
+**National colors**<br>
+red, blue, orange<br>
 
 **National anthem**<br>
 _name_: "Mer Hayrenik" (Our Fatherland)<br>

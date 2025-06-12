@@ -164,8 +164,9 @@ NA<br>
 _improved: total_: total: 96.7% of population<br>
 _unimproved: total_: total: 3.2% of population (2017 est.)<br>
 
-**Current health expenditure**<br>
-5.9% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.9% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 14% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.92 physicians/1,000 population (2017)<br>
@@ -190,14 +191,14 @@ _other alcohols_: 0.41 liters of pure alcohol (2019 est.)<br>
 **Currently married women (ages 15-49)**<br>
 31.5% (2023 est.)<br>
 
-**Education expenditures**<br>
-3.8% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.1% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 11% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over has completed five or more years of schooling<br>
 _total population_: 99%<br>
 _male_: 98.4%<br>
-_female_: 99.4% (2015)<br>
+_female_: 99.4% (2015 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -263,12 +264,6 @@ _etymology_: named after Saint John the Apostle<br>
 **Administrative divisions**<br>
 6 parishes and 2 dependencies*; Barbuda*, Redonda*, Saint George, Saint John, Saint Mary, Saint Paul, Saint Peter, Saint Philip<br>
 
-**Independence**<br>
-1 November 1981 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 1 November (1981)<br>
-
 **Legal system**<br>
 common law based on the English model<br>
 
@@ -326,9 +321,6 @@ _subordinate courts_: Industrial Court; Magistrates' Courts<br>
 **Political parties**<br>
 Antigua Labor Party or ABLP<br>Barbuda People's Movement or BPM<br>Democratic National Alliance or DNA<br>Go Green for Life or GGL<br>United Progressive Party or UPP<br>
 
-**International organization participation**<br>
-ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (subscriber), ITU, ITUC (NGOs), MIGA, NAM (observer), OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UPU, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Sir Ronald SANDERS (since 17 September 2015)<br>
 _chancery_: 3216 New Mexico Ave. NW, Washington, DC 20016<br>
@@ -340,11 +332,23 @@ _consulate(s) general_: Miami, New York<br>
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Antigua and Barbuda; the US Ambassador to Barbados is accredited to Antigua and Barbuda<br>
 
+**International organization participation**<br>
+ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (subscriber), ITU, ITUC (NGOs), MIGA, NAM (observer), OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UPU, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+1 November 1981 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 1 November (1981)<br>
+
 **Flag description**<br>
 red, with an inverted isosceles triangle on the top edge of the flag; the triangle contains three horizontal bands of black (top), light blue, and white, with a yellow rising sun in the black band; the sun symbolizes the dawn of a new era, black represents the African heritage of most of the population, blue is for hope, and red is for the dynamism of the people; the "V" stands for victory; the successive yellow, blue, and white coloring is also meant to evoke the country's tourist attractions of sun, sea, and sand<br>
 
 **National symbol(s)**<br>
-fallow deer; national colors: red, white, blue, black, yellow<br>
+fallow deer<br>
+
+**National colors**<br>
+red, white, blue, black, yellow<br>
 
 **National anthem**<br>
 _name_: Fair Antigua, We Salute Thee<br>

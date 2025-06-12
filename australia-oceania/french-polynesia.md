@@ -176,9 +176,6 @@ _unimproved: total_: total: 3% of population (2020 est.)<br>
 **Currently married women (ages 15-49)**<br>
 27.2% (2023 est.)<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
 _total population_: NA<br>
 _male_: NA<br>
@@ -238,12 +235,6 @@ _etymology_: the name derives from the Tahitian words <em>pape </em>(water) and 
 **Administrative divisions**<br>
 5 administrative subdivisions (subdivisions administratives, singular - subdivision administrative): Iles Australes (Austral Islands), Iles du Vent (Windward Islands), Iles Marquises (Marquesas Islands), Iles Sous-le-Vent (Leeward Islands), Iles Tuamotu-Gambier; note - the Leeward Islands and the Windward Islands together make up the Society Islands (Iles de la Soci&eacute;t&eacute;)<br>
 
-**Independence**<br>
-none (overseas land of France)<br>
-
-**National holiday**<br>
-F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - the local holiday is Internal Autonomy Day, 29 June (1880)<br>
-
 **Legal system**<br>
 the laws of France apply<br>
 
@@ -285,21 +276,30 @@ _subordinate courts_: Court of the First Instance or Tribunal de Premi&egrave;re
 **Political parties**<br>
 I Love Polynesia (A here la Porinetia) <br>List of the People (Tapura Huiraatira) <br>People's Servant Party (Tavini Huiraatira) <br>Rally of the Maohi People (Amuitahiraʻa o te Nunaʻa Maohi) (formerly known as Popular Rally (Tahoeraa Huiraatira))<br>
 
-**International organization participation**<br>
-ITUC (NGOs), PIF, SPC, UPU, WMO<br>
-
 **Diplomatic representation in the US**<br>
 none (overseas lands of France)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (overseas lands of France)<br>
 
+**International organization participation**<br>
+ITUC (NGOs), PIF, SPC, UPU, WMO<br>
+
+**Independence**<br>
+none (overseas land of France)<br>
+
+**National holiday**<br>
+F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - the local holiday is Internal Autonomy Day, 29 June (1880)<br>
+
 **Flag description**<br>
 two red horizontal bands flank a wide white band in a 1:2:1 ratio; centered on the white band is a disk with a blue-and-white wave pattern depicting the sea on the lower half and a gold-and-white ray pattern depicting the sun on the upper half; a Polynesian canoe on the disk has a crew of five, represented by five stars that also symbolize the five island groups; red and white are traditional Polynesian colors<br>
 <strong>note:</strong> identical to the red-white-red flag of Tahiti, the largest and most populous of the islands in French Polynesia, but which has no emblem in the white band; the flag of France is used for official occasions<br>
 
 **National symbol(s)**<br>
-outrigger canoe, Tahitian gardenia (Gardenia taitensis) flower; national colors: red, white<br>
+outrigger canoe, Tahitian gardenia flower (<em>Gardenia taitensis</em>)<br>
+
+**National colors**<br>
+red, white<br>
 
 **National anthem**<br>
 _name_: "Ia Ora 'O Tahiti Nui" (Long Live Tahiti Nui)<br>

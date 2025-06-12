@@ -172,8 +172,9 @@ _unimproved: urban_: urban: 3.8% of population<br>
 _unimproved: rural_: rural: 29.4% of population<br>
 _unimproved: total_: total: 16% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-16.6% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 16.6% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 4.8% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.18 physicians/1,000 population (2022)<br>
@@ -215,11 +216,11 @@ _women married by age 15_: 5.8% (2020)<br>
 _women married by age 18_: 24.9% (2020)<br>
 _men married by age 18_: 8.4% (2020)<br>
 
-**Education expenditures**<br>
-2.7% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.3% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 7.4% national budget (2021 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 48.3%<br>
 _male_: 62.7%<br>
 _female_: 34.1% (2017)<br>
@@ -247,9 +248,6 @@ _other_: 1.6% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 53.6% of total population (2023)<br>
 _rate of urbanization_: 3.41% annual rate of change (2015-20 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em><em>due to </em></em><em>high food prices and macroeconomic challenges </em><em>- </em>levels of acute food insecurity are expected to increase in 2023 associated with high food prices due to high international commodity prices and elevated transportation costs, exacerbated by the unfolding effects of the war in Ukraine on international trade and commodity prices; food availability and access are likely to remain limited by high food prices and below‑average imports; an expected further slowdown in economic domestic growth in 2023 is likely to compound food insecurity conditions for the most vulnerable households; in the June to August 2023 lean season period, over 531,000 people are projected to face acute food insecurity (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 35.8 micrograms per cubic meter (2019 est.)<br>
@@ -285,12 +283,6 @@ _etymology_: named after James MONROE (1758-1831), the fifth president of the Un
 
 **Administrative divisions**<br>
 15 counties; Bomi, Bong, Gbarpolu, Grand Bassa, Grand Cape Mount, Grand Gedeh, Grand Kru, Lofa, Margibi, Maryland, Montserrado, Nimba, River Cess, River Gee, Sinoe<br>
-
-**Independence**<br>
-26 July 1847<br>
-
-**National holiday**<br>
-Independence Day, 26 July (1847)<br>
 
 **Legal system**<br>
 mixed system of common law, based on Anglo-American law and customary law<br>
@@ -354,9 +346,6 @@ _subordinate courts_: judicial circuit courts; special courts, including crimina
 **Political parties**<br>
 All Liberian Party or ALP <br>Alliance for Peace and Democracy or APD <br>Alternative National Congress or ANC <br>Coalition for Democratic Change (includes CDC, NPP, and LPDP)<br>Collaborating Political Parties or CPP (coalition includes ANC, LP; CPP dissolved in April 2024)<br>Congress for Democratic Change or CDC <br>Liberia Destiny Party or LDP <br>Liberia National Union or LINU <br>Liberia Transformation Party or LTP <br>Liberian People Democratic Party or LPDP <br>Liberian People's Party or LPP <br>Liberian Restoration Party or LRP <br>Liberty Party or LP <br>Movement for Democracy and Reconstruction or MDR <br>Movement for Economic Empowerment <br>Movement for Progressive Change or MPC <br>National Democratic Coalition or NDC <br>National Democratic Party of Liberia or NDPL <br>National Patriotic Party or NPP <br>National Reformist Party or NRP <br>National Union for Democratic Progress or NUDP <br>People's Unification Party or PUP <br>Unity Party or UP <br>United People's Party <br>Victory for Change Party or VCP <br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires&nbsp;Isaac Chennoweth YEAH, Sr. (since 15 January 2025)<br>
 _chancery_: 5201 16th Street NW, Washington, DC 20011<br>
@@ -373,11 +362,23 @@ _telephone_: [231] 77-677-7000<br>
 _FAX_: [231] 77-677-7370<br>
 _email address and website_: <br>ACSMonrovia@state.gov<br><br>https://lr.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+26 July 1847<br>
+
+**National holiday**<br>
+Independence Day, 26 July (1847)<br>
+
 **Flag description**<br>
 11 equal horizontal stripes of red (top and bottom) alternating with white; a five-pointed white star sits on a blue square in the upper hoist-side corner; the stripes symbolize the signatories of the Liberian Declaration of Independence, the blue square represents the African mainland, and the star represents the freedom granted to the ex-slaves; the blue stands for liberty, justice, and fidelity, the white for purity, cleanliness, and guilelessness, and the red for steadfastness, valor, and fervor; the design is based on the US flag<br>
 
 **National symbol(s)**<br>
-white star; national colors: red, white, blue<br>
+white star<br>
+
+**National colors**<br>
+red, white, blue<br>
 
 **National anthem**<br>
 _name_: "All Hail, Liberia Hail!"<br>

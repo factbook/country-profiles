@@ -178,8 +178,9 @@ _unimproved: urban_: urban: 7.3% of population<br>
 _unimproved: rural_: rural: 5.6% of population<br>
 _unimproved: total_: total: 5.9% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-5.4% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.4% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 8% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.01 physicians/1,000 population (2023)<br>
@@ -221,14 +222,14 @@ _women married by age 15_: 5.8% (2022)<br>
 _women married by age 18_: 34.9% (2022)<br>
 _men married by age 18_: 7% (2022)<br>
 
-**Education expenditures**<br>
-4.2% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 12.8% national budget (2021 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 71.2%<br>
-_male_: 81%<br>
-_female_: 63.3% (2021)<br>
+_total population_: 68.7% (2019 est.)<br>
+_male_: 79.7% (2019 est.)<br>
+_female_: 59.4% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -302,12 +303,6 @@ _etymology_: the name comes from the Nepalese words <em>kath </em>(wooden) and <
 **Administrative divisions**<br>
 7 provinces (pradesh, singular - pradesh); Bagmati, Gandaki, Karnali, Koshi, Lumbini, Madhesh, Sudurpashchim<br>
 
-**Independence**<br>
-1768 (unified by Prithvi Narayan SHAH)<br>
-
-**National holiday**<br>
-Constitution Day, 20 September (2015); note - marks the promulgation of Nepal’s constitution in 2015 and replaces the previous 28 May Republic Day as the official national day in Nepal; the Gregorian day fluctuates based on Nepal’s Hindu calendar<br>
-
 **Legal system**<br>
 English common law and Hindu legal concepts<br>
 
@@ -366,9 +361,6 @@ _subordinate courts_: High Court; district courts<br>
 **Political parties**<br>
 <p>Communist Party of Nepal (Maoist Centre) or CPN-MC<br>Communist Party of Nepal (Unified Marxist-Leninist) or CPN-UML<br>Communist Party of Nepal (Unified Socialist) or CPN-US<br>Janamat Party<br>Janata Samajbaadi Party or JSP<br>Loktantrik Samajwadi Party or LSP<br>Naya Shakti Party, Nepal<br>Nepali Congress or NC<br>Nepal Mazdoor Kisan Party (Nepal Workers' and Peasants' Party) or NWPP<br>Rastriya Janamorcha (National People's Front)<br>Rastriya Prajatantra Party (National Democratic Party) or RPP<br>Rastriya Swatantra Party or RSP</p><br>
 
-**International organization participation**<br>
-ADB, BIMSTEC, CD, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, NAM, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNDOF, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Sharad Raj ARAN (since 13 November 2024)<br>
 _chancery_: 2730 34th Place NW, Washington, DC 20007<br>
@@ -385,12 +377,24 @@ _telephone_: [977] (1) 423-4000<br>
 _FAX_: [977] (1) 400-7272<br>
 _email address and website_: <br>usembktm@state.gov<br><br>https://np.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB, BIMSTEC, CD, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, NAM, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNDOF, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+1768 (unified by Prithvi Narayan SHAH)<br>
+
+**National holiday**<br>
+Constitution Day, 20 September (2015); note - marks the promulgation of Nepal’s constitution in 2015 and replaces the previous 28 May Republic Day as the official national day in Nepal; the Gregorian day fluctuates based on Nepal’s Hindu calendar<br>
+
 **Flag description**<br>
 crimson red with a blue border around the unique shape of two overlapping right triangles; the smaller upper triangle has a white stylized moon, and the larger, lower triangle displays a white 12-pointed sun; the color red represents the rhododendron (the national flower) and victory and bravery, and the blue border signifies peace and harmony; the two triangles are a combination of two pennants that originally symbolized the Himalaya Mountains, but today they refer to Hinduism and Buddhism, the country's two main religions; the moon stands for the serenity of the people and the Himalayan shade and cool weather, and the sun for the heat and higher temperatures of the rest of the country<br>
 <strong>note:</strong> Nepal is the only country in the world with a flag that is not rectangular or square<br>
 
 **National symbol(s)**<br>
-rhododendron blossom; national color: red<br>
+rhododendron blossom<br>
+
+**National colors**<br>
+red<br>
 
 **National anthem**<br>
 _name_: "Sayaun Thunga Phool Ka" (Hundreds of Flowers)<br>
@@ -639,11 +643,11 @@ Nepalese Armed Forces (Ministry of Defense): Nepali Army (includes Air Wing)<br>
 <strong>note: </strong>the Nepal Police are responsible for enforcing law and order across the country; the Armed Police Force is responsible for combating terrorism, providing security during riots and public disturbances, assisting in natural disasters, and protecting vital infrastructure, public officials, and the borders; it also conducts counterinsurgency and counterterrorism operations and would assist the Army in the event of an external invasion<br>
 
 **Military expenditures**<br>
+1% of GDP (2024 est.)<br>
 1% of GDP (2023 est.)<br>
 1.1% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
 1.3% of GDP (2020 est.)<br>
-1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 95,000 active Armed Forces (2025)<br>

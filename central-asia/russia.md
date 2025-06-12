@@ -190,8 +190,9 @@ _unimproved: urban_: urban: 0.9% of population<br>
 _unimproved: rural_: rural: 6.9% of population<br>
 _unimproved: total_: total: 2.4% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-7.4% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 7.4% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 13.8% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 5.11 physicians/1,000 population (2022)<br>
@@ -229,14 +230,14 @@ _female_: 15.1% (2025 est.)<br>
 _women married by age 15_: 0.3% (2017)<br>
 _women married by age 18_: 6.2% (2017)<br>
 
-**Education expenditures**<br>
-3.7% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.1% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 8.9% national budget (2020 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 99.7%<br>
-_male_: 99.7%<br>
-_female_: 99.7% (2018)<br>
+_total population_: 100% (2021 est.)<br>
+_male_: 100% (2021 est.)<br>
+_female_: 100% (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
@@ -327,12 +328,6 @@ _etymology_: named after the Moskva River; the origin of the river's name is unc
 <p>46 provinces (oblasti, singular - oblast), 21 republics (respubliki, singular - respublika), 4 autonomous okrugs (avtonomnyye okrugi, singular - avtonomnyy okrug), 9 krays (kraya, singular - kray), 2 federal cities (goroda, singular - gorod), and 1 autonomous oblast (avtonomnaya oblast')</p> <p><strong>oblasts:</strong> Amur (Blagoveshchensk), Arkhangelsk, Astrakhan, Belgorod, Bryansk, Chelyabinsk, Irkutsk, Ivanovo, Kaliningrad, Kaluga, Kemerovo, Kirov, Kostroma, Kurgan, Kursk, Leningrad (Gatchina), Lipetsk, Magadan, Moscow, Murmansk, Nizhniy Novgorod, Novgorod, Novosibirsk, Omsk, Orenburg, Orel, Penza, Pskov, Rostov, Ryazan, Sakhalin (Yuzhno-Sakhalinsk), Samara, Saratov, Smolensk, Sverdlovsk (Yekaterinburg), Tambov, Tomsk, Tula, Tver, Tyumen, Ulyanovsk, Vladimir, Volgograd, Vologda, Voronezh, Yaroslavl</p> <p><strong>republics:</strong> Adygeya (Maykop), Altay (Gorno-Altaysk), Bashkortostan (Ufa), Buryatiya (Ulan-Ude), Chechnya (Groznyy), Chuvashiya (Cheboksary), Dagestan (Makhachkala), Ingushetiya (Magas), Kabardino-Balkariya (Nal'chik), Kalmykiya (Elista), Karachayevo-Cherkesiya (Cherkessk), Kareliya (Petrozavodsk), Khakasiya (Abakan), Komi (Syktyvkar), Mariy-El (Yoshkar-Ola), Mordoviya (Saransk), North Ossetia (Vladikavkaz), Sakha [Yakutiya] (Yakutsk), Tatarstan (Kazan), Tyva (Kyzyl), Udmurtiya (Izhevsk)</p> <p><strong>autonomous okrugs:</strong> Chukotka (Anadyr'), Khanty-Mansi-Yugra (Khanty-Mansiysk), Nenets (Nar'yan-Mar), Yamalo-Nenets (Salekhard)</p> <p><strong>krays:</strong> Altay (Barnaul), Kamchatka (Petropavlovsk-Kamchatskiy), Khabarovsk, Krasnodar, Krasnoyarsk, Perm, Primorskiy [Maritime] (Vladivostok), Stavropol, Zabaykalsk [Transbaikal] (Chita)</p> <p><strong>federal cities:</strong> Moscow [Moskva], Saint Petersburg [Sankt-Peterburg]</p> <strong>autonomous oblast:</strong> Yevreyskaya [Jewish] (Birobidzhan)<br>
 <strong>note 1:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses) <br><br><strong>note 2:</strong> the United States does not recognize Russia's annexation of Ukraine's Autonomous Republic of Crimea and the municipality of Sevastopol, nor their redesignation as the "Republic of Crimea" and the "Federal City of Sevastopol"; it similarly does not recognize the annexation of the Ukrainian oblasts Donetsk, Luhansk, Zaporizhzhia, and Kherson<br>
 
-**Independence**<br>
-25 December 1991 (from the Soviet Union; Russian SFSR renamed Russian Federation); notable earlier dates: 1157 (Principality of Vladimir-Suzdal created); 16 January 1547 (Tsardom of Muscovy established); 22 October 1721 (Russian Empire proclaimed); 30 December 1922 (Soviet Union established)<br>
-
-**National holiday**<br>
-Russia Day, 12 June (1990); note - commemorates the adoption of the Declaration of State Sovereignty of the Russian Soviet Federative Socialist Republic (RSFSR)<br>
-
 **Legal system**<br>
 civil law system; judicial review of legislative acts<br>
 
@@ -389,9 +384,6 @@ _subordinate courts_: regional (kray) and provincial (oblast) courts; Moscow and
 **Political parties**<br>
 A Just Russia or SRZP<br>Civic Platform or GP<br>Communist Party of the Russian Federation or KPRF<br>Liberal Democratic Party of Russia or LDPR<br>New People or NL<br>Party of Growth or PR<br>Rodina<br>United Russia or ER<br>
 
-**International organization participation**<br>
-APEC, Arctic Council, ARF, ASEAN (dialogue partner), BIS, BRICS, BSEC, CBSS, CD, CE, CERN (observer), CICA, CIS, CSTO, EAEC, EAEU, EAPC, EAS, EBRD, FAO, FATF, G-20, GCTU, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OIC (observer), OPCW, OSCE, Paris Club, PCA, PFP, SCO, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UN Security Council (permanent), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Aleksandr Vyacheslavovich KIM (since 11 October 2024)<br>
 _chancery_: 2650 Wisconsin Avenue NW, Washington, DC 20007<br>
@@ -409,14 +401,26 @@ _FAX_: [7] (495) 728-5090<br>
 _email address and website_: <br>MoscowACS@state.gov<br><br>https://ru.usembassy.gov/<br>
 _consulate(s) general_: Vladivostok (suspended status), Yekaterinburg (suspended status)<br>
 
+**International organization participation**<br>
+APEC, Arctic Council, ARF, ASEAN (dialogue partner), BIS, BRICS, BSEC, CBSS, CD, CE, CERN (observer), CICA, CIS, CSTO, EAEC, EAEU, EAPC, EAS, EBRD, FAO, FATF, G-20, GCTU, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OIC (observer), OPCW, OSCE, Paris Club, PCA, PFP, SCO, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UN Security Council (permanent), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+25 December 1991 (from the Soviet Union; Russian SFSR renamed Russian Federation); notable earlier dates: 1157 (Principality of Vladimir-Suzdal created); 16 January 1547 (Tsardom of Muscovy established); 22 October 1721 (Russian Empire proclaimed); 30 December 1922 (Soviet Union established)<br>
+
+**National holiday**<br>
+Russia Day, 12 June (1990); note - commemorates the adoption of the Declaration of State Sovereignty of the Russian Soviet Federative Socialist Republic (RSFSR)<br>
+
 **Flag description**<br>
 three equal horizontal bands of white (top), blue, and red; created when Russia built its first naval vessels, and was used mostly as a naval ensign until the 19th century; colors may have been based on the Dutch flag, but no official meaning is assigned; inspired several other Slavic countries to adopt horizontal tricolors of the same colors in different arrangements<br>
 
 **National symbol(s)**<br>
-bear, double-headed eagle; national colors: white, blue, red<br>
+bear, double-headed eagle<br>
+
+**National colors**<br>
+white, blue, red<br>
 
 **National coat of arms**<br>
-The current coat of arms of Russia was adopted by presidential decree on 30 November 1993. The double-headed eagle was adopted as a Russian symbol in 1472 when Ivan III married Sophia Palaiologina, niece of the last Byzantine emperor in Constantinople. The eagle had served as her family's emblem.<br>
+the current coat of arms of Russia was adopted by presidential decree on 30 November 1993; the double-headed eagle was adopted as a Russian symbol in 1472 when Ivan III married Sophia Palaiologina, niece of the last Byzantine emperor in Constantinople -- the eagle was her family's emblem<br>
 
 **National anthem**<br>
 _name_: "Gimn Rossiyskoy Federatsii" (National Anthem of the Russian Federation)<br>

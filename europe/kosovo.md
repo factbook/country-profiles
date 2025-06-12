@@ -174,9 +174,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**Education expenditures**<br>
-NA<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -224,12 +221,6 @@ _etymology_: the town takes its name from the river; the origin of the river's n
 
 **Administrative divisions**<br>
 38 municipalities (komunat, singular - komuna (Albanian); opstine, singular - opstina (Serbian)); Decan (Decani), Dragash (Dragas), Ferizaj (Urosevac), Fushe Kosove (Kosovo Polje), Gjakove (Dakovica), Gjilan (Gnjilane), Gllogovc (Glogovac), Gracanice (Gracanica), Hani i Elezit (Deneral Jankovic), Istog (Istok), Junik, Kacanik, Kamenice (Kamenica), Kline (Klina), Kllokot (Klokot), Leposaviq (Leposavic), Lipjan (Lipljan), Malisheve (Malisevo), Mamushe (Mamusa), Mitrovice e Jugut (Juzna Mitrovica) [South Mitrovica], Mitrovice e Veriut (Severna Mitrovica) [North Mitrovica], Novoberde (Novo Brdo), Obiliq (Obilic), Partesh (Partes), Peje (Pec), Podujeve (Podujevo), Prishtine (Pristina), Prizren, Rahovec (Orahovac), Ranillug (Ranilug), Shterpce (Strpce), Shtime (Stimlje), Skenderaj (Srbica), Suhareke (Suva Reka), Viti (Vitina), Vushtrri (Vucitrn), Zubin Potok, Zvecan<br>
-
-**Independence**<br>
-17 February 2008 (from Serbia)<br>
-
-**National holiday**<br>
-Independence Day, 17 February (2008)<br>
 
 **Legal system**<br>
 civil law system<br>
@@ -280,9 +271,6 @@ _subordinate courts_: Court of Appeals (organized into 4 departments: General, S
 **Political parties**<br>
 Alliance for the Future of Kosovo or AAK<br>Ashkali Party for Integration or PAI<br>Civic Initiative for Freedom, Justice, and Survival<br>Democratic League of Kosovo or LDK<br>Democratic Party of Kosovo or PDK<br>New Democratic Initiative of Kosovo or IRDK<br>New Democratic Party or NDS <br>Progressive Movement of Kosovar Roma or LPRK<br>Romani Initiative<br>Self-Determination Movement (Lëvizja Vetevendosje or Vetevendosie) or LVV or VV<br>Serb List or SL<br>Social Democratic Union or SDU<br>Turkish Democratic Party of Kosovo or KDTP<br>Unique Gorani Party or JGP<br>Vakat Coalition or VAKAT<br>
 
-**International organization participation**<br>
-FIFA, IBRD, IDA, IFC, IMF, IOC, ITUC (NGOs), MIGA, OIF (observer)<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Ilir DUGOLLI (since 13 January 2022)<br>
 _chancery_: 3612 Massachusetts Ave NW, Washington, D.C. 20007<br>
@@ -300,12 +288,24 @@ _telephone_: [383] 38-59-59-3000<br>
 _FAX_: [383] 38-604-890<br>
 _email address and website_: <br>PristinaACS@state.gov<br><br>https://xk.usembassy.gov/<br>
 
+**International organization participation**<br>
+FIFA, IBRD, IDA, IFC, IMF, IOC, ITUC (NGOs), MIGA, OIF (observer)<br>
+
+**Independence**<br>
+17 February 2008 (from Serbia)<br>
+
+**National holiday**<br>
+Independence Day, 17 February (2008)<br>
+
 **Flag description**<br>
 a dark blue field with a gold-colored silhouette of Kosovo in the center, with six five-pointed white stars in a slight arc over it; each star represents one of the major ethnic groups of Kosovo: Albanians, Serbs, Turks, Gorani, Roma, and Bosniaks<br>
 <strong>note:</strong> one of two national flags that uses a map as a design element; the flag of Cyprus is the other<br>
 
 **National symbol(s)**<br>
-six, five-pointed, white stars; national colors: blue, gold, white<br>
+six five-pointed white stars<br>
+
+**National colors**<br>
+blue, gold, white<br>
 
 **National anthem**<br>
 _name_: Europe<br>

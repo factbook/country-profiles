@@ -178,8 +178,9 @@ _unimproved: urban_: urban: 0.2% of population<br>
 _unimproved: rural_: rural: 1.9% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-5.8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 19% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.81 physicians/1,000 population (2023)<br>
@@ -216,14 +217,14 @@ _female_: 2.8% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 70.3% (2023 est.)<br>
 
-**Education expenditures**<br>
-3.6% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.8% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 18.8% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 88.7%<br>
-_male_: 92.4%<br>
-_female_: 88.7% (2021)<br>
+_total population_: 86% (2016 est.)<br>
+_male_: 90% (2016 est.)<br>
+_female_: 81% (2016 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -308,12 +309,6 @@ _etymology_: the name probably means "flat" or "lower," referring to its locatio
 **Administrative divisions**<br>
 31 provinces (ostanha, singular - ostan); Alborz, Ardabil, Azarbayjan-e Gharbi (West Azerbaijan), Azarbayjan-e Sharqi (East Azerbaijan), Bushehr, Chahar Mahal va Bakhtiari, Esfahan, Fars, Gilan, Golestan, Hamadan, Hormozgan, Ilam, Kerman, Kermanshah, Khorasan-e Jonubi (South Khorasan), Khorasan-e Razavi (Razavi Khorasan), Khorasan-e Shomali (North Khorasan), Khuzestan, Kohgiluyeh va Bowyer Ahmad, Kordestan, Lorestan, Markazi, Mazandaran, Qazvin, Qom, Semnan, Sistan va Baluchestan, Tehran, Yazd, Zanjan<br>
 
-**Independence**<br>
-1 April 1979 (Islamic Republic of Iran proclaimed); notable earlier dates: ca. 550 B.C. (Achaemenid (Persian) Empire established); A.D. 1501 (Iran reunified under the Safavid Dynasty); 1794 (beginning of Qajar Dynasty); 12 December 1925 (modern Iran established under the PAHLAVI Dynasty)<br>
-
-**National holiday**<br>
-Republic Day, 1 April (1979)<br>
-
 **Legal system**<br>
 religious system based on secular and Islamic law<br>
 
@@ -361,20 +356,29 @@ _subordinate courts_: Penal Courts I and II; Islamic Revolutionary Courts; Court
 **Political parties**<br>
 Combatant Clergy Association (an active political group)<br>Executives of Construction Party<br>Front of Islamic Revolutionary Stability<br>Islamic Coalition Party<br>Progress and Justice Population of Islamic Iran<br>Militant Clerics Society (Majma-e Ruhaniyoun-e Mobarez) or MRM<br>Moderation and Development Party<br>National Trust Party (Hezb-e E'temad-eMelli) or HEM<br>Progress and Justice Society<br>Union of Islamic Iran People's Party (Hezb-e Ettehad-e Iran-e Eslami)<br>
 
-**International organization participation**<br>
-BRICS, CICA, CP, D-8, ECO, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OPEC, PCA, SAARC (observer), SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
-
 **Diplomatic representation in the US**<br>
 none <br><strong><br>Note</strong>:  Iran has an Interests Section in the Pakistani Embassy; address: Iranian Interests Section, Embassy of Pakistan, 1250 23rd Street NW, Washington, DC 20037; telephone: [1] (202) 965-4990; FAX [1] (202) 965-1073; email:  requests@daftar.org; info@daftarwashington.com; website:  https://daftar.org/<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none; the US Interests Section is located in the Embassy of Switzerland; US Foreign Interests Section, Embassy of Switzerland, Pasdaran, Shahid Mousavi Street (Golestan 5th), Corner of Paydarfard Street, No. 55, Tehran<br>
 
+**International organization participation**<br>
+BRICS, CICA, CP, D-8, ECO, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OPEC, PCA, SAARC (observer), SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
+
+**Independence**<br>
+1 April 1979 (Islamic Republic of Iran proclaimed); notable earlier dates: ca. 550 B.C. (Achaemenid or Persian Empire established); A.D. 1501 (Iran reunified under the Safavid dynasty); 1794 (beginning of Qajar dynasty); 12 December 1925 (modern Iran established under the PAHLAVI dynasty)<br>
+
+**National holiday**<br>
+Republic Day, 1 April (1979)<br>
+
 **Flag description**<br>
 three equal horizontal bands of green (top), white, and red; centered in the white band is the red national emblem, a stylization of the word <em>Allah </em>in the shape of a tulip, a symbol of martyrdom; ALLAH AKBAR (God is Great) in white Arabic script is repeated 11 times along the bottom edge of the green band and 11 times along the top edge of the red band; green is the color of Islam and also represents growth, white stands for honesty and peace, and red for bravery and martyrdom<br>
 
 **National symbol(s)**<br>
-lion; national colors: green, white, red<br>
+lion<br>
+
+**National colors**<br>
+green, white, red<br>
 
 **National anthem**<br>
 _name_: "Soroud-e Melli-ye Jomhouri-ye Eslami-ye Iran" (National Anthem of the Islamic Republic of Iran)<br>

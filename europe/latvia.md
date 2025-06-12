@@ -173,8 +173,9 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 1.4% of population<br>
 _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-9% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 9% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 12.1% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.4 physicians/1,000 population (2022)<br>
@@ -208,11 +209,11 @@ _female_: 16.4% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 49.1% (2023 est.)<br>
 
-**Education expenditures**<br>
-6% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.4% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 13.1% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 99.9%<br>
 _male_: 99.9%<br>
 _female_: 99.9% (2021)<br>
@@ -287,12 +288,6 @@ _etymology_: the name's origin is unclear; it may derive from the Old Lithuanian
 **Administrative divisions**<br>
 <p>36 municipalities (novadi, singular - novads) and 7 state cities (valstpilsetu pasvaldibas, singular valstspilsetas pasvaldiba)</p> <p><strong>municipalities:</strong> Adazi, Aizkraukle, Aluksne, Augsdaugava, Balvi, Bauska, Cesis, Dienvidkurzeme, Dobele, Gulbene, Jekabpils, Jelgava, Kekava, Kraslava, Kuldiga, Limbazi, Livani, Ludza, Madona, Marupe, Ogre, Olaine, Preili, Rezekne, Ropazi, Salaspils, Saldus, Saulkrasti, Sigulda, Smiltene, Talsi, Tukums, Valka, Valmiera, Varaklani, Ventspils</p> <p><strong>cities:</strong> Daugavpils, Jelgava, Jurmala, Liepaja, Rezekne, Riga, Ventspils</p><br>
 
-**Independence**<br>
-18 November 1918 (from Soviet Russia); 4 May 1990 (declared from the Soviet Union); 6 September 1991 (recognized by the Soviet Union)<br>
-
-**National holiday**<br>
-Independence Day (Republic of Latvia Proclamation Day), 18 November (1918); note - 18 November 1918 was the date Latvia established its statehood and its concomitant independence from Soviet Russia; 4 May 1990 was the date it declared the restoration of Latvian statehood and its concomitant independence from the Soviet Union<br>
-
 **Legal system**<br>
 civil law system with traces of socialist legal traditions and practices<br>
 
@@ -339,9 +334,6 @@ _subordinate courts_: district (city) and regional courts<br>
 **Political parties**<br>
 Development/For! or AP!<br>For Stability or S!<br>For Latvia's Development LA<br>Harmony or S<br>Honor to Serve Riga! or GKR<br>Latvia First LPV<br>Latvian Green Party or LZP<br>National Alliance or NA<br>New Unity or JV<br>People, Land, Statehood TZV<br>Social Democratic Party "Harmony" or S<br>The Progressives or PRO<br>Union of Greens and Farmers or ZZS<br>United List or AS<br>We for Talsi and Municipality or MTuN<br>
 
-**International organization participation**<br>
-Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Elita KUZMA (since 18 September 2024)<br>
 _chancery_: 2306 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -357,11 +349,23 @@ _telephone_: [371] 6710-7000<br>
 _FAX_: [371] 6710-7050<br>
 _email address and website_: <br>askconsular-riga@state.gov<br><br>https://lv.usembassy.gov/<br>
 
+**International organization participation**<br>
+Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+18 November 1918 (from Soviet Russia); 4 May 1990 (declared from the Soviet Union); 6 September 1991 (recognized by the Soviet Union)<br>
+
+**National holiday**<br>
+Independence Day (Republic of Latvia Proclamation Day), 18 November (1918); note - 18 November 1918 was the date Latvia established its statehood and its concomitant independence from Soviet Russia; 4 May 1990 was the date it declared the restoration of Latvian statehood and its concomitant independence from the Soviet Union<br>
+
 **Flag description**<br>
 three horizontal bands of maroon (top), white (half-width), and maroon; the flag is one of the older banners in the world -- a medieval chronicle mentions Latvian tribes using a red standard with a white stripe around 1280<br>
 
 **National symbol(s)**<br>
-white wagtail (bird); national colors: maroon, white<br>
+white wagtail (bird)<br>
+
+**National colors**<br>
+maroon, white<br>
 
 **National anthem**<br>
 _name_: "Dievs, sveti Latviju!" (God Bless Latvia)<br>

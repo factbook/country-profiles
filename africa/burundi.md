@@ -177,8 +177,9 @@ _unimproved: urban_: urban: 1.3% of population<br>
 _unimproved: rural_: rural: 21.1% of population<br>
 _unimproved: total_: total: 18.4% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-9.1% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 9.1% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 4.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.08 physicians/1,000 population (2022)<br>
@@ -217,14 +218,14 @@ _women married by age 15_: 2.8% (2017)<br>
 _women married by age 18_: 19% (2017)<br>
 _men married by age 18_: 1.4% (2017)<br>
 
-**Education expenditures**<br>
-5% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.4% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 20.6% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 74.7%<br>
-_male_: 81.3%<br>
-_female_: 68.4% (2021)<br>
+_total population_: 68% (2017 est.)<br>
+_male_: 76% (2017 est.)<br>
+_female_: 61% (2017 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -254,9 +255,6 @@ _other_: 6.3% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 14.8% of total population (2023)<br>
 _rate of urbanization_: 5.43% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_widespread lack of access_: <em>due to the effects of weather - </em>according to the latest estimates, about 1.2 million people are estimated to be facing Crisis levels of acute food insecurity between June and September 2023, unchanged year on year; the main drivers are the lingering impact of floods in northern areas in late 2022 and high food prices due, in part, to the depreciation of the local currency (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 28 micrograms per cubic meter (2019 est.)<br>
@@ -302,12 +300,6 @@ _etymology_: the origin of the name Bujumbura is unclear, but "bu-" is a Bantu p
 
 **Administrative divisions**<br>
 18 provinces; Bubanza, Bujumbura Mairie, Bujumbura Rural, Bururi, Cankuzo, Cibitoke, Gitega, Karuzi, Kayanza, Kirundo, Makamba, Muramvya, Muyinga, Mwaro, Ngozi, Rumonge, Rutana, Ruyigi; note- a law was passed in March 2023 reducing the number of provinces to five: Buhumuza, Bujumbura, Burunga, Butanyerera, Gitega, with full implementation by 2025.<br>
-
-**Independence**<br>
-1 July 1962 (from UN trusteeship under Belgian administration)<br>
-
-**National holiday**<br>
-Independence Day, 1 July (1962)<br>
 
 **Legal system**<br>
 mixed legal system of Belgian civil law and customary law<br>
@@ -370,9 +362,6 @@ _subordinate courts_: Courts of Appeal; County Courts; Courts of Residence; Mart
 **Political parties**<br>
 Council for Democracy and the Sustainable Development of Burundi or CODEBU <br>Front for Democracy in Burundi-Sahwanya or FRODEBU-Sahwanya <br>National Council for the Defense of Democracy - Front for the Defense of Democracy or CNDD-FDD <br>National Congress for Liberty or CNL <br>National Liberation Forces or FNL <br>Union for National Progress (Union pour le Progress Nationale) or UPRONA <br>
 
-**International organization participation**<br>
-ACP, AfDB, ATMIS, AU, CEMAC, CEPGL, CICA, COMESA, EAC, FAO, G-77, IBRD, ICAO, ICGLR, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jean Bosco BAREGE (since 27 February 2024)<br>
 _chancery_: 2233 Wisconsin Avenue NW, Washington, DC 20007<br>
@@ -388,11 +377,23 @@ _telephone_: [257] 22-207-000<br>
 _FAX_: [257] 22-222-926<br>
 _email address and website_: <br>BujumburaC@state.gov<br><br>https://bi.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, ATMIS, AU, CEMAC, CEPGL, CICA, COMESA, EAC, FAO, G-77, IBRD, ICAO, ICGLR, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+1 July 1962 (from UN trusteeship under Belgian administration)<br>
+
+**National holiday**<br>
+Independence Day, 1 July (1962)<br>
+
 **Flag description**<br>
 divided by a white diagonal cross into red panels (top and bottom) and green panels (hoist side and fly side) with a white disk at the center bearing three red six-pointed stars outlined in green and arranged in a triangular design; green stands for hope and optimism, white for purity and peace, and red for the blood shed in the struggle for independence; the three stars in the disk represent the major ethnic groups (Hutu, Twa, Tutsi), as well as unity, work, and progress<br>
 
 **National symbol(s)**<br>
-lion; national colors: red, white, green<br>
+lion<br>
+
+**National colors**<br>
+red, white, green<br>
 
 **National anthem**<br>
 _name_: "Burundi Bwacu" (Our Beloved Burundi)<br>

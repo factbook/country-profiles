@@ -184,8 +184,9 @@ _unimproved: total_: total: 3.6% of population (2017)<br>
 **Currently married women (ages 15-49)**<br>
 47.7% (2023 est.)<br>
 
-**Education expenditures**<br>
-4% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.8% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 12.7% national budget (2022 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -244,12 +245,6 @@ special administrative region of the People's Republic of China<br>
 **Administrative divisions**<br>
 none (special administrative region of the People's Republic of China)<br>
 
-**Independence**<br>
-none (special administrative region of China)<br>
-
-**National holiday**<br>
-National Day (Anniversary of the Founding of the People's Republic of China), 1 October (1949); note - 1 July (1997) is celebrated as Hong Kong Special Administrative Region Establishment Day<br>
-
 **Legal system**<br>
 mixed system of common law based on the English model and Chinese customary law (in matters of family and land tenure); China's imposition of National Security Law incorporates elements of Chinese civil law<br>
 
@@ -292,9 +287,6 @@ _subordinate courts_: High Court (consists of the Court of Appeal and Court of F
 Business and Professionals Alliance for Hong Kong or BPA <br>Civil Force or CF <br>Democratic Alliance for the Betterment and Progress of Hong Kong or DAB <br>Federation of Hong Kong and Kowloon Labour Unions or HKFLU <br>Hong Kong Federation of Education Workers or HKFEW <br>Hong Kong Federation of Trade Unions or HKFTU <br>Kowloon West New Dynamic or KWND<br>Liberal Party or LP <br>New Century Forum or NCF <br>New People's Party or NPP<br>New Prospect for Hong Kong or NPHK <br>New Territories Association of Societies or NTAS <br>Professional Power or PP <br>Roundtable or RT <br>Third Side or TS<br>
 <strong>note 1:</strong> there is no political party ordinance, so there are no registered political parties; politically active groups register as societies or companies<br><br><strong>note 2:</strong> by the end of 2021, the leading pro-democracy figures in Hong Kong had been effectively removed from the political arena under the provisions of Beijing's 2021 electoral changes or via charges under the 2020 national security law; in addition, dozens of pro-democracy organizations, including political parties, unions, churches, civil rights groups, and media organizations have disbanded or closed; as of 2023, nearly all politically active groups were pro-Beijing<br>
 
-**International organization participation**<br>
-ADB, APEC, BIS, FATF, ICC (national committees), IHO, IMF, IMO (associate), Interpol (subbureau), IOC, ISO (correspondent), ITUC (NGOs), UNWTO (associate), UPU, WCO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: none (Special Administrative Region of China)<br>
 _HKETO offices_: New York, San Francisco, Washington DC<br>
@@ -308,11 +300,23 @@ _telephone_: [852] 2523-9011<br>
 _FAX_: [852] 2845-1598<br>
 _email address and website_: <br>acshk@state.gov<br><br>https://hk.usconsulate.gov/<br>
 
+**International organization participation**<br>
+ADB, APEC, BIS, FATF, ICC (national committees), IHO, IMF, IMO (associate), Interpol (subbureau), IOC, ISO (correspondent), ITUC (NGOs), UNWTO (associate), UPU, WCO, WMO, WTO<br>
+
+**Independence**<br>
+none (special administrative region of China)<br>
+
+**National holiday**<br>
+National Day (Anniversary of the Founding of the People's Republic of China), 1 October (1949); note - 1 July (1997) is celebrated as Hong Kong Special Administrative Region Establishment Day<br>
+
 **Flag description**<br>
 red with a stylized, five-petal, white Bauhinia flower in the center; each petal has a small, five-pointed red star; the red color is the same as the Chinese flag and represents the motherland, and the five stars also echo the Chinese flag; the Bauhinia flower was developed in Hong Kong the late 19th century and has come to symbolize the region<br>
 
 **National symbol(s)**<br>
-bauhinia flower; national colors: red, white<br>
+bauhinia flower<br>
+
+**National colors**<br>
+red, white<br>
 
 **National anthem**<br>
 <p><strong>note:</strong> as a Special Administrative Region of China, "Yiyongjun Jinxingqu" is the official anthem (see China)</p><br>

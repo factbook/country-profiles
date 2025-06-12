@@ -175,8 +175,9 @@ _unimproved: urban_: urban: 4.3% of population<br>
 _unimproved: rural_: rural: 22.8% of population<br>
 _unimproved: total_: total: 17.4% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-10.2% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 10.2% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 13.1% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.24 physicians/1,000 population (2022)<br>
@@ -215,14 +216,14 @@ _women married by age 15_: 1% (2018)<br>
 _women married by age 18_: 16.4% (2018)<br>
 _men married by age 18_: 1.9% (2018)<br>
 
-**Education expenditures**<br>
-8.7% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 6.6% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 10.4% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 81%<br>
-_male_: 72.9%<br>
-_female_: 88.8% (2021)<br>
+_total population_: 86.2% (2018 est.)<br>
+_male_: 80.2% (2018 est.)<br>
+_female_: 91.8% (2018 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
@@ -252,9 +253,6 @@ _other_: 24.1% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 30.4% of total population (2023)<br>
 _rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em><em>due to h</em>igh food prices and economic downturn - </em>food insecurity conditions are primarily underpinned by the high food prices and a slow economic recovery that is impinging on households’ economic capacity to access food; Lesotho  is a net importer of key staple food commodities and energy, domestic prices have been largely influenced by the high level of international prices (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 17.6 micrograms per cubic meter (2019 est.)<br>
@@ -299,12 +297,6 @@ _etymology_: the name means "[place of] red sandstones" in the Sesotho language<
 
 **Administrative divisions**<br>
 10 districts; Berea, Butha-Buthe, Leribe, Mafeteng, Maseru, Mohale's Hoek, Mokhotlong, Qacha's Nek, Quthing, Thaba-Tseka<br>
-
-**Independence**<br>
-4 October 1966 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 4 October (1966)<br>
 
 **Legal system**<br>
 mixed system of English common law and Roman-Dutch law; High Court and Court of Appeal review legislative acts<br>
@@ -365,9 +357,6 @@ _subordinate courts_: Magistrate Courts; customary or traditional courts; milita
 **Political parties**<br>
 All Basotho Convention or ABC <br>Alliance of Democrats or AD <br>Basotho Action Party or BAP <br>Basotho National Party or BNP <br>Democratic Congress or DC <br>Democratic Party of Lesotho or DPL <br>Lesotho People's Congress or LPC <br>Movement of Economic Change or MEC <br>National Independent Party or NIP <br>Popular Front for Democracy of PFD<br>Reformed Congress of Lesotho or RCL <br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OPCW, SACU, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Tumisang MOSOTHO (since 16 September 2022)<br>
 _chancery_: 2511 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -383,11 +372,23 @@ _telephone_: [266] 22312666<br>
 _FAX_: [266] 22310116<br>
 _email address and website_: <br>USConsularMaseru@state.gov<br><br>https://ls.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OPCW, SACU, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+4 October 1966 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 4 October (1966)<br>
+
 **Flag description**<br>
 three horizontal stripes of blue (top), white, and green, representing respectively rain, peace, and prosperity; centered in the white stripe is a black <em>mokorotlo</em>, a traditional Basotho straw hat and national symbol; the redesigned flag was introduced in 2006 to celebrate 40 years of independence<br>
 
 **National symbol(s)**<br>
-mokorotio (Basotho hat); national colors: blue, white, green, black<br>
+mokorotio (Basotho hat)<br>
+
+**National colors**<br>
+blue, white, green, black<br>
 
 **National anthem**<br>
 _name_: "Lesotho fatse la bo ntat'a rona" (Lesotho, Land of Our Fathers)<br>

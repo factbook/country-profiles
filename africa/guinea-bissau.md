@@ -169,8 +169,9 @@ _unimproved: urban_: urban: 9.4% of population<br>
 _unimproved: rural_: rural: 40.9% of population<br>
 _unimproved: total_: total: 26.9% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-8.2% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 8.2% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 5.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.25 physicians/1,000 population (2022)<br>
@@ -209,14 +210,13 @@ _women married by age 15_: 8.1% (2019)<br>
 _women married by age 18_: 25.7% (2019)<br>
 _men married by age 18_: 2.2% (2019)<br>
 
-**Education expenditures**<br>
+**Education expenditure**<br>
 2.7% of GDP (2020 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 52.9%<br>
-_male_: 67%<br>
-_female_: 39.9% (2021)<br>
+_total population_: 63.9% (2022 est.)<br>
+_male_: 77.3% (2022 est.)<br>
+_female_: 52.2% (2022 est.)<br>
 
 ## Environment
 
@@ -283,12 +283,6 @@ _etymology_: the name is derived from the local Bijuga people and is used to dis
 **Administrative divisions**<br>
 9 regions (regioes, singular - regiao); Bafata, Biombo, Bissau, Bolama/Bijagos, Cacheu, Gabu, Oio, Quinara, Tombali<br>
 
-**Independence**<br>
-24 September 1973 (declared); 10 September 1974 (from Portugal)<br>
-
-**National holiday**<br>
-Independence Day, 24 September (1973)<br>
-
 **Legal system**<br>
 mixed system of civil law, which incorporated Portuguese law at independence; influenced by Economic Community of West African States (ECOWAS), West African Economic and Monetary Union (UEMOA), African Francophone Public Law, and customary law<br>
 
@@ -337,9 +331,6 @@ _subordinate courts_: Appeals Court; regional (first instance) courts; military 
 **Political parties**<br>
 African Party for the Independence of Guinea and Cabo Verde or PAIGC <br>Democratic Convergence Party or PCD <br>Movement for Democratic Alternation Group of 15 or MADEM-G15 <br>National People’s Assembly – Democratic Party of Guinea Bissau or APU-PDGB <br>New Democracy Party or PND <br>Party for Social Renewal or PRS <br>Republican Party for Independence and Development or PRID <br>Union for Change or UM <br>
 
-**International organization participation**<br>
-ACP, AfDB, AOSIS, AU, CPLP, ECOWAS, FAO, FZ, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Maria Da Concei&ccedil;&atilde;o NOBRE CABRAL (since 18 September 2024)<br>
 _chancery_: 918 16th Street, NW (Mezzanine Suite)<br>Washington DC 20006<br>
@@ -351,12 +342,24 @@ _chief of mission_: Ambassador Michael RAYNOR (since 20 April 2022)<br>
 _mailing address_: 2080 Bissau Place, Washington DC&nbsp; 20521-2080<br>
 _email address and website_: <br>dakarACS@state.gov<br><br>https://gw.usmission.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AOSIS, AU, CPLP, ECOWAS, FAO, FZ, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+24 September 1973 (declared); 10 September 1974 (from Portugal)<br>
+
+**National holiday**<br>
+Independence Day, 24 September (1973)<br>
+
 **Flag description**<br>
 two equal horizontal bands of yellow (top) and green with a vertical red band on the hoist side; a black five-pointed star is centered in the red band; yellow stands for the sun, green for hope, red for blood shed during the struggle for independence; the black star stands for African unity<br>
 <strong>note:</strong> uses the popular pan-African colors of Ethiopia; the Ghanaian flag heavily influenced the design<br>
 
 **National symbol(s)**<br>
-black star; national colors: red, yellow, green, black<br>
+black star<br>
+
+**National colors**<br>
+red, yellow, green, black<br>
 
 **National anthem**<br>
 _name_: "Esta e a Nossa Patria Bem Amada" (This Is Our Beloved Country)<br>

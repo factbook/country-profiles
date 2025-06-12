@@ -177,8 +177,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-7.4% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 7.4% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 9.9% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.46 physicians/1,000 population (2022)<br>
@@ -212,11 +213,11 @@ _female_: 23.8% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 51.4% (2023 est.)<br>
 
-**Education expenditures**<br>
-4.8% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.1% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 10.4% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 99.1%<br>
 _male_: 99.1%<br>
 _female_: 99.1% (2021)<br>
@@ -304,12 +305,6 @@ _etymology_: Buda on the western shore of the Danube and Pest on the eastern sho
 **Administrative divisions**<br>
 <p>19 counties (megyek, singular - megye), 25 cities with county rights (megyei jogu varosok, singular - megyei jogu varos), and 1 capital city (fovaros)</p> <p><strong>counties:</strong> Bacs-Kiskun, Baranya, Bekes, Borsod-Abauj-Zemplen, Csongrad-Csanad, Fejer, Gyor-Moson-Sopron, Hajdu-Bihar, Heves, Jasz-Nagykun-Szolnok, Komarom-Esztergom, Nograd, Pest, Somogy, Szabolcs-Szatmar-Bereg, Tolna, Vas, Veszprem, Zala</p> <p><strong>cities with county rights:</strong> Baja, Bekescsaba, Debrecen, Dunaujvaros, Eger, Erd, Esztergom, Gyor, Hodmezovasarhely, Kaposvar, Kecskemet, Miskolc, Nagykanizsa, Nyiregyhaza, Pecs, Salgotarjan, Sopron, Szeged, Szekesfehervar, Szekszard, Szolnok, Szombathely, Tatabanya, Veszprem, Zalaegerszeg</p> <p><strong>capital city:</strong> Budapest</p><br>
 
-**Independence**<br>
-16 November 1918 (republic proclaimed); notable earlier dates: 25 December 1000 (crowning of King STEPHEN I, traditional founding date); 30 March 1867 (Austro-Hungarian dual monarchy established)<br>
-
-**National holiday**<br>
-Saint Stephen's Day, 20 August (1083); note - commemorates his canonization and the transfer of his remains to Buda (now Budapest) in 1083<br>
-
 **Legal system**<br>
 civil system influenced by the German model<br>
 
@@ -357,9 +352,6 @@ _subordinate courts_: 5 regional courts of appeal; 19 regional or county courts 
 **Political parties**<br>
 Christian Democratic People's Party or KDNP<br>Democratic Coalition or DK<br>Dialogue for Hungary or Párbeszéd<br>Fidesz-Hungarian Civic Alliance or Fidesz<br>Hungarian Socialist Party or MSZP<br>Jobbik - Conservatives or Jobbik<br>LMP-Hungary's Green Party or LMP<br>Mi Hazank (Our Homeland Movement) or MHM<br>Momentum Movement or Momentum<br>Movement for a Better Hungary or Jobbik<br>National Self-Government of Germans in Hungary or MNOÖ<br>On the People's Side or A Nép Pártján<br>Our Homeland Movement or Mi Hazánk<br>TISZA – Respect and Freedom Party or TISZA<br>
 
-**International organization participation**<br>
-Australia Group, BIS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA (cooperating state), EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Szabolcs Ferenc TAK&Aacute;CS (since 23 December 2020)<br>
 _chancery_: 1500 Rhode Island Avenue, N.W.<br>Washington, D.C. 20005<br>
@@ -377,11 +369,23 @@ _telephone_: [36] (1) 475-4400<br>
 _FAX_: [36] (1) 475-4248<br>
 _email address and website_: <br>acs.budapest@state.gov<br><br>https://hu.usembassy.gov/<br>
 
+**International organization participation**<br>
+Australia Group, BIS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA (cooperating state), EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+16 November 1918 (republic proclaimed); notable earlier dates: 25 December 1000 (crowning of King STEPHEN I, traditional founding date); 30 March 1867 (Austro-Hungarian dual monarchy established)<br>
+
+**National holiday**<br>
+Saint Stephen's Day, 20 August (1083); note - commemorates his canonization and the transfer of his remains to Buda (now Budapest) in 1083<br>
+
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and green; the flag dates to the national movement of the 18th and 19th centuries and fuses the medieval colors of the Hungarian coat of arms with the revolutionary tricolor of the French flag; folklore attributes virtues to the colors: red for strength, white for faithfulness, and green for hope; alternatively, the red can stand for the blood spilled in defense of the land, white for freedom, and green for pasturelands&nbsp;<br>
 
 **National symbol(s)**<br>
-Holy Crown of Hungary (Crown of Saint Stephen); national colors: red, white, green<br>
+Holy Crown of Hungary (Crown of Saint Stephen)<br>
+
+**National colors**<br>
+red, white, green<br>
 
 **National anthem**<br>
 _name_: "Himnusz" (Hymn)<br>

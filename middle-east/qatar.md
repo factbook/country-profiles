@@ -171,8 +171,9 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-2.9% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 2.9% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 7.4% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.02 physicians/1,000 population (2023)<br>
@@ -206,11 +207,11 @@ _female_: 2.3% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 65.8% (2023 est.)<br>
 
-**Education expenditures**<br>
-3.2% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.2% of GDP (2020 est.)<br>
+_Education expenditure (% national budget)_: 9.3% national budget (2020 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 93.5%<br>
 _male_: 92.4%<br>
 _female_: 94.7% (2017)<br>
@@ -287,12 +288,6 @@ _etymology_: the name is derived from the Arabic <em>ad-dawha</em>, meaning "the
 **Administrative divisions**<br>
 8 municipalities (baladiyat, singular - baladiyah); Ad Dawhah, Al Khawr wa adh Dhakhirah, Al Wakrah, Ar Rayyan, Ash Shamal, Ash Shihaniyah, Az Za'ayin, Umm Salal<br>
 
-**Independence**<br>
-3 September 1971 (from the UK)<br>
-
-**National holiday**<br>
-National Day, 18 December (1878), anniversary of Al Thani family accession to the throne; Independence Day, 3 September (1971)<br>
-
 **Legal system**<br>
 mixed system of civil law and Islamic (sharia) law (in family and personal matters)<br>
 
@@ -337,9 +332,6 @@ _subordinate courts_: Courts of Appeal; Administrative Court; Courts of First In
 **Political parties**<br>
 political parties are banned<br>
 
-**International organization participation**<br>
-ABEDA, AFESD, AMF, CAEU, CD, CICA (observer), EITI (implementing country), FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OAS (observer), OIC, OIF, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Meshal bin Hamad AL THANI (since 24 April 2017)<br>
 _chancery_: 2555 M Street NW, Washington, DC 20037<br>
@@ -356,12 +348,24 @@ _telephone_: [974] 4496-6000<br>
 _FAX_: [974] 4488-4298<br>
 _email address and website_: <br>PasDoha@state.gov<br><br>https://qa.usembassy.gov/<br>
 
+**International organization participation**<br>
+ABEDA, AFESD, AMF, CAEU, CD, CICA (observer), EITI (implementing country), FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OAS (observer), OIC, OIF, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+3 September 1971 (from the UK)<br>
+
+**National holiday**<br>
+National Day, 18 December (1878), anniversary of Al Thani family accession to the throne; Independence Day, 3 September (1971)<br>
+
 **Flag description**<br>
 maroon with a broad white serrated band on the hoist side; maroon stands for the blood shed in Qatari wars, and white for peace; the nine-pointed serrated edge is a reference to Qatar's status as the ninth member of the "reconciled emirates" after the Qatari-British treaty of 1916<br>
 <strong>note:</strong> the other eight emirates are Bahrain and the seven that are part of the UAE<br>
 
 **National symbol(s)**<br>
-a maroon field surmounted by a white serrated band with nine white points; national colors: maroon, white<br>
+a white serrated band with nine white points on top of a maroon field<br>
+
+**National colors**<br>
+maroon, white<br>
 
 **National anthem**<br>
 _name_: "Al-Salam Al-Amiri" (The Amiri Salute)<br>

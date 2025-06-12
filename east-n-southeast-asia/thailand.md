@@ -182,8 +182,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-5.2% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.2% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 16.1% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.54 physicians/1,000 population (2021)<br>
@@ -225,14 +226,14 @@ _women married by age 15_: 5.5% (2022)<br>
 _women married by age 18_: 17% (2022)<br>
 _men married by age 18_: 5.8% (2022)<br>
 
-**Education expenditures**<br>
-3.2% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.5% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 11.6% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 94.1%<br>
-_male_: 95.5%<br>
-_female_: 92.8% (2021)<br>
+_total population_: 91.1% (2022 est.)<br>
+_male_: 90.7% (2022 est.)<br>
+_female_: 91.5% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -316,12 +317,6 @@ _etymology_: the name is from the Thai words <em>bang </em>(region) and <em>kok 
 **Administrative divisions**<br>
 76 provinces (changwat, singular and plural) and 1 municipality* (maha nakhon); Amnat Charoen, Ang Thong, Bueng Kan, Buri Ram, Chachoengsao, Chai Nat, Chaiyaphum, Chanthaburi, Chiang Mai, Chiang Rai, Chon Buri, Chumphon, Kalasin, Kamphaeng Phet, Kanchanaburi, Khon Kaen, Krabi, Krung Thep* (Bangkok), Lampang, Lamphun, Loei, Lop Buri, Mae Hong Son, Maha Sarakham, Mukdahan, Nakhon Nayok, Nakhon Pathom, Nakhon Phanom, Nakhon Ratchasima, Nakhon Sawan, Nakhon Si Thammarat, Nan, Narathiwat, Nong Bua Lamphu, Nong Khai, Nonthaburi, Pathum Thani, Pattani, Phangnga, Phatthalung, Phayao, Phetchabun, Phetchaburi, Phichit, Phitsanulok, Phra Nakhon Si Ayutthaya, Phrae, Phuket, Prachin Buri, Prachuap Khiri Khan, Ranong, Ratchaburi, Rayong, Roi Et, Sa Kaeo, Sakon Nakhon, Samut Prakan, Samut Sakhon, Samut Songkhram, Saraburi, Satun, Sing Buri, Si Sa Ket, Songkhla, Sukhothai, Suphan Buri, Surat Thani, Surin, Tak, Trang, Trat, Ubon Ratchathani, Udon Thani, Uthai Thani, Uttaradit, Yala, Yasothon<br>
 
-**Independence**<br>
-1238 (traditional founding date; never colonized)<br>
-
-**National holiday**<br>
-Birthday of King WACHIRALONGKON, 28 July (1952)<br>
-
 **Legal system**<br>
 civil law system with common law influences<br>
 
@@ -380,9 +375,6 @@ _subordinate courts_: courts of first instance and appeals courts within both th
 **Political parties**<br>
 Bhumjaithai Party or BJT (aka Phumchai Thai Party or PJT; aka Thai Pride Party) <br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP<br>Move Forward Party or MFP (dissolved by order of the Constitutional Court, August 2024)<br>Palang Pracharat Party (People's State Power Party) or PPRP <br>Pheu (Puea) Thai Party (For Thais Party) or PTP <br>Prachachat Party or PCC <br>Prachathipat Party (Democrat Party) or DP <br>Thai Sang Thai Party <br>United Thai Nation (Ruam Thai Sang Chat) or UTN<br>
 
-**International organization participation**<br>
-ADB, APEC, ARF, ASEAN, BIMSTEC, BIS, CD, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE (partner), PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMOGIP, UNOOSA, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Dr. SURIYA Chindawongse (since 17 June 2024)<br>
 _chancery_: 1024 Wisconsin Avenue NW, Suite 401, Washington, DC 20007<br>
@@ -400,15 +392,27 @@ _FAX_: [66] 2-205-4103<br>
 _email address and website_: <br>acsbkk@state.gov<br><br>https://th.usembassy.gov/<br>
 _consulate(s) general_: Chiang Mai<br>
 
+**International organization participation**<br>
+ADB, APEC, ARF, ASEAN, BIMSTEC, BIS, CD, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE (partner), PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMOGIP, UNOOSA, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+1238 (traditional founding date; never colonized)<br>
+
+**National holiday**<br>
+Birthday of King WACHIRALONGKON, 28 July (1952)<br>
+
 **Flag description**<br>
 five horizontal bands of red (top), white, blue (double-width), white, and red; the red color stands for the nation and the blood of life, white for religion and the purity of Buddhism, and blue for the monarchy<br>
 <strong>note:</strong> similar to the flag of Costa Rica but with the blue and red colors reversed<br>
 
 **National symbol(s)**<br>
-garuda (mythical half-man, half-bird figure), elephant; national colors: red, white, blue<br>
+garuda (mythical half-man, half-bird figure), elephant<br>
+
+**National colors**<br>
+red, white, blue<br>
 
 **National coat of arms**<br>
-<p>In 1911, King Vajiravudh (Rama VI) of Thailand officially adopted the Garuda as the national coat of arms and emblem. This mythological half-man, half-bird figure from the Hindu and Buddhist traditions is considered the vahana (vehicle) of the god Vishnu (Narayana) and was a symbol of royalty in Thailand for centuries.</p><br>
+in 1911, King Vajiravudh (Rama VI) of Thailand officially adopted the Garuda as the national coat of arms and emblem; this mythological half-man, half-bird figure from the Hindu and Buddhist traditions is considered the <em>vahana </em>(vehicle) of the god Vishnu (Narayana) and was a symbol of royalty in Thailand for centuries<br>
 
 **National anthem**<br>
 _name_: "Phleng Chat Thai" (National Anthem of Thailand)<br>

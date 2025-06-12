@@ -173,8 +173,9 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-9.6% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 9.6% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 14.8% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.58 physicians/1,000 population (2019)<br>
@@ -208,11 +209,11 @@ _female_: 29% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 63.8% (2023 est.)<br>
 
-**Education expenditures**<br>
-NA<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 10.4% national budget (2021 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 98.1%<br>
 _male_: 99.4%<br>
 _female_: 98.1% (2021)<br>
@@ -290,19 +291,13 @@ _etymology_: the name derives from the Turkish word <em>saray</em>, meaning "pal
 **Administrative divisions**<br>
 3 first-order administrative divisions - Brcko District (Brcko Distrikt) (ethnically mixed), Federation of Bosnia and Herzegovina (Federacija Bosne i Hercegovine) (predominantly Bosniak-Croat), Republika Srpska (predominantly Serb)<br>
 
-**Independence**<br>
-1 March 1992 (from Yugoslavia); note - referendum for independence completed on 1 March 1992; independence declared on 3 March 1992<br>
-
-**National holiday**<br>
-Independence Day, 1 March (1992) and Statehood Day, 25 November (1943) - both observed in the Federation of Bosnia and Herzegovina entity; Victory Day, 9 May (1945) and Dayton Agreement Day, 21 November (1995) - both observed in the Republika Srpska entity<br>
-<strong>note:</strong> there is no national-level holiday<br>
-
 **Legal system**<br>
 civil law system; Constitutional Court review of legislative acts<br>
 
 **Constitution**<br>
-_history_: 14 December 1995 (constitution included as part of the Dayton Peace Accords); note - each of the political entities has its own constitution<br>
+_history_: 14 December 1995 (constitution included as part of the Dayton Peace Accords)<br>
 _amendment process_: decided by the Parliamentary Assembly, including a two-thirds majority vote of members present in the House of Representatives; the constitutional article on human rights and fundamental freedoms cannot be amended<br>
+<strong>note:</strong> each of the political entities has its own constitution<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -356,10 +351,6 @@ _subordinate courts_: the Federation has 10 cantonal courts plus a number of mun
 **Political parties**<br>
 Alliance of Independent Social Democrats or SNSD <br>Bosnian-Herzegovinian Initiative or BHI KF <br>Civic Alliance or GS <br>Croatian Democratic Union of Bosnia and Herzegovina or HDZ-BiH <br>Democratic Front or DF <br>Democratic Union or DEMOS<br>For Justice and Order<br>Our Party or NS/HC <br>Party for Democratic Action or SDA <br>Party of Democratic Progress or PDP <br>People and Justice Party or NiP <br>People's European Union of Bosnia and Herzegovina or NES <br>Serb Democratic Party or SDS <br>Social Democratic Party or SDP<br>United Srpska or US<br>
 
-**International organization participation**<br>
-BIS, CD, CE, CEI, EAPC, EBRD, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM (observer), OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
-<strong>note</strong>: Bosnia-Herzegovina is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Sven ALKALAJ (since 30 June 2023)<br>
 _chancery_: 2109 E Street NW, Washington, DC 20037<br>
@@ -377,12 +368,27 @@ _FAX_: [387] (33) 659-722<br>
 _email address and website_: <br>sarajevoACS@state.gov<br><br>https://ba.usembassy.gov/<br>
 _branch office(s)_: Banja Luka, Mostar<br>
 
+**International organization participation**<br>
+BIS, CD, CE, CEI, EAPC, EBRD, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM (observer), OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
+<strong>note</strong>: Bosnia-Herzegovina is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
+
+**Independence**<br>
+1 March 1992 (from Yugoslavia)<br>
+<strong>note:</strong> referendum for independence completed on 1 March 1992; independence declared on 3 March 1992<br>
+
+**National holiday**<br>
+Independence Day, 1 March (1992) and Statehood Day, 25 November (1943) - both observed in the Federation of Bosnia and Herzegovina entity; Victory Day, 9 May (1945) and Dayton Agreement Day, 21 November (1995) - both observed in the Republika Srpska entity<br>
+<strong>note:</strong> there is no national-level holiday<br>
+
 **Flag description**<br>
 a wide blue vertical band on the fly side, with a yellow isosceles triangle; the rest of the flag is blue with seven five-pointed white stars and two half-stars along the hypotenuse of the triangle; the triangle approximates the shape of the country, and its three points stand for the Bosniaks, Croats, and Serbs; the stars represent Europe; the colors (white, blue, and yellow) are traditional to Bosnia and are also associated with neutrality and peace<br>
 <strong>note:</strong> one of four national flags that reflect the shape of the country in the flag design; the others are Brazil, Eritrea, and Vanuatu<br>
 
 **National symbol(s)**<br>
-golden lily; national colors: blue, yellow, white<br>
+golden lily<br>
+
+**National colors**<br>
+blue, yellow, white<br>
 
 **National anthem**<br>
 _name_: "Drzavna himna Bosne i Hercegovine" (The National Anthem of Bosnia and Herzegovina)<br>

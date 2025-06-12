@@ -181,8 +181,9 @@ _unimproved: urban_: urban: 0.9% of population<br>
 _unimproved: rural_: rural: 1.3% of population<br>
 _unimproved: total_: total: 1% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-4.6% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 4.6% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 10% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.24 physicians/1,000 population (2022)<br>
@@ -223,14 +224,14 @@ _female_: 20.1% (2025 est.)<br>
 _women married by age 15_: 2% (2018)<br>
 _women married by age 18_: 14.7% (2018)<br>
 
-**Education expenditures**<br>
-3.4% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.1% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 8.6% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 96.7%<br>
-_male_: 99.1%<br>
-_female_: 94.4% (2019)<br>
+_total population_: 97% (2021 est.)<br>
+_male_: 99% (2021 est.)<br>
+_female_: 95% (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years<br>
@@ -313,12 +314,6 @@ _etymology_: the name probably derives from the Indo-European root word <em>ang<
 **Administrative divisions**<br>
 81 provinces (iller, singular - ili); Adana, Adiyaman, Afyonkarahisar, Agri, Aksaray, Amasya, Ankara, Antalya, Ardahan, Artvin, Aydin, Balikesir, Bartin, Batman, Bayburt, Bilecik, Bingol, Bitlis, Bolu, Burdur, Bursa, Canakkale, Cankiri, Corum, Denizli, Diyarbakir, Duzce, Edirne, Elazig, Erzincan, Erzurum, Eskisehir, Gaziantep, Giresun, Gumushane, Hakkari, Hatay, Igdir, Isparta, Istanbul, Izmir (Smyrna), Kahramanmaras, Karabuk, Karaman, Kars, Kastamonu, Kayseri, Kilis, Kirikkale, Kirklareli, Kirsehir, Kocaeli, Konya, Kutahya, Malatya, Manisa, Mardin, Mersin, Mugla, Mus, Nevsehir, Nigde, Ordu, Osmaniye, Rize, Sakarya, Samsun, Sanliurfa, Siirt, Sinop, Sirnak, Sivas, Tekirdag, Tokat, Trabzon (Trebizond), Tunceli, Usak, Van, Yalova, Yozgat, Zonguldak<br>
 
-**Independence**<br>
-29 October 1923 (republic proclaimed, succeeding the Ottoman Empire)<br>
-
-**National holiday**<br>
-Republic Day, 29 October (1923)<br>
-
 **Legal system**<br>
 civil law system based on various European systems, notably the Swiss civil code<br>
 
@@ -365,10 +360,6 @@ _subordinate courts_: regional appeals courts; basic (first instance) courts; pe
 **Political parties**<br>
 Democracy and Progress Party or DEVA<br>Democrat Party or DP<br>Democratic Regions Party or DBP<br>Felicity Party (Saadet Party) or SP<br>Free Cause Party or HUDA PAR<br>Future Party (Gelecek Partisi) or GP<br>Good Party or IYI<br>Grand Unity Party or BBP <br>Justice and Development Party or AKP <br>Labor and Freedom Alliance (electoral alliance includes YSGP, HDP, TIP)<br>Nationalist Movement Party or MHP <br>New Welfare Party or YRP <br>Party of Greens and the Left Future or YSGP <br>People's Alliance (electoral alliance includes AKP, BBP, MHP, YRP)<br>Peoples' Democratic Party or HDP<br>Republican People's Party or CHP <br>Workers' Party of Turkey or TIP<br>
 
-**International organization participation**<br>
-ADB (nonregional member), Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CERN (observer), CICA, CPLP (associate observer), D-8, EAPC, EBRD, ECO, EU (candidate country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIC, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SCO (dialogue member), SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNRWA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-<strong>note</strong>: Turkey is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Sedat &Ouml;NAL (since 17 June 2024)<br>
 _chancery_: 2525 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -387,11 +378,24 @@ _email address and website_: <br>Ankara-ACS@state.gov<br><br>https://tr.usembass
 _consulate(s) general_: Istanbul<br>
 _consulate(s)_: Adana<br>
 
+**International organization participation**<br>
+ADB (nonregional member), Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CERN (observer), CICA, CPLP (associate observer), D-8, EAPC, EBRD, ECO, EU (candidate country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIC, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SCO (dialogue member), SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNRWA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+<strong>note</strong>: Turkey is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
+
+**Independence**<br>
+29 October 1923 (republic proclaimed, succeeding the Ottoman Empire)<br>
+
+**National holiday**<br>
+Republic Day, 29 October (1923)<br>
+
 **Flag description**<br>
 red with a vertical white crescent moon and five-pointed white star centered just outside the crescent opening; the flag colors and designs closely resemble the Ottoman Empire's flag; the crescent moon and star serve as insignia for Turkic peoples; according to one interpretation, the flag represents the reflection of the moon and a star in a pool of blood of Turkish warriors<br>
 
 **National symbol(s)**<br>
-vertical crescent moon with adjacent five-pointed star; national colors: red, white<br>
+vertical crescent moon with adjacent five-pointed star<br>
+
+**National colors**<br>
+red, white<br>
 
 **National anthem**<br>
 _name_: "Istiklal Marsi" (Independence March)<br>
@@ -697,7 +701,7 @@ mandatory military service for men at age 20; service can be delayed if in unive
 <strong>note 1:</strong> after completing six months of service, if a conscripted soldier wants to and is suitable for extending his military service, he may do so for an additional six months in return for a monthly salary; all male Turkish citizens over the age of 20 are required to undergo a one month military training period, but they can obtain an exemption from the remaining 5 months of their mandatory service by paying a fee <br><strong><br>note 2:</strong> as of 2021, women made up about 0.4% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-estimated few hundred (Azerbaijan); 250 Bosnia-Herzegovina (EUFOR); approximately 30-35,000 Cyprus; 800 Kosovo (NATO/KFOR); 130 Lebanon (UNIFIL); estimated 500 Libya; up to 5,000 Qatar; approximately 800 Somalia (training mission) (2024)<br>
+estimated 2-300 Azerbaijan; 250 Bosnia-Herzegovina (EUFOR); approximately 30-35,000 Cyprus; 800 Kosovo (NATO/KFOR); 130 Lebanon (UNIFIL); estimated 500 Libya; up to 5,000 Qatar; approximately 800 Somalia (2024)<br>
 <strong>note:</strong> Turkey maintains military forces in both Iraq and Syria; size estimates vary as some forces are long-term deployments while others are deployed for specific operations<br>
 
 **Military - note**<br>

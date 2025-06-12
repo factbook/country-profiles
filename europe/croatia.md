@@ -177,8 +177,9 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-8.1% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 8.1% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 13.7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.91 physicians/1,000 population (2022)<br>
@@ -212,11 +213,11 @@ _female_: 32.1% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 50.8% (2023 est.)<br>
 
-**Education expenditures**<br>
-5.5% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.8% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 10.7% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 99.4%<br>
 _male_: 99.7%<br>
 _female_: 99.2% (2021)<br>
@@ -301,12 +302,6 @@ _etymology_: the city's name means "beyond the bank (or ditch)"; <em>za </em>in 
 **Administrative divisions**<br>
 20 counties (zupanije, zupanija - singular) and 1 city* (grad - singular) with special county status; Bjelovarsko-Bilogorska (Bjelovar-Bilogora), Brodsko-Posavska (Brod-Posavina), Dubrovacko-Neretvanska (Dubrovnik-Neretva), Istarska (Istria), Karlovacka (Karlovac), Koprivnicko-Krizevacka (Koprivnica-Krizevci), Krapinsko-Zagorska (Krapina-Zagorje), Licko-Senjska (Lika-Senj), Medimurska (Medimurje), Osjecko-Baranjska (Osijek-Baranja), Pozesko-Slavonska (Pozega-Slavonia), Primorsko-Goranska (Primorje-Gorski Kotar), Sibensko-Kninska (Sibenik-Knin), Sisacko-Moslavacka (Sisak-Moslavina), Splitsko-Dalmatinska (Split-Dalmatia), Varazdinska (Varazdin), Viroviticko-Podravska (Virovitica-Podravina), Vukovarsko-Srijemska (Vukovar-Syrmia), Zadarska (Zadar), Zagreb*, Zagrebacka (Zagreb county)<br>
 
-**Independence**<br>
-25 June 1991 (from Yugoslavia); note - 25 June 1991 was the day the Croatian parliament voted for independence; following a three-month moratorium to allow the European Community to solve the Yugoslav crisis peacefully, parliament adopted a decision on 8 October 1991 to sever constitutional relations with Yugoslavia; notable earlier dates: ca. 925 (Kingdom of Croatia established); 1 December 1918 (Kingdom of Serbs, Croats, and Slovenes (Yugoslavia) established)<br>
-
-**National holiday**<br>
-Statehood Day (National Day), 30 May (1990); note - marks the day in 1990 that the first modern multi-party Croatian parliament convened<br>
-
 **Legal system**<br>
 civil law system influenced by legal heritage of Austria-Hungary<br>
 
@@ -355,9 +350,6 @@ _subordinate courts_: Administrative Court; county, municipal, and specialized c
 **Political parties**<br>
 Bosniaks Together<br>The Bridge or MOST (formerly the Bridge of Independent Lists)<br>Croatia Romani Union Kali Sara (SRRH)<br>Croatian Democratic Union or HDZ<br>Democratic Union of Hungarians in Croatia (DZMH)<br>Focus or Fokus<br>Homeland Movement or DP (also known as Miroslav Škoro Homeland Movement or DPMS)<br>Independent Democratic Serb Party or SDSS <br>Independent Platform of the North (NPS)<br>Istrian Democratic Assembly or IDS<br>Social Democratic Party of Croatia or SDP<br>We Can! or Mozemo! <br>
 
-**International organization participation**<br>
-AIIB, Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FAO, G-11, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM (observer), NATO, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Pjer &Scaron;IMUNOVIĆ (since 8 September 2017)<br>
 _chancery_: 2343 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -375,12 +367,25 @@ _telephone_: [385] (1) 661-2200<br>
 _FAX_: [385] (1) 665-8933<br>
 _email address and website_: <br>ZagrebACS@state.gov<br><br>https://hr.usembassy.gov/<br>
 
+**International organization participation**<br>
+AIIB, Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FAO, G-11, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM (observer), NATO, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+25 June 1991 (from Yugoslavia); notable earlier dates: ca. 925 (Kingdom of Croatia established), 1 December 1918 (Kingdom of Serbs, Croats, and Slovenes established, later became Yugoslavia)<br>
+<strong>note:</strong> 25 June 1991 was the day the Croatian parliament voted for independence; the legislature adopted a decision on 8 October 1991 to sever constitutional relations with Yugoslavia<br>
+
+**National holiday**<br>
+Statehood Day (National Day), 30 May (1990); note - marks the day in 1990 that the first modern multi-party Croatian parliament convened<br>
+
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and blue -- the pan-Slav colors -- with the Croatian coat of arms in the center; the coat of arms consists of a main shield (a checkerboard of 13 red and 12 silver fields) with five smaller shields that form a crown over the main shield; the small shields represent the five historic regions (from left to right): Croatia, Dubrovnik, Dalmatia, Istria, and Slavonia<br>
 <strong>note:</strong> Russia's 19th-century flag inspired the pan-Slav colors<br>
 
 **National symbol(s)**<br>
-red-white checkerboard; national colors: red, white, blue<br>
+red-and-white checkerboard<br>
+
+**National colors**<br>
+red, white, blue<br>
 
 **National anthem**<br>
 _name_: "Lijepa nasa domovino" (Our Beautiful Homeland)<br>

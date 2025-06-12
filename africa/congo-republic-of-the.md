@@ -181,8 +181,9 @@ _unimproved: urban_: urban: 2.5% of population<br>
 _unimproved: rural_: rural: 43.6% of population<br>
 _unimproved: total_: total: 15.8% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-3.9% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 3.9% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 3.5% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.17 physicians/1,000 population (2022)<br>
@@ -218,11 +219,11 @@ _women married by age 15_: 6.9% (2015)<br>
 _women married by age 18_: 27.3% (2015)<br>
 _men married by age 18_: 5.6% (2018 est.)<br>
 
-**Education expenditures**<br>
-4.5% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.3% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 14.7% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 80.6%<br>
 _male_: 85.9%<br>
 _female_: 75.4% (2021)<br>
@@ -255,9 +256,6 @@ _other_: 4.5% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 69.2% of total population (2023)<br>
 _rate of urbanization_: 3.19% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to floods -</em> above average rainfall amounts since November 2022 triggered flooding in December 2022 and January 2023 in central and northern parts of the country, displacing people; according to damage assessment reports, about 165,000 people have been affected in 23 districts in the departments of Cuvette, Likouala, Plateaux and Sangha (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 29.48 micrograms per cubic meter (2019 est.)<br>
@@ -307,12 +305,6 @@ _etymology_: named after the Italian-born French explorer and humanitarian, Pier
 
 **Administrative divisions**<br>
 12 departments (departments, singular - department); Bouenza, Brazzaville, Cuvette, Cuvette-Ouest, Kouilou, Lekoumou, Likouala, Niari, Plateaux, Pointe-Noire, Pool, Sangha<br>
-
-**Independence**<br>
-15 August 1960 (from France)<br>
-
-**National holiday**<br>
-Independence Day, 15 August (1960)<br>
 
 **Legal system**<br>
 mixed system of French civil law and customary law<br>
@@ -373,9 +365,6 @@ _subordinate courts_: Court of Audit and Budgetary Discipline; courts of appeal;
 **Political parties**<br>
 Alliance of the Presidential Majority or AMP<br>Action Movement for Renewal or MAR <br>Citizen's Rally or RC <br>Congolese Labour Party or PCT <br>Congolese Movement for Democracy and Integral Development or MCDDI <br>Congo on the Move or LCEM <br>Movement for Unity, Solidarity, and Work or MUST <br>Pan-African Union for Social Development or UPADS <br>Club 2002-Party for the Unity and the Republic or Club 2002 <br>Patriotic Union for Democracy and Progress or UPDP <br>Perspectives and Realities Club or CPR <br>Rally for Democracy and Social Progress or RDPS <br>Republican and Liberal Party or PRL <br>Union of Democratic Forces or UDF <br>Union for Democracy and Republic or UDR<br>Union of Humanist Democrats or UDH-YUKI <br>Union for the Republic or UR <br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LCBC (observer), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Serge MOMBOULI (since 31 July 2001)<br>
 _chancery_: 1720 16th Street NW, Washington, DC 20009<br>
@@ -390,12 +379,24 @@ _mailing address_: 2090 Brazzaville Place, Washington DC 20521-2090<br>
 _telephone_: [242] 06 612-2000, [242] 05 387-9700<br>
 _email address and website_: <br>BrazzavilleACS@state.gov<br><br>https://cg.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LCBC (observer), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+15 August 1960 (from France)<br>
+
+**National holiday**<br>
+Independence Day, 15 August (1960)<br>
+
 **Flag description**<br>
 divided diagonally from the lower hoist side by a yellow band; the upper triangle (hoist side) is green and the lower triangle is red; green symbolizes agriculture and forests, and yellow the friendship and nobility of the people; the meaning of the red color is not noted but has been associated with the struggle for independence<br>
 <strong>note:</strong> uses the popular pan-African colors of Ethiopia<br>
 
 **National symbol(s)**<br>
-lion, elephant; national colors: green, yellow, red<br>
+lion, elephant<br>
+
+**National colors**<br>
+green, yellow, red<br>
 
 **National anthem**<br>
 _name_: "La Congolaise" (The Congolese)<br>

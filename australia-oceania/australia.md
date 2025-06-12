@@ -189,8 +189,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-10.5% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 10.5% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 20.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 4.09 physicians/1,000 population (2022)<br>
@@ -224,8 +225,9 @@ _female_: 9.2% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 55.9% (2023 est.)<br>
 
-**Education expenditures**<br>
-6.1% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 5.2% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 13.9% national budget (2022 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -317,12 +319,6 @@ _etymology_: the name may derive from the Aboriginal word <em>nganbirra</em>, me
 **Dependent areas**<br>
 Ashmore and Cartier Islands, Christmas Island, Cocos (Keeling) Islands, Coral Sea Islands, Heard Island and McDonald Islands, Jervis Bay, Norfolk Island (7)<br>
 
-**Independence**<br>
-1 January 1901 (from the federation of UK colonies)<br>
-
-**National holiday**<br>
-Australia Day (commemorates the arrival of the First Fleet of Australian settlers), 26 January (1788); ANZAC Day (commemorates the anniversary of the landing of troops of the Australian and New Zealand Army Corps during World War I at Gallipoli, Turkey), 25 April (1915)<br>
-
 **Legal system**<br>
 common law system based on the English model<br>
 
@@ -381,9 +377,6 @@ _subordinate courts_: subordinate courts: <em>at the federal level:</em> Federal
 Australian Greens Party or The Greens <br>Australian Labor Party or ALP <br>Centre Alliance (formerly known as the Nick Xenophon Team or NXT)<br>Jacqui Lambie Network or JLN <br>Katter's Australian Party <br>Liberal Party of Australia <br>The Nationals <br>One Nation or ONP <br>United Australia Party <br>
 <strong>note:</strong> the Labor Party is Australia’s oldest political party, established federally in 1901; the present Liberal Party was formed in 1944; the Country Party was formed in 1920, renamed the National Country Party in 1975, the National Party of Australia in 1982, and since 2003 has been known as the Nationals; since the general election of 1949, the Liberal Party and the Nationals (under various names) when forming government have done so as a coalition<br>
 
-**International organization participation**<br>
-ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, EITI (implementing country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NEA, NSG, OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF, SAARC (observer), Quad, SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNMISS, UNMIT, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Kevin Michael RUDD (since 19 April 2023)<br>
 _chancery_: 1601 Massachusetts Avenue NW, Washington, DC 20036<br>
@@ -401,14 +394,26 @@ _FAX_: [61] (02) 9373-9184<br>
 _email address and website_: <br>AskEmbassyCanberra@state.gov<br><br>https://au.usembassy.gov/<br>
 _consulate(s) general_: Melbourne, Perth, Sydney<br>
 
+**International organization participation**<br>
+ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, EITI (implementing country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NEA, NSG, OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF, SAARC (observer), Quad, SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNMISS, UNMIT, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+1 January 1901 (from the federation of UK colonies)<br>
+
+**National holiday**<br>
+Australia Day (commemorates the arrival of the First Fleet of Australian settlers), 26 January (1788); ANZAC Day (commemorates the anniversary of the landing of troops of the Australian and New Zealand Army Corps during World War I at Gallipoli, Turkey), 25 April (1915)<br>
+
 **Flag description**<br>
 blue, with the flag of the UK in the upper hoist-side quadrant and a large seven-pointed star in the lower hoist-side quadrant; the star is known as the Commonwealth or Federation Star and represents the federation of the Australian colonies in 1901; the star has one point for each of the six original states and one representing all of Australia's internal and external territories; on the fly half is a representation of the Southern Cross constellation in white, with one small five-pointed star and four larger seven-pointed stars<br>
 
 **National symbol(s)**<br>
-Commonwealth Star (seven-pointed Star of Federation), golden wattle tree (Acacia pycnantha), kangaroo, emu; national colors: green, gold<br>
+Commonwealth Star (seven-pointed Star of Federation), golden wattle tree (<em>Acacia pycnantha</em>), kangaroo, emu<br>
+
+**National colors**<br>
+green, gold<br>
 
 **National coat of arms**<br>
-King George V granted the current Commonwealth Coat of Arms to Australia on 19 September 1912. The center of the shield has the symbols of Australia&rsquo;s six states. The kangaroo and the emu symbolize a nation moving forward, since neither animal can move backward easily. The gold Commonwealth Star sits above the shield, with six of the star&rsquo;s points representing the Australian states and the seventh point representing the territories. The gold and blue in the wreath under the star are the livery, or identifying, colors for the coat of arms. Australia&rsquo;s floral emblem, the golden wattle, frames the shield.<br>
+King George V of the United Kingdom granted the current Commonwealth Coat of Arms to Australia on 19 September 1912; the center of the shield has the symbols of Australia&rsquo;s six states; the kangaroo and the emu symbolize a nation moving forward, since neither animal can move backward easily; the gold Commonwealth star sits above the shield, with six points representing the Australian states and the seventh representing the territories; the gold and blue in the wreath under the star are the livery, or identifying, colors for the coat of arms; Australia&rsquo;s floral emblem, the golden wattle, frames the shield<br>
 
 **National anthem**<br>
 _name_: Advance Australia Fair<br>

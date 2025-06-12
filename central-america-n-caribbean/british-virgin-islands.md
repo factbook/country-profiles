@@ -169,8 +169,9 @@ _unimproved: total_: total: 2.5% of population (2015 est.)<br>
 **Currently married women (ages 15-49)**<br>
 46.6% (2023 est.)<br>
 
-**Education expenditures**<br>
-2.6% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.5% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 13.6% national budget (2025 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -231,12 +232,6 @@ _etymology_: name refers to the nautical term "roadstead" or "roads," a body of 
 **Administrative divisions**<br>
 none (overseas territory of the UK)<br>
 
-**Independence**<br>
-none (overseas territory of the UK)<br>
-
-**National holiday**<br>
-Territory Day, 1 July (1956)<br>
-
 **Legal system**<br>
 English common law<br>
 
@@ -275,20 +270,29 @@ _subordinate courts_: Magistrates' Courts<br>
 **Political parties**<br>
 National Democratic Party or NDP<br>Progressive Virgin Islands Movement or PVIM<br>Progressives United or PU<br>Virgin Islands Party or VIP<br>
 
-**International organization participation**<br>
-ACS (associate), Caricom (associate), CDB, Interpol (subbureau), IOC, OECS, UNESCO (associate), UPU<br>
-
 **Diplomatic representation in the US**<br>
 none (overseas territory of the UK)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (overseas territory of the UK)<br>
 
+**International organization participation**<br>
+ACS (associate), Caricom (associate), CDB, Interpol (subbureau), IOC, OECS, UNESCO (associate), UPU<br>
+
+**Independence**<br>
+none (overseas territory of the UK)<br>
+
+**National holiday**<br>
+Territory Day, 1 July (1956)<br>
+
 **Flag description**<br>
 blue with the UK flag in the upper hoist-side quadrant and the Virgin Islander coat of arms centered in the outer half of the flag; the coat of arms depicts a woman flanked by vertical columns of six oil lamps above a scroll bearing the Latin word VIGILATE (Be Watchful); Christopher COLUMBUS named the islands in 1493 in honor of Saint Ursula and her virgin followers, and the figure holding a lamp represents the saint, with the other lamps symbolizing her followers<br>
 
 **National symbol(s)**<br>
-zenaida dove, white cedar flower; national colors: yellow, green, red, white, blue<br>
+zenaida dove, white cedar flower<br>
+
+**National colors**<br>
+yellow, green, red, white, blue<br>
 
 **National anthem**<br>
 <p><strong>note:</strong> as an overseas territory of the United Kingdom, "God Save the King" is official (see United Kingdom)</p><br>

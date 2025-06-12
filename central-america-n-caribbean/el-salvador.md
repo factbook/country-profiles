@@ -172,8 +172,9 @@ _unimproved: urban_: urban: 0.4% of population<br>
 _unimproved: rural_: rural: 5.8% of population<br>
 _unimproved: total_: total: 1.8% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-9.7% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 9.7% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 21.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.62 physicians/1,000 population (2023)<br>
@@ -211,14 +212,14 @@ _female_: 1.7% (2025 est.)<br>
 _women married by age 15_: 4.3% (2021)<br>
 _women married by age 18_: 19.7% (2021)<br>
 
-**Education expenditures**<br>
-4.1% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.2% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 12.5% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 89.1%<br>
-_male_: 91.3%<br>
-_female_: 87.3% (2019)<br>
+_total population_: 90% (2023 est.)<br>
+_male_: 92% (2023 est.)<br>
+_female_: 88% (2023 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
@@ -286,12 +287,6 @@ _etymology_: Spanish colonists founded the city in 1526 on the feast day of the 
 **Administrative divisions**<br>
 14 departments (departamentos, singular - departamento); Ahuachapan, Cabanas, Chalatenango, Cuscatlan, La Libertad, La Paz, La Union, Morazan, San Miguel, San Salvador, San Vicente, Santa Ana, Sonsonate, Usulutan<br>
 
-**Independence**<br>
-15 September 1821 (from Spain)<br>
-
-**National holiday**<br>
-Independence Day, 15 September (1821)<br>
-
 **Legal system**<br>
 civil law system with minor common law influence; Supreme Court reviews legislative acts<br>
 
@@ -339,9 +334,6 @@ _subordinate courts_: Appellate Courts; Courts of First Instance; Courts of Peac
 **Political parties**<br>
 Christian Democratic Party or PDC<br>Farabundo Marti National Liberation Front or FMLN<br>Great Alliance for National Unity or GANA<br>National Coalition Party or PCN<br>Nationalist Republican Alliance or ARENA<br>New Ideas (Nuevas Ideas) or NI<br>Our Time (Nuestro Tiempo) or NT<br>Vamos or V<br>
 
-**International organization participation**<br>
-ACS, BCIE, CACM, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINURSO, MINUSTAH, NAM (observer), OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, Union Latina, UNISFA, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Carmen Milena MAYORGA VALERA (since 23 December 2020)<br>
 _chancery_: 1400 16th Street NW, Suite 100, Washington, DC 20036<br>
@@ -358,12 +350,24 @@ _telephone_: [503] 2501-2999<br>
 _FAX_: [503] 2501-2150<br>
 _email address and website_: <br>ACSSanSal@state.gov<br><br>https://sv.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACS, BCIE, CACM, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINURSO, MINUSTAH, NAM (observer), OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, Union Latina, UNISFA, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+15 September 1821 (from Spain)<br>
+
+**National holiday**<br>
+Independence Day, 15 September (1821)<br>
+
 **Flag description**<br>
 three equal horizontal bands of cobalt blue (top), white, and cobalt blue with the national coat of arms centered in the white band; the coat of arms features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands stand for the Pacific Ocean and the Caribbean Sea, and the white for the land, as well as peace and prosperity<br>
 <strong>note:</strong> similar to the flag of Nicaragua, which has a different coat of arms centered in the white band; also similar to the flag of Honduras, which has five blue stars arranged in an X pattern and centered in the white band<br>
 
 **National symbol(s)**<br>
-turquoise-browed motmot (bird); national colors: blue, white<br>
+turquoise-browed motmot (bird)<br>
+
+**National colors**<br>
+blue, white<br>
 
 **National anthem**<br>
 _name_: "Himno Nacional de El Salvador" (National Anthem of El Salvador)<br>

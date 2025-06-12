@@ -179,8 +179,9 @@ _unimproved: urban_: urban: 1.3% of population<br>
 _unimproved: rural_: rural: 16.2% of population<br>
 _unimproved: total_: total: 7.6% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-4.2% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 4.2% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 7.4% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.27 physicians/1,000 population (2023)<br>
@@ -222,14 +223,14 @@ _women married by age 15_: 3.3% (2022)<br>
 _women married by age 18_: 16.1% (2022)<br>
 _men married by age 18_: 2.4% (2022)<br>
 
-**Education expenditures**<br>
-3.9% of GDP (2018 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.9% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 13.2% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 79%<br>
-_male_: 83.5%<br>
-_female_: 74.5% (2018)<br>
+_total population_: 76.5% (2021 est.)<br>
+_male_: 81.3% (2021 est.)<br>
+_female_: 72.1% (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
@@ -302,12 +303,6 @@ _etymology_: the name derives from the Akan word <em>nkran</em>, meaning "ant," 
 **Administrative divisions**<br>
 16 regions; Ahafo, Ashanti, Bono, Bono East, Central, Eastern, Greater Accra, North East, Northern, Oti, Savannah, Upper East, Upper West, Volta, Western, Western North<br>
 
-**Independence**<br>
-6 March 1957 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 6 March (1957)<br>
-
 **Legal system**<br>
 mixed system of English common law and customary law<br>
 
@@ -354,9 +349,6 @@ _subordinate courts_: Court of Appeal; High Court; Circuit Court; District Court
 **Political parties**<br>
 All Peoples Congress or APC <br>Convention People's Party or CPP <br>Ghana Freedom Party or GFP <br>Ghana Union Movement or GUM <br>Great Consolidated Popular Party or GCPP <br>Liberal Party of Ghana or LPG <br>National Democratic Congress or NDC <br>National Democratic Party or NDP <br>New Patriotic Party or NPP <br>People's National Convention or PNC <br>Progressive People's Party or PPP <br>United Front Party or UFP <br>United Progressive Party or UPP <br>
 
-**International organization participation**<br>
-ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OAS (observer), OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires (vacant); note - The Embassy website notes Francis GBORGLAH is the Acting Head of Mission (since 5 February 2025)<br>
 _chancery_: 3512 International Drive NW, Washington, DC 20008<br>
@@ -372,12 +364,24 @@ _mailing address_: 2020 Accra Place, Washington DC&nbsp; 20521-2020<br>
 _telephone_: [233] (0) 30-274-1000<br>
 _email address and website_: <br>ACSAccra@state.gov<br><br>https://gh.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OAS (observer), OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+6 March 1957 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 6 March (1957)<br>
+
 **Flag description**<br>
 three equal horizontal bands of red (top), yellow, and green, with a large black five-pointed star centered in the yellow band; red stands for the blood shed for independence, yellow for the country's mineral wealth, and green for its forests and natural wealth; the black star is said to be the lodestar of African freedom<br>
 <strong>note:</strong> uses the popular pan-African colors of Ethiopia; similar to the flag of Bolivia, which has a coat of arms centered in the yellow band<br>
 
 **National symbol(s)**<br>
-black star, golden eagle; national colors: red, yellow, green, black<br>
+black star, golden eagle<br>
+
+**National colors**<br>
+red, yellow, green, black<br>
 
 **National anthem**<br>
 _name_: "God Bless Our Homeland Ghana"<br>

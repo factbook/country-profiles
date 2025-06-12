@@ -170,8 +170,9 @@ _unimproved: urban_: urban: 11.3% of population<br>
 _unimproved: rural_: rural: 24.2% of population<br>
 _unimproved: total_: total: 21.6% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-5.9% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.9% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 2.1% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.04 physicians/1,000 population (2022)<br>
@@ -190,11 +191,11 @@ _unimproved: total_: total: 75.4% of population (2020 est.)<br>
 **Currently married women (ages 15-49)**<br>
 72% (2023 est.)<br>
 
-**Education expenditures**<br>
-1.5% of GDP (2016 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 1.6% of GDP (2016 est.)<br>
+_Education expenditure (% national budget)_: 8.1% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 34.5%<br>
 _male_: 40.3%<br>
 _female_: 28.9% (2018)<br>
@@ -222,9 +223,6 @@ _other_: 44% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 21.2% of total population (2023)<br>
 _rate of urbanization_: 4.12% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_widespread lack of access_: <em>due to economic downturn, the lingering effects of floods, and prolonged internal conflict -</em> despite sustained humanitarian assistance, food insecurity still affects large segments of the population, owing to rampant inflation and insufficient food supplies due to stagnant agricultural production, the effects of consecutive years with widespread floods, and the escalation of organized violence at the sub-national level since 2020; about 7.76 million people, almost two thirds of the total population, are expected to face severe acute food insecurity in the lean season between April and July 2023; the high levels of cereal prices are mainly due to insufficient supplies, low foreign currency reserves, a weak national currency and high fuel prices; further upward pressure was exerted by reduced imports from neighboring Uganda, where exportable surpluses shrunk in 2022 following a reduced cereal production (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 20.18 micrograms per cubic meter (2019 est.)<br>
@@ -266,12 +264,6 @@ _etymology_: the name comes from the name of a small Bari village that was locat
 
 **Administrative divisions**<br>
 10 states; Central Equatoria, Eastern Equatoria, Jonglei, Lakes, Northern Bahr el Ghazal, Unity, Upper Nile, Warrap, Western Bahr el Ghazal, Western Equatoria; note - in 2015, the creation of 28 new states was announced and in 2017 four additional states; following the February 2020 peace agreement, the country was again reorganized into the 10 original states, plus 2 administrative areas, Pibor and Ruweng, and 1 special administrative status area, Abyei (which is disputed between South Sudan and Sudan); this latest administrative revision has not yet been vetted by the US Board on Geographic Names<br>
-
-**Independence**<br>
-9 July 2011 (from Sudan)<br>
-
-**National holiday**<br>
-Independence Day, 9 July (2011)<br>
 
 **Constitution**<br>
 _history_: previous 2005 (pre-independence); latest signed 7 July 2011, effective 9 July 2011 (Transitional Constitution of the Republic of South Sudan, 2011)<br>
@@ -323,9 +315,6 @@ _subordinate courts_: national level - Courts of Appeal; High Courts; County Cou
 **Political parties**<br>
 <p>Democratic Change or DC<br>Democratic Forum or DF<br>Labour Party or LPSS<br>South Sudan Opposition Alliance or SSOA<br>Sudan African National Union or SANU<br>Sudan People's Liberation Movement or SPLM<br>Sudan People’s Liberation Movement-In Opposition or SPLM-IO<br>United Democratic Salvation Front or UDSF    <br>United South Sudan African Party or USSAP<br>United South Sudan Party or USSP</p><br>
 
-**International organization participation**<br>
-AU, EAC, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, Interpol, IOM, IPU, ITU, MIGA, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WMO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Santino Fardol Watod DICKEN (since 18 September 2024)<br>
 _chancery_: 1015 31st Street NW, Suite 300, Washington, DC 20007<br>
@@ -340,12 +329,24 @@ _mailing address_: 4420 Juba Place, Washington DC&nbsp; 20521-4420<br>
 _telephone_: [211] 912-105-188<br>
 _email address and website_: <br>ACSJuba@state.gov<br><br>https://ss.usembassy.gov/<br>
 
+**International organization participation**<br>
+AU, EAC, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, Interpol, IOM, IPU, ITU, MIGA, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WMO<br>
+
+**Independence**<br>
+9 July 2011 (from Sudan)<br>
+
+**National holiday**<br>
+Independence Day, 9 July (2011)<br>
+
 **Flag description**<br>
 three equal horizontal bands of black (top), red, and green; the red band is edged in white; a blue isosceles triangle based on the hoist side has a gold, five-pointed star; black stands for the people, red for the blood shed in the struggle for freedom, green for the land, and blue for the Nile; the gold star represents the unity of the country's states<br>
 <strong>note:</strong> resembles the flag of Kenya; South Sudan has one of two national flags that display six colors as part of the primary design -- the other is South Africa's<br>
 
 **National symbol(s)**<br>
-African fish eagle; national colors: red, green, blue, yellow, black, white<br>
+African fish eagle<br>
+
+**National colors**<br>
+red, green, blue, yellow, black, white<br>
 
 **National anthem**<br>
 _name_: "South Sudan Oyee!" (Hooray!)<br>
@@ -573,11 +574,11 @@ South Sudan People’s Defense Force (SSPDF): Land Forces (includes Presidential
 <strong>note 1: </strong>the NUF are being formed by retraining rebel and pro-government militia fighters into military, police, and other government security forces; the first operational NUF deployed in November 2023<strong><br><br>note 2:</strong> numerous irregular forces operate in the country with official knowledge, including militias operated by the National Security Service (an internal security force under the Ministry of National Security) and proxy forces<br>
 
 **Military expenditures**<br>
+2% of GDP (2024 est.)<br>
 2% of GDP (2023 est.)<br>
 2% of GDP (2022 est.)<br>
 2% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
-3.1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; estimated 150-200,000 active Defense Forces (2025)<br>

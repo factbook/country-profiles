@@ -168,8 +168,9 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 0.2% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-6.4% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 6.4% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 9.4% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.44 physicians/1,000 population (2022)<br>
@@ -203,14 +204,14 @@ _female_: 2.6% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 62% (2023 est.)<br>
 
-**Education expenditures**<br>
-4.9% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.3% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 12.8% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 92.2%<br>
-_male_: 93.5%<br>
-_female_: 90.5% (2021)<br>
+_total population_: 93% (2016 est.)<br>
+_male_: 95% (2016 est.)<br>
+_female_: 91% (2016 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -279,12 +280,6 @@ _etymology_: named after LOUIS XV, who was king of France in 1736 when the port 
 **Administrative divisions**<br>
 9 districts and 3 dependencies*; Agalega Islands*, Black River, Cargados Carajos Shoals*, Flacq, Grand Port, Moka, Pamplemousses, Plaines Wilhems, Port Louis, Riviere du Rempart, Rodrigues*, Savanne<br>
 
-**Independence**<br>
-12 March 1968 (from the UK)<br>
-
-**National holiday**<br>
-Independence and Republic Day, 12 March (1968 & 1992); note - became independent and a republic on the same date in 1968 and 1992 respectively<br>
-
 **Legal system**<br>
 civil system based on French civil law with some elements of English common law<br>
 
@@ -333,9 +328,6 @@ _subordinate courts_: lower regional courts known as District Courts, Court of C
 **Political parties**<br>
 Alliance Morisien (Mauritian Alliance)<br>Jean-Claude Barbier Movement (Mouvement Jean-Claude Barbier) or MJCB<br>Mauritian Militant Movement (Mouvement Militant Mauricien) or MMM<br>Mauritian Social Democratic Party (Parti Mauricien Social Democrate) or PMSD<br>Mauritius Labor Party (Parti Travailliste) or PTR or MLP<br>Militant Platform (Plateforme Militante) or PM<br>Militant Socialist Movement (Mouvement Socialist Mauricien) or MSM<br>Muvman Liberater or ML<br>National Alliance<br>Patriotic Movement (Mouvement Patriotique) or MAG<br>Rodrigues Peoples Organization (Organisation du Peuple Rodriguais) or OPR<br>
 
-**International organization participation**<br>
-ACP, AfDB, AOSIS, AU, CD, COMESA, CPLP (associate), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, SAARC (observer), SADC, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Dhanandjay GOBOODUN (since 9 January 2025)<br>
 _chancery_: 1709 N Street NW, Washington, DC 20036<br>
@@ -351,12 +343,24 @@ _telephone_: [230] 202-4400<br>
 _FAX_: [230] 208-9534<br>
 _email address and website_: <br>PTLConsular@state.gov<br><br>https://mu.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AOSIS, AU, CD, COMESA, CPLP (associate), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, SAARC (observer), SADC, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+12 March 1968 (from the UK)<br>
+
+**National holiday**<br>
+Independence and Republic Day, 12 March (1968 & 1992); note - became independent and a republic on the same date in 1968 and 1992 respectively<br>
+
 **Flag description**<br>
 four equal horizontal bands of red (top), blue, yellow, and green; red stands for self-determination and independence, blue for the Indian Ocean, yellow for the new light of independence, golden sunshine, or the bright future, and green for agriculture or the island's lush vegetation<br>
 <strong>note:</strong> the flag of Mauritius is the only national flag with four horizontal color bands<br>
 
 **National symbol(s)**<br>
-dodo bird, Trochetia Boutoniana flower; national colors: red, blue, yellow, green<br>
+dodo bird, earring tree flower (<em>Trochetia boutoniana</em>)<br>
+
+**National colors**<br>
+red, blue, yellow, green<br>
 
 **National anthem**<br>
 _name_: "Motherland"<br>

@@ -176,8 +176,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 1.8% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-10.6% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 10.6% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 16.3% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.78 physicians/1,000 population (2023)<br>
@@ -219,14 +220,10 @@ _women married by age 15_: 1.9% (2018)<br>
 _women married by age 18_: 5.8% (2018)<br>
 _men married by age 18_: 3.2% (2018)<br>
 
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 99%<br>
-_male_: 99.4%<br>
-_female_: 98.5% (2021)<br>
+_total population_: 98.5% (2018 est.)<br>
+_male_: 99.1% (2018 est.)<br>
+_female_: 97.9% (2018 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -302,12 +299,6 @@ _etymology_: the Slavic name translates as "under the mountain," from <em>pod </
 **Administrative divisions**<br>
 25 municipalities (opstine, singular - opstina); Andrijevica, Bar, Berane, Bijelo Polje, Budva, Cetinje, Danilovgrad, Gusinje, Herceg Novi, Kolasin, Kotor, Mojkovac, Niksic, Petnjica, Plav, Pljevlja, Pluzine, Podgorica, Rozaje, Savnik, Tivat, Tuzi, Ulcinj, Zabljak, Zeta<br>
 
-**Independence**<br>
-3 June 2006 (from the State Union of Serbia and Montenegro); notable earlier dates: 13 March 1852 (Principality of Montenegro established); 13 July 1878 (Congress of Berlin recognizes Montenegrin independence); 28 August 1910 (Kingdom of Montenegro established)<br>
-
-**National holiday**<br>
-Statehood Day, 13 July (1878, the day the Berlin Congress recognized Montenegro as the 27th independent state in the world, and 1941, the day the Montenegrins staged an uprising against fascist occupiers and sided with the partisan communist movement)<br>
-
 **Legal system**<br>
 civil law<br>
 
@@ -354,10 +345,6 @@ _subordinate courts_: Administrative Courts; Appellate Court; Commercial Courts;
 **Political parties**<br>
 Albanian Alliance (electoral coalition includes FORCA, PD, DSCG)<br>Albanian Alternative or AA<br>Albanian Democratic League or LDSH<br>Albanian Forum (electoral coalition includes AA, LDSH, UDSH)<br>Aleksa and Dritan - Count Bravely! (electoral coalition includes Democrats, URA)<br>Bosniak Party or BS <br>Civic Movement United Reform Action or United Reform Action or URA <br>Croatian Civic Initiative or HGI <br>Democratic Alliance or DEMOS <br>Democratic League in Montenegro or DSCG<br>Democratic Montenegro or Democrats<br>Democratic Party of Socialists or DPS <br>Democratic People's Party or DNP <br>Democratic Union of Albanians or UDSH<br>Europe Now!<br>For the Future of Montenegro or ZBCG (coalition includes NSD, DNP, RP)<br>Liberal Party or LP <br>New Democratic Power or FORCA<br>New Serb Democracy or NSD or NOVA <br>Social Democrats or SD<br>Socialist People's Party or SNP <br>Together! (electoral coalition includes DPS, SD, LP, UDSH)<br>United Montenegro or UCG (split from DEMOS)<br>Workers' Party or RP <br>
 
-**International organization participation**<br>
-CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-<strong><strong>note: </strong></strong>Montenegro is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jovan MIRKOVIĆ (since 18 September 2024)<br>
 _chancery_: 1610 New Hampshire Avenue NW, Washington, DC, 20009<br>
@@ -374,11 +361,24 @@ _telephone_: [382] (0) 20-410-500<br>
 _FAX_: [382]&nbsp; (0) 20-241-358<br>
 _email address and website_: <br>PodgoricaACS@state.gov<br><br>https://me.usembassy.gov/<br>
 
+**International organization participation**<br>
+CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+<strong><strong>note: </strong></strong>Montenegro is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
+
+**Independence**<br>
+3 June 2006 (from the State Union of Serbia and Montenegro); notable earlier dates: 13 March 1852 (Principality of Montenegro established); 13 July 1878 (Congress of Berlin recognizes Montenegrin independence); 28 August 1910 (Kingdom of Montenegro established)<br>
+
+**National holiday**<br>
+Statehood Day, 13 July (1878, the day the Berlin Congress recognized Montenegro as the 27th independent state in the world, and 1941, the day the Montenegrins staged an uprising against fascist occupiers and sided with the partisan communist movement)<br>
+
 **Flag description**<br>
 a red field bordered with a narrow golden-yellow stripe and the Montenegrin coat of arms in the center; the arms consist of a double-headed golden eagle that symbolizes the unity of church and state, with a crown above; the eagle holds a golden scepter in its right claw and a blue orb in its left; the breast shield over the eagle shows a golden lion on a green field in front of a blue sky; the lion is a symbol of episcopal authority, a reference to the three-and-a-half centuries when Montenegro was ruled as a theocracy<br>
 
 **National symbol(s)**<br>
-double-headed eagle; national colors: red, gold<br>
+double-headed eagle<br>
+
+**National colors**<br>
+red, gold<br>
 
 **National anthem**<br>
 _name_: "Oj, svijetla majska zoro" (Oh, Bright Dawn of May)<br>

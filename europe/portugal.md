@@ -173,8 +173,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0.3% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-10.6% of GDP (2022)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 10.6% of GDP (2022)<br>
+_Health expenditure (as % of national budget)_: 14.8% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 5.85 physicians/1,000 population (2022)<br>
@@ -211,11 +212,11 @@ _female_: 15.9% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 52.6% (2023 est.)<br>
 
-**Education expenditures**<br>
-5% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.3% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 9.8% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 95.9%<br>
 _male_: 97.8%<br>
 _female_: 95.9% (2021)<br>
@@ -294,12 +295,6 @@ _etymology_: the origin of the name is unclear; some trace it back to the legend
 **Administrative divisions**<br>
 18 districts (distritos, singular - distrito) and 2 autonomous regions* (regioes autonomas, singular - regiao autonoma); Aveiro, Acores (Azores)*, Beja, Braga, Braganca, Castelo Branco, Coimbra, Evora, Faro, Guarda, Leiria, Lisboa (Lisbon), Madeira*, Portalegre, Porto, Santarem, Setubal, Viana do Castelo, Vila Real, Viseu<br>
 
-**Independence**<br>
-1143 (Kingdom of Portugal recognized); 1 December 1640 (independence reestablished following 60 years of Spanish rule); 5 October 1910 (republic proclaimed)<br>
-
-**National holiday**<br>
-Portugal Day (Dia de Portugal), 10 June (1580); note - also called Camoes Day, the day that revered national poet Luis DE CAMOES (1524-80) died<br>
-
 **Legal system**<br>
 civil law system; Constitutional Court reviews legislative acts<br>
 
@@ -346,9 +341,6 @@ _subordinate courts_: Supreme Administrative Court (Supremo Tribunal Administrat
 **Political parties**<br>
 Democratic Alliance or AD (2024 electoral alliance in the Azores, includes PSD, CDS-PP, PPM)<br>Democratic and Social Center/People's Party (Partido do Centro Democratico Social-Partido Popular) or CDS-PP<br>Ecologist Party "The Greens" or "Os Verdes" (Partido Ecologista-Os Verdes) or PEV<br>Enough (Chega)<br>Liberal Initiative (Iniciativa Liberal) or IL<br>LIVRE or L<br>People-Animals-Nature Party (Pessoas-Animais-Natureza) or PAN<br>People's Monarchist Party or PPM<br>Portuguese Communist Party (Partido Comunista Portugues) or PCP<br>Social Democratic Party (Partido Social Democrata) or PSD (formerly the Partido Popular Democratico or PPD)<br>Socialist Party (Partido Socialista) or PS<br>The Left Bloc (Bloco de Esquerda) or BE or O Bloco<br>Unitary Democratic Coalition (Coligacao Democratica Unitaria) or CDU (includes PCP and PEV) (2024)<br>
 
-**International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, CPLP, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Francisco Antonio DUARTE LOPES (since 7 June 2022)<br>
 _chancery_: 2012 Massachusetts Avenue NW, Washington, DC 20036<br>
@@ -367,11 +359,23 @@ _FAX_: [351] (21) 726-9109<br>
 _email address and website_: <br>conslisbon@state.gov<br><br>https://pt.usembassy.gov/<br>
 _consulate(s)_: Ponta Delgada (Azores)<br>
 
+**International organization participation**<br>
+ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, CPLP, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+1143 (Kingdom of Portugal recognized); 1 December 1640 (independence reestablished after 60 years of Spanish rule); 5 October 1910 (republic proclaimed)<br>
+
+**National holiday**<br>
+Portugal Day (Dia de Portugal), 10 June (1580); note - also called Camoes Day, the day that revered national poet Luis DE CAMOES (1524-80) died<br>
+
 **Flag description**<br>
 two vertical bands of green (hoist side, two-fifths) and red (three-fifths), with the national coat of arms (armillary sphere and national shield) centered on the dividing line; explanations for the color meanings are ambiguous, but a popular interpretation has green symbolizing hope and red the blood of those defending the nation<br>
 
 **National symbol(s)**<br>
-armillary sphere (a spherical astrolabe modeling objects in the sky and representing the Republic); national colors: red, green<br>
+armillary sphere (a spherical astrolabe for modeling objects in the sky)<br>
+
+**National colors**<br>
+red, green<br>
 
 **National anthem**<br>
 _name_: "A Portugesa" (The Song of the Portuguese)<br>
@@ -385,7 +389,7 @@ _selected World Heritage Site locales_: Historic Évora (c); Central Zone of the
 ## Economy
 
 **Economic overview**<br>
-high-income EU and eurozone economy; strong services sector led by tourism and banking; tight labor market; private consumption and export recovery driving post-inflation rebound; EU Recovery and Resilience Plan (RRP) funds a key driver of public investment; high public debt but improving fiscal position<br>
+<p>high-income EU and eurozone economy; strong services sector led by tourism and banking; tight labor market; growth driven by private consumption, trade surplus, and public investment from EU funds; declining public debt</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $441.697 billion (2023 est.)<br>

@@ -175,8 +175,9 @@ _unimproved: urban_: urban: 16.1% of population<br>
 _unimproved: rural_: rural: 52.5% of population<br>
 _unimproved: total_: total: 37.1% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-9.1% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 9.1% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 9% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.07 physicians/1,000 population (2023)<br>
@@ -210,14 +211,14 @@ _women married by age 15_: 25.8% (2019)<br>
 _women married by age 18_: 61% (2019)<br>
 _men married by age 18_: 17.1% (2019)<br>
 
-**Education expenditures**<br>
-2.2% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 1.8% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 10% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 37.5%<br>
-_male_: 49.2%<br>
-_female_: 26.2% (2020)<br>
+_total population_: 42.4% (2019 est.)<br>
+_male_: 59.8% (2019 est.)<br>
+_female_: 27.1% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 7 years<br>
@@ -247,9 +248,6 @@ _other_: 55.3% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 43.6% of total population (2023)<br>
 _rate of urbanization_: 3.32% annual rate of change (2020-25 est.)<br>
-
-**Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: <em>due to internal conflict and high food prices -</em> according to the latest analysis, issued in July 2023, the number of people in Crisis and above is projected to reach 2.4 million between April and August 2023; this reflects the impact of the ongoing conflict and civil insecurity, as well as the effects of flooding and drought conditions that curbed crop yields and agricultural production (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 27.2 micrograms per cubic meter (2019 est.)<br>
@@ -299,12 +297,6 @@ _etymology_: established as a French military post in 1889; the name means "rapi
 **Administrative divisions**<br>
 14 prefectures (pr&eacute;fectures, singular - pr&eacute;fecture), 2 economic pr&eacute;fectures* (pr&eacute;fectures &eacute;conomiques, singular - pr&eacute;fecture &eacute;conomique), and 1 commune**; Bamingui-Bangoran, Bangui**, Basse-Kotto, Haute-Kotto, Haut-Mbomou, Kemo, Lobaye, Mambere-Kadei, Mbomou, Nana-Grebizi*, Nana-Mambere, Ombella-Mpoko, Ouaka, Ouham, Ouham-Pende, Sangha-Mbaere*, Vakaga<br>
 
-**Independence**<br>
-13 August 1960 (from France)<br>
-
-**National holiday**<br>
-Republic Day, 1 December (1958)<br>
-
 **Legal system**<br>
 civil law system based on the French model<br>
 
@@ -352,9 +344,6 @@ _subordinate courts_: high courts; magistrates' courts<br>
 **Political parties**<br>
 Action Party for Development or PAD<br>African Party for Radical Transformation and Integration of States or PATRIE<br>Alliance for Democracy and Progress or ADP<br>Be Africa ti e Kwe (also known as Central Africa for Us All or BTK)<br>Central African Democratic Rally or RDC<br>Central African Party for Integrated Development or PCDI<br>Democratic Movement for the Renewal and Evolution of Central Africa or MDREC<br>Kodro Ti Mo Kozo Si Movement or MKMKS<br>Movement for Democracy and Development or MDD<br>Movement for the Liberation of the Central African People or MLPC<br>National Convergence (also known as Kwa Na Kwa or KNK)<br>National Movement of Independents or MOUNI<br>National Union for Democracy and Progress or UNDP<br>National Union of Republican Democrats or UNADER<br>New Impetus for Central Africa or CANE<br>Party for Democracy and Solidarity - Kélémba or KPDS<br>Party for Democratic Governance or PGD<br>Path of Hope or CDE<br>Renaissance for Sustainable Development or RDD<br>Socialist Party or PS<br>Transformation Through Action Initiative or ITA<br>Union for Central African Renewal or URCA<br>Union for Renaissance and Development or URD<br>United Hearts Movement or MCU<strong><br></strong><br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country) (suspended), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, NAM, OIC (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Martial NDOUBOU (since 17 September 2018)<br>
 _chancery_: 2704 Ontario Road NW, Washington, DC 20009<br>
@@ -370,11 +359,23 @@ _telephone_: [236] 2161-0200<br>
 _FAX_: [236] 2161-4494<br>
 _email address and website_: <br>https://cf.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country) (suspended), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, NAM, OIC (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+13 August 1960 (from France)<br>
+
+**National holiday**<br>
+Republic Day, 1 December (1958)<br>
+
 **Flag description**<br>
 four equal horizontal bands of blue (top), white, green, and yellow with a vertical red band in the center; a yellow five-pointed star to the hoist side of the blue band; banner combines the pan-African and French flag colors; red stands for the blood spilled in the struggle for independence, blue for the sky and freedom, white for peace and dignity, green for hope and faith, and yellow for tolerance; the star represents aspiration towards a vibrant future<br>
 
 **National symbol(s)**<br>
-elephant; national colors: blue, white, green, yellow, red<br>
+elephant<br>
+
+**National colors**<br>
+blue, white, green, yellow, red<br>
 
 **National anthem**<br>
 _name_: "La Renaissance" (The Renaissance)<br>

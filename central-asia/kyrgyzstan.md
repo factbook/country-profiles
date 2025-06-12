@@ -178,8 +178,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 10.1% of population<br>
 _unimproved: total_: total: 6.4% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-5.4% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.4% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 7.6% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.85 physicians/1,000 population (2023)<br>
@@ -220,11 +221,11 @@ _female_: 3.1% (2025 est.)<br>
 _women married by age 15_: 0.3% (2018)<br>
 _women married by age 18_: 12.9% (2018)<br>
 
-**Education expenditures**<br>
-6.2% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 6.8% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 19.8% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
 _total population_: 99.6%<br>
 _male_: 99.7%<br>
 _female_: 99.5% (2018)<br>
@@ -305,17 +306,11 @@ _etymology_: the meaning of the name is unknown; the city was founded in 1862 as
 7 provinces (oblustar, singular - oblus) and 2 cities* (shaarlar, singular - shaar); Batken Oblusu, Bishkek Shaary*, Chuy Oblusu (Bishkek), Jalal-Abad Oblusu, Naryn Oblusu, Osh Oblusu, Osh Shaary*, Talas Oblusu, Ysyk-Kol Oblusu (Karakol)<br>
 <strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)<br>
 
-**Independence**<br>
-31 August 1991 (from the Soviet Union)<br>
-
-**National holiday**<br>
-Independence Day, 31 August (1991)<br>
-
 **Legal system**<br>
 civil law system that includes features of French civil law and Russian Federation laws<br>
 
 **Constitution**<br>
-_history_: previous 1993, 2007, 2010; latest approved by referendum in April 2021 that transitioned Kyrgyzstan from a parliamentary to a presidential system, and implemented changes that allow the president to serve for two 5-year terms rather than one 6-year term, reduced the number of seats in Kyrgyzstan's legislature from 120 to 90, and established a Kurultay (a public advisory council)<br>
+_history_: previous 1993, 2007, 2010; latest approved by referendum in 2021&nbsp;<br>
 _amendment process_: proposed as a draft law by the majority of the Supreme Council membership or by petition of 300,000 voters; passage requires at least two-thirds majority vote of the Council membership in each of at least three readings of the draft two months apart; the draft may be submitted to a referendum if approved by two thirds of the Council membership; adoption requires the signature of the president<br>
 
 **International law organization participation**<br>
@@ -358,9 +353,6 @@ _subordinate courts_: Higher Court of Arbitration; oblast (provincial) and city 
 **Political parties**<br>
 Afghan's Party<br>Alliance<br>Ata-Jurt Kyrgyzstan (Fatherland) or AJK<br>Cohesion<br>Ishenim (Trust)<br>Light of Faith<br>Mekenchil or the "Patriotic" Political Party<br>Social Democrats or SDK<br>United Kyrgyzstan<br>Yntymak (Unity)<br>
 
-**International organization participation**<br>
-ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PCA, PFP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Aibek MOLDOGAZIEV (since 25 February 2025)<br>
 _chancery_: 2360 Massachusetts Avenue NW, Washington, DC 20008<br>
@@ -376,11 +368,23 @@ _telephone_: [996] (312) 597-000<br>
 _FAX_: [996] (312) 597-744<br>
 _email address and website_: <br>ConsularBishkek@state.gov<br><br>https://kg.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PCA, PFP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+31 August 1991 (from the Soviet Union)<br>
+
+**National holiday**<br>
+Independence Day, 31 August (1991)<br>
+
 **Flag description**<br>
 red field with a yellow sun in the center that has 40 rays to represent the Kyrgyz tribes; the rays run counterclockwise on the front of the flag and clockwise on the reverse; in the center of the sun is a red ring crossed by two sets of three lines in a stylized representation of a <em>tunduk,</em> the crown of a traditional Kyrgyz yurt; red stands for bravery and valor, and the sun for peace and wealth<br>
 
 **National symbol(s)**<br>
-white falcon; national colors: red, yellow<br>
+white falcon<br>
+
+**National colors**<br>
+red, yellow<br>
 
 **National anthem**<br>
 _name_: "Kyrgyz Respublikasynyn Mamlekettik Gimni" (National Anthem of the Kyrgyz Republic)<br>

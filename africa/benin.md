@@ -174,8 +174,9 @@ _unimproved: urban_: urban: 21% of population<br>
 _unimproved: rural_: rural: 29.2% of population<br>
 _unimproved: total_: total: 25.3% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-2.6% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 2.6% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 2.6% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.22 physicians/1,000 population (2023)<br>
@@ -217,14 +218,14 @@ _women married by age 15_: 5.9% (2022)<br>
 _women married by age 18_: 27.5% (2022)<br>
 _men married by age 18_: 4.6% (2022)<br>
 
-**Education expenditures**<br>
-3% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.7% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 18% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 45.8%<br>
-_male_: 56.9%<br>
-_female_: 35% (2021)<br>
+_total population_: 51.4% (2022 est.)<br>
+_male_: 62.6% (2022 est.)<br>
+_female_: 41.5% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -298,12 +299,6 @@ _etymology_: the name Porto-Novo is Portuguese for "new port"; Cotonou means "mo
 **Administrative divisions**<br>
 12 departments; Alibori, Atacora, Atlantique, Borgou, Collines, Couffo, Donga, Littoral, Mono, Oueme, Plateau, Zou<br>
 
-**Independence**<br>
-1 August 1960 (from France)<br>
-
-**National holiday**<br>
-Independence Day, 1 August (1960)<br>
-
 **Legal system**<br>
 civil law system modeled largely on the French system and some customary law<br>
 
@@ -354,9 +349,6 @@ _subordinate courts_: Court of Appeal or Cour d'Appel; Court for the Repression 
 African Movement for Development and Progress or MADEP <br>Benin Renaissance or RB <br>Cowrie Force for an Emerging Benin or FCBE <br>Democratic Renewal Party or PRD <br>Progressive Union for Renewal <br>Republican Bloc <br>Sun Alliance or AS <br>The Democrats <br>Union Makes the Nation or UN (includes PRD, MADEP)<br>
 <strong>note:</strong> approximately 20 additional minor parties<br>
 
-**International organization participation**<br>
-ACP, AfDB, AU, CD, ECOWAS, Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MNJTF, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jean-Claude Felix DO REGO (since 17 July 2020)<br>
 _chancery_: 2124 Kalorama Road NW, Washington, DC 20008<br>
@@ -372,12 +364,24 @@ _telephone_: [229] 21-36-75-00<br>
 _FAX_: [229] 21-30-03-84<br>
 _email address and website_: <br>ACSCotonou@state.gov<br><br>https://bj.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, AfDB, AU, CD, ECOWAS, Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MNJTF, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+1 August 1960 (from France)<br>
+
+**National holiday**<br>
+Independence Day, 1 August (1960)<br>
+
 **Flag description**<br>
 two equal horizontal bands of yellow (top) and red (bottom) with a vertical green band on the hoist side; green stands for hope and revival, yellow for wealth, and red for courage<br>
 <strong>note:</strong> uses the popular pan-African colors of Ethiopia<br>
 
 **National symbol(s)**<br>
-leopard; national colors: green, yellow, red<br>
+leopard<br>
+
+**National colors**<br>
+green, yellow, red<br>
 
 **National anthem**<br>
 _name_: "L'Aube Nouvelle" (The Dawn of a New Day)<br>

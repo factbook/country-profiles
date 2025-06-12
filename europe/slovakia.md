@@ -176,8 +176,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-7.8% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 7.8% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 14.6% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 3.7 physicians/1,000 population (2022)<br>
@@ -211,8 +212,9 @@ _female_: 26.3% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 47.9% (2023 est.)<br>
 
-**Education expenditures**<br>
-4.6% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 4.5% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 10.7% national budget (2022 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -298,12 +300,6 @@ _etymology_: the meaning is unclear but has medieval Slavic origins; the name wa
 **Administrative divisions**<br>
 8 regions (kraje, singular - kraj); Banska Bystrica, Bratislava, Kosice, Nitra, Presov, Trencin, Trnava, Zilina<br>
 
-**Independence**<br>
-1 January 1993 (Czechoslovakia split into the Czech Republic and Slovakia)<br>
-
-**National holiday**<br>
-Constitution Day, 1 September (1992)<br>
-
 **Legal system**<br>
 civil law system based on Austro-Hungarian codes<br>
 
@@ -351,9 +347,6 @@ _subordinate courts_: regional and district civil courts; Special Criminal Court
 **Political parties**<br>
 Alliance-Szovetseg or A-S<br>Christian Union or KÚ<br>Civic Conservative Party or OKS<br>Democrats<br>Direction-Social Democracy or Smer-SSD<br>For the People or Za Ludi<br>Freedom and Solidarity or SaS<br>Life National Party or Život–NS (formerly Christian Democracy - Life and Prosperity - Alliance for Slovkia)<br>New Majority or NOVA<br>Ordinary People and Independent Personalities - New Majority or OLaNO-NOVA<br>People's Party Our Slovakia or LSNS<br>Progressive Slovakia or PS<br>Republic<br>Slovak National Party or SNS<br>Voice - Social Democracy or Hlas-SD<br>We Are Family or Sme-Rodina (formerly Party of Citizens of Slovakia)<br>
 
-**International organization participation**<br>
-Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNIDO, UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Radovan JAVORČ&Iacute;K (since 18 January 2021)<br>
 _chancery_: 3523 International Court NW, Washington, DC 20008<br>
@@ -370,12 +363,24 @@ _telephone_: [421] (2) 5443-3338<br>
 _FAX_: [421] (2) 5441-8861<br>
 _email address and website_: <br>consulbratislava@state.gov<br><br>https://sk.usembassy.gov/<br>
 
+**International organization participation**<br>
+Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNIDO, UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+
+**Independence**<br>
+1 January 1993 (Czechoslovakia split into the Czech Republic and Slovakia)<br>
+
+**National holiday**<br>
+Constitution Day, 1 September (1992)<br>
+
 **Flag description**<br>
 three equal horizontal bands of white (top), blue, and red come from the pan-Slav colors; the national coat of arms (a red shield bordered in white and with a white double-barred cross of St. Cyril and St. Methodius on top of three blue hills) is centered over the bands but offset slightly to the hoist side<br>
 <strong>note:</strong> the pan-Slav colors were inspired by Russia's flag<br>
 
 **National symbol(s)**<br>
-double-barred cross (Cross of St. Cyril and St. Methodius) surmounting three peaks; national colors: white, blue, red<br>
+double-barred cross (Cross of St. Cyril and St. Methodius) over three peaks<br>
+
+**National colors**<br>
+white, blue, red<br>
 
 **National anthem**<br>
 _name_: "Nad Tatrou sa blyska" (Lightning Over the Tatras)<br>
@@ -389,7 +394,7 @@ _selected World Heritage Site locales_: Historic Town of Bansk&aacute; &Scaron;t
 ## Economy
 
 **Economic overview**<br>
-high-income EU- and eurozone-member economy; manufacturing and exports led by automotive sector; weakening of anti-corruption laws may impact foreign investment and status of EU funds; influx of foreign labor offsets aging workforce; widening fiscal deficit from social spending and EU-financed public investments&nbsp;<br>
+<p>high-income EU and eurozone economy; manufacturing and exports led by automotive sector;  growth supported by private consumption and public investment from EU funds, tempered by trade risks; increased taxes and withdrawal of energy subsidies contributing to rising but manageable inflation; strong labor demand and influx of foreign labor offsets aging workforce</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $213.219 billion (2023 est.)<br>

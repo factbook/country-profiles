@@ -171,8 +171,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 11.9% of population<br>
 _unimproved: total_: total: 3.8% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-9.7% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 9.7% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 22.2% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.63 physicians/1,000 population (2022)<br>
@@ -209,14 +210,14 @@ _female_: 1.7% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 58.6% (2023 est.)<br>
 
-**Education expenditures**<br>
-3.9% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 3.9% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 11.9% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 95.7%<br>
-_male_: 98.8%<br>
-_female_: 95.4% (2019)<br>
+_total population_: 96% (2019 est.)<br>
+_male_: 96% (2019 est.)<br>
+_female_: 95% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -287,12 +288,6 @@ _etymology_: origin is unclear; may come from a Guaran&iacute; word meaning "pla
 **Administrative divisions**<br>
 10 provinces (provincias, singular - provincia) and 4 indigenous regions* (comarcas); Bocas del Toro, Chiriqui, Cocle, Colon, Darien, Embera-Wounaan*, Guna Yala*, Herrera, Los Santos, Naso Tjer Di*, Ngabe-Bugle*, Panama, Panama Oeste, Veraguas<br>
 
-**Independence**<br>
-3 November 1903 (from Colombia; became independent from Spain on 28 November 1821)<br>
-
-**National holiday**<br>
-Independence Day (Separation Day), 3 November (1903)<br>
-
 **Legal system**<br>
 civil law system; Supreme Court of Justice reviews legislative acts<br>
 
@@ -340,9 +335,6 @@ _subordinate courts_: appellate courts or Tribunal Superior; Labor Supreme Court
 **Political parties**<br>
 Alliance Party or PA<br>Alternative Independent Socialist Party or PAIS<br>Another Way Movement or MOCA<br>Democratic Change or CD<br>Democratic Revolutionary Party or PRD<br>Nationalist Republican Liberal Movement or MOLIRENA<br>Panameñista Party (formerly the Arnulfista Party)<br>Popular Party or PP (formerly Christian Democratic Party or PDC)<br>Realizing Goals Party or RM<br>
 
-**International organization participation**<br>
-ACS, BCIE, CAN (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA, UN, UNASUR (observer), UNCTAD, UNESCO, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jos&eacute; Miguel ALEM&Aacute;N HEALY (since 18 September 2024)<br>
 _chancery_: 2862 McGill Terrace NW, Washington, DC 20008<br>
@@ -359,11 +351,23 @@ _telephone_: [507] 317-5000<br>
 _FAX_: [507] 317-5568<br>
 _email address and website_: <br>Panama-ACS@state.gov<br><br>https://pa.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACS, BCIE, CAN (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA, UN, UNASUR (observer), UNCTAD, UNESCO, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+3 November 1903 (from Colombia); 28 November 1821 (from Spain)<br>
+
+**National holiday**<br>
+Independence Day (Separation Day), 3 November (1903)<br>
+
 **Flag description**<br>
 divided into four equal rectangles; one of the top quadrants is white (hoist side) with a five-pointed blue star in the center, and the other is plain red; one of the bottom quadrants is plain blue (hoist side), and the other is white with a five-pointed red star in the center; the blue and red stand for the main political parties, and the white for peace between them; the blue star stands for the civic virtues of purity and honesty, and the red star signifies authority and law<br>
 
 **National symbol(s)**<br>
-harpy eagle; national colors: blue, white, red<br>
+harpy eagle<br>
+
+**National colors**<br>
+blue, white, red<br>
 
 **National anthem**<br>
 _name_: "Himno Istmeno" (Isthmus Hymn)<br>

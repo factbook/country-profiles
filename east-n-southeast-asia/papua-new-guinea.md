@@ -177,8 +177,9 @@ _unimproved: urban_: urban: 13.8% of population<br>
 _unimproved: rural_: rural: 58.5% of population<br>
 _unimproved: total_: total: 52.5% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-2.3% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 2.3% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 7% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.06 physicians/1,000 population (2023)<br>
@@ -217,14 +218,14 @@ _women married by age 15_: 8% (2018)<br>
 _women married by age 18_: 27.3% (2018)<br>
 _men married by age 18_: 3.7% (2018)<br>
 
-**Education expenditures**<br>
-1.4% of GDP (2020 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 1.4% of GDP (2021 est.)<br>
+_Education expenditure (% national budget)_: 3.9% national budget (2021 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 64.2%<br>
-_male_: 65.6%<br>
-_female_: 62.8% (2015)<br>
+_total population_: 70.1% (2017 est.)<br>
+_male_: 78.4% (2017 est.)<br>
+_female_: 61.6% (2017 est.)<br>
 
 **People - note**<br>
 the indigenous population of Papua New Guinea (PNG) is one of the most heterogeneous in the world; PNG has several thousand separate communities, most with only a few hundred people; divided by language, customs, and tradition, some of these communities have engaged in low-scale tribal conflict with their neighbors for millennia; the advent of modern weapons and modern migrants into urban areas has greatly magnified the impact of this lawlessness<br>
@@ -297,12 +298,6 @@ _etymology_: named in 1873 by Captain John MORESBY in honor of his father, Briti
 **Administrative divisions**<br>
 20 provinces, 1 autonomous region*, and 1 district**; Bougainville*, Central, Chimbu, Eastern Highlands, East New Britain, East Sepik, Enga, Gulf, Hela, Jiwaka, Madang, Manus, Milne Bay, Morobe, National Capital**, New Ireland, Northern, Southern Highlands, Western, Western Highlands, West New Britain, West Sepik<br>
 
-**Independence**<br>
-16 September 1975 (from the Australia-administered UN trusteeship)<br>
-
-**National holiday**<br>
-Independence Day, 16 September (1975)<br>
-
 **Legal system**<br>
 mixed system of English common law and customary law<br>
 
@@ -349,9 +344,6 @@ _subordinate courts_: district, village, and juvenile courts, military courts, t
 **Political parties**<br>
 Destiny Party <br>Liberal Party <br>Melanesian Alliance Party or MAP <br>Melanesian Liberal Party or MLP <br>National Alliance Party or NAP <br>Our Development Party or ODP <br>Papua and Niugini Union Party or PANGU PATI <br>Papua New Guinea Greens Party <br>Papua New Guinea National Party <br>Papua New Guinea Party or PNGP <br>People's First Party or PFP <br>People's Movement for Change or PMC <br>People's National Congress Party or PNC <br>People’s National Party <br>People's Party or PP <br>People's Progress Party or PPP <br>People's Reform Party or PRP <br>PNG Party <br>Social Democratic Party or SDP <br>Triumph Heritage Empowerment Party or THE <br>United Labor Party or ULP <br>United Resources Party or URP <br>
 
-**International organization participation**<br>
-ACP, ADB, AOSIS, APEC, ARF, ASEAN (observer), C, CD, CP, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Cephas KAYO (since 31 January 2018)<br>
 _chancery_: 1825 K Street NW, Suite 1010, Washington, DC 20006<br>
@@ -366,11 +358,23 @@ _mailing address_: 4240 Port Moresby Pl, Washington DC 20521-4240<br>
 _telephone_: [675] 308-9100<br>
 _email address and website_: <br>ConsularPortMoresby@state.gov<br><br>https://pg.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, ADB, AOSIS, APEC, ARF, ASEAN (observer), C, CD, CP, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+16 September 1975 (from the Australia-administered UN trusteeship)<br>
+
+**National holiday**<br>
+Independence Day, 16 September (1975)<br>
+
 **Flag description**<br>
 divided diagonally from upper hoist-side corner; the upper triangle is red with a soaring yellow bird of paradise centered; the lower triangle is black with five white five-pointed stars of the Southern Cross constellation centered; red, black, and yellow are the country's traditional colors; the bird of paradise is an emblem of regional tribal culture and represents the emergence of Papua New Guinea as a nation; the Southern Cross symbolizes the country's connection with Australia and several other countries in the South Pacific<br>
 
 **National symbol(s)**<br>
-bird of paradise; national colors: red, black<br>
+bird of paradise<br>
+
+**National colors**<br>
+red, black<br>
 
 **National anthem**<br>
 _name_: "O Arise All You Sons"<br>
@@ -626,11 +630,11 @@ _key ports_: Kavieng Harbor, Kieta, Port Moresby, Rabaul, Vanimo, Wewak Harbor<b
 Papua New Guinea Defense Force (PNGDF): land, maritime, and air elements<br><br>Ministry of Internal Security: Royal Papua New Guinea Constabulary (RPNGC) (2025)<br>
 
 **Military expenditures**<br>
+0.3% of GDP (2024 est.)<br>
 0.3% of GDP (2023 est.)<br>
 0.3% of GDP (2022 est.)<br>
 0.4% of GDP (2021 est.)<br>
 0.4% of GDP (2020 est.)<br>
-0.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 4,000 active PNGDF&nbsp; (2025)<br>

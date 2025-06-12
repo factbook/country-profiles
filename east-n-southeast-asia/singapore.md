@@ -171,8 +171,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-5.6% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 5.6% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 18.1% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 2.83 physicians/1,000 population (2022)<br>
@@ -210,14 +211,14 @@ _female_: 3.8% (2025 est.)<br>
 _women married by age 15_: 0% (2023)<br>
 _women married by age 18_: 0.1% (2023)<br>
 
-**Education expenditures**<br>
-2.8% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.2% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 10.8% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write<br>
-_total population_: 97.5%<br>
-_male_: 98.9%<br>
-_female_: 96.1% (2019)<br>
+_total population_: 98% (2021 est.)<br>
+_male_: 99% (2021 est.)<br>
+_female_: 96% (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
@@ -287,12 +288,6 @@ _etymology_: name derives from the Sanskrit words <em>simha</em> (lion) and <em>
 **Administrative divisions**<br>
 no first order administrative divisions; there are five community development councils: Central Singapore Development Council, North East Development Council, North West Development Council, South East Development Council, South West Development Council (2019)<br>
 
-**Independence**<br>
-9 August 1965 (from Malaysian Federation)<br>
-
-**National holiday**<br>
-National Day, 9 August (1965)<br>
-
 **Legal system**<br>
 English common law<br>
 
@@ -339,9 +334,6 @@ _subordinate courts_: district, magistrates', juvenile, family, community, and c
 People's Action Party or PAP <br>Progress Singapore Party or PSP <br>Workers' Party or WP <br>
 <strong>note: </strong>the PAP has won every general election since the end of the British colonial era in 1959<br>
 
-**International organization participation**<br>
-ADB, AOSIS, APEC, Arctic Council (observer), ARF, ASEAN, BIS, C, CP, EAS, FAO, FATF, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, Pacific Alliance (observer), PCA, UN, UNCTAD, UNESCO, UNHCR, UNOOSA, UPU, WCO, WHO, WIPO, WMO, WTO<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador LUI Tuck Yew (since 30 June 2023)<br>
 _chancery_: 3501 International Place NW, Washington, DC 20008<br>
@@ -359,11 +351,23 @@ _telephone_: [65] 6476-9100<br>
 _FAX_: [65] 6476-9340<br>
 _email address and website_: <br>singaporeusembassy@state.gov<br><br>https://sg.usembassy.gov/<br>
 
+**International organization participation**<br>
+ADB, AOSIS, APEC, Arctic Council (observer), ARF, ASEAN, BIS, C, CP, EAS, FAO, FATF, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, Pacific Alliance (observer), PCA, UN, UNCTAD, UNESCO, UNHCR, UNOOSA, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+
+**Independence**<br>
+9 August 1965 (from Malaysian Federation)<br>
+
+**National holiday**<br>
+National Day, 9 August (1965)<br>
+
 **Flag description**<br>
 two equal horizontal bands of red (top) and white; near the hoist side of the red band is a vertical white crescent partially enclosing a circle of five white five-pointed stars; red stands for brotherhood and equality, and white for purity and virtue; the waxing crescent moon symbolizes a young nation on the ascendancy; the stars represent the national ideals of democracy, peace, progress, justice, and equality<br>
 
 **National symbol(s)**<br>
-lion, merlion (mythical half lion-half fish creature), orchid; national colors: red, white<br>
+lion, merlion (mythical half-lion, half-fish creature), orchid<br>
+
+**National colors**<br>
+red, white<br>
 
 **National anthem**<br>
 _name_: "Majulah Singapura" (Onward Singapore)<br>

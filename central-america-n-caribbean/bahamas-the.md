@@ -158,8 +158,9 @@ _female_: 78.4 years<br>
 _improved: total_: total: 98.9% of population<br>
 _unimproved: total_: total: 1.1% of population (2017 est.)<br>
 
-**Current health expenditure**<br>
-7.1% of GDP (2021)<br>
+**Health expenditure**<br>
+_Health expenditure (as % of GDP)_: 7.1% of GDP (2021)<br>
+_Health expenditure (as % of national budget)_: 15.8% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 1.9 physicians/1,000 population (2017)<br>
@@ -189,8 +190,9 @@ _female_: 1.9% (2025 est.)<br>
 **Currently married women (ages 15-49)**<br>
 38.9% (2023 est.)<br>
 
-**Education expenditures**<br>
-2.8% of GDP (2021 est.)<br>
+**Education expenditure**<br>
+_Education expenditure (% GDP)_: 2.8% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 10.6% national budget (2025 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -255,12 +257,6 @@ _etymology_: named after King WILLIAM III of England (1650-1702), who was a memb
 **Administrative divisions**<br>
 31 districts; Acklins Islands, Berry Islands, Bimini, Black Point, Cat Island, Central Abaco, Central Andros, Central Eleuthera, City of Freeport, Crooked Island and Long Cay, East Grand Bahama, Exuma, Grand Cay, Harbour Island, Hope Town, Inagua, Long Island, Mangrove Cay, Mayaguana, Moore's Island, North Abaco, North Andros, North Eleuthera, Ragged Island, Rum Cay, San Salvador, South Abaco, South Andros, South Eleuthera, Spanish Wells, West Grand Bahama<br>
 
-**Independence**<br>
-10 July 1973 (from the UK)<br>
-
-**National holiday**<br>
-Independence Day, 10 July (1973)<br>
-
 **Legal system**<br>
 common-law system based on the English model<br>
 
@@ -320,9 +316,6 @@ _subordinate courts_: Industrial Tribunal; Magistrates' Courts; Family Island Ad
 **Political parties**<br>
 <p>Coalition of Independents Party or COI<br>Democratic National Alliance or DNA<br>Free National Movement or FNM<br>Progressive Liberal Party or PLP</p><br>
 
-**International organization participation**<br>
-ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (correspondent), ITSO, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Wendall Kermith JONES (since 19 April 2022)<br>
 _chancery_: 600 New Hampshire Ave NW, Suite 530, Washington, DC 20037<br>
@@ -339,14 +332,26 @@ _telephone_: [1] (242) 322-1181<br>
 _FAX_: [1] (242) 356-7174<br>
 _email address and website_: <br>acsnassau@state.gov<br><br>https://bs.usembassy.gov/<br>
 
+**International organization participation**<br>
+ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (correspondent), ITSO, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
+
+**Independence**<br>
+10 July 1973 (from the UK)<br>
+
+**National holiday**<br>
+Independence Day, 10 July (1973)<br>
+
 **Flag description**<br>
 three equal horizontal bands of aquamarine (top), gold, and aquamarine, with a black equilateral triangle based on the hoist side; the band colors represent the golden beaches of the islands surrounded by the aquamarine sea; black represents the vigor and force of a united people, and the triangle stands for the enterprise and determination of the Bahamian people<br>
 
 **National symbol(s)**<br>
-blue marlin, flamingo, Yellow Elder flower; national colors: aquamarine, yellow, black<br>
+blue marlin, flamingo, yellow elderflower<br>
+
+**National colors**<br>
+aquamarine, yellow, black<br>
 
 **National coat of arms**<br>
-The motto on the Bahamas coat of arms is &ldquo;Forward, Upward, Onward Together.&rdquo; The flamingo and marlin supporting the shield are national animals that represent respectively the land and sea; the pink conch shell symbolizes the marine life of the islands; and the green palm fronds represent the natural vegetation. The Santa Maria, Christopher Columbus&rsquo;s flagship, also appears on the shield, and the sun signifies the world-famous climate and the bright future of the islands.<br>
+the motto on the Bahamas coat of arms is “Forward, Upward, Onward Together;” the flamingo and marlin supporting the shield are national animals that represent respectively the land and sea; the pink conch shell symbolizes the marine life of the islands, and the green palm fronds represent the natural vegetation; the <em>Santa Maria</em>, Christopher Columbus’s flagship, also appears; the sun signifies the world-famous climate and the bright future of the islands<br>
 
 **National anthem**<br>
 _name_: "March On, Bahamaland!"<br>
