@@ -710,7 +710,7 @@ the military is responsible for external defense, combatting separatism, and res
 ## Space
 
 **Space agency/agencies**<br>
-Indonesian Space Agency (INASA; formed 2022); National Research and Innovation Agency (BRIN; established 2021); Research Organization for Aeronautics and Space (ORPA; formed 2021) &nbsp; (2024)<br>
+Indonesian Space Agency (INASA; formed 2022); National Research and Innovation Agency (BRIN; established 2021); Research Organization for Aeronautics and Space (ORPA; formed 2021) (2024)<br>
 
 **Space launch site(s)**<br>
 Stasiun Peluncuran Roket rocket launch facility (West Java); building a space launch facility/spaceport on Biak, Papua (estimated completion date is 2025) (2024)<br>

@@ -426,11 +426,6 @@ $19.396 billion (2023 est.)<br>
 11.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
-**Credit ratings**<br>
-_Moody's rating_: A2 (2020)<br>
-_Standard & Poors rating_: BBB+ (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.6% (2023 est.)<br>
 _industry_: 34.3% (2023 est.)<br>
@@ -651,7 +646,7 @@ the BDF has a mix of mostly older weapons and equipment, largely of Western/Euro
 18 is the legal minimum age for voluntary military service for men and women; no conscription (2024)<br>
 
 **Military - note**<br>
-the BDF’s key functions include defending the country's territorial integrity on land and in the air, ensuring national security and stability, and aiding civil authorities in support of domestic missions such as disaster relief and anti-poaching; it participates in regional and international security operations<br><br>Bechuanaland/Botswana did not have a permanent military during colonial times, with the British colonial administrators relying instead on small, lightly armed constabularies such as the Bechuanaland Mounted Police, the Bechuanaland Border Police, and by the early 1960s, the Police Mobile Unit (PMU); after independence in 1966, Botswana militarized the PMU and gave it responsibility for the country’s defense rather than create a conventional military force; however, turmoil in neighboring countries and numerous cross-border incursions by Rhodesian and South African security forces in the 1960s and 1970s demonstrated that the PMU was inadequate for defending the country and led to the establishment of the Botswana Defense Force (BDF) in 1977 (2024)<br>
+the key responsibilities of the Botswana Defense Force (BDF) are defending the country's sovereignty and territorial integrity on land and in the air, ensuring national security and stability, and aiding civil authorities in support of domestic missions such as disaster relief and anti-poaching; the BDF also participates in regional and international security operations<br><br>Bechuanaland/Botswana did not have a permanent military during colonial times, with the British colonial administrators relying instead on small, lightly armed constabularies such as the Bechuanaland Mounted Police, the Bechuanaland Border Police, and by the early 1960s, the Police Mobile Unit (PMU); after independence in 1966, Botswana militarized the PMU and gave it responsibility for the country’s defense rather than create a conventional military force; however, turmoil in neighboring countries and numerous cross-border incursions by Rhodesian and South African security forces in the 1960s and 1970s demonstrated that the PMU was inadequate for defending the country and led to the establishment of the BDF in 1977 (2025)<br>
 
 ## Transnational Issues
 

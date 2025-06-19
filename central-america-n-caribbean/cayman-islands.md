@@ -330,10 +330,6 @@ $7.139 billion (2023 est.)<br>
 -2.3% (2015 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
-**Credit ratings**<br>
-_Moody's rating_: Aa3 (1997)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.5% (2022 est.)<br>
 _industry_: 8.2% (2022 est.)<br>

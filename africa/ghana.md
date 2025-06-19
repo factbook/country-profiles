@@ -689,7 +689,7 @@ the military’s primary missions are border defense, assisting with internal se
 ## Space
 
 **Space agency/agencies**<br>
-Ghana Space Science and Technology Center (GSSTC; established 2011); note &ndash; the GSSTC is eventually slated to become the Ghana Space Agency (2024)<br>
+Ghana Space Science and Technology Institute (GSSTI; established 2011); note &ndash; the GSSTI is eventually slated to become the Ghana Space Agency (2024)<br>
 
 **Space program overview**<br>
 has a small, nascent space program focused on research in space sciences and exploiting remote sensing (RS) technology for natural resource management, weather forecasting, agriculture, and national security issues; relies on foreign imagery for analysis but seeks to develop its own RS satellite capabilities; one of Africa’s leaders in satellite dish research; trains aerospace scientists and engineers; has established relations on space-related issues with China, Japan, and South Africa; cooperating with Egypt, Kenya, Nigeria, Sudan, and Uganda to establish a joint satellite to monitor climate changes in the African continent; partner of the Square Kilometer Array (SKA) international astronomy initiative (2024)<br>

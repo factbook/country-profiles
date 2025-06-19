@@ -444,12 +444,6 @@ $14.098 billion (2023 est.)<br>
 17.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
-**Credit ratings**<br>
-_Fitch rating_: B+ (2014)<br>
-_Moody's rating_: B2 (2016)<br>
-_Standard & Poors rating_: B+ (2019)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 27.1% (2023 est.)<br>
 _industry_: 21.5% (2023 est.)<br>
@@ -670,7 +664,7 @@ the RDF's inventory includes a mix of older and some modern equipment from suppl
 <strong>note:</strong> as of 2022, women comprised approximately 6% of the Rwanda Defense Force<br>
 
 **Military deployments**<br>
-approximately 3,200 Central African Republic (about 2,200 under MINUSCA, plus some 700 police; approximately 1,000 under a bi-lateral agreement); approximately 3,000 Mozambique (bilateral agreement to assist with combating an insurgency; includes both military and police forces); 2,600 (plus about 450 police) South Sudan (UNMISS) (2024)<br>
+approximately 3,200 Central African Republic (about 2,200 under MINUSCA, plus some 700 police; approximately 1,000 under a bi-lateral agreement); estimated 3,000 Mozambique (bilateral agreement to assist with combating an insurgency; includes both military and police forces); 2,600 (plus about 450 police) South Sudan (UNMISS) (2024)<br>
 
 **Military - note**<br>
 <p>the RDF is widely regarded as one of East Africa’s best trained and most experienced militaries; its principle responsibilities are ensuring territorial integrity and national sovereignty and preventing infiltrations of illegal armed groups from neighboring countries, particularly the Democratic Republic of the Congo (DRC); since 2021, Rwanda has deployed troops to the border region with the DRC to combat the rebel Democratic Forces for the Liberation of Rwanda (FDLR), which it has accused the DRC of backing; the RDF has been accused by the DRC, the UN, and the US of making incursions into the DRC and providing material support to the March 23 Movement (M23, aka Congolese Revolutionary Army) rebel group, which has been fighting with DRC troops and UN peacekeeping forces; the RDF also participates in UN and regional military operations, as well as multinational exercises</p> the Rwandan Armed Forces (FAR) were established following independence in 1962; after the 1990-1994 civil war and genocide, the victorious Tutsi-dominated Rwandan Patriotic Front's military wing, the Rwandan Patriotic Army (RPA), became the country's military force; the RPA participated in the First (1996-1997) and Second (1998-2003) Congolese Wars; the RPA was renamed the Rwanda Defense Force (RDF) in 2003, by which time it had assumed a more national character with the inclusion of many former Hutu officers as well as newly recruited soldiers (2024)<br>

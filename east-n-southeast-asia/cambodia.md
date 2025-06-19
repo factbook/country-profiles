@@ -443,11 +443,6 @@ $42.336 billion (2023 est.)<br>
 2.9% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
-**Credit ratings**<br>
-_Moody's rating_: B2 (2007)<br>
-_Standard & Poors rating_: N/A (2014)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 17.1% (2023 est.)<br>
 _industry_: 40.5% (2023 est.)<br>
@@ -681,7 +676,7 @@ the RCAF is armed largely with older Chinese and Russian-origin equipment; in re
 340 Central African Republic (MINUSCA); 180 Lebanon (UNIFIL) (2024)<br>
 
 **Military - note**<br>
-the RCAF’s primary responsibilities are border, coastal, and internal security; since 2016, the RCAF has regularly conducted a small annual training exercise known as “Golden Dragon” with the military of China, its closest security partner<br><br>the RCAF was re-established in 1993 under the first coalition government from the merger of the Cambodian Government’s military forces (Cambodian People’s Armed Forces) and the two non-communist resistance forces (Sihanoukist National Army, aka National Army for Khmer Independence, and the Khmer People's National Liberation Armed Forces); thousands of communist Khmer Rouge fighters began surrendering by 1994 under a government amnesty program and the last of the Khmer Rouge forces (National Army of Democratic Kampuchea) were demobilized or absorbed into the RCAF in 1999<br><br>Cambodia continues to be one of the most densely landmine-contaminated countries in the world; by the early 1990s, various aid organizations estimated there were 8-10 million landmines scattered throughout the country, with a particularly heavy concentration on a 1,000-km (620-mile) strip along the northwest Thai-Cambodia border known as the "K5 belt"; the mines were laid during Cambodia’s decades-long war by the Cambodian army, the Vietnamese, the Khmer Rouge, the non-communist fighters, and US forces; part of Cambodia's defense policy is demining the territory with the intent of having the entire country cleared of unexploded ordnances by 2035; over 1 million landmines and over 3 million explosives were discovered and removed from 1992 to 2018; in 2018, the Cambodian government and Cambodian Mine Action and Victim Assistance Authority (CMAA), a government agency, launched the National Mine Action Strategy for 2018-2025 (2024)<br>
+the Cambodian military's primary responsibilities are border, coastal, and internal security; key security partners include China and Vietnam<br><br>the RCAF was re-established in 1993 under the first coalition government from the merger of the Cambodian Government’s military forces (Cambodian People’s Armed Forces) and the two non-communist resistance forces (Sihanoukist National Army, aka National Army for Khmer Independence, and the Khmer People's National Liberation Armed Forces); thousands of communist Khmer Rouge fighters began surrendering by 1994 under a government amnesty program and the last of the Khmer Rouge forces (National Army of Democratic Kampuchea) were demobilized or absorbed into the RCAF in 1999 (2025)<br>
 
 ## Transnational Issues
 

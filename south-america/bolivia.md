@@ -449,12 +449,6 @@ $45.135 billion (2023 est.)<br>
 1.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
-**Credit ratings**<br>
-_Fitch rating_: B (2020)<br>
-_Moody's rating_: B2 (2020)<br>
-_Standard & Poors rating_: B+ (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 13.5% (2023 est.)<br>
 _industry_: 24.2% (2023 est.)<br>
@@ -683,7 +677,7 @@ Bolivian Armed Forces (Fuerzas Armadas de Bolivia or FAB): Bolivian Army (Ejerci
 1.4% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 35,000 active-duty Armed Forces (2025)<br>
+approximately 30-35,000 active-duty Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military is equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment (2024)<br>
@@ -693,7 +687,7 @@ compulsory for all men between the ages of 18 and 22; men can volunteer from the
 <strong>note 1:</strong> foreign nationals 18-22 residing in Bolivia may join the armed forces; joining speeds the process of acquiring Bolivian citizenship by naturalization<br><br><strong>note 2:</strong> as of 2022, women comprised about 8% of the Bolivian military's personnel<br>
 
 **Military - note**<br>
-the Bolivian Armed Forces (FAB) are responsible for territorial defense but also have some internal security duties, particularly counternarcotics and border security; the FAB shares responsibility for border enforcement with the National Police (PNB), and it may be called out to assist the PNB with maintaining public order in critical situations<br><br>Bolivia has a small naval force for patrolling some 5,000 miles of navigable rivers to combat narcotics trafficking and smuggling, provide disaster relief, and deliver supplies to remote rural areas, as well as for maintaining a presence on Lake Titicaca; the Navy also exists in part to cultivate a maritime tradition and as a reminder of Bolivia’s defeat at the hands of Chile in the War of the Pacific (1879-1883), and its desire to regain access to the Pacific Ocean; every year on 23 March, the Navy participates in parades and government ceremonies commemorating the Día Del Mar (Day of the Sea) holiday that remembers the loss (2024)<br>
+the Bolivian Armed Forces (FAB) are responsible for territorial defense but also have some internal security duties, particularly counternarcotics and border security; the FAB shares responsibility for border enforcement with the National Police (PNB), and it may be called out to assist the PNB with maintaining public order in critical situations<br><br>land-locked Bolivia has a naval force for patrolling some 5,000 miles of navigable rivers to combat narcotics trafficking and smuggling, provide disaster relief, and deliver supplies to remote rural areas, as well as for maintaining a presence on Lake Titicaca; the Navy also exists in part to cultivate a maritime tradition and as a reminder of Bolivia’s defeat at the hands of Chile in the War of the Pacific (1879-1883), and its desire to regain access to the Pacific Ocean; every year on 23 March, the Navy participates in parades and government ceremonies commemorating the Día Del Mar (Day of the Sea) holiday that remembers the loss (2025)<br>
 
 ## Space
 

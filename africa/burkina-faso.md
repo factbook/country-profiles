@@ -425,10 +425,6 @@ $20.325 billion (2023 est.)<br>
 14.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
-**Credit ratings**<br>
-_Standard & Poors rating_: B (2017)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 16.3% (2023 est.)<br>
 _industry_: 29.3% (2023 est.)<br>
@@ -651,7 +647,7 @@ the FABF has a mix of older, secondhand, and some modern equipment from a variet
 <strong>note:</strong> in 2024, Burkina Faso, Mali, and Niger announced they were forming joint force of 5,000 troops to combat extremist groups in the Sahel<br>
 
 **Military - note**<br>
-the FABF has a history of interference in the country’s politics, having conducted eight coups since its formation in 1960-61, including the most recent in September 2022; several combat units were disbanded in 2011 following mutinies; while the FABF is responsible for external defense, it has an internal security role and can be called out to assist internal security forces in restoring public order, combating crime, securing the border, and counterterrorism; indeed, for more than a decade, its focus has largely been internal counterterrorism and counterinsurgency operations, and it is actively engaged in combat operations against terrorist groups affiliated with al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS), particularly in the northern and eastern regions<br><br>in the north, Jama'at Nusrat al-Islam wal-Muslimin (JNIM), a coalition of al-Qa'ida linked militant groups that act as al-Qa'ida in the Land of the Islamic Magreb's (AQIM) arm in the Sahel, has exploited ethnic tensions and perceptions of state neglect, as well as grievances over corruption, patronage politics, social stratification, and land disputes; in 2024, JNIM was active in nearly all of the country's 13 provinces; the ISIS-Greater Sahara (ISIS-GS) terrorist group operates in the eastern part of the country (2024)<br>
+the Armed Forces of Burkina Faso (FABF) are responsible for external defense but also have an internal security role and can be called out to assist internal security forces in restoring public order, combating crime, securing the border, and conducting counterterrorism/counterinsurgency operations<br><br>the FABF's primary focus is combatting militants affiliated with the al-Qa'ida and Islamic State of Iraq and ash-Sham (ISIS) terrorist groups, which have operated in the country for more than a decade and are estimated to control at least 30 percent of Burkina Faso as of 2025; Jama'at Nusrat al-Islam wal-Muslimin (JNIM), a coalition of al-Qa'ida linked militant groups that act as al-Qa'ida in the Land of the Islamic Magreb's (AQIM) arm in the Sahel, is strongest in the north but active in nearly all of the country's 13 provinces, while ISIS in the Greater Sahara (aka ISIS-Sahel) operates in the eastern part of the country<br><br>the FABF has a history of involvement in the country’s politics, having conducted eight coups since its formation in 1960-61, including the most recent in September 2022; several combat units were disbanded in 2011 following mutinies (2025)<br>
 
 ## Terrorism
 

@@ -435,12 +435,6 @@ $335.533 billion (2023 est.)<br>
 11.6% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
-**Credit ratings**<br>
-_Fitch rating_: A- (2020)<br>
-_Moody's rating_: A1 (2018)<br>
-_Standard & Poors rating_: A+ (2017)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.5% (2023 est.)<br>
 _industry_: 29.7% (2023 est.)<br>
@@ -688,7 +682,7 @@ the Chilean military inventory is comprised of a broad mix of older foreign supp
 <strong>note:</strong> as of 2024, women comprised approximately 20% of the armed forces<br>
 
 **Military - note**<br>
-the Chilean military's primary responsibility is territorial defense and ensuring the country’s sovereignty; it also assists with disaster and humanitarian relief and some internal security duties such as border security or maintaining public order if required; a key focus in recent years has been assisting with securing the border area with Bolivia and Peru; it trains regularly and participates in bilateral and multinational training exercises, as well as international peacekeeping operations <br><br>Chile and Argentina have a joint peacekeeping force known as the Combined Southern Cross Peacekeeping Force (FPC), designed to be made available to the UN; the FPC is made up of air, ground, and naval components, as well as a combined logistics support unit<br><br>the Chilean Army was founded in 1810, but traces its origins back to the Army of the Kingdom of Chile, which was established by the Spanish Crown in the early 1600s; Chile's military aviation was inaugurated in 1913 with the creation of a military aviation school; the Navy traces its origins to 1817; it was first led by a British officer and the first ships were largely crewed by American, British, and Irish sailors; by the 1880s, the Chilean Navy was one of the most powerful in the Americas, and included the world’s first protected cruiser (a ship with an armored deck to protect vital machine spaces) (2024)<br>
+the Chilean military's responsibilities are territorial defense, ensuring the country’s sovereignty, assisting with disaster and humanitarian relief, and providing some internal security duties such as border security or maintaining public order if required; a key focus in recent years has been assisting with securing the border area with Bolivia and Peru; it trains regularly and participates in bilateral and multinational training exercises, as well as international peacekeeping operations <br><br>Chile and Argentina have a joint peacekeeping force known as the Combined Southern Cross Peacekeeping Force (FPC), designed to be made available to the UN; the FPC is made up of air, ground, and naval components, as well as a combined logistics support unit<br><br>the Chilean Army was founded in 1810, but traces its origins back to the Army of the Kingdom of Chile, which was established by the Spanish Crown in the early 1600s; Chile's military aviation was inaugurated in 1913 with the creation of a military aviation school; the Navy traces its origins to 1817; it was first led by a British officer and the first ships were largely crewed by American, British, and Irish sailors; by the 1880s, the Chilean Navy was one of the most powerful in the Americas, and included the world’s first protected cruiser (a ship with an armored deck to protect vital machine spaces) (2025)<br>
 
 ## Space
 

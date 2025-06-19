@@ -694,10 +694,10 @@ the military (FACI) was established in 1960 from home defense units the French c
 ## Space
 
 **Space agency/agencies**<br>
-announced in 2021 that it was in the process of establishing a national space agency (space issues currently managed by the Ministry of Scientific Research) (2024)<br>
+Space Agency of C&ocirc;te d&rsquo;Ivoire (ASCI; established June 2025) (2025)<br>
 
 **Space program overview**<br>
-has as small, nascent program focused on acquiring a remote sensing (RS) satellite for purposes detecting illegal gold mining, facilitating access to drinking water, mapping deforestation, and national security issues (2024)<br>
+has as small, nascent program focused on acquiring a remote sensing (RS) satellite for purposes detecting illegal gold mining, facilitating access to drinking water, mapping deforestation, and national security issues; new space agency's responsibilities also include advancing the utilization of space-based technologies for sustainable development, promoting domestic expertise, and supporting scientific research (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

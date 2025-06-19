@@ -357,7 +357,7 @@ _email address and website_: <br>office@bulgaria-embassy.org<br><br>https://www.
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Susan FALATKO (since 18 February 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires H. Martin McDowell (since May 2025)<br>
 _embassy_: 16, Kozyak Street, Sofia 1408<br>
 _mailing address_: 5740 Sofia Place, Washington, DC&nbsp; 20521-5740<br>
 _telephone_: [359] (2) 937-5100<br>
@@ -424,12 +424,6 @@ $102.408 billion (2023 est.)<br>
 9.4% (2023 est.)<br>
 15.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BBB (2017)<br>
-_Moody's rating_: Baa1 (2020)<br>
-_Standard & Poors rating_: BBB (2019)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.5% (2023 est.)<br>
@@ -692,7 +686,7 @@ the military's inventory consists largely of Soviet-era equipment, although in r
 <strong>note 1:</strong> in 2021, women comprised about 17% of the Bulgarian military's full-time personnel<br><br><strong>note 2:</strong> in 2020, Bulgaria announced a program to allow every citizen up to the age of 40 to join the armed forces for 6 months of military service in the voluntary reserve<br>
 
 **Military - note**<br>
-the Bulgarian military is responsible for guaranteeing Bulgaria’s independence, sovereignty, and territorial integrity, providing support to international peace and security missions, and contributing to national security in peacetime, including such missions as responding to disasters or assisting with border security; the military trains regularly including in multinational exercises with regional partners and with NATO since Bulgaria joined the organization in 2004; it also participates in overseas peacekeeping and other security missions under the EU, NATO, and the UN; in 2022, Bulgaria established and began leading a NATO multinational battlegroup as part of an effort to boost NATO defenses in Eastern Europe following Russia’s invasion of Ukraine; in 2021, Bulgaria approved a 10-year defense development program, which included calls for equipment upgrades and procurements, boosts in manpower, organizational reforms, and greater focus on such areas as cyber defense, communications, logistics support, and research and development<br><br>the Bulgarian military has participated in several significant conflicts since its establishment in 1878, including the Serbo-Bulgarian War (1885), the First Balkan War (1912-13), the Second Balkan War (1913), World War I (1915-1918), and World War II (1941-45); during the Cold War it was one of the Warsaw Pact’s largest militaries with over 150,000 personnel and more than 200 Soviet-made combat aircraft (2024)<br>
+the Bulgarian military is responsible for guaranteeing Bulgaria’s independence, sovereignty, and territorial integrity, providing support to international peace and security missions, and contributing to national security in peacetime, including such missions as responding to disasters or assisting with border security; the military trains regularly including in multinational exercises with regional partners and with NATO since Bulgaria joined the organization in 2004; it also participates in overseas peacekeeping and other security missions under the EU, NATO, and the UN; in 2022, Bulgaria established and began leading a NATO multinational battlegroup as part of an effort to boost NATO defenses in Eastern Europe following Russia’s invasion of Ukraine; in 2021, Bulgaria approved a 10-year defense development program, which included calls for equipment upgrades and procurements, boosts in manpower, organizational reforms, and greater focus on such areas as cyber defense, communications, logistics support, and research and development<br><br>the Bulgarian military has participated in several significant conflicts since its establishment in 1878, including the Serbo-Bulgarian War (1885), the First Balkan War (1912-13), the Second Balkan War (1913), World War I (1915-1918), and World War II (1941-45); during the Cold War it was one of the Warsaw Pact’s largest militaries with over 150,000 personnel and more than 200 Soviet-made combat aircraft (2025)<br>
 
 ## Space
 

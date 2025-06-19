@@ -440,7 +440,7 @@ _selected World Heritage Site locales_: Historic Mexico City (c); Earliest 16th-
 ## Economy
 
 **Economic overview**<br>
-<p>upper-middle income economy; highly integrated with US via trade and nearshore manufacturing; low unemployment; inflation gradually decreasing amid tight monetary policy; state intervention in energy sector and public infrastructure projects; challenges from income inequality, corruption, and cartel-based violence</p><br>
+<p>upper-middle-income economy; highly integrated with US via trade and nearshore manufacturing; weak domestic demand, fiscal consolidation, and trade uncertainty contributing to sluggish growth; low unemployment; challenges from income inequality, corruption, and cartel-based violence</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $2.873 trillion (2023 est.)<br>
@@ -743,7 +743,7 @@ the Mexican military is responsible for defending the independence, integrity, a
 ## Space
 
 **Space agency/agencies**<br>
-Mexican Space Agency (Agencia Espacial Mexicana or AEM; established 2010 and began operating in 2013)&nbsp; (2024)<br>
+Mexican Space Agency (Agencia Espacial Mexicana or AEM; established 2010 and began operating in 2013) (2024)<br>
 
 **Space program overview**<br>
 the AEM’s focus is on coordinating Mexico’s space policy and the country’s commercial space sector, including developing specialists, technologies, and infrastructure, and acquiring satellites; manufactures and operates communications and scientific satellites; conducts research in a range of space-related capabilities and technologies, including satellites and satellite payloads, telecommunications, remote sensing, robotics, Earth and weather sciences, astronomy, and astrophysics; has relations with a variety of foreign space agencies and commercial space industries, including those of Argentina, Brazil, Chile, the European Space Agency (ESA) and its member states (particularly France, Germany, and the UK), India, Peru, Russia, Ukraine, and the US; leading member of the Latin American and Caribbean Space Agency (ALCE) (2024)<br>

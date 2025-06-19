@@ -417,12 +417,6 @@ $72.356 billion (2023 est.)<br>
 13.9% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
-**Credit ratings**<br>
-_Fitch rating_: BB+ (2016)<br>
-_Moody's rating_: Ba2 (2017)<br>
-_Standard & Poors rating_: BB+ (2016)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 5.5% (2023 est.)<br>
 _industry_: 46.6% (2023 est.)<br>
@@ -652,7 +646,7 @@ Baku has been actively upgrading its equipment for over a decade with purchases 
 18-25 years of age for compulsory military service for men; 18-35 years of age for voluntary/contractual service for men and women; 18 months service for conscripts, 36 months for voluntary/contractual service (2023)<br>
 
 **Military - note**<br>
-the Azerbaijani military was established in 1991, although its origins go back to 1918; much of the military’s original equipment was acquired from former Soviet military forces that departed Azerbaijan by 1992; territorial defense is the military’s primary focus, particularly with regards to neighboring Armenia; a secondary focus is guarding against Iran; Armenia and Azerbaijan engaged in open conflicts over the Nagorno-Karabakh enclave in 1991-94 and 2020; tensions continued following the 2020 conflict, and Azerbaijan seized the entire enclave in 2023 <br><br>Turkey has been Azerbaijan’s strongest military partner, a relationship that has included weapons transfers, technical advice, bilateral training exercises, and support during its conflicts with Armenia; Azerbaijan is not part of NATO but has had a cooperative relationship with it dating back to when it joined NATO’s Partnership for Peace program in 1994 and has provided troops to NATO-led missions in Kosovo (1999-2008) and Afghanistan (2002-2014) (2024)<br>
+the Azerbaijani military was established in 1991, although its origins go back to 1918; much of the military’s original equipment was acquired from former Soviet military forces that departed Azerbaijan by 1992; territorial defense is the military’s primary focus, particularly with regards to neighboring Armenia; a secondary focus is guarding against Iran; Armenia and Azerbaijan engaged in open conflicts over the Nagorno-Karabakh enclave in 1991-94 and 2020; tensions continued following the 2020 conflict, and Azerbaijan seized the entire enclave in 2023 <br><br>key bilateral security relationships include Israel, Russia, and Turkiye; Azerbaijan's ties with Turkiye have included weapons transfers, technical advice, bilateral training exercises, and military support during its conflicts with Armenia; Azerbaijan is not part of NATO but has had a cooperative relationship with it dating back to when it joined NATO’s Partnership for Peace program in 1994 and has provided troops to NATO-led missions in Kosovo (1999-2008) and Afghanistan (2002-2014) (2025)<br>
 
 ## Space
 

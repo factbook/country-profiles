@@ -439,12 +439,6 @@ $511.685 billion (2023 est.)<br>
 8.5% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
-**Credit ratings**<br>
-_Fitch rating_: AA+ (2015)<br>
-_Moody's rating_: Aa1 (2016)<br>
-_Standard & Poors rating_: AA+ (2012)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.3% (2023 est.)<br>
 _industry_: 25.2% (2023 est.)<br>
@@ -681,10 +675,10 @@ registration requirement at age 17, the legal minimum age for voluntary military
 <strong>note 1:</strong> as of 2023, women made up about 4% of the military's full-time personnel<br><br><strong>note 2:</strong> in a January 2013 referendum, a majority of Austrians voted in favor of retaining the system of compulsory military service (with the option of alternative/non-military service) instead of switching to a professional army system<br>
 
 **Military deployments**<br>
-170 Bosnia-Herzegovina (EUFOR stabilization force); 290 Kosovo (NATO/KFOR); 170 Lebanon (UNIFIL) (2024)<br>
+210 Bosnia-Herzegovina (EUFOR stabilization force); 160 Kosovo (NATO/KFOR); 160 Lebanon (UNIFIL) (2025)<br>
 
 **Military - note**<br>
-the military’s primary responsibilities are national defense and protecting Austria’s neutrality; it also has some domestic security and disaster response responsibilities; each of the nine federal states has a military command that provides a link between the military and civil authorities; the main tasks of these commands include providing military assistance during disasters and supporting security police operations<br><br>the Austrian military contributes to international peacekeeping and humanitarian missions; Austria has been constitutionally militarily non-aligned since 1955 but is an EU member and actively participates in EU peacekeeping and crisis management operations under the EU Common Security and Defense Policy; Austria is not a member of NATO but joined NATO’s Partnership for Peace framework in 1995 and participates in some NATO-led crisis management and peacekeeping operations; it has provided troops to international peacekeeping missions in Bosnia and Herzegovina (EU), Kosovo (NATO), and Lebanon (UN) in recent years; more than 100,000 Austrian military and civilian personnel have taken part in more than 50 international peace support and humanitarian missions since 1960 (2024)<br>
+the military’s primary responsibilities are national defense and protecting Austria’s neutrality; it also has some domestic security and disaster response responsibilities; each of the nine federal states has a military command that provides a link between the military and civil authorities; the main tasks of these commands include providing military assistance during disasters and supporting security police operations<br><br>the Austrian military contributes to international peacekeeping and humanitarian missions; Austria has been constitutionally militarily non-aligned since 1955 but is an EU member and actively participates in EU peacekeeping and crisis management operations under the EU Common Security and Defense Policy; Austria is not a member of NATO but joined NATO’s Partnership for Peace framework in 1995 and participates in some NATO-led crisis management and peacekeeping operations; more than 100,000 Austrian military and civilian personnel have taken part in more than 50 international peace support and humanitarian missions since 1960 (2025)<br>
 
 ## Space
 

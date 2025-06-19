@@ -446,12 +446,6 @@ $49.279 billion (2023 est.)<br>
 2.3% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
-**Credit ratings**<br>
-_Fitch rating_: B (2006)<br>
-_Moody's rating_: B2 (2016)<br>
-_Standard & Poors rating_: B- (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 17.3% (2023 est.)<br>
 _industry_: 25.5% (2023 est.)<br>
@@ -703,7 +697,7 @@ the FAC inventory is comprised of weapons and equipment from a variety of countr
 <strong>note: </strong>Cameroon has committed approximately 2,000-2,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations occur occasionally<br>
 
 **Military - note**<br>
-the FAC ground forces (Army and the Rapid Intervention Battalion) are largely focused on internal security, particularly the threat from the terrorist groups Boko Haram and ISIS-West Africa along its frontiers with Nigeria and Chad (Far North region) and, since 2016, an insurgency from armed Anglophone separatist groups in the North-West and South-West regions; in addition, the FAC often deploys ground units to the border region with the Central African Republic to counter intrusions from armed militias and bandits; the Navy&rsquo;s missions include protecting Cameroon&rsquo;s oil installations, combatting crime and piracy in the Gulf of Guinea, and patrolling the country&rsquo;s lakes and rivers; the FAC's small Air Force supports both the ground and naval forces (2024)<br>
+the Cameroon Armed Forces (FAC) are responsible for defending the country's territorial integrity, providing humanitarian assistance, supporting regional peacekeeping operations, and contributing to internal security; key areas of focus are the threat from the terrorist groups Boko Haram and ISIS-West Africa along its frontiers with Nigeria and Chad (Far North region) and, since 2016, an insurgency from armed Anglophone separatist groups in the North-West and South-West regions; in addition, the FAC often deploys ground units to the border region with the Central African Republic to counter intrusions from armed militias and bandits; the Navy&rsquo;s missions include protecting Cameroon&rsquo;s oil installations, combatting crime and piracy in the Gulf of Guinea, and patrolling the country&rsquo;s lakes and rivers; the FAC's small Air Force supports both the ground and naval forces (2025)<br>
 
 ## Terrorism
 

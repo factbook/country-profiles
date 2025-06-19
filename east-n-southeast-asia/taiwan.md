@@ -321,35 +321,30 @@ _lyrics/music_: HU Han-min, TAI Chi-t'ao, and LIAO Chung-k'ai/CHENG Mao-yun<br>
 high-income East Asian economy; most technologically advanced computer microchip manufacturing; increasing Chinese interference threatens market capabilities; minimum wages rising; longstanding regional socioeconomic inequality<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.143 trillion (2019 est.)<br>
-$1.113 trillion (2018 est.)<br>
-$1.083 trillion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$1.743 trillion (2023 est.)<br>
+$1.664 trillion (2022 est.)<br>
+$1.512 trillion (2021 est.)<br>
 
 **Real GDP growth rate**<br>
-2.71% (2019 est.)<br>
-2.75% (2018 est.)<br>
-3.31% (2017 est.)<br>
+1.28% (2023 est.)<br>
+2.59% (2022 est.)<br>
+6.62% (2021 est.)<br>
+<strong>note:</strong> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$47,800 (2019 est.)<br>
-$46,600 (2018 est.)<br>
-$45,400 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$32,300 (2023 est.)<br>
+$32,600 (2022 est.)<br>
+$32,900 (2021 est.)<br>
+<strong>note:</strong> data are in current dollars<br>
 
 **GDP (official exchange rate)**<br>
-$611.391 billion (2019 est.)<br>
+$611.391 billion (2023 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.5% (2019 est.)<br>
-1.3% (2018 est.)<br>
-0.6% (2017 est.)<br>
-
-**Credit ratings**<br>
-_Fitch rating_: AA- (2016)<br>
-_Moody's rating_: Aa3 (1994)<br>
-_Standard & Poors rating_: AA- (2002)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
+2.2% (2024 est.)<br>
+2.5% (2023 est.)<br>
+3% (2022 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.8% (2017 est.)<br>
@@ -357,12 +352,12 @@ _industry_: 36% (2017 est.)<br>
 _services_: 62.1% (2017 est.)<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 53% (2017 est.)<br>
-_government consumption_: 14.1% (2017 est.)<br>
-_investment in fixed capital_: 20.5% (2017 est.)<br>
-_investment in inventories_: -0.2% (2017 est.)<br>
-_exports of goods and services_: 65.2% (2017 est.)<br>
-_imports of goods and services_: -52.6% (2017 est.)<br>
+_household consumption_: 48.3% (2023 est.)<br>
+_government consumption_: 13.3% (2023 est.)<br>
+_investment in fixed capital_: 23.7% (2023 est.)<br>
+_investment in inventories_: -0.6% (2023 est.)<br>
+_exports of goods and services_: 64% (2023 est.)<br>
+_imports of goods and services_: -49.1% (2023 est.)<br>
 
 **Agricultural products**<br>
 rice, vegetables, pork, chicken, cabbages, milk, sugarcane, tropical fruits, pineapples, eggs (2023)<br>
@@ -378,11 +373,14 @@ electronics, communications and information technology products, petroleum refin
 11.498 million (2020 est.)<br>
 
 **Unemployment rate**<br>
-3.73% (2019 est.)<br>
-3.69% (2018 est.)<br>
+3.4% (2024 est.)<br>
+3.5% (2023 est.)<br>
+3.7% (2022 est.)<br>
+<strong>note:</strong> % of labor force seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-33.6 (2014)<br>
+33.9 (2023 est.)<br>
+<strong>note:</strong> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 13.8% of household expenditures (2023 est.)<br>
@@ -400,13 +398,16 @@ _expenditures_: $105.833 billion (2019 est.)<br>
 16% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
-$65.173 billion (2019 est.)<br>
-$70.843 billion (2018 est.)<br>
+$105.076 billion (2023 est.)<br>
+$101.032 billion (2022 est.)<br>
+$118.298 billion (2021 est.)<br>
+<strong>note:</strong> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$388.49 billion (2019 est.)<br>
-$383.484 billion (2018 est.)<br>
-$382.736 billion (2017 est.)<br>
+$432.432 billion (2023 est.)<br>
+$479.415 billion (2022 est.)<br>
+$446.371 billion (2021 est.)<br>
+<strong>note:</strong> figures complied according to the General Trade System - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 20%, USA 17%, Hong Kong 13%, Singapore 9%, Japan 7% (2023)<br>
@@ -417,9 +418,10 @@ integrated circuits, machine parts, broadcasting equipment, computers, plastics 
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$308.744 billion (2019 est.)<br>
-$305.428 billion (2018 est.)<br>
-$303.067 billion (2017 est.)<br>
+$351.441 billion (2023 est.)<br>
+$428.083 billion (2022 est.)<br>
+$381.958 billion (2021 est.)<br>
+<strong>note:</strong> figures complied according to the General Trade System - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 21%, Japan 13%, USA 11%, S. Korea 9%, Australia 5% (2023)<br>
@@ -435,10 +437,11 @@ $439 billion (2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: New Taiwan dollars (TWD) per US dollar -<br>
+32.108 (2024 est.)<br>
+31.15 (2023 est.)<br>
+29.777 (2022 est.)<br>
+28.022 (2021 est.)<br>
 28.211 (2020 est.)<br>
-30.472 (2019 est.)<br>
-30.8395 (2018 est.)<br>
-31.911 (2014 est.)<br>
 
 ## Energy
 

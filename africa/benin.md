@@ -425,12 +425,6 @@ $19.676 billion (2023 est.)<br>
 1.7% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
-**Credit ratings**<br>
-_Fitch rating_: B (2019)<br>
-_Moody's rating_: B2 (2019)<br>
-_Standard & Poors rating_: B+ (2018)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 25.4% (2023 est.)<br>
 _industry_: 17.3% (2023 est.)<br>
@@ -663,7 +657,7 @@ the FAB is equipped with a small mix of mostly older or secondhand French, Sovie
 18-30 years of age for voluntary and selective compulsory military service for men and women; conscript service is 18 months (2024)<br>
 
 **Military - note**<br>
-in addition to its defense against external aggression duties, the Beninese Armed Forces (FAB) may be required to assist in maintaining public order and internal security under conditions defined by the country's president; it may also participate in economic development projects<br><br>a key focus for the security forces of Benin is countering infiltrations into the country by terrorist groups tied to al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS) operating just over the border from northern Benin in Burkina Faso and Niger; in 2022, the Benin Government said it was "at war" after suffering a series of attacks from these groups; later that same year, President TALON pledged to increase the size of the military, modernize military equipment, and establish forward operating bases; the military since 2022 has also deployed thousands of additional troops to the north of the country to better secure the border; in addition, the FAB participates in the Multinational Joint Task Force (MNJTF) along with Cameroon, Chad, Niger, and Nigeria against Boko Haram and ISIS-West Africa in the general area of the Lake Chad Basin and along Nigeria's northeastern border <br><br>the FAB has a close working relationship with the Belgian armed forces; the Belgians offer military advice, training, and second-hand equipment donations, and deploy to Benin for limited military exercises (2024)<br>
+the Beninese Armed Forces (FAB) are responsible for defense against external aggression and may be required to assist in maintaining public order and internal security under conditions defined by the country's president; it may also participate in economic development projects<br><br>a key focus for the security forces of Benin is countering infiltrations into the country by terrorist groups tied to al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS) operating just over the border from northern Benin in Burkina Faso and Niger; in 2022, the Benin Government said it was "at war" after suffering a series of attacks from these groups; later that same year, President TALON pledged to increase the size of the military, modernize military equipment, and establish forward operating bases; the military since 2022 has also deployed thousands of additional troops to the north of the country to better secure the border region; in addition, the FAB participates in the Multinational Joint Task Force (MNJTF) against Boko Haram and ISIS-West Africa in the general area of the Lake Chad Basin and along Nigeria's northeastern border (2025)<br>
 
 ## Terrorism
 

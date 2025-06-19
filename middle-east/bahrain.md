@@ -421,12 +421,6 @@ $46.08 billion (2023 est.)<br>
 3.6% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
-**Credit ratings**<br>
-_Fitch rating_: B+ (2020)<br>
-_Moody's rating_: B2 (2018)<br>
-_Standard & Poors rating_: B+ (2017)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.3% (2023 est.)<br>
 _industry_: 44% (2023 est.)<br>
@@ -648,7 +642,7 @@ the military's inventory consists of a mix of equipment acquired from a wide var
 18 years of age for voluntary military service; 18-55 to voluntarily join the reserves; no compulsory service (2024)<br>
 
 **Military - note**<br>
-<p>the BDF is a small, but well-equipped military focused on territorial defense and support to internal security; its primary concern is Iran, both the conventional military threat and Tehran's support to regional terrorist groups; the BDF participates in multinational exercises and has conducted small deployments outside of the country; in 2015, for example, Bahrain joined the Saudi Arabia-led military intervention in Yemen, supplying a few hundred troops and combat aircraft</p> Bahrain’s closest security partners are the US and Saudi Arabia; it hosts the US Naval Forces Central Command (USNAVCENT; established 1983), which includes the US 5th Fleet, several subordinate naval task forces, and the Combined Maritime Forces (established 2002), a coalition of more than 30 nations providing maritime security for regional shipping lanes; in 2003, the US granted Bahrain Major Non-NATO Ally status, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; Bahraini leaders have said that the security of Bahrain and Saudi Arabia are “indivisible”; Saudi Arabia sent forces to Bahrain to assist with internal security following the 2011 uprising; Bahrain also has close security ties to other Gulf Cooperation Council (GCC) countries, particularly Kuwait and the United Arab Emirates, as well as the UK; it is a member of the Peninsula Shield Forces, a joint military force established by the GCC countries with the aim of maintaining security and stability in the region (2024)<br>
+<p>the BDF (established 1968) is responsible for territorial defense and support to internal security; its primary concern is Iran, both the conventional military threat and Tehran's support to regional terrorist groups; the BDF participates in multinational exercises and has conducted small deployments outside of the country; in 2015, for example, Bahrain joined the Saudi Arabia-led military intervention in Yemen, supplying a few hundred troops and combat aircraft</p> Bahrain’s closest security partners are Saudi Arabia and the US; Bahraini leaders have said that the security ties of Bahrain and Saudi Arabia are “indivisible”; Saudi Arabia sent forces to Bahrain to assist with internal security following the 2011 uprising; Bahrain hosts the US Naval Forces Central Command (USNAVCENT; established 1983), which includes the US 5th Fleet and the Combined Maritime Forces (established 2002), a coalition of more than 30 nations providing maritime security for regional shipping lanes; in 2003, the US granted Bahrain Major Non-NATO Ally status, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; Bahrain also has close security ties with the UK, which maintains a naval support facility there<br><br>Bahrain hosts the Gulf Cooperation Council's (GCC) Unified Maritime Operations Center and is a member of the Peninsula Shield Forces, a joint military force established by the GCC countries with the aim of maintaining security and stability in the region (2025)<br>
 
 ## Space
 

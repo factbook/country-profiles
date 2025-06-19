@@ -416,7 +416,7 @@ _selected World Heritage Site locales_: <p>Fossil Hominid Sites of South Africa 
 ## Economy
 
 **Economic overview**<br>
-upper middle-income South African economy; hard hit by COVID-19; poor utilities management; key rare earth goods exporter; high income inequality; hosts Africa&rsquo;s largest stock exchange; rising unemployment, especially youth; land rights changes<br>
+<p>upper-middle-income, largest southern African economy; Government of National Unity facing slow growth, fiscal gaps, and structural challenges; high income inequality, unemployment, and poverty; reforms to address electricity generation, transport, and logistics; leading producer and exporter of critical minerals</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $865.402 billion (2023 est.)<br>
@@ -445,12 +445,6 @@ $380.699 billion (2023 est.)<br>
 6.1% (2023 est.)<br>
 7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BB- (2020)<br>
-_Moody's rating_: Ba2 (2020)<br>
-_Standard & Poors rating_: BB- (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.6% (2023 est.)<br>

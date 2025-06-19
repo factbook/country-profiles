@@ -246,7 +246,7 @@ see France<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by High Commissioner Louise LEFRANC (since 6 February 2023)<br>
+_chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by High Commissioner Jacques BILLANT (since 3 May 2025)<br>
 _head of government_: President of the Government Alcide PONGA (since 8 January 2025)<br>
 _cabinet_: Cabinet elected from and by the Territorial Congress<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; president of New Caledonia elected by Territorial Congress for a 5-year term (no term limits); election last held on 8 July 2021 (next to be held in 2026)<br>
@@ -284,7 +284,7 @@ ITUC (NGOs), PIF, SPC, UPU, WFTU (NGOs), WMO<br>
 
 **Independence**<br>
 none (overseas collectivity of France)<br>
-<strong>note:</strong> in three independence referenda, on 4 November 2018, 4 October 2020, and 12 December 2021, the majority voted to reject independence in favor of maintaining the status quo; an 18-month transition period is now in place (ending 30 June 2023), during which a referendum on the new status of New Caledonia within France will take place<br>
+<strong>note:</strong> in three independence referenda, on 4 November 2018, 4 October 2020, and 12 December 2021, the majority voted to reject independence in favor of maintaining the status quo<br>
 
 **National holiday**<br>
 F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - the local holiday is New Caledonia Day, 24 September (1853)<br>

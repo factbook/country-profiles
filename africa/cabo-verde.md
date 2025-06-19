@@ -404,11 +404,6 @@ $2.534 billion (2023 est.)<br>
 1.9% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
-**Credit ratings**<br>
-_Fitch rating_: B- (2020)<br>
-_Standard & Poors rating_: B (2013)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4.6% (2023 est.)<br>
 _industry_: 10.6% (2023 est.)<br>
@@ -628,7 +623,7 @@ the FACV has a limited amount of mostly dated or second-hand equipment, largely 
 18-35 years of age for male and female selective compulsory military service; 24-month conscript service obligation; 17 years of age for voluntary service (with parental consent) (2024)<br>
 
 **Military - note**<br>
-the FACV is responsible for territorial defense; it also has an internal security role in collaboration with the police if required; its duties include monitoring and patrolling the country's air and maritime spaces, participating in training exercises, conducting search and rescue, countering narcotics and other forms of illicit trafficking, and supporting the police and civil society (2024)<br>
+the FACV is responsible for external defense; it also has an internal security role in collaboration with the police if required; its duties include monitoring and patrolling the country's air and maritime spaces, participating in training exercises, conducting search and rescue, countering narcotics and other forms of illicit trafficking, and supporting the police and civil society (2025)<br>
 
 ## Transnational Issues
 

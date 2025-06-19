@@ -427,12 +427,6 @@ $178.757 billion (2023 est.)<br>
 20.2% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
-**Credit ratings**<br>
-_Fitch rating_: CC (2022)<br>
-_Moody's rating_: Ca (2023)<br>
-_Standard & Poors rating_: CCC (2023)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.4% (2023 est.)<br>
 _industry_: 18.8% (2023 est.)<br>
@@ -689,7 +683,7 @@ estimated 850,000-1 million active Defense Forces (2025)<br>
 <strong>note:</strong> following the Russian invasion of Ukraine in February 2022, President ZELENSKY announced a general mobilization of the country; prior to the invasion, Ukraine had approximately 200,000 active Armed Forces troops, approximately 50,000 National Guard, and approximately 40,000 State Border Guard<br>
 
 **Military equipment inventories and acquisitions**<br>
-prior to the full-scale Russian invasion in February 2022, the Ukrainian military was equipped largely with Russian-origin and Soviet-era weapons systems; since the invasion, it has received considerable quantities of weapons, including Soviet-era and more modern Western systems, from European countries and the US; Ukraine also has a growing inventory of domestically-produced weapons and equipment (2024)<br>
+prior to the full-scale Russian invasion in February 2022, the Ukrainian military was equipped largely with Russian-origin and Soviet-era weapons systems; since the invasion, it has received considerable quantities of weapons, including Soviet-era and more modern Western systems, from European countries and the US; Ukraine also has a growing inventory of domestically produced weapons and equipment (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary service for men and women; 25 years of age for conscription for men; 18-24 months service obligation (2025)<br>

@@ -436,12 +436,6 @@ $71.857 billion (2023 est.)<br>
 15.2% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
-**Credit ratings**<br>
-_Fitch rating_: B (2018)<br>
-_Moody's rating_: B3 (2018)<br>
-_Standard & Poors rating_: B (2017)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.3% (2023 est.)<br>
 _industry_: 32.5% (2023 est.)<br>
@@ -689,7 +683,7 @@ the military's inventory is comprised mostly of Russian and Soviet-origin equipm
 <strong>note:</strong> conscripts can be assigned to the military, to the Ministry of Interior, or to the Ministry of Labor and Social Protection (alternative service)<br>
 
 **Military - note**<br>
-the military of Belarus is responsible for territorial defense; it is a mixed force of conscripts and professionals and equipped with Russian or Soviet-era weapons; Russia is the country’s closest security partner; in 2022, Belarus allowed Russian military forces to stage on its territory for their invasion of Ukraine; in 2023, Belarus agreed to permit Russia to deploy nuclear weapons on its soil<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and has committed an airborne brigade to CSTO's rapid reaction force; the military trains regularly with other CSTO members (2024)<br>
+the military of Belarus is responsible for territorial defense; Russia is the country’s closest security partner, and the military conducts joint training exercises with Russian forces; in 2022, Belarus allowed the Russian military to stage on its territory for their invasion of Ukraine; in 2023, Belarus agreed to permit Russia to deploy nuclear weapons on its soil<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and has committed an airborne brigade to CSTO's rapid reaction force; the military trains regularly with other CSTO members (2025)<br>
 
 ## Space
 

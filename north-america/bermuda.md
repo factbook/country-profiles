@@ -366,12 +366,6 @@ $8.142 billion (2023 est.)<br>
 1.9% (2017 est.)<br>
 1.4% (2016 est.)<br>
 
-**Credit ratings**<br>
-_Fitch rating_: N/A (2015)<br>
-_Moody's rating_: A2 (2016)<br>
-_Standard & Poors rating_: A+ (2015)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.2% (2022 est.)<br>
 _industry_: 5.4% (2022 est.)<br>
@@ -552,7 +546,7 @@ the Regiment is equipped with small arms (2024)<br>
 men and women who are Commonwealth citizens and 18-45 years of age can volunteer for the Bermuda Regiment; service is for a minimum period of three years and two months from the date of enlistment; after completing their initial service, soldiers in the Regiment can choose to extend their service (2025)<br>
 
 **Military - note**<br>
-defense is the responsibility of the UK; the Royal Bermuda Regiment&rsquo;s responsibilities include maritime security of Bermuda&rsquo;s inshore waters, search and rescue, ceremonial duties, humanitarian/disaster assistance, security of key installations, and assisting the Bermuda Police with maintaining public order; it includes explosive ordnance disposal, diver, maritime, security police, and support units (2024)<br>
+defense is the responsibility of the UK; the Royal Bermuda Regiment&rsquo;s responsibilities include maritime security of Bermuda&rsquo;s inshore waters, search and rescue, ceremonial duties, humanitarian/disaster assistance, security of key installations, and assisting the Bermuda Police with maintaining public order; it includes explosive ordnance disposal, diver, maritime, security police, and support units (2025)<br>
 
 ## Transnational Issues
 

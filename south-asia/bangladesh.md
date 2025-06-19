@@ -422,12 +422,6 @@ $437.415 billion (2023 est.)<br>
 7.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
-**Credit ratings**<br>
-_Fitch rating_: BB- (2014)<br>
-_Moody's rating_: Ba3 (2012)<br>
-_Standard & Poors rating_: BB- (2010)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 11% (2023 est.)<br>
 _industry_: 34.6% (2023 est.)<br>
@@ -683,7 +677,7 @@ approximately 1,400 Central African Republic (MINUSCA); 1,650 Democratic Republi
 <strong>note:</strong> as of early 2024, Bangladesh had nearly 6,000 total military and police personnel deployed on UN missions<br>
 
 **Military - note**<br>
-the military&rsquo;s primary responsibility is external defense but it also has a domestic security role and has traditionally been a significant player in the country&rsquo;s politics, as well as its economy; following widespread domestic protests in September 2024, the Army was given law enforcement powers for 60 days, including making arrests, conducting searches, and dispersing unlawful assemblies; the military has a long history of participating in UN peacekeeping missions, which has provided operational experience and a source of funding; it runs an international institute for the training of peacekeepers; the military also conducts multinational and bilateral exercises with foreign partners, particularly India; it has commercial business interests in such areas as banking, food, hotels, manufacturing, real estate, and shipbuilding, and manages government infrastructure and construction projects (2024)<br>
+the military’s primary responsibility is external defense but it also has a domestic security role; following widespread domestic protests in September 2024, the Army was given law enforcement powers, including making arrests, conducting searches, and dispersing unlawful assemblies; the military has traditionally been a significant player in the country's politics and has commercial business interests in such areas as banking, food, hotels, manufacturing, real estate, and shipbuilding, and manages government infrastructure and construction projects<br><br>the military has a long history of participating in UN peacekeeping missions, which has provided operational experience and a source of funding; it runs an international institute for the training of peacekeepers; the military also conducts multinational and bilateral exercises with foreign partners, particularly India (2025)<br>
 
 ## Space
 

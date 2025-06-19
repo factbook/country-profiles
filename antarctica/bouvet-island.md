@@ -107,10 +107,5 @@ the flag of Norway is used<br>
 
 ## Transportation
 
-## Military and Security
-
-**Military - note**<br>
-defense is the responsibility of Norway<br>
-
 ## Transnational Issues
 

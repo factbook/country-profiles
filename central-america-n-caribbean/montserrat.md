@@ -295,10 +295,6 @@ formerly high-income economy; volcanic activity destroyed much of original infra
 1.2% (2017 est.)<br>
 -0.2% (2016 est.)<br>
 
-**Credit ratings**<br>
-_Standard & Poors rating_: BBB- (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.9% (2017 est.)<br>
 _industry_: 7.8% (2017 est.)<br>

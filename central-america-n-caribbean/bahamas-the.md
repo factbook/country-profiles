@@ -391,11 +391,6 @@ $14.339 billion (2023 est.)<br>
 2.9% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
-**Credit ratings**<br>
-_Moody's rating_: Ba2 (2020)<br>
-_Standard & Poors rating_: BB- (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.4% (2023 est.)<br>
 _industry_: 8.8% (2023 est.)<br>
@@ -607,7 +602,7 @@ most of the RBDF's major equipment inventory has been acquired from the Netherla
 18-30 years of age for voluntary service for men and women (18-60 for Reserves); no conscription (2025)<br>
 
 **Military - note**<br>
-the RBDF was established in 1980; its primary responsibilities are maritime security and safeguarding the territorial integrity of the Bahamas, providing disaster relief and humanitarian assistance, and supporting internal law and order in conjunction with other law enforcement agencies; the RBDF is a naval force with a few light aircraft, coastal patrol craft, and patrol boats, as well as a lightly-armed marine infantry/commando squadron for base and internal security; the RBDF has training relationships with the UK and the US (2025)<br>
+the RBDF was established in 1980; its primary responsibilities are maritime security and safeguarding the territorial integrity of the Bahamas, providing disaster relief and humanitarian assistance, and supporting internal law and order in cooperation with other law enforcement agencies; the RBDF is a naval force with a few light aircraft, coastal patrol craft, and patrol boats, as well as a lightly-armed marine infantry/commando squadron for base and internal security; the RBDF has training relationships with the UK and the US (2025)<br>
 
 ## Transnational Issues
 
