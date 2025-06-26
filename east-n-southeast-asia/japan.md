@@ -68,7 +68,7 @@ _other_: 18.9% (2022 est.)<br>
 _fresh water lake(s)_: Biwa-ko 688 sq km<br>
 
 **Population distribution**<br>
-all primary and secondary regions of high population density lie on the coast; one-third of the population resides in and around Tokyo on the central plain (Kanto Plain)<br>
+all primary and secondary regions of high population density lie on the coast; one third of the population resides in and around Tokyo on the central plain (Kanto Plain)<br>
 
 **Natural hazards**<br>
 <p>many dormant and some active volcanoes; about 1,500 seismic occurrences (mostly tremors but occasional severe earthquakes) every year; tsunamis; typhoons</p><p><strong>volcanism:</strong> both Unzen (1,500 m) and Sakura-jima (1,117 m), which lies near the densely populated city of Kagoshima, have been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; other notable historically active volcanoes include Asama, Honshu Island's most active volcano, Aso, Bandai, Fuji, Iwo-Jima, Kikai, Kirishima, Komaga-take, Oshima, Suwanosejima, Tokachi, Yake-dake, and Usu; see note 2 under "Geography - note"</p><br>
@@ -128,7 +128,7 @@ _female_: 51.3 years<br>
 0.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-all primary and secondary regions of high population density lie on the coast; one-third of the population resides in and around Tokyo on the central plain (Kanto Plain)<br>
+all primary and secondary regions of high population density lie on the coast; one third of the population resides in and around Tokyo on the central plain (Kanto Plain)<br>
 
 **Urbanization**<br>
 _urban population_: 92% of total population (2023)<br>
@@ -441,12 +441,6 @@ $4.204 trillion (2023 est.)<br>
 3.3% (2023 est.)<br>
 2.5% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: A (2015)<br>
-_Moody's rating_: A1 (2014)<br>
-_Standard & Poors rating_: A+ (2015)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1% (2022 est.)<br>

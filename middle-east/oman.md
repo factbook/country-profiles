@@ -67,7 +67,7 @@ _other_: 95.3% (2022 est.)<br>
 Arabian Aquifer System<br>
 
 **Population distribution**<br>
-the vast majority of the population is located in and around the Al Hagar Mountains in the north of the country; another smaller cluster is found around the city of Salalah in the far south; most of the country remains sparsely poplulated<br>
+the vast majority of the population is located in and around the Al Hagar Mountains in the north; another smaller cluster is found around the city of Salalah in the far south; most of the country remains sparsely populated<br>
 
 **Natural hazards**<br>
 summer winds often raise large sandstorms and dust storms in interior; periodic droughts<br>
@@ -126,7 +126,7 @@ _female_: 26.3 years<br>
 -0.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the vast majority of the population is located in and around the Al Hagar Mountains in the north of the country; another smaller cluster is found around the city of Salalah in the far south; most of the country remains sparsely poplulated<br>
+the vast majority of the population is located in and around the Al Hagar Mountains in the north; another smaller cluster is found around the city of Salalah in the far south; most of the country remains sparsely populated<br>
 
 **Urbanization**<br>
 _urban population_: 88.4% of total population (2023)<br>
@@ -288,7 +288,7 @@ _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name derives from the Arabic name for the city, Masqat, which is said to mean "hidden" and refers to the range of hills that isolate the port city from the rest of the country<br>
 
 **Administrative divisions**<br>
-11 governorates (muhafazat, singular - muhafaza); Ad Dakhiliyah, Al Buraymi, Al Wusta, Az Zahirah, Janub al Batinah (Al Batinah South), Janub ash Sharqiyah (Ash Sharqiyah South), Masqat (Muscat), Musandam, Shamal al Batinah (Al Batinah North), Shamal ash Sharqiyah (Ash Sharqiyah North), Zufar (Dhofar)<br>
+11 governorates (<em>muhafazat</em>, singular - <em>muhafaza</em>); Ad Dakhiliyah, Al Buraymi, Al Wusta, Az Zahirah, Janub al Batinah (Al Batinah South), Janub ash Sharqiyah (Ash Sharqiyah South), Masqat (Muscat), Musandam, Shamal al Batinah (Al Batinah North), Shamal ash Sharqiyah (Ash Sharqiyah North), Zufar (Dhofar)<br>
 
 **Legal system**<br>
 mixed system of Anglo-Saxon law and Islamic law<br>
@@ -420,12 +420,6 @@ $108.811 billion (2023 est.)<br>
 2.5% (2022 est.)<br>
 1.7% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BB- (2020)<br>
-_Moody's rating_: Ba3 (2020)<br>
-_Standard & Poors rating_: B+ (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.3% (2023 est.)<br>

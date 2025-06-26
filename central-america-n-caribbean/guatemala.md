@@ -296,7 +296,7 @@ _time difference_: UTC-6 (1 hour behind Washington, DC, during Standard Time)<br
 _etymology_: the Spanish conquistadors' first capital (established in 1524) was a former Mayan settlement called "Quauhtemallan" by their Nahuatl-speaking Mexican allies, a name that means "land of the eagle" but that the Spanish probably pronounced "Guatemala"&nbsp;<br>
 
 **Administrative divisions**<br>
-22 departments (departamentos, singular - departamento); Alta Verapaz, Baja Verapaz, Chimaltenango, Chiquimula, El Progreso, Escuintla, Guatemala, Huehuetenango, Izabal, Jalapa, Jutiapa, Peten, Quetzaltenango, Quiche, Retalhuleu, Sacatepequez, San Marcos, Santa Rosa, Solola, Suchitepequez, Totonicapan, Zacapa<br>
+22 departments (<em>departamentos</em>, singular - <em>departamento</em>); Alta Verapaz, Baja Verapaz, Chimaltenango, Chiquimula, El Progreso, Escuintla, Guatemala, Huehuetenango, Izabal, Jalapa, Jutiapa, Peten, Quetzaltenango, Quiche, Retalhuleu, Sacatepequez, San Marcos, Santa Rosa, Solola, Suchitepequez, Totonicapan, Zacapa<br>
 
 **Legal system**<br>
 civil law system; judicial review of legislative acts<br>
@@ -423,12 +423,6 @@ $104.45 billion (2023 est.)<br>
 6.2% (2023 est.)<br>
 6.9% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BB- (2020)<br>
-_Moody's rating_: Ba1 (2010)<br>
-_Standard & Poors rating_: BB- (2017)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 9.8% (2023 est.)<br>

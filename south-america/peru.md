@@ -76,7 +76,7 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
 Amazon Basin<br>
 
 **Population distribution**<br>
-approximately one-third of the population resides along the desert coastal belt in the west, with a strong focus on the capital city of Lima; the Andean highlands, or sierra, which is strongly identified with the country's Amerindian population, contains roughly half of the overall population; the eastern slopes of the Andes, and adjoining rainforest, are sparsely populated<br>
+approximately one third of the population resides along the desert coastal belt in the&nbsp; west, with a strong focus on the capital city of Lima; the Andean highlands, or sierra, contain roughly half of the population; the eastern slopes of the Andes and adjoining rainforest are sparsely populated<br>
 
 **Natural hazards**<br>
 <p>earthquakes, tsunamis, flooding, landslides, mild volcanic activity</p><p><strong>volcanism:</strong> volcanic activity in the Andes Mountains; Ubinas (5,672 m), which last erupted in 2009, is the country's most active volcano; other historically active volcanoes include El Misti, Huaynaputina, Sabancaya, and Yucamane; see note 2 under "Geography - note"</p><br>
@@ -134,7 +134,7 @@ _female_: 31.3 years<br>
 -1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-approximately one-third of the population resides along the desert coastal belt in the west, with a strong focus on the capital city of Lima; the Andean highlands, or sierra, which is strongly identified with the country's Amerindian population, contains roughly half of the overall population; the eastern slopes of the Andes, and adjoining rainforest, are sparsely populated<br>
+approximately one third of the population resides along the desert coastal belt in the&nbsp; west, with a strong focus on the capital city of Lima; the Andean highlands, or sierra, contain roughly half of the population; the eastern slopes of the Andes and adjoining rainforest are sparsely populated<br>
 
 **Urbanization**<br>
 _urban population_: 78.9% of total population (2023)<br>
@@ -318,7 +318,7 @@ _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 _etymology_: the name is an early Spanish mispronunciation of the Quechua name <em>Rimak</em>, referring to a god and deriving from the word <em>rima </em>(to speak); Quechua priests used to speak to worshippers from inside statues of their gods<br>
 
 **Administrative divisions**<br>
-24 departments (departamentos, singular - departamento), 1 province* (provincia), and 1 constitutional province** (provincia constitucional); Amazonas, Ancash, Apurimac, Arequipa, Ayacucho, Cajamarca, Callao**, Cusco, Huancavelica, Huánuco, Ica, Junín, La Libertad, Lambayeque, Lima, Lima*, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martin, Tacna, Tumbes, Ucayali<br>
+24 departments (<em>departamentos</em>, singular - <em>departamento</em>), 1 province* (<em>provincia</em>), and 1 constitutional province** (<em>provincia constitucional</em>); Amazonas, Ancash, Apurimac, Arequipa, Ayacucho, Cajamarca, Callao**, Cusco, Huancavelica, Huánuco, Ica, Junín, La Libertad, Lambayeque, Lima, Lima*, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martin, Tacna, Tumbes, Ucayali<br>
 
 **Legal system**<br>
 civil law system<br>
@@ -442,12 +442,6 @@ $267.603 billion (2023 est.)<br>
 6.5% (2023 est.)<br>
 8.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BBB+ (2013)<br>
-_Moody's rating_: A3 (2014)<br>
-_Standard & Poors rating_: BBB+ (2013)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.2% (2023 est.)<br>

@@ -287,7 +287,7 @@ _time difference_: UTC-6 (1 hour behind Washington, DC, during Standard Time)<br
 _etymology_: Spanish settlers originally named the city Villa Nueva in 1736; it was later renamed for Saint Joseph<br>
 
 **Administrative divisions**<br>
-7 provinces (provincias, singular - provincia); Alajuela, Cartago, Guanacaste, Heredia, Limon, Puntarenas, San Jose<br>
+7 provinces (<em>provincias</em>, singular - <em>provincia</em>); Alajuela, Cartago, Guanacaste, Heredia, Limon, Puntarenas, San Jose<br>
 
 **Legal system**<br>
 civil law system based on Spanish civil code; Supreme Court reviews legislative acts<br>
@@ -415,12 +415,6 @@ $86.498 billion (2023 est.)<br>
 0.5% (2023 est.)<br>
 8.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: B (2020)<br>
-_Moody's rating_: B2 (2020)<br>
-_Standard & Poors rating_: B (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.8% (2023 est.)<br>
@@ -642,7 +636,7 @@ _key ports_: Golfito, Puerto Caldera, Puerto Limon, Puerto Moin, Puerto Quepos, 
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Public Security (Ministerio de Seguridad Pública de Costa Rica): National Police (Fuerza Pública), Air Surveillance Service (Servicio de Vigilancia Aérea), National Coast Guard Service (Servicio Nacional de Guardacostas), Drug Control Police (Policía Control de Drogas), Border Police (Policia de Fronteras), Professional Migration Police (Policía Profesional de Migración)<br><br>Ministry of Presidency: Directorate of Intelligence and Security (DIS), Special Intervention Unit (UEI) (2025)<br>
+Ministry of Public Security (Ministerio de Seguridad Pública de Costa Rica): National Police (Fuerza Pública), Air Surveillance Service (Servicio de Vigilancia Aérea), National Coast Guard Service (Servicio Nacional de Guardacostas), Drug Control Police (Policía Control de Drogas), Border Police (Policia de Fronteras), Professional Migration Police (Policía Profesional de Migración)<br><br>Ministry of Presidency: Directorate of Intelligence and Security (DIS), Special Intervention Unit (UEI) (2025)<br>
 <strong>note:</strong> Costa Rica's armed forces were constitutionally abolished in 1949<br>
 
 **Military expenditures**<br>
@@ -659,12 +653,12 @@ approximately 10-15,000 Ministry of Public Security personnel (2025)<br>
 the National Police are lightly armed although small special units are trained and equipped for tactical operations; the US has provided equipment and support to forces such the Coast Guard, including secondhand US vessels and aircraft (2024)<br>
 
 **Military - note**<br>
-Costa Rica relies on specialized paramilitary units within the Ministry of Public Security (MPS) for internal security missions and countering transnational threats such as narcotics smuggling and organized crime, as well as for participating in regional security operations and exercises; MPS forces have received advisory and training support from both Colombia and the US; since 2012, the US has also provided some military equipment, including aircraft and patrol boats (2024)<br>
+Costa Rica relies on specialized paramilitary units within the Ministry of Public Security (MPS) for internal security missions and countering transnational threats such as narcotics smuggling and organized crime, as well as for participating in regional security operations and exercises; MPS forces have received advisory and training support from the US (2025)<br>
 
 ## Space
 
 **Space agency/agencies**<br>
-Costa Rican Space Agency (ACE; established 2021); ACE is a non-state, public entity subject to guidelines issued by the Ministry of Science, Technology, and Telecommunications (2023)<br>
+Costa Rican Space Agency (ACE; established 2021); ACE is a non-state, public entity subject to guidelines issued by the Ministry of Science, Technology, and Telecommunications (2024)<br>
 
 **Space program overview**<br>
 has a small, recently established program focused on promoting the use of space to develop the country’s economy and industry, including acquiring and utilizing satellites; has built a remote sensing (RS) cube satellite; has relations with the space agencies and commercial space industries of the US, members of the European Space Agency, and members of the Latin American and Caribbean Space Agency (2024)<br>

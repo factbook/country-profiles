@@ -71,7 +71,7 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basi
 Lake Chad Basin, Nubian Aquifer System<br>
 
 **Population distribution**<br>
-the population is unevenly distributed due to contrasts in climate and physical geography; the highest density is found in the southwest, particularly around Lake Chad and points south; the dry Saharan zone to the north is the least densely populated as shown in this population distribution map<br>
+the population is unevenly distributed due to contrasts in climate and physical geography; the highest density is found in the southwest, particularly around Lake Chad and points south; the dry Saharan zone to the north is the least densely populated, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 hot, dry, dusty harmattan winds occur in north; periodic droughts; locust plagues<br>
@@ -129,7 +129,7 @@ _female_: 17.2 years<br>
 -0.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the population is unevenly distributed due to contrasts in climate and physical geography; the highest density is found in the southwest, particularly around Lake Chad and points south; the dry Saharan zone to the north is the least densely populated as shown in this population distribution map<br>
+the population is unevenly distributed due to contrasts in climate and physical geography; the highest density is found in the southwest, particularly around Lake Chad and points south; the dry Saharan zone to the north is the least densely populated, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 24.4% of total population (2023)<br>
@@ -306,7 +306,7 @@ _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
 _etymology_: said to derive its name from a local word meaning "place of rest"<br>
 
 **Administrative divisions**<br>
-23 provinces (provinces, singular - province); Barh-El-Gazel, Batha, Borkou, Chari-Baguirmi, Ennedi-Est, Ennedi-Ouest, Guera, Hadjer-Lamis, Kanem, Lac, Logone Occidental, Logone Oriental, Mandoul, Mayo-Kebbi-Est, Mayo-Kebbi-Ouest, Moyen-Chari, N'Djamena, Ouaddai, Salamat, Sila, Tandjile, Tibesti, Wadi-Fira<br>
+23 provinces; Barh-El-Gazel, Batha, Borkou, Chari-Baguirmi, Ennedi-Est, Ennedi-Ouest, Guera, Hadjer-Lamis, Kanem, Lac, Logone Occidental, Logone Oriental, Mandoul, Mayo-Kebbi-Est, Mayo-Kebbi-Ouest, Moyen-Chari, N'Djamena, Ouaddai, Salamat, Sila, Tandjile, Tibesti, Wadi-Fira<br>
 
 **Legal system**<br>
 mixed system of civil and customary law<br>

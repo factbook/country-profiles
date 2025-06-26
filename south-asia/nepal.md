@@ -68,7 +68,7 @@ Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), In
 Indus-Ganges-Brahmaputra Basin<br>
 
 **Population distribution**<br>
-most of the population is divided nearly equally between a concentration in the southern-most plains of the Tarai region and the central hilly region; overall density is quite low<br>
+most of the population is divided nearly equally between a concentration in the southern-most plains of the Tarai region and the central hilly region; overall density is low<br>
 
 **Natural hazards**<br>
 severe thunderstorms; flooding; landslides; drought and famine depending on the timing, intensity, and duration of the summer monsoons<br>
@@ -128,7 +128,7 @@ _female_: 28.6 years<br>
 -4.4 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most of the population is divided nearly equally between a concentration in the southern-most plains of the Tarai region and the central hilly region; overall density is quite low<br>
+most of the population is divided nearly equally between a concentration in the southern-most plains of the Tarai region and the central hilly region; overall density is low<br>
 
 **Urbanization**<br>
 _urban population_: 21.9% of total population (2023)<br>
@@ -301,7 +301,7 @@ _time difference_: UTC+5.75 (10.75 hours ahead of Washington, DC, during Standar
 _etymology_: the name comes from the Nepalese words <em>kath </em>(wooden) and <em>mandu </em>(temple), referring to the local temples that are often still built from wood<br>
 
 **Administrative divisions**<br>
-7 provinces (pradesh, singular - pradesh); Bagmati, Gandaki, Karnali, Koshi, Lumbini, Madhesh, Sudurpashchim<br>
+7 provinces (<em>pradesh</em>, singular - <em>pradesh</em>); Bagmati, Gandaki, Karnali, Koshi, Lumbini, Madhesh, Sudurpashchim<br>
 
 **Legal system**<br>
 English common law and Hindu legal concepts<br>

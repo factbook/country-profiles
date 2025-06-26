@@ -307,7 +307,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the origin of the name is unknown; Warszawa was the name of a fishing village, and several legends link the city's founding to a man named Wars or Warsz<br>
 
 **Administrative divisions**<br>
-16 voivodships [provinces] (wojewodztwa, singular - wojewodztwo); Dolnoslaskie (Lower Silesia), Kujawsko-Pomorskie (Kuyavia-Pomerania), Lodzkie (Lodz), Lubelskie (Lublin), Lubuskie (Lubusz), Malopolskie (Lesser Poland), Mazowieckie (Masovia), Opolskie (Opole), Podkarpackie (Subcarpathia), Podlaskie, Pomorskie (Pomerania), Slaskie (Silesia), Swietokrzyskie (Holy Cross), Warminsko-Mazurskie (Warmia-Masuria), Wielkopolskie (Greater Poland), Zachodniopomorskie (West Pomerania)<br>
+16 provinces or voivodships (<em>wojewodztwa</em>, singular - <em>wojewodztwo</em>); Dolnoslaskie (Lower Silesia), Kujawsko-Pomorskie (Kuyavia-Pomerania), Lodzkie (Lodz), Lubelskie (Lublin), Lubuskie (Lubusz), Malopolskie (Lesser Poland), Mazowieckie (Masovia), Opolskie (Opole), Podkarpackie (Subcarpathia), Podlaskie, Pomorskie (Pomerania), Slaskie (Silesia), Swietokrzyskie (Holy Cross), Warminsko-Mazurskie (Warmia-Masuria), Wielkopolskie (Greater Poland), Zachodniopomorskie (West Pomerania)<br>
 
 **Legal system**<br>
 civil law system; judicial review of legislative, administrative, and other governmental acts; constitutional law rulings of the Constitutional Tribunal are final<br>
@@ -446,12 +446,6 @@ $809.201 billion (2023 est.)<br>
 11.5% (2023 est.)<br>
 14.4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: A- (2007)<br>
-_Moody's rating_: A2 (2002)<br>
-_Standard & Poors rating_: A- (2018)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.7% (2023 est.)<br>

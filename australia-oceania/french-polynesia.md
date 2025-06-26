@@ -61,7 +61,7 @@ _other_: 43% (2022 est.)<br>
 10 sq km (2012)<br>
 
 **Population distribution**<br>
-the majority of the population lives in the Society Islands, one of five archipelagos that includes the most populous island - Tahiti - with approximately 70% of the nation's population<br>
+the majority of the population lives in the Society Islands, one of five archipelagos that includes the most populous island, Tahiti, with approximately 70% of the nation's population<br>
 
 **Natural hazards**<br>
 occasional cyclonic storms in January<br>
@@ -119,7 +119,7 @@ _female_: 35.6 years<br>
 -0.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the majority of the population lives in the Society Islands, one of five archipelagos that includes the most populous island - Tahiti - with approximately 70% of the nation's population<br>
+the majority of the population lives in the Society Islands, one of five archipelagos that includes the most populous island, Tahiti, with approximately 70% of the nation's population<br>
 
 **Urbanization**<br>
 _urban population_: 62.3% of total population (2023)<br>
@@ -233,7 +233,8 @@ _time difference_: UTC-10 (5 hours behind Washington, DC, during Standard Time)<
 _etymology_: the name derives from the Tahitian words <em>pape </em>(water) and <em>ete </em>(basket), referring to a place where people came to get water<br>
 
 **Administrative divisions**<br>
-5 administrative subdivisions (subdivisions administratives, singular - subdivision administrative): Iles Australes (Austral Islands), Iles du Vent (Windward Islands), Iles Marquises (Marquesas Islands), Iles Sous-le-Vent (Leeward Islands), Iles Tuamotu-Gambier; note - the Leeward Islands and the Windward Islands together make up the Society Islands (Iles de la Soci&eacute;t&eacute;)<br>
+5 administrative subdivisions (<em>subdivisions administratives</em>, singular - <em>subdivision administrative</em>): Iles Australes (Austral Islands), Iles du Vent (Windward Islands), Iles Marquises (Marquesas Islands), Iles Sous-le-Vent (Leeward Islands), Iles Tuamotu-Gambier<br>
+<strong>note:</strong> the Leeward Islands and the Windward Islands together make up the Society Islands (Iles de la Société)<br>
 
 **Legal system**<br>
 the laws of France apply<br>

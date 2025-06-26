@@ -286,7 +286,7 @@ _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time
 _etymology_: name derives from the Sanskrit words <em>simha</em> (lion) and <em>pur </em>(city); according to  Malayan folklore, an Indian prince visited Singapore in the 7th century and mistook the first animal he saw for a lion, which is not native to the country<br>
 
 **Administrative divisions**<br>
-no first order administrative divisions; there are five community development councils: Central Singapore Development Council, North East Development Council, North West Development Council, South East Development Council, South West Development Council (2019)<br>
+no first-order administrative divisions; five community development councils: Central Singapore Development Council, North East Development Council, North West Development Council, South East Development Council, South West Development Council (2019)<br>
 
 **Legal system**<br>
 English common law<br>
@@ -410,12 +410,6 @@ $501.428 billion (2023 est.)<br>
 4.8% (2023 est.)<br>
 6.1% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: AAA (2003)<br>
-_Moody's rating_: Aaa (2002)<br>
-_Standard & Poors rating_: AAA (1995)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0% (2023 est.)<br>

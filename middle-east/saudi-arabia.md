@@ -70,7 +70,7 @@ Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq 
 Arabian Aquifer System<br>
 
 **Population distribution**<br>
-historically a population that was mostly nomadic or semi-nomadic, the Saudi population has become more settled since petroleum was discovered in the 1930s; most of the economic activities - and with it the country's population - is concentrated in a wide area across the middle of the peninsula, from Ad Dammam in the east, through Riyadh in the interior, to Mecca-Medina in the west near the Red Sea<br>
+historically a population that was mostly nomadic or semi-nomadic, the Saudi population has become more settled since oil was discovered in the 1930s; most of the country's population is now concentrated in a wide area across the middle of the peninsula, from Ad Dammam in the east through Riyadh in the interior to Mecca-Medina in the west near the Red Sea<br>
 
 **Natural hazards**<br>
 <p>frequent sand and dust storms</p><p><strong>volcanism:</strong> despite many volcanic formations, there has been little activity in the past few centuries; volcanoes include Harrat Rahat, Harrat Khaybar, Harrat Lunayyir, and Jabal Yar</p><br>
@@ -129,7 +129,7 @@ _female_: 29.3 years<br>
 6.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-historically a population that was mostly nomadic or semi-nomadic, the Saudi population has become more settled since petroleum was discovered in the 1930s; most of the economic activities - and with it the country's population - is concentrated in a wide area across the middle of the peninsula, from Ad Dammam in the east, through Riyadh in the interior, to Mecca-Medina in the west near the Red Sea<br>
+historically a population that was mostly nomadic or semi-nomadic, the Saudi population has become more settled since oil was discovered in the 1930s; most of the country's population is now concentrated in a wide area across the middle of the peninsula, from Ad Dammam in the east through Riyadh in the interior to Mecca-Medina in the west near the Red Sea<br>
 
 **Urbanization**<br>
 _urban population_: 85% of total population (2023)<br>
@@ -294,7 +294,7 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name derives from the Arabic word <em>riyadh</em>, meaning "gardens;" the city was built around a small oasis<br>
 
 **Administrative divisions**<br>
-13 regions (manatiq, singular - mintaqah); Al Bahah, Al Hudud ash Shamaliyah (Northern Border), Al Jawf, Al Madinah al Munawwarah (Medina), Al Qasim, Ar Riyad (Riyadh), Ash Sharqiyah (Eastern), 'Asir, Ha'il, Jazan, Makkah al Mukarramah (Mecca), Najran, Tabuk<br>
+13 regions (<em>manatiq</em>, singular - <em>mintaqah</em>); Al Bahah, Al Hudud ash Shamaliyah (Northern Border), Al Jawf, Al Madinah al Munawwarah (Medina), Al Qasim, Ar Riyad (Riyadh), Ash Sharqiyah (Eastern), 'Asir, Ha'il, Jazan, Makkah al Mukarramah (Mecca), Najran, Tabuk<br>
 
 **Legal system**<br>
 Islamic (sharia) system with some elements of Egyptian, French, and customary law; commercial disputes handled by special committees<br>
@@ -417,12 +417,6 @@ $1.068 trillion (2023 est.)<br>
 2.3% (2023 est.)<br>
 2.5% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: A (2019)<br>
-_Moody's rating_: A1 (2016)<br>
-_Standard & Poors rating_: A- (2016)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.7% (2023 est.)<br>

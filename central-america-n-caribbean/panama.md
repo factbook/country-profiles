@@ -286,7 +286,7 @@ _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 _etymology_: origin is unclear; may come from a Guaran&iacute; word meaning "place of many fish"<br>
 
 **Administrative divisions**<br>
-10 provinces (provincias, singular - provincia) and 4 indigenous regions* (comarcas); Bocas del Toro, Chiriqui, Cocle, Colon, Darien, Embera-Wounaan*, Guna Yala*, Herrera, Los Santos, Naso Tjer Di*, Ngabe-Bugle*, Panama, Panama Oeste, Veraguas<br>
+10 provinces (<em>provincias</em>, singular - <em>provincia</em>) and 4 indigenous regions* (<em>comarcas</em>); Bocas del Toro, Chiriqui, Cocle, Colon, Darien, Embera-Wounaan*, Guna Yala*, Herrera, Los Santos, Naso Tjer Di*, Ngabe-Bugle*, Panama, Panama Oeste, Veraguas<br>
 
 **Legal system**<br>
 civil law system; Supreme Court of Justice reviews legislative acts<br>
@@ -410,12 +410,6 @@ $83.318 billion (2023 est.)<br>
 1.5% (2023 est.)<br>
 2.9% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BBB (2011)<br>
-_Moody's rating_: Baa1 (2019)<br>
-_Standard & Poors rating_: BBB (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.5% (2023 est.)<br>

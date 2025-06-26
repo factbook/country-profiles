@@ -214,7 +214,7 @@ _geographic coordinates_: 13 57 S, 171 56 W<br>
 _time difference_: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)<br>
 
 **Administrative divisions**<br>
-3 administrative precincts (circonscriptions, singular - circonscription) Alo, Sigave, Uvea<br>
+3 administrative precincts (<em>circonscriptions</em>, singular - <em>circonscription</em>) Alo, Sigave, Uvea<br>
 
 **Legal system**<br>
 French civil law<br>

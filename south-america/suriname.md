@@ -66,7 +66,7 @@ _other_: 5% (2022 est.)<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
 
 **Population distribution**<br>
-population concentrated along the nothern coastal strip; the remainder of the country is sparsely populated<br>
+population is concentrated along the northern coastal strip; the remainder of the country is sparsely populated<br>
 
 **Natural hazards**<br>
 flooding<br>
@@ -124,7 +124,7 @@ _female_: 32.9 years<br>
 2.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-population concentrated along the nothern coastal strip; the remainder of the country is sparsely populated<br>
+population is concentrated along the northern coastal strip; the remainder of the country is sparsely populated<br>
 
 **Urbanization**<br>
 _urban population_: 66.4% of total population (2023)<br>
@@ -281,7 +281,7 @@ _time difference_: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name comes from the Guaraní words <em>para </em>(water or river) and <em>maribo </em>(inhabitants)<br>
 
 **Administrative divisions**<br>
-10 districts (distrikten, singular - distrikt); Brokopondo, Commewijne, Coronie, Marowijne, Nickerie, Para, Paramaribo, Saramacca, Sipaliwini, Wanica<br>
+10 districts (<em>distrikten</em>, singular - <em>distrikt</em>); Brokopondo, Commewijne, Coronie, Marowijne, Nickerie, Para, Paramaribo, Saramacca, Sipaliwini, Wanica<br>
 
 **Legal system**<br>
 civil law system influenced by Dutch civil law<br>
@@ -405,12 +405,6 @@ $3.455 billion (2023 est.)<br>
 51.6% (2023 est.)<br>
 52.4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: C (2020)<br>
-_Moody's rating_: Caa3 (2020)<br>
-_Standard & Poors rating_: SD (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.5% (2023 est.)<br>

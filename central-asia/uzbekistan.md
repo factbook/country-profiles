@@ -70,7 +70,7 @@ Syr Darya (shared with Kyrgyzstan [s], Tajikistan, and Kazakhstan [m]) - 3,078 k
 Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
 
 **Population distribution**<br>
-most of the population is concentrated in the fertile Fergana Valley in the easternmost arm of the country; the south has significant clusters of people, while the central and western deserts are sparsely populated<br>
+most of the population is concentrated in the fertile Fergana Valley in the easternmost arm of the country; the south has significant clusters of people, but the central and western deserts are sparsely populated<br>
 
 **Natural hazards**<br>
 earthquakes; floods; landslides or mudslides; avalanches; droughts<br>
@@ -129,7 +129,7 @@ _female_: 29.8 years<br>
 -1.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most of the population is concentrated in the fertile Fergana Valley in the easternmost arm of the country; the south has significant clusters of people, while the central and western deserts are sparsely populated<br>
+most of the population is concentrated in the fertile Fergana Valley in the easternmost arm of the country; the south has significant clusters of people, but the central and western deserts are sparsely populated<br>
 
 **Urbanization**<br>
 _urban population_: 50.5% of total population (2023)<br>
@@ -304,8 +304,8 @@ _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time
 _etymology_: the current name of the ancient city was first used in the 11th century and comes from the Sogdian (Turkic) words <em>tash (</em>stone) and <em>kent</em> (town); the city was first recorded in the 5th or 4th century B.C. with the name of Chach or Shash<br>
 
 **Administrative divisions**<br>
-12 provinces (viloyatlar, singular - viloyat), 1 autonomous republic* (avtonom respublikasi), and 3 cities** (shahar); Andijon Viloyati, Buxoro Viloyati [Bukhara Province], Farg'ona Viloyati [Fergana Province], Jizzax Viloyati, Namangan Shahri, Namangan Viloyati, Navoiy Viloyati, Qashqadaryo Viloyati (Qarshi), Qoraqalpog'iston Respublikasi [Karakalpakstan Republic]* (Nukus), Samarqand Shahri [Samarkand City], Samarqand Viloyati [Samarkand Province], Sirdaryo Viloyati (Guliston), Surxondaryo Viloyati (Termiz), Toshkent Shahri [Tashkent City]**, Toshkent Viloyati [Nurafshon], Xorazm Viloyati (Urganch)  <br>
-<strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses) <br>
+12 provinces (<em>viloyatlar</em>, singular - <em>viloyat</em>), 1 autonomous republic* (<em>avtonom respublikasi</em>), and 3 cities** (<em>shahar</em>); Andijon Viloyati, Buxoro Viloyati [Bukhara Province], Farg'ona Viloyati [Fergana Province], Jizzax Viloyati, Namangan Shahri, Namangan Viloyati, Navoiy Viloyati, Qashqadaryo Viloyati (Qarshi), Qoraqalpog'iston Respublikasi [Karakalpakstan Republic]* (Nukus), Samarqand Shahri [Samarkand City], Samarqand Viloyati [Samarkand Province], Sirdaryo Viloyati (Guliston), Surxondaryo Viloyati (Termiz), Toshkent Shahri [Tashkent City]**, Toshkent Viloyati [Nurafshon], Xorazm Viloyati (Urganch)  <br>
+<strong>note:</strong> administrative divisions show the same names as their administrative centers; exceptions show the administrative center name in parentheses<br>
 
 **Legal system**<br>
 civil law system<br>
@@ -441,12 +441,6 @@ $101.592 billion (2023 est.)<br>
 10% (2023 est.)<br>
 11.4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BB- (2018)<br>
-_Moody's rating_: B1 (2019)<br>
-_Standard & Poors rating_: BB- (2018)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 20.6% (2023 est.)<br>

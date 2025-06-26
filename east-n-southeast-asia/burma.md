@@ -308,7 +308,7 @@ _time difference_: UTC+6.5 (11.5 hours ahead of Washington, DC, during Standard 
 _etymology_: Rangoon/Yangon derives from the Burmese words <em>yan</em> and <em>koun</em>, commonly translated as "end of strife"; Nay Pyi Taw translates as "abode of kings"<br>
 
 **Administrative divisions**<br>
-<p>7 regions (taing-myar, singular - taing), 7 states (pyi ne-myar, singular - pyi ne), 1 union territory</p> <p><strong>regions:</strong> Ayeyarwady (Irrawaddy), Bago, Magway, Mandalay, Sagaing, Tanintharyi, Yangon (Rangoon)</p> <p><strong>states:</strong> Chin, Kachin, Kayah, Karen, Mon, Rakhine, Shan</p> <p><strong>union territory:</strong> Nay Pyi Taw</p><br>
+<p>7 regions (<em>taing-myar</em>, singular - <em>taing</em>), 7 states (<em>pyi ne-myar</em>, singular - <em>pyi ne</em>), 1 union territory</p> <p><strong>regions:</strong> Ayeyarwady (Irrawaddy), Bago, Magway, Mandalay, Sagaing, Tanintharyi, Yangon (Rangoon)</p> <p><strong>states:</strong> Chin, Kachin, Kayah, Karen, Mon, Rakhine, Shan</p> <p><strong>union territory:</strong> Nay Pyi Taw</p><br>
 
 **Legal system**<br>
 mixed legal system of English common law (as introduced in codifications designed for colonial India) and customary law<br>

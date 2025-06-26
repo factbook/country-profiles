@@ -136,12 +136,6 @@ _time difference_: UTC+6.5 (11.5 hours ahead of Washington, DC, during Standard 
 **Administrative divisions**<br>
 none (territory of Australia)<br>
 
-**Independence**<br>
-none (territory of Australia)<br>
-
-**National holiday**<br>
-Australia Day (commemorates the arrival of the First Fleet of Australian settlers), 26 January (1788)<br>
-
 **Legal system**<br>
 common law based on the Australian model<br>
 
@@ -177,14 +171,20 @@ _highest court(s)_: under the terms of the Territorial Law Reform Act 1992, West
 **Political parties**<br>
 none<br>
 
-**International organization participation**<br>
-none<br>
-
 **Diplomatic representation in the US**<br>
 none (territory of Australia)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (territory of Australia)<br>
+
+**International organization participation**<br>
+none<br>
+
+**Independence**<br>
+none (territory of Australia)<br>
+
+**National holiday**<br>
+Australia Day (commemorates the arrival of the First Fleet of Australian settlers), 26 January (1788)<br>
 
 **Flag description**<br>
 the flag of Australia is used<br>

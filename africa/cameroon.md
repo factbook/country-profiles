@@ -72,7 +72,7 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km), Niger (2,261,741 sq km)<br>Int
 Lake Chad Basin<br>
 
 **Population distribution**<br>
-population concentrated in the west and north, with the interior of the country sparsely populated as shown in this population distribution map<br>
+population concentrated in the west and north, with the interior of the country sparsely populated, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 <p>volcanic activity with periodic releases of poisonous gases from Lake Nyos and Lake Monoun volcanoes</p><p><strong>volcanism:</strong> Mt. Cameroon (4,095 m), which last erupted in 2000, is the most frequently active volcano in West Africa; lakes in Oku volcanic field have released fatal levels of gas on occasion, killing some 1,700 people in 1986</p><br>
@@ -130,7 +130,7 @@ _female_: 19.2 years<br>
 -0.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-population concentrated in the west and north, with the interior of the country sparsely populated as shown in this population distribution map<br>
+population concentrated in the west and north, with the interior of the country sparsely populated, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 59.3% of total population (2023)<br>
@@ -309,7 +309,7 @@ _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
 _etymology_: Germans founded the city in 1888, but the name comes from the native Ewondo people; the meaning of the name is unclear<br>
 
 **Administrative divisions**<br>
-10 regions (regions, singular - region); Adamaoua, Centre, East (Est), Far North (Extr&ecirc;me-Nord), Littoral, North (Nord), North-West (Nord-Ouest), West (Ouest), South (Sud), South-West (Sud-Ouest)<br>
+10 regions (<em>régions</em>, singular - <em>région</em>); Adamaoua, Centre, East (Est), Far North (Extrême-Nord), Littoral, North (Nord), North-West (Nord-Ouest), West (Ouest), South (Sud), South-West (Sud-Ouest)<br>
 
 **Legal system**<br>
 mixed system of English common law, French civil law, and customary law<br>

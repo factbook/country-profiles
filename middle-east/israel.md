@@ -66,7 +66,7 @@ _other_: 64% (2022 est.)<br>
 _salt water lake(s)_: Dead Sea (shared with Jordan and West Bank) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
 
 **Population distribution**<br>
-population concentrated in and around Tel-Aviv, as well as around the Sea of Galilee; the south remains sparsely populated with the exception of the shore of the Gulf of Aqaba<br>
+population concentrated in and around Tel-Aviv, as well as around the Sea of Galilee; the south remains sparsely populated, with the exception of the shore of the Gulf of Aqaba<br>
 
 **Natural hazards**<br>
 sandstorms may occur during spring and summer; droughts; periodic earthquakes<br>
@@ -125,7 +125,7 @@ _female_: 30.7 years<br>
 1.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-population concentrated in and around Tel-Aviv, as well as around the Sea of Galilee; the south remains sparsely populated with the exception of the shore of the Gulf of Aqaba<br>
+population concentrated in and around Tel-Aviv, as well as around the Sea of Galilee; the south remains sparsely populated, with the exception of the shore of the Gulf of Aqaba<br>
 
 **Urbanization**<br>
 _urban population_: 92.9% of total population (2023)<br>
@@ -291,7 +291,7 @@ _etymology_: the meaning of the ancient name is unclear; the city is called Ursa
 <strong>note: </strong>the US recognized Jerusalem as Israel’s capital in 2017, without taking a position on the specific boundaries of Israeli sovereignty<br>
 
 **Administrative divisions**<br>
-6 districts (mehozot, singular - mehoz); Central, Haifa, Jerusalem, Northern, Southern, Tel Aviv<br>
+6 districts (<em>mehozot</em>, singular - <em>mehoz</em>); Central, Haifa, Jerusalem, Northern, Southern, Tel Aviv<br>
 
 **Legal system**<br>
 mixed system of English common law, British Mandate regulations, and Jewish, Christian, and Muslim religious laws<br>
@@ -419,12 +419,6 @@ $513.611 billion (2023 est.)<br>
 4.2% (2023 est.)<br>
 4.4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: A+ (2016)<br>
-_Moody's rating_: A1 (2008)<br>
-_Standard & Poors rating_: AA- (2018)<br>
-<strong>note: </strong>the year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.2% (2022 est.)<br>
@@ -668,7 +662,7 @@ the majority of the IDF's inventory is comprised of weapons that are domesticall
 <strong>note:</strong> the IDF recruits foreign Jews and non-Jews with a minimum of one Jewish grandparent, as well as converts to Judaism; each year the IDF brings in about 800-1,000 foreign recruits from around the world<br>
 
 **Military - note**<br>
-the IDF is responsible for external defense but also has some domestic security responsibilities; its primary operational focuses include the threat posed by Iran, instability in Syria, and terrorist organizations, including HAMAS, Hizballah, the Islamic State of Iraq and ash-Sham (ISIS), and Palestine Islamic Jihad (PIJ)<br><br>since its creation from armed Jewish militias during the First Arab-Israeli War in 1948-49, the IDF, particularly the Ground Force, has been guided by a requirement to rapidly mobilize and defend the country’s territory from numerically superior neighboring countries; the active-duty military is backed up by a large force of trained reserves--approximately 300-400,000 personnel--that can be mobilized rapidly <br><br>Israel’s primary security partner is the US; consistent with a 10-year (2019-2028) Memorandum of Understanding, the US annually provides over $3 billion in military financing and cooperative military programs, such as missile defense; the US also provides Israel access to US-produced military weapons systems including advanced fighter aircraft; Israel has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; UNDOF consists of about 1,000 military personnel (2024)<br>
+the IDF is responsible for external defense but also has some domestic security responsibilities; its primary operational focuses include the threat posed by Iran, instability in Syria, and terrorist organizations, including HAMAS, Hizballah, the Islamic State of Iraq and ash-Sham (ISIS), and Palestine Islamic Jihad (PIJ)<br><br>since its creation from armed Jewish militias during the First Arab-Israeli War in 1948-49, the IDF, particularly the Ground Force, has been guided by a requirement to rapidly mobilize and defend the country’s territory from numerically superior neighboring countries; the active-duty military is backed up by a large force of trained reserves--approximately 300-400,000 personnel--that can be mobilized rapidly <br><br>Israel’s primary security partner is the US; consistent with a 10-year (2019-2028) Memorandum of Understanding, the US annually provides over $3 billion in military financing and cooperative military programs, such as missile defense; the US also provides Israel access to US-produced military weapons systems including advanced fighter aircraft; Israel has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; UNDOF consists of about 1,300 total personnel (2024)<br>
 
 ## Space
 

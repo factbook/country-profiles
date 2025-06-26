@@ -304,7 +304,7 @@ _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time
 _etymology_: the name means "mountain of plenty," from the Cambodian words <em>phnom </em>(mountain or hill) and <em>penh </em>(full)<br>
 
 **Administrative divisions**<br>
-<p>24 provinces (khett, singular and plural) and 1 municipality (krong, singular and plural)</p> <p><strong>provinces:</strong> Banteay Meanchey, Battambang, Kampong Cham, Kampong Chhnang, Kampong Speu, Kampong Thom, Kampot, Kandal, Kep, Koh Kong, Kratie, Mondolkiri, Oddar Meanchey, Pailin, Preah Sihanouk, Preah Vihear, Prey Veng, Pursat, Ratanakiri, Siem Reap, Stung Treng, Svay Rieng, Takeo, Tbong Khmum</p> <p><strong>municipalities:</strong> Phnom Penh (Phnum Penh)</p><br>
+<p>24 provinces (<em>khett</em>, singular and plural) and 1 municipality (<em>krong</em>, singular and plural)</p> <p><strong>provinces:</strong> Banteay Meanchey, Battambang, Kampong Cham, Kampong Chhnang, Kampong Speu, Kampong Thom, Kampot, Kandal, Kep, Koh Kong, Kratie, Mondolkiri, Oddar Meanchey, Pailin, Preah Sihanouk, Preah Vihear, Prey Veng, Pursat, Ratanakiri, Siem Reap, Stung Treng, Svay Rieng, Takeo, Tbong Khmum</p> <p><strong>municipalities:</strong> Phnom Penh (Phnum Penh)</p><br>
 
 **Legal system**<br>
 civil law system (influenced by the UN Transitional Authority in Cambodia), customary law, Communist legal theory, and common law<br>

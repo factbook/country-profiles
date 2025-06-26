@@ -218,8 +218,8 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: named for the patron saint of fishermen; "port" distinguishes it from the Saint Peter (sometimes called Saint Peter in the Wood) on the other side of the island<br>
 
 **Administrative divisions**<br>
-none (British Crown dependency); there are no first-order administrative divisions as defined by the US Government, but there are 10 parishes: Castel, Forest, Saint Andrew, Saint Martin, Saint Peter Port, Saint Pierre du Bois, Saint Sampson, Saint Saviour, Torteval, Vale<br>
-<strong>note:</strong> two additional parishes for Guernsey are sometimes listed - Saint Anne on the island of Alderney and Saint Peter on the island of Sark - but they are generally not included in the enumeration of parishes<br>
+none (British Crown dependency); there are no first-order administrative divisions as defined by the US government, but there are 10 parishes: Castel, Forest, Saint Andrew, Saint Martin, Saint Peter Port, Saint Pierre du Bois, Saint Sampson, Saint Saviour, Torteval, Vale<br>
+<strong>note:</strong> two additional parishes for Guernsey are sometimes listed -- Saint Anne on the island of Alderney and Saint Peter on the island of Sark<br>
 
 **Legal system**<br>
 customary system based on Norman customary law; includes elements of the French civil code and English common law<br>

@@ -288,7 +288,7 @@ _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time
 _etymology_: the name may come from the Sanskrit word <em>mala</em>, or "garland"<br>
 
 **Administrative divisions**<br>
-21 administrative atolls (atholhuthah, singular - atholhu); Addu (Addu City), Ariatholhu Dhekunuburi (South Ari Atoll), Ariatholhu Uthuruburi (North Ari Atoll), Faadhippolhu, Felidhuatholhu (Felidhu Atoll), Fuvammulah, Hahdhunmathi, Huvadhuatholhu Dhekunuburi (South Huvadhu Atoll), Huvadhuatholhu Uthuruburi (North Huvadhu Atoll), Kolhumadulu, Maale (Male), Maaleatholhu (Male Atoll), Maalhosmadulu Dhekunuburi (South Maalhosmadulu), Maalhosmadulu Uthuruburi (North Maalhosmadulu), Miladhunmadulu Dhekunuburi (South Miladhunmadulu), Miladhunmadulu Uthuruburi (North Miladhunmadulu), Mulakatholhu (Mulaku Atoll), Nilandheatholhu Dhekunuburi (South Nilandhe Atoll), Nilandheatholhu Uthuruburi (North Nilandhe Atoll), Thiladhunmathee Dhekunuburi (South Thiladhunmathi), Thiladhunmathee Uthuruburi (North Thiladhunmathi)<br>
+21 administrative atolls (<em>atholhuthah</em>, singular - <em>atholhu</em>); Addu (Addu City), Ariatholhu Dhekunuburi (South Ari Atoll), Ariatholhu Uthuruburi (North Ari Atoll), Faadhippolhu, Felidhuatholhu (Felidhu Atoll), Fuvammulah, Hahdhunmathi, Huvadhuatholhu Dhekunuburi (South Huvadhu Atoll), Huvadhuatholhu Uthuruburi (North Huvadhu Atoll), Kolhumadulu, Maale (Male), Maaleatholhu (Male Atoll), Maalhosmadulu Dhekunuburi (South Maalhosmadulu), Maalhosmadulu Uthuruburi (North Maalhosmadulu), Miladhunmadulu Dhekunuburi (South Miladhunmadulu), Miladhunmadulu Uthuruburi (North Miladhunmadulu), Mulakatholhu (Mulaku Atoll), Nilandheatholhu Dhekunuburi (South Nilandhe Atoll), Nilandheatholhu Uthuruburi (North Nilandhe Atoll), Thiladhunmathee Dhekunuburi (South Thiladhunmathi), Thiladhunmathee Uthuruburi (North Thiladhunmathi)<br>
 
 **Legal system**<br>
 Islamic (sharia) legal system with English common law influences, primarily in commercial matters<br>
@@ -404,11 +404,6 @@ $6.591 billion (2023 est.)<br>
 2.9% (2023 est.)<br>
 2.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: CCC (2020)<br>
-_Moody's rating_: B3 (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 5.1% (2023 est.)<br>

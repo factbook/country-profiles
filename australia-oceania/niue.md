@@ -190,7 +190,7 @@ _time difference_: UTC-11 (6 hours behind Washington, DC, during Standard Time)<
 _etymology_: a traditional name for an area of the island; became the name for the newly declared capital in the 20th century<br>
 
 **Administrative divisions**<br>
-none; there are no first-order administrative divisions as defined by the US Government, but there are 14 villages at the second order<br>
+none; there are no first-order administrative divisions as defined by the US government, but 14 villages are considered second-order<br>
 
 **Legal system**<br>
 English common law<br>

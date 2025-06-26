@@ -68,7 +68,7 @@ _other_: 18.9% (2022 est.)<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
-pockets of agglomeration exist throughout the country, the largest being in the center of the country around the capital of Chisinau, followed by Tiraspol and Balti<br>
+pockets of agglomeration exist throughout the country, with the largest in the center of the country around the capital of Chisinau, followed by Tiraspol and Balti<br>
 
 **Natural hazards**<br>
 landslides<br>
@@ -127,7 +127,7 @@ _female_: 41.3 years<br>
 0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-pockets of agglomeration exist throughout the country, the largest being in the center of the country around the capital of Chisinau, followed by Tiraspol and Balti<br>
+pockets of agglomeration exist throughout the country, with the largest in the center of the country around the capital of Chisinau, followed by Tiraspol and Balti<br>
 
 **Urbanization**<br>
 _urban population_: 43.4% of total population (2023)<br>
@@ -296,7 +296,7 @@ _etymology_: origin unclear but may derive from the Old Moldovan word <em>kishin
 <strong>note:</strong> pronounced KEE-shee-now (KIH-shi-nyov)<br>
 
 **Administrative divisions**<br>
-<p>32 raions (raioane, singular - raion), 3 municipalities (municipii, singular - municipiul), 1 autonomous territorial unit (unitatea teritoriala autonoma), and 1 territorial unit (unitatea teritoriala)</p> <p><strong>raions:</strong> Anenii Noi, Basarabeasca, Briceni, Cahul, Cantemir, Calarasi, Causeni, Cimislia, Criuleni, Donduseni, Drochia, Dubasari, Edinet, Falesti, Floresti, Glodeni, Hincesti, Ialoveni, Leova, Nisporeni, Ocnita, Orhei, Rezina, Riscani, Singerei, Soldanesti, Soroca, Stefan Voda, Straseni, Taraclia, Telenesti, Ungheni</p> <p><strong>municipalities:</strong> Balti, Bender, Chisinau</p> <p><strong>autonomous territorial unit:</strong> Gagauzia</p> <p><strong>territorial unit:</strong> Stinga Nistrului (Transnistria)</p><br>
+<p>32 districts (<em>raioane</em>, singular - <em>raion</em>), 3 municipalities (<em>municipii</em>, singular - <em>municipiul</em>), 1 autonomous territorial unit (<em>unitatea teritoriala autonoma</em>), and 1 territorial unit (<em>unitatea teritoriala</em>)</p> <p><strong>raions:</strong> Anenii Noi, Basarabeasca, Briceni, Cahul, Cantemir, Calarasi, Causeni, Cimislia, Criuleni, Donduseni, Drochia, Dubasari, Edinet, Falesti, Floresti, Glodeni, Hincesti, Ialoveni, Leova, Nisporeni, Ocnita, Orhei, Rezina, Riscani, Singerei, Soldanesti, Soroca, Stefan Voda, Straseni, Taraclia, Telenesti, Ungheni</p> <p><strong>municipalities:</strong> Balti, Bender, Chisinau</p> <p><strong>autonomous territorial unit:</strong> Gagauzia</p> <p><strong>territorial unit:</strong> Stinga Nistrului (Transnistria)</p><br>
 
 **Legal system**<br>
 civil law system with Germanic law influences; Constitutional Court reviews legislative acts<br>
@@ -421,10 +421,6 @@ $16.539 billion (2023 est.)<br>
 13.4% (2023 est.)<br>
 28.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Moody's rating_: B3 (2010)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.6% (2023 est.)<br>

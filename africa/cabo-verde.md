@@ -63,7 +63,7 @@ _other_: 68.9% (2022 est.)<br>
 35 sq km (2012)<br>
 
 **Population distribution**<br>
-among the nine inhabited islands, population distribution is variable; islands in the east are very dry and are only sparsely settled to exploit their extensive salt deposits; the more southerly islands receive more precipitation and support larger populations, but agriculture and livestock grazing have damaged the soil fertility and vegetation; approximately half of the population lives on Sao Tiago Island, which is the location of the capital of Praia; Mindelo, on the northern island of Sao Vicente, also has a large urban population as shown in this population distribution map<br>
+among the nine inhabited islands, population distribution is variable; islands in the east are very dry and are only sparsely settled; the more southerly islands receive more precipitation and support larger populations; approximately half of the population lives on Sao Tiago Island, which is the location of the capital of Praia; Mindelo, on the northern island of Sao Vicente, also has a large urban population, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 <p>prolonged droughts; seasonal harmattan wind produces obscuring dust; volcanically and seismically active</p><p><strong>volcanism:</strong> Fogo (2,829 m), which last erupted in 1995, is Cabo Verde's only active volcano</p><br>
@@ -120,7 +120,7 @@ _female_: 29.6 years<br>
 -0.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-among the nine inhabited islands, population distribution is variable; islands in the east are very dry and are only sparsely settled to exploit their extensive salt deposits; the more southerly islands receive more precipitation and support larger populations, but agriculture and livestock grazing have damaged the soil fertility and vegetation; approximately half of the population lives on Sao Tiago Island, which is the location of the capital of Praia; Mindelo, on the northern island of Sao Vicente, also has a large urban population as shown in this population distribution map<br>
+among the nine inhabited islands, population distribution is variable; islands in the east are very dry and are only sparsely settled; the more southerly islands receive more precipitation and support larger populations; approximately half of the population lives on Sao Tiago Island, which is the location of the capital of Praia; Mindelo, on the northern island of Sao Vicente, also has a large urban population, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 68% of total population (2023)<br>
@@ -280,7 +280,7 @@ _time difference_: UTC-1 (4 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the earlier Portuguese name was Villa de Praia ("Village of the Beach"); it was shortened to Praia in 1974&nbsp;<br>
 
 **Administrative divisions**<br>
-22 municipalities (concelhos, singular - concelho); Boa Vista, Brava, Maio, Mosteiros, Paul, Porto Novo, Praia, Ribeira Brava, Ribeira Grande, Ribeira Grande de Santiago, Sal, Santa Catarina, Santa Catarina do Fogo, Santa Cruz, S&atilde;o Domingos, S&atilde;o Filipe, S&atilde;o Lourenco dos Orgaos, S&atilde;o Miguel, S&atilde;o Salvador do Mundo, S&atilde;o Vicente, Tarrafal, Tarrafal de S&atilde;o Nicolau<br>
+22 municipalities (<em>concelhos</em>, singular - <em>concelho</em>); Boa Vista, Brava, Maio, Mosteiros, Paul, Porto Novo, Praia, Ribeira Brava, Ribeira Grande, Ribeira Grande de Santiago, Sal, Santa Catarina, Santa Catarina do Fogo, Santa Cruz, São Domingos, São Filipe, São Lourenco dos Orgaos, São Miguel, São Salvador do Mundo, São Vicente, Tarrafal, Tarrafal de São Nicolau<br>
 
 **Legal system**<br>
 civil law system of Portugal<br>

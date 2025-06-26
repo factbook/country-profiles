@@ -77,7 +77,7 @@ Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), In
 Indus-Ganges-Brahmaputra Basin<br>
 
 **Population distribution**<br>
-with the notable exception of the deserts in the northwest, including the Thar Desert, and the mountain fringe in the north, a very high population density exists throughout most of the country; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations<br>
+a very high population density exists throughout most of the country, with the notable exception of the deserts in the northwest and the mountain fringe in the north; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations<br>
 
 **Natural hazards**<br>
 <p>droughts; flash floods, as well as widespread and destructive flooding from monsoonal rains; severe thunderstorms; earthquakes</p><p><strong>volcanism:</strong> Barren Island (354 m) in the Andaman Sea has been active in recent years</p><br>
@@ -136,7 +136,7 @@ _female_: 30.5 years<br>
 0.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-with the notable exception of the deserts in the northwest, including the Thar Desert, and the mountain fringe in the north, a very high population density exists throughout most of the country; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations<br>
+a very high population density exists throughout most of the country, with the notable exception of the deserts in the northwest and the mountain fringe in the north; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations<br>
 
 **Urbanization**<br>
 _urban population_: 36.4% of total population (2023)<br>
@@ -318,7 +318,7 @@ _etymology_: the name is of unknown origin; one theory says it may come from the
 
 **Administrative divisions**<br>
 28 states and 8 union territories*; Andaman and Nicobar Islands*, Andhra Pradesh, Arunachal Pradesh, Assam, Bihar, Chandigarh*, Chhattisgarh, Dadra and Nagar Haveli and Daman and Diu*, Delhi*, Goa, Gujarat, Haryana, Himachal Pradesh, Jammu and Kashmir*, Jharkhand, Karnataka, Kerala, Ladakh*, Lakshadweep*, Madhya Pradesh, Maharashtra, Manipur, Meghalaya, Mizoram, Nagaland, Odisha, Puducherry*, Punjab, Rajasthan, Sikkim, Tamil Nadu, Telangana, Tripura, Uttar Pradesh, Uttarakhand, West Bengal<br>
-<strong>note:</strong> although its status is that of a union territory, the official name of Delhi is National Capital Territory of Delhi<br>
+<strong>note:</strong> the official name of Delhi is National Capital Territory of Delhi, even though it is considered a union territory<br>
 
 **Legal system**<br>
 common law system based on the English model; separate personal law codes apply to Muslims, Christians, and Hindus; judicial review of legislative acts<br>
@@ -456,12 +456,6 @@ $3.568 trillion (2023 est.)<br>
 5.6% (2023 est.)<br>
 6.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BBB- (2006)<br>
-_Moody's rating_: Baa3 (2020)<br>
-_Standard & Poors rating_: BBB- (2007)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 16% (2023 est.)<br>

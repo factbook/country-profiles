@@ -68,7 +68,7 @@ Volta river source (shared with Ghana [m]) - 1,600 km<br><br><strong>note:</stro
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
 
 **Population distribution**<br>
- <p>Most of the population is located in the center and south. Nearly one-third of the population lives in cities. The capital and largest city is Ouagadougou (Ouaga), with a population of 1.8 million as shown in this population distribution map</p>  (2019)<br>
+ <p>most of the population is located in the center and south; nearly one third of the population lives in cities, including the capital city of Ouagadougou (Ouaga), as shown in this population distribution map</p>  (2019)<br>
 
 **Natural hazards**<br>
 recurring droughts<br>
@@ -125,7 +125,7 @@ _female_: 19.5 years<br>
 -0.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
- <p>Most of the population is located in the center and south. Nearly one-third of the population lives in cities. The capital and largest city is Ouagadougou (Ouaga), with a population of 1.8 million as shown in this population distribution map</p>  (2019)<br>
+ <p>most of the population is located in the center and south; nearly one third of the population lives in cities, including the capital city of Ouagadougou (Ouaga), as shown in this population distribution map</p>  (2019)<br>
 
 **Urbanization**<br>
 _urban population_: 32.5% of total population (2023)<br>

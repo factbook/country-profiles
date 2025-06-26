@@ -83,7 +83,7 @@ Atlantic Ocean drainage: <em>(Gulf of America) </em>Mississippi* (3,202,185 sq k
 Northern Great Plains Aquifer, Cambrian-Ordovician Aquifer System, Californian Central Valley Aquifer System, Ogallala Aquifer (High Plains), Atlantic and Gulf Coastal Plains Aquifer<br>
 
 **Population distribution**<br>
-large urban clusters are spread throughout the eastern half of the US (particularly the Great Lakes area, northeast, east, and southeast) and the western tier states; mountainous areas, principally the Rocky Mountains and Appalachian chain, deserts in the southwest, the dense boreal forests in the extreme north, and the central prarie states are less densely populated; Alaska's population is concentrated along its southern coast - with particular emphasis on the city of Anchorage - and Hawaii's is centered on the island of Oahu<br>
+large urban clusters are spread throughout the eastern half of the US (particularly the Great Lakes area, northeast, east, and southeast) and the western-tier states; mountainous areas such as the Rocky Mountains and Appalachians, deserts in the southwest, the dense boreal forests in the extreme north, and the central prairie states are less densely populated; Alaska's population is concentrated along its southern coast, particularly around Anchorage, and Hawaii's is centered on the island of Oahu<br>
 
 **Natural hazards**<br>
 <p>tsunamis; volcanoes; earthquake activity around Pacific Basin; hurricanes along the Atlantic and Gulf of America coasts; tornadoes in the Midwest and Southeast; mud slides in California; forest fires in the west; flooding; permafrost in northern Alaska, a major impediment to development</p> <p><strong>volcanism:</strong> volcanic activity in the Hawaiian Islands, Western Alaska, the Pacific Northwest, and in the Northern Mariana Islands; both Mauna Loa (4,170 m) in Hawaii and Mount Rainier (4,392 m) in Washington have been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; Pavlof (2,519 m) is the most active volcano in Alaska's Aleutian Arc and poses a significant threat to air travel since the area constitutes a major flight path between North America and East Asia; St. Helens (2,549 m), famous for the devastating 1980 eruption, remains active today; numerous other historically active volcanoes exist, mostly concentrated in the Aleutian arc and Hawaii; they include: in Alaska: Aniakchak, Augustine, Chiginagak, Fourpeaked, Iliamna, Katmai, Kupreanof, Martin, Novarupta, Redoubt, Spurr, Wrangell, Trident, Ugashik-Peulik, Ukinrek Maars, Veniaminof; in Hawaii: Haleakala, Kilauea, Loihi; in the Northern Mariana Islands: Anatahan; and in the Pacific Northwest: Mount Baker, Mount Hood; see note 2 under "Geography - note"</p><br>
@@ -142,7 +142,7 @@ _female_: 40 years<br>
 3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-large urban clusters are spread throughout the eastern half of the US (particularly the Great Lakes area, northeast, east, and southeast) and the western tier states; mountainous areas, principally the Rocky Mountains and Appalachian chain, deserts in the southwest, the dense boreal forests in the extreme north, and the central prarie states are less densely populated; Alaska's population is concentrated along its southern coast - with particular emphasis on the city of Anchorage - and Hawaii's is centered on the island of Oahu<br>
+large urban clusters are spread throughout the eastern half of the US (particularly the Great Lakes area, northeast, east, and southeast) and the western-tier states; mountainous areas such as the Rocky Mountains and Appalachians, deserts in the southwest, the dense boreal forests in the extreme north, and the central prairie states are less densely populated; Alaska's population is concentrated along its southern coast, particularly around Anchorage, and Hawaii's is centered on the island of Oahu<br>
 
 **Urbanization**<br>
 _urban population_: 83.3% of total population (2023)<br>
@@ -449,12 +449,6 @@ $27.721 trillion (2023 est.)<br>
 4.1% (2023 est.)<br>
 8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: AAA (1994)<br>
-_Moody's rating_: Aaa (1949)<br>
-_Standard & Poors rating_: AA+ (2011)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.9% (2021 est.)<br>

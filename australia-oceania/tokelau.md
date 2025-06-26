@@ -61,7 +61,7 @@ _other_: 40% (2022 est.)<br>
 0 sq km (2022)<br>
 
 **Population distribution**<br>
-the country's small population is fairly evenly distributed amongst the three atolls<br>
+the small population is fairly evenly distributed among the three atolls<br>
 
 **Natural hazards**<br>
 lies in Pacific cyclone belt<br>
@@ -103,7 +103,7 @@ _potential support ratio_: 7.9 (2024)<br>
 -3.84 migrant(s)/1,000 population (2021 est.)<br>
 
 **Population distribution**<br>
-the country's small population is fairly evenly distributed amongst the three atolls<br>
+the small population is fairly evenly distributed among the three atolls<br>
 
 **Urbanization**<br>
 _urban population_: 0% of total population (2023)<br>

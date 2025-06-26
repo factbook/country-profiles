@@ -68,7 +68,7 @@ Orange river source (shared with South Africa and Namibia [m]) - 2,092 km<br><br
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>
 
 **Population distribution**<br>
-relatively higher population density in the western half of the nation, with the capital of Maseru, and the smaller cities of Mafeteng, Teyateyaneng, and Leribe attracting the most people as shown in this population distribution map<br>
+relatively higher population density in the western half of the nation, with the capital of Maseru and the smaller cities of Mafeteng, Teyateyaneng, and Leribe attracting the most people, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 periodic droughts<br>
@@ -125,7 +125,7 @@ _female_: 24.3 years<br>
 -4.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-relatively higher population density in the western half of the nation, with the capital of Maseru, and the smaller cities of Mafeteng, Teyateyaneng, and Leribe attracting the most people as shown in this population distribution map<br>
+relatively higher population density in the western half of the nation, with the capital of Maseru and the smaller cities of Mafeteng, Teyateyaneng, and Leribe attracting the most people, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 30.4% of total population (2023)<br>
@@ -431,10 +431,6 @@ $2.118 billion (2023 est.)<br>
 6.3% (2023 est.)<br>
 8.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: B (2019)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.6% (2023 est.)<br>

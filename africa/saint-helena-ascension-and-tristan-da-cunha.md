@@ -62,7 +62,7 @@ _other_: 64.1% (2022 est.)<br>
 0 sq km (2022)<br>
 
 **Population distribution**<br>
-Saint Helena - population is concentrated in and around the capital Jamestown in the northwest, with another significant cluster in the interior Longwood area; Ascension - largest settlement, and location of most of the population, is Georgetown; Tristan da Cunha - most of the nearly 300 inhabitants live in the northern coastal town of Edinburgh of the Seven Seas<br>
+<em>Saint Helena:</em> population is concentrated in and around the capital of Jamestown in the northwest, with another significant cluster in the interior Longwood area<br><br><em>Ascension:</em> most of the population lives in and around Georgetown<br><br><em>Tristan da Cunha:</em> most of the nearly 300 inhabitants live in the northern coastal town of Edinburgh of the Seven Seas<br>
 
 **Natural hazards**<br>
 <p>active volcanism on Tristan da Cunha</p><p><strong>volcanism:</strong> the island volcanoes of Tristan da Cunha (2,060 m) and Nightingale Island (365 m) experience volcanic activity; Tristan da Cunha erupted in 1962 and Nightingale in 2004</p><br>
@@ -122,7 +122,7 @@ _female_: 45.4 years<br>
 0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-Saint Helena - population is concentrated in and around the capital Jamestown in the northwest, with another significant cluster in the interior Longwood area; Ascension - largest settlement, and location of most of the population, is Georgetown; Tristan da Cunha - most of the nearly 300 inhabitants live in the northern coastal town of Edinburgh of the Seven Seas<br>
+<em>Saint Helena:</em> population is concentrated in and around the capital of Jamestown in the northwest, with another significant cluster in the interior Longwood area<br><br><em>Ascension:</em> most of the population lives in and around Georgetown<br><br><em>Tristan da Cunha:</em> most of the nearly 300 inhabitants live in the northern coastal town of Edinburgh of the Seven Seas<br>
 
 **Urbanization**<br>
 _urban population_: 40.7% of total population (2023)<br>

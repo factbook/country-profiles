@@ -61,7 +61,7 @@ _other_: 32.8% (2022 est.)<br>
 1 sq km (2012)<br>
 
 **Population distribution**<br>
-while overall population density throughout the islands is relatively low, concentrations appear around Charlotte Amalie on St. Thomas and Christiansted on St. Croix<br>
+overall population density throughout the islands is relatively low, but concentrations appear around Charlotte Amalie on St. Thomas and Christiansted on St. Croix<br>
 
 **Natural hazards**<br>
 several hurricanes in recent years; frequent and severe droughts and floods; occasional earthquakes<br>
@@ -119,7 +119,7 @@ _female_: 43.9 years<br>
 -7.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-while overall population density throughout the islands is relatively low, concentrations appear around Charlotte Amalie on St. Thomas and Christiansted on St. Croix<br>
+overall population density throughout the islands is relatively low, but concentrations appear around Charlotte Amalie on St. Thomas and Christiansted on St. Croix<br>
 
 **Urbanization**<br>
 _urban population_: 96.2% of total population (2023)<br>
@@ -223,13 +223,7 @@ _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<
 _etymology_: named in honor of Danish King CHRISTIAN V&rsquo;s wife, Charlotte AMALIE of Hesse-Kassel, after the colony was established in 1672<br>
 
 **Administrative divisions**<br>
-none (territory of the US); there are no first-order administrative divisions as defined by the US Government, but there are 3 islands at the second order; Saint Croix, Saint John, Saint Thomas<br>
-
-**Independence**<br>
-none (territory of the US)<br>
-
-**National holiday**<br>
-Transfer Day (from Denmark to the US), 31 March (1917)<br>
+none (territory of the US); there are no first-order administrative divisions as defined by the US government, but 3 islands are considered second-order: Saint Croix, Saint John, Saint Thomas<br>
 
 **Legal system**<br>
 US common law<br>
@@ -261,14 +255,20 @@ _subordinate courts_: Superior Court (Territorial Court renamed in 2004); US Cou
 **Political parties**<br>
 Democratic Party<br>Independent Citizens' Movement or ICM<br>Republican Party<br>
 
-**International organization participation**<br>
-AOSIS (observer), Interpol (subbureau), IOC, UPU, WFTU (NGOs)<br>
-
 **Diplomatic representation in the US**<br>
 none (territory of the US)<br>
 
 **Diplomatic representation from the US**<br>
 none (territory of the US)<br>
+
+**International organization participation**<br>
+AOSIS (observer), Interpol (subbureau), IOC, UPU, WFTU (NGOs)<br>
+
+**Independence**<br>
+none (territory of the US)<br>
+
+**National holiday**<br>
+Transfer Day (from Denmark to the US), 31 March (1917)<br>
 
 **Flag description**<br>
 white field with a modified US coat of arms in the center between the large blue initials V and I; the coat of arms shows a yellow eagle holding an olive branch in its right talon and three arrows in the left, with a shield of seven red and six white vertical stripes below a blue panel; white is a symbol of purity, and the letters stand for the Virgin Islands<br>

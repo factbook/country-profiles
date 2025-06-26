@@ -325,7 +325,7 @@ _time zone note_: Mexico has four time zones<br>
 _etymology_: name may derive from one of the Nahuatl (Aztec) names for the capital city, Metztlixihtlico, which probably meant "the center of the moon;" alternatively, it may come from Mexica, the original name of the Aztec people<br>
 
 **Administrative divisions**<br>
-32 states (estados, singular - estado); Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila, Colima, Cuidad de Mexico, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Mexico, Michoac&aacute;n, Morelos, Nayarit, Nuevo Leon, Oaxaca, Puebla, Queretaro, Quintana Roo, San Luis Potosi, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatan, Zacatecas<br>
+32 states (<em>estados</em>, singular - <em>estado</em>); Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila, Colima, Cuidad de Mexico, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Mexico, Michoacán, Morelos, Nayarit, Nuevo Leon, Oaxaca, Puebla, Queretaro, Quintana Roo, San Luis Potosi, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatan, Zacatecas<br>
 
 **Legal system**<br>
 civil law system with US constitutional law influence; judicial review of legislative acts<br>
@@ -469,12 +469,6 @@ $1.789 trillion (2023 est.)<br>
 5.5% (2023 est.)<br>
 7.9% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BBB- (2020)<br>
-_Moody's rating_: Baa1 (2020)<br>
-_Standard & Poors rating_: BBB (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.8% (2023 est.)<br>

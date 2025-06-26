@@ -75,7 +75,7 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km), Volta
 Lullemeden-Irhazer Basin, Taodeni-Tanezrouft Basin<br>
 
 **Population distribution**<br>
-the overwhelming majority of the population lives in the southern half of the country, with greater density along the border with Burkina Faso as shown in this population distribution map<br>
+the overwhelming majority of the population lives in the southern half of the country, with greater density along the border with Burkina Faso, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 hot, dust-laden harmattan haze common during dry seasons; recurring droughts; occasional Niger River flooding<br>
@@ -133,7 +133,7 @@ _female_: 17.1 years<br>
 -2.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the overwhelming majority of the population lives in the southern half of the country, with greater density along the border with Burkina Faso as shown in this population distribution map<br>
+the overwhelming majority of the population lives in the southern half of the country, with greater density along the border with Burkina Faso, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 46.2% of total population (2023)<br>
@@ -313,7 +313,7 @@ _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the origin of the name is unclear, but it comes from the Bambara language and can refer either to a crocodile or to a person's name<br>
 
 **Administrative divisions**<br>
-19 regions (regions, singular - region), 1 district*; Bamako*, Bandiagara, Bougouni, Dioila, Douentza, Gao, Kayes, Kidal, Kita, Koulikoro, Koutiala, Menaka, Mopti, Nara, Nioro, San, Segou, Sikasso, Taoudenni, Tombouctou (Timbuktu)<br>
+19 regions (<em>régions</em>, singular - <em>région</em>), 1 district*; Bamako*, Bandiagara, Bougouni, Dioila, Douentza, Gao, Kayes, Kidal, Kita, Koulikoro, Koutiala, Menaka, Mopti, Nara, Nioro, San, Segou, Sikasso, Taoudenni, Tombouctou (Timbuktu)<br>
 
 **Legal system**<br>
 civil law system based on the French civil law model and influenced by customary law; Constitutional Court reviews legislative acts<br>
@@ -437,10 +437,6 @@ $20.662 billion (2023 est.)<br>
 2.1% (2023 est.)<br>
 9.6% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Moody's rating_: Caa1 (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 35.1% (2023 est.)<br>

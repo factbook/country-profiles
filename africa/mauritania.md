@@ -74,7 +74,7 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
 Senegalo-Mauritanian Basin, Taodeni-Tanzerouft Basin<br>
 
 **Population distribution**<br>
-with most of the country being a desert, vast areas of the country, particularly in the central, northern, and eastern areas, are without sizeable population clusters; half the population lives in or around the coastal capital of Nouakchott; smaller clusters are found near the southern border with Mali and Senegal as shown in this population distribution map<br>
+vast areas of the country, particularly in the central, northern, and eastern areas, are desert and lack sizeable population clusters; half the population lives in or around the coastal capital of Nouakchott; smaller clusters are found near the southern border with Mali and Senegal, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 hot, dry, dust/sand-laden sirocco wind primarily in March and April; periodic droughts<br>
@@ -133,7 +133,7 @@ _female_: 23.1 years<br>
 -0.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-with most of the country being a desert, vast areas of the country, particularly in the central, northern, and eastern areas, are without sizeable population clusters; half the population lives in or around the coastal capital of Nouakchott; smaller clusters are found near the southern border with Mali and Senegal as shown in this population distribution map<br>
+vast areas of the country, particularly in the central, northern, and eastern areas, are desert and lack sizeable population clusters; half the population lives in or around the coastal capital of Nouakchott; smaller clusters are found near the southern border with Mali and Senegal, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 57.7% of total population (2023)<br>
@@ -308,7 +308,7 @@ _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the meaning of the name is unclear; it may derive from the Berber <em>nawakshut</em>, meaning "place of the winds;" other variants could translate as "the place where water appears in a new well," "the land where shells abound," "a place with pasture," "a windy place," or "without ears" (the last referring to a local chieftain who could have been the place's namesake)<br>
 
 **Administrative divisions**<br>
-15 regions (wilayas, singular - wilaya); Adrar, Assaba, Brakna, Dakhlet Nouadhibou, Gorgol, Guidimaka, Hodh ech Chargui, Hodh El Gharbi, Inchiri, Nouakchott Nord, Nouakchott Ouest, Nouakchott Sud, Tagant, Tiris Zemmour, Trarza<br>
+15 regions (<em>wilayas</em>, singular - <em>wilaya</em>); Adrar, Assaba, Brakna, Dakhlet Nouadhibou, Gorgol, Guidimaka, Hodh ech Chargui, Hodh El Gharbi, Inchiri, Nouakchott Nord, Nouakchott Ouest, Nouakchott Sud, Tagant, Tiris Zemmour, Trarza<br>
 
 **Legal system**<br>
 mixed system of Islamic and French civil law<br>

@@ -90,14 +90,14 @@ _etymology_: the name comes from one of two explorers who sighted the islands in
 **Dependency status**<br>
 unincorporated, unorganized territory of the US; administered by the Department of the Interior; the 11th US Air Force currently conducts activities on the atoll, and it is managed from Pacific Air Force Support Center<br>
 
-**Independence**<br>
-none (territory of the US)<br>
-
 **Legal system**<br>
 US common law<br>
 
 **Citizenship**<br>
 see United States<br>
+
+**Independence**<br>
+none (territory of the US)<br>
 
 **Flag description**<br>
 the US flag is used<br>

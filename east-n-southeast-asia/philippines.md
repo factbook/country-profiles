@@ -66,7 +66,7 @@ _other_: 33.1% (2022 est.)<br>
 _salt water lake(s)_: Laguna de Bay - 890 sq km<br>
 
 **Population distribution**<br>
-population concentrated where good farmlands lie; highest concentrations are northwest and south-central Luzon, the southeastern extension of Luzon, and the islands of the Visayan Sea, particularly Cebu and Negros; Manila is home to one-eighth of the entire national population<br>
+population concentrated in areas with good farmland; highest concentrations are northwest and south-central Luzon, the southeastern extension of Luzon, and the islands of the Visayan Sea, particularly Cebu and Negros; Manila is home to one eighth of the national population<br>
 
 **Natural hazards**<br>
 <p>astride typhoon belt, usually affected by 15 and struck by five to six cyclonic storms each year; landslides; active volcanoes; destructive earthquakes; tsunamis</p><p><strong>volcanism:</strong> significant volcanic activity; Taal (311 m), which has shown recent unrest and may erupt in the near future, has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Mayon (2,462 m), the country's most active volcano, erupted in 2009 forcing over 33,000 to be evacuated; other historically active volcanoes include Biliran, Babuyan Claro, Bulusan, Camiguin, Camiguin de Babuyanes, Didicas, Iraya, Jolo, Kanlaon, Makaturing, Musuan, Parker, Pinatubo, and Ragang; see note 2 under "Geography - note"</p><br>
@@ -125,7 +125,7 @@ _female_: 26.3 years<br>
 -0.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-population concentrated where good farmlands lie; highest concentrations are northwest and south-central Luzon, the southeastern extension of Luzon, and the islands of the Visayan Sea, particularly Cebu and Negros; Manila is home to one-eighth of the entire national population<br>
+population concentrated in areas with good farmland; highest concentrations are northwest and south-central Luzon, the southeastern extension of Luzon, and the islands of the Visayan Sea, particularly Cebu and Negros; Manila is home to one eighth of the national population<br>
 
 **Urbanization**<br>
 _urban population_: 48.3% of total population (2023)<br>
@@ -443,12 +443,6 @@ $437.146 billion (2023 est.)<br>
 6% (2023 est.)<br>
 5.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BBB (2017)<br>
-_Moody's rating_: Baa2 (2014)<br>
-_Standard & Poors rating_: BBB+ (2019)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 9.4% (2023 est.)<br>

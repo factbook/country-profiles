@@ -222,7 +222,7 @@ _time difference_: UTC+10 (15 hours ahead of Washington, DC, during Standard Tim
 _etymology_: the origin of the name is unclear; it probably comes from a local word meaning "deserted" or "uninhabited," but stories vary on how it came to be used<br>
 
 **Administrative divisions**<br>
-none (commonwealth in political union with the US); there are no first-order administrative divisions as defined by the US Government, but there are 4 municipalities at the second order: Northern Islands, Rota, Saipan, Tinian<br>
+none (commonwealth in political union with the US); there are no first-order administrative divisions as defined by the US government, but 4 municipalities are considered second-order: Northern Islands, Rota, Saipan, Tinian<br>
 
 **Legal system**<br>
 the laws of the US apply, except for customs and some aspects of taxation<br>

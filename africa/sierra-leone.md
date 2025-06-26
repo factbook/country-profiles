@@ -68,7 +68,7 @@ _other_: 10.7% (2022 est.)<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>
 
 **Population distribution**<br>
-population clusters are found in the lower elevations of the south and west; the northern third of the country is less populated as shown on this population distribution map<br>
+population clusters are found in the lower elevations of the south and west; the northern third of the country is less populated, as shown on this population distribution map<br>
 
 **Natural hazards**<br>
 dry, sand-laden harmattan winds blow from the Sahara (December to February); sandstorms, dust storms<br>
@@ -125,7 +125,7 @@ _female_: 19.9 years<br>
 1.4 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-population clusters are found in the lower elevations of the south and west; the northern third of the country is less populated as shown on this population distribution map<br>
+population clusters are found in the lower elevations of the south and west; the northern third of the country is less populated, as shown on this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 44.3% of total population (2023)<br>

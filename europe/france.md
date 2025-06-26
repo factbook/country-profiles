@@ -322,8 +322,8 @@ _time zone note_: applies to metropolitan France only; for its overseas regions 
 _etymology_: name derives from the Parisii, a Celtic tribe that inhabited the area from the 3rd century B.C.; the Celtic settlement became the Roman town of Lutetia Parisiorum (Lutetia of the Parisii); over subsequent centuries it became Parisium and then Paris<br>
 
 **Administrative divisions**<br>
-18 regions (régions, singular - région); Auvergne-Rhône-Alpes, Bourgogne-Franche-Comté, Bretagne (Brittany), Centre-Val de Loire (Center-Loire Valley), Corse (Corsica), Grand Est (Grand East), Guadeloupe, Guyane (French Guiana), Hauts-de-France (Upper France), Ile-de-France, Martinique, Mayotte, Normandie (Normandy), Nouvelle-Aquitaine (New Aquitaine), Occitanie (Occitania), Pays de la Loire (Lands of the Loire), Provence-Alpes-Côte d'Azur, Réunion<br>
-<strong>note:</strong> France is divided into 13 metropolitan regions (including the "collectivity" of Corse or Corsica) and 5 overseas regions (French Guiana, Guadeloupe, Martinique, Mayotte, and Réunion) and is subdivided into 96 metropolitan departments and 5 overseas departments (which are the same as the overseas regions)<br>
+18 regions (<em>régions</em>, singular - <em>région</em>); Auvergne-Rhône-Alpes, Bourgogne-Franche-Comté, Bretagne (Brittany), Centre-Val de Loire (Center-Loire Valley), Corse (Corsica), Grand Est (Grand East), Guadeloupe, Guyane (French Guiana), Hauts-de-France (Upper France), Ile-de-France, Martinique, Mayotte, Normandie (Normandy), Nouvelle-Aquitaine (New Aquitaine), Occitanie (Occitania), Pays de la Loire (Lands of the Loire), Provence-Alpes-Côte d'Azur, Réunion<br>
+<strong>note:</strong> France is divided into 13 metropolitan regions (including the "collectivity" of Corse, or Corsica) and 5 overseas regions (French Guiana, Guadeloupe, Martinique, Mayotte, and Réunion) and is subdivided into 96 metropolitan departments and 5 overseas departments (which are the same as the overseas regions)<br>
 
 **Dependent areas**<br>
 Clipperton Island, French Polynesia, French Southern and Antarctic Lands, New Caledonia, Saint Barthelemy, Saint Martin, Saint Pierre and Miquelon, Wallis and Futuna (8)<br>
@@ -466,12 +466,6 @@ $3.052 trillion (2023 est.)<br>
 4.9% (2023 est.)<br>
 5.2% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: AA (2014)<br>
-_Moody's rating_: Aa2 (2015)<br>
-_Standard & Poors rating_: AA (2013)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.7% (2023 est.)<br>

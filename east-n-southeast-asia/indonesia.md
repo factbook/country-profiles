@@ -71,7 +71,7 @@ _fresh water lake(s)_: Danau Toba - 1,150 sq km<br>note - located in the caldera
 Sepik (shared with Papua New Guinea [s]) - 1,126 km; Fly (shared with Papua New Guinea [s]) - 1,050 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Population distribution**<br>
-major concentration on the island of Java, which is considered one of the most densely populated places on earth; of the outer islands (those surrounding Java and Bali), Sumatra contains some of the most significant clusters, particularly in the south near the Selat Sunda, and along the northeastern coast near Medan; the cities of Makasar (Sulawesi), Banjarmasin (Kalimantan) are also heavily populated<br>
+major concentration on the island of Java, which is considered one of the most densely populated places on earth; of the outer islands, Sumatra contains some of the most significant clusters, particularly in the south near the Selat Sunda and along the northeastern coast near Medan; the cities of Makasar (Sulawesi), Banjarmasin (Kalimantan) are also heavily populated<br>
 
 **Natural hazards**<br>
 <p>occasional floods; severe droughts; tsunamis; earthquakes; volcanoes; forest fires</p> <p><strong>volcanism:</strong> Indonesia contains the most volcanoes of any country in the world - some 76 are historically active; significant volcanic activity occurs on Java, Sumatra, the Sunda Islands, Halmahera Island, Sulawesi Island, Sangihe Island, and in the Banda Sea; Merapi (2,968 m), Indonesia's most active volcano and in eruption since 2010, has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; on 22 December 2018, a large explosion and flank collapse destroyed most of the 338 m high island of Anak Krakatau (Child of Krakatau) and generated a deadly tsunami inundating portions of western Java and southern Sumatra leaving more than 400 dead; other notable historically active volcanoes include Agung, Awu, Karangetang, Krakatau (Krakatoa), Makian, Raung, Sinabung, and Tambora; see note 2 under "Geography - note"</p><br>
@@ -129,7 +129,7 @@ _female_: 32.3 years<br>
 -0.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-major concentration on the island of Java, which is considered one of the most densely populated places on earth; of the outer islands (those surrounding Java and Bali), Sumatra contains some of the most significant clusters, particularly in the south near the Selat Sunda, and along the northeastern coast near Medan; the cities of Makasar (Sulawesi), Banjarmasin (Kalimantan) are also heavily populated<br>
+major concentration on the island of Java, which is considered one of the most densely populated places on earth; of the outer islands, Sumatra contains some of the most significant clusters, particularly in the south near the Selat Sunda and along the northeastern coast near Medan; the cities of Makasar (Sulawesi), Banjarmasin (Kalimantan) are also heavily populated<br>
 
 **Urbanization**<br>
 _urban population_: 58.6% of total population (2023)<br>
@@ -313,8 +313,7 @@ _etymology_: derives from the Sanscrit name Jayakarta, meaning "victory and pros
 <strong>note:</strong> in 2022, the relocation of the country’s capital was approved, from Jakarta to a site on the island of Borneo between Samarinda City and the port city of Balikpapan; Nusantara ("archipelago"), the new capital, was in development as of 2024 and is expected to be completed in 2045<br>
 
 **Administrative divisions**<br>
-35 provinces (provinsi-provinsi, singular - provinsi), 1 autonomous province*, 1 special region** (daerah istimewa), and 1 national capital district*** (daerah khusus ibukota); Aceh*, Bali, Banten, Bengkulu, Gorontalo, Jakarta***, Jambi, Jawa Barat (West Java), Jawa Tengah (Central Java), Jawa Timur (East Java), Kalimantan Barat (West Kalimantan), Kalimantan Selatan (South Kalimantan), Kalimantan Tengah (Central Kalimantan), Kalimantan Timur (East Kalimantan), Kalimantan Utara (North Kalimantan), Kepulauan Bangka Belitung (Bangka Belitung Islands), Kepulauan Riau (Riau Islands), Lampung, Maluku, Maluku Utara (North Maluku), Nusa Tenggara Barat (West Nusa Tenggara), Nusa Tenggara Timur (East Nusa Tenggara), Papua, Papua Barat (West Papua), Papua Barat Daya (Southwest Papua), Papua Pegunungan (Papua Highlands), Papua Selatan (South Papua), Papua Tengah (Central Papua), Riau, Sulawesi Barat (West Sulawesi), Sulawesi Selatan (South Sulawesi), Sulawesi Tengah (Central Sulawesi), Sulawesi Tenggara (Southeast Sulawesi), Sulawesi Utara (North Sulawesi), Sumatera Barat (West Sumatra), Sumatera Selatan (South Sumatra), Sumatera Utara (North Sumatra), Yogyakarta**<br>
-<strong>note:</strong> following the implementation of decentralization beginning on 1 January 2001, regencies and municipalities have become the key administrative units responsible for providing most government services<br>
+35 provinces (<em>provinsi-provinsi</em>, singular - <em>provinsi</em>), 1 autonomous province*, 1 special region** (<em>daerah istimewa</em>), and 1 national capital district*** (<em>daerah khusus ibukota</em>); Aceh*, Bali, Banten, Bengkulu, Gorontalo, Jakarta***, Jambi, Jawa Barat (West Java), Jawa Tengah (Central Java), Jawa Timur (East Java), Kalimantan Barat (West Kalimantan), Kalimantan Selatan (South Kalimantan), Kalimantan Tengah (Central Kalimantan), Kalimantan Timur (East Kalimantan), Kalimantan Utara (North Kalimantan), Kepulauan Bangka Belitung (Bangka Belitung Islands), Kepulauan Riau (Riau Islands), Lampung, Maluku, Maluku Utara (North Maluku), Nusa Tenggara Barat (West Nusa Tenggara), Nusa Tenggara Timur (East Nusa Tenggara), Papua, Papua Barat (West Papua), Papua Barat Daya (Southwest Papua), Papua Pegunungan (Papua Highlands), Papua Selatan (South Papua), Papua Tengah (Central Papua), Riau, Sulawesi Barat (West Sulawesi), Sulawesi Selatan (South Sulawesi), Sulawesi Tengah (Central Sulawesi), Sulawesi Tenggara (Southeast Sulawesi), Sulawesi Utara (North Sulawesi), Sumatera Barat (West Sumatra), Sumatera Selatan (South Sumatra), Sumatera Utara (North Sumatra), Yogyakarta**<br>
 
 **Legal system**<br>
 civil law system based on the Roman-Dutch model and influenced by customary law<br>
@@ -441,12 +440,6 @@ $1.371 trillion (2023 est.)<br>
 4.2% (2022 est.)<br>
 1.6% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BBB (2017)<br>
-_Moody's rating_: Baa2 (2018)<br>
-_Standard & Poors rating_: BBB (2019)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 12.5% (2023 est.)<br>

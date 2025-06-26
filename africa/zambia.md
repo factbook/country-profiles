@@ -74,7 +74,7 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambe
 Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 **Population distribution**<br>
-one of the highest levels of urbanization in Africa; high density in the central area, particularly around the cities of Lusaka, Ndola, Kitwe, and Mufulira as shown in this population distribution map<br>
+one of the highest levels of urbanization in Africa; high density in the central area, particularly around the cities of Lusaka, Ndola, Kitwe, and Mufulira, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 periodic drought; tropical storms (November to April)<br>
@@ -132,7 +132,7 @@ _female_: 18.6 years<br>
 0.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-one of the highest levels of urbanization in Africa; high density in the central area, particularly around the cities of Lusaka, Ndola, Kitwe, and Mufulira as shown in this population distribution map<br>
+one of the highest levels of urbanization in Africa; high density in the central area, particularly around the cities of Lusaka, Ndola, Kitwe, and Mufulira, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 46.3% of total population (2023)<br>
@@ -424,12 +424,6 @@ $27.578 billion (2023 est.)<br>
 11% (2022 est.)<br>
 22% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: RD (2020)<br>
-_Moody's rating_: Ca (2020)<br>
-_Standard & Poors rating_: SD (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.2% (2023 est.)<br>

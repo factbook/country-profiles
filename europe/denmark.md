@@ -66,7 +66,7 @@ _other_: 18.6% (2022 est.)<br>
 2,420 sq km (2022)<br>
 
 **Population distribution**<br>
-with excellent access to the North Sea, Skagerrak, Kattegat, and the Baltic Sea, population centers tend to be along coastal areas, particularly in Copenhagen and the eastern side of the country's mainland<br>
+population centers tend to be along coastal areas, particularly in Copenhagen and the eastern side of the country's mainland<br>
 
 **Natural hazards**<br>
 flooding is a threat in some areas of the country (e.g., parts of Jutland, along the southern coast of the island of Lolland) that are protected from the sea by a system of dikes<br>
@@ -125,7 +125,7 @@ _female_: 43.4 years<br>
 2.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-with excellent access to the North Sea, Skagerrak, Kattegat, and the Baltic Sea, population centers tend to be along coastal areas, particularly in Copenhagen and the eastern side of the country's mainland<br>
+population centers tend to be along coastal areas, particularly in Copenhagen and the eastern side of the country's mainland<br>
 
 **Urbanization**<br>
 _urban population_: 88.5% of total population (2023)<br>
@@ -293,7 +293,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: name derives from the Danish words <em>køber </em>(merchant or buyer) and <em>havn </em>(harbor or port)<br>
 
 **Administrative divisions**<br>
-metropolitan Denmark - 5 regions (regioner, singular - region); Hovedstaden (Capital), Midtjylland (Central Jutland), Nordjylland (North Jutland), Sjaelland (Zealand), Syddanmark (Southern Denmark)<br>
+metropolitan Denmark - 5 regions (<em>regioner</em>, singular - <em>region</em>); Hovedstaden (Capital), Midtjylland (Central Jutland), Nordjylland (North Jutland), Sjaelland (Zealand), Syddanmark (Southern Denmark)<br>
 
 **Legal system**<br>
 civil law; judicial review of legislative acts<br>
@@ -421,12 +421,6 @@ $407.092 billion (2023 est.)<br>
 3.3% (2023 est.)<br>
 7.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: AAA (2003)<br>
-_Moody's rating_: Aaa (1999)<br>
-_Standard & Poors rating_: AAA (2001)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.8% (2023 est.)<br>
@@ -675,7 +669,7 @@ the Danish military inventory is comprised of modern European, US, and domestica
 approximately 800 Latvia (NATO); Denmark contributes small numbers of air, ground, and naval forces to a variety of other NATO and international missions (2024)<br>
 
 **Military - note**<br>
-the Danish Armed Forces (Forsvaret) have a variety of missions, including enforcing the country’s sovereignty, monitoring Danish waters and airspace, search and rescue, environmental protection, host nation support for alliance partners, international peacekeeping, fulfilling Denmark’s commitments to NATO, and providing assistance to the police for border control, guard tasks, air surveillance, and during national disasters and other emergencies<br><br>NATO has been a cornerstone of Danish security and defense police since it joined in 1949 as one of the organization’s original members under the North Atlantic Treaty (also known as the Washington Treaty); the Forsvaret regularly exercises with NATO allies and participates in a number of NATO missions, including its Enhanced Forward Presence in Eastern Europe, air policing in the Baltics, naval operations in the Baltic Sea and North Atlantic, and an advisory mission in Iraq; the Forsvaret leads NATO’s Multinational Division – North (inaugurated 2019), a headquarters based in Latvia that supports the defense planning of Estonia, Latvia, and Lithuania, and the coordination of regional military activities, including NATO’s forward deployed forces; it also takes part in other international missions for Europe and the UN ranging from peacekeeping in Africa to protecting Europe's external borders by patrolling the Mediterranean Sea in support of the European Border and Coast Guard Agency; Denmark is a member of the EU and voted to join the EU’s Common Defense and Security Policy in a 2022 referendum; the Forsvaret cooperates closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO; established 2009), which consists of Denmark, Finland, Iceland, Norway, and Sweden in such areas as armaments, training and exercises, and operations; it also has a joint composite special operations command with Belgium and the Netherlands<br><br>the Defense Command is Denmark's overall military command authority for land, air, and naval operations, although the Army, Air Force, and Navy also have their own individual service commands; an Arctic Command protects the sovereignty of Denmark in the Arctic region, including the Faroe Islands and Greenland, and conducts maritime pollution prevention, environmental monitoring, fishery inspections, search and rescue, and hydrographical surveys, plus support to governmental science missions; there is also a joint service Special Operations Command (SOKOM), which includes the Sirius Dog Sled Patrol, an elite unit that patrols the most remote parts of northeast Greenland (2025)<br>
+the Danish Armed Forces (Forsvaret) have a variety of missions, including enforcing the country’s sovereignty, monitoring Danish waters and airspace, search and rescue, environmental protection, host nation support for alliance partners, international peacekeeping, fulfilling Denmark’s commitments to NATO, and providing assistance to the police for border control, guard tasks, air surveillance, and during national disasters and other emergencies<br><br>NATO has been a cornerstone of Danish security and defense police since it joined in 1949 as one of the organization’s original members under the North Atlantic Treaty (also known as the Washington Treaty); the Forsvaret regularly exercises with NATO allies and participates in a number of NATO missions, including its Enhanced Forward Presence in Eastern Europe, air policing in the Baltics, naval operations in the Baltic Sea and North Atlantic, and an advisory mission in Iraq; the Forsvaret leads NATO’s Multinational Division – North (inaugurated 2019), a headquarters based in Latvia that supports the defense planning of Estonia, Latvia, and Lithuania, and the coordination of regional military activities, including NATO’s forward deployed forces; it also takes part in other international missions for Europe and the UN ranging from peacekeeping in Africa to protecting Europe's external borders by patrolling the Mediterranean Sea in support of the European Border and Coast Guard Agency; Denmark is a member of the EU and voted to join the EU’s Common Defense and Security Policy in a 2022 referendum; the Forsvaret cooperates closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO; established 2009), which consists of Denmark, Finland, Iceland, Norway, and Sweden in such areas as armaments, training and exercises, and operations; it also has a joint composite special operations command with Belgium and the Netherlands<br><br>the Forsvaret has an Arctic Command to protect the sovereignty of Denmark in the Arctic region, including the Faroe Islands and Greenland, and conducts maritime pollution prevention, environmental monitoring, fishery inspections, search and rescue, and hydrographical surveys, plus support to governmental science missions; there is also a joint service Special Operations Command (SOKOM), which includes the Sirius Dog Sled Patrol, an elite unit that patrols the most remote parts of northeast Greenland (2025)<br>
 
 ## Space
 

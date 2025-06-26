@@ -286,7 +286,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the name's origin is unclear; it may derive from the Old Lithuanian word <em>ringa</em>, meaning "bend" or "curve" and referring to the city's location on the Western Dvina River; alternatively, it may come from the Latvian word <em>ridzina</em>, meaning "stream"<br>
 
 **Administrative divisions**<br>
-<p>36 municipalities (novadi, singular - novads) and 7 state cities (valstpilsetu pasvaldibas, singular valstspilsetas pasvaldiba)</p> <p><strong>municipalities:</strong> Adazi, Aizkraukle, Aluksne, Augsdaugava, Balvi, Bauska, Cesis, Dienvidkurzeme, Dobele, Gulbene, Jekabpils, Jelgava, Kekava, Kraslava, Kuldiga, Limbazi, Livani, Ludza, Madona, Marupe, Ogre, Olaine, Preili, Rezekne, Ropazi, Salaspils, Saldus, Saulkrasti, Sigulda, Smiltene, Talsi, Tukums, Valka, Valmiera, Varaklani, Ventspils</p> <p><strong>cities:</strong> Daugavpils, Jelgava, Jurmala, Liepaja, Rezekne, Riga, Ventspils</p><br>
+<p>36 municipalities (<em>novadi</em>, singular - <em>novads</em>) and 7 state cities (<em>valstpilsetu pasvaldibas</em>, singular - <em>valstspilsetas pasvaldiba</em>)</p> <p><strong>municipalities:</strong> Adazi, Aizkraukle, Aluksne, Augsdaugava, Balvi, Bauska, Cesis, Dienvidkurzeme, Dobele, Gulbene, Jekabpils, Jelgava, Kekava, Kraslava, Kuldiga, Limbazi, Livani, Ludza, Madona, Marupe, Ogre, Olaine, Preili, Rezekne, Ropazi, Salaspils, Saldus, Saulkrasti, Sigulda, Smiltene, Talsi, Tukums, Valka, Valmiera, Varaklani, Ventspils</p> <p><strong>cities:</strong> Daugavpils, Jelgava, Jurmala, Liepaja, Rezekne, Riga, Ventspils</p><br>
 
 **Legal system**<br>
 civil law system with traces of socialist legal traditions and practices<br>
@@ -408,12 +408,6 @@ $42.248 billion (2023 est.)<br>
 8.9% (2023 est.)<br>
 17.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: A- (2014)<br>
-_Moody's rating_: A3 (2015)<br>
-_Standard & Poors rating_: A+ (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.8% (2023 est.)<br>

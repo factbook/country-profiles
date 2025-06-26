@@ -74,7 +74,7 @@ Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 Nubian Aquifer System, Sudd Basin (Umm Ruwaba Aquifer)<br>
 
 **Population distribution**<br>
-with the exception of a ribbon of settlement that corresponds to the banks of the Nile, northern Sudan, which extends into the dry Sahara, is sparsely populated; more abundant vegetation and broader access to water increases population distribution in the south extending habitable range along nearly the entire border with South Sudan; sizeable areas of population are found around Khartoum, southeast between the Blue and White Nile Rivers, and throughout South Darfur as shown on this population distribution map<br>
+with the exception of a ribbon of settlement that corresponds to the banks of the Nile, northern Sudan is sparsely populated; sizeable areas of population are found around Khartoum, southeast between the Blue and White Nile Rivers, and throughout South Darfur, as shown on this population distribution map<br>
 
 **Natural hazards**<br>
 dust storms and periodic persistent droughts<br>
@@ -132,7 +132,7 @@ _female_: 19.6 years<br>
 -1.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-with the exception of a ribbon of settlement that corresponds to the banks of the Nile, northern Sudan, which extends into the dry Sahara, is sparsely populated; more abundant vegetation and broader access to water increases population distribution in the south extending habitable range along nearly the entire border with South Sudan; sizeable areas of population are found around Khartoum, southeast between the Blue and White Nile Rivers, and throughout South Darfur as shown on this population distribution map<br>
+with the exception of a ribbon of settlement that corresponds to the banks of the Nile, northern Sudan is sparsely populated; sizeable areas of population are found around Khartoum, southeast between the Blue and White Nile Rivers, and throughout South Darfur, as shown on this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 36.3% of total population (2023)<br>
@@ -291,8 +291,8 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name derives from the Arabic words <em>ras </em>(head or end) and <em>al-khurtum</em> (elephant's trunk), referring to the narrow strip of land between the Blue and White Niles where the city is located<br>
 
 **Administrative divisions**<br>
-18 states (wilayat, singular - wilayah); Blue Nile, Central Darfur, East Darfur, Gedaref, Gezira, Kassala, Khartoum, North Darfur, North Kordofan, Northern, Red Sea, River Nile, Sennar, South Darfur, South Kordofan, West Darfur, West Kordofan, White Nile<br>
-<strong>note: </strong>the peace Agreement signed in October 2020 included a provision to establish a system of governance to restructure the country's current 18 provinces/states into regions<br>
+18 states (<em>wilayat</em>, singular - <em>wilayah</em>); Blue Nile, Central Darfur, East Darfur, Gedaref, Gezira, Kassala, Khartoum, North Darfur, North Kordofan, Northern, Red Sea, River Nile, Sennar, South Darfur, South Kordofan, West Darfur, West Kordofan, White Nile<br>
+<strong>note: </strong>the peace agreement signed in 2020 included a provision to establish a system of governance to restructure the country's current 18 states into regions<br>
 
 **Legal system**<br>
 mixed system of Islamic law and English common law<br>

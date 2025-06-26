@@ -64,7 +64,7 @@ _other_: 16% (2022 est.)<br>
 4,420 sq km (2022)<br>
 
 **Population distribution**<br>
-a highly uneven distribution with over 80% of the population residing on the Malay Peninsula<br>
+a highly uneven distribution, with over 80% of the population residing on the Malay Peninsula<br>
 
 **Natural hazards**<br>
 flooding; landslides; forest fires<br>
@@ -123,7 +123,7 @@ _female_: 31.9 years<br>
 1.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-a highly uneven distribution with over 80% of the population residing on the Malay Peninsula<br>
+a highly uneven distribution, with over 80% of the population residing on the Malay Peninsula<br>
 
 **Urbanization**<br>
 _urban population_: 78.7% of total population (2023)<br>
@@ -290,7 +290,7 @@ _etymology_: the name means "muddy river junction," referring to the city's loca
 <strong>note:</strong> nearby Putrajaya is referred to as a federal government administrative center but not as the capital; the legislature meets in Kuala Lumpur<br>
 
 **Administrative divisions**<br>
-13 states (negeri-negeri, singular - negeri); Johor, Kedah, Kelantan, Melaka, Negeri Sembilan, Pahang, Perak, Perlis, Pulau Pinang, Sabah, Sarawak, Selangor, Terengganu; and 1 federal territory (Wilayah Persekutuan) with 3 components, Kuala Lumpur, Labuan, and Putrajaya<br>
+13 states (<em>negeri-negeri</em>, singular - <em>negeri</em>); Johor, Kedah, Kelantan, Melaka, Negeri Sembilan, Pahang, Perak, Perlis, Pulau Pinang, Sabah, Sarawak, Selangor, Terengganu; and 1 federal territory (Wilayah Persekutuan) with 3 components, Kuala Lumpur, Labuan, and Putrajaya<br>
 
 **Legal system**<br>
 mixed system of English common law, Islamic law (sharia), and customary law; the Federal Court can review legislative acts at the request of the supreme head of the federation<br>
@@ -423,12 +423,6 @@ $399.705 billion (2023 est.)<br>
 2.5% (2023 est.)<br>
 3.4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BBB+ (2020)<br>
-_Moody's rating_: A3 (2004)<br>
-_Standard & Poors rating_: A- (2003)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.8% (2023 est.)<br>

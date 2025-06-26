@@ -68,7 +68,7 @@ _other_: 17.9% (2022 est.)<br>
 Sepik river source and mouth (shared with Indonesia) - 1,126 km; Fly river source and mouth (shared with Indonesia) - 1,050 km<br>
 
 **Population distribution**<br>
-population concentrated in the highlands and eastern coastal areas on the island of New Guinea; predominantly a rural distribution with only about one-fifth of the population residing in urban areas<br>
+population concentrated in the highlands and eastern coastal areas on the island of New Guinea; predominantly a rural distribution with only about one fifth of the population residing in urban areas<br>
 
 **Natural hazards**<br>
 <p>active volcanism; the country is subject to frequent and sometimes severe earthquakes; mud slides; tsunamis</p><p><strong>volcanism:</strong> severe volcanic activity; Ulawun (2,334 m), one of Papua New Guinea's potentially most dangerous volcanoes, has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Rabaul (688 m) destroyed the city of Rabaul in 1937 and 1994; Lamington erupted in 1951 killing 3,000 people; Manam's 2004 eruption forced the island's abandonment; other historically active volcanoes include Bam, Bagana, Garbuna, Karkar, Langila, Lolobau, Long Island, Pago, St. Andrew Strait, Victory, and Waiowa; see note 2 under "Geography - note"</p><br>
@@ -127,7 +127,7 @@ _female_: 21.9 years<br>
 0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-population concentrated in the highlands and eastern coastal areas on the island of New Guinea; predominantly a rural distribution with only about one-fifth of the population residing in urban areas<br>
+population concentrated in the highlands and eastern coastal areas on the island of New Guinea; predominantly a rural distribution with only about one fifth of the population residing in urban areas<br>
 
 **Urbanization**<br>
 _urban population_: 13.7% of total population (2023)<br>
@@ -417,11 +417,6 @@ $30.729 billion (2023 est.)<br>
 2.3% (2023 est.)<br>
 5.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Moody's rating_: B2 (2016)<br>
-_Standard & Poors rating_: B- (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 17% (2023 est.)<br>

@@ -73,7 +73,7 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambe
 Congo Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 **Population distribution**<br>
-most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda as shown in this population distribution map<br>
+most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 locally heavy rainfall causes periodic flooding on the plateau<br>
@@ -131,7 +131,7 @@ _female_: 16.8 years<br>
 -0.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda as shown in this population distribution map<br>
+most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 68.7% of total population (2023)<br>
@@ -299,7 +299,7 @@ _daylight saving time_: does not observe daylight savings time<br>
 _etymology_: the Portuguese named the city S&atilde;o Paulo da Assun&ccedil;&atilde;o de Loanda (Saint Paul of the Assumption of Loanda); over time, it was shortened to "Luanda," which may derive from a Bantu word meaning "tax" or "duty," in reference to local people paying their dues to the king of the Congo<br>
 
 **Administrative divisions**<br>
-18 provinces (provincias, singular - provincia); Bengo, Benguela, Bie, Cabinda, Cuando Cubango, Cuanza-Norte, Cuanza-Sul, Cunene, Huambo, Huila, Luanda, Lunda-Norte, Lunda-Sul, Malanje, Moxico, Namibe, Uige, Zaire<br>
+18 provinces (<em>provincias</em>, singular - <em>provincia</em>); Bengo, Benguela, Bie, Cabinda, Cuando Cubango, Cuanza-Norte, Cuanza-Sul, Cunene, Huambo, Huila, Luanda, Lunda-Norte, Lunda-Sul, Malanje, Moxico, Namibe, Uige, Zaire<br>
 
 **Legal system**<br>
 civil legal system based on Portuguese civil law; no judicial review of legislation<br>
@@ -422,12 +422,6 @@ $84.825 billion (2023 est.)<br>
 13.6% (2023 est.)<br>
 21.4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: CCC (2020)<br>
-_Moody's rating_: Caa1 (2020)<br>
-_Standard & Poors rating_: CCC+ (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 14.9% (2023 est.)<br>

@@ -74,7 +74,7 @@ Rio de la Plata/Parana river mouth (shared with Brazil [s], Argentina, Paraguay)
 Guarani Aquifer System<br>
 
 **Population distribution**<br>
-most of the country's population resides in the southern half of the country; approximately 80% of the populace is urban, living in towns or cities; nearly half of the population lives in and around the capital of Montevideo<br>
+most of the country's population resides in the southern half of the country; approximately 80% of the populace is urban; nearly half of the population lives in and around the capital of Montevideo<br>
 
 **Natural hazards**<br>
 seasonally high winds (the pampero is a chilly and occasional violent wind that blows north from the Argentine pampas), droughts, floods; because of the absence of mountains, which act as weather barriers, all locations are particularly vulnerable to rapid changes from weather fronts<br>
@@ -133,7 +133,7 @@ _female_: 38.2 years<br>
 -0.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most of the country's population resides in the southern half of the country; approximately 80% of the populace is urban, living in towns or cities; nearly half of the population lives in and around the capital of Montevideo<br>
+most of the country's population resides in the southern half of the country; approximately 80% of the populace is urban; nearly half of the population lives in and around the capital of Montevideo<br>
 
 **Urbanization**<br>
 _urban population_: 95.8% of total population (2023)<br>
@@ -308,7 +308,7 @@ _time difference_: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the origin of the name is disputed but refers to a hill or mountain (<em>monte</em>); one theory combines the Spanish word <em>monte </em>(mountain) with the Latin <em>video </em>(I see)<br>
 
 **Administrative divisions**<br>
-19 departments (departamentos, singular - departamento); Artigas, Canelones, Cerro Largo, Colonia, Durazno, Flores, Florida, Lavalleja, Maldonado, Montevideo, Paysand&uacute;, Rio Negro, Rivera, Rocha, Salto, San Jos&eacute;, Soriano, Tacuaremb&oacute;, Treinta y Tres<br>
+19 departments (<em>departamentos</em>, singular - <em>departamento</em>); Artigas, Canelones, Cerro Largo, Colonia, Durazno, Flores, Florida, Lavalleja, Maldonado, Montevideo, Paysandú, Rio Negro, Rivera, Rocha, Salto, San José, Soriano, Tacuarembó, Treinta y Tres<br>
 
 **Legal system**<br>
 civil law system based on the Spanish civil code<br>
@@ -447,12 +447,6 @@ $77.241 billion (2023 est.)<br>
 5.9% (2023 est.)<br>
 9.1% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BBB- (2013)<br>
-_Moody's rating_: Baa2 (2014)<br>
-_Standard & Poors rating_: BBB (2015)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 5.6% (2023 est.)<br>

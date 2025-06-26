@@ -68,7 +68,7 @@ _other_: 11.6% (2022 est.)<br>
 _salt water lake(s)_: Laguna de Caratasca - 1,110 sq km<br>
 
 **Population distribution**<br>
-most residents live in the mountainous western half of the country; unlike other Central American nations, Honduras is the only one with an urban population that is distributed between two large centers - the capital of Tegucigalpa and the city of San Pedro Sula; the Rio Ulua valley in the north is the only densely populated lowland area<br>
+most residents live in the mountainous western half of the country; Honduras is the only Central American nation with an urban population that is distributed between two large centers, the capital of Tegucigalpa and the city of San Pedro Sula; the Rio Ulua valley in the north is the only densely populated lowland area<br>
 
 **Natural hazards**<br>
 frequent, but generally mild, earthquakes; extremely susceptible to damaging hurricanes and floods along the Caribbean coast<br>
@@ -126,7 +126,7 @@ _female_: 26.6 years<br>
 -1.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most residents live in the mountainous western half of the country; unlike other Central American nations, Honduras is the only one with an urban population that is distributed between two large centers - the capital of Tegucigalpa and the city of San Pedro Sula; the Rio Ulua valley in the north is the only densely populated lowland area<br>
+most residents live in the mountainous western half of the country; Honduras is the only Central American nation with an urban population that is distributed between two large centers, the capital of Tegucigalpa and the city of San Pedro Sula; the Rio Ulua valley in the north is the only densely populated lowland area<br>
 
 **Urbanization**<br>
 _urban population_: 60.2% of total population (2023)<br>
@@ -297,7 +297,7 @@ _etymology_: the name is a Nahuatl word meaning "silver mountain," probably refe
 <strong>note:</strong> the Honduran constitution states that Tegucigalpa and Comayaguela jointly constitute the capital of Honduras, but virtually all governmental institutions are on the Tegucigalpa side<br>
 
 **Administrative divisions**<br>
-18 departments (departamentos, singular - departamento); Atl&aacute;ntida, Choluteca, Colon, Comayagua, Copan, Cortes, El Paraiso, Francisco Moraz&aacute;n, Gracias a Dios, Intibuca, Islas de la Bahia, La Paz, Lempira, Ocotepeque, Olancho, Santa Barbara, Valle, Yoro<br>
+18 departments (<em>departamentos</em>, singular - <em>departamento</em>); Atlántida, Choluteca, Colon, Comayagua, Copan, Cortes, El Paraiso, Francisco Morazán, Gracias a Dios, Intibucá, Islas de la Bahia, La Paz, Lempira, Ocotepeque, Olancho, Santa Barbara, Valle, Yoro<br>
 
 **Legal system**<br>
 civil law system<br>
@@ -423,11 +423,6 @@ $34.401 billion (2023 est.)<br>
 6.7% (2023 est.)<br>
 9.1% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Moody's rating_: B1 (2017)<br>
-_Standard & Poors rating_: BB- (2017)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 12% (2023 est.)<br>

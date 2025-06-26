@@ -313,7 +313,8 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the origin of the name is unclear but may be related to the Old Slavic (Polabian) word <em>berl </em>or <em>birl</em>, meaning "swamp" and referring to the original settlement site by the Spree River<br>
 
 **Administrative divisions**<br>
-16 states (Laender, singular - Land); Baden-Wuerttemberg, Bayern (Bavaria), Berlin, Brandenburg, Bremen, Hamburg, Hessen (Hesse), Mecklenburg-Vorpommern (Mecklenburg-Western Pomerania), Niedersachsen (Lower Saxony), Nordrhein-Westfalen (North Rhine-Westphalia), Rheinland-Pfalz (Rhineland-Palatinate), Saarland, Sachsen (Saxony), Sachsen-Anhalt (Saxony-Anhalt), Schleswig-Holstein, Thueringen (Thuringia); note - Bayern, Sachsen, and Thueringen refer to themselves as free states (Freistaaten, singular - Freistaat), while Bremen calls itself a Free Hanseatic City (Freie Hansestadt) and Hamburg considers itself a Free and Hanseatic City (Freie und Hansestadt)<br>
+16 states (<em>Laender</em>, singular - <em>Land</em>); Baden-Wuerttemberg, Bayern (Bavaria), Berlin, Brandenburg, Bremen, Hamburg, Hessen (Hesse), Mecklenburg-Vorpommern (Mecklenburg-Western Pomerania), Niedersachsen (Lower Saxony), Nordrhein-Westfalen (North Rhine-Westphalia), Rheinland-Pfalz (Rhineland-Palatinate), Saarland, Sachsen (Saxony), Sachsen-Anhalt (Saxony-Anhalt), Schleswig-Holstein, Thueringen (Thuringia)<br>
+<strong>note:</strong> Bayern, Sachsen, and Thueringen refer to themselves as free states (<em>Freistaaten</em>, singular - <em>Freistaat</em>), while Bremen calls itself a Free Hanseatic City (<em>Freie Hansestadt</em>) and Hamburg considers itself a Free and Hanseatic City (<em>Freie und Hansestadt</em>)<br>
 
 **Legal system**<br>
 civil law system<br>
@@ -446,12 +447,6 @@ $4.526 trillion (2023 est.)<br>
 5.9% (2023 est.)<br>
 6.9% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: AAA (1994)<br>
-_Moody's rating_: Aaa (1986)<br>
-_Standard & Poors rating_: AAA (1983)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained. Credit ratings prior to 1989 refer to West Germany.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.8% (2023 est.)<br>

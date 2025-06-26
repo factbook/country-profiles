@@ -76,7 +76,7 @@ Atlantic Ocean drainage: Orange (941,351 sq km)<br>
 Karoo Basin, Lower Kalahari-Stampriet Basin<br>
 
 **Population distribution**<br>
-the population concentrated along the southern and southeastern coast, and inland around Pretoria; the eastern half of the country is more densely populated than the west as shown in this population distribution map<br>
+the population is concentrated along the southern and southeastern coast, and inland around Pretoria; the eastern half of the country is more densely populated than the west, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 <p>prolonged droughts</p><p><strong>volcanism:</strong> the volcano forming Marion Island in the Prince Edward Islands, which last erupted in 2004, is South Africa's only active volcano</p><br>
@@ -136,7 +136,7 @@ _female_: 30.6 years<br>
 -0.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the population concentrated along the southern and southeastern coast, and inland around Pretoria; the eastern half of the country is more densely populated than the west as shown in this population distribution map<br>
+the population is concentrated along the southern and southeastern coast, and inland around Pretoria; the eastern half of the country is more densely populated than the west, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 68.8% of total population (2023)<br>

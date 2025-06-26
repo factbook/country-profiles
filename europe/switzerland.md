@@ -71,7 +71,7 @@ Rhein (Rhine) river source (shared with Germany, France, and Netherlands [m]) - 
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
 
 **Population distribution**<br>
-population distribution corresponds to elevation with the northern and western areas far more heavily populated; the higher Alps of the south limit settlement<br>
+population distribution corresponds to elevation, with the northern and western areas far more heavily populated; the higher Alps of the south limit settlement<br>
 
 **Natural hazards**<br>
 avalanches, landslides; flash floods<br>
@@ -131,7 +131,7 @@ _female_: 44.9 years<br>
 5.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-population distribution corresponds to elevation with the northern and western areas far more heavily populated; the higher Alps of the south limit settlement<br>
+population distribution corresponds to elevation, with the northern and western areas far more heavily populated; the higher Alps of the south limit settlement<br>
 
 **Urbanization**<br>
 _urban population_: 74.2% of total population (2023)<br>
@@ -302,8 +302,8 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the origin of the name is uncertain; it is sometimes associated with the German word <em>Baer </em>(bear), but a more likely origin is an Indo-European root word <em>ber</em>, meaning "marshy place"<br>
 
 **Administrative divisions**<br>
-26 cantons (cantons, singular - canton in French; cantoni, singular - cantone in Italian; Kantone, singular - Kanton in German); Aargau, Appenzell Ausserrhoden, Appenzell Innerrhoden, Basel-Landschaft, Basel-Stadt, Berne/Bern, Fribourg/Freiburg, Genève (Geneva), Glarus, Graubuenden/Grigioni/Grischun, Jura, Luzern (Lucerne), Neuchatel, Nidwalden, Obwalden, Sankt Gallen, Schaffhausen, Schwyz, Solothurn, Thurgau, Ticino, Uri, Valais/Wallis, Vaud, Zug, Zuerich<br>
-<strong>note:</strong> the canton names are in the official language(s) of the canton with the exception of Geneve and Luzern, where the conventional names (Geneva and Lucerne) have been added in parentheses; 6 of the cantons - Appenzell Ausserrhoden, Appenzell Innerrhoden, Basel-Landschaft, Basel-Stadt, Nidwalden, Obwalden - are referred to as half cantons because they elect only one member (instead of two) to the Council of States and, in popular referendums where a majority of popular votes and a majority of cantonal votes are required, these 6 cantons only have a half vote<br>
+26 cantons (<em>cantons</em>, singular - <em>canton </em>in French; <em>cantoni</em>, singular - <em>cantone </em>in Italian; <em>Kantone</em>, singular - <em>Kanton </em>in German); Aargau, Appenzell Ausserrhoden, Appenzell Innerrhoden, Basel-Landschaft, Basel-Stadt, Berne/Bern, Fribourg/Freiburg, Genève (Geneva), Glarus, Graubuenden/Grigioni/Grischun, Jura, Luzern (Lucerne), Neuchatel, Nidwalden, Obwalden, Sankt Gallen, Schaffhausen, Schwyz, Solothurn, Thurgau, Ticino, Uri, Valais/Wallis, Vaud, Zug, Zuerich<br>
+<strong>note 1:</strong> the names listed above are in the canton's official language(s), with conventional names in parentheses<br><br><strong>note 2: </strong>6 of the cantons -- Appenzell Ausserrhoden, Appenzell Innerrhoden, Basel-Landschaft, Basel-Stadt, Nidwalden, Obwalden -- are referred to as half cantons because they elect only one member (instead of two) to the Council of States, and in popular referendums where a majority of popular votes and cantonal votes are required, these 6 cantons have a half vote<br>
 
 **Legal system**<br>
 civil law system; judicial review of legislative acts, except federal decrees of a general obligatory character<br>
@@ -444,12 +444,6 @@ $884.94 billion (2023 est.)<br>
 2.1% (2023 est.)<br>
 2.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: AAA (2000)<br>
-_Moody's rating_: Aaa (1982)<br>
-_Standard & Poors rating_: AAA (1988)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.6% (2023 est.)<br>

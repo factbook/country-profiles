@@ -297,7 +297,8 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: may have been named after Nike, the Greek goddess of victory; the Greek name for the city, Lefkosia, and the Turkish name, Lefkosa, both mean "White City"<br>
 
 **Administrative divisions**<br>
-6 districts; Ammochostos (Famagusta; all but a small part located in the Turkish Cypriot community), Keryneia (Kyrenia; the only district located entirely in the Turkish Cypriot community), Larnaka (Larnaca; with a small part located in the Turkish Cypriot community), Lefkosia (Nicosia; a small part administered by Turkish Cypriots), Lemesos (Limassol), Pafos (Paphos); note - the 5 "districts" of the "Turkish Republic of Northern Cyprus" are Gazimagusa (Famagusta), Girne (Kyrenia), Guzelyurt (Morphou), Iskele (Trikomo), Lefkosa (Nicosia)<br>
+6 districts; Ammochostos (Famagusta; all but a small part located in the Turkish Cypriot community), Keryneia (Kyrenia; the only district located entirely in the Turkish Cypriot community), Larnaka (Larnaca; with a small part located in the Turkish Cypriot community), Lefkosia (Nicosia; a small part administered by Turkish Cypriots), Lemesos (Limassol), Pafos (Paphos)<br>
+<strong>note:</strong> the 5 "districts" of the "Turkish Republic of Northern Cyprus" are Gazimagusa (Famagusta), Girne (Kyrenia), Guzelyurt (Morphou), Iskele (Trikomo), Lefkosa (Nicosia)<br>
 
 **Legal system**<br>
 mixed system of English common law and civil law, with European law supremacy<br>
@@ -428,12 +429,6 @@ $33.887 billion (2023 est.)<br>
 3.5% (2023 est.)<br>
 8.4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BBB- (2018)<br>
-_Moody's rating_: Ba2 (2018)<br>
-_Standard & Poors rating_: BBB- (2018)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.2% (2023 est.)<br>
@@ -660,7 +655,7 @@ Cypriot National Guard (CNG): 18-50 years of age for compulsory military service
 <strong>note:</strong> the CNG accepts all foreign nationals of at least partial Cypriot descent under age 32 as volunteers; dual citizenship Cypriot origin citizens, who were born in Cyprus or abroad, have the obligation to serve in the CNG on repatriation, regardless of whether or not they possess a foreign citizenship; a person is considered as having Cypriot origin where a grandparent or parent was/is a Cypriot citizen<br>
 
 **Military - note**<br>
-established in 1964, the National Guard (EF) is responsible for ensuring Cyprus&rsquo;s territorial integrity and sovereignty; its primary focus is Turkey, which invaded Cyprus in 1974 and maintains a large military presence in the unrecognized Turkish Republic of Northern Cyprus; the majority of the force is deployed along the &ldquo;Green Line&rdquo; that separates the Greek Cypriots from the Turkish Cypriots; the EF also participates in some internal missions, such as providing assistance during natural disasters; Greece is its main security partner and maintains about 1,000 troops on Cyprus; the EF has conducted training exercises with other militaries including France, Israel, and the US; since Cyprus joined the EU in 2004, the EF has actively participated in the EU&rsquo;s Common Security and Defense Policy and has sent small numbers of personnel to some EU and missions; Cyprus is also part of the Organization for Security and Cooperation in Europe (2025)<br>
+established in 1964, the National Guard (EF) is responsible for ensuring Cyprus’s territorial integrity and sovereignty; its primary focus is Turkey, which invaded Cyprus in 1974 and maintains a large military presence in the unrecognized Turkish Republic of Northern Cyprus; the majority of the force is deployed along the “Green Line” that separates the Greek Cypriots from the Turkish Cypriots; the EF also participates in some internal missions, such as providing assistance during natural disasters; Greece is its primary security partner and maintains a military presence on Cyprus; the EF has conducted training exercises with other militaries including France, Israel, and the US; since Cyprus joined the EU in 2004, the EF has actively participated in the EU’s Common Security and Defense Policy and has sent small numbers of personnel to some EU and missions; Cyprus is also part of the Organization for Security and Cooperation in Europe<br><br>the UN Peacekeeping Force in Cyprus (UNFICYP) has been deployed in Cyprus since 1964; its mandate includes supervising the de facto ceasefire that came into effect in August 1974 and maintaining a buffer zone between the lines of the Cypriot National Guard and of the Turkish and Turkish Cypriot forces; UNFICYP has about 1,100 personnel assigned (2025)<br>
 
 ## Terrorism
 

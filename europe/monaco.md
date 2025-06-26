@@ -62,7 +62,7 @@ _other_: 100% (2022 est.)<br>
 0 sq km (2022)<br>
 
 **Population distribution**<br>
-the second most densely populated country in the world (after Macau); its entire population living on 2 square km<br>
+the second most densely populated country in the world (after Macau); its entire population lives on 2 sq km (0.8 sq mi)<br>
 
 **Natural hazards**<br>
 none<br>
@@ -121,7 +121,7 @@ _female_: 58.4 years<br>
 11.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the second most densely populated country in the world (after Macau); its entire population living on 2 square km<br>
+the second most densely populated country in the world (after Macau); its entire population lives on 2 sq km (0.8 sq mi)<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
@@ -243,7 +243,8 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: founded as a Greek colony in the 6th century B.C., the name's origin is unclear; it could derive from the Greek term <em>monoikos</em> (solitary), the Ligurian word <em>monegu</em> (rock), or the Basque word <em>muno</em> (mountain)<br>
 
 **Administrative divisions**<br>
-none; there are no first-order administrative divisions as defined by the US Government, but there are 4 quarters (quartiers, singular - quartier); Fontvieille, La Condamine, Monaco-Ville, Monte-Carlo; note - Moneghetti, a part of La Condamine, is sometimes called the 5th quarter of Monaco<br>
+none; there are no first-order administrative divisions as defined by the US government, but there are 4 quarters (<em>quartiers</em>, singular - <em>quartier</em>); Fontvieille, La Condamine, Monaco-Ville, Monte-Carlo<br>
+ <strong>note:</strong> Moneghetti, part of La Condamine, is sometimes called the fifth quarter of Monaco<br>
 
 **Legal system**<br>
 civil law system influenced by French legal tradition<br>

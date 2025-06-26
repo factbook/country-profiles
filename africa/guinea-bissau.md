@@ -66,7 +66,7 @@ _other_: 0.1% (2022 est.)<br>
 Senegalo-Mauritanian Basin<br>
 
 **Population distribution**<br>
-approximately one-fifth of the population lives in the capital city of Bissau along the Atlantic coast; the remainder is distributed among the eight other, mainly rural, regions as shown in this population distribution map<br>
+approximately one fifth of the population lives in the capital city of Bissau along the Atlantic coast; the remainder is distributed among the eight mainly rural regions, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 hot, dry, dusty harmattan haze may reduce visibility during dry season; brush fires<br>
@@ -123,7 +123,7 @@ _female_: 18.9 years<br>
 -3.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-approximately one-fifth of the population lives in the capital city of Bissau along the Atlantic coast; the remainder is distributed among the eight other, mainly rural, regions as shown in this population distribution map<br>
+approximately one fifth of the population lives in the capital city of Bissau along the Atlantic coast; the remainder is distributed among the eight mainly rural regions, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 45.5% of total population (2023)<br>
@@ -281,7 +281,7 @@ _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name is derived from the local Bijuga people and is used to distinguish the country from neighboring Guinea<br>
 
 **Administrative divisions**<br>
-9 regions (regioes, singular - regiao); Bafata, Biombo, Bissau, Bolama/Bijagos, Cacheu, Gabu, Oio, Quinara, Tombali<br>
+9 regions (<em>regioes</em>, singular - <em>regiao</em>); Bafata, Biombo, Bissau, Bolama/Bijagos, Cacheu, Gabu, Oio, Quinara, Tombali<br>
 
 **Legal system**<br>
 mixed system of civil law, which incorporated Portuguese law at independence; influenced by Economic Community of West African States (ECOWAS), West African Economic and Monetary Union (UEMOA), African Francophone Public Law, and customary law<br>

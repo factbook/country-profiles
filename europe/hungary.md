@@ -303,7 +303,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: Buda on the western shore of the Danube and Pest on the eastern shore merged in 1873 to form Budapest; Buda's name may derive from the name of its founder or from a local word meaning "water;" Pest derives from a Slavic word meaning "furnace" or "oven"<br>
 
 **Administrative divisions**<br>
-<p>19 counties (megyek, singular - megye), 25 cities with county rights (megyei jogu varosok, singular - megyei jogu varos), and 1 capital city (fovaros)</p> <p><strong>counties:</strong> Bacs-Kiskun, Baranya, Bekes, Borsod-Abauj-Zemplen, Csongrad-Csanad, Fejer, Gyor-Moson-Sopron, Hajdu-Bihar, Heves, Jasz-Nagykun-Szolnok, Komarom-Esztergom, Nograd, Pest, Somogy, Szabolcs-Szatmar-Bereg, Tolna, Vas, Veszprem, Zala</p> <p><strong>cities with county rights:</strong> Baja, Bekescsaba, Debrecen, Dunaujvaros, Eger, Erd, Esztergom, Gyor, Hodmezovasarhely, Kaposvar, Kecskemet, Miskolc, Nagykanizsa, Nyiregyhaza, Pecs, Salgotarjan, Sopron, Szeged, Szekesfehervar, Szekszard, Szolnok, Szombathely, Tatabanya, Veszprem, Zalaegerszeg</p> <p><strong>capital city:</strong> Budapest</p><br>
+<p>19 counties (<em>megyek</em>, singular - <em>megye</em>), 25 cities with county rights (<em>megyei jogu varosok</em>, singular - <em>megyei jogu varos</em>), and 1 capital city (<em>fovaros</em>)</p> <p><strong>counties:</strong> Bacs-Kiskun, Baranya, Bekes, Borsod-Abauj-Zemplen, Csongrad-Csanad, Fejer, Gyor-Moson-Sopron, Hajdu-Bihar, Heves, Jasz-Nagykun-Szolnok, Komarom-Esztergom, Nograd, Pest, Somogy, Szabolcs-Szatmar-Bereg, Tolna, Vas, Veszprem, Zala</p> <p><strong>cities with county rights:</strong> Baja, Bekescsaba, Debrecen, Dunaujvaros, Eger, Erd, Esztergom, Gyor, Hodmezovasarhely, Kaposvar, Kecskemet, Miskolc, Nagykanizsa, Nyiregyhaza, Pecs, Salgotarjan, Sopron, Szeged, Szekesfehervar, Szekszard, Szolnok, Szombathely, Tatabanya, Veszprem, Zalaegerszeg</p> <p><strong>capital city:</strong> Budapest</p><br>
 
 **Legal system**<br>
 civil system influenced by the German model<br>
@@ -428,12 +428,6 @@ $212.389 billion (2023 est.)<br>
 17.1% (2023 est.)<br>
 14.6% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BBB (2019)<br>
-_Moody's rating_: Baa3 (2016)<br>
-_Standard & Poors rating_: BBB (2019)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4.7% (2023 est.)<br>

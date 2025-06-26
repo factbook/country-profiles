@@ -70,7 +70,7 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>
 Congo Basin<br>
 
 **Population distribution**<br>
-the relatively small population is spread in pockets throughout the country; the largest urban center is the capital of Libreville, located along the Atlantic coast in the northwest as shown in this population distribution map<br>
+the relatively small population is spread in pockets throughout the country; the largest urban center is the capital of Libreville, located along the Atlantic coast in the northwest, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 none<br>
@@ -127,7 +127,7 @@ _female_: 21.5 years<br>
 3.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the relatively small population is spread in pockets throughout the country; the largest urban center is the capital of Libreville, located along the Atlantic coast in the northwest as shown in this population distribution map<br>
+the relatively small population is spread in pockets throughout the country; the largest urban center is the capital of Libreville, located along the Atlantic coast in the northwest, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 91% of total population (2023)<br>
@@ -422,12 +422,6 @@ $19.388 billion (2023 est.)<br>
 3.6% (2023 est.)<br>
 4.2% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: CCC (2020)<br>
-_Moody's rating_: Caa1 (2018)<br>
-_Standard & Poors rating_: N/A (2016)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.5% (2023 est.)<br>

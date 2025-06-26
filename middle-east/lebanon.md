@@ -62,7 +62,7 @@ _other_: 19.5% (2022 est.)<br>
 1,040 sq km (2012)<br>
 
 **Population distribution**<br>
-the majority of the people live on or near the Mediterranean coast, and of these most live in and around the capital, Beirut; favorable growing conditions in the Bekaa Valley, on the southeastern side of the Lebanon Mountains, have attracted farmers and thus the area exhibits a smaller population density<br>
+the majority of people live on or near the Mediterranean coast, particularly in and around the capital of Beirut<br>
 
 **Natural hazards**<br>
 earthquakes; dust storms, sandstorms<br>
@@ -122,7 +122,7 @@ _female_: 36.9 years<br>
 -0.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the majority of the people live on or near the Mediterranean coast, and of these most live in and around the capital, Beirut; favorable growing conditions in the Bekaa Valley, on the southeastern side of the Lebanon Mountains, have attracted farmers and thus the area exhibits a smaller population density<br>
+the majority of people live on or near the Mediterranean coast, particularly in and around the capital of Beirut<br>
 
 **Urbanization**<br>
 _urban population_: 89.4% of total population (2023)<br>
@@ -288,7 +288,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: derived from the Phoenician or Hebrew word <em>be'erot</em>, meaning "the wells," which were the only source of water in the region<br>
 
 **Administrative divisions**<br>
-8 governorates (mohafazat, singular - mohafazah); Aakkar, Baalbek-Hermel, Beqaa (Bekaa), Beyrouth (Beirut), Liban-Nord (North Lebanon), Liban-Sud (South Lebanon), Mont-Liban (Mount Lebanon), Nabatiye<br>
+8 governorates (<em>mohafazat</em>, singular - <em>mohafazah</em>); Aakkar, Baalbek-Hermel, Beqaa (Bekaa), Beyrouth (Beirut), Liban-Nord (North Lebanon), Liban-Sud (South Lebanon), Mont-Liban (Mount Lebanon), Nabatiye<br>
 
 **Legal system**<br>
 mixed system of civil law based on the French civil code, Ottoman legal tradition, and religious laws covering personal status, marriage, divorce, and other family relations of the Jewish, Islamic, and Christian communities<br>
@@ -412,12 +412,6 @@ $20.992 billion (2022 est.)<br>
 171.2% (2022 est.)<br>
 154.8% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: RD (2020)<br>
-_Moody's rating_: C (2020)<br>
-_Standard & Poors rating_: D (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.2% (2022 est.)<br>
@@ -647,7 +641,7 @@ the LAF inventory includes a wide mix of mostly older equipment from a diverse a
 <strong>note:</strong> women were allowed to volunteer for military service in the 1980s; as of 2023, they comprised about 5% of the active duty military<br>
 
 **Military - note**<br>
-the primary responsibilities of the Lebanese Armed Forces (LAF) are defense against external attack, border security, protecting the country’s territorial waters, and assisting with internal security and development projects<br><br>the LAF’s domestic security responsibilities include countering narcotics trafficking and smuggling, managing protests, conducting search and rescue, and intervening to prevent violence between rival political factions; in recent years, the military has faced a financial crisis as government debt and national economic difficulties have undercut its ability to train and fully pay and supply personnel, which has sparked domestic and international fears that the armed forces might disintegrate; the UN, as well as individual countries such as France and the US have provided financial assistance <br><br>the UN Interim Force In Lebanon (UNIFIL) has operated in the southern part of the country since 1978; it has approximately 9,500 military personnel assigned and includes a maritime task force (2024)<br>
+the primary responsibilities of the Lebanese Armed Forces (LAF) are defense against external attack, border security, protecting the country’s territorial waters, and assisting with internal security and development projects<br><br>the LAF’s domestic security responsibilities include countering narcotics trafficking and smuggling, managing protests, conducting search and rescue, and intervening to prevent violence between rival political factions; in recent years, the military has faced a financial crisis as government debt and national economic difficulties have undercut its ability to train and fully pay and supply personnel, which has sparked domestic and international fears that the armed forces might disintegrate; the UN, as well as individual countries such as France and the US have provided financial assistance <br><br>the UN Interim Force In Lebanon (UNIFIL) has operated in the southern part of the country since 1978; it has approximately 10,500 personnel assigned and includes a maritime task force (2024)<br>
 
 ## Terrorism
 

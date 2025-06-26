@@ -300,7 +300,7 @@ _time difference_: UTC-3 (2 hour ahead of Washington, DC, during Standard Time)<
 _etymology_: the name means "assumption" in Spanish; the Spanish founded the city on August 15, 1537, the Catholic feast day for the Assumption of the Virgin Mary&nbsp;<br>
 
 **Administrative divisions**<br>
-17 departments (departamentos, singular - departamento) and 1 capital city*; Alto Paraguay, Alto Parana, Amambay, Asuncion*, Boquer&oacute;n, Caaguaz&uacute;, Caazap&aacute;, Canindey&uacute;, Central, Concepcion, Cordillera, Guair&aacute;, Itap&uacute;a, Misiones, &Ntilde;eembuc&uacute;, Paraguar&iacute;, Presidente Hayes, San Pedro<br>
+17 departments (<em>departamentos</em>, singular - <em>departamento</em>) and 1 capital city*; Alto Paraguay, Alto Parana, Amambay, Asuncion*, Boquerón, Caaguazú, Caazapá, Canindeyú, Central, Concepcion, Cordillera, Guairá, Itapúa, Misiones, Ñeembucú, Paraguarí, Presidente Hayes, San Pedro<br>
 
 **Legal system**<br>
 civil law system with influences from Argentine, Spanish, Roman, and French civil law models; Supreme Court of Justice reviews legislative acts<br>
@@ -440,12 +440,6 @@ $42.956 billion (2023 est.)<br>
 4.6% (2023 est.)<br>
 9.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BB+ (2018)<br>
-_Moody's rating_: Ba1 (2015)<br>
-_Standard & Poors rating_: BB (2014)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 11.3% (2023 est.)<br>

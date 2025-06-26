@@ -76,7 +76,7 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> N
 Congo Basin<br>
 
 **Population distribution**<br>
-urban clusters are spread throughout the country, particularly in the northeast along the border with Uganda, Rwanda, and Burundi; the largest city is the capital, Kinshasha, located in the west along the Congo River; the south is least densely populated as shown in this population distribution map<br>
+urban clusters are spread throughout the country, particularly in the northeast along the border with Uganda, Rwanda, and Burundi; the largest city is the capital, Kinshasha, located in the west along the Congo River; the south is least densely populated, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 <p>periodic droughts in south; Congo River floods (seasonal); active volcanoes in the east along the Great Rift Valley</p><p><strong>volcanism:</strong> Nyiragongo (3,470 m), which erupted in 2002 and is experiencing ongoing activity, poses a major threat to the city of Goma, home to a quarter million people; the volcano produces unusually fast-moving lava, known to travel up to 100 km /hr; Nyiragongo has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; its neighbor, Nyamuragira, which erupted in 2010, is Africa's most active volcano; Visoke is the only other historically active volcano</p><br>
@@ -134,7 +134,7 @@ _female_: 17 years<br>
 -0.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-urban clusters are spread throughout the country, particularly in the northeast along the border with Uganda, Rwanda, and Burundi; the largest city is the capital, Kinshasha, located in the west along the Congo River; the south is least densely populated as shown in this population distribution map<br>
+urban clusters are spread throughout the country, particularly in the northeast along the border with Uganda, Rwanda, and Burundi; the largest city is the capital, Kinshasha, located in the west along the Congo River; the south is least densely populated, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 47.4% of total population (2023)<br>
@@ -315,7 +315,7 @@ _time zone note_: the DRC has two time zones<br>
 _etymology_: founded as a trading post in 1881 and named Leopoldville in honor of King LEOPOLD II of the Belgians; in 1966, Leopoldville was renamed Kinshasa, a Bantu name of unknown meaning<br>
 
 **Administrative divisions**<br>
-26 provinces (provinces, singular - province); Bas-Uele (Lower Uele), Equateur, Haut-Katanga (Upper Katanga), Haut-Lomami (Upper Lomami), Haut-Uele (Upper Uele), Ituri, Kasai, Kasai-Central, Kasai-Oriental (East Kasai), Kinshasa, Kongo Central, Kwango, Kwilu, Lomami, Lualaba, Mai-Ndombe, Maniema, Mongala, Nord-Kivu (North Kivu), Nord-Ubangi (North Ubangi), Sankuru, Sud-Kivu (South Kivu), Sud-Ubangi (South Ubangi), Tanganyika, Tshopo, Tshuapa<br>
+26 provinces; Bas-Uele (Lower Uele), Equateur, Haut-Katanga (Upper Katanga), Haut-Lomami (Upper Lomami), Haut-Uele (Upper Uele), Ituri, Kasai, Kasai-Central, Kasai-Oriental (East Kasai), Kinshasa, Kongo Central, Kwango, Kwilu, Lomami, Lualaba, Mai-Ndombe, Maniema, Mongala, Nord-Kivu (North Kivu), Nord-Ubangi (North Ubangi), Sankuru, Sud-Kivu (South Kivu), Sud-Ubangi (South Ubangi), Tanganyika, Tshopo, Tshuapa<br>
 
 **Legal system**<br>
 civil law system primarily based on Belgian law, but also customary and tribal law<br>
@@ -450,11 +450,6 @@ $66.383 billion (2023 est.)<br>
 2.9% (2016 est.)<br>
 0.7% (2015 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Moody's rating_: Caa1 (2019)<br>
-_Standard & Poors rating_: CCC+ (2017)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 17.4% (2023 est.)<br>
@@ -676,7 +671,7 @@ _key ports_: Banana, Boma, Matadi<br>
 
 **Military and security forces**<br>
 Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Republique Democratique du Congo, FARDC): Land Forces (Forces Terrestres), National Navy (La Marine Nationale), Congolese Air Force (Force Aerienne Congolaise, FAC); Republican Guard (Garde Républicaine, GR)<br><br>Ministry of Interior: Congolese National Police (Police Nationale Congolaise, PNC) (2025)<br>
-<strong>note: </strong>the Republican Guard is a military unit under the direct control of the president<br>
+<strong>note: </strong>the Republican Guard is overseen by the office of the presidency rather than the FARDC; it focuses on protecting the president and government institutions and enforcing internal security<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2024 est.)<br>
@@ -696,7 +691,7 @@ the FARDC is equipped mostly with Soviet-era and older French weapons and equipm
 <strong>note: </strong>in eastern Congo, fighters from armed groups, including some associated with government security forces, have been accused of forced recruitment of child soldiers<br>
 
 **Military - note**<br>
-<p>the FARDC’s primary focus is internal security and conducting operations against rebels and other illegal armed groups (IOGs); while it is large on paper, the FARDC is widely assessed to suffer from insufficient training, low equipment readiness, poor morale and leadership, ill-discipline, and widespread corruption; it was created out of the armed factions of the Congo wars that ended in 2003, incorporating various militia, paramilitary, and rebel formations; the DRC’s most effective military force, the Republican Guard, is overseen by the office of the presidency rather than the FARDC and focuses largely on protecting the president and government institutions and enforcing internal security</p> <p>the FARDC is actively conducting operations against a variety of IOGs operating in the DRC, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, where more than 15 significant and cohesive IOGs operate; there is also IOG-related violence in Maniema, Kasai, Kasai Central, and Tanganyika provinces; some estimates place over 100 IOGs operating in the country, including organized militias, such as the Nduma Defense of Congo-Renewal (NDC-R), which controls a large portion of North Kivu; Mai Mai groups (local militias that operate variously as self-defense networks and criminal rackets); and foreign-origin groups seeking safe haven and resources, such as the Ugandan-origin Allied Democratic Forces (ADF; aka Islamic State of Iraq and ash-Sham in the DRC), the Democratic Forces for the Liberation of Rwanda (FDLR), multiple groups originating from Burundi, the Lords Resistance Army (LRA), and the March 23 Movement (aka M23 or Congolese Revolutionary Army), which the DRC has accused Rwanda of backing; the FARDC has been accused of collaborating with some IOGs, such as the NDC-R</p> the UN Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO) has operated in the central and eastern parts of the country since 1999; as of late 2024, MONUSCO was authorized around 14,000 personnel, and its mandate had been extended to the end of 2025; MONUSCO includes a Force Intervention Brigade (FIB; three infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security (2024)<br>
+the FARDC’s primary focus is internal security and conducting operations against rebels and other illegal armed groups (IOGs) operating in the DRC, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, where more than 15 significant and cohesive IOGs operate; there is also IOG-related violence in Maniema, Kasai, Kasai Central, and Tanganyika provinces; some estimates place over 100 IOGs operating in the country, including organized militias, such as the Nduma Defense of Congo-Renewal (NDC-R), which controls a large portion of North Kivu; Mai Mai groups (local militias that operate variously as self-defense networks and criminal rackets); and foreign-origin groups seeking safe haven and resources, such as the Ugandan-origin Allied Democratic Forces (ADF; aka Islamic State of Iraq and ash-Sham in the DRC), the Democratic Forces for the Liberation of Rwanda (FDLR), multiple groups originating from Burundi, the Lords Resistance Army (LRA), and the March 23 Movement (aka M23 or Congolese Revolutionary Army), which Rwanda has been accused of supporting militarily; the FARDC incorporates some non-state armed groups and has been accused of collaborating with some IOGs, such as the NDC-R<br><br>the UN Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO) has operated in the central and eastern parts of the country since 1999; it has nearly 14,000 personnel assigned, and its mandate had been extended to the end of 2025; MONUSCO includes a Force Intervention Brigade (FIB), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security (2025)<br>
 
 ## Terrorism
 

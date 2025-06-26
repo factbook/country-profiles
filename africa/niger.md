@@ -74,7 +74,7 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basi
 Lake Chad Basin, Lullemeden-Irhazer Basin, Murzuk-Djado Basin<br>
 
 **Population distribution**<br>
-majority of the populace is located in the southernmost extreme of the country along the border with Nigeria and Benin as shown in this population distribution map<br>
+majority of the populace is located in the southernmost extreme of the country along the border with Nigeria and Benin, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 recurring droughts<br>
@@ -132,7 +132,7 @@ _female_: 15.6 years<br>
 -0.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-majority of the populace is located in the southernmost extreme of the country along the border with Nigeria and Benin as shown in this population distribution map<br>
+majority of the populace is located in the southernmost extreme of the country along the border with Nigeria and Benin, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 17.1% of total population (2023)<br>
@@ -310,7 +310,7 @@ _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the origin of the name is unclear; one of many stories says that an African chief told his seven slaves "<em>Wa niammane</em>," meaning "stay here," and the name was later shortened to its present form<br>
 
 **Administrative divisions**<br>
-7 regions (r&eacute;gions, singular - r&eacute;gion) and 1 capital district* (communaut&eacute; urbaine); Agadez, Diffa, Dosso, Maradi, Niamey*, Tahoua, Tillaberi, Zinder<br>
+7 regions (<em>régions</em>, singular - <em>région</em>) and 1 capital district* (<em>communauté urbaine</em>); Agadez, Diffa, Dosso, Maradi, Niamey*, Tahoua, Tillaberi, Zinder<br>
 
 **Legal system**<br>
 <strong>note:</strong> following the 26 July 2023 military coup, the National Council for the Safeguard of the Homeland assumed control of all government institutions and rules by decree; formerly, mixed system of civil law, based on French civil law, Islamic law, and customary law<br>
@@ -433,10 +433,6 @@ $16.819 billion (2023 est.)<br>
 3.7% (2023 est.)<br>
 4.2% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Moody's rating_: B3 (2019)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 47.8% (2023 est.)<br>

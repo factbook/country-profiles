@@ -258,7 +258,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: may be a conflation from the Latin <em>vallis</em> (valley) and the Old German <em>dutsch</em> (German) to produce <em>Valdutsch</em> ("German valley"), which was simplified over time to Vaduz<br>
 
 **Administrative divisions**<br>
-11 communes (Gemeinden, singular - Gemeinde); Balzers, Eschen, Gamprin, Mauren, Planken, Ruggell, Schaan, Schellenberg, Triesen, Triesenberg, Vaduz<br>
+11 communes (<em>Gemeinden</em>, singular - <em>Gemeinde</em>); Balzers, Eschen, Gamprin, Mauren, Planken, Ruggell, Schaan, Schellenberg, Triesen, Triesenberg, Vaduz<br>
 
 **Legal system**<br>
 civil law system influenced by Swiss, Austrian, and German law<br>
@@ -356,10 +356,6 @@ $7.362 billion (2022 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 -0.4% (2016 est.)<br>
-
-**Credit ratings**<br>
-_Standard & Poors rating_: AAA (1996)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.2% (2021 est.)<br>

@@ -286,7 +286,7 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name is derived from the Arabic <em>ad-dawha</em>, meaning "the big tree," and probably referred to a large tree at the site of the original fishing village<br>
 
 **Administrative divisions**<br>
-8 municipalities (baladiyat, singular - baladiyah); Ad Dawhah, Al Khawr wa adh Dhakhirah, Al Wakrah, Ar Rayyan, Ash Shamal, Ash Shihaniyah, Az Za'ayin, Umm Salal<br>
+8 municipalities (<em>baladiyat</em>, singular - <em>baladiyah</em>); Ad Dawhah, Al Khawr wa adh Dhakhirah, Al Wakrah, Ar Rayyan, Ash Shamal, Ash Shihaniyah, Az Za'ayin, Umm Salal<br>
 
 **Legal system**<br>
 mixed system of civil law and Islamic (sharia) law (in family and personal matters)<br>
@@ -408,12 +408,6 @@ $213.003 billion (2023 est.)<br>
 3% (2023 est.)<br>
 5% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: AA- (2017)<br>
-_Moody's rating_: Aa3 (2017)<br>
-_Standard & Poors rating_: AA- (2017)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.3% (2023 est.)<br>

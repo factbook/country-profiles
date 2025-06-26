@@ -137,12 +137,6 @@ _etymology_: the name blends the words "king's" and "town;" the English king at 
 **Administrative divisions**<br>
 none (territory of Australia)<br>
 
-**Independence**<br>
-none (territory of Australia)<br>
-
-**National holiday**<br>
-Bounty Day (commemorates the arrival of Pitcairn Islanders), 8 June (1856)<br>
-
 **Legal system**<br>
 English common law and the laws of Australia<br>
 
@@ -182,14 +176,20 @@ _subordinate courts_: Petty Court of Sessions; specialized courts, including a C
 **Political parties**<br>
 Norfolk Island Labor Party <br>Norfolk Liberals <br>
 
-**International organization participation**<br>
-UPU<br>
-
 **Diplomatic representation in the US**<br>
 none (territory of Australia)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (territory of Australia)<br>
+
+**International organization participation**<br>
+UPU<br>
+
+**Independence**<br>
+none (territory of Australia)<br>
+
+**National holiday**<br>
+Bounty Day (commemorates the arrival of Pitcairn Islanders), 8 June (1856)<br>
 
 **Flag description**<br>
 three vertical bands of green (hoist side), white, and green, with a large green Norfolk Island pine tree centered in the white band; green stands for the island's rich vegetation, and the native pine tree is an island symbol<br>
@@ -199,7 +199,7 @@ three vertical bands of green (hoist side), white, and green, with a large green
 Norfolk Island pine<br>
 
 **National coat of arms**<br>
-Norfolk Island is part of the Commonwealth of Australia, and in 1980, Queen Elizabeth II granted it a separate coat of arms (pictured). In the center is the island&rsquo;s symbol, the Norfolk Island Pine, with Britain&rsquo;s lion and Australia&rsquo;s kangaroo supporting the shield. The island&rsquo;s motto, &ldquo;Inasmuch,&rdquo; comes from a verse in the Bible&rsquo;s Gospel of Matthew<br>
+Norfolk Island is part of the Commonwealth of Australia, and in 1980, Queen Elizabeth II granted it a separate coat of arms (pictured); in the center is the island&rsquo;s symbol, the Norfolk Island Pine, with Britain&rsquo;s lion and Australia&rsquo;s kangaroo supporting the shield; the island&rsquo;s motto, &ldquo;Inasmuch,&rdquo; comes from a verse in the Bible&rsquo;s Gospel of Matthew<br>
 
 **National anthem**<br>
 _name_: "Come Ye Blessed"<br>

@@ -298,7 +298,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the meaning is unclear but has medieval Slavic origins; the name was adopted in 1919 after Czechoslovakia gained its independence, replacing the name Pre&scaron;porok<br>
 
 **Administrative divisions**<br>
-8 regions (kraje, singular - kraj); Banska Bystrica, Bratislava, Kosice, Nitra, Presov, Trencin, Trnava, Zilina<br>
+8 regions (<em>kraje</em>, singular - <em>kraj</em>); Banska Bystrica, Bratislava, Kosice, Nitra, Presov, Trencin, Trnava, Zilina<br>
 
 **Legal system**<br>
 civil law system based on Austro-Hungarian codes<br>
@@ -423,12 +423,6 @@ $132.908 billion (2023 est.)<br>
 10.5% (2023 est.)<br>
 12.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: A (2020)<br>
-_Moody's rating_: A2 (2012)<br>
-_Standard & Poors rating_: A+ (2015)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2% (2023 est.)<br>

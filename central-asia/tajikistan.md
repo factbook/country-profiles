@@ -68,7 +68,7 @@ Syr Darya (shared with Kyrgyzstan [s], Uzbekistan, and Kazakhstan [m]) - 3,078 k
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea Basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
 
 **Population distribution**<br>
-the country's population is concentrated at lower elevations, with perhaps as much as 90% of the people living in valleys; overall density increases from east to west<br>
+the population is concentrated at lower elevations, with perhaps as many as 90% living in valleys; overall density increases from east to west<br>
 
 **Natural hazards**<br>
 earthquakes; floods<br>
@@ -127,7 +127,7 @@ _female_: 23.2 years<br>
 -2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the country's population is concentrated at lower elevations, with perhaps as much as 90% of the people living in valleys; overall density increases from east to west<br>
+the population is concentrated at lower elevations, with perhaps as many as 90% living in valleys; overall density increases from east to west<br>
 
 **Urbanization**<br>
 _urban population_: 28.2% of total population (2023)<br>
@@ -294,7 +294,7 @@ _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time
 _etymology_: the name means Monday in Persian; today's city was originally at the crossroads where a large bazaar was held on Mondays, or the second day (<em>du</em>) after Saturday (<em>shambe</em>)<br>
 
 **Administrative divisions**<br>
-2 provinces (viloyatho, singular - viloyat), 1 autonomous province* (viloyati mukhtor), 1 capital region** (viloyati poytakht), and 1 area referred to as Districts Under Republic Administration***; Dushanbe**, Khatlon (Bokhtar), Kuhistoni Badakhshon [Gorno-Badakhshan]* (Khorugh), Nohiyahoi Tobei Jumhuri***, Sughd (Khujand)<br>
+2 provinces (<em>viloyatho</em>, singular - <em>viloyat</em>), 1 autonomous province* (<em>viloyati mukhtor</em>), 1 capital region** (<em>viloyati poytakht</em>), and 1 area referred to as Districts Under Republic Administration***; Dushanbe**, Khatlon (Bokhtar), Kuhistoni Badakhshon [Gorno-Badakhshan]* (Khorugh), Nohiyahoi Tobei Jumhuri***, Sughd (Khujand)<br>
 <strong>note:</strong> the administrative center name follows in parentheses<br>
 
 **Legal system**<br>
@@ -429,11 +429,6 @@ $12.061 billion (2023 est.)<br>
 3.9% (2018 est.)<br>
 7.3% (2017 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Moody's rating_: B3 (2017)<br>
-_Standard & Poors rating_: B- (2017)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 22.9% (2022 est.)<br>

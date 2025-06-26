@@ -65,7 +65,7 @@ _other_: 19.6% (2022 est.)<br>
 7,780 sq km (2012)<br>
 
 **Population distribution**<br>
-with approximately 70% of the country considered mountainous, the country's population is primarily concentrated in the lowland areas, where density is quite high; Gyeonggi Province in the northwest, which surrounds the capital of Seoul and contains the port of Incheon, is the most densely populated province; Gangwon in the northeast is the least populated<br>
+the population is primarily concentrated in the lowland areas, where density is high; Gyeonggi Province in the northwest, which surrounds the capital of Seoul and contains the port of Incheon, is the most densely populated province; Gangwon in the northeast is the least populated<br>
 
 **Natural hazards**<br>
 <p>occasional typhoons bring high winds and floods; low-level seismic activity common in southwest</p><p><strong>volcanism:</strong> Halla (1,950 m) is considered historically active although it has not erupted in many centuries</p><br>
@@ -124,7 +124,7 @@ _female_: 47.3 years<br>
 2.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-with approximately 70% of the country considered mountainous, the country's population is primarily concentrated in the lowland areas, where density is quite high; Gyeonggi Province in the northwest, which surrounds the capital of Seoul and contains the port of Incheon, is the most densely populated province; Gangwon in the northeast is the least populated<br>
+the population is primarily concentrated in the lowland areas, where density is high; Gyeonggi Province in the northwest, which surrounds the capital of Seoul and contains the port of Incheon, is the most densely populated province; Gangwon in the northeast is the least populated<br>
 
 **Urbanization**<br>
 _urban population_: 81.5% of total population (2023)<br>
@@ -293,7 +293,7 @@ _etymology_: the name originates from the Korean word meaning "capital city;" it
 <strong>note:</strong> Sejong, located some 120 km (75 mi) south of Seoul, serves as an administrative capital for segments of the South Korean government<br>
 
 **Administrative divisions**<br>
-<p>9 provinces (do, singular and plural), 6 metropolitan cities (gwangyeoksi, singular and plural), 1 special city (teugbyeolsi), and 1 special self-governing city (teukbyeoljachisi)</p> <p><strong>provinces:</strong> Chungcheongbuk-do (North Chungcheong), Chungcheongnam-do (South Chungcheong), Gangwon-do, Gyeongsangbuk-do (North Gyeongsang), Gyeonggi-do, Gyeongsangnam-do (South Gyeongsang), Jeju-do (Jeju), Jeollabuk-do (North Jeolla), Jeollanam-do (South Jeolla)</p> <p><strong>metropolitan cities:</strong> Busan (Pusan), Daegu (Taegu), Daejeon (Taejon), Gwangju (Kwangju), Incheon (Inch'on), Ulsan</p> <p><strong>special city:</strong> Seoul</p> <p><strong>special self-governing city:</strong> Sejong</p><br>
+<p>9 provinces (<em>do</em>, singular and plural), 6 metropolitan cities (<em>gwangyeoksi</em>, singular and plural), 1 special city (<em>teugbyeolsi</em>), and 1 special self-governing city (<em>teukbyeoljachisi</em>)</p> <p><strong>provinces:</strong> Chungcheongbuk-do (North Chungcheong), Chungcheongnam-do (South Chungcheong), Gangwon-do, Gyeongsangbuk-do (North Gyeongsang), Gyeonggi-do, Gyeongsangnam-do (South Gyeongsang), Jeju-do (Jeju), Jeollabuk-do (North Jeolla), Jeollanam-do (South Jeolla)</p> <p><strong>metropolitan cities:</strong> Busan (Pusan), Daegu (Taegu), Daejeon (Taejon), Gwangju (Kwangju), Incheon (Inch'on), Ulsan</p> <p><strong>special city:</strong> Seoul</p> <p><strong>special self-governing city:</strong> Sejong</p><br>
 
 **Legal system**<br>
 mixed system combining European civil law, Anglo-American law, and Chinese classical thought<br>
@@ -418,12 +418,6 @@ $1.713 trillion (2023 est.)<br>
 3.6% (2023 est.)<br>
 5.1% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: AA- (2012)<br>
-_Moody's rating_: Aa2 (2015)<br>
-_Standard & Poors rating_: AA (2016)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.6% (2023 est.)<br>

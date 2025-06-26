@@ -67,7 +67,7 @@ _other_: 23.3% (2022 est.)<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
 
 **Population distribution**<br>
-despite a distinctive pattern with an industrial north and an agrarian south, a fairly even population distribution exists throughout most of the country, with coastal areas, the Po River Valley, and urban centers (particularly Milan, Rome, and Naples), attracting larger and denser populations<br>
+a fairly even population distribution exists throughout most of the country, with coastal areas, the Po River Valley, and urban centers (particularly Milan, Rome, and Naples) attracting larger and denser populations<br>
 
 **Natural hazards**<br>
 <p>regional risks include landslides, mudflows, avalanches, earthquakes, volcanic eruptions, flooding; land subsidence in Venice</p> <p><strong>volcanism:</strong> significant volcanic activity; Etna (3,330 m), which is in eruption as of 2013, is Europe's most active volcano; flank eruptions pose a threat to nearby Sicilian villages; Etna, along with the famous Vesuvius, which remains a threat to the millions of nearby residents in the Bay of Naples area, have both been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; Stromboli, on its namesake island, has also been continuously active with moderate volcanic activity; other historically active volcanoes include Campi Flegrei, Ischia, Larderello, Pantelleria, Vulcano, and Vulsini</p><br>
@@ -125,7 +125,7 @@ _female_: 49.4 years<br>
 3.4 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-despite a distinctive pattern with an industrial north and an agrarian south, a fairly even population distribution exists throughout most of the country, with coastal areas, the Po River Valley, and urban centers (particularly Milan, Rome, and Naples), attracting larger and denser populations<br>
+a fairly even population distribution exists throughout most of the country, with coastal areas, the Po River Valley, and urban centers (particularly Milan, Rome, and Naples) attracting larger and denser populations<br>
 
 **Urbanization**<br>
 _urban population_: 72% of total population (2023)<br>
@@ -294,7 +294,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: by tradition, named after Romulus, one of the legendary founders of the city, but the name Romulus may instead derive from the city's name; the name Rome may come from an Etruscan name for the Tiber River, which was Roma or Ruma<br>
 
 **Administrative divisions**<br>
-<p>15 regions (regioni, singular - regione) and 5 autonomous regions (regioni autonome, singular - regione autonoma)</p> <p><strong>regions:</strong> Abruzzo, Basilicata, Calabria, Campania, Emilia-Romagna, Lazio (Latium), Liguria, Lombardia, Marche, Molise, Piemonte (Piedmont), Puglia (Apulia), Toscana (Tuscany), Umbria, Veneto</p> <p><strong>autonomous regions:</strong> Friuli Venezia Giulia, Sardegna (Sardinia), Sicilia (Sicily), Trentino-Alto Adige (Trentino-South Tyrol) or Trentino-Suedtirol (German), Valle d'Aosta (Aosta Valley) or Vallee d'Aoste (French)</p><br>
+<p>15 regions (<em>regioni</em>, singular - <em>regione</em>) and 5 autonomous regions (<em>regioni autonome</em>, singular - <em>regione autonoma</em>)</p> <p><strong>regions:</strong> Abruzzo, Basilicata, Calabria, Campania, Emilia-Romagna, Lazio (Latium), Liguria, Lombardia, Marche, Molise, Piemonte (Piedmont), Puglia (Apulia), Toscana (Tuscany), Umbria, Veneto</p> <p><strong>autonomous regions:</strong> Friuli Venezia Giulia, Sardegna (Sardinia), Sicilia (Sicily), Trentino-Alto Adige (Trentino-South Tyrol) or Trentino-Suedtirol (German), Valle d'Aosta (Aosta Valley) or Vallée d'Aoste (French)</p><br>
 
 **Legal system**<br>
 civil law system; Constitutional Court reviews legislation under certain conditions<br>
@@ -435,12 +435,6 @@ $2.301 trillion (2023 est.)<br>
 5.6% (2023 est.)<br>
 8.2% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BBB- (2020)<br>
-_Moody's rating_: Baa3 (2018)<br>
-_Standard & Poors rating_: BBB (2017)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.9% (2023 est.)<br>

@@ -66,7 +66,7 @@ _other_: 7.6% (2022 est.)<br>
 Atlantic Ocean drainage: Volta (410,991 sq km)<br>
 
 **Population distribution**<br>
-one of the more densely populated African nations with most of the population residing in rural communities, density is highest in the south on or near the Atlantic coast as shown in this population distribution map<br>
+one of the more densely populated African nations, with most of the population residing in rural communities; density is highest in the south on or near the Atlantic coast, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 hot, dry harmattan wind can reduce visibility in north during winter; periodic droughts<br>
@@ -124,7 +124,7 @@ _female_: 21.4 years<br>
 -1.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-one of the more densely populated African nations with most of the population residing in rural communities, density is highest in the south on or near the Atlantic coast as shown in this population distribution map<br>
+one of the more densely populated African nations, with most of the population residing in rural communities; density is highest in the south on or near the Atlantic coast, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 44.5% of total population (2023)<br>
@@ -297,7 +297,7 @@ _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name comes from a local word meaning "little market"<br>
 
 **Administrative divisions**<br>
-5 regions (regions, singular - region); Centrale, Kara, Maritime, Plateaux, Savanes<br>
+5 regions (<em>régions</em>, singular - <em>région</em>); Centrale, Kara, Maritime, Plateaux, Savanes<br>
 
 **Legal system**<br>
 customary law system<br>
@@ -435,11 +435,6 @@ $9.171 billion (2023 est.)<br>
 8% (2022 est.)<br>
 4.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Moody's rating_: B3 (2019)<br>
-_Standard & Poors rating_: B (2019)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 18.1% (2023 est.)<br>

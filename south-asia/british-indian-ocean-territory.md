@@ -114,14 +114,14 @@ _head of government_: Commissioner Nishi DHOLAKIA (since 16 December 2024); Admi
 _cabinet_: NA<br>
 _elections/appointments_: the monarchy is hereditary; commissioner and administrator appointed by the monarch<br>
 
-**International organization participation**<br>
-UPU<br>
-
 **Diplomatic representation in the US**<br>
 none (overseas territory of the UK)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (overseas territory of the UK)<br>
+
+**International organization participation**<br>
+UPU<br>
 
 **Flag description**<br>
 white with six blue, wavy, horizontal stripes; the UK flag is in the upper hoist-side quadrant; the striped section has a palm tree and yellow crown (the symbols of the territory) centered on the outer half of the flag; the wavy stripes represent the Indian Ocean; although not officially described, the six blue stripes may stand for the six main atolls of the archipelago<br>

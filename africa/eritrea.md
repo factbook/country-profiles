@@ -62,7 +62,7 @@ _other_: 28.6% (2022 est.)<br>
 210 sq km (2012)<br>
 
 **Population distribution**<br>
-density is highest in the center of the country in and around the cities of Asmara (capital) and Keren; smaller settlements exist in the north and south as shown in this population distribution map<br>
+density is highest in the center of the country, in and around the cities of Asmara (capital) and Keren; smaller settlements exist in the north and south, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 <p>frequent droughts, rare earthquakes and volcanoes; locust swarms</p><p><strong>volcanism:</strong> Dubbi (1,625 m), which last erupted in 1861, was the country's only historically active volcano until Nabro (2,218 m) came to life on 12 June 2011</p><br>
@@ -120,7 +120,7 @@ _female_: 21.8 years<br>
 -8.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-density is highest in the center of the country in and around the cities of Asmara (capital) and Keren; smaller settlements exist in the north and south as shown in this population distribution map<br>
+density is highest in the center of the country, in and around the cities of Asmara (capital) and Keren; smaller settlements exist in the north and south, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 43.3% of total population (2023)<br>
@@ -276,7 +276,7 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name's origin is unclear; according to Tigrinya oral tradition, the name is part of a phrase meaning "the women made them unite," referring to a group of women who made four clans unite to defeat a common enemy; <em>asmara </em>also means "flowery wood" in the Tigrinya language<br>
 
 **Administrative divisions**<br>
-6 regions (zobatat, singular - zoba); 'Anseba, Debub (South), Debubawi K'eyyih Bahri (Southern Red Sea), Gash-Barka, Ma'ikel (Central), Semienawi K'eyyih Bahri (Northern Red Sea)<br>
+6 regions (<em>zobatat</em>, singular - <em>zoba</em>); 'Anseba, Debub (South), Debubawi K'eyyih Bahri (Southern Red Sea), Gash-Barka, Ma'ikel (Central), Semienawi K'eyyih Bahri (Northern Red Sea)<br>
 
 **Legal system**<br>
 mixed system of civil, customary, and Islamic religious law<br>
@@ -586,10 +586,10 @@ available information varies widely; estimated 150,000-200,000 active EDF (2024)
 the EDF's inventory is comprised primarily of Soviet-era weapons and equipment (2024)<br>
 
 **Military service age and obligation**<br>
-Eritrea mandates military service for all citizens age 18-40; 18-month conscript service obligation, which includes 4-6 months of military training and 12 months of military or other national service (military service is most common); in practice, military and national service is often extended indefinitely; citizens up to the age of 55 eligible for recall during mobilization (2023)<br>
+Eritrea mandates military service for all citizens age 18-40; 18-month conscript service obligation, which reportedly includes 4-6 months of military training and 12 months of military or other national service (military service is most common); in practice, military and national service is often extended indefinitely; citizens up to the age of 59 eligible for recall during mobilization (2024)<br>
 
 **Military - note**<br>
-the military’s primary responsibilities are external defense, border security, and providing the regime a vehicle for national cohesion; the Army is the dominant service; it is a large, conscript-based force and estimated to have more than 20 infantry divisions, including some that are mechanized, as well as a division of commandos/special forces<br><br>since the country's independence in 1991, the Eritrean military has participated in numerous conflicts, including the Hanish Island Crisis with Yemen (1995), the First Congo War (1996-1997), the Second Sudanese Civil War (1996-1998), the Eritrea-Ethiopia War (1998-2000), the Djiboutian-Eritrean border conflict (2008), and the Tigray conflict in Ethiopia (2020-2022); during the Tigray conflict, the Eritrean Defense Forces were accused of widespread human rights abuses (2023)<br>
+the military’s primary responsibilities are external defense, border security, and providing the regime a vehicle for national cohesion; the Army is the dominant service; it is a conscript-based force estimated to have more than 20 infantry divisions, including some that are mechanized, as well as a division of commandos/special forces<br><br>since the country's independence in 1991, the Eritrean military has participated in numerous conflicts, including the Hanish Island Crisis with Yemen (1995), the First Congo War (1996-1997), the Second Sudanese Civil War (1996-1998), the Eritrea-Ethiopia War (1998-2000), the Djiboutian-Eritrean border conflict (2008), and the Tigray conflict in Ethiopia (2020-2022); during the Tigray conflict, the Eritrean Defense Forces were accused of widespread human rights abuses (2023)<br>
 
 ## Transnational Issues
 

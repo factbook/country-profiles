@@ -65,7 +65,7 @@ _other_: 18.3% (2022 est.)<br>
 _salt water lake(s)_: Curonian Lagoon (shared with Russia) - 1,620 sq km<br>
 
 **Population distribution**<br>
-fairly even population distribution throughout the country, but somewhat greater concentrations in the southern cities of Vilnius and Kaunas, and the western port of Klaipeda<br>
+fairly even population distribution throughout the country, but somewhat greater concentrations in the southern cities of Vilnius and Kaunas, as well as the western port of Klaipeda<br>
 
 **Natural hazards**<br>
 occasional floods, droughts<br>
@@ -123,7 +123,7 @@ _female_: 49.2 years<br>
 -4.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-fairly even population distribution throughout the country, but somewhat greater concentrations in the southern cities of Vilnius and Kaunas, and the western port of Klaipeda<br>
+fairly even population distribution throughout the country, but somewhat greater concentrations in the southern cities of Vilnius and Kaunas, as well as the western port of Klaipeda<br>
 
 **Urbanization**<br>
 _urban population_: 68.7% of total population (2023)<br>
@@ -295,7 +295,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: named after the Vilnia River; the river name is said to derive from the Lithuanian word <em>vilnis</em>, meaning "wave"<br>
 
 **Administrative divisions**<br>
-60 municipalities (savivaldybe, singular - savivaldybe); Akmene, Alytaus Miestas, Alytus, Anksciai, Birstonas, Birzai, Druskininkai, Elektrenai, Ignalina, Jonava, Joniskis, Jurbarkas, Kaisiadorys, Kalvarija, Kauno Miestas, Kaunas, Kazlu Rudos, Kedainiai, Kelme, Klaipedos Miestas, Klaipeda, Kretinga, Kupiskis, Lazdijai, Marijampole, Mazeikiai, Moletai, Neringa, Pagegiai, Pakruojis, Palangos Miestas, Panevezio Miestas, Panevezys, Pasvalys, Plunge, Prienai, Radviliskis, Raseiniai, Rietavas, Rokiskis, Sakiai, Salcininkai, Siauliu Miestas, Siauliai, Silale, Silute, Sirvintos, Skuodas, Svencionys, Taurage, Telsiai, Trakai, Ukmerge, Utena, Varena, Vilkaviskis, Vilniaus Miestas, Vilnius, Visaginas, Zarasai<br>
+60 municipalities (<em>savivaldybe</em>, singular - <em>savivaldybe</em>); Akmene, Alytaus Miestas, Alytus, Anksciai, Birstonas, Birzai, Druskininkai, Elektrenai, Ignalina, Jonava, Joniskis, Jurbarkas, Kaisiadorys, Kalvarija, Kauno Miestas, Kaunas, Kazlu Rudos, Kedainiai, Kelme, Klaipedos Miestas, Klaipeda, Kretinga, Kupiskis, Lazdijai, Marijampole, Mazeikiai, Moletai, Neringa, Pagegiai, Pakruojis, Palangos Miestas, Panevezio Miestas, Panevezys, Pasvalys, Plunge, Prienai, Radviliskis, Raseiniai, Rietavas, Rokiskis, Sakiai, Salcininkai, Siauliu Miestas, Siauliai, Silale, Silute, Sirvintos, Skuodas, Svencionys, Taurage, Telsiai, Trakai, Ukmerge, Utena, Varena, Vilkaviskis, Vilniaus Miestas, Vilnius, Visaginas, Zarasai<br>
 
 **Legal system**<br>
 civil law system; legislative acts can be appealed to the Constitutional Court<br>
@@ -418,12 +418,6 @@ $79.79 billion (2023 est.)<br>
 9.1% (2023 est.)<br>
 19.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: A (2020)<br>
-_Moody's rating_: A3 (2015)<br>
-_Standard & Poors rating_: A+ (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.7% (2023 est.)<br>

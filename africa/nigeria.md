@@ -76,7 +76,7 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basi
 Lake Chad Basin, Lullemeden-Irhazer Aquifer System<br>
 
 **Population distribution**<br>
-largest population of any African nation; significant population clusters are scattered throughout the country, with the highest density areas being in the south and southwest as shown in this population distribution map<br>
+largest population of any African nation; significant population clusters are scattered throughout the country, with the highest density areas being in the south and southwest, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 periodic droughts; flooding<br>
@@ -134,7 +134,7 @@ _female_: 19.6 years<br>
 -0.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-largest population of any African nation; significant population clusters are scattered throughout the country, with the highest density areas being in the south and southwest as shown in this population distribution map<br>
+largest population of any African nation; significant population clusters are scattered throughout the country, with the highest density areas being in the south and southwest, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 54.3% of total population (2023)<br>
@@ -443,12 +443,6 @@ $363.846 billion (2023 est.)<br>
 18.8% (2022 est.)<br>
 17% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: B (2020)<br>
-_Moody's rating_: B2 (2017)<br>
-_Standard & Poors rating_: B- (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 22.7% (2023 est.)<br>

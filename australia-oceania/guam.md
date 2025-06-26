@@ -61,7 +61,7 @@ _other_: 18.5% (2022 est.)<br>
 2 sq km (2012)<br>
 
 **Population distribution**<br>
-no large cities exist on the island, though large villages (municipalities) attract much of the population; the largest of these is Dededo<br>
+no large cities exist on the island; large villages (municipalities) attract much of the population; the largest of these is Dededo<br>
 
 **Natural hazards**<br>
 frequent squalls during rainy season; relatively rare but potentially destructive typhoons (June to December)<br>
@@ -118,7 +118,7 @@ _female_: 31.1 years<br>
 -10.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-no large cities exist on the island, though large villages (municipalities) attract much of the population; the largest of these is Dededo<br>
+no large cities exist on the island; large villages (municipalities) attract much of the population; the largest of these is Dededo<br>
 
 **Urbanization**<br>
 _urban population_: 95.2% of total population (2022)<br>

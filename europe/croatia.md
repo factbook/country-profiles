@@ -300,7 +300,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the city's name means "beyond the bank (or ditch)"; <em>za </em>in Old Croat means "beyond," and <em>greb </em>means "bank" or "ditch," relating to the city's original site above the Sava River<br>
 
 **Administrative divisions**<br>
-20 counties (zupanije, zupanija - singular) and 1 city* (grad - singular) with special county status; Bjelovarsko-Bilogorska (Bjelovar-Bilogora), Brodsko-Posavska (Brod-Posavina), Dubrovacko-Neretvanska (Dubrovnik-Neretva), Istarska (Istria), Karlovacka (Karlovac), Koprivnicko-Krizevacka (Koprivnica-Krizevci), Krapinsko-Zagorska (Krapina-Zagorje), Licko-Senjska (Lika-Senj), Medimurska (Medimurje), Osjecko-Baranjska (Osijek-Baranja), Pozesko-Slavonska (Pozega-Slavonia), Primorsko-Goranska (Primorje-Gorski Kotar), Sibensko-Kninska (Sibenik-Knin), Sisacko-Moslavacka (Sisak-Moslavina), Splitsko-Dalmatinska (Split-Dalmatia), Varazdinska (Varazdin), Viroviticko-Podravska (Virovitica-Podravina), Vukovarsko-Srijemska (Vukovar-Syrmia), Zadarska (Zadar), Zagreb*, Zagrebacka (Zagreb county)<br>
+20 counties (<em>zupanije</em>, singular - <em>zupanija</em>) and 1 city* (<em>grad </em>- singular) with special county status; Bjelovarsko-Bilogorska (Bjelovar-Bilogora), Brodsko-Posavska (Brod-Posavina), Dubrovacko-Neretvanska (Dubrovnik-Neretva), Istarska (Istria), Karlovacka (Karlovac), Koprivnicko-Krizevacka (Koprivnica-Krizevci), Krapinsko-Zagorska (Krapina-Zagorje), Licko-Senjska (Lika-Senj), Medimurska (Medimurje), Osjecko-Baranjska (Osijek-Baranja), Pozesko-Slavonska (Pozega-Slavonia), Primorsko-Goranska (Primorje-Gorski Kotar), Sibensko-Kninska (Sibenik-Knin), Sisacko-Moslavacka (Sisak-Moslavina), Splitsko-Dalmatinska (Split-Dalmatia), Varazdinska (Varazdin), Viroviticko-Podravska (Virovitica-Podravina), Vukovarsko-Srijemska (Vukovar-Syrmia), Zadarska (Zadar), Zagreb*, Zagrebacka (Zagreb county)<br>
 
 **Legal system**<br>
 civil law system influenced by legal heritage of Austria-Hungary<br>
@@ -428,12 +428,6 @@ $84.394 billion (2023 est.)<br>
 10.8% (2022 est.)<br>
 2.6% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BBB- (2019)<br>
-_Moody's rating_: Ba1 (2020)<br>
-_Standard & Poors rating_: BBB- (2019)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.4% (2023 est.)<br>
@@ -685,7 +679,7 @@ the military's inventory is a mix of Soviet-era (largely from the former Yugosla
 150 Kosovo (KFOR/NATO); 175 Lithuania (NATO; Croatia also has a few hundred personnel participating in several other EU, NATO, and UN missions (2024)<br>
 
 **Military - note**<br>
-the Armed Forces of Croatia (OSRH) are responsible for the defense of Croatia’s sovereignty and territory, contributing to international humanitarian, peacekeeping, and security missions, and providing assistance to civil authorities for such missions as responding to disasters, search and rescue, anti-terrorism, and internal security in times of crisis if called upon by the prime minister or the president; Croatia joined NATO in 2009, and the OSRH participates in NATO missions, including its peacekeeping force in Kosovo and the Enhanced Forward Presence mission in Eastern Europe; it also contributes to EU and UN missions; the OSRH trains regularly with NATO and regional partners  <br><br>the OSRH was established in 1991 from the Croatian National Guard during the Croatian War of Independence (1991-95); during the war, the ground forces grew to as many as 60 brigades and dozens of independent battalions, and a single military offensive against Serbian forces in 1995 included some 100,000 Croatian troops; in 2000, Croatia initiated an effort to modernize and reform the OSRH into a small, professional military capable of meeting the challenges of NATO membership (2024)<br>
+the Armed Forces of Croatia (OSRH) are responsible for the defense of Croatia’s sovereignty and territory, contributing to international humanitarian, peacekeeping, and security missions, and providing assistance to civil authorities for such missions as responding to disasters, search and rescue, anti-terrorism, and internal security in times of crisis if called upon by the prime minister or the president; Croatia joined NATO in 2009, and the OSRH participates in NATO missions, including its peacekeeping force in Kosovo and the Enhanced Forward Presence mission in Eastern Europe; it also contributes to EU and UN missions; the OSRH trains regularly with NATO and regional partners  <br><br>the OSRH was established in 1991 from the Croatian National Guard during the Croatian War of Independence (1991-95); during the war, the ground forces grew to as many as 60 brigades and dozens of independent battalions, and a single military offensive against Serbian forces in 1995 included some 100,000 Croatian troops; in 2000, Croatia initiated an effort to modernize and reform the OSRH into a small, professional military capable of meeting the challenges of NATO membership (2025)<br>
 
 ## Transnational Issues
 

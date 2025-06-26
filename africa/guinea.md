@@ -69,7 +69,7 @@ Niger river source (shared with Mali, and Nigeria [m]) - 4,200 km; Gambie (Gambi
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
 
 **Population distribution**<br>
-areas of highest density are in the west and south; interior is sparsely populated as shown in this population distribution map<br>
+areas of highest density are in the west and south; interior is sparsely populated, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 hot, dry, dusty harmattan haze may reduce visibility during dry season<br>
@@ -127,7 +127,7 @@ _female_: 19.6 years<br>
 0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-areas of highest density are in the west and south; interior is sparsely populated as shown in this population distribution map<br>
+areas of highest density are in the west and south; interior is sparsely populated, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 38.1% of total population (2023)<br>
@@ -295,7 +295,7 @@ _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
 _etymology_: <p>the name derives from <em>konakri</em>, a Susu word meaning "over the water" and referring to the city's location on a peninsula; it was originally the name of a local village</p><br>
 
 **Administrative divisions**<br>
-7 regions administrative (administrative regions) and 1 gouvenorat (governorate)*; Boke, Conakry*, Faranah, Kankan, Kindia, Labe, Mamou, N'Zerekore<br>
+7 administrative regions (<em>régions administratives</em><em>, </em>singular - <em>région administrative</em>) and 1 governorate (<em>gouvenorat</em>)*; Boke, Conakry*, Faranah, Kankan, Kindia, Labe, Mamou, N'Zerekore<br>
 
 **Legal system**<br>
 civil law system based on the French model<br>

@@ -63,7 +63,7 @@ _other_: 9.6% (2022 est.)<br>
 NA<br>
 
 **Population distribution**<br>
-only two large cities over 30,000 people (Bata on the mainland, and the capital Malabo on the island of Bioko); small communities are scattered throughout the mainland and the five inhabited islands as shown in this population distribution map<br>
+the two large cities are Bata on the mainland and the capital Malabo on the island of Bioko; small communities are scattered throughout the mainland and the five inhabited islands, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 <p>violent windstorms; flash floods</p><p><strong>volcanism:</strong> Santa Isabel (3,007 m), which last erupted in 1923, is the country's only historically active volcano; Santa Isabel, along with two dormant volcanoes, form Bioko Island in the Gulf of Guinea</p><br>
@@ -121,7 +121,7 @@ _female_: 21.5 years<br>
 12.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-only two large cities over 30,000 people (Bata on the mainland, and the capital Malabo on the island of Bioko); small communities are scattered throughout the mainland and the five inhabited islands as shown in this population distribution map<br>
+the two large cities are Bata on the mainland and the capital Malabo on the island of Bioko; small communities are scattered throughout the mainland and the five inhabited islands, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 74.4% of total population (2023)<br>
@@ -260,7 +260,7 @@ _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
 _etymology_: English settlers who founded the city in 1827 named it Port Clarence after the Duke of CLARENCE; the Spanish renamed it Santa Isabel in 1843, for Queen ISABELLA II of Spain; it was renamed again in 1973 after King MALABO (1837&ndash;1937), the last king of the Bubi (local ethnic group)<br>
 
 **Administrative divisions**<br>
-8 provinces (provincias, singular - provincia); Annobon, Bioko Norte, Bioko Sur, Centro Sur, Djibloho, Kie-Ntem, Litoral, Wele-Nzas<br>
+8 provinces (<em>provincias</em>, singular - <em>provincia</em>); Annobon, Bioko Norte, Bioko Sur, Centro Sur, Djibloho, Kie-Ntem, Litoral, Wele-Nzas<br>
 
 **Legal system**<br>
 mixed system of civil and customary law<br>
@@ -604,7 +604,7 @@ the FAGE is armed with mostly older (typically Soviet-era) and second-hand weapo
 18 years of age for selective compulsory military service, although conscription is rare in practice; 24-month service obligation (2023)<br>
 
 **Military - note**<br>
-the Armed Forces of Equatorial Guinea (FAGE) are responsible for defending the territory and sovereignty of the country; it also has some internal security duties, including fulfilling some police functions in border areas, sensitive sites, and high-traffic areas; the FAGE&rsquo;s National Guard (Army) is a small force with a few infantry battalions; over the past decade, the country has made considerable investments in naval capabilities to protect its oil installations and combat piracy and crime in the Gulf of Guinea; while the Navy is small, its inventory includes a light frigate and a corvette, as well as several off-shore patrol vessels; the Air Force has a handful of operational combat aircraft and ground attack-capable helicopters (2023)<br>
+the Armed Forces of Equatorial Guinea (FAGE) are responsible for defending the territory and sovereignty of the country; the FAGE also has some internal security duties, including fulfilling some police functions in border areas, sensitive sites, and high-traffic areas; maritime security, particularly protecting offshore oil installations and combating piracy and crime in the Gulf of Guinea, is a key priority (2024)<br>
 
 ## Transnational Issues
 

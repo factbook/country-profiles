@@ -74,7 +74,7 @@ Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambez
 Lower Kalahari-Stampriet Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 **Population distribution**<br>
-population density is very low, with the largest clustering found in the extreme north-central area along the border with Angola as shown in this population distribution map<br>
+population density is very low, with the largest clusters found in the extreme north-central area along the border with Angola, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 prolonged periods of drought<br>
@@ -132,7 +132,7 @@ _female_: 23.5 years<br>
 0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-population density is very low, with the largest clustering found in the extreme north-central area along the border with Angola as shown in this population distribution map<br>
+population density is very low, with the largest clusters found in the extreme north-central area along the border with Angola, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 54.9% of total population (2023)<br>
@@ -295,7 +295,8 @@ _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name is an Afrikaans word meaning "windy corner;" a local Khoikhoin chief first used the name in the 19th century and may have derived it from the name of his childhood South African village of Winterhoek<br>
 
 **Administrative divisions**<br>
-14 regions; Erongo, Hardap, //Karas, Kavango East, Kavango West, Khomas, Kunene, Ohangwena, Omaheke, Omusati, Oshana, Oshikoto, Otjozondjupa, Zambezi; note - the Karas Region was renamed //Karas in September 2013 to include the alveolar lateral click of the Khoekhoegowab language<br>
+14 regions; Erongo, Hardap, //Karas, Kavango East, Kavango West, Khomas, Kunene, Ohangwena, Omaheke, Omusati, Oshana, Oshikoto, Otjozondjupa, Zambezi<br>
+<strong>note: </strong>the Karas region was renamed //Karas in 2013 to include the alveolar lateral click of the Khoekhoegowab language<br>
 
 **Legal system**<br>
 mixed system of uncodified civil law based on Roman-Dutch law and customary law<br>
@@ -431,11 +432,6 @@ $12.351 billion (2023 est.)<br>
 5.9% (2023 est.)<br>
 6.1% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BB (2019)<br>
-_Moody's rating_: Ba3 (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.7% (2023 est.)<br>

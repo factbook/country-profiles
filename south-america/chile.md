@@ -69,7 +69,7 @@ _other_: 60.9% (2022 est.)<br>
 _fresh water lake(s)_: Lago General Carrera (shared with Argentina) - 2,240 sq km; Lago O'Higgins (shared with Argentina) - 1,010 sq km; Lago Llanquihue - 800 sq km; Lago Fagnano (shared with Argentina) - 590 sq km<br>
 
 **Population distribution**<br>
-90% of the population is located in the middle third of the country around the capital of Santiago; the far north (anchored by the Atacama Desert) and the extreme south are relatively underpopulated<br>
+90% of the population is located in the middle third of the country around the capital of Santiago; the far north, including the Atacama Desert, and the extreme south are relatively underpopulated<br>
 
 **Natural hazards**<br>
 <p>severe earthquakes; active volcanism; tsunamis</p><p><strong>volcanism:</strong> significant volcanic activity due to more than three-dozen active volcanoes along the Andes Mountains; Lascar (5,592 m), which last erupted in 2007, is the most active volcano in the northern Chilean Andes; Llaima (3,125 m) in central Chile, which last erupted in 2009, is another of the country's most active; Chaiten's 2008 eruption forced major evacuations; other notable historically active volcanoes include Cerro Hudson, Calbuco, Copahue, Guallatiri, Llullaillaco, Nevados de Chillan, Puyehue, San Pedro, and Villarrica; see note 2 under "Geography - note"</p><br>
@@ -128,7 +128,7 @@ _female_: 38.2 years<br>
 0.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-90% of the population is located in the middle third of the country around the capital of Santiago; the far north (anchored by the Atacama Desert) and the extreme south are relatively underpopulated<br>
+90% of the population is located in the middle third of the country around the capital of Santiago; the far north, including the Atacama Desert, and the extreme south are relatively underpopulated<br>
 
 **Urbanization**<br>
 _urban population_: 88% of total population (2023)<br>
@@ -294,7 +294,7 @@ _time zone note_: Chile has three time zones: the continental portion at UTC-3; 
 _etymology_: Santiago is named after Saint James, the patron saint of Spain (Santo Iago in Spanish); Valparaiso derives from the Spanish words <em>valle </em>(valley) and <em>paraíso </em>(paradise)<br>
 
 **Administrative divisions**<br>
-16 regions (regiones, singular - region); Aysen, Antofagasta, Araucania, Arica y Parinacota, Atacama, Biobio, Coquimbo, Libertador General Bernardo O'Higgins, Los Lagos, Los Rios, Magallanes y de la Antartica Chilena (Magallanes and Chilean Antarctica), Maule, Nuble, Region Metropolitana (Santiago), Tarapaca, Valparaiso<br>
+16 regions (<em>regiones</em>, singular - <em>region</em>); Aysen, Antofagasta, Araucania, Arica y Parinacota, Atacama, Biobio, Coquimbo, Libertador General Bernardo O'Higgins, Los Lagos, Los Rios, Magallanes y de la Antartica Chilena (Magallanes and Chilean Antarctica), Maule, Nuble, Region Metropolitana (Santiago), Tarapaca, Valparaiso<br>
 <strong>note:</strong> the US does not recognize any claims to Antarctica<br>
 
 **Legal system**<br>

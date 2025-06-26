@@ -65,7 +65,7 @@ _other_: 1.6% (2022 est.)<br>
 30 sq km (2012)<br>
 
 **Population distribution**<br>
-more than half of the population lives in urban areas, with approximately one-third living within an 80-km radius of Monrovia as shown in this population distribution map<br>
+more than half of the population lives in urban areas, with approximately one third living within an 80-km (50-mi) radius of Monrovia, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 dust-laden harmattan winds blow from the Sahara (December to March)<br>
@@ -122,7 +122,7 @@ _female_: 20 years<br>
 -0.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-more than half of the population lives in urban areas, with approximately one-third living within an 80-km radius of Monrovia as shown in this population distribution map<br>
+more than half of the population lives in urban areas, with approximately one third living within an 80-km (50-mi) radius of Monrovia, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 53.6% of total population (2023)<br>

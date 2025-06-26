@@ -282,7 +282,7 @@ _time difference_: UTC-6 (1 hour behind Washington, DC, during Standard Time)<br
 _etymology_: the name comes from Lake Managua, whose name is composed of the Guaraní words <em>ama </em>(rain) and <em>nagua </em>(spirit) and refers to a local deity<br>
 
 **Administrative divisions**<br>
-15 departments (departamentos, singular - departamento) and 2 autonomous regions* (regiones autonomistas, singular - region autonoma); Boaco, Carazo, Chinandega, Chontales, Costa Caribe Norte*, Costa Caribe Sur*, Esteli, Granada, Jinotega, Leon, Madriz, Managua, Masaya, Matagalpa, Nueva Segovia, Rio San Juan, Rivas<br>
+15 departments (<em>departamentos</em>, singular - <em>departamento</em>) and 2 autonomous regions* (<em>regiones autonomistas</em>, singular - <em>region autonoma</em>); Boaco, Carazo, Chinandega, Chontales, Costa Caribe Norte*, Costa Caribe Sur*, Esteli, Granada, Jinotega, Leon, Madriz, Managua, Masaya, Matagalpa, Nueva Segovia, Rio San Juan, Rivas<br>
 
 **Legal system**<br>
 civil law system; Supreme Court may review administrative acts<br>
@@ -407,12 +407,6 @@ $17.829 billion (2023 est.)<br>
 8.4% (2023 est.)<br>
 10.5% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: B- (2018)<br>
-_Moody's rating_: B3 (2020)<br>
-_Standard & Poors rating_: B- (2018)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 15.3% (2023 est.)<br>

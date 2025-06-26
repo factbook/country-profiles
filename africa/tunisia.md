@@ -67,7 +67,7 @@ _other_: 33% (2022 est.)<br>
 North Western Sahara Aquifer System<br>
 
 **Population distribution**<br>
-the overwhelming majority of the population is located in the northern half of the country; the south remains largely underpopulated as shown in this population distribution map<br>
+the overwhelming majority of the population is located in the northern half of the country; the south remains largely underpopulated, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 flooding; earthquakes; droughts<br>
@@ -126,7 +126,7 @@ _female_: 35.1 years<br>
 -1.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the overwhelming majority of the population is located in the northern half of the country; the south remains largely underpopulated as shown in this population distribution map<br>
+the overwhelming majority of the population is located in the northern half of the country; the south remains largely underpopulated, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 70.5% of total population (2023)<br>
@@ -294,7 +294,7 @@ _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the origin of the ancient name is unclear; it is sometimes associated with the name of the Phoenician goddess Tanith<br>
 
 **Administrative divisions**<br>
-24 governorates (wilayat, singular - wilayah); Beja (Bajah), Ben Arous (Bin 'Arus), Bizerte (Banzart), Gabes (Qabis), Gafsa (Qafsah), Jendouba (Jundubah), Kairouan (Al Qayrawan), Kasserine (Al Qasrayn), Kebili (Qibili), Kef (Al Kaf), L'Ariana (Aryanah), Mahdia (Al Mahdiyah), Manouba (Manubah), Medenine (Madanin), Monastir (Al Munastir), Nabeul (Nabul), Sfax (Safaqis), Sidi Bouzid (Sidi Bu Zayd), Siliana (Silyanah), Sousse (Susah), Tataouine (Tatawin), Tozeur (Tawzar), Tunis, Zaghouan (Zaghwan)<br>
+24 governorates (<em>wilayat</em>, singular - <em>wilayah</em>); Beja (Bajah), Ben Arous (Bin 'Arus), Bizerte (Banzart), Gabes (Qabis), Gafsa (Qafsah), Jendouba (Jundubah), Kairouan (Al Qayrawan), Kasserine (Al Qasrayn), Kebili (Qibili), Kef (Al Kaf), L'Ariana (Aryanah), Mahdia (Al Mahdiyah), Manouba (Manubah), Medenine (Madanin), Monastir (Al Munastir), Nabeul (Nabul), Sfax (Safaqis), Sidi Bouzid (Sidi Bu Zayd), Siliana (Silyanah), Sousse (Susah), Tataouine (Tatawin), Tozeur (Tawzar), Tunis, Zaghouan (Zaghwan)<br>
 
 **Legal system**<br>
 mixed system of civil law, based on the French civil code and Islamic (sharia) law; Supreme Court reviews some legislative acts in joint session<br>
@@ -430,12 +430,6 @@ $48.53 billion (2023 est.)<br>
 9.3% (2023 est.)<br>
 8.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: B (2020)<br>
-_Moody's rating_: B2 (2018)<br>
-_Standard & Poors rating_: N/A (2013)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 9.5% (2023 est.)<br>

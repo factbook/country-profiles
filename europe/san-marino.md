@@ -244,7 +244,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: named after Saint MARINUS, who founded a monastic settlement on Monte Titano in the early 4th century<br>
 
 **Administrative divisions**<br>
-9 municipalities (castelli, singular - castello); Acquaviva, Borgo Maggiore, Chiesanuova, Domagnano, Faetano, Fiorentino, Montegiardino, San Marino Citta, Serravalle<br>
+9 municipalities (<em>castelli</em>, singular - <em>castello</em>); Acquaviva, Borgo Maggiore, Chiesanuova, Domagnano, Faetano, Fiorentino, Montegiardino, San Marino Citta, Serravalle<br>
 
 **Legal system**<br>
 civil law system with Italian civil law influences<br>
@@ -363,10 +363,6 @@ $1.832 billion (2022 est.)<br>
 5.9% (2023 est.)<br>
 5.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BB+ (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0% (2022 est.)<br>

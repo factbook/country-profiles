@@ -299,7 +299,7 @@ _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time
 _etymology_: the name Viangchan means "city of sandalwood" in Laotian; the standard spelling reflects French influence<br>
 
 **Administrative divisions**<br>
-17 provinces (khoueng, singular and plural) and 1 prefecture* (kampheng nakhon); Attapu, Bokeo, Bolikhamxay, Champasak, Houaphanh, Khammouan, Louangnamtha, Louangphabang (Luang Prabang), Oudomxai, Phongsali, Salavan, Savannakhet, Viangchan (Vientiane)*, Viangchan, Xaignabouli, Xaisomboun, Xekong, Xiangkhouang<br>
+17 provinces (<em>khoueng</em>, singular and plural) and 1 prefecture* (<em>kampheng nakhon</em>); Attapu, Bokeo, Bolikhamxay, Champasak, Houaphanh, Khammouan, Louangnamtha, Louangphabang (Luang Prabang), Oudomxai, Phongsali, Salavan, Savannakhet, Viangchan (Vientiane)*, Viangchan, Xaignabouli, Xaisomboun, Xekong, Xiangkhouang<br>
 
 **Legal system**<br>
 civil law system similar in form to the French system<br>
@@ -422,11 +422,6 @@ $15.843 billion (2023 est.)<br>
 31.2% (2023 est.)<br>
 23% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: CCC (2020)<br>
-_Moody's rating_: Caa2 (2020)<br>
-<strong>note: </strong>the year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 16.1% (2023 est.)<br>

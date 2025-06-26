@@ -65,7 +65,7 @@ _other_: 8.4% (2022 est.)<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
-a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations; pockets in the mountainous northwest exhibit less density than elsewhere<br>
+a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations; pockets in the mountainous northwest are less dense&nbsp;<br>
 
 **Natural hazards**<br>
 flooding; earthquakes<br>
@@ -123,7 +123,7 @@ _female_: 47.9 years<br>
 1.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations; pockets in the mountainous northwest exhibit less density than elsewhere<br>
+a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations; pockets in the mountainous northwest are less dense&nbsp;<br>
 
 **Urbanization**<br>
 _urban population_: 56.1% of total population (2023)<br>
@@ -291,7 +291,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: by tradition, the name is related to the Slovene word <em>ljubljena</em>, meaning "beloved," but the origin is probably pre-Slavic and remains obscure<br>
 
 **Administrative divisions**<br>
-<p>200 municipalities (obcine, singular - obcina) and 12 urban municipalities (mestne obcine, singular - mestna obcina)</p> <p><strong>municipalities:</strong> Ajdovscina, Ankaran, Apace, Beltinci, Benedikt, Bistrica ob Sotli, Bled, Bloke, Bohinj, Borovnica, Bovec, Braslovce, Brda, Brezice, Brezovica, Cankova, Cerklje na Gorenjskem, Cerknica, Cerkno, Cerkvenjak, Cirkulane, Crensovci, Crna na Koroskem, Crnomelj, Destrnik, Divaca, Dobje, Dobrepolje, Dobrna, Dobrova-Polhov Gradec, Dobrovnik/Dobronak, Dolenjske Toplice, Dol pri Ljubljani, Domzale, Dornava, Dravograd, Duplek, Gorenja Vas-Poljane, Gorisnica, Gorje, Gornja Radgona, Gornji Grad, Gornji Petrovci, Grad, Grosuplje, Hajdina, Hoce-Slivnica, Hodos, Horjul, Hrastnik, Hrpelje-Kozina, Idrija, Ig, Ilirska Bistrica, Ivancna Gorica, Izola/Isola, Jesenice, Jezersko, Jursinci, Kamnik, Kanal ob Soci, Kidricevo, Kobarid, Kobilje, Kocevje, Komen, Komenda, Kosanjevica na Krki, Kostel, Kozje, Kranjska Gora, Krizevci, Kungota, Kuzma, Lasko, Lenart, Lendava/Lendva, Litija, Ljubno, Ljutomer, Log-Dragomer, Logatec, Loska Dolina, Loski Potok, Lovrenc na Pohorju, Luce, Lukovica, Majsperk, Makole, Markovci, Medvode, Menges, Metlika, Mezica, Miklavz na Dravskem Polju, Miren-Kostanjevica, Mirna, Mirna Pec, Mislinja, Mokronog-Trebelno, Moravce, Moravske Toplice, Mozirje, Muta, Naklo, Nazarje, Odranci, Oplotnica, Ormoz, Osilnica, Pesnica, Piran/Pirano, Pivka, Podcetrtek, Podlehnik, Podvelka, Poljcane, Polzela, Postojna, Prebold, Preddvor, Prevalje, Puconci, Race-Fram, Radece, Radenci, Radlje ob Dravi, Radovljica, Ravne na Koroskem, Razkrizje, Recica ob Savinji, Rence-Vogrsko, Ribnica, Ribnica na Pohorju, Rogaska Slatina, Rogasovci, Rogatec, Ruse, Salovci, Selnica ob Dravi, Semic, Sempeter-Vrtojba, Sencur, Sentilj, Sentjernej, Sentjur, Sentrupert, Sevnica, Sezana, Skocjan, Skofja Loka, Skofljica, Slovenska Bistrica, Slovenske Konjice, Smarje pri Jelsah, Smarjeske Toplice, Smartno ob Paki, Smartno pri Litiji, Sodrazica, Solcava, Sostanj, Sredisce ob Dravi, Starse, Store, Straza, Sveta Ana, Sveta Trojica v Slovenskih Goricah, Sveti Andraz v Slovenskih Goricah, Sveti Jurij ob Scavnici, Sveti Jurij v Slovenskih Goricah, Sveti Tomaz, Tabor, Tisina, Tolmin, Trbovlje, Trebnje, Trnovska Vas, Trzic, Trzin, Turnisce, Velika Polana, Velike Lasce, Verzej, Videm, Vipava, Vitanje, Vodice, Vojnik, Vransko, Vrhnika, Vuzenica, Zagorje ob Savi, Zalec, Zavrc, Zelezniki, Zetale, Ziri, Zirovnica, Zrece, Zuzemberk</p> <p><strong>urban municipalities:</strong> Celje, Koper, Kranj, Krsko, Ljubljana, Maribor, Murska Sobota, Nova Gorica, Novo Mesto, Ptuj, Slovenj Gradec, Velenje</p><br>
+<p>200 municipalities (<em>obcine</em>, singular - <em>obcina</em>) and 12 urban municipalities (<em>mestne obcine</em>, singular - <em>mestna obcina</em>)</p> <p><strong>municipalities:</strong> Ajdovscina, Ankaran, Apace, Beltinci, Benedikt, Bistrica ob Sotli, Bled, Bloke, Bohinj, Borovnica, Bovec, Braslovce, Brda, Brezice, Brezovica, Cankova, Cerklje na Gorenjskem, Cerknica, Cerkno, Cerkvenjak, Cirkulane, Crensovci, Crna na Koroskem, Crnomelj, Destrnik, Divaca, Dobje, Dobrepolje, Dobrna, Dobrova-Polhov Gradec, Dobrovnik/Dobronak, Dolenjske Toplice, Dol pri Ljubljani, Domzale, Dornava, Dravograd, Duplek, Gorenja Vas-Poljane, Gorisnica, Gorje, Gornja Radgona, Gornji Grad, Gornji Petrovci, Grad, Grosuplje, Hajdina, Hoce-Slivnica, Hodos, Horjul, Hrastnik, Hrpelje-Kozina, Idrija, Ig, Ilirska Bistrica, Ivancna Gorica, Izola/Isola, Jesenice, Jezersko, Jursinci, Kamnik, Kanal ob Soci, Kidricevo, Kobarid, Kobilje, Kocevje, Komen, Komenda, Kosanjevica na Krki, Kostel, Kozje, Kranjska Gora, Krizevci, Kungota, Kuzma, Lasko, Lenart, Lendava/Lendva, Litija, Ljubno, Ljutomer, Log-Dragomer, Logatec, Loska Dolina, Loski Potok, Lovrenc na Pohorju, Luce, Lukovica, Majsperk, Makole, Markovci, Medvode, Menges, Metlika, Mezica, Miklavz na Dravskem Polju, Miren-Kostanjevica, Mirna, Mirna Pec, Mislinja, Mokronog-Trebelno, Moravce, Moravske Toplice, Mozirje, Muta, Naklo, Nazarje, Odranci, Oplotnica, Ormoz, Osilnica, Pesnica, Piran/Pirano, Pivka, Podcetrtek, Podlehnik, Podvelka, Poljcane, Polzela, Postojna, Prebold, Preddvor, Prevalje, Puconci, Race-Fram, Radece, Radenci, Radlje ob Dravi, Radovljica, Ravne na Koroskem, Razkrizje, Recica ob Savinji, Rence-Vogrsko, Ribnica, Ribnica na Pohorju, Rogaska Slatina, Rogasovci, Rogatec, Ruse, Salovci, Selnica ob Dravi, Semic, Sempeter-Vrtojba, Sencur, Sentilj, Sentjernej, Sentjur, Sentrupert, Sevnica, Sezana, Skocjan, Skofja Loka, Skofljica, Slovenska Bistrica, Slovenske Konjice, Smarje pri Jelsah, Smarjeske Toplice, Smartno ob Paki, Smartno pri Litiji, Sodrazica, Solcava, Sostanj, Sredisce ob Dravi, Starse, Store, Straza, Sveta Ana, Sveta Trojica v Slovenskih Goricah, Sveti Andraz v Slovenskih Goricah, Sveti Jurij ob Scavnici, Sveti Jurij v Slovenskih Goricah, Sveti Tomaz, Tabor, Tisina, Tolmin, Trbovlje, Trebnje, Trnovska Vas, Trzic, Trzin, Turnisce, Velika Polana, Velike Lasce, Verzej, Videm, Vipava, Vitanje, Vodice, Vojnik, Vransko, Vrhnika, Vuzenica, Zagorje ob Savi, Zalec, Zavrc, Zelezniki, Zetale, Ziri, Zirovnica, Zrece, Zuzemberk</p> <p><strong>urban municipalities:</strong> Celje, Koper, Kranj, Krsko, Ljubljana, Maribor, Murska Sobota, Nova Gorica, Novo Mesto, Ptuj, Slovenj Gradec, Velenje</p><br>
 
 **Legal system**<br>
 civil law system<br>
@@ -426,12 +426,6 @@ $69.148 billion (2023 est.)<br>
 7.4% (2023 est.)<br>
 8.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: A (2019)<br>
-_Moody's rating_: A3 (2020)<br>
-_Standard & Poors rating_: AA- (2019)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.5% (2023 est.)<br>

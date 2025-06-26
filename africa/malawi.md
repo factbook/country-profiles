@@ -72,7 +72,7 @@ Zambezi (shared with Zambia [s], Angola, Zimbabwe, Namibia, Tanzania, and Mozamb
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
 
 **Population distribution**<br>
-population density is highest south of Lake Nyasa as shown in this population distribution map<br>
+population density is highest south of Lake Nyasa, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 flooding; droughts; earthquakes<br>
@@ -130,7 +130,7 @@ _female_: 20.6 years<br>
 0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-population density is highest south of Lake Nyasa as shown in this population distribution map<br>
+population density is highest south of Lake Nyasa, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 18.3% of total population (2023)<br>

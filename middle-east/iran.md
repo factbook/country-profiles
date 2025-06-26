@@ -74,7 +74,7 @@ Euphrates (shared with Turkey [s], Syria, and Iraq [m]) - 3,596 km; Tigris (shar
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
 **Population distribution**<br>
-population is concentrated in the north, northwest, and west, reflecting the position of the Zagros and Elburz Mountains; the vast dry areas in the center and eastern parts of the country, around the deserts of the Dasht-e Kavir and Dasht-e Lut, have a much lower population density<br>
+population is concentrated in the north, northwest, and west, reflecting the position of the Zagros and Elburz Mountains; the vast, dry areas in the center and eastern parts of the country, around the deserts of the Dasht-e Kavir and Dasht-e Lut, have a much lower population density<br>
 
 **Natural hazards**<br>
 periodic droughts, floods; dust storms, sandstorms; earthquakes<br>
@@ -132,7 +132,7 @@ _female_: 34.1 years<br>
 -0.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-population is concentrated in the north, northwest, and west, reflecting the position of the Zagros and Elburz Mountains; the vast dry areas in the center and eastern parts of the country, around the deserts of the Dasht-e Kavir and Dasht-e Lut, have a much lower population density<br>
+population is concentrated in the north, northwest, and west, reflecting the position of the Zagros and Elburz Mountains; the vast, dry areas in the center and eastern parts of the country, around the deserts of the Dasht-e Kavir and Dasht-e Lut, have a much lower population density<br>
 
 **Urbanization**<br>
 _urban population_: 77.3% of total population (2023)<br>
@@ -307,7 +307,7 @@ _daylight saving time_: does not observe daylight savings time<br>
 _etymology_: the name probably means "flat" or "lower," referring to its location in the foothills of the Elburz Mountains<br>
 
 **Administrative divisions**<br>
-31 provinces (ostanha, singular - ostan); Alborz, Ardabil, Azarbayjan-e Gharbi (West Azerbaijan), Azarbayjan-e Sharqi (East Azerbaijan), Bushehr, Chahar Mahal va Bakhtiari, Esfahan, Fars, Gilan, Golestan, Hamadan, Hormozgan, Ilam, Kerman, Kermanshah, Khorasan-e Jonubi (South Khorasan), Khorasan-e Razavi (Razavi Khorasan), Khorasan-e Shomali (North Khorasan), Khuzestan, Kohgiluyeh va Bowyer Ahmad, Kordestan, Lorestan, Markazi, Mazandaran, Qazvin, Qom, Semnan, Sistan va Baluchestan, Tehran, Yazd, Zanjan<br>
+31 provinces (<em>ostanha</em>, singular - <em>ostan</em>); Alborz, Ardabil, Azarbayjan-e Gharbi (West Azerbaijan), Azarbayjan-e Sharqi (East Azerbaijan), Bushehr, Chahar Mahal va Bakhtiari, Esfahan, Fars, Gilan, Golestan, Hamadan, Hormozgan, Ilam, Kerman, Kermanshah, Khorasan-e Jonubi (South Khorasan), Khorasan-e Razavi (Razavi Khorasan), Khorasan-e Shomali (North Khorasan), Khuzestan, Kohgiluyeh va Bowyer Ahmad, Kordestan, Lorestan, Markazi, Mazandaran, Qazvin, Qom, Semnan, Sistan va Baluchestan, Tehran, Yazd, Zanjan<br>
 
 **Legal system**<br>
 religious system based on secular and Islamic law<br>

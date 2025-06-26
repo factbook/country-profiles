@@ -293,7 +293,7 @@ _time zone note_: Portugal has two time zones, including the Azores (UTC-1)<br>
 _etymology_: the origin of the name is unclear; some trace it back to the legendary Greek hero Ulysses; others claim a derivation from the Phoenician <em>alis-ubbo</em>, or "joyful bay"<br>
 
 **Administrative divisions**<br>
-18 districts (distritos, singular - distrito) and 2 autonomous regions* (regioes autonomas, singular - regiao autonoma); Aveiro, Acores (Azores)*, Beja, Braga, Braganca, Castelo Branco, Coimbra, Evora, Faro, Guarda, Leiria, Lisboa (Lisbon), Madeira*, Portalegre, Porto, Santarem, Setubal, Viana do Castelo, Vila Real, Viseu<br>
+18 districts (<em>distritos</em>, singular - <em>distrito</em>) and 2 autonomous regions* (<em>regioes autonomas</em>, singular - <em>regiao autonoma</em>); Aveiro, Acores (Azores)*, Beja, Braga, Braganca, Castelo Branco, Coimbra, Evora, Faro, Guarda, Leiria, Lisboa (Lisbon), Madeira*, Portalegre, Porto, Santarem, Setubal, Viana do Castelo, Vila Real, Viseu<br>
 
 **Legal system**<br>
 civil law system; Constitutional Court reviews legislative acts<br>
@@ -418,12 +418,6 @@ $289.114 billion (2023 est.)<br>
 4.3% (2023 est.)<br>
 7.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BBB (2007)<br>
-_Moody's rating_: Baa3 (2018)<br>
-_Standard & Poors rating_: BBB (2019)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.1% (2023 est.)<br>

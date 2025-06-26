@@ -312,7 +312,7 @@ _time difference_: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name translates as "fair winds" in Spanish; the full original name, Nuestra Senora Santa Maria de los Buenos Aires, was given only to the port; the city was founded separately from the port in 1536 and was named Ciudad de la Santissima Trinidad (City of the Most Holy Trinity); the shortened version of the port name eventually became the city name<br>
 
 **Administrative divisions**<br>
-23 provinces (provincias, singular - provincia) and 1 autonomous city*; Buenos Aires, Catamarca, Chaco, Chubut, Ciudad Autonoma de Buenos Aires*, Cordoba, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquen, Rio Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego - Antartida e Islas del Atlantico Sur (Tierra del Fuego - Antarctica and the South Atlantic Islands), Tucuman<br>
+23 provinces (<em>provincias</em>, singular - <em>provincia</em>) and 1 autonomous city*; Buenos Aires, Catamarca, Chaco, Chubut, Ciudad Autonoma de Buenos Aires*, Cordoba, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquen, Rio Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego - Antartida e Islas del Atlantico Sur (Tierra del Fuego - Antarctica and the South Atlantic Islands), Tucuman<br>
 <strong>note:</strong> the US does not recognize any claims to Antarctica<br>
 
 **Legal system**<br>

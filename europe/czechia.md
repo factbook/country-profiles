@@ -299,7 +299,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the name may derive from the old Slavic word "praga" or "prah," meaning "threshold;" it could also be related to the same Slavic root word as the modern Czech "pražiti," a term for woodland cleared by burning<br>
 
 **Administrative divisions**<br>
-13 regions (kraje, singular - kraj) and 1 capital city* (hlavni mesto); Jihocesky (South Bohemia), Jihomoravsky (South Moravia), Karlovarsky (Karlovy Vary), Kralovehradecky (Hradec Kralove), Liberecky (Liberec), Moravskoslezsky (Moravia-Silesia), Olomoucky (Olomouc), Pardubicky (Pardubice), Plzensky (Pilsen), Praha (Prague)*, Stredocesky (Central Bohemia), Ustecky (Usti), Vysocina (Highlands), Zlinsky (Zlin)<br>
+13 regions (<em>kraje</em>, singular - <em>kraj</em>) and 1 capital city* (<em>hlavni mesto</em>); Jihocesky (South Bohemia), Jihomoravsky (South Moravia), Karlovarsky (Karlovy Vary), Kralovehradecky (Hradec Kralove), Liberecky (Liberec), Moravskoslezsky (Moravia-Silesia), Olomoucky (Olomouc), Pardubicky (Pardubice), Plzensky (Pilsen), Praha (Prague)*, Stredocesky (Central Bohemia), Ustecky (Usti), Vysocina (Highlands), Zlinsky (Zlin)<br>
 
 **Legal system**<br>
 new civil code enacted in 2014, replacing civil code of 1964 based on former Austro-Hungarian civil codes and socialist theory&nbsp;<br>
@@ -438,12 +438,6 @@ $343.208 billion (2023 est.)<br>
 10.7% (2023 est.)<br>
 15.1% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: AA- (2018)<br>
-_Moody's rating_: Aa3 (2019)<br>
-_Standard & Poors rating_: AA- (2011)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.7% (2023 est.)<br>

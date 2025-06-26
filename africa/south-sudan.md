@@ -68,7 +68,7 @@ Nile (shared with Rwanda [s], Tanzania, Uganda, Sudan, and Egypt [m]) - 6,650 km
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Population distribution**<br>
-clusters found in urban areas, particularly in the western interior and around the White Nile as shown in this population distribution map<br>
+clusters found in urban areas, particularly in the western interior and around the White Nile, as shown in this population distribution map<br>
 
 **Geography - note**<br>
 landlocked; The Sudd is a vast swamp in the north central region of South Sudan, formed by the White Nile; its size is variable but can reach some 15% of the country's total area during the rainy season; it is one of the world's largest wetlands<br>
@@ -124,7 +124,7 @@ _female_: 18.7 years<br>
 19.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-clusters found in urban areas, particularly in the western interior and around the White Nile as shown in this population distribution map<br>
+clusters found in urban areas, particularly in the western interior and around the White Nile, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 21.2% of total population (2023)<br>
@@ -263,7 +263,8 @@ _time difference_: UTC+2 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name comes from the name of a small Bari village that was located near the present-day city<br>
 
 **Administrative divisions**<br>
-10 states; Central Equatoria, Eastern Equatoria, Jonglei, Lakes, Northern Bahr el Ghazal, Unity, Upper Nile, Warrap, Western Bahr el Ghazal, Western Equatoria; note - in 2015, the creation of 28 new states was announced and in 2017 four additional states; following the February 2020 peace agreement, the country was again reorganized into the 10 original states, plus 2 administrative areas, Pibor and Ruweng, and 1 special administrative status area, Abyei (which is disputed between South Sudan and Sudan); this latest administrative revision has not yet been vetted by the US Board on Geographic Names<br>
+10 states; Central Equatoria, Eastern Equatoria, Jonglei, Lakes, Northern Bahr el Ghazal, Unity, Upper Nile, Warrap, Western Bahr el Ghazal, Western Equatoria<br>
+<strong>note:</strong> in 2015, 28 new states were created, and 4 additional states in 2017; after the 2020 peace agreement, the country was again reorganized into the 10 original states, plus 2 administrative areas, Pibor and Ruweng, and 1 special administrative status area, Abyei (which is disputed between South Sudan and Sudan)<br>
 
 **Constitution**<br>
 _history_: previous 2005 (pre-independence); latest signed 7 July 2011, effective 9 July 2011 (Transitional Constitution of the Republic of South Sudan, 2011)<br>
@@ -582,7 +583,7 @@ South Sudan People’s Defense Force (SSPDF): Land Forces (includes Presidential
 
 **Military and security service personnel strengths**<br>
 information varies; estimated 150-200,000 active Defense Forces (2025)<br>
-<strong>note: </strong>some active SSPDF personnel may be militia; the National/Necessary Unified Forces (NUF) are expected to have up to 80,000 personnel when training and integration is completed; the first batch of approximately 20,000 NUF personnel completed training in late 2022<br>
+<strong>note: </strong>some active SSPDF personnel may be militia; the National/Necessary Unified Forces (NUF) were expected to have up to 80,000 personnel when training and integration is completed; the first batch of approximately 20,000 NUF personnel completed training in late 2022<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SSPDF inventory is comprised primarily of Soviet-era equipment; South Sudan has been under a UN arms embargo since 2018 (2024)<br>
@@ -591,7 +592,7 @@ the SSPDF inventory is comprised primarily of Soviet-era equipment; South Sudan 
 18 is the legal minimum age for compulsory (men) and voluntary (men and women) military service; 12-24 months service (2023)<br>
 
 **Military - note**<br>
-the South Sudan People's Defense Forces (SSPDF) are largely focused on border and internal security; for example, as of 2024 it was engaged in counterinsurgency operations against the National Salvation Front (NAS), a militant group which has continued fighting the South Sudanese Government since a peace deal led to a cease-fire and the formation of a unity government in 2018; the NAS is mostly active in the greater Equatoria region <br><br>the SSPDF, formerly the Sudan People’s Liberation Army (SPLA), was founded as a guerrilla movement against the Sudanese Government in 1983 and participated in the Second Sudanese Civil War (1983-2005); the Juba Declaration that followed the Comprehensive Peace Agreement of 2005 unified the SPLA and the South Sudan Defense Forces (SSDF), the second-largest rebel militia remaining from the civil war, under the SPLA name; in 2017, the SPLA was renamed the South Sudan Defense Forces (SSDF) and in September 2018 was renamed again as the SSPDF<br><br>the UN Mission in South Sudan (UNMISS) has operated in the country since 2011 with the objectives of consolidating peace and security and helping establish conditions for the successful economic and political development of South Sudan; UNMISS had about 15,000 personnel deployed in the country as of 2024<br><br>the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of 2024, UNISFA had approximately 3,200 personnel assigned (2024)<br>
+the South Sudan People's Defense Forces (SSPDF) are largely focused on border and internal security; armed rebel groups and militias continue to operate in the country since the peace deal and formation of a unity government in 2018, including the National Salvation Front (NAS), the Sudan People’s Liberation Movement-in-Opposition (SPLA/IO), and the White Army militia<br><br>the SSPDF, formerly the Sudan People’s Liberation Army (SPLA), was founded as a guerrilla movement against the Sudanese Government in 1983 and participated in the Second Sudanese Civil War (1983-2005); the Juba Declaration that followed the Comprehensive Peace Agreement of 2005 unified the SPLA and the South Sudan Defense Forces (SSDF), the second-largest rebel militia remaining from the civil war, under the SPLA name; in 2017, the SPLA was renamed the South Sudan Defense Forces (SSDF) and in September 2018 was renamed again as the SSPDF<br><br>the UN Mission in South Sudan (UNMISS) has operated in the country since 2011 with the objectives of consolidating peace and security and helping establish conditions for the successful economic and political development of South Sudan; UNMISS has about 18,000 personnel deployed in the country; the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; UNISFA has approximately 3,800 personnel assigned (2025)<br>
 
 ## Transnational Issues
 

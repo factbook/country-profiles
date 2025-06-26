@@ -68,7 +68,7 @@ _other_: 25.3% (2022 est.)<br>
 _fresh water lake(s)_: Lake Taupo - 610 sq km<br>
 
 **Population distribution**<br>
-over three-quarters of New Zealanders, including the indigenous Maori, live on the North Island, primarily in urban areas<br>
+over three quarters of New Zealanders, including the Maori, live on the North Island, primarily in urban areas<br>
 
 **Natural hazards**<br>
 <p>earthquakes are common, though usually not severe; volcanic activity</p><p><strong>volcanism:</strong> significant volcanism on North Island; Ruapehu (2,797 m), which last erupted in 2007, has a history of large eruptions in the past century; Taranaki has the potential to produce dangerous avalanches and lahars; other historically active volcanoes include Okataina, Raoul Island, Tongariro, and White Island; see note 2 under "Geography - note"</p><br>
@@ -128,7 +128,7 @@ _female_: 38.6 years<br>
 3.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-over three-quarters of New Zealanders, including the indigenous Maori, live on the North Island, primarily in urban areas<br>
+over three quarters of New Zealanders, including the Maori, live on the North Island, primarily in urban areas<br>
 
 **Urbanization**<br>
 _urban population_: 87% of total population (2023)<br>
@@ -421,12 +421,6 @@ $252.176 billion (2023 est.)<br>
 5.7% (2023 est.)<br>
 7.2% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: AA (2011)<br>
-_Moody's rating_: Aaa (2002)<br>
-_Standard & Poors rating_: AA (2011)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 5.8% (2021 est.)<br>

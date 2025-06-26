@@ -48,7 +48,7 @@ _forest_: 8.5% (2022 est.)<br>
 _other_: 91.5% (2022 est.)<br>
 
 **Population distribution**<br>
-most of the populace concentrated in and around the capital of Gustavia, but scattered settlements exist around the island periphery<br>
+most of the populace is concentrated in and around the capital of Gustavia, but scattered settlements exist around the island's periphery<br>
 
 **Geography - note**<br>
 a 1,200-hectare (3,000-acre) marine nature reserve, the Reserve Naturelle, is made up of five zones around the island that form a network to protect the island's coral reefs, seagrass, and endangered marine species<br>
@@ -99,7 +99,7 @@ _female_: 47.8 years<br>
 -1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most of the populace concentrated in and around the capital of Gustavia, but scattered settlements exist around the island periphery<br>
+most of the populace is concentrated in and around the capital of Gustavia, but scattered settlements exist around the island's periphery<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -183,12 +183,6 @@ _geographic coordinates_: 17 53 N, 62 51 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
 _etymology_: named in honor of King GUSTAV III of Sweden, who was ruler when Sweden bought the island from France in 1784; the name was retained when the island was sold back to France in 1878&nbsp;<br>
 
-**Independence**<br>
-none (overseas collectivity of France)<br>
-
-**National holiday**<br>
-F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - local holiday is St. Barthelemy Day, 24 August (1572)<br>
-
 **Legal system**<br>
 French civil law<br>
 
@@ -224,14 +218,20 @@ _expected date of next election_: 2027<br>
 **Political parties**<br>
 All for Saint Barth (Tous pour Saint-Barth)<br>Saint Barth Action Equilibre<br>Saint Barth First! (Saint-Barth d'Abord!) or SBA (affiliated with France's Republican party, Les Republicans)<br>Saint Barth United (Unis pour Saint-Barthelemy)<br>
 
-**International organization participation**<br>
-ACS (associate), UPU<br>
-
 **Diplomatic representation in the US**<br>
 none (overseas collectivity of France)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: <p>none (overseas collectivity of France)</p><br>
+
+**International organization participation**<br>
+ACS (associate), UPU<br>
+
+**Independence**<br>
+none (overseas collectivity of France)<br>
+
+**National holiday**<br>
+F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - local holiday is St. Barthelemy Day, 24 August (1572)<br>
 
 **Flag description**<br>
 the flag of France is used<br>

@@ -74,7 +74,7 @@ Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 Ogaden-Juba Basin<br>
 
 **Population distribution**<br>
-population heavily concentrated in the west along the shore of Lake Victoria; other areas of high density include the capital of Nairobi, and in the southeast along the Indian Ocean coast as shown in this population distribution map<br>
+population heavily concentrated in the west along the shore of Lake Victoria; other areas of high density include the capital of Nairobi, and in the southeast along the Indian Ocean coast, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 <p>recurring drought; flooding during rainy seasons</p><p><strong>volcanism:</strong> limited volcanic activity; the Barrier (1,032 m) last erupted in 1921; South Island is the only other historically active volcano</p><br>
@@ -132,7 +132,7 @@ _female_: 21.4 years<br>
 -0.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-population heavily concentrated in the west along the shore of Lake Victoria; other areas of high density include the capital of Nairobi, and in the southeast along the Indian Ocean coast as shown in this population distribution map<br>
+population heavily concentrated in the west along the shore of Lake Victoria; other areas of high density include the capital of Nairobi, and in the southeast along the Indian Ocean coast, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 29.5% of total population (2023)<br>
@@ -445,12 +445,6 @@ $108.039 billion (2023 est.)<br>
 7.7% (2023 est.)<br>
 7.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: B+ (2007)<br>
-_Moody's rating_: B2 (2018)<br>
-_Standard & Poors rating_: B+ (2010)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 21.8% (2023 est.)<br>

@@ -261,7 +261,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: translates as "Andorra the Old" in Catalan<br>
 
 **Administrative divisions**<br>
-7 parishes (parroquies, singular - parroquia); Andorra la Vella, Canillo, Encamp, Escaldes-Engordany, La Massana, Ordino, Sant Julia de Loria<br>
+7 parishes (<em>parroquies</em>, singular - <em>parroquia</em>); Andorra la Vella, Canillo, Encamp, Escaldes-Engordany, La Massana, Ordino, Sant Julia de Loria<br>
 
 **Legal system**<br>
 mixed legal system of civil and customary law with the influence of canon (religious) law<br>
@@ -374,12 +374,6 @@ $59,300 (2021 est.)<br>
 **GDP (official exchange rate)**<br>
 $3.785 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
-
-**Credit ratings**<br>
-_Fitch rating_: A- (2022)<br>
-_Moody's rating_: Baa2 (2022)<br>
-_Standard & Poors rating_: BBB+ (2023)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.5% (2023 est.)<br>

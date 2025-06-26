@@ -136,12 +136,6 @@ _etymology_: Flying Fish Cove was named after a British explorer's ship in 1886<
 **Administrative divisions**<br>
 none (territory of Australia)<br>
 
-**Independence**<br>
-none (territory of Australia)<br>
-
-**National holiday**<br>
-Australia Day (commemorates the arrival of the First Fleet of Australian settlers), 26 January (1788)<br>
-
 **Legal system**<br>
 system is under the authority of the governor general of Australia and Australian law<br>
 
@@ -178,14 +172,20 @@ _highest court(s)_: under the terms of the Territorial Law Reform Act 1992, West
 **Political parties**<br>
 none<br>
 
-**International organization participation**<br>
-none<br>
-
 **Diplomatic representation in the US**<br>
 none (territory of Australia)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (territory of Australia)<br>
+
+**International organization participation**<br>
+none<br>
+
+**Independence**<br>
+none (territory of Australia)<br>
+
+**National holiday**<br>
+Australia Day (commemorates the arrival of the First Fleet of Australian settlers), 26 January (1788)<br>
 
 **Flag description**<br>
 territorial flag; divided diagonally from upper hoist side to lower fly side; the upper triangle is green with a yellow image of the Golden Bosun Bird; the lower triangle is blue with the Southern Cross constellation, representing Australia; a centered yellow disk displays a green map of the island<br>

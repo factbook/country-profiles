@@ -63,7 +63,7 @@ _other_: 23.4% (2022 est.)<br>
 3 sq km (2012)<br>
 
 **Population distribution**<br>
-more than three-quarters of the population lives on the main island of Mahe; Praslin contains less than 10%; a smaller percent on La Digue and the outer islands as shown in this population distribution map<br>
+more than three quarters of the population lives on the main island of Mahe; Praslin is home to less than 10%, and a smaller percentage is on La Digue and the outer islands, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 lies outside the cyclone belt, so severe storms are rare; occasional short droughts<br>
@@ -120,7 +120,7 @@ _female_: 39.4 years<br>
 0.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-more than three-quarters of the population lives on the main island of Mahe; Praslin contains less than 10%; a smaller percent on La Digue and the outer islands as shown in this population distribution map<br>
+more than three quarters of the population lives on the main island of Mahe; Praslin is home to less than 10%, and a smaller percentage is on La Digue and the outer islands, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 58.8% of total population (2023)<br>
@@ -395,10 +395,6 @@ $2.141 billion (2023 est.)<br>
 -1% (2023 est.)<br>
 2.6% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: B+ (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.8% (2023 est.)<br>

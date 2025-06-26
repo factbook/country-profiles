@@ -74,7 +74,7 @@ Nile (shared with Rwanda [s], Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
 
 **Population distribution**<br>
-the largest and most populous East African country; population distribution is extremely uneven, but greater population clusters occur in the northern half of country and along the east coast as shown in this population distribution map<br>
+the largest and most populous East African country; population distribution is extremely uneven, but greater population clusters occur in the northern half of country and along the east coast, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 <p>flooding on the central plateau during the rainy season; drought</p><p><strong>volcanism:</strong> limited volcanic activity; Ol Doinyo Lengai (2,962 m) has emitted lava in recent years; other historically active volcanoes include Kieyo and Meru</p><br>
@@ -133,7 +133,7 @@ _female_: 19.4 years<br>
 -0.4 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the largest and most populous East African country; population distribution is extremely uneven, but greater population clusters occur in the northern half of country and along the east coast as shown in this population distribution map<br>
+the largest and most populous East African country; population distribution is extremely uneven, but greater population clusters occur in the northern half of country and along the east coast, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 37.4% of total population (2023)<br>
@@ -438,10 +438,6 @@ $79.062 billion (2023 est.)<br>
 3.8% (2023 est.)<br>
 4.4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Moody's rating_: B2 (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 23.7% (2023 est.)<br>

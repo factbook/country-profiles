@@ -69,7 +69,7 @@ _fresh water lake(s)_: Lake Scutari (shared with Albania) - 400 sq km<br>note - 
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
-highest population density is concentrated in the south, southwest; the extreme eastern border is the least populated area<br>
+highest population density is concentrated in the south and southwest; the extreme eastern border is the least populated area<br>
 
 **Natural hazards**<br>
 destructive earthquakes<br>
@@ -127,7 +127,7 @@ _female_: 42.5 years<br>
 -5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-highest population density is concentrated in the south, southwest; the extreme eastern border is the least populated area<br>
+highest population density is concentrated in the south and southwest; the extreme eastern border is the least populated area<br>
 
 **Urbanization**<br>
 _urban population_: 68.5% of total population (2023)<br>
@@ -297,7 +297,7 @@ _etymology_: the Slavic name translates as "under the mountain," from <em>pod </
 <strong>note: </strong>Cetinje retains the status of "Old Royal Capital"<br>
 
 **Administrative divisions**<br>
-25 municipalities (opstine, singular - opstina); Andrijevica, Bar, Berane, Bijelo Polje, Budva, Cetinje, Danilovgrad, Gusinje, Herceg Novi, Kolasin, Kotor, Mojkovac, Niksic, Petnjica, Plav, Pljevlja, Pluzine, Podgorica, Rozaje, Savnik, Tivat, Tuzi, Ulcinj, Zabljak, Zeta<br>
+25 municipalities (<em>opstine</em>, singular - <em>opstina</em>); Andrijevica, Bar, Berane, Bijelo Polje, Budva, Cetinje, Danilovgrad, Gusinje, Herceg Novi, Kolasin, Kotor, Mojkovac, Niksic, Petnjica, Plav, Pljevlja, Pluzine, Podgorica, Rozaje, Savnik, Tivat, Tuzi, Ulcinj, Zabljak, Zeta<br>
 
 **Legal system**<br>
 civil law<br>
@@ -421,11 +421,6 @@ $7.531 billion (2023 est.)<br>
 8.6% (2023 est.)<br>
 13% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Moody's rating_: B1 (2016)<br>
-_Standard & Poors rating_: B+ (2014)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 5.5% (2023 est.)<br>

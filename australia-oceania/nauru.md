@@ -62,7 +62,7 @@ _other_: 80% (2022 est.)<br>
 0 sq km (2022)<br>
 
 **Population distribution**<br>
-extensive phosphate mining made approximately 90% of the island unsuitable for farming; most people live in the fertile coastal areas, especially along the southwest coast<br>
+most people live in the fertile coastal areas, especially along the southwest coast<br>
 
 **Natural hazards**<br>
 periodic droughts<br>
@@ -120,7 +120,7 @@ _female_: 28.4 years<br>
 -9.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-extensive phosphate mining made approximately 90% of the island unsuitable for farming; most people live in the fertile coastal areas, especially along the southwest coast<br>
+most people live in the fertile coastal areas, especially along the southwest coast<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>

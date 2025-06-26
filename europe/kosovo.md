@@ -65,7 +65,7 @@ NA<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
-population clusters exist throughout the country, the largest being in the east in and around the capital of Pristina<br>
+population clusters exist throughout the country, with the largest in the east in and around the capital of Pristina<br>
 
 **Geography - note**<br>
 the 41-km (25-mi) Nerodimka River divides into two branches, each of which flows into a different sea: the northern branch flows into the Sitnica River, which via the Ibar, Morava, and Danube Rivers ultimately flows into the Black Sea; the southern branch flows via the Lepenac and Vardar Rivers into the Aegean Sea<br>
@@ -124,7 +124,7 @@ _female_: 32.4 years<br>
 -0.4 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-population clusters exist throughout the country, the largest being in the east in and around the capital of Pristina<br>
+population clusters exist throughout the country, with the largest in the east in and around the capital of Pristina<br>
 
 **Major urban areas - population**<br>
 218,782 PRISTINA (capital) (2020)<br>
@@ -220,7 +220,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the town takes its name from the river; the origin of the river's name is unclear but could come from a pre-Slavic language<br>
 
 **Administrative divisions**<br>
-38 municipalities (komunat, singular - komuna (Albanian); opstine, singular - opstina (Serbian)); Decan (Decani), Dragash (Dragas), Ferizaj (Urosevac), Fushe Kosove (Kosovo Polje), Gjakove (Dakovica), Gjilan (Gnjilane), Gllogovc (Glogovac), Gracanice (Gracanica), Hani i Elezit (Deneral Jankovic), Istog (Istok), Junik, Kacanik, Kamenice (Kamenica), Kline (Klina), Kllokot (Klokot), Leposaviq (Leposavic), Lipjan (Lipljan), Malisheve (Malisevo), Mamushe (Mamusa), Mitrovice e Jugut (Juzna Mitrovica) [South Mitrovica], Mitrovice e Veriut (Severna Mitrovica) [North Mitrovica], Novoberde (Novo Brdo), Obiliq (Obilic), Partesh (Partes), Peje (Pec), Podujeve (Podujevo), Prishtine (Pristina), Prizren, Rahovec (Orahovac), Ranillug (Ranilug), Shterpce (Strpce), Shtime (Stimlje), Skenderaj (Srbica), Suhareke (Suva Reka), Viti (Vitina), Vushtrri (Vucitrn), Zubin Potok, Zvecan<br>
+38 municipalities (<em>komunat</em>, singular - <em>komuna </em>(Albanian); <em>opstine</em>, singular - <em>opstina </em>(Serbian)); Decan (Decani), Dragash (Dragas), Ferizaj (Urosevac), Fushe Kosove (Kosovo Polje), Gjakove (Dakovica), Gjilan (Gnjilane), Gllogovc (Glogovac), Gracanice (Gracanica), Hani i Elezit (Deneral Jankovic), Istog (Istok), Junik, Kacanik, Kamenice (Kamenica), Kline (Klina), Kllokot (Klokot), Leposaviq (Leposavic), Lipjan (Lipljan), Malisheve (Malisevo), Mamushe (Mamusa), Mitrovice e Jugut (Juzna Mitrovica) [South Mitrovica], Mitrovice e Veriut (Severna Mitrovica) [North Mitrovica], Novoberde (Novo Brdo), Obiliq (Obilic), Partesh (Partes), Peje (Pec), Podujeve (Podujevo), Prishtine (Pristina), Prizren, Rahovec (Orahovac), Ranillug (Ranilug), Shterpce (Strpce), Shtime (Stimlje), Skenderaj (Srbica), Suhareke (Suva Reka), Viti (Vitina), Vushtrri (Vucitrn), Zubin Potok, Zvecan<br>
 
 **Legal system**<br>
 civil law system<br>
@@ -554,7 +554,7 @@ the KSF is equipped with small arms and light vehicles and has relied on limited
 any citizen of Kosovo over the age of 18 is eligible to serve in the Kosovo Security Force; upper age for enlisting is 30 for officers, 25 for other ranks, although these may be waived for recruits with key skills considered essential for the KSF<br> (2024)<br>
 
 **Military - note**<br>
-the Kosovo Security Force (KSF) was established in 2009 as a small (1,500 personnel), lightly armed disaster response force; the NATO-led Kosovo Force (KFOR) was charged with assisting in the development of the KSF and bringing it up to standards designated by NATO; the KSF was certified as fully operational by the North Atlantic Council in 2013, indicating the then 2,200-strong KSF was entirely capable of performing the tasks assigned under its mandate, which included non-military security functions that were not appropriate for the police, plus missions such as search and rescue, explosive ordnance disposal, control and clearance of hazardous materials, firefighting, and other humanitarian assistance tasks<br><br>in 2019, Kosovo approved legislation that began a process to transition the KSF by 2028 into a professional military (the Kosovo Armed Forces) led by a General Staff and comprised of a Land Force, a National Guard, a Logistics Command, and a Doctrine and Training Command; it would have a strength of up to 5,000 with about 3,000 reserves; at the same time, the KSF’s mission was expanded to include traditional military functions, such as territorial defense and international peacekeeping; the KSF’s first international mission was the deployment of a small force to Kuwait in 2021 <br><br>the NATO-led KFOR has operated in the country as a peace support force since 1999; in addition to assisting in the development of the KSF, KFOR is responsible for providing a safe and secure environment and ensuring freedom of movement for all citizens; Kosovo regards the US as a key ally and security guarantor, and the US has provided considerable support to the KSF, including equipment and training (2024)<br>
+the Kosovo Security Force (KSF) was established in 2009 as a small (1,500 personnel), lightly armed disaster response force; the NATO-led Kosovo Force (KFOR) was charged with assisting in the development of the KSF and bringing it up to standards designated by NATO; the KSF was certified as fully operational by the North Atlantic Council in 2013, indicating the then 2,200-strong KSF was entirely capable of performing the tasks assigned under its mandate, which included non-military security functions that were not appropriate for the police, plus missions such as search and rescue, explosive ordnance disposal, control and clearance of hazardous materials, firefighting, and other humanitarian assistance tasks<br><br>in 2019, Kosovo approved legislation that began a process to transition the KSF by 2028 into a professional military (the Kosovo Armed Forces) led by a General Staff and comprised of a Land Force, a National Guard, a Logistics Command, and a Doctrine and Training Command; it would have a strength of up to 5,000 with about 3,000 reserves; at the same time, the KSF’s mission was expanded to include traditional military functions, such as territorial defense and international peacekeeping; the KSF’s first international mission was the deployment of a small force to Kuwait in 2021 <br><br>the NATO-led KFOR has operated in the country as a peace support force since 1999; in addition to assisting in the development of the KSF, KFOR is responsible for providing a safe and secure environment and ensuring freedom of movement for all citizens (2024)<br>
 
 ## Terrorism
 

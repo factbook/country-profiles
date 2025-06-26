@@ -79,7 +79,7 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km), Para
 Amazon Basin, Guarani Aquifer System, Maranhao Basin<br>
 
 **Population distribution**<br>
-the vast majority of people live along, or relatively near, the Atlantic coast in the east; the population core is in the southeast, anchored by the cities of S&atilde;o Paolo, Bras&iacute;lia, and Rio de Janeiro<br>
+the vast majority of people live along or near the Atlantic coast in the east; the population core is in the southeast, anchored by the cities of S&atilde;o Paolo, Bras&iacute;lia, and Rio de Janeiro<br>
 
 **Natural hazards**<br>
 recurring droughts in northeast; floods and occasional frost in south<br>
@@ -137,7 +137,7 @@ _female_: 36.1 years<br>
 -0.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the vast majority of people live along, or relatively near, the Atlantic coast in the east; the population core is in the southeast, anchored by the cities of S&atilde;o Paolo, Bras&iacute;lia, and Rio de Janeiro<br>
+the vast majority of people live along or near the Atlantic coast in the east; the population core is in the southeast, anchored by the cities of S&atilde;o Paolo, Bras&iacute;lia, and Rio de Janeiro<br>
 
 **Urbanization**<br>
 _urban population_: 87.8% of total population (2023)<br>
@@ -315,7 +315,7 @@ _time zone note_: Brazil has four time zones, including one for the Fernando de 
 _etymology_: the name is the Latinized form of the country name, bestowed on the new capital of Brazil in 1960; previous Brazilian capitals were Salvador (1549-1763) and Rio de Janeiro (1763 to 1960)<br>
 
 **Administrative divisions**<br>
-26 states (estados, singular - estado) and 1 federal district* (distrito federal); Acre, Alagoas, Amapa, Amazonas, Bahia, Ceara, Distrito Federal*, Espirito Santo, Goias, Maranhao, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Para, Paraiba, Parana, Pernambuco, Piaui, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondonia, Roraima, Santa Catarina, S&atilde;o Paulo, Sergipe, Tocantins<br>
+26 states (<em>estados</em>, singular - <em>estado</em>) and 1 federal district* (distrito federal); Acre, Alagoas, Amapa, Amazonas, Bahia, Ceara, Distrito Federal*, Espirito Santo, Goias, Maranhao, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Para, Paraiba, Parana, Pernambuco, Piaui, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondonia, Roraima, Santa Catarina, São Paulo, Sergipe, Tocantins<br>
 
 **Legal system**<br>
 civil law<br>

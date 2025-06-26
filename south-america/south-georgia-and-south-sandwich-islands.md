@@ -92,14 +92,14 @@ overseas territory of the UK, also claimed by Argentina; administered from the F
 **Legal system**<br>
 the laws of the UK apply<br>
 
-**International organization participation**<br>
-UPU<br>
-
 **Diplomatic representation in the US**<br>
 none (administered by the UK, claimed by Argentina)<br>
 
 **Diplomatic representation from the US**<br>
 none (administered by the UK, claimed by Argentina)<br>
+
+**International organization participation**<br>
+UPU<br>
 
 **Flag description**<br>
 blue with the UK flag in the upper hoist-side quadrant; the islands' coat of arms is centered on the outer half of the flag and has a green shield with a golden lion holding a torch; a fur seal is to the left of the shield and a Macaroni penguin to the right; a reindeer appears above the crest, and below the shield on a scroll is the motto LEO TERRAM PROPRIAM PROTEGAT (Let the Lion Protect its Own Land); the lion represents the UK and discovery; the seal, penguin, and reindeer are native to the islands<br>

@@ -65,7 +65,7 @@ _other_: 48.4% (2022 est.)<br>
 0 sq km (2022)<br>
 
 **Population distribution**<br>
-three-quarters of the population lives in rural areas; the urban populace lives primarily in two cities, Port-Vila and Lugenville; three largest islands - Espiritu Santo, Malakula, and Efate - accomodate over half of the populace<br>
+three quarters of the population lives in rural areas; the urban populace lives primarily in two cities, Port-Vila and Lugenville; the three largest islands -- Espiritu Santo, Malakula, and Efate -- accommodate over half of the populace<br>
 
 **Natural hazards**<br>
 <p>tropical cyclones (January to April); volcanic eruption on Aoba (Ambae) island began on 27 November 2005, volcanism also causes minor earthquakes; tsunamis</p><p><strong>volcanism:</strong> significant volcanic activity with multiple eruptions in recent years; Yasur (361 m), one of the world's most active volcanoes, has experienced continuous activity in recent centuries; other historically active volcanoes include Aoba, Ambrym, Epi, Gaua, Kuwae, Lopevi, Suretamatai, and Traitor's Head</p><br>
@@ -123,7 +123,7 @@ _female_: 25 years<br>
 -1.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-three-quarters of the population lives in rural areas; the urban populace lives primarily in two cities, Port-Vila and Lugenville; three largest islands - Espiritu Santo, Malakula, and Efate - accomodate over half of the populace<br>
+three quarters of the population lives in rural areas; the urban populace lives primarily in two cities, Port-Vila and Lugenville; the three largest islands -- Espiritu Santo, Malakula, and Efate -- accommodate over half of the populace<br>
 
 **Urbanization**<br>
 _urban population_: 26% of total population (2023)<br>

@@ -63,7 +63,7 @@ _other_: 5.6% (2022 est.)<br>
 0 sq km (2022)<br>
 
 **Population distribution**<br>
-most of the population lives along the coastal regions; about one in five live in urban areas, and of these some two-thirds reside in Honiara, the largest town and chief port<br>
+most of the population lives along the coastal regions; about one in five live in urban areas, and of these about two thirds reside in Honiara, the largest town and chief port<br>
 
 **Natural hazards**<br>
 <p>tropical cyclones, but rarely destructive; geologically active region with frequent earthquakes, tremors, and volcanic activity; tsunamis</p><p><strong>volcanism:</strong> Tinakula (851 m) has frequent eruption activity, while an eruption of Savo (485 m) could affect the capital Honiara on nearby Guadalcanal</p><br>
@@ -120,7 +120,7 @@ _female_: 25.4 years<br>
 -1.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most of the population lives along the coastal regions; about one in five live in urban areas, and of these some two-thirds reside in Honiara, the largest town and chief port<br>
+most of the population lives along the coastal regions; about one in five live in urban areas, and of these about two thirds reside in Honiara, the largest town and chief port<br>
 
 **Urbanization**<br>
 _urban population_: 26% of total population (2023)<br>
@@ -393,10 +393,6 @@ $1.633 billion (2023 est.)<br>
 5.5% (2022 est.)<br>
 -0.1% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Moody's rating_: B3 (2015)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 33.8% (2022 est.)<br>

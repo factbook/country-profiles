@@ -71,7 +71,8 @@ Dunay (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Se
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km), Don (458,694 sq km), Dnieper (533,966 sq km)<br>
 
 **Population distribution**<br>
-densest settlement in the eastern (Donbas) and western regions; noteable concentrations in and around major urban areas of Kyiv, Kharkiv, Donets'k, Dnipropetrovs'k, and Odesa<br>
+densest settlement in the eastern (Donbas) and western regions; notable concentrations in and around major urban areas of Kyiv, Kharkiv, Donets'k, Dnipropetrovs'k, and Odesa<br>
+<strong>note: </strong>the ongoing war with Russia has shifted significant portions of the population, particularly in the east<br>
 
 **Natural hazards**<br>
 occasional floods; occasional droughts<br>
@@ -131,7 +132,8 @@ _female_: 49.2 years<br>
 36.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-densest settlement in the eastern (Donbas) and western regions; noteable concentrations in and around major urban areas of Kyiv, Kharkiv, Donets'k, Dnipropetrovs'k, and Odesa<br>
+densest settlement in the eastern (Donbas) and western regions; notable concentrations in and around major urban areas of Kyiv, Kharkiv, Donets'k, Dnipropetrovs'k, and Odesa<br>
+<strong>note: </strong>the ongoing war with Russia has shifted significant portions of the population, particularly in the east<br>
 
 **Urbanization**<br>
 _urban population_: 70.1% of total population (2023)<br>
@@ -299,8 +301,8 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the origin of the name is unclear; traditionally, the name comes from a Prince Kiy, who is said to have founded the city in the 9th century<br>
 
 **Administrative divisions**<br>
-24 provinces (oblasti, singular - oblast'), 1 autonomous republic* (avtonomna respublika), and 2 municipalities** (mista, singular - misto) with oblast status; Cherkasy, Chernihiv, Chernivtsi, Crimea or Avtonomna Respublika Krym* (Simferopol), Dnipropetrovsk (Dnipro), Donetsk, Ivano-Frankivsk, Kharkiv, Kherson, Khmelnytskyi, Kirovohrad (Kropyvnytskyi), Kyiv**, Kyiv, Luhansk, Lviv, Mykolaiv, Odesa, Poltava, Rivne, Sevastopol**, Sumy, Ternopil, Vinnytsia, Volyn (Lutsk), Zakarpattia (Uzhhorod), Zaporizhzhia, Zhytomyr<br>
-<strong>note 1:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses); plans include the eventual renaming of Dnipropetrovsk and Kirovohrad oblasts, but because these names are mentioned in the Constitution of Ukraine, the change will require a constitutional amendment <br><br><strong>note 2:</strong> the US Government does not recognize Russia's illegal annexation of Ukraine's Autonomous Republic of Crimea and the municipality of Sevastopol, nor their redesignation as the "Republic of Crimea" and the "Federal City of Sevastopol"; neither does the US Government recognize Russia's claimed annexation of Donetsk, Kherson, Luhansk, and Zaporizhzhia oblasts<br>
+24 provinces (<em>oblasti</em>, singular - <em>oblast'</em>), 1 autonomous republic* (<em>avtonomna respublika</em>), and 2 municipalities** (<em>mista</em>, singular - <em>misto</em>) with oblast status; Cherkasy, Chernihiv, Chernivtsi, Crimea or Avtonomna Respublika Krym* (Simferopol), Dnipropetrovsk (Dnipro), Donetsk, Ivano-Frankivsk, Kharkiv, Kherson, Khmelnytskyi, Kirovohrad (Kropyvnytskyi), Kyiv**, Kyiv, Luhansk, Lviv, Mykolaiv, Odesa, Poltava, Rivne, Sevastopol**, Sumy, Ternopil, Vinnytsia, Volyn (Lutsk), Zakarpattia (Uzhhorod), Zaporizhzhia, Zhytomyr<br>
+<strong>note 1:</strong> administrative divisions have the same names as their administrative centers; exceptions show the administrative center name in parentheses <br><br><strong>note 2:</strong> the United States does not recognize Russia's annexation or renaming of Ukraine's Autonomous Republic of Crimea and the municipality of Sevastopol; it similarly does not recognize the annexation of the Ukrainian oblasts Donetsk, Luhansk, Zaporizhzhia, and Kherson<br>
 
 **Legal system**<br>
 civil law system; judicial review of legislative acts<br>

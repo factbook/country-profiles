@@ -294,7 +294,7 @@ _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday i
 _etymology_: Spanish soldier Diego VELAZQUEZ named the city San Cristobal de la Habana, or Saint Christopher of the Habana; "Habana" may have been the name of a local ethnic group, but the meaning of the word is unknown<br>
 
 **Administrative divisions**<br>
-15 provinces (provincias, singular - provincia) and 1 special municipality* (municipio especial); Artemisa, Camaguey, Ciego de Avila, Cienfuegos, Granma, Guantanamo, Holguin, Isla de la Juventud*, La Habana (Havana), Las Tunas, Matanzas, Mayabeque, Pinar del R&iacute;o, Sancti Spiritus, Santiago de Cuba, Villa Clara<br>
+15 provinces (<em>provincias</em>, singular - <em>provincia</em>) and 1 special municipality* (<em>municipio especial</em>); Artemisa, Camaguey, Ciego de Avila, Cienfuegos, Granma, Guantanamo, Holguin, Isla de la Juventud*, La Habana (Havana), Las Tunas, Matanzas, Mayabeque, Pinar del Río, Sancti Spiritus, Santiago de Cuba, Villa Clara<br>
 
 **Legal system**<br>
 civil law system based on Spanish civil code<br>
@@ -415,10 +415,6 @@ $107.352 billion (2020 est.)<br>
 **Inflation rate (consumer prices)**<br>
 5.5% (2017 est.)<br>
 4.5% (2016 est.)<br>
-
-**Credit ratings**<br>
-_Moody's rating_: Caa2 (2014)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.8% (2022 est.)<br>
@@ -635,7 +631,7 @@ the military's inventory is comprised of Russian and Soviet-era equipment (2024)
 17-28 years of age for compulsory (men) and voluntary (men and women) military service; conscripts serve for 18-24 months (2025)<br>
 
 **Military - note**<br>
-the Cuban military is largely focused on protecting territorial integrity and the state, and perceives the US as its primary threat; the military is a central pillar of the Cuban regime and viewed as the guardian of the Cuban revolution; it has a large role in the country&rsquo;s politics and economy; many senior government posts are held by military officers, and the FAR reportedly has interests in agriculture, banking and finance, construction, import/export, ports, industry, real estate, retail, shipping, transportation, and tourism (2024)<br>
+the Cuban military is largely focused on protecting territorial integrity and the state; it perceives the US as its primary threat; the military is a central pillar of the Cuban regime and viewed as the guardian of the Cuban revolution; it has a large role in the country&rsquo;s politics and economy; many senior government posts are held by military officers, and the FAR reportedly has interests in agriculture, banking and finance, construction, import/export, ports, industry, real estate, retail, shipping, transportation, and tourism (2025)<br>
 
 ## Transnational Issues
 

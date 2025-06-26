@@ -76,7 +76,7 @@ Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 Ogaden-Juba Basin, Sudd Basin (Umm Ruwaba Aquifer)<br>
 
 **Population distribution**<br>
-highest density is found in the highlands of the north and middle areas of the country, particularly around the centrally located capital city of Addis Ababa; the far east and southeast are sparsely populated as shown in this population distribution map<br>
+highest density is found in the highlands of the north and middle areas of the country, particularly around the centrally located capital city of Addis Ababa; the far east and southeast are sparsely populated, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 <p>geologically active Great Rift Valley susceptible to earthquakes, volcanic eruptions; frequent droughts</p><p><strong>volcanism:</strong> volcanic activity in the Great Rift Valley; Erta Ale (613 m), which has caused frequent lava flows in recent years, is the country's most active volcano; Dabbahu became active in 2005, forcing evacuations; other historically active volcanoes include Alayta, Dalaffilla, Dallol, Dama Ali, Fentale, Kone, Manda Hararo, and Manda-Inakir</p><br>
@@ -134,7 +134,7 @@ _female_: 20.7 years<br>
 -0.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-highest density is found in the highlands of the north and middle areas of the country, particularly around the centrally located capital city of Addis Ababa; the far east and southeast are sparsely populated as shown in this population distribution map<br>
+highest density is found in the highlands of the north and middle areas of the country, particularly around the centrally located capital city of Addis Ababa; the far east and southeast are sparsely populated, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 23.2% of total population (2023)<br>
@@ -316,7 +316,7 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name in Amharic means "new flower;" Empress TAITU gave the name to the new capital city in 1887&nbsp;<br>
 
 **Administrative divisions**<br>
-12 ethnically based regional states (kililoch, singular - kilil) and 2 chartered cities* (astedader akabibiwach, singular - astedader akabibi); Adis Abeba* (Addis Ababa), Afar, Amara (Amhara), Binshangul Gumuz, Dire Dawa*, Gambela Hizboch (Gambela), Hareri Hizb (Harari), Oromia, Sidama, Sumale, Tigray, YeDebub Biheroch Bihereseboch na Hizboch (Southern Nations, Nationalities and Peoples), YeDebub M'irab Ityop'iya Hizboch (Southwest Ethiopia Peoples), Southern Ethiopia Peoples<br>
+12 ethnically based regional states (<em>kililoch</em>, singular - <em>kilil</em>) and 2 chartered cities* (<em>astedader akabibiwach</em>, singular - <em>astedader akabibi</em>); Adis Abeba* (Addis Ababa), Afar, Amara (Amhara), Binshangul Gumuz, Dire Dawa*, Gambela Hizboch (Gambela), Hareri Hizb (Harari), Oromia, Sidama, Sumale, Tigray, YeDebub Biheroch Bihereseboch na Hizboch (Southern Nations, Nationalities and Peoples), YeDebub M'irab Ityop'iya Hizboch (Southwest Ethiopia Peoples), Southern Ethiopia Peoples<br>
 
 **Legal system**<br>
 civil law system<br>
@@ -454,12 +454,6 @@ $163.698 billion (2023 est.)<br>
 33.9% (2022 est.)<br>
 26.8% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: B (2014)<br>
-_Moody's rating_: B2 (2020)<br>
-_Standard & Poors rating_: B (2014)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 35.8% (2023 est.)<br>
@@ -700,7 +694,7 @@ the ENDF's major weapons and equipment inventory has traditionally been comprise
 as many as 10,000 troops Somalia (approximately 2,500 under the AU; the remainder under a bilateral agreement with the Somali Government); 1,500 South Sudan (UNMISS) (2024)<br>
 
 **Military - note**<br>
-the Ethiopian National Defense Force (ENDF)) has been one of sub-Saharan Africa’s largest, most experienced, and best equipped militaries, but it suffered heavy casualties and equipment losses during the 2020-2022 Tigray conflict; the ENDF is focused on both external threats emanating from its neighbors and internal threats from multiple internal armed groups; since 1998, the ENDF has engaged in several conventional and counterinsurgency operations, including border wars with Eritrea (1998-2000) and Somalia (2006-2008) and internal conflicts with the Tigray regional state (2020-2022), several insurgent groups and ethnic militias (including the ethno-nationalist Amhara Fano), and the al-Shabaab terrorist group<br><br>as of 2024, the ENDF was conducting counterinsurgency operations against anti-government militants in several states, including in Oromya (Oromia) against the Oromo Liberation Army (OLA), an insurgent group that claims to be fighting for greater autonomy for the Oromo, Ethiopia's largest ethnic group; in 2022, militants from the Somalia-based al-Shabaab terrorist group launched an incursion into Ethiopia's Somali (Sumale) regional state, attacking villages and security forces; the Ethiopian Government claimed that regional security forces killed hundreds of al-Shabaab fighters and subsequently deployed additional ENDF troops into Somalia’s Gedo region to prevent further incursions (2025)<br>
+the Ethiopian National Defense Force (ENDF)) has been one of sub-Saharan Africa’s largest, most experienced, and best equipped militaries, but it suffered heavy casualties and equipment losses during the 2020-2022 Tigray conflict; the ENDF is focused on both external threats emanating from its neighbors and internal threats from multiple internal armed groups; since 1998, the ENDF has engaged in several conventional and counterinsurgency operations, including border wars with Eritrea (1998-2000) and Somalia (2006-2008) and internal conflicts with the Tigray regional state (2020-2022), several insurgent groups and ethnic militias (including the ethno-nationalist Amhara Fano), and the al-Shabaab terrorist group<br><br>as of 2025, the ENDF was conducting counterinsurgency operations against anti-government militants in several states, including in Oromya (Oromia) against the Oromo Liberation Army (OLA), an insurgent group that claims to be fighting for greater autonomy for the Oromo, Ethiopia's largest ethnic group; in 2022, militants from the Somalia-based al-Shabaab terrorist group launched an incursion into Ethiopia's Somali (Sumale) regional state, attacking villages and security forces; the Ethiopian Government claimed that regional security forces killed hundreds of al-Shabaab fighters and subsequently deployed additional ENDF troops into Somalia’s Gedo region to prevent further incursions (2025)<br>
 
 ## Space
 

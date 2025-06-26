@@ -73,7 +73,7 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>
 Congo Basin<br>
 
 **Population distribution**<br>
-the population is primarily located in the south, in and around the capital of Brazzaville as shown in this population distribution map<br>
+the population is primarily located in the south, in and around the capital of Brazzaville, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 seasonal flooding<br>
@@ -131,7 +131,7 @@ _female_: 20.9 years<br>
 -0.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the population is primarily located in the south, in and around the capital of Brazzaville as shown in this population distribution map<br>
+the population is primarily located in the south, in and around the capital of Brazzaville, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 69.2% of total population (2023)<br>
@@ -304,7 +304,7 @@ _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
 _etymology_: named after the Italian-born French explorer and humanitarian, Pierre Savorgnan de BRAZZA (1852-1905), who founded the town in 1883<br>
 
 **Administrative divisions**<br>
-12 departments (departments, singular - department); Bouenza, Brazzaville, Cuvette, Cuvette-Ouest, Kouilou, Lekoumou, Likouala, Niari, Plateaux, Pointe-Noire, Pool, Sangha<br>
+12 departments; Bouenza, Brazzaville, Cuvette, Cuvette-Ouest, Kouilou, Lekoumou, Likouala, Niari, Plateaux, Pointe-Noire, Pool, Sangha<br>
 
 **Legal system**<br>
 mixed system of French civil law and customary law<br>
@@ -439,12 +439,6 @@ $15.321 billion (2023 est.)<br>
 3% (2022 est.)<br>
 1.7% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: CCC (2019)<br>
-_Moody's rating_: Caa2 (2018)<br>
-_Standard & Poors rating_: CCC+ (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 9% (2023 est.)<br>
@@ -673,7 +667,7 @@ the FAC has mostly Soviet-era armaments, with a small mix of Chinese, French, an
 has about 190 mostly police personnel deployed to the Central African Republic (MINUSCA) (2024)<br>
 
 **Military - note**<br>
-the FAC's primary focus is internal security; it is organized into approximately nine military zones; the Army's primary combat forces are an infantry brigade and a Republican Guard force<br><br>since its creation in 1961, the FAC has had a turbulent history; it has been sidelined by some national leaders in favor of personal militias, endured an internal rebellion (1996), and clashed with various rebel groups and political or ethnic militias (1993-1996, 2002-2005, 2017); during the 1997-1999 civil war, the military generally split along ethnic lines, with most northern officers supporting eventual winner SASSOU-Nguesso, and most southerners backing the rebels; others joined ethnic-based factions loyal to regional warlords; forces backing SASSOU-Nguesso were supported by Angolan troops and received some French assistance; the FAC also has undergone at least three reorganizations that included the incorporation of former rebel combatants and various ethnic and political militias; in recent years, France has provided some advice and training, and a military cooperation agreement was signed with Russia in 2019 (2024)<br>
+the FAC's primary focuses are internal and maritime security; since its creation in 1961, the FAC has had a turbulent history; it has been sidelined by some national leaders in favor of personal militias, endured an internal rebellion (1996), and clashed with various rebel groups and political or ethnic militias (1993-1996, 2002-2005, 2017); during the 1997-1999 civil war, the military generally split along ethnic lines, with most northern officers supporting eventual winner SASSOU-Nguesso, and most southerners backing the rebels; others joined ethnic-based factions loyal to regional warlords; forces backing SASSOU-Nguesso were supported by Angolan troops and received some French assistance; the FAC also has undergone at least three reorganizations that included the incorporation of former rebel combatants and various ethnic and political militias; in recent years, France has provided some advice and training, and a military cooperation agreement was signed with Russia in 2019 (2025)<br>
 
 ## Transnational Issues
 

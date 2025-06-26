@@ -71,7 +71,7 @@ Dunărea (Danube) river mouth (shared with Germany [s], Austria, Slovakia, Hunga
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
-urbanization is not particularly high, and a fairly even population distribution can be found throughout most of the country, with urban areas attracting larger and denser populations; Hungarians, the country's largest minority, have a particularly strong presence in eastern Transylvania<br>
+urbanization is not particularly high, and the population distribution is fairly even throughout most of the country, with urban areas attracting larger and denser populations<br>
 
 **Natural hazards**<br>
 earthquakes, most severe in south and southwest; geologic structure and climate promote landslides<br>
@@ -132,7 +132,7 @@ _female_: 46.9 years<br>
 -3.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-urbanization is not particularly high, and a fairly even population distribution can be found throughout most of the country, with urban areas attracting larger and denser populations; Hungarians, the country's largest minority, have a particularly strong presence in eastern Transylvania<br>
+urbanization is not particularly high, and the population distribution is fairly even throughout most of the country, with urban areas attracting larger and denser populations<br>
 
 **Urbanization**<br>
 _urban population_: 54.7% of total population (2023)<br>
@@ -308,7 +308,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the name is said to come from a shepherd named Bucur who is reputed to have founded the town in 1457, but a settlement probably already existed on the site; the name may come from the personal name of an early landowner<br>
 
 **Administrative divisions**<br>
-41 counties (judete, singular - judet) and 1 municipality* (municipiu); Alba, Arad, Arges, Bacau, Bihor, Bistrita-Nasaud, Botosani, Braila, Brasov, Bucuresti (Bucharest)*, Buzau, Calarasi, Caras-Severin, Cluj, Constanta, Covasna, Dambovita, Dolj, Galati, Gorj, Giurgiu, Harghita, Hunedoara, Ialomita, Iasi, Ilfov, Maramures, Mehedinti, Mures, Neamt, Olt, Prahova, Salaj, Satu Mare, Sibiu, Suceava, Teleorman, Timis, Tulcea, Vaslui, Valcea, Vrancea<br>
+41 counties (<em>judete</em>, singular - <em>judet</em>) and 1 municipality* (<em>municipiu</em>); Alba, Arad, Arges, Bacau, Bihor, Bistrita-Nasaud, Botosani, Braila, Brasov, Bucuresti (Bucharest)*, Buzau, Calarasi, Caras-Severin, Cluj, Constanta, Covasna, Dambovita, Dolj, Galati, Gorj, Giurgiu, Harghita, Hunedoara, Ialomita, Iasi, Ilfov, Maramures, Mehedinti, Mures, Neamt, Olt, Prahova, Salaj, Satu Mare, Sibiu, Suceava, Teleorman, Timis, Tulcea, Vaslui, Valcea, Vrancea<br>
 
 **Legal system**<br>
 civil law system<br>
@@ -446,12 +446,6 @@ $350.776 billion (2023 est.)<br>
 10.4% (2023 est.)<br>
 13.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BBB- (2011)<br>
-_Moody's rating_: Baa3 (2006)<br>
-_Standard & Poors rating_: BBB- (2014)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.9% (2023 est.)<br>

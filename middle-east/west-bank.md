@@ -66,7 +66,7 @@ _other_: 33.4% (2022 est.)<br>
 _salt water lake(s)_: Dead Sea (shared with Jordan and Israel) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
 
 **Population distribution**<br>
-the most populous Palestinian communities in the West Bank are located in the central ridge and western half of its territory; Jewish settlements are located throughout the West Bank, the most populous in the Seam Zone--between the 1949 Armistice Line and the separation barrier--and around Jerusalem<br>
+the most populous Palestinian communities in the West Bank are located in the central ridge and western half of its territory; Jewish settlements are located throughout the West Bank, the most populous in the Seam Zone -- between the 1949 Armistice Line and the separation barrier -- and around Jerusalem<br>
 
 **Natural hazards**<br>
 droughts<br>
@@ -121,7 +121,7 @@ _female_: 22.1 years<br>
 -3.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the most populous Palestinian communities in the West Bank are located in the central ridge and western half of its territory; Jewish settlements are located throughout the West Bank, the most populous in the Seam Zone--between the 1949 Armistice Line and the separation barrier--and around Jerusalem<br>
+the most populous Palestinian communities in the West Bank are located in the central ridge and western half of its territory; Jewish settlements are located throughout the West Bank, the most populous in the Seam Zone -- between the 1949 Armistice Line and the separation barrier -- and around Jerusalem<br>
 
 **Urbanization**<br>
 _urban population_: 77.6% of total population (2023)<br>

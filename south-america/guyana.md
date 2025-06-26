@@ -67,7 +67,7 @@ _other_: 1.2% (2022 est.)<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
 
 **Population distribution**<br>
-population is heavily concentrated in the northeast in and around Georgetown, with noteable concentrations along the Berbice River to the east; the remainder of the country is sparsely populated<br>
+population is heavily concentrated in the northeast in and around Georgetown, with notable concentrations along the Berbice River to the east; the remainder of the country is sparsely populated<br>
 
 **Natural hazards**<br>
 flash flood threat during rainy seasons<br>
@@ -124,7 +124,7 @@ _female_: 28.4 years<br>
 -6.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-population is heavily concentrated in the northeast in and around Georgetown, with noteable concentrations along the Berbice River to the east; the remainder of the country is sparsely populated<br>
+population is heavily concentrated in the northeast in and around Georgetown, with notable concentrations along the Berbice River to the east; the remainder of the country is sparsely populated<br>
 
 **Urbanization**<br>
 _urban population_: 27.2% of total population (2023)<br>

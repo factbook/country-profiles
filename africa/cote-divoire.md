@@ -70,7 +70,7 @@ _salt water lake(s)_: Lagune Aby - 780 sq km<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
 
 **Population distribution**<br>
-the population is primarily located in the forested south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the northern savanna remains sparsely populated with higher concentrations located along transportation corridors as shown in this population distribution map<br>
+the population is primarily located in the forested south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the northern savanna remains sparsely populated, with higher concentrations located along transportation corridors, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 coast has heavy surf and no natural harbors; during the rainy season torrential flooding is possible<br>
@@ -129,7 +129,7 @@ _female_: 21.2 years<br>
 1.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the population is primarily located in the forested south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the northern savanna remains sparsely populated with higher concentrations located along transportation corridors as shown in this population distribution map<br>
+the population is primarily located in the forested south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the northern savanna remains sparsely populated, with higher concentrations located along transportation corridors, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 53.1% of total population (2023)<br>
@@ -441,11 +441,6 @@ $78.875 billion (2023 est.)<br>
 5.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
-**Credit ratings**<br>
-_Fitch rating_: B+ (2015)<br>
-_Moody's rating_: Ba3 (2015)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 14.4% (2023 est.)<br>
 _industry_: 23.9% (2023 est.)<br>
@@ -689,7 +684,7 @@ the inventory of the FACI consists mostly of older or second-hand equipment, typ
 180 Central African Republic (MINUSCA) (2024)<br>
 
 **Military - note**<br>
-the military (FACI) was established in 1960 from home defense units the French colonial government began standing up in 1950; the FACI has mutinied several times since the late 1990s, most recently in 2017, and has had a large role in the country’s political turmoil; it is responsible for external defense but also has a considerable internal role supporting the National Gendarmerie and other internal security forces; the operational focus of the FACI is the threat posed by Islamic militants associated with the al-Qa’ida in the Islamic Maghreb (AQIM) terrorist group operating across the border in Burkina Faso and Mali; AQIM militants conducted significant attacks in the country in 2016 and 2020; Côte d’Ivoire since 2016 has stepped up border security and completed building a joint counter-terrorism training center with France near Abidjan in 2020<br><br>Cote d’Ivoire has close security ties with France, which maintains a military presence; the UN had a 9,000-strong peacekeeping force in Cote d’Ivoire (UNOCI) from 2004 until 2017 (2024)<br>
+the military (FACI) is responsible for external defense but also has a considerable internal role supporting the National Gendarmerie and other internal security forces; the operational focus of the FACI is the threat posed by Islamic militants associated with the al-Qa’ida in the Islamic Maghreb (AQIM) terrorist group operating across the border in Burkina Faso and Mali; AQIM militants conducted significant attacks in the country in 2016 and 2020; Côte d’Ivoire since 2016 has stepped up border security and completed building a joint counter-terrorism training center with France near Abidjan in 2020; Cote d'Ivoire has long maintained a close security relationship with France <br><br>the FACI has mutinied several times since the late 1990s, most recently in 2017, and has had a large role in the country’s political turmoil; it was established in 1960 from home defense units the French colonial government began standing up in 1950 (2025)<br>
 
 ## Space
 

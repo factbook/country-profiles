@@ -64,7 +64,7 @@ _other_: 37.5% (2022 est.)<br>
 143 sq km (2022)<br>
 
 **Population distribution**<br>
-population density is one of the highest in the world; urban clusters are found throughout the main island, with a greater density in and around Port Luis; population on Rodrigues Island is spread across the island with a slightly denser cluster on the north coast as shown in this population distribution map<br>
+population density is one of the highest in the world; urban clusters are found throughout the main island, with a greater density in and around Port Luis; the population on Rodrigues Island is fairly evenly spread, with a slightly denser cluster on the north coast, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 cyclones (November to April); almost completely surrounded by reefs that may pose maritime hazards<br>
@@ -122,7 +122,7 @@ _female_: 41 years<br>
 0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-population density is one of the highest in the world; urban clusters are found throughout the main island, with a greater density in and around Port Luis; population on Rodrigues Island is spread across the island with a slightly denser cluster on the north coast as shown in this population distribution map<br>
+population density is one of the highest in the world; urban clusters are found throughout the main island, with a greater density in and around Port Luis; the population on Rodrigues Island is fairly evenly spread, with a slightly denser cluster on the north coast, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 40.9% of total population (2023)<br>
@@ -403,10 +403,6 @@ $14.645 billion (2023 est.)<br>
 7.1% (2023 est.)<br>
 10.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Moody's rating_: Baa1 (2012)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.9% (2023 est.)<br>

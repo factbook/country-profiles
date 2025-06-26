@@ -68,7 +68,7 @@ _fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Population distribution**<br>
-one of Africa's most densely populated countries; concentrations tend to be in the north and along the northern shore of Lake Tanganyika in the west; most people live on farms near areas of fertile volcanic soil as shown in this population distribution map<br>
+one of Africa's most densely populated countries; concentrations tend to be in the north and along the northern shore of Lake Tanganyika in the west; most people live on farms near areas of fertile volcanic soil, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 flooding; landslides; drought<br>
@@ -127,7 +127,7 @@ _female_: 18.7 years<br>
 -0.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-one of Africa's most densely populated countries; concentrations tend to be in the north and along the northern shore of Lake Tanganyika in the west; most people live on farms near areas of fertile volcanic soil as shown in this population distribution map<br>
+one of Africa's most densely populated countries; concentrations tend to be in the north and along the northern shore of Lake Tanganyika in the west; most people live on farms near areas of fertile volcanic soil, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 14.8% of total population (2023)<br>
@@ -299,7 +299,8 @@ _etymology_: the origin of the name Bujumbura is unclear, but "bu-" is a Bantu p
 <strong>note:</strong> in January 2019, the Burundian parliament voted to make Gitega the political capital of the country while Bujumbura would remain its economic capital; as of 2023, the government's move to Gitega remains incomplete<br>
 
 **Administrative divisions**<br>
-18 provinces; Bubanza, Bujumbura Mairie, Bujumbura Rural, Bururi, Cankuzo, Cibitoke, Gitega, Karuzi, Kayanza, Kirundo, Makamba, Muramvya, Muyinga, Mwaro, Ngozi, Rumonge, Rutana, Ruyigi; note- a law was passed in March 2023 reducing the number of provinces to five: Buhumuza, Bujumbura, Burunga, Butanyerera, Gitega, with full implementation by 2025.<br>
+18 provinces; Bubanza, Bujumbura Mairie, Bujumbura Rural, Bururi, Cankuzo, Cibitoke, Gitega, Karuzi, Kayanza, Kirundo, Makamba, Muramvya, Muyinga, Mwaro, Ngozi, Rumonge, Rutana, Ruyigi<br>
+<strong>note:</strong> a law was passed in March 2023 reducing the number of provinces to five: Buhumuza, Bujumbura, Burunga, Butanyerera, Gitega, with full implementation by 2025<br>
 
 **Legal system**<br>
 mixed legal system of Belgian civil law and customary law<br>

@@ -50,7 +50,7 @@ iron ore, natural gas, petroleum, coal, copper, lead, zinc, bauxite, uranium, po
 154,539.82 sq km (2011 est.)<br>
 
 **Population distribution**<br>
-population distribution varies considerably from country to country but tends to follow a pattern of coastal and river settlement, with urban agglomerations forming large hubs facilitating large scale housing, industry, and commerce; the area in and around the Netherlands, Belgium, and Luxembourg (known collectively as Benelux), is the most densely populated area in the EU<br>
+population distribution varies considerably from country to country but tends to follow a pattern of coastal and river settlement, with urban agglomerations forming large hubs; the area in and around the Netherlands, Belgium, and Luxembourg (known collectively as Benelux), is the most densely populated area in the EU<br>
 
 **Natural hazards**<br>
 flooding along coasts; avalanches in mountainous area; earthquakes in the south; volcanic eruptions in Italy; periodic droughts in Spain; ice floes in the Baltic Sea region<br>
@@ -98,7 +98,7 @@ _female_: 45.5 years<br>
 -2.85 migrant(s)/1,000 population<br>
 
 **Population distribution**<br>
-population distribution varies considerably from country to country but tends to follow a pattern of coastal and river settlement, with urban agglomerations forming large hubs facilitating large scale housing, industry, and commerce; the area in and around the Netherlands, Belgium, and Luxembourg (known collectively as Benelux), is the most densely populated area in the EU<br>
+population distribution varies considerably from country to country but tends to follow a pattern of coastal and river settlement, with urban agglomerations forming large hubs; the area in and around the Netherlands, Belgium, and Luxembourg (known collectively as Benelux), is the most densely populated area in the EU<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -266,12 +266,6 @@ $18.591 trillion (2023 est.)<br>
 8.8% (2022 est.)<br>
 2.6% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: AAA (2010)<br>
-_Moody's rating_: Aaa (2014)<br>
-_Standard & Poors rating_: AA (2016)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.7% (2023 est.)<br>

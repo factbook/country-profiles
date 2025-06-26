@@ -71,7 +71,7 @@ _other_: 19.2% (2022 est.)<br>
 Draa - 1,100 km<br>
 
 **Population distribution**<br>
-the highest population density is found along the Atlantic and Mediterranean coasts; a number of densely populated agglomerations are found scattered through the Atlas Mountains as shown in this population distribution map<br>
+the highest population density is found along the Atlantic and Mediterranean coasts; a number of densely populated agglomerations are scattered through the Atlas Mountains, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 in the north, the mountains are geologically unstable and subject to earthquakes; periodic droughts; windstorms; flash floods; landslides; in the south, a hot, dry, dust/sand-laden sirocco wind can occur during winter and spring; widespread harmattan haze exists 60% of time, often severely restricting visibility<br>
@@ -132,7 +132,7 @@ _female_: 31 years<br>
 -1.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the highest population density is found along the Atlantic and Mediterranean coasts; a number of densely populated agglomerations are found scattered through the Atlas Mountains as shown in this population distribution map<br>
+the highest population density is found along the Atlantic and Mediterranean coasts; a number of densely populated agglomerations are scattered through the Atlas Mountains, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 65.1% of total population (2023)<br>
@@ -320,7 +320,7 @@ _etymology_: derives from the Arabic name Ribat el-Fath, from the words <em>riba
 
 **Administrative divisions**<br>
 12 regions; Beni Mellal-Khenifra, Casablanca-Settat, Dakhla-Oued Ed-Dahab, Draa-Tafilalet, Fes-Meknes, Guelmim-Oued Noun, Laayoune-Sakia El Hamra, Marrakech-Safi, Oriental, Rabat-Sale-Kenitra, Souss-Massa, Tanger-Tetouan-Al Hoceima<br>
-<strong>note:</strong> effective 10 December 2020, the US Government recognizes the sovereignty of Morocco over all of the territory of former Western Sahara<br>
+<strong>note:</strong> effective 10 December 2020, the US government recognizes Morocco's sovereignty over the territory of former Western Sahara<br>
 
 **Legal system**<br>
 mixed system of civil law based on French civil law and Islamic (sharia) law; Constitutional Court reviews legislative acts<br>
@@ -455,12 +455,6 @@ $144.417 billion (2023 est.)<br>
 6.1% (2023 est.)<br>
 6.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BB+ (2020)<br>
-_Moody's rating_: Ba1 (1999)<br>
-_Standard & Poors rating_: BBB- (2010)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 11.1% (2023 est.)<br>

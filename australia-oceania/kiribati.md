@@ -63,7 +63,7 @@ _other_: 56.6% (2022 est.)<br>
 0 sq km (2022)<br>
 
 **Population distribution**<br>
-consists of three achipelagos spread out over an area roughly the size of India; the eastern Line Islands and central Phoenix Islands are sparsely populated, but the western Gilbert Islands are some of the most densely settled places on earth, with the main island of South Tarawa boasting a population density similar to Tokyo or Hong Kong<br>
+consists of three archipelagos spread out over an area roughly the size of India; the eastern Line Islands and central Phoenix Islands are sparsely populated, but the western Gilbert Islands are some of the most densely settled places on earth, with the main island of South Tarawa boasting a population density similar to Tokyo or Hong Kong<br>
 
 **Natural hazards**<br>
 typhoons can occur any time, but usually November to March; occasional tornadoes; low level of some of the islands make them sensitive to changes in sea level<br>
@@ -120,7 +120,7 @@ _female_: 28.2 years<br>
 -2.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-consists of three achipelagos spread out over an area roughly the size of India; the eastern Line Islands and central Phoenix Islands are sparsely populated, but the western Gilbert Islands are some of the most densely settled places on earth, with the main island of South Tarawa boasting a population density similar to Tokyo or Hong Kong<br>
+consists of three archipelagos spread out over an area roughly the size of India; the eastern Line Islands and central Phoenix Islands are sparsely populated, but the western Gilbert Islands are some of the most densely settled places on earth, with the main island of South Tarawa boasting a population density similar to Tokyo or Hong Kong<br>
 
 **Urbanization**<br>
 _urban population_: 57.8% of total population (2023)<br>
@@ -280,7 +280,7 @@ _time zone note_: Kiribati has three time zones: the Gilbert Islands group at UT
 _etymology_: the name is said to derive from the I-Kiribati words <em>te </em>(the) and <em>rawa </em>(run), referring to a channel through a nearby reef<br>
 
 **Administrative divisions**<br>
-3 geographical units: Gilbert Islands, Line Islands, Phoenix Islands; note - there are no first-order administrative divisions, but there are 6 districts (Banaba, Central Gilberts, Line Islands, Northern Gilberts, Southern Gilberts, Tarawa) and 21 island councils - one for each of the inhabited islands (Abaiang, Abemama, Aranuka, Arorae, Banaba, Beru, Butaritari, Kanton, Kiritimati, Kuria, Maiana, Makin, Marakei, Nikunau, Nonouti, Onotoa, Tabiteuea, Tabuaeran, Tamana, Tarawa, Teraina)<br>
+3 geographical units: Gilbert Islands, Line Islands, Phoenix Islands; there are no first-order administrative divisions, but the 6 districts are Banaba, Central Gilberts, Line Islands, Northern Gilberts, Southern Gilberts, Tarawa, with 21 island councils on Abaiang, Abemama, Aranuka, Arorae, Banaba, Beru, Butaritari, Kanton, Kiritimati, Kuria, Maiana, Makin, Marakei, Nikunau, Nonouti, Onotoa, Tabiteuea, Tabuaeran, Tamana, Tarawa, Teraina<br>
 
 **Legal system**<br>
 English common law supplemented by customary law<br>

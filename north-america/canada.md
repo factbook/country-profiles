@@ -79,7 +79,7 @@ Atlantic Ocean drainage: Mississippi* <em>(Gulf of America)</em> (3,202,185 sq k
 Northern Great Plains Aquifer<br>
 
 **Population distribution**<br>
-vast majority of Canadians are positioned in a discontinuous band within approximately 300 km of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia<br>
+vast majority of the population lives in a discontinuous band within approximately 300 km (186 mi) of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia<br>
 
 **Natural hazards**<br>
 <p>continuous permafrost in north is a serious obstacle to development; cyclonic storms form east of the Rocky Mountains, a result of the mixing of air masses from the Arctic, Pacific, and North American interior, and produce most of the country's rain and snow east of the mountains</p><p><strong>volcanism:</strong> the vast majority of volcanoes in Western Canada's Coast Mountains remain dormant</p><br>
@@ -138,7 +138,7 @@ _female_: 43.8 years<br>
 5.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-vast majority of Canadians are positioned in a discontinuous band within approximately 300 km of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia<br>
+vast majority of the population lives in a discontinuous band within approximately 300 km (186 mi) of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia<br>
 
 **Urbanization**<br>
 _urban population_: 81.9% of total population (2023)<br>

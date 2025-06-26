@@ -277,8 +277,8 @@ _time zone note_: on 5 May 2018, North Korea reverted to UTC+9, the same time zo
 _etymology_: the name translates as "flat land" in Korean<br>
 
 **Administrative divisions**<br>
-<p>9 provinces (do, singular and plural) and 4 special administration cities (si, singular and plural)</p> <p><strong>provinces:</strong> Chagang, Hambuk (North Hamgyong), Hamnam (South Hamgyong), Hwangbuk (North Hwanghae), Hwangnam (South Hwanghae), Kangwon, P'yongbuk (North Pyongan), P'yongnam (South Pyongan), Ryanggang</p> <p><strong>special administration cities:</strong> Kaesong, Nampo, P'yongyang, Rason</p><br>
-<strong>note:</strong> P'yongyang is identified as a directly controlled city, while Kaesong, Nampo, and Rason are designated as special cities<br>
+<p>9 provinces (<em>do</em>, singular and plural) and 4 special administration cities (<em>si</em>, singular and plural)</p> <p><strong>provinces:</strong> Chagang, Hambuk (North Hamgyong), Hamnam (South Hamgyong), Hwangbuk (North Hwanghae), Hwangnam (South Hwanghae), Kangwon, P'yongbuk (North Pyongan), P'yongnam (South Pyongan), Ryanggang</p> <p><strong>special administration cities:</strong> Kaesong, Nampo, P'yongyang, Rason</p><br>
+<strong>note:</strong> P'yongyang is considered a directly controlled city; Kaesong, Nampo, and Rason are designated as special cities<br>
 
 **Legal system**<br>
 civil law system based on the Prussian model; influenced by Japanese traditions and Communist legal theory<br>

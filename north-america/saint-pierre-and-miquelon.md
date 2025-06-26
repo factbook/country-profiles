@@ -222,13 +222,7 @@ _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday i
 _etymology_: may be named after Saint Peter, the patron saint of fisherman; alternatively, the name may come from one of the two navigators for whom the island as a whole is named&nbsp;<br>
 
 **Administrative divisions**<br>
-none (territorial overseas collectivity of France); note - there are no first-order administrative divisions as defined by the US Government, but there are 2 communes at the second order - Saint Pierre, Miquelon<br>
-
-**Independence**<br>
-none (overseas collectivity collectivity of France; has been under French control since 1763)<br>
-
-**National holiday**<br>
-F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790)<br>
+none (territorial overseas collectivity of France); there are no first-order administrative divisions as defined by the US government, but 2 communes are considered second-order: Saint Pierre, Miquelon<br>
 
 **Legal system**<br>
 French civil law<br>
@@ -269,14 +263,20 @@ _judge selection and term of office_: judge selection and tenure NA<br>
 **Political parties**<br>
 Archipelago Tomorrow (Archipel Domain) or AD (affiliated with The Republicans)<br>Focus on the Future (Cap sur l'Avenir) (affiliated with Left Radical Party)<br>Together to Build (Ensemble pour Construire)<br>
 
-**International organization participation**<br>
-UPU, WFTU (NGOs)<br>
-
 **Diplomatic representation in the US**<br>
 none (overseas territory of France)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (territorial overseas collectivity of France)<br>
+
+**International organization participation**<br>
+UPU, WFTU (NGOs)<br>
+
+**Independence**<br>
+none (overseas collectivity collectivity of France; has been under French control since 1763)<br>
+
+**National holiday**<br>
+F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790)<br>
 
 **Flag description**<br>
 a yellow three-masted sailing ship facing the hoist side rides on a blue background with wavy white lines; a black-over-white wavy line divides the ship from the white wavy lines; on the hoist side, a vertical band is divided into three heraldic arms: the top (called <em>ikkurina</em>) is red with a green diagonal cross extending to the corners and overlaid with a white cross, the middle is white with an ermine pattern, and the bottom is red with two yellow lions outlined in black; the arms represent settlers from the Basque Country (top), Brittany, and Normandy in France; blue symbolizes the Atlantic Ocean, and the ship represents explorer Jacques Cartier's ship when he visited the islands in 1536<br>

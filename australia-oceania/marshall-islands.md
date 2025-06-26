@@ -64,7 +64,7 @@ _other_: 8.9% (2022 est.)<br>
 0 sq km (2022)<br>
 
 **Population distribution**<br>
-most people live in urban clusters found on many of the country's islands; more than two-thirds of the population lives on the atolls of Majuro and Ebeye<br>
+most people live in urban clusters on many of the country's islands; more than two thirds of the population lives on the atolls of Majuro and Ebeye<br>
 
 **Natural hazards**<br>
 infrequent typhoons<br>
@@ -123,7 +123,7 @@ _female_: 25.6 years<br>
 -4.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most people live in urban clusters found on many of the country's islands; more than two-thirds of the population lives on the atolls of Majuro and Ebeye<br>
+most people live in urban clusters on many of the country's islands; more than two thirds of the population lives on the atolls of Majuro and Ebeye<br>
 
 **Urbanization**<br>
 _urban population_: 78.9% of total population (2023)<br>

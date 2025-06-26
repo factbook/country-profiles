@@ -61,7 +61,7 @@ _other_: 11.3% (2022 est.)<br>
 1.3 sq km (2012)<br>
 
 **Population distribution**<br>
-the capital city of Maroni, located on the western side of the island of Grande Comore, is the country's largest city; however, of the three islands that comprise Comoros, it is Anjouan that is the most densely populated as shown in this population distribution map<br>
+the capital city of Maroni, on the western side of the island of Grande Comore, is the country's largest city; however, Anjouan is the most densely populated of the three islands that comprise Comoros, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 <p>cyclones possible during rainy season (December to April); volcanic activity on Grand Comore</p><p><strong>volcanism:</strong> Karthala (2,361 m) on Grand Comore Island last erupted in 2007; a 2005 eruption forced thousands of people to be evacuated and produced a large ash cloud</p><br>
@@ -119,7 +119,7 @@ _female_: 23.3 years<br>
 -2.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the capital city of Maroni, located on the western side of the island of Grande Comore, is the country's largest city; however, of the three islands that comprise Comoros, it is Anjouan that is the most densely populated as shown in this population distribution map<br>
+the capital city of Maroni, on the western side of the island of Grande Comore, is the country's largest city; however, Anjouan is the most densely populated of the three islands that comprise Comoros, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 30.1% of total population (2023)<br>

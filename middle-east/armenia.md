@@ -293,7 +293,7 @@ _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)
 _etymology_: name origin is unclear; it may derive from the name of a local ethnic group, or from the ancient fortress of Erebuni that was built on the current site of Yerevan in 782 B.C.<br>
 
 **Administrative divisions**<br>
-11 provinces (marzer, singular - marz); Aragatsotn, Ararat, Armavir, Geghark'unik', Kotayk', Lorri, Shirak, Syunik', Tavush, Vayots' Dzor, Yerevan<br>
+11 provinces (<em>marzer</em>, singular - <em>marz</em>); Aragatsotn, Ararat, Armavir, Geghark'unik', Kotayk', Lorri, Shirak, Syunik', Tavush, Vayots' Dzor, Yerevan<br>
 
 **Legal system**<br>
 civil law system<br>
@@ -417,11 +417,6 @@ $24.086 billion (2023 est.)<br>
 2% (2023 est.)<br>
 8.6% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: B+ (2020)<br>
-_Moody's rating_: Ba3 (2019)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 8.5% (2023 est.)<br>

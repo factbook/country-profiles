@@ -270,7 +270,7 @@ _time difference_: UTC+6 (11 hours ahead of Washington, DC, during Standard Time
 _etymology_: the origins of the name are unclear; the traditional explanation, dating to the 14th century, is that <em>thim </em>means "dissolve" and <em>phu</em> means "rock," in reference to a local deity who dissolved before a traveler's eyes, becoming a part of the rock on which the present city stands<br>
 
 **Administrative divisions**<br>
-20 districts (dzongkhag, singular and plural); Bumthang, Chhukha, Dagana, Gasa, Haa, Lhuentse, Mongar, Paro, Pemagatshel, Punakha, Samdrup Jongkhar, Samtse, Sarpang, Thimphu, Trashigang, Trashi Yangtse, Trongsa, Tsirang, Wangdue Phodrang, Zhemgang<br>
+20 districts (<em>dzongkhag</em>, singular and plural); Bumthang, Chhukha, Dagana, Gasa, Haa, Lhuentse, Mongar, Paro, Pemagatshel, Punakha, Samdrup Jongkhar, Samtse, Sarpang, Thimphu, Trashigang, Trashi Yangtse, Trongsa, Tsirang, Wangdue Phodrang, Zhemgang<br>
 
 **Legal system**<br>
 civil law based on Buddhist religious law<br>

@@ -61,7 +61,7 @@ _other_: 62.1% (2022 est.)<br>
 50 sq km (2012)<br>
 
 **Population distribution**<br>
-most densely populated country in the eastern Caribbean; approximately one-third live in urban areas<br>
+most densely populated country in the eastern Caribbean; approximately one third&nbsp; of the population lives in urban areas<br>
 
 **Natural hazards**<br>
 infrequent hurricanes; periodic landslides<br>
@@ -118,7 +118,7 @@ _female_: 42.5 years<br>
 -0.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most densely populated country in the eastern Caribbean; approximately one-third live in urban areas<br>
+most densely populated country in the eastern Caribbean; approximately one third&nbsp; of the population lives in urban areas<br>
 
 **Urbanization**<br>
 _urban population_: 31.4% of total population (2023)<br>

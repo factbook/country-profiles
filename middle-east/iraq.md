@@ -304,8 +304,8 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the origin of the name is unclear; it may mean "gift of God," from the pre-Islamic words <em>bagh</em> (god) and <em>dad</em> (given)<br>
 
 **Administrative divisions**<br>
-18 governorates (muhafazat, singular - muhafazah (Arabic); parezgakan, singular - parezga (Kurdish)); 'Al Anbar; Al Basrah; Al Muthanna; Al Qadisiyah (Ad Diwaniyah); An Najaf; Arbil (Erbil) (Arabic), Hewler (Kurdish); As Sulaymaniyah (Arabic), Slemani (Kurdish); Babil; Baghdad; Dahuk (Arabic), Dihok (Kurdish); Dhi Qar; Diyala; Karbala'; Kirkuk; Maysan; Ninawa; Salah ad Din; Wasit<br>
-<strong>note: </strong>Iraq's Kurdistan Regional Government administers Arbil, Dahuk, and As Sulaymaniyah (as Hewler, Dihok, and Slemani respectively)<br>
+18 governorates (<em>muhafazat</em>, singular - <em>muhafazah </em>(Arabic); parezgakan, singular - parezga (Kurdish)); 'Al Anbar; Al Basrah; Al Muthanna; Al Qadisiyah (Ad Diwaniyah); An Najaf; Arbil (Erbil) (Arabic), Hewler (Kurdish); As Sulaymaniyah (Arabic), Slemani (Kurdish); Babil; Baghdad; Dahuk (Arabic), Dihok (Kurdish); Dhi Qar; Diyala; Karbala'; Kirkuk; Maysan; Ninawa; Salah ad Din; Wasit<br>
+<strong>note: </strong>Iraq's Kurdistan Regional Government administers Arbil, Dahuk, and As Sulaymaniyah (as Hewler, Dihok, and Slemani, respectively)<br>
 
 **Legal system**<br>
 mixed system of civil and Islamic law<br>
@@ -431,12 +431,6 @@ $250.843 billion (2023 est.)<br>
 5% (2022 est.)<br>
 6% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: B- (2015)<br>
-_Moody's rating_: Caa1 (2017)<br>
-_Standard & Poors rating_: B- (2015)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.8% (2023 est.)<br>

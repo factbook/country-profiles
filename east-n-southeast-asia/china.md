@@ -78,7 +78,7 @@ Pacific Ocean drainage: Amur (1,929,955 sq km), Huang He (944,970 sq km), Mekong
 North China Aquifer System (Huang Huai Hai Plain), Song-Liao Plain, Tarim Basin<br>
 
 **Population distribution**<br>
-overwhelming majority of the population is found in the eastern half of the country; the west, with its vast mountainous and desert areas, remains sparsely populated; though ranked first in the world in total population, overall density is less than that of many other countries in Asia and Europe; high population density is found along the Yangtze and Yellow River valleys, the Xi Jiang River delta, the Sichuan Basin (around Chengdu), in and around Beijing, and the industrial area around Shenyang<br>
+overwhelming majority of the population is found in the eastern half of the country; the west, with its vast mountainous and desert areas, remains sparsely populated; though ranked first in the world in total population, overall density is less than that of many Asian and European countries; high population density is found along the Yangtze and Yellow River valleys, the Xi Jiang River delta, the Sichuan Basin (around Chengdu), in and around Beijing, and the industrial area around Shenyang<br>
 
 **Natural hazards**<br>
 <p>frequent typhoons (about five per year along southern and eastern coasts); damaging floods; tsunamis; earthquakes; droughts; land subsidence</p><p><strong>volcanism:</strong> China contains some historically active volcanoes including Changbaishan (also known as Baitoushan, Baegdu, or P'aektu-san), Hainan Dao, and Kunlun although most have been relatively inactive in recent centuries</p><br>
@@ -139,7 +139,7 @@ _female_: 41.5 years<br>
 -0.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-overwhelming majority of the population is found in the eastern half of the country; the west, with its vast mountainous and desert areas, remains sparsely populated; though ranked first in the world in total population, overall density is less than that of many other countries in Asia and Europe; high population density is found along the Yangtze and Yellow River valleys, the Xi Jiang River delta, the Sichuan Basin (around Chengdu), in and around Beijing, and the industrial area around Shenyang<br>
+overwhelming majority of the population is found in the eastern half of the country; the west, with its vast mountainous and desert areas, remains sparsely populated; though ranked first in the world in total population, overall density is less than that of many Asian and European countries; high population density is found along the Yangtze and Yellow River valleys, the Xi Jiang River delta, the Sichuan Basin (around Chengdu), in and around Beijing, and the industrial area around Shenyang<br>
 
 **Urbanization**<br>
 _urban population_: 64.6% of total population (2023)<br>
@@ -326,7 +326,7 @@ _time zone note_: China is the largest country (in terms of area) with just one 
 _etymology_: the name comes from the Chinese words <em>bei </em>(north) and <em>jing </em>(capital)<br>
 
 **Administrative divisions**<br>
-<p>23 provinces (sheng, singular and plural), 5 autonomous regions (zizhiqu, singular and plural), 4 municipalities (shi, singular and plural), and two special administrative regions (tebie xingzhengqu, singular and plural)</p> <p><strong>provinces:</strong> Anhui, Fujian, Gansu, Guangdong, Guizhou, Hainan, Hebei, Heilongjiang, Henan, Hubei, Hunan, Jiangsu, Jiangxi, Jilin, Liaoning, Qinghai, Shaanxi, Shandong, Shanxi, Sichuan, Yunnan, Zhejiang; (see note on Taiwan)</p> <p><strong>autonomous regions:</strong> Guangxi, Nei Mongol (Inner Mongolia), Ningxia, Xinjiang Uyghur, Xizang (Tibet)</p> <p><strong>municipalities:</strong> Beijing, Chongqing, Shanghai, Tianjin<br><br><strong>special administrative regions:</strong> Hong Kong, Macau</p><br>
+<p>23 provinces (<em>sheng</em>, singular and plural), 5 autonomous regions (<em>zizhiqu</em>, singular and plural), 4 municipalities (<em>shi</em>, singular and plural), and two special administrative regions (<em>tebie xingzhengqu</em>, singular and plural)</p> <p><strong>provinces:</strong> Anhui, Fujian, Gansu, Guangdong, Guizhou, Hainan, Hebei, Heilongjiang, Henan, Hubei, Hunan, Jiangsu, Jiangxi, Jilin, Liaoning, Qinghai, Shaanxi, Shandong, Shanxi, Sichuan, Yunnan, Zhejiang; (see note on Taiwan)</p> <p><strong>autonomous regions:</strong> Guangxi, Nei Mongol (Inner Mongolia), Ningxia, Xinjiang Uyghur, Xizang (Tibet)</p> <p><strong>municipalities:</strong> Beijing, Chongqing, Shanghai, Tianjin<br><br><strong>special administrative regions:</strong> Hong Kong, Macau</p><br>
 <strong>note:</strong> China considers Taiwan its 23rd province; see separate entries for the special administrative regions of Hong Kong and Macau<br>
 
 **Legal system**<br>

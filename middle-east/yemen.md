@@ -279,7 +279,7 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name is reputed to mean "fortified place" in an ancient language<br>
 
 **Administrative divisions**<br>
-22 governorates (muhafazat, singular - muhafazah); Abyan, 'Adan (Aden), Ad Dali', Al Bayda', Al Hudaydah, Al Jawf, Al Mahrah, Al Mahwit, Amanat al 'Asimah (Sanaa City), 'Amran, Arkhabil Suqutra (Socotra Archipelago), Dhamar, Hadramawt, Hajjah, Ibb, Lahij, Ma'rib, Raymah, Sa'dah, San'a' (Sanaa), Shabwah, Ta'izz<br>
+22 governorates (<em>muhafazat</em>, singular - <em>muhafazah</em>); Abyan, 'Adan (Aden), Ad Dali', Al Bayda', Al Hudaydah, Al Jawf, Al Mahrah, Al Mahwit, Amanat al 'Asimah (Sanaa City), 'Amran, Arkhabil Suqutra (Socotra Archipelago), Dhamar, Hadramawt, Hajjah, Ibb, Lahij, Ma'rib, Raymah, Sa'dah, San'a' (Sanaa), Shabwah, Ta'izz<br>
 
 **Legal system**<br>
 mixed system of Islamic (sharia) law, Napoleonic law, English common law, and customary law<br>

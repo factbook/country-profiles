@@ -306,7 +306,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the name may have evolved from the Roman name Vindobona, which was taken from the Celtic words <em>vindo </em>(white) and <em>bona </em>(fort)<br>
 
 **Administrative divisions**<br>
-9 states (Bundeslaender, singular - Bundesland); Burgenland, Kaernten (Carinthia), Niederoesterreich (Lower Austria), Oberoesterreich (Upper Austria), Salzburg, Steiermark (Styria), Tirol (Tyrol), Vorarlberg, Wien (Vienna)<br>
+9 states (<em>Bundeslaender</em>, singular - <em>Bundesland</em>); Burgenland, Kaernten (Carinthia), Niederoesterreich (Lower Austria), Oberoesterreich (Upper Austria), Salzburg, Steiermark (Styria), Tirol (Tyrol), Vorarlberg, Wien (Vienna)<br>
 
 **Legal system**<br>
 civil law system; Constitutional Court reviews legislative acts<br>

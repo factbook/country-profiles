@@ -312,8 +312,8 @@ _etymology_: the name means "capital city" in Kazakh<br>
 <strong>note:</strong> founded in 1830 as Akmoly, the capital city became Akmolinsk in 1832, Tselinograd in 1961, Akmola (Aqmola) in 1992, Astana in 1998, and Nur-Sultan in 2019; the latest name change back to Astana in 2022 occurred just three and a half years after the city was renamed to honor a former president, who subsequently fell out of favor  <br>
 
 **Administrative divisions**<br>
-17 provinces (oblystar, singular - oblys) and 4 cities* (qalalar, singular - qala); Abay (Semey), Almaty (Qonaev), Almaty*, Aqmola (Kokshetau), Aqtobe, Astana*, Atyrau, Batys Qazaqstan [West Kazakhstan] (Oral), Bayqongyr*, Mangghystau (Aqtau), Pavlodar, Qaraghandy, Qostanay, Qyzylorda, Shyghys Qazaqstan [East Kazakhstan] (Oskemen), Shymkent*, Soltustik Qazaqstan [North Kazakhstan] (Petropavl), Turkistan, Ulytau (Zhezqazghan), Zhambyl (Taraz), Zhetisu (Taldyqorghan)<br>
-<strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses); in 1995, the Governments of Kazakhstan and Russia entered into an agreement whereby Russia would lease for a period of 20 years an area of 6,000 sq km enclosing the Baikonur space launch facilities and the city of Bayqongyr (Baikonur, formerly Leninsk); in 2004, a new agreement extended the lease to 2050<br>
+17 provinces (<em>oblystar</em>, singular - <em>oblys</em>) and 4 cities* (<em>qalalar</em>, singular - <em>qala</em>); Abay (Semey), Almaty (Qonaev), Almaty*, Aqmola (Kokshetau), Aqtobe, Astana*, Atyrau, Batys Qazaqstan [West Kazakhstan] (Oral), Bayqongyr*, Mangghystau (Aqtau), Pavlodar, Qaraghandy, Qostanay, Qyzylorda, Shyghys Qazaqstan [East Kazakhstan] (Oskemen), Shymkent*, Soltustik Qazaqstan [North Kazakhstan] (Petropavl), Turkistan, Ulytau (Zhezqazghan), Zhambyl (Taraz), Zhetisu (Taldyqorghan)<br>
+<strong>note 1:</strong> administrative divisions have the same names as their administrative centers; exceptions show the administrative center name in parentheses<br><br><strong>note 2:</strong> in 1995, the Kazakh and Russian governments agreed that Russia would lease for 20 years an area of 6,000 sq km (2,317 sq mi) around the Baikonur space launch facilities and the city of Bayqongyr (Baikonur, formerly Leninsk); in 2004, the lease was extended to 2050<br>
 
 **Legal system**<br>
 civil law system influenced by Roman-Germanic law and by the theory and practice of the Russian Federation<br>
@@ -449,12 +449,6 @@ $262.642 billion (2023 est.)<br>
 14.7% (2023 est.)<br>
 15% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BBB (2016)<br>
-_Moody's rating_: Baa3 (2016)<br>
-_Standard & Poors rating_: BBB- (2016)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.9% (2023 est.)<br>

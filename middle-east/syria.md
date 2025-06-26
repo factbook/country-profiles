@@ -71,7 +71,7 @@ Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq 
 
 **Population distribution**<br>
 significant population density along the Mediterranean coast; larger concentrations found in the major cities of Damascus, Aleppo (the country's largest city), and Hims (Homs); more than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley<br>
-<strong>note:</strong> the ongoing civil war has altered the population distribution<br>
+<strong>note:</strong> the recent civil war has altered the population distribution<br>
 
 **Natural hazards**<br>
 <p>dust storms, sandstorms</p><p><strong>volcanism:</strong> Syria's two historically active volcanoes, Es Safa and an unnamed volcano near the Turkish border have not erupted in centuries</p><br>
@@ -131,7 +131,7 @@ _female_: 24.7 years<br>
 
 **Population distribution**<br>
 significant population density along the Mediterranean coast; larger concentrations found in the major cities of Damascus, Aleppo (the country's largest city), and Hims (Homs); more than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley<br>
-<strong>note:</strong> the ongoing civil war has altered the population distribution<br>
+<strong>note:</strong> the recent civil war has altered the population distribution<br>
 
 **Urbanization**<br>
 _urban population_: 57.4% of total population (2023)<br>
@@ -285,7 +285,7 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the city has an ancient, pre-Semitic name of unknown origin<br>
 
 **Administrative divisions**<br>
-14 provinces (muhafazat, singular - muhafazah); Al Hasakah, Al Ladhiqiyah (Latakia), Al Qunaytirah, Ar Raqqah, As Suwayda', Dar'a, Dayr az Zawr, Dimashq (Damascus), Halab (Aleppo), Hamah, Hims (Homs), Idlib, Rif Dimashq (Damascus Countryside), Tartus<br>
+14 provinces (<em>muhafazat</em>, singular - <em>muhafazah</em>); Al Hasakah, Al Ladhiqiyah (Latakia), Al Qunaytirah, Ar Raqqah, As Suwayda', Dar'a, Dayr az Zawr, Dimashq (Damascus), Halab (Aleppo), Hamah, Hims (Homs), Idlib, Rif Dimashq (Damascus Countryside), Tartus<br>
 
 **Legal system**<br>
 mixed system of civil and Islamic (sharia) law (for family courts)<br>
@@ -631,7 +631,7 @@ prior to the fall of the ASAD regime in December 2024, the SAF was inventory was
 prior to the fall of the ASAD regime in December 2024, men 18-42 were obligated to perform military service; compulsory service obligation was up to 30 months; women were not conscripted but could volunteer to serve, including in combat arms (2024)<br>
 
 **Military - note**<br>
-the UN Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; UNDOF has about 1,000 personnel (2024)<br>
+the UN Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; UNDOF has about 1,300 personnel (2025)<br>
 
 ## Space
 

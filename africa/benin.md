@@ -67,7 +67,7 @@ _other_: 30% (2022 est.)<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
 
 **Population distribution**<br>
-the population is primarily located in the south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the north remains sparsely populated with higher concentrations of residents in the west as shown in this population distribution map<br>
+the population is primarily located in the south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the north remains sparsely populated with higher concentrations of residents in the west, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 hot, dry, dusty harmattan wind may affect north from December to March<br>
@@ -124,7 +124,7 @@ _female_: 17.7 years<br>
 0.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the population is primarily located in the south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the north remains sparsely populated with higher concentrations of residents in the west as shown in this population distribution map<br>
+the population is primarily located in the south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the north remains sparsely populated with higher concentrations of residents in the west, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 50.1% of total population (2023)<br>

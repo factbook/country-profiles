@@ -291,7 +291,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: probably derived from an early Celtic or Germanic form of the name, Lucilinburhuc, that was thought to mean "little fortress;" the name first referred to the city and was later used for the country<br>
 
 **Administrative divisions**<br>
-12 cantons (cantons, singular - canton); Capellen, Clervaux, Diekirch, Echternach, Esch-sur-Alzette, Grevenmacher, Luxembourg, Mersch, Redange, Remich, Vianden, Wiltz<br>
+12 cantons; Capellen, Clervaux, Diekirch, Echternach, Esch-sur-Alzette, Grevenmacher, Luxembourg, Mersch, Redange, Remich, Vianden, Wiltz<br>
 
 **Legal system**<br>
 civil law system<br>
@@ -414,12 +414,6 @@ $85.755 billion (2023 est.)<br>
 3.7% (2023 est.)<br>
 6.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: AAA (1994)<br>
-_Moody's rating_: Aaa (1989)<br>
-_Standard & Poors rating_: AAA (1994)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.2% (2023 est.)<br>

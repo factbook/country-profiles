@@ -298,7 +298,7 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the origin of the name is disputed; it may be derived from the Menka River<br>
 
 **Administrative divisions**<br>
-6 regions (voblastsi, singular - voblasts') and 1 municipality* (horad); Brest, Homyel' (Gomel'), Horad Minsk* (Minsk City), Hrodna (Grodno), Mahilyow (Mogilev), Minsk, Vitsyebsk (Vitebsk)<br>
+6 regions (<em>voblastsi</em>, singular - <em>voblasts</em>') and 1 municipality* (<em>horad</em>); Brest, Homyel' (Gomel'), Horad Minsk* (Minsk City), Hrodna (Grodno), Mahilyow (Mogilev), Minsk, Vitsyebsk (Vitebsk)<br>
 <strong>note:</strong> administrative divisions have the same names as their administrative centers; Russian spelling provided for reference when different from Belarusian<br>
 
 **Legal system**<br>

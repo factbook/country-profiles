@@ -77,7 +77,7 @@ Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 Nubian Aquifer System<br>
 
 **Population distribution**<br>
-approximately 95% of the population lives within 20 km of the Nile River and its delta; vast areas of the country remain sparsely populated or uninhabited as shown in this population distribution map<br>
+approximately 95% of the population lives within 20 km (12 mi) of the Nile River and its delta; vast areas of the country remain sparsely populated or uninhabited, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 periodic droughts; frequent earthquakes; flash floods; landslides; hot, driving windstorms called khamsin occur in spring; dust storms; sandstorms<br>
@@ -136,7 +136,7 @@ _female_: 24.4 years<br>
 -0.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-approximately 95% of the population lives within 20 km of the Nile River and its delta; vast areas of the country remain sparsely populated or uninhabited as shown in this population distribution map<br>
+approximately 95% of the population lives within 20 km (12 mi) of the Nile River and its delta; vast areas of the country remain sparsely populated or uninhabited, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 43.1% of total population (2023)<br>
@@ -315,7 +315,7 @@ _daylight saving time_: +1hr, begins last Friday in April; ends last Friday in O
 _etymology_: the ancient Egyptian name of the original city was Khere-ohe or Kheri-aha; the modern city's name may also derive from the Arabic <em>al-qahir</em>, meaning "the victorious;" this is an Arabic name for the planet Mars, which was in the ascendant on the day in 969 A.D. when construction on the new part of the city began<br>
 
 **Administrative divisions**<br>
-27 governorates (muhafazat, singular - muhafazat); Ad Daqahliyah, Al Bahr al Ahmar (Red Sea), Al Buhayrah, Al Fayyum, Al Gharbiyah, Al Iskandariyah (Alexandria), Al Isma'iliyah (Ismailia), Al Jizah (Giza), Al Minufiyah, Al Minya, Al Qahirah (Cairo), Al Qalyubiyah, Al Uqsur (Luxor), Al Wadi al Jadid (New Valley), As Suways (Suez), Ash Sharqiyah, Aswan, Asyut, Bani Suwayf, Bur Sa'id (Port Said), Dumyat (Damietta), Janub Sina' (South Sinai), Kafr ash Shaykh, Matruh, Qina, Shamal Sina' (North Sinai), Suhaj<br>
+27 governorates (<em>muhafazat</em>, singular - <em>muhafazat</em>); Ad Daqahliyah, Al Bahr al Ahmar (Red Sea), Al Buhayrah, Al Fayyum, Al Gharbiyah, Al Iskandariyah (Alexandria), Al Isma'iliyah (Ismailia), Al Jizah (Giza), Al Minufiyah, Al Minya, Al Qahirah (Cairo), Al Qalyubiyah, Al Uqsur (Luxor), Al Wadi al Jadid (New Valley), As Suways (Suez), Ash Sharqiyah, Aswan, Asyut, Bani Suwayf, Bur Sa'id (Port Said), Dumyat (Damietta), Janub Sina' (South Sinai), Kafr ash Shaykh, Matruh, Qina, Shamal Sina' (North Sinai), Suhaj<br>
 
 **Legal system**<br>
 mixed system based on Napoleonic civil and penal law, Islamic religious law, and vestiges of colonial-era laws; Supreme Constitutional Court reviews laws<br>
@@ -454,12 +454,6 @@ $396.002 billion (2023 est.)<br>
 13.9% (2022 est.)<br>
 5.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: B+ (2019)<br>
-_Moody's rating_: B2 (2019)<br>
-_Standard & Poors rating_: B (2018)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 11.6% (2023 est.)<br>
@@ -720,7 +714,7 @@ voluntary enlistment possible from age 16 for men and 17 for women; 18-30 years 
 1,000 (plus nearly 200 police) Central African Republic (MINUSCA); also has about 350 police deployed to the Democratic Republic of the Congo under MONUSCO; slated to have about 1,100 personnel in Somalia under AUSSOM in 2025 (2024)<br>
 
 **Military - note**<br>
-the Egyptian Armed Forces (EAF) are responsible for external defense but also have an internal role assisting police and paramilitary security forces during emergencies and in anti-terrorism operations; the EAF also participates in foreign peacekeeping and other security missions, as well as both bilateral and multinational exercises; the military has considerable political power and independence; it has long had a crucial role in Egypt’s politics and has a large stake in the civilian economy, including running banks, businesses, gas stations, shipping lines, and utilities, and producing consumer and industrial goods, importing commodities, and building and managing infrastructure projects, such as bridges, roads, hospitals, and housing<br><br>key areas of concern for the EAF include Islamist militant groups operating out of the Sinai Peninsula, regional challenges such as ongoing conflicts and instability, and maritime security; since 2011, the EAF has been conducting operations alongside other security forces in the North Sinai governorate against several militant groups, particularly the Islamic State of Iraq and ash-Sham (ISIS); over the past decade, it has deployed large numbers of troops along Egypt's border with Libya, provided air support to the Saudi-led coalition's intervention in Yemen, and most recently boosted its presence on the border with Gaza in response to the HAMAS-Israel conflict; the Navy in recent years has sought to modernize and expand its capabilities and profile in the Eastern Mediterranean and Red Sea, including the acquisition of helicopter carriers, modern frigates, and attack submarines; in 2020, the EAF inaugurated a large joint service military base on the Red Sea to secure the country’s southern coasts, protect economic investments and natural resources, and confront security challenges in the Red Sea region<br><br>Egypt is a major security partner of the US and one of the largest recipients of US military aid in the region; it also has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the Multinational Force &amp; Observers (MFO) has operated in the Sinai since 1982 as a peacekeeping and monitoring force to supervise the implementation of the security provisions of the 1979 Egyptian-Israeli Treaty of Peace; the MFO is an independent international organization, created by agreement between Egypt and Israel; it is composed of about 1,150 troops from 13 countries; Colombia, Fiji, and the US are the leading providers of troops to the MFO (2024)<br>
+the Egyptian Armed Forces (EAF) are responsible for external defense but also have an internal role assisting police and paramilitary security forces during emergencies and in anti-terrorism operations; the EAF also participates in foreign peacekeeping and other security missions, as well as both bilateral and multinational exercises; the military has considerable political power and independence; it has long had a crucial role in Egypt’s politics and has a large stake in the civilian economy, including running banks, businesses, gas stations, shipping lines, and utilities, and producing consumer and industrial goods, importing commodities, and building and managing infrastructure projects, such as bridges, roads, hospitals, and housing<br><br>key areas of concern for the EAF include Islamist militant groups operating out of the Sinai Peninsula, regional challenges such as ongoing conflicts and instability, and maritime security; since 2011, the EAF has been conducting operations alongside other security forces in the North Sinai governorate against several militant groups, particularly the Islamic State of Iraq and ash-Sham (ISIS); over the past decade, it has deployed additional units along the border with Libya, provided air support to the Saudi-led coalition's intervention in Yemen, and most recently boosted its presence on the border with Gaza in response to the HAMAS-Israel conflict; the Navy in recent years has sought to modernize and expand its capabilities and profile in the Eastern Mediterranean and Red Sea, including the acquisition of helicopter carriers, modern frigates, and attack submarines, as well as the establishment of a joint service military base on the Red Sea<br><br>the Multinational Force &amp; Observers (MFO) has operated in the Sinai since 1982 as a peacekeeping and monitoring force to supervise the implementation of the security provisions of the 1979 Egyptian-Israeli Treaty of Peace; the MFO is an independent international organization, created by agreement between Egypt and Israel; it has about 1,150 troops from 13 countries; Colombia, Fiji, and the US are the leading providers of troops to the MFO (2025)<br>
 
 ## Space
 

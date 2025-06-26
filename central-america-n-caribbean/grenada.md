@@ -61,7 +61,7 @@ _other_: 24.4% (2022 est.)<br>
 20 sq km (2012)<br>
 
 **Population distribution**<br>
-approximately one-third of the population is found in the capital of St. George's; the island's population is concentrated along the coast<br>
+approximately one third of the population is found in the capital of St. George's; the island's population is concentrated along the coast<br>
 
 **Natural hazards**<br>
 <p>lies on edge of hurricane belt; hurricane season lasts from June to November</p><p><strong>volcanism:</strong> Mount Saint Catherine (840 m) lies on the island of Grenada; Kick 'em Jenny, an active submarine volcano (seamount) on the Caribbean Sea floor, lies about 8 km north of the island of Grenada; these two volcanoes are at the southern end of the volcanic island arc of the Lesser Antilles that extends up to the Netherlands dependency of Saba in the north</p><br>
@@ -115,7 +115,7 @@ _female_: 35.7 years<br>
 -2.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-approximately one-third of the population is found in the capital of St. George's; the island's population is concentrated along the coast<br>
+approximately one third of the population is found in the capital of St. George's; the island's population is concentrated along the coast<br>
 
 **Urbanization**<br>
 _urban population_: 37.1% of total population (2023)<br>
@@ -393,10 +393,6 @@ $1.317 billion (2023 est.)<br>
 2.6% (2022 est.)<br>
 1.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Standard & Poors rating_: SD (2013)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.3% (2023 est.)<br>

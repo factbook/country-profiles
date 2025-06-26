@@ -287,7 +287,7 @@ _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday i
 _etymology_: the name means "the port of the prince" and probably came from a ship called The Prince that anchored in the bay in the early 18th century<br>
 
 **Administrative divisions**<br>
-10 departments (d&eacute;partements, singular - d&eacute;partement); Artibonite, Centre, Grand'Anse, Nippes, Nord, Nord-Est, Nord-Ouest, Ouest, Sud, Sud-Est<br>
+10 departments (<em>départements</em>, singular - <em>département</em>); Artibonite, Centre, Grand'Anse, Nippes, Nord, Nord-Est, Nord-Ouest, Ouest, Sud, Sud-Est<br>
 
 **Legal system**<br>
 civil law system strongly influenced by Napoleonic Code<br>

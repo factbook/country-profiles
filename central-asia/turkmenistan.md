@@ -304,8 +304,8 @@ _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time
 _etymology_: derived from the Turkmen words <em>ushq</em>, meaning "love," and <em>abad</em>, meaning "inhabited place" or "town;"  the city was originally a military outpost built in 1881 that took its name from an ancient settlement on the site<br>
 
 **Administrative divisions**<br>
-5 provinces (velayatlar, singular - velayat) and 1 independent city*: Ahal Velayat (Arkadag), Ashgabat*, Balkan Velayat (Balkanabat), Dashoguz Velayat, Lebap Velayat (Turkmenabat), Mary Velayat<br>
-<strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)<br>
+5 provinces (<em>velayatlar</em>, singular - <em>velayat</em>) and 1 independent city*: Ahal Velayat (Arkadag), Ashgabat*, Balkan Velayat (Balkanabat), Dashoguz Velayat, Lebap Velayat (Turkmenabat), Mary Velayat<br>
+<strong>note:</strong> administrative divisions have the same names as their administrative centers; exceptions show the administrative center name in parentheses<br>
 
 **Legal system**<br>
 civil law system with Islamic (sharia) law influences<br>

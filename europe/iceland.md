@@ -63,7 +63,7 @@ _other_: 80.9% (2022 est.)<br>
 0.5 sq km (2022)<br>
 
 **Population distribution**<br>
-Iceland is almost entirely urban with half of the population located in and around the capital of Reykjavik; smaller clusters are primarily found along the coast in the north and west<br>
+Iceland is almost entirely urban, with half of the population located in and around the capital of Reykjavik; smaller clusters are primarily found along the coast in the north and west<br>
 
 **Natural hazards**<br>
 <p>earthquakes and volcanic activity</p><p><strong>volcanism:</strong> Iceland, situated on top of a hotspot, experiences severe volcanic activity; Eyjafjallajokull (1,666 m) erupted in 2010, sending ash high into the atmosphere and seriously disrupting European air traffic; scientists continue to monitor nearby Katla (1,512 m), which has a high probability of eruption in the very near future, potentially disrupting air traffic; Grimsvoetn and Hekla are Iceland's most active volcanoes; other historically active volcanoes include Askja, Bardarbunga, Brennisteinsfjoll, Esjufjoll, Hengill, Krafla, Krisuvik, Kverkfjoll, Oraefajokull, Reykjanes, Torfajokull, and Vestmannaeyjar</p><br>
@@ -121,7 +121,7 @@ _female_: 38.6 years<br>
 2.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-Iceland is almost entirely urban with half of the population located in and around the capital of Reykjavik; smaller clusters are primarily found along the coast in the north and west<br>
+Iceland is almost entirely urban, with half of the population located in and around the capital of Reykjavik; smaller clusters are primarily found along the coast in the north and west<br>
 
 **Urbanization**<br>
 _urban population_: 94% of total population (2023)<br>
@@ -285,7 +285,7 @@ _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name means "smoky bay" in Icelandic and refers to the steam from the hot springs in the area<br>
 
 **Administrative divisions**<br>
-64 municipalities (sveitarfelog, singular - sveitarfelagidh); Akranes, Akureyri, Arneshreppur, Asahreppur, Blaskogabyggdh, Bolungarvik, Borgarbyggdh, Dalabyggdh, Dalvikurbyggdh, Eyjafjardharsveit, Eyja-og Miklaholtshreppur, Fjallabyggdh, Fjardhabyggdh, Fljotsdalshreppur, Floahreppur, Gardhabaer, Grimsnes-og Grafningshreppur, Grindavikurbaer, Grundarfjardharbaer, Grytubakkahreppur, Hafnarfjordhur, Horgarsveit, Hrunamannahreppur, Hunathing Vestra, Hunabyggdh, Hvalfjardharsveit, Hveragerdhi, Isafjardharbaer, Kaldrananeshreppur, Kjosarhreppur, Kopavogur, Langanesbyggdh, Mosfellsbaer, Mulathing, Myrdalshreppur, Nordhurthing, Rangarthing Eystra, Rangarthing Ytra, Reykholahreppur, Reykjanesbaer, Reykjavik, Seltjarnarnes, Skaftarhreppur, Skagabyggdh, Skagafjordhur, Skeidha-og Gnupverjahreppur, Skorradalshreppur, Snaefellsbaer, Strandabyggdh, Stykkisholmur, Sudhavikurhreppur, Sudhurnesjabaer, Svalbardhsstrandarhreppur, Sveitarfelagidh Arborg, Sveitarfelagidh Hornafjordhur, Sveitarfelagidh Olfus, Sveitarfelagidh Skagastrond, Sveitarfelagidh Vogar, Talknafjardharhreppur, Thingeyjarsveit, Tjorneshreppur, Vestmannaeyjar, Vesturbyggdh, Vopnafjardharhreppur<br>
+64 municipalities (<em>sveitarfelog</em>, singular - <em>sveitarfelagidh</em>); Akranes, Akureyri, Arneshreppur, Asahreppur, Blaskogabyggdh, Bolungarvik, Borgarbyggdh, Dalabyggdh, Dalvikurbyggdh, Eyjafjardharsveit, Eyja-og Miklaholtshreppur, Fjallabyggdh, Fjardhabyggdh, Fljotsdalshreppur, Floahreppur, Gardhabaer, Grimsnes-og Grafningshreppur, Grindavikurbaer, Grundarfjardharbaer, Grytubakkahreppur, Hafnarfjordhur, Horgarsveit, Hrunamannahreppur, Hunathing Vestra, Hunabyggdh, Hvalfjardharsveit, Hveragerdhi, Isafjardharbaer, Kaldrananeshreppur, Kjosarhreppur, Kopavogur, Langanesbyggdh, Mosfellsbaer, Mulathing, Myrdalshreppur, Nordhurthing, Rangarthing Eystra, Rangarthing Ytra, Reykholahreppur, Reykjanesbaer, Reykjavik, Seltjarnarnes, Skaftarhreppur, Skagabyggdh, Skagafjordhur, Skeidha-og Gnupverjahreppur, Skorradalshreppur, Snaefellsbaer, Strandabyggdh, Stykkisholmur, Sudhavikurhreppur, Sudhurnesjabaer, Svalbardhsstrandarhreppur, Sveitarfelagidh Arborg, Sveitarfelagidh Hornafjordhur, Sveitarfelagidh Olfus, Sveitarfelagidh Skagastrond, Sveitarfelagidh Vogar, Talknafjardharhreppur, Thingeyjarsveit, Tjorneshreppur, Vestmannaeyjar, Vesturbyggdh, Vopnafjardharhreppur<br>
 
 **Legal system**<br>
 civil law system influenced by the Danish model<br>
@@ -407,12 +407,6 @@ $31.325 billion (2023 est.)<br>
 8.7% (2023 est.)<br>
 8.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: A (2017)<br>
-_Moody's rating_: A2 (2019)<br>
-_Standard & Poors rating_: A (2017)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.8% (2023 est.)<br>

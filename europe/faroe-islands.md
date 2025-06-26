@@ -237,7 +237,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the name means "Thor's harbor" in Danish<br>
 
 **Administrative divisions**<br>
-part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark; there are 29 first-order municipalities (kommunur, singular - kommuna) Eidhi, Eystur, Famjin, Fuglafjordhur, Fugloy, Hov, Husavik, Hvalba, Hvannasund, Klaksvik, Kunoy, Kvivik, Nes, Porkeri, Runavik, Sandur, Sjovar, Skalavik, Skopun, Skuvoy, Sorvagur, Sumba, Sunda, Torshavn, Tvoroyri, Vagar, Vagur, Vestmanna, Vidhareidhi<br>
+part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark; there are 29 first-order municipalities (<em>kommunur</em>, singular - <em>kommuna</em>) Eidhi, Eystur, Famjin, Fuglafjordhur, Fugloy, Hov, Husavik, Hvalba, Hvannasund, Klaksvik, Kunoy, Kvivik, Nes, Porkeri, Runavik, Sandur, Sjovar, Skalavik, Skopun, Skuvoy, Sorvagur, Sumba, Sunda, Torshavn, Tvoroyri, Vagar, Vagur, Vestmanna, Vidhareidhi<br>
 
 **Legal system**<br>
 the laws of Denmark apply&nbsp;<br>

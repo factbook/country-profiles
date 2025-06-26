@@ -276,7 +276,7 @@ _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time
 _etymology_: named in 1970 after Sultan Omar Ali SAIFUDDIEN III (1914-1986), who adopted the title of "Seri Begawan" (approximately meaning "honored lord") when he abdicated in 1967; "bandar" means "city" or "port" in Malay; the capital had previously been called Bandar Brunei (Brunei City)<br>
 
 **Administrative divisions**<br>
-4 districts (daerah-daerah, singular - daerah); Belait, Brunei dan Muara, Temburong, Tutong<br>
+4 districts (<em>daerah-daerah</em>, singular - <em>daerah</em>); Belait, Brunei dan Muara, Temburong, Tutong<br>
 
 **Legal system**<br>
 mixed legal system based on English common law and Islamic law<br>

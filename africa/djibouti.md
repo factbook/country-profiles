@@ -67,7 +67,7 @@ _other_: 26.2% (2022 est.)<br>
 _salt water lake(s)_: Abhe Bad/Abhe Bid Hayk (shared with Ethiopia) - 780 sq km<br>
 
 **Population distribution**<br>
-most densely populated areas are in the east; the largest city is Djibouti, with a population over 600,000; no other city in the country has a total population over 50,000 as shown in this population distribution map<br>
+most densely populated areas are in the east; the largest city is Djibouti, and the other cities in the country are a fraction of its size, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 <p>earthquakes; droughts; occasional cyclonic disturbances from the Indian Ocean bring heavy rains and flash floods</p><p><strong>volcanism:</strong> experiences limited volcanic activity; Ardoukoba (298 m) last erupted in 1978; Manda-Inakir, located along the Ethiopian border, is also historically active</p><br>
@@ -124,7 +124,7 @@ _female_: 27.9 years<br>
 4.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most densely populated areas are in the east; the largest city is Djibouti, with a population over 600,000; no other city in the country has a total population over 50,000 as shown in this population distribution map<br>
+most densely populated areas are in the east; the largest city is Djibouti, and the other cities in the country are a fraction of its size, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 78.6% of total population (2023)<br>
@@ -285,7 +285,7 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name is said to derive from the Afar word <em>gabouri</em>, meaning "plate," in reference to a palm-fiber plate used for ceremonial purposes<br>
 
 **Administrative divisions**<br>
-6 districts (cercles, singular - cercle); Ali Sabieh, Arta, Dikhil, Djibouti, Obock, Tadjourah<br>
+6 districts (<em>cercles</em>, singular - <em>cercle</em>); Ali Sabieh, Arta, Dikhil, Djibouti, Obock, Tadjourah<br>
 
 **Legal system**<br>
 mixed system based primarily on the French civil code (as it existed in 1997), Islamic religious law (in matters of family law and successions), and customary law<br>
@@ -638,7 +638,7 @@ the FAD's inventory is a mix of mostly older or secondhand equipment from a wide
 approximately 1,500 Somalia (AUSSOM) (2025)<br>
 
 **Military - note**<br>
-Djibouti's military forces are largely focused on border, coastal, and internal security duties, such as counterterrorism; as recently as February 2025, Djiboutian forces have conducted operations near its border with Ethiopia against members of the Armed Front for the Restoration of Unity and Democracy (FRUD A), which Djibouti considers a terrorist group<br> <br>China, France, Italy, Japan, and the US maintain bases in Djibouti for regional military missions, including counterterrorism, counter-piracy, crisis response, and security assistance; other countries, such as Germany and Spain, also maintain a smaller presence; the EU and NATO also maintain a presence to support multinational naval counter-piracy operations and maritime training efforts (2025)<br>
+Djibouti's military forces are largely focused on border, coastal, and internal security duties, such as counterterrorism; as recently as February 2025, Djiboutian forces have conducted operations near its border with Ethiopia against members of the Armed Front for the Restoration of Unity and Democracy (FRUD A), which Djibouti considers a terrorist group<br> <br>China, France, Italy, Japan, and the US maintain bases in Djibouti for regional military missions, including counterterrorism, counter-piracy, crisis response, and security assistance; other countries, such as Germany and Spain, have smaller military contingents; the EU and NATO also maintain a presence in Djibouti to support multinational naval counter-piracy operations and maritime training efforts (2025)<br>
 
 ## Terrorism
 

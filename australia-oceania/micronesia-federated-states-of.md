@@ -62,7 +62,7 @@ _other_: 0.8% (2022 est.)<br>
 0 sq km (2022)<br>
 
 **Population distribution**<br>
-the majority of the populaton lives in the coastal areas of the high islands; the mountainous interior is largely uninhabited; less than half of the population lives in urban areas<br>
+the majority of the population lives in the coastal areas of the high islands; the mountainous interior is largely uninhabited; less than half of the population lives in urban areas<br>
 
 **Natural hazards**<br>
 typhoons (June to December)<br>
@@ -119,7 +119,7 @@ _female_: 29.1 years<br>
 -21 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the majority of the populaton lives in the coastal areas of the high islands; the mountainous interior is largely uninhabited; less than half of the population lives in urban areas<br>
+the majority of the population lives in the coastal areas of the high islands; the mountainous interior is largely uninhabited; less than half of the population lives in urban areas<br>
 
 **Urbanization**<br>
 _urban population_: 23.4% of total population (2023)<br>

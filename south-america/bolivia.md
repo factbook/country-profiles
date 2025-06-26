@@ -307,7 +307,7 @@ _etymology_: La Paz is a shortening of the original name of the city, Pueblo Nue
 <strong>note:</strong> at approximately 3,630 m above sea level, La Paz's elevation makes it the highest capital city in the world<br>
 
 **Administrative divisions**<br>
-9 departments (departamentos, singular - departamento); Beni, Chuquisaca, Cochabamba, La Paz, Oruro, Pando, Potosi, Santa Cruz, Tarija<br>
+9 departments (<em>departamentos</em>, singular - <em>departamento</em>); Beni, Chuquisaca, Cochabamba, La Paz, Oruro, Pando, Potosi, Santa Cruz, Tarija<br>
 
 **Legal system**<br>
 civil law system with influences from Roman, Spanish, canon (religious), French, and ethnic groups' pre-colonial law<br>

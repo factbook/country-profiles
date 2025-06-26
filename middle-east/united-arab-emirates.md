@@ -65,7 +65,7 @@ _other_: 90% (2022 est.)<br>
 940 sq km (2022)<br>
 
 **Population distribution**<br>
-population is heavily concentrated to the northeast on the Musandam Peninsula; the three largest emirates - Abu Dhabi, Dubai, and Sharjah - are home to nearly 85% of the population<br>
+population is heavily concentrated to the northeast on the Musandam Peninsula; the three largest emirates -- Abu Dhabi, Dubai, and Sharjah -- are home to nearly 85% of the population<br>
 
 **Natural hazards**<br>
 frequent sand and dust storms<br>
@@ -125,7 +125,7 @@ _female_: 29.8 years<br>
 -3.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-population is heavily concentrated to the northeast on the Musandam Peninsula; the three largest emirates - Abu Dhabi, Dubai, and Sharjah - are home to nearly 85% of the population<br>
+population is heavily concentrated to the northeast on the Musandam Peninsula; the three largest emirates -- Abu Dhabi, Dubai, and Sharjah -- are home to nearly 85% of the population<br>
 
 **Urbanization**<br>
 _urban population_: 87.8% of total population (2023)<br>
@@ -281,7 +281,7 @@ _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)
 _etymology_: in Arabic, <em>abu</em> means "father," and <em>dhabi</em> refers to a personal name, Dhabi or Zabi, that comes from the word <em>zab</em>, or "gazelle" <br>
 
 **Administrative divisions**<br>
-7 emirates (imarat, singular - imarah); Abu Zaby (Abu Dhabi), 'Ajman, Al Fujayrah, Ash Shariqah (Sharjah), Dubayy (Dubai), Ra's al Khaymah, Umm al Qaywayn<br>
+7 emirates (<em>imarat</em>, singular - <em>imarah</em>); Abu Zaby (Abu Dhabi), 'Ajman, Al Fujayrah, Ash Shariqah (Sharjah), Dubayy (Dubai), Ra's al Khaymah, Umm al Qaywayn<br>
 
 **Legal system**<br>
 mixed system of Islamic (sharia) law and civil law<br>
@@ -406,12 +406,6 @@ $514.13 billion (2023 est.)<br>
 5.3% (2022 est.)<br>
 0.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: AA- (2020)<br>
-_Moody's rating_: Aa2 (2007)<br>
-_Standard & Poors rating_: AA (2007)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.7% (2023 est.)<br>

@@ -71,7 +71,7 @@ Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq 
 Arabian Aquifer System<br>
 
 **Population distribution**<br>
-population heavily concentrated in the west, and particularly the northwest, in and around the capital of Amman; a sizeable, but smaller population is located in the southwest along the shore of the Gulf of Aqaba<br>
+population heavily concentrated in the west, and particularly the northwest, in and around the capital of Amman; a sizeable but smaller population is located in the southwest along the shore of the Gulf of Aqaba<br>
 
 **Natural hazards**<br>
 droughts; periodic earthquakes; flash floods<br>
@@ -130,7 +130,7 @@ _female_: 24.4 years<br>
 -10.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-population heavily concentrated in the west, and particularly the northwest, in and around the capital of Amman; a sizeable, but smaller population is located in the southwest along the shore of the Gulf of Aqaba<br>
+population heavily concentrated in the west, and particularly the northwest, in and around the capital of Amman; a sizeable but smaller population is located in the southwest along the shore of the Gulf of Aqaba<br>
 
 **Urbanization**<br>
 _urban population_: 92% of total population (2023)<br>
@@ -309,7 +309,7 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: in the 13th century B.C., the Ammonites named their primary city Rabbath Ammon; <em>rabbath </em>meant "capital," so the name translated as "The Capital of [the] Ammon[ites];" over time, the name was shortened to Ammon, and then to Amman<br>
 
 **Administrative divisions**<br>
-12 governorates (muhafazat, singular - muhafazah); 'Ajlun, Al 'Aqabah, Al Balqa', Al Karak, Al Mafraq, Al ‘Asimah (Amman), At Tafilah, Az Zarqa', Irbid, Jarash, Ma'an, Madaba<br>
+12 governorates (<em>muhafazat</em>, singular - <em>muhafazah</em>); 'Ajlun, Al 'Aqabah, Al Balqa', Al Karak, Al Mafraq, Al ‘Asimah (Amman), At Tafilah, Az Zarqa', Irbid, Jarash, Ma'an, Madaba<br>
 
 **Legal system**<br>
 mixed system developed from Ottoman Empire codes (based on French law), British common law, and Islamic law<br>
@@ -442,12 +442,6 @@ $50.967 billion (2023 est.)<br>
 4.2% (2022 est.)<br>
 1.3% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BB- (2019)<br>
-_Moody's rating_: B1 (2013)<br>
-_Standard & Poors rating_: B+ (2017)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4.8% (2023 est.)<br>

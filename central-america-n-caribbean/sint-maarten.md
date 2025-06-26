@@ -57,7 +57,7 @@ _forest_: 10.9% (2022 est.)<br>
 _other_: 89.1% (2022 est.)<br>
 
 **Population distribution**<br>
-most populous areas are Lower Prince's Quarter (north of Philipsburg), followed closely by Cul de Sac<br>
+the most populous areas are Lower Prince's Quarter (north of Philipsburg) and Cul de Sac<br>
 
 **Natural hazards**<br>
 <p>subject to hurricanes from July to November</p><br>
@@ -111,7 +111,7 @@ _female_: 42.8 years<br>
 5.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most populous areas are Lower Prince's Quarter (north of Philipsburg), followed closely by Cul de Sac<br>
+the most populous areas are Lower Prince's Quarter (north of Philipsburg) and Cul de Sac<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>

@@ -279,7 +279,7 @@ _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name derives from the Greek words <em>tri </em>and <em>polis</em>, meaning "three cities;" the modern-day city was founded in the 14th century to replace the three ancient cities of Pallantium, Tegea, and Mantineia<br>
 
 **Administrative divisions**<br>
-22 governorates (muhafazah, singular - muhafazat); Al Butnan, Al Jabal al Akhdar, Al Jabal al Gharbi, Al Jafarah, Al Jufrah, Al Kufrah, Al Marj, Al Marqab, Al Wahat, An Nuqat al Khams, Az Zawiyah, Banghazi (Benghazi), Darnah, Ghat, Misratah, Murzuq, Nalut, Sabha, Surt, Tarabulus (Tripoli), Wadi al Hayat, Wadi ash Shati<br>
+22 governorates (<em>muhafazah</em>, singular - <em>muhafazat</em>); Al Butnan, Al Jabal al Akhdar, Al Jabal al Gharbi, Al Jafarah, Al Jufrah, Al Kufrah, Al Marj, Al Marqab, Al Wahat, An Nuqat al Khams, Az Zawiyah, Banghazi (Benghazi), Darnah, Ghat, Misratah, Murzuq, Nalut, Sabha, Surt, Tarabulus (Tripoli), Wadi al Hayat, Wadi ash Shati<br>
 
 **Legal system**<br>
 Libya's post-revolution system is in flux and driven by state and non-state entities<br>

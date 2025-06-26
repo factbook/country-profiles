@@ -69,7 +69,7 @@ _other_: 9.5% (2022 est.)<br>
 Tagus river source (shared with Portugal [m]) - 1,006 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Population distribution**<br>
-with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban agglomerations are found along the Mediterranean and Atlantic coasts; numerous smaller cities are spread throughout the interior reflecting Spain's agrarian heritage; very dense settlement around the capital of Madrid, as well as the port city of Barcelona<br>
+with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban agglomerations are found along the Mediterranean and Atlantic coasts; numerous smaller cities are spread throughout the interior; very dense settlement around the capital of Madrid, as well as the port city of Barcelona<br>
 
 **Natural hazards**<br>
 <p>periodic droughts, occasional flooding</p><p><strong>volcanism:</strong> volcanic activity in the Canary Islands, located off Africa's northwest coast; Teide (3,715 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; La Palma (2,426 m), which last erupted in 1971, is the most active of the Canary Islands volcanoes; Lanzarote is the only other historically active volcano</p><br>
@@ -129,7 +129,7 @@ _female_: 47.8 years<br>
 4.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban agglomerations are found along the Mediterranean and Atlantic coasts; numerous smaller cities are spread throughout the interior reflecting Spain's agrarian heritage; very dense settlement around the capital of Madrid, as well as the port city of Barcelona<br>
+with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban agglomerations are found along the Mediterranean and Atlantic coasts; numerous smaller cities are spread throughout the interior; very dense settlement around the capital of Madrid, as well as the port city of Barcelona<br>
 
 **Urbanization**<br>
 _urban population_: 81.6% of total population (2023)<br>
@@ -301,8 +301,8 @@ _time zone note_: Spain has two time zones, including the Canary Islands (UTC 0)
 _etymology_: the meaning and origin of the name is unclear; the city grew from a small Moorish fort that was called Majerit in the first recorded mention in A.D. 932; some trace the modern-day name back to the Roman era, with the Latin word <em>materia </em>(materials) as a possible source<br>
 
 **Administrative divisions**<br>
-17 autonomous communities (comunidades autonomas, singular - comunidad autonoma) and 2 autonomous cities* (ciudades autonomas, singular - ciudad autonoma); Andalucia; Aragon; Asturias; Canarias (Canary Islands); Cantabria; Castilla-La Mancha; Castilla-Leon; Cataluña (Castilian), Catalunya (Catalan), Catalonha (Aranese) [Catalonia]; Ceuta*; Comunidad Valenciana (Castilian), Comunitat Valenciana (Valencian) [Valencian Community]; Extremadura; Galicia; Illes Baleares (Balearic Islands); La Rioja; Madrid; Melilla*; Murcia; Navarra (Castilian), Nafarroa (Basque) [Navarre]; Pais Vasco (Castilian), Euskadi (Basque) [Basque Country]<br>
-<strong>note:</strong> the autonomous cities of Ceuta and Melilla plus three small islands of Islas Chafarinas, Penon de Alhucemas, and Penon de Velez de la Gomera, administered directly by the Spanish central government, are all along the coast of Morocco and are collectively referred to as Places of Sovereignty (Plazas de Soberania)<br>
+17 autonomous communities (<em>comunidades autonomas</em>, singular - <em>comunidad autonoma</em>) and 2 autonomous cities* (<em>ciudades autonomas</em>, singular - <em>ciudad autonoma</em>); Andalucia; Aragon; Asturias; Canarias (Canary Islands); Cantabria; Castilla-La Mancha; Castilla-Leon; Cataluña (Castilian), Catalunya (Catalan), Catalonha (Aranese) [Catalonia]; Ceuta*; Comunidad Valenciana (Castilian), Comunitat Valenciana (Valencian) [Valencian Community]; Extremadura; Galicia; Illes Baleares (Balearic Islands); La Rioja; Madrid; Melilla*; Murcia; Navarra (Castilian), Nafarroa (Basque) [Navarre]; Pais Vasco (Castilian), Euskadi (Basque) [Basque Country]<br>
+<strong>note:</strong> Spain administers the autonomous cities of Ceuta and Melilla and the three small islands of Islas Chafarinas, Penon de Alhucemas, and Penon de Velez de la Gomera, which are all located along the coast of Morocco; they are collectively referred to as Places of Sovereignty (Plazas de Soberania)<br>
 
 **Legal system**<br>
 civil law system with regional variations<br>
@@ -442,12 +442,6 @@ $1.62 trillion (2023 est.)<br>
 3.5% (2023 est.)<br>
 8.4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: A- (2018)<br>
-_Moody's rating_: Baa1 (2018)<br>
-_Standard & Poors rating_: A (2019)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.5% (2023 est.)<br>

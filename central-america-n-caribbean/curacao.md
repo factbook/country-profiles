@@ -465,7 +465,7 @@ _key ports_: Bullenbaai, Caracasbaai, Sint Michelsbaai, Willemstad<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Curaçao Militia (CURMIL); Curaçao Volunteer Corps; Curacao Police Force (Korps Politie Curacao) (2025)<br>
+Curaçao Militia (CURMIL); Curaçao Volunteer Corps; Curacao Police Force (Korps Politie Curacao) (2025)<br>
 
 **Military - note**<br>
 defense is the responsibility of the Kingdom of the Netherlands; the Dutch Government controls foreign and defense policy; local security forces are supported by the Royal Netherlands Marechaussee (Gendarmerie), the Dutch Caribbean Police Force (Korps Politie Caribisch Nederland, KPCN), and the Dutch Caribbean Coast Guard (DCCG or Kustwacht Caribisch Gebied (KWCARIB)); there are two Dutch naval bases on Cura&ccedil;ao, and the Dutch Army maintains a small unit on a rotational basis (2025)<br>

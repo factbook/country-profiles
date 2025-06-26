@@ -292,8 +292,8 @@ _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name comes from the Georgian word <em>tbili</em>, meaning "warm" and referring to the hot sulfur springs in the area<br>
 
 **Administrative divisions**<br>
-<p>9 regions (mkharebi, singular - mkhare), 1 city (kalaki), and 2 autonomous republics (avtomnoy respubliki, singular - avtom respublika)</p> <p><strong>regions:</strong> Guria, Imereti, Kakheti, Kvemo Kartli, Mtskheta Mtianeti, Racha-Lechkhumi and Kvemo Svaneti, Samegrelo and Zemo Svaneti, Samtskhe-Javakheti, Shida Kartli; note - the breakaway region of South Ossetia consists of the northern part of Shida Kartli, eastern slivers of the Imereti region and Racha-Lechkhumi and Kvemo Svaneti, and part of western Mtskheta-Mtianeti</p> <p><strong>city:</strong> Tbilisi</p> <strong>autonomous republics:</strong> Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi), Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)<br>
-<strong>note 1:</strong> the administrative centers of the two autonomous republics are shown in parentheses <br><br><strong>note 2:</strong> the United States recognizes the breakaway regions of Abkhazia and South Ossetia to be part of Georgia<br>
+<p>9 regions (<em>mkharebi</em>, singular - <em>mkhare</em>), 1 city (<em>kalaki</em>), and 2 autonomous republics (<em>avtomnoy respubliki</em>, singular - <em>avtom respublika</em>)</p> <p><strong>regions:</strong> Guria, Imereti, Kakheti, Kvemo Kartli, Mtskheta Mtianeti, Racha-Lechkhumi and Kvemo Svaneti, Samegrelo and Zemo Svaneti, Samtskhe-Javakheti, Shida Kartli; note - the breakaway region of South Ossetia consists of the northern part of Shida Kartli, eastern slivers of the Imereti region and Racha-Lechkhumi and Kvemo Svaneti, and part of western Mtskheta-Mtianeti</p> <p><strong>city:</strong> Tbilisi</p> <strong>autonomous republics:</strong> Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi), Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)<br>
+<strong>note 1:</strong> the administrative centers of the two autonomous republics are shown in parentheses <br><br><strong>note 2:</strong> the United States recognizes the breakaway regions of Abkhazia and South Ossetia as part of Georgia<br>
 
 **Legal system**<br>
 civil law system<br>
@@ -417,12 +417,6 @@ $30.778 billion (2023 est.)<br>
 2.5% (2023 est.)<br>
 11.9% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BB (2019)<br>
-_Moody's rating_: Ba2 (2017)<br>
-_Standard & Poors rating_: BB (2019)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6% (2023 est.)<br>

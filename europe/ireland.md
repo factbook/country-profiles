@@ -63,7 +63,7 @@ _other_: 25.4% (2022 est.)<br>
 0 sq km (2022)<br>
 
 **Population distribution**<br>
-population distribution is weighted to the eastern side of the island, with the largest concentration being in and around Dublin; populations in the west are small due to mountainous land, poorer soil, lack of good transport routes, and fewer job opportunities<br>
+population distribution is weighted to the eastern side of the island, with the largest concentration in and around Dublin; populations in the west are small due to mountainous land, poorer soil, and lack of transport routes<br>
 
 **Natural hazards**<br>
 rare extreme weather events<br>
@@ -120,7 +120,7 @@ _female_: 40.6 years<br>
 5.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-population distribution is weighted to the eastern side of the island, with the largest concentration being in and around Dublin; populations in the west are small due to mountainous land, poorer soil, lack of good transport routes, and fewer job opportunities<br>
+population distribution is weighted to the eastern side of the island, with the largest concentration in and around Dublin; populations in the west are small due to mountainous land, poorer soil, and lack of transport routes<br>
 
 **Urbanization**<br>
 _urban population_: 64.5% of total population (2023)<br>
@@ -421,12 +421,6 @@ $551.395 billion (2023 est.)<br>
 6.3% (2023 est.)<br>
 7.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: A+ (2017)<br>
-_Moody's rating_: A2 (2017)<br>
-_Standard & Poors rating_: AA- (2019)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.9% (2023 est.)<br>

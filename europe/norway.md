@@ -65,7 +65,7 @@ _other_: 63.8% (2022 est.)<br>
 337 sq km (2016)<br>
 
 **Population distribution**<br>
-most Norwegians live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated<br>
+most people live in the south; population clusters are found along the North Sea coast in the southwest and Skaggerak in the southeast; the interior areas of the north remain sparsely populated<br>
 
 **Natural hazards**<br>
 <p>rockslides, avalanches</p><p><strong>volcanism:</strong> Beerenberg (2,227 m) on Jan Mayen Island in the Norwegian Sea is the country's only active volcano</p><br>
@@ -125,7 +125,7 @@ _female_: 41.5 years<br>
 3.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most Norwegians live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated<br>
+most people live in the south; population clusters are found along the North Sea coast in the southwest and Skaggerak in the southeast; the interior areas of the north remain sparsely populated<br>
 
 **Urbanization**<br>
 _urban population_: 84% of total population (2023)<br>
@@ -297,7 +297,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the name may derive from the Old Norwegian word <em>os</em>, meaning "estuary" and referring to the city's location on a fjord; alternatively, the name may come from As, a Scandinavian god, and Lo, a nearby river<br>
 
 **Administrative divisions**<br>
-12 counties (fylker, singular - fylke); Agder, Innlandet, More og Romsdal, Nordland, Oslo, Rogaland, Romsdal, Troms og Finnmark, Trondelag, Vestfold og Telemark, Vestland, Viken (2024)<br>
+12 counties (<em>fylker</em>, singular - <em>fylke</em>); Agder, Innlandet, More og Romsdal, Nordland, Oslo, Rogaland, Romsdal, Troms og Finnmark, Trondelag, Vestfold og Telemark, Vestland, Viken (2024)<br>
 
 **Dependent areas**<br>
 Bouvet Island, Jan Mayen, Svalbard (3)<br>
@@ -423,12 +423,6 @@ $485.311 billion (2023 est.)<br>
 5.5% (2023 est.)<br>
 5.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: AAA (1995)<br>
-_Moody's rating_: Aaa (1997)<br>
-_Standard & Poors rating_: AAA (1975)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.1% (2023 est.)<br>

@@ -68,7 +68,7 @@ _other_: 32.8% (2022 est.)<br>
 Atlantic Ocean drainage: Seine (78,919 sq km), Rhine-Maas (198,735 sq km)<br>
 
 **Population distribution**<br>
-most of the population concentrated in the northern two-thirds of the country; the southeast is more thinly populated; considered to have one of the highest population densities in the world; approximately 97% live in urban areas<br>
+most of the population is concentrated in the northern two thirds of the country; the southeast is more thinly populated; considered to have one of the highest population densities in the world, with approximately 97% living in urban areas<br>
 
 **Natural hazards**<br>
 flooding is a threat along rivers and in areas of reclaimed coastal land, protected from the sea by concrete dikes<br>
@@ -126,7 +126,7 @@ _female_: 43.1 years<br>
 4 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most of the population concentrated in the northern two-thirds of the country; the southeast is more thinly populated; considered to have one of the highest population densities in the world; approximately 97% live in urban areas<br>
+most of the population is concentrated in the northern two thirds of the country; the southeast is more thinly populated; considered to have one of the highest population densities in the world, with approximately 97% living in urban areas<br>
 
 **Urbanization**<br>
 _urban population_: 98.2% of total population (2023)<br>
@@ -301,7 +301,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the name is of Germanic origin, from <em>broca </em>(marsh) and <em>sali </em>(room or building)<br>
 
 **Administrative divisions**<br>
-3 regions (French: régions, singular - région; Dutch: gewesten, singular - gewest); Brussels-Capital Region, also known as Brussels Hoofdstedelijk Gewest (Dutch), Region de Bruxelles-Capitale (French long form), Bruxelles-Capitale (French short form); Flemish Region (Flanders), also known as Vlaams Gewest (Dutch long form), Vlaanderen (Dutch short form), Region Flamande (French long form), Flandre (French short form); Walloon Region (Wallonia), also known as Region Wallone (French long form), Wallonie (French short form), Waals Gewest (Dutch long form), Wallonie (Dutch short form)<br>
+3 regions (French: <em>régions</em>, singular - <em>région</em>; Dutch: <em>gewesten</em>, singular - <em>gewest</em>); Brussels-Capital Region, also known as Brussels Hoofdstedelijk Gewest (Dutch), Region de Bruxelles-Capitale (French long form), Bruxelles-Capitale (French short form); Flemish Region (Flanders), also known as Vlaams Gewest (Dutch long form), Vlaanderen (Dutch short form), Region Flamande (French long form), Flandre (French short form); Walloon Region (Wallonia), also known as Region Wallone (French long form), Wallonie (French short form), Waals Gewest (Dutch long form), Wallonie (Dutch short form)<br>
 <strong>note:</strong> as a result of the 1993 constitutional revision that furthered devolution into a federal state, there are now three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; the 2012 sixth state reform transferred additional competencies from the federal state to the regions and linguistic communities<br>
 
 **Legal system**<br>

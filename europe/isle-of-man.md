@@ -61,7 +61,7 @@ _other_: 22.5% (2022 est.)<br>
 0 sq km (2022)<br>
 
 **Population distribution**<br>
-most people concentrated in cities and large towns of which Douglas, in the southeast, is the largest<br>
+most people concentrated in cities and large towns; Douglas, in the southeast, is the largest<br>
 
 **Natural hazards**<br>
 occasional high winds and rough seas<br>
@@ -119,7 +119,7 @@ _female_: 46.1 years<br>
 4.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most people concentrated in cities and large towns of which Douglas, in the southeast, is the largest<br>
+most people concentrated in cities and large towns; Douglas, in the southeast, is the largest<br>
 
 **Urbanization**<br>
 _urban population_: 53.5% of total population (2023)<br>
@@ -223,7 +223,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the name comes from the Gaelic name <em>Dubhghlais</em>, or "black stream," referring to a nearby river; a second river was called <em>Fionnghlais</em>, or "white stream;" both river names were later shortened to Dhoo and Glass, respectively, which coincidentally comprised the elements of the town's name<br>
 
 **Administrative divisions**<br>
-none; there are no first-order administrative divisions as defined by the US Government, but there are 24 local authorities each with its own elections<br>
+none; there are no first-order administrative divisions as defined by the US government, but 24 local authorities each hold elections<br>
 
 **Legal system**<br>
 UK laws apply, as well as Manx statutes<br>
@@ -335,11 +335,6 @@ $7.931 billion (2021 est.)<br>
 **Inflation rate (consumer prices)**<br>
 4.1% (2017 est.)<br>
 1% (2016 est.)<br>
-
-**Credit ratings**<br>
-_Moody's rating_: Aa3 (2020)<br>
-_Standard & Poors rating_: N/A<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.3% (2021 est.)<br>

@@ -64,7 +64,7 @@ _other_: 8.4% (2022 est.)<br>
 10,860 sq km (2012)<br>
 
 **Population distribution**<br>
-most of population lives on the eastern half of the island; significant clustering is found in the central highlands and eastern coastline as shown in this population distribution map<br>
+most of population lives on the eastern half of the island; significant clustering is found in the central highlands and eastern coastline, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 <p>periodic cyclones; drought; and locust infestation</p><p><strong>volcanism:</strong> Madagascar's volcanoes have not erupted in historical times</p><br>
@@ -122,7 +122,7 @@ _female_: 21.5 years<br>
 0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most of population lives on the eastern half of the island; significant clustering is found in the central highlands and eastern coastline as shown in this population distribution map<br>
+most of population lives on the eastern half of the island; significant clustering is found in the central highlands and eastern coastline, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 40.6% of total population (2023)<br>
@@ -287,7 +287,7 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name means "City of the Thousand," from the Malagasy <em>an</em>- (a prefix denoting a place name), <em>tanana </em>(town), and <em>arivo </em>(thousand); in the 17th century, King ADRIANJAKA named the original fortress after the 1,000 soldiers stationed there<br>
 
 **Administrative divisions**<br>
-6 provinces (faritany); Antananarivo, Antsiranana, Fianarantsoa, Mahajanga, Toamasina, Toliara<br>
+6 provinces (<em>faritany</em>); Antananarivo, Antsiranana, Fianarantsoa, Mahajanga, Toamasina, Toliara<br>
 
 **Legal system**<br>
 civil law system based on the old French civil code and customary law in matters of marriage, family, and obligation<br>

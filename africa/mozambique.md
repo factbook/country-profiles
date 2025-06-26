@@ -308,7 +308,7 @@ _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
 _etymology_: named after the Maputo River, which drains into Maputo Bay south of the city; the river is said to be named after the son of Muagobe, a local chief in the 18th century<br>
 
 **Administrative divisions**<br>
-10 provinces (provincias, singular - provincia), 1 city (cidade)*; Cabo Delgado, Gaza, Inhambane, Manica, Maputo, Cidade de Maputo*, Nampula, Niassa, Sofala, Tete, Zambezia<br>
+10 provinces (<em>provincias</em>, singular - <em>provincia</em>), 1 city (<em>cidade</em>)*; Cabo Delgado, Gaza, Inhambane, Manica, Maputo, Cidade de Maputo*, Nampula, Niassa, Sofala, Tete, Zambezia<br>
 
 **Legal system**<br>
 mixed system of Portuguese civil law and customary law<br>
@@ -430,12 +430,6 @@ $20.954 billion (2023 est.)<br>
 10.3% (2022 est.)<br>
 6.4% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: CCC (2019)<br>
-_Moody's rating_: Caa2 (2019)<br>
-_Standard & Poors rating_: CCC+ (2019)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 25.9% (2023 est.)<br>

@@ -236,8 +236,8 @@ _time zone note_: Greenland has three time zones<br>
 _etymology_: <em>nuuk </em>is the Inuit word for "cape;" until 1979, the name was Godthab, from the Danish words meaning "good hope"<br>
 
 **Administrative divisions**<br>
-5 municipalities (kommuner, singular kommune); Avannaata, Kujalleq, Qeqertalik, Qeqqata, Sermersooq<br>
-<strong>note:</strong> Northeast Greenland National Park (Kalaallit Nunaanni Nuna Eqqissisimatitaq) and the Pituffik Space Base (formerly known as Thule Air Base) in northwest Greenland are two unincorporated areas; the national park's 972,000 sq km - about 46% of the island - makes it the largest national park in the world and also the most northerly<br>
+5 municipalities (<em>kommuner</em>, singular - <em>kommune</em>); Avannaata, Kujalleq, Qeqertalik, Qeqqata, Sermersooq<br>
+<strong>note:</strong> Northeast Greenland National Park (Kalaallit Nunaanni Nuna Eqqissisimatitaq) and the Pituffik Space Base (formerly known as Thule Air Base) in northwest Greenland are two unincorporated areas; the national park's 972,000 sq km -- about 46% of the island -- makes it the largest national park in the world and also the most northerly<br>
 
 **Legal system**<br>
 Denmark's laws apply in some areas, and Greenland's law for the remainder<br>

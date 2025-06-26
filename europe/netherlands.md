@@ -71,7 +71,7 @@ Rijn (Rhine) river mouth (shared with Switzerland [s], Germany, and France) - 1,
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
 
 **Population distribution**<br>
-an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, the Hague, and Utrecht, is the most densely populated region; the north tends to be less dense, though sizeable communities can be found throughout the entire country<br>
+an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, the Hague, and Utrecht, is the most densely populated region; the north tends to be less dense, but sizeable communities can be found throughout the entire country<br>
 
 **Natural hazards**<br>
 <p>flooding</p> <p><strong>volcanism:</strong> Mount Scenery (887 m), located on the island of Saba in the Caribbean, last erupted in 1640; Round Hill (601 m), a dormant volcano also known as The Quill, is located on the island of St. Eustatius in the Caribbean; these islands are at the northern end of the volcanic island arc of the Lesser Antilles that extends south to Grenada</p><br>
@@ -130,7 +130,7 @@ _female_: 43.5 years<br>
 3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, the Hague, and Utrecht, is the most densely populated region; the north tends to be less dense, though sizeable communities can be found throughout the entire country<br>
+an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, the Hague, and Utrecht, is the most densely populated region; the north tends to be less dense, but sizeable communities can be found throughout the entire country<br>
 
 **Urbanization**<br>
 _urban population_: 93.2% of total population (2023)<br>
@@ -305,8 +305,8 @@ _etymology_: the name is derived from the Dutch name of the local river, the Ams
 <strong>note:</strong> The Hague is the seat of government<br>
 
 **Administrative divisions**<br>
-12 provinces (provincies, singular - provincie), 3 public entities* (openbare lichamen, singular - openbaar lichaam (Dutch); entidatnan publiko, singular - entidat publiko (Papiamento)); Bonaire*, Drenthe, Flevoland, Fryslan (Friesland), Gelderland, Groningen, Limburg, Noord-Brabant (North Brabant), Noord-Holland (North Holland), Overijssel, Saba*, Sint Eustatius*, Utrecht, Zeeland (Zealand), Zuid-Holland (South Holland)<br>
-<strong>note 1:</strong> the Netherlands is one of four constituent countries of the Kingdom of the Netherlands; the other three, Aruba, Curacao, and Sint Maarten, are all islands in the Caribbean; while all four parts are considered equal partners, in practice, most of the Kingdom's affairs are administered by the Netherlands, which makes up about 98% of the Kingdom's total land area and population <br><br><strong>note 2:</strong> although Bonaire, Saba, and Sint Eustatius are officially incorporated into the country of the Netherlands under the broad designation of "public entities," Dutch Government sources regularly apply to them the more descriptive term of "special municipalities"; Bonaire, Saba, and Sint Eustatius are collectively referred to as the Caribbean Netherlands<br>
+12 provinces (<em>provincies</em>, singular - <em>provincie</em>), 3 public entities* (<em>openbare lichamen</em>, singular - <em>openbaar lichaam</em> (Dutch); <em>entidatnan publiko</em>, singular - <em>entidat publiko</em> (Papiamento)); Bonaire*, Drenthe, Flevoland, Fryslan (Friesland), Gelderland, Groningen, Limburg, Noord-Brabant (North Brabant), Noord-Holland (North Holland), Overijssel, Saba*, Sint Eustatius*, Utrecht, Zeeland (Zealand), Zuid-Holland (South Holland)<br>
+<strong>note 1:</strong> the Netherlands is one of four constituent countries of the Kingdom of the Netherlands; the other three, Aruba, Curacao, and Sint Maarten, are Caribbean islands; all four are considered equal partners, but the Netherlands makes up about 98% of the Kingdom's total land area and population and administers most of the Kingdom's affairs  <br><br><strong>note 2:</strong> although Bonaire, Saba, and Sint Eustatius are officially incorporated into the country of the Netherlands under the broad designation of "public entities," Dutch government sources often call them "special municipalities;" Bonaire, Saba, and Sint Eustatius are collectively referred to as the Caribbean Netherlands<br>
 
 **Legal system**<br>
 civil law system based on the French system; constitution does not permit judicial review of acts of the States General<br>
@@ -443,12 +443,6 @@ $1.154 trillion (2023 est.)<br>
 3.8% (2023 est.)<br>
 10% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: AAA (1994)<br>
-_Moody's rating_: Aaa (1986)<br>
-_Standard & Poors rating_: AAA (2015)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.7% (2023 est.)<br>

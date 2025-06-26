@@ -70,7 +70,7 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basi
 Lullemeden-Irhazer Aquifer System, Murzuk-Djado Basin, North Western Sahara Aquifer, Taoudeni-Tanezrouft Basin<br>
 
 **Population distribution**<br>
-the vast majority of the populace is found in the extreme northern part of the country along the Mediterranean Coast as shown in this population distribution map<br>
+the vast majority of the populace is found in the extreme northern part of the country along the Mediterranean Coast, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 mountainous areas subject to severe earthquakes; mudslides and floods in rainy season; droughts<br>
@@ -129,7 +129,7 @@ _female_: 29.4 years<br>
 -0.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the vast majority of the populace is found in the extreme northern part of the country along the Mediterranean Coast as shown in this population distribution map<br>
+the vast majority of the populace is found in the extreme northern part of the country along the Mediterranean Coast, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 75.3% of total population (2023)<br>
@@ -294,7 +294,7 @@ _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
 _etymology_: name derives from the Arabic <em>al-jazair</em>, meaning "the islands," and refers to the four islands formerly off the coast of the capital but joined to the mainland since 1525<br>
 
 **Administrative divisions**<br>
-58 provinces (wilayas, singular - wilaya); Adrar, Ain Defla, Ain Temouchent, Alger (Algiers), Annaba, Batna, Bechar, Bejaia, Beni Abbes, Biskra, Blida, Bordj Badji Mokhtar, Bordj Bou Arreridj, Bouira, Boumerdes, Chlef, Constantine, Djanet, Djelfa, El Bayadh, El Meghaier, El Meniaa, El Oued, El Tarf, Ghardaia, Guelma, Illizi, In Guezzam, In Salah, Jijel, Khenchela, Laghouat, Mascara, Medea, Mila, Mostaganem, M'Sila, Naama, Oran, Ouargla, Ouled Djellal, Oum el Bouaghi, Relizane, Saida, Setif, Sidi Bel Abbes, Skikda, Souk Ahras, Tamanrasset, Tebessa, Tiaret, Timimoun, Tindouf, Tipaza, Tissemsilt, Tizi Ouzou, Tlemcen, Touggourt<br>
+58 provinces (<em>wilayas</em>, singular - <em>wilaya</em>); Adrar, Ain Defla, Ain Temouchent, Alger (Algiers), Annaba, Batna, Bechar, Bejaia, Beni Abbes, Biskra, Blida, Bordj Badji Mokhtar, Bordj Bou Arreridj, Bouira, Boumerdes, Chlef, Constantine, Djanet, Djelfa, El Bayadh, El Meghaier, El Meniaa, El Oued, El Tarf, Ghardaia, Guelma, Illizi, In Guezzam, In Salah, Jijel, Khenchela, Laghouat, Mascara, Medea, Mila, Mostaganem, M'Sila, Naama, Oran, Ouargla, Ouled Djellal, Oum el Bouaghi, Relizane, Saida, Setif, Sidi Bel Abbes, Skikda, Souk Ahras, Tamanrasset, Tebessa, Tiaret, Timimoun, Tindouf, Tipaza, Tissemsilt, Tizi Ouzou, Tlemcen, Touggourt<br>
 
 **Legal system**<br>
 mixed system of French civil law and Islamic law; judicial review of legislative acts in ad hoc Constitutional Council composed of various public officials including several Supreme Court justices<br>

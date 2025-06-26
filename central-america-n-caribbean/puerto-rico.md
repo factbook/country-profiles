@@ -62,7 +62,7 @@ _other_: 24.9% (2022 est.)<br>
 220 sq km (2012)<br>
 
 **Population distribution**<br>
-population clusters tend to be found along the coast, the largest of these is found in and around San Juan; an exception to this is a sizeable population located in the interior of the island immediately south of the capital around Caguas; most of the interior, particularly in the western half of the island, is dominated by the Cordillera Central mountains, where population density is low<br>
+population clusters tend to be found along the coast, with the largest of these in and around San Juan; an exception is a sizeable population located in the interior of the island immediately south of the capital around Caguas; most of the interior, particularly in the western half of the island, is dominated by the Cordillera Central mountains, where population density is low<br>
 
 **Natural hazards**<br>
 periodic droughts; hurricanes<br>
@@ -121,7 +121,7 @@ _female_: 47.8 years<br>
 -9.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-population clusters tend to be found along the coast, the largest of these is found in and around San Juan; an exception to this is a sizeable population located in the interior of the island immediately south of the capital around Caguas; most of the interior, particularly in the western half of the island, is dominated by the Cordillera Central mountains, where population density is low<br>
+population clusters tend to be found along the coast, with the largest of these in and around San Juan; an exception is a sizeable population located in the interior of the island immediately south of the capital around Caguas; most of the interior, particularly in the western half of the island, is dominated by the Cordillera Central mountains, where population density is low<br>
 
 **Urbanization**<br>
 _urban population_: 93.6% of total population (2023)<br>
@@ -248,7 +248,7 @@ _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<
 _etymology_: Spanish explorer Juan PONCE de Leon named the city in 1511 both for himself and for his name saint, Saint John<br>
 
 **Administrative divisions**<br>
-none (territory of the US); there are no first-order administrative divisions as defined by the US Government, but there are 78 municipalities (municipios, singular - municipio) at the second order; Adjuntas, Aguada, Aguadilla, Aguas Buenas, Aibonito, Anasco, Arecibo, Arroyo, Barceloneta, Barranquitas, Bayamon, Cabo Rojo, Caguas, Camuy, Canovanas, Carolina, Catano, Cayey, Ceiba, Ciales, Cidra, Coamo, Comerio, Corozal, Culebra, Dorado, Fajardo, Florida, Guanica, Guayama, Guayanilla, Guaynabo, Gurabo, Hatillo, Hormigueros, Humacao, Isabela, Jayuya, Juana Diaz, Juncos, Lajas, Lares, Las Marias, Las Piedras, Loiza, Luquillo, Manati, Maricao, Maunabo, Mayaguez, Moca, Morovis, Naguabo, Naranjito, Orocovis, Patillas, Penuelas, Ponce, Quebradillas, Rincon, Rio Grande, Sabana Grande, Salinas, San German, San Juan, San Lorenzo, San Sebastian, Santa Isabel, Toa Alta, Toa Baja, Trujillo Alto, Utuado, Vega Alta, Vega Baja, Vieques, Villalba, Yabucoa, Yauco<br>
+none (territory of the US); there are no first-order administrative divisions as defined by the US government, but 78 municipalities (<em>municipios</em>, singular - <em>municipio</em>) are considered second-order: Adjuntas, Aguada, Aguadilla, Aguas Buenas, Aibonito, Anasco, Arecibo, Arroyo, Barceloneta, Barranquitas, Bayamon, Cabo Rojo, Caguas, Camuy, Canovanas, Carolina, Catano, Cayey, Ceiba, Ciales, Cidra, Coamo, Comerio, Corozal, Culebra, Dorado, Fajardo, Florida, Guanica, Guayama, Guayanilla, Guaynabo, Gurabo, Hatillo, Hormigueros, Humacao, Isabela, Jayuya, Juana Diaz, Juncos, Lajas, Lares, Las Marias, Las Piedras, Loiza, Luquillo, Manati, Maricao, Maunabo, Mayaguez, Moca, Morovis, Naguabo, Naranjito, Orocovis, Patillas, Penuelas, Ponce, Quebradillas, Rincon, Rio Grande, Sabana Grande, Salinas, San German, San Juan, San Lorenzo, San Sebastian, Santa Isabel, Toa Alta, Toa Baja, Trujillo Alto, Utuado, Vega Alta, Vega Baja, Vieques, Villalba, Yabucoa, Yauco<br>
 
 **Legal system**<br>
 civil law system based on the Spanish civil code, within the framework of the US federal system<br>
@@ -370,10 +370,6 @@ $117.902 billion (2023 est.)<br>
 **Inflation rate (consumer prices)**<br>
 1.8% (2017 est.)<br>
 -0.3% (2016 est.)<br>
-
-**Credit ratings**<br>
-_Standard & Poors rating_: D (2015)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.7% (2023 est.)<br>

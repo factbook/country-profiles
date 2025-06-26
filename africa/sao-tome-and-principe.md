@@ -62,7 +62,7 @@ _other_: 2.4% (2022 est.)<br>
 100 sq km (2012)<br>
 
 **Population distribution**<br>
-Sao Tome, the capital city, has roughly a quarter of the nation's population; Santo Antonio is the largest town on Principe; the northern areas of both islands have the highest population densities as shown in this population distribution map<br>
+Sao Tome, the capital city, has roughly a quarter of the nation's population; Santo Antonio is the largest town on Principe; the northern areas of both islands have the highest population densities, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 flooding<br>
@@ -120,7 +120,7 @@ _female_: 21.2 years<br>
 -6.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-Sao Tome, the capital city, has roughly a quarter of the nation's population; Santo Antonio is the largest town on Principe; the northern areas of both islands have the highest population densities as shown in this population distribution map<br>
+Sao Tome, the capital city, has roughly a quarter of the nation's population; Santo Antonio is the largest town on Principe; the northern areas of both islands have the highest population densities, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 76.4% of total population (2023)<br>
@@ -287,7 +287,7 @@ _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
 _etymology_: named after Saint THOMAS the Apostle by the Portuguese, who discovered the island on 21 December 1470 (or 1471), the saint's feast day<br>
 
 **Administrative divisions**<br>
-6 districts (distritos, singular - distrito), 1 autonomous region* (regiao autonoma); Agua Grande, Cantagalo, Caue, Lemba, Lobata, Me-Zochi, Principe*<br>
+6 districts (<em>distritos</em>, singular - <em>distrito</em>), 1 autonomous region* (<em>regiao autonoma</em>); Agua Grande, Cantagalo, Caue, Lemba, Lobata, Me-Zochi, Principe*<br>
 
 **Legal system**<br>
 mixed system of civil law based on the Portuguese model and customary law<br>

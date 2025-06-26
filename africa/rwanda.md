@@ -71,7 +71,7 @@ Nile river source (shared with Tanzania, Uganda, South Sudan, Sudan, and Egypt [
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Population distribution**<br>
-one of Africa's most densely populated countries; large concentrations tend to be in the central regions and along the shore of Lake Kivu in the west as shown in this population distribution map<br>
+one of Africa's most densely populated countries; large concentrations tend to be in the central regions and along the shore of Lake Kivu in the west, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 <p>periodic droughts; the volcanic Virunga Mountains are in the northwest along the border with Democratic Republic of the Congo</p><p><strong>volcanism:</strong> Visoke (3,711 m), located on the border with the Democratic Republic of the Congo, is the country's only historically active volcano</p><br>
@@ -129,7 +129,7 @@ _female_: 21.5 years<br>
 -3.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-one of Africa's most densely populated countries; large concentrations tend to be in the central regions and along the shore of Lake Kivu in the west as shown in this population distribution map<br>
+one of Africa's most densely populated countries; large concentrations tend to be in the central regions and along the shore of Lake Kivu in the west, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 17.9% of total population (2023)<br>
@@ -306,7 +306,7 @@ _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the city takes its name from nearby Mount Kigali; the name is composed of the Bantu prefix <em>ki-</em> and the Rwandan word <em>gali</em>, meaning "broad," which is probably meant to describe the terrain<br>
 
 **Administrative divisions**<br>
-4 provinces (in French - provinces, singular - province; in Kinyarwanda - intara for singular and plural) and 1 city* (in French - ville; in Kinyarwanda - umujyi); Est (Eastern), Kigali*, Nord (Northern), Ouest (Western), Sud (Southern)<br>
+4 provinces (<em>provinces</em>, singular - <em>province </em>(French); <em>intara </em>for singular and plural (Kinyarwanda)) and 1 city* (<em>ville </em>(French); <em>umujyi </em>(Kinyarwanda)); Est (Eastern), Kigali*, Nord (Northern), Ouest (Western), Sud (Southern)<br>
 
 **Legal system**<br>
 mixed system of civil law, based on German and Belgian models, and customary law; Supreme Court reviews legislative acts<br>

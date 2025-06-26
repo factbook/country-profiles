@@ -70,7 +70,7 @@ _other_: 28.7% (2022 est.)<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
 
 **Population distribution**<br>
-nearly half of the population is concentrated in the interior in the Andean intermontane basins and valleys, with large concentrations also found along the western coastal strip; the rainforests of the east remain sparsely populated<br>
+nearly half of the population is concentrated in the interior, with large concentrations also found along the western coastal strip; the rainforests of the east remain sparsely populated<br>
 
 **Natural hazards**<br>
 <p>frequent earthquakes; landslides; volcanic activity; floods; periodic droughts</p><p><strong>volcanism:</strong> volcanic activity concentrated along the Andes Mountains; Sangay (5,230 m), which erupted in 2010, is mainland Ecuador's most active volcano; other historically active volcanoes in the Andes include Antisana, Cayambe, Chacana, Cotopaxi, Guagua Pichincha, Reventador, Sumaco, and Tungurahua; Fernandina (1,476 m), a shield volcano that last erupted in 2009, is the most active of the many Galapagos volcanoes; other historically active Galapagos volcanoes include Wolf, Sierra Negra, Cerro Azul, Pinta, Marchena, and Santiago</p><br>
@@ -129,7 +129,7 @@ _female_: 28.9 years<br>
 -1.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-nearly half of the population is concentrated in the interior in the Andean intermontane basins and valleys, with large concentrations also found along the western coastal strip; the rainforests of the east remain sparsely populated<br>
+nearly half of the population is concentrated in the interior, with large concentrations also found along the western coastal strip; the rainforests of the east remain sparsely populated<br>
 
 **Urbanization**<br>
 _urban population_: 64.8% of total population (2023)<br>
@@ -303,7 +303,7 @@ _time zone note_: Ecuador has two time zones, including the Galapagos Islands (U
 _etymology_: named after the Quitu, a Pre-Columbian people who lived in the area; the meaning of their name is unknown<br>
 
 **Administrative divisions**<br>
-24 provinces (provincias, singular - provincia); Azuay, Bolivar, Canar, Carchi, Chimborazo, Cotopaxi, El Oro, Esmeraldas, Galapagos, Guayas, Imbabura, Loja, Los Rios, Manabi, Morona Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena, Santo Domingo de los Tsachilas, Sucumbios, Tungurahua, Zamora Chinchipe<br>
+24 provinces (<em>provincias</em>, singular - <em>provincia</em>); Azuay, Bolivar, Canar, Carchi, Chimborazo, Cotopaxi, El Oro, Esmeraldas, Galapagos, Guayas, Imbabura, Loja, Los Rios, Manabi, Morona Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena, Santo Domingo de los Tsachilas, Sucumbios, Tungurahua, Zamora Chinchipe<br>
 
 **Legal system**<br>
 civil law based on the Chilean civil code with modifications; traditional law in ethnic communities<br>
@@ -429,12 +429,6 @@ $118.845 billion (2023 est.)<br>
 2.2% (2023 est.)<br>
 3.5% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: B- (2020)<br>
-_Moody's rating_: Caa3 (2020)<br>
-_Standard & Poors rating_: B- (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.7% (2023 est.)<br>
@@ -681,7 +675,7 @@ the military's inventory includes a diverse mix of older and smaller quantities 
 <strong>note: </strong>in 2022, women made up an estimated 3-4% of the military<br>
 
 **Military - note**<br>
-the military is responsible for preserving Ecuador’s national sovereignty and defending the integrity of the state; it also has some domestic security responsibilities and may complement police operations in maintaining public order if required; the military shares responsibility for border enforcement with the National Police; it participates in bilateral and multinational training exercises and has sent troops on UN peacekeeping missions; the military has defense ties to regional countries, such as Chile, Colombia, and Peru, and security ties with the US have been revived in recent years<br><br>border conflicts with Peru dominated the military’s focus until the late 1990s and border security remains a priority, but in more recent years, security challenges have included counterinsurgency and counternarcotics operations, particularly in the northern border area where violence and other criminal activity related to terrorism, insurgency, and narco-trafficking in Colombia, as well as refugees from Venezuela, have spilled over the border; the military has established a joint service task force for counterinsurgency and counternarcotics operations and boosted troop deployments along those borders; other missions include countering illegal mining, smuggling, and maritime piracy; since 2012, the Ecuadorian Government has expanded the military’s role in general public security and domestic crime operations, in part due to rising violence, police corruption, and police ineffectiveness <br><br>the military ruled the country from 1963-1966 and 1972-1979, and supported a dictatorship in 1970-1972; during the 1980s, the military remained loyal to the civilian government, but civilian-military relations were at times tenuous, and the military had considerable autonomy from civilian oversight; it was involved in coup attempts in 2000 and 2010 (2025)<br>
+the military is responsible for preserving Ecuador’s national sovereignty and defending the integrity of the state; it also has some domestic security responsibilities and may complement police operations in maintaining public order if required; the military shares responsibility for border enforcement with the National Police; it participates in bilateral and multinational training exercises and has sent troops on UN peacekeeping missions; the military has defense ties to regional countries, such as Chile, Colombia, and Peru<br><br>border conflicts with Peru dominated the military’s focus until the late 1990s and border security remains a priority, but in more recent years, security challenges have included counterinsurgency and counternarcotics operations, particularly in the northern border area where violence and other criminal activity related to terrorism, insurgency, and narco-trafficking in Colombia, as well as refugees from Venezuela, have spilled over the border; the military has established a joint service task force for counterinsurgency and counternarcotics operations and boosted troop deployments along those borders; other missions include countering illegal mining, smuggling, and maritime piracy; since 2012, the Ecuadorian Government has expanded the military’s role in general public security and domestic crime operations, in part due to rising violence, police corruption, and police ineffectiveness; in 2024, Ecuador passed a constitutional amendment formally authorizing the military to participate in complementary security roles such as supporting law enforcement in high-risk areas, conducting joint operations against organized crime, and providing logistical assistance in maintaining public order <br><br>the military ruled the country from 1963-1966 and 1972-1979, and supported a dictatorship in 1970-1972; during the 1980s, the military remained loyal to the civilian government, but civilian-military relations were at times tenuous, and the military had considerable autonomy from civilian oversight; it was involved in coup attempts in 2000 and 2010 (2025)<br>
 
 ## Space
 

@@ -289,7 +289,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the origin of the name is uncertain; according to tradition, the city is named after Athena, the Greek goddess of wisdom, but the name is probably pre-Hellenic&nbsp;<br>
 
 **Administrative divisions**<br>
-13 regions (perifereies, singular - perifereia) and 1 autonomous monastic state* (aftonomi monastiki politeia); Agion Oros* (Mount Athos), Anatoliki Makedonia kai Thraki (East Macedonia and Thrace), Attiki (Attica), Dytiki Ellada (West Greece), Dytiki Makedonia (West Macedonia), Ionia Nisia (Ionian Islands), Ipeiros (Epirus), Kentriki Makedonia (Central Macedonia), Kriti (Crete), Notio Aigaio (South Aegean), Peloponnisos (Peloponnese), Sterea Ellada (Central Greece), Thessalia (Thessaly), Voreio Aigaio (North Aegean)<br>
+13 regions (<em>perifereies</em>, singular - <em>perifereia</em>) and 1 autonomous monastic state* (<em>aftonomi monastiki politeia</em>); Agion Oros* (Mount Athos), Anatoliki Makedonia kai Thraki (East Macedonia and Thrace), Attiki (Attica), Dytiki Ellada (West Greece), Dytiki Makedonia (West Macedonia), Ionia Nisia (Ionian Islands), Ipeiros (Epirus), Kentriki Makedonia (Central Macedonia), Kriti (Crete), Notio Aigaio (South Aegean), Peloponnisos (Peloponnese), Sterea Ellada (Central Greece), Thessalia (Thessaly), Voreio Aigaio (North Aegean)<br>
 
 **Legal system**<br>
 civil legal system based on Roman law<br>
@@ -417,12 +417,6 @@ $243.498 billion (2023 est.)<br>
 3.5% (2023 est.)<br>
 9.6% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BB (2020)<br>
-_Moody's rating_: Ba3 (2020)<br>
-_Standard & Poors rating_: BB- (2019)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.3% (2023 est.)<br>

@@ -74,7 +74,7 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
 Amazon Basin<br>
 
 **Population distribution**<br>
-the majority of people live in the north and west where agricultural opportunities and natural resources are found; the vast grasslands of the llanos to the south and east, which make up approximately 60% of the country, are sparsely populated<br>
+the majority of people live in the north and west, where agricultural opportunities and natural resources are found; the vast grasslands of the llanos to the south and east, which make up approximately 60% of the country, are sparsely populated<br>
 
 **Natural hazards**<br>
 <p>highlands subject to volcanic eruptions; occasional earthquakes; periodic droughts</p><p><strong>volcanism:</strong> Galeras (4,276 m) is one of Colombia's most active volcanoes, having erupted in 2009 and 2010 causing major evacuations; it has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Nevado del Ruiz (5,321 m), 129 km (80 mi) west of Bogota, erupted in 1985 producing lahars (mudflows) that killed 23,000 people; the volcano last erupted in 1991; additionally, after 500 years of dormancy, Nevado del Huila reawakened in 2007 and has experienced frequent eruptions since then; other historically active volcanoes include Cumbal, Dona Juana, Nevado del Tolima, and Purace</p><br>
@@ -132,7 +132,7 @@ _female_: 34 years<br>
 -2.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the majority of people live in the north and west where agricultural opportunities and natural resources are found; the vast grasslands of the llanos to the south and east, which make up approximately 60% of the country, are sparsely populated<br>
+the majority of people live in the north and west, where agricultural opportunities and natural resources are found; the vast grasslands of the llanos to the south and east, which make up approximately 60% of the country, are sparsely populated<br>
 
 **Urbanization**<br>
 _urban population_: 82.4% of total population (2023)<br>
@@ -309,7 +309,7 @@ _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 _etymology_: originally named Santa Fe de Bacat&aacute; in 1538, after the Chibcha people's nearby settlement of Bacat&aacute;; the name was later corrupted to Bogot&aacute;<br>
 
 **Administrative divisions**<br>
-32 departments (departamentos, singular - departamento) and 1 capital district* (distrito capital); Amazonas, Antioquia, Arauca, Atlantico, Bogota*, Bolivar, Boyaca, Caldas, Caqueta, Casanare, Cauca, Cesar, Choco, Cordoba, Cundinamarca, Guainia, Guaviare, Huila, La Guajira, Magdalena, Meta, Narino, Norte de Santander, Putumayo, Quindio, Risaralda, Archipielago de San Andres, Providencia y Santa Catalina (colloquially San Andres y Providencia), Santander, Sucre, Tolima, Valle del Cauca, Vaupes, Vichada<br>
+32 departments (<em>departamentos</em>, singular - <em>departamento</em>) and 1 capital district* (<em>distrito capital</em>); Amazonas, Antioquia, Arauca, Atlántico, Bogota*, Bolivar, Boyacá, Caldas, Caqueta, Casanare, Cauca, Cesar, Choco, Cordoba, Cundinamarca, Guainía, Guaviare, Huila, La Guajira, Magdalena, Meta, Nariño, Norte de Santander, Putumayo, Quindío, Risaralda, Archipielago de San Andres, Providencia y Santa Catalina (colloquially San Andres y Providencia), Santander, Sucre, Tolima, Valle del Cauca, Vaupes, Vichada<br>
 
 **Legal system**<br>
 civil law system influenced by the Spanish and French civil codes<br>

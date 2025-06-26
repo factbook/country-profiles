@@ -300,7 +300,7 @@ _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<
 _etymology_: named after Saint Domingo de GUZMAN (1170-1221), founder of the Dominican Order; the city's full name was originally Santo Domingo de Guzman<br>
 
 **Administrative divisions**<br>
-31 provinces (provincias, singular - provincia), 1 district* (distrito); Azua, Baoruco, Barahona, Dajab&oacute;n, Distrito Nacional*, Duarte, El&iacute;as Pi&ntilde;a, El Seibo, Espaillat, Hato Mayor, Hermanas Mirabal, Independencia, La Altagracia, La Romana, La Vega, Mar&iacute;a Trinidad S&aacute;nchez, Monse&ntilde;or Nouel, Monte Cristi, Monte Plata, Pedernales, Peravia, Puerto Plata, Saman&aacute;, S&aacute;nchez Ram&iacute;rez, San Crist&oacute;bal, San Jos&eacute; de Ocoa, San Juan, San Pedro de Macor&iacute;s, Santiago, Santiago Rodr&iacute;guez, Santo Domingo, Valverde<br>
+31 provinces (<em>provincias</em>, singular - <em>provincia</em>), 1 district* (<em>distrito</em>); Azua, Baoruco, Barahona, Dajabón, Distrito Nacional*, Duarte, Elías Piña, El Seibo, Espaillat, Hato Mayor, Hermanas Mirabal, Independencia, La Altagracia, La Romana, La Vega, María Trinidad Sánchez, Monseñor Nouel, Monte Cristi, Monte Plata, Pedernales, Peravia, Puerto Plata, Samaná, Sánchez Ramírez, San Cristóbal, San José de Ocoa, San Juan, San Pedro de Macorís, Santiago, Santiago Rodríguez, Santo Domingo, Valverde<br>
 
 **Legal system**<br>
 civil law system based on the French civil code; Criminal Procedures Code modified in 2004 to include important elements of an accusatory system<br>
@@ -437,12 +437,6 @@ $121.444 billion (2023 est.)<br>
 4.8% (2023 est.)<br>
 8.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BB- (2016)<br>
-_Moody's rating_: Ba3 (2017)<br>
-_Standard & Poors rating_: BB- (2015)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.4% (2023 est.)<br>
@@ -690,7 +684,7 @@ the military's equipment inventory comes largely from the US, with smaller quant
 <strong>note:</strong> as of 2023, women made up approximately 18% of the active duty military<br>
 
 **Military - note**<br>
-the military is responsible for defending the independence, integrity, and sovereignty of the Dominican Republic; it also has an internal security role, which includes assisting with airport, border, port, tourism, and urban security, supporting the police in maintaining or restoring public order, countering transnational crime, and providing disaster or emergency relief/management; a key area of focus is securing the country&rsquo;s 217-mile (350-kilometer) long border with Haiti; the Army in recent years, for example, has assigned as many as 12,000 troops to assist with security along the Haitian border; these forces complement the personnel of the Border Security Corps permanently deployed along the border; the Air Force and Navy also provide support to the Haitian border mission; the Army has a brigade dedicated to managing and providing relief during natural disasters; the military also contributes personnel to the National Drug Control Directorate, and both the Air Force and Navy devote assets to detecting and interdicting narcotics trafficking; the Navy conducts regular bilateral maritime interdiction exercises with the US Navy (2025)<br>
+the military is responsible for defending the independence, integrity, and sovereignty of the Dominican Republic; it also has an internal security role, which includes assisting with airport, border, port, tourism, and urban security, supporting the police in maintaining or restoring public order, countering transnational crime, and providing disaster or emergency relief/management; a key area of focus is securing the country&rsquo;s 217-mile (350-kilometer) long border with Haiti, where the Army in recent years has assigned thousands of troops to assist with security; these forces complement the personnel of the Border Security Corps permanently deployed along the border; the Air Force and Navy also provide support to the Haitian border mission; the Army has a brigade dedicated to managing and providing relief during natural disasters; the military also contributes personnel to the National Drug Control Directorate, and both the Air Force and Navy devote assets to detecting and interdicting narcotics trafficking; the Navy conducts regular bilateral maritime interdiction exercises with the US Navy (2025)<br>
 
 ## Transnational Issues
 

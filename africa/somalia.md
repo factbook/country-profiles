@@ -66,7 +66,7 @@ _other_: 20.4% (2022 est.)<br>
 Ogaden-Juba Basin<br>
 
 **Population distribution**<br>
-distribution varies greatly throughout the country; least densely populated areas are in the northeast and central regions, as well as areas along the Kenyan border; most populated areas are in and around the cities of Mogadishu, Marka, Boorama, Hargeysa, and Baidoa as shown on this population distribution map<br>
+distribution varies greatly throughout the country; least densely populated areas are in the northeast and central regions, as well as areas along the Kenyan border; most populated areas are in and around the cities of Mogadishu, Marka, Boorama, Hargeysa, and Baidoa, as shown on this population distribution map<br>
 
 **Natural hazards**<br>
 recurring droughts; frequent dust storms over eastern plains in summer; floods during rainy season<br>
@@ -124,7 +124,7 @@ _female_: 18.9 years<br>
 -0.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-distribution varies greatly throughout the country; least densely populated areas are in the northeast and central regions, as well as areas along the Kenyan border; most populated areas are in and around the cities of Mogadishu, Marka, Boorama, Hargeysa, and Baidoa as shown on this population distribution map<br>
+distribution varies greatly throughout the country; least densely populated areas are in the northeast and central regions, as well as areas along the Kenyan border; most populated areas are in and around the cities of Mogadishu, Marka, Boorama, Hargeysa, and Baidoa, as shown on this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 47.9% of total population (2023)<br>
@@ -272,7 +272,7 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name is probably derived from the Arabic word <em>mukaddas</em>, meaning "holy"<br>
 
 **Administrative divisions**<br>
-18 regions (plural - gobollo, singular - gobol); Awdal, Bakool, Banaadir, Bari, Bay, Galguduud, Gedo, Hiiraan, Jubbada Dhexe (Middle Jubba), Jubbada Hoose (Lower Jubba), Mudug, Nugaal, Sanaag, Shabeellaha Dhexe (Middle Shabeelle), Shabeellaha Hoose (Lower Shabeelle), Sool, Togdheer, Woqooyi Galbeed<br>
+18 regions (<em>gobollo</em>, singular - <em>gobol</em>); Awdal, Bakool, Banaadir, Bari, Bay, Galguduud, Gedo, Hiiraan, Jubbada Dhexe (Middle Jubba), Jubbada Hoose (Lower Jubba), Mudug, Nugaal, Sanaag, Shabeellaha Dhexe (Middle Shabeelle), Shabeellaha Hoose (Lower Shabeelle), Sool, Togdheer, Woqooyi Galbeed<br>
 
 **Legal system**<br>
 mixed system of civil law, Islamic (sharia) law, and customary law (referred to as Xeer)<br>

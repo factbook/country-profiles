@@ -63,7 +63,7 @@ _other_: 15.3% (2022 est.)<br>
 350 sq km (2012)<br>
 
 **Population distribution**<br>
-most of the population concentrated in the western third of the country, particularly around Dili<br>
+most of the population is concentrated in the western third of the country, particularly around Dili<br>
 
 **Natural hazards**<br>
 floods and landslides are common; earthquakes; tsunamis; tropical cyclones<br>
@@ -121,7 +121,7 @@ _female_: 21.3 years<br>
 -3.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most of the population concentrated in the western third of the country, particularly around Dili<br>
+most of the population is concentrated in the western third of the country, particularly around Dili<br>
 
 **Urbanization**<br>
 _urban population_: 32.5% of total population (2023)<br>
@@ -284,8 +284,8 @@ _geographic coordinates_: 8 35 S, 125 36 E<br>
 _time difference_: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)<br>
 
 **Administrative divisions**<br>
-12 municipalities (municipios, singular municipio) and 1 special adminstrative region* (regiao administrativa especial); Aileu, Ainaro, Baucau, Bobonaro (Maliana), Covalima (Suai), Dili, Ermera (Gleno), Lautem (Lospalos), Liquica, Manatuto, Manufahi (Same), Oe-Cusse Ambeno* (Pante Macassar), Viqueque<br>
-<strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)<br>
+12 municipalities (<em>municipios</em>, singular - <em>municipio</em>) and 1 special adminstrative region* (<em>regiao administrativa especial</em>); Aileu, Ainaro, Baucau, Bobonaro (Maliana), Covalima (Suai), Dili, Ermera (Gleno), Lautem (Lospalos), Liquica, Manatuto, Manufahi (Same), Oe-Cusse Ambeno* (Pante Macassar), Viqueque<br>
+<strong>note:</strong> administrative divisions have the same names as their administrative centers; exceptions show the administrative center name in parentheses<br>
 
 **Legal system**<br>
 civil law system based on the Portuguese model<br>

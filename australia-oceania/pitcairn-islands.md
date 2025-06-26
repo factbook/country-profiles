@@ -59,7 +59,7 @@ _other_: 25.5% (2022 est.)<br>
 0 sq km (2022)<br>
 
 **Population distribution**<br>
-less than 50 inhabitants on Pitcairn Island, most reside near the village of Adamstown<br>
+a handful of inhabitants, most residing near the village of Adamstown<br>
 
 **Natural hazards**<br>
 occasional tropical cyclones (especially November to March), but generally only heavy tropical storms; landslides<br>
@@ -89,7 +89,7 @@ Seventh Day Adventist 100%<br>
 0% (2014 est.)<br>
 
 **Population distribution**<br>
-less than 50 inhabitants on Pitcairn Island, most reside near the village of Adamstown<br>
+a handful of inhabitants, most residing near the village of Adamstown<br>
 
 ## Environment
 
@@ -125,12 +125,6 @@ _etymology_: named after John ADAMS (1767&ndash;1829), the last survivor of the 
 
 **Administrative divisions**<br>
 none (overseas territory of the UK)<br>
-
-**Independence**<br>
-none (overseas territory of the UK)<br>
-
-**National holiday**<br>
-Birthday of King CHARLES III, second Saturday in June (1948); Discovery Day (Pitcairn Day), 2 July (1767)<br>
 
 **Legal system**<br>
 local island by-laws<br>
@@ -173,14 +167,20 @@ _subordinate courts_: Magistrate's Court<br>
 **Political parties**<br>
 none<br>
 
-**International organization participation**<br>
-SPC, UPU<br>
-
 **Diplomatic representation in the US**<br>
 none (overseas territory of the UK)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (overseas territory of the UK)<br>
+
+**International organization participation**<br>
+SPC, UPU<br>
+
+**Independence**<br>
+none (overseas territory of the UK)<br>
+
+**National holiday**<br>
+Birthday of King CHARLES III, second Saturday in June (1948); Discovery Day (Pitcairn Day), 2 July (1767)<br>
 
 **Flag description**<br>
 blue with the UK flag in the upper hoist-side quadrant and the Pitcairn Islander coat of arms centered on the outer half of the flag; the green, yellow, and blue of the shield represents the island rising from the ocean; the green field features a yellow anchor with a Bible over it (both were found on the <em>HMS Bounty</em>); a Pitcairn Island wheelbarrow is on the crest, with a flowering twig of miro (a local plant)<br>

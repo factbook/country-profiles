@@ -291,7 +291,7 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name comes from the Arabic <em>al-kuwayt</em>, a diminutive of the Hindustani term <em>kut</em>, meaning a fortress-like house<br>
 
 **Administrative divisions**<br>
-6 governorates (muhafazat, singular - muhafazah); Al Ahmadi, Al 'Asimah, Al Farwaniyah, Al Jahra', Hawalli, Mubarak al Kabir<br>
+6 governorates (<em>muhafazat</em>, singular - <em>muhafazah</em>); Al Ahmadi, Al 'Asimah, Al Farwaniyah, Al Jahra', Hawalli, Mubarak al Kabir<br>
 
 **Legal system**<br>
 mixed system consisting of English common law, French civil law, and Islamic sharia law<br>
@@ -402,12 +402,6 @@ $163.705 billion (2023 est.)<br>
 3.6% (2023 est.)<br>
 4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: AA (2008)<br>
-_Moody's rating_: A1 (2020)<br>
-_Standard & Poors rating_: AA- (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.5% (2023 est.)<br>

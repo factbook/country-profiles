@@ -49,7 +49,7 @@ _forest_: 24.8% (2022 est.)<br>
 _other_: 75.2% (2022 est.)<br>
 
 **Population distribution**<br>
-most of the population is found along the coast, with a largest concentrations around the capital Marigot, Orleans, and Grand-Case<br>
+most of the population is found along the coast, with the largest concentration around the capital of Marigot, as well as Orleans and Grand-Case<br>
 
 **Natural hazards**<br>
 subject to hurricanes from July to November<br>
@@ -103,7 +103,7 @@ _female_: 34.9 years<br>
 -6.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most of the population is found along the coast, with a largest concentrations around the capital Marigot, Orleans, and Grand-Case<br>
+most of the population is found along the coast, with the largest concentration around the capital of Marigot, as well as Orleans and Grand-Case<br>
 
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>

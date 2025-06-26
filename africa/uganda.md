@@ -70,7 +70,7 @@ _fresh water lake(s)_: Lake Victoria (shared with Tanzania and Kenya) - 62,940 s
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Population distribution**<br>
-population density is relatively high in comparison to other African nations; most of the population is concentrated in the central and southern parts of the country, particularly along the shores of Lake Victoria and Lake Albert; the northeast is least populated as shown in this population distribution map<br>
+population density is relatively high in comparison to other African nations; most of the population is concentrated in the central and southern parts of the country, particularly along the shores of Lake Victoria and Lake Albert; the northeast is least populated, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 droughts; floods; earthquakes; landslides; hailstorms<br>
@@ -127,7 +127,7 @@ _female_: 17.1 years<br>
 -3.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-population density is relatively high in comparison to other African nations; most of the population is concentrated in the central and southern parts of the country, particularly along the shores of Lake Victoria and Lake Albert; the northeast is least populated as shown in this population distribution map<br>
+population density is relatively high in comparison to other African nations; most of the population is concentrated in the central and southern parts of the country, particularly along the shores of Lake Victoria and Lake Albert; the northeast is least populated, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 26.8% of total population (2023)<br>
@@ -418,12 +418,6 @@ $48.769 billion (2023 est.)<br>
 7.2% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
-**Credit ratings**<br>
-_Fitch rating_: B+ (2015)<br>
-_Moody's rating_: B2 (2016)<br>
-_Standard & Poors rating_: B (2014)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 24.1% (2023 est.)<br>
 _industry_: 25.8% (2023 est.)<br>
@@ -653,7 +647,7 @@ the UPDF's inventory is mix of older and some more modern weapons and equipment;
 18-22 years of age for voluntary military duty for men and women; 9-year service obligation (2025)<br>
 
 **Military deployments**<br>
-as many as 4-5,000 Democratic Republic of Congo; approximately 4,500 Somalia (African Union Support and Stabilization Mission in Somalia or AUSSOM) (2025)<br>
+up to 5,000 Democratic Republic of Congo; up to 4,500 Somalia (African Union Support and Stabilization Mission in Somalia or AUSSOM) (2025)<br>
 
 **Military - note**<br>
 the UPDF’s missions include defending the sovereignty and territorial integrity of Uganda, assisting the civilian authorities in emergencies and natural disasters, and participating in socio-economic development projects; it supports the police in maintaining internal security and participates in African and UN peacekeeping missions; it is a key contributor to the East Africa Standby Force; the UPDF also has considerable political influence; it is constitutionally granted seats in parliament and is widely viewed as a key constituency for MUSEVENI; it has been used by MUSEVENI and his political party to break up rallies, raid opposition offices, and surveil rival candidates<br><br>since the 2010s, the UPDF has participated in several internal and regional military operations in addition to its large commitment to an international peacekeeping force in Somalia; from 2012-2017, it led regional efforts to pursue the Lord’s Resistance Army (LRA), a small, violent group of Ugandan origin that conducted widespread attacks against civilians in much of Central Africa; Uganda intervened in the South Sudan civil war in 2013-2016, and UPDF forces have clashed with South Sudanese forces along the border as recently as 2023; since 2021, the UPDF has conducted operations along the border with the Democratic Republic of the Congo (DRC) against the Allied Democratic Front (ADF), which has been designated by the US as the Islamic State of Iraq and ash-Sham in the DRC, and in December 2022 UPDF troops were sent to the DRC as part of a regional force to assist the DRC Government in combating the M23 rebel group; in addition, elements of the UPDF have deployed internally to assist the police against cattle rustlers, poachers, and criminal gangs<br><br>the military traces its history back to the formation of the Uganda Rifles in 1895 under the British colonial government; the Uganda Rifles were merged with the Central Africa Regiment and the East Africa Rifles to form the King’s African Rifles (KAR) in 1902, which participated in both world wars, as well as the Mau Mau rebellion in Kenya (1952-1960); in 1962, the Ugandan battalion of the KAR was transformed into the country's first military force, the Uganda Rifles, which was subsequently renamed the Uganda Army; the UPDF was established in 1995 from the former rebel National Resistance Army following the enactment of the 1995 Constitution of Uganda (2024)<br>

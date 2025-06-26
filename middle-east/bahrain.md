@@ -284,7 +284,7 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: name derives from the Arabic word <em>al-manama</em>, meaning "place of rest" or "place of dreams"<br>
 
 **Administrative divisions**<br>
-4 governorates (muhafazat, singular - muhafazah); Asimah (Capital), Janubiyah (Southern), Muharraq, Shamaliyah (Northern)<br>
+4 governorates (<em>muhafazat</em>, singular - <em>muhafazah</em>); Asimah (Capital), Janubiyah (Southern), Muharraq, Shamaliyah (Northern)<br>
 <strong>note:</strong> each governorate administered by an appointed governor<br>
 
 **Legal system**<br>

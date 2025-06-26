@@ -303,7 +303,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the name "Tirana" first appears in a 1418 Venetian document; the origin of the name is unclear<br>
 
 **Administrative divisions**<br>
-12 counties (qarqe, singular - qark); Berat, Diber, Durres, Elbasan, Fier, Gjirokaster, Korce, Kukes, Lezhe, Shkoder, Tirane (Tirana), Vlore<br>
+12 counties (<em>qarqe</em>, singular - <em>qark</em>); Berat, Diber, Durres, Elbasan, Fier, Gjirokaster, Korce, Kukes, Lezhe, Shkoder, Tirane (Tirana), Vlore<br>
 
 **Legal system**<br>
 civil law system except in the northern rural areas where customary law known as the "Code of Leke" is still present<br>
@@ -427,11 +427,6 @@ $23.547 billion (2023 est.)<br>
 4.8% (2023 est.)<br>
 6.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Moody's rating_: B1 (2021)<br>
-_Standard & Poors rating_: B+ (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 16.2% (2023 est.)<br>

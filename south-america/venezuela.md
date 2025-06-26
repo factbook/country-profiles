@@ -287,7 +287,7 @@ _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<
 _etymology_: named for the Caracas tribe that originally settled in the area; the origin of their name is unknown<br>
 
 **Administrative divisions**<br>
-23 states (estados, singular - estado), 1 capital district* (distrito capital), and 1 federal dependency** (dependencia federal); Amazonas, Anzoátegui, Apure, Aragua, Barinas, Bolivar, Carabobo, Cojedes, Delta Amacuro, Dependencias Federales (Federal Dependencies)**, Distrito Capital (Capital District)*, Falcon, Guárico, La Guairá, Lara, Merida, Miranda, Monagas, Nueva Esparta, Portuguesa, Sucre, Táchira, Trujillo, Yaracuy, Zulia<br>
+23 states (<em>estados</em>, singular - <em>estado</em>), 1 capital district* (<em>distrito capital</em>), and 1 federal dependency** (<em>dependencia federal</em>); Amazonas, Anzoátegui, Apure, Aragua, Barinas, Bolivar, Carabobo, Cojedes, Delta Amacuro, Dependencias Federales (Federal Dependencies)**, Distrito Capital (Capital District)*, Falcon, Guárico, La Guairá, Lara, Merida, Miranda, Monagas, Nueva Esparta, Portuguesa, Sucre, Táchira, Trujillo, Yaracuy, Zulia<br>
 <strong>note:</strong> the federal dependency consists of 11 federally controlled island groups with a total of 72 individual islands<br>
 
 **Legal system**<br>
@@ -403,12 +403,6 @@ $482.359 billion (2014 est.)<br>
 45,518.1% (2018 est.)<br>
 416.8% (2017 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: RD (2017)<br>
-_Moody's rating_: WR (2019)<br>
-_Standard & Poors rating_: SD (2017)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 5% (2014 est.)<br>

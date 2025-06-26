@@ -71,7 +71,7 @@ Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basi
 Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 **Population distribution**<br>
-Aside from major urban agglomerations in Harare and Bulawayo, population distribution is fairly even, with slightly greater overall numbers in the eastern half as shown in this population distribution map<br>
+aside from major urban agglomerations in Harare and Bulawayo, population distribution is fairly even, with slightly greater overall numbers in the eastern half, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 recurring droughts; floods and severe storms are rare<br>
@@ -129,7 +129,7 @@ _female_: 22 years<br>
 -3.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-Aside from major urban agglomerations in Harare and Bulawayo, population distribution is fairly even, with slightly greater overall numbers in the eastern half as shown in this population distribution map<br>
+aside from major urban agglomerations in Harare and Bulawayo, population distribution is fairly even, with slightly greater overall numbers in the eastern half, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 32.5% of total population (2023)<br>

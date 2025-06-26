@@ -118,9 +118,6 @@ _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
 _etymology_: the name in Norwegian means Longyear Town; the site was established by and named after John Munro LONGYEAR, whose Arctic Coal Company began mining operations there in 1906<br>
 
-**Independence**<br>
-none (territory of Norway)<br>
-
 **Legal system**<br>
 laws of Norway that explicitly apply to Svalbard, including the Svalbard Act, the Svalbard Environmental Protection Act, and certain regulations; the Spitsbergen Treaty and the Svalbard Treaty grant certain rights to citizens and corporations of signatory nations<br>
 
@@ -143,6 +140,9 @@ Conservative <br>Labor <br>Liberal <br>Progress <br>Socialist Left<br>
 
 **International organization participation**<br>
 none<br>
+
+**Independence**<br>
+none (territory of Norway)<br>
 
 **Flag description**<br>
 the flag of Norway is used<br>

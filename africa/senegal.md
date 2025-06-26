@@ -74,7 +74,7 @@ Atlantic Ocean drainage: Senegal (456,397 sq km)<br>
 Senegalo-Mauritanian Basin<br>
 
 **Population distribution**<br>
-the population is concentrated in the west, with Dakar anchoring a well-defined core area; approximately 70% of the population is rural as shown in this population distribution map<br>
+the population is concentrated in the west, with Dakar anchoring a well-defined core area; approximately 70% of the population is rural, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 lowlands seasonally flooded; periodic droughts<br>
@@ -131,7 +131,7 @@ _female_: 20 years<br>
 -0.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the population is concentrated in the west, with Dakar anchoring a well-defined core area; approximately 70% of the population is rural as shown in this population distribution map<br>
+the population is concentrated in the west, with Dakar anchoring a well-defined core area; approximately 70% of the population is rural, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 49.6% of total population (2023)<br>
@@ -308,7 +308,7 @@ _time difference_: UTC 0 (5 hours ahead of Washington, D.C., during Standard Tim
 _etymology_: the name comes from the Wolof word <em>n'dakar</em>, meaning "tamarind tree"<br>
 
 **Administrative divisions**<br>
-14 regions (r&eacute;gions, singular - r&eacute;gion); Dakar, Diourbel, Fatick, Kaffrine, Kaolack, K&eacute;edougou, Kolda, Louga, Matam, Saint-Louis, Sedhiou, Tambacounda, Thies, Ziguinchor<br>
+14 regions (<em>régions</em>, singular - <em>région</em>); Dakar, Diourbel, Fatick, Kaffrine, Kaolack, Kéedougou, Kolda, Louga, Matam, Saint-Louis, Sedhiou, Tambacounda, Thies, Ziguinchor<br>
 
 **Legal system**<br>
 civil law system based on French law; Constitutional Council reviews legislative acts<br>
@@ -431,11 +431,6 @@ $30.848 billion (2023 est.)<br>
 9.7% (2022 est.)<br>
 2.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Moody's rating_: Ba3 (2017)<br>
-_Standard & Poors rating_: B+ (2000)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 17.4% (2023 est.)<br>

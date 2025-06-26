@@ -67,7 +67,7 @@ _other_: 23.9% (2022 est.)<br>
 _fresh water lake(s)_: Vanern - 5,580 sq km; Vattern - 1,910 sq km; Malaren - 1,140 sq km<br>
 
 **Population distribution**<br>
-most Swedes live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the Baltic coast in the east; the interior areas of the north remain sparsely populated<br>
+most of the population lives in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found along the Baltic coast in the east; the interior areas of the north remain sparsely populated<br>
 
 **Natural hazards**<br>
 ice floes in the surrounding waters, especially in the Gulf of Bothnia, can interfere with maritime traffic<br>
@@ -128,7 +128,7 @@ _female_: 42.1 years<br>
 4 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most Swedes live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the Baltic coast in the east; the interior areas of the north remain sparsely populated<br>
+most of the population lives in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found along the Baltic coast in the east; the interior areas of the north remain sparsely populated<br>
 
 **Urbanization**<br>
 _urban population_: 88.7% of total population (2023)<br>
@@ -297,7 +297,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the name of the city probably comes from the Swedish words <em>stak </em>(bay) or <em>stock </em>(stake or pole) and <em>holm </em>(island); it was built in the mid-13th century on the site of a fishing village, so the name may refer to building over earlier foundations<br>
 
 **Administrative divisions**<br>
-21 counties (lan, singular and plural); Blekinge, Dalarna, Gavleborg, Gotland, Halland, Jamtland, Jonkoping, Kalmar, Kronoberg, Norrbotten, Orebro, Ostergotland, Skane, Sodermanland, Stockholm, Uppsala, Varmland, Vasterbotten, Vasternorrland, Vastmanland, Vastra Gotaland<br>
+21 counties (<em>lan</em>, singular and plural); Blekinge, Dalarna, Gavleborg, Gotland, Halland, Jamtland, Jonkoping, Kalmar, Kronoberg, Norrbotten, Orebro, Ostergotland, Skane, Sodermanland, Stockholm, Uppsala, Varmland, Vasterbotten, Vasternorrland, Vastmanland, Vastra Gotaland<br>
 
 **Legal system**<br>
 civil law system influenced by Roman-Germanic law and customary law<br>
@@ -419,12 +419,6 @@ $584.96 billion (2023 est.)<br>
 8.5% (2023 est.)<br>
 8.4% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: AAA (2004)<br>
-_Moody's rating_: Aaa (2002)<br>
-_Standard & Poors rating_: AAA (2004)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1% (2023 est.)<br>
