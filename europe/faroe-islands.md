@@ -256,7 +256,9 @@ see Denmark<br>
 _chief of state_: King FREDERIK X of Denmark (since 14 January 2024), represented by High Commissioner Lene Moyell JOHANSEN, chief administrative officer (since 15 May 2017) (2024)<br>
 _head of government_: Prime Minister Aksel V. JOHANNESEN (since 22 December 2022)<br>
 _cabinet_: Landsstyri appointed by the prime minister<br>
-_elections/appointments_: the monarchy is hereditary; high commissioner appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the Faroese Parliament; election last held on 8 December 2022 (next to be held in 2026)<br>
+_elections/appointments_: the monarchy is hereditary; high commissioner appointed by the monarch; following legislative elections, the Parliament usually elects the leader of the majority party or majority coalition as the prime minister<br>
+_most recent election date_: 8 December 2022<br>
+_expected date of next election_: 2026<br>
 
 **Legislative branch**<br>
 _legislature name_: Faroese Parliament (Logting)<br>

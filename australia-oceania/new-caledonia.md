@@ -249,8 +249,10 @@ see France<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by High Commissioner Jacques BILLANT (since 3 May 2025)<br>
 _head of government_: President of the Government Alcide PONGA (since 8 January 2025)<br>
 _cabinet_: Cabinet elected from and by the Territorial Congress<br>
-_elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; president of New Caledonia elected by Territorial Congress for a 5-year term (no term limits); election last held on 8 July 2021 (next to be held in 2026)<br>
+_elections/appointments_: French president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; president of New Caledonia elected by Territorial Congress for a 5-year term (no term limits)<br>
+_most recent election date_: 8 July 2021<br>
 _election results_: <em><br>2025: </em>Alcide PONGA (The Republicans) elected president by Territorial Congress with 6 of 11 votes<em><br><br>2021:</em> Louis MAPOU (PALIKA) elected president by Territorial Congress with 6 of 11 votes<br>
+_expected date of next election_: 2026<br>
 
 **Legislative branch**<br>
 _legislature name_: Territorial Congress (Congr&egrave;s du Territoire)<br>
@@ -295,7 +297,7 @@ two official flags: the flag of France and the Kanak (ethnic Melanesian) flag ha
 **National symbol(s)**<br>
 fl&egrave;che fa&icirc;ti&egrave;re (native rooftop adornment), kagu bird<br>
 
-**National colors**<br>
+**National color(s)**<br>
 grey, red<br>
 
 **National anthem**<br>

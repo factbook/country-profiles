@@ -325,8 +325,10 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Evariste NDAYISHIMIYE (since 18 June 2020)<br>
 _head of government_: Minister Gervais NDIRAKOBUCA (since 7 September 2022)<br>
 _cabinet_: Council of Ministers appointed by president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 20 May 2020 (next to be held in May 2027); vice presidents nominated by the president, endorsed by Parliament<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 7-year term (eligible for a second term); vice presidents nominated by the president, endorsed by Parliament<br>
+_most recent election date_: 20 May 2020<br>
 _election results_: <br><em>2020: </em>Evariste NDAYISHIMIYE elected president; percent of vote - Evariste NDAYISHIMIYE (CNDD-FDD) 71.5%, Agathon RWASA (CNL) 25.2%, Gaston SINDIMWO (UPRONA) 1.7%, other 1.6%<br><br><em>2015:</em> Pierre NKURUNZIZA reelected president; percent of vote - Pierre NKURUNZIZA (CNDD-FDD) 69.4%, Agathon RWASA (Hope of Burundians - Amizerio y'ABARUNDI) 19%, other 11.6%<br>
+_expected date of next election_: May 2027<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Parlement)<br>
@@ -393,7 +395,7 @@ divided by a white diagonal cross into red panels (top and bottom) and green pan
 **National symbol(s)**<br>
 lion<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, green<br>
 
 **National anthem**<br>

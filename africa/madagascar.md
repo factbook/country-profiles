@@ -312,8 +312,10 @@ _residency requirement for naturalization_: unknown<br>
 _chief of state_: President Andry RAJOELINA (since 16 December 2023)<br>
 _head of government_: Prime Minister Christian NTSAY (since 6 June 2018)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 16 November 2023 (next to be held in November 2028); prime minister nominated by the National Assembly, appointed by the president<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister nominated by the National Assembly, appointed by the president<br>
+_most recent election date_: 16 November 2023<br>
 _election results_: <em><br>2023</em>: Andry RAJOELINA reelected president in first round; percent of vote - Andry RAJOELINA (TGV) 59.0%, Siteny Thierry RANDRIANASOLONIAIKO 14.4%, Marc RAVALOMANANA (TIM) 12.1%, other 14.5%<br><em><br>2018</em>: Andry RAJOELINA elected president in second round; percent of vote in first round - Andry RAJOELINA (TGV) 39.2%, Marc RAVALOMANANA (TIM) 35.4%, other 25.4%; percent of vote in second round - Andry RAJOELINA 55.7%, Marc RAVALOMANANA 44.3%<br>
+_expected date of next election_: November 2028<br>
 
 **Legislative branch**<br>
 _legislative structure_: bicameral<br>
@@ -376,7 +378,7 @@ two equal horizontal bands of red (top) and green, with a vertical white band of
 **National symbol(s)**<br>
 traveller's palm (ravenala), zebu<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, green, white<br>
 
 **National anthem**<br>

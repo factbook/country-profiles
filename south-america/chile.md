@@ -320,8 +320,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Gabriel BORIC (since 11 March 2022)<br>
 _head of government_: President Gabriel BORIC (since 11 March 2022)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single 4-year term; election last held on 21 November 2021 with a runoff held on 19 December 2021 (next to be held on 23 November 2025 with runoff, if needed, on 20 December)<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a single 4-year term<br>
+_most recent election date_: 21 November 2021, with a runoff held on 19 December 2021<br>
 _election results_: <br><em>2021: </em>Gabriel BORIC elected president in second round; percent of vote in first round - Jose Antonio KAST (FSC) 27.9%; Gabriel BORIC (AD) 25.8%; Franco PARISI (PDG) 12.8%; Sebastian SICHEL (ChP+) 12.8%; Yasna PROVOSTE (New Social Pact) 11.6%; other 9.1%; percent of vote in second round - Gabriel BORIC 55.9%; Jose Antonio KAST 44.1%<br><em><br>2017:</em> Sebastian PINERA Echenique elected president in second round; percent of vote in first round - Sebastian PINERA Echenique (independent) 36.6%; Alejandro GUILLIER (independent) 22.7%; Beatriz SANCHEZ (independent) 20.3%; Jose Antonio KAST (independent) 7.9%; Carolina GOIC (PDC) 5.9%; Marco ENRIQUEZ-OMINAMI (PRO) 5.7%; other 0.9%; percent of vote in second round - Sebastian PINERA Echenique 54.6%, Alejandro GUILLIER 45.4%<br>
+_expected date of next election_: 23 November 2025 (a runoff, if needed, will take place on 20 December 2025)<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -390,7 +392,7 @@ two equal horizontal bands of white (top) and red; a blue square the same height
 **National symbol(s)**<br>
 huemul (mountain deer), Andean condor<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, blue<br>
 
 **National anthem**<br>
@@ -400,7 +402,7 @@ _lyrics/music_: Eusebio LILLO Robles and Bernardo DE VERA y Pintado/Ramon CARNIC
 
 **National heritage**<br>
 _total World Heritage Sites_: 7 (all cultural)<br>
-_selected World Heritage Site locales_: Rapa Nui National Park; Churches of Chiloe; Historic Valparaiso; Humberstone and Santa Laura Saltpeter Works; Sewell Mining Town; Qhapaq &Ntilde;an/Andean Road System; Chinchorro archeological sites<br>
+_selected World Heritage Site locales_: Rapa Nui National Park; Churches of Chiloe; Historic Valparaiso; Humberstone and Santa Laura Saltpeter Works; Sewell Mining Town; Qhapaq Ñan/Andean Road System; Chinchorro archeological sites<br>
 
 ## Economy
 

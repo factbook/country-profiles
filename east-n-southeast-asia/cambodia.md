@@ -398,7 +398,7 @@ three horizontal bands of blue (top), red (double-width), and blue, with a white
 **National symbol(s)**<br>
 Angkor Wat temple, kouprey (wild ox)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, blue<br>
 
 **National anthem**<br>

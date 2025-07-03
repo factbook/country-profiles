@@ -253,7 +253,7 @@ see France<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017), represented by High Commissioner of the Republic Eric SPITZ (since 23 September 2022)<br>
 _head of government_: President of French Polynesia Moetai BROTHERSON (since 12 May 2023)<br>
 _cabinet_: Council of Ministers approved by the Assembly from a list of its members submitted by the president<br>
-_elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; French Polynesia president indirectly elected by Assembly of French Polynesia for a 5-year term (no term limits)<br>
+_elections/appointments_: French president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; French Polynesia president indirectly elected by Assembly of French Polynesia for a 5-year term (no term limits)<br>
 
 **Legislative branch**<br>
 _legislature name_: Assembly of French Polynesia (Assembl&eacute;e de la Polyn&eacute;sie fran&ccedil;aise)<br>
@@ -299,7 +299,7 @@ two red horizontal bands flank a wide white band in a 1:2:1 ratio; centered on t
 **National symbol(s)**<br>
 outrigger canoe, Tahitian gardenia flower (<em>Gardenia taitensis</em>)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white<br>
 
 **National anthem**<br>
@@ -309,7 +309,7 @@ _lyrics/music_: Maeva BOUGES, Irmine TEHEI, Angele TEROROTUA, Johanna NOUVEAU, P
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 cultural, 1 mixed); note - excerpted from the France entry<br>
-_selected World Heritage Site locales_: Taputapuātea (c); Te Henua Enata &ndash; The Marquesas Islands (m)<br>
+_selected World Heritage Site locales_: Taputapuātea (c); Te Henua Enata – The Marquesas Islands (m)<br>
 
 **Government - note**<br>
 French Polynesia has acquired autonomy from France in all areas except those relating to police, monetary policy, tertiary education, immigration, and defense and foreign affairs; the duties of its president are similar to those of the French prime minister<br>

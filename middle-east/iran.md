@@ -332,7 +332,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: Supreme Leader Ali Hoseini-KHAMENEI (since 4 June 1989)<br>
 _head of government_: President Masoud PEZESHKIAN (since 30 July 2024)<br>
 _cabinet_: Council of Ministers selected by the president with legislative approval; the supreme leader has some control over appointments to several ministries<br>
-_elections/appointments_: supreme leader appointed for life by Assembly of Experts; president directly elected by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term and an additional nonconsecutive term); election last held on 28 June 2024 first round (runoff held on 5 July 2024)<br>
+_elections/appointments_: supreme leader appointed for life by Assembly of Experts; president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 4-year term (eligible for a second term and an additional nonconsecutive term)<br>
+_most recent election date_: 28 June 2024, with runoff held on 5 July 2024<br>
 _election results_: <em><br>2024: </em>first round results - Masoud PEZESHKIAN (independent) 44.4%, Saeed JALILI (Front of Islamic Revolution Stability) 40.4%, Mohammad Baqer QAKIBAF (Progress and Justice Population of Islamic Iran) 14.3%, other 0.9%; second round results - Masoud PEZESHKIAN elected; Masoud PEZESHKIAN 54.8%, Saeed JALILI 45.2%<br><em><br>2021:</em> Ebrahim RAISI elected president; percent of vote - Ebrahim RAISI (independent) 72.4%, Mohsen REZAI (RFII) 13.8%, Abbdolnaser HEMATI (ECP) 9.8%, Amir-Hosein Qazizadeh-HASHEMI (Islamic Law Party) 4%<br>
 <strong>Note: </strong>presidential election held early due to the death of President Ebrahim RAISI in a helicopter accident in May 2024<br>
 
@@ -377,7 +378,7 @@ three equal horizontal bands of green (top), white, and red; centered in the whi
 **National symbol(s)**<br>
 lion<br>
 
-**National colors**<br>
+**National color(s)**<br>
 green, white, red<br>
 
 **National anthem**<br>

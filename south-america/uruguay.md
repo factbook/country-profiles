@@ -333,8 +333,10 @@ _residency requirement for naturalization_: 3-5 years<br>
 _chief of state_: President Yamand&uacute; ORSI Mart&iacute;nez (since 1 March 2025)<br>
 _head of government_: President Yamand&uacute; ORSI Mart&iacute;nez (since 1 March 2025)<br>
 _cabinet_: Council of Ministers appointed by the president with approval of the General Assembly<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by absolute majority vote in 2 rounds if needed for a 5-year term (eligible for nonconsecutive terms); election last held on 27 October 2024 with a runoff on 24 November 2024 (next to be held on 28 October 2029 and a runoff, if needed, on 25 November 2029)<br>
+_elections/appointments_: president and vice president directly elected on the same ballot by absolute-majority vote in 2 rounds, if needed, for a 5-year term (eligible for nonconsecutive terms)<br>
+_most recent election date_: 27 October 2024, with a runoff on 24 November 2024<br>
 _election results_: <em><br>2024: </em>Yamandú ORSI Martínez elected president in second round; percent of vote in first round - Yamandú ORSI Martínez (FA) 46.2%, Álvaro Luis DELGADO Ceretta (PN) 28.2%, Andrés OJEDA Ojeda Spitz (PC) 16.9%, other 8.7%; percent of vote in second round - Yamandú ORSI Martínez 52.1%, Álvaro Luis DELGADO Ceretta 47.9%<br><em><br>2019:</em> Luis Alberto LACALLE POU elected president in second round; percent of vote in first round - Daniel MARTINEZ (FA) 40.7%, Luis Alberto LACALLE POU (PN) 29.7%, Ernesto TALVI (Colorado Party) 12.8%, Guido MANINI RIOS (Open Cabildo) 11.3%, other 5.5%; percent of vote in second round - Luis Alberto LACALLE POU 50.6%, Daniel MARTINEZ 49.4%<br>
+_expected date of next election_: 28 October 2029, with a runoff, if needed, on 25 November 2029<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -403,7 +405,7 @@ nine equal horizontal stripes of white (top and bottom) alternating with blue; a
 **National symbol(s)**<br>
 Sun of May (a sun-with-face symbol)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, white, yellow<br>
 
 **National anthem**<br>

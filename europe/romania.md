@@ -331,10 +331,13 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Nicușor DAN (since 26 May 2025)<br>
-_head of government_: Interim Prime Minister Catalin PREDOIU (since 6 May 2025)<br>
+_head of government_: Prime Minister Ilie BOLOJAN (since 23 June 2005)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held 18 May 2025; prime minister appointed by the president with consent of Parliament<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister appointed by the president with consent of Parliament<br>
+_most recent election date_: 18 May 2025<br>
 _election results_: <em><br>2025: </em>Nicușor DAN elected president in runoff; percent of vote - Nicușor DAN (unaffiliated) 53.6%, George SIMION (AUR) 46.4%<em><br><br>2019: </em>Klaus IOHANNIS reelected president in second round; percent of vote - Klaus IOHANNIS (PNL) 66.1%, Viorica DANCILA (PSD) 33.9%<br>
+_expected date of next election_: 2030<br>
+<strong>note: </strong>the prime ministerial position will be rotated in 2027 from BOLOJAN to another coalition party member as part of a power-sharing agreement<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament of Romania (Parlamentul României)<br>
@@ -402,7 +405,7 @@ three equal vertical bands of blue (hoist side), yellow, and red; modeled after 
 **National symbol(s)**<br>
 golden eagle<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, yellow, red<br>
 
 **National anthem**<br>

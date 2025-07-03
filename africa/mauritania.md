@@ -332,9 +332,11 @@ _residency requirement for naturalization_: 5 years<br>
 **Executive branch**<br>
 _chief of state_: President Mohamed Ould Cheikh el GHAZOUANI (since 1 August 2019)<br>
 _head of government_: Prime Minister Moctar Ould DIAY (since 2 August 2024)<br>
-_cabinet_: Council of Ministers - nominees suggested by the prime minister, appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 29 June 2024 (next to be held in June 2029); prime minister appointed by the president<br>
+_cabinet_: Council of Ministers nominees suggested by the prime minister, appointed by the president<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister appointed by the president<br>
+_most recent election date_: 29 June 2024<br>
 _election results_: <em><br>2024:</em> Mohamed Ould Cheikh el GHAZOUANI reelected president in first round; percent of vote - Mohamed Ould Cheikh el GHAZOUANI (UPR) 56.1%, Biram Dah Ould ABEID (independent) 22.1%, Hamadi Sidi el MOKHTAR independent) 12.8%, other 9.0%<br><em><br>2019:</em> Mohamed Ould Cheikh el GHAZOUANI elected president in first round; percent of vote - Mohamed Ould Cheikh el GHAZOUANI (UPR) 52%, Biram Dah Ould ABEID (independent) 18.6%, Sidi Mohamed Ould BOUBACAR (independent) 17.9%, other 11.5%<br>
+_expected date of next election_: June 2029<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Barlamane)<br>
@@ -387,7 +389,7 @@ green with a five-pointed yellow star between the ends of a yellow, upward-point
 **National symbol(s)**<br>
 five-pointed star between the horns of a horizontal crescent moon<br>
 
-**National colors**<br>
+**National color(s)**<br>
 green, yellow<br>
 
 **National anthem**<br>

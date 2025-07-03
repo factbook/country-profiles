@@ -293,8 +293,10 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Nikenike VUROBARAVU (since 23 July 2022)<br>
 _head of government_: Prime Minister Jotham NAPAT (since 11 February 2025)<br>
 _cabinet_: Council of Ministers appointed by the prime minister, responsible to Parliament<br>
-_elections/appointments_: president indirectly elected by an electoral college consisting of Parliament and presidents of the 6 provinces; Vanuatu president serves a 5-year term; election last held on 23 July 2022 (next to be held in 2027); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by Parliament from among its members; election for prime minister last held on 11 February 2025<br>
-_election results_: <em><br>2025: </em>Jotham NAPAT (LVP) elected prime minister; 50-0 votes<em><br><br>2022:</em> Nikenike VUROBARAVU elected president in eighth round; electoral college vote - Nikenike VUROBARAVU (VP) 48 votes, Solas MOLISA (VP) 4 votes<br>
+_elections/appointments_: president indirectly elected by an electoral college consisting of Parliament and presidents of the 6 provinces; national president serves a 5-year term; following legislative elections, the Parliament usually elects the leader of the majority party or majority coalition (who must also be a member of Parliament) as prime minister<br>
+_most recent election date_: 23 July 2022<br>
+_election results_: <em>2022:</em> Nikenike VUROBARAVU elected president in eighth round; electoral college vote - Nikenike VUROBARAVU (VP) 48 votes, Solas MOLISA (VP) 4 votes<br>
+_expected date of next election_: 2027<br>
 <strong>note:</strong> the National Council of Chiefs (Malvatu Mauri) is a formal advisory body of chiefs recognized by the country's constitution; it advises the government on matters of culture and language<br>
 
 **Legislative branch**<br>
@@ -345,7 +347,7 @@ two equal horizontal bands of red (top) and green with a black isosceles triangl
 **National symbol(s)**<br>
 boar's tusk with crossed fern fronds<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, black, green, yellow<br>
 
 **National anthem**<br>

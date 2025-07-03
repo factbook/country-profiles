@@ -320,7 +320,7 @@ _residency requirement for naturalization_: 3 years<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor-General Dame Cindy KIRO (since 21 October 2021)<br>
 _head of government_: Prime Minister Christopher LUXON (since 27 November 2023)<br>
 _cabinet_: Executive Council appointed by the governor-general on the recommendation of the prime minister<br>
-_elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; deputy prime minister appointed by the governor-general<br>
+_elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following legislative elections, the governor-general appoints the leader of the majority party or majority coalition as prime minister; deputy prime minister also appointed by the governor-general<br>
 
 **Legislative branch**<br>
 _legislature name_: House of Representatives<br>
@@ -374,7 +374,7 @@ blue with the UK flag in the upper hoist-side quadrant, with four red five-point
 **National symbol(s)**<br>
 Southern Cross constellation (four five-pointed stars), kiwi (bird), silver fern<br>
 
-**National colors**<br>
+**National color(s)**<br>
 black, white, red (ochre)<br>
 
 **National coat of arms**<br>

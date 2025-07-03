@@ -269,8 +269,10 @@ _residency requirement for naturalization_: 30 years<br>
 _chief of state_: co-chiefs of state Captains Regent Denise BRONZETTI and Italo RIGHI (for the period 1 April 2025 - 30 September 2025)<br>
 _head of government_: Secretary of State for Foreign and Political Affairs Luca BECCARI (since 8 January 2020)<br>
 _cabinet_: Congress of State elected by the Grand and General Council<br>
-_elections/appointments_: co-chiefs of state (captains regent) indirectly elected by the Grand and General Council for a single 6-month term; election last held on 1 April 2025 (next to be held in September 2025); Secretary of State for Foreign and Political Affairs indirectly elected by the Grand and General Council for a single 5-year term; election last held on 28 December 2019<br>
+_elections/appointments_: co-chiefs of state (captains regent) indirectly elected by the Grand and General Council for a single 6-month term; Secretary of State for Foreign and Political Affairs indirectly elected by the Grand and General Council for a single 5-year term<br>
+_most recent election date_: <em>co-chiefs of state:</em> 1 April 2025<br><br><em>secretary of state:</em> 28 December 2019<br>
 _election results_: <em><br>2025</em>: Denise BRONZETTI (Reformist Alliance) and Italo RIGHI (Christian Democrat) elected captains regent: percent of Grand and General Council vote - NA<br><br><em>2024</em>: Francesca CIVERCHIA (PDCS) and Dalibor RICCARDI (Free San Marino) elected captains regent; percent of Grand and General Council vote - NA<br><br><em>2019:</em> Luca BECCARI (PDCS) elected Secretary of State for Foreign and Political Affairs; percent of Grand and General Council vote - NA<br>
+_expected date of next election_: <em>co-chiefs of state:</em> September 2025<br>
 <strong>note:</strong> the captains regent preside over meetings of the Grand and General Council and its cabinet (Congress of State), which has seven other members who are selected by the Grand and General Council; assisting the captains regent are seven secretaries of state; the secretary of state for Foreign Affairs has some prime ministerial roles<br>
 
 **Legislative branch**<br>
@@ -319,7 +321,7 @@ two equal horizontal bands of white (top) and light blue, with the national coat
 **National symbol(s)**<br>
 three peaks, each displaying a tower<br>
 
-**National colors**<br>
+**National color(s)**<br>
 white, blue<br>
 
 **National anthem**<br>

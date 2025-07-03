@@ -286,8 +286,10 @@ _residency requirement for naturalization_: 25 years<br>
 _chief of state_: Co-prince Emmanuel MACRON (since 14 May 2017); represented by Patrick STROZDA (since 14 May 2017); and Co-prince Archbishop Joan-Enric VIVES i Sicilia (since 12 May 2003); represented by Eduard Ibanez PULIDO (since 27 November 2023)<br>
 _head of government_: Prime Minister Xavier Espot ZAMORA (since 16 May 2019)<br>
 _cabinet_: Executive Council composed of head of government and 11 ministers designated by the head of government<br>
-_elections/appointments_: head of government indirectly elected by the General Council (Andorran parliament), formally appointed by the co-princes for a 4-year term; election last held on 2 April 2023 (next to be held in April 2027); the leader of the majority party in the General Council is usually elected head of government<br>
+_elections/appointments_: head of government indirectly elected by the General Council (Andorran parliament), formally appointed by the co-princes for a 4-year term; the leader of the majority party in the General Council is usually elected head of government<br>
+_most recent election date_: 2 April 2023<br>
 _election results_: <em><br>2023: </em>Xaviar Espot ZAMORA (DA) reelected head of government; percent of General Council vote - 57.1%<br><em><br>2019:</em> Xaviar Espot ZAMORA (DA) elected head of government; percent of General Council vote - 60.7<br>
+_expected date of next election_: April 2027<br>
 
 **Legislative branch**<br>
 _legislature name_: General Council (Consell General)<br>
@@ -336,7 +338,7 @@ three vertical bands of blue (hoist side), yellow, and red, with the national co
 **National symbol(s)**<br>
 red cow (breed unspecified)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, yellow, red<br>
 
 **National anthem**<br>

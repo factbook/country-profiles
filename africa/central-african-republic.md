@@ -320,8 +320,10 @@ _residency requirement for naturalization_: 35 years<br>
 _chief of state_: President Faustin-Archange TOUAD&Eacute;RA (since 30 March 2016)<br>
 _head of government_: Prime Minister F&eacute;lix MOLOUA (since 7 February 2022)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected for 5-year term; election last held 27 December 2020 (next to be held in December 2025); constitutional referendum in July 2023 removed term limits and instituted 7-year terms<br>
+_elections/appointments_: current president was directly elected for 5-year term; constitutional referendum in July 2023 removed term limits and instituted 7-year terms<br>
+_most recent election date_: 27 December 2020<br>
 _election results_: <em><br>2020:</em> Faustin-Archange TOUADÉRA reelected president in first round; percent of vote - Faustin-Archange TOUADÉRA (independent) 53.9%, Anicet Georges DOLOGUELE (URCA) 21%, other 25.1%<br><br><em>2015:</em> Faustin-Archange TOUADÉRA elected president in the second round; percent of vote in first round - Anicet-Georges DOLOGUELE (URCA) 23.7%, Faustin-Archange TOUADÉRA (independent) 19.1%, Desire KOLINGBA (RDC) 12%, Martin ZIGUELE (MLPC) 11.4%, other 33.8%; percent of vote in second round - Faustin-Archange TOUADÉRA 62.7%, Anicet-Georges DOLOGUELE 37.3%<br>
+_expected date of next election_: December 2025<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Assemblée nationale)<br>
@@ -374,7 +376,7 @@ four equal horizontal bands of blue (top), white, green, and yellow with a verti
 **National symbol(s)**<br>
 elephant<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, white, green, yellow, red<br>
 
 **National anthem**<br>

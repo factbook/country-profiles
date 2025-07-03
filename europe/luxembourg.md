@@ -316,7 +316,7 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: Grand Duke HENRI (since 7 October 2000)<br>
 _head of government_: Prime Minister Luc FRIEDEN (since 17 November 2023)<br>
 _cabinet_: Council of Ministers recommended by the prime minister, appointed by the monarch<br>
-_elections/appointments_: the monarchy is hereditary; following elections to the Chamber of Deputies, the leader of the majority party or majority coalition usually appointed prime minister by the monarch; deputy prime minister appointed by the monarch; prime minister and deputy prime minister are responsible to the Chamber of Deputies<br>
+_elections/appointments_: the monarchy is hereditary; following elections to the Chamber of Deputies, monarch usually appoints the leader of the majority party or majority coalition as prime minister; deputy prime minister also appointed by the monarch; prime minister and deputy prime minister are responsible to the Chamber of Deputies<br>
 
 **Legislative branch**<br>
 _legislature name_: Chamber of Deputies (Chambre des députés)<br>
@@ -370,7 +370,7 @@ three equal horizontal bands of red (top), white, and light blue; similar to the
 **National symbol(s)**<br>
 red rampant lion<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, light blue<br>
 
 **National anthem**<br>

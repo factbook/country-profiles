@@ -284,7 +284,7 @@ _residency requirement for naturalization_: 7 years for persons from a non-Carib
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Cecile LA GRENADE (since 7 May 2013)<br>
 _head of government_: Prime Minister Dickon MITCHELL (since 24 June 2022)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general<br>
+_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the governor general usually appoints the leader of the majority party or majority coalition as prime minister<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -350,11 +350,11 @@ a rectangle divided diagonally into yellow triangles (top and bottom) and green 
 **National symbol(s)**<br>
 Grenada dove, bougainvillea flower<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, yellow, green<br>
 
 **National coat of arms**<br>
-<p>Grenada’s coat of arms shows Grand Etang Lake, a crater lake on the volcano that formed Grenada. In the center of the shield is Christopher Columbus’s ship, the <em>Santa Maria</em>, which landed on the island in 1498. The gold cross dividing the shield, the two Madonna lilies, and the national motto signal the importance of religion. Two lions symbolize past UK rule (1762-1974), as well as Grenada’s current status as a Commonwealth country. The corn stalk and banana plant represent agriculture. The armadillo and Grenada dove next to the shield are native to the island, and the roses in the bougainvillea flower garland represent Grenada’s seven communities. </p><br>
+<p>Grenada’s coat of arms shows Grand Etang Lake, a crater lake on the volcano that formed Grenada; in the center of the shield is Christopher Columbus’s ship, the <em>Santa Maria</em>, which landed on the island in 1498; the gold cross dividing the shield, the two Madonna lilies, and the national motto signal the importance of religion; two lions symbolize past UK rule (1762-1974), as well as Grenada’s current status as a Commonwealth country; the corn stalk and banana plant represent agriculture; the armadillo and Grenada dove next to the shield are native to the island, and the roses in the bougainvillea flower garland represent Grenada’s seven communities</p><br>
 
 **National anthem**<br>
 _name_: "Hail Grenada"<br>

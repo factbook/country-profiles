@@ -309,7 +309,7 @@ _residency requirement for naturalization_: 5 years<br>
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor-General Froyla TZALAM (since 27 May 2021)<br>
 _head of government_: Prime Minister John BRICE&Ntilde;O (since 12 November 2020)<br>
-_cabinet_: Cabinet appointed by the governor general on the advice of the prime minister from among members of the National Assembly<br>
+_cabinet_: governor general appoints Cabinet from among members of the National Assembly, on the advice of the prime minister&nbsp;<br>
 _elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; prime minister recommends the deputy prime minister<br>
 
 **Legislative branch**<br>
@@ -377,7 +377,7 @@ royal blue with a narrow red stripe along the top and the bottom edges; a large 
 **National symbol(s)**<br>
 Baird's tapir (a large forest-dwelling mammal), keel-billed toucan, black orchid<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, blue<br>
 
 **National anthem**<br>

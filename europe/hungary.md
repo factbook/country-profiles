@@ -328,8 +328,10 @@ _residency requirement for naturalization_: 8 years<br>
 _chief of state_: President Tamas SULYOK (since 5 March 2024)<br>
 _head of government_: Prime Minister Viktor ORBAN (since 29 May 2010)<br>
 _cabinet_: Cabinet of Ministers proposed by the prime minister and appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); election last held on 26 February 2024 (next to be held in spring 2029); prime minister elected by the National Assembly on the recommendation of the president; election last held on 3 April 2022 (next to be held in April or May 2027)<br>
+_elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); prime minister elected by the National Assembly on the recommendation of the president<br>
+_most recent election date_: <em>president:</em> 26 February 2024<br><br><em>prime minister:</em> 3 April 2022<br>
 _election results_: <br><em>2024:</em> Tamas SULYOK elected president; National Assembly vote - 134 to 5<br><br><em>2022: </em>Katalin NOVAK (Fidesz) elected president; National Assembly vote - 137 to 51<br>
+_expected date of next election_: <em>president: </em>spring 2029<br><br><em>prime minister: </em>April or May 2027<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Országgyülés)<br>
@@ -384,7 +386,7 @@ three equal horizontal bands of red (top), white, and green; the flag dates to t
 **National symbol(s)**<br>
 Holy Crown of Hungary (Crown of Saint Stephen)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, green<br>
 
 **National anthem**<br>

@@ -343,8 +343,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Droupadi MURMU (since 25 July 2022)<br>
 _head of government_: Prime Minister Narendra MODI (since 26 May 2014)<br>
 _cabinet_: Union Council of Ministers recommended by the prime minister, appointed by the president<br>
-_elections/appointments_: president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 18 July 2022 (next to be held in July 2027); vice president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 5 August 2022 (next to be held in August 2027); following legislative elections, the prime minister is elected by Lok Sabha members of the majority party<br>
+_elections/appointments_: president indirectly elected for a 5-year term (no term limits) by an electoral college consisting of elected members of both houses of Parliament; vice president indirectly elected for a 5-year term (no term limits) by an electoral college consisting of elected members of both houses of Parliament; following legislative elections, the prime minister is elected by Lok Sabha members of the majority party<br>
+_most recent election date_: <em>president: </em>18 July 2022<br><br><em>vice president: </em>5 August 2022<br>
 _election results_: <br><em>2022:</em> Droupadi MURMU elected president; percent of electoral college vote - Droupadi MURMU (BJP) 64%, Yashwant SINHA (AITC) 35.9%; Jagdeep DHANKHAR elected vice president; percent of electoral college vote - Jagdeep DHANKHAR (BJP) 74.4%, Margaret ALVA (INC) 25.6%<br><br><em>2017:</em> Ram Nath KOVIND elected president; percent of electoral college vote - Ram Nath KOVIND (BJP) 65.6%, Meira KUMAR (INC) 34.4%; Venkaiah NAIDU elected vice president; percent of electoral college vote - Venkaiah NAIDU (BJP) 67.9%, Gopal-krishna GANDHI 32.1%<br>
+_expected date of next election_: <em>president: </em>July 2027<br><br><em>vice president: </em>August 2027<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Sansad)<br>
@@ -412,7 +414,7 @@ three equal horizontal bands of saffron (top), white, and green, with a blue <em
 **National symbol(s)**<br>
 the Lion Capital of Ashoka, which depicts four Asiatic lions standing back-to-back and mounted on a circular abacus (official); Bengal tiger and lotus flower (traditional)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 saffron, white, green<br>
 
 **National anthem**<br>
@@ -422,7 +424,7 @@ _lyrics/music_: Rabindranath TAGORE<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 43 (35 cultural, 7 natural, 1 mixed)<br>
-_selected World Heritage Site locales_: <p>Taj Mahal (c); Red Fort Complex (c); Elphanta Caves (c); Hill Forts of Rajasthan (c); Sundarbans National Park (n); Rock Shelters of Bhimbetka (c); Champaner-Pavagadh Archaeological Park (c); Dholavira: A Harappan City (c); Jaipur (c); Mahabodhi Temple Complex at Bodh Gaya (c); Manas Wildlife Sanctuary (n); Nanda Devi and Valley of Flowers National Parks (n); Khangchendzonga National Park (m); Group of Monuments at Mahabalipuram (c); Sun Temple, Konârak (c); Kaziranga National Park (n); Keoladeo National Park (n); Churches and Convents of Goa (c); Fatehpur Sikri (c); Group of Monuments at Hampi (c); Khajuraho Group of Monuments (c); Great Living Chola Temples (c); Group of Monuments at Pattadakal (c); Buddhist Monuments at Sanchi (c); Humayun's Tomb, Delhi (c); Qutb Minar and its Monuments, Delhi (c); Mountain Railways of India (c); Chhatrapati Shivaji Terminus (formerly Victoria Terminus) (c); The Jantar Mantar, Jaipur (c); Western Ghats (n); Great Himalayan National Park Conservation Area (n); Rani-ki-Vav (the Queen’s Stepwell) at Patan, Gujarat (c); Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar (c); The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement (c); Historic City of Ahmadabad (c); Victorian Gothic and Art Deco Ensembles of Mumbai (c); Jaipur City, Rajasthan (c); Kakatiya Rudreshwara (Ramappa) Temple, Telangana (c); Sacred Ensembles of the Hoysalas (c); Santiniketan (c);  Moidams – the Mound-Burial System of the Ahom Dynasty (c)</p><br>
+_selected World Heritage Site locales_: <p>Taj Mahal (c); Agra Fort (c); Elphanta Caves (c); Hill Forts of Rajasthan (c); Sundarbans National Park (n); Rock Shelters of Bhimbetka (c); Champaner-Pavagadh Archaeological Park (c); Jaipur (c); Mahabodhi Temple Complex at Bodh Gaya (c); Manas Wildlife Sanctuary (n); Nanda Devi and Valley of Flowers National Parks (n); Khangchendzonga National Park (m); Group of Monuments at Mahabalipuram (c); Sun Temple, Konârak (c); Kaziranga National Park (n); Churches and Convents of Goa (c); Great Living Chola Temples (c); Group of Monuments at Pattadakal (c); Buddhist Monuments at Sanchi (c); Humayun's Tomb, Delhi (c); Qutb Minar and its Monuments, Delhi (c); Great Himalayan National Park Conservation Area (n); Rani-ki-Vav (the Queen’s Stepwell) at Patan, Gujarat (c); Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar (c); Historic City of Ahmadabad (c); Victorian Gothic and Art Deco Ensembles of Mumbai (c); Jaipur City, Rajasthan (c); Kakatiya Rudreshwara (Ramappa) Temple, Telangana (c); Moidams – the Mound-Burial System of the Ahom Dynasty (c)</p><br>
 
 ## Economy
 

@@ -332,7 +332,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: Taliban Leader HAYBATULLAH Akhundzada (since 15 August 2021)<br>
 _head of government_: overall Taliban Leader HAYBATULLAH Akhundzada is the [so-called] Amir-ul Momineen of the Taliban and is seen by them as a head of government<br>
 _cabinet_: the Taliban have announced a &ldquo;cabinet&rdquo; for the &ldquo;caretaker government,&rdquo; including the &ldquo;acting prime minister,&rdquo; &ldquo;acting deputy prime ministers,&rdquo; and &ldquo;ministers&rdquo; who claim to represent 26 ministries<br>
-_elections/appointments_: the 2004 Afghan constitution directed that the president should be elected by majority popular vote for a 5-year term (eligible for a second term); election last held on 28 September 2019, and the Taliban have given no indication that they intend to reinstate elections or any other mechanism of democratic governance<br>
+_elections/appointments_: the 2004 Afghan constitution directed that the president should be elected by majority popular vote for a 5-year term (eligible for a second term); the Taliban have given no indication that they intend to reinstate elections or any other mechanism of democratic governance<br>
+_most recent election date_: 28 September 2019<br>
 <strong>note:</strong> the United States has not yet made a decision whether to recognize the Taliban or any other entity as the government of Afghanistan<br>
 
 **Legislative branch**<br>
@@ -367,7 +368,7 @@ three equal vertical bands of black (hoist side), red, and green, with the natio
 **National symbol(s)**<br>
 lion<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, green, black<br>
 
 **National anthem**<br>

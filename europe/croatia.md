@@ -325,8 +325,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Zoran MILANOVIC (since 18 February 2020)<br>
 _head of government_: Prime Minister Andrej PLENKOVIC (since 19 October 2016)<br>
 _cabinet_: Council of Ministers named by the prime minister and approved by the Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held in December 2024 (first round) and January 2025 (second round); the leader of the majority party or majority coalition is usually appointed prime minister by the president and approved by the Assembly<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); the leader of the majority party or majority coalition is usually appointed prime minister by the president and approved by the Assembly<br>
+_most recent election date_: December 2024 (first round) and January 2025 (second round)<br>
 _election results_: <br><em>2025: </em>Zoran MILANOVIC elected president in second round; percent of vote in second round - Zoran MILANOVIC (SDP) 74.6%, Dragan PRIMORAC (independent) 25.3%<em><br><br>2019: </em>Zoran MILANOVIC elected president in second round; percent of vote in second round - Zoran MILANOVIC (SDP) 52.7%, Kolinda GRABAR-KITAROVIC (HDZ) 47.3%<br>
+_expected date of next election_: 2029<br>
 
 **Legislative branch**<br>
 _legislature name_: Croatian Parliament (Hrvatski Sabor)<br>
@@ -384,7 +386,7 @@ three equal horizontal bands of red (top), white, and blue -- the pan-Slav color
 **National symbol(s)**<br>
 red-and-white checkerboard<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, blue<br>
 
 **National anthem**<br>

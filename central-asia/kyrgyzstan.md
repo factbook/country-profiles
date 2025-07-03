@@ -329,8 +329,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Sadyr JAPAROV (since 28 January 2021)<br>
 _head of government_: President Adylbek KASYMALIYEV (since 18 December 2024)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a five-year term (eligible for a second term); election last held on 10 January 2021 (next to be held in 2027)<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a five-year term (eligible for a second term)<br>
+_most recent election date_: 10 January 2021<br>
 _election results_: <em><br>2021:</em> Sadyr JAPAROV elected president in first round; percent of vote - Sadyr JAPAROV (Mekenchil) 79.2%, Adakhan MADUMAROV (United Kyrgyzstan) 6.8%, other 14%<br><br><em>2017:</em> Sooronbay JEENBEKOV elected president; Sooronbay JEENBEKOV (Social Democratic Party of Kyrgyzstan) 54.7%, Omurbek BABANOV (independent) 33.8%, Adakhan MADUMAROV (United Kyrgyzstan) 6.6%, other 4.9%<br>
+_expected date of next election_: 2027<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -383,7 +385,7 @@ red field with a yellow sun in the center that has 40 rays to represent the Kyrg
 **National symbol(s)**<br>
 white falcon<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, yellow<br>
 
 **National anthem**<br>

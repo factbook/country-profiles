@@ -326,8 +326,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President John Dramani MAHAMA (since 7 January 2025)<br>
 _head of government_: President Nana Addo Dankwa AKUFO-ADDO (since 7 January 2017)<br>
 _cabinet_: Council of Ministers; nominated by the president, approved by Parliament<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 7 December 2024 (next to be held on 7 December 2028); the president is both chief of state and head of government<br>
+_elections/appointments_: president and vice president directly elected on the same ballot by absolute-majority popular vote in 2 rounds, if needed, for a 4-year term (eligible for a second term); the president is both chief of state and head of government<br>
+_most recent election date_: 7 December 2024<br>
 _election results_: <em><br>2024: </em>John Dramani MAHAMA elected president in the first round; percent of vote- John Dramani MAHAMA (NDC) 56.5%, Mahamudu BAWUMIA (NPC) 41%, other 2.5% <em><br><br>2020:</em> Nana Addo Dankwa AKUFO-ADDO reelected president in the first round; percent of vote - Nana Addo Dankwa AKUFO-ADDO (NPP) 51.3%, John Dramani MAHAMA (NDC) 47.4%, other 1.3% (2020)<br>
+_expected date of next election_: 7 December 2028<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -350,11 +352,11 @@ _subordinate courts_: Court of Appeal; High Court; Circuit Court; District Court
 All Peoples Congress or APC <br>Convention People's Party or CPP <br>Ghana Freedom Party or GFP <br>Ghana Union Movement or GUM <br>Great Consolidated Popular Party or GCPP <br>Liberal Party of Ghana or LPG <br>National Democratic Congress or NDC <br>National Democratic Party or NDP <br>New Patriotic Party or NPP <br>People's National Convention or PNC <br>Progressive People's Party or PPP <br>United Front Party or UFP <br>United Progressive Party or UPP <br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires (vacant); note - The Embassy website notes Francis GBORGLAH is the Acting Head of Mission (since 5 February 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires (vacant); note - various News and Events posts on the Embassy website list Paul Kwaw CUDJOE is the Acting Head of Mission (since March 2025)<br>
 _chancery_: 3512 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 686-4520<br>
 _FAX_: [1] (202) 686-4527<br>
-_email address and website_: <br>info@ghanaembassydc.org<br><br>https://ghanaembassydc.org/<br>
+_email address and website_: <br>info.washington@mfa.gov.gh<br><br>https://washington.mfa.gov.gh/<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -380,7 +382,7 @@ three equal horizontal bands of red (top), yellow, and green, with a large black
 **National symbol(s)**<br>
 black star, golden eagle<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, yellow, green, black<br>
 
 **National anthem**<br>
@@ -654,7 +656,7 @@ _key ports_: Saltpond, Sekondi, Takoradi, Tema<br>
 
 **Military and security forces**<br>
 Ghana Armed Forces (GAF): Army, Air Force, Ghana Navy<br><br>Ministry of Interior: Ghana Police Service (2025)<br>
-note: the GAF also has a Medical Service/Corps<br>
+<strong>note:</strong> the GAF also has a Medical Service/Corps<br>
 
 **Military expenditures**<br>
 0.4% of GDP (2024 est.)<br>
@@ -665,6 +667,7 @@ note: the GAF also has a Medical Service/Corps<br>
 
 **Military and security service personnel strengths**<br>
 estimated 15-20,000 active Armed Forces (2025)<br>
+<strong>note:</strong> over the past decade, Ghana has sought to increase the size of the GAF, particularly the Army, which has added a number of new units<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix of older and some newer Chinese, Russian, and Western equipment, including US, which has donated items such as patrol boats; the government in recent years has committed to an increase in funding for equipment acquisitions, including armor, mechanized, and special forces capabilities for the Army, light attack aircraft for the Air Force, and more modern coastal patrol vessels for the Navy (2024)<br>
@@ -674,11 +677,11 @@ the military's inventory is a mix of older and some newer Chinese, Russian, and 
 <strong>note:</strong> as of 2024, women comprised approximately 15% of the military; Ghanaian women first began serving in the late 1950s<br>
 
 **Military deployments**<br>
-875 Lebanon (UNIFIL); 725 (plus about 275 police) South Sudan (UNMISS); 670 Sudan (UNISFA) (2024)<br>
+875 Lebanon (UNIFIL); 725 (plus about 275 police) South Sudan (UNMISS); 670 Sudan (UNISFA) (2025)<br>
 <strong>note:</strong> since sending a contingent of troops to the Congo in 1960, the military has been a regular contributor to African- and UN-sponsored peacekeeping missions<br>
 
 **Military - note**<br>
-the military’s primary missions are border defense, assisting with internal security, peacekeeping, and protecting the country’s territorial waters, particularly its offshore oil and gas infrastructure; it has benefited from cooperation with foreign partners, such as the UK and the US, and experience gained from participation in multiple international peacekeeping missions<br> <br>since 2022, Ghana has reinforced its military presence in the north of the country against threats from the terrorist organization Jama’at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida linked militant groups, which has conducted attacks in the neighboring countries of Burkina Faso, Cote d'Ivoire, and Togo; Ghana’s northern frontier with Burkina Faso is also an area with well-established smuggling routes, porous borders, and illegal gold mining; Ghana has also made efforts to increase its naval capabilities to protect its maritime claims and counter threats such as piracy<br><br>the military traces its origins to the Gold Coast Constabulary that was established in 1879 and renamed the Gold Coast Regiment in 1901; the Gold Coast Regiment was part of the West African Frontier Force, a multi-regiment unit formed by the British colonial office in 1900 to garrison Britain's West African colonies, which went on to serve in both World Wars; following Ghana's independence in 1957, the Gold Coast Regiment formed the basis for the new Ghanaian Army (2024)<br>
+the military’s primary missions are border defense, assisting with internal security, peacekeeping, and protecting the country’s territorial waters, particularly its offshore oil and gas infrastructure; it has benefited from cooperation with foreign partners, such as the UK and the US, and experience gained from participation in multiple international peacekeeping missions<br> <br>in recent years, Ghana has expanded the Army and reinforced its presence in the northern part of the country to shore up porous borders, interdict smuggling routes, and counter threats from the terrorist organization Jama’at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida linked militant groups, which has a considerable presence in Burkina Faso and has conducted attacks in Cote d'Ivoire and Togo; Ghana has also made efforts to increase the Navy's capabilities to protect its maritime claims and counter threats such as piracy and illegal fishing (2025)<br>
 
 ## Space
 

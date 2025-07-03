@@ -337,8 +337,10 @@ _residency requirement for naturalization_: 4 out of the previous 7 years and in
 _chief of state_: President Asif Ali ZARDARI (since 10 March 2024)<br>
 _head of government_: Prime Minister Shahbaz SHARIF (since 3 March 2024)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
-_elections/appointments_: president indirectly elected by the Electoral College consisting of members of the Senate, National Assembly, and provincial assemblies for a 5-year term (limited to 2 consecutive terms); election last held on 9 March 2024 (next to be held in 2029)<br>
+_elections/appointments_: president indirectly elected for a 5-year term (limited to 2 consecutive terms) by the Electoral College, which consists of members of the Senate, National Assembly, and provincial assemblies<br>
+_most recent election date_: 9 March 2024<br>
 _election results_: <em><br>2024:</em> Asif Ali ZARDARI elected president; National Assembly vote - Asif Ali ZARDARI (PPP) 411 votes, Mehmood Khan ACHAKZALI (PMAP) 181 votes; Shahbaz SHARIF elected prime minister; National Assembly vote - Shahbaz SHARIF (PML-N) 201, Omar AYUB (PTI) 92<br><br><em>2018:</em> Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96<br>
+_expected date of next election_: 2029<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Majlis-E-Shoora)<br>
@@ -406,7 +408,7 @@ green with a vertical white band on the hoist side, symbolizing the role of reli
 **National symbol(s)**<br>
 five-pointed star between the horns of a waxing crescent moon, jasmine<br>
 
-**National colors**<br>
+**National color(s)**<br>
 green, white<br>
 
 **National anthem**<br>
@@ -450,12 +452,6 @@ $337.912 billion (2023 est.)<br>
 30.8% (2023 est.)<br>
 19.9% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: B- (2018)<br>
-_Moody's rating_: B3 (2015)<br>
-_Standard & Poors rating_: B- (2019)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 23.3% (2023 est.)<br>

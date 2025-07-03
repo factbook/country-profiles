@@ -303,8 +303,10 @@ _residency requirement for naturalization_: 5 out of the previous 7 years includ
 _chief of state_: President Dharam GOKHOOL (since 7 December 2024)<br>
 _head of government_: Prime Minister Navin RAMGOOLAM (since 13 November 2024)<br>
 _cabinet_: Cabinet of Ministers (Council of Ministers) appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: president and vice president indirectly elected by the National Assembly for 5-year renewable terms; election last held on 7 November 2019 (next to be held in 2024); the president appoints the prime minister and deputy prime minister who have the majority support in the National Assembly<br>
+_elections/appointments_: president and vice president indirectly elected by the National Assembly for 5-year renewable terms; the president appoints the prime minister and deputy prime minister who have the majority support in the National Assembly<br>
+_most recent election date_: 7 November 2019<br>
 _election results_: <em><br>2019</em>: Prithvirajsing ROOPUN (MSM) elected president by the National Assembly - unanimous vote<br><br><em>2015</em>: Ameenah GURIB-FAKIM (independent) elected president by the National Assembly - unanimous vote<br><br>
+_expected date of next election_: 2024<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly - Assemblée nationale<br>
@@ -359,7 +361,7 @@ four equal horizontal bands of red (top), blue, yellow, and green; red stands fo
 **National symbol(s)**<br>
 dodo bird, earring tree flower (<em>Trochetia boutoniana</em>)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, blue, yellow, green<br>
 
 **National anthem**<br>

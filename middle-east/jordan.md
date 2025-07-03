@@ -398,7 +398,7 @@ three equal horizontal bands, with black (top) representing the Abbassid Calipha
 **National symbol(s)**<br>
 eagle<br>
 
-**National colors**<br>
+**National color(s)**<br>
 black, white, green, red<br>
 
 **National anthem**<br>

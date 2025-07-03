@@ -333,8 +333,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Bassirou Diomaye FAYE (since 2 April 2024)<br>
 _head of government_: Prime Minister Ousmane SONKO (since 2 April 2024)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single, renewable 5-year term; election last held on 24 March 2024 (next to be held in March 2029)<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a single, renewable 5-year term<br>
+_most recent election date_: 24 March 2024<br>
 _election results_: <em><br>2024:</em> Bassirou Diomaye FAYE elected president in first round; percent of vote - Bassirou Diomaye FAYE (PASTEF) 54%, Amadou BA (APR) 36%, other 10%<br><em><em><br>2019:</em></em> Macky SALL reelected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%, other 5.5% <p> </p><br>
+_expected date of next election_: March 2029<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Assemblée nationale)<br>
@@ -387,7 +389,7 @@ three equal vertical bands of green (hoist side), yellow, and red, with a small 
 **National symbol(s)**<br>
 lion<br>
 
-**National colors**<br>
+**National color(s)**<br>
 green, yellow, red<br>
 
 **National anthem**<br>

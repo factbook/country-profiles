@@ -69,7 +69,7 @@ _salt water lake(s)_: Uvs Nuur - 3,350 sq km; Hyargas Nuur - 1,360 sq km<br>
 Amur (shared with China [s] and Russia [m]) - 4,444 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Population distribution**<br>
-sparsely distributed population throughout the country; the capital of Ulaanbaatar and the northern city of Darhan support the highest population densities<br>
+population sparsely distributed throughout the country; the capital of Ulaanbaatar and the northern city of Darhan support the highest population densities<br>
 
 **Natural hazards**<br>
 dust storms; grassland and forest fires; drought; "zud," which is harsh winter conditions<br>
@@ -127,7 +127,7 @@ _female_: 32.8 years<br>
 -0.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-sparsely distributed population throughout the country; the capital of Ulaanbaatar and the northern city of Darhan support the highest population densities<br>
+population sparsely distributed throughout the country; the capital of Ulaanbaatar and the northern city of Darhan support the highest population densities<br>
 
 **Urbanization**<br>
 _urban population_: 69.1% of total population (2023)<br>
@@ -328,9 +328,11 @@ _residency requirement for naturalization_: 5 years<br>
 **Executive branch**<br>
 _chief of state_: President Ukhnaagiin KHURELSUKH (since 25 June 2021)<br>
 _head of government_: Prime Minister Gombojavyn ZANDANSHATAR (since 13 June 2025)<br>
-_cabinet_: Cabinet directly appointed by the prime minister following a constitutional amendment ratified in November 2019; prior to the amendment, the Cabinet was nominated by the prime minister in consultation with the president and confirmed by the State Great Hural (parliament)<br>
-_elections/appointments_: presidential candidates nominated by political parties represented in the State Great Hural and directly elected by simple majority popular vote for one 6-year term; election last held on 9 June 2021 (next to be held in 2027); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the State Great Hural<br>
+_cabinet_: Cabinet directly appointed by the prime minister<br>
+_elections/appointments_: presidential candidates nominated by political parties represented in the State Great Hural and directly elected by simple-majority popular vote for one 6-year term; following legislative elections, the State Great Hural usually elects the leader of the majority party or majority coalition as prime minister<br>
+_most recent election date_: 9 June 2021<br>
 _election results_: <em><br>2021:</em> Ukhnaagiin KHURELSUKH elected president in first round; percent of vote - Ukhnaagiin KHURELSUKH (MPP) 68%, Dangaasuren ENKHBAT (RPEC) 20.1%, Sodnomzundui ERDENE (DP) 6%<br><br><em>2017: </em> Khaltmaa BATTULGA elected president in second round; percent of vote in first round - Khaltmaa BATTULGA (DP) 38.1%, Miyegombo ENKHBOLD (MPP) 30.3%, Sainkhuu GANBAATAR (MPRP) 30.2%, invalid 1.4%; percent of vote in second round - Khaltmaa BATTULGA 55.2%, Miyegombo ENKHBOLD 44.8%<br>
+_expected date of next election_: 2027<br>
 
 **Legislative branch**<br>
 _legislature name_: State Great Hural (Ulsiin Ih Hural)<br>
@@ -383,7 +385,7 @@ three equal vertical bands of red (hoist side), blue, and red; centered on the h
 **National symbol(s)**<br>
 Soyombo character (from the Soyombo writing system)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, blue, yellow<br>
 
 **National anthem**<br>

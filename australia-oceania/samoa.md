@@ -62,7 +62,7 @@ _other_: 24.4% (2022 est.)<br>
 0 sq km (2022)<br>
 
 **Population distribution**<br>
-about three-quarters of the population lives on the island of Upolu<br>
+about three quarters of the population lives on the island of Upolu<br>
 
 **Natural hazards**<br>
 <p>occasional cyclones; active volcanism</p><p><strong>volcanism:</strong> Savai'I Island (1,858 m), which last erupted in 1911, is historically active</p><br>
@@ -120,7 +120,7 @@ _female_: 27.8 years<br>
 -6.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-about three-quarters of the population lives on the island of Upolu<br>
+about three quarters of the population lives on the island of Upolu<br>
 
 **Urbanization**<br>
 _urban population_: 17.5% of total population (2023)<br>
@@ -297,8 +297,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi II (since 21 July 2017)<br>
 _head of government_: Prime Minister FIAME Naomi Mata&rsquo;afa (since 24 May 2021)<br>
 _cabinet_: Cabinet appointed by the chief of state on the advice of the prime minister<br>
-_elections/appointments_: chief of state indirectly elected by the Legislative Assembly to serve a 5-year term (2-term limit); election last held on 23 August 2022 (next to be held in 2026); following legislative elections, the leader of the majority party is usually appointed prime minister by the chief of state, approved by the Legislative Assembly<br>
+_elections/appointments_: chief of state indirectly elected by the Legislative Assembly to serve a 5-year term (2-term limit); following legislative elections, the chief of state usually appoints the leader of the majority party as prime minister, with the approval of the Legislative Assembly<br>
+_most recent election date_: 23 August 2022<br>
 _election results_: TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi II (independent) unanimously reelected by the Legislative Assembly<br>
+_expected date of next election_: 2026<br>
 
 **Legislative branch**<br>
 _legislature name_: Legislative Assembly (Fono)<br>
@@ -352,7 +354,7 @@ red with a blue rectangle in the upper hoist-side quadrant bearing five white, f
 **National symbol(s)**<br>
 Southern Cross constellation (five five-pointed stars)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, blue<br>
 
 **National anthem**<br>

@@ -203,7 +203,7 @@ see United Kingdom<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Alison BLAKE (since 23 July 2022)<br>
 _head of government_: Chief Executive Andy KEELING (since April 2021)<br>
 _cabinet_: Executive Council elected by the Legislative Council<br>
-_elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; chief executive appointed by the governor<br>
+_elections/appointments_: the monarchy is hereditary; monarch appoints the governor, who appoints the chief executive<br>
 
 **Legislative branch**<br>
 _legislature name_: Legislative Assembly<br>
@@ -246,7 +246,7 @@ blue with the UK flag in the upper hoist-side quadrant and the Falkland Island c
 **National symbol(s)**<br>
 ram<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, blue<br>
 
 **National coat of arms**<br>

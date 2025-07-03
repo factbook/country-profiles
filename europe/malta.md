@@ -304,8 +304,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Myriam Spiteri DEBONO (since 4 April 2024)<br>
 _head of government_: Prime Minister Robert ABELA (since 13 January 2020)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
-_elections/appointments_: president indirectly elected by the House of Representatives for a single 5-year term; election last held on 27 March 2024 (next to be held by March 2029); following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the president for a 5-year term; deputy prime minister appointed by the president on the advice of the prime minister<br>
+_elections/appointments_: president indirectly elected by the House of Representatives for a single 5-year term; following legislative elections, the president usually appoints the leader of the majority party or majority coalition as prime minister for a 5-year term; deputy prime minister appointed by the president on the advice of the prime minister<br>
+_most recent election date_: 27 March 2024<br>
 _election results_: <em><br>2024:  </em>Myriam Spiteri DEBONO (PL) elected president; House of Representatives vote - unanimous<br><em><br>2019:</em> George VELLA (PL) elected president; House of Representatives vote - unanimous<br>
+_expected date of next election_: by March 2029<br>
 
 **Legislative branch**<br>
 _legislature name_: House of Representatives (Il-Kamra Tad-Deputati)<br>
@@ -356,7 +358,7 @@ two equal vertical bands of white (hoist side) and red; in the upper hoist-side 
 **National symbol(s)**<br>
 Maltese eight-pointed cross<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white<br>
 
 **National anthem**<br>

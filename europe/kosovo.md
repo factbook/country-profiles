@@ -245,8 +245,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Vjosa OSMANI-Sadriu (since 4 April 2021)<br>
 _head of government_: Acting Prime Minister Albin KURTI (since 15 April 2025)<br>
 _cabinet_: Cabinet elected by the Assembly<br>
-_elections/appointments_: president indirectly elected by at least two-thirds majority vote of the Assembly for a 5-year term; if a candidate does not attain a two-thirds threshold in the first two ballots, the candidate winning a simple majority vote in the third ballot is elected (eligible for a second term); election last held on 3 to 4 April 2021 (next to be held in 2026); prime minister indirectly elected by the Assembly<br>
+_elections/appointments_: president indirectly elected for a 5-year term (eligible for a second term) by at least two-thirds majority vote of the Assembly; if a candidate does not reach this threshold in the first two ballots, the candidate winning a simple majority vote in the third ballot is elected; prime minister indirectly elected by the Assembly<br>
+_most recent election date_: 3-4 April 2021<br>
 _election results_: <em><br>2021: </em> Vjosa OSMANI-Sadriu elected president in third ballot; Assembly vote - Vjosa OSMANI-Sadriu (Guxo!) 71 votes; Albin KURTI (LVV) elected prime minister; Assembly vote - 67 for, 30 against<br><br><em>2017: </em>Ramush HARADINAJ (AAK) elected prime minister; Assembly vote - 61 for, 1 abstention, 0 against (opposition boycott)<br><br><em>2016:</em> Hashim THACI elected president in third ballot; Assembly vote - Hashim THACI (PDK) 71 votes<br>
+_expected date of next election_: 2026<br>
 <strong>note: </strong>Prime Minister Albin KURTI resigned on 15 April 2025; a replacement has not yet been selected<br>
 
 **Legislative branch**<br>
@@ -304,7 +306,7 @@ a dark blue field with a gold-colored silhouette of Kosovo in the center, with s
 **National symbol(s)**<br>
 six five-pointed white stars<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, gold, white<br>
 
 **National anthem**<br>

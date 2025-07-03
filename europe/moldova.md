@@ -321,8 +321,10 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Maia SANDU (since 24 December 2020)<br>
 _head of government_: Prime Minister Dorin RECEAN (since 16 February 2023)<br>
 _cabinet_: Cabinet proposed by the prime minister-designate, nominated by the president, approved through a vote of confidence in Parliament<br>
-_elections/appointments_: president directly elected for a 4-year term (eligible for a second term); election last held on 3 November 2024 (next to be held in 2028); prime minister designated by the president on consultation with Parliament; within 15 days from designation, the prime minister-designate must request a vote of confidence for his/her proposed work program from the Parliament<br>
+_elections/appointments_: president directly elected for a 4-year term (eligible for a second term); prime minister designated by the president in consultation with Parliament; within 15 days from designation, the prime minister-designate must request a vote of confidence for his/her proposed work program from the Parliament<br>
+_most recent election date_: 3 November 2024<br>
 _election results_: <em><br>2024: </em>In the second round of presidential elections, incumbent Maia SANDU (PAS) wins 55.4% of the vote, Alexandr STOIANOGLO (PSRM) 44.6; turnout is 54.3%<em><br><br>2020:</em> Maia SANDU elected president in second round; percent of vote in second round - Maia SANDU (PAS) 57.7%, Igor DODON (PSRM) 42.3%<br><br><em>2016</em>: Igor DODON elected president in second round; percent of vote - Igor DODON (PSRM) 52.1%, Maia SANDU (PAS) 47.9%<br>
+_expected date of next election_: 2028<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Parlament)<br>
@@ -377,7 +379,7 @@ three equal vertical bands of Prussian blue (hoist side), chrome yellow, and ver
 **National symbol(s)**<br>
 aurochs (type of wild cattle)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, yellow, red<br>
 
 **National anthem**<br>

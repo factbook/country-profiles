@@ -64,7 +64,7 @@ _other_: 25.4% (2022 est.)<br>
 12,191 sq km (2021)<br>
 
 **Population distribution**<br>
-one-third of the population lives in and around metropolitan Athens; the remainder of the country has moderate population density mixed with sizeable urban clusters<br>
+one third of the population lives in and around metropolitan Athens; the remainder of the country has moderate population density mixed with sizeable urban clusters<br>
 
 **Natural hazards**<br>
 <p>severe earthquakes</p><p><strong>volcanism:</strong> Santorini (367 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; although there have been very few eruptions in recent centuries, Methana and Nisyros in the Aegean are classified as historically active</p><br>
@@ -123,7 +123,7 @@ _female_: 48.3 years<br>
 1.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-one-third of the population lives in and around metropolitan Athens; the remainder of the country has moderate population density mixed with sizeable urban clusters<br>
+one third of the population lives in and around metropolitan Athens; the remainder of the country has moderate population density mixed with sizeable urban clusters<br>
 
 **Urbanization**<br>
 _urban population_: 80.7% of total population (2023)<br>
@@ -314,8 +314,10 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Konstantinos TASOULAS (since 13 March 2025)<br>
 _head of government_: Prime Minister Kyriakos MITSOTAKIS (since 26 June 2023)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: president elected by Hellenic Parliament for a 5-year term (eligible for a second term); election last held on 12 February 2025 (next to be held in 2030); president appoints as prime minister the leader of the majority party or coalition in the Hellenic Parliament<br>
+_elections/appointments_: president elected by Hellenic Parliament for a 5-year term (eligible for a second term); president appoints as prime minister the leader of the majority party or coalition in the Hellenic Parliament<br>
+_most recent election date_: 12 February 2025<br>
 _election results_: <em>2025: </em>Konstantinos TASOULAS (ND) elected president by Parliament - 160 of 300 votes<em><br><br>2020:</em> Katerina SAKELLAROPOULOU (independent) elected president by Parliament - 261 of 300 votes<em><br></em><br>
+_expected date of next election_: 2030<br>
 
 **Legislative branch**<br>
 _legislature name_: Hellenic Parliament (Vouli Ton Ellinon)<br>
@@ -373,7 +375,7 @@ nine equal horizontal stripes of blue alternating with white; a blue square with
 **National symbol(s)**<br>
 Greek cross (white cross on a blue field)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, white<br>
 
 **National anthem**<br>
@@ -383,7 +385,7 @@ _lyrics/music_: Dionysios SOLOMOS/Nikolaos MANTZAROS<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 19 (17 cultural, 2 mixed)<br>
-_selected World Heritage Site locales_: Acropolis, Athens (c); Archaeological site of Delphi (c); Meteora (m); Medieval City of Rhodes (c); Archaeological site of Olympia (c); Archaeological site of Mycenae and Tiryns (c); Old Town of Corfu (c); Mount Athos (m); Delos (c); Archaeological Site of Philippi (c)<br>
+_selected World Heritage Site locales_: Acropolis, Athens (c); Archaeological site of Delphi (c); Meteora (m); Medieval City of Rhodes (c); Archaeological site of Olympia (c); Archaeological site of Mycenae and Tiryns (c); Old Town of Corfu (c); Mount Athos (m); Delos (c); Archaeological Site of Philippi (c)<br>
 
 ## Economy
 

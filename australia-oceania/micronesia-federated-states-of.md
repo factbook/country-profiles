@@ -281,7 +281,9 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Wesley W. SIMINA (since 12 May 2023)<br>
 _head of government_: President Wesley W. SIMINA (since 12 May 2023)<br>
 _cabinet_: Cabinet includes the vice president and the heads of the 8 executive departments<br>
-_elections/appointments_: president and vice president indirectly elected by Congress from among the 4 'at large' senators for a 4-year term (eligible for a second term); election last held on 12 May 2023 (next to be held in 2027)<br>
+_elections/appointments_: president and vice president indirectly elected by Congress from among the 4 'at large' senators for a 4-year term (eligible for a second term)<br>
+_most recent election date_: 12 May 2023<br>
+_expected date of next election_: 2027<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -334,7 +336,7 @@ light blue with four white five-pointed stars centered and arranged in a diamond
 **National symbol(s)**<br>
 four five-pointed white stars on a light blue field, hibiscus flower<br>
 
-**National colors**<br>
+**National color(s)**<br>
 light blue, white<br>
 
 **National anthem**<br>

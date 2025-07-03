@@ -325,8 +325,10 @@ _residency requirement for naturalization_: 2 years<br>
 _chief of state_: President Luis Rodolfo ABINADER Corona (since 16 August 2020)<br>
 _head of government_: President Luis Rodolfo ABINADER Corona (since 16 August 2020)<br>
 _cabinet_: Cabinet nominated by the president<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by absolute vote in 2 rounds if needed for a 4-year term (eligible for a maximum of two consecutive terms); election last held on 19 May 2024 (next to be held on 21 May 2028)<br>
+_elections/appointments_: president and vice president directly elected on the same ballot by absolute vote in 2 rounds, if needed, for a 4-year term (eligible for a maximum of two consecutive terms)<br>
+_most recent election date_: 19 May 2024<br>
 _election results_: <em><br>2024:</em> Luis Rodolfo ABINADER Corona reelected president; percent of vote - Luis Rodolfo ABINADER Corona (PRM) 57.5%, Leonel Antonio FERNÁNDEZ Reyna (FP) 28.8%, Abel MARTÍNEZ (PLD) 10.4%, other 3.3%<br><br><em>2020:</em> Luis Rodolfo ABINADER Corona elected president in first round; percent of vote - Luis Rodolfo ABINADER Corona (PRM) 52.5%, Gonzalo CASTILLO Terrero (PLD) 37.5%, Leonel Antonio FERNÁNDEZ Reyna (FP) 8.9%, other 1.1%<br>
+_expected date of next election_: 21 May 2028<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -393,7 +395,7 @@ a centered white cross extends to the edges and divides the flag into four recta
 **National symbol(s)**<br>
 palmchat (bird)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, blue<br>
 
 **National anthem**<br>

@@ -309,7 +309,7 @@ two equal horizontal bands of white (top) and red, with a large disk slightly to
 **National symbol(s)**<br>
 polar bear<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white<br>
 
 **National anthem**<br>
@@ -319,7 +319,7 @@ _lyrics/music_: Henrik LUND/Jonathan PETERSEN<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (2 cultural, 1 natural); note - excerpted from the Denmark entry<br>
-_selected World Heritage Site locales_: Ilulissat Icefjord (n); Kujataa, Norse and Inuit Farming (c); Aasivissuit&ndash;Nipisat, Inuit Hunting Ground (c)<br>
+_selected World Heritage Site locales_: Ilulissat Icefjord (n); Kujataa, Norse, and Inuit Farming (c); Aasivissuit–Nipisat, Inuit Hunting Ground (c)<br>
 
 ## Economy
 
@@ -511,7 +511,7 @@ _key ports_: Aasiaat, Illulissat (Jakobshavn), Kusanartoq, Nuuk, Paamuit (Freder
 no regular military forces<br>
 
 **Military - note**<br>
-the Danish military&rsquo;s Joint Arctic Command in Nuuk is responsible for coordinating Denmark's defense of Greenland<br>
+the Danish military’s Joint Arctic Command in Nuuk is responsible for coordinating Denmark's defense of Greenland<br><br>the US Space Force maintains a base on Greenland’s northwest coast, about 750 miles from the North Pole<br>
 
 ## Transnational Issues
 

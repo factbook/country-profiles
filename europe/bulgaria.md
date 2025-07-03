@@ -325,8 +325,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Rumen RADEV (since 22 January 2017)<br>
 _head of government_: Prime Minister Rosen ZHELYAZKOV (since 16 January 2025)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, elected by the National Assembly<br>
-_elections/appointments_: president and vice president elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 14 and 21 November 2021 (next to be held in fall 2026); chairman of the Council of Ministers (prime minister) elected by the National Assembly; deputy prime ministers nominated by the prime minister, elected by the National Assembly<br>
+_elections/appointments_: president and vice president elected on the same ballot by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); chairman of the Council of Ministers (prime minister) elected by the National Assembly; deputy prime ministers nominated by the prime minister, elected by the National Assembly<br>
+_most recent election date_: 14 and 21 November 2021<br>
 _election results_: <em><br>2021</em>: Rumen RADEV reelected president in second round; percent of vote in the first round - Rumen RADEV (independent) 49.4%, Anastas GERDZHIKOV (independent) 22.8%, Mustafa KARADAYI (DPS) 11.6%, Kostadin KOSTADINOV (Revival) 3.9%, Lozan PANOV (independent) 3.7%, other 8.6%; percent of vote in the second round - Rumen RADEV 66.7%, Anastas GERDZHIKOV 31.8%, neither 1.5%<br><br><em>2016: </em>Rumen RADEV elected president in second round; percent of vote - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%<br>
+_expected date of next election_: fall 2026<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Narodno sabranie)<br>
@@ -380,8 +382,11 @@ three equal horizontal bands of white (top), green, and red; the pan-Slavic whit
 **National symbol(s)**<br>
 lion<br>
 
-**National colors**<br>
+**National color(s)**<br>
 white, green, red<br>
+
+**National coat of arms**<br>
+<p>Bulgaria’s coat of arms in the national colors of white, green, and red was adopted in 1997; the three lions are a national symbol for strength, courage, and leadership that was used during the country’s liberation movement in the 1870s and the kingdom period in the early 20th century; above the shield is the crown of Bulgaria (originally the crown of the medieval Bulgarian tsars) with a gold cross on top; a white scroll over the oak branches bears the Bulgarian national motto, “United we stand strong”</p> <p> </p><br>
 
 **National anthem**<br>
 _name_: "Mila Rodino" (Dear Homeland)<br>

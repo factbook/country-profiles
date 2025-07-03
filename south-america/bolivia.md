@@ -72,7 +72,7 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km), Paran&aacute; (2,582,704 sq k
 Amazon Basin<br>
 
 **Population distribution**<br>
-a high altitude plain in the west between two cordillera of the Andes, known as the Altiplano, is the focal area for most of the population; a dense settlement pattern is also found in and around the city of Santa Cruz, located on the eastern side of the Andes<br>
+a high-altitude plain in the west between two cordillera of the Andes, known as the Altiplano, is the focal area for most of the population; a dense settlement pattern is also found in and around the city of Santa Cruz, located on the eastern side of the Andes<br>
 
 **Natural hazards**<br>
 <p>flooding in the northeast (March to April)</p><p><strong>volcanism:</strong> volcanic activity in Andes Mountains on the border with Chile; historically active volcanoes in this region are Irruputuncu (5,163 m), which last erupted in 1995, and the Olca-Paruma volcanic complex (5,762 m to 5,167 m)</p><br>
@@ -131,7 +131,7 @@ _female_: 27 years<br>
 -1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-a high altitude plain in the west between two cordillera of the Andes, known as the Altiplano, is the focal area for most of the population; a dense settlement pattern is also found in and around the city of Santa Cruz, located on the eastern side of the Andes<br>
+a high-altitude plain in the west between two cordillera of the Andes, known as the Altiplano, is the focal area for most of the population; a dense settlement pattern is also found in and around the city of Santa Cruz, located on the eastern side of the Andes<br>
 
 **Urbanization**<br>
 _urban population_: 71.2% of total population (2023)<br>
@@ -332,8 +332,10 @@ _residency requirement for naturalization_: 3 years<br>
 _chief of state_: President Luis Alberto ARCE Catacora (since 8 November 2020)<br>
 _head of government_: President Luis Alberto ARCE Catacora (since 8 November 2020)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president and vice president directly elected on the same ballot one of 3 ways: candidate wins at least 50% of the vote, or at least 40% of the vote and 10% more than the next highest candidate; otherwise a second round is held and the winner determined by simple majority vote; president and vice president are elected by majority vote to serve a 5-year term; no term limits (changed from two-consecutive-term limit by Constitutional Court in late 2017); election last held on 18 October 2020 (next to be held in October 2025)<br>
+_elections/appointments_: president and vice president directly elected on the same ballot one of 3 ways: candidate wins at least 50% of the vote, or at least 40% of the vote and 10% more than the next highest candidate; otherwise, a second round is held and the winner determined by simple majority vote; president and vice president are elected by majority vote to serve a 5-year term; no term limits<br>
+_most recent election date_: 18 October 2020<br>
 _election results_: <br><em>2020:</em> Luis Alberto ARCE Catacora elected president; percent of vote - Luis Alberto ARCE Catacora (MAS) 55.1%; Carlos Diego MESA Gisbert (CC) 28.8%; Luis Fernando CAMACHO Vaca (Creemos) 14%; other 2.1%<br><br><em>2019:</em> Juan Evo MORALES Ayma reelected president; percent of vote - Juan Evo MORALES Ayma (MAS) 61%; Samuel DORIA MEDINA Arana (UN) 24.5%; Jorge QUIROGA Ramirez (POC) 9.1%; other 5.4%<br>
+_expected date of next election_: 17 August 2025 (a runoff, if needed, will take place on 19 October 2025)<br>
 <strong>note:</strong> the president is both chief of state and head of government<br><br><strong>note:</strong> elections were held in successive years in 2019 and 2020 because Juan Evo MORALES resigned from office on 10 November 2019 over alleged election rigging; Jeanine ANEZ Chavez served as interim president until the 8 November 2020 inauguration of Luis Alberto ARCE Catacora, who won the 18 October 2020 presidential election<br>
 
 **Legislative branch**<br>
@@ -404,7 +406,7 @@ three equal horizontal bands of red (top), yellow, and green, with the coat of a
 **National symbol(s)**<br>
 llama, Andean condor; two national flowers, the cantuta and the patuju<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, yellow, green<br>
 
 **National anthem**<br>

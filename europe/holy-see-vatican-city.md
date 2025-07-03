@@ -216,7 +216,7 @@ two vertical bands of yellow (hoist side) and white with the arms of the Holy Se
 **National symbol(s)**<br>
 crossed keys under a papal tiara<br>
 
-**National colors**<br>
+**National color(s)**<br>
 yellow, white<br>
 
 **National anthem**<br>

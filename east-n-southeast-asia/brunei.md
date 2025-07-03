@@ -358,7 +358,7 @@ yellow with two diagonal bands of white and black starting from the upper hoist 
 **National symbol(s)**<br>
 royal parasol<br>
 
-**National colors**<br>
+**National color(s)**<br>
 yellow, white, black<br>
 
 **National anthem**<br>

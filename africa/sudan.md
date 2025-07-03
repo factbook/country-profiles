@@ -317,8 +317,9 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: Sovereign Council Chair and Commander-in-Chief of the Sudanese Armed Forces General Abd-al-Fattah al-BURHAN Abd-al-Rahman (since 11 November 2021)<br>
 _head of government_: Sovereign Council Chair and Commander-in-Chief of the Sudanese Armed Forces General Abd-al-Fattah al-BURHAN Abd-al-Rahman (since 11 November 2021)<br>
 _cabinet_: the military forced most members of the Council of Ministers out of office in 2021; a handful of ministers appointed by former armed opposition groups were allowed to retain their posts; at present, most of the members of the Council are appointed senior civil servants serving in an acting-minister capacity<br>
-_elections/appointments_: an election was supposed to be held in 2022 or 2023, but the methodology for elections has still not been defined; military members of the Sovereign Council are selected by the leadership of the security forces; representatives of former armed groups to the Sovereign Council are selected by the signatories of the Juba Peace Agreement<br>
+_elections/appointments_: military members of the Sovereign Council are selected by the leadership of the security forces; representatives of former armed groups to the Sovereign Council are selected by the signatories of the Juba Peace Agreement<br>
 _election results_: NA<br>
+_expected date of next election_: supposed to be held in 2022 or 2023, but the methodology for elections has still not been defined<br>
 <strong>note 1:</strong> the 2019 Constitutional Declaration established a collective chief of state of the "Sovereign Council," which was chaired by al-BURHAN; on 25 October 2021, al-BURHAN dissolved the Sovereign Council but reinstated it on 11 November 2021, replacing its civilian members (previously selected by the umbrella civilian coalition the Forces for Freedom and Change) with civilians of the military’s choosing, but then relieved the newly appointed civilian members of their duties on 6 July 2022<br><br><strong>note 2:</strong> Sovereign Council currently consists of 5 generals<br>
 
 **Legislative branch**<br>
@@ -363,7 +364,7 @@ three equal horizontal bands of red (top), white, and black, with a green isosce
 **National symbol(s)**<br>
 secretary bird<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, black, green<br>
 
 **National anthem**<br>

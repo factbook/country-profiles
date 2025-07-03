@@ -78,7 +78,7 @@ Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
 Guaran&iacute; Aquifer System<br>
 
 **Population distribution**<br>
-one-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated<br>
+one third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated<br>
 
 **Natural hazards**<br>
 <p>San Miguel de Tucumán and Mendoza areas in the Andes subject to earthquakes; pamperos are violent windstorms that can strike the pampas and northeast; heavy flooding in some areas</p> <p><strong>volcanism:</strong> volcanic activity in the Andes Mountains along the Chilean border; Copahue (2,997 m) last erupted in 2000; other historically active volcanoes include Llullaillaco, Maipo, Planchón-Peteroa, San José, Tromen, Tupungatito, and Viedma</p><br>
@@ -136,7 +136,7 @@ _female_: 34.6 years<br>
 -0.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-one-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated<br>
+one third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated<br>
 
 **Urbanization**<br>
 _urban population_: 92.5% of total population (2023)<br>
@@ -339,8 +339,10 @@ _residency requirement for naturalization_: 2 years<br>
 _chief of state_: President Javier Gerardo MILEI (since 10 December 2023)<br>
 _head of government_: President Javier Gerardo MILEI (since 10 December 2023)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by qualified majority vote (to win, a candidate must receive at least 45% of votes or 40% of votes and a 10-point lead over the second place candidate; if neither occurs, a second round is held ); the president serves a 4-year term (eligible for a second consecutive term); election last held on 22 October 2023 with a runoff held 19 November 2023 (next to be held in October 2027)<br>
+_elections/appointments_: president and vice president directly elected on the same ballot by qualified majority vote (to win, a candidate must receive at least 45% of votes, or 40% of votes and a 10-point lead over the second-place candidate; if neither occurs, a second round is held); the president serves a 4-year term (eligible for a second consecutive term)<br>
+_most recent election date_: 22 October 2023, with a runoff held 19 November 2023<br>
 _election results_: <br>2023: Javier Gerardo MILEI elected president in second round; percent vote in first round - Sergio Tomás MASSA (FR) 36.7%, Javier Gerardo MILEI (PL) 30%, Patricia BULLRICH 23.8% (JxC/PRO), Juan SCHIARETTI (PJ) 6.8%, Myriam BREGMAN (PTS)<em> </em>2.7%; percent of vote in second round - Javier Gerardo MILEI 55.7%, Sergio Tomás MASSA 44.3%<em><br><br>2019:</em> Alberto Ángel FERNÁNDEZ elected president; percent of vote - Alberto Angel FERNÁNDEZ (TODOS) 48.1%, Mauricio MACRI (PRO) 40.4%, Roberto LAVAGNA (independent) 6.2%, other 5.3%<br>
+_expected date of next election_: October 2027<br>
 
 **Legislative branch**<br>
 _legislature name_: National Congress (Congreso de la nación)<br>
@@ -407,7 +409,7 @@ three equal horizontal bands of sky blue (top), white, and sky blue; centered in
 **National symbol(s)**<br>
 Sun of May (a sun-with-face symbol)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 sky blue, white<br>
 
 **National anthem**<br>

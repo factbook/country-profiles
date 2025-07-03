@@ -324,8 +324,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Petr PAVEL (since 9 March 2023)<br>
 _head of government_: Prime Minister Petr FIALA (since 17 December 2021)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held 13-14 January 2023, with a second round held&nbsp; 27-28 January 2023; next election to be held by January 2028; prime minister appointed by the president for a 4-year term<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (limited to 2 consecutive terms); prime minister appointed by the president for a 4-year term<br>
+_most recent election date_: 13-14 January 2023, with a second round on 27-28 January 2023<br>
 _election results_: <em><br>2023: </em>Petr PAVEL elected in the second round; percent of vote in the first round - Petr PAVEL (independent) 35.4%, Andrej BABIS (ANO) 35<em>%</em>, Danuse NERUDOVA (Mayors and Independents) 13.9%, Pavel FISCHER (independent) 6.8%; percent of vote in the second round - Petr PAVEL 58.3%, Andrej BABIS 41.6%<em><br><br>2018:</em> Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%<br>
+_expected date of next election_: by January 2028<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Parlament)<br>
@@ -394,7 +396,7 @@ two equal horizontal bands of white (top) and red with a blue isosceles triangle
 **National symbol(s)**<br>
 silver (or white) double-tailed rampant lion<br>
 
-**National colors**<br>
+**National color(s)**<br>
 white, red, blue<br>
 
 **National anthem**<br>
@@ -404,7 +406,7 @@ _lyrics/music_: Josef Kajetan TYL/Frantisek Jan SKROUP<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 17 (16 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Historic Prague (c); Historic Telč (c); Historic Česk&yacute; Krumlov (c); Lednice-Valtice Cultural Landscape (c); Historic Kutn&aacute; Hora (c); Holy Trinity Column, Olomouc (c); Karlovy Vary Spa (c); Zatec and the Landscape of Saaz Hops; Žatec and the Landscape of Saaz Hops (n)<br>
+_selected World Heritage Site locales_: Historic Prague (c); Historic Telč (c); Historic Český Krumlov (c); Lednice-Valtice Cultural Landscape (c); Historic Kutná Hora (c); Holy Trinity Column, Olomouc (c); Karlovy Vary Spa (c); Zatec and the Landscape of Saaz Hops; Žatec and the Landscape of Saaz Hops (n)<br>
 
 ## Economy
 

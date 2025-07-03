@@ -328,8 +328,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Bajram BEGAJ (since 24 July 2022)<br>
 _head of government_: Prime Minister Edi RAMA (since 10 September 2013)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, nominated by the president, and approved by the Assembly<br>
-_elections/appointments_: president indirectly elected by the Assembly for a 5-year term (eligible for a second term); a candidate needs three-fifths majority vote of the Assembly in 1 of 3 rounds or a simple majority in 2 additional rounds to become president; election last held in 4 rounds on 16, 23, and 30 May and 4 June 2022 (next election to be held in 2027); prime minister appointed by the president on the proposal of the majority party or coalition of parties in the Assembly<br>
+_elections/appointments_: president indirectly elected by the Assembly for a 5-year term (eligible for a second term); a candidate needs three-fifths majority vote of the Assembly in 1 of 3 rounds or a simple majority in 2 additional rounds to become president; prime minister appointed by the president on the proposal of the majority party or coalition of parties in the Assembly<br>
+_most recent election date_: held in 4 rounds on 16, 23, and 30 May and 4 June 2022<br>
 _election results_: <em><br>2022: </em>Bajram BEGAJ elected president in the fourth round; Assembly vote - 78-4, opposition parties boycotted<br><em><br>2017:</em> Ilir META elected president in the fourth round; Assembly vote - 87-2<br>
+_expected date of next election_: 2027<br>
 
 **Legislative branch**<br>
 _legislature name_: Albanian Parliament<br>
@@ -383,7 +385,7 @@ red with a black two-headed eagle in the center; the design is claimed to be tha
 **National symbol(s)**<br>
 black double-headed eagle<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, black<br>
 
 **National anthem**<br>

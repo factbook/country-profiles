@@ -394,7 +394,7 @@ white with a large red disk, representing the sun without rays, in the center<br
 **National symbol(s)**<br>
 red sun disc, chrysanthemum<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white<br>
 
 **National coat of arms**<br>
@@ -407,7 +407,7 @@ _lyrics/music_: unknown/Hiromori HAYASHI<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 26 (21 cultural, 5 natural)<br>
-_selected World Heritage Site locales_: <p>Buddhist Monuments in the Horyu-ji Area (c); Historic Monuments of Ancient Nara (c); Himeji-jo (c); Shiretoko (n); Mozu-Furuichi Kofun Group: Mounded Tombs of Ancient Japan (c); Iwami Ginzan Silver Mine and its Cultural Landscape (c); Jomon Prehistoric Sites in Northern Japan (c); Yakushima (n); Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities)(c); Hiroshima Peace Memorial (Genbaku Dome) (c); Shirakami-Sanchi (n); Historic Villages of Shirakawa-go and Gokayama (c); Itsukushima Shinto Shrine (c); Historic Monuments of Ancient Nara (c); Shrines and Temples of Nikko (c); Gusuku Sites and Related Properties of the Kingdom of Ryukyu (c); Sacred Sites and Pilgrimage Routes in the Kii Mountain Range (c); Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land (c); Ogasawara Islands (n); Fujisan, sacred place and source of artistic inspiration (c); Tomioka Silk Mill and Related Sites (c); Sites of Japan’s Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining (c); The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement (c); Sacred Island of Okinoshima and Associated Sites in the Munakata Region (c); Hidden Christian Sites in the Nagasaki Region (c); Amami-Oshima Island, Tokunoshima Island, Northern part of Okinawa Island, and Iriomote Island (n); Jomon Prehistoric Sites in Northern Japan (c); Sado Island Gold Mines (c)</p><br>
+_selected World Heritage Site locales_: <p>Buddhist Monuments in the Horyu-ji Area (c); Historic Monuments of Ancient Nara (c); Himeji-jo (c); Shiretoko (n); Mozu-Furuichi Kofun Group: Mounded Tombs of Ancient Japan (c); Jomon Prehistoric Sites in Northern Japan (c); Yakushima (n); Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities) (c); Hiroshima Peace Memorial (Genbaku Dome) (c); Shirakami-Sanchi (n); Historic Villages of Shirakawa-go and Gokayama (c); Itsukushima Shinto Shrine (c); Historic Monuments of Ancient Nara (c); Shrines and Temples of Nikko (c); Gusuku Sites and Related Properties of the Kingdom of Ryukyu (c); Sacred Sites and Pilgrimage Routes in the Kii Mountain Range (c); Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land (c); Ogasawara Islands (n); Sacred Island of Okinoshima and Associated Sites in the Munakata Region (c); Hidden Christian Sites in the Nagasaki Region (c); Amami-Oshima Island, Tokunoshima Island, Northern part of Okinawa Island, and Iriomote Island (n); Jomon Prehistoric Sites in Northern Japan (c)</p><br>
 
 ## Economy
 

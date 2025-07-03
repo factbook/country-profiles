@@ -327,8 +327,10 @@ _residency requirement for naturalization_: 5 years for those with an ancestor w
 _chief of state_: President Hakainde HICHILEMA (since 24 August 2021)<br>
 _head of government_: President Hakainde HICHILEMA (since 24 August 2021)<br>
 _cabinet_: Cabinet appointed by president from among members of the National Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 12 August 2021 (next to be held in 2026)<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br>
+_most recent election date_: 12 August 2021<br>
 _election results_: <em><br>2021</em>: Hakainde HICHILEMA elected president; percent of the vote - Hakainde HICHILEMA (UPND) 57.9%, Edgar LUNGU (PF) 37.3%, other 4.8%<br><br><em>2016</em>: Edgar LUNGU reelected president; percent of vote - Edgar LUNGU (PF) 50.4%, Hakainde HICHILEMA (UPND) 47.6%, other 2%; note - the president is both chief of state and head of government<br>
+_expected date of next election_: 2026<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly<br>
@@ -380,7 +382,7 @@ green field with a panel of three vertical bands of red (hoist side), black, and
 **National symbol(s)**<br>
 African fish eagle<br>
 
-**National colors**<br>
+**National color(s)**<br>
 green, red, black, orange<br>
 
 **National anthem**<br>

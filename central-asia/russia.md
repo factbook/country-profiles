@@ -351,8 +351,10 @@ _residency requirement for naturalization_: 3-5 years<br>
 _chief of state_: President Vladimir Vladimirovich PUTIN (since 7 May 2012)<br>
 _head of government_: Premier Mikhail Vladimirovich MISHUSTIN (since 16 January 2020)<br>
 _cabinet_: the government is composed of the premier, his deputies, and ministers, all appointed by the president; the premier is also confirmed by the Duma<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (2020 constitutional amendments allow a second consecutive term); election last held on 15 to 17 March 2024 (next to be held 2030)<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 6-year term (eligible for a second consecutive term)<br>
+_most recent election date_: 15-17 March 2024<br>
 _election results_: <br><em>2024</em>: Vladimir PUTIN reelected president; percent of vote - Vladimir PUTIN (independent) 88.5%, Nikolay KHARITONOV (Communist Party) 4.4%, Vladislav DAVANKOV (New People party) 3.9%, Leonid SLUTSKY (Liberal Democrats) 3.2%<br><br><em>2018: V</em>ladimir PUTIN reelected president; percent of vote - Vladimir PUTIN (independent) 77.5%, Pavel GRUDININ (CPRF) 11.9%, Vladimir ZHIRINOVSKIY (LDPR) 5.7%, other 4.9%; Mikhail MISHUSTIN (independent) approved as premier by Duma; vote - 383 to 0<em><br><br></em><br>
+_expected date of next election_: 2030<br>
 <strong>note:</strong> a Presidential Administration provides staff and policy support to the president, drafts presidential decrees, and coordinates policy among government agencies; a Security Council also reports directly to the president<br>
 
 **Legislative branch**<br>
@@ -416,7 +418,7 @@ three equal horizontal bands of white (top), blue, and red; created when Russia 
 **National symbol(s)**<br>
 bear, double-headed eagle<br>
 
-**National colors**<br>
+**National color(s)**<br>
 white, blue, red<br>
 
 **National coat of arms**<br>
@@ -429,7 +431,7 @@ _lyrics/music_: Sergey Vladimirovich MIKHALKOV/Aleksandr Vasilyevich ALEKSANDROV
 
 **National heritage**<br>
 _total World Heritage Sites_: 32 (21 cultural, 11 natural)<br>
-_selected World Heritage Site locales_: <p>Historic Centre of Saint Petersburg and Related Groups of Monuments (c); Kizhi Pogost (c); Kremlin and Red Square, Moscow (c); Cultural and Historic Ensemble of the Solovetsky Islands (c); Historic Monuments of Novgorod and Surroundings (c); White Monuments of Vladimir and Suzdal (c); Architectural Ensemble of the Trinity Sergius Lavra in Sergiev Posad (c); Church of the Ascension, Kolomenskoye (c); Virgin Komi Forests (n); Lake Baikal (n); Volcanoes of Kamchatka (n); Golden Mountains of Altai (n); Western Caucasus (n); Curonian Spit (c); Ensemble of the Ferapontov Monastery (c); Historic and Architectural Complex of the Kazan Kremlin (c); Central Sikhote-Alin (n); Citadel, Ancient City and Fortress Buildings of Derbent (c); Uvs Nuur Basin (n); Ensemble of the Novodevichy Convent(c); Natural System of Wrangel Island Reserve (n); Historical Centre of the City of Yaroslavl (c); Struve Geodetic Arc (c); Putorana Plateau (n); Lena Pillars Nature Park (n); Bolgar Historical and Archaeological Complex (c); Assumption Cathedral and Monastery of the town-island of Sviyazhsk (c); Landscapes of Dauria (n); Churches of the Pskov School of Architecture (c); Petroglyphs of Lake Onega and the White Sea (c); Astronomical Observatories of Kazan Federal University (c); Cultural Landscape of Kenozero Lake (c)</p><br>
+_selected World Heritage Site locales_: <p>Historic Centre of Saint Petersburg and Related Groups of Monuments (c); Kizhi Pogost (c); Kremlin and Red Square, Moscow (c); Historic Monuments of Novgorod and Surroundings (c); White Monuments of Vladimir and Suzdal (c); Architectural Ensemble of the Trinity Sergius Lavra in Sergiev Posad (c); Church of the Ascension, Kolomenskoye (c); Lake Baikal (n); Volcanoes of Kamchatka (n); Ensemble of the Ferapontov Monastery (c); Historic and Architectural Complex of the Kazan Kremlin (c); Citadel, Ancient City and Fortress Buildings of Derbent (c); Uvs Nuur Basin (n); Ensemble of the Novodevichy Convent (c); Natural System of Wrangel Island Reserve (n); Historical Centre of the City of Yaroslavl (c); Lena Pillars Nature Park (n); Bolgar Historical and Archaeological Complex (c); Assumption Cathedral and Monastery of the town-island of Sviyazhsk (c); Churches of the Pskov School of Architecture (c); Petroglyphs of Lake Onega and the White Sea (c)</p><br>
 
 ## Economy
 

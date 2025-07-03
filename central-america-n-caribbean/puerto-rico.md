@@ -267,8 +267,10 @@ see United States<br>
 _chief of state_: President Donald J. TRUMP (since 20 January 2025)<br>
 _head of government_: Governor Jenniffer GONZ&Aacute;LEZ-COL&Oacute;N (since 2 January 2025)<br>
 _cabinet_: Cabinet appointed by governor with the consent of the Legislative Assembly<br>
-_elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of Puerto Rico do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 5 November 2024 (next to be held on 7 November 2028)<br>
+_elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of electors chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of Puerto Rico do not vote in elections for US president and vice president, but they can vote in Democratic and Republican party presidential primary elections; governor directly elected by simple-majority popular vote for a 4-year term (no term limits)<br>
+_most recent election date_: 5 November 2024<br>
 _election results_: <p><em>2024: </em>Jenniffer GONZÁLEZ-COLÓN elected governor; percent of vote - Jenniffer GONZÁLEZ-COLÓN (PNP) 39.4%, Juan DALMAU Ramírez (PIP) 32.7%, Jesús Manuel ORTIZ (PPD) 21.1%, Javier JIMÉNEZ (PD) 6.7%, other 0.1%<em><br><br>2020:</em> Pedro PIERLUISI elected governor; percent of vote - Pedro PIERLUISI (PNP) 32.9%, Carlos DELGADO (PPD) 31.6%, Alexandra LUGARO (independent) 14.2%, Juan DALMAU (PIP) 13.7%, other 7.6%</p><br>
+_expected date of next election_: 7 November 2028<br>
 
 **Legislative branch**<br>
 _legislature name_: Legislative Assembly (Asamblea Legislativa)<br>
@@ -328,7 +330,7 @@ five equal horizontal bands of red (top, center, and bottom) alternating with wh
 **National symbol(s)**<br>
 Puerto Rican spindalis (bird), coqui (frog)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, blue<br>
 
 **National anthem**<br>

@@ -71,7 +71,7 @@ Donau (Danube) (shared with Germany [s], Slovakia, Hungary, Croatia, Serbia, Bul
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
-the northern and eastern portions of the country are more densely populated; nearly two-thirds of the populace lives in urban areas<br>
+the northern and eastern portions of the country are more densely populated; nearly two thirds of the populace lives in urban areas<br>
 
 **Natural hazards**<br>
 landslides; avalanches; earthquakes<br>
@@ -131,7 +131,7 @@ _female_: 46.3 years<br>
 3.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the northern and eastern portions of the country are more densely populated; nearly two-thirds of the populace lives in urban areas<br>
+the northern and eastern portions of the country are more densely populated; nearly two thirds of the populace lives in urban areas<br>
 
 **Urbanization**<br>
 _urban population_: 59.5% of total population (2023)<br>
@@ -331,8 +331,10 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Alexander VAN DER BELLEN (since 26 January 2017)<br>
 _head of government_: Chancellor Christian STOCKER (since 3 March 2025)<br>
 _cabinet_: Council of Ministers proposed by the chancellor and appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 9 October 2022 (next to be held in 2028); chancellor appointed by the president but determined by the majority coalition parties in the Federal Assembly; vice chancellor appointed by the president on the advice of the chancellor<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 6-year term (eligible for a second term); chancellor appointed by the president but determined by the majority coalition parties in the Federal Assembly; vice chancellor appointed by the president on the advice of the chancellor<br>
+_most recent election date_: 9 October 2022<br>
 _election results_: <br><em>2022:</em> Alexander VAN DER BELLEN reelected in first round; percent of vote - Alexander VAN DER BELLEN (independent) 56.7%, Walter ROSENKRANZ (FPO) 17.7%, Dominik WLAZNY (Beer Party) 8.3%, Tassilo WALLENTIN (independent) 8.1%, Gerald GROSZ (independent) 5.6%<em><br><br>2016:</em> Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbert HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round - Alexander VAN DER BELLEN 53.8%, Norbert HOFER 46.2%<br>
+_expected date of next election_: 2028<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Parlament)<br>
@@ -352,6 +354,7 @@ _expected date of next election_: September 2029<br>
 **Legislative branch - upper chamber**<br>
 _chamber name_: Federal Council (Bundesrat)<br>
 _number of seats_: 60 (all indirectly elected)<br>
+_parties elected and seats per party_: People's Party (OVP) (22); Social Democratic Party (SPO) (18); Freedom Party (16); Greens (3); NEOS (New Austria) (1)<br>
 _percentage of women in chamber_: 46.7%<br>
 
 **Judicial branch**<br>
@@ -394,7 +397,7 @@ three equal horizontal bands of red (top), white, and red; the flag design is on
 **National symbol(s)**<br>
 eagle, edelweiss, Alpine gentian<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white<br>
 
 **National anthem**<br>

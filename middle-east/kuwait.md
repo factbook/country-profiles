@@ -362,7 +362,7 @@ three equal horizontal bands of green (top), white, and red with a black trapezo
 **National symbol(s)**<br>
 golden falcon<br>
 
-**National colors**<br>
+**National color(s)**<br>
 green, white, red, black<br>
 
 **National anthem**<br>

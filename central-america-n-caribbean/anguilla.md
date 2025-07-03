@@ -62,7 +62,7 @@ _other_: 38.9% (2022 est.)<br>
 0 sq km (2020)<br>
 
 **Population distribution**<br>
-most of the population is concentrated in The Valley in the center of the island; settlement is fairly uniform in the southwest, but rather sparce in the northeast<br>
+most of the population is concentrated in The Valley in the center of the island; settlement is fairly uniform in the southwest, but rather sparse in the northeast<br>
 
 **Natural hazards**<br>
 frequent hurricanes and other tropical storms (July to October)<br>
@@ -120,7 +120,7 @@ _female_: 39 years<br>
 10.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most of the population is concentrated in The Valley in the center of the island; settlement is fairly uniform in the southwest, but rather sparce in the northeast<br>
+most of the population is concentrated in The Valley in the center of the island; settlement is fairly uniform in the southwest, but rather sparse in the northeast<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
@@ -235,7 +235,7 @@ see United Kingdom<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Julia CROUCH (since 11 September 2023)<br>
 _head of government_: Premier Cora RICHARDSON-HODGE (since 27 February 2025)<br>
 _cabinet_: Executive Council appointed by the governor from among elected members of the House of Assembly<br>
-_elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor<br>
+_elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the governor usually appoints the leader of the majority party or majority coalition as premier&nbsp;<br>
 
 **Legislative branch**<br>
 _legislature name_: House of Assembly<br>

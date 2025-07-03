@@ -72,7 +72,7 @@ Rio Zambeze (Zambezi) river mouth (shared with Zambia [s]), Angola, Namibia, Bot
 Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
 
 **Population distribution**<br>
-three large populations clusters are found along the southern coast between Maputo and Inhambane, in the central area between Beira and Chimoio along the Zambezi River, and in and around the northern cities of Nampula, Cidade de Nacala, and Pemba; the northwest and southwest are the least populated areas as shown in this population distribution map<br>
+three large population clusters are found along the southern coast between Maputo and Inhambane, in the central area between Beira and Chimoio along the Zambezi River, and in and around the northern cities of Nampula, Cidade de Nacala, and Pemba; the northwest and southwest are the least populated areas, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 severe droughts; devastating cyclones and floods in central and southern provinces<br>
@@ -129,7 +129,7 @@ _female_: 17.9 years<br>
 -1.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-three large populations clusters are found along the southern coast between Maputo and Inhambane, in the central area between Beira and Chimoio along the Zambezi River, and in and around the northern cities of Nampula, Cidade de Nacala, and Pemba; the northwest and southwest are the least populated areas as shown in this population distribution map<br>
+three large population clusters are found along the southern coast between Maputo and Inhambane, in the central area between Beira and Chimoio along the Zambezi River, and in and around the northern cities of Nampula, Cidade de Nacala, and Pemba; the northwest and southwest are the least populated areas, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 38.8% of total population (2023)<br>
@@ -333,8 +333,9 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Daniel Francisco CHAPO (since 15 January 2025)<br>
 _head of government_: Prime Minister Maria Benvinda Delfina LEVI (since 17 January 2025)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president elected directly by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 2 consecutive terms); election last held on 15 October 2019 (next to be held on 9 October 2024); prime minister appointed by the president<br>
-_election results_: <em><br>2019</em>: Filipe NYUSI reelected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 73.0%, Ossufo MOMADE (RENAMO) 21.9%, Daviz SIMANGO (MDM) 5.1%<br><br><em>2014</em>:  Filipe NYUSI elected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 57.0%, Afonso DHLAKAMA (RENAMO) 36.6%, Daviz SIMANGO (MDM) 6.4%<br>
+_elections/appointments_: president elected directly by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for 2 consecutive terms); election last held on 9 October 2024 (next to be held by October 2029); prime minister appointed by the president<br>
+_most recent election date_: 9 October 2024<br>
+_election results_: <em><br>2024</em>: Daniel CHAPO elected president in first round; percent of vote - Daniel CHAPO (FRELIMO) 65.2%, Venâncio MONDLANE (PODEMOS) 24.2%, Ossufo MOMADE (RENAMO) 6.6%<br>
 
 **Legislative branch**<br>
 _legislature name_: Assembly of the Republic (Assembleia da Republica)<br>
@@ -386,7 +387,7 @@ three equal horizontal bands of green (top), black, and yellow, with a red isosc
 **National symbol(s)**<br>
 rifle, hoe, and book<br>
 
-**National colors**<br>
+**National color(s)**<br>
 green, black, yellow, white, red<br>
 
 **National anthem**<br>

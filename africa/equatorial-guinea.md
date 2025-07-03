@@ -285,8 +285,10 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President OBIANG Nguema Mbasogo (since 3 August 1979)<br>
 _head of government_: Prime Minister Manuela ROKA Botey (since 1 February 2023)<br>
 _cabinet_: Council of Ministers appointed by the president and overseen by the prime minister<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 20 November 2022 (next to be held in 2029); prime minister and deputy prime ministers appointed by the president; President OBIANG Nguema Mbasogo since 3 August 1979 when he seized power in a military coup)<br>
+_elections/appointments_: president directly elected by simple-majority popular vote for a 7-year term (eligible for a second term); prime minister and deputy prime ministers appointed by the president<br>
+_most recent election date_: 20 November 2022<br>
 _election results_: <em><br>2022: </em>OBIANG Nguema Mbasogo reelected president; percent of vote - OBIANG Nguema Mbasogo (PDGE) 95%, other 6.1%<br><br><em>2016: </em>OBIANG Nguema Mbasogo reelected president; percent of vote - OBIANG Nguema Mbasogo (PDGE) 93.5%, other 6.5%<br>
+_expected date of next election_: 2029<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Parlamento)<br>
@@ -352,7 +354,7 @@ three equal horizontal bands of green (top), white, and red, with a blue isoscel
 **National symbol(s)**<br>
 silk cotton tree<br>
 
-**National colors**<br>
+**National color(s)**<br>
 green, white, red, blue<br>
 
 **National anthem**<br>

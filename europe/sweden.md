@@ -375,7 +375,7 @@ blue with a golden yellow cross extending to the edges of the flag; the vertical
 **National symbol(s)**<br>
 three crowns, lion<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, yellow<br>
 
 **National anthem**<br>

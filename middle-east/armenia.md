@@ -65,7 +65,7 @@ _other_: 29.6% (2022 est.)<br>
 _fresh water lake(s)_: Lake Sevan - 1,360 sq km<br>
 
 **Population distribution**<br>
-most of the population is located in the northern half of the country; the capital of Yerevan is home to more than five times as many people as Gyumri, the second largest city in the country<br>
+most of the population is located in the northern half of the country; the capital of Yerevan is home to more than five times as many people as Gyumri, the second-largest city in the country<br>
 
 **Natural hazards**<br>
 occasionally severe earthquakes; droughts<br>
@@ -123,7 +123,7 @@ _female_: 40.3 years<br>
 -5.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most of the population is located in the northern half of the country; the capital of Yerevan is home to more than five times as many people as Gyumri, the second largest city in the country<br>
+most of the population is located in the northern half of the country; the capital of Yerevan is home to more than five times as many people as Gyumri, the second-largest city in the country<br>
 
 **Urbanization**<br>
 _urban population_: 63.7% of total population (2023)<br>
@@ -318,8 +318,10 @@ _residency requirement for naturalization_: 3 years<br>
 _chief of state_: President Vahagn KHACHATURYAN (since 13 March 2022)<br>
 _head of government_: Prime Minister Nikol PASHINYAN (since 10 September 2021)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
-_elections/appointments_: president indirectly elected by the National Assembly in 3 rounds if needed for a single 7-year term; election last held on 2 and 3 March 2022 (next election to be held in 2029); prime minister indirectly elected by majority vote in two rounds if needed by the National Assembly<br>
+_elections/appointments_: president indirectly elected by the National Assembly in 3 rounds, if needed, for a single 7-year term; prime minister indirectly elected by majority vote in two rounds, if needed, by the National Assembly<br>
+_most recent election date_: 3 March 2022<br>
 _election results_: <br><em>2022: </em>Vahagn KHACHATURYAN elected president in second round; note - Vahagn KHACHATURYAN (independent) ran unopposed and won the Assembly vote 71-0<br><em><br>2018:</em> Armen SARKISSIAN elected president in first round; note - Armen SARKISSIAN (indpendent) ran unopposed and won the Assembly vote 90-10<br>
+_expected date of next election_: 2029<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Azgayin Zhoghov)<br>
@@ -373,7 +375,7 @@ three equal horizontal bands of red (top), blue, and orange; the color red stand
 **National symbol(s)**<br>
 Mount Ararat, eagle, lion<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, blue, orange<br>
 
 **National anthem**<br>

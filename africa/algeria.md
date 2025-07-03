@@ -319,8 +319,10 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: President Abdelmadjid TEBBOUNE (since 12 December 2019)<br>
 _head of government_: Prime Minister Nadir LARBAOUI (since 11 November 2023)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in two rounds if needed for a 5-year term (eligible for a second term); election last held on 7 September 2024 (next to be held in 2029); prime minister nominated by the president after consultation with the majority party in Parliament<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in two rounds if needed for a 5-year term (eligible for a second term); prime minister nominated by the president after consultation with the majority party in Parliament<br>
+_most recent election date_: 7 September 2024<br>
 _election results_: <em><br>2024: </em>Abdelmadjid TEBBOUNE (NLF) 94.7%, Abdelaali Hassani CHERIF (MSP) 3.2%, Youcef AOUCHICHE (FFS) 2.2%<em><br><br>2019:</em> (FLN) 58.1%, Abdelkader BENGRINA (El-Bina) 17.4%, Ali BENFLIS (Talaie El Hurriyet) 10.6%, Azzedine MIHOUBI (RND) 7.3%, Abdelaziz BELAID (Future Front) 6.7%<br>
+_expected date of next election_: 2029<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Barlaman)<br>
@@ -388,7 +390,7 @@ two equal vertical bands of green (hoist side) and white; a red, five-pointed st
 **National symbol(s)**<br>
 five-pointed star between the extended horns of a crescent moon; fennec fox<br>
 
-**National colors**<br>
+**National color(s)**<br>
 green, white, red<br>
 
 **National anthem**<br>

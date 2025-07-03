@@ -65,7 +65,7 @@ _other_: 5.3% (2022 est.)<br>
 1,015 sq km (2012)<br>
 
 **Population distribution**<br>
-roughly half of the nation's population resides in urban areas; the capital of San Jose is the largest city and home to approximately one-fifth of the population<br>
+roughly half of the nation's population resides in urban areas; the capital of San Jose is the largest city and home to approximately one fifth of the population<br>
 
 **Natural hazards**<br>
 <p>occasional earthquakes, hurricanes along Atlantic coast; frequent flooding of lowlands at onset of rainy season and landslides; active volcanoes</p><p><strong>volcanism:</strong> Arenal (1,670 m), which erupted in 2010, is the most active volcano in Costa Rica; a 1968 eruption destroyed the town of Tabacon; Irazu (3,432 m), situated just east of San Jose, has the potential to spew ash over the capital city as it did between 1963 and 1965; other historically active volcanoes include Miravalles, Poas, Rincon de la Vieja, and Turrialba</p><br>
@@ -123,7 +123,7 @@ _female_: 36.1 years<br>
 1.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-roughly half of the nation's population resides in urban areas; the capital of San Jose is the largest city and home to approximately one-fifth of the population<br>
+roughly half of the nation's population resides in urban areas; the capital of San Jose is the largest city and home to approximately one fifth of the population<br>
 
 **Urbanization**<br>
 _urban population_: 82.6% of total population (2023)<br>
@@ -312,8 +312,10 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: President Rodrigo CHAVES Robles (since 8 May 2022)<br>
 _head of government_: President Rodrigo CHAVES Robles (since 8 May 2022)<br>
 _cabinet_: Cabinet selected by the president<br>
-_elections/appointments_: president and vice presidents directly elected on the same ballot by modified majority popular vote (40% threshold) for a 4-year term (eligible for non-consecutive terms); election last held on 6 February 2022, with a runoff on 3 April 2022 (next to be held in February 2026, with a runoff in April 2026)<br>
+_elections/appointments_: president and vice presidents directly elected on the same ballot by modified majority popular vote (40% threshold) for a 4-year term (eligible for non-consecutive terms)<br>
+_most recent election date_: 6 February 2022, with a runoff on 3 April 2022<br>
 _election results_: <br><em>2022: </em>Rodrigo CHAVES Robles elected president in second round; percent of vote in first round - Jose Maria FIGUERES Olsen (PLN) 27.3%,<em> </em>Rodrigo CHAVES Robles (PPSD) 16.8%, Fabricio ALVARADO Munoz (PNR) 14.9%, Eliecer FEINZAIG Mintz (PLP) 12.4%, Lineth SABORIO Chaverri (PUSC) 12.4%, Jose Maria VILLALTA Florez-Estrada 8.7% (PFA), other 7.5%; percent of vote in second round - Rodrigo CHAVES Robles (PPSD) 52.8%, Jose Maria FIGUERES Olsen (PLN) 47.2%<br><br><em>2018:</em> Carlos ALVARADO Quesada elected president in second round; percent of vote in first round - Fabricio ALVARADO Munoz (PRN) 25%; Carlos ALVARADO Quesada (PAC) 21.6%; Antonio ALVAREZ (PLN) 18.6%; Rodolfo PIZA (PUSC) 16%; Juan Diego CASTRO (PIN) 9.5%; Rodolfo HERNANDEZ (PRSC) 4.9%, other 4.4%; percent of vote in second round - Carlos ALVARADO Quesada (PAC) 60.7%; Fabricio ALVARADO Munoz (PRN) 39.3%<br>
+_expected date of next election_: February 2026 (a runoff, if needed, will take place in April 2026)<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -368,7 +370,7 @@ five horizontal bands of blue (top), white, red (double width), white, and blue,
 **National symbol(s)**<br>
 yiguirro (clay-colored thrush)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, white, red<br>
 
 **National coat of arms**<br>

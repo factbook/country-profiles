@@ -206,8 +206,10 @@ _amendment process_: proposed by the Assembly; passage requires at least two-thi
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor-General of New Zealand Cindy KIRO (since 21 October 2021); the UK and New Zealand are represented by New Zealand High Commissioner Mark GIBBS (since 5 March 2024)<br>
 _head of government_: Prime Minister Dalton TAGELAGI; also referred to as premier (since 10 June 2020)<br>
 _cabinet_: Cabinet chosen by the prime minister<br>
-_elections/appointments_: the monarchy is hereditary; prime minister indirectly elected by the Legislative Assembly for a 3-year term; election last held on 8 May 2023 (next to be held in 2026)<br>
+_elections/appointments_: the monarchy is hereditary; prime minister indirectly elected by the Legislative Assembly for a 3-year term<br>
+_most recent election date_: 8 May 2023<br>
 _election results_: Dalton TAGELAGI reelected prime minister; Legislative Assembly vote - Dalton TAGELAGI (independent) 16, O'Love JACOBSEN (independent) 4<br>
+_expected date of next election_: 2026<br>
 
 **Legislative branch**<br>
 _legislature name_: Niue Assembly (Fono Ekepule)<br>
@@ -252,7 +254,7 @@ yellow with the UK flag in the upper hoist-side quadrant; the UK flag has five y
 **National symbol(s)**<br>
 yellow five-pointed star<br>
 
-**National colors**<br>
+**National color(s)**<br>
 yellow<br>
 
 **National anthem**<br>

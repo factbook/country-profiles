@@ -232,7 +232,7 @@ a yellow stylized Tokelauan canoe on a dark blue field sails toward the Southern
 **National symbol(s)**<br>
 tuluma (fishing tackle box)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, yellow, white<br>
 
 **National anthem**<br>

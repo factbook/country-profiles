@@ -233,7 +233,7 @@ see France<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by Administrator Superior Blaise GOURTAY (since 1 August 2023)<br>
 _head of government_: President of the Territorial Assembly Munipoese MULI'AKA'AKA (since 20 March 2022)<br>
 _cabinet_: Council of the Territory appointed by the administrator superior on the advice of the Territorial Assembly<br>
-_elections/appointments_: French president elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); administrator superior appointed by the French president on the advice of the French Ministry of the Interior; the presidents of the Territorial Government and the Territorial Assembly elected by assembly members<br>
+_elections/appointments_: French president elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); administrator superior appointed by the French president on the advice of the French Ministry of the Interior; the presidents of the Territorial Government and the Territorial Assembly elected by assembly members<br>
 <strong>note:</strong> there are 3 traditional kings with limited powers<br>
 
 **Legislative branch**<br>
@@ -278,7 +278,7 @@ unofficial local flag has a red field with four white isosceles triangles in the
 **National symbol(s)**<br>
 red saltire (Saint Andrew's Cross) on a white square on a red field<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white<br>
 
 **National anthem**<br>

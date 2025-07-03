@@ -327,8 +327,10 @@ _residency requirement for naturalization_: 10 years for persons with no ties to
 _chief of state_: King FELIPE VI (since 19 June 2014)<br>
 _head of government_: President of the Government of Spain (prime minister-equivalent) Pedro SANCHEZ PEREZ-CASTEJON (since 2 June 2018)<br>
 _cabinet_: Council of Ministers designated by the president<br>
-_elections/appointments_: the monarchy is hereditary; following legislative elections, the monarch usually proposes as president the leader of the majority party or coalition, who is then indirectly elected by the Congress of Deputies; election last held on 23 July 2023 (next to be held on 31 July 2027); vice president and Council of Ministers appointed by the president<br>
+_elections/appointments_: the monarchy is hereditary; following legislative elections, the monarch usually proposes as president the leader of the majority party or coalition, who is then indirectly elected by the Congress of Deputies; vice president and Council of Ministers appointed by the president<br>
+_most recent election date_: 23 July 2023<br>
 _election results_: Congress of Deputies vote - 179 to 171 (16 November 2023)<br>
+_expected date of next election_: 31 July 2027<br>
 <strong>note:</strong> there is also a Council of State that is the supreme consultative organ of the government, but its recommendations are non-binding<br>
 
 **Legislative branch**<br>
@@ -398,7 +400,7 @@ three horizontal bands of red (top), yellow (double-width), and red, with the na
 **National symbol(s)**<br>
 Pillars of Hercules<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, yellow<br>
 
 **National anthem**<br>
@@ -408,7 +410,7 @@ _lyrics/music_: no lyrics/unknown<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 50 (44 cultural, 4 natural, 2 mixed)<br>
-_selected World Heritage Site locales_: Cave of Altamira and Paleolithic Cave Art of Northern Spain (c); Works of Antoni Gaudí (c); Santiago de Compostela (Old Town) (c); Historic City of Toledo (c); Archaeological Ensemble of Mérida (c); Tower of Hercules (c); Doñana National Park (n); Pyrénées - Mont Perdu (m); Alhambra, Generalife, and Albayzín in Granada (c); Old City of Salamanca (c); Teide National Park (n); Historic Walled Town of Cuenca (c); Old Town of Segovia and its Aqueduct (c); Historic Cordoba (c); El Escorial (c)<br>
+_selected World Heritage Site locales_: Cave of Altamira and Paleolithic Cave Art of Northern Spain (c); Works of Antoni Gaudí (c); Santiago de Compostela (Old Town) (c); Historic City of Toledo (c); Archaeological Ensemble of Mérida (c); Tower of Hercules (c); Doñana National Park (n); Pyrénées - Mont Perdu (m); Alhambra, Generalife, and Albayzín in Granada (c); Old City of Salamanca (c); Teide National Park (n); Historic Walled Town of Cuenca (c); Old Town of Segovia and its Aqueduct (c); Historic Cordoba (c); Royal Site of Saint Lorenzo de El Escorial (c); Cathedral, Alcázar, and Archivo de Indias in Seville<br>
 
 ## Economy
 

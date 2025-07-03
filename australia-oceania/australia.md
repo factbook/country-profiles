@@ -79,7 +79,7 @@ Indian Ocean drainage: <em>(Great Australian Bight)</em> Murray-Darling (1,050,1
 Great Artesian Basin, Canning Basin<br>
 
 **Population distribution**<br>
-population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the States and Territories, New South Wales has, by far, the largest population; the interior, or "outback", has a very sparse population<br>
+population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the states and territories, New South Wales has, by far, the largest population; the interior, or "outback," has a very sparse population<br>
 
 **Natural hazards**<br>
 <p>cyclones along the coast; severe droughts; forest fires</p><p><strong>volcanism:</strong> volcanic activity on Heard and McDonald Islands</p><br>
@@ -138,7 +138,7 @@ _female_: 39.2 years<br>
 5.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the States and Territories, New South Wales has, by far, the largest population; the interior, or "outback", has a very sparse population<br>
+population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the states and territories, New South Wales has, by far, the largest population; the interior, or "outback," has a very sparse population<br>
 
 **Urbanization**<br>
 _urban population_: 86.6% of total population (2023)<br>
@@ -409,7 +409,7 @@ blue, with the flag of the UK in the upper hoist-side quadrant and a large seven
 **National symbol(s)**<br>
 Commonwealth Star (seven-pointed Star of Federation), golden wattle tree (<em>Acacia pycnantha</em>), kangaroo, emu<br>
 
-**National colors**<br>
+**National color(s)**<br>
 green, gold<br>
 
 **National coat of arms**<br>

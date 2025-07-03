@@ -326,8 +326,10 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: President Alyaksandr LUKASHENKA (since 20 July 1994)<br>
 _head of government_: Prime Minister Alyaksandr TURCHYN (since 10 March 2025)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); first election held on 23 June and 10 July 1994; the 1994 constitution set the next election for 1999, but Alyaksandr LUKASHENKA extended his term to 2001 via a referendum; subsequent election held in 2001; a 2004 referendum ended presidential term limits and allowed LUKASHENKA to run and win a third term (19 March 2006), fourth term (19 December 2010), fifth term (11 October 2015), sixth term (9 August 2020), and seventh term (26 January 2025); next election to be held in 2030; prime minister and deputy prime ministers appointed by the president and approved by the National Assembly<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (no term limits); prime minister and deputy prime ministers appointed by the president and approved by the National Assembly<br>
+_most recent election date_: first election held on 23 June and 10 July 1994; the 1994 constitution set the next election for 1999, but Alyaksandr LUKASHENKA extended his term to 2001 via a referendum; subsequent election held in 2001; a 2004 referendum ended presidential term limits and allowed LUKASHENKA to run and win a third term (19 March 2006), fourth term (19 December 2010), fifth term (11 October 2015), sixth term (9 August 2020), and seventh term (26 January 2025)<br>
 _election results_: <em><br>2025: </em>Alyaksandr LUKASHENKA reelected president; percent of vote - Alyaksandr LUKASHENKA (independent) 86.8%, Sergey Syrankov (Communist Party) 3.2%, 3.6% voting against all<em><br><br>2020:</em> Alyaksandr LUKASHENKA reelected president; percent of vote - Alyaksandr LUKASHENKA (independent) 80.1%, Svyatlana TSIKHANOWSKAYA (independent) 10.1%, other 9.8%; note - widespread street protests erupted following announcement of the election results amid allegations of voter fraud<br><em><br>2015:</em> Alyaksandr LUKASHENKA elected president; percent of vote - Alyaksandr LUKASHENKA (independent) 84.1%, Tatsyana KARATKEVIC (BSDPH) 4.4%, Sergey GAYDUKEVICH (LDP) 3.3%, other 8.2%.<br>
+_expected date of next election_: 2030<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Natsionalnoye Sobranie)<br>
@@ -391,7 +393,7 @@ red horizontal band (top) and green horizontal band one-half the width of the re
 **National symbol(s)**<br>
 no official symbol; the mounted knight known as Pahonia (the Chaser) is the traditional symbol<br>
 
-**National colors**<br>
+**National color(s)**<br>
 green, red, white<br>
 
 **National anthem**<br>

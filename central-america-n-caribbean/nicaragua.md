@@ -307,8 +307,10 @@ _residency requirement for naturalization_: 4 years<br>
 _chief of state_: President Jose Daniel ORTEGA Saavedra (since 10 January 2007)<br>
 _head of government_: President Jose Daniel ORTEGA Saavedra (since 10 January 2007)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by qualified plurality vote for a 6-year term (no term limits); election last held on 7 November 2021 (next to be held on 1 November 2026)<br>
+_elections/appointments_: president and vice president directly elected on the same ballot by qualified plurality vote for a 6-year term (no term limits)<br>
+_most recent election date_: 7 November 2021<br>
 _election results_: <br><em>2021:</em> Jose Daniel ORTEGA Saavedra reelected president for a fourth consecutive term; percent of vote - Jose Daniel ORTEGA Saavedra (FSLN) 75.9%, Walter ESPINOZA (PLC) 14.3%, Guillermo OSORNO (CCN) 3.3%, Marcelo MONTIEL (ALN) 3.1%, other 3.4%<br><em><br>2016:</em> Jose Daniel ORTEGA Saavedra reelected president for a third consecutive term; percent of vote - Jose Daniel ORTEGA Saavedra (FSLN) 72.4%, Maximino RODRIGUEZ (PLC) 15%, Jose del Carmen ALVARADO (PLI) 4.5%, Saturnino CERRATO Hodgson (ALN) 4.3%, other 3.7%<br>
+_expected date of next election_: 1 November 2026<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -363,7 +365,7 @@ three equal horizontal bands of blue (top), white, and blue, with the national c
 **National symbol(s)**<br>
 turquoise-browed motmot (bird)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, white<br>
 
 **National anthem**<br>
@@ -373,7 +375,7 @@ _lyrics/music_: Salomon Ibarra MAYORGA/traditional, arranged by Luis Abraham DEL
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>
-_selected World Heritage Site locales_: Ruins of Le&oacute;n Viejo; Le&oacute;n Cathedral<br>
+_selected World Heritage Site locales_: Ruins of León Viejo; León Cathedral<br>
 
 ## Economy
 

@@ -321,8 +321,10 @@ _residency requirement for naturalization_: 5 years with no absences of six cons
 _chief of state_: President Bernardo AR&Eacute;VALO de Le&oacute;n (since 15 January 2024)<br>
 _head of government_: President Bernardo AR&Eacute;VALO de Le&oacute;n (since 15 January 2024)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (not eligible for consecutive terms); election last held on 25 June 2023, with a runoff on 20 August 2023 (next to be held in June 2027)<br>
+_elections/appointments_: president and vice president directly elected on the same ballot by absolute-majority popular vote in 2 rounds, if needed, for a 4-year term (not eligible for consecutive terms)<br>
+_most recent election date_: 25 June 2023, with a runoff on 20 August 2023<br>
 _election results_: <em><br>2023:</em> Bernardo ARÉVALO de León elected president in second round; percent of vote in first round - Sandra TORRES (UNE) 21%; Bernardo ARÉVALO de León (SEMILLA) 15.6%, Manuel CONDE Orellana (VAMOS) 10.4%; Armando CASTILLO Alvarado (VIVA) 9.6%, other 43.4%; percent of vote in second round - Bernardo ARÉVALO de León 60.9%, Sandra TORRES 39.1%<br><em><br>2019:</em> Alejandro GIAMMATTEI elected president; percent of vote in first round - Sandra TORRES (UNE) 25.5%, Alejandro GIAMMATTEI (VAMOS) 14%, Edmond MULET (PHG) 11.2%, Thelma CABRERA (MLP) 10.4%, Roberto ARZU (PAN-PODEMOS) 6.1%, other 32.8%; percent of vote in second round - Alejandro GIAMMATTEI 58%, Sandra TORRES 42%<br>
+_expected date of next election_: June 2027<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -379,7 +381,7 @@ three equal vertical bands of light blue (hoist side), white, and light blue, wi
 **National symbol(s)**<br>
 quetzal (bird)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, white<br>
 
 **National anthem**<br>
@@ -674,10 +676,10 @@ the military is lightly armed with an inventory mostly comprised of older US equ
 all male citizens 18-50 are eligible for military service; most of the force is volunteer; a selective draft system is employed, resulting in a small portion of 17-21 year-olds being conscripted; conscript service obligation varies from 12-24 months; women may volunteer (2023)<br>
 
 **Military deployments**<br>
-190 Democratic Republic of the Congo (MONUSCO) (2024)<br>
+180 Democratic Republic of the Congo (MONUSCO) (2025)<br>
 
 **Military - note**<br>
-the military is responsible for maintaining independence, sovereignty, territorial integrity, and the honor of Guatemala, but has long focused on internal security; since the 2000s, the Guatemalan Government has used the military to support the National Civil Police in internal security operations (as permitted by the constitution) to combat organized crime, gang violence, and narco-trafficking; in recent years however, the military has sought to place more emphasis on other missions such as border security and traditional military operations; it has also created new brigades for cybersecurity (2024) and responding to national emergencies/providing humanitarian assistance (2023); it participates in UN missions on a small scale and has a peacekeeping operations training command that offers training to regional countries; the military has security ties with regional partners such as Brazil, Colombia, El Salvador, and Honduras; cooperation with El Salvador and Honduras has included a combined police-military anti-gang task force to patrol border areas; it also has ties with the US, including joint training exercises and material assistance<br><br>the military held power during most of Guatemala’s 36-year civil war (1960-1996) and conducted a campaign of widespread violence and repression, particularly against the country’s majority indigenous population; more than 200,000 people were estimated to have been killed or disappeared during the conflict (2025)<br>
+the military is responsible for maintaining the independence, sovereignty, territorial integrity, and the honor of Guatemala, but has long focused on internal security; since the 2000s, the Guatemalan Government has used the military to support the National Civil Police in internal security operations (as permitted by the constitution) to combat organized crime, gang violence, and narco-trafficking; other responsibilities include border security, cybersecurity, and providing humanitarian assistance; it also participates in UN missions on a small scale and has a peacekeeping operations training command that offers training to regional countries; the military has security ties with regional partners such as Brazil, Colombia, El Salvador, and Honduras; cooperation with El Salvador and Honduras has included a combined police-military anti-gang task force to patrol border areas; it also has ties with the US, including joint training exercises and material assistance<br><br>the military held power during most of Guatemala’s 36-year civil war (1960-1996) and conducted a campaign of widespread violence and repression, particularly against the country’s majority indigenous population; more than 200,000 people were estimated to have been killed or disappeared during the conflict (2025)<br>
 
 ## Transnational Issues
 

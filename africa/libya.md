@@ -70,7 +70,7 @@ Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
 Nubian Aquifer System, North Western Sahara Aquifer System, Murzuk-Djado Basin<br>
 
 **Population distribution**<br>
-well over 90% of the population lives along the Mediterranean coast in and between Tripoli to the west and Al Bayda to the east; the interior remains vastly underpopulated due to the Sahara and lack of surface water as shown in this population distribution map<br>
+over 90% of the population lives along the Mediterranean coast in and between Tripoli to the west and Al Bayda to the east; the interior remains vastly underpopulated due to the Sahara and its lack of surface water, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 hot, dry, dust-laden ghibli is a southern wind lasting one to four days in spring and fall; dust storms, sandstorms<br>
@@ -130,7 +130,7 @@ _female_: 26.2 years<br>
 -2.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-well over 90% of the population lives along the Mediterranean coast in and between Tripoli to the west and Al Bayda to the east; the interior remains vastly underpopulated due to the Sahara and lack of surface water as shown in this population distribution map<br>
+over 90% of the population lives along the Mediterranean coast in and between Tripoli to the west and Al Bayda to the east; the interior remains vastly underpopulated due to the Sahara and its lack of surface water, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 81.6% of total population (2023)<br>
@@ -303,7 +303,9 @@ _residency requirement for naturalization_: varies from 3 to 5 years<br>
 **Executive branch**<br>
 _chief of state_: President, Presidential Council, Mohammed al-MANFI (since 5 February 2021)<br>
 _head of government_: GNU Interim Prime Minister Abd-al-Hamid DUBAYBAH (since 5 February 2021)<br>
-_elections/appointments_: <p>Libya’s first direct presidential election, scheduled for 24 December 2021, was not held; no new date has been set for elections</p><br>
+_elections/appointments_: first direct presidential election was not held as planned<br>
+_most recent election date_: scheduled for 24 December 2021 but not held<br>
+_expected date of next election_: no new date has been set for elections<br>
 
 **Legislative branch**<br>
 _legislative structure_: unicameral<br>
@@ -352,7 +354,7 @@ three horizontal bands of red (top), black (double-width), and green, with a whi
 **National symbol(s)**<br>
 star and crescent, hawk<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, black, green<br>
 
 **National anthem**<br>

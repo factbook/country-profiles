@@ -339,7 +339,7 @@ _residency requirement for naturalization_: minimum of 3 of last 5 years residen
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Mary SIMON (since 26 July 2021)<br>
 _head of government_: Prime Minister Mark CARNEY (since 14 March 2025)<br>
 _cabinet_: Federal Ministry chosen by the prime minister usually from among members of his/her own party sitting in Parliament<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; after legislative elections, the leader of the majority party or majority coalition in the House of Commons usually designated prime minister by the governor general<br>
+_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; after legislative elections, the governor general usually designates the leader of the majority party or majority coalition in the House of Commons as prime minister<br>
 <strong>note:</strong> the governor general position is largely ceremonial<br>
 
 **Legislative branch**<br>
@@ -405,7 +405,7 @@ two vertical bands of red (hoist and fly side, half-width) with white square bet
 **National symbol(s)**<br>
 maple leaf, beaver<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white<br>
 
 **National anthem**<br>

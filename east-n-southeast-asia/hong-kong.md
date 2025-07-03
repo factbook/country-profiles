@@ -263,8 +263,10 @@ see China<br>
 _chief of state_: President of China XI Jinping (since 14 March 2013)<br>
 _head of government_: Chief Executive John LEE Ka-chiu (since 1 July 2022)<br>
 _cabinet_: Executive Council or ExCo appointed by the chief executive<br>
-_elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 10 March 2023 (next to be held in March 2028); chief executive indirectly elected by the Election Committee and appointed by the PRC Government for a 5-year term (eligible for a second term); election last held on 8 May 2022 (next to be held in 2027)<br>
+_elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); chief executive indirectly elected by the Election Committee and appointed by the PRC Government for a 5-year term (eligible for a second term)<br>
+_most recent election date_: <em>president: </em>10 March 2023<em><br><br>chief executive: </em>8 May 2022<br>
 _election results_: <em><br>2022: </em>John LEE was the only candidate and won with over 99% of the vote by the Election Committee<em><br><br><em>2017</em>: </em>Carrie LAM elected; Election Committee vote - Carrie LAM (non-partisan) 777, John TSANG (non-partisan) 365, WOO Kwok-hing (non-partisan) 21, 23 ballots rejected (1,186 votes cast)<br>
+_expected date of next election_: <em>president: </em>March 2028<em><br><br>chief executive: </em>2027<br>
 <strong>note:</strong> electoral changes that Beijing imposed in March 2021 expanded the Election Committee to 1,500 members<br>
 
 **Legislative branch**<br>
@@ -315,7 +317,7 @@ red with a stylized, five-petal, white Bauhinia flower in the center; each petal
 **National symbol(s)**<br>
 bauhinia flower<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white<br>
 
 **National anthem**<br>
@@ -353,12 +355,6 @@ $380.812 billion (2023 est.)<br>
 2.1% (2023 est.)<br>
 1.9% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: AA- (2020)<br>
-_Moody's rating_: Aa3 (2020)<br>
-_Standard & Poors rating_: AA+ (2017)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0% (2023 est.)<br>

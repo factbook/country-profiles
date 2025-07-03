@@ -350,8 +350,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Claudia SHEINBAUM Pardo (since 1 October 2024)<br>
 _head of government_: President Claudia SHEINBAUM Pardo (since 1 October 2024)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a single 6-year term; election last held on 2 June 2024 (next to be held in 2030)<br>
+_elections/appointments_: president directly elected by simple-majority popular vote for a single 6-year term<br>
+_most recent election date_: 2 June 2024<br>
 _election results_: <br><em>2024: </em>Claudia SHEINBAUM Pardo elected president; percent of vote - Claudia SHEINBAUM Pardo (MORENA) 59.4%, Xóchitl GÁLVEZ Ruiz (PAN) 27.9%, Jorge Álvarez MÁYNEZ (MC) 10.4%, other 2.3%<em><br><br>2018:</em> Andrés Manuel LÓPEZ OBRADOR elected president; percent of vote - Andrés Manuel LÓPEZ OBRADOR (MORENA) 53.2%, Ricardo ANAYA Cortés (PAN) 22.3%, José Antonio MEADE Kuribreña (PRI) 16.4%, Jaime RODRÍGUEZ Calderón (independent) 5.2%, other 2.9%<br><br><em>2012:</em> Enrique PEÑA NIETO elected president; percent of vote - Enrique PEÑA NIETO (PRI) 38.2%, Andrés Manuel LÓPEZ OBRADOR (PRD) 31.6%, Josefina Eugenia VÁZQUEZ Mota (PAN) 25.4%, other 4.8%<br>
+_expected date of next election_: 2030<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -425,7 +427,7 @@ three equal vertical bands of green (hoist side), white, and red; Mexico's coat 
 **National symbol(s)**<br>
 golden eagle, dahlia<br>
 
-**National colors**<br>
+**National color(s)**<br>
 green, white, red<br>
 
 **National anthem**<br>

@@ -310,8 +310,10 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Ismail Omar GUELLEH (since 8 May 1999)<br>
 _head of government_: Prime Minister Abdoulkader Kamil MOHAMED (since 1 April 2013)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 9 April 2021 (next to be held in April 2026); prime minister appointed by the president<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term; prime minister appointed by the president<br>
+_most recent election date_: 9 April 2021<br>
 _election results_: <em><br>2021:</em> Ismail Omar GUELLEH reelected president for a fifth term; percent of vote - Ismail Omar GUELLEH (RPP) 97.4%, Zakaria Ismael FARAH (MDEND) 2.7%<br><br><em>2016:</em> Ismail Omar GUELLEH reelected president for a fourth term; percent of vote - Ismail Omar GUELLEH (RPP) 87%, Omar Elmi KHAIREH (CDU) 7.3%, other 5.6%<br>
+_expected date of next election_: April 2026<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Assemblée nationale)<br>
@@ -364,7 +366,7 @@ two equal horizontal bands of light blue (top) and light green with a white isos
 **National symbol(s)**<br>
 red star<br>
 
-**National colors**<br>
+**National color(s)**<br>
 light blue, green, white, red<br>
 
 **National anthem**<br>

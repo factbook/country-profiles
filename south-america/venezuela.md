@@ -313,8 +313,10 @@ _residency requirement for naturalization_: 10 years; reduced to five years in t
 _chief of state_: Notification Statement: the United States does not recognize Nicolas MADURO Moros as president of Venezuela<br><br>President Nicolas MADURO Moros (since 19 April 2013)<br>
 _head of government_: President Nicolas MADURO Moros (since 19 April 2013)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 28 July 2024 (next to be held in 2030)<br>
+_elections/appointments_: president directly elected by simple-majority popular vote for a 6-year term (no term limits)<br>
+_most recent election date_: 28 July 2024<br>
 _election results_: <em><br>2024:</em> official results disputed; Nicolas MADURO Moros was declared the winner by the MADURO-controlled National Electoral Council; percent of vote - Nicolas MADURO Moros (PSUV) 52%, Edmundo GONZÁLEZ Urrutia (Independent) 43.2%, Luis Eduardo MARTÍNEZ (AD) 1.2%, other 3.6%<br><br><em>2018: </em>Nicolas MADURO Moros reelected president; percent of vote - Nicolas MADURO Moros (PSUV) 67.9%, Henri FALCON (AP) 20.9%, Javier BERTUCCI 10.8%<br>
+_expected date of next election_: 2030<br>
 <strong>note 1: </strong>the president is both chief of state and head of government<br><br><strong>note 2: </strong>the United States recognizes that Edmundo GONZÁLEZ won the most votes in the 28 July 2024 presidential election because of overwhelming evidence, including more than 80% of the tally sheets received directly from polling stations that indicated GONZÁLEZ received the most votes by an insurmountable margin<br>
 
 **Legislative branch**<br>
@@ -362,7 +364,7 @@ three equal horizontal bands of yellow (top), blue, and red, with the coat of ar
 **National symbol(s)**<br>
 troupial (bird)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 yellow, blue, red<br>
 
 **National anthem**<br>

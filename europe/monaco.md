@@ -318,7 +318,7 @@ two equal horizontal bands of red (top) and white; the colors are those of the r
 **National symbol(s)**<br>
 red and white lozenges (diamond shapes)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white<br>
 
 **National anthem**<br>

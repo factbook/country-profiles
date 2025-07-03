@@ -327,7 +327,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: King PHILIPPE (since 21 July 2013)<br>
 _head of government_: Prime Minister Bart DE WEVER (since 3 February 2025)<br>
 _cabinet_: Council of Ministers formally appointed by the monarch<br>
-_elections/appointments_: the monarchy is hereditary and constitutional; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch and approved by Parliament<br>
+_elections/appointments_: the monarchy is hereditary and constitutional; following legislative elections, the monarch usually appoints the leader of the majority party or majority coalition as prime minister, which the legislature approves<br>
 
 **Legislative branch**<br>
 _legislature name_: Federal Parliament (Parlement fédéral - Federaal Parlement - Föderales Parlament)<br>
@@ -393,7 +393,7 @@ three equal vertical bands of black (hoist side), yellow, and red; the vertical 
 **National symbol(s)**<br>
 golden rampant lion<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, black, yellow<br>
 
 **National anthem**<br>

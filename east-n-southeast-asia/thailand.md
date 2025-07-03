@@ -340,7 +340,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: King WACHIRALONGKON; also spelled Vajiralongkorn (since 1 December 2016)<br>
 _head of government_: Prime Minister PHAETHONGTHAN Chinnawat; also spelled PAETONGTARN Shinawatra (since 18 August 2024)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the king; a Privy Council advises the king<br>
-_elections/appointments_: the monarchy is hereditary; prime minister candidate approved by the Senate and House of Representatives and appointed by the king; starting in 2024, approval of prime minister needed only by the House of Representatives<br>
+_elections/appointments_: the monarchy is hereditary; prime minister candidate approved by House of Representatives and appointed by the king<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Rathhasapha)<br>
@@ -408,7 +408,7 @@ five horizontal bands of red (top), white, blue (double-width), white, and red; 
 **National symbol(s)**<br>
 garuda (mythical half-man, half-bird figure), elephant<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, blue<br>
 
 **National coat of arms**<br>

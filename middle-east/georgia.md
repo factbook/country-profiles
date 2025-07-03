@@ -318,8 +318,10 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Mikheil KAVELASHVILI (since 29 December 2024)<br>
 _head of government_: Prime Minister Irakli KOBAKHIDZE (since 8 February 2024)<br>
 _cabinet_: Cabinet of Ministers<br>
-_elections/appointments_: president elected by a 300-member College of Electors; election last held on 14 December 2024; next election in 2029; prime minister nominated by Parliament, appointed by the president<br>
+_elections/appointments_: president elected by a 300-member College of Electors; prime minister nominated by Parliament, appointed by the president<br>
+_most recent election date_: 14 December 2024<br>
 _election results_: <em><br>2024: </em>Mikheil KAVELASHVILI (Georgian Dream Party) was formally inaugurated on 29 December 2024<br><em><br>2024: </em>Irakli KOBAKHIDZE approved as prime minister by Parliamentary vote 84-10<em><br><br>2018:</em> Salome ZOURABICHVILI elected president in second round; percent of vote in second round - Salome ZOURABICHVILI (independent, backed by Georgian Dream) 59.5%, Grigol VASHADZE (UNM) 40.5%; Irakli GARIBASHVILI approved as prime minister by Parliamentary vote 89-2<br>
+_expected date of next election_: 2029<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Sakartvelos Parlamenti)<br>
@@ -343,7 +345,7 @@ _subordinate courts_: Courts of Appeal; regional (town) and district courts<br>
 Citizens<br>European Socialists<br>For Georgia<br>Georgian Dream<br>Girchi<br>Law and Justice<br>Lelo for Georgia<br>National Democratic Party<br>People's Power<br>Progress and Freedom<br>Republican Party<br>State for the People<br>Strategy Aghmashenebeli<br>United National Movement or UNM<br>Victorious Georgia<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires&nbsp;Khatuna KVESELAVA (since 31 December 2024)<br>
+_chief of mission_: Ambassador-designate Tamar TALIASHVILI; Charg&eacute; d'Affaires Khatuna KVESELAVA (since 31 December 2024)<br>
 _chancery_: 1824 R Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 387-2390<br>
 _FAX_: [1] (202) 387-0864<br>
@@ -373,7 +375,7 @@ white rectangle with a central red cross extending to all four sides of the flag
 **National symbol(s)**<br>
 Saint George, lion<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white<br>
 
 **National anthem**<br>
@@ -667,7 +669,7 @@ the majority of the military's inventory consists of Soviet-era weapons and equi
 <strong>note 1: </strong>approximately 6-7,000 individuals are called up annually for conscription for service; conscripts serve in the Defense Forces, the Ministry of Internal Affairs, or the Ministry of Corrections<br><br><strong>note 2:</strong> as of 2022, women made up about 8% of the military's full-time personnel<br>
 
 **Military - note**<br>
-the Defense Forces of Georgia (DFG) are responsible for protecting the independence, sovereignty, and territorial integrity of the country; the DFG also provides units for multinational military operations abroad and supports the Border Police in border protection and civil authorities in counter-terrorist operations, if requested; it is focused primarily on Russia, which maintains military bases and troops in occupied Abkhazia and South Ossetia; a five-day conflict with Russian forces in 2008 resulted in the defeat and expulsion of Georgian forces from the breakaway regions <br><br>Georgia is not a member of NATO but has had a relationship with the Alliance since 1992 and declared its aspiration to join in 2002; the military is working to make itself more compatible with NATO and has participated in multinational exercises and security operations abroad with NATO, such as Afghanistan, where it was one of the top non-NATO contributors, and Kosovo; the DFG has also contributed troops to EU and UN missions (2024)<br>
+the Defense Forces of Georgia (DFG) are responsible for protecting the independence, sovereignty, and territorial integrity of the country; the DFG also provides units for multinational military operations abroad and supports the Border Police in border protection and civil authorities in counter-terrorist operations, if requested; it is focused primarily on Russia, which maintains military bases and troops in occupied Abkhazia and South Ossetia; a five-day conflict with Russian forces in 2008 resulted in the defeat and expulsion of Georgian forces from the breakaway regions <br><br>Georgia is not a member of NATO but has had a relationship with the Alliance since 1992 and declared its aspiration to join in 2002; the military is working to make itself more compatible with NATO and has participated in multinational exercises and security operations abroad with NATO, such as Afghanistan, where it was one of the top non-NATO contributors, and Kosovo; the DFG has also contributed troops to EU and UN missions (2025)<br>
 
 ## Transnational Issues
 

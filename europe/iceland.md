@@ -310,8 +310,10 @@ _residency requirement for naturalization_: 3 to 7 years<br>
 _chief of state_: President Halla TOMASDOTTIR (since 1 August 2024)<br>
 _head of government_: Prime Minister Kristrun FROSTADOTTIR (since 21 December 2024)<br>
 _cabinet_: Cabinet appointed by the president upon the recommendation of the prime minister<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 1 June 2024 (next to be held in June 2028); following legislative elections, the leader of the majority party or majority coalition becomes prime minister<br>
+_elections/appointments_: president directly elected by simple-majority popular vote for a 4-year term (no term limits); following legislative elections, the leader of the majority party or majority coalition becomes prime minister<br>
+_most recent election date_: 1 June 2024<br>
 _election results_: <em><br>2024:</em> Halla TOMASDOTTIR elected president; percent of vote - Halla TOMASDOTTIR (independent) 34.1%, Katrin JAKOBSDOTTIR (Left-Green Movement) 25.2%, Halla Hrund LOGADOTTIR (independent) 15.7%, Jon GNARR (Social Democratic Alliance) 10.1%, Baldur PORHALLSSON (independent) 8.4%, other 6.5%<em><br><br>2020: </em>Gudni Thorlacius JOHANNESSON reelected president; percent of vote - Gudni Thorlacius JOHANNESSON (independent) 92.2%, Gudmundur Franklin JONSSON (independent) 7.8%<br>
+_expected date of next election_: June 2028<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Althingi)<br>
@@ -363,7 +365,7 @@ blue with a red cross outlined in white extending to the edges of the flag; the 
 **National symbol(s)**<br>
 gyrfalcon<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, white, red<br>
 
 **National anthem**<br>

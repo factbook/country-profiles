@@ -228,7 +228,7 @@ see the Netherlands<br>
 _chief of state_: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor Ajamu G. BALY (since 10 October 2022)<br>
 _head of government_: Prime Minister Luc MERCELINA (since 3 May 2024)<br>
 _cabinet_: Cabinet nominated by the prime minister and appointed by the governor<br>
-_elections/appointments_: the monarch is hereditary; governor appointed by the monarch for a 6-year term; following parliamentary elections, the leader of the majority party usually elected prime minister by Parliament<br>
+_elections/appointments_: the monarch is hereditary; governor appointed by the monarch for a 6-year term; following legislative elections, the Parliament usually elects the leader of the majority party as prime minister<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament&nbsp;of Sint Maarten<br>
@@ -272,7 +272,7 @@ two equal horizontal bands of red (top) and blue, with a white isosceles triangl
 **National symbol(s)**<br>
 <p>brown pelican, yellow sage (flower)</p><br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, blue<br>
 
 **National anthem**<br>

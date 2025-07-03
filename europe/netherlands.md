@@ -331,7 +331,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: King WILLEM-ALEXANDER (since 30 April 2013)<br>
 _head of government_: Caretaker Prime Minister Dick SCHOOF (since 3 June 2025)<br>
 _cabinet_: Council of Ministers appointed by the monarch<br>
-_elections/appointments_: the monarchy is hereditary; following Second Chamber elections, the leader of the majority party or majority coalition is usually appointed prime minister by the monarch; deputy prime ministers are appointed by the monarch<br>
+_elections/appointments_: the monarchy is hereditary; following Second Chamber elections, the monarch usually appoints the leader of the majority party or majority coalition as prime minister; deputy prime ministers are also appointed by the monarch<br>
 <strong>note:</strong> Prime Minister Dick SCHOOF resigned on 3 June 2025 after a party withdrew from his governing coalition, but he will continue in a caretaker capacity until new elections are held, probably in the fall of 2025<br>
 
 **Legislative branch**<br>
@@ -399,7 +399,7 @@ three equal horizontal bands of bright red (top), white, and cobalt blue; simila
 **National symbol(s)**<br>
 lion, daisy<br>
 
-**National colors**<br>
+**National color(s)**<br>
 orange<br>
 
 **National anthem**<br>
@@ -408,8 +408,9 @@ _lyrics/music_: Philips VAN MARNIX van Sint Aldegonde (presumed)/unknown<br>
 <strong>note:</strong> adopted 1932, in use since the 17th century, making it the oldest national anthem in the world; also known as "Wilhelmus van Nassouwe" (William of Nassau), it is in the form of an acrostic, where the first letter of each stanza spells the name of the leader of the Dutch Revolt<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 13 (12 cultural, 1 natural); note - includes one site in Curacao<br>
+_total World Heritage Sites_: 13 (12 cultural, 1 natural)<br>
 _selected World Heritage Site locales_: Schokland and Surroundings (c); Dutch Water Defense Lines (c); Van Nellefabriek (c); Mill Network at Kinderdijk-Elshout (c); Droogmakerij de Beemster (Beemster Polder) (c); Rietveld Schröderhuis (Rietveld Schröder House) (c); Wadden Sea (n); Seventeenth Century Canal Ring Area of Amsterdam inside the Singelgracht (c); Colonies of Benevolence (c); Frontiers of the Roman Empire - The Lower German Limes (c)<br>
+<strong>note: </strong>includes one site in Curacao<br>
 
 ## Economy
 

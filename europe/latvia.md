@@ -311,8 +311,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Edgars RINKEVICS (since 8 July 2023)<br>
 _head of government_: Prime Minister Evika SILINA (since 15 September 2023)<br>
 _cabinet_: Cabinet of Ministers nominated by the prime minister, appointed by Parliament<br>
-_elections/appointments_: president indirectly elected by Parliament for a 4-year term (eligible for a second term); election last held on 31 May 2023 (next to be held in 2027); prime minister appointed by the president, confirmed by Parliament<br>
+_elections/appointments_: president indirectly elected by Parliament for a 4-year term (eligible for a second term); prime minister appointed by the president, confirmed by Parliament<br>
+_most recent election date_: 31 May 2023<br>
 _election results_: <em><br>2023: </em>Edgars RINKEVICS elected president in the third round; Parliament vote - Edgars RINKEVICS (Unity Party) 52, Uldis Pīlēns (independent) 25; Evika SILINA confirmed as prime minister 53-39<br><em><br>2019:</em> Egils LEVITS elected president; Parliament vote - Egils LEVITS (independent) 61, Didzis SMITS (KPV LV) 24, Juris JANSONS (independent) 8; Krisjanis KARINS confirmed as prime minister 61-39<br>
+_expected date of next election_: 2027<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Saeima)<br>
@@ -364,7 +366,7 @@ three horizontal bands of maroon (top), white (half-width), and maroon; the flag
 **National symbol(s)**<br>
 white wagtail (bird)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 maroon, white<br>
 
 **National anthem**<br>

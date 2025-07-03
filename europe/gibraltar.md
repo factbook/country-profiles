@@ -235,8 +235,8 @@ see United Kingdom<br>
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Sir David STEEL (since 11 June 2020)<br>
 _head of government_: Chief Minister Fabian PICARDO (since 9 December 2011)<br>
-_cabinet_: Council of Ministers appointed from among the 17 elected members of Parliament by the governor in consultation with the chief minister<br>
-_elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed chief minister by the governor<br>
+_cabinet_: Council of Ministers appointed from among the 17 elected members of Parliament by the governor, in consultation with the chief minister<br>
+_elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the governor usually appoints the leader of the majority party or majority coalition as chief minister<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -280,8 +280,11 @@ two horizontal bands of white (top, double-width) and red with a three-towered r
 **National symbol(s)**<br>
 Barbary partridge<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, yellow<br>
+
+**National coat of arms**<br>
+<p>King Ferdinand and Queen Isabella of Spain granted this coat of arms to Gibraltar in 1502; the castle in the center of the shield represents Gibraltar as a fortress, and the gold key represents its strategic position as the gateway to the Mediterranean; below the shield is the national motto, <em>Montis Insignia Calpe</em> (“Badge of the Rock of Gibraltar”); the coat of arms uses the national colors of red, white, and yellow</p><br>
 
 **National anthem**<br>
 _name_: "Gibraltar Anthem"<br>

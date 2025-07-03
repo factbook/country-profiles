@@ -308,7 +308,7 @@ _residency requirement for naturalization_: 4 out of the previous 5 years<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Sir Patrick L. ALLEN (since 26 February 2009)<br>
 _head of government_: Prime Minister Andrew HOLNESS (since 3 March 2016)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition in the House of Representatives is appointed prime minister by the governor general<br>
+_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the governor general appoints the leader of the majority party or majority coalition in the House of Representatives as prime minister<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -344,7 +344,7 @@ _subordinate courts_: resident magistrate courts, district courts, and petty ses
 <p>Jamaica Labor Party or JLP<br>Jamaica Progressive Party or JPP<br>People's National Party or PNP<br>United Independents' Congress or UIC</p><br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Audrey Patrice MARKS (since 18 January 2017)<br>
+_chief of mission_: Ambassador-designate Major General (Ret'd) Antony ANDERSON (since 28 May 2025)<br>
 _chancery_: 1520 New Hampshire Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 452-0660<br>
 _FAX_: [1] (202) 452-0036<br>
@@ -374,7 +374,7 @@ diagonal yellow cross divides the flag into four triangles, two green (top and b
 **National symbol(s)**<br>
 green-and-black streamertail (bird), guaiacwood (<em>Guiacum officinale</em>)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 green, yellow, black<br>
 
 **National anthem**<br>
@@ -418,12 +418,6 @@ $19.423 billion (2023 est.)<br>
 6.5% (2023 est.)<br>
 10.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: B+ (2019)<br>
-_Moody's rating_: B2 (2019)<br>
-_Standard & Poors rating_: B+ (2019)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 9% (2023 est.)<br>

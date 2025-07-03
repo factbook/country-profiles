@@ -326,7 +326,7 @@ blue with the UK flag in the upper hoist-side quadrant and a large circle of 15 
 **National symbol(s)**<br>
 a circle of 15 five-pointed white stars on a blue field, tiare maori flower (<em>Gardenia taitensis</em>)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 green, white<br>
 
 **National anthem**<br>

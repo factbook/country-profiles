@@ -376,7 +376,7 @@ red, the traditional color for flags of Persian Gulf states, with a white serrat
 **National symbol(s)**<br>
 a white serrated band with five white points on top of a red field<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white<br>
 
 **National anthem**<br>

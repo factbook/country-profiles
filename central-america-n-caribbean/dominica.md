@@ -275,8 +275,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Sylvanie BURTON (since 2 October 2023)<br>
 _head of government_: Prime Minister Roosevelt SKERRIT (since 8 January 2004)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
-_elections/appointments_: president nominated by the prime minister and leader of the opposition party and elected by the House of Assembly for a 5-year term (eligible for a second term); election last held on 27 September 2023 (next to be held in October 2028); prime minister appointed by the president<br>
-_election results_: <em><br>2023:</em> parliament elects Sylvanie BURTON (DLP) with 20 votes for and five against<br><br><em>2018:</em> Charles A. SAVARIN (DLP) reelected president unopposed <br>
+_elections/appointments_: president nominated by the prime minister and leader of the opposition party and elected by the House of Assembly for a 5-year term (eligible for a second term); prime minister appointed by the president<br>
+_most recent election date_: 27 September 2023<br>
+_election results_: <em><br>2023:</em> parliament elects Sylvanie BURTON (DLP) with 20 votes for and five against<br><br><em>2018:</em> Charles A. SAVARIN (DLP) reelected president unopposed<br>
+_expected date of next election_: October 2028<br>
 
 **Legislative branch**<br>
 _legislature name_: House of Assembly<br>
@@ -324,17 +326,13 @@ green with a centered cross of three equal bands; the vertical part is yellow (h
 **National symbol(s)**<br>
 sisserou parrot, Carib wood flower<br>
 
-**National colors**<br>
+**National color(s)**<br>
 green, yellow, black, white, red<br>
 
 **National anthem**<br>
 _name_: "Isle of Beauty"<br>
 _lyrics/music_: Wilfred Oscar Morgan POND/Lemuel McPherson CHRISTIAN<br>
 <strong>note:</strong> adopted 1967<br>
-
-**National heritage**<br>
-_total World Heritage Sites_: 1 (natural)<br>
-_selected World Heritage Site locales_: Pitons Management Area<br>
 
 ## Economy
 

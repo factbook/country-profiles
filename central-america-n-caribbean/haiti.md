@@ -313,8 +313,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President (vacant)<br>
 _head of government_: Prime Minister Alix Didier FILS-AIM&Eacute; (since 10 November 2024)<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president; parliament must ratify the Cabinet and prime minister's governing policy<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a single non-consecutive term); last election was 20 November 2016; new elections were delayed in 2022 and 2023 and have not been scheduled by the transitional presidential council<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a single non-consecutive term)<br>
+_most recent election date_: 20 November 2016<br>
 _election results_: <br><em>2016:</em> Jovenel MOÏSE elected president in first round; percent of vote - Jovenel MOÏSE (PHTK) 55.6%, Jude CELESTIN (LAPEH) 19.6%, Jean-Charles MOÏSE (PPD) 11%, Maryse NARCISSE (FL) 9%; other 4.8%<br><br><em>2011:</em> Michel MARTELLY elected president in second round; percent of vote in second round - Michel MARTELLY (Peasant's Response) 68%, Mirlande MANIGAT (RDNP) 32%<br>
+_expected date of next election_: elections were delayed in 2022 and 2023 and have not been rescheduled<br>
 <strong>note:</strong> former Prime Minister Ariel HENRY, who had assumed executive responsibilities following the assassination of President MOÏSE on 7 July 2021, resigned on 24 April 2024; a nine-member Presidential Transitional Council, equipped with presidential powers, was sworn in on 25 April 2024 and will remain in place until 7 February 2026<br>
 
 **Legislative branch**<br>
@@ -384,7 +386,7 @@ two equal horizontal bands of blue (top) and red with a centered white rectangle
 **National symbol(s)**<br>
 Hispaniolan trogon (bird), hibiscus flower<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, red<br>
 
 **National anthem**<br>
@@ -637,7 +639,7 @@ in recent years, Canada, Taiwan, the US, and the UAE have provide some equipment
 men and women 18-25 may volunteer for the FAdH (2023)<br>
 
 **Military - note**<br>
-Haiti's military was disbanded in 1995 after it participated in multiple coups and was accused of other political interference and human rights violations; the military was reinstated by former President MOISE in 2017 after the UN ended its peacekeeping operation in Haiti; the reconstituted military established an Army command in 2018 and has received training assistance from Argentina, Colombia, Ecuador, France, and Mexico; the military’s stated mission is to assist with natural disaster relief, border security, and combating transnational crime; in 2023, Prime Minister HENRY called upon the military to assist the National Police (PNH) in combating armed gangs, which have overwhelmed the PNH, killed hundreds of Haitians, and seized control of much of the capital Port-au-Prince since the assassination of President MOISE in 2021<br><br>in 2023, the UN Security Council approved the deployment of a Kenya-led multinational security support mission (MSS) to help bring gang violence under control; the first contingent of MSS personnel from the Kenya National Police Service arrived in mid-2024; other countries pledging forces included the Bahamas, Bangladesh, Barbados, Benin, Chad, and Jamaica; the mission is slated to have a total of 2,500 personnel (2024)<br>
+Haiti's military was disbanded in 1995 after it participated in multiple coups and was accused of other political interference and human rights violations; the military was reinstated by former President MOISE in 2017 after the UN ended its peacekeeping operation in Haiti; the reconstituted military established an Army command in 2018 and has received some training assistance from Argentina, Colombia, Ecuador, France, and Mexico; the military’s stated mission is to assist with natural disaster relief, border security, and combating transnational crime; in 2023, Prime Minister HENRY called upon the military to assist the National Police (PNH) in combating armed gangs, which have overwhelmed the PNH, killed hundreds of Haitians, and seized control of much of the capital Port-au-Prince since the assassination of President MOISE in 2021<br><br>in 2023, the UN Security Council approved the deployment of a Kenya-led multinational security support mission (MSS) to help bring gang violence under control; the first contingent of MSS personnel from the Kenya National Police Service arrived in mid-2024; other countries pledging forces included the Bahamas, Bangladesh, Barbados, Benin, Chad, and Jamaica; the mission is slated to have a total of 2,500 personnel (2024)<br>
 
 ## Transnational Issues
 

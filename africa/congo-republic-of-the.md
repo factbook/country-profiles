@@ -329,8 +329,10 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Denis SASSOU-Nguesso (since 1997)<br>
 _head of government_: Prime Minister Anatole Collinet MAKOSSO (since 12 May 2021)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 2 additional terms); election last held on 21 March 2021 (next to be held on 21 March 2026)<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for 2 additional terms)<br>
+_most recent election date_: 21 March 2021<br>
 _election results_: <br><em>2021: </em>Denis SASSOU-Nguesso reelected president in the first round; percent of vote - Denis SASSOU-Nguesso (PCT) 88.4%, Guy Price Parfait KOLELAS (MCDDI) 8.0%, other 3.6% <br><br><em>2016: </em>Denis SASSOU-Nguesso reelected president in the first round; percent of vote - Denis SASSOU-Nguesso (PCT) 60.4%, Guy Price Parfait KOLELAS (MCDDI) 15.1%, Jean-Marie MOKOKO (independent) 13.9%, Pascal Tsaty MABIALA (UPADS) 4.4%, other 6.2%<br>
+_expected date of next election_: 21 March 2026<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Parlement)<br>
@@ -395,7 +397,7 @@ divided diagonally from the lower hoist side by a yellow band; the upper triangl
 **National symbol(s)**<br>
 lion, elephant<br>
 
-**National colors**<br>
+**National color(s)**<br>
 green, yellow, red<br>
 
 **National anthem**<br>

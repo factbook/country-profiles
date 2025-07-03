@@ -320,8 +320,10 @@ _residency requirement for naturalization_: 5 years or 3 years of continuous res
 _chief of state_: President Emomali RAHMON (since 16 November 1994; head of state and Supreme Assembly Chairman since 20 November 1992)<br>
 _head of government_: Prime Minister Qohir RASULZODA (since 23 November 2013)<br>
 _cabinet_: Council of Ministers appointed by the president, approved by the Supreme Assembly<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (two-term limit); however, as the "Leader of the Nation," president has no term limit; election last held on 11 October 2020 (next to be held in 2027); prime minister appointed by the president<br>
+_elections/appointments_: president directly elected by simple-majority popular vote for a 7-year term (two-term limit), but as the "Leader of the Nation," president has no term limit; prime minister appointed by the president<br>
+_most recent election date_: 11 October 2020<br>
 _election results_: <br><em>2020</em>: Emomali RAHMON reelected president; percent of vote - Emomali RAHMON (PDPT) 92.1%, Rustam LATIFZODA (APT) 3.1%, other 4.8%<br><br><em>2013:</em> Emomali RAHMON reelected president; percent of vote - Emomali RAHMON (PDPT) 84%, Ismoil TALBAKOV CPT) 5%, other 11%<br>
+_expected date of next election_: 2027<br>
 
 **Legislative branch**<br>
 _legislature name_: Supreme Council (Majlisi Oli)<br>
@@ -385,7 +387,7 @@ three horizontal stripes of red (top), a wider stripe of white, and green; a gol
 **National symbol(s)**<br>
 arc of seven five-pointed stars over a crown, Marco Polo sheep<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, green<br>
 
 **National anthem**<br>

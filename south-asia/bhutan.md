@@ -357,7 +357,7 @@ divided diagonally from the lower hoist-side corner; the upper triangle is yello
 **National symbol(s)**<br>
 mythical thunder dragon (<em>druk</em>)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 orange, yellow<br>
 
 **National anthem**<br>

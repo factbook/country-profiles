@@ -317,8 +317,10 @@ _residency requirement for naturalization_: 3 out of the 5 years preceding the a
 _chief of state_: President Isaac HERZOG (since 7 July 2021)<br>
 _head of government_: Prime Minister Benyamin NETANYAHU (since 29 December 2022)<br>
 _cabinet_: Cabinet selected by prime minister and approved by the Knesset<br>
-_elections/appointments_: president indirectly elected by the Knesset for a single 7-year term; election last held on 2 June 2021 (next to be held in June 2028); following legislative elections, the president, in consultation with party leaders, tasks a Knesset member (usually the member of the largest party) with forming a new government<br>
+_elections/appointments_: president indirectly elected by the Knesset for a single 7-year term; following legislative elections, the president, in consultation with party leaders, tasks a Knesset member (usually the member of the largest party) with forming a new government<br>
+_most recent election date_: 2 June 2021<br>
 _election results_: <br><em>2021:</em> Isaac HERZOG elected president; Knesset vote in first round - Isaac HERZOG (independent) 87, Miriam PERETZ (independent) 26, invalid/blank 7<br><br><em>2014:</em> Reuven RIVLIN elected president in second round; Knesset vote - Reuven RIVLIN (Likud) 63, Meir SHEETRIT (The Movement) 53, other/invalid 4 <p> </p><br>
+_expected date of next election_: June 2028<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Knesset)<br>
@@ -375,7 +377,7 @@ white with a blue hexagram (six-pointed linear star) known as the Magen David (S
 **National symbol(s)**<br>
 Star of David (Magen David), menorah (seven-branched lampstand)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, white<br>
 
 **National anthem**<br>
@@ -385,7 +387,7 @@ _lyrics/music_: Naftali Herz IMBER/traditional, arranged by Samuel COHEN<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 9 (all cultural)<br>
-_selected World Heritage Site locales_: Masada; Old City of Acre; White City of Tel-Aviv - the Modern Movement; Biblical Tels - Megiddo, Hazor, Beer Sheba; Incense Route - Desert Cities in the Negev; Bah&aacute;&rsquo;i Holy Places; Sites of Human Evolution at Mount Carmel; Caves of Maresha and Bet-Guvrin; Necropolis of Bet She&rsquo;arim<br>
+_selected World Heritage Site locales_: Masada; Old City of Acre; White City of Tel-Aviv - the Modern Movement; Biblical Tels - Megiddo, Hazor, Beer Sheba; Incense Route - Desert Cities in the Negev; Bahá’i Holy Places; Sites of Human Evolution at Mount Carmel; Caves of Maresha and Bet-Guvrin; Necropolis of Bet She’arim<br>
 
 ## Economy
 

@@ -229,7 +229,7 @@ a blue field with 12 five-pointed gold stars arranged in a circle in the center;
 **National symbol(s)**<br>
 a circle of 12 five-pointed golden-yellow stars on a blue field<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, yellow<br>
 
 **National anthem**<br>

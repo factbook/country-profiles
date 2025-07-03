@@ -349,8 +349,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Donald J. TRUMP (since 20 January 2025)<br>
 _head of government_: President Donald J. TRUMP (since 20 January 2025)<br>
 _cabinet_: Cabinet appointed by the president, approved by the Senate<br>
-_elections/appointments_: president and vice president indirectly elected on the same ballot by the Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); election last held on 5 November 2024 (next to be held on 7 November 2028)<br>
+_elections/appointments_: president and vice president indirectly elected on the same ballot by the Electoral College of electors chosen from each state; president and vice president serve a 4-year term (eligible for a second term)<br>
+_most recent election date_: 5 November 2024<br>
 _election results_: <em><br>2024:</em> Donald J. TRUMP elected president; electoral vote - Donald J. TRUMP (Republican Party) 312, Kamala HARRIS (Democratic Party) 226; percent of direct popular vote - Donald J. TRUMP 49.8%, Kamala HARRIS 48.3%, other 1.9%<br><em><br>2020:</em> Joseph R. BIDEN, Jr. elected president; electoral vote - Joseph R. BIDEN, Jr. (Democratic Party) 306, Donald J. TRUMP (Republican Party) 232; percent of direct popular vote - Joseph R. BIDEN Jr. 51.3%, Donald J. TRUMP 46.9%, other 1.8%<br>
+_expected date of next election_: 7 November 2028<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -405,7 +407,7 @@ Independence Day, 4 July (1776)<br>
 **National symbol(s)**<br>
 bald eagle<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, blue<br>
 
 **National anthem**<br>
@@ -415,7 +417,7 @@ _lyrics/music_: Francis Scott KEY/John Stafford SMITH<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 26 (13 cultural, 12 natural, 1 mixed); note - includes one site in Puerto Rico<br>
-_selected World Heritage Site locales_: <p>Yellowstone National Park (n); Grand Canyon National Park (n); Cahokia Mounds State Historic Site (c); Independence Hall (c); Statue of Liberty (c); Yosemite National Park (n); Papahānaumokuākea (m); Monumental Earthworks of Poverty Point (c); The 20th-Century Architecture of Frank Lloyd Wright (c); Mesa Verde National Park (c); Mammoth Cave National Park (n); Monticello and the University of Virginia in Charlottesville (c); Olympic National Park (n); Everglades National Park (n); Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek (n); Redwood National and State Parks (n); Great Smoky Mountains National Park (n); La Fortaleza and San Juan National Historic Site in Puerto Rico (c); Chaco Culture (c); Hawaii Volcanoes National Park (n); Taos Pueblo (c); Carlsbad Caverns National Park (n); Waterton Glacier International Peace Park (n);  Moravian Church Settlements (c); San Antonio Missions (c);Hopewell Ceremonial Earthworks (c)</p><br>
+_selected World Heritage Site locales_: <p>Yellowstone National Park (n); Grand Canyon National Park (n); Cahokia Mounds State Historic Site (c); Independence Hall (c); Statue of Liberty (c); Yosemite National Park (n); Papahānaumokuākea (m); Monumental Earthworks of Poverty Point (c); The 20th-Century Architecture of Frank Lloyd Wright (c); Mesa Verde National Park (c); Mammoth Cave National Park (n); Monticello and the University of Virginia in Charlottesville (c); Olympic National Park (n); Everglades National Park (n); Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek (n); Redwood National and State Parks (n); Great Smoky Mountains National Park (n); La Fortaleza and San Juan National Historic Site in Puerto Rico (c); Chaco Culture (c); Hawaii Volcanoes National Park (n); Taos Pueblo (c); Carlsbad Caverns National Park (n); Waterton Glacier International Peace Park (n); Moravian Church Settlements (c); San Antonio Missions (c); Hopewell Ceremonial Earthworks (c)</p><br>
 
 ## Economy
 

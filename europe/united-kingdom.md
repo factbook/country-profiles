@@ -321,7 +321,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: King CHARLES III (since 8 September 2022)<br>
 _head of government_: Prime Minister Keir STARMER (since 5 July 2024)<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
-_elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister; election last held on 12 December 2019 (next to be held no later than 28 January 2025)<br>
+_elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister<br>
 <strong>note 1:</strong> in addition to serving as the UK head of state, the British sovereign is the constitutional monarch for 14 additional Commonwealth countries (each referred to as a "Commonwealth realm")<br><br><strong>note 2</strong>: King CHARLES III succeeded his mother, Queen ELIZABETH II, after serving as Prince of Wales (heir apparent) for over 64 years -- the longest such tenure in British history<br>
 
 **Legislative branch**<br>
@@ -342,6 +342,7 @@ _expected date of next election_: July 2029<br>
 **Legislative branch - upper chamber**<br>
 _chamber name_: House of Lords<br>
 _number of seats_: 800 (all appointed)<br>
+_parties elected and seats per party_: Conservative Party (286); Labour Party (212); Liberal Democrats (76); Crossover (Independents) 180; other (6)<br>
 _percentage of women in chamber_: 31%<br>
 <strong>note: </strong>the number of total seats in the House of Lords does not include ineligible members or members on leave of absence<br>
 
@@ -385,7 +386,7 @@ blue field with the red cross of Saint George (patron saint of England) edged in
 **National symbol(s)**<br>
 lion (all of Britain); lion, Tudor rose, oak (England); lion, unicorn, thistle (Scotland); dragon, daffodil, leek (Wales); shamrock, flax (Northern Ireland)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, blue (all of Britain); red, white (England); blue, white (Scotland); red, white, green (Wales)<br>
 
 **National anthem**<br>

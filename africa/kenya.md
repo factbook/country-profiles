@@ -332,8 +332,10 @@ _residency requirement for naturalization_: 4 out of the previous 7 years<br>
 _chief of state_: President William RUTO (since 13 September 2022)<br>
 _head of government_: President William RUTO (since 13 September 2022)<br>
 _cabinet_: Cabinet appointed by the president, subject to confirmation by the National Assembly<br>
-_elections/appointments_: president and deputy president directly elected on the same ballot by majority vote nationwide and at least 25% of the votes cast in at least 24 of the 47 counties; failure to meet these thresholds requires a runoff between the top two candidates; election last held on 9 August 2022 (next to be held on 10 August 2027)<br>
+_elections/appointments_: president and deputy president directly elected on the same ballot by majority vote nationwide and at least 25% of the votes cast in at least 24 of the 47 counties; failure to meet these thresholds requires a runoff between the top two candidates<br>
+_most recent election date_: 9 August 2022<br>
 _election results_: <em><br>2022</em>:  William RUTO elected president in first round; percent of vote - William RUTO (UDA) 50.5%, Raila ODINGA (ODM) 48.9%, other 0.6%<br><em><br>2017</em>:  Uhuru KENYATTA reelected president; percent of vote - Uhuru KENYATTA (JP) 98.3%, Raila ODINGA (ODM) 1%, other 0.7%<br>
+_expected date of next election_: 10 August 2027<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -401,8 +403,11 @@ three equal horizontal bands of black (top), red, and green; the red band is edg
 **National symbol(s)**<br>
 lion<br>
 
-**National colors**<br>
+**National color(s)**<br>
 black, red, green, white<br>
+
+**National coat of arms**<br>
+<p>the two lions symbolize protection as they hold a traditional East African shield and spears in defense of freedom and unity; the shield features the national colors: black for the people, green for agriculture and natural resources, red for the struggle for freedom, and white for unity and peace; on the shield, a rooster greets the new day, and the axe represents both authority and the Kenya Africa National Union (KANU) that led the country to independence; at the base of the shield is Mount Kenya, Africa’s second-highest peak; the scroll has the Swahili word <em>Harambee</em>, meaning “all for one” or “pulling together”</p><br>
 
 **National anthem**<br>
 _name_: "Ee Mungu Nguvu Yetu" (Oh God of All Creation)<br>

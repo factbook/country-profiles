@@ -330,7 +330,8 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Latif RASHID (since 13 October 2022)<br>
 _head of government_: Prime Minister Mohammed Shia al-SUDANI (since 27 October 2022)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, approved by Council of Representatives (COR)<br>
-_elections/appointments_: president indirectly elected by COR to serve a 4-year term (eligible for a second term); COR parliamentary election for president last held on 13 October 2022 (next to be held NA)<br>
+_elections/appointments_: president indirectly elected by COR to serve a 4-year term (eligible for a second term)<br>
+_most recent election date_: 13 October 2022<br>
 _election results_: <em><br>2022: </em>Latif RASHID elected president in second round; COR vote in first round - Latif RASHID (PUK) 157, Barham SALIH (PUK) 99; COR vote in second round - Latif RASHID 167, Barham SALIH 99; Mohammed Shia' al-SUDANI approved as prime minister<em><br><br>2018:</em> Barham SALIH elected president in second round; COR vote in first round - Barham SALIH (PUK) 165, Fuad HUSAYN (KDP) 90; COR vote in second round - Barham SALIH 219, Fuad HUSAYN 22; Adil ABD AL-MAHDI approved as prime minister<br>
 
 **Legislative branch**<br>
@@ -387,7 +388,7 @@ three equal horizontal bands of red (top), white, and black; the Takbir (Arabic 
 **National symbol(s)**<br>
 golden eagle<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, black<br>
 
 **National anthem**<br>

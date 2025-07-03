@@ -236,8 +236,10 @@ see China<br>
 _chief of state_: President of China XI Jinping (since 14 March 2013)<br>
 _head of government_: Chief Executive Sam Hou FAI (since 20 December 2024)<br>
 _cabinet_: Executive Council appointed by the chief executive<br>
-_elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 10 March 2023 (next to be held in March 2028); chief executive chosen by a 400-member Election Committee for a 5-year term (eligible for a second term); election last held on 13 October 2024 (next to be held in 2029)<br>
+_elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); chief executive chosen by a 400-member Election Committee for a 5-year term (eligible for a second term)<br>
+_most recent election date_: <em>president:</em> 10 March 2023<br><br><em>chief executive:</em> 13 October 2024<br>
 _election results_: <em><br>2024:</em> Sam Hou FAI (unopposed; received 394 out of 400 votes)<br><br><em>2019:</em> HO lat Seng (unopposed; received 392 out of 400 votes)<br>
+_expected date of next election_: <em>president: </em>March 2028<br><br><em>chief executive:</em> 2029<br>
 
 **Legislative branch**<br>
 _legislature name_: Legislative Assembly (Regiao Administrativa Especial de Macau)<br>
@@ -280,7 +282,7 @@ green with a lotus flower above a stylized bridge and water in white, under an a
 **National symbol(s)**<br>
 lotus blossom<br>
 
-**National colors**<br>
+**National color(s)**<br>
 green, white, yellow<br>
 
 **National anthem**<br>
@@ -318,11 +320,6 @@ $45.803 billion (2023 est.)<br>
 1% (2022 est.)<br>
 0% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: AA (2018)<br>
-_Moody's rating_: Aa3 (2016)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _industry_: 5.4% (2023 est.)<br>

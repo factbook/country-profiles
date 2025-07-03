@@ -376,7 +376,7 @@ three equal horizontal bands of white (top), red, and green, with a vertical red
 **National symbol(s)**<br>
 khanjar dagger on top of two crossed swords<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, green<br>
 
 **National anthem**<br>

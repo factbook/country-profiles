@@ -364,7 +364,7 @@ maroon with a broad white serrated band on the hoist side; maroon stands for the
 **National symbol(s)**<br>
 a white serrated band with nine white points on top of a maroon field<br>
 
-**National colors**<br>
+**National color(s)**<br>
 maroon, white<br>
 
 **National anthem**<br>

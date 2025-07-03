@@ -322,10 +322,12 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Joao Manuel Goncalves LOURENCO (since 26 September 2017)<br>
-_head of government_: President Joao Manuel Goncalves LOURENCO&nbsp;<br>
+_head of government_: President Joao Manuel Goncalves LOURENCO<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term); last held on 24 August 2022 (next to be held in 2027)<br>
+_elections/appointments_: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term)<br>
+_most recent election date_: 24 August 2022<br>
 _election results_: Joao Manuel Goncalves LOURENCO (MPLA) elected president by then winning party following the 24 August 2022 general election<br>
+_expected date of next election_: 2027<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Assembleia nacional)<br>
@@ -378,7 +380,7 @@ two equal horizontal bands of red (top) and black with a centered yellow emblem 
 **National symbol(s)**<br>
 giant black sable antelope (<em>Palanca negra gigante</em>)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, black, yellow<br>
 
 **National anthem**<br>

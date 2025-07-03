@@ -312,7 +312,8 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Brice OLIGUI Nguema (since 3 May 2025)<br>
 _head of government_: President Brice OLIGUI Nguema (since 3 May 2025)<br>
 _cabinet_: cabinet appointed by president<br>
-_elections/appointments_: the president directly elected by plurality vote to a 7-year term (no term limits); election last held on 12 April 2025<br>
+_elections/appointments_: the president directly elected by plurality vote to a 7-year term (no term limits)<br>
+_most recent election date_: 12 April 2025<br>
 _election results_: <em><br>2025: </em>Brice OLIGUI Nguema elected president; percent of vote - Brice OLIGUI Nguema (Ind.) 90.35%, Alain Claude Bilie By Nze (EPG) 3.02%, other 6.63%<br><em><br>2016: </em>Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0%<br>
 
 **Legislative branch**<br>
@@ -375,7 +376,7 @@ three equal horizontal bands of green (top), yellow, and blue; green stands for 
 **National symbol(s)**<br>
 black panther<br>
 
-**National colors**<br>
+**National color(s)**<br>
 green, yellow, blue<br>
 
 **National coat of arms**<br>
@@ -659,7 +660,7 @@ the Gabonese military has a mix of older and more modern weapons and equipment f
 18-24 years of age for voluntary military service; no conscription (2024)<br>
 
 **Military - note**<br>
-the Gabonese military is a small and lightly armed force that is responsible for both external and internal security; the military may also participate in the economic and social development work of the nation; in August 2023, officers from the Republican Guard seized control of the government and placed the president under arrest; the coup leader and chief of the Republican Guard, Gen. Brice OLIGUI Nguema, was subsequently announced as the leader of a transitional government (2024)<br>
+the Gabonese military is a small and lightly armed force that is responsible for both external and internal security; the military may also participate in the economic and social development work of the nation; key defense priorities include securing the country's borders and maritime domain; it has contributed to regional peacekeeping and joint security operations; in August 2023, officers from the Republican Guard seized control of the government and placed the president under arrest (2025)<br>
 
 ## Space
 

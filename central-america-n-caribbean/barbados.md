@@ -293,8 +293,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Sandra MASON (since 30 November 2021)<br>
 _head of government_: Prime Minister Mia MOTTLEY (since 25 May 2018)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
-_elections/appointments_: president elected by an electoral college of both Houses of Parliament for a 4-year renewable term; election last held on 20 October 2021 (next to be held by January 2027); following legislative elections, the leader of the majority party or leader of the majority coalition usually appointed prime minister by the president; the prime minister recommends the deputy prime minister<br>
+_elections/appointments_: president elected by an electoral college of both Houses of Parliament for a 4-year renewable term; following legislative elections, the president usually appoints the leader of the majority party or leader of the majority coalition as prime minister; the prime minister recommends the deputy prime minister<br>
+_most recent election date_: 20 October 2021<br>
 _election results_: Sandra MASON elected as first president on 20 October 2021<br>
+_expected date of next election_: by January 2027<br>
 
 **Legislative branch**<br>
 _legislature name_: Parlement de Barbade (Parliament of Barbados)<br>
@@ -360,7 +362,7 @@ three equal vertical bands of ultramarine blue (hoist side), gold, and ultramari
 **National symbol(s)**<br>
 Neptune's trident, pelican, red bird of paradise flower (also known as "Pride of Barbados")<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, yellow, black<br>
 
 **National anthem**<br>

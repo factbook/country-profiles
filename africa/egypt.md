@@ -340,8 +340,10 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Abdel Fattah EL-SISI (since 8 June 2014)<br>
 _head of government_: Prime Minister Mostafa MADBOULY (since 7 June 2018)<br>
 _cabinet_: Cabinet ministers nominated by the executive branch and approved by the House of Representatives<br>
-_elections/appointments_: president elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for 3 consecutive terms); election last held on 10 to 12 December 2023; next to held in 2029); prime minister appointed by the president, approved by the House of Representatives<br>
+_elections/appointments_: president elected by absolute-majority popular vote in 2 rounds, if needed, for a 6-year term (eligible for 3 consecutive terms); prime minister appointed by the president, approved by the House of Representatives<br>
+_most recent election date_: 10-12 December 2023<br>
 _election results_: <em><br>2023:</em> Abdel Fattah EL-SISI reelected president in first round; percent of valid votes cast - Abdel Fattah EL-SISI (independent) 89.6%, Hazam OMAR (Republican People’s Party) 4.5%, Farid ZAHRAN (Egyptian Social Democratic Party 4%, Abdel-Samad YAMAMA 1.9%<br><br><em>2018:</em> Abdelfattah ELSISI reelected president in first round; percent of valid votes cast - Abdelfattah ELSISI (independent) 97.1%, Moussa Mostafa MOUSSA (El Ghad Party) 2.9%; note - more than 7% of ballots cast were deemed invalid<br>
+_expected date of next election_: 2029<br>
 
 **Legislative branch**<br>
 _legislative structure_: bicameral<br>
@@ -410,7 +412,7 @@ three equal horizontal bands of red (top), white, and black; centered in the whi
 **National symbol(s)**<br>
 golden eagle, white lotus<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, black<br>
 
 **National anthem**<br>

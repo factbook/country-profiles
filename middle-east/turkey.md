@@ -337,8 +337,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Recep Tayyip ERDOGAN (since 28 August 2014)<br>
 _head of government_: President Recep Tayyip ERDOGAN (since 9 July 2018)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 14 May 2023 with a runoff on 28 May 2023 (next to be held in 2028)<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br>
+_most recent election date_: 14 May 2023, with a runoff on 28 May 2023<br>
 _election results_: <em><br>2023: </em>Recep Tayyip ERDOGAN reelected president in second round - Recep Tayyip ERDOGAN (AKP) 52.2%, Kemal KILICDAROGLU (CHP) 47.8%<em><br><br>2018:</em> Recep Tayyip ERDOGAN reelected president in first round - Recep Tayyip ERDOGAN (AKP) 52.6%, Muharrem INCE (CHP) 30.6%, Selahattin DEMIRTAS (HDP) 8.4%, Meral AKSENER (IYI) 7.3%, other 1.1%<br>
+_expected date of next election_: 2028<br>
 
 **Legislative branch**<br>
 _legislature name_: Grand National Assembly of Türkiye (Türkiye Büyük Millet Meclisi (T.B.M.M))<br>
@@ -394,7 +396,7 @@ red with a vertical white crescent moon and five-pointed white star centered jus
 **National symbol(s)**<br>
 vertical crescent moon with adjacent five-pointed star<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white<br>
 
 **National anthem**<br>
@@ -404,7 +406,7 @@ _lyrics/music_: Mehmet Akif ERSOY/Zeki UNGOR<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 21 (19 cultural, 2 mixed)<br>
-_selected World Heritage Site locales_: <p>Archaeological Site of Troy (c); Ephesus (c); Diyarbakır Fortress and Hevsel Gardens Cultural Landscape (c); Hierapolis-Pamukkale (m); Göreme National Park and the Rock Sites of Cappadocia (m); Göbekli Tepe (c); Historic Areas of Istanbul (c); Selimiye Mosque and its Social Complex (c); Neolithic Site of Çatalhöyük (c); Bursa and Cumalıkızık: the Birth of the Ottoman Empire (c); Gordion (c); Great Mosque and Hospital of Divriği (c); Hattusha: the Hittite Capital (c); Nemrut Dağ (c);  Xanthos-Letoon (c); City of Safranbolu (c); Pergamon and its Multi-Layered Cultural Landscape (c); Ephesus (c); Archaeological Site of Ani (c); Aphrodisias (c); Arslantepe Mound (c); Wooden Hypostyle Mosques of Medieval Anatolia (c); Turkmenistan (c)</p><br>
+_selected World Heritage Site locales_: <p>Archaeological Site of Troy (c); Ephesus (c); Diyarbakır Fortress and Hevsel Gardens Cultural Landscape (c); Hierapolis-Pamukkale (m); Göreme National Park and the Rock Sites of Cappadocia (m); Göbekli Tepe (c); Historic Areas of Istanbul (c); Selimiye Mosque and its Social Complex (c); Neolithic Site of Çatalhöyük (c); Bursa and Cumalıkızık: the Birth of the Ottoman Empire (c); Gordion (c); Great Mosque and Hospital of Divriği (c); Hattusha: the Hittite Capital (c); Nemrut Dağ (c);  Xanthos-Letoon (c); City of Safranbolu (c); Pergamon and its Multi-Layered Cultural Landscape (c); Archaeological Site of Ani (c); Aphrodisias (c); Arslantepe Mound (c); Wooden Hypostyle Mosques of Medieval Anatolia (c); Turkmenistan (c)</p><br>
 
 ## Economy
 

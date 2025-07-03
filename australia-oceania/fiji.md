@@ -307,8 +307,10 @@ _residency requirement for naturalization_: at least 5 years residency out of th
 _chief of state_: President Ratu Naiqama LALABALAVU (since 12 November 2024)<br>
 _head of government_: Prime Minister Sitiveni Ligamamada RABUKA (since 24 December 2022)<br>
 _cabinet_: Cabinet appointed by the prime minister from among members of Parliament and is responsible to Parliament<br>
-_elections/appointments_: president elected by Parliament for a 3-year term (eligible for a second term); election last held on 31 October 2024 (next to be held in 2027); prime minister endorsed by the president<br>
+_elections/appointments_: president elected by Parliament for a 3-year term (eligible for a second term); prime minister endorsed by the president<br>
+_most recent election date_: 31 October 2024<br>
 _election results_: <em><br>2024: </em>Ratu Naiqama LALABALAVU elected president (People's Alliance) 35 votes, Meli Tora TAVAIQIA (Fiji First) 14 votes<em><br><br>2021:</em> Ratu Wiliame KATONIVERE elected president; Wiliame KATONIVERE (People's Alliance) 28 votes, Teimumu KEPA (SODELPA) 23 votes<br>
+_expected date of next election_: 2027<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -360,7 +362,7 @@ light blue with the UK flag in the upper hoist-side quadrant and the Fijian shie
 **National symbol(s)**<br>
 Fijian canoe<br>
 
-**National colors**<br>
+**National color(s)**<br>
 light blue<br>
 
 **National anthem**<br>
@@ -404,11 +406,6 @@ $5.442 billion (2023 est.)<br>
 4.5% (2022 est.)<br>
 0.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Moody's rating_: Ba3 (2017)<br>
-_Standard & Poors rating_: BB- (2019)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 11.7% (2023 est.)<br>
@@ -647,7 +644,7 @@ the RFMF is lightly armed and equipped; Australia has provided patrol boats and 
 170 Egypt (MFO); 160 Iraq (UNAMI); 150 Golan Heights (UNDOF) (2024)<br>
 
 **Military - note**<br>
-established in 1920,<strong> </strong>the RFMF is a small and lightly-armed force with a history of intervening in the country’s politics, including coups in 1987 and 2006, and a mutiny in 2000, and it continues to have significant political power; the RFMF is responsible for external security but can be assigned some domestic security responsibilities in specific circumstances; it also has a tradition of participating in UN peacekeeping operations, having sent troops on nearly 20 such missions since first deploying personnel to South Lebanon in 1978; these deployments have offered experience and a source of financial support; the RFMF has an infantry regiment and a small naval element comprised of patrol boats <br><br>Fiji has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Fiji's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>
+the Fiji Military Forces (RFMF) are responsible for external security but can be assigned some domestic security responsibilities in specific circumstances; the RFMF has a history of intervening in the country’s politics, and it continues to have significant political power; it also has a tradition of participating in UN peacekeeping operations, which have offered experience and a source of financial support; Fiji has sent troops on nearly 20 such missions since first deploying personnel to South Lebanon in 1978<br><br>Fiji has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Fiji's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>
 
 ## Transnational Issues
 

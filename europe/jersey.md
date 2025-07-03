@@ -284,7 +284,7 @@ white with a diagonal red cross extending to the corners of the flag; a red shie
 **National symbol(s)**<br>
 Jersey cow<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white<br>
 
 **National anthem**<br>

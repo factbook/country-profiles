@@ -295,8 +295,10 @@ _residency requirement for naturalization_: 8 years<br>
 _chief of state_: President Christine KANGALOO (since 20 March 2023)<br>
 _head of government_: Prime Minister Kamla Susheila PERSAD-BISSESSAR (since 1 May 2025)<br>
 _cabinet_: Cabinet appointed from among members of Parliament<br>
-_elections/appointments_: president indirectly elected by an electoral college of selected Senate and House of Representatives members for a 5-year term (eligible for a second term); election last held on 20 January 2023 (next to be held by February 2028); the president usually appoints the leader of the majority party in the House of Representatives as prime minister<br>
+_elections/appointments_: president indirectly elected by an electoral college of selected Senate and House of Representatives members for a 5-year term (eligible for a second term); the president usually appoints the leader of the majority party in the House of Representatives as prime minister<br>
+_most recent election date_: 20 January 2023<br>
 _election results_: <em><br>2023: </em>Christine KANGALOO elected president by the electoral college on 20 January 2023; electoral college vote  Christine KANGALOO (PNM) 48, Israel KHAN (UNC) 22<br><br><em>2018: </em>Paula-Mae WEEKES (independent) elected president; ran unopposed and was elected without a vote; she was Trinidad and Tabago's first female head of state<br>
+_expected date of next election_: by February 2028<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -363,7 +365,7 @@ red with a white-edged black diagonal band from the upper hoist side to the lowe
 **National symbol(s)**<br>
 scarlet ibis (bird of Trinidad), cocrico (bird of Tobago), chaconia flower<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, black<br>
 
 **National coat of arms**<br>
@@ -406,11 +408,6 @@ $27.372 billion (2023 est.)<br>
 4.6% (2023 est.)<br>
 5.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Moody's rating_: Ba1 (2017)<br>
-_Standard & Poors rating_: BBB- (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.1% (2022 est.)<br>

@@ -320,8 +320,10 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Gitanas NAUSEDA (since 12 July 2019)<br>
 _head of government_: Prime Minister Gintautas PALUCKAS (since 12 December 2024)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the president, approved by Parliament<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 26 May 2024 (next election to be held in 2029); prime minister appointed by the president, approved by Parliament<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister appointed by the president, approved by Parliament<br>
+_most recent election date_: 26 May 2024<br>
 _election results_: <em><br>2024: </em>Gitanas NAUSEDA elected president in second round; percent of vote -Gitanas NAUSEDA (independent) 75.6%, Ingrida SIMONYTE (TS-LKD) 24.4%<br><em><br>2019:</em> Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%<br>
+_expected date of next election_: 2029<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Seimas)<br>
@@ -374,7 +376,7 @@ three equal horizontal bands of yellow (top), green, and red; yellow stands for 
 **National symbol(s)**<br>
 mounted knight known as Vytis (the Chaser), white stork<br>
 
-**National colors**<br>
+**National color(s)**<br>
 yellow, green, red<br>
 
 **National anthem**<br>

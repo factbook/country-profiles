@@ -243,8 +243,10 @@ see United States<br>
 _chief of state_: President Donald J. TRUMP (since 20 January 2025)<br>
 _head of government_: Governor Lourdes LEON GUERRERO (since 7 January 2019)<br>
 _cabinet_: Cabinet appointed by the governor with the consent of the Legislature<br>
-_elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as Guam, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for 2 consecutive terms); gubernatorial election last held on 8 November 2022 (next to be held on 3 November 2026)<br>
+_elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of electors chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as Guam, do not vote in elections for US president and vice president, but they can vote in Democratic and Republican presidential primary elections; governor and lieutenant governor elected on the same ballot by absolute majority vote in 2 rounds, if needed, for a 4-year term (eligible for 2 consecutive terms)<br>
+_most recent election date_: <em>gubernatorial:</em> 8 November 2022<br>
 _election results_: <em><br>2022:</em> Lourdes LEON GUERRERO reelected governor; percent of vote - Lourdes LEON GUERRERO (Democratic Party) 55%, Felix CAMACHO (Republican Party) 44%; Josh TENORIO (Democratic Party) elected lieutenant governor<br><br><em>2018:</em> Lourdes LEON GUERRERO elected governor; percent of vote -  Lourdes LEON GUERRERO (Democratic Party) 50.7%, Ray TENORIO (Republican Party) 26.4%; Josh TENORIO (Democratic Party) elected lieutenant governor<br>
+_expected date of next election_: <em>gubernatorial: </em>3 November 2026<br>
 
 **Legislative branch**<br>
 _legislature name_: Legislature of Guam (Liheslaturan Guahan)<br>
@@ -290,7 +292,7 @@ territorial flag is dark blue with a narrow red border on all four sides; center
 **National symbol(s)**<br>
 coconut tree<br>
 
-**National colors**<br>
+**National color(s)**<br>
 deep blue, red<br>
 
 **National anthem**<br>
@@ -484,7 +486,7 @@ _key ports_: Apra Harbor<br>
 Guam Police Department (GPD); Guam (US) National Guard&nbsp;<br>
 
 **Military - note**<br>
-defense is the responsibility of the US; the US military maintains over 6,000 personnel on Guam, including an air base, an air wing, and a naval installation command (2024)<br>
+defense is the responsibility of the US; the US military maintains about 8,000 active-duty uniformed personnel and several bases and installations<br>
 
 ## Transnational Issues
 

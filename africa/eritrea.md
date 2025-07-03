@@ -301,8 +301,10 @@ _residency requirement for naturalization_: 20 years<br>
 _chief of state_: President ISAIAS Afwerki (since 24 May 1993)<br>
 _head of government_: President ISAIAS Afwerki (since 8 June 1993)<br>
 _cabinet_: State Council appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term), according to the constitution; the only election held was&nbsp;on 24 May 1993, following independence from Ethiopia (next postponed indefinitely)<br>
+_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term), according to the constitution<br>
+_most recent election date_: 24 May 1993, following independence from Ethiopia<br>
 _election results_: <em><br>1993:</em> ISAIAS Afwerki elected president by the transitional National Assembly; percent of National Assembly vote - ISAIAS Afwerki (PFDJ) 95%, other 5%<br>
+_expected date of next election_: postponed indefinitely<br>
 <strong>note:</strong> the president is both chief of state and head of government and is head of the State Council and National Assembly<br>
 
 **Legislative branch**<br>
@@ -353,7 +355,7 @@ a red isosceles triangle (based on the hoist side) divides the flag into two rig
 **National symbol(s)**<br>
 camel<br>
 
-**National colors**<br>
+**National color(s)**<br>
 green, red, blue<br>
 
 **National anthem**<br>
@@ -570,7 +572,7 @@ _key ports_: Assab, Mitsiwa Harbor<br>
 
 **Military and security forces**<br>
 Eritrean Defense Forces (EDF): Eritrean Ground Forces, Eritrean Navy, Eritrean Air Force; People's Militia (aka People's Army or Hizbawi Serawit) (2024)<br>
-<strong>note: </strong>police are responsible for maintaining internal security, but the government sometimes used the armed forces, reserves, demobilized soldiers, or civilian militia to meet domestic as well as external security requirements; the armed forces have authority to arrest and detain civilians<br>
+<strong>note: </strong>police are responsible for maintaining internal security, but the government sometimes uses the armed forces, reserves, demobilized soldiers, or civilian militia to meet domestic as well as external security requirements; the armed forces have authority to arrest and detain civilians<br>
 
 **Military expenditures**<br>
 10% of GDP (2019 est.)<br>
@@ -580,7 +582,7 @@ Eritrean Defense Forces (EDF): Eritrean Ground Forces, Eritrean Navy, Eritrean A
 10.6% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-available information varies widely; estimated 150,000-200,000 active EDF (2024)<br>
+available information varies widely; estimated 150,000-200,000 active Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the EDF's inventory is comprised primarily of Soviet-era weapons and equipment (2024)<br>
@@ -589,7 +591,7 @@ the EDF's inventory is comprised primarily of Soviet-era weapons and equipment (
 Eritrea mandates military service for all citizens age 18-40; 18-month conscript service obligation, which reportedly includes 4-6 months of military training and 12 months of military or other national service (military service is most common); in practice, military and national service is often extended indefinitely; citizens up to the age of 59 eligible for recall during mobilization (2024)<br>
 
 **Military - note**<br>
-the military’s primary responsibilities are external defense, border security, and providing the regime a vehicle for national cohesion; the Army is the dominant service; it is a conscript-based force estimated to have more than 20 infantry divisions, including some that are mechanized, as well as a division of commandos/special forces<br><br>since the country's independence in 1991, the Eritrean military has participated in numerous conflicts, including the Hanish Island Crisis with Yemen (1995), the First Congo War (1996-1997), the Second Sudanese Civil War (1996-1998), the Eritrea-Ethiopia War (1998-2000), the Djiboutian-Eritrean border conflict (2008), and the Tigray conflict in Ethiopia (2020-2022); during the Tigray conflict, the Eritrean Defense Forces were accused of widespread human rights abuses (2023)<br>
+the military’s primary responsibilities are external defense, border security, and providing the regime a vehicle for national cohesion; the conscript-based Army is the dominant service<br><br>since the country's independence in 1991, the Eritrean military has participated in numerous conflicts, including the Hanish Island Crisis with Yemen (1995), the First Congo War (1996-1997), the Second Sudanese Civil War (1996-1998), the Eritrea-Ethiopia War (1998-2000), the Djiboutian-Eritrean border conflict (2008), and the Tigray conflict in Ethiopia (2020-2022); during the Tigray conflict, the Eritrean Defense Forces were accused of human rights abuses; in recent years, it has provided training support to the military of Somalia (2025)<br>
 
 ## Transnational Issues
 

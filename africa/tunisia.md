@@ -319,8 +319,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Kais SAIED (since 23 October 2019)<br>
 _head of government_: Prime Minister Sarra ZAAFRANI Zenzri (since 21 March 2025)<br>
 _cabinet_: prime minister appointed by the president; cabinet members appointed by the president in consultation with the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 6 October 2024 (next to be held in 2029)<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br>
+_most recent election date_: 6 October 2024<br>
 _election results_: <p><em>2024: </em>Kais SAIED reelected president in first round - Kais SAIED (independent) 90.7%, Ayachi ZAMMEL (Long Live Tunisia) 7.3%, Zouhair MAGHZAOUI (People's Movement) 2%<em><br><br>2019:</em> Kais SAIED elected president in second round; percent of vote in first round - Kais SAIED (independent) 18.4%, Nabil KAROUI (Heart of Tunisia) 15.6%, Abdelfattah MOUROU (Nahda Movement) 12.9%, Abdelkrim ZBIDI (independent) 10.7%, Youssef CHAHED (Long Live Tunisia) 7.4%, Safi SAID (independent) 7.1%, Lotfi MRAIHI (Republican People's Union) 6.6%, other 21.3%; percent of vote in second round - Kais SAIED 72.7%, Nabil KAROUI 27.3%</p><br>
+_expected date of next election_: 2029<br>
 <strong>note: </strong>the president can dismiss any member of government on his own initiative or in consultation with the prime minister<br>
 
 **Legislative branch**<br>
@@ -386,7 +388,7 @@ red with a white disk in the center with a red crescent around a five-pointed re
 **National symbol(s)**<br>
 red crescent moon and five-pointed star in a white circle<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white<br>
 
 **National anthem**<br>

@@ -310,8 +310,10 @@ _residency requirement for naturalization_: 4 of the previous 8 years<br>
 _chief of state_: President Michael D. HIGGINS (since 11 November 2011)<br>
 _head of government_: Taoiseach (Prime Minister) Michael MARTIN (since 23 January 2025)<br>
 _cabinet_: Cabinet nominated by the prime minister, appointed by the president, approved by the Dali Eireann (lower house of Parliament)<br>
-_elections/appointments_: president directly elected by majority popular vote for a 7-year term (eligible for a second term); election last held on 26 October 2018 (next to be held no later than November 2025); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president<br>
+_elections/appointments_: president directly elected by majority popular vote for a 7-year term (eligible for a second term); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president<br>
+_most recent election date_: 26 October 2018<br>
 _election results_: <em><br>2025: </em>Michael MARTIN is elected taoiseach by parliament, 95 votes to 76, and is appointed taoiseach by the president<br><em><br>2024: </em>Simon HARRIS is elected taoiseach by parliament, 88 votes to 69, and is appointed taoiseach by the president<em><br><br>2018:</em> Michael D. HIGGINS reelected president in first round; percent of vote in first round - Michael D. HIGGINS (independent) 55.8%, Peter CASEY (independent) 23.3%, Sean GALLAGHER (independent) 6.4%, Liadh NI RIADA (Sinn Fein) 6.4%, Joan FREEMAN (independent) 6%, Gavin DUFFY (independent) 2.2%<br>
+_expected date of next election_: no later than November 2025<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Oireachtas)<br>
@@ -329,11 +331,12 @@ _percentage of women in chamber_: 25.3%<br>
 _expected date of next election_: November 2029<br>
 
 **Legislative branch - upper chamber**<br>
-_chamber name_: Senate (Seanad Éireann - Senate)<br>
+_chamber name_: Senate (Seanad &Eacute;ireann - Senate)<br>
 _number of seats_: 60 (49 indirectly elected; 11 appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 1/29/2025 to 1/30/2025<br>
+_parties elected and seats per party_: Fianna Fail (19); Fine Gael (18); Sinn Fein (6); Independents (12); other (5)<br>
 _percentage of women in chamber_: 45%<br>
 _expected date of next election_: January 2030<br>
 
@@ -377,7 +380,7 @@ three equal vertical bands of green (hoist side), white, and orange; the flag co
 **National symbol(s)**<br>
 harp, shamrock (trefoil)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, green<br>
 
 **National anthem**<br>
@@ -387,7 +390,7 @@ _lyrics/music_: Peadar KEARNEY [English], Liam O RINN [Irish]/Patrick HEENEY and
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>
-_selected World Heritage Site locales_: Br&uacute; na B&oacute;inne - Archaeological Ensemble of the Bend of the Boyne; Sceilg Mhich&iacute;l<br>
+_selected World Heritage Site locales_: Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne; Sceilg Mhichíl<br>
 
 ## Economy
 

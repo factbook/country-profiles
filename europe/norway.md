@@ -325,7 +325,7 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: King HARALD V (since 17 January 1991)<br>
 _head of government_: Prime Minister Jonas Gahr STORE (since 14 October 2021)<br>
 _cabinet_: Council of State appointed by the monarch, approved by Parliament<br>
-_elections/appointments_: the monarchy is hereditary; following parliamentary elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch with the approval of the parliament<br>
+_elections/appointments_: the monarchy is hereditary; following legislative elections, the monarch usually appoints the leader of the majority party or majority coalition as prime minister, with the approval of Parliament<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Stortinget)<br>
@@ -379,7 +379,7 @@ red with a blue cross outlined in white that extends to the edges of the flag; t
 **National symbol(s)**<br>
 lion<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, blue<br>
 
 **National anthem**<br>
@@ -389,7 +389,7 @@ _lyrics/music_: lyrics/music: Bjornstjerne BJORNSON/Rikard NORDRAAK<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 8 (7 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Bryggen (c); Urnes Stave Church (c); Røros Mining Town and the Circumference (c); Rock Art of Alta (c); Vegaøyan – The Vega Archipelago (c); Struve Geodetic Arc (c); West Norwegian Fjords – Geirangerfjord and Nærøyfjord (n); Rjukan-Notodden Industrial Heritage Site (c)<br>
+_selected World Heritage Site locales_: Bryggen (c); Urnes Stave Church (c); Røros Mining Town and the Circumference (c); Rock Art of Alta (c); Vegaøyan – The Vega Archipelago (c); Struve Geodetic Arc (c); West Norwegian Fjords – Geirangerfjord and Nærøyfjord (n); Rjukan-Notodden Industrial Heritage Site (c)<br>
 
 ## Economy
 

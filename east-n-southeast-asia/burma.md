@@ -334,10 +334,12 @@ _residency requirement for naturalization_: none<br>
 _chief of state_: Prime Minister, State Administration Council Chair, Sr. Gen. MIN AUNG HLAING (since 1 August 2021)<br>
 _head of government_: Prime Minister, State Administration Council Chair, Sr. Gen. MIN AUNG HLAING (since 1 August 2021)<br>
 _cabinet_: Cabinet appointments shared by the president and the commander-in-chief<br>
-_elections/appointments_: prior to the military takeover in 2021, president was indirectly elected by simple majority vote by the full Assembly of the Union from among 3 vice-presidential candidates nominated by the Presidential Electoral College (consists of members of the lower and upper houses and military members); the other 2 candidates become vice presidents (president elected for a 5-year term); general election last held on 8 November 2020; the military junta has pledged to hold new general elections but has repeatedly announced delays<br>
+_elections/appointments_: prior to the military takeover in 2021, president was indirectly elected by simple majority vote by the full Assembly of the Union from among 3 vice-presidential candidates nominated by the Presidential Electoral College (consists of members of the lower and upper houses and military members); the other 2 candidates become vice presidents (president elected for a 5-year term)<br>
+_most recent election date_: 8 November 2020<br>
 _election results_: <em><br>2020:  </em>the National League for Democracy (NLD) won 396 seats across both houses -- well above the 322 required for a parliamentary majority -- but on 1 February 2021, the military claimed the results of the election were illegitimate and deposed State Counsellor AUNG SAN SUU KYI and President WIN MYINT of the NLD, causing military-affiliated Vice President MYINT SWE (USDP) to become acting president; MYINT SWE subsequently handed power to coup leader MIN AUNG HLAING; WIN MYINT and other key leaders of the ruling NLD party were placed under arrest after the military takeover<br><em><br>2018</em>: WIN MYINT elected president in an indirect by-election held on 28 March 2018 after the resignation of HTIN KYAW; Assembly of the Union vote for president - WIN MYINT (NLD) 403, MYINT SWE (USDP) 211, HENRY VAN THIO (NLD) 18, 4 votes canceled (636 votes cast)<br>
+_expected date of next election_: the military junta has pledged to hold new elections but has repeatedly announced delays<br>
 _state counsellor_: State Counselor AUNG SAN SUU KYI (since 6 April 2016); note - under arrest since 1 February 2021; formerly served as Minister of Foreign Affairs and Minister for the Office of the President<br>
-<strong>note 1: </strong>the military took over the government on 1 February 2021 and declared a state of emergency; they replaced the Cabinet with the State Administrative Council (SAC), which is the official name of the military government in Burma<br><br><strong>note 2: </strong>prior to the military takeover, the state counsellor served the equivalent term of the president and was similar to a prime minister<br>
+<strong>note 1: </strong>the military took over the government on 1 February 2021 and declared a state of emergency; the military replaced the Cabinet with the State Administrative Council (SAC), which is the official name of the military government in Burma<br><br><strong>note 2: </strong>prior to the military takeover, the state counsellor served the equivalent term of the president and was similar to a prime minister<br>
 
 **Legislative branch**<br>
 _legislature name_: Assembly of the Union (Pyidaungsu Hluttaw)<br>
@@ -384,7 +386,7 @@ three equal horizontal stripes of yellow (top), green, and red; centered on the 
 **National symbol(s)**<br>
 chinthe (mythical lion)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 yellow, green, red, white<br>
 
 **National anthem**<br>

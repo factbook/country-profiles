@@ -295,8 +295,8 @@ _residency requirement for naturalization_: na<br>
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Tofiga Vaevalu FALANI (since 29 August 2021)<br>
 _head of government_: Prime Minister Feleti Penitala TEO (since 27 February 2024)<br>
-_cabinet_: Cabinet appointed by the governor general on recommendation of the prime minister<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on recommendation of the prime minister; prime minister and deputy prime minister elected by and from members of House of Assembly following parliamentary elections<br>
+_cabinet_: Cabinet members selected by the prime minister<br>
+_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on recommendation of the prime minister and the parliament; prime minister and deputy prime minister elected by and from members of House of Assembly following parliamentary elections<br>
 _election results_: <em><br>2024: </em>TEO was the only candidate nominated by the House of Assembly<em><br><br>2019: </em>Kausea NATANO elected prime minister by House of Assembly; House of Assembly vote - 10 to 6<br>
 
 **Legislative branch**<br>
@@ -345,7 +345,7 @@ light blue with the UK flag in the upper hoist-side quadrant; the outer half of 
 **National symbol(s)**<br>
 maneapa (native meeting house)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 light blue, yellow<br>
 
 **National anthem**<br>

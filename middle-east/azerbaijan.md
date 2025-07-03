@@ -318,8 +318,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Ilham ALIYEV (since 31 October 2003)<br>
 _head of government_: Prime Minister Ali ASADOV (since 8 October 2019)<br>
 _cabinet_: Council of Ministers appointed by the president and confirmed by the National Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds (if needed) for a 7-year term; a single individual is eligible for unlimited terms; election last held on 7 February 2024 (next to be held in 2031); prime minister and first deputy prime minister appointed by the president and confirmed by the National Assembly<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds (if needed) for a 7-year term; a single individual is eligible for unlimited terms; prime minister and first deputy prime minister appointed by the president and confirmed by the National Assembly<br>
+_most recent election date_: 7 February 2024<br>
 _election results_: <em><br>2024: </em>Ilham ALIYEV reelected president; percent of vote - Ilham ALIYEV (YAP) 92.1%, Zahid ORUJ (independent) 2.2%<em>; </em>on 16 February 2024, Ali ASADOV reappointed prime minister by parliamentary vote, 105-1<em><br><br>2018:</em> Ilham ALIYEV reelected president in first round; percent of vote - Ilham ALIYEV (YAP) 86%, Zahid ORUJ (independent) 3.1%, other 10.9%<br>
+_expected date of next election_: 2031<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Milli Majlis)<br>
@@ -372,7 +374,7 @@ three equal horizontal bands of sky blue (top), red, and green; a vertical cresc
 **National symbol(s)**<br>
 flames of fire<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, red, green<br>
 
 **National anthem**<br>

@@ -335,9 +335,11 @@ _residency requirement for naturalization_: unknown<br>
 **Executive branch**<br>
 _chief of state_: President of the National Council for the Safeguard of the Homeland (CNSP) General Abdourahame TIANI (since 28 July 2023)<br>
 _head of government_: CNSP Prime Minister Ali Mahaman Lamine ZEINE (since 9 August 2023)<br>
-_cabinet_: Cabinet appointed by the CNSP; Cabinet previously appointed by the elected president<br>
-_elections/appointments_: the CNSP rules by decree; previously, the president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 27 December 2020 with a runoff held on 21 February 2021 (next election was to be held in 2025); prime minister appointed by the president, authorized by the National Assembly<br>
+_cabinet_: Cabinet appointed by the CNSP<br>
+_elections/appointments_: the CNSP rules by decree; previously, the president was directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister was appointed by the president, authorized by the National Assembly<br>
+_most recent election date_: 27 December 2020, with a runoff held on 21 February 2021<br>
 _election results_: <em><br>2020/2021</em>: Mohamed BAZOUM elected president in second round; percent of vote in first round - Mohamed BAZOUM (PNDS-Tarrayya) 39.3%, Mahamane OUSMANE (MODEN/FA Lumana Africa) 17%, Seini OUMAROU (MNSD-Nassara) 9%, Albade ABOUDA (MPR-Jamhuriya) 7.1%, other 27.6%; percent of vote in second round - Mohamed BAZOUM 55.7%, Mahamane OUSMANE 44.3%<br><br><em>2016</em>: ISSOUFOU Mahamadou reelected president in second round; percent of vote in first round - ISSOUFOU Mahamadou (PNDS-Tarrayya) 48.6%, Hama AMADOU (MODEN/FA Lumana Africa) 17.8%, Seini OUMAROU (MNSD-Nassara) 11.3%, other 22.3%; percent of vote in second round - ISSOUFOU Mahamadou 92%, Hama AMADOU 8%<br>
+_expected date of next election_: 2025<br>
 <strong>note:</strong> deposed president BAZOUM has been under house arrest since a military coup on 26 July 2023<br>
 
 **Legislative branch**<br>
@@ -389,7 +391,7 @@ three equal horizontal bands of orange (top), white, and green, with a small ora
 **National symbol(s)**<br>
 zebu<br>
 
-**National colors**<br>
+**National color(s)**<br>
 orange, white, green<br>
 
 **National anthem**<br>
@@ -399,7 +401,7 @@ _lyrics/music_: Maurice Albert THIRIET/Robert JACQUET and Nicolas Abel Francois 
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (1 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: Air and T&eacute;n&eacute;r&eacute; Natural Reserves (n); W-Arly-Pendjari Complex (n); Historic Agadez (c)<br>
+_selected World Heritage Site locales_: Air and Ténéré Natural Reserves (n); W-Arly-Pendjari Complex (n); Historic Agadez (c)<br>
 
 ## Economy
 

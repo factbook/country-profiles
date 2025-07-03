@@ -324,8 +324,10 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President THONGLOUN Sisoulith (since 22 March 2021)<br>
 _head of government_: Prime Minister SONEXAY (also spelled SONXAI) Siphandon (since 30 December 2022)<br>
 _cabinet_: Council of Ministers appointed by the president and approved by the National Assembly<br>
-_elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (no term limits); election last held on 22 March 2021 (next to be held in March 2026); prime minister nominated by the president, elected by the National Assembly for a 5-year term<br>
+_elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (no term limits); prime minister nominated by the president, elected by the National Assembly for a 5-year term<br>
+_most recent election date_: 22 March 2021<br>
 _election results_: <em><br>2021: </em>THONGLOUN Sisoulith (LPRP) elected president; National Assembly vote - 161-1; PHANKHAM Viphavanh (LPRP) elected prime minister; National Assembly vote - 158-3<br><br><em>2016:</em> BOUNNHANG Vorachit (LPRP) elected president; percent of National Assembly vote - NA; THONGLOUN Sisoulith (LPRP) elected prime minister; percent of National Assembly vote - NA<br>
+_expected date of next election_: March 2026<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Sapha Heng Xat)<br>
@@ -378,7 +380,7 @@ three horizontal bands of red (top), blue (double-width), and red with a large w
 **National symbol(s)**<br>
 elephant<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, blue<br>
 
 **National anthem**<br>

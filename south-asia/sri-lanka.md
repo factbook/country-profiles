@@ -316,8 +316,10 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: President Anura Kumara DISSANAYAKE (since 23 September 2024)<br>
 _head of government_: Prime Minister Harini AMARASURIYA (since 24 September 2024)<br>
 _cabinet_: Cabinet appointed by the president in consultation with the prime minister<br>
-_elections/appointments_: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); election last held on 21 September 2024 (next to be held in 2029); prime minister appointed by the president<br>
+_elections/appointments_: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); prime minister appointed by the president<br>
+_most recent election date_: 21 September 2024<br>
 _election results_: <em><br>2024: </em>Anura Kumara DISSANAYAKE elected president; percent of vote after reallocation - Anura Kumara DISSANAYAKE (JVP) 55.9%, Sajith PREMADASA (SJB) 44.1%<br><em><br>2022: </em>Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; Parliament vote - WICKREMESINGHE (UNP) 134, Dullas ALAHAPPERUMA (SLPP) 82<br>
+_expected date of next election_: 2029<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -371,7 +373,7 @@ yellow with two panels; the smaller hoist-side panel has two equal vertical band
 **National symbol(s)**<br>
 lion, water lily<br>
 
-**National colors**<br>
+**National color(s)**<br>
 maroon, yellow<br>
 
 **National anthem**<br>
@@ -415,12 +417,6 @@ $84.357 billion (2023 est.)<br>
 16.5% (2023 est.)<br>
 49.7% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: CCC (2020)<br>
-_Moody's rating_: Caa1 (2020)<br>
-_Standard & Poors rating_: CCC+ (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 8.3% (2023 est.)<br>

@@ -368,7 +368,7 @@ three horizontal bands of blue (top), red (triple-width), and blue; the red band
 **National symbol(s)**<br>
 lion, elephant<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, yellow, red<br>
 
 **National coat of arms**<br>
@@ -411,10 +411,6 @@ $4.443 billion (2023 est.)<br>
 4.8% (2018 est.)<br>
 6.2% (2017 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Moody's rating_: B3 (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.1% (2023 est.)<br>
@@ -637,7 +633,7 @@ the UEDF has a light and small inventory of mostly older equipment originating f
 18-35 years of age for voluntary military service for men and women; no conscription (2023)<br>
 
 **Military - note**<br>
-the UEDF&rsquo;s primary mission is external security but it also has domestic security responsibilities, including protecting members of the royal family; the king is the UEDF commander in chief and holds the position of minister of defense, although the UEDF reports to the Army commander and principal undersecretary of defense for day-to-day operations; the Royal Eswatini Police Service (REPS) is responsible for maintaining internal security as well as migration and border crossing enforcement; it is under the prime minister, although the king is the force&rsquo;s titular commissioner in chief; the UEDF was originally created in 1973 as the Royal Swaziland Defense Force (2024)<br>
+the UEDF&rsquo;s primary mission is external defense, which includes mostly securing the borders; it also has domestic security responsibilities, including protecting members of the royal family; the king is the UEDF commander in chief and holds the position of minister of defense, although the UEDF reports to the Army commander and principal undersecretary of defense for day-to-day operations; the Royal Eswatini Police Service (REPS) is responsible for maintaining internal security as well as migration and border crossing enforcement; it is under the prime minister, although the king is the force&rsquo;s titular commissioner in chief; the UEDF was originally created in 1973 as the Royal Swaziland Defense Force (2024)<br>
 
 ## Transnational Issues
 

@@ -71,7 +71,7 @@ Gambia river mouth (shared with Senegal and Guinea [s]) - 1,094 km<br><br><stron
 Senegalo-Mauritanian Basin<br>
 
 **Population distribution**<br>
-settlements are found scattered along the Gambia River; the largest communities, including the capital of Banjul, and the country's largest city, Serekunda, are found at the mouth of the Gambia River along the Atlantic coast as shown in this population distribution map<br>
+settlements are found scattered along the Gambia River; the largest communities, including the capital of Banjul and the country's largest city, Serekunda, are found at the mouth of the Gambia River along the Atlantic coast, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 droughts<br>
@@ -128,7 +128,7 @@ _female_: 20.6 years<br>
 0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-settlements are found scattered along the Gambia River; the largest communities, including the capital of Banjul, and the country's largest city, Serekunda, are found at the mouth of the Gambia River along the Atlantic coast as shown in this population distribution map<br>
+settlements are found scattered along the Gambia River; the largest communities, including the capital of Banjul and the country's largest city, Serekunda, are found at the mouth of the Gambia River along the Atlantic coast, as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 64.5% of total population (2023)<br>
@@ -319,10 +319,12 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Adama BARROW (since 19 January 2022)<br>
-_head of government_: Vice President Mohammed JALLOW (since 23 February 2024)&nbsp;&nbsp;<br>
+_head of government_: Vice President Mohammed JALLOW (since 23 February 2024)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 4 December 2021 (next to be held in 2026); vice president appointed by the president<br>
+_elections/appointments_: president directly elected by simple-majority popular vote for a 5-year term (no term limits); vice president appointed by the president<br>
+_most recent election date_: 4 December 2021<br>
 _election results_: <em><br>2021: </em>Adama BARROW reelected president; percent of vote - Adama BARROW (NPP) 53.2%, Ousainou DARBOE (UDP) 27.7%, Mamma KANDEH (GDC) 12.3%, other 6.8%<br><br><em>2016: </em>Adama BARROW elected president; percent of vote - Adama BARROW (Coalition 2016) 43.3%, Yahya JAMMEH (APRC) 39.6%, Mamma KANDEH (GDC) 17.1%<br>
+_expected date of next election_: 2026<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly<br>
@@ -374,7 +376,7 @@ three equal horizontal bands of red (top), blue with white edges, and green; red
 **National symbol(s)**<br>
 lion<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, blue, green, white<br>
 
 **National anthem**<br>
@@ -637,7 +639,7 @@ the military of Gambia has a limited inventory of mostly older, obsolescent, or 
 18-25 years of age for voluntary service for men and women (18-22 for officers); no conscription; service obligation six months&nbsp; (2024)<br>
 
 **Military - note**<br>
-the Gambian security forces have a history of involvement in domestic politics, including multiple coups attempts and mutinies, with the latest being an attempted coup in 2022; since 2017, Gambia’s security sector has been undergoing reforms as part of a national reconstruction effort to recover from the 22 years of Yahya JAMMEH’s autocratic rule under which the security forces were under-resourced in terms of finances and equipment and were largely directed towards regime protection and suppressing dissent; international partners, including member states of the EU, particularly France and Germany, as well as Turkey and the US have provided assistance for military and police reforms; several members of the Economic Community of West African States (ECOWAS) have also provided security forces for stability, plus assistance and training through the ECOWAS Mission in the Gambia (ECOMIG); as of 2024, Ghana, Nigeria, and Senegal were providing military and gendarmerie personnel for ECOMIG<br><br>the GAF is a small and lightly armed force responsible for external defense, including maritime security, and aiding civil authorities in emergencies and natural disaster relief; it also engages in domestic support activities such as engineering, education, health, and agriculture development; the GAF participates in peacekeeping missions, and since its first deployments in the 1990s, has been involved in more than 10 UN peacekeeping missions <br><br>the GAF traces its origins to the Gambia Regiment of the British Army; established in 1901, the Gambia Regiment was part of the West African Frontier Force (WAFF, later Royal West African Frontier Force or RWAFF) and served in both World Wars, including the British 1944-45 military campaign in Burma; the Gambia Regiment was disbanded in 1958 and replaced by the Field Force, a police paramilitary unit; the Field Force was responsible for The Gambia’s security until the establishment of the GAF in 1985; in addition, a defense agreement signed in 1965 between The Gambia and Senegal provided mutual assistance in the face of an external threat; from 1981-1989, The Gambia and Senegal formed a Confederal Army that was made up of troops from both countries (2024)<br>
+the Gambian Armed Forces (GAF) are responsible for external defense and aiding civil authorities in internal emergencies and natural disaster relief; they participate in multinational peacekeeping missions, as well as domestic support activities such as agricultural development, construction, education, and health services; the Gambian security forces have a history of involvement in domestic politics, including multiple coup attempts and mutinies, with the latest being an attempted coup in 2022<br><br>since January 2017, several members of the Economic Community of West African States (ECOWAS) have provided security forces for Gambia's stability, plus assistance and training for the GAF and other Gambian security forces through the ECOWAS Mission in the Gambia (ECOMIG); as of 2025, Ghana, Nigeria, and Senegal were providing military and gendarmerie personnel for ECOMIG (2025)<br>
 
 ## Transnational Issues
 

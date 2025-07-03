@@ -64,7 +64,7 @@ _other_: 28.7% (2022 est.)<br>
 14,600 sq km (2012)<br>
 
 **Population distribution**<br>
-population concentrated in the plains and lowlands; least populated regions are the mountainous provinces adjacent to the Chinese border; largest concentrations are in the western provinces, particularly the municipal district of Pyongyang, and around Hungnam and Wonsan in the east<br>
+population concentrated in the plains and lowlands; least-populated regions are the mountainous provinces adjacent to the Chinese border; largest concentrations are in the western provinces, particularly the municipal district of Pyongyang, and around Hungnam and Wonsan in the east<br>
 
 **Natural hazards**<br>
 <p>late spring droughts often followed by severe flooding; occasional typhoons during the early fall</p> <p><strong>volcanism:</strong> P'aektu-san (2,744 m) (also known as Baitoushan, Baegdu, or Changbaishan), on the Chinese border, is considered historically active</p><br>
@@ -123,7 +123,7 @@ _female_: 37.4 years<br>
 0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-population concentrated in the plains and lowlands; least populated regions are the mountainous provinces adjacent to the Chinese border; largest concentrations are in the western provinces, particularly the municipal district of Pyongyang, and around Hungnam and Wonsan in the east<br>
+population concentrated in the plains and lowlands; least-populated regions are the mountainous provinces adjacent to the Chinese border; largest concentrations are in the western provinces, particularly the municipal district of Pyongyang, and around Hungnam and Wonsan in the east<br>
 
 **Urbanization**<br>
 _urban population_: 63.2% of total population (2023)<br>
@@ -302,9 +302,11 @@ _residency requirement for naturalization_: unknown<br>
 **Executive branch**<br>
 _chief of state_: State Affairs Commission President KIM Jong Un (since 17 December 2011)<br>
 _head of government_: Supreme People's Assembly President CHOE Ryong Hae (since 11 April 2019)<br>
-_cabinet_: Cabinet or Naegak members appointed by the Supreme People's Assembly except the Minister of People's Armed Forces<br>
-_elections/appointments_: chief of state and premier indirectly elected by the Supreme People's Assembly; election last held on 10 March 2019 (next to be held in March 2024)<br>
+_cabinet_: Cabinet or Naegak members appointed by the Supreme People's Assembly, except the Minister of People's Armed Forces<br>
+_elections/appointments_: chief of state and premier indirectly elected by the Supreme People's Assembly<br>
+_most recent election date_: 11 April 2019<br>
 _election results_: <em><br>2019:</em> KIM Jong Un reelected unopposed<br>
+_expected date of next election_: March 2024<br>
 <strong>note 1:</strong> KIM Jong Un's titles include general secretary of the Workers' Party of Korea (KWP), chairman of the KWP Central Military Commission, president of the State Affairs Commission, and supreme commander of the Korean People's Army<br><br><strong>note 2:</strong> in the North Korean system, KIM Jong Un's role as chief of state is secondary to his role as general secretary of the Korean Workers' Party; chief of state is used to engage with non-communist countries such as the US; North Korea revised its constitution in 2019 to define "the Chairman of the State Affairs Commission" as "the supreme leader who represents the state"; functions as the commander-in-chief and chief executive; the specific titles associated with this office have changed multiple times under KIM's tenure, but KIM Jong Un has been supreme leader since his father's death in 2011<br><br><strong>note 3:</strong> the head of government functions as the technical head of state and performs related duties, such as receiving ambassadors' credentials<br>
 
 **Legislative branch**<br>
@@ -348,7 +350,7 @@ three horizontal bands of blue (top), red (triple-width), and blue; the red band
 **National symbol(s)**<br>
 red star, chollima (winged horse)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, blue<br>
 
 **National anthem**<br>

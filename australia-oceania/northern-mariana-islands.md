@@ -241,8 +241,10 @@ see United States<br>
 _chief of state_: President Donald J. TRUMP (since 20 January 2025)<br>
 _head of government_: Governor Arnold PALACIOS (since 9 January 2023)<br>
 _cabinet_: Cabinet appointed by the governor with the advice and consent of the Senate<br>
-_elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of the Northern Mariana Islands do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by absolute majority vote in 2 rounds if needed; election last held on 8 November 2022 with a runoff held on 25 November 2022 (next to be held in 2026)<br>
+_elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of electors chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of the Northern Mariana Islands do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by absolute majority vote in 2 rounds, if needed<br>
+_most recent election date_: 8 November 2022, with a runoff held on 25 November 2022<br>
 _election results_: <br><em>2022: </em>Arnold PALACIOS elected governor in second round; percent of vote in first round - Ralph TORRES (Republican) 38.8%; Arnold PALACIOS (independent) 32.2%, Tina SABLAN (Democrat) 28%; percent of vote in second round - Arnold PALACIOS 54%, Ralph TORRES 46%; David APATANG (independent) elected lieutenant governor<br><br><em>2018: </em>Ralph TORRES elected governor; percent of vote - Ralph TORRES (Republican) 62.2%, Juan BABAUTA (independent) 37.8%;  Arnold PALACIOS elected lieutenant governor<br>
+_expected date of next election_: 2026<br>
 
 **Legislative branch**<br>
 <strong>note: </strong>the Northern Mariana Islands delegate to the US House of Representatives can vote when serving on a committee and when the House meets as the "Committee of the Whole House," but not when legislation is submitted for a “full floor” House vote<br>
@@ -274,7 +276,7 @@ blue with a five-pointed white star on a gray latte stone (a traditional foundat
 **National symbol(s)**<br>
 latte stone<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, white<br>
 
 **National anthem**<br>

@@ -328,8 +328,10 @@ _residency requirement for naturalization_: 12 years including at least 3 of the
 _chief of state_: President of the Swiss Confederation Karin KELLER-SUTTER (since 1 January 2025)<br>
 _head of government_: President of the Swiss Confederation Karin KELLER-SUTTER (since 1 January 2025)<br>
 _cabinet_: Federal Council or Bundesrat (in German), Conseil Federal (in French), Consiglio Federale (in Italian) indirectly elected by the Federal Assembly for a 4-year term<br>
-_elections/appointments_: president and vice president elected by the Federal Assembly from among members of the Federal Council for a 1-year, non-consecutive term; election last held on 13 December 2023 (next to be held in December 2024)<br>
-_election results_: <em><br>2023:  </em>Viola AMHERD elected president for 2024; Federal Assembly vote - Viola AMHERD (The Center) 158 of 204; Karin Keller-Sutter (FDP.The Liberals) elected vice president for 2024; Federal Assembly vote - 138 of 196<br><br><em>2022:  </em>Alain BERSET elected president for 2023; Federal Assembly vote - Alain BERSET (SP) 140 OF 181; Viola AMHERD elected vice president; Federal assembly vote - 207 of 223<br>
+_elections/appointments_: president and vice president elected by the Federal Assembly from among members of the Federal Council for a 1-year, non-consecutive term<br>
+_most recent election date_: 11 December 2024<br>
+_election results_: <em>2024: </em>Karin KELLER-SUTTER elected president for 2025; Federal Assembly vote - Karin KELLER-SUTTER (FDP.The Liberals) 168 of 203; Guy PARLEMIN (SVP) elected vice president for 2025; Federal Assembly vote - 196 of 219<em><br><br>2023:  </em>Viola AMHERD elected president for 2024; Federal Assembly vote - Viola AMHERD (The Center) 158 of 204; Karin KELLER-SUTTER (FDP.The Liberals) elected vice president for 2024; Federal Assembly vote - 138 of 196<br><br><em>2022:  </em>Alain BERSET elected president for 2023; Federal Assembly vote - Alain BERSET (SP) 140 OF 181; Viola AMHERD elected vice president; Federal assembly vote - 207 of 223<br>
+_expected date of next election_: December 2025<br>
 <strong>note:</strong> the Federal Council, composed of 7 federal councilors, constitutes the federal government of Switzerland; council members rotate the 1-year term of federal president<br>
 
 **Legislative branch**<br>
@@ -400,7 +402,7 @@ red square with an equilateral white cross in the center that does not extend to
 **National symbol(s)**<br>
 Swiss cross (white cross on red field)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white<br>
 
 **National anthem**<br>
@@ -410,7 +412,7 @@ _lyrics/music_: Leonhard WIDMER [German], Charles CHATELANAT [French], Camillo V
 
 **National heritage**<br>
 _total World Heritage Sites_: 13 (9 cultural, 4 natural)<br>
-_selected World Heritage Site locales_: Old City of Berne (c); Swiss Alps Jungfrau-Aletsch (n); Monte San Giorgio (n); Abbey of St Gall (c); Three Castles, Defensive Wall, and Ramparts of the Market-Town of Bellinzona (c); Rhaetian Railway in the Albula/Bernina Landscapes (c); La Chaux-de-Fonds/Le Locle, Watchmaking Town Planning (c); Prehistoric Pile Dwellings around the Alps (c); Benedictine Convent of St John at M&uuml;stair (c); Lavaux, Vineyard Terraces (c)<br>
+_selected World Heritage Site locales_: Old City of Berne (c); Swiss Alps Jungfrau-Aletsch (n); Monte San Giorgio (n); Abbey of St Gall (c); Three Castles, Defensive Wall, and Ramparts of the Market-Town of Bellinzona (c); Rhaetian Railway in the Albula/Bernina Landscapes (c); La Chaux-de-Fonds/Le Locle, Watchmaking Town Planning (c); Prehistoric Pile Dwellings around the Alps (c); Benedictine Convent of St John at Müstair (c); Lavaux, Vineyard Terraces (c)<br>
 
 ## Economy
 

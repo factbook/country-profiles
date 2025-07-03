@@ -242,8 +242,10 @@ see United Kingdom<br>
 _chief of state_: Lord of Mann King CHARLES III (since 8 September 2022); represented by Lieutenant Governor Sir John LORIMER (since 29 September 2021)<br>
 _head of government_: Chief Minister Alfred CANNAN (since 12 October 2021)<br>
 _cabinet_: Council of Ministers appointed by the lieutenant governor<br>
-_elections/appointments_: the monarchy is hereditary; lieutenant governor appointed by the monarch; chief minister indirectly elected by the Tynwald for a 5-year term (eligible for second term); election last held on 23 September 2021 (next to be held in 2026)<br>
+_elections/appointments_: the monarchy is hereditary; lieutenant governor appointed by the monarch; chief minister indirectly elected by the Tynwald for a 5-year term (eligible for second term)<br>
+_most recent election date_: 23 September 2021<br>
 _election results_: <em><br>2021:</em> Alfred CANNAN (independent) elected chief minister; Tynwald House of Keys vote - 21 of 24<br><br><em>2016:</em> Howard QUAYLE elected chief minister; Tynwald House of Keys vote - 21 of 33<br>
+_expected date of next election_: 2026<br>
 
 **Legislative branch**<br>
 _legislature name_: Tynwald (High Court of Tynwald)<br>
@@ -301,8 +303,11 @@ red with the Three Legs of Man emblem (triskelion) in the center; the three legs
 **National symbol(s)**<br>
 triskelion (a motif of three legs)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white<br>
+
+**National coat of arms**<br>
+<p>Queen Elizabeth II of the United Kingdom granted the Isle of Man’s coat of arms on July 12, 1996; the triskelion (three conjoined legs) on the shield represents resilience, resourcefulness, and hope; the Latin motto means “Wherever you throw it, it will stand,” a reference to the islanders’ ability to stand strong; the peregrine falcon represents the two falcons that the Isle of Man has paid to the UK monarch on Coronation Day since 1406, and the raven symbolizes the island’s former status as a Viking colony; the crown represents the UK monarch’s status as the Lord of Mann, although the island is self-governing</p><br>
 
 **National anthem**<br>
 _name_: "Arrane Ashoonagh dy Vannin" (O Land of Our Birth)<br>

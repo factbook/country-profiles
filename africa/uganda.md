@@ -320,8 +320,10 @@ _residency requirement for naturalization_: an aggregate of 20 years and continu
 _chief of state_: President Yoweri Kaguta MUSEVENI (since 26 January 1986)<br>
 _head of government_: Prime Minister Robinah NABBANJA (since 14 June 2021)<br>
 _cabinet_: Cabinet appointed by the president from among elected members of Parliament or persons who qualify to be elected as members of Parliament<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 14 January 2021 (next to be held in 2026)<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (no term limits)<br>
+_most recent election date_: 14 January 2021<br>
 _election results_: <em><br>2021: </em>Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 58.6%, Robert Kyagulanyi SSENTAMU (aka Bobi WINE) (NUP) 34.8%, Patrick Oboi AMURIAT (FDC) 3.2%, other 3.4%<br><em><br><em>2016: </em></em>Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 60.6%, Kizza BESIGYE (FDC) 35.6%, other 3.8%<br>
+_expected date of next election_: 2026<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -373,7 +375,7 @@ six equal horizontal bands of black (top), yellow, red, black, yellow, and red; 
 **National symbol(s)**<br>
 grey crowned crane<br>
 
-**National colors**<br>
+**National color(s)**<br>
 black, yellow, red<br>
 
 **National anthem**<br>

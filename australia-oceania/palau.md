@@ -281,11 +281,13 @@ _residency requirement for naturalization_: note - no procedure for naturalizati
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Surangel WHIPPS Jr. (since 21 January 2021)<br>
-_head of government_: President Surangel WHIPPS Jr. (since 21 January 2021)<br>
-_cabinet_: Cabinet appointed by the president with the advice and consent of the Senate; also includes the vice president; the Council of Chiefs consists of chiefs from each of the states who advise the president on issues concerning traditional laws, customs, and their relationship to the constitution and laws of Palau<br>
-_elections/appointments_: president and vice president directly elected on separate ballots by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 5 November 2024 (next to be held November 2028)<br>
+_chief of state_: President Surangel WHIPPS, Jr. (since 21 January 2021)<br>
+_head of government_: President Surangel WHIPPS, Jr. (since 21 January 2021)<br>
+_cabinet_: Cabinet appointed by the president with the advice and consent of the Senate; also includes the vice president; the Council of Chiefs consists of chiefs from each of the states who advise the president on issues concerning traditional laws, customs, and their relationship to the constitution and laws<br>
+_elections/appointments_: president and vice president directly elected on separate ballots by absolute-majority popular vote in 2 rounds, if needed, for a 4-year term (eligible for a second term)<br>
+_most recent election date_: 5 November 2024<br>
 _election results_: <em><br>2024: </em>Surangel WHIPPS, Jr. elected president in second round; percent of vote - Surangel WHIPPS, Jr. (independent) 57.7%, Tommy REMENGESAU (independent) 42.1%, other 0.2% <br><br><em>2020: </em>Surangel WHIPPS, Jr. elected president in second round; percent of vote - Surangel WHIPPS, Jr. (independent) 56.7%, Raynold OILUCH (independent) 43.3%<br>
+_expected date of next election_: November 2028<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -351,7 +353,7 @@ light blue with a large yellow disk shifted slightly to the hoist side; blue sta
 **National symbol(s)**<br>
 bai (native meeting house)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, yellow<br>
 
 **National anthem**<br>

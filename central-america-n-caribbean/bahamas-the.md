@@ -61,7 +61,7 @@ _other_: 47.8% (2022 est.)<br>
 10 sq km (2012)<br>
 
 **Population distribution**<br>
-most of the population lives in urban areas, with two-thirds living on New Providence Island where Nassau is located<br>
+most of the population lives in urban areas, with two thirds living on New Providence Island where Nassau is located<br>
 
 **Natural hazards**<br>
 hurricanes and other tropical storms cause extensive flood and wind damage<br>
@@ -119,7 +119,7 @@ _female_: 30.7 years<br>
 3.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most of the population lives in urban areas, with two-thirds living on New Providence Island where Nassau is located<br>
+most of the population lives in urban areas, with two thirds living on New Providence Island where Nassau is located<br>
 
 **Urbanization**<br>
 _urban population_: 83.6% of total population (2023)<br>
@@ -280,7 +280,7 @@ _residency requirement for naturalization_: 6-9 years<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor-General Cynthia A. PRATT (since 1 September 2023)<br>
 _head of government_: Prime Minister Philip Edward DAVIS (since 17 September 2021)<br>
 _cabinet_: Cabinet appointed by governor-general on recommendation of prime minister<br>
-_elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following parliamentary elections, the leader of the majority party or majority coalition is appointed prime minister by the governor-general; the prime minister recommends the deputy prime minister<br>
+_elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following legislative elections, the governor-general appoints the leader of the majority party or majority coalition as prime minister; the prime minister recommends the deputy prime minister<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -347,7 +347,7 @@ three equal horizontal bands of aquamarine (top), gold, and aquamarine, with a b
 **National symbol(s)**<br>
 blue marlin, flamingo, yellow elderflower<br>
 
-**National colors**<br>
+**National color(s)**<br>
 aquamarine, yellow, black<br>
 
 **National coat of arms**<br>

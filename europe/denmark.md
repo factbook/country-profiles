@@ -315,10 +315,10 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King FREDERIK X (since 14 January 2024)&nbsp;<br>
+_chief of state_: King FREDERIK X (since 14 January 2024)<br>
 _head of government_: Prime Minister Mette FREDERIKSEN (since 27 June 2019)<br>
 _cabinet_: Council of State appointed by the monarch<br>
-_elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch<br>
+_elections/appointments_: the monarchy is hereditary; following legislative elections, the monarch usually appoints the leader of the majority party or majority coalition as prime minister&nbsp;<br>
 <strong>note: </strong>Queen MARGRETHE II abdicated on 14 January 2024, the first Danish monarch to voluntarily abdicate since King ERIC III in 1146<br>
 
 **Legislative branch**<br>
@@ -374,11 +374,11 @@ red with a white cross that extends to the edges of the flag; the vertical part 
 **National symbol(s)**<br>
 lion, mute swan<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white<br>
 
 **National coat of arms**<br>
-Denmark’s King Frederick VI adopted the national coat of arms in 1819. The crown of King Christian V, who ruled Denmark and Norway from 1670 to 1699,<em> </em>sits atop the shield, symbolizing royal and national authority. The three lions represent a strong and powerful country, with red lily pads in the shape of hearts that stand for strength, valor, and joy.<br>
+Denmark’s King Frederick VI adopted the national coat of arms in 1819; the crown of King Christian V, who ruled Denmark and Norway from 1670 to 1699,<em> </em>sits atop the shield, symbolizing royal and national authority; the three lions represent a strong and powerful country, with red lily pads in the shape of hearts that stand for strength, valor, and joy<br>
 
 **National anthem**<br>
 _name_: "Der er et yndigt land" (There is a Lovely Country); "Kong Christian" (King Christian)<br>
@@ -387,7 +387,7 @@ _lyrics/music_: Adam Gottlob OEHLENSCHLAGER/Hans Ernst KROYER; Johannes EWALD/un
 
 **National heritage**<br>
 _total World Heritage Sites_: 11 (8 cultural, 3 natural); note - includes three sites in Greenland<br>
-_selected World Heritage Site locales_: Denmark: Mounds, Runic Stones, and Church at Jelling (c); Roskilde Cathedral (c); Kronborg Castle (c); Wadden Sea (n); Stevns Klint (n); Christiansfeld, Moravian Church Settlement (c); Par force hunting landscape, North Zealand (c); Greenland: Ilulissat Icefjord (n); Kujataa, Norse and Inuit Farming (c); Aasivissuit&ndash;Nipisat, Inuit Hunting Ground (c); Viking-Age Ring Fortresses (c)<br>
+_selected World Heritage Site locales_: Denmark: Mounds, Runic Stones, and Church at Jelling (c); Roskilde Cathedral (c); Kronborg Castle (c); Wadden Sea (n); Stevns Klint (n); Christiansfeld, Moravian Church Settlement (c); Par force hunting landscape, North Zealand (c); Greenland: Ilulissat Icefjord (n); Kujataa, Norse and Inuit Farming (c); Aasivissuit–Nipisat, Inuit Hunting Ground (c); Viking-Age Ring Fortresses (c)<br>
 
 ## Economy
 
@@ -662,8 +662,8 @@ approximately 17,000 active-duty Armed Forces (10,000 Army; 3,500 Navy; 3,500 Ai
 the Danish military inventory is comprised of modern European, US, and domestically produced weapons and equipment; the Danish defense industry is active in the production of naval vessels, defense electronics, and subcomponents of larger weapons systems, such as the US F-35 fighter aircraft; the major warships of the Royal Danish Navy were all produced domestically (2024)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish military offers reserve contracts in all three branches (2023)<br>
-<strong>note 1:</strong> women have been able serve in all military occupations, including combat arms, since 1988; as of 2022, they made up about 9% of the military's full-time personnel; in 2024, Denmark announced that it would extend military conscription to women in 2026<br><br><strong>note 2:</strong> Denmark has had compulsory military service since 1849; conscripts are chosen by lottery; conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work<br><br><strong>note 3: </strong>foreigners who have lived in Denmark for at least one year or in another EU country for six years may apply to join the armed forces, provided they are fluent in Danish <br>
+18 years of age for compulsory and voluntary military service for men and women; conscripts serve 11 months, including five months of basic training, followed by six months in an operational unit (2025)<br>
+<strong>note 1:</strong> women have been able serve in all military occupations, including combat arms, since 1988; as of 2022, they made up about 9% of the military's full-time personnel; military conscription was extended to women in June 2025<br><br><strong>note 2:</strong> Denmark has had compulsory military service since 1849; conscripts are chosen by lottery (about 4,700 were selected in 2024); conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work<br><br><strong>note 3: </strong>foreigners who have lived in Denmark for at least one year or in another EU country for six years may apply to join the armed forces, provided they are fluent in Danish<br>
 
 **Military deployments**<br>
 approximately 800 Latvia (NATO); Denmark contributes small numbers of air, ground, and naval forces to a variety of other NATO and international missions (2024)<br>

@@ -320,8 +320,10 @@ _residency requirement for naturalization_: na<br>
 _chief of state_: President Mohammed Irfaan ALI (since 2 August 2020)<br>
 _head of government_: President Mohammed Irfaan ALI (since 2 August 2020)<br>
 _cabinet_: Cabinet of Ministers appointed by the president, responsible to the National Assembly<br>
-_elections/appointments_: the predesignated candidate of the winning party in the last National Assembly election becomes president for a 5-year term (no term limits); election last held on 2 March 2020 (next to be held in 2025); prime minister appointed by the president<br>
+_elections/appointments_: the predesignated candidate of the winning party in the last National Assembly election becomes president for a 5-year term (no term limits); prime minister appointed by the president<br>
+_most recent election date_: 2 March 2020<br>
 _election results_: <br><em>2020:</em> Mohammed Irfaan ALI (PPP/C) designated president by the majority party in the National Assembly<br><br><em>2015:</em> David GRANGER (APNU-AFC) designated president by the majority party in the National Assembly<br>
+_expected date of next election_: 2025<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -376,11 +378,11 @@ green with a red isosceles triangle (based on the hoist side) on top of a long, 
 **National symbol(s)**<br>
 Canje pheasant (hoatzin), jaguar, Victoria Regia water lily<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, yellow, green, black, white<br>
 
 **National coat of arms**<br>
-<p>Guyana’s coat of arms was adopted in 1966, the year of the country’s independence from the United Kingdom. The jaguars signify strength and resilience, with one holding a pickaxe that stands for labor and the other holding stalks of rice and sugarcane for agriculture. Two national symbols, the Canje pheasant and the Victorian lily, are on the shield, with the national motto underneath. Three wavy blue lines stand for the Essequibo, Demerara, and Berbice rivers, the headdress for the country’s ethnic groups, and the diamonds for the mining industry. The helmet is a symbol of past UK rule in Guyana.</p><br>
+<p>Guyana’s coat of arms was adopted in 1966, the year of the country’s independence from the United Kingdom; the jaguars signify strength and resilience, with one holding a pickaxe that stands for labor and the other holding stalks of rice and sugarcane for agriculture; two national symbols, the Canje pheasant and the Victorian lily, are on the shield, with the national motto underneath; three wavy blue lines stand for the Essequibo, Demerara, and Berbice rivers, the headdress for the country’s ethnic groups, and the diamonds for the mining industry; the helmet is a symbol of past UK rule in Guyana</p><br>
 
 **National anthem**<br>
 _name_: "Dear Land of Guyana, of Rivers and Plains"<br>

@@ -326,9 +326,11 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: Transitional President Capt. Ibrahim TRAORE (since 30 September 2022)<br>
 _head of government_: Prime Minister Joachim KYLEM DE TAMBELA (since 21 October 2022)<br>
 _cabinet_: prior to the 2022 coups and ad hoc suspension of laws and constitutional provisions, Council of Ministers appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: prior to the 2022 coups and ad hoc suspension of laws and constitutional provisions, president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 22 November 2020 (next were to be held by July 2024, but were delayed); prime minister appointed by the president with consent of the National Assembly<br>
+_elections/appointments_: prior to the 2022 coups and ad hoc suspension of laws and constitutional provisions, president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister appointed by the president with consent of the National Assembly<br>
+_most recent election date_: 22 November 2020<br>
 _election results_: <em><br>2020:</em> Roch Marc Christian KABORE reelected president in first round; percent of vote - Roch Marc Christian KABORE (MPP) 57.9%, Eddie KOMBOIGO (CDP) 15.5%, Zephirin DIABRE (UPC) 12.5%, other 14.1%<br><br><em>2015:</em> Roch Marc Christian KABORE elected president in first round; percent of vote - Roch Marc Christian KABORE (MPP) 53.5%, Zephirin DIABRE (UPC) 29.6%, Tahirou BARRY (PAREN) 3.1%, Benewende Stanislas SANKARA (UNIR-MS) 2.8%, other 10.9%<br>
-<strong>note:</strong> on 30 September 2022, a military junta led by TRAORE took power and ousted Transition President Lt. Col. Paul-Henri Sandaogo DAMIBA <br>
+_expected date of next election_: were to be held by July 2024, but were delayed<br>
+<strong>note:</strong> on 30 September 2022, a military junta led by TRAORE took power and ousted Transition President Lt. Col. Paul-Henri Sandaogo DAMIBA<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Parlement)<br>
@@ -380,7 +382,7 @@ two equal horizontal bands of red (top) and green with a yellow five-pointed sta
 **National symbol(s)**<br>
 white stallion<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, yellow, green<br>
 
 **National anthem**<br>

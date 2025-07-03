@@ -338,8 +338,10 @@ _residency requirement for naturalization_: 5 continuous years<br>
 _chief of state_: President PRABOWO Subianto Djojohadikusumo (since 20 October 2024)<br>
 _head of government_: President PRABOWO Subianto Djojohadikusumo (since 20 October 2024)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president and vice president directly elected by absolute majority popular vote for a 5-year term (eligible for a second term); election last held on 14 February 2024 (next to be held in 2029)<br>
+_elections/appointments_: president and vice president directly elected by absolute-majority popular vote for a 5-year term (eligible for a second term)<br>
+_most recent election date_: 14 February 2024<br>
 _election results_: <em><br>2024: </em>PRABOWO Subianto elected president (assumes office 20 October 2024); percent of vote - PRABOWO Subianto (GERINDRA) 58.6%, Anies Rasyid BASWEDAN (Independent) 24.9%, GANJAR Pranowo (PDI-P) 16.5%<em><br><br>2019:</em> Joko WIDODO reelected president; percent of vote - Joko WIDODO (PDI-P) 55.5%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 44.5%<br>
+_expected date of next election_: 2029<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -396,7 +398,7 @@ two equal horizontal bands of red (top) and white; the colors derive from the ba
 **National symbol(s)**<br>
 garuda (mythical bird)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white<br>
 
 **National anthem**<br>

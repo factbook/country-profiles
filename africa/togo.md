@@ -391,7 +391,7 @@ five equal horizontal bands of green (top and bottom) alternating with yellow; a
 **National symbol(s)**<br>
 lion<br>
 
-**National colors**<br>
+**National color(s)**<br>
 green, yellow, red, white<br>
 
 **National anthem**<br>

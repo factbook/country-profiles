@@ -261,8 +261,8 @@ _residency requirement for naturalization_: 10 years<br>
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Andrew MURDOCH (since 23 January 2025)<br>
 _head of government_: Premier David BURT (since 19 July 2017)<br>
-_cabinet_: Cabinet nominated by the premier, appointed by the governor<br>
-_elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor<br>
+_cabinet_: Cabinet nominated by the premier, approved by the governor<br>
+_elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the governor usually appoints the leader of the majority party or majority coalition as the premier<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -333,7 +333,7 @@ _lyrics/music_: Bette JOHNS<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural); note - excerpted from the UK entry<br>
-_selected World Heritage Site locales_: Historic Town of St George and Related Fortifications<br>
+_selected World Heritage Site locales_: Historic Town of St. George and Related Fortifications<br>
 
 ## Economy
 

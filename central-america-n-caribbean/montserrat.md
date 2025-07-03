@@ -61,7 +61,7 @@ _other_: 45% (2022 est.)<br>
 0 sq km (2022)<br>
 
 **Population distribution**<br>
-only the northern half of the island is populated, the southern portion is uninhabitable due to volcanic activity<br>
+only the northern half of the island is populated; the southern portion is uninhabitable due to volcanic activity<br>
 
 **Natural hazards**<br>
 <p>volcanic eruptions; severe hurricanes (June to November)</p><p><strong>volcanism:</strong> Soufriere Hills volcano (915 m), has erupted continuously since 1995; a massive eruption in 1997 destroyed most of the capital, Plymouth, and resulted in approximately half of the island becoming uninhabitable; the island of Montserrat is part of the volcanic island arc of the Lesser Antilles that extends from Saba in the north to Grenada in the south</p><br>
@@ -118,7 +118,7 @@ _female_: 37.8 years<br>
 0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-only the northern half of the island is populated, the southern portion is uninhabitable due to volcanic activity<br>
+only the northern half of the island is populated; the southern portion is uninhabitable due to volcanic activity<br>
 
 **Urbanization**<br>
 _urban population_: 9.3% of total population (2023)<br>

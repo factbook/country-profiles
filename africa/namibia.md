@@ -321,8 +321,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Netumbo Nandi-NDAITWAH (since 21 March 2025)<br>
 _head of government_: President Netumbo Nandi-NDAITWAH (since 21 March 2025)<br>
 _cabinet_: Cabinet appointed by the president from among members of the National Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 27 November 2024 (next to be held in November 2029)<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br>
+_most recent election date_: 27 November 2024<br>
 _election results_: <em><br>2024:</em> Netumbo Nandi-NDAITWAH elected president in the first round; percent of vote -Netumbo Nandi-NDAITWAH (SWAPO) 57%, Panduleni  ITULA (IPC) 26%, McHenry VENAANI (PDM) 5.10%, Bernadus SWARTBOOI (LPM) 4.72%, Job AMUPANDA (AR) 1.80%, Hendrik GAOBEAB (UDF) 1.16%; other 3.31%<br><br><em>2019:</em> Hage GEINGOB reelected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 56.3%, Panduleni ITULA (independent) 29.4%, McHenry VENAANI (PDM) 5.3%, other .9%<br>
+_expected date of next election_: November 2029<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -388,7 +390,7 @@ a wide red stripe edged with narrow white stripes divides the flag diagonally fr
 **National symbol(s)**<br>
 oryx (antelope)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, red, green, white, yellow<br>
 
 **National anthem**<br>

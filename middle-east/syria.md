@@ -309,8 +309,10 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: vacant; former President Bashar al-ASAD was overthrown by Islamist rebels on 8 December 2024; ASAD and his family flew to Moscow where they were granted political asylum<br>
 _head of government_: Prime Minister Muhammad al-BASHIR (since 8 December 2024)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 26 May 2021 (next to be held in 2028); the president appoints the vice president and prime minister<br>
+_elections/appointments_: president directly elected by simple-majority popular vote for a 7-year term (eligible for a second term); the president appoints the vice president and prime minister<br>
+_most recent election date_: 26 May 2021<br>
 _election results_: <em><br>2021: </em>Bashar al-ASAD elected president; percent of vote - Bashar al-ASAD (Ba'th Party) 95.2%, Mahmoud Ahmad MAREI (Democratic Arab Socialist Union) 3.3%, other 1.5%<br><br><em>2014: </em>Bashar al-ASAD elected president; percent of vote - Bashar al-ASAD (Ba'th Party) 88.7%, Hassan al-NOURI (independent) 4.3%, Maher HAJJER (independent) 3.2%, other/invalid 3.8%<br>
+_expected date of next election_: 2028<br>
 
 **Legislative branch**<br>
 _legislature name_: People's Assembly (Majlis Al-Chaab)<br>
@@ -355,7 +357,7 @@ three equal horizontal bands of red (top), white, and black; two green five-poin
 **National symbol(s)**<br>
 northern bald ibis<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, black, green<br>
 
 **National anthem**<br>
@@ -365,7 +367,7 @@ _lyrics/music_: Khalil Mardam BEY/Mohammad Salim FLAYFEL and Ahmad Salim FLAYFEL
 
 **National heritage**<br>
 _total World Heritage Sites_: 6 (all cultural)<br>
-_selected World Heritage Site locales_: Ancient City of Damascus; Ancient City of Bosra; Site of Palmyra; Ancient City of Aleppo; Crac des Chevaliers and Qal&rsquo;at Salah El-Din; Ancient Villages of Northern Syria<br>
+_selected World Heritage Site locales_: Ancient City of Damascus; Ancient City of Bosra; Site of Palmyra; Ancient City of Aleppo; Crac des Chevaliers and Qal’at Salah El-Din; Ancient Villages of Northern Syria<br>
 
 ## Economy
 

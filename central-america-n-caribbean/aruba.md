@@ -256,8 +256,10 @@ see the Netherlands<br>
 _chief of state_: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor General Alfonso BOEKHOUDT (since 1 January 2017)<br>
 _head of government_: Prime Minister Mike EMAN (since 28 March 2025)<br>
 _cabinet_: Council of Ministers elected by the Legislature (Staten)<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch for a 6-year term; prime minister and deputy prime minister indirectly elected by the Staten for 4-year term; election last held on 25 June 2021 (next to be held by June 2025)<br>
+_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch for a 6-year term; prime minister and deputy prime minister indirectly elected by the Staten for 4-year term<br>
+_most recent election date_: 25 June 2021<br>
 _election results_: as leader of the majority party of the ruling coalition, Evelyn WEVER-CROES (MEP) elected prime minister; percent of Staten vote - NA<br>
+_expected date of next election_: by June 2025<br>
 
 **Legislative branch**<br>
 _legislature name_: Legislature (Staten)<br>
@@ -300,7 +302,7 @@ blue, with two narrow, horizontal yellow stripes across the lower portion and a 
 **National symbol(s)**<br>
 Hooiberg (Haystack) Hill<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, yellow, red, white<br>
 
 **National anthem**<br>
@@ -340,11 +342,6 @@ $3.649 billion (2023 est.)<br>
 3.6% (2018 est.)<br>
 -1% (2017 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
-
-**Credit ratings**<br>
-_Fitch rating_: BB (2020)<br>
-_Standard & Poors rating_: BBB+ (2013)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0% (2019 est.)<br>

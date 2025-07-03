@@ -62,7 +62,7 @@ _other_: 39% (2022 est.)<br>
 0 sq km (2022)<br>
 
 **Population distribution**<br>
-over two-thirds of the population lives on the island of Tongatapu; only 45 of the nation's 171 islands are occupied<br>
+over two thirds of the population lives on the island of Tongatapu; only 45 of the nation's 171 islands are occupied<br>
 
 **Natural hazards**<br>
 <p>cyclones (October to April); earthquakes and volcanic activity on Fonuafo'ou</p><p><strong>volcanism:</strong> moderate volcanic activity; Fonualei (180 m) has shown frequent activity in recent years, while Niuafo'ou (260 m), which last erupted in 1985, has forced evacuations; other historically active volcanoes include Late and Tofua</p><br>
@@ -120,7 +120,7 @@ _female_: 26.4 years<br>
 -18.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-over two-thirds of the population lives on the island of Tongatapu; only 45 of the nation's 171 islands are occupied<br>
+over two thirds of the population lives on the island of Tongatapu; only 45 of the nation's 171 islands are occupied<br>
 
 **Urbanization**<br>
 _urban population_: 23.2% of total population (2023)<br>
@@ -306,7 +306,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: King TUPOU VI (since 18 March 2012)<br>
 _head of government_: Prime Minister Aisake Valu EKE (since 22 January 2025)<br>
 _cabinet_: Cabinet nominated by the prime minister and appointed by the monarch<br>
-_elections/appointments_: the monarchy is hereditary; prime minister and deputy prime minister indirectly elected by the Legislative Assembly and appointed by the monarch; election last held on 18 November 2021 (next to be held on 24 December 2024)<br>
+_elections/appointments_: the monarchy is hereditary; prime minister and deputy prime minister indirectly elected by the Legislative Assembly and appointed by the monarch<br>
+_most recent election date_: 24 December 2024<br>
 _election results_: <em><br>2024: </em>Aisake Valu EKE elected prime minsiter by the Legislative Assembly; Aisake Valu EKE (Independent) 16 votes, Viliami LATU (Independent) 8<br><em><br>2021:</em> Siaosi SOVALENI elected prime minister by the Legislative Assembly; Siaosi SOVALENI 16 votes, Aisake EKE 10<br>
 <strong>note:</strong> a Privy Council advises the monarch<br>
 
@@ -357,7 +358,7 @@ red with a red cross on a white rectangle in the upper hoist-side corner; the cr
 **National symbol(s)**<br>
 red cross on white field<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white<br>
 
 **National anthem**<br>

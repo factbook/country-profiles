@@ -312,8 +312,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Carlos Manuel VILA NOVA (since 2 October 2021)<br>
 _head of government_: Prime Minister Am&eacute;rico d'Oliveira DOS RAMOS (since 12 January 2025)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 18 July 2021 with a runoff on 5 September 2021 (next to be held in 2026); prime minister chosen by the National Assembly and approved by the president<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister chosen by the National Assembly and approved by the president<br>
+_most recent election date_: 18 July 2021, with a runoff on 5 September 2021<br>
 _election results_: <br><em>2021: </em>Carlos Manuel VILA NOVA elected president in the second round; percent of vote in the first round - Carlos Manuel VILA NOVA (IDA) 39.5%; Guilherme POSSER DA COSTA (MLSTP-PSD) 20.8%; Delfim NEVES (PCD-GR) 16.9%; Abel BOM JESUS (independent) 3.6%; Maria DAS NEVES (independent) 3.3%; other 15.9%; percent of the vote in second round - Carlos Manuel VILA NOVA 57.5%, Guilherme POSSER DA COSTA 42.5%<em><br><br><em>2016: </em></em>Evaristo CARVALHO elected president; percent of vote - Evaristo CARVALHO (ADI) 49.8%, Manuel Pinto DA COSTA (independent) 24.8%, Maria DAS NEVES (MLSTP-PSD) 24.1%<br>
+_expected date of next election_: 2026<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Assembleia Nacional)<br>
@@ -362,7 +364,7 @@ three horizontal bands of green (top), yellow (double-width), and green with two
 **National symbol(s)**<br>
 palm tree<br>
 
-**National colors**<br>
+**National color(s)**<br>
 green, yellow, red, black<br>
 
 **National anthem**<br>

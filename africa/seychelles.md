@@ -300,8 +300,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Wavel RAMKALAWAN (since 26 October 2020)<br>
 _head of government_: President Wavel RAMKALAWAN (since 26 October 2020)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 22 to 24 October 2020 (next to be held in 2025)<br>
+_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br>
+_most recent election date_: 22-24 October 2020<br>
 _election results_: <br><em>2020</em>: Wavel RAMKALAWAN elected president; Wavel RAMKALAWAN (LDS) 54.9%, Danny FAURE (US) 43.5%, other 1.6%<br><br><em>2015</em>:  President James Alix MICHEL reelected president in second round; percent of vote in first round - James Alix MICHEL (PL) 47.8%, Wavel RAMKALAWAN (SNP) 35.3%, other 16.9%; percent of vote in second round - James Alix MICHEL 50.2%, Wavel RAMKALAWAN 49.8%<br>
+_expected date of next election_: 2025<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -351,7 +353,7 @@ five oblique bands of blue (hoist side), yellow, red, white, and green (bottom),
 **National symbol(s)**<br>
 coco de mer (sea coconut)<br>
 
-**National colors**<br>
+**National color(s)**<br>
 blue, yellow, red, white, green<br>
 
 **National anthem**<br>
@@ -361,7 +363,7 @@ _lyrics/music_: David Francois Marc ANDRE and George Charles Robert PAYET<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both natural)<br>
-_selected World Heritage Site locales_: Aldabra Atoll; Vall&eacute;e de Mai Nature Reserve<br>
+_selected World Heritage Site locales_: Aldabra Atoll; Vallée de Mai Nature Reserve<br>
 
 ## Economy
 

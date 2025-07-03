@@ -332,8 +332,10 @@ _residency requirement for naturalization_: 5 year<br>
 _chief of state_: President Matamela Cyril RAMAPHOSA (since 19 June 2024)<br>
 _head of government_: President Matamela Cyril RAMAPHOSA (since 19 June 2024)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 29 May 2024 (next to be held in May 2029)<br>
+_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term)<br>
+_most recent election date_: 29 May 2024<br>
 _election results_: <br><em>2024: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<em><br><br>2019: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<br>
+_expected date of next election_: May 2029<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -401,7 +403,7 @@ two equal-width horizontal bands of red (top) and blue separated by a central gr
 **National symbol(s)**<br>
 springbok (antelope), king protea flower<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, green, blue, yellow, black, white<br>
 
 **National anthem**<br>
@@ -704,7 +706,7 @@ the SANDF's inventory consists of a mix of domestically produced and foreign-sup
 <strong>note:</strong> in 2023, women comprised nearly 30% of the military<br>
 
 **Military deployments**<br>
-estimated 3,000 Democratic Republic of the Congo (MONUSCO and Southern African Development Community regional military force) (2025)<br>
+approximately 1,100 Democratic Republic of the Congo (MONUSCO) (2025)<br>
 
 **Military - note**<br>
 the SANDF’s primary responsibilities include territorial and maritime defense, supporting the Police Service, protecting key infrastructure, and participating in international peacekeeping missions; the SANDF historically has been one of Africa’s most capable militaries, but in recent years its operational readiness and modernization programs have been widely viewed as hampered by funding shortfalls<br><br>the SANDF participates regularly in African and UN peacekeeping missions and is a member of the Southern Africa Development Community (SADC) Standby Force; in 2021, it sent about 1,500 troops to Mozambique as part of a multinational SADC force to help combat an insurgency, and South African forces have been a key component of the UN’s Force Intervention Brigade in the Democratic Republic of the Congo; in recent years, the SANDF has been deployed internally to assist the Police Service with quelling unrest and assisting with border security<br><br>the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the guerrilla and militia forces of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands (2024)<br>

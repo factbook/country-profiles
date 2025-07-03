@@ -305,8 +305,10 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: President Taneti MAAMAU (since 11 March 2016)<br>
 _head of government_: President Taneti MAAMAU (since 11 March 2016)<br>
 _cabinet_: Cabinet appointed by the president from among House of Assembly members<br>
-_elections/appointments_: president directly elected by simple majority popular vote following nomination of candidates from among House of Assembly members for a 4-year term (eligible for 2 additional terms); election last held on 22 June 2020 (next to be held in 2024); vice president appointed by the president<br>
-_election results_: <em><br>2020:</em> Taneti MAAMAU reelected president; percent of vote - Taneti MAAMAU (TKB) 59.3%, Banuera BERINA (BKM) 40.7%<br>
+_elections/appointments_: president directly elected for a 4-year term (eligible for 2 additional terms) by simple-majority popular vote, after candidates are nominated from among House of Assembly members; vice president appointed by the president<br>
+_most recent election date_: 25 October 2024<br>
+_election results_: <em>2024: </em>Taneti MAAMAU reelected president; percent of vote - Taneti MAAMAU (TKP) 55%, Kaotitaake KOKORIA (independent) 42%, Bautaake BEIA (TKP) 3%<br><em><br>2020:</em> Taneti MAAMAU reelected president; percent of vote - Taneti MAAMAU (TKP) 59.3%, Banuera BERINA (BKM) 40.7%<br>
+_expected date of next election_: 2028<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -326,7 +328,7 @@ _judge selection and term of office_: chief justice appointed by the president o
 _subordinate courts_: Court of Appeal; magistrates' courts<br>
 
 **Political parties**<br>
-Boutokaan Kiribati Moa Party (Supporting Kiribati First) or BKM <br>Tobwaan Kiribati Party (Embracing Kiribati) or TKP <br>
+Boutokaan Kiribati Moa Party or BKM <br>Kiribati Moa Party or KMP<br>Kamanoan Kiribati Party or KKP<br>Tobwaan Kiribati Party or TKP<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Teburoro TITO (since 24 January 2018); note - also Permanent Representative to the UN<br>
@@ -354,7 +356,7 @@ the upper half is red with a yellow frigatebird flying over a yellow rising sun,
 **National symbol(s)**<br>
 frigatebird<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, blue, yellow<br>
 
 **National anthem**<br>

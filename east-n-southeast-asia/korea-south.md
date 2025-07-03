@@ -318,8 +318,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President LEE Jae-myung (since 4 June 2025)<br>
 _head of government_: Acting Prime Minister LEE Ju Ho (since 2 May 2025)<br>
 _cabinet_: State Council appointed by the president on the prime minister's recommendation<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a single 5-year term; election held on 3 June 2025 (next to be held in 2030) was a special snap election in the wake of the impeachment of former President YOON Suk-yeol; prime minister appointed by president with consent of the National Assembly<br>
+_elections/appointments_: president directly elected by simple-majority popular vote for a single 5-year term; prime minister appointed by president with consent of the National Assembly<br>
+_most recent election date_: 3 June 2025 (special snap election in the wake of the impeachment of former President YOON Suk-yeol)<br>
 _election results_: <em>2025: </em>LEE Jae-myung elected president; LEE Jae-myung (DPK) 49.4%, KIM Moon-soo (PPP) 41.2%, LEE Jun-seok (New Reform Party) 8.3%<br><em><br>2022</em>: YOON Suk-yeol elected president; YOON Suk-yeol (PPP) 48.6%, LEE Jae-myung (DPK) 47.8%; other 3.6%<br>
+_expected date of next election_: 2030<br>
 <strong>note 1: </strong>the president is both chief of state and head of government; the prime minister serves as the principal executive assistant to the president, similar to the role of a vice president<br><br><strong>note 2:</strong> President LEE Jae-myung has nominated KIM Min Seok to replace Acting Prime Minister LEE<br>
 
 **Legislative branch**<br>
@@ -374,7 +376,7 @@ white with a red-and-blue yin-yang symbol in the center;a black trigram (<em>kwa
 **National symbol(s)**<br>
 taegeuk (yin-yang symbol), Rose of Sharon (<em>Hibiscus syriacus</em>), Siberian tiger<br>
 
-**National colors**<br>
+**National color(s)**<br>
 red, white, blue, black<br>
 
 **National anthem**<br>
@@ -384,7 +386,7 @@ _lyrics/music_: YUN Ch'i-Ho or AN Ch'ang-Ho/AHN Eaktay<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 16 (14 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: Jeju Volcanic Island and Lava Tubes (n); Changdeokgung Palace Complex (c); Jongmyo Shrine (c); Seokguram Grotto and Bulguksa Temple (c); Gochang, Hwasun, and Ganghwa Dolmen Sites (c); Gyeongju Historic Areas (c); Namhansanseong (c); Baekje Historic Areas (c); Sansa, Buddhist Mountain Monasteries in Korea (c); Royal Tombs of the Joseon Dynasty (c)<br>
+_selected World Heritage Site locales_: Jeju Volcanic Island and Lava Tubes (n); Changdeokgung Palace Complex (c); Jongmyo Shrine (c); Seokguram Grotto and Bulguksa Temple (c); Hwaseong Fortress (c); Gochang, Hwasun, and Ganghwa Dolmen Sites (c); Gyeongju Historic Areas (c); Namhansanseong (c); Baekje Historic Areas (c); Sansa, Buddhist Mountain Monasteries in Korea (c); Royal Tombs of the Joseon Dynasty (c)<br>
 
 ## Economy
 
