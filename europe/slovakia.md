@@ -323,7 +323,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Peter PELLEGRINI (since 15 June 2024)<br>
 _head of government_: Prime Minister Robert FICO (since 25 October 2023)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); following National Council elections, the president designates a prime minister candidate, usually the leader of the party or coalition that wins the most votes, who must win a vote of confidence in the National Council<br>
+_election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); following National Council elections, the president designates a prime minister candidate, usually the leader of the party or coalition that wins the most votes, who must win a vote of confidence in the National Council<br>
 _most recent election date_: 23 March 2024, with a runoff on 6 April 2024<br>
 _election results_: <em><br>2024: </em>Peter PELLEGRINI elected president in the second round; percent of vote in second round Peter PELLEGRINI 53.1%; Ivan KORCOK 46.9%; percent of vote in first round - Ivan KORCOK (independent) 42.5%; Peter PELLEGRINI (Hlas-SD) 37%; Stefan HARABIN (independent) 11.7%, other 8.8%; <em><br><br>2019:</em> Zuzana CAPUTOVA elected president in second round; percent of vote - Zuzana CAPUTOVA (PS) 58.4%, Maros SEFCOVIC (independent) 41.6%<br>
 _expected date of next election_: 2029<br>

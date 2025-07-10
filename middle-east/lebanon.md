@@ -313,7 +313,7 @@ _residency requirement for naturalization_: unknown<br>
 _chief of state_: President Joseph AOUN (since 9 January 2025)<br>
 _head of government_: Prime Minister Nawaf SALAM (since 8 February 2025)<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president and the National Assembly<br>
-_elections/appointments_: president indirectly elected by a qualified majority of two-thirds of Parliament members in the first round and, if needed, a two-thirds quorum of members by simple-majority popular vote for a 6-year term (eligible for non-consecutive terms); prime minister appointed by the president in consultation with the National Assembly<br>
+_election/appointment process_: president indirectly elected by a qualified majority of two-thirds of Parliament members in the first round and, if needed, a two-thirds quorum of members by simple-majority popular vote for a 6-year term (eligible for non-consecutive terms); prime minister appointed by the president in consultation with the National Assembly<br>
 _most recent election date_: 9 January 2025<br>
 _election results_: <em><br>2025: </em>Joseph AOUN elected president in second round; National Assembly vote - 99 of 128<br><em><br>2016:</em> Michel AWN elected president in second round; National Assembly vote - Michel AWN (FPM) 83; the president elected in its 46th attempt on 31 October 2016<br>
 _expected date of next election_: 2031<br>

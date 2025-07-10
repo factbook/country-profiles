@@ -314,7 +314,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Konstantinos TASOULAS (since 13 March 2025)<br>
 _head of government_: Prime Minister Kyriakos MITSOTAKIS (since 26 June 2023)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: president elected by Hellenic Parliament for a 5-year term (eligible for a second term); president appoints as prime minister the leader of the majority party or coalition in the Hellenic Parliament<br>
+_election/appointment process_: president elected by Hellenic Parliament for a 5-year term (eligible for a second term); president appoints as prime minister the leader of the majority party or coalition in the Hellenic Parliament<br>
 _most recent election date_: 12 February 2025<br>
 _election results_: <em>2025: </em>Konstantinos TASOULAS (ND) elected president by Parliament - 160 of 300 votes<em><br><br>2020:</em> Katerina SAKELLAROPOULOU (independent) elected president by Parliament - 261 of 300 votes<em><br></em><br>
 _expected date of next election_: 2030<br>

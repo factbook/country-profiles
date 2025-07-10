@@ -329,7 +329,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Ukhnaagiin KHURELSUKH (since 25 June 2021)<br>
 _head of government_: Prime Minister Gombojavyn ZANDANSHATAR (since 13 June 2025)<br>
 _cabinet_: Cabinet directly appointed by the prime minister<br>
-_elections/appointments_: presidential candidates nominated by political parties represented in the State Great Hural and directly elected by simple-majority popular vote for one 6-year term; following legislative elections, the State Great Hural usually elects the leader of the majority party or majority coalition as prime minister<br>
+_election/appointment process_: presidential candidates nominated by political parties represented in the State Great Hural and directly elected by simple-majority popular vote for one 6-year term; following legislative elections, the State Great Hural usually elects the leader of the majority party or majority coalition as prime minister<br>
 _most recent election date_: 9 June 2021<br>
 _election results_: <em><br>2021:</em> Ukhnaagiin KHURELSUKH elected president in first round; percent of vote - Ukhnaagiin KHURELSUKH (MPP) 68%, Dangaasuren ENKHBAT (RPEC) 20.1%, Sodnomzundui ERDENE (DP) 6%<br><br><em>2017: </em> Khaltmaa BATTULGA elected president in second round; percent of vote in first round - Khaltmaa BATTULGA (DP) 38.1%, Miyegombo ENKHBOLD (MPP) 30.3%, Sainkhuu GANBAATAR (MPRP) 30.2%, invalid 1.4%; percent of vote in second round - Khaltmaa BATTULGA 55.2%, Miyegombo ENKHBOLD 44.8%<br>
 _expected date of next election_: 2027<br>

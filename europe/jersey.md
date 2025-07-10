@@ -241,7 +241,7 @@ see United Kingdom<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Lieutenant Governor Jerry KYD (since 8 October 2022)<br>
 _head of government_: Chief Minister Lyndon FARNHAM (since 25 January 2024); Bailiff Timothy Le COCQ (since 17 October 2019)<br>
 _cabinet_: Council of Ministers appointed individually by the states<br>
-_elections/appointments_: the monarchy is hereditary; Council of Ministers, including the chief minister, indirectly elected by the Assembly of States; lieutenant governor and bailiff appointed by the monarch<br>
+_election/appointment process_: the monarchy is hereditary; Council of Ministers, including the chief minister, indirectly elected by the Assembly of States; lieutenant governor and bailiff appointed by the monarch<br>
 
 **Legislative branch**<br>
 _legislature name_: Assembly of the States of Jersey<br>

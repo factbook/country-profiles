@@ -318,7 +318,7 @@ _residency requirement for naturalization_: 3 years<br>
 _chief of state_: President Vahagn KHACHATURYAN (since 13 March 2022)<br>
 _head of government_: Prime Minister Nikol PASHINYAN (since 10 September 2021)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
-_elections/appointments_: president indirectly elected by the National Assembly in 3 rounds, if needed, for a single 7-year term; prime minister indirectly elected by majority vote in two rounds, if needed, by the National Assembly<br>
+_election/appointment process_: president indirectly elected by the National Assembly in 3 rounds, if needed, for a single 7-year term; prime minister indirectly elected by majority vote in two rounds, if needed, by the National Assembly<br>
 _most recent election date_: 3 March 2022<br>
 _election results_: <br><em>2022: </em>Vahagn KHACHATURYAN elected president in second round; note - Vahagn KHACHATURYAN (independent) ran unopposed and won the Assembly vote 71-0<br><em><br>2018:</em> Armen SARKISSIAN elected president in first round; note - Armen SARKISSIAN (indpendent) ran unopposed and won the Assembly vote 90-10<br>
 _expected date of next election_: 2029<br>

@@ -325,7 +325,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Rumen RADEV (since 22 January 2017)<br>
 _head of government_: Prime Minister Rosen ZHELYAZKOV (since 16 January 2025)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, elected by the National Assembly<br>
-_elections/appointments_: president and vice president elected on the same ballot by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); chairman of the Council of Ministers (prime minister) elected by the National Assembly; deputy prime ministers nominated by the prime minister, elected by the National Assembly<br>
+_election/appointment process_: president and vice president elected on the same ballot by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); chairman of the Council of Ministers (prime minister) elected by the National Assembly; deputy prime ministers nominated by the prime minister, elected by the National Assembly<br>
 _most recent election date_: 14 and 21 November 2021<br>
 _election results_: <em><br>2021</em>: Rumen RADEV reelected president in second round; percent of vote in the first round - Rumen RADEV (independent) 49.4%, Anastas GERDZHIKOV (independent) 22.8%, Mustafa KARADAYI (DPS) 11.6%, Kostadin KOSTADINOV (Revival) 3.9%, Lozan PANOV (independent) 3.7%, other 8.6%; percent of vote in the second round - Rumen RADEV 66.7%, Anastas GERDZHIKOV 31.8%, neither 1.5%<br><br><em>2016: </em>Rumen RADEV elected president in second round; percent of vote - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%<br>
 _expected date of next election_: fall 2026<br>

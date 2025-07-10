@@ -328,7 +328,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Ferdinand "BongBong" MARCOS, Jr. (since 30 June 2022)<br>
 _head of government_: President Ferdinand "BongBong" MARCOS, Jr. (since 30 June 2022)<br>
 _cabinet_: Cabinet appointed by the president with the consent of the Commission of Appointments, an independent body of 25 Congressional members that includes the Senate president (ex officio chairman) and is appointed by the president<br>
-_elections/appointments_: president and vice president directly elected on separate ballots by simple-majority popular vote for a single 6-year term<br>
+_election/appointment process_: president and vice president directly elected on separate ballots by simple-majority popular vote for a single 6-year term<br>
 _most recent election date_: 9 May 2022<br>
 _election results_: <em><br>2022: </em>Ferdinand MARCOS, Jr. elected president; percent of vote - Ferdinand MARCOS, Jr. (PFP) 58.7%, Leni ROBREDO (independent) 27.9%, Manny PACQUIAO (PROMDI) 6.8%, other 6.6%; Sara DUTERTE-Carpio elected vice president; percent of vote Sara DUTERTE-Carpio (Lakas-CMD) 61.5%, Francis PANGILINAN (LP) 17.8%, Tito SOTTO 15.8%, other 4.9%<br><br><em>2016: </em>Rodrigo DUTERTE elected president; percent of vote - Rodrigo DUTERTE (PDP-Laban) 39%, Manuel "Mar" ROXAS (LP) 23.5%, Grace POE (independent) 21.4%, Jejomar BINAY (UNA) 12.7%, Miriam Defensor SANTIAGO (PRP) 3.4%; Leni ROBREDO elected vice president; percent of vote Leni ROBREDO (LP) 35.1%, Ferdinand MARCOS, Jr. (independent) 34.5%, Alan CAYETANO 14.4%, Francis ESCUDERO (independent) 12%, other 4%<br>
 _expected date of next election_: 9 May 2028<br>
@@ -340,7 +340,7 @@ _legislative structure_: bicameral<br>
 
 **Legislative branch - lower chamber**<br>
 _chamber name_: House of Representatives (Kapulungan Ng Mga Kinatawan)<br>
-_number of seats_: 316 (all directly elected)<br>
+_number of seats_: 317 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 3 years<br>
@@ -355,7 +355,7 @@ _electoral system_: plurality/majority<br>
 _scope of elections_: partial renewal<br>
 _term in office_: 6 years<br>
 _most recent election date_: 5/12/2025<br>
-_percentage of women in chamber_: 30.4%<br>
+_percentage of women in chamber_: 20.8%<br>
 _expected date of next election_: May 2028<br>
 
 **Judicial branch**<br>

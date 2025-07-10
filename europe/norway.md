@@ -325,7 +325,7 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: King HARALD V (since 17 January 1991)<br>
 _head of government_: Prime Minister Jonas Gahr STORE (since 14 October 2021)<br>
 _cabinet_: Council of State appointed by the monarch, approved by Parliament<br>
-_elections/appointments_: the monarchy is hereditary; following legislative elections, the monarch usually appoints the leader of the majority party or majority coalition as prime minister, with the approval of Parliament<br>
+_election/appointment process_: the monarchy is hereditary; following legislative elections, the monarch usually appoints the leader of the majority party or majority coalition as prime minister, with the approval of Parliament<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Stortinget)<br>

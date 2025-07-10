@@ -319,7 +319,7 @@ _residency requirement for naturalization_: na<br>
 _chief of state_: Interim President Col. Mamady DOUMBOUYA (since 1 October 2021)<br>
 _head of government_: Prime Minister Mamadou Oury BAH (since 27 February 2024)<br>
 _cabinet_: formerly the Council of Ministers appointed by the president<br>
-_elections/appointments_: formerly, the president was directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term), and the prime minister was appointed by the president<br>
+_election/appointment process_: formerly, the president was directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term), and the prime minister was appointed by the president<br>
 _most recent election date_: 18 October 2020<br>
 _election results_: <em><br>2020: </em>Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%<br><br><em>2015: </em>Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 57.8%, Cellou Dalein DIALLO (UFDG) 31.4%, other 10.8%<br>
 <strong>note 1:</strong> in 2021, the military arrested and detained the president, suspended the constitution, and dissolved the government and legislature<br><br><strong>note 2:</strong> the transitional government has not announced a new election timetable<br>
@@ -649,7 +649,7 @@ the Guinean military's inventory consists almost entirely of Soviet-era weapons 
 18 years of age for voluntary and selective conscripted service; 9-12 months of service (2023)<br>
 
 **Military - note**<br>
-the Guinean military is responsible for territorial defense, but also has some domestic security responsibilities and has historically been involved in suppressing public protests; in 2021 the Army&rsquo;s special forces led a military overthrow of the government; the military-led government has since been accused of cracking down on dissent, the media, and political opposition (2024)<br>
+the Guinean military is responsible for territorial defense, but also has some domestic security responsibilities and has historically been involved in suppressing public protests; in 2021 the Army&rsquo;s special forces led a military overthrow of the government; the military-led government has since been accused of cracking down on dissent, the media, and political opposition (2025)<br>
 
 ## Transnational Issues
 

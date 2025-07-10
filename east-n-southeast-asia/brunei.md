@@ -303,7 +303,7 @@ _residency requirement for naturalization_: 12 years<br>
 _chief of state_: Sultan and Prime Minister Sir HASSANAL Bolkiah (since 5 October 1967)<br>
 _head of government_: Sultan and Prime Minister Sir HASSANAL Bolkiah (since 5 October 1967)<br>
 _cabinet_: Council of Ministers appointed and presided over by the monarch<br>
-_elections/appointments_: none; the monarchy is hereditary<br>
+_election/appointment process_: none; the monarchy is hereditary<br>
 <strong>note 1:</strong> the monarch is both chief of state and head of government, as well as Minister of Finance, Defense, and Foreign Affairs and Trade<br><br><strong>note 2:</strong> 4 additional advisory councils appointed by the monarch are the Religious Council, Privy Council for Constitutional Issues, Council of Succession, and Legislative Council<br>
 
 **Legislative branch**<br>

@@ -337,7 +337,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: Transition President Assimi GOITA (since 7 June 2021)<br>
 _head of government_: Transition Prime Minister Choguel MAIGA (since 7 June 2021)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
-_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister appointed by the president<br>
+_election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister appointed by the president<br>
 _most recent election date_: 29 July 2018, with runoff on 12 August 2018<br>
 _election results_: <em><br>2018</em>: Ibrahim Boubacar KEITA reelected president in second round; percent of vote in first round - Ibrahim Boubacar KEITA (RPM) 41.7%, Soumaila CISSE (URD) 17.8%, other 40.5%; percent of vote in second round - Ibrahim Boubacar KEITA 67.2%, Soumaila CISSE 32.8%<br><br><em>2013</em>: Ibrahim Boubacar KEITA elected president in second round; percent of vote in first round - Ibrahim Boubacar KEITA (RPM) 39.8%, Soumaila CISSE (URD) 19.7%, other 40.5%; percent of vote in second round - Ibrahim Boubacar KEITA (RPM) 77.6%, Soumaila CISSE (URD) 22.4%<br>
 <strong>note:</strong> in 2022, the transition government adopted a charter allowing transition authorities to rule for up to 5 years, but the military junta pushed through a referendum in 2023 that created the potential for transition President GOITA to maintain his hold on power indefinitely<br>

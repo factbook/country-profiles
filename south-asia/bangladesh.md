@@ -328,7 +328,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Mohammad Shahabuddin CHUPPI (since 24 April 2023)<br>
 _head of government_: Interim Prime Minister Muhammad YUNUS (since 8 August 2024)<br>
 _cabinet_: Cabinet selected by the prime minister, appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Parliament for a 5-year term (eligible for a second term); the president appoints as prime minister the majority party leader in the National Parliament<br>
+_election/appointment process_: president indirectly elected by the National Parliament for a 5-year term (eligible for a second term); the president appoints as prime minister the majority party leader in the National Parliament<br>
 _most recent election date_: 13 February 2023<br>
 _election results_: President Mohammad Shahabuddin CHUPPI (AL) elected unopposed by the National Parliament; Sheikh HASINA reappointed prime minister for a fifth term following the 7 January 2024 parliamentary election<br>
 _expected date of next election_: 2028<br>

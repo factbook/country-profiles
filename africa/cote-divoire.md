@@ -328,7 +328,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Alassane Dramane OUATTARA (since 4 December 2010)<br>
 _head of government_: Prime Minister Robert BREUGRE MAMBE (since 17 October 2023)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a single renewable 5-year term; vice president elected on same ballot as president; prime minister appointed by the president<br>
+_election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a single renewable 5-year term; vice president elected on same ballot as president; prime minister appointed by the president<br>
 _most recent election date_: 31 October 2020<br>
 _election results_: <br><em>2020: </em>Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 94.3%, Kouadio Konan BERTIN (PDCI-RDA) 2.0%, other 3.7%<br><br><em>2015: </em>Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 83.7%, Pascal Affi N'GUESSAN (FPI) 9.3%, Konan Bertin KOUADIO (independent) 3.9%, other 3.1%<br>
 _expected date of next election_: October 2025<br>
@@ -694,7 +694,7 @@ the military (FACI) is responsible for external defense but also has a considera
 Space Agency of C&ocirc;te d&rsquo;Ivoire (ASCI; established June 2025) (2025)<br>
 
 **Space program overview**<br>
-has as small, nascent program focused on acquiring a remote sensing (RS) satellite for purposes detecting illegal gold mining, facilitating access to drinking water, mapping deforestation, and national security issues; new space agency's responsibilities also include advancing the utilization of space-based technologies for sustainable development, promoting domestic expertise, and supporting scientific research (2025)<br>
+has a small, nascent program focused on acquiring a remote sensing (RS) satellite for detecting illegal gold mining, facilitating access to drinking water, mapping deforestation, and national security issues; new space agency's responsibilities also include advancing the use of space-based technologies for sustainable development, promoting domestic expertise, and supporting scientific research (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

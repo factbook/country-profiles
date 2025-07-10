@@ -308,7 +308,7 @@ _residency requirement for naturalization_: 4 out of the previous 5 years<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Sir Patrick L. ALLEN (since 26 February 2009)<br>
 _head of government_: Prime Minister Andrew HOLNESS (since 3 March 2016)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the governor general appoints the leader of the majority party or majority coalition in the House of Representatives as prime minister<br>
+_election/appointment process_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the governor general appoints the leader of the majority party or majority coalition in the House of Representatives as prime minister<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -652,7 +652,7 @@ the JDF is lightly armed with a limited inventory featuring equipment mostly fro
 <strong>note 1: </strong>the Jamaica Combined Cadet Force (JCCF), a youth organization under the Ministry of Security, also provides a recruitment pool for the JDF, as well as other government agencies <br><br><strong>note 2: </strong>as of 2022, women made up about 20% of the JDF's uniformed personnel<br>
 
 **Military - note**<br>
-in addition to its responsibility of defending against external aggression, the JDF's primary missions are border, internal, and maritime security, including support to police operations in combating crime and violence; other missions include search and rescue, disaster response, humanitarian assistance, and peacekeeping; it has arrest authority and partners with the Jamaica Constabulary Force (JCF); both the JDF and JCF are under the Ministry of National Security, which directs policy for the security forces; the JDF participates in bilateral and multinational training exercises, including with the militaries of Canada, the UK, the US, and other Caribbean nations <br><br>while Jamaica had a militia force as early as the 1660s, the JDF was constituted in 1962 from the West India Regiment (WIR), a British colonial regiment which dates back to 1795 (2024)<br>
+in addition to its responsibility of defending against external aggression, the Jamaican Defense Force's (JDF) primary missions are border, cyber, internal, and maritime security; other missions include search and rescue, disaster response, humanitarian assistance, and peacekeeping; it has arrest authority and partners with the Jamaica Constabulary Force (JCF), particularly in support of combating crime and violence; both the JDF and JCF are under the Ministry of National Security, which directs policy for the security forces; the JDF participates in bilateral and multinational training exercises, including with the armed forces of Canada, the UK, the US, and other Caribbean nations<br><br>while Jamaica had a militia force as early as the 1660s, the JDF was constituted in 1962 from the West India Regiment (WIR), a British colonial regiment which dates back to 1795 (2025)<br>
 
 ## Transnational Issues
 

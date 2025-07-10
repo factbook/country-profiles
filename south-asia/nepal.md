@@ -326,7 +326,7 @@ _residency requirement for naturalization_: 15 years<br>
 _chief of state_: President Ram Chandra POUDEL (since 13 March 2023)<br>
 _head of government_: Prime Minister Khadga Prasad Sharma OLI (since 15 July 2024)<br>
 _cabinet_: Council of Ministers appointed by the prime minister; cabinet positions shared among Nepali Congress, Communist Party of Nepal-Maoist Centre, and various coalition partners<br>
-_elections/appointments_: president indirectly elected by an electoral college of the Federal Parliament and the state assemblies for a 5-year term (eligible for a second term)<br>
+_election/appointment process_: president indirectly elected by an electoral college of the Federal Parliament and the state assemblies for a 5-year term (eligible for a second term)<br>
 _most recent election date_: 9 March 2023<br>
 _election results_: <em><br>2023:</em> Ram Chandra POUDEL elected president; electoral college vote - Ram Chandra POUDEL (NC) 33,802, Subash Chandra NEMBANG (CPN-UML) 15,518<br><br><em>2018:</em> Bidhya Devi BHANDARI reelected president; electoral vote - Bidhya Devi BHANDARI (CPN-UML) 39,275, Kumari Laxmi RAI (NC) 11,730<br>
 _expected date of next election_: 2028<br>

@@ -255,7 +255,7 @@ see Denmark<br>
 _chief of state_: King FREDERIK X of Denmark (since 14 January 2024), represented by High Commissioner Julie Praest WILCHE (since May 2022) (2024)<br>
 _head of government_: Prime Minister Jens-Frederik NIELSEN (since 28 March 2025)<br>
 _cabinet_: Self-rule Government (Naalakkersuisut) elected by the Parliament (Inatsisartut)<br>
-_elections/appointments_: the monarchy is hereditary; high commissioner appointed by the monarch; premier indirectly elected by Parliament for a 4-year term<br>
+_election/appointment process_: the monarchy is hereditary; high commissioner appointed by the monarch; premier indirectly elected by Parliament for a 4-year term<br>
 _election results_: <em>2025: </em>Jens-Frederik NIELSEN (D) elected premier<em><br><br>2021:</em> Mute B. EGEDE elected premier; Parliament vote - Mute B. EGEDE (Inuit Ataqatigiit) unanimous<br><br><em>2014:</em> Kim KIELSEN elected premier; Parliament vote - Kim KIELSEN (S) 27.2%, Sara OLSVIG (IA) 25.5%, Randi Vestergaard EVALDSEN (D) 19.5%, other 27.8%<br>
 
 **Legislative branch**<br>
@@ -286,7 +286,7 @@ _chancery_: 3200 Whitehaven Street, NW<br>Washington, DC  20008<br>
 _telephone_: [1] (202) 234-4300<br>
 _FAX_: [1] (202) 328-1470<br>
 _email address and website_: <br>washington@nanoq.gl<br><br>All Greenlandic Representations | GrÃ¸nlands ReprÃ¦sentation (grl-rep.dk); <br>https://naalakkersuisut.gl/en/Naalakkersuisut/Groenlands-repraesentation-Washington<br>
-<strong>Note</strong>:  Greenland also has offices in the Danish consulates in Chicago and New York<br>
+<strong>note</strong>: Greenland also has offices in the Danish consulates in Chicago and New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Consul Monica BLAND (since July 2023)<br>

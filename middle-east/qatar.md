@@ -311,7 +311,7 @@ _residency requirement for naturalization_: 20 years; 15 years if an Arab nation
 _chief of state_: Amir TAMIM bin Hamad Al Thani (since 25 June 2013)<br>
 _head of government_: Prime Minister and Foreign Minister MUHAMMAD bin Abd al-Rahman Al Thani (since 7 March 2023)<br>
 _cabinet_: Council of Ministers appointed by the amir<br>
-_elections/appointments_: the monarchy is hereditary; prime minister appointed by the amir<br>
+_election/appointment process_: the monarchy is hereditary; prime minister appointed by the amir<br>
 
 **Legislative branch**<br>
 _legislature name_: Shura Council (Majlis Al-Shura)<br>

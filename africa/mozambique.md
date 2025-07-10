@@ -333,7 +333,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Daniel Francisco CHAPO (since 15 January 2025)<br>
 _head of government_: Prime Minister Maria Benvinda Delfina LEVI (since 17 January 2025)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president elected directly by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for 2 consecutive terms); election last held on 9 October 2024 (next to be held by October 2029); prime minister appointed by the president<br>
+_election/appointment process_: president elected directly by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for 2 consecutive terms); election last held on 9 October 2024 (next to be held by October 2029); prime minister appointed by the president<br>
 _most recent election date_: 9 October 2024<br>
 _election results_: <em><br>2024</em>: Daniel CHAPO elected president in first round; percent of vote - Daniel CHAPO (FRELIMO) 65.2%, Venâncio MONDLANE (PODEMOS) 24.2%, Ossufo MOMADE (RENAMO) 6.6%<br>
 

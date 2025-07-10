@@ -305,7 +305,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Jose Maria Pereira NEVES (since 9 November 2021)<br>
 _head of government_: Prime Minister Jose Ulisses CORREIA e SILVA (since 22 April 2016)<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister nominated by the National Assembly and appointed by the president<br>
+_election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister nominated by the National Assembly and appointed by the president<br>
 _most recent election date_: 17 October 2021&nbsp;<br>
 _election results_: <em><br>2020: </em>Jose Maria Pereira NEVES elected president; percent of vote - Jose Maria Pereira NEVES (PAICV) 51.7%, Carlos VEIGA (MPD) 42.4%, Casimiro DE PINA (independent) 1.8%, Fernando Rocha DELGADO (independent) 1.4%, Helio SANCHES (independent) 1.14%, Gilson ALVES (independent) 0.8%, Joaquim MONTEIRO (independent) 3.4%<br><br><em>2016: </em>Jorge Carlos FONSECA reelected president; percent of vote - Jorge Carlos FONSECA (MPD) 74.1%, Albertino GRACA (independent) 22.5%, other 3.4%<br>
 _expected date of next election_: October 2026<br>

@@ -336,7 +336,7 @@ _residency requirement for naturalization_: unknown<br>
 _chief of state_: President of the National Council for the Safeguard of the Homeland (CNSP) General Abdourahame TIANI (since 28 July 2023)<br>
 _head of government_: CNSP Prime Minister Ali Mahaman Lamine ZEINE (since 9 August 2023)<br>
 _cabinet_: Cabinet appointed by the CNSP<br>
-_elections/appointments_: the CNSP rules by decree; previously, the president was directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister was appointed by the president, authorized by the National Assembly<br>
+_election/appointment process_: the CNSP rules by decree; previously, the president was directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister was appointed by the president, authorized by the National Assembly<br>
 _most recent election date_: 27 December 2020, with a runoff held on 21 February 2021<br>
 _election results_: <em><br>2020/2021</em>: Mohamed BAZOUM elected president in second round; percent of vote in first round - Mohamed BAZOUM (PNDS-Tarrayya) 39.3%, Mahamane OUSMANE (MODEN/FA Lumana Africa) 17%, Seini OUMAROU (MNSD-Nassara) 9%, Albade ABOUDA (MPR-Jamhuriya) 7.1%, other 27.6%; percent of vote in second round - Mohamed BAZOUM 55.7%, Mahamane OUSMANE 44.3%<br><br><em>2016</em>: ISSOUFOU Mahamadou reelected president in second round; percent of vote in first round - ISSOUFOU Mahamadou (PNDS-Tarrayya) 48.6%, Hama AMADOU (MODEN/FA Lumana Africa) 17.8%, Seini OUMAROU (MNSD-Nassara) 11.3%, other 22.3%; percent of vote in second round - ISSOUFOU Mahamadou 92%, Hama AMADOU 8%<br>
 _expected date of next election_: 2025<br>
@@ -349,6 +349,7 @@ _number of seats_: 194 (all appointed)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _most recent election date_: 5/1/2025<br>
+_percentage of women in chamber_: 19.6%<br>
 <strong>Note:</strong> on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the National Assembly; a commission recommended to the junta in February 2025 a minimum of a five-year transition to democratic rule<br>
 
 **Judicial branch**<br>

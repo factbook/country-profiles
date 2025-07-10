@@ -287,7 +287,7 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Rodney WILLIAMS (since 14 August 2014)<br>
 _head of government_: Prime Minister Gaston BROWNE (since 13 June 2014)<br>
 _cabinet_: Council of Ministers appointed by the governor general on the advice of the prime minister<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister; following legislative elections, the governor general usually appoints the leader of the majority party or majority coalition as prime minister<br>
+_election/appointment process_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister; following legislative elections, the governor general usually appoints the leader of the majority party or majority coalition as prime minister<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>

@@ -300,7 +300,7 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General David Tiva KAPU (since 7 July 2024)<br>
 _head of government_: Prime Minister Jeremiah MANELE (since 2 May 2024)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the National Parliament for up to 5 years (eligible for a second term); following legislative elections, the National Parliament usually elects the leader of the majority party or majority coalition as prime minister; deputy prime minister appointed by the governor general on the advice of the prime minister<br>
+_election/appointment process_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the National Parliament for up to 5 years (eligible for a second term); following legislative elections, the National Parliament usually elects the leader of the majority party or majority coalition as prime minister; deputy prime minister appointed by the governor general on the advice of the prime minister<br>
 
 **Legislative branch**<br>
 _legislature name_: National Parliament<br>

@@ -341,7 +341,7 @@ voluntary between 16 to 18 years of age, over 70, and if illiterate; compulsory 
 _chief of state_: President Luiz In&aacute;cio LULA da Silva (since 1 January 2023)<br>
 _head of government_: President Luiz In&aacute;cio LULA da Silva (since 1 January 2023)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by absolute-majority popular vote in 2 rounds, if needed, for a 4-year term (eligible for a single consecutive term and additional terms after at least one term has elapsed)<br>
+_election/appointment process_: president and vice president directly elected on the same ballot by absolute-majority popular vote in 2 rounds, if needed, for a 4-year term (eligible for a single consecutive term and additional terms after at least one term has elapsed)<br>
 _most recent election date_: 2 October 2022, with runoff on 30 October 2022<br>
 _election results_: <br><em>2022: </em>Luiz Inácio LULA da Silva elected president in second round; percent of vote in first round - Luiz Inácio LULA da Silva (PT) 48.4%, Jair BOLSONARO (PSL) 43.2%, Simone Nassar TEBET (MDB) 4.2%, Ciro GOMES (PDT) 3%, other 1.2%; percent of vote in second round - Luiz Inácio LULA da Silva (PT) 50.9%, Jair BOLSONARO (PSL) 49.1%<em><br><br>2018: </em>Jair BOLSONARO elected president in second round; percent of vote in first round - Jair BOLSONARO (PSL) 46%, Fernando HADDAD (PT) 29.3%, Ciro GOMEZ (PDT) 12.5%, Geraldo ALCKMIN (PSDB) 4.8%, other 7.4%; percent of vote in second round - Jair BOLSONARO (PSL) 55.1%, Fernando HADDAD (PT) 44.9%<br>
 _expected date of next election_: 4 October 2026<br>

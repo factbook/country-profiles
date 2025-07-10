@@ -274,7 +274,7 @@ has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
 _chief of state_: President David ADEANG (since 30 October 2023)<br>
 _head of government_: President David ADEANG (since 30 October 2023)<br>
 _cabinet_: Cabinet appointed by the president from among members of Parliament<br>
-_elections/appointments_: president indirectly elected by Parliament for 3-year term (eligible for a second term)<br>
+_election/appointment process_: president indirectly elected by Parliament for 3-year term (eligible for a second term)<br>
 _most recent election date_: 30 October 2023<br>
 _election results_: <em><br>2023:</em> David ADEAGN elected president over Delvin THOMA, 10-8<br><br><em>2022:</em> Russ KUN elected president unopposed<br>
 _expected date of next election_: 2026<br>

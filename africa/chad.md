@@ -331,7 +331,7 @@ _residency requirement for naturalization_: 15 years<br>
 _chief of state_: President Mahamat Idriss D&Eacute;BY (since 6 May 2024)<br>
 _head of government_: Prime Minister Allamaye HALINA (since 23 May 2024)<br>
 _cabinet_: Council of Ministers<br>
-_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (no term limits)<br>
+_election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (no term limits)<br>
 _most recent election date_: 6 May 2024<br>
 _election results_: <em><br>2024: </em>Mahamat Idriss DÉBY elected president; percent of vote - Mahamat Idriss DÉBY (MPS) 61%, Succes MASRA (Transformers) 18.5%, Albert PADACKE 16.9%, other 3.6%<br><em><br>2021:</em> Lt. Gen. Idriss DÉBY reelected transitional president; percent of vote - Lt. Gen. Idriss DÉBY (MPS) 79.3%, Pahimi PADACKET Albert (RNDT) 10.3%, Lydie BEASSEMDA (Party for Democracy and Independence) 3.2%, other 7.2%<br><em><br></em><br>
 

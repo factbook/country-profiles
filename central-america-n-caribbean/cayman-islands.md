@@ -246,7 +246,7 @@ see United Kingdom<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Jane OWEN (since 21 April 2023)<br>
 _head of government_: Premier Andr&eacute; Martin EBANKS (since 6 May 2025)<br>
 _cabinet_: Cabinet selected from the Parliament and appointed by the governor on the advice of the premier<br>
-_elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the governor appoints the leader of the majority party or majority coalition as premier<br>
+_election/appointment process_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the governor appoints the leader of the majority party or majority coalition as premier<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>

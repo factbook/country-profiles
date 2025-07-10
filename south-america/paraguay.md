@@ -325,7 +325,7 @@ _residency requirement for naturalization_: 3 years<br>
 _chief of state_: President Santiago PE&Ntilde;A Palacios (since 15 August 2023)<br>
 _head of government_: President Santiago PE&Ntilde;A Palacios (since 15 August 2023)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by simple-majority popular vote for a single 5-year term<br>
+_election/appointment process_: president and vice president directly elected on the same ballot by simple-majority popular vote for a single 5-year term<br>
 _most recent election date_: 30 April 2023<br>
 _election results_: <br><em>2023: </em>Santiago PEÑA Palacios elected president; percent of vote - Santiago PEÑA Palacios (ANR) 43.9%, Efraín ALEGRE (PLRA) 28.3%, Paraguayo "Payo" CUBAS Colomés (PCN) 23.6%, other 4.2%<em><br><br>2018:</em> Mario ABDO BENÍTEZ elected president; percent of vote - Mario ABDO BENÍTEZ (ANR) 49%, Efraín ALEGRE (PLRA) 45.1%, other 5.9%<br>
 _expected date of next election_: April 2028<br>

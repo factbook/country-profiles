@@ -337,7 +337,7 @@ _residency requirement for naturalization_: 3 years<br>
 _chief of state_: President Aleksandar VUCIC (since 31 May 2017)<br>
 _head of government_: Prime Minister Djuro MACUT (since 16 April 2025)<br>
 _cabinet_: Cabinet elected by the National Assembly<br>
-_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister elected by the National Assembly<br>
+_election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister elected by the National Assembly<br>
 _most recent election date_: 17 December 2023<br>
 _election results_: <em><br>2022:</em> Aleksandar VUCIC reelected in first round; percent of vote - Aleksandar VUCIC (SNS) 60%, Zdravko PONOS (US) 18.9%, Milos JOVANOVIC (NADA) 6.1%, Bosko OBRADOVIC (Dveri-POKS) 4.5%, Milica DJURDJEVIC STAMENKOVSKI (SSZ) 4.3%, other 6.2%<br><br><em>2017:</em> Aleksandar VUCIC elected president in first round; percent of vote - Aleksandar VUCIC (SNS) 55.1%, Sasa JANKOVIC (independent) 16.4%, Luka MAKSIMOVIC (independent) 9.4%, Vuk JEREMIC (independent) 5.7%, Vojislav SESELJ (SRS) 4.5%, other 7.3%, invalid/blank 1.6%; Prime Minister Ana BRNABIC reelected by the National Assembly on 5 October 2020; National Assembly vote - NA<br>
 _expected date of next election_: 2028<br>

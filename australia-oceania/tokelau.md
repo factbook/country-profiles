@@ -188,7 +188,7 @@ see New Zealand<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor-General of New Zealand Dame Cindy KIRO (since 21 September 2021); New Zealand is represented by Administrator Don HIGGINS (since June 2022)<br>
 _head of government_: (Ulu o Tokelau) Esera Fofō Filipo Tuisano TUISANO (since 17 March 2025)<br>
 _cabinet_: Council for the Ongoing Government of Tokelau (or Tokelau Council) functions as a cabinet; consists of 3 village leaders (Faipule) and 3 village mayors (Pulenuku)<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the Minister of Foreign Affairs and Trade in New Zealand; head of government chosen from the Council of Faipule to serve a 1-year term<br>
+_election/appointment process_: the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the Minister of Foreign Affairs and Trade in New Zealand; head of government chosen from the Council of Faipule to serve a 1-year term<br>
 <strong>note:</strong> the meeting place of the Tokelau Council and the head of government position rotates annually among the three atolls; this tradition has given rise to the somewhat misleading description that the capital rotates yearly between the three atolls, but Tokelau has no capital<br>
 
 **Legislative branch**<br>

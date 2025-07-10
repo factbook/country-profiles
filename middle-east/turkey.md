@@ -337,7 +337,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Recep Tayyip ERDOGAN (since 28 August 2014)<br>
 _head of government_: President Recep Tayyip ERDOGAN (since 9 July 2018)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br>
+_election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br>
 _most recent election date_: 14 May 2023, with a runoff on 28 May 2023<br>
 _election results_: <em><br>2023: </em>Recep Tayyip ERDOGAN reelected president in second round - Recep Tayyip ERDOGAN (AKP) 52.2%, Kemal KILICDAROGLU (CHP) 47.8%<em><br><br>2018:</em> Recep Tayyip ERDOGAN reelected president in first round - Recep Tayyip ERDOGAN (AKP) 52.6%, Muharrem INCE (CHP) 30.6%, Selahattin DEMIRTAS (HDP) 8.4%, Meral AKSENER (IYI) 7.3%, other 1.1%<br>
 _expected date of next election_: 2028<br>

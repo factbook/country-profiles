@@ -351,7 +351,7 @@ _residency requirement for naturalization_: 3-5 years<br>
 _chief of state_: President Vladimir Vladimirovich PUTIN (since 7 May 2012)<br>
 _head of government_: Premier Mikhail Vladimirovich MISHUSTIN (since 16 January 2020)<br>
 _cabinet_: the government is composed of the premier, his deputies, and ministers, all appointed by the president; the premier is also confirmed by the Duma<br>
-_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 6-year term (eligible for a second consecutive term)<br>
+_election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 6-year term (eligible for a second consecutive term)<br>
 _most recent election date_: 15-17 March 2024<br>
 _election results_: <br><em>2024</em>: Vladimir PUTIN reelected president; percent of vote - Vladimir PUTIN (independent) 88.5%, Nikolay KHARITONOV (Communist Party) 4.4%, Vladislav DAVANKOV (New People party) 3.9%, Leonid SLUTSKY (Liberal Democrats) 3.2%<br><br><em>2018: V</em>ladimir PUTIN reelected president; percent of vote - Vladimir PUTIN (independent) 77.5%, Pavel GRUDININ (CPRF) 11.9%, Vladimir ZHIRINOVSKIY (LDPR) 5.7%, other 4.9%; Mikhail MISHUSTIN (independent) approved as premier by Duma; vote - 383 to 0<em><br><br></em><br>
 _expected date of next election_: 2030<br>

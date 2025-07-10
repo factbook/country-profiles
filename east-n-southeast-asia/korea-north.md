@@ -303,7 +303,7 @@ _residency requirement for naturalization_: unknown<br>
 _chief of state_: State Affairs Commission President KIM Jong Un (since 17 December 2011)<br>
 _head of government_: Supreme People's Assembly President CHOE Ryong Hae (since 11 April 2019)<br>
 _cabinet_: Cabinet or Naegak members appointed by the Supreme People's Assembly, except the Minister of People's Armed Forces<br>
-_elections/appointments_: chief of state and premier indirectly elected by the Supreme People's Assembly<br>
+_election/appointment process_: chief of state and premier indirectly elected by the Supreme People's Assembly<br>
 _most recent election date_: 11 April 2019<br>
 _election results_: <em><br>2019:</em> KIM Jong Un reelected unopposed<br>
 _expected date of next election_: March 2024<br>
@@ -330,7 +330,7 @@ _subordinate courts_: lower provincial courts as determined by the Supreme Peopl
 <strong>major parties:</strong><br>Korean Workers' Party or KWP (formally known as Workers' Party of Korea) <br>General Association of Korean Residents in Japan (Chongryon; under KWP control) <br><strong>minor parties:</strong> <br>Chondoist Chongu Party (under KWP control)<br>Social Democratic Party or KSDP (under KWP control)<br>
 
 **Diplomatic representation in the US**<br>
-none<br><br><strong>Note</strong>:  North Korea has a Permanent Mission to the UN in New York<br>
+none<br><br><strong>note</strong>: North Korea has a Permanent Mission to the UN in New York<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none; the Swedish Embassy in Pyongyang represents the US as consular protecting power<br>

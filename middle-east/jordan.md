@@ -334,7 +334,7 @@ _residency requirement for naturalization_: 15 years<br>
 _chief of state_: King ABDALLAH II (since 7 February 1999)<br>
 _head of government_: Prime Minister Jafar HASSAN (since 15 September 2024)<br>
 _cabinet_: Cabinet appointed by the monarch in consultation with the prime minister<br>
-_elections/appointments_: prime minister appointed by the monarch<br>
+_election/appointment process_: prime minister appointed by the monarch<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Majlis Al-Umma)<br>
@@ -686,7 +686,7 @@ the JAF inventory is comprised of a wide mix of imported equipment, much of it o
 Jordan has about 200 police deployed to the MONUSCO mission in the Democratic Republic of the Congo (2024)<br>
 
 **Military - note**<br>
-the JAF traces its origins back to the Arab Legion, which was formed under the British protectorate of Transjordan in the 1920s; it is responsible for territorial defense and border security and has a supporting role for internal security; the JAF participates in both bilateral and multinational exercises, UN peacekeeping missions, and has taken part in regional military operations alongside international forces in Afghanistan, Syria, and Yemen<br><br>the JAF’s primary concerns include terrorist and criminal threats emanating from its borders with Syria and Iraq, as well as the ongoing Israel-Hamas war in Gaza and conflicts in southern Lebanon/northern Israel and the Red Sea; the terrorist group Hizballah and Iranian-backed militia forces operate in southwestern Syria near Jordan’s border while fighters from the Islamic State of Iraq and ash-Sham (ISIS) terrorist group continue to operate in both Iraq and Syria; ISIS fighters have included Jordanian nationals, some of whom have returned to Jordan; individuals and groups sympathetic to Palestinian causes have planned and conducted terrorist attacks in Jordan<br><br>the US is a key security partner, and Jordan is one of the largest recipients of US military aid in the region; it cooperates with the US on a number of issues, including border and maritime security, arms transfers, cybersecurity, and counterterrorism; Jordan has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2024)<br>
+the Jordanian Armed Forces (JAF) are responsible for territorial defense and border security and have a supporting role for internal security; key areas of concern include regional conflict and instability and unconventional threats, such as terrorism and weapons smuggling; the JAF participates in both bilateral and multinational exercises, UN peacekeeping missions, and have taken part in regional military operations alongside international forces in Afghanistan, Syria, and Yemen<br><br>the US is a key security partner, and Jordan is one of the largest recipients of US military aid in the region; it cooperates with the US on a number of issues, including border security, arms transfers, cybersecurity, and counterterrorism; Jordan has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2025)<br>
 
 ## Terrorism
 

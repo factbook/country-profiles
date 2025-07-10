@@ -309,7 +309,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: vacant; former President Bashar al-ASAD was overthrown by Islamist rebels on 8 December 2024; ASAD and his family flew to Moscow where they were granted political asylum<br>
 _head of government_: Prime Minister Muhammad al-BASHIR (since 8 December 2024)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by simple-majority popular vote for a 7-year term (eligible for a second term); the president appoints the vice president and prime minister<br>
+_election/appointment process_: president directly elected by simple-majority popular vote for a 7-year term (eligible for a second term); the president appoints the vice president and prime minister<br>
 _most recent election date_: 26 May 2021<br>
 _election results_: <em><br>2021: </em>Bashar al-ASAD elected president; percent of vote - Bashar al-ASAD (Ba'th Party) 95.2%, Mahmoud Ahmad MAREI (Democratic Arab Socialist Union) 3.3%, other 1.5%<br><br><em>2014: </em>Bashar al-ASAD elected president; percent of vote - Bashar al-ASAD (Ba'th Party) 88.7%, Hassan al-NOURI (independent) 4.3%, Maher HAJJER (independent) 3.2%, other/invalid 3.8%<br>
 _expected date of next election_: 2028<br>
@@ -334,7 +334,7 @@ _subordinate courts_: courts of first instance; magistrates' courts; religious a
 <strong>legal parties/alliances:<br></strong> Arab Socialist Ba'ath Party<br>Arab Socialist (Ba'ath) Party – Syrian Regional<br>Arab Socialist Ba'ath Party – Syrian Regional Branch, Socialist Unionist Democratic Party<br>Arab Socialist Union of Syria or ASU<br>Democratic Arab Socialist Union<br>National Progressive Front or NPF<br>Socialist Unionist Democratic Party<br>Socialist Unionist Party<br>Syrian Communist Party (two branches)<br>Syrian Social Nationalist Party or SSNP<br>Unionist Socialist Party<br><strong><br>major political organizations:<br></strong>Kurdish Democratic Union Party or PYD<br>Kurdish National Council or KNC<br>Syriac Union Party<br>Syrian Democratic Council or SDC<br>Syrian Democratic Party<br>Syrian Opposition Coalition<br> <p><strong>de facto governance entities:<br></strong>Democratic Autonomous Administration of Northeast Syria or DAANES <br>Syrian Interim Government or SIG<br>Syrian Salvation Government or SSG</p><br>
 
 **Diplomatic representation in the US**<br>
-none<strong><br><br>Note</strong>:  operations at the embassy were suspended on 18 March 2014<br>
+none<strong><br><br>note</strong>: operations at the embassy were suspended on 18 March 2014<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); note - on 6 February 2012, the US suspended operations at its embassy in Damascus; Czechia serves as a protecting power for US interests in Syria<br>

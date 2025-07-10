@@ -313,7 +313,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President (vacant)<br>
 _head of government_: Prime Minister Alix Didier FILS-AIM&Eacute; (since 10 November 2024)<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president; parliament must ratify the Cabinet and prime minister's governing policy<br>
-_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a single non-consecutive term)<br>
+_election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a single non-consecutive term)<br>
 _most recent election date_: 20 November 2016<br>
 _election results_: <br><em>2016:</em> Jovenel MOÏSE elected president in first round; percent of vote - Jovenel MOÏSE (PHTK) 55.6%, Jude CELESTIN (LAPEH) 19.6%, Jean-Charles MOÏSE (PPD) 11%, Maryse NARCISSE (FL) 9%; other 4.8%<br><br><em>2011:</em> Michel MARTELLY elected president in second round; percent of vote in second round - Michel MARTELLY (Peasant's Response) 68%, Mirlande MANIGAT (RDNP) 32%<br>
 _expected date of next election_: elections were delayed in 2022 and 2023 and have not been rescheduled<br>
@@ -343,7 +343,6 @@ _scope of elections_: partial renewal<br>
 _term in office_: 6 years<br>
 _most recent election date_: 11/20/2016 to 1/29/2017<br>
 _parties elected and seats per party_: Haitian Tet Kale Party (PHTK) (9); Truth (Vérité) (3); Konvansyon Inite Demokratik (KID) (2); Bouclier (2); Ayiti an aksyon (AAA) (2); Other (10)<br>
-_percentage of women in chamber_: 0%<br>
 _expected date of next election_: December 2025<br>
 
 **Judicial branch**<br>
@@ -639,7 +638,7 @@ in recent years, Canada, Taiwan, the US, and the UAE have provide some equipment
 men and women 18-25 may volunteer for the FAdH (2023)<br>
 
 **Military - note**<br>
-Haiti's military was disbanded in 1995 after it participated in multiple coups and was accused of other political interference and human rights violations; the military was reinstated by former President MOISE in 2017 after the UN ended its peacekeeping operation in Haiti; the reconstituted military established an Army command in 2018 and has received some training assistance from Argentina, Colombia, Ecuador, France, and Mexico; the military’s stated mission is to assist with natural disaster relief, border security, and combating transnational crime; in 2023, Prime Minister HENRY called upon the military to assist the National Police (PNH) in combating armed gangs, which have overwhelmed the PNH, killed hundreds of Haitians, and seized control of much of the capital Port-au-Prince since the assassination of President MOISE in 2021<br><br>in 2023, the UN Security Council approved the deployment of a Kenya-led multinational security support mission (MSS) to help bring gang violence under control; the first contingent of MSS personnel from the Kenya National Police Service arrived in mid-2024; other countries pledging forces included the Bahamas, Bangladesh, Barbados, Benin, Chad, and Jamaica; the mission is slated to have a total of 2,500 personnel (2024)<br>
+Haiti's military was disbanded in 1995 after it participated in multiple coups and was accused of other political interference and human rights violations; the military was reinstated by former President MOISE in 2017 after the UN ended its peacekeeping operation in Haiti; the reconstituted military established an Army command in 2018 and has received some training assistance from Argentina, Colombia, Ecuador, France, and Mexico; the military’s stated mission is to assist with natural disaster relief, border security, and combating transnational crime; in 2023, Prime Minister HENRY called upon the military to assist the National Police (PNH) in combating armed gangs, which have overwhelmed the PNH, killed hundreds of Haitians, and seized control of swaths of territory, including much of the capital Port-au-Prince, since the assassination of President MOISE in 2021<br><br>in 2023, the UN Security Council approved the deployment of a Kenya-led multinational security support mission (MSS) to help bring gang violence under control; the first contingent of MSS personnel from the Kenya National Police Service arrived in mid-2024; other countries pledging forces included the Bahamas, Bangladesh, Barbados, Benin, Chad, and Jamaica; the mission is slated to have a total of 2,500 personnel (2025)<br>
 
 ## Transnational Issues
 

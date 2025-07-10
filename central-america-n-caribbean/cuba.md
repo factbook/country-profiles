@@ -319,7 +319,7 @@ _residency requirement for naturalization_: unknown<br>
 _chief of state_: President Miguel DIAZ-CANEL Bermudez (since 19 April 2018)<br>
 _head of government_: Prime Minister Manuel MARRERO Cruz (since 21 December 2019)<br>
 _cabinet_: Council of Ministers proposed by the president and appointed by the National Assembly<br>
-_elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (eligible for a second term)<br>
+_election/appointment process_: president and vice president indirectly elected by the National Assembly for a 5-year term (eligible for a second term)<br>
 _most recent election date_: 19 April 2023<br>
 _election results_: <br><em>2023: </em>Miguel DIAZ-CANEL Bermudez (PCC) reelected president; percent of National Assembly vote - 97.7%; Salvador Antonio VALDES Mesa (PCC) reelected vice president; percent of National Assembly vote - 93.4%<em><br><br>2018: </em>Miguel DIAZ-CANEL Bermudez (PCC) elected president; percent of National Assembly vote - 98.8%; Salvador Antonio VALDES Mesa (PCC) elected vice president; percent of National Assembly vote - 98.1%<br>
 _expected date of next election_: 2028<br>

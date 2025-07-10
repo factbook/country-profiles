@@ -331,7 +331,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Shavkat MIRZIYOYEV (since 14 December 2016)<br>
 _head of government_: Prime Minister Abdulla ARIPOV (since 14 December 2016)<br>
 _cabinet_: Cabinet of Ministers appointed by the president with most requiring approval of the Senate chamber of the Supreme Assembly (Oliy Majlis)<br>
-_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 7-year term (eligible for a second term); prime minister nominated by majority party in the Supreme Assembly but appointed along with the ministers and deputy ministers by the president<br>
+_election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 7-year term (eligible for a second term); prime minister nominated by majority party in the Supreme Assembly but appointed along with the ministers and deputy ministers by the president<br>
 _most recent election date_: 9 July 2023&nbsp;<br>
 _election results_: <br>2023: Shavkat MIRZIYOYEV reelected president in snap election; percent of vote - Shavkat MIRZIYOYEV (LDPU) 87.7%, Robaxon Maxmudova (Adolat) 4.5%, Ulugbek Inoyatov (PDP) 4%, Abdushukur Xamzayev (Ecological Party) 3.8%<br><br>2021: Shavkat MIRZIYOYEV reelected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 80.3%, Maqsuda VORISOVA (PDP) 6.7%, Alisher QODIROV (National Revival Democratic Party) 5.5%, Narzullo OBLOMURODOV (Ecological Party) 4.1%, Bahrom ABDUHALIMOV (Adolat) 3.4%<br>
 _expected date of next election_: 2030<br>

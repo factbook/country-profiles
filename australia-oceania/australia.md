@@ -342,7 +342,7 @@ _residency requirement for naturalization_: 4 years<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Samantha (Sam) MOSTYN (since 1 July 2024)<br>
 _head of government_: Prime Minister Anthony ALBANESE (since 23 May 2022)<br>
 _cabinet_: Cabinet nominated by the prime minister from among members of Parliament and sworn in by the governor general<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition is sworn in as prime minister by the governor general<br>
+_election/appointment process_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition is sworn in as prime minister by the governor general<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -355,7 +355,8 @@ _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 3 years<br>
 _most recent election date_: 5/3/2025<br>
-_percentage of women in chamber_: 39.1%<br>
+_parties elected and seats per party_: ALP (94); Liberal National coalition (43); the Greens (1); KAP (1); Independents (10)<br>
+_percentage of women in chamber_: 45.7%<br>
 _expected date of next election_: May 2028<br>
 
 **Legislative branch - upper chamber**<br>
@@ -365,6 +366,7 @@ _electoral system_: proportional representation<br>
 _scope of elections_: partial renewal<br>
 _term in office_: 6 years<br>
 _most recent election date_: 5/3/2025<br>
+_parties elected and seats per party_: ALP (16); Liberal (6); the Greens (6); Liberals/Nationals (4); One Nation (3); Liberal National Party of Queensland (2); others (3)<br>
 _percentage of women in chamber_: 56.6%<br>
 _expected date of next election_: May 2028<br>
 
@@ -374,7 +376,7 @@ _judge selection and term of office_: justices appointed by the governor-general
 _subordinate courts_: subordinate courts: <em>at the federal level:</em> Federal Court; Federal Circuit and Family Court of Australia;  <em>at the state and territory level:</em> Local Court - New South Wales; Magistrates' Courts – Victoria, Queensland, South Australia, Western Australia, Tasmania, Northern Territory, Australian Capital Territory; District Courts – New South Wales, Queensland, South Australia, Western Australia; County Court – Victoria; Family Court – Western Australia; Court of Petty Sessions – Norfolk Island<br>
 
 **Political parties**<br>
-Australian Greens Party or The Greens <br>Australian Labor Party or ALP <br>Centre Alliance (formerly known as the Nick Xenophon Team or NXT)<br>Jacqui Lambie Network or JLN <br>Katter's Australian Party <br>Liberal Party of Australia <br>The Nationals <br>One Nation or ONP <br>United Australia Party <br>
+Australian Greens Party or The Greens <br>Australian Labor Party or ALP <br>Centre Alliance (formerly known as the Nick Xenophon Team or NXT)<br>Jacqui Lambie Network or JLN <br>Katter's Australian Party (KAP)<br>Liberal Party of Australia <br>Liberal National Party of Queensland <br>The Nationals <br>One Nation or ONP <br>United Australia Party<br>
 <strong>note:</strong> the Labor Party is Australia’s oldest political party, established federally in 1901; the present Liberal Party was formed in 1944; the Country Party was formed in 1920, renamed the National Country Party in 1975, the National Party of Australia in 1982, and since 2003 has been known as the Nationals; since the general election of 1949, the Liberal Party and the Nationals (under various names) when forming government have done so as a coalition<br>
 
 **Diplomatic representation in the US**<br>
@@ -421,8 +423,9 @@ _lyrics/music_: Peter Dodds McCORMICK<br>
 <strong>note 1:</strong> adopted 1984; although originally written in the late 19th century, the anthem was not used for all official occasions until 1984; as a Commonwealth country, in addition to the national anthem, "God Save the King" serves as the royal anthem (see United Kingdom)<br><br><strong>note 2:</strong> the well-known and much-loved bush ballad "Waltzing Matilda" is often referred to as Australia's unofficial national anthem; the original lyrics were written in 1895 by Australian poet Banjo PATERSON, and were first published as sheet music in 1903; since 2012, a Waltzing Matilda Day has been held annually on 6 April, the anniversary of the first performance of the song in 1895<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 20 (4 cultural, 12 natural, 4 mixed); note - includes one site on Heard Island and McDonald Islands<br>
+_total World Heritage Sites_: 20 (4 cultural, 12 natural, 4 mixed)<br>
 _selected World Heritage Site locales_: Great Barrier Reef (n); Greater Blue Mountains Area (n); Fraser Island (n); Gondwana Rainforests (n); Lord Howe Island Group (n); Royal Exhibition Building and Carlton Gardens (c); Shark Bay (n); Sydney Opera House (c); Uluṟu-Kata Tjuṯa National Park (m); Kakadu National Park (m)<br>
+<strong>note:</strong> includes one site on Heard Island and McDonald Islands<br>
 
 ## Economy
 
@@ -719,7 +722,7 @@ Australian Space Agency (ASA; established 2018; headquarters opened in 2020); De
 Whalers Way Orbital Launch Complex (commercial site, South Australia); Arnhem Space Center (commercial site, Northern Territory) (2024)<br>
 
 **Space program overview**<br>
-has a long history of involvement in space-related activities, including astronomy, rockets, satellites, and space tracking; develops, builds, operates, and tracks satellites, including communications, remote sensing (RS), navigational, and scientific/testing/research, often in partnership with other countries; develops other space technologies, including communications, RS capabilities, and telescopes; encouraging growth in domestic commercial space industry sector; cooperates with a variety of foreign space agencies and industries, including those of China, the European Space Agency/EU and their individual member states, India, Japan, New Zealand, South Korea, the UK, and the US; co-leads the Global Earth Observation System of Systems (2024)<br>
+has a long history of involvement in space-related activities, including astronomy, rockets, satellites, and space tracking; develops, builds, operates, and tracks satellites, including communications, remote sensing (RS), navigational, and scientific/testing/research, often in partnership with other countries; develops other space technologies, including communications, RS capabilities, and telescopes; encouraging growth in domestic commercial space-industry sector; cooperates with a variety of foreign space agencies and industries, including those of China, the European Space Agency (ESA), individual ESA member states, India, Japan, New Zealand, South Korea, the UK, and the US; co-leads the Global Earth Observation System of Systems (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

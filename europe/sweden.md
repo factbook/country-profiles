@@ -322,7 +322,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: King CARL XVI GUSTAF (since 15 September 1973)<br>
 _head of government_: Prime Minister Ulf KRISTERSSON (since 18 October 2022)<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
-_elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister<br>
+_election/appointment process_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Riksdagen)<br>

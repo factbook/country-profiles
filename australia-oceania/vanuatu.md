@@ -293,7 +293,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Nikenike VUROBARAVU (since 23 July 2022)<br>
 _head of government_: Prime Minister Jotham NAPAT (since 11 February 2025)<br>
 _cabinet_: Council of Ministers appointed by the prime minister, responsible to Parliament<br>
-_elections/appointments_: president indirectly elected by an electoral college consisting of Parliament and presidents of the 6 provinces; national president serves a 5-year term; following legislative elections, the Parliament usually elects the leader of the majority party or majority coalition (who must also be a member of Parliament) as prime minister<br>
+_election/appointment process_: president indirectly elected by an electoral college consisting of Parliament and presidents of the 6 provinces; national president serves a 5-year term; following legislative elections, the Parliament usually elects the leader of the majority party or majority coalition (who must also be a member of Parliament) as prime minister<br>
 _most recent election date_: 23 July 2022<br>
 _election results_: <em>2022:</em> Nikenike VUROBARAVU elected president in eighth round; electoral college vote - Nikenike VUROBARAVU (VP) 48 votes, Solas MOLISA (VP) 4 votes<br>
 _expected date of next election_: 2027<br>
@@ -325,7 +325,7 @@ _chancery_: 800 Second Avenue, Suite 400B, New York, NY 10017<br>
 _telephone_: [1] (212) 661-4303<br>
 _FAX_: [1] (212) 422-3427<br>
 _email address and website_: <br>vanunmis@aol.com<br><br>https://www.un.int/vanuatu/<br>
-note - the Vanuatu Permanent Mission to the UN serves as the embassy<br>
+<strong>note:</strong> the Vanuatu Permanent Mission to the UN serves as the embassy<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Ann Marie YASTISHOCK (since 16 April 2024); note - also accredited to the Papua New Guinea and the Solomon Islands, based in Port Moresby, Papua New Guinea<br>

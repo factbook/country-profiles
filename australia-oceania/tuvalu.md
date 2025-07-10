@@ -296,7 +296,7 @@ _residency requirement for naturalization_: na<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Tofiga Vaevalu FALANI (since 29 August 2021)<br>
 _head of government_: Prime Minister Feleti Penitala TEO (since 27 February 2024)<br>
 _cabinet_: Cabinet members selected by the prime minister<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on recommendation of the prime minister and the parliament; prime minister and deputy prime minister elected by and from members of House of Assembly following parliamentary elections<br>
+_election/appointment process_: the monarchy is hereditary; governor general appointed by the monarch on recommendation of the prime minister and the parliament; prime minister and deputy prime minister elected by and from members of House of Assembly following parliamentary elections<br>
 _election results_: <em><br>2024: </em>TEO was the only candidate nominated by the House of Assembly<em><br><br>2019: </em>Kausea NATANO elected prime minister by House of Assembly; House of Assembly vote - 10 to 6<br>
 
 **Legislative branch**<br>
@@ -325,7 +325,7 @@ _chancery_: 685 Third Avenue, Suite 1104, New York, NY 10017<br>
 _telephone_: [1] (212) 490-0534<br>
 _FAX_: [1] (212) 808-4975<br>
 _email address and website_: <br>tuvalumission.un@gmail.com<br><br>tuvalu.unmission@gov.tv<br><br>https://www.un.int/tuvalu/about<br>
-note - the Tuvalu Permanent Mission to the UN serves as the Embassy<br>
+<strong>note:</strong> the Tuvalu Permanent Mission to the UN serves as the Embassy<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Tuvalu; the US Ambassador to Fiji is accredited to Tuvalu<br>

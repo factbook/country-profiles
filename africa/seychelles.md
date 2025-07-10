@@ -300,7 +300,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Wavel RAMKALAWAN (since 26 October 2020)<br>
 _head of government_: President Wavel RAMKALAWAN (since 26 October 2020)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br>
+_election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br>
 _most recent election date_: 22-24 October 2020<br>
 _election results_: <br><em>2020</em>: Wavel RAMKALAWAN elected president; Wavel RAMKALAWAN (LDS) 54.9%, Danny FAURE (US) 43.5%, other 1.6%<br><br><em>2015</em>:  President James Alix MICHEL reelected president in second round; percent of vote in first round - James Alix MICHEL (PL) 47.8%, Wavel RAMKALAWAN (SNP) 35.3%, other 16.9%; percent of vote in second round - James Alix MICHEL 50.2%, Wavel RAMKALAWAN 49.8%<br>
 _expected date of next election_: 2025<br>

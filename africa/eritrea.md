@@ -301,7 +301,7 @@ _residency requirement for naturalization_: 20 years<br>
 _chief of state_: President ISAIAS Afwerki (since 24 May 1993)<br>
 _head of government_: President ISAIAS Afwerki (since 8 June 1993)<br>
 _cabinet_: State Council appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term), according to the constitution<br>
+_election/appointment process_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term), according to the constitution<br>
 _most recent election date_: 24 May 1993, following independence from Ethiopia<br>
 _election results_: <em><br>1993:</em> ISAIAS Afwerki elected president by the transitional National Assembly; percent of National Assembly vote - ISAIAS Afwerki (PFDJ) 95%, other 5%<br>
 _expected date of next election_: postponed indefinitely<br>

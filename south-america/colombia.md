@@ -334,7 +334,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Gustavo Francisco PETRO Urrego (since 7 August 2022)<br>
 _head of government_: President Gustavo Francisco PETRO Urrego (since 7 August 2022)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority vote in 2 rounds, if needed, for a single 4-year term<br>
+_election/appointment process_: president directly elected by absolute majority vote in 2 rounds, if needed, for a single 4-year term<br>
 _most recent election date_: 29 May 2022, with a runoff held on 19 June 2022<br>
 _election results_: <em><br>2022:</em> Gustavo Francisco PETRO Urrego elected president in second round; percent of vote in first round - Gustavo Francisco PETRO Urrego (PHxC) 40.3%, Rodolfo HERNÁNDEZ Suárez (LIGA) 28.2%, Federico GUTIÉRREZ Zuluaga (Team for Colombia / CREEMOS) 23.9%, other 7.6%; percent of vote in second round - Gustavo Francisco PETRO Urrego 50.4%, Rodolfo HERNÁNDEZ Suarez 47.3%, blank 2.3%<br><em><br>2018:</em> Iván DUQUE Márquez elected president in second round; percent of vote - Iván DUQUE Márquez (CD) 54%, Gustavo Francisco PETRO Urrego (Humane Colombia) 41.8%, other/blank/invalid 4.2%<br>
 _expected date of next election_: 31 May 2026<br>

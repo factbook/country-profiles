@@ -321,7 +321,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: King CHARLES III (since 8 September 2022)<br>
 _head of government_: Prime Minister Keir STARMER (since 5 July 2024)<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
-_elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister<br>
+_election/appointment process_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister<br>
 <strong>note 1:</strong> in addition to serving as the UK head of state, the British sovereign is the constitutional monarch for 14 additional Commonwealth countries (each referred to as a "Commonwealth realm")<br><br><strong>note 2</strong>: King CHARLES III succeeded his mother, Queen ELIZABETH II, after serving as Prince of Wales (heir apparent) for over 64 years -- the longest such tenure in British history<br>
 
 **Legislative branch**<br>

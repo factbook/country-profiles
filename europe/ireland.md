@@ -310,7 +310,7 @@ _residency requirement for naturalization_: 4 of the previous 8 years<br>
 _chief of state_: President Michael D. HIGGINS (since 11 November 2011)<br>
 _head of government_: Taoiseach (Prime Minister) Michael MARTIN (since 23 January 2025)<br>
 _cabinet_: Cabinet nominated by the prime minister, appointed by the president, approved by the Dali Eireann (lower house of Parliament)<br>
-_elections/appointments_: president directly elected by majority popular vote for a 7-year term (eligible for a second term); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president<br>
+_election/appointment process_: president directly elected by majority popular vote for a 7-year term (eligible for a second term); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president<br>
 _most recent election date_: 26 October 2018<br>
 _election results_: <em><br>2025: </em>Michael MARTIN is elected taoiseach by parliament, 95 votes to 76, and is appointed taoiseach by the president<br><em><br>2024: </em>Simon HARRIS is elected taoiseach by parliament, 88 votes to 69, and is appointed taoiseach by the president<em><br><br>2018:</em> Michael D. HIGGINS reelected president in first round; percent of vote in first round - Michael D. HIGGINS (independent) 55.8%, Peter CASEY (independent) 23.3%, Sean GALLAGHER (independent) 6.4%, Liadh NI RIADA (Sinn Fein) 6.4%, Joan FREEMAN (independent) 6%, Gavin DUFFY (independent) 2.2%<br>
 _expected date of next election_: no later than November 2025<br>
@@ -331,7 +331,7 @@ _percentage of women in chamber_: 25.3%<br>
 _expected date of next election_: November 2029<br>
 
 **Legislative branch - upper chamber**<br>
-_chamber name_: Senate (Seanad &Eacute;ireann - Senate)<br>
+_chamber name_: Senate (Seanad Éireann - Senate)<br>
 _number of seats_: 60 (49 indirectly elected; 11 appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
@@ -672,7 +672,7 @@ the Irish Defense Forces have a small inventory of imported weapons systems from
 130 Golan Heights (UNDOF); 325 Lebanon (UNIFIL) (2024)<br>
 
 **Military - note**<br>
-Ireland has a long-standing policy of military neutrality; however, it participates in multinational peacekeeping and humanitarian operations, as well as crisis management; Ireland is a signatory of the EU’s Common Security and Defense Policy and has committed a battalion of troops to the EU’s Rapid Reaction Force; Ireland is not a member of NATO but has a relationship with it going back to 1997, when it deployed personnel in support of the NATO-led peacekeeping operation in Bosnia and Herzegovina; Ireland joined NATO’s Partnership for Peace program in 1999; it has been active in UN peacekeeping operations since the 1950s<br><br>the Irish Defense Forces trace their origins back to the Irish Volunteers, a unit established in 1913 which took part in the 1916 Easter Rising and the Irish War of Independence (1919-1921) (2024)<br>
+the Irish Defense Forces (IDF) are responsible for external defense, assisting civil authorities upon request, participating in multinational peacekeeping and humanitarian operations, and providing for maritime security; the IDF traces its origins back to the Irish Volunteers, a unit established in 1913 which took part in the 1916 Easter Rising and the Irish War of Independence (1919-1921)<br><br>Ireland has a long-standing policy of military neutrality; however, Ireland is a signatory of the EU’s Common Security and Defense Policy and has committed a battalion of troops to the EU’s Rapid Reaction Force; Ireland is not a member of NATO but has a relationship with it going back to 1997, when it deployed personnel in support of the NATO-led peacekeeping operation in Bosnia and Herzegovina; Ireland joined NATO’s Partnership for Peace program in 1999; it has been active in UN peacekeeping operations since the 1950s (2025)<br>
 
 ## Terrorism
 

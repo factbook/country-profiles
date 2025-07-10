@@ -303,7 +303,7 @@ _residency requirement for naturalization_: varies from 3 to 5 years<br>
 **Executive branch**<br>
 _chief of state_: President, Presidential Council, Mohammed al-MANFI (since 5 February 2021)<br>
 _head of government_: GNU Interim Prime Minister Abd-al-Hamid DUBAYBAH (since 5 February 2021)<br>
-_elections/appointments_: first direct presidential election was not held as planned<br>
+_election/appointment process_: first direct presidential election was not held as planned<br>
 _most recent election date_: scheduled for 24 December 2021 but not held<br>
 _expected date of next election_: no new date has been set for elections<br>
 

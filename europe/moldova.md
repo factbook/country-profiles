@@ -321,7 +321,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Maia SANDU (since 24 December 2020)<br>
 _head of government_: Prime Minister Dorin RECEAN (since 16 February 2023)<br>
 _cabinet_: Cabinet proposed by the prime minister-designate, nominated by the president, approved through a vote of confidence in Parliament<br>
-_elections/appointments_: president directly elected for a 4-year term (eligible for a second term); prime minister designated by the president in consultation with Parliament; within 15 days from designation, the prime minister-designate must request a vote of confidence for his/her proposed work program from the Parliament<br>
+_election/appointment process_: president directly elected for a 4-year term (eligible for a second term); prime minister designated by the president in consultation with Parliament; within 15 days from designation, the prime minister-designate must request a vote of confidence for his/her proposed work program from the Parliament<br>
 _most recent election date_: 3 November 2024<br>
 _election results_: <em><br>2024: </em>In the second round of presidential elections, incumbent Maia SANDU (PAS) wins 55.4% of the vote, Alexandr STOIANOGLO (PSRM) 44.6; turnout is 54.3%<em><br><br>2020:</em> Maia SANDU elected president in second round; percent of vote in second round - Maia SANDU (PAS) 57.7%, Igor DODON (PSRM) 42.3%<br><br><em>2016</em>: Igor DODON elected president in second round; percent of vote - Igor DODON (PSRM) 52.1%, Maia SANDU (PAS) 47.9%<br>
 _expected date of next election_: 2028<br>
@@ -336,7 +336,7 @@ _term in office_: 4 years<br>
 _most recent election date_: 7/11/2021<br>
 _parties elected and seats per party_: Action and Solidarity Party (PAS) (63); Electoral Bloc of Communists and Socialists (BECS) (32); Șor Party (PPȘ) (6)<br>
 _percentage of women in chamber_: 40%<br>
-_expected date of next election_: July 2025<br>
+_expected date of next election_: September 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of the chief judge, 3 deputy-chief judges, 45 judges, and 7 assistant judges); Constitutional Court (consists of the court president and 6 judges)<br>

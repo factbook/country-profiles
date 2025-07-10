@@ -112,7 +112,7 @@ _history_: British Indian Ocean Territory (Constitution) Order 2004<br>
 _chief of state_: King CHARLES III (since 8 September 2022)<br>
 _head of government_: Commissioner Nishi DHOLAKIA (since 16 December 2024); Administrator Bob FAIRWEATHER; both reside in the UK and are represented by Commander Andrew WILLIAMS, RN, the officer commanding British Forces on Diego Garcia (since January 2025)<br>
 _cabinet_: NA<br>
-_elections/appointments_: the monarchy is hereditary; commissioner and administrator appointed by the monarch<br>
+_election/appointment process_: the monarchy is hereditary; commissioner and administrator appointed by the monarch<br>
 
 **Diplomatic representation in the US**<br>
 none (overseas territory of the UK)<br>

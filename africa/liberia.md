@@ -307,7 +307,7 @@ _residency requirement for naturalization_: 2 years<br>
 _chief of state_: President Joseph BOAKAI (since 22 January 2024)<br>
 _head of government_: President Joseph BOAKAI (since 22 January 2024)<br>
 _cabinet_: Cabinet appointed by the president, confirmed by the Senate<br>
-_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 6-year term (eligible for a second term)<br>
+_election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 6-year term (eligible for a second term)<br>
 _most recent election date_: 10 October 2023, with a runoff on 14 November 2023<br>
 _election results_: <em><br>2023:</em> Joseph BOAKAI elected president in second round; percent of vote in first round - George WEAH (CDC) 43.8%, Joseph BOAKAI (UP) 43.4%, Edward APPLETON (GDM) 2.2%, Lusinee KAMARA (ALCOP) 2%, Alexander B. CUMMINGS, Jr. (CPP) 1.6%, Tiawan Saye GONGLOE (LPP) 1.4%, other 5.6%; percentage of vote in second round - Joseph BOAKAI 50.6%, George WEAH 49.4%<br><br><em>2017:</em> George WEAH elected president in second round; percent of vote in first round - George WEAH (Coalition for Democratic Change) 38.4%, Joseph BOAKAI (UP) 28.8%, Charles BRUMSKINE (LP) 9.6%, Prince JOHNSON (MDR) 8.2%, Alexander B. CUMMINGS (ANC) 7.2%, other 7.8%; percentage of vote in second round - George WEAH 61.5%, Joseph BOAKAI 38.5%<br>
 _expected date of next election_: October 2029<br>

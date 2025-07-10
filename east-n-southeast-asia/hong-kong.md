@@ -263,7 +263,7 @@ see China<br>
 _chief of state_: President of China XI Jinping (since 14 March 2013)<br>
 _head of government_: Chief Executive John LEE Ka-chiu (since 1 July 2022)<br>
 _cabinet_: Executive Council or ExCo appointed by the chief executive<br>
-_elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); chief executive indirectly elected by the Election Committee and appointed by the PRC Government for a 5-year term (eligible for a second term)<br>
+_election/appointment process_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); chief executive indirectly elected by the Election Committee and appointed by the PRC Government for a 5-year term (eligible for a second term)<br>
 _most recent election date_: <em>president: </em>10 March 2023<em><br><br>chief executive: </em>8 May 2022<br>
 _election results_: <em><br>2022: </em>John LEE was the only candidate and won with over 99% of the vote by the Election Committee<em><br><br><em>2017</em>: </em>Carrie LAM elected; Election Committee vote - Carrie LAM (non-partisan) 777, John TSANG (non-partisan) 365, WOO Kwok-hing (non-partisan) 21, 23 ballots rejected (1,186 votes cast)<br>
 _expected date of next election_: <em>president: </em>March 2028<em><br><br>chief executive: </em>2027<br>
@@ -292,7 +292,7 @@ Business and Professionals Alliance for Hong Kong or BPA <br>Civil Force or CF�
 **Diplomatic representation in the US**<br>
 _chief of mission_: none (Special Administrative Region of China)<br>
 _HKETO offices_: New York, San Francisco, Washington DC<br>
-<strong>Note</strong>:  Hong Kong is a Special Administrative Region of China and does not have a diplomatic presence; the Hong Kong Economic and Trade Office (HKETO) carries out normal liaison activities and communication with the US Government and other US entities; the position of the Hong Kong Commissioner to the US Government of the Hong Kong Special Administrative Region is vacant; address: 1520 18th Street NW, Washington, DC 20036; telephone: [1] (202) 331-8947; FAX: [1] (202) 331-8958; email:  hketo@hketowashington.gov.hk; website: https://www.hketowashington.gov.hk/<br>
+<strong>note</strong>: Hong Kong is a Special Administrative Region of China and does not have a diplomatic presence; the Hong Kong Economic and Trade Office (HKETO) carries out normal liaison activities and communication with the US government and other US entities; the position of the Hong Kong Commissioner to the US Government of the Hong Kong Special Administrative Region is vacant; address: 1520 18th Street NW, Washington, DC 20036; telephone: [1] (202) 331-8947; FAX: [1] (202) 331-8958; email:  hketo@hketowashington.gov.hk; website: https://www.hketowashington.gov.hk/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Consul General Gregory MAY (since September 2022); note - also accredited to Macau<br>
@@ -564,10 +564,7 @@ _key ports_: Hong Kong<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular indigenous military forces; Hong Kong Police Force (specialized units include the Police Counterterrorism Response Unit, the Explosive Ordnance Disposal Bureau, the Special Duties Unit, the Airport Security Unit, and the VIP Protection Unit)<br><br>China's People's Liberation Army (PLA) Hong Kong Garrison is responsible for defense duties; the garrison includes elements of the PLA Army, PLA Navy, and PLA Air Force and are under the direct leadership of the Central Military Commission in Beijing and under administrative control of the adjacent Southern Theater Command (2025)<br>
-
-**Military - note**<br>
-defense is the responsibility of China<br>
+Hong Kong Police Force (specialized units include the Police Counterterrorism Response Unit, the Explosive Ordnance Disposal Bureau, the Special Duties Unit, the Airport Security Unit, and the VIP Protection Unit)<br><br>China's People's Liberation Army (PLA) Hong Kong Garrison is responsible for defense duties; the garrison includes elements of the PLA Army, PLA Navy, and PLA Air Force and are under the direct leadership of the Central Military Commission in Beijing and under administrative control of the adjacent Southern Theater Command (2025)<br>
 
 ## Transnational Issues
 

@@ -317,7 +317,7 @@ _residency requirement for naturalization_: not specified<br>
 _chief of state_: Amir MISHAL al-Ahmad al-Jabir al-Sabah (since 16 December 2023)<br>
 _head of government_: Prime Minister AHMAD ABDULLAH Al-Ahmad al Sabah (since 15 May 2024)<br>
 _cabinet_: Council of Ministers appointed by the prime minister, approved by the amir<br>
-_elections/appointments_: amir chosen from within the ruling family, confirmed by the National Assembly; prime minister appointed by the amir<br>
+_election/appointment process_: amir chosen from within the ruling family, confirmed by the National Assembly; prime minister appointed by the amir<br>
 
 **Legislative branch**<br>
 _expected date of next election_: April 2028<br>

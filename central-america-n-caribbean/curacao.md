@@ -242,7 +242,7 @@ see the Netherlands<br>
 _chief of state_: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor Lucille A. GEORGE-WOUT (since 4 November 2013)<br>
 _head of government_: Prime Minister Gilmar PISAS (since 14 June 2021)<br>
 _cabinet_: Cabinet sworn-in by the governor<br>
-_elections/appointments_: the monarch is hereditary; governor appointed by the monarch; following legislative elections, the legislature usually elects the leader of the majority party as prime minister<br>
+_election/appointment process_: the monarch is hereditary; governor appointed by the monarch; following legislative elections, the legislature usually elects the leader of the majority party as prime minister<br>
 _most recent election date_: 21 March 2025<br>
 _expected date of next election_: 2029<br>
 

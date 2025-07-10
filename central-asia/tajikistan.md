@@ -320,7 +320,7 @@ _residency requirement for naturalization_: 5 years or 3 years of continuous res
 _chief of state_: President Emomali RAHMON (since 16 November 1994; head of state and Supreme Assembly Chairman since 20 November 1992)<br>
 _head of government_: Prime Minister Qohir RASULZODA (since 23 November 2013)<br>
 _cabinet_: Council of Ministers appointed by the president, approved by the Supreme Assembly<br>
-_elections/appointments_: president directly elected by simple-majority popular vote for a 7-year term (two-term limit), but as the "Leader of the Nation," president has no term limit; prime minister appointed by the president<br>
+_election/appointment process_: president directly elected by simple-majority popular vote for a 7-year term (two-term limit), but as the "Leader of the Nation," president has no term limit; prime minister appointed by the president<br>
 _most recent election date_: 11 October 2020<br>
 _election results_: <br><em>2020</em>: Emomali RAHMON reelected president; percent of vote - Emomali RAHMON (PDPT) 92.1%, Rustam LATIFZODA (APT) 3.1%, other 4.8%<br><br><em>2013:</em> Emomali RAHMON reelected president; percent of vote - Emomali RAHMON (PDPT) 84%, Ismoil TALBAKOV CPT) 5%, other 11%<br>
 _expected date of next election_: 2027<br>
@@ -346,7 +346,7 @@ _number of seats_: 33 (25 indirectly elected; 8 appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 3/28/2025<br>
-_percentage of women in chamber_: 25.8%<br>
+_percentage of women in chamber_: 30.3%<br>
 _expected date of next election_: March 2030<br>
 
 **Judicial branch**<br>

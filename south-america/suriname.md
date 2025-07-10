@@ -306,7 +306,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Chandrikapersad "Chan" SANTOKHI (since 16 July 2020)<br>
 _head of government_: President Chandrikapersad "Chan" SANTOKHI (since 16 July 2020)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
-_elections/appointments_: president and vice president indirectly elected by the National Assembly; president and vice president serve a 5-year term (no term limits)<br>
+_election/appointment process_: president and vice president indirectly elected by the National Assembly; president and vice president serve a 5-year term (no term limits)<br>
 _most recent election date_: 13 July 2020<br>
 _election results_: <em><br>2025: </em>official<em> </em>National Assembly vote pending<em><br><br>2020:</em> Chandrikapersad "Chan" SANTOKHI elected president unopposed; National Assembly vote - NA<br><br><em>2015:</em> Desire Delano BOUTERSE reelected president unopposed; National Assembly vote - NA<br>
 _expected date of next election_: 2025<br>
@@ -320,6 +320,7 @@ _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 5/25/2025<br>
+_parties elected and seats per party_: National Democratic Party (NDP) (18); Progressive Reform Party (VHP) (17); National Party of Suriname (NPS) (6); General Liberation and Development Party (ABOP) (6); Other (4)<br>
 _percentage of women in chamber_: 31.4%<br>
 _expected date of next election_: May 2030<br>
 

@@ -242,7 +242,7 @@ see United Kingdom<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Sarah TUCKER (since 6 April 2023)<br>
 _head of government_: Premier Easton TAYLOR-FARRELL (since 19 November 2019)<br>
 _cabinet_: Executive Council consists of the governor, the premier, 3 other ministers, the attorney general, and the finance secretary<br>
-_elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually becomes premier<br>
+_election/appointment process_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually becomes premier<br>
 
 **Legislative branch**<br>
 _legislature name_: Legislative Assembly<br>

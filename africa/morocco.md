@@ -345,7 +345,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: King MOHAMMED VI (since 30 July 1999)<br>
 _head of government_: Prime Minister Aziz AKHANNOUCH (since 7 October 2021)<br>
 _cabinet_: Council of Ministers chosen by the prime minister in consultation with Parliament and appointed by the monarch; the monarch chooses the ministers of Interior, Foreign Affairs, Islamic Affairs, and National Defense Administration<br>
-_elections/appointments_: the monarchy is hereditary; monarch appoints the prime minister from the majority party following legislative elections<br>
+_election/appointment process_: the monarchy is hereditary; monarch appoints the prime minister from the majority party following legislative elections<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Barlaman)<br>

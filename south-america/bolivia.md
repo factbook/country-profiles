@@ -332,7 +332,7 @@ _residency requirement for naturalization_: 3 years<br>
 _chief of state_: President Luis Alberto ARCE Catacora (since 8 November 2020)<br>
 _head of government_: President Luis Alberto ARCE Catacora (since 8 November 2020)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president and vice president directly elected on the same ballot one of 3 ways: candidate wins at least 50% of the vote, or at least 40% of the vote and 10% more than the next highest candidate; otherwise, a second round is held and the winner determined by simple majority vote; president and vice president are elected by majority vote to serve a 5-year term; no term limits<br>
+_election/appointment process_: president and vice president directly elected on the same ballot one of 3 ways: candidate wins at least 50% of the vote, or at least 40% of the vote and 10% more than the next highest candidate; otherwise, a second round is held and the winner determined by simple majority vote; president and vice president are elected by majority vote to serve a 5-year term; no term limits<br>
 _most recent election date_: 18 October 2020<br>
 _election results_: <br><em>2020:</em> Luis Alberto ARCE Catacora elected president; percent of vote - Luis Alberto ARCE Catacora (MAS) 55.1%; Carlos Diego MESA Gisbert (CC) 28.8%; Luis Fernando CAMACHO Vaca (Creemos) 14%; other 2.1%<br><br><em>2019:</em> Juan Evo MORALES Ayma reelected president; percent of vote - Juan Evo MORALES Ayma (MAS) 61%; Samuel DORIA MEDINA Arana (UN) 24.5%; Jorge QUIROGA Ramirez (POC) 9.1%; other 5.4%<br>
 _expected date of next election_: 17 August 2025 (a runoff, if needed, will take place on 19 October 2025)<br>

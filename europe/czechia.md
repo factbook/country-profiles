@@ -324,7 +324,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Petr PAVEL (since 9 March 2023)<br>
 _head of government_: Prime Minister Petr FIALA (since 17 December 2021)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (limited to 2 consecutive terms); prime minister appointed by the president for a 4-year term<br>
+_election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (limited to 2 consecutive terms); prime minister appointed by the president for a 4-year term<br>
 _most recent election date_: 13-14 January 2023, with a second round on 27-28 January 2023<br>
 _election results_: <em><br>2023: </em>Petr PAVEL elected in the second round; percent of vote in the first round - Petr PAVEL (independent) 35.4%, Andrej BABIS (ANO) 35<em>%</em>, Danuse NERUDOVA (Mayors and Independents) 13.9%, Pavel FISCHER (independent) 6.8%; percent of vote in the second round - Petr PAVEL 58.3%, Andrej BABIS 41.6%<em><br><br>2018:</em> Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%<br>
 _expected date of next election_: by January 2028<br>

@@ -312,7 +312,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Brice OLIGUI Nguema (since 3 May 2025)<br>
 _head of government_: President Brice OLIGUI Nguema (since 3 May 2025)<br>
 _cabinet_: cabinet appointed by president<br>
-_elections/appointments_: the president directly elected by plurality vote to a 7-year term (no term limits)<br>
+_election/appointment process_: the president directly elected by plurality vote to a 7-year term (no term limits)<br>
 _most recent election date_: 12 April 2025<br>
 _election results_: <em><br>2025: </em>Brice OLIGUI Nguema elected president; percent of vote - Brice OLIGUI Nguema (Ind.) 90.35%, Alain Claude Bilie By Nze (EPG) 3.02%, other 6.63%<br><em><br>2016: </em>Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0%<br>
 
@@ -326,7 +326,7 @@ _number of seats_: 98 (all appointed)<br>
 _scope of elections_: full renewal<br>
 _most recent election date_: 10/6/2023<br>
 _percentage of women in chamber_: 25.5%<br>
-_expected date of next election_: August 2025<br>
+_expected date of next election_: September 2025<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Transitional Senate (Sénat de la transition)<br>

@@ -311,7 +311,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President THARMAN Shanmugaratnam (since 14 September 2023)<br>
 _head of government_: Prime Minister Lawrence WONG (since 15 May 2024)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister; responsible to Parliament<br>
-_elections/appointments_: president directly elected by simple-majority popular vote for a 6-year term (no term limits); following legislative elections, the president appoints the leader of the majority party or majority coalition as prime minister; deputy prime ministers also appointed by the president<br>
+_election/appointment process_: president directly elected by simple-majority popular vote for a 6-year term (no term limits); following legislative elections, the president appoints the leader of the majority party or majority coalition as prime minister; deputy prime ministers also appointed by the president<br>
 _most recent election date_: 1 September 2023<br>
 _election results_: <em><br>2023: </em>THARMAN Shanmugaratnam elected president; percent of vote - THARMAN Shanmugaratnam (independent) 70.4%, NG Kok Song (independent) 15.7%, TAN Kin Lian (independent) 13.9%<br><em><br>2017</em>: HALIMAH Yacob declared president on 13 September 2017, being the only eligible candidate<br>
 _expected date of next election_: 2029<br>
@@ -319,12 +319,12 @@ _expected date of next election_: 2029<br>
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
 _legislative structure_: unicameral<br>
-_number of seats_: 104 (93 directly elected; 9 appointed)<br>
+_number of seats_: 108 (97 directly elected; 9 appointed)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 5/3/2025<br>
-_percentage of women in chamber_: 29.6%<br>
+_percentage of women in chamber_: 32.3%<br>
 _expected date of next election_: May 2030<br>
 
 **Judicial branch**<br>

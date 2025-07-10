@@ -269,7 +269,7 @@ _residency requirement for naturalization_: 30 years<br>
 _chief of state_: co-chiefs of state Captains Regent Denise BRONZETTI and Italo RIGHI (for the period 1 April 2025 - 30 September 2025)<br>
 _head of government_: Secretary of State for Foreign and Political Affairs Luca BECCARI (since 8 January 2020)<br>
 _cabinet_: Congress of State elected by the Grand and General Council<br>
-_elections/appointments_: co-chiefs of state (captains regent) indirectly elected by the Grand and General Council for a single 6-month term; Secretary of State for Foreign and Political Affairs indirectly elected by the Grand and General Council for a single 5-year term<br>
+_election/appointment process_: co-chiefs of state (captains regent) indirectly elected by the Grand and General Council for a single 6-month term; Secretary of State for Foreign and Political Affairs indirectly elected by the Grand and General Council for a single 5-year term<br>
 _most recent election date_: <em>co-chiefs of state:</em> 1 April 2025<br><br><em>secretary of state:</em> 28 December 2019<br>
 _election results_: <em><br>2025</em>: Denise BRONZETTI (Reformist Alliance) and Italo RIGHI (Christian Democrat) elected captains regent: percent of Grand and General Council vote - NA<br><br><em>2024</em>: Francesca CIVERCHIA (PDCS) and Dalibor RICCARDI (Free San Marino) elected captains regent; percent of Grand and General Council vote - NA<br><br><em>2019:</em> Luca BECCARI (PDCS) elected Secretary of State for Foreign and Political Affairs; percent of Grand and General Council vote - NA<br>
 _expected date of next election_: <em>co-chiefs of state:</em> September 2025<br>

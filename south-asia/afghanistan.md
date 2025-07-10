@@ -295,7 +295,7 @@ _conventional long form_: Islamic Republic of Afghanistan (prior to 15 August 20
 _conventional short form_: Afghanistan<br>
 _local long form_: Jamhuri-ye Islami-ye Afghanistan (prior to 15 August 2021; current country name is disputed)<br>
 _local short form_: Afghanistan<br>
-_etymology_: the name "Afghan" originally referred to the Pashtun people (today it is understood to include all the country's ethnic groups), while the suffix "-stan" means "place of" or "country"; so Afghanistan literally means the "Land of the Afghans"<br>
+_etymology_: the name "Afghan" originally referred to the Pashtun people, but today it is understood to include all the country's ethnic groups; the suffix "-stan" means "place of" or "country," so Afghanistan literally means the "Land of the Afghans"<br>
 
 **Government type**<br>
 theocratic; the United States does not recognize the Taliban Government<br>
@@ -332,7 +332,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: Taliban Leader HAYBATULLAH Akhundzada (since 15 August 2021)<br>
 _head of government_: overall Taliban Leader HAYBATULLAH Akhundzada is the [so-called] Amir-ul Momineen of the Taliban and is seen by them as a head of government<br>
 _cabinet_: the Taliban have announced a &ldquo;cabinet&rdquo; for the &ldquo;caretaker government,&rdquo; including the &ldquo;acting prime minister,&rdquo; &ldquo;acting deputy prime ministers,&rdquo; and &ldquo;ministers&rdquo; who claim to represent 26 ministries<br>
-_elections/appointments_: the 2004 Afghan constitution directed that the president should be elected by majority popular vote for a 5-year term (eligible for a second term); the Taliban have given no indication that they intend to reinstate elections or any other mechanism of democratic governance<br>
+_election/appointment process_: the 2004 Afghan constitution directed that the president should be elected by majority popular vote for a 5-year term (eligible for a second term); the Taliban have given no indication that they intend to reinstate elections or any other mechanism of democratic governance<br>
 _most recent election date_: 28 September 2019<br>
 <strong>note:</strong> the United States has not yet made a decision whether to recognize the Taliban or any other entity as the government of Afghanistan<br>
 
@@ -347,7 +347,7 @@ _subordinate courts_: provincial courts, religious courts, and specialty courts<
 the Taliban Government enforces an authoritarian state and has banned other political parties; note - before 15 August 2021, the Ministry of Justice had licensed 72 political parties as of April 2019<br><br>the Taliban have banned other political parties but have allowed some party leaders, including the head of Hezb-e-Islami, Gulbuddin Hekmatyar, to continue to live and work in Afghanistan; Hekmatyar likely continues to enjoy some political support from loyalists; leaders of other parties, including Jamiat-e-Islami’s Salahuddin Rabbani and Jumbesh’s Rashid Dostum, operate from abroad but likely also command some following within Afghanistan; note - before 15 August 2021, the Ministry of Justice had licensed 72 political parties as of April 2019<br>
 
 **Diplomatic representation in the US**<br>
-none<strong><br><br>Note</strong>:  the Afghan Embassy closed in March 2022<br>
+none<strong><br><br>note</strong>: the Afghan Embassy closed in March 2022<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the United States does not maintain a presence in Afghanistan and its diplomatic mission to Afghanistan has relocated to Doha, Qatar<br>

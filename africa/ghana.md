@@ -326,7 +326,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President John Dramani MAHAMA (since 7 January 2025)<br>
 _head of government_: President Nana Addo Dankwa AKUFO-ADDO (since 7 January 2017)<br>
 _cabinet_: Council of Ministers; nominated by the president, approved by Parliament<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by absolute-majority popular vote in 2 rounds, if needed, for a 4-year term (eligible for a second term); the president is both chief of state and head of government<br>
+_election/appointment process_: president and vice president directly elected on the same ballot by absolute-majority popular vote in 2 rounds, if needed, for a 4-year term (eligible for a second term); the president is both chief of state and head of government<br>
 _most recent election date_: 7 December 2024<br>
 _election results_: <em><br>2024: </em>John Dramani MAHAMA elected president in the first round; percent of vote- John Dramani MAHAMA (NDC) 56.5%, Mahamudu BAWUMIA (NPC) 41%, other 2.5% <em><br><br>2020:</em> Nana Addo Dankwa AKUFO-ADDO reelected president in the first round; percent of vote - Nana Addo Dankwa AKUFO-ADDO (NPP) 51.3%, John Dramani MAHAMA (NDC) 47.4%, other 1.3% (2020)<br>
 _expected date of next election_: 7 December 2028<br>

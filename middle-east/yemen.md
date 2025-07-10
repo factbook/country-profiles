@@ -303,7 +303,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: Presidential Leadership Council Chairperson Dr. Rashad Muhammad al-ALIMI (since 19 April 2022)<br>
 _head of government_: Prime Minister Salim Salih BIN BURAYK (since 9 May 2025)<br>
 _cabinet_: 24 members from northern and southern Yemen, with representatives from Yemen's major political parties<br>
-_elections/appointments_: formerly, the president was directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 7-year term (eligible for a second term); vice president appointed by the president; prime minister appointed by the president<br>
+_election/appointment process_: formerly, the president was directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 7-year term (eligible for a second term); vice president appointed by the president; prime minister appointed by the president<br>
 _most recent election date_: 21 February 2012<br>
 _election results_: <em><br>2012:</em> Abd Rabuh Mansur HADI (GPC) elected consensus president<br>
 <strong>note:</strong> on 7 April 2022, President Abd Rabuh Mansur HADI announced his abdication, the dismissal of Vice President ALI MUHSIN al-Ahmar and the formation of a Presidential Leadership Council, an eight-member body chaired by former minister Rashad AL-ALIMI; on 19 April 2022, the Council was sworn in before Parliament and began assuming the responsibilities of the president and vice president and carrying out the political, security, and military duties of the government; in May 2025, Chairperson al-ALIMI made changes to his cabinet<br>

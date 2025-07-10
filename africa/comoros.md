@@ -306,7 +306,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President AZALI Assoumani (since 26 May 2016)<br>
 _head of government_: President AZALI Assoumani (since 26 May 2016)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority vote in 2 rounds, if needed, for a 5-year term<br>
+_election/appointment process_: president directly elected by absolute majority vote in 2 rounds, if needed, for a 5-year term<br>
 _most recent election date_: 14 January 2024<br>
 _election results_: <em><br>2024: </em>AZALI Assoumani reelected president in first round - AZALI Assoumani (CRC) 63%, SALIM ISSA Abdallah (PJ) 20.3%, DAOUDOU Abdallah Mohamed (Orange Party) 5.9%, Bourhane HAMIDOU (independent) 5.1%<em><br><br>2019</em>: AZALI Assoumani elected president in first round - AZALI Assoumani (CRC) 60.8%, Ahamada MAHAMOUDOU (PJ) 14.6%, Mouigni Baraka Said SOILIHI (independent) 5.6%, other 19%<br>
 _expected date of next election_: 2029<br>

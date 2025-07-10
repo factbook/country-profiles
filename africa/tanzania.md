@@ -340,7 +340,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Samia Suluhu HASSAN (since 19 March 2021)<br>
 _head of government_: President Samia Suluhu HASSAN (since 19 March 2021)<br>
 _cabinet_: Cabinet appointed by the president from among members of the National Assembly<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term (eligible for a second term); prime minister appointed by the president<br>
+_election/appointment process_: president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term (eligible for a second term); prime minister appointed by the president<br>
 _most recent election date_: 28 October 2020<br>
 _election results_: <em><br>2020</em>: John MAGUFULI reelected president; percent of vote - John MAGUFULI (CCM) 84.4%, Tundu LISSU (CHADEMA) 13%, other 2.6%<br><br><em>2015</em>: John MAGUFULI elected president; percent of vote - John MAGUFULI (CCM) 58.5%, Edward LOWASSA (CHADEMA) 40%, other 1.5%<br>
 _expected date of next election_: October 2025<br>

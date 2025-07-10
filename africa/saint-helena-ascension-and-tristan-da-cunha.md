@@ -236,7 +236,7 @@ see United Kingdom<br>
 _chief of state_: King CHARLES III (since 8 September 2022)<br>
 _head of government_: Governor Nigel PHILLIPS (since 13 August 2022)<br>
 _cabinet_: Executive Council consists of the governor, 3 ex-officio officers, and 5 elected members of the Legislative Council<br>
-_elections/appointments_: none; the monarchy is hereditary; governor appointed by the monarch<br>
+_election/appointment process_: none; the monarchy is hereditary; governor appointed by the monarch<br>
 <strong>note:</strong> the constitution order provides for an administrator for Ascension and Tristan da Cunha, appointed by the governor<br>
 
 **Legislative branch**<br>

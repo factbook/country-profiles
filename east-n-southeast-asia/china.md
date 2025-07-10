@@ -353,7 +353,7 @@ _residency requirement for naturalization_: while naturalization is theoreticall
 _chief of state_: President XI Jinping (since 14 March 2013)<br>
 _head of government_: Premier LI Qiang (since 11 March 2023)<br>
 _cabinet_: State Council appointed by National People's Congress<br>
-_elections/appointments_: president and vice president indirectly elected by National People's Congress; premier nominated by president, confirmed by National People's Congress<br>
+_election/appointment process_: president and vice president indirectly elected by National People's Congress; premier nominated by president, confirmed by National People's Congress<br>
 _most recent election date_: 10 March 2023<br>
 _election results_: <em><br>2023: </em>XI Jinping reelected president; National People's Congress vote - 2,952 (unanimously); HAN Zheng elected vice president with 2,952 votes; LI Qiang elected premier with 2,936 votes<br><em><br>2018</em>: XI Jinping reelected president; National People's Congress vote - 2,970 (unanimously); WANG Qishan elected vice president with 2,969 votes<br>
 _expected date of next election_: March 2028<br>
@@ -385,7 +385,7 @@ _chancery_: 3505 International Place NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 495-2266<br>
 _FAX_: [1] (202) 495-2138<br>
 _email address and website_: <br>chinaemppress_us@mfa.gov.cn<br><br>http://www.china-embassy.org/eng/<br>
-_consulate(s) general_: Chicago, Los Angeles, New York, San Francisco; note - the US ordered closure of the Houston consulate in late July 2020<br>
+_consulate(s) general_: Chicago, Los Angeles, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador-designate David PERDUE (since 16 May 2025)<br>
@@ -728,8 +728,8 @@ China National Space Administration (CNSA; established in 1993); Administration 
 Jiuquan Launch Center (Inner Mongolia), Xichang Launch Center (Sichuan), Wenchang Launch Center (Hainan; Wenchang includes a commercial launch pad, the Hainan Commercial Space Launch Site, which became operational in December 2024), Taiyuan Launch Center (Shanxi), Eastern Spaceport (Shandong; a coastal spaceport designed to facilitate maritime launches); note - China also has a ship capable of conducting space launches (2024)<br>
 
 **Space program overview**<br>
-has a large, comprehensive, and ambitious space program and is considered one of the World’s leading space powers; capable of manufacturing and operating the full spectrum of space launch vehicles (SLVs) and spacecraft, including human crewed, satellite launchers, lunar/inter-planetary/asteroid probes, satellites (communications, remote sensing, navigational, scientific, etc.), space stations, and re-usable space transportation systems, such as orbital space planes/shuttles; trains astronauts (taikonauts); researches and develops a range of other space-related capabilities, including advanced telecommunications, optics, spacecraft components, satellite payloads, etc.; participates in international space programs, such as the Square Kilometer Array Project radio telescope project and co-leads (with Australian and Japan) the Global Earth Observation System of Systems; has signed space cooperation agreements with more than 30 countries, including Brazil, Canada, France, and Russia, as well as the European Space Agency (note – the US NASA is barred by a 2011 law from cooperating with the Chinese bilaterally in space unless approved by the US Congress; the US also objected to China’s participation in the International Space Station program); has a space industry dominated by two state-owned aerospace enterprises but since announcing in 2014 that it would allow private investment into the traditionally state-dominated space industry has developed a substantial commercial space sector, including space launch services (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+has a large, comprehensive, and ambitious space program and is considered one of the world’s leading space powers; capable of manufacturing and operating the full spectrum of space launch vehicles (SLVs) and spacecraft, including human-crewed satellite launchers, lunar/inter-planetary/asteroid probes, satellites (communications, remote sensing, navigational, scientific, etc.), space stations, and reusable space transportation systems such as orbital space planes/shuttles; trains astronauts; researches and develops a range of space-related capabilities, including advanced telecommunications, optics, spacecraft components, and satellite payloads; participates in international space programs and co-leads (with Australia and Japan) the Global Earth Observation System of Systems; has signed space cooperation agreements with more than 30 countries, including Brazil, Canada, France, and Russia, as well as the European Space Agency; has a space industry dominated by two state-owned aerospace enterprises, but has developed a substantial commercial space sector, including launch services (2024)<br>
+<strong>note 1:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br><br><strong>note 2:</strong> the US NASA is barred by a 2011 law from cooperating with the Chinese bilaterally in space unless approved by the US Congress; the US objected to China’s participation in the International Space Station program<br>
 
 ## Transnational Issues
 

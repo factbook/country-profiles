@@ -319,7 +319,7 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: President Abdelmadjid TEBBOUNE (since 12 December 2019)<br>
 _head of government_: Prime Minister Nadir LARBAOUI (since 11 November 2023)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in two rounds if needed for a 5-year term (eligible for a second term); prime minister nominated by the president after consultation with the majority party in Parliament<br>
+_election/appointment process_: president directly elected by absolute majority popular vote in two rounds if needed for a 5-year term (eligible for a second term); prime minister nominated by the president after consultation with the majority party in Parliament<br>
 _most recent election date_: 7 September 2024<br>
 _election results_: <em><br>2024: </em>Abdelmadjid TEBBOUNE (NLF) 94.7%, Abdelaali Hassani CHERIF (MSP) 3.2%, Youcef AOUCHICHE (FFS) 2.2%<em><br><br>2019:</em> (FLN) 58.1%, Abdelkader BENGRINA (El-Bina) 17.4%, Ali BENFLIS (Talaie El Hurriyet) 10.6%, Azzedine MIHOUBI (RND) 7.3%, Abdelaziz BELAID (Future Front) 6.7%<br>
 _expected date of next election_: 2029<br>
@@ -679,7 +679,7 @@ Algerian Space Agency (Agence Spatiale Alg&eacute;rienne, ASAL; established 2002
 none; note - in 1947, Algeria began hosting a French military rocket test site, which was the continent of Africa's first rocket launch site; it was called the Centre Interarm&eacute;es d&rsquo;Essais d&rsquo;Engins Sp&eacute;ciaux (CIEES or Interarmy Special Vehicles Test Center) and was in service until 1967<br>
 
 **Space program overview**<br>
-has a national space policy and a national space research program with stated goals of supporting internal development, managing resource usage, mastering space technology, and reinforcing national sovereignty; builds and operates communications and remote sensing (RS) satellites; researching and developing a range of space-related capabilities, including satellites and satellite payloads, communications, RS, instrumentation, satellite image processing, and geo-spatial information; has bilateral relationships with a variety of foreign space agencies and industries, including those of Argentina, China, France, Germany, India, Russia, Ukraine, and the UK; also a member of the Arab Space Coordination Group, established by the UAE in 2019 (2024)<br>
+has a national space policy and space research program with stated goals of supporting internal development, managing resources, mastering space technology, and reinforcing national sovereignty; builds and operates communications and remote sensing (RS) satellites; researching and developing a range of space-related capabilities, including satellites and satellite payloads, communications, RS, instrumentation, satellite image processing, and geo-spatial information; has bilateral relationships with a variety of foreign space agencies and industries, including those of Argentina, China, France, Germany, India, Russia, Ukraine, and the UK; also a member of the Arab Space Coordination Group (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

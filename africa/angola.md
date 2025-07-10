@@ -324,7 +324,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Joao Manuel Goncalves LOURENCO (since 26 September 2017)<br>
 _head of government_: President Joao Manuel Goncalves LOURENCO<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term)<br>
+_election/appointment process_: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term)<br>
 _most recent election date_: 24 August 2022<br>
 _election results_: Joao Manuel Goncalves LOURENCO (MPLA) elected president by then winning party following the 24 August 2022 general election<br>
 _expected date of next election_: 2027<br>
@@ -677,7 +677,7 @@ the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed b
 National Space Program Office (Gabinete de Gest&atilde;o do Programa Espacial Nacional, GGPEN; established 2013) (2024)<br>
 
 **Space program overview**<br>
-has a national space strategy with a focus on capacity building, developing space infrastructure, investing in domestic space sector, supporting socioeconomic growth, and establishing cooperation agreements with foreign technical and scientific institutions in the space industry; contracts with foreign companies to build and launch satellites; operates satellites; cooperates with a variety of foreign space agencies and industries, including those of France, Russia, and the US (2024)<br>
+has a national space strategy with a focus on capacity-building, developing space infrastructure, investing in domestic space sector, supporting socioeconomic growth, and establishing cooperation agreements with foreign technical and scientific institutions in the space industry; contracts with foreign companies to build and launch satellites; operates satellites; cooperates with a variety of foreign space agencies and industries, including those of France, Russia, and the US (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues

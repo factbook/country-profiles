@@ -331,7 +331,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: King WILLEM-ALEXANDER (since 30 April 2013)<br>
 _head of government_: Caretaker Prime Minister Dick SCHOOF (since 3 June 2025)<br>
 _cabinet_: Council of Ministers appointed by the monarch<br>
-_elections/appointments_: the monarchy is hereditary; following Second Chamber elections, the monarch usually appoints the leader of the majority party or majority coalition as prime minister; deputy prime ministers are also appointed by the monarch<br>
+_election/appointment process_: the monarchy is hereditary; following Second Chamber elections, the monarch usually appoints the leader of the majority party or majority coalition as prime minister; deputy prime ministers are also appointed by the monarch<br>
 <strong>note:</strong> Prime Minister Dick SCHOOF resigned on 3 June 2025 after a party withdrew from his governing coalition, but he will continue in a caretaker capacity until new elections are held, probably in the fall of 2025<br>
 
 **Legislative branch**<br>
@@ -347,7 +347,7 @@ _term in office_: 4 years<br>
 _most recent election date_: 11/22/2023<br>
 _parties elected and seats per party_: Party for Freedom (PVV) (37); Labour Party (PvdA) (25); People's Party for Freedom and Democracy (VVD) (24); New Social Contract (NSC) (20); Democrats 66 (D66) (9); Other (35)<br>
 _percentage of women in chamber_: 39.3%<br>
-_expected date of next election_: November 2027<br>
+_expected date of next election_: October 2025<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate (Eerste Kamer der Staten-Generaal)<br>

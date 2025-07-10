@@ -269,7 +269,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: Prince ALBERT II (since 6 April 2005)<br>
 _head of government_: Acting Minister of State Isabelle BERRO-AMADEI (since 10 January 2025)<br>
 _cabinet_: Council of Government under the authority of the monarch<br>
-_elections/appointments_: the monarchy is hereditary; minister of state appointed by the monarch from a list of three French national candidates presented by the French Government<br>
+_election/appointment process_: the monarchy is hereditary; minister of state appointed by the monarch from a list of three French national candidates presented by the French Government<br>
 
 **Legislative branch**<br>
 _legislature name_: National Council (Conseil national)<br>

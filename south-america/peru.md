@@ -343,7 +343,7 @@ _residency requirement for naturalization_: 2 years<br>
 _chief of state_: President Dina Ercilia BOLUARTE Zegarra (since 7 December 2022)<br>
 _head of government_: President Dina Ercilia BOLUARTE Zegarra (since 7 December 2022)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for nonconsecutive terms)<br>
+_election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for nonconsecutive terms)<br>
 _most recent election date_: 11 April 2021, with a runoff on 6 June 2021<br>
 _election results_: <br><em>2021: </em>Jose Pedro CASTILLO Terrones elected president in second round; percent of vote in first round - Jose Pedro CASTILLO Terrones (PL) 18.9%, Keiko Sofia FUJIMORI Higuchi (FP) 13.4%, Rafael LOPEZ ALIAGA Cazorla (RP) 11.8%, Hernando DE SOTO Polar (Social Integration Party) 11.6%, Yonhy LESCANO Ancieta (AP) 9.1%, Veronika MENDOZA Frisch (JP) 7.9%, Cesar ACUNA Peralta (APP) 6%, George FORSYTH Sommer (VN) 5.7%, Daniel Belizario URRESTI Elera (PP) 5.6%, other 10%; percent of vote second round - Jose Pedro CASTILLO Terrones 50.1%, Keiko Sofia FUJIMORI Higuchi 49.9%<br><br><em>2016:</em> Pedro Pablo KUCZYNSKI Godard elected president in second round; percent of vote in first round - Keiko FUJIMORI Higuchi (FP) 39.9%, Pedro Pablo KUCZYNSKI Godard (PPK) 21.1%, Veronika MENDOZA (FA) 18.7%, Alfredo BARNECHEA (AP) 7%, Alan GARCIA (APRA) 5.8%, other 7.5%; percent of vote in second round - Pedro Pablo KUCZYNSKI Godard 50.1%, Keiko FUJIMORI Higuchi 49.9%<br>
 _expected date of next election_: 12 April 2026<br>

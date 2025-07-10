@@ -328,7 +328,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Emmerson Dambudzo MNANGAGWA (since 4 September 2023)<br>
 _head of government_: Vice President Constantino CHIWENGA (since 11 September 2023)<br>
 _cabinet_: Cabinet appointed by president, responsible to National Assembly<br>
-_elections/appointments_: each presidential candidate nominated with a nomination paper signed by at least 10 registered voters (at least 1 candidate from each province) and directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (no term limits); co-vice presidents drawn from party leadership<br>
+_election/appointment process_: each presidential candidate nominated with a nomination paper signed by at least 10 registered voters (at least 1 candidate from each province) and directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (no term limits); co-vice presidents drawn from party leadership<br>
 _most recent election date_: 23 August 2023<br>
 _election results_: <em><br>2023: </em>Emmerson MNANGAGWA reelected president in first round; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 52.6%, Nelson CHAMISA (MDC-T) 44%, Wilbert MUBAIWA (NPC) 1.2%, other 2.2%<br><em><br>2018:</em> Emmerson MNANGAGWA elected president in first round; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 50.7%, Nelson CHAMISA (MDC-T) 44.4%, Thokozani KHUPE (MDC-N) 0.9%, other 4%<br>
 _expected date of next election_: 2028<br>

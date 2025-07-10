@@ -322,7 +322,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Jean-Lucien Kwassi Savi de TOVE (since 3 May 2025)<br>
 _head of government_: President of Council of Ministers Faure GNASSINGBE (since 3 May 2025)<br>
 _cabinet_: Council of Ministers appointed by the president on the advice of the president of the council of ministers<br>
-_elections/appointments_: president is appointed by the national assembly for one six-year term; the president of the council of ministers is the leader of the majority party in the national assembly and is confirmed by the Constitutional Court with no term limits<br>
+_election/appointment process_: president is appointed by the national assembly for one six-year term; the president of the council of ministers is the leader of the majority party in the national assembly and is confirmed by the Constitutional Court with no term limits<br>
 _election results_: <br><em>2020:</em> Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 70.8%, Agbeyome KODJO (MPDD) 19.5%, Jean-Pierre FABRE (ANC) 4.7%, other 5%<br><br><em>2015:</em> Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 58.8%, Jean-Pierre FABRE (ANC) 35.2%, Tchaboure GOGUE (ADDI) 4%, other 2%<br>
 <strong>note:</strong> in May 2024, the President signed into law changes to the constitution that converted the presidential system to a parliamentary republic and created the President of Council of Ministers position<br>
 

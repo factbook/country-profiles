@@ -255,7 +255,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President LAI Ching-te (since 20 May 2024)<br>
 _head of government_: Premier CHO Jung-tai (President of the Executive Yuan) (since 20 May 2024)<br>
 _cabinet_: Executive Yuan; ministers appointed by president on recommendation of premier<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by simple-majority popular vote for a 4-year term (eligible for a second term); premier appointed by the president; vice premiers appointed by the president on the recommendation of the premier<br>
+_election/appointment process_: president and vice president directly elected on the same ballot by simple-majority popular vote for a 4-year term (eligible for a second term); premier appointed by the president; vice premiers appointed by the president on the recommendation of the premier<br>
 _most recent election date_: 13 January 2024<br>
 _election results_: <em><em><br>2024:</em></em> LAI Ching-te elected president; percent of vote<em><em> - </em></em>LAI Ching-te (DPP) 40.1%, HOU Yu-ih (KMT) 33.5%, KO Wen-je (TPP) 26.5%)<em><br><br>2020: </em>TSAI Ing-wen reelected president; percent of vote - TSAI Ing-wen (DPP) 57.1%, HAN Kuo-yu (KMT) 38.6%, James SOONG (PFP) 4.3%<br><em><br><br></em><br>
 _expected date of next election_: 2028<br>

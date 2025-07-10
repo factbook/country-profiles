@@ -337,7 +337,7 @@ _residency requirement for naturalization_: 4 out of the previous 7 years and in
 _chief of state_: President Asif Ali ZARDARI (since 10 March 2024)<br>
 _head of government_: Prime Minister Shahbaz SHARIF (since 3 March 2024)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
-_elections/appointments_: president indirectly elected for a 5-year term (limited to 2 consecutive terms) by the Electoral College, which consists of members of the Senate, National Assembly, and provincial assemblies<br>
+_election/appointment process_: president indirectly elected for a 5-year term (limited to 2 consecutive terms) by the Electoral College, which consists of members of the Senate, National Assembly, and provincial assemblies<br>
 _most recent election date_: 9 March 2024<br>
 _election results_: <em><br>2024:</em> Asif Ali ZARDARI elected president; National Assembly vote - Asif Ali ZARDARI (PPP) 411 votes, Mehmood Khan ACHAKZALI (PMAP) 181 votes; Shahbaz SHARIF elected prime minister; National Assembly vote - Shahbaz SHARIF (PML-N) 201, Omar AYUB (PTI) 92<br><br><em>2018:</em> Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96<br>
 _expected date of next election_: 2029<br>

@@ -328,7 +328,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Luong CUONG (since 21 Oct 2024)<br>
 _head of government_: Prime Minister Pham Minh CHINH (since 26 July 2021)<br>
 _cabinet_: Cabinet proposed by the prime minister, confirmed by the National Assembly, and appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Assembly from among its members for a single 5-year term; prime minister recommended by the president and confirmed by the National Assembly; deputy prime ministers appointed by the president and confirmed by the National Assembly<br>
+_election/appointment process_: president indirectly elected by the National Assembly from among its members for a single 5-year term; prime minister recommended by the president and confirmed by the National Assembly; deputy prime ministers appointed by the president and confirmed by the National Assembly<br>
 <strong>note: </strong>in August 2024, To LAM was elected general secretary of the Central Committee of the Communist Party of Vietnam, the country’s most powerful position<br>
 
 **Legislative branch**<br>

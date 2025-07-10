@@ -297,7 +297,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi II (since 21 July 2017)<br>
 _head of government_: Prime Minister FIAME Naomi Mata&rsquo;afa (since 24 May 2021)<br>
 _cabinet_: Cabinet appointed by the chief of state on the advice of the prime minister<br>
-_elections/appointments_: chief of state indirectly elected by the Legislative Assembly to serve a 5-year term (2-term limit); following legislative elections, the chief of state usually appoints the leader of the majority party as prime minister, with the approval of the Legislative Assembly<br>
+_election/appointment process_: chief of state indirectly elected by the Legislative Assembly to serve a 5-year term (2-term limit); following legislative elections, the chief of state usually appoints the leader of the majority party as prime minister, with the approval of the Legislative Assembly<br>
 _most recent election date_: 23 August 2022<br>
 _election results_: TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi II (independent) unanimously reelected by the Legislative Assembly<br>
 _expected date of next election_: 2026<br>
@@ -312,7 +312,7 @@ _term in office_: 5 years<br>
 _most recent election date_: 4/9/2021 to 11/26/2021<br>
 _parties elected and seats per party_: Faatuatua ile Atua Samoa ua Tasi (FAST) (32); Human Rights Protection Party (HRPP) (22)<br>
 _percentage of women in chamber_: 13%<br>
-_expected date of next election_: March 2026<br>
+_expected date of next election_: August 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and 2 Supreme Court judges and meets once or twice a year); Supreme Court (consists of the chief justice and several judges)<br>

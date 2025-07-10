@@ -253,7 +253,7 @@ see France<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017), represented by High Commissioner of the Republic Eric SPITZ (since 23 September 2022)<br>
 _head of government_: President of French Polynesia Moetai BROTHERSON (since 12 May 2023)<br>
 _cabinet_: Council of Ministers approved by the Assembly from a list of its members submitted by the president<br>
-_elections/appointments_: French president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; French Polynesia president indirectly elected by Assembly of French Polynesia for a 5-year term (no term limits)<br>
+_election/appointment process_: French president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; French Polynesia president indirectly elected by Assembly of French Polynesia for a 5-year term (no term limits)<br>
 
 **Legislative branch**<br>
 _legislature name_: Assembly of French Polynesia (Assembl&eacute;e de la Polyn&eacute;sie fran&ccedil;aise)<br>

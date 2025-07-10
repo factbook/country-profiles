@@ -321,7 +321,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: King LETSIE III (since 7 February 1996)<br>
 _head of government_: Prime Minister Ntsokoane Samuel MATEKANE (28 October 2022)<br>
 _cabinet_: consists of the prime minister (appointed by the King on the advice of the Council of State), the deputy prime minister, and 18 other ministers; the prime minister is the leader of the majority party or majority coalition in the National Assembly<br>
-_elections/appointments_: the monarchy is hereditary but has no executive or legislative powers under the constitution; under traditional law, the College of Chiefs has the power to depose the monarch, determine next in line of succession, or serve as regent in the event that a successor is not of mature age<br>
+_election/appointment process_: the monarchy is hereditary but has no executive or legislative powers under the constitution; under traditional law, the College of Chiefs has the power to depose the monarch, determine next in line of succession, or serve as regent in the event that a successor is not of mature age<br>
 <strong>note:</strong> King LETSIE III previously occupied the throne from November 1990 to February 1995 while his father was in exile<br>
 
 **Legislative branch**<br>

@@ -327,7 +327,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Volodymyr ZELENSKYY (since 20 May 2019)<br>
 _head of government_: Prime Minister Denys SHMYHAL (since 4 March 2020)<br>
 _cabinet_: Cabinet of Ministers nominated by the prime minister, approved by the Verkhovna Rada<br>
-_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister selected by the Verkhovna Rada<br>
+_election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister selected by the Verkhovna Rada<br>
 _most recent election date_: 31 March and 21 April 2019<br>
 _election results_: <em><br>2019:</em> Volodymyr ZELENSKYY elected president in second round; percent of vote in first round - Volodymyr ZELENSKYY (Servant of the People) 30.2%, Petro POROSHENKO (BPP-Solidarity) 15.6%, Yuliya TYMOSHENKO (Fatherland) 13.4%, Yuriy BOYKO (Opposition Platform-For Life) 11.7%, 35 other candidates 29.1%; percent of vote in the second round - Volodymyr ZELENSKYY 73.2%, Petro POROSHENKO 24.5%, other 2.3%; Denys SHMYHAL (independent) elected prime minister; Verkhovna Rada vote - 291-59<br><br><em>2014: </em>Petro POROSHENKO elected president in first round; percent of vote - Petro POROSHENKO (independent) 54.5%, Yuliya TYMOSHENKO (Fatherland) 12.9%, Oleh LYASHKO (Radical Party) 8.4%, other 24.2%; Volodymyr HROYSMAN (BPP) elected prime minister; Verkhovna Rada vote - 257-50<br>
 _expected date of next election_: scheduled for March/April 2024, but not held because Ukraine has been under martial law since February 2022<br>

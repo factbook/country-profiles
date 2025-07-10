@@ -249,7 +249,7 @@ see United Kingdom<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Daniel PRUCE (since 29 January 2024)<br>
 _head of government_: Premier Dr. Natalio WHEATLEY (since 5 May 2022)<br>
 _cabinet_: Executive Council appointed by the governor from members of the House of Assembly<br>
-_elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the governor usually appoints the leader of the majority party or majority coalition as premier&nbsp;<br>
+_election/appointment process_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the governor usually appoints the leader of the majority party or majority coalition as premier&nbsp;<br>
 <strong>note:</strong> on 5 May 2022, Premier Andrew FAHIE was removed from office by a no-confidence vote in the House of Assembly after his arrest on drug-trafficking and money-laundering charges; Premier Dr. Natalio WHEATLEY was sworn in as premier on 5 May 2022<br>
 
 **Legislative branch**<br>

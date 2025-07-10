@@ -321,7 +321,7 @@ _residency requirement for naturalization_: 5 years with no absences of six cons
 _chief of state_: President Bernardo AR&Eacute;VALO de Le&oacute;n (since 15 January 2024)<br>
 _head of government_: President Bernardo AR&Eacute;VALO de Le&oacute;n (since 15 January 2024)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by absolute-majority popular vote in 2 rounds, if needed, for a 4-year term (not eligible for consecutive terms)<br>
+_election/appointment process_: president and vice president directly elected on the same ballot by absolute-majority popular vote in 2 rounds, if needed, for a 4-year term (not eligible for consecutive terms)<br>
 _most recent election date_: 25 June 2023, with a runoff on 20 August 2023<br>
 _election results_: <em><br>2023:</em> Bernardo ARÉVALO de León elected president in second round; percent of vote in first round - Sandra TORRES (UNE) 21%; Bernardo ARÉVALO de León (SEMILLA) 15.6%, Manuel CONDE Orellana (VAMOS) 10.4%; Armando CASTILLO Alvarado (VIVA) 9.6%, other 43.4%; percent of vote in second round - Bernardo ARÉVALO de León 60.9%, Sandra TORRES 39.1%<br><em><br>2019:</em> Alejandro GIAMMATTEI elected president; percent of vote in first round - Sandra TORRES (UNE) 25.5%, Alejandro GIAMMATTEI (VAMOS) 14%, Edmond MULET (PHG) 11.2%, Thelma CABRERA (MLP) 10.4%, Roberto ARZU (PAN-PODEMOS) 6.1%, other 32.8%; percent of vote in second round - Alejandro GIAMMATTEI 58%, Sandra TORRES 42%<br>
 _expected date of next election_: June 2027<br>

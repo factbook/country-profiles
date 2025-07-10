@@ -313,7 +313,7 @@ _residency requirement for naturalization_: 10 years; reduced to five years in t
 _chief of state_: Notification Statement: the United States does not recognize Nicolas MADURO Moros as president of Venezuela<br><br>President Nicolas MADURO Moros (since 19 April 2013)<br>
 _head of government_: President Nicolas MADURO Moros (since 19 April 2013)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by simple-majority popular vote for a 6-year term (no term limits)<br>
+_election/appointment process_: president directly elected by simple-majority popular vote for a 6-year term (no term limits)<br>
 _most recent election date_: 28 July 2024<br>
 _election results_: <em><br>2024:</em> official results disputed; Nicolas MADURO Moros was declared the winner by the MADURO-controlled National Electoral Council; percent of vote - Nicolas MADURO Moros (PSUV) 52%, Edmundo GONZÁLEZ Urrutia (Independent) 43.2%, Luis Eduardo MARTÍNEZ (AD) 1.2%, other 3.6%<br><br><em>2018: </em>Nicolas MADURO Moros reelected president; percent of vote - Nicolas MADURO Moros (PSUV) 67.9%, Henri FALCON (AP) 20.9%, Javier BERTUCCI 10.8%<br>
 _expected date of next election_: 2030<br>
@@ -340,7 +340,7 @@ _subordinate courts_: Superior or Appeals Courts (Tribunales Superiores); Distri
 <p>A New Era (Un Nuevo Tiempo) or UNT<br>Cambiemos Movimiento Ciudadano or CMC<br>Christian Democrats or COPEI (also known as the Social Christian Party)<br>Citizens Encounter or EC<br>Clear Accounts or CC<br>Coalition of parties loyal to Nicolas MADURO - Great Patriotic Pole or GPP<br>Coalition of opposition parties - Democratic Alliance (Alianza Democratica) (includes AD, EL CAMBIO, COPEI, CMC, and AP)<br>Come Venezuela (Vente Venezuela) or VV<br>Communist Party of Venezuela or PCV<br>Consenso en la Zona or Conenzo<br>Convergencia<br>Democratic Action or AD<br>Fatherland for All (Patria para Todos) or PPT<br>Fearless People's Alliance or ABP<br>Fuerza Vecinal or FV<br>Hope for Change (Esperanza por el Cambio) or EL CAMBIO<br>Justice First (Primero Justicia) or PJ<br>LAPIZ<br>Movement to Socialism (Movimiento al Socialismo) or MAS<br>Popular Will (Voluntad Popular) or VP<br>Progressive Advance (Avanzada Progresista) or AP<br>The Radical Cause or La Causa R<br>United Socialist Party of Venezuela or PSUV<br>Venezuela First (Primero Venezuela) or PV<br>Venezuelan Progressive Movement or MPV<br>Venezuela Project or PV</p><br>
 
 **Diplomatic representation in the US**<br>
-none<br><br><strong>Note</strong>:  the embassy, which had been run by the Venezuelan political opposition, announced on 5 January 2023, that it had ended all embassy functions<br>
+none<br><br><strong>note</strong>: the embassy, which had been run by the Venezuelan political opposition, announced on 5 January 2023, that it had ended all embassy functions<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires John McNAMARA (since 1 February 2025); note - serves as the chief of mission of the Venezuela Affairs Unit, located in the US Embassy, Bogota<br>

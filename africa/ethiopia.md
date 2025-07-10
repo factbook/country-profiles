@@ -341,7 +341,7 @@ _residency requirement for naturalization_: 4 years<br>
 _chief of state_: President TAYE Atske Selassie (since 7 October 2024)<br>
 _head of government_: Prime Minister ABIY Ahmed Ali (since April 2018)<br>
 _cabinet_: Council of Ministers selected by the prime minister and approved by the House of People's Representatives<br>
-_elections/appointments_: president indirectly elected by both chambers of Parliament for a 6-year term (eligible for a second term); prime minister designated by the majority party following legislative elections<br>
+_election/appointment process_: president indirectly elected by both chambers of Parliament for a 6-year term (eligible for a second term); prime minister designated by the majority party following legislative elections<br>
 _most recent election date_: 21 June 2021 and 30 September 2021 (scheduled 29 August 2020 election was postponed due to the COVID-19 pandemic)<br>
 _election results_: <em><br>2021:</em> SAHLE-WORK Zewde reelected president during joint session of Parliament, vote - 659 (unanimous); ABIY confirmed Prime Minister by House of Peoples' Representatives (4 October 2021)<br><br><em>2018:</em> SAHLE-WORK Zewde elected president during joint session of Parliament, vote - 659 (unanimous); snap election held on 25 October 2018 due to resignation of President MULATA Teshome<br>
 
@@ -703,7 +703,7 @@ the Ethiopian National Defense Force (ENDF) is focused on both external threats 
 Ethiopian Space Science and Geospatial Institute (ESSGI; formed in 2022 from the joining of the Ethiopian Space Science and Technology Institute or ESSTI and the Ethiopian Geospatial Information Institute or EGII) (2024)<br>
 
 **Space program overview**<br>
-has a small space program with a focus on acquiring and operating satellites, as well as research and astronomy; jointly builds satellites with foreign partners and operates and exploits remote sensing (RS) satellites; developing the ability to manufacture satellites and their associated payloads; involved in astronomy and in the construction of space observatories; cooperates on space-related issues with a variety of countries, including China, France, India, Russia, and multiple African countries, particularly Kenya, Rwanda, Sudan, Tanzania, and Uganda; shares RS data with neighboring countries (2024)<br>
+has a small space program to acquire and operate satellites, as well as conduct research; jointly builds satellites with foreign partners and operates and exploits remote sensing (RS) satellites; developing the ability to manufacture satellites and their associated payloads; involved in astronomy and in the construction of space observatories; cooperates on space-related issues with a variety of countries, including China, France, India, Russia, and multiple African countries, particularly Kenya, Rwanda, Sudan, Tanzania, and Uganda; shares RS data with neighboring countries (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

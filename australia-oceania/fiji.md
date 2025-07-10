@@ -307,7 +307,7 @@ _residency requirement for naturalization_: at least 5 years residency out of th
 _chief of state_: President Ratu Naiqama LALABALAVU (since 12 November 2024)<br>
 _head of government_: Prime Minister Sitiveni Ligamamada RABUKA (since 24 December 2022)<br>
 _cabinet_: Cabinet appointed by the prime minister from among members of Parliament and is responsible to Parliament<br>
-_elections/appointments_: president elected by Parliament for a 3-year term (eligible for a second term); prime minister endorsed by the president<br>
+_election/appointment process_: president elected by Parliament for a 3-year term (eligible for a second term); prime minister endorsed by the president<br>
 _most recent election date_: 31 October 2024<br>
 _election results_: <em><br>2024: </em>Ratu Naiqama LALABALAVU elected president (People's Alliance) 35 votes, Meli Tora TAVAIQIA (Fiji First) 14 votes<em><br><br>2021:</em> Ratu Wiliame KATONIVERE elected president; Wiliame KATONIVERE (People's Alliance) 28 votes, Teimumu KEPA (SODELPA) 23 votes<br>
 _expected date of next election_: 2027<br>

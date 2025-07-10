@@ -203,7 +203,7 @@ see United Kingdom<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Alison BLAKE (since 23 July 2022)<br>
 _head of government_: Chief Executive Andy KEELING (since April 2021)<br>
 _cabinet_: Executive Council elected by the Legislative Council<br>
-_elections/appointments_: the monarchy is hereditary; monarch appoints the governor, who appoints the chief executive<br>
+_election/appointment process_: the monarchy is hereditary; monarch appoints the governor, who appoints the chief executive<br>
 
 **Legislative branch**<br>
 _legislature name_: Legislative Assembly<br>

@@ -293,7 +293,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Hilda C. HEINE (since 3 January 2023)<br>
 _head of government_: President Hilda C. HEINE (since 3 January 2023)<br>
 _cabinet_: Cabinet nominated by the president from among members of the Nitijela, appointed by Nitijela speaker<br>
-_elections/appointments_: president indirectly elected by the Nitijela from among its members for a 4-year term (no term limits)<br>
+_election/appointment process_: president indirectly elected by the Nitijela from among its members for a 4-year term (no term limits)<br>
 _most recent election date_: 2 January 2023<br>
 _election results_: <em><br>2023: </em>Hilda C. HEINE elected president; National Parliament vote - Hilda C. HEINE (independent) 17, David KABUA (independent) 16<br><br><em>2020: </em>David KABUA elected president; National Parliament vote - David KABUA (independent) 20, Hilda C. HEINE (independent) 12<br>
 _expected date of next election_: 2027<br>

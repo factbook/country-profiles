@@ -332,7 +332,7 @@ _residency requirement for naturalization_: 5 year<br>
 _chief of state_: President Matamela Cyril RAMAPHOSA (since 19 June 2024)<br>
 _head of government_: President Matamela Cyril RAMAPHOSA (since 19 June 2024)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term)<br>
+_election/appointment process_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term)<br>
 _most recent election date_: 29 May 2024<br>
 _election results_: <br><em>2024: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<em><br><br>2019: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<br>
 _expected date of next election_: May 2029<br>
@@ -349,7 +349,7 @@ _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 5/29/2024<br>
-_percentage of women in chamber_: 44.7%<br>
+_percentage of women in chamber_: 44.5%<br>
 _expected date of next election_: May 2029<br>
 
 **Legislative branch - upper chamber**<br>

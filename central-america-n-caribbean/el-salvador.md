@@ -310,7 +310,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Nayib Armando BUKELE Ortez (since 1 June 2019)<br>
 _head of government_: President Nayib Armando BUKELE Ortez (since 1 June 2019)<br>
 _cabinet_: Council of Ministers selected by the president<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by absolute-majority popular vote in 2 rounds, if needed, for a single 5-year term<br>
+_election/appointment process_: president and vice president directly elected on the same ballot by absolute-majority popular vote in 2 rounds, if needed, for a single 5-year term<br>
 _most recent election date_: 4 February 2024<br>
 _election results_: <em><br>2024:</em> Nayib Armando BUKELE Ortez reelected president - Nayib Armando BUKELE Ortez (Nuevas Ideas) 84.7%, Manuel FLORES (FMLN) 6.4%, Joel SANCHEZ (ARENA) 5.6%, Luis PARADA (NT) 2%, other 1.3%<br><br><em>2019:</em> Nayib Armando BUKELE Ortez elected president - Nayib Armando BUKELE Ortez (GANA) 53.1%, Carlos CALLEJA Hakker (ARENA) 31.7%, Hugo MARTINEZ (FMLN) 14.4%, other 0.8%<br>
 _expected date of next election_: 2029<br>

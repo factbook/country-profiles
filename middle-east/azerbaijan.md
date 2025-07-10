@@ -318,7 +318,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Ilham ALIYEV (since 31 October 2003)<br>
 _head of government_: Prime Minister Ali ASADOV (since 8 October 2019)<br>
 _cabinet_: Council of Ministers appointed by the president and confirmed by the National Assembly<br>
-_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds (if needed) for a 7-year term; a single individual is eligible for unlimited terms; prime minister and first deputy prime minister appointed by the president and confirmed by the National Assembly<br>
+_election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds (if needed) for a 7-year term; a single individual is eligible for unlimited terms; prime minister and first deputy prime minister appointed by the president and confirmed by the National Assembly<br>
 _most recent election date_: 7 February 2024<br>
 _election results_: <em><br>2024: </em>Ilham ALIYEV reelected president; percent of vote - Ilham ALIYEV (YAP) 92.1%, Zahid ORUJ (independent) 2.2%<em>; </em>on 16 February 2024, Ali ASADOV reappointed prime minister by parliamentary vote, 105-1<em><br><br>2018:</em> Ilham ALIYEV reelected president in first round; percent of vote - Ilham ALIYEV (YAP) 86%, Zahid ORUJ (independent) 3.1%, other 10.9%<br>
 _expected date of next election_: 2031<br>
@@ -656,7 +656,7 @@ the Azerbaijani military was established in 1991, although its origins go back t
 Azerbaijan National Aerospace Agency (NASA; Azərbaycan Milli Aerokosmik Agentliyi, MAKA; established in 1992 from the Kaspiy Scientific Center, established 1974); Space Agency of the Republic of Azerbaijan (Azercosmos; established 2010 as a state-owned satellite operating company) (2024)<br>
 
 **Space program overview**<br>
-national space program largely focused on the acquisition and operation of satellites; operates foreign-built communications and remote sensing (RS) satellites; has two satellite ground control stations; cooperates with a variety of foreign space agencies and commercial entities, including those of China, the European Space Agency (and individual member states such as France), Israel, Russia, Turkey, and the US; Azercosmos is the largest satellite operator in the Caucasus region (2024)<br>
+national space program largely focused on the acquisition and operation of satellites; operates foreign-built communications and remote sensing (RS) satellites; has two satellite ground-control stations; cooperates with a variety of foreign space agencies and commercial entities, including those of China, the European Space Agency (and individual member states such as France), Israel, Russia, Turkey, and the US; Azercosmos is the largest satellite operator in the Caucasus region (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

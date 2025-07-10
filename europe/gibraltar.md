@@ -236,7 +236,7 @@ see United Kingdom<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Sir David STEEL (since 11 June 2020)<br>
 _head of government_: Chief Minister Fabian PICARDO (since 9 December 2011)<br>
 _cabinet_: Council of Ministers appointed from among the 17 elected members of Parliament by the governor, in consultation with the chief minister<br>
-_elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the governor usually appoints the leader of the majority party or majority coalition as chief minister<br>
+_election/appointment process_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the governor usually appoints the leader of the majority party or majority coalition as chief minister<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>

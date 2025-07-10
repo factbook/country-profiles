@@ -310,7 +310,7 @@ _residency requirement for naturalization_: 25 years; 15 years for Arab national
 _chief of state_: King HAMAD bin Isa Al-Khalifa (since 6 March 1999)<br>
 _head of government_: Prime Minister Crown Prince SALMAN bin Hamad Al-Khalifa (since 11 November 2020)<br>
 _cabinet_: Cabinet appointed by the monarch<br>
-_elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch<br>
+_election/appointment process_: the monarchy is hereditary; prime minister appointed by the monarch<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Al-Majlis Al-Watani)<br>
@@ -650,7 +650,7 @@ the military's inventory consists of a mix of equipment acquired from a wide var
 Bahrain National Space Science Agency (NSSA; established 2014) (2024)<br>
 
 **Space program overview**<br>
-space program in nascent stages and is focused on developing the capabilities to build and operate satellites; the NSSA’s mission includes promoting space science, technology, and research, building capacity in the fields of satellite manufacturing, tracking, control, data processing and analysis, and remote sensing, developing space-related programs and space policy, and facilitating international cooperation; cooperates with a variety of foreign agencies and commercial entities, including those of India, Italy, Japan, Saudi Arabia, the UK, the UAE, and the US; also a member of the Arab Space Coordination Group, established by the UAE in 2019 (2024)<br>
+has a space program in nascent stages and is developing the capabilities to build and operate satellites; the mission includes 1.) promoting space science, technology, and research, 2.) building capacity in the fields of satellite manufacturing, tracking, control, data processing and analysis, and remote sensing, 3.) developing space-related programs and space policy, and 4.) facilitating international cooperation; cooperates with a variety of foreign agencies and commercial entities, including those of India, Italy, Japan, Saudi Arabia, the UK, the UAE, and the US; also a member of the Arab Space Coordination Group (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

@@ -334,7 +334,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Paul BIYA (since 6 November 1982)<br>
 _head of government_: Prime Minister Joseph NGUTE (since 4 January 2019)<br>
 _cabinet_: Cabinet proposed by the prime minister, appointed by the president<br>
-_elections/appointments_: president directly elected by simple-majority popular vote for a 7-year term (no term limits); prime minister appointed by the president<br>
+_election/appointment process_: president directly elected by simple-majority popular vote for a 7-year term (no term limits); prime minister appointed by the president<br>
 _most recent election date_: 7 October 2018<br>
 _election results_: <em><br>2018:</em> Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 71.3%, Maurice KAMTO (MRC) 14.2%, Cabral LIBII (Univers) 6.3%, other 8.2%<br><br><em>2011: </em>Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 78.0%, John FRU NDI (SDF) 10.7%, Garga Haman ADJI 3.2%, other 8.1% (2018)<br>
 _expected date of next election_: October 2025<br>
@@ -352,7 +352,7 @@ _term in office_: 5 years<br>
 _most recent election date_: 2/9/2020 to 3/22/2020<br>
 _parties elected and seats per party_: Cameroon People's Democratic Movement (RDPC/CPDM) (152); Other (28)<br>
 _percentage of women in chamber_: 33.9%<br>
-_expected date of next election_: March 2026<br>
+_expected date of next election_: February 2026<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate (Sénat - Senate)<br>

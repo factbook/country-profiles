@@ -329,7 +329,7 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: King Norodom SIHAMONI (since 29 October 2004)<br>
 _head of government_: Prime Minister HUN MANET (since 22 August 2023)<br>
 _cabinet_: Council of Ministers named by the prime minister and appointed by the monarch<br>
-_elections/appointments_: monarch chosen by the 9-member Royal Council of the Throne from among all eligible males of royal descent; after legislative elections, a member of the majority party or majority coalition is named prime minister by the Chairman of the National Assembly and appointed by the monarch<br>
+_election/appointment process_: monarch chosen by the 9-member Royal Council of the Throne from among all eligible males of royal descent; after legislative elections, a member of the majority party or majority coalition is named prime minister by the Chairman of the National Assembly and appointed by the monarch<br>
 <strong>note: </strong> MANET succeeded his father, HUN SEN, who had been prime minister since 1985<br>
 
 **Legislative branch**<br>

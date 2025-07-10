@@ -312,7 +312,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Julius Maada BIO (since 27 June 2023)<br>
 _head of government_: President Julius Maada BIO (since 27 June 2023)<br>
 _cabinet_: Ministers of State appointed by the president, approved by Parliament; the cabinet is responsible to the president<br>
-_elections/appointments_: president directly elected by 55% in the first round or absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br>
+_election/appointment process_: president directly elected by 55% in the first round or absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br>
 _most recent election date_: 24 June 2023<br>
 _election results_: <br><em>2023: </em>Julius Maada BIO reelected president in first round; percent of vote - Julius Maada BIO (SLPP) 56.2%, Samura KAMARA (APC) 41.2%, other 2.6%<br><em><br>2018: </em>Julius Maada BIO elected president in second round; percent of vote - Julius Maada BIO (SLPP) 51.8%, Samura KAMARA (APC) 48.2%<br>
 _expected date of next election_: June 2028<br>

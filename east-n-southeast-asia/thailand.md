@@ -338,9 +338,10 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King WACHIRALONGKON; also spelled Vajiralongkorn (since 1 December 2016)<br>
-_head of government_: Prime Minister PHAETHONGTHAN Chinnawat; also spelled PAETONGTARN Shinawatra (since 18 August 2024)<br>
+_head of government_: Interim Prime Minister PHUMTHAM Wechayachai (since 3 July 2025)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the king; a Privy Council advises the king<br>
-_elections/appointments_: the monarchy is hereditary; prime minister candidate approved by House of Representatives and appointed by the king<br>
+_election/appointment process_: the monarchy is hereditary; prime minister candidate approved by House of Representatives and appointed by the king<br>
+<strong>note:</strong> PHAETHONGTHAN Chinnawat (also spelled PAETONGTARN Shinawatra), Prime Minister since 18 August 2024, was suspended by Thailand's Constitutional Court on 1 July pending an investigation<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Rathhasapha)<br>

@@ -332,7 +332,7 @@ _residency requirement for naturalization_: 4 out of the previous 7 years<br>
 _chief of state_: President William RUTO (since 13 September 2022)<br>
 _head of government_: President William RUTO (since 13 September 2022)<br>
 _cabinet_: Cabinet appointed by the president, subject to confirmation by the National Assembly<br>
-_elections/appointments_: president and deputy president directly elected on the same ballot by majority vote nationwide and at least 25% of the votes cast in at least 24 of the 47 counties; failure to meet these thresholds requires a runoff between the top two candidates<br>
+_election/appointment process_: president and deputy president directly elected on the same ballot by majority vote nationwide and at least 25% of the votes cast in at least 24 of the 47 counties; failure to meet these thresholds requires a runoff between the top two candidates<br>
 _most recent election date_: 9 August 2022<br>
 _election results_: <em><br>2022</em>:  William RUTO elected president in first round; percent of vote - William RUTO (UDA) 50.5%, Raila ODINGA (ODM) 48.9%, other 0.6%<br><em><br>2017</em>:  Uhuru KENYATTA reelected president; percent of vote - Uhuru KENYATTA (JP) 98.3%, Raila ODINGA (ODM) 1%, other 0.7%<br>
 _expected date of next election_: 10 August 2027<br>

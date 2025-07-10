@@ -242,7 +242,7 @@ see United Kingdom<br>
 _chief of state_: Lord of Mann King CHARLES III (since 8 September 2022); represented by Lieutenant Governor Sir John LORIMER (since 29 September 2021)<br>
 _head of government_: Chief Minister Alfred CANNAN (since 12 October 2021)<br>
 _cabinet_: Council of Ministers appointed by the lieutenant governor<br>
-_elections/appointments_: the monarchy is hereditary; lieutenant governor appointed by the monarch; chief minister indirectly elected by the Tynwald for a 5-year term (eligible for second term)<br>
+_election/appointment process_: the monarchy is hereditary; lieutenant governor appointed by the monarch; chief minister indirectly elected by the Tynwald for a 5-year term (eligible for second term)<br>
 _most recent election date_: 23 September 2021<br>
 _election results_: <em><br>2021:</em> Alfred CANNAN (independent) elected chief minister; Tynwald House of Keys vote - 21 of 24<br><br><em>2016:</em> Howard QUAYLE elected chief minister; Tynwald House of Keys vote - 21 of 33<br>
 _expected date of next election_: 2026<br>

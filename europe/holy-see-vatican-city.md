@@ -165,7 +165,7 @@ election of the pope is limited to cardinals less than 80 years old<br>
 _chief of state_: Pope LEO XIV (since 8 May 2025)<br>
 _head of government_: President of the Pontifical Commission for the State of Vatican City and President of the Governorate of the Vatican City State Fernando VERGEZ ALZAGA (since 1 October 2021)<br>
 _cabinet_: Pontifical Commission for the State of Vatican City appointed by the pope<br>
-_elections/appointments_: pope elected by the College of Cardinals, usually for life or until voluntary resignation; Secretary of State appointed by the pope<br>
+_election/appointment process_: pope elected by the College of Cardinals, usually for life or until voluntary resignation; Secretary of State appointed by the pope<br>
 _election results_: <em>2025: </em>Robert PREVOST elected Pope LEO XIV<em><br><br></em><br>
 
 **Legislative branch**<br>

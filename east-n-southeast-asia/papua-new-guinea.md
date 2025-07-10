@@ -321,7 +321,7 @@ _residency requirement for naturalization_: 8 years<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Grand Chief Sir Bob DADAE (since 28 February 2017)<br>
 _head of government_: Prime Minister James MARAPE (since 30 May 2019)<br>
 _cabinet_: National Executive Council appointed by the governor general on the recommendation of the prime minister<br>
-_elections/appointments_: the monarchy is hereditary; governor general nominated by the National Parliament and appointed by the chief of state; following legislative elections, the governor general usually appoints the leader of the majority party or majority coalition as prime minister, pending a National Parliament vote<br>
+_election/appointment process_: the monarchy is hereditary; governor general nominated by the National Parliament and appointed by the chief of state; following legislative elections, the governor general usually appoints the leader of the majority party or majority coalition as prime minister, pending a National Parliament vote<br>
 _election results_: James MARAPE reelected prime minister; National Parliament vote - 105 out of 118<br>
 
 **Legislative branch**<br>

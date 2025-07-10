@@ -303,7 +303,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: King MSWATI III (since 25 April 1986)<br>
 _head of government_: Prime Minister Russell DLAMINI (since 6 November 2023)<br>
 _cabinet_: Cabinet recommended by the prime minister, confirmed by the monarch; at least one-half of the cabinet membership must be appointed from among elected members of the House of Assembly<br>
-_elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch from among members of the House of Assembly<br>
+_election/appointment process_: the monarchy is hereditary; prime minister appointed by the monarch from among members of the House of Assembly<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Libandla)<br>

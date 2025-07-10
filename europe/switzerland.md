@@ -328,7 +328,7 @@ _residency requirement for naturalization_: 12 years including at least 3 of the
 _chief of state_: President of the Swiss Confederation Karin KELLER-SUTTER (since 1 January 2025)<br>
 _head of government_: President of the Swiss Confederation Karin KELLER-SUTTER (since 1 January 2025)<br>
 _cabinet_: Federal Council or Bundesrat (in German), Conseil Federal (in French), Consiglio Federale (in Italian) indirectly elected by the Federal Assembly for a 4-year term<br>
-_elections/appointments_: president and vice president elected by the Federal Assembly from among members of the Federal Council for a 1-year, non-consecutive term<br>
+_election/appointment process_: president and vice president elected by the Federal Assembly from among members of the Federal Council for a 1-year, non-consecutive term<br>
 _most recent election date_: 11 December 2024<br>
 _election results_: <em>2024: </em>Karin KELLER-SUTTER elected president for 2025; Federal Assembly vote - Karin KELLER-SUTTER (FDP.The Liberals) 168 of 203; Guy PARLEMIN (SVP) elected vice president for 2025; Federal Assembly vote - 196 of 219<em><br><br>2023:  </em>Viola AMHERD elected president for 2024; Federal Assembly vote - Viola AMHERD (The Center) 158 of 204; Karin KELLER-SUTTER (FDP.The Liberals) elected vice president for 2024; Federal Assembly vote - 138 of 196<br><br><em>2022:  </em>Alain BERSET elected president for 2023; Federal Assembly vote - Alain BERSET (SP) 140 OF 181; Viola AMHERD elected vice president; Federal assembly vote - 207 of 223<br>
 _expected date of next election_: December 2025<br>

@@ -235,7 +235,7 @@ see United Kingdom<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Julia CROUCH (since 11 September 2023)<br>
 _head of government_: Premier Cora RICHARDSON-HODGE (since 27 February 2025)<br>
 _cabinet_: Executive Council appointed by the governor from among elected members of the House of Assembly<br>
-_elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the governor usually appoints the leader of the majority party or majority coalition as premier&nbsp;<br>
+_election/appointment process_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the governor usually appoints the leader of the majority party or majority coalition as premier&nbsp;<br>
 
 **Legislative branch**<br>
 _legislature name_: House of Assembly<br>

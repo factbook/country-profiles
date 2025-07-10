@@ -313,7 +313,7 @@ _residency requirement for naturalization_: unknown<br>
 _chief of state_: President Mohamed MUIZZU (since 17 November 2023)<br>
 _head of government_: President Mohamed MUIZZU (since 17 November 2023)<br>
 _cabinet_: Cabinet of Ministers appointed by the president, approved by People's Majlis<br>
-_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br>
+_election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br>
 _most recent election date_: 9 September 2023, with runoff on 30 September 2023<br>
 _election results_: <em><br>2023:</em> Mohamed MUIZZU elected president in the second round; percent of vote in first round - Mohamed MUIZZU (PNC) 46.1%, Ibrahim Mohamed SOLIH (MDP) 39.1%, Ilyas LABEEB (DEMS) 7.1%, other 7.7%; percent of vote in the second round - Mohamed MUIZZU 54%, Ibrahim Mohamed SOLIH 46%<br><br><em>2018</em>: Ibrahim Mohamed SOLIH elected president in first round; Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7%<br>
 _expected date of next election_: 2028<br>

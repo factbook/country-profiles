@@ -314,7 +314,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Alar KARIS (since 11 October 2021)<br>
 _head of government_: Prime Minister Kristen MICHAL (since 23 July 2024)<br>
 _cabinet_: Cabinet appointed by the prime minister, approved by Parliament<br>
-_elections/appointments_: president indirectly elected by Parliament for a 5-year term (eligible for a second term); if a candidate does not secure two thirds of the votes after 3 rounds of balloting, then an electoral college consisting of Parliament members and local council members elects the president, choosing between the 2 candidates with the most votes; if a president is still not elected, the process begins again; prime minister nominated by the president and approved by Parliament<br>
+_election/appointment process_: president indirectly elected by Parliament for a 5-year term (eligible for a second term); if a candidate does not secure two thirds of the votes after 3 rounds of balloting, then an electoral college consisting of Parliament members and local council members elects the president, choosing between the 2 candidates with the most votes; if a president is still not elected, the process begins again; prime minister nominated by the president and approved by Parliament<br>
 _most recent election date_: 30-31 August 2021<br>
 _election results_: <em><br>2021:</em> Alar KARIS (independent) elected president; won second round of voting in parliament with 72 of 101 votes<br><br><em>2016:</em> Kersti KALJULAID elected president; won sixth round of voting in parliament with 81 of 98 votes (17 ballots blank); KALJULAID sworn in on 10 October 2016 - first female head of state of Estonia<br>
 _expected date of next election_: 2026<br>

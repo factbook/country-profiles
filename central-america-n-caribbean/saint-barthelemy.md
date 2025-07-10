@@ -200,7 +200,7 @@ see France<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017), represented by Prefect Cyrille LE VELY (since 15 January 2025)<br>
 _head of government_: President of Territorial Council Xavier LEDEE (since 3 April 2022)<br>
 _cabinet_: Executive Council elected by the Territorial Council; there is also an advisory, economic, social, and cultural council<br>
-_elections/appointments_: French president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prefect appointed by the French president on the advice of French Ministry of Interior; president of Territorial Council indirectly elected by its members for a 5-year term<br>
+_election/appointment process_: French president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prefect appointed by the French president on the advice of French Ministry of Interior; president of Territorial Council indirectly elected by its members for a 5-year term<br>
 _most recent election date_: 27 March 2022<br>
 _election results_: <br><em>2022: </em>Xavier LEDEE (Saint Barth United) elected president; Territorial Council vote - 13 votes for, 6 blank votes<em><br><br><em>2017: </em></em>Bruno MAGRAS (Saint Barth First!) elected president; Territorial Council vote - 14 out of 19 votes<br>
 _expected date of next election_: 2027<br>

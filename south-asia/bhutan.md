@@ -295,7 +295,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: King Jigme Khesar Namgyel WANGCHUCK (since 14 December 2006)<br>
 _head of government_: Prime Minister Tshering TOBGAY (since 28 January 2024)<br>
 _cabinet_: Council of Ministers or Lhengye Zhungtshog members nominated by the monarch in consultation with the prime minister and approved by the National Assembly; members serve 5-year terms<br>
-_elections/appointments_: the monarchy is hereditary but can be removed by a two-thirds vote of Parliament; leader of the majority party in Parliament is nominated as the prime minister, appointed by the monarch<br>
+_election/appointment process_: the monarchy is hereditary but can be removed by a two-thirds vote of Parliament; leader of the majority party in Parliament is nominated as the prime minister, appointed by the monarch<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Chi Tshog)<br>
@@ -337,7 +337,7 @@ _telephone_: [1] (212) 682-2371<br>
 _FAX_: [1] (212) 661-0551<br>
 _email address and website_: <br>consulate.pmbny@mfa.gov.bt<br><br>https://www.mfa.gov.bt/pmbny/<br>
 _consulate(s) general_: 343 East, 43rd Street, New York, NY 10017<br>
-<strong>note</strong> - although Bhutan and the United States do not have diplomatic relations, the two countries established consular relations on 23 July 1986; the Consulate General of the Kingdom of Bhutan was established in New York with an officer from the Permanent Mission of the Kingdom of Bhutan to the United Nations holding dual accreditation as the Consul General with consular jurisdiction in the US<br>
+<strong>note:</strong> Bhutan and the United States do not have diplomatic relations, but the two countries established consular relations on 23 July 1986; the Consulate General of the Kingdom of Bhutan was established in New York with an officer from the Permanent Mission of the Kingdom of Bhutan to the United Nations holding dual accreditation as the Consul General with consular jurisdiction in the US<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none; frequent informal contact is maintained via the US embassy in New Delhi (India) and Bhutan's Permanent Mission to the UN<br>

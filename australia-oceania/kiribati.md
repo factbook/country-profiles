@@ -305,7 +305,7 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: President Taneti MAAMAU (since 11 March 2016)<br>
 _head of government_: President Taneti MAAMAU (since 11 March 2016)<br>
 _cabinet_: Cabinet appointed by the president from among House of Assembly members<br>
-_elections/appointments_: president directly elected for a 4-year term (eligible for 2 additional terms) by simple-majority popular vote, after candidates are nominated from among House of Assembly members; vice president appointed by the president<br>
+_election/appointment process_: president directly elected for a 4-year term (eligible for 2 additional terms) by simple-majority popular vote, after candidates are nominated from among House of Assembly members; vice president appointed by the president<br>
 _most recent election date_: 25 October 2024<br>
 _election results_: <em>2024: </em>Taneti MAAMAU reelected president; percent of vote - Taneti MAAMAU (TKP) 55%, Kaotitaake KOKORIA (independent) 42%, Bautaake BEIA (TKP) 3%<br><em><br>2020:</em> Taneti MAAMAU reelected president; percent of vote - Taneti MAAMAU (TKP) 59.3%, Banuera BERINA (BKM) 40.7%<br>
 _expected date of next election_: 2028<br>

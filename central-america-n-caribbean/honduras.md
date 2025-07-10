@@ -322,7 +322,7 @@ _residency requirement for naturalization_: 1 to 3 years<br>
 _chief of state_: President Iris Xiomara CASTRO de Zelaya (since 27 January 2022)<br>
 _head of government_: President Iris Xiomara CASTRO de Zelaya (since 27 January 2022)<br>
 _cabinet_: Cabinet appointed by president<br>
-_elections/appointments_: president directly elected by simple-majority popular vote for a 4-year term<br>
+_election/appointment process_: president directly elected by simple-majority popular vote for a 4-year term<br>
 _most recent election date_: 28 November 2021<br>
 _election results_: <br><em>2021: </em>Iris Xiomara CASTRO de Zelaya elected president; percent of vote - Iris Xiomara CASTRO de Zelaya (LIBRE) 51.1%, Nasry Juan ASFURA Zablah (PNH) 36.9%, Yani Benjamin ROSENTHAL Hidalgo (PL) 10%, other 2%<em><br><br>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion contra la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other 0.9%<br>
 _expected date of next election_: 30 November 2025<br>
@@ -669,7 +669,7 @@ the FFAA's inventory is comprised of a mix of older or secondhand and limited am
 <strong>note: </strong>as of 2023, women made up about 9% of the active duty military<br>
 
 **Military - note**<br>
-the Honduran Armed Forces (FFAA) are responsible for maintaining the country’s territory, defending its sovereignty, providing emergency/humanitarian assistance, and supporting the National Police (PNH); the FFAA’s primary focus is internal and border security, and since 2011 a considerable portion of it has been deployed to support the PNH in combating narcotics trafficking and organized crime; military support to domestic security included the creation of the Military Police of Public Order (PMOP) in 2013 to provide security in areas controlled by street gangs to combat crime and make arrests; the PMOP also has sent personnel to reinforce security operations along the country’s border as part of a tri-national security task force with El Salvador and Guatemala<br><br>the FFAA has received military equipment, training, humanitarian, and technical assistance from the US military; the US military maintains a joint service task force co-located with the FFAA at Soto Cano Air Base (2025)<br>
+the Honduran Armed Forces (FFAA) are responsible for maintaining the country’s territory, defending its sovereignty, providing emergency/humanitarian assistance, and supporting the National Police (PNH); the FFAA’s primary focus is internal and border security, and since 2011 a considerable portion of it has been deployed to support the PNH in combating narcotics trafficking and organized crime; military support to domestic security included the creation of the Military Police of Public Order (PMOP) in 2013 to provide security in areas controlled by street gangs to combat crime and make arrests; the FFAA, including the PMOP, cooperates with the militaries of El Salvador, Guatemala, and Nicaragua on border security<br><br>the FFAA has received military equipment, training, humanitarian, and technical assistance from the US military; the US military maintains a joint service task force co-located with the FFAA at Soto Cano Air Base (2025)<br>
 
 ## Transnational Issues
 

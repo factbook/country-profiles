@@ -299,7 +299,7 @@ _residency requirement for naturalization_: 8 years<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Acting Governor General Errol CHARLES (since 11 November 2021)<br>
 _head of government_: Prime Minister Philip J. PIERRE (since 28 July 2021)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the governor general usually appoints the leader of the majority party or majority coalition as prime minister; deputy prime minister also appointed by governor general<br>
+_election/appointment process_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the governor general usually appoints the leader of the majority party or majority coalition as prime minister; deputy prime minister also appointed by governor general<br>
 
 **Legislative branch**<br>
 _legislature name_: Houses of Parliament<br>

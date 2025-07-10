@@ -312,7 +312,7 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: President Rodrigo CHAVES Robles (since 8 May 2022)<br>
 _head of government_: President Rodrigo CHAVES Robles (since 8 May 2022)<br>
 _cabinet_: Cabinet selected by the president<br>
-_elections/appointments_: president and vice presidents directly elected on the same ballot by modified majority popular vote (40% threshold) for a 4-year term (eligible for non-consecutive terms)<br>
+_election/appointment process_: president and vice presidents directly elected on the same ballot by modified majority popular vote (40% threshold) for a 4-year term (eligible for non-consecutive terms)<br>
 _most recent election date_: 6 February 2022, with a runoff on 3 April 2022<br>
 _election results_: <br><em>2022: </em>Rodrigo CHAVES Robles elected president in second round; percent of vote in first round - Jose Maria FIGUERES Olsen (PLN) 27.3%,<em> </em>Rodrigo CHAVES Robles (PPSD) 16.8%, Fabricio ALVARADO Munoz (PNR) 14.9%, Eliecer FEINZAIG Mintz (PLP) 12.4%, Lineth SABORIO Chaverri (PUSC) 12.4%, Jose Maria VILLALTA Florez-Estrada 8.7% (PFA), other 7.5%; percent of vote in second round - Rodrigo CHAVES Robles (PPSD) 52.8%, Jose Maria FIGUERES Olsen (PLN) 47.2%<br><br><em>2018:</em> Carlos ALVARADO Quesada elected president in second round; percent of vote in first round - Fabricio ALVARADO Munoz (PRN) 25%; Carlos ALVARADO Quesada (PAC) 21.6%; Antonio ALVAREZ (PLN) 18.6%; Rodolfo PIZA (PUSC) 16%; Juan Diego CASTRO (PIN) 9.5%; Rodolfo HERNANDEZ (PRSC) 4.9%, other 4.4%; percent of vote in second round - Carlos ALVARADO Quesada (PAC) 60.7%; Fabricio ALVARADO Munoz (PRN) 39.3%<br>
 _expected date of next election_: February 2026 (a runoff, if needed, will take place in April 2026)<br>
@@ -663,7 +663,7 @@ Costa Rica relies on specialized paramilitary units within the Ministry of Publi
 Costa Rican Space Agency (ACE; established 2021); ACE is a non-state, public entity subject to guidelines issued by the Ministry of Science, Technology, and Telecommunications (2024)<br>
 
 **Space program overview**<br>
-has a small, recently established program focused on promoting the use of space to develop the country’s economy and industry, including acquiring and utilizing satellites; has built a remote sensing (RS) cube satellite; has relations with the space agencies and commercial space industries of the US, members of the European Space Agency, and members of the Latin American and Caribbean Space Agency (2024)<br>
+has a small, recently established program focused on using space to develop the country’s economy and industry, including acquiring and utilizing satellites; has built a remote sensing (RS) cube satellite; has relations with the space agencies and commercial space industries of the US, the European Space Agency, and the Latin American and Caribbean Space Agency (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues

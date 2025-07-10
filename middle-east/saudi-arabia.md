@@ -320,7 +320,7 @@ https://www.wilsoncenter.org/publication/saudi-women-go-to-the-polls-finally<br>
 _chief of state_: King SALMAN bin Abd al-Aziz Al Saud (since 23 January 2015)<br>
 _head of government_: Crown Prince and Prime Minister MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (since 27 September 2022)<br>
 _cabinet_: Council of Ministers appointed by the monarch every 4 years and includes many royal family members<br>
-_elections/appointments_: none; the monarchy is hereditary; an Allegiance Council created by royal decree in 2006 established a committee of Saudi princes who have a voice in selecting future Saudi kings<br>
+_election/appointment process_: none; the monarchy is hereditary; an Allegiance Council created by royal decree in 2006 established a committee of Saudi princes who have a voice in selecting future Saudi kings<br>
 
 **Legislative branch**<br>
 _legislature name_: Shura Council (Majlis Ash-Shura)<br>

@@ -323,7 +323,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Duma BOKO (since 1 November 2024)<br>
 _head of government_: President Duma BOKO (since 1 November 2024)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); vice president appointed by the president<br>
+_election/appointment process_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); vice president appointed by the president<br>
 _most recent election date_: 31 October 2024<br>
 _election results_: BOKO's UDC won 35 seats in the National Assembly, which then selected BOKO as president<br>
 _expected date of next election_: October 2029<br>

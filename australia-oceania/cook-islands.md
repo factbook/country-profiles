@@ -280,7 +280,7 @@ has not submitted an ICJ jurisdiction declaration (New Zealand normally retains 
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Sir Tom J. MARSTERS (since 9 August 2013); New Zealand High Commissioner Catherine GRAHAM (since 8 September 2024)<br>
 _head of government_: Prime Minister Mark BROWN (since 1 October 2020)<br>
 _cabinet_: Cabinet chosen by the prime minister<br>
-_elections/appointments_: the monarchy is hereditary; UK representative appointed by the monarch; New Zealand high commissioner appointed by the New Zealand Government; following legislative elections, the leader of the majority party or majority coalition usually becomes prime minister<br>
+_election/appointment process_: the monarchy is hereditary; UK representative appointed by the monarch; New Zealand high commissioner appointed by the New Zealand Government; following legislative elections, the leader of the majority party or majority coalition usually becomes prime minister<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>

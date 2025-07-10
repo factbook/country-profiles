@@ -283,9 +283,9 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President OBIANG Nguema Mbasogo (since 3 August 1979)<br>
-_head of government_: Prime Minister Manuela ROKA Botey (since 1 February 2023)<br>
+_head of government_: Prime Minister Manuel Osa Nsue Nsua (since 17 August 2024)<br>
 _cabinet_: Council of Ministers appointed by the president and overseen by the prime minister<br>
-_elections/appointments_: president directly elected by simple-majority popular vote for a 7-year term (eligible for a second term); prime minister and deputy prime ministers appointed by the president<br>
+_election/appointment process_: president directly elected by simple-majority popular vote for a 7-year term (eligible for a second term); prime minister and deputy prime ministers appointed by the president<br>
 _most recent election date_: 20 November 2022<br>
 _election results_: <em><br>2022: </em>OBIANG Nguema Mbasogo reelected president; percent of vote - OBIANG Nguema Mbasogo (PDGE) 95%, other 6.1%<br><br><em>2016: </em>OBIANG Nguema Mbasogo reelected president; percent of vote - OBIANG Nguema Mbasogo (PDGE) 93.5%, other 6.5%<br>
 _expected date of next election_: 2029<br>

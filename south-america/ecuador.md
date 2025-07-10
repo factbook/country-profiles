@@ -328,7 +328,7 @@ _residency requirement for naturalization_: 3 years<br>
 _chief of state_: President Daniel NOBOA Azin (since 23 November 2023)<br>
 _head of government_: President Daniel NOBOA Azin (since 23 November 2023)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by absolute-majority popular vote in 2 rounds, if needed, for a 4-year term (eligible for a second term)<br>
+_election/appointment process_: president and vice president directly elected on the same ballot by absolute-majority popular vote in 2 rounds, if needed, for a 4-year term (eligible for a second term)<br>
 _most recent election date_: 9 February 2025, with a runoff on 13 April 2025<br>
 _election results_: <br><em>2025: </em>Daniel NOBOA Azin reelected president; percent of vote in the first round - Daniel NOBOA Azin (ADN) 44.2%, Luisa GONZÁLEZ Alcivar (MRC) 44%, Leonidas IZA (MUPP) 5.3%, other 6.5%; percent of vote in the second round - Daniel NOBOA Azin 55.6%, Luisa GONZÁLEZ Alcivar 44.4%<br><em><br>2023:</em> Daniel NOBOA Azin elected president; percent of vote in the first round - Luisa GONZÁLEZ Alcivar (MRC) 33.6%, Daniel NOBOA Azin (ADN) 23.5%, Christian Gustavo ZURITA Ron (Construye) 16.4%, Jan Tomislav TOPIĆ Feraud (Por Un País Sin Miedo) 14.7%, Otto Ramón SONNENHOLZNER Sper (Avanza) 7.1%, other 4.7%; percent of vote in the second round - Daniel NOBOA Azin 51.8%, Luisa GONZÁLEZ Alcivar 48.2%<br><br><em>2021:</em> Guillermo LASSO Mendoza elected president; percent of vote in the first round - Andres ARAUZ (UNES) 32.7%, Guillermo LASSO Mendoza (CREO) 19.7%, Yaku PEREZ Guartambel (MUPP) 19.4%, Xavier HERVAS Mora (ID) 15.7%, other 12.5%; percent of vote in the second round - Guillermo LASSO Mendoza (CREO) 52.5%, Andres ARAUZ (UNES) 47.5%<br>
 _expected date of next election_: 28 February 2029<br>
@@ -685,7 +685,7 @@ the military is responsible for preserving Ecuador’s national sovereignty and 
 Ecuadorian Civilian Space Agency (EXA; a civilian independent research and development institution in charge of the administration and execution of Ecuador&rsquo;s space program, established 2007); Ecuadorian Space Institute (established 2012, disbanded 2018) (2024)<br>
 
 **Space program overview**<br>
-has a small program focused on acquiring or manufacturing satellites; builds scientific satellites; conducts research and develops some space-related technologies; has established relations with the space agencies and industries of China and Russia, as well as the Latin American and Caribbean Space Agency (ALCE) and its member states (2024)<br>
+has a small program focused on acquiring or manufacturing satellites; builds scientific satellites; conducts research and develops some space-related technologies; has relationships with China and Russia's space agencies and industries, as well as the Latin American and Caribbean Space Agency (ALCE) and its member states (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues

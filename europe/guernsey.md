@@ -236,25 +236,25 @@ see United Kingdom<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Lieutenant-Governor Richard CRIPWELL (since 15 February 2022)<br>
-_head of government_: Chief Minister Lyndon TROTT (since 13 December 2023)<br>
+_head of government_: Chief Minister Lindsay de SAUSMAREZ (since 1 July 2025)<br>
 _cabinet_: none<br>
-_elections/appointments_: the monarchy is hereditary; lieutenant governor and bailiff appointed by the monarch; chief minister, who is the president of the Policy and Resources Committee, indirectly elected by the States of Deliberation for a 4-year term<br>
-_most recent election date_: 7 October 2020<br>
-_election results_: <em><br>2020: </em>Peter FERBRACHE (independent) elected president of the Policy and Resources Committee and chief minister: percent of States of Guernsey vote - 57.5%<em><br><br>2016:</em> Gavin ST. PIER (independent) elected president of the Policy and Resources Committee and chief minister<br>
-_expected date of next election_: 2024<br>
+_election/appointment process_: the monarchy is hereditary; lieutenant governor and bailiff appointed by the monarch; chief minister, who is the president of the Policy and Resources Committee, indirectly elected by the States of Deliberation for a 4-year term<br>
+_most recent election date_: 7/1/2025<br>
+_election results_: <em>2025:</em> Lindsay de SAUSMAREZ (independent) elected president of the Policy and Resources Committee and chief minister<em><br><br>2020: </em>Peter FERBRACHE (independent) elected president of the Policy and Resources Committee and chief minister: percent of States of Guernsey vote - 57.5%<em><br><br>2016:</em> Gavin ST. PIER (independent) elected president of the Policy and Resources Committee and chief minister<br>
+_expected date of next election_: 2029<br>
 <strong>note:</strong> the chief minister is the president of the Policy and Resources Committee and is the de facto head of government; the Policy and Resources Committee, elected by the States of Deliberation, functions as the executive; the 5 members all have equal voting rights<br>
 
 **Legislative branch**<br>
 _legislature name_: States of Deliberation<br>
 _legislative structure_: unicameral<br>
-_number of seats_: 40 (directly elected)<br>
+_number of seats_: 38 (directly elected)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 10/7/2020<br>
-_parties elected and seats per party_: GPI (10); GP (6); independent (22); States of Alderney (2)<br>
+_most recent election date_: 7/1/2025<br>
+_parties elected and seats per party_: independent (35); Forward Guernsey (3)<br>
 _percentage of women in chamber_: 20%<br>
-_expected date of next election_: June 2025<br>
+_expected date of next election_: 2030<br>
 <strong>note:</strong> non-voting members include the bailiff (presiding officer), attorney-general, and solicitor-general<br>
 
 **Judicial branch**<br>
@@ -264,7 +264,7 @@ _subordinate courts_: Court of Alderney; Court of the Seneschal of Sark; Magistr
 <strong>note:</strong> appeals beyond Guernsey courts are heard by the Judicial Committee of the Privy Council (in London)<br>
 
 **Political parties**<br>
-Alliance Party Guernsey or APG <br>Guernsey Partnership of Independents or GPI <br>Guernsey Party or GP <br>
+Forward Guernsey&nbsp;<br>
 
 **Diplomatic representation in the US**<br>
 none (British crown dependency)<br>

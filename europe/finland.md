@@ -324,7 +324,7 @@ _residency requirement for naturalization_: 6 years<br>
 _chief of state_: President Alexander STUBB (since 1 March 2024)<br>
 _head of government_: Prime Minister Petteri ORPO (since 20 June 2023)<br>
 _cabinet_: Council of State or Valtioneuvosto appointed by the president, responsible to Parliament<br>
-_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 6-year term (eligible for a second term); prime minister appointed by Parliament<br>
+_election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 6-year term (eligible for a second term); prime minister appointed by Parliament<br>
 _most recent election date_: 28 January 2024, with a runoff on 11 February 2024<br>
 _election results_: <em><br>2024:  </em>Alexander STUBB elected in the second round; percent of vote in the first round - Alexander STUBB (KoK) 27.2%, Pekka HAAVISTO (Vihr) 25.8%, Jussi HALLA-AHO (PS) 19.0%, Olli REHN (Kesk) 15.3%; percent of vote in second round - STUBB 51.6%, HAAVISTO 48.4%<br><em><br>2018: </em> Sauli NIINISTO reelected president; percent of vote - Sauli NIINISTO (independent) 62.7%, Pekka HAAVISTO (Vihr) 12.4%, Laura HUHTASAARI (PS) 6.9%, Paavo VAYRYNEN (independent) 6.2%, Matti VANHANEN (Kesk) 4.1%, other 7.7%<br>
 _expected date of next election_: by 28 January 2030<br>

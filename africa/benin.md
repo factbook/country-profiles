@@ -322,7 +322,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Patrice TALON (since 6 April 2016)<br>
 _head of government_: President Patrice TALON<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br>
+_election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br>
 _most recent election date_: 11 April 2021<br>
 _election results_: <br><em>2021:</em> Patrice TALON reelected president in the ; percent of vote - Patrice TALON (independent) 86.3%, Alassane SOUMANOU (FCBE) 11.4%, Corentin KOHOUE (The Democrats) 2.3%<br><br><em>2016:</em> Patrice TALON elected president in second round; percent of vote in first round - Lionel ZINSOU (FCBE) 28.4%, Patrice TALON (independent) 24.8%, Sebastien AJAVON (independent) 23%, Abdoulaye Bio TCHANE (ABT) 8.8%, Pascal KOUPAKI (NC) 5.9%, other 9.1%; percent of vote in second round - Patrice TALON 65.4%, Lionel ZINSOU 34.6%<br>
 _expected date of next election_: 12 April 2026<br>

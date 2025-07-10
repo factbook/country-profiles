@@ -327,7 +327,7 @@ _residency requirement for naturalization_: 10 years for persons with no ties to
 _chief of state_: King FELIPE VI (since 19 June 2014)<br>
 _head of government_: President of the Government of Spain (prime minister-equivalent) Pedro SANCHEZ PEREZ-CASTEJON (since 2 June 2018)<br>
 _cabinet_: Council of Ministers designated by the president<br>
-_elections/appointments_: the monarchy is hereditary; following legislative elections, the monarch usually proposes as president the leader of the majority party or coalition, who is then indirectly elected by the Congress of Deputies; vice president and Council of Ministers appointed by the president<br>
+_election/appointment process_: the monarchy is hereditary; following legislative elections, the monarch usually proposes as president the leader of the majority party or coalition, who is then indirectly elected by the Congress of Deputies; vice president and Council of Ministers appointed by the president<br>
 _most recent election date_: 23 July 2023<br>
 _election results_: Congress of Deputies vote - 179 to 171 (16 November 2023)<br>
 _expected date of next election_: 31 July 2027<br>

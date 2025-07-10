@@ -339,7 +339,7 @@ _residency requirement for naturalization_: minimum of 3 of last 5 years residen
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Mary SIMON (since 26 July 2021)<br>
 _head of government_: Prime Minister Mark CARNEY (since 14 March 2025)<br>
 _cabinet_: Federal Ministry chosen by the prime minister usually from among members of his/her own party sitting in Parliament<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; after legislative elections, the governor general usually designates the leader of the majority party or majority coalition in the House of Commons as prime minister<br>
+_election/appointment process_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; after legislative elections, the governor general usually designates the leader of the majority party or majority coalition in the House of Commons as prime minister<br>
 <strong>note:</strong> the governor general position is largely ceremonial<br>
 
 **Legislative branch**<br>
@@ -353,7 +353,7 @@ _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 4/28/2025<br>
-_parties elected and seats per party_: Liberal Party (160); Conservative Party (119); Bloc Québécois (BQ) (32); NDP-New Democratic Party (NDP) (25); Other (2)<br>
+_parties elected and seats per party_: Liberal Party (169); Conservative Party (144); Bloc Québécois (BQ) (22); Other (8)<br>
 _percentage of women in chamber_: 30.3%<br>
 _expected date of next election_: October 2029<br>
 

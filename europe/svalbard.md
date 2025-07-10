@@ -127,7 +127,7 @@ see Norway<br>
 **Executive branch**<br>
 _chief of state_: King HARALD V of Norway (since 17 January 1991)<br>
 _head of government_: Governor Lars FAUSE (since 24 June 2021)<br>
-_elections/appointments_: none; the monarchy is hereditary; governor and assistant governor responsible to the Polar Department of the Ministry of Justice<br>
+_election/appointment process_: none; the monarchy is hereditary; governor and assistant governor responsible to the Polar Department of the Ministry of Justice<br>
 
 **Legislative branch**<br>
 <strong>note:</strong> the Council acts much like a Norwegian municipality, with responsibility for infrastructure and utilities (including power, land-use and community planning, education, and child welfare); however, the state provides healthcare services<br>

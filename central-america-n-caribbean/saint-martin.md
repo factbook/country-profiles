@@ -211,7 +211,7 @@ see France<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by Prefect Cyrille LE VELY (since 10 February 2025)<br>
 _head of government_: President of Territorial Council Louis MUSSINGTON (since 3 April 2022)<br>
 _cabinet_: Executive Council, as well as an advisory economic, social, and cultural council<br>
-_elections/appointments_: French president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prefect appointed by French president on the advice of French Ministry of Interior; president of Territorial Council elected by its members for a 5-year term<br>
+_election/appointment process_: French president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prefect appointed by French president on the advice of French Ministry of Interior; president of Territorial Council elected by its members for a 5-year term<br>
 _most recent election date_: 3 April 2022<br>
 _election results_: <br><em>2022:</em> Louis MUSSINGTON (RSM) elected president; Territorial Council vote - unanimous<em><br><br><em>2017: </em></em>Daniel Gibbs (UD) elected president; Territorial Council vote - 18 of 23 votes<br>
 _expected date of next election_: 2027<br>
