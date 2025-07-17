@@ -153,7 +153,7 @@ _total population_: 0.94 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-218 deaths/100,000 live births (2020 est.)<br>
+137 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 27.9 deaths/1,000 live births (2024 est.)<br>
@@ -266,15 +266,6 @@ _methane emissions_: 14.88 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1.089 million tons (2014 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Tonle Sap - 2,700-16,000 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Mekong (shared with China [s], Burma, Thailand, Laos, and Vietnam [m]) - 4,350 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 100 million cubic meters (2020 est.)<br>
@@ -670,7 +661,8 @@ the RCAF is armed largely with older Chinese and Russian-origin equipment; in re
 <strong>note: </strong>in December 2021, the US Government halted arms-related trade with Cambodia, citing deepening Chinese military influence, corruption, and human rights abuses by the government and armed forces; the policy of denial applied to licenses or other approvals for exports and imports of defense articles and defense services destined for or originating in Cambodia, with exceptions (on a case-by-case basis) related to conventional weapons destruction and humanitarian demining activities<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for compulsory and voluntary military service (conscription only selectively enforced since 1993; service is for 18 months); women may volunteer (2024)<br>
+18 is the legal minimum age for military service for men and women (2025)<br>
+<strong>note:</strong> in 2006, Cambodia's parliament approved a law requiring all Cambodians aged 18 to 30 to serve in the military for 18 months, although the law has never been enforced (service was to be voluntary for women); in 2025, the Cambodian Government announced that the 2006 conscription law would be enforced beginning in 2026 and have a 24-month service requirement<br>
 
 **Military deployments**<br>
 340 Central African Republic (MINUSCA); 180 Lebanon (UNIFIL) (2024)<br>

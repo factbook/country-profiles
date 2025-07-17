@@ -150,7 +150,7 @@ _65 years and over_: 0.68 male(s)/female<br>
 _total population_: 0.94 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-19 deaths/100,000 live births (2020 est.)<br>
+15 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 8 deaths/1,000 live births (2024 est.)<br>
@@ -266,15 +266,6 @@ _methane emissions_: 25.59 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 1,260,140 tons (2012 est.)<br>
 _municipal solid waste recycled annually_: 100,811 tons (2011 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2011 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_salt water lake(s)_: Lagoa Mirim (shared with Brazil) - 2,970 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Rio de la Plata/Parana river mouth (shared with Brazil [s], Argentina, Paraguay) - 4,880 km; Uruguay river mouth (shared with Brazil [s] and Argentina) - 1,610 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major aquifers**<br>
-Guarani Aquifer System<br>
 
 **Total water withdrawal**<br>
 _municipal_: 410 million cubic meters (2020 est.)<br>

@@ -159,7 +159,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 28.7 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
-3 deaths/100,000 live births (2020 est.)<br>
+2 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 2.9 deaths/1,000 live births (2024 est.)<br>
@@ -273,19 +273,6 @@ _methane emissions_: 105.01 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 13.345 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 5,618,245 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 42.1% (2015 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lake Alexandrina - 570 sq km<br>
-_salt water lake(s)_: Lake Eyre - 9,690 sq km; Lake Torrens (ephemeral) - 5,780 sq km; Lake Gairdner - 4,470 sq km; Lake Mackay (ephemeral) - 3,494 sq km; Lake Frome - 2,410 sq km; Lake Amadeus (ephemeral) - 1,032 sq km<br>
-
-**Major rivers (by length in km)**<br>
-River Murray - 2,508 km; Darling River - 1,545 km; Murrumbidgee River - 1,485 km; Lachlan River - 1,339 km; Cooper Creek - 1,113 km; Flinders River - 1,004 km<br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: <em>(Great Australian Bight)</em> Murray-Darling (1,050,116 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Eyre (1,212,198 sq km)<br>
-
-**Major aquifers**<br>
-Great Artesian Basin, Canning Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 2.29 billion cubic meters (2020 est.)<br>

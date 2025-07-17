@@ -147,7 +147,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
-78 deaths/100,000 live births (2020 est.)<br>
+60 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 14.4 deaths/1,000 live births (2024 est.)<br>
@@ -247,9 +247,6 @@ _methane emissions_: 6.46 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,528,816 tons (2010 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lago de Nicaragua - 8,150 sq km; Lago de Managua - 1,040 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 286 million cubic meters (2020 est.)<br>

@@ -150,7 +150,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 31.2 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-3 deaths/100,000 live births (2020 est.)<br>
+3 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 2.4 deaths/1,000 live births (2024 est.)<br>
@@ -264,9 +264,6 @@ _methane emissions_: 36.94 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 20.151 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 3,393,428 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 16.8% (2015 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Tagus river source (shared with Portugal [m]) - 1,006 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Total water withdrawal**<br>
 _municipal_: 4.56 billion cubic meters (2020 est.)<br>

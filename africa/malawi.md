@@ -151,7 +151,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
-381 deaths/100,000 live births (2020 est.)<br>
+225 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 31.9 deaths/1,000 live births (2024 est.)<br>
@@ -266,16 +266,6 @@ _methane emissions_: 11.12 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,297,844 tons (2013 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lake Malawi (shared with Mozambique and Tanzania) - 22,490<br>
-_salt water lake(s)_: Lake Chilwa - 1,040 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Zambezi (shared with Zambia [s], Angola, Zimbabwe, Namibia, Tanzania, and Mozambique [m]) - 2,740 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 140 million cubic meters (2020 est.)<br>
@@ -651,7 +641,7 @@ the MDF's inventory is a mix of mostly older or secondhand equipment originating
 750 Democratic Republic of the Congo (MONUSCO) (2025)<br>
 
 **Military - note**<br>
-the MDF’s primary responsibility is external security; it is also tasked as necessary with providing support to civilian authorities during emergencies, supporting the Police Service, protecting national forest reserves, and participating in regional peacekeeping missions, as well as assisting with infrastructure development; it is generally considered to be a professional and effective service, although most of its equipment is aging and obsolescent; Malawi contributes regularly to African Union and UN peace support operations<br><br>the MDF was established in 1964 from elements of the Kings African Rifles (KAR), a British colonial regiment raised from Great Britain's various possessions in East Africa from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during the World Wars (2023)<br>
+the MDF’s primary responsibility is external security; it is also tasked as necessary with providing support to civilian authorities during emergencies, supporting the Police Service, protecting national forest reserves, and participating in regional peacekeeping missions, as well as assisting with infrastructure development; key areas of concern include border security, regional conflict, and international terrorism; the MDF participates in exercises with foreign partners and contributes regularly to African Union and UN peace support operations; Malawi contributes regularly to African Union and UN peace support operations<br><br>the MDF was established in 1964 from elements of the Kings African Rifles (KAR), a British colonial regiment raised from Great Britain's various possessions in East Africa from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during the World Wars (2025)<br>
 
 ## Transnational Issues
 

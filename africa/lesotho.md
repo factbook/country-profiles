@@ -146,7 +146,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-566 deaths/100,000 live births (2020 est.)<br>
+478 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 45.7 deaths/1,000 live births (2024 est.)<br>
@@ -261,12 +261,6 @@ _methane emissions_: 2.56 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 73,457 tons (2006 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Orange river source (shared with South Africa and Namibia [m]) - 2,092 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Orange (941,351 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 20 million cubic meters (2020 est.)<br>
@@ -647,7 +641,7 @@ the LDF is lightly armed and has a small inventory of mostly older or second-han
 18-30 years of age for voluntary military service for both men and women (women can serve in combat arms); no conscription (2024)<br>
 
 **Military - note**<br>
-Lesotho's declared policy for its military is the maintenance of the country's sovereignty and the preservation of internal security; in practice, external security is guaranteed by South Africa; the LDF is a small force comprised of about a half dozen infantry companies; it began in 1964 as the Police Mobile Unit (PMU); the PMU was designated as the Lesotho Paramilitary Force in 1980 and became the Royal Lesotho Defense Force in 1986; it was renamed the Lesotho Defense Force in 1993 (2025)<br>
+the Lesotho Defense Force (LDF) is responsible for the maintenance of the country's sovereignty and the preservation of internal security; in practice, external security is guaranteed by South Africa; the LDF is a small force that began in 1964 as the Police Mobile Unit (PMU); the PMU was designated as the Lesotho Paramilitary Force in 1980 and became the Royal Lesotho Defense Force in 1986; it was renamed the Lesotho Defense Force in 1993 (2025)<br>
 
 ## Transnational Issues
 

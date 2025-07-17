@@ -146,7 +146,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-78 deaths/100,000 live births (2020 est.)<br>
+84 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 22 deaths/1,000 live births (2024 est.)<br>
@@ -268,9 +268,6 @@ _methane emissions_: 51.32 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 14,631,923 tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 4,096,938 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 28% (2014 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_salt water lake(s)_: Laguna de Bay - 890 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 8.16 billion cubic meters (2020 est.)<br>

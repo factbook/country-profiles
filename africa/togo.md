@@ -145,7 +145,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
-399 deaths/100,000 live births (2020 est.)<br>
+349 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 38.4 deaths/1,000 live births (2024 est.)<br>
@@ -265,9 +265,6 @@ _methane emissions_: 3.06 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 1,109,030 tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 22,181 tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 2% (2012 est.)<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Volta (410,991 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 140 million cubic meters (2020 est.)<br>

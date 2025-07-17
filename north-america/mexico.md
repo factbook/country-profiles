@@ -157,7 +157,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 21.3 years (2008 est.)<br>
 
 **Maternal mortality ratio**<br>
-59 deaths/100,000 live births (2020 est.)<br>
+42 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 12.1 deaths/1,000 live births (2024 est.)<br>
@@ -277,19 +277,6 @@ _methane emissions_: 135.77 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 53.1 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 2.655 million tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 5% (2013 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Laguna de Chapala - 1,140 sq km<br>
-_salt water lake(s)_: Laguna de Terminos - 1,550 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Rio Grande river mouth (shared with US [s]) - 3,057 km; Colorado river mouth (shared with US [s]) - 2,333 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Gulf of America)</em> Rio Grande/Bravo (607,965 sq km)<br>Pacific Ocean drainage: <em>(Gulf of California)</em> Colorado (703,148 sq km)<br>
-
-**Major aquifers**<br>
-Atlantic and Gulf Coastal Plains Aquifer<br>
 
 **Total water withdrawal**<br>
 _municipal_: 13.17 billion cubic meters (2020 est.)<br>

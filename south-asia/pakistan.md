@@ -154,7 +154,7 @@ _total population_: 1.04 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-154 deaths/100,000 live births (2020 est.)<br>
+155 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 51.5 deaths/1,000 live births (2024 est.)<br>
@@ -274,15 +274,6 @@ _methane emissions_: 142.12 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 30.76 million tons (2017 est.)<br>
 _municipal solid waste recycled annually_: 2,460,800 tons (2017 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2017 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Indus river mouth (shared with China [s] and India) - 3,610 km; Sutlej river mouth (shared with China [s] and India) - 1,372 km; Chenab river mouth (shared with India [s]) - 1,086 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>
-
-**Major aquifers**<br>
-Indus Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 9.65 billion cubic meters (2020 est.)<br>

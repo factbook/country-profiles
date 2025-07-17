@@ -152,7 +152,7 @@ _total population_: 0.91 male(s)/female (2024 est.)<br>
 27.9 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-2 deaths/100,000 live births (2020 est.)<br>
+2 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 4.9 deaths/1,000 live births (2024 est.)<br>
@@ -264,15 +264,6 @@ _methane emissions_: 46.62 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 10.863 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 2,866,746 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 26.4% (2015 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_salt water lake(s)_: Zalew Szczecinski/Stettiner Haff (shared with Germany) - 900 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Wisla (Vistula) river source and mouth (shared with Belarus and Ukraine) - 1,213 km<br><br><strong>note:</strong> longest river in Poland<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 1.96 billion cubic meters (2020 est.)<br>

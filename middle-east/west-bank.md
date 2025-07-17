@@ -136,7 +136,7 @@ _65 years and over_: 0.9 male(s)/female<br>
 _total population_: 1.03 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-20 deaths/100,000 live births (2020 est.)<br>
+16 deaths/100,000 live births (2023 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Infant mortality rate**<br>
@@ -248,9 +248,6 @@ _municipal solid waste generated annually_: 1.387 million tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 6,935 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 0.5% (2013 est.)<br>
 <strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
-
-**Major lakes (area sq km)**<br>
-_salt water lake(s)_: Dead Sea (shared with Jordan and Israel) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
 
 **Total water withdrawal**<br>
 _municipal_: 200 million cubic meters (2020 est.)<br>

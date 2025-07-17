@@ -148,7 +148,7 @@ _total population_: 1.01 male(s)/female (2024 est.)<br>
 29.7 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-5 deaths/100,000 live births (2020 est.)<br>
+4 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 2.3 deaths/1,000 live births (2024 est.)<br>
@@ -261,9 +261,6 @@ _methane emissions_: 4.42 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 4.377 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 1,416,835 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 32.4% (2015 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Vanern - 5,580 sq km; Vattern - 1,910 sq km; Malaren - 1,140 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 700 million cubic meters (2020 est.)<br>

@@ -147,7 +147,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 26.3 years (2010 est.)<br>
 
 **Maternal mortality ratio**<br>
-6 deaths/100,000 live births (2020 est.)<br>
+6 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.2 deaths/1,000 live births (2024 est.)<br>
@@ -263,12 +263,6 @@ _methane emissions_: 0.75 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 332,000 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 17,994 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 5.4% (2015 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lake Scutari (shared with Albania) - 400 sq km<br>note - largest lake in the Balkans<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 100 million cubic meters (2020 est.)<br>

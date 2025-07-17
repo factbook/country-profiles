@@ -153,7 +153,7 @@ _65 years and over_: 0.73 male(s)/female<br>
 _total population_: 0.96 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-127 deaths/100,000 live births (2020 est.)<br>
+118 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 21.9 deaths/1,000 live births (2024 est.)<br>
@@ -270,15 +270,6 @@ _methane emissions_: 55.89 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 18,457,232 tons (2011 est.)<br>
 _municipal solid waste recycled annually_: 5,168,025 tons (2011 est.)<br>
 _percent of municipal solid waste recycled_: 28% (2011 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Orange (shared with Lesotho [s], and Namibia [m]) - 2,092 km; Limpoporivier (Limpopo) river source (shared with Botswana, Zimbabwe, and Mozambique [m]) - 1,800 km; Vaal [s] - 1,210 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Orange (941,351 sq km)<br>
-
-**Major aquifers**<br>
-Karoo Basin, Lower Kalahari-Stampriet Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 3.11 billion cubic meters (2020 est.)<br>

@@ -155,7 +155,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
-267 deaths/100,000 live births (2020 est.)<br>
+195 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 32.6 deaths/1,000 live births (2024 est.)<br>
@@ -273,19 +273,6 @@ _methane emissions_: 114.21 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 6,532,787 tons (2015 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lake Tana - 3,600 sq km; Abaya Hayk - 1,160 sq km; Ch'amo Hayk - 550 sq km<br>
-_salt water lake(s)_: Lake Turkana (shared with Kenya) - 6,400 sq km; Abhe Bid Hayk/Abhe Bad (shared with Djibouti) - 780 sq km;&nbsp;<br>
-
-**Major rivers (by length in km)**<br>
-Blue Nile river source (shared with Sudan [m]) - 1,600 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
-
-**Major aquifers**<br>
-Ogaden-Juba Basin, Sudd Basin (Umm Ruwaba Aquifer)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 810 million cubic meters (2020 est.)<br>

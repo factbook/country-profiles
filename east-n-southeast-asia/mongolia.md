@@ -148,7 +148,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-24<br>
 
 **Maternal mortality ratio**<br>
-39 deaths/100,000 live births (2020 est.)<br>
+41 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 19.4 deaths/1,000 live births (2024 est.)<br>
@@ -266,13 +266,6 @@ _methane emissions_: 13.72 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2.9 million tons (2016 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Hovsgol Nuur - 2,620 sq km; Har Us Nuur - 1,760 sq km;&nbsp;<br>
-_salt water lake(s)_: Uvs Nuur - 3,350 sq km; Hyargas Nuur - 1,360 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Amur (shared with China [s] and Russia [m]) - 4,444 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Total water withdrawal**<br>
 _municipal_: 50 million cubic meters (2020 est.)<br>

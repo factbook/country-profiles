@@ -150,7 +150,7 @@ _total population_: 1.01 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
-480 deaths/100,000 live births (2020 est.)<br>
+359 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 52.5 deaths/1,000 live births (2024 est.)<br>
@@ -267,12 +267,6 @@ _methane emissions_: 10.3 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 4,440,814 tons (2010 est.)<br>
 _municipal solid waste recycled annually_: 133,224 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 3% (2005 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_salt water lake(s)_: Lagune Aby - 780 sq km<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 320 million cubic meters (2020 est.)<br>

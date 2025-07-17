@@ -160,7 +160,7 @@ _total population_: 0.87 male(s)/female (2024 est.)<br>
 25.2 years (2013 est.)<br>
 
 **Maternal mortality ratio**<br>
-14 deaths/100,000 live births (2020 est.)<br>
+9 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 6.5 deaths/1,000 live births (2024 est.)<br>
@@ -277,19 +277,6 @@ _methane emissions_: 851.52 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 60 million tons (2012 est.)<br>
 _municipal solid waste recycled annually_: 2.7 million tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 4.5% (2012 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lake Baikal - 31,500 sq km; Lake Ladoga - 18,130 sq km; Lake Onega - 9,720 sq km; Lake Khanka (shared with China) - 5,010 sq km; Lake Peipus - 4,300 sq km (shared with Estonia); Ozero Vygozero - 1,250 sq km; Ozero Beloye - 1,120 sq km<br>
-_salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Ozero Malyye Chany - 2,500 sq km; Curonian Lagoon (shared with Lithuania) - 1,620 sq km<br>note - the Caspian Sea is the World's largest lake<br>
-
-**Major rivers (by length in km)**<br>
-Yenisey-Angara - 5,539 km; Ob-Irtysh - 5,410 km;  Amur river mouth (shared with China [s] and Mongolia) - 4,444 km; Lena - 4,400 km; Volga - 3,645 km; Kolyma - 2,513 km; Ural river source (shared with Kazakhstan [m]) - 2,428 km; Dnepr (Dnieper) river source (shared with Belarus and Ukraine [m]) - 2,287 km; Don - 1,870 km; Pechora - 1,809 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Arctic Ocean drainage: Kolyma (679,934 sq km), Lena (2,306,743 sq km), Ob (2,972,493 sq km), Pechora (289,532 sq km), Yenisei (2,554,388 sq km)<br>Atlantic Ocean drainage: <em>(Black Sea) </em>Don (458,694 sq km), Dnieper (533,966 sq km)<br>Pacific Ocean drainage: Amur (1,929,955 sq km)<br>Internal <em>(endorheic basin) </em>drainage: <em>(Caspian Sea basin)</em> Volga (1,410,951 sq km)<br>
-
-**Major aquifers**<br>
-Angara-Lena Basin, Pechora Basin, North Caucasus Basin, East European Aquifer System, West Siberian Basin, Tunguss Basin, Yakut Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 17.15 billion cubic meters (2020 est.)<br>

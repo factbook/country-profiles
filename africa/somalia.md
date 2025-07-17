@@ -141,7 +141,7 @@ _65 years and over_: 0.76 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-621 deaths/100,000 live births (2020 est.)<br>
+563 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 83.6 deaths/1,000 live births (2024 est.)<br>
@@ -240,9 +240,6 @@ _methane emissions_: 20.13 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,326,099 tons (2016 est.)<br>
-
-**Major aquifers**<br>
-Ogaden-Juba Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 20 million cubic meters (2020 est.)<br>

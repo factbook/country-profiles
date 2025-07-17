@@ -143,7 +143,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 25.2 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
-27 deaths/100,000 live births (2020 est.)<br>
+19 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 11.6 deaths/1,000 live births (2024 est.)<br>
@@ -261,9 +261,6 @@ _methane emissions_: 2.91 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 492,800 tons (2014 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lake Sevan - 1,360 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 650 million cubic meters (2020 est.)<br>
@@ -647,7 +644,7 @@ Armenian Republic Armed Forces: Armenian Army (includes land, air, air defense f
 approximately 40-50,000 active Armenian Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes mostly Russian and Soviet-era equipment; in recent years however, Armenia has looked to other countries besides Russia to provide military hardware, including France and India (2024)<br>
+the military's inventory includes mostly Russian and Soviet-era equipment; in recent years however, Armenia has looked to other countries besides Russia to provide military hardware, including France and India (2025)<br>
 
 **Military service age and obligation**<br>
 18-27 for voluntary (men and women), contract (men and women) or compulsory (men) military service; contract military service is 3-12 months or 3 or 5 years; conscripts serve 24 months; men under the age of 36, who have not previously served as contract servicemen and are registered in the reserve, as well as women, regardless of whether they are registered in the reserve can be enrolled in contractual military service; all citizens aged 27 to 50 are registered in the military reserve and may be called to serve if mobilization is declared (2024)<br>

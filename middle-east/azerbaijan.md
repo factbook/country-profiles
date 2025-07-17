@@ -148,7 +148,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 24 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
-41 deaths/100,000 live births (2020 est.)<br>
+18 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 10.9 deaths/1,000 live births (2024 est.)<br>
@@ -259,9 +259,6 @@ _methane emissions_: 44.87 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,930,349 tons (2015 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_salt water lake(s)_: Caspian Sea (shared with Iran, Russia, Turkmenistan, and Kazakhstan) - 374,000 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 400 million cubic meters (2020 est.)<br>

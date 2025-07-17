@@ -144,7 +144,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents England and Wales only<br>
 
 **Maternal mortality ratio**<br>
-10 deaths/100,000 live births (2020 est.)<br>
+8 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.8 deaths/1,000 live births (2024 est.)<br>

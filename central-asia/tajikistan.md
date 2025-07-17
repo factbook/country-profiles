@@ -147,7 +147,7 @@ _total population_: 1.01 male(s)/female (2024 est.)<br>
 23.2 years (2017 est.)<br>
 
 **Maternal mortality ratio**<br>
-17 deaths/100,000 live births (2020 est.)<br>
+14 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 21.7 deaths/1,000 live births (2024 est.)<br>
@@ -259,12 +259,6 @@ _methane emissions_: 4.87 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,787,400 tons (2013 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Syr Darya (shared with Kyrgyzstan [s], Uzbekistan, and Kazakhstan [m]) - 3,078 km; Amu Darya river source (shared with Turkmenistan, Afghanistan, and Uzbekistan [m]) - 2,620 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea Basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 910 million cubic meters (2020 est.)<br>

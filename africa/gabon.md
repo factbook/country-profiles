@@ -148,7 +148,7 @@ _total population_: 1.07 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
-227 deaths/100,000 live births (2020 est.)<br>
+233 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 26.9 deaths/1,000 live births (2024 est.)<br>
@@ -253,12 +253,6 @@ _methane emissions_: 1.13 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 238,102 tons (1995 est.)<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>
-
-**Major aquifers**<br>
-Congo Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 80 million cubic meters (2020 est.)<br>

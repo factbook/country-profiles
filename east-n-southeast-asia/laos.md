@@ -144,7 +144,7 @@ _65 years and over_: 0.87 male(s)/female<br>
 _total population_: 1 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-126 deaths/100,000 live births (2020 est.)<br>
+112 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 35.4 deaths/1,000 live births (2024 est.)<br>
@@ -264,12 +264,6 @@ _methane emissions_: 9 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 351,900 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 35,190 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 10% (2015 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Mènam Khong (Mekong) (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,350 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 130 million cubic meters (2020 est.)<br>
@@ -652,7 +646,7 @@ the LPAF is armed with Chinese, Russian, and Soviet-era equipment and weapons (2
 18 years of age for compulsory or voluntary military service; minimum 18-month service obligation (2023)<br>
 
 **Military - note**<br>
-the LPAF&rsquo;s primary missions are border and internal security, including counterinsurgency, counterterrorism, and counter-narcotics operations, as well as protecting the regime; China, Russia, and Vietnam are the country's closest security partners (2025)<br>
+the LPAF&rsquo;s primary missions are border and internal security, including counterinsurgency, counterterrorism, and counter-narcotics operations, as well as protecting the regime; its defense partners include Cambodia, China, Russia, and Vietnam (2025)<br>
 
 ## Transnational Issues
 

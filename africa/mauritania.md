@@ -154,7 +154,7 @@ _total population_: 0.93 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-465 deaths/100,000 live births (2020 est.)<br>
+381 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 48.9 deaths/1,000 live births (2024 est.)<br>
@@ -271,15 +271,6 @@ _methane emissions_: 6.16 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 454,000 tons (2009 est.)<br>
 _municipal solid waste recycled annually_: 36,320 tons (2009 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2009 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Senegal river mouth (shared with Guinea [s], Senegal and Mali) - 1,641 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
-
-**Major aquifers**<br>
-Senegalo-Mauritanian Basin, Taodeni-Tanzerouft Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 100 million cubic meters (2020 est.)<br>
@@ -670,7 +661,7 @@ the military's inventory is limited and made up largely of older French and Sovi
 450 (plus about 325 police) Central African Republic (MINUSCA) (2024)<br>
 
 **Military - note**<br>
-founded in 1960, the Mauritanian military is responsible for territorial defense and internal security; it also assists in economic development projects, humanitarian missions, and disaster response; securing the border and countering terrorist groups operating in the Sahel, particularly from Mali, are key operational priorities; since a spate of deadly terrorist attacks on civilian and military targets in the 2005-2011 timeframe, the Mauritanian Government has increased the defense budget (up 40% between 2008 and 2018) and military equipment acquisitions, enhanced military training, heightened security cooperation with its neighbors and the international community, and built up the military&rsquo;s counterinsurgency and counterterrorism forces and capabilities; equipment acquisitions have prioritized mobility and intelligence collection, including light ground attack and reconnaissance aircraft, assault helicopters, patrol vessels, light trucks, and surveillance radars; Mauritania has received foreign security assistance from France, NATO, and the US in areas such as commando/special forces operations, counterterrorism, and professional military education (2023)<br>
+founded in 1960, the Mauritanian military is responsible for territorial defense and internal security; it also assists in economic development projects, humanitarian missions, and disaster response; border and maritime security and the threat of terrorist groups operating in the Sahel, particularly Mali, are key areas of focus; Mauritania has received security assistance from the EU, France, NATO, and the US (2024)<br>
 
 ## Terrorism
 

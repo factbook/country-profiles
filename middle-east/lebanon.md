@@ -139,7 +139,7 @@ _65 years and over_: 0.76 male(s)/female<br>
 _total population_: 1 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-21 deaths/100,000 live births (2020 est.)<br>
+15 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 6.7 deaths/1,000 live births (2024 est.)<br>
@@ -643,7 +643,7 @@ the LAF inventory includes a wide mix of mostly older equipment from a diverse a
 <strong>note:</strong> women were allowed to volunteer for military service in the 1980s; as of 2023, they comprised about 5% of the active duty military<br>
 
 **Military - note**<br>
-the primary responsibilities of the Lebanese Armed Forces (LAF) are defense against external attack, border security, protecting the country’s territorial waters, and assisting with internal security and development projects<br><br>the LAF’s domestic security responsibilities include countering narcotics trafficking and smuggling, managing protests, conducting search and rescue, and intervening to prevent violence between rival political factions; in recent years, the military has faced a financial crisis as government debt and national economic difficulties have undercut its ability to train and fully pay and supply personnel, which has sparked domestic and international fears that the armed forces might disintegrate; the UN, as well as individual countries such as France and the US have provided financial assistance <br><br>the UN Interim Force In Lebanon (UNIFIL) has operated in the southern part of the country since 1978; it has approximately 10,500 personnel assigned and includes a maritime task force (2024)<br>
+the primary responsibilities of the Lebanese Armed Forces (LAF) are defense against external attack, border security, protecting the country’s territorial waters, and assisting with internal security and development projects<br><br>the LAF’s domestic security responsibilities include countering narcotics trafficking and smuggling, managing protests, conducting search and rescue, and intervening to prevent violence between rival political factions; in recent years, the military has faced a financial crisis as government debt and national economic difficulties have undercut its ability to train and fully pay and supply personnel; the UN, as well as individual countries such as France, Qatar, and the US have provided financial assistance <br><br>the UN Interim Force in Lebanon (UNIFIL) has operated in the southern part of the country since 1978; it has approximately 10,500 personnel assigned and includes a maritime task force; the terrorist group Hizballah maintains thousands of fighters and militia in Lebanon, primarily in the south (see Terrorist Organizations in References) (2025)<br>
 
 ## Terrorism
 

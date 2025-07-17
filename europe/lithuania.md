@@ -143,7 +143,7 @@ _total population_: 0.86 male(s)/female (2024 est.)<br>
 28.2 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-9 deaths/100,000 live births (2020 est.)<br>
+8 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.6 deaths/1,000 live births (2024 est.)<br>
@@ -262,9 +262,6 @@ _methane emissions_: 3.15 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 1.3 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 297,960 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 22.9% (2015 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_salt water lake(s)_: Curonian Lagoon (shared with Russia) - 1,620 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 140 million cubic meters (2020 est.)<br>
@@ -647,7 +644,7 @@ _key ports_: Butinge Oil Terminal, Klaipeda<br>
 
 **Military and security forces**<br>
 Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Lithuanian Land Forces (LLF), Lithuanian Navy, Lithuanian Air Force (LTAF), Lithuanian Special Operations Forces (LITHSOF); National Defense Volunteer Forces (2025)<br>
-<strong>note 1: </strong>the National Rifleman's Union is a civilian paramilitary organization supported by the Lithuanian Government that cooperates with the military but is not part of it; however, in a state of war, its armed formations would fall under the armed forces<br><br><strong>note 2:</strong> the Lithuanian Police and State Border Guard Service are under the Ministry of Interior; in wartime, the State Border Guard Service becomes part of the armed forces<br>
+<strong>note 1: </strong>the National Rifleman's Union is a civilian paramilitary organization supported by the Lithuanian Government, which cooperates with the military but is not part of it; however, in a state of war, its armed formations would fall under the Armed Forces<br><br><strong>note 2:</strong> the Lithuanian Police and State Border Guard Service are under the Ministry of Interior; in wartime, the State Border Guard Service becomes part of the armed forces<br>
 
 **Military expenditures**<br>
 2.9% of GDP (2024 est.)<br>
@@ -670,7 +667,7 @@ the military's inventory is a mix of mostly European and US weapons and equipmen
 <strong>note: </strong>contributes about 350-550 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units; units affiliated with the multinational brigade remain within the structures of the armed forces of their respective countries until the brigade is activated for participation in an international operation<br>
 
 **Military - note**<br>
-the Lithuanian Armed Forces are responsible for the defense of the country’s interests, sovereignty, and territory, fulfilling Lithuania’s commitments to NATO and European security, and contributing to UN international peacekeeping efforts; Russia is Lithuania’s primary security focus, which has only increased since the Russian seizure of Crimea in 2014 and subsequent full-scale attack on Ukraine in 2022; Lithuania has been a member of NATO since 2004 and is reliant on the Alliance as the country’s security guarantor; it is actively engaged in both NATO and EU security, as well as bilaterally with allies such as the other Baltic States, Germany, Poland, the UK, Ukraine, and the US; the Lithuanian military has participated in NATO and EU missions abroad and regularly conducts training and exercises with NATO and EU partner forces; it hosts NATO forces, is a member of the UK-led Joint Expeditionary Force, and contributes troops to a multinational brigade with Poland and Ukraine; Lithuania participated in its first UN peacekeeping mission in 1994<br><br>since 2017, Lithuania has hosted a German-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; NATO has also provided air protection for Lithuania since 2004 through its Baltic Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on four-month rotations; NATO fighter aircraft are hosted at Lithuania’s Šiauliai Air Base (2025)<br>
+the Lithuanian Armed Forces are responsible for the defense of the country’s interests, sovereignty, and territory, fulfilling Lithuania’s commitments to NATO and European security, and contributing to UN international peacekeeping efforts; Russia is Lithuania’s primary security focus, which has only increased since the Russian seizure of Crimea in 2014 and subsequent full-scale attack on Ukraine in 2022; Lithuania has been a member of NATO since 2004 and is reliant on the Alliance as the country’s security guarantor; it is actively engaged in both NATO and EU security, as well as bilaterally with allies such as the other Baltic States, Germany, Poland, the UK, Ukraine, and the US; the Lithuanian military has participated in NATO and EU missions abroad and regularly conducts training and exercises with NATO and EU partner forces; it hosts NATO forces, is a member of the UK-led Joint Expeditionary Force, and contributes troops to a multinational brigade with Poland and Ukraine; Lithuania participated in its first UN peacekeeping mission in 1994<br><br>since 2017, Lithuania has hosted a German-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; NATO has also provided air protection for Lithuania since 2004 through its Baltic Air Policing mission; NATO fighter aircraft are hosted at Lithuania’s Šiauliai Air Base (2025)<br>
 
 ## Transnational Issues
 

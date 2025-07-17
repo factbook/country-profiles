@@ -148,7 +148,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 30.7 years (2018 est.)<br>
 
 **Maternal mortality ratio**<br>
-4 deaths/100,000 live births (2020 est.)<br>
+3 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 1.9 deaths/1,000 live births (2024 est.)<br>
@@ -261,9 +261,6 @@ _methane emissions_: 29.99 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 43.981 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 2,155,069 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 4.9% (2015 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Biwa-ko 688 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 14.8 billion cubic meters (2020 est.)<br>

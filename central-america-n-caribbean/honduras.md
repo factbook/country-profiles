@@ -147,7 +147,7 @@ _total population_: 0.93 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age a first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-72 deaths/100,000 live births (2020 est.)<br>
+47 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 15.4 deaths/1,000 live births (2024 est.)<br>
@@ -265,9 +265,6 @@ _methane emissions_: 7.72 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,162,028 tons (2016 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_salt water lake(s)_: Laguna de Caratasca - 1,110 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 320 million cubic meters (2020 est.)<br>

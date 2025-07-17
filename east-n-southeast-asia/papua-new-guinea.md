@@ -148,7 +148,7 @@ _total population_: 1.03 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age a first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-192 deaths/100,000 live births (2020 est.)<br>
+189 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 32 deaths/1,000 live births (2024 est.)<br>
@@ -264,9 +264,6 @@ _municipal solid waste generated annually_: 1 million tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 20,000 tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 2% (2016 est.)<br>
 
-**Major rivers (by length in km)**<br>
-Sepik river source and mouth (shared with Indonesia) - 1,126 km; Fly river source and mouth (shared with Indonesia) - 1,050 km<br>
-
 **Total water withdrawal**<br>
 _municipal_: 220 million cubic meters (2020 est.)<br>
 _industrial_: 170 million cubic meters (2020 est.)<br>
@@ -345,7 +342,7 @@ _subordinate courts_: district, village, and juvenile courts, military courts, t
 Destiny Party <br>Liberal Party <br>Melanesian Alliance Party or MAP <br>Melanesian Liberal Party or MLP <br>National Alliance Party or NAP <br>Our Development Party or ODP <br>Papua and Niugini Union Party or PANGU PATI <br>Papua New Guinea Greens Party <br>Papua New Guinea National Party <br>Papua New Guinea Party or PNGP <br>People's First Party or PFP <br>People's Movement for Change or PMC <br>People's National Congress Party or PNC <br>People’s National Party <br>People's Party or PP <br>People's Progress Party or PPP <br>People's Reform Party or PRP <br>PNG Party <br>Social Democratic Party or SDP <br>Triumph Heritage Empowerment Party or THE <br>United Labor Party or ULP <br>United Resources Party or URP <br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Cephas KAYO (since 31 January 2018)<br>
+_chief of mission_: Ambassador-designate Sir Arnold AMET (since 24 February 2025); Charg&eacute; d&rsquo;Affaires Cephas KAYO (since January 2018)<br>
 _chancery_: 1825 K Street NW, Suite 1010, Washington, DC 20006<br>
 _telephone_: [1] (202) 745-3680<br>
 _FAX_: [1] (202) 745-3679<br>
@@ -388,7 +385,7 @@ _selected World Heritage Site locales_: Kuk Early Agricultural Site<br>
 ## Economy
 
 **Economic overview**<br>
-lower middle-income Pacific island economy; primarily informal agrarian sector; natural resource-rich; key liquified natural gas exporter; growing young workforce; slow post-pandemic recovery; increasingly impoverished citizenry; sustainable inflation<br>
+<p>lower-middle-income Pacific island economy; primarily informal agrarian sector; natural-resource-rich and key exporter of liquified natural gas; collapse in betel nut prices, tighter monetary policy, and improved foreign-exchange availability contributing to declining inflation; challenges include lack of progress in infrastructure, agricultural reform, and corruption</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $43.371 billion (2023 est.)<br>

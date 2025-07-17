@@ -155,7 +155,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-69 deaths/100,000 live births (2020 est.)<br>
+51 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 10.8 deaths/1,000 live births (2024 est.)<br>
@@ -274,18 +274,6 @@ _methane emissions_: 30.17 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 8,356,711 tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 334,268 tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 4% (2012 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lago Titicaca (shared with Bolivia) - 8,030 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Amazon river source (shared with Brazil [m]) - 6,400 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
-
-**Major aquifers**<br>
-Amazon Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 2.24 billion cubic meters (2020 est.)<br>

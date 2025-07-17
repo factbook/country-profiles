@@ -513,7 +513,7 @@ _key ports_: Macau<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular indigenous military forces; Macau Public Security Police Force<br>
+Macau Public Security Police Force<br>
 
 **Military - note**<br>
 defense is the responsibility of China; the Chinese People's Liberation Army (PLA) maintains a garrison in Macau<br>

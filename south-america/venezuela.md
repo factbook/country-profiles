@@ -149,7 +149,7 @@ _65 years and over_: 0.84 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-259 deaths/100,000 live births (2020 est.)<br>
+227 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 13.9 deaths/1,000 live births (2024 est.)<br>
@@ -249,15 +249,6 @@ _methane emissions_: 68.66 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 9,779,093 tons (2010 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_salt water lake(s)_: Lago de Maracaibo - 13,010 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Rio Negro (shared with Colombia [s] and Brazil [m]) - 2,250 km; Orinoco river source and mouth (shared with Colombia) - 2,101 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 5.12 billion cubic meters (2020 est.)<br>

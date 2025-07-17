@@ -147,7 +147,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 29.5 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-8 deaths/100,000 live births (2020 est.)<br>
+8 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 2.1 deaths/1,000 live births (2024 est.)<br>
@@ -263,9 +263,6 @@ _methane emissions_: 4.46 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 2.738 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 769,926 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 28.1% (2015 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Saimaa - 1,760 sq km; Paijanne - 1,090 sq km; Inarijarvi - 1,000 sq km; Oulujarvi - 900 sq km; Pielinen - 850 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 1 billion cubic meters (2020 est.)<br>

@@ -153,7 +153,7 @@ _65 years and over_: 0.74 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-45 deaths/100,000 live births (2020 est.)<br>
+33 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 9 deaths/1,000 live births (2024 est.)<br>
@@ -271,19 +271,6 @@ _methane emissions_: 120.66 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 17,910,550 tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 1,074,633 tons (2010 est.)<br>
 _percent of municipal solid waste recycled_: 6% (2010 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago Argentino - 1,410 sq km; Lago Viedma - 1,090 sq km; Lago San Mart&iacute;n (shared with Chile) - 1,010 sq km; Lago Colhu&eacute; Huapi - 800 sq km; Lago Fagnano (shared with Chile) - 590 sq km; Lago Nahuel Huapi - 550 sq km<br>
-_salt water lake(s)_: Laguna Mar Chiquita - 1,850 sq km;<br>
-
-**Major rivers (by length in km)**<br>
-Río de la Plata/Paraná river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
-
-**Major aquifers**<br>
-Guaran&iacute; Aquifer System<br>
 
 **Total water withdrawal**<br>
 _municipal_: 5.85 billion cubic meters (2020 est.)<br>

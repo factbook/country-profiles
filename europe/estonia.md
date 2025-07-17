@@ -144,7 +144,7 @@ _total population_: 0.89 male(s)/female (2024 est.)<br>
 28.2 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-5 deaths/100,000 live births (2020 est.)<br>
+5 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.3 deaths/1,000 live births (2024 est.)<br>
@@ -256,9 +256,6 @@ _methane emissions_: 0.99 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 473,000 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 117,020 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 24.7% (2015 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lake Peipus - 4,300 sq km (shared with Russia); Lake V&otilde;rtsj&auml;rv - 270 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 60 million cubic meters (2020 est.)<br>

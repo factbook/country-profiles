@@ -146,7 +146,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 29.2 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-5 deaths/100,000 live births (2020 est.)<br>
+4 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.1 deaths/1,000 live births (2024 est.)<br>
@@ -265,9 +265,6 @@ _methane emissions_: 7.78 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 4.708 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 1,614,985 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 34.3% (2015 est.)<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Seine (78,919 sq km), Rhine-Maas (198,735 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 740 million cubic meters (2020 est.)<br>

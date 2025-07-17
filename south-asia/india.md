@@ -157,7 +157,7 @@ _total population_: 1.06 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-103 deaths/100,000 live births (2020 est.)<br>
+80 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 30.4 deaths/1,000 live births (2024 est.)<br>
@@ -277,18 +277,6 @@ _methane emissions_: 559.11 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 168,403,240 tons (2001 est.)<br>
 _municipal solid waste recycled annually_: 8,420,162 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 5% (2013 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_salt water lake(s)_: Chilika Lake - 1,170 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Brahmaputra (shared with China [s] and Bangladesh [m]) - 3,969 km; Indus (shared with China [s] and Pakistan [m]) - 3,610 km; Ganges river source (shared with Bangladesh [m]) - 2,704 km; Godavari - 1,465 km; Sutlej (shared with China [s] and Pakistan [m]) - 1,372 km; Yamuna - 1,370 km; Narmada - 1,289 km; Chenab river source (shared with Pakistan [m]) - 1,086 km ; Ghaghara river mouth (shared with China [s] and Nepal) - 1,080 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km)<br>
-
-**Major aquifers**<br>
-Indus-Ganges-Brahmaputra Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 56 billion cubic meters (2020 est.)<br>

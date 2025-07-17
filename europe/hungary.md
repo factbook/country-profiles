@@ -148,7 +148,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 28.4 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-15 deaths/100,000 live births (2020 est.)<br>
+12 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 4.7 deaths/1,000 live births (2024 est.)<br>
@@ -260,15 +260,6 @@ _methane emissions_: 7.25 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 3.712 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 962,893 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 25.9% (2015 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lake Balaton - 590 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Duna (Danube) (shared with Germany [s], Austria, Slovakia, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 660 million cubic meters (2020 est.)<br>

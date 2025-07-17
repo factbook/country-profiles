@@ -151,7 +151,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
-71 deaths/100,000 live births (2020 est.)<br>
+58 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 22 deaths/1,000 live births (2024 est.)<br>
@@ -263,15 +263,6 @@ _methane emissions_: 27.65 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,818,501 tons (2015 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Río de la Plata/Paraná (shared with Brazil [s], Argentina, and Uruguay [m]) - 4,880 km; Paraguay river mouth (shared with Brazil [s] and Argentina) - 2,549 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
-
-**Major aquifers**<br>
-Guarani Aquifer System<br>
 
 **Total water withdrawal**<br>
 _municipal_: 360 million cubic meters (2020 est.)<br>

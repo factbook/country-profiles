@@ -150,7 +150,7 @@ _65 years and over_: 0.95 male(s)/female<br>
 _total population_: 1 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-72 deaths/100,000 live births (2020 est.)<br>
+70 deaths/100,000 live births (2023 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Infant mortality rate**<br>
@@ -281,9 +281,6 @@ _municipal solid waste generated annually_: 6.852 million tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 548,160 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2014 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
-
-**Major rivers (by length in km)**<br>
-Draa - 1,100 km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 1.06 billion cubic meters (2020 est.)<br>

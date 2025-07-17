@@ -155,7 +155,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
-547 deaths/100,000 live births (2020 est.)<br>
+427 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 57.4 deaths/1,000 live births (2024 est.)<br>
@@ -272,18 +272,6 @@ _methane emissions_: 61.24 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 14,385,226 tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 704,876 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 4.9% (2005 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lake Tanganyika (shared with Burundi, Tanzania, and Zambia) - 32,000 sq km; Lake Albert (shared with Uganda) - 5,590 sq km; Lake Mweru (shared with Zambia) - 4,350 sq km; Lac Mai-Ndombe - 2,300 sq km; Lake Kivu (shared with Rwanda) - 2,220 sq km; Lake Edward (shared with Uganda) - 2,150 sq km; Lac Tumba - 500 sq km; Lac Upemba - 530 sq km<br>
-
-**Major rivers (by length in km)**<br>
-<p>Zaïre (Congo) river mouth (shared with Zambia [s], Angola, and Republic of Congo) - 2,920 km; Ubangi river mouth (shared with Central African Republic [s] and Republic of Congo) - 2,270 km</p> <strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
-
-**Major aquifers**<br>
-Congo Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 460 million cubic meters (2020 est.)<br>

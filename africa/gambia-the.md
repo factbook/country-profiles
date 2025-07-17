@@ -150,7 +150,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-458 deaths/100,000 live births (2020 est.)<br>
+354 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 35.7 deaths/1,000 live births (2024 est.)<br>
@@ -263,12 +263,6 @@ _methane emissions_: 1.96 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 193,441 tons (2002 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Gambia river mouth (shared with Senegal and Guinea [s]) - 1,094 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major aquifers**<br>
-Senegalo-Mauritanian Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 40 million cubic meters (2020 est.)<br>

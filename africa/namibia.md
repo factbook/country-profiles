@@ -153,7 +153,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 <strong>note: </strong>data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-215 deaths/100,000 live births (2020 est.)<br>
+139 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 27.9 deaths/1,000 live births (2024 est.)<br>
@@ -257,15 +257,6 @@ _methane emissions_: 10.4 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 256,729 tons (1993 est.)<br>
 _municipal solid waste recycled annually_: 11,553 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 4.5% (2005 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Zambezi (shared with Zambia [s]), Angola, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Orange river mouth (shared with Lesotho [s], and South Africa) - 2,092 km; Okavango (shared with Angola [s], and Botswana [m]) - 1,600 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
-
-**Major aquifers**<br>
-Lower Kalahari-Stampriet Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 70 million cubic meters (2020 est.)<br>

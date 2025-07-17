@@ -152,7 +152,7 @@ _total population_: 1.01 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-161 deaths/100,000 live births (2020 est.)<br>
+146 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 22.3 deaths/1,000 live births (2024 est.)<br>
@@ -267,16 +267,6 @@ _methane emissions_: 21.01 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 2,219,052 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 268,727 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 12.1% (2015 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lago Titicaca (shared with Peru) - 8,030 sq km<br>
-_salt water lake(s)_: Lago Poopo - 1,340 sq km<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Amazon (6,145,186 sq km), Paran&aacute; (2,582,704 sq km)<br>
-
-**Major aquifers**<br>
-Amazon Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 140 million cubic meters (2020 est.)<br>

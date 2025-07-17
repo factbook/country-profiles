@@ -152,7 +152,7 @@ _total population_: 0.93 male(s)/female (2024 est.)<br>
 27.1 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-10 deaths/100,000 live births (2020 est.)<br>
+12 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 5.5 deaths/1,000 live births (2024 est.)<br>
@@ -268,12 +268,6 @@ _methane emissions_: 27.62 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 4.895 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 277,547 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 5.7% (2015 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Dunărea (Danube) river mouth (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Ukraine) - 2,888 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 1.09 billion cubic meters (2020 est.)<br>

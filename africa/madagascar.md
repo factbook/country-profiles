@@ -143,7 +143,7 @@ _total population_: 1.01 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
-392 deaths/100,000 live births (2020 est.)<br>
+445 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 37.5 deaths/1,000 live births (2024 est.)<br>
@@ -640,7 +640,7 @@ the military's inventory consists mostly of older or secondhand weapons and equi
 18-25 years of age for men and women; service obligation 18 months; no conscription; women are permitted to serve in all branches (2023)<br>
 
 **Military - note**<br>
-the military&rsquo;s responsibilities include ensuring sovereignty and territorial integrity and protecting Madagascar&rsquo;s maritime domain, particularly against piracy, drug trafficking, and smuggling; it also assists the Gendarmerie with maintaining law and order in rural areas, largely in areas affected by banditry, cattle rustling, and criminal groups; the military has a history of having influence in domestic politics and a lack of accountability; members of the Army and the Gendarmerie were arrested for coup plotting as recently as 2021; its closest defense partners have been India and Russia, although France has provided some training and China has sought to strengthen security ties; Madagascar's small Navy has traditionally looked to India for assistance with maritime security (2024)<br>
+the military&rsquo;s responsibilities include ensuring sovereignty and territorial integrity and protecting Madagascar&rsquo;s maritime domain, particularly against piracy, drug trafficking, and smuggling; it also assists the Gendarmerie with maintaining law and order in rural areas, largely in areas affected by banditry, cattle rustling, and criminal groups; the military has a history of having influence in domestic politics; members of the military were arrested for coup plotting as recently as 2021; security relationships have included France, India, and Russia; Madagascar's small Navy has traditionally looked to India for assistance with maritime security (2025)<br>
 
 ## Transnational Issues
 

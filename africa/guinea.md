@@ -148,7 +148,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
-553 deaths/100,000 live births (2020 est.)<br>
+494 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 47 deaths/1,000 live births (2024 est.)<br>
@@ -260,12 +260,6 @@ _methane emissions_: 11.13 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 596,911 tons (1996 est.)<br>
 _municipal solid waste recycled annually_: 29,846 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 5% (2005 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Niger river source (shared with Mali, and Nigeria [m]) - 4,200 km; Gambie (Gambia) river source (shared with Senegal and The Gambia [m]) - 1,094 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 230 million cubic meters (2020 est.)<br>

@@ -148,7 +148,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-494 deaths/100,000 live births (2020 est.)<br>
+392 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 35.7 deaths/1,000 live births (2024 est.)<br>
@@ -263,12 +263,6 @@ _methane emissions_: 1.42 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,872,016 tons (2002 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Zambia) - 32,000 sq km<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 40 million cubic meters (2020 est.)<br>

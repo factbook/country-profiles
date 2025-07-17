@@ -150,7 +150,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-357 deaths/100,000 live births (2020 est.)<br>
+358 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 33.4 deaths/1,000 live births (2024 est.)<br>
@@ -267,15 +267,6 @@ _methane emissions_: 12.1 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 1,449,752 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 231,960 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 16% (2005 est.)<br>
-
-**Major rivers (by length in km)**<br>
-<p>Zambezi (shared with Zambia [s]), Angola, Namibia, Botswana, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Botswana, and Mozambique [m]) - 1,800 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
-
-**Major aquifers**<br>
-Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 650 million cubic meters (2020 est.)<br>

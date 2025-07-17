@@ -143,7 +143,7 @@ _total population_: 1.02 male(s)/female (2024 est.)<br>
 31 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-6 deaths/100,000 live births (2020 est.)<br>
+12 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.2 deaths/1,000 live births (2024 est.)<br>
@@ -255,9 +255,6 @@ _methane emissions_: 0.61 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 356,000 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 100,997 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 28.4% (2015 est.)<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 50 million cubic meters (2020 est.)<br>
@@ -638,11 +635,11 @@ approximately 900 active Luxembourg Army personnel (2024)<br>
 the inventory of Luxembourg's Army is a small mix of Western origin equipment (2024)<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for voluntary military service for men and women; no conscription (abolished 1969) (2024)<br>
+18-26 years of age for voluntary military service for men and women; no conscription (abolished 1969) (2025)<br>
 <strong>note 1: </strong>since 2003, the Army has allowed EU citizens 18-24 years of age who have been a resident in the country for at least 36 months to volunteer<strong><br><br>note 2:</strong> 2024, women made up about 12% of the military's full-time personnel<br>
 
 **Military - note**<br>
-founded in 1881, the Luxembourg Army is responsible for the defense of the country and fulfilling the Grand Duchy’s commitments to NATO, European security, and international peacekeeping, as well as providing support to civil authorities in the event of emergencies, such as floods or disease outbreaks; the Army is an active participant in EU, NATO, and UN missions and has contributed small numbers of troops to multinational operations in such places as Afghanistan, Bosnia and Herzegovina, Chad, Croatia, the Democratic Republic of the Congo, Iraq, Kosovo, Lebanon, North Macedonia, Mali, Mozambique, and Uganda; it trains and exercises regularly with EU and NATO partners and has contributed to the NATO battlegroup forward deployed in Lithuania since 2017; Luxembourg was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) establishing NATO in 1949<br><br>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries (2024)<br>
+founded in 1881, the Luxembourg Army is responsible for the defense of the country and fulfilling the Grand Duchy’s commitments to NATO, European security, and international peacekeeping, as well as providing support to civil authorities in the event of emergencies, such as floods or disease outbreaks; the Army is an active participant in EU, NATO, and UN missions and has contributed small numbers of troops to a number of multinational operations in parts of Africa, Europe, and Asia; it trains and exercises regularly with EU and NATO partners and has contributed to the NATO battlegroup forward deployed in Lithuania since 2017; Luxembourg was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) establishing NATO in 1949<br><br>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries (2025)<br>
 
 ## Space
 
@@ -650,7 +647,7 @@ founded in 1881, the Luxembourg Army is responsible for the defense of the count
 the Luxembourg Space Agency (LSA; established 2018) (2024)<br>
 
 **Space program overview**<br>
-aims to be the commercial space hub for Europe; LSA established largely to develop space policy, encourage and coordinate commercial space ventures, support space education, and to promote the country’s space-related capabilities internationally; has a national space strategy; has set up policy and funding initiatives (such as LuxIMPULSE) aimed at encouraging space research, development, innovation, and entrepreneurship and attracting space-based industries; focused on developing commercial satellites and infrastructure (Luxembourg is home to some of the largest commercial satellite companies in the world), as well as other space sector capabilities and technologies, such as autonomous vehicles, robotics, remote sensing (RS), communications, and software; member of the European Space Agency (ESA), participates in ESA programs, and cooperates with individual ESA and EU member states; also has relations with other foreign space agencies and industries, including those of Canada, China, Japan, New Zealand, South Korea, the UAE, and the US (2024)<br>
+LSA established largely to develop space policy, encourage and coordinate commercial space ventures, support space education, and to promote the country’s space-related capabilities internationally; has a national space strategy; has set up policy and funding initiatives (such as LuxIMPULSE) aimed at encouraging space research, development, innovation, and entrepreneurship and attracting space-based industries; focused on developing commercial satellites and infrastructure (Luxembourg is home to some of the largest commercial satellite companies in the world), as well as other space sector capabilities and technologies, such as autonomous vehicles, robotics, remote sensing (RS), communications, and software; member of the European Space Agency (ESA), participates in ESA programs, and cooperates with individual ESA and EU member states; also has relations with other foreign space agencies and industries, including those of Canada, China, Japan, New Zealand, South Korea, the UAE, and the US (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues

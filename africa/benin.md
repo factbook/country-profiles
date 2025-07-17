@@ -145,7 +145,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-523 deaths/100,000 live births (2020 est.)<br>
+518 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 52.9 deaths/1,000 live births (2024 est.)<br>
@@ -265,9 +265,6 @@ _methane emissions_: 5.8 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 685,936 tons (1993 est.)<br>
 _municipal solid waste recycled annually_: 171,484 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 25% (2005 est.)<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 150 million cubic meters (2020 est.)<br>

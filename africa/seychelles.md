@@ -137,7 +137,7 @@ _65 years and over_: 0.76 male(s)/female<br>
 _total population_: 1.08 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-3 deaths/100,000 live births (2020)<br>
+42 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 10.2 deaths/1,000 live births (2024 est.)<br>

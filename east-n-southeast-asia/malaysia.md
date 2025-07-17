@@ -140,7 +140,7 @@ _65 years and over_: 0.94 male(s)/female<br>
 _total population_: 1.05 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-21 deaths/100,000 live births (2020 est.)<br>
+26 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 6.4 deaths/1,000 live births (2024 est.)<br>
@@ -667,7 +667,7 @@ Malaysian Armed Forces (Angkatan Tentera Malaysia, ATM): Malaysian Army, Royal M
 approximately 110,000 active Malaysian Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military fields a diverse array of mostly older but growing mix of modern weapons and equipment; its inventory originates from a wide variety of suppliers across Europe, Asia, and the US; Malaysia has a domestic defense industry that has some co-production agreements with countries such as France, Germany, and Turkey in such areas armored vehicles and naval vessels (2024)<br>
+the military fields a diverse array of mostly older but growing mix of modern weapons and equipment; its inventory originates from a wide variety of suppliers across Europe, Asia, and the US; Malaysia has a domestic defense industry that has some co-production agreements with countries such as France, Germany, and Turkey in areas including armored vehicles and naval vessels (2024)<br>
 
 **Military service age and obligation**<br>
 17 years 6 months of age for voluntary military service for men and women (younger with parental consent and proof of age); maximum age of 27 to enlist; mandatory retirement age 60; no conscription (2023)<br>
@@ -677,7 +677,7 @@ the military fields a diverse array of mostly older but growing mix of modern we
 830 Lebanon (UNIFIL) (2024)<br>
 
 **Military - note**<br>
-the Malaysian military is responsible for defense of the country's national interests, sovereignty, and territorial integrity; it also has some domestic responsibilities, such as responding to natural disasters; while the Army has traditionally been the dominant service, air and maritime security have received increased emphasis in recent years, particularly anti-piracy operations in the Strait of Malacca and countering Chinese incursions into Malaysia’s Economic Exclusion Zone, as well as addressing other identified shortfalls in air and maritime capabilities; as such, Malaysia has undertaken efforts to procure more modern fighters and ships, improve air and maritime surveillance, expand the Navy’s support infrastructure (particularly bases/ports) and domestic ship-building capacities, restructure naval command and control, and increase air and naval cooperation with regional and international partners such as Indonesia, the Philippines, and the US<br><br>Malaysia is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily (2024)<br>
+the Malaysian military is responsible for defense of the country's national interests, sovereignty, and territorial integrity; it also has some domestic responsibilities, such as responding to natural disasters; key areas of focus for the military include cyber defense, crime and piracy in the Strait of Malacca, and tensions in the South China Sea; the Army has traditionally been the dominant service, but air and maritime security have received increased emphasis in recent years; Malaysia has undertaken efforts to procure more modern aircraft and ships, improve air and maritime surveillance, expand the Navy’s support infrastructure (particularly bases/ports) and domestic ship-building capacities, and increase cooperation with regional and international partners such as Australia, Indonesia, the Philippines, Singapore, and the US<br><br>Malaysia is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily (2025)<br>
 
 ## Space
 

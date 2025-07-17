@@ -146,7 +146,7 @@ _65 years and over_: 0.79 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-835 deaths/100,000 live births (2020 est.)<br>
+692 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 80.5 deaths/1,000 live births (2024 est.)<br>
@@ -256,15 +256,6 @@ _methane emissions_: 22.44 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,105,983 tons (2014 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Oubangui (Ubangi) river [s] (shared with Democratic Republic of Congo and Republic of Congo [m]) - 2,270 km <br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
-
-**Major aquifers**<br>
-Congo Basin, Lake Chad Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 60 million cubic meters (2020 est.)<br>

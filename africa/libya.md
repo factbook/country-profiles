@@ -147,7 +147,7 @@ _65 years and over_: 0.82 male(s)/female<br>
 _total population_: 1.04 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-72 deaths/100,000 live births (2020 est.)<br>
+59 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 10.7 deaths/1,000 live births (2024 est.)<br>
@@ -245,12 +245,6 @@ _methane emissions_: 45.76 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,147,596 tons (2011 est.)<br>
-
-**Major watersheds (area sq km)**<br>
-Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
-
-**Major aquifers**<br>
-Nubian Aquifer System, North Western Sahara Aquifer System, Murzuk-Djado Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 700 million cubic meters (2020 est.)<br>
@@ -590,8 +584,8 @@ _key ports_: Al Burayqah, Az Zawiya, Banghazi, Mersa Tobruq, Mina Tarabulus (Tri
 ## Military and Security
 
 **Military and security forces**<br>
-the Libyan Armed Forces of the Tripoli-based Government of National Unity (GNU) have various ground, air, and naval/coast guard forces, which include a mix of formations and equipment from the QADHAFI regime, semi-regular and nominally integrated units, tribal armed groups/militias, civilian volunteers, and foreign private military contractors; the GNU has a Ministry of Defense, but has limited control over its security forces<br><br>the self-styled Libyan National Army (LNA; aka Libyan Arab Armed Forces, LAAF), under de facto LNA commander Khalifa HAFTER, also includes various ground, air, and naval forces comprised of semi-regular military personnel, militias, and foreign private military contractors; the LNA operates independently from the GNU and exerts influence throughout eastern, central, and southern Libya; some of the armed groups nominally under the LNA operate under their own command structures and engage in their own operations (2024)<br>
-<strong>note: </strong>the national police force under the GNU's Ministry of Interior oversees internal security (with support from military forces under the Ministry of Defense), but much of Libya's security-related police work generally falls to informal armed groups, which receive government salaries but lack formal training, supervision, or consistent accountability<br>
+the Libyan Armed Forces of the Tripoli-based Government of National Unity (GNU) have various ground, air, and naval/coast guard forces, which include a mix of nominally integrated and semi-regular units, tribal armed groups and militias, civilian volunteers, and foreign military contractors; the GNU's armed forces are nominally under the control of the Ministry of Defense; the GNU also has various internal security forces under both the Ministry of Defense and the Ministry of Interior (2025)<br>
+<strong>note: </strong>the self-styled Libyan National Army (LNA; aka Libyan Arab Armed Forces, LAAF) under Khalifa HAFTER also includes various ground, air, and naval/coast guard forces comprised of semi-regular military personnel, militias, other armed groups, and foreign military contractors; some of the armed units nominally under the LNA operate under their own command structures and engage in their own operations<br>
 
 **Military expenditures**<br>
 not available<br>
@@ -607,7 +601,7 @@ both the forces aligned with the GNU and the LNA are largely equipped with weapo
 not available<br>
 
 **Military - note**<br>
-the western-based GNU and the eastern-based LNA forces are separated by a fortified line of control running roughly from the coastal city of Sirte south to the vicinity of Al Jufra and Brak; Turkey has provided support to the GNU forces, including military trainers, ammunition, weapons, and aerial drones; Russia, the United Arab Emirates, and Egypt have been the main supporters of the LNA; both the LNA and the GNU forces have incorporated foreign fighters into their ranks (2024)<br>
+the western-based forces aligned with the GNU and the eastern-based LNA forces are separated by a fortified line of control just west of the coastal city of Sirte; Turkey has provided support to the GNU forces, including military trainers, ammunition, weapons, and aerial drones; Russia, the United Arab Emirates, and Egypt have been the main supporters of the LNA (2025)<br>
 
 ## Terrorism
 

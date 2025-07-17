@@ -145,7 +145,7 @@ _65 years and over_: 0.73 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-15 deaths/100,000 live births (2020 est.)<br>
+10 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 6.3 deaths/1,000 live births (2024 est.)<br>
@@ -257,9 +257,6 @@ _methane emissions_: 15.97 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 6.517 million tons (2009 est.)<br>
 _municipal solid waste recycled annually_: 24,113 tons (2009 est.)<br>
 _percent of municipal solid waste recycled_: 0.4% (2009 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lago General Carrera (shared with Argentina) - 2,240 sq km; Lago O'Higgins (shared with Argentina) - 1,010 sq km; Lago Llanquihue - 800 sq km; Lago Fagnano (shared with Argentina) - 590 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 1.29 billion cubic meters (2020 est.)<br>

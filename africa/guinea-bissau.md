@@ -140,7 +140,7 @@ _65 years and over_: 0.71 male(s)/female<br>
 _total population_: 0.96 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-725 deaths/100,000 live births (2020 est.)<br>
+505 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 46.4 deaths/1,000 live births (2024 est.)<br>
@@ -249,9 +249,6 @@ _methane emissions_: 1.46 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 289,514 tons (2015 est.)<br>
-
-**Major aquifers**<br>
-Senegalo-Mauritanian Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 30 million cubic meters (2020 est.)<br>

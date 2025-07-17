@@ -153,7 +153,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-530 deaths/100,000 live births (2020 est.)<br>
+379 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 26.1 deaths/1,000 live births (2024 est.)<br>
@@ -268,16 +268,6 @@ _methane emissions_: 37.65 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 5,595,099 tons (2010 est.)<br>
 _municipal solid waste recycled annually_: 447,608 tons (2009 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2009 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lake Victoria (shared with Tanzania and Uganda) - 62,940 sq km<br>
-_salt water lake(s)_: Lake Turkana (shared with Ethiopia) - 6,400 sq km<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
-
-**Major aquifers**<br>
-Ogaden-Juba Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 500 million cubic meters (2020 est.)<br>
@@ -693,7 +683,7 @@ no conscription; 18-26 years of age for voluntary service for men and women (und
 400 Democratic Republic of the Congo (MONUSCO); approximately 1,400 Somalia (African Union Support and Stabilization Mission in Somalia or AUSSOM) (2024)<br>
 
 **Military - note**<br>
-the KDF's chief security concerns and missions include protecting the country’s sovereignty and territory, regional disputes, the threat posed by the al-Shabaab terrorist group based in neighboring Somalia, maritime crime and piracy, and assisting civil authorities in responding to emergency, disaster, or political unrest as requested; it has conducted operations in neighboring Somalia since 2011 and taken part in numerous regional peacekeeping and security missions; the KDF is a leading member of the Africa Standby Force; it participates in multinational exercises, and has ties to a variety of foreign militaries, including those of France, the UK, and the US <br><br>the Kenya Military Forces were created following independence in 1963; the current KDF was established and its composition laid out in the 2010 constitution; it is governed by the Kenya Defense Forces Act of 2012; the Army traces its origins back to the Kings African Rifles (KAR), a British colonial regiment raised from Britain's East Africa possessions from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during both World Wars (2025)<br>
+the Kenya Defense Forces (KDF) are responsible for protecting the country's sovereignty and territory and assisting civil authorities in responding to emergency, disaster, or political unrest as requested; the KDF's chief security concerns include regional disputes and instability, maritime crime and piracy, and the threat posed by the Somalia-based al-Shabaab terrorist group, which has conducted attacks inside Kenya; it has conducted operations in neighboring Somalia since 2011 and taken part in numerous regional peacekeeping and security missions; the KDF is a leading member of the Africa Standby Force; it participates in multinational exercises, and has ties to a variety of foreign militaries, including those of France, the UK, and the US<br><br>the Kenya Military Forces were created following independence in 1963; the current KDF was established and its composition laid out in the 2010 constitution; it is governed by the Kenya Defense Forces Act of 2012; the Army traces its origins back to the Kings African Rifles (KAR), a British colonial regiment raised from Britain's East Africa possessions from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during both World Wars (2025)<br>
 
 ## Space
 

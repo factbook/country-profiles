@@ -146,7 +146,7 @@ _65 years and over_: 0.96 male(s)/female<br>
 _total population_: 1.03 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-78 deaths/100,000 live births (2020 est.)<br>
+62 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 18.7 deaths/1,000 live births (2024 est.)<br>
@@ -260,12 +260,6 @@ _methane emissions_: 49.94 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 12,378,740 tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 990,299 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2013 est.)<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
-
-**Major aquifers**<br>
-Lullemeden-Irhazer Aquifer System, Murzuk-Djado Basin, North Western Sahara Aquifer, Taoudeni-Tanezrouft Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 3.6 billion cubic meters (2020 est.)<br>

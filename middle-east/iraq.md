@@ -152,7 +152,7 @@ _65 years and over_: 0.8 male(s)/female<br>
 _total population_: 1.02 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-76 deaths/100,000 live births (2020 est.)<br>
+66 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 18.7 deaths/1,000 live births (2024 est.)<br>
@@ -263,18 +263,6 @@ _methane emissions_: 17.44 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 13.14 million tons (2015 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lake Hammar - 1,940 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Euphrates river mouth (shared with Turkey[s], Syria, and Iran) - 3,596 km; Tigris river mouth (shared with Turkey[s], Syria, and Iran) - 1,950 km; the Tigris and Euphrates join to form the Shatt al Arab<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
-
-**Major aquifers**<br>
-Arabian Aquifer System<br>
 
 **Total water withdrawal**<br>
 _municipal_: 6.9 billion cubic meters (2020 est.)<br>

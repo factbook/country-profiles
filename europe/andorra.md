@@ -140,6 +140,9 @@ _total population_: 1.05 male(s)/female (2024 est.)<br>
 **Mother's mean age at first birth**<br>
 32.8 years (2019)<br>
 
+**Maternal mortality ratio**<br>
+11 deaths/100,000 live births (2023 est.)<br>
+
 **Infant mortality rate**<br>
 _total_: 3.3 deaths/1,000 live births (2024 est.)<br>
 _male_: 3.4 deaths/1,000 live births<br>

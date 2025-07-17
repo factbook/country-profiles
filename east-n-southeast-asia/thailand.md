@@ -153,7 +153,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 23.3 years (2009 est.)<br>
 
 **Maternal mortality ratio**<br>
-29 deaths/100,000 live births (2020 est.)<br>
+34 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 6.3 deaths/1,000 live births (2024 est.)<br>
@@ -273,15 +273,6 @@ _methane emissions_: 86.98 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 26,853,366 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 5,128,993 tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 19.1% (2012 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_salt water lake(s)_: Thalesap Songkhla - 1,290 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Mae Nam Khong (Mekong) (shared with China [s], Burma, Laos, Cambodia, and Vietnam [m]) - 4,350 km; Salween (shared with China [s] and Burma [m]) - 3,060 km; Mun - 1,162 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 2.74 billion cubic meters (2020 est.)<br>

@@ -143,7 +143,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
-99 deaths/100,000 live births (2020 est.)<br>
+130 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 10.7 deaths/1,000 live births (2024 est.)<br>

@@ -148,7 +148,7 @@ _65 years and over_: 0.88 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-30 deaths/100,000 live births (2020 est.)<br>
+20 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 15.1 deaths/1,000 live births (2024 est.)<br>
@@ -250,12 +250,6 @@ _methane emissions_: 12.93 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 4.5 million tons (2009 est.)<br>
 _municipal solid waste recycled annually_: 112,500 tons (2010 est.)<br>
 _percent of municipal solid waste recycled_: 2.5% (2010 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Euphrates (shared with Turkey [s], Iran, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Iran, and Iraq [m]) - 1,950 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 1.48 billion cubic meters (2020 est.)<br>

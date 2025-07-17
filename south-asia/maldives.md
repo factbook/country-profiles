@@ -142,7 +142,7 @@ _total population_: 1.04 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-57 deaths/100,000 live births (2020 est.)<br>
+32 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 24.4 deaths/1,000 live births (2024 est.)<br>
@@ -622,7 +622,7 @@ the Defense Force has a limited inventory consisting of a mix of mostly secondha
 18-25 years of age for voluntary service; no conscription (2024)<br>
 
 **Military - note**<br>
-the Maldives National Defense Force (MNDF) is responsible for defending and safeguarding the Maldives' territorial integrity, economic exclusion zone, and people; it is also responsible for disaster relief, and if requested, assisting the Maldives Police Service in maintaining internal security and law and order; operationally, the MNDF is organized into four joint-service area commands (Central, Mal&eacute;, Northern, and Southern) and three functional commands (Special Forces, Special Protective Service, and Ordnance Service) (2025)<br>
+the Maldives National Defense Force (MNDF) is responsible for defending and safeguarding the Maldives' territorial integrity, economic exclusion zone, and people; it is also responsible for disaster relief, and if requested, assisting the Maldives Police Service in maintaining internal security and law and order; maritime security is its largest focus; the Indian Armed Forces have long been the MNDF's most important partner (2025)<br>
 
 ## Terrorism
 

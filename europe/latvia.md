@@ -144,7 +144,7 @@ _total population_: 0.87 male(s)/female (2024 est.)<br>
 27.3 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-18 deaths/100,000 live births (2020 est.)<br>
+19 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 4.7 deaths/1,000 live births (2024 est.)<br>
@@ -642,7 +642,7 @@ National Armed Forces (Nacionalie Brunotie Speki or NBS): Land Forces (Latvijas 
 2.2% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 8,000 active Armed Forces; approximately 10,000 National Guard&nbsp; (2024)<br>
+approximately 8,000 active Armed Forces; approximately 10,000 National Guard (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Latvian military's inventory consists of a mix of European and US weapons and equipment (2024)<br>
@@ -655,7 +655,7 @@ the Latvian military's inventory consists of a mix of European and US weapons an
 135 Kosovo (KFOR/NATO) (2024)<br>
 
 **Military - note**<br>
-the National Armed Forces are responsible for the defense of the country’s sovereignty and territory; they also have some domestic security responsibilities, including coast guard functions, search and rescue, humanitarian assistance, and providing support to other internal security services, including the State Border Service, the State Police, and the State Security Service; the Military Police provides protection to the president and other government officials, foreign dignitaries, and key facilities; for external defense, Latvia’s primary security focus is Russia<br><br>in 2004, Latvia joined NATO and the EU, which it depends on to play a decisive role in Latvia’s security policy; the Latvian military has participated in NATO and EU missions abroad and regularly conducts training and exercises with NATO and EU partner forces<br><br>Latvia also hosts NATO partner forces; since 2017, it has hosted a Canadian-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; in addition, Latvia hosts a NATO-led divisional headquarters (Multinational Division North; activated 2020), which coordinates training and preparation activities of its respective subordinate NATO battlegroups in Estonia and Latvia<br><br>the Air Force has no combat aircraft; NATO has provided air protection for Latvia since 2004 through its Baltics Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on four-month rotations<br><br>Latvia is a member of the UK-led Joint Expeditionary Force, a pool of high-readiness military forces from 10 Baltic and Scandinavian countries designed to respond to a wide range of contingencies in the North Atlantic, Baltic Sea, and High North regions (2025)<br>
+the National Armed Forces are responsible for the defense of the country’s sovereignty and territory; they also have some domestic security responsibilities, including coast guard functions, search and rescue, humanitarian assistance, and providing support to other internal security services; the Military Police provides protection to the president and other government officials, foreign dignitaries, and key facilities; Latvia’s primary external security focus is Russia<br><br>in 2004, Latvia joined NATO and the EU, both of which it depends on to play a decisive role in Latvia’s security policy; the Latvian military has participated in EU and NATO missions abroad and regularly conducts training and exercises with EU and NATO partner forces; Latvia also hosts NATO partner forces; since 2017, it has hosted a Canadian-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; in addition, NATO has provided air protection for Latvia since 2004 through its Baltics Air Policing mission<br><br>Latvia is a member of the UK-led Joint Expeditionary Force, a pool of high-readiness military forces from 10 Baltic and Scandinavian countries designed to respond to a wide range of contingencies in the North Atlantic, Baltic Sea, and High North regions (2025)<br>
 
 ## Transnational Issues
 

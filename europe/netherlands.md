@@ -150,7 +150,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 30.2 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-4 deaths/100,000 live births (2020 est.)<br>
+4 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.6 deaths/1,000 live births (2024 est.)<br>
@@ -263,12 +263,6 @@ _methane emissions_: 17.79 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 8.855 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 2,179,216 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 24.6% (2015 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Rijn (Rhine) river mouth (shared with Switzerland [s], Germany, and France) - 1,233 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 2.05 billion cubic meters (2020 est.)<br>

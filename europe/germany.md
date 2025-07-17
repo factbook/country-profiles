@@ -153,7 +153,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 29.9 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-4 deaths/100,000 live births (2020 est.)<br>
+4 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.1 deaths/1,000 live births (2024 est.)<br>
@@ -270,16 +270,6 @@ _municipal solid waste generated annually_: 51.046 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 24,415,302 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 47.8% (2015 est.)<br>
 
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lake Constance (shared with Switzerland and Austria) - 540 sq km<br>
-_salt water lake(s)_: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Donau (Danube) river source (shared with Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhein (Rhine) (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km <br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
-
 **Total water withdrawal**<br>
 _municipal_: 10.4 billion cubic meters (2020 est.)<br>
 _industrial_: 17.68 billion cubic meters (2020 est.)<br>
@@ -363,6 +353,7 @@ _expected date of next election_: February 2029<br>
 **Legislative branch - upper chamber**<br>
 _chamber name_: Federal Council (Bundesrat)<br>
 _number of seats_: 69 (all appointed)<br>
+_parties elected and seats per party_: SPD 23; CDU 17; Green Party 15; Left Party 4; CSU 3; FW 3; FDP 2; other 2<br>
 _percentage of women in chamber_: 34.8%<br>
 
 **Judicial branch**<br>
@@ -371,7 +362,7 @@ _judge selection and term of office_: Federal Court of Justice judges selected b
 _subordinate courts_: Federal Administrative Court; Federal Finance Court; Federal Labor Court; Federal Social Court; each of the 16 federated states or Land has its own constitutional court and a hierarchy of ordinary (civil, criminal, family) and specialized (administrative, finance, labor, social) courts; two English-speaking commercial courts opened in 2020 in the state of Baden-Wuerttemberg -- the Stuttgart Commercial Court and the Mannheim Commercial Court<br>
 
 **Political parties**<br>
-Alliance '90/Greens <br>Alternative for Germany or AfD <br>Christian Democratic Union or CDU <br>Christian Social Union or CSU <br>Free Democratic Party or FDP <br>Free Voters <br>The Left or Die Linke <br>Social Democratic Party or SPD <br>
+Alliance '90/Greens <br>Alternative for Germany or AfD <br>Christian Democratic Union or CDU <br>Christian Social Union or CSU <br>Free Democratic Party or FDP <br>Free Voters or FW<br>The Left or Die Linke <br>Social Democratic Party or SPD<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Andreas MICHAELIS (since 15 September 2023)<br>
@@ -414,8 +405,8 @@ _lyrics/music_: August Heinrich HOFFMANN VON FALLERSLEBEN/Franz Joseph HAYDN<br>
 <strong>note:</strong> adopted 1922; the anthem, also known as "Deutschlandlied" (Song of Germany), was originally adopted for its connection to the March 1848 liberal revolution; following appropriation by the Nazis of the first verse, specifically the phrase, "Deutschland, Deutschland ueber alles" (Germany, Germany above all) to promote nationalism, it was banned after 1945; in 1952, its third verse was adopted by West Germany as its national anthem; in 1990, it became the national anthem for the reunited Germany<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 54 (52 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: <p>Museumsinsel (Museum Island), Berlin (c); Palaces and Parks of Potsdam and Berlin (c); Speyer Cathedral (c); Aachen Cathedral (c); Bauhaus and its Sites in Weimar, Dessau, and Bernau (c); Caves and Ice Age Art in the Swabian Jura (c); Roman Monuments, Cathedral of St. Peter, and Church of Our Lady in Trier (c); Hanseatic City of Lübeck (c); Old Town of Regensburg with Stadtamhof (c); Würzburg Residence with the Court Gardens and Residence Square (c); Pilgrimage Church of Wies (c); Castles of Augustusburg and Falkenlust at Brühl (c); St Mary's Cathedral and St Michael's Church at Hildesheim (c); Abbey and Altenmünster of Lorsch (c); Maulbronn Monastery Complex (c); Collegiate Church, Castle and Old Town of Quedlinburg (c); Cologne Cathedral (c); Castle Church in Wittenberg (c); Classical Weimar (c); Wartburg Castle (c); Garden Kingdom of Dessau-Wörlitz (c); Monastic Island of Reichenau (c); Berlin Modernism Housing Estates (c); Prehistoric Pile Dwellings around the Alps (c); Moravian Church Settlements (c); Speicherstadt and Kontorhaus District with Chilehaus (c); The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement (c); Archaeological Border complex of Hedeby and the Danevirke (c); Naumburg Cathedral (c); Mathildenhöhe Darmstadt (c); ShUM Sites of Speyer, Worms and Mainz (c); The Great Spa Towns of Europe (c); Jewish-Medieval Heritage of Erfurt (c); Schwerin Residence Ensemble (c)</p><br>
+_total World Heritage Sites_: 55 (53 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: <p>Museumsinsel (Museum Island), Berlin (c); Palaces and Parks of Potsdam and Berlin (c); Speyer Cathedral (c); Aachen Cathedral (c); Bauhaus and its Sites in Weimar, Dessau, and Bernau (c); Caves and Ice Age Art in the Swabian Jura (c); Roman Monuments, Cathedral of St. Peter, and Church of Our Lady in Trier (c); Hanseatic City of Lübeck (c); Old Town of Regensburg with Stadtamhof (c); Würzburg Residence with the Court Gardens and Residence Square (c); Pilgrimage Church of Wies (c); Castles of Augustusburg and Falkenlust at Brühl (c); St Mary's Cathedral and St Michael's Church at Hildesheim (c); Abbey and Altenmünster of Lorsch (c); Maulbronn Monastery Complex (c); Collegiate Church, Castle and Old Town of Quedlinburg (c); Cologne Cathedral (c); Castle Church in Wittenberg (c); Classical Weimar (c); Wartburg Castle (c); Garden Kingdom of Dessau-Wörlitz (c); Monastic Island of Reichenau (c); Berlin Modernism Housing Estates (c); Prehistoric Pile Dwellings around the Alps (c); Moravian Church Settlements (c); Speicherstadt and Kontorhaus District with Chilehaus (c); The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement (c); Archaeological Border complex of Hedeby and the Danevirke (c); Naumburg Cathedral (c); Mathildenhöhe Darmstadt (c); ShUM Sites of Speyer, Worms and Mainz (c); The Great Spa Towns of Europe (c); Jewish-Medieval Heritage of Erfurt (c); Schwerin Residence Ensemble (c); The Palaces of King Ludwig II of Bavaria: Neuschwanstein, Linderhof, Schachen and Herrenchiemsee (c)</p><br>
 
 ## Economy
 

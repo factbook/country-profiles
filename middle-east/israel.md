@@ -145,7 +145,7 @@ _total population_: 1.01 male(s)/female (2024 est.)<br>
 27.7 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
-3 deaths/100,000 live births (2020 est.)<br>
+2 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 2.8 deaths/1,000 live births (2024 est.)<br>
@@ -257,9 +257,6 @@ _methane emissions_: 13.02 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 5.4 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 1.35 million tons (2017 est.)<br>
 _percent of municipal solid waste recycled_: 25% (2017 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_salt water lake(s)_: Dead Sea (shared with Jordan and West Bank) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
 
 **Total water withdrawal**<br>
 _municipal_: 1 billion cubic meters (2020 est.)<br>

@@ -143,7 +143,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-652 deaths/100,000 live births (2020 est.)<br>
+628 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 55.7 deaths/1,000 live births (2024 est.)<br>
@@ -643,7 +643,7 @@ the military has a limited inventory; in recent years, it has received small qua
 18-35 years of age for men and women for voluntary military service; no conscription (2024)<br>
 
 **Military - note**<br>
-the AFL is responsible for external defense and also has some domestic security responsibilities if called upon, such as humanitarian assistance during natural disasters and support to law enforcement; it is a small, lightly equipped force comprised of two combat infantry battalions and supporting units; the infantry battalions were rebuilt with US assistance in 2007-2008 from the restructured AFL following the end of the second civil war in 2003 when military and police forces were disbanded and approximately 100,000 military, police, and rebel combatants were disarmed<br><br>the first militia unit established for defense of the Liberia colony was raised in 1832; the AFL traces its origins to the 1908 establishment of the Liberia Frontier Force, which became the Liberian National Guard in 1965; the AFL was established in 1970<br><br>the UN Mission in Liberia (UNMIL) was established in 2003 as a peacekeeping force; at its height, UNMIL was comprised of about 15,000 personnel, including more than 3,000 troops absorbed from the Economic Community of West African States (ECOWAS) peacekeeping mission; Liberian forces reassumed full control of the country’s security in June of 2016, and the UNMIL mission was ended in 2018 (2025)<br>
+the Armed Forces of Liberia (AFL) are responsible for external defense and some domestic security responsibilities if called upon, such as humanitarian assistance during natural disasters and support to law enforcement; it is a small, lightly equipped force comprised of two combat infantry battalions and supporting units, as well as a few coastal patrol craft for the Coast Guard; the infantry battalions were rebuilt with US assistance in 2007-2008 from the restructured AFL following the end of the second civil war in 2003 when military and police forces were disbanded and approximately 100,000 military, police, and rebel combatants were disarmed<br><br>the first militia unit established for defense of the Liberia colony was raised in 1832; the AFL traces its origins to the 1908 establishment of the Liberia Frontier Force, which became the Liberian National Guard in 1965; the AFL was established in 1970 (2025)<br>
 
 ## Transnational Issues
 

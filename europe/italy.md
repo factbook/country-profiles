@@ -145,7 +145,7 @@ _total population_: 0.93 male(s)/female (2024 est.)<br>
 31.4 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-5 deaths/100,000 live births (2020 est.)<br>
+6 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.1 deaths/1,000 live births (2024 est.)<br>
@@ -168,11 +168,7 @@ _female_: 85.5 years<br>
 <strong>note:</strong> percent of women aged 18-49<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
 _improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Health expenditure**<br>
@@ -257,9 +253,6 @@ _methane emissions_: 41.3 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 29.524 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 7,646,716 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 25.9% (2015 est.)<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 9.19 billion cubic meters (2020 est.)<br>

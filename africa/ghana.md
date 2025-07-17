@@ -150,7 +150,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-263 deaths/100,000 live births (2020 est.)<br>
+234 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 31.2 deaths/1,000 live births (2024 est.)<br>
@@ -268,12 +268,6 @@ _methane emissions_: 22.75 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3,538,275 tons (2005 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Volta river mouth (shared with Burkina Faso [s]) - 1,600 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Volta (410,991 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 300 million cubic meters (2020 est.)<br>

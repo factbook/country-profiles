@@ -145,7 +145,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 26.9 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-3 deaths/100,000 live births (2020 est.)<br>
+3 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 7 deaths/1,000 live births (2024 est.)<br>
@@ -255,9 +255,6 @@ _methane emissions_: 2.28 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 796,585 tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 1,434 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 0.2% (2013 est.)<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 310 million cubic meters (2020 est.)<br>

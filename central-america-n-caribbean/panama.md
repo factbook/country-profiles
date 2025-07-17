@@ -142,7 +142,7 @@ _65 years and over_: 0.87 male(s)/female<br>
 _total population_: 1.02 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-50 deaths/100,000 live births (2020 est.)<br>
+37 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 14.2 deaths/1,000 live births (2024 est.)<br>
@@ -255,9 +255,6 @@ _methane emissions_: 5.97 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,472,262 tons (2015 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_salt water lake(s)_: Laguna de Chiriqui - 900 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 760 million cubic meters (2020 est.)<br>

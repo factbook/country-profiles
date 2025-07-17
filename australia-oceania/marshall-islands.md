@@ -139,6 +139,9 @@ _15-64 years_: 1.03 male(s)/female<br>
 _65 years and over_: 0.95 male(s)/female<br>
 _total population_: 1.03 male(s)/female (2024 est.)<br>
 
+**Maternal mortality ratio**<br>
+155 deaths/100,000 live births (2023 est.)<br>
+
 **Infant mortality rate**<br>
 _total_: 20.6 deaths/1,000 live births (2024 est.)<br>
 _male_: 24 deaths/1,000 live births<br>
@@ -553,7 +556,7 @@ _key ports_: Enitwetak Island, Kwajalein, Majuro Atoll<br>
 no regular military forces; Marshall Islands Police Department (includes a Sea Patrol Division) (2025)<br>
 
 **Military - note**<br>
-defense is the responsibility of the US; in 1982, the Marshall Islands signed a Compact of Free Association (COFA) with the US, which granted the Marshall Islands financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986, and its funding was renewed in 2003; the Marshall Islands hosts a US Army missile test site <br><br>the Marshall Islands have a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within its designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
+defense is the responsibility of the US; in 1982, the Marshall Islands signed a Compact of Free Association (COFA) with the US, which granted the Marshall Islands financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986, and its funding was renewed in 2003; the Marshall Islands hosts a US Army missile test site <br><br>the Marshall Islands has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within its designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>
 
 ## Transnational Issues
 

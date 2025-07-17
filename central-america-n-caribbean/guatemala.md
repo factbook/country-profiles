@@ -147,7 +147,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-96 deaths/100,000 live births (2020 est.)<br>
+94 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 25 deaths/1,000 live births (2024 est.)<br>
@@ -265,9 +265,6 @@ _methane emissions_: 10.7 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,756,741 tons (2015 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lago de Izabal - 590 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 840 million cubic meters (2020 est.)<br>

@@ -149,7 +149,7 @@ _total population_: 1.02 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-107 deaths/100,000 live births (2020 est.)<br>
+124 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 21.7 deaths/1,000 live births (2024 est.)<br>
@@ -268,9 +268,6 @@ _methane emissions_: 8.1 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 4,063,910 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 333,241 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 8.2% (2015 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_salt water lake(s)_: Lago de Enriquillo - 500 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 860 million cubic meters (2020 est.)<br>

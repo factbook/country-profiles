@@ -149,7 +149,7 @@ _65 years and over_: 0.87 male(s)/female<br>
 _total population_: 1.03 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-22 deaths/100,000 live births (2020 est.)<br>
+16 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 14.3 deaths/1,000 live births (2024 est.)<br>
@@ -264,15 +264,6 @@ _methane emissions_: 158.71 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 17.885 million tons (2017 est.)<br>
 _municipal solid waste recycled annually_: 894,250 tons (2017 est.)<br>
 _percent of municipal solid waste recycled_: 5% (2017 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_salt water lake(s)_: Caspian Sea (shared with Russia, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Lake Urmia - 5,200 sq km; Lake Namak - 750 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Euphrates (shared with Turkey [s], Syria, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Syria, and Iraq [m]) - 1,950 km; Helmand (shared with Afghanistan [s]) - 1,130 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 6.2 billion cubic meters (2020 est.)<br>

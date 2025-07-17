@@ -149,7 +149,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 24.2 years (2019)<br>
 
 **Maternal mortality ratio**<br>
-5 deaths/100,000 live births (2020 est.)<br>
+5 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 35.9 deaths/1,000 live births (2024 est.)<br>
@@ -266,15 +266,6 @@ _methane emissions_: 52.09 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 500,000 tons (2013 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Russia, and Kazakhstan) - 374,000 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Amu Darya (shared with Tajikistan [s], Afghanistan, and Uzbekistan [m]) - 2,620 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 450 million cubic meters (2020 est.)<br>

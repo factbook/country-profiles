@@ -150,7 +150,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-173 deaths/100,000 live births (2020 est.)<br>
+140 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 18.9 deaths/1,000 live births (2024 est.)<br>
@@ -272,12 +272,6 @@ _methane emissions_: 244.5 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 65.2 million tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 4.564 million tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 7% (2016 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Danau Toba - 1,150 sq km<br>note - located in the caldera of a super volcano that erupted more than 70,000 years ago; it is the largest volcanic lake in the World<br>
-
-**Major rivers (by length in km)**<br>
-Sepik (shared with Papua New Guinea [s]) - 1,126 km; Fly (shared with Papua New Guinea [s]) - 1,050 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Total water withdrawal**<br>
 _municipal_: 23.8 billion cubic meters (2020 est.)<br>

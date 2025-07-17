@@ -149,7 +149,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 22.6 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
-50 deaths/100,000 live births (2020 est.)<br>
+42 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 24.5 deaths/1,000 live births (2024 est.)<br>
@@ -266,15 +266,6 @@ _methane emissions_: 4.47 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,113,300 tons (2015 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_salt water lake(s)_: Ozero Issyk-Kul 6,240 sq km<br>note - second largest saline lake after the Caspian Sea; second highest mountain lake after Lake Titicaca; it is an endorheic mountain basin; although surrounded by snow capped mountains it never freezes<br>
-
-**Major rivers (by length in km)**<br>
-Syr Darya river source (shared with Tajikistan, Uzbekistan, and Kazakhstan [m]) - 3,078 km <br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 220 million cubic meters (2020 est.)<br>
@@ -643,6 +634,7 @@ _broad gauge_: 424 km (2018) 1.520-m gauge<br>
 
 **Military and security forces**<br>
 Armed Forces of the Kyrgyz Republic: Land Forces (Kygyz Army), Air Defense Forces (Kyrgyz Air Force), National Guard of the Armed Forces of the Kyrgyz Republic<br><br>Ministry of Internal Affairs: Internal Security Service<br><br>State Committee for National Security: Border Guard Service (2025)<br>
+<strong>note:</strong> the National Guard’s missions include counterterrorism, responding to emergencies, and the protection of government facilities<br>
 
 **Military expenditures**<br>
 3% of GDP (2024 est.)<br>
@@ -661,7 +653,7 @@ the Kyrgyz military inventory is comprised almost entirely of Russian and Soviet
 18-27 years of age for compulsory or voluntary service for men in the Armed Forces or Interior Ministry; 12-month service obligation (9 months for university graduates), with optional fee-based 3-year service in the call-up mobilization reserve; women may volunteer at age 19; 16-17 years of age for military cadets, who cannot take part in military operations (2023)<br>
 
 **Military - note**<br>
-Kyrgyzstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force; it also started a relationship with NATO in 1992 and joined NATO's Partnership for Peace program in 1994<br><br>the Kyrgyz military’s primary responsibility is defense of the country’s sovereignty and territory, although it also has some internal security duties; elements of the military were called out in 2020 to respond to post-election demonstrations for example, and the National Guard’s missions include counterterrorism, responding to emergencies, and the protection of government facilities; the military also participates in UN and CSTO peacekeeping missions; border disputes with Tajikistan and Uzbekistan, as well as the threat posed by militant Islamic groups, have been particular areas of concern for both the military and internal security forces; the military’s closest security partner is Russia, which provides training and material assistance, and maintains a presence in the country, including an airbase; the military also conducts training with other regional countries such as India, traditionally with a focus on counterterrorism<br><br>the Kyrgyz military was formed in 1992 from Soviet Army units then based in Kyrgyzstan following the dissolution of the USSR (2024)<br>
+the Kyrgyz military’s primary responsibility is defense of the country’s sovereignty and territory, although it also has some internal security duties; the military also participates in UN and Collective Security Treaty Organization (CSTO) peacekeeping missions, as well as bilateral and multinational exercises; particular issues of concern include border security and terrorism; the military’s closest security partner is Russia, which provides training and material assistance, and maintains a presence in the country, including an airbase; the military also conducts training with other regional countries such as India, traditionally with a focus on counterterrorism<br><br>Kyrgyzstan has been a member of CSTO since 1994 and contributes troops to CSTO's rapid reaction force; it also started a relationship with NATO in 1992 and joined NATO's Partnership for Peace program in 1994 (2025)<br>
 
 ## Terrorism
 

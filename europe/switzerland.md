@@ -151,7 +151,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 31.1 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-7 deaths/100,000 live births (2020 est.)<br>
+5 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3 deaths/1,000 live births (2024 est.)<br>
@@ -263,15 +263,6 @@ _methane emissions_: 4.98 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 6.056 million tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 1.938 million tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 32% (2015 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lake Constance (shared with Germany and Austria) - 540 sq km; Lake Geneva (shared with France) - 580 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Rhein (Rhine) river source (shared with Germany, France, and Netherlands [m]) - 1,233 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 970 million cubic meters (2020 est.)<br>

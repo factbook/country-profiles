@@ -141,7 +141,7 @@ _65 years and over_: 1.22 male(s)/female<br>
 _total population_: 1.04 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-1,223 deaths/100,000 live births (2020 est.)<br>
+692 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 60.1 deaths/1,000 live births (2024 est.)<br>
@@ -231,12 +231,6 @@ _methane emissions_: 7.61 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,680,681 tons (2013 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Nile (shared with Rwanda [s], Tanzania, Uganda, Sudan, and Egypt [m]) - 6,650 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 190 million cubic meters (2020 est.)<br>

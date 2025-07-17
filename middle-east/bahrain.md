@@ -140,7 +140,7 @@ _65 years and over_: 1.06 male(s)/female<br>
 _total population_: 1.5 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-16 deaths/100,000 live births (2020 est.)<br>
+17 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 9.7 deaths/1,000 live births (2024 est.)<br>
@@ -252,9 +252,6 @@ _methane emissions_: 15.47 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 951,943 tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 76,155 tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2012 est.)<br>
-
-**Major aquifers**<br>
-Arabian Aquifer System<br>
 
 **Total water withdrawal**<br>
 _municipal_: 280 million cubic meters (2020 est.)<br>

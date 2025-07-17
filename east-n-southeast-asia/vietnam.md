@@ -148,7 +148,7 @@ _65 years and over_: 0.69 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-124 deaths/100,000 live births (2020 est.)<br>
+48 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 14.1 deaths/1,000 live births (2024 est.)<br>
@@ -263,12 +263,6 @@ _methane emissions_: 110.4 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 9,570,300 tons (2011 est.)<br>
 _municipal solid waste recycled annually_: 2,201,169 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 23% (2014 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Sông Tiên Giang (Mekong) river mouth (shared with China [s], Burma, Laos, Thailand, Cambodia) - 4,350 km; Pearl river source (shared with China [m]) - 2,200 km; Red river mouth (shared with China [s]) - 1,149 km<br><br><strong>note: </strong>[s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 1.21 billion cubic meters (2020 est.)<br>

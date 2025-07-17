@@ -149,7 +149,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-174 deaths/100,000 live births (2020 est.)<br>
+142 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 24 deaths/1,000 live births (2024 est.)<br>
@@ -267,12 +267,6 @@ _methane emissions_: 41.15 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,768,977 tons (2016 est.)<br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km)<br>
-
-**Major aquifers**<br>
-Indus-Ganges-Brahmaputra Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 150 million cubic meters (2020 est.)<br>

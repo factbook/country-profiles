@@ -153,7 +153,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-75 deaths/100,000 live births (2020 est.)<br>
+59 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 11.7 deaths/1,000 live births (2024 est.)<br>
@@ -272,15 +272,6 @@ _methane emissions_: 81.52 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 12,150,120 tons (2011 est.)<br>
 _municipal solid waste recycled annually_: 2,089,821 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 17.2% (2013 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Rio Negro river source (shared with Venezuela and Brazil [m]) - 2,250 km; Orinoco (shared with Venezuela [s]) - 2,101 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
-
-**Major aquifers**<br>
-Amazon Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 3.72 billion cubic meters (2020 est.)<br>

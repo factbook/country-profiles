@@ -155,7 +155,7 @@ _total population_: 1.02 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-1,047 deaths/100,000 live births (2020 est.)<br>
+993 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 53.7 deaths/1,000 live births (2024 est.)<br>
@@ -266,18 +266,6 @@ _methane emissions_: 143.99 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 27,614,830 tons (2009 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lake Chad (endorheic lake shared with Niger, Chad, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
-
-**Major rivers (by length in km)**<br>
-Niger river mouth (shared with Guinea [s], Mali, Benin, and Niger) - 4,200 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
-
-**Major aquifers**<br>
-Lake Chad Basin, Lullemeden-Irhazer Aquifer System<br>
 
 **Total water withdrawal**<br>
 _municipal_: 5 billion cubic meters (2020 est.)<br>

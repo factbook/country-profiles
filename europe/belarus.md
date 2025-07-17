@@ -146,7 +146,7 @@ _total population_: 0.88 male(s)/female (2024 est.)<br>
 26.8 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
-1 deaths/100,000 live births (2020 est.)<br>
+1 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 2.1 deaths/1,000 live births (2024 est.)<br>
@@ -263,12 +263,6 @@ _methane emissions_: 17.19 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 4.28 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 684,800 tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 16% (2016 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Dnyapro (Dnieper) (shared with Russia [s] and Ukraine [m]) - 2,287 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea) </em>Dnieper (533,966 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 550 million cubic meters (2020 est.)<br>

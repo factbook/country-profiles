@@ -164,7 +164,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 28.9 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-8 deaths/100,000 live births (2020 est.)<br>
+7 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.1 deaths/1,000 live births (2024 est.)<br>
@@ -276,18 +276,6 @@ _methane emissions_: 55.99 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 33.399 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 7,434,617 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 22.3% (2015 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lake Geneva (shared with Switzerland) - 580 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Rhin (Rhine) (shared with Switzerland [s], Germany, and Netherlands [m]) - 1,233 km; Loire - 1,012 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Loire (115,282 sq km), Seine (78,919 sq km), Rhine-Maas (198,735 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
-
-**Major aquifers**<br>
-Paris Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 5.31 billion cubic meters (2020 est.)<br>

@@ -149,7 +149,7 @@ _65 years and over_: 1.07 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-270 deaths/100,000 live births (2020 est.)<br>
+256 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 40.6 deaths/1,000 live births (2024 est.)<br>
@@ -253,15 +253,6 @@ _methane emissions_: 75.1 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,831,291 tons (2015 est.)<br>
-
-**Major rivers (by length in km)**<br>
-<p>An Nīl (Nile) (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Egypt [m]) - 6,650 km; Blue Nile river mouth (shared with Ethiopia [s]) - 1,600 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
-
-**Major aquifers**<br>
-Nubian Aquifer System, Sudd Basin (Umm Ruwaba Aquifer)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 950 million cubic meters (2020 est.)<br>

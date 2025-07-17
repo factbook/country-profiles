@@ -151,7 +151,7 @@ _total population_: 0.94 male(s)/female (2024 est.)<br>
 28.9 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
-13 deaths/100,000 live births (2020 est.)<br>
+10 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 8 deaths/1,000 live births (2024 est.)<br>
@@ -271,16 +271,6 @@ _methane emissions_: 45.03 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 4,659,740 tons (2012 est.)<br>
 _municipal solid waste recycled annually_: 136,064 tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 2.9% (2012 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Ozero Balkhash - 22,000 sq km; Ozero Zaysan - 1,800 sq km<br>
-_salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Russia) - 374,000 sq km; Aral Sea (north) - 3,300 sq km; Ozero Alakol - 2,650 sq km; Ozero Teniz 1,590 sq km; Ozero Seletytenzi - 780 sq km; Ozero Sasykkol - 740 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Syr Darya river mouth (shared with Kyrgyzstan [s], Uzbekistan, and Tajikistan) - 3,078 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 4.62 billion cubic meters (2020 est.)<br>
@@ -690,14 +680,14 @@ Armed Forces of the Republic of Kazakhstan: Land Forces (Army of Kazakhstan), Na
 available information varies widely; estimated 50,000 active Armed Forces; estimated 30,000 National Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Kazakh military's inventory is comprised of mostly Russian and Soviet-era equipment; in recent years, other suppliers have included China, France, Israel, South Korea, and Turkey; Kazakhstan has a defense industry capable of assembling or producing such items as naval vessels, combat vehicles, helicopters, and radar systems (2025)<br>
+the Kazakh military's inventory is comprised of mostly Russian and Soviet-era equipment; in recent years, however, it has sought to diversify to suppliers such as China, France, Israel, South Korea, and Turkey; Kazakhstan has a defense industry capable of assembling or producing such items as naval vessels, combat vehicles, helicopters, and radar systems (2025)<br>
 
 **Military service age and obligation**<br>
 men 18-27 are subject to conscription for 12-24 months; conscripts may be assigned to the Armed Forces, the National Guard, the Border Service, the State Security Service, or the Ministry of Emergency Situations; women may volunteer (2025)<br>
 <strong>note:</strong> as of 2022, more than 10,000 women served in the Armed Forces and the National Guard<br>
 
 **Military - note**<br>
-the military’s principal responsibilities are territorial defense while the National Police, National Guard, Committee for National Security, and Border Service have primary responsibility for internal security, although the military may provide assistance as required; the military also participates in humanitarian and peacekeeping operations; in 2008, Kazakhstan opened up Central Asia’s first peacekeeper training center for military personnel of Kazakhstan, NATO, and other partners <br><br>in 2022, Kazakhstan initiated a wide-ranging effort to enhance the country’s security sector, including organizational changes such as establishing new National Guard units, enhancing existing ones, and forming a special operations force, spending increases for equipment acquisitions, a new doctrine with renewed emphasis on defense of the border, and reforms to improve professionalism in the military<br><br>Kazakhstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and has obligated troops to CSTO's rapid reaction force; it also has a relationship with NATO focused on democratic, institutional, and defense reforms; relations with NATO started in 1992, and Kazakhstan joined NATO's Partnership for Peace program in 1995; Kazakhstan’s armed forces were formed in 1992 following the breakup of the Soviet Union and the disbandment of the Soviet Turkestan Military District whose forces formed the core of the new Kazakh military (2023)<br>
+the military’s principal responsibilities are territorial defense while the National Police, National Guard, Committee for National Security, and Border Service have primary responsibility for internal security, although the military may provide assistance if required; the military also participates in humanitarian and peacekeeping operations, as well as regional exercises; in recent years, Kazakhstan has placed greater emphasis on regional military partnerships and equipment modernization and diversification in order to reduce reliance on Russia, its traditional security partner; other efforts to enhance the country’s security sector have included boosting the capabilities of the National Guard and improving military professionalism<br><br>Kazakhstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and has obligated troops to CSTO's rapid reaction force; it also has had a relationship with NATO since 1992 focused on democratic, institutional, and defense reforms (2025)<br>
 
 ## Space
 

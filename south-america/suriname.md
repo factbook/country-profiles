@@ -141,7 +141,7 @@ _65 years and over_: 0.7 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-96 deaths/100,000 live births (2020 est.)<br>
+84 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 29.6 deaths/1,000 live births (2024 est.)<br>
@@ -250,9 +250,6 @@ _methane emissions_: 2.28 megatons (2020 est.)<br>
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 78,620 tons (2010 est.)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
-
 **Total water withdrawal**<br>
 _municipal_: 50 million cubic meters (2020 est.)<br>
 _industrial_: 140 million cubic meters (2020 est.)<br>
@@ -307,9 +304,9 @@ _chief of state_: President Chandrikapersad "Chan" SANTOKHI (since 16 July 2020)
 _head of government_: President Chandrikapersad "Chan" SANTOKHI (since 16 July 2020)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _election/appointment process_: president and vice president indirectly elected by the National Assembly; president and vice president serve a 5-year term (no term limits)<br>
-_most recent election date_: 13 July 2020<br>
-_election results_: <em><br>2025: </em>official<em> </em>National Assembly vote pending<em><br><br>2020:</em> Chandrikapersad "Chan" SANTOKHI elected president unopposed; National Assembly vote - NA<br><br><em>2015:</em> Desire Delano BOUTERSE reelected president unopposed; National Assembly vote - NA<br>
-_expected date of next election_: 2025<br>
+_most recent election date_: 6 July 2025<br>
+_election results_: <em><br>2025: </em>Jennifer GEERLINGS-SIMONS<em> </em>elected president unopposed; National Assembly vote - NA<em><br><br>2020:</em> Chandrikapersad "Chan" SANTOKHI elected president unopposed; National Assembly vote - NA<br><br><em>2015:</em> Desire Delano BOUTERSE reelected president unopposed; National Assembly vote - NA<br>
+_expected date of next election_: 2030<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>

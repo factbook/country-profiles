@@ -229,9 +229,6 @@ _municipal solid waste generated annually_: 32,382 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 20,919 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 64.6% (2015 est.)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
-
 **Total water withdrawal**<br>
 _municipal_: 10 million cubic meters (2020 est.)<br>
 

@@ -153,7 +153,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
-135 deaths/100,000 live births (2020 est.)<br>
+85 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 35.6 deaths/1,000 live births (2024 est.)<br>
@@ -263,18 +263,6 @@ _methane emissions_: 14.1 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,608,268 tons (2002 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Burundi) - 32,000 sq km; Lake Mweru (shared with Democratic Republic of Congo) - 4,350 sq km; Lake Bangweulu - 4,000-15,000 sq km seasonal variation<br>
-
-**Major rivers (by length in km)**<br>
-<p>Congo river source (shared with Angola, Republic of Congo, and Democratic Republic of Congo [m]) - 4,700 km; Zambezi river source (shared with Angola, Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
-
-**Major aquifers**<br>
-Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 290 million cubic meters (2020 est.)<br>

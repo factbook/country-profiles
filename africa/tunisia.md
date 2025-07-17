@@ -143,7 +143,7 @@ _65 years and over_: 0.9 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-37 deaths/100,000 live births (2020 est.)<br>
+36 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 11.3 deaths/1,000 live births (2024 est.)<br>
@@ -263,9 +263,6 @@ _methane emissions_: 7.89 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 2.7 million tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 108,000 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 4% (2014 est.)<br>
-
-**Major aquifers**<br>
-North Western Sahara Aquifer System<br>
 
 **Total water withdrawal**<br>
 _municipal_: 820 million cubic meters (2020 est.)<br>

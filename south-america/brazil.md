@@ -154,7 +154,7 @@ _65 years and over_: 0.75 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-72 deaths/100,000 live births (2020 est.)<br>
+67 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 12.9 deaths/1,000 live births (2024 est.)<br>
@@ -269,19 +269,6 @@ _methane emissions_: 401.83 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 79,889,010 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 1,118,446 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 1.4% (2014 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lagoa dos Patos - 10,140 sq km<br>
-_salt water lake(s)_: Lagoa Mirim (shared with Uruguay) - 2,970 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Amazon river mouth (shared with Peru [s]) - 6,400 km; Río de la Plata/Paraná river source (shared with Paraguay, Argentina, and Uruguay [m]) - 4,880 km; Tocantins - 3,650 km; São Francisco - 3,180 km; Paraguay river source (shared with Argentina and Paraguay [m]) - 2,549 km; Rio Negro river mouth (shared with Colombia [s] and Venezuela) - 2,250 km; Uruguay river source (shared with Argentina and Uruguay [m]) - 1,610 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km), Paran&aacute; (2,582,704 sq km), S&atilde;o Francisco (617,814 sq km), Tocantins (764,213 sq km)<br>
-
-**Major aquifers**<br>
-Amazon Basin, Guarani Aquifer System, Maranhao Basin<br>
 
 **Total water withdrawal**<br>
 _municipal_: 16.13 billion cubic meters (2020 est.)<br>

@@ -141,7 +141,7 @@ _65 years and over_: 0.77 male(s)/female<br>
 _total population_: 0.83 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-234 deaths/100,000 live births (2020 est.)<br>
+162 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 45.2 deaths/1,000 live births (2024 est.)<br>
@@ -253,9 +253,6 @@ _methane emissions_: 0.52 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 114,997 tons (2002 est.)<br>
-
-**Major lakes (area sq km)**<br>
-_salt water lake(s)_: Abhe Bad/Abhe Bid Hayk (shared with Ethiopia) - 780 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 20 million cubic meters (2020 est.)<br>
