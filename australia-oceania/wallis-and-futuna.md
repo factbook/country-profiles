@@ -167,14 +167,9 @@ _unimproved: total_: total: 7.1% of population (2020 est.)<br>
 **Currently married women (ages 15-49)**<br>
 56% (2023)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation (only small portions of the original forests remain) due to wood as the main fuel source; soil erosion; lack of natural freshwater resources; lack of soil fertility on the islands of Uvea and Futuna<br>
 
 **Climate**<br>
@@ -282,7 +277,10 @@ red saltire (Saint Andrew's Cross) on a white square on a red field<br>
 red, white<br>
 
 **National anthem**<br>
-<p><strong>note:</strong> as a territory of France, "La Marseillaise" is official (see France)</p><br>
+_title_: "La Marseillaise"<br>
+_lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
+_history_: official anthem, as a French territory<br>
+<strong>note:</strong> as a territory of France, "La Marseillaise" is official (see France)<br>
 
 ## Economy
 

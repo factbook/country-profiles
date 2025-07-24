@@ -66,7 +66,7 @@ major chokepoint is the southern Chukchi Sea (northern access to the Pacific Oce
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 changes in biodiversity and temperature; water pollution from use of toxic chemicals; endangered marine species; ecosystem slow to recover from disruptions or damage; thinning polar icepack<br>
 
 **Climate**<br>

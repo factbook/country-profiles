@@ -66,7 +66,7 @@ _total_: no permanent inhabitants<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 harm to reefs from China's use of dredged sand and coral to build artificial islands; illegal fishing practices&nbsp;<br>
 
 **Climate**<br>

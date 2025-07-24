@@ -141,7 +141,7 @@ _total population_: 1.04 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
-122 deaths/100,000 live births (2020 est.)<br>
+123 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 19.1 deaths/1,000 live births (2024 est.)<br>
@@ -215,17 +215,12 @@ _men married by age 18_: 4.4% (2015)<br>
 _Education expenditure (% GDP)_: 8.3% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 25.9% national budget (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; soil erosion; damage to coral reefs<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Whaling<br>
 _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 
@@ -353,8 +348,9 @@ divided diagonally by a thin yellow stripe from the lower hoist-side corner; the
 blue, yellow, green, white<br>
 
 **National anthem**<br>
-_name_: "God Save Our Solomon Islands"<br>
+_title_: "God Save Our Solomon Islands"<br>
 _lyrics/music_: Panapasa BALEKANA and Matila BALEKANA/Panapasa BALEKANA<br>
+_history_: adopted 1978<br>
 <strong>note:</strong> adopted 1978<br>
 
 **National heritage**<br>

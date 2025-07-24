@@ -174,14 +174,9 @@ _unimproved: total_: total: 0% of population (2020)<br>
 **Currently married women (ages 15-49)**<br>
 64.1% (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 overfishing<br>
 
 **Climate**<br>
@@ -287,7 +282,10 @@ a yellow three-masted sailing ship facing the hoist side rides on a blue backgro
 16th-century sailing ship<br>
 
 **National anthem**<br>
-<p><strong>note:</strong> as a collectivity of France, "La Marseillaise" is official (see France)</p><br>
+_title_: "La Marseillaise"<br>
+_lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
+_history_: official anthem, as a French collectivity<br>
+<strong>note:</strong> as a collectivity of France, "La Marseillaise" is official (see France)<br>
 
 ## Economy
 

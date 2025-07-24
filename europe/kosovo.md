@@ -176,7 +176,7 @@ _unimproved: total_: total: NA<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution from power plants and lignite mines; water scarcity and pollution; land degradation<br>
 
 **Climate**<br>
@@ -307,9 +307,10 @@ six five-pointed white stars<br>
 blue, gold, white<br>
 
 **National anthem**<br>
-_name_: Europe<br>
+_title_: "Europe"<br>
 _lyrics/music_: no lyrics/Mendi MENGJIQI<br>
-<strong>note:</strong> adopted 2008; Kosovo chose to exclude lyrics in its anthem so as not to offend the country's minority ethnic groups<br>
+_history_: adopted 2008; Kosovo chose not to include lyrics in its anthem to avoid offending the country's minority ethnic groups<br>
+<strong>note:</strong> adopted 2008; Kosovo chose not to include lyrics in its anthem to avoid offending the country's minority ethnic groups<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

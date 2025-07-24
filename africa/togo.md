@@ -234,10 +234,10 @@ _female_: 12 years (2017)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation from slash-and-burn agriculture and the use of wood for fuel; very little rainforest still present and what remains is highly degraded; desertification; water pollution; air pollution in urban areas<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -392,9 +392,10 @@ lion<br>
 green, yellow, red, white<br>
 
 **National anthem**<br>
-_name_: "Salut a toi, pays de nos aieux" (Hail to Thee, Land of Our Forefathers)<br>
+_title_: "Salut a toi, pays de nos aieux" (Hail to Thee, Land of Our Forefathers)<br>
 _lyrics/music_: Alex CASIMIR-DOSSEH<br>
-<strong>note:</strong> adopted 1960, restored 1992; this anthem was replaced by another during one-party rule between 1979 and 1992<br>
+_history_: adopted 1960, restored 1992; anthem was replaced during one-party rule between 1979 and 1992<br>
+<strong>note:</strong> adopted 1960, restored 1992; anthem was replaced during one-party rule between 1979 and 1992<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -680,7 +681,4 @@ Jama’at Nusrat al Islam wal Muslimeen (JNIM)<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 9,846 (Burkina Faso), 8,436 (Ghana) (2023)<br>
-
-**Illicit drugs**<br>
-transit hub for Nigerian heroin and cocaine traffickers; money laundering not a significant problem<br>
 

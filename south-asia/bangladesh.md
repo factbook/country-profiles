@@ -236,10 +236,10 @@ _female_: 13 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 flooding; water pollution, especially of fishing areas, from the use of commercial pesticides; groundwater pollution from naturally occurring arsenic; falling water tables in the northern and central parts of the country; soil degradation and erosion; deforestation; destruction of wetlands; severe overpopulation with noise pollution<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -374,8 +374,9 @@ green, red<br>
 the water lily is the national flower and symbolizes promise, aesthetics, and elegance; the water under the lily, the rice sheaves on the sides, and the jute leaves at the top represent the Bangladeshi landscape and economy; the four stars represent the aims and ambition of the nation<br>
 
 **National anthem**<br>
-_name_: "Amar Shonar Bangla" (My Golden Bengal)<br>
+_title_: "Amar Shonar Bangla" (My Golden Bengal)<br>
 _lyrics/music_: Rabindranath TAGORE<br>
+_history_: adopted 1971; Rabindranath TAGORE, a Nobel laureate, also wrote India's national anthem<br>
 <strong>note:</strong> adopted 1971; Rabindranath TAGORE, a Nobel laureate, also wrote India's national anthem<br>
 
 **National heritage**<br>
@@ -693,7 +694,4 @@ Harakat ul-Jihad-i-Islami/Bangladesh (HUJI-B); Islamic State of Iraq and ash-Sha
 _refugees (country of origin)_: 976,507 (Burma) (2024)<br>
 _IDPs_: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2022)<br>
 _stateless persons_: 929,606 (2022)<br>
-
-**Illicit drugs**<br>
-<p>transit country for illegal drugs produced in neighboring countries; does not manufacture precursor chemicals with the exception of sulphuric acid, hydrochloric acid, and toluene</p><br>
 

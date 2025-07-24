@@ -218,11 +218,6 @@ _female_: 7.2% (2025 est.)<br>
 _Education expenditure (% GDP)_: 3.2% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 7.5% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 15 years<br>
@@ -230,10 +225,10 @@ _female_: 15 years (2019)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution from power plants results in acid rain; acidification of lakes and reservoirs degrading water quality; waste management issues; ongoing environmental clean-up in small area of Fukushima after nuclear accident in 2011<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -398,9 +393,10 @@ red, white<br>
 the Kikumon is the Japanese emperor's family coat of arms and dates from 1183; the Imperial chrysanthemum emblem (菊の御紋, <em>kikunogomon</em>) is a yellow or orange chrysanthemum with black or red outlines and background; a central disc is surrounded by a front set of 16 petals; a rear set of 16 petals are half-staggered in relation to the front set and are visible at the edges of the flower<br>
 
 **National anthem**<br>
-_name_: "Kimigayo" (The Emperor's Reign)<br>
+_title_: "Kimigayo" (The Emperor's Reign)<br>
 _lyrics/music_: unknown/Hiromori HAYASHI<br>
-<strong>note:</strong> adopted 1999; unofficial national anthem since 1883; oldest anthem lyrics in the world, dating to the 10th century or earlier; there is some opposition to the anthem because of its association with militarism and worship of the emperor<br>
+_history_: adopted 1999; unofficial national anthem since 1883; oldest anthem lyrics in the world, dating to the 10th century or earlier; some oppose the anthem because of its association with militarism and worship of the emperor<br>
+<strong>note:</strong> adopted 1999; unofficial national anthem since 1883; oldest anthem lyrics in the world, dating to the 10th century or earlier; some oppose the anthem because of its association with militarism and worship of the emperor<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 26 (21 cultural, 5 natural)<br>

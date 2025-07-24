@@ -214,11 +214,6 @@ _female_: 12.4% (2025 est.)<br>
 _Education expenditure (% GDP)_: 6.5% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 17.5% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: 97.8%<br>
-_male_: 98.7%<br>
-_female_: 96.8% (2011)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 15 years<br>
@@ -226,10 +221,10 @@ _female_: 17 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 limited arable land and restricted natural freshwater resources; desertification; air pollution from industrial and vehicle emissions; groundwater pollution from industrial and domestic waste, chemical fertilizers, and pesticides<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: Comprehensive Nuclear Test Ban, Marine Life Conservation<br>
 
@@ -378,9 +373,10 @@ Star of David (Magen David), menorah (seven-branched lampstand)<br>
 blue, white<br>
 
 **National anthem**<br>
-_name_: "Hatikvah" (The Hope)<br>
+_title_: "Hatikvah" (The Hope)<br>
 _lyrics/music_: Naftali Herz IMBER/traditional, arranged by Samuel COHEN<br>
-<strong>note:</strong> adopted 2004, unofficial since 1948; used as the anthem of the Zionist movement since 1897; the 1888 arrangement by Samuel COHEN is thought to be based on the Romanian folk song "Carul cu boi" (The Ox Driven Cart)<br>
+_history_: adopted 2004, unofficial since 1948; used as the anthem of the Zionist movement since 1897; the 1888 arrangement by Samuel COHEN is thought to be based on the Romanian folk song "Carul cu boi" (The Ox-Driven Cart)<br>
+<strong>note:</strong> adopted 2004, unofficial since 1948; used as the anthem of the Zionist movement since 1897; the 1888 arrangement by Samuel COHEN is thought to be based on the Romanian folk song "Carul cu boi" (The Ox-Driven Cart)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 9 (all cultural)<br>
@@ -686,7 +682,4 @@ Islamic State of Iraq and ash-Sham (ISIS); Popular Front for the Liberation of P
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 12,181 (Eritrea), 5,061 (Ukraine) (2019)<br>
 _stateless persons_: 35 (2022)<br>
-
-**Illicit drugs**<br>
-increasingly concerned about ecstasy, cocaine, and heroin abuse; drugs arrive in country from Lebanon and, increasingly, from Jordan; money-laundering center<br>
 

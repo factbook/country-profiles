@@ -235,10 +235,10 @@ _female_: 15 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; soil erosion; desertification; water pollution; pollution from oil production wastes in areas of the Amazon Basin and Galapagos Islands<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -388,9 +388,10 @@ Andean condor<br>
 yellow, blue, red<br>
 
 **National anthem**<br>
-_name_: "Salve, Oh Patria!" (We Salute You, Our Homeland)<br>
+_title_: "Salve, Oh Patria!" (We Salute You, Our Homeland)<br>
 _lyrics/music_: Juan Leon MERA/Antonio NEUMANE<br>
-<strong>note:</strong> adopted 1948; Juan Leon MERA wrote the lyrics in 1865; only the chorus and second verse are sung<br>
+_history_: adopted 1948; MERA wrote the lyrics in 1865; only the chorus and second verse are sung<br>
+<strong>note:</strong> adopted 1948; MERA wrote the lyrics in 1865; only the chorus and second verse are sung<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>
@@ -691,5 +692,5 @@ has a small program focused on acquiring or manufacturing satellites; builds sci
 _refugees (country of origin)_: 65,854 (Colombia) (refugees and asylum seekers) (2021); 474,945 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2023)<br>
 
 **Illicit drugs**<br>
-<p>Ecuador is a major transit country for cocaine destined for the United States and other international destinations; criminal groups traffic cocaine precursor chemicals for drug gangs; not a major drug producing country; a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>
 

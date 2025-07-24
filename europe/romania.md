@@ -237,10 +237,10 @@ _female_: 15 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 soil erosion, degradation, and desertification; water pollution; air pollution in south from industrial effluents; contamination of Danube delta wetlands<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Persistent Organic Pollutants, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -403,8 +403,9 @@ golden eagle<br>
 blue, yellow, red<br>
 
 **National anthem**<br>
-_name_: "Desteapta-te romane!" (Wake up, Romanian!)<br>
+_title_: "Desteapta-te romane!" (Wake up, Romanian!)<br>
 _lyrics/music_: Andrei MURESIANU/Anton PANN<br>
+_history_: adopted 1990; the anthem was written during the 1848 Revolution<br>
 <strong>note:</strong> adopted 1990; the anthem was written during the 1848 Revolution<br>
 
 **National heritage**<br>
@@ -721,7 +722,4 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 _refugees (country of origin)_: 77,250 (Ukraine) (as of 14 April 2024)<br>
 _stateless persons_: 297 (2022)<br>
 <strong>note:</strong> 16,085 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
-
-**Illicit drugs**<br>
-<p>a source country for cannabis</p><br>
 

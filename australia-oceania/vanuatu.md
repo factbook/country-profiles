@@ -213,10 +213,10 @@ _female_: 88.2% (2023 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water pollution; limited potable water; inadequate sanitation; deforestation<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -351,9 +351,10 @@ boar's tusk with crossed fern fronds<br>
 red, black, green, yellow<br>
 
 **National anthem**<br>
-_name_: "Yumi, Yumi, Yumi" (We, We, We)<br>
+_title_: "Yumi, Yumi, Yumi" (We, We, We)<br>
 _lyrics/music_: Francois Vincent AYSSAV<br>
-<strong>note:</strong> adopted 1980; the anthem is written in Bislama, a Creole language that mixes Pidgin English and French<br>
+_history_: adopted 1980; the anthem is written in Bislama, a Creole language<br>
+<strong>note:</strong> adopted 1980; the anthem is written in Bislama, a Creole language<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

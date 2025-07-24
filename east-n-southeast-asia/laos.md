@@ -233,10 +233,10 @@ _female_: 10 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 unexploded ordnance; deforestation; soil erosion; loss of biodiversity; water pollution; limited access to potable water<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -378,9 +378,10 @@ elephant<br>
 red, white, blue<br>
 
 **National anthem**<br>
-_name_: "Pheng Xat Lao" (Hymn of the Lao People)<br>
+_title_: "Pheng Xat Lao" (Hymn of the Lao People)<br>
 _lyrics/music_: SISANA Sisane/THONGDY Sounthonevichit<br>
-<strong>note:</strong> music adopted 1945, lyrics adopted 1975; the anthem's lyrics were changed following the 1975 Communist revolution that overthrew the monarchy<br>
+_history_: music adopted 1945, lyrics adopted 1975; the anthem's lyrics were changed after the communist revolution that overthrew the monarchy in 1975&nbsp;<br>
+<strong>note:</strong> music adopted 1945, lyrics adopted 1975; the anthem's lyrics were changed after the communist revolution that overthrew the monarchy in 1975 <br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (all cultural)<br>
@@ -654,5 +655,5 @@ the LPAF&rsquo;s primary missions are border and internal security, including co
 _tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Laos was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/laos/<br>
 
 **Illicit drugs**<br>
-<p>Laos remains a key transit route for drug trafficking and the movement of precursor chemicals; opium produced is typically smuggled out of the country and refined elsewhere and not trafficked in significant quantities to the United States</p><br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country (2025)<br>
 

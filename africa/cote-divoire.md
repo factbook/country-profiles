@@ -236,10 +236,10 @@ _female_: 10 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; water pollution from sewage and from industrial, mining, and agricultural effluents<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -396,9 +396,10 @@ elephant<br>
 orange, white, green<br>
 
 **National anthem**<br>
-_name_: "L'Abidjanaise" (Song of Abidjan)<br>
+_title_: "L'Abidjanaise" (Song of Abidjan)<br>
 _lyrics/music_: Mathieu EKRA, Joachim BONY, and Pierre Marie COTY/Pierre Marie COTY and Pierre Michel PANGO<br>
-<strong>note:</strong> adopted 1960; although the nation's capital city moved from Abidjan to Yamoussoukro in 1983, the anthem still owes its name to the former capital<br>
+_history_: adopted 1960; named after the former capital city of Abidjan<br>
+<strong>note:</strong> adopted 1960; named after the former capital city of Abidjan<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (2 cultural, 3 natural)<br>
@@ -702,7 +703,4 @@ al-Qa'ida in the Islamic Maghreb (AQIM); Jama’at Nusrat al Islam wal Muslimeen
 **Refugees and internally displaced persons**<br>
 _IDPs_: 302,000 (post-election conflict in 2010-11, as well as civil war from 2002-04; land disputes; most pronounced in western and southwestern regions) (2022)<br>
 _stateless persons_: 930,578 (2022); note - many Ivoirians lack documentation proving their nationality, which prevent them from accessing education and healthcare; birth on Ivorian soil does not automatically result in citizenship; disputes over citizenship and the associated rights of the large population descended from migrants from neighboring countries is an ongoing source of tension and contributed to the country's 2002 civil war; some observers believe the government's mass naturalizations of thousands of people over the last couple of years is intended to boost its electoral support base; the government in October 2013 acceded to international conventions on statelessness and in August 2013 reformed its nationality law, key steps to clarify the nationality of thousands of residents; since the adoption of the Abidjan Declaration to eradicate statelessness in West Africa in February 2015, 6,400 people have received nationality papers in Cote d'Ivoire; in September 2020, Cote d'Ivoire adopted Africa's first statelessness determination procedure to regularize the status of stateless people<br>
-
-**Illicit drugs**<br>
-illicit producer of cannabis, mostly for local consumption; utility as a narcotic transshipment point to Europe reduced by ongoing political instability; while rampant corruption and inadequate supervision leave the banking system vulnerable to money laundering, the lack of a developed financial system limits the country's utility as a major money-laundering center<br>
 

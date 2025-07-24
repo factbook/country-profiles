@@ -73,7 +73,7 @@ _total_: no permanent inhabitants<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 pollutants transported from southerly latitudes by winds and ocean currents<br>
 
 **Climate**<br>

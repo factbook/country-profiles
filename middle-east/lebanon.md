@@ -227,10 +227,10 @@ _female_: 11 years (2014)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; soil deterioration, erosion; desertification; species loss; air pollution in Beirut from vehicular traffic and the burning of industrial wastes; pollution of coastal waters from raw sewage and oil spills; waste-water management<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Environmental Modification, Marine Life Conservation<br>
 
@@ -374,9 +374,10 @@ cedar tree<br>
 red, white, green<br>
 
 **National anthem**<br>
-_name_: "Kulluna lil-watan" (All Of Us, For Our Country!)<br>
+_title_: "Kulluna lil-watan" (All of Us, For Our Country!)<br>
 _lyrics/music_: Rachid NAKHLE/Wadih SABRA<br>
-<strong>note:</strong> adopted 1927; chosen following a nationwide competition<br>
+_history_: adopted 1927; chosen through a nationwide competition<br>
+<strong>note:</strong> adopted 1927; chosen through a nationwide competition<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 6 (all cultural)<br>
@@ -660,7 +661,4 @@ _stateless persons_: undetermined (2016); note - tens of thousands of persons ar
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared to the previous reporting period, therefore Lebanon remained on Tier 2 Watch List for a second consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/lebanon/<br>
-
-**Illicit drugs**<br>
-<p>source country for amphetamine tablets destined for Saudi Arabia, Qatar, United Arab Emirates, Libya and Sudan; source for captagon    </p><br>
 

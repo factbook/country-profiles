@@ -220,17 +220,12 @@ _men married by age 18_: 8.4% (2020)<br>
 _Education expenditure (% GDP)_: 2.3% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 7.4% national budget (2021 est.)<br>
 
-**Literacy**<br>
-_total population_: 48.3%<br>
-_male_: 62.7%<br>
-_female_: 34.1% (2017)<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 tropical rainforest deforestation; soil erosion; loss of biodiversity; hunting of endangered species for bushmeat; pollution of coastal waters from oil residue and raw sewage; pollution of rivers from industrial run-off; burning and dumping of household waste<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Environmental Modification, Marine Life Conservation<br>
 
@@ -383,8 +378,9 @@ white star<br>
 red, white, blue<br>
 
 **National anthem**<br>
-_name_: "All Hail, Liberia Hail!"<br>
+_title_: "All Hail, Liberia, Hail!"<br>
 _lyrics/music_: Daniel Bashiel WARNER/Olmstead LUCA<br>
+_history_: lyrics adopted 1847, music adopted 1860; the anthem's author later became the third president of Liberia<br>
 <strong>note:</strong> lyrics adopted 1847, music adopted 1860; the anthem's author later became the third president of Liberia<br>
 
 ## Economy
@@ -649,7 +645,4 @@ the Armed Forces of Liberia (AFL) are responsible for external defense and some 
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Liberia was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/liberia/<br>
-
-**Illicit drugs**<br>
-<p>not a significant transit country for illicit narcotics bound for the United States or Europe; not a key producer of illicit drugs; proximity to major drug transit routes contribute to trafficking cocaine and heroin, to and through Liberia and other West African countries; local drug use involves locally grown cannabis, heroin (mostly smoked), cocaine (snorted), and more recently kush (Cannabis Indic’s type flower), mixed with different substances including heroin or synthetic DMT</p><br>
 

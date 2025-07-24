@@ -69,7 +69,7 @@ _total_: no permanent inhabitants<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 damage to native wildlife from imported animals<br>
 
 **Climate**<br>

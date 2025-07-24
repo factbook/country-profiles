@@ -140,7 +140,7 @@ _65 years and over_: 0.87 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-27 deaths/100,000 live births (2020 est.)<br>
+54 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 15.1 deaths/1,000 live births (2024 est.)<br>
@@ -209,16 +209,14 @@ _Education expenditure (% GDP)_: 2.9% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 12.6% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_total population_: 99%<br>
-_male_: 99.2%<br>
 _female_: 93.8% (2022 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water pollution from agricultural chemicals, industrial wastes, and raw sewage; widespread pollution of waterways and coastal areas; illegal dumping; deforestation; soil erosion; fisheries and wildlife depletion<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -372,9 +370,10 @@ red, white, black<br>
 designed in 1962, the coat of arms shows the scarlet ibis (national bird of Trinidad) and the cocrico (national bird of Tobago); they support a shield displaying two hummingbirds, because Trinidad is home to 18 species of the bird and is called the &ldquo;Land of Hummingbirds;&rdquo; three gold ships on a backdrop of national colors represent Christopher Columbus, who visited the islands; the three peaks in the lower left refer to Trinidad being named after the Holy Trinity and also represent a famous mountain; the image of a gold ship's wheel in front of a coconut palm was also used on the Great Seals of British Colonial Tobago; the gold helmet represents Queen Elizabeth II of England (ruler of the country at the time), and the national motto promotes harmony in diversity<br>
 
 **National anthem**<br>
-_name_: "Forged From the Love of Liberty"<br>
+_title_: "Forged From the Love of Liberty"<br>
 _lyrics/music_: Patrick Stanislaus CASTAGNE<br>
-<strong>note:</strong> adopted 1962; song originally created to serve as an anthem for the West Indies Federation; adopted by Trinidad and Tobago following the Federation's dissolution in 1962<br>
+_history_: adopted 1962; song originally written as an anthem for the West Indies Federation; Trinidad and Tobago adopted it when the Federation dissolved<br>
+<strong>note:</strong> adopted 1962; song originally written as an anthem for the West Indies Federation; Trinidad and Tobago adopted it when the Federation dissolved<br>
 
 ## Economy
 
@@ -627,7 +626,4 @@ the TTDF's primary responsibilities are conducting border and maritime security,
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 36,218 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2023)<br>
-
-**Illicit drugs**<br>
-<p>a transit point for drugs destined for Europe, North America, and the rest of the Caribbean;  drug trafficking organizations use  the country’s proximity to Venezuela, its porous borders, vulnerabilities at ports of entry, a limited law enforcement capacity and resources, and corruption</p> <p> </p><br>
 

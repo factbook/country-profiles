@@ -129,10 +129,10 @@ _female_: 82.51 years<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 various forms of air, soil, and water pollution; see individual country entries<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Tropical Timber 2006<br>
 _signed, but not ratified_: Air Pollution-Volatile Organic Compounds<br>
 
@@ -233,9 +233,10 @@ a circle of 12 five-pointed golden-yellow stars on a blue field<br>
 blue, yellow<br>
 
 **National anthem**<br>
-_name_: "Ode to Joy"<br>
+_title_: "Ode to Joy"<br>
 _lyrics/music_: no lyrics/Ludwig VAN BEETHOVEN, arranged by Herbert VON KARAJAN<br>
-<strong>note:</strong> official EU anthem since 1985; the anthem is meant to represent all of Europe rather than just the organization, conveying ideas of peace, freedom, and unity<br>
+_history_: adopted 1985; the anthem is meant to represent all of Europe rather than just the organization, conveying the ideals of peace, freedom, and unity<br>
+<strong>note:</strong> adopted 1985; the anthem is meant to represent all of Europe rather than just the organization, conveying the ideals of peace, freedom, and unity<br>
 
 ## Economy
 

@@ -100,7 +100,7 @@ population concentrated around the capital of Kingston<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 inadequate solid-waste management; most freshwater obtained through rainwater catchment; preservation of unique ecosystem<br>
 
 **Climate**<br>
@@ -122,10 +122,11 @@ _conventional short form_: Norfolk Island<br>
 _etymology_: named by British explorer Captain James COOK after Edward HOWARD, the ninth Duke of Norfolk, in 1774<br>
 
 **Government type**<br>
-non-self-governing overseas territory of Australia; note - the Norfolk Island Regional Council, which began operations 1 July 2016, is responsible for planning and managing a variety of public services, including those funded by the Government of Australia<br>
+administered as an overseas territory of Australia<br>
+<strong>note: </strong>the Norfolk Island Regional Council, which began operations 1 July 2016, is responsible for planning and managing a variety of public services, including those funded by the Government of Australia<br>
 
 **Dependency status**<br>
-self-governing territory of Australia; administered from Canberra by the Department of Infrastructure, Transport, Cities, &amp; Regional Development<br>
+administered as a territory of Australia; administered by the Australian Government through the Department of Infrastructure, Transport, Cities, &amp; Regional Development<br>
 
 **Capital**<br>
 _name_: Kingston<br>
@@ -152,7 +153,6 @@ see Australia<br>
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General of the Commonwealth of Australia General Sam MOSTYN (since 1 July 2024)<br>
 _head of government_: Administrator George PLANT (since 1 June 2023)<br>
-_cabinet_: Executive Council consists of 4 Legislative Assembly members<br>
 _election/appointment process_: the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the governor general of Australia for a 2-year term and represents the monarch and Australia<br>
 
 **Legislative branch**<br>
@@ -202,9 +202,10 @@ Norfolk Island pine<br>
 Norfolk Island is part of the Commonwealth of Australia, and in 1980, Queen Elizabeth II granted it a separate coat of arms (pictured); in the center is the island&rsquo;s symbol, the Norfolk Island Pine, with Britain&rsquo;s lion and Australia&rsquo;s kangaroo supporting the shield; the island&rsquo;s motto, &ldquo;Inasmuch,&rdquo; comes from a verse in the Bible&rsquo;s Gospel of Matthew<br>
 
 **National anthem**<br>
-_name_: "Come Ye Blessed"<br>
-_lyrics/music_: New Testament/John Prindle SCOTT<br>
-<strong>note:</strong> the local anthem, whose lyrics consist of the words from Matthew 25:34-36, 40, is also known as "The Pitcairn Anthem;" the island does not recognize "Advance Australia Fair" (which other Australian territories use); instead "God Save the King" is official (see United Kingdom)<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: official anthem, as an Australian overseas territory<br>
+<strong>note:</strong> the local anthem, whose lyrics come from the Bible's Book of Matthew (25:34-36, 40), is also known as "The Pitcairn Anthem;" the island does not recognize "Advance Australia Fair," Australia's national anthem that is used in other Australian territories; "God Save the King" is the official anthem (see United Kingdom)<br>
 
 ## Economy
 

@@ -229,10 +229,10 @@ _female_: 14 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 severe air, soil, and water pollution; soil pollution from oil spills, pesticides, and toxic defoliants used in producing cotton; surface and underground water pollution from untreated municipal and industrial wastewater and agricultural run-off<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -375,9 +375,10 @@ flames of fire<br>
 blue, red, green<br>
 
 **National anthem**<br>
-_name_: "Azerbaijan Marsi" (March of Azerbaijan)<br>
+_title_: "Azerbaijan Marsi" (March of Azerbaijan)<br>
 _lyrics/music_: Ahmed JAVAD/Uzeyir HAJIBEYOV<br>
-<strong>note:</strong> adopted 1992; although originally written in 1919 during a brief period of independence, "Azerbaijan Marsi" did not become the official anthem until after the dissolution of the Soviet Union<br>
+_history_: adopted 1992; originally written in 1919 during a brief period of independence, but did not become the official anthem until after the dissolution of the Soviet Union<br>
+<strong>note:</strong> adopted 1992; originally written in 1919 during a brief period of independence, but did not become the official anthem until after the dissolution of the Soviet Union<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (4 cultural, 1 natural)<br>
@@ -667,7 +668,4 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps (IR
 **Refugees and internally displaced persons**<br>
 _IDPs_: 659,000 (conflict with Armenia over Nagorno-Karabakh; IDPs are mainly ethnic Azerbaijanis but also include ethnic Kurds, Russians, and Turks predominantly from occupied territories around Nagorno-Karabakh; includes IDPs' descendants, returned IDPs, and people living in insecure areas and excludes people displaced by natural disasters; around half the IDPs live in the capital Baku) (2022)<br>
 _stateless persons_: 3,585 (2022)<br>
-
-**Illicit drugs**<br>
-limited illicit cultivation of cannabis and opium poppy, mostly for CIS consumption; small government eradication program; transit point for Southwest Asian opiates bound for Russia and to a lesser extent the rest of Europe<br>
 

@@ -213,17 +213,12 @@ _men married by age 18_: 19.6% (2018)<br>
 _Education expenditure (% GDP)_: 2.9% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 8.6% national budget (2024 est.)<br>
 
-**Literacy**<br>
-_total population_: 95%<br>
-_male_: 96.5%<br>
-_female_: 93.4% (2021)<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; pollution of inland waterways from small-scale mining activities<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -300,8 +295,8 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Chandrikapersad "Chan" SANTOKHI (since 16 July 2020)<br>
-_head of government_: President Chandrikapersad "Chan" SANTOKHI (since 16 July 2020)<br>
+_chief of state_: President Jennifer GEERLINGS-SIMONS (since 16 July 2025)<br>
+_head of government_: President Jennifer GEERLINGS-SIMONS (since 16 July 2025)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _election/appointment process_: president and vice president indirectly elected by the National Assembly; president and vice president serve a 5-year term (no term limits)<br>
 _most recent election date_: 6 July 2025<br>
@@ -365,9 +360,10 @@ royal palm, faya lobi (flower)<br>
 green, white, red, yellow<br>
 
 **National anthem**<br>
-_name_: "God zij met ons Suriname!" (God Be With Our Suriname)<br>
+_title_: "God zij met ons Suriname!" (God Be With Our Suriname)<br>
 _lyrics/music_: Cornelis Atses HOEKSTRA and Henry DE ZIEL/Johannes Corstianus DE PUY<br>
-<strong>note:</strong> adopted 1959; originally adapted from a Sunday school song written in 1893 and contains lyrics in both Dutch and Sranang Tongo<br>
+_history_: adopted 1959; originally adapted from a Sunday-school song written in 1893; contains lyrics in both Dutch and Sranang Tongo<br>
+<strong>note:</strong> adopted 1959; originally adapted from a Sunday-school song written in 1893; contains lyrics in both Dutch and Sranang Tongo<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>
@@ -632,7 +628,4 @@ the Suriname Army has a limited inventory comprised of a mix of older weapons an
 the National Leger is responsible for defending the sovereignty and territorial integrity of Suriname against foreign aggression; other special tasks include border control and supporting domestic security as required; the military police, for example, have direct responsibility for immigration control at the country&rsquo;s ports of entry, and the military assists the police in combating crime, particularly narco-trafficking, including joint military and police patrols, as well as joint special security teams; in addition, the military provides aid and assistance during times of natural emergencies and participates in socio-economic development projects (2025)<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-<p>a transit country for South American cocaine en route to Europe; illicit drugs are smuggled in cargo containers, commercial and private air transport and human couriers</p> <p> </p><br>
 

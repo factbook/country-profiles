@@ -148,7 +148,10 @@ none (territory of Norway)<br>
 the flag of Norway is used<br>
 
 **National anthem**<br>
-<p><strong>note:</strong> as a territory of Norway, "Ja, vi elsker dette landet" is official (see Norway)</p><br>
+_title_: "Ja, vi elsker dette landet"<br>
+_lyrics/music_: Bjornstjerne BJORNSON/Rikard NORDRAAK<br>
+_history_: official anthem, as a Norwegian territory<br>
+<strong>note:</strong> as a territory of Norway, "Ja, vi elsker dette landet" is official (see Norway)<br>
 
 ## Economy
 

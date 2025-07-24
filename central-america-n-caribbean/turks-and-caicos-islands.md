@@ -180,11 +180,6 @@ _men married by age 18_: 5.1% (2020)<br>
 _Education expenditure (% GDP)_: 3.1% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 8.7% national budget (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
 _male_: NA<br>
@@ -195,7 +190,7 @@ destination and transit point for illegal Haitian immigrants bound for the Baham
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 limited natural freshwater resources<br>
 
 **Climate**<br>
@@ -301,8 +296,9 @@ blue with the UK flag in the upper hoist-side quadrant and the colonial shield c
 conch shell, Turk's cap cactus<br>
 
 **National anthem**<br>
-_name_: "This Land of Ours"<br>
-_lyrics/music_: Conrad HOWELL<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: official anthem, as a UK overseas territory<br>
 <strong>note:</strong> serves as a local anthem; as an overseas territory of the UK, "God Save the King" is the official anthem (see United Kingdom)<br>
 
 ## Economy
@@ -477,7 +473,4 @@ _key ports_: Cockburn Harbor, Grand Turk, Providenciales<br>
 defense is the responsibility of the UK<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-transshipment point for South American narcotics destined for the US and Europe<br>
 

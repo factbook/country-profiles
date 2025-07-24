@@ -220,10 +220,10 @@ _female_: 52.2% (2022 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation (overharvesting of trees for timber and agricultural purposes); soil erosion; overgrazing; overfishing<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -361,9 +361,10 @@ black star<br>
 red, yellow, green, black<br>
 
 **National anthem**<br>
-_name_: "Esta e a Nossa Patria Bem Amada" (This Is Our Beloved Country)<br>
+_title_: "Esta e a Nossa Patria Bem Amada" (This is Our Beloved Country)<br>
 _lyrics/music_: Amilcar Lopes CABRAL/XIAO He<br>
-<strong>note:</strong> adopted 1974; a delegation from then Portuguese Guinea visited China in 1963 and heard music by XIAO He; Amilcar Lopes CABRAL, the leader of Guinea-Bissau's independence movement, asked the composer to create a piece that would inspire his people to struggle for independence<br>
+_history_: adopted 1974; a delegation from Portuguese Guinea visited China in 1963 and heard music by XIAO He; Amilcar Lopes CABRAL, the leader of Guinea-Bissau's independence movement, asked the composer to create a piece that would inspire his people to fight for independence<br>
+<strong>note:</strong> adopted 1974; a delegation from Portuguese Guinea visited China in 1963 and heard music by XIAO He; Amilcar Lopes CABRAL, the leader of Guinea-Bissau's independence movement, asked the composer to create a piece that would inspire his people to fight for independence<br>
 
 ## Economy
 
@@ -627,7 +628,4 @@ _refugees (country of origin)_: 7,757 (Senegal) (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List — The Government of Guinea-Bissau does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Guinea-Bissau was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/guinea-bissau/<br>
-
-**Illicit drugs**<br>
-important transit country for South American cocaine en route to Europe; enabling environment for trafficker operations due to pervasive corruption; archipelago-like geography near the capital facilitates drug smuggling<br>
 

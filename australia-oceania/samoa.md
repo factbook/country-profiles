@@ -218,10 +218,10 @@ _female_: 97.7% (2019 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 soil erosion; deforestation; invasive species; overfishing<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -358,8 +358,9 @@ Southern Cross constellation (five five-pointed stars)<br>
 red, white, blue<br>
 
 **National anthem**<br>
-_name_: "O le Fu'a o le Sa'olotoga o Samoa" (The Banner of Freedom)<br>
+_title_: "O le Fu'a o le Sa'olotoga o Samoa" (The Banner of Freedom)<br>
 _lyrics/music_: Sauni Liga KURESA<br>
+_history_: adopted 1962; also known as "Samoa Tula'i" (Samoa Arise)<br>
 <strong>note:</strong> adopted 1962; also known as "Samoa Tula'i" (Samoa Arise)<br>
 
 ## Economy

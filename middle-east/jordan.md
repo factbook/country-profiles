@@ -240,10 +240,10 @@ _female_: 11 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 limited natural freshwater resources; declining water table; salination; deforestation; overgrazing; soil erosion; desertification; biodiversity and ecosystem damage/loss<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -393,9 +393,10 @@ eagle<br>
 black, white, green, red<br>
 
 **National anthem**<br>
-_name_: "As-salam al-malaki al-urdoni" (Long Live the King of Jordan)<br>
+_title_: "As-salam al-malaki al-urdoni" (Long Live the King of Jordan)<br>
 _lyrics/music_: Abdul-Mone'm al-RIFAI'/Abdul-Qader al-TANEER<br>
-<strong>note:</strong> adopted 1946; the shortened version of the anthem is used most commonly, while the full version is reserved for special occasions<br>
+_history_: adopted 1946; the shortened version of the anthem is most commonly used; the full version is reserved for special occasions<br>
+<strong>note:</strong> adopted 1946; the shortened version of the anthem is most commonly used; the full version is reserved for special occasions<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 7 (6 cultural, 1 mixed)<br>
@@ -690,7 +691,4 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 2.4 million (Palestinian refugees) (2020); 12,866 (Yemen), 6,013 Sudan (2021); 33,951 (Iraq) (mid-year 2022) (2022); 638,760 (Syria) (2024)<br>
 _stateless persons_: 64 (2022)<br>
-
-**Illicit drugs**<br>
-primarily a transshipment country for amphetamine tablets originating in Lebanon and Syria and destined for Saudi Arabia, Israel, and Gulf countries; the government is increasingly concerned about domestic consumption of illicit drugs<br>
 

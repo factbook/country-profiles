@@ -146,7 +146,7 @@ _total population_: 1.02 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-183 deaths/100,000 live births (2020 est.)<br>
+118 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 44.6 deaths/1,000 live births (2024 est.)<br>
@@ -213,16 +213,14 @@ _women married by age 15_: 6.5% (2023)<br>
 _women married by age 18_: 29.6% (2023)<br>
 
 **Literacy**<br>
-_total population_: 70.1%<br>
-_male_: 85.1%<br>
 _female_: 54.1% (2023 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 limited natural freshwater resources; inadequate supplies of potable water; overgrazing; soil erosion; desertification<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban<br>
 
@@ -374,8 +372,9 @@ golden eagle<br>
 red, white, black<br>
 
 **National anthem**<br>
-_name_: "al-qumhuriyatu l-muttahida" (United Republic)<br>
+_title_: "al-qumhuriyatu l-muttahida" (United Republic)<br>
 _lyrics/music_: Abdullah Abdulwahab NOA'MAN/Ayyoab Tarish ABSI<br>
+_history_: adopted 1990; the music first served as the anthem for South Yemen before unification with North Yemen in 1990<br>
 <strong>note:</strong> adopted 1990; the music first served as the anthem for South Yemen before unification with North Yemen in 1990<br>
 
 **National heritage**<br>

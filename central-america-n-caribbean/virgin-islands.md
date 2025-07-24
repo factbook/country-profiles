@@ -173,14 +173,9 @@ _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 **Currently married women (ages 15-49)**<br>
 27.4% (2023)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 lack of natural freshwater resources; protection of coral reefs; solid waste management; coastal development; increased boating and overfishing<br>
 
 **Climate**<br>
@@ -276,8 +271,9 @@ Transfer Day (from Denmark to the US), 31 March (1917)<br>
 white field with a modified US coat of arms in the center between the large blue initials V and I; the coat of arms shows a yellow eagle holding an olive branch in its right talon and three arrows in the left, with a shield of seven red and six white vertical stripes below a blue panel; white is a symbol of purity, and the letters stand for the Virgin Islands<br>
 
 **National anthem**<br>
-_name_: "Virgin Islands March"<br>
-_lyrics/music_: multiple/Alton Augustus ADAMS, Sr.<br>
+_title_: "The Star-Spangled Banner"<br>
+_lyrics/music_: Francis Scott KEY/John Stafford SMITH<br>
+_history_: official anthem, as a US territory<br>
 <strong>note:</strong> adopted 1963; serves as a local anthem; as a territory of the US, "The Star-Spangled Banner" is official (see United States)<br>
 
 ## Economy

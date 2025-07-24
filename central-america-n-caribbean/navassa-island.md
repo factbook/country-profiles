@@ -65,7 +65,7 @@ _total_: uninhabited<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 some coral bleaching<br>
 
 **Climate**<br>

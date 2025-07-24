@@ -240,10 +240,10 @@ _female_: 11 years (2016)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; overgrazing; soil erosion; desertification; poaching; overfishing; overhunting<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Nuclear Test Ban<br>
 
@@ -398,9 +398,10 @@ lion<br>
 green, red, yellow<br>
 
 **National anthem**<br>
-_name_: "O Cameroun, Berceau de nos Ancetres" (O Cameroon, Cradle of Our Forefathers)<br>
+_title_: "O Cameroun, Berceau de Nos Anc&ecirc;tres" (O Cameroon, Cradle of Our Forefathers)<br>
 _lyrics/music_: Rene Djam AFAME, Samuel Minkio BAMBA, Moise Nyatte NKO'O [French], Benard Nsokika FONLON [English]/Rene Djam AFAME<br>
-<strong>note:</strong> adopted 1957; Cameroon's anthem, also known as "Chant de Ralliement" (The Rallying Song), has been used unofficially since 1948 and officially adopted in 1957; the anthem has French and English versions whose lyrics differ<br>
+_history_: adopted 1957; the anthem, also known as "Le Chant de Ralliement" (The Rallying Song), has been used unofficially since 1948; has French and English versions with different lyrics<br>
+<strong>note:</strong> adopted 1957; the anthem, also known as "Le Chant de Ralliement" (The Rallying Song), has been used unofficially since 1948; has French and English versions with different lyrics<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both natural)<br>

@@ -64,7 +64,7 @@ major chokepoints include the Dardanelles, Strait of Gibraltar, access to the Pa
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 endangered marine species; fishery issues (over-fishing, unregulated bottom trawling, drift-net fishing, discards, catch of non-target species); pollution (maritime transport, discharges, offshore drilling, oil spills, improperly disposed waste); municipal sludge pollution off eastern US, southern Brazil, and eastern Argentina; oil pollution in Caribbean Sea, Gulf of America, Lake Maracaibo, Mediterranean Sea, and North Sea; industrial waste and municipal sewage pollution in Baltic Sea, North Sea, and Mediterranean Sea<br>
 
 **Climate**<br>

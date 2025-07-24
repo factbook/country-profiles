@@ -211,11 +211,6 @@ _female_: 15.3% (2025 est.)<br>
 _Education expenditure (% GDP)_: 5.7% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 12% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: 99.7%<br>
-_male_: 99.7%<br>
-_female_: 99.7% (2015)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years<br>
 _male_: 17 years<br>
@@ -223,10 +218,10 @@ _female_: 18 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution from road traffic, domestic heating (wood burning), power generation, and industry; water pollution; biodiversity protection<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -385,8 +380,9 @@ Mount Triglav<br>
 white, blue, red<br>
 
 **National anthem**<br>
-_name_: "Zdravljica" (A Toast)<br>
+_title_: "Zdravljica" (A Toast)<br>
 _lyrics/music_: France PRESEREN/Stanko PREMRL<br>
+_history_: adopted in 1989 while still part of Yugoslavia; originally written in 1848; the full poem, whose seventh verse is used as the anthem, speaks of pan-Slavic nationalism<br>
 <strong>note:</strong> adopted in 1989 while still part of Yugoslavia; originally written in 1848; the full poem, whose seventh verse is used as the anthem, speaks of pan-Slavic nationalism<br>
 
 **National heritage**<br>
@@ -687,7 +683,4 @@ the Slovenian Armed Forces (Slovenska Vojska or SV) are responsible for the defe
 _refugees (country of origin)_: 11,035 (Ukraine) (as of 1 March 2024)<br>
 _stateless persons_: 10 (2020)<br>
 <strong>note: </strong> 634,128 estimated refugee and migrant arrivals (January 2015-February 2024)<br>
-
-**Illicit drugs**<br>
-minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals<br>
 

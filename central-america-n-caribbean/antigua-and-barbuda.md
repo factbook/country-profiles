@@ -195,11 +195,6 @@ _other alcohols_: 0.41 liters of pure alcohol (2019 est.)<br>
 _Education expenditure (% GDP)_: 3.1% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 11% national budget (2024 est.)<br>
 
-**Literacy**<br>
-_total population_: 99%<br>
-_male_: 98.4%<br>
-_female_: 99.4% (2015 est.)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 14 years<br>
@@ -207,10 +202,10 @@ _female_: 16 years (2012)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 limited natural freshwater resources; water management hampered by tree-clearing to increase crop production, causing rapid rainfall runoff<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -351,9 +346,10 @@ fallow deer<br>
 red, white, blue, black, yellow<br>
 
 **National anthem**<br>
-_name_: Fair Antigua, We Salute Thee<br>
-_lyrics/music_: Novelle Hamilton RICHARDS/Walter Garnet Picart CHAMBERS<br>
-<strong>note:</strong> adopted 1967; as a Commonwealth country, in addition to the national anthem, "God Save the King" serves as the royal anthem (see United Kingdom)<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: royal anthem, as a Commonwealth country<br>
+<strong>note:</strong> adopted 1967; in addition to the national anthem, "God Save the King" serves as the royal anthem for the Commonwealth country (see United Kingdom)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -575,7 +571,4 @@ the ABDF's equipment inventory is limited to small arms, light weapons, and soft
 the ABDF’s responsibilities include providing for internal security and support to the police in maintaining law and order, interdicting narcotics smuggling, responding to natural disasters, and monitoring the country’s territorial waters and maritime resources; established in 1981 from colonial forces originally created in 1897, it is one of the world’s smallest militaries<br><br>the country has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Barbados, Dominica, Grenada, Guyana, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2025)<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>
 

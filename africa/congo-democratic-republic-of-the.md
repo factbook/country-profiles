@@ -241,10 +241,10 @@ _female_: 9 years (2013)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 poaching; water pollution; deforestation from agriculture and wood used for fuel; soil erosion; damage from mining<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: Environmental Modification<br>
 
@@ -400,9 +400,10 @@ leopard<br>
 sky blue, red, yellow<br>
 
 **National anthem**<br>
-_name_: "Debout Congolaise" (Arise Congolese)<br>
+_title_: "Debout Congolaise" (Arise, Congolese)<br>
 _lyrics/music_: Joseph LUTUMBA/Simon-Pierre BOKA di Mpasi Londi<br>
-<strong>note:</strong> adopted 1960; replaced when the country was known as Zaire; but readopted in 1997<br>
+_history_: adopted 1960; replaced when the country was known as Zaire, but readopted in 1997<br>
+<strong>note:</strong> adopted 1960; replaced when the country was known as Zaire, but readopted in 1997<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (all natural)<br>
@@ -694,7 +695,4 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 208,328 (Rwanda), 53,297 (South Sudan) (refugees and asylum seekers), 49,836 (Burundi) (2023); 212,211 (Central African Republic) (2024)<br>
 _IDPs_: 6.38 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2023)<br>
-
-**Illicit drugs**<br>
-<p>country of origin of methamphetamine destined for overseas markets;</p><br>
 

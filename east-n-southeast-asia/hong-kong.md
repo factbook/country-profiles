@@ -188,11 +188,6 @@ _unimproved: total_: total: 3.6% of population (2017)<br>
 _Education expenditure (% GDP)_: 3.8% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 12.7% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
 _male_: 17 years<br>
@@ -200,7 +195,7 @@ _female_: 17 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air and water pollution from rapid urbanization; urban waste pollution; industrial pollution<br>
 
 **Climate**<br>
@@ -321,7 +316,10 @@ bauhinia flower<br>
 red, white<br>
 
 **National anthem**<br>
-<p><strong>note:</strong> as a Special Administrative Region of China, "Yiyongjun Jinxingqu" is the official anthem (see China)</p><br>
+_title_: "Yiyongjun Jinxingqu"<br>
+_lyrics/music_: TIAN Han/NIE Er<br>
+_history_: official anthem, as a Special Administrative Region of China<br>
+<strong>note:</strong> China's national anthem, "Yiyongjun Jinxingqu" (The March of the Volunteers), is the official anthem for Hong Kong, as a Special Administrative Region of China (see China)<br>
 
 ## Economy
 
@@ -572,5 +570,5 @@ Hong Kong Police Force (specialized units include the Police Counterterrorism Re
 _tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Hong Kong was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/hong-kong/<br>
 
 **Illicit drugs**<br>
-<p>modern banking system provides conduit for money laundering; groups involved in money laundering range from local street organizations to sophisticated international syndicates involved in assorted criminal activities, including drug trafficking; major source of precursor chemicals used in the production of illicit narcotics</p><br>
+_USG identification_: <br>major precursor-chemical producer (2025)<br>
 

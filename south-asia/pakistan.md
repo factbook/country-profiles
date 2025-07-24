@@ -243,10 +243,10 @@ _female_: 8 years (2019)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water pollution from raw sewage, industrial wastes, and agricultural runoff; limited natural freshwater resources; most of the population does not have access to potable water; deforestation; soil erosion; desertification; air pollution and noise pollution in urban areas<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Marine Life Conservation<br>
 
@@ -403,8 +403,9 @@ five-pointed star between the horns of a waxing crescent moon, jasmine<br>
 green, white<br>
 
 **National anthem**<br>
-_name_: "Qaumi Tarana" (National Anthem)<br>
+_title_: "Qaumi Tarana" (National Anthem)<br>
 _lyrics/music_: Abu-Al-Asar Hafeez JULLANDHURI/Ahmed Ghulamali CHAGLA<br>
+_history_: adopted 1954; also known as "Pak sarzamin shad bad" (Blessed Be the Sacred Land)<br>
 <strong>note:</strong> adopted 1954; also known as "Pak sarzamin shad bad" (Blessed Be the Sacred Land)<br>
 
 **National heritage**<br>
@@ -705,7 +706,7 @@ the military's inventory is a broad mix of mostly imported and some domestically
 1,300 Central African Republic (MINUSCA); 290 South Sudan (UNMISS); 590 Sudan (UNISFA) (2024)<br>
 
 **Military - note**<br>
-the Pakistan military operates largely independently and without effective civilian oversight; it has ruled the country for more than 30 years since independence in 1947 and continues to play a significant role in Pakistan's political arena; it also has a large stake in the country’s economic sector and is involved in a diverse array of commercial activities, including banking, construction of public projects, employment services, energy and power generation, fertilizer, food, housing, real estate, and security services<br><br>the military is responsible for external defense but also has a large role in domestic security; its chief external focus is on the perceived threat posed by India; the military is the lead security agency in many areas of the former Federally Administered Tribal Areas (FATA); it has considerable operational experience, having engaged in several conflicts with India and conducted counterinsurgency and counterterrorism operations for decades against various internal militant groups; it is also one of the longest serving and largest contributors to UN peacekeeping missions; China is its closest security partner<br><br>Pakistan and India have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well as two clashes over the disputed region of Kashmir (First Kashmir War of 1947 and the Kargil Conflict of 1999); a fragile cease-fire in Kashmir was reached in 2003, revised in 2018, and reaffirmed in 2021, although the Line of Control remains contested, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area several times between 1985-1995; despite a cease-fire, both sides continue to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties are due to extreme weather or the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness<br><br>Pakistan has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2024)<br>
+the Pakistan military is responsible for external defense but also has a domestic security role; its chief external focus is India; the military is the lead security agency in many areas of the former Federally Administered Tribal Areas (FATA) and has conducted counterinsurgency operations for decades against various internal militant groups; it is also one of the longest serving and largest contributors to UN peacekeeping missions; China is its closest security partner<br><br>the military operates largely independently and without effective civilian oversight; it has ruled the country for more than 30 years since independence in 1947 and continues to play a significant role in Pakistan's political arena; it also has a large stake in the country’s economic sector and is involved in a diverse array of commercial activities, including banking, construction of public projects, employment services, energy and power generation, fertilizer, food, housing, real estate, and security services<br><br>Pakistan has fought four wars and several skirmishes with India; three of the wars have been over the disputed region of Jammu and Kashmir, the status of which has been unsettled since the UK's 1947 withdrawal and the partition and independence of India and Pakistan; a fragile cease-fire was reached in 2003, revised in 2018, and reaffirmed in 2021, although the militarized Line of Control which serves as the border remains contested, and India has accused Pakistan of backing armed separatists and terrorist organizations in the territory New Delhi controls; in the Spring of 2025, Indian held Pakistan responsible for a terrorist attack in India-controlled Kashmir and retaliated, sparking a brief cross-border conflict involving aircraft, artillery, drone, and missile strikes<br><br>the Kashmir dispute also includes the Siachen Glacier, located in the Karakoram Mountain Range, which was seized by India in 1984 with Pakistan attempting to retake the area several times between 1985 and 1995; despite the 2003 cease-fire, both sides continue to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties are due to extreme weather and the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness (2025)<br>
 
 ## Space
 
@@ -733,5 +734,5 @@ _IDPs_: 21,000 (primarily those who remain displaced by counter-terrorism and co
 _stateless persons_: 48 (2022)<br>
 
 **Illicit drugs**<br>
-<p>one of the world’s top transit corridors for opiates and cannabis products trafficked with Afghanistan and Iran; increased synthetic drug smuggling primarily methamphetamine; a major source of precursor or essential chemicals used in the production of heroin and amphetamine-type stimulants</p><br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>
 

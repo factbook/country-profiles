@@ -168,14 +168,9 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 1.5% of population (2017)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 habitat and species loss; water pollution; improper solid-waste disposal<br>
 
 **Climate**<br>
@@ -288,9 +283,10 @@ Jersey cow<br>
 red, white<br>
 
 **National anthem**<br>
-_name_: "Isle de Siez Nous" (Island Home)<br>
-_lyrics/music_: Gerard LE FEUVRE<br>
-<strong>note:</strong> adopted 2008; serves as a local anthem; as a British Crown dependency, "God Save the King" is official (see United Kingdom)<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: official anthem, as a British Crown dependency<br>
+<strong>note:</strong> adopted 2008; serves as a local anthem; "God Save the King" is the official anthem for Jersey, as a British Crown dependency (see United Kingdom)<br>
 
 ## Economy
 

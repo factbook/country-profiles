@@ -178,14 +178,9 @@ _unimproved: total_: total: NA<br>
 **Education expenditure**<br>
 7.6% of GDP (2019 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 coastal erosion, landslides and rockfalls, flash flooding, wind storms; oil spills<br>
 
 **Climate**<br>
@@ -303,9 +298,10 @@ white with a red cross outlined in blue extending to the edges of the flag; the 
 ram<br>
 
 **National anthem**<br>
-_name_: "Mitt alfagra land" (My Fairest Land)<br>
+_title_: "Mitt alfagra land" (My Fairest Land)<br>
 _lyrics/music_: Simun av SKAROI/Peter ALBERG<br>
-<strong>note:</strong> adopted 1948; the anthem is also known as "Tu alfagra land mitt" (Thou Fairest Land of Mine); as a self-governing overseas administrative division of Denmark, the Faroe Islands are permitted their own national anthem<br>
+_history_: adopted 1948; the anthem is also known as "Tu alfagra land mitt" (Thou Fairest Land of Mine); as a self-governing overseas administrative division of Denmark, the Faroe Islands are permitted to have their own national anthem<br>
+<strong>note:</strong> adopted 1948; the anthem is also known as "Tu alfagra land mitt" (Thou Fairest Land of Mine); as a self-governing overseas administrative division of Denmark, the Faroe Islands are permitted to have their own national anthem<br>
 
 ## Economy
 

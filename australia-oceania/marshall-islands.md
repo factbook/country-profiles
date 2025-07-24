@@ -202,11 +202,6 @@ _female_: 8.5% (2025 est.)<br>
 _Education expenditure (% GDP)_: 7.5% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 11.3% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: 98.3%<br>
-_male_: 98.3%<br>
-_female_: 98.2% (2011)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 10 years<br>
 _male_: 10 years<br>
@@ -214,10 +209,10 @@ _female_: 10 years (2019)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 inadequate potable water; pollution of Majuro lagoon from household waste and discharges from fishing vessels; sea-level rise<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -357,8 +352,9 @@ a 24-rayed star<br>
 blue, white, orange<br>
 
 **National anthem**<br>
-_name_: "Forever Marshall Islands"<br>
+_title_: "Forever Marshall Islands"<br>
 _lyrics/music_: Amata KABUA<br>
+_history_: adopted 1981<br>
 <strong>note:</strong> adopted 1981<br>
 
 **National heritage**<br>

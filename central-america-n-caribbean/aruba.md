@@ -177,11 +177,6 @@ _unimproved: total_: total: 2.3% of population (2015 est.)<br>
 _Education expenditure (% GDP)_: 3.6% of GDP (2021 est.)<br>
 _Education expenditure (% national budget)_: 19.4% national budget (2019 est.)<br>
 
-**Literacy**<br>
-_total population_: 97.8%<br>
-_male_: 97.8%<br>
-_female_: 97.8% (2018)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 13 years<br>
@@ -189,7 +184,7 @@ _female_: 14 years (2012)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 difficulty in properly disposing waste from tourists; air pollution from waste-burning; water pollution from plastics<br>
 
 **Climate**<br>
@@ -306,9 +301,10 @@ Hooiberg (Haystack) Hill<br>
 blue, yellow, red, white<br>
 
 **National anthem**<br>
-_name_: "Aruba Deshi Tera" (Aruba Precious Country)<br>
-_lyrics/music_: Juan Chabaya 'Padu' LAMPE/Rufo Inocencio WEVER<br>
-<strong>note:</strong> local anthem adopted 1986; as part of the Kingdom of the Netherlands, "Het Wilhelmus" is official (see Netherlands)<br>
+_title_: "Het Wilhelmus"<br>
+_lyrics/music_: Philips VAN MARNIX van Sint Aldegonde (presumed)/unknown<br>
+_history_: official anthem, as part of the Kingdom of the Netherlands<br>
+<strong>note:</strong> local anthem adopted 1986; in addition to the local anthem, "Het Wilhelmus" is the official anthem for Aruba as part of the Kingdom of the Netherlands (see Netherlands)<br>
 
 ## Economy
 
@@ -517,7 +513,4 @@ defense is the responsibility of the Kingdom of the Netherlands; the Aruba secur
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 17,085 (Venezuela) (2023)<br>
-
-**Illicit drugs**<br>
-<p>northbound transshipment point for cocaine from Colombia and Venezuela; cocaine shipped to the United States, other Caribbean islands, Africa, and Europe</p> <p> </p><br>
 

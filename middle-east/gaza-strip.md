@@ -134,7 +134,7 @@ _65 years and over_: 1.05 male(s)/female<br>
 _total population_: 1.03 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-20 deaths/100,000 live births (2020 est.)<br>
+16 deaths/100,000 live births (2023 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Infant mortality rate**<br>
@@ -216,7 +216,7 @@ _female_: 14 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 soil degradation; desertification; water pollution from chemicals and pesticides; salination of fresh water; improper sewage treatment; depletion and contamination of underground water resources<br>
 
 **Climate**<br>

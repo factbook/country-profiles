@@ -219,11 +219,6 @@ _women married by age 18_: 0.2% (2022)<br>
 _Education expenditure (% GDP)_: 4.3% of GDP (2021 est.)<br>
 _Education expenditure (% national budget)_: 12.7% national budget (2021 est.)<br>
 
-**Literacy**<br>
-_total population_: 99.8%<br>
-_male_: 99.8%<br>
-_female_: 99.8% (2021)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 16 years<br>
@@ -231,10 +226,10 @@ _female_: 17 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water pollution; air pollution; deforestation; groundwater pollution from chemicals and waste; soil degradation and erosion<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -377,9 +372,10 @@ mounted knight known as Vytis (the Chaser), white stork<br>
 yellow, green, red<br>
 
 **National anthem**<br>
-_name_: "Tautiska giesme" (The National Song)<br>
+_title_: "Tautiska giesme" (The National Song)<br>
 _lyrics/music_: Vincas KUDIRKA<br>
-<strong>note:</strong> adopted 1918, restored 1990; written in 1898 while Lithuania was a part of Russia; banned during the Soviet occupation from 1940 to 1990<br>
+_history_: adopted 1918, restored 1990; written in 1898 when Lithuania was part of Russia; banned during the Soviet occupation from 1940 to 1990<br>
+<strong>note:</strong> adopted 1918, restored 1990; written in 1898 when Lithuania was part of Russia; banned during the Soviet occupation from 1940 to 1990<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (all cultural)<br>
@@ -674,7 +670,4 @@ the Lithuanian Armed Forces are responsible for the defense of the country’s i
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 41,490 (Ukraine) (as of 11 March 2024)<br>
 _stateless persons_: 2,720 (2022)<br>
-
-**Illicit drugs**<br>
-<p>source country for amphetamine tablets</p><br>
 

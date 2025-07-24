@@ -217,9 +217,9 @@ _female_: 5.2% (2025 est.)<br>
 4.9% of GDP (2021 est.)<br>
 
 **Literacy**<br>
-_total population_: 98.8% NA<br>
-_male_: 99.2% NA<br>
-_female_: 98.4% NA<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
@@ -228,10 +228,10 @@ _female_: 16 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution in large cities; acid rain; water pollution from sewage and industrial effluents; drift-net fishing; solid waste disposal; transboundary air pollution from China<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -380,9 +380,10 @@ taegeuk (yin-yang symbol), Rose of Sharon (<em>Hibiscus syriacus</em>), Siberian
 red, white, blue, black<br>
 
 **National anthem**<br>
-_name_: "Aegukga" (Patriotic Song)<br>
+_title_: "Aegukga" (Patriotic Song)<br>
 _lyrics/music_: YUN Ch'i-Ho or AN Ch'ang-Ho/AHN Eaktay<br>
-<strong>note:</strong> adopted 1948, well-known by 1910; both North Korea's and South Korea's anthems share the same name and have a vaguely similar melody but have different lyrics<br>
+_history_: adopted 1948, well-known by 1910; North Korea's and South Korea's anthems have the same name and a similar melody, but different lyrics<br>
+<strong>note:</strong> adopted 1948, well-known by 1910; North Korea's and South Korea's anthems have the same name and a similar melody, but different lyrics<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 16 (14 cultural, 2 natural)<br>
@@ -697,5 +698,5 @@ has a growing and ambitious space program focused on developing satellites, sate
 _stateless persons_: 202 (2022)<br>
 
 **Illicit drugs**<br>
-<p>precursor chemicals used for illicit drugs, such as acetic anhydride, pseudoephedrine, and ephedrine, imported from the United States, Japan, India, and China and then either resold within South Korea or smuggled into other countries</p> <p> </p><br>
+_USG identification_: <br>major precursor-chemical producer (2025)<br>
 

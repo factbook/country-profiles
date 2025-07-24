@@ -142,7 +142,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age<br>
 
 **Maternal mortality ratio**<br>
-7 deaths/100,000 live births (2020 est.)<br>
+6 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 1.5 deaths/1,000 live births (2024 est.)<br>
@@ -227,10 +227,10 @@ _female_: 17 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water pollution; industrial pollution; limited freshwater resources; waste disposal problems from limited land availability; air pollution; deforestation; seasonal smoke/haze from forest fires in Indonesia<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -372,9 +372,10 @@ lion, merlion (mythical half-lion, half-fish creature), orchid<br>
 red, white<br>
 
 **National anthem**<br>
-_name_: "Majulah Singapura" (Onward Singapore)<br>
+_title_: "Majulah Singapura" (Onward Singapore)<br>
 _lyrics/music_: ZUBIR Said<br>
-<strong>note:</strong> adopted 1965; first performed in 1958 at the Victoria Theatre, the anthem is sung only in Malay<br>
+_history_: adopted 1965; first performed in 1958 at the Victoria Theatre; the anthem is sung only in Malay<br>
+<strong>note:</strong> adopted 1965; first performed in 1958 at the Victoria Theatre; the anthem is sung only in Malay<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -653,7 +654,4 @@ the SAF’s primary responsibility is external defense, but it has trained for c
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 1,109 (2022)<br>
-
-**Illicit drugs**<br>
-<p>drug abuse limited because of aggressive law enforcement efforts, including carrying out death sentences; as a transportation and financial services hub, Singapore is vulnerable, despite strict laws and enforcement, as a venue for money laundering</p><br>
 

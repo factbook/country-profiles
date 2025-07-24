@@ -143,7 +143,7 @@ _total population_: 0.94 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 30-34<br>
 
 **Maternal mortality ratio**<br>
-29 deaths/100,000 live births (2020 est.)<br>
+18 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 6.8 deaths/1,000 live births (2024 est.)<br>
@@ -231,10 +231,10 @@ _female_: 14 years (2018)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; soil erosion; poaching; effects of urbanization; coastal degradation from mining activities and pollution; coral reef destruction; freshwater resources polluted by industrial wastes and sewage runoff; waste disposal; air pollution in Colombo<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Comprehensive Nuclear Test Ban, Marine Life Conservation<br>
 
@@ -377,8 +377,9 @@ lion, water lily<br>
 maroon, yellow<br>
 
 **National anthem**<br>
-_name_: "Sri Lanka Matha" (Mother Sri Lanka)<br>
+_title_: "Sri Lanka Matha" (Mother Sri Lanka)<br>
 _lyrics/music_: Ananda SAMARKONE<br>
+_history_: adopted 1951<br>
 <strong>note:</strong> adopted 1951<br>
 
 **National heritage**<br>

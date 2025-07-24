@@ -217,11 +217,6 @@ _female_: 23.8% (2025 est.)<br>
 _Education expenditure (% GDP)_: 5.1% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 10.4% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: 99.1%<br>
-_male_: 99.1%<br>
-_female_: 99.1% (2021)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 15 years<br>
@@ -229,10 +224,10 @@ _female_: 15 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air and soil pollution; water pollution from industry and large-scale agriculture<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Antarctic-Environmental Protection<br>
 
@@ -381,8 +376,9 @@ Holy Crown of Hungary (Crown of Saint Stephen)<br>
 red, white, green<br>
 
 **National anthem**<br>
-_name_: "Himnusz" (Hymn)<br>
+_title_: "Himnusz" (Hymn)<br>
 _lyrics/music_: Ferenc KOLCSEY/Ferenc ERKEL<br>
+_history_: adopted 1844<br>
 <strong>note:</strong> adopted 1844<br>
 
 **National heritage**<br>
@@ -691,7 +687,4 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 66,135 (Ukraine) (as of 15 April 2024)<br>
 _stateless persons_: 130 (2022)<br>
-
-**Illicit drugs**<br>
-transshipment point for Southwest Asian heroin and cannabis and for South American cocaine destined for Western Europe; limited producer of precursor chemicals, particularly for amphetamine and methamphetamine; efforts to counter money laundering, related to organized crime and drug trafficking are improving but remain vulnerable; significant consumer of ecstasy<br>
 

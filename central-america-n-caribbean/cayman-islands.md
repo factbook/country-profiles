@@ -175,14 +175,9 @@ _unimproved: total_: total: 4.4% of population (2015 est.)<br>
 _Education expenditure (% GDP)_: 1.5% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 15% national budget (2019 est.)<br>
 
-**Literacy**<br>
-_total population_: 98.9% NA<br>
-_male_: 98.7% NA<br>
-_female_: 99% (2021) NA<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 no natural freshwater resources; trash washing up or being deposited on beaches; no recycling or waste-treatment facilities; deforestation&nbsp;<br>
 
 **Climate**<br>
@@ -293,9 +288,10 @@ green sea turtle<br>
 the Queen of England approved the Cayman Islands' coat of arms -- which was designed with input from the public -- in 1958; the shield features the<em> </em>lion of England and three green stars that symbolize the three islands of Grand Cayman, Cayman Brac, and Little Cayman; the green turtle stands for the islands’ seafaring history, the rope under it for the thatch-rope industry, and the pineapple for historical ties with Jamaica; the motto comes from Psalms 24, acknowledging the Caymans’ Christian heritage<br>
 
 **National anthem**<br>
-_name_: "Beloved Isle Cayman"<br>
-_lyrics/music_: Leila E. ROSS<br>
-<strong>note:</strong> adopted 1993; served as an unofficial anthem since 1930; as an overseas territory of the United Kingdom, in addition to the local anthem, "God Save the King" is official (see United Kingdom)<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: official anthem, as an overseas UK territory<br>
+<strong>note:</strong> adopted 1993; served as an unofficial anthem since 1930; in addition to the local anthem, "God Save the King" is the  official anthem for the Caymans, as an overseas territory of the United Kingdom (see United Kingdom)<br>
 
 ## Economy
 
@@ -497,7 +493,4 @@ no regular military forces; Royal Cayman Islands Police Service<br>
 defense is the responsibility of the UK<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-<p>major offshore financial center vulnerable to drug trafficking money laundering</p> <p> </p><br>
 

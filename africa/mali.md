@@ -243,10 +243,10 @@ _female_: 7 years (2017)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; soil erosion; desertification; loss of pasture land; inadequate supplies of potable water<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Nuclear Test Ban<br>
 
@@ -386,9 +386,10 @@ Great Mosque of Djenne<br>
 green, yellow, red<br>
 
 **National anthem**<br>
-_name_: "Le Mali" (Mali)<br>
+_title_: "Le Mali" (Mali)<br>
 _lyrics/music_: Seydou Badian KOUYATE/Banzoumana SISSOKO<br>
-<strong>note:</strong> adopted 1962; also known as "Pour L'Afrique et pour toi, Mali" (For Africa and for You, Mali) and "A ton appel Mali" (At Your Call, Mali)<br>
+_history_: adopted 1962; also known as "Pour l'Afrique et pour toi, Mali" (For Africa and for You, Mali) and "A ton appel, Mali" (At Your Call, Mali)<br>
+<strong>note:</strong> adopted 1962; also known as "Pour l'Afrique et pour toi, Mali" (For Africa and for You, Mali) and "A ton appel, Mali" (At Your Call, Mali)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (3 cultural, 1 mixed)<br>
@@ -664,7 +665,4 @@ _IDPs_: 375,539 (Tuareg rebellion since 2012) (2023)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch list — Mali did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/mali/<br>
-
-**Illicit drugs**<br>
-<p>a transit point for illicit drugs trafficked to Europe; trafficking controlled by armed groups, criminal organizations, terrorist groups and government officials that facilitate, protect and profit from the activity</p><br>
 

@@ -239,10 +239,10 @@ _female_: 6 years (2015)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 inadequate supplies of potable water; soil and water pollution from improper waste disposal in rural areas and poor farming practices; desertification<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: Marine Dumping-London Convention<br>
 
@@ -394,8 +394,9 @@ goat (north), lion (south)<br>
 blue, yellow, red<br>
 
 **National anthem**<br>
-_name_: "La Tchadienne" (The Chadian)<br>
+_title_: "La Tchadienne" (The Chadian)<br>
 _lyrics/music_: Louis GIDROL and his students/Paul VILLARD<br>
+_history_: adopted 1960<br>
 <strong>note:</strong> adopted 1960<br>
 
 **National heritage**<br>
@@ -663,7 +664,4 @@ _IDPs_: 215,918 (majority are in the east) (2023)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List — Chad does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Chad was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/chad/<br>
-
-**Illicit drugs**<br>
-NA<br>
 

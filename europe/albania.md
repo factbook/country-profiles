@@ -238,10 +238,10 @@ _female_: 15 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; soil erosion; water pollution from industrial and domestic effluents; air pollution from industrial and power plants; loss of biodiversity<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -383,8 +383,9 @@ black double-headed eagle<br>
 red, black<br>
 
 **National anthem**<br>
-_name_: "Hymni i Flamurit" (Hymn to the Flag)<br>
+_title_: "Hymni i Flamurit" (Hymn to the Flag)<br>
 _lyrics/music_: Aleksander Stavre DRENOVA/Ciprian PORUMBESCU<br>
+_history_: adopted 1912<br>
 <strong>note:</strong> adopted 1912<br>
 
 **National heritage**<br>
@@ -681,7 +682,4 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 _refugees (country of origin)_: 47,247 (Ukraine) (as of 30 January 2024)<br>
 _stateless persons_: 1,948 (2022)<br>
 <strong>note:</strong> 47,306 estimated refugee and migrant arrivals (January 2015-February 2024)<br>
-
-**Illicit drugs**<br>
-<p>a source country for cannabis and an active transshipment point for Albanian narco-trafficking organizations moving illicit drugs into European markets</p><br>
 

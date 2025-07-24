@@ -226,8 +226,6 @@ _Education expenditure (% GDP)_: 2.7% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 20.5% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_total population_: 99.7%<br>
-_male_: 99.8%<br>
 _female_: 99.6% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
@@ -237,10 +235,10 @@ _female_: 13 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 soil and groundwater pollution from agricultural chemicals and pesticides; salination, waterlogging of soil due to poor irrigation methods; Caspian Sea pollution; river diversion for irrigation; soil erosion; desertification<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -382,9 +380,10 @@ Akhal-Teke horse<br>
 green, white<br>
 
 **National anthem**<br>
-_name_: "Garassyz, Bitarap Turkmenistanyn" (Independent, Neutral, Turkmenistan State Anthem)<br>
+_title_: "Garaşsyz, Bitarap T&uuml;rkmenistanyň" (Independent, Neutral, Turkmenistan State Anthem)<br>
 _lyrics/music_: collective/Veli MUKHATOV<br>
-<strong>note:</strong> adopted 1997, lyrics revised in 2008, to eliminate references to deceased President Saparmurat NYYAZOW <br>
+_history_: adopted 1997; lyrics revised in 2008 to eliminate references to deceased President Saparmurat NYYAZOW<br>
+<strong>note:</strong> adopted 1997; lyrics revised in 2008 to eliminate references to deceased President Saparmurat NYYAZOW<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (4 cultural, 1 natural)<br>
@@ -649,7 +648,4 @@ _stateless persons_: 4,463 (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 — Turkmenistan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Turkmenistan remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/turkmenistan/<br>
-
-**Illicit drugs**<br>
-<p>transit country for Afghan opiates to Turkish, Russian, and European markets, either directly from Afghanistan or through Iran; not a major producer or source country for illegal drugs or precursor chemicals</p> <p> </p> <p> </p><br>
 

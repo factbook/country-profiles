@@ -186,14 +186,9 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 _Education expenditure (% GDP)_: 1.2% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 7.7% national budget (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 ## Environment
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -270,7 +265,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: Prince ALBERT II (since 6 April 2005)<br>
-_head of government_: Acting Minister of State Isabelle BERRO-AMADEI (since 10 January 2025)<br>
+_head of government_: Minister of State Christophe MIRMAND (since 21 July 2025)<br>
 _cabinet_: Council of Government under the authority of the monarch<br>
 _election/appointment process_: the monarchy is hereditary; minister of state appointed by the monarch from a list of three French national candidates presented by the French Government<br>
 
@@ -325,9 +320,10 @@ red and white lozenges (diamond shapes)<br>
 red, white<br>
 
 **National anthem**<br>
-_name_: "A Marcia de Muneghu" (The March of Monaco)<br>
+_title_: "A Marcia de Muneghu" (The March of Monaco)<br>
 _lyrics/music_: Louis NOTARI/Charles ALBRECHT<br>
-<strong>note:</strong> music adopted 1867, lyrics adopted 1931; although French is commonly spoken, only the Monegasque lyrics are official; the French version is known as "Hymne Monegasque" (Monegasque Anthem); the words are generally only sung on official occasions<br>
+_history_: music adopted 1867, lyrics adopted 1931; only the Monegasque lyrics are official; the French version is known as "Hymne Monegasque" (Monegasque Anthem); the words are usually only sung on official occasions<br>
+<strong>note:</strong> music adopted 1867, lyrics adopted 1931; only the Monegasque lyrics are official; the French version is known as "Hymne Monegasque" (Monegasque Anthem); the words are usually only sung on official occasions<br>
 
 ## Economy
 

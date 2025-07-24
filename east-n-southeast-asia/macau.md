@@ -166,11 +166,6 @@ _unimproved: total_: total: 0% of population (2020)<br>
 **Education expenditure**<br>
 6.3% of GDP (2020 est.)<br>
 
-**Literacy**<br>
-_total population_: 97.1%<br>
-_male_: 98.5%<br>
-_female_: 95.9% (2021)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years<br>
 _male_: 17 years<br>
@@ -178,7 +173,7 @@ _female_: 19 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution; coastal water pollution; solid-waste disposal; noise pollution<br>
 
 **Climate**<br>
@@ -286,7 +281,10 @@ lotus blossom<br>
 green, white, yellow<br>
 
 **National anthem**<br>
-<p><strong>note:</strong> as a Special Administrative Region of China, "Yiyongjun Jinxingqu" is the official anthem (see China)</p><br>
+_title_: "Yiyongjun Jinxingqu" (The March of the Volunteers)<br>
+_lyrics/music_: TIAN Han/NIE Er<br>
+_history_: official anthem, as a Special Administrative Region of China<br>
+<strong>note:</strong> "Yiyongjun Jinxingqu" is the official anthem for Macau, as a Special Administrative Region of China (see China)<br>
 
 ## Economy
 
@@ -522,7 +520,4 @@ defense is the responsibility of China; the Chinese People's Liberation Army (PL
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 — Macau does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Macau remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/macau/<br>
-
-**Illicit drugs**<br>
-<p>Asian organized crime groups involved in drug trafficking and money laundering</p> <p> </p><br>
 

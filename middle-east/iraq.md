@@ -234,10 +234,10 @@ _female_: 76.3% (2018 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 habitat loss from wetland draining; inadequate potable water; soil degradation (salination) and erosion; desertification; air, soil, and groundwater pollution from military and industries; water pollution from oil refineries and factory and sewage discharges; soil pollution from fertilizer and chemicals; air pollution in urban areas<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Climate Change-Paris Agreement, Environmental Modification<br>
 
@@ -380,9 +380,10 @@ golden eagle<br>
 red, white, black<br>
 
 **National anthem**<br>
-_name_: "Mawtini" (My Homeland)<br>
+_title_: "Mawtini" (My Homeland)<br>
 _lyrics/music_: Ibrahim TOUQAN/Mohammad FLAYFEL<br>
-<strong>note:</strong> adopted 2004; following the ouster of SADDAM Husayn, Iraq adopted "Mawtini," a popular folk song throughout the Arab world; also serves as an unofficial anthem of the Palestinian people<br>
+_history_: adopted 2004, after the ouster of SADDAM Husayn; popular Arab folk song that also serves as an unofficial anthem for the Palestinian people<br>
+<strong>note:</strong> adopted 2004, after the ouster of SADDAM Husayn; popular Arab folk song that also serves as an unofficial anthem for the Palestinian people<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 6 (5 cultural, 1 mixed)<br>

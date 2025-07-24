@@ -144,7 +144,7 @@ _total population_: 0.9 male(s)/female (2024 est.)<br>
 29.9 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-12 deaths/100,000 live births (2020 est.)<br>
+15 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 2.4 deaths/1,000 live births (2024 est.)<br>
@@ -216,11 +216,6 @@ _female_: 15.9% (2025 est.)<br>
 _Education expenditure (% GDP)_: 4.3% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 9.8% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: 95.9%<br>
-_male_: 97.8%<br>
-_female_: 95.9% (2021)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
 _male_: 17 years<br>
@@ -228,10 +223,10 @@ _female_: 17 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 soil erosion; air pollution from industrial and vehicle emissions; water pollution, especially in urban centers and coastal areas<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Air Pollution-Persistent Organic Pollutants, Air Pollution-Volatile Organic Compounds, Environmental Modification, Nuclear Test Ban<br>
 
@@ -381,9 +376,10 @@ armillary sphere (a spherical astrolabe for modeling objects in the sky)<br>
 red, green<br>
 
 **National anthem**<br>
-_name_: "A Portugesa" (The Song of the Portuguese)<br>
+_title_: "A Portugesa" (The Song of the Portuguese)<br>
 _lyrics/music_: Henrique LOPES DE MENDOCA/Alfredo KEIL<br>
-<strong>note:</strong> adopted 1910; "A Portuguesa" was originally written to protest the Portuguese monarchy's acquiescence to the 1890 British ultimatum forcing Portugal to give up areas of Africa; the lyrics refer to the "insult" that resulted from the event<br>
+_history_: adopted 1910; originally written to protest the Portuguese monarchy's acquiescence to the 1890 British ultimatum forcing Portugal to give up areas of Africa<br>
+<strong>note:</strong> adopted 1910; originally written to protest the Portuguese monarchy's acquiescence to the 1890 British ultimatum forcing Portugal to give up areas of Africa<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 17 (16 cultural, 1 natural)<br>
@@ -694,7 +690,4 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 59,920 (Ukraine) (as of 31 January 2024)<br>
 _stateless persons_: 55 (2022)<br>
-
-**Illicit drugs**<br>
-<p>a European gateway for Southwest Asian heroin; transshipment point for hashish from North Africa to Europe; consumer of Southwest Asian heroin</p> <p> </p><br>
 

@@ -164,14 +164,9 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 1.2% of population (2017)<br>
 <strong>note:</strong> data represent Guernsey and Jersey<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 coastal erosion, coastal flooding; declining biodiversity&nbsp;<br>
 
 **Climate**<br>
@@ -291,9 +286,10 @@ Guernsey cow, donkey<br>
 red, white, yellow<br>
 
 **National anthem**<br>
-_name_: "Sarnia Cherie" (Guernsey Dear)<br>
-_lyrics/music_: George DEIGHTON/Domencio SANTANGELO<br>
-<strong>note:</strong> adopted 1911; serves as a local anthem; as a British crown dependency, "God Save the King" is official (see United Kingdom)<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: official anthem, as a British crown dependency<br>
+<strong>note:</strong> adopted 1911; serves as a local anthem; "God Save the King" is the official anthem for Guernsey, as a British crown dependency (see United Kingdom)<br>
 
 ## Economy
 
@@ -426,7 +422,4 @@ _key ports_: Alderney Harbour, Saint Peter Port, Saint Sampson<br>
 defense is the responsibility of the UK<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-NA<br>
 

@@ -206,11 +206,6 @@ _female_: 5.2% (2025 est.)<br>
 _Education expenditure (% GDP)_: 4.5% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 13.1% national budget (2024 est.)<br>
 
-**Literacy**<br>
-_total population_: 95.9%<br>
-_male_: 95.4%<br>
-_female_: 96.4% (2018)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 13 years<br>
@@ -218,10 +213,10 @@ _female_: 16 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 limited freshwater resources; water pollution; biodiversity<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -357,8 +352,9 @@ coco de mer (sea coconut)<br>
 blue, yellow, red, white, green<br>
 
 **National anthem**<br>
-_name_: "Koste Seselwa" (Seychellois Unite)<br>
+_title_: "Koste Seselwa" (Seychellois Unite)<br>
 _lyrics/music_: David Francois Marc ANDRE and George Charles Robert PAYET<br>
+_history_: adopted 1996<br>
 <strong>note:</strong> adopted 1996<br>
 
 **National heritage**<br>

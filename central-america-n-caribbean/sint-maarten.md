@@ -158,11 +158,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 1.2% of population (2017)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
 _male_: 12 years<br>
@@ -170,7 +165,7 @@ _female_: 12 years (2014)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 <p>scarcity of potable water; inadequate solid waste management; pollution from construction, chemical runoff, and sewage </p><br>
 
 **Climate**<br>
@@ -276,8 +271,9 @@ two equal horizontal bands of red (top) and blue, with a white isosceles triangl
 red, white, blue<br>
 
 **National anthem**<br>
-_name_: O Sweet Saint Martin's Land<br>
-_lyrics/music_: Gerard KEMPS<br>
+_title_: "Het Wilhelmus"<br>
+_lyrics/music_: Philips VAN MARNIX van Sint Aldegonde (presumed)/unknown<br>
+_history_: official anthem, as part of the Kingdom of the Netherlands<br>
 <strong>note:</strong> the song, written in 1958, is used as an unofficial anthem for the entire island (both French and Dutch sides); as a collectivity of France, in addition to the local anthem, "La Marseillaise" is official on the French side (see France); as a constituent part of the Kingdom of the Netherlands, in addition to the local anthem, "Het Wilhelmus" is official on the Dutch side (see Netherlands)<br>
 
 ## Economy

@@ -218,7 +218,7 @@ _female_: 14 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 adequacy of freshwater supply; sewage treatment<br>
 
 **Climate**<br>

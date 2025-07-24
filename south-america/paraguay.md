@@ -234,10 +234,10 @@ _female_: 94% (2020 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; water pollution; toxic dumping in rivers and streams; loss of wetlands; inadequate means for waste disposal in urban areas<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: Nuclear Test Ban, Tropical Timber 2006<br>
 
@@ -393,9 +393,10 @@ lion<br>
 red, white, blue<br>
 
 **National anthem**<br>
-_name_: "Paraguayos, Republica o muerte!" (Paraguayans, The Republic or Death!)<br>
+_title_: "Paraguayos, Republica o muerte!" (Paraguayans, the Republic or Death!)<br>
 _lyrics/music_: Francisco Esteban ACUNA de Figueroa/disputed<br>
-<strong>note:</strong> adopted 1934, in use since 1846; officially adopted following its re-arrangement in 1934<br>
+_history_: adopted 1934, in use since 1846<br>
+<strong>note:</strong> adopted 1934, in use since 1846<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -662,14 +663,14 @@ Armed Forces of Paraguay (Fuerzas Armadas de Paraguay; aka Armed Forces of the N
 approximately 15,000 active-duty Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised of mostly older or obsolescent equipment from a variety of foreign suppliers, particularly Brazil and the US; in recent years, the Paraguayan Government has purchased small quantities of more modern equipment (2024)<br>
+the military's inventory is comprised of mostly older or obsolescent equipment from a variety of foreign suppliers, particularly Brazil and the US; in recent years, the military has received small quantities of more modern equipment, such as light attack aircraft and secondhand helicopters (2025)<br>
 
 **Military service age and obligation**<br>
 18 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 12 months for Army, 24 months for Navy; conscripts also serve in the National Police (2024)<br>
 <strong>note:</strong> as of 2021, women made up about 6% of the active military<br>
 
 **Military - note**<br>
-the Paraguayan military is responsible for external defense but also has some domestic security duties; while the National Police are responsible for maintaining internal security, the military works with the police through a Joint Task Force (Fuerza de Tarea Conjunta or FTC) in combatting the Paraguayan People’s Army (Ejército del Pueblo Paraguayo or EPP) and transnational criminal organizations; the military has an Internal Defense Operations Command (Comando de Defensa Interna or CODI), which includes the Army, Navy, and Air Force, to coordinate internal security support to the police and other security organizations, such as the National Anti-Drug Secretariat or SENAD<br><br>the EPP is a domestic criminal/guerrilla group initially dedicated to a Marxist-Leninist revolution in Paraguay that operates in the rural northern part of the country along the border with Brazil; the activities of the EPP and its offshoots—Marsical López’s Army (EML) and the Armed Peasant Association (ACA)—have consisted largely of isolated attacks on remote police and army posts, or against ranchers and peasants accused of aiding Paraguayan security forces<br><br>the Paraguayan military is a small force by regional standards, and its limited equipment inventory is largely obsolete, with some of it pre-dating World War II; it has deployed small numbers of troops on UN missions and cooperates with neighboring countries, such as Argentina and Brazil, on security issues, particularly organized crime and narco-trafficking in what is known as the Tri-Border Area; Paraguay has not fought a war against a neighboring country since the Chaco War with Bolivia in the 1930s (2024)<br>
+the Paraguayan military is responsible for external defense but also has some domestic security duties; while the National Police are responsible for maintaining internal security, the military cooperates with the police in combatting the Paraguayan People’s Army (Ejército del Pueblo Paraguayo or EPP) and transnational criminal organizations; the military has an Internal Defense Operations Command (Comando de Defensa Interna or CODI), which includes the Army, Navy, and Air Force, to coordinate internal security support to the police and other security organizations, such as the National Anti-Drug Secretariat or SENAD<br><br>the EPP is a domestic criminal/guerrilla group initially dedicated to a Marxist-Leninist revolution in Paraguay that operates in the rural northern part of the country along the border with Brazil; the activities of the EPP and its offshoots—Marsical López’s Army (EML) and the Armed Peasant Association (ACA)—have consisted largely of isolated attacks on remote police and army posts, or against ranchers and peasants accused of aiding Paraguayan security forces<br><br>the Paraguayan military has deployed small numbers of troops on UN missions and cooperates with neighboring countries, such as Argentina and Brazil, on security issues, particularly organized crime and narco-trafficking in what is known as the Tri-Border Area; Paraguay has not fought a war against a neighboring country since the Chaco War with Bolivia in the 1930s (2024)<br>
 
 ## Space
 
@@ -690,7 +691,4 @@ Hizballah<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 5,231 (Venezuela) (2022)<br>
-
-**Illicit drugs**<br>
-<br><br> <p>marijuana cultivation and the trafficking of Andean cocaine in the tri-border area shared with Argentina, and Brazil facilitates money laundering</p> <p> </p><br>
 

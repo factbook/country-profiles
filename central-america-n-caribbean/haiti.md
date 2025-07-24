@@ -145,7 +145,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-350 deaths/100,000 live births (2020 est.)<br>
+328 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 36.8 deaths/1,000 live births (2024 est.)<br>
@@ -229,10 +229,10 @@ _female_: 63.9% (2017 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation (trees cleared for agriculture and used as fuel); soil erosion; inadequate potable water and lack of sanitation; natural disasters<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Ozone Layer Protection<br>
 _signed, but not ratified_: Nuclear Test Ban<br>
 
@@ -389,9 +389,10 @@ Hispaniolan trogon (bird), hibiscus flower<br>
 blue, red<br>
 
 **National anthem**<br>
-_name_: "La Dessalinienne" (The Dessalines Song)<br>
+_title_: "La Dessalinienne" (The Dessalines Song)<br>
 _lyrics/music_: Justin LHERISSON/Nicolas GEFFRARD<br>
-<strong>note:</strong> adopted 1904; named for Jean-Jacques DESSALINES, a leader in the Haitian Revolution and first ruler of an independent Haiti<br>
+_history_: adopted 1904; named for Jean-Jacques DESSALINES, a leader in the Haitian Revolution and first ruler of independent Haiti<br>
+<strong>note:</strong> adopted 1904; named for Jean-Jacques DESSALINES, a leader in the Haitian Revolution and first ruler of independent Haiti<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -650,5 +651,5 @@ _stateless persons_: 2,992 (2018); note - individuals without a nationality who 
 _tier rating_: Special Category<br>
 
 **Illicit drugs**<br>
-<p>a transit point for cocaine from South America and marijuana from Jamaica en route to the United States; not a producer or large consumer of illicit drugs; some cultivation of cannabis for local consumption</p><br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country (2025)<br>
 

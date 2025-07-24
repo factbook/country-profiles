@@ -66,7 +66,7 @@ the major chokepoints are the Bering Strait, Panama Canal, Luzon Strait, and the
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 pollution from sources such as sewage, nutrient runoff from agriculture, plastic pollution, and toxic waste; habitat destruction; overfishing; sea level-rise and ocean acidification; endangered marine species include the dugong, sea lion, sea otter, seals, turtles, and whales; oil pollution in Philippine Sea and South China Sea<br>
 
 **Climate**<br>

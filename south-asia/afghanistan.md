@@ -241,10 +241,10 @@ _female_: 8 years (2018)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 limited natural freshwater resources; inadequate potable water; soil degradation; overgrazing; deforestation (cut down for fuel and building materials); desertification; air and water pollution in urban areas<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection<br>
 _signed, but not ratified_: Law of the Sea, Marine Life Conservation<br>
 
@@ -331,11 +331,12 @@ _most recent election date_: 28 September 2019<br>
 <strong>note:</strong> Afghanistan’s bicameral National Assembly consisted of the House of Elders and House of the People but was dissolved after the Taliban took control of Afghanistan in August 2021<br>
 
 **Judicial branch**<br>
-_highest court(s)_: the Taliban are purported to have appointed clerics, including a "Chief Justice", to Afghanistan's Supreme Court<br>
+_highest court(s)_: the Taliban are purported to have appointed clerics, including a "Chief Justice," to Afghanistan's Supreme Court<br>
 _subordinate courts_: provincial courts, religious courts, and specialty courts<br>
 
 **Political parties**<br>
-the Taliban Government enforces an authoritarian state and has banned other political parties; note - before 15 August 2021, the Ministry of Justice had licensed 72 political parties as of April 2019<br><br>the Taliban have banned other political parties but have allowed some party leaders, including the head of Hezb-e-Islami, Gulbuddin Hekmatyar, to continue to live and work in Afghanistan; Hekmatyar likely continues to enjoy some political support from loyalists; leaders of other parties, including Jamiat-e-Islami’s Salahuddin Rabbani and Jumbesh’s Rashid Dostum, operate from abroad but likely also command some following within Afghanistan; note - before 15 August 2021, the Ministry of Justice had licensed 72 political parties as of April 2019<br>
+the Taliban Government enforces an authoritarian state and has banned other political parties<br><br>the Taliban have banned other political parties but have allowed some party leaders, including the head of Hezb-e-Islami, Gulbuddin Hekmatyar, to continue to live and work in Afghanistan; Hekmatyar likely continues to enjoy some political support from loyalists; leaders of other parties, including Jamiat-e-Islami’s Salahuddin Rabbani and Jumbesh’s Rashid Dostum, operate from abroad but likely also command some following within Afghanistan<br>
+<strong>note:</strong> before 15 August 2021, the Ministry of Justice had licensed 72 political parties as of April 2019<br>
 
 **Diplomatic representation in the US**<br>
 none<strong><br><br>note</strong>: the Afghan Embassy closed in March 2022<br>
@@ -363,14 +364,15 @@ lion<br>
 red, green, black<br>
 
 **National anthem**<br>
-_name_: "Milli Surood" (National Anthem)<br>
+_title_: "Milli Surood" (National Anthem)<br>
 _lyrics/music_: Abdul Bari JAHANI/Babrak WASA<br>
+_history_: adopted 2006<br>
 <strong>note:</strong> adopted 2006<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>
 _selected World Heritage Site locales_: Minaret of Jam; Buddhas of Bamyan<br>
-<strong>note:</strong> the monumental 6th- and 7th-century statues were destroyed by the Taliban in 2001<br>
+<strong>note:</strong> the monumental 6th- and 7th-century Buddha statues at Bamyan were destroyed by the Taliban in 2001<br>
 
 ## Economy
 
@@ -637,5 +639,5 @@ _IDPs_: 4.394 million (mostly Pashtuns and Kuchis displaced in the south and wes
 _tier rating_: Tier 3 — Afghanistan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Afghanistan remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/afghanistan/<br>
 
 **Illicit drugs**<br>
-the world&rsquo;s largest supplier of opiates, but it is not a major supplier to the United States; 233,000 hectares (ha) of opium poppy cultivated in Afghanistan in 2022; opium from poppies used to produce morphine and heroin; also produces large quantities of methamphetamine, cannabis, and cannabis products such as hashish; one of the world&rsquo;s largest populations suffering from substance abuse; major source of precursor or essential chemicals used in the production of illicit narcotics. (2022)<br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>
 

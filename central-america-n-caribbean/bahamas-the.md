@@ -136,7 +136,7 @@ _65 years and over_: 0.81 male(s)/female<br>
 _total population_: 0.86 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-77 deaths/100,000 live births (2020 est.)<br>
+76 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 9.4 deaths/1,000 live births (2024 est.)<br>
@@ -194,17 +194,12 @@ _female_: 1.9% (2025 est.)<br>
 _Education expenditure (% GDP)_: 2.8% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 10.6% national budget (2025 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 coral reef decay; solid waste disposal<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -354,9 +349,10 @@ aquamarine, yellow, black<br>
 the motto on the Bahamas coat of arms is “Forward, Upward, Onward Together;” the flamingo and marlin supporting the shield are national animals that represent respectively the land and sea; the pink conch shell symbolizes the marine life of the islands, and the green palm fronds represent the natural vegetation; the <em>Santa Maria</em>, Christopher Columbus’s flagship, also appears; the sun signifies the world-famous climate and the bright future of the islands<br>
 
 **National anthem**<br>
-_name_: "March On, Bahamaland!"<br>
-_lyrics/music_: Timothy GIBSON<br>
-<strong>note:</strong> adopted 1973; as a Commonwealth country, in addition to the national anthem, "God Save the King" serves as the royal anthem (see United Kingdom)<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: royal anthem, as a Commonwealth country<br>
+<strong>note:</strong> adopted 1973; in addition to the national anthem, "God Save the King" serves as the royal anthem for the Commonwealth country (see United Kingdom)<br>
 
 ## Economy
 
@@ -607,5 +603,5 @@ the RBDF was established in 1980; its primary responsibilities are maritime secu
 ## Transnational Issues
 
 **Illicit drugs**<br>
-<p>a transit point for illegal drugs bound for the United States; small scale illicit production of marijuana continues</p><br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country (2025)<br>
 

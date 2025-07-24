@@ -143,14 +143,9 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 land-based pollution; urbanization; limited freshwater resources; overfishing<br>
 
 **Climate**<br>
@@ -242,9 +237,10 @@ the flag of France is used<br>
 pelican<br>
 
 **National anthem**<br>
-_name_: "L'Hymne a St. Barthelemy" (Hymn to St. Barthelemy)<br>
-_lyrics/music_: Isabelle Massart DERAVIN/Michael VALENTI<br>
-<strong>note:</strong> local anthem in use since 1999; as a collectivity of France, "La Marseillaise" is official (see France)<br>
+_title_: "La Marseillaise"<br>
+_lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
+_history_: official anthem, as a French collectivity<br>
+<strong>note:</strong> local anthem in use since 1999; "La Marseillaise" is the official anthem of Saint Barthelemy, as a collectivity of France (see France)<br>
 
 ## Economy
 

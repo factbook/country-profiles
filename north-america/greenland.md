@@ -181,14 +181,9 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Education expenditure**<br>
 10.2% of GDP (2019 est.)<br>
 
-**Literacy**<br>
-_total population_: 100%<br>
-_male_: 100%<br>
-_female_: 100% (2015)<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 changes in sea levels and other disruptions in the Arctic environment<br>
 
 **Climate**<br>
@@ -313,9 +308,10 @@ polar bear<br>
 red, white<br>
 
 **National anthem**<br>
-_name_: "Nunarput utoqqarsuanngoravit" (Our Country, Who's Become So Old also translated as You Our Ancient Land)<br>
-_lyrics/music_: Henrik LUND/Jonathan PETERSEN<br>
-<strong>note:</strong> adopted 1916; the government also recognizes "Nuna asiilasooq" as a secondary anthem<br>
+_title_: "Nuna asiilasooq" (The Land of Great Length)<br>
+_lyrics/music_: unknown<br>
+_history_: adopted 1979, when home rule was granted; the Greenlandic government recognizes this local Kalaallit song as a secondary anthem<br>
+<strong>note:</strong> adopted 1916; the government also recognizes the local Kalaallit song "Nuna asiilasooq" (The Land of Great Length) as a secondary anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (2 cultural, 1 natural); note - excerpted from the Denmark entry<br>

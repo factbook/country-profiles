@@ -212,11 +212,6 @@ _female_: 19.9% (2025 est.)<br>
 _Education expenditure (% GDP)_: 4.7% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 10.7% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 15 years<br>
@@ -224,10 +219,10 @@ _female_: 15 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air and water pollution in urban areas; soil pollution of farmland<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Environmental Modification<br>
 
@@ -371,9 +366,10 @@ red rampant lion<br>
 red, white, light blue<br>
 
 **National anthem**<br>
-_name_: "Ons Heemecht" (Our Motherland); "De Wilhelmus" (The William)<br>
-_lyrics/music_: Michel LENTZ/Jean-Antoine ZINNEN; Nikolaus WELTER/unknown<br>
-<strong>note:</strong> "Ons Heemecht," adopted 1864, is the national anthem, while "De Wilhelmus," adopted 1919, serves as a royal anthem for use when members of the grand ducal family enter or exit a ceremony in Luxembourg<br>
+_title_: "De Wilhelmus" (The William)<br>
+_lyrics/music_: Nikolaus WELTER/unknown<br>
+_history_: royal anthem, for use when members of the grand ducal family enter or exit a ceremony in Luxembourg<br>
+<strong>note:</strong> "Ons Heemecht," adopted 1864, is the national anthem, and "De Wilhelmus," adopted 1919, serves as a royal anthem for use when members of the grand ducal family enter or exit a ceremony in Luxembourg<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

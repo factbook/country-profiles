@@ -192,11 +192,6 @@ _other alcohols_: 0.31 liters of pure alcohol (2019 est.)<br>
 _Education expenditure (% GDP)_: 5.1% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 14.5% national budget (2024 est.)<br>
 
-**Literacy**<br>
-_total population_: 98.6%<br>
-_male_: 98.6%<br>
-_female_: 98.6% (2014 est.)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
 _male_: 18 years<br>
@@ -204,10 +199,10 @@ _female_: 19 years (2018)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation causing habitat and species loss; coastal erosion and contamination; pollution and sedimentation; inadequate solid waste management<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -354,12 +349,13 @@ Grenada dove, bougainvillea flower<br>
 red, yellow, green<br>
 
 **National coat of arms**<br>
-<p>Grenada’s coat of arms shows Grand Etang Lake, a crater lake on the volcano that formed Grenada; in the center of the shield is Christopher Columbus’s ship, the <em>Santa Maria</em>, which landed on the island in 1498; the gold cross dividing the shield, the two Madonna lilies, and the national motto signal the importance of religion; two lions symbolize past UK rule (1762-1974), as well as Grenada’s current status as a Commonwealth country; the corn stalk and banana plant represent agriculture; the armadillo and Grenada dove next to the shield are native to the island, and the roses in the bougainvillea flower garland represent Grenada’s seven communities</p><br>
+Grenada’s coat of arms shows Grand Etang Lake, a crater lake on the volcano that formed Grenada; in the center of the shield is Christopher Columbus’s ship, the <em>Santa Maria</em>, which landed on the island in 1498; the gold cross dividing the shield, the two Madonna lilies, and the national motto signal the importance of religion; two lions symbolize past UK rule (1762-1974), as well as Grenada’s current status as a Commonwealth country; the corn stalk and banana plant represent agriculture; the armadillo and Grenada dove next to the shield are native to the island, and the roses in the bougainvillea flower garland represent Grenada’s seven communities<br>
 
 **National anthem**<br>
-_name_: "Hail Grenada"<br>
-_lyrics/music_: Irva Merle BAPTISTE/Louis Arnold MASANTO<br>
-<strong>note:</strong> adopted 1974; as a Commonwealth country, in addition to the national anthem, "God Save the King" serves as the royal anthem (see United Kingdom)<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: royal anthem, as a Commonwealth country<br>
+<strong>note:</strong> adopted 1974; in addition to the national anthem, "God Save the King" serves as the royal anthem for the Commonwealth country (see United Kingdom)<br>
 
 ## Economy
 
@@ -586,7 +582,4 @@ no regular military forces; the Royal Grenada Police Force (under the Ministry o
 Grenada joined the Caribbean Regional Security System (RSS) in 1985; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Guyana, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>
 

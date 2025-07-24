@@ -173,14 +173,9 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 development threatens wildlife on Saint Helena<br>
 
 **Climate**<br>
@@ -276,7 +271,10 @@ Saint Helena plover (wire bird)<br>
 the coat of arms of Saint Helena was officially granted on January 30, 1984; the national bird, the Saint Helena plover (<em>Charadrius sanctaehelenae</em>), is at the top of the shield; the lower part of the shield shows a three-masted sailing ship with the mountainous island to the left; below the shield is a scroll with the motto “Loyal and unshakable;” the crest shows an image of Saint Helena, holding a cross and a flower<br>
 
 **National anthem**<br>
-<p><strong>note:</strong> as an overseas territory of the UK, "God Save the King" is official (see United Kingdom)</p><br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: official anthem, as a UK overseas territory<br>
+<strong>note:</strong> as an overseas territory of the UK, "God Save the King" is official (see United Kingdom)<br>
 
 ## Economy
 

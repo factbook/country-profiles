@@ -223,11 +223,6 @@ _men married by age 18_: 5.6% (2018 est.)<br>
 _Education expenditure (% GDP)_: 3.3% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 14.7% national budget (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: 80.6%<br>
-_male_: 85.9%<br>
-_female_: 75.4% (2021)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
 _male_: 11 years<br>
@@ -235,10 +230,10 @@ _female_: 11 years (2012)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution from vehicle emissions; water pollution from raw sewage; tap water not potable; deforestation; wildlife protection<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -392,8 +387,9 @@ lion, elephant<br>
 green, yellow, red<br>
 
 **National anthem**<br>
-_name_: "La Congolaise" (The Congolese)<br>
+_title_: "La Congolaise" (The Congolese)<br>
 _lyrics/music_: Jacques TONDRA and Georges KIBANGHI/Jean ROYER and Joseph SPADILIERE<br>
+_history_: originally adopted 1959, restored 1991<br>
 <strong>note:</strong> originally adopted 1959, restored 1991<br>
 
 **National heritage**<br>

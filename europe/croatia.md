@@ -217,11 +217,6 @@ _female_: 32.1% (2025 est.)<br>
 _Education expenditure (% GDP)_: 4.8% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 10.7% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: 99.4%<br>
-_male_: 99.7%<br>
-_female_: 99.2% (2021)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 14 years<br>
@@ -229,10 +224,10 @@ _female_: 16 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution in urban areas, as well as emissions from neighboring countries; surface water pollution in the Danube River Basin<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -384,9 +379,10 @@ red-and-white checkerboard<br>
 red, white, blue<br>
 
 **National anthem**<br>
-_name_: "Lijepa nasa domovino" (Our Beautiful Homeland)<br>
+_title_: "Lijepa nasa domovino" (Our Beautiful Homeland)<br>
 _lyrics/music_: Antun MIHANOVIC/Josip RUNJANIN<br>
-<strong>note:</strong> adopted in 1972 while still part of Yugoslavia; "Lijepa nasa domovino," whose lyrics were written in 1835, served as an unofficial anthem beginning in 1891<br>
+_history_: adopted in 1972 while still part of Yugoslavia; the lyrics were written in 1835, and it served as an unofficial anthem beginning in 1891<br>
+<strong>note:</strong> adopted in 1972 while still part of Yugoslavia; the lyrics were written in 1835, and it served as an unofficial anthem beginning in 1891<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 10 (8 cultural, 2 natural)<br>
@@ -683,7 +679,4 @@ the Armed Forces of Croatia (OSRH) are responsible for the defense of Croatia’
 _refugees (country of origin)_: 24,525 (Ukraine) (as of 29 February 2024)<br>
 _stateless persons_: 2,889 (2022)<br>
 <strong>note: </strong>843,010 estimated refugee and migrant arrivals (January 2015-September 2023)<br>
-
-**Illicit drugs**<br>
-<p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p> <p> </p><br>
 

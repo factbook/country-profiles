@@ -142,7 +142,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-204 deaths/100,000 live births (2020 est.)<br>
+192 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 32.2 deaths/1,000 live births (2024 est.)<br>
@@ -226,10 +226,10 @@ one of only two predominantly Christian nations in Southeast Asia, the other bei
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution and deterioration of air quality; water quality, scarcity, and access; land and soil degradation; forest depletion; deforestation and soil erosion from slash-and-burn agriculture; loss of biodiversity<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Law of the Sea, Ozone Layer Protection<br>
 _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 
@@ -370,8 +370,9 @@ Mount Ramelau<br>
 red, yellow, black, white<br>
 
 **National anthem**<br>
-_name_: "Patria" (Fatherland)<br>
+_title_: "Patria" (Fatherland)<br>
 _lyrics/music_: Fransisco Borja DA COSTA/Afonso DE ARAUJO<br>
+_history_: adopted 2002; the song was first used as an anthem when Timor-Leste declared its independence from Portugal in 1975; the lyricist, Francisco Borja DA COSTA, was killed in the Indonesian invasion just days after independence was declared<br>
 <strong>note:</strong> adopted 2002; the song was first used as an anthem when Timor-Leste declared its independence from Portugal in 1975; the lyricist, Francisco Borja DA COSTA, was killed in the Indonesian invasion just days after independence was declared<br>
 
 ## Economy
@@ -633,7 +634,4 @@ the military is lightly armed and has a limited inventory consisting mostly of d
 the F-FDTL is a small and lightly equipped force with both external defense and internal security roles; it has two infantry battalions, a small air component, and a handful of naval patrol boats<br><br>since achieving independence, Timor-Leste has received security assistance from or has made defense cooperation arrangements with Australia, China, Indonesia, Malaysia, New Zealand, the Philippines, Portugal, the UN, and the US (2024)<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-NA<br>
 

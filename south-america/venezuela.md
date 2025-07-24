@@ -220,10 +220,10 @@ _female_: 97% (2016 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 sewage pollution of Lago de Valencia; oil and urban pollution of Lago de Maracaibo; deforestation; soil degradation; urban and industrial pollution, especially along the Caribbean coast; threat to the rainforest ecosystem from mining operations<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -359,9 +359,10 @@ troupial (bird)<br>
 yellow, blue, red<br>
 
 **National anthem**<br>
-_name_: "Gloria al bravo pueblo" (Glory to the Brave People)<br>
+_title_: "Gloria al bravo pueblo" (Glory to the Brave People)<br>
 _lyrics/music_: Vicente SALIAS/Juan Jose LANDAETA<br>
-<strong>note:</strong> adopted 1881; lyrics written in 1810, the music some years later; both SALIAS and LANDAETA were executed in 1814 during Venezuela's struggle for independence<br>
+_history_: adopted 1881; lyrics were written in 1810; both SALIAS and LANDAETA were executed in 1814 during Venezuela's fight for independence<br>
+<strong>note:</strong> adopted 1881; lyrics were written in 1810; both SALIAS and LANDAETA were executed in 1814 during Venezuela's fight for independence<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>
@@ -652,5 +653,5 @@ _refugees (country of origin)_: 39,185 (Colombia) (mid-year 2022)<br>
 _tier rating_: Tier 3 — Venezuela does not fully meet the minimum standards for the elimination of trafficking and is not making any efforts to do so, therefore, Venezuela remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/venezuela/<br>
 
 **Illicit drugs**<br>
-<p>a major drug-transit country and trafficking route in the Western Hemisphere for illegal drugs mainly cocaine;  government depends on rents from narco-trafficking, along with other illicit activities, to maintain power;  evidence of coca cultivation and cocaine production in domestic drug laboratories suggests the country is now also an illicit drug-producing country;  a major source of precursor or essential chemicals used in the production of illicit narcotics</p> <p> </p><br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>
 

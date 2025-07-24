@@ -232,10 +232,10 @@ _female_: 16 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 pollution of coastal waters from sewage outlets; serious air pollution in some cities from lignite power plants and household use of coal and wood for heating<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Persistent Organic Pollutants, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -377,8 +377,9 @@ double-headed eagle<br>
 red, gold<br>
 
 **National anthem**<br>
-_name_: "Oj, svijetla majska zoro" (Oh, Bright Dawn of May)<br>
+_title_: "Oj, svijetla majska zoro" (O Bright Dawn of May)<br>
 _lyrics/music_: Sekula DRLJEVIC/unknown, arranged by Zarko MIKOVIC<br>
+_history_: adopted 2004; music based on a Montenegrin folk song<br>
 <strong>note:</strong> adopted 2004; music based on a Montenegrin folk song<br>
 
 **National heritage**<br>
@@ -658,7 +659,7 @@ the military's inventory is small and consists largely of Soviet-era equipment i
 <strong>note:</strong> as of 2024, women made up over 11% of the military's full-time personnel<br>
 
 **Military - note**<br>
-the Army of Montenegro is a small, lightly armed military focused on the defense of Montenegro&rsquo;s sovereignty and territorial integrity, cooperating in international and multinational security, and assisting civil authorities during emergencies such as natural disasters; since Montenegro joined NATO in 2017, another focus has been integrating into the Alliance, including adapting NATO standards for planning and professionalization, structural reforms, and modernization by replacing its Soviet-era equipment; the Army trains and exercises with NATO partners and actively supports NATO missions and operations, committing small numbers of troops in Afghanistan, Kosovo, and NATO&rsquo;s Enhanced Forward Presence mission in Eastern Europe; a few personnel have also been deployed on EU- and UN-led operations (2024)<br>
+the Army of Montenegro is responsible for the defense of Montenegro&rsquo;s sovereignty and territorial integrity, cooperating in international and multinational security, and assisting civil authorities during emergencies such as natural disasters; since Montenegro joined NATO in 2017, another focus has been integrating into the Alliance, including adapting NATO standards for planning and professionalization, structural reforms, and modernization by replacing its Soviet-era equipment; the Army trains and exercises with NATO partners and actively supports NATO missions and operations, committing small numbers of troops in Afghanistan, Kosovo, and NATO&rsquo;s Enhanced Forward Presence mission in Eastern Europe; a few personnel have also been deployed on EU- and UN-led operations (2025)<br>
 
 ## Terrorism
 
@@ -668,7 +669,4 @@ the Army of Montenegro is a small, lightly armed military focused on the defense
 _refugees (country of origin)_: 65,105 (Ukraine) (as of 29 January 2024)<br>
 _stateless persons_: 468 (2022)<br>
 <strong>note:</strong> 34,511 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
-
-**Illicit drugs**<br>
-<p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine destined for European markets</p><br>
 

@@ -170,14 +170,9 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution, marine pollution; waste disposal (both household and industrial)<br>
 
 **Climate**<br>
@@ -307,12 +302,13 @@ triskelion (a motif of three legs)<br>
 red, white<br>
 
 **National coat of arms**<br>
-<p>Queen Elizabeth II of the United Kingdom granted the Isle of Man’s coat of arms on July 12, 1996; the triskelion (three conjoined legs) on the shield represents resilience, resourcefulness, and hope; the Latin motto means “Wherever you throw it, it will stand,” a reference to the islanders’ ability to stand strong; the peregrine falcon represents the two falcons that the Isle of Man has paid to the UK monarch on Coronation Day since 1406, and the raven symbolizes the island’s former status as a Viking colony; the crown represents the UK monarch’s status as the Lord of Mann, although the island is self-governing</p><br>
+Queen Elizabeth II of the United Kingdom granted the Isle of Man&rsquo;s coat of arms on July 12, 1996; the triskelion (three conjoined legs) on the shield represents resilience, resourcefulness, and hope; the Latin motto means &ldquo;Wherever you throw it, it will stand,&rdquo; a reference to the islanders&rsquo; ability to stand strong; the peregrine falcon represents the two falcons that the Isle of Man has paid to the UK monarch on Coronation Day since 1406, and the raven symbolizes the island&rsquo;s former status as a Viking colony; the crown represents the UK monarch&rsquo;s status as the Lord of Mann, although the island is self-governing<br>
 
 **National anthem**<br>
-_name_: "Arrane Ashoonagh dy Vannin" (O Land of Our Birth)<br>
-_lyrics/music_: William Henry GILL [English], John J. KNEEN [Manx]/traditional<br>
-<strong>note:</strong> adopted 2003, in use since 1907; serves as a local anthem; as a British Crown dependency, "God Save the King" is official (see United Kingdom) and is played when the sovereign, members of the royal family, or the lieutenant governor are present<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: official anthem, as a British Crown dependency; played when the sovereign, members of the royal family, or the lieutenant governor are present<br>
+<strong>note:</strong> adopted 2003, in use since 1907; serves as a local anthem; "God Save the King" is the official anthem for the Isle of Man as a British Crown dependency (see United Kingdom), and it is played when the sovereign, members of the royal family, or the lieutenant governor are present<br>
 
 ## Economy
 

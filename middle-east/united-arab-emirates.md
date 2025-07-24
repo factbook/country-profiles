@@ -142,7 +142,7 @@ _65 years and over_: 3.25 male(s)/female<br>
 _total population_: 2.13 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-9 deaths/100,000 live births (2020 est.)<br>
+3 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 5 deaths/1,000 live births (2024 est.)<br>
@@ -220,10 +220,10 @@ _female_: 17 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution; water scarcity; lack of natural freshwater resources; land degradation and desertification; waste generation, beach pollution from oil spills<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Law of the Sea<br>
 
@@ -368,9 +368,10 @@ golden falcon<br>
 green, white, black, red<br>
 
 **National anthem**<br>
-_name_: "Nashid al-watani al-imarati" (National Anthem of the UAE)<br>
+_title_: "Nashid al-watani al-imarati" (National Anthem of the UAE)<br>
 _lyrics/music_: AREF Al Sheikh Abdullah Al Hassan/Mohamad Abdel WAHAB<br>
-<strong>note:</strong> music adopted 1971, lyrics adopted 1996; Mohamad Abdel WAHAB also composed the music for the anthem of Tunisia<br>
+_history_: music adopted 1971, lyrics adopted 1996; Mohamad Abdel WAHAB also composed the music for Tunisia's anthem<br>
+<strong>note:</strong> music adopted 1971, lyrics adopted 1996; Mohamad Abdel WAHAB also composed the music for Tunisia's anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -663,5 +664,5 @@ has an ambitious and growing space program and is recognized as one of the leadi
 _stateless persons_: 5 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
-major source of precursor chemicals used in the production of illicit narcotics<br>
+_USG identification_: <br>major precursor-chemical producer (2025)<br>
 

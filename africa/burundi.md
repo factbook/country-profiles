@@ -234,10 +234,10 @@ _female_: 11 years (2018)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 soil erosion from overgrazing and agricultural expansion; deforestation; wildlife habitat loss<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: Law of the Sea, Nuclear Test Ban<br>
 
@@ -393,8 +393,9 @@ lion<br>
 red, white, green<br>
 
 **National anthem**<br>
-_name_: "Burundi Bwacu" (Our Beloved Burundi)<br>
+_title_: "Burundi Bwacu" (Our Beloved Burundi)<br>
 _lyrics/music_: Jean-Baptiste NTAHOKAJA/Marc BARENGAYABO<br>
+_history_: adopted 1962<br>
 <strong>note:</strong> adopted 1962<br>
 
 ## Economy

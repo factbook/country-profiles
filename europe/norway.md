@@ -147,7 +147,7 @@ _total population_: 1.02 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data is calculated based on actual age at first births<br>
 
 **Maternal mortality ratio**<br>
-2 deaths/100,000 live births (2020 est.)<br>
+1 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 1.8 deaths/1,000 live births (2024 est.)<br>
@@ -220,11 +220,6 @@ _women married by age 18_: 0% (2022)<br>
 _Education expenditure (% GDP)_: 4% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 10.1% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years<br>
 _male_: 18 years<br>
@@ -232,10 +227,10 @@ _female_: 19 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water pollution; acid rain damaging forests and affecting lakes and fish stocks; air pollution from vehicle emissions<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -383,9 +378,10 @@ lion<br>
 red, white, blue<br>
 
 **National anthem**<br>
-_name_: "Ja, vi elsker dette landet" (Yes, We Love This Country)<br>
-_lyrics/music_: lyrics/music: Bjornstjerne BJORNSON/Rikard NORDRAAK<br>
-<strong>note:</strong> adopted 1864; in addition to the national anthem, "Kongesangen" (Song of the King), which uses the tune of "God Save the King," serves as the royal anthem<br>
+_title_: "Kongesangen" (Song of the King)<br>
+_lyrics/music_: Bjornstjerne BJORNSON/Rikard NORDRAAK<br>
+_history_: royal anthem; uses the tune of "God Save the King," the United Kingdom's anthem<br>
+<strong>note:</strong> since 2011, the patriotic song “Mitt lille land” has been called a new national anthem and is sometimes performed at patriotic events, but it is not used as often as “Ja, vi elsker dette landet”<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 8 (7 cultural, 1 natural)<br>
@@ -666,17 +662,17 @@ approximately 27,000 active Armed Forces (9,000 Army; 4,300 Navy; 4,700 Air Forc
 <strong>note:</strong> active personnel include about 10,000 conscripts<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a mix of modern, imported Western European and US, as well as domestically produced weapons systems and equipment; in 2024, the Norwegian Government announced a new defense plan which would double defense spending over the following 12 years with priorities placed in such areas as the acquisition of air defenses and naval capabilities; Norway has a defense industry with a focus in niche capabilities and participates in joint development and production of weapons systems with other European countries (2024)<br>
+the military's inventory includes a mix of modern, imported Western European and US, as well as domestically produced weapons systems and equipment; in 2024, the Norwegian Government announced a new long-term defense plan which would double defense spending by the mid-2030s with priorities placed in such areas as the acquisition of air defenses and naval capabilities; Norway has a defense industry with a focus in niche capabilities and participates in joint development and production of weapons systems with other European countries (2025)<br>
 
 **Military service age and obligation**<br>
 19-35 years of age for selective compulsory military service for men and women; 17 years of age for male volunteers; 18 years of age for women volunteers; 12-19 month service obligation; conscripts first serve 12 months between the ages of 19 and 28, and then up to 4-5 refresher training periods until age 35, 44, 55, or 60 depending on rank and function (2024)<br>
 <strong>note 1: </strong>Norway has had compulsory military service since 1907; individuals conscripted each year are selected from a larger cohort who are evaluated through online assessments and physical tests<br><br><strong>note 2:</strong> Norway was the first NATO country to allow women to serve in all combat arms branches of the military (1985); it also has an all-female special operations unit known as Jegertroppen (The Hunter Troop), which was established in 2014; as of 2023, women comprised about 20% of the military's full-time personnel<br><br><strong>note 3:</strong> beginning in 1995, the military began offering Icelandic citizens the opportunity to apply for admission to officer schools in Norway with an associated education and service contract under special reasons and based on recommendations from Icelandic authorities; as early as 1996, Norway and Iceland entered into a cooperation agreement on the voluntary participation of Icelandic personnel in Norwegian force contributions in foreign operations<br>
 
 **Military deployments**<br>
-up to 200 Lithuania (NATO); Norway also has deployed air and naval assets in support of other NATO operations such as the Iceland Air Policing and the Mine Counter Measures Group missions&nbsp; (2024)<br>
+around 100 Lithuania (NATO); Norway also deploys air and naval assets in support of other NATO operations (2025)<br>
 
 **Military - note**<br>
-the Norwegian Armed Forces (Forsvaret) are responsible for protecting Norway and its allies, including monitoring Norway’s airspace, digital, land, and maritime areas, maintaining the country’s borders and sovereignty, contributing to NATO and UN missions, and providing support to civil society, such as assisting the police, search and rescue, and maritime counterterrorism efforts; the military’s territorial and sovereignty defense missions are complicated by Norway’s vast sea areas, numerous islands, long and winding fjords, and difficult and mountainous terrain; a key area of emphasis is its far northern border with Russia<br><br>Norway is one of the original members of NATO, and the Alliance is a key component of Norway’s defense policy; the Forsvaret participates regularly in NATO exercises, missions, and operations, including air policing of NATO territory, NATO’s Enhanced Forward Presence mission in the Baltic States and Eastern Europe, and standing naval missions, as well as operations in non-NATO areas, such as the Middle East<br><br>the Forsvaret also cooperates closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO; established 2009), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; Norway contributes to the UK-led Joint Expeditionary Force, a pool of high-readiness military forces from 10 Baltic and Scandinavian countries designed to respond to a wide range of contingencies both in peacetime and in times of crisis or conflict with a focus on the High North, North Atlantic, and Baltic Sea regions; Norway has close military ties with the US, including rotational US military deployments and an agreement allowing for mutual defense activities and US military forces to access some Norwegian facilities<br><br>the Forsvaret's origins go back to the leidangen, defense forces which were established along the coastline in the 10th century to protect the Norwegian coast (2024)<br>
+the Norwegian Armed Forces (Forsvaret) are responsible for protecting Norway and its allies, including monitoring Norway’s airspace, digital, land, and maritime areas, maintaining the country’s borders and sovereignty, contributing to NATO and UN missions, and providing support to civil society, such as assisting the police, search and rescue, and maritime counterterrorism efforts; the military’s territorial and sovereignty defense missions are complicated by Norway’s vast sea areas, numerous islands, long and winding fjords, and difficult and mountainous terrain; a key area of emphasis is its far northern border with Russia<br><br>Norway is one of the original members of NATO, and the Alliance is a key component of Norway’s defense policy; the Forsvaret participates in NATO exercises, missions, and operations, including air policing of NATO territory, NATO’s Enhanced Forward Presence mission in the Baltic States and Eastern Europe, and standing naval missions, as well as operations in non-NATO areas, such as the Middle East<br><br>the Forsvaret also cooperates closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO; established 2009), which consists of Denmark, Finland, Iceland, Norway, and Sweden; Norway contributes to the UK-led Joint Expeditionary Force, a pool of high-readiness military forces from 10 Baltic and Scandinavian countries designed to respond to a wide range of contingencies in the High North, North Atlantic, and Baltic Sea regions; Norway has close military ties with the US, including rotational US military deployments and an agreement allowing for mutual defense activities and US military forces to access some Norwegian facilities<br><br>the Forsvaret's origins go back to the leidangen, defense forces which were established along the coastline in the 10th century to protect the Norwegian coast (2025)<br>
 
 ## Space
 

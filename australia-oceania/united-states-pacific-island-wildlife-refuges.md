@@ -64,7 +64,7 @@ _other_: 100% (2018 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 <p><strong>Baker Island: </strong>no natural freshwater resources<br><strong><br>Howland Island: </strong>no natural freshwater resources<br><br><strong>Jarvis Island</strong><strong>:</strong> no natural freshwater resources<br><strong><br>Johnston Atoll: </strong>no natural freshwater resources; invasion of non-native species<br><strong><br>Midway Islands:</strong>  pollution from plastic; predominantly non-native plant species </p> <p><strong>Kingman Reef:</strong> none<br><br><strong>Palmyra Atoll:</strong> none</p><br>
 
 **Climate**<br>

@@ -240,10 +240,10 @@ _female_: 9 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 desertification caused in part by overgrazing, deforestation, and drought-aggravated soil erosion; limited natural freshwater resources; locust infestation<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -384,9 +384,10 @@ five-pointed star between the horns of a horizontal crescent moon<br>
 green, yellow<br>
 
 **National anthem**<br>
-_name_: "Bilāda l-ʾubāti l-hudāti l-kirām" (Land of the Proud, Guided by Noblemen)<br>
+_title_: "Bilāda l-ʾubāti l-hudāti l-kirām" (Land of the Proud, Guided by Noblemen)<br>
 _lyrics/music_: unknown/traditional, Rageh DAOUD<br>
-<strong>note:</strong> adopted 28 November 2017, preceded by "National Anthem of the Islamic Republic of Mauritania"<br><br><br>
+_history_: adopted 28 November 2017<br>
+<strong>note:</strong> adopted 28 November 2017<br><br><br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
@@ -661,7 +662,7 @@ the military's inventory is limited and made up largely of older French and Sovi
 450 (plus about 325 police) Central African Republic (MINUSCA) (2024)<br>
 
 **Military - note**<br>
-founded in 1960, the Mauritanian military is responsible for territorial defense and internal security; it also assists in economic development projects, humanitarian missions, and disaster response; border and maritime security and the threat of terrorist groups operating in the Sahel, particularly Mali, are key areas of focus; Mauritania has received security assistance from the EU, France, NATO, and the US (2024)<br>
+founded in 1960, the Mauritanian military is responsible for territorial defense and internal security; it also assists in economic development projects, humanitarian missions, and disaster response; border and maritime security, regional stability, and the threat of terrorist groups operating in the Sahel, particularly Mali, are key areas of focus; Mauritania has received security assistance from the EU, France, NATO, and the US (2025)<br>
 
 ## Terrorism
 
@@ -672,7 +673,4 @@ Al-Qa'ida in the Islamic Maghreb (AQIM)<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 26,000 (Sahrawis) (2021); 104,080 (Mali) (2023)<br>
-
-**Illicit drugs**<br>
-NA<br>
 

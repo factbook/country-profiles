@@ -143,7 +143,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 30.7 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-8 deaths/100,000 live births (2020 est.)<br>
+5 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.4 deaths/1,000 live births (2024 est.)<br>
@@ -212,11 +212,6 @@ _female_: 24.6% (2025 est.)<br>
 _Education expenditure (% GDP)_: 3.8% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 7.2% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: 97.9%<br>
-_male_: 98.5%<br>
-_female_: 97.4% (2018)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 20 years<br>
 _male_: 20 years<br>
@@ -224,10 +219,10 @@ _female_: 20 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution; air emissions from transport and electricity power stations; water pollution; degradation of coastal zones; loss of biodiversity; municipal and industrial waste disposal<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 94, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Persistent Organic Pollutants, Air Pollution-Volatile Organic Compounds<br>
 
@@ -378,9 +373,13 @@ Greek cross (white cross on a blue field)<br>
 **National color(s)**<br>
 blue, white<br>
 
+**National coat of arms**<br>
+the coat of arms was designed by Greek artist Kostas Grammatopoulos and has been in use since 1975; depicted in the national colors of blue and white; the white cross represents the country&rsquo;s primary religion, Greek Orthodoxy, and the laurel branches symbolize victory<br>
+
 **National anthem**<br>
-_name_: "Ymnos eis tin Eleftherian" (Hymn to Liberty)<br>
+_title_: "Ymnos eis tin Eleftherian" (Hymn to Liberty)<br>
 _lyrics/music_: Dionysios SOLOMOS/Nikolaos MANTZAROS<br>
+_history_: adopted 1864; the anthem is based on a 158-stanza poem by the same name, which was inspired by the Greek Revolution of 1821 against the Ottomans (only the first two stanzas are used); Cyprus also uses "Hymn to Liberty" as its anthem<br>
 <strong>note:</strong> adopted 1864; the anthem is based on a 158-stanza poem by the same name, which was inspired by the Greek Revolution of 1821 against the Ottomans (only the first two stanzas are used); Cyprus also uses "Hymn to Liberty" as its anthem<br>
 
 **National heritage**<br>
@@ -694,7 +693,4 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle (RS); Revoluti
 _refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 27,365 (Ukraine) (as of 31 December 2023)<br>
 _stateless persons_: 4,488 (2022)<br>
 <strong>note:</strong> 1,289,013 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
-
-**Illicit drugs**<br>
-a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>
 

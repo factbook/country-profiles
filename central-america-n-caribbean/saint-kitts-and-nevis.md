@@ -201,11 +201,6 @@ _other alcohols_: 0.21 liters of pure alcohol (2019 est.)<br>
 _Education expenditure (% GDP)_: 3.5% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 11% national budget (2025 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
 _male_: 16 years<br>
@@ -213,10 +208,10 @@ _female_: 19 years (2015)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; soil erosion and silting affects marine life on coral reefs; water pollution from uncontrolled dumping of sewage<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -350,8 +345,9 @@ green, yellow, red, black, white<br>
 the coat of arms of Saint Kitts and Nevis features a Carib who represents the original inhabitants of the islands, and a fleur-de-lis and rose that represent the French and English who arrived in the 1620; the shield also features the poinciana (the national flower) and a traditional boat; three hands hold the torch, which represents the quest for freedom: the hand of an African, a European, and a person of mixed ethnicity; pelicans (the national bird) support the shield, with a sugarcane plant and a coconut tree that symbolize the land<br>
 
 **National anthem**<br>
-_name_: "Oh Land of Beauty!"<br>
+_title_: "O Land of Beauty!"<br>
 _lyrics/music_: Kenrick Anderson GEORGES<br>
+_history_: adopted 1983<br>
 <strong>note:</strong> adopted 1983<br>
 
 **National heritage**<br>
@@ -576,7 +572,4 @@ the SKNDF is lightly armed with equipment from Belgium, the UK, and the US (2024
 SKNDF's missions include protecting the country's territorial integrity, assisting the police in combating the illegal narcotic trade and other crimes, and providing humanitarian and disaster relief assistance; the force also has a regional role through the Caribbean Regional Security System (RSS); St. Kitts joined the RSS in 1984; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Guyana, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2025)<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>
 

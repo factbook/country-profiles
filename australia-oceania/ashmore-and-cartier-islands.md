@@ -70,7 +70,7 @@ _total_: no permanent inhabitants<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 illegal killing of protected wildlife; overfishing; sea-level rise, changes in sea temperature, and ocean acidification; marine debris<br>
 
 **Climate**<br>
@@ -114,7 +114,4 @@ the flag of Australia is used<br>
 defense is the responsibility of Australia<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-NA<br>
 

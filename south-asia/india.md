@@ -246,10 +246,10 @@ _female_: 12 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; soil erosion; overgrazing; desertification; air pollution from industrial effluents and vehicle emissions; water pollution from raw sewage and agricultural pesticides; tap water not potable; growing population overstraining natural resources; biodiversity loss<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -406,8 +406,9 @@ the Lion Capital of Ashoka, which depicts four Asiatic lions standing back-to-ba
 saffron, white, green<br>
 
 **National anthem**<br>
-_name_: "Jana-Gana-Mana" (Thou Art the Ruler of the Minds of All People)<br>
+_title_: "Jana-Gana-Mana" (Thou Art the Ruler of the Minds of All People)<br>
 _lyrics/music_: Rabindranath TAGORE<br>
+_history_: adopted 1950; Rabindranath TAGORE, a Nobel laureate, also wrote Bangladesh's national anthem<br>
 <strong>note:</strong> adopted 1950; Rabindranath TAGORE, a Nobel laureate, also wrote Bangladesh's national anthem<br>
 
 **National heritage**<br>
@@ -710,7 +711,7 @@ ages vary by service, but generally 16.5-27 years of age for voluntary military 
 <strong>note: </strong>India has over 6,000 total military and police personnel deployed on UN missions<br>
 
 **Military - note**<br>
-the Indian military's primary mission is external/territorial defense while secondary missions include regional power projection, UN peacekeeping deployments, humanitarian operations, and support to internal security forces; it has fought in several significant conflicts and counterinsurgency operations since 1947, regularly conducts large-scale exercises, and is one of the world's largest contributors to UN peacekeeping operations<br><br>the military's chief external focuses are China and Pakistan; the short 1962 Sino-India War between them left in place one of the World’s longest disputed international borders--known as the Line of Actual Control (LAC)--resulting in occasional standoffs between Indian and Chinese security forces, including lethal clashes in 1975 and 2020 <br><br>India has fought four wars and several skirmishes with Pakistan; three of the wars have been over the disputed region of Jammu and Kashmir, the status of which has been unsettled since the UK's 1947 withdrawal and the partition and independence of India and Pakistan; a fragile cease-fire in Kashmir was reached in 2003, revised in 2018, and reaffirmed in 2021, although the militarized Line of Control which serves as the border remains contested; India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir where Indian forces have conducted counterinsurgency operations since the 1980s; in the Spring of 2025, Indian held Pakistan responsible for a terrorist attack in India-controlled Kashmir and retaliated, sparking a 12-day conflict <br><br>the Kashmir dispute also includes the Siachen Glacier, located in the Karakoram Mountain Range, which was seized by India in 1984 with Pakistan attempting to retake the area several times between 1985 and 1995; despite a 2003 cease-fire, both sides continue to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties are due to extreme weather and the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness (2025)<br>
+the Indian military's primary mission is external/territorial defense while secondary missions include regional power projection, UN peacekeeping deployments, humanitarian operations, and support to internal security forces; it participates in multinational exercises and is one of the world's largest contributors to UN peacekeeping operations<br><br>the military's chief external focuses are China and Pakistan; the short 1962 Sino-India War left in place one of the World’s longest disputed international borders--known as the Line of Actual Control (LAC)--resulting in occasional standoffs between Indian and Chinese security forces, including lethal clashes in 1975 and 2020; naval competition and influence in the Indian Ocean is also an area of interest<br><br>India has fought four wars and several skirmishes with Pakistan; three of the wars have been over the disputed region of Jammu and Kashmir, the status of which has been unsettled since the UK's 1947 withdrawal and the partition and independence of India and Pakistan; a fragile cease-fire in Kashmir was reached in 2003, revised in 2018, and reaffirmed in 2021, although the militarized Line of Control which serves as the border remains contested, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir where Indian military and security forces have conducted counterinsurgency operations since the 1980s; in the Spring of 2025, India held Pakistan responsible for a terrorist attack in India-controlled Kashmir and retaliated, sparking a brief cross-border conflict involving aircraft, artillery, drone, and missile strikes<br><br>the Kashmir dispute also includes the Siachen Glacier, located in the Karakoram Mountain Range, which was seized by India in 1984 with Pakistan attempting to retake the area several times between 1985 and 1995; despite the 2003 cease-fire, both sides continue to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties are due to extreme weather and the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness (2025)<br>
 
 ## Space
 
@@ -738,5 +739,5 @@ _IDPs_: 631,000 (armed conflict and intercommunal violence) (2022)<br>
 _stateless persons_: 20,330 (2022)<br>
 
 **Illicit drugs**<br>
-<p>India is a source, transit, and destination for illicit narcotics and precursor chemicals; drug abuse in India growing, facilitated by illicit narcotics and the availability of over-the-counter medicines; commonly abused substances in India include heroin, cannabis, and cocaine, with growing use of pharmaceutical drugs in recent years including tramadol, opioids, and MDMA (ecstasy) analogues; largest producer of generic drugs in the world which is also used to produce illicit synthetic drugs such as pharmaceutical opioids, methamphetamine, heroin, MDMA, and ketamine</p><br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>
 

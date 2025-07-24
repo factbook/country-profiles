@@ -218,11 +218,6 @@ _female_: 13.9% (2025 est.)<br>
 _Education expenditure (% GDP)_: 7.1% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 14.6% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 20 years<br>
 _male_: 18 years<br>
@@ -230,10 +225,10 @@ _female_: 21 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 <p>marine pollution (Baltic Sea and North Sea); acid rain damage to soil and lakes; air pollution; poor timber-harvesting practices</p><br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -376,9 +371,10 @@ three crowns, lion<br>
 blue, yellow<br>
 
 **National anthem**<br>
-_name_: "Du Gamla, Du Fria" (Thou Ancient, Thou Free)<br>
-_lyrics/music_: Richard DYBECK/traditional<br>
-<strong>note:</strong> in use since 1844; also known as "Sang till Norden" (Song of the North), is based on a Swedish folk tune; it has never been officially adopted by the government; "Kungssangen" (The King's Song) serves as the royal anthem and is played in the presence of the royal family and during certain state ceremonies<br>
+_title_: "Kungssangen" (The King's Song)<br>
+_lyrics/music_: Carl Wilhelm August Strandberg/Otto Lindblad<br>
+_history_: in use since 1844 as the royal anthem, but also used as the national anthem until 1893; played in the presence of the royal family and during certain state ceremonies<br>
+<strong>note:</strong> in use since 1844; also known as "Sang till Norden" (Song of the North); based on a Swedish folk tune; has never been officially adopted; "Kungssangen" (The King's Song) serves as the royal anthem and is played in the presence of the royal family and during certain state ceremonies<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 15 (13 cultural, 1 natural, 1 mixed)<br>

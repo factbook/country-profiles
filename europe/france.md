@@ -233,11 +233,6 @@ _female_: 27.3% (2025 est.)<br>
 _Education expenditure (% GDP)_: 5.4% of GDP (2021 est.)<br>
 _Education expenditure (% national budget)_: 8.9% national budget (2021 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 16 years<br>
@@ -245,10 +240,10 @@ _female_: 16 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution and acid rain from industrial and vehicle emissions; water pollution from urban wastes, agricultural runoff<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -387,7 +382,7 @@ _email address and website_: <br>info@ambafrance-us.org<br><br>https://franceint
 _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador-designate Charles KUSHNER (since May 2025); Charg&eacute; d'Affaires David R. McCAWLEY (since January 2025); note - also accredited to Monaco)<br>
+_chief of mission_: Ambassador-designate Charles KUSHNER (since May 2025); note - also accredited to Monaco<br>
 _embassy_: 2 avenue Gabriel, 75008 Paris<br>
 _mailing address_: 9200 Paris Place, Washington DC&nbsp; 20521-9200<br>
 _telephone_: [33] (1) 43-12-22-22, [33] (1) 42-66-97-83<br>
@@ -416,9 +411,10 @@ Gallic rooster, fleur-de-lis, Marianne (female personification of the country)<b
 blue, white, red<br>
 
 **National anthem**<br>
-_name_: "La Marseillaise" (The Song of Marseille)<br>
+_title_: "La Marseillaise" (The Song of Marseille)<br>
 _lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
-<strong>note:</strong> adopted 1795, restored 1870; originally known as "Chant de Guerre pour l'Armee du Rhin" (War Song for the Army of the Rhine), the National Guard of Marseille made the song famous by singing it while marching into Paris in 1792 during the French Revolutionary Wars<br>
+_history_: adopted 1795, restored 1870; originally known as "Le Chant de Guerre pour l&rsquo;Arm&eacute;e du Rhin" (War Song for the Army of the Rhine), the National Guard of Marseille made the song famous by singing it while marching into Paris in 1792 during the French Revolutionary Wars<br>
+<strong>note:</strong> adopted 1795, restored 1870; originally known as "Le Chant de Guerre pour l’Armée du Rhin" (War Song for the Army of the Rhine), the National Guard of Marseille made the song famous by singing it while marching into Paris in 1792 during the French Revolutionary Wars<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 53 (45 cultural, 7 natural, 1 mixed); note - includes one site in New Caledonia and one site in French Polynesia<br>
@@ -720,7 +716,7 @@ generally 17-30 years of age for both men and women with some variations by serv
 <strong>note 1: </strong>in 2023, women comprised more than 16% of the uniformed armed forces  <br><br><strong>note 2:</strong> French citizens can also volunteer for the Voluntary Military Service (VMS), which allows unemployed youth aged 18-25 to learn a trade or gain work experience while receiving basic military training and sports activities; VMS terms are 3-12 months; French citizens may also join the military operational reserve up to age 72<br><br><strong>note 3:</strong> men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign five-year contracts<br>
 
 **Military deployments**<br>
-France typically has up to 30,000 total air, ground, and naval forces deployed on permanent or temporary foreign missions; up to 10,000 are permanently deployed, including Djibouti (1,500); French Guyana (2,600); French Polynesia (1,000); French West Indies (1,000); Reunion Island (2,100); West Africa (1,200), and the UAE (800)<br><br>other non-permanent deployments include military missions under NATO, the EU, and the UN, as well as some unilateral operations, in such places as Europe, Africa, and the Middle East and adjacent waters (2025)<br>
+France typically has up to 30,000 total air, ground, and naval forces deployed on permanent or temporary foreign missions; up to 10,000 are permanently deployed, including Djibouti (1,500); French Guyana (2,600); French Polynesia (1,000); French West Indies (1,000); Reunion Island (2,100); UAE (800)<br><br>other non-permanent deployments include military missions under NATO, the EU, and the UN, as well as some unilateral operations, in such places as Europe, Africa, and the Middle East and adjacent waters (2025)<br>
 
 **Military - note**<br>
 the French military has a global footprint and a wide range of missions and responsibilities, to include protecting French territory, population, and interests, and fulfilling France’s commitments to NATO, European security, and international peacekeeping operations under the UN; it is the largest military in the EU and has a leading role in the EU security framework, as well as in NATO; in recent years, it has actively participated in coalition peacekeeping and other security operations in regions such as Africa, the Middle East, and the Balkans, often in a lead role; the military regularly conducts large-scale exercises and participates in a variety of bi-lateral and multinational exercises; it also has a domestic security mission, including providing enhanced security at sensitive sites and large events and support during national crises or disasters, such as fighting forest fires; in recent years, defense responsibilities have expanded to include cyber and space domains <br><br>in 2010, France and the UK signed a declaration on defense and security cooperation that included greater military interoperability and a Combined Joint Expeditionary Force (CJEF), a deployable, combined Anglo-French military force for use in a wide range of crisis scenarios, including high intensity operations, peacekeeping, disaster relief, and humanitarian assistance; the CJEF has no standing forces, but would be available at short notice for French-UK bilateral, NATO, EU, UN, or other operations (2025)<br>
@@ -748,7 +744,4 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 55,681 (Afghanistan), 39,091 (Syria), 33,834 (Sri Lanka), 33,148 (Russia), 31,935 (Democratic Republic of the Congo), 24,223 (Sudan), 21,225 (Guinea), 18,008 (Serbia and Kosovo), 17,032 (Turkey), 13,974 (Iraq), 12,286 (Cote d'Ivoire), 11,489 (Eritrea), 11,012 (Cambodia), 10,543 (China), 10,236 (Albania), 10,210 (Somalia), 8,858 (Bangladesh), 8,124 (Mauritania), 8,101 (Mali), 7,991 (Vietnam), 6,913 (Bosnia and Herzegovina), 6,910 (Haiti), 6,808 (Angola), 6,498 (Laos), 6,417 (Armenia), 6,111 (Nigeria), 5,896 (Georgia) (mid-year 2022); 69,462 (Ukraine) (as of 31 January 2024)<br>
 _stateless persons_: 3,633 (2022)<br>
-
-**Illicit drugs**<br>
-<p><strong>metropolitan France:</strong> transshipment point for South American cocaine, Southwest Asian heroin, and European synthetics;</p> <p><strong>French Guiana:</strong> small amount of marijuana grown for local consumption; minor transshipment point to Europe;</p> <p><strong>Martinique:</strong> transshipment point for cocaine and marijuana bound for the US and Europe</p><br>
 

@@ -178,14 +178,9 @@ _unimproved: total_: total: NA<br>
 **Currently married women (ages 15-49)**<br>
 51% (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: 98.5%<br>
-_male_: 99.7%<br>
-_female_: 97.3% (2014)<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution; water pollution from industrial emissions, raw sewage; contamination of drinking water supplies; trade in endangered species; low-level radioactive waste disposal<br>
 
 **Climate**<br>
@@ -313,9 +308,10 @@ white sun with 12 rays on a blue field<br>
 blue, white, red<br>
 
 **National anthem**<br>
-_name_: "Zhonghua Minguo guoge" (National Anthem of the Republic of China)<br>
+_title_: "Zhonghua Minguo guoge" (National Anthem of the Republic of China)<br>
 _lyrics/music_: HU Han-min, TAI Chi-t'ao, and LIAO Chung-k'ai/CHENG Mao-yun<br>
-<strong>note:</strong> adopted 1930; also the song of the Kuomintang Party; it is informally known as "San Min Chu I" or "San Min Zhu Yi" (Three Principles of the People); because of political pressure from China, "Guo Qi Ge" (National Banner Song) is used at international events rather than the official anthem of Taiwan; the "National Banner Song" has gained popularity in Taiwan and is commonly used during flag raisings<br>
+_history_: adopted 1930; also the song of the Kuomintang Party; informally known as "San Min Chu I" or "San Min Zhu Yi" (Three Principles of the People); because of political pressure from China, "Guo Qi Ge" (National Banner Song) is used at international events rather than the official anthem of Taiwan<br>
+<strong>note:</strong> adopted 1930; also the song of the Kuomintang Party; informally known as "San Min Chu I" or "San Min Zhu Yi" (Three Principles of the People); because of political pressure from China, "Guo Qi Ge" (National Banner Song) is used at international events rather than the official anthem of Taiwan<br>
 
 ## Economy
 
@@ -588,5 +584,5 @@ space program focused on the acquisition of satellites and the development of in
 ## Transnational Issues
 
 **Illicit drugs**<br>
-<p>major source of precursor chemicals used in the production of illicit narcotics</p><br>
+_USG identification_: <br>major precursor-chemical producer (2025)<br>
 

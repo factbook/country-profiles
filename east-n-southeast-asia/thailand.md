@@ -242,10 +242,10 @@ _female_: 16 years (2016)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution from vehicle emissions; water pollution from organic and factory wastes; water scarcity; deforestation; soil erosion; illegal hunting; hazardous waste disposal<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -407,9 +407,10 @@ red, white, blue<br>
 in 1911, King Vajiravudh (Rama VI) of Thailand officially adopted the Garuda as the national coat of arms and emblem; this mythological half-man, half-bird figure from the Hindu and Buddhist traditions is considered the <em>vahana </em>(vehicle) of the god Vishnu (Narayana) and was a symbol of royalty in Thailand for centuries<br>
 
 **National anthem**<br>
-_name_: "Phleng Chat Thai" (National Anthem of Thailand)<br>
+_title_: "Phleng Sanlasoen Phra Barami" (A Salute to the Monarch)<br>
 _lyrics/music_: Luang SARANUPRAPAN/Phra JENDURIYANG<br>
-<strong>note:</strong> music adopted 1932, lyrics adopted 1939; by law, people are required to stand for the national anthem at 0800 and 1800 every day; the anthem is played in schools, offices, theaters, and on television and radio during this time; "Phleng Sanlasoen Phra Barami" (A Salute to the Monarch) serves as the royal anthem and is played in the presence of the royal family and during certain state ceremonies<br>
+_history_: royal anthem, played in the presence of the royal family and during certain state ceremonies<br>
+<strong>note:</strong> music adopted 1932, lyrics adopted 1939; by law, people are required to stand for the national anthem at 0800 (8 am) and 1800 (6 pm) every day, when it is played in schools, offices, theaters, and on television and radio; "Phleng Sanlasoen Phra Barami" (A Salute to the Monarch) serves as the royal anthem and is played in the presence of the royal family and during certain state ceremonies<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 8 (5 cultural, 3 natural)<br>
@@ -728,5 +729,5 @@ _stateless persons_: 566,900 (2022) (estimate represents stateless persons regis
 <strong>note:</strong> Thai nationality was granted to more than 23,000 stateless persons between 2012 and 2016 and more than 18,000 between 2018 and 2021; in 2016, the Government of Thailand approved changes to its citizenship laws that could make 80,000 stateless persons eligible for citizenship, as part of its effort to achieve zero statelessness by 2024 (2021)<br>
 
 **Illicit drugs**<br>
-<p>not a cultivator or producer of significant quantities of opiates, methamphetamine, or other illicit drugs; not a significant source or transit country for drugs entering the United States; drugs smuggled through Thailand heading for Indo-Pacific region markets; large influx of methamphetamine and heroin from neighboring Burma to other markets, but also consumed domestically, most of which transits through Thailand to other markets, but is also consumed domestically; a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>
+_USG identification_: <br>major precursor-chemical producer (2025)<br>
 

@@ -176,14 +176,9 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Currently married women (ages 15-49)**<br>
 22.5% (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: 96.9%<br>
-_male_: 97.3%<br>
-_female_: 96.5% (2015)<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 preservation of coral reefs; prevention of invasive species; limiting erosion caused by nickel mining and forest fires<br>
 
 **Climate**<br>
@@ -301,9 +296,10 @@ fl&egrave;che fa&icirc;ti&egrave;re (native rooftop adornment), kagu bird<br>
 grey, red<br>
 
 **National anthem**<br>
-_name_: "Soyons unis, devenons freres" (Let Us Be United, Let Us Become Brothers)<br>
-_lyrics/music_: Chorale Melodia (a local choir)<br>
-<strong>note:</strong> adopted 2008; contains a mixture of lyrics in both French and Nengone (an indigenous language); as a self-governing territory of France, in addition to the local anthem, "La Marseillaise" is official (see France)<br>
+_title_: "La Marseillaise"<br>
+_lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
+_history_: official anthem, as a self-governing French territory<br>
+<strong>note:</strong> adopted 2008; contains a mixture of lyrics in both French and Nengone (a local language); in addition to the local anthem, "La Marseillaise" is the official anthem for New Caledonia, as a self-governing territory of France (see France)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (natural); note - excerpted from the France entry<br>

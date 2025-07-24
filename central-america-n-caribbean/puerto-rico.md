@@ -138,7 +138,7 @@ _65 years and over_: 0.75 male(s)/female<br>
 _total population_: 0.89 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-34 deaths/100,000 live births (2020 est.)<br>
+11 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 5.8 deaths/1,000 live births (2024 est.)<br>
@@ -196,7 +196,7 @@ _female_: 18 years (2018)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 soil erosion; occasional droughts cause water shortages; industrial pollution<br>
 
 **Climate**<br>
@@ -334,9 +334,10 @@ Puerto Rican spindalis (bird), coqui (frog)<br>
 red, white, blue<br>
 
 **National anthem**<br>
-_name_: "La Borinquena" (The Puerto Rican)<br>
-_lyrics/music_: Manuel Fernandez JUNCOS/Felix Astol ARTES<br>
-<strong>note:</strong> music adopted 1952, lyrics adopted 1977; the local anthem's name is a reference to the indigenous name of the island, Borinquen; the music was originally composed as a dance in 1867 and gained popularity in the early 20th century; there is some evidence that the music was written by Francisco RAMIREZ; as a commonwealth of the US, "The Star-Spangled Banner" is official (see United States)<br>
+_title_: "The Star-Spangled Banner"<br>
+_lyrics/music_: Francis Scott KEY/John Stafford SMITH<br>
+_history_: official anthem, as a US commonwealth<br>
+<strong>note:</strong> music adopted 1952, lyrics adopted 1977; the local anthem's name refers to the local name for the island, Borinquen; the music was originally composed as a dance in 1867 and gained popularity in the early 20th century; there is some evidence that Francisco RAMIREZ wrote the music; "The Star-Spangled Banner" is the official anthem of Puerto Rico, as a US commonwealth (see United States)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural); note - excerpted from the US entry<br>

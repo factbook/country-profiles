@@ -205,16 +205,16 @@ _Education expenditure (% GDP)_: 0.3% of GDP (2019 est.)<br>
 _Education expenditure (% national budget)_: 4.2% national budget (2019 est.)<br>
 
 **Literacy**<br>
-_total population_: 54% (2022 est.) NA<br>
-_male_: 65% (2022 est.) NA<br>
-_female_: 44% (2022 est.) NA<br>
+_total population_: 54% (2022 est.)<br>
+_male_: 65% (2022 est.)<br>
+_female_: 44% (2022 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water scarcity; contaminated water; improper waste disposal; deforestation; land degradation; overgrazing; soil erosion; desertification<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection<br>
 _signed, but not ratified_: Nuclear Test Ban<br>
 
@@ -364,8 +364,9 @@ leopard<br>
 blue, white<br>
 
 **National anthem**<br>
-_name_: "Qolobaa Calankeed" (Every Nation Has its own Flag)<br>
+_title_: "Qolobaa Calankeed" (Every Nation Has Its Own Flag)<br>
 _lyrics/music_: lyrics/music: Abdullahi QARSHE<br>
+_history_: adopted 2012; written in 1959<br>
 <strong>note:</strong> adopted 2012; written in 1959<br>
 
 **Government - note**<br>

@@ -209,10 +209,10 @@ _female_: 17 years (2013)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 inadequate facilities for disposal of solid waste; threats to the marine ecosystem from sand and coral dredging, illegal fishing practices, and overfishing; rising sea level; coral bleaching; drought<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -360,8 +360,9 @@ bai (native meeting house)<br>
 blue, yellow<br>
 
 **National anthem**<br>
-_name_: "Belau rekid" (Our Palau)<br>
+_title_: "Belau rekid" (Our Palau)<br>
 _lyrics/music_: multiple/Ymesei O. EZEKIEL<br>
+_history_: adopted 1980<br>
 <strong>note:</strong> adopted 1980<br>
 
 **National heritage**<br>
@@ -545,7 +546,7 @@ _key ports_: Malakal Harbor<br>
 no regular military forces; the Bureau of Public Safety (Ministry of Justice) has divisions for police functions and maritime security (2025)<br>
 
 **Military - note**<br>
-under the Compact of Free Association between Palau and the US, the US is responsible for the defense of Palau and the US military is granted access to the islands; the COFA also allows citizens of Palau to serve in the US armed forces<br><br>Palau has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Palau's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
+under the Compact of Free Association between Palau and the US, the US is responsible for the defense of Palau and the US military is granted access to the islands; the COFA also allows citizens of Palau to serve in the US armed forces<br><br>Palau has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Palau's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>
 
 ## Transnational Issues
 

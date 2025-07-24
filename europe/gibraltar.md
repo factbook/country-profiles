@@ -168,14 +168,9 @@ _unimproved: total_: total: 0% of population (2020)<br>
 **Education expenditure**<br>
 8.8% national budget (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 limited natural freshwater resources<br>
 
 **Climate**<br>
@@ -284,12 +279,13 @@ Barbary partridge<br>
 red, white, yellow<br>
 
 **National coat of arms**<br>
-<p>King Ferdinand and Queen Isabella of Spain granted this coat of arms to Gibraltar in 1502; the castle in the center of the shield represents Gibraltar as a fortress, and the gold key represents its strategic position as the gateway to the Mediterranean; below the shield is the national motto, <em>Montis Insignia Calpe</em> (“Badge of the Rock of Gibraltar”); the coat of arms uses the national colors of red, white, and yellow</p><br>
+King Ferdinand and Queen Isabella of Spain granted this coat of arms to Gibraltar in 1502; the castle in the center of the shield represents Gibraltar as a fortress, and the gold key represents its strategic position as the gateway to the Mediterranean; below the shield is the national motto, <em>Montis Insignia Calpe</em> (“Badge of the Rock of Gibraltar”); the coat of arms uses the national colors of red, white, and yellow<br>
 
 **National anthem**<br>
-_name_: "Gibraltar Anthem"<br>
-_lyrics/music_: Peter EMBERLEY<br>
-<strong>note:</strong> adopted 1994; serves as a local anthem; as an overseas territory of the United Kingdom, "God Save the King" is official (see United Kingdom)<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: official anthem, as an overseas UK territory<br>
+<strong>note:</strong> adopted 1994; serves as a local anthem; "God Save the King" is the official anthem for Gibraltar, as an overseas territory of the United Kingdom (see United Kingdom)<br>
 
 ## Economy
 

@@ -217,11 +217,6 @@ _female_: 23% (2025 est.)<br>
 _Education expenditure (% GDP)_: 4.7% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 11.1% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: 99%<br>
-_male_: 99%<br>
-_female_: 99% (2011)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 16 years<br>
@@ -229,10 +224,10 @@ _female_: 17 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air and water pollution (including acid rain) in areas of northwest Bohemia and in northern Moravia around Ostrava; pollution from industry, mining, and agriculture<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -394,9 +389,10 @@ silver (or white) double-tailed rampant lion<br>
 white, red, blue<br>
 
 **National anthem**<br>
-_name_: "Kde domov muj?" (Where is My Home?)<br>
+_title_: "Kde domov muj?" (Where is My Home?)<br>
 _lyrics/music_: Josef Kajetan TYL/Frantisek Jan SKROUP<br>
-<strong>note:</strong> adopted 1993; the anthem was originally written as incidental music to the play "Fidlovacka" (1834), it soon became very popular as an unofficial anthem of the Czech nation; its first verse served as the official Czechoslovak anthem beginning in 1918, while the second verse (Slovak) was dropped after the split of Czechoslovakia in 1993<br>
+_history_: adopted 1993; the anthem was originally written as incidental music for the play "Fidlovacka" (1834), but it soon became popular as an unofficial anthem of the Czech nation; its first verse served as the official Czechoslovak anthem beginning in 1918, and the second verse (Slovak) was dropped after Czechoslovakia was dissolved in 1993<br>
+<strong>note:</strong> adopted 1993; the anthem was originally written as incidental music for the play "Fidlovacka" (1834), but it soon became popular as an unofficial anthem of the Czech nation; its first verse served as the official Czechoslovak anthem beginning in 1918, and the second verse (Slovak) was dropped after Czechoslovakia was dissolved in 1993<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 17 (16 cultural, 1 natural)<br>
@@ -684,7 +680,4 @@ the Czech military is responsible for national and territorial defense, assistin
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 381,400 (Ukraine) (as of 31 January 2024)<br>
 _stateless persons_: 1,625 (2022)<br>
-
-**Illicit drugs**<br>
-<p>main country of origin of methamphetamine in European markets; manufacture of methamphetamine continues to be mostly based on pseudoephedrine from Poland or Turkey</p> <p> </p><br>
 

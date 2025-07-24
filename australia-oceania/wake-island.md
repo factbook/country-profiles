@@ -70,7 +70,7 @@ _total_: no permanent inhabitants<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 limited potable water; hazardous waste disposal<br>
 
 **Climate**<br>

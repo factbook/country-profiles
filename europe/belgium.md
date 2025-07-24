@@ -222,11 +222,6 @@ _women married by age 18_: 0.1% (2020)<br>
 _Education expenditure (% GDP)_: 6.4% of GDP (2021 est.)<br>
 _Education expenditure (% national budget)_: 11.3% national budget (2021 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
 _male_: 18 years<br>
@@ -234,10 +229,10 @@ _female_: 20 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 urbanization; possible risks from industry and intensive farming; air and water pollution<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -394,9 +389,10 @@ golden rampant lion<br>
 red, black, yellow<br>
 
 **National anthem**<br>
-_name_: "La Brabanconne" (The Song of Brabant)<br>
+_title_: "La Braban&ccedil;onne" (The Song of Brabant)<br>
 _lyrics/music_: Louis-Alexandre DECHET [French] and Victor CEULEMANS [Dutch]/Francois VAN CAMPENHOUT<br>
-<strong>note:</strong> adopted 1830; according to legend, Louis-Alexandre DECHET, an actor at the theater in which the revolution against the Netherlands began, wrote the lyrics with a group of young people in a Brussels cafe<br>
+_history_: adopted 1830; according to legend, Louis-Alexandre DECHET, an actor at the theater where the revolution against the Netherlands began, wrote the lyrics with a group of young people in a Brussels cafe<br>
+<strong>note:</strong> adopted 1830; according to legend, Louis-Alexandre DECHET, an actor at the theater where the revolution against the Netherlands began, wrote the lyrics with a group of young people in a Brussels cafe<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 16 (15 cultural, 1 natural)<br>
@@ -714,5 +710,5 @@ _refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq
 _stateless persons_: 1,190 (2022)<br>
 
 **Illicit drugs**<br>
-<p>a transit point for precursor chemicals from China and India destined for clandestine synthetic drug laboratories in the Netherlands and to some labs in Belgium; a primary entry point for cocaine into Europe; one of the top methamphetamine producers in Europe; a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>
+_USG identification_: <br>major precursor-chemical producer (2025)<br>
 

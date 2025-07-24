@@ -130,7 +130,7 @@ _65 years and over_: 1.06 male(s)/female<br>
 _total population_: 1.07 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-60 deaths/100,000 live births (2020 est.)<br>
+47 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 24.3 deaths/1,000 live births (2024 est.)<br>
@@ -211,10 +211,10 @@ _female_: 13 years (2018)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 soil erosion; limited access to potable water; wildlife conservation; industrial pollution; waste disposal<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: Law of the Sea<br>
 
@@ -361,8 +361,9 @@ mythical thunder dragon (<em>druk</em>)<br>
 orange, yellow<br>
 
 **National anthem**<br>
-_name_: "Druk tsendhen" (The Thunder Dragon Kingdom)<br>
+_title_: "Druk tsendhen" (The Thunder Dragon Kingdom)<br>
 _lyrics/music_: Gyaldun Dasho Thinley DORJI/Aku TONGMI<br>
+_history_: adopted 1953<br>
 <strong>note:</strong> adopted 1953<br>
 
 ## Economy

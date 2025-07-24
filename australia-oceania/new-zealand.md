@@ -218,11 +218,6 @@ _female_: 8.9% (2025 est.)<br>
 _Education expenditure (% GDP)_: 5.2% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 13.1% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 20 years<br>
 _male_: 20 years<br>
@@ -230,10 +225,10 @@ _female_: 21 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water quality and availability; rapid urbanization; deforestation; soil erosion and degradation; native flora and fauna hard-hit by invasive species<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Antarctic Seals, Marine Life Conservation<br>
 
@@ -378,9 +373,10 @@ black, white, red (ochre)<br>
 the first quarter of the shield shows four stars that represent the Southern Cross constellation and three ships that symbolize New Zealand's sea trade; in the second quarter, a fleece represents the sheep farming industry; the wheat sheaf in the third quarter represents the agricultural industry; the crossed hammers in the fourth quarter represent mining; the Māori chieftain holds a <em>taiaha </em>(a Māori war weapon) and a European woman holds the New Zealand flag; St. Edward's crown, shown above the shield, symbolizes the British monarch<br>
 
 **National anthem**<br>
-_name_: "God Defend New Zealand"<br>
-_lyrics/music_: Thomas BRACKEN [English], Thomas Henry SMITH [Maori]/John Joseph WOODS<br>
-<strong>note:</strong> adopted 1940 as national song, adopted 1977 as co-national anthem; New Zealand has two national anthems with equal status; as a commonwealth realm, in addition to "God Defend New Zealand," "God Save the King" serves as a royal anthem (see United Kingdom); "God Save the King" normally played only when a member of the royal family or the governor-general is present; in all other cases, "God Defend New Zealand" is played<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: royal anthem and one of two official national anthems; usually played only when a member of the royal family or the governor-general is present<br>
+<strong>note:</strong> New Zealand is one of only two countries that has two national anthems of equal status (Denmark is the other)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (2 natural, 1 mixed)<br>
@@ -655,7 +651,7 @@ the NZDF's inventory is comprised of domestically produced and Western-supplied 
 small numbers of NZ military personnel are deployed on a variety of international missions in Africa, Antarctica, the Asia-Pacific region, and the Middle East (2025)<br>
 
 **Military - note**<br>
-the NZDF is a small military with considerable overseas experience; it supports the country’s national security objectives by protecting New Zealand’s sovereignty, promoting its interests, safeguarding peace and security, and conducting peacekeeping, humanitarian, and other international missions<br><br>New Zealand is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>New Zealand has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; however, the US suspended its ANZUS security obligations to New Zealand in 1986 after New Zealand implemented a policy barring nuclear-armed and nuclear-powered warships from its ports; the US and New Zealand signed the Wellington Declaration in 2010, which reaffirmed close ties between the two countries, and in 2012 signed the Washington Declaration, which provided a framework for future security cooperation and defense dialogues; in 2016, a US naval ship conducted the first bilateral warship visit to New Zealand since the 1980s; New Zealand has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2025)<br>
+the NZDF is responsible for protecting New Zealand’s sovereignty, promoting its interests, safeguarding peace and security, and conducting peacekeeping, humanitarian, and other international missions<br><br>New Zealand is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>New Zealand has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; however, the US suspended its ANZUS security obligations to New Zealand in 1986 after Auckland implemented a policy barring nuclear-armed and nuclear-powered warships from its ports; the US and New Zealand signed the Wellington Declaration in 2010, which reaffirmed close ties between the two countries, and in 2012 signed the Washington Declaration, which provided a framework for future security cooperation and defense dialogues; in 2016, a US naval ship conducted the first bilateral warship visit to New Zealand since the 1980s; New Zealand has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2025)<br>
 
 ## Space
 
@@ -679,7 +675,4 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 5 (2022)<br>
-
-**Illicit drugs**<br>
-significant consumer of amphetamines<br>
 

@@ -151,7 +151,6 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 70 deaths/100,000 live births (2023 est.)<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Infant mortality rate**<br>
 _total_: 18.3 deaths/1,000 live births (2024 est.)<br>
@@ -230,12 +229,6 @@ _women married by age 18_: 13.7% (2018)<br>
 _Education expenditure (% GDP)_: 6% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 23.3% national budget (2024 est.)<br>
 
-**Literacy**<br>
-_total population_: 75.9%<br>
-_male_: 84.8%<br>
-_female_: 67.4% (2021)<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 14 years<br>
@@ -244,11 +237,11 @@ _female_: 14 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 in the north: land degradation and desertification, with soil erosion from farming, overgrazing, and vegetation removal; water and soil pollution from industrial-waste dumping; in the south: desertification; overgrazing; sparse water<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: Environmental Modification<br>
 
@@ -412,8 +405,9 @@ pentacle symbol, lion<br>
 red, green<br>
 
 **National anthem**<br>
-_name_: "Hymne Cherifien" (Hymn of the Sharif)<br>
+_title_: "Hymne Cherifien" (Hymn of the Sharif)<br>
 _lyrics/music_: Ali Squalli HOUSSAINI/Leo MORGAN<br>
+_history_: music adopted 1956, lyrics adopted 1970<br>
 <strong>note:</strong> music adopted 1956, lyrics adopted 1970<br>
 
 **National heritage**<br>
@@ -691,7 +685,7 @@ the Moroccan military's inventory is comprised of mostly older French and US equ
 770 Central African Republic (MINUSCA); 930 Democratic Republic of the Congo (MONUSCO) (2024)<br>
 
 **Military - note**<br>
-the Royal Armed Forces (FAR) are responsible for protecting Morocco’s national interests, sovereignty, and territorial integrity; key areas of concern for the FAR include regional challenges such as the Polisario Front in Western Sahara and Algeria; Morocco claims the territory of Western Sahara and administers the territory that it controls; the Polisario Front (Popular Front for the Liberation of Saguia el Hamra and Rio de Oro), an organization that seeks the territory’s independence, disputes Morocco’s claim of sovereignty over the territory; Moroccan and Polisario forces fought intermittently from 1975, when Spain relinquished colonial authority over the territory, until a 1991 cease-fire and the establishment of a UN peacekeeping mission; the Polisario withdrew from the cease-fire in November 2020, and since then there have been reports of intermittent indirect fire between the FAR and Polisario fighters across the 2,500-kilometer-long berm built in 1987 that separates the two sides; Algeria is seen as a regional rival and has openly backed the Polisario Front<br><br>the FAR has experience in counterinsurgency, desert warfare, and international peacekeeping and security operations; it participates in both bilateral and multinational exercises and has relations with a variety of partners including the militaries of France, Spain, and the US, as well as NATO, the Arab League, and the African Union; the FAR provided fighter aircraft to the Saudi-led coalition in Yemen from 2015-2019; Morocco has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the FAR was created in May 1956; large numbers of Moroccans were recruited for service in the Spahi and Tirailleur regiments of the French Army of Africa during the period of the French protectorate (1912-1956); many Moroccans fought under the French Army during both World Wars; after World War II, Moroccans formed part of the French Far East Expeditionary Corps during the First Indochina War (1946-1954); the Spanish Army recruited Moroccans from the Spanish Protectorate during both the Rif War (1921-26) and the Spanish Civil War (1936-39)<br><br>the UN Mission for the Referendum in Western Sahara (MINURSO) was established by Security Council resolution 690 in April 1991 in accordance with settlement proposals accepted in August 1988 by Morocco and the Polisario Front; MINURSO was unable to carry out all the original settlement proposals, but continues to monitor the cease-fire and reduce the threat of mines and unexploded ordnance, and has provided logistic support to the Office of the UN High Commissioner for Refugees (UNHCR) with personnel and air and ground assets (2024)<br>
+the Royal Armed Forces (FAR) are responsible for protecting Morocco’s national interests, sovereignty, and territorial integrity; key areas of concern for the FAR include international terrorism, maritime security, and regional challenges such as the Polisario Front in Western Sahara and Algeria; the Polisario Front (Popular Front for the Liberation of Saguia el Hamra and Rio de Oro), an organization that seeks the independence of Western Sahara, disputes Morocco’s claim of sovereignty over the territory; Moroccan and Polisario forces fought intermittently from 1975, when Spain relinquished colonial authority over the territory, until a 1991 cease-fire and the establishment of a UN peacekeeping mission; the Polisario withdrew from the cease-fire in November 2020, and since then there have been reports of low-intensity hostilities between Morocco and the Polisario Front across the 2,500-kilometer-long berm built in 1987 that separates the two sides; Algeria is seen as a regional rival and has openly backed the Polisario Front<br><br>the FAR participates in international peacekeeping operations, as well as both bilateral and multinational training exercises; it has relations with a variety of partners including the militaries of France, Qatar, Saudi Arabia, Spain, and the US, as well as NATO, the Arab League, and the African Union; Morocco has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the FAR was created in May 1956; Moroccans were recruited for service in the Spahi and Tirailleur regiments of the French Army during the period of the French protectorate (1912-1956), and Moroccans fought under the French Army during both World Wars, as well as the First Indochina War (1946-1954); the Spanish Army recruited Moroccans from the Spanish Protectorate during both the Rif War (1921-26) and the Spanish Civil War (1936-39)<br><br>the UN Mission for the Referendum in Western Sahara (MINURSO) was established by Security Council resolution 690 in April 1991 in accordance with settlement proposals accepted in August 1988 by Morocco and the Polisario Front; MINURSO was unable to carry out all the original settlement proposals, but continues to monitor the cease-fire and reduce the threat of mines and unexploded ordnance, and has provided logistic support to the Office of the UN High Commissioner for Refugees (UNHCR) (2025)<br>
 
 ## Terrorism
 
@@ -703,7 +697,4 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 5,250 (Syria) (mid-year 2022)<br>
-
-**Illicit drugs**<br>
-<p>one of the world’s largest cannabis-producing country with Europe as the main  market; hashish is smuggled to South America and the Caribbean where it is exchanged for cocaine which is distributed in Europe; MDMA (ecstasy), originating in Belgium and the Netherlands is smuggled into northern Morocco for sale on the domestic market</p><br>
 

@@ -236,10 +236,10 @@ _female_: 91% (2020 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation from agricultural clearing and international demand for timber; soil erosion from overgrazing and poor cultivation methods (including slash-and-burn agriculture); desertification; loss of biodiversity; industrial pollution of water supplies used for drinking and irrigation<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands,<br>
 _signed, but not ratified_: Environmental Modification, Marine Life Conservation<br>
 
@@ -400,8 +400,9 @@ llama, Andean condor; two national flowers, the cantuta and the patuju<br>
 red, yellow, green<br>
 
 **National anthem**<br>
-_name_: "Cancion Patriotica" (Patriotic Song)<br>
+_title_: "Cancion Patriotica" (Patriotic Song)<br>
 _lyrics/music_: Jose Ignacio de SANJINES/Leopoldo Benedetto VINCENTI<br>
+_history_: adopted 1852<br>
 <strong>note:</strong> adopted 1852<br>
 
 **National heritage**<br>
@@ -696,5 +697,5 @@ has a small space program focused on acquiring and operating satellites; operate
 _refugees (country of origin)_: 16,350 (Venezuela) (2023)<br>
 
 **Illicit drugs**<br>
-<p>the third-largest source country of cocaine and a major transit country for Peruvian cocaine; coca cultivation in 2021 totaled 39,700 hectares (ha); most  cocaine is exported to other Latin American countries, especially Brazil, Paraguay, and Argentina, for domestic consumption, or for onward transit from those countries to West Africa and Europe, not the United States.</p> <p> </p><br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>
 

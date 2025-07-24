@@ -141,7 +141,7 @@ _total population_: 0.94 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
-76 deaths/100,000 live births (2020 est.)<br>
+80 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 31.5 deaths/1,000 live births (2024 est.)<br>
@@ -219,16 +219,16 @@ _Education expenditure (% GDP)_: 16.4% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 13.5% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_total population_: 98% (2018 est.) NA<br>
-_male_: 97.3% (2018 est.) NA<br>
-_female_: 98.6% (2018 est.) NA<br>
+_total population_: 98% (2018 est.)<br>
+_male_: 97.3% (2018 est.)<br>
+_female_: 98.6% (2018 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 heavy pollution in lagoon of south Tarawa atoll due to overcrowding mixed with traditional practices such as lagoon latrines and open-pit dumping; coastal erosion<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -360,8 +360,9 @@ frigatebird<br>
 red, white, blue, yellow<br>
 
 **National anthem**<br>
-_name_: "Teirake kaini Kiribati" (Stand Up, Kiribati)<br>
+_title_: "Teirake kaini Kiribati" (Stand Up, Kiribati)<br>
 _lyrics/music_: Urium Tamuera IOTEBA<br>
+_history_: adopted 1979<br>
 <strong>note:</strong> adopted 1979<br>
 
 **National heritage**<br>
@@ -581,7 +582,7 @@ _key ports_: Canton Island, English Harbor, Tarawa Atoll<br>
 Kiribati Police Service (includes Maritime Police) (2025)<br>
 
 **Military - note**<br>
-Australia, NZ, and the US have provided security assistance; Kiribati has a "ship rider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Kiribati's designated exclusive economic zone (EEZ) or on the high seas; ship rider agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
+Australia, NZ, and the US have provided security assistance; Kiribati has a "ship rider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Kiribati's designated exclusive economic zone (EEZ) or on the high seas; ship rider agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>
 
 ## Transnational Issues
 

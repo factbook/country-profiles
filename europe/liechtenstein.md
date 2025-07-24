@@ -186,11 +186,6 @@ _unimproved: total_: total: 0% of population (2020)<br>
 **Education expenditure**<br>
 2.6% of GDP (2011 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 16 years<br>
@@ -198,10 +193,10 @@ _female_: 14 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 some air pollution generated locally, some carried over from surrounding countries<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: Air Pollution-Multi-effect Protocol, Law of the Sea<br>
 
@@ -335,9 +330,10 @@ blue, red<br>
 the six motifs on the coat of arms provide a history of the royal House of Liechtenstein since 1719, when the country was founded; the small shield at the center is the royal family&rsquo;s gold-and-red coat of arms, the gold-crowned eagle signifies the Silesia family, the diamond wreath represents the Kuenringer family, the red-and-silver shield is the Duchy of Troppau, the black eagle comes from the coat of arms of a family that married into the royal line, and the golden hunting horn represents the Duchy of J&auml;gerndorf<br>
 
 **National anthem**<br>
-_name_: "Oben am jungen Rhein" (High Above the Young Rhine)<br>
+_title_: "Oben am jungen Rhein" (High Above the Young Rhine)<br>
 _lyrics/music_: Jakob Joseph JAUCH/Josef FROMMELT<br>
-<strong>note:</strong> adopted 1850, revised 1963; uses the tune of "God Save the King"<br>
+_history_: adopted 1850, revised 1963; uses the tune of the United Kingdom's anthem, "God Save the King"<br>
+<strong>note:</strong> adopted 1850, revised 1963; uses the tune of the United Kingdom's anthem, "God Save the King"<br>
 
 ## Economy
 
@@ -445,7 +441,4 @@ _by type_: bulk carrier 14, general cargo 1, other 2 (includes Switzerland)<br>
 no regular military forces; National Police of the Principality of Liechtenstein (Landespolizei des F&uuml;rstentums Liechtenstein)<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-has strengthened money laundering controls, but money laundering remains a concern due to Liechtenstein's sophisticated offshore financial services sector<br>
 

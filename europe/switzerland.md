@@ -220,11 +220,6 @@ _female_: 20.1% (2025 est.)<br>
 _Education expenditure (% GDP)_: 5.1% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 15.9% national budget (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
 _male_: 17 years<br>
@@ -232,10 +227,10 @@ _female_: 17 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution from vehicle emissions; water pollution from agricultural fertilizers; soil pollution from chemical contaminants; soil erosion; loss of biodiversity<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -397,9 +392,10 @@ Swiss cross (white cross on red field)<br>
 red, white<br>
 
 **National anthem**<br>
-_name_: the Swiss anthem has four names: "Schweizerpsalm" [German] "Cantique Suisse" [French] "Salmo svizzero," [Italian] "Psalm svizzer" [Romansch] (Swiss Psalm)<br>
+_title_: the Swiss anthem has four names: "Schweizerpsalm" [German] "Cantique Suisse" [French] "Salmo svizzero," [Italian] "Psalm svizzer" [Romansch] (Swiss Psalm)<br>
 _lyrics/music_: Leonhard WIDMER [German], Charles CHATELANAT [French], Camillo VALSANGIACOMO [Italian], and Flurin CAMATHIAS [Romansch]/Alberik ZWYSSIG<br>
-<strong>note:</strong> unofficially adopted 1961, officially 1981; the anthem has been popular in a number of Swiss cantons since its composition (in German) in 1841; translated into the other three official languages of the country (French, Italian, and Romansch), it is official in each of those languages<br>
+_history_: unofficially adopted 1961, officially 1981; the anthem has been popular in a number of Swiss cantons since it was composed (in German) in 1841; all four of the versions (German, French, Italian, Romansch) are considered official<br>
+<strong>note:</strong> unofficially adopted 1961, officially 1981; the anthem has been popular in a number of Swiss cantons since it was composed (in German) in 1841; all four of the versions (German, French, Italian, Romansch) are considered official<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 13 (9 cultural, 4 natural)<br>
@@ -694,7 +690,4 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 65,615 (Ukraine) (as of 5 March 2024)<br>
 _stateless persons_: 891 (2022)<br>
-
-**Illicit drugs**<br>
-<p>major source of precursor chemicals used in the production of illicit narcotics; a significant importer and exporter of ephedrine and pseudoephedrine;</p><br>
 

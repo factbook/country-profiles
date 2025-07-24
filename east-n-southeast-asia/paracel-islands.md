@@ -79,7 +79,7 @@ a population of over 1,000 Chinese resides on Woody Island, the largest of the P
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 harm to reef systems from China's use of dredged sand and coral to build artificial islands; damage to ecosystem from human activities, including military operations, infrastructure construction, and tourism&nbsp;<br>
 
 **Climate**<br>

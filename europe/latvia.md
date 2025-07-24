@@ -213,11 +213,6 @@ _female_: 16.4% (2025 est.)<br>
 _Education expenditure (% GDP)_: 5.4% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 13.1% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: 99.9%<br>
-_male_: 99.9%<br>
-_female_: 99.9% (2021)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 16 years<br>
@@ -225,10 +220,10 @@ _female_: 17 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 some soil, water, and air pollution&nbsp;<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Persistent Organic Pollutants, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -370,9 +365,10 @@ white wagtail (bird)<br>
 maroon, white<br>
 
 **National anthem**<br>
-_name_: "Dievs, sveti Latviju!" (God Bless Latvia)<br>
+_title_: "Dievs, sveti Latviju!" (God Bless Latvia)<br>
 _lyrics/music_: Karlis BAUMANIS<br>
-<strong>note:</strong> adopted 1920, restored 1990; first performed in 1873 while Latvia was a part of Russia; banned during the Soviet occupation from 1940 to 1990<br>
+_history_: adopted 1920, restored 1990; first performed in 1873 when Latvia was part of Russia; banned during the Soviet occupation from 1940 to 1990<br>
+<strong>note:</strong> adopted 1920, restored 1990; first performed in 1873 when Latvia was part of Russia; banned during the Soviet occupation from 1940 to 1990<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (all cultural)<br>
@@ -662,7 +658,4 @@ the National Armed Forces are responsible for the defense of the country’s sov
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 47,615 (Ukraine) (as of 6 March 2024)<br>
 _stateless persons_: 195,354 (2022); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem<br>
-
-**Illicit drugs**<br>
-transshipment and destination point for cocaine, synthetic drugs, opiates, and cannabis from Southwest Asia, Western Europe, Latin America, and neighboring Baltic countries; despite improved legislation, vulnerable to money laundering due to nascent enforcement capabilities and comparatively weak regulation of offshore companies and the gaming industry; CIS organized crime (including counterfeiting, corruption, extortion, stolen cars, and prostitution) accounts for most laundered proceeds<br>
 

@@ -139,7 +139,7 @@ _65 years and over_: 0.86 male(s)/female<br>
 _total population_: 1.03 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-38 deaths/100,000 live births (2020 est.)<br>
+30 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 9.7 deaths/1,000 live births (2024 est.)<br>
@@ -217,16 +217,14 @@ _Education expenditure (% GDP)_: 4.2% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 11.6% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_total population_: 99.1%<br>
-_male_: 99.1%<br>
 _female_: 92.4% (2021 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution from waste incineration and vehicle emissions; deforestation and soil erosion; soil erosion from clearing land by bush burning<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -366,9 +364,10 @@ Fijian canoe<br>
 light blue<br>
 
 **National anthem**<br>
-_name_: "God Bless Fiji"<br>
+_title_: "God Bless Fiji"<br>
 _lyrics/music_: Michael Francis Alexander PRESCOTT/C. Austin MILES (adapted by Michael Francis Alexander PRESCOTT)<br>
-<strong>note:</strong> adopted 1970; known in Fijian as "Meda Dau Doka" (Let Us Show Pride); adapted from the hymn, "Dwelling in Beulah Land," the anthem's English lyrics are generally sung, although they differ in meaning from the official Fijian lyrics<br>
+_history_: adopted 1970; known in Fijian as "Meda Dau Doka" (Let Us Show Pride); adapted from the hymn, "Dwelling in Beulah Land," the anthem's English lyrics are usually used, although they differ in meaning from the official Fijian lyrics<br>
+<strong>note:</strong> adopted 1970; known in Fijian as "Meda Dau Doka" (Let Us Show Pride); adapted from the hymn, "Dwelling in Beulah Land," the anthem's English lyrics are usually used, although they differ in meaning from the official Fijian lyrics<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

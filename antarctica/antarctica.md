@@ -66,7 +66,7 @@ no permanent inhabitants, but staff is present at year-round and summer-only res
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 size of ozone hole over continent; ice loss<br>
 
 **Climate**<br>

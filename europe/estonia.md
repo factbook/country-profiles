@@ -213,11 +213,6 @@ _female_: 18.3% (2025 est.)<br>
 _Education expenditure (% GDP)_: 5.7% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 14.6% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: 99.9%<br>
-_male_: 99.9%<br>
-_female_: 99.9% (2021)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 15 years<br>
@@ -225,10 +220,10 @@ _female_: 17 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution from sulfur dioxide from oil-shale-burning power plants; coastal seawater pollution<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -371,9 +366,10 @@ barn swallow, cornflower<br>
 blue, black, white<br>
 
 **National anthem**<br>
-_name_: "Mu isamaa, mu onn ja room" (My Native Land, My Pride and Joy)<br>
+_title_: "Mu isamaa, mu onn ja room" (My Native Land, My Pride and Joy)<br>
 _lyrics/music_: Johann Voldemar JANNSEN/Fredrik PACIUS<br>
-<strong>note:</strong> adopted 1920, though banned between 1940 and 1990 under Soviet occupation; the anthem, used in Estonia since 1869, shares the same melody as Finland's but has different lyrics<br>
+_history_: adopted 1920, but banned between 1940 and 1990 under Soviet occupation; unofficially in use since 1869, it has the same melody as Finland's anthem, but with different lyrics<br>
+<strong>note:</strong> adopted 1920, but banned between 1940 and 1990 under Soviet occupation; unofficially in use since 1869, it has the same melody as Finland's anthem, but with different lyrics<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>
@@ -662,7 +658,4 @@ Estonia’s defense policy aims to guarantee the country’s independence and so
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 38,020 (Ukraine) (as of 2 March 2024)<br>
 _stateless persons_: 70,604 (2022); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
-
-**Illicit drugs**<br>
-producer of synthetic drugs; important transshipment zone for cannabis, cocaine, opiates, and synthetic drugs since joining the European Union and the Schengen Accord; potential money laundering related to organized crime and drug trafficking is a concern, as is possible use of the gambling sector to launder funds; major use of opiates and ecstasy<br>
 

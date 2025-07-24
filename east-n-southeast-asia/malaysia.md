@@ -224,10 +224,10 @@ _female_: 14 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution from industrial and vehicular emissions; water pollution from raw sewage; deforestation; smoke/haze from Indonesian forest fires; endangered species; coastal reclamation damaging mangroves and turtle nesting sites<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -385,9 +385,10 @@ tiger, hibiscus<br>
 gold, black<br>
 
 **National anthem**<br>
-_name_: "Negaraku" (My Country)<br>
+_title_: "Negaraku" (My Country)<br>
 _lyrics/music_: collective, led by Tunku ABDUL RAHMAN/Pierre Jean DE BERANGER<br>
-<strong>note:</strong> adopted 1957; full version only performed in the presence of the king; the tune, which was adopted from a popular French melody titled "La Rosalie," was originally the anthem of Perak, one of Malaysia's 13 states<br>
+_history_: adopted 1957; full version only performed in the king's presence; the tune was adopted from a popular French melody called "La Rosalie" and was originally the anthem of Perak, one of Malaysia's 13 states<br>
+<strong>note:</strong> adopted 1957; full version only performed in the king's presence; the tune was adopted from a popular French melody called "La Rosalie" and was originally the anthem of Perak, one of Malaysia's 13 states<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>
@@ -699,7 +700,4 @@ Abu Sayyaf Group, al-Qa'ida, Islamic State of Iraq and ash-Sham (ISIS) <br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 157,731 (Burma) (refugees and asylum seekers) (2023)<br>
 _stateless persons_: 113,930 (2022); note - Malaysia's stateless population consists of Rohingya refugees from Burma, ethnic Indians, and the children of Filipino and Indonesian illegal migrants; Burma stripped the Rohingya of their nationality in 1982; Filipino and Indonesian children who have not been registered for birth certificates by their parents or who received birth certificates stamped "foreigner" are not eligible to attend government schools; these children are vulnerable to statelessness should they not be able to apply to their parents' country of origin for passports<br>
-
-**Illicit drugs**<br>
-<p>not a source country for illicit drugs bound for the United States but is a significant transit country for drugs destined for Australia;  drugs trafficked to Malaysia include crystal methamphetamine and lesser quantities of MDMA (ecstasy), cannabis, heroin, and ketamine; significant number of the population abuse drugs especially  methamphetamine</p><br>
 

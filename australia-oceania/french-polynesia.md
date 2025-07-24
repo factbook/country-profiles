@@ -176,14 +176,9 @@ _unimproved: total_: total: 3% of population (2020 est.)<br>
 **Currently married women (ages 15-49)**<br>
 27.2% (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 sea-level rise; cyclones, storms, and tsunamis producing floods, landslides, erosion, and reef damage; droughts; fresh water scarcity<br>
 
 **Climate**<br>
@@ -303,9 +298,10 @@ outrigger canoe, Tahitian gardenia flower (<em>Gardenia taitensis</em>)<br>
 red, white<br>
 
 **National anthem**<br>
-_name_: "Ia Ora 'O Tahiti Nui" (Long Live Tahiti Nui)<br>
-_lyrics/music_: Maeva BOUGES, Irmine TEHEI, Angele TEROROTUA, Johanna NOUVEAU, Patrick AMARU, Louis MAMATUI, and Jean-Pierre CELESTIN (the compositional group created both the lyrics and music)<br>
-<strong>note:</strong> adopted 1993; serves as a local anthem; as a territory of France, "La Marseillaise" is official (see France)<br>
+_title_: "La Marseillaise"<br>
+_lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
+_history_: official anthem, as a French territory<br>
+<strong>note:</strong> adopted 1993; serves as a local anthem; "La Marseillaise" is the official anthem for French Polynesia, as a territory of France (see France)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 cultural, 1 mixed); note - excerpted from the France entry<br>

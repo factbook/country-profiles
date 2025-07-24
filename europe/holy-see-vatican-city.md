@@ -94,10 +94,10 @@ _improved: total_: total: 100% of population (2019 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 some air pollution from the surrounding city of Rome<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Comprehensive Nuclear Test Ban, Ozone Layer Protection<br>
 _signed, but not ratified_: Air Pollution, Environmental Modification<br>
 
@@ -220,8 +220,9 @@ crossed keys under a papal tiara<br>
 yellow, white<br>
 
 **National anthem**<br>
-_name_: "Inno e Marcia Pontificale" (Hymn and Pontifical March); often called The Pontifical Hymn<br>
+_title_: "Inno e Marcia Pontificale" (Hymn and Pontifical March), often called "The Pontifical Hymn"<br>
 _lyrics/music_: Raffaello LAVAGNA/Charles-Francois GOUNOD<br>
+_history_: adopted 1950<br>
 <strong>note:</strong> adopted 1950<br>
 
 **National heritage**<br>
@@ -282,7 +283,4 @@ Pontifical Swiss Guard Corps: 19-30 years of age for voluntary military service;
 defense is the responsibility of Italy<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-NA<br>
 

@@ -140,7 +140,7 @@ _65 years and over_: 0.84 male(s)/female<br>
 _total population_: 1 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-22 deaths/100,000 live births (2020 est.)<br>
+24 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 6.7 deaths/1,000 live births (2024 est.)<br>
@@ -216,11 +216,6 @@ _women married by age 18_: 17.1% (2018)<br>
 _Education expenditure (% GDP)_: 6.2% of GDP (2021 est.)<br>
 _Education expenditure (% national budget)_: 31.2% national budget (2021 est.)<br>
 
-**Literacy**<br>
-_total population_: 98%<br>
-_male_: 98%<br>
-_female_: 94.1% (2018 est.)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
 _male_: 16 years<br>
@@ -228,10 +223,10 @@ _female_: 17 years (2019)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation, largely from clearing land for cattle ranching and agriculture; soil erosion; coastal marine pollution; fisheries protection; solid waste management; air pollution<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Marine Life Conservation<br>
 
@@ -377,9 +372,10 @@ blue, white, red<br>
 the Costa Rican coat of arms highlights the country&rsquo;s natural beauty and history; three volcanoes, each topped with a white cloud, are surrounded with water, symbolizing the seaports of the Pacific and Atlantic Oceans; the rising sun in the background stands for the birth of a new nation, and the seven white stars for the country's provinces; the two merchant ships carrying Costa Rica&rsquo;s flag are a reminder of the maritime trade that shaped the country's history<br>
 
 **National anthem**<br>
-_name_: "Himno Nacional de Costa Rica" (National Anthem of Costa Rica)<br>
+_title_: "Himno Nacional de Costa Rica" (National Anthem of Costa Rica)<br>
 _lyrics/music_: Jose Maria ZELEDON Brenes/Manuel Maria GUTIERREZ<br>
-<strong>note:</strong> adopted 1949; the anthem's music was originally written for an 1853 welcome ceremony for diplomatic missions from the US and UK; the lyrics were added in 1903<br>
+_history_: adopted 1949; the music was originally written for a welcome ceremony in 1853 for the US and UK diplomatic missions; the lyrics were added in 1903<br>
+<strong>note:</strong> adopted 1949; the music was originally written for a welcome ceremony in 1853 for the US and UK diplomatic missions; the lyrics were added in 1903<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (1 cultural, 3 natural)<br>
@@ -673,5 +669,5 @@ _refugees (country of origin)_: 29,405 (Venezuela) (economic and political crisi
 _stateless persons_: 192 (2022)<br>
 
 **Illicit drugs**<br>
-<br><br> <p>Costa Rica remains a significant transshipment point for cocaine enroute to the United States from South America; a key transit point in international narcotics trafficking; transit and warehousing hub for illicit drug trafficking; growing domestic drug consumption problem; a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>
 

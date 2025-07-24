@@ -212,11 +212,6 @@ _other alcohols_: 1.63 liters of pure alcohol (2019 est.)<br>
 **Currently married women (ages 15-49)**<br>
 61.4% (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: 60.7%<br>
-_male_: 65.4%<br>
-_female_: 56.1% (2018)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 8 years<br>
 _male_: 8 years<br>
@@ -224,10 +219,10 @@ _female_: 7 years (2015)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 <p>water pollution; inadequate supplies of potable water; water scarcity and drought; overhunting; soil erosion; desertification; deforestation; loss of biodiversity</p> <p><strong> </strong></p><br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -359,8 +354,9 @@ secretary bird<br>
 red, white, black, green<br>
 
 **National anthem**<br>
-_name_: "Nahnu Djundulla Djundulwatan" (We Are the Army of God and of Our Land)<br>
+_title_: "Nahnu Djundulla Djundulwatan" (We Are the Army of God and of Our Land)<br>
 _lyrics/music_: Sayed Ahmad Muhammad SALIH/Ahmad MURJAN<br>
+_history_: adopted 1956; originally served as the anthem of the Sudanese military<br>
 <strong>note:</strong> adopted 1956; originally served as the anthem of the Sudanese military<br>
 
 **National heritage**<br>

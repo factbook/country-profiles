@@ -239,10 +239,10 @@ _female_: 15 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution around Belgrade and other industrial cities; water pollution from industrial wastes in rivers; inadequate management of domestic, industrial, and hazardous waste<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Persistent Organic Pollutants, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -393,9 +393,10 @@ white double-headed eagle<br>
 red, blue, white<br>
 
 **National anthem**<br>
-_name_: "Boze pravde" (God of Justice)<br>
+_title_: "Boze pravde" (God of Justice)<br>
 _lyrics/music_: Jovan DORDEVIC/Davorin JENKO<br>
-<strong>note:</strong> adopted 1904; song originally written as part of a play in 1872 and has been used as an anthem by the Serbian people throughout the 20th and 21st centuries<br>
+_history_: adopted 1904; song originally written as part of a play in 1872, and the Serbian people have used it as an anthem in the 20th and 21st centuries<br>
+<strong>note:</strong> adopted 1904; song originally written as part of a play in 1872, and the Serbian people have used it as an anthem in the 20th and 21st centuries<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (all cultural)<br>
@@ -682,7 +683,4 @@ _stateless persons_: 2,594 (includes stateless persons in Kosovo) (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List — the government has devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards; therefore, Serbia was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3 and remained on Tier 2 Watch List for the third consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/serbia/<br>
-
-**Illicit drugs**<br>
-<p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine destined for European markets</p><br>
 

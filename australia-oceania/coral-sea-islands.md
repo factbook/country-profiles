@@ -68,7 +68,7 @@ _total_: no permanent inhabitants<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 no permanent freshwater resources; damaging activities include coral mining, fishing practices (overfishing, blast fishing)<br>
 
 **Climate**<br>

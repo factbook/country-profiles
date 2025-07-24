@@ -120,6 +120,3 @@ defense is the responsibility of Australia<br>
 
 ## Transnational Issues
 
-**Illicit drugs**<br>
-NA<br>
-

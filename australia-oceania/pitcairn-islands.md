@@ -93,7 +93,7 @@ a handful of inhabitants, most residing near the village of Adamstown<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation (only a small portion of the original forest remains because of burning and clearing for settlement)<br>
 
 **Climate**<br>
@@ -188,9 +188,10 @@ Birthday of King CHARLES III, second Saturday in June (1948); Discovery Day (Pit
 blue with the UK flag in the upper hoist-side quadrant and the Pitcairn Islander coat of arms centered on the outer half of the flag; the green, yellow, and blue of the shield represents the island rising from the ocean; the green field features a yellow anchor with a Bible over it (both were found on the <em>HMS Bounty</em>); a Pitcairn Island wheelbarrow is on the crest, with a flowering twig of miro (a local plant)<br>
 
 **National anthem**<br>
-_name_: "We From Pitcairn Island"<br>
-_lyrics/music_: unknown/Frederick M. LEHMAN<br>
-<strong>note:</strong> serves as a local anthem; as an overseas territory of the UK, "God Save the King" is official (see United Kingdom)<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: official anthem, as a UK overseas territory<br>
+<strong>note:</strong> serves as a local anthem; "God Save the King" is the official anthem for the islands, as a UK overseas territory (see United Kingdom)<br>
 
 ## Economy
 

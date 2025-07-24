@@ -216,11 +216,6 @@ _female_: 6.4% (2025 est.)<br>
 _Education expenditure (% GDP)_: 6.6% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 15.9% national budget (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: 99.6%<br>
-_male_: 99.7%<br>
-_female_: 99.5% (2021)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 14 years<br>
@@ -228,10 +223,10 @@ _female_: 15 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 soil and water pollution from heavy use of agricultural chemicals; extensive soil erosion and declining soil fertility from farming methods<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Persistent Organic Pollutants, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Air Pollution-Multi-effect Protocol<br>
 
@@ -377,8 +372,9 @@ aurochs (type of wild cattle)<br>
 blue, yellow, red<br>
 
 **National anthem**<br>
-_name_: "Limba noastra" (Our Language)<br>
+_title_: "Limba noastra" (Our Language)<br>
 _lyrics/music_: Alexei MATEEVICI/Alexandru CRISTEA<br>
+_history_: adopted 1994<br>
 <strong>note:</strong> adopted 1994<br>
 
 **National heritage**<br>
@@ -651,14 +647,11 @@ the military's inventory is limited and almost entirely comprised of Soviet-era 
 <strong>note:</strong> as of 2024, women made up about 23% of the military's full-time personnel<br>
 
 **Military - note**<br>
-the National Army is responsible for defense against external aggression, suppressing illegal military violence along the state border or inside the country, and supporting other internal security forces in maintaining public order if necessary; its primary focuses are Transnistrian separatist forces and their Russian backers; the 1992 war between Moldovan forces and the Transnistrian separatists backed by Russian troops ended with a cease-fire; the separatists maintain several armed paramilitary combat units, plus other security forces and reserves; Russia maintains approximately 1,500 troops in the breakaway region, including some Transnistrian locals who serve as Russian troops; some of those troops are under the authority of a peacekeeping force known as a Joint Control Commission that also includes Moldovan and separatist personnel, while the remainder of the Russian contingent guard a depot of Soviet-era ammunition and train Transnistrian separatist forces<br><br>Moldova is constitutionally neutral but has maintained a relationship with NATO since 1992; bilateral cooperation started when Moldova joined NATO’s Partnership for Peace program in 1994; Moldova has contributed small numbers of troops to NATO’s Kosovo Force (KFOR) since 2014, and a civilian NATO liaison office was established in Moldova in 2017 at the request of the Moldovan Government to promote practical cooperation and facilitate support (2024)<br>
+the National Army is responsible for defense against external aggression, suppressing illegal military violence along the state border or inside the country, and supporting other internal security forces in maintaining public order if necessary; its primary focuses are Transnistrian separatist forces and their Russian backers; the 1992 war between Moldovan forces and the Transnistrian separatists backed by Russian troops ended with a cease-fire; the separatists maintain several armed paramilitary combat units, plus other security forces and reserves; Russia maintains approximately 1,500 troops in the breakaway region, including some Transnistrian locals who serve as Russian troops; some of those troops are under the authority of a peacekeeping force known as a Joint Control Commission that also includes Moldovan and separatist personnel, while the remainder of the Russian contingent guard a depot of Soviet-era ammunition and train separatist forces<br><br>Moldova is constitutionally neutral but has maintained a relationship with NATO since 1992 and since 2022 has enhanced bilateral security cooperation with some NATO members; it has contributed small numbers of troops to NATO’s Kosovo Force (KFOR) since 2014, and a civilian NATO liaison office was established in Moldova in 2017 at the request of the Moldovan Government to promote practical cooperation and facilitate support; in 2024, Moldova signed a security and defense partnership agreement with the EU; it maintains close security relations with Romania, a member of the EU and NATO (2025)<br>
 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 116,855 (Ukraine) (as of 7 April 2024)<br>
 _stateless persons_: 1,701 (2022)<br>
-
-**Illicit drugs**<br>
-limited cultivation of opium poppy and cannabis, mostly for CIS consumption; transshipment point for illicit drugs from Southwest Asia via Central Asia to Russia, Western Europe, and possibly the US; widespread crime and underground economic activity<br>
 

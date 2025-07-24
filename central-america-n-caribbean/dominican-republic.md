@@ -237,10 +237,10 @@ _female_: 15 years (2017)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 soil eroding into the sea damages coral reefs; deforestation<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -396,9 +396,10 @@ palmchat (bird)<br>
 red, white, blue<br>
 
 **National anthem**<br>
-_name_: "Himno Nacional" (National Anthem)<br>
+_title_: "Himno Nacional" (National Anthem)<br>
 _lyrics/music_: Emilio PRUD'HOMME/Jose REYES<br>
-<strong>note:</strong> adopted 1934; also known as "Quisqueyanos valientes" (Valient Sons of Quisqueye); the anthem never refers to the people as Dominican but rather calls them "Quisqueyanos," a reference to the indigenous name of the island<br>
+_history_: adopted 1934; also known as "Quisqueyanos valientes" (Valiant Sons of Quisqueye); the anthem refers to the Dominican people as "Quisqueyanos," which comes from the ethnic name for the island<br>
+<strong>note:</strong> adopted 1934; also known as "Quisqueyanos valientes" (Valiant Sons of Quisqueye); the anthem refers to the Dominican people as "Quisqueyanos," which comes from the ethnic name for the island<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -695,5 +696,5 @@ _stateless persons_: 133,770 (2016); note - a September 2013 Constitutional Cour
 _tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore the Dominican Republic remained on Tier 2 Watch List for the second consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/dominican-republic/<br>
 
 **Illicit drugs**<br>
-<p>major transshipment point for cocaine shipments to the United States and Europe in the Caribbean; some drugs are consumed locally.</p> <p> </p> <p> </p><br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country (2025)<br>
 

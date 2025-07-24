@@ -221,11 +221,6 @@ _female_: 30.3% (2025 est.)<br>
 _Education expenditure (% GDP)_: 3.9% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 9.4% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: 98.4%<br>
-_male_: 98.7%<br>
-_female_: 98.2% (2021)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 13 years<br>
@@ -233,10 +228,10 @@ _female_: 14 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution from industrial emissions; rivers polluted from raw sewage, heavy metals, detergents; deforestation; forest damage from air pollution and acid rain; soil contamination from heavy metals from metallurgical plants and industrial wastes<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -380,11 +375,12 @@ lion<br>
 white, green, red<br>
 
 **National coat of arms**<br>
-<p>Bulgaria’s coat of arms in the national colors of white, green, and red was adopted in 1997; the three lions are a national symbol for strength, courage, and leadership that was used during the country’s liberation movement in the 1870s and the kingdom period in the early 20th century; above the shield is the crown of Bulgaria (originally the crown of the medieval Bulgarian tsars) with a gold cross on top; a white scroll over the oak branches bears the Bulgarian national motto, “United we stand strong”</p> <p> </p><br>
+Bulgaria&rsquo;s coat of arms in the national colors of white, green, and red was adopted in 1997; the three lions are a national symbol for strength, courage, and leadership that was used during the country&rsquo;s liberation movement in the 1870s and the kingdom period in the early 20th century; above the shield is the crown of Bulgaria (originally the crown of the medieval Bulgarian tsars) with a gold cross on top; a white scroll over the oak branches bears the Bulgarian national motto, &ldquo;United we stand strong&rdquo;<br>
 
 **National anthem**<br>
-_name_: "Mila Rodino" (Dear Homeland)<br>
+_title_: "Mila Rodino" (Dear Homeland)<br>
 _lyrics/music_: Tsvetan Tsvetkov RADOSLAVOV<br>
+_history_: adopted 1964; composed in 1885 by a student en route to fight in the Serbo-Bulgarian War<br>
 <strong>note:</strong> adopted 1964; composed in 1885 by a student en route to fight in the Serbo-Bulgarian War<br>
 
 **National heritage**<br>
@@ -708,7 +704,4 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 _refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 72,775 (Ukraine) (as of 8 March 2024)<br>
 _stateless persons_: 1,129 (2022)<br>
 <strong>note:</strong> 106,227 estimated refugee and migrant arrivals (January 2015-January 2024); Bulgaria is predominantly a transit country<br>
-
-**Illicit drugs**<br>
-source country for amphetamine tablets<br>
 

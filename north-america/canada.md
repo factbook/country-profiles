@@ -227,11 +227,6 @@ _female_: 8% (2025 est.)<br>
 _Education expenditure (% GDP)_: 4.5% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 11.2% national budget (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
 _male_: 16 years<br>
@@ -239,10 +234,10 @@ _female_: 17 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution and acid rain from vehicle emissions, coal-burning, and metal smelting severely affecting lakes and forests; seawater pollution from agriculture, industry, mining, and forestry&nbsp;<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Air Pollution-Volatile Organic Compounds, Marine Life Conservation<br>
 
@@ -397,9 +392,10 @@ maple leaf, beaver<br>
 red, white<br>
 
 **National anthem**<br>
-_name_: "O Canada"<br>
-_lyrics/music_: Adolphe-Basile ROUTHIER [French], Robert Stanley WEIR [English]/Calixa LAVALLEE<br>
-<strong>note:</strong> adopted 1980; originally written in 1880, "O Canada" served as an unofficial anthem many years before its official adoption; the anthem has French and English versions whose lyrics differ; as a Commonwealth realm, in addition to the national anthem, "God Save the King" serves as the royal anthem (see United Kingdom)<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: royal anthem, as a Commonwealth country<br>
+<strong>note:</strong> adopted 1980; originally written in 1880, it served as an unofficial anthem for many years; the anthem has French and English versions whose lyrics differ; in addition to the national anthem, "God Save the King" serves as the royal anthem for the Commonwealth country (see United Kingdom)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 22 (10 cultural, 11 natural, 1 mixed) (2021)<br>
@@ -721,5 +717,5 @@ _refugees (country of origin)_: 22,400 (Venezuela) (refugees and migrants) (2020
 _stateless persons_: 4,323 (2022)<br>
 
 **Illicit drugs**<br>
-<p>transnational criminal organizations trafficked cocaine, opium, methamphetamine, other synthetic drugs, and prescription drugs (some of which transited the United States) to Canada for domestic consumption; a source of synthetic drugs (including synthetic opioids), cannabis, and MDMA trafficked to the United States;  a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>
+_USG identification_: <br>major precursor-chemical producer (2025)<br>
 

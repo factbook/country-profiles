@@ -144,7 +144,7 @@ _total population_: 0.92 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data does not cover Abkhazia and South Ossetia<br>
 
 **Maternal mortality ratio**<br>
-28 deaths/100,000 live births (2020 est.)<br>
+20 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 21.7 deaths/1,000 live births (2024 est.)<br>
@@ -233,10 +233,10 @@ _female_: 16 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution, particularly in Rust'avi; heavy water pollution of Mtkvari River and the Black Sea; inadequate supplies of potable water; soil pollution from toxic chemicals; land and forest degradation; biodiversity loss; waste management<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -379,9 +379,10 @@ Saint George, lion<br>
 red, white<br>
 
 **National anthem**<br>
-_name_: "Tavisupleba" (Liberty)<br>
+_title_: "Tavisupleba" (Liberty)<br>
 _lyrics/music_: Davit MAGRADSE/Zakaria PALIASHVILI (adapted by Joseb KETSCHAKMADSE)<br>
-<strong>note:</strong> adopted 2004; after the Rose Revolution, a new anthem with music based on the operas "Abesalom da Eteri" and "Daisi" was adopted<br>
+_history_: adopted 2004, after the Rose Revolution; based on music from the operas "Abesalom da Eteri" and "Daisi"<br>
+<strong>note:</strong> adopted 2004, after the Rose Revolution; based on music from the operas "Abesalom da Eteri" and "Daisi"<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (3 cultural, 1 natural)<br>
@@ -677,7 +678,4 @@ the Defense Forces of Georgia (DFG) are responsible for protecting the independe
 _refugees (country of origin)_: 26,660 (Ukraine) (as of 30 December 2023)<br>
 _IDPs_: 308,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2022)<br>
 _stateless persons_: 530 (2022)<br>
-
-**Illicit drugs**<br>
-<p>a transit country for opiates produced in Asia trafficked into Ukraine or Moldova via the Black Sea for other European destinations; not a major corridor for synthetic drug smuggling operations; domestic synthetic market for ecstasy/MDMA, amphetamines, and cannabis with ecstasy laced with fentanyl the drug of choice</p><br>
 

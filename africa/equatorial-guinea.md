@@ -138,7 +138,7 @@ _65 years and over_: 1.09 male(s)/female<br>
 _total population_: 1.16 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-212 deaths/100,000 live births (2020 est.)<br>
+174 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 77.4 deaths/1,000 live births (2024 est.)<br>
@@ -195,17 +195,12 @@ _other alcohols_: 0.05 liters of pure alcohol (2019 est.)<br>
 **Currently married women (ages 15-49)**<br>
 60.2% (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: 95.3%<br>
-_male_: 97.4%<br>
-_female_: 93% (2015)<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation (agricultural expansion, fires, and grazing); desertification; water pollution; tap water non-potable; wildlife preservation<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 
@@ -358,8 +353,9 @@ silk cotton tree<br>
 green, white, red, blue<br>
 
 **National anthem**<br>
-_name_: "Caminemos pisando la senda" (Let Us Tread the Path)<br>
+_title_: "Caminemos pisando la senda" (Let Us Tread the Path)<br>
 _lyrics/music_: Atanasio Ndongo MIYONO/Atanasio Ndongo MIYONO or Ramiro Sanchez LOPEZ (disputed)<br>
+_history_: adopted 1968<br>
 <strong>note:</strong> adopted 1968<br>
 
 ## Economy

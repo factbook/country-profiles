@@ -226,10 +226,10 @@ _female_: 17 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution from industrial and vehicle emissions; water pollution from raw sewage; noise pollution; improper garbage disposal; soil degradation; widespread deforestation; pollution and ecosystem degradation from mining; wildlife conservation<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -393,9 +393,10 @@ huemul (mountain deer), Andean condor<br>
 red, white, blue<br>
 
 **National anthem**<br>
-_name_: "Himno Nacional de Chile" (National Anthem of Chile)<br>
+_title_: "Himno Nacional de Chile" (National Anthem of Chile)<br>
 _lyrics/music_: Eusebio LILLO Robles and Bernardo DE VERA y Pintado/Ramon CARNICER y Battle<br>
-<strong>note:</strong> music adopted 1828, original lyrics adopted 1818, adapted lyrics adopted 1847; under Augusto PINOCHET's military rule, a verse glorifying the army was added; however, as a protest, some citizens refused to sing this verse; it was removed when democracy was restored in 1990<br>
+_history_: music adopted 1828, original lyrics adopted 1818, adapted lyrics adopted 1847; under Augusto PINOCHET's military rule, a verse glorifying the army was added; some citizens refused to sing this verse as a protest, and it was removed when democracy was restored in 1990<br>
+<strong>note:</strong> music adopted 1828, original lyrics adopted 1818, adapted lyrics adopted 1847; under Augusto PINOCHET's military rule, a verse glorifying the army was added; some citizens refused to sing this verse as a protest, and it was removed when democracy was restored in 1990<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 7 (all cultural)<br>
@@ -696,7 +697,4 @@ has a space program with a considerable history, now largely focused on the acqu
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 444,423 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2023)<br>
-
-**Illicit drugs**<br>
-transshipment country for cocaine destined for Europe and the region; some money laundering activity, especially through the Iquique Free Trade Zone; imported precursors passed on to Bolivia; domestic cocaine consumption is rising, making Chile a significant consumer of cocaine<br>
 

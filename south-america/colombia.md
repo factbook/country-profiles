@@ -241,10 +241,10 @@ _female_: 15 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation from timber exploitation in the Amazon and the Choc&oacute; region; soil erosion; soil and water pollution from overuse of pesticides; air pollution, especially in Bogota, from vehicle emissions<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Law of the Sea<br>
 
@@ -402,9 +402,10 @@ Andean condor<br>
 yellow, blue, red<br>
 
 **National anthem**<br>
-_name_: "Himno Nacional de la Republica de Colombia" (National Anthem of the Republic of Colombia)<br>
+_title_: "Himno Nacional de la Republica de Colombia" (National Anthem of the Republic of Colombia)<br>
 _lyrics/music_: Rafael NUNEZ/Oreste SINDICI<br>
-<strong>note:</strong> adopted 1920; the anthem was created from an inspirational poem written by President Rafael NUNEZ<br>
+_history_: adopted 1920; the anthem comes from an inspirational poem written by President Rafael NUNEZ<br>
+<strong>note:</strong> adopted 1920; the anthem comes from an inspirational poem written by President Rafael NUNEZ<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 9 (6 cultural, 2 natural, 1 mixed)<br>
@@ -724,5 +725,5 @@ _IDPs_: 6,863,334 (conflict between government and illegal armed groups and drug
 _stateless persons_: 11 (2022)<br>
 
 **Illicit drugs**<br>
-<p>Colombia is the world’s top cocaine producer and exporter; is a source of heroin and marijuana; coca cultivation estimated at 234,000 hectares (ha) in 2021; pure cocaine production decreased to 972 metric tons in 2021; a major source of precursor or essential chemicals used in the production of illicit narcotics</p> <p> </p><br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>
 

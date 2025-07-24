@@ -228,11 +228,6 @@ _women married by age 18_: 7% (2015)<br>
 _Education expenditure (% GDP)_: 4.9% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 19.9% national budget (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: 99.8%<br>
-_male_: 99.8%<br>
-_female_: 99.7% (2018)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 15 years<br>
@@ -240,10 +235,10 @@ _female_: 16 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 radioactive or toxic chemical sites from former defense industries; severe industrial pollution in some cities; air and soil pollution (including dust storms) from chemical pesticides and natural salts left after two rivers were diverted; soil pollution from overuse of agricultural chemicals; salination from infrastructure and irrigation practices; water pollution; desertification<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -401,8 +396,9 @@ golden eagle<br>
 blue, yellow<br>
 
 **National anthem**<br>
-_name_: "Menin Qazaqstanim" (My Kazakhstan)<br>
+_title_: "Menin Qazaqstanim" (My Kazakhstan)<br>
 _lyrics/music_: Zhumeken NAZHIMEDENOV and Nursultan NAZARBAYEV/Shamshi KALDAYAKOV<br>
+_history_: adopted 2006; President Nursultan NAZARBAYEV played a role in revising the lyrics<br>
 <strong>note:</strong> adopted 2006; President Nursultan NAZARBAYEV played a role in revising the lyrics<br>
 
 **National heritage**<br>
@@ -706,7 +702,4 @@ has an active and ambitious space program that originated with the former Soviet
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 7,558 (2022)<br>
-
-**Illicit drugs**<br>
-<p>part of the "Northern Route," land drug trafficking route from Afghanistan to Russia and Europe; domestic manufacturing of synthetics increasing and domestic drug use trends to synthetic drugs outpacing heroin and cannabis;</p><br>
 

@@ -104,7 +104,7 @@ only Home Island and West Island are populated<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 limited freshwater resources; illegal fishing<br>
 
 **Climate**<br>
@@ -190,7 +190,10 @@ Australia Day (commemorates the arrival of the First Fleet of Australian settler
 the flag of Australia is used<br>
 
 **National anthem**<br>
-<p><strong>note:</strong> as a territory of Australia, "Advance Australia Fair" remains official as the national anthem, while "God Save the King" serves as the royal anthem (see Australia)</p><br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: royal anthem, as an Australian territory<br>
+<strong>note:</strong> because the islands are a territory of Australia, "Advance Australia Fair" is the national anthem, and "God Save the King" serves as the royal anthem (see Australia)<br>
 
 ## Economy
 

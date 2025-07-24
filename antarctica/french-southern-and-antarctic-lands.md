@@ -63,7 +63,7 @@ _total_: no permanent inhabitants<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 problems from introduction of foreign species on Iles Crozet; overfishing of Patagonian toothfish around Iles Crozet and Iles Kerguelen<br>
 
 **Climate**<br>
@@ -107,7 +107,10 @@ UPU<br>
 the flag of France is used<br>
 
 **National anthem**<br>
-<p><strong>note:</strong> as a territory of France, "La Marseillaise" is official (see France)</p><br>
+_title_: "La Marseillaise"<br>
+_lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
+_history_: official anthem, as a French territory<br>
+<strong>note:</strong> "La Marseillaise" is the official anthem for the French Southern and Antarctic Lands, as a territory of France (see France)<br>
 
 ## Economy
 

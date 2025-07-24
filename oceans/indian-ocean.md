@@ -66,7 +66,7 @@ major chokepoints include Bab el Mandeb, Strait of Hormuz, Strait of Malacca, so
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 marine pollution from ocean dumping, improper waste disposal, and oil spills; oil pollution in Arabian Sea, Persian Gulf, and Red Sea; threats to coral reefs; loss of biodiversity; endangered marine species&nbsp;<br>
 
 **Climate**<br>

@@ -193,17 +193,12 @@ _other alcohols_: 0.01 liters of pure alcohol (2019 est.)<br>
 _Education expenditure (% GDP)_: 11.6% of GDP (2020 est.)<br>
 _Education expenditure (% national budget)_: 18.6% national budget (2020 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 overfishing; sea-level rise; water and toxic pollution from mining; solid waste disposal<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -340,9 +335,10 @@ four five-pointed white stars on a light blue field, hibiscus flower<br>
 light blue, white<br>
 
 **National anthem**<br>
-_name_: "Patriots of Micronesia"<br>
+_title_: "Patriots of Micronesia"<br>
 _lyrics/music_: unknown/August Daniel BINZER<br>
-<strong>note:</strong> adopted 1991; also known as "Across All Micronesia"; the music is based on the 1820 German patriotic song "Ich hab mich ergeben", which was the West German national anthem from 1949-1950; variants of this tune are used in Johannes BRAHMS' "Festival Overture" and Gustav MAHLER's "Third Symphony"<br>
+_history_: adopted 1991; also known as "Across All Micronesia;" the music is based on the 1820 German patriotic song "Ich hab mich ergeben," which was the West German national anthem from 1949 to 1950<br>
+<strong>note:</strong> adopted 1991; also known as "Across All Micronesia;" the music is based on the 1820 German patriotic song "Ich hab mich ergeben," which was the West German national anthem from 1949 to 1950<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -529,10 +525,7 @@ _key ports_: Colonia, Lele Harbor, Moen, Pohnpei Harbor<br>
 no military forces; Federated States of Micronesia National Police (includes a maritime wing) (2025)<br>
 
 **Military - note**<br>
-defense is the responsibility of the US; in 1982, the FSM signed a Compact of Free Association (COFA) with the US, which granted the FSM financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986 and its funding was renewed in 2003; Micronesians can serve in the US armed forces<br><br>the FSM has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within the FSM's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
+defense is the responsibility of the US; in 1982, the FSM signed a Compact of Free Association (COFA) with the US, which granted the FSM financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986 and its funding was renewed in 2003; Micronesians can serve in the US armed forces<br><br>the FSM has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within the FSM's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-major consumer of cannabis<br>
 

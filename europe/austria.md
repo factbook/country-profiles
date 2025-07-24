@@ -221,11 +221,6 @@ _female_: 18.3% (2025 est.)<br>
 _Education expenditure (% GDP)_: 4.8% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 9% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 16 years<br>
@@ -233,10 +228,10 @@ _female_: 16 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 some forest degradation from air and soil pollution; soil pollution from agricultural chemicals; air pollution from coal- and oil-fired power stations and industrial plants, and from trucks transiting Austria; water pollution<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Air Pollution-Multi-effect Protocol, Antarctic-Environmental Protection<br>
 
@@ -392,9 +387,10 @@ eagle, edelweiss, Alpine gentian<br>
 red, white<br>
 
 **National anthem**<br>
-_name_: "Bundeshymne" (Federal Hymn)<br>
+_title_: "Bundeshymne" (Federal Hymn)<br>
 _lyrics/music_: Paula von PRERADOVIC/Wolfgang Amadeus MOZART or Johann HOLZER (disputed)<br>
-<strong>note 1:</strong> adopted 1947; the anthem is also known as "Land der Berge, Land am Strome" (Land of the Mountains, Land by the River); Austria adopted a new national anthem after World War II to replace the former imperial anthem composed by Franz Josef HAYDN, which had been appropriated by Germany in 1922 and was thereafter associated with the Nazi regime; a gender-neutral version of the lyrics was adopted by the Austrian Federal Assembly in fall 2011 and became effective 1 January 2012<br><br><strong>note 2:</strong> the beloved waltz "The Blue Danube" ("An der schoenen, blauen Donau"), composed in 1866 by the Austrian composer Johann STRAUSS II, is consistently referred to as Austria's unofficial national anthem <br>
+_history_: adopted 1947; the anthem is also known as "Land der Berge, Land am Strome" (Land of the Mountains, Land by the River); Austria adopted a new national anthem after World War II to replace the former imperial anthem composed by Franz Josef HAYDN, which Germany had appropriated in 1922 and was thereafter associated with the Nazi regime; the Austrian Federal Assembly adopted a gender-neutral version of the lyrics in 2011<br>
+<strong>note:</strong> the beloved waltz "The Blue Danube" ("An der schoenen, blauen Donau"), composed in 1866 by Johann STRAUSS II, is widely considered Austria's unofficial national anthem <br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 12 (11 cultural, 1 natural)<br>
@@ -694,7 +690,4 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 68,700 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 84,135 (Ukraine) (as of 11 March 2024)<br>
 _stateless persons_: 3,219 (2022)<br>
-
-**Illicit drugs**<br>
-transshipment point for Southwest Asian heroin and South American cocaine destined for Western Europe; increasing consumption of European-produced synthetic drugs<br>
 

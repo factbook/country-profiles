@@ -218,9 +218,9 @@ _Education expenditure (% GDP)_: 4.6% of GDP (2024 est.)<br>
 _Education expenditure (% national budget)_: 18.9% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_total population_: 90.9% (2015 est.) NA<br>
-_male_: 90.2% (2015 est.) NA<br>
-_female_: 91.6% (2015 est.) NA<br>
+_total population_: 90.9% (2015 est.)<br>
+_male_: 90.2% (2015 est.)<br>
+_female_: 91.6% (2015 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -229,10 +229,10 @@ _female_: 13 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; water pollution from sewage, industrial effluents, agricultural runoff; inability to properly dispose of solid waste<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -381,9 +381,10 @@ Baird's tapir (a large forest-dwelling mammal), keel-billed toucan, black orchid
 red, blue<br>
 
 **National anthem**<br>
-_name_: Land of the Free<br>
-_lyrics/music_: Samuel Alfred HAYNES/Selwyn Walford YOUNG<br>
-<strong>note:</strong> adopted 1981; as a Commonwealth country, in addition to the national anthem, "God Save the King" serves as the royal anthem (see United Kingdom)<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: royal anthem, as a Commonwealth country<br>
+<strong>note:</strong> adopted 1981; in addition to the national anthem, "God Save the King" serves as the royal anthem for the Commonwealth country (see United Kingdom)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (natural)<br>
@@ -646,5 +647,5 @@ the Belize Defense Force (BDF) is responsible for external security but also pro
 ## Transnational Issues
 
 **Illicit drugs**<br>
-<p>a significant drug trafficking and transit point between countries in South America and the United States; primary domestic use of narcotics is marijuana and some crack cocaine; a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country (2025)<br>
 

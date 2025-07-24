@@ -225,11 +225,6 @@ _women married by age 18_: 12.9% (2018)<br>
 _Education expenditure (% GDP)_: 6.8% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 19.8% national budget (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: 99.6%<br>
-_male_: 99.7%<br>
-_female_: 99.5% (2018)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 13 years<br>
@@ -237,10 +232,10 @@ _female_: 14 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water pollution; increasing soil salinity from irrigation practices; air pollution due to vehicle traffic<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -380,8 +375,9 @@ white falcon<br>
 red, yellow<br>
 
 **National anthem**<br>
-_name_: "Kyrgyz Respublikasynyn Mamlekettik Gimni" (National Anthem of the Kyrgyz Republic)<br>
+_title_: "Kyrgyz Respublikasynyn Mamlekettik Gimni" (National Anthem of the Kyrgyz Republic)<br>
 _lyrics/music_: Djamil SADYKOV and Eshmambet KULUEV/Nasyr DAVLESOV and Kalyi MOLDOBASANOV<br>
+_history_: adopted 1992<br>
 <strong>note:</strong> adopted 1992<br>
 
 **National heritage**<br>
@@ -667,7 +663,4 @@ _stateless persons_: 482 (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Kyrgyzstan was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/kyrgyzstan/<br>
-
-**Illicit drugs**<br>
-<p>a prime transit route and transshipment route for illegal drugs transiting north from Afghanistan to Russia and Europe; illicit drugs are primarily smuggled into the country from Tajikistan</p> <p> </p><br>
 

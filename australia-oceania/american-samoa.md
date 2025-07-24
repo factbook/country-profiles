@@ -151,11 +151,7 @@ _female_: 78.5 years<br>
 NA<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
 _improved: total_: total: 99.8% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 
 **Sanitation facility access**<br>
@@ -171,7 +167,7 @@ _unimproved: total_: total: 1% of population (2020 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 limited supply of drinking water; pollution; waste disposal; coastal and stream alteration; soil erosion<br>
 
 **Climate**<br>
@@ -275,9 +271,10 @@ a <em>fue </em>(coconut fiber fly whisk that represents wisdom) crossed with a <
 red, white, blue<br>
 
 **National anthem**<br>
-_name_: "Amerika Samoa" (American Samoa)<br>
-_lyrics/music_: Mariota Tiumalu TUIASOSOPO/Napoleon Andrew TUITELELEAPAGA<br>
-<strong>note:</strong> local anthem adopted 1950; as a territory of the United States, "The Star-Spangled Banner" is official (see United States)<br>
+_title_: "The Star-Spangled Banner"<br>
+_lyrics/music_: Francis Scott KEY/John Stafford SMITH<br>
+_history_: official anthem, as a US territory<br>
+<strong>note:</strong> local anthem adopted 1950; as a territory of the United States, "The Star-Spangled Banner" is the official anthem (see United States)<br>
 
 ## Economy
 

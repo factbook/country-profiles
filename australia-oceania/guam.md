@@ -172,14 +172,9 @@ _unimproved: total_: total: 10.2% of population (2015 est.)<br>
 **Currently married women (ages 15-49)**<br>
 37% (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 freshwater scarcity; reef damage; inadequate sewage treatment; rapid proliferation of the non-native brown tree snake&nbsp;<br>
 
 **Climate**<br>
@@ -296,9 +291,10 @@ coconut tree<br>
 deep blue, red<br>
 
 **National anthem**<br>
-_name_: "Fanohge Chamoru" (Stand Ye Guamanians)<br>
-_lyrics/music_: Ramon Manalisay SABLAN [English], Lagrimas UNTALAN [Chamoru]/Ramon Manalisay SABLAN<br>
-<strong>note:</strong> adopted 1919; the local anthem is also known as "Guam Hymn"; as a territory of the United States, "The Star-Spangled Banner," which generally follows the playing of "Stand Ye Guamanians," is official (see United States)<br>
+_title_: "The Star-Spangled Banner"<br>
+_lyrics/music_: Francis Scott KEY/John Stafford SMITH<br>
+_history_: official anthem, as a US territory; usually played after "Stand, Ye Guamanians"<br>
+<strong>note:</strong> adopted 1919; the local anthem is also known as "Guam Hymn;" because of Guam's status as a US territory, "The Star-Spangled Banner" is the official anthem and is usually played after "Stand, Ye Guamanians" (see United States)<br>
 
 ## Economy
 

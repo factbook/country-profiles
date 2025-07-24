@@ -156,10 +156,8 @@ NA<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: NA<br>
 _improved: total_: total: 99.9% of population<br>
 _unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.1% of population (2020)<br>
 
 **Sanitation facility access**<br>
@@ -177,11 +175,6 @@ _unimproved: total_: total: 0.1% of population (2020)<br>
 _Education expenditure (% GDP)_: 1.9% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 11.6% national budget (2024 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
 _male_: 12 years<br>
@@ -189,7 +182,7 @@ _female_: 13 years (2015)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution from vehicle emissions; scarce water resources; solid waste disposal; hazardous waste disposal; sewage disposal; overfishing; oil spills<br>
 
 **Climate**<br>
@@ -327,9 +320,10 @@ red lion<br>
 Bermuda's coat of arms was formally granted by Royal Warrant on 4 October 1910 but has been in use since at least 1624; the red lion is a symbol of Great Britain; the Latin motto under the coat of arms, <em>Quo Fata Ferunt</em>, means "Whither the Fates Carry [Us];" the ship is the <em>Sea Venture</em>, an English ship that was wrecked on then-uninhabited Bermuda in 1609<br>
 
 **National anthem**<br>
-_name_: Hail to Bermuda<br>
-_lyrics/music_: Bette JOHNS<br>
-<strong>note:</strong> serves as a local anthem; as a territory of the United Kingdom, "God Save the King" is official (see United Kingdom)<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: official anthem, as a UK territory<br>
+<strong>note:</strong> serves as a local anthem; "God Save the King" is the official anthem for Bermuda, as a territory of the United Kingdom (see United Kingdom)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural); note - excerpted from the UK entry<br>

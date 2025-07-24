@@ -243,10 +243,10 @@ _female_: 15 years (2017)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation (some the result of illegal logging); overgrazing leading to soil erosion; desertification; air pollution in Lima; pollution of rivers and coastal waters from municipal and mining wastes; overfishing<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -392,8 +392,9 @@ vicuna (a camelid related to the llama)<br>
 red, white<br>
 
 **National anthem**<br>
-_name_: "Himno Nacional del Peru" (National Anthem of Peru)<br>
+_title_: "Himno Nacional del Peru" (National Anthem of Peru)<br>
 _lyrics/music_: Jose DE LA TORRE Ugarte/Jose Bernardo ALZEDO<br>
+_history_: adopted 1822; the song won a national anthem contest<br>
 <strong>note:</strong> adopted 1822; the song won a national anthem contest<br>
 
 **National heritage**<br>
@@ -715,5 +716,5 @@ _refugees (country of origin)_: 1,542,004 (Venezuela) (economic and political cr
 _IDPs_: 73,000 (civil war from 1980-2000; most IDPs are indigenous peasants in Andean and Amazonian regions; as of 2011, no new information on the situation of these IDPs) (2022)<br>
 
 **Illicit drugs**<br>
-<p>world’s second-largest producer of cocaine and coca (after Colombia), with approximately 84,400 hectares (ha) under cultivation in 2021;  Peruvian cocaine is trafficked throughout South America for shipment to Europe, East Asia, Mexico, and the United States;  major importer of precursor chemicals for cocaine production; growing domestic drug consumption problem; a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>
 

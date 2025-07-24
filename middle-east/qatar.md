@@ -211,11 +211,6 @@ _female_: 2.3% (2025 est.)<br>
 _Education expenditure (% GDP)_: 3.2% of GDP (2020 est.)<br>
 _Education expenditure (% national budget)_: 9.3% national budget (2020 est.)<br>
 
-**Literacy**<br>
-_total population_: 93.5%<br>
-_male_: 92.4%<br>
-_female_: 94.7% (2017)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
 _male_: 12 years<br>
@@ -223,10 +218,10 @@ _female_: 15 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air, land, and water pollution; limited natural freshwater resources; limited conservation of oil and wildlife&nbsp;<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -365,9 +360,10 @@ a white serrated band with nine white points on top of a maroon field<br>
 maroon, white<br>
 
 **National anthem**<br>
-_name_: "Al-Salam Al-Amiri" (The Amiri Salute)<br>
+_title_: "Al-Salam Al-Amiri" (The Amiri Salute)<br>
 _lyrics/music_: Sheikh MUBARAK bin Saif al-Thani/Abdul Aziz Nasser OBAIDAN<br>
-<strong>note:</strong> adopted 1996; anthem first performed that year at a meeting of the Gulf Cooperative Council hosted by Qatar<br>
+_history_: adopted 1996; anthem first performed that year at a meeting of the Gulf Cooperative Council<br>
+<strong>note:</strong> adopted 1996; anthem first performed that year at a meeting of the Gulf Cooperative Council<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

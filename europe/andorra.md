@@ -204,17 +204,12 @@ _female_: 34.4% (2025 est.)<br>
 _Education expenditure (% GDP)_: 1.9% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 12% national budget (2024 est.)<br>
 
-**Literacy**<br>
-_total population_: 100%<br>
-_male_: 100%<br>
-_female_: 100% (2016)<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; soil erosion from overgrazing; air pollution; wastewater treatment and solid waste disposal<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -345,9 +340,10 @@ red cow (breed unspecified)<br>
 blue, yellow, red<br>
 
 **National anthem**<br>
-_name_: "El Gran Carlemany" (The Great Charlemagne)<br>
+_title_: "El Gran Carlemany" (The Great Charlemagne)<br>
 _lyrics/music_: Joan BENLLOCH i VIVO/Enric MARFANY BONS<br>
-<strong>note:</strong> adopted 1921; the anthem provides a brief history of Andorra in a first person narrative<br>
+_history_: adopted 1921; the anthem provides a brief history of Andorra in a first-person narrative<br>
+<strong>note:</strong> adopted 1921; the anthem provides a brief history of Andorra in a first-person narrative<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: &nbsp;1 (cultural)<br>

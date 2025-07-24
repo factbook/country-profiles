@@ -229,10 +229,10 @@ _female_: 10 years (2018)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 erosion and soil degradation from deforestation and overgrazing; desertification; agricultural fires; water pollution from raw sewage and other organic wastes; wildlife preservation&nbsp;<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -382,8 +382,9 @@ traveller's palm (ravenala), zebu<br>
 red, green, white<br>
 
 **National anthem**<br>
-_name_: "Ry Tanindraza nay malala o" (Oh, Our Beloved Fatherland)<br>
+_title_: "Ry Tanindraza nay malala o" (O Our Beloved Fatherland)<br>
 _lyrics/music_: Pasteur RAHAJASON/Norbert RAHARISOA<br>
+_history_: adopted 1959<br>
 <strong>note:</strong> adopted 1959<br>
 
 **National heritage**<br>
@@ -646,7 +647,4 @@ the military&rsquo;s responsibilities include ensuring sovereignty and territori
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List — the government has devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards; therefore, Madagascar was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3 and remained on Tier 2 Watch List for the third consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/madagascar/<br>
-
-**Illicit drugs**<br>
-illicit producer of cannabis (cultivated and wild varieties) used mostly for domestic consumption; transshipment point for Southwest Asian heroin<br>
 

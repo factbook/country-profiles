@@ -227,10 +227,10 @@ _female_: 17 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation from land being cleared for agriculture and settlement; soil exhaustion; water pollution due to salinization, sewage, and toxic chemicals from farming activities; coral reefs and marine populations threatened<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -362,8 +362,9 @@ red cross on white field<br>
 red, white<br>
 
 **National anthem**<br>
-_name_: "Ko e fasi `o e tu"i `o e `Otu Tonga" (Song of the King of the Tonga Islands)<br>
+_title_: "Ko e fasi 'o e tu'i 'o e 'Otu Tonga" (Song of the King of the Tonga Islands)<br>
 _lyrics/music_: Uelingatoni Ngu TUPOUMALOHI/Karl Gustavus SCHMITT<br>
+_history_: in use since 1875; more commonly known as "Fasi Fakafonua" (National Song)<br>
 <strong>note:</strong> in use since 1875; more commonly known as "Fasi Fakafonua" (National Song)<br>
 
 ## Economy

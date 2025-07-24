@@ -145,7 +145,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 29.8 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-5 deaths/100,000 live births (2020 est.)<br>
+4 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3 deaths/1,000 live births (2024 est.)<br>
@@ -217,11 +217,6 @@ _women married by age 18_: 0.7% (2021)<br>
 _Education expenditure (% GDP)_: 5.3% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 11.8% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
 _male_: 18 years<br>
@@ -229,10 +224,10 @@ _female_: 19 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution, principally from vehicle and power-plant emissions; nitrogen and phosphorus pollution of the North Sea; water pollution from animal wastes and pesticides<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Antarctic-Environmental Protection<br>
 
@@ -381,9 +376,10 @@ red, white<br>
 Denmark’s King Frederick VI adopted the national coat of arms in 1819; the crown of King Christian V, who ruled Denmark and Norway from 1670 to 1699,<em> </em>sits atop the shield, symbolizing royal and national authority; the three lions represent a strong and powerful country, with red lily pads in the shape of hearts that stand for strength, valor, and joy<br>
 
 **National anthem**<br>
-_name_: "Der er et yndigt land" (There is a Lovely Country); "Kong Christian" (King Christian)<br>
-_lyrics/music_: Adam Gottlob OEHLENSCHLAGER/Hans Ernst KROYER; Johannes EWALD/unknown<br>
-<strong>note:</strong> Denmark has two national anthems with equal status; "Der er et yndigt land," adopted 1844, is a national anthem, while "Kong Christian," adopted 1780, serves as both a national and royal anthem; "Kong Christian" is also known as "Kong Christian stod ved hojen mast" (King Christian Stood by the Lofty Mast) and "Kongesangen" (The King's Anthem); within Denmark, the royal anthem is played only when royalty is present and is usually followed by the national anthem; when royalty is not present, only the national anthem is performed; outside Denmark, the royal anthem is played, unless the national anthem is requested<br>
+_title_: "Kong Christian" (King Christian)<br>
+_lyrics/music_: Johannes EWALD/unknown<br>
+_history_: adopted 1780; national and royal anthem; also known as "Kong Christian stod ved hojen mast" (King Christian Stood by the Lofty Mast) and "Kongesangen" (The King's Anthem); in Denmark, the royal anthem is played only when royalty is present and is usually followed by the other national anthem; when royalty is not present, only "Der er et yndigt land" is performed; outside Denmark, the royal anthem is played unless the other anthem is requested<br>
+<strong>note:</strong> Denmark is one of only two countries that has two national anthems of equal status (New Zealand is the other)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 11 (8 cultural, 3 natural)<br>

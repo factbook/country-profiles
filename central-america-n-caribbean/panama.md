@@ -226,10 +226,10 @@ _female_: 13 years (2016)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water pollution from agricultural runoff; deforestation of tropical rainforest; land degradation and soil erosion in Panama Canal; air pollution in urban areas; effects of mining&nbsp;<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Marine Life Conservation<br>
 
@@ -369,8 +369,9 @@ harpy eagle<br>
 blue, white, red<br>
 
 **National anthem**<br>
-_name_: "Himno Istmeno" (Isthmus Hymn)<br>
+_title_: "Himno Istmeno" (Isthmus Hymn)<br>
 _lyrics/music_: Jeronimo DE LA OSSA/Santos A. JORGE<br>
+_history_: adopted 1925<br>
 <strong>note:</strong> adopted 1925<br>
 
 **National heritage**<br>
@@ -631,8 +632,8 @@ _key ports_: Bahia de las Minas, Balboa, Pedregal, Puerto Armuelles, Puerto Colo
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Public Security: Panama National Police (La Policía Nacional de Panamá, PNP), National Aeronaval Service (Servicio Nacional Aeronaval, SENAN), National Border Service (Servicio Nacional de Fronteras, SENAFRONT)  (2025)<br>
-<strong>note 1:</strong> collectively, the security forces are known as the Panamanian Public Forces <br><br><strong>note 2: </strong>the PNP includes a special forces directorate with counterterrorism and counternarcotics units; SENAFRONT has three regionally based border security brigades, plus a specialized brigade comprised of special forces, counternarcotics, maritime, and rapid reaction units<br>
+no regular military forces; Ministry of Public Security: National Police (Policía Nacional,  PN), National Aeronaval Service (Servicio Nacional Aeronaval, SENAN), National Border Service (Servicio Nacional de Fronteras, SENAFRONT) (2025)<br>
+<strong>note 1:</strong> collectively, the security forces are known as the Panamanian Public Forces <br><br><strong>note 2: </strong>the PNP includes a special forces directorate with counterterrorism and counternarcotics units; SENAFRONT has four regionally based border security brigades, plus a specialized brigade comprised of special forces, counternarcotics, maritime, and rapid reaction units<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2024 est.)<br>
@@ -645,7 +646,7 @@ no regular military forces; Ministry of Public Security: Panama National Police 
 approximately 30,000 Ministry of Public Security personnel (2025)<br>
 
 **Military - note**<br>
-the Panama National Police is principally responsible for internal law enforcement and public order, while the National Border Service handles border security; the Aeronaval Service is responsible for carrying out air and naval operations that include some internal security responsibilities; key areas of focus are countering narcotics trafficking and securing the border, particularly along the southern border with Colombia (the area is known as the Darién Gap) where the National Border Service (SENAFRONT) maintains a significant presence<br><br>Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution (2024)<br>
+the Panamanian Public Forces focus on law enforcement, border control, and maritime security; the National Police are responsible for internal law enforcement and public order, while the National Border Service (SENAFRONT) handles border security; the Aeronaval Service is responsible for carrying out air and naval operations that include some internal security responsibilities; key areas of focus are countering narcotics trafficking and securing the border, particularly along the frontier with Colombia where SENAFRONT maintains a significant presence<br><br>Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution (2025)<br>
 
 ## Transnational Issues
 
@@ -653,5 +654,5 @@ the Panama National Police is principally responsible for internal law enforceme
 _refugees (country of origin)_: 58,158 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2023)<br>
 
 **Illicit drugs**<br>
-<p>not a major consumer or producer of illicit drugs; a prime sea and land passage for drugs, primarily cocaine, from South America to North America and Europe;   drug traffickers also use millions of shipping containers to smuggle drugs to North America and Europe through the Panama</p><br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country (2025)<br>
 

@@ -72,7 +72,7 @@ _total_: no permanent inhabitants<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 wastewater discharge into the lagoon on Diego Garcia<br>
 
 **Climate**<br>
@@ -127,7 +127,10 @@ UPU<br>
 white with six blue, wavy, horizontal stripes; the UK flag is in the upper hoist-side quadrant; the striped section has a palm tree and yellow crown (the symbols of the territory) centered on the outer half of the flag; the wavy stripes represent the Indian Ocean; although not officially described, the six blue stripes may stand for the six main atolls of the archipelago<br>
 
 **National anthem**<br>
-<strong>note:</strong> as an overseas territory of the United Kingdom, "God Save the King" is official (see United Kingdom)<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: official anthem, as a UK overseas territory<br>
+<strong>note:</strong> "God Save the King" is the official anthem for BIOT, as an overseas territory of the United Kingdom (see United Kingdom)<br>
 
 ## Economy
 

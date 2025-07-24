@@ -223,16 +223,14 @@ _Education expenditure (% GDP)_: 5.6% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 14.4% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_total population_: 81.4%<br>
-_male_: 87.4%<br>
 _female_: 74.2% (2019 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution in major cities; soil erosion from overgrazing and other poor farming practices; desertification; river and coastal pollution from dumping of raw sewage, petroleum refining wastes, and other industrial effluents; pollution in Mediterranean Sea from oil wastes, soil erosion, and fertilizer runoff; inadequate potable water<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Nuclear Test Ban<br>
 
@@ -388,8 +386,9 @@ five-pointed star between the extended horns of a crescent moon; fennec fox<br>
 green, white, red<br>
 
 **National anthem**<br>
-_name_: "Kassaman" (We Pledge)<br>
+_title_: "Kassaman" (We Pledge)<br>
 _lyrics/music_: Mufdi ZAKARIAH/Mohamed FAWZI<br>
+_history_: adopted 1962; ZAKARIAH wrote "Kassaman" as a poem while imprisoned in Algiers by French colonial forces<br>
 <strong>note:</strong> adopted 1962; ZAKARIAH wrote "Kassaman" as a poem while imprisoned in Algiers by French colonial forces<br>
 
 **National heritage**<br>
@@ -689,7 +688,4 @@ _refugees (country of origin)_: more than 100,000 (Sahrawi, mostly living in Alg
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch list — Algeria does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Algeria was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/algeria/<br>
-
-**Illicit drugs**<br>
-NA<br>
 

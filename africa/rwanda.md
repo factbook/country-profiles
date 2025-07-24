@@ -239,10 +239,10 @@ _female_: 11 years (2019)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; overgrazing; land degradation; soil erosion; a decline in soil fertility (soil exhaustion); wetland degradation and loss of biodiversity; widespread poaching<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: Law of the Sea<br>
 
@@ -396,8 +396,9 @@ traditional woven basket with peaked lid<br>
 blue, yellow, green<br>
 
 **National anthem**<br>
-_name_: "Rwanda nziza" (Rwanda, Our Beautiful Country)<br>
+_title_: "Rwanda nziza" (Rwanda, Our Beautiful Country)<br>
 _lyrics/music_: Faustin MURIGO/Jean-Bosco HASHAKAIMANA<br>
+_history_: adopted 2001<br>
 <strong>note:</strong> adopted 2001<br>
 
 **National heritage**<br>
@@ -657,11 +658,10 @@ the RDF's inventory includes a mix of older and some modern equipment from suppl
 <strong>note:</strong> as of 2022, women comprised approximately 6% of the Rwanda Defense Force<br>
 
 **Military deployments**<br>
-approximately 3,200 Central African Republic (about 2,200 under MINUSCA, plus some 700 police; approximately 1,000 under a bi-lateral agreement); estimated 3,000 Mozambique (bilateral agreement to assist with combating an insurgency; includes both military and police forces); 2,600 (plus about 450 police) South Sudan (UNMISS) (2025)<br>
-<strong>note:</strong> Rwanda reportedly has several thousand military troops deployed in the Democratic Republic of the Congo<br>
+approximately 3,200 Central African Republic (about 2,200 under MINUSCA, plus some 700 police; approximately 1,000 under a bi-lateral agreement); estimated 3,000 Democratic Republic of the Congo; estimated 3,000 Mozambique (bilateral agreement to assist with combating an insurgency; includes both military and police forces); 2,600 (plus about 450 police) South Sudan (UNMISS) (2025)<br>
 
 **Military - note**<br>
-<p>the RDF is widely regarded as one of East Africa’s best trained and most experienced militaries; its principle responsibilities are ensuring territorial integrity and national sovereignty and preventing infiltrations of illegal armed groups from neighboring countries, particularly the Democratic Republic of the Congo (DRC); since 2021, Rwanda has deployed troops to the border region with the DRC to combat the rebel Democratic Forces for the Liberation of Rwanda (FDLR), which it has accused the DRC of backing; the RDF has been accused by the DRC, the UN, and the US of making military incursions into the DRC and providing material support to the March 23 Movement (M23, aka Congolese Revolutionary Army) rebel group, which has been fighting with DRC troops and UN peacekeeping forces; the RDF also participates in UN and regional military operations, as well as multinational exercises</p> the Rwandan Armed Forces (FAR) were established following independence in 1962; after the 1990-1994 civil war and genocide, the victorious Tutsi-dominated Rwandan Patriotic Front's military wing, the Rwandan Patriotic Army (RPA), became the country's military force; the RPA participated in the First (1996-1997) and Second (1998-2003) Congolese Wars; the RPA was renamed the Rwanda Defense Force (RDF) in 2003, by which time it had assumed a more national character with the inclusion of many former Hutu officers as well as newly recruited soldiers (2024)<br>
+the RDF is widely regarded as one of East Africa’s best trained and most experienced militaries; its principle responsibilities are ensuring territorial integrity and national sovereignty and preventing infiltrations of illegal armed groups from neighboring countries, particularly the Democratic Republic of the Congo (DRC); since 2021, Rwanda has deployed troops to the border region with the DRC to combat the rebel Democratic Forces for the Liberation of Rwanda (FDLR), which it has accused the DRC of backing; the RDF has been accused by the DRC, the UN, and the US of making military incursions into the DRC and providing material support to the March 23 Movement (M23, aka Congolese Revolutionary Army) rebel group, which has been fighting with DRC troops and UN peacekeeping forces; the RDF also participates in UN and regional military operations, as well as multinational exercises<br><br>the Rwandan Armed Forces (FAR) were established following independence in 1962; after the 1990-1994 civil war and genocide, the victorious Tutsi-dominated Rwandan Patriotic Front's military wing, the Rwandan Patriotic Army (RPA), became the country's military force; the RPA participated in the First (1996-1997) and Second (1998-2003) Congolese Wars; the RPA was renamed the Rwanda Defense Force (RDF) in 2003, by which time it had assumed a more national character with the inclusion of many former Hutu officers as well as newly recruited soldiers (2024)<br>
 
 ## Space
 

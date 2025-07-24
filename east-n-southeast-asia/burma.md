@@ -234,7 +234,6 @@ _Education expenditure (% national budget)_: 9.8% national budget (2019 est.)<br
 _total population_: 89% (2019 est.)<br>
 _male_: 92% (2019 est.)<br>
 _female_: 86% (2019 est.)<br>
-<strong>note: </strong>most public schools were closed immediately after the coup in 2021, and attendance has remained low since schools reopened; literacy is expected to decline from 2019 to 2023<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -243,10 +242,10 @@ _female_: 11 years (2018)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; industrial pollution of air, soil, and water; inadequate sanitation and water treatment; rapid depletion of the country's natural resources<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -384,9 +383,10 @@ chinthe (mythical lion)<br>
 yellow, green, red, white<br>
 
 **National anthem**<br>
-_name_: "Kaba Ma Kyei" (Till the End of the World, Myanmar)<br>
+_title_: "Kaba Ma Kyei" (Till the End of the World, Myanmar)<br>
 _lyrics/music_: SAYA TIN<br>
-<strong>note:</strong> adopted 1948; Burma is among a handful of non-European nations that have anthems rooted in indigenous traditions; the beginning portion of the anthem is a traditional Burmese anthem before transitioning into a Western-style orchestrated work<br>
+_history_: adopted 1948; the song begins with a traditional Burmese anthem before transitioning into a Western-style orchestrated work<br>
+<strong>note:</strong> adopted 1948; the song begins with a traditional Burmese anthem before transitioning into a Western-style orchestrated work<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>
@@ -688,5 +688,5 @@ _stateless persons_: 600,000 (2022); note - Rohingya Muslims, living predominant
 _tier rating_: Tier 3 — Burma does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Burma remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/burma/<br>
 
 **Illicit drugs**<br>
-source of precursor or essential chemicals used in the production of illicit narcotics; narcotics produced in Burma trafficked throughout the region, with routes extending beyond Southeast Asia to Australia, New Zealand, and Japan; largest opium poppy cultivator &nbsp;globally with an estimated 47,100 hectares grown in 2023; not a major source or transit country for drugs entering the United States; domestic consumption of synthetic drug cocktails such as Yaba, &ldquo;Happy Water,&rdquo; and &ldquo;Wei Tiong&rdquo; (mixtures of drugs including caffeine, methamphetamine, tramadol, and MDMA) popular among the younger population and domestic drug consumption &nbsp;substantial and widespread. (2021)<br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>
 

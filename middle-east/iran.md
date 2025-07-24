@@ -233,10 +233,10 @@ _female_: 15 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution, especially in urban areas, from vehicle emissions, refinery operations, and industrial effluents; deforestation; overgrazing; desertification; oil pollution in the Persian Gulf; wetland losses from drought; soil degradation (salination); inadequate potable water; water pollution from raw sewage and industrial waste<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Environmental Modification, Law of the Sea, Marine Life Conservation<br>
 
@@ -373,9 +373,10 @@ lion<br>
 green, white, red<br>
 
 **National anthem**<br>
-_name_: "Soroud-e Melli-ye Jomhouri-ye Eslami-ye Iran" (National Anthem of the Islamic Republic of Iran)<br>
+_title_: "Soroud-e Melli-ye Jomhouri-ye Eslami-ye Iran" (National Anthem of the Islamic Republic of Iran)<br>
 _lyrics/music_: multiple authors/Hassan RIAHI<br>
-<strong>note 1:</strong> adopted 1990; Iran has had six national anthems; the first, entitled "Salam-e Shah" (Royal Salute) was in use from 1873-1909; next came "Salamati-ye Dowlat-e Elliye-ye Iran" (Salute of the Sublime State of Persia, 1909-1933); it was followed by "Sorud-e melli" (The Imperial Anthem of Iran; 1933-1979), which chronicled the exploits of the Pahlavi Dynasty; "Ey Iran" (Oh Iran) functioned unofficially as the national anthem for a brief period between the ouster of the Shah in 1979 and the early days of the Islamic Republic in 1980; "Payandeh Bada Iran" (Long Live Iran) was used between 1980 and 1990 during the time of Ayatollah KHOMEINI<br><br><strong>note 2:</strong> a recording of the current Iranian national anthem is unavailable since the US Navy Band does not record anthems for countries from which the US does not anticipate official visits; the US does not have diplomatic relations with Iran<br>
+_history_: adopted 1990; Iran has had six national anthems; the first, "Salam-e Shah" (Royal Salute), was in use from 1873 to 1909; "Salamati-ye Dowlat-e Elliye-ye Iran" (Salute of the Sublime State of Persia) from 1909 to 1933; "Sorud-e melli" (The Imperial Anthem of Iran) from 1933 to 1979; "Ey Iran" (Oh Iran) functioned unofficially as the national anthem for a brief period between the ouster of the Shah in 1979 and the early days of the Islamic Republic in 1980; "Payandeh Bada Iran" (Long Live Iran) was used between 1980 and 1990 under Ayatollah KHOMEINI<br>
+<strong>note:</strong> a recording of the current Iranian national anthem is unavailable because the US Navy Band does not record anthems for countries from which the US does not anticipate official visits; the US does not have diplomatic relations with Iran<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 28 (26cultural, 2 natural)<br>
@@ -693,7 +694,4 @@ _stateless persons_: 34 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 — Iran does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Iran remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/iran/<br>
-
-**Illicit drugs**<br>
-significant transit and destination country for opiates and cannabis products mainly from Afghanistan and Pakistan; produces and consumes methamphetamine and traffics it to &nbsp;international markets; one of the primary transshipment routes for Southwest Asian heroin to Europe; opium and cannabis most widely used drugs domestically along with increase in crystal methamphetamine<br>
 

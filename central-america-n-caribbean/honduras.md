@@ -236,10 +236,10 @@ _female_: 11 years (2019)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation from logging and agricultural clearing; land degradation and soil erosion from overdevelopment and improper land use practices; mining activities polluting Lago de Yojoa (the country's largest source of fresh water) and other rivers and streams<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -382,8 +382,9 @@ scarlet macaw, white-tailed deer<br>
 blue, white<br>
 
 **National anthem**<br>
-_name_: "Himno Nacional de Honduras" (National Anthem of Honduras)<br>
+_title_: "Himno Nacional de Honduras" (National Anthem of Honduras)<br>
 _lyrics/music_: Augusto Constancio COELLO/Carlos HARTLING<br>
+_history_: adopted 1915; the anthem's seven verses chronicle Honduran history; on official occasions, only the chorus and last verse are sung<br>
 <strong>note:</strong> adopted 1915; the anthem's seven verses chronicle Honduran history; on official occasions, only the chorus and last verse are sung<br>
 
 **National heritage**<br>
@@ -674,5 +675,5 @@ the Honduran Armed Forces (FFAA) are responsible for maintaining the country’s
 _IDPs_: 247,000 (violence, extortion, threats, forced recruitment by urban gangs between 2004 and 2018) (2023)<br>
 
 **Illicit drugs**<br>
-<br><br> <p>transshipment point for cocaine destined for the United States and precursor chemicals used to produce illicit drugs; some small-scale coca cultivation</p> <p> </p><br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>
 

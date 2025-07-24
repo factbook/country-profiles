@@ -234,10 +234,10 @@ _female_: 12 years (2012)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water pollution from sewage and agricultural/industrial chemicals; deforestation<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -379,11 +379,12 @@ Canje pheasant (hoatzin), jaguar, Victoria Regia water lily<br>
 red, yellow, green, black, white<br>
 
 **National coat of arms**<br>
-<p>Guyana’s coat of arms was adopted in 1966, the year of the country’s independence from the United Kingdom; the jaguars signify strength and resilience, with one holding a pickaxe that stands for labor and the other holding stalks of rice and sugarcane for agriculture; two national symbols, the Canje pheasant and the Victorian lily, are on the shield, with the national motto underneath; three wavy blue lines stand for the Essequibo, Demerara, and Berbice rivers, the headdress for the country’s ethnic groups, and the diamonds for the mining industry; the helmet is a symbol of past UK rule in Guyana</p><br>
+Guyana&rsquo;s coat of arms was adopted in 1966, the year of the country&rsquo;s independence from the United Kingdom; the jaguars signify strength and resilience, with one holding a pickaxe that stands for labor and the other holding stalks of rice and sugarcane for agriculture; two national symbols, the Canje pheasant and the Victorian lily, are on the shield, with the national motto underneath; three wavy blue lines stand for the Essequibo, Demerara, and Berbice rivers, the headdress for the country&rsquo;s ethnic groups, and the diamonds for the mining industry; the helmet is a symbol of past UK rule in Guyana<br>
 
 **National anthem**<br>
-_name_: "Dear Land of Guyana, of Rivers and Plains"<br>
+_title_: "Dear Land of Guyana, of Rivers and Plains"<br>
 _lyrics/music_: Archibald Leonard LUKERL/Robert Cyril Gladstone POTTER<br>
+_history_: adopted 1966<br>
 <strong>note:</strong> adopted 1966<br>
 
 ## Economy
@@ -634,7 +635,4 @@ the Guyana Defense Force (GDF) was established in 1965; its primary missions are
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 21,676 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2023)<br>
-
-**Illicit drugs**<br>
-<p>a transit country for cocaine destined for the United States, Canada, the Caribbean, Europe, and West Africa; growing domestic marijuana cultivation and consumption</p><br>
 

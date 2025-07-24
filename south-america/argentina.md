@@ -176,10 +176,7 @@ _female_: 82 years<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.8% of population<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
 _unimproved: urban_: urban: 0.2% of population<br>
-_unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: (2020 est.) NA<br>
 
 **Health expenditure**<br>
@@ -228,11 +225,6 @@ _women married by age 18_: 15.5% (2020)<br>
 _Education expenditure (% GDP)_: 4.8% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 12.7% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: 99%<br>
-_male_: 98.9%<br>
-_female_: 99.1% (2018 est.)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years<br>
 _male_: 17 years<br>
@@ -240,10 +232,10 @@ _female_: 20 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; soil degradation (erosion, salinization); desertification; air pollution; water pollution<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: Marine Dumping-London Protocol, Marine Life Conservation<br>
 
@@ -400,8 +392,9 @@ Sun of May (a sun-with-face symbol)<br>
 sky blue, white<br>
 
 **National anthem**<br>
-_name_: "Himno Nacional Argentino" (Argentine National Anthem)<br>
+_title_: "Himno Nacional Argentino" (Argentine National Anthem)<br>
 _lyrics/music_: Vicente LOPEZ y PLANES/Jose Blas PARERA<br>
+_history_: adopted 1813; Vicente LOPEZ was inspired to write the anthem after watching a play about the 1810 May Revolution against Spain<br>
 <strong>note:</strong> adopted 1813; Vicente LOPEZ was inspired to write the anthem after watching a play about the 1810 May Revolution against Spain<br>
 
 **National heritage**<br>
@@ -724,7 +717,4 @@ Hizballah<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 217,742 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2023)<br>
-
-**Illicit drugs**<br>
-<p>counterfeiting, drug trafficking, and other smuggling offenses in the Tri-Border area; some money laundering organizations in the TBA have may have links to the terrorist organization Hizballah; a large producer of chemical precursors</p><br>
 

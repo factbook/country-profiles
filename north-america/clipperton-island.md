@@ -67,7 +67,7 @@ _total_: uninhabited<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 no natural resources, guano deposits depleted; stagnant fresh-water lagoon<br>
 
 **Climate**<br>

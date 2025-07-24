@@ -234,10 +234,10 @@ _female_: 40.5% (2021 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation due to slash-and-burn agriculture; desertification; water pollution; water-borne diseases<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 
@@ -374,8 +374,9 @@ lion<br>
 red, blue, green, white<br>
 
 **National anthem**<br>
-_name_: "For The Gambia, Our Homeland"<br>
+_title_: "For The Gambia, Our Homeland"<br>
 _lyrics/music_: Virginia Julie HOWE/adapted by Jeremy Frederick HOWE<br>
+_history_: adopted 1965; the music is an adaptation of the traditional Mandinka song "Foday Kaba Dumbuya"<br>
 <strong>note:</strong> adopted 1965; the music is an adaptation of the traditional Mandinka song "Foday Kaba Dumbuya"<br>
 
 **National heritage**<br>

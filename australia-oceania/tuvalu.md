@@ -211,17 +211,12 @@ _men married by age 18_: 1.7% (2020)<br>
 _Education expenditure (% GDP)_: 15.8% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 17% national budget (2024 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 limited freshwater resources; beach erosion; deforestation; damage to coral reefs; rising sea levels<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Whaling<br>
 _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 
@@ -352,8 +347,9 @@ maneapa (native meeting house)<br>
 light blue, yellow<br>
 
 **National anthem**<br>
-_name_: "Tuvalu mo te Atua" (Tuvalu for the Almighty)<br>
+_title_: "Tuvalu mo te Atua" (Tuvalu for the Almighty)<br>
 _lyrics/music_: Afaese MANOA<br>
+_history_: adopted 1978; the anthem's name is also the nation's motto<br>
 <strong>note:</strong> adopted 1978; the anthem's name is also the nation's motto<br>
 
 ## Economy

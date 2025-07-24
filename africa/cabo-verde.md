@@ -137,7 +137,7 @@ _65 years and over_: 0.62 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-42 deaths/100,000 live births (2020 est.)<br>
+40 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 22.4 deaths/1,000 live births (2024 est.)<br>
@@ -223,10 +223,10 @@ _female_: 13 years (2018)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation due to demand for firewood; water shortages; droughts;&nbsp; desertification; soil erosion; illegal beach sand extraction; overfishing<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -365,8 +365,9 @@ ten five-pointed yellow stars<br>
 blue, white, red, yellow<br>
 
 **National anthem**<br>
-_name_: "Cantico da Liberdade" (Song of Freedom)<br>
+_title_: "Cantico da Liberdade" (Song of Freedom)<br>
 _lyrics/music_: Amilcar Spencer LOPES/Adalberto Higino Tavares SILVA<br>
+_history_: adopted 1996<br>
 <strong>note:</strong> adopted 1996<br>
 
 **National heritage**<br>
@@ -631,7 +632,4 @@ the FACV is responsible for external defense; it also has an internal security r
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 115 (2022)<br>
-
-**Illicit drugs**<br>
-<p>narcotraffickers transit cocaine, cannabis, and other drugs to Africa and Europe; domestic trafficking contributes to increased consumption of illicit substances;</p><br>
 

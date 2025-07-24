@@ -140,7 +140,7 @@ _total population_: 0.94 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-217 deaths/100,000 live births (2020 est.)<br>
+179 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 54.9 deaths/1,000 live births (2024 est.)<br>
@@ -211,11 +211,6 @@ _men married by age 18_: 6.9% (2022)<br>
 _Education expenditure (% GDP)_: 2.3% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 11.5% national budget (2025 est.)<br>
 
-**Literacy**<br>
-_total population_: 62%<br>
-_male_: 67%<br>
-_female_: 56.9% (2021)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
 _male_: 11 years<br>
@@ -223,10 +218,10 @@ _female_: 11 years (2014)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; soil degradation and erosion from forest loss and crop cultivation on slopes without proper terracing; silting of coral reefs<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -363,9 +358,13 @@ four five-pointed stars and crescent moon<br>
 **National color(s)**<br>
 green, white<br>
 
+**National coat of arms**<br>
+the coat of arms is in the national colors of green and white; was adopted in 1978; the crescent and stars represent Islam, with the four stars also symbolizing the archipelago&rsquo;s four main islands: Grande Comore, Moh&eacute;li, Anjouan, and Mayotte (the last of which is a French department claimed by Comoros); above and below the sun&rsquo;s rays is the name of the nation written in French and Arabic; two olive branches, representing peace, are connected by a banner with the national motto in French, which translates as "Unity, Solidarity, Development"<br>
+
 **National anthem**<br>
-_name_: "Udzima wa ya Masiwa" (The Union of the Great Islands)<br>
+_title_: "Udzima wa ya Masiwa" (The Union of the Great Islands)<br>
 _lyrics/music_: Said Hachim SIDI ABDEREMANE/Said Hachim SIDI ABDEREMANE and Kamildine ABDALLAH<br>
+_history_: adopted 1978<br>
 <strong>note:</strong> adopted 1978<br>
 
 ## Economy

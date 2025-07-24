@@ -141,7 +141,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
-322 deaths/100,000 live births (2020 est.)<br>
+291 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 39.8 deaths/1,000 live births (2024 est.)<br>
@@ -206,11 +206,6 @@ _female_: 0.2% (2020 est.)<br>
 **Currently married women (ages 15-49)**<br>
 52.3% (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: 76.6%<br>
-_male_: 84.4%<br>
-_female_: 68.9% (2018)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 8 years<br>
 _male_: 8 years<br>
@@ -218,10 +213,10 @@ _female_: 7 years (2015)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; desertification; soil erosion; overgrazing<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Whaling<br>
 _signed, but not ratified_: Climate Change-Paris Agreement<br>
 
@@ -359,9 +354,10 @@ camel<br>
 green, red, blue<br>
 
 **National anthem**<br>
-_name_: "Ertra, Ertra, Ertra" (Eritrea, Eritrea, Eritrea)<br>
+_title_: "Ertra, Ertra, Ertra" (Eritrea, Eritrea, Eritrea)<br>
 _lyrics/music_: SOLOMON Tsehaye Beraki/Isaac Abraham MEHAREZGI and ARON Tekle Tesfatsion<br>
-<strong>note:</strong> adopted 1993; upon independence from Ethiopia<br>
+_history_: adopted 1993, after gaining independence from Ethiopia<br>
+<strong>note:</strong> adopted 1993, after gaining independence from Ethiopia<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

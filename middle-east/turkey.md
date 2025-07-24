@@ -240,10 +240,10 @@ _female_: 18 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water pollution from dumping of chemicals and detergents; air pollution, particularly in urban areas; deforestation; land degradation; conservation of biodiversity<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Climate Change-Paris Agreement, Environmental Modification<br>
 
@@ -390,9 +390,10 @@ vertical crescent moon with adjacent five-pointed star<br>
 red, white<br>
 
 **National anthem**<br>
-_name_: "Istiklal Marsi" (Independence March)<br>
+_title_: "Istiklal Marsi" (Independence March)<br>
 _lyrics/music_: Mehmet Akif ERSOY/Zeki UNGOR<br>
-<strong>note:</strong> lyrics adopted 1921, music adopted 1932; the anthem's original music was adopted in 1924; a new composition was agreed upon in 1932<br>
+_history_: lyrics adopted 1921, music adopted 1932; the anthem's original music was adopted in 1924<br>
+<strong>note:</strong> lyrics adopted 1921, music adopted 1932; the anthem's original music was adopted in 1924<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 21 (19 cultural, 2 mixed)<br>
@@ -717,7 +718,4 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan (IMU);
 _refugees (country of origin)_: 10,244 (Iraq) (mid-year 2022); 41,665 (Ukraine) (as of 15 February 2024) (2023); 3,122,899 (Syria) (2024)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2022)<br>
 _stateless persons_: 117 (2018)<br>
-
-**Illicit drugs**<br>
-<p>a significant transit country for illicit drug trafficking; an increase of heroin and methamphetamine seizures along the Turkiye-Iran border; Syrian drug traffickers play a significant role in Turkiye’s drug trade; domestic Illegal drug use relatively low compared to countries in the region</p><br>
 

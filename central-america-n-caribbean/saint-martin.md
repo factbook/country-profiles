@@ -151,14 +151,9 @@ _unimproved: total_: total: 0% of population (2020)<br>
 _Education expenditure (% GDP)_: 3.9% of GDP (2023 est.) NA<br>
 _Education expenditure (% national budget)_: 23% national budget (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 waste management; salinity intrusions; limited freshwater resources; over-exploitation of marine resources (reef fisheries, coral, and shell); water pollution and damage to coral reefs from boats<br>
 
 **Climate**<br>
@@ -254,8 +249,9 @@ the flag of France is used<br>
 brown pelican<br>
 
 **National anthem**<br>
-_name_: "O Sweet Saint Martin's Land"<br>
-_lyrics/music_: Gerard KEMPS<br>
+_title_: "La Marseillaise"<br>
+_lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
+_history_: official anthem, as a French collectivity<br>
 <strong>note:</strong> the song, written in 1958, is used as an unofficial anthem for the entire island (both French and Dutch sides); as a collectivity of France, in addition to the local anthem, "La Marseillaise" remains official on the French side (see France); as a constituent part of the Kingdom of the Netherlands, in addition to the local anthem, "Het Wilhelmus" remains official on the Dutch side (see Netherlands)<br>
 
 ## Economy
@@ -335,7 +331,4 @@ no regular military forces; Ministry of Justice: Police Force of Sint Maaten (Ko
 defense is the responsibility of France<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-<p>transshipment point for cocaine, heroin, and marijuana destined for Puerto Rico and the U.S. Virgin Islands as well as Europe.</p><br>
 

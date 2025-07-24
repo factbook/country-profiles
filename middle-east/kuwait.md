@@ -228,10 +228,10 @@ _female_: 16 years (2015)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 limited natural freshwater resources; air and water pollution; desertification; loss of biodiversity<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Marine Dumping-London Convention<br>
 
@@ -360,8 +360,9 @@ golden falcon<br>
 green, white, red, black<br>
 
 **National anthem**<br>
-_name_: "Al-Nasheed Al-Watani" (National Anthem)<br>
+_title_: "Al-Nasheed Al-Watani" (National Anthem)<br>
 _lyrics/music_: Ahmad MUSHARI al-Adwani/Ibrahim Nasir al-SOULA<br>
+_history_: adopted 1978; the anthem is only used on formal occasions<br>
 <strong>note:</strong> adopted 1978; the anthem is only used on formal occasions<br>
 
 ## Economy

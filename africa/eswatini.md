@@ -136,7 +136,7 @@ _65 years and over_: 0.59 male(s)/female<br>
 _total population_: 0.9 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-437 deaths/100,000 live births (2017 est.)<br>
+118 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 36.7 deaths/1,000 live births (2024 est.)<br>
@@ -219,10 +219,10 @@ _female_: 12 years (2013)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 limited supplies of potable water; overhunting depleting wildlife; population growth, deforestation, and overgrazing lead to soil erosion and soil degradation<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -375,8 +375,9 @@ blue, yellow, red<br>
 the national coat of arms was adopted in 1968 after independence from the United Kingdom; two national symbols, the lion (representing the king of Eswatini) and the elephant (representing the queen mother), support a traditional Nguni shield; above the shield is the king's <em>lidlabe</em>, or crown of feathers, and at the bottom is Eswatini's motto, <em>Siyinqaba</em>, or "We are the fortress”<br>
 
 **National anthem**<br>
-_name_: "Nkulunkulu Mnikati wetibusiso temaSwati" (Oh God, Bestower of the Blessings of the Swazi)<br>
+_title_: "Nkulunkulu Mnikati wetibusiso temaSwati" (O God, Bestower of the Blessings of the Swazi)<br>
 _lyrics/music_: Andrease Enoke Fanyana SIMELANE/David Kenneth RYCROFT<br>
+_history_: adopted 1968; uses elements of both ethnic Swazi and Western music styles<br>
 <strong>note:</strong> adopted 1968; uses elements of both ethnic Swazi and Western music styles<br>
 
 ## Economy

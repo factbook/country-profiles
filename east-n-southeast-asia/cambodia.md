@@ -237,10 +237,10 @@ _female_: 63.6% (2021 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 habitat and biodiversity loss from illegal logging and strip mining; destruction of mangrove swamps; soil erosion; limited access to potable water in rural areas; illegal fishing and overfishing; deforestation leading to sediment build-up in coastal ecosystems<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Law of the Sea<br>
 
@@ -393,8 +393,9 @@ Angkor Wat temple, kouprey (wild ox)<br>
 red, blue<br>
 
 **National anthem**<br>
-_name_: "Nokoreach" (Royal Kingdom)<br>
+_title_: "Nokoreach" (Royal Kingdom)<br>
 _lyrics/music_: CHUON NAT/F. PERRUCHOT and J. JEKYLL<br>
+_history_: adopted 1941, restored 1993; the anthem, based on a Cambodian folk tune, was restored after the defeat of the Communist regime<br>
 <strong>note:</strong> adopted 1941, restored 1993; the anthem, based on a Cambodian folk tune, was restored after the defeat of the Communist regime<br>
 
 **National heritage**<br>
@@ -677,7 +678,4 @@ _stateless persons_: 75,000 (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 — Cambodia does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Cambodia remained on Tier 3; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/cambodia/<br>
-
-**Illicit drugs**<br>
-<p>a significant transshipment country for Burma-sourced methamphetamine and heroin and a location for large-scale ketamine production; transnational criminal organizations (TCO’s) use Cambodia as both a transit and destination for illicit drugs; precursor chemicals from mainly China used at domestic clandestine laboratories operated by TCOs for the manufacturing of methamphetamine, ketamine, and other synthetic drugs</p> (2021)<br>
 

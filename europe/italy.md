@@ -223,10 +223,10 @@ _female_: 17 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution from industrial emissions; water pollution from industrial and agricultural effluents, as well as acid rain; inadequate industrial waste treatment and disposal facilities<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol<br>
 
@@ -390,9 +390,10 @@ five-pointed white star (Stella d'Italia)<br>
 red, white, green<br>
 
 **National anthem**<br>
-_name_: "Il Canto degli Italiani" (The Song of the Italians)<br>
+_title_: "Il Canto degli Italiani" (The Song of the Italians)<br>
 _lyrics/music_: Goffredo MAMELI/Michele NOVARO<br>
-<strong>note:</strong> adopted 1946; the anthem, originally written in 1847, is also known as "L'Inno di Mameli" (Mameli's Hymn), and "Fratelli D'Italia" (Brothers of Italy)<br>
+_history_: adopted 1946; the anthem, originally written in 1847, is also known as "L'Inno di Mameli" (Mameli's Hymn), and "Fratelli d'Italia" (Brothers of Italy)<br>
+<strong>note:</strong> adopted 1946; the anthem, originally written in 1847, is also known as "L'Inno di Mameli" (Mameli's Hymn), and "Fratelli d'Italia" (Brothers of Italy)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 60 (54 cultural, 6 natural)<br>
@@ -714,7 +715,4 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 _refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 169,165 (Ukraine) (as of 23 February 2024)<br>
 _stateless persons_: 3,000 (2022)<br>
 <strong>note:</strong> 861,413 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
-
-**Illicit drugs**<br>
-<p>important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe</p><br>
 

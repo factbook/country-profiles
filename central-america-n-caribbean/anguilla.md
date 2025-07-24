@@ -179,7 +179,7 @@ _Education expenditure (% national budget)_: 10.3% national budget (2024 est.)<b
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 inadequate potable water<br>
 
 **Climate**<br>
@@ -281,9 +281,10 @@ dolphin<br>
 the Anguillan coat of arms features three interlocking dolphins jumping out of seawater; they represent endurance, unity, and strength, and their circular motion stands for continuity; the white background symbolizes peace and tranquility, and the turquoise-blue base represents the sea, as well as faith, youth, and hope<br>
 
 **National anthem**<br>
-_name_: "God Bless Anguilla"<br>
-_lyrics/music_: Alex RICHARDSON<br>
-<strong>note:</strong> local anthem adopted 1981; as an overseas territory of the United Kingdom, "God Save the King" is official (see United Kingdom)<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: official anthem, as an overseas UK territory<br>
+<strong>note:</strong> local anthem adopted 1981; "God Save the King" is the official anthem for Anguilla as an overseas territory of the United Kingdom (see United Kingdom)<br>
 
 ## Economy
 
@@ -413,7 +414,4 @@ _by type_: other 2<br>
 defense is the responsibility of the UK<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-<p>transshipment point for South American narcotics destined for the US and Europe</p><br>
 

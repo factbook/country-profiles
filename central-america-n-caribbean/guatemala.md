@@ -236,10 +236,10 @@ _female_: 10 years (2019)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation in the Peten rainforest; soil erosion; water pollution<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -382,8 +382,9 @@ quetzal (bird)<br>
 blue, white<br>
 
 **National anthem**<br>
-_name_: "Himno Nacional de Guatemala" (National Anthem of Guatemala)<br>
+_title_: "Himno Nacional de Guatemala" (National Anthem of Guatemala)<br>
 _lyrics/music_: Jose Joaquin PALMA/Rafael Alvarez OVALLE<br>
+_history_: adopted 1897, modified lyrics adopted 1934; Cuban poet Jose Joaquin PALMA anonymously submitted lyrics to a public contest calling for a national anthem; his authorship was not discovered until 1911<br>
 <strong>note:</strong> adopted 1897, modified lyrics adopted 1934; Cuban poet Jose Joaquin PALMA anonymously submitted lyrics to a public contest calling for a national anthem; his authorship was not discovered until 1911<br>
 
 **National heritage**<br>
@@ -684,5 +685,5 @@ the military is responsible for maintaining the independence, sovereignty, terri
 _IDPs_: 242,000 (more than three decades of internal conflict that ended in 1996 displaced mainly the indigenous Maya population and rural peasants; ongoing drug cartel and gang violence) (2022)<br>
 
 **Illicit drugs**<br>
-<p>a major transit country for illegal drugs; illicit cultivation of opium poppies, marijuana, and coca plants in rural areas; a major source of precursor or essential chemicals used in the production of illicit narcotics</p> <p> </p><br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>
 

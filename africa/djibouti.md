@@ -212,11 +212,6 @@ _women married by age 18_: 6.5% (2019)<br>
 _Education expenditure (% GDP)_: 3.8% of GDP (2018 est.)<br>
 _Education expenditure (% national budget)_: 14.5% national budget (2018 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 7 years<br>
 _male_: 7 years<br>
@@ -224,10 +219,10 @@ _female_: 7 years (2011)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 inadequate supplies of potable water; water pollution; limited arable land; deforestation (forests threatened by agriculture and the use of wood for fuel); desertification; endangered species<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -367,8 +362,9 @@ red star<br>
 light blue, green, white, red<br>
 
 **National anthem**<br>
-_name_: "Jabuuti" (Djibouti)<br>
+_title_: "Jabuuti" (Djibouti)<br>
 _lyrics/music_: Aden ELMI/Abdi ROBLEH<br>
+_history_: adopted 1977<br>
 <strong>note:</strong> adopted 1977<br>
 
 ## Economy

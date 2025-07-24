@@ -226,11 +226,6 @@ _female_: 15% (2025 est.)<br>
 _Education expenditure (% GDP)_: 4.5% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 9.3% national budget (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
 _male_: 17 years<br>
@@ -238,10 +233,10 @@ _female_: 17 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution and acid rain from coal-burning utilities and industries; water pollution from raw sewage and industrial effluents; hazardous waste disposal<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -400,9 +395,10 @@ eagle<br>
 black, red, yellow<br>
 
 **National anthem**<br>
-_name_: "Das Lied der Deutschen" (Song of the Germans)<br>
+_title_: "Das Lied der Deutschen" (Song of the Germans)<br>
 _lyrics/music_: August Heinrich HOFFMANN VON FALLERSLEBEN/Franz Joseph HAYDN<br>
-<strong>note:</strong> adopted 1922; the anthem, also known as "Deutschlandlied" (Song of Germany), was originally adopted for its connection to the March 1848 liberal revolution; following appropriation by the Nazis of the first verse, specifically the phrase, "Deutschland, Deutschland ueber alles" (Germany, Germany above all) to promote nationalism, it was banned after 1945; in 1952, its third verse was adopted by West Germany as its national anthem; in 1990, it became the national anthem for the reunited Germany<br>
+_history_: first adopted 1922; the anthem, also known as "Deutschlandlied" (Song of Germany), was originally adopted for its connection to the March 1848 liberal revolution; the Nazis later appropriated the first verse -- specifically the phrase "Deutschland, Deutschland ueber alles" (Germany, Germany above all) -- to promote nationalism, and the anthem was banned after 1945; in 1952, West Germany adopted the third verse as its national anthem; in 1990, it became the national anthem for the reunited Germany<br>
+<strong>note:</strong> first adopted 1922; the anthem, also known as "Deutschlandlied" (Song of Germany), was originally adopted for its connection to the March 1848 liberal revolution; the Nazis later appropriated the first verse -- specifically the phrase "Deutschland, Deutschland ueber alles" (Germany, Germany above all) -- to promote nationalism, and the anthem was banned after 1945; in 1952, West Germany adopted the third verse as its national anthem; in 1990, it became the national anthem for the reunited Germany<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 55 (53 cultural, 2 natural)<br>
@@ -724,5 +720,5 @@ _refugees (country of origin)_: 664,238 (Syria), 183,631 (Afghanistan), 151,254 
 _stateless persons_: 28,941 (2022)<br>
 
 **Illicit drugs**<br>
-<p>maritime transshipment point for cocaine heading for European drug; a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>
+_USG identification_: <br>major precursor-chemical producer (2025)<br>
 

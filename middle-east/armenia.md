@@ -232,10 +232,10 @@ _female_: 14 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 soil pollution from toxic chemicals; deforestation; river pollution; threats to drinking water supplies from use of hydropower; nuclear power plant located in earthquake zone<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Persistent Organic Pollutants<br>
 
@@ -376,9 +376,10 @@ Mount Ararat, eagle, lion<br>
 red, blue, orange<br>
 
 **National anthem**<br>
-_name_: "Mer Hayrenik" (Our Fatherland)<br>
+_title_: "Mer Hayrenik" (Our Fatherland)<br>
 _lyrics/music_: Mikael NALBANDIAN/Barsegh KANACHYAN<br>
-<strong>note:</strong> adopted 1991; based on the anthem of the Democratic Republic of Armenia (1918-1922) but with different lyrics<br>
+_history_: adopted 1991; based on the anthem of the Democratic Republic of Armenia (1918-1922), but with different lyrics<br>
+<strong>note:</strong> adopted 1991; based on the anthem of the Democratic Republic of Armenia (1918-1922), but with different lyrics<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (3 cultural)<br>
@@ -659,7 +660,4 @@ the Armenian Armed Forces were officially established in 1992, although their or
 _refugees (country of origin)_: 27,929 (Azerbaijan) (mid-year 2022)<br>
 _IDPs_: 8,400 (2022)<br>
 _stateless persons_: 816 (2022)<br>
-
-**Illicit drugs**<br>
-<p>a transit country for illicit drugs with its location between source countries Afghanistan and Iran and the markets of Europe and Russia.</p> <p> </p><br>
 

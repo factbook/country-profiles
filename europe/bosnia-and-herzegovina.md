@@ -213,11 +213,6 @@ _female_: 29% (2025 est.)<br>
 _Education expenditure (% GDP)_: 3% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 10.4% national budget (2021 est.)<br>
 
-**Literacy**<br>
-_total population_: 98.1%<br>
-_male_: 99.4%<br>
-_female_: 98.1% (2021)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 14 years<br>
@@ -225,10 +220,10 @@ _female_: 15 years (2014)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution; deforestation and illegal logging; inadequate wastewater treatment and flood management facilities; urban waste disposal; uncleared land mines from the 1990s<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -390,9 +385,10 @@ golden lily<br>
 blue, yellow, white<br>
 
 **National anthem**<br>
-_name_: "Drzavna himna Bosne i Hercegovine" (The National Anthem of Bosnia and Herzegovina)<br>
+_title_: "Drzavna himna Bosne i Hercegovine" (The National Anthem of Bosnia and Herzegovina)<br>
 _lyrics/music_: none officially/Dusan SESTIC<br>
-<strong>note:</strong> music adopted 1999; lyrics proposed in 2008 and others in 2016 were not approved<br>
+_history_: music adopted 1999; lyrics proposed in 2008 and 2016 were not approved<br>
+<strong>note:</strong> music adopted 1999; lyrics proposed in 2008 and 2016 were not approved<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>
@@ -678,7 +674,4 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _IDPs_: 91,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2022)<br>
 _stateless persons_: 48 (2022)<br>
 <strong>note: </strong>153,304 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
-
-**Illicit drugs**<br>
-<p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p><br>
 

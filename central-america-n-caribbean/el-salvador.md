@@ -143,7 +143,7 @@ _total population_: 0.92 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
-43 deaths/100,000 live births (2020 est.)<br>
+39 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 11.7 deaths/1,000 live births (2024 est.)<br>
@@ -228,10 +228,10 @@ _female_: 12 years (2018)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; soil erosion; water pollution; contamination of soils from disposal of toxic wastes<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Law of the Sea<br>
 
@@ -372,9 +372,10 @@ turquoise-browed motmot (bird)<br>
 blue, white<br>
 
 **National anthem**<br>
-_name_: "Himno Nacional de El Salvador" (National Anthem of El Salvador)<br>
+_title_: "Himno Nacional de El Salvador" (National Anthem of El Salvador)<br>
 _lyrics/music_: Juan Jose CANAS/Juan ABERLE<br>
-<strong>note:</strong> officially adopted 1953, in use since 1879; at 4:20 minutes, the anthem of El Salvador is one of the world's longest<br>
+_history_: officially adopted 1953, in use since 1879; at four minutes and 20 seconds, the anthem is one of the world's longest<br>
+<strong>note:</strong> officially adopted 1953, in use since 1879; at four minutes and 20 seconds, the anthem is one of the world's longest<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -658,5 +659,5 @@ the Armed Force of El Salvador (FAES) is responsible for defending national sove
 _IDPs_: 52,000 (2022)<br>
 
 **Illicit drugs**<br>
-<p>a transit country for illicit drugs destined for the United States;  a major source of precursor or essential chemicals used in the production of illicit narcotics</p> <p> </p><br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>
 

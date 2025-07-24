@@ -244,10 +244,10 @@ _female_: 8 years (2012)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; overgrazing; soil erosion; desertification; loss of biodiversity; water shortages in some areas from water-intensive farming and poor management; industrial pollution and pesticides contribute to air, water, and soil pollution<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection<br>
 _signed, but not ratified_: Environmental Modification, Law of the Sea, Nuclear Test Ban<br>
 
@@ -402,8 +402,9 @@ Abyssinian lion (traditional), yellow pentagram with five rays of light on a blu
 green, yellow, red<br>
 
 **National anthem**<br>
-_name_: "Whedefit Gesgeshi Woud Enat Ethiopia" (March Forward, Dear Mother Ethiopia)<br>
+_title_: "Whedefit Gesgeshi Woud Enat Ethiopia" (March Forward, Dear Mother Ethiopia)<br>
 _lyrics/music_: DEREJE Melaku Mengesha/SOLOMON Lulu<br>
+_history_: adopted 1992<br>
 <strong>note:</strong> adopted 1992<br>
 
 **National heritage**<br>
@@ -704,7 +705,4 @@ al-Shabaab<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 167,391 (Eritrea) (2023); 420,502 (South Sudan), 314,976 (Somalia), 111,778 (Sudan) (refugees since 15 April 2023) (2024)<br>
 _IDPs_: 4.385 million (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2023)<br>
-
-**Illicit drugs**<br>
-transit hub for heroin originating in Southwest and Southeast Asia and destined for Europe, as well as cocaine destined for markets in southern Africa; cultivates qat (khat) for local use and regional export, principally to Djibouti and Somalia (legal in all three countries); the lack of a well-developed financial system limits the country's utility as a money laundering center<br>
 

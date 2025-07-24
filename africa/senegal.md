@@ -241,10 +241,10 @@ _female_: 10 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; overgrazing; soil erosion; desertification; droughts; seasonal flooding; overfishing; weak environmental laws; poaching<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -384,9 +384,10 @@ lion<br>
 green, yellow, red<br>
 
 **National anthem**<br>
-_name_: "Pincez Tous vos Koras, Frappez les Balafons" (Pluck Your Koras, Strike the Balafons)<br>
+_title_: "Pincez Tous vos Koras, Frappez les Balafons" (Pluck Your Koras, Strike the Balafons)<br>
 _lyrics/music_: Leopold Sedar SENGHOR/Herbert PEPPER<br>
-<strong>note:</strong> adopted 1960; lyrics written by Leopold Sedar SENGHOR, Senegal's first president; the anthem sometimes played incorporating the Koras (harp-like stringed instruments) and Balafons (types of xylophones) mentioned in the title<br>
+_history_: adopted 1960; lyrics written by Leopold Sedar SENGHOR, Senegal's first president; the anthem sometimes played incorporating the koras (harp-like stringed instruments) and balafons (types of xylophones) mentioned in the title<br>
+<strong>note:</strong> adopted 1960; lyrics written by Leopold Sedar SENGHOR, Senegal's first president; the anthem sometimes played incorporating the koras (harp-like stringed instruments) and balafons (types of xylophones) mentioned in the title<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 7 (5 cultural, 2 natural)<br>
@@ -680,7 +681,4 @@ Jama&rsquo;at Nusrat al-Islam wal-Muslimin (JNIM)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 11,518 (Mauritania) (2023)<br>
 _IDPs_: 8,400 (2022)<br>
-
-**Illicit drugs**<br>
-<p>a transit point on the cocaine route from South America to Europe; large production of cannabis in southern Casamance region; the high domestic use of cannabis, ecstasy, and to a lesser extent crack cocaine</p><br>
 

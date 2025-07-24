@@ -220,11 +220,6 @@ _female_: 16.4% (2025 est.)<br>
 _Education expenditure (% GDP)_: 5.1% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 11.6% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
 _male_: 18 years<br>
@@ -232,10 +227,10 @@ _female_: 19 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water pollution, including industrial and agricultural chemicals in rivers; air pollution from vehicles and refining activities<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -397,9 +392,10 @@ lion, daisy<br>
 orange<br>
 
 **National anthem**<br>
-_name_: "Het Wilhelmus" (The William)<br>
+_title_: "Het Wilhelmus" (The William)<br>
 _lyrics/music_: Philips VAN MARNIX van Sint Aldegonde (presumed)/unknown<br>
-<strong>note:</strong> adopted 1932, in use since the 17th century, making it the oldest national anthem in the world; also known as "Wilhelmus van Nassouwe" (William of Nassau), it is in the form of an acrostic, where the first letter of each stanza spells the name of the leader of the Dutch Revolt<br>
+_history_: adopted 1932, in use since the 17th century; also known as "Wilhelmus van Nassouwe" (William of Nassau), it is in the form of an acrostic -- the first letter of each stanza spells the name of the leader of the Dutch Revolt<br>
+<strong>note:</strong> adopted 1932, in use since the 17th century; also known as "Wilhelmus van Nassouwe" (William of Nassau), it is in the form of an acrostic -- the first letter of each stanza spells the name of the leader of the Dutch Revolt<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 13 (12 cultural, 1 natural)<br>
@@ -699,7 +695,7 @@ the military's inventory consists of a mix of domestically produced and modern E
 <strong>note: </strong> the Netherlands contributes naval assets to support freedom of the sea missions in such places as the Red Sea and the Strait of Hormuz; it also assists with monitoring the airspace of the eastern flank of NATO territory by means of fighter aircraft and provides some ground personnel to a variety of other NATO, UN, and EU security missions<br>
 
 **Military - note**<br>
-the Dutch military is charged with the three core tasks of defending the country’s national territory and that of its allies, enforcing the national and international rule of law, and providing assistance during disasters and other crises; it also has some domestic security duties, including in the Dutch Caribbean territories; the military operates globally but rarely carries out military operations independently and focuses on cooperating with the armed forces of other countries, particularly with Belgium, Denmark, Germany, and the UK <br><br>the Netherlands has been a member of NATO since its founding in 1949, and the Dutch military is heavily involved in NATO missions and operations with air, ground, and naval forces, including air policing missions over the Benelux countries and Eastern Europe, NATO’s Enhanced Forward Presence initiative in the Baltic States and Eastern Europe, and several NATO naval flotillas, as well as standby units for NATO’s rapid response force; the military has previously deployed forces to NATO-led operations in Afghanistan, Iraq, and Kosovo and also regularly contributes to EU- and UN-led missions; Royal Netherlands Marechaussee detachments have been included in international police units deployed by NATO<br><br>the Dutch Army has especially close ties with the German Army, including having its air mobile and mechanized brigades assigned to German divisional headquarters; in addition, the Army shares with the Germans command of a NATO high-readiness corps-level headquarters, which can be ready for deployment inside or outside NATO territory within 20 days; in 2020, Belgium, Denmark, and the Netherlands formed a joint composite special operations component command<br><br>founded in the late 1400s, the Royal Netherlands Navy is one of the oldest naval forces in the World and conducts a variety of missions worldwide; in addition to its close ties with NATO, the Navy cooperates closely with the Belgian Navy, including a joint staff known as the Admiralty Benelux; it has a command responsible for the activities of Dutch naval units in the Caribbean, which includes combating drug trafficking, environmental crime, and illegal fishing, as well as providing search and rescue and disaster relief capabilities; the Netherlands has naval bases on Curaçao and Aruba; since 1973, the Dutch Marine Corps has worked closely with the British Royal Marines, including jointly in the UK-Netherlands amphibious landing force<br><br>the Dutch military is also part of the UK-led Joint Expeditionary Force, a defense framework of 10 Northern European nations designed to provide security to the High North, North Atlantic, and the Baltic Sea Region in response to a crisis (2025)<br>
+the Dutch military is charged with the three core tasks of defending the country’s national territory and that of its allies, enforcing the national and international rule of law, and providing assistance during disasters and other crises; it also has some domestic security duties, including in the Dutch Caribbean territories; the military operates globally but rarely carries out its operations independently, focusing instead on working through NATO and bilaterally with regional partners; it has particularly close ties with Belgium, Denmark, Germany, and the UK, including some combined military units and staffs<br><br>the Netherlands has been a member of NATO since its founding in 1949, and the Dutch military is involved in NATO missions and operations with air, ground, and naval forces, including air policing missions over the Benelux countries and Eastern Europe, NATO’s Enhanced Forward Presence initiative in the Baltic States and Eastern Europe, and several NATO naval flotillas, as well as standby units for NATO’s rapid response force; the military has previously deployed forces to NATO-led operations in Afghanistan, Iraq, and Kosovo and also contributes to EU- and UN-led missions; Royal Netherlands Marechaussee detachments have been included in international police units deployed by NATO (2025)<br>
 
 ## Space
 
@@ -723,5 +719,5 @@ _refugees (country of origin)_: 53,496 (Syria), 19,204 (Eritrea), 7,106 (Turkey)
 _stateless persons_: 4,570 (2022)<br>
 
 **Illicit drugs**<br>
-<p>a major transit hub for illicit substances, especially cocaine from South and Central America and methamphetamine from Mexico; homegrown synthetic drug makers and illegal chemical precursor manufacturers selling dangerous drugs, including synthetic opioids, via the internet to customers in the United States and worldwide</p> <p> </p><br>
+_USG identification_: <br>major precursor-chemical producer (2025)<br>
 

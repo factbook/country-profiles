@@ -128,7 +128,7 @@ _improved: rural_: rural: 100% of population<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 overfishing; damage to forest resources; pollution of freshwater and coastal waters from improper disposal of chemicals<br>
 
 **Climate**<br>
@@ -236,9 +236,10 @@ tuluma (fishing tackle box)<br>
 blue, yellow, white<br>
 
 **National anthem**<br>
-_name_: "Te Atua" (For the Almighty)<br>
-_lyrics/music_: unknown/Falani KALOLO<br>
-<strong>note:</strong> adopted 2008; in preparation for eventual self governance, Tokelau held a national contest to choose an anthem; as a territory of New Zealand, in addition to "God Defend New Zealand," "God Save the King" serves as a royal anthem (see United Kingdom); "God Save the King" normally played only when a member of the royal family or the governor-general is present; in all other cases, "God Defend New Zealand" is played (see New Zealand)<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: official anthem, as a territory of New Zealand; normally played only when a member of the royal family or the governor-general is present<br>
+<strong>note:</strong> adopted 2008; national contest was held to choose an anthem; as a territory of New Zealand, in addition to "God Defend New Zealand," "God Save the King" serves as a royal anthem (see United Kingdom); "God Save the King" normally played only when a member of the royal family or the governor-general is present; in all other cases, "God Defend New Zealand" is played (see New Zealand)<br>
 
 ## Economy
 

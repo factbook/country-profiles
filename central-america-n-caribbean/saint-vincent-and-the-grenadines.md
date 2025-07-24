@@ -137,7 +137,7 @@ _65 years and over_: 0.94 male(s)/female<br>
 _total population_: 1.04 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-62 deaths/100,000 live births (2020 est.)<br>
+56 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 12.3 deaths/1,000 live births (2024 est.)<br>
@@ -197,11 +197,6 @@ _other alcohols_: 0.23 liters of pure alcohol (2019 est.)<br>
 _Education expenditure (% GDP)_: 6.5% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 12.6% national budget (2024 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 14 years<br>
@@ -209,10 +204,10 @@ _female_: 15 years (2015)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 pollution of coastal waters and shorelines from boats; poor land-use planning; deforestation; watershed management; squatter settlement control<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -340,8 +335,9 @@ Saint Vincent parrot<br>
 blue, gold, green<br>
 
 **National anthem**<br>
-_name_: "St. Vincent! Land So Beautiful!"<br>
+_title_: "St. Vincent! Land So Beautiful!"<br>
 _lyrics/music_: Phyllis Joyce MCCLEAN PUNNETT/Joel Bertram MIGUEL<br>
+_history_: adopted 1967<br>
 <strong>note:</strong> adopted 1967<br>
 
 ## Economy
@@ -571,7 +567,4 @@ no regular military forces; Ministry of National Security: Royal Saint Vincent a
 the country has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Guyana, Saint Kitts and Nevis, and Saint Lucia) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2025)<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>
 

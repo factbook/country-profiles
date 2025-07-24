@@ -231,10 +231,10 @@ _female_: 51.9% (2015 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 overuse of pastures and subsequent soil erosion; desertification; deforestation of tropical rainforest from international demand for timber and domestic use as fuel; loss of biodiversity; soil erosion contributing to water pollution and siltation of rivers and dams; inadequate supplies of potable water<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -375,8 +375,9 @@ giant black sable antelope (<em>Palanca negra gigante</em>)<br>
 red, black, yellow<br>
 
 **National anthem**<br>
-_name_: "Angola Avante" (Forward Angola)<br>
+_title_: "Angola Avante" (Forward Angola)<br>
 _lyrics/music_: Manuel Rui Alves MONTEIRO/Rui Alberto Vieira Dias MINGAO<br>
+_history_: adopted 1975<br>
 <strong>note:</strong> adopted 1975<br>
 
 **National heritage**<br>
@@ -675,7 +676,4 @@ has a national space strategy with a focus on capacity-building, developing spac
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2023); 22,841 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
-
-**Illicit drugs**<br>
-<p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>
 

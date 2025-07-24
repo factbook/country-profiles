@@ -140,7 +140,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 30.9 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-5 deaths/100,000 live births (2020 est.)<br>
+4 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.3 deaths/1,000 live births (2024 est.)<br>
@@ -209,11 +209,6 @@ _female_: 14.4% (2025 est.)<br>
 _Education expenditure (% GDP)_: 3% of GDP (2021 est.)<br>
 _Education expenditure (% national budget)_: 12% national budget (2021 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
 _male_: 18 years<br>
@@ -221,10 +216,10 @@ _female_: 19 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water pollution, especially of lakes, from agricultural runoff; deforestation, including problems with acid rain<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Marine Life Conservation<br>
 
@@ -384,9 +379,10 @@ harp, shamrock (trefoil)<br>
 blue, green<br>
 
 **National anthem**<br>
-_name_: "Amhran na bhFiann" (The Soldier's Song)<br>
+_title_: "Amhran na bhFiann" (The Soldier's Song)<br>
 _lyrics/music_: Peadar KEARNEY [English], Liam O RINN [Irish]/Patrick HEENEY and Peadar KEARNEY<br>
-<strong>note:</strong> adopted 1926; instead of "Amhran na bhFiann," the song "Ireland's Call" is often used at athletic events where citizens of Ireland and Northern Ireland compete as a unified team<br>
+_history_: adopted 1926; the song "Ireland's Call" is often used as the anthem at athletic events if citizens of Ireland and Northern Ireland are competing as a unified team<br>
+<strong>note:</strong> adopted 1926; the song "Ireland's Call" is often used as the anthem at athletic events if citizens of Ireland and Northern Ireland are competing as a unified team<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>
@@ -685,7 +681,4 @@ Continuity Irish Republican Army (CIRA); Real Irish Republican Army (RIRA); Isla
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 105,210 (Ukraine) (as of 8 March 2024)<br>
 _stateless persons_: 7 (2022)<br>
-
-**Illicit drugs**<br>
-transshipment point for and consumer of hashish from North Africa to the UK and Netherlands and of European-produced synthetic drugs; increasing consumption of South American cocaine; minor transshipment point for heroin and cocaine destined for Western Europe; despite recent legislation, narcotics-related money laundering - using bureaux de change, trusts, and shell companies involving the offshore financial community - remains a concern<br>
 

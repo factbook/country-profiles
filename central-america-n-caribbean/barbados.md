@@ -135,7 +135,7 @@ _65 years and over_: 0.73 male(s)/female<br>
 _total population_: 0.93 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-39 deaths/100,000 live births (2020 est.)<br>
+35 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 9.6 deaths/1,000 live births (2024 est.)<br>
@@ -157,11 +157,7 @@ _female_: 81.8 years<br>
 59.2% (2012)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
 _improved: total_: total: 98.8% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 2% of population (2020 est.)<br>
 
 **Health expenditure**<br>
@@ -204,17 +200,12 @@ _female_: 1.5% (2025 est.)<br>
 _Education expenditure (% GDP)_: 4% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 12.5% national budget (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: 99.6%<br>
-_male_: 99.6%<br>
-_female_: 99.6% (2014)<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 pollution of coastal waters from waste disposal by ships; soil erosion; illegal solid-waste disposal&nbsp;<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -366,8 +357,9 @@ Neptune's trident, pelican, red bird of paradise flower (also known as "Pride of
 blue, yellow, black<br>
 
 **National anthem**<br>
-_name_: "The National Anthem of Barbados"<br>
+_title_: "The National Anthem of Barbados"<br>
 _lyrics/music_: Irving BURGIE/C. Van Roland EDWARDS<br>
+_history_: adopted 1966; the anthem is also known as "In Plenty and In Time of Need"<br>
 <strong>note:</strong> adopted 1966; the anthem is also known as "In Plenty and In Time of Need"<br>
 
 **National heritage**<br>
@@ -629,7 +621,4 @@ voluntary service only (men and women); 17 years, 9 months to 17 years, 11 month
 formed in 1979, the Barbados Defense Force (BDF) is responsible for protecting national security, but it may also be called up to maintain internal public order in times of crisis, emergency, or other specific needs, such as special joint patrols with the police; it also provides humanitarian assistance and disaster response operations both domestically and regionally; other duties include assisting with national development, such as through the training of the country's youth with the units of the Barbados Cadet Corps <br><br>Barbados has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Dominica, Grenada, Guyana, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security; the RSS is headquartered in Barbados (2025)<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>
 

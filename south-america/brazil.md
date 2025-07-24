@@ -238,10 +238,10 @@ _female_: 16 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation in Amazon Basin; illegal wildlife trade; illegal poaching; air and water pollution in Rio de Janeiro, Sao Paulo, and other large cities; land degradation and water pollution from mining; wetland degradation; oil spills<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Marine Dumping-London Protocol<br>
 
@@ -406,9 +406,10 @@ Southern Cross constellation<br>
 green, yellow, blue<br>
 
 **National anthem**<br>
-_name_: "Hino Nacional Brasileiro" (Brazilian National Anthem)<br>
+_title_: "Hino Nacional Brasileiro" (Brazilian National Anthem)<br>
 _lyrics/music_: Joaquim Osorio Duque ESTRADA/Francisco Manoel DA SILVA<br>
-<strong>note:</strong> music adopted 1890, lyrics adopted 1922; the anthem's music, composed in 1822, was used unofficially for many years before it was adopted<br>
+_history_: music adopted 1890, lyrics adopted 1922; the anthem's music, composed in 1822, was used unofficially for many years<br>
+<strong>note:</strong> music adopted 1890, lyrics adopted 1922; the anthem's music, composed in 1822, was used unofficially for many years <br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 24 (15 cultural, 8 natural, 1 mixed)<br>
@@ -739,5 +740,5 @@ _IDPs_: 5,600 (2022)<br>
 _stateless persons_: 12 (2022)<br>
 
 **Illicit drugs**<br>
-<p>a significant drug transit and destination country for cocaine bound for Europe and other destinations including the United States; domestic drug use and addiction is a significant problem and it is second only to the United States in cocaine consumption; a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>
+_USG identification_: <br>major precursor-chemical producer (2025)<br>
 

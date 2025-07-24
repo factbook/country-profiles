@@ -213,8 +213,6 @@ _women married by age 15_: 0.3% (2019)<br>
 _women married by age 18_: 7.5% (2019)<br>
 
 **Literacy**<br>
-_total population_: 98.4%<br>
-_male_: 99.1%<br>
 _female_: 97.8% (2018 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
@@ -224,10 +222,10 @@ _female_: 14 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution from metallurgical plants, smoke from wood-burning stoves, and vehicle emissions<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -371,9 +369,10 @@ eight-rayed sun<br>
 red, yellow<br>
 
 **National anthem**<br>
-_name_: "Denes nad Makedonija" (Today Over Macedonia)<br>
+_title_: "Denes nad Makedonija" (Today Over Macedonia)<br>
 _lyrics/music_: Vlado MALESKI/Todor SKALOVSKI<br>
-<strong>note:</strong> written in 1943 and adopted in 1991, the song previously served as the anthem of the Socialist Republic of Macedonia while part of Yugoslavia<br>
+_history_: written in 1943 and adopted in 1991, the song previously served as the anthem of the Socialist Republic of Macedonia, when it was part of Yugoslavia<br>
+<strong>note:</strong> written in 1943 and adopted in 1991, the song previously served as the anthem of the Socialist Republic of Macedonia, when it was part of Yugoslavia<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both natural)<br>
@@ -645,7 +644,7 @@ the military's inventory is a mix of Soviet-era and increasing amounts of modern
 <strong>note:</strong> as of 2024, women made up about 10% of the military's full-time personnel<br>
 
 **Military - note**<br>
-the Army of the Republic of North Macedonia (ARSM) is responsible for the defense of the country&rsquo;s territory and independence, fulfilling North Macedonia&rsquo;s commitments to NATO and European security, and contributing to EU, NATO, and UN peace and security missions; the ARSM has participated in multinational missions and operations in Afghanistan (NATO), Bosnia and Herzegovina (EU), Eastern Europe (NATO), Iraq (NATO), Kosovo (NATO), and Lebanon (UN); a key area of focus over the past decade has been improving capabilities and bringing the largely Soviet-era-equipped ARSM up to NATO standards; it has increased its participation in NATO training exercises since becoming the 30th member of the Alliance in 2020 and currently has small numbers of combat troops deployed to Bulgaria and Romania as part of NATO&rsquo;s Enhance Forward Presence mission implemented because of Russian military aggression against Ukraine (2024)<br>
+the Army of the Republic of North Macedonia (ARSM) is responsible for the defense of the country&rsquo;s territory and independence, fulfilling North Macedonia&rsquo;s commitments to NATO and European security, and contributing to EU, NATO, and UN peace and security missions; the ARSM has participated in multinational missions and operations in Afghanistan (NATO), Bosnia and Herzegovina (EU), Eastern Europe (NATO), Iraq (NATO), Kosovo (NATO), and Lebanon (UN); a key area of focus over the past decade has been improving capabilities and bringing the largely Soviet-era-equipped ARSM up to NATO standards; it has increased its participation in NATO training exercises since becoming the 30th member of the Alliance in 2020 and currently has small numbers of combat troops deployed to Bulgaria and Romania as part of NATO&rsquo;s Enhance Forward Presence mission implemented because of Russian military aggression against Ukraine (2025)<br>
 
 ## Terrorism
 
@@ -659,7 +658,4 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 _refugees (country of origin)_: 18,915 (Ukraine) (as of 22 February 2024)<br>
 _stateless persons_: 521 (2022)<br>
 <strong>note:</strong> 579,828 estimated refugee and migrant arrivals (January 2015-February 2024)<br>
-
-**Illicit drugs**<br>
-major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>
 

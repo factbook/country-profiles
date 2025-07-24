@@ -249,10 +249,10 @@ in October 2015, the Chinese Government announced that it would change its rules
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution and acid rain from reliance on coal; carbon dioxide emissions from the burning of fossil fuels; water shortages, particularly in the north; water pollution from untreated wastes; coastal destruction due to land reclamation, industrial development, and aquaculture; deforestation and habitat destruction; poor land management leading to soil erosion, landslides, floods, droughts, dust storms, and desertification; trade in endangered species<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 
@@ -402,9 +402,10 @@ dragon, giant panda<br>
 red, yellow<br>
 
 **National anthem**<br>
-_name_: "Yiyongjun Jinxingqu" (The March of the Volunteers)<br>
+_title_: "Yiyongjun Jinxingqu" (The March of the Volunteers)<br>
 _lyrics/music_: TIAN Han/NIE Er<br>
-<strong>note:</strong> adopted 1949; the anthem, though banned during the Cultural Revolution, is more commonly known as "Zhongguo Guoge" (Chinese National Song); it was originally the theme song to the 1935 Chinese movie, "Sons and Daughters in a Time of Storm"<br>
+_history_: adopted 1949; the anthem, which was banned during the Cultural Revolution, is more commonly known as "Zhongguo Guoge" (Chinese National Song); it was originally the theme song to the 1935 Chinese movie, "Sons and Daughters in a Time of Storm"<br>
+<strong>note:</strong> adopted 1949; the anthem, which was banned during the Cultural Revolution, is more commonly known as "Zhongguo Guoge" (Chinese National Song); it was originally the theme song to the 1935 Chinese movie, "Sons and Daughters in a Time of Storm"<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 59 (40 cultural, 15 natural, 4 mixed)<br>
@@ -728,5 +729,5 @@ _IDPs_: undetermined (2021)<br>
 _tier rating_: Tier 3 — China does not fully meet the minimum standards for elimination of trafficking and is not making significant efforts to do so, therefore, China remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/china/<br>
 
 **Illicit drugs**<br>
-<p>a major source of precursor chemicals for narcotics such as fentanyl and methamphetamine, new psychoactive substances (NPS), and synthetic drugs; is a destination and transit country for methamphetamine and heroin produced in South east and Southwest Asia;  China remains a major source of precursor chemicals sold in North America via the internet and shipped to overseas customers; domestic use of synthetic drugs is prevalent; chemical alterations of drugs circumvent laws and hamper efforts to stem the flow of these</p> (2021)<br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>
 

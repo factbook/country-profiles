@@ -221,11 +221,6 @@ _female_: 17.8% (2025 est.)<br>
 _Education expenditure (% GDP)_: 4.6% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 10.5% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: 99.8%<br>
-_male_: 99.8%<br>
-_female_: 99.8% (2021)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 15 years<br>
@@ -233,10 +228,10 @@ _female_: 17 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution (despite environmental policy improvements) because of coal-burning in homes and power plants; acid rain leading to forest damage; water pollution from industrial and municipal sources; disposal of hazardous wastes<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 94, Antarctic-Environmental Protection, Antarctic- Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Persistent Organic Pollutants<br>
 
@@ -398,9 +393,10 @@ white crowned eagle<br>
 white, red<br>
 
 **National anthem**<br>
-_name_: "Mazurek Dabrowskiego" (Dabrowski's Mazurka)<br>
+_title_: "Mazurek Dabrowskiego" (Dabrowski's Mazurka)<br>
 _lyrics/music_: Jozef WYBICKI/traditional<br>
-<strong>note:</strong> adopted 1927; the anthem, commonly known as "Jeszcze Polska nie zginela" (Poland Has Not Yet Perished), was written in 1797; the lyrics resonate strongly with Poles because they reflect the numerous occasions in which the nation's lands have been occupied<br>
+_history_: adopted 1927; the anthem, commonly known as "Jeszcze Polska nie zginela" (Poland Has Not Yet Perished), was written in 1797<br>
+<strong>note:</strong> adopted 1927; the anthem, commonly known as "Jeszcze Polska nie zginela" (Poland Has Not Yet Perished), was written in 1797<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 17 (15 cultural, 2 natural)<br>
@@ -715,5 +711,5 @@ _refugees (country of origin)_: 956,635 (Ukraine) (as of 15 December 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>
-<p>a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>
+_USG identification_: <br>major precursor-chemical producer (2025)<br>
 

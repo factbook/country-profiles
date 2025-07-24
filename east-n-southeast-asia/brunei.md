@@ -139,7 +139,7 @@ _65 years and over_: 0.94 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-44 deaths/100,000 live births (2020 est.)<br>
+36 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 10 deaths/1,000 live births (2024 est.)<br>
@@ -162,7 +162,6 @@ NA<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.7% of population<br>
-_improved: rural_: rural: NA<br>
 _improved: total_: total: 99.9% of population<br>
 _unimproved: urban_: urban: 0.4% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
@@ -208,11 +207,6 @@ _female_: 1.9% (2025 est.)<br>
 _Education expenditure (% GDP)_: 4.4% of GDP (2016 est.)<br>
 _Education expenditure (% national budget)_: 11.4% national budget (2016 est.)<br>
 
-**Literacy**<br>
-_total population_: 97.6%<br>
-_male_: 98.3%<br>
-_female_: 96.9% (2021)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 14 years<br>
@@ -220,10 +214,10 @@ _female_: 14 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution, including seasonal haze from forest fires in Indonesia<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -362,8 +356,9 @@ royal parasol<br>
 yellow, white, black<br>
 
 **National anthem**<br>
-_name_: "Allah Peliharakan Sultan" (God Bless His Majesty)<br>
+_title_: "Allah Peliharakan Sultan" (God Bless His Majesty)<br>
 _lyrics/music_: Pengiran Haji Mohamed YUSUF bin Pengiran Abdul Rahim/Awang Haji BESAR bin Sagap<br>
+_history_: adopted 1951<br>
 <strong>note:</strong> adopted 1951<br>
 
 ## Economy
@@ -623,7 +618,4 @@ _stateless persons_: 20,863 (2022); note - thousands of stateless persons, often
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 — Brunei does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Brunei was downgraded to Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/brunei/<br>
-
-**Illicit drugs**<br>
-drug trafficking and illegally importing controlled substances are serious offenses in Brunei and carry a mandatory death penalty<br>
 

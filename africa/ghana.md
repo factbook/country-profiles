@@ -239,10 +239,10 @@ _female_: 12 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 drought in north; deforestation; overgrazing; soil erosion; poaching and habitat destruction; water pollution; inadequate potable water<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Marine Life Conservation<br>
 
@@ -380,8 +380,9 @@ black star, golden eagle<br>
 red, yellow, green, black<br>
 
 **National anthem**<br>
-_name_: "God Bless Our Homeland Ghana"<br>
+_title_: "God Bless Our Homeland Ghana"<br>
 _lyrics/music_: unknown/Philip GBEHO<br>
+_history_: music adopted 1957, lyrics adopted 1966; the lyrics were changed twice, in 1960 when a republic was declared and after a 1966 coup<br>
 <strong>note:</strong> music adopted 1957, lyrics adopted 1966; the lyrics were changed twice, in 1960 when a republic was declared and after a 1966 coup<br>
 
 **National heritage**<br>
@@ -687,7 +688,4 @@ has a small, nascent space program focused on research in space sciences and exp
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-<p>Ghana is a transit and destination point for illicit drugs trafficked from Asia and South America to other African countries, Europe, and to a lesser extent North America; not a significant source for drugs entering the United States; limited local consumption of controlled pharmaceuticals, cocaine, and heroin from Asia and South America; cannabis cultivated and produced in large quantities in most rural areas of Ghana  </p> <p> </p><br>
 

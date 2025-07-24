@@ -196,10 +196,10 @@ _female_: 12 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution; urbanization decreasing rural farmlands; water shortage<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Nuclear Test Ban, Ozone Layer Protection, Whaling<br>
 _signed, but not ratified_: Air Pollution<br>
 
@@ -328,9 +328,10 @@ three peaks, each displaying a tower<br>
 white, blue<br>
 
 **National anthem**<br>
-_name_: "Inno Nazionale della Repubblica" (National Anthem of the Republic)<br>
+_title_: "Inno Nazionale della Repubblica" (National Anthem of the Republic)<br>
 _lyrics/music_: no lyrics/Federico CONSOLO<br>
-<strong>note:</strong> adopted 1894; the music for the lyric-less anthem is based on a 10th century chorale piece<br>
+_history_: adopted 1894; the music for the anthem, which has no lyrics, is based on a 10th-century chorale piece<br>
+<strong>note:</strong> adopted 1894; the music for the anthem, which has no lyrics, is based on a 10th-century chorale piece<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

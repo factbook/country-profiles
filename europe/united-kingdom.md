@@ -217,11 +217,6 @@ _women married by age 18_: 0% (2021)<br>
 _Education expenditure (% GDP)_: 4.9% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 10.6% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
 _male_: 17 years<br>
@@ -229,10 +224,10 @@ _female_: 18 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution in the London region; soil pollution from pesticides and heavy metals; decline in marine and coastal habitats from housing, tourism, and industry<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -390,9 +385,10 @@ lion (all of Britain); lion, Tudor rose, oak (England); lion, unicorn, thistle (
 red, white, blue (all of Britain); red, white (England); blue, white (Scotland); red, white, green (Wales)<br>
 
 **National anthem**<br>
-_name_: "God Save the King"<br>
+_title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
-<strong>note:</strong> in use since 1745; by tradition, the song serves as both the national and royal anthem of the UK; it is known as either "God Save the Queen" or "God Save the King," depending on the gender of the reigning monarch; it also serves as the royal anthem of many Commonwealth nations<br>
+_history_: in use since 1745; by tradition, the song serves as both the national and royal anthem; it is known as either "God Save the Queen" or "God Save the King," depending on the gender of the reigning monarch; it also serves as the royal anthem for many Commonwealth nations<br>
+<strong>note:</strong> in use since 1745; by tradition, the song serves as both the national and royal anthem; it is known as either "God Save the Queen" or "God Save the King," depending on the gender of the reigning monarch; it also serves as the royal anthem for many Commonwealth nations<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 33 (28 cultural, 4 natural, 1 mixed); note - includes one site in Bermuda<br>
@@ -723,5 +719,5 @@ _refugees (country of origin)_: 21,904 (Iran), 15,615 (Eritrea), 11,371 (Sudan),
 _stateless persons_: 5,483 (2022)<br>
 
 **Illicit drugs**<br>
-<p>a major consumer and transshipment point, though not a source, for illicit drugs; among the highest consumer of heroin and cocaine in Europe; one of the largest markets for cannabis; a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>
+_USG identification_: <br>major precursor-chemical producer (2025)<br>
 

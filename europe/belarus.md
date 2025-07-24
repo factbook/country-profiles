@@ -232,10 +232,10 @@ _female_: 15 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 soil pollution from pesticide use; southern part of the country contaminated with fallout from 1986 nuclear reactor accident at Chornobyl' in northern Ukraine<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -391,8 +391,9 @@ no official symbol; the mounted knight known as Pahonia (the Chaser) is the trad
 green, red, white<br>
 
 **National anthem**<br>
-_name_: "My, Bielarusy" (We Belarusians)<br>
+_title_: "My, Bielarusy" (We Belarusians)<br>
 _lyrics/music_: Mikhas KLIMKOVICH and Uladzimir KARYZNA/Nester SAKALOUSKI<br>
+_history_: music adopted 1955, lyrics adopted 2002; after the fall of the Soviet Union, Belarus kept the music of its Soviet-era anthem but adopted new lyrics; also known as "Dziarzauny himn Respubliki Bielarus" (State Anthem of the Republic of Belarus)<br>
 <strong>note:</strong> music adopted 1955, lyrics adopted 2002; after the fall of the Soviet Union, Belarus kept the music of its Soviet-era anthem but adopted new lyrics; also known as "Dziarzauny himn Respubliki Bielarus" (State Anthem of the Republic of Belarus)<br>
 
 **National heritage**<br>
@@ -698,7 +699,4 @@ _stateless persons_: 5,626 (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 — Belarus does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Belarus remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/belarus/<br>
-
-**Illicit drugs**<br>
-limited cultivation of opium poppy and cannabis, mostly for the domestic market; transshipment point for illicit drugs to and via Russia, and to the Baltics and Western Europe; a small and lightly regulated financial center; anti-money-laundering legislation does not meet international standards and was weakened further when know-your-customer requirements were curtailed in 2008; few investigations or prosecutions of money-laundering activities<br>
 

@@ -190,12 +190,6 @@ _women married by age 15_: 4.3% (2023)<br>
 _women married by age 18_: 18.7% (2023)<br>
 _men married by age 18_: 2.7% (2022)<br>
 
-**Literacy**<br>
-_total population_: 86.7%<br>
-_male_: 90.1%<br>
-_female_: 83.3% (2020)<br>
-<strong>note:</strong> more than three quarters of the world's 750 million illiterate adults are found in South Asia and sub-Saharan Africa; of all the illiterate adults in the world, almost two thirds are women (2016)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
 _male_: 13 years<br>
@@ -203,7 +197,7 @@ _female_: 13 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 large areas of the world are subject to overpopulation, industrial disasters, pollution (air, water, acid rain, toxic substances), loss of vegetation (overgrazing, deforestation, desertification), loss of biodiversity; soil degradation, soil depletion, erosion; ozone layer depletion; waste disposal; temperature change<br>
 
 **World biomes**<br>
@@ -268,8 +262,8 @@ a "World" flag does not exist, but the United Nations (UN) flag -- adopted on 7 
 <strong>note 1:</strong> the flags of 12 nations -- Austria, Botswana, Georgia, Jamaica, Japan, Laos, Latvia, Micronesia, Nigeria, North Macedonia, Switzerland, and Thailand -- have no top or bottom and may be flown with either long edge on top <br><br><strong>note 2:</strong> the most common colors found on national flags are as follows: red (including deep red; ~75%), white (~70%), and blue (including light blue; ~50%); these three colors are so prevalent that there are only two countries, Jamaica and Sri Lanka, that do not include one of them; the next three most popular colors are yellow/gold and green (both ~45%) and black (~30%)<br><br><strong>note 3:</strong> flags composed of three colors are by far the most common type and, of those, the red-white-blue combination is the most widespread<br>
 
 **National anthem**<br>
-_name_: almost every country has a national anthem (and Denmark and New Zealand have two); most anthems have lyrics, which are usually in the national or most common language of the country; states with more than one national language may offer several versions<br>
-<strong>note: </strong>the oldest national anthem is the "Het Wilhelmus" (The William) of the Netherlands, which dates to the 17th century; the first anthem to be officially adopted (1795) was "La Marseillaise" (The Song of Marseille) of France; Japan claims to have the shortest anthem, "Kimigayo" (The Emperor's Reign), that consists of 11 measures; Japan's anthem has the world's oldest lyrics, dating to the 10th century or earlier; Greece has the anthem with the longest lyrics, "Ymnos eis tin Eleftherian" (Hymn to Liberty), with 158 stanzas; Uruguay has the anthem with the longest musical score, "Himno Nacional" (National Anthem of Uruguay), with 105 bars (almost five minutes)<br>
+_title_: almost every country has a national anthem (and Denmark and New Zealand have two); most anthems have lyrics, which are usually in the official language or the most common language of the country; countries with more than one official language sometimes offer several versions<br>
+<strong>note: </strong>the first anthem to be officially adopted (1795) was "La Marseillaise" (The Song of Marseille) of France; Japan claims to have the shortest anthem, "Kimigayo" (The Emperor's Reign), that consists of 11 measures; Japan's anthem has the world's oldest lyrics, dating to the 10th century or earlier; Greece has the anthem with the longest lyrics, "Ymnos eis tin Eleftherian" (Hymn to Liberty), with 158 stanzas; Uruguay has the anthem with the longest musical score, "Himno Nacional" (National Anthem of Uruguay), with 105 bars (almost five minutes)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1,223 (952 cultural, 231 natural, 40 mixed) (2024)<br>
@@ -507,7 +501,4 @@ more than 30 countries have existing or planned commercial or government space l
 
 **Trafficking in persons**<br>
 _tier rating_: <strong><br><br>Tier 2 Watch List:</strong> (32 countries) Algeria, Benin, Burkina Faso, Central African Republic, Chad, Republic of Congo, Curaçao, Dominican Republic, Equatorial Guinea, Fiji, Gabon, Guinea-Bissau, Hong Kong, Kuwait, Kyrgyzstan, Laos, Lebanon, Liberia, Madagascar, Maldives, Mali, Malta, Marshall Islands, Nepal, Niger, Rwanda, Serbia, Solomon Islands, Tajikistan, Uruguay, Vanuatu, Zimbabwe (2024)<br><br><strong>Tier 3:</strong> (21 countries) Afghanistan, Belarus, Brunei, Burma, Cambodia, People's Republic of China, Cuba, Djibouti, Eritrea, Iran, Democratic People's Republic of Korea, Macau, Nicaragua, Papua New Guinea, Russia, Sint Maarten, South Sudan, Sudan, Syria, Turkmenistan, Venezuela (2024)<br>
-
-**Illicit drugs**<br>
-<p><strong>cocaine:</strong> worldwide coca cultivation in 2020 likely amounted to 373,000 hectares, potential pure cocaine production reached 2,100 metric tons in 2020<br><strong><br>opiates:</strong> worldwide illicit opium poppy cultivation probably reached about 265,000 hectares in 2020, with potential opium production reaching 7,300 metric tons; Afghanistan is world's primary opium producer, accounting for 85% of the global supply; Southeast Asia was responsible for 7% of global opium; Latin America opium in 2020 was sufficient to produce about 61 metric tons of pure heroin</p> (2015)<br>
 

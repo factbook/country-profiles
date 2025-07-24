@@ -215,11 +215,6 @@ _female_: 3.1% (2025 est.)<br>
 _Education expenditure (% GDP)_: 5.7% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 14.5% national budget (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: 88.7%<br>
-_male_: 84%<br>
-_female_: 90.8% (2022 est.)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
 _male_: 11 years<br>
@@ -227,10 +222,10 @@ _female_: 13 years (2015)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 heavy rates of deforestation; coastal waters polluted by industrial waste, sewage, and oil spills; damage to coral reefs; air pollution in Kingston from vehicle emissions; land erosion<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -378,8 +373,9 @@ green-and-black streamertail (bird), guaiacwood (<em>Guiacum officinale</em>)<br
 green, yellow, black<br>
 
 **National anthem**<br>
-_name_: "Jamaica, Land We Love"<br>
+_title_: "Jamaica, Land We Love"<br>
 _lyrics/music_: Hugh Braham SHERLOCK/Robert Charles LIGHTBOURNE<br>
+_history_: adopted 1962<br>
 <strong>note:</strong> adopted 1962<br>
 
 **National heritage**<br>
@@ -657,5 +653,5 @@ in addition to its responsibility of defending against external aggression, the 
 ## Transnational Issues
 
 **Illicit drugs**<br>
-<p>Jamaica is the largest Caribbean source of marijuana and a transit point for cocaine trafficked from South America to North America and other international markets; criminal gangs in Jamaica, Haiti, and Central America use marijuana for currency to obtain guns or other contraband from criminal entities in Haiti and Central America</p><br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country (2025)<br>
 

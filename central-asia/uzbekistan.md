@@ -237,10 +237,10 @@ _female_: 12 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 growing concentrations of chemical pesticides and natural salts in the shrinking Aral Sea; desertification; water pollution and soil salination from industrial wastes and the heavy use of fertilizers and pesticides; soil contamination from buried nuclear processing and agricultural chemicals<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -394,9 +394,10 @@ khumo (mythical bird)<br>
 blue, white, red, green<br>
 
 **National anthem**<br>
-_name_: "O'zbekiston Respublikasining Davlat Madhiyasi" (National Anthem of the Republic of Uzbekistan)<br>
+_title_: "O'zbekiston Respublikasining Davlat Madhiyasi" (National Anthem of the Republic of Uzbekistan)<br>
 _lyrics/music_: Abdulla ARIPOV/Mutal BURHANOV<br>
-<strong>note:</strong> adopted 1992; after the fall of the Soviet Union, Uzbekistan kept the music of the anthem from its time as a Soviet Republic but adopted new lyrics<br>
+_history_: adopted 1992; after the fall of the Soviet Union, Uzbekistan kept the music of its Soviet-era anthem but adopted new lyrics<br>
+<strong>note:</strong> adopted 1992; after the fall of the Soviet Union, Uzbekistan kept the music of its Soviet-era anthem but adopted new lyrics<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 7 (5 cultural, 2 natural)<br>
@@ -690,7 +691,4 @@ Islamic Jihad Union (IJU); Islamic Movement of Uzbekistan (IMU); Islamic State o
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 13,031 (Afghanistan) (mid-year 2022)<br>
 _stateless persons_: 31,829 (2022)<br>
-
-**Illicit drugs**<br>
-<p>a transit country for Afghan heroin, opium, and hashish destined to Kazakhstan, Russia, and Europe;  cannabis and opium poppy are grown domestically for personal use and sale</p><br>
 

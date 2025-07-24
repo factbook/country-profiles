@@ -173,11 +173,6 @@ _unimproved: total_: total: 2.5% of population (2015 est.)<br>
 _Education expenditure (% GDP)_: 2.5% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 13.6% national budget (2025 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
 _male_: 12 years<br>
@@ -185,7 +180,7 @@ _female_: 12 years (2018)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 limited natural freshwater resources; water pollution from sewage and mining/industry waste; coral reef preservation<br>
 
 **Climate**<br>
@@ -295,7 +290,10 @@ zenaida dove, white cedar flower<br>
 yellow, green, red, white, blue<br>
 
 **National anthem**<br>
-<p><strong>note:</strong> as an overseas territory of the United Kingdom, "God Save the King" is official (see United Kingdom)</p><br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: official anthem, as a UK overseas territory<br>
+<strong>note:</strong> "God Save the King" is the official anthem for BVI, as an overseas territory of the United Kingdom (see United Kingdom)<br>
 
 ## Economy
 
@@ -457,7 +455,4 @@ _key ports_: Road Harbor<br>
 defense is the responsibility of the UK<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-transshipment point for South American narcotics destined for the US and Europe; large offshore financial center makes it vulnerable to money laundering<br>
 

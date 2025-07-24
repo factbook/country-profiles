@@ -229,10 +229,10 @@ _female_: 8 years (2014)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; inadequate potable water; desertification; soil contamination and erosion; overfishing, overpopulation in forest region; poor mining practices; water pollution; improper waste disposal<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -373,8 +373,9 @@ elephant<br>
 red, yellow, green<br>
 
 **National anthem**<br>
-_name_: "Liberte" (Liberty)<br>
+_title_: "Libert&eacute;" (Liberty)<br>
 _lyrics/music_: unknown/Fodeba KEITA<br>
+_history_: adopted 1958<br>
 <strong>note:</strong> adopted 1958<br>
 
 **National heritage**<br>
@@ -646,7 +647,4 @@ the Guinean military's inventory consists almost entirely of Soviet-era weapons 
 the Guinean military is responsible for territorial defense, but also has some domestic security responsibilities and has historically been involved in suppressing public protests; in 2021 the Army&rsquo;s special forces led a military overthrow of the government; the military-led government has since been accused of cracking down on dissent, the media, and political opposition (2025)<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-NA<br>
 

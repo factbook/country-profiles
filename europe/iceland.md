@@ -141,7 +141,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 28.7 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-3 deaths/100,000 live births (2020 est.)<br>
+3 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 1.6 deaths/1,000 live births (2024 est.)<br>
@@ -210,11 +210,6 @@ _female_: 8% (2025 est.)<br>
 _Education expenditure (% GDP)_: 6.7% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 14.8% national budget (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
 _male_: 18 years<br>
@@ -222,10 +217,10 @@ _female_: 21 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water pollution from fertilizer runoff<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Persistent Organic Pollutants, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: Air Pollution-Heavy Metals, Environmental Modification, Marine Life Conservation<br>
 
@@ -369,8 +364,9 @@ gyrfalcon<br>
 blue, white, red<br>
 
 **National anthem**<br>
-_name_: "Lofsongur" (Song of Praise)<br>
+_title_: "Lofsongur" (Song of Praise)<br>
 _lyrics/music_: Matthias JOCHUMSSON/Sveinbjorn SVEINBJORNSSON<br>
+_history_: adopted 1944; also known as "O, Gud vors lands" (O God of Our Land), the anthem was originally written and performed in 1874<br>
 <strong>note:</strong> adopted 1944; also known as "O, Gud vors lands" (O, God of Our Land), the anthem was originally written and performed in 1874<br>
 
 **National heritage**<br>

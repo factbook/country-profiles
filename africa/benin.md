@@ -234,10 +234,10 @@ _female_: 10 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 inadequate supplies of potable water; water pollution; poaching; deforestation; desertification; droughts<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -383,8 +383,9 @@ leopard<br>
 green, yellow, red<br>
 
 **National anthem**<br>
-_name_: "L'Aube Nouvelle" (The Dawn of a New Day)<br>
+_title_: "L'Aube Nouvelle" (The Dawn of a New Day)<br>
 _lyrics/music_: Gilbert Jean DAGNON<br>
+_history_: adopted 1960<br>
 <strong>note:</strong> adopted 1960<br>
 
 **National heritage**<br>
@@ -668,7 +669,4 @@ Jama’at Nusrat al Islam wal Muslimeen (JNIM); Islamic State in the Greater Sah
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch list — Benin did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/benin/<br>
-
-**Illicit drugs**<br>
-<p>a significant transit and departure country for cocaine shipments in Africa destined for Europe</p><br>
 

@@ -234,11 +234,6 @@ _female_: 16.7% (2025 est.)<br>
 _Education expenditure (% GDP)_: 5.4% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 14% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 16 years<br>
@@ -246,10 +241,10 @@ _female_: 17 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution; water pollution from runoff of pesticides and fertilizers; declining natural freshwater resources in the west; deforestation; mining; desertification; species conservation; invasive species&nbsp;<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Climate Change, Desertification, Endangered Species, Environmental Modification, Marine Dumping-London Convention, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Air Pollution-Persistent Organic Pollutants, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Hazardous Wastes, Marine Dumping-London Protocol<br>
 
@@ -398,9 +393,10 @@ bald eagle<br>
 red, white, blue<br>
 
 **National anthem**<br>
-_name_: "The Star-Spangled Banner"<br>
+_title_: "The Star-Spangled Banner"<br>
 _lyrics/music_: Francis Scott KEY/John Stafford SMITH<br>
-<strong>note:</strong> adopted 1931; during the War of 1812, after witnessing the successful American defense of Fort McHenry in Baltimore following British naval bombardment, Francis Scott KEY wrote the lyrics to what would become the national anthem; the lyrics were set to the tune of "The Anacreontic Song"; only the first verse is sung<br>
+_history_: adopted 1931; during the War of 1812, Francis Scott KEY witnessed the successful American defense of Baltimore's Fort McHenry against a British naval bombardment, later writing a poem about it that would become the US national anthem; the lyrics were set to the tune of "The Anacreontic Song;" usually only the first verse is sung<br>
+<strong>note:</strong> adopted 1931; during the War of 1812, Francis Scott KEY witnessed the successful American defense of Baltimore's Fort McHenry against a British naval bombardment, later writing a poem about it that would become the US national anthem; the lyrics were set to the tune of "The Anacreontic Song;" usually only the first verse is sung<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 26 (13 cultural, 12 natural, 1 mixed); note - includes one site in Puerto Rico<br>
@@ -716,7 +712,4 @@ Hizballah; Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: the US admitted 25,465 refugees during FY2022, including: 7,810 (Democratic Republic of the Congo), 4,556 (Syria), 2,156 (Burma), 1,669 (Sudan), 1,618 (Afghanistan), 1,610 (Ukraine)<br>
 _stateless persons_: 47 (2022)<br>
-
-**Illicit drugs**<br>
-<p>world's largest consumer of cocaine (shipped from Colombia through Mexico and the Caribbean), Colombian heroin, and Mexican heroin and marijuana; major consumer of ecstasy and Mexican methamphetamine; minor consumer of high-quality Southeast Asian heroin; illicit producer of cannabis, marijuana, depressants, stimulants, hallucinogens, and methamphetamine; money-laundering center</p><br>
 

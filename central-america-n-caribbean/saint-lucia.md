@@ -137,7 +137,7 @@ _65 years and over_: 0.83 male(s)/female<br>
 _total population_: 0.94 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-73 deaths/100,000 live births (2020 est.)<br>
+44 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 11.5 deaths/1,000 live births (2024 est.)<br>
@@ -206,11 +206,6 @@ _female_: 2.6% (2025 est.)<br>
 _Education expenditure (% GDP)_: 2.7% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 11.8% national budget (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
 _male_: 12 years<br>
@@ -218,10 +213,10 @@ _female_: 13 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; soil erosion, particularly in the northern region<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -363,8 +358,9 @@ twin pitons (volcanic peaks), Saint Lucia parrot<br>
 cerulean blue, gold, black, white<br>
 
 **National anthem**<br>
-_name_: "Sons and Daughters of St. Lucia"<br>
+_title_: "Sons and Daughters of St. Lucia"<br>
 _lyrics/music_: Charles JESSE/Leton Felix THOMAS<br>
+_history_: adopted 1967<br>
 <strong>note:</strong> adopted 1967<br>
 
 **National heritage**<br>
@@ -601,7 +597,4 @@ no regular military forces; Ministry of Home Affairs, Justice, and National Secu
 Saint Lucia has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Guyana, Saint Kitts, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2025)<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>
 

@@ -195,17 +195,12 @@ _unimproved: total_: total: 75.4% of population (2020 est.)<br>
 _Education expenditure (% GDP)_: 1.6% of GDP (2016 est.)<br>
 _Education expenditure (% national budget)_: 8.1% national budget (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: 34.5%<br>
-_male_: 40.3%<br>
-_female_: 28.9% (2018)<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water pollution; inadequate supplies of potable water; wildlife conservation and loss of biodiversity; deforestation; soil erosion; desertification; drought<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Paris Agreement, Desertification, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -346,8 +341,9 @@ African fish eagle<br>
 red, green, blue, yellow, black, white<br>
 
 **National anthem**<br>
-_name_: "South Sudan Oyee!" (Hooray!)<br>
+_title_: "South Sudan Oyee!" (Hooray!)<br>
 _lyrics/music_: collective of 49 poets/Juba University students and teachers<br>
+_history_: adopted 2011; anthem selected in a national contest<br>
 <strong>note:</strong> adopted 2011; anthem selected in a national contest<br>
 
 ## Economy

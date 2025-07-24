@@ -227,10 +227,10 @@ _female_: 33.9% (2019 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 overharvesting of timber, expansion of cattle grazing, and slash-and-burn agriculture resulting in deforestation, soil exhaustion, and flooding; loss of biodiversity; air pollution; water pollution; overfishing<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Environmental Modification<br>
 
@@ -369,8 +369,9 @@ lion<br>
 green, white, blue<br>
 
 **National anthem**<br>
-_name_: "High We Exalt Thee, Realm of the Free"<br>
+_title_: "High We Exalt Thee, Realm of the Free"<br>
 _lyrics/music_: Clifford Nelson FYLE/John Joseph AKA<br>
+_history_: adopted 1961<br>
 <strong>note:</strong> adopted 1961<br>
 
 ## Economy

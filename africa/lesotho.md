@@ -232,10 +232,10 @@ _female_: 13 years (2017)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 overgrazing; severe soil erosion; soil exhaustion; desertification; Highlands Water Project controls, stores, and redirects water to South Africa<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -385,8 +385,9 @@ mokorotio (Basotho hat)<br>
 blue, white, green, black<br>
 
 **National anthem**<br>
-_name_: "Lesotho fatse la bo ntat'a rona" (Lesotho, Land of Our Fathers)<br>
+_title_: "Lesotho fatse la bo ntat'a rona" (Lesotho, Land of Our Fathers)<br>
 _lyrics/music_: Francois COILLARD/Ferdinand-Samuel LAUR<br>
+_history_: adopted 1967; music derives from an 1823 Swiss songbook<br>
 <strong>note:</strong> adopted 1967; music derives from an 1823 Swiss songbook<br>
 
 **National heritage**<br>

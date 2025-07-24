@@ -173,7 +173,7 @@ _female_: 18 years (2013)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 <p>waste management, including pollution of marine areas from domestic sewage, inadequate sewage treatment facilities, industrial effluents, agricultural runoff, mismanagement of toxic substances, and ineffective regulations; damage from neglect and a lack of controls at major refinery</p><br>
 
 **Climate**<br>
@@ -296,9 +296,10 @@ laraha (citrus tree)<br>
 blue, yellow, white<br>
 
 **National anthem**<br>
-_name_: "Himmo di Korsou" (Anthem of Curacao)<br>
+_title_: "Himmo di Korsou" (Anthem of Curacao)<br>
 _lyrics/music_: Guillermo ROSARIO, Mae HENRIQUEZ, Enrique MULLER, Betty DORAN/Frater Candidus NOWENS, Errol "El Toro" COLINA<br>
-<strong>note:</strong> adapted 1978; the lyrics, originally written in 1899, were rewritten in 1978 to make them less colonial in nature<br>
+_history_: adapted 1978; the lyrics, originally written in 1899, were rewritten in 1978 to remove colonial references<br>
+<strong>note:</strong> adapted 1978; the lyrics, originally written in 1899, were rewritten in 1978 to remove colonial references<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural); note - excerpted from the Netherlands entry<br>
@@ -479,7 +480,4 @@ _refugees (country of origin)_: 14,000 (Venezuela) (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List — Curaçao does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Curaçao was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/curacao/<br>
-
-**Illicit drugs**<br>
-<p>northbound transshipment points for cocaine from Colombia and Venezuela; cocaine is transported to the United States, other Caribbean islands, Africa, and Europe</p><br>
 

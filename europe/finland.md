@@ -220,11 +220,6 @@ _women married by age 18_: 0.1% (2017)<br>
 _Education expenditure (% GDP)_: 6.5% of GDP (2021 est.)<br>
 _Education expenditure (% national budget)_: 10.2% national budget (2021 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
 _male_: 18 years<br>
@@ -232,10 +227,10 @@ _female_: 20 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 limited air pollution in urban centers; some water pollution from industrial wastes, agricultural chemicals; habitat loss threatens wildlife populations<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -382,9 +377,10 @@ lion<br>
 blue, white<br>
 
 **National anthem**<br>
-_name_: "Maamme" (Our Land)<br>
+_title_: "Maamme" (Our Land)<br>
 _lyrics/music_: Johan Ludvig RUNEBERG/Fredrik PACIUS<br>
-<strong>note:</strong> in use since 1848; although never officially adopted by law, the anthem has been popular since it was first sung by a student group in 1848; Estonia's anthem uses the same melody as that of Finland<br>
+_history_: in use since 1848; although never officially adopted, the anthem has been popular since a student group first sang it in 1848<br>
+<strong>note:</strong> in use since 1848; although never officially adopted, the anthem has been popular since a student group first sang it in 1848<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 7 (6 cultural, 1 natural)<br>

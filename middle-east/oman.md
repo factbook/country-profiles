@@ -227,10 +227,10 @@ _female_: 15 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 limited natural freshwater resources; high levels of soil and water salinity in the coastal plains; beach pollution from oil spills; industrial effluents in the water table and aquifers; desertification due to high winds driving desert sand into arable lands<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -377,9 +377,10 @@ khanjar dagger on top of two crossed swords<br>
 red, white, green<br>
 
 **National anthem**<br>
-_name_: "Nashid as-Salaam as-Sultani" (The Sultan's Anthem)<br>
+_title_: "Nashid as-Salaam as-Sultani" (The Sultan's Anthem)<br>
 _lyrics/music_: Rashid bin Uzayyiz al KHUSAIDI/James Frederick MILLS, arranged by Bernard EBBINGHAUS<br>
-<strong>note:</strong> adopted 1932; new lyrics written after QABOOS bin Said al Said gained power in 1970; first performed by the band of a British ship as a salute to the Sultan during a 1932 visit to Muscat; the bandmaster of the HMS Hawkins was asked to write a salutation to the Sultan on the occasion of his ship visit<br>
+_history_: adopted 1932; new lyrics written after QABOOS bin Said al Said came to power in 1970; first performed by the band of the HMS Hawkins as a salute to the Sultan during a 1932 visit to Muscat; the ship's bandmaster did the arrangement<br>
+<strong>note:</strong> adopted 1932; new lyrics written after QABOOS bin Said al Said came to power in 1970; first performed by the band of the HMS Hawkins as a salute to the Sultan during a 1932 visit to Muscat; the ship's bandmaster did the arrangement<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (all cultural)<br>
@@ -640,7 +641,7 @@ the SAF's inventory includes a mix of older and some more modern weapons systems
 18 for voluntary military service for men and women (women have been allowed to serve since 2011); no conscription (2023)<br>
 
 **Military - note**<br>
-the Sultan's Armed Forces (SAF) are responsible for defending the country, ensuring internal security, and protecting the monarchy; it is a small but well-equipped military that often trains with foreign partners such as the Gulf Cooperation Council (GCC) countries, the UK, and the US; the SAF has a longstanding security relationship with the British military going back to the 18th century; today, the SAF and the British maintain a joint training base in Oman; in 2017, Oman and the UK signed an agreement allowing the British military the use of facilities at Al Duqm Port; in 2019, the US obtained access to the port, expanding on previous military cooperation agreements in 2014, 2010, and 1980; Oman also allows other nations to use some of its maritime facilities, including China; the SAF is part of the Peninsula Shield Forces, a joint military force established by the GCC countries with the aim of maintaining security and stability in the region<br><br>Oman has a small but relatively modern navy that conducts maritime security operations along the country’s long coastline, including patrolling, ensuring freedom of navigation in the key naval chokepoint of the Strait of Hormuz, and countering piracy and smuggling; while Oman is not a member of the US-led, multinational Combined Maritime Forces (CMF), which operates task forces to counter piracy and smuggling, the Omani Navy has at times participated in CMF-led joint exercises (2024)<br>
+the Sultan's Armed Forces (SAF) are responsible for defending the country, ensuring internal security, and protecting the monarchy; it trains with foreign partners such as the Gulf Cooperation Council (GCC) countries, the UK, and the US; the SAF has a security relationship with the British military going back to the 18th century; today, the SAF and the British maintain a joint training base in Oman, and the British military uses the facilities at Al Duqm Port; in 2019, the US obtained access to the port, expanding on previous military cooperation agreements in 2014, 2010, and 1980; Oman also allows other nations to use some of its maritime facilities, including China; the SAF is part of the Peninsula Shield Forces, a joint military force established by the GCC countries with the aim of maintaining security and stability in the region<br><br>Oman's naval forces conduct maritime security operations along the country’s long coastline, including patrolling, ensuring freedom of navigation in the key naval chokepoint of the Strait of Hormuz, and countering piracy and smuggling; Oman participates in the US-led, multinational Combined Maritime Forces (CMF), which operates multinational task forces conducting maritime security in regional waters (2025)<br>
 
 ## Terrorism
 

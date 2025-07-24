@@ -241,10 +241,10 @@ Indonesia is the fourth most populous nation in the World after China, India, an
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 large-scale deforestation (much of it illegal) and related wildfires cause heavy smog; over-exploitation of marine resources; air pollution from vehicle emissions; waste disposal; water pollution from industrial wastes, sewage<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: Marine Life Conservation<br>
 
@@ -396,8 +396,9 @@ garuda (mythical bird)<br>
 red, white<br>
 
 **National anthem**<br>
-_name_: "Indonesia Raya" (Great Indonesia)<br>
+_title_: "Indonesia Raya" (Great Indonesia)<br>
 _lyrics/music_: Wage Rudolf SOEPRATMAN<br>
+_history_: adopted 1945<br>
 <strong>note:</strong> adopted 1945<br>
 
 **National heritage**<br>
@@ -720,7 +721,4 @@ Islamic State of Iraq and ash-Sham (aka Jemaah Anshorut Daulah); Jemaah Islamiya
 _refugees (country of origin)_: 5,684 (Afghanistan) (mid-year 2022)<br>
 _IDPs_: 72,000 (inter-communal, inter-faith, and separatist violence between 1998 and 2004 in Aceh and Papua; religious attacks and land conflicts in 2007 and 2013; most IDPs in Aceh, Maluku, East Nusa Tengarra) (2022)<br>
 _stateless persons_: 866 (2022)<br>
-
-**Illicit drugs**<br>
-<p>major transit point and destination for illicit narcotics; a destination for methamphetamine, ecstasy, and other illicit drugs; methamphetamine production facilities within Indonesia </p> <p> </p> <p> </p><br>
 

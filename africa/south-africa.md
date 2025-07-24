@@ -239,10 +239,10 @@ _female_: 14 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 limited freshwater resources due to lack of major rivers or lakes; pollution of rivers from agricultural runoff and urban waste; air pollution resulting in acid rain; deforestation; soil erosion; land degradation; desertification; solid waste pollution; significant floral extinctions<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -398,9 +398,10 @@ springbok (antelope), king protea flower<br>
 red, green, blue, yellow, black, white<br>
 
 **National anthem**<br>
-_name_: "National Anthem of South Africa"<br>
+_title_: "National Anthem of South Africa"<br>
 _lyrics/music_: Enoch SONTONGA and Cornelius Jacob LANGENHOVEN/Enoch SONTONGA and Marthinus LOURENS de Villiers<br>
-<strong>note:</strong> adopted 1994; a combination of "N'kosi Sikelel' iAfrica" (God Bless Africa) and "Die Stem van Suid Afrika" (The Call of South Africa), which were respectively the anthems of the non-white and white communities under apartheid; official lyrics contain a mixture of Xhosa, Zulu, Sesotho, Afrikaans, and English (i.e., the five most widely spoken of South Africa's 11 official languages); music incorporates the melody used in the Tanzanian and Zambian anthems<br>
+_history_: adopted 1994; a combination of "N'kosi Sikelel' iAfrica" (God Bless Africa) and "Die Stem van Suid Afrika" (The Call of South Africa), which were respectively the anthems of the non-white and white communities under apartheid; official lyrics contain a mixture of Xhosa, Zulu, Sesotho, Afrikaans, and English (the five most widely spoken of South Africa's 11 official languages); music incorporates the melody used in the Tanzanian and Zambian anthems<br>
+<strong>note:</strong> adopted 1994; a combination of "N'kosi Sikelel' iAfrica" (God Bless Africa) and "Die Stem van Suid Afrika" (The Call of South Africa), which were respectively the anthems of the non-white and white communities under apartheid; official lyrics contain a mixture of Xhosa, Zulu, Sesotho, Afrikaans, and English (the five most widely spoken of South Africa's 11 official languages); music incorporates the melody used in the Tanzanian and Zambian anthems<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 12 (7 cultural, 4 natural, 1 mixed)<br>
@@ -727,5 +728,5 @@ _refugees (country of origin)_: 22,388 (Somalia), 15,240 (Ethiopia) (mid-year 20
 _IDPs_: 5,000 (2020)<br>
 
 **Illicit drugs**<br>
-<p>leading regional importer of chemicals used in the production of illicit drugs especially synthetic drugs;</p><br>
+_USG identification_: <br>major precursor-chemical producer (2025)<br>
 

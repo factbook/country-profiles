@@ -173,11 +173,6 @@ _unimproved: total_: total: NA<br>
 _Education expenditure (% GDP)_: 7.2% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 7.7% national budget (2024 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 13 years<br>
@@ -185,7 +180,7 @@ _female_: 15 years (2019)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 land erosion on slopes that have been cleared for cultivation<br>
 
 **Climate**<br>
@@ -284,7 +279,10 @@ Birthday of Queen ELIZABETH II, usually celebrated the Monday after the second S
 blue with the UK flag in the upper hoist-side quadrant and the Montserratian coat of arms centered in the outer half of the flag; the arms show a woman in a green dress (Erin, the female personification of Ireland) standing beside a yellow harp (a symbol of Ireland) and embracing a large dark cross with her right arm; blue represents awareness, trustworthiness, determination, and righteousness<br>
 
 **National anthem**<br>
-<p><strong>note:</strong> as a territory of the UK, "God Save the King" is official (see United Kingdom)</p><br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: official anthem, as a UK territory<br>
+<strong>note:</strong> "God Save the King" is the official anthem of Monserrat, as a UK territory (see United Kingdom)<br>
 
 ## Economy
 
@@ -428,7 +426,4 @@ no regular military forces; Royal Montserrat Defense Force (ceremonial, civil de
 defense is the responsibility of the UK<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-transshipment point for South American narcotics destined for the US and Europe<br>
 

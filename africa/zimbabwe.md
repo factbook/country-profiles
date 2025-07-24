@@ -236,10 +236,10 @@ _female_: 11 years (2013)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; soil erosion; land degradation; air and water pollution; poaching; toxic waste and heavy metal pollution from mining<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -394,8 +394,9 @@ Zimbabwe bird symbol, African fish eagle, flame lily<br>
 green, yellow, red, black, white<br>
 
 **National anthem**<br>
-_name_: "Kalibusiswe Ilizwe leZimbabwe" [Northern Ndebele language] "Simudzai Mureza WeZimbabwe" [Shona] (Blessed Be the Land of Zimbabwe)<br>
+_title_: "Kalibusiswe Ilizwe leZimbabwe" [Northern Ndebele language] "Simudzai Mureza WeZimbabwe" [Shona] (Blessed Be the Land of Zimbabwe)<br>
 _lyrics/music_: Solomon MUTSWAIRO/Fred Lecture CHANGUNDEGA<br>
+_history_: adopted 1994<br>
 <strong>note:</strong> adopted 1994<br>
 
 **National heritage**<br>
@@ -677,7 +678,4 @@ _refugees (country of origin)_: 9,931 (Mozambique) (2023); 12,293 (Democratic Re
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Zimbabwe was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/zimbabwe/<br>
-
-**Illicit drugs**<br>
-<p>transit point for cannabis and South Asian heroin, methaqualone, and methamphetamines en route to South Africa</p><br>
 

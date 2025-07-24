@@ -209,17 +209,12 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 **Currently married women (ages 15-49)**<br>
 59.2% (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: 91%<br>
-_male_: 96.7%<br>
-_female_: 85.6% (2015)<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 desertification; limited natural freshwater resources; water pollution; threats to coastal ecosystem from sewage, oil byproducts, and industrial waste<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Climate Change-Paris Agreement, Law of the Sea<br>
 
@@ -352,9 +347,10 @@ star and crescent, hawk<br>
 red, black, green<br>
 
 **National anthem**<br>
-_name_: "Libya, Libya, Libya"<br>
+_title_: "Libya, Libya, Libya"<br>
 _lyrics/music_: Al Bashir AL AREBI/Mohamad Abdel WAHAB<br>
-<strong>note:</strong> also known as "Ya Beladi" or "Oh, My Country!"; adopted 1951; readopted 2011 with some modification to the lyrics; during the QADHAFI years between 1969 and 2011, the anthem was "Allahu Akbar," (God is Great) a marching song of the Egyptian Army in the 1956 Suez War<br>
+_history_: adopted 1951, but replaced in 1969 when QADHAFI came to power; readopted 2011 with some modification to the lyrics; also known as "Ya Beladi" (O My Country)<br>
+<strong>note:</strong> adopted 1951, but replaced in 1969 when QADHAFI came to power; readopted 2011 with some modification to the lyrics; also known as "Ya Beladi" (O My Country)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (all cultural)<br>

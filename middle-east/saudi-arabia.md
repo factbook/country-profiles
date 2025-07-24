@@ -229,10 +229,10 @@ _female_: 16 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 desertification; depletion of underground water resources; limited freshwater resources; coastal pollution from oil spills; air pollution; waste management<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -371,8 +371,9 @@ palm tree over two crossed swords<br>
 green, white<br>
 
 **National anthem**<br>
-_name_: "Aash Al Maleek" (Long Live Our Beloved King)<br>
+_title_: "Aash Al Maleek" (Long Live Our Beloved King)<br>
 _lyrics/music_: Ibrahim KHAFAJI/Abdul Rahman al-KHATEEB<br>
+_history_: music adopted 1947, lyrics adopted 1984<br>
 <strong>note:</strong> music adopted 1947, lyrics adopted 1984<br>
 
 **National heritage**<br>
@@ -665,7 +666,4 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 70,000 (2022); note - thousands of biduns (stateless Arabs) are descendants of nomadic tribes who were not officially registered when national borders were established, while others migrated to Saudi Arabia in search of jobs; some have temporary identification cards that must be renewed every five years, but their rights remain restricted; most Palestinians have only legal resident status; some naturalized Yemenis were made stateless after being stripped of their passports when Yemen backed Iraq in its invasion of Kuwait in 1990; Saudi women cannot pass their citizenship on to their children, so if they marry a non-national, their children risk statelessness<br>
-
-**Illicit drugs**<br>
-regularly sentences drug traffickers to the death penalty, although a moratorium on executions for drug offences has been in place since at least 2020; improving anti-money-laundering legislation and enforcement<br>
 

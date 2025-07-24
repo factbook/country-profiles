@@ -235,10 +235,10 @@ _female_: 20 years (2019)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water pollution from meat-packing, tannery industries; heavy metal pollution; inadequate solid and hazardous waste disposal; deforestation<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: Marine Dumping-London Convention, Marine Life Conservation<br>
 
@@ -400,9 +400,10 @@ Sun of May (a sun-with-face symbol)<br>
 blue, white, yellow<br>
 
 **National anthem**<br>
-_name_: "Himno Nacional" (National Anthem of Uruguay)<br>
+_title_: "Himno Nacional" (National Anthem of Uruguay)<br>
 _lyrics/music_: Francisco Esteban ACUNA de Figueroa/Francisco Jose DEBALI<br>
-<strong>note:</strong> adopted 1848; the anthem is also known as "Orientales, la Patria o la tumba!" ("Uruguayans, the Fatherland or Death!"); it is the world's longest national anthem in terms of music (105 bars; almost five minutes); generally only the first verse and chorus are sung<br>
+_history_: adopted 1848; the anthem is also known as "Orientales, la Patria o la tumba!" ("Uruguayans, the Fatherland or Death!"); it is the world's longest national anthem in terms of music (105 bars; almost five minutes); usually only the first verse and chorus are sung<br>
+<strong>note:</strong> adopted 1848; the anthem is also known as "Orientales, la Patria o la tumba!" ("Uruguayans, the Fatherland or Death!"); it is the world's longest national anthem in terms of music (105 bars; almost five minutes); usually only the first verse and chorus are sung<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (all cultural)<br>
@@ -695,7 +696,4 @@ _stateless persons_: 5 (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Uruguay was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/uruguay/<br>
-
-**Illicit drugs**<br>
-transit country for drugs mainly bound for Europe, often through sea-borne containers; limited law enforcement corruption; money laundering; weak border control along Brazilian frontier; increasing consumption of cocaine base and synthetic drugs<br>
 

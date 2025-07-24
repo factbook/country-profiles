@@ -234,10 +234,10 @@ _female_: 62.2% (2018 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution and acid rain in the mineral extraction and refining region; chemical runoff into watersheds; loss of biodiversity; poaching; deforestation; soil erosion; desertification; lack of adequate water treatment<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -374,9 +374,10 @@ African fish eagle<br>
 green, red, black, orange<br>
 
 **National anthem**<br>
-_name_: "Lumbanyeni Zambia" (Stand and Sing of Zambia, Proud and Free)<br>
+_title_: "Lumbanyeni Zambia" (Stand and Sing of Zambia, Proud and Free)<br>
 _lyrics/music_: multiple/Enoch Mankayi SONTONGA<br>
-<strong>note:</strong> adopted 1964; the melody, from the popular song "God Bless Africa," is the same as that of Tanzania but with different lyrics; the melody is also incorporated into South Africa's anthem<br>
+_history_: adopted 1964; the melody, which comes from the popular song "God Bless Africa," is the same as Tanzania's anthem, but with different lyrics; the melody is also incorporated into South Africa's anthem<br>
+<strong>note:</strong> adopted 1964; the melody, which comes from the popular song "God Bless Africa," is the same as Tanzania's anthem, but with different lyrics; the melody is also incorporated into South Africa's anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (natural)<br>
@@ -655,7 +656,4 @@ the Zambia Defense Forces (ZDF) are responsible for preserving the country’s s
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 8,436 (Burundi) (2023); 62,660 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
-
-**Illicit drugs**<br>
-transshipment point for moderate amounts of methaqualone, small amounts of heroin, and cocaine bound for southern Africa and possibly Europe; a poorly developed financial infrastructure coupled with a government commitment to combating money laundering make it an unattractive venue for money launderers; major consumer of cannabis<br>
 

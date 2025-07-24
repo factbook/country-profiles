@@ -219,17 +219,12 @@ _female_: 3.9% (2025 est.)<br>
 _Education expenditure (% GDP)_: 9.4% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 24.7% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: 92.3%<br>
-_male_: 90.6%<br>
-_female_: 92.3% (2021)<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 depletion and degradation of water and aquatic resources; desertification; land degradation; loss of biodiversity; wildlife poaching<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -385,8 +380,9 @@ oryx (antelope)<br>
 blue, red, green, white, yellow<br>
 
 **National anthem**<br>
-_name_: "Namibia, Land of the Brave"<br>
+_title_: "Namibia, Land of the Brave"<br>
 _lyrics/music_: Axali DOESEB<br>
+_history_: adopted 1991<br>
 <strong>note:</strong> adopted 1991<br>
 
 **National heritage**<br>
@@ -663,7 +659,7 @@ the NDF's inventory consists of a mix of Soviet-era and some more modern systems
 <strong>note:</strong> as of 2022, women comprised about 23% of the active-duty military<br>
 
 **Military - note**<br>
-the NDF’s primary responsibility is defending Namibia's territorial integrity and national interests; it has participated in UN and regional peacekeeping and security missions and provides assistance to civil authorities as needed; it also participates in multinational training exercises<br><br>the NDF was created in 1990, largely from demobilized former members of the People's Liberation Army of Namibia (PLAN) and the South West Africa Territorial Force (SWATF); the PLAN was the armed wing of the South West Africa People’s Organization (SWAPO), while SWATF was an auxiliary of the South African Defense Force and comprised the armed forces of the former South West Africa, 1977-1989; from 1990-1995, the British military assisted with the forming and training the NDF (2025)<br>
+the NDF’s primary responsibility is defending Namibia's territorial integrity and national interests; other responsibilities include support to civil authorities and participating in peace and stability missions under the African Union, Southern African Development Community, and the UN; Namibia has bilateral defense ties with several countries, including Botswana, India, South Africa, Tanzania, and Zambia<br><br>the NDF was created in 1990, largely from demobilized former members of the People's Liberation Army of Namibia (PLAN) and the South West Africa Territorial Force (SWATF); the PLAN was the armed wing of the South West Africa People’s Organization (SWAPO), while SWATF was an auxiliary of the South African Defense Force and comprised the armed forces of the former South West Africa, 1977-1989; from 1990-1995, the British military assisted with the forming and training the NDF (2025)<br>
 
 ## Transnational Issues
 

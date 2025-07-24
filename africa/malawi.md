@@ -237,10 +237,10 @@ _female_: 11 years (2011)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; land degradation; water pollution from agricultural runoff, sewage, industrial wastes; siltation of fish spawning grounds; high temperatures and changing precipitation patterns<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -379,8 +379,9 @@ lion<br>
 black, red, green<br>
 
 **National anthem**<br>
-_name_: "Mulungu dalitsa Malawi" (Oh God Bless Our Land of Malawi)<br>
+_title_: "Mulungu dalitsa Malawi" (O God, Bless Our Land of Malawi)<br>
 _lyrics/music_: Michael-Fredrick Paul SAUKA<br>
+_history_: adopted 1964<br>
 <strong>note:</strong> adopted 1964<br>
 
 **National heritage**<br>
@@ -647,7 +648,4 @@ the MDF’s primary responsibility is external security; it is also tasked as ne
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 11,502 (Burundi) (refugees and asylum seekers), 6,594 (Rwanda) (refugees and asylum seekers) (2023); 34,605 (Democratic Republic of the Congo) (refugees and asylum seekers)<br>
-
-**Illicit drugs**<br>
-NA<br>
 

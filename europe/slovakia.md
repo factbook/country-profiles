@@ -216,11 +216,6 @@ _female_: 26.3% (2025 est.)<br>
 _Education expenditure (% GDP)_: 4.5% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 10.7% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 14 years<br>
@@ -228,10 +223,10 @@ _female_: 15 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution and acid rain; land erosion from agricultural and mining practices; water pollution<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Antarctic-Environmental Protection<br>
 
@@ -379,8 +374,9 @@ double-barred cross (Cross of St. Cyril and St. Methodius) over three peaks<br>
 white, blue, red<br>
 
 **National anthem**<br>
-_name_: "Nad Tatrou sa blyska" (Lightning Over the Tatras)<br>
+_title_: "Nad Tatrou sa blyska" (Lightning Over the Tatras)<br>
 _lyrics/music_: Janko MATUSKA/traditional<br>
+_history_: adopted 1993, in use since 1844; music based on the Slovak folk song "Kopala studienku" (She was digging a well)<br>
 <strong>note:</strong> adopted 1993, in use since 1844; music based on the Slovak folk song "Kopala studienku" (She was digging a well)<br>
 
 **National heritage**<br>
@@ -670,7 +666,4 @@ the Slovak military was created from the Czechoslovak Army after the dissolution
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 117,265 (Ukraine) (as of 14 April 2024)<br>
 _stateless persons_: 2,940 (2022)<br>
-
-**Illicit drugs**<br>
-transshipment point for Southwest Asian heroin bound for Western Europe; producer of synthetic drugs for regional market; consumer of MDMA (ecstasy)<br>
 

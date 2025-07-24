@@ -230,10 +230,10 @@ _female_: 13 years (2015)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation and illegal logging; soil erosion and exhaustion; inadequate sewage treatment in cities; biodiversity&nbsp;<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 
@@ -368,8 +368,9 @@ palm tree<br>
 green, yellow, red, black<br>
 
 **National anthem**<br>
-_name_: "Independencia total" (Total Independence)<br>
+_title_: "Independencia total" (Total Independence)<br>
 _lyrics/music_: Alda Neves DA GRACA do Espirito Santo/Manuel dos Santos Barreto de Sousa e ALMEIDA<br>
+_history_: adopted 1975<br>
 <strong>note:</strong> adopted 1975<br>
 
 ## Economy

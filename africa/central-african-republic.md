@@ -227,10 +227,10 @@ _female_: 6 years (2012)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water pollution; tap water not potable; poaching; wildlife mismanagement; desertification; deforestation; soil erosion<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: Law of the Sea<br>
 
@@ -371,9 +371,10 @@ elephant<br>
 blue, white, green, yellow, red<br>
 
 **National anthem**<br>
-_name_: "La Renaissance" (The Renaissance)<br>
+_title_: "La Renaissance" (The Renaissance)<br>
 _lyrics/music_: Barthelemy BOGANDA/Herbert PEPPER<br>
-<strong>note:</strong> adopted 1960; Barthelemy BOGANDA wrote the anthem's lyrics and was the first prime minister of the autonomous French territory<br>
+_history_: adopted 1960; BOGANDA wrote the anthem's lyrics and was the first prime minister of the autonomous French territory<br>
+<strong>note:</strong> adopted 1960; BOGANDA wrote the anthem's lyrics and was the first prime minister of the autonomous French territory<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (natural)<br>

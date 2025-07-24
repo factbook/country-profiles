@@ -142,7 +142,7 @@ _65 years and over_: 0.82 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-39 deaths/100,000 live births (2020 est.)<br>
+35 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 4 deaths/1,000 live births (2024 est.)<br>
@@ -234,10 +234,10 @@ illicit emigration is a continuing problem; Cubans attempt to depart the island 
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 soil degradation and desertification (brought on by poor farming techniques and natural disasters); biodiversity loss; deforestation; air and water pollution<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Marine Life Conservation<br>
 
@@ -379,9 +379,10 @@ royal palm<br>
 red, white, blue<br>
 
 **National anthem**<br>
-_name_: "La Bayamesa" (The Bayamo Song)<br>
+_title_: "La Bayamesa" (The Bayamo Song)<br>
 _lyrics/music_: Pedro FIGUEREDO<br>
-<strong>note:</strong> adopted 1940; Pedro FIGUEREDO first performed "La Bayamesa" in 1868 during the Ten Years War against the Spanish; a leading figure in the uprising, FIGUEREDO was captured in 1870 and executed by a firing squad; just prior to the fusillade he is reputed to have shouted, "Morir por la Patria es vivir" (To die for the country is to live), a line from the anthem<br>
+_history_: adopted 1940; Pedro FIGUEREDO first performed it in 1868 during the Ten Years War against the Spanish; a leading figure in the uprising, FIGUEREDO was captured in 1870 and executed by a firing squad; just before being shot, he is said to have shouted, "Morir por la Patria es vivir" (To die for the country is to live), a line from the anthem<br>
+<strong>note:</strong> adopted 1940; Pedro FIGUEREDO first performed it in 1868 during the Ten Years War against the Spanish; a leading figure in the uprising, FIGUEREDO was captured in 1870 and executed by a firing squad; just before being shot, he is said to have shouted, "Morir por la Patria es vivir" (To die for the country is to live), a line from the anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 9 (7 cultural, 2 natural)<br>
@@ -639,7 +640,4 @@ the Cuban military is largely focused on protecting territorial integrity and th
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 — Cuba does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Cuba remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/cuba/<br>
-
-**Illicit drugs**<br>
-<p>Cuba is not a major consumer, producer, or transshipment point for illicit drugs; domestic production and consumption curbed by aggressive policing; prescription drug abuse remains low</p> <p> </p><br>
 

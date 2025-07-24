@@ -219,10 +219,10 @@ _female_: 9 years (2013)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation; overgrazing; soil erosion; desertification; depletion of water resources; water pollution from raw sewage and petroleum refining wastes; inadequate potable water<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Environmental Modification<br>
 
@@ -355,9 +355,10 @@ northern bald ibis<br>
 red, white, black, green<br>
 
 **National anthem**<br>
-_name_: "Humat ad-Diyar" (Guardians of the Homeland)<br>
+_title_: "Humat ad-Diyar" (Guardians of the Homeland)<br>
 _lyrics/music_: Khalil Mardam BEY/Mohammad Salim FLAYFEL and Ahmad Salim FLAYFEL<br>
-<strong>note:</strong> adopted 1936, restored 1961; between 1958 and 1961, while Syria was a member of the United Arab Republic with Egypt, the country had a different anthem<br>
+_history_: adopted 1936, restored 1961; the country had a different anthem between 1958 and 1961, when Syria was part of the United Arab Republic<br>
+<strong>note:</strong> adopted 1936, restored 1961; the country had a different anthem between 1958 and 1961, when Syria was part of the United Arab Republic<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 6 (all cultural)<br>
@@ -654,7 +655,4 @@ _stateless persons_: 160,000 (2022); note - Syria's stateless population consist
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 — Syria does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Syria remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/syria/<br>
-
-**Illicit drugs**<br>
-<p>increasing drug trafficking particularly the synthetic stimulant captagon, a mixture of various amphetamines, methamphetamine, and/or other stimulants;  drug smuggling of captagon and other stimulants linked to the Syrian government and Hizballah</p><br>
 

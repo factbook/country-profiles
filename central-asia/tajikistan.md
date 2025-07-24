@@ -219,8 +219,6 @@ _Education expenditure (% GDP)_: 5.4% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 19.7% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_total population_: 99.8%<br>
-_male_: 99.8%<br>
 _female_: 94.6% (2017 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
@@ -230,10 +228,10 @@ _female_: 11 years (2013)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution from motor vehicles and industry; water pollution from agricultural runoff and untreated industrial waste and sewage; poor management of water resources; soil erosion; increasing levels of soil salinity<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -385,9 +383,10 @@ arc of seven five-pointed stars over a crown, Marco Polo sheep<br>
 red, white, green<br>
 
 **National anthem**<br>
-_name_: "Surudi milli" (National Anthem)<br>
+_title_: "Surudi milli" (National Anthem)<br>
 _lyrics/music_: Gulnazar KELDI/Sulaimon YUDAKOV<br>
-<strong>note:</strong> adopted 1991; after the fall of the Soviet Union, Tajikistan kept the music of the anthem from its time as a Soviet republic but adopted new lyrics<br>
+_history_: adopted 1991; after the fall of the Soviet Union, Tajikistan kept the music of its Soviet-era anthem but adopted new lyrics<br>
+<strong>note:</strong> adopted 1991; after the fall of the Soviet Union, Tajikistan kept the music of its Soviet-era anthem but adopted new lyrics<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (2 cultural, 2 natural)<br>
@@ -674,7 +673,4 @@ _stateless persons_: 4,898 (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Tajikistan was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/tajikistan/<br>
-
-**Illicit drugs**<br>
-<p>Tajikistan is a primary transit country along the “Northern Route” for Afghanistan-sourced opiates and cannabis for the Russian and Eastern European markets and beyond; minimal domestic recreational drug use though it is increasing</p><br>
 

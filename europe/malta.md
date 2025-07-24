@@ -141,7 +141,7 @@ _total population_: 1.02 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data refers to the average of the different childbearing ages of first-order births<br>
 
 **Maternal mortality ratio**<br>
-3 deaths/100,000 live births (2020 est.)<br>
+8 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 4.4 deaths/1,000 live births (2024 est.)<br>
@@ -207,11 +207,6 @@ _female_: 20.2% (2025 est.)<br>
 _Education expenditure (% GDP)_: 4.8% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 12.7% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: 94.9%<br>
-_male_: 93.4%<br>
-_female_: 96.4% (2021)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
 _male_: 17 years<br>
@@ -219,10 +214,10 @@ _female_: 18 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 limited natural freshwater resources; deforestation; wildlife preservation<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -362,8 +357,9 @@ Maltese eight-pointed cross<br>
 red, white<br>
 
 **National anthem**<br>
-_name_: "L-Innu Malti" (The Maltese Anthem)<br>
+_title_: "L-Innu Malti" (The Maltese Anthem)<br>
 _lyrics/music_: Dun Karm PSAILA/Robert SAMMUT<br>
+_history_: adopted 1945; written in the form of a prayer<br>
 <strong>note:</strong> adopted 1945; written in the form of a prayer<br>
 
 **National heritage**<br>
@@ -641,7 +637,4 @@ _stateless persons_: 11 (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch list — Malta did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/malta/<br>
-
-**Illicit drugs**<br>
-minor transshipment point for hashish from North Africa to Western Europe<br>
 

@@ -229,10 +229,10 @@ _female_: 61% (2016 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 draining of wetlands for agricultural use; deforestation; overgrazing; soil erosion; water pollution from industrial discharge and water hyacinth infestation in Lake Victoria; widespread poaching<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Environmental Modification<br>
 
@@ -370,8 +370,9 @@ grey crowned crane<br>
 black, yellow, red<br>
 
 **National anthem**<br>
-_name_: "Oh Uganda, Land of Beauty!"<br>
+_title_: "O Uganda, Land of Beauty!"<br>
 _lyrics/music_: George Wilberforce KAKOMOA<br>
+_history_: adopted 1962<br>
 <strong>note:</strong> adopted 1962<br>
 
 **National heritage**<br>

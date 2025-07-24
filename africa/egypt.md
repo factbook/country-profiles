@@ -242,10 +242,10 @@ _female_: 14 years (2018)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 rapid growth in population straining natural resources; increasing soil salination below Aswan High Dam; desertification; oil pollution in coastal ecosystems; water pollution from agricultural pesticides, raw sewage, and industrial effluents; limited natural freshwater resources away from the Nile<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 
@@ -404,9 +404,10 @@ golden eagle, white lotus<br>
 red, white, black<br>
 
 **National anthem**<br>
-_name_: "Bilady, Bilady, Bilady" (My Homeland, My Homeland, My Homeland)<br>
+_title_: "Bilady, Bilady, Bilady" (My Homeland, My Homeland, My Homeland)<br>
 _lyrics/music_: Younis-al QADI/Sayed DARWISH<br>
-<strong>note:</strong> adopted 1979; the current anthem, less militaristic than the previous one, was created after the signing of the 1979 peace treaty with Israel; Sayed DARWISH, commonly considered the father of modern Egyptian music, composed the anthem<br>
+_history_: adopted 1979; the current anthem, less militaristic than the previous one, was written after the 1979 peace treaty was signed with Israel; Sayed DARWISH, the composer, is widely considered the father of modern Egyptian music<br>
+<strong>note:</strong> adopted 1979; the current anthem, less militaristic than the previous one, was written after the 1979 peace treaty was signed with Israel; Sayed DARWISH, the composer, is widely considered the father of modern Egyptian music<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 7 (6 cultural, 1 natural)<br>
@@ -726,7 +727,4 @@ Army of Islam; Harakat Sawa'd Misr (HASM); Islamic State of Iraq and ash-Sham â€
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022); 464,827 (Sudan) (refugees since 15 April 2023), 156,159 (Syria) (2024)<br>
 _stateless persons_: 10 (2022)<br>
-
-**Illicit drugs**<br>
-<p>major source of precursor chemicals used in the production of illicit narcotics</p><br>
 

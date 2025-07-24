@@ -237,10 +237,10 @@ _female_: 16 years (2019)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 limited natural freshwater resources in some areas; air pollution from coal-burning power plants and lax regulations in Ulaanbaatar; soil erosion from deforestation and overgrazing; water pollution; desertification; effects from mining&nbsp;<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -382,8 +382,9 @@ Soyombo character (from the Soyombo writing system)<br>
 red, blue, yellow<br>
 
 **National anthem**<br>
-_name_: "Mongol ulsyn toriin duulal" (National Anthem of Mongolia)<br>
+_title_: "Mongol ulsyn toriin duulal" (National Anthem of Mongolia)<br>
 _lyrics/music_: Tsendiin DAMDINSUREN/Bilegiin DAMDINSUREN and Luvsanjamts MURJORJ<br>
+_history_: music adopted 1950, lyrics adopted 2006; lyrics altered on numerous occasions<br>
 <strong>note:</strong> music adopted 1950, lyrics adopted 2006; lyrics altered on numerous occasions<br>
 
 **National heritage**<br>
@@ -653,13 +654,10 @@ the MAF's inventory is comprised largely of Soviet-era and Russian equipment (20
 <strong>note:</strong> since 2002, Mongolia has deployed more than 20,000 peacekeepers and observers to UN operations in more than a dozen countries<br>
 
 **Military - note**<br>
-the Mongolian Armed Forces (MAF) are responsible for ensuring the country's independence, security, and territorial integrity, as well as supporting Mongolia's developmental goals and diplomacy; it has a range of missions, including assisting the internal security forces in providing emergency aid and disaster relief, counterterrorism, and international peacekeeping duties; the Ground Force is the military’s primary service and is centered on a motorized infantry brigade; it also has a battalion devoted to peacekeeping duties and hosts an annual international peacekeeping exercise known as “Khaan Quest”; Mongolia’s primary military partner is Russia, and in addition to receiving Russian military equipment, the MAF participates in Russia’s large “Vostok” exercise, which is conducted every four years; the MAF has a relationship with the US military<br><br>Mongolia actively cooperates with NATO on issues such as counterterrorism, nonproliferation, and cybersecurity through an Individual Partnership and Cooperation Program; it supported the NATO-led Kosovo Force from 2005-2007 and contributed troops to the NATO-led International Security Assistance Force in Afghanistan from 2009-2014, as well as to the follow-on Resolute Support Mission that provided training, advice, and other assistance to the Afghan security forces (2015-2021); Mongolia also is an observer in the Russia- and People's Republic of China-led Shanghai Cooperation Organization (2025)<br>
+the Mongolian Armed Forces (MAF) are responsible for ensuring the country's independence, security, and territorial integrity, as well as supporting Mongolia's developmental goals and diplomacy; it has a range of missions, including counterterrorism, international peacekeeping duties, and assisting the internal security forces in providing emergency aid and disaster relief; Mongolia hosts an annual international peacekeeping exercise known as “Khaan Quest”; it has no formal military alliances, but has defense ties and conducts training exercises with several regional countries and others, such as China, India, Russia, and the US<br><br>Mongolia actively cooperates with NATO on issues such as counterterrorism, nonproliferation, and cybersecurity through an Individual Partnership and Cooperation Program; it supported the NATO-led Kosovo Force from 2005-2007 and contributed troops to the NATO-led missions in Afghanistan from 2009-2021; Mongolia also is an observer in the Shanghai Cooperation Organization (2025)<br>
 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 17 (2022)<br>
-
-**Illicit drugs**<br>
-NA<br>
 

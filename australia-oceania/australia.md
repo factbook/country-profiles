@@ -229,11 +229,6 @@ _female_: 9.2% (2025 est.)<br>
 _Education expenditure (% GDP)_: 5.2% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 13.9% national budget (2022 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 21 years<br>
 _male_: 20 years<br>
@@ -241,10 +236,10 @@ _female_: 22 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 soil erosion from overgrazing, deforestation, industrial development, urbanization, and poor farming practices; limited natural freshwater resources; soil salinity from use of poor-quality water, drought, desertification; habitat loss from agricultural clearing; floral extinctions; Great Barrier Reef preservation; overfishing; pollution; invasive species<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -405,9 +400,10 @@ green, gold<br>
 King George V of the United Kingdom granted the current Commonwealth Coat of Arms to Australia on 19 September 1912; the center of the shield has the symbols of Australia&rsquo;s six states; the kangaroo and the emu symbolize a nation moving forward, since neither animal can move backward easily; the gold Commonwealth star sits above the shield, with six points representing the Australian states and the seventh representing the territories; the gold and blue in the wreath under the star are the livery, or identifying, colors for the coat of arms; Australia&rsquo;s floral emblem, the golden wattle, frames the shield<br>
 
 **National anthem**<br>
-_name_: Advance Australia Fair<br>
-_lyrics/music_: Peter Dodds McCORMICK<br>
-<strong>note 1:</strong> adopted 1984; although originally written in the late 19th century, the anthem was not used for all official occasions until 1984; as a Commonwealth country, in addition to the national anthem, "God Save the King" serves as the royal anthem (see United Kingdom)<br><br><strong>note 2:</strong> the well-known and much-loved bush ballad "Waltzing Matilda" is often referred to as Australia's unofficial national anthem; the original lyrics were written in 1895 by Australian poet Banjo PATERSON, and were first published as sheet music in 1903; since 2012, a Waltzing Matilda Day has been held annually on 6 April, the anniversary of the first performance of the song in 1895<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: <p>royal anthem, as a Commonwealth country</p><br>
+<strong>note:</strong> the well-known and much-loved bush ballad "Waltzing Matilda" is often referred to as Australia's unofficial national anthem; Australian poet Banjo PATERSON wrote the original lyrics in 1895, and they were first published as sheet music in 1903; since 2012, a Waltzing Matilda Day has been held annually on 6 April, the anniversary of the first performance of the song in 1895<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 20 (4 cultural, 12 natural, 4 mixed)<br>
@@ -723,7 +719,4 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 12,180 (Iran), 8,741 (Afghanistan), 5,042 (Pakistan) (mid-year 2022)<br>
 _stateless persons_: 7,649 (2022)<br>
-
-**Illicit drugs**<br>
-<p> amphetamine-type stimulants (ATS) and cannabis dominate the domestic illicit drug market and shown potential for expansion, with ATS accounting for the preponderance of detected imports; domestic heroin market is small, but also shown some growth; as of 2020, Malaysia was the primary embarkation point for heroin and ATS imports other than MDMA (ecstasy) for which South Korea was the primary embarkation point although MDMA is increasingly being produced domestically with number of detected labs nearly doubled.  The US is the principal embarkation point for imported cannabis; Tasmania is one of the world's major suppliers of licit opiate products; government maintains strict controls over areas of opium poppy cultivation and output of poppy straw concentrate; major consumer of cocaine and amphetamines</p><br>
 

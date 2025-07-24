@@ -237,10 +237,10 @@ one of only two predominantly Christian nations in Southeast Asia, the other bei
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation, especially in watershed areas; illegal mining and logging; soil erosion; air and water pollution in major urban centers; coral reef degradation; increasing pollution of coastal mangrove swamps; coastal erosion; dynamite fishing; wildlife extinction<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -402,9 +402,10 @@ red, white, blue, yellow<br>
 the coat of arms was adopted on 3 July 1946; the three gold stars represent the major island groups of Luzon, the Visayas, and Mindanao; the rays of the sun represent the provinces of the Philippines; the American eagle and lion of Spain represent the nation's colonial past<br>
 
 **National anthem**<br>
-_name_: "Lupang Hinirang" (Chosen Land)<br>
+_title_: "Lupang Hinirang" (Chosen Land)<br>
 _lyrics/music_: Jose PALMA (revised by Felipe PADILLA de Leon)/Julian FELIPE<br>
-<strong>note:</strong> music adopted 1898, original Spanish lyrics adopted 1899, Filipino (Tagalog) lyrics adopted 1956; although the original lyrics were written in Spanish, later English and Filipino versions were created; today, only the Filipino version is used<br>
+_history_: music adopted 1898, original Spanish lyrics adopted 1899, Filipino (Tagalog) lyrics adopted 1956; English and Filipino versions were created after the original Spanish version; today, only the Filipino lyrics are used<br>
+<strong>note:</strong> music adopted 1898, original Spanish lyrics adopted 1899, Filipino (Tagalog) lyrics adopted 1956; English and Filipino versions were created after the original Spanish version; today, only the Filipino lyrics are used<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 6 (3 cultural, 3 natural)<br>
@@ -718,7 +719,4 @@ Abu Sayyaf Group; Communist Party of the Philippines/New People's Army (CPP/NPA)
 **Refugees and internally displaced persons**<br>
 _IDPs_: 102,000 (government troops fighting the Moro Islamic Liberation Front, the Abu Sayyaf Group, and the New People's Army; clan feuds; armed attacks, political violence, and communal tensions in Mindanao) (2022)<br>
 _stateless persons_: 261 (2022); note - stateless persons are descendants of Indonesian migrants<br>
-
-**Illicit drugs**<br>
-<p>Illegal drugs, including methamphetamine hydrochloride, cannabis, and methylenedioxymethamphetamine (MMDA, or "ecstasy") enter the Philippines from the Golden Triangle (Thailand, Laos, and Burma); drugs entering the Philippines are used locally and transported to other countries in Southeast Asia and Oceania; Chinese transnational organizations are the principal supplier of methamphetamine;  not a significant source or transit country for drugs entering the United States</p><br>
 

@@ -232,10 +232,10 @@ the indigenous population of Papua New Guinea (PNG) is one of the most heterogen
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 rainforest loss as a result of commercial demand for tropical timber; soil erosion, water-quality degradation, and loss of habitat from logging; effects of large-scale mining projects (discharge of heavy metals, cyanide, and acids into rivers); severe drought; land degradation from poor farming practices; poor fishing practices; coastal pollution due to runoff and oil spills<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 
@@ -374,8 +374,9 @@ bird of paradise<br>
 red, black<br>
 
 **National anthem**<br>
-_name_: "O Arise All You Sons"<br>
+_title_: "O Arise All You Sons"<br>
 _lyrics/music_: Thomas SHACKLADY<br>
+_history_: adopted 1975<br>
 <strong>note:</strong> adopted 1975<br>
 
 **National heritage**<br>
@@ -638,7 +639,7 @@ the PNGDF is lightly armed; the Land Force has no heavy weapons while the Air an
 18-27 for voluntary military service for men and women; no conscription (2025)<br>
 
 **Military - note**<br>
-the Papua New Guinea Defense Force (PNGDF) is a small and lightly armed force tasked with defense of the country and its territories against external attack, as well as internal security and socio-economic development duties; following some inter-tribal violence in Wapenamanda in early 2024, the PNGDF was given arrest powers<br><br>the PNGDF was established in 1973, and its primary combat unit, the Royal Pacific Islands Regiment (RPIR), is descended from Australian Army infantry battalions comprised of native soldiers and led by Australian officers and non-commissioned officers formed during World War II to help fight the Japanese; the RPIR was disbanded after the war, but reestablished in 1951 as part of the Australian Army where it continued to serve until Papua New Guinea (PNG) gained its independence in 1975, when it became part of the PNGDF<br><br>PNG's security partners include Australia, France, Indonesia, New Zealand, the UK, and the US; the US and PNG signed a defense cooperation agreement in 2023, which included a shiprider agreement that provides the opportunity for PNG personnel to work on US Coast Guard and US Navy vessels, and vice versa, to tackle maritime crime such as illegal fishing; the agreement also allowed the US military to develop and operate out of bases in PNG with the PNG Government’s approval (2024)<br>
+the Papua New Guinea Defense Force (PNGDF) is tasked with defense of the country and its territories against external attack, as well as internal security and socio-economic development duties; following some inter-tribal violence in Wapenamanda in 2024, the PNGDF was given arrest powers<br><br>since 2023, Papua New Guinea has signed bilateral defense cooperation agreements with Australia, Indonesia, the UK, and the US; the 2023 defense cooperation agreement with the US allowed the US military to develop and operate out of bases in PNG with the PNG Government’s approval; PNG has also military relations with France and New Zealand and has discussed a security cooperation agreement with China <br><br>the PNGDF was established in 1973, and its primary combat unit, the Royal Pacific Islands Regiment (RPIR), is descended from Australian Army infantry battalions comprised of native soldiers and led by Australian officers and non-commissioned officers formed during World War II to help fight the Japanese; the RPIR was disbanded after the war, but reestablished in 1951 as part of the Australian Army where it continued to serve until PNG gained its independence in 1975, when it became part of the PNGDF (2025)<br>
 
 ## Transnational Issues
 
@@ -649,7 +650,4 @@ _stateless persons_: 15 (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 — Papua New Guinea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Papua New Guinea remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/papua-new-guinea/<br>
-
-**Illicit drugs**<br>
-<p>transit point for smuggling drugs such as methamphetamine and cocaine; major consumer of cannabis</p><br>
 

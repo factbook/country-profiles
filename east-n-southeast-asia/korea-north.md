@@ -209,11 +209,6 @@ _men married by age 18_: 0% (2017)<br>
 **Education expenditure**<br>
 14.6% national budget (2025 est.)<br>
 
-**Literacy**<br>
-_total population_: 100%<br>
-_male_: 100%<br>
-_female_: 100% (2015)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
 _male_: 11 years<br>
@@ -221,10 +216,10 @@ _female_: 11 years (2015)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water pollution; inadequate potable water; deforestation; soil erosion and degradation<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Antarctic-Environmental Protection, Law of the Sea<br>
 
@@ -354,9 +349,10 @@ red star, chollima (winged horse)<br>
 red, white, blue<br>
 
 **National anthem**<br>
-_name_: "Aegukka" (Patriotic Song)<br>
+_title_: "Aegukka" (Patriotic Song)<br>
 _lyrics/music_: PAK Se Yong/KIM Won Gyun<br>
-<strong>note:</strong> adopted 1947; both North Korea's and South Korea's anthems share the same name and have a vaguely similar melody but have different lyrics; the North Korean anthem is also known as "Ach'imun pinnara" (Let Morning Shine)<br>
+_history_: adopted 1947; North Korea's and South Korea's anthems have the same name and a similar melody, but different lyrics; the North Korean anthem is also known as "Ach'imun pinnara" (Let Morning Shine)<br>
+<strong>note:</strong> adopted 1947; North Korea's and South Korea's anthems have the same name and a similar melody, but different lyrics; the North Korean anthem is also known as "Ach'imun pinnara" (Let Morning Shine)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>
@@ -571,7 +567,4 @@ _IDPs_: undetermined (2021)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 — the government of North Korea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, North Korea remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/north-korea/<br>
-
-**Illicit drugs**<br>
-at present there is insufficient information to determine the current level of involvement of government officials in the production or trafficking of illicit drugs, but for years, from the 1970s into the 2000s, citizens of North Korea , many of them diplomatic employees of the government, were apprehended abroad while trafficking in narcotics; police investigations in Taiwan, Japan and Australia during that period have linked North Korea to large illicit shipments of heroin and methamphetamine<br>
 

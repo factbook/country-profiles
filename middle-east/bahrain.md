@@ -162,11 +162,7 @@ _female_: 82.7 years<br>
 NA<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
 _improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Health expenditure**<br>
@@ -221,10 +217,10 @@ _female_: 17 years (2019)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 desertification; drought; coastal degradation from oil spills and other discharges from large tankers, oil refineries, and distribution stations; lack of freshwater resources; saline contamination from lowered water table<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -377,9 +373,10 @@ a white serrated band with five white points on top of a red field<br>
 red, white<br>
 
 **National anthem**<br>
-_name_: "Bahrainona" (Our Bahrain)<br>
+_title_: "Bahrainona" (Our Bahrain)<br>
 _lyrics/music_: unknown<br>
-<strong>note:</strong> adopted 1971; although Mohamed Sudqi AYYASH wrote the original lyrics, they were changed in 2002 following the transformation of Bahrain from an emirate to a kingdom<br>
+_history_: adopted 1971; Mohamed Sudqi AYYASH wrote the original lyrics, but they were changed in 2002 after Bahrain became a kingdom<br>
+<strong>note:</strong> adopted 1971; Mohamed Sudqi AYYASH wrote the original lyrics, but they were changed in 2002 after Bahrain became a kingdom<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (all cultural)<br>

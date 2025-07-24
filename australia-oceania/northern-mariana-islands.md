@@ -170,14 +170,9 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 2.1% of population (2020 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 contamination of groundwater on Saipan; clean-up of landfill; protection of endangered species<br>
 
 **Climate**<br>
@@ -280,9 +275,10 @@ latte stone<br>
 blue, white<br>
 
 **National anthem**<br>
-_name_: "Gi Talo Gi Halom Tasi" (In the Middle of the Sea)<br>
-_lyrics/music_: Jose S. PANGELINAN [Chamoru], David PETER [Carolinian]/Wilhelm GANZHORN<br>
-<strong>note:</strong> adopted 1996; the Carolinian version of the song is known as "Satil Matawal Pacifico;" as a commonwealth of the US, in addition to the local anthem, "The Star-Spangled Banner" is official (see United States)<br>
+_title_: "The Star-Spangled Banner"<br>
+_lyrics/music_: Francis Scott KEY/John Stafford SMITH<br>
+_history_: official anthem, as a US commonwealth<br>
+<strong>note:</strong> adopted 1996; the Carolinian version of the song is known as "Satil Matawal Pacifico;" in addition to the local anthem, "The Star-Spangled Banner" is the official anthem for the islands, as a US commonwealth (see United States)<br>
 
 ## Economy
 

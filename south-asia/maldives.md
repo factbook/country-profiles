@@ -231,10 +231,10 @@ _female_: 14 years (2019)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 rising sea levels; depletion of freshwater aquifers; inadequate sewage treatment; coral reef bleaching<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -370,8 +370,9 @@ coconut palm, yellowfin tuna<br>
 red, green, white<br>
 
 **National anthem**<br>
-_name_: "Gaumee Salaam" (National Salute)<br>
+_title_: "Gaumee Salaam" (National Salute)<br>
 _lyrics/music_: Mohamed Jameel DIDI/Wannakuwattawaduge DON AMARADEVA<br>
+_history_: lyrics adopted 1948, music adopted 1972; between 1948 and 1972, the lyrics were sung to the tune of "Auld Lang Syne"<br>
 <strong>note:</strong> lyrics adopted 1948, music adopted 1972; between 1948 and 1972, the lyrics were sung to the tune of "Auld Lang Syne"<br>
 
 ## Economy
@@ -634,7 +635,4 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List — the Maldives did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/maldives/<br>
-
-**Illicit drugs**<br>
-NA<br>
 

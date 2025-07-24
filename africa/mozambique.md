@@ -239,10 +239,10 @@ _female_: 9 years (2017)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 increased population migration to urban and coastal areas; desertification; soil erosion; deforestation; water pollution from artisanal mining; pollution of surface and coastal waters; wildlife preservation (elephant poaching for ivory)<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -382,8 +382,9 @@ rifle, hoe, and book<br>
 green, black, yellow, white, red<br>
 
 **National anthem**<br>
-_name_: "Patria Amada" (Lovely Fatherland)<br>
+_title_: "Patria Amada" (Lovely Fatherland)<br>
 _lyrics/music_: Salomao J. MANHICA/unknown<br>
+_history_: adopted 2002<br>
 <strong>note:</strong> adopted 2002<br>
 
 **National heritage**<br>
@@ -662,10 +663,10 @@ estimated 12,000 active FADM (2025)<br>
 the FADM's inventory consists primarily of Russian and Soviet-era equipment, although in recent years it has received some more modern equipment from a variety of countries, mostly as aid/donations (2024)<br>
 
 **Military service age and obligation**<br>
-registration for military service is mandatory for all men and women at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service for men and women; 24-month service obligation (note - in 2023, the Mozambique Government said it intended to raise the length of service from two to five years) (2023)<br>
+registration for military service is mandatory for all men and women at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service for men and women; 60-month service obligation&nbsp; (2025)<br>
 
 **Military - note**<br>
-the FADM is responsible for external security, cooperating with police on internal security, and responding to natural disasters and other emergencies; the current primary focus of the FADM is countering an insurgency driven by militants with ties to the Islamic State of Iraq and ash-Sham (ISIS) terrorist group in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017, and the fighting has left an estimated 6,000 dead and 1 million displaced; several countries from the Southern Africa Development Community (SADC) and the EU, as well as Rwanda and the US have provided various forms of military assistance to the FADM; the SADC countries and Rwanda have sent more than 3,000 military and security personnel, while some EU member states and the US have provided training assistance; in the first half of 2024, the SADC began withdrawing personnel, although the insurgency remained active (2024)<br>
+the FADM is responsible for external security, cooperating with police on internal security, and responding to natural disasters and other emergencies; the primary focus of the FADM is countering an insurgency in the northern province of Cabo Delgado by militants affiliated with the Islamic State of Iraq and ash-Sham terrorist group (ISIS-Mozambique; known locally as Ahl al-Sunna wal-Jama&lsquo;a); since 2017, the conflict has claimed an estimated 6,000 lives and displaced an estimated one million persons; at Mozambique's request, Rwanda and several southern African countries under the Southern Africa Development Community (SADC) deployed forces to Mozambique to combat the insurgency in 2021; the SADC forces departed in 2024; as of 2025, Rwanda continued to provide approximately 3,000 military and police personnel to assist Mozambican Defense and Security Forces, along with several hundred Tanzanian troops; the EU has also provided training assistance (2025)<br>
 
 ## Terrorism
 
@@ -678,7 +679,4 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 10,655 (Burundi) (refugees and asylum seekers) (2023); 9,340 (Democratic Republic of Congo) (refugees and asylum seekers) (2024)<br>
 _IDPs_: 850,599 (north Mozambique, violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2023)<br>
-
-**Illicit drugs**<br>
-<br><br> <p>a transit country for large shipments of heroin and methamphetamine originating from Afghanistan to primarily South Africa</p> <p> </p><br>
 

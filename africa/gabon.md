@@ -224,10 +224,10 @@ _female_: 87.1% (2021 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation from logging; solid-waste disposal; water pollution from oil industry; wildlife poaching<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -377,8 +377,9 @@ green, yellow, blue<br>
 the panthers represent vigilance and courage, and they support a shield with a ship and an okoume tree, which is a symbol of the timber trade; the ribbon below the shield has the national motto in French, <em>Union, Travail, Justice</em> ("Union, Work, Justice"), and the ribbon above the shield has the Latin phrase <em>Uniti Progrediemur</em> ("We shall go forward united")<br>
 
 **National anthem**<br>
-_name_: "La Concorde" (The Concorde)<br>
+_title_: "La Concorde" (The Concorde)<br>
 _lyrics/music_: Georges Aleka DAMAS<br>
+_history_: adopted 1960<br>
 <strong>note:</strong> adopted 1960<br>
 
 **National heritage**<br>

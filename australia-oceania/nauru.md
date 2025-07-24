@@ -201,16 +201,16 @@ _Education expenditure (% GDP)_: 5.6% of GDP (2023 est.) NA<br>
 _Education expenditure (% national budget)_: 9.6% national budget (2018 est.)<br>
 
 **Literacy**<br>
-_total population_: 96.6% (2023 est.) NA<br>
-_male_: 93.4% (2023 est.) NA<br>
-_female_: 99.7% (2023 est.) NA<br>
+_total population_: 96.6% (2023 est.)<br>
+_male_: 93.4% (2023 est.)<br>
+_female_: 99.7% (2023 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 limited natural freshwater resources; effects of intensive phosphate mining that left the central 90% of Nauru a wasteland; air and water pollution from cadmium residue, phosphate dust, and other contaminants; rising sea levels<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -331,8 +331,9 @@ frigatebird, calophyllum flower<br>
 blue, yellow, white<br>
 
 **National anthem**<br>
-_name_: "Nauru Bwiema" (Song of Nauru)<br>
+_title_: "Nauru Bwiema" (Song of Nauru)<br>
 _lyrics/music_: Margaret HENDRIE/Laurence Henry HICKS<br>
+_history_: adopted 1968<br>
 <strong>note:</strong> adopted 1968<br>
 
 ## Economy
@@ -513,7 +514,7 @@ _key ports_: Nauru<br>
 no regular military forces; Nauru Police Force (2025)<br>
 
 **Military - note**<br>
-under an informal agreement, defense is the responsibility of Australia; under the terms of a security deal signed in December 2024, Nauru pledged to seek Australia’s agreement before it signed any bilateral accords on maritime security, defense, and policing, and would receive economic assistance from Australia, including to its police force<br><br>Nauru has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Nauru's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
+under the terms of a security deal signed in December 2024, Australia and Nauru agreed to “deepen and expand security cooperation” and “consult and consider” in the event of threats; Nauru pledged to seek Australia’s agreement before it signed any bilateral accords on maritime security, defense, and policing, and would receive Australian financial assistance in support of Nauru's police and security needs<br><br>Nauru has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Nauru's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>
 
 ## Transnational Issues
 

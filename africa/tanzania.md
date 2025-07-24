@@ -243,10 +243,10 @@ _female_: 9 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water pollution; improper management of liquid waste; indoor air pollution from burning wood or charcoal for cooking and heating; soil degradation; deforestation; desertification; coral reef destruction; illegal hunting and animal trade, especially ivory; loss of biodiversity; solid waste disposal<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -390,9 +390,10 @@ Uhuru (freedom) torch, giraffe<br>
 green, yellow, blue, black<br>
 
 **National anthem**<br>
-_name_: "Mungu ibariki Afrika" (God Bless Africa)<br>
+_title_: "Mungu ibariki Afrika" (God Bless Africa)<br>
 _lyrics/music_: collective/Enoch Mankayi SONTONGA<br>
-<strong>note:</strong> adopted 1961; the anthem, which is also a popular song in Africa, shares the same melody with that of Zambia but has different lyrics; the melody is also incorporated into South Africa's anthem<br>
+_history_: adopted 1961; the anthem, which is also a popular song in Africa, shares the melody of Zambia's anthem; the melody is also part of South Africa's anthem<br>
+<strong>note:</strong> adopted 1961; the anthem, which is also a popular song in Africa, shares the melody of Zambia's anthem; the melody is also part of South Africa's anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 7 (3 cultural, 3 natural, 1 mixed)<br>
@@ -691,7 +692,4 @@ al-Shabaab; Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 89,163 (Democratic Republic of the Congo), 112,779 (Burundi) (2024)<br>
-
-**Illicit drugs**<br>
-significant transit country for illicit drugs in East Africa; international drug trafficking organizations and courier networks transit illicit drugs through mainland Tanzania to markets in within Africa, Europe and North America; cultivates cannabis and khat for domestic consumption and regional and international distribution; domestic drug use continues increasing including methamphetamine heroin use (2023)<br>
 

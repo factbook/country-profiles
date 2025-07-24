@@ -234,10 +234,10 @@ _female_: 15 years (2014)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air and water pollution; land degradation; solid waste management; biodiversity loss; deforestation; radiation contamination in the northeast from 1986 nuclear accident in Chornobyl'&nbsp;<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds<br>
 
@@ -319,7 +319,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Volodymyr ZELENSKYY (since 20 May 2019)<br>
-_head of government_: Prime Minister Denys SHMYHAL (since 4 March 2020)<br>
+_head of government_: Prime Minister Yulia SVYRYDENKO (since 17 July 2025)<br>
 _cabinet_: Cabinet of Ministers nominated by the prime minister, approved by the Verkhovna Rada<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister selected by the Verkhovna Rada<br>
 _most recent election date_: 31 March and 21 April 2019<br>
@@ -384,8 +384,9 @@ tryzub (trident), sunflower<br>
 blue, yellow<br>
 
 **National anthem**<br>
-_name_: "Shche ne vmerla Ukraina" (Ukraine Has Not Yet Perished)<br>
+_title_: "Shche ne vmerla Ukraina" (Ukraine Has Not Yet Perished)<br>
 _lyrics/music_: Paul CHUBYNSKYI/Mikhail VERBYTSKYI<br>
+_history_: music adopted 1991, lyrics adopted 2003; song first performed in 1864 at the Ukraine Theatre in Lviv; the lyrics, originally written in 1862, were revised in 2003<br>
 <strong>note:</strong> music adopted 1991, lyrics adopted 2003; song first performed in 1864 at the Ukraine Theatre in Lviv; the lyrics, originally written in 1862, were revised in 2003<br>
 
 **National heritage**<br>
@@ -707,7 +708,4 @@ SSAU/NSAU inherited a large and well-developed space program when it took over a
 **Refugees and internally displaced persons**<br>
 _IDPs_: <p>1,461,700 (Russian-sponsored separatist violence in Crimea and eastern Ukraine) (2021); 3.67 million (2023) (since Russian invasion that started in February 2022); note – the more recent invasion total may reflect some double counting, since it is impossible to determine how many of the recent IDPs may also include IDPs from the earlier Russian-sponsored violence in Crimea and eastern Ukraine</p><br>
 _stateless persons_: 36,459 (2022); note - citizens of the former USSR who were permanently resident in Ukraine were granted citizenship upon Ukraine's independence in 1991, but some missed this window of opportunity; people arriving after 1991, Crimean Tatars, ethnic Koreans, people with expired Soviet passports, and people with no documents have difficulty acquiring Ukrainian citizenship; following the fall of the Soviet Union in 1989, thousands of Crimean Tatars and their descendants deported from Ukraine under the STALIN regime returned to their homeland, some being stateless and others holding the citizenship of Uzbekistan or other former Soviet republics; a 1998 bilateral agreement between Ukraine and Uzbekistan simplified the process of renouncing Uzbek citizenship and obtaining Ukrainian citizenship<br>
-
-**Illicit drugs**<br>
-<br><br>a transit country for non-domestically produced drugs, such as cocaine and heroin, bound for consumer markets in the European Union and Russia; overland corridors for the movement of these drugs exists, but Ukraine’s southern ports on the Black Sea, notably Odesa and Pivdennyi, are disrupted due to the war;  domestically produced amphetamine, methamphetamine, methadone, alpha-PVP, and new psychoactive substances (NPS) remain threats to Ukrainian society; production and consumption of cannabis remains significant<br>
 

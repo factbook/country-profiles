@@ -245,11 +245,11 @@ _female_: 15 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 scarcity of hazardous waste disposal facilities; natural freshwater resources scarce and polluted in north, inaccessible and poor quality in center and extreme southeast; urban river pollution from raw sewage and industrial effluents; deforestation; widespread erosion; desertification; serious air and water pollution in urban areas; land subsidence in Valley of Mexico caused by groundwater depletion<br>
 <strong>note:</strong> the government considers the lack of clean water and deforestation as national security issues<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -418,9 +418,10 @@ golden eagle, dahlia<br>
 green, white, red<br>
 
 **National anthem**<br>
-_name_: "Himno Nacional Mexicano" (National Anthem of Mexico)<br>
+_title_: "Himno Nacional Mexicano" (National Anthem of Mexico)<br>
 _lyrics/music_: Francisco Gonzalez BOCANEGRA/Jaime Nuno ROCA<br>
-<strong>note:</strong> adopted 1943, in use since 1854; also known as "Mexicanos, al grito de Guerra" (Mexicans, to the War Cry); according to tradition, Francisco Gonzalez BOCANEGRA, an accomplished poet, was uninterested in submitting lyrics to a national anthem contest; his fiancee locked him in a room and refused to release him until the lyrics were completed<br>
+_history_: adopted 1943, in use since 1854; also known as "Mexicanos, al grito de Guerra" (Mexicans, to the War Cry); according to tradition, BOCANEGRA, an accomplished poet, did not want to submit lyrics to a national anthem contest, but his fianc&eacute;e locked him in a room and refused to release him until the lyrics were completed<br>
+<strong>note:</strong> adopted 1943, in use since 1854; also known as "Mexicanos, al grito de Guerra" (Mexicans, to the War Cry); according to tradition, BOCANEGRA, an accomplished poet, did not want to submit lyrics to a national anthem contest, but his fiancée locked him in a room and refused to release him until the lyrics were completed<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 35 (27 cultural, 6 natural, 2 mixed)<br>
@@ -721,7 +722,7 @@ the Mexican military inventory includes a mix of domestically produced and impor
 <strong>note: </strong>as of 2023, women comprised about 10% of the active-duty Army, Air Force, and Navy, and about 14% of the National Guard<br>
 
 **Military - note**<br>
-the Mexican military is responsible for defending the independence, integrity, and sovereignty of Mexico, as well as providing for internal security, disaster response, humanitarian assistance, and socio-economic development; in recent years, internal security duties have been a key focus, particularly in countering narcotics trafficking and organized crime groups, as well as border control and immigration enforcement; the constitution was amended in 2019 to grant the president the authority to use the armed forces to protect internal and national security, and courts have upheld the legality of the armed forces&rsquo; role in law enforcement activities in support of civilian authorities through 2028; the military also provides security for strategic facilities, such as oil production infrastructure, and administers most of the country's land and sea ports and customs services, plus a state-owned development bank; in addition, President L&Oacute;PEZ OBRADOR placed the military in charge of a growing number of infrastructure projects, such as building and operating a new airport for Mexico City and sections of a train line in the country&rsquo;s southeast (2024)<br>
+the Mexican military is responsible for defending the independence, integrity, and sovereignty of Mexico, as well as providing for internal security, disaster response, humanitarian assistance, and socio-economic development; internal security duties are a key focus, particularly combating narcotics trafficking and organized crime groups, as well as border control and immigration enforcement; the constitution was amended in 2019 to grant the president the authority to use the armed forces to protect internal and national security, and courts have upheld the legality of the armed forces&rsquo; role in law enforcement activities in support of civilian authorities through 2028; the military also provides security for strategic facilities, such as oil production infrastructure, and administers most of the country's land and sea ports and customs services, plus a state-owned development bank; in addition, President L&Oacute;PEZ OBRADOR placed the military in charge of a growing number of infrastructure projects, such as building and operating a new airport for Mexico City and sections of a train line in the country&rsquo;s southeast (2025)<br>
 
 ## Space
 
@@ -746,5 +747,5 @@ _IDPs_: 386,000 (government's quashing of Zapatista uprising in 1994 in eastern 
 _stateless persons_: 13 (2022)<br>
 
 **Illicit drugs**<br>
-<p>significant source and transit country for fentanyl, fentanyl-laced counterfeit pills, other synthetic opioids, cocaine from South America, heroin, marijuana, and methamphetamine destined for the United States; a destination for synthetic drug precursor chemicals from China, India, and other countries</p><br>
+_USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>
 

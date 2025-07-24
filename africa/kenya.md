@@ -230,17 +230,12 @@ _men married by age 18_: 1.8% (2022)<br>
 _Education expenditure (% GDP)_: 4% of GDP (2024 est.)<br>
 _Education expenditure (% national budget)_: 18.4% national budget (2023 est.)<br>
 
-**Literacy**<br>
-_total population_: 82.6%<br>
-_male_: 85.5%<br>
-_female_: 79.8% (2021)<br>
-
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water pollution from urban and industrial wastes and from use of pesticides and fertilizers; flooding; water-hyacinth infestation in Lake Victoria; deforestation; soil erosion; desertification; poaching<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -397,11 +392,12 @@ lion<br>
 black, red, green, white<br>
 
 **National coat of arms**<br>
-<p>the two lions symbolize protection as they hold a traditional East African shield and spears in defense of freedom and unity; the shield features the national colors: black for the people, green for agriculture and natural resources, red for the struggle for freedom, and white for unity and peace; on the shield, a rooster greets the new day, and the axe represents both authority and the Kenya Africa National Union (KANU) that led the country to independence; at the base of the shield is Mount Kenya, Africa’s second-highest peak; the scroll has the Swahili word <em>Harambee</em>, meaning “all for one” or “pulling together”</p><br>
+the two lions symbolize protection as they hold a traditional East African shield and spears in defense of freedom and unity; the shield features the national colors: black for the people, green for agriculture and natural resources, red for the struggle for freedom, and white for unity and peace; on the shield, a rooster greets the new day, and the axe represents both authority and the Kenya Africa National Union (KANU) that led the country to independence; at the base of the shield is Mount Kenya, Africa’s second-highest peak; the scroll has the Swahili word <em>Harambee</em>, meaning “all for one” or “pulling together”<br>
 
 **National anthem**<br>
-_name_: "Ee Mungu Nguvu Yetu" (Oh God of All Creation)<br>
+_title_: "Ee Mungu Nguvu Yetu" (O God of All Creation)<br>
 _lyrics/music_: Graham HYSLOP, Thomas KALUME, Peter KIBUKOSYA, Washington OMONDI, and George W. SENOGA-ZAKE/traditional, adapted by Graham HYSLOP, Thomas KALUME, Peter KIBUKOSYA, Washington OMONDI, and George W. SENOGA-ZAKE<br>
+_history_: adopted 1963; based on a traditional Kenyan folk song<br>
 <strong>note:</strong> adopted 1963; based on a traditional Kenyan folk song<br>
 
 **National heritage**<br>
@@ -709,7 +705,4 @@ al-Shabaab<br>
 _refugees (country of origin)_: 21,847 (Ethiopia), 5,756 (Sudan) (2023); 298,117 (Somalia), 176,776 (South Sudan), 59,384 (Democratic Republic of the Congo), 8,701 (Burundi) (2024)<br>
 _IDPs_: 30,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2022)<br>
 _stateless persons_: 16,779 (2022); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
-
-**Illicit drugs**<br>
-<p>a transit country for illicit drugs and precursor chemicals; domestic drug consumption of cannabis and miraa (khat) is growing; heroin enters Kenya via Tanzania and in shipments across the Indian Ocean from Southwest Asia mostly destined for international markets, principally Europe; cocaine enters Kenya primarily via transshipment through Ethiopia</p><br>
 

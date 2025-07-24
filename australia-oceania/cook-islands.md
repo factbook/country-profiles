@@ -203,11 +203,6 @@ _female_: 20.1% (2025 est.)<br>
 _Education expenditure (% GDP)_: 4.6% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 8.7% national budget (2024 est.)<br>
 
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 15 years<br>
@@ -215,10 +210,10 @@ _female_: 14 years (2012)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 solid- and liquid-waste disposal; soil degradation; deforestation; use of pesticides; improper disposal of pollutants; overfishing and destructive fishing practices; over-dredging of lagoons and coral rubble beds; unregulated building<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -333,9 +328,10 @@ a circle of 15 five-pointed white stars on a blue field, tiare maori flower (<em
 green, white<br>
 
 **National anthem**<br>
-_name_: "Te Atua Mou E" (To God Almighty)<br>
+_title_: "Te Atua Mou E" (To God Almighty)<br>
 _lyrics/music_: Tepaeru Te RITO/Thomas DAVIS<br>
-<strong>note:</strong> adopted 1982; as prime minister, Sir Thomas DAVIS composed the anthem; his wife, a tribal chief, wrote the lyrics<br>
+_history_: adopted 1982; as prime minister, Sir Thomas DAVIS composed the anthem; his wife Pa Tepaeru Terito Ariki, who was a tribal chief, wrote the lyrics<br>
+<strong>note:</strong> adopted 1982; as prime minister, Sir Thomas DAVIS composed the anthem; his wife Pa Tepaeru Terito Ariki, who was a tribal chief, wrote the lyrics<br>
 
 ## Economy
 

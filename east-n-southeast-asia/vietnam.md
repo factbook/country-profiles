@@ -232,10 +232,10 @@ _female_: 95% (2022 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 deforestation and soil degradation from logging and slash-and-burn agriculture; water pollution; overfishing; groundwater contamination limits potable water supply; air pollution<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -384,9 +384,10 @@ five-pointed yellow star on a red field, lotus blossom<br>
 red, yellow<br>
 
 **National anthem**<br>
-_name_: "Tien quan ca" (The Song of the Marching Troops)<br>
+_title_: "Tien quan ca" (The Song of the Marching Troops)<br>
 _lyrics/music_: Nguyen Van CAO<br>
-<strong>note:</strong> adopted as the national anthem of the Democratic Republic of Vietnam in 1945; it became the national anthem of the unified Socialist Republic of Vietnam in 1976; although it consists of two verses, only the first is used as the official anthem<br>
+_history_: adopted as the national anthem of the Democratic Republic of Vietnam in 1945; it became the national anthem of the unified Socialist Republic of Vietnam in 1976; it has two verses, but only the first is used as the official anthem<br>
+<strong>note:</strong> adopted as the national anthem of the Democratic Republic of Vietnam in 1945; it became the national anthem of the unified Socialist Republic of Vietnam in 1976; it has two verses, but only the first is used as the official anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 8 (5 cultural, 2 natural, 1 mixed)<br>
@@ -693,7 +694,4 @@ has a growing space program focused on acquiring, operating, and exploiting sate
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 35,475 (2022); note - Vietnam's stateless ethnic Chinese Cambodian population dates to the 1970s when thousands of Cambodians fled to Vietnam to escape the Khmer Rouge and were no longer recognized as Cambodian citizens; Vietnamese women who gave up their citizenship to marry foreign men have found themselves stateless after divorcing and returning home to Vietnam; the government addressed this problem in 2009, and Vietnamese women are beginning to reclaim their citizenship<br>
-
-**Illicit drugs**<br>
-<p>a transshipment and destination country for all types of illegal drugs; most transshipments destined for other Asian countries and not the United States; heroin transits from Thailand, Laos, and Burma for domestic use and shipping to r countries in Southeast Asia, Oceania, China and Taiwan; methamphetamine and amphetamine type stimulants from Burma locally consumed and shipped; South American cocaine locally consumed and distributed to Southeast Asia and Oceania</p><br>
 

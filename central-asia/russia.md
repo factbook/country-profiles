@@ -234,11 +234,6 @@ _women married by age 18_: 6.2% (2017)<br>
 _Education expenditure (% GDP)_: 4.1% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 8.9% national budget (2020 est.)<br>
 
-**Literacy**<br>
-_total population_: 100% (2021 est.)<br>
-_male_: 100% (2021 est.)<br>
-_female_: 100% (2021 est.)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 16 years<br>
@@ -246,10 +241,10 @@ _female_: 16 years (2019)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 air pollution from heavy industry, coal-fired electric plants, and transportation in major cities; industrial, municipal, and agricultural pollution of inland waterways and seacoasts; deforestation; soil erosion; soil contamination from agricultural chemicals; nuclear waste disposal; scattered areas of radioactive contamination; groundwater contamination from toxic waste; urban solid-waste management; abandoned stocks of pesticides<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: Air Pollution-Sulfur 94<br>
 
@@ -412,9 +407,10 @@ white, blue, red<br>
 the current coat of arms of Russia was adopted by presidential decree on 30 November 1993; the double-headed eagle was adopted as a Russian symbol in 1472 when Ivan III married Sophia Palaiologina, niece of the last Byzantine emperor in Constantinople -- the eagle was her family's emblem<br>
 
 **National anthem**<br>
-_name_: "Gimn Rossiyskoy Federatsii" (National Anthem of the Russian Federation)<br>
+_title_: "Gimn Rossiyskoy Federatsii" (National Anthem of the Russian Federation)<br>
 _lyrics/music_: Sergey Vladimirovich MIKHALKOV/Aleksandr Vasilyevich ALEKSANDROV<br>
-<strong>note:</strong> in 2000, Russia adopted the tune of the anthem of the former Soviet Union (composed in 1939); the lyrics, also adopted in 2000, were written by the same person who authored the Soviet lyrics in 1943<br>
+_history_: in 2000, Russia adopted the tune of the Soviet Union's anthem (composed in 1939), as well as new lyrics; MIKHALKOV, who wrote the new lyrics, also authored the Soviet lyrics in 1943<br>
+<strong>note:</strong> in 2000, Russia adopted the tune of the Soviet Union's anthem (composed in 1939), as well as new lyrics; MIKHALKOV, who wrote the new lyrics, also authored the Soviet lyrics in 1943<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 32 (21 cultural, 11 natural)<br>
@@ -752,7 +748,4 @@ _stateless persons_: 56,960 (mid-year 2021); note - Russia's stateless populatio
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 — Russia does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Russia remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/russia/<br>
-
-**Illicit drugs**<br>
-<p>a destination country for heroin and other Afghan opiates; a transit country for cocaine from South America, especially Ecuador to Europe, Belgium and Netherlands; synthetic drugs are produced in clandestine drug laboratories throughout the country; marijuana cultivated in Russian Far East and the North Caucasus; the majority of hashish is smuggled in from Northern Africa</p> <p> </p><br>
 

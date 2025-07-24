@@ -140,10 +140,10 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 increasing attention to conservationist practices to counter loss of soil fertility from traditional slash-and-burn agriculture<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Law of the Sea, Ozone Layer Protection, Ship Pollution<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -258,8 +258,9 @@ yellow five-pointed star<br>
 yellow<br>
 
 **National anthem**<br>
-_name_: "Ko e Iki he Lagi" (The Lord in Heaven)<br>
+_title_: "Ko e Iki he Lagi" (The Lord in Heaven)<br>
 _lyrics/music_: unknown/unknown, prepared by Sioeli FUSIKATA<br>
+_history_: adopted 1974<br>
 <strong>note:</strong> adopted 1974<br>
 
 ## Economy
@@ -371,7 +372,7 @@ _key ports_: Alofi<br>
 no regular indigenous military forces; Niue Police Department<br>
 
 **Military - note**<br>
-defense is the responsibility of New Zealand<br>
+under the Niue Constitution Act of 1974, New Zealand provides assistance with foreign affairs, defense, and security if requested by the Niue government<br>
 
 ## Transnational Issues
 

@@ -139,7 +139,7 @@ _65 years and over_: 0.71 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
-84 deaths/100,000 live births (2020 est.)<br>
+66 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 11.6 deaths/1,000 live births (2024 est.)<br>
@@ -220,10 +220,10 @@ _female_: 16 years (2017)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 water pollution, degradation of coral reefs; soil erosion; wildlife preservation; solid-waste disposal<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -365,8 +365,9 @@ dodo bird, earring tree flower (<em>Trochetia boutoniana</em>)<br>
 red, blue, yellow, green<br>
 
 **National anthem**<br>
-_name_: "Motherland"<br>
+_title_: "Motherland"<br>
 _lyrics/music_: Jean Georges PROSPER/Philippe GENTIL<br>
+_history_: adopted 1968<br>
 <strong>note:</strong> adopted 1968<br>
 
 **National heritage**<br>
@@ -622,10 +623,7 @@ no regular military forces; the Mauritius Police Force (MPF) under the Ministry 
 the MPF's inventory is comprised of mostly secondhand equipment from Western European countries and India (2024)<br>
 
 **Military - note**<br>
-the MPF's primary security partner is India, which provides training and other support to the National Coast Guard; Indian naval vessels often patrol the country's waters; the MPF has also received assistance and training from France, the UK, and the US; the MPF’s chief security concerns are piracy and narcotics trafficking<br><br>the Special Mobile Force was created in 1960 following the withdrawal of the British garrison (2024)<br>
+key security priorities for the Maritius Police Force (MPF) include combating narcotics trafficking, ensuring public order, fighting cybercrime, improving maritime security, and responding to natural disasters; the MPF's primary security partner is India, which provides training and other support to the National Coast Guard, while Indian naval vessels often patrol the country's waters; the MPF has also received assistance and training from France, the UK, and the US<br><br>the Special Mobile Force was created in 1960 following the withdrawal of the British garrison (2025)<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-<p>consumer and transshipment point for heroin from South Asia; small amounts of cannabis produced and consumed locally; significant offshore financial industry creates potential for money laundering</p><br>
 

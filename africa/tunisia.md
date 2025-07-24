@@ -232,10 +232,10 @@ _female_: 16 years (2016)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 toxic and hazardous waste disposal; water pollution from raw sewage; limited freshwater resources; deforestation; overgrazing; soil erosion; desertification<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Marine Life Conservation<br>
 
@@ -389,8 +389,9 @@ red crescent moon and five-pointed star in a white circle<br>
 red, white<br>
 
 **National anthem**<br>
-_name_: "Humat Al Hima" (Defenders of the Homeland)<br>
+_title_: "Humat Al Hima" (Defenders of the Homeland)<br>
 _lyrics/music_: Mustafa Sadik AL-RAFII and Aboul-Qacem ECHEBBI/Mohamad Abdel WAHAB<br>
+_history_: adopted 1957, replaced 1958, restored 1987; Mohamad Abdel WAHAB also composed the music for the anthem of the United Arab Emirates<br>
 <strong>note:</strong> adopted 1957, replaced 1958, restored 1987; Mohamad Abdel WAHAB also composed the music for the anthem of the United Arab Emirates<br>
 
 **National heritage**<br>
@@ -690,7 +691,4 @@ Ansar al-Sharia in Tunisia; Islamic State of Iraq and ash-Sham (ISIS) network in
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
-
-**Illicit drugs**<br>
-NA<br>
 

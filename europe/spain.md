@@ -232,10 +232,10 @@ _female_: 19 years (2020)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 pollution of the Mediterranean Sea from raw sewage and effluents from oil and gas production; drought; air pollution; deforestation; desertification<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -401,9 +401,10 @@ Pillars of Hercules<br>
 red, yellow<br>
 
 **National anthem**<br>
-_name_: "Himno Nacional Espanol" (National Anthem of Spain)<br>
+_title_: "Himno Nacional Espanol" (National Anthem of Spain)<br>
 _lyrics/music_: no lyrics/unknown<br>
-<strong>note:</strong> officially in use between 1770 and 1931, restored in 1939; the Spanish anthem is the first anthem to be officially adopted, but it has no lyrics; in the years prior to 1931 it became known as "Marcha Real" (The Royal March); it first appeared in a 1761 military bugle call book and was replaced by "Himno de Riego" in the years between 1931 and 1939; the long version of the anthem is used for the king, while the short version is used for the prince, prime minister, and occasions such as sporting events<br>
+_history_: officially in use between 1770 and 1931, restored in 1939; the Spanish anthem was the first to be officially adopted; it first appeared in a 1761 military bugle-call book and was replaced by "Himno de Riego" in the years between 1931 and 1939; the long version of the anthem is used for the king, and the short version is used for the prince, prime minister, and occasions such as sporting events<br>
+<strong>note:</strong> officially in use between 1770 and 1931, restored in 1939; the Spanish anthem was the first to be officially adopted; it first appeared in a 1761 military bugle-call book and was replaced by "Himno de Riego" in the years between 1931 and 1939; the long version of the anthem is used for the king, and the short version is used for the prince, prime minister, and occasions such as sporting events<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 50 (44 cultural, 4 natural, 2 mixed)<br>
@@ -727,7 +728,4 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 _refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 438,400 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022); 192,390 (Ukraine) (as of 29 February 2024)<br>
 _stateless persons_: 6,489 (2022)<br>
 <strong>note: </strong>351,562 estimated refugee and migrant arrivals, including Canary Islands (January 2015-March 2024)<br>
-
-**Illicit drugs**<br>
-<p>a European transit point for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection or altered to escape detection after which chemists within Spain extract and reconstitute any altered form of cocaine, preparing it for distribution within Europe;  minor domestic drug production; occasionally synthetic drugs, including ketamine, new psychoactive substances (NPS), and MDMA transit through Spain to the United States</p><br>
 

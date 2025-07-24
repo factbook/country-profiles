@@ -217,11 +217,6 @@ NA<br>
 _Education expenditure (% GDP)_: 8.1% of GDP (2020 est.)<br>
 _Education expenditure (% national budget)_: 21.5% national budget (2020 est.)<br>
 
-**Literacy**<br>
-_total population_: 88.5%<br>
-_male_: 88%<br>
-_female_: 88.9% (2015)<br>
-
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
 _male_: 12 years<br>
@@ -229,10 +224,10 @@ _female_: 12 years (2021)<br>
 
 ## Environment
 
-**Environment - current issues**<br>
+**Environmental issues**<br>
 overgrazing; desertification; limited freshwater resources; air pollution<br>
 
-**Environment - international agreements**<br>
+**International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
@@ -378,8 +373,9 @@ light blue, white, black<br>
 the two zebras, the country’s national symbol, support an elephant tusk that represents the country's fauna and a head of sorghum that signifies agriculture; the three wavy blue bands stand for the country’s reliance on water, the cog wheels for industry, and the bull’s head for the cattle industry; the coat of arms also features the national colors of light blue, white, and black; the motto reflects the scarcity of rain in the country: <em>pula </em>means “let there be rain” in Setswana, the national language<br>
 
 **National anthem**<br>
-_name_: "Fatshe leno la rona" (Our Land)<br>
+_title_: "Fatshe leno la rona" (Our Land)<br>
 _lyrics/music_: Kgalemang Tumedisco MOTSETE<br>
+_history_: adopted 1966<br>
 <strong>note:</strong> adopted 1966<br>
 
 **National heritage**<br>
