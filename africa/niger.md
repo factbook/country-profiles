@@ -305,8 +305,8 @@ _etymology_: the origin of the name is unclear; one of many stories says that an
 
 **Constitution**<br>
 _history_: several previous; passed by referendum 31 October 2010, entered into force 25 November 2010<br>
-_amendment process_: formerly proposed by the president of the republic or by the National Assembly; consideration of amendments requires at least three-fourths majority vote by the Assembly; passage requires at least four-fifths majority vote; if disapproved, the proposed amendment is dropped or submitted to a referendum; constitutional articles on the form of government, the multiparty system, the separation of state and religion, disqualification of Assembly members, amendment procedures, and amnesty of participants in the 2010 coup cannot be amended<br>
-<strong>Note: </strong>on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the country's constitution<br>
+_amendment process_: formerly proposed by the president of the republic or the National Assembly; consideration of amendments requires at least three-fourths majority vote by the Assembly; passage requires at least four-fifths majority vote; if disapproved, the proposed amendment is dropped or submitted to a referendum; constitutional articles on the form of government, the multiparty system, the separation of state and religion, disqualification of Assembly members, amendment procedures, and amnesty of participants in the 2010 coup cannot be amended<br>
+<strong>note: </strong>on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the country's constitution<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -346,8 +346,8 @@ _judge selection and term of office_: High Judicial Court members selected from 
 _subordinate courts_: Court of Cassation; Council of State; Court of Finances; various specialized tribunals and customary courts<br>
 
 **Political parties**<br>
-<p>Alliance for Democracy and the Republic<br>Alliance for Democratic Renewal or ARD-Adaltchi-Mutuntchi <br>Alliance of Movements for the Emergence of Niger or AMEN AMIN<br>Congress for the Republic or CPR-Inganci<br>Democratic Alternation for Equity in Niger<br>Democratic and Republican Renewal-RDR-Tchanji<br>Democratic Movement for the Emergence of Niger Falala<br>Democratic Patriots' Rally or RPD Bazara<br>National Movement for the Development of Society-Nassara or MNSD-Nassara<br>Nigerien Alliance for Democracy and Progress-Zaman Lahiya or ANDP-Zaman Lahiya<br>Nigerien Democratic Movement for an African Federation or MODEN/FA Lumana<br>Nigerien Party for Democracy and Socialism or PNDS-Tarrayya<br>Nigerien Patriotic Movement or MPN-Kishin Kassa<br>Nigerien Rally for Democracy and Peace<br>Patriotic Movement for the Republic or MPR-Jamhuriya<br>Peace, Justice, Progress–Generation Doubara<br>Rally for Democracy and Progress-Jama'a or RDP-Jama'a<br>Rally for Peace and Progress or RPP Farilla<br>Social Democratic Rally or RSD-Gaskiyya<br>Social Democratic Party or PSD-Bassira</p><br>
-<strong>Note:</strong> after the 26 July 2023 military coup, the National Council for the Safeguard of the Homeland dissolved the National Assembly and prohibited all political party activity <br>
+Alliance for Democracy and the Republic<br>Alliance for Democratic Renewal or ARD-Adaltchi-Mutuntchi <br>Alliance of Movements for the Emergence of Niger or AMEN AMIN<br>Congress for the Republic or CPR-Inganci<br>Democratic Alternation for Equity in Niger<br>Democratic and Republican Renewal-RDR-Tchanji<br>Democratic Movement for the Emergence of Niger Falala<br>Democratic Patriots' Rally or RPD Bazara<br>National Movement for the Development of Society-Nassara or MNSD-Nassara<br>Nigerien Alliance for Democracy and Progress-Zaman Lahiya or ANDP-Zaman Lahiya<br>Nigerien Democratic Movement for an African Federation or MODEN/FA Lumana<br>Nigerien Party for Democracy and Socialism or PNDS-Tarrayya<br>Nigerien Patriotic Movement or MPN-Kishin Kassa<br>Nigerien Rally for Democracy and Peace<br>Patriotic Movement for the Republic or MPR-Jamhuriya<br>Peace, Justice, Progress–Generation Doubara<br>Rally for Democracy and Progress-Jama'a or RDP-Jama'a<br>Rally for Peace and Progress or RPP Farilla<br>Social Democratic Rally or RSD-Gaskiyya<br>Social Democratic Party or PSD-Bassira<br>
+<strong>note:</strong> after the 26 July 2023 military coup, the National Council for the Safeguard of the Homeland dissolved the National Assembly and prohibited all political party activity<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Hassane IDI (since 3 August 2023)<br>
@@ -371,7 +371,8 @@ ACP, AfDB, AU (suspended), CD, EITI (compliant country), Entente, FAO, FZ, G-77,
 3 August 1960 (from France)<br>
 
 **National holiday**<br>
-Republic Day, 18 December (1958); note - commemorates the founding of the Republic of Niger which predated independence from France in 1960<br>
+Republic Day, 18 December (1958)<br>
+<strong>note:</strong> commemorates the founding of the Republic of Niger, which predated independence from France in 1960<br>
 
 **Flag description**<br>
 three equal horizontal bands of orange (top), white, and green, with a small orange disk centered in the white band; the orange stands for the northern Sahara regions, white for purity and innocence, and green for hope and the fertile and productive southern and western areas, as well as the Niger River; the orange disc represents the sun and the people's sacrifices <br>
@@ -383,11 +384,10 @@ zebu<br>
 **National color(s)**<br>
 orange, white, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "L'Honneur de la Patrie" (The Honor of the Fatherland)<br>
 _lyrics/music_: a government-appointed committee wrote both the lyrics and the music<br>
-_history_: adopted 2023<br>
-<strong>note:</strong> adopted 2023; replaced previous national anthem, "La Nigérienne" (The Nigerien), that was adopted in 1961<br>
+_history_: adopted 2023; replaced previous national anthem, "La Nig&eacute;rienne" (The Nigerien), that was adopted in 1961<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (1 cultural, 2 natural)<br>
@@ -646,7 +646,7 @@ the FAN has a wide mix of mostly older, typically Soviet-era, or donated/secondh
 <strong>note:</strong> in 2024, Mali, Burkina Faso, and Niger announced they were forming a joint force of 5,000 troops to combat extremist groups in the Sahel<br>
 
 **Military - note**<br>
-the military of Niger is responsible for ensuring external security, but most of its focus is on internal counterinsurgency, counterterrorism, and border security operations; the Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS) and the al-Qaida affiliate Jama’at Nusrat al-Islam wal-Muslimin (JNIM) terrorist groups are active in western Niger and in adjacent strongholds in Burkina Faso and Mali, while the Nigeria-based Boko Haram and ISIS-West Africa groups threaten southeast Niger; parts of Niger also face spillover from communal, criminal, and vigilante violence in neighboring Nigeria; since the 2023 coup, some former ethnic separatist rebels have taken up arms in support of deposed President BAZOUM<br><br>the military has played a significant role in Niger's domestic politics since its establishment in 1960-61; prior to seizing control of the government in 2023, it attempted coups in 1974, 1996, 1999, 2010, and 2021, and ruled the country for much of the period before 1999 (2025)<br>
+the military of Niger is responsible for territorial defense, but most of its focus is on internal and border security operations; the Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS) and the al-Qaida affiliate Jama’at Nusrat al-Islam wal-Muslimin (JNIM) terrorist groups are active in western Niger and in adjacent strongholds in Burkina Faso and Mali, while the Nigeria-based Boko Haram and ISIS-West Africa groups threaten southeast Niger; parts of Niger also face spillover from communal, criminal, and vigilante violence in neighboring Nigeria; since the 2023 coup, some former ethnic separatist rebels have taken up arms in support of deposed President BAZOUM<br><br>the military has played a significant role in Niger's domestic politics since its establishment in 1960-61; prior to seizing control of the government in 2023, it attempted coups in 1974, 1996, 1999, 2010, and 2021, and ruled the country for much of the period before 1999 (2025)<br>
 
 ## Terrorism
 

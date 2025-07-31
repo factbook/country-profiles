@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Bolivia, named after independence fighter Simón BOLÍVAR, broke away from Spanish rule in 1825. Much of its subsequent history has consisted of a series of coups and countercoups, with the last coup occurring in 1980. Democratic civilian rule was established in 1982, but leaders have faced problems of deep-seated poverty, social unrest, and illegal drug production.</p> <p>In 2005, Bolivians elected Movement Toward Socialism leader Evo MORALES as president -- by the widest margin of any leader since 1982 -- after he ran on a promise to change the country's traditional political class and empower the poor and indigenous majority. In 2009 and 2014, MORALES easily won reelection, and his party maintained control of the legislative branch. In 2016, MORALES narrowly lost a referendum to approve a constitutional amendment that would have allowed him to compete in the 2019 presidential election. A subsequent Supreme Court ruling stating that term limits violate human rights provided the justification for MORALES to run despite the referendum, but rising violence, pressure from the military, and widespread allegations of electoral fraud ultimately forced him to flee the country. An interim government, led by President Jeanine AÑEZ Chávez, held new elections in 2020, and Luis Alberto ARCE Catacora was elected president.</p><br>
+Bolivia, named after independence fighter Simón BOLÍVAR, broke away from Spanish rule in 1825. Much of its subsequent history has consisted of a series of coups and countercoups, with the last coup occurring in 1980. Democratic civilian rule was established in 1982, but leaders have faced problems of deep-seated poverty, social unrest, and illegal drug production. <br><br>In 2005, Bolivians elected Movement Toward Socialism leader Evo MORALES as president -- by the widest margin of any leader since 1982 -- after he ran on a promise to change the country's traditional political class and empower the poor and indigenous majority. In 2009 and 2014, MORALES easily won reelection, and his party maintained control of the legislative branch. In 2016, MORALES narrowly lost a referendum to approve a constitutional amendment that would have allowed him to compete in the 2019 presidential election. A subsequent Supreme Court ruling stating that term limits violate human rights provided the justification for MORALES to run despite the referendum, but rising violence, pressure from the military, and widespread allegations of electoral fraud ultimately forced him to flee the country. An interim government, led by President Jeanine AÑEZ Chávez, held new elections in 2020, and Luis Alberto ARCE Catacora was elected president.<br>
 
 ## Geography
 
@@ -75,7 +75,7 @@ Amazon Basin<br>
 a high-altitude plain in the west between two cordillera of the Andes, known as the Altiplano, is the focal area for most of the population; a dense settlement pattern is also found in and around the city of Santa Cruz, located on the eastern side of the Andes<br>
 
 **Natural hazards**<br>
-<p>flooding in the northeast (March to April)</p><p><strong>volcanism:</strong> volcanic activity in Andes Mountains on the border with Chile; historically active volcanoes in this region are Irruputuncu (5,163 m), which last erupted in 1995, and the Olca-Paruma volcanic complex (5,762 m to 5,167 m)</p><br>
+flooding in the northeast (March to April) <br><br><strong>volcanism:</strong> volcanic activity in Andes Mountains on the border with Chile; historically active volcanoes in this region are Irruputuncu (5,163 m), which last erupted in 1995, and the Olca-Paruma volcanic complex (5,762 m to 5,167 m)<br>
 
 **Geography - note**<br>
 landlocked; shares control of Lago Titicaca, world's highest navigable lake (elevation 3,805 m), with Peru<br>
@@ -399,11 +399,10 @@ llama, Andean condor; two national flowers, the cantuta and the patuju<br>
 **National color(s)**<br>
 red, yellow, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Cancion Patriotica" (Patriotic Song)<br>
 _lyrics/music_: Jose Ignacio de SANJINES/Leopoldo Benedetto VINCENTI<br>
 _history_: adopted 1852<br>
-<strong>note:</strong> adopted 1852<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 7 (6 cultural, 1 natural)<br>

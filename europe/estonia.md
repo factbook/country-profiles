@@ -354,7 +354,8 @@ Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperat
 24 February 1918 (from Soviet Russia); 20 August 1991 (declared from the Soviet Union); 6 September 1991 (recognized by the Soviet Union)<br>
 
 **National holiday**<br>
-Independence Day, 24 February (1918); note - 24 February 1918 was the date Estonia declared its independence from Soviet Russia and established its statehood; 20 August 1991 was the date it declared its independence from the Soviet Union restoring its statehood<br>
+Independence Day, 24 February (1918)<br>
+<strong>note:</strong> 24 February 1918 was the date Estonia declared its independence from Soviet Russia and established its statehood; 20 August 1991 was the date it declared its independence from the Soviet Union and restored its statehood<br>
 
 **Flag description**<br>
 three equal horizontal bands of blue (top), black, and white; blue represents faith, loyalty, and devotion, and also the sky, sea, and lakes; black stands for the soil of the country, as well as the Estonian people's past suffering; white stands for striving towards enlightenment and virtue and also for birch bark, snow, and summer nights illuminated by the midnight sun<br>
@@ -365,11 +366,10 @@ barn swallow, cornflower<br>
 **National color(s)**<br>
 blue, black, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Mu isamaa, mu onn ja room" (My Native Land, My Pride and Joy)<br>
 _lyrics/music_: Johann Voldemar JANNSEN/Fredrik PACIUS<br>
 _history_: adopted 1920, but banned between 1940 and 1990 under Soviet occupation; unofficially in use since 1869, it has the same melody as Finland's anthem, but with different lyrics<br>
-<strong>note:</strong> adopted 1920, but banned between 1940 and 1990 under Soviet occupation; unofficially in use since 1869, it has the same melody as Finland's anthem, but with different lyrics<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>

@@ -365,7 +365,7 @@ _email address and website_: <br>ACSTirana@state.gov<br><br>https://al.usembassy
 
 **International organization participation**<br>
 BSEC, CD, CE, CEI, EAPC, EBRD, EITI (compliant country), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIC, OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
-<strong>note</strong>: Albania is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
+<strong>note</strong>: Albania is an EU candidate country and must complete accession criteria before being granted full membership<br>
 
 **Independence**<br>
 28 November 1912 (from the Ottoman Empire)<br>
@@ -382,11 +382,10 @@ black double-headed eagle<br>
 **National color(s)**<br>
 red, black<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Hymni i Flamurit" (Hymn to the Flag)<br>
 _lyrics/music_: Aleksander Stavre DRENOVA/Ciprian PORUMBESCU<br>
 _history_: adopted 1912<br>
-<strong>note:</strong> adopted 1912<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (2 cultural, 1 natural, 1 mixed)<br>

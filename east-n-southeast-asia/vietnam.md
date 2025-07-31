@@ -297,7 +297,7 @@ _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time
 _etymology_: the name means "inside the river," from the Vietnamese words <em>ha </em>(river) and <em>noi </em>(inside), and refers to its location in a bend of the Red River<br>
 
 **Administrative divisions**<br>
-<p>58 provinces (<em>tinh</em>, singular and plural) and 5 municipalities (<em>thanh pho</em>, singular and plural)</p> <p><strong>provinces:</strong> An Giang, Bac Giang, Bac Kan, Bac Lieu, Bac Ninh, Ba Ria-Vung Tau, Ben Tre, Binh Dinh, Binh Duong, Binh Phuoc, Binh Thuan, Ca Mau, Cao Bang, Dak Lak, Dak Nong, Dien Bien, Dong Nai, Dong Thap, Gia Lai, Ha Giang, Ha Nam, Ha Tinh, Hai Duong, Hau Giang, Hoa Binh, Hung Yen, Khanh Hoa, Kien Giang, Kon Tum, Lai Chau, Lam Dong, Lang Son, Lao Cai, Long An, Nam Dinh, Nghe An, Ninh Binh, Ninh Thuan, Phu Tho, Phu Yen, Quang Binh, Quang Nam, Quang Ngai, Quang Ninh, Quang Tri, Soc Trang, Son La, Tay Ninh, Thai Binh, Thai Nguyen, Thanh Hoa, Thua Thien-Hue, Tien Giang, Tra Vinh, Tuyen Quang, Vinh Long, Vinh Phuc, Yen Bai</p> <p><strong>municipalities:</strong> Can Tho, Da Nang, Ha Noi (Hanoi), Hai Phong, Ho Chi Minh City (Saigon)</p><br>
+58 provinces (<em>tinh</em>, singular and plural) and 5 municipalities (<em>thanh pho</em>, singular and plural) <br><br><strong>provinces:</strong> An Giang, Bac Giang, Bac Kan, Bac Lieu, Bac Ninh, Ba Ria-Vung Tau, Ben Tre, Binh Dinh, Binh Duong, Binh Phuoc, Binh Thuan, Ca Mau, Cao Bang, Dak Lak, Dak Nong, Dien Bien, Dong Nai, Dong Thap, Gia Lai, Ha Giang, Ha Nam, Ha Tinh, Hai Duong, Hau Giang, Hoa Binh, Hung Yen, Khanh Hoa, Kien Giang, Kon Tum, Lai Chau, Lam Dong, Lang Son, Lao Cai, Long An, Nam Dinh, Nghe An, Ninh Binh, Ninh Thuan, Phu Tho, Phu Yen, Quang Binh, Quang Nam, Quang Ngai, Quang Ninh, Quang Tri, Soc Trang, Son La, Tay Ninh, Thai Binh, Thai Nguyen, Thanh Hoa, Thua Thien-Hue, Tien Giang, Tra Vinh, Tuyen Quang, Vinh Long, Vinh Phuc, Yen Bai <br><br><strong>municipalities:</strong> Can Tho, Da Nang, Ha Noi (Hanoi), Hai Phong, Ho Chi Minh City (Saigon)<br>
 
 **Legal system**<br>
 civil law system with European influences<br>
@@ -345,7 +345,7 @@ _subordinate courts_: High Courts (administrative, civil, criminal, economic, la
 
 **Political parties**<br>
 Communist Party of Vietnam or CPV<br>
-<strong>note:</strong>  other parties proscribed<br>
+<strong>note:</strong> other parties banned<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Nguyen Quoc DZUNG (since 19 April 2022)<br>
@@ -383,11 +383,10 @@ five-pointed yellow star on a red field, lotus blossom<br>
 **National color(s)**<br>
 red, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Tien quan ca" (The Song of the Marching Troops)<br>
 _lyrics/music_: Nguyen Van CAO<br>
 _history_: adopted as the national anthem of the Democratic Republic of Vietnam in 1945; it became the national anthem of the unified Socialist Republic of Vietnam in 1976; it has two verses, but only the first is used as the official anthem<br>
-<strong>note:</strong> adopted as the national anthem of the Democratic Republic of Vietnam in 1945; it became the national anthem of the unified Socialist Republic of Vietnam in 1976; it has two verses, but only the first is used as the official anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 8 (5 cultural, 2 natural, 1 mixed)<br>

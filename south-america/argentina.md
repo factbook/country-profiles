@@ -81,7 +81,7 @@ Guaran&iacute; Aquifer System<br>
 one third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated<br>
 
 **Natural hazards**<br>
-<p>San Miguel de Tucumán and Mendoza areas in the Andes subject to earthquakes; pamperos are violent windstorms that can strike the pampas and northeast; heavy flooding in some areas</p> <p><strong>volcanism:</strong> volcanic activity in the Andes Mountains along the Chilean border; Copahue (2,997 m) last erupted in 2000; other historically active volcanoes include Llullaillaco, Maipo, Planchón-Peteroa, San José, Tromen, Tupungatito, and Viedma</p><br>
+San Miguel de Tucumán and Mendoza areas in the Andes subject to earthquakes; <em>pamperos </em>are violent windstorms that can strike the pampas and northeast; heavy flooding in some areas <br><br><strong>volcanism:</strong> volcanic activity in the Andes Mountains along the Chilean border; Copahue (2,997 m) last erupted in 2000; other historically active volcanoes include Llullaillaco, Maipo, Planchón-Peteroa, San José, Tromen, Tupungatito, and Viedma<br>
 
 **Geography - note**<br>
 second-largest country in South America (after Brazil); strategic location relative to sea lanes between the South Atlantic and the South Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage); diverse geophysical landscapes range from tropical climates in the north to tundra in the far south; Cerro Aconcagua is the Western Hemisphere's tallest mountain, while Laguna del Carb&oacute;n is the lowest point in the Western Hemisphere; shares Iguaz&uacute; Falls, the world's largest waterfalls system, with Brazil<br>
@@ -312,7 +312,7 @@ _dual citizenship recognized_: yes<br>
 _residency requirement for naturalization_: 2 years<br>
 
 **Suffrage**<br>
-18-70 years of age; universal and compulsory; 16-17 years of age - optional for national elections<br>
+18-70 years of age; universal and compulsory; 16-17 years of age: optional for national elections<br>
 
 **Executive branch**<br>
 _chief of state_: President Javier Gerardo MILEI (since 10 December 2023)<br>
@@ -355,7 +355,7 @@ _judge selection and term of office_: judges nominated by the president and appr
 _subordinate courts_: federal-level appellate, district, and territorial courts; provincial-level supreme, appellate, and first-instance courts<br>
 
 **Political parties**<br>
-<p>Avanza Libertad or AL<br>Civic Coalition ARI or CC-ARI<br>Consenso Federal (Federal Consensus) or CF<br>Frente Cívico por Santiago (Civic Front for Santiago)<br>Frente de Izquierda y de los Trabajadores – Unidad (Workers' Left Front) or FIT-U (coalition of leftist parties in lower house; includes PTS, PO, and MST) <br>Frente de la Concordia Misionero (Front for the Renewal of Social Concord) or FRCS<br>Frente Renovador (Renewal Front) or FR<br>Generación por un Encuentro Nacional (Generation for a National Encounter) or GEN<br>Hacemos por Córdoba (We do for Cordoba) or HC<br>Hacemos por Nuestro Pais (We Do For Our Country) or NHP<br>Juntos por el Cambio (Together for Change) or JxC (includes CC-ARI, PRO, and UCR); note - primary opposition coalition since 2019<br>Juntos Somos Río Negro (Together We Are Rio Negro) or JSRN  <br>Partido Justicialista (Justicialist Party) or PJ<br>La Cámpora<br>La Libertad Avanza (The Liberty Advances) or LLA<br>Movimiento Popular Neuquino (Neuquén People's Movement) or MPN<br>Movimiento Socialista de los Trabajadores (Workers' Socialist Movement) or MST <br>Partido de los Trabajadores Socialistas (Socialist Workers' Party) or PTS<br>Partido Demócrata (Democratic Party) or PDN<br>Partido Libertario (Libertarian Party) or PL; note - party is also a founding member of the coalition La Libertad Avanza<br>Partido Obrero (Workers' Party) or PO<br>Partido Socialista or PS<br>Propuesta Republicana (Republican Proposal) or PRO<br>Unidad Federal (coalition of provencial parties in the lower house; includes FRCS and JSRN)<br>Unión Cívica Radical (Radical Civic Union) or UCR<br>Unión por la Patria (Union for the Homeland) or UP <em>(formerly Frente de Todos (Everyone's Front) or FdT) </em>(includes FR, La Cámpora, and PJ); note - ruling coalition since 2019; includes several national and provincial Peronist political parties<br>Vamos con Vos (Let's Go with You) or VcV </p><br>
+Avanza Libertad or AL<br>Civic Coalition ARI or CC-ARI<br>Consenso Federal (Federal Consensus) or CF<br>Frente Cívico por Santiago (Civic Front for Santiago)<br>Frente de Izquierda y de los Trabajadores – Unidad (Workers' Left Front) or FIT-U (coalition of leftist parties in lower house; includes PTS, PO, and MST) <br>Frente de la Concordia Misionero (Front for the Renewal of Social Concord) or FRCS<br>Frente Renovador (Renewal Front) or FR<br>Generación por un Encuentro Nacional (Generation for a National Encounter) or GEN<br>Hacemos por Córdoba (We do for Cordoba) or HC<br>Hacemos por Nuestro Pais (We Do For Our Country) or NHP<br>Juntos por el Cambio (Together for Change) or JxC (includes CC-ARI, PRO, and UCR); note - primary opposition coalition since 2019<br>Juntos Somos Río Negro (Together We Are Rio Negro) or JSRN  <br>Partido Justicialista (Justicialist Party) or PJ<br>La Cámpora<br>La Libertad Avanza (The Liberty Advances) or LLA<br>Movimiento Popular Neuquino (Neuquén People's Movement) or MPN<br>Movimiento Socialista de los Trabajadores (Workers' Socialist Movement) or MST <br>Partido de los Trabajadores Socialistas (Socialist Workers' Party) or PTS<br>Partido Demócrata (Democratic Party) or PDN<br>Partido Libertario (Libertarian Party) or PL; note - party is also a founding member of the coalition La Libertad Avanza<br>Partido Obrero (Workers' Party) or PO<br>Partido Socialista or PS<br>Propuesta Republicana (Republican Proposal) or PRO<br>Unidad Federal (coalition of provencial parties in the lower house; includes FRCS and JSRN)<br>Unión Cívica Radical (Radical Civic Union) or UCR<br>Unión por la Patria (Union for the Homeland) or UP <em>(formerly Frente de Todos (Everyone's Front) or FdT) </em>(includes FR, La Cámpora, and PJ); note - ruling coalition since 2019; includes several national and provincial Peronist political parties<br>Vamos con Vos (Let's Go with You) or VcV<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador-designate Alejandro (Alec) OXENFORD (since November 2024)<br>
@@ -391,11 +391,10 @@ Sun of May (a sun-with-face symbol)<br>
 **National color(s)**<br>
 sky blue, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Himno Nacional Argentino" (Argentine National Anthem)<br>
 _lyrics/music_: Vicente LOPEZ y PLANES/Jose Blas PARERA<br>
 _history_: adopted 1813; Vicente LOPEZ was inspired to write the anthem after watching a play about the 1810 May Revolution against Spain<br>
-<strong>note:</strong> adopted 1813; Vicente LOPEZ was inspired to write the anthem after watching a play about the 1810 May Revolution against Spain<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 12 (7 cultural, 5 natural)<br>

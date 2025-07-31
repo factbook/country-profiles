@@ -377,11 +377,10 @@ white, green, red<br>
 **National coat of arms**<br>
 Bulgaria&rsquo;s coat of arms in the national colors of white, green, and red was adopted in 1997; the three lions are a national symbol for strength, courage, and leadership that was used during the country&rsquo;s liberation movement in the 1870s and the kingdom period in the early 20th century; above the shield is the crown of Bulgaria (originally the crown of the medieval Bulgarian tsars) with a gold cross on top; a white scroll over the oak branches bears the Bulgarian national motto, &ldquo;United we stand strong&rdquo;<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Mila Rodino" (Dear Homeland)<br>
 _lyrics/music_: Tsvetan Tsvetkov RADOSLAVOV<br>
 _history_: adopted 1964; composed in 1885 by a student en route to fight in the Serbo-Bulgarian War<br>
-<strong>note:</strong> adopted 1964; composed in 1885 by a student en route to fight in the Serbo-Bulgarian War<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 10 (7 cultural, 3 natural)<br>

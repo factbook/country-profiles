@@ -67,7 +67,7 @@ _other_: 28.7% (2022 est.)<br>
 population concentrated in the plains and lowlands; least-populated regions are the mountainous provinces adjacent to the Chinese border; largest concentrations are in the western provinces, particularly the municipal district of Pyongyang, and around Hungnam and Wonsan in the east<br>
 
 **Natural hazards**<br>
-<p>late spring droughts often followed by severe flooding; occasional typhoons during the early fall</p> <p><strong>volcanism:</strong> P'aektu-san (2,744 m) (also known as Baitoushan, Baegdu, or Changbaishan), on the Chinese border, is considered historically active</p><br>
+late spring droughts often followed by severe flooding; occasional typhoons during the early fall <br><br><strong>volcanism:</strong> P'aektu-san (2,744 m) (also known as Baitoushan, Baegdu, or Changbaishan), on the Chinese border, is considered historically active<br>
 
 **Geography - note**<br>
 strategic location bordering China, South Korea, and Russia; mountainous interior is isolated and sparsely populated<br>
@@ -272,7 +272,7 @@ _time zone note_: on 5 May 2018, North Korea reverted to UTC+9, the same time zo
 _etymology_: the name translates as "flat land" in Korean<br>
 
 **Administrative divisions**<br>
-<p>9 provinces (<em>do</em>, singular and plural) and 4 special administration cities (<em>si</em>, singular and plural)</p> <p><strong>provinces:</strong> Chagang, Hambuk (North Hamgyong), Hamnam (South Hamgyong), Hwangbuk (North Hwanghae), Hwangnam (South Hwanghae), Kangwon, P'yongbuk (North Pyongan), P'yongnam (South Pyongan), Ryanggang</p> <p><strong>special administration cities:</strong> Kaesong, Nampo, P'yongyang, Rason</p><br>
+9 provinces (<em>do</em>, singular and plural) and 4 special administration cities (<em>si</em>, singular and plural) <br><br><strong>provinces:</strong> Chagang, Hambuk (North Hamgyong), Hamnam (South Hamgyong), Hwangbuk (North Hwanghae), Hwangnam (South Hwanghae), Kangwon, P'yongbuk (North Pyongan), P'yongnam (South Pyongan), Ryanggang <br><br><strong>special administration cities:</strong> Kaesong, Nampo, P'yongyang, Rason<br>
 <strong>note:</strong> P'yongyang is considered a directly controlled city; Kaesong, Nampo, and Rason are designated as special cities<br>
 
 **Legal system**<br>
@@ -348,11 +348,10 @@ red star, chollima (winged horse)<br>
 **National color(s)**<br>
 red, white, blue<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Aegukka" (Patriotic Song)<br>
 _lyrics/music_: PAK Se Yong/KIM Won Gyun<br>
 _history_: adopted 1947; North Korea's and South Korea's anthems have the same name and a similar melody, but different lyrics; the North Korean anthem is also known as "Ach'imun pinnara" (Let Morning Shine)<br>
-<strong>note:</strong> adopted 1947; North Korea's and South Korea's anthems have the same name and a similar melody, but different lyrics; the North Korean anthem is also known as "Ach'imun pinnara" (Let Morning Shine)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>
@@ -551,7 +550,7 @@ the Korean People's Army (KPA) is one of the World’s largest military forces; 
 ## Space
 
 **Space agency/agencies**<br>
-National Aerospace Development Administration (NADA; established 2013); predecessor organization, Korean Committee of Space Technology (KCST; established 1980s); State Space Development Bureau; Academy of Defense Science; Ministry of People&rsquo;s Armed Forces (2024)<br>
+National Aerospace Technology Administration (NATA; established 2013); predecessor organization, Korean Committee of Space Technology (KCST; established 1980s); State Space Development Bureau; Academy of Defense Science; Ministry of People&rsquo;s Armed Forces (2024)<br>
 
 **Space launch site(s)**<br>
 Sohae Satellite Launching Station (aka Tongch'ang-dong Space Launch Center; North Pyongan province); Tonghae Satellite Launching Ground (North Hamgyong province) (2024)<br>

@@ -355,7 +355,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: High Court; district courts<br>
 
 **Political parties**<br>
-<p>Communist Party of Nepal (Maoist Centre) or CPN-MC<br>Communist Party of Nepal (Unified Marxist-Leninist) or CPN-UML<br>Communist Party of Nepal (Unified Socialist) or CPN-US<br>Janamat Party<br>Janata Samajbaadi Party or JSP<br>Loktantrik Samajwadi Party or LSP<br>Naya Shakti Party, Nepal<br>Nepali Congress or NC<br>Nepal Mazdoor Kisan Party (Nepal Workers' and Peasants' Party) or NWPP<br>Rastriya Janamorcha (National People's Front)<br>Rastriya Prajatantra Party (National Democratic Party) or RPP<br>Rastriya Swatantra Party or RSP</p><br>
+Communist Party of Nepal (Maoist Centre) or CPN-MC<br>Communist Party of Nepal (Unified Marxist-Leninist) or CPN-UML<br>Communist Party of Nepal (Unified Socialist) or CPN-US<br>Janamat Party<br>Janata Samajbaadi Party or JSP<br>Loktantrik Samajwadi Party or LSP<br>Naya Shakti Party, Nepal<br>Nepali Congress or NC<br>Nepal Mazdoor Kisan Party (Nepal Workers' and Peasants' Party) or NWPP<br>Rastriya Janamorcha (National People's Front)<br>Rastriya Prajatantra Party (National Democratic Party) or RPP<br>Rastriya Swatantra Party or RSP<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Sharad Raj ARAN (since 13 November 2024)<br>
@@ -380,7 +380,8 @@ ADB, BIMSTEC, CD, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, 
 1768 (unified by Prithvi Narayan SHAH)<br>
 
 **National holiday**<br>
-Constitution Day, 20 September (2015); note - marks the promulgation of Nepal’s constitution in 2015 and replaces the previous 28 May Republic Day as the official national day in Nepal; the Gregorian day fluctuates based on Nepal’s Hindu calendar<br>
+Constitution Day, 20 September (2015)<br>
+<strong>note:</strong> replaces the previous Republic Day on 28 May as the official national day in Nepal; the Gregorian date fluctuates based on Nepal’s Hindu calendar<br>
 
 **Flag description**<br>
 crimson red with a blue border around the unique shape of two overlapping right triangles; the smaller upper triangle has a white stylized moon, and the larger, lower triangle displays a white 12-pointed sun; the color red represents the rhododendron (the national flower) and victory and bravery, and the blue border signifies peace and harmony; the two triangles are a combination of two pennants that originally symbolized the Himalaya Mountains, but today they refer to Hinduism and Buddhism, the country's two main religions; the moon stands for the serenity of the people and the Himalayan shade and cool weather, and the sun for the heat and higher temperatures of the rest of the country<br>
@@ -392,11 +393,10 @@ rhododendron blossom<br>
 **National color(s)**<br>
 red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Sayaun Thunga Phool Ka" (Hundreds of Flowers)<br>
 _lyrics/music_: Pradeep Kumar RAI/Ambar GURUNG<br>
 _history_: adopted 2007, replacing a previous anthem that praised the king; the monarchy was abolished in 2006<br>
-<strong>note:</strong> adopted 2007, replacing a previous anthem that praised the king; the monarchy was abolished in 2006<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (2 cultural, 2 natural)<br>

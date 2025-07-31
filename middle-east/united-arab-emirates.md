@@ -300,7 +300,8 @@ _dual citizenship recognized_: no<br>
 _residency requirement for naturalization_: 30 years<br>
 
 **Suffrage**<br>
-limited; note - rulers of the seven emirates each select a proportion of voters for the Federal National Council (FNC) that together account for about 12 percent of Emirati citizens<br>
+limited<br>
+<strong>note:</strong> rulers of the seven emirates each select a proportion of voters for the Federal National Council (FNC) that accounts for about 12 percent of Emirati citizens<br>
 
 **Executive branch**<br>
 _chief of state_: President MUHAMMAD BIN ZAYID Al Nuhayyan (since 14 May 2022)<br>
@@ -330,7 +331,7 @@ _subordinate courts_: Federal Court of Cassation (determines the constitutionali
 <strong>note:</strong> the Abu Dhabi Global Market Courts and the Dubai International Financial Center Courts, the country’s two largest financial free zones, adjudicate civil and commercial disputes<br>
 
 **Political parties**<br>
-none; political parties are banned; all candidates run as independents<br>
+<strong>note: </strong>political parties are banned; all candidates run as independents<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Yousif AL OTAIBA (since 28 July 2008)<br>
@@ -367,11 +368,10 @@ golden falcon<br>
 **National color(s)**<br>
 green, white, black, red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Nashid al-watani al-imarati" (National Anthem of the UAE)<br>
 _lyrics/music_: AREF Al Sheikh Abdullah Al Hassan/Mohamad Abdel WAHAB<br>
 _history_: music adopted 1971, lyrics adopted 1996; Mohamad Abdel WAHAB also composed the music for Tunisia's anthem<br>
-<strong>note:</strong> music adopted 1971, lyrics adopted 1996; Mohamad Abdel WAHAB also composed the music for Tunisia's anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

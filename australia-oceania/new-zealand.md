@@ -71,7 +71,7 @@ _fresh water lake(s)_: Lake Taupo - 610 sq km<br>
 over three quarters of New Zealanders, including the Maori, live on the North Island, primarily in urban areas<br>
 
 **Natural hazards**<br>
-<p>earthquakes are common, though usually not severe; volcanic activity</p><p><strong>volcanism:</strong> significant volcanism on North Island; Ruapehu (2,797 m), which last erupted in 2007, has a history of large eruptions in the past century; Taranaki has the potential to produce dangerous avalanches and lahars; other historically active volcanoes include Okataina, Raoul Island, Tongariro, and White Island; see note 2 under "Geography - note"</p><br>
+earthquakes are common, though usually not severe; volcanic activity <br><br><strong>volcanism:</strong> significant volcanism on North Island; Ruapehu (2,797 m) has a history of large eruptions in the past century; Taranaki has the potential to produce dangerous avalanches and lahars; other historically active volcanoes include Okataina, Raoul Island, Tongariro, and White Island; see note 2 under "Geography - note"<br>
 
 **Geography - note**<br>
 <p><strong>note 1:</strong> consists of two main islands and a number of smaller islands; South Island, the larger main island, is the 12th largest island in the world and is divided along its length by the Southern Alps; North Island is the 14th largest island in the world and is not as mountainous, but it is marked by volcanism</p> <p><strong>note 2:</strong> New Zealand lies along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> almost 90% of the population lives in cities and over three-quarters on North Island; Wellington is the southernmost national capital in the world</p><br>
@@ -358,7 +358,8 @@ ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP
 26 September 1907 (from the UK)<br>
 
 **National holiday**<br>
-Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealand), 6 February (1840); Anzac Day (commemorated as the anniversary of the landing of troops of the Australian and New Zealand Army Corps during World War I at Gallipoli, Turkey), 25 April (1915)<br>
+Waitangi Day, 6 February (1840); Anzac Day, 25 April (1915)<br>
+<strong>note:</strong> the Treaty of Waitangi established British sovereignty over New Zealand, and the second holiday commemorates the landing of the Australian and New Zealand Army Corps in Gallipoli, Turkey, during World War I<br>
 
 **Flag description**<br>
 blue with the UK flag in the upper hoist-side quadrant, with four red five-pointed stars edged in white centered in the outer half of the flag; the stars represent the Southern Cross constellation<br>
@@ -372,7 +373,7 @@ black, white, red (ochre)<br>
 **National coat of arms**<br>
 the first quarter of the shield shows four stars that represent the Southern Cross constellation and three ships that symbolize New Zealand's sea trade; in the second quarter, a fleece represents the sheep farming industry; the wheat sheaf in the third quarter represents the agricultural industry; the crossed hammers in the fourth quarter represent mining; the Māori chieftain holds a <em>taiaha </em>(a Māori war weapon) and a European woman holds the New Zealand flag; St. Edward's crown, shown above the shield, symbolizes the British monarch<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 _history_: royal anthem and one of two official national anthems; usually played only when a member of the royal family or the governor-general is present<br>

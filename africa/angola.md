@@ -374,11 +374,10 @@ giant black sable antelope (<em>Palanca negra gigante</em>)<br>
 **National color(s)**<br>
 red, black, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Angola Avante" (Forward Angola)<br>
 _lyrics/music_: Manuel Rui Alves MONTEIRO/Rui Alberto Vieira Dias MINGAO<br>
 _history_: adopted 1975<br>
-<strong>note:</strong> adopted 1975<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

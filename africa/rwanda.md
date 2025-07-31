@@ -74,7 +74,7 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> N
 one of Africa's most densely populated countries; large concentrations tend to be in the central regions and along the shore of Lake Kivu in the west, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
-<p>periodic droughts; the volcanic Virunga Mountains are in the northwest along the border with Democratic Republic of the Congo</p><p><strong>volcanism:</strong> Visoke (3,711 m), located on the border with the Democratic Republic of the Congo, is the country's only historically active volcano</p><br>
+periodic droughts; the volcanic Virunga Mountains are in the northwest along the border with Democratic Republic of the Congo <br><br><strong>volcanism:</strong> Visoke (3,711 m), on the border with the Democratic Republic of the Congo, is the country's only historically active volcano<br>
 
 **Geography - note**<br>
 landlocked; most of the country is intensively cultivated and rugged, with the population predominantly rural<br>
@@ -320,7 +320,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Paul KAGAME (since 22 April 2000)<br>
-_head of government_: Prime Minister Edouard NGIRENTE (since 30 August 2017)<br>
+_head of government_: Prime Minister Justin NSENGIYUMVA (since 23 July 2025)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _election/appointment process_: president directly elected by simple-majority popular vote for a 5-year term (eligible for a second term); prime minister appointed by the president<br>
 _most recent election date_: 4 August 2017<br>
@@ -356,8 +356,7 @@ _expected date of next election_: September 2029<br>
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief and deputy chief justices and 5 judges; normally organized into 3-judge panels); High Court (consists of the court president, vice president, and a minimum of 24 judges and organized into 5 chambers)<br>
 _judge selection and term of office_: Supreme Court judges nominated by the president after consultation with the Cabinet and the Superior Council of the Judiciary (SCJ), a 27-member body of judges, other judicial officials, and legal professionals, and approved by the Senate; chief and deputy chief justices appointed for 8-year nonrenewable terms; tenure of judges NA; High Court president and vice president appointed by the president of the republic upon approval by the Senate; judges appointed by the Supreme Court chief justice upon approval of the SCJ; judge tenure NA<br>
-_subordinate courts_: High Court of the Republic; commercial courts including the High Commercial Court; intermediate courts; primary courts; and military specialized courts<strong><br></strong><br>
-<strong> </strong><br>
+_subordinate courts_: High Court of the Republic; commercial courts including the High Commercial Court; intermediate courts; primary courts; and military specialized courts<br>
 
 **Political parties**<br>
 Democratic Green Party of Rwanda or DGPR <br>Liberal Party or PL <br>Party for Progress and Concord or PPC <br>Rwandan Patriotic Front or RPF <br>Rwandan Patriotic Front Coalition (includes RPF, PPC, PSP, UDPR, PDI, PSR, PDC) <br>Social Democratic Party or PSD <br>Social Party Imberakuri or PS-Imberakuri <br>
@@ -395,11 +394,10 @@ traditional woven basket with peaked lid<br>
 **National color(s)**<br>
 blue, yellow, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Rwanda nziza" (Rwanda, Our Beautiful Country)<br>
 _lyrics/music_: Faustin MURIGO/Jean-Bosco HASHAKAIMANA<br>
 _history_: adopted 2001<br>
-<strong>note:</strong> adopted 2001<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
@@ -658,10 +656,10 @@ the RDF's inventory includes a mix of older and some modern equipment from suppl
 <strong>note:</strong> as of 2022, women comprised approximately 6% of the Rwanda Defense Force<br>
 
 **Military deployments**<br>
-approximately 3,200 Central African Republic (about 2,200 under MINUSCA, plus some 700 police; approximately 1,000 under a bi-lateral agreement); estimated 3,000 Democratic Republic of the Congo; estimated 3,000 Mozambique (bilateral agreement to assist with combating an insurgency; includes both military and police forces); 2,600 (plus about 450 police) South Sudan (UNMISS) (2025)<br>
+approximately 3,200 Central African Republic (about 2,200 under MINUSCA, plus some 700 police; approximately 1,000 under a bi-lateral agreement); estimated 3-4,000 Democratic Republic of the Congo; estimated 3,000 Mozambique (bilateral agreement to assist with combating an insurgency; includes both military and police forces); 2,600 (plus about 450 police) South Sudan (UNMISS) (2025)<br>
 
 **Military - note**<br>
-the RDF is widely regarded as one of East Africa’s best trained and most experienced militaries; its principle responsibilities are ensuring territorial integrity and national sovereignty and preventing infiltrations of illegal armed groups from neighboring countries, particularly the Democratic Republic of the Congo (DRC); since 2021, Rwanda has deployed troops to the border region with the DRC to combat the rebel Democratic Forces for the Liberation of Rwanda (FDLR), which it has accused the DRC of backing; the RDF has been accused by the DRC, the UN, and the US of making military incursions into the DRC and providing material support to the March 23 Movement (M23, aka Congolese Revolutionary Army) rebel group, which has been fighting with DRC troops and UN peacekeeping forces; the RDF also participates in UN and regional military operations, as well as multinational exercises<br><br>the Rwandan Armed Forces (FAR) were established following independence in 1962; after the 1990-1994 civil war and genocide, the victorious Tutsi-dominated Rwandan Patriotic Front's military wing, the Rwandan Patriotic Army (RPA), became the country's military force; the RPA participated in the First (1996-1997) and Second (1998-2003) Congolese Wars; the RPA was renamed the Rwanda Defense Force (RDF) in 2003, by which time it had assumed a more national character with the inclusion of many former Hutu officers as well as newly recruited soldiers (2024)<br>
+the principle responsibilities of the Rwanda Defense Force (RDF) are ensuring territorial integrity and national sovereignty and preventing infiltrations of illegal armed groups from neighboring countries, particularly the Democratic Republic of the Congo (DRC); since 2021, Rwanda has deployed RDF troops to the border region with the DRC to combat the rebel Democratic Forces for the Liberation of Rwanda (FDLR), which it has accused the DRC of backing; Rwanda has been accused by the DRC, the UN, and the US of deploying RDF troops in the DRC and providing material support to the March 23 Movement (M23, aka Congolese Revolutionary Army) rebel group; the RDF also participates in UN and regional military operations, as well as multinational exercises; it has deployed several thousand RDF troops and police personnel to Mozambique to assist in combating an insurgency since 2021; Rwanda has mutual defense treaties with Kenya and Uganda <br><br>the Rwandan Armed Forces (FAR) were established following independence in 1962; after the 1990-1994 civil war and genocide, the victorious Tutsi-dominated Rwandan Patriotic Front's military wing, the Rwandan Patriotic Army (RPA), became the country's military force; the RPA participated in the First (1996-1997) and Second (1998-2003) Congolese Wars; the RPA was renamed the Rwanda Defense Force (RDF) in 2003, by which time it had assumed a more national character with the inclusion of many former Hutu officers as well as newly recruited soldiers (2025)<br>
 
 ## Space
 

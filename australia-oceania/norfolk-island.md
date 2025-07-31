@@ -201,11 +201,10 @@ Norfolk Island pine<br>
 **National coat of arms**<br>
 Norfolk Island is part of the Commonwealth of Australia, and in 1980, Queen Elizabeth II granted it a separate coat of arms (pictured); in the center is the island&rsquo;s symbol, the Norfolk Island Pine, with Britain&rsquo;s lion and Australia&rsquo;s kangaroo supporting the shield; the island&rsquo;s motto, &ldquo;Inasmuch,&rdquo; comes from a verse in the Bible&rsquo;s Gospel of Matthew<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 _history_: official anthem, as an Australian overseas territory<br>
-<strong>note:</strong> the local anthem, whose lyrics come from the Bible's Book of Matthew (25:34-36, 40), is also known as "The Pitcairn Anthem;" the island does not recognize "Advance Australia Fair," Australia's national anthem that is used in other Australian territories; "God Save the King" is the official anthem (see United Kingdom)<br>
 
 ## Economy
 

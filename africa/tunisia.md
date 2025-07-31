@@ -297,8 +297,8 @@ _etymology_: the origin of the ancient name is unclear; it is sometimes associat
 mixed system of civil law, based on the French civil code and Islamic (sharia) law; Supreme Court reviews some legislative acts in joint session<br>
 
 **Constitution**<br>
-_history_: <p>several previous; latest - draft published by the president 30 June 2022, approved by referendum 25 July 2022, and adopted 27 July 2022</p><br>
-_amendment process_: proposed by the president of the republic or by one third of the Assembly of the Representatives of the People membership; following review by the Constitutional Court, approval to proceed requires an absolute majority vote by the Assembly and final passage requires a two-thirds Assembly majority vote; the president can opt to submit an amendment to a referendum, which requires an absolute majority of votes cast for passage<br>
+_history_: several previous; latest draft published by the president 30 June 2022, approved by referendum 25 July 2022, and adopted 27 July 2022<br>
+_amendment process_: proposed by the president of the republic or one third of the Assembly of the Representatives of the People membership; following Constitutional Court review, approval to proceed requires an absolute majority vote in the Assembly, and final passage requires a two-thirds Assembly majority vote; the president can opt to submit an amendment to a referendum, which requires an absolute majority of votes cast for passage<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -318,7 +318,7 @@ _head of government_: Prime Minister Sarra ZAAFRANI Zenzri (since 21 March 2025)
 _cabinet_: prime minister appointed by the president; cabinet members appointed by the president in consultation with the prime minister<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br>
 _most recent election date_: 6 October 2024<br>
-_election results_: <p><em>2024: </em>Kais SAIED reelected president in first round - Kais SAIED (independent) 90.7%, Ayachi ZAMMEL (Long Live Tunisia) 7.3%, Zouhair MAGHZAOUI (People's Movement) 2%<em><br><br>2019:</em> Kais SAIED elected president in second round; percent of vote in first round - Kais SAIED (independent) 18.4%, Nabil KAROUI (Heart of Tunisia) 15.6%, Abdelfattah MOUROU (Nahda Movement) 12.9%, Abdelkrim ZBIDI (independent) 10.7%, Youssef CHAHED (Long Live Tunisia) 7.4%, Safi SAID (independent) 7.1%, Lotfi MRAIHI (Republican People's Union) 6.6%, other 21.3%; percent of vote in second round - Kais SAIED 72.7%, Nabil KAROUI 27.3%</p><br>
+_election results_: <br>2024: Kais SAIED reelected president in first round - Kais SAIED (independent) 90.7%, Ayachi ZAMMEL (Long Live Tunisia) 7.3%, Zouhair MAGHZAOUI (People's Movement) 2%<em><br><br>2019:</em> Kais SAIED elected president in second round; percent of vote in first round - Kais SAIED (independent) 18.4%, Nabil KAROUI (Heart of Tunisia) 15.6%, Abdelfattah MOUROU (Nahda Movement) 12.9%, Abdelkrim ZBIDI (independent) 10.7%, Youssef CHAHED (Long Live Tunisia) 7.4%, Safi SAID (independent) 7.1%, Lotfi MRAIHI (Republican People's Union) 6.6%, other 21.3%; percent of vote in second round - Kais SAIED 72.7%, Nabil KAROUI 27.3%<br>
 _expected date of next election_: 2029<br>
 <strong>note: </strong>the president can dismiss any member of government on his own initiative or in consultation with the prime minister<br>
 
@@ -388,11 +388,10 @@ red crescent moon and five-pointed star in a white circle<br>
 **National color(s)**<br>
 red, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Humat Al Hima" (Defenders of the Homeland)<br>
 _lyrics/music_: Mustafa Sadik AL-RAFII and Aboul-Qacem ECHEBBI/Mohamad Abdel WAHAB<br>
 _history_: adopted 1957, replaced 1958, restored 1987; Mohamad Abdel WAHAB also composed the music for the anthem of the United Arab Emirates<br>
-<strong>note:</strong> adopted 1957, replaced 1958, restored 1987; Mohamad Abdel WAHAB also composed the music for the anthem of the United Arab Emirates<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 9 (8 cultural, 1 natural)<br>

@@ -69,7 +69,7 @@ _other_: 54.5% (2022 est.)<br>
 the vast majority of the population is found in the Asir Mountains (part of the larger Sarawat Mountain system), located in the far western region of the country<br>
 
 **Natural hazards**<br>
-<p>sandstorms and dust storms in summer</p><p><strong>volcanism:</strong> limited volcanic activity; Jebel at Tair (Jabal al-Tair, Jebel Teir, Jabal al-Tayr, Jazirat at-Tair) (244 m), which forms an island in the Red Sea, erupted in 2007 after awakening from dormancy; other historically active volcanoes include Harra of Arhab, Harras of Dhamar, Harra es-Sawad, and Jebel Zubair, although many of these have not erupted in over a century</p><br>
+sandstorms and dust storms in summer <br><br><strong>volcanism:</strong> limited volcanic activity; Jebel at Tair (Jabal al-Tair, Jebel Teir, Jabal al-Tayr, Jazirat at-Tair) (244 m), which forms an island in the Red Sea, became active in 2007; other historically active volcanoes include Harra of Arhab, Harras of Dhamar, Harra es-Sawad, and Jebel Zubair, although many of these have not erupted in over a century<br>
 
 **Geography - note**<br>
 strategic location on Bab el Mandeb, the strait linking the Red Sea and the Gulf of Aden and one of world's most active shipping lanes<br>
@@ -371,11 +371,10 @@ golden eagle<br>
 **National color(s)**<br>
 red, white, black<br>
 
-**National anthem**<br>
-_title_: "al-qumhuriyatu l-muttahida" (United Republic)<br>
+**National anthem(s)**<br>
+_title_: "Al-qumhuriyatu l-muttahida" (United Republic)<br>
 _lyrics/music_: Abdullah Abdulwahab NOA'MAN/Ayyoab Tarish ABSI<br>
 _history_: adopted 1990; the music first served as the anthem for South Yemen before unification with North Yemen in 1990<br>
-<strong>note:</strong> adopted 1990; the music first served as the anthem for South Yemen before unification with North Yemen in 1990<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (4 cultural, 1 natural)<br>

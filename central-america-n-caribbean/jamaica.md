@@ -336,7 +336,7 @@ _subordinate courts_: resident magistrate courts, district courts, and petty ses
 <strong>note:</strong> appeals beyond Jamaica's highest courts are referred to the Judicial Committee of the Privy Council (in London) rather than to the Caribbean Court of Justice (the appellate court for member states of the Caribbean Community)<br>
 
 **Political parties**<br>
-<p>Jamaica Labor Party or JLP<br>Jamaica Progressive Party or JPP<br>People's National Party or PNP<br>United Independents' Congress or UIC</p><br>
+Jamaica Labor Party or JLP<br>Jamaica Progressive Party or JPP<br>People's National Party or PNP<br>United Independents' Congress or UIC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador-designate Major General (Ret'd) Antony ANDERSON (since 28 May 2025)<br>
@@ -372,11 +372,10 @@ green-and-black streamertail (bird), guaiacwood (<em>Guiacum officinale</em>)<br
 **National color(s)**<br>
 green, yellow, black<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Jamaica, Land We Love"<br>
 _lyrics/music_: Hugh Braham SHERLOCK/Robert Charles LIGHTBOURNE<br>
 _history_: adopted 1962<br>
-<strong>note:</strong> adopted 1962<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (mixed)<br>

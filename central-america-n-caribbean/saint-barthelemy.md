@@ -228,7 +228,8 @@ ACS (associate), UPU<br>
 none (overseas collectivity of France)<br>
 
 **National holiday**<br>
-F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - local holiday is St. Barthelemy Day, 24 August (1572)<br>
+Fête de la Fédération, 14 July (1790)<br>
+<strong>note 1:</strong> local holiday is St. Barthelemy Day, 24 August (1572)<br><br><strong>note 2:</strong> often incorrectly referred to as Bastille Day, France's national celebration commemorates the storming of the Bastille prison on 14 July 1789 and the establishment of a constitutional monarchy; other names for the holiday are <em>la Fête nationale</em> (National Holiday) and <em>le Quatorze Juillet</em> (14th of July)<br>
 
 **Flag description**<br>
 the flag of France is used<br>
@@ -236,11 +237,10 @@ the flag of France is used<br>
 **National symbol(s)**<br>
 pelican<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "La Marseillaise"<br>
 _lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
 _history_: official anthem, as a French collectivity<br>
-<strong>note:</strong> local anthem in use since 1999; "La Marseillaise" is the official anthem of Saint Barthelemy, as a collectivity of France (see France)<br>
 
 ## Economy
 

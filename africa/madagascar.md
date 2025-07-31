@@ -67,7 +67,7 @@ _other_: 8.4% (2022 est.)<br>
 most of population lives on the eastern half of the island; significant clustering is found in the central highlands and eastern coastline, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
-<p>periodic cyclones; drought; and locust infestation</p><p><strong>volcanism:</strong> Madagascar's volcanoes have not erupted in historical times</p><br>
+periodic cyclones; drought; and locust infestation <br><br><strong>volcanism:</strong> Madagascar's volcanoes have not erupted in recorded history<br>
 
 **Geography - note**<br>
 world's fourth-largest island; strategic location along Mozambique Channel; despite Madagascar&rsquo;s close proximity to the African continent, ocean currents isolate the island, resulting in high rates of endemic plant and animal species; approximately 90% of the flora and fauna on the island are found nowhere else<br>
@@ -346,7 +346,7 @@ _judge selection and term of office_: Supreme Court heads elected by the preside
 _subordinate courts_: Courts of Appeal; Court of Cassation; Courts of First Instance; military courts; traditional courts (dina); Trade Court<br>
 
 **Political parties**<br>
-<p>Group of Young Malagasy Patriots (Groupe des Jeunes Malgaches Patriotes) or GJMP<br>I Love Madagascar (Tiako I Madagasikara) or TIM<br>Isika Rehetra Miaraka amin'i Andry Rajoelina coalition or IRD<br>Malagasy Aware (Malagasy Tonga Saina) or MTS<br>Malagasy Tia Tanindrazana or MATITA or ANGADY<br>Movement for Democracy in Madagascar (Mouvement pour la Démocratie à Madagascar) or MDM<br>Rally for Democratic Socialism (Rassemblement pour Socialisme Démocratique - Nouveau) or RPSD Vaovao<br>Young Malagasies Determined (Tanora Malagasy Vonona) or TGV</p><br>
+Group of Young Malagasy Patriots (Groupe des Jeunes Malgaches Patriotes) or GJMP<br>I Love Madagascar (Tiako I Madagasikara) or TIM<br>Isika Rehetra Miaraka amin'i Andry Rajoelina coalition or IRD<br>Malagasy Aware (Malagasy Tonga Saina) or MTS<br>Malagasy Tia Tanindrazana or MATITA or ANGADY<br>Movement for Democracy in Madagascar (Mouvement pour la Démocratie à Madagascar) or MDM<br>Rally for Democratic Socialism (Rassemblement pour Socialisme Démocratique - Nouveau) or RPSD Vaovao<br>Young Malagasies Determined (Tanora Malagasy Vonona) or TGV<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Lantosoa RAKOTOMALALA (since 13 January 2025)<br>
@@ -381,11 +381,10 @@ traveller's palm (ravenala), zebu<br>
 **National color(s)**<br>
 red, green, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Ry Tanindraza nay malala o" (O Our Beloved Fatherland)<br>
 _lyrics/music_: Pasteur RAHAJASON/Norbert RAHARISOA<br>
 _history_: adopted 1959<br>
-<strong>note:</strong> adopted 1959<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (1 cultural, 2 natural)<br>

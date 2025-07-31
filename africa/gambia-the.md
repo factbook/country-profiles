@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>In the 10th century, Muslim merchants established some of The Gambia’s earliest large settlements as trans-Saharan trade hubs. These settlements eventually grew into major export centers sending slaves, gold, and ivory across the Sahara. Between the 16th and 17th centuries, European colonial powers began establishing trade with The Gambia. In 1664, the United Kingdom established a colony in The Gambia focused on exporting enslaved people across the Atlantic. During the roughly 300 years of the trans-Atlantic slave trade, the UK and other European powers may have exported as many as 3 million people from The Gambia.</p> <p>The Gambia gained its independence from the UK in 1965. Geographically surrounded by Senegal, it formed the short-lived confederation of Senegambia between 1982 and 1989. In 1994, Yahya JAMMEH led a military coup overthrowing the president and banning political activity. He subsequently won every presidential election until 2016, when he lost to Adama BARROW, who headed an opposition coalition during free and fair elections. BARROW won reelection in 2021. The Gambia is the only member of the Economic Community of West African States that does not have presidential term limits. Since the 2016 election, The Gambia and the US have enjoyed improved relations. US assistance to the country has supported democracy-strengthening activities, capacity building, economic development, and security sector education and training programs. </p> <br> <p> </p> <p> </p><br>
+In the 10th century, Muslim merchants established some of The Gambia’s earliest large settlements as trans-Saharan trade hubs. These settlements eventually grew into major export centers sending slaves, gold, and ivory across the Sahara. Between the 16th and 17th centuries, European colonial powers began establishing trade with The Gambia. In 1664, the United Kingdom established a colony in The Gambia focused on exporting enslaved people across the Atlantic. During the roughly 300 years of the trans-Atlantic slave trade, the UK and other European powers may have exported as many as 3 million people from The Gambia. <br><br>The Gambia gained its independence from the UK in 1965. Geographically surrounded by Senegal, it formed the short-lived confederation of Senegambia between 1982 and 1989. In 1994, Yahya JAMMEH led a military coup overthrowing the president and banning political activity. He subsequently won every presidential election until 2016, when he lost to Adama BARROW, who headed an opposition coalition during free and fair elections. BARROW won reelection in 2021. The Gambia is the only member of the Economic Community of West African States that does not have presidential term limits. Since the 2016 election, The Gambia and the US have enjoyed improved relations. US assistance to the country has supported democracy-strengthening activities, capacity building, economic development, and security sector education and training programs.<br>
 
 ## Geography
 
@@ -373,11 +373,10 @@ lion<br>
 **National color(s)**<br>
 red, blue, green, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "For The Gambia, Our Homeland"<br>
 _lyrics/music_: Virginia Julie HOWE/adapted by Jeremy Frederick HOWE<br>
 _history_: adopted 1965; the music is an adaptation of the traditional Mandinka song "Foday Kaba Dumbuya"<br>
-<strong>note:</strong> adopted 1965; the music is an adaptation of the traditional Mandinka song "Foday Kaba Dumbuya"<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>

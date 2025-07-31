@@ -327,11 +327,10 @@ three peaks, each displaying a tower<br>
 **National color(s)**<br>
 white, blue<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Inno Nazionale della Repubblica" (National Anthem of the Republic)<br>
 _lyrics/music_: no lyrics/Federico CONSOLO<br>
 _history_: adopted 1894; the music for the anthem, which has no lyrics, is based on a 10th-century chorale piece<br>
-<strong>note:</strong> adopted 1894; the music for the anthem, which has no lyrics, is based on a 10th-century chorale piece<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

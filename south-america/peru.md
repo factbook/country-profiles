@@ -79,7 +79,7 @@ Amazon Basin<br>
 approximately one third of the population resides along the desert coastal belt in the&nbsp; west, with a strong focus on the capital city of Lima; the Andean highlands, or sierra, contain roughly half of the population; the eastern slopes of the Andes and adjoining rainforest are sparsely populated<br>
 
 **Natural hazards**<br>
-<p>earthquakes, tsunamis, flooding, landslides, mild volcanic activity</p><p><strong>volcanism:</strong> volcanic activity in the Andes Mountains; Ubinas (5,672 m), which last erupted in 2009, is the country's most active volcano; other historically active volcanoes include El Misti, Huaynaputina, Sabancaya, and Yucamane; see note 2 under "Geography - note"</p><br>
+earthquakes, tsunamis, flooding, landslides, mild volcanic activity <br><br><strong>volcanism:</strong> volcanic activity in the Andes Mountains; Ubinas (5,672 m) is the country's most active volcano; other historically active volcanoes include El Misti, Huaynaputina, Sabancaya, and Yucamane; see note 2 under "Geography - note"<br>
 
 **Geography - note**<br>
 <p><strong>note 1:</strong> shares control of Lago Titicaca, world's highest navigable lake, with Bolivia; a remote slope of Nevado Mismi, a 5,316-m (17,441-ft) peak, is the ultimate source of the Amazon River</p> <p><strong>note 2:</strong> Peru is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire<br><br><strong>note 3:</strong> on 19 February 1600, Mount Huaynaputina in the southern Peruvian Andes erupted in the largest volcanic explosion in South America in historical times; intermittent eruptions lasted until 5 March 1600 and pumped an estimated 16 to 32 million metric tons of particulates into the atmosphere, reducing the amount of sunlight reaching the earth's surface and affecting weather worldwide; over the next two-and-a-half years, millions died around the globe in famines from bitterly cold winters, cool summers, and the loss of crops and animals</p><br>
@@ -355,7 +355,7 @@ _judge selection and term of office_: justices proposed by the National Board of
 _subordinate courts_: Court of Constitutional Guarantees; Superior Courts or Cortes Superiores; specialized civil, criminal, and mixed courts; 2 types of peace courts in which professional judges and selected members of the local communities preside<br>
 
 **Political parties**<br>
-<p>Advance the Nation (Avanza País) or AvP<br>Alliance for Progress (Alianza para el Progreso) or APP<br>Broad Front (Frente Amplio) or FA<br>Free Peru (Perú Libre) or PL<br>Front for Hope (Frente Esperanza)<br>Magisterial Block of National Concentration (Bloque Magisterial de Concertación Nacional) or BMCN<br>National Victory (Victoria Nacional) or VN<br>Peru Bicentennial (Perú Bicentenario) or PB<br>Popular Action (Acción Popular) or AP<br>Popular Force (Fuerza Popular) or FP<br>Popular Renewal (Renovación Popular) or RP<br>Purple Party (Partido Morado)<br>Social Integration Party (Avanza País - Partido de Integración Social)<br>Together For Perú (Juntos por el Peru) or JP<br>We Are Peru (Somos Perú) of SP<br>We Can Peru (Podemos Perú) or PP</p><br>
+Advance the Nation (Avanza País) or AvP<br>Alliance for Progress (Alianza para el Progreso) or APP<br>Broad Front (Frente Amplio) or FA<br>Free Peru (Perú Libre) or PL<br>Front for Hope (Frente Esperanza)<br>Magisterial Block of National Concentration (Bloque Magisterial de Concertación Nacional) or BMCN<br>National Victory (Victoria Nacional) or VN<br>Peru Bicentennial (Perú Bicentenario) or PB<br>Popular Action (Acción Popular) or AP<br>Popular Force (Fuerza Popular) or FP<br>Popular Renewal (Renovación Popular) or RP<br>Purple Party (Partido Morado)<br>Social Integration Party (Avanza País - Partido de Integración Social)<br>Together For Perú (Juntos por el Peru) or JP<br>We Are Peru (Somos Perú) of SP<br>We Can Peru (Podemos Perú) or PP<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Alfredo Santiago Carlos FERRERO DIEZ CANSECO (since 27 February 2024)<br>
@@ -391,11 +391,10 @@ vicuna (a camelid related to the llama)<br>
 **National color(s)**<br>
 red, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Himno Nacional del Peru" (National Anthem of Peru)<br>
 _lyrics/music_: Jose DE LA TORRE Ugarte/Jose Bernardo ALZEDO<br>
 _history_: adopted 1822; the song won a national anthem contest<br>
-<strong>note:</strong> adopted 1822; the song won a national anthem contest<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 13 (9 cultural, 2 natural, 2 mixed)<br>
@@ -689,7 +688,7 @@ the military has a broad mix of mostly older but some more modern equipment from
 225 Central African Republic (MINUSCA) (2024)<br>
 
 **Military - note**<br>
-the Peruvian Armed Forces (FAP) are responsible for external defense in addition to some domestic security responsibilities in designated emergency areas and in exceptional circumstances; key areas of focus include counterinsurgency, counternarcotics, disaster relief, and maritime security operations; the FAP has contributed to UN missions since 1958 and has ties to regional militaries, particularly Colombia, as well as those of numerous other countries such as China, Russia, Spain, and the US; the FAP’s last external conflict was a brief border war with Ecuador in 1995; the FAP supported the police during anti-government protests in early 2023 and was accused of human rights violations <br><br>the Joint Command of the Armed Forces of Peru (Comando Conjunto de las Fuerzas Armadas del Perú or CCFFAA) has responsibility for the planning, preparation, coordination, and direction of the military’s operations; the CCFFAA has oversight over commands for air, air defense, cyber, maritime, and special operations, as well as five regional commands (Amazonas, central, north, south, and Ucayali) and a Special Command of the Valley of the Apurimac, Ene, and Mantaro rivers (CE-VRAEM); CE-VRAEM is responsible for combating the remnants of the Shining Path terrorist group (aka Sendero Luminoso) and includes several thousand air, ground, naval, police, and special forces personnel; the FAP also provides aircraft, vehicles, and logistical support to the command (2024)<br>
+the Peruvian Armed Forces (FAP) are responsible for external defense in addition to some domestic security responsibilities in designated emergency areas and in exceptional circumstances; key areas of focus include counterinsurgency, counternarcotics, cyber defense, disaster relief, and maritime security operations; the FAP supported the police during anti-government protests in early 2023; it has contributed to UN missions since 1958 and has ties to regional militaries, particularly Colombia, as well as those of numerous other countries such as China, Russia, Spain, and the US; the FAP’s last external conflict was a brief border war with Ecuador in 1995<br><br>the Special Command of the Valley of the Apurimac, Ene, and Mantaro rivers (CE-VRAEM) is responsible for combating the remnants of the Shining Path terrorist group (aka Sendero Luminoso) and includes several thousand air, ground, naval, police, and special forces personnel; the FAP also provides aircraft, vehicles, and logistical support to the command (2025)<br>
 
 ## Space
 

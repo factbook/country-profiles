@@ -305,7 +305,7 @@ _subordinate courts_: national level - Courts of Appeal; High Courts; County Cou
 <strong>note:</strong> in mid-2022, the Government of South Sudan inaugurated an ad-hoc judiciary committee, a 12-member body led by two eminent jurists, that is charged with reviewing relevant laws, advising on judicial reform, and restructuring the judiciary<br>
 
 **Political parties**<br>
-<p>Democratic Change or DC<br>Democratic Forum or DF<br>Labour Party or LPSS<br>South Sudan Opposition Alliance or SSOA<br>Sudan African National Union or SANU<br>Sudan People's Liberation Movement or SPLM<br>Sudan People’s Liberation Movement-In Opposition or SPLM-IO<br>United Democratic Salvation Front or UDSF    <br>United South Sudan African Party or USSAP<br>United South Sudan Party or USSP</p><br>
+Democratic Change or DC<br>Democratic Forum or DF<br>Labour Party or LPSS<br>South Sudan Opposition Alliance or SSOA<br>Sudan African National Union or SANU<br>Sudan People's Liberation Movement or SPLM<br>Sudan People’s Liberation Movement-In Opposition or SPLM-IO<br>United Democratic Salvation Front or UDSF    <br>United South Sudan African Party or USSAP<br>United South Sudan Party or USSP<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Santino Fardol Watod DICKEN (since 18 September 2024)<br>
@@ -340,11 +340,10 @@ African fish eagle<br>
 **National color(s)**<br>
 red, green, blue, yellow, black, white<br>
 
-**National anthem**<br>
-_title_: "South Sudan Oyee!" (Hooray!)<br>
+**National anthem(s)**<br>
+_title_: "South Sudan Oyee!" (South Sudan, Hooray!)<br>
 _lyrics/music_: collective of 49 poets/Juba University students and teachers<br>
 _history_: adopted 2011; anthem selected in a national contest<br>
-<strong>note:</strong> adopted 2011; anthem selected in a national contest<br>
 
 ## Economy
 

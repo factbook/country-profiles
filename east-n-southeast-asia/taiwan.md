@@ -66,7 +66,7 @@ _other_: 78% (2022 est.)<br>
 distribution exhibits a peripheral coastal settlement pattern, with the largest populations on the north and west coasts<br>
 
 **Natural hazards**<br>
-<p>earthquakes; typhoons</p><p><strong>volcanism:</strong> Kueishantao Island (401 m), east of Taiwan, is its only historically active volcano, although it has not erupted in centuries</p><br>
+earthquakes; typhoons <br><br><strong>volcanism:</strong> Kueishantao Island (401 m), east of Taiwan, is the only historically active volcano, but it has not erupted in centuries<br>
 
 **Geography - note**<br>
 strategic location adjacent to both the Taiwan Strait and the Luzon Strait<br>
@@ -224,7 +224,7 @@ _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time
 _etymology_: the name means "Northern Taiwan," from the Chinese words <em>tai </em>(a short form of Taiwan) and <em>bei </em>(north), reflecting the city's position in the far north of the island<br>
 
 **Administrative divisions**<br>
-includes main island of Taiwan, plus smaller islands nearby and off coast of China's Fujian Province; Taiwan is divided into 13 counties (<em>xian</em>, singular and plural), 3 cities (<em>shi</em>, singular and plural), and 6 special municipalities directly under the jurisdiction of the Executive Yuan <p><strong>counties:</strong> Changhua, Chiayi, Hsinchu, Hualien, Kinmen, Lienchiang, Miaoli, Nantou, Penghu, Pingtung, Taitung, Yilan, Yunlin</p> <p><strong>cities:</strong> Chiayi, Hsinchu, Keelung</p> <p><strong>special municipalities:</strong> Kaohsiung (city), New Taipei (city), Taichung (city), Tainan (city), Taipei (city), Taoyuan (city)</p><br>
+includes main island of Taiwan, plus smaller islands nearby and off coast of China's Fujian Province; Taiwan is divided into 13 counties (<em>xian</em>, singular and plural), 3 cities (<em>shi</em>, singular and plural), and 6 special municipalities directly under the jurisdiction of the Executive Yuan <br><br><strong>counties:</strong> Changhua, Chiayi, Hsinchu, Hualien, Kinmen, Lienchiang, Miaoli, Nantou, Penghu, Pingtung, Taitung, Yilan, Yunlin <br><br><strong>cities:</strong> Chiayi, Hsinchu, Keelung <br><br><strong>special municipalities:</strong> Kaohsiung (city), New Taipei (city), Taichung (city), Tainan (city), Taipei (city), Taoyuan (city)<br>
 <strong>note:</strong> Taiwan uses a variety of romanization systems; a modified Wade-Giles system still dominates, but the city of Taipei has adopted a Pinyin romanization for street and place names; other local authorities use different romanization systems<br>
 
 **Legal system**<br>
@@ -244,7 +244,7 @@ _dual citizenship recognized_: yes, except that citizens of Taiwan are not recog
 _residency requirement for naturalization_: 5 years<br>
 
 **Suffrage**<br>
-20 years of age; universal; note - in March 2022, the Legislative Yuan approved lowering the voting age to 18, but the change will require a constitutional amendment that must be submitted to a referendum<br>
+20 years of age; universal<br>
 
 **Executive branch**<br>
 _chief of state_: President LAI Ching-te (since 20 May 2024)<br>
@@ -252,7 +252,7 @@ _head of government_: Premier CHO Jung-tai (President of the Executive Yuan) (si
 _cabinet_: Executive Yuan; ministers appointed by president on recommendation of premier<br>
 _election/appointment process_: president and vice president directly elected on the same ballot by simple-majority popular vote for a 4-year term (eligible for a second term); premier appointed by the president; vice premiers appointed by the president on the recommendation of the premier<br>
 _most recent election date_: 13 January 2024<br>
-_election results_: <em><em><br>2024:</em></em> LAI Ching-te elected president; percent of vote<em><em> - </em></em>LAI Ching-te (DPP) 40.1%, HOU Yu-ih (KMT) 33.5%, KO Wen-je (TPP) 26.5%)<em><br><br>2020: </em>TSAI Ing-wen reelected president; percent of vote - TSAI Ing-wen (DPP) 57.1%, HAN Kuo-yu (KMT) 38.6%, James SOONG (PFP) 4.3%<br><em><br><br></em><br>
+_election results_: <em><br>2024:</em>LAI Ching-te elected president; percent of vote<em><em> - </em></em>LAI Ching-te (DPP) 40.1%, HOU Yu-ih (KMT) 33.5%, KO Wen-je (TPP) 26.5%)<em><br><br>2020: </em>TSAI Ing-wen reelected president; percent of vote - TSAI Ing-wen (DPP) 57.1%, HAN Kuo-yu (KMT) 38.6%, James SOONG (PFP) 4.3%<br>
 _expected date of next election_: 2028<br>
 
 **Legislative branch**<br>
@@ -292,10 +292,11 @@ _other offices_: Kaohsiung (Branch Office)<br>
 
 **International organization participation**<br>
 ADB (Chinese Taipei), APEC (Chinese Taipei), BCIE, CABEI, IOC, ITUC (NGOs), SICA (observer), WTO (Chinese Taipei)<br>
-note - separate customs territory of Taiwan, Penghu, Kinmen, and Matsu<br>
+<strong>note:</strong> separate customs territory of Taiwan, Penghu, Kinmen, and Matsu<br>
 
 **National holiday**<br>
-Republic Day (National Day), 10 October (1911); note - celebrates the anniversary of the Chinese Revolution, also known as Double Ten (10-10) Day<br>
+Republic Day (National Day), 10 October (1911)<br>
+<strong>note:</strong> celebrates the anniversary of the Chinese Revolution, also known as Double Ten (10-10) Day<br>
 
 **Flag description**<br>
 red field with a dark blue rectangle in the upper hoist-side corner, bearing a white sun with 12 triangular rays; the blue-and-white design of the canton (symbolizing the sun of progress) dates to 1895; blue stands for liberty, justice, and democracy, red for fraternity, sacrifice, and nationalism, and white for equality, frankness, and the people's livelihood; the 12 rays represent the months of the year and the traditional Chinese hours (each ray equals two hours)<br>
@@ -307,11 +308,10 @@ white sun with 12 rays on a blue field<br>
 **National color(s)**<br>
 blue, white, red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Zhonghua Minguo guoge" (National Anthem of the Republic of China)<br>
 _lyrics/music_: HU Han-min, TAI Chi-t'ao, and LIAO Chung-k'ai/CHENG Mao-yun<br>
 _history_: adopted 1930; also the song of the Kuomintang Party; informally known as "San Min Chu I" or "San Min Zhu Yi" (Three Principles of the People); because of political pressure from China, "Guo Qi Ge" (National Banner Song) is used at international events rather than the official anthem of Taiwan<br>
-<strong>note:</strong> adopted 1930; also the song of the Kuomintang Party; informally known as "San Min Chu I" or "San Min Zhu Yi" (Three Principles of the People); because of political pressure from China, "Guo Qi Ge" (National Banner Song) is used at international events rather than the official anthem of Taiwan<br>
 
 ## Economy
 

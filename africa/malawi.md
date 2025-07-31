@@ -367,7 +367,8 @@ ACP, AfDB, AU, C, CD, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD
 6 July 1964 (from the UK)<br>
 
 **National holiday**<br>
-Independence Day, 6 July (1964); note - also called Republic Day since 6 July 1966<br>
+Independence Day, 6 July (1964)<br>
+<strong>note:</strong> also called Republic Day since 6 July 1966<br>
 
 **Flag description**<br>
 three equal horizontal bands of black (top), red, and green, with a rising red sun centered on the black band; black represents ethnic groups, red the blood shed in their struggle for freedom, and green the color of nature; the sun represents the hope of freedom for the continent of Africa<br>
@@ -378,11 +379,10 @@ lion<br>
 **National color(s)**<br>
 black, red, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Mulungu dalitsa Malawi" (O God, Bless Our Land of Malawi)<br>
 _lyrics/music_: Michael-Fredrick Paul SAUKA<br>
 _history_: adopted 1964<br>
-<strong>note:</strong> adopted 1964<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>

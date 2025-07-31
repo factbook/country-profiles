@@ -374,11 +374,10 @@ white falcon<br>
 **National color(s)**<br>
 red, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Kyrgyz Respublikasynyn Mamlekettik Gimni" (National Anthem of the Kyrgyz Republic)<br>
 _lyrics/music_: Djamil SADYKOV and Eshmambet KULUEV/Nasyr DAVLESOV and Kalyi MOLDOBASANOV<br>
 _history_: adopted 1992<br>
-<strong>note:</strong> adopted 1992<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>

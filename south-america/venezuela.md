@@ -328,7 +328,7 @@ _judge selection and term of office_: judges proposed by the Committee of Judici
 _subordinate courts_: Superior or Appeals Courts (Tribunales Superiores); District Tribunals (Tribunales de Distrito); Courts of First Instance (Tribunales de Primera Instancia); Parish Courts (Tribunales de Parroquia); Justices of the Peace (Justicia de Paz) Network<br>
 
 **Political parties**<br>
-<p>A New Era (Un Nuevo Tiempo) or UNT<br>Cambiemos Movimiento Ciudadano or CMC<br>Christian Democrats or COPEI (also known as the Social Christian Party)<br>Citizens Encounter or EC<br>Clear Accounts or CC<br>Coalition of parties loyal to Nicolas MADURO - Great Patriotic Pole or GPP<br>Coalition of opposition parties - Democratic Alliance (Alianza Democratica) (includes AD, EL CAMBIO, COPEI, CMC, and AP)<br>Come Venezuela (Vente Venezuela) or VV<br>Communist Party of Venezuela or PCV<br>Consenso en la Zona or Conenzo<br>Convergencia<br>Democratic Action or AD<br>Fatherland for All (Patria para Todos) or PPT<br>Fearless People's Alliance or ABP<br>Fuerza Vecinal or FV<br>Hope for Change (Esperanza por el Cambio) or EL CAMBIO<br>Justice First (Primero Justicia) or PJ<br>LAPIZ<br>Movement to Socialism (Movimiento al Socialismo) or MAS<br>Popular Will (Voluntad Popular) or VP<br>Progressive Advance (Avanzada Progresista) or AP<br>The Radical Cause or La Causa R<br>United Socialist Party of Venezuela or PSUV<br>Venezuela First (Primero Venezuela) or PV<br>Venezuelan Progressive Movement or MPV<br>Venezuela Project or PV</p><br>
+A New Era (Un Nuevo Tiempo) or UNT<br>Cambiemos Movimiento Ciudadano or CMC<br>Christian Democrats or COPEI (also known as the Social Christian Party)<br>Citizens Encounter or EC<br>Clear Accounts or CC<br>Coalition of parties loyal to Nicolas MADURO - Great Patriotic Pole or GPP<br>Coalition of opposition parties - Democratic Alliance (Alianza Democratica) (includes AD, EL CAMBIO, COPEI, CMC, and AP)<br>Come Venezuela (Vente Venezuela) or VV<br>Communist Party of Venezuela or PCV<br>Consenso en la Zona or Conenzo<br>Convergencia<br>Democratic Action or AD<br>Fatherland for All (Patria para Todos) or PPT<br>Fearless People's Alliance or ABP<br>Fuerza Vecinal or FV<br>Hope for Change (Esperanza por el Cambio) or EL CAMBIO<br>Justice First (Primero Justicia) or PJ<br>LAPIZ<br>Movement to Socialism (Movimiento al Socialismo) or MAS<br>Popular Will (Voluntad Popular) or VP<br>Progressive Advance (Avanzada Progresista) or AP<br>The Radical Cause or La Causa R<br>United Socialist Party of Venezuela or PSUV<br>Venezuela First (Primero Venezuela) or PV<br>Venezuelan Progressive Movement or MPV<br>Venezuela Project or PV<br>
 
 **Diplomatic representation in the US**<br>
 none<br><br><strong>note</strong>: the embassy, which had been run by the Venezuelan political opposition, announced on 5 January 2023, that it had ended all embassy functions<br>
@@ -358,11 +358,10 @@ troupial (bird)<br>
 **National color(s)**<br>
 yellow, blue, red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Gloria al bravo pueblo" (Glory to the Brave People)<br>
 _lyrics/music_: Vicente SALIAS/Juan Jose LANDAETA<br>
 _history_: adopted 1881; lyrics were written in 1810; both SALIAS and LANDAETA were executed in 1814 during Venezuela's fight for independence<br>
-<strong>note:</strong> adopted 1881; lyrics were written in 1810; both SALIAS and LANDAETA were executed in 1814 during Venezuela's fight for independence<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>

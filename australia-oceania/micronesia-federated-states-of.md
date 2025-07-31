@@ -334,11 +334,10 @@ four five-pointed white stars on a light blue field, hibiscus flower<br>
 **National color(s)**<br>
 light blue, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Patriots of Micronesia"<br>
 _lyrics/music_: unknown/August Daniel BINZER<br>
 _history_: adopted 1991; also known as "Across All Micronesia;" the music is based on the 1820 German patriotic song "Ich hab mich ergeben," which was the West German national anthem from 1949 to 1950<br>
-<strong>note:</strong> adopted 1991; also known as "Across All Micronesia;" the music is based on the 1820 German patriotic song "Ich hab mich ergeben," which was the West German national anthem from 1949 to 1950<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

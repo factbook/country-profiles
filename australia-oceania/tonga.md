@@ -65,7 +65,7 @@ _other_: 39% (2022 est.)<br>
 over two thirds of the population lives on the island of Tongatapu; only 45 of the nation's 171 islands are occupied<br>
 
 **Natural hazards**<br>
-<p>cyclones (October to April); earthquakes and volcanic activity on Fonuafo'ou</p><p><strong>volcanism:</strong> moderate volcanic activity; Fonualei (180 m) has shown frequent activity in recent years, while Niuafo'ou (260 m), which last erupted in 1985, has forced evacuations; other historically active volcanoes include Late and Tofua</p><br>
+cyclones (October to April); earthquakes and volcanic activity on Fonuafo'ou <br><br><strong>volcanism:</strong> moderate volcanic activity; Fonualei (180 m) has had frequent activity in recent years, and Niuafo'ou (260 m) has forced evacuations; other historically active volcanoes include Late and Tofua<br>
 
 **Geography - note**<br>
 the western islands (making up the Tongan Volcanic Arch) are all of volcanic origin; the eastern islands are nonvolcanic and are composed of coral limestone and sand<br>
@@ -350,7 +350,8 @@ ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, IMF
 4 June 1970 (from UK protectorate status)<br>
 
 **National holiday**<br>
-Official Birthday of King TUPOU VI, 4 July (1959); note - actual birthday of the monarch is 12 July 1959, 4 July (2015) is the day the king was crowned; Constitution Day (National Day), 4 November (1875)<br>
+Official Birthday of King TUPOU VI, 4 July (1959)<br>
+<strong>note:</strong> actual birthday of the monarch is 12 July 1959, 4 July (2015) is the day the king was crowned; Constitution Day (National Day), 4 November (1875)<br>
 
 **Flag description**<br>
 red with a red cross on a white rectangle in the upper hoist-side corner; the cross stands for Christianity in Tonga, red for Christ's blood and sacrifice, and white for purity<br>
@@ -361,11 +362,10 @@ red cross on white field<br>
 **National color(s)**<br>
 red, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Ko e fasi 'o e tu'i 'o e 'Otu Tonga" (Song of the King of the Tonga Islands)<br>
 _lyrics/music_: Uelingatoni Ngu TUPOUMALOHI/Karl Gustavus SCHMITT<br>
 _history_: in use since 1875; more commonly known as "Fasi Fakafonua" (National Song)<br>
-<strong>note:</strong> in use since 1875; more commonly known as "Fasi Fakafonua" (National Song)<br>
 
 ## Economy
 

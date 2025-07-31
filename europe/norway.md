@@ -68,7 +68,7 @@ _other_: 63.8% (2022 est.)<br>
 most people live in the south; population clusters are found along the North Sea coast in the southwest and Skaggerak in the southeast; the interior areas of the north remain sparsely populated<br>
 
 **Natural hazards**<br>
-<p>rockslides, avalanches</p><p><strong>volcanism:</strong> Beerenberg (2,227 m) on Jan Mayen Island in the Norwegian Sea is the country's only active volcano</p><br>
+rockslides, avalanches <br><br><strong>volcanism:</strong> Beerenberg (2,227 m) on Jan Mayen Island in the Norwegian Sea is the country's only active volcano<br>
 
 **Geography - note**<br>
 about two-thirds mountains; some 50,000 islands off its much-indented coastline; strategic location adjacent to sea lanes and air routes in North Atlantic; one of the most rugged and longest coastlines in the world<br>
@@ -341,7 +341,7 @@ _subordinate courts_: Courts of Appeal or Lagmennsrett; regional and district co
 <strong>note:</strong> in addition to professionally trained judges, elected lay judges sit on the bench with professional judges in the Courts of Appeal and district courts<br>
 
 **Political parties**<br>
-<p>Center Party or Sp <br>Christian Democratic Party or KrF <br>Conservative Party or H <br>Green Party or MDG <br>Labor Party or Ap <br>Liberal Party or V<br>Patient Focus or PF <br>Progress Party or FrP <br>Red Party or R <br>Socialist Left Party or SV </p><br>
+Center Party or Sp <br>Christian Democratic Party or KrF <br>Conservative Party or H <br>Green Party or MDG <br>Labor Party or Ap <br>Liberal Party or V<br>Patient Focus or PF <br>Progress Party or FrP <br>Red Party or R <br>Socialist Left Party or SV<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Anniken Scharning HUITFELDT (since 18 September 2024)<br>
@@ -377,7 +377,7 @@ lion<br>
 **National color(s)**<br>
 red, white, blue<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Kongesangen" (Song of the King)<br>
 _lyrics/music_: Bjornstjerne BJORNSON/Rikard NORDRAAK<br>
 _history_: royal anthem; uses the tune of "God Save the King," the United Kingdom's anthem<br>

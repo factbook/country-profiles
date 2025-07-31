@@ -252,11 +252,10 @@ red, white, blue<br>
 **National coat of arms**<br>
 the Falkland Islands adopted its coat of arms in 1948; the shield highlights the national symbol, the ram, which represents the country’s agricultural industry and stands on native tussock grass; English navigator John Davis’s sailing vessel, the <em>Desire</em>,<em> </em>is shown, referencing his sighting of the islands in 1592; below the shield is the national motto, “Desire the Right”<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 _history_: official anthem, as a UK territory<br>
-<strong>note:</strong> adopted 1930s; the song is the local unofficial anthem; "God Save the King" is official for the Falklands, as a territory of the United Kingdom (see United Kingdom)<br>
 
 ## Economy
 

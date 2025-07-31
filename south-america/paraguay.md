@@ -392,11 +392,10 @@ lion<br>
 **National color(s)**<br>
 red, white, blue<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Paraguayos, Republica o muerte!" (Paraguayans, the Republic or Death!)<br>
 _lyrics/music_: Francisco Esteban ACUNA de Figueroa/disputed<br>
 _history_: adopted 1934, in use since 1846<br>
-<strong>note:</strong> adopted 1934, in use since 1846<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -670,7 +669,7 @@ the military's inventory is comprised of mostly older or obsolescent equipment f
 <strong>note:</strong> as of 2021, women made up about 6% of the active military<br>
 
 **Military - note**<br>
-the Paraguayan military is responsible for external defense but also has some domestic security duties; while the National Police are responsible for maintaining internal security, the military cooperates with the police in combatting the Paraguayan People’s Army (Ejército del Pueblo Paraguayo or EPP) and transnational criminal organizations; the military has an Internal Defense Operations Command (Comando de Defensa Interna or CODI), which includes the Army, Navy, and Air Force, to coordinate internal security support to the police and other security organizations, such as the National Anti-Drug Secretariat or SENAD<br><br>the EPP is a domestic criminal/guerrilla group initially dedicated to a Marxist-Leninist revolution in Paraguay that operates in the rural northern part of the country along the border with Brazil; the activities of the EPP and its offshoots—Marsical López’s Army (EML) and the Armed Peasant Association (ACA)—have consisted largely of isolated attacks on remote police and army posts, or against ranchers and peasants accused of aiding Paraguayan security forces<br><br>the Paraguayan military has deployed small numbers of troops on UN missions and cooperates with neighboring countries, such as Argentina and Brazil, on security issues, particularly organized crime and narco-trafficking in what is known as the Tri-Border Area; Paraguay has not fought a war against a neighboring country since the Chaco War with Bolivia in the 1930s (2024)<br>
+ the Paraguayan military is responsible for external defense and has a role in domestic security duties; it provides support for natural disasters and cooperates with the National Police and other internal security organizations in combating the Paraguayan People’s Army (Ejército del Pueblo Paraguayo or EPP) and transnational criminal organizations, largely narcotics traffickers; the EPP is a small, domestic criminal/guerrilla group operating in the rural northern part of the country along the border with Brazil; the activities of the EPP and its offshoots—Marsical López’s Army (EML) and the Armed Peasant Association (ACA)—have consisted largely of isolated attacks on remote police and army posts, or against ranchers and peasants accused of aiding Paraguayan security forces<br><br>the Paraguayan military has deployed small numbers of troops on UN peacekeeping missions and cooperates with neighboring countries, such as Argentina and Brazil, on security issues, particularly organized crime and narco-trafficking in what is known as the Tri-Border Area; Paraguay has not fought a war against a neighboring country since the Chaco War with Bolivia in the 1930s (2025)<br>
 
 ## Space
 

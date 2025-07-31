@@ -240,7 +240,8 @@ ACS (associate), UPU<br>
 none (overseas collectivity of France)<br>
 
 **National holiday**<br>
-F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - local holiday is Schoelcher Day (Slavery Abolition Day) 12 July (1848), as well as St. Martin's Day, 11 November (1985), which commemorates the discovery of the island by COLUMBUS on Saint Martin's Day, 11 November 1493; the latter holiday celebrated on both halves of the island<br>
+Fête de la Fédération, 14 July (1790)<br>
+<strong>note 1:</strong> local holiday is Schoelcher Day (Slavery Abolition Day) 12 July (1848), as well as St. Martin's Day, 11 November (1985); the latter holiday celebrated on both halves of the island<br><br><strong>note 2:</strong> often incorrectly referred to as Bastille Day, France's national celebration commemorates the storming of the Bastille prison on 14 July 1789 and the establishment of a constitutional monarchy; other names for the holiday are <em>la Fête nationale</em> (National Holiday) and <em>le Quatorze Juillet</em> (14th of July)<br>
 
 **Flag description**<br>
 the flag of France is used<br>
@@ -248,11 +249,10 @@ the flag of France is used<br>
 **National symbol(s)**<br>
 brown pelican<br>
 
-**National anthem**<br>
-_title_: "La Marseillaise"<br>
+**National anthem(s)**<br>
+_title_: "La Marseillaise" (The Song of Marseille)<br>
 _lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
 _history_: official anthem, as a French collectivity<br>
-<strong>note:</strong> the song, written in 1958, is used as an unofficial anthem for the entire island (both French and Dutch sides); as a collectivity of France, in addition to the local anthem, "La Marseillaise" remains official on the French side (see France); as a constituent part of the Kingdom of the Netherlands, in addition to the local anthem, "Het Wilhelmus" remains official on the Dutch side (see Netherlands)<br>
 
 ## Economy
 

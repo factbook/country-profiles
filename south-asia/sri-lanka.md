@@ -376,11 +376,10 @@ lion, water lily<br>
 **National color(s)**<br>
 maroon, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Sri Lanka Matha" (Mother Sri Lanka)<br>
 _lyrics/music_: Ananda SAMARKONE<br>
 _history_: adopted 1951<br>
-<strong>note:</strong> adopted 1951<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 8 (6 cultural, 2 natural)<br>

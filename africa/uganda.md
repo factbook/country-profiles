@@ -369,11 +369,10 @@ grey crowned crane<br>
 **National color(s)**<br>
 black, yellow, red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "O Uganda, Land of Beauty!"<br>
 _lyrics/music_: George Wilberforce KAKOMOA<br>
 _history_: adopted 1962<br>
-<strong>note:</strong> adopted 1962<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (1 cultural, 2 natural)<br>

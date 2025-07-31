@@ -257,11 +257,10 @@ yellow five-pointed star<br>
 **National color(s)**<br>
 yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Ko e Iki he Lagi" (The Lord in Heaven)<br>
 _lyrics/music_: unknown/unknown, prepared by Sioeli FUSIKATA<br>
 _history_: adopted 1974<br>
-<strong>note:</strong> adopted 1974<br>
 
 ## Economy
 

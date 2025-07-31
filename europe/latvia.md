@@ -281,7 +281,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the name's origin is unclear; it may derive from the Old Lithuanian word <em>ringa</em>, meaning "bend" or "curve" and referring to the city's location on the Western Dvina River; alternatively, it may come from the Latvian word <em>ridzina</em>, meaning "stream"<br>
 
 **Administrative divisions**<br>
-<p>36 municipalities (<em>novadi</em>, singular - <em>novads</em>) and 7 state cities (<em>valstpilsetu pasvaldibas</em>, singular - <em>valstspilsetas pasvaldiba</em>)</p> <p><strong>municipalities:</strong> Adazi, Aizkraukle, Aluksne, Augsdaugava, Balvi, Bauska, Cesis, Dienvidkurzeme, Dobele, Gulbene, Jekabpils, Jelgava, Kekava, Kraslava, Kuldiga, Limbazi, Livani, Ludza, Madona, Marupe, Ogre, Olaine, Preili, Rezekne, Ropazi, Salaspils, Saldus, Saulkrasti, Sigulda, Smiltene, Talsi, Tukums, Valka, Valmiera, Varaklani, Ventspils</p> <p><strong>cities:</strong> Daugavpils, Jelgava, Jurmala, Liepaja, Rezekne, Riga, Ventspils</p><br>
+36 municipalities (<em>novadi</em>, singular - <em>novads</em>) and 7 state cities (<em>valstpilsetu pasvaldibas</em>, singular - <em>valstspilsetas pasvaldiba</em>) <br><br><strong>municipalities:</strong> Adazi, Aizkraukle, Aluksne, Augsdaugava, Balvi, Bauska, Cesis, Dienvidkurzeme, Dobele, Gulbene, Jekabpils, Jelgava, Kekava, Kraslava, Kuldiga, Limbazi, Livani, Ludza, Madona, Marupe, Ogre, Olaine, Preili, Rezekne, Ropazi, Salaspils, Saldus, Saulkrasti, Sigulda, Smiltene, Talsi, Tukums, Valka, Valmiera, Varaklani, Ventspils <br><br><strong>cities:</strong> Daugavpils, Jelgava, Jurmala, Liepaja, Rezekne, Riga, Ventspils<br>
 
 **Legal system**<br>
 civil law system with traces of socialist legal traditions and practices<br>
@@ -353,7 +353,8 @@ Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperat
 18 November 1918 (from Soviet Russia); 4 May 1990 (declared from the Soviet Union); 6 September 1991 (recognized by the Soviet Union)<br>
 
 **National holiday**<br>
-Independence Day (Republic of Latvia Proclamation Day), 18 November (1918); note - 18 November 1918 was the date Latvia established its statehood and its concomitant independence from Soviet Russia; 4 May 1990 was the date it declared the restoration of Latvian statehood and its concomitant independence from the Soviet Union<br>
+Independence Day (Republic of Latvia Proclamation Day), 18 November (1918)<br>
+<strong>note:</strong> 18 November 1918 was the date Latvia established its statehood and independence from Soviet Russia; 4 May 1990 was the date it declared the restoration of statehood and independence from the Soviet Union<br>
 
 **Flag description**<br>
 three horizontal bands of maroon (top), white (half-width), and maroon; the flag is one of the older banners in the world -- a medieval chronicle mentions Latvian tribes using a red standard with a white stripe around 1280<br>
@@ -364,11 +365,10 @@ white wagtail (bird)<br>
 **National color(s)**<br>
 maroon, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Dievs, sveti Latviju!" (God Bless Latvia)<br>
 _lyrics/music_: Karlis BAUMANIS<br>
 _history_: adopted 1920, restored 1990; first performed in 1873 when Latvia was part of Russia; banned during the Soviet occupation from 1940 to 1990<br>
-<strong>note:</strong> adopted 1920, restored 1990; first performed in 1873 when Latvia was part of Russia; banned during the Soviet occupation from 1940 to 1990<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (all cultural)<br>

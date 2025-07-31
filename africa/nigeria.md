@@ -319,7 +319,7 @@ _head of government_: President Bola Ahmed Adekunle TINUBU (since 29 May 2023)<b
 _cabinet_: Federal Executive Council appointed by the president but constitutionally required to include at least one member from each of the 36 states<br>
 _election/appointment process_: president directly elected by qualified-majority popular vote with at least 25% of the votes cast in 24 of Nigeria's 36 states; president elected for a 4-year term (eligible for a second term)<br>
 _most recent election date_: 25 February 2023<br>
-_election results_: <br><em>2023:</em> Bola Ahmed Adekunle TINUBU elected president; percent of vote - Bola Ahmed Adekunle TINUBU (APC) 36.6%, Atiku ABUBAKAR (PDP) 29.1%, Peter OBI (LP) 25.4%, Rabiu KWANKWASO (NNPP) 6.4%, other 2.5%<br><br><em>2019: </em>Muhammadu BUHARI elected president; percent of vote - Muhammadu BUHARI (APC) 53%, Atiku ABUBAKAR (PDP) 39%, other 8% <p> </p><br>
+_election results_: <br><em>2023:</em> Bola Ahmed Adekunle TINUBU elected president; percent of vote - Bola Ahmed Adekunle TINUBU (APC) 36.6%, Atiku ABUBAKAR (PDP) 29.1%, Peter OBI (LP) 25.4%, Rabiu KWANKWASO (NNPP) 6.4%, other 2.5%<br><br><em>2019: </em>Muhammadu BUHARI elected president; percent of vote - Muhammadu BUHARI (APC) 53%, Atiku ABUBAKAR (PDP) 39%, other 8%<br>
 _expected date of next election_: 27 February 2027<br>
 <strong>note:</strong> the president is chief of state, head of government, and commander-in-chief of the armed forces<br>
 
@@ -392,7 +392,7 @@ eagle<br>
 **National color(s)**<br>
 green, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Nigeria, We Hail Thee"<br>
 _lyrics/music_: Lillie Jean WILLIAMS/Frances BERDA<br>
 _history_: adopted 2024<br>

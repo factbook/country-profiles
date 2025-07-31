@@ -65,7 +65,7 @@ _other_: 24.4% (2022 est.)<br>
 about three quarters of the population lives on the island of Upolu<br>
 
 **Natural hazards**<br>
-<p>occasional cyclones; active volcanism</p><p><strong>volcanism:</strong> Savai'I Island (1,858 m), which last erupted in 1911, is historically active</p><br>
+occasional cyclones; active volcanism <br><br><strong>volcanism:</strong> Savai'I Island (1,858 m) is historically active<br>
 
 **Geography - note**<br>
 occupies an almost central position within Polynesia<br>
@@ -345,7 +345,8 @@ ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IL
 1 January 1962 (from New Zealand-administered UN trusteeship)<br>
 
 **National holiday**<br>
-Independence Day Celebration, 1 June (1962); note - 1 January 1962 is the date of independence from the New Zealand-administered UN trusteeship, but it is observed in June<br>
+Independence Day Celebration, 1 June (1962)<br>
+<strong>note:</strong> 1 January 1962 is the date of independence from the New Zealand-administered UN trusteeship, but it is observed in June<br>
 
 **Flag description**<br>
 red with a blue rectangle in the upper hoist-side quadrant bearing five white, five-pointed stars that represent the Southern Cross constellation; red stands for courage, blue for freedom, and white for purity<br>
@@ -357,11 +358,10 @@ Southern Cross constellation (five five-pointed stars)<br>
 **National color(s)**<br>
 red, white, blue<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "O le Fu'a o le Sa'olotoga o Samoa" (The Banner of Freedom)<br>
 _lyrics/music_: Sauni Liga KURESA<br>
 _history_: adopted 1962; also known as "Samoa Tula'i" (Samoa Arise)<br>
-<strong>note:</strong> adopted 1962; also known as "Samoa Tula'i" (Samoa Arise)<br>
 
 ## Economy
 

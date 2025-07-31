@@ -344,7 +344,7 @@ _subordinate courts_: High Commercial Court; appellate courts; provincial, distr
 
 **Political parties**<br>
 Agrarian Party of Turkmenistan or APT<br>Democratic Party of Turkmenistan or DPT<br>Party of Industrialists and Entrepreneurs or PIE<br>
-<strong>note:</strong> all of these parties support President BERDIMUHAMEDOV; a law authorizing the registration of political parties went into effect in January 2012; unofficial, small opposition movements exist abroad<br>
+<strong>note:</strong> all parties support President BERDIMUHAMEDOV; unofficial, small opposition movements exist abroad<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Meret ORAZOV (since 14 February 2001)<br>
@@ -379,11 +379,10 @@ Akhal-Teke horse<br>
 **National color(s)**<br>
 green, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Garaşsyz, Bitarap T&uuml;rkmenistanyň" (Independent, Neutral, Turkmenistan State Anthem)<br>
 _lyrics/music_: collective/Veli MUKHATOV<br>
 _history_: adopted 1997; lyrics revised in 2008 to eliminate references to deceased President Saparmurat NYYAZOW<br>
-<strong>note:</strong> adopted 1997; lyrics revised in 2008 to eliminate references to deceased President Saparmurat NYYAZOW<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (4 cultural, 1 natural)<br>

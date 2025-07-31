@@ -24,7 +24,7 @@ _land_: 606 sq km<br>
 _water_: 10 sq km<br>
 
 **Area - comparative**<br>
-three and a half times the size of Washington, D.C.<br>
+3.5 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -66,7 +66,7 @@ _other_: 49.7% (2022 est.)<br>
 most of the population is found on the periphery of the island, with a larger concentration in the north around the capital of Castries<br>
 
 **Natural hazards**<br>
-<p>hurricanes</p><p><strong>volcanism:</strong> Mount Gimie (948 m), also known as Qualibou, is a caldera on the west of the island; the iconic twin pyramidal peaks of Gros Piton (771 m) and Petit Piton (743 m) are lava dome remnants associated with the Soufriere volcano; there have been no historical magmatic eruptions, but a minor steam eruption in 1766 spread a thin layer of ash over a wide area; Saint Lucia is part of the volcanic island arc of the Lesser Antilles that extends from Saba in the north to Grenada in the south</p><br>
+hurricanes <br><br><strong>volcanism:</strong> Mount Gimie (948 m), also known as Qualibou, is a caldera on the west of the island; the iconic twin pyramidal peaks of Gros Piton (771 m) and Petit Piton (743 m) are lava-dome remnants associated with the Soufrière volcano; there have been no historical magmatic eruptions, but a minor steam eruption in 1766 spread a thin layer of ash over a wide area; Saint Lucia is part of the volcanic-island arc of the Lesser Antilles that extends from Saba in the north to Grenada in the south<br>
 
 **Geography - note**<br>
 the twin Pitons (Gros Piton and Petit Piton), striking cone-shaped peaks south of Soufri&egrave;re, are one of the scenic natural highlights of the Caribbean<br>
@@ -357,11 +357,10 @@ twin pitons (volcanic peaks), Saint Lucia parrot<br>
 **National color(s)**<br>
 cerulean blue, gold, black, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Sons and Daughters of St. Lucia"<br>
 _lyrics/music_: Charles JESSE/Leton Felix THOMAS<br>
 _history_: adopted 1967<br>
-<strong>note:</strong> adopted 1967<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (natural)<br>

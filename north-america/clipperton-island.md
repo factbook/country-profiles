@@ -24,7 +24,7 @@ _land_: 6 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-about 12 times the size of The Mall in Washington, D.C.<br>
+about 12 times the size of the National Mall in Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>

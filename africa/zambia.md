@@ -373,11 +373,10 @@ African fish eagle<br>
 **National color(s)**<br>
 green, red, black, orange<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Lumbanyeni Zambia" (Stand and Sing of Zambia, Proud and Free)<br>
 _lyrics/music_: multiple/Enoch Mankayi SONTONGA<br>
 _history_: adopted 1964; the melody, which comes from the popular song "God Bless Africa," is the same as Tanzania's anthem, but with different lyrics; the melody is also incorporated into South Africa's anthem<br>
-<strong>note:</strong> adopted 1964; the melody, which comes from the popular song "God Bless Africa," is the same as Tanzania's anthem, but with different lyrics; the melody is also incorporated into South Africa's anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (natural)<br>

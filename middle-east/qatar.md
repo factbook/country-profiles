@@ -359,11 +359,10 @@ a white serrated band with nine white points on top of a maroon field<br>
 **National color(s)**<br>
 maroon, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Al-Salam Al-Amiri" (The Amiri Salute)<br>
 _lyrics/music_: Sheikh MUBARAK bin Saif al-Thani/Abdul Aziz Nasser OBAIDAN<br>
 _history_: adopted 1996; anthem first performed that year at a meeting of the Gulf Cooperative Council<br>
-<strong>note:</strong> adopted 1996; anthem first performed that year at a meeting of the Gulf Cooperative Council<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -627,7 +626,7 @@ conscription for men aged 18-35 introduced in 2013; compulsory service times ran
 <strong>note:</strong> the military incorporates about 2,000 conscripts annually and recruits foreign contract soldiers to overcome manpower limitations<br>
 
 **Military - note**<br>
-Qatar's military is a small and well-equipped force that is responsible for defense against external threats; following the downturn in ties with Bahrain, Egypt, Saudi Arabia, and the UAE in the mid-2010s, the Qatari Government embarked on an arms acquisition and modernization program to increase the military's capabilities and regional standing; the Air Force's inventory of combat aircraft, for example, grew from 12 older models in 2017 to more than 60 modern multirole fighter aircraft from Europe and the US by the 2020s; it is slated to further increase to about 100 such aircraft; other aircraft acquisitions have included US attack helicopters; the Land Force has re-equipped its armored, mechanized, and artillery units with modern tanks, armored vehicles, and self-propelled artillery, mostly with purchases from Germany and Turkey; meanwhile, the Navy over the same period has received several corvettes and offshore patrol vessels from Italy and Turkey<br><br>Qatar hosts the regional headquarters for the US Central Command (CENTCOM; established 1983) and several thousand US military forces at various military facilities, including the Al Udeid Air Base; it has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; Qatar also has close security ties with Turkey and hosts Turkish military forces at two bases established in 2014 and 2019; the Qatari military is part of the Peninsula Shield Forces, a joint military force established by the Gulf Cooperation Council (GCC) countries with the aim of maintaining security and stability in the region (2024)<br>
+Qatar's military is responsible for territorial defense and maritime security; the military is in the midst of a large equipment acquisition program designed to enhance its capabilities and Qatar's regional standing; Qatar has military ties with a variety of countries, including France, the UK, the US, Turkey, and member countries of the Gulf Cooperation Council (GCC); it hosts the regional headquarters for the US Central Command (CENTCOM; established 1983) and several thousand US military forces at various military facilities, including the Al Udeid Air Base; Qatar has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; Qatar also hosts Turkish military forces at two bases established in 2014 and 2019; the Qatari military is part of the Peninsula Shield Forces, a joint military force established by the GCC countries with the aim of maintaining security and stability in the region (2025)<br>
 
 ## Terrorism
 

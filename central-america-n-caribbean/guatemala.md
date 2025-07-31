@@ -70,7 +70,7 @@ _fresh water lake(s)_: Lago de Izabal - 590 sq km<br>
 the vast majority of the populace resides in the southern half of the country, particularly in the mountainous regions; more than half of the population lives in rural areas<br>
 
 **Natural hazards**<br>
-<p>numerous volcanoes in mountains, with occasional violent earthquakes; Caribbean coast extremely susceptible to hurricanes and other tropical storms</p><p><strong>volcanism:</strong> significant volcanic activity in the Sierra Madre range; Santa Maria (3,772 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Pacaya (2,552 m), which erupted in May 2010 causing an ashfall on Guatemala City and prompting evacuations, is one of the country's most active volcanoes with frequent eruptions since 1965; other historically active volcanoes include Acatenango, Almolonga, Atitlan, Fuego, and Tacana; see note 2 under "Geography - note"</p><br>
+numerous volcanoes in mountains, with occasional violent earthquakes; Caribbean coast extremely susceptible to hurricanes and other tropical storms <br><br><strong>volcanism:</strong> significant volcanic activity in the Sierra Madre range; Santa Maria (3,772 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Pacaya (2,552 m) is one of the country's most active volcanoes, with frequent eruptions since 1965; other historically active volcanoes include Acatenango, Almolonga, Atitlan, Fuego, and Tacana; see note 2 under "Geography - note"<br>
 
 **Geography - note**<br>
 <p><strong>note 1:</strong> despite having both eastern and western coastlines (Caribbean Sea and Pacific Ocean), there are no natural harbors on the west coast</p> <p><strong>note 2:</strong> Guatemala is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p><br>
@@ -312,7 +312,8 @@ _dual citizenship recognized_: yes<br>
 _residency requirement for naturalization_: 5 years with no absences of six consecutive months or longer or absences totaling more than a year<br>
 
 **Suffrage**<br>
-18 years of age; universal; note - active duty members of the armed forces and police by law cannot vote and are restricted to their barracks on election day<br>
+18 years of age; universal<br>
+<strong>note:</strong> active-duty members of the armed forces and police by law cannot vote and are restricted to their barracks on election day<br>
 
 **Executive branch**<br>
 _chief of state_: President Bernardo AR&Eacute;VALO de Le&oacute;n (since 15 January 2024)<br>
@@ -381,11 +382,10 @@ quetzal (bird)<br>
 **National color(s)**<br>
 blue, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Himno Nacional de Guatemala" (National Anthem of Guatemala)<br>
 _lyrics/music_: Jose Joaquin PALMA/Rafael Alvarez OVALLE<br>
 _history_: adopted 1897, modified lyrics adopted 1934; Cuban poet Jose Joaquin PALMA anonymously submitted lyrics to a public contest calling for a national anthem; his authorship was not discovered until 1911<br>
-<strong>note:</strong> adopted 1897, modified lyrics adopted 1934; Cuban poet Jose Joaquin PALMA anonymously submitted lyrics to a public contest calling for a national anthem; his authorship was not discovered until 1911<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (3 cultural, 1 mixed)<br>

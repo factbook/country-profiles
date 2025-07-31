@@ -64,7 +64,7 @@ _other_: 24.4% (2022 est.)<br>
 approximately one third of the population is found in the capital of St. George's; the island's population is concentrated along the coast<br>
 
 **Natural hazards**<br>
-<p>lies on edge of hurricane belt; hurricane season lasts from June to November</p><p><strong>volcanism:</strong> Mount Saint Catherine (840 m) lies on the island of Grenada; Kick 'em Jenny, an active submarine volcano (seamount) on the Caribbean Sea floor, lies about 8 km north of the island of Grenada; these two volcanoes are at the southern end of the volcanic island arc of the Lesser Antilles that extends up to the Netherlands dependency of Saba in the north</p><br>
+lies on edge of hurricane belt; hurricane season lasts from June to November <br><br><strong>volcanism:</strong> Mount Saint Catherine (840 m) is on the island of Grenada; Kick 'em Jenny, an active submarine volcano (seamount) on the Caribbean Sea floor, lies about 8 km (5 mi) north of Grenada; these two volcanoes are at the southern end of the volcanic island arc of the Lesser Antilles that extends to the Dutch dependency of Saba in the north<br>
 
 ## People and Society
 
@@ -351,11 +351,10 @@ red, yellow, green<br>
 **National coat of arms**<br>
 Grenada’s coat of arms shows Grand Etang Lake, a crater lake on the volcano that formed Grenada; in the center of the shield is Christopher Columbus’s ship, the <em>Santa Maria</em>, which landed on the island in 1498; the gold cross dividing the shield, the two Madonna lilies, and the national motto signal the importance of religion; two lions symbolize past UK rule (1762-1974), as well as Grenada’s current status as a Commonwealth country; the corn stalk and banana plant represent agriculture; the armadillo and Grenada dove next to the shield are native to the island, and the roses in the bougainvillea flower garland represent Grenada’s seven communities<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 _history_: royal anthem, as a Commonwealth country<br>
-<strong>note:</strong> adopted 1974; in addition to the national anthem, "God Save the King" serves as the royal anthem for the Commonwealth country (see United Kingdom)<br>
 
 ## Economy
 

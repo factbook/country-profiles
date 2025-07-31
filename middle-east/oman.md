@@ -304,7 +304,8 @@ _dual citizenship recognized_: no<br>
 _residency requirement for naturalization_: unknown<br>
 
 **Suffrage**<br>
-21 years of age; universal; note - members of the military and security forces by law cannot vote<br>
+21 years of age; universal<br>
+<strong>note:</strong> members of the military and security forces by law cannot vote<br>
 
 **Executive branch**<br>
 _chief of state_: Sultan and Prime Minister HAITHAM bin Tarik Al Said (since 11 January 2020)<br>
@@ -341,7 +342,7 @@ _judge selection and term of office_: judges nominated by the 9-member Supreme J
 _subordinate courts_: Courts of Appeal; Administrative Court; Courts of First Instance; sharia courts; magistrates' courts; military courts<br>
 
 **Political parties**<br>
-none; note - organized political parties are legally banned in Oman, and loyalties tend to form around tribal affiliations<br>
+<strong>note:</strong> organized political parties are banned in Oman, and loyalties tend to form around tribal affiliations<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador-designate Talal bin Sulaiman bin Habib AL RAHBI (since 17 March 2025)<br>
@@ -365,7 +366,8 @@ ABEDA, AFESD, AMF, CAEU, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (NGOs), IDA, IDB,
 1650 (expulsion of the Portuguese)<br>
 
 **National holiday**<br>
-National Day, 18 November; note - celebrates Oman's independence from Portugal in 1650 and the birthday of Sultan QABOOS bin Said al Said, who reigned from 1970 to 2020<br>
+National Day, 18 November<br>
+<strong>note:</strong> celebrates Oman's independence from Portugal in 1650 and the birthday of Sultan QABOOS bin Said al Said, who reigned from 1970 to 2020<br>
 
 **Flag description**<br>
 three equal horizontal bands of white (top), red, and green, with a vertical red band on the hoist side; the national emblem (a <em>khanjar</em> dagger in its sheath on top of crossed swords in scabbards) in white is centered near the top of the vertical band; white stands for peace and prosperity, red for battles against foreign invaders, and green for the Jebel al Akhdar (Green Mountains) and fertility<br>
@@ -376,11 +378,10 @@ khanjar dagger on top of two crossed swords<br>
 **National color(s)**<br>
 red, white, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Nashid as-Salaam as-Sultani" (The Sultan's Anthem)<br>
 _lyrics/music_: Rashid bin Uzayyiz al KHUSAIDI/James Frederick MILLS, arranged by Bernard EBBINGHAUS<br>
 _history_: adopted 1932; new lyrics written after QABOOS bin Said al Said came to power in 1970; first performed by the band of the HMS Hawkins as a salute to the Sultan during a 1932 visit to Muscat; the ship's bandmaster did the arrangement<br>
-<strong>note:</strong> adopted 1932; new lyrics written after QABOOS bin Said al Said came to power in 1970; first performed by the band of the HMS Hawkins as a salute to the Sultan during a 1932 visit to Muscat; the ship's bandmaster did the arrangement<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (all cultural)<br>

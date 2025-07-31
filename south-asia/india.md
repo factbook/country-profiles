@@ -80,7 +80,7 @@ Indus-Ganges-Brahmaputra Basin<br>
 a very high population density exists throughout most of the country, with the notable exception of the deserts in the northwest and the mountain fringe in the north; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations<br>
 
 **Natural hazards**<br>
-<p>droughts; flash floods, as well as widespread and destructive flooding from monsoonal rains; severe thunderstorms; earthquakes</p><p><strong>volcanism:</strong> Barren Island (354 m) in the Andaman Sea has been active in recent years</p><br>
+droughts; flash floods, as well as widespread and destructive flooding from monsoonal rains; severe thunderstorms; earthquakes <br><br><strong>volcanism:</strong> Barren Island (354 m) in the Andaman Sea has been active in recent years<br>
 
 **Geography - note**<br>
 dominates South Asian subcontinent; near important Indian Ocean trade routes; Kanchenjunga, third tallest mountain in the world, lies on the border with Nepal<br>
@@ -405,11 +405,10 @@ the Lion Capital of Ashoka, which depicts four Asiatic lions standing back-to-ba
 **National color(s)**<br>
 saffron, white, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Jana-Gana-Mana" (Thou Art the Ruler of the Minds of All People)<br>
 _lyrics/music_: Rabindranath TAGORE<br>
 _history_: adopted 1950; Rabindranath TAGORE, a Nobel laureate, also wrote Bangladesh's national anthem<br>
-<strong>note:</strong> adopted 1950; Rabindranath TAGORE, a Nobel laureate, also wrote Bangladesh's national anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 43 (35 cultural, 7 natural, 1 mixed)<br>

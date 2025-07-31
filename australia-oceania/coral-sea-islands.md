@@ -5,7 +5,7 @@ _Australia-Oceania / Dependencies (Australia)_
 ## Introduction
 
 **Background**<br>
-<p>The widely scattered Coral Sea Islands were first charted in 1803, but they were too small to host permanent human habitation. The 1870s and 1880s saw attempts at guano mining, but these were soon abandoned. The islands became an Australian territory in 1969, and the boundaries were extended in 1997. A small meteorological staff has operated on the Willis Islets since 1921, and several other islands host unmanned weather stations, beacons, and lighthouses. Much of the territory lies within national marine nature reserves.</p> <p style="margin: 0in; margin-bottom: .0001pt; line-height: 18.0pt; background: white;"> </p><br>
+The widely scattered Coral Sea Islands were first charted in 1803, but they were too small to host permanent human habitation. The 1870s and 1880s saw attempts at guano mining, but these were soon abandoned. The islands became an Australian territory in 1969, and the boundaries were extended in 1997. A small meteorological staff has operated on the Willis Islets since 1921, and several other islands host unmanned weather stations, beacons, and lighthouses. Much of the territory lies within national marine nature reserves.<br>
 
 ## Geography
 
@@ -22,7 +22,7 @@ Oceania<br>
 _total _: 3 sq km less than<br>
 _land_: 3 sq km less than<br>
 _water_: 0 sq km<br>
-<strong>note:</strong> includes numerous small islands and reefs scattered over a sea area of about 780,000 sq km (300,000 sq mi) with the Willis Islets the most important<br>
+<strong>note:</strong> includes numerous small islands and reefs scattered over a sea area of about 780,000 sq km (300,000 sq mi), with the Willis Islets the most important<br>
 
 **Area - comparative**<br>
 about four times the size of the National Mall in Washington, D.C.<br>

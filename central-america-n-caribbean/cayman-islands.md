@@ -287,11 +287,10 @@ green sea turtle<br>
 **National coat of arms**<br>
 the Queen of England approved the Cayman Islands' coat of arms -- which was designed with input from the public -- in 1958; the shield features the<em> </em>lion of England and three green stars that symbolize the three islands of Grand Cayman, Cayman Brac, and Little Cayman; the green turtle stands for the islands’ seafaring history, the rope under it for the thatch-rope industry, and the pineapple for historical ties with Jamaica; the motto comes from Psalms 24, acknowledging the Caymans’ Christian heritage<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 _history_: official anthem, as an overseas UK territory<br>
-<strong>note:</strong> adopted 1993; served as an unofficial anthem since 1930; in addition to the local anthem, "God Save the King" is the  official anthem for the Caymans, as an overseas territory of the United Kingdom (see United Kingdom)<br>
 
 ## Economy
 

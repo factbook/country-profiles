@@ -379,11 +379,10 @@ black star, golden eagle<br>
 **National color(s)**<br>
 red, yellow, green, black<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Bless Our Homeland Ghana"<br>
 _lyrics/music_: unknown/Philip GBEHO<br>
 _history_: music adopted 1957, lyrics adopted 1966; the lyrics were changed twice, in 1960 when a republic was declared and after a 1966 coup<br>
-<strong>note:</strong> music adopted 1957, lyrics adopted 1966; the lyrics were changed twice, in 1960 when a republic was declared and after a 1966 coup<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>

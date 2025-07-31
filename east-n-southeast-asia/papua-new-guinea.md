@@ -71,7 +71,7 @@ Sepik river source and mouth (shared with Indonesia) - 1,126 km; Fly river sourc
 population concentrated in the highlands and eastern coastal areas on the island of New Guinea; predominantly a rural distribution with only about one fifth of the population residing in urban areas<br>
 
 **Natural hazards**<br>
-<p>active volcanism; the country is subject to frequent and sometimes severe earthquakes; mud slides; tsunamis</p><p><strong>volcanism:</strong> severe volcanic activity; Ulawun (2,334 m), one of Papua New Guinea's potentially most dangerous volcanoes, has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Rabaul (688 m) destroyed the city of Rabaul in 1937 and 1994; Lamington erupted in 1951 killing 3,000 people; Manam's 2004 eruption forced the island's abandonment; other historically active volcanoes include Bam, Bagana, Garbuna, Karkar, Langila, Lolobau, Long Island, Pago, St. Andrew Strait, Victory, and Waiowa; see note 2 under "Geography - note"</p><br>
+active volcanism; frequent and sometimes severe earthquakes; mud slides; tsunamis <br><br><strong>volcanism:</strong> severe volcanic activity; Ulawun (2,334 m), one of Papua New Guinea's potentially most dangerous volcanoes, has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Rabaul (688 m) destroyed the city of Rabaul in 1937 and 1994; Lamington erupted in 1951, killing 3,000 people; Manam's 2004 eruption forced the island's abandonment; other historically active volcanoes include Bam, Bagana, Garbuna, Karkar, Langila, Lolobau, Long Island, Pago, St. Andrew Strait, Victory, and Waiowa; see note 2 under "Geography - note"<br>
 
 **Geography - note**<br>
 <p><strong>note 1:</strong> shares island of New Guinea with Indonesia; highlands that trend from east to west break up New Guinea into diverse ecoregions; one of world's largest swamps lies along the southwest coast</p> <p><strong>note 2:</strong> Papua New Guinea is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p><br>
@@ -373,11 +373,10 @@ bird of paradise<br>
 **National color(s)**<br>
 red, black<br>
 
-**National anthem**<br>
-_title_: "O Arise All You Sons"<br>
+**National anthem(s)**<br>
+_title_: "O Arise, All You Sons"<br>
 _lyrics/music_: Thomas SHACKLADY<br>
 _history_: adopted 1975<br>
-<strong>note:</strong> adopted 1975<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

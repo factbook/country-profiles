@@ -330,11 +330,10 @@ frigatebird, calophyllum flower<br>
 **National color(s)**<br>
 blue, yellow, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Nauru Bwiema" (Song of Nauru)<br>
 _lyrics/music_: Margaret HENDRIE/Laurence Henry HICKS<br>
 _history_: adopted 1968<br>
-<strong>note:</strong> adopted 1968<br>
 
 ## Economy
 

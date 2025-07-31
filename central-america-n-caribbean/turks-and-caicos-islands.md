@@ -286,20 +286,16 @@ Caricom (associate), CDB, Interpol (subbureau), UPU<br>
 **Independence**<br>
 none (overseas territory of the UK)<br>
 
-**National holiday**<br>
-Birthday of Queen ELIZABETH II, usually celebrated the Monday after the second Saturday in June<br>
-
 **Flag description**<br>
 blue with the UK flag in the upper hoist-side quadrant and the colonial shield centered on the outer half of the flag; the shield is yellow and displays a conch shell, a spiny lobster, and Turk's cap cactus<br>
 
 **National symbol(s)**<br>
 conch shell, Turk's cap cactus<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 _history_: official anthem, as a UK overseas territory<br>
-<strong>note:</strong> serves as a local anthem; as an overseas territory of the UK, "God Save the King" is the official anthem (see United Kingdom)<br>
 
 ## Economy
 

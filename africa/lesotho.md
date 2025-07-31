@@ -384,11 +384,10 @@ mokorotio (Basotho hat)<br>
 **National color(s)**<br>
 blue, white, green, black<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Lesotho fatse la bo ntat'a rona" (Lesotho, Land of Our Fathers)<br>
 _lyrics/music_: Francois COILLARD/Ferdinand-Samuel LAUR<br>
 _history_: adopted 1967; music derives from an 1823 Swiss songbook<br>
-<strong>note:</strong> adopted 1967; music derives from an 1823 Swiss songbook<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (mixed)<br>

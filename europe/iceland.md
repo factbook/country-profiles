@@ -66,7 +66,7 @@ _other_: 80.9% (2022 est.)<br>
 Iceland is almost entirely urban, with half of the population located in and around the capital of Reykjavik; smaller clusters are primarily found along the coast in the north and west<br>
 
 **Natural hazards**<br>
-<p>earthquakes and volcanic activity</p><p><strong>volcanism:</strong> Iceland, situated on top of a hotspot, experiences severe volcanic activity; Eyjafjallajokull (1,666 m) erupted in 2010, sending ash high into the atmosphere and seriously disrupting European air traffic; scientists continue to monitor nearby Katla (1,512 m), which has a high probability of eruption in the very near future, potentially disrupting air traffic; Grimsvoetn and Hekla are Iceland's most active volcanoes; other historically active volcanoes include Askja, Bardarbunga, Brennisteinsfjoll, Esjufjoll, Hengill, Krafla, Krisuvik, Kverkfjoll, Oraefajokull, Reykjanes, Torfajokull, and Vestmannaeyjar</p><br>
+earthquakes and volcanic activity <br><br><strong>volcanism:</strong> Iceland is situated on top of a hotspot and experiences severe volcanic activity; Eyjafjallajokull (1,666 m) erupted in 2010, sending ash high into the atmosphere and seriously disrupting European air traffic; scientists continue to monitor nearby Katla (1,512 m), which has a high probability of eruption; Grimsvoetn and Hekla are Iceland's most active volcanoes; other historically active volcanoes include Askja, Bardarbunga, Brennisteinsfjoll, Esjufjoll, Hengill, Krafla, Krisuvik, Kverkfjoll, Oraefajokull, Reykjanes, Torfajokull, and Vestmannaeyjar<br>
 
 **Geography - note**<br>
 strategic location between Greenland and Europe; westernmost European country; Reykjavik is the northernmost national capital in the world; more land covered by glaciers than in all of continental Europe<br>
@@ -328,7 +328,7 @@ _judge selection and term of office_: judges proposed by Ministry of Interior se
 _subordinate courts_: Appellate Court or Landsrettur; 8 district courts; Labor Court<br>
 
 **Political parties**<br>
-<p>Center Party (Midflokkurinn) or CP <br>Independence Party (Sjalfstaedisflokkurinn) or IP <br>Left-Green Movement (Vinstrihreyfingin-graent frambod) or LGM <br>Liberal Reform Party (Vidreisn) <br>People's Party (Flokkur Folksins) <br>Pirate Party (Piratar) <br>Progressive Party (Framsoknarflokkurinn) or PP <br>Social Democratic Alliance (Samfylkingin) or SDA </p><br>
+Center Party (Midflokkurinn) or CP <br>Independence Party (Sjalfstaedisflokkurinn) or IP <br>Left-Green Movement (Vinstrihreyfingin-graent frambod) or LGM <br>Liberal Reform Party (Vidreisn) <br>People's Party (Flokkur Folksins) <br>Pirate Party (Piratar) <br>Progressive Party (Framsoknarflokkurinn) or PP <br>Social Democratic Alliance (Samfylkingin) or SDA<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Svanhildur H&oacute;lm VALSD&Oacute;TTIR (since 18 September 2024)<br>
@@ -363,11 +363,10 @@ gyrfalcon<br>
 **National color(s)**<br>
 blue, white, red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Lofsongur" (Song of Praise)<br>
 _lyrics/music_: Matthias JOCHUMSSON/Sveinbjorn SVEINBJORNSSON<br>
 _history_: adopted 1944; also known as "O, Gud vors lands" (O God of Our Land), the anthem was originally written and performed in 1874<br>
-<strong>note:</strong> adopted 1944; also known as "O, Gud vors lands" (O, God of Our Land), the anthem was originally written and performed in 1874<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (1 cultural, 2 natural)<br>

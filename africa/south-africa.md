@@ -79,7 +79,7 @@ Karoo Basin, Lower Kalahari-Stampriet Basin<br>
 the population is concentrated along the southern and southeastern coast, and inland around Pretoria; the eastern half of the country is more densely populated than the west, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
-<p>prolonged droughts</p><p><strong>volcanism:</strong> the volcano forming Marion Island in the Prince Edward Islands, which last erupted in 2004, is South Africa's only active volcano</p><br>
+prolonged droughts <br><br><strong>volcanism:</strong> the volcano that formed Marion Island in the Prince Edward Islands is South Africa's only active volcano<br>
 
 **Geography - note**<br>
 <strong>note 1:</strong> South Africa completely surrounds Lesotho and almost completely surrounds Eswatini<br><br><strong>note 2:</strong> sometimes mistaken for the southernmost point of Africa, the Cape of Good Hope is more accurately described as the southwestern-most point of the African continent; Cape Agulhas, the meeting point of the Atlantic and Indian Oceans, is the southernmost point of the African continent<br>
@@ -362,7 +362,7 @@ _subordinate courts_: High Courts; Magistrates' Courts; labor courts; land claim
 African Christian Democratic Party or ACDP <br>African Independent Congress or AIC <br>African National Congress or ANC <br>African People's Convention or APC <br>Agang SA <br>Congress of the People or COPE <br>Democratic Alliance or DA <br>Economic Freedom Fighters or EFF <br>Freedom Front Plus or FF+ <br>GOOD <br>Inkatha Freedom Party or IFP <br>National Freedom Party or NFP <br>Pan-Africanist Congress of Azania or PAC <br>United Christian Democratic Party or UCDP <br>United Democratic Movement or UDM <br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Ismail ESAU (since 18 March 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Ismail ESAU (since 17 March 2025)<br>
 _chancery_: 3051 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (240) 937-5760<br>
 _FAX_: [1] (202) 265-1607<br>
@@ -397,15 +397,14 @@ springbok (antelope), king protea flower<br>
 **National color(s)**<br>
 red, green, blue, yellow, black, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "National Anthem of South Africa"<br>
 _lyrics/music_: Enoch SONTONGA and Cornelius Jacob LANGENHOVEN/Enoch SONTONGA and Marthinus LOURENS de Villiers<br>
 _history_: adopted 1994; a combination of "N'kosi Sikelel' iAfrica" (God Bless Africa) and "Die Stem van Suid Afrika" (The Call of South Africa), which were respectively the anthems of the non-white and white communities under apartheid; official lyrics contain a mixture of Xhosa, Zulu, Sesotho, Afrikaans, and English (the five most widely spoken of South Africa's 11 official languages); music incorporates the melody used in the Tanzanian and Zambian anthems<br>
-<strong>note:</strong> adopted 1994; a combination of "N'kosi Sikelel' iAfrica" (God Bless Africa) and "Die Stem van Suid Afrika" (The Call of South Africa), which were respectively the anthems of the non-white and white communities under apartheid; official lyrics contain a mixture of Xhosa, Zulu, Sesotho, Afrikaans, and English (the five most widely spoken of South Africa's 11 official languages); music incorporates the melody used in the Tanzanian and Zambian anthems<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 12 (7 cultural, 4 natural, 1 mixed)<br>
-_selected World Heritage Site locales_: <p>Fossil Hominid Sites of South Africa (c); iSimangaliso Wetland Park (n); Robben Island (c); Maloti-Drakensberg Park (m); Mapungubwe Cultural Landscape (c); Cape Floral Region Protected Areas (n); Vredefort Dome (n); Richtersveld Cultural and Botanical Landscape (c); Khomani Cultural Landscape (c); Barberton Makhonjwa Mountains (n); Human Rights, Liberation and Reconciliation: Nelson Mandela Legacy Sites (c); The Emergence of Modern Human Behaviour: The Pleistocene Occupation Sites of South Africa (c)</p><br>
+_selected World Heritage Site locales_: Fossil Hominid Sites of South Africa (c); iSimangaliso Wetland Park (n); Robben Island (c); Maloti-Drakensberg Park (m); Mapungubwe Cultural Landscape (c); Cape Floral Region Protected Areas (n); Vredefort Dome (n); Richtersveld Cultural and Botanical Landscape (c); Khomani Cultural Landscape (c); Barberton Makhonjwa Mountains (n); Human Rights, Liberation and Reconciliation: Nelson Mandela Legacy Sites (c); The Emergence of Modern Human Behaviour: The Pleistocene Occupation Sites of South Africa (c)<br>
 
 ## Economy
 

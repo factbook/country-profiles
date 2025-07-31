@@ -66,7 +66,7 @@ _other_: 8.9% (2022 est.)<br>
 most of the population is concentrated in and around the capital of Kingstown<br>
 
 **Natural hazards**<br>
-<p>hurricanes; La Soufriere volcano on the island of Saint Vincent is a constant threat</p><p><strong>volcanism:</strong> La Soufriere (1,234 m) on the island of Saint Vincent last erupted in 1979; the island of Saint Vincent is part of the volcanic island arc of the Lesser Antilles that extends from Saba in the north to Grenada in the south</p><br>
+hurricanes; La Soufrière volcano on the island of Saint Vincent is a constant threat<br><br><strong>volcanism:</strong> La Soufrière (1,234 m) last erupted in 1979; the island of Saint Vincent is part of the volcanic-island arc of the Lesser Antilles that extends from Saba in the north to Grenada in the south<br>
 
 **Geography - note**<br>
 the administration of the islands of the Grenadines group is divided between Saint Vincent and the Grenadines and Grenada; Saint Vincent and the Grenadines is composed of 32 islands and cays<br>
@@ -334,11 +334,10 @@ Saint Vincent parrot<br>
 **National color(s)**<br>
 blue, gold, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "St. Vincent! Land So Beautiful!"<br>
 _lyrics/music_: Phyllis Joyce MCCLEAN PUNNETT/Joel Bertram MIGUEL<br>
 _history_: adopted 1967<br>
-<strong>note:</strong> adopted 1967<br>
 
 ## Economy
 

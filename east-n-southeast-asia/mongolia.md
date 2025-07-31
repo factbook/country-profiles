@@ -370,7 +370,8 @@ ADB, ARF, CD, CICA, CP, EBRD, EITI (compliant country), FAO, G-77, IAEA, IBRD, I
 29 December 1911 (independence declared from China; in actuality, autonomy attained); 11 July 1921 (from China)<br>
 
 **National holiday**<br>
-Naadam (games) holiday (commemorates independence from China in the 1921 Revolution), 11-15 July; Constitution Day (marks the date that the Mongolian People's Republic was created under a new constitution), 26 November (1924)<br>
+Naadam (games) holiday, 11-15 July; Constitution Day, 26 November (1924)<br>
+<strong>note: </strong>the first holiday commemorates independence from China in the 1921 Revolution, and the second marks the date that the Mongolian People's Republic was created under a new constitution<br><br>
 
 **Flag description**<br>
 three equal vertical bands of red (hoist side), blue, and red; centered on the hoist-side red band in yellow is the national emblem, the <em>soyombo,</em> which is an abstract geometric representation of fire, sun, moon, earth, water, and the yin-yang symbol; blue stands for the sky, and red for progress and prosperity<br>
@@ -381,11 +382,10 @@ Soyombo character (from the Soyombo writing system)<br>
 **National color(s)**<br>
 red, blue, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Mongol ulsyn toriin duulal" (National Anthem of Mongolia)<br>
 _lyrics/music_: Tsendiin DAMDINSUREN/Bilegiin DAMDINSUREN and Luvsanjamts MURJORJ<br>
 _history_: music adopted 1950, lyrics adopted 2006; lyrics altered on numerous occasions<br>
-<strong>note:</strong> music adopted 1950, lyrics adopted 2006; lyrics altered on numerous occasions<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 6 (4 cultural, 2 natural)<br>

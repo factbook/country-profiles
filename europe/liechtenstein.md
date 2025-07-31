@@ -315,7 +315,8 @@ CD, CE, EBRD, EFTA, IAEA, ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITSO, ITU, ITUC
 23 January 1719 (Principality of Liechtenstein established); 12 July 1806 (independence from the Holy Roman Empire); 24 August 1866 (independence from the German Confederation)<br>
 
 **National holiday**<br>
-National Day, 15 August (1940); note - a National Day was originally established in 1940 to combine celebrations for the Feast of the Assumption (15 August) with those honoring the birthday of former Prince FRANZ JOSEF II (1906-1989) whose birth fell on 16 August; after the prince's death, National Day became the official national holiday by law in 1990<br>
+National Day, 15 August (1940)<br>
+<strong>note:</strong> a National Day was originally established in 1940 to combine celebrations for the Feast of the Assumption (15 August) with those honoring the birthday of former Prince FRANZ JOSEF II (1906-1989) on 16 August; after the prince's death, National Day became the official national holiday in 1990<br>
 
 **Flag description**<br>
 two equal horizontal bands of blue (top) and red, with a gold crown on the hoist side of the blue band; the colors may derive from the blue-and-red livery used in the principality's household in the 18th century; the prince's crown was introduced in 1937 to distinguish it from Haiti's flag<br>
@@ -329,11 +330,10 @@ blue, red<br>
 **National coat of arms**<br>
 the six motifs on the coat of arms provide a history of the royal House of Liechtenstein since 1719, when the country was founded; the small shield at the center is the royal family&rsquo;s gold-and-red coat of arms, the gold-crowned eagle signifies the Silesia family, the diamond wreath represents the Kuenringer family, the red-and-silver shield is the Duchy of Troppau, the black eagle comes from the coat of arms of a family that married into the royal line, and the golden hunting horn represents the Duchy of J&auml;gerndorf<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Oben am jungen Rhein" (High Above the Young Rhine)<br>
 _lyrics/music_: Jakob Joseph JAUCH/Josef FROMMELT<br>
 _history_: adopted 1850, revised 1963; uses the tune of the United Kingdom's anthem, "God Save the King"<br>
-<strong>note:</strong> adopted 1850, revised 1963; uses the tune of the United Kingdom's anthem, "God Save the King"<br>
 
 ## Economy
 

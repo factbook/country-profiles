@@ -66,7 +66,7 @@ _other_: 5.6% (2022 est.)<br>
 most of the population lives along the coastal regions; about one in five live in urban areas, and of these about two thirds reside in Honiara, the largest town and chief port<br>
 
 **Natural hazards**<br>
-<p>tropical cyclones, but rarely destructive; geologically active region with frequent earthquakes, tremors, and volcanic activity; tsunamis</p><p><strong>volcanism:</strong> Tinakula (851 m) has frequent eruption activity, while an eruption of Savo (485 m) could affect the capital Honiara on nearby Guadalcanal</p><br>
+tropical cyclones, but rarely destructive; geologically active region with frequent earthquakes, tremors, and volcanic activity; tsunamis <br><br><strong>volcanism:</strong> Tinakula (851 m) has frequent eruption activity, and an eruption of Savo (485 m) could affect the capital Honiara on nearby Guadalcanal<br>
 
 **Geography - note**<br>
 strategic location on sea routes between the South Pacific Ocean, the Solomon Sea, and the Coral Sea; Rennell Island, the southernmost in the Solomon Islands chain, is one of the world&rsquo;s largest raised coral atolls; the island&rsquo;s Lake Tegano, formerly a lagoon on the atoll, is the largest lake in the insular Pacific (15,500 hectares; 38,300 acres)<br>
@@ -315,8 +315,8 @@ _judge selection and term of office_: Court of Appeal and High Court president, 
 _subordinate courts_: Magistrates' Courts; Customary Land Appeal Court; local courts<br>
 
 **Political parties**<br>
-Democratic Alliance Party or DAP <br>Kadere Party of Solomon Islands or KAD <br>Ownership, Unity, and Responsibility Party (OUR Party) <br>People First Party or PFP <br>Solomon Islands Democratic Party or SIDP <br>Solomon Islands Party for Rural Advancement or SIPRA <br>Solomon Islands United Party or SIUP <br>United for Change Party or U4C<br> <br>Coalition for Accountability Reform and Empowerment (CARE) is comprised of DAP, SIDP, and U4C<br>
-<strong>note:</strong> in general, Solomon Islands politics is characterized by fluid coalitions<br>
+Democratic Alliance Party or DAP <br>Kadere Party of Solomon Islands or KAD <br>Ownership, Unity, and Responsibility Party (OUR Party) <br>People First Party or PFP <br>Solomon Islands Democratic Party or SIDP <br>Solomon Islands Party for Rural Advancement or SIPRA <br>Solomon Islands United Party or SIUP <br>United for Change Party or U4C<br>Coalition for Accountability Reform and Empowerment (CARE) (includes DAP, SIDP, and U4C)<br>
+<strong>note:</strong> Solomon Islands politics is characterized by fluid coalitions<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jane Mugafalu Kabui WAETARA (since 16 September 2022); note - also Permanent Representative to the UN<br>
@@ -347,11 +347,10 @@ divided diagonally by a thin yellow stripe from the lower hoist-side corner; the
 **National color(s)**<br>
 blue, yellow, green, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save Our Solomon Islands"<br>
 _lyrics/music_: Panapasa BALEKANA and Matila BALEKANA/Panapasa BALEKANA<br>
 _history_: adopted 1978<br>
-<strong>note:</strong> adopted 1978<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (natural)<br>

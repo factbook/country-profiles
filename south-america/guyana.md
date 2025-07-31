@@ -381,11 +381,10 @@ red, yellow, green, black, white<br>
 **National coat of arms**<br>
 Guyana&rsquo;s coat of arms was adopted in 1966, the year of the country&rsquo;s independence from the United Kingdom; the jaguars signify strength and resilience, with one holding a pickaxe that stands for labor and the other holding stalks of rice and sugarcane for agriculture; two national symbols, the Canje pheasant and the Victorian lily, are on the shield, with the national motto underneath; three wavy blue lines stand for the Essequibo, Demerara, and Berbice rivers, the headdress for the country&rsquo;s ethnic groups, and the diamonds for the mining industry; the helmet is a symbol of past UK rule in Guyana<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Dear Land of Guyana, of Rivers and Plains"<br>
 _lyrics/music_: Archibald Leonard LUKERL/Robert Cyril Gladstone POTTER<br>
 _history_: adopted 1966<br>
-<strong>note:</strong> adopted 1966<br>
 
 ## Economy
 

@@ -381,11 +381,10 @@ scarlet macaw, white-tailed deer<br>
 **National color(s)**<br>
 blue, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Himno Nacional de Honduras" (National Anthem of Honduras)<br>
 _lyrics/music_: Augusto Constancio COELLO/Carlos HARTLING<br>
 _history_: adopted 1915; the anthem's seven verses chronicle Honduran history; on official occasions, only the chorus and last verse are sung<br>
-<strong>note:</strong> adopted 1915; the anthem's seven verses chronicle Honduran history; on official occasions, only the chorus and last verse are sung<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>

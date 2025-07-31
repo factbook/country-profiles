@@ -383,11 +383,10 @@ five-pointed star between the horns of a horizontal crescent moon<br>
 **National color(s)**<br>
 green, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Bilāda l-ʾubāti l-hudāti l-kirām" (Land of the Proud, Guided by Noblemen)<br>
 _lyrics/music_: unknown/traditional, Rageh DAOUD<br>
 _history_: adopted 28 November 2017<br>
-<strong>note:</strong> adopted 28 November 2017<br><br><br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>

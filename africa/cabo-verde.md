@@ -66,7 +66,7 @@ _other_: 68.9% (2022 est.)<br>
 among the nine inhabited islands, population distribution is variable; islands in the east are very dry and are only sparsely settled; the more southerly islands receive more precipitation and support larger populations; approximately half of the population lives on Sao Tiago Island, which is the location of the capital of Praia; Mindelo, on the northern island of Sao Vicente, also has a large urban population, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
-<p>prolonged droughts; seasonal harmattan wind produces obscuring dust; volcanically and seismically active</p><p><strong>volcanism:</strong> Fogo (2,829 m), which last erupted in 1995, is Cabo Verde's only active volcano</p><br>
+prolonged droughts; seasonal harmattan wind produces obscuring dust; volcanically and seismically active <br><br><strong>volcanism:</strong> Fogo (2,829 m), which last erupted in 1995, is Cabo Verde's only active volcano<br>
 
 **Geography - note**<br>
 strategic location 500 km from west coast of Africa near major north-south sea routes; one of four North Atlantic archipelagos that make up Macaronesia; the others are Azores (Portugal), Canary Islands (Spain), and Madeira (Portugal)<br>
@@ -364,11 +364,10 @@ ten five-pointed yellow stars<br>
 **National color(s)**<br>
 blue, white, red, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Cantico da Liberdade" (Song of Freedom)<br>
 _lyrics/music_: Amilcar Spencer LOPES/Adalberto Higino Tavares SILVA<br>
 _history_: adopted 1996<br>
-<strong>note:</strong> adopted 1996<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

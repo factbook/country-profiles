@@ -348,7 +348,7 @@ ACP, ADB, AOSIS, FAO, IAEA, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IM
 1 October 1994 (from the US-administered UN trusteeship)<br>
 
 **National holiday**<br>
-Constitution Day, 9 July (1981), day of a national referendum to pass the new constitution; Independence Day, 1 October (1994)<br>
+Constitution Day, 9 July (1981); Independence Day, 1 October (1994)<br>
 
 **Flag description**<br>
 light blue with a large yellow disk shifted slightly to the hoist side; blue stands for the ocean, and the disk for the moon, which is considered a symbol of peace, love, and tranquility<br>
@@ -359,11 +359,10 @@ bai (native meeting house)<br>
 **National color(s)**<br>
 blue, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Belau rekid" (Our Palau)<br>
 _lyrics/music_: multiple/Ymesei O. EZEKIEL<br>
 _history_: adopted 1980<br>
-<strong>note:</strong> adopted 1980<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (mixed)<br>

@@ -64,7 +64,7 @@ _other_: 45% (2022 est.)<br>
 only the northern half of the island is populated; the southern portion is uninhabitable due to volcanic activity<br>
 
 **Natural hazards**<br>
-<p>volcanic eruptions; severe hurricanes (June to November)</p><p><strong>volcanism:</strong> Soufriere Hills volcano (915 m), has erupted continuously since 1995; a massive eruption in 1997 destroyed most of the capital, Plymouth, and resulted in approximately half of the island becoming uninhabitable; the island of Montserrat is part of the volcanic island arc of the Lesser Antilles that extends from Saba in the north to Grenada in the south</p><br>
+volcanic eruptions; severe hurricanes (June to November) <br><br><strong>volcanism:</strong> Soufrière Hills volcano (915 m) has erupted continuously since 1995; a massive eruption in 1997 destroyed most of the capital, Plymouth, and made about half of the island uninhabitable; the island of Montserrat is part of the volcanic island arc of the Lesser Antilles that extends from Saba in the north to Grenada in the south<br>
 
 **Geography - note**<br>
 the island is entirely volcanic in origin and composed of three major volcanic centers of differing ages<br>
@@ -278,11 +278,10 @@ Birthday of Queen ELIZABETH II, usually celebrated the Monday after the second S
 **Flag description**<br>
 blue with the UK flag in the upper hoist-side quadrant and the Montserratian coat of arms centered in the outer half of the flag; the arms show a woman in a green dress (Erin, the female personification of Ireland) standing beside a yellow harp (a symbol of Ireland) and embracing a large dark cross with her right arm; blue represents awareness, trustworthiness, determination, and righteousness<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 _history_: official anthem, as a UK territory<br>
-<strong>note:</strong> "God Save the King" is the official anthem of Monserrat, as a UK territory (see United Kingdom)<br>
 
 ## Economy
 

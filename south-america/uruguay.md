@@ -399,11 +399,10 @@ Sun of May (a sun-with-face symbol)<br>
 **National color(s)**<br>
 blue, white, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Himno Nacional" (National Anthem of Uruguay)<br>
 _lyrics/music_: Francisco Esteban ACUNA de Figueroa/Francisco Jose DEBALI<br>
 _history_: adopted 1848; the anthem is also known as "Orientales, la Patria o la tumba!" ("Uruguayans, the Fatherland or Death!"); it is the world's longest national anthem in terms of music (105 bars; almost five minutes); usually only the first verse and chorus are sung<br>
-<strong>note:</strong> adopted 1848; the anthem is also known as "Orientales, la Patria o la tumba!" ("Uruguayans, the Fatherland or Death!"); it is the world's longest national anthem in terms of music (105 bars; almost five minutes); usually only the first verse and chorus are sung<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (all cultural)<br>

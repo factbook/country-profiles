@@ -402,15 +402,14 @@ golden eagle<br>
 **National color(s)**<br>
 blue, yellow, red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Desteapta-te romane!" (Wake up, Romanian!)<br>
 _lyrics/music_: Andrei MURESIANU/Anton PANN<br>
 _history_: adopted 1990; the anthem was written during the 1848 Revolution<br>
-<strong>note:</strong> adopted 1990; the anthem was written during the 1848 Revolution<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 11 (9 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: <p>Danube Delta (n); Churches of Moldavia (c); Monastery of Horezu (c); Villages with Fortified Churches in Transylvania (c); Dacian Fortresses of the Orastie Mountains (c); Historic Center of Sighişoara (c); Wooden Churches of Maramureş (c); Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe (n); Roșia Montană Mining Landscape (c); Brâncuși Monumental Ensemble of Târgu Jiu (c); Frontiers of the Roman Empire – Dacia (c)</p><br>
+_selected World Heritage Site locales_: Danube Delta (n); Churches of Moldavia (c); Monastery of Horezu (c); Villages with Fortified Churches in Transylvania (c); Dacian Fortresses of the Orastie Mountains (c); Historic Center of Sighişoara (c); Wooden Churches of Maramureş (c); Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe (n); Roșia Montană Mining Landscape (c); Br&acirc;ncuși Monumental Ensemble of T&acirc;rgu Jiu (c); Frontiers of the Roman Empire &ndash; Dacia (c)<br>
 
 ## Economy
 
@@ -687,10 +686,10 @@ Romanian Armed Forces (Forțele Armate Române or Armata Română): Romanian Lan
 2% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 68,000 active Armed Forces (53,000 Land Forces; 7,000 Naval Forces; 8,000 Air Force) (2024)<br>
+approximately 70,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a considerable amount of Soviet-era and older domestically produced weapons systems, although in recent years Romania has launched an effort to acquire more modern and NATO-standard equipment from European countries and the US, including aircraft and armored vehicles (2024)<br>
+the military's inventory includes a considerable amount of Soviet-era and older domestically produced weapons systems, although in recent years Romania has launched an effort to acquire more modern and NATO-standard equipment from European countries and the US, including aircraft and armored vehicles (2025)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary service for men and women; all military inductees contract for an initial 5-year term of service, with subsequent successive 3-year terms until age 36; conscription ended in 2006 (2023)<br>
@@ -699,7 +698,7 @@ the military's inventory includes a considerable amount of Soviet-era and older 
 up to 120 Poland (NATO); Romania also has small numbers of military personnel deployed on other international missions under the EU, NATO, and UN (2024)<br>
 
 **Military - note**<br>
-the Romanian Armed Forces are responsible for territorial defense, fulfilling the country's commitments to European security, and contributing to multinational peacekeeping operations; the military has a variety of concerns, including cyber attacks and terrorism, but its primary focus is Russian aggression against neighboring Ukraine and Russia's activities in the Black Sea and Romania’s other eastern neighbor, Moldova<br><br>Romania joined NATO in 2004, and the Alliance forms a key pillar of the country’s defense policy; it hosts a NATO multinational divisional headquarters (Multinational Division Southeast) and a French-led ground force battlegroup as part of NATO's Enhanced Forward Presence initiative in the southeastern part of the Alliance, which came about in response to Russia’s 2022 invasion of Ukraine; NATO allies have also sent detachments of fighters to augment the Romanian Air Force since 2014 because of aggressive Russian activity in the Black Sea region; the Romanian military trains regularly with NATO and its member states and has participated in NATO- and EU-led multinational missions in Bosnia and Herzegovina, Kosovo, and Poland (2024)<br>
+the Romanian Armed Forces are responsible for territorial defense, fulfilling the country's commitments to European security, and contributing to multinational peacekeeping operations; the military has a variety of concerns, including Russian aggression against Ukraine, Russia's activities in the Black Sea and in Moldova, cyber attacks, hybrid threats, and terrorism; a key focus for the military is equipment modernization<br><br>Romania joined NATO in 2004, and its membership forms a key pillar of the country’s defense policy; it hosts a NATO multinational divisional headquarters (Multinational Division Southeast) and a French-led ground force battlegroup as part of NATO's Enhanced Forward Presence initiative in the southeastern part of the Alliance, which came about in response to Russia’s 2022 invasion of Ukraine; NATO allies have also sent detachments of fighters to augment the Romanian Air Force since 2014 because of aggressive Russian activity in the Black Sea region; the Romanian military trains with NATO and its member states and has participated in NATO- and EU-led multinational missions in Bosnia and Herzegovina, Kosovo, and Poland; it also participates in UN peacekeeping missions (2024)<br>
 
 ## Space
 

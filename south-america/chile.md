@@ -72,7 +72,7 @@ _fresh water lake(s)_: Lago General Carrera (shared with Argentina) - 2,240 sq k
 90% of the population is located in the middle third of the country around the capital of Santiago; the far north, including the Atacama Desert, and the extreme south are relatively underpopulated<br>
 
 **Natural hazards**<br>
-<p>severe earthquakes; active volcanism; tsunamis</p><p><strong>volcanism:</strong> significant volcanic activity due to more than three-dozen active volcanoes along the Andes Mountains; Lascar (5,592 m), which last erupted in 2007, is the most active volcano in the northern Chilean Andes; Llaima (3,125 m) in central Chile, which last erupted in 2009, is another of the country's most active; Chaiten's 2008 eruption forced major evacuations; other notable historically active volcanoes include Cerro Hudson, Calbuco, Copahue, Guallatiri, Llullaillaco, Nevados de Chillan, Puyehue, San Pedro, and Villarrica; see note 2 under "Geography - note"</p><br>
+severe earthquakes; active volcanism; tsunamis <br><br><strong>volcanism:</strong> significant volcanic activity due to more than three-dozen active volcanoes along the Andes Mountains; Lascar (5,592 m), which last erupted in 2007, is the most active volcano in the northern Chilean Andes; Llaima (3,125 m) in central Chile, which last erupted in 2009, is another of the country's most active; Chaiten's 2008 eruption forced major evacuations; other notable historically active volcanoes include Cerro Hudson, Calbuco, Copahue, Guallatiri, Llullaillaco, Nevados de Chillan, Puyehue, San Pedro, and Villarrica; see note 2 under "Geography - note"<br>
 
 **Geography - note**<br>
 <p><strong>note 1:</strong> the longest country north-to-south in the world, extending across 39 degrees of latitude; strategic location relative to sea lanes between the Atlantic and Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage)</p> <p><strong>note 2:</strong> Chile is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> the Atacama Desert in the north is the driest desert in the world; Ojos del Salado (6,893 m) in the Atacama Desert is the highest active volcano in the world, Chile's tallest mountain, and the second highest in the Western Hemisphere and the Southern Hemisphere; the volcano's small crater lake (at 6,390 m) is the world's highest lake</p><br>
@@ -392,11 +392,10 @@ huemul (mountain deer), Andean condor<br>
 **National color(s)**<br>
 red, white, blue<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Himno Nacional de Chile" (National Anthem of Chile)<br>
 _lyrics/music_: Eusebio LILLO Robles and Bernardo DE VERA y Pintado/Ramon CARNICER y Battle<br>
 _history_: music adopted 1828, original lyrics adopted 1818, adapted lyrics adopted 1847; under Augusto PINOCHET's military rule, a verse glorifying the army was added; some citizens refused to sing this verse as a protest, and it was removed when democracy was restored in 1990<br>
-<strong>note:</strong> music adopted 1828, original lyrics adopted 1818, adapted lyrics adopted 1847; under Augusto PINOCHET's military rule, a verse glorifying the army was added; some citizens refused to sing this verse as a protest, and it was removed when democracy was restored in 1990<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 7 (all cultural)<br>

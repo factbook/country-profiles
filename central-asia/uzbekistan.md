@@ -393,11 +393,10 @@ khumo (mythical bird)<br>
 **National color(s)**<br>
 blue, white, red, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "O'zbekiston Respublikasining Davlat Madhiyasi" (National Anthem of the Republic of Uzbekistan)<br>
 _lyrics/music_: Abdulla ARIPOV/Mutal BURHANOV<br>
 _history_: adopted 1992; after the fall of the Soviet Union, Uzbekistan kept the music of its Soviet-era anthem but adopted new lyrics<br>
-<strong>note:</strong> adopted 1992; after the fall of the Soviet Union, Uzbekistan kept the music of its Soviet-era anthem but adopted new lyrics<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 7 (5 cultural, 2 natural)<br>

@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>In 1783, the Sunni AL-KHALIFA family took power in Bahrain. In order to secure these holdings, it entered into a series of treaties with the UK during the 19th century that made Bahrain a British protectorate. The archipelago attained its independence in 1971. A steady decline in oil production and reserves since 1970 prompted Bahrain to take steps to diversify its economy, in the process developing petroleum processing and refining, aluminum production, and hospitality and retail sectors. It has also endeavored to become a leading regional banking center, especially with respect to Islamic finance. Bahrain's small size, central location among Gulf countries, economic dependence on Saudi Arabia, and proximity to Iran require it to play a delicate balancing act in foreign affairs among its larger neighbors. Its foreign policy activities usually fall in line with Saudi Arabia and the UAE. In 2022, the United States designated Bahrain as a major non-NATO ally.</p> <p>The Sunni royal family has long struggled to manage relations with its Shia-majority population. In 2011, amid Arab uprisings elsewhere in the region, the Bahraini Government responded to similar pro-democracy and reform protests at home with police and military action, including deploying Gulf Cooperation Council security forces. Ongoing dissatisfaction with the political status quo continues to factor into sporadic clashes between demonstrators and security forces. In 2020, Bahrain and the United Arab Emirates signed the US-brokered Abraham Accords with Israel. In 2023, Bahrain and the United States signed the Comprehensive Security Integration and Prosperity Agreement to enhance cooperation across a wide range of areas, from defense and security to emerging technology, trade, and investment.</p> <p> </p> <p> </p><br>
+In 1783, the Sunni AL-KHALIFA family took power in Bahrain. In order to secure these holdings, it entered into a series of treaties with the UK during the 19th century that made Bahrain a British protectorate. The archipelago attained its independence in 1971. A steady decline in oil production and reserves since 1970 prompted Bahrain to take steps to diversify its economy, in the process developing petroleum processing and refining, aluminum production, and hospitality and retail sectors. It has also endeavored to become a leading regional banking center, especially with respect to Islamic finance. Bahrain's small size, central location among Gulf countries, economic dependence on Saudi Arabia, and proximity to Iran require it to play a delicate balancing act in foreign affairs among its larger neighbors. Its foreign policy activities usually fall in line with Saudi Arabia and the UAE. In 2022, the United States designated Bahrain as a major non-NATO ally. <br><br>The Sunni royal family has long struggled to manage relations with its Shia-majority population. In 2011, amid Arab uprisings elsewhere in the region, the Bahraini Government responded to similar pro-democracy and reform protests at home with police and military action, including deploying Gulf Cooperation Council security forces. Ongoing dissatisfaction with the political status quo continues to factor into sporadic clashes between demonstrators and security forces. In 2020, Bahrain and the United Arab Emirates signed the US-brokered Abraham Accords with Israel. In 2023, Bahrain and the United States signed the Comprehensive Security Integration and Prosperity Agreement to enhance cooperation across a wide range of areas, from defense and security to emerging technology, trade, and investment.<br>
 
 ## Geography
 
@@ -360,7 +360,8 @@ ABEDA, AFESD, AMF, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national c
 15 August 1971 (from the UK)<br>
 
 **National holiday**<br>
-National Day, 16 December (1971); note - 15 August 1971 was the date of independence from the UK, 16 December 1971 was the date of independence from British protection<br>
+National Day, 16 December (1971)<br>
+<strong>note:</strong> 15 August 1971 was the date of independence from the UK, 16 December 1971 was the date of independence from British protection<br>
 
 **Flag description**<br>
 red, the traditional color for flags of Persian Gulf states, with a white serrated band of five white points on the hoist side; the five points represent the five pillars of Islam<br>
@@ -372,11 +373,10 @@ a white serrated band with five white points on top of a red field<br>
 **National color(s)**<br>
 red, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Bahrainona" (Our Bahrain)<br>
 _lyrics/music_: unknown<br>
 _history_: adopted 1971; Mohamed Sudqi AYYASH wrote the original lyrics, but they were changed in 2002 after Bahrain became a kingdom<br>
-<strong>note:</strong> adopted 1971; Mohamed Sudqi AYYASH wrote the original lyrics, but they were changed in 2002 after Bahrain became a kingdom<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (all cultural)<br>

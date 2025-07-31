@@ -64,7 +64,7 @@ _other_: 44.1% (2022 est.)<br>
 most of the populace lives in the southern part of the main island, in and around the capital of Noumea<br>
 
 **Natural hazards**<br>
-<p>cyclones, most frequent from November to March</p><p><strong>volcanism:</strong> Matthew and Hunter Islands are historically active</p><br>
+cyclones, most frequent from November to March <br><br><strong>volcanism:</strong> Matthew and Hunter Islands are historically active<br>
 
 **Geography - note**<br>
 consists of the main island of New Caledonia (one of the largest in the Pacific Ocean), the archipelago of Iles Loyaut&eacute;, and numerous small, sparsely populated islands and atolls<br>
@@ -284,7 +284,8 @@ none (overseas collectivity of France)<br>
 <strong>note:</strong> in three independence referenda, on 4 November 2018, 4 October 2020, and 12 December 2021, the majority voted to reject independence in favor of maintaining the status quo<br>
 
 **National holiday**<br>
-F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - the local holiday is New Caledonia Day, 24 September (1853)<br>
+Fête de la Fédération, 14 July (1790)<br>
+<strong>note 1:</strong> the local holiday is New Caledonia Day, 24 September (1853)<br><br><strong>note 2:</strong> often incorrectly referred to as Bastille Day, France's national celebration commemorates the storming of the Bastille prison on 14 July 1789 and the establishment of a constitutional monarchy; other names for the holiday are <em>la Fête nationale</em> (National Holiday) and <em>le Quatorze Juillet</em> (14th of July)<br>
 
 **Flag description**<br>
 two official flags: the flag of France and the Kanak (ethnic Melanesian) flag have equal status; the latter consists of three equal horizontal bands of blue (top), red, and green; a large yellow disk shifted slightly to the hoist side is edged in black and displays a black <em>fleche faîtière</em> symbol, a native rooftop adornment<br>
@@ -295,11 +296,13 @@ fl&egrave;che fa&icirc;ti&egrave;re (native rooftop adornment), kagu bird<br>
 **National color(s)**<br>
 grey, red<br>
 
-**National anthem**<br>
-_title_: "La Marseillaise"<br>
+**National coat of arms**<br>
+the emblem features two symbols of the local Kanak people: the fl&egrave;che fa&icirc;ti&egrave;re, which is a common rooftop adornment on houses, and the nautilus shell, which represents the sea; the third part of the emblem is a stylized representation of a New Caledonia pine tree<br>
+
+**National anthem(s)**<br>
+_title_: "La Marseillaise" (The Song of Marseille)<br>
 _lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
 _history_: official anthem, as a self-governing French territory<br>
-<strong>note:</strong> adopted 2008; contains a mixture of lyrics in both French and Nengone (a local language); in addition to the local anthem, "La Marseillaise" is the official anthem for New Caledonia, as a self-governing territory of France (see France)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (natural); note - excerpted from the France entry<br>

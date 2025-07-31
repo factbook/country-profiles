@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-After seven decades as a constituent republic of the USSR, Belarus attained its independence in 1991. It has retained closer political and economic ties to Russia than any of the other former Soviet republics. In 1999, Belarus and Russia signed a treaty on a two-state union, envisioning greater political and economic integration. Although Belarus agreed to a framework to carry out the accord, serious implementation has yet to take place and negotiations on further integration have been contentious. Since taking office in 1994 as the country's first and only directly elected president, Alyaksandr LUKASHENKA has steadily consolidated his power through authoritarian means and a centralized economic system. Government restrictions on political and civil freedoms, freedom of speech and the press, peaceful assembly, and religion have remained in place. Restrictions on political freedoms have tightened in the wake of the disputed presidential election in 2020. The election results sparked large-scale protests as members of the opposition and civil society criticized the election’s validity. LUKASHENKA has remained in power as the disputed winner of the presidential election after quelling protests in 2020. Since 2022, Belarus has facilitated Russia's war in Ukraine, which was launched in part from Belarusian territory.  <p> </p> <p> </p> <p> </p> <p> </p><br>
+After seven decades as a constituent republic of the USSR, Belarus attained its independence in 1991. It has retained closer political and economic ties to Russia than any of the other former Soviet republics. In 1999, Belarus and Russia signed a treaty on a two-state union, envisioning greater political and economic integration. Although Belarus agreed to a framework to carry out the accord, serious implementation has yet to take place and negotiations on further integration have been contentious. Since taking office in 1994 as the country's first and only directly elected president, Alyaksandr LUKASHENKA has steadily consolidated his power through authoritarian means and a centralized economic system. Government restrictions on political and civil freedoms, freedom of speech and the press, peaceful assembly, and religion have remained in place. Restrictions on political freedoms have tightened in the wake of the disputed presidential election in 2020. The election results sparked large-scale protests as members of the opposition and civil society criticized the election&rsquo;s validity. LUKASHENKA has remained in power as the disputed winner of the presidential election after quelling protests in 2020. Since 2022, Belarus has facilitated Russia's war in Ukraine, which was launched in part from Belarusian territory.<br>
 
 ## Geography
 
@@ -379,7 +379,8 @@ BSEC (observer), CBSS (observer), CEI, CIS, CSTO, EAEC, EAEU, EAPC, EBRD, FAO, G
 25 August 1991 (from the Soviet Union)<br>
 
 **National holiday**<br>
-Independence Day, 3 July (1944); note - 3 July 1944 was the date Minsk was liberated from German troops, 25 August 1991 was the date of independence from the Soviet Union<br>
+Independence Day, 3 July (1944)<br>
+<strong>note:</strong> 3 July 1944 was the date Minsk was liberated from German troops, 25 August 1991 was the date of independence from the Soviet Union<br>
 
 **Flag description**<br>
 red horizontal band (top) and green horizontal band one-half the width of the red band; a white vertical stripe on the hoist side bears Belarusian national ornamentation in red; the red stands for past struggles from oppression, and the green represents hope and the many forests of the country<br>
@@ -390,11 +391,10 @@ no official symbol; the mounted knight known as Pahonia (the Chaser) is the trad
 **National color(s)**<br>
 green, red, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "My, Bielarusy" (We Belarusians)<br>
 _lyrics/music_: Mikhas KLIMKOVICH and Uladzimir KARYZNA/Nester SAKALOUSKI<br>
 _history_: music adopted 1955, lyrics adopted 2002; after the fall of the Soviet Union, Belarus kept the music of its Soviet-era anthem but adopted new lyrics; also known as "Dziarzauny himn Respubliki Bielarus" (State Anthem of the Republic of Belarus)<br>
-<strong>note:</strong> music adopted 1955, lyrics adopted 2002; after the fall of the Soviet Union, Belarus kept the music of its Soviet-era anthem but adopted new lyrics; also known as "Dziarzauny himn Respubliki Bielarus" (State Anthem of the Republic of Belarus)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (3 cultural, 1 natural)<br>

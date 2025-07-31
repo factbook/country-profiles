@@ -68,7 +68,7 @@ _other_: 19.6% (2022 est.)<br>
 the population is primarily concentrated in the lowland areas, where density is high; Gyeonggi Province in the northwest, which surrounds the capital of Seoul and contains the port of Incheon, is the most densely populated province; Gangwon in the northeast is the least populated<br>
 
 **Natural hazards**<br>
-<p>occasional typhoons bring high winds and floods; low-level seismic activity common in southwest</p><p><strong>volcanism:</strong> Halla (1,950 m) is considered historically active although it has not erupted in many centuries</p><br>
+occasional typhoons bring high winds and floods; low-level seismic activity common in southwest <br><br><strong>volcanism:</strong> Halla (1,950 m) is considered historically active; it has not erupted in many centuries<br>
 
 **Geography - note**<br>
 strategic location on Korea Strait; about 3,000 mostly small and uninhabited islands lie off the western and southern coasts<br>
@@ -293,7 +293,7 @@ _etymology_: the name originates from the Korean word meaning "capital city;" it
 <strong>note:</strong> Sejong, located some 120 km (75 mi) south of Seoul, serves as an administrative capital for segments of the South Korean government<br>
 
 **Administrative divisions**<br>
-<p>9 provinces (<em>do</em>, singular and plural), 6 metropolitan cities (<em>gwangyeoksi</em>, singular and plural), 1 special city (<em>teugbyeolsi</em>), and 1 special self-governing city (<em>teukbyeoljachisi</em>)</p> <p><strong>provinces:</strong> Chungcheongbuk-do (North Chungcheong), Chungcheongnam-do (South Chungcheong), Gangwon-do, Gyeongsangbuk-do (North Gyeongsang), Gyeonggi-do, Gyeongsangnam-do (South Gyeongsang), Jeju-do (Jeju), Jeollabuk-do (North Jeolla), Jeollanam-do (South Jeolla)</p> <p><strong>metropolitan cities:</strong> Busan (Pusan), Daegu (Taegu), Daejeon (Taejon), Gwangju (Kwangju), Incheon (Inch'on), Ulsan</p> <p><strong>special city:</strong> Seoul</p> <p><strong>special self-governing city:</strong> Sejong</p><br>
+9 provinces (<em>do</em>, singular and plural), 6 metropolitan cities (<em>gwangyeoksi</em>, singular and plural), 1 special city (<em>teugbyeolsi</em>), and 1 special self-governing city (<em>teukbyeoljachisi</em>) <br><br><strong>provinces:</strong> Chungcheongbuk-do (North Chungcheong), Chungcheongnam-do (South Chungcheong), Gangwon-do, Gyeongsangbuk-do (North Gyeongsang), Gyeonggi-do, Gyeongsangnam-do (South Gyeongsang), Jeju-do (Jeju), Jeollabuk-do (North Jeolla), Jeollanam-do (South Jeolla) <br><br><strong>metropolitan cities:</strong> Busan (Pusan), Daegu (Taegu), Daejeon (Taejon), Gwangju (Kwangju), Incheon (Inch'on), Ulsan <br><br><strong>special city:</strong> Seoul <br><br><strong>special self-governing city:</strong> Sejong<br>
 
 **Legal system**<br>
 mixed system combining European civil law, Anglo-American law, and Chinese classical thought<br>
@@ -312,7 +312,7 @@ _dual citizenship recognized_: no<br>
 _residency requirement for naturalization_: 5 years<br>
 
 **Suffrage**<br>
-18 years of age; universal; note - the voting age was lowered from 19 to 18 beginning with the 2020 national election<br>
+18 years of age; universal<br>
 
 **Executive branch**<br>
 _chief of state_: President LEE Jae-myung (since 4 June 2025)<br>
@@ -379,11 +379,10 @@ taegeuk (yin-yang symbol), Rose of Sharon (<em>Hibiscus syriacus</em>), Siberian
 **National color(s)**<br>
 red, white, blue, black<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Aegukga" (Patriotic Song)<br>
 _lyrics/music_: YUN Ch'i-Ho or AN Ch'ang-Ho/AHN Eaktay<br>
 _history_: adopted 1948, well-known by 1910; North Korea's and South Korea's anthems have the same name and a similar melody, but different lyrics<br>
-<strong>note:</strong> adopted 1948, well-known by 1910; North Korea's and South Korea's anthems have the same name and a similar melody, but different lyrics<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 16 (14 cultural, 2 natural)<br>

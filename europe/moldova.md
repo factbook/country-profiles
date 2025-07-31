@@ -285,7 +285,7 @@ _etymology_: origin unclear but may derive from the Old Moldovan word <em>kishin
 <strong>note:</strong> pronounced KEE-shee-now (KIH-shi-nyov)<br>
 
 **Administrative divisions**<br>
-<p>32 districts (<em>raioane</em>, singular - <em>raion</em>), 3 municipalities (<em>municipii</em>, singular - <em>municipiul</em>), 1 autonomous territorial unit (<em>unitatea teritoriala autonoma</em>), and 1 territorial unit (<em>unitatea teritoriala</em>)</p> <p><strong>raions:</strong> Anenii Noi, Basarabeasca, Briceni, Cahul, Cantemir, Calarasi, Causeni, Cimislia, Criuleni, Donduseni, Drochia, Dubasari, Edinet, Falesti, Floresti, Glodeni, Hincesti, Ialoveni, Leova, Nisporeni, Ocnita, Orhei, Rezina, Riscani, Singerei, Soldanesti, Soroca, Stefan Voda, Straseni, Taraclia, Telenesti, Ungheni</p> <p><strong>municipalities:</strong> Balti, Bender, Chisinau</p> <p><strong>autonomous territorial unit:</strong> Gagauzia</p> <p><strong>territorial unit:</strong> Stinga Nistrului (Transnistria)</p><br>
+32 districts (<em>raioane</em>, singular - <em>raion</em>), 3 municipalities (<em>municipii</em>, singular - <em>municipiul</em>), 1 autonomous territorial unit (<em>unitatea teritoriala autonoma</em>), and 1 territorial unit (<em>unitatea teritoriala</em>) <br><br><strong>districts:</strong> Anenii Noi, Basarabeasca, Briceni, Cahul, Cantemir, Calarasi, Causeni, Cimislia, Criuleni, Donduseni, Drochia, Dubasari, Edinet, Falesti, Floresti, Glodeni, Hincesti, Ialoveni, Leova, Nisporeni, Ocnita, Orhei, Rezina, Riscani, Singerei, Soldanesti, Soroca, Stefan Voda, Straseni, Taraclia, Telenesti, Ungheni <br><br><strong>municipalities:</strong> Balti, Bender, Chisinau <br><br><strong>autonomous territorial unit:</strong> Gagauzia <br><br><strong>territorial unit:</strong> Stinga Nistrului (Transnistria)<br>
 
 **Legal system**<br>
 civil law system with Germanic law influences; Constitutional Court reviews legislative acts<br>
@@ -334,7 +334,7 @@ _subordinate courts_: Courts of Appeal; Court of Business Audit; municipal court
 <strong>note:</strong> the Constitutional Court is autonomous; it interprets the Constitution and reviews the constitutionality of parliamentary laws and decisions, decrees of the president, and acts of the government<br>
 
 **Political parties**<br>
-<p>Bloc of Communists and Socialists or BCS<br>Party of Action and Solidarity or PAS</p><br>
+Bloc of Communists and Socialists or BCS<br>Party of Action and Solidarity or PAS<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Viorel URSU (since 12 December 2022)<br>
@@ -371,11 +371,10 @@ aurochs (type of wild cattle)<br>
 **National color(s)**<br>
 blue, yellow, red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Limba noastra" (Our Language)<br>
 _lyrics/music_: Alexei MATEEVICI/Alexandru CRISTEA<br>
 _history_: adopted 1994<br>
-<strong>note:</strong> adopted 1994<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

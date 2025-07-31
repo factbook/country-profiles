@@ -24,7 +24,7 @@ _land_: 26 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-0.1 times the size of Washington, D.C.<br>
+about the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -315,7 +315,7 @@ _judge selection and term of office_: Court of Appeal judges appointed by the go
 _subordinate courts_: magistrates' courts; island courts; land courts<br>
 
 **Political parties**<br>
-there are no political parties, but members of parliament usually align themselves in informal groupings<br>
+<strong>note:</strong> no political parties, but members of parliament usually align in informal groupings<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Tapugao FALEFOU (since 19 April 2023); note - also Permanent Representative to UN<br>
@@ -346,11 +346,10 @@ maneapa (native meeting house)<br>
 **National color(s)**<br>
 light blue, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Tuvalu mo te Atua" (Tuvalu for the Almighty)<br>
 _lyrics/music_: Afaese MANOA<br>
 _history_: adopted 1978; the anthem's name is also the nation's motto<br>
-<strong>note:</strong> adopted 1978; the anthem's name is also the nation's motto<br>
 
 ## Economy
 

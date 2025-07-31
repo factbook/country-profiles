@@ -379,11 +379,10 @@ golden eagle<br>
 **National color(s)**<br>
 red, white, black<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Mawtini" (My Homeland)<br>
 _lyrics/music_: Ibrahim TOUQAN/Mohammad FLAYFEL<br>
 _history_: adopted 2004, after the ouster of SADDAM Husayn; popular Arab folk song that also serves as an unofficial anthem for the Palestinian people<br>
-<strong>note:</strong> adopted 2004, after the ouster of SADDAM Husayn; popular Arab folk song that also serves as an unofficial anthem for the Palestinian people<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 6 (5 cultural, 1 mixed)<br>

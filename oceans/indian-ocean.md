@@ -15,15 +15,12 @@ body of water between Africa, the Southern Ocean, Asia, and Australia<br>
 **Geographic coordinates**<br>
 20 00 S, 80 00 E<br>
 
-**Map references**<br>
-Map of the world oceans<br>
-
 **Area**<br>
 _total _: 70.56 million sq km<br>
 <strong>note:</strong> includes Andaman Sea, Arabian Sea, Bay of Bengal, Great Australian Bight, Gulf of Aden, Gulf of Oman, Mozambique Channel, Persian Gulf, Red Sea, Savu Sea, Strait of Malacca, Timor Sea, and other tributary water bodies<br>
 
 **Area - comparative**<br>
-almost 7 times the size of the US<br>
+almost seven times the size of the US<br>
 
 **Coastline**<br>
 66,526 km<br>

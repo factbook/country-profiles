@@ -25,7 +25,7 @@ _water_: 0 sq km<br>
 <strong>note:</strong> includes eight small islands in the Saint Pierre and the Miquelon groups<br>
 
 **Area - comparative**<br>
-one and half times the size of Washington, D.C.<br>
+1.5 times the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -272,7 +272,8 @@ UPU, WFTU (NGOs)<br>
 none (overseas collectivity collectivity of France; has been under French control since 1763)<br>
 
 **National holiday**<br>
-F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790)<br>
+Fête de la Fédération, 14 July (1790)<br>
+<strong>note:</strong> often incorrectly referred to as Bastille Day, France's national celebration commemorates the storming of the Bastille prison on 14 July 1789 and the establishment of a constitutional monarchy; other names for the holiday are <em>la Fête nationale</em> (National Holiday) and <em>le Quatorze Juillet</em> (14th of July)<br>
 
 **Flag description**<br>
 a yellow three-masted sailing ship facing the hoist side rides on a blue background with wavy white lines; a black-over-white wavy line divides the ship from the white wavy lines; on the hoist side, a vertical band is divided into three heraldic arms: the top (called <em>ikkurina</em>) is red with a green diagonal cross extending to the corners and overlaid with a white cross, the middle is white with an ermine pattern, and the bottom is red with two yellow lions outlined in black; the arms represent settlers from the Basque Country (top), Brittany, and Normandy in France; blue symbolizes the Atlantic Ocean, and the ship represents explorer Jacques Cartier's ship when he visited the islands in 1536<br>
@@ -281,11 +282,10 @@ a yellow three-masted sailing ship facing the hoist side rides on a blue backgro
 **National symbol(s)**<br>
 16th-century sailing ship<br>
 
-**National anthem**<br>
-_title_: "La Marseillaise"<br>
+**National anthem(s)**<br>
+_title_: "La Marseillaise" (The Song of Marseille)<br>
 _lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
 _history_: official anthem, as a French collectivity<br>
-<strong>note:</strong> as a collectivity of France, "La Marseillaise" is official (see France)<br>
 
 ## Economy
 

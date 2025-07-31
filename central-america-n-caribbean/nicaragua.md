@@ -70,7 +70,7 @@ _fresh water lake(s)_: Lago de Nicaragua - 8,150 sq km; Lago de Managua - 1,040 
 the overwhelming majority of the population resides in the western half of the country, with much of the urban growth centered in the capital city of Managua; coastal areas also show large population clusters<br>
 
 **Natural hazards**<br>
-<p>destructive earthquakes; volcanoes; landslides; extremely susceptible to hurricanes</p><p><strong>volcanism:</strong> significant volcanic activity; Cerro Negro (728 m), which last erupted in 1999, is one of Nicaragua's most active volcanoes; its lava flows and ash have been known to cause significant damage to farmland and buildings; other historically active volcanoes include Concepcion, Cosiguina, Las Pilas, Masaya, Momotombo, San Cristobal, and Telica</p><br>
+destructive earthquakes; volcanoes; landslides; extremely susceptible to hurricanes <strong><br><br>volcanism:</strong> significant volcanic activity; Cerro Negro (728 m) is one of Nicaragua's most active volcanoes; its lava flows and ash have been known to cause significant damage to farmland and buildings; other historically active volcanoes include Concepcion, Cosiguina, Las Pilas, Masaya, Momotombo, San Cristobal, and Telica<br>
 
 **Geography - note**<br>
 largest country in Central America; contains the largest freshwater body in Central America, Lago de Nicaragua<br>
@@ -360,11 +360,10 @@ turquoise-browed motmot (bird)<br>
 **National color(s)**<br>
 blue, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Salve a ti, Nicaragua" (Hail to Thee, Nicaragua)<br>
 _lyrics/music_: Salomon Ibarra MAYORGA/traditional, arranged by Luis Abraham DELGADILLO<br>
 _history_: adopted in 1971, but the music was approved in 1918 and the lyrics in 1939; the tune was originally from Spain and was used as an anthem without lyrics from the 1830s until 1876<br>
-<strong>note:</strong> adopted in 1971, but the music was approved in 1918 and the lyrics in 1939; the tune was originally from Spain and was used as an anthem without lyrics from the 1830s until 1876<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>

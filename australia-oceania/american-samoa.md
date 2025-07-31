@@ -62,7 +62,7 @@ _other_: 0.2% (2022 est.)<br>
 0 sq km (2022)<br>
 
 **Natural hazards**<br>
-<p>cyclones common from December to March</p><p><strong>volcanism:</strong> limited volcanic activity on the Ofu and Olosega Islands; neither has erupted since the 19th century</p><br>
+cyclones common from December to March <br><br><strong>volcanism:</strong> limited volcanic activity on the Ofu and Olosega Islands; neither has erupted since the 19th century<br>
 
 **Geography - note**<br>
 Pago Pago has one of the best natural deepwater harbors in the South Pacific Ocean, sheltered by shape from rough seas and protected by peripheral mountains from high winds; strategic location in the South Pacific Ocean<br>
@@ -220,7 +220,7 @@ _history_: adopted 17 October 1960; revised 1 July 1967<br>
 _amendment process_: proposed by either house of the Legislative Assembly; passage requires three-fifths majority vote by the membership of each house, approval by simple majority vote in a referendum, approval by the US Secretary of the Interior, and only by an act of the US Congress<br>
 
 **Citizenship**<br>
-see United States<br>Note: in accordance with US Code Title 8, Section 1408, persons born in American Samoa are US nationals but not US citizens<br>
+see United States<br><strong>note:</strong> in accordance with US Code Title 8, Section 1408, persons born in American Samoa are US nationals but not US citizens<br>
 
 **Suffrage**<br>
 18 years of age; universal<br>
@@ -270,11 +270,10 @@ a <em>fue </em>(coconut fiber fly whisk that represents wisdom) crossed with a <
 **National color(s)**<br>
 red, white, blue<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "The Star-Spangled Banner"<br>
 _lyrics/music_: Francis Scott KEY/John Stafford SMITH<br>
 _history_: official anthem, as a US territory<br>
-<strong>note:</strong> local anthem adopted 1950; as a territory of the United States, "The Star-Spangled Banner" is the official anthem (see United States)<br>
 
 ## Economy
 

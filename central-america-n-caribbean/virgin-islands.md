@@ -230,7 +230,8 @@ _history_: 22 July 1954 - the Revised Organic Act of the Virgin Islands function
 see United States<br>
 
 **Suffrage**<br>
-18 years of age; universal; note - island residents are US citizens but do not vote in US presidential elections<br>
+18 years of age; universal<br>
+<strong>note:</strong> island residents are US citizens but do not vote in US presidential elections<br>
 
 **Executive branch**<br>
 _chief of state_: President Donald J. TRUMP (since 20 January 2025)<br>
@@ -270,11 +271,10 @@ Transfer Day (from Denmark to the US), 31 March (1917)<br>
 **Flag description**<br>
 white field with a modified US coat of arms in the center between the large blue initials V and I; the coat of arms shows a yellow eagle holding an olive branch in its right talon and three arrows in the left, with a shield of seven red and six white vertical stripes below a blue panel; white is a symbol of purity, and the letters stand for the Virgin Islands<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "The Star-Spangled Banner"<br>
 _lyrics/music_: Francis Scott KEY/John Stafford SMITH<br>
 _history_: official anthem, as a US territory<br>
-<strong>note:</strong> adopted 1963; serves as a local anthem; as a territory of the US, "The Star-Spangled Banner" is official (see United States)<br>
 
 ## Economy
 

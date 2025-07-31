@@ -379,11 +379,10 @@ oryx (antelope)<br>
 **National color(s)**<br>
 blue, red, green, white, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Namibia, Land of the Brave"<br>
 _lyrics/music_: Axali DOESEB<br>
 _history_: adopted 1991<br>
-<strong>note:</strong> adopted 1991<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>

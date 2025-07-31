@@ -385,11 +385,10 @@ five-pointed star between the extended horns of a crescent moon; fennec fox<br>
 **National color(s)**<br>
 green, white, red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Kassaman" (We Pledge)<br>
 _lyrics/music_: Mufdi ZAKARIAH/Mohamed FAWZI<br>
 _history_: adopted 1962; ZAKARIAH wrote "Kassaman" as a poem while imprisoned in Algiers by French colonial forces<br>
-<strong>note:</strong> adopted 1962; ZAKARIAH wrote "Kassaman" as a poem while imprisoned in Algiers by French colonial forces<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 7 (6 cultural, 1 mixed)<br>

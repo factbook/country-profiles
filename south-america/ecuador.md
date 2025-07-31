@@ -73,7 +73,7 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
 nearly half of the population is concentrated in the interior, with large concentrations also found along the western coastal strip; the rainforests of the east remain sparsely populated<br>
 
 **Natural hazards**<br>
-<p>frequent earthquakes; landslides; volcanic activity; floods; periodic droughts</p><p><strong>volcanism:</strong> volcanic activity concentrated along the Andes Mountains; Sangay (5,230 m), which erupted in 2010, is mainland Ecuador's most active volcano; other historically active volcanoes in the Andes include Antisana, Cayambe, Chacana, Cotopaxi, Guagua Pichincha, Reventador, Sumaco, and Tungurahua; Fernandina (1,476 m), a shield volcano that last erupted in 2009, is the most active of the many Galapagos volcanoes; other historically active Galapagos volcanoes include Wolf, Sierra Negra, Cerro Azul, Pinta, Marchena, and Santiago</p><br>
+frequent earthquakes; landslides; volcanic activity; floods; periodic droughts <br><br><strong>volcanism:</strong> volcanic activity concentrated along the Andes Mountains; Sangay (5,230 m) is mainland Ecuador's most active volcano; other historically active volcanoes in the Andes include Antisana, Cayambe, Chacana, Cotopaxi, Guagua Pichincha, Reventador, Sumaco, and Tungurahua; Fernandina (1,476 m), a shield volcano, is the most active of the many Galapagos volcanoes; other historically active Galapagos volcanoes include Wolf, Sierra Negra, Cerro Azul, Pinta, Marchena, and Santiago<br>
 
 **Geography - note**<br>
 Cotopaxi in the Andes is highest active volcano in world<br>
@@ -319,7 +319,7 @@ _dual citizenship recognized_: no<br>
 _residency requirement for naturalization_: 3 years<br>
 
 **Suffrage**<br>
-18-65 years of age; universal and compulsory; 16-18, over 65, and other eligible voters, voluntary<br>
+18-65 years of age; universal and compulsory; voluntary for 16-18, over 65, and other eligible voters<br>
 
 **Executive branch**<br>
 _chief of state_: President Daniel NOBOA Azin (since 23 November 2023)<br>
@@ -387,11 +387,10 @@ Andean condor<br>
 **National color(s)**<br>
 yellow, blue, red<br>
 
-**National anthem**<br>
-_title_: "Salve, Oh Patria!" (We Salute You, Our Homeland)<br>
+**National anthem(s)**<br>
+_title_: "Salve, O Patria!" (We Salute You, Our Homeland)<br>
 _lyrics/music_: Juan Leon MERA/Antonio NEUMANE<br>
 _history_: adopted 1948; MERA wrote the lyrics in 1865; only the chorus and second verse are sung<br>
-<strong>note:</strong> adopted 1948; MERA wrote the lyrics in 1865; only the chorus and second verse are sung<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>

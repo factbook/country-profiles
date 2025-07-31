@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Although explored by the Spanish early in the 16th century, initial attempts at colonizing Costa Rica proved unsuccessful due to a combination of factors, including disease from mosquito-infested swamps, brutal heat, resistance from Indigenous populations, and pirate raids. It was not until 1563 that a permanent settlement of Cartago was established in the cooler, fertile central highlands. The area remained a colony for some two-and-a-half centuries. In 1821, Costa Rica was one of several Central American provinces that jointly declared independence from Spain. Two years later it joined the United Provinces of Central America, but this federation disintegrated in 1838, at which time Costa Rica proclaimed its sovereignty and independence.</p> <p>Since the late 19th century, only two brief periods of violence have marred the country's democratic development. General Federico TINOCO Granados led a coup in 1917, but the threat of US intervention pushed him to resign in 1919. In 1948, landowner Jose FIGUERES Ferrer raised his own army and rebelled against the government. The brief civil war ended with an agreement to allow FIGUERES to remain in power for 18 months, then step down in favor of the previously elected Otilio ULATE. FIGUERES was later elected twice in his own right, in 1953 and 1970.</p> <p>Costa Rica experienced destabilizing waves of refugees from Central American civil wars in the 1970s and 1980s, but peace in the region has since helped the economy rebound.  Although it still maintains a large agricultural sector, Costa Rica has expanded its economy to include strong technology and tourism industries.</p> <p> </p><br>
+Although explored by the Spanish early in the 16th century, initial attempts at colonizing Costa Rica proved unsuccessful due to a combination of factors, including disease from mosquito-infested swamps, brutal heat, resistance from Indigenous populations, and pirate raids. It was not until 1563 that a permanent settlement of Cartago was established in the cooler, fertile central highlands. The area remained a colony for some two-and-a-half centuries. In 1821, Costa Rica was one of several Central American provinces that jointly declared independence from Spain. Two years later it joined the United Provinces of Central America, but this federation disintegrated in 1838, at which time Costa Rica proclaimed its sovereignty and independence. <br><br>Since the late 19th century, only two brief periods of violence have marred the country's democratic development. General Federico TINOCO Granados led a coup in 1917, but the threat of US intervention pushed him to resign in 1919. In 1948, landowner Jose FIGUERES Ferrer raised his own army and rebelled against the government. The brief civil war ended with an agreement to allow FIGUERES to remain in power for 18 months, then step down in favor of the previously elected Otilio ULATE. FIGUERES was later elected twice in his own right, in 1953 and 1970. <br><br>Costa Rica experienced destabilizing waves of refugees from Central American civil wars in the 1970s and 1980s, but peace in the region has since helped the economy rebound.  Although it still maintains a large agricultural sector, Costa Rica has expanded its economy to include strong technology and tourism industries.<br>
 
 ## Geography
 
@@ -68,7 +68,7 @@ _other_: 5.3% (2022 est.)<br>
 roughly half of the nation's population resides in urban areas; the capital of San Jose is the largest city and home to approximately one fifth of the population<br>
 
 **Natural hazards**<br>
-<p>occasional earthquakes, hurricanes along Atlantic coast; frequent flooding of lowlands at onset of rainy season and landslides; active volcanoes</p><p><strong>volcanism:</strong> Arenal (1,670 m), which erupted in 2010, is the most active volcano in Costa Rica; a 1968 eruption destroyed the town of Tabacon; Irazu (3,432 m), situated just east of San Jose, has the potential to spew ash over the capital city as it did between 1963 and 1965; other historically active volcanoes include Miravalles, Poas, Rincon de la Vieja, and Turrialba</p><br>
+occasional earthquakes, hurricanes along Atlantic coast; frequent flooding of lowlands at onset of rainy season and landslides; active volcanoes <br><br><strong>volcanism:</strong> Arenal (1,670 m) is the most active volcano in Costa Rica; a 1968 eruption destroyed the town of Tabacon; Irazu (3,432 m), situated just east of San Jose, has the potential to spew ash over the capital city, as it did between 1963 and 1965; other historically active volcanoes include Miravalles, Poas, Rincon de la Vieja, and Turrialba<br>
 
 **Geography - note**<br>
 four volcanoes, two of them active, rise near the capital of San Jose in the center of the country; one of the volcanoes, Irazu, erupted destructively in 1963-65<br>
@@ -331,7 +331,7 @@ _judge selection and term of office_: Supreme Court of Justice judges elected by
 _subordinate courts_: appellate courts; trial courts; first instance and justice of the peace courts; Superior Electoral Tribunal<br>
 
 **Political parties**<br>
-<p>Accessibility Without Exclusion or PASE<br>Broad Front (Frente Amplio) or PFA<br>Citizen Action Party or PAC<br>Costa Rican Renewal Party or PRC<br>Here Costa Rica Commands Party or ACRM<br>Liberal Progressive Party or PLP <br>Libertarian Movement Party or ML<br>National Integration Party or PIN<br>National Liberation Party or PLN<br>National Restoration Party or PRN<br>New Generation or PNG<br>New Republic Party or PNR<br>Social Christian Republican Party or PRSC<br>Social Christian Unity Party or PUSC of UNIDAD<br>Social Democratic Progress Party or PPSD</p><br>
+Accessibility Without Exclusion or PASE<br>Broad Front (Frente Amplio) or PFA<br>Citizen Action Party or PAC<br>Costa Rican Renewal Party or PRC<br>Here Costa Rica Commands Party or ACRM<br>Liberal Progressive Party or PLP <br>Libertarian Movement Party or ML<br>National Integration Party or PIN<br>National Liberation Party or PLN<br>National Restoration Party or PRN<br>New Generation or PNG<br>New Republic Party or PNR<br>Social Christian Republican Party or PRSC<br>Social Christian Unity Party or PUSC of UNIDAD<br>Social Democratic Progress Party or PPSD<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Catalina CRESPO SANCHO (since 19 April 2023)<br>
@@ -371,11 +371,10 @@ blue, white, red<br>
 **National coat of arms**<br>
 the Costa Rican coat of arms highlights the country&rsquo;s natural beauty and history; three volcanoes, each topped with a white cloud, are surrounded with water, symbolizing the seaports of the Pacific and Atlantic Oceans; the rising sun in the background stands for the birth of a new nation, and the seven white stars for the country's provinces; the two merchant ships carrying Costa Rica&rsquo;s flag are a reminder of the maritime trade that shaped the country's history<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Himno Nacional de Costa Rica" (National Anthem of Costa Rica)<br>
 _lyrics/music_: Jose Maria ZELEDON Brenes/Manuel Maria GUTIERREZ<br>
 _history_: adopted 1949; the music was originally written for a welcome ceremony in 1853 for the US and UK diplomatic missions; the lyrics were added in 1903<br>
-<strong>note:</strong> adopted 1949; the music was originally written for a welcome ceremony in 1853 for the US and UK diplomatic missions; the lyrics were added in 1903<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (1 cultural, 3 natural)<br>

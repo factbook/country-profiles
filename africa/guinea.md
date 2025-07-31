@@ -372,11 +372,10 @@ elephant<br>
 **National color(s)**<br>
 red, yellow, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Libert&eacute;" (Liberty)<br>
 _lyrics/music_: unknown/Fodeba KEITA<br>
 _history_: adopted 1958<br>
-<strong>note:</strong> adopted 1958<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (natural)<br>

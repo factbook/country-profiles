@@ -74,7 +74,7 @@ Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
 an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, the Hague, and Utrecht, is the most densely populated region; the north tends to be less dense, but sizeable communities can be found throughout the entire country<br>
 
 **Natural hazards**<br>
-<p>flooding</p> <p><strong>volcanism:</strong> Mount Scenery (887 m), located on the island of Saba in the Caribbean, last erupted in 1640; Round Hill (601 m), a dormant volcano also known as The Quill, is located on the island of St. Eustatius in the Caribbean; these islands are at the northern end of the volcanic island arc of the Lesser Antilles that extends south to Grenada</p><br>
+flooding <br><br><strong>volcanism:</strong> Mount Scenery (887 m), located on the island of Saba in the Caribbean, last erupted in 1640; Round Hill (601 m), a dormant volcano also known as "The Quill," is located on the island of St. Eustatius in the Caribbean; these islands are at the northern end of the volcanic island arc of the Lesser Antilles that extends south to Grenada<br>
 
 **Geography - note**<br>
 located at mouths of three major European rivers (Rhine (Rijn), Meuse (Maas), and Scheldt (Schelde)); about a quarter of the country lies below sea level and only about half of the land exceeds one meter above sea level<br>
@@ -380,7 +380,8 @@ ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), 
 <strong>note:</strong> the northern provinces of the Low Countries formally declared their independence with an Act of Abjuration in 1581, but, it was not until 30 January 1648 and the Peace of Westphalia that Spain recognized this independence<br>
 
 **National holiday**<br>
-King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967); note - King's or Queen's Day is observed on the ruling monarch's birthday; currently celebrated on 26 April if 27 April is a Sunday<br>
+King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967)<br>
+<strong>note:</strong> observed on the ruling monarch's birthday; celebrated on 26 April if 27 April is a Sunday<br>
 
 **Flag description**<br>
 three equal horizontal bands of bright red (top), white, and cobalt blue; similar to the flag of Luxembourg, which uses a lighter blue and is longer; the colors come from WILLIAM I, Prince of Orange; originally the upper band was orange, but the dye would turn red over time, and red was eventually made the permanent color<br>
@@ -391,11 +392,10 @@ lion, daisy<br>
 **National color(s)**<br>
 orange<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Het Wilhelmus" (The William)<br>
 _lyrics/music_: Philips VAN MARNIX van Sint Aldegonde (presumed)/unknown<br>
 _history_: adopted 1932, in use since the 17th century; also known as "Wilhelmus van Nassouwe" (William of Nassau), it is in the form of an acrostic -- the first letter of each stanza spells the name of the leader of the Dutch Revolt<br>
-<strong>note:</strong> adopted 1932, in use since the 17th century; also known as "Wilhelmus van Nassouwe" (William of Nassau), it is in the form of an acrostic -- the first letter of each stanza spells the name of the leader of the Dutch Revolt<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 13 (12 cultural, 1 natural)<br>

@@ -5,7 +5,7 @@ _North America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>A land of vast distances and rich natural resources, Canada became a self-governing dominion in 1867, while retaining ties to the British crown. Canada gained legislative independence from Britain in 1931 and formalized its constitutional independence from the UK when it passed the Canada Act in 1982. Economically and technologically, the nation has developed in parallel with the US, its neighbor to the south across the world's longest international border. Canada faces the political challenges of meeting public demands for quality improvements in health care, education, social services, and economic competitiveness, as well as responding to the particular concerns of predominantly francophone Quebec. Canada also aims to develop its diverse energy resources while maintaining its commitment to the environment.</p><br>
+A land of vast distances and rich natural resources, Canada became a self-governing dominion in 1867, while retaining ties to the British crown. Canada gained legislative independence from Britain in 1931 and formalized its constitutional independence from the UK when it passed the Canada Act in 1982. Economically and technologically, the nation has developed in parallel with the US, its neighbor to the south across the world's longest international border. Canada faces the political challenges of meeting public demands for quality improvements in health care, education, social services, and economic competitiveness, as well as responding to the particular concerns of predominantly francophone Quebec. Canada also aims to develop its diverse energy resources while maintaining its commitment to the environment.<br>
 
 ## Geography
 
@@ -82,7 +82,7 @@ Northern Great Plains Aquifer<br>
 vast majority of the population lives in a discontinuous band within approximately 300 km (186 mi) of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia<br>
 
 **Natural hazards**<br>
-<p>continuous permafrost in north is a serious obstacle to development; cyclonic storms form east of the Rocky Mountains, a result of the mixing of air masses from the Arctic, Pacific, and North American interior, and produce most of the country's rain and snow east of the mountains</p><p><strong>volcanism:</strong> the vast majority of volcanoes in Western Canada's Coast Mountains remain dormant</p><br>
+continuous permafrost in north is a serious obstacle to development; cyclonic storms form east of the Rocky Mountains, a result of the mixing of air masses from the Arctic, Pacific, and North American interior, and produce most of the country's rain and snow east of the mountains <br><br><strong>volcanism:</strong> the vast majority of volcanoes in Western Canada's Coast Mountains remain dormant<br>
 
 **Geography - note**<br>
 <p><strong>note 1:</strong> second-largest country in world (after Russia) and largest in the Americas; strategic location between Russia and US via north polar route; approximately 90% of the population is concentrated within 160 km (100 mi) of the US border</p> <p><strong>note 2:</strong> Canada has more fresh water than any other country, and almost 9% of Canadian territory is water; Canada has at least 2 million and possibly over 3 million lakes, more than all other countries combined</p><br>
@@ -391,11 +391,10 @@ maple leaf, beaver<br>
 **National color(s)**<br>
 red, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 _history_: royal anthem, as a Commonwealth country<br>
-<strong>note:</strong> adopted 1980; originally written in 1880, it served as an unofficial anthem for many years; the anthem has French and English versions whose lyrics differ; in addition to the national anthem, "God Save the King" serves as the royal anthem for the Commonwealth country (see United Kingdom)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 22 (10 cultural, 11 natural, 1 mixed) (2021)<br>

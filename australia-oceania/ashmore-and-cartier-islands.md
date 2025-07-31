@@ -14,7 +14,7 @@ Southeastern Asia, islands in the Indian Ocean, midway between northwestern Aust
 
 **Geographic coordinates**<br>
 12 25 S, 123 20 E<br>
-<strong>note -</strong> Ashmore Reef - 12 14 S, 123 05 E; Cartier Islet - 12 32 S, 123 32 E<br>
+<strong>note:</strong> Ashmore Reef - 12 14 S, 123 05 E; Cartier Islet - 12 32 S, 123 32 E<br>
 
 **Map references**<br>
 Southeast Asia<br>

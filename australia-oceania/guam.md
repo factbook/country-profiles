@@ -232,7 +232,8 @@ _history_: effective 1 July 1950 (Guam Act of 1950 serves as a constitution)<br>
 see United States<br>
 
 **Suffrage**<br>
-18 years of age; universal; note - Guamanians are US citizens but do not vote in US presidential elections<br>
+18 years of age; universal<br>
+<strong>note:</strong> Guamanians are US citizens but do not vote in US presidential elections<br>
 
 **Executive branch**<br>
 _chief of state_: President Donald J. TRUMP (since 20 January 2025)<br>
@@ -290,11 +291,10 @@ coconut tree<br>
 **National color(s)**<br>
 deep blue, red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "The Star-Spangled Banner"<br>
 _lyrics/music_: Francis Scott KEY/John Stafford SMITH<br>
 _history_: official anthem, as a US territory; usually played after "Stand, Ye Guamanians"<br>
-<strong>note:</strong> adopted 1919; the local anthem is also known as "Guam Hymn;" because of Guam's status as a US territory, "The Star-Spangled Banner" is the official anthem and is usually played after "Stand, Ye Guamanians" (see United States)<br>
 
 ## Economy
 

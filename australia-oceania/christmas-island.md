@@ -5,7 +5,7 @@ _Australia-Oceania / Dependencies (Australia)_
 ## Introduction
 
 **Background**<br>
-<p>Although Europeans sighted Christmas Island in 1615, it was named for the day of its rediscovery in 1643. Steep cliffs and dense jungle hampered attempts to explore the island over the next two centuries. The discovery of phosphate on the island in 1887 led to the UK annexing it the following year. In 1898, 200 Chinese indentured servants were brought in to work the mines, along with Malays, Sikhs, and a small number of Europeans. The UK administered Christmas Island from Singapore.<br><br>Japan invaded the island in 1942, but islanders sabotaged Japanese mining operations, making the mines relatively unproductive. After World War II, Australia and New Zealand bought the company mining the phosphate, and in 1958, the UK transferred sovereignty from Singapore to Australia in exchange for $20 million to compensate for the loss of future phosphate income. In 1980, Australia set up the Christmas Island National Park and expanded its boundaries throughout the 1980s until it covered more than 60% of the island’s territory. The phosphate mine was closed in 1987 because of environmental concerns, and Australia has rejected several efforts to reopen it.<br><br>In the 1980s, boats of asylum seekers started landing on Christmas Island, and the migrants claimed refugee status because they were on Australian territory. In 2001, Australia declared Christmas Island to be outside the Australian migration zone and built an immigration detention center on the island. Completed in 2008, the controversial detention center was closed in 2018 but then reopened in 2019. In 2020, the center served as a coronavirus quarantine facility for Australian citizens evacuated from China.</p><br>
+Although Europeans sighted Christmas Island in 1615, it was named for the day of its rediscovery in 1643. Steep cliffs and dense jungle hampered attempts to explore the island over the next two centuries. The discovery of phosphate on the island in 1887 led to the UK annexing it the following year. In 1898, 200 Chinese indentured servants were brought in to work the mines, along with Malays, Sikhs, and a small number of Europeans. The UK administered Christmas Island from Singapore.<br><br>Japan invaded the island in 1942, but islanders sabotaged Japanese mining operations, making the mines relatively unproductive. After World War II, Australia and New Zealand bought the company mining the phosphate, and in 1958, the UK transferred sovereignty from Singapore to Australia in exchange for $20 million to compensate for the loss of future phosphate income. In 1980, Australia set up the Christmas Island National Park and expanded its boundaries throughout the 1980s until it covered more than 60% of the island’s territory. The phosphate mine was closed in 1987 because of environmental concerns, and Australia has rejected several efforts to reopen it.<br><br>In the 1980s, boats of asylum seekers started landing on Christmas Island, and the migrants claimed refugee status because they were on Australian territory. In 2001, Australia declared Christmas Island to be outside the Australian migration zone and built an immigration detention center on the island. Completed in 2008, the controversial detention center was closed in 2018 but then reopened in 2019. In 2020, the center served as a coronavirus quarantine facility for Australian citizens evacuated from China.<br>
 
 ## Geography
 
@@ -194,11 +194,10 @@ territorial flag; divided diagonally from upper hoist side to lower fly side; th
 **National symbol(s)**<br>
 golden bosun bird<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 _history_: royal anthem, as an Australian territory<br>
-<strong>note:</strong> because the island is a territory of Australia, "Advance Australia Fair" is the national anthem, and "God Save the King" serves as the royal anthem (see Australia)<br>
 
 ## Economy
 

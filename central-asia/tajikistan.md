@@ -382,11 +382,10 @@ arc of seven five-pointed stars over a crown, Marco Polo sheep<br>
 **National color(s)**<br>
 red, white, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Surudi milli" (National Anthem)<br>
 _lyrics/music_: Gulnazar KELDI/Sulaimon YUDAKOV<br>
 _history_: adopted 1991; after the fall of the Soviet Union, Tajikistan kept the music of its Soviet-era anthem but adopted new lyrics<br>
-<strong>note:</strong> adopted 1991; after the fall of the Soviet Union, Tajikistan kept the music of its Soviet-era anthem but adopted new lyrics<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (2 cultural, 2 natural)<br>

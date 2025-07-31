@@ -5,7 +5,7 @@ _South Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>After Britain’s victory in the 1865 Duar War, Britain and Bhutan signed the Treaty of Sinchulu, under which Bhutan would receive an annual subsidy in exchange for ceding land to British India. Ugyen WANGCHUCK -- who had served as the de facto ruler of an increasingly unified Bhutan and had improved relations with the British toward the end of the 19th century -- was named king in 1907. Three years later, a treaty was signed whereby the British agreed not to interfere in Bhutanese internal affairs, and Bhutan allowed Britain to direct its foreign affairs. Bhutan negotiated a similar arrangement with independent India in 1949. The Indo-Bhutanese Treaty of Friendship returned to Bhutan a small piece of the territory annexed by the British, formalized the annual subsidies the country received, and defined India's responsibilities in defense and foreign relations. Under a succession of modernizing monarchs beginning in the 1950s, Bhutan joined the UN in 1971 and slowly continued its engagement beyond its borders.</p> <p>In 2005, King Jigme Singye WANGCHUCK unveiled the draft of Bhutan's first constitution -- which introduced major democratic reforms -- and held a national referendum for its approval. The King abdicated the throne in 2006 in favor of his son, Jigme Khesar Namgyel WANGCHUCK. In 2007, India and Bhutan renegotiated their treaty, eliminating the clause that stated that Bhutan would be "guided by" India in conducting its foreign policy, although Thimphu continues to coordinate closely with New Delhi. In 2008, Bhutan held its first parliamentary election in accordance with the constitution. Bhutan experienced a peaceful turnover of power following a parliamentary election in 2013, which resulted in the defeat of the incumbent party. In 2018, the incumbent party again lost the parliamentary election. In 2024, of the more than 100,000 ethnic Nepali -- predominantly Lhotshampa -- refugees who fled or were forced out of Bhutan in the 1990s, about 6,500 remain displaced in Nepal.</p><br>
+After Britain’s victory in the 1865 Duar War, Britain and Bhutan signed the Treaty of Sinchulu, under which Bhutan would receive an annual subsidy in exchange for ceding land to British India. Ugyen WANGCHUCK -- who had served as the de facto ruler of an increasingly unified Bhutan and had improved relations with the British toward the end of the 19th century -- was named king in 1907. Three years later, a treaty was signed whereby the British agreed not to interfere in Bhutanese internal affairs, and Bhutan allowed Britain to direct its foreign affairs. Bhutan negotiated a similar arrangement with independent India in 1949. The Indo-Bhutanese Treaty of Friendship returned to Bhutan a small piece of the territory annexed by the British, formalized the annual subsidies the country received, and defined India's responsibilities in defense and foreign relations. Under a succession of modernizing monarchs beginning in the 1950s, Bhutan joined the UN in 1971 and slowly continued its engagement beyond its borders. <br><br>In 2005, King Jigme Singye WANGCHUCK unveiled the draft of Bhutan's first constitution -- which introduced major democratic reforms -- and held a national referendum for its approval. The King abdicated the throne in 2006 in favor of his son, Jigme Khesar Namgyel WANGCHUCK. In 2007, India and Bhutan renegotiated their treaty, eliminating the clause that stated that Bhutan would be "guided by" India in conducting its foreign policy, although Thimphu continues to coordinate closely with New Delhi. In 2008, Bhutan held its first parliamentary election in accordance with the constitution. Bhutan experienced a peaceful turnover of power following a parliamentary election in 2013, which resulted in the defeat of the incumbent party. In 2018, the incumbent party again lost the parliamentary election. In 2024, of the more than 100,000 ethnic Nepali -- predominantly Lhotshampa -- refugees who fled or were forced out of Bhutan in the 1990s, about 6,500 remain displaced in Nepal.<br>
 
 ## Geography
 
@@ -329,7 +329,7 @@ _subordinate courts_: High Court (first appellate court); District or Dzongkhag 
 <strong>note:</strong> the Supreme Court has sole jurisdiction in constitutional matters<br>
 
 **Political parties**<br>
-<p>Bhutan Peace and Prosperity Party (Druk Phuensum Tshogpa) or DPT<br>Bhutan Tendrel Party or BTP<br>Druk Thuendrel Tshogpa or DTT<br>People's Democratic Party or PDP<br>United Party of Bhutan (Druk Nyamrup Tshogpa) or DNT</p><br>
+Bhutan Peace and Prosperity Party (Druk Phuensum Tshogpa) or DPT<br>Bhutan Tendrel Party or BTP<br>Druk Thuendrel Tshogpa or DTT<br>People's Democratic Party or PDP<br>United Party of Bhutan (Druk Nyamrup Tshogpa) or DNT<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador/Permanent Representative to the United Nations (vacant); Charg&eacute; d'Affaires Phuntsho NORBU (since October 2022); note - also serving as the Deputy Permanent Representative to the UN<br>
@@ -360,11 +360,10 @@ mythical thunder dragon (<em>druk</em>)<br>
 **National color(s)**<br>
 orange, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Druk tsendhen" (The Thunder Dragon Kingdom)<br>
 _lyrics/music_: Gyaldun Dasho Thinley DORJI/Aku TONGMI<br>
 _history_: adopted 1953<br>
-<strong>note:</strong> adopted 1953<br>
 
 ## Economy
 

@@ -406,15 +406,14 @@ red, white, blue<br>
 **National coat of arms**<br>
 in 1911, King Vajiravudh (Rama VI) of Thailand officially adopted the Garuda as the national coat of arms and emblem; this mythological half-man, half-bird figure from the Hindu and Buddhist traditions is considered the <em>vahana </em>(vehicle) of the god Vishnu (Narayana) and was a symbol of royalty in Thailand for centuries<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Phleng Sanlasoen Phra Barami" (A Salute to the Monarch)<br>
 _lyrics/music_: Luang SARANUPRAPAN/Phra JENDURIYANG<br>
 _history_: royal anthem, played in the presence of the royal family and during certain state ceremonies<br>
-<strong>note:</strong> music adopted 1932, lyrics adopted 1939; by law, people are required to stand for the national anthem at 0800 (8 am) and 1800 (6 pm) every day, when it is played in schools, offices, theaters, and on television and radio; "Phleng Sanlasoen Phra Barami" (A Salute to the Monarch) serves as the royal anthem and is played in the presence of the royal family and during certain state ceremonies<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 8 (5 cultural, 3 natural)<br>
-_selected World Heritage Site locales_: <p>Historic City of Ayutthaya (c); Historic Sukhothai and Associated Historic Towns (c); Thungyai-Huai Kha Khaeng Wildlife Sanctuaries (n); Ban Chiang Archaeological Site (c); Dong Phayayen-Khao Yai Forest Complex (n); Kaeng Krachan Forest Complex (n); The Ancient Town of Si Thep and its Associated Dvaravati Monuments (n); Phu Phrabat, a testimony to the Sīma stone tradition of the Dvaravati period (c)</p><br>
+_selected World Heritage Site locales_: Historic City of Ayutthaya (c); Historic Sukhothai and Associated Historic Towns (c); Thungyai-Huai Kha Khaeng Wildlife Sanctuaries (n); Ban Chiang Archaeological Site (c); Dong Phayayen-Khao Yai Forest Complex (n); Kaeng Krachan Forest Complex (n); The Ancient Town of Si Thep and its Associated Dvaravati Monuments (n); Phu Phrabat, a testimony to the Sīma stone tradition of the Dvaravati period (c)<br>
 
 ## Economy
 

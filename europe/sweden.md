@@ -226,7 +226,7 @@ _female_: 21 years (2020)<br>
 ## Environment
 
 **Environmental issues**<br>
-<p>marine pollution (Baltic Sea and North Sea); acid rain damage to soil and lakes; air pollution; poor timber-harvesting practices</p><br>
+marine pollution (Baltic Sea and North Sea); acid rain damage to soil and lakes; air pollution; poor timber-harvesting practices<br>
 
 **International environmental agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -359,7 +359,8 @@ ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia G
 6 June 1523 (Gustav VASA elected king of Sweden, marking the abolishment of the Kalmar Union of Denmark, Norway, and Sweden)<br>
 
 **National holiday**<br>
-National Day, 6 June (1983); note - from 1916 to 1982 this date was celebrated as Swedish Flag Day<br>
+National Day, 6 June (1983)<br>
+<strong>note:</strong> celebrated as Swedish Flag Day from 1916 to 1982<br>
 
 **Flag description**<br>
 blue with a golden yellow cross extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors come from the Swedish coat of arms<br>
@@ -370,11 +371,10 @@ three crowns, lion<br>
 **National color(s)**<br>
 blue, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Kungssangen" (The King's Song)<br>
 _lyrics/music_: Carl Wilhelm August Strandberg/Otto Lindblad<br>
 _history_: in use since 1844 as the royal anthem, but also used as the national anthem until 1893; played in the presence of the royal family and during certain state ceremonies<br>
-<strong>note:</strong> in use since 1844; also known as "Sang till Norden" (Song of the North); based on a Swedish folk tune; has never been officially adopted; "Kungssangen" (The King's Song) serves as the royal anthem and is played in the presence of the royal family and during certain state ceremonies<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 15 (13 cultural, 1 natural, 1 mixed)<br>

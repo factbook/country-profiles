@@ -307,7 +307,8 @@ Caricom (associate), ICC (NGOs), Interpol (subbureau), IOC, ITUC (NGOs), UPU, WC
 none (overseas territory of the UK)<br>
 
 **National holiday**<br>
-Bermuda Day, 24 May; note - formerly known as Victoria Day, Empire Day, and Commonwealth Day<br>
+Bermuda Day, 24 May<br>
+<strong>note:</strong> formerly known as Victoria Day, Empire Day, and Commonwealth Day<br>
 
 **Flag description**<br>
 red, with the UK flag in the upper hoist-side quadrant and the Bermudian coat of arms centered on the outer half of the flag; the coat of arms is a white shield with a red lion on a green field, holding a scrolled shield showing the sinking of the ship Sea Venture off Bermuda in 1609; it was the shipwreck that led to the settling of Bermuda<br>
@@ -319,11 +320,10 @@ red lion<br>
 **National coat of arms**<br>
 Bermuda's coat of arms was formally granted by Royal Warrant on 4 October 1910 but has been in use since at least 1624; the red lion is a symbol of Great Britain; the Latin motto under the coat of arms, <em>Quo Fata Ferunt</em>, means "Whither the Fates Carry [Us];" the ship is the <em>Sea Venture</em>, an English ship that was wrecked on then-uninhabited Bermuda in 1609<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 _history_: official anthem, as a UK territory<br>
-<strong>note:</strong> serves as a local anthem; "God Save the King" is the official anthem for Bermuda, as a territory of the United Kingdom (see United Kingdom)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural); note - excerpted from the UK entry<br>

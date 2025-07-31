@@ -136,7 +136,7 @@ _history_: several previous; latest drafted 10 February 2010, presented 17 Febru
 see United Kingdom<br>
 
 **Suffrage**<br>
-18 years of age; universal with three years residency<br>
+18 years of age; universal with three years of residency<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by UK High Commissioner to New Zealand and Governor (nonresident) of the Pitcairn Islands Iona THOMAS (since 9 August 2022)<br>
@@ -187,11 +187,10 @@ Birthday of King CHARLES III, second Saturday in June (1948); Discovery Day (Pit
 **Flag description**<br>
 blue with the UK flag in the upper hoist-side quadrant and the Pitcairn Islander coat of arms centered on the outer half of the flag; the green, yellow, and blue of the shield represents the island rising from the ocean; the green field features a yellow anchor with a Bible over it (both were found on the <em>HMS Bounty</em>); a Pitcairn Island wheelbarrow is on the crest, with a flowering twig of miro (a local plant)<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 _history_: official anthem, as a UK overseas territory<br>
-<strong>note:</strong> serves as a local anthem; "God Save the King" is the official anthem for the islands, as a UK overseas territory (see United Kingdom)<br>
 
 ## Economy
 

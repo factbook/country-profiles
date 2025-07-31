@@ -22,7 +22,7 @@ Southeast Asia<br>
 _total _: 5 sq km less than<br>
 _land_: 5 sq km less than<br>
 _water_: 0 sq km<br>
-<strong>note:</strong> includes 100 or so islets, coral reefs, and sea mounts scattered over an area of nearly 410,000 sq km (158,000 sq mi) of the central South China Sea<br>
+<strong>note:</strong> includes over 100 islets, coral reefs, and sea mounts scattered over an area of nearly 410,000 sq km (158,000 sq mi) in the central South China Sea<br>
 
 **Area - comparative**<br>
 land area is about seven times the size of the National Mall in Washington, D.C.<br>

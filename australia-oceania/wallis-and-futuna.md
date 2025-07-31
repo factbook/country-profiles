@@ -276,11 +276,10 @@ red saltire (Saint Andrew's Cross) on a white square on a red field<br>
 **National color(s)**<br>
 red, white<br>
 
-**National anthem**<br>
-_title_: "La Marseillaise"<br>
+**National anthem(s)**<br>
+_title_: "La Marseillaise" (The Song of Marseille)<br>
 _lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
 _history_: official anthem, as a French territory<br>
-<strong>note:</strong> as a territory of France, "La Marseillaise" is official (see France)<br>
 
 ## Economy
 

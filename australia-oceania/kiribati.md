@@ -22,7 +22,7 @@ Oceania<br>
 _total _: 811 sq km<br>
 _land_: 811 sq km<br>
 _water_: 0 sq km<br>
-<strong>note:</strong> includes three island groups - Gilbert Islands, Line Islands, and Phoenix Islands - dispersed over about 3.5 million sq km (1.35 million sq mi)<br>
+<strong>note:</strong> includes three island groups -- Gilbert Islands, Line Islands, and Phoenix Islands -- dispersed over about 3.5 million sq km (1.35 million sq mi)<br>
 
 **Area - comparative**<br>
 four times the size of Washington, D.C.<br>
@@ -359,11 +359,10 @@ frigatebird<br>
 **National color(s)**<br>
 red, white, blue, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Teirake kaini Kiribati" (Stand Up, Kiribati)<br>
 _lyrics/music_: Urium Tamuera IOTEBA<br>
 _history_: adopted 1979<br>
-<strong>note:</strong> adopted 1979<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (natural)<br>

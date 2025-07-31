@@ -89,6 +89,3 @@ sparse network of air, ocean, river, and land routes; the Northwest Passage (Nor
 
 ## Transnational Issues
 
-**Disputes - international**<br>
-<strong>note: </strong>record levels of summer melting of sea ice in the Arctic has renewed interest in maritime shipping lanes and sea floor exploration<br>
-

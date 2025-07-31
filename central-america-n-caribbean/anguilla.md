@@ -280,11 +280,10 @@ dolphin<br>
 **National coat of arms**<br>
 the Anguillan coat of arms features three interlocking dolphins jumping out of seawater; they represent endurance, unity, and strength, and their circular motion stands for continuity; the white background symbolizes peace and tranquility, and the turquoise-blue base represents the sea, as well as faith, youth, and hope<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 _history_: official anthem, as an overseas UK territory<br>
-<strong>note:</strong> local anthem adopted 1981; "God Save the King" is the official anthem for Anguilla as an overseas territory of the United Kingdom (see United Kingdom)<br>
 
 ## Economy
 

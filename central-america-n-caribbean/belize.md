@@ -380,11 +380,10 @@ Baird's tapir (a large forest-dwelling mammal), keel-billed toucan, black orchid
 **National color(s)**<br>
 red, blue<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 _history_: royal anthem, as a Commonwealth country<br>
-<strong>note:</strong> adopted 1981; in addition to the national anthem, "God Save the King" serves as the royal anthem for the Commonwealth country (see United Kingdom)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (natural)<br>

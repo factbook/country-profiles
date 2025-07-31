@@ -74,7 +74,7 @@ Sepik (shared with Papua New Guinea [s]) - 1,126 km; Fly (shared with Papua New 
 major concentration on the island of Java, which is considered one of the most densely populated places on earth; of the outer islands, Sumatra contains some of the most significant clusters, particularly in the south near the Selat Sunda and along the northeastern coast near Medan; the cities of Makasar (Sulawesi), Banjarmasin (Kalimantan) are also heavily populated<br>
 
 **Natural hazards**<br>
-<p>occasional floods; severe droughts; tsunamis; earthquakes; volcanoes; forest fires</p> <p><strong>volcanism:</strong> Indonesia contains the most volcanoes of any country in the world - some 76 are historically active; significant volcanic activity occurs on Java, Sumatra, the Sunda Islands, Halmahera Island, Sulawesi Island, Sangihe Island, and in the Banda Sea; Merapi (2,968 m), Indonesia's most active volcano and in eruption since 2010, has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; on 22 December 2018, a large explosion and flank collapse destroyed most of the 338 m high island of Anak Krakatau (Child of Krakatau) and generated a deadly tsunami inundating portions of western Java and southern Sumatra leaving more than 400 dead; other notable historically active volcanoes include Agung, Awu, Karangetang, Krakatau (Krakatoa), Makian, Raung, Sinabung, and Tambora; see note 2 under "Geography - note"</p><br>
+occasional floods; severe droughts; tsunamis; earthquakes; volcanoes; forest fires <br><br><strong>volcanism:</strong> Indonesia contains the most volcanoes of any country in the world, with over 75 historically active; significant volcanic activity occurs on Java, Sumatra, the Sunda Islands, Halmahera Island, Sulawesi Island, Sangihe Island, and in the Banda Sea; Merapi (2,968 m), Indonesia's most active volcano, has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; in 2018, a large explosion and flank collapse destroyed most of the island of Anak Krakatau (Child of Krakatau) and generated a deadly tsunami that left more than 400 dead; other notable historically active volcanoes include Agung, Awu, Karangetang, Krakatau (Krakatoa), Makian, Raung, Sinabung, and Tambora; see note 2 under "Geography - note"<br>
 
 **Geography - note**<br>
 <p><strong>note 1:</strong> 13,466 islands are in the archipelago, of which 922 are permanently inhabited; Indonesia is the world's largest country composed solely of islands; the country straddles the equator and occupies a strategic location along major sea lanes from the Indian Ocean to the Pacific Ocean</p> <p><strong>note 2:</strong> Indonesia is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire; 80% of tsunamis, caused by volcanic or seismic events, occur within the "Pacific Ring of Fire"</p> <p><strong>note 3:</strong> despite having the fourth largest population in the world, Indonesia is the most heavily forested region on earth after the Amazon</p><br>
@@ -395,11 +395,10 @@ garuda (mythical bird)<br>
 **National color(s)**<br>
 red, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Indonesia Raya" (Great Indonesia)<br>
 _lyrics/music_: Wage Rudolf SOEPRATMAN<br>
 _history_: adopted 1945<br>
-<strong>note:</strong> adopted 1945<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 10 (6 cultural, 4 natural)<br>

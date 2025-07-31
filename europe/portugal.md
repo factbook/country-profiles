@@ -69,7 +69,7 @@ _other_: 21.1% (2022 est.)<br>
 concentrations are primarily along or near the Atlantic coast; both Lisbon and the second largest city, Porto, are coastal cities<br>
 
 **Natural hazards**<br>
-<p>Azores subject to severe earthquakes</p><p><strong>volcanism:</strong> limited volcanic activity in the Azores Islands; Fayal or Faial (1,043 m) last erupted in 1958; most volcanoes have not erupted in centuries; historically active volcanoes include Agua de Pau, Furnas, Pico, Picos Volcanic System, San Jorge, Sete Cidades, and Terceira</p><br>
+Azores subject to severe earthquakes <br><br><strong>volcanism:</strong> limited volcanic activity in the Azores Islands; Fayal or Faial (1,043 m) last erupted in 1958; most volcanoes have not erupted in centuries; historically active volcanoes include Agua de Pau, Furnas, Pico, Picos Volcanic System, San Jorge, Sete Cidades, and Terceira<br>
 
 **Geography - note**<br>
 Azores and Madeira Islands occupy strategic locations along western sea approaches to Strait of Gibraltar; they are two of the four North Atlantic archipelagos that make up Macaronesia; the others are the Canary Islands (Spain) and Cabo Verde<br>
@@ -315,7 +315,7 @@ _head of government_: Prime Minister Antonio Luis MONTENEGRO (since 2 April 2024
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); following legislative elections, the president usually appoints the leader of the majority party or majority coalition as prime minister<br>
 _most recent election date_: 24 January 2021<br>
-_election results_: <br><em>2021:</em> Marcelo REBELO DE SOUSA reelected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 60.7%, Ana GOMES (ran as an independent but is a member of PS) 13%, Andre VENTURA (CH) 11.9%, João FERREIRA (PCP-PEV) 4.3%, other 10.1%<br><br><em>2016:</em> Marcelo REBELO DE SOUSA elected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 52%, António SAMPAIO DA NOVOA (independent) 22.9%, Marisa MATIAS (BE) 10.1%, Maria DE BELEM ROSEIRA (PS) 4.2%, other 10.8% <p> </p><br>
+_election results_: <br><em>2021:</em> Marcelo REBELO DE SOUSA reelected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 60.7%, Ana GOMES (ran as an independent but is a member of PS) 13%, Andre VENTURA (CH) 11.9%, João FERREIRA (PCP-PEV) 4.3%, other 10.1%<br><br><em>2016:</em> Marcelo REBELO DE SOUSA elected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 52%, António SAMPAIO DA NOVOA (independent) 22.9%, Marisa MATIAS (BE) 10.1%, Maria DE BELEM ROSEIRA (PS) 4.2%, other 10.8%<br>
 _expected date of next election_: January 2026<br>
 <strong>note:</strong> there is also a Council of State that acts as a consultative body to the president<br>
 
@@ -364,7 +364,8 @@ ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, C
 1143 (Kingdom of Portugal recognized); 1 December 1640 (independence reestablished after 60 years of Spanish rule); 5 October 1910 (republic proclaimed)<br>
 
 **National holiday**<br>
-Portugal Day (Dia de Portugal), 10 June (1580); note - also called Camoes Day, the day that revered national poet Luis DE CAMOES (1524-80) died<br>
+Portugal Day (Dia de Portugal), 10 June (1580)<br>
+<strong>note:</strong> also called Camoes Day, the day that revered national poet Luis DE CAMOES (1524-80) died<br>
 
 **Flag description**<br>
 two vertical bands of green (hoist side, two-fifths) and red (three-fifths), with the national coat of arms (armillary sphere and national shield) centered on the dividing line; explanations for the color meanings are ambiguous, but a popular interpretation has green symbolizing hope and red the blood of those defending the nation<br>
@@ -375,11 +376,10 @@ armillary sphere (a spherical astrolabe for modeling objects in the sky)<br>
 **National color(s)**<br>
 red, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "A Portugesa" (The Song of the Portuguese)<br>
 _lyrics/music_: Henrique LOPES DE MENDOCA/Alfredo KEIL<br>
 _history_: adopted 1910; originally written to protest the Portuguese monarchy's acquiescence to the 1890 British ultimatum forcing Portugal to give up areas of Africa<br>
-<strong>note:</strong> adopted 1910; originally written to protest the Portuguese monarchy's acquiescence to the 1890 British ultimatum forcing Portugal to give up areas of Africa<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 17 (16 cultural, 1 natural)<br>
@@ -651,7 +651,7 @@ Portuguese Armed Forces (Forças Armadas Portuguesa): Portuguese Army (Exercito 
 1.4% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 28,000 active-duty Armed Forces (15,000 Army; 7,000 Navy, including about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2024)<br>
+approximately 28,000 active-duty Armed Forces (15,000 Army; 7,000 Navy, including about 1,000 marines; 6,000 Air Force); 25,000 National Republican Guard (military personnel) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes mostly European- and US-origin weapons systems along with a smaller mix of domestically produced equipment; in recent years, leading foreign suppliers have included Germany and the US; Portugal's defense industry is noted for its shipbuilding (2024)<br>
@@ -662,10 +662,10 @@ the military's inventory includes mostly European- and US-origin weapons systems
 <strong>note: </strong>as of 2023, women made up about 14% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-the Portuguese Armed Forces have more than 1,100 military personnel deployed around the world engaged in missions supporting the EU, NATO, the UN, and partner nations; key deployments include 225 troops in the Central African Republic (MINUSCA), approximately 220 in Lithuania (NATO), and approximately 150 in Romania (NATO); it also participates in NATO air policing and maritime patrolling operations (2024)<br>
+the Portuguese Armed Forces have more than 1,100 military personnel deployed around the world engaged in missions supporting the EU, NATO, the UN, and partner nations; key deployments include 225 troops in the Central African Republic (MINUSCA), approximately 200 in Lithuania (NATO), and approximately 150 in Romania (NATO); it also participates in NATO air policing and maritime patrolling operations (2024)<br>
 
 **Military - note**<br>
-the Portuguese military is an all-volunteer force with the primary responsibilities of external defense, humanitarian operations, and fulfilling Portugal’s commitments to European and international security; maritime security has long been a key component of the military's portfolio, and Portugal has one of the world's oldest navies<br><br>Portugal was one of the original signers of the North Atlantic Treaty (also known as the Washington Treaty) in 1949 establishing NATO, and the Alliance forms a key pillar of Portugal’s defense policy; Portugal is also a signatory of the EU’s Common Security and Defense Policy, and it regularly participates in a variety of EU, NATO, and UN deployments around the world; the military’s largest commitments include air, ground, and naval forces under NATO-led missions and standing task forces in the Baltics, Eastern Europe, and the Mediterranean Sea; the military also participates regularly in exercises with NATO partners (2024)<br>
+the Portuguese military is responsible for external defense, humanitarian operations, and fulfilling Portugal’s commitments to European and international security; maritime security has long been a key component of the military's portfolio, and Portugal has one of the world's oldest navies<br><br>Portugal was one of the original signers of the North Atlantic Treaty (also known as the Washington Treaty) in 1949 establishing NATO, and the Alliance forms a key pillar of Portugal’s defense policy; Portugal is also a signatory of the EU’s Common Security and Defense Policy, and it regularly participates in a variety of EU and NATO, as well as UN deployments around the world; the military’s largest commitments include air, ground, and naval forces under NATO-led missions and standing task forces in the Baltics, Eastern Europe, and the Mediterranean Sea; the military also participates in exercises with NATO partners (2025)<br>
 
 ## Space
 

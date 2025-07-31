@@ -77,7 +77,7 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> N
 the largest and most populous East African country; population distribution is extremely uneven, but greater population clusters occur in the northern half of country and along the east coast, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
-<p>flooding on the central plateau during the rainy season; drought</p><p><strong>volcanism:</strong> limited volcanic activity; Ol Doinyo Lengai (2,962 m) has emitted lava in recent years; other historically active volcanoes include Kieyo and Meru</p><br>
+flooding on the central plateau during the rainy season; drought <br><br><strong>volcanism:</strong> limited volcanic activity; Ol Doinyo Lengai (2,962 m) has emitted lava in recent years; other historically active volcanoes include Kieyo and Meru<br>
 
 **Geography - note**<br>
 Kilimanjaro is the highest point in Africa and one of only three mountain ranges on the continent that has glaciers (the others are Mount Kenya in Kenya and the Ruwenzori Mountains on the Uganda-Democratic Republic of the Congo border); Tanzania is bordered by three of the largest lakes on the continent: Lake Victoria (the world's second-largest freshwater lake) in the north, Lake Tanganyika (the world's second-deepest) in the west, and Lake Nyasa (Lake Malawi) in the southwest<br>
@@ -389,11 +389,10 @@ Uhuru (freedom) torch, giraffe<br>
 **National color(s)**<br>
 green, yellow, blue, black<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Mungu ibariki Afrika" (God Bless Africa)<br>
 _lyrics/music_: collective/Enoch Mankayi SONTONGA<br>
 _history_: adopted 1961; the anthem, which is also a popular song in Africa, shares the melody of Zambia's anthem; the melody is also part of South Africa's anthem<br>
-<strong>note:</strong> adopted 1961; the anthem, which is also a popular song in Africa, shares the melody of Zambia's anthem; the melody is also part of South Africa's anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 7 (3 cultural, 3 natural, 1 mixed)<br>

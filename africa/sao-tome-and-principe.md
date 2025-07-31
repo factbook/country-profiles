@@ -367,11 +367,10 @@ palm tree<br>
 **National color(s)**<br>
 green, yellow, red, black<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Independencia total" (Total Independence)<br>
 _lyrics/music_: Alda Neves DA GRACA do Espirito Santo/Manuel dos Santos Barreto de Sousa e ALMEIDA<br>
 _history_: adopted 1975<br>
-<strong>note:</strong> adopted 1975<br>
 
 ## Economy
 

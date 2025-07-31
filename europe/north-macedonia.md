@@ -310,7 +310,7 @@ _head of government_: President Gordana SILJANOVSKA-DAVKOVA (since 12 May 2024)<
 _cabinet_: Council of Ministers elected by the Assembly by simple majority vote<br>
 _election/appointment process_: president directly elected using a modified 2-round system; a candidate can only be elected in the first round with an absolute majority from all registered voters; in the second round, voter turnout must be at least 40% for the result to be valid; president elected for a 5-year term (eligible for a second term); following legislative elections, the Assembly usually elects the leader of the majority party or majority coalition as prime minister<br>
 _most recent election date_: 24 April and 8 May 2024<br>
-_election results_: <em><br>2024: </em>Hristijan MICKOSKI elected prime minister; Assembly vote - 77 for, 22 against<em><br><br>2024: </em>Gordana SILJANOVSKA-DAVKOVA elected president in the second round; percent of vote - Gordana SILJANOVSKA-DAVKOVA (VMRO-DPMNE) 69%, Stevo PENDAROVSKI (SDSM) 31%<em><br><br>2024: </em>Talat XHAFERI elected caretaker prime minister; Assembly vote - 65 for (opposition boycott)<em><br><br>2022: </em>Dimitar KOVACEVSKI elected prime minister; Assembly vote - NA<em><br></em><br>
+_election results_: <em><br>2024: </em>Hristijan MICKOSKI elected prime minister; Assembly vote - 77 for, 22 against<em><br><br>2024: </em>Gordana SILJANOVSKA-DAVKOVA elected president in the second round; percent of vote - Gordana SILJANOVSKA-DAVKOVA (VMRO-DPMNE) 69%, Stevo PENDAROVSKI (SDSM) 31%<em><br><br>2024: </em>Talat XHAFERI elected caretaker prime minister; Assembly vote - 65 for (opposition boycott)<em><br><br>2022: </em>Dimitar KOVACEVSKI elected prime minister; Assembly vote - NA<br>
 _expected date of next election_: 2029<br>
 
 **Legislative branch**<br>
@@ -368,11 +368,10 @@ eight-rayed sun<br>
 **National color(s)**<br>
 red, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Denes nad Makedonija" (Today Over Macedonia)<br>
 _lyrics/music_: Vlado MALESKI/Todor SKALOVSKI<br>
 _history_: written in 1943 and adopted in 1991, the song previously served as the anthem of the Socialist Republic of Macedonia, when it was part of Yugoslavia<br>
-<strong>note:</strong> written in 1943 and adopted in 1991, the song previously served as the anthem of the Socialist Republic of Macedonia, when it was part of Yugoslavia<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both natural)<br>

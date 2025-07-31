@@ -326,7 +326,7 @@ _head of government_: Prime Minister Ousmane SONKO (since 2 April 2024)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a single, renewable 5-year term<br>
 _most recent election date_: 24 March 2024<br>
-_election results_: <em><br>2024:</em> Bassirou Diomaye FAYE elected president in first round; percent of vote - Bassirou Diomaye FAYE (PASTEF) 54%, Amadou BA (APR) 36%, other 10%<br><em><em><br>2019:</em></em> Macky SALL reelected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%, other 5.5% <p> </p><br>
+_election results_: <em><br>2024:</em> Bassirou Diomaye FAYE elected president in first round; percent of vote - Bassirou Diomaye FAYE (PASTEF) 54%, Amadou BA (APR) 36%, other 10%<br><em><em><br>2019:</em></em> Macky SALL reelected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%, other 5.5%<br>
 _expected date of next election_: March 2029<br>
 
 **Legislative branch**<br>
@@ -383,11 +383,10 @@ lion<br>
 **National color(s)**<br>
 green, yellow, red<br>
 
-**National anthem**<br>
-_title_: "Pincez Tous vos Koras, Frappez les Balafons" (Pluck Your Koras, Strike the Balafons)<br>
+**National anthem(s)**<br>
+_title_: "Pincez tous vos koras, frappez les balafons" (Pluck Your Koras, Strike the Balafons)<br>
 _lyrics/music_: Leopold Sedar SENGHOR/Herbert PEPPER<br>
 _history_: adopted 1960; lyrics written by Leopold Sedar SENGHOR, Senegal's first president; the anthem sometimes played incorporating the koras (harp-like stringed instruments) and balafons (types of xylophones) mentioned in the title<br>
-<strong>note:</strong> adopted 1960; lyrics written by Leopold Sedar SENGHOR, Senegal's first president; the anthem sometimes played incorporating the koras (harp-like stringed instruments) and balafons (types of xylophones) mentioned in the title<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 7 (5 cultural, 2 natural)<br>
@@ -661,7 +660,7 @@ the military's inventory includes a mix of older, secondhand, and more modern eq
 200 Central African Republic (MINUSCA; plus about 525 police); 800 (ECOWAS Military Intervention in The Gambia--ECOMIG); 500 (ECOWAS Stabilization Support Mission in Guinea-Bissau--EESMGB); 450 police Democratic Republic of the Congo (MONUSCO) (2024)<br>
 
 **Military - note**<br>
-despite limited resources, the Senegalese military is considered to be a well-equipped, experienced, and effective force; the military has a tradition of non-interference in the country’s political process and positive relations with civil authorities; it participates in foreign deployments and multinational exercises and has received assistance from France, which maintains a military presence in the country, as well as Germany, Spain, the UK, and the US; the military’s primary focuses are border, internal, and maritime security; it also works with the civilian government in areas such as preventive healthcare, infrastructure development, environmental protection, and disaster response<br><br>Senegal's security concerns include the prevalence of multiple active terrorist groups across the region and political instability in neighboring Mali and Guinea; Senegal has recently established new military and gendarmerie camps along its eastern border with Mali<br><br>Senegalese security forces have been engaged in a low-level counterinsurgency campaign in the southern Casamance region against various factions of the separatist Movement of Democratic Forces of the Casamance (MDFC) since 1982; the conflict is one of longest running low-level insurgencies in the World, having claimed more than 5,000 lives while leaving another 60,000 displaced; in May 2023, a faction of the MFDC agreed to a peace deal (2024)<br>
+the Senegalese military is responsible for both territorial defense and internal security; it also assists the civilian government in such areas as preventive healthcare, infrastructure development, environmental protection, and disaster response; key areas of focus for the military include a low-level insurgency in the country's south, maritime security, and securing the border against smuggling and Sahel-based Islamist insurgent groups affiliated with al-Qa'ida and the Islamic State; the military participates in foreign peacekeeping deployments and multinational exercises; its closest security partner is France, which has long maintained a military presence in Senegal  <br><br>Senegalese security forces have been engaged in a low-level counterinsurgency campaign in the southern Casamance region against factions of the separatist Movement of Democratic Forces of the Casamance (MDFC) since 1982; the conflict is one of longest running low-level insurgencies in the World, having claimed more than 5,000 lives while leaving another 60,000 displaced; in recent years, nearly all of the MDFC factions have agreed to cease hostilities (2025)<br>
 
 ## Space
 

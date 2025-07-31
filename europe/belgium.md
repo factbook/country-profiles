@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Belgium became independent from the Netherlands in 1830; it was occupied by Germany during World Wars I and II. The country prospered as a modern, technologically advanced European state and member of NATO and the EU. In recent years, longstanding tensions between the Dutch-speaking Flemish of the north and the French-speaking Walloons of the south have led to constitutional amendments granting these regions formal recognition and autonomy. The capital city of Brussels is home to numerous international organizations, including the EU and NATO.</p><br>
+Belgium became independent from the Netherlands in 1830; it was occupied by Germany during World Wars I and II. The country prospered as a modern, technologically advanced European state and member of NATO and the EU. In recent years, longstanding tensions between the Dutch-speaking Flemish of the north and the French-speaking Walloons of the south have led to constitutional amendments granting these regions formal recognition and autonomy. The capital city of Brussels is home to numerous international organizations, including the EU and NATO.<br>
 
 ## Geography
 
@@ -352,7 +352,7 @@ _judge selection and term of office_: Constitutional Court judges appointed by t
 _subordinate courts_: Courts of Appeal; regional courts; specialized courts for administrative, commercial, labor, immigration, and audit issues; magistrate's courts; justices of the peace<br>
 
 **Political parties**<br>
-<strong>Flemish parties:</strong> <br>Christian Democratic and Flemish or CD&amp;V <br>Vooruit or Forward (formerly Social Progressive Alternative or SP.A)<br>Groen or Green (formerly AGALEV, Flemish Greens)<br>New Flemish Alliance or N-VA <br>Open Flemish Liberals and Democrats or Open VLD <br>Vlaams Belang (Flemish Interest) or VB <br><strong>Francophone parties:</strong> <br>Ecolo (Francophone Greens) <br>Francophone Federalist Democrats or Defi <br>Les Engages (formerly Humanist and Democratic Center or CDH)<br>Reform Movement or MR <br>Socialist Party or PS <br>Workers' Party or PVDA-PTB<br>
+<strong>Flemish parties:</strong> <br>Christian Democratic and Flemish or CD&amp;V <br>Vooruit or Forward (formerly Social Progressive Alternative or SP.A)<br>Groen or Green (formerly AGALEV, Flemish Greens)<br>New Flemish Alliance or N-VA <br>Open Flemish Liberals and Democrats or Open VLD <br>Vlaams Belang (Flemish Interest) or VB <br><br><strong>Francophone parties:</strong> <br>Ecolo (Francophone Greens) <br>Francophone Federalist Democrats or Defi <br>Les Engages (formerly Humanist and Democratic Center or CDH)<br>Reform Movement or MR <br>Socialist Party or PS <br>Workers' Party or PVDA-PTB<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Fr&eacute;d&eacute;ric BERNARD (since 25 February 2025)<br>
@@ -388,11 +388,10 @@ golden rampant lion<br>
 **National color(s)**<br>
 red, black, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "La Braban&ccedil;onne" (The Song of Brabant)<br>
 _lyrics/music_: Louis-Alexandre DECHET [French] and Victor CEULEMANS [Dutch]/Francois VAN CAMPENHOUT<br>
 _history_: adopted 1830; according to legend, Louis-Alexandre DECHET, an actor at the theater where the revolution against the Netherlands began, wrote the lyrics with a group of young people in a Brussels cafe<br>
-<strong>note:</strong> adopted 1830; according to legend, Louis-Alexandre DECHET, an actor at the theater where the revolution against the Netherlands began, wrote the lyrics with a group of young people in a Brussels cafe<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 16 (15 cultural, 1 natural)<br>

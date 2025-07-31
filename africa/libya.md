@@ -310,9 +310,6 @@ _expected date of next election_: December 2025<br>
 **Judicial branch**<br>
 _highest court(s)_: Libya's judicial system consists of a supreme court, central high courts (in Tripoli, Benghazi, and Sabha), and a series of lower courts<br>
 
-**Political parties**<br>
-NA<br><br>
-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Fadil S M OMAR (since 17 July 2023)<br>
 _chancery_: 1460 Dahlia Street NW, Washington, DC 20012<br>
@@ -346,11 +343,10 @@ star and crescent, hawk<br>
 **National color(s)**<br>
 red, black, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Libya, Libya, Libya"<br>
 _lyrics/music_: Al Bashir AL AREBI/Mohamad Abdel WAHAB<br>
 _history_: adopted 1951, but replaced in 1969 when QADHAFI came to power; readopted 2011 with some modification to the lyrics; also known as "Ya Beladi" (O My Country)<br>
-<strong>note:</strong> adopted 1951, but replaced in 1969 when QADHAFI came to power; readopted 2011 with some modification to the lyrics; also known as "Ya Beladi" (O My Country)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (all cultural)<br>

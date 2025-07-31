@@ -391,11 +391,10 @@ lion<br>
 **National color(s)**<br>
 green, yellow, red, white<br>
 
-**National anthem**<br>
-_title_: "Salut a toi, pays de nos aieux" (Hail to Thee, Land of Our Forefathers)<br>
+**National anthem(s)**<br>
+_title_: "Salut &agrave; toi, pays de nos aieux" (Hail to Thee, Land of Our Forefathers)<br>
 _lyrics/music_: Alex CASIMIR-DOSSEH<br>
 _history_: adopted 1960, restored 1992; anthem was replaced during one-party rule between 1979 and 1992<br>
-<strong>note:</strong> adopted 1960, restored 1992; anthem was replaced during one-party rule between 1979 and 1992<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

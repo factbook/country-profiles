@@ -354,7 +354,8 @@ ADB (nonregional member), Australia Group, Benelux, BIS, CD, CE, EAPC, EBRD, ECB
 1839 (from the Netherlands)<br>
 
 **National holiday**<br>
-National Day (birthday of Grand Duke HENRI), 23 June; note - this date of birth is not the true date of birth for any of the Royals, but the national festivities were shifted in 1962 to allow observance during a more favorable time of year<br>
+National Day (birthday of Grand Duke HENRI), 23 June<br>
+<strong>note:</strong> this is not the true date of birth for any of the Royals, but the national festivities were shifted in 1962 to allow observance during a more favorable time of year<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and light blue; similar to the flag of the Netherlands, which uses a darker blue and is shorter; the coloring is derived from the Grand Duke's coat of arms<br>
@@ -365,11 +366,10 @@ red rampant lion<br>
 **National color(s)**<br>
 red, white, light blue<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "De Wilhelmus" (The William)<br>
 _lyrics/music_: Nikolaus WELTER/unknown<br>
 _history_: royal anthem, for use when members of the grand ducal family enter or exit a ceremony in Luxembourg<br>
-<strong>note:</strong> "Ons Heemecht," adopted 1864, is the national anthem, and "De Wilhelmus," adopted 1919, serves as a royal anthem for use when members of the grand ducal family enter or exit a ceremony in Luxembourg<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

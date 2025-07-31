@@ -70,7 +70,7 @@ Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube
 a fairly even population distribution exists throughout most of the country, with coastal areas, the Po River Valley, and urban centers (particularly Milan, Rome, and Naples) attracting larger and denser populations<br>
 
 **Natural hazards**<br>
-<p>regional risks include landslides, mudflows, avalanches, earthquakes, volcanic eruptions, flooding; land subsidence in Venice</p> <p><strong>volcanism:</strong> significant volcanic activity; Etna (3,330 m), which is in eruption as of 2013, is Europe's most active volcano; flank eruptions pose a threat to nearby Sicilian villages; Etna, along with the famous Vesuvius, which remains a threat to the millions of nearby residents in the Bay of Naples area, have both been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; Stromboli, on its namesake island, has also been continuously active with moderate volcanic activity; other historically active volcanoes include Campi Flegrei, Ischia, Larderello, Pantelleria, Vulcano, and Vulsini</p><br>
+regional risks include landslides, mudflows, avalanches, earthquakes, volcanic eruptions, flooding; land subsidence in Venice <br><br><strong>volcanism:</strong> significant volcanic activity; Etna (3,330 m) is Europe's most active volcano, and its flank eruptions pose a threat to nearby Sicilian villages; Etna, along with the famous Vesuvius, have both been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; Stromboli, on its namesake island, has also been continuously active with moderate volcanic activity; other historically active volcanoes include Campi Flegrei, Ischia, Larderello, Pantelleria, Vulcano, and Vulsini<br>
 
 **Geography - note**<br>
 strategic location dominating central Mediterranean, as well as southern sea and air approaches to Western Europe<br>
@@ -287,7 +287,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: by tradition, named after Romulus, one of the legendary founders of the city, but the name Romulus may instead derive from the city's name; the name Rome may come from an Etruscan name for the Tiber River, which was Roma or Ruma<br>
 
 **Administrative divisions**<br>
-<p>15 regions (<em>regioni</em>, singular - <em>regione</em>) and 5 autonomous regions (<em>regioni autonome</em>, singular - <em>regione autonoma</em>)</p> <p><strong>regions:</strong> Abruzzo, Basilicata, Calabria, Campania, Emilia-Romagna, Lazio (Latium), Liguria, Lombardia, Marche, Molise, Piemonte (Piedmont), Puglia (Apulia), Toscana (Tuscany), Umbria, Veneto</p> <p><strong>autonomous regions:</strong> Friuli Venezia Giulia, Sardegna (Sardinia), Sicilia (Sicily), Trentino-Alto Adige (Trentino-South Tyrol) or Trentino-Suedtirol (German), Valle d'Aosta (Aosta Valley) or Vallée d'Aoste (French)</p><br>
+15 regions (<em>regioni</em>, singular - <em>regione</em>) and 5 autonomous regions (<em>regioni autonome</em>, singular - <em>regione autonoma</em>) <br><br><strong>regions:</strong> Abruzzo, Basilicata, Calabria, Campania, Emilia-Romagna, Lazio (Latium), Liguria, Lombardia, Marche, Molise, Piemonte (Piedmont), Puglia (Apulia), Toscana (Tuscany), Umbria, Veneto <br><br><strong>autonomous regions:</strong> Friuli Venezia Giulia, Sardegna (Sardinia), Sicilia (Sicily), Trentino-Alto Adige (Trentino-South Tyrol) or Trentino-Suedtirol (German), Valle d'Aosta (Aosta Valley) or Vallée d'Aoste (French)<br>
 
 **Legal system**<br>
 civil law system; Constitutional Court reviews legislation under certain conditions<br>
@@ -314,7 +314,7 @@ _head of government_: Prime Minister Giorgia MELONI (since 22 October 2022); the
 _cabinet_: Council of Ministers proposed by the prime minister, who is known officially as the President of the Council of Ministers and locally as the premier; nominated by the president<br>
 _election/appointment process_: president indirectly elected by an electoral college consisting of both houses of Parliament and 58 regional representatives for a 7-year term (no term limits); prime minister appointed by the president, confirmed by parliament<br>
 _most recent election date_: 24-29 January 2022 (eight rounds)<br>
-_election results_: <br><em>2022:</em> Sergio MATTARELLA (independent) reelected president; electoral college vote count in eighth round - 759 out of 1,009 (505 vote threshold)<br><br><em>2015: </em>Sergio MATTARELLA (independent) elected president; electoral college vote count in fourth round - 665 out of 995 (505 vote threshold) <p> </p><br>
+_election results_: <br><em>2022:</em> Sergio MATTARELLA (independent) reelected president; electoral college vote count in eighth round - 759 out of 1,009 (505 vote threshold)<br><br><em>2015: </em>Sergio MATTARELLA (independent) elected president; electoral college vote count in fourth round - 665 out of 995 (505 vote threshold)<br>
 _expected date of next election_: 2029<br>
 
 **Legislative branch**<br>
@@ -349,7 +349,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the High
 _subordinate courts_: various lower civil and criminal courts (primary and secondary tribunals and courts of appeal)<br>
 
 **Political parties**<br>
-<p>Action-Italia Viva <br>Associative Movement of Italians Abroad or MAIE <br>Brothers of Italy or FdI <br>Democratic Party or PD <br>Five Star Movement or M5S <br>Forza Italia or FI <br>Free and Equal (Liberi e Uguali) or LeU <br>Greens and Left Alliance or AVS <br>Italexit <br>League or Lega <br>More Europe or +EU <br>Popular Union or PU <br>South calls North or ScN <br>South Tyrolean Peoples Party or SVP <br>other minor parties</p><br>
+Action-Italia Viva <br>Associative Movement of Italians Abroad or MAIE <br>Brothers of Italy or FdI <br>Democratic Party or PD <br>Five Star Movement or M5S <br>Forza Italia or FI <br>Free and Equal (Liberi e Uguali) or LeU <br>Greens and Left Alliance or AVS <br>Italexit <br>League or Lega <br>More Europe or +EU <br>Popular Union or PU <br>South calls North or ScN <br>South Tyrolean Peoples Party or SVP <br>other minor parties<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Alessandro GONZALES (since June 2025)<br>
@@ -389,15 +389,14 @@ five-pointed white star (Stella d'Italia)<br>
 **National color(s)**<br>
 red, white, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Il Canto degli Italiani" (The Song of the Italians)<br>
 _lyrics/music_: Goffredo MAMELI/Michele NOVARO<br>
 _history_: adopted 1946; the anthem, originally written in 1847, is also known as "L'Inno di Mameli" (Mameli's Hymn), and "Fratelli d'Italia" (Brothers of Italy)<br>
-<strong>note:</strong> adopted 1946; the anthem, originally written in 1847, is also known as "L'Inno di Mameli" (Mameli's Hymn), and "Fratelli d'Italia" (Brothers of Italy)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 60 (54 cultural, 6 natural)<br>
-_selected World Heritage Site locales_: <p>Historic Center of Rome (c); Archaeological Areas of Pompeii, Herculaneum, and Torre Annunziata (c); Venice and its Lagoon (c); Historic Center of Florence (c); Piazza del Duomo, Pisa (c); Historic Centre of Naples (c); Portovenere, Cinque Terre, and the Islands (Palmaria, Tino and Tinetto)(c); Mount Etna (n); Cultural landscape of the Benedictine settlements in medieval Italy (c); Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci (c); City of Vicenza and the Palladian Villas of the Veneto (c); Crespi d'Adda (c); Early Christian Monuments of Ravenna (c); Historic Centre of the City of Pienza (c); Cathedral, Torre Civica and Piazza Grande, Modena (c); Costiera Amalfitana (c); Villa Romana del Casale (c); Archaeological Area and the Patriarchal Basilica of Aquileia (c); Cilento and Vallo di Diano National Park with the Archeological Sites of Paestum and Velia, and the Certosa di Padula (c); Historic Centre of Urbino (c); Villa Adriana (Tivoli) (c); Assisi, the Basilica of San Francesco and Other Franciscan Sites (c); City of Verona (c); Isole Eolie (Aeolian Islands) (n); Etruscan Necropolises of Cerveteri and Tarquinia (c); Val d'Orcia (c); Mantua and Sabbioneta (c); The Dolomites (n); Prehistoric Pile Dwellings around the Alps (c); Medici Villas and Gardens in Tuscany (c); Venetian Works of Defence between the 16th and 17th Centuries: Stato da Terra – Western Stato da Mar (c); Padua’s fourteenth-century fresco cycles (c); The Porticoes of Bologna (c); Evaporitic Karst and Caves of Northern Apennines (n); Via Appia: Regina Viarum (c)</p><br>
+_selected World Heritage Site locales_: Historic Center of Rome (c); Archaeological Areas of Pompeii, Herculaneum, and Torre Annunziata (c); Venice and its Lagoon (c); Historic Center of Florence (c); Piazza del Duomo, Pisa (c); Historic Centre of Naples (c); Portovenere, Cinque Terre, and the Islands (Palmaria, Tino and Tinetto)(c); Mount Etna (n); Cultural landscape of the Benedictine settlements in medieval Italy (c); Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci (c); City of Vicenza and the Palladian Villas of the Veneto (c); Crespi d'Adda (c); Early Christian Monuments of Ravenna (c); Historic Centre of the City of Pienza (c); Cathedral, Torre Civica and Piazza Grande, Modena (c); Costiera Amalfitana (c); Villa Romana del Casale (c); Archaeological Area and the Patriarchal Basilica of Aquileia (c); Cilento and Vallo di Diano National Park with the Archeological Sites of Paestum and Velia, and the Certosa di Padula (c); Historic Centre of Urbino (c); Villa Adriana (Tivoli) (c); Assisi, the Basilica of San Francesco and Other Franciscan Sites (c); City of Verona (c); Isole Eolie (Aeolian Islands) (n); Etruscan Necropolises of Cerveteri and Tarquinia (c); Val d'Orcia (c); Mantua and Sabbioneta (c); The Dolomites (n); Prehistoric Pile Dwellings around the Alps (c); Medici Villas and Gardens in Tuscany (c); Venetian Works of Defence between the 16th and 17th Centuries: Stato da Terra – Western Stato da Mar (c); Padua’s fourteenth-century fresco cycles (c); The Porticoes of Bologna (c); Evaporitic Karst and Caves of Northern Apennines (n); Via Appia: Regina Viarum (c)<br>
 
 ## Economy
 

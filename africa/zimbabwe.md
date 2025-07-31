@@ -393,11 +393,10 @@ Zimbabwe bird symbol, African fish eagle, flame lily<br>
 **National color(s)**<br>
 green, yellow, red, black, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Kalibusiswe Ilizwe leZimbabwe" [Northern Ndebele language] "Simudzai Mureza WeZimbabwe" [Shona] (Blessed Be the Land of Zimbabwe)<br>
 _lyrics/music_: Solomon MUTSWAIRO/Fred Lecture CHANGUNDEGA<br>
 _history_: adopted 1994<br>
-<strong>note:</strong> adopted 1994<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>

@@ -357,7 +357,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: Courts of Appeal; Great Felonies Court; religious courts; military courts; juvenile courts; Land Settlement Courts; Income Tax Court; Higher Administrative Court; Customs Court; special courts including the State Security Court<br>
 
 **Political parties**<br>
-'Azem<br>Blessed Land Party<br>Building and Labor Coalition<br>Eradah Party <br>Growth Party<br>Islamic Action Front or IAF<br>Jordanian al-Ansar Party<br>Jordanian al-Ghad Party<br>Jordanian Arab Socialist Ba'ath Party or JASBP <br>Jordanian Civil Democratic Party<br>Jordanian Communist Party or JCP<br>Jordanian Equality Party<br>Jordanian Democratic People's Party or HASD<br>Jordanian Democratic Popular Unity Party or JDPUP/Wihda<br>Jordanian Democratic Unionist Party<br>Jordanian Flame Party<br>Jordanian Future and Life Party<br>Jordanian Model Party<br>Jordanian National Integration Party<br>Jordanian National Loyalty Party<br>Jordanian Reform and Renewal Party or Hassad<br>Jordanian Shura Party <br>Jordanian Social Democratic Party or JSDP<br>Justice and Reform Party or JRP <br>Labor Party<br>National Charter Party<br>National Coalition Party <br>National Constitutional Party<br>National Current Party or NCP<br>National Islamic Party<br>National Union<br>Nationalist Movement Party or Hsq<br>New Path Party <br>Progress Party<br><br><br><br><br>
+'Azem<br>Blessed Land Party<br>Building and Labor Coalition<br>Eradah Party <br>Growth Party<br>Islamic Action Front or IAF<br>Jordanian al-Ansar Party<br>Jordanian al-Ghad Party<br>Jordanian Arab Socialist Ba'ath Party or JASBP <br>Jordanian Civil Democratic Party<br>Jordanian Communist Party or JCP<br>Jordanian Equality Party<br>Jordanian Democratic People's Party or HASD<br>Jordanian Democratic Popular Unity Party or JDPUP/Wihda<br>Jordanian Democratic Unionist Party<br>Jordanian Flame Party<br>Jordanian Future and Life Party<br>Jordanian Model Party<br>Jordanian National Integration Party<br>Jordanian National Loyalty Party<br>Jordanian Reform and Renewal Party or Hassad<br>Jordanian Shura Party <br>Jordanian Social Democratic Party or JSDP<br>Justice and Reform Party or JRP <br>Labor Party<br>National Charter Party<br>National Coalition Party <br>National Constitutional Party<br>National Current Party or NCP<br>National Islamic Party<br>National Union<br>Nationalist Movement Party or Hsq<br>New Path Party <br>Progress Party<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Dina Khalil Tawfiq KAWAR (since 27 June 2016)<br>
@@ -392,15 +392,14 @@ eagle<br>
 **National color(s)**<br>
 black, white, green, red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "As-salam al-malaki al-urdoni" (Long Live the King of Jordan)<br>
 _lyrics/music_: Abdul-Mone'm al-RIFAI'/Abdul-Qader al-TANEER<br>
 _history_: adopted 1946; the shortened version of the anthem is most commonly used; the full version is reserved for special occasions<br>
-<strong>note:</strong> adopted 1946; the shortened version of the anthem is most commonly used; the full version is reserved for special occasions<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 7 (6 cultural, 1 mixed)<br>
-_selected World Heritage Site locales_: <p>Petra (c); Quseir Amra (c); Um er-Rasas (Kastrom Mefa'a) (c); Wadi Rum Protected Area (m); Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas) (c); As-Salt - The Place of Tolerance and Urban Hospitality (c); Umm Al-Jimāl (c)</p><br>
+_selected World Heritage Site locales_: Petra (c); Quseir Amra (c); Um er-Rasas (Kastrom Mefa'a) (c); Wadi Rum Protected Area (m); Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas) (c); As-Salt - The Place of Tolerance and Urban Hospitality (c); Umm Al-Jimāl (c)<br>
 
 ## Economy
 

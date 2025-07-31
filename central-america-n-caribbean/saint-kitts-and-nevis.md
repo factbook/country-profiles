@@ -66,7 +66,7 @@ _other_: 34.6% (2022 est.)<br>
 population clusters are found in the small towns located on the periphery of both islands<br>
 
 **Natural hazards**<br>
-<p>hurricanes (July to October)</p><p><strong>volcanism:</strong> Mount Liamuiga (1,156 m) on Saint Kitts, and Nevis Peak (985 m) on Nevis, are both volcanoes that are part of the volcanic island arc of the Lesser Antilles, which extends from Saba in the north to Grenada in the south</p><br>
+hurricanes (July to October) <br><br><strong>volcanism:</strong> Mount Liamuiga (1,156 m) on Saint Kitts and Nevis Peak (985 m) on Nevis are part of the volcanic-island arc of the Lesser Antilles, which extends from Saba in the north to Grenada in the south<br>
 
 **Geography - note**<br>
 smallest country in the Western Hemisphere in terms of both area and population; the two volcanic islands are separated by a 3-km-wide (9-mi-wide) channel called The Narrows; on the southern tip of baseball-bat-shaped Saint Kitts lies the Great Salt Pond; Nevis Peak sits in the center of its ball-shaped namesake island<br>
@@ -344,11 +344,10 @@ green, yellow, red, black, white<br>
 **National coat of arms**<br>
 the coat of arms of Saint Kitts and Nevis features a Carib who represents the original inhabitants of the islands, and a fleur-de-lis and rose that represent the French and English who arrived in the 1620; the shield also features the poinciana (the national flower) and a traditional boat; three hands hold the torch, which represents the quest for freedom: the hand of an African, a European, and a person of mixed ethnicity; pelicans (the national bird) support the shield, with a sugarcane plant and a coconut tree that symbolize the land<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "O Land of Beauty!"<br>
 _lyrics/music_: Kenrick Anderson GEORGES<br>
 _history_: adopted 1983<br>
-<strong>note:</strong> adopted 1983<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

@@ -395,11 +395,10 @@ golden eagle<br>
 **National color(s)**<br>
 blue, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Menin Qazaqstanim" (My Kazakhstan)<br>
 _lyrics/music_: Zhumeken NAZHIMEDENOV and Nursultan NAZARBAYEV/Shamshi KALDAYAKOV<br>
 _history_: adopted 2006; President Nursultan NAZARBAYEV played a role in revising the lyrics<br>
-<strong>note:</strong> adopted 2006; President Nursultan NAZARBAYEV played a role in revising the lyrics<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 6 (3 cultural, 3 natural)<br>

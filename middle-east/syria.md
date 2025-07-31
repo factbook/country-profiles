@@ -74,7 +74,7 @@ significant population density along the Mediterranean coast; larger concentrati
 <strong>note:</strong> the recent civil war has altered the population distribution<br>
 
 **Natural hazards**<br>
-<p>dust storms, sandstorms</p><p><strong>volcanism:</strong> Syria's two historically active volcanoes, Es Safa and an unnamed volcano near the Turkish border have not erupted in centuries</p><br>
+dust storms, sandstorms <br><br><strong>volcanism:</strong> Syria's two historically active volcanoes, Es Safa and an unnamed volcano near the Turkish border, have not erupted in centuries<br>
 
 **Geography - note**<br>
 the capital of Damascus is located at an oasis fed by the Barada River and is thought to be one of the world's oldest continuously inhabited cities; there are Israeli settlements and civilian land-use sites in the Israeli-controlled Golan Heights (2017)<br>
@@ -325,7 +325,7 @@ _judge selection and term of office_: Court of Cassation judges appointed by the
 _subordinate courts_: courts of first instance; magistrates' courts; religious and military courts; Economic Security Court; Counterterrorism Court<br>
 
 **Political parties**<br>
-<strong>legal parties/alliances:<br></strong> Arab Socialist Ba'ath Party<br>Arab Socialist (Ba'ath) Party – Syrian Regional<br>Arab Socialist Ba'ath Party – Syrian Regional Branch, Socialist Unionist Democratic Party<br>Arab Socialist Union of Syria or ASU<br>Democratic Arab Socialist Union<br>National Progressive Front or NPF<br>Socialist Unionist Democratic Party<br>Socialist Unionist Party<br>Syrian Communist Party (two branches)<br>Syrian Social Nationalist Party or SSNP<br>Unionist Socialist Party<br><strong><br>major political organizations:<br></strong>Kurdish Democratic Union Party or PYD<br>Kurdish National Council or KNC<br>Syriac Union Party<br>Syrian Democratic Council or SDC<br>Syrian Democratic Party<br>Syrian Opposition Coalition<br> <p><strong>de facto governance entities:<br></strong>Democratic Autonomous Administration of Northeast Syria or DAANES <br>Syrian Interim Government or SIG<br>Syrian Salvation Government or SSG</p><br>
+<strong>legal parties/alliances:<br></strong> Arab Socialist Ba'ath Party<br>Arab Socialist (Ba'ath) Party – Syrian Regional<br>Arab Socialist Ba'ath Party – Syrian Regional Branch, Socialist Unionist Democratic Party<br>Arab Socialist Union of Syria or ASU<br>Democratic Arab Socialist Union<br>National Progressive Front or NPF<br>Socialist Unionist Democratic Party<br>Socialist Unionist Party<br>Syrian Communist Party (two branches)<br>Syrian Social Nationalist Party or SSNP<br>Unionist Socialist Party<br><strong><br>major political organizations:<br></strong>Kurdish Democratic Union Party or PYD<br>Kurdish National Council or KNC<br>Syriac Union Party<br>Syrian Democratic Council or SDC<br>Syrian Democratic Party<br>Syrian Opposition Coalition<br><br><strong>de facto governance entities:<br></strong>Democratic Autonomous Administration of Northeast Syria or DAANES <br>Syrian Interim Government or SIG<br>Syrian Salvation Government or SSG<br>
 
 **Diplomatic representation in the US**<br>
 none<strong><br><br>note</strong>: operations at the embassy were suspended on 18 March 2014<br>
@@ -342,7 +342,8 @@ ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national commit
 17 April 1946 (from League of Nations mandate under French administration)<br>
 
 **National holiday**<br>
-Independence Day (Evacuation Day), 17 April (1946); note - celebrates the leaving of the last French troops and the proclamation of full independence<br>
+Independence Day (Evacuation Day), 17 April (1946)<br>
+<strong>note:</strong> celebrates the last French troops departing and the proclamation of full independence<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and black; two green five-pointed stars in a horizontal line centered in the white band; the band colors come from the Arab Liberation flag and represent oppression (black) overcome through bloody struggle (red), to be replaced by a bright future (white); identical to the former flag of the United Arab Republic (1958-1961), where the two stars represented the constituent states of Syria and Egypt; the current design dates to 1980<br>
@@ -354,11 +355,10 @@ northern bald ibis<br>
 **National color(s)**<br>
 red, white, black, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Humat ad-Diyar" (Guardians of the Homeland)<br>
 _lyrics/music_: Khalil Mardam BEY/Mohammad Salim FLAYFEL and Ahmad Salim FLAYFEL<br>
 _history_: adopted 1936, restored 1961; the country had a different anthem between 1958 and 1961, when Syria was part of the United Arab Republic<br>
-<strong>note:</strong> adopted 1936, restored 1961; the country had a different anthem between 1958 and 1961, when Syria was part of the United Arab Republic<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 6 (all cultural)<br>

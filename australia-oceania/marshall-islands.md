@@ -22,7 +22,7 @@ Oceania<br>
 _total _: 181 sq km<br>
 _land_: 181 sq km<br>
 _water_: 0 sq km<br>
-<strong>note:</strong> the archipelago includes 11,673 sq km of lagoon waters and encompasses the atolls of Bikini, Enewetak, Kwajalein, Majuro, Rongelap, and Utirik<br>
+<strong>note:</strong> the archipelago includes 11,673 sq km (4,507 sq mi) of lagoon and encompasses the atolls of Bikini, Enewetak, Kwajalein, Majuro, Rongelap, and Utirik<br>
 
 **Area - comparative**<br>
 about the size of Washington, D.C.<br>
@@ -351,11 +351,10 @@ a 24-rayed star<br>
 **National color(s)**<br>
 blue, white, orange<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Forever Marshall Islands"<br>
 _lyrics/music_: Amata KABUA<br>
 _history_: adopted 1981<br>
-<strong>note:</strong> adopted 1981<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

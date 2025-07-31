@@ -388,11 +388,10 @@ silver (or white) double-tailed rampant lion<br>
 **National color(s)**<br>
 white, red, blue<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Kde domov muj?" (Where is My Home?)<br>
 _lyrics/music_: Josef Kajetan TYL/Frantisek Jan SKROUP<br>
 _history_: adopted 1993; the anthem was originally written as incidental music for the play "Fidlovacka" (1834), but it soon became popular as an unofficial anthem of the Czech nation; its first verse served as the official Czechoslovak anthem beginning in 1918, and the second verse (Slovak) was dropped after Czechoslovakia was dissolved in 1993<br>
-<strong>note:</strong> adopted 1993; the anthem was originally written as incidental music for the play "Fidlovacka" (1834), but it soon became popular as an unofficial anthem of the Czech nation; its first verse served as the official Czechoslovak anthem beginning in 1918, and the second verse (Slovak) was dropped after Czechoslovakia was dissolved in 1993<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 17 (16 cultural, 1 natural)<br>

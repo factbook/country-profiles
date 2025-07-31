@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Most Cambodians consider themselves to be Khmers, descendants of the Angkor Empire that extended over much of Southeast Asia and reached its zenith between the 10th and 13th centuries.  Attacks by the Thai and Cham (from present-day Vietnam) weakened the empire, ushering in a long period of decline. The king placed the country under French protection in 1863, and it became part of French Indochina in 1887. Following Japanese occupation in World War II, Cambodia gained full independence from France in 1953. In 1975, after a seven-year struggle, communist Khmer Rouge forces captured Phnom Penh and evacuated all cities and towns. At least 1.5 million Cambodians died from execution, forced hardships, or starvation during the Khmer Rouge regime under POL POT. A 1978 Vietnamese invasion drove the Khmer Rouge into the countryside, began a 10-year Vietnamese occupation, and touched off 13 years of internecine warfare in which a coalition of Khmer Rouge, Cambodian nationalists, and royalist insurgents, with assistance from China, fought the Vietnamese-backed People’s Republic of Kampuchea (PRK). <br><br>The 1991 Paris Agreements ended the country’s civil war and mandated democratic elections, which took place in 1993 and ushered in a period of multi-party democracy with a constitutional monarchy. King Norodom SIHANOUK was reinstated as head of state, and the Cambodian People's Party (CPP) and the royalist FUNCINPEC party formed a coalition government.  Nevertheless, the power-sharing arrangement proved fractious and fragile, and in 1997, a coup led by CPP leader and former PRK prime minister HUN SEN dissolved the coalition and sidelined FUNCINPEC. Despite further attempts at coalition governance, the CPP has since remained in power through elections criticized for lacking fairness, political and judicial corruption, media control, and influence over labor unions, all of which have been enforced with violence and intimidation. HUN SEN remained as prime minister until 2023, when he transferred power to his son, HUN MANET. HUN SEN has subsequently maintained considerable influence as the leader of the CPP and the Senate. The CPP has also placed limits on civil society, press freedom, and freedom of expression. Despite some economic growth and considerable investment from China over the past decade, Cambodia remains one of East Asia's poorest countries.<br><br>The remaining elements of the Khmer Rouge surrendered in 1999. A UN-backed special tribunal established in Cambodia in 1997 tried some of the surviving Khmer Rouge leaders for crimes against humanity and genocide. The tribunal concluded in 2022 with three convictions.<br><br></p><br>
+Most Cambodians consider themselves to be Khmers, descendants of the Angkor Empire that extended over much of Southeast Asia and reached its zenith between the 10th and 13th centuries.  Attacks by the Thai and Cham (from present-day Vietnam) weakened the empire, ushering in a long period of decline. The king placed the country under French protection in 1863, and it became part of French Indochina in 1887. Following Japanese occupation in World War II, Cambodia gained full independence from France in 1953. In 1975, after a seven-year struggle, communist Khmer Rouge forces captured Phnom Penh and evacuated all cities and towns. At least 1.5 million Cambodians died from execution, forced hardships, or starvation during the Khmer Rouge regime under POL POT. A 1978 Vietnamese invasion drove the Khmer Rouge into the countryside, began a 10-year Vietnamese occupation, and touched off 13 years of internecine warfare in which a coalition of Khmer Rouge, Cambodian nationalists, and royalist insurgents, with assistance from China, fought the Vietnamese-backed People’s Republic of Kampuchea (PRK). <br><br>The 1991 Paris Agreements ended the country’s civil war and mandated democratic elections, which took place in 1993 and ushered in a period of multi-party democracy with a constitutional monarchy. King Norodom SIHANOUK was reinstated as head of state, and the Cambodian People's Party (CPP) and the royalist FUNCINPEC party formed a coalition government.  Nevertheless, the power-sharing arrangement proved fractious and fragile, and in 1997, a coup led by CPP leader and former PRK prime minister HUN SEN dissolved the coalition and sidelined FUNCINPEC. Despite further attempts at coalition governance, the CPP has since remained in power through elections criticized for lacking fairness, political and judicial corruption, media control, and influence over labor unions, all of which have been enforced with violence and intimidation. HUN SEN remained as prime minister until 2023, when he transferred power to his son, HUN MANET. HUN SEN has subsequently maintained considerable influence as the leader of the CPP and the Senate. The CPP has also placed limits on civil society, press freedom, and freedom of expression. Despite some economic growth and considerable investment from China over the past decade, Cambodia remains one of East Asia's poorest countries.<br><br>The remaining elements of the Khmer Rouge surrendered in 1999. A UN-backed special tribunal established in Cambodia in 1997 tried some of the surviving Khmer Rouge leaders for crimes against humanity and genocide. The tribunal concluded in 2022 with three convictions.<br>
 
 ## Geography
 
@@ -24,7 +24,7 @@ _land_: 176,515 sq km<br>
 _water_: 4,520 sq km<br>
 
 **Area - comparative**<br>
-one and a half times the size of Pennsylvania; slightly smaller than Oklahoma<br>
+1.5 times the size of Pennsylvania; slightly smaller than Oklahoma<br>
 
 **Land boundaries**<br>
 _total_: 2,530 km<br>
@@ -295,7 +295,7 @@ _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time
 _etymology_: the name means "mountain of plenty," from the Cambodian words <em>phnom </em>(mountain or hill) and <em>penh </em>(full)<br>
 
 **Administrative divisions**<br>
-<p>24 provinces (<em>khett</em>, singular and plural) and 1 municipality (<em>krong</em>, singular and plural)</p> <p><strong>provinces:</strong> Banteay Meanchey, Battambang, Kampong Cham, Kampong Chhnang, Kampong Speu, Kampong Thom, Kampot, Kandal, Kep, Koh Kong, Kratie, Mondolkiri, Oddar Meanchey, Pailin, Preah Sihanouk, Preah Vihear, Prey Veng, Pursat, Ratanakiri, Siem Reap, Stung Treng, Svay Rieng, Takeo, Tbong Khmum</p> <p><strong>municipalities:</strong> Phnom Penh (Phnum Penh)</p><br>
+24 provinces (<em>khett</em>, singular and plural) and 1 municipality (<em>krong</em>, singular and plural) <br><br><strong>provinces:</strong> Banteay Meanchey, Battambang, Kampong Cham, Kampong Chhnang, Kampong Speu, Kampong Thom, Kampot, Kandal, Kep, Koh Kong, Kratie, Mondolkiri, Oddar Meanchey, Pailin, Preah Sihanouk, Preah Vihear, Prey Veng, Pursat, Ratanakiri, Siem Reap, Stung Treng, Svay Rieng, Takeo, Tbong Khmum <br><br><strong>municipalities:</strong> Phnom Penh (Phnum Penh)<br>
 
 **Legal system**<br>
 civil law system (influenced by the UN Transitional Authority in Cambodia), customary law, Communist legal theory, and common law<br>
@@ -392,11 +392,10 @@ Angkor Wat temple, kouprey (wild ox)<br>
 **National color(s)**<br>
 red, blue<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Nokoreach" (Royal Kingdom)<br>
 _lyrics/music_: CHUON NAT/F. PERRUCHOT and J. JEKYLL<br>
 _history_: adopted 1941, restored 1993; the anthem, based on a Cambodian folk tune, was restored after the defeat of the Communist regime<br>
-<strong>note:</strong> adopted 1941, restored 1993; the anthem, based on a Cambodian folk tune, was restored after the defeat of the Communist regime<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (all cultural)<br>

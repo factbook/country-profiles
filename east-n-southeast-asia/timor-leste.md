@@ -369,11 +369,10 @@ Mount Ramelau<br>
 **National color(s)**<br>
 red, yellow, black, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Patria" (Fatherland)<br>
 _lyrics/music_: Fransisco Borja DA COSTA/Afonso DE ARAUJO<br>
 _history_: adopted 2002; the song was first used as an anthem when Timor-Leste declared its independence from Portugal in 1975; the lyricist, Francisco Borja DA COSTA, was killed in the Indonesian invasion just days after independence was declared<br>
-<strong>note:</strong> adopted 2002; the song was first used as an anthem when Timor-Leste declared its independence from Portugal in 1975; the lyricist, Francisco Borja DA COSTA, was killed in the Indonesian invasion just days after independence was declared<br>
 
 ## Economy
 

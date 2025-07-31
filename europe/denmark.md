@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Once the seat of Viking raiders and later a major north European power, Denmark has evolved into a modern, prosperous nation that is part of the general political and economic integration of Europe. It joined NATO in 1949 and the EEC (now the EU) in 1973. The country has opted out of certain elements of the EU's Maastricht Treaty, including the European Economic and Monetary Union and justice and home affairs issues. a 2022 referendum resulted in the removal of Denmark's 30-year opt-out on defense issues, now allowing Denmark to participate fully in the EU's Common Security and Defense Policy.</p><br>
+Once the seat of Viking raiders and later a major north European power, Denmark has evolved into a modern, prosperous nation that is part of the general political and economic integration of Europe. It joined NATO in 1949 and the EEC (now the EU) in 1973. The country has opted out of certain elements of the EU's Maastricht Treaty, including the European Economic and Monetary Union and justice and home affairs issues. a 2022 referendum resulted in the removal of Denmark's 30-year opt-out on defense issues, now allowing Denmark to participate fully in the EU's Common Security and Defense Policy.<br>
 
 ## Geography
 
@@ -360,7 +360,8 @@ ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia G
 ca. 965 (unified and Christianized under Harald I GORMSSON); 5 June 1849 (became a parliamentary constitutional monarchy)<br>
 
 **National holiday**<br>
-Constitution Day, 5 June (1849); note - closest equivalent to a national holiday<br>
+Constitution Day, 5 June (1849)<br>
+<strong>note:</strong> closest equivalent to a national holiday<br>
 
 **Flag description**<br>
 red with a white cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side; the banner is referred to as the Dannebrog (Danish flag) and is one of the oldest national flags in the world; traditions as to the origin of the flag design vary, but the best known is a legend that the banner fell from the sky during an early-13th-century battle and inspired the royal army to victory; in actuality, the flag may derive from a crusade banner or ensign<br>
@@ -375,7 +376,7 @@ red, white<br>
 **National coat of arms**<br>
 Denmark’s King Frederick VI adopted the national coat of arms in 1819; the crown of King Christian V, who ruled Denmark and Norway from 1670 to 1699,<em> </em>sits atop the shield, symbolizing royal and national authority; the three lions represent a strong and powerful country, with red lily pads in the shape of hearts that stand for strength, valor, and joy<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Kong Christian" (King Christian)<br>
 _lyrics/music_: Johannes EWALD/unknown<br>
 _history_: adopted 1780; national and royal anthem; also known as "Kong Christian stod ved hojen mast" (King Christian Stood by the Lofty Mast) and "Kongesangen" (The King's Anthem); in Denmark, the royal anthem is played only when royalty is present and is usually followed by the other national anthem; when royalty is not present, only "Der er et yndigt land" is performed; outside Denmark, the royal anthem is played unless the other anthem is requested<br>

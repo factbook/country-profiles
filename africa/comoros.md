@@ -64,7 +64,7 @@ _other_: 11.3% (2022 est.)<br>
 the capital city of Maroni, on the western side of the island of Grande Comore, is the country's largest city; however, Anjouan is the most densely populated of the three islands that comprise Comoros, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
-<p>cyclones possible during rainy season (December to April); volcanic activity on Grand Comore</p><p><strong>volcanism:</strong> Karthala (2,361 m) on Grand Comore Island last erupted in 2007; a 2005 eruption forced thousands of people to be evacuated and produced a large ash cloud</p><br>
+cyclones possible during rainy season (December to April); volcanic activity on Grand Comore <br><br><strong>volcanism:</strong> Karthala (2,361 m) on Grand Comore Island last erupted in 2007; a 2005 eruption forced thousands of people to be evacuated and produced a large ash cloud<br>
 
 **Geography - note**<br>
 important location at northern end of Mozambique Channel; the only Arab League country that lies entirely in the Southern Hemisphere<br>
@@ -324,7 +324,6 @@ note: opposition parties, which claimed there was "gross fraud" during the most 
 _highest court(s)_: Supreme Court or Cour Supreme (consists of 7 judges)<br>
 _judge selection and term of office_: Supreme Court judges - selection and term of office NA<br>
 _subordinate courts_: Court of Appeals (in Moroni); Tribunal de premi&egrave;re instance; island village (community) courts; religious courts<br>
-<br>   <br><br> <br>
 
 **Political parties**<br>
 Convention for the Renewal of the Comoros or CRC<br>Juwa Party (Parti Juwa) or PJ<br>Orange Party (2020)<br>
@@ -361,11 +360,10 @@ green, white<br>
 **National coat of arms**<br>
 the coat of arms is in the national colors of green and white; was adopted in 1978; the crescent and stars represent Islam, with the four stars also symbolizing the archipelago&rsquo;s four main islands: Grande Comore, Moh&eacute;li, Anjouan, and Mayotte (the last of which is a French department claimed by Comoros); above and below the sun&rsquo;s rays is the name of the nation written in French and Arabic; two olive branches, representing peace, are connected by a banner with the national motto in French, which translates as "Unity, Solidarity, Development"<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Udzima wa ya Masiwa" (The Union of the Great Islands)<br>
 _lyrics/music_: Said Hachim SIDI ABDEREMANE/Said Hachim SIDI ABDEREMANE and Kamildine ABDALLAH<br>
 _history_: adopted 1978<br>
-<strong>note:</strong> adopted 1978<br>
 
 ## Economy
 

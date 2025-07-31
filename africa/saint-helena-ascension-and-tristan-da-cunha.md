@@ -13,7 +13,7 @@ _Africa / Dependencies (United Kingdom)_
 islands in the South Atlantic Ocean, about midway between South America and Africa; Ascension Island lies 1,300 km (800 mi) northwest of Saint Helena; Tristan da Cunha lies 4,300 km (2,700 mi) southwest of Saint Helena<br>
 
 **Geographic coordinates**<br>
-<p><strong>Saint Helena:</strong> 15 57 S, 5 42 W; </p><p><strong>Ascension Island:</strong> 7 57 S, 14 22 W; </p><p><strong>Tristan da Cunha island group:</strong> 37 15 S, 12 30 W</p><br>
+<strong>Saint Helena:</strong> 15 57 S, 5 42 W <p><strong>Ascension Island:</strong> 7 57 S, 14 22 W</p> <strong>Tristan da Cunha island group:</strong> 37 15 S, 12 30 W<br>
 
 **Map references**<br>
 Africa<br>
@@ -38,7 +38,7 @@ _territorial sea_: 12 nm<br>
 _exclusive fishing zone_: 200 nm<br>
 
 **Climate**<br>
-<p><strong>Saint Helena:</strong> tropical marine; mild, tempered by trade winds</p> <p><strong>Ascension Island:</strong> tropical marine; mild, semi-arid</p> <p><strong>Tristan da Cunha:</strong> temperate marine; mild, tempered by trade winds (tends to be cooler than Saint Helena)</p><br>
+<strong>Saint Helena:</strong> tropical marine; mild, tempered by trade winds <br><br><strong>Ascension Island:</strong> tropical marine; mild, semi-arid <br><br><strong>Tristan da Cunha:</strong> temperate marine; mild, tempered by trade winds (tends to be cooler than Saint Helena)<br>
 
 **Terrain**<br>
 <p>the islands of this group are of volcanic origin associated with the Atlantic Mid-Ocean Ridge</p><p><strong>Saint Helena:</strong> rugged, volcanic; small scattered plateaus and plains; </p><p><strong>Ascension:</strong> surface covered by lava flows and cinder cones of 44 dormant volcanoes; terrain rises to the east; </p><p><strong>Tristan da Cunha:</strong> sheer cliffs line the coastline of the nearly circular island; the flanks of the central volcanic peak are deeply dissected; narrow coastal plain lies between The Peak and the coastal cliffs</p><br>
@@ -65,7 +65,7 @@ _other_: 64.1% (2022 est.)<br>
 <em>Saint Helena:</em> population is concentrated in and around the capital of Jamestown in the northwest, with another significant cluster in the interior Longwood area<br><br><em>Ascension:</em> most of the population lives in and around Georgetown<br><br><em>Tristan da Cunha:</em> most of the nearly 300 inhabitants live in the northern coastal town of Edinburgh of the Seven Seas<br>
 
 **Natural hazards**<br>
-<p>active volcanism on Tristan da Cunha</p><p><strong>volcanism:</strong> the island volcanoes of Tristan da Cunha (2,060 m) and Nightingale Island (365 m) experience volcanic activity; Tristan da Cunha erupted in 1962 and Nightingale in 2004</p><br>
+active volcanism<br><br><strong>volcanism:</strong> the volcanoes of Tristan da Cunha (2,060 m) and Nightingale Island (365 m) are active<br>
 
 **Geography - note**<br>
 Saint Helena harbors at least 40 species of plants unknown elsewhere in the world; Ascension is a breeding ground for sea turtles and sooty terns; Queen Mary's Peak on Tristan da Cunha is the highest island mountain in the South Atlantic and a prominent landmark on the sea lanes around southern Africa<br>
@@ -179,7 +179,7 @@ _unimproved: total_: total: 0% of population (2020)<br>
 development threatens wildlife on Saint Helena<br>
 
 **Climate**<br>
-<p><strong>Saint Helena:</strong> tropical marine; mild, tempered by trade winds</p> <p><strong>Ascension Island:</strong> tropical marine; mild, semi-arid</p> <p><strong>Tristan da Cunha:</strong> temperate marine; mild, tempered by trade winds (tends to be cooler than Saint Helena)</p><br>
+<strong>Saint Helena:</strong> tropical marine; mild, tempered by trade winds <br><br><strong>Ascension Island:</strong> tropical marine; mild, semi-arid <br><br><strong>Tristan da Cunha:</strong> temperate marine; mild, tempered by trade winds (tends to be cooler than Saint Helena)<br>
 
 **Land use**<br>
 _agricultural land_: 30.8% (2022 est.)<br>
@@ -270,11 +270,10 @@ Saint Helena plover (wire bird)<br>
 **National coat of arms**<br>
 the coat of arms of Saint Helena was officially granted on January 30, 1984; the national bird, the Saint Helena plover (<em>Charadrius sanctaehelenae</em>), is at the top of the shield; the lower part of the shield shows a three-masted sailing ship with the mountainous island to the left; below the shield is a scroll with the motto “Loyal and unshakable;” the crest shows an image of Saint Helena, holding a cross and a flower<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 _history_: official anthem, as a UK overseas territory<br>
-<strong>note:</strong> as an overseas territory of the UK, "God Save the King" is official (see United Kingdom)<br>
 
 ## Economy
 

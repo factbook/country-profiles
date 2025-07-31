@@ -372,7 +372,8 @@ Australia Group, C, CD, CE, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC 
 <strong>note:</strong> Turkish Cypriots proclaimed self-rule on 13 February 1975 and independence in 1983, but only Turkey recognizes these proclamations<br>
 
 **National holiday**<br>
-Independence Day, 1 October (1960); note - Turkish Cypriots celebrate 15 November (1983) as "Republic Day"<br>
+Independence Day, 1 October (1960)<br>
+<strong>note:</strong> Turkish Cypriots celebrate 15 November (1983) as "Republic Day"<br>
 
 **Flag description**<br>
 a copper-colored silhouette of the island is centered on a white field above two crossed green olive branches, which symbolize the hope for peace and reconciliation between the Greek and Turkish communities<br>
@@ -384,11 +385,10 @@ Cypriot mouflon (wild sheep), white dove<br>
 **National color(s)**<br>
 blue, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Ymnos eis tin Eleftherian" (Hymn to Liberty)<br>
 _lyrics/music_: Dionysios SOLOMOS/Nikolaos MANTZAROS<br>
 _history_: adopted 1960; Cyprus uses the Greek national anthem; the Turkish Cypriot community in Cyprus uses Turkey's national anthem<br>
-<strong>note:</strong> adopted 1960; Cyprus uses the Greek national anthem; the Turkish Cypriot community in Cyprus uses Turkey's national anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (all cultural)<br>

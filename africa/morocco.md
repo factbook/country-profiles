@@ -404,11 +404,10 @@ pentacle symbol, lion<br>
 **National color(s)**<br>
 red, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Hymne Cherifien" (Hymn of the Sharif)<br>
 _lyrics/music_: Ali Squalli HOUSSAINI/Leo MORGAN<br>
 _history_: music adopted 1956, lyrics adopted 1970<br>
-<strong>note:</strong> music adopted 1956, lyrics adopted 1970<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 9 (all cultural)<br>

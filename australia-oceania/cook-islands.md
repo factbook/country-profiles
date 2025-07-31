@@ -327,11 +327,10 @@ a circle of 15 five-pointed white stars on a blue field, tiare maori flower (<em
 **National color(s)**<br>
 green, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Te Atua Mou E" (To God Almighty)<br>
 _lyrics/music_: Tepaeru Te RITO/Thomas DAVIS<br>
-_history_: adopted 1982; as prime minister, Sir Thomas DAVIS composed the anthem; his wife Pa Tepaeru Terito Ariki, who was a tribal chief, wrote the lyrics<br>
-<strong>note:</strong> adopted 1982; as prime minister, Sir Thomas DAVIS composed the anthem; his wife Pa Tepaeru Terito Ariki, who was a tribal chief, wrote the lyrics<br>
+_history_: adopted 1982; as prime minister, Sir Thomas DAVIS composed the anthem; Pa Tepaeru Terito Ariki, his wife and a tribal chief, wrote the lyrics<br>
 
 ## Economy
 

@@ -311,7 +311,7 @@ _head of government_: Prime Minister Benyamin NETANYAHU (since 29 December 2022)
 _cabinet_: Cabinet selected by prime minister and approved by the Knesset<br>
 _election/appointment process_: president indirectly elected by the Knesset for a single 7-year term; following legislative elections, the president, in consultation with party leaders, tasks a Knesset member (usually the member of the largest party) with forming a new government<br>
 _most recent election date_: 2 June 2021<br>
-_election results_: <br><em>2021:</em> Isaac HERZOG elected president; Knesset vote in first round - Isaac HERZOG (independent) 87, Miriam PERETZ (independent) 26, invalid/blank 7<br><br><em>2014:</em> Reuven RIVLIN elected president in second round; Knesset vote - Reuven RIVLIN (Likud) 63, Meir SHEETRIT (The Movement) 53, other/invalid 4 <p> </p><br>
+_election results_: <br><em>2021:</em> Isaac HERZOG elected president; Knesset vote in first round - Isaac HERZOG (independent) 87, Miriam PERETZ (independent) 26, invalid/blank 7<br><br><em>2014:</em> Reuven RIVLIN elected president in second round; Knesset vote - Reuven RIVLIN (Likud) 63, Meir SHEETRIT (The Movement) 53, other/invalid 4<br>
 _expected date of next election_: June 2028<br>
 
 **Legislative branch**<br>
@@ -360,7 +360,8 @@ BIS, BSEC (observer), CE (observer), CERN, CICA, EBRD, FAO, IADB, IAEA, IBRD, IC
 14 May 1948 (following League of Nations mandate under British administration)<br>
 
 **National holiday**<br>
-Independence Day, 14 May (1948); note - Israel declared independence on 14 May 1948, but the Jewish calendar is lunar and the holiday may occur in April or May<br>
+Independence Day, 14 May (1948)<br>
+<strong>note:</strong> Israel declared independence on 14 May 1948, but the Jewish calendar is lunar, so the holiday can occur in April or May<br>
 
 **Flag description**<br>
 white with a blue hexagram (six-pointed linear star) known as the Magen David (Star of David or Shield of David) centered between two equal horizontal blue bands near the top and bottom edges of the flag; the design resembles a traditional Jewish prayer shawl (<em>tallit</em>), which is white with blue stripes; the hexagram as a Jewish symbol dates back to medieval times<br>
@@ -372,11 +373,10 @@ Star of David (Magen David), menorah (seven-branched lampstand)<br>
 **National color(s)**<br>
 blue, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Hatikvah" (The Hope)<br>
 _lyrics/music_: Naftali Herz IMBER/traditional, arranged by Samuel COHEN<br>
 _history_: adopted 2004, unofficial since 1948; used as the anthem of the Zionist movement since 1897; the 1888 arrangement by Samuel COHEN is thought to be based on the Romanian folk song "Carul cu boi" (The Ox-Driven Cart)<br>
-<strong>note:</strong> adopted 2004, unofficial since 1948; used as the anthem of the Zionist movement since 1897; the 1888 arrangement by Samuel COHEN is thought to be based on the Romanian folk song "Carul cu boi" (The Ox-Driven Cart)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 9 (all cultural)<br>

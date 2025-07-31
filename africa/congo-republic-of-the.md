@@ -386,11 +386,10 @@ lion, elephant<br>
 **National color(s)**<br>
 green, yellow, red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "La Congolaise" (The Congolese)<br>
 _lyrics/music_: Jacques TONDRA and Georges KIBANGHI/Jean ROYER and Joseph SPADILIERE<br>
 _history_: originally adopted 1959, restored 1991<br>
-<strong>note:</strong> originally adopted 1959, restored 1991<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (natural)<br>

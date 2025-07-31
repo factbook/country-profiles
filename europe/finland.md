@@ -376,11 +376,10 @@ lion<br>
 **National color(s)**<br>
 blue, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Maamme" (Our Land)<br>
 _lyrics/music_: Johan Ludvig RUNEBERG/Fredrik PACIUS<br>
 _history_: in use since 1848; although never officially adopted, the anthem has been popular since a student group first sang it in 1848<br>
-<strong>note:</strong> in use since 1848; although never officially adopted, the anthem has been popular since a student group first sang it in 1848<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 7 (6 cultural, 1 natural)<br>

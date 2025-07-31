@@ -22,7 +22,7 @@ Europe<br>
 _total _: 505,370 sq km<br>
 _land_: 498,980 sq km<br>
 _water_: 6,390 sq km<br>
-<strong>note:</strong> there are two autonomous cities - Ceuta and Melilla - and 17 autonomous communities including Balearic Islands and Canary Islands, and three small Spanish possessions off the coast of Morocco - Islas Chafarinas, Penon de Alhucemas, and Penon de Velez de la Gomera<br>
+<strong>note:</strong> includes two autonomous cities (Ceuta and Melilla), 17 autonomous communities (including Balearic Islands and Canary Islands), and three small Spanish possessions off the coast of Morocco -- Islas Chafarinas, Penon de Alhucemas, and Penon de Velez de la Gomera<br>
 
 **Area - comparative**<br>
 almost five times the size of Kentucky; slightly more than twice the size of Oregon<br>
@@ -72,7 +72,7 @@ Tagus river source (shared with Portugal [m]) - 1,006 km<br><br><strong>note:</s
 with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban agglomerations are found along the Mediterranean and Atlantic coasts; numerous smaller cities are spread throughout the interior; very dense settlement around the capital of Madrid, as well as the port city of Barcelona<br>
 
 **Natural hazards**<br>
-<p>periodic droughts, occasional flooding</p><p><strong>volcanism:</strong> volcanic activity in the Canary Islands, located off Africa's northwest coast; Teide (3,715 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; La Palma (2,426 m), which last erupted in 1971, is the most active of the Canary Islands volcanoes; Lanzarote is the only other historically active volcano</p><br>
+periodic droughts, occasional flooding <br><br><strong>volcanism:</strong> volcanic activity in the Canary Islands, located off Africa's northwest coast; Teide (3,715 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; La Palma (2,426 m) is the most active of the Canary Islands volcanoes; Lanzarote is the only other historically active volcano<br>
 
 **Geography - note**<br>
 strategic location along approaches to Strait of Gibraltar; Spain controls a number of territories in northern Morocco, including the enclaves of Ceuta and Melilla and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas; Spain's Canary Islands are one of four North Atlantic archipelagos that make up Macaronesia; the others are the Azores (Portugal), Madeira (Portugal), and Cabo Verde<br>
@@ -400,11 +400,10 @@ Pillars of Hercules<br>
 **National color(s)**<br>
 red, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Himno Nacional Espanol" (National Anthem of Spain)<br>
 _lyrics/music_: no lyrics/unknown<br>
 _history_: officially in use between 1770 and 1931, restored in 1939; the Spanish anthem was the first to be officially adopted; it first appeared in a 1761 military bugle-call book and was replaced by "Himno de Riego" in the years between 1931 and 1939; the long version of the anthem is used for the king, and the short version is used for the prince, prime minister, and occasions such as sporting events<br>
-<strong>note:</strong> officially in use between 1770 and 1931, restored in 1939; the Spanish anthem was the first to be officially adopted; it first appeared in a 1761 military bugle-call book and was replaced by "Himno de Riego" in the years between 1931 and 1939; the long version of the anthem is used for the king, and the short version is used for the prince, prime minister, and occasions such as sporting events<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 50 (44 cultural, 4 natural, 2 mixed)<br>

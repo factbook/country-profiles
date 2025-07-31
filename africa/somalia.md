@@ -329,7 +329,7 @@ _subordinate courts_: federal courts; federal member state-level courts; militar
 <strong>note:</strong> under the terms of the 2004 Transitional National Charter, a Supreme Court based in Mogadishu and the Appeal Court were established, but most regions have reverted to local forms of conflict resolution, whether secular, Somali customary law, or Islamic law<br>
 
 **Political parties**<br>
-<p>Cosmopolitan Democratic Party<br>Green Party<br>Himilo Qaran Party<br>Ilays Party<br>Justice and Reconciliation Party<br>National Progressive Party<br>Peace and Unity Party<br>Qaransoor Party<br>Qiimo Qaran Party<br>Security and Justice Party<br>Social Justice Party<br>Somali Labour Party<br>Somali Republic Party<br>Somali Social Unity Party or SSUP<br>Union for Peace and Development Party or PDP<br>Wadajir Party</p><br>
+Cosmopolitan Democratic Party<br>Green Party<br>Himilo Qaran Party<br>Ilays Party<br>Justice and Reconciliation Party<br>National Progressive Party<br>Peace and Unity Party<br>Qaransoor Party<br>Qiimo Qaran Party<br>Security and Justice Party<br>Social Justice Party<br>Somali Labour Party<br>Somali Republic Party<br>Somali Social Unity Party or SSUP<br>Union for Peace and Development Party or PDP<br>Wadajir Party<br>
 <strong>note:</strong> in 2017 an independent electoral commission (the NIEC) was inaugurated with a mandate to oversee the process of registration of political parties in the country; as of 2021, the NIEC had registered a total of 110 parties<br>
 
 **Diplomatic representation in the US**<br>
@@ -363,11 +363,10 @@ leopard<br>
 **National color(s)**<br>
 blue, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Qolobaa Calankeed" (Every Nation Has Its Own Flag)<br>
 _lyrics/music_: lyrics/music: Abdullahi QARSHE<br>
 _history_: adopted 2012; written in 1959<br>
-<strong>note:</strong> adopted 2012; written in 1959<br>
 
 **Government - note**<br>
 regional and local governing bodies continue to exist and control various areas of the country, including the self-declared Republic of Somaliland in northwestern Somalia<br>

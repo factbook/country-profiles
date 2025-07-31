@@ -68,7 +68,7 @@ _other_: 48.4% (2022 est.)<br>
 three quarters of the population lives in rural areas; the urban populace lives primarily in two cities, Port-Vila and Lugenville; the three largest islands -- Espiritu Santo, Malakula, and Efate -- accommodate over half of the populace<br>
 
 **Natural hazards**<br>
-<p>tropical cyclones (January to April); volcanic eruption on Aoba (Ambae) island began on 27 November 2005, volcanism also causes minor earthquakes; tsunamis</p><p><strong>volcanism:</strong> significant volcanic activity with multiple eruptions in recent years; Yasur (361 m), one of the world's most active volcanoes, has experienced continuous activity in recent centuries; other historically active volcanoes include Aoba, Ambrym, Epi, Gaua, Kuwae, Lopevi, Suretamatai, and Traitor's Head</p><br>
+tropical cyclones (January to April); volcanic activity; volcanism also causes minor earthquakes; tsunamis <br><br><strong>volcanism:</strong> significant volcanic activity with multiple eruptions in recent years; Yasur (361 m), one of the world's most active volcanoes, has experienced continuous activity in recent centuries; other historically active volcanoes include Aoba, Ambrym, Epi, Gaua, Kuwae, Lopevi, Suretamatai, and Traitor's Head<br>
 
 **Geography - note**<br>
 a Y-shaped chain of four main islands and 80 smaller islands; several of the islands have active volcanoes, including several underwater volcanoes<br>
@@ -350,11 +350,10 @@ boar's tusk with crossed fern fronds<br>
 **National color(s)**<br>
 red, black, green, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Yumi, Yumi, Yumi" (We, We, We)<br>
 _lyrics/music_: Francois Vincent AYSSAV<br>
 _history_: adopted 1980; the anthem is written in Bislama, a Creole language<br>
-<strong>note:</strong> adopted 1980; the anthem is written in Bislama, a Creole language<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

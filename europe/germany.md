@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>As Europe's largest economy and second most-populous nation (after Russia), Germany is a key member of the continent's economic, political, and defense organizations. European power struggles immersed Germany in two devastating world wars in the first half of the 20th century and left the country occupied by the victorious Allied powers of the US, UK, France, and the Soviet Union in 1945. With the advent of the Cold War, two German states were formed in 1949: the western Federal Republic of Germany (FRG) and the eastern German Democratic Republic (GDR). The democratic FRG embedded itself in key western economic and security organizations, including the EC (now the EU) and NATO, while the communist GDR was on the front line of the Soviet-led Warsaw Pact. The decline of the Soviet Union and the end of the Cold War allowed German reunification to occur in 1990. Since then, Germany has expended considerable funds to bring eastern productivity and wages up to western standards. In January 1999, Germany and 10 other EU countries introduced a common European exchange currency, the euro.</p><br>
+As Europe's largest economy and second most-populous nation (after Russia), Germany is a key member of the continent's economic, political, and defense organizations. European power struggles immersed Germany in two devastating world wars in the first half of the 20th century and left the country occupied by the victorious Allied powers of the US, UK, France, and the Soviet Union in 1945. With the advent of the Cold War, two German states were formed in 1949: the western Federal Republic of Germany (FRG) and the eastern German Democratic Republic (GDR). The democratic FRG embedded itself in key western economic and security organizations, including the EC (now the EU) and NATO, while the communist GDR was on the front line of the Soviet-led Warsaw Pact. The decline of the Soviet Union and the end of the Cold War allowed German reunification to occur in 1990. Since then, Germany has expended considerable funds to bring eastern productivity and wages up to western standards. In January 1999, Germany and 10 other EU countries introduced a common European exchange currency, the euro.<br>
 
 ## Geography
 
@@ -394,11 +394,10 @@ eagle<br>
 **National color(s)**<br>
 black, red, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Das Lied der Deutschen" (Song of the Germans)<br>
 _lyrics/music_: August Heinrich HOFFMANN VON FALLERSLEBEN/Franz Joseph HAYDN<br>
 _history_: first adopted 1922; the anthem, also known as "Deutschlandlied" (Song of Germany), was originally adopted for its connection to the March 1848 liberal revolution; the Nazis later appropriated the first verse -- specifically the phrase "Deutschland, Deutschland ueber alles" (Germany, Germany above all) -- to promote nationalism, and the anthem was banned after 1945; in 1952, West Germany adopted the third verse as its national anthem; in 1990, it became the national anthem for the reunited Germany<br>
-<strong>note:</strong> first adopted 1922; the anthem, also known as "Deutschlandlied" (Song of Germany), was originally adopted for its connection to the March 1848 liberal revolution; the Nazis later appropriated the first verse -- specifically the phrase "Deutschland, Deutschland ueber alles" (Germany, Germany above all) -- to promote nationalism, and the anthem was banned after 1945; in 1952, West Germany adopted the third verse as its national anthem; in 1990, it became the national anthem for the reunited Germany<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 55 (53 cultural, 2 natural)<br>

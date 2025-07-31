@@ -356,7 +356,7 @@ _judge selection and term of office_: Supreme Court chief justice selected by th
 _subordinate courts_: High Court of Justice; Courts of Appeal; tribunals; justices of the peace<br>
 
 **Political parties**<br>
-Chadian Convention for Peace and Development or CTPD<br>Federation Action for the Republic or FAR<br>National Rally for Development and Progress or Viva-RNDP<br>National Union for Democracy and Renewal or UNDR<br>Party for Unity and Reconstruction or PUR<br>Patriotic Salvation Movement or MPS <br>Rally for Democracy and Progress or RDP<br>Rally of Chadian Nationalists/Awakening or RNDT/Le Reveil<br>Social Democratic Party for a Change-over of Power or PDSA<br>Union for Democracy and the Republic or UDR<br>Union for Renewal and Democracy or URD<br>Transformers<strong><br></strong><br>
+Chadian Convention for Peace and Development or CTPD<br>Federation Action for the Republic or FAR<br>National Rally for Development and Progress or Viva-RNDP<br>National Union for Democracy and Renewal or UNDR<br>Party for Unity and Reconstruction or PUR<br>Patriotic Salvation Movement or MPS <br>Rally for Democracy and Progress or RDP<br>Rally of Chadian Nationalists/Awakening or RNDT/Le Reveil<br>Social Democratic Party for a Change-over of Power or PDSA<br>Union for Democracy and the Republic or UDR<br>Union for Renewal and Democracy or URD<br>Transformers<br>
 <strong>note 1: </strong> 19 additional parties each contributed one member<br><strong><br>note 2: </strong> on 5 October 2021, Interim President Mahamat Idriss DEBY appointed 93 members to the interim National Transitional Council (NTC); 30% of the NTC members were retained from parties previously represented in the National Assembly<br>
 
 **Diplomatic representation in the US**<br>
@@ -393,11 +393,10 @@ goat (north), lion (south)<br>
 **National color(s)**<br>
 blue, yellow, red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "La Tchadienne" (The Chadian)<br>
 _lyrics/music_: Louis GIDROL and his students/Paul VILLARD<br>
 _history_: adopted 1960<br>
-<strong>note:</strong> adopted 1960<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 natural, 1 mixed)<br>

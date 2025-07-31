@@ -10,13 +10,13 @@ Christopher COLUMBUS claimed Saint Martin for Spain in 1493, naming it after the
 ## Geography
 
 **Location**<br>
-<p>Caribbean, located in the Leeward Islands (northern) group; Dutch part of the island of Saint Martin in the Caribbean Sea; Sint Maarten lies east of the US Virgin Islands</p><br>
+Caribbean, located in the Leeward Islands (northern) group; Dutch part of the island of Saint Martin in the Caribbean Sea; Sint Maarten lies east of the US Virgin Islands<br>
 
 **Geographic coordinates**<br>
-<p>18 4 N, 63 4 W</p><br>
+18 4 N, 63 4 W<br>
 
 **Map references**<br>
-<p>Central America and the Caribbean</p><br>
+Central America and the Caribbean<br>
 
 **Area**<br>
 _total _: 34 sq km<br>
@@ -25,7 +25,7 @@ _water_: 0 sq km<br>
 <strong>note:</strong> Dutch part of the island of Saint Martin<br>
 
 **Area - comparative**<br>
-<p>one-fifth the size of Washington, D.C.</p><br>
+one-fifth the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 _total_: 16 km<br>
@@ -39,7 +39,7 @@ _territorial sea_: 12 nm<br>
 _exclusive economic zone_: 200 nm<br>
 
 **Climate**<br>
-<p>tropical marine climate, ameliorated by northeast trade winds, results in moderate temperatures; average rainfall of 150 cm/year; hurricane season stretches from July to November</p><br>
+tropical marine climate, ameliorated by northeast trade winds, results in moderate temperatures; average rainfall of 150 cm/year; hurricane season stretches from July to November<br>
 
 **Terrain**<br>
 <p>low, hilly terrain, volcanic origin</p><br>
@@ -49,7 +49,7 @@ _highest point_: 250 m SW of Mount Flagstaff summit, 383 m<br>
 _lowest point_: Caribbean Sea 0 m<br>
 
 **Natural resources**<br>
-<p>fish, salt</p><br>
+fish, salt<br>
 
 **Land use**<br>
 _agricultural land_: 0% (2022 est.)<br>
@@ -60,10 +60,10 @@ _other_: 89.1% (2022 est.)<br>
 the most populous areas are Lower Prince's Quarter (north of Philipsburg) and Cul de Sac<br>
 
 **Natural hazards**<br>
-<p>subject to hurricanes from July to November</p><br>
+subject to hurricanes from July to November<br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> the northern border is shared with the French overseas collectivity of Saint Martin; together, these two entities make up the smallest landmass in the world that is shared by two self-governing states<br><br><strong>note 2:</strong> Simpson Bay Lagoon (aka Simson Bay Lagoon or The Great Pond) is one of the largest inland lagoons in the West Indies; the border between the French and Dutch halves of the island of Saint Martin runs across the center of the lagoon, which is shared by both entities</p><br>
+<strong>note 1:</strong> the northern border is shared with the French overseas collectivity of Saint Martin; together, these two entities make up the smallest landmass in the world that is shared by two self-governing states<br><br><strong>note 2:</strong> Simpson Bay Lagoon (aka, Simson Bay Lagoon or The Great Pond) is one of the largest inland lagoons in the West Indies; the border between the French and Dutch halves of the island of Saint Martin runs across the center of the lagoon, which is shared<br>
 
 ## People and Society
 
@@ -166,10 +166,10 @@ _female_: 12 years (2014)<br>
 ## Environment
 
 **Environmental issues**<br>
-<p>scarcity of potable water; inadequate solid waste management; pollution from construction, chemical runoff, and sewage </p><br>
+scarcity of potable water; inadequate solid waste management; pollution from construction, chemical runoff, and sewage<br>
 
 **Climate**<br>
-<p>tropical marine climate, ameliorated by northeast trade winds, results in moderate temperatures; average rainfall of 150 cm/year; hurricane season stretches from July to November</p><br>
+tropical marine climate, ameliorated by northeast trade winds, results in moderate temperatures; average rainfall of 150 cm/year; hurricane season stretches from July to November<br>
 
 **Land use**<br>
 _agricultural land_: 0% (2022 est.)<br>
@@ -207,7 +207,7 @@ none (part of the Kingdom of the Netherlands)<br>
 <strong>note:</strong> Sint Maarten is one of four constituent countries of the Kingdom of the Netherlands; the other three are the Netherlands, Aruba, and Curacao<br>
 
 **Legal system**<br>
-<p>based on Dutch civil law system with some English common law influence</p><br>
+based on Dutch civil law system with some English common law influence<br>
 
 **Constitution**<br>
 _history_: previous 1947, 1955; latest adopted 21 July 2010, entered into force 10 October 2010 (regulates governance of Sint Maarten but is subordinate to the Charter for the Kingdom of the Netherlands)<br>
@@ -217,7 +217,7 @@ _amendment process_: proposals initiated by the Government or by Parliament; pas
 see the Netherlands<br>
 
 **Suffrage**<br>
-<p>18 years of age; universal</p><br>
+18 years of age; universal<br>
 
 **Executive branch**<br>
 _chief of state_: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor Ajamu G. BALY (since 10 October 2022)<br>
@@ -252,13 +252,14 @@ none (represented by the Kingdom of the Netherlands)<br>
 _embassy_: the US does not have an embassy in Sint Maarten; the Consul General to Curacao is accredited to Sint Maarten<br>
 
 **International organization participation**<br>
-<p>Caricom (observer), ILO, Interpol, UNESCO (associate), UPU, WMO</p><br>
+Caricom (observer), ILO, Interpol, UNESCO (associate), UPU, WMO<br>
 
 **Independence**<br>
-<p>none (part of the Kingdom of the Netherlands)</p><br>
+none (part of the Kingdom of the Netherlands)<br>
 
 **National holiday**<br>
-<p>King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967); note - King's or Queen's Day are observed on the ruling monarch's birthday; celebrated on 26 April if 27 April is a Sunday; local holiday Sint Maarten's Day, 11 November (1985), commemorates the discovery of the island by COLUMBUS on Saint Martin's Day, 11 November 1493; celebrated on both halves of the island</p><br>
+King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967)<br>
+<strong>note:</strong> observed on the ruling monarch's birthday; celebrated on 26 April if 27 April is a Sunday; local holiday is Sint Maarten's Day, 11 November (1985), and is celebrated on both halves of the island<br>
 
 **Flag description**<br>
 two equal horizontal bands of red (top) and blue, with a white isosceles triangle based on the hoist side; the center of the triangle displays the national coat of arms with an orange-bordered blue shield that prominently displays the white courthouse in Philipsburg, as well as yellow sage (the national flower) in the upper left and the silhouette of a Dutch-French friendship monument in the upper right; over the shield is a yellow rising sun and a brown pelican in flight; a yellow scroll below the shield has the motto SEMPER PROGREDIENS (Always Progressing)<br>
@@ -270,11 +271,10 @@ two equal horizontal bands of red (top) and blue, with a white isosceles triangl
 **National color(s)**<br>
 red, white, blue<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Het Wilhelmus"<br>
 _lyrics/music_: Philips VAN MARNIX van Sint Aldegonde (presumed)/unknown<br>
 _history_: official anthem, as part of the Kingdom of the Netherlands<br>
-<strong>note:</strong> the song, written in 1958, is used as an unofficial anthem for the entire island (both French and Dutch sides); as a collectivity of France, in addition to the local anthem, "La Marseillaise" is official on the French side (see France); as a constituent part of the Kingdom of the Netherlands, in addition to the local anthem, "Het Wilhelmus" is official on the Dutch side (see Netherlands)<br>
 
 ## Economy
 

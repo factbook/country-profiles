@@ -268,7 +268,7 @@ _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<
 _etymology_: translation of the name the Spanish gave the town in 1595, Puerto de Espa&ntilde;a; the name was anglicized after the British captured Trinidad in 1797<br>
 
 **Administrative divisions**<br>
-<p>9 regions, 3 boroughs, 2 cities, 1 ward</p> <p><strong>regions:</strong> Couva/Tabaquite/Talparo, Diego Martin, Mayaro/Rio Claro, Penal/Debe, Princes Town, Sangre Grande, San Juan/Laventille, Siparia, Tunapuna/Piarco</p> <p><strong>borough:</strong> Arima, Chaguanas, Point Fortin</p> <p><strong>cities:</strong> Port of Spain, San Fernando</p> <p><strong>ward:</strong> Tobago</p><br>
+9 regions, 3 boroughs, 2 cities, 1 ward <br><br><strong>regions:</strong> Couva/Tabaquite/Talparo, Diego Martin, Mayaro/Rio Claro, Penal/Debe, Princes Town, Sangre Grande, San Juan/Laventille, Siparia, Tunapuna/Piarco <br><br><strong>borough:</strong> Arima, Chaguanas, Point Fortin <br><br><strong>cities:</strong> Port of Spain, San Fernando <br><br><strong>ward:</strong> Tobago<br>
 
 **Legal system**<br>
 English common law; Supreme Court reviews legislative acts<br>
@@ -369,11 +369,10 @@ red, white, black<br>
 **National coat of arms**<br>
 designed in 1962, the coat of arms shows the scarlet ibis (national bird of Trinidad) and the cocrico (national bird of Tobago); they support a shield displaying two hummingbirds, because Trinidad is home to 18 species of the bird and is called the &ldquo;Land of Hummingbirds;&rdquo; three gold ships on a backdrop of national colors represent Christopher Columbus, who visited the islands; the three peaks in the lower left refer to Trinidad being named after the Holy Trinity and also represent a famous mountain; the image of a gold ship's wheel in front of a coconut palm was also used on the Great Seals of British Colonial Tobago; the gold helmet represents Queen Elizabeth II of England (ruler of the country at the time), and the national motto promotes harmony in diversity<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Forged From the Love of Liberty"<br>
 _lyrics/music_: Patrick Stanislaus CASTAGNE<br>
 _history_: adopted 1962; song originally written as an anthem for the West Indies Federation; Trinidad and Tobago adopted it when the Federation dissolved<br>
-<strong>note:</strong> adopted 1962; song originally written as an anthem for the West Indies Federation; Trinidad and Tobago adopted it when the Federation dissolved<br>
 
 ## Economy
 

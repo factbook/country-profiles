@@ -319,11 +319,10 @@ red and white lozenges (diamond shapes)<br>
 **National color(s)**<br>
 red, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "A Marcia de Muneghu" (The March of Monaco)<br>
 _lyrics/music_: Louis NOTARI/Charles ALBRECHT<br>
 _history_: music adopted 1867, lyrics adopted 1931; only the Monegasque lyrics are official; the French version is known as "Hymne Monegasque" (Monegasque Anthem); the words are usually only sung on official occasions<br>
-<strong>note:</strong> music adopted 1867, lyrics adopted 1931; only the Monegasque lyrics are official; the French version is known as "Hymne Monegasque" (Monegasque Anthem); the words are usually only sung on official occasions<br>
 
 ## Economy
 

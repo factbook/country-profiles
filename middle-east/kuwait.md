@@ -293,7 +293,7 @@ mixed system consisting of English common law, French civil law, and Islamic sha
 **Constitution**<br>
 _history_: approved and promulgated 11 November 1962; suspended 1976 to 1981 (4 articles); 1986 to 1991; May to July 1999<br>
 _amendment process_: proposed by the amir or supported by at least one third of the National Assembly; passage requires two-thirds consent of the Assembly membership and promulgation by the amir; constitutional articles on the initiation, approval, and promulgation of general legislation cannot be amended<br>
-<strong>Note:</strong> on 10 May 2024, Amir Sheikh MISHAL al-Ahmad al-Sabah dissolved the National Assembly and suspended several articles of the constitution for up to four years<br>
+<strong>note:</strong> in May 2024, Amir Sheikh MISHAL al-Ahmad al-Sabah dissolved the National Assembly and suspended several articles of the constitution for up to four years<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -359,11 +359,10 @@ golden falcon<br>
 **National color(s)**<br>
 green, white, red, black<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Al-Nasheed Al-Watani" (National Anthem)<br>
 _lyrics/music_: Ahmad MUSHARI al-Adwani/Ibrahim Nasir al-SOULA<br>
 _history_: adopted 1978; the anthem is only used on formal occasions<br>
-<strong>note:</strong> adopted 1978; the anthem is only used on formal occasions<br>
 
 ## Economy
 

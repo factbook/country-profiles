@@ -288,7 +288,8 @@ Arctic Council, IMO (associate), NC, NIB, UNESCO (associate), UPU<br>
 none (self-governing overseas administrative division of Denmark)<br>
 
 **National holiday**<br>
-Olaifest (Olavsoka) (commemorates the death in battle of King OLAF II of Norway, later St. OLAF), 29 July (1030)<br>
+Olaifest (Olavsoka), 29 July (1030)<br>
+<strong>note: </strong>commemorates the death in battle of King OLAF II of Norway, later St. OLAF<br>
 
 **Flag description**<br>
 white with a red cross outlined in blue extending to the edges of the flag; the vertical part of the cross is shifted toward the hoist side in the style of the Dannebrog (Danish flag); referred to as Merkid, meaning "the banner" or "the mark," the flag resembles the flags of Iceland and Norway and uses the same three colors in a different sequence; white represents the clear Faroese sky and sea foam; red and blue are traditional Faroese colors<br>
@@ -297,11 +298,10 @@ white with a red cross outlined in blue extending to the edges of the flag; the 
 **National symbol(s)**<br>
 ram<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Mitt alfagra land" (My Fairest Land)<br>
 _lyrics/music_: Simun av SKAROI/Peter ALBERG<br>
 _history_: adopted 1948; the anthem is also known as "Tu alfagra land mitt" (Thou Fairest Land of Mine); as a self-governing overseas administrative division of Denmark, the Faroe Islands are permitted to have their own national anthem<br>
-<strong>note:</strong> adopted 1948; the anthem is also known as "Tu alfagra land mitt" (Thou Fairest Land of Mine); as a self-governing overseas administrative division of Denmark, the Faroe Islands are permitted to have their own national anthem<br>
 
 ## Economy
 

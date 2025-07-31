@@ -326,7 +326,7 @@ _cabinet_: Council of Ministers selected by the president with legislative appro
 _election/appointment process_: supreme leader appointed for life by Assembly of Experts; president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 4-year term (eligible for a second term and an additional nonconsecutive term)<br>
 _most recent election date_: 28 June 2024, with runoff held on 5 July 2024<br>
 _election results_: <em><br>2024: </em>first round results - Masoud PEZESHKIAN (independent) 44.4%, Saeed JALILI (Front of Islamic Revolution Stability) 40.4%, Mohammad Baqer QAKIBAF (Progress and Justice Population of Islamic Iran) 14.3%, other 0.9%; second round results - Masoud PEZESHKIAN elected; Masoud PEZESHKIAN 54.8%, Saeed JALILI 45.2%<br><em><br>2021:</em> Ebrahim RAISI elected president; percent of vote - Ebrahim RAISI (independent) 72.4%, Mohsen REZAI (RFII) 13.8%, Abbdolnaser HEMATI (ECP) 9.8%, Amir-Hosein Qazizadeh-HASHEMI (Islamic Law Party) 4%<br>
-<strong>Note: </strong>presidential election held early due to the death of President Ebrahim RAISI in a helicopter accident in May 2024<br>
+<strong>note: </strong>presidential election held early due to the death of President Ebrahim RAISI in a helicopter accident in May 2024<br>
 
 **Legislative branch**<br>
 _legislature name_: Islamic Parliament of Iran (Majles Shoraye Eslami)<br>
@@ -372,7 +372,7 @@ lion<br>
 **National color(s)**<br>
 green, white, red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Soroud-e Melli-ye Jomhouri-ye Eslami-ye Iran" (National Anthem of the Islamic Republic of Iran)<br>
 _lyrics/music_: multiple authors/Hassan RIAHI<br>
 _history_: adopted 1990; Iran has had six national anthems; the first, "Salam-e Shah" (Royal Salute), was in use from 1873 to 1909; "Salamati-ye Dowlat-e Elliye-ye Iran" (Salute of the Sublime State of Persia) from 1909 to 1933; "Sorud-e melli" (The Imperial Anthem of Iran) from 1933 to 1979; "Ey Iran" (Oh Iran) functioned unofficially as the national anthem for a brief period between the ouster of the Shah in 1979 and the early days of the Islamic Republic in 1980; "Payandeh Bada Iran" (Long Live Iran) was used between 1980 and 1990 under Ayatollah KHOMEINI<br>
@@ -380,7 +380,7 @@ _history_: adopted 1990; Iran has had six national anthems; the first, "Salam-e 
 
 **National heritage**<br>
 _total World Heritage Sites_: 28 (26cultural, 2 natural)<br>
-_selected World Heritage Site locales_: <p>Persepolis (c); Tchogha Zanbil (c); Bam and its Cultural Landscape (c); Golestan Palace (c); Shushtar Historical Hydraulic System (c); Pasargadae (c); Hyrcanian Forests (n); Tabriz Historic Bazaar Complex (c); Meidan Emam, Esfahan (c); Bisotun (c); Takht-e Soleyman (c); Soltaniyeh(c); Bisotun (c); Armenian Monastic Ensembles of Iran(c); Sheikh Safi al-din Khānegāh and Shrine Ensemble in Ardabil (c); The Persian Garden (c); Gonbad-e Qābus (c); Masjed-e Jāmé of Isfahan (c); Shahr-i Sokhta (c); Cultural Landscape of Maymand (c); Susa (c); Lut Desert (n);The Persian Qanat (c); Historic City of Yazd (c); Sassanid Archaeological Landscape of Fars Region (c); Cultural Landscape of Hawraman/Uramanat (c); Trans-Iranian Railway (c); The Persian Caravanserai (c); Hegmataneh (c)</p><br>
+_selected World Heritage Site locales_: Persepolis (c); Tchogha Zanbil (c); Bam and its Cultural Landscape (c); Golestan Palace (c); Shushtar Historical Hydraulic System (c); Pasargadae (c); Hyrcanian Forests (n); Tabriz Historic Bazaar Complex (c); Meidan Emam, Esfahan (c); Bisotun (c); Takht-e Soleyman (c); Soltaniyeh(c); Bisotun (c); Armenian Monastic Ensembles of Iran(c); Sheikh Safi al-din Khānegāh and Shrine Ensemble in Ardabil (c); The Persian Garden (c); Gonbad-e Qābus (c); Masjed-e Jām&eacute; of Isfahan (c); Shahr-i Sokhta (c); Cultural Landscape of Maymand (c); Susa (c); Lut Desert (n);The Persian Qanat (c); Historic City of Yazd (c); Sassanid Archaeological Landscape of Fars Region (c); Cultural Landscape of Hawraman/Uramanat (c); Trans-Iranian Railway (c); The Persian Caravanserai (c); Hegmataneh (c)<br>
 
 ## Economy
 

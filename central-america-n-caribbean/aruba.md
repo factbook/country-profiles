@@ -300,11 +300,10 @@ Hooiberg (Haystack) Hill<br>
 **National color(s)**<br>
 blue, yellow, red, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Het Wilhelmus"<br>
 _lyrics/music_: Philips VAN MARNIX van Sint Aldegonde (presumed)/unknown<br>
 _history_: official anthem, as part of the Kingdom of the Netherlands<br>
-<strong>note:</strong> local anthem adopted 1986; in addition to the local anthem, "Het Wilhelmus" is the official anthem for Aruba as part of the Kingdom of the Netherlands (see Netherlands)<br>
 
 ## Economy
 

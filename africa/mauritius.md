@@ -305,7 +305,7 @@ _head of government_: Prime Minister Navin RAMGOOLAM (since 13 November 2024)<br
 _cabinet_: Cabinet of Ministers (Council of Ministers) appointed by the president on the recommendation of the prime minister<br>
 _election/appointment process_: president and vice president indirectly elected by the National Assembly for 5-year renewable terms; the president appoints the prime minister and deputy prime minister who have the majority support in the National Assembly<br>
 _most recent election date_: 7 November 2019<br>
-_election results_: <em><br>2019</em>: Prithvirajsing ROOPUN (MSM) elected president by the National Assembly - unanimous vote<br><br><em>2015</em>: Ameenah GURIB-FAKIM (independent) elected president by the National Assembly - unanimous vote<br><br>
+_election results_: <em><br>2019</em>: Prithvirajsing ROOPUN (MSM) elected president by the National Assembly - unanimous vote<br><br>2015: Ameenah GURIB-FAKIM (independent) elected president by the National Assembly - unanimous vote<br>
 _expected date of next election_: 2024<br>
 
 **Legislative branch**<br>
@@ -352,7 +352,8 @@ ACP, AfDB, AOSIS, AU, CD, COMESA, CPLP (associate), FAO, G-77, IAEA, IBRD, ICAO,
 12 March 1968 (from the UK)<br>
 
 **National holiday**<br>
-Independence and Republic Day, 12 March (1968 & 1992); note - became independent and a republic on the same date in 1968 and 1992 respectively<br>
+Independence and Republic Day, 12 March (1968, 1992)<br>
+<strong>note:</strong> became independent and a republic on the same date in 1968 and 1992, respectively<br>
 
 **Flag description**<br>
 four equal horizontal bands of red (top), blue, yellow, and green; red stands for self-determination and independence, blue for the Indian Ocean, yellow for the new light of independence, golden sunshine, or the bright future, and green for agriculture or the island's lush vegetation<br>
@@ -364,11 +365,10 @@ dodo bird, earring tree flower (<em>Trochetia boutoniana</em>)<br>
 **National color(s)**<br>
 red, blue, yellow, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Motherland"<br>
 _lyrics/music_: Jean Georges PROSPER/Philippe GENTIL<br>
 _history_: adopted 1968<br>
-<strong>note:</strong> adopted 1968<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>

@@ -377,11 +377,10 @@ elephant<br>
 **National color(s)**<br>
 red, white, blue<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Pheng Xat Lao" (Hymn of the Lao People)<br>
 _lyrics/music_: SISANA Sisane/THONGDY Sounthonevichit<br>
-_history_: music adopted 1945, lyrics adopted 1975; the anthem's lyrics were changed after the communist revolution that overthrew the monarchy in 1975&nbsp;<br>
-<strong>note:</strong> music adopted 1945, lyrics adopted 1975; the anthem's lyrics were changed after the communist revolution that overthrew the monarchy in 1975 <br>
+_history_: music adopted 1945, lyrics adopted 1975; the anthem's lyrics were changed after the communist revolution that overthrew the monarchy in 1975<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (all cultural)<br>

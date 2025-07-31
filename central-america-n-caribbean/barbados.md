@@ -356,11 +356,10 @@ Neptune's trident, pelican, red bird of paradise flower (also known as "Pride of
 **National color(s)**<br>
 blue, yellow, black<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "The National Anthem of Barbados"<br>
 _lyrics/music_: Irving BURGIE/C. Van Roland EDWARDS<br>
 _history_: adopted 1966; the anthem is also known as "In Plenty and In Time of Need"<br>
-<strong>note:</strong> adopted 1966; the anthem is also known as "In Plenty and In Time of Need"<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

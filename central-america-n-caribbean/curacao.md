@@ -13,10 +13,10 @@ The original Arawak Indian settlers who arrived on Cura&ccedil;ao from South Ame
 Caribbean, an island in the Caribbean Sea, 55 km off the coast of Venezuela<br>
 
 **Geographic coordinates**<br>
-<p>12 10 N, 69 00 W</p><br>
+12 10 N, 69 00 W<br>
 
 **Map references**<br>
-<p>Central America and the Caribbean</p><br>
+Central America and the Caribbean<br>
 
 **Area**<br>
 _total _: 444 sq km<br>
@@ -24,7 +24,7 @@ _land_: 444 sq km<br>
 _water_: 0 sq km<br>
 
 **Area - comparative**<br>
-<p>more than twice the size of Washington, D.C.</p><br>
+more than twice the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
 0<br>
@@ -37,7 +37,7 @@ _territorial sea_: 12 nm<br>
 _exclusive economic zone_: 200 nm<br>
 
 **Climate**<br>
-<p>tropical marine climate, ameliorated by northeast trade winds, results in mild temperatures; semiarid with average rainfall of 60 cm/year</p><br>
+tropical marine climate, ameliorated by northeast trade winds, results in mild temperatures; semiarid with average rainfall of 60 cm/year<br>
 
 **Terrain**<br>
 <p>generally low, hilly terrain</p><br>
@@ -47,7 +47,7 @@ _highest point_: Mt. Christoffel 372 m<br>
 _lowest point_: Caribbean Sea 0 m<br>
 
 **Natural resources**<br>
-<p>calcium phosphates, protected harbors, hot springs</p><br>
+calcium phosphates, protected harbors, hot springs<br>
 
 **Land use**<br>
 _agricultural land_: 0% (2022 est.)<br>
@@ -62,10 +62,10 @@ NA<br>
 largest concentration on the island is Willemstad; smaller settlements near the coast can be found throughout the island, particularly in the northwest<br>
 
 **Natural hazards**<br>
-<p>Curacao is south of the Caribbean hurricane belt and is rarely threatened</p><br>
+Curacao is south of the Caribbean hurricane belt and is rarely threatened<br>
 
 **Geography - note**<br>
-<p>Curaçao is a part of the Windward Islands (southern) group in the Lesser Antilles</p><br>
+Cura&ccedil;ao is a part of the Windward Islands (southern) group in the Lesser Antilles<br>
 
 ## People and Society
 
@@ -174,10 +174,10 @@ _female_: 18 years (2013)<br>
 ## Environment
 
 **Environmental issues**<br>
-<p>waste management, including pollution of marine areas from domestic sewage, inadequate sewage treatment facilities, industrial effluents, agricultural runoff, mismanagement of toxic substances, and ineffective regulations; damage from neglect and a lack of controls at major refinery</p><br>
+waste management, including pollution of marine areas from domestic sewage, inadequate sewage treatment facilities, industrial effluents, agricultural runoff, mismanagement of toxic substances, and ineffective regulations; damage from neglect and a lack of controls at major refinery<br>
 
 **Climate**<br>
-<p>tropical marine climate, ameliorated by northeast trade winds, results in mild temperatures; semiarid with average rainfall of 60 cm/year</p><br>
+tropical marine climate, ameliorated by northeast trade winds, results in mild temperatures; semiarid with average rainfall of 60 cm/year<br>
 
 **Land use**<br>
 _agricultural land_: 0% (2022 est.)<br>
@@ -227,7 +227,7 @@ none (part of the Kingdom of the Netherlands)<br>
 <strong>note:</strong> Curaçao is one of four constituent countries of the Kingdom of the Netherlands; the other three are the Netherlands, Aruba, and Sint Maarten<br>
 
 **Legal system**<br>
-<p>based on Dutch civil law</p><br>
+based on Dutch civil law<br>
 
 **Constitution**<br>
 _history_: previous 1947, 1955; latest adopted 5 September 2010, entered into force 10 October 2010 (regulates governance of Curacao but is subordinate to the Charter for the Kingdom of the Netherlands)<br>
@@ -236,7 +236,7 @@ _history_: previous 1947, 1955; latest adopted 5 September 2010, entered into fo
 see the Netherlands<br>
 
 **Suffrage**<br>
-<p>18 years of age; universal</p><br>
+18 years of age; universal<br>
 
 **Executive branch**<br>
 _chief of state_: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor Lucille A. GEORGE-WOUT (since 4 November 2013)<br>
@@ -278,13 +278,14 @@ _FAX_: [599] (9) 461-6489<br>
 _email address and website_: <br>ACSCuracao@state.gov<br><br>https://cw.usconsulate.gov/<br>
 
 **International organization participation**<br>
-<p>ACS (associate), Caricom (observer), FATF, ILO, ITU, UNESCO (associate), UPU</p><br>
+ACS (associate), Caricom (observer), FATF, ILO, ITU, UNESCO (associate), UPU<br>
 
 **Independence**<br>
-<p>none (part of the Kingdom of the Netherlands)</p><br>
+none (part of the Kingdom of the Netherlands)<br>
 
 **National holiday**<br>
-<p>King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967); note - King's or Queen's Day are observed on the ruling monarch's birthday; celebrated on 26 April if 27 April is a Sunday</p><br>
+King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967)<br>
+<strong>note:</strong> King's or Queen's Day are observed on the ruling monarch's birthday; celebrated on 26 April if 27 April is a Sunday<br>
 
 **Flag description**<br>
 on a blue field, a horizontal yellow band below the center divides the flag; two five-pointed white stars -- the smaller above and to the left of the larger -- appear in the upper left; the blue stands for the sky and sea, and yellow for the sun; the stars symbolize Curacao and its uninhabited sister island of Klein Curacao; the five star points signify the five continents from which Curacao's people originate<br>
@@ -295,11 +296,10 @@ laraha (citrus tree)<br>
 **National color(s)**<br>
 blue, yellow, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Himmo di Korsou" (Anthem of Curacao)<br>
 _lyrics/music_: Guillermo ROSARIO, Mae HENRIQUEZ, Enrique MULLER, Betty DORAN/Frater Candidus NOWENS, Errol "El Toro" COLINA<br>
 _history_: adapted 1978; the lyrics, originally written in 1899, were rewritten in 1978 to remove colonial references<br>
-<strong>note:</strong> adapted 1978; the lyrics, originally written in 1899, were rewritten in 1978 to remove colonial references<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural); note - excerpted from the Netherlands entry<br>

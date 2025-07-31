@@ -322,7 +322,8 @@ _dual citizenship recognized_: yes, but limited to select countries<br>
 _residency requirement for naturalization_: 4 out of the previous 7 years and including the 12 months preceding application<br>
 
 **Suffrage**<br>
-18 years of age; universal; note - there are joint electorates and reserved parliamentary seats for women and non-Muslims<br>
+18 years of age; universal<br>
+<strong>note:</strong> women and non-Muslims have joint electorates and reserved parliamentary seats<br>
 
 **Executive branch**<br>
 _chief of state_: President Asif Ali ZARDARI (since 10 March 2024)<br>
@@ -391,7 +392,8 @@ ADB, AIIB, ARF, ASEAN (sectoral dialogue partner), C, CERN (associate member), C
 14 August 1947 (from British India)<br>
 
 **National holiday**<br>
-Pakistan Day (also referred to as Pakistan Resolution Day or Republic Day), 23 March (1940); note - commemorates both the adoption of the Lahore Resolution by the All-India Muslim League during its 22-24 March 1940 session, which called for the creation of independent Muslim states, and the adoption of the first constitution of Pakistan on 23 March 1956 during the transition to the Islamic Republic of Pakistan<br>
+Pakistan Day (also referred to as Pakistan Resolution Day or Republic Day), 23 March (1940, 1956)<br>
+<strong>note:</strong> commemorates the All-India Muslim League adopting the Lahore Resolution during its 22-24 March 1940 session, which called for the creation of independent Muslim states, and also the adoption of Pakistan's first constitution on 23 March 1956, during the transition to the Islamic Republic of Pakistan<br>
 
 **Flag description**<br>
 green with a vertical white band on the hoist side, symbolizing the role of religious minorities; a large white crescent and star are centered in the green field, all of which are traditional Islamic symbols<br>
@@ -402,11 +404,10 @@ five-pointed star between the horns of a waxing crescent moon, jasmine<br>
 **National color(s)**<br>
 green, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Qaumi Tarana" (National Anthem)<br>
 _lyrics/music_: Abu-Al-Asar Hafeez JULLANDHURI/Ahmed Ghulamali CHAGLA<br>
 _history_: adopted 1954; also known as "Pak sarzamin shad bad" (Blessed Be the Sacred Land)<br>
-<strong>note:</strong> adopted 1954; also known as "Pak sarzamin shad bad" (Blessed Be the Sacred Land)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 6 (all cultural)<br>
@@ -706,7 +707,7 @@ the military's inventory is a broad mix of mostly imported and some domestically
 1,300 Central African Republic (MINUSCA); 290 South Sudan (UNMISS); 590 Sudan (UNISFA) (2024)<br>
 
 **Military - note**<br>
-the Pakistan military is responsible for external defense but also has a domestic security role; its chief external focus is India; the military is the lead security agency in many areas of the former Federally Administered Tribal Areas (FATA) and has conducted counterinsurgency operations for decades against various internal militant groups; it is also one of the longest serving and largest contributors to UN peacekeeping missions; China is its closest security partner<br><br>the military operates largely independently and without effective civilian oversight; it has ruled the country for more than 30 years since independence in 1947 and continues to play a significant role in Pakistan's political arena; it also has a large stake in the country’s economic sector and is involved in a diverse array of commercial activities, including banking, construction of public projects, employment services, energy and power generation, fertilizer, food, housing, real estate, and security services<br><br>Pakistan has fought four wars and several skirmishes with India; three of the wars have been over the disputed region of Jammu and Kashmir, the status of which has been unsettled since the UK's 1947 withdrawal and the partition and independence of India and Pakistan; a fragile cease-fire was reached in 2003, revised in 2018, and reaffirmed in 2021, although the militarized Line of Control which serves as the border remains contested, and India has accused Pakistan of backing armed separatists and terrorist organizations in the territory New Delhi controls; in the Spring of 2025, Indian held Pakistan responsible for a terrorist attack in India-controlled Kashmir and retaliated, sparking a brief cross-border conflict involving aircraft, artillery, drone, and missile strikes<br><br>the Kashmir dispute also includes the Siachen Glacier, located in the Karakoram Mountain Range, which was seized by India in 1984 with Pakistan attempting to retake the area several times between 1985 and 1995; despite the 2003 cease-fire, both sides continue to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties are due to extreme weather and the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness (2025)<br>
+the Pakistan military is responsible for external defense but also has a domestic security role; its chief external focus is India; the military is the lead security agency in many areas of the former Federally Administered Tribal Areas (FATA) and has for decades conducted operations against various internal militant groups; it is also one of the longest serving and largest contributors to UN peacekeeping missions; China is its closest security partner<br><br>the military operates largely independently and without effective civilian oversight; it has ruled the country for more than 30 years since independence in 1947 and continues to play a significant role in Pakistan's political arena; it also has a large stake in the country’s economic sector and is involved in a diverse array of commercial activities, including banking, construction of public projects, employment services, energy and power generation, fertilizer, food, housing, real estate, and security services<br><br>Pakistan has fought four wars and several skirmishes with India; three of the wars have been over the disputed region of Jammu and Kashmir, the status of which has been unsettled since the UK's 1947 withdrawal and the partition and independence of India and Pakistan; a fragile cease-fire was reached in 2003, revised in 2018, and reaffirmed in 2021, although the militarized Line of Control which serves as the border remains contested, and India has accused Pakistan of backing armed separatists and terrorist organizations in the territory New Delhi controls; in the Spring of 2025, Indian held Pakistan responsible for a terrorist attack in India-controlled Kashmir and retaliated, sparking a brief cross-border conflict involving aircraft, artillery, drone, and missile strikes<br><br>the Kashmir dispute also includes the Siachen Glacier, located in the Karakoram Mountain Range, which was seized by India in 1984 with Pakistan attempting to retake the area several times between 1985 and 1995; despite the 2003 cease-fire, both sides continue to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties are due to extreme weather and the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness (2025)<br>
 
 ## Space
 

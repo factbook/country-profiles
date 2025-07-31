@@ -296,7 +296,8 @@ Arctic Council, ICC, NC, NIB, UPU<br>
 none (extensive self-rule as part of the Kingdom of Denmark)<br>
 
 **National holiday**<br>
-National Day, June 21; note - marks the summer solstice and the longest day of the year in the Northern Hemisphere<br>
+National Day, June 21<br>
+<strong>note:</strong> marks the summer solstice and the longest day of the year in the Northern Hemisphere<br>
 
 **Flag description**<br>
 two equal horizontal bands of white (top) and red, with a large disk slightly to the hoist side of center; the top half of the disk is red, and the bottom is white; the design represents the sun reflecting off a field of ice; the colors are the same as those of the Danish flag and symbolize Greenland's links to the Kingdom of Denmark<br>
@@ -307,11 +308,10 @@ polar bear<br>
 **National color(s)**<br>
 red, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Nuna asiilasooq" (The Land of Great Length)<br>
 _lyrics/music_: unknown<br>
 _history_: adopted 1979, when home rule was granted; the Greenlandic government recognizes this local Kalaallit song as a secondary anthem<br>
-<strong>note:</strong> adopted 1916; the government also recognizes the local Kalaallit song "Nuna asiilasooq" (The Land of Great Length) as a secondary anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (2 cultural, 1 natural); note - excerpted from the Denmark entry<br>

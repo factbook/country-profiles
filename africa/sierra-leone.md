@@ -368,11 +368,10 @@ lion<br>
 **National color(s)**<br>
 green, white, blue<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "High We Exalt Thee, Realm of the Free"<br>
 _lyrics/music_: Clifford Nelson FYLE/John Joseph AKA<br>
 _history_: adopted 1961<br>
-<strong>note:</strong> adopted 1961<br>
 
 ## Economy
 
@@ -621,13 +620,13 @@ Republic of Sierra Leone Armed Forces (RSLAF): organized as a Joint Force Comman
 estimated 10,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RSLAF has a small inventory that includes a mix of Soviet-origin and other older foreign-supplied equipment; in recent years, it has received limited amounts of newer equipment, mostly as donations (2024)<br>
+the RSLAF has a small inventory that includes a mix of Soviet-origin and other older foreign-supplied equipment; in recent years, it has received limited amounts of newer equipment, mostly as donations, such as patrol boats from China and South Korea (2024)<br>
 
 **Military service age and obligation**<br>
-18-30 for voluntary military service for men and women (25-40 for specialists); no conscription (2023)<br>
+18-25 for voluntary military service for men and women; no conscription (2025)<br>
 
 **Military - note**<br>
-the RSLAF’s principle responsibilities are securing the borders and the country’s territorial waters, supporting civil authorities during emergencies and reconstruction efforts, and participating in peacekeeping missions; it is small, lightly armed, and has a limited budget; since being reduced in size and restructured with British assistance after the end of the civil war in 2002, it has received assistance from several foreign militaries, including those of Canada, China, France, the UK, and the US; the RSLAF has participated in peacekeeping operations in Somalia and Sudan<br><br>the RSLAF’s origins lie in the Sierra Leone Battalion of the Royal West African Frontier Force (RWAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and The Gambia; the RWAFF fought in both World Wars (2024)<br>
+the RSLAF’s primary responsibilities are securing the country's borders and territorial waters, supporting civil authorities during internal emergencies, and participating in peacekeeping missions; since the end of the civil war in 2002, it has received assistance from several foreign militaries, including those of Canada, China, France, the UK, and the US<br><br>the RSLAF’s origins lie in the Sierra Leone Battalion of the Royal West African Frontier Force (RWAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and The Gambia; the RWAFF fought in both World Wars (2025)<br>
 
 ## Transnational Issues
 

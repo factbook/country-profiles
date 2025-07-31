@@ -359,11 +359,10 @@ royal palm, faya lobi (flower)<br>
 **National color(s)**<br>
 green, white, red, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God zij met ons Suriname!" (God Be With Our Suriname)<br>
 _lyrics/music_: Cornelis Atses HOEKSTRA and Henry DE ZIEL/Johannes Corstianus DE PUY<br>
 _history_: adopted 1959; originally adapted from a Sunday-school song written in 1893; contains lyrics in both Dutch and Sranang Tongo<br>
-<strong>note:</strong> adopted 1959; originally adapted from a Sunday-school song written in 1893; contains lyrics in both Dutch and Sranang Tongo<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>

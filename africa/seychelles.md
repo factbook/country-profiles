@@ -351,11 +351,10 @@ coco de mer (sea coconut)<br>
 **National color(s)**<br>
 blue, yellow, red, white, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Koste Seselwa" (Seychellois Unite)<br>
 _lyrics/music_: David Francois Marc ANDRE and George Charles Robert PAYET<br>
 _history_: adopted 1996<br>
-<strong>note:</strong> adopted 1996<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both natural)<br>
@@ -592,7 +591,6 @@ _key ports_: Victoria<br>
 
 **Military and security forces**<br>
 Seychelles People's Defense Forces (SPDF; aka Seychelles Defense Forces, SDF): Army (includes infantry, special forces, and a presidential security unit), Coast Guard, and Air Force<br><br>Ministry of Internal Affairs: Seychelles Police Force (2025)<br>
-<br>  <br>
 
 **Military expenditures**<br>
 1.5% of GDP (2024 est.)<br>
@@ -611,7 +609,7 @@ the SDF's inventory primarily consists of Soviet-era equipment delivered in the 
 18-28 (18-25 for officers) years of age for voluntary military service for men and women; 6-year initial commitment; no conscription (2023)<br>
 
 **Military - note**<br>
-formed in 1977, the SDF is one of the World's smallest militaries; its primary responsibility is maritime security, including countering illegal fishing, piracy, and drug smuggling; it was given police powers in 2022; the Seychelles has close security ties with India (2024)<br>
+formed in 1977, the SDF is one of the World's smallest militaries; its primary responsibility is maritime security, including countering illegal fishing, piracy, and drug smuggling; it was given police powers in 2022; the Seychelles maintains close security ties with India, which has provided support to the SDF's maritime security operations (2025)<br>
 
 ## Transnational Issues
 

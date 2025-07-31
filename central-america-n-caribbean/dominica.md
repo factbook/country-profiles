@@ -65,7 +65,7 @@ NA<br>
 population is mostly clustered along the coast, with roughly a third living in the parish of St. George, in or around the capital of Roseau; the volcanic interior is sparsely populated<br>
 
 **Natural hazards**<br>
-<p>flash floods are a constant threat; destructive hurricanes can be expected during the late summer months</p><p><strong>volcanism:</strong> Dominica was the last island to be formed in the Caribbean some 26 million years ago, it lies in the middle of the volcanic island arc of the Lesser Antilles that extends from the island of Saba in the north to Grenada in the south; of the 16 volcanoes that make up this arc, five are located on Dominica, more than any other island in the Caribbean: Morne aux Diables (861 m), Morne Diablotins (1,430 m), Morne Trois Pitons (1,387 m), Watt Mountain (1,224 m), which last erupted in 1997, and Morne Plat Pays (940 m); the two best known volcanic features on Dominica, the Valley of Desolation and the Boiling Lake thermal areas, lie on the flanks of Watt Mountain and both are popular tourist destinations</p><br>
+flash floods are a constant threat; destructive hurricanes can be expected during the late summer months <br><br><strong>volcanism:</strong> Dominica lies in the middle of the volcanic-island arc of the Lesser Antilles that extends from the island of Saba in the north to Grenada in the south; of the 16 volcanoes that make up this arc, five are located on Dominica, more than any other island in the Caribbean: Morne aux Diables (861 m), Morne Diablotins (1,430 m), Morne Trois Pitons (1,387 m), Watt Mountain (1,224 m), which last erupted in 1997, and Morne Plat Pays (940 m); the two best-known volcanic features on Dominica, the Valley of Desolation and the Boiling Lake thermal areas, lie on the flanks of Watt Mountain, and both are popular tourist destinations<br>
 
 **Geography - note**<br>
 known as "The Nature Island of the Caribbean" due to its lush and varied flora and fauna, which are protected by an extensive natural park system; the most mountainous of the Lesser Antilles, its volcanic peaks are cones of lava craters and include Boiling Lake, the second-largest thermally active lake in the world<br>
@@ -327,11 +327,10 @@ sisserou parrot, Carib wood flower<br>
 **National color(s)**<br>
 green, yellow, black, white, red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Isle of Beauty"<br>
 _lyrics/music_: Wilfred Oscar Morgan POND/Lemuel McPherson CHRISTIAN<br>
 _history_: adopted 1967<br>
-<strong>note:</strong> adopted 1967<br>
 
 ## Economy
 

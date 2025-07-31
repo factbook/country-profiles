@@ -77,7 +77,7 @@ Ogaden-Juba Basin<br>
 population heavily concentrated in the west along the shore of Lake Victoria; other areas of high density include the capital of Nairobi, and in the southeast along the Indian Ocean coast, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
-<p>recurring drought; flooding during rainy seasons</p><p><strong>volcanism:</strong> limited volcanic activity; the Barrier (1,032 m) last erupted in 1921; South Island is the only other historically active volcano</p><br>
+recurring drought; flooding during rainy seasons <br><br><strong>volcanism:</strong> limited volcanic activity; the Barrier (1,032 m) last erupted in 1921; South Island is the only other historically active volcano<br>
 
 **Geography - note**<br>
 the Kenyan Highlands comprise one of the most successful agricultural production regions in Africa; glaciers are found on Mount Kenya, Africa's second-highest peak; unique physiography supports abundant and varied wildlife of scientific and economic value; Lake Victoria, the world's largest tropical lake and the second-largest freshwater lake, is shared among three countries: Kenya, Tanzania, and Uganda<br>
@@ -355,7 +355,7 @@ _judge selection and term of office_: chief and deputy chief justices nominated 
 _subordinate courts_: High Court; Court of Appeal; military courts; magistrates' courts; religious courts<br>
 
 **Political parties**<br>
-<p>Azimio La Umoja–One Kenya Coalition Party<br>Amani National Congress or ANC<br>Chama Cha Kazi or CCK<br>Democratic Action Party or DAP-K<br>Democratic Party or DP<br>Forum for the Restoration of Democracy–Kenya or FORD-Kenya<br>Grand Dream Development Party or GDDP         <br>Jubilee Party or JP<br>Kenya African National Union or KANU<br>Kenya Kwanza coalition<br>Kenya Union Party or KUP<br>Maendeleo Chap Chap Party or MCC<br>Movement for Democracy and Growth or MDG<br>National Agenda Party or NAP-K                       <br>National Ordinary People Empowerment Union or NOPEU<br>Orange Democratic Movement or ODM<br>Pamoja African Alliance or PAA]<br>The Service Party or TSP<br>United Democratic Alliance or UDA<br>United Democratic Movement or UDM<br>United Democratic Party or UDP<br>United Party of Independent Alliance or UPIA                                      <br>United Progressive Alliance or UPA                                        <br>Wiper Democratic Movement-Kenya or WDM-K</p><br>
+Azimio La Umoja–One Kenya Coalition Party<br>Amani National Congress or ANC<br>Chama Cha Kazi or CCK<br>Democratic Action Party or DAP-K<br>Democratic Party or DP<br>Forum for the Restoration of Democracy–Kenya or FORD-Kenya<br>Grand Dream Development Party or GDDP         <br>Jubilee Party or JP<br>Kenya African National Union or KANU<br>Kenya Kwanza coalition<br>Kenya Union Party or KUP<br>Maendeleo Chap Chap Party or MCC<br>Movement for Democracy and Growth or MDG<br>National Agenda Party or NAP-K                       <br>National Ordinary People Empowerment Union or NOPEU<br>Orange Democratic Movement or ODM<br>Pamoja African Alliance or PAA]<br>The Service Party or TSP<br>United Democratic Alliance or UDA<br>United Democratic Movement or UDM<br>United Democratic Party or UDP<br>United Party of Independent Alliance or UPIA                                      <br>United Progressive Alliance or UPA                                        <br>Wiper Democratic Movement-Kenya or WDM-K<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador David Kipkorir Kiplagat KERICH (since 18 September 2024)<br>
@@ -380,7 +380,8 @@ ACP, AfDB, ATMIS, AU, C, CD, COMESA, EAC, EADB, FAO, G-15, G-77, IAEA, IBRD, ICA
 12 December 1963 (from the UK)<br>
 
 **National holiday**<br>
-Jamhuri Day (Independence Day), 12 December (1963); note - Madaraka Day, 1 June (1963) marks the day Kenya attained internal self-rule<br>
+Jamhuri Day (Independence Day), 12 December (1963)<br>
+<strong>note:</strong> Madaraka Day, 1 June (1963), marks the day Kenya attained internal self-rule<br>
 
 **Flag description**<br>
 three equal horizontal bands of black (top), red, and green; the red band is edged in white; a large Maasai warrior's shield covering crossed spears is at the center; black stands for the majority population, red for the blood shed in the struggle for freedom, green for natural wealth, and white for peace; the shield and crossed spears symbolize the defense of freedom<br>
@@ -394,15 +395,14 @@ black, red, green, white<br>
 **National coat of arms**<br>
 the two lions symbolize protection as they hold a traditional East African shield and spears in defense of freedom and unity; the shield features the national colors: black for the people, green for agriculture and natural resources, red for the struggle for freedom, and white for unity and peace; on the shield, a rooster greets the new day, and the axe represents both authority and the Kenya Africa National Union (KANU) that led the country to independence; at the base of the shield is Mount Kenya, Africa’s second-highest peak; the scroll has the Swahili word <em>Harambee</em>, meaning “all for one” or “pulling together”<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Ee Mungu Nguvu Yetu" (O God of All Creation)<br>
 _lyrics/music_: Graham HYSLOP, Thomas KALUME, Peter KIBUKOSYA, Washington OMONDI, and George W. SENOGA-ZAKE/traditional, adapted by Graham HYSLOP, Thomas KALUME, Peter KIBUKOSYA, Washington OMONDI, and George W. SENOGA-ZAKE<br>
 _history_: adopted 1963; based on a traditional Kenyan folk song<br>
-<strong>note:</strong> adopted 1963; based on a traditional Kenyan folk song<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 8(5 cultural, 3 natural)<br>
-_selected World Heritage Site locales_: <p>Lake Turkana National Parks (n); Mount Kenya National Park/Natural Forest (n); Lamu Old Town (c); Sacred Mijikenda Kaya Forests (c); Fort Jesus, Mombasa (c); Kenya Lake System in the Great Rift Valley (n); Thimlich Ohinga Archaeological Site (c); The Historic Town and Archaeological Site of Gedi (c)</p><br>
+_selected World Heritage Site locales_: Lake Turkana National Parks (n); Mount Kenya National Park/Natural Forest (n); Lamu Old Town (c); Sacred Mijikenda Kaya Forests (c); Fort Jesus, Mombasa (c); Kenya Lake System in the Great Rift Valley (n); Thimlich Ohinga Archaeological Site (c); The Historic Town and Archaeological Site of Gedi (c)<br>
 
 ## Economy
 

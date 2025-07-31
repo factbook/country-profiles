@@ -77,7 +77,7 @@ Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq 
 the most densely populated area is found around the Bosporus in the northwest, where 20% of the population lives in Istanbul; with the exception of Ankara, urban centers remain small and scattered throughout the interior of Anatolia; an overall pattern of peripheral development exists, particularly along the Aegean Sea coast in the west, and the Tigris and Euphrates River systems in the southeast<br>
 
 **Natural hazards**<br>
-<p>severe earthquakes, especially in northern Turkey, along an arc extending from the Sea of Marmara to Lake Van; landslides; flooding</p><p><strong>volcanism:</strong> limited volcanic activity; its three historically active volcanoes; Ararat, Nemrut Dagi, and Tendurek Dagi have not erupted since the 19th century or earlier</p><br>
+severe earthquakes, especially in northern Turkey, along an arc extending from the Sea of Marmara to Lake Van; landslides; flooding <br><br><strong>volcanism:</strong> limited volcanic activity; the three historically active volcanoes (Ararat, Nemrut Dagi, and Tendurek Dagi) have not erupted since the 19th century or earlier<br>
 
 **Geography - note**<br>
 strategic location controlling the Turkish Straits (Bosporus, Sea of Marmara, Dardanelles) that link the Black and Aegean Seas; the 3% of Turkish territory north of the Straits lies in Europe and goes by the names of European Turkey, Eastern Thrace, or Turkish Thrace; the 97% of the country in Asia is referred to as Anatolia; Istanbul, which straddles the Bosporus, is the only metropolis in the world located on two continents; Mount Ararat, reputed to be the landing place of Noah's ark, is in the far-eastern part of the country<br>
@@ -372,7 +372,7 @@ _consulate(s)_: Adana<br>
 
 **International organization participation**<br>
 ADB (nonregional member), Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CERN (observer), CICA, CPLP (associate observer), D-8, EAPC, EBRD, ECO, EU (candidate country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIC, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SCO (dialogue member), SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNRWA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-<strong>note</strong>: Turkey is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
+<strong>note</strong>: Turkey is an EU candidate country and must complete accession criteria before being granted full membership<br>
 
 **Independence**<br>
 29 October 1923 (republic proclaimed, succeeding the Ottoman Empire)<br>
@@ -389,15 +389,14 @@ vertical crescent moon with adjacent five-pointed star<br>
 **National color(s)**<br>
 red, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Istiklal Marsi" (Independence March)<br>
 _lyrics/music_: Mehmet Akif ERSOY/Zeki UNGOR<br>
 _history_: lyrics adopted 1921, music adopted 1932; the anthem's original music was adopted in 1924<br>
-<strong>note:</strong> lyrics adopted 1921, music adopted 1932; the anthem's original music was adopted in 1924<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 21 (19 cultural, 2 mixed)<br>
-_selected World Heritage Site locales_: <p>Archaeological Site of Troy (c); Ephesus (c); Diyarbakır Fortress and Hevsel Gardens Cultural Landscape (c); Hierapolis-Pamukkale (m); Göreme National Park and the Rock Sites of Cappadocia (m); Göbekli Tepe (c); Historic Areas of Istanbul (c); Selimiye Mosque and its Social Complex (c); Neolithic Site of Çatalhöyük (c); Bursa and Cumalıkızık: the Birth of the Ottoman Empire (c); Gordion (c); Great Mosque and Hospital of Divriği (c); Hattusha: the Hittite Capital (c); Nemrut Dağ (c);  Xanthos-Letoon (c); City of Safranbolu (c); Pergamon and its Multi-Layered Cultural Landscape (c); Archaeological Site of Ani (c); Aphrodisias (c); Arslantepe Mound (c); Wooden Hypostyle Mosques of Medieval Anatolia (c); Turkmenistan (c)</p><br>
+_selected World Heritage Site locales_: Archaeological Site of Troy (c); Ephesus (c); Diyarbakır Fortress and Hevsel Gardens Cultural Landscape (c); Hierapolis-Pamukkale (m); Göreme National Park and the Rock Sites of Cappadocia (m); Göbekli Tepe (c); Historic Areas of Istanbul (c); Selimiye Mosque and its Social Complex (c); Neolithic Site of Çatalhöyük (c); Bursa and Cumalıkızık: the Birth of the Ottoman Empire (c); Gordion (c); Great Mosque and Hospital of Divriği (c); Hattusha: the Hittite Capital (c); Nemrut Dağ (c);  Xanthos-Letoon (c); City of Safranbolu (c); Pergamon and its Multi-Layered Cultural Landscape (c); Archaeological Site of Ani (c); Aphrodisias (c); Arslantepe Mound (c); Wooden Hypostyle Mosques of Medieval Anatolia (c); Turkmenistan (c)<br>
 
 ## Economy
 

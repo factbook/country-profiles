@@ -297,7 +297,7 @@ civil law system<br>
 
 **Constitution**<br>
 _history_: previous 1915, 1978; latest adopted 5 July 1995<br>
-_amendment process_: <p>proposed by the president of the republic or by the National Assembly; passage requires approval by the president, by the National Assembly, and by a referendum with at least 25% registered voter participation and more than 50% of votes; constitutional articles on the form of government and democratic procedures are not amendable</p><br>
+_amendment process_: proposed by the president of the republic or by the National Assembly; passage requires approval by the president, the National Assembly, and a referendum with at least 25% registered-voter participation and more than 50% of votes; constitutional articles on the form of government and democratic procedures are not amendable<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -375,11 +375,10 @@ Mount Ararat, eagle, lion<br>
 **National color(s)**<br>
 red, blue, orange<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Mer Hayrenik" (Our Fatherland)<br>
 _lyrics/music_: Mikael NALBANDIAN/Barsegh KANACHYAN<br>
 _history_: adopted 1991; based on the anthem of the Democratic Republic of Armenia (1918-1922), but with different lyrics<br>
-<strong>note:</strong> adopted 1991; based on the anthem of the Democratic Republic of Armenia (1918-1922), but with different lyrics<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (3 cultural)<br>

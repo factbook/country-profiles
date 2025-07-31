@@ -360,11 +360,10 @@ black star<br>
 **National color(s)**<br>
 red, yellow, green, black<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Esta e a Nossa Patria Bem Amada" (This is Our Beloved Country)<br>
 _lyrics/music_: Amilcar Lopes CABRAL/XIAO He<br>
 _history_: adopted 1974; a delegation from Portuguese Guinea visited China in 1963 and heard music by XIAO He; Amilcar Lopes CABRAL, the leader of Guinea-Bissau's independence movement, asked the composer to create a piece that would inspire his people to fight for independence<br>
-<strong>note:</strong> adopted 1974; a delegation from Portuguese Guinea visited China in 1963 and heard music by XIAO He; Amilcar Lopes CABRAL, the leader of Guinea-Bissau's independence movement, asked the composer to create a piece that would inspire his people to fight for independence<br>
 
 ## Economy
 

@@ -252,7 +252,8 @@ _amendment process_: proposed by the Standing Committee of the National People&r
 see China<br>
 
 **Suffrage**<br>
-18 years of age in direct elections for 20 of the 90 Legislative Council seats and all of the seats in 18 district councils; universal for permanent residents living in the territory of Hong Kong for the past 7 years; note - in indirect elections, suffrage is limited to about 220,000 members of functional constituencies for the other 70 legislature seats and a 1,500-member election committee for the chief executive drawn from broad sectoral groupings, central government bodies, municipal organizations, and elected Hong Kong officials<br>
+18 years of age in direct elections for 20 of the 90 Legislative Council seats and all of the seats in 18 district councils; universal for permanent residents living in the territory of Hong Kong for the past 7 years<br>
+<strong>note:</strong> in indirect elections, suffrage is limited to about 220,000 members of functional constituencies for the other 70 legislature seats and a 1,500-member election committee for the chief executive drawn from broad sectoral groupings, central government bodies, municipal organizations, and elected Hong Kong officials<br>
 
 **Executive branch**<br>
 _chief of state_: President of China XI Jinping (since 14 March 2013)<br>
@@ -304,7 +305,8 @@ ADB, APEC, BIS, FATF, ICC (national committees), IHO, IMF, IMO (associate), Inte
 none (special administrative region of China)<br>
 
 **National holiday**<br>
-National Day (Anniversary of the Founding of the People's Republic of China), 1 October (1949); note - 1 July (1997) is celebrated as Hong Kong Special Administrative Region Establishment Day<br>
+National Day (Anniversary of the Founding of the People's Republic of China), 1 October (1949)<br>
+<strong>note:</strong> 1 July (1997) is celebrated as Hong Kong Special Administrative Region Establishment Day<br>
 
 **Flag description**<br>
 red with a stylized, five-petal, white Bauhinia flower in the center; each petal has a small, five-pointed red star; the red color is the same as the Chinese flag and represents the motherland, and the five stars also echo the Chinese flag; the Bauhinia flower was developed in Hong Kong the late 19th century and has come to symbolize the region<br>
@@ -315,11 +317,10 @@ bauhinia flower<br>
 **National color(s)**<br>
 red, white<br>
 
-**National anthem**<br>
-_title_: "Yiyongjun Jinxingqu"<br>
+**National anthem(s)**<br>
+_title_: "Yiyongjun Jinxingqu" (The March of the Volunteers)<br>
 _lyrics/music_: TIAN Han/NIE Er<br>
 _history_: official anthem, as a Special Administrative Region of China<br>
-<strong>note:</strong> China's national anthem, "Yiyongjun Jinxingqu" (The March of the Volunteers), is the official anthem for Hong Kong, as a Special Administrative Region of China (see China)<br>
 
 ## Economy
 

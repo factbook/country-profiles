@@ -371,11 +371,10 @@ lion, merlion (mythical half-lion, half-fish creature), orchid<br>
 **National color(s)**<br>
 red, white<br>
 
-**National anthem**<br>
-_title_: "Majulah Singapura" (Onward Singapore)<br>
+**National anthem(s)**<br>
+_title_: "Majulah Singapura" (Onward, Singapore)<br>
 _lyrics/music_: ZUBIR Said<br>
 _history_: adopted 1965; first performed in 1958 at the Victoria Theatre; the anthem is sung only in Malay<br>
-<strong>note:</strong> adopted 1965; first performed in 1958 at the Victoria Theatre; the anthem is sung only in Malay<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -646,7 +645,7 @@ the SAF has a diverse and largely modern mix of domestically produced and import
 maintains permanent training detachments of military personnel in Australia, France, and the US (2025)<br>
 
 **Military - note**<br>
-the SAF’s primary responsibility is external defense, but it has trained for certain domestic security operations, including joint deterrence patrols with police in instances of heightened terrorism alerts; the Army includes a “people’s defense force,” which is a divisional headquarters responsible for homeland security and counterterrorism<br><br>the SAF's roots go back to 1854 when the Singapore Volunteer Rifle Corps was formed under colonial rule; the first battalion of regular soldiers, the First Singapore Infantry Regiment, was organized in 1957; the modern SAF was established in 1965 and is today widely viewed as the best equipped military in Southeast Asia<br><br>Singapore is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily; Singapore also has close security ties with the US, including granting the US military access, basing, and overflight privileges (2025)<br>
+the SAF’s primary responsibility is external defense, particularly maritime security, but it also trains for certain domestic security operations, including joint deterrence patrols with police in instances of heightened terrorism alerts; the Army includes a “people’s defense force,” which is a divisional headquarters responsible for homeland security and counterterrorism; the SAF regularly participates in bilateral and multilateral training exercises<br><br>Singapore is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily; Singapore also has close security ties with the US, including granting the US military access, basing, and overflight privileges<br><br>the SAF's roots go back to 1854 when the Singapore Volunteer Rifle Corps was formed under colonial rule; the first battalion of regular soldiers, the First Singapore Infantry Regiment, was organized in 1957; the modern SAF was established in 1965 (2025)<br>
 
 ## Terrorism
 

@@ -382,11 +382,10 @@ leopard<br>
 **National color(s)**<br>
 green, yellow, red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "L'Aube Nouvelle" (The Dawn of a New Day)<br>
 _lyrics/music_: Gilbert Jean DAGNON<br>
 _history_: adopted 1960<br>
-<strong>note:</strong> adopted 1960<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>

@@ -285,11 +285,10 @@ Guernsey cow, donkey<br>
 **National color(s)**<br>
 red, white, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 _history_: official anthem, as a British crown dependency<br>
-<strong>note:</strong> adopted 1911; serves as a local anthem; "God Save the King" is the official anthem for Guernsey, as a British crown dependency (see United Kingdom)<br>
 
 ## Economy
 

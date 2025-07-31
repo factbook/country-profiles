@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Many of Burkina Faso’s ethnic groups arrived in the region between the 12th and 15th centuries. The Gurma and Mossi peoples established several of the largest kingdoms in the area and used horse-mounted warriors in military campaigns. Of the various Mossi kingdoms, the most powerful were Ouagadougou and Yatenga. In the late 19th century, European states competed for control of the region. France eventually conquered the area and established it as a French protectorate.</p> The country achieved independence from France in 1960 and changed its name to Burkina Faso in 1984. Repeated military coups were common in the country’s first few decades. In 1987 Blaise COMPAORE deposed the president, established a government, and ruled for 27 years. In 2014, COMPAORE resigned after protests against his repeated efforts to amend the constitution's two-term presidential limit. An interim administration led a year-long transition, organizing presidential and legislative elections. In 2015, Roch Marc Christian KABORE was elected president, and he was reelected in 2020. In 2022, the military conducted two takeovers: In January, army colonel Paul Henri DAMIBA overthrew KABORE in a coup d'etat, and then in September, army captain Ibrahim TRAORE deposed DAMIBA and declared himself transition president. The transition government planned to hold elections by July 2024, but they may be delayed due to security concerns.<br><br>Terrorist groups -- including groups affiliated with Al-Qa’ida and the Islamic State -- began attacks in the country in 2016 and conducted attacks in the capital in 2016, 2017, and 2018. By early 2023, insecurity in Burkina Faso had displaced more than 2 million people and led to significant jumps in humanitarian needs and food insecurity. In addition to terrorism, the country faces a myriad of problems including high population growth, recurring drought, pervasive and perennial food insecurity, and limited natural resources. It is one of the world’s poorest countries.<br> <p> </p><br>
+Many of Burkina Faso’s ethnic groups arrived in the region between the 12th and 15th centuries. The Gurma and Mossi peoples established several of the largest kingdoms in the area and used horse-mounted warriors in military campaigns. Of the various Mossi kingdoms, the most powerful were Ouagadougou and Yatenga. In the late 19th century, European states competed for control of the region. France eventually conquered the area and established it as a French protectorate. <br><br>The country achieved independence from France in 1960 and changed its name to Burkina Faso in 1984. Repeated military coups were common in the country’s first few decades. In 1987 Blaise COMPAORE deposed the president, established a government, and ruled for 27 years. In 2014, COMPAORE resigned after protests against his repeated efforts to amend the constitution's two-term presidential limit. An interim administration led a year-long transition, organizing presidential and legislative elections. In 2015, Roch Marc Christian KABORE was elected president, and he was reelected in 2020. In 2022, the military conducted two takeovers: In January, army colonel Paul Henri DAMIBA overthrew KABORE in a coup d'etat, and then in September, army captain Ibrahim TRAORE deposed DAMIBA and declared himself transition president. The transition government planned to hold elections by July 2024, but they may be delayed due to security concerns.<br><br>Terrorist groups -- including groups affiliated with Al-Qa’ida and the Islamic State -- began attacks in the country in 2016 and conducted attacks in the capital in 2016, 2017, and 2018. By early 2023, insecurity in Burkina Faso had displaced more than 2 million people and led to significant jumps in humanitarian needs and food insecurity. In addition to terrorism, the country faces a myriad of problems including high population growth, recurring drought, pervasive and perennial food insecurity, and limited natural resources. It is one of the world’s poorest countries.<br>
 
 ## Geography
 
@@ -37,7 +37,7 @@ _border countries_: Benin 386 km; Cote d'Ivoire 545 km; Ghana 602 km; Mali 1325 
 none (landlocked)<br>
 
 **Climate**<br>
-<p>three climate zones including a hot tropical savanna with a short rainy season in the southern half, a tropical hot semi-arid steppe climate typical of the Sahel region in the northern half, and small area of hot desert in the very north of the country bordering the Sahara Desert</p><br>
+three climate zones including a hot tropical savanna with a short rainy season in the southern half, a tropical hot semi-arid steppe climate typical of the Sahel region in the northern half, and small area of hot desert in the very north of the country bordering the Sahara Desert<br>
 
 **Terrain**<br>
 mostly flat to dissected, undulating plains; hills in the west and southeast; occupies an extensive plateau with savanna that is grassy in the north and gradually gives way to sparse forests in the south<br>
@@ -68,7 +68,7 @@ Volta river source (shared with Ghana [m]) - 1,600 km<br><br><strong>note:</stro
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
 
 **Population distribution**<br>
- <p>most of the population is located in the center and south; nearly one third of the population lives in cities, including the capital city of Ouagadougou (Ouaga), as shown in this population distribution map</p>  (2019)<br>
+most of the population is located in the center and south; nearly one third lives in cities, including the capital city of Ouagadougou (Ouaga), as shown in this population distribution map (2019)<br>
 
 **Natural hazards**<br>
 recurring droughts<br>
@@ -125,7 +125,7 @@ _female_: 19.5 years<br>
 -0.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
- <p>most of the population is located in the center and south; nearly one third of the population lives in cities, including the capital city of Ouagadougou (Ouaga), as shown in this population distribution map</p>  (2019)<br>
+most of the population is located in the center and south; nearly one third lives in cities, including the capital city of Ouagadougou (Ouaga), as shown in this population distribution map (2019)<br>
 
 **Urbanization**<br>
 _urban population_: 32.5% of total population (2023)<br>
@@ -243,7 +243,7 @@ _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate
 _signed, but not ratified_: Nuclear Test Ban<br>
 
 **Climate**<br>
-<p>three climate zones including a hot tropical savanna with a short rainy season in the southern half, a tropical hot semi-arid steppe climate typical of the Sahel region in the northern half, and small area of hot desert in the very north of the country bordering the Sahara Desert</p><br>
+three climate zones including a hot tropical savanna with a short rainy season in the southern half, a tropical hot semi-arid steppe climate typical of the Sahel region in the northern half, and small area of hot desert in the very north of the country bordering the Sahara Desert<br>
 
 **Land use**<br>
 _agricultural land_: 53.2% (2022 est.)<br>
@@ -367,7 +367,8 @@ ACP, AfDB, AU (suspended), CD, EITI (compliant country), Entente, FAO, FZ, G-77,
 5 August 1960 (from France)<br>
 
 **National holiday**<br>
-Republic Day, 11 December (1958); note - commemorates the day that Upper Volta became an autonomous republic in the French Community<br>
+Republic Day, 11 December (1958)<br>
+<strong>note:</strong> commemorates the day that Upper Volta became an autonomous republic in the French Community<br>
 
 **Flag description**<br>
 two equal horizontal bands of red (top) and green with a yellow five-pointed star in the center; red stands for the country's struggle for independence, green for hope and abundance, and yellow for the country's mineral wealth<br>
@@ -379,11 +380,10 @@ white stallion<br>
 **National color(s)**<br>
 red, yellow, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Le Ditanye" (Anthem of Victory)<br>
 _lyrics/music_: Thomas SANKARA<br>
 _history_: adopted 1974; also known as "Une Seule Nuit" (Only One Night); written by the country's former president, an avid guitar player<br>
-<strong>note:</strong> adopted 1974; also known as "Une Seule Nuit" (One Single Night); written by the country's former president, an avid guitar player<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (3 cultural, 1 natural)<br>
@@ -631,7 +631,6 @@ Armed Forces of Burkina Faso (FABF; aka National Armed Forces (FAN), aka Defense
 
 **Military and security service personnel strengths**<br>
 estimated 20,000 Armed Forces; estimated 50,000 Homeland Defense Volunteers (2025)<br>
-<br><strong><br><br></strong><br>
 
 **Military equipment inventories and acquisitions**<br>
 the FABF has a mix of older, secondhand, and some modern equipment from a variety of suppliers, including China, Egypt, France, Russia, South Africa, Turkey, the UK, and the US (2024)<br>
@@ -644,7 +643,7 @@ the FABF has a mix of older, secondhand, and some modern equipment from a variet
 <strong>note:</strong> in 2024, Burkina Faso, Mali, and Niger announced they were forming joint force of 5,000 troops to combat extremist groups in the Sahel<br>
 
 **Military - note**<br>
-the Armed Forces of Burkina Faso (FABF) are responsible for external defense but also have an internal security role and can be called out to assist internal security forces in restoring public order, combating crime, securing the border, and conducting counterterrorism/counterinsurgency operations<br><br>the FABF's primary focus is combatting militants affiliated with the al-Qa'ida and Islamic State of Iraq and ash-Sham (ISIS) terrorist groups, which have operated in the country for more than a decade and are estimated to control at least 30 percent of Burkina Faso as of 2025; Jama'at Nusrat al-Islam wal-Muslimin (JNIM), a coalition of al-Qa'ida linked militant groups that act as al-Qa'ida in the Land of the Islamic Magreb's (AQIM) arm in the Sahel, is strongest in the north but active in nearly all of the country's 13 provinces, while ISIS in the Greater Sahara (aka ISIS-Sahel) operates in the eastern part of the country<br><br>the FABF has a history of involvement in the country’s politics, having conducted eight coups since its formation in 1960-61, including the most recent in September 2022; several combat units were disbanded in 2011 following mutinies (2025)<br>
+the Armed Forces of Burkina Faso (FABF) are responsible for external defense but also have an internal security role and can be called out to assist internal security forces in restoring public order, combating crime, securing the border, and conducting counterterrorism/counterinsurgency/internal defense operations<br><br>the FABF's primary focus is combatting militants affiliated with the al-Qa'ida and Islamic State of Iraq and ash-Sham (ISIS) terrorist groups, which have operated in the country for more than a decade and are estimated to control at least 30 percent of Burkina Faso as of 2025; Jama'at Nusrat al-Islam wal-Muslimin (JNIM), a coalition of al-Qa'ida linked militant groups that act as al-Qa'ida in the Land of the Islamic Magreb's (AQIM) arm in the Sahel, is strongest in the north but active in nearly all of the country's 13 provinces, while ISIS in the Greater Sahara (aka ISIS-Sahel) operates in the eastern part of the country<br><br>the FABF has a history of involvement in the country’s politics, having conducted eight coups since its formation in 1960-61, including the most recent in September 2022; several combat units were disbanded in 2011 following mutinies (2025)<br>
 
 ## Terrorism
 

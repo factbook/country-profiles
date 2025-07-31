@@ -60,7 +60,7 @@ _other_: 100% (2018 est.)<br>
 0 sq km (2022)<br>
 
 **Natural hazards**<br>
-<p>dominated by the volcano Beerenberg</p><p><strong>volcanism:</strong> Beerenberg (2,227 m) is Norway's only active volcano; volcanic activity resumed in 1970; the most recent eruption occurred in 1985</p><br>
+dominated by the volcano Beerenberg <br><br><strong>volcanism:</strong> Beerenberg (2,227 m) is Norway's only active volcano; volcanic activity resumed in 1970; the most recent eruption occurred in 1985<br>
 
 **Geography - note**<br>
 barren volcanic spoon-shaped island with some moss and grass flora; island consists of two parts: a larger northeast Nord-Jan (the spoon "bowl") and the smaller Sor-Jan (the "handle"), linked by a 2.5 km-wide isthmus (the "stem") with two large lakes, Sorlaguna (South Lagoon) and Nordlaguna (North Lagoon)<br>

@@ -5,7 +5,7 @@ _South Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The huge delta region at the confluence of the Ganges and Brahmaputra River systems -- now referred to as Bangladesh -- was a loosely incorporated outpost of various empires for much of the first millennium A.D. Muslim conversions and settlement in the region began in the 10th century, primarily from Arab and Persian traders and preachers. Europeans established trading posts in the area in the 16th century. Eventually the area known as Bengal, which is primarily Hindu in the western section and mostly Muslim in the eastern half, became part of British India. After the partition of India in 1947, the Muslim-majority area became East Pakistan. Calls for greater autonomy and animosity between the eastern and western areas of Pakistan led to a Bengali independence movement. That movement, led by the Awami League (AL) and supported by India, won the independence war for Bangladesh in 1971.</p> <p>The military overthrew the post-independence AL government in 1975, the first of a series of military coups that resulted in a military-backed government and the subsequent creation of the Bangladesh Nationalist Party (BNP) that took power in 1979. That government also ended in a coup in 1981, followed by military-backed rule until democratic elections were held in 1991. The BNP and AL alternated in power from 1991 to 2008, with the exception of a military-backed, emergency caretaker regime in 2007. The country returned to fully democratic rule in 2008 with the election of the AL and Prime Minister Sheikh HASINA. With the help of international development assistance, Bangladesh is on track to graduate from the UN’s Least Developed Countries (LDC) list in 2026. <br><br>The economy has grown at an annual average of about 6.25% for the last two decades. Poverty declined from 11.8 percent in 2010 to 5.0 percent in 2022, based on the international poverty line of $2.15 a day (using 2017 Purchasing Power Parity exchange rate). Moreover, human development outcomes improved along many dimensions.  The country made a rapid recovery from the COVID-19 pandemic, but faces several economic challenges.</p> <p> </p><br>
+The huge delta region at the confluence of the Ganges and Brahmaputra River systems -- now referred to as Bangladesh -- was a loosely incorporated outpost of various empires for much of the first millennium A.D. Muslim conversions and settlement in the region began in the 10th century, primarily from Arab and Persian traders and preachers. Europeans established trading posts in the area in the 16th century. Eventually the area known as Bengal, which is primarily Hindu in the western section and mostly Muslim in the eastern half, became part of British India. After the partition of India in 1947, the Muslim-majority area became East Pakistan. Calls for greater autonomy and animosity between the eastern and western areas of Pakistan led to a Bengali independence movement. That movement, led by the Awami League (AL) and supported by India, won the independence war for Bangladesh in 1971. <br><br>The military overthrew the post-independence AL government in 1975, the first of a series of military coups that resulted in a military-backed government and the subsequent creation of the Bangladesh Nationalist Party (BNP) that took power in 1979. That government also ended in a coup in 1981, followed by military-backed rule until democratic elections were held in 1991. The BNP and AL alternated in power from 1991 to 2008, with the exception of a military-backed, emergency caretaker regime in 2007. The country returned to fully democratic rule in 2008 with the election of the AL and Prime Minister Sheikh HASINA. With the help of international development assistance, Bangladesh is on track to graduate from the UN’s Least Developed Countries (LDC) list in 2026. <br><br>The economy has grown at an annual average of about 6.25% for the last two decades. Poverty declined from 11.8 percent in 2010 to 5.0 percent in 2022, based on the international poverty line of $2.15 a day (using 2017 Purchasing Power Parity exchange rate). The country made a rapid recovery from the COVID-19 pandemic, but still faces economic challenges.<br>
 
 ## Geography
 
@@ -334,7 +334,7 @@ _judge selection and term of office_: chief justice and justices appointed by th
 _subordinate courts_: civil courts include: Assistant Judge's Court; Joint District Judge's Court; Additional District Judge's Court; District Judge's Court; criminal courts include: Court of Sessions; Court of Metropolitan Sessions; Metropolitan Magistrate Courts; Magistrate Court; special courts/tribunals<br>
 
 **Political parties**<br>
-<p>Awami League or AL<br>Bangladesh Jamaat-i-Islami or JIB<br>Bangladesh Nationalist Party or BNP<br>Islami Andolan Bangladesh<br>Jatiya Party or JP (Ershad faction)<br>Jatiya Party or JP (Manju faction)<br>National Socialist Party (Jatiya Samajtantrik Dal) or JSD<br>Workers Party or WP</p> <p> </p><br>
+Awami League or AL<br>Bangladesh Jamaat-i-Islami or JIB<br>Bangladesh Nationalist Party or BNP<br>Islami Andolan Bangladesh<br>Jatiya Party or JP (Ershad faction)<br>Jatiya Party or JP (Manju faction)<br>National Socialist Party (Jatiya Samajtantrik Dal) or JSD<br>Workers Party or WP<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Asad Alam SIAM (since 13 January 2025)<br>
@@ -359,7 +359,8 @@ ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO,
 16 December 1971 (from Pakistan)<br>
 
 **National holiday**<br>
-Independence Day, 26 March (1971); Victory Day, 16 December (1971); note - 26 March 1971 is the date of the Awami League's declaration of an independent Bangladesh, and 16 December (Victory Day) memorializes the military victory over Pakistan and the official creation of the state of Bangladesh<br>
+Independence Day, 26 March (1971); Victory Day, 16 December (1971)<br>
+<strong>note:</strong> 26 March 1971 is the date of the Awami League's declaration of an independent Bangladesh, and 16 December (Victory Day) memorializes the military victory over Pakistan and the official creation of the state of Bangladesh<br>
 
 **Flag description**<br>
 green field with a large red disk shifted slightly to the hoist side; the red disk represents the rising sun and the sacrifice to achieve independence; the green field symbolizes the lush vegetation of Bangladesh<br>
@@ -373,11 +374,10 @@ green, red<br>
 **National coat of arms**<br>
 the water lily is the national flower and symbolizes promise, aesthetics, and elegance; the water under the lily, the rice sheaves on the sides, and the jute leaves at the top represent the Bangladeshi landscape and economy; the four stars represent the aims and ambition of the nation<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Amar Shonar Bangla" (My Golden Bengal)<br>
 _lyrics/music_: Rabindranath TAGORE<br>
 _history_: adopted 1971; Rabindranath TAGORE, a Nobel laureate, also wrote India's national anthem<br>
-<strong>note:</strong> adopted 1971; Rabindranath TAGORE, a Nobel laureate, also wrote India's national anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>

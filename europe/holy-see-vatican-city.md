@@ -159,14 +159,14 @@ _residency requirement for naturalization_: not applicable<br>
 <strong>note:</strong> in the Holy See, citizenship is acquired by law, ex iure, or by adminstrative decision; in the first instance, citizenship is a function of holding office within the Holy See as in the case of cardinals resident in Vatican City or diplomats of the Holy See; in the second instance, citizenship may be requested in a limited set of circumstances for those who reside within Vatican City under papal authorization, as a function of their office or service, or as the spouses and children of current citizens; citizenship is lost once an individual no longer permanently resides in Vatican City, normally reverting to the citizenship previously held<br>
 
 **Suffrage**<br>
-election of the pope is limited to cardinals less than 80 years old<br>
+election of the pope is limited to cardinals under 80 years old<br>
 
 **Executive branch**<br>
 _chief of state_: Pope LEO XIV (since 8 May 2025)<br>
 _head of government_: President of the Pontifical Commission for the State of Vatican City and President of the Governorate of the Vatican City State Fernando VERGEZ ALZAGA (since 1 October 2021)<br>
 _cabinet_: Pontifical Commission for the State of Vatican City appointed by the pope<br>
 _election/appointment process_: pope elected by the College of Cardinals, usually for life or until voluntary resignation; Secretary of State appointed by the pope<br>
-_election results_: <em>2025: </em>Robert PREVOST elected Pope LEO XIV<em><br><br></em><br>
+_election results_: <br>2025: Robert PREVOST elected Pope LEO XIV<br>
 
 **Legislative branch**<br>
 _legislature name_: Pontifical Commission for the State of Vatican City (Pontificia Commissione per lo Stato della Citta del Vaticano)<br>
@@ -207,9 +207,6 @@ CE (observer), IAEA, Interpol, IOM, ITSO, ITU, ITUC (NGOs), OAS (observer), OPCW
 11 February 1929<br>
 <strong>note:</strong> the three treaties signed with Italy on 11 February 1929 acknowledged the full sovereignty of the Holy See and established its territorial extent, but the origin of the Papal States, which over centuries varied considerably in extent, can be traced back to A.D. 754<br>
 
-**National holiday**<br>
-Election Day of Pope FRANCIS, 13 March (2013)<br>
-
 **Flag description**<br>
 two vertical bands of yellow (hoist side) and white with the arms of the Holy See, consisting of the crossed keys of Saint Peter with the three-tiered papal tiara above, centered in the white band; the yellow color represents the pope's spiritual power, and the white his worldly power<br>
 
@@ -219,11 +216,10 @@ crossed keys under a papal tiara<br>
 **National color(s)**<br>
 yellow, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Inno e Marcia Pontificale" (Hymn and Pontifical March), often called "The Pontifical Hymn"<br>
 _lyrics/music_: Raffaello LAVAGNA/Charles-Francois GOUNOD<br>
 _history_: adopted 1950<br>
-<strong>note:</strong> adopted 1950<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>

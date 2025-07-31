@@ -290,7 +290,7 @@ _etymology_: the name may derive from the Old Persian word <em>badkuba</em>, mea
 <strong>note: </strong>at approximately 28 m below sea level, Baku's elevation makes it the lowest capital city in the world<br>
 
 **Administrative divisions**<br>
-<p>66 districts (<em>rayonlar</em>; singular - <em>rayon</em>), 11 cities (saharlar; sahar - singular);</p> <p><strong>rayons:</strong> Abseron, Agcabadi, Agdam, Agdas, Agstafa, Agsu, Astara, Babak, Balakan, Barda, Beylaqan, Bilasuvar, Cabrayil, Calilabad, Culfa, Daskasan, Fuzuli, Gadabay, Goranboy, Goycay, Goygol, Haciqabul, Imisli, Ismayilli, Kalbacar, Kangarli, Kurdamir, Lacin, Lankaran, Lerik, Masalli, Neftcala, Oguz, Ordubad, Qabala, Qax, Qazax, Qobustan, Quba, Qubadli, Qusar, Saatli, Sabirabad, Sabran, Sadarak, Sahbuz, Saki, Salyan, Samaxi, Samkir, Samux, Sarur, Siyazan, Susa, Tartar, Tovuz, Ucar, Xacmaz, Xizi, Xocali, Xocavand, Yardimli, Yevlax, Zangilan, Zaqatala, Zardab</p> <p><strong>cities:</strong> Baku, Ganca, Lankaran, Mingacevir, Naftalan, Naxcivan (Nakhichevan), Saki, Sirvan, Sumqayit, Xankandi, Yevlax</p><br>
+66 districts (<em>rayonlar</em>; singular - <em>rayon</em>), 11 cities (saharlar; sahar - singular)<br><br><strong>districts:</strong> Abseron, Agcabadi, Agdam, Agdas, Agstafa, Agsu, Astara, Babak, Balakan, Barda, Beylaqan, Bilasuvar, Cabrayil, Calilabad, Culfa, Daskasan, Fuzuli, Gadabay, Goranboy, Goycay, Goygol, Haciqabul, Imisli, Ismayilli, Kalbacar, Kangarli, Kurdamir, Lacin, Lankaran, Lerik, Masalli, Neftcala, Oguz, Ordubad, Qabala, Qax, Qazax, Qobustan, Quba, Qubadli, Qusar, Saatli, Sabirabad, Sabran, Sadarak, Sahbuz, Saki, Salyan, Samaxi, Samkir, Samux, Sarur, Siyazan, Susa, Tartar, Tovuz, Ucar, Xacmaz, Xizi, Xocali, Xocavand, Yardimli, Yevlax, Zangilan, Zaqatala, Zardab <br><br><strong>cities:</strong> Baku, Ganca, Lankaran, Mingacevir, Naftalan, Naxcivan (Nakhichevan), Saki, Sirvan, Sumqayit, Xankandi, Yevlax<br>
 
 **Legal system**<br>
 civil law system<br>
@@ -374,11 +374,10 @@ flames of fire<br>
 **National color(s)**<br>
 blue, red, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Azerbaijan Marsi" (March of Azerbaijan)<br>
 _lyrics/music_: Ahmed JAVAD/Uzeyir HAJIBEYOV<br>
 _history_: adopted 1992; originally written in 1919 during a brief period of independence, but did not become the official anthem until after the dissolution of the Soviet Union<br>
-<strong>note:</strong> adopted 1992; originally written in 1919 during a brief period of independence, but did not become the official anthem until after the dissolution of the Soviet Union<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (4 cultural, 1 natural)<br>

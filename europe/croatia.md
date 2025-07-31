@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The lands that today comprise Croatia were part of the Austro-Hungarian Empire until the end of World War I. In 1918, the Croats, Serbs, and Slovenes formed a kingdom known after 1929 as Yugoslavia. Following World War II, Yugoslavia became a federal independent communist state consisting of six socialist republics, including Croatia, under the strong hand of Josip Broz, aka TITO. Although Croatia declared its independence from Yugoslavia in 1991, it took four years of sporadic, but often bitter, fighting before Yugoslav forces were cleared from Croatian lands, along with a majority of Croatia's ethnic Serb population. Under UN supervision, the last Serb-held enclave in eastern Slavonia was returned to Croatia in 1998. The country joined NATO in 2009 and the EU in 2013. In January 2023, Croatia further integrated into the EU by joining the Eurozone and the Schengen Area.</p><br>
+The lands that today comprise Croatia were part of the Austro-Hungarian Empire until the end of World War I. In 1918, the Croats, Serbs, and Slovenes formed a kingdom known after 1929 as Yugoslavia. Following World War II, Yugoslavia became a federal independent communist state consisting of six socialist republics, including Croatia, under the strong hand of Josip Broz, aka TITO. Although Croatia declared its independence from Yugoslavia in 1991, it took four years of sporadic, but often bitter, fighting before Yugoslav forces were cleared from Croatian lands, along with a majority of Croatia's ethnic Serb population. Under UN supervision, the last Serb-held enclave in eastern Slavonia was returned to Croatia in 1998. The country joined NATO in 2009 and the EU in 2013. In January 2023, Croatia further integrated into the EU by joining the Eurozone and the Schengen Area.<br>
 
 ## Geography
 
@@ -366,7 +366,8 @@ AIIB, Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, 
 <strong>note:</strong> 25 June 1991 was the day the Croatian parliament voted for independence; the legislature adopted a decision on 8 October 1991 to sever constitutional relations with Yugoslavia<br>
 
 **National holiday**<br>
-Statehood Day (National Day), 30 May (1990); note - marks the day in 1990 that the first modern multi-party Croatian parliament convened<br>
+Statehood Day (National Day), 30 May (1990)<br>
+<strong>note:</strong> marks the day in 1990 that the first modern multi-party Croatian parliament convened<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and blue -- the pan-Slav colors -- with the Croatian coat of arms in the center; the coat of arms consists of a main shield (a checkerboard of 13 red and 12 silver fields) with five smaller shields that form a crown over the main shield; the small shields represent the five historic regions (from left to right): Croatia, Dubrovnik, Dalmatia, Istria, and Slavonia<br>
@@ -378,11 +379,10 @@ red-and-white checkerboard<br>
 **National color(s)**<br>
 red, white, blue<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Lijepa nasa domovino" (Our Beautiful Homeland)<br>
 _lyrics/music_: Antun MIHANOVIC/Josip RUNJANIN<br>
 _history_: adopted in 1972 while still part of Yugoslavia; the lyrics were written in 1835, and it served as an unofficial anthem beginning in 1891<br>
-<strong>note:</strong> adopted in 1972 while still part of Yugoslavia; the lyrics were written in 1835, and it served as an unofficial anthem beginning in 1891<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 10 (8 cultural, 2 natural)<br>

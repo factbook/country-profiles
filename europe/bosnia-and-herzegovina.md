@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>After four centuries of Ottoman rule over Bosnia and Herzegovina, Austria-Hungary took control in 1878 and held the region until 1918, when it was incorporated into the newly created Kingdom of Serbs, Croats, and Slovenes. After World War II, Bosnia and Herzegovina joined the Socialist Federal Republic of Yugoslavia (SFRY).<br><br>Bosnia and Herzegovina declared sovereignty in October 1991 and independence from the SFRY on 3 March 1992 after a referendum boycotted by ethnic Serbs. Bosnian Serb militias, with the support of Serbia and Croatia, then tried to take control of territories they claimed as their own. From 1992 to 1995, ethnic cleansing campaigns killed thousands and displaced more than two million people. On 21 November 1995, in Dayton, Ohio, the warring parties initialed a peace agreement, and the final agreement was signed in Paris on 14 December 1995.</p> <p>The Dayton Accords retained Bosnia and Herzegovina's international boundaries and created a multiethnic and democratic government composed of two entities roughly equal in size: the predominantly Bosniak-Bosnian Croat Federation of Bosnia and Herzegovina and the predominantly Bosnian Serb-led Republika Srpska (RS). The Dayton Accords also established the Office of the High Representative to oversee the agreement's implementation. In 1996, the NATO-led Stabilization Force (SFOR) took over responsibility for enforcing the peace. In 2004, European Union peacekeeping troops (EUFOR) replaced SFOR. As of 2022, EUFOR deploys around 1,600 troops in Bosnia in a peacekeeping capacity. Bosnia and Herzegovina became an official candidate for EU membership in 2022.</p><br>
+After four centuries of Ottoman rule over Bosnia and Herzegovina, Austria-Hungary took control in 1878 and held the region until 1918, when it was incorporated into the newly created Kingdom of Serbs, Croats, and Slovenes. After World War II, Bosnia and Herzegovina joined the Socialist Federal Republic of Yugoslavia (SFRY). <br><br>Bosnia and Herzegovina declared sovereignty in October 1991 and independence from the SFRY on 3 March 1992 after a referendum boycotted by ethnic Serbs. Bosnian Serb militias, with the support of Serbia and Croatia, then tried to take control of territories they claimed as their own. From 1992 to 1995, ethnic cleansing campaigns killed thousands and displaced more than two million people. On 21 November 1995, in Dayton, Ohio, the warring parties initialed a peace agreement, and the final agreement was signed in Paris on 14 December 1995. <br><br>The Dayton Accords retained Bosnia and Herzegovina's international boundaries and created a multiethnic and democratic government composed of two entities roughly equal in size: the predominantly Bosniak-Bosnian Croat Federation of Bosnia and Herzegovina and the predominantly Bosnian Serb-led Republika Srpska (RS). The Dayton Accords also established the Office of the High Representative to oversee the agreement's implementation. In 1996, the NATO-led Stabilization Force (SFOR) took over responsibility for enforcing the peace. In 2004, European Union peacekeeping troops (EUFOR) replaced SFOR. As of 2022, EUFOR deploys around 1,600 troops in Bosnia in a peacekeeping capacity. Bosnia and Herzegovina became an official candidate for EU membership in 2022.<br>
 
 ## Geography
 
@@ -304,7 +304,7 @@ _residency requirement for naturalization_: 8 years<br>
 18 years of age, 16 if employed; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Chairperson of the Presidency Zeljka CVIJANOVIC (chairperson since 16 November 2024; presidency member since 16 November 2022 - Serb seat); Denis BECIROVIC (presidency member since 16 November 2022 - Bosniak seat); Zeljko KOMSIC (presidency member since 20 November 2018 - Croat seat)<br>
+_chief of state_: Chairperson of the Presidency Zeljko KOMSIC (chairperson since 16 July 2025; presidency member since 20 November 2018 - Croat seat); Denis BECIROVIC (presidency member since 16 November 2022 - Bosniak seat); Zeljka CVIJANOVIC (presidency member since 16 November 2022 - Serb seat)<br>
 _head of government_: Chairperson of the Council of Ministers Borjana KRISTO (since 25 January 2023)<br>
 _cabinet_: Council of Ministers nominated by the council chairperson, approved by the state-level House of Representatives<br>
 _election/appointment process_: 3-member presidency (1 Bosniak and 1 Croat elected from the Federation of Bosnia and Herzegovina and 1 Serb elected from the Republika Srpska) directly elected by simple-majority popular vote for a 4-year term (eligible for a second term but then ineligible for 4 years); the presidency chairpersonship rotates every 8 months, with the new member of the presidency elected with the highest number of votes starting the new mandate as chair; the chairperson of the Council of Ministers appointed by the presidency and confirmed by the state-level House of Representatives<br>
@@ -384,11 +384,10 @@ golden lily<br>
 **National color(s)**<br>
 blue, yellow, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Drzavna himna Bosne i Hercegovine" (The National Anthem of Bosnia and Herzegovina)<br>
 _lyrics/music_: none officially/Dusan SESTIC<br>
 _history_: music adopted 1999; lyrics proposed in 2008 and 2016 were not approved<br>
-<strong>note:</strong> music adopted 1999; lyrics proposed in 2008 and 2016 were not approved<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>

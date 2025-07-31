@@ -62,7 +62,6 @@ occasional droughts; no streams or large bodies of water on the peninsula (all p
 
 **Geography - note**<br>
 strategic location on Strait of Gibraltar that links the North Atlantic Ocean and Mediterranean Sea<br>
-  <br><br> <br>
 
 ## People and Society
 
@@ -267,7 +266,8 @@ ICC (NGOs), Interpol (subbureau), UPU<br>
 none (overseas territory of the UK)<br>
 
 **National holiday**<br>
-National Day, 10 September (1967); note - day of the national referendum to decide whether to remain with the UK or join Spain<br>
+National Day, 10 September (1967)<br>
+<strong>note:</strong> day of the national referendum to decide whether to remain with the UK or join Spain<br>
 
 **Flag description**<br>
 two horizontal bands of white (top, double-width) and red with a three-towered red castle in the center of the white band; a gold key hangs from the castle gate and is centered in the red band; the design comes from Gibraltar's coat of arms that was granted on 10 July 1502 by King Ferdinand and Queen Isabella of Spain; the castle symbolizes Gibraltar as a fortress, and the key represents Gibraltar's strategic importance -- the key to the Mediterranean<br>
@@ -281,11 +281,10 @@ red, white, yellow<br>
 **National coat of arms**<br>
 King Ferdinand and Queen Isabella of Spain granted this coat of arms to Gibraltar in 1502; the castle in the center of the shield represents Gibraltar as a fortress, and the gold key represents its strategic position as the gateway to the Mediterranean; below the shield is the national motto, <em>Montis Insignia Calpe</em> (“Badge of the Rock of Gibraltar”); the coat of arms uses the national colors of red, white, and yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 _history_: official anthem, as an overseas UK territory<br>
-<strong>note:</strong> adopted 1994; serves as a local anthem; "God Save the King" is the official anthem for Gibraltar, as an overseas territory of the United Kingdom (see United Kingdom)<br>
 
 ## Economy
 

@@ -368,11 +368,10 @@ harpy eagle<br>
 **National color(s)**<br>
 blue, white, red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Himno Istmeno" (Isthmus Hymn)<br>
 _lyrics/music_: Jeronimo DE LA OSSA/Santos A. JORGE<br>
 _history_: adopted 1925<br>
-<strong>note:</strong> adopted 1925<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (2 cultural, 3 natural)<br>

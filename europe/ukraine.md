@@ -342,8 +342,8 @@ _expected date of next election_: May 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Ukraine or SCU (consists of 100 judges, organized into civil, criminal, commercial and administrative chambers, and a grand chamber); Constitutional Court (consists of 18 justices); High Anti-Corruption Court (consists of 39 judges, including 12 in the Appeals Chamber)<br>
-_judge selection and term of office_: Supreme Court judges recommended by the High Qualification Commission of Judges (a 16-member state body responsible for judicial candidate testing and assessment and judicial administration), submitted to the High Council of Justice, a 21-member independent body of judicial officials; judges serve until mandatory retirement at age 65; High Anti-Corruption Court judges are selected by the same process, with one addition – a majority of a combined High Qualification Commission of Judges and a 6-member Public Council of International Experts must vote in favor of potential judges in order to recommend their nomination to the High Council of Justice; Constitutional Court justices appointed - 6 each by the president, the Congress of Judges, and the Verkhovna Rada; judges serve 9-year nonrenewable terms <p> </p><br>
-_subordinate courts_: <p>Courts of Appeal; district courts</p><br>
+_judge selection and term of office_: Supreme Court judges recommended by the High Qualification Commission of Judges (a 16-member state body responsible for judicial candidate testing and assessment and judicial administration), submitted to the High Council of Justice, a 21-member independent body of judicial officials; judges serve until mandatory retirement at age 65; High Anti-Corruption Court judges are selected by the same process, with one addition &ndash; a majority of a combined High Qualification Commission of Judges and a 6-member Public Council of International Experts must vote in favor of potential judges in order to recommend their nomination to the High Council of Justice; Constitutional Court justices appointed - 6 each by the president, the Congress of Judges, and the Verkhovna Rada; judges serve 9-year nonrenewable terms<br>
+_subordinate courts_: Courts of Appeal; district courts<br>
 
 **Political parties**<br>
 Batkivshchyna (Fatherland)<br>European Solidarity or YeS<br>Holos (Voice or Vote)<br>Opposition Bloc (formerly known as Opposition Bloc — Party for Peace and Development, successor of the Industrial Party of Ukraine, and resulted from a schism in the original Opposition Bloc in 2019; banned in court June 2022; ceased to exist in July 2022)<br>Opposition Bloc or OB (divided into Opposition Bloc - Party for Peace and Development and Opposition Platform - For Life in 2019; ceased to exist in July 2022)<br>Opposition Platform - For Life (resulted from a schism in the original Opposition Bloc in 2019; activities suspended by the National Security and Defense Council in March 2022; dissolved in April 2022)<br>Platform for Life and Peace<br>Radical Party or RPOL<br>Samopomich (Self Reliance)<br>Servant of the People<br>Svoboda (Freedom)<br>
@@ -366,13 +366,14 @@ _email address and website_: <br>kyivacs@state.gov<br><br>https://ua.usembassy.g
 
 **International organization participation**<br>
 Australia Group, BSEC, CBSS (observer), CD, CE, CEI, CICA (observer), CIS (participating member, has not signed the 1993 CIS charter), EAEC (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NAM (observer), NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
-<strong>note</strong>: Ukraine is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
+<strong>note</strong>: Ukraine is an EU candidate country and must complete accession criteria before being granted full membership<br>
 
 **Independence**<br>
 24 August 1991 (from the Soviet Union); notable earlier dates: ca. 982 (VOLODYMYR I consolidates Kyivan Rus); 1199 (Principality (later Kingdom) of Ruthenia formed); 1648 (establishment of the Cossack Hetmanate); 22 January 1918 (from Soviet Russia)<br>
 
 **National holiday**<br>
-Independence Day, 24 August (1991); note - 22 January 1918, the day Ukraine first declared its independence from Soviet Russia, and the date the short-lived Western and Greater (Eastern) Ukrainian republics united (1919), is now celebrated as Unity Day<br>
+Independence Day, 24 August (1991)<br>
+<strong>note:</strong> 22 January 1918, the day Ukraine first declared its independence from Soviet Russia, is now celebrated as Unity Day<br>
 
 **Flag description**<br>
 two equal horizontal bands of blue (top) and yellow; the colors date back to medieval heraldry, but they are sometimes said to represent grain fields under a blue sky<br>
@@ -383,11 +384,10 @@ tryzub (trident), sunflower<br>
 **National color(s)**<br>
 blue, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Shche ne vmerla Ukraina" (Ukraine Has Not Yet Perished)<br>
 _lyrics/music_: Paul CHUBYNSKYI/Mikhail VERBYTSKYI<br>
 _history_: music adopted 1991, lyrics adopted 2003; song first performed in 1864 at the Ukraine Theatre in Lviv; the lyrics, originally written in 1862, were revised in 2003<br>
-<strong>note:</strong> music adopted 1991, lyrics adopted 2003; song first performed in 1864 at the Ukraine Theatre in Lviv; the lyrics, originally written in 1862, were revised in 2003<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 8 (7 cultural, 1 natural)<br>

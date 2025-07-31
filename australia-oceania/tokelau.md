@@ -224,7 +224,8 @@ PIF (associate member), SPC, UNESCO (associate), UPU<br>
 none (territory of New Zealand)<br>
 
 **National holiday**<br>
-Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealand), 6 February (1840)<br>
+Waitangi Day, 6 February (1840)<br>
+<strong>note: </strong>Treaty of Waitangi established British sovereignty over New Zealand<br>
 
 **Flag description**<br>
 a yellow stylized Tokelauan canoe on a dark blue field sails toward the Southern Cross constellation with four white five-pointed stars at the hoist side; the stars represent the role of Christianity in Tokelauan culture; the stars and canoe together symbolize the country navigating into the future; yellow stands for happiness and peace, and blue for the ocean<br>
@@ -235,11 +236,10 @@ tuluma (fishing tackle box)<br>
 **National color(s)**<br>
 blue, yellow, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 _history_: official anthem, as a territory of New Zealand; normally played only when a member of the royal family or the governor-general is present<br>
-<strong>note:</strong> adopted 2008; national contest was held to choose an anthem; as a territory of New Zealand, in addition to "God Defend New Zealand," "God Save the King" serves as a royal anthem (see United Kingdom); "God Save the King" normally played only when a member of the royal family or the governor-general is present; in all other cases, "God Defend New Zealand" is played (see New Zealand)<br>
 
 ## Economy
 

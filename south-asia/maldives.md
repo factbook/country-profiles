@@ -336,7 +336,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: High Court; Criminal, Civil, Family, Juvenile, and Drug Courts; Magistrate Courts (on each of the inhabited islands)<br>
 
 **Political parties**<br>
-<p>Adhaalath (Justice) Party or AP<br>Dhivehi Rayyithunge Party or DRP<br>Maldives Development Alliance or MDA<br>Maldivian Democratic Party or MDP<br>Maldives Third Way Democrats or MTD<br>People's National Congress or PNC<br>People's National Front<br>Republican (Jumhooree) Party or JP</p><br>
+Adhaalath (Justice) Party or AP<br>Dhivehi Rayyithunge Party or DRP<br>Maldives Development Alliance or MDA<br>Maldivian Democratic Party or MDP<br>Maldives Third Way Democrats or MTD<br>People's National Congress or PNC<br>People's National Front<br>Republican (Jumhooree) Party or JP<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Abdul GHAFOOR Mohamed (since 15 June 2023)<br>
@@ -369,11 +369,10 @@ coconut palm, yellowfin tuna<br>
 **National color(s)**<br>
 red, green, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Gaumee Salaam" (National Salute)<br>
 _lyrics/music_: Mohamed Jameel DIDI/Wannakuwattawaduge DON AMARADEVA<br>
 _history_: lyrics adopted 1948, music adopted 1972; between 1948 and 1972, the lyrics were sung to the tune of "Auld Lang Syne"<br>
-<strong>note:</strong> lyrics adopted 1948, music adopted 1972; between 1948 and 1972, the lyrics were sung to the tune of "Auld Lang Syne"<br>
 
 ## Economy
 

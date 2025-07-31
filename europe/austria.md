@@ -386,7 +386,7 @@ eagle, edelweiss, Alpine gentian<br>
 **National color(s)**<br>
 red, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Bundeshymne" (Federal Hymn)<br>
 _lyrics/music_: Paula von PRERADOVIC/Wolfgang Amadeus MOZART or Johann HOLZER (disputed)<br>
 _history_: adopted 1947; the anthem is also known as "Land der Berge, Land am Strome" (Land of the Mountains, Land by the River); Austria adopted a new national anthem after World War II to replace the former imperial anthem composed by Franz Josef HAYDN, which Germany had appropriated in 1922 and was thereafter associated with the Nazi regime; the Austrian Federal Assembly adopted a gender-neutral version of the lyrics in 2011<br>

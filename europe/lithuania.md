@@ -360,7 +360,8 @@ Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EU, FAO, IAEA, IBR
 16 February 1918 (from Soviet Russia and Germany); 11 March 1990 (declared from the Soviet Union); 6 September 1991 (recognized by the Soviet Union); notable earlier dates: 6 July 1253 (coronation of MINDAUGAS, traditional founding date); 1 July 1569 (Polish-Lithuanian Commonwealth created)<br>
 
 **National holiday**<br>
-Independence Day (or National Day), 16 February (1918); note - 16 February 1918 was the date Lithuania established its statehood and its concomitant independence from Soviet Russia and Germany; 11 March 1990 was the date it declared the restoration of Lithuanian statehood and its concomitant independence from the Soviet Union<br>
+Independence Day (or National Day), 16 February (1918)<br>
+<strong>note:</strong> 16 February 1918 was the date Lithuania established its statehood and independence from Soviet Russia and Germany; 11 March 1990 was the date it declared the restoration of statehood and independence from the Soviet Union<br>
 
 **Flag description**<br>
 three equal horizontal bands of yellow (top), green, and red; yellow stands for golden fields, the sun, light, and goodness; green represents the forests, nature, freedom, and hope; red stands for courage and the blood spilled in defense of the homeland<br>
@@ -371,11 +372,10 @@ mounted knight known as Vytis (the Chaser), white stork<br>
 **National color(s)**<br>
 yellow, green, red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Tautiska giesme" (The National Song)<br>
 _lyrics/music_: Vincas KUDIRKA<br>
 _history_: adopted 1918, restored 1990; written in 1898 when Lithuania was part of Russia; banned during the Soviet occupation from 1940 to 1990<br>
-<strong>note:</strong> adopted 1918, restored 1990; written in 1898 when Lithuania was part of Russia; banned during the Soviet occupation from 1940 to 1990<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (all cultural)<br>

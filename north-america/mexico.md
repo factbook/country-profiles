@@ -81,7 +81,7 @@ Atlantic and Gulf Coastal Plains Aquifer<br>
 most of the population is found in the middle of the country between the states of Jalisco and Veracruz; approximately a quarter of the population lives in and around Mexico City<br>
 
 **Natural hazards**<br>
-<p>tsunamis along the Pacific coast, volcanoes and destructive earthquakes in the center and south, and hurricanes on the Pacific, Gulf of America, and Caribbean coasts</p> <p><strong>volcanism:</strong> volcanic activity in the central-southern part of the country; the volcanoes in Baja California are mostly dormant; Colima (3,850 m), which erupted in 2010, is Mexico's most active volcano and is responsible for causing periodic evacuations of nearby villagers; it has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Popocatepetl (5,426 m) poses a threat to Mexico City; other historically active volcanoes include Barcena, Ceboruco, El Chichon, Michoacan-Guanajuato, Pico de Orizaba, San Martin, Socorro, and Tacana; see note 2 under "Geography - note"</p><br>
+tsunamis along the Pacific coast; volcanoes and destructive earthquakes in the center and south; hurricanes on the Pacific, Gulf of America, and Caribbean coasts <br><br><strong>volcanism:</strong> volcanic activity in the central-southern part of the country; the volcanoes in Baja California are mostly dormant; Colima (3,850 m) is Mexico's most active volcano and is responsible for periodic evacuations of nearby villagers; it has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Popocatepetl (5,426 m) poses a threat to Mexico City; other historically active volcanoes include Barcena, Ceboruco, El Chichon, Michoacan-Guanajuato, Pico de Orizaba, San Martin, Socorro, and Tacana; see note 2 under "Geography - note"<br>
 
 **Geography - note**<br>
 <p><strong>note 1:</strong> strategic location on southern border of the US; Mexico is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire<br><br><strong>note 2: </strong>the Sac Actun cave system at 348 km (216 mi) is the longest underwater cave in the world and the second longest cave worldwide, after Mammoth Cave in the United States (see "Geography - note" under United States)<br><br><strong>note 3:</strong> the prominent Yucatán Peninsula that divides the Gulf of America from the Caribbean Sea is shared by Mexico, Guatemala, and Belize; on the northern coast of Yucatan near the town of Chicxulub lie the remnants of a massive asteroid or comet crater about 150 km (93 mi) in diameter and extending into the Gulf of America; the impact is believed to have initiated a worldwide climate disruption that caused a mass extinction of 75% of the earth's plant and animal species, including the non-avian dinosaurs</p><br>
@@ -377,7 +377,7 @@ _subordinate courts_: federal level includes circuit, collegiate, and unitary co
 <strong>note:</strong> in April 2021, the Mexican congress passed a judicial reform which changed 7 articles of the constitution and preceded a new Organic Law on the Judicial Branch of the Federation<br>
 
 **Political parties**<br>
-<p>Citizen's Movement (Movimiento Ciudadano) or MC<br>Institutional Revolutionary Party (Partido Revolucionario Institucional) or PRI<br>Labor Party (Partido del Trabajo) or PT<br>Mexican Green Ecological Party (Partido Verde Ecologista de México) or PVEM<br>Movement for National Regeneration (Movimiento Regeneración Nacional) or MORENA<br>National Action Party (Partido Acción Nacional) or PAN<br>Party of the Democratic Revolution (Partido de la Revolución Democrática) or PRD<br>This Is For Mexico (Va Por México) (alliance that includes PAN, PRI, and PRD)<br>Together We Make History (Juntos Hacemos Historia) (alliance that included MORENA, PT, PVEM) (dissolved 23 December 2020)<br><br></p><br>
+Citizen's Movement (Movimiento Ciudadano) or MC<br>Institutional Revolutionary Party (Partido Revolucionario Institucional) or PRI<br>Labor Party (Partido del Trabajo) or PT<br>Mexican Green Ecological Party (Partido Verde Ecologista de México) or PVEM<br>Movement for National Regeneration (Movimiento Regeneración Nacional) or MORENA<br>National Action Party (Partido Acción Nacional) or PAN<br>Party of the Democratic Revolution (Partido de la Revolución Democrática) or PRD<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Esteban MOCTEZUMA Barrag&aacute;n (since 20 April 2021)<br>
@@ -417,11 +417,10 @@ golden eagle, dahlia<br>
 **National color(s)**<br>
 green, white, red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Himno Nacional Mexicano" (National Anthem of Mexico)<br>
 _lyrics/music_: Francisco Gonzalez BOCANEGRA/Jaime Nuno ROCA<br>
 _history_: adopted 1943, in use since 1854; also known as "Mexicanos, al grito de Guerra" (Mexicans, to the War Cry); according to tradition, BOCANEGRA, an accomplished poet, did not want to submit lyrics to a national anthem contest, but his fianc&eacute;e locked him in a room and refused to release him until the lyrics were completed<br>
-<strong>note:</strong> adopted 1943, in use since 1854; also known as "Mexicanos, al grito de Guerra" (Mexicans, to the War Cry); according to tradition, BOCANEGRA, an accomplished poet, did not want to submit lyrics to a national anthem contest, but his fiancée locked him in a room and refused to release him until the lyrics were completed<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 35 (27 cultural, 6 natural, 2 mixed)<br>

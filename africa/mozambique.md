@@ -381,11 +381,10 @@ rifle, hoe, and book<br>
 **National color(s)**<br>
 green, black, yellow, white, red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Patria Amada" (Lovely Fatherland)<br>
 _lyrics/music_: Salomao J. MANHICA/unknown<br>
 _history_: adopted 2002<br>
-<strong>note:</strong> adopted 2002<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

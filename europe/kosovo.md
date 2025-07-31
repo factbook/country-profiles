@@ -306,11 +306,10 @@ six five-pointed white stars<br>
 **National color(s)**<br>
 blue, gold, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Europe"<br>
 _lyrics/music_: no lyrics/Mendi MENGJIQI<br>
 _history_: adopted 2008; Kosovo chose not to include lyrics in its anthem to avoid offending the country's minority ethnic groups<br>
-<strong>note:</strong> adopted 2008; Kosovo chose not to include lyrics in its anthem to avoid offending the country's minority ethnic groups<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -563,9 +562,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<strong>note:</strong> NATO-led Kosovo Force peacekeepers deployed under UN Security Council Resolution 1244 continue to ensure a safe and secure environment and freedom of movement for all Kosovo citizens; in September 2023, KFOR deployed additional forces in the north of Kosovo and increased patrols along the border with Serbia after Kosovo-Serb paramilitaries attacked Kosovo police near the town of Banjska; some of Kosovo’s ethnic Serb minority, most of whom live in the northern regions, view themselves as part of Serbia, and Serbian municipalities along the northern border have challenged the final status of Kosovo-Serbia boundary; some protests have turned violent <br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 16,000 (primarily ethnic Serbs displaced during the 1998-1999 war fearing reprisals from the majority ethnic-Albanian population; a smaller number of ethnic Serbs, Roma, Ashkali, and Egyptians fled their homes in 2004 as a result of violence) (2022)<br>

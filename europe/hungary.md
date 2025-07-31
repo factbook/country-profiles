@@ -289,7 +289,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: Buda on the western shore of the Danube and Pest on the eastern shore merged in 1873 to form Budapest; Buda's name may derive from the name of its founder or from a local word meaning "water;" Pest derives from a Slavic word meaning "furnace" or "oven"<br>
 
 **Administrative divisions**<br>
-<p>19 counties (<em>megyek</em>, singular - <em>megye</em>), 25 cities with county rights (<em>megyei jogu varosok</em>, singular - <em>megyei jogu varos</em>), and 1 capital city (<em>fovaros</em>)</p> <p><strong>counties:</strong> Bacs-Kiskun, Baranya, Bekes, Borsod-Abauj-Zemplen, Csongrad-Csanad, Fejer, Gyor-Moson-Sopron, Hajdu-Bihar, Heves, Jasz-Nagykun-Szolnok, Komarom-Esztergom, Nograd, Pest, Somogy, Szabolcs-Szatmar-Bereg, Tolna, Vas, Veszprem, Zala</p> <p><strong>cities with county rights:</strong> Baja, Bekescsaba, Debrecen, Dunaujvaros, Eger, Erd, Esztergom, Gyor, Hodmezovasarhely, Kaposvar, Kecskemet, Miskolc, Nagykanizsa, Nyiregyhaza, Pecs, Salgotarjan, Sopron, Szeged, Szekesfehervar, Szekszard, Szolnok, Szombathely, Tatabanya, Veszprem, Zalaegerszeg</p> <p><strong>capital city:</strong> Budapest</p><br>
+19 counties (<em>megyek</em>, singular - <em>megye</em>), 25 cities with county rights (<em>megyei jogu varosok</em>, singular - <em>megyei jogu varos</em>), and 1 capital city (<em>fovaros</em>) <br><br><strong>counties:</strong> Bacs-Kiskun, Baranya, Bekes, Borsod-Abauj-Zemplen, Csongrad-Csanad, Fejer, Gyor-Moson-Sopron, Hajdu-Bihar, Heves, Jasz-Nagykun-Szolnok, Komarom-Esztergom, Nograd, Pest, Somogy, Szabolcs-Szatmar-Bereg, Tolna, Vas, Veszprem, Zala <br><br><strong>cities with county rights:</strong> Baja, Bekescsaba, Debrecen, Dunaujvaros, Eger, Erd, Esztergom, Gyor, Hodmezovasarhely, Kaposvar, Kecskemet, Miskolc, Nagykanizsa, Nyiregyhaza, Pecs, Salgotarjan, Sopron, Szeged, Szekesfehervar, Szekszard, Szolnok, Szombathely, Tatabanya, Veszprem, Zalaegerszeg <br><br><strong>capital city:</strong> Budapest<br>
 
 **Legal system**<br>
 civil system influenced by the German model<br>
@@ -364,7 +364,8 @@ Australia Group, BIS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA (cooperating 
 16 November 1918 (republic proclaimed); notable earlier dates: 25 December 1000 (crowning of King STEPHEN I, traditional founding date); 30 March 1867 (Austro-Hungarian dual monarchy established)<br>
 
 **National holiday**<br>
-Saint Stephen's Day, 20 August (1083); note - commemorates his canonization and the transfer of his remains to Buda (now Budapest) in 1083<br>
+Saint Stephen's Day, 20 August (1083)<br>
+<strong>note:</strong> commemorates the saint's canonization and the transfer of his remains to Buda (now Budapest) in 1083<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and green; the flag dates to the national movement of the 18th and 19th centuries and fuses the medieval colors of the Hungarian coat of arms with the revolutionary tricolor of the French flag; folklore attributes virtues to the colors: red for strength, white for faithfulness, and green for hope; alternatively, the red can stand for the blood spilled in defense of the land, white for freedom, and green for pasturelands&nbsp;<br>
@@ -375,11 +376,10 @@ Holy Crown of Hungary (Crown of Saint Stephen)<br>
 **National color(s)**<br>
 red, white, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Himnusz" (Hymn)<br>
 _lyrics/music_: Ferenc KOLCSEY/Ferenc ERKEL<br>
 _history_: adopted 1844<br>
-<strong>note:</strong> adopted 1844<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 8 (7 cultural, 1 natural)<br>

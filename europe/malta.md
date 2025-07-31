@@ -356,11 +356,10 @@ Maltese eight-pointed cross<br>
 **National color(s)**<br>
 red, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "L-Innu Malti" (The Maltese Anthem)<br>
 _lyrics/music_: Dun Karm PSAILA/Robert SAMMUT<br>
 _history_: adopted 1945; written in the form of a prayer<br>
-<strong>note:</strong> adopted 1945; written in the form of a prayer<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (all cultural)<br>

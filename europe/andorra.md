@@ -339,11 +339,10 @@ red cow (breed unspecified)<br>
 **National color(s)**<br>
 blue, yellow, red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "El Gran Carlemany" (The Great Charlemagne)<br>
 _lyrics/music_: Joan BENLLOCH i VIVO/Enric MARFANY BONS<br>
 _history_: adopted 1921; the anthem provides a brief history of Andorra in a first-person narrative<br>
-<strong>note:</strong> adopted 1921; the anthem provides a brief history of Andorra in a first-person narrative<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: &nbsp;1 (cultural)<br>

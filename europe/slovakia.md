@@ -24,7 +24,7 @@ _land_: 48,105 sq km<br>
 _water_: 930 sq km<br>
 
 **Area - comparative**<br>
-about one and a half times the size of Maryland; about twice the size of New Hampshire<br>
+about 1.5 times the size of Maryland; about twice the size of New Hampshire<br>
 
 **Land boundaries**<br>
 _total_: 1,587 km<br>
@@ -373,11 +373,10 @@ double-barred cross (Cross of St. Cyril and St. Methodius) over three peaks<br>
 **National color(s)**<br>
 white, blue, red<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Nad Tatrou sa blyska" (Lightning Over the Tatras)<br>
 _lyrics/music_: Janko MATUSKA/traditional<br>
 _history_: adopted 1993, in use since 1844; music based on the Slovak folk song "Kopala studienku" (She was digging a well)<br>
-<strong>note:</strong> adopted 1993, in use since 1844; music based on the Slovak folk song "Kopala studienku" (She was digging a well)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 8 (6 cultural, 2 natural)<br>
@@ -659,7 +658,7 @@ the military's inventory consists mostly of Soviet-era platforms; in recent year
 240 Cyprus (UNFICYP); up to 150 Latvia (NATO) (2024)<br>
 
 **Military - note**<br>
-the Slovak military was created from the Czechoslovak Army after the dissolution of Czechoslovakia in January 1993; it is responsible for external defense and fulfilling Slovakia’s commitments to European and international security; Slovakia has been a member of both the EU and NATO since 2004; a key focus of the Slovak military is fulfilling the country’s security responsibilities to NATO, including modernizing and acquiring NATO-compatible equipment, participating in training exercises, and providing forces for security missions such as NATO’s Enhanced Forward Presence in the Baltic States; since 2022, Slovakia has hosted a NATO ground force battlegroup comprised of troops from Czechia, Germany, the Netherlands, Poland, Slovakia, Slovenia, and the US as part of the NATO effort to boost the defenses of Eastern Europe since the Russian invasion of Ukraine; Slovakia also contributes to EU and UN peacekeeping missions<br><br>the Slovak Air Force has only a handful of fighter aircraft and is assisted by NATO’s air policing mission over Slovakia, which includes fighter aircraft from Czechia and Poland; in 2022, Slovakia signed a defense agreement with the US that allows the US to use two Slovak military air bases (2024)<br>
+the Slovak military is responsible for external defense and fulfilling Slovakia’s commitments to European and international security; Slovakia has been a member of both the EU and NATO since 2004; a key focus of the Slovak military is fulfilling the country’s security responsibilities to NATO, including modernizing and acquiring NATO-compatible equipment, participating in training exercises, and providing forces for security missions such as NATO’s Enhanced Forward Presence in the Baltic States; since 2022, Slovakia has hosted a multinational NATO ground force battlegroup as part of the NATO effort to boost the defenses of Eastern Europe since the Russian invasion of Ukraine; Slovakia also contributes to EU and UN peacekeeping missions<br><br>the Slovak Air Force has only a handful of fighter aircraft and is assisted by NATO’s air policing mission over Slovakia, which includes fighter aircraft from Czechia and Poland; in 2022, Slovakia signed a defense agreement with the US that allows the US to use two Slovak military air bases (2025)<br>
 
 ## Transnational Issues
 

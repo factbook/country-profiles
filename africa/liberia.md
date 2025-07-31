@@ -377,11 +377,10 @@ white star<br>
 **National color(s)**<br>
 red, white, blue<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "All Hail, Liberia, Hail!"<br>
 _lyrics/music_: Daniel Bashiel WARNER/Olmstead LUCA<br>
 _history_: lyrics adopted 1847, music adopted 1860; the anthem's author later became the third president of Liberia<br>
-<strong>note:</strong> lyrics adopted 1847, music adopted 1860; the anthem's author later became the third president of Liberia<br>
 
 ## Economy
 

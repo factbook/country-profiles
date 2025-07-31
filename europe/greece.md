@@ -67,7 +67,7 @@ _other_: 25.4% (2022 est.)<br>
 one third of the population lives in and around metropolitan Athens; the remainder of the country has moderate population density mixed with sizeable urban clusters<br>
 
 **Natural hazards**<br>
-<p>severe earthquakes</p><p><strong>volcanism:</strong> Santorini (367 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; although there have been very few eruptions in recent centuries, Methana and Nisyros in the Aegean are classified as historically active</p><br>
+severe earthquakes <br><br><strong>volcanism:</strong> Santorini (367 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Methana and Nisyros in the Aegean are also classified as historically active<br>
 
 **Geography - note**<br>
 strategic location dominating the Aegean Sea and southern approach to Turkish Straits; a peninsular country, with an archipelago of about 2,000 islands<br>
@@ -311,7 +311,7 @@ _head of government_: Prime Minister Kyriakos MITSOTAKIS (since 26 June 2023)<br
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
 _election/appointment process_: president elected by Hellenic Parliament for a 5-year term (eligible for a second term); president appoints as prime minister the leader of the majority party or coalition in the Hellenic Parliament<br>
 _most recent election date_: 12 February 2025<br>
-_election results_: <em>2025: </em>Konstantinos TASOULAS (ND) elected president by Parliament - 160 of 300 votes<em><br><br>2020:</em> Katerina SAKELLAROPOULOU (independent) elected president by Parliament - 261 of 300 votes<em><br></em><br>
+_election results_: <em><br>2025: </em>Konstantinos TASOULAS (ND) elected president by Parliament - 160 of 300 votes<em><br><br>2020:</em> Katerina SAKELLAROPOULOU (independent) elected president by Parliament - 261 of 300 votes<br>
 _expected date of next election_: 2030<br>
 
 **Legislative branch**<br>
@@ -376,11 +376,10 @@ blue, white<br>
 **National coat of arms**<br>
 the coat of arms was designed by Greek artist Kostas Grammatopoulos and has been in use since 1975; depicted in the national colors of blue and white; the white cross represents the country&rsquo;s primary religion, Greek Orthodoxy, and the laurel branches symbolize victory<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Ymnos eis tin Eleftherian" (Hymn to Liberty)<br>
 _lyrics/music_: Dionysios SOLOMOS/Nikolaos MANTZAROS<br>
 _history_: adopted 1864; the anthem is based on a 158-stanza poem by the same name, which was inspired by the Greek Revolution of 1821 against the Ottomans (only the first two stanzas are used); Cyprus also uses "Hymn to Liberty" as its anthem<br>
-<strong>note:</strong> adopted 1864; the anthem is based on a 158-stanza poem by the same name, which was inspired by the Greek Revolution of 1821 against the Ottomans (only the first two stanzas are used); Cyprus also uses "Hymn to Liberty" as its anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 19 (17 cultural, 2 mixed)<br>

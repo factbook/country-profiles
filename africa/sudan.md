@@ -220,7 +220,7 @@ _female_: 7 years (2015)<br>
 ## Environment
 
 **Environmental issues**<br>
-<p>water pollution; inadequate supplies of potable water; water scarcity and drought; overhunting; soil erosion; desertification; deforestation; loss of biodiversity</p> <p><strong> </strong></p><br>
+water pollution; inadequate supplies of potable water; water scarcity and drought; overhunting; soil erosion; desertification; deforestation; loss of biodiversity<br>
 
 **International environmental agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
@@ -317,7 +317,7 @@ _judge selection and term of office_: National Supreme Court and Constitutional 
 _subordinate courts_: Court of Appeal; other national courts; public courts; district, town, and rural courts<br>
 
 **Political parties**<br>
-<p>Democratic Unionist Party<br>Democratic Unionist Party or DUP<br>Federal Umma Party<br>Muslim Brotherhood or MB<br>National Congress Party or NCP<br>National Umma Party or NUP<br>Popular Congress Party or PCP<br>Reform Movement Now<br>Sudan National Front<br>Sudanese Communist Party or SCP<br>Sudanese Congress Party or SCoP<br>Umma Party for Reform and Development<br>Unionist Movement Party or UMP</p><br>
+Democratic Unionist Party<br>Democratic Unionist Party or DUP<br>Federal Umma Party<br>Muslim Brotherhood or MB<br>National Congress Party or NCP<br>National Umma Party or NUP<br>Popular Congress Party or PCP<br>Reform Movement Now<br>Sudan National Front<br>Sudanese Communist Party or SCP<br>Sudanese Congress Party or SCoP<br>Umma Party for Reform and Development<br>Unionist Movement Party or UMP<br>
 <strong>note:  </strong>in November 2019, the transitional government banned the National Congress Party<br>
 
 **Diplomatic representation in the US**<br>
@@ -353,11 +353,10 @@ secretary bird<br>
 **National color(s)**<br>
 red, white, black, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Nahnu Djundulla Djundulwatan" (We Are the Army of God and of Our Land)<br>
 _lyrics/music_: Sayed Ahmad Muhammad SALIH/Ahmad MURJAN<br>
 _history_: adopted 1956; originally served as the anthem of the Sudanese military<br>
-<strong>note:</strong> adopted 1956; originally served as the anthem of the Sudanese military<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>

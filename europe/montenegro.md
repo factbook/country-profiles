@@ -365,7 +365,8 @@ CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IF
 3 June 2006 (from the State Union of Serbia and Montenegro); notable earlier dates: 13 March 1852 (Principality of Montenegro established); 13 July 1878 (Congress of Berlin recognizes Montenegrin independence); 28 August 1910 (Kingdom of Montenegro established)<br>
 
 **National holiday**<br>
-Statehood Day, 13 July (1878, the day the Berlin Congress recognized Montenegro as the 27th independent state in the world, and 1941, the day the Montenegrins staged an uprising against fascist occupiers and sided with the partisan communist movement)<br>
+Statehood Day, 13 July (1878, 1941)<br>
+<strong>note: </strong>the holiday celebrates the day in 1878 when the Berlin Congress recognized Montenegro as an independent state, as well as the day in 1941 when the Montenegrins staged an uprising against its occupiers<br>
 
 **Flag description**<br>
 a red field bordered with a narrow golden-yellow stripe and the Montenegrin coat of arms in the center; the arms consist of a double-headed golden eagle that symbolizes the unity of church and state, with a crown above; the eagle holds a golden scepter in its right claw and a blue orb in its left; the breast shield over the eagle shows a golden lion on a green field in front of a blue sky; the lion is a symbol of episcopal authority, a reference to the three-and-a-half centuries when Montenegro was ruled as a theocracy<br>
@@ -376,11 +377,10 @@ double-headed eagle<br>
 **National color(s)**<br>
 red, gold<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Oj, svijetla majska zoro" (O Bright Dawn of May)<br>
 _lyrics/music_: Sekula DRLJEVIC/unknown, arranged by Zarko MIKOVIC<br>
 _history_: adopted 2004; music based on a Montenegrin folk song<br>
-<strong>note:</strong> adopted 2004; music based on a Montenegrin folk song<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (3 cultural, 1 natural)<br>

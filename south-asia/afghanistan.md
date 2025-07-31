@@ -302,7 +302,7 @@ _etymology_: named for the Kabul River, but the river's name is of unknown origi
 34 provinces (<em>welayat</em>, singular - <em>welayat</em>); Badakhshan, Badghis, Baghlan, Balkh, Bamyan, Daykundi, Farah, Faryab, Ghazni, Ghor, Helmand, Herat, Jowzjan, Kabul, Kandahar, Kapisa, Khost, Kunar, Kunduz, Laghman, Logar, Nangarhar, Nimroz, Nuristan, Paktika, Paktiya, Panjshir, Parwan, Samangan, Sar-e Pul, Takhar, Uruzgan, Wardak, Zabul<br>
 
 **Legal system**<br>
-<p>the Taliban is implementing its own interpretation of Islamic law, which is partially based on the Hanifi school of Islamic jurisprudence and have enforced strict punishments; before the Taliban takeover, Afghanistan had a mixed legal system of civil, customary, and Islamic law</p> (2021)<br>
+the Taliban is implementing its own interpretation of Islamic law, which is partially based on the Hanifi school of Islamic jurisprudence and have enforced strict punishments; before the Taliban takeover, Afghanistan had a mixed legal system of civil, customary, and Islamic law (2021)<br>
 
 **Constitution**<br>
 _history_: several previous; latest ratified in 2004, but not currently enforced by the Taliban<br>
@@ -363,11 +363,10 @@ lion<br>
 **National color(s)**<br>
 red, green, black<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Milli Surood" (National Anthem)<br>
 _lyrics/music_: Abdul Bari JAHANI/Babrak WASA<br>
 _history_: adopted 2006<br>
-<strong>note:</strong> adopted 2006<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>

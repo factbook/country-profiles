@@ -337,7 +337,7 @@ _judge selection and term of office_: Court of Cassation judges appointed by Sup
 _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized tribunals, religious courts; military courts<br>
 
 **Political parties**<br>
-<p>Al-Ahbash (Association of Islamic Charitable Projects) or AICP<br>Amal Movement ("Hope Movement")<br>Azm Movement<br>Ba’th Arab Socialist Party of Lebanon<br>Free Patriotic Movement or FPM<br>Future Movement Bloc or FM<br>Hizballah<br>Islamic Action Front or IAF<br>Kata'ib Party<br>Lebanese Democratic Party<br>Lebanese Forces or LF<br>Marada Movement<br>Progressive Socialist Party or PSP<br>Social Democrat Hunshaqian Party<br>Syrian Social Nationalist Party or SSNP<br>Tashnaq or Armenian Revolutionary Federation</p><br>
+Al-Ahbash (Association of Islamic Charitable Projects) or AICP<br>Amal Movement ("Hope Movement")<br>Azm Movement<br>Ba’th Arab Socialist Party of Lebanon<br>Free Patriotic Movement or FPM<br>Future Movement Bloc or FM<br>Hizballah<br>Islamic Action Front or IAF<br>Kata'ib Party<br>Lebanese Democratic Party<br>Lebanese Forces or LF<br>Marada Movement<br>Progressive Socialist Party or PSP<br>Social Democrat Hunshaqian Party<br>Syrian Social Nationalist Party or SSNP<br>Tashnaq or Armenian Revolutionary Federation<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Wa&euml;l HACHEM, Counselor (since 15 March 2021)<br>
@@ -373,11 +373,10 @@ cedar tree<br>
 **National color(s)**<br>
 red, white, green<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Kulluna lil-watan" (All of Us, For Our Country!)<br>
 _lyrics/music_: Rachid NAKHLE/Wadih SABRA<br>
 _history_: adopted 1927; chosen through a nationwide competition<br>
-<strong>note:</strong> adopted 1927; chosen through a nationwide competition<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 6 (all cultural)<br>

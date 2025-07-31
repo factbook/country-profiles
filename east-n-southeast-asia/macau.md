@@ -225,7 +225,8 @@ _amendment process_: proposed by the Standing Committee of the National People&r
 see China<br>
 
 **Suffrage**<br>
-18 years of age in direct elections for some legislative positions, universal for permanent residents living in Macau for the past 7 years; note - indirect elections are limited to organizations registered as "corporate voters" and an election committee for the chief executive drawn from broad regional groupings, municipal organizations, central government bodies, and elected Macau officials<br>
+18 years of age in direct elections for some legislative positions, universal for permanent residents living in Macau for the past 7 years<br>
+<strong>note:</strong> indirect elections are limited to organizations registered as "corporate voters" and an election committee for the chief executive drawn from broad regional groupings, municipal organizations, central government bodies, and elected Macau officials<br>
 
 **Executive branch**<br>
 _chief of state_: President of China XI Jinping (since 14 March 2013)<br>
@@ -269,7 +270,8 @@ ICC (national committees), IHO, IMF, IMO (associate), Interpol (subbureau), ISO 
 none (special administrative region of China)<br>
 
 **National holiday**<br>
-National Day (anniversary of the Founding of the People's Republic of China), 1 October (1949); note - 20 December (1999) is celebrated as Macau Special Administrative Region Establishment Day<br>
+National Day (anniversary of the Founding of the People's Republic of China), 1 October (1949)<br>
+<strong>note:</strong> 20 December (1999) is celebrated as Macau Special Administrative Region Establishment Day<br>
 
 **Flag description**<br>
 green with a lotus flower above a stylized bridge and water in white, under an arc of five five-pointed gold stars; the lotus is the national floral emblem, and the three petals represent the country's peninsula and two islands; the five stars echo those on the Chinese flag<br>
@@ -280,11 +282,10 @@ lotus blossom<br>
 **National color(s)**<br>
 green, white, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Yiyongjun Jinxingqu" (The March of the Volunteers)<br>
 _lyrics/music_: TIAN Han/NIE Er<br>
 _history_: official anthem, as a Special Administrative Region of China<br>
-<strong>note:</strong> "Yiyongjun Jinxingqu" is the official anthem for Macau, as a Special Administrative Region of China (see China)<br>
 
 ## Economy
 

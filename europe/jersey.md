@@ -282,11 +282,10 @@ Jersey cow<br>
 **National color(s)**<br>
 red, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 _history_: official anthem, as a British Crown dependency<br>
-<strong>note:</strong> adopted 2008; serves as a local anthem; "God Save the King" is the official anthem for Jersey, as a British Crown dependency (see United Kingdom)<br>
 
 ## Economy
 

@@ -75,7 +75,7 @@ Lake Chad Basin<br>
 population concentrated in the west and north, with the interior of the country sparsely populated, as shown in this population distribution map<br>
 
 **Natural hazards**<br>
-<p>volcanic activity with periodic releases of poisonous gases from Lake Nyos and Lake Monoun volcanoes</p><p><strong>volcanism:</strong> Mt. Cameroon (4,095 m), which last erupted in 2000, is the most frequently active volcano in West Africa; lakes in Oku volcanic field have released fatal levels of gas on occasion, killing some 1,700 people in 1986</p><br>
+volcanic activity with periodic releases of poisonous gases from Lake Nyos and Lake Monoun volcanoes <br><br><strong>volcanism:</strong> Mt. Cameroon (4,095 m), which last erupted in 2000, is the most frequently active volcano in West Africa; lakes in the Oku volcanic field sometimes release fatal levels of gas, which killed about 1,700 people in 1986<br>
 
 **Geography - note**<br>
 sometimes referred to as the hinge of Africa because of its central location on the continent and its position at the west-south juncture of the Gulf of Guinea; areas of thermal springs and indications of current or prior volcanic activity; Mount Cameroon, the highest mountain in Sub-Saharan west Africa, is an active volcano<br>
@@ -397,11 +397,10 @@ lion<br>
 **National color(s)**<br>
 green, red, yellow<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "O Cameroun, Berceau de Nos Anc&ecirc;tres" (O Cameroon, Cradle of Our Forefathers)<br>
 _lyrics/music_: Rene Djam AFAME, Samuel Minkio BAMBA, Moise Nyatte NKO'O [French], Benard Nsokika FONLON [English]/Rene Djam AFAME<br>
 _history_: adopted 1957; the anthem, also known as "Le Chant de Ralliement" (The Rallying Song), has been used unofficially since 1948; has French and English versions with different lyrics<br>
-<strong>note:</strong> adopted 1957; the anthem, also known as "Le Chant de Ralliement" (The Rallying Song), has been used unofficially since 1948; has French and English versions with different lyrics<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both natural)<br>

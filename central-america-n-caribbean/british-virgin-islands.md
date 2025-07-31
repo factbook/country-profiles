@@ -289,11 +289,10 @@ zenaida dove, white cedar flower<br>
 **National color(s)**<br>
 yellow, green, red, white, blue<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 _history_: official anthem, as a UK overseas territory<br>
-<strong>note:</strong> "God Save the King" is the official anthem for BVI, as an overseas territory of the United Kingdom (see United Kingdom)<br>
 
 ## Economy
 

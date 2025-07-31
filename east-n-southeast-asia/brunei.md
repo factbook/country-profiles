@@ -344,7 +344,8 @@ ADB, APEC, ARF, ASEAN, C, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM
 1 January 1984 (from the UK)<br>
 
 **National holiday**<br>
-National Day, 23 February (1984); note - 1 January 1984 was the date of independence from the UK, 23 February 1984 was the date of independence from British protection; the Sultan's birthday, 15 June<br>
+National Day, 23 February (1984)<br>
+<strong>note:</strong> 1 January 1984 was the date of independence from the UK, 23 February 1984 was the date of independence from British protection; the Sultan's birthday, 15 June<br>
 
 **Flag description**<br>
 yellow with two diagonal bands of white and black starting from the upper hoist side; the national emblem in red is at the center; yellow symbolizes the sultanate, and the white and black bands stand for the chief ministers; the emblem includes a swallow-tailed flag, a royal umbrella representing the monarchy, two wings with four feathers (justice, tranquility, prosperity, and peace), two upraised hands signifying the government's pledge to preserve and promote the welfare of the people, and the&nbsp; crescent moon of Islam (the state religion); the state motto "Always render service with God's guidance" appears in yellow Arabic script on the crescent; a ribbon below the crescent reads "Brunei, the Abode of Peace"<br>
@@ -355,11 +356,10 @@ royal parasol<br>
 **National color(s)**<br>
 yellow, white, black<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Allah Peliharakan Sultan" (God Bless His Majesty)<br>
 _lyrics/music_: Pengiran Haji Mohamed YUSUF bin Pengiran Abdul Rahim/Awang Haji BESAR bin Sagap<br>
 _history_: adopted 1951<br>
-<strong>note:</strong> adopted 1951<br>
 
 ## Economy
 

@@ -67,7 +67,7 @@ _other_: 14.5% (2022 est.)<br>
 high population density country-wide, with particular concentration around the capital of San Salvador<br>
 
 **Natural hazards**<br>
-<p>known as the Land of Volcanoes; frequent and sometimes destructive earthquakes and volcanic activity; extremely susceptible to hurricanes</p><p><strong>volcanism:</strong> significant volcanic activity; San Salvador (1,893 m), which last erupted in 1917, has the potential to cause major harm to the country's capital, which lies just below the volcano's slopes; San Miguel (2,130 m), which last erupted in 2002, is one of the most active volcanoes in the country; other historically active volcanoes include Conchaguita, Ilopango, Izalco, and Santa Ana</p><br>
+known as the Land of Volcanoes; frequent and sometimes destructive earthquakes and volcanic activity; extremely susceptible to hurricanes <br><br><strong>volcanism:</strong> significant volcanic activity; San Salvador (1,893 m), which last erupted in 1917, has the potential to cause major harm to the country's capital, which lies just below the volcano's slopes; San Miguel (2,130 m) is one of the most active volcanoes in the country; other historically active volcanoes include Conchaguita, Ilopango, Izalco, and Santa Ana<br>
 
 **Geography - note**<br>
 smallest Central American country and only one without a coastline on the Caribbean Sea<br>
@@ -371,11 +371,10 @@ turquoise-browed motmot (bird)<br>
 **National color(s)**<br>
 blue, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Himno Nacional de El Salvador" (National Anthem of El Salvador)<br>
 _lyrics/music_: Juan Jose CANAS/Juan ABERLE<br>
 _history_: officially adopted 1953, in use since 1879; at four minutes and 20 seconds, the anthem is one of the world's longest<br>
-<strong>note:</strong> officially adopted 1953, in use since 1879; at four minutes and 20 seconds, the anthem is one of the world's longest<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

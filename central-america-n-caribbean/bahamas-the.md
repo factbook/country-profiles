@@ -309,7 +309,7 @@ _subordinate courts_: Industrial Tribunal; Magistrates' Courts; Family Island Ad
 <strong>note:</strong> The Bahamas is a member of the 15-member Caribbean Community but is not party to the agreement establishing the Caribbean Court of Justice as its highest appellate court; the Judicial Committee of the Privy Council (in London) serves as the final court of appeal for The Bahamas<br>
 
 **Political parties**<br>
-<p>Coalition of Independents Party or COI<br>Democratic National Alliance or DNA<br>Free National Movement or FNM<br>Progressive Liberal Party or PLP</p><br>
+Coalition of Independents Party or COI<br>Democratic National Alliance or DNA<br>Free National Movement or FNM<br>Progressive Liberal Party or PLP<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Wendall Kermith JONES (since 19 April 2022)<br>
@@ -348,11 +348,10 @@ aquamarine, yellow, black<br>
 **National coat of arms**<br>
 the motto on the Bahamas coat of arms is “Forward, Upward, Onward Together;” the flamingo and marlin supporting the shield are national animals that represent respectively the land and sea; the pink conch shell symbolizes the marine life of the islands, and the green palm fronds represent the natural vegetation; the <em>Santa Maria</em>, Christopher Columbus’s flagship, also appears; the sun signifies the world-famous climate and the bright future of the islands<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 _history_: royal anthem, as a Commonwealth country<br>
-<strong>note:</strong> adopted 1973; in addition to the national anthem, "God Save the King" serves as the royal anthem for the Commonwealth country (see United Kingdom)<br>
 
 ## Economy
 

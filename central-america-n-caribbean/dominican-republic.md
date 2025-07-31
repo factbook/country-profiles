@@ -316,7 +316,8 @@ _dual citizenship recognized_: yes<br>
 _residency requirement for naturalization_: 2 years<br>
 
 **Suffrage**<br>
-18 years of age; universal and compulsory; married persons regardless of age can vote; note - members of the armed forces and national police by law cannot vote<br>
+18 years of age; universal and compulsory; married persons can vote, regardless of age <br>
+<strong>note:</strong> members of the armed forces and national police by law cannot vote<br>
 
 **Executive branch**<br>
 _chief of state_: President Luis Rodolfo ABINADER Corona (since 16 August 2020)<br>
@@ -395,11 +396,10 @@ palmchat (bird)<br>
 **National color(s)**<br>
 red, white, blue<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "Himno Nacional" (National Anthem)<br>
 _lyrics/music_: Emilio PRUD'HOMME/Jose REYES<br>
-_history_: adopted 1934; also known as "Quisqueyanos valientes" (Valiant Sons of Quisqueye); the anthem refers to the Dominican people as "Quisqueyanos," which comes from the ethnic name for the island<br>
-<strong>note:</strong> adopted 1934; also known as "Quisqueyanos valientes" (Valiant Sons of Quisqueye); the anthem refers to the Dominican people as "Quisqueyanos," which comes from the ethnic name for the island<br>
+_history_: adopted 1934; also known as "Quisqueyanos valientes" (Valiant Sons of Quisqueye); the anthem refers to the Dominican people as Quisqueyanos, which comes from the ethnic name for the island<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

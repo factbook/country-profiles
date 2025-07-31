@@ -230,12 +230,13 @@ _amendment process_: proposed by constitutional convention, by public petition, 
 see United States<br>
 
 **Suffrage**<br>
-18 years of age; universal; note - indigenous inhabitants are US citizens but do not vote in US presidential elections<br>
+18 years of age; universal<br>
+<strong>note:</strong> inhabitants are US citizens but do not vote in US presidential elections<br>
 
 **Executive branch**<br>
 _chief of state_: President Donald J. TRUMP (since 20 January 2025)<br>
-_head of government_: Governor Arnold PALACIOS (since 9 January 2023)<br>
-_cabinet_: Cabinet appointed by the governor with the advice and consent of the Senate<br>
+_head of government_: Governor David M. APATANG (since 24 July 2025)<br>
+_cabinet_: Sworn in by CNMI Chief Justice Alexandro Castro on Thursday, 24 July 2025<br>
 _election/appointment process_: president and vice president indirectly elected on the same ballot by an Electoral College of electors chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of the Northern Mariana Islands do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by absolute majority vote in 2 rounds, if needed<br>
 _most recent election date_: 8 November 2022, with a runoff held on 25 November 2022<br>
 _election results_: <br><em>2022: </em>Arnold PALACIOS elected governor in second round; percent of vote in first round - Ralph TORRES (Republican) 38.8%; Arnold PALACIOS (independent) 32.2%, Tina SABLAN (Democrat) 28%; percent of vote in second round - Arnold PALACIOS 54%, Ralph TORRES 46%; David APATANG (independent) elected lieutenant governor<br><br><em>2018: </em>Ralph TORRES elected governor; percent of vote - Ralph TORRES (Republican) 62.2%, Juan BABAUTA (independent) 37.8%;  Arnold PALACIOS elected lieutenant governor<br>
@@ -274,11 +275,10 @@ latte stone<br>
 **National color(s)**<br>
 blue, white<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "The Star-Spangled Banner"<br>
 _lyrics/music_: Francis Scott KEY/John Stafford SMITH<br>
 _history_: official anthem, as a US commonwealth<br>
-<strong>note:</strong> adopted 1996; the Carolinian version of the song is known as "Satil Matawal Pacifico;" in addition to the local anthem, "The Star-Spangled Banner" is the official anthem for the islands, as a US commonwealth (see United States)<br>
 
 ## Economy
 

@@ -285,7 +285,8 @@ ITUC (NGOs), PIF, SPC, UPU, WMO<br>
 none (overseas land of France)<br>
 
 **National holiday**<br>
-F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - the local holiday is Internal Autonomy Day, 29 June (1880)<br>
+Fête de la Fédération, 14 July (1790)<br>
+<strong>note 1:</strong> the local holiday is Internal Autonomy Day, 29 June (1880)<br><br><strong>note 2:</strong> often incorrectly referred to as Bastille Day, France's national celebration commemorates the storming of the Bastille prison on 14 July 1789 and the establishment of a constitutional monarchy; other names for the holiday are <em>la Fête nationale</em> (National Holiday) and <em>le Quatorze Juillet</em> (14th of July)<br>
 
 **Flag description**<br>
 two red horizontal bands flank a wide white band in a 1:2:1 ratio; centered on the white band is a disk with a blue-and-white wave pattern depicting the sea on the lower half and a gold-and-white ray pattern depicting the sun on the upper half; a Polynesian canoe on the disk has a crew of five, represented by five stars that also symbolize the five island groups; red and white are traditional Polynesian colors<br>
@@ -297,11 +298,10 @@ outrigger canoe, Tahitian gardenia flower (<em>Gardenia taitensis</em>)<br>
 **National color(s)**<br>
 red, white<br>
 
-**National anthem**<br>
-_title_: "La Marseillaise"<br>
+**National anthem(s)**<br>
+_title_: "La Marseillaise" (The Song of Marseille)<br>
 _lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
 _history_: official anthem, as a French territory<br>
-<strong>note:</strong> adopted 1993; serves as a local anthem; "La Marseillaise" is the official anthem for French Polynesia, as a territory of France (see France)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 cultural, 1 mixed); note - excerpted from the France entry<br>

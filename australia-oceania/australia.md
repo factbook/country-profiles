@@ -25,7 +25,7 @@ _water_: 58,920 sq km<br>
 <strong>note:</strong> includes Lord Howe Island and Macquarie Island<br>
 
 **Area - comparative**<br>
-slightly smaller than the US contiguous 48 states<br>
+slightly smaller than the 48 contiguous US states<br>
 
 **Land boundaries**<br>
 _total_: 0 km<br>
@@ -82,7 +82,7 @@ Great Artesian Basin, Canning Basin<br>
 population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the states and territories, New South Wales has, by far, the largest population; the interior, or "outback," has a very sparse population<br>
 
 **Natural hazards**<br>
-<p>cyclones along the coast; severe droughts; forest fires</p><p><strong>volcanism:</strong> volcanic activity on Heard and McDonald Islands</p><br>
+cyclones along the coast; severe droughts; forest fires <br><br><strong>volcanism:</strong> volcanic activity on Heard and McDonald Islands<br>
 
 **Geography - note**<br>
 <strong>note 1:</strong> world's smallest continent but sixth-largest country; the largest country in Oceania, the largest country entirely in the Southern Hemisphere, and the largest country without land borders<br><br><strong>note 2:</strong> the Great Dividing Range that runs along eastern Australia is that continent’s longest mountain range and the third-longest land-based range in the world; the term "Great Dividing Range" refers to the fact that the mountains form a watershed crest from which all of the rivers of eastern Australia flow – east, west, north, and south<br><br><strong>note 3:</strong> Australia is the only continent without glaciers; it is the driest inhabited continent on earth; Perth on the west coast is home to the invigorating sea breeze known as the "Fremantle Doctor," one of the most consistent winds in the world; Australia hosts 10% of the world's biodiversity, and a great number of its flora and fauna exist nowhere else in the world<br>
@@ -399,7 +399,7 @@ green, gold<br>
 **National coat of arms**<br>
 King George V of the United Kingdom granted the current Commonwealth Coat of Arms to Australia on 19 September 1912; the center of the shield has the symbols of Australia&rsquo;s six states; the kangaroo and the emu symbolize a nation moving forward, since neither animal can move backward easily; the gold Commonwealth star sits above the shield, with six points representing the Australian states and the seventh representing the territories; the gold and blue in the wreath under the star are the livery, or identifying, colors for the coat of arms; Australia&rsquo;s floral emblem, the golden wattle, frames the shield<br>
 
-**National anthem**<br>
+**National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 _history_: <p>royal anthem, as a Commonwealth country</p><br>
