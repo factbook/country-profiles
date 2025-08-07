@@ -73,7 +73,8 @@ _salt water lake(s)_: Lake Eyre - 9,690 sq km; Lake Torrens (ephemeral) - 5,780 
 River Murray - 2,508 km; Darling River - 1,545 km; Murrumbidgee River - 1,485 km; Lachlan River - 1,339 km; Cooper Creek - 1,113 km; Flinders River - 1,004 km<br>
 
 **Major watersheds (area sq km)**<br>
-Indian Ocean drainage: <em>(Great Australian Bight)</em> Murray-Darling (1,050,116 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Eyre (1,212,198 sq km)<br>
+_Indian Ocean drainage_: <em>(Great Australian Bight)</em> Murray-Darling (1,050,116 sq km)<br>
+_Internal (endorheic basin) drainage_: Lake Eyre (1,212,198 sq km)<br>
 
 **Major aquifers**<br>
 Great Artesian Basin, Canning Basin<br>
@@ -332,13 +333,13 @@ _legislative structure_: bicameral<br>
 
 **Legislative branch - lower chamber**<br>
 _chamber name_: House of Representatives<br>
-_number of seats_: 151 (all directly elected)<br>
+_number of seats_: 150 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 3 years<br>
 _most recent election date_: 5/3/2025<br>
-_parties elected and seats per party_: ALP (94); Liberal National coalition (43); the Greens (1); KAP (1); Independents (10)<br>
-_percentage of women in chamber_: 45.7%<br>
+_parties elected and seats per party_: Australian Labor Party (ALP) (94); Liberal National coalition (43); Independents (10); Other (3)<br>
+_percentage of women in chamber_: 46%<br>
 _expected date of next election_: May 2028<br>
 
 **Legislative branch - upper chamber**<br>
@@ -348,7 +349,7 @@ _electoral system_: proportional representation<br>
 _scope of elections_: partial renewal<br>
 _term in office_: 6 years<br>
 _most recent election date_: 5/3/2025<br>
-_parties elected and seats per party_: ALP (16); Liberal (6); the Greens (6); Liberals/Nationals (4); One Nation (3); Liberal National Party of Queensland (2); others (3)<br>
+_parties elected and seats per party_: Australian Labor Party (ALP) (16); Liberal (6); The Greens (6); Liberal/Nationals (4); Pauline Hanson's One Nation (3); Liberal National Party of Queensland (2); Other (3)<br>
 _percentage of women in chamber_: 56.6%<br>
 _expected date of next election_: May 2028<br>
 
@@ -416,25 +417,25 @@ _selected World Heritage Site locales_: Great Barrier Reef (n); Greater Blue Mou
 <p>high-income and globally integrated economy; strong mining, manufacturing, and service sectors driving slow but steady growth; net exporter, driven by commodities to East Asian trade partners; weak productivity and aging population straining labor force participation</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.588 trillion (2023 est.)<br>
-$1.535 trillion (2022 est.)<br>
-$1.472 trillion (2021 est.)<br>
+$1.635 trillion (2024 est.)<br>
+$1.611 trillion (2023 est.)<br>
+$1.558 trillion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.44% (2023 est.)<br>
-4.24% (2022 est.)<br>
-2.11% (2021 est.)<br>
+1.4% (2024 est.)<br>
+3.4% (2023 est.)<br>
+4.2% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$59,600 (2023 est.)<br>
-$59,000 (2022 est.)<br>
-$57,300 (2021 est.)<br>
+$60,100 (2024 est.)<br>
+$60,500 (2023 est.)<br>
+$59,900 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.728 trillion (2023 est.)<br>
+$1.752 trillion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -444,18 +445,18 @@ $1.728 trillion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.6% (2023 est.)<br>
-_industry_: 27.7% (2023 est.)<br>
-_services_: 63.6% (2023 est.)<br>
+_agriculture_: 2.2% (2024 est.)<br>
+_industry_: 26% (2024 est.)<br>
+_services_: 65.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 50.3% (2023 est.)<br>
-_government consumption_: 21.3% (2023 est.)<br>
-_investment in fixed capital_: 23.3% (2023 est.)<br>
-_investment in inventories_: 0.7% (2023 est.)<br>
-_exports of goods and services_: 26.8% (2023 est.)<br>
-_imports of goods and services_: -22.4% (2023 est.)<br>
+_household consumption_: 51.2% (2024 est.)<br>
+_government consumption_: 22.2% (2024 est.)<br>
+_investment in fixed capital_: 24.3% (2024 est.)<br>
+_investment in inventories_: 0.1% (2024 est.)<br>
+_exports of goods and services_: 24.7% (2024 est.)<br>
+_imports of goods and services_: -22.6% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -466,17 +467,17 @@ wheat, sugarcane, barley, rapeseed, milk, cotton, sorghum, beef, lentils, grapes
 mining, industrial and transportation equipment, food processing, chemicals, steel<br>
 
 **Industrial production growth rate**<br>
-0.88% (2023 est.)<br>
+0.5% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-14.752 million (2024 est.)<br>
+14.912 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 4.1% (2024 est.)<br>
 3.7% (2023 est.)<br>
-3.7% (2022 est.)<br>
+3.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -484,9 +485,6 @@ _total_: 9.5% (2024 est.)<br>
 _male_: 10.2% (2024 est.)<br>
 _female_: 8.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
-
-**Population below poverty line**<br>
-13.4% (2020 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 34.3 (2018 est.)<br>
@@ -502,9 +500,9 @@ _highest 10%_: 26.2% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.1% of GDP (2024 est.)<br>
 0.1% of GDP (2023 est.)<br>
-0.08% of GDP (2022 est.)<br>
-0.06% of GDP (2021 est.)<br>
+0.1% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -555,7 +553,7 @@ refined petroleum, cars, trucks, broadcasting equipment, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$54.455 billion (2024 est.)<br>
+$60.404 billion (2024 est.)<br>
 $61.703 billion (2023 est.)<br>
 $56.702 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

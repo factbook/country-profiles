@@ -31,7 +31,7 @@ _total_: 2,237 km<br>
 _border countries_: Bosnia and Herzegovina 956 km; Hungary 348 km; Montenegro 19 km; Serbia 314 km; Slovenia 600 km<br>
 
 **Coastline**<br>
-5,835 km (mainland 1,777 km, islands 4,058 km)<br>
+5,835 km (mainland 1,777 km; islands 4,058 km)<br>
 
 **Maritime claims**<br>
 _territorial sea_: 12 nm<br>
@@ -66,7 +66,7 @@ _other_: 39.4% (2022 est.)<br>
 Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+_Atlantic Ocean drainage_: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
 more of the population lives in the northern half of the country, with approximately a quarter of the populace residing in and around the capital of Zagreb; many of the islands are sparsely populated<br>
@@ -394,46 +394,46 @@ _selected World Heritage Site locales_: Plitvice Lakes National Park (n); Histor
 <p>upper-middle-income Balkan economy; newest euro user (introduced in 2023); increased investments from EU structural funds and tourism sector contributing to strong but moderating economic growth; declining energy prices and restrictive monetary policy easing inflation; historically low unemployment rate with labor shortages within services and manufacturing sectors</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$158.698 billion (2023 est.)<br>
-$153.625 billion (2022 est.)<br>
-$143.189 billion (2021 est.)<br>
+$164.825 billion (2024 est.)<br>
+$158.769 billion (2023 est.)<br>
+$153.693 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.8% (2024 est.)<br>
 3.3% (2023 est.)<br>
-7.29% (2022 est.)<br>
-13.04% (2021 est.)<br>
+7.3% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$42,600 (2024 est.)<br>
 $41,100 (2023 est.)<br>
-$39,800 (2022 est.)<br>
-$36,900 (2021 est.)<br>
+$39,900 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$84.394 billion (2023 est.)<br>
+$92.526 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3% (2024 est.)<br>
 7.9% (2023 est.)<br>
 10.8% (2022 est.)<br>
-2.6% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3.4% (2023 est.)<br>
-_industry_: 21% (2023 est.)<br>
-_services_: 59.1% (2023 est.)<br>
+_agriculture_: 3.4% (2024 est.)<br>
+_industry_: 19.8% (2024 est.)<br>
+_services_: 59.7% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 57.3% (2023 est.)<br>
-_government consumption_: 21.3% (2023 est.)<br>
-_investment in fixed capital_: 22.5% (2023 est.)<br>
-_investment in inventories_: 0.8% (2023 est.)<br>
-_exports of goods and services_: 52.9% (2023 est.)<br>
-_imports of goods and services_: -54.8% (2023 est.)<br>
+_household consumption_: 57% (2024 est.)<br>
+_government consumption_: 22.6% (2024 est.)<br>
+_investment in fixed capital_: 23.7% (2024 est.)<br>
+_investment in inventories_: -0.2% (2024 est.)<br>
+_exports of goods and services_: 49.8% (2024 est.)<br>
+_imports of goods and services_: -52.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -444,15 +444,15 @@ maize, wheat, sugar beets, milk, barley, soybeans, sunflower seeds, potatoes, po
 chemicals and plastics, machine tools, fabricated metal, electronics, pig iron and rolled steel products, aluminum, paper, wood products, construction materials, textiles, shipbuilding, petroleum and petroleum refining, food and beverages, tourism<br>
 
 **Industrial production growth rate**<br>
-0.56% (2023 est.)<br>
+2.1% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.718 million (2024 est.)<br>
+1.733 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.2% (2024 est.)<br>
+5.3% (2024 est.)<br>
 6.1% (2023 est.)<br>
 7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -468,7 +468,7 @@ _female_: 18.2% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-28.9 (2021 est.)<br>
+30 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -476,14 +476,14 @@ _on food_: 18.5% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 7.9% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.1% (2021 est.)<br>
-_highest 10%_: 22.3% (2021 est.)<br>
+_lowest 10%_: 2.9% (2022 est.)<br>
+_highest 10%_: 23% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+7.3% of GDP (2024 est.)<br>
 7.2% of GDP (2023 est.)<br>
-7.52% of GDP (2022 est.)<br>
-7.22% of GDP (2021 est.)<br>
+7.5% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -500,15 +500,15 @@ _expenditures_: $3.662 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$1.049 billion (2024 est.)<br>
 $635.97 million (2023 est.)<br>
 -$2.621 billion (2022 est.)<br>
-$557.487 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$46.601 billion (2024 est.)<br>
 $45.064 billion (2023 est.)<br>
 $41.907 billion (2022 est.)<br>
-$34.368 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -520,9 +520,9 @@ ships, garments, electricity, packaged medicine, wood (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$49.86 billion (2024 est.)<br>
 $46.811 billion (2023 est.)<br>
 $46.769 billion (2022 est.)<br>
-$36.259 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

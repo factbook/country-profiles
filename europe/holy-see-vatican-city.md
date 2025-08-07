@@ -233,16 +233,13 @@ limited, tourism-based economy; euro user with own minted coins; produces commem
 **Industries**<br>
 printing; production of coins, medals, postage stamps; mosaics, staff uniforms; worldwide banking and financial activities<br>
 
-**Labor force**<br>
-4,822 (2016)<br>
-
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 <strong>note: </strong>while not an EU member state, the Holy See has a 2000 monetary agreement with Italy and the EU to produce limited euro coinage—but not banknotes—that began enforcement in January 2002<br>
 
 ## Energy

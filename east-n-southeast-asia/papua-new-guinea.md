@@ -37,7 +37,7 @@ _border countries_: Indonesia 824 km<br>
 _territorial sea_: 12 nm<br>
 _continental shelf_: 200-m depth or to the depth of exploitation<br>
 _exclusive fishing zone_: 200 nm<br>
-measured from claimed archipelagic baselines<br>
+<strong>note: </strong>measured from claimed archipelagic baselines<br>
 
 **Climate**<br>
 tropical; northwest monsoon (December to March), southeast monsoon (May to October); slight seasonal temperature variation<br>
@@ -388,25 +388,25 @@ _selected World Heritage Site locales_: Kuk Early Agricultural Site<br>
 <p>lower-middle-income Pacific island economy; primarily informal agrarian sector; natural-resource-rich and key exporter of liquified natural gas; collapse in betel nut prices, tighter monetary policy, and improved foreign-exchange availability contributing to declining inflation; challenges include lack of progress in infrastructure, agricultural reform, and corruption</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$43.371 billion (2023 est.)<br>
+$45.487 billion (2024 est.)<br>
+$43.697 billion (2023 est.)<br>
 $42.093 billion (2022 est.)<br>
-$39.82 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.04% (2023 est.)<br>
-5.71% (2022 est.)<br>
--0.78% (2021 est.)<br>
+4.1% (2024 est.)<br>
+3.8% (2023 est.)<br>
+5.7% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$4,300 (2024 est.)<br>
 $4,200 (2023 est.)<br>
 $4,100 (2022 est.)<br>
-$4,000 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$30.729 billion (2023 est.)<br>
+$32.538 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -416,9 +416,9 @@ $30.729 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 17% (2023 est.)<br>
-_industry_: 36.3% (2023 est.)<br>
-_services_: 42% (2023 est.)<br>
+_agriculture_: 17.2% (2024 est.)<br>
+_industry_: 37.2% (2024 est.)<br>
+_services_: 41.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -437,7 +437,7 @@ oil palm fruit, coconuts, bananas, fruits, sweet potatoes, game meat, yams, root
 oil and gas; mining (gold, copper, and nickel); palm oil processing; plywood and wood chip production;&nbsp;copra crushing; construction; tourism; fishing; livestock (pork, poultry, cattle) and dairy farming; spice products (turmeric, vanilla, ginger, cardamom, chili, pepper, citronella, and nutmeg)<br>
 
 **Industrial production growth rate**<br>
--0.59% (2023 est.)<br>
+3.6% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -445,7 +445,7 @@ oil and gas; mining (gold, copper, and nickel); palm oil processing; plywood and
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.7% (2024 est.)<br>
+2.8% (2024 est.)<br>
 2.7% (2023 est.)<br>
 2.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -457,9 +457,9 @@ _female_: 3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-0.03% of GDP (2023 est.)<br>
-0.05% of GDP (2022 est.)<br>
-0.01% of GDP (2021 est.)<br>
+0% of GDP (2023 est.)<br>
+0% of GDP (2022 est.)<br>
+0% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>

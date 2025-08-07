@@ -63,7 +63,7 @@ _other_: 5% (2022 est.)<br>
 600 sq km (2020)<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
+_Atlantic Ocean drainage_: Amazon (6,145,186 sq km)<br>
 
 **Population distribution**<br>
 population is concentrated along the northern coastal strip; the remainder of the country is sparsely populated<br>
@@ -374,25 +374,25 @@ _selected World Heritage Site locales_: Central Suriname Nature Reserve (n); His
 upper middle-income South American economy; new floating currency regime; key aluminum goods, gold, and hydrocarbon exporter; new IMF plan for economic recovery and fiscal sustainability; controversial hardwood industry<br>
 
 **Real GDP (purchasing power parity)**<br>
+$12.316 billion (2024 est.)<br>
 $11.976 billion (2023 est.)<br>
 $11.68 billion (2022 est.)<br>
-$11.405 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.54% (2023 est.)<br>
-2.41% (2022 est.)<br>
--2.44% (2021 est.)<br>
+2.8% (2024 est.)<br>
+2.5% (2023 est.)<br>
+2.4% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$19,400 (2024 est.)<br>
 $19,000 (2023 est.)<br>
 $18,700 (2022 est.)<br>
-$18,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.455 billion (2023 est.)<br>
+$4.714 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -407,14 +407,6 @@ _industry_: 39.9% (2023 est.)<br>
 _services_: 48.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
-**GDP - composition, by end use**<br>
-_household consumption_: 27.6% (2017 est.)<br>
-_government consumption_: 11.7% (2017 est.)<br>
-_investment in fixed capital_: 52.5% (2017 est.)<br>
-_investment in inventories_: 26.5% (2017 est.)<br>
-_exports of goods and services_: 68.9% (2017 est.)<br>
-_imports of goods and services_: -60.6% (2017 est.)<br>
-
 **Agricultural products**<br>
 rice, sugarcane, oranges, vegetables, chicken, cassava, plantains, pineapples, eggs, citrus fruits (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
@@ -423,7 +415,7 @@ rice, sugarcane, oranges, vegetables, chicken, cassava, plantains, pineapples, e
 gold mining, oil, lumber, food processing, fishing<br>
 
 **Industrial production growth rate**<br>
-2.07% (2023 est.)<br>
+2.1% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -431,8 +423,8 @@ gold mining, oil, lumber, food processing, fishing<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.3% (2024 est.)<br>
-7.6% (2023 est.)<br>
+7.4% (2024 est.)<br>
+7.7% (2023 est.)<br>
 8.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -444,30 +436,26 @@ _female_: 35.9% (2024 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 39.2 (2022 est.)<br>
+<strong>note:</strong> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2% (2022 est.)<br>
 _highest 10%_: 30.1% (2022 est.)<br>
+% share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-4.25% of GDP (2023 est.)<br>
-3.91% of GDP (2022 est.)<br>
-4.75% of GDP (2021 est.)<br>
+3.4% of GDP (2024 est.)<br>
+4.3% of GDP (2023 est.)<br>
+3.9% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $863 million (2019 est.)<br>
 _expenditures_: $1.648 billion (2019 est.)<br>
 
-**Public debt**<br>
-69.3% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-16.4% (of GDP) (2017 est.)<br>
-
 **Current account balance**<br>
-$9.166 million (2024 est.)<br>
-$147.978 million (2023 est.)<br>
+$9.306 million (2024 est.)<br>
+$148.118 million (2023 est.)<br>
 $76.321 million (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
@@ -500,7 +488,7 @@ refined petroleum, ships, excavation machinery, trucks, tobacco (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.53 billion (2024 est.)<br>
+$1.632 billion (2024 est.)<br>
 $1.346 billion (2023 est.)<br>
 $1.195 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

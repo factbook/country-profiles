@@ -419,25 +419,25 @@ _selected World Heritage Site locales_: Medina of Fez; Medina of Marrakesh; Ksar
 lower middle-income North African economy; ongoing recovery from recent drought and earthquake; rebounding via tourism, manufacturing, and raw materials processing; significant trade and investment with EU; reform programs include fiscal rebalancing, state enterprise governance and private sector investments<br>
 
 **Real GDP (purchasing power parity)**<br>
+$350.594 billion (2024 est.)<br>
 $339.603 billion (2023 est.)<br>
 $328.425 billion (2022 est.)<br>
-$323.485 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.2% (2024 est.)<br>
 3.4% (2023 est.)<br>
-1.53% (2022 est.)<br>
-8.02% (2021 est.)<br>
+1.5% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$9,100 (2024 est.)<br>
 $8,900 (2023 est.)<br>
 $8,700 (2022 est.)<br>
-$8,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$144.417 billion (2023 est.)<br>
+$154.431 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -447,18 +447,18 @@ $144.417 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 11.1% (2023 est.)<br>
-_industry_: 24.6% (2023 est.)<br>
-_services_: 54.3% (2023 est.)<br>
+_agriculture_: 10.1% (2024 est.)<br>
+_industry_: 24.1% (2024 est.)<br>
+_services_: 54.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 61.4% (2023 est.)<br>
-_government consumption_: 18.1% (2023 est.)<br>
-_investment in fixed capital_: 25.4% (2023 est.)<br>
-_investment in inventories_: 3.4% (2023 est.)<br>
-_exports of goods and services_: 42.8% (2023 est.)<br>
-_imports of goods and services_: -51% (2023 est.)<br>
+_household consumption_: 61.3% (2024 est.)<br>
+_government consumption_: 18% (2024 est.)<br>
+_investment in fixed capital_: 26.1% (2024 est.)<br>
+_investment in inventories_: 3.8% (2024 est.)<br>
+_exports of goods and services_: 43.3% (2024 est.)<br>
+_imports of goods and services_: -52.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -469,7 +469,7 @@ wheat, milk, potatoes, sugar beets, tomatoes, barley, olives, apples, tangerines
 automotive parts, phosphate mining and processing, aerospace, food processing, leather goods, textiles, construction, energy, tourism<br>
 
 **Industrial production growth rate**<br>
-1.34% (2023 est.)<br>
+5% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -477,8 +477,8 @@ automotive parts, phosphate mining and processing, aerospace, food processing, l
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.9% (2024 est.)<br>
-9% (2023 est.)<br>
+9% (2024 est.)<br>
+9.1% (2023 est.)<br>
 9.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -488,23 +488,24 @@ _male_: 22% (2024 est.)<br>
 _female_: 22.4% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
+**Population below poverty line**<br>
+3.9% (2022 est.)<br>
+<strong>note:</strong> % of population with income below national poverty line<br>
+
 **Average household expenditures**<br>
 _on food_: 34.5% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 2.1% of household expenditures (2023 est.)<br>
 
 **Remittances**<br>
-8.14% of GDP (2023 est.)<br>
-8.53% of GDP (2022 est.)<br>
-7.68% of GDP (2021 est.)<br>
+8.1% of GDP (2023 est.)<br>
+8.5% of GDP (2022 est.)<br>
+7.7% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $35.356 billion (2022 est.)<br>
 _expenditures_: $36.939 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
-
-**Public debt**<br>
-65.1% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 21% (of GDP) (2023 est.)<br>
@@ -545,7 +546,7 @@ refined petroleum, cars, vehicle parts/accessories, natural gas, coal (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$35.269 billion (2024 est.)<br>
+$37.134 billion (2024 est.)<br>
 $36.328 billion (2023 est.)<br>
 $32.314 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

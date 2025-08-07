@@ -38,7 +38,7 @@ _border countries_: Colombia 708 km; Peru 1529 km<br>
 _territorial sea_: 12 nm<br>
 _exclusive economic zone_: 200 nm<br>
 _continental shelf_: 200 nm<br>
-<strong>note:</strong> Ecuador has declared its right to extend its continental shelf to 350 nm measured from the baselines of the Galapagos Archipelago<br>
+<strong>note:</strong> Ecuador has declared its right to extend its continental shelf to 350 nm, measured from the baselines of the Galapagos Archipelago<br>
 
 **Climate**<br>
 tropical along coast, becoming cooler inland at higher elevations; tropical in Amazonian jungle lowlands<br>
@@ -67,7 +67,7 @@ _other_: 28.7% (2022 est.)<br>
 12,520 sq km (2022)<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
+_Atlantic Ocean drainage_: Amazon (6,145,186 sq km)<br>
 
 **Population distribution**<br>
 nearly half of the population is concentrated in the interior, with large concentrations also found along the western coastal strip; the rainforests of the east remain sparsely populated<br>
@@ -276,8 +276,8 @@ _agricultural_: 8.8 billion cubic meters (2020 est.)<br>
 442.4 billion cubic meters (2020 est.)<br>
 
 **Geoparks**<br>
-_total global geoparks and regional networks_: 1<br>
-_global geoparks and regional networks_: Imbabura (2023)<br>
+_total global geoparks and regional networks_: 3 (2025)<br>
+_global geoparks and regional networks_: Imbabura: Napo Sumaco; Tungurahua (2025)<br>
 
 ## Government
 
@@ -353,7 +353,7 @@ _subordinate courts_: provincial courts (one for each province except Galapagos)
 Actuemos Ecuador or Actuemos<br>AMIGO movement, Independent Mobilizing Action Generating Opportunities (Movimiento AMIGO (Acción Movilizadora Independiente Generando Oportunidades)) or AM16O<br>Avanza Party or AVANZA<br>Central Democratic Movement or CD<br>Citizen Revolution Movement or MRC or RC5<br>Creating Opportunities Movement or CREO<br>Democratic Left or ID<br>Democracy Yes Movement (Movimiento Democracia Si)<br>For A Country Without Fear (Por Un País Sin Miedo) (an alliance including PSC, CD, and PSP)<br>Green Movement (Movimiento Verde)<br>Movimiento Construye or Construye<br>National Democratic Action (Acción Democrática Nacional) or ADN<br>Pachakutik Plurinational Unity Movement or MUPP<br>Patriotic Society Party or PSP<br>People, Equality, and Democracy Party (Partido Pueblo, Igualdad y Democracia) or PID<br>Popular Unity Party (Partido Unidad Popular) or UP<br>Revolutionary and Democratic Ethical Green Movement (Movimiento Verde Ético Revolucionario y Democrático) or MOVER<strong><br></strong>Social Christian Party or PSC<br>Socialist Party<br>Society United for More Action or SUMA<br>Total Renovation Movement (Movimiento Renovacion Total) or RETO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador-designate Pablo ZAMBRANO Albuja (since 20 March 2025)<br>
+_chief of mission_: Ambassador Pablo Agust&iacute;n ZAMBRANO Albuja (since 24 July 2025)<br>
 _chancery_: 2535 15th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 234-7200<br>
 _FAX_: [1] (202) 333-2893<br>
@@ -402,25 +402,25 @@ _selected World Heritage Site locales_: Historic Quito (c); Galápagos Islands (
 highly informal South American economy; USD currency user; major banana exporter; hard hit by COVID-19; macroeconomic fragility from oil dependency; successful debt restructuring; China funding budget deficits; social unrest hampering economic activity<br>
 
 **Real GDP (purchasing power parity)**<br>
-$260.213 billion (2023 est.)<br>
-$254.226 billion (2022 est.)<br>
-$239.415 billion (2021 est.)<br>
+$252.728 billion (2024 est.)<br>
+$257.889 billion (2023 est.)<br>
+$252.861 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.36% (2023 est.)<br>
-6.19% (2022 est.)<br>
-9.82% (2021 est.)<br>
+-2% (2024 est.)<br>
+2% (2023 est.)<br>
+5.9% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$14,500 (2023 est.)<br>
-$14,300 (2022 est.)<br>
-$13,500 (2021 est.)<br>
+$13,900 (2024 est.)<br>
+$14,300 (2023 est.)<br>
+$14,200 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$118.845 billion (2023 est.)<br>
+$124.676 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -430,18 +430,18 @@ $118.845 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 7.7% (2023 est.)<br>
-_industry_: 26.9% (2023 est.)<br>
-_services_: 59.7% (2023 est.)<br>
+_agriculture_: 9.5% (2024 est.)<br>
+_industry_: 26.5% (2024 est.)<br>
+_services_: 57.2% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 64.3% (2023 est.)<br>
-_government consumption_: 13.9% (2023 est.)<br>
-_investment in fixed capital_: 19.7% (2023 est.)<br>
-_investment in inventories_: 1.8% (2023 est.)<br>
-_exports of goods and services_: 29.1% (2023 est.)<br>
-_imports of goods and services_: -28.8% (2023 est.)<br>
+_household consumption_: 64.9% (2024 est.)<br>
+_government consumption_: 13.3% (2024 est.)<br>
+_investment in fixed capital_: 18.4% (2024 est.)<br>
+_investment in inventories_: 0.1% (2024 est.)<br>
+_exports of goods and services_: 30.3% (2024 est.)<br>
+_imports of goods and services_: -26.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -452,7 +452,7 @@ bananas, sugarcane, milk, oil palm fruit, maize, rice, plantains, chicken, pinea
 petroleum, food processing, textiles, wood products, chemicals<br>
 
 **Industrial production growth rate**<br>
--0.64% (2023 est.)<br>
+-3.7% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -461,7 +461,7 @@ petroleum, food processing, textiles, wood products, chemicals<br>
 
 **Unemployment rate**<br>
 4.8% (2024 est.)<br>
-3.5% (2023 est.)<br>
+3.6% (2023 est.)<br>
 3.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -472,7 +472,7 @@ _female_: 13% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-25.2% (2022 est.)<br>
+26% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -489,9 +489,9 @@ _highest 10%_: 33.2% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-4.59% of GDP (2023 est.)<br>
-4.07% of GDP (2022 est.)<br>
-4.07% of GDP (2021 est.)<br>
+5.2% of GDP (2024 est.)<br>
+4.5% of GDP (2023 est.)<br>
+4.1% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -499,23 +499,20 @@ _revenues_: $35.962 billion (2022 est.)<br>
 _expenditures_: $35.347 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-45.4% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
-13% (of GDP) (2022 est.)<br>
+13.1% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$2.346 billion (2023 est.)<br>
-$2.137 billion (2022 est.)<br>
-$2.939 billion (2021 est.)<br>
+$7.082 billion (2024 est.)<br>
+$2.217 billion (2023 est.)<br>
+$2.136 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$38.468 billion (2024 est.)<br>
 $35.687 billion (2023 est.)<br>
 $36.588 billion (2022 est.)<br>
-$29.284 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -527,9 +524,9 @@ crude petroleum, shellfish, bananas, fish, gold (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$33.97 billion (2024 est.)<br>
 $35.421 billion (2023 est.)<br>
 $36.644 billion (2022 est.)<br>
-$28.471 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -541,7 +538,7 @@ refined petroleum, coal tar oil, cars, packaged medicine, plastics (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$4.703 billion (2024 est.)<br>
+$6.908 billion (2024 est.)<br>
 $4.442 billion (2023 est.)<br>
 $8.459 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

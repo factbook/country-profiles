@@ -386,25 +386,25 @@ _selected World Heritage Site locales_: Singapore Botanic Gardens<br>
 <p>high-income, service-based economy; global financial hub; business-friendly policies and open to investment and trade; inflation easing but persistent in services; public investments in education, healthcare, and infrastructure; strong human capital development challenged by aging population</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$754.758 billion (2023 est.)<br>
-$746.73 billion (2022 est.)<br>
-$719.13 billion (2021 est.)<br>
+$800.304 billion (2024 est.)<br>
+$766.662 billion (2023 est.)<br>
+$752.948 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.08% (2023 est.)<br>
-3.84% (2022 est.)<br>
-9.69% (2021 est.)<br>
+4.4% (2024 est.)<br>
+1.8% (2023 est.)<br>
+4.1% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$127,500 (2023 est.)<br>
-$132,500 (2022 est.)<br>
-$131,900 (2021 est.)<br>
+$132,600 (2024 est.)<br>
+$129,600 (2023 est.)<br>
+$133,600 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$501.428 billion (2023 est.)<br>
+$547.387 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -414,18 +414,18 @@ $501.428 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0% (2023 est.)<br>
-_industry_: 22.4% (2023 est.)<br>
-_services_: 72.4% (2023 est.)<br>
+_agriculture_: 0% (2024 est.)<br>
+_industry_: 21.4% (2024 est.)<br>
+_services_: 73% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 31.3% (2023 est.)<br>
-_government consumption_: 10.2% (2023 est.)<br>
-_investment in fixed capital_: 22.2% (2023 est.)<br>
-_investment in inventories_: -1.2% (2023 est.)<br>
-_exports of goods and services_: 174.3% (2023 est.)<br>
-_imports of goods and services_: -136.9% (2023 est.)<br>
+_household consumption_: 31.5% (2024 est.)<br>
+_government consumption_: 10.6% (2024 est.)<br>
+_investment in fixed capital_: 21.9% (2024 est.)<br>
+_investment in inventories_: 0.3% (2024 est.)<br>
+_exports of goods and services_: 178.8% (2024 est.)<br>
+_imports of goods and services_: -143.6% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -436,16 +436,16 @@ chicken, eggs, vegetables, pork, duck, spinach, lettuce, pork offal, cabbages, p
 electronics, chemicals, financial services, oil drilling equipment, petroleum refining, biomedical products, scientific instruments, telecommunication equipment, processed food and beverages, ship repair, offshore platform construction, entrepot trade<br>
 
 **Industrial production growth rate**<br>
--2.89% (2023 est.)<br>
+4.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.672 million (2024 est.)<br>
+3.722 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.2% (2024 est.)<br>
-3.4% (2023 est.)<br>
+3.5% (2023 est.)<br>
 3.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -455,16 +455,9 @@ _male_: 5.6% (2024 est.)<br>
 _female_: 10.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Gini Index coefficient - distribution of family income**<br>
-45.9 (2017)<br>
-
 **Average household expenditures**<br>
 _on food_: 7% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 1.7% of household expenditures (2023 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.6%<br>
-_highest 10%_: 27.5% (2017)<br>
 
 **Remittances**<br>
 0% of GDP (2023 est.)<br>
@@ -478,11 +471,11 @@ _expenditures_: $75.448 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-177% of GDP (2023 est.)<br>
+175.6% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-14% (of GDP) (2023 est.)<br>
+13.9% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -520,7 +513,7 @@ integrated circuits, refined petroleum, crude petroleum, gold, gas turbines (202
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$365.494 billion (2024 est.)<br>
+$383.946 billion (2024 est.)<br>
 $359.835 billion (2023 est.)<br>
 $296.629 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

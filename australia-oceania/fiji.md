@@ -37,7 +37,7 @@ _territorial sea_: 12 nm<br>
 _contiguous zone_: 24 nm<br>
 _exclusive economic zone_: 200 nm<br>
 _continental shelf_: 200-m depth or to the depth of exploitation<br>
-measured from claimed archipelagic straight baselines<br>
+<strong>note: </strong>measured from claimed archipelagic straight baselines<br>
 
 **Climate**<br>
 tropical marine; only slight seasonal temperature variation<br>
@@ -378,46 +378,46 @@ _selected World Heritage Site locales_: Levuka Historical Port Town<br>
 upper-middle income, tourism-based Pacific island economy; susceptible to ocean rises; key energy and infrastructure investments; post-pandemic tourism resurgence; improved debt standing; limited workforce<br>
 
 **Real GDP (purchasing power parity)**<br>
+$13.1 billion (2024 est.)<br>
 $12.617 billion (2023 est.)<br>
 $11.734 billion (2022 est.)<br>
-$9.795 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-7.52% (2023 est.)<br>
-19.79% (2022 est.)<br>
--4.88% (2021 est.)<br>
+3.8% (2024 est.)<br>
+7.5% (2023 est.)<br>
+19.8% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$14,100 (2024 est.)<br>
 $13,700 (2023 est.)<br>
 $12,800 (2022 est.)<br>
-$10,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$5.442 billion (2023 est.)<br>
+$5.841 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.1% (2023 est.)<br>
-4.5% (2022 est.)<br>
-0.2% (2021 est.)<br>
+4.5% (2024 est.)<br>
+2.3% (2023 est.)<br>
+4.3% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 11.7% (2023 est.)<br>
-_industry_: 14.2% (2023 est.)<br>
-_services_: 55.1% (2023 est.)<br>
+_agriculture_: 8.4% (2024 est.)<br>
+_industry_: 14.1% (2024 est.)<br>
+_services_: 56.2% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 82.4% (2022 est.)<br>
-_government consumption_: 20.5% (2022 est.)<br>
-_investment in fixed capital_: 17.8% (2022 est.)<br>
-_investment in inventories_: 0.7% (2022 est.)<br>
-_exports of goods and services_: 48.2% (2022 est.)<br>
-_imports of goods and services_: -69.3% (2022 est.)<br>
+_household consumption_: 71.7% (2023 est.)<br>
+_government consumption_: 20.8% (2023 est.)<br>
+_investment in fixed capital_: 18.6% (2023 est.)<br>
+_investment in inventories_: 1.2% (2023 est.)<br>
+_exports of goods and services_: 57% (2023 est.)<br>
+_imports of goods and services_: -69.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -428,7 +428,7 @@ sugarcane, cassava, taro, vegetables, chicken, coconuts, eggs, ginger, milk, swe
 tourism, sugar processing, clothing, copra, gold, silver, lumber<br>
 
 **Industrial production growth rate**<br>
--4.86% (2023 est.)<br>
+7.3% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -436,9 +436,9 @@ tourism, sugar processing, clothing, copra, gold, silver, lumber<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.3% (2024 est.)<br>
-4.3% (2023 est.)<br>
-4.4% (2022 est.)<br>
+4.4% (2024 est.)<br>
+4.4% (2023 est.)<br>
+4.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -461,18 +461,15 @@ _highest 10%_: 24.2% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-9.19% of GDP (2023 est.)<br>
-9.23% of GDP (2022 est.)<br>
-9.14% of GDP (2021 est.)<br>
+9.2% of GDP (2023 est.)<br>
+9.2% of GDP (2022 est.)<br>
+9.1% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.019 billion (2021 est.)<br>
 _expenditures_: $1.488 billion (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
-
-**Public debt**<br>
-48.9% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 20.7% (of GDP) (2023 est.)<br>
@@ -513,7 +510,7 @@ refined petroleum, medical instruments, cars, broadcasting equipment, plastics (
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.597 billion (2024 est.)<br>
+$1.6 billion (2024 est.)<br>
 $1.548 billion (2023 est.)<br>
 $1.557 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

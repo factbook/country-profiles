@@ -349,25 +349,25 @@ _selected World Heritage Site locales_: Nan Madol: Ceremonial Center of Eastern 
 lower middle-income Pacific island economy; US aid reliance, sunsetting in 2024; low entrepreneurship; mostly fishing and farming; US dollar user; no patent laws; tourism remains underdeveloped; significant corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
-$437.759 million (2023 est.)<br>
-$434.352 million (2022 est.)<br>
-$437.759 million (2021 est.)<br>
+$432.679 million (2024 est.)<br>
+$429.59 million (2023 est.)<br>
+$427.529 million (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.78% (2023 est.)<br>
--0.78% (2022 est.)<br>
-2.8% (2021 est.)<br>
+0.7% (2024 est.)<br>
+0.5% (2023 est.)<br>
+-2.9% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,900 (2023 est.)<br>
-$3,900 (2022 est.)<br>
-$3,900 (2021 est.)<br>
+$3,800 (2024 est.)<br>
+$3,800 (2023 est.)<br>
+$3,800 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$460 million (2023 est.)<br>
+$471.425 million (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -377,15 +377,10 @@ $460 million (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 22.5% (2023 est.)<br>
-_industry_: 4.9% (2023 est.)<br>
-_services_: 66.8% (2023 est.)<br>
+_agriculture_: 23.3% (2023 est.)<br>
+_industry_: 5% (2023 est.)<br>
+_services_: 69.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
-
-**GDP - composition, by end use**<br>
-_exports of goods and services_: 27.3% (2023 est.)<br>
-_imports of goods and services_: -67.5% (2023 est.)<br>
-<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 coconuts, cassava, vegetables, sweet potatoes, bananas, pork, plantains, fruits, beef, eggs (2023)<br>
@@ -395,13 +390,13 @@ coconuts, cassava, vegetables, sweet potatoes, bananas, pork, plantains, fruits,
 tourism, construction; specialized aquaculture, craft items (shell and wood)<br>
 
 **Industrial production growth rate**<br>
-0.78% (2023 est.)<br>
+0.8% (2023 est.)<br>
 <strong>note:</strong> annual % change in industrial value added based on constant local currency<br>
 
 **Remittances**<br>
-5.07% of GDP (2023 est.)<br>
-5.43% of GDP (2022 est.)<br>
-5.98% of GDP (2021 est.)<br>
+5.3% of GDP (2023 est.)<br>
+5.6% of GDP (2022 est.)<br>
+6% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -410,7 +405,7 @@ _expenditures_: $87.355 million (2020 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-27.9% of GDP (2020 est.)<br>
+27.8% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
@@ -424,9 +419,9 @@ $22.408 million (2014 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$129.5 million (2024 est.)<br>
 $125.789 million (2023 est.)<br>
 $90.466 million (2022 est.)<br>
-$78.392 million (2021 est.)<br>
 <strong>note:</strong> GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -438,9 +433,9 @@ fish, diamonds, garments (2023)<br>
 <strong>note:</strong> top export commodities based on value in dollars over $500,000<br>
 
 **Imports**<br>
+$325.9 million (2024 est.)<br>
 $310.669 million (2023 est.)<br>
 $274.334 million (2022 est.)<br>
-$263.273 million (2021 est.)<br>
 <strong>note:</strong> GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

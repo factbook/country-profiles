@@ -342,7 +342,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 10/27/2024<br>
 _parties elected and seats per party_: Broad Front (FA) (48); National Party (PN) (29); Colorado Party (PC) (17); Other (5)<br>
-_percentage of women in chamber_: 28.3%<br>
+_percentage of women in chamber_: 31.3%<br>
 _expected date of next election_: October 2029<br>
 
 **Legislative branch - upper chamber**<br>
@@ -365,7 +365,7 @@ _subordinate courts_: Courts of Appeal; District Courts (Juzgados Letrados); Pea
 Broad Front or FA (Frente Amplio) - (a broad governing coalition that comprises 34 factions including Popular Participation Movement or MPP, Uruguay Assembly, Progressive Alliance, Broad Social Democratic Space, Socialist Party, Vertiente Artiguista, Christian Democratic Party, Big House, Communist Party, The Federal League, Fuerza Renovadora)<br>Colorado Party or PC (including Batllistas and Ciudadanos)<br>Intransigent Radical Ecologist Party (Partido Ecologista Radical Intransigente) or PERI<br>Independent Party<br>National Party or PN (including Todos (Everyone) and National Alliance)<br>Open Cabildo<br>Popular Unity<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Andr&eacute;s Augusto DUR&Aacute;N Hareau (since 23 December 2020)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Gerardo RUIZ NADAL (since 1 April 2025)<br>
 _chancery_: 1913 I Street NW, Washington, DC 20006<br>
 _telephone_: [1] (202) 331-1313<br>
 _FAX_: [1] (202) 331-8142<br>
@@ -414,25 +414,25 @@ _selected World Heritage Site locales_: Historic City of Colonia del Sacramento;
 high-income, export-oriented South American economy; South America&rsquo;s largest middle class; low socioeconomic inequality; growing homicide rates; growing Chinese and EU relations; 2019 Argentine recession hurt; key milk, beef, rice, and wool exporter<br>
 
 **Real GDP (purchasing power parity)**<br>
-$105.096 billion (2023 est.)<br>
-$104.711 billion (2022 est.)<br>
-$100.004 billion (2021 est.)<br>
+$108.502 billion (2024 est.)<br>
+$105.231 billion (2023 est.)<br>
+$104.456 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.37% (2023 est.)<br>
-4.71% (2022 est.)<br>
-5.56% (2021 est.)<br>
+3.1% (2024 est.)<br>
+0.7% (2023 est.)<br>
+4.5% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$31,000 (2023 est.)<br>
-$30,900 (2022 est.)<br>
-$29,400 (2021 est.)<br>
+$32,000 (2024 est.)<br>
+$31,100 (2023 est.)<br>
+$30,800 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$77.241 billion (2023 est.)<br>
+$80.962 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -442,18 +442,18 @@ $77.241 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 5.6% (2023 est.)<br>
-_industry_: 16.4% (2023 est.)<br>
-_services_: 66.3% (2023 est.)<br>
+_agriculture_: 6.4% (2024 est.)<br>
+_industry_: 16.8% (2024 est.)<br>
+_services_: 65.3% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 66.8% (2015 est.)<br>
 _government consumption_: 13.8% (2015 est.)<br>
-_investment in fixed capital_: 17.4% (2023 est.)<br>
-_investment in inventories_: -0.1% (2023 est.)<br>
-_exports of goods and services_: 27.5% (2023 est.)<br>
-_imports of goods and services_: -24.2% (2023 est.)<br>
+_investment in fixed capital_: 19.8% (2015 est.)<br>
+_investment in inventories_: -0.1% (2015 est.)<br>
+_exports of goods and services_: 22.5% (2015 est.)<br>
+_imports of goods and services_: -22.9% (2015 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -464,7 +464,7 @@ milk, rice, wheat, barley, soybeans, beef, rapeseed, sugarcane, maize, beef offa
 food processing, electrical machinery, transportation equipment, petroleum products, textiles, chemicals, beverages<br>
 
 **Industrial production growth rate**<br>
--3.74% (2023 est.)<br>
+4.4% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -472,7 +472,7 @@ food processing, electrical machinery, transportation equipment, petroleum produ
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.4% (2024 est.)<br>
+8.5% (2024 est.)<br>
 8.4% (2023 est.)<br>
 7.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -484,11 +484,11 @@ _female_: 29.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-9.9% (2022 est.)<br>
+10.1% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-40.6 (2022 est.)<br>
+40.9 (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -496,14 +496,14 @@ _on food_: 18.7% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 1.2% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.2% (2022 est.)<br>
-_highest 10%_: 30.5% (2022 est.)<br>
+_lowest 10%_: 2.1% (2023 est.)<br>
+_highest 10%_: 30.8% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.17% of GDP (2023 est.)<br>
-0.18% of GDP (2022 est.)<br>
-0.21% of GDP (2021 est.)<br>
+0.2% of GDP (2024 est.)<br>
+0.2% of GDP (2023 est.)<br>
+0.2% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -512,23 +512,23 @@ _expenditures_: $18.58 billion (2020 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-63% of GDP (2023 est.)<br>
+62.4% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-18.8% (of GDP) (2023 est.)<br>
+18.7% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$2.576 billion (2023 est.)<br>
--$2.604 billion (2022 est.)<br>
--$1.496 billion (2021 est.)<br>
+-$821.38 million (2024 est.)<br>
+-$2.64 billion (2023 est.)<br>
+-$2.675 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$22.005 billion (2023 est.)<br>
-$23.621 billion (2022 est.)<br>
-$19.973 billion (2021 est.)<br>
+$23.329 billion (2024 est.)<br>
+$21.946 billion (2023 est.)<br>
+$23.56 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -540,9 +540,9 @@ wood pulp, beef, milk, rice, wood (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$19.308 billion (2023 est.)<br>
-$19.407 billion (2022 est.)<br>
-$15.448 billion (2021 est.)<br>
+$19.117 billion (2024 est.)<br>
+$19.259 billion (2023 est.)<br>
+$19.639 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -554,7 +554,7 @@ crude petroleum, refined petroleum, cars, trucks, fertilizers (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$17.369 billion (2024 est.)<br>
+$17.378 billion (2024 est.)<br>
 $16.257 billion (2023 est.)<br>
 $15.127 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

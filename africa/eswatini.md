@@ -385,25 +385,25 @@ _history_: adopted 1968; uses elements of both ethnic Swazi and Western music st
 landlocked southern African economy; South African trade dependent and currency pegging; CMA and SACU member state; COVID-19 economic slowdown; growing utilities inflation; persistent poverty and unemployment; HIV/AIDS labor force disruptions<br>
 
 **Real GDP (purchasing power parity)**<br>
-$12.468 billion (2023 est.)<br>
-$11.872 billion (2022 est.)<br>
-$11.88 billion (2021 est.)<br>
+$12.885 billion (2024 est.)<br>
+$12.553 billion (2023 est.)<br>
+$12.135 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.01% (2023 est.)<br>
--0.07% (2022 est.)<br>
-10.68% (2021 est.)<br>
+2.6% (2024 est.)<br>
+3.4% (2023 est.)<br>
+1.1% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$10,100 (2023 est.)<br>
-$9,700 (2022 est.)<br>
-$9,800 (2021 est.)<br>
+$10,400 (2024 est.)<br>
+$10,200 (2023 est.)<br>
+$10,000 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$4.443 billion (2023 est.)<br>
+$4.892 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -413,17 +413,18 @@ $4.443 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 7.1% (2023 est.)<br>
-_industry_: 34.6% (2023 est.)<br>
-_services_: 51.3% (2023 est.)<br>
+_agriculture_: 6.8% (2023 est.)<br>
+_industry_: 34.7% (2023 est.)<br>
+_services_: 51.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 61.7% (2022 est.)<br>
-_government consumption_: 17.6% (2022 est.)<br>
-_investment in fixed capital_: 11.8% (2022 est.)<br>
-_exports of goods and services_: 43.8% (2022 est.)<br>
-_imports of goods and services_: -47.6% (2022 est.)<br>
+_household consumption_: 64% (2023 est.)<br>
+_government consumption_: 19.5% (2023 est.)<br>
+_investment in fixed capital_: 16.1% (2023 est.)<br>
+_investment in inventories_: 3.1% (2023 est.)<br>
+_exports of goods and services_: 48.7% (2023 est.)<br>
+_imports of goods and services_: -51.4% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -434,7 +435,7 @@ sugarcane, maize, root vegetables, grapefruits, oranges, milk, pineapples, banan
 soft drink concentrates, coal, forestry, sugar processing, textiles, and apparel<br>
 
 **Industrial production growth rate**<br>
-0.39% (2023 est.)<br>
+0.5% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -467,9 +468,9 @@ _highest 10%_: 42.7% (2016 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.8% of GDP (2023 est.)<br>
-2.69% of GDP (2022 est.)<br>
-2.79% of GDP (2021 est.)<br>
+1.7% of GDP (2023 est.)<br>
+2.7% of GDP (2022 est.)<br>
+2.8% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -478,10 +479,11 @@ _expenditures_: $1.183 billion (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-36.2% of GDP (2021 est.)<br>
+35.9% of GDP (2021 est.)<br>
+<strong data-olk-copy-source="MessageBody">note:</strong> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-24.7% (of GDP) (2021 est.)<br>
+24.5% (of GDP) (2021 est.)<br>
 <strong>note:</strong> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>

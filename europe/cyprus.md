@@ -401,25 +401,25 @@ services-based, high-income EU island economy; heavy tourism; sustained growth b
 <strong>note: </strong>Even though the whole of the island is part of the EU, implementation of the EU "acquis communautaire" has been suspended in the area administered by Turkish Cypriots, known locally as the Turkish Republic of Northern Cyprus, until political conditions permit the reunification of the island. Its market-based economy is roughly one-fifth the size of its southern neighbor and is likewise dominated by the service sector with a large portion of the population employed by the government. Manufacturing is limited mainly to food and beverages, furniture and fixtures, construction materials, metal and non-metal products, textiles and clothing. Little trade exists with the Republic of Cyprus outside of construction, historically relying heavily upon Turkey for financial aid, defense, telecommunications, utilities, and postal services. The Turkish Lira is the preferred currency, though foreign currencies are widely accepted in business transactions.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$49.526 billion (2023 est.)<br>
-$48.266 billion (2022 est.)<br>
-$44.955 billion (2021 est.)<br>
+$50.055 billion (2024 est.)<br>
+$48.386 billion (2023 est.)<br>
+$47.085 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.61% (2023 est.)<br>
-7.37% (2022 est.)<br>
-9.91% (2021 est.)<br>
+3.4% (2024 est.)<br>
+2.8% (2023 est.)<br>
+7.2% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$53,400 (2023 est.)<br>
-$52,900 (2022 est.)<br>
-$49,900 (2021 est.)<br>
+$53,300 (2024 est.)<br>
+$52,200 (2023 est.)<br>
+$51,600 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$33.887 billion (2023 est.)<br>
+$36.333 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -429,18 +429,18 @@ $33.887 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.2% (2023 est.)<br>
-_industry_: 10.5% (2023 est.)<br>
-_services_: 76.6% (2023 est.)<br>
+_agriculture_: 1.2% (2024 est.)<br>
+_industry_: 10.3% (2024 est.)<br>
+_services_: 76.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 59.7% (2023 est.)<br>
-_government consumption_: 18.6% (2023 est.)<br>
-_investment in fixed capital_: 21.2% (2023 est.)<br>
-_investment in inventories_: -0.7% (2023 est.)<br>
-_exports of goods and services_: 97% (2023 est.)<br>
-_imports of goods and services_: -95.8% (2023 est.)<br>
+_household consumption_: 58.9% (2024 est.)<br>
+_government consumption_: 18.6% (2024 est.)<br>
+_investment in fixed capital_: 20.5% (2024 est.)<br>
+_investment in inventories_: -1.6% (2024 est.)<br>
+_exports of goods and services_: 96.7% (2024 est.)<br>
+_imports of goods and services_: -93.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -452,7 +452,7 @@ tourism, food and beverage processing, cement and gypsum, ship repair and refurb
 <strong>note:</strong> area administered by Turkish Cypriots - foodstuffs, textiles, clothing, ship repair, clay, gypsum, copper, furniture<br>
 
 **Industrial production growth rate**<br>
-3.11% (2023 est.)<br>
+4.6% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -460,9 +460,9 @@ tourism, food and beverage processing, cement and gypsum, ship repair and refurb
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.6% (2024 est.)<br>
+5.7% (2024 est.)<br>
 6.1% (2023 est.)<br>
-6.8% (2022 est.)<br>
+6.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -476,18 +476,18 @@ _female_: 13.7% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-31.3 (2021 est.)<br>
+31.5 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.5% (2021 est.)<br>
-_highest 10%_: 25.7% (2021 est.)<br>
+_lowest 10%_: 3.6% (2022 est.)<br>
+_highest 10%_: 26.2% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.83% of GDP (2023 est.)<br>
-1.69% of GDP (2022 est.)<br>
-2.06% of GDP (2021 est.)<br>
+1.8% of GDP (2023 est.)<br>
+1.7% of GDP (2022 est.)<br>
+2.1% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -504,15 +504,15 @@ _expenditures_: $10.765 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$3.194 billion (2023 est.)<br>
--$1.709 billion (2022 est.)<br>
--$1.655 billion (2021 est.)<br>
+-$3.05 billion (2024 est.)<br>
+-$3.831 billion (2023 est.)<br>
+-$2.178 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$32.876 billion (2023 est.)<br>
-$31.552 billion (2022 est.)<br>
-$27.491 billion (2021 est.)<br>
+$35.12 billion (2024 est.)<br>
+$32.922 billion (2023 est.)<br>
+$32.563 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -524,9 +524,9 @@ ships, refined petroleum, packaged medicine, cheese, scented mixtures (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$32.441 billion (2023 est.)<br>
-$30.593 billion (2022 est.)<br>
-$26.1 billion (2021 est.)<br>
+$33.802 billion (2024 est.)<br>
+$32.556 billion (2023 est.)<br>
+$31.486 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -538,7 +538,7 @@ refined petroleum, ships, cars, packaged medicine, coal tar oil (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$921.269 million (2024 est.)<br>
+$2.088 billion (2024 est.)<br>
 $1.789 billion (2023 est.)<br>
 $1.671 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

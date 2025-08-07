@@ -72,7 +72,8 @@ _salt water lake(s)_: Laguna de Terminos - 1,550 sq km<br>
 Rio Grande river mouth (shared with US [s]) - 3,057 km; Colorado river mouth (shared with US [s]) - 2,333 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Gulf of America)</em> Rio Grande/Bravo (607,965 sq km)<br>Pacific Ocean drainage: <em>(Gulf of California)</em> Colorado (703,148 sq km)<br>
+_Atlantic Ocean drainage_: <em>(Gulf of America)</em> Rio Grande/Bravo (607,965 sq km)<br>
+_Pacific Ocean drainage_: <em>(Gulf of California)</em> Colorado (703,148 sq km)<br>
 
 **Major aquifers**<br>
 Atlantic and Gulf Coastal Plains Aquifer<br>
@@ -432,25 +433,25 @@ _selected World Heritage Site locales_: Historic Mexico City (c); Earliest 16th-
 <p>upper-middle-income economy; highly integrated with US via trade and nearshore manufacturing; weak domestic demand, fiscal consolidation, and trade uncertainty contributing to sluggish growth; low unemployment; challenges from income inequality, corruption, and cartel-based violence</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.873 trillion (2023 est.)<br>
-$2.784 trillion (2022 est.)<br>
-$2.685 trillion (2021 est.)<br>
+$2.883 trillion (2024 est.)<br>
+$2.842 trillion (2023 est.)<br>
+$2.751 trillion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.2% (2023 est.)<br>
-3.69% (2022 est.)<br>
-5.74% (2021 est.)<br>
+1.5% (2024 est.)<br>
+3.3% (2023 est.)<br>
+3.7% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$22,100 (2023 est.)<br>
-$21,600 (2022 est.)<br>
-$21,000 (2021 est.)<br>
+$22,000 (2024 est.)<br>
+$21,900 (2023 est.)<br>
+$21,400 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.789 trillion (2023 est.)<br>
+$1.853 trillion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -460,18 +461,18 @@ $1.789 trillion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3.8% (2023 est.)<br>
-_industry_: 31.6% (2023 est.)<br>
-_services_: 58.6% (2023 est.)<br>
+_agriculture_: 3.8% (2024 est.)<br>
+_industry_: 31.6% (2024 est.)<br>
+_services_: 58.2% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 70.3% (2023 est.)<br>
-_government consumption_: 11.1% (2023 est.)<br>
-_investment in fixed capital_: 24.3% (2023 est.)<br>
-_investment in inventories_: 0.3% (2023 est.)<br>
-_exports of goods and services_: 36% (2023 est.)<br>
-_imports of goods and services_: -37.2% (2023 est.)<br>
+_household consumption_: 70.3% (2024 est.)<br>
+_government consumption_: 11.2% (2024 est.)<br>
+_investment in fixed capital_: 24.2% (2024 est.)<br>
+_investment in inventories_: 0% (2024 est.)<br>
+_exports of goods and services_: 36.8% (2024 est.)<br>
+_imports of goods and services_: -37.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -482,7 +483,7 @@ sugarcane, maize, milk, oranges, sorghum, tomatoes, chicken, chillies/peppers, w
 food and beverages, tobacco, chemicals, iron and steel, petroleum, mining, textiles, clothing, motor vehicles, consumer durables, tourism<br>
 
 **Industrial production growth rate**<br>
-3.51% (2023 est.)<br>
+0.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -490,7 +491,7 @@ food and beverages, tobacco, chemicals, iron and steel, petroleum, mining, texti
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.7% (2024 est.)<br>
+2.8% (2024 est.)<br>
 2.8% (2023 est.)<br>
 3.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -519,9 +520,9 @@ _highest 10%_: 34.4% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+3.7% of GDP (2024 est.)<br>
 3.7% of GDP (2023 est.)<br>
 4.2% of GDP (2022 est.)<br>
-4.18% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -530,23 +531,23 @@ _expenditures_: $327.211 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-45.3% of GDP (2023 est.)<br>
+45.1% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-14.3% (of GDP) (2023 est.)<br>
+14.2% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$5.477 billion (2023 est.)<br>
--$17.599 billion (2022 est.)<br>
--$4.494 billion (2021 est.)<br>
+-$5.986 billion (2024 est.)<br>
+-$5.611 billion (2023 est.)<br>
+-$17.701 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$680.798 billion (2024 est.)<br>
 $649.729 billion (2023 est.)<br>
 $630.347 billion (2022 est.)<br>
-$537.714 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -558,9 +559,9 @@ cars, vehicle parts/accessories, crude petroleum, trucks, computers (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$697.067 billion (2024 est.)<br>
 $674.695 billion (2023 est.)<br>
 $672.914 billion (2022 est.)<br>
-$560.842 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -572,7 +573,7 @@ vehicle parts/accessories, refined petroleum, integrated circuits, broadcasting 
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$221.944 billion (2024 est.)<br>
+$232.035 billion (2024 est.)<br>
 $214.317 billion (2023 est.)<br>
 $201.119 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

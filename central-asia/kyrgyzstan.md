@@ -68,7 +68,7 @@ _salt water lake(s)_: Ozero Issyk-Kul 6,240 sq km<br>note - second largest salin
 Syr Darya river source (shared with Tajikistan, Uzbekistan, and Kazakhstan [m]) - 3,078 km <br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
+_Internal (endorheic basin) drainage_: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
 
 **Population distribution**<br>
 the vast majority of Kyrgyzstanis live in rural areas; densest population settlement is to the north in and around the capital, Bishkek, followed by Osh in the west; the least densely populated area is the east, in the Tien Shan mountains<br>
@@ -389,25 +389,25 @@ _selected World Heritage Site locales_: Sulaiman-Too Sacred Mountain (c); Silk R
 landlocked, lower-middle-income Central Asian economy; natural resource rich; growing hydroelectricity and tourism; high remittances; corruption limits investment; COVID-19 and political turmoil hurt GDP, limited public revenues, and increased spending<br>
 
 **Real GDP (purchasing power parity)**<br>
-$45.461 billion (2023 est.)<br>
+$50.907 billion (2024 est.)<br>
+$46.686 billion (2023 est.)<br>
 $42.826 billion (2022 est.)<br>
-$39.302 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-6.15% (2023 est.)<br>
-8.97% (2022 est.)<br>
-5.51% (2021 est.)<br>
+9% (2024 est.)<br>
+9% (2023 est.)<br>
+9% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$6,400 (2023 est.)<br>
+$7,000 (2024 est.)<br>
+$6,600 (2023 est.)<br>
 $6,100 (2022 est.)<br>
-$5,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$13.988 billion (2023 est.)<br>
+$17.478 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -417,18 +417,18 @@ $13.988 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 9.7% (2023 est.)<br>
-_industry_: 22.6% (2023 est.)<br>
-_services_: 50.8% (2023 est.)<br>
+_agriculture_: 8.6% (2024 est.)<br>
+_industry_: 24.7% (2024 est.)<br>
+_services_: 52.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 89.5% (2023 est.)<br>
-_government consumption_: 16.4% (2023 est.)<br>
-_investment in fixed capital_: 21.2% (2023 est.)<br>
-_investment in inventories_: 9.1% (2023 est.)<br>
-_exports of goods and services_: 39.2% (2023 est.)<br>
-_imports of goods and services_: -101% (2023 est.)<br>
+_household consumption_: 88.3% (2023 est.)<br>
+_government consumption_: 16% (2023 est.)<br>
+_investment in fixed capital_: 22% (2023 est.)<br>
+_investment in inventories_: 12.5% (2023 est.)<br>
+_exports of goods and services_: 36.9% (2023 est.)<br>
+_imports of goods and services_: -95.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -439,17 +439,17 @@ milk, potatoes, maize, sugar beets, wheat, barley, tomatoes, onions, watermelons
 small machinery, textiles, food processing, cement, shoes, lumber, refrigerators, furniture, electric motors, gold, rare earth metals<br>
 
 **Industrial production growth rate**<br>
-4.93% (2023 est.)<br>
+9.4% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.192 million (2024 est.)<br>
+3.197 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.3% (2024 est.)<br>
 4% (2023 est.)<br>
-4% (2022 est.)<br>
+4.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -472,9 +472,9 @@ _highest 10%_: 22% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-20.38% of GDP (2023 est.)<br>
-26.58% of GDP (2022 est.)<br>
-32.56% of GDP (2021 est.)<br>
+18.8% of GDP (2023 est.)<br>
+26.6% of GDP (2022 est.)<br>
+32.6% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -483,11 +483,11 @@ _expenditures_: $2.892 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-44% of GDP (2023 est.)<br>
+40.5% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-21.3% (of GDP) (2023 est.)<br>
+19.6% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -525,9 +525,9 @@ cars, garments, refined petroleum, fabric, footwear (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$5.089 billion (2024 est.)<br>
 $3.237 billion (2023 est.)<br>
 $2.799 billion (2022 est.)<br>
-$2.983 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -536,11 +536,11 @@ $3.617 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: soms (KGS) per US dollar -<br>
+87.15 (2024 est.)<br>
 87.856 (2023 est.)<br>
 84.116 (2022 est.)<br>
 84.641 (2021 est.)<br>
 77.346 (2020 est.)<br>
-69.789 (2019 est.)<br>
 
 ## Energy
 

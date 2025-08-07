@@ -342,7 +342,7 @@ _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 3 years<br>
 _most recent election date_: 5/12/2025<br>
-_percentage of women in chamber_: 28%<br>
+_percentage of women in chamber_: 28.3%<br>
 _expected date of next election_: May 2028<br>
 
 **Legislative branch - upper chamber**<br>
@@ -352,6 +352,7 @@ _electoral system_: plurality/majority<br>
 _scope of elections_: partial renewal<br>
 _term in office_: 6 years<br>
 _most recent election date_: 5/12/2025<br>
+_parties elected and seats per party_: Nationalist People's Coalition (NPC) (2); Nacionalista Party (NP) (3); Partido Demokratiko Pilipino-Laban (PDP-Laban) (2); Lakas- CMD party (1); Katipunan ng Nagkakaisang Pilipino (KANP) (1); Liberal Party (1); Independents (2)<br>
 _percentage of women in chamber_: 20.8%<br>
 _expected date of next election_: May 2028<br>
 
@@ -417,25 +418,25 @@ _selected World Heritage Site locales_: Baroque Churches of the Philippines (c);
 growing Southeast Asian economy; commercial rebound led by transportation, construction and financial services; electronics exports recovering from sector slowdown; significant remittances; interest rate rises following heightened inflation; uncertainties due to increased regional tensions with China&nbsp;<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.138 trillion (2023 est.)<br>
+$1.202 trillion (2024 est.)<br>
+$1.137 trillion (2023 est.)<br>
 $1.078 trillion (2022 est.)<br>
-$1.002 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.55% (2023 est.)<br>
-7.58% (2022 est.)<br>
-5.71% (2021 est.)<br>
+5.7% (2024 est.)<br>
+5.5% (2023 est.)<br>
+7.6% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$10,400 (2024 est.)<br>
 $9,900 (2023 est.)<br>
 $9,500 (2022 est.)<br>
-$8,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$437.146 billion (2023 est.)<br>
+$461.618 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -445,18 +446,18 @@ $437.146 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 9.4% (2023 est.)<br>
-_industry_: 28.2% (2023 est.)<br>
-_services_: 62.4% (2023 est.)<br>
+_agriculture_: 9.1% (2024 est.)<br>
+_industry_: 27.7% (2024 est.)<br>
+_services_: 63.2% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 76.5% (2023 est.)<br>
-_government consumption_: 14.2% (2023 est.)<br>
-_investment in fixed capital_: 23.6% (2023 est.)<br>
-_investment in inventories_: -0.3% (2023 est.)<br>
-_exports of goods and services_: 26.7% (2023 est.)<br>
-_imports of goods and services_: -40.7% (2023 est.)<br>
+_household consumption_: 76.1% (2024 est.)<br>
+_government consumption_: 14.5% (2024 est.)<br>
+_investment in fixed capital_: 23.6% (2024 est.)<br>
+_investment in inventories_: 0.1% (2024 est.)<br>
+_exports of goods and services_: 25.8% (2024 est.)<br>
+_imports of goods and services_: -40.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -467,7 +468,7 @@ sugarcane, rice, coconuts, maize, bananas, vegetables, tropical fruits, plantain
 semiconductors and electronics assembly, business process outsourcing, food and beverage manufacturing, construction, electric/gas/water supply, chemical products, radio/television/communications equipment and apparatus, petroleum and fuel, textile and garments, non-metallic minerals, basic metal industries, transport equipment<br>
 
 **Industrial production growth rate**<br>
-3.59% (2023 est.)<br>
+5.6% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -476,7 +477,7 @@ semiconductors and electronics assembly, business process outsourcing, food and 
 
 **Unemployment rate**<br>
 2.2% (2024 est.)<br>
-2.2% (2023 est.)<br>
+2.3% (2023 est.)<br>
 2.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -487,11 +488,11 @@ _female_: 8.3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-18.1% (2021 est.)<br>
+15.5% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-40.7 (2021 est.)<br>
+39.3 (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -499,14 +500,14 @@ _on food_: 37.3% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 1.9% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.7% (2021 est.)<br>
-_highest 10%_: 32.5% (2021 est.)<br>
+_lowest 10%_: 2.9% (2023 est.)<br>
+_highest 10%_: 31.6% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-8.94% of GDP (2023 est.)<br>
-9.41% of GDP (2022 est.)<br>
-9.31% of GDP (2021 est.)<br>
+8.7% of GDP (2024 est.)<br>
+8.9% of GDP (2023 est.)<br>
+9.4% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -557,7 +558,7 @@ integrated circuits, refined petroleum, cars, crude petroleum, coal (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$95.251 billion (2024 est.)<br>
+$106.195 billion (2024 est.)<br>
 $103.742 billion (2023 est.)<br>
 $96.04 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

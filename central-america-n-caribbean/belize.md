@@ -34,8 +34,9 @@ _border countries_: Guatemala 266 km; Mexico 276 km<br>
 386 km<br>
 
 **Maritime claims**<br>
-_territorial sea_: 12 nm in the north, 3 nm in the south; note - from the mouth of the Sarstoon River to Ranguana Cay, Belize's territorial sea is 3 nm; according to Belize's Maritime Areas Act, 1992, the purpose of this limitation is to provide a framework for negotiating a definitive agreement on territorial differences with Guatemala<br>
+_territorial sea_: 12 nm in the north, 3 nm in the south<br>
 _exclusive economic zone_: 200 nm<br>
+<strong>note:</strong> from the mouth of the Sarstoon River to Ranguana Cay, Belize's territorial sea is 3 nm; according to Belize's Maritime Areas Act (1992), the purpose of this limit is to provide a framework for negotiating a definitive agreement on territorial differences with Guatemala<br>
 
 **Climate**<br>
 tropical; very hot and humid; rainy season (May to November); dry season (February to May)<br>
@@ -395,25 +396,25 @@ _selected World Heritage Site locales_: Belize Barrier Reef Reserve System<br>
 tourism- and agriculture-driven economy; strong post-pandemic rebound; innovative and ecological bond restructuring that significantly lowered public debt and expanded marine protections; central bank offering USD-denominated treasury notes; high mobility across borders<br>
 
 **Real GDP (purchasing power parity)**<br>
+$5.538 billion (2024 est.)<br>
 $5.12 billion (2023 est.)<br>
 $5.062 billion (2022 est.)<br>
-$4.617 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.15% (2023 est.)<br>
-9.65% (2022 est.)<br>
-17.86% (2021 est.)<br>
+8.2% (2024 est.)<br>
+1.1% (2023 est.)<br>
+9.7% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$13,300 (2024 est.)<br>
 $12,500 (2023 est.)<br>
 $12,600 (2022 est.)<br>
-$11,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.067 billion (2023 est.)<br>
+$3.516 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -445,7 +446,7 @@ sugarcane, maize, bananas, sorghum, soybeans, chicken, rice, oranges, fruits, pl
 garment production, food processing, tourism, construction, oil<br>
 
 **Industrial production growth rate**<br>
--2.48% (2023 est.)<br>
+4.8% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -464,10 +465,19 @@ _male_: 10.6% (2024 est.)<br>
 _female_: 25.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
+**Gini Index coefficient - distribution of family income**<br>
+39.9 (2018 est.)<br>
+<strong>note:</strong> index (0-100) of income distribution; higher values represent greater inequality<br>
+
+**Household income or consumption by percentage share**<br>
+_lowest 10%_: 2.2% (2018 est.)<br>
+_highest 10%_: 30% (2018 est.)<br>
+% share of income accruing to lowest and highest 10% of population<br>
+
 **Remittances**<br>
-4.88% of GDP (2023 est.)<br>
+4.4% of GDP (2024 est.)<br>
+4.9% of GDP (2023 est.)<br>
 5% of GDP (2022 est.)<br>
-5.59% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>

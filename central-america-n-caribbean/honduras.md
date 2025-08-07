@@ -31,7 +31,7 @@ _total_: 1,575 km<br>
 _border countries_: Guatemala 244 km; El Salvador 391 km; Nicaragua 940 km<br>
 
 **Coastline**<br>
-823 km (Caribbean Sea 669 km, Gulf of Fonseca 163 km)<br>
+823 km (Caribbean Sea 669 km; Gulf of Fonseca 163 km)<br>
 
 **Maritime claims**<br>
 _territorial sea_: 12 nm<br>
@@ -347,7 +347,7 @@ _subordinate courts_: courts of appeal; courts of first instance; justices of th
 Anti-Corruption Party or PAC<br>Christian Democratic Party or DC<br>Democratic Liberation of Honduras or Liderh<br>Democratic Unification Party or UD<br>The Front or El Frente<br>Honduran Patriotic Alliance or AP<br>Innovation and Unity Party or PINU<br>Liberal Party or PL<br>Liberty and Refoundation Party or LIBRE<br>National Party of Honduras or PNH<br>New Route or NR<br>Opposition Alliance against the Dictatorship or Alianza de Oposicion contra la Dictadura (electoral coalition)<br>Savior Party of Honduras or PSH<br>Vamos or Let’s Go<br>We Are All Honduras (Todos Somos Honduras) or TSH<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Javier Efrain BU SOTO (since 12 December 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Leonardo VALENZUELA NEDA (since 10 June 2025)<br>
 _chancery_: 1220 19th Street NW, Suite #320, Washington, DC 20036<br>
 _telephone_: [1] (202) 966-7702<br>
 _FAX_: [1] (202) 966-9751<br>
@@ -396,25 +396,25 @@ _selected World Heritage Site locales_: Maya Site of Copan (c); Río Plátano Bi
 second-fastest-growing Central American economy; COVID-19 and two hurricanes crippled activity; high poverty and inequality; declining-but-still-high violent crime disruption; systemic corruption; coffee and banana exporter; enormous remittances<br>
 
 **Real GDP (purchasing power parity)**<br>
-$68.854 billion (2023 est.)<br>
+$71.297 billion (2024 est.)<br>
+$68.85 billion (2023 est.)<br>
 $66.473 billion (2022 est.)<br>
-$63.828 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.58% (2023 est.)<br>
-4.14% (2022 est.)<br>
-12.57% (2021 est.)<br>
+3.6% (2024 est.)<br>
+3.6% (2023 est.)<br>
+4.1% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$6,600 (2024 est.)<br>
 $6,500 (2023 est.)<br>
 $6,400 (2022 est.)<br>
-$6,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$34.401 billion (2023 est.)<br>
+$37.094 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -424,18 +424,18 @@ $34.401 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 12% (2023 est.)<br>
-_industry_: 26% (2023 est.)<br>
-_services_: 57.4% (2023 est.)<br>
+_agriculture_: 11.2% (2024 est.)<br>
+_industry_: 26.1% (2024 est.)<br>
+_services_: 58.4% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 86.4% (2023 est.)<br>
-_government consumption_: 14.4% (2023 est.)<br>
-_investment in fixed capital_: 24.2% (2023 est.)<br>
-_investment in inventories_: -1.1% (2023 est.)<br>
-_exports of goods and services_: 37% (2023 est.)<br>
-_imports of goods and services_: -60.9% (2023 est.)<br>
+_household consumption_: 86% (2024 est.)<br>
+_government consumption_: 15.5% (2024 est.)<br>
+_investment in fixed capital_: 23.9% (2024 est.)<br>
+_investment in inventories_: -1.4% (2024 est.)<br>
+_exports of goods and services_: 33.5% (2024 est.)<br>
+_imports of goods and services_: -57.6% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -446,7 +446,7 @@ sugarcane, oil palm fruit, maize, milk, bananas, coffee, cantaloupes/melons, ora
 sugar processing, coffee, woven and knit apparel, wood products, cigars<br>
 
 **Industrial production growth rate**<br>
--2.04% (2023 est.)<br>
+0.8% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -470,7 +470,7 @@ _female_: 15.9% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-48.2 (2019 est.)<br>
+46.8 (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -478,14 +478,14 @@ _on food_: 31.5% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 4.9% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.2% (2019 est.)<br>
-_highest 10%_: 34.6% (2019 est.)<br>
+_lowest 10%_: 1.1% (2023 est.)<br>
+_highest 10%_: 33% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-26.07% of GDP (2023 est.)<br>
+25.7% of GDP (2024 est.)<br>
+26.1% of GDP (2023 est.)<br>
 27% of GDP (2022 est.)<br>
-25.59% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -493,23 +493,20 @@ _revenues_: $5.333 billion (2020 est.)<br>
 _expenditures_: $5.696 billion (2020 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-39.5% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
 15.1% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.389 billion (2023 est.)<br>
--$2.105 billion (2022 est.)<br>
--$1.538 billion (2021 est.)<br>
+-$1.711 billion (2024 est.)<br>
+-$1.368 billion (2023 est.)<br>
+-$2.157 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$9.646 billion (2023 est.)<br>
-$9.403 billion (2022 est.)<br>
-$8.052 billion (2021 est.)<br>
+$9.352 billion (2024 est.)<br>
+$9.805 billion (2023 est.)<br>
+$9.51 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -521,9 +518,9 @@ garments, coffee, insulated wire, palm oil, shellfish (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$17.789 billion (2023 est.)<br>
-$17.943 billion (2022 est.)<br>
-$14.869 billion (2021 est.)<br>
+$18.235 billion (2024 est.)<br>
+$17.926 billion (2023 est.)<br>
+$18.101 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -535,9 +532,9 @@ refined petroleum, cotton yarn, garments, trucks, packaged medicine (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$8.036 billion (2024 est.)<br>
 $7.543 billion (2023 est.)<br>
 $8.41 billion (2022 est.)<br>
-$8.667 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>

@@ -285,9 +285,6 @@ coconuts, taro, fruits, sweet potatoes, tropical fruits, yams, vegetables, lemon
 **Industries**<br>
 handicrafts, food processing<br>
 
-**Exports**<br>
-$5.68 million (2021 est.)<br>
-
 **Exports - partners**<br>
 USA 54%, Germany 8%, Canada 5%, UK 5%, Guatemala 4% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
@@ -295,9 +292,6 @@ USA 54%, Germany 8%, Canada 5%, UK 5%, Guatemala 4% (2023)<br>
 **Exports - commodities**<br>
 abrasive powder, coin (2023)<br>
 <strong>note:</strong> top export commodities based on value in dollars over $500,000<br>
-
-**Imports**<br>
-$43.8 million (2021 est.)<br>
 
 **Imports - partners**<br>
 NZ 87%, Fiji 6%, UAE 2%, Slovakia 1%, Australia 1% (2023)<br>
@@ -309,11 +303,11 @@ refined petroleum, plastic products, machine parts, construction vehicles, cars 
 
 **Exchange rates**<br>
 _Currency_: New Zealand dollars (NZD) per US dollar -<br>
+1.652 (2024 est.)<br>
 1.628 (2023 est.)<br>
 1.577 (2022 est.)<br>
 1.414 (2021 est.)<br>
 1.542 (2020 est.)<br>
-1.518 (2019 est.)<br>
 
 ## Energy
 

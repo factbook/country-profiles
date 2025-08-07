@@ -67,7 +67,9 @@ _other_: 10.6% (2022 est.)<br>
 Rio Zambeze (Zambezi) (shared with Zambia [s], Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Rio Cubango (Okavango) river source (shared with Namibia and Botswana [m]) - 1,600 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
+_Atlantic Ocean drainage_: Congo (3,730,881 sq km)<br>
+_Indian Ocean drainage_: Zambezi (1,332,412 sq km)<br>
+_Internal (endorheic basin) drainage_: Okavango Basin (863,866 sq km)<br>
 
 **Major aquifers**<br>
 Congo Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
@@ -313,7 +315,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Joao Manuel Goncalves LOURENCO (since 26 September 2017)<br>
-_head of government_: President Joao Manuel Goncalves LOURENCO<br>
+_head of government_: President Joao Manuel Goncalves LOURENCO (since 26 September 2017)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _election/appointment process_: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term)<br>
 _most recent election date_: 24 August 2022<br>
@@ -389,25 +391,25 @@ _selected World Heritage Site locales_: Mbanza-Kongo<br>
 middle-income, oil-dependent African economy; widespread poverty; rising inflation and currency depreciation; seeking diversification through agricultural production; significant corruption in public institutions; major infrastructure investments from China and US; exited OPEC in 2023<br>
 
 **Real GDP (purchasing power parity)**<br>
-$266.249 billion (2023 est.)<br>
+$278.239 billion (2024 est.)<br>
+$266.452 billion (2023 est.)<br>
 $263.61 billion (2022 est.)<br>
-$255.821 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1% (2023 est.)<br>
-3.04% (2022 est.)<br>
-1.2% (2021 est.)<br>
+4.4% (2024 est.)<br>
+1.1% (2023 est.)<br>
+3% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$7,200 (2023 est.)<br>
+$7,300 (2024 est.)<br>
+$7,300 (2023 est.)<br>
 $7,400 (2022 est.)<br>
-$7,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$84.825 billion (2023 est.)<br>
+$80.397 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -417,18 +419,18 @@ $84.825 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 14.9% (2023 est.)<br>
-_industry_: 45.3% (2023 est.)<br>
-_services_: 39.8% (2023 est.)<br>
+_agriculture_: 16.4% (2024 est.)<br>
+_industry_: 44.2% (2024 est.)<br>
+_services_: 39.3% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 56.4% (2023 est.)<br>
-_government consumption_: 5.2% (2023 est.)<br>
-_investment in fixed capital_: 23.8% (2023 est.)<br>
-_investment in inventories_: 0% (2023 est.)<br>
-_exports of goods and services_: 40.9% (2023 est.)<br>
-_imports of goods and services_: -26.2% (2023 est.)<br>
+_household consumption_: 55.3% (2024 est.)<br>
+_government consumption_: 6.3% (2024 est.)<br>
+_investment in fixed capital_: 25% (2024 est.)<br>
+_investment in inventories_: 0% (2024 est.)<br>
+_exports of goods and services_: 37.9% (2024 est.)<br>
+_imports of goods and services_: -24.4% (2024 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -439,7 +441,7 @@ cassava, bananas, maize, sweet potatoes, sugarcane, tomatoes, pineapples, onions
 petroleum; diamonds, iron ore, phosphates, feldspar, bauxite, uranium, and gold; cement; basic metal products; fish processing; food processing, brewing, tobacco products, sugar; textiles; ship repair<br>
 
 **Industrial production growth rate**<br>
--1% (2023 est.)<br>
+5% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -448,8 +450,8 @@ petroleum; diamonds, iron ore, phosphates, feldspar, bauxite, uranium, and gold;
 
 **Unemployment rate**<br>
 14.5% (2024 est.)<br>
-14.5% (2023 est.)<br>
-14.6% (2022 est.)<br>
+14.6% (2023 est.)<br>
+14.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -476,9 +478,9 @@ _highest 10%_: 39.6% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.01% of GDP (2023 est.)<br>
-0.01% of GDP (2022 est.)<br>
-0.02% of GDP (2021 est.)<br>
+0% of GDP (2024 est.)<br>
+0% of GDP (2023 est.)<br>
+0% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -486,21 +488,18 @@ _revenues_: $18.117 billion (2019 est.)<br>
 _expenditures_: $13.871 billion (2019 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-65% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
 10.1% (of GDP) (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$6.277 billion (2024 est.)<br>
+$6.31 billion (2024 est.)<br>
 $4.185 billion (2023 est.)<br>
 $11.763 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$36.886 billion (2024 est.)<br>
+$36.924 billion (2024 est.)<br>
 $36.961 billion (2023 est.)<br>
 $50.12 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -514,7 +513,7 @@ crude petroleum, diamonds, natural gas, ships, refined petroleum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$22.681 billion (2024 est.)<br>
+$22.683 billion (2024 est.)<br>
 $23.688 billion (2023 est.)<br>
 $28.564 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>

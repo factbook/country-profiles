@@ -388,46 +388,46 @@ _selected World Heritage Site locales_: Anjar; Baalbek; Byblos; Tyre; Ouadi Qadi
 lower middle-income Middle Eastern economy; hyperinflation and sharp poverty increases; banks have ceased lending; economic contraction, destroyed infrastructure, and reduced consumer demand resulting from Israel-Hezbollah conflict<br>
 
 **Real GDP (purchasing power parity)**<br>
-$65.818 billion (2023 est.)<br>
+$65.415 billion (2023 est.)<br>
 $65.917 billion (2022 est.)<br>
 $66.329 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--0.15% (2023 est.)<br>
--0.62% (2022 est.)<br>
+-0.8% (2023 est.)<br>
+-0.6% (2022 est.)<br>
 -7% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$12,300 (2023 est.)<br>
+$11,300 (2023 est.)<br>
 $11,500 (2022 est.)<br>
 $11,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$20.992 billion (2022 est.)<br>
+$20.079 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+45.2% (2024 est.)<br>
 221.3% (2023 est.)<br>
 171.2% (2022 est.)<br>
-154.8% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.2% (2022 est.)<br>
-_industry_: 2.4% (2022 est.)<br>
-_services_: 88.6% (2022 est.)<br>
+_agriculture_: 1% (2023 est.)<br>
+_industry_: 2.1% (2023 est.)<br>
+_services_: 42.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 140.4% (2022 est.)<br>
-_government consumption_: 3.6% (2022 est.)<br>
-_investment in fixed capital_: 1.2% (2022 est.)<br>
-_investment in inventories_: 0% (2022 est.)<br>
-_exports of goods and services_: 34.8% (2022 est.)<br>
-_imports of goods and services_: -80.1% (2022 est.)<br>
+_household consumption_: 136% (2023 est.)<br>
+_government consumption_: 5.2% (2023 est.)<br>
+_investment in fixed capital_: 1.9% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
+_exports of goods and services_: 30.6% (2023 est.)<br>
+_imports of goods and services_: -73.7% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -438,7 +438,7 @@ potatoes, milk, tomatoes, apples, oranges, olives, cucumbers/gherkins, chicken, 
 banking, tourism, real estate and construction, food processing, wine, jewelry, cement, textiles, mineral and chemical products, wood and furniture products, oil refining, metal fabricating<br>
 
 **Industrial production growth rate**<br>
--0.56% (2022 est.)<br>
+0.1% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -446,7 +446,7 @@ banking, tourism, real estate and construction, food processing, wine, jewelry, 
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11.5% (2023 est.)<br>
+11.6% (2023 est.)<br>
 11.6% (2022 est.)<br>
 12.7% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -462,9 +462,9 @@ _on food_: 37.1% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 0.7% of household expenditures (2023 est.)<br>
 
 **Remittances**<br>
-35.51% of GDP (2023 est.)<br>
-30.66% of GDP (2022 est.)<br>
-27.47% of GDP (2021 est.)<br>
+33.3% of GDP (2023 est.)<br>
+30.7% of GDP (2022 est.)<br>
+27.5% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -515,7 +515,7 @@ refined petroleum, gold, cars, packaged medicine, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$9.24 billion (2024 est.)<br>
+$33.301 billion (2024 est.)<br>
 $27.49 billion (2023 est.)<br>
 $32.513 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
@@ -526,11 +526,11 @@ $41.936 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Lebanese pounds (LBP) per US dollar -<br>
+89,500 (2024 est.)<br>
 13,875.625 (2023 est.)<br>
 1,507.5 (2022 est.)<br>
 1,507.5 (2021 est.)<br>
 1,507.5 (2020 est.)<br>
-1,507.5 (2019 est.)<br>
 
 ## Energy
 

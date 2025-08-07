@@ -27,7 +27,7 @@ _water_: 0 sq km<br>
 more than twice the size of Washington, D.C.<br>
 
 **Land boundaries**<br>
-0<br>
+_total_: 0 km<br>
 
 **Coastline**<br>
 364 km<br>
@@ -40,7 +40,7 @@ _exclusive economic zone_: 200 nm<br>
 tropical marine climate, ameliorated by northeast trade winds, results in mild temperatures; semiarid with average rainfall of 60 cm/year<br>
 
 **Terrain**<br>
-<p>generally low, hilly terrain</p><br>
+generally low, hilly terrain<br>
 
 **Elevation**<br>
 _highest point_: Mt. Christoffel 372 m<br>
@@ -311,20 +311,20 @@ _selected World Heritage Site locales_: Historic Willemstad<br>
 high-income island economy; developed infrastructure; tourism and financial services-based economy; investing in information technology incentives; oil refineries service Venezuela and China<br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.271 billion (2023 est.)<br>
-$4.099 billion (2022 est.)<br>
+$4.312 billion (2023 est.)<br>
+$4.138 billion (2022 est.)<br>
 $3.834 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
 4.2% (2023 est.)<br>
-6.91% (2022 est.)<br>
+7.9% (2022 est.)<br>
 4.2% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$28,900 (2023 est.)<br>
-$27,300 (2022 est.)<br>
+$27,700 (2023 est.)<br>
+$27,600 (2022 est.)<br>
 $25,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
@@ -348,7 +348,7 @@ _services_: 73.3% (2023 est.)<br>
 _household consumption_: 73.2% (2018 est.)<br>
 _government consumption_: 14.5% (2018 est.)<br>
 _investment in fixed capital_: 34% (2018 est.)<br>
-_investment in inventories_: 7% (2018 est.)<br>
+_investment in inventories_: 7.1% (2018 est.)<br>
 _exports of goods and services_: 63.2% (2018 est.)<br>
 _imports of goods and services_: -92% (2018 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -359,19 +359,10 @@ aloe, sorghum, peanuts, vegetables, tropical fruit<br>
 **Industries**<br>
 tourism, petroleum refining, petroleum transshipment, light manufacturing, financial and business services<br>
 
-**Industrial production growth rate**<br>
-4.3% (2014 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
-
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 42.2% (2020 est.)<br>
-_male_: 38.1%<br>
-_female_: 47.1%<br>
-
 **Remittances**<br>
-5.38% of GDP (2023 est.)<br>
-5.16% of GDP (2022 est.)<br>
-5.18% of GDP (2021 est.)<br>
+5.4% of GDP (2023 est.)<br>
+5.2% of GDP (2022 est.)<br>
+5.2% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Current account balance**<br>

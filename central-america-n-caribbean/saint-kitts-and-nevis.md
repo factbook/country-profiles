@@ -359,25 +359,25 @@ _selected World Heritage Site locales_: Brimstone Hill Fortress National Park<br
 high-income, tourism-based Caribbean OECS economy; better debt balancing; CARICOM and ECCU member; growing offshore financial and telecommunications hub; environmentally fragile; unique citizenship-driven growth model<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.422 billion (2023 est.)<br>
-$1.39 billion (2022 est.)<br>
-$1.258 billion (2021 est.)<br>
+$1.465 billion (2024 est.)<br>
+$1.448 billion (2023 est.)<br>
+$1.388 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.28% (2023 est.)<br>
-10.52% (2022 est.)<br>
-0.48% (2021 est.)<br>
+1.2% (2024 est.)<br>
+4.3% (2023 est.)<br>
+10.3% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$30,400 (2023 est.)<br>
-$29,800 (2022 est.)<br>
-$26,900 (2021 est.)<br>
+$31,300 (2024 est.)<br>
+$31,000 (2023 est.)<br>
+$29,700 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.055 billion (2023 est.)<br>
+$1.067 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -387,17 +387,10 @@ $1.055 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.4% (2023 est.)<br>
-_industry_: 20.2% (2023 est.)<br>
-_services_: 66.2% (2023 est.)<br>
+_agriculture_: 1.3% (2024 est.)<br>
+_industry_: 21.1% (2024 est.)<br>
+_services_: 65.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
-
-**GDP - composition, by end use**<br>
-_household consumption_: 41.4% (2017 est.)<br>
-_government consumption_: 25.9% (2017 est.)<br>
-_investment in fixed capital_: 30.8% (2017 est.)<br>
-_exports of goods and services_: 62.5% (2017 est.)<br>
-_imports of goods and services_: -60.4% (2017 est.)<br>
 
 **Agricultural products**<br>
 coconuts, tropical fruits, root vegetables, vegetables, eggs, pulses, sweet potatoes, watermelons, cucumbers/gherkins, tomatoes (2023)<br>
@@ -407,13 +400,13 @@ coconuts, tropical fruits, root vegetables, vegetables, eggs, pulses, sweet pota
 tourism, cotton, salt, copra, clothing, footwear, beverages<br>
 
 **Industrial production growth rate**<br>
--2.4% (2023 est.)<br>
+-2.7% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Remittances**<br>
-3.46% of GDP (2023 est.)<br>
-3.83% of GDP (2022 est.)<br>
-4.32% of GDP (2021 est.)<br>
+3.4% of GDP (2024 est.)<br>
+3.5% of GDP (2023 est.)<br>
+3.8% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -430,15 +423,15 @@ _expenditures_: $236.444 million (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$169.221 million (2024 est.)<br>
 -$122.386 million (2023 est.)<br>
 -$111.685 million (2022 est.)<br>
--$28.782 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$504.391 million (2024 est.)<br>
 $579.568 million (2023 est.)<br>
 $542.983 million (2022 est.)<br>
-$401.223 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -450,9 +443,9 @@ ships, measuring instruments, beer, electrical transformers, electrical control 
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$642.934 million (2024 est.)<br>
 $669.168 million (2023 est.)<br>
 $606.856 million (2022 est.)<br>
-$407.402 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

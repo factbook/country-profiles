@@ -67,7 +67,7 @@ _other_: 23.7% (2022 est.)<br>
 Euphrates (shared with Turkey [s], Iran, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Iran, and Iraq [m]) - 1,950 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+_Indian Ocean drainage_: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
 **Population distribution**<br>
 significant population density along the Mediterranean coast; larger concentrations found in the major cities of Damascus, Aleppo (the country's largest city), and Hims (Homs); more than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley<br>
@@ -317,7 +317,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 7/15/2024<br>
 _percentage of women in chamber_: 9.6%<br>
-_expected date of next election_: July 2028<br>
+_expected date of next election_: September 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation (organized into civil, criminal, religious, and military divisions, each with 3 judges); Supreme Constitutional Court (consists of 7 members)<br>
@@ -370,25 +370,25 @@ _selected World Heritage Site locales_: Ancient City of Damascus; Ancient City o
 low-income Middle Eastern economy; prior infrastructure and economy devastated by 11-year civil war; ongoing US sanctions; sporadic trans-migration during conflict; currently being supported by World Bank trust fund; ongoing hyperinflation<br>
 
 **Real GDP (purchasing power parity)**<br>
+$98.858 billion (2023 est.)<br>
 $100.066 billion (2022 est.)<br>
 $99.338 billion (2021 est.)<br>
-$97.529 billion (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.73% (2022 est.)<br>
-1.85% (2021 est.)<br>
--0.18% (2020 est.)<br>
+-1.2% (2023 est.)<br>
+0.7% (2022 est.)<br>
+1.9% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$4,200 (2023 est.)<br>
 $4,500 (2022 est.)<br>
 $4,600 (2021 est.)<br>
-$4,600 (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$23.623 billion (2022 est.)<br>
+$19.993 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -418,7 +418,7 @@ wheat, barley, milk, sheep milk, tomatoes, olives, potatoes, maize, oranges, gra
 petroleum, textiles, food processing, beverages, tobacco, phosphate rock mining, cement, oil seeds crushing, automobile assembly<br>
 
 **Industrial production growth rate**<br>
--13.39% (2022 est.)<br>
+-13.4% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -437,36 +437,25 @@ _male_: 27.8% (2024 est.)<br>
 _female_: 47.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-82.5% (2014 est.)<br>
-
 **Gini Index coefficient - distribution of family income**<br>
 26.6 (2022 est.)<br>
+<strong>note:</strong> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8% (2022 est.)<br>
 _highest 10%_: 21.1% (2022 est.)<br>
+% share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0% of GDP (2023 est.)<br>
 0% of GDP (2022 est.)<br>
 0% of GDP (2021 est.)<br>
-0% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.162 billion (2017 est.)<br>
 _expenditures_: $3.211 billion (2017 est.)<br>
 <strong>note:</strong> government projections for FY2016<br>
-
-**Public debt**<br>
-94.8% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-4.2% (of GDP) (2017 est.)<br>
-
-**Current account balance**<br>
--$2.123 billion (2017 est.)<br>
--$2.077 billion (2016 est.)<br>
 
 **Exports**<br>
 $1.609 billion (2022 est.)<br>
@@ -495,10 +484,6 @@ Turkey 49%, UAE 11%, China 8%, Egypt 7%, Lebanon 3% (2023)<br>
 **Imports - commodities**<br>
 tobacco, plastics, wheat flours, plastic products, seed oils (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Reserves of foreign exchange and gold**<br>
-$407.3 million (2017 est.)<br>
-$504.6 million (2016 est.)<br>
 
 **Debt - external**<br>
 $4.573 billion (2023 est.)<br>
@@ -609,7 +594,7 @@ _key ports_: Al Ladhiqiyah, Baniyas, Tartus<br>
 ## Military and Security
 
 **Military and security forces**<br>
-as of early 2025, the interim government authorities in Syria had established a ministry of defense and were seeking to unify the dozens of armed factions operating in Syria under a single, state-linked army and police force (2025)<br>
+the interim government authorities in Syria have established a Ministry of Defense and are attempting to unify the dozens of armed factions operating in Syria under a single, state-linked army; it has also established a Ministry of Interior to manage police and other security forces (2025)<br>
 
 **Military expenditures**<br>
 6.5% of GDP (2019 est.)<br>

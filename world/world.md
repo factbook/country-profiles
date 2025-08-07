@@ -69,7 +69,7 @@ _other_: 31.4% (2022 est.)<br>
 <strong>top ten longest rivers:</strong> Nile (Africa) 6,650 km; Amazon (South America) 6,436 km; Yangtze (Asia) 6,300 km; Mississippi-Missouri (North America) 6,275 km; Yenisey-Angara (Asia) 5,539 km; Huang He/Yellow (Asia) 5,464 km; Ob-Irtysh (Asia) 5,410 km; Congo (Africa) 4,700 km; Amur (Asia) 4,444 km; Lena (Asia) 4,400 km<br><br><strong>note:</strong> there are 21 countries without rivers: three in Africa (Comoros, Djibouti, Libya), one in the Americas (Bahamas), eight in Asia (Bahrain, Kuwait, Maldives, Oman, Qatar, Saudi Arabia, United Arab Emirates, Yemen), three in Europe (Malta, Monaco, Holy See), and six in Oceania (Kiribati, Marshall Islands, Nauru, Niue, Tonga, Tuvalu); these countries also do not have natural lakes<br>
 
 **Major watersheds (area sq km)**<br>
-a watershed is a drainage basin on an area of land where precipitation collects and drains off into a common outlet, such as into a river, bay, or other body of water; oceans ultimately take in the drainage from 83% of all land area; the remaining 17% of the land drains into internal (endorheic) basins<br><br><em>The World Factbook</em> lists 51 watersheds across 102 countries: <br>Asia - 18<br>Europe - 9<br>Africa- 9<br>North and Central America - 8<br>South America - 5<br>Australia - 2 <br><br>all watersheds with an area of at least 500,000 sq km have been included, along with a number of smaller, regionally significant watersheds; together, these represent the surface hydrology water flows that are the world's primary sources of fresh water for individual consumption, industry, and agriculture<br>
+a watershed is a drainage basin on an area of land where precipitation collects and drains off into a common outlet, such as into a river, bay, or other body of water; oceans ultimately take in the drainage from 83% of all land area; the remaining 17% of the land drains into internal (endorheic) basins<br><br><em>The World Factbook</em> lists 51 watersheds across 102 countries: <br>Asia - 18<br>Europe - 9<br>Africa - 9<br>North and Central America - 8<br>South America - 5<br>Australia - 2 <br><br>all watersheds with an area of at least 500,000 sq km have been included, along with a number of smaller, regionally significant watersheds; together, these represent the surface hydrology water flows that are the world's primary sources of fresh water for individual consumption, industry, and agriculture<br>
 
 **Major aquifers**<br>
 aquifers are underground layers of water-bearing permeable rock formations; groundwater from aquifers can be extracted using a water well<br><br><em>The World Factbook</em> lists 37 major aquifers across 52 countries:<br>Africa - 13<br>Asia - 10 <br>North America - 5<br>South America - 3 <br>Europe - 4<br>Australia -2 <br><br>these aquifers contain the bulk of the stored volume of groundwater; this represents more than 30% of the world's fresh water; in the US, groundwater is primarily used for irrigation; globally, 70% of the groundwater withdrawn is used for agriculture; groundwater also supplies almost half of all drinking water worldwide<br>
@@ -272,46 +272,46 @@ _total World Heritage Sites_: 1,223 (952 cultural, 231 natural, 40 mixed) (2024)
 ## Economy
 
 **Real GDP (purchasing power parity)**<br>
-$166.647 trillion (2023 est.)<br>
-$161.376 trillion (2022 est.)<br>
-$156.07 trillion (2021 est.)<br>
+$173.163 trillion (2024 est.)<br>
+$167.633 trillion (2023 est.)<br>
+$162.058 trillion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.83% (2023 est.)<br>
-3.09% (2022 est.)<br>
-6.26% (2021 est.)<br>
+2.9% (2024 est.)<br>
+2.9% (2023 est.)<br>
+3.4% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$20,700 (2023 est.)<br>
-$20,200 (2022 est.)<br>
-$19,700 (2021 est.)<br>
+$21,300 (2024 est.)<br>
+$20,800 (2023 est.)<br>
+$20,300 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$106.172 trillion (2023 est.)<br>
+$111.326 trillion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.7% (2023 est.)<br>
+3% (2024 est.)<br>
+5.9% (2023 est.)<br>
 7.9% (2022 est.)<br>
-3.5% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 4.1% (2023 est.)<br>
-_industry_: 26.1% (2023 est.)<br>
-_services_: 61.8% (2022 est.)<br>
+_agriculture_: 4% (2024 est.)<br>
+_industry_: 26% (2024 est.)<br>
+_services_: 66.2% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 56.5% (2023 est.)<br>
-_government consumption_: 16.5% (2023 est.)<br>
-_investment in fixed capital_: 26% (2023 est.)<br>
+_household consumption_: 56.4% (2023 est.)<br>
+_government consumption_: 16.6% (2023 est.)<br>
+_investment in fixed capital_: 25.9% (2023 est.)<br>
 _investment in inventories_: 0.6% (2023 est.)<br>
-_exports of goods and services_: 29.3% (2023 est.)<br>
-_imports of goods and services_: -28.5% (2023 est.)<br>
+_exports of goods and services_: 29.1% (2023 est.)<br>
+_imports of goods and services_: -28.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -321,16 +321,16 @@ _imports of goods and services_: -28.5% (2023 est.)<br>
 <p>dominated by the onrush of technology, especially in computers, robotics, telecommunications, and medicines and medical equipment; most of these advances take place in OECD nations; only a small portion of non-OECD countries have succeeded in rapidly adjusting to these technological forces; the accelerated development of new technologies is complicating already grim environmental problems</p><br>
 
 **Industrial production growth rate**<br>
-2.26% (2023 est.)<br>
+2.9% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.691 billion (2024 est.)<br>
+3.696 billion (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 4.9% (2024 est.)<br>
-4.9% (2023 est.)<br>
+5% (2023 est.)<br>
 5.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -341,35 +341,32 @@ _female_: 15.3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-0.78% of GDP (2023 est.)<br>
-0.79% of GDP (2022 est.)<br>
-0.77% of GDP (2021 est.)<br>
+0.7% of GDP (2024 est.)<br>
+0.8% of GDP (2023 est.)<br>
+0.8% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $21.68 trillion (2017 est.)<br>
 _expenditures_: $23.81 trillion (2017 est.)<br>
 
-**Public debt**<br>
-67.2% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
-13.9% (of GDP) (2023 est.)<br>
+13.8% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Exports**<br>
-$31.114 trillion (2023 est.)<br>
-$31.716 trillion (2022 est.)<br>
-$28.292 trillion (2021 est.)<br>
+$32.379 trillion (2024 est.)<br>
+$31.271 trillion (2023 est.)<br>
+$31.782 trillion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - commodities**<br>
 the whole range of industrial and agricultural goods and services<br><br><strong>top ten commodities by share of world trade: </strong>crude petroleum, cars, refined petroleum, integrated circuits, broadcasting equipment, gold, natural gas, garments, vehicle parts/accessories, packaged medicine (2022)<br>
 
 **Imports**<br>
-$30.2 trillion (2023 est.)<br>
-$30.838 trillion (2022 est.)<br>
-$27.203 trillion (2021 est.)<br>
+$31.244 trillion (2024 est.)<br>
+$30.334 trillion (2023 est.)<br>
+$30.871 trillion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - commodities**<br>

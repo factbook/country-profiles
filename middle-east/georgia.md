@@ -345,7 +345,7 @@ _subordinate courts_: Courts of Appeal; regional (town) and district courts<br>
 Citizens<br>European Socialists<br>For Georgia<br>Georgian Dream<br>Girchi<br>Law and Justice<br>Lelo for Georgia<br>National Democratic Party<br>People's Power<br>Progress and Freedom<br>Republican Party<br>State for the People<br>Strategy Aghmashenebeli<br>United National Movement or UNM<br>Victorious Georgia<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador-designate Tamar TALIASHVILI; Charg&eacute; d'Affaires Khatuna KVESELAVA (since 31 December 2024)<br>
+_chief of mission_: Ambassador Tamar TALIASHVILI (since 24 July 2025)<br>
 _chancery_: 1824 R Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 387-2390<br>
 _FAX_: [1] (202) 387-0864<br>
@@ -394,25 +394,25 @@ _selected World Heritage Site locales_: Gelati Monastery (c); Historical Monumen
 <p>upper-middle income, fast-growing South Caucasus economy; regionally focused exporter of cars, metal ores, and energy; financial and migrant inflows resulting from Ukraine conflict; EU accession talks suspended over disputed election and foreign influence law; low inflation but persistent high unemployment</p><br>
 
 **Real GDP (purchasing power parity)**<br>
+$91.849 billion (2024 est.)<br>
 $83.935 billion (2023 est.)<br>
 $77.838 billion (2022 est.)<br>
-$70.151 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-7.83% (2023 est.)<br>
-10.96% (2022 est.)<br>
-10.64% (2021 est.)<br>
+9.4% (2024 est.)<br>
+7.8% (2023 est.)<br>
+11% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$25,000 (2024 est.)<br>
 $22,600 (2023 est.)<br>
 $21,000 (2022 est.)<br>
-$18,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$30.778 billion (2023 est.)<br>
+$33.776 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -422,18 +422,18 @@ $30.778 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 6% (2023 est.)<br>
-_industry_: 18.9% (2023 est.)<br>
-_services_: 62.1% (2023 est.)<br>
+_agriculture_: 5.4% (2024 est.)<br>
+_industry_: 19.1% (2024 est.)<br>
+_services_: 62.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 71.5% (2023 est.)<br>
-_government consumption_: 12.1% (2023 est.)<br>
-_investment in fixed capital_: 21.5% (2023 est.)<br>
-_investment in inventories_: 3.5% (2023 est.)<br>
-_exports of goods and services_: 49.3% (2023 est.)<br>
-_imports of goods and services_: -57.9% (2023 est.)<br>
+_household consumption_: 71.3% (2024 est.)<br>
+_government consumption_: 13.4% (2024 est.)<br>
+_investment in fixed capital_: 22% (2024 est.)<br>
+_investment in inventories_: 0.8% (2024 est.)<br>
+_exports of goods and services_: 48.4% (2024 est.)<br>
+_imports of goods and services_: -56% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -444,17 +444,17 @@ milk, grapes, potatoes, maize, wheat, tangerines/mandarins, tomatoes, barley, ap
 steel, machine tools, electrical appliances, mining (manganese, copper, gold), chemicals, wood products, wine<br>
 
 **Industrial production growth rate**<br>
-5.13% (2023 est.)<br>
+5.4% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.854 million (2024 est.)<br>
+1.833 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 11.5% (2024 est.)<br>
-11.5% (2023 est.)<br>
-11.6% (2022 est.)<br>
+11.6% (2023 est.)<br>
+11.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -464,11 +464,11 @@ _female_: 32.4% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-15.6% (2022 est.)<br>
+11.8% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-33.5 (2022 est.)<br>
+34.8 (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -476,14 +476,14 @@ _on food_: 39% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 3.8% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.6% (2022 est.)<br>
-_highest 10%_: 25.2% (2022 est.)<br>
+_lowest 10%_: 2.7% (2023 est.)<br>
+_highest 10%_: 26.9% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-13.65% of GDP (2023 est.)<br>
-15.42% of GDP (2022 est.)<br>
-14.02% of GDP (2021 est.)<br>
+11.8% of GDP (2024 est.)<br>
+13.7% of GDP (2023 est.)<br>
+15.4% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -500,15 +500,15 @@ _expenditures_: $6.23 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$1.491 billion (2024 est.)<br>
 -$1.709 billion (2023 est.)<br>
 -$1.105 billion (2022 est.)<br>
--$1.943 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$16.321 billion (2024 est.)<br>
 $15.173 billion (2023 est.)<br>
 $13.24 billion (2022 est.)<br>
-$8.086 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -520,9 +520,9 @@ cars, copper ore, electricity, garments, wine (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$18.915 billion (2024 est.)<br>
 $17.816 billion (2023 est.)<br>
 $15.665 billion (2022 est.)<br>
-$11.151 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -534,7 +534,7 @@ cars, refined petroleum, packaged medicine, natural gas, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.848 billion (2024 est.)<br>
+$4.447 billion (2024 est.)<br>
 $5.002 billion (2023 est.)<br>
 $4.886 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

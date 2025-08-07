@@ -72,7 +72,7 @@ _salt water lake(s)_: Laguna Mar Chiquita - 1,850 sq km;<br>
 Río de la Plata/Paraná river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
+_Atlantic Ocean drainage_: Paran&aacute; (2,582,704 sq km)<br>
 
 **Major aquifers**<br>
 Guaran&iacute; Aquifer System<br>
@@ -358,7 +358,7 @@ _subordinate courts_: federal-level appellate, district, and territorial courts;
 Avanza Libertad or AL<br>Civic Coalition ARI or CC-ARI<br>Consenso Federal (Federal Consensus) or CF<br>Frente Cívico por Santiago (Civic Front for Santiago)<br>Frente de Izquierda y de los Trabajadores – Unidad (Workers' Left Front) or FIT-U (coalition of leftist parties in lower house; includes PTS, PO, and MST) <br>Frente de la Concordia Misionero (Front for the Renewal of Social Concord) or FRCS<br>Frente Renovador (Renewal Front) or FR<br>Generación por un Encuentro Nacional (Generation for a National Encounter) or GEN<br>Hacemos por Córdoba (We do for Cordoba) or HC<br>Hacemos por Nuestro Pais (We Do For Our Country) or NHP<br>Juntos por el Cambio (Together for Change) or JxC (includes CC-ARI, PRO, and UCR); note - primary opposition coalition since 2019<br>Juntos Somos Río Negro (Together We Are Rio Negro) or JSRN  <br>Partido Justicialista (Justicialist Party) or PJ<br>La Cámpora<br>La Libertad Avanza (The Liberty Advances) or LLA<br>Movimiento Popular Neuquino (Neuquén People's Movement) or MPN<br>Movimiento Socialista de los Trabajadores (Workers' Socialist Movement) or MST <br>Partido de los Trabajadores Socialistas (Socialist Workers' Party) or PTS<br>Partido Demócrata (Democratic Party) or PDN<br>Partido Libertario (Libertarian Party) or PL; note - party is also a founding member of the coalition La Libertad Avanza<br>Partido Obrero (Workers' Party) or PO<br>Partido Socialista or PS<br>Propuesta Republicana (Republican Proposal) or PRO<br>Unidad Federal (coalition of provencial parties in the lower house; includes FRCS and JSRN)<br>Unión Cívica Radical (Radical Civic Union) or UCR<br>Unión por la Patria (Union for the Homeland) or UP <em>(formerly Frente de Todos (Everyone's Front) or FdT) </em>(includes FR, La Cámpora, and PJ); note - ruling coalition since 2019; includes several national and provincial Peronist political parties<br>Vamos con Vos (Let's Go with You) or VcV<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador-designate Alejandro (Alec) OXENFORD (since November 2024)<br>
+_chief of mission_: Ambassador Alejandro (Alec) Carlos Francisco OXENFORD (since 11 June 2025)<br>
 _chancery_: 1600 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 238-6400<br>
 _FAX_: [1] (202) 332-3171<br>
@@ -406,25 +406,25 @@ _selected World Heritage Site locales_: Los Glaciares National Park (n); Jesuit 
 large diversified economy; financial risks from debt obligations, rapid inflation, and reduced investor appetites; resource-rich, export-led growth model; increasing trade relations with China; G20 and OAS leader; tendency to nationalize businesses and under-report inflation<br>
 
 **Real GDP (purchasing power parity)**<br>
+$1.213 trillion (2024 est.)<br>
 $1.234 trillion (2023 est.)<br>
 $1.255 trillion (2022 est.)<br>
-$1.192 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--1.61% (2023 est.)<br>
-5.27% (2022 est.)<br>
-10.72% (2021 est.)<br>
+-1.7% (2024 est.)<br>
+-1.6% (2023 est.)<br>
+5.3% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$26,500 (2024 est.)<br>
 $27,100 (2023 est.)<br>
 $27,600 (2022 est.)<br>
-$26,300 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$646.075 billion (2023 est.)<br>
+$633.267 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -433,18 +433,18 @@ $646.075 billion (2023 est.)<br>
 note: data are derived from private estimates<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 5.9% (2023 est.)<br>
-_industry_: 25.1% (2023 est.)<br>
-_services_: 53.1% (2023 est.)<br>
+_agriculture_: 6% (2024 est.)<br>
+_industry_: 24% (2024 est.)<br>
+_services_: 53.4% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 65.9% (2023 est.)<br>
-_government consumption_: 16.4% (2023 est.)<br>
-_investment in fixed capital_: 18.6% (2023 est.)<br>
-_investment in inventories_: 0.8% (2023 est.)<br>
-_exports of goods and services_: 12.7% (2023 est.)<br>
-_imports of goods and services_: -13.9% (2023 est.)<br>
+_household consumption_: 68.1% (2024 est.)<br>
+_government consumption_: 15% (2024 est.)<br>
+_investment in fixed capital_: 15.8% (2024 est.)<br>
+_investment in inventories_: -0.1% (2024 est.)<br>
+_exports of goods and services_: 15.3% (2024 est.)<br>
+_imports of goods and services_: -12.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -455,7 +455,7 @@ maize, soybeans, sugarcane, wheat, milk, sunflower seeds, barley, beef, potatoes
 food processing, motor vehicles, consumer durables, textiles, chemicals and petrochemicals, printing, metallurgy, steel<br>
 
 **Industrial production growth rate**<br>
--0.23% (2023 est.)<br>
+-7.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -464,8 +464,8 @@ food processing, motor vehicles, consumer durables, textiles, chemicals and petr
 
 **Unemployment rate**<br>
 7.9% (2024 est.)<br>
-6.1% (2023 est.)<br>
-6.8% (2022 est.)<br>
+6.2% (2023 est.)<br>
+6.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -475,11 +475,11 @@ _female_: 23% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-39.2% (2022 est.)<br>
+41.7% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-40.7 (2022 est.)<br>
+42.4 (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -487,14 +487,14 @@ _on food_: 23.1% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 1.9% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2% (2022 est.)<br>
-_highest 10%_: 29.8% (2022 est.)<br>
+_lowest 10%_: 1.9% (2023 est.)<br>
+_highest 10%_: 31% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.16% of GDP (2023 est.)<br>
-0.17% of GDP (2022 est.)<br>
-0.19% of GDP (2021 est.)<br>
+0.2% of GDP (2024 est.)<br>
+0.2% of GDP (2023 est.)<br>
+0.2% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -502,23 +502,20 @@ _revenues_: $113.553 billion (2022 est.)<br>
 _expenditures_: $138.622 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-57.6% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
-11.1% (of GDP) (2022 est.)<br>
+10% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$6.285 billion (2024 est.)<br>
 -$20.956 billion (2023 est.)<br>
 -$4.055 billion (2022 est.)<br>
-$6.625 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$96.899 billion (2024 est.)<br>
 $82.947 billion (2023 est.)<br>
 $102.928 billion (2022 est.)<br>
-$87.575 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -530,9 +527,9 @@ soybean meal, corn, trucks, soybean oil, crude petroleum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$79.999 billion (2024 est.)<br>
 $92.3 billion (2023 est.)<br>
 $97.399 billion (2022 est.)<br>
-$72.58 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -544,7 +541,7 @@ soybeans, vehicle parts/accessories, refined petroleum, natural gas, cars (2023)
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$24.381 billion (2024 est.)<br>
+$29.56 billion (2024 est.)<br>
 $23.081 billion (2023 est.)<br>
 $44.795 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

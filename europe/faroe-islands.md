@@ -315,24 +315,20 @@ $3.613 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.49% (2023 est.)<br>
-3.56% (2022 est.)<br>
-5.76% (2021 est.)<br>
+2.5% (2023 est.)<br>
+3.6% (2022 est.)<br>
+5.5% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $70,400 (2023 est.)<br>
-$69,300 (2022 est.)<br>
+$69,400 (2022 est.)<br>
 $67,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $3.907 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
-
-**Inflation rate (consumer prices)**<br>
--0.3% (2016)<br>
--1.7% (2015)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 18.2% (2023 est.)<br>
@@ -356,28 +352,11 @@ milk, potatoes, lamb/mutton, sheepskins, sheep offal, beef, sheep fat, beef offa
 **Industries**<br>
 fishing, fish processing, tourism, small ship repair and refurbishment, handicrafts<br>
 
-**Industrial production growth rate**<br>
-4.3% (2014 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
-
-**Labor force**<br>
-27,540 (2017 est.)<br>
-
-**Unemployment rate**<br>
-2.2% (2017 est.)<br>
-3.4% (2016 est.)<br>
-
-**Population below poverty line**<br>
-10% (2015 est.)<br>
-
 **Remittances**<br>
-4.05% of GDP (2023 est.)<br>
-4.44% of GDP (2022 est.)<br>
-4.32% of GDP (2021 est.)<br>
+4.1% of GDP (2023 est.)<br>
+4.4% of GDP (2022 est.)<br>
+4.3% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
-
-**Public debt**<br>
-35% of GDP (2014 est.)<br>
 
 **Exports**<br>
 $2.255 billion (2023 est.)<br>

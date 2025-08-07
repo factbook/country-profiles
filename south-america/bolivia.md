@@ -66,7 +66,7 @@ _fresh water lake(s)_: Lago Titicaca (shared with Peru) - 8,030 sq km<br>
 _salt water lake(s)_: Lago Poopo - 1,340 sq km<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Amazon (6,145,186 sq km), Paran&aacute; (2,582,704 sq km)<br>
+_Atlantic Ocean drainage_: Amazon (6,145,186 sq km), Paran&aacute; (2,582,704 sq km)<br>
 
 **Major aquifers**<br>
 Amazon Basin<br>
@@ -414,25 +414,25 @@ _selected World Heritage Site locales_: City of Potosi (c); El Fuerte de Samaipa
 resource-rich economy benefits during commodity booms; has bestowed juridical rights to Mother Earth, impacting extraction industries; increasing Chinese lithium mining trade relations; hard hit by COVID-19; increased fiscal spending amid poverty increases; rampant banking and finance corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
+$122.2 billion (2024 est.)<br>
 $120.531 billion (2023 est.)<br>
 $116.927 billion (2022 est.)<br>
-$112.858 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.08% (2023 est.)<br>
-3.61% (2022 est.)<br>
-6.11% (2021 est.)<br>
+1.4% (2024 est.)<br>
+3.1% (2023 est.)<br>
+3.6% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$9,800 (2024 est.)<br>
 $9,800 (2023 est.)<br>
 $9,700 (2022 est.)<br>
-$9,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$45.135 billion (2023 est.)<br>
+$49.668 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -451,7 +451,7 @@ _services_: 51.1% (2023 est.)<br>
 _household consumption_: 68.5% (2023 est.)<br>
 _government consumption_: 19.3% (2023 est.)<br>
 _investment in fixed capital_: 17.5% (2023 est.)<br>
-_investment in inventories_: 0.2% (2023 est.)<br>
+_investment in inventories_: 0.1% (2023 est.)<br>
 _exports of goods and services_: 25.5% (2023 est.)<br>
 _imports of goods and services_: -30.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -464,7 +464,7 @@ sugarcane, soybeans, maize, potatoes, sorghum, rice, milk, chicken, plantains, b
 mining, smelting, electricity, petroleum, food and beverages, handicrafts, clothing, jewelry<br>
 
 **Industrial production growth rate**<br>
-1.06% (2023 est.)<br>
+1.1% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -473,7 +473,7 @@ mining, smelting, electricity, petroleum, food and beverages, handicrafts, cloth
 
 **Unemployment rate**<br>
 3.1% (2024 est.)<br>
-3% (2023 est.)<br>
+3.1% (2023 est.)<br>
 3.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -484,11 +484,11 @@ _female_: 5.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-36.4% (2021 est.)<br>
+37.7% (2022 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-40.9 (2021 est.)<br>
+42.1 (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -496,14 +496,14 @@ _on food_: 29.3% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 2.2% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.8% (2021 est.)<br>
-_highest 10%_: 30.3% (2021 est.)<br>
+_lowest 10%_: 1.8% (2023 est.)<br>
+_highest 10%_: 31.3% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.21% of GDP (2023 est.)<br>
-3.32% of GDP (2022 est.)<br>
-3.51% of GDP (2021 est.)<br>
+3.2% of GDP (2023 est.)<br>
+3.3% of GDP (2022 est.)<br>
+3.5% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -513,9 +513,6 @@ _expenditures_: $14.75 billion (2019 est.)<br>
 **Public debt**<br>
 49% of GDP (2017 est.)<br>
 <strong>note:</strong> data cover general government debt and includes debt instruments issued by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities<br>
-
-**Taxes and other revenues**<br>
-39.9% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
 -$1.15 billion (2023 est.)<br>
@@ -552,7 +549,7 @@ refined petroleum, cars, pesticides, trucks, plastics (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$87.1 million (2024 est.)<br>
+$1.977 billion (2024 est.)<br>
 $1.8 billion (2023 est.)<br>
 $3.752 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

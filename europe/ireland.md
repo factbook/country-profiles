@@ -397,25 +397,25 @@ _selected World Heritage Site locales_: Brú na Bóinne - Archaeological Ensembl
 <p>high-income, export-oriented EU economy; large multinational business sector contributes to growth and tax revenues but poses volatility risks; high living standards; strong labor market challenged by skill shortages and aging workforce</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$609.962 billion (2023 est.)<br>
-$645.668 billion (2022 est.)<br>
-$594.431 billion (2021 est.)<br>
+$620.544 billion (2024 est.)<br>
+$613.056 billion (2023 est.)<br>
+$648.943 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--5.53% (2023 est.)<br>
-8.62% (2022 est.)<br>
-15.13% (2021 est.)<br>
+1.2% (2024 est.)<br>
+-5.5% (2023 est.)<br>
+8.6% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$114,900 (2023 est.)<br>
-$125,000 (2022 est.)<br>
-$118,100 (2021 est.)<br>
+$115,300 (2024 est.)<br>
+$115,500 (2023 est.)<br>
+$124,500 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$551.395 billion (2023 est.)<br>
+$577.389 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -425,9 +425,9 @@ $551.395 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.9% (2023 est.)<br>
-_industry_: 33.2% (2023 est.)<br>
-_services_: 60.9% (2023 est.)<br>
+_agriculture_: 1.1% (2024 est.)<br>
+_industry_: 30.8% (2024 est.)<br>
+_services_: 61.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -447,17 +447,17 @@ milk, barley, beef, wheat, potatoes, pork, oats, chicken, rapeseed, beans (2023)
 pharmaceuticals, chemicals, computer hardware and software, food products, beverages and brewing; medical devices<br>
 
 **Industrial production growth rate**<br>
--21.06% (2023 est.)<br>
+-4.9% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.847 million (2024 est.)<br>
+2.857 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 4.4% (2024 est.)<br>
 4.3% (2023 est.)<br>
-4.5% (2022 est.)<br>
+4.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -471,7 +471,7 @@ _female_: 11% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-30.1 (2021 est.)<br>
+29.9 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -479,14 +479,14 @@ _on food_: 8.6% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 4% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.6% (2021 est.)<br>
-_highest 10%_: 24.8% (2021 est.)<br>
+_lowest 10%_: 3.6% (2022 est.)<br>
+_highest 10%_: 24.5% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.1% of GDP (2023 est.)<br>
 0.1% of GDP (2022 est.)<br>
-0.03% of GDP (2021 est.)<br>
+0% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -537,7 +537,7 @@ aircraft, nitrogen compounds, vaccines, packaged medicine, integrated circuits (
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$11.688 billion (2024 est.)<br>
+$12.698 billion (2024 est.)<br>
 $12.905 billion (2023 est.)<br>
 $13.039 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

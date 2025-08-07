@@ -65,7 +65,7 @@ _other_: 68.9% (2022 est.)<br>
 Syr Darya (shared with Kyrgyzstan [s], Uzbekistan, and Kazakhstan [m]) - 3,078 km; Amu Darya river source (shared with Turkmenistan, Afghanistan, and Uzbekistan [m]) - 2,620 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea Basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
+_Internal (endorheic basin) drainage_: Tarim Basin (1,152,448 sq km), <em>(Aral Sea Basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
 
 **Population distribution**<br>
 the population is concentrated at lower elevations, with perhaps as many as 90% living in valleys; overall density increases from east to west<br>
@@ -397,25 +397,25 @@ _selected World Heritage Site locales_: Proto-urban Site of Sarazm (c); Tajik Na
 lower middle-income Central Asian economy; key gold, cotton, and aluminum exporter; declining poverty; sustained high growth; very limited private sector; substantial illicit drug trade; significant remittances; environmentally fragile<br>
 
 **Real GDP (purchasing power parity)**<br>
+$50.37 billion (2024 est.)<br>
 $46.467 billion (2023 est.)<br>
 $42.905 billion (2022 est.)<br>
-$39.727 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+8.4% (2024 est.)<br>
 8.3% (2023 est.)<br>
 8% (2022 est.)<br>
-9.4% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$4,800 (2024 est.)<br>
 $4,500 (2023 est.)<br>
 $4,200 (2022 est.)<br>
-$4,000 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$12.061 billion (2023 est.)<br>
+$14.205 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -425,18 +425,18 @@ $12.061 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 22.9% (2022 est.)<br>
-_industry_: 34.7% (2022 est.)<br>
-_services_: 34.1% (2022 est.)<br>
+_agriculture_: 22.9% (2023 est.)<br>
+_industry_: 33.6% (2023 est.)<br>
+_services_: 34.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 87.6% (2022 est.)<br>
-_government consumption_: 10.1% (2022 est.)<br>
-_investment in fixed capital_: 31.7% (2022 est.)<br>
-_investment in inventories_: 3.8% (2022 est.)<br>
-_exports of goods and services_: 16.4% (2022 est.)<br>
-_imports of goods and services_: -49.1% (2022 est.)<br>
+_household consumption_: 89.6% (2023 est.)<br>
+_government consumption_: 10.7% (2023 est.)<br>
+_investment in fixed capital_: 28.3% (2023 est.)<br>
+_investment in inventories_: 3.4% (2023 est.)<br>
+_exports of goods and services_: 17.2% (2023 est.)<br>
+_imports of goods and services_: -48.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -447,7 +447,7 @@ potatoes, milk, wheat, watermelons, onions, tomatoes, carrots/turnips, cotton, v
 aluminum, cement, coal, gold, silver, antimony, textile, vegetable oil<br>
 
 **Industrial production growth rate**<br>
-9.26% (2022 est.)<br>
+9.9% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -455,9 +455,9 @@ aluminum, cement, coal, gold, silver, antimony, textile, vegetable oil<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11.6% (2024 est.)<br>
-11.5% (2023 est.)<br>
-11.6% (2022 est.)<br>
+11.7% (2024 est.)<br>
+11.6% (2023 est.)<br>
+11.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -467,7 +467,7 @@ _female_: 23.3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-22.5% (2022 est.)<br>
+20.4% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -480,9 +480,9 @@ _highest 10%_: 26.4% (2015 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-38.42% of GDP (2023 est.)<br>
+47.9% of GDP (2024 est.)<br>
+37.8% of GDP (2023 est.)<br>
 49.9% of GDP (2022 est.)<br>
-32.69% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -490,11 +490,8 @@ _revenues_: $2.268 billion (2022 est.)<br>
 _expenditures_: $1.145 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-50.4% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
-10.9% (of GDP) (2023 est.)<br>
+10.8% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -656,7 +653,7 @@ the military's inventory is comprised mostly of older Russian and Soviet-era wea
 <strong>note:</strong> in August 2021, the Tajik Government removed an exemption for university graduates but began allowing men to pay a fee in order to avoid conscription, although there is a cap on the number of individuals who can take advantage of this exemption<br>
 
 **Military - note**<br>
-the military's primary concerns are terrorism, border security, territorial defense, and instability in neighboring countries; Russia is Tajikistan’s most important security partner and thousands of Russian troops are stationed in the country, primarily at the 201st military base, which is leased until at least 2042; Russia and Tajikistan have a joint air defense system and they conduct periodic joint exercises; Tajikistan has been a member of the Russian-led Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br><br>Tajikistan is the only former Soviet republic that did not form its armed forces from old Soviet Army units following the collapse of the USSR in 1991; rather, Russia retained command of the Soviet units there while the Tajik government raised a military from scratch; the first ground forces were officially created in 1993 from groups that fought for the government during the Tajik Civil War (2025)<br>
+the military's primary concerns are terrorism, border security, territorial defense, and regional security, particularly in neighboring Afghanistan; Russia is traditionally Tajikistan’s most important security partner and thousands of Russian troops are stationed in the country, primarily at the 201st military base, which is leased until at least 2042; Russia and Tajikistan have a joint air defense system and they conduct periodic joint exercises; Tajikistan has been a member of the Russian-led Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force; Tajikistan also cooperates on security matters with China, including joint military training<br><br>Tajikistan is the only former Soviet republic that did not form its armed forces from old Soviet Army units following the collapse of the USSR in 1991; rather, Russia retained command of the Soviet units there while the Tajik government raised a military from scratch; the first ground forces were officially created in 1993 from groups that fought for the government during the Tajik Civil War (2025)<br>
 
 ## Terrorism
 

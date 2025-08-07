@@ -71,7 +71,7 @@ _fresh water lake(s)_: Tonle Sap - 2,700-16,000 sq km<br>
 Mekong (shared with China [s], Burma, Thailand, Laos, and Vietnam [m]) - 4,350 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Pacific Ocean drainage: Mekong (805,604 sq km)<br>
+_Pacific Ocean drainage_: Mekong (805,604 sq km)<br>
 
 **Population distribution**<br>
 population concentrated in the southeast, particularly in and around the capital of Phnom Penh; further distribution is linked closely to the Tonle Sap and Mekong Rivers<br>
@@ -359,7 +359,7 @@ Candlelight Party or CP<br>Cambodian People's Party or CPP <br>Khmer Will Party
 <strong>note 1: </strong>18 parties registered to run in the 2023 parliamentary election<br><br><strong>note 2:</strong>  the Cambodian Government disqualified the Candlelight Party, the main opposition party, from the July 2023 election<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Socheat OUM&nbsp;(since 20 September 2024)<br>
+_chief of mission_: Ambassador Koy KUONG (since 11 June 2025)<br>
 _chancery_: 4530 16th Street NW, Washington, DC 20011<br>
 _telephone_: [1] (202) 726-7742<br>
 _FAX_: [1] (202) 726-8381<br>
@@ -407,25 +407,25 @@ _selected World Heritage Site locales_: Angkor; Temple of Preah Vihear; Sambor P
 one of the fastest growing Southeast Asian economies; rebounding tourism and clothing exports; substantial manufacturing and construction sectors; new trade agreements expanding agricultural markets; significant public debt; investing in new ports and roads<br>
 
 **Real GDP (purchasing power parity)**<br>
-$116.576 billion (2023 est.)<br>
-$111.067 billion (2022 est.)<br>
-$105.674 billion (2021 est.)<br>
+$123.676 billion (2024 est.)<br>
+$116.658 billion (2023 est.)<br>
+$111.095 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.96% (2023 est.)<br>
+6% (2024 est.)<br>
+5% (2023 est.)<br>
 5.1% (2022 est.)<br>
-3.03% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$7,000 (2024 est.)<br>
 $6,700 (2023 est.)<br>
 $6,500 (2022 est.)<br>
-$6,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$42.336 billion (2023 est.)<br>
+$46.353 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -435,18 +435,18 @@ $42.336 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 17.1% (2023 est.)<br>
-_industry_: 40.5% (2023 est.)<br>
-_services_: 36.2% (2023 est.)<br>
+_agriculture_: 16.6% (2024 est.)<br>
+_industry_: 41.8% (2024 est.)<br>
+_services_: 35.6% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 60.3% (2023 est.)<br>
-_government consumption_: 6.1% (2023 est.)<br>
-_investment in fixed capital_: 32.7% (2023 est.)<br>
-_investment in inventories_: 0.6% (2023 est.)<br>
-_exports of goods and services_: 66.9% (2023 est.)<br>
-_imports of goods and services_: -67.3% (2023 est.)<br>
+_household consumption_: 59.8% (2024 est.)<br>
+_government consumption_: 5.8% (2024 est.)<br>
+_investment in fixed capital_: 31.6% (2024 est.)<br>
+_investment in inventories_: 0.6% (2024 est.)<br>
+_exports of goods and services_: 71.4% (2024 est.)<br>
+_imports of goods and services_: -72.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -457,7 +457,7 @@ cassava, rice, maize, sugarcane, vegetables, oil palm fruit, rubber, bananas, ju
 tourism, garments, construction, rice milling, fishing, wood and wood products, rubber, cement, gem mining, textiles<br>
 
 **Industrial production growth rate**<br>
-5.31% (2023 est.)<br>
+9.5% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -466,8 +466,8 @@ tourism, garments, construction, rice milling, fishing, wood and wood products, 
 
 **Unemployment rate**<br>
 0.3% (2024 est.)<br>
-0.2% (2023 est.)<br>
-0.2% (2022 est.)<br>
+0.3% (2023 est.)<br>
+0.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -476,17 +476,14 @@ _male_: 0.7% (2024 est.)<br>
 _female_: 0.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-16.5% (2016 est.)<br>
-
 **Average household expenditures**<br>
 _on food_: 40.7% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 1.9% of household expenditures (2023 est.)<br>
 
 **Remittances**<br>
-6.57% of GDP (2023 est.)<br>
-6.54% of GDP (2022 est.)<br>
-6.9% of GDP (2021 est.)<br>
+6.1% of GDP (2024 est.)<br>
+6.6% of GDP (2023 est.)<br>
+6.5% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -495,22 +492,23 @@ _expenditures_: $4.666 billion (2020 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-30.4% of GDP (2017 est.)<br>
+50.3% of GDP (2023 est.)<br>
+<strong data-olk-copy-source="MessageBody">note:</strong> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-12% (of GDP) (2021 est.)<br>
+12.2% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$222.108 million (2024 est.)<br>
 $552.346 million (2023 est.)<br>
 -$7.582 billion (2022 est.)<br>
--$10.893 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$31.712 billion (2024 est.)<br>
 $27.753 billion (2023 est.)<br>
 $25.497 billion (2022 est.)<br>
-$20.178 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -522,9 +520,9 @@ garments, semiconductors, trunks and cases, footwear, gold (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$34.329 billion (2024 est.)<br>
 $29.421 billion (2023 est.)<br>
 $34.759 billion (2022 est.)<br>
-$32.816 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -536,7 +534,7 @@ refined petroleum, fabric, gold, plastic products, synthetic fabric (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$18.608 billion (2024 est.)<br>
+$22.506 billion (2024 est.)<br>
 $19.984 billion (2023 est.)<br>
 $17.801 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
@@ -547,11 +545,11 @@ $8.019 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: riels (KHR) per US dollar -<br>
+4,072.397 (2024 est.)<br>
 4,110.653 (2023 est.)<br>
 4,102.038 (2022 est.)<br>
 4,098.723 (2021 est.)<br>
 4,092.783 (2020 est.)<br>
-4,061.149 (2019 est.)<br>
 
 ## Energy
 
@@ -668,7 +666,7 @@ the RCAF is armed largely with older Chinese and Russian-origin equipment; in re
 340 Central African Republic (MINUSCA); 180 Lebanon (UNIFIL) (2024)<br>
 
 **Military - note**<br>
-the Cambodian military's primary responsibilities are border, coastal, and internal security; key security partners include China and Vietnam<br><br>the RCAF was re-established in 1993 under the first coalition government from the merger of the Cambodian Government’s military forces (Cambodian People’s Armed Forces) and the two non-communist resistance forces (Sihanoukist National Army, aka National Army for Khmer Independence, and the Khmer People's National Liberation Armed Forces); thousands of communist Khmer Rouge fighters began surrendering by 1994 under a government amnesty program and the last of the Khmer Rouge forces (National Army of Democratic Kampuchea) were demobilized or absorbed into the RCAF in 1999 (2025)<br>
+the primary responsibilities of the Royal Cambodian Armed Forces (RCAF) are border, coastal, and internal security; key security partners include China and Vietnam; in July 2025, following months of rising tensions, the RCAF and the military forces of Thailand clashed in multiple locations along their disputed border; both sides blamed the other for provoking the five-day conflict, which included cross-border artillery shelling by both sides and air attacks by RTARF fighter aircraft and drones<br><br>the RCAF was re-established in 1993 under the first coalition government from the merger of the Cambodian Government’s military forces (Cambodian People’s Armed Forces) and the two non-communist resistance forces (Sihanoukist National Army, aka National Army for Khmer Independence, and the Khmer People's National Liberation Armed Forces); thousands of communist Khmer Rouge fighters began surrendering by 1994 under a government amnesty program and the last of the Khmer Rouge forces (National Army of Democratic Kampuchea) were demobilized or absorbed into the RCAF in 1999 (2025)<br>
 
 ## Transnational Issues
 

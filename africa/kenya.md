@@ -68,7 +68,7 @@ _fresh water lake(s)_: Lake Victoria (shared with Tanzania and Uganda) - 62,940 
 _salt water lake(s)_: Lake Turkana (shared with Ethiopia) - 6,400 sq km<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+_Atlantic Ocean drainage_: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Major aquifers**<br>
 Ogaden-Juba Basin<br>
@@ -335,7 +335,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 8/9/2022<br>
 _parties elected and seats per party_: United Democratic Alliance (UDA) (145); Orange Democratic Movement (ODM) (86); Jubilee Party (JP) (28); Wiper Democratic Movement-Kenya (WDM-K) (26); Others (19); Other (45)<br>
-_percentage of women in chamber_: 23.3%<br>
+_percentage of women in chamber_: 23.4%<br>
 _expected date of next election_: August 2027<br>
 
 **Legislative branch - upper chamber**<br>
@@ -410,25 +410,25 @@ _selected World Heritage Site locales_: Lake Turkana National Parks (n); Mount K
 fast growing, third largest Sub-Saharan economy; strong agriculture sector with emerging services and tourism industries; IMF program to address current account and debt service challenges; business-friendly policies foster infrastructure investment, digital innovation and public-private partnerships; vulnerable to climate change-induced droughts<br>
 
 **Real GDP (purchasing power parity)**<br>
+$328.632 billion (2024 est.)<br>
 $314.491 billion (2023 est.)<br>
 $297.938 billion (2022 est.)<br>
-$284.129 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.56% (2023 est.)<br>
-4.86% (2022 est.)<br>
-7.59% (2021 est.)<br>
+4.5% (2024 est.)<br>
+5.6% (2023 est.)<br>
+4.9% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$5,800 (2024 est.)<br>
 $5,700 (2023 est.)<br>
 $5,500 (2022 est.)<br>
-$5,300 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$108.039 billion (2023 est.)<br>
+$124.499 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -438,18 +438,18 @@ $108.039 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 21.8% (2023 est.)<br>
-_industry_: 16.9% (2023 est.)<br>
-_services_: 55.4% (2023 est.)<br>
+_agriculture_: 21.3% (2024 est.)<br>
+_industry_: 16.1% (2024 est.)<br>
+_services_: 55.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 76.9% (2023 est.)<br>
-_government consumption_: 11.9% (2023 est.)<br>
-_investment in fixed capital_: 17.2% (2023 est.)<br>
-_investment in inventories_: -0.9% (2023 est.)<br>
-_exports of goods and services_: 11.7% (2023 est.)<br>
-_imports of goods and services_: -20.4% (2023 est.)<br>
+_household consumption_: 75.5% (2024 est.)<br>
+_government consumption_: 11.5% (2024 est.)<br>
+_investment in fixed capital_: 17.7% (2024 est.)<br>
+_investment in inventories_: -0.9% (2024 est.)<br>
+_exports of goods and services_: 11.1% (2024 est.)<br>
+_imports of goods and services_: -19.2% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -460,7 +460,7 @@ sugarcane, milk, maize, bananas, tea, potatoes, cassava, cabbages, camel milk, m
 agriculture, transportation, services, manufacturing, construction, telecommunications, tourism, retail<br>
 
 **Industrial production growth rate**<br>
-1.88% (2023 est.)<br>
+0.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -468,9 +468,9 @@ agriculture, transportation, services, manufacturing, construction, telecommunic
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.4% (2024 est.)<br>
+5.5% (2024 est.)<br>
 5.6% (2023 est.)<br>
-5.7% (2022 est.)<br>
+5.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -497,18 +497,15 @@ _highest 10%_: 31.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.91% of GDP (2023 est.)<br>
-3.55% of GDP (2022 est.)<br>
-3.44% of GDP (2021 est.)<br>
+3.9% of GDP (2023 est.)<br>
+3.5% of GDP (2022 est.)<br>
+3.4% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $20.202 billion (2023 est.)<br>
 _expenditures_: $29.933 billion (2023 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
-
-**Public debt**<br>
-54.2% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 14% (of GDP) (2023 est.)<br>
@@ -549,7 +546,7 @@ refined petroleum, palm oil, wheat, plastics, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$10.065 billion (2024 est.)<br>
+$10.067 billion (2024 est.)<br>
 $7.342 billion (2023 est.)<br>
 $7.969 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

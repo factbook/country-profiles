@@ -341,35 +341,26 @@ _history_: adopted 1968<br>
 upper-middle-income Pacific island country; phosphate resource exhaustion made island interior uninhabitable; licenses fishing rights; houses Australia&rsquo;s Regional Processing Centre; former tax haven; largely dependent on foreign subsidies<br>
 
 **Real GDP (purchasing power parity)**<br>
-$147.996 million (2023 est.)<br>
-$147.127 million (2022 est.)<br>
-$142.811 million (2021 est.)<br>
+$150.581 million (2024 est.)<br>
+$147.976 million (2023 est.)<br>
+$147.026 million (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.59% (2023 est.)<br>
-3.02% (2022 est.)<br>
-7.75% (2021 est.)<br>
+1.8% (2024 est.)<br>
+0.6% (2023 est.)<br>
+3% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$12,600 (2024 est.)<br>
 $12,500 (2023 est.)<br>
 $12,500 (2022 est.)<br>
-$12,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$154.17 million (2023 est.)<br>
+$160.351 million (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
-
-**Inflation rate (consumer prices)**<br>
-5.1% (2017 est.)<br>
-8.2% (2016 est.)<br>
-
-**GDP - composition, by end use**<br>
-_exports of goods and services_: 42.7% (2023 est.)<br>
-_imports of goods and services_: -98.7% (2023 est.)<br>
-<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 coconuts, tropical fruits, pork, eggs, pork offal, pork fat, chicken, papayas, vegetables, cabbages (2023)<br>
@@ -378,23 +369,16 @@ coconuts, tropical fruits, pork, eggs, pork offal, pork fat, chicken, papayas, v
 **Industries**<br>
 phosphate mining, offshore banking, coconut products<br>
 
-**Industrial production growth rate**<br>
-4.3% (2014 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
-
 **Remittances**<br>
-0.57% of GDP (2023 est.)<br>
-0.59% of GDP (2022 est.)<br>
-0.68% of GDP (2021 est.)<br>
+0.6% of GDP (2023 est.)<br>
+0.6% of GDP (2022 est.)<br>
+0.7% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $199.728 million (2020 est.)<br>
 _expenditures_: $132.607 million (2020 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
-
-**Public debt**<br>
-62% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 44.4% (of GDP) (2020 est.)<br>

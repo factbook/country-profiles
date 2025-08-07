@@ -391,25 +391,25 @@ _selected World Heritage Site locales_: Ancient City of Polonnaruwa (c); Ancient
 economic contraction in 2022-23 marked by increased poverty and significant inflation; IMF two-year debt relief program following 2022 sovereign default; structural challenges from non-diversified economy and rigid labor laws; heavy dependence on tourism receipts and remittances<br>
 
 **Real GDP (purchasing power parity)**<br>
-$287.132 billion (2023 est.)<br>
-$293.885 billion (2022 est.)<br>
-$317.188 billion (2021 est.)<br>
+$301.407 billion (2024 est.)<br>
+$287.031 billion (2023 est.)<br>
+$293.878 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+5% (2024 est.)<br>
 -2.3% (2023 est.)<br>
--7.35% (2022 est.)<br>
-4.21% (2021 est.)<br>
+-7.3% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$13,800 (2024 est.)<br>
 $13,000 (2023 est.)<br>
 $13,200 (2022 est.)<br>
-$14,300 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$84.357 billion (2023 est.)<br>
+$98.963 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -419,18 +419,18 @@ $84.357 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 8.3% (2023 est.)<br>
-_industry_: 25.6% (2023 est.)<br>
-_services_: 59.9% (2023 est.)<br>
+_agriculture_: 8.3% (2024 est.)<br>
+_industry_: 25.5% (2024 est.)<br>
+_services_: 57.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 69.3% (2023 est.)<br>
-_government consumption_: 6.9% (2023 est.)<br>
-_investment in fixed capital_: 17.6% (2023 est.)<br>
-_investment in inventories_: 7.9% (2023 est.)<br>
-_exports of goods and services_: 20.5% (2023 est.)<br>
-_imports of goods and services_: -22.2% (2023 est.)<br>
+_household consumption_: 68.7% (2024 est.)<br>
+_government consumption_: 7% (2024 est.)<br>
+_investment in fixed capital_: 18.8% (2024 est.)<br>
+_investment in inventories_: 8.2% (2024 est.)<br>
+_exports of goods and services_: 19.9% (2024 est.)<br>
+_imports of goods and services_: -22.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -441,17 +441,17 @@ rice, coconuts, tea, sugarcane, plantains, milk, fiber crops, cassava, chicken, 
 processing of rubber, tea, coconuts, tobacco and other agricultural commodities; tourism; clothing and textiles; mining<br>
 
 **Industrial production growth rate**<br>
--9.23% (2023 est.)<br>
+11% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.593 million (2024 est.)<br>
+8.499 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 5% (2024 est.)<br>
 6% (2023 est.)<br>
-4.5% (2022 est.)<br>
+4.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -478,9 +478,9 @@ _highest 10%_: 30.8% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-7.14% of GDP (2023 est.)<br>
-5.15% of GDP (2022 est.)<br>
-6.23% of GDP (2021 est.)<br>
+7.2% of GDP (2023 est.)<br>
+5.2% of GDP (2022 est.)<br>
+6.2% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -493,7 +493,7 @@ _expenditures_: $15.477 billion (2021 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-9.8% (of GDP) (2023 est.)<br>
+9.9% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -531,7 +531,7 @@ refined petroleum, fabric, crude petroleum, packaged medicine, cotton fabric (20
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$6.055 billion (2024 est.)<br>
+$6.094 billion (2024 est.)<br>
 $4.405 billion (2023 est.)<br>
 $1.896 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
@@ -659,7 +659,7 @@ the military's inventory consists mostly of Chinese- and Russian-origin equipmen
 110 Central African Republic (MINUSCA); 125 Lebanon (UNIFIL); 240 Mali (MINUSMA) (2024)<br>
 
 **Military - note**<br>
-the military of Sri Lanka is responsible for external defense and may be called upon to handle specifically delineated domestic security responsibilities that generally do not include arrest authority; it has sent small numbers of personnel on UN peacekeeping missions; from 1983 to 2009, the military fought against the Liberation Tigers of Tamil Eelam (LTTE), a conflict that involved both guerrilla and conventional warfare, as well as acts of terrorism and human rights abuses, and cost the military nearly 30,000 killed; since the end of the war, a large portion of the Army reportedly remains deployed in the majority Tamil-populated northern and eastern provinces; the military over the past decade also has increased its role in a range of commercial sectors including agriculture, hotels, leisure, and restaurants <br><br>Sri Lanka traditionally has had close security ties to India; India participated in the LTTE war in 1987-1991, losing over 1,000 soldiers; the Sri Lankan and Indian militaries continue to conduct exercises together, and India trains over 1,000 Sri Lankan soldiers per year; in recent years, Sri Lanka has increased military ties with China, including acquiring military equipment, hosting naval port calls, and sending personnel to China for training (2024)<br>
+the military of Sri Lanka is responsible for external defense, maritime security, and maintaining internal security; it has sent small numbers of personnel on UN peacekeeping missions; from 1983 to 2009, the military fought against the Liberation Tigers of Tamil Eelam (LTTE), a conflict that involved both guerrilla and conventional warfare, as well as acts of terrorism and human rights abuses, and cost the military nearly 30,000 killed; since the end of the war, a large portion of the Army reportedly remains deployed in the majority Tamil-populated northern and eastern provinces; the military over the past decade also has increased its role in a range of commercial sectors including agriculture, hotels, leisure, and restaurants<br><br>Sri Lanka traditionally has had close security ties to India; the Sri Lankan and Indian militaries conduct exercises together, and India trains approximately 1,000 Sri Lankan soldiers per year; in recent years, Sri Lanka has increased military ties with China, including acquiring military equipment, hosting naval port calls, and sending personnel to China for training (2025)<br>
 
 ## Terrorism
 

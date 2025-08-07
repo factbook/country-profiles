@@ -68,7 +68,8 @@ _other_: 37.3% (2022 est.)<br>
 Mekong (shared with China [s], Laos, Thailand, Cambodia, and Vietnam [m]) - 4,350 km; Salween river mouth (shared with China [s] and Thailand) - 3,060 km; Irrawaddy river mouth (shared with China [s]) - 2,809 km; Chindwin - 1,158 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Irrawaddy (413,710 sq km), Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
+_Indian Ocean drainage_: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Irrawaddy (413,710 sq km), Salween (271,914 sq km)<br>
+_Pacific Ocean drainage_: Mekong (805,604 sq km)<br>
 
 **Population distribution**<br>
 population concentrated along coastal areas and in general proximity to the shores of the Irrawaddy River; the extreme north is relatively underpopulated<br>
@@ -324,15 +325,15 @@ _residency requirement for naturalization_: none<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Prime Minister, State Administration Council Chair, Sr. Gen. MIN AUNG HLAING (since 1 August 2021)<br>
-_head of government_: Prime Minister, State Administration Council Chair, Sr. Gen. MIN AUNG HLAING (since 1 August 2021)<br>
+_chief of state_: Acting President Sr. Gen. MIN AUNG HLAING (since 31 July 2025)<br>
+_head of government_: Prime Minister NYO SAW (since 31 July 2025)<br>
 _cabinet_: Cabinet appointments shared by the president and the commander-in-chief<br>
-_election/appointment process_: prior to the military takeover in 2021, president was indirectly elected by simple majority vote by the full Assembly of the Union from among 3 vice-presidential candidates nominated by the Presidential Electoral College (consists of members of the lower and upper houses and military members); the other 2 candidates become vice presidents (president elected for a 5-year term)<br>
+_election/appointment process_: prior to the military takeover in 2021, president was indirectly elected by simple majority vote by the full Assembly of the Union from among 3 vice-presidential candidates nominated by the Presidential Electoral College (consists of members of the lower and upper houses and military members); the other 2 candidates became vice presidents (president elected for a 5-year term)<br>
 _most recent election date_: 8 November 2020<br>
 _election results_: <em><br>2020:  </em>the National League for Democracy (NLD) won 396 seats across both houses -- well above the 322 required for a parliamentary majority -- but on 1 February 2021, the military claimed the results of the election were illegitimate and deposed State Counsellor AUNG SAN SUU KYI and President WIN MYINT of the NLD, causing military-affiliated Vice President MYINT SWE (USDP) to become acting president; MYINT SWE subsequently handed power to coup leader MIN AUNG HLAING; WIN MYINT and other key leaders of the ruling NLD party were placed under arrest after the military takeover<br><em><br>2018</em>: WIN MYINT elected president in an indirect by-election held on 28 March 2018 after the resignation of HTIN KYAW; Assembly of the Union vote for president - WIN MYINT (NLD) 403, MYINT SWE (USDP) 211, HENRY VAN THIO (NLD) 18, 4 votes canceled (636 votes cast)<br>
-_expected date of next election_: the military junta has pledged to hold new elections but has repeatedly announced delays<br>
-_state counsellor_: State Counselor AUNG SAN SUU KYI (since 6 April 2016); note - under arrest since 1 February 2021; formerly served as Minister of Foreign Affairs and Minister for the Office of the President<br>
-<strong>note 1: </strong>the military took over the government on 1 February 2021 and declared a state of emergency; the military replaced the Cabinet with the State Administrative Council (SAC), which is the official name of the military government in Burma<br><br><strong>note 2: </strong>prior to the military takeover, the state counsellor served the equivalent term of the president and was similar to a prime minister<br>
+_expected date of next election_: on 31 July 2025, the military government announced that it was preparing for elections to be held in December 2025<br>
+_state counsellor_: State Counselor AUNG SAN SUU KYI (since 6 April 2016); note - under arrest since 1 February 2021<br>
+<strong>note 1: </strong>on 31 July 2025, the military ended the state of emergency that had been in place since taking over the government in February 2021, dissolved the State Administrative Council (SAC) and replaced it with the National Security and Peace Commission (NSPC), chaired by Sr. Gen. MIN AUNG HLAING; the SAC had been the official name of the military government in Burma<br><br><strong>note 2: </strong>prior to the military takeover, the state counsellor served the equivalent term of the president and was similar to a prime minister<br>
 
 **Legislative branch**<br>
 _legislature name_: Assembly of the Union (Pyidaungsu Hluttaw)<br>
@@ -349,7 +350,7 @@ Arakan National Party or ANP <br>Democratic Party or DP <br>Kayah State Democr
 <strong>note</strong>: more than 90 political parties participated in the 2020 elections; political parties continued to function after the 2021 coup, although some political leaders have been arrested by the military regime; in 2023, the regime announced a new law with several rules and restrictions on political parties and their ability to participate in elections; dozens of parties refused to comply with the new rules; the regime's election commission has subsequently banned more than 80 political parties, including the National League for Democracy<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires THET WIN (since 22 June 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Soe Thet NAUNG (since 24 June 2025)<br>
 _chancery_: 2300 S Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-3344<br>
 _FAX_: [1] (202) 332-4351<br>
@@ -397,25 +398,25 @@ _selected World Heritage Site locales_: Pyu Ancient Cities; Bagan<br>
 slowly recovering Southeast Asian economy; household incomes weaken domestic consumption; growing trade deficit; declining employment; high inflation and reduced currency power; agriculture sector remains most stable&nbsp;<br>
 
 **Real GDP (purchasing power parity)**<br>
+$287.559 billion (2024 est.)<br>
 $290.381 billion (2023 est.)<br>
 $287.624 billion (2022 est.)<br>
-$276.462 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.96% (2023 est.)<br>
-4.04% (2022 est.)<br>
--12.02% (2021 est.)<br>
+-1% (2024 est.)<br>
+1% (2023 est.)<br>
+4% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$5,300 (2024 est.)<br>
 $5,400 (2023 est.)<br>
 $5,400 (2022 est.)<br>
-$5,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$66.758 billion (2023 est.)<br>
+$74.08 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -425,18 +426,10 @@ $66.758 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 22.7% (2023 est.)<br>
-_industry_: 37.6% (2023 est.)<br>
-_services_: 39.7% (2023 est.)<br>
+_agriculture_: 20.8% (2024 est.)<br>
+_industry_: 37.8% (2024 est.)<br>
+_services_: 41.4% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
-
-**GDP - composition, by end use**<br>
-_household consumption_: 59.2% (2017 est.)<br>
-_government consumption_: 13.8% (2017 est.)<br>
-_investment in fixed capital_: 33.5% (2017 est.)<br>
-_investment in inventories_: 1.5% (2017 est.)<br>
-_exports of goods and services_: 21.4% (2017 est.)<br>
-_imports of goods and services_: -28.6% (2017 est.)<br>
 
 **Agricultural products**<br>
 rice, sugarcane, vegetables, beans, maize, groundnuts, plantains, fruits, coconuts, onions (2023)<br>
@@ -446,7 +439,7 @@ rice, sugarcane, vegetables, beans, maize, groundnuts, plantains, fruits, coconu
 agricultural processing; wood and wood products; copper, tin, tungsten, iron; cement, construction materials; pharmaceuticals; fertilizer; oil and natural gas; garments; jade and gems<br>
 
 **Industrial production growth rate**<br>
-0.02% (2023 est.)<br>
+-0.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -454,8 +447,8 @@ agricultural processing; wood and wood products; copper, tin, tungsten, iron; ce
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3% (2024 est.)<br>
-3% (2023 est.)<br>
+3.1% (2024 est.)<br>
+3.1% (2023 est.)<br>
 3.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -483,18 +476,15 @@ _highest 10%_: 25.5% (2017 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.65% of GDP (2023 est.)<br>
-2.03% of GDP (2022 est.)<br>
-1.93% of GDP (2021 est.)<br>
+1.6% of GDP (2023 est.)<br>
+2% of GDP (2022 est.)<br>
+1.9% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $10.945 billion (2019 est.)<br>
 _expenditures_: $10.22 billion (2019 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
-
-**Public debt**<br>
-33.6% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 6% (of GDP) (2019 est.)<br>

@@ -314,32 +314,20 @@ _history_: official anthem, as a British Crown dependency; played when the sover
 **Economic overview**<br>
 high-income British island economy; known financial services and tourism industries; taxation incentives for technology and financial firms to operate; historic fishing and agriculture industries are declining; major online gambling and film industry locale<br>
 
-**Real GDP (purchasing power parity)**<br>
-$6.792 billion (2015 est.)<br>
-$7.428 billion (2014 est.)<br>
-<strong>note:</strong> data are in 2014 dollars<br>
-
 **Real GDP growth rate**<br>
-3.84% (2021 est.)<br>
--8.84% (2020 est.)<br>
-0.25% (2019 est.)<br>
+-4.2% (2022 est.)<br>
+3.8% (2021 est.)<br>
+-8.8% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
-**Real GDP per capita**<br>
-$84,600 (2014 est.)<br>
-
 **GDP (official exchange rate)**<br>
-$7.931 billion (2021 est.)<br>
+$7.431 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
-**Inflation rate (consumer prices)**<br>
-4.1% (2017 est.)<br>
-1% (2016 est.)<br>
-
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.3% (2021 est.)<br>
-_industry_: 9.4% (2021 est.)<br>
-_services_: 91.8% (2021 est.)<br>
+_agriculture_: 0.4% (2022 est.)<br>
+_industry_: 6.9% (2022 est.)<br>
+_services_: 95.1% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **Agricultural products**<br>
@@ -349,11 +337,8 @@ cereals, vegetables; cattle, sheep, pigs, poultry<br>
 financial services, light manufacturing, tourism<br>
 
 **Industrial production growth rate**<br>
-9.95% (2021 est.)<br>
+-29.5% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
-
-**Unemployment rate**<br>
-1.1% (2017 est.)<br>
 
 **Exports - partners**<br>
 almost entirely United Kingdom (2022)<br>

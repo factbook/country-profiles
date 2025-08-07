@@ -363,25 +363,25 @@ _history_: adopted 1968<br>
 growing CEMAC economy and new OPEC member; large oil and gas reserves; targeting economic diversification and poverty reduction; still recovering from CEMAC crisis; improving public financial management; persistent poverty; hard-hit by COVID-19<br>
 
 **Real GDP (purchasing power parity)**<br>
+$29.248 billion (2024 est.)<br>
 $28.985 billion (2023 est.)<br>
 $30.539 billion (2022 est.)<br>
-$29.585 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--5.09% (2023 est.)<br>
-3.22% (2022 est.)<br>
-0.86% (2021 est.)<br>
+0.9% (2024 est.)<br>
+-5.1% (2023 est.)<br>
+3.2% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$15,500 (2024 est.)<br>
 $15,700 (2023 est.)<br>
 $16,900 (2022 est.)<br>
-$16,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$12.338 billion (2023 est.)<br>
+$12.766 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -391,18 +391,18 @@ $12.338 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3.1% (2023 est.)<br>
-_industry_: 46.5% (2023 est.)<br>
-_services_: 50.4% (2023 est.)<br>
+_agriculture_: 3.1% (2024 est.)<br>
+_industry_: 45.8% (2024 est.)<br>
+_services_: 51.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 52.7% (2023 est.)<br>
-_government consumption_: 26.2% (2023 est.)<br>
-_investment in fixed capital_: 9.3% (2023 est.)<br>
-_investment in inventories_: 0% (2023 est.)<br>
-_exports of goods and services_: 36.6% (2023 est.)<br>
-_imports of goods and services_: -24.8% (2023 est.)<br>
+_household consumption_: 52.9% (2024 est.)<br>
+_government consumption_: 28.3% (2024 est.)<br>
+_investment in fixed capital_: 9.1% (2024 est.)<br>
+_investment in inventories_: -0.1% (2024 est.)<br>
+_exports of goods and services_: 35.2% (2024 est.)<br>
+_imports of goods and services_: -25.4% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -413,7 +413,7 @@ sweet potatoes, cassava, plantains, oil palm fruit, root vegetables, bananas, co
 petroleum, natural gas, sawmilling<br>
 
 **Industrial production growth rate**<br>
--12.92% (2023 est.)<br>
+0.8% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -421,7 +421,7 @@ petroleum, natural gas, sawmilling<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.8% (2024 est.)<br>
+7.9% (2024 est.)<br>
 8.4% (2023 est.)<br>
 8.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -432,31 +432,34 @@ _male_: 13.9% (2024 est.)<br>
 _female_: 15.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
+**Gini Index coefficient - distribution of family income**<br>
+38.5 (2022 est.)<br>
+<strong>note:</strong> index (0-100) of income distribution; higher values represent greater inequality<br>
+
+**Household income or consumption by percentage share**<br>
+_lowest 10%_: 2.6% (2022 est.)<br>
+_highest 10%_: 29.1% (2022 est.)<br>
+% share of income accruing to lowest and highest 10% of population<br>
+
 **Remittances**<br>
 0% of GDP (2023 est.)<br>
 0% of GDP (2022 est.)<br>
 0% of GDP (2021 est.)<br>
+<strong>note:</strong> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $3.62 billion (2022 est.)<br>
 _expenditures_: $1.512 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-37.4% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
 6.6% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Current account balance**<br>
--$738 million (2017 est.)<br>
--$1.457 billion (2016 est.)<br>
-
 **Exports**<br>
+$4.489 billion (2024 est.)<br>
 $4.516 billion (2023 est.)<br>
 $7.25 billion (2022 est.)<br>
-$5.513 billion (2021 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -468,9 +471,9 @@ crude petroleum, natural gas, alcohols, wood, scrap iron (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$3.24 billion (2024 est.)<br>
 $3.065 billion (2023 est.)<br>
 $3.948 billion (2022 est.)<br>
-$3.889 billion (2021 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

@@ -299,14 +299,10 @@ $4.98 billion (2014 est.)<br>
 <strong>note:</strong> data are in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
-3.72% (2023 est.)<br>
-5.34% (2022 est.)<br>
-15.46% (2021 est.)<br>
+3.7% (2023 est.)<br>
+5.3% (2022 est.)<br>
+9.9% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency; entry includes Jersey and Guernsey<br>
-
-**Real GDP per capita**<br>
-$56,600 (2016 est.)<br>
-$49,500 (2015 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $12.508 billion (2023 est.)<br>
@@ -325,7 +321,7 @@ potatoes, cauliflower, tomatoes; beef, dairy products<br>
 tourism, banking and finance, dairy, electronics<br>
 
 **Industrial production growth rate**<br>
-1.26% (2023 est.)<br>
+1.3% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency; entry includes Jersey and Guernsey<br>
 
 **Labor force**<br>
@@ -335,7 +331,7 @@ tourism, banking and finance, dairy, electronics<br>
 **Unemployment rate**<br>
 6.3% (2024 est.)<br>
 6.2% (2023 est.)<br>
-6.1% (2022 est.)<br>
+6.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment; entry includes Jersey and Guernsey<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -343,9 +339,6 @@ _total_: 14.1% (2024 est.)<br>
 _male_: 14.2% (2024 est.)<br>
 _female_: 13.9% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-0.3 (2014 est.)<br>
 
 **Exports - partners**<br>
 almost entirely United Kingdom (2022)<br>

@@ -274,8 +274,8 @@ _agricultural_: 18.96 billion cubic meters (2020 est.)<br>
 111.5 billion cubic meters (2020 est.)<br>
 
 **Geoparks**<br>
-_total global geoparks and regional networks_: 17 (2024)<br>
-_global geoparks and regional networks_: Basque Coast UNESCO; Cabo de Gata-N&iacute;jar; Cabo Ortegal; Calatrava Volcanoes. Ciudad Real; Central Catalonia; Courel Mountains; El Hierro; Granada; Lanzarote and Chinijo Islands; Las Loras; Maestrazgo; Molina-Alto; Origens; Sierra Norte de Sevilla; Sierras Subb&eacute;ticas; Sobrarbe-Pirineos: Villuercas Ibores Jara (2024)<br>
+_total global geoparks and regional networks_: 18 (2025)<br>
+_global geoparks and regional networks_: Basque Coast UNESCO; Cabo de Gata-N&iacute;jar; Cabo Ortegal; Calatrava Volcanoes. Ciudad Real; Central Catalonia; Costa Quebrada; Courel Mountains; El Hierro; Granada; Lanzarote and Chinijo Islands; Las Loras; Maestrazgo; Molina-Alto; Origens; Sierra Norte de Sevilla; Sierras Subb&eacute;ticas; Sobrarbe-Pirineos: Villuercas Ibores Jara (2025)<br>
 
 ## Government
 
@@ -415,25 +415,25 @@ _selected World Heritage Site locales_: Cave of Altamira and Paleolithic Cave Ar
 <p>high-income, core-EU and eurozone economy; strong growth driven by public consumption, tourism, and other service exports; tight labor market despite high structural unemployment; efforts to narrow persistent fiscal deficits through tax and spending measures; high but declining unemployment supported by job growth and immigration</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.279 trillion (2023 est.)<br>
-$2.22 trillion (2022 est.)<br>
-$2.091 trillion (2021 est.)<br>
+$2.361 trillion (2024 est.)<br>
+$2.289 trillion (2023 est.)<br>
+$2.229 trillion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.68% (2023 est.)<br>
-6.18% (2022 est.)<br>
-6.4% (2021 est.)<br>
+3.2% (2024 est.)<br>
+2.7% (2023 est.)<br>
+6.2% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$47,100 (2023 est.)<br>
-$46,500 (2022 est.)<br>
-$44,100 (2021 est.)<br>
+$48,400 (2024 est.)<br>
+$47,300 (2023 est.)<br>
+$46,600 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.62 trillion (2023 est.)<br>
+$1.723 trillion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -443,9 +443,9 @@ $1.62 trillion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.5% (2023 est.)<br>
-_industry_: 20.1% (2023 est.)<br>
-_services_: 68.7% (2023 est.)<br>
+_agriculture_: 2.5% (2024 est.)<br>
+_industry_: 19.5% (2024 est.)<br>
+_services_: 69.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -465,17 +465,17 @@ milk, olives, pork, grapes, wheat, tomatoes, barley, sugar beets, maize, oranges
 textiles and apparel (including footwear), food and beverages, metals and metal manufactures, chemicals, shipbuilding, automobiles, machine tools, tourism, clay and refractory products, footwear, pharmaceuticals, medical equipment<br>
 
 **Industrial production growth rate**<br>
-1.07% (2023 est.)<br>
+2.6% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-24.15 million (2024 est.)<br>
+24.386 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 11.4% (2024 est.)<br>
 12.2% (2023 est.)<br>
-12.9% (2022 est.)<br>
+13% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -489,7 +489,7 @@ _female_: 27.7% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-33.9 (2021 est.)<br>
+33.6 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -497,14 +497,14 @@ _on food_: 12.9% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 4% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.2% (2021 est.)<br>
-_highest 10%_: 24.7% (2021 est.)<br>
+_lowest 10%_: 2.3% (2022 est.)<br>
+_highest 10%_: 24.8% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.33% of GDP (2023 est.)<br>
+0.4% of GDP (2024 est.)<br>
+0.3% of GDP (2023 est.)<br>
 0.3% of GDP (2022 est.)<br>
-0.27% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -521,15 +521,15 @@ _expenditures_: $514.452 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$52.182 billion (2024 est.)<br>
 $43.012 billion (2023 est.)<br>
 $4.482 billion (2022 est.)<br>
-$11.179 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$642.358 billion (2024 est.)<br>
 $616.648 billion (2023 est.)<br>
 $573.598 billion (2022 est.)<br>
-$492.568 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -541,9 +541,9 @@ cars, packaged medicine, refined petroleum, vehicle parts/accessories, garments 
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$568.502 billion (2024 est.)<br>
 $552.948 billion (2023 est.)<br>
 $561.448 billion (2022 est.)<br>
-$478.032 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -555,7 +555,7 @@ crude petroleum, cars, garments, vehicle parts/accessories, natural gas (2023)<b
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$84.154 billion (2024 est.)<br>
+$107.774 billion (2024 est.)<br>
 $103.089 billion (2023 est.)<br>
 $92.905 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
@@ -701,7 +701,7 @@ Spain has up to 3,000 military personnel deployed on 17 missions supporting the 
 <strong> </strong><br>
 
 **Military - note**<br>
-the Spanish Armed Forces have a wide variety of responsibilities, including protecting the country’s national interests, sovereignty, and territory, providing support during natural disasters, and fulfilling Spain’s responsibilities to European and international security; the military conducts operations worldwide, and its air, ground, and naval forces participate in a variety of EU-, NATO-, and UN-led missions; Spain joined NATO in 1982 and is fully integrated into the NATO structure; it routinely conducts exercises with EU and NATO partners, and hosts one of NATO’s two combined air operations centers <br><br>the military is organized into commands for air, cyberspace, joint, land, maritime, and space operations; it maintains garrisons in the Balearic Islands, the Canary Islands, Ceuta, and Melilla<br><br>the Spanish military has a rich history that goes back to the 13th century; the Army has an infantry regiment, formed in the 13th century, that is considered the oldest still active military unit in the Western world; the Marine Corps, which traces its roots back to 1537, is the oldest naval infantry force in the World; Spain created a Spanish Legion for foreigners in 1920, but early on the Legion was primarily filled by native Spaniards due to difficulties in recruiting foreigners, and most of its foreign members were from the Republic of Cuba; it was modeled after the French Foreign Legion and its purpose was to provide a corps of professional troops to fight in Spain's colonial campaigns in North Africa; in more recent years, it has been used in NATO peacekeeping deployments; today’s Legion includes a mix of native Spaniards and foreigners with Spanish residency (2024)<br>
+the Spanish military has a wide range of responsibilities, including protecting the country’s national interests, sovereignty, and territory, providing support during natural disasters, and fulfilling Spain’s responsibilities to European and international security; it maintains garrisons in the Balearic Islands, the Canary Islands, Ceuta, and Melilla, conducts operations worldwide, and participates in a variety of EU-, NATO-, and UN-led missions; Spain joined NATO in 1982 and is fully integrated into the NATO structure; it routinely conducts exercises with NATO (and EU) partners, and hosts one of NATO’s two combined air operations centers <br><br>the Spanish military has a rich history going back to the 13th century; the Army has an infantry regiment, formed in the 13th century, that is considered the oldest still active military unit in the Western world; the Marine Corps, which traces its roots back to 1537, is the oldest naval infantry force in the World; Spain created a Spanish Legion for foreigners in 1920, but early on the Legion was primarily filled by native Spaniards due to difficulties in recruiting foreigners, and most of its foreign members were from the Republic of Cuba; it was modeled after the French Foreign Legion and its purpose was to provide a corps of professional troops to fight in Spain's colonial campaigns in North Africa; in more recent years, it has been used in NATO peacekeeping deployments; today’s Legion includes a mix of native Spaniards and foreigners with Spanish residency (2025)<br>
 
 ## Space
 

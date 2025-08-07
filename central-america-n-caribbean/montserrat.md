@@ -288,15 +288,6 @@ _history_: official anthem, as a UK territory<br>
 **Economic overview**<br>
 formerly high-income economy; volcanic activity destroyed much of original infrastructure and economy; new capital and port is being developed; key geothermal and solar power generation; key music recording operations<br>
 
-**Inflation rate (consumer prices)**<br>
-1.2% (2017 est.)<br>
--0.2% (2016 est.)<br>
-
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 1.9% (2017 est.)<br>
-_industry_: 7.8% (2017 est.)<br>
-_services_: 90.3% (2017 est.)<br>
-
 **GDP - composition, by end use**<br>
 _household consumption_: 90.8% (2017 est.)<br>
 _government consumption_: 50.4% (2017 est.)<br>
@@ -311,25 +302,10 @@ cabbages, carrots, cucumbers, tomatoes, onions, peppers; livestock products<br>
 **Industries**<br>
 tourism, rum, textiles, electronic appliances<br>
 
-**Industrial production growth rate**<br>
--21% (2017 est.)<br>
-
-**Unemployment rate**<br>
-5.6% (2017 est.)<br>
-
 **Budget**<br>
 _revenues_: $55.651 million (2014 est.)<br>
 _expenditures_: $43.652 million (2014 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
-
-**Current account balance**<br>
--$15.4 million (2017 est.)<br>
--$12.2 million (2016 est.)<br>
-
-**Exports**<br>
-$11.9 million (2021 est.)<br>
-$4.4 million (2017 est.)<br>
-$5.2 million (2016 est.)<br>
 
 **Exports - partners**<br>
 USA 25%, Antigua &amp; Barbuda 13%, Guyana 13%, Egypt 12%, France 10% (2023)<br>
@@ -352,17 +328,13 @@ USA 62%, Antigua &amp; Barbuda 6%, UK 5%, Belgium 4%, Trinidad &amp; Tobago 3% (
 refined petroleum, electric generating sets, cars, stone processing machines, x-ray equipment (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
-**Reserves of foreign exchange and gold**<br>
-$47.58 million (2017 est.)<br>
-$51.47 million (2015 est.)<br>
-
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
+2.7 (2024 est.)<br>
 2.7 (2023 est.)<br>
 2.7 (2022 est.)<br>
 2.7 (2021 est.)<br>
 2.7 (2020 est.)<br>
-2.7 (2019 est.)<br>
 
 ## Energy
 

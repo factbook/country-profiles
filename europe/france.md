@@ -44,11 +44,10 @@ _exclusive economic zone_: 200 nm (does not apply to the Mediterranean Sea)<br>
 _continental shelf_: 200m depth or to the depth of exploitation<br>
 
 **Climate**<br>
-<p><strong>metropolitan France:</strong> generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as the mistral</p><br>
-<strong>French Guiana:</strong> tropical; hot, humid; little seasonal temperature variation <br><br><strong>Guadeloupe and Martinique:</strong> subtropical tempered by trade winds; moderately high humidity; rainy season (June to October); vulnerable to devastating cyclones (hurricanes) every eight years on average <br><br><strong>Mayotte:</strong> tropical; marine; hot, humid, rainy season during northeastern monsoon (November to May); dry season is cooler (May to November) <br><br><strong>Reunion:</strong> tropical, but temperature moderates with elevation; cool and dry (May to November), hot and rainy (November to April)<br>
+<strong>metropolitan France:</strong> generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as the mistral<br><br><strong>French Guiana:</strong> tropical; hot, humid; little seasonal temperature variation <br><br><strong>Guadeloupe and Martinique:</strong> subtropical tempered by trade winds; moderately high humidity; rainy season (June to October); vulnerable to devastating cyclones (hurricanes) every eight years on average <br><br><strong>Mayotte:</strong> tropical; marine; hot, humid, rainy season during northeastern monsoon (November to May); dry season is cooler (May to November) <br><br><strong>Reunion:</strong> tropical, but temperature moderates with elevation; cool and dry (May to November), hot and rainy (November to April)<br>
 
 **Terrain**<br>
-<p><strong>metropolitan France:</strong> mostly flat plains or gently rolling hills in north and west; remainder is mountainous, especially Pyrenees in south, Alps in east; </p><p><strong>French Guiana:</strong> low-lying coastal plains rising to hills and small mountains; </p><p><strong>Guadeloupe:</strong> Basse-Terre is volcanic in origin with interior mountains; Grande-Terre is low limestone formation; most of the seven other islands are volcanic in origin; </p><p><strong>Martinique:</strong> mountainous with indented coastline; dormant volcano; </p><p><strong>Mayotte:</strong> generally undulating, with deep ravines and ancient volcanic peaks; </p><p><strong>Reunion:</strong> mostly rugged and mountainous; fertile lowlands along coast</p><br>
+<strong>metropolitan France:</strong> mostly flat plains or gently rolling hills in north and west; remainder is mountainous, especially Pyrenees in south, Alps in east<br><br><strong>French Guiana:</strong> low-lying coastal plains rising to hills and small mountains<br><br><strong>Guadeloupe:</strong> Basse-Terre is volcanic in origin with interior mountains; Grande-Terre is low limestone formation; most of the seven other islands are volcanic in origin<br><br><strong>Martinique:</strong> mountainous with indented coastline; dormant volcano<br><br><strong>Mayotte:</strong> generally undulating, with deep ravines and ancient volcanic peaks<br><br><strong>Reunion:</strong> mostly rugged and mountainous; fertile lowlands along coast<br>
 
 **Elevation**<br>
 _highest point_: Mont Blanc 4,810<br>
@@ -77,7 +76,7 @@ _fresh water lake(s)_: Lake Geneva (shared with Switzerland) - 580 sq km<br>
 Rhin (Rhine) (shared with Switzerland [s], Germany, and Netherlands [m]) - 1,233 km; Loire - 1,012 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Loire (115,282 sq km), Seine (78,919 sq km), Rhine-Maas (198,735 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
+_Atlantic Ocean drainage_: Loire (115,282 sq km), Seine (78,919 sq km), Rhine-Maas (198,735 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
 
 **Major aquifers**<br>
 Paris Basin<br>
@@ -248,8 +247,7 @@ _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effec
 _signed, but not ratified_: none of the selected agreements<br>
 
 **Climate**<br>
-<p><strong>metropolitan France:</strong> generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as the mistral</p><br>
-<strong>French Guiana:</strong> tropical; hot, humid; little seasonal temperature variation <br><br><strong>Guadeloupe and Martinique:</strong> subtropical tempered by trade winds; moderately high humidity; rainy season (June to October); vulnerable to devastating cyclones (hurricanes) every eight years on average <br><br><strong>Mayotte:</strong> tropical; marine; hot, humid, rainy season during northeastern monsoon (November to May); dry season is cooler (May to November) <br><br><strong>Reunion:</strong> tropical, but temperature moderates with elevation; cool and dry (May to November), hot and rainy (November to April)<br>
+<strong>metropolitan France:</strong> generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as the mistral<br><br><strong>French Guiana:</strong> tropical; hot, humid; little seasonal temperature variation <br><br><strong>Guadeloupe and Martinique:</strong> subtropical tempered by trade winds; moderately high humidity; rainy season (June to October); vulnerable to devastating cyclones (hurricanes) every eight years on average <br><br><strong>Mayotte:</strong> tropical; marine; hot, humid, rainy season during northeastern monsoon (November to May); dry season is cooler (May to November) <br><br><strong>Reunion:</strong> tropical, but temperature moderates with elevation; cool and dry (May to November), hot and rainy (November to April)<br>
 
 **Land use**<br>
 _agricultural land_: 51.7% (2022 est.)<br>
@@ -426,25 +424,25 @@ _selected World Heritage Site locales_: Chartres Cathedral (c); Palace and Park 
 <p>high-income, advanced EU economy and eurozone member; strong tourism, aircraft manufacturing, pharmaceuticals, and industrial sectors; high public debt; ongoing pension reform efforts; transitioning to a green economy via "France 2030" strategy</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.786 trillion (2023 est.)<br>
-$3.751 trillion (2022 est.)<br>
-$3.657 trillion (2021 est.)<br>
+$3.732 trillion (2024 est.)<br>
+$3.689 trillion (2023 est.)<br>
+$3.655 trillion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.94% (2023 est.)<br>
-2.57% (2022 est.)<br>
-6.44% (2021 est.)<br>
+1.2% (2024 est.)<br>
+0.9% (2023 est.)<br>
+2.6% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$55,400 (2023 est.)<br>
-$55,100 (2022 est.)<br>
-$53,900 (2021 est.)<br>
+$54,500 (2024 est.)<br>
+$54,000 (2023 est.)<br>
+$53,700 (2022 est.)<br>
 <strong>note:</strong> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.052 trillion (2023 est.)<br>
+$3.162 trillion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -454,9 +452,9 @@ $3.052 trillion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.7% (2023 est.)<br>
-_industry_: 18.5% (2023 est.)<br>
-_services_: 69.7% (2023 est.)<br>
+_agriculture_: 1.4% (2024 est.)<br>
+_industry_: 17.5% (2024 est.)<br>
+_services_: 70.4% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -476,17 +474,17 @@ wheat, sugar beets, milk, maize, barley, potatoes, grapes, rapeseed, pork, sunfl
 machinery, chemicals, automobiles, metallurgy, aircraft, electronics, textiles, food processing, tourism<br>
 
 **Industrial production growth rate**<br>
-4.46% (2023 est.)<br>
+0.7% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-31.665 million (2024 est.)<br>
+31.725 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 7.4% (2024 est.)<br>
-7.3% (2023 est.)<br>
-7.3% (2022 est.)<br>
+7.4% (2023 est.)<br>
+7.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -500,7 +498,7 @@ _female_: 16% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-31.5 (2021 est.)<br>
+31.2 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -508,14 +506,14 @@ _on food_: 12.6% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 3.5% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9% (2021 est.)<br>
-_highest 10%_: 24.9% (2021 est.)<br>
+_lowest 10%_: 3% (2022 est.)<br>
+_highest 10%_: 24.6% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.21% of GDP (2023 est.)<br>
-1.19% of GDP (2022 est.)<br>
-1.1% of GDP (2021 est.)<br>
+1.2% of GDP (2024 est.)<br>
+1.2% of GDP (2023 est.)<br>
+1.2% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -532,15 +530,15 @@ _expenditures_: $1.362 trillion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$12.382 billion (2024 est.)<br>
 -$30.334 billion (2023 est.)<br>
 -$33.069 billion (2022 est.)<br>
-$7.245 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$1.071 trillion (2024 est.)<br>
 $1.05 trillion (2023 est.)<br>
 $1.021 trillion (2022 est.)<br>
-$926.762 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -552,9 +550,9 @@ aircraft, cars, packaged medicine, gas turbines, vehicle parts/accessories (2023
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$1.074 trillion (2024 est.)<br>
 $1.094 trillion (2023 est.)<br>
 $1.092 trillion (2022 est.)<br>
-$957.017 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -566,7 +564,7 @@ cars, natural gas, crude petroleum, refined petroleum, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$78.429 billion (2024 est.)<br>
+$282.857 billion (2024 est.)<br>
 $240.792 billion (2023 est.)<br>
 $242.416 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

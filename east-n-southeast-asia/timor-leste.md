@@ -380,25 +380,25 @@ _history_: adopted 2002; the song was first used as an anthem when Timor-Leste d
 lower middle-income Southeast Asian economy; government expenditures funded via oil fund drawdowns; endemic corruption undermines growth; foreign aid-dependent; wide-scale poverty, unemployment, and illiteracy<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.992 billion (2023 est.)<br>
-$7.318 billion (2022 est.)<br>
-$9.214 billion (2021 est.)<br>
+$5.863 billion (2024 est.)<br>
+$5.995 billion (2023 est.)<br>
+$7.322 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--18.12% (2023 est.)<br>
--20.58% (2022 est.)<br>
-5.32% (2021 est.)<br>
+-2.2% (2024 est.)<br>
+-18.1% (2023 est.)<br>
+-20.5% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$4,200 (2024 est.)<br>
 $4,300 (2023 est.)<br>
 $5,300 (2022 est.)<br>
-$6,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.08 billion (2023 est.)<br>
+$1.881 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -430,7 +430,7 @@ maize, rice, coconuts, root vegetables, vegetables, cassava, other meats, pork, 
 printing, soap manufacturing, handicrafts, woven cloth<br>
 
 **Industrial production growth rate**<br>
--56.97% (2023 est.)<br>
+-57% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -438,9 +438,9 @@ printing, soap manufacturing, handicrafts, woven cloth<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.6% (2024 est.)<br>
-1.5% (2023 est.)<br>
-1.5% (2022 est.)<br>
+1.7% (2024 est.)<br>
+1.6% (2023 est.)<br>
+1.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -449,23 +449,10 @@ _male_: 3.2% (2024 est.)<br>
 _female_: 3.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-41.8% (2014 est.)<br>
-<b>note:</b> % of population with income below national poverty line<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-28.7 (2014 est.)<br>
-<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 4% (2014 est.)<br>
-_highest 10%_: 24% (2014 est.)<br>
-<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
-
 **Remittances**<br>
-9.28% of GDP (2023 est.)<br>
-5.12% of GDP (2022 est.)<br>
-4.14% of GDP (2021 est.)<br>
+11.7% of GDP (2024 est.)<br>
+9.3% of GDP (2023 est.)<br>
+5.1% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -473,23 +460,20 @@ _revenues_: $1.877 billion (2022 est.)<br>
 _expenditures_: $1.684 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-3.8% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
 21.6% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$17.331 million (2023 est.)<br>
-$474.005 million (2022 est.)<br>
-$1.524 billion (2021 est.)<br>
+-$529.738 million (2024 est.)<br>
+-$177.336 million (2023 est.)<br>
+$408.059 million (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$278.047 million (2024 est.)<br>
 $701.808 million (2023 est.)<br>
 $1.858 billion (2022 est.)<br>
-$2.772 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -501,9 +485,9 @@ crude petroleum, natural gas, coffee, scrap iron, telephones (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.204 billion (2023 est.)<br>
-$1.405 billion (2022 est.)<br>
-$1.298 billion (2021 est.)<br>
+$1.197 billion (2024 est.)<br>
+$1.169 billion (2023 est.)<br>
+$1.286 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -515,9 +499,9 @@ refined petroleum, rice, cars, plastic products, trucks (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$736.967 million (2024 est.)<br>
 $781.995 million (2023 est.)<br>
 $830.81 million (2022 est.)<br>
-$934.781 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -611,7 +595,7 @@ _key ports_: Dili<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (F-FDTL)): Land Component, Light Air Component, Naval Component<br><br>Ministry of Interior: National Police of Timor-Leste (Polícia Nacional de Timor-Leste, PNTL) (2025)<br>
+Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (F-FDTL)): Land Component, Air Force Component, Naval Component<br><br>Ministry of Interior: National Police of Timor-Leste (Polícia Nacional de Timor-Leste, PNTL) (2025)<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2024 est.)<br>
@@ -630,7 +614,7 @@ the military is lightly armed and has a limited inventory consisting mostly of d
 18 years of age for voluntary military service for men and women; compulsory service was authorized in 2020 for men and women aged 18-30 for 18 months of service, but the level of implementation is unclear (2023)<br>
 
 **Military - note**<br>
-the F-FDTL is a small and lightly equipped force with both external defense and internal security roles; it has two infantry battalions, a small air component, and a handful of naval patrol boats<br><br>since achieving independence, Timor-Leste has received security assistance from or has made defense cooperation arrangements with Australia, China, Indonesia, Malaysia, New Zealand, the Philippines, Portugal, the UN, and the US (2024)<br>
+the Timor-Leste Defense Force (F-FDTL) has both external defense and internal security roles; it also engages in national development missions, international peacekeeping, and regional security cooperation; the F-FDTL has ties with a variety of partners, including Australia, Brazil, Canada, China, Indonesia, Malaysia, New Zealand, the Philippines, Portugal, the UN, and the US (2025)<br>
 
 ## Transnational Issues
 

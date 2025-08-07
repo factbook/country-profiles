@@ -252,9 +252,9 @@ _chief of state_: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013)
 _head of government_: Prime Minister Mike EMAN (since 28 March 2025)<br>
 _cabinet_: Council of Ministers elected by the Legislature (Staten)<br>
 _election/appointment process_: the monarchy is hereditary; governor general appointed by the monarch for a 6-year term; prime minister and deputy prime minister indirectly elected by the Staten for 4-year term<br>
-_most recent election date_: 25 June 2021<br>
-_election results_: as leader of the majority party of the ruling coalition, Evelyn WEVER-CROES (MEP) elected prime minister; percent of Staten vote - NA<br>
-_expected date of next election_: by June 2025<br>
+_most recent election date_: 6 December 2024<br>
+_election results_: Mike EMAN (AVP) elected prime minister; percent of Staten vote - NA<br>
+_expected date of next election_: by December 2028<br>
 
 **Legislative branch**<br>
 _legislature name_: Legislature (Staten)<br>
@@ -263,10 +263,10 @@ _number of seats_: 21<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 6/25/2021<br>
-_parties elected and seats per party_: MEP (9); AVP (7); ROOTS (2); MAS (2); Accion21 (1)<br>
+_most recent election date_: 6 December 2024<br>
+_parties elected and seats per party_: AVP (9); MEP (8); FUTURO (3); PPA (1)<br>
 _percentage of women in chamber_: 38.1%<br>
-_expected date of next election_: June 2025<br>
+_expected date of next election_: by December 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court in The Hague, Netherlands<br>
@@ -274,7 +274,7 @@ _judge selection and term of office_: Joint Court judges appointed for life by t
 _subordinate courts_: &nbsp;Court in First Instance<br>
 
 **Political parties**<br>
-Accion21<br>Aruban People's Party or AVP<br>Democratic Network or RED<br>Movimiento Aruba Soberano (Aruban Sovereignty Movement) or MAS<br>People's Electoral Movement Party or MEP<br>Pueblo Orguyoso y Respeta or POR<br>RAIZ (ROOTS)<br>
+<p>Accion21<br>Aruban People's Party or AVP<br>Democratic Network or RED<br>FUTURO<br>Movimiento Aruba Soberano (Aruban Sovereignty Movement) or MAS<br>Partido Patriotico di Aruba (Aruban Patriotic Party) or APP<br>People's Electoral Movement Party or MEP<br>Pueblo Orguyoso y Respeta or POR<br>RAIZ (ROOTS)</p><br>
 
 **Diplomatic representation in the US**<br>
 none (represented by the Kingdom of the Netherlands)<br>
@@ -317,9 +317,9 @@ $3.844 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.26% (2023 est.)<br>
-8.52% (2022 est.)<br>
-27.64% (2021 est.)<br>
+4.3% (2023 est.)<br>
+8.5% (2022 est.)<br>
+24.1% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
@@ -359,24 +359,15 @@ aloes; livestock; fish<br>
 **Industries**<br>
 tourism, petroleum transshipment facilities, banking<br>
 
-**Unemployment rate**<br>
-7.7% (2016 est.)<br>
-
 **Remittances**<br>
-1.03% of GDP (2023 est.)<br>
-1.17% of GDP (2022 est.)<br>
-1.22% of GDP (2021 est.)<br>
+1.1% of GDP (2023 est.)<br>
+1.2% of GDP (2022 est.)<br>
+1.2% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $793 million (2019 est.)<br>
 _expenditures_: $782 million (2019 est.)<br>
-
-**Public debt**<br>
-86% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-25.2% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
 $194.498 million (2023 est.)<br>

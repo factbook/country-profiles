@@ -70,7 +70,7 @@ _other_: 6.6% (2022 est.)<br>
 Orange (shared with Lesotho [s], and Namibia [m]) - 2,092 km; Limpoporivier (Limpopo) river source (shared with Botswana, Zimbabwe, and Mozambique [m]) - 1,800 km; Vaal [s] - 1,210 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Orange (941,351 sq km)<br>
+_Atlantic Ocean drainage_: Orange (941,351 sq km)<br>
 
 **Major aquifers**<br>
 Karoo Basin, Lower Kalahari-Stampriet Basin<br>
@@ -340,7 +340,7 @@ _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 5/29/2024<br>
-_percentage of women in chamber_: 44.5%<br>
+_percentage of women in chamber_: 44.9%<br>
 _expected date of next election_: May 2029<br>
 
 **Legislative branch - upper chamber**<br>
@@ -412,25 +412,25 @@ _selected World Heritage Site locales_: Fossil Hominid Sites of South Africa (c)
 <p>upper-middle-income, largest southern African economy; Government of National Unity facing slow growth, fiscal gaps, and structural challenges; high income inequality, unemployment, and poverty; reforms to address electricity generation, transport, and logistics; leading producer and exporter of critical minerals</p><br>
 
 **Real GDP (purchasing power parity)**<br>
+$870.42 billion (2024 est.)<br>
 $865.402 billion (2023 est.)<br>
 $859.399 billion (2022 est.)<br>
-$843.28 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+0.6% (2024 est.)<br>
 0.7% (2023 est.)<br>
-1.91% (2022 est.)<br>
-4.7% (2021 est.)<br>
+1.9% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$13,600 (2024 est.)<br>
 $13,700 (2023 est.)<br>
 $13,800 (2022 est.)<br>
-$13,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$380.699 billion (2023 est.)<br>
+$400.261 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -440,18 +440,18 @@ $380.699 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.6% (2023 est.)<br>
-_industry_: 24.6% (2023 est.)<br>
-_services_: 62.6% (2023 est.)<br>
+_agriculture_: 2.9% (2024 est.)<br>
+_industry_: 24.4% (2024 est.)<br>
+_services_: 62.7% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 64.4% (2023 est.)<br>
-_government consumption_: 19.3% (2023 est.)<br>
-_investment in fixed capital_: 14.9% (2023 est.)<br>
-_investment in inventories_: 0.6% (2023 est.)<br>
-_exports of goods and services_: 32.8% (2023 est.)<br>
-_imports of goods and services_: -32.4% (2023 est.)<br>
+_household consumption_: 64.8% (2024 est.)<br>
+_government consumption_: 19.2% (2024 est.)<br>
+_investment in fixed capital_: 14.5% (2024 est.)<br>
+_investment in inventories_: -0.6% (2024 est.)<br>
+_exports of goods and services_: 31.8% (2024 est.)<br>
+_imports of goods and services_: -29.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -462,7 +462,7 @@ sugarcane, maize, milk, soybeans, potatoes, wheat, grapes, chicken, oranges, app
 mining (world's largest producer of platinum, gold, chromium), automobile assembly, metalworking, machinery, textiles, iron and steel, chemicals, fertilizer, foodstuffs, commercial ship repair<br>
 
 **Industrial production growth rate**<br>
--0.4% (2023 est.)<br>
+-0.4% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -481,27 +481,14 @@ _male_: 57.1% (2024 est.)<br>
 _female_: 65.5% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-55.5% (2014 est.)<br>
-<b>note:</b> % of population with income below national poverty line<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-63 (2014 est.)<br>
-<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
-
 **Average household expenditures**<br>
 _on food_: 16.1% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 4.1% of household expenditures (2023 est.)<br>
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 0.9% (2014 est.)<br>
-_highest 10%_: 50.5% (2014 est.)<br>
-<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
-
 **Remittances**<br>
-0.21% of GDP (2023 est.)<br>
-0.21% of GDP (2022 est.)<br>
-0.22% of GDP (2021 est.)<br>
+0.2% of GDP (2024 est.)<br>
+0.2% of GDP (2023 est.)<br>
+0.2% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -518,15 +505,15 @@ _expenditures_: $136.236 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$2.384 billion (2024 est.)<br>
 -$6.143 billion (2023 est.)<br>
 -$1.878 billion (2022 est.)<br>
-$15.701 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$127.629 billion (2024 est.)<br>
 $124.671 billion (2023 est.)<br>
 $136.01 billion (2022 est.)<br>
-$131.09 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -538,9 +525,9 @@ gold, platinum, coal, cars, iron ore (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$119.59 billion (2024 est.)<br>
 $123.454 billion (2023 est.)<br>
 $127.669 billion (2022 est.)<br>
-$104.881 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -552,7 +539,7 @@ refined petroleum, crude petroleum, gold, cars, broadcasting equipment (2023)<br
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$54.912 billion (2024 est.)<br>
+$65.435 billion (2024 est.)<br>
 $62.492 billion (2023 est.)<br>
 $60.553 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
@@ -677,7 +664,7 @@ _key ports_: Cape Town, Durban, Mossel Bay, Port Elizabeth, Richards Bay, Saldan
 ## Military and Security
 
 **Military and security forces**<br>
-South African National Defense Force (SANDF): South African Army (includes Reserve Force), South African Navy (SAN), South African Air Force (SAAF), South African Military Health Services<br><br>Ministry of Police: South African Police Service (2025)<br>
+South African National Defense Force (SANDF): South African Army (includes Reserve Force), South African Navy (SAN), South African Air Force (SAAF), South African Military Health Services<br><br>Ministry of Police: South African Police Service (SAPS) (2025)<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2024 est.)<br>
@@ -700,7 +687,7 @@ the SANDF's inventory consists of a mix of domestically produced and foreign-sup
 approximately 1,100 Democratic Republic of the Congo (MONUSCO) (2025)<br>
 
 **Military - note**<br>
-the SANDF’s primary responsibilities include territorial and maritime defense, supporting the Police Service, protecting key infrastructure, and participating in international peacekeeping missions; the SANDF historically has been one of Africa’s most capable militaries, but in recent years its operational readiness and modernization programs have been widely viewed as hampered by funding shortfalls<br><br>the SANDF participates regularly in African and UN peacekeeping missions and is a member of the Southern Africa Development Community (SADC) Standby Force; in 2021, it sent about 1,500 troops to Mozambique as part of a multinational SADC force to help combat an insurgency, and South African forces have been a key component of the UN’s Force Intervention Brigade in the Democratic Republic of the Congo; in recent years, the SANDF has been deployed internally to assist the Police Service with quelling unrest and assisting with border security<br><br>the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the guerrilla and militia forces of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands (2024)<br>
+the South African National Defense Force's (SANDF) primary responsibilities include territorial and maritime defense, supporting the Police Service, protecting key infrastructure, responding to disasters, and participating in international peacekeeping missions; border security and maintaining a rapid reaction capability for regional security missions and disaster response are priorities; in recent years, it has been deployed internally to assist the Police with quelling unrest and assisting with border security; the SANDF also regularly participates in African and UN peacekeeping missions and is a member of the Southern Africa Development Community (SADC) Standby Force; in 2021, South AFrica sent about 1,500 SANDF troops to Mozambique as part of a multinational SADC force to help combat an insurgency<br><br>the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands (2025)<br>
 
 ## Space
 

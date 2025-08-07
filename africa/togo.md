@@ -34,8 +34,9 @@ _border countries_: Benin 651 km; Burkina Faso 131 km; Ghana 1,098 km<br>
 56 km<br>
 
 **Maritime claims**<br>
-_territorial sea_: 30 nm; note: the US does not recognize this claim<br>
+_territorial sea_: 30 nm<br>
 _exclusive economic zone_: 200 nm<br>
+<strong>note:</strong> the US does not recognize the territorial sea claim<br>
 
 **Climate**<br>
 tropical; hot, humid in south; semiarid in north<br>
@@ -63,7 +64,7 @@ _other_: 7.6% (2022 est.)<br>
 70 sq km (2012)<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Volta (410,991 sq km)<br>
+_Atlantic Ocean drainage_: Volta (410,991 sq km)<br>
 
 **Population distribution**<br>
 one of the more densely populated African nations, with most of the population residing in rural communities; density is highest in the south on or near the Atlantic coast, as shown in this population distribution map<br>
@@ -406,46 +407,46 @@ _selected World Heritage Site locales_: Koutammakou; the Land of the Batammariba
 low-income West African economy; primarily agrarian economy; has a deep-water port; growing international shipping locale; improving privatization and public budgeting transparency; key phosphate mining industry; extremely high rural poverty<br>
 
 **Real GDP (purchasing power parity)**<br>
+$27.115 billion (2024 est.)<br>
 $25.75 billion (2023 est.)<br>
 $24.199 billion (2022 est.)<br>
-$22.881 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-6.41% (2023 est.)<br>
-5.76% (2022 est.)<br>
-5.99% (2021 est.)<br>
+5.3% (2024 est.)<br>
+6.4% (2023 est.)<br>
+5.8% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$2,800 (2024 est.)<br>
 $2,800 (2023 est.)<br>
 $2,700 (2022 est.)<br>
-$2,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$9.171 billion (2023 est.)<br>
+$9.926 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.5% (2023 est.)<br>
-8% (2022 est.)<br>
-4.2% (2021 est.)<br>
+2.9% (2024 est.)<br>
+5.3% (2023 est.)<br>
+7.6% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 18.1% (2023 est.)<br>
-_industry_: 20.2% (2023 est.)<br>
-_services_: 51.7% (2023 est.)<br>
+_agriculture_: 18% (2024 est.)<br>
+_industry_: 20% (2024 est.)<br>
+_services_: 52% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 78.1% (2023 est.)<br>
-_government consumption_: 12.6% (2023 est.)<br>
-_investment in fixed capital_: 23% (2023 est.)<br>
-_investment in inventories_: 0% (2023 est.)<br>
-_exports of goods and services_: 23.9% (2023 est.)<br>
-_imports of goods and services_: -37.5% (2023 est.)<br>
+_household consumption_: 78.3% (2024 est.)<br>
+_government consumption_: 13.1% (2024 est.)<br>
+_investment in fixed capital_: 22.3% (2024 est.)<br>
+_investment in inventories_: 0% (2024 est.)<br>
+_exports of goods and services_: 24.4% (2024 est.)<br>
+_imports of goods and services_: -38.1% (2024 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -456,7 +457,7 @@ cassava, maize, yams, sorghum, soybeans, beans, rice, vegetables, oil palm fruit
 phosphate mining, agricultural processing, cement, handicrafts, textiles, beverages<br>
 
 **Industrial production growth rate**<br>
-6.74% (2023 est.)<br>
+4.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -464,8 +465,8 @@ phosphate mining, agricultural processing, cement, handicrafts, textiles, bevera
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.9% (2024 est.)<br>
-1.9% (2023 est.)<br>
+2% (2024 est.)<br>
+2% (2023 est.)<br>
 2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -489,8 +490,8 @@ _highest 10%_: 29.6% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-7.09% of GDP (2023 est.)<br>
-7.96% of GDP (2022 est.)<br>
+7.1% of GDP (2023 est.)<br>
+8% of GDP (2022 est.)<br>
 7.8% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -498,9 +499,6 @@ _highest 10%_: 29.6% (2021 est.)<br>
 _revenues_: $1.434 billion (2022 est.)<br>
 _expenditures_: $1.32 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
-
-**Public debt**<br>
-75.7% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 14.8% (of GDP) (2023 est.)<br>
@@ -539,10 +537,6 @@ China 26%, India 26%, Belgium 6%, Netherlands 6%, USA 3% (2023)<br>
 **Imports - commodities**<br>
 refined petroleum, garments, rice, palm oil, motorcycles and cycles (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Reserves of foreign exchange and gold**<br>
-$77.8 million (2017 est.)<br>
-$42.6 million (2016 est.)<br>
 
 **Debt - external**<br>
 $1.923 billion (2023 est.)<br>
@@ -658,7 +652,7 @@ Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army, Togolese Na
 2.8% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 15-20,000 active Armed Forces, including Gendarmerie (2025)<br>
+estimated 20,000 active Armed Forces, including Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAT has a small inventory of mostly older equipment originating from a variety of countries, including Brazil, Russia/former Soviet Union, Turkey, the US, and some European nations, particularly France (2024)<br>
@@ -668,7 +662,7 @@ the FAT has a small inventory of mostly older equipment originating from a varie
 <strong>note:</strong> as of 2022, about 7% of the military's personnel were women<br>
 
 **Military - note**<br>
-since its creation in 1963, the Togolese military has had a history of involvement in the country’s politics with assassinations, coups, influence, and a crackdown in 2005 that killed hundreds of civilians; over the past decade, however, it has made some efforts to reform and professionalize, including increasing its role in UN peacekeeping activities, participating in multinational exercises, and receiving training from foreign partners, including France and the US; in addition, Togo has established a regional peacekeeping training center for military and police in Lome<br><br>the FAT’s primary concerns are terrorism and maritime security; in recent years, it has increased operations in the northern border region of the country to boost border security and prevent terrorist infiltrations from Jama'at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida-affiliated militant groups based in Mali that also operates in neighboring Burkina Faso; in 2022, the Togolese Government declared a state of emergency in the north due to the threat from JNIM following an attack on a Togolese military post that killed several soldiers; northern Togo has also had problems with banditry, as well as arms, drugs, fuel, and gold smuggling, which has aggravated local disputes and provided terrorist groups with financial resources; the Navy and Air Force have increased focus on combating piracy and smuggling in the Gulf of Guinea (2024)<br>
+the responsibilities of the Togolese Armed Forces (FAT) included both external defense and internal security; the FAT’s primary concerns are border security, terrorism, and maritime security; in recent years, it has boosted operations in the northern border region of the country to secure the frontier and prevent banditry, illicit smuggling, and infiltrations from Jama'at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida-affiliated militant groups based in Mali that also operates in neighboring Burkina Faso; in 2022, the Togolese Government declared a state of emergency in the north following an attack by JNIM fighters on a Togolese military post that killed several soldiers; the Navy and Air Force have increased focus on combating piracy and smuggling in the Gulf of Guinea<br><br>since its creation in 1963, the Togolese military has had a history of involvement in the country’s politics, including assassinations, coups, and a crackdown in 2005 that killed hundreds of civilians; over the past decade, it has made some efforts to reform and professionalize, which have included increasing its role in UN peacekeeping activities, participating in multinational exercises, and receiving training from foreign partners, particularly France and the US; in addition, Togo has established a regional peacekeeping training center for military and police in Lome (2025)<br>
 
 ## Terrorism
 

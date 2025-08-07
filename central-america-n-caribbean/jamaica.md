@@ -37,7 +37,7 @@ _territorial sea_: 12 nm<br>
 _contiguous zone_: 24 nm<br>
 _exclusive economic zone_: 200 nm<br>
 _continental shelf_: 200 nm or to edge of the continental margin<br>
-measured from claimed archipelagic straight baselines<br>
+<strong>note: </strong>measured from claimed archipelagic straight baselines<br>
 
 **Climate**<br>
 tropical; hot, humid; temperate interior<br>
@@ -339,7 +339,7 @@ _subordinate courts_: resident magistrate courts, district courts, and petty ses
 Jamaica Labor Party or JLP<br>Jamaica Progressive Party or JPP<br>People's National Party or PNP<br>United Independents' Congress or UIC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador-designate Major General (Ret'd) Antony ANDERSON (since 28 May 2025)<br>
+_chief of mission_: Ambassador Antony B. ANDERSON (since 24 July 2025)<br>
 _chancery_: 1520 New Hampshire Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 452-0660<br>
 _FAX_: [1] (202) 452-0036<br>
@@ -387,25 +387,25 @@ _selected World Heritage Site locales_: Blue and John Crow Mountains<br>
 <p>upper-middle-income Caribbean island economy; key agriculture and tourism sectors; high crime, youth unemployment, and poverty; susceptible to natural disasters and global commodity price shocks; progress in reducing public debt and moderating inflation within target range</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$29.225 billion (2023 est.)<br>
+$29.13 billion (2024 est.)<br>
+$29.341 billion (2023 est.)<br>
 $28.596 billion (2022 est.)<br>
-$27.177 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.2% (2023 est.)<br>
-5.22% (2022 est.)<br>
-4.6% (2021 est.)<br>
+-0.7% (2024 est.)<br>
+2.6% (2023 est.)<br>
+5.2% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$10,300 (2024 est.)<br>
 $10,300 (2023 est.)<br>
 $10,100 (2022 est.)<br>
-$9,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$19.423 billion (2023 est.)<br>
+$19.93 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -415,9 +415,9 @@ $19.423 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 9% (2023 est.)<br>
-_industry_: 18.6% (2023 est.)<br>
-_services_: 60.1% (2023 est.)<br>
+_agriculture_: 9.8% (2024 est.)<br>
+_industry_: 18.3% (2024 est.)<br>
+_services_: 60.3% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -437,7 +437,7 @@ sugarcane, goat milk, yams, chicken, oranges, coconuts, bananas, plantains, pump
 agriculture, mining, manufacture, construction, financial and insurance services, tourism, telecommunications<br>
 
 **Industrial production growth rate**<br>
-4.98% (2023 est.)<br>
+-1.5% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -458,18 +458,21 @@ _female_: 16.4% (2024 est.)<br>
 
 **Population below poverty line**<br>
 16.7% (2021 est.)<br>
+<strong>note:</strong> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-40.2 (2021 est.)<br>
+39.9 (2021 est.)<br>
+<strong>note:</strong> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2% (2021 est.)<br>
-_highest 10%_: 29.9% (2021 est.)<br>
+_highest 10%_: 29.6% (2021 est.)<br>
+% share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-18.54% of GDP (2023 est.)<br>
-21.57% of GDP (2022 est.)<br>
-25.29% of GDP (2021 est.)<br>
+17.9% of GDP (2024 est.)<br>
+18.5% of GDP (2023 est.)<br>
+21.6% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -486,15 +489,15 @@ _expenditures_: $4.12 billion (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$678.808 million (2024 est.)<br>
 $568.932 million (2023 est.)<br>
 -$136.401 million (2022 est.)<br>
-$149.262 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$7.124 billion (2024 est.)<br>
 $7.275 billion (2023 est.)<br>
 $6.424 billion (2022 est.)<br>
-$4.401 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -506,9 +509,9 @@ aluminum oxide, refined petroleum, natural gas, liquor, processed fruits and nut
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$9.524 billion (2024 est.)<br>
 $9.866 billion (2023 est.)<br>
 $9.726 billion (2022 est.)<br>
-$7.405 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

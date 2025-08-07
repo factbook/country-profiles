@@ -65,7 +65,7 @@ _other_: 32.8% (2022 est.)<br>
 57 sq km (2013)<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Seine (78,919 sq km), Rhine-Maas (198,735 sq km)<br>
+_Atlantic Ocean drainage_: Seine (78,919 sq km), Rhine-Maas (198,735 sq km)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in the northern two thirds of the country; the southeast is more thinly populated; considered to have one of the highest population densities in the world, with approximately 97% living in urban areas<br>
@@ -403,25 +403,25 @@ _selected World Heritage Site locales_: Belfries of Belgium (c); Historic Brugge
 <p>high-income, core EU and eurozone economy; slow growth with weakened domestic consumption and export demand; high public debt and structural deficits linked to social spending; aging workforce with weak productivity growth and participation rates</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$756.586 billion (2023 est.)<br>
-$747.233 billion (2022 est.)<br>
-$716.884 billion (2021 est.)<br>
+$749.229 billion (2024 est.)<br>
+$741.672 billion (2023 est.)<br>
+$732.865 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.25% (2023 est.)<br>
-4.23% (2022 est.)<br>
-6.93% (2021 est.)<br>
+1% (2024 est.)<br>
+1.2% (2023 est.)<br>
+4.3% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$64,200 (2023 est.)<br>
-$64,000 (2022 est.)<br>
-$61,900 (2021 est.)<br>
+$63,100 (2024 est.)<br>
+$62,900 (2023 est.)<br>
+$62,700 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$644.783 billion (2023 est.)<br>
+$664.564 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -431,16 +431,16 @@ $644.783 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.8% (2023 est.)<br>
-_industry_: 18.5% (2023 est.)<br>
-_services_: 71.1% (2023 est.)<br>
+_agriculture_: 0.8% (2024 est.)<br>
+_industry_: 17.6% (2024 est.)<br>
+_services_: 72.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 50.4% (2023 est.)<br>
 _government consumption_: 23.8% (2023 est.)<br>
 _investment in fixed capital_: 24.4% (2023 est.)<br>
-_investment in inventories_: 0.9% (2023 est.)<br>
+_investment in inventories_: 1% (2023 est.)<br>
 _exports of goods and services_: 84.2% (2023 est.)<br>
 _imports of goods and services_: -84.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -453,16 +453,16 @@ sugar beets, milk, potatoes, wheat, pork, lettuce, maize, chicken, barley, pears
 engineering and metal products, motor vehicle assembly, transportation equipment, scientific instruments, processed food and beverages, chemicals, pharmaceuticals, base metals, textiles, glass, petroleum<br>
 
 **Industrial production growth rate**<br>
-0.25% (2023 est.)<br>
+-0.6% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.385 million (2024 est.)<br>
+5.416 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 5.5% (2024 est.)<br>
-5.5% (2023 est.)<br>
+5.6% (2023 est.)<br>
 5.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -477,7 +477,7 @@ _female_: 14.7% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-26.6 (2021 est.)<br>
+26.4 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -485,14 +485,14 @@ _on food_: 12.2% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 4% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.6% (2021 est.)<br>
-_highest 10%_: 21.9% (2021 est.)<br>
+_lowest 10%_: 3.8% (2022 est.)<br>
+_highest 10%_: 22.2% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+2.3% of GDP (2024 est.)<br>
 2.3% of GDP (2023 est.)<br>
-2.35% of GDP (2022 est.)<br>
-2.39% of GDP (2021 est.)<br>
+2.3% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -543,7 +543,7 @@ cars, natural gas, vaccines, packaged medicine, crude petroleum (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$22.374 billion (2024 est.)<br>
+$41.449 billion (2024 est.)<br>
 $40.813 billion (2023 est.)<br>
 $41.274 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

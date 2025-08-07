@@ -68,7 +68,7 @@ _other_: 12% (2022 est.)<br>
 Dunay (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Romania [m]) - 2,888 km; Dnipro (Dnieper) river mouth (shared with Russia [s] and Belarus) - 2,287 km; Dnister (Dniester) river source and mouth (shared with Moldova) - 1,411 km; Vistula (shared with Poland [s/m] and Belarus) - 1,213 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km), Don (458,694 sq km), Dnieper (533,966 sq km)<br>
+_Atlantic Ocean drainage_: <em>(Black Sea)</em> Danube (795,656 sq km), Don (458,694 sq km), Dnieper (533,966 sq km)<br>
 
 **Population distribution**<br>
 densest settlement in the eastern (Donbas) and western regions; notable concentrations in and around major urban areas of Kyiv, Kharkiv, Donets'k, Dnipropetrovs'k, and Odesa<br>
@@ -399,25 +399,25 @@ _selected World Heritage Site locales_: Kyiv: Saint Sophia Cathedral and Related
 <p>lower-middle-income, non-EU, Eastern European economy; key wheat and corn exporter; gradual recovery after 30% GDP contraction at start of war; damage to infrastructure and agriculture balanced by consumer and business resilience in western Ukraine; international aid has stabilized foreign exchange reserves, allowing managed currency float; continued progress on anti-corruption reforms</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$560.111 billion (2023 est.)<br>
+$577.583 billion (2024 est.)<br>
+$561.23 billion (2023 est.)<br>
 $531.796 billion (2022 est.)<br>
-$746.471 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.32% (2023 est.)<br>
--28.76% (2022 est.)<br>
-3.45% (2021 est.)<br>
+2.9% (2024 est.)<br>
+5.5% (2023 est.)<br>
+-28.8% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$16,300 (2024 est.)<br>
 $15,900 (2023 est.)<br>
 $13,800 (2022 est.)<br>
-$17,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$178.757 billion (2023 est.)<br>
+$190.741 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -427,18 +427,18 @@ $178.757 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 7.4% (2023 est.)<br>
-_industry_: 18.8% (2023 est.)<br>
-_services_: 61.3% (2023 est.)<br>
+_agriculture_: 7.1% (2024 est.)<br>
+_industry_: 19% (2024 est.)<br>
+_services_: 60.6% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 64.1% (2023 est.)<br>
-_government consumption_: 41.7% (2023 est.)<br>
-_investment in fixed capital_: 16.9% (2023 est.)<br>
-_investment in inventories_: -1.8% (2023 est.)<br>
-_exports of goods and services_: 28.6% (2023 est.)<br>
-_imports of goods and services_: -49.5% (2023 est.)<br>
+_household consumption_: 62.4% (2024 est.)<br>
+_government consumption_: 37.9% (2024 est.)<br>
+_investment in fixed capital_: 18.9% (2024 est.)<br>
+_investment in inventories_: -0.3% (2024 est.)<br>
+_exports of goods and services_: 29.4% (2024 est.)<br>
+_imports of goods and services_: -48.3% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -449,7 +449,7 @@ maize, wheat, potatoes, sugar beets, sunflower seeds, milk, barley, soybeans, ra
 industrial machinery, ferrous and nonferrous metals, automotive and aircraft components, electronics, chemicals, textiles, mining, construction<br>
 
 **Industrial production growth rate**<br>
-6.76% (2023 est.)<br>
+4.1% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -457,7 +457,7 @@ industrial machinery, ferrous and nonferrous metals, automotive and aircraft com
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-9.8% (2021 est.)<br>
+9.9% (2021 est.)<br>
 9.5% (2020 est.)<br>
 8.2% (2019 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -486,9 +486,9 @@ _highest 10%_: 21.7% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-8.37% of GDP (2023 est.)<br>
-10.36% of GDP (2022 est.)<br>
-9.04% of GDP (2021 est.)<br>
+6.3% of GDP (2024 est.)<br>
+8.3% of GDP (2023 est.)<br>
+10.4% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -501,7 +501,7 @@ _expenditures_: $93.783 billion (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-17.7% (of GDP) (2023 est.)<br>
+17.5% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -539,7 +539,7 @@ refined petroleum, cars, natural gas, packaged medicine, plastic products (2023)
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$41.485 billion (2024 est.)<br>
+$43.781 billion (2024 est.)<br>
 $40.51 billion (2023 est.)<br>
 $28.506 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

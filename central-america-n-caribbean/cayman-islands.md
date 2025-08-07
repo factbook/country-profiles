@@ -304,8 +304,8 @@ $5.199 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.36% (2023 est.)<br>
-5.16% (2022 est.)<br>
+4.4% (2023 est.)<br>
+5.2% (2022 est.)<br>
 4.9% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
@@ -331,15 +331,6 @@ _industry_: 8.2% (2022 est.)<br>
 _services_: 85.4% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
-**GDP - composition, by end use**<br>
-_household consumption_: 62.3% (2017 est.)<br>
-_government consumption_: 2.6% (2020 est.)<br>
-_investment in fixed capital_: 22.1% (2017 est.)<br>
-_investment in inventories_: 0.1% (2017 est.)<br>
-_exports of goods and services_: 59.6% (2020 est.)<br>
-_imports of goods and services_: -45.8% (2020 est.)<br>
-<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
-
 **Agricultural products**<br>
 vegetables, fruit; livestock; turtle farming<br>
 
@@ -347,32 +338,29 @@ vegetables, fruit; livestock; turtle farming<br>
 tourism, banking, insurance and finance, construction, construction materials, furniture<br>
 
 **Industrial production growth rate**<br>
-3.45% (2022 est.)<br>
+3.4% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Remittances**<br>
-0.14% of GDP (2023 est.)<br>
-0.19% of GDP (2022 est.)<br>
-0.17% of GDP (2021 est.)<br>
+0.2% of GDP (2023 est.)<br>
+0.2% of GDP (2022 est.)<br>
+0.2% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $874.5 million (2017 est.)<br>
 _expenditures_: $766.6 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-38.9% (of GDP) (2017 est.)<br>
-
 **Current account balance**<br>
--$647.271 million (2022 est.)<br>
+-$712.684 million (2023 est.)<br>
+-$749.482 million (2022 est.)<br>
 -$794.205 million (2021 est.)<br>
--$827.492 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$5.019 billion (2022 est.)<br>
-$4.138 billion (2021 est.)<br>
-$3.951 billion (2020 est.)<br>
+$4.6 billion (2023 est.)<br>
+$4.215 billion (2022 est.)<br>
+$3.542 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -384,9 +372,9 @@ aircraft, ships, refined petroleum, natural gas, broadcasting equipment (2023)<b
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$3.3 billion (2022 est.)<br>
+$3.444 billion (2023 est.)<br>
+$3.287 billion (2022 est.)<br>
 $2.808 billion (2021 est.)<br>
-$2.51 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

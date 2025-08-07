@@ -64,7 +64,7 @@ _other_: 91.2% (2022 est.)<br>
 4,700 sq km (2012)<br>
 
 **Major watersheds (area sq km)**<br>
-Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
+_Internal (endorheic basin) drainage_: Lake Chad (2,497,738 sq km)<br>
 
 **Major aquifers**<br>
 Nubian Aquifer System, North Western Sahara Aquifer System, Murzuk-Djado Basin<br>
@@ -358,25 +358,25 @@ _selected World Heritage Site locales_: Archaeological Site of Cyrene; Archaeolo
 upper middle-income, fossil fuel-based North African economy; 31% economic contraction due to COVID-19 and 2020 oil blockade; reduced government spending; central bank had to devalue currency; public wages are over 60% of expenditures<br>
 
 **Real GDP (purchasing power parity)**<br>
+$90.609 billion (2024 est.)<br>
 $91.161 billion (2023 est.)<br>
 $82.756 billion (2022 est.)<br>
-$90.199 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-10.16% (2023 est.)<br>
--8.25% (2022 est.)<br>
-153.49% (2021 est.)<br>
+-0.6% (2024 est.)<br>
+10.2% (2023 est.)<br>
+-8.3% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$12,300 (2024 est.)<br>
 $12,500 (2023 est.)<br>
 $11,500 (2022 est.)<br>
-$12,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$45.096 billion (2023 est.)<br>
+$46.636 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -386,18 +386,18 @@ $45.096 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.8% (2023 est.)<br>
-_industry_: 77.3% (2023 est.)<br>
-_services_: 25.4% (2023 est.)<br>
+_agriculture_: 1.7% (2024 est.)<br>
+_industry_: 68.3% (2024 est.)<br>
+_services_: 34.3% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 32.4% (2023 est.)<br>
-_government consumption_: 35.3% (2023 est.)<br>
-_investment in fixed capital_: 16.5% (2023 est.)<br>
-_investment in inventories_: 0% (2023 est.)<br>
-_exports of goods and services_: 85.1% (2023 est.)<br>
-_imports of goods and services_: -70.5% (2023 est.)<br>
+_household consumption_: 32.7% (2024 est.)<br>
+_government consumption_: 36.7% (2024 est.)<br>
+_investment in fixed capital_: 14.8% (2024 est.)<br>
+_investment in inventories_: 0% (2024 est.)<br>
+_exports of goods and services_: 74.8% (2024 est.)<br>
+_imports of goods and services_: -59.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -408,7 +408,7 @@ potatoes, onions, watermelons, tomatoes, dates, olives, milk, chicken, wheat, ve
 petroleum, petrochemicals, aluminum, iron and steel, food processing, textiles, handicrafts, cement<br>
 
 **Industrial production growth rate**<br>
-17.77% (2023 est.)<br>
+-5.8% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -416,7 +416,7 @@ petroleum, petrochemicals, aluminum, iron and steel, food processing, textiles, 
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-18.6% (2024 est.)<br>
+18.7% (2024 est.)<br>
 18.8% (2023 est.)<br>
 19.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -437,22 +437,16 @@ _female_: 68.8% (2024 est.)<br>
 _revenues_: $28.005 billion (2019 est.)<br>
 _expenditures_: $37.475 billion (2019 est.)<br>
 
-**Public debt**<br>
-4.7% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-51.6% (of GDP) (2017 est.)<br>
-
 **Current account balance**<br>
+$1.865 billion (2023 est.)<br>
+$9.607 billion (2022 est.)<br>
 $5.675 billion (2021 est.)<br>
--$4.78 billion (2020 est.)<br>
-$4.817 billion (2019 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$37.753 billion (2023 est.)<br>
+$39.831 billion (2022 est.)<br>
 $32.38 billion (2021 est.)<br>
-$9.537 billion (2020 est.)<br>
-$29.326 billion (2019 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -464,9 +458,9 @@ crude petroleum, natural gas, refined petroleum, gold, scrap iron (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$33.284 billion (2023 est.)<br>
+$27.872 billion (2022 est.)<br>
 $25.406 billion (2021 est.)<br>
-$14.334 billion (2020 est.)<br>
-$25.368 billion (2019 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -478,7 +472,7 @@ refined petroleum, broadcasting equipment, tobacco, garments, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$80.592 billion (2024 est.)<br>
+$92.894 billion (2024 est.)<br>
 $92.427 billion (2023 est.)<br>
 $86.683 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

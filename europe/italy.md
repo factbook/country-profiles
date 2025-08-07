@@ -64,7 +64,7 @@ _other_: 23.3% (2022 est.)<br>
 24,460 sq km (2021)<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
+_Atlantic Ocean drainage_: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
 
 **Population distribution**<br>
 a fairly even population distribution exists throughout most of the country, with coastal areas, the Po River Valley, and urban centers (particularly Milan, Rome, and Naples) attracting larger and denser populations<br>
@@ -263,8 +263,8 @@ _agricultural_: 17 billion cubic meters (2020 est.)<br>
 191.3 billion cubic meters (2020 est.)<br>
 
 **Geoparks**<br>
-_total global geoparks and regional networks_: 11<br>
-_global geoparks and regional networks_: Adamello-Brenta; Alpi Apuane; Aspromonte; Beigua; Cilento, Vallo di Diano e Alburni; Madonie; Maiella; Pollino; Rocca di Cerere; Sesia Val Grande; Tuscan Mining Park (2023)<br>
+_total global geoparks and regional networks_: 12 (2025)<br>
+_global geoparks and regional networks_: Adamello-Brenta; Alpi Apuane; Aspromonte; Beigua; Cilento, Vallo di Diano e Alburni; Madonie; Maiella; MurGEopark; Pollino; Rocca di Cerere; Sesia Val Grande; Tuscan Mining Park (2025)<br>
 
 ## Government
 
@@ -352,7 +352,7 @@ _subordinate courts_: various lower civil and criminal courts (primary and secon
 Action-Italia Viva <br>Associative Movement of Italians Abroad or MAIE <br>Brothers of Italy or FdI <br>Democratic Party or PD <br>Five Star Movement or M5S <br>Forza Italia or FI <br>Free and Equal (Liberi e Uguali) or LeU <br>Greens and Left Alliance or AVS <br>Italexit <br>League or Lega <br>More Europe or +EU <br>Popular Union or PU <br>South calls North or ScN <br>South Tyrolean Peoples Party or SVP <br>other minor parties<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Alessandro GONZALES (since June 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Alessandro GONZALES (since 4 July 2025)<br>
 _chancery_: 3000 Whitehaven Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 612-4400<br>
 _FAX_: [1] (202) 518-2154<br>
@@ -404,25 +404,25 @@ _selected World Heritage Site locales_: Historic Center of Rome (c); Archaeologi
 <p>high-income, core EU economy; strong services, manufacturing, and tourism sectors; modest growth supported by net exports, low inflation, and public investments via EU funds; tight labor market with aging workforce and shortages in specialized skills; high public debt levels</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.145 trillion (2023 est.)<br>
-$3.123 trillion (2022 est.)<br>
-$2.984 trillion (2021 est.)<br>
+$3.133 trillion (2024 est.)<br>
+$3.11 trillion (2023 est.)<br>
+$3.088 trillion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+0.7% (2024 est.)<br>
 0.7% (2023 est.)<br>
-4.66% (2022 est.)<br>
-8.31% (2021 est.)<br>
+4.8% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$53,300 (2023 est.)<br>
-$52,900 (2022 est.)<br>
-$50,500 (2021 est.)<br>
+$53,100 (2024 est.)<br>
+$52,700 (2023 est.)<br>
+$52,300 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.301 trillion (2023 est.)<br>
+$2.373 trillion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -432,18 +432,18 @@ $2.301 trillion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.9% (2023 est.)<br>
-_industry_: 22.9% (2023 est.)<br>
-_services_: 65% (2023 est.)<br>
+_agriculture_: 2% (2024 est.)<br>
+_industry_: 21.7% (2024 est.)<br>
+_services_: 65.6% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 58.4% (2023 est.)<br>
+_household consumption_: 58.3% (2023 est.)<br>
 _government consumption_: 17.8% (2023 est.)<br>
 _investment in fixed capital_: 22.5% (2023 est.)<br>
-_investment in inventories_: 0.2% (2023 est.)<br>
-_exports of goods and services_: 33.7% (2023 est.)<br>
-_imports of goods and services_: -32.5% (2023 est.)<br>
+_investment in inventories_: 0.4% (2023 est.)<br>
+_exports of goods and services_: 33.5% (2023 est.)<br>
+_imports of goods and services_: -32.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -454,16 +454,16 @@ milk, wheat, grapes, tomatoes, maize, olives, apples, oranges, sugar beets, rice
 tourism, machinery, iron and steel, chemicals, food processing, textiles, motor vehicles, clothing, footwear, ceramics<br>
 
 **Industrial production growth rate**<br>
-0.28% (2023 est.)<br>
+0.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-25.743 million (2024 est.)<br>
+25.828 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 6.8% (2024 est.)<br>
-7.6% (2023 est.)<br>
+7.7% (2023 est.)<br>
 8.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -478,7 +478,7 @@ _female_: 24.8% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-34.8 (2021 est.)<br>
+33.7 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -486,14 +486,14 @@ _on food_: 14.7% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 3.8% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.3% (2021 est.)<br>
-_highest 10%_: 26.2% (2021 est.)<br>
+_lowest 10%_: 2.5% (2022 est.)<br>
+_highest 10%_: 25.3% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.53% of GDP (2023 est.)<br>
+0.5% of GDP (2024 est.)<br>
+0.5% of GDP (2023 est.)<br>
 0.5% of GDP (2022 est.)<br>
-0.48% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -506,19 +506,19 @@ _expenditures_: $1.015 trillion (2022 est.)<br>
 <strong>note:</strong> Italy reports its data on public debt according to guidelines set out in the Maastricht Treaty; general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year, in the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises central, state, and local government and social security funds<br>
 
 **Taxes and other revenues**<br>
-24.9% (of GDP) (2023 est.)<br>
+24.8% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$247.462 million (2023 est.)<br>
--$32.783 billion (2022 est.)<br>
-$51.549 billion (2021 est.)<br>
+$26.76 billion (2024 est.)<br>
+$3.261 billion (2023 est.)<br>
+-$36.325 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$777.594 billion (2023 est.)<br>
-$752.864 billion (2022 est.)<br>
-$691.428 billion (2021 est.)<br>
+$778.898 billion (2024 est.)<br>
+$774.311 billion (2023 est.)<br>
+$737.083 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -530,9 +530,9 @@ packaged medicine, garments, cars, refined petroleum, vehicle parts/accessories 
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$747.798 billion (2023 est.)<br>
-$785.549 billion (2022 est.)<br>
-$644.93 billion (2021 est.)<br>
+$717.278 billion (2024 est.)<br>
+$739.646 billion (2023 est.)<br>
+$775.518 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -544,7 +544,7 @@ natural gas, crude petroleum, cars, packaged medicine, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$84.875 billion (2024 est.)<br>
+$290.547 billion (2024 est.)<br>
 $247.396 billion (2023 est.)<br>
 $224.581 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

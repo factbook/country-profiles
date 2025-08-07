@@ -65,7 +65,7 @@ _other_: 16.8% (2022 est.)<br>
 Dnyapro (Dnieper) (shared with Russia [s] and Ukraine [m]) - 2,287 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea) </em>Dnieper (533,966 sq km)<br>
+_Atlantic Ocean drainage_: <em>(Black Sea) </em>Dnieper (533,966 sq km)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -406,25 +406,25 @@ _selected World Heritage Site locales_: Białowieża Forest (n); Mir Castle Comp
 declining Russian energy subsidies will end in 2024; growing public debt; strong currency pressures have led to higher inflation; recent price controls on basic food and drugs; public sector wage increases and fragile private sector threaten household income gains and economic growth<br>
 
 **Real GDP (purchasing power parity)**<br>
-$254.407 billion (2023 est.)<br>
+$265.22 billion (2024 est.)<br>
+$254.995 billion (2023 est.)<br>
 $244.89 billion (2022 est.)<br>
-$256.855 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.89% (2023 est.)<br>
--4.66% (2022 est.)<br>
-2.44% (2021 est.)<br>
+4% (2024 est.)<br>
+4.1% (2023 est.)<br>
+-4.7% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$27,700 (2023 est.)<br>
+$29,000 (2024 est.)<br>
+$27,800 (2023 est.)<br>
 $26,500 (2022 est.)<br>
-$27,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$71.857 billion (2023 est.)<br>
+$75.962 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -434,18 +434,18 @@ $71.857 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 7.3% (2023 est.)<br>
-_industry_: 32.5% (2023 est.)<br>
-_services_: 47.8% (2023 est.)<br>
+_agriculture_: 6.9% (2024 est.)<br>
+_industry_: 30.7% (2024 est.)<br>
+_services_: 49.7% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 54.7% (2023 est.)<br>
-_government consumption_: 18.1% (2023 est.)<br>
-_investment in fixed capital_: 21.9% (2023 est.)<br>
-_investment in inventories_: 2.2% (2023 est.)<br>
-_exports of goods and services_: 66.8% (2023 est.)<br>
-_imports of goods and services_: -66.2% (2023 est.)<br>
+_household consumption_: 56.8% (2024 est.)<br>
+_government consumption_: 19% (2024 est.)<br>
+_investment in fixed capital_: 23.8% (2024 est.)<br>
+_investment in inventories_: 2% (2024 est.)<br>
+_exports of goods and services_: 65.1% (2024 est.)<br>
+_imports of goods and services_: -66.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -456,11 +456,11 @@ milk, sugar beets, potatoes, wheat, triticale, barley, maize, rapeseed, rye, chi
 metal-cutting machine tools, tractors, trucks, earthmovers, motorcycles, synthetic fibers, fertilizer, textiles, refrigerators, washing machines and other household appliances<br>
 
 **Industrial production growth rate**<br>
-8.42% (2023 est.)<br>
+6% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.811 million (2024 est.)<br>
+4.817 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -493,9 +493,9 @@ _highest 10%_: 20.7% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.75% of GDP (2023 est.)<br>
-2.02% of GDP (2022 est.)<br>
-1.65% of GDP (2021 est.)<br>
+1.8% of GDP (2024 est.)<br>
+1.7% of GDP (2023 est.)<br>
+2% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -508,7 +508,7 @@ _expenditures_: $20.856 billion (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-12.8% (of GDP) (2023 est.)<br>
+12.7% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -546,7 +546,7 @@ cars, broadcasting equipment, fabric, plastic products, video displays (2023)<br
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$4.392 billion (2024 est.)<br>
+$8.912 billion (2024 est.)<br>
 $8.118 billion (2023 est.)<br>
 $7.923 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

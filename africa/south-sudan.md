@@ -65,7 +65,7 @@ _other_: 44% (2022 est.)<br>
 Nile (shared with Rwanda [s], Tanzania, Uganda, Sudan, and Egypt [m]) - 6,650 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+_Atlantic Ocean drainage_: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Population distribution**<br>
 clusters found in urban areas, particularly in the western interior and around the White Nile, as shown in this population distribution map<br>
@@ -359,7 +359,7 @@ $24.52 billion (2015 est.)<br>
 **Real GDP growth rate**<br>
 -5.2% (2017 est.)<br>
 -13.9% (2016 est.)<br>
--10.79% (2015 est.)<br>
+-10.8% (2015 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
@@ -373,9 +373,9 @@ $11.998 billion (2015 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+91.4% (2024 est.)<br>
 2.4% (2023 est.)<br>
 -6.7% (2022 est.)<br>
-10.5% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -384,19 +384,12 @@ _industry_: 33.1% (2015 est.)<br>
 _services_: 56.6% (2015 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
-**GDP - composition, by end use**<br>
-_investment in fixed capital_: 5.8% (2015 est.)<br>
-_investment in inventories_: 0% (2015 est.)<br>
-_exports of goods and services_: 36.7% (2015 est.)<br>
-_imports of goods and services_: -28.9% (2015 est.)<br>
-<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
-
 **Agricultural products**<br>
 milk, cassava, sorghum, goat milk, vegetables, fruits, groundnuts, sesame seeds, beef, maize (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industrial production growth rate**<br>
--36.78% (2015 est.)<br>
+-36.8% (2015 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -405,8 +398,8 @@ milk, cassava, sorghum, goat milk, vegetables, fruits, groundnuts, sesame seeds,
 
 **Unemployment rate**<br>
 12.5% (2023 est.)<br>
-12.5% (2022 est.)<br>
-14% (2021 est.)<br>
+12.6% (2022 est.)<br>
+14.1% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -420,27 +413,23 @@ _female_: 17.6% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-44.1 (2016 est.)<br>
+44 (2016 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8% (2016 est.)<br>
 _highest 10%_: 33% (2016 est.)<br>
+% share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-9.49% of GDP (2015 est.)<br>
-0.01% of GDP (2014 est.)<br>
+9.5% of GDP (2015 est.)<br>
+0% of GDP (2014 est.)<br>
+0% of GDP (2013 est.)<br>
 <strong>note:</strong> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.94 billion (2019 est.)<br>
 _expenditures_: $1.938 billion (2019 est.)<br>
-
-**Public debt**<br>
-62.7% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-8.5% (of GDP) (FY2017/18 est.)<br>
 
 **Current account balance**<br>
 $577.9 million (2023 est.)<br>
@@ -484,11 +473,11 @@ $341.932 million (2021 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: South Sudanese pounds (SSP) per US dollar -<br>
+2,163.104 (2024 est.)<br>
 930.331 (2023 est.)<br>
 534.511 (2022 est.)<br>
 306.355 (2021 est.)<br>
 165.907 (2020 est.)<br>
-157.999 (2019 est.)<br>
 
 ## Energy
 
@@ -583,7 +572,7 @@ the SSPDF inventory is comprised primarily of Soviet-era equipment; South Sudan 
 18 is the legal minimum age for compulsory (men) and voluntary (men and women) military service; 12-24 months service (2023)<br>
 
 **Military - note**<br>
-the South Sudan People's Defense Forces (SSPDF) are largely focused on border and internal security; armed rebel groups and militias continue to operate in the country since the peace deal and formation of a unity government in 2018, including the National Salvation Front (NAS), the Sudan People’s Liberation Movement-in-Opposition (SPLA/IO), and the White Army militia<br><br>the SSPDF, formerly the Sudan People’s Liberation Army (SPLA), was founded as a guerrilla movement against the Sudanese Government in 1983 and participated in the Second Sudanese Civil War (1983-2005); the Juba Declaration that followed the Comprehensive Peace Agreement of 2005 unified the SPLA and the South Sudan Defense Forces (SSDF), the second-largest rebel militia remaining from the civil war, under the SPLA name; in 2017, the SPLA was renamed the South Sudan Defense Forces (SSDF) and in September 2018 was renamed again as the SSPDF<br><br>the UN Mission in South Sudan (UNMISS) has operated in the country since 2011 with the objectives of consolidating peace and security and helping establish conditions for the successful economic and political development of South Sudan; UNMISS has about 18,000 personnel deployed in the country; the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; UNISFA has approximately 3,800 personnel assigned (2025)<br>
+the South Sudan People's Defense Forces (SSPDF) are largely focused on border and internal security; areas of concern include disputed national borders, conflict spillover from neighboring Sudan, banditry, and armed rebel groups and militias that continue to operate in the country since the civil war ended in 2020<br><br>the SSPDF, formerly the Sudan People’s Liberation Army (SPLA), was founded as a guerrilla movement against the Sudanese Government in 1983 and participated in the Second Sudanese Civil War (1983-2005); the Juba Declaration that followed the Comprehensive Peace Agreement of 2005 unified the SPLA and the South Sudan Defense Forces (SSDF), the second-largest rebel militia remaining from the civil war, under the SPLA name; in 2017, the SPLA was renamed the South Sudan Defense Forces (SSDF) and in September 2018 was renamed again as the SSPDF<br><br>the UN Mission in South Sudan (UNMISS) has operated in the country since 2011 with the objectives of consolidating peace and security and helping establish conditions for the successful economic and political development of South Sudan; UNMISS has about 18,000 personnel assigned; the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; its mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; UNISFA has approximately 3,800 personnel assigned (2025)<br>
 
 ## Transnational Issues
 

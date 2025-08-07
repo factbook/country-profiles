@@ -360,47 +360,38 @@ _selected World Heritage Site locales_: Antigua Naval Dockyard (Nelson's Dockyar
 dual island-tourism and construction-driven economy; emerging &ldquo;blue economy&rdquo;; limited water supply and susceptibility to hurricanes limit activity; improving road infrastructure; friendly to foreign direct investment; looking at financial innovation in cryptocurrency and blockchain technologies<br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.703 billion (2023 est.)<br>
-$2.603 billion (2022 est.)<br>
-$2.376 billion (2021 est.)<br>
+$2.772 billion (2024 est.)<br>
+$2.657 billion (2023 est.)<br>
+$2.594 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.86% (2023 est.)<br>
-9.52% (2022 est.)<br>
-8.19% (2021 est.)<br>
+4.3% (2024 est.)<br>
+2.4% (2023 est.)<br>
+9.1% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$29,000 (2023 est.)<br>
-$28,000 (2022 est.)<br>
-$25,700 (2021 est.)<br>
+$29,600 (2024 est.)<br>
+$28,500 (2023 est.)<br>
+$27,900 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.033 billion (2023 est.)<br>
+$2.225 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.2% (2024 est.)<br>
 5.1% (2023 est.)<br>
 7.5% (2022 est.)<br>
-2.1% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.9% (2023 est.)<br>
-_industry_: 19.4% (2023 est.)<br>
-_services_: 67.8% (2023 est.)<br>
+_industry_: 19% (2023 est.)<br>
+_services_: 69.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
-
-**GDP - composition, by end use**<br>
-_household consumption_: 53.5% (2017 est.)<br>
-_government consumption_: 15.2% (2017 est.)<br>
-_investment in fixed capital_: 23.9% (2017 est.)<br>
-_investment in inventories_: 0.1% (2017 est.)<br>
-_exports of goods and services_: 54.7% (2022 est.)<br>
-_imports of goods and services_: -62.9% (2022 est.)<br>
-<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 tropical fruits, milk, mangoes/guavas, eggs, lemons/limes, pumpkins/squash, sweet potatoes, vegetables, cucumbers/gherkins, yams (2023)<br>
@@ -410,13 +401,13 @@ tropical fruits, milk, mangoes/guavas, eggs, lemons/limes, pumpkins/squash, swee
 tourism, construction, light manufacturing (clothing, alcohol, household appliances)<br>
 
 **Industrial production growth rate**<br>
-3.89% (2023 est.)<br>
+1% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Remittances**<br>
-1.72% of GDP (2023 est.)<br>
-1.86% of GDP (2022 est.)<br>
-2.83% of GDP (2021 est.)<br>
+1.2% of GDP (2024 est.)<br>
+1.7% of GDP (2023 est.)<br>
+1.9% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -424,22 +415,16 @@ _revenues_: $251.418 million (2014 est.)<br>
 _expenditures_: $266.044 million (2014 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-86.8% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-19.6% (of GDP) (2017 est.)<br>
-
 **Current account balance**<br>
+-$181.366 million (2024 est.)<br>
 -$271.047 million (2023 est.)<br>
 -$291.674 million (2022 est.)<br>
--$284.882 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$1.314 billion (2024 est.)<br>
 $1.185 billion (2023 est.)<br>
 $1.111 billion (2022 est.)<br>
-$705.697 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -451,9 +436,9 @@ refined petroleum, ships, soybean meal, shellfish, paintings (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$1.282 billion (2024 est.)<br>
 $1.273 billion (2023 est.)<br>
 $1.227 billion (2022 est.)<br>
-$867.846 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

@@ -372,37 +372,37 @@ _selected World Heritage Site locales_: Pitons Management Area<br>
 upper middle-income, tourism-based Caribbean island economy; environmentally fragile; energy import-dependent; major banana producer; well-educated labor force; key infrastructure, IT, and communications investments<br>
 
 **Real GDP (purchasing power parity)**<br>
+$4.359 billion (2024 est.)<br>
 $4.196 billion (2023 est.)<br>
 $4.105 billion (2022 est.)<br>
-$3.41 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.21% (2023 est.)<br>
-20.39% (2022 est.)<br>
-12.23% (2021 est.)<br>
+3.9% (2024 est.)<br>
+2.2% (2023 est.)<br>
+20.4% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$24,300 (2024 est.)<br>
 $23,400 (2023 est.)<br>
 $23,000 (2022 est.)<br>
-$19,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.43 billion (2023 est.)<br>
+$2.549 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+-0.1% (2024 est.)<br>
 4.1% (2023 est.)<br>
 6.4% (2022 est.)<br>
-2.4% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.1% (2023 est.)<br>
-_industry_: 9.7% (2023 est.)<br>
-_services_: 76.3% (2023 est.)<br>
+_agriculture_: 1.1% (2024 est.)<br>
+_industry_: 9.8% (2024 est.)<br>
+_services_: 75.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -421,7 +421,7 @@ coconuts, bananas, tropical fruits, fruits, root vegetables, plantains, vegetabl
 tourism; clothing, assembly of electronic components, beverages, corrugated cardboard boxes, lime processing, coconut processing<br>
 
 **Industrial production growth rate**<br>
-12.4% (2023 est.)<br>
+5.6% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -429,9 +429,9 @@ tourism; clothing, assembly of electronic components, beverages, corrugated card
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-10.9% (2024 est.)<br>
+11% (2024 est.)<br>
 11.1% (2023 est.)<br>
-15.9% (2022 est.)<br>
+16% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -454,9 +454,9 @@ _highest 10%_: 34.1% (2015 est.)<br>
 <strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.63% of GDP (2023 est.)<br>
-2.65% of GDP (2022 est.)<br>
-3.39% of GDP (2021 est.)<br>
+2.5% of GDP (2024 est.)<br>
+2.6% of GDP (2023 est.)<br>
+2.6% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -464,23 +464,20 @@ _revenues_: $414.77 million (2017 est.)<br>
 _expenditures_: $351.956 million (2017 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-70.7% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
 18.2% (of GDP) (2017 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$64.121 million (2024 est.)<br>
 -$38.069 million (2023 est.)<br>
 -$83.442 million (2022 est.)<br>
--$210.924 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$1.6 billion (2024 est.)<br>
 $1.419 billion (2023 est.)<br>
 $1.29 billion (2022 est.)<br>
-$710.754 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -492,9 +489,9 @@ refined petroleum, gravel and crushed stone, beer, liquor, paper containers (202
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$1.446 billion (2024 est.)<br>
 $1.292 billion (2023 est.)<br>
 $1.2 billion (2022 est.)<br>
-$892.876 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

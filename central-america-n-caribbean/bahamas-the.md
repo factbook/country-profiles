@@ -359,46 +359,46 @@ _history_: royal anthem, as a Commonwealth country<br>
 high-income tourism and financial services economy; major income inequality; strong US bilateral relations; several tax relief programs; targeted investment in agriculture, energy, light manufacturing, and technology industries<br>
 
 **Real GDP (purchasing power parity)**<br>
-$13.224 billion (2023 est.)<br>
-$12.884 billion (2022 est.)<br>
-$11.63 billion (2021 est.)<br>
+$14.544 billion (2024 est.)<br>
+$14.069 billion (2023 est.)<br>
+$13.653 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.64% (2023 est.)<br>
-10.78% (2022 est.)<br>
-15.4% (2021 est.)<br>
+3.4% (2024 est.)<br>
+3% (2023 est.)<br>
+10.9% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$33,100 (2023 est.)<br>
-$32,400 (2022 est.)<br>
-$29,300 (2021 est.)<br>
+$36,200 (2024 est.)<br>
+$35,200 (2023 est.)<br>
+$34,300 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$14.339 billion (2023 est.)<br>
+$15.833 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+0.4% (2024 est.)<br>
 3.1% (2023 est.)<br>
 5.6% (2022 est.)<br>
-2.9% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.4% (2023 est.)<br>
-_industry_: 8.8% (2023 est.)<br>
-_services_: 80.8% (2023 est.)<br>
+_agriculture_: 0.5% (2024 est.)<br>
+_industry_: 9.6% (2024 est.)<br>
+_services_: 77.2% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 67.5% (2023 est.)<br>
-_government consumption_: 13% (2023 est.)<br>
-_investment in fixed capital_: 19.5% (2023 est.)<br>
-_investment in inventories_: 1.2% (2023 est.)<br>
-_exports of goods and services_: 39.7% (2023 est.)<br>
-_imports of goods and services_: -43% (2023 est.)<br>
+_household consumption_: 64.3% (2024 est.)<br>
+_government consumption_: 12.9% (2024 est.)<br>
+_investment in fixed capital_: 25.7% (2024 est.)<br>
+_investment in inventories_: 1.1% (2024 est.)<br>
+_exports of goods and services_: 37.8% (2024 est.)<br>
+_imports of goods and services_: -41.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -409,7 +409,7 @@ sugarcane, grapefruits, vegetables, bananas, tomatoes, chicken, tropical fruits,
 tourism, banking, oil bunkering, maritime industries, transshipment and logistics, salt, aragonite, pharmaceuticals<br>
 
 **Industrial production growth rate**<br>
-10.34% (2023 est.)<br>
+12.5% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -418,7 +418,7 @@ tourism, banking, oil bunkering, maritime industries, transshipment and logistic
 
 **Unemployment rate**<br>
 8.5% (2024 est.)<br>
-8.6% (2023 est.)<br>
+8.7% (2023 est.)<br>
 9.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -429,9 +429,10 @@ _female_: 17.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-0.44% of GDP (2023 est.)<br>
-0.44% of GDP (2022 est.)<br>
-0.47% of GDP (2021 est.)<br>
+0.4% of GDP (2024 est.)<br>
+0.4% of GDP (2023 est.)<br>
+0.4% of GDP (2022 est.)<br>
+<strong>note:</strong> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $2.606 billion (2022 est.)<br>
@@ -439,23 +440,23 @@ _expenditures_: $3.102 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-78.5% of GDP (2023 est.)<br>
+73.7% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-17.3% (of GDP) (2023 est.)<br>
+16.2% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.075 billion (2023 est.)<br>
+-$1.053 billion (2024 est.)<br>
+-$1.069 billion (2023 est.)<br>
 -$1.233 billion (2022 est.)<br>
--$2.434 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$6.005 billion (2023 est.)<br>
+$6.771 billion (2024 est.)<br>
+$6.011 billion (2023 est.)<br>
 $5.425 billion (2022 est.)<br>
-$3.33 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -467,9 +468,9 @@ refined petroleum, ships, aluminum, shellfish, plastics (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$7.069 billion (2024 est.)<br>
 $6.273 billion (2023 est.)<br>
 $5.843 billion (2022 est.)<br>
-$4.947 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -488,11 +489,11 @@ $2.433 billion (2021 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Bahamian dollars (BSD) per US dollar -<br>
+1 (2024 est.)<br>
 1 (2023 est.)<br>
 1 (2022 est.)<br>
 1 (2021 est.)<br>
 1 (2020 est.)<br>
-1 (2019 est.)<br>
 
 ## Energy
 

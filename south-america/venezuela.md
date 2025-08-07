@@ -71,7 +71,7 @@ _salt water lake(s)_: Lago de Maracaibo - 13,010 sq km<br>
 Rio Negro (shared with Colombia [s] and Brazil [m]) - 2,250 km; Orinoco river source and mouth (shared with Colombia) - 2,101 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
+_Atlantic Ocean drainage_: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in the northern and western highlands along an eastern spur at the northern end of the Andes, an area that includes the capital of Caracas<br>
@@ -397,31 +397,12 @@ $482.359 billion (2014 est.)<br>
 416.8% (2017 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 5% (2014 est.)<br>
-_industry_: 37.2% (2014 est.)<br>
-_services_: 51.7% (2014 est.)<br>
-<b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
-
-**GDP - composition, by end use**<br>
-_household consumption_: 75.3% (2014 est.)<br>
-_government consumption_: 14.6% (2014 est.)<br>
-_investment in fixed capital_: 21.6% (2014 est.)<br>
-_investment in inventories_: 3.2% (2014 est.)<br>
-_exports of goods and services_: 16.7% (2014 est.)<br>
-_imports of goods and services_: -31.4% (2014 est.)<br>
-<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
-
 **Agricultural products**<br>
 milk, sugarcane, maize, rice, plantains, oil palm fruit, bananas, chicken, pineapples, potatoes (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 agricultural products, livestock, raw materials, machinery and equipment, transport equipment, construction materials, medical equipment, pharmaceuticals, chemicals, iron and steel products, crude oil and petroleum products<br>
-
-**Industrial production growth rate**<br>
--5.84% (2014 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 11.136 million (2024 est.)<br>
@@ -430,7 +411,7 @@ agricultural products, livestock, raw materials, machinery and equipment, transp
 **Unemployment rate**<br>
 5.5% (2024 est.)<br>
 5.5% (2023 est.)<br>
-5.7% (2022 est.)<br>
+5.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -447,10 +428,6 @@ _female_: 13.2% (2024 est.)<br>
 _on food_: 52% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 2.8% of household expenditures (2023 est.)<br>
 
-**Remittances**<br>
-0.03% of GDP (2014 est.)<br>
-<strong>note:</strong> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
-
 **Budget**<br>
 _revenues_: $30 million (2017 est.)<br>
 _expenditures_: $76 million (2017 est.)<br>
@@ -458,9 +435,6 @@ _expenditures_: $76 million (2017 est.)<br>
 **Public debt**<br>
 38.9% of GDP (2017 est.)<br>
 <strong>note:</strong> data cover central government debt, as well as the debt of state-owned oil company PDVSA; the data include treasury debt held by foreign entities; the data include some debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; some debt instruments for the social funds are sold at public auctions<br>
-
-**Taxes and other revenues**<br>
-44.2% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
 -$3.87 billion (2016 est.)<br>

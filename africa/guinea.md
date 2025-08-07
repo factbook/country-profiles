@@ -66,7 +66,7 @@ _other_: 5.2% (2022 est.)<br>
 Niger river source (shared with Mali, and Nigeria [m]) - 4,200 km; Gambie (Gambia) river source (shared with Senegal and The Gambia [m]) - 1,094 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
+_Atlantic Ocean drainage_: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
 
 **Population distribution**<br>
 areas of highest density are in the west and south; interior is sparsely populated, as shown in this population distribution map<br>
@@ -387,25 +387,25 @@ _selected World Heritage Site locales_: Mount Nimba Strict Nature Reserve<br>
 growing but primarily agrarian West African economy; major mining sector; improving fiscal and debt balances prior to COVID-19; economy increasingly vulnerable to climate change; slow infrastructure improvements; gender wealth and human capital gaps<br>
 
 **Real GDP (purchasing power parity)**<br>
-$56.892 billion (2023 est.)<br>
+$59.439 billion (2024 est.)<br>
+$56.251 billion (2023 est.)<br>
 $53.297 billion (2022 est.)<br>
-$51.261 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-6.74% (2023 est.)<br>
-3.97% (2022 est.)<br>
-3.9% (2021 est.)<br>
+5.7% (2024 est.)<br>
+5.5% (2023 est.)<br>
+4% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$4,000 (2024 est.)<br>
 $3,900 (2023 est.)<br>
 $3,800 (2022 est.)<br>
-$3,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$22.199 billion (2023 est.)<br>
+$25.334 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -415,18 +415,18 @@ $22.199 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 29.1% (2023 est.)<br>
-_industry_: 26.3% (2023 est.)<br>
-_services_: 36.9% (2023 est.)<br>
+_agriculture_: 29.6% (2024 est.)<br>
+_industry_: 25.3% (2024 est.)<br>
+_services_: 37.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 72.9% (2023 est.)<br>
-_government consumption_: 13.6% (2023 est.)<br>
-_investment in fixed capital_: 21.9% (2023 est.)<br>
-_investment in inventories_: -1.1% (2023 est.)<br>
-_exports of goods and services_: 41.6% (2023 est.)<br>
-_imports of goods and services_: -49% (2023 est.)<br>
+_household consumption_: 67.4% (2024 est.)<br>
+_government consumption_: 13.4% (2024 est.)<br>
+_investment in fixed capital_: 32.1% (2024 est.)<br>
+_investment in inventories_: -0.9% (2024 est.)<br>
+_exports of goods and services_: 44% (2024 est.)<br>
+_imports of goods and services_: -56.1% (2024 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -437,7 +437,7 @@ rice, cassava, maize, groundnuts, oil palm fruit, plantains, potatoes, fonio, ya
 bauxite, gold, diamonds, iron ore; light manufacturing, agricultural processing<br>
 
 **Industrial production growth rate**<br>
-10.9% (2023 est.)<br>
+7.1% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -445,8 +445,8 @@ bauxite, gold, diamonds, iron ore; light manufacturing, agricultural processing<
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.2% (2024 est.)<br>
-5.2% (2023 est.)<br>
+5.3% (2024 est.)<br>
+5.3% (2023 est.)<br>
 5.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -470,20 +470,14 @@ _highest 10%_: 23.1% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.24% of GDP (2023 est.)<br>
-2.65% of GDP (2022 est.)<br>
-2.01% of GDP (2021 est.)<br>
+2.2% of GDP (2023 est.)<br>
+2.6% of GDP (2022 est.)<br>
+2% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.949 billion (2019 est.)<br>
 _expenditures_: $2.014 billion (2019 est.)<br>
-
-**Public debt**<br>
-37.9% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-16.6% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
 $2.288 billion (2023 est.)<br>

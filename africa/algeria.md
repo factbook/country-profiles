@@ -64,7 +64,8 @@ _other_: 81.8% (2022 est.)<br>
 13,819 sq km (2019)<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
+_Atlantic Ocean drainage_: Niger (2,261,741 sq km)<br>
+_Internal (endorheic basin) drainage_: Lake Chad (2,497,738 sq km)<br>
 
 **Major aquifers**<br>
 Lullemeden-Irhazer Aquifer System, Murzuk-Djado Basin, North Western Sahara Aquifer, Taoudeni-Tanezrouft Basin<br>
@@ -400,25 +401,25 @@ _selected World Heritage Site locales_: Beni Hammad Fort (c); Djémila (c); Casb
 suffering oil and gas economy; lack of sector and market diversification; political instability chilling domestic consumption; poor credit access and declines in business confidence; COVID-19 austerity policies; delayed promised socio-economic reforms<br>
 
 **Real GDP (purchasing power parity)**<br>
+$722.912 billion (2024 est.)<br>
 $699.818 billion (2023 est.)<br>
 $672.256 billion (2022 est.)<br>
-$648.896 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.3% (2024 est.)<br>
 4.1% (2023 est.)<br>
 3.6% (2022 est.)<br>
-3.8% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$15,400 (2024 est.)<br>
 $15,200 (2023 est.)<br>
 $14,800 (2022 est.)<br>
-$14,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$247.626 billion (2023 est.)<br>
+$263.62 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -450,7 +451,7 @@ potatoes, watermelons, wheat, milk, onions, tomatoes, vegetables, oranges, dates
 petroleum, natural gas, light industries, mining, electrical, petrochemical, food processing<br>
 
 **Industrial production growth rate**<br>
-3.88% (2023 est.)<br>
+3.9% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -458,9 +459,9 @@ petroleum, natural gas, light industries, mining, electrical, petrochemical, foo
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11.4% (2024 est.)<br>
-11.7% (2023 est.)<br>
-12.3% (2022 est.)<br>
+11.5% (2024 est.)<br>
+11.8% (2023 est.)<br>
+12.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -474,9 +475,9 @@ _on food_: 37.2% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 1% of household expenditures (2023 est.)<br>
 
 **Remittances**<br>
-0.75% of GDP (2023 est.)<br>
-0.76% of GDP (2022 est.)<br>
-0.96% of GDP (2021 est.)<br>
+0.8% of GDP (2023 est.)<br>
+0.8% of GDP (2022 est.)<br>
+1% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -486,9 +487,6 @@ _expenditures_: $64.728 billion (2019 est.)<br>
 **Public debt**<br>
 27.5% of GDP (2017 est.)<br>
 <strong>note:</strong> data cover central government debt as well as debt issued by subnational entities and intra-governmental debt<br>
-
-**Taxes and other revenues**<br>
-32.3% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
 $6.359 billion (2023 est.)<br>
@@ -525,7 +523,7 @@ wheat, plastics, cars, milk, corn (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$68.448 billion (2024 est.)<br>
+$83.007 billion (2024 est.)<br>
 $81.217 billion (2023 est.)<br>
 $71.852 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

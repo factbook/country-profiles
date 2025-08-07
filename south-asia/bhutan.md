@@ -371,25 +371,25 @@ _history_: adopted 1953<br>
 hydropower investments spurring economic development; Gross National Happiness economy; sharp poverty declines; low inflation; strong monetary and fiscal policies; stable currency; fairly resilient response to COVID-19; key economic and strategic relations with India; climate vulnerabilities<br>
 
 **Real GDP (purchasing power parity)**<br>
+$11.517 billion (2023 est.)<br>
 $10.981 billion (2022 est.)<br>
 $10.437 billion (2021 est.)<br>
-$9.995 billion (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.21% (2022 est.)<br>
-4.42% (2021 est.)<br>
--10.22% (2020 est.)<br>
+4.9% (2023 est.)<br>
+5.2% (2022 est.)<br>
+4.4% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$14,600 (2023 est.)<br>
 $14,100 (2022 est.)<br>
 $13,500 (2021 est.)<br>
-$13,000 (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.898 billion (2022 est.)<br>
+$3.019 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -399,18 +399,18 @@ $2.898 billion (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 14.7% (2022 est.)<br>
-_industry_: 31.8% (2022 est.)<br>
-_services_: 51.2% (2022 est.)<br>
+_agriculture_: 15% (2023 est.)<br>
+_industry_: 29.6% (2023 est.)<br>
+_services_: 52.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 57.8% (2022 est.)<br>
-_government consumption_: 21% (2022 est.)<br>
-_investment in fixed capital_: 55.1% (2022 est.)<br>
-_investment in inventories_: 0.7% (2022 est.)<br>
-_exports of goods and services_: 25.5% (2022 est.)<br>
-_imports of goods and services_: -60.1% (2022 est.)<br>
+_household consumption_: 59.4% (2023 est.)<br>
+_government consumption_: 20.3% (2023 est.)<br>
+_investment in fixed capital_: 44.5% (2023 est.)<br>
+_investment in inventories_: 0.7% (2023 est.)<br>
+_exports of goods and services_: 28.3% (2023 est.)<br>
+_imports of goods and services_: -53.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -421,7 +421,7 @@ rice, milk, potatoes, root vegetables, maize, oranges, areca nuts, chillies/pepp
 cement, wood products, processed fruits, alcoholic beverages, calcium carbide, tourism<br>
 
 **Industrial production growth rate**<br>
-5.6% (2022 est.)<br>
+0% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -430,8 +430,8 @@ cement, wood products, processed fruits, alcoholic beverages, calcium carbide, t
 
 **Unemployment rate**<br>
 2.9% (2024 est.)<br>
-3.1% (2023 est.)<br>
-5.9% (2022 est.)<br>
+3.2% (2023 est.)<br>
+6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -454,9 +454,9 @@ _highest 10%_: 22.7% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.31% of GDP (2022 est.)<br>
-2.65% of GDP (2021 est.)<br>
-3.39% of GDP (2020 est.)<br>
+3.6% of GDP (2023 est.)<br>
+3.3% of GDP (2022 est.)<br>
+2.6% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -507,7 +507,7 @@ refined petroleum, gold, plastics, broadcasting equipment, iron reductions (2023
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$928.229 million (2024 est.)<br>
+$941.018 million (2024 est.)<br>
 $654.481 million (2023 est.)<br>
 $825.755 million (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

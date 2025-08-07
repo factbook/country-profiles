@@ -371,31 +371,31 @@ _selected World Heritage Site locales_: Historic Bridgetown and its Garrison<br>
 <p>high-income Eastern Caribbean economy; high standard of living among regional peers; key tourism, construction, and financial sectors driving recent GDP growth; declining but still very high public debt leading to IMF support programs; susceptible to natural disasters and reliance on import partners</p><br>
 
 **Real GDP (purchasing power parity)**<br>
+$5.634 billion (2024 est.)<br>
 $5.428 billion (2023 est.)<br>
 $5.214 billion (2022 est.)<br>
-$4.425 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.09% (2023 est.)<br>
-17.83% (2022 est.)<br>
--1.18% (2021 est.)<br>
+3.8% (2024 est.)<br>
+4.1% (2023 est.)<br>
+17.8% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$19,900 (2024 est.)<br>
 $19,200 (2023 est.)<br>
 $18,500 (2022 est.)<br>
-$15,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$6.721 billion (2023 est.)<br>
+$7.165 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+-0.5% (2024 est.)<br>
 9.8% (2023 est.)<br>
 4.1% (2019 est.)<br>
-3.7% (2018 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -421,7 +421,7 @@ sugarcane, chicken, vegetables, milk, eggs, sweet potatoes, pork, coconuts, trop
 tourism, sugar, light manufacturing, component assembly for export<br>
 
 **Industrial production growth rate**<br>
--1.34% (2023 est.)<br>
+-1.3% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -429,7 +429,7 @@ tourism, sugar, light manufacturing, component assembly for export<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.5% (2024 est.)<br>
+7.6% (2024 est.)<br>
 7.9% (2023 est.)<br>
 8.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -440,10 +440,19 @@ _male_: 27.5% (2024 est.)<br>
 _female_: 19.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
+**Gini Index coefficient - distribution of family income**<br>
+34.1 (2016 est.)<br>
+<strong>note:</strong> index (0-100) of income distribution; higher values represent greater inequality<br>
+
+**Household income or consumption by percentage share**<br>
+_lowest 10%_: 2.5% (2016 est.)<br>
+_highest 10%_: 25.8% (2016 est.)<br>
+% share of income accruing to lowest and highest 10% of population<br>
+
 **Remittances**<br>
-1.27% of GDP (2023 est.)<br>
-1.36% of GDP (2022 est.)<br>
-1.61% of GDP (2021 est.)<br>
+1.3% of GDP (2023 est.)<br>
+1.4% of GDP (2022 est.)<br>
+1.6% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>

@@ -303,44 +303,32 @@ _history_: official anthem, as a UK overseas territory<br>
 British Caribbean island territorial economy; GDP and its tourism industry hit hard by COVID-19 disruptions; major biodiversity locale; US dollar user; fossil fuel dependent; negative trade balance; increasing unemployment<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.03 billion (2023 est.)<br>
-$1.018 billion (2022 est.)<br>
-$958.811 million (2021 est.)<br>
+$1.554 billion (2024 est.)<br>
+$1.471 billion (2023 est.)<br>
+$1.293 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.2% (2023 est.)<br>
-6.2% (2022 est.)<br>
-9.03% (2021 est.)<br>
+5.6% (2024 est.)<br>
+13.7% (2023 est.)<br>
+14.1% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$22,300 (2023 est.)<br>
-$22,200 (2022 est.)<br>
-$21,200 (2021 est.)<br>
+$33,400 (2024 est.)<br>
+$31,800 (2023 est.)<br>
+$28,200 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.402 billion (2023 est.)<br>
+$1.745 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
-**Inflation rate (consumer prices)**<br>
-4% (2017 est.)<br>
-0.7% (2016 est.)<br>
-
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.4% (2016 est.)<br>
-_industry_: 9.5% (2016 est.)<br>
-_services_: 77.9% (2016 est.)<br>
+_agriculture_: 0.4% (2024 est.)<br>
+_industry_: 9.3% (2024 est.)<br>
+_services_: 72.6% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
-
-**GDP - composition, by end use**<br>
-_household consumption_: 49% (2017 est.)<br>
-_government consumption_: 21.5% (2017 est.)<br>
-_investment in fixed capital_: 16.5% (2017 est.)<br>
-_investment in inventories_: -0.1% (2017 est.)<br>
-_exports of goods and services_: 69.5% (2017 est.)<br>
-_imports of goods and services_: -56.4% (2017 est.)<br>
 
 **Agricultural products**<br>
 corn, beans, cassava (manioc, tapioca), citrus fruits; fish<br>
@@ -349,7 +337,7 @@ corn, beans, cassava (manioc, tapioca), citrus fruits; fish<br>
 tourism, offshore financial services<br>
 
 **Industrial production growth rate**<br>
-5.84% (2016 est.)<br>
+9% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Remittances**<br>

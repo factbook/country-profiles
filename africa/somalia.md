@@ -377,38 +377,34 @@ regional and local governing bodies continue to exist and control various areas 
 low-income African Horn economy; 30 years of war and instability crippled economic potential; high remittances for basic survival; new fiscal federalism approach; cleared some unsustainable debt; environmentally fragile; digitally driven urbanization efforts<br>
 
 **Real GDP (purchasing power parity)**<br>
+$26.77 billion (2024 est.)<br>
 $25.747 billion (2023 est.)<br>
 $24.706 billion (2022 est.)<br>
-$24.05 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.22% (2023 est.)<br>
-2.73% (2022 est.)<br>
-3.31% (2021 est.)<br>
+4% (2024 est.)<br>
+4.2% (2023 est.)<br>
+2.7% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$1,400 (2024 est.)<br>
 $1,400 (2023 est.)<br>
 $1,400 (2022 est.)<br>
-$1,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$10.969 billion (2023 est.)<br>
+$12.109 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
-**Inflation rate (consumer prices)**<br>
-1.5% (2017 est.)<br>
--71.1% (2016 est.)<br>
-
 **GDP - composition, by end use**<br>
-_household consumption_: 123.5% (2023 est.)<br>
-_government consumption_: 7.3% (2023 est.)<br>
-_investment in fixed capital_: 22.4% (2023 est.)<br>
-_investment in inventories_: 0% (2023 est.)<br>
-_exports of goods and services_: 19.7% (2023 est.)<br>
-_imports of goods and services_: -73% (2023 est.)<br>
+_household consumption_: 124% (2024 est.)<br>
+_government consumption_: 7.6% (2024 est.)<br>
+_investment in fixed capital_: 22.7% (2024 est.)<br>
+_investment in inventories_: 0% (2024 est.)<br>
+_exports of goods and services_: 20% (2024 est.)<br>
+_imports of goods and services_: -74.3% (2024 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -418,18 +414,14 @@ camel milk, milk, goat milk, sheep milk, sugarcane, fruits, sorghum, cassava, ve
 **Industries**<br>
 light industries, including sugar refining, textiles, wireless communication<br>
 
-**Industrial production growth rate**<br>
-4.3% (2014 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
-
 **Labor force**<br>
 3.439 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 18.9% (2024 est.)<br>
-18.9% (2023 est.)<br>
-19% (2022 est.)<br>
+19% (2023 est.)<br>
+19.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -442,30 +434,20 @@ _female_: 37% (2024 est.)<br>
 54.4% (2022 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
-**Gini Index coefficient - distribution of family income**<br>
-36.8 (2017 est.)<br>
-
 **Remittances**<br>
-15.82% of GDP (2023 est.)<br>
-17.01% of GDP (2022 est.)<br>
-18.29% of GDP (2021 est.)<br>
+15.8% of GDP (2023 est.)<br>
+17% of GDP (2022 est.)<br>
+18.3% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
-
-**Public debt**<br>
-76.7% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 0% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Current account balance**<br>
--$464 million (2017 est.)<br>
--$427 million (2016 est.)<br>
-
 **Exports**<br>
+$2.424 billion (2024 est.)<br>
 $2.164 billion (2023 est.)<br>
 $1.804 billion (2022 est.)<br>
-$1.532 billion (2021 est.)<br>
 <strong>note:</strong> GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -477,9 +459,9 @@ sheep and goats, gold, postage stamps/documents, other animals, cattle (2023)<br
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$9.002 billion (2024 est.)<br>
 $8.002 billion (2023 est.)<br>
 $7.456 billion (2022 est.)<br>
-$5.969 billion (2021 est.)<br>
 <strong>note:</strong> GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -489,9 +471,6 @@ UAE 29%, China 19%, India 15%, Turkey 8%, Oman 5% (2023)<br>
 **Imports - commodities**<br>
 raw sugar, tobacco, broadcasting equipment, rice, milk (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Reserves of foreign exchange and gold**<br>
-$30.45 million (2014 est.)<br>
 
 **Debt - external**<br>
 $2.563 billion (2023 est.)<br>
@@ -586,8 +565,8 @@ _key ports_: Baraawe, Berbera, Boosaaso, Kismaayo, Marka, Muqdisho<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Somali Armed Forces (SAF; aka Somali Defense Force): Somali National Army (SNA; aka Land Forces), Somali Navy, Somali Air Force<br><br>Ministry of Internal Security: Somali National Police (SNP, includes Coast Guard, commando unit) (2024)<br>
-<strong>note 1:</strong> Somalia has numerous militia ("ma’awisley") and regional/state forces operating throughout the country; these forces include ones that are clan- and warlord-based, semi-official paramilitary and special police forces ("darwish"), and externally sponsored militias<br><br><strong>note 2: </strong>Somaliland and Puntland have separate military, security, and paramilitary forces<br>
+Somali Armed Forces (SAF; aka Somali Defense Force): Somali National Army (SNA; aka Land Forces), Somali Navy, Somali Air Force<br><br>Ministry of Internal Security: Somali National Police (SNP, includes Coast Guard, commando unit) (2025)<br>
+<strong>note 1:</strong> Somalia has numerous militia and regional/state forces operating throughout the country; the militia include clan- and warlord-based militias, as well as some that are externally sponsored; regional forces include semi-official paramilitary and special police forces ("darwish")<br><br><strong>note 2: </strong>Somaliland and Puntland have separate military, security, and paramilitary forces<br>
 
 **Military expenditures**<br>
 6% of GDP (2021 est.)<br>
@@ -607,7 +586,7 @@ the SNA's inventory is a mix of older, secondhand, and donated equipment from a 
 18 is the legal minimum age for voluntary military service for men and women; conscription of men aged 18-40 and women aged 18-30 is authorized, but not currently utilized (2023)<br>
 
 **Military - note**<br>
-the Somali National Army (SNA) is a lightly armed force of more than a dozen brigades; its most effective units are assessed to be the US-trained Danab ("Lightning") Advanced Infantry Brigade and those of the Turkish-trained Gorgor ("Eagle") Special Division; SNA soldiers have also received training from Egypt, Eritrea, Ethiopia, the EU, Uganda, and the UK; the SNA and supporting security and militia forces are actively conducting operations against the al-Shabaab terrorist group; al-Shabaab controls large parts of southern and central Somalia<br><br>the African Union Mission in Somalia (AMISOM) operated in the country with the approval of the UN from 2007-2022; its mission included assisting Somali forces in providing security for a stable political process, enabling the gradual handing over of security responsibilities from AMISOM to the Somali security forces, and reducing the threat posed by al-Shabaab and other armed opposition groups; in April 2022, AMISOM was reconfigured and replaced with the AU Transition Mission in Somalia (ATMIS); the ATMIS mission was to support the Somalia Federal Government (FGS) in implementing the security objectives of the FGS's security transition plan, a comprehensive strategy developed by the FGS and its international partners in 2018 and updated in 2021 to gradually transfer security responsibilities from ATMIS to Somali security forces; originally about 20,000-strong (civilians, military, and police), ATMIS began reducing its staffing levels in mid-2023 and ended its mission at the end of 2024; the follow-on force for ATMIS, the Support and Stabilization Mission in Somalia (AUSSOM) was formed in January 2025 and slated to have about 12,000 personnel, including soldiers, police and civilian support staff (2025)<br>
+the primary responsibility of the Somali National Army (SNA) is combating the al-Shabaab terrorist group, which controls large portions of central and southern Somalia and continues to conduct attacks targeting both military and civilian sites, including military bases, government institutions, and civilian gatherings; the SNA is supported by the National Police, regional/state security forces, and allied militias, as well as international forces; some African Union (AU) countries have provided military assistance to the SNA since 2007 under the AU Mission in Somalia (AMISOM, 2007-2022), the AU Transition Mission in Somalia (ATMIS, 2022-2024), and the AU Support and Stabilization Mission in Somalia (AUSSOM, January 2025-present); Turkey and the US have also provided direct military support to SNA operations, primarily air strikes<br><br>Turkey and the US have formed and trained SNA units, including the US-backed Danab ("Lightning") Brigade and the Turkish-trained Gorgor ("Eagle") brigades; SNA soldiers have also received training from Egypt, Eritrea, Ethiopia, the EU, Uganda, the UAE, and the UK (2025)<br>
 
 ## Terrorism
 

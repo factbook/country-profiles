@@ -68,7 +68,7 @@ _fresh water lake(s)_: Lake Constance (shared with Switzerland and Germany) - 54
 Donau (Danube) (shared with Germany [s], Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+_Atlantic Ocean drainage_: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
 the northern and eastern portions of the country are more densely populated; nearly two thirds of the populace lives in urban areas<br>
@@ -402,25 +402,25 @@ _selected World Heritage Site locales_: Historic Salzburg (c); Palace and Garden
 one of the strongest EU and euro economies; diversified trade portfolios and relations; enormous trade economy; Russian energy dependence, but investing in alternative energy; aging labor force but large refugee population; large government debt<br>
 
 **Real GDP (purchasing power parity)**<br>
-$593.703 billion (2023 est.)<br>
-$599.427 billion (2022 est.)<br>
-$569.376 billion (2021 est.)<br>
+$581.131 billion (2024 est.)<br>
+$588.031 billion (2023 est.)<br>
+$593.701 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--0.95% (2023 est.)<br>
-5.28% (2022 est.)<br>
-4.24% (2021 est.)<br>
+-1.2% (2024 est.)<br>
+-1% (2023 est.)<br>
+5.3% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$65,000 (2023 est.)<br>
-$66,300 (2022 est.)<br>
-$63,600 (2021 est.)<br>
+$63,300 (2024 est.)<br>
+$64,400 (2023 est.)<br>
+$65,700 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$511.685 billion (2023 est.)<br>
+$521.642 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -430,9 +430,9 @@ $511.685 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.3% (2023 est.)<br>
-_industry_: 25.2% (2023 est.)<br>
-_services_: 63.3% (2023 est.)<br>
+_agriculture_: 1.2% (2024 est.)<br>
+_industry_: 23.1% (2024 est.)<br>
+_services_: 65.3% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -452,15 +452,15 @@ milk, sugar beets, maize, wheat, barley, potatoes, pork, grapes, triticale, soyb
 construction, machinery, vehicles and parts, food, metals, chemicals, lumber and paper, electronics, tourism<br>
 
 **Industrial production growth rate**<br>
--1.99% (2023 est.)<br>
+-5.5% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.738 million (2024 est.)<br>
+4.768 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.4% (2024 est.)<br>
+5.5% (2024 est.)<br>
 5.3% (2023 est.)<br>
 5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -476,7 +476,7 @@ _female_: 12% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-30.7 (2021 est.)<br>
+30.9 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -484,14 +484,14 @@ _on food_: 10.1% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 3.5% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.8% (2021 est.)<br>
-_highest 10%_: 23.8% (2021 est.)<br>
+_lowest 10%_: 2.8% (2022 est.)<br>
+_highest 10%_: 24.6% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.64% of GDP (2023 est.)<br>
-0.64% of GDP (2022 est.)<br>
-0.66% of GDP (2021 est.)<br>
+0.7% of GDP (2024 est.)<br>
+0.6% of GDP (2023 est.)<br>
+0.6% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -542,7 +542,7 @@ cars, garments, vaccines, vehicle parts/accessories, refined petroleum (2023)<br
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$11.919 billion (2024 est.)<br>
+$35.406 billion (2024 est.)<br>
 $31.212 billion (2023 est.)<br>
 $33.078 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

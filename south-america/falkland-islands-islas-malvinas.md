@@ -262,14 +262,6 @@ _history_: official anthem, as a UK territory<br>
 **Economic overview**<br>
 British South American territorial economy; longstanding fishing industry; surging tourism prior to COVID-19 and Brexit; recent offshore hydrocarbon discoveries threaten ecotourism industries; no central bank and must have British approval on currency shifts<br>
 
-**Real GDP (purchasing power parity)**<br>
-$206.4 million (2015 est.)<br>
-$164.5 million (2014 est.)<br>
-
-**Real GDP growth rate**<br>
-25.5% (2015 est.)<br>
--1.8% (2014 est.)<br>
-
 **Real GDP per capita**<br>
 $70,800 (2015 est.)<br>
 $63,000 (2014 est.)<br>
@@ -277,31 +269,11 @@ $63,000 (2014 est.)<br>
 **GDP (official exchange rate)**<br>
 $206.4 million (2015 est.)<br>
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 41% (2015 est.)<br>
-_industry_: 20.6% (2015 est.)<br>
-_services_: 38.4% (2015 est.)<br>
-
 **Agricultural products**<br>
 fodder and vegetable crops; venison, sheep, dairy products; fish, squid<br>
 
 **Industries**<br>
 fish and wool processing; tourism<br>
-
-**Labor force**<br>
-1,850 (2016 est.)<br>
-
-**Unemployment rate**<br>
-1% (2016 est.)<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-36 (2015)<br>
-
-**Public debt**<br>
-0% of GDP (2015 est.)<br>
-
-**Exports**<br>
-$257.3 million (2015 est.)<br>
 
 **Exports - partners**<br>
 Spain 68%, Morocco 10%, USA 8%, Namibia 3%, Germany 2% (2023)<br>
@@ -321,11 +293,11 @@ refined petroleum, aircraft parts, prefabricated buildings, plastic products, su
 
 **Exchange rates**<br>
 _Currency_: Falkland pounds (FKP) per US dollar -<br>
+0.78 (2024 est.)<br>
 0.805 (2023 est.)<br>
 0.811 (2022 est.)<br>
-0.727 (2021)<br>
+0.727 (2021 est.)<br>
 0.78 (2020 est.)<br>
-0.783 (2019 est.)<br>
 
 ## Energy
 

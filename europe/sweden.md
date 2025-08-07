@@ -386,25 +386,25 @@ _selected World Heritage Site locales_: Royal Domain of Drottningholm (c); Lapon
 <p>high-income, largest Nordic economy; EU member but does not use the euro; export-oriented, led by automotive, electronics, machinery, and pharmaceuticals; highly ranked for competitiveness, R&amp;D investments and governance; recovery, with falling inflation and real wage growth balanced by risks from trade uncertainty</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$665.016 billion (2023 est.)<br>
-$667.089 billion (2022 est.)<br>
-$657.494 billion (2021 est.)<br>
+$668.628 billion (2024 est.)<br>
+$662.18 billion (2023 est.)<br>
+$662.937 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--0.31% (2023 est.)<br>
-1.46% (2022 est.)<br>
-6.15% (2021 est.)<br>
+1% (2024 est.)<br>
+-0.1% (2023 est.)<br>
+1.5% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$63,100 (2023 est.)<br>
-$63,600 (2022 est.)<br>
-$63,100 (2021 est.)<br>
+$63,300 (2024 est.)<br>
+$62,800 (2023 est.)<br>
+$63,200 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$584.96 billion (2023 est.)<br>
+$610.118 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -414,18 +414,18 @@ $584.96 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1% (2023 est.)<br>
-_industry_: 23.3% (2023 est.)<br>
-_services_: 65.2% (2023 est.)<br>
+_agriculture_: 1.1% (2024 est.)<br>
+_industry_: 22.6% (2024 est.)<br>
+_services_: 65.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 43.8% (2023 est.)<br>
+_household consumption_: 43.7% (2023 est.)<br>
 _government consumption_: 26% (2023 est.)<br>
 _investment in fixed capital_: 25% (2023 est.)<br>
-_investment in inventories_: 0% (2023 est.)<br>
-_exports of goods and services_: 55.2% (2023 est.)<br>
-_imports of goods and services_: -51.2% (2023 est.)<br>
+_investment in inventories_: -0.1% (2023 est.)<br>
+_exports of goods and services_: 55.4% (2023 est.)<br>
+_imports of goods and services_: -51.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -436,16 +436,16 @@ milk, wheat, sugar beets, barley, potatoes, oats, rapeseed, pork, chicken, beef 
 iron and steel, precision equipment (bearings, radio and telephone parts, armaments), wood pulp and paper products, processed foods, motor vehicles<br>
 
 **Industrial production growth rate**<br>
--2.56% (2023 est.)<br>
+0.3% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.707 million (2024 est.)<br>
+5.699 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.5% (2024 est.)<br>
-7.6% (2023 est.)<br>
+8.6% (2024 est.)<br>
+7.7% (2023 est.)<br>
 7.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -460,7 +460,7 @@ _female_: 23.2% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-29.8 (2021 est.)<br>
+31.6 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -468,14 +468,14 @@ _on food_: 13% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 3.1% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.8% (2021 est.)<br>
-_highest 10%_: 22.7% (2021 est.)<br>
+_lowest 10%_: 2.5% (2022 est.)<br>
+_highest 10%_: 24.7% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.71% of GDP (2023 est.)<br>
-0.64% of GDP (2022 est.)<br>
-0.51% of GDP (2021 est.)<br>
+0.8% of GDP (2024 est.)<br>
+0.7% of GDP (2023 est.)<br>
+0.6% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -526,7 +526,7 @@ cars, crude petroleum, refined petroleum, vehicle parts/accessories, garments (2
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$52.023 billion (2024 est.)<br>
+$62.569 billion (2024 est.)<br>
 $60.863 billion (2023 est.)<br>
 $64.289 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
@@ -668,7 +668,7 @@ the SAF's inventory is comprised of domestically produced and imported Western w
 approximately 600 Latvia (NATO) (2025)<br>
 
 **Military - note**<br>
-the Swedish military is responsible for the defense of the country and its territories against armed attack, supporting Sweden’s national security interests, providing societal support, such as humanitarian aid, and contributing to international peacekeeping and peacemaking operations<br><br>the military has a relatively small active duty force that is designed to be rapidly mobilized in a crisis; it is equipped with modern, mostly Swedish-made weapons, exercises regularly, and is backed up by a trained reserve and a Home Guard; the military’s main focus is maintaining itself as a credible and visible deterrent through training and exercises, sustaining high levels of readiness, cooperating and collaborating with both domestic and foreign partners<br><br>Sweden maintained a policy of military non-alignment for over 200 years before applying for NATO membership in May 2022 following Russia’s full-scale invasion of Ukraine; it became a NATO member in March 2024; prior to membership, Stockholm joined NATO’s Partnership for Peace program in 1994 and contributed to NATO-led missions, including those in Afghanistan, Iraq, and Kosovo; the military cooperates closely with the forces of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO; established 2009), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; Sweden is a signatory of the EU’s Common Security and Defense Policy (CSDP) and contributes to CSDP missions and operations, including EU battlegroups; it also participates in UN-led missions; Sweden has close bilateral security relations with some NATO member states, particularly Finland, Germany, the UK, and the US (2024)<br>
+the Swedish military is responsible for deterrence and the defense of the country and its territories against armed attack, supporting Sweden’s national security interests, providing societal support, such as humanitarian aid, and contributing to international peacekeeping and peacemaking operations; the military has a relatively small active duty force that is designed to be rapidly mobilized in a crisis with a trained reserve and a Home Guard<br><br>Sweden maintained a policy of military non-alignment for over 200 years before applying for NATO membership in May 2022 following Russia’s full-scale invasion of Ukraine; it became a NATO member in March 2024; prior to membership, Stockholm joined NATO’s Partnership for Peace program in 1994 and contributed to NATO-led missions, including those in Afghanistan, Iraq, and Kosovo; the military cooperates closely with the forces of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO; established 2009), which consists of Denmark, Finland, Iceland, Norway, and Sweden; Sweden is a signatory of the EU’s Common Security and Defense Policy (CSDP) and contributes to CSDP missions and operations, including EU battlegroups; it also participates in UN-led missions; Sweden has close bilateral security relations with some individual NATO member states, particularly Finland, Germany, Norway, the UK, and the US (2025)<br>
 
 ## Space
 

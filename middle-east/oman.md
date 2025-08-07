@@ -345,7 +345,7 @@ _subordinate courts_: Courts of Appeal; Administrative Court; Courts of First In
 <strong>note:</strong> organized political parties are banned in Oman, and loyalties tend to form around tribal affiliations<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador-designate Talal bin Sulaiman bin Habib AL RAHBI (since 17 March 2025)<br>
+_chief of mission_: Ambassador Talal Sulaiman AL-RAHBI (since 24 July 2025)<br>
 _chancery_: 2535 Belmont Road, NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 387-1980<br>
 _FAX_: [1] (202) 745-4933<br>
@@ -393,25 +393,25 @@ _selected World Heritage Site locales_: Bahla Fort; Archaeological Sites of Bat;
 high-income, oil-based economy; large welfare system; growing government debt; citizenship-based labor force growth policy; US free trade agreement; diversifying portfolio; high female labor force participation<br>
 
 **Real GDP (purchasing power parity)**<br>
-$193.445 billion (2023 est.)<br>
-$190.942 billion (2022 est.)<br>
-$174.254 billion (2021 est.)<br>
+$193.591 billion (2024 est.)<br>
+$190.403 billion (2023 est.)<br>
+$188.169 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.31% (2023 est.)<br>
-9.58% (2022 est.)<br>
-3.09% (2021 est.)<br>
+1.7% (2024 est.)<br>
+1.2% (2023 est.)<br>
+8% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$38,300 (2023 est.)<br>
-$40,400 (2022 est.)<br>
-$38,700 (2021 est.)<br>
+$36,700 (2024 est.)<br>
+$37,700 (2023 est.)<br>
+$39,800 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$108.811 billion (2023 est.)<br>
+$106.943 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -421,18 +421,18 @@ $108.811 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.3% (2023 est.)<br>
-_industry_: 54.3% (2023 est.)<br>
-_services_: 46.4% (2023 est.)<br>
+_agriculture_: 2.6% (2024 est.)<br>
+_industry_: 54.2% (2024 est.)<br>
+_services_: 46.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 34.3% (2022 est.)<br>
-_government consumption_: 17.9% (2022 est.)<br>
-_investment in fixed capital_: 22.5% (2022 est.)<br>
-_investment in inventories_: 4.4% (2022 est.)<br>
-_exports of goods and services_: 59.2% (2022 est.)<br>
-_imports of goods and services_: -41.4% (2022 est.)<br>
+_household consumption_: 37.8% (2023 est.)<br>
+_government consumption_: 19.1% (2023 est.)<br>
+_investment in fixed capital_: 24.3% (2023 est.)<br>
+_investment in inventories_: 2.4% (2023 est.)<br>
+_exports of goods and services_: 61.1% (2023 est.)<br>
+_imports of goods and services_: -44.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -443,7 +443,7 @@ vegetables, dates, milk, tomatoes, sorghum, chillies/peppers, goat milk, cucumbe
 crude oil production and refining, natural and liquefied natural gas production; construction, cement, copper, steel, chemicals, optic fiber<br>
 
 **Industrial production growth rate**<br>
-0.06% (2023 est.)<br>
+0.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -467,9 +467,9 @@ _on food_: 18.7% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 0.1% of household expenditures (2023 est.)<br>
 
 **Remittances**<br>
-0.04% of GDP (2023 est.)<br>
-0.03% of GDP (2022 est.)<br>
-0.04% of GDP (2021 est.)<br>
+0% of GDP (2023 est.)<br>
+0% of GDP (2022 est.)<br>
+0% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -479,9 +479,6 @@ _expenditures_: $35.984 billion (2018 est.)<br>
 **Public debt**<br>
 46.9% of GDP (2017 est.)<br>
 <strong>note:</strong> excludes indebtedness of state-owned enterprises<br>
-
-**Taxes and other revenues**<br>
-31.3% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
 $2.638 billion (2023 est.)<br>
@@ -518,9 +515,9 @@ refined petroleum, cars, crude petroleum, iron ore, iron pipes (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$17.298 billion (2023 est.)<br>
-$17.497 billion (2022 est.)<br>
-$19.73 billion (2021 est.)<br>
+$18.287 billion (2024 est.)<br>
+$17.455 billion (2023 est.)<br>
+$17.606 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>

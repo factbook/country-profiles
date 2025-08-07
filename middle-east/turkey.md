@@ -35,8 +35,8 @@ _border countries_: Armenia 311 km; Azerbaijan 17 km; Bulgaria 223 km; Georgia 2
 
 **Maritime claims**<br>
 _territorial sea_: 6 nm in the Aegean Sea<br>
-_exclusive economic zone_: in Black Sea only: to the maritime boundary agreed upon with the former USSR<br>
-12 nm in Black Sea and in Mediterranean Sea<br>
+_exclusive economic zone_: in Black Sea only: to the maritime boundary agreed on with the former USSR<br>
+<strong>note: </strong>12 nm in Black Sea and in Mediterranean Sea<br>
 
 **Climate**<br>
 temperate; hot, dry summers with mild, wet winters; harsher in interior<br>
@@ -71,7 +71,7 @@ _salt water lake(s)_: Lake Van - 3,740 sq km; Lake Tuz - 1,640 sq km;<br>
 Euphrates river source (shared with Syria, Iran, and Iraq [m]) - 3,596 km; Tigris river source (shared with Syria, Iran, and Iraq [m]) - 1,950 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+_Indian Ocean drainage_: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
 **Population distribution**<br>
 the most densely populated area is found around the Bosporus in the northwest, where 20% of the population lives in Istanbul; with the exception of Ankara, urban centers remain small and scattered throughout the interior of Anatolia; an overall pattern of peripheral development exists, particularly along the Aegean Sea coast in the west, and the Tigris and Euphrates River systems in the southeast<br>
@@ -404,25 +404,25 @@ _selected World Heritage Site locales_: Archaeological Site of Troy (c); Ephesus
 <p>upper-middle-income, diversified Middle Eastern economy; industrializing economy that maintains large agricultural base; key energy, tourism, and construction sectors; high inflation, interest rates, and foreign debt pose risk to financial stability</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.953 trillion (2023 est.)<br>
-$2.81 trillion (2022 est.)<br>
-$2.662 trillion (2021 est.)<br>
+$3.018 trillion (2024 est.)<br>
+$2.925 trillion (2023 est.)<br>
+$2.783 trillion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.11% (2023 est.)<br>
-5.53% (2022 est.)<br>
-11.44% (2021 est.)<br>
+3.2% (2024 est.)<br>
+5.1% (2023 est.)<br>
+5.5% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$34,600 (2023 est.)<br>
-$33,100 (2022 est.)<br>
-$31,600 (2021 est.)<br>
+$35,300 (2024 est.)<br>
+$34,300 (2023 est.)<br>
+$32,700 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.118 trillion (2023 est.)<br>
+$1.323 trillion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -432,18 +432,18 @@ $1.118 trillion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 6.2% (2023 est.)<br>
-_industry_: 28.4% (2023 est.)<br>
-_services_: 54.1% (2023 est.)<br>
+_agriculture_: 5.6% (2024 est.)<br>
+_industry_: 25.9% (2024 est.)<br>
+_services_: 56.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 59.4% (2023 est.)<br>
-_government consumption_: 13.1% (2023 est.)<br>
-_investment in fixed capital_: 31.9% (2023 est.)<br>
-_investment in inventories_: -1.9% (2023 est.)<br>
-_exports of goods and services_: 31.9% (2023 est.)<br>
-_imports of goods and services_: -34.4% (2023 est.)<br>
+_household consumption_: 59.4% (2024 est.)<br>
+_government consumption_: 14.7% (2024 est.)<br>
+_investment in fixed capital_: 31% (2024 est.)<br>
+_investment in inventories_: -5.5% (2024 est.)<br>
+_exports of goods and services_: 28% (2024 est.)<br>
+_imports of goods and services_: -27.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -454,15 +454,15 @@ sugar beets, wheat, milk, tomatoes, barley, maize, potatoes, apples, grapes, wat
 textiles, food processing, automobiles, electronics, mining (coal, chromate, copper, boron), steel, petroleum, construction, lumber, paper<br>
 
 **Industrial production growth rate**<br>
-2.52% (2023 est.)<br>
+2.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-36.084 million (2024 est.)<br>
+36.081 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.4% (2024 est.)<br>
+8.5% (2024 est.)<br>
 9.4% (2023 est.)<br>
 10.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -474,11 +474,11 @@ _female_: 21.2% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-14.4% (2021 est.)<br>
+13.9% (2022 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-44.4 (2021 est.)<br>
+44.5 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -486,14 +486,14 @@ _on food_: 22.8% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 2.3% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2% (2021 est.)<br>
-_highest 10%_: 34.7% (2021 est.)<br>
+_lowest 10%_: 2.1% (2022 est.)<br>
+_highest 10%_: 35.2% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.09% of GDP (2023 est.)<br>
-0.08% of GDP (2022 est.)<br>
-0.09% of GDP (2021 est.)<br>
+0.1% of GDP (2024 est.)<br>
+0.1% of GDP (2023 est.)<br>
+0.1% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -544,7 +544,7 @@ gold, refined petroleum, cars, plastics, natural gas (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$90.859 billion (2024 est.)<br>
+$154.774 billion (2024 est.)<br>
 $140.868 billion (2023 est.)<br>
 $128.735 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
@@ -691,7 +691,7 @@ estimated 2-300 Azerbaijan; 250 Bosnia-Herzegovina (EUFOR); approximately 30-35,
 <strong>note:</strong> Turkey maintains military forces in both Iraq and Syria; size estimates vary as some forces are long-term deployments while others are deployed for specific operations<br>
 
 **Military - note**<br>
-the Turkish Armed Forces (TAF) have a range of responsibilities, including protecting the country's territory and sovereignty, participating in international peacekeeping operations, fulfilling Türkiye’s military commitments to NATO, providing disaster/humanitarian relief and assistance to domestic law enforcement if requested by civil authorities, and supporting the country's overall national security interests; the TAF also has overall responsibility for the security of Türkiye’s borders; Türkiye is active in international peacekeeping and other security operations under the EU, NATO, and the UN, as well as under bilateral agreements with some countries; the TAF has established expeditionary military bases in northern Cyprus, Qatar, Somalia, and Sudan<br><br>Türkiye has been a member of NATO since 1952 and hosts a considerable NATO and US military presence, including the headquarters for a NATO Land Command and a Rapid Deployment Corps, multiple airbases for NATO and US aircraft, NATO air/missile defense systems, and training centers; the TAF is the second-largest military in NATO behind the US and exercises regularly with NATO partners; Türkiye's geographic location at the southeastern flank of the Alliance give it and the TAF a critical role in regional security<br><br>the TAF is a large, well-equipped force comprised of a mix of professionals and conscripts; it has considerable operational experience; in addition to peacekeeping and military assistance operations in recent years in such places as Afghanistan (NATO), Bosnia and Herzegovina (EU), Kosovo (NATO), Lebanon (UN), and Somalia (bilateral), it has conducted combat missions of varying duration and scale in Iraq, Libya, and Syria; ; in Syria, it occupies a large swatch of territory and maintain thousands of troops; since the 1980s, the TAF has been involved in a protracted counterinsurgency campaign against the US-designated terrorist group the Kurdistan Worker’s Party or PKK, a Kurdish militant political organization and armed guerrilla movement, which historically operated throughout Kurdistan but is now primarily based in the mountainous Kurdish-majority regions of southeastern Türkiye and northern Iraq; other key areas of concern for the TAF include tensions with fellow NATO member Greece over territorial disputes and Cyprus, tensions between neighboring Armenia and Azerbaijan, conflict in the Middle East, threats from the terrorist groups al-Qa’ida and the Islamic State of Iraq and ash-Sham, and the Russia-Ukraine war; under a long-range (2033) strategic plan, the TAF continues an effort to modernize its equipment and force structure<br><br>Türkiye’s military has a rich history that it traces back to 200 B.C., although the modern TAF was formed following the collapse of the Ottoman Empire at the conclusion of the Turkish War of Independence (1919-1923); the TAF has traditionally had a significant influence in the country as the “guardian” of Turkish politics, but its political role was diminished after the failed 2016 coup attempt; the military has a substantial stake in Türkiye's economy through a holding company that is involved in the automotive, energy, finance, and logistics sectors, as well as iron and steel production (2024)<br>
+the responsibilities of the Turkish Armed Forces (TAF) include protecting the country's territory and sovereignty, participating in international peacekeeping operations, fulfilling Türkiye’s military commitments to NATO, providing disaster/humanitarian relief and assistance to domestic law enforcement if requested by civil authorities, and supporting the country's overall national security interests; it also has overall responsibility for the security of Türkiye’s borders; key areas of focus for the TAF are its operations in Syria, a protracted counterinsurgency campaign against the US-designated terrorist group the Kurdistan Worker’s Party (PKK), territorial disputes with fellow NATO member Greece, regional conflicts, and threats from Islamic terrorist groups<br><br>Türkiye is active in international peacekeeping and other military/security operations under NATO and the UN, as well as under bilateral agreements with some countries, such as Azerbaijan, Libya, Somalia, and Qatar; Türkiye has been a member of NATO since 1952 and hosts the headquarters for a NATO Land Command and a Rapid Deployment Corps, multiple airbases for NATO and US aircraft, NATO air/missile defense systems, and training centers; the TAF is the second-largest military in NATO behind the US<br><br>the military traces its history back to 200 B.C., although the modern TAF was formed following the collapse of the Ottoman Empire at the conclusion of the Turkish War of Independence (1919-1923); the TAF traditionally has been viewed as the “guardian” of Turkish politics, but its political role was diminished after the failed 2016 coup attempt; the military has a stake in Türkiye's economy through a holding company that is involved in the automotive, energy, finance, and logistics sectors, as well as iron and steel production (2025)<br>
 
 ## Space
 

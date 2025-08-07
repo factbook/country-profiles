@@ -71,7 +71,7 @@ _salt water lake(s)_: Lake Manzala - 1,360 sq km<br>note - largest of Nile Delta
 An Nīl (Nile) river mouth (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Sudan) - 6,650 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+_Atlantic Ocean drainage_: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Major aquifers**<br>
 Nubian Aquifer System<br>
@@ -418,46 +418,46 @@ _selected World Heritage Site locales_: Memphis and its Necropolis (c); Ancient 
 Africa&rsquo;s second-largest economy; 2030 Vision to diversify markets and energy infrastructure; improving fiscal, external, and current accounts; underperforming private sector; poor labor force participation; expanded credit access<br>
 
 **Real GDP (purchasing power parity)**<br>
+$1.958 trillion (2024 est.)<br>
 $1.912 trillion (2023 est.)<br>
 $1.842 trillion (2022 est.)<br>
-$1.729 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.76% (2023 est.)<br>
-6.59% (2022 est.)<br>
-3.29% (2021 est.)<br>
+2.4% (2024 est.)<br>
+3.8% (2023 est.)<br>
+6.6% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$16,800 (2024 est.)<br>
 $16,700 (2023 est.)<br>
 $16,400 (2022 est.)<br>
-$15,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$396.002 billion (2023 est.)<br>
+$389.06 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+28.3% (2024 est.)<br>
 33.9% (2023 est.)<br>
 13.9% (2022 est.)<br>
-5.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 11.6% (2023 est.)<br>
-_industry_: 32.1% (2023 est.)<br>
-_services_: 51.3% (2023 est.)<br>
+_agriculture_: 13.7% (2024 est.)<br>
+_industry_: 32.6% (2024 est.)<br>
+_services_: 48.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 82.6% (2023 est.)<br>
-_government consumption_: 6.8% (2023 est.)<br>
-_investment in fixed capital_: 11.5% (2023 est.)<br>
-_investment in inventories_: 1.4% (2023 est.)<br>
-_exports of goods and services_: 19.1% (2023 est.)<br>
-_imports of goods and services_: -21.3% (2023 est.)<br>
+_household consumption_: 87.6% (2024 est.)<br>
+_government consumption_: 6.3% (2024 est.)<br>
+_investment in fixed capital_: 11.7% (2024 est.)<br>
+_investment in inventories_: 1.3% (2024 est.)<br>
+_exports of goods and services_: 16.4% (2024 est.)<br>
+_imports of goods and services_: -23.2% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -468,7 +468,7 @@ sugarcane, sugar beets, wheat, maize, potatoes, tomatoes, rice, milk, onions, or
 textiles, food processing, tourism, chemicals, pharmaceuticals, hydrocarbons, construction, cement, metals, light manufactures<br>
 
 **Industrial production growth rate**<br>
--0.57% (2023 est.)<br>
+-1.9% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -477,8 +477,8 @@ textiles, food processing, tourism, chemicals, pharmaceuticals, hydrocarbons, co
 
 **Unemployment rate**<br>
 7.2% (2024 est.)<br>
-7.3% (2023 est.)<br>
-7.3% (2022 est.)<br>
+7.4% (2023 est.)<br>
+7.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -492,7 +492,7 @@ _female_: 47.1% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-31.9 (2019 est.)<br>
+28.5 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -500,14 +500,14 @@ _on food_: 36.9% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 4.6% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.8% (2019 est.)<br>
-_highest 10%_: 27.5% (2019 est.)<br>
+_lowest 10%_: 4.2% (2021 est.)<br>
+_highest 10%_: 24.6% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-4.93% of GDP (2023 est.)<br>
-5.94% of GDP (2022 est.)<br>
-7.41% of GDP (2021 est.)<br>
+4.9% of GDP (2023 est.)<br>
+5.9% of GDP (2022 est.)<br>
+7.4% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -558,7 +558,7 @@ refined petroleum, wheat, plastics, natural gas, packaged medicine (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$34.278 billion (2024 est.)<br>
+$44.921 billion (2024 est.)<br>
 $33.07 billion (2023 est.)<br>
 $32.144 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

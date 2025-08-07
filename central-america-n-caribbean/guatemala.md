@@ -397,25 +397,25 @@ _selected World Heritage Site locales_: Antigua Guatemala (c); Tikal National Pa
 developing Central American economy; steady economic growth fueled by remittances; high poverty and income inequality; limited government services, lack of employment opportunities, and frequent natural disasters impede human development efforts and drive emigration<br>
 
 **Real GDP (purchasing power parity)**<br>
-$224.556 billion (2023 est.)<br>
-$216.906 billion (2022 est.)<br>
-$208.163 billion (2021 est.)<br>
+$232.673 billion (2024 est.)<br>
+$224.475 billion (2023 est.)<br>
+$216.815 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.53% (2023 est.)<br>
+3.7% (2024 est.)<br>
+3.5% (2023 est.)<br>
 4.2% (2022 est.)<br>
-8% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$12,600 (2024 est.)<br>
 $12,400 (2023 est.)<br>
-$12,200 (2022 est.)<br>
-$11,800 (2021 est.)<br>
+$12,100 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$104.45 billion (2023 est.)<br>
+$113.2 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -425,18 +425,18 @@ $104.45 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 9.8% (2023 est.)<br>
-_industry_: 22.3% (2023 est.)<br>
-_services_: 61.3% (2023 est.)<br>
+_agriculture_: 9.8% (2024 est.)<br>
+_industry_: 21.7% (2024 est.)<br>
+_services_: 61.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 87.4% (2023 est.)<br>
-_government consumption_: 11.2% (2023 est.)<br>
-_investment in fixed capital_: 16.2% (2023 est.)<br>
-_investment in inventories_: 0.3% (2023 est.)<br>
-_exports of goods and services_: 16.6% (2023 est.)<br>
-_imports of goods and services_: -31.6% (2023 est.)<br>
+_household consumption_: 88% (2024 est.)<br>
+_government consumption_: 10.9% (2024 est.)<br>
+_investment in fixed capital_: 16.1% (2024 est.)<br>
+_investment in inventories_: 0.6% (2024 est.)<br>
+_exports of goods and services_: 15.9% (2024 est.)<br>
+_imports of goods and services_: -31.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -447,7 +447,7 @@ sugarcane, bananas, oil palm fruit, maize, cantaloupes/melons, potatoes, milk, t
 sugar, textiles and clothing, furniture, chemicals, petroleum, metals, rubber, tourism<br>
 
 **Industrial production growth rate**<br>
-1.66% (2023 est.)<br>
+2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -455,8 +455,8 @@ sugar, textiles and clothing, furniture, chemicals, petroleum, metals, rubber, t
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.2% (2024 est.)<br>
-2.3% (2023 est.)<br>
+2.3% (2024 est.)<br>
+2.4% (2023 est.)<br>
 3.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -467,11 +467,11 @@ _female_: 4.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-59.3% (2014 est.)<br>
+56% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-48.3 (2014 est.)<br>
+45.2 (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -479,14 +479,14 @@ _on food_: 35.1% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 1.3% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.7% (2014 est.)<br>
-_highest 10%_: 38% (2014 est.)<br>
+_lowest 10%_: 1.6% (2023 est.)<br>
+_highest 10%_: 34.1% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-19.13% of GDP (2023 est.)<br>
-19.04% of GDP (2022 est.)<br>
-17.82% of GDP (2021 est.)<br>
+19.1% of GDP (2024 est.)<br>
+19.1% of GDP (2023 est.)<br>
+19% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -503,15 +503,15 @@ _expenditures_: $15.376 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$3.255 billion (2023 est.)<br>
-$1.197 billion (2022 est.)<br>
-$1.89 billion (2021 est.)<br>
+$3.333 billion (2024 est.)<br>
+$3.212 billion (2023 est.)<br>
+$1.116 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$17.329 billion (2023 est.)<br>
+$17.997 billion (2024 est.)<br>
+$17.342 billion (2023 est.)<br>
 $18.141 billion (2022 est.)<br>
-$15.246 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -523,9 +523,9 @@ garments, bananas, coffee, palm oil, raw sugar (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$33.035 billion (2023 est.)<br>
-$33.939 billion (2022 est.)<br>
-$27.343 billion (2021 est.)<br>
+$35.576 billion (2024 est.)<br>
+$33.056 billion (2023 est.)<br>
+$33.943 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -537,7 +537,7 @@ refined petroleum, video displays, cars, trucks, packaged medicine (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$23.834 billion (2024 est.)<br>
+$24.412 billion (2024 est.)<br>
 $21.311 billion (2023 est.)<br>
 $20.415 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

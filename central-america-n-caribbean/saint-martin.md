@@ -272,10 +272,6 @@ $649.206 million (2021 est.)<br>
 **Industries**<br>
 tourism, light industry and manufacturing, heavy industry<br>
 
-**Industrial production growth rate**<br>
-4.3% (2014 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
-
 **Exports - partners**<br>
 United States 35%, Netherlands 26%, Antigua and Barbuda 21%, France 10% (2019)<br>
 

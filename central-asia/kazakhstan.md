@@ -31,7 +31,8 @@ _total_: 13,364 km<br>
 _border countries_: China 1,765 km; Kyrgyzstan 1,212 km; Russia 7,644 km; Turkmenistan 413 km; Uzbekistan 2,330 km<br>
 
 **Coastline**<br>
-0 km (landlocked); note - Kazakhstan borders the Aral Sea, now split into two bodies of water (1,070 km), and the Caspian Sea (1,894 km)<br>
+0 km (landlocked)<br>
+<strong>note:</strong> Kazakhstan borders the Aral Sea, now split into two bodies of water (1,070 km), and the Caspian Sea (1,894 km)<br>
 
 **Maritime claims**<br>
 none (landlocked)<br>
@@ -69,7 +70,7 @@ _salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, a
 Syr Darya river mouth (shared with Kyrgyzstan [s], Uzbekistan, and Tajikistan) - 3,078 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)<br>
+_Internal (endorheic basin) drainage_: Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)<br>
 
 **Population distribution**<br>
 most of the country displays a low population density, particularly the interior; population clusters appear in urban agglomerations in the far northern and southern portions of the country<br>
@@ -410,46 +411,46 @@ _selected World Heritage Site locales_: Mausoleum of Khoja Ahmed Yasawi (c); Pet
 oil and gas giant, with growing international investment; domestic economy hit hard by COVID-19 disruptions; reforming civil society and improving business confidence; legacy state controls and Russian influence inhibit growth and autonomy<br>
 
 **Real GDP (purchasing power parity)**<br>
+$739.385 billion (2024 est.)<br>
 $705.52 billion (2023 est.)<br>
 $671.285 billion (2022 est.)<br>
-$650.47 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+4.8% (2024 est.)<br>
 5.1% (2023 est.)<br>
 3.2% (2022 est.)<br>
-4.3% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$35,900 (2024 est.)<br>
 $34,700 (2023 est.)<br>
 $33,500 (2022 est.)<br>
-$32,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$262.642 billion (2023 est.)<br>
+$288.406 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.9% (2024 est.)<br>
+8.8% (2024 est.)<br>
 14.7% (2023 est.)<br>
 15% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3.9% (2023 est.)<br>
-_industry_: 32.3% (2023 est.)<br>
-_services_: 56.3% (2023 est.)<br>
+_agriculture_: 3.9% (2024 est.)<br>
+_industry_: 31.4% (2024 est.)<br>
+_services_: 58.2% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 51.3% (2023 est.)<br>
+_household consumption_: 51.4% (2023 est.)<br>
 _government consumption_: 11.1% (2023 est.)<br>
-_investment in fixed capital_: 26.4% (2023 est.)<br>
+_investment in fixed capital_: 26.5% (2023 est.)<br>
 _investment in inventories_: 3.3% (2023 est.)<br>
-_exports of goods and services_: 34.4% (2023 est.)<br>
-_imports of goods and services_: -27.4% (2023 est.)<br>
+_exports of goods and services_: 34.5% (2023 est.)<br>
+_imports of goods and services_: -27.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -460,7 +461,7 @@ wheat, milk, barley, potatoes, watermelons, cantaloupes/melons, sunflower seeds,
 oil, coal, iron ore, manganese, chromite, lead, zinc, copper, titanium, bauxite, gold, silver, phosphates, sulfur, uranium, iron and steel; tractors and other agricultural machinery, electric motors, construction materials<br>
 
 **Industrial production growth rate**<br>
-8.11% (2023 est.)<br>
+6.6% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -469,7 +470,7 @@ oil, coal, iron ore, manganese, chromite, lead, zinc, copper, titanium, bauxite,
 
 **Unemployment rate**<br>
 4.8% (2024 est.)<br>
-4.8% (2023 est.)<br>
+4.9% (2023 est.)<br>
 4.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -480,7 +481,7 @@ _female_: 4.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-5.2% (2022 est.)<br>
+5.2% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -497,9 +498,9 @@ _highest 10%_: 24.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.12% of GDP (2023 est.)<br>
-0.21% of GDP (2022 est.)<br>
-0.16% of GDP (2021 est.)<br>
+0.1% of GDP (2024 est.)<br>
+0.1% of GDP (2023 est.)<br>
+0.2% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -508,7 +509,7 @@ _expenditures_: $36.451 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-20.8% of GDP (2023 est.)<br>
+20.9% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
@@ -516,15 +517,15 @@ _expenditures_: $36.451 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$8.981 billion (2023 est.)<br>
-$6.435 billion (2022 est.)<br>
--$2.679 billion (2021 est.)<br>
+-$3.702 billion (2024 est.)<br>
+-$9.448 billion (2023 est.)<br>
+$6.436 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$90.915 billion (2023 est.)<br>
+$91.908 billion (2024 est.)<br>
+$90.926 billion (2023 est.)<br>
 $93.822 billion (2022 est.)<br>
-$71.726 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -536,9 +537,9 @@ crude petroleum, gold, radioactive chemicals, refined copper, copper ore (2023)<
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$72.993 billion (2023 est.)<br>
-$60.816 billion (2022 est.)<br>
-$49.597 billion (2021 est.)<br>
+$74.246 billion (2024 est.)<br>
+$72.723 billion (2023 est.)<br>
+$60.439 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -550,7 +551,7 @@ garments, cars, broadcasting equipment, vehicle bodies, packaged medicine (2023)
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$21.98 billion (2024 est.)<br>
+$45.808 billion (2024 est.)<br>
 $35.965 billion (2023 est.)<br>
 $35.076 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

@@ -240,44 +240,44 @@ _history_: adopted 1985; the anthem is meant to represent all of Europe rather t
 ## Economy
 
 **Real GDP (purchasing power parity)**<br>
-$24.436 trillion (2023 est.)<br>
-$24.308 trillion (2022 est.)<br>
-$23.457 trillion (2021 est.)<br>
+$24.441 trillion (2024 est.)<br>
+$24.17 trillion (2023 est.)<br>
+$24.036 trillion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.43% (2023 est.)<br>
+1% (2024 est.)<br>
+0.5% (2023 est.)<br>
 3.5% (2022 est.)<br>
-6.01% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$54,400 (2023 est.)<br>
-$54,300 (2022 est.)<br>
-$52,500 (2021 est.)<br>
+$54,300 (2024 est.)<br>
+$53,800 (2023 est.)<br>
+$53,700 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$18.591 trillion (2023 est.)<br>
+$19.423 trillion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.4% (2024 est.)<br>
 6.3% (2023 est.)<br>
 8.8% (2022 est.)<br>
-2.6% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.7% (2023 est.)<br>
-_industry_: 23.3% (2023 est.)<br>
-_services_: 65.5% (2023 est.)<br>
+_agriculture_: 1.6% (2024 est.)<br>
+_industry_: 22.1% (2024 est.)<br>
+_services_: 66.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 51.6% (2023 est.)<br>
 _government consumption_: 20.8% (2023 est.)<br>
-_investment in fixed capital_: 22.1% (2023 est.)<br>
-_investment in inventories_: 0.3% (2023 est.)<br>
+_investment in fixed capital_: 22% (2023 est.)<br>
+_investment in inventories_: 0.4% (2023 est.)<br>
 _exports of goods and services_: 51.9% (2023 est.)<br>
 _imports of goods and services_: -48.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -290,17 +290,17 @@ milk, wheat, sugar beets, maize, potatoes, barley, grapes, pork, rapeseed, tomat
 among the world's largest and most technologically advanced regions, the EU industrial base includes: ferrous and non-ferrous metal production and processing, metal products, petroleum, coal, cement, chemicals, pharmaceuticals, aerospace, rail transportation equipment, passenger and commercial vehicles, construction equipment, industrial equipment, shipbuilding, electrical power equipment, machine tools and automated manufacturing systems, electronics and telecommunications equipment, fishing, food and beverages, furniture, paper, textiles<br>
 
 **Industrial production growth rate**<br>
--0.93% (2023 est.)<br>
+-0.7% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-220.191 million (2024 est.)<br>
+221.391 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.9% (2024 est.)<br>
-6% (2023 est.)<br>
-6.1% (2022 est.)<br>
+6% (2024 est.)<br>
+6.1% (2023 est.)<br>
+6.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -309,34 +309,20 @@ _male_: 16% (2024 est.)<br>
 _female_: 16% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Gini Index coefficient - distribution of family income**<br>
-30.8 (2016 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.8%<br>
-_highest 10%_: 23.8% (2016 est.)<br>
-
 **Remittances**<br>
-0.82% of GDP (2023 est.)<br>
+0.8% of GDP (2024 est.)<br>
+0.8% of GDP (2023 est.)<br>
 0.8% of GDP (2022 est.)<br>
-0.78% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
-
-**Public debt**<br>
-86.8% of GDP (2014)<br>
 
 **Taxes and other revenues**<br>
 19.8% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Current account balance**<br>
-$404.9 billion (2017 est.)<br>
-$359.7 billion (2016 est.)<br>
-
 **Exports**<br>
-$9.677 trillion (2023 est.)<br>
-$9.427 trillion (2022 est.)<br>
-$8.714 trillion (2021 est.)<br>
+$9.783 trillion (2024 est.)<br>
+$9.689 trillion (2023 est.)<br>
+$9.425 trillion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -348,9 +334,9 @@ cars, packaged medicine, refined petroleum, vehicle parts/accessories, vaccines 
 <strong>note:</strong> top five export commodities based on value in dollars; includes both exports to external partners and internal trade among EU member states<br>
 
 **Imports**<br>
-$8.974 trillion (2023 est.)<br>
+$8.953 trillion (2024 est.)<br>
+$8.978 trillion (2023 est.)<br>
 $9.072 trillion (2022 est.)<br>
-$8.024 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -361,17 +347,13 @@ China 21%, US 14%, UK 7%, Switzerland 6%, Norway 5% (2023)<br>
 cars, crude petroleum, natural gas, refined petroleum, vehicle parts/accessories (2023)<br>
 <strong>note: </strong>top five import commodities based on value in dollars; includes both imports from external partners and internal trade among EU member states<br>
 
-**Reserves of foreign exchange and gold**<br>
-$740.9 billion (2014 est.)<br>
-<strong>note:</strong> data are for the European Central Bank<br>
-
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 

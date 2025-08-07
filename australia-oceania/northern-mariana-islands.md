@@ -292,36 +292,14 @@ $845 million (2014 est.)<br>
 <strong>note:</strong> GDP estimate includes US subsidy; data are in 2013 dollars<br>
 
 **Real GDP growth rate**<br>
-16.64% (2022 est.)<br>
-4.97% (2021 est.)<br>
--29.68% (2020 est.)<br>
+16.6% (2022 est.)<br>
+5% (2021 est.)<br>
+-29.1% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
-
-**Real GDP per capita**<br>
-$24,500 (2016 est.)<br>
-$18,400 (2015 est.)<br>
-$16,600 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $1.096 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
-
-**Inflation rate (consumer prices)**<br>
-0.3% (2016 est.)<br>
-0.1% (2015 est.)<br>
-
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 1.7% (2016)<br>
-_industry_: 58.1% (2016 est.)<br>
-_services_: 40.2% (2016)<br>
-
-**GDP - composition, by end use**<br>
-_household consumption_: 66.2% (2022 est.)<br>
-_government consumption_: 28.9% (2016 est.)<br>
-_investment in fixed capital_: 26.3% (2016 est.)<br>
-_exports of goods and services_: 22.3% (2022 est.)<br>
-_imports of goods and services_: -70.9% (2022 est.)<br>
-<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 vegetables and melons, fruits and nuts; ornamental plants; livestock, poultry, eggs; fish and aquaculture products<br>
@@ -329,19 +307,9 @@ vegetables and melons, fruits and nuts; ornamental plants; livestock, poultry, e
 **Industries**<br>
 tourism, banking, construction, fishing, handicrafts, other services<br>
 
-**Industrial production growth rate**<br>
-4.3% (2014 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
-
 **Budget**<br>
 _revenues_: $389.6 million (2016 est.)<br>
 _expenditures_: $344 million (2015 est.)<br>
-
-**Public debt**<br>
-7.1% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-31.4% (of GDP) (2016 est.)<br>
 
 **Exports**<br>
 $244 million (2022 est.)<br>

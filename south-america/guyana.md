@@ -64,7 +64,7 @@ _other_: 1.2% (2022 est.)<br>
 1,430 sq km (2012)<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
+_Atlantic Ocean drainage_: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
 
 **Population distribution**<br>
 population is heavily concentrated in the northeast in and around Georgetown, with notable concentrations along the Berbice River to the east; the remainder of the country is sparsely populated<br>
@@ -392,25 +392,25 @@ _history_: adopted 1966<br>
 small, hydrocarbon-driven South American export economy; major forest coverage being leveraged in carbon credit offsets to encourage preservation; strengthening financial sector; large bauxite and gold resources<br>
 
 **Real GDP (purchasing power parity)**<br>
-$40.752 billion (2023 est.)<br>
+$58.423 billion (2024 est.)<br>
+$40.749 billion (2023 est.)<br>
 $30.457 billion (2022 est.)<br>
-$18.647 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+43.4% (2024 est.)<br>
 33.8% (2023 est.)<br>
-63.33% (2022 est.)<br>
-20.01% (2021 est.)<br>
+63.3% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$70,300 (2024 est.)<br>
 $49,300 (2023 est.)<br>
 $37,100 (2022 est.)<br>
-$22,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$17.16 billion (2023 est.)<br>
+$24.836 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -420,17 +420,10 @@ $17.16 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 10% (2022 est.)<br>
-_industry_: 67.8% (2022 est.)<br>
-_services_: 19.3% (2022 est.)<br>
+_agriculture_: 8% (2024 est.)<br>
+_industry_: 74.3% (2024 est.)<br>
+_services_: 15.3% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
-
-**GDP - composition, by end use**<br>
-_household consumption_: 71.1% (2017 est.)<br>
-_government consumption_: 18.2% (2017 est.)<br>
-_investment in fixed capital_: 25.4% (2017 est.)<br>
-_exports of goods and services_: 47.8% (2017 est.)<br>
-_imports of goods and services_: -63% (2017 est.)<br>
 
 **Agricultural products**<br>
 rice, sugarcane, plantains, cassava, papayas, pumpkins/squash, chicken, milk, ginger, eggplants (2023)<br>
@@ -440,7 +433,7 @@ rice, sugarcane, plantains, cassava, papayas, pumpkins/squash, chicken, milk, gi
 bauxite, sugar, rice milling, timber, textiles, gold mining<br>
 
 **Industrial production growth rate**<br>
-98.53% (2022 est.)<br>
+53.3% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -449,8 +442,8 @@ bauxite, sugar, rice milling, timber, textiles, gold mining<br>
 
 **Unemployment rate**<br>
 10.2% (2024 est.)<br>
-12% (2023 est.)<br>
-12% (2022 est.)<br>
+12.1% (2023 est.)<br>
+12.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -460,20 +453,14 @@ _female_: 28.1% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-3.06% of GDP (2023 est.)<br>
-3.57% of GDP (2022 est.)<br>
-6.81% of GDP (2021 est.)<br>
+3.2% of GDP (2023 est.)<br>
+3.7% of GDP (2022 est.)<br>
+6.9% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.333 billion (2019 est.)<br>
 _expenditures_: $1.467 billion (2019 est.)<br>
-
-**Public debt**<br>
-52.2% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-28.1% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
 $2.352 billion (2023 est.)<br>

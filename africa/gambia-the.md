@@ -388,46 +388,46 @@ _selected World Heritage Site locales_: Kunta Kinteh Island and Related Sites; S
 low-income West African economy; agriculture-dominant; high poverty rate; heightened inflation; dependent on foreign assistance and remittances; structural reforms conditioned by IMF Extended Credit Facility program<br>
 
 **Real GDP (purchasing power parity)**<br>
+$8.365 billion (2024 est.)<br>
 $7.911 billion (2023 est.)<br>
 $7.549 billion (2022 est.)<br>
-$7.156 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+5.7% (2024 est.)<br>
 4.8% (2023 est.)<br>
-5.49% (2022 est.)<br>
-5.26% (2021 est.)<br>
+5.5% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$3,000 (2024 est.)<br>
 $2,900 (2023 est.)<br>
 $2,900 (2022 est.)<br>
-$2,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.396 billion (2023 est.)<br>
+$2.508 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+11.6% (2024 est.)<br>
 17% (2023 est.)<br>
 11.5% (2022 est.)<br>
-7.4% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 23.2% (2023 est.)<br>
-_industry_: 16.7% (2023 est.)<br>
-_services_: 53.6% (2023 est.)<br>
+_agriculture_: 24.1% (2024 est.)<br>
+_industry_: 14.7% (2024 est.)<br>
+_services_: 53.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 85.9% (2023 est.)<br>
-_government consumption_: 7.4% (2023 est.)<br>
-_investment in fixed capital_: 27.3% (2023 est.)<br>
-_investment in inventories_: 0% (2023 est.)<br>
-_exports of goods and services_: 9.6% (2023 est.)<br>
-_imports of goods and services_: -32.8% (2023 est.)<br>
+_household consumption_: 83.2% (2024 est.)<br>
+_government consumption_: 8.5% (2024 est.)<br>
+_investment in fixed capital_: 39% (2024 est.)<br>
+_investment in inventories_: 0% (2024 est.)<br>
+_exports of goods and services_: 6.6% (2024 est.)<br>
+_imports of goods and services_: -37.2% (2024 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -438,7 +438,7 @@ rice, groundnuts, milk, millet, oil palm fruit, maize, vegetables, cassava, frui
 peanuts, fish, hides, tourism, beverages, agricultural machinery assembly, woodworking, metalworking, clothing<br>
 
 **Industrial production growth rate**<br>
-10.15% (2023 est.)<br>
+2.4% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -471,9 +471,9 @@ _highest 10%_: 30.5% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-21.9% of GDP (2023 est.)<br>
-22.76% of GDP (2022 est.)<br>
-27.16% of GDP (2021 est.)<br>
+21.1% of GDP (2024 est.)<br>
+21.5% of GDP (2023 est.)<br>
+22.8% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -481,22 +481,16 @@ _revenues_: $308.887 million (2018 est.)<br>
 _expenditures_: $221.137 million (2018 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-88% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-20.3% (of GDP) (2017 est.)<br>
-
 **Current account balance**<br>
--$204.132 million (2023 est.)<br>
+-$74.374 million (2024 est.)<br>
+-$120.064 million (2023 est.)<br>
 -$90.251 million (2022 est.)<br>
--$86.877 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$643.689 million (2023 est.)<br>
+$838.409 million (2024 est.)<br>
+$717.774 million (2023 est.)<br>
 $267.377 million (2022 est.)<br>
-$142.652 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -508,9 +502,9 @@ packaged medicine, cars, harvesting machinery, refined petroleum, trailers (2023
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.38 billion (2023 est.)<br>
+$1.549 billion (2024 est.)<br>
+$1.353 billion (2023 est.)<br>
 $829.516 million (2022 est.)<br>
-$726.23 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

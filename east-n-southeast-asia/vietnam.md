@@ -68,7 +68,7 @@ _other_: 13.5% (2022 est.)<br>
 Sông Tiên Giang (Mekong) river mouth (shared with China [s], Burma, Laos, Thailand, Cambodia) - 4,350 km; Pearl river source (shared with China [m]) - 2,200 km; Red river mouth (shared with China [s]) - 1,149 km<br><br><strong>note: </strong>[s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Pacific Ocean drainage: Mekong (805,604 sq km)<br>
+_Pacific Ocean drainage_: Mekong (805,604 sq km)<br>
 
 **Population distribution**<br>
 though it has one of the highest population densities in the world, the population is not evenly dispersed; clustering is heaviest along the South China Sea and Gulf of Tonkin, with the Mekong Delta (in the south) and the Red River Valley (in the north) having the largest concentrations of people<br>
@@ -273,8 +273,8 @@ _agricultural_: 77.75 billion cubic meters (2020 est.)<br>
 884.12 billion cubic meters (2020 est.)<br>
 
 **Geoparks**<br>
-_total global geoparks and regional networks_: 3<br>
-_global geoparks and regional networks_: Dak Nong; Dong Van Karst Plateau; Non nuoc Cao Bang (2023)<br>
+_total global geoparks and regional networks_: 4 (2025)<br>
+_global geoparks and regional networks_: Dak Nong; Dong Van Karst Plateau; Lang Son; Non nuoc Cao Bang (2025)<br>
 
 ## Government
 
@@ -398,25 +398,25 @@ _selected World Heritage Site locales_: Complex of Hué Monuments (c); Ha Long B
 lower middle-income socialist East Asian economy; rapid economic growth since Đổi Mới reforms; strong investment and productivity growth; tourism and manufacturing hub; TPP signatory; declining poverty aside from ethnic minorities; systemic corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.354 trillion (2023 est.)<br>
-$1.289 trillion (2022 est.)<br>
-$1.192 trillion (2021 est.)<br>
+$1.456 trillion (2024 est.)<br>
+$1.359 trillion (2023 est.)<br>
+$1.294 trillion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.05% (2023 est.)<br>
-8.12% (2022 est.)<br>
-2.55% (2021 est.)<br>
+7.1% (2024 est.)<br>
+5.1% (2023 est.)<br>
+8.5% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$14,400 (2024 est.)<br>
 $13,500 (2023 est.)<br>
-$12,900 (2022 est.)<br>
-$12,000 (2021 est.)<br>
+$13,000 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$429.717 billion (2023 est.)<br>
+$476.388 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -426,18 +426,18 @@ $429.717 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 12% (2023 est.)<br>
-_industry_: 37.1% (2023 est.)<br>
-_services_: 42.5% (2023 est.)<br>
+_agriculture_: 11.9% (2024 est.)<br>
+_industry_: 37.6% (2024 est.)<br>
+_services_: 42.4% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 54.6% (2023 est.)<br>
-_government consumption_: 8.9% (2023 est.)<br>
-_investment in fixed capital_: 30.4% (2023 est.)<br>
-_investment in inventories_: 1.6% (2023 est.)<br>
-_exports of goods and services_: 87.2% (2023 est.)<br>
-_imports of goods and services_: -79.1% (2023 est.)<br>
+_household consumption_: 54.3% (2023 est.)<br>
+_government consumption_: 8.8% (2023 est.)<br>
+_investment in fixed capital_: 30.1% (2023 est.)<br>
+_investment in inventories_: 1.5% (2023 est.)<br>
+_exports of goods and services_: 86.5% (2023 est.)<br>
+_imports of goods and services_: -78.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -448,7 +448,7 @@ rice, vegetables, sugarcane, cassava, maize, pork, fruits, bananas, coconuts, co
 food processing, garments, shoes, machine-building; mining, coal, steel; cement, chemical fertilizer, glass, tires, oil, mobile phones<br>
 
 **Industrial production growth rate**<br>
-3.74% (2023 est.)<br>
+8.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -456,9 +456,9 @@ food processing, garments, shoes, machine-building; mining, coal, steel; cement,
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.4% (2024 est.)<br>
-1.6% (2023 est.)<br>
-1.5% (2022 est.)<br>
+1.5% (2024 est.)<br>
+1.7% (2023 est.)<br>
+1.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -485,9 +485,9 @@ _highest 10%_: 28.1% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.26% of GDP (2023 est.)<br>
-3.22% of GDP (2022 est.)<br>
-3.47% of GDP (2021 est.)<br>
+3.2% of GDP (2023 est.)<br>
+3.2% of GDP (2022 est.)<br>
+3.5% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -499,19 +499,16 @@ _expenditures_: $38.025 billion (2014 est.)<br>
 58.5% of GDP (2017 est.)<br>
 <strong>note:</strong> official data; data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
-**Taxes and other revenues**<br>
-24.8% (of GDP) (2017 est.)<br>
-
 **Current account balance**<br>
-$25.833 billion (2023 est.)<br>
+$28.047 billion (2024 est.)<br>
+$25.793 billion (2023 est.)<br>
 $1.402 billion (2022 est.)<br>
--$4.628 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$375.1 billion (2023 est.)<br>
+$429.383 billion (2024 est.)<br>
+$374.986 billion (2023 est.)<br>
 $385.241 billion (2022 est.)<br>
-$340.126 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -523,9 +520,9 @@ broadcasting equipment, garments, integrated circuits, machine parts, footwear (
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$339.859 billion (2023 est.)<br>
+$398.672 billion (2024 est.)<br>
+$339.785 billion (2023 est.)<br>
 $369.746 billion (2022 est.)<br>
-$338.327 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -537,9 +534,9 @@ integrated circuits, broadcasting equipment, fabric, plastics, telephones (2023)
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$83.082 billion (2024 est.)<br>
 $92.238 billion (2023 est.)<br>
 $86.54 billion (2022 est.)<br>
-$109.371 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>

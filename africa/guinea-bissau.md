@@ -371,46 +371,46 @@ _history_: adopted 1974; a delegation from Portuguese Guinea visited China in 19
 extremely poor West African economy; ethnically diverse labor force; increasing government expenditures; slight inflation due to food supply disruptions; major cashew exporter; systemic banking instabilities and corruption; vulnerable to oil price shocks<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.553 billion (2023 est.)<br>
-$5.279 billion (2022 est.)<br>
-$5.046 billion (2021 est.)<br>
+$5.912 billion (2024 est.)<br>
+$5.64 billion (2023 est.)<br>
+$5.399 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.2% (2023 est.)<br>
-4.61% (2022 est.)<br>
-6.4% (2021 est.)<br>
+4.8% (2024 est.)<br>
+4.5% (2023 est.)<br>
+5.6% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$2,700 (2024 est.)<br>
 $2,600 (2023 est.)<br>
-$2,500 (2022 est.)<br>
-$2,500 (2021 est.)<br>
+$2,600 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.048 billion (2023 est.)<br>
+$2.12 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.8% (2024 est.)<br>
+7.1% (2023 est.)<br>
 9.4% (2022 est.)<br>
-2.2% (2021 est.)<br>
-1.1% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 30.7% (2023 est.)<br>
-_industry_: 18.8% (2023 est.)<br>
-_services_: 46.1% (2023 est.)<br>
+_agriculture_: 36.8% (2024 est.)<br>
+_industry_: 16.6% (2024 est.)<br>
+_services_: 42.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 73.9% (2023 est.)<br>
-_government consumption_: 16.4% (2023 est.)<br>
-_investment in fixed capital_: 19.4% (2023 est.)<br>
-_investment in inventories_: 4.6% (2023 est.)<br>
-_exports of goods and services_: 13.9% (2023 est.)<br>
-_imports of goods and services_: -28.2% (2023 est.)<br>
+_household consumption_: 77% (2024 est.)<br>
+_government consumption_: 17.8% (2024 est.)<br>
+_investment in fixed capital_: 22.8% (2024 est.)<br>
+_investment in inventories_: -1.9% (2024 est.)<br>
+_exports of goods and services_: 12.5% (2024 est.)<br>
+_imports of goods and services_: -28.2% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -421,7 +421,7 @@ rice, groundnuts, cashews, root vegetables, oil palm fruit, plantains, cassava, 
 agricultural products processing, beer, soft drinks<br>
 
 **Industrial production growth rate**<br>
-11.58% (2023 est.)<br>
+8% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -429,8 +429,8 @@ agricultural products processing, beer, soft drinks<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.6% (2024 est.)<br>
-2.6% (2023 est.)<br>
+2.7% (2024 est.)<br>
+2.7% (2023 est.)<br>
 2.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -454,9 +454,9 @@ _highest 10%_: 26.1% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-10.06% of GDP (2023 est.)<br>
-10.59% of GDP (2022 est.)<br>
-11.12% of GDP (2021 est.)<br>
+9.8% of GDP (2023 est.)<br>
+10.3% of GDP (2022 est.)<br>
+11% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -464,23 +464,20 @@ _revenues_: $220.219 million (2019 est.)<br>
 _expenditures_: $210.858 million (2019 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-53.9% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
-8.6% (of GDP) (2019 est.)<br>
+8.8% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$160.169 million (2023 est.)<br>
 -$146.64 million (2022 est.)<br>
 -$14.128 million (2021 est.)<br>
--$38.683 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$284.5 million (2023 est.)<br>
 $280.065 million (2022 est.)<br>
 $334.904 million (2021 est.)<br>
-$232.536 million (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -492,9 +489,9 @@ coconuts/brazil nuts/cashews, fish, fish oil, processed crustaceans, malt extrac
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$592.095 million (2023 est.)<br>
 $577.899 million (2022 est.)<br>
 $518.162 million (2021 est.)<br>
-$439.386 million (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -504,10 +501,6 @@ Senegal 28%, Portugal 24%, China 11%, Gambia, The 10%, Pakistan 4% (2023)<br>
 **Imports - commodities**<br>
 refined petroleum, iron bars, rice, plastics, flavored water (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Reserves of foreign exchange and gold**<br>
-$356.4 million (2017 est.)<br>
-$349.4 million (2016 est.)<br>
 
 **Debt - external**<br>
 $896.812 million (2023 est.)<br>

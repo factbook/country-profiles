@@ -374,25 +374,25 @@ _selected World Heritage Site locales_: Phoenix Islands Protected Area<br>
 lower-middle income, Pacific island economy; environmentally fragile; sizable remittances; key phosphate mining fund; tourism and fishing industries; public sector-dominated economy; recent withdrawal from Pacific Islands Forum; ongoing constitutional crisis<br>
 
 **Real GDP (purchasing power parity)**<br>
-$423.549 million (2023 est.)<br>
-$406.771 million (2022 est.)<br>
-$391.482 million (2021 est.)<br>
+$438.143 million (2024 est.)<br>
+$416.221 million (2023 est.)<br>
+$405.468 million (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.12% (2023 est.)<br>
-3.91% (2022 est.)<br>
-8.71% (2021 est.)<br>
+5.3% (2024 est.)<br>
+2.7% (2023 est.)<br>
+4.6% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,200 (2023 est.)<br>
+$3,300 (2024 est.)<br>
+$3,100 (2023 est.)<br>
 $3,100 (2022 est.)<br>
-$3,000 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$279.209 million (2023 est.)<br>
+$307.863 million (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -403,16 +403,16 @@ $279.209 million (2023 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 27.8% (2022 est.)<br>
-_industry_: 9.8% (2022 est.)<br>
-_services_: 65.5% (2022 est.)<br>
+_industry_: 9.9% (2022 est.)<br>
+_services_: 65.7% (2022 est.)<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 100.9% (2022 est.)<br>
-_government consumption_: 61.5% (2022 est.)<br>
+_household consumption_: 101.2% (2022 est.)<br>
+_government consumption_: 61.7% (2022 est.)<br>
 _investment in fixed capital_: 19.1% (2022 est.)<br>
-_investment in inventories_: 1.2% (2022 est.)<br>
-_exports of goods and services_: 7.4% (2023 est.)<br>
-_imports of goods and services_: -92.4% (2023 est.)<br>
+_investment in inventories_: 1.3% (2022 est.)<br>
+_exports of goods and services_: 7.6% (2022 est.)<br>
+_imports of goods and services_: -100.5% (2022 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -423,13 +423,8 @@ coconuts, bananas, vegetables, taro, tropical fruits, pork, chicken, nuts, eggs,
 fishing, handicrafts<br>
 
 **Industrial production growth rate**<br>
--6.23% (2022 est.)<br>
+-6.2% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
-
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 22.5% (2019 est.)<br>
-_male_: 21.2%<br>
-_female_: 24.6%<br>
 
 **Population below poverty line**<br>
 21.9% (2019 est.)<br>
@@ -445,9 +440,9 @@ _highest 10%_: 22.8% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-4.17% of GDP (2023 est.)<br>
-10.38% of GDP (2022 est.)<br>
-4.62% of GDP (2021 est.)<br>
+4% of GDP (2023 est.)<br>
+10.4% of GDP (2022 est.)<br>
+4.7% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -455,11 +450,8 @@ _revenues_: $213.334 million (2022 est.)<br>
 _expenditures_: $221.12 million (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-26.3% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
-18.3% (of GDP) (2023 est.)<br>
+17.7% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>

@@ -293,25 +293,25 @@ _history_: official anthem, as a Special Administrative Region of China<br>
 high-income, Chinese special administrative region economy; known for apparel exports and gambling tourism; currency pegged to Hong Kong dollar; significant recession due to 2015 Chinese anticorruption campaign; COVID-19 further halved economic activity<br>
 
 **Real GDP (purchasing power parity)**<br>
+$77.524 billion (2024 est.)<br>
 $71.248 billion (2023 est.)<br>
 $40.699 billion (2022 est.)<br>
-$50.626 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-75.06% (2023 est.)<br>
--19.61% (2022 est.)<br>
-23.54% (2021 est.)<br>
+8.8% (2024 est.)<br>
+75.1% (2023 est.)<br>
+-19.6% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$112,800 (2024 est.)<br>
 $105,000 (2023 est.)<br>
 $60,100 (2022 est.)<br>
-$74,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$45.803 billion (2023 est.)<br>
+$50.183 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -326,12 +326,12 @@ _services_: 91.4% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 30.1% (2023 est.)<br>
-_government consumption_: 13.8% (2023 est.)<br>
-_investment in fixed capital_: 14.6% (2023 est.)<br>
-_investment in inventories_: 0.9% (2023 est.)<br>
-_exports of goods and services_: 91.4% (2023 est.)<br>
-_imports of goods and services_: -50.7% (2023 est.)<br>
+_household consumption_: 29% (2024 est.)<br>
+_government consumption_: 12.2% (2024 est.)<br>
+_investment in fixed capital_: 13.8% (2024 est.)<br>
+_investment in inventories_: 0.7% (2024 est.)<br>
+_exports of goods and services_: 89.8% (2024 est.)<br>
+_imports of goods and services_: -45.4% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -342,16 +342,16 @@ pork, chicken, beef, eggs, pork offal, pork fat, pepper, beef offal, cattle hide
 tourism, gambling, clothing, textiles, electronics, footwear, toys<br>
 
 **Industrial production growth rate**<br>
-6.78% (2023 est.)<br>
+6.8% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-373,800 (2024 est.)<br>
+382,100 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.4% (2024 est.)<br>
-2.2% (2023 est.)<br>
+2.5% (2024 est.)<br>
+2.3% (2023 est.)<br>
 2.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -362,18 +362,15 @@ _female_: 5.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-0.23% of GDP (2023 est.)<br>
-0.33% of GDP (2022 est.)<br>
-0.24% of GDP (2021 est.)<br>
+0.2% of GDP (2023 est.)<br>
+0.4% of GDP (2022 est.)<br>
+0.2% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $5.135 billion (2022 est.)<br>
 _expenditures_: $12.259 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
-
-**Public debt**<br>
-0% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 22.8% (of GDP) (2023 est.)<br>

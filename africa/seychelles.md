@@ -366,25 +366,25 @@ _selected World Heritage Site locales_: Aldabra Atoll; Vallée de Mai Nature Res
 high-income Indian Ocean island economy; rapidly growing tourism sector; major tuna exporter; offshore financial hub; environmentally fragile and investing in ocean rise mitigation; recently discovered offshore oil potential; successful anticorruption efforts<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.53 billion (2023 est.)<br>
-$3.421 billion (2022 est.)<br>
-$2.976 billion (2021 est.)<br>
+$3.549 billion (2024 est.)<br>
+$3.43 billion (2023 est.)<br>
+$3.354 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.16% (2023 est.)<br>
-14.98% (2022 est.)<br>
-0.55% (2021 est.)<br>
+3.5% (2024 est.)<br>
+2.3% (2023 est.)<br>
+12.7% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$29,500 (2023 est.)<br>
-$28,500 (2022 est.)<br>
-$30,000 (2021 est.)<br>
+$29,200 (2024 est.)<br>
+$28,600 (2023 est.)<br>
+$28,000 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.141 billion (2023 est.)<br>
+$2.167 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -394,18 +394,18 @@ $2.141 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.8% (2023 est.)<br>
-_industry_: 12% (2023 est.)<br>
-_services_: 68% (2023 est.)<br>
+_agriculture_: 2.5% (2024 est.)<br>
+_industry_: 12.3% (2024 est.)<br>
+_services_: 65.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 73.8% (2023 est.)<br>
-_government consumption_: 21.3% (2023 est.)<br>
-_investment in fixed capital_: 16.1% (2023 est.)<br>
-_investment in inventories_: 0% (2023 est.)<br>
-_exports of goods and services_: 85.9% (2023 est.)<br>
-_imports of goods and services_: -97.1% (2023 est.)<br>
+_household consumption_: 74.6% (2024 est.)<br>
+_government consumption_: 26.3% (2024 est.)<br>
+_investment in fixed capital_: 17.2% (2024 est.)<br>
+_investment in inventories_: 0% (2024 est.)<br>
+_exports of goods and services_: 85.2% (2024 est.)<br>
+_imports of goods and services_: -103.2% (2024 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -416,20 +416,8 @@ coconuts, vegetables, bananas, eggs, chicken, pork, fruits, tomatoes, tropical f
 fishing, tourism, beverages<br>
 
 **Industrial production growth rate**<br>
-2.13% (2023 est.)<br>
+-6.4% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
-
-**Labor force**<br>
-51,000 (2018 est.)<br>
-
-**Unemployment rate**<br>
-3% (2017 est.)<br>
-2.7% (2016 est.)<br>
-
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.5% (2020 est.)<br>
-_male_: 17.5%<br>
-_female_: 15.6%<br>
 
 **Population below poverty line**<br>
 25.3% (2018 est.)<br>
@@ -445,9 +433,9 @@ _highest 10%_: 23.9% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.53% of GDP (2023 est.)<br>
-0.53% of GDP (2022 est.)<br>
-0.64% of GDP (2021 est.)<br>
+0.5% of GDP (2023 est.)<br>
+0.5% of GDP (2022 est.)<br>
+0.6% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>

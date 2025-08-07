@@ -357,14 +357,14 @@ _history_: adopted 1978; the anthem's name is also the nation's motto<br>
 upper middle-income Pacific island economy; extremely environmentally fragile; currency pegged to Australian dollar; large international aid recipient; subsistence agrarian sector; Te Kakeega sustainable development; domain name licensing incomes<br>
 
 **Real GDP (purchasing power parity)**<br>
-$57.054 million (2023 est.)<br>
+$57.055 million (2023 est.)<br>
 $54.938 million (2022 est.)<br>
 $54.568 million (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.85% (2023 est.)<br>
-0.68% (2022 est.)<br>
+3.9% (2023 est.)<br>
+0.7% (2022 est.)<br>
 1.8% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
@@ -377,10 +377,6 @@ $5,400 (2021 est.)<br>
 **GDP (official exchange rate)**<br>
 $62.28 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
-
-**Inflation rate (consumer prices)**<br>
-4.1% (2017 est.)<br>
-3.5% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 15.9% (2015 est.)<br>
@@ -395,21 +391,9 @@ coconuts, vegetables, tropical fruits, bananas, root vegetables, pork, chicken, 
 **Industries**<br>
 fishing<br>
 
-**Industrial production growth rate**<br>
-4.3% (2014 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
-
-**Labor force**<br>
-3,615<br>
-
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.6% (2016)<br>
-_male_: 9.8%<br>
-_female_: 45.9%<br>
-
 **Remittances**<br>
-3.21% of GDP (2023 est.)<br>
-4.18% of GDP (2022 est.)<br>
+4.2% of GDP (2023 est.)<br>
+4.2% of GDP (2022 est.)<br>
 4.9% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -417,9 +401,6 @@ _female_: 45.9%<br>
 _revenues_: $87 million (2019 est.)<br>
 _expenditures_: $88 million (2019 est.)<br>
 <strong>note:</strong> revenue data include Official Development Assistance from Australia<br>
-
-**Public debt**<br>
-37% of GDP (2017 est.)<br>
 
 **Current account balance**<br>
 $2.713 million (2022 est.)<br>

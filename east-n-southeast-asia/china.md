@@ -72,7 +72,10 @@ _salt water lake(s)_: Quinghai Hu - 4,460 sq km; Nam Co - 2,500 sq km; Siling Co
 Yangtze - 6,300 km; Huang He - 5,464 km; Amur river source (shared with Mongolia and Russia [m]) - 4,444 km; Lancang Jiang (Mekong) river source (shared with Burma, Laos, Thailand, Cambodia, and Vietnam [m]) - 4,350 km; Yarlung Zangbo Jiang (Brahmaputra) river source (shared with India and Bangladesh [m]) - 3,969 km; Yin-tu Ho (Indus) river source (shared with India and Pakistan [m]) - 3,610 km; Nu Jiang (Salween) river source (shared with Thailand and Burma [m]) - 3,060 km; Irrawaddy river source (shared with Burma [m]) - 2,809 km; Zhu Jiang (Pearl) (shared with Vietnam [s]) - 2,200 km; Yuan Jiang (Red river) source (shared with Vietnam [m]) - 1,149 km <br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Pacific Ocean drainage: Amur (1,929,955 sq km), Huang He (944,970 sq km), Mekong (805,604 sq km), Yangtze (1,722,193 sq km)<br>Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km), Salween (271,914 sq km)<br>Arctic Ocean drainage: Ob (2,972,493 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)<br>
+_Arctic Ocean drainage_: Ob (2,972,493 sq km)<br>
+_Indian Ocean drainage_: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km), Salween (271,914 sq km)<br>
+_Pacific Ocean drainage_: Amur (1,929,955 sq km), Huang He (944,970 sq km), Mekong (805,604 sq km), Yangtze (1,722,193 sq km)<br>
+_Internal (endorheic basin) drainage_: Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)<br>
 
 **Major aquifers**<br>
 North China Aquifer System (Huang Huai Hai Plain), Song-Liao Plain, Tarim Basin<br>
@@ -289,8 +292,8 @@ _agricultural_: 361.24 billion cubic meters (2020 est.)<br>
 2.84 trillion cubic meters (2020 est.)<br>
 
 **Geoparks**<br>
-_total global geoparks and regional networks_: 47 (2024)<br>
-_global geoparks and regional networks_: Alxa; Arxan; Dali-Cangshan; Danxiashan; Dunhuang; Enshi Grand Canyon-Tenglongdong; Fangshan; Funiushan; Guangwushan-Noushuihe; Hexigten; Hong Kong; Huanggang Dabieshan; Huangshan; Jingpohu; Jiuhuashan; Keketuohai; Leiqiong; Leye Fengshan; Linxia; Longhushan; Longyan; Lushan; Mount Changbaishan; Mount Kunlun; Ningde; Qinling Zhongnanshan; Sanqingshan; Shennongjia; Shilin; Songshan; Taining; Taishan; Tianzhushan; Wangwushan-Daimeishan; Wudalianchi; Wugongshan; Xiangxi; Xingwen; Yingyi; Yandangshan; Yanqing; Yimengshan; Yuntaishan; Zhangjlajle; Zhangye; Zhijingdong Cave; Zigong (2024)<br>
+_total global geoparks and regional networks_: 49 (2025)<br>
+_global geoparks and regional networks_: Alxa; Arxan; Dali-Cangshan; Danxiashan; Dunhuang; Enshi Grand Canyon-Tenglongdong; Fangshan; Funiushan; Guangwushan-Noushuihe; Hexigten; Hong Kong; Huanggang Dabieshan; Huangshan; Jingpohu; Jiuhuashan; Kanbula; Keketuohai; Leiqiong; Leye Fengshan; Linxia; Longhushan; Longyan; Lushan; Mount Changbaishan; Mount Kunlun; Ningde; Qinling Zhongnanshan; Sanqingshan; Shennongjia; Shilin; Songshan; Taining; Taishan; Tianzhushan; Wangwushan-Daimeishan; Wudalianchi; Wugongshan; Xiangxi; Xingwen; Yingyi; Yandangshan; Yanqing; Yimengshan; Yuntaishan; Yunyang: Zhangjlajle; Zhangye; Zhijingdong Cave; Zigong (2025)<br>
 
 ## Government
 
@@ -416,25 +419,25 @@ _selected World Heritage Site locales_: <p>Imperial Palaces of the Ming and Qing
 <p>world’s second-largest economy by nominal GDP; global leader in exports and manufacturing; historically strong growth slowing; challenges of aging workforce, weak productivity, rising youth unemployment, struggling property sector, and public debt; state-sponsored economic controls and infrastructure investments</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$31.23 trillion (2023 est.)<br>
-$29.672 trillion (2022 est.)<br>
-$28.822 trillion (2021 est.)<br>
+$33.598 trillion (2024 est.)<br>
+$32.005 trillion (2023 est.)<br>
+$30.361 trillion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.25% (2023 est.)<br>
-2.95% (2022 est.)<br>
-8.45% (2021 est.)<br>
+5% (2024 est.)<br>
+5.4% (2023 est.)<br>
+3.1% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$22,100 (2023 est.)<br>
-$21,000 (2022 est.)<br>
-$20,400 (2021 est.)<br>
+$23,800 (2024 est.)<br>
+$22,700 (2023 est.)<br>
+$21,500 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$17.795 trillion (2023 est.)<br>
+$18.744 trillion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -444,18 +447,18 @@ $17.795 trillion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 7.1% (2023 est.)<br>
-_industry_: 38.3% (2023 est.)<br>
-_services_: 54.6% (2023 est.)<br>
+_agriculture_: 6.8% (2024 est.)<br>
+_industry_: 36.5% (2024 est.)<br>
+_services_: 56.7% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 39.1% (2023 est.)<br>
-_government consumption_: 16.5% (2023 est.)<br>
-_investment in fixed capital_: 41.3% (2023 est.)<br>
-_investment in inventories_: 0.7% (2023 est.)<br>
-_exports of goods and services_: 19.7% (2023 est.)<br>
-_imports of goods and services_: -17.6% (2023 est.)<br>
+_household consumption_: 39.6% (2023 est.)<br>
+_government consumption_: 17.2% (2023 est.)<br>
+_investment in fixed capital_: 40.5% (2023 est.)<br>
+_investment in inventories_: 0.6% (2023 est.)<br>
+_exports of goods and services_: 19.1% (2023 est.)<br>
+_imports of goods and services_: -17% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -466,11 +469,11 @@ maize, rice, vegetables, wheat, sugarcane, potatoes, cucumbers/gherkins, tomatoe
 world leader in gross value of industrial output; mining and ore processing, iron, steel, aluminum, and other metals, coal; machine building; armaments; textiles and apparel; petroleum; cement; chemicals; fertilizer; consumer products (including footwear, toys, and electronics); food processing; transportation equipment, including automobiles, railcars and locomotives, ships, aircraft; telecommunications equipment, commercial space launch vehicles, satellites<br>
 
 **Industrial production growth rate**<br>
-4.7% (2023 est.)<br>
+5.3% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-773.129 million (2024 est.)<br>
+773.88 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -503,9 +506,9 @@ _highest 10%_: 28.2% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.16% of GDP (2023 est.)<br>
-0.15% of GDP (2022 est.)<br>
-0.13% of GDP (2021 est.)<br>
+0.2% of GDP (2024 est.)<br>
+0.2% of GDP (2023 est.)<br>
+0.1% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -517,19 +520,19 @@ _expenditures_: $4.893 trillion (2019 est.)<br>
 <strong>note:</strong> official data; data cover both central and local government debt, including debt officially recognized by China's National Audit Office report in 2011; data exclude policy bank bonds, Ministry of Railway debt, and China Asset Management Company debt<br>
 
 **Taxes and other revenues**<br>
-7.8% (of GDP) (2023 est.)<br>
+7.6% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$252.987 billion (2023 est.)<br>
+$423.919 billion (2024 est.)<br>
+$263.382 billion (2023 est.)<br>
 $443.374 billion (2022 est.)<br>
-$352.886 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$3.511 trillion (2023 est.)<br>
+$3.793 trillion (2024 est.)<br>
+$3.508 trillion (2023 est.)<br>
 $3.719 trillion (2022 est.)<br>
-$3.555 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -541,9 +544,9 @@ broadcasting equipment, computers, integrated circuits, garments, machine parts 
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$3.125 trillion (2023 est.)<br>
+$3.254 trillion (2024 est.)<br>
+$3.122 trillion (2023 est.)<br>
 $3.142 trillion (2022 est.)<br>
-$3.094 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -555,7 +558,7 @@ crude petroleum, integrated circuits, iron ore, gold, natural gas (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.265 trillion (2024 est.)<br>
+$3.456 trillion (2024 est.)<br>
 $3.45 trillion (2023 est.)<br>
 $3.307 trillion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

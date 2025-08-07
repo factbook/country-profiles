@@ -70,7 +70,8 @@ _salt water lake(s)_: Thalesap Songkhla - 1,290 sq km<br>
 Mae Nam Khong (Mekong) (shared with China [s], Burma, Laos, Cambodia, and Vietnam [m]) - 4,350 km; Salween (shared with China [s] and Burma [m]) - 3,060 km; Mun - 1,162 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
+_Indian Ocean drainage_: Salween (271,914 sq km)<br>
+_Pacific Ocean drainage_: Mekong (805,604 sq km)<br>
 
 **Population distribution**<br>
 highest population density is found in and around Bangkok; significant population clusters throughout large parts of the country, particularly north and northeast of Bangkok and in the extreme southern region of the country<br>
@@ -421,46 +422,46 @@ _selected World Heritage Site locales_: Historic City of Ayutthaya (c); Historic
 upper middle-income Southeast Asian economy; substantial infrastructure; major electronics, food, and automobile parts exporter; globally used currency; extremely low unemployment; ongoing Thailand 4.0 economic development<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.516 trillion (2023 est.)<br>
-$1.488 trillion (2022 est.)<br>
-$1.452 trillion (2021 est.)<br>
+$1.558 trillion (2024 est.)<br>
+$1.519 trillion (2023 est.)<br>
+$1.489 trillion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.89% (2023 est.)<br>
-2.46% (2022 est.)<br>
-1.57% (2021 est.)<br>
+2.5% (2024 est.)<br>
+2% (2023 est.)<br>
+2.6% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$21,100 (2023 est.)<br>
-$20,700 (2022 est.)<br>
-$20,200 (2021 est.)<br>
+$21,700 (2024 est.)<br>
+$21,200 (2023 est.)<br>
+$20,800 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$514.969 billion (2023 est.)<br>
+$526.411 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-1.2% (2023 est.)<br>
-6.1% (2022 est.)<br>
-1.2% (2021 est.)<br>
+1.4% (2024 est.)<br>
+8.5% (2023 est.)<br>
+-1.6% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 8.6% (2023 est.)<br>
-_industry_: 32.9% (2023 est.)<br>
-_services_: 58.5% (2023 est.)<br>
+_agriculture_: 8.7% (2024 est.)<br>
+_industry_: 32.1% (2024 est.)<br>
+_services_: 59.2% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 57.7% (2023 est.)<br>
-_government consumption_: 16.6% (2023 est.)<br>
-_investment in fixed capital_: 23% (2023 est.)<br>
-_investment in inventories_: -0.4% (2023 est.)<br>
-_exports of goods and services_: 65.4% (2023 est.)<br>
-_imports of goods and services_: -63.7% (2023 est.)<br>
+_household consumption_: 58.2% (2024 est.)<br>
+_government consumption_: 16.7% (2024 est.)<br>
+_investment in fixed capital_: 22.2% (2024 est.)<br>
+_investment in inventories_: -0.6% (2024 est.)<br>
+_exports of goods and services_: 70.1% (2024 est.)<br>
+_imports of goods and services_: -66.7% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -471,7 +472,7 @@ sugarcane, rice, cassava, oil palm fruit, maize, rubber, tropical fruits, chicke
 tourism, textiles and garments, agricultural processing, beverages, tobacco, cement, light manufacturing such as jewelry and electric appliances, computers and parts, integrated circuits, furniture, plastics, automobiles and automotive parts, agricultural machinery, air conditioning and refrigeration, ceramics, aluminum, chemical, environmental management, glass, granite and marble, leather, machinery and metal work, petrochemical, petroleum refining, pharmaceuticals, printing, pulp and paper, rubber, sugar, rice, fishing, cassava, world's second-largest tungsten producer and third-largest tin producer<br>
 
 **Industrial production growth rate**<br>
--2.27% (2023 est.)<br>
+0.9% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -480,8 +481,8 @@ tourism, textiles and garments, agricultural processing, beverages, tobacco, cem
 
 **Unemployment rate**<br>
 0.7% (2024 est.)<br>
-0.7% (2023 est.)<br>
-0.9% (2022 est.)<br>
+0.8% (2023 est.)<br>
+1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -491,11 +492,11 @@ _female_: 6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-6.3% (2021 est.)<br>
+5.4% (2022 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-34.9 (2021 est.)<br>
+33.5 (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -503,14 +504,14 @@ _on food_: 25.9% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 3% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.2% (2021 est.)<br>
-_highest 10%_: 27.1% (2021 est.)<br>
+_lowest 10%_: 3.4% (2023 est.)<br>
+_highest 10%_: 26.1% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.88% of GDP (2023 est.)<br>
+1.8% of GDP (2024 est.)<br>
+1.9% of GDP (2023 est.)<br>
 1.8% of GDP (2022 est.)<br>
-1.79% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -519,23 +520,23 @@ _expenditures_: $106.576 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-61.2% of GDP (2023 est.)<br>
+61.1% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-15.5% (of GDP) (2023 est.)<br>
+15.4% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$11.089 billion (2024 est.)<br>
 $7.412 billion (2023 est.)<br>
 -$17.162 billion (2022 est.)<br>
--$10.722 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$369.191 billion (2024 est.)<br>
 $337.45 billion (2023 est.)<br>
 $324.111 billion (2022 est.)<br>
-$295.972 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -547,9 +548,9 @@ machine parts, integrated circuits, trucks, cars, broadcasting equipment (2023)<
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$351.419 billion (2024 est.)<br>
 $327.008 billion (2023 est.)<br>
 $334.44 billion (2022 est.)<br>
-$296.569 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -561,7 +562,7 @@ crude petroleum, integrated circuits, natural gas, gold, vehicle parts/accessori
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$217.261 billion (2024 est.)<br>
+$236.934 billion (2024 est.)<br>
 $224.47 billion (2023 est.)<br>
 $216.501 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
@@ -705,7 +706,7 @@ the RTARF has a diverse array of foreign-supplied weapons and equipment, as well
 280 South Sudan (UNMISS) (2024)<br>
 
 **Military - note**<br>
-the RTARF’s missions include defending the country’s territory and sovereignty, protecting the monarchy, ensuring internal security, and responding to natural disasters; it also plays a large role in domestic politics and has attempted as many as 20 coups since the fall of absolute monarchy in 1932, the most recent being in 2014<br><br>since 2004, the military and associated paramilitary forces have fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, Thai officials have been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, violence associated with the insurgency has claimed more than 7,000 lives; the Thai Government has had as many as 100,000 military and paramilitary forces deployed in the south to combat the insurgency<br><br>Thailand has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; the Thai and US militaries host the annual "Cobra Gold" multinational military exercises in Thailand; the exercise is one of the largest multinational exercises in the Pacific region (2024)<br>
+the missions of the Royal Thai Armed Forces (RTARF) include defending the country’s territory and sovereignty, protecting the monarchy, ensuring internal security, and responding to natural disasters; key areas of emphasis are disputed international borders and a low-level insurgency in the country's south; the military has historically had a large role in domestic politics and has attempted as many as 20 coups since the fall of absolute monarchy in 1932, the most recent being in 2014<br><br>in July 2025, following months of rising tensions, the RTARF and Cambodian military forces clashed in multiple locations along their disputed border; both sides blamed the other for provoking the five-day conflict, which included cross-border artillery shelling by both sides and air attacks by RTARF fighter aircraft and drones; since 2004, the RTARF and Thai paramilitary forces have combated a separatist insurgency in the southern Thailand provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): insurgent attacks have largely involved bombings; since 2020, Thai officials have been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups (2025)<br>
 
 ## Space
 

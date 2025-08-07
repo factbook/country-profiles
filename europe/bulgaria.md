@@ -67,7 +67,7 @@ _other_: 17.6% (2022 est.)<br>
 Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+_Atlantic Ocean drainage_: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger populations<br>
@@ -340,7 +340,7 @@ _subordinate courts_: appeals courts; regional and district courts; administrati
 BSP for Bulgaria (electoral alliance of BSP, PKT, Ecoglasnost)<br>Bulgarian Rise or BV<br>Bulgarian Socialist Party or BSP<br>Citizens for the European Development of Bulgaria or GERB (alliance with SDS) <br>Democratic Bulgaria or DB (electoral alliance of Yes! Bulgaria, DSB, and The Greens) <br>Democrats for a Strong Bulgaria or DSB<br>Ecoglasnost<br>Green Movement or The Greens <br>Movement for Rights and Freedoms or DPS<br>Political Club Thrace or PKT<br>Revival<br>Stand Up.BG or IS.BG<br>There is Such a People or ITN<br>Union of Democratic Forces or SDS (alliance with GERB) <br>Yes! Bulgaria <br>We Continue the Change or PP <br>We Continue the Change and Democratic Bulgaria or PP-DB (electoral alliance of PP, DB, Yes! Bulgaria)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Stefka YOVCHEVA (since April 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Stefka YOVCHEVA (since 7 May 2025)<br>
 _chancery_: 1621 22nd Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 387 5770<br>
 _FAX_: [1] (202) 234-7973<br>
@@ -392,25 +392,25 @@ _selected World Heritage Site locales_: Boyana Church (c); Madara Rider (c); Thr
 <p>upper-middle-income EU economy; currency pegged to the euro, with eurozone accession pending; declining energy prices helping lower inflation rate; EU structural funds contributing to investment recovery; skilled labor shortage driven by emigration and aging population</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$215.338 billion (2023 est.)<br>
-$211.35 billion (2022 est.)<br>
-$203.146 billion (2021 est.)<br>
+$219.645 billion (2024 est.)<br>
+$213.64 billion (2023 est.)<br>
+$209.683 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.89% (2023 est.)<br>
-4.04% (2022 est.)<br>
-7.66% (2021 est.)<br>
+2.8% (2024 est.)<br>
+1.9% (2023 est.)<br>
+4% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$33,400 (2023 est.)<br>
-$31,800 (2022 est.)<br>
-$29,500 (2021 est.)<br>
+$34,100 (2024 est.)<br>
+$33,100 (2023 est.)<br>
+$32,400 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$102.408 billion (2023 est.)<br>
+$112.212 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -420,18 +420,18 @@ $102.408 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.5% (2023 est.)<br>
-_industry_: 22.7% (2023 est.)<br>
-_services_: 62.5% (2023 est.)<br>
+_agriculture_: 2.1% (2024 est.)<br>
+_industry_: 22.5% (2024 est.)<br>
+_services_: 62.6% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 57.7% (2023 est.)<br>
-_government consumption_: 18.4% (2023 est.)<br>
-_investment in fixed capital_: 18.7% (2023 est.)<br>
-_investment in inventories_: 1.1% (2023 est.)<br>
-_exports of goods and services_: 61.9% (2023 est.)<br>
-_imports of goods and services_: -57.8% (2023 est.)<br>
+_household consumption_: 57.6% (2024 est.)<br>
+_government consumption_: 19.7% (2024 est.)<br>
+_investment in fixed capital_: 17.9% (2024 est.)<br>
+_investment in inventories_: 2.5% (2024 est.)<br>
+_exports of goods and services_: 55.8% (2024 est.)<br>
+_imports of goods and services_: -53.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -442,16 +442,16 @@ wheat, maize, sunflower seeds, barley, milk, rapeseed, grapes, potatoes, tritica
 electricity, gas, water; food, beverages, tobacco; machinery and equipment, automotive parts, base metals, chemical products, coke, refined petroleum, nuclear fuel; outsourcing centers<br>
 
 **Industrial production growth rate**<br>
--4.11% (2023 est.)<br>
+1.9% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.106 million (2024 est.)<br>
+3.124 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.1% (2024 est.)<br>
-4.3% (2023 est.)<br>
+4.2% (2024 est.)<br>
+4.4% (2023 est.)<br>
 4.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -466,7 +466,7 @@ _female_: 11.8% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-39 (2021 est.)<br>
+38.2 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -474,14 +474,14 @@ _on food_: 20.7% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 4.8% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2% (2021 est.)<br>
-_highest 10%_: 29.9% (2021 est.)<br>
+_lowest 10%_: 2.1% (2022 est.)<br>
+_highest 10%_: 30.1% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.3% of GDP (2023 est.)<br>
-2.2% of GDP (2022 est.)<br>
-2.38% of GDP (2021 est.)<br>
+2.4% of GDP (2024 est.)<br>
+2.2% of GDP (2023 est.)<br>
+2.3% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -498,15 +498,15 @@ _expenditures_: $35.619 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$927.67 million (2023 est.)<br>
--$2.359 billion (2022 est.)<br>
--$872.53 million (2021 est.)<br>
+-$2.014 billion (2024 est.)<br>
+-$894.86 million (2023 est.)<br>
+-$2.43 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$63.38 billion (2023 est.)<br>
+$62.661 billion (2024 est.)<br>
+$63.415 billion (2023 est.)<br>
 $63.246 billion (2022 est.)<br>
-$52.125 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -518,9 +518,9 @@ refined petroleum, garments, refined copper, wheat, natural gas (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$59.16 billion (2023 est.)<br>
-$62.26 billion (2022 est.)<br>
-$49.999 billion (2021 est.)<br>
+$60.029 billion (2024 est.)<br>
+$59.158 billion (2023 est.)<br>
+$62.261 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -532,7 +532,7 @@ crude petroleum, copper ore, cars, packaged medicine, electricity (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$40.27 billion (2024 est.)<br>
+$43.698 billion (2024 est.)<br>
 $46.334 billion (2023 est.)<br>
 $40.989 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

@@ -344,11 +344,6 @@ $611.391 billion (2023 est.)<br>
 3% (2022 est.)<br>
 <strong>note:</strong> annual % change based on consumer prices<br>
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 1.8% (2017 est.)<br>
-_industry_: 36% (2017 est.)<br>
-_services_: 62.1% (2017 est.)<br>
-
 **GDP - composition, by end use**<br>
 _household consumption_: 48.3% (2023 est.)<br>
 _government consumption_: 13.3% (2023 est.)<br>
@@ -363,12 +358,6 @@ rice, vegetables, pork, chicken, cabbages, milk, sugarcane, tropical fruits, pin
 
 **Industries**<br>
 electronics, communications and information technology products, petroleum refining, chemicals, textiles, iron and steel, machinery, cement, food processing, vehicles, consumer products, pharmaceuticals<br>
-
-**Industrial production growth rate**<br>
-3.9% (2017 est.)<br>
-
-**Labor force**<br>
-11.498 million (2020 est.)<br>
 
 **Unemployment rate**<br>
 3.4% (2024 est.)<br>
@@ -391,9 +380,6 @@ _expenditures_: $105.833 billion (2019 est.)<br>
 **Public debt**<br>
 35.7% of GDP (2017 est.)<br>
 <strong>note:</strong> data for central government<br>
-
-**Taxes and other revenues**<br>
-16% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
 $105.076 billion (2023 est.)<br>
@@ -428,10 +414,6 @@ China 21%, Japan 13%, USA 11%, S. Korea 9%, Australia 5% (2023)<br>
 **Imports - commodities**<br>
 integrated circuits, crude petroleum, machinery, natural gas, coal (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Reserves of foreign exchange and gold**<br>
-$456.7 billion (2017 est.)<br>
-$439 billion (2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: New Taiwan dollars (TWD) per US dollar -<br>
@@ -567,7 +549,7 @@ men 18-36 years of age may volunteer or must complete 12 months of compulsory mi
 <strong>note 1: </strong>in January 2024, Taiwan extended compulsory service from 4 to 12 months for men born in 2005 and thereafter<strong><br><br>note 2:</strong> as of 2023, women made up about 15% of the active-duty military<br>
 
 **Military - note**<br>
-the military’s primary responsibility is external security, including the defense of the country’s sovereignty and territory, and the protection of Taiwan’s air space, maritime claims, and sea lines of communication; its main focus is the challenge posed by the People’s Republic of China<br><br>the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2024)<br>
+the military’s primary responsibility is external security, including the defense of the country’s sovereignty and territory, and the protection of Taiwan’s air space, maritime claims, and sea lines of communication; its main focus is the challenge posed by the People’s Republic of China<br><br>the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2025)<br>
 
 ## Space
 

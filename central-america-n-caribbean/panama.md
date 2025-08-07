@@ -383,25 +383,25 @@ _selected World Heritage Site locales_: Caribbean Fortifications (c); Darien Nat
 upper middle-income Central American economy; increasing Chinese trade; US dollar user; canal expansion fueling broader infrastructure investment; services sector dominates economy; historic money-laundering and illegal drug hub<br>
 
 **Real GDP (purchasing power parity)**<br>
+$164.484 billion (2024 est.)<br>
 $159.908 billion (2023 est.)<br>
 $148.891 billion (2022 est.)<br>
-$134.415 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+2.9% (2024 est.)<br>
 7.4% (2023 est.)<br>
-10.77% (2022 est.)<br>
-15.84% (2021 est.)<br>
+10.8% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$36,400 (2024 est.)<br>
 $35,900 (2023 est.)<br>
 $33,800 (2022 est.)<br>
-$30,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$83.318 billion (2023 est.)<br>
+$86.26 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -411,16 +411,16 @@ $83.318 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.5% (2023 est.)<br>
-_industry_: 27.8% (2023 est.)<br>
-_services_: 67.3% (2023 est.)<br>
+_agriculture_: 2.6% (2024 est.)<br>
+_industry_: 26.3% (2024 est.)<br>
+_services_: 68.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 46.7% (2023 est.)<br>
 _government consumption_: 12.2% (2023 est.)<br>
 _investment in fixed capital_: 32.3% (2023 est.)<br>
-_investment in inventories_: 5.5% (2023 est.)<br>
+_investment in inventories_: 5.4% (2023 est.)<br>
 _exports of goods and services_: 46.5% (2023 est.)<br>
 _imports of goods and services_: -43.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -433,7 +433,7 @@ sugarcane, rice, bananas, oranges, oil palm fruit, chicken, plantains, maize, mi
 construction, brewing, cement and other construction materials, sugar milling<br>
 
 **Industrial production growth rate**<br>
-12.82% (2023 est.)<br>
+-2.6% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -441,8 +441,8 @@ construction, brewing, cement and other construction materials, sugar milling<br
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.5% (2024 est.)<br>
-6.5% (2023 est.)<br>
+6.6% (2024 est.)<br>
+6.6% (2023 est.)<br>
 8.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -470,9 +470,9 @@ _highest 10%_: 36.9% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.62% of GDP (2023 est.)<br>
-0.69% of GDP (2022 est.)<br>
-0.84% of GDP (2021 est.)<br>
+0.6% of GDP (2024 est.)<br>
+0.6% of GDP (2023 est.)<br>
+0.7% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -480,23 +480,20 @@ _revenues_: $7.57 billion (2021 est.)<br>
 _expenditures_: $11.553 billion (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-37.8% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
 7.5% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$3.739 billion (2023 est.)<br>
--$475.146 million (2022 est.)<br>
--$778.779 million (2021 est.)<br>
+$1.672 billion (2024 est.)<br>
+-$2.581 billion (2023 est.)<br>
+$28.769 million (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$36.569 billion (2023 est.)<br>
-$35.731 billion (2022 est.)<br>
-$27.488 billion (2021 est.)<br>
+$37.376 billion (2024 est.)<br>
+$37.905 billion (2023 est.)<br>
+$35.717 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -508,9 +505,9 @@ copper ore, ships, refined petroleum, bananas, fish (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$36.135 billion (2023 est.)<br>
-$32.693 billion (2022 est.)<br>
-$24.459 billion (2021 est.)<br>
+$30.887 billion (2024 est.)<br>
+$35.927 billion (2023 est.)<br>
+$32.646 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -529,11 +526,11 @@ $6.876 billion (2022 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: balboas (PAB) per US dollar -<br>
+1 (2024 est.)<br>
 1 (2023 est.)<br>
 1 (2022 est.)<br>
 1 (2021 est.)<br>
 1 (2020 est.)<br>
-1 (2019 est.)<br>
 
 ## Energy
 

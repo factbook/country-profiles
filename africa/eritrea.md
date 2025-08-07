@@ -31,7 +31,7 @@ _total_: 1,840 km<br>
 _border countries_: Djibouti 125 km; Ethiopia 1,033 km; Sudan 682 km<br>
 
 **Coastline**<br>
-2,234 km (mainland on Red Sea 1,151 km, islands in Red Sea 1,083 km)<br>
+2,234 km (mainland on Red Sea 1,151 km; islands in Red Sea 1,083 km)<br>
 
 **Maritime claims**<br>
 _territorial sea_: 12 nm<br>
@@ -367,12 +367,6 @@ _selected World Heritage Site locales_: Asmara: A Modernist African City<br>
 **Economic overview**<br>
 largely agrarian economy with a significant mining sector; substantial fiscal surplus due to tight controls; high and vulnerable debts; increased Ethiopian trade and shared port usage decreasing prices; financial and economic data integrity challenges<br>
 
-**Real GDP (purchasing power parity)**<br>
-$9.702 billion (2017 est.)<br>
-$8.953 billion (2016 est.)<br>
-$8.791 billion (2015 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
 **Real GDP growth rate**<br>
 5% (2017 est.)<br>
 1.9% (2016 est.)<br>
@@ -387,33 +381,12 @@ $1,500 (2015 est.)<br>
 **GDP (official exchange rate)**<br>
 $5.813 billion (2017 est.)<br>
 
-**Inflation rate (consumer prices)**<br>
-9% (2017 est.)<br>
-9% (2016 est.)<br>
-
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 11.7% (2017 est.)<br>
-_industry_: 29.6% (2017 est.)<br>
-_services_: 58.7% (2017 est.)<br>
-
-**GDP - composition, by end use**<br>
-_household consumption_: 80.9% (2017 est.)<br>
-_government consumption_: 24.3% (2017 est.)<br>
-_investment in fixed capital_: 6.4% (2017 est.)<br>
-_investment in inventories_: 0.1% (2017 est.)<br>
-_exports of goods and services_: 10.9% (2017 est.)<br>
-_imports of goods and services_: -22.5% (2017 est.)<br>
-
 **Agricultural products**<br>
 sorghum, milk, barley, vegetables, root vegetables, cereals, pulses, wheat, beef, maize (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 food processing, beverages, clothing and textiles, light manufacturing, salt, cement<br>
-
-**Industrial production growth rate**<br>
-4.3% (2014 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 1.71 million (2024 est.)<br>
@@ -435,19 +408,10 @@ _female_: 10.5% (2024 est.)<br>
 _revenues_: $633 million (2018 est.)<br>
 _expenditures_: $549 million (2018 est.)<br>
 
-**Public debt**<br>
-131.2% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-34.9% (of GDP) (2017 est.)<br>
-
-**Current account balance**<br>
--$137 million (2017 est.)<br>
--$105 million (2016 est.)<br>
-
 **Exports**<br>
 $624.3 million (2017 est.)<br>
 $485.4 million (2016 est.)<br>
+$374.898 million (2011 est.)<br>
 
 **Exports - partners**<br>
 China 67%, UAE 26%, Philippines 5%, Italy 1%, Croatia 1% (2023)<br>
@@ -456,11 +420,6 @@ China 67%, UAE 26%, Philippines 5%, Italy 1%, Croatia 1% (2023)<br>
 **Exports - commodities**<br>
 copper ore, zinc ore, gold, garments, liquor (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
-
-**Imports**<br>
-$1.127 billion (2017 est.)<br>
-$1.048 billion (2016 est.)<br>
-$494.229 million (2010 est.)<br>
 
 **Imports - partners**<br>
 China 32%, UAE 27%, Turkey 9%, USA 7%, Italy 5% (2023)<br>

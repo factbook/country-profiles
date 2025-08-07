@@ -67,7 +67,7 @@ _fresh water lake(s)_: Lake Victoria (shared with Tanzania and Kenya) - 62,940 s
 <p>Nile (shared with Rwanda [s], Tanzania, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+_Atlantic Ocean drainage_: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Population distribution**<br>
 population density is relatively high in comparison to other African nations; most of the population is concentrated in the central and southern parts of the country, particularly along the shores of Lake Victoria and Lake Albert; the northeast is least populated, as shown in this population distribution map<br>
@@ -384,25 +384,25 @@ _selected World Heritage Site locales_: Bwindi Impenetrable National Park (n); R
 low-income, primarily agrarian East African economy; COVID-19 hurt economic growth and poverty reduction; lower oil prices threaten prior sector investments; endemic corruption; natural resource rich; high female labor force participation but undervalued<br>
 
 **Real GDP (purchasing power parity)**<br>
+$144.137 billion (2024 est.)<br>
 $135.803 billion (2023 est.)<br>
 $128.923 billion (2022 est.)<br>
-$123.267 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.34% (2023 est.)<br>
-4.59% (2022 est.)<br>
-3.54% (2021 est.)<br>
+6.1% (2024 est.)<br>
+5.3% (2023 est.)<br>
+4.6% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$2,900 (2024 est.)<br>
 $2,800 (2023 est.)<br>
 $2,700 (2022 est.)<br>
-$2,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$48.769 billion (2023 est.)<br>
+$53.652 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -412,18 +412,18 @@ $48.769 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 24.1% (2023 est.)<br>
-_industry_: 25.8% (2023 est.)<br>
-_services_: 42.5% (2023 est.)<br>
+_agriculture_: 24.7% (2024 est.)<br>
+_industry_: 24.9% (2024 est.)<br>
+_services_: 43.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 71.6% (2023 est.)<br>
-_government consumption_: 9.6% (2023 est.)<br>
-_investment in fixed capital_: 22.1% (2023 est.)<br>
-_investment in inventories_: 0.7% (2023 est.)<br>
-_exports of goods and services_: 11.6% (2023 est.)<br>
-_imports of goods and services_: -21.7% (2023 est.)<br>
+_household consumption_: 66.3% (2024 est.)<br>
+_government consumption_: 10% (2024 est.)<br>
+_investment in fixed capital_: 21.5% (2024 est.)<br>
+_investment in inventories_: 0.8% (2024 est.)<br>
+_exports of goods and services_: 16.9% (2024 est.)<br>
+_imports of goods and services_: -24.6% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -434,7 +434,7 @@ plantains, sugarcane, milk, maize, cassava, sweet potatoes, vegetables, beans, p
 sugar processing, brewing, tobacco, cotton textiles; cement, steel production<br>
 
 **Industrial production growth rate**<br>
-4.03% (2023 est.)<br>
+4.9% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -442,7 +442,7 @@ sugar processing, brewing, tobacco, cotton textiles; cement, steel production<br
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.9% (2024 est.)<br>
+3% (2024 est.)<br>
 2.8% (2023 est.)<br>
 2.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -471,9 +471,9 @@ _highest 10%_: 34.5% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.93% of GDP (2023 est.)<br>
-2.74% of GDP (2022 est.)<br>
-2.85% of GDP (2021 est.)<br>
+2.9% of GDP (2023 est.)<br>
+2.7% of GDP (2022 est.)<br>
+2.9% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -535,9 +535,9 @@ $10.469 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Ugandan shillings (UGX) per US dollar -<br>
-3,757.262 (2024 est.)<br>
-3,726.142 (2023 est.)<br>
-3,689.818 (2022 est.)<br>
+3,757.263 (2024 est.)<br>
+3,726.14 (2023 est.)<br>
+3,689.817 (2022 est.)<br>
 3,587.052 (2021 est.)<br>
 3,718.249 (2020 est.)<br>
 

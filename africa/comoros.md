@@ -371,25 +371,25 @@ _history_: adopted 1978<br>
 small trade-based island economy; declining remittances; new structural and fiscal reforms; adverse cyclone and COVID-19 impacts; manageable debts; fragile liquidity environment; large foreign direct investment; state-owned enterprises suffering<br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.975 billion (2023 est.)<br>
-$2.889 billion (2022 est.)<br>
-$2.816 billion (2021 est.)<br>
+$3.092 billion (2024 est.)<br>
+$2.99 billion (2023 est.)<br>
+$2.901 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3% (2023 est.)<br>
-2.6% (2022 est.)<br>
-2.11% (2021 est.)<br>
+3.4% (2024 est.)<br>
+3.1% (2023 est.)<br>
+2.8% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$3,600 (2024 est.)<br>
 $3,500 (2023 est.)<br>
 $3,500 (2022 est.)<br>
-$3,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.352 billion (2023 est.)<br>
+$1.546 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -398,18 +398,18 @@ $1.352 billion (2023 est.)<br>
 <strong>note:</strong> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 37.2% (2023 est.)<br>
-_industry_: 9% (2023 est.)<br>
-_services_: 49.6% (2023 est.)<br>
+_agriculture_: 36.6% (2024 est.)<br>
+_industry_: 9.6% (2024 est.)<br>
+_services_: 50.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 100.1% (2023 est.)<br>
-_government consumption_: 9.3% (2023 est.)<br>
-_investment in fixed capital_: 12.7% (2023 est.)<br>
-_investment in inventories_: 0% (2023 est.)<br>
-_exports of goods and services_: 13% (2023 est.)<br>
-_imports of goods and services_: -35% (2023 est.)<br>
+_household consumption_: 103.6% (2024 est.)<br>
+_government consumption_: 9.2% (2024 est.)<br>
+_investment in fixed capital_: 11.7% (2024 est.)<br>
+_investment in inventories_: 0% (2024 est.)<br>
+_exports of goods and services_: 9.9% (2024 est.)<br>
+_imports of goods and services_: -34.5% (2024 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -420,7 +420,7 @@ bananas, coconuts, cassava, yams, maize, taro, milk, tomatoes, sweet potatoes, p
 fishing, tourism, perfume distillation<br>
 
 **Industrial production growth rate**<br>
-0% (2023 est.)<br>
+3.8% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -430,7 +430,7 @@ fishing, tourism, perfume distillation<br>
 **Unemployment rate**<br>
 3.9% (2024 est.)<br>
 3.8% (2023 est.)<br>
-3.8% (2022 est.)<br>
+3.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -439,30 +439,19 @@ _male_: 8.3% (2024 est.)<br>
 _female_: 9.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Gini Index coefficient - distribution of family income**<br>
-45.3 (2014 est.)<br>
-<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.6% (2014 est.)<br>
-_highest 10%_: 33.6% (2014 est.)<br>
-<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
+**Population below poverty line**<br>
+44.8% (2020 est.)<br>
+<strong>note:</strong> % of population with income below national poverty line<br>
 
 **Remittances**<br>
-22.6% of GDP (2023 est.)<br>
-22.68% of GDP (2022 est.)<br>
-22.22% of GDP (2021 est.)<br>
+21.4% of GDP (2023 est.)<br>
+22% of GDP (2022 est.)<br>
+22.2% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $223 million (2018 est.)<br>
 _expenditures_: $228 million (2018 est.)<br>
-
-**Public debt**<br>
-32.4% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-25.3% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
 -$24.621 million (2023 est.)<br>
@@ -499,7 +488,7 @@ refined petroleum, poultry, rice, flavored water, additive manufacturing machine
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$322.436 million (2024 est.)<br>
+$323.946 million (2024 est.)<br>
 $324.561 million (2023 est.)<br>
 $283.746 million (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

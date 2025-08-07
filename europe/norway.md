@@ -31,7 +31,8 @@ _total_: 2,566 km<br>
 _border countries_: Finland 709 km; Sweden 1,666 km; Russia 191 km<br>
 
 **Coastline**<br>
-25,148 km (includes mainland 2,650 km, as well as long fjords, numerous small islands, and minor indentations 22,498 km; length of island coastlines 58,133 km)<br>
+25,148 km<br>
+<strong>note:</strong> includes the mainland at 2,650 km, as well as long fjords, numerous small islands, and minor indentations at 22,498 km; length of island coastlines is 58,133 km<br>
 
 **Maritime claims**<br>
 _territorial sea_: 12 nm<br>
@@ -269,8 +270,8 @@ _agricultural_: 840 million cubic meters (2020 est.)<br>
 393 billion cubic meters (2020 est.)<br>
 
 **Geoparks**<br>
-_total global geoparks and regional networks_: 4<br>
-_global geoparks and regional networks_: Gea Norvegica; Magma; Sunnhordland; Trollfjell (2023)<br>
+_total global geoparks and regional networks_: 5 (2025)<br>
+_global geoparks and regional networks_: Gea Norvegica; Fjord Coast; Magma; Sunnhordland; Trollfjell (2025)<br>
 
 ## Government
 
@@ -393,25 +394,25 @@ _selected World Heritage Site locales_: BryggenÂ (c); Urnes Stave Church (c); RÃ
 <p>high-income, non-EU economy with trade links via European Economic Area (EEA); key role in European energy security as leader in oil, gas, and electricity exports; major fishing, forestry, and oil(?) extraction industries; oil sovereign fund supports generous welfare system; low unemployment; inflation moderating but remains above target level</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$499.357 billion (2023 est.)<br>
-$496.973 billion (2022 est.)<br>
-$482.472 billion (2021 est.)<br>
+$507.68 billion (2024 est.)<br>
+$497.236 billion (2023 est.)<br>
+$496.877 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.48% (2023 est.)<br>
-3.01% (2022 est.)<br>
-3.91% (2021 est.)<br>
+2.1% (2024 est.)<br>
+0.1% (2023 est.)<br>
+3.2% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$90,500 (2023 est.)<br>
+$91,100 (2024 est.)<br>
+$90,100 (2023 est.)<br>
 $91,100 (2022 est.)<br>
-$89,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$485.311 billion (2023 est.)<br>
+$483.727 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -421,17 +422,17 @@ $485.311 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.1% (2023 est.)<br>
-_industry_: 39% (2023 est.)<br>
-_services_: 50% (2023 est.)<br>
+_agriculture_: 2% (2024 est.)<br>
+_industry_: 37% (2024 est.)<br>
+_services_: 51.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 37.5% (2023 est.)<br>
-_government consumption_: 21.9% (2023 est.)<br>
-_investment in fixed capital_: 23.3% (2023 est.)<br>
-_investment in inventories_: 2.5% (2023 est.)<br>
-_exports of goods and services_: 47.2% (2023 est.)<br>
+_household consumption_: 37.7% (2023 est.)<br>
+_government consumption_: 22% (2023 est.)<br>
+_investment in fixed capital_: 21.7% (2023 est.)<br>
+_investment in inventories_: 2.6% (2023 est.)<br>
+_exports of goods and services_: 47.9% (2023 est.)<br>
 _imports of goods and services_: -32.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
@@ -443,7 +444,7 @@ milk, barley, potatoes, oats, wheat, pork, chicken, beef, eggs, carrots/turnips 
 petroleum and gas, shipping, fishing, aquaculture, food processing, shipbuilding, pulp and paper products, metals, chemicals, timber, mining, textiles<br>
 
 **Industrial production growth rate**<br>
-0.23% (2023 est.)<br>
+2.4% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -453,7 +454,7 @@ petroleum and gas, shipping, fishing, aquaculture, food processing, shipbuilding
 **Unemployment rate**<br>
 4% (2024 est.)<br>
 3.6% (2023 est.)<br>
-3.2% (2022 est.)<br>
+3.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -467,22 +468,22 @@ _female_: 10.8% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-27.7 (2019 est.)<br>
-<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
+26.9 (2022 est.)<br>
+<strong>note:</strong> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 11.7% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 3.9% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.4% (2019 est.)<br>
-_highest 10%_: 22.4% (2019 est.)<br>
+_lowest 10%_: 3.5% (2022 est.)<br>
+_highest 10%_: 22% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.12% of GDP (2023 est.)<br>
-0.11% of GDP (2022 est.)<br>
-0.13% of GDP (2021 est.)<br>
+0.1% of GDP (2024 est.)<br>
+0.1% of GDP (2023 est.)<br>
+0.1% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -495,7 +496,7 @@ _expenditures_: $174.546 billion (2022 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data exclude treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-26.9% (of GDP) (2023 est.)<br>
+27.1% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>

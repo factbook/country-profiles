@@ -381,25 +381,25 @@ _selected World Heritage Site locales_: Historic Center (Old Town) of Tallinn; S
 <p>high-income, service-based EU and eurozone economy; rebound in exports playing a role in economic recovery; rising food prices contributing to inflation; decrease in labor force participation and rising unemployment rate; recovery depends on boosting private investment and productivity rates</p> <p> </p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$58.199 billion (2023 est.)<br>
-$60.013 billion (2022 est.)<br>
-$59.977 billion (2021 est.)<br>
+$57.001 billion (2024 est.)<br>
+$57.15 billion (2023 est.)<br>
+$58.931 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--3.02% (2023 est.)<br>
-0.06% (2022 est.)<br>
-7.25% (2021 est.)<br>
+-0.3% (2024 est.)<br>
+-3% (2023 est.)<br>
+0.1% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$42,500 (2023 est.)<br>
-$44,500 (2022 est.)<br>
-$45,100 (2021 est.)<br>
+$41,500 (2024 est.)<br>
+$41,700 (2023 est.)<br>
+$43,700 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$41.291 billion (2023 est.)<br>
+$42.765 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -409,9 +409,9 @@ $41.291 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.9% (2023 est.)<br>
-_industry_: 21.7% (2023 est.)<br>
-_services_: 64.5% (2023 est.)<br>
+_agriculture_: 1.9% (2024 est.)<br>
+_industry_: 20.5% (2024 est.)<br>
+_services_: 65.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -431,15 +431,15 @@ milk, wheat, barley, rapeseed, peas, oats, potatoes, rye, pork, triticale (2023)
 food, engineering, electronics, wood and wood products, textiles; information technology, telecommunications<br>
 
 **Industrial production growth rate**<br>
--10.02% (2023 est.)<br>
+-7% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-747,800 (2024 est.)<br>
+756,200 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.8% (2024 est.)<br>
+7.9% (2024 est.)<br>
 6.4% (2023 est.)<br>
 5.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -455,7 +455,7 @@ _female_: 20% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-31.8 (2021 est.)<br>
+32.3 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -463,14 +463,14 @@ _on food_: 19.9% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 6.7% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.1% (2021 est.)<br>
-_highest 10%_: 24.3% (2021 est.)<br>
+_lowest 10%_: 2.8% (2022 est.)<br>
+_highest 10%_: 24.4% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.18% of GDP (2023 est.)<br>
-1.22% of GDP (2022 est.)<br>
-1.59% of GDP (2021 est.)<br>
+1.2% of GDP (2024 est.)<br>
+1.2% of GDP (2023 est.)<br>
+1.2% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -521,7 +521,7 @@ cars, refined petroleum, broadcasting equipment, natural gas, packaged medicine 
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.054 billion (2024 est.)<br>
+$2.075 billion (2024 est.)<br>
 $2.593 billion (2023 est.)<br>
 $2.217 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

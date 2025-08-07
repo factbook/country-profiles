@@ -36,7 +36,7 @@ _total_: 0 km<br>
 _territorial sea_: 12 nm<br>
 _contiguous zone_: 24 nm<br>
 _exclusive economic zone_: 200 nm<br>
-measured from claimed archipelagic baselines<br>
+<strong>note: </strong>measured from claimed archipelagic baselines<br>
 
 **Climate**<br>
 temperate; warm, dry summer; precipitation meager and erratic<br>
@@ -379,46 +379,46 @@ _selected World Heritage Site locales_: Cidade Velha; Historic Center of Ribeira
 stable, middle-income, developing island economy; strong GDP growth led by tourism sector recovery; sustained poverty reduction through PEDS II development plan; high reliance on foreign remittances and aid to finance external debt<br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.852 billion (2023 est.)<br>
+$5.2 billion (2024 est.)<br>
+$4.848 billion (2023 est.)<br>
 $4.6 billion (2022 est.)<br>
-$3.971 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.48% (2023 est.)<br>
-15.84% (2022 est.)<br>
-7.03% (2021 est.)<br>
+7.3% (2024 est.)<br>
+5.4% (2023 est.)<br>
+15.8% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$9,900 (2024 est.)<br>
 $9,300 (2023 est.)<br>
 $8,900 (2022 est.)<br>
-$7,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.534 billion (2023 est.)<br>
+$2.768 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+1% (2024 est.)<br>
 3.7% (2023 est.)<br>
 7.9% (2022 est.)<br>
-1.9% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 4.6% (2023 est.)<br>
-_industry_: 10.6% (2023 est.)<br>
-_services_: 70% (2023 est.)<br>
+_agriculture_: 4.7% (2024 est.)<br>
+_industry_: 10.5% (2024 est.)<br>
+_services_: 69.4% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 76.1% (2023 est.)<br>
-_government consumption_: 21.8% (2023 est.)<br>
-_investment in fixed capital_: 20.1% (2023 est.)<br>
-_investment in inventories_: 0% (2023 est.)<br>
-_exports of goods and services_: 38.4% (2023 est.)<br>
-_imports of goods and services_: -56.4% (2023 est.)<br>
+_household consumption_: 74.7% (2024 est.)<br>
+_government consumption_: 20.7% (2024 est.)<br>
+_investment in fixed capital_: 16% (2024 est.)<br>
+_investment in inventories_: 0% (2024 est.)<br>
+_exports of goods and services_: 41.9% (2024 est.)<br>
+_imports of goods and services_: -53.2% (2024 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -429,7 +429,7 @@ sugarcane, tomatoes, coconuts, pulses, goat milk, milk, vegetables, bananas, cab
 food and beverages, fish processing, shoes and garments, salt mining, ship repair<br>
 
 **Industrial production growth rate**<br>
-1.27% (2023 est.)<br>
+4.4% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -439,7 +439,7 @@ food and beverages, fish processing, shoes and garments, salt mining, ship repai
 **Unemployment rate**<br>
 11.9% (2024 est.)<br>
 12% (2023 est.)<br>
-12.2% (2022 est.)<br>
+12.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -462,18 +462,15 @@ _highest 10%_: 32.3% (2015 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-12.49% of GDP (2023 est.)<br>
-14.03% of GDP (2022 est.)<br>
-15.33% of GDP (2021 est.)<br>
+12.1% of GDP (2024 est.)<br>
+12.5% of GDP (2023 est.)<br>
+14% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $574.917 million (2017 est.)<br>
 _expenditures_: $503.059 million (2017 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
-
-**Public debt**<br>
-125.8% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 18.4% (of GDP) (2020 est.)<br>

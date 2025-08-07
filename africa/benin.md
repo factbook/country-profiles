@@ -64,7 +64,7 @@ _other_: 30% (2022 est.)<br>
 530 sq km (2019)<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
+_Atlantic Ocean drainage_: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
 
 **Population distribution**<br>
 the population is primarily located in the south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the north remains sparsely populated with higher concentrations of residents in the west, as shown in this population distribution map<br>
@@ -317,7 +317,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Patrice TALON (since 6 April 2016)<br>
-_head of government_: President Patrice TALON<br>
+_head of government_: President Patrice TALON (since 6 April 2016)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br>
 _most recent election date_: 11 April 2021<br>
@@ -349,7 +349,7 @@ African Movement for Development and Progress or MADEP <br>Benin Renaissance or
 <strong>note:</strong> approximately 20 additional minor parties<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Jean-Claude Felix DO REGO (since 17 July 2020)<br>
+_chief of mission_: Ambassador Agniola AHOUANMENOU (since 24 July 2025)<br>
 _chancery_: 2124 Kalorama Road NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 232-6656<br>
 _FAX_: [1] (202) 265-1996<br>
@@ -397,46 +397,46 @@ _selected World Heritage Site locales_: Royal Palaces of Abomey (c); W-Arly-Pend
 robust economic growth; slightly declining but still widespread poverty; strong trade relations with Nigeria; cotton exporter; COVID-19 has led to capital outflows and border closures; WAEMU member with currency pegged to the euro; recent fiscal deficit and debt reductions<br>
 
 **Real GDP (purchasing power parity)**<br>
+$56.424 billion (2024 est.)<br>
 $52.51 billion (2023 est.)<br>
 $49.374 billion (2022 est.)<br>
-$46.468 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-6.35% (2023 est.)<br>
-6.25% (2022 est.)<br>
-7.16% (2021 est.)<br>
+7.5% (2024 est.)<br>
+6.4% (2023 est.)<br>
+6.3% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$3,900 (2024 est.)<br>
 $3,700 (2023 est.)<br>
 $3,600 (2022 est.)<br>
-$3,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$19.676 billion (2023 est.)<br>
+$21.483 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+1.2% (2024 est.)<br>
 2.7% (2023 est.)<br>
 1.4% (2022 est.)<br>
-1.7% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 25.4% (2023 est.)<br>
-_industry_: 17.3% (2023 est.)<br>
-_services_: 47.7% (2023 est.)<br>
+_agriculture_: 24.2% (2024 est.)<br>
+_industry_: 17.4% (2024 est.)<br>
+_services_: 48.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 59% (2023 est.)<br>
-_government consumption_: 9.5% (2023 est.)<br>
-_investment in fixed capital_: 40.1% (2023 est.)<br>
-_investment in inventories_: 0.4% (2023 est.)<br>
-_exports of goods and services_: 21.2% (2023 est.)<br>
-_imports of goods and services_: -30.2% (2023 est.)<br>
+_household consumption_: 58.9% (2024 est.)<br>
+_government consumption_: 9% (2024 est.)<br>
+_investment in fixed capital_: 34.7% (2024 est.)<br>
+_investment in inventories_: 0.4% (2024 est.)<br>
+_exports of goods and services_: 18.8% (2024 est.)<br>
+_imports of goods and services_: -21.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -447,7 +447,7 @@ cassava, yams, maize, oil palm fruit, cotton, soybeans, rice, pineapples, tomato
 textiles, food processing, construction materials, cement<br>
 
 **Industrial production growth rate**<br>
-7.29% (2023 est.)<br>
+9.7% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -455,7 +455,7 @@ textiles, food processing, construction materials, cement<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.7% (2024 est.)<br>
+1.8% (2024 est.)<br>
 1.7% (2023 est.)<br>
 1.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -480,31 +480,25 @@ _highest 10%_: 27.2% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.19% of GDP (2023 est.)<br>
-1.44% of GDP (2022 est.)<br>
-1.31% of GDP (2021 est.)<br>
+1.7% of GDP (2023 est.)<br>
+1.4% of GDP (2022 est.)<br>
+1.3% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $2.024 billion (2019 est.)<br>
 _expenditures_: $2.101 billion (2019 est.)<br>
 
-**Public debt**<br>
-54.6% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-17.1% (of GDP) (2017 est.)<br>
-
 **Current account balance**<br>
--$1.046 billion (2022 est.)<br>
+-$1.609 billion (2023 est.)<br>
+-$991.005 million (2022 est.)<br>
 -$734.659 million (2021 est.)<br>
--$273.967 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$4.511 billion (2023 est.)<br>
 $4.271 billion (2022 est.)<br>
 $4.154 billion (2021 est.)<br>
-$3.506 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -516,9 +510,9 @@ gold, cotton, coconuts/brazil nuts/cashews, soybeans, wood (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$6.189 billion (2023 est.)<br>
 $5.296 billion (2022 est.)<br>
 $4.925 billion (2021 est.)<br>
-$3.942 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -528,10 +522,6 @@ China 21%, India 15%, USA 6%, France 6%, Nigeria 4% (2023)<br>
 **Imports - commodities**<br>
 rice, refined petroleum, palm oil, poultry, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Reserves of foreign exchange and gold**<br>
-$698.9 million (2017 est.)<br>
-$57.5 million (2016 est.)<br>
 
 **Debt - external**<br>
 $6.309 billion (2023 est.)<br>

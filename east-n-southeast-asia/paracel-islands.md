@@ -32,9 +32,6 @@ _total_: 0 km<br>
 **Coastline**<br>
 518 km<br>
 
-**Maritime claims**<br>
-NA<br>
-
 **Climate**<br>
 tropical<br>
 

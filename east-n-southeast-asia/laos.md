@@ -65,7 +65,7 @@ _other_: 18.6% (2022 est.)<br>
 Mènam Khong (Mekong) (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,350 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Pacific Ocean drainage: Mekong (805,604 sq km)<br>
+_Pacific Ocean drainage_: Mekong (805,604 sq km)<br>
 
 **Population distribution**<br>
 most densely populated area is in and around the capital city of Vientiane; large communities are primarily found along the Mekong River along the southwestern border; overall density is considered one of the lowest in Southeast Asia<br>
@@ -392,25 +392,25 @@ _selected World Heritage Site locales_: Town of Luangphrabang; Vat Phou and Asso
 lower middle-income, industrial Southeast Asian economy; high inflation due to 2022 currency depreciation brought on by persistently high debt; new Laos-China railway and dry port; rising inequities; ongoing labor shortages<br>
 
 **Real GDP (purchasing power parity)**<br>
+$66.905 billion (2024 est.)<br>
 $64.173 billion (2023 est.)<br>
 $61.856 billion (2022 est.)<br>
-$60.225 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.75% (2023 est.)<br>
-2.71% (2022 est.)<br>
-2.53% (2021 est.)<br>
+4.3% (2024 est.)<br>
+3.7% (2023 est.)<br>
+2.7% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$8,600 (2024 est.)<br>
 $8,400 (2023 est.)<br>
 $8,200 (2022 est.)<br>
-$8,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$15.843 billion (2023 est.)<br>
+$16.503 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -420,9 +420,9 @@ $15.843 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 16.1% (2023 est.)<br>
-_industry_: 30.5% (2023 est.)<br>
-_services_: 44% (2023 est.)<br>
+_agriculture_: 16.8% (2024 est.)<br>
+_industry_: 29% (2024 est.)<br>
+_services_: 43.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -442,7 +442,7 @@ cassava, root vegetables, rice, sugarcane, vegetables, bananas, maize, rubber, c
 mining (copper, tin, gold, gypsum); timber, electric power, agricultural processing, rubber, construction, garments, cement, tourism<br>
 
 **Industrial production growth rate**<br>
-2.61% (2023 est.)<br>
+3.9% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -450,9 +450,9 @@ mining (copper, tin, gold, gypsum); timber, electric power, agricultural process
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.2% (2024 est.)<br>
+1.3% (2024 est.)<br>
 1.2% (2023 est.)<br>
-1.2% (2022 est.)<br>
+1.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -479,18 +479,15 @@ _highest 10%_: 31.2% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.81% of GDP (2023 est.)<br>
-1.55% of GDP (2022 est.)<br>
-1.17% of GDP (2021 est.)<br>
+1.8% of GDP (2023 est.)<br>
+1.5% of GDP (2022 est.)<br>
+1.2% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $2.288 billion (2022 est.)<br>
 _expenditures_: $1.596 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
-
-**Public debt**<br>
-63.6% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 12.1% (of GDP) (2022 est.)<br>

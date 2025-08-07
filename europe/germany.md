@@ -71,7 +71,7 @@ _salt water lake(s)_: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 90
 Donau (Danube) river source (shared with Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhein (Rhine) (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km <br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+_Atlantic Ocean drainage_: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
 second most populous country in Europe; a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations, particularly in the far-western part of the industrial state of North Rhine-Westphalia<br>
@@ -360,7 +360,7 @@ _subordinate courts_: Federal Administrative Court; Federal Finance Court; Feder
 Alliance '90/Greens <br>Alternative for Germany or AfD <br>Christian Democratic Union or CDU <br>Christian Social Union or CSU <br>Free Democratic Party or FDP <br>Free Voters or FW<br>The Left or Die Linke <br>Social Democratic Party or SPD<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Andreas MICHAELIS (since 15 September 2023)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Axel DITTMANN (since 30 June 2025)<br>
 _chancery_: 4645 Reservoir Road NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 298-4000<br>
 _FAX_: [1] (202) 298-4261<br>
@@ -409,25 +409,25 @@ _selected World Heritage Site locales_: <p>Museumsinsel (Museum Island), Berlin 
 <p>leading export-driven, core EU and eurozone economy; key automotive, chemical, engineering, finance, and green energy industries; growth stalled by energy crisis and declining exports; tight labor market with falling working-age population; fiscal rebalancing with phaseout of energy price supports</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.295 trillion (2023 est.)<br>
-$5.309 trillion (2022 est.)<br>
-$5.237 trillion (2021 est.)<br>
+$5.247 trillion (2024 est.)<br>
+$5.26 trillion (2023 est.)<br>
+$5.274 trillion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--0.27% (2023 est.)<br>
-1.37% (2022 est.)<br>
-3.16% (2021 est.)<br>
+-0.2% (2024 est.)<br>
+-0.3% (2023 est.)<br>
+1.4% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$63,600 (2023 est.)<br>
-$63,400 (2022 est.)<br>
-$63,000 (2021 est.)<br>
+$62,800 (2024 est.)<br>
+$62,700 (2023 est.)<br>
+$62,900 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$4.526 trillion (2023 est.)<br>
+$4.66 trillion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -437,9 +437,9 @@ $4.526 trillion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.8% (2023 est.)<br>
-_industry_: 26.8% (2023 est.)<br>
-_services_: 63.7% (2023 est.)<br>
+_agriculture_: 0.8% (2024 est.)<br>
+_industry_: 25.8% (2024 est.)<br>
+_services_: 63.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -459,17 +459,17 @@ milk, sugar beets, wheat, potatoes, barley, maize, rapeseed, pork, rye, tritical
 <p>iron, steel, coal, cement, chemicals, machinery, vehicles, machine tools, electronics, automobiles, food and beverages, shipbuilding, textiles</p><br>
 
 **Industrial production growth rate**<br>
--0.51% (2023 est.)<br>
+-3% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-43.483 million (2024 est.)<br>
+43.772 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.4% (2024 est.)<br>
+3.5% (2024 est.)<br>
 3.1% (2023 est.)<br>
-3.1% (2022 est.)<br>
+3.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -496,9 +496,9 @@ _highest 10%_: 25% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.46% of GDP (2023 est.)<br>
-0.47% of GDP (2022 est.)<br>
-0.47% of GDP (2021 est.)<br>
+0.5% of GDP (2024 est.)<br>
+0.5% of GDP (2023 est.)<br>
+0.5% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -515,15 +515,15 @@ _expenditures_: $1.31 trillion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$262.634 billion (2023 est.)<br>
-$184.777 billion (2022 est.)<br>
-$301.423 billion (2021 est.)<br>
+$267.056 billion (2024 est.)<br>
+$251.479 billion (2023 est.)<br>
+$161.759 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$1.944 trillion (2023 est.)<br>
-$1.904 trillion (2022 est.)<br>
-$1.857 trillion (2021 est.)<br>
+$1.949 trillion (2024 est.)<br>
+$1.958 trillion (2023 est.)<br>
+$1.917 trillion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -535,9 +535,9 @@ cars, vehicle parts/accessories, packaged medicine, plastic products, vaccines (
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.77 trillion (2023 est.)<br>
-$1.799 trillion (2022 est.)<br>
-$1.632 trillion (2021 est.)<br>
+$1.774 trillion (2024 est.)<br>
+$1.781 trillion (2023 est.)<br>
+$1.808 trillion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -549,7 +549,7 @@ cars, vehicle parts/accessories, garments, natural gas, vaccines (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$96.792 billion (2024 est.)<br>
+$377.936 billion (2024 est.)<br>
 $322.7 billion (2023 est.)<br>
 $293.914 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

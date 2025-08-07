@@ -354,31 +354,31 @@ _selected World Heritage Site locales_: Madriu-Perafita-Claror Valley<br>
 high GDP; low unemployment; non-EU Euro user; co-principality duty-free area between Spain and France; tourist hub but hit hard by COVID-19; modern, non-tax haven financial sector; looking for big tech investments; new member of SEPA and IMF<br>
 
 **Real GDP (purchasing power parity)**<br>
+$5.402 billion (2024 est.)<br>
 $5.226 billion (2023 est.)<br>
 $5.094 billion (2022 est.)<br>
-$4.65 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.58% (2023 est.)<br>
-9.56% (2022 est.)<br>
-8.29% (2021 est.)<br>
+3.4% (2024 est.)<br>
+2.6% (2023 est.)<br>
+9.6% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$65,900 (2024 est.)<br>
 $64,600 (2023 est.)<br>
 $63,900 (2022 est.)<br>
-$59,300 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.785 billion (2023 est.)<br>
+$4.04 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.5% (2023 est.)<br>
-_industry_: 12.4% (2023 est.)<br>
-_services_: 78.3% (2023 est.)<br>
+_agriculture_: 0.5% (2024 est.)<br>
+_industry_: 12.8% (2024 est.)<br>
+_services_: 77.6% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **Agricultural products**<br>
@@ -388,30 +388,18 @@ small quantities of rye, wheat, barley, oats, vegetables, tobacco, sheep, cattle
 tourism (particularly skiing), banking, timber, furniture<br>
 
 **Industrial production growth rate**<br>
-14.39% (2023 est.)<br>
+6% (2024 est.)<br>
 <strong>note:</strong> annual % change in industrial value added based on constant local currency<br>
 
-**Labor force**<br>
-39,750 (2016)<br>
-
-**Unemployment rate**<br>
-3.7% (2016 est.)<br>
-
 **Remittances**<br>
-1.18% of GDP (2023 est.)<br>
-1.32% of GDP (2022 est.)<br>
-1.59% of GDP (2021 est.)<br>
+1.3% of GDP (2023 est.)<br>
+1.3% of GDP (2022 est.)<br>
+1.6% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.872 billion (2016)<br>
 _expenditures_: $2.06 billion (2016)<br>
-
-**Public debt**<br>
-41% of GDP (2014 est.)<br>
-
-**Taxes and other revenues**<br>
-69% (of GDP) (2016)<br>
 
 **Current account balance**<br>
 $538.287 million (2023 est.)<br>

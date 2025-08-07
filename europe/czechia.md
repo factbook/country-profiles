@@ -65,7 +65,7 @@ _other_: 19.5% (2022 est.)<br>
 Labe (Elbe) river source (shared with Germany [m]) - 1,252 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+_Atlantic Ocean drainage_: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations<br>
@@ -403,25 +403,25 @@ _selected World Heritage Site locales_: Historic Prague (c); Historic Telč (c);
 <p>high-income, diversified EU economy; manufacturing-oriented exporter led by automotive industry; moderate growth driven by household consumption and investments, despite negative contribution from net exports; tight labor market with low unemployment; gained energy independence from Russian oil in April 2025</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$539.737 billion (2023 est.)<br>
-$540.198 billion (2022 est.)<br>
-$525.243 billion (2021 est.)<br>
+$521.928 billion (2024 est.)<br>
+$516.145 billion (2023 est.)<br>
+$516.431 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--0.09% (2023 est.)<br>
-2.85% (2022 est.)<br>
-3.55% (2021 est.)<br>
+1.1% (2024 est.)<br>
+-0.1% (2023 est.)<br>
+2.8% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$49,700 (2023 est.)<br>
-$50,600 (2022 est.)<br>
-$50,000 (2021 est.)<br>
+$48,000 (2024 est.)<br>
+$47,500 (2023 est.)<br>
+$48,400 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$343.208 billion (2023 est.)<br>
+$345.037 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -431,9 +431,9 @@ $343.208 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.7% (2023 est.)<br>
-_industry_: 30.4% (2023 est.)<br>
-_services_: 59.7% (2023 est.)<br>
+_agriculture_: 1.5% (2024 est.)<br>
+_industry_: 30.2% (2024 est.)<br>
+_services_: 59.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -453,17 +453,17 @@ wheat, sugar beets, milk, barley, rapeseed, potatoes, maize, triticale, pork, ch
 motor vehicles, metallurgy, machinery and equipment, glass, armaments<br>
 
 **Industrial production growth rate**<br>
--1.94% (2023 est.)<br>
+-1% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.474 million (2024 est.)<br>
+5.541 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.5% (2024 est.)<br>
+2.6% (2024 est.)<br>
 2.6% (2023 est.)<br>
-2.2% (2022 est.)<br>
+2.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -477,7 +477,7 @@ _female_: 8.6% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-26.2 (2021 est.)<br>
+25.9 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -485,14 +485,14 @@ _on food_: 15.7% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 7.7% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.9% (2021 est.)<br>
-_highest 10%_: 22.2% (2021 est.)<br>
+_lowest 10%_: 3.8% (2022 est.)<br>
+_highest 10%_: 21.8% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.3% of GDP (2023 est.)<br>
-1.38% of GDP (2022 est.)<br>
-1.51% of GDP (2021 est.)<br>
+1.2% of GDP (2024 est.)<br>
+1.2% of GDP (2023 est.)<br>
+1.4% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -500,23 +500,20 @@ _revenues_: $94.01 billion (2022 est.)<br>
 _expenditures_: $103.959 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-34.7% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
 12.6% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$1.035 billion (2023 est.)<br>
+$6.047 billion (2024 est.)<br>
+-$432.727 million (2023 est.)<br>
 -$13.644 billion (2022 est.)<br>
--$5.954 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$236.688 billion (2023 est.)<br>
+$239.259 billion (2024 est.)<br>
+$236.103 billion (2023 est.)<br>
 $219.419 billion (2022 est.)<br>
-$205.163 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -528,9 +525,9 @@ cars, vehicle parts/accessories, broadcasting equipment, computers, plastic prod
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$219.393 billion (2023 est.)<br>
+$216.741 billion (2024 est.)<br>
+$219.09 billion (2023 est.)<br>
 $216.042 billion (2022 est.)<br>
-$194.402 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -542,7 +539,7 @@ broadcasting equipment, vehicle parts/accessories, cars, plastic products, compu
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$141.988 billion (2024 est.)<br>
+$146.281 billion (2024 est.)<br>
 $148.379 billion (2023 est.)<br>
 $139.981 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

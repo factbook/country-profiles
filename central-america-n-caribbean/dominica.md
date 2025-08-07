@@ -338,37 +338,37 @@ _history_: adopted 1967<br>
 highly agrarian OECS island economy; ECCU-member state; large banana exporter; improved oversight of its citizenship-by-investment program; emerging ecotourism, information and communications, and education industries<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.159 billion (2023 est.)<br>
-$1.106 billion (2022 est.)<br>
-$1.048 billion (2021 est.)<br>
+$1.241 billion (2024 est.)<br>
+$1.216 billion (2023 est.)<br>
+$1.173 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.71% (2023 est.)<br>
-5.58% (2022 est.)<br>
-6.89% (2021 est.)<br>
+2.1% (2024 est.)<br>
+3.7% (2023 est.)<br>
+10.4% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$17,400 (2023 est.)<br>
-$16,600 (2022 est.)<br>
-$15,600 (2021 est.)<br>
+$18,700 (2024 est.)<br>
+$18,300 (2023 est.)<br>
+$17,600 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$653.993 million (2023 est.)<br>
+$688.881 million (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.2% (2023 est.)<br>
-7.8% (2022 est.)<br>
-1.5% (2021 est.)<br>
+2.6% (2024 est.)<br>
+5.1% (2023 est.)<br>
+2.9% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 14.8% (2023 est.)<br>
-_industry_: 12.2% (2023 est.)<br>
-_services_: 58.5% (2023 est.)<br>
+_agriculture_: 12.2% (2024 est.)<br>
+_industry_: 13.9% (2024 est.)<br>
+_services_: 56.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -388,13 +388,13 @@ taro, grapefruits, yams, bananas, coconuts, plantains, milk, yautia, sugarcane, 
 soap, coconut oil, tourism, copra, furniture, cement blocks, shoes<br>
 
 **Industrial production growth rate**<br>
-5.01% (2023 est.)<br>
+8.8% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Remittances**<br>
-5.25% of GDP (2023 est.)<br>
-6.22% of GDP (2022 est.)<br>
-7.24% of GDP (2021 est.)<br>
+5.6% of GDP (2024 est.)<br>
+5.2% of GDP (2023 est.)<br>
+6.1% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -402,22 +402,16 @@ _revenues_: $233.831 million (2017 est.)<br>
 _expenditures_: $164.673 million (2017 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-82.7% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-40.9% (of GDP) (2017 est.)<br>
-
 **Current account balance**<br>
+-$160.12 million (2024 est.)<br>
 -$223.632 million (2023 est.)<br>
 -$163.746 million (2022 est.)<br>
--$186.101 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$212.753 million (2024 est.)<br>
 $188.818 million (2023 est.)<br>
 $173.93 million (2022 est.)<br>
-$117.709 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -429,9 +423,9 @@ iron blocks, medical instruments, excavation machinery, power equipment, soap (2
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$387.532 million (2024 est.)<br>
 $417.164 million (2023 est.)<br>
 $354.27 million (2022 est.)<br>
-$317.182 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

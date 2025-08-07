@@ -31,7 +31,8 @@ _total_: 5,894 km<br>
 _border countries_: Afghanistan 921 km; Armenia 44 km; Azerbaijan 689 km; Iraq 1,599 km; Pakistan 959 km; Turkey 534 km; Turkmenistan 1,148 km<br>
 
 **Coastline**<br>
-2,440 km - note: Iran also borders the Caspian Sea (740 km)<br>
+2,440 km<br>
+<strong>note: </strong>Iran also borders the Caspian Sea (740 km)<br>
 
 **Maritime claims**<br>
 _territorial sea_: 12 nm<br>
@@ -71,7 +72,7 @@ _salt water lake(s)_: Caspian Sea (shared with Russia, Azerbaijan, Turkmenistan,
 Euphrates (shared with Turkey [s], Syria, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Syria, and Iraq [m]) - 1,950 km; Helmand (shared with Afghanistan [s]) - 1,130 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+_Indian Ocean drainage_: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
 **Population distribution**<br>
 population is concentrated in the north, northwest, and west, reflecting the position of the Zagros and Elburz Mountains; the vast, dry areas in the center and eastern parts of the country, around the deserts of the Dasht-e Kavir and Dasht-e Lut, have a much lower population density<br>
@@ -388,46 +389,46 @@ _selected World Heritage Site locales_: Persepolis (c); Tchogha Zanbil (c); Bam 
 traditionally state-controlled economy but reforming state-owned financial entities; strong oil/gas, agricultural, and service sectors; recent massive inflation due to exchange rate depreciation, international sanctions, and investor uncertainty; increasing poverty<br>
 
 **Real GDP (purchasing power parity)**<br>
+$1.486 trillion (2024 est.)<br>
 $1.442 trillion (2023 est.)<br>
 $1.373 trillion (2022 est.)<br>
-$1.323 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.04% (2023 est.)<br>
-3.78% (2022 est.)<br>
-4.72% (2021 est.)<br>
+3% (2024 est.)<br>
+5% (2023 est.)<br>
+3.8% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$16,200 (2024 est.)<br>
 $15,900 (2023 est.)<br>
 $15,300 (2022 est.)<br>
-$15,000 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$404.626 billion (2023 est.)<br>
+$436.906 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+32.5% (2024 est.)<br>
 44.6% (2023 est.)<br>
 43.5% (2022 est.)<br>
-43.4% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 12.8% (2023 est.)<br>
-_industry_: 36.2% (2023 est.)<br>
-_services_: 48.3% (2023 est.)<br>
+_agriculture_: 13% (2024 est.)<br>
+_industry_: 36.4% (2024 est.)<br>
+_services_: 47.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 50.3% (2023 est.)<br>
-_government consumption_: 12.9% (2023 est.)<br>
-_investment in fixed capital_: 26.8% (2023 est.)<br>
-_investment in inventories_: 11.2% (2022 est.)<br>
-_exports of goods and services_: 24.2% (2023 est.)<br>
-_imports of goods and services_: -28% (2023 est.)<br>
+_household consumption_: 50.5% (2024 est.)<br>
+_government consumption_: 12.9% (2024 est.)<br>
+_investment in fixed capital_: 26.7% (2024 est.)<br>
+_investment in inventories_: 13.3% (2024 est.)<br>
+_exports of goods and services_: 22.9% (2024 est.)<br>
+_imports of goods and services_: -26.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -438,7 +439,7 @@ wheat, sugarcane, milk, sugar beets, rice, tomatoes, barley, potatoes, oranges, 
 petroleum, petrochemicals, gas, fertilizer, caustic soda, textiles, cement and other construction materials, food processing (particularly sugar refining and vegetable oil production), ferrous and nonferrous metal fabrication, armaments<br>
 
 **Industrial production growth rate**<br>
-7.14% (2023 est.)<br>
+2.8% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -447,7 +448,7 @@ petroleum, petrochemicals, gas, fertilizer, caustic soda, textiles, cement and o
 
 **Unemployment rate**<br>
 9.2% (2024 est.)<br>
-9% (2023 est.)<br>
+9.1% (2023 est.)<br>
 9.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -458,7 +459,7 @@ _female_: 35.5% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-34.8 (2022 est.)<br>
+35.9 (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -466,14 +467,15 @@ _on food_: 27.9% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 0.5% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.8% (2022 est.)<br>
-_highest 10%_: 26.8% (2022 est.)<br>
+_lowest 10%_: 2.8% (2023 est.)<br>
+_highest 10%_: 28.2% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0% of GDP (2023 est.)<br>
 0% of GDP (2022 est.)<br>
 0% of GDP (2021 est.)<br>
+<strong>note:</strong> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $60.714 billion (2019 est.)<br>
@@ -483,17 +485,10 @@ _expenditures_: $90.238 billion (2019 est.)<br>
 39.5% of GDP (2017 est.)<br>
 <strong>note:</strong> includes publicly guaranteed debt<br>
 
-**Taxes and other revenues**<br>
-17.3% (of GDP) (2017 est.)<br>
-
-**Current account balance**<br>
-$9.491 billion (2017 est.)<br>
-$16.28 billion (2016 est.)<br>
-
 **Exports**<br>
+$100.031 billion (2024 est.)<br>
 $97.924 billion (2023 est.)<br>
 $105.752 billion (2022 est.)<br>
-$87.574 billion (2021 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -505,9 +500,9 @@ plastics, iron ore, alcohols, natural gas, refined copper (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$117.176 billion (2024 est.)<br>
 $113.21 billion (2023 est.)<br>
 $97.729 billion (2022 est.)<br>
-$82.571 billion (2021 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -517,10 +512,6 @@ China 34%, UAE 20%, Turkey 11%, Brazil 8%, Germany 4% (2023)<br>
 **Imports - commodities**<br>
 broadcasting equipment, vehicle parts/accessories, corn, soybeans, vehicle bodies (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Reserves of foreign exchange and gold**<br>
-$120.6 billion (2017 est.)<br>
-$133.7 billion (2016 est.)<br>
 
 **Debt - external**<br>
 $6.759 billion (2023 est.)<br>

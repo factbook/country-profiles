@@ -386,25 +386,25 @@ _selected World Heritage Site locales_: Guanacaste Conservation Area (n); Cocos 
 trade-based upper middle-income economy; green economy leader, having reversed deforestation; investing in blue economy infrastructure; declining poverty until hard impacts of COVID-19; lingering inequality and growing government debts have prompted a liquidity crisis<br>
 
 **Real GDP (purchasing power parity)**<br>
-$134.238 billion (2023 est.)<br>
-$127.71 billion (2022 est.)<br>
-$122.15 billion (2021 est.)<br>
+$138.371 billion (2024 est.)<br>
+$132.64 billion (2023 est.)<br>
+$126.189 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.11% (2023 est.)<br>
-4.55% (2022 est.)<br>
-7.94% (2021 est.)<br>
+4.3% (2024 est.)<br>
+5.1% (2023 est.)<br>
+4.6% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$26,300 (2023 est.)<br>
-$25,100 (2022 est.)<br>
-$24,100 (2021 est.)<br>
+$27,000 (2024 est.)<br>
+$26,000 (2023 est.)<br>
+$24,800 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$86.498 billion (2023 est.)<br>
+$95.35 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -414,18 +414,18 @@ $86.498 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3.8% (2023 est.)<br>
-_industry_: 20.5% (2023 est.)<br>
-_services_: 68% (2023 est.)<br>
+_agriculture_: 3.6% (2024 est.)<br>
+_industry_: 19.7% (2024 est.)<br>
+_services_: 68.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 64.5% (2023 est.)<br>
-_government consumption_: 14.9% (2023 est.)<br>
-_investment in fixed capital_: 16.2% (2023 est.)<br>
-_investment in inventories_: -0.9% (2023 est.)<br>
-_exports of goods and services_: 38.9% (2023 est.)<br>
-_imports of goods and services_: -33.6% (2023 est.)<br>
+_household consumption_: 63.9% (2024 est.)<br>
+_government consumption_: 14.7% (2024 est.)<br>
+_investment in fixed capital_: 15.8% (2024 est.)<br>
+_investment in inventories_: -0.1% (2024 est.)<br>
+_exports of goods and services_: 38.5% (2024 est.)<br>
+_imports of goods and services_: -32.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -436,7 +436,7 @@ sugarcane, pineapples, bananas, oil palm fruit, milk, fruits, oranges, chicken, 
 medical equipment, food processing, textiles and clothing, construction materials, fertilizer, plastic products<br>
 
 **Industrial production growth rate**<br>
-8.35% (2023 est.)<br>
+4.1% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -444,9 +444,9 @@ medical equipment, food processing, textiles and clothing, construction material
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.8% (2024 est.)<br>
-8.3% (2023 est.)<br>
-11.3% (2022 est.)<br>
+7.9% (2024 est.)<br>
+8.4% (2023 est.)<br>
+11.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -456,11 +456,11 @@ _female_: 26.2% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-25.5% (2022 est.)<br>
+24.4% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-46.7 (2023 est.)<br>
+45.8 (2024 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -468,14 +468,14 @@ _on food_: 21.3% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 1.7% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.6% (2023 est.)<br>
-_highest 10%_: 35.1% (2023 est.)<br>
+_lowest 10%_: 1.7% (2024 est.)<br>
+_highest 10%_: 34.2% (2024 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.77% of GDP (2023 est.)<br>
+0.8% of GDP (2024 est.)<br>
+0.8% of GDP (2023 est.)<br>
 0.9% of GDP (2022 est.)<br>
-0.91% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -483,23 +483,20 @@ _revenues_: $20.224 billion (2022 est.)<br>
 _expenditures_: $19.799 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-71.11% of GDP (2022 est.)<br>
-
 **Taxes and other revenues**<br>
 13.9% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$1.291 billion (2024 est.)<br>
 -$1.239 billion (2023 est.)<br>
 -$2.272 billion (2022 est.)<br>
--$2.063 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$36.77 billion (2024 est.)<br>
 $33.683 billion (2023 est.)<br>
 $29.392 billion (2022 est.)<br>
-$23.608 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -511,9 +508,9 @@ medical instruments, integrated circuits, orthopedic appliances, bananas, tropic
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$30.459 billion (2024 est.)<br>
 $28.413 billion (2023 est.)<br>
 $27.095 billion (2022 est.)<br>
-$21.938 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

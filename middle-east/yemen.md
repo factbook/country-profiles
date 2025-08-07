@@ -338,7 +338,7 @@ _subordinate courts_: appeal courts; district or first instance courts; commerci
 General People’s Congress or GPC (3 factions: pro-Hadi, pro-Houthi, pro-Salih)<br>Nasserist Unionist People's Organization<br>National Arab Socialist Ba'ath Party<br>Southern Transitional Council or STC<br>Yemeni Reform Grouping or Islah<br>Yemeni Socialist Party or YSP<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador-designate Abdulwahab Abdullah Ahmed al-HAJRI (since 10 April 2025)<br>
+_chief of mission_: Ambassador Abdulwahab Abdullah Ahmed AL-HAJRI (since 24 July 2025)<br>
 _chancery_: 2319 Wyoming Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 965-4760<br>
 _FAX_: [1] (202) 337-2017<br>
@@ -392,9 +392,9 @@ $90.63 billion (2015 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-0.75% (2018 est.)<br>
--5.07% (2017 est.)<br>
--9.38% (2016 est.)<br>
+0.8% (2018 est.)<br>
+-5.1% (2017 est.)<br>
+-9.4% (2016 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
@@ -407,25 +407,11 @@ $3,200 (2015 est.)<br>
 $21.606 billion (2018 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
-**Inflation rate (consumer prices)**<br>
-24.7% (2017 est.)<br>
--12.6% (2016 est.)<br>
-8.1% (2014 est.)<br>
-<b>note:</b> annual % change based on consumer prices<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 28.7% (2018 est.)<br>
 _industry_: 25.4% (2018 est.)<br>
 _services_: 41.8% (2018 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
-
-**GDP - composition, by end use**<br>
-_household consumption_: 126.4% (2018 est.)<br>
-_government consumption_: 9.1% (2018 est.)<br>
-_investment in fixed capital_: 5.8% (2018 est.)<br>
-_exports of goods and services_: 8.8% (2018 est.)<br>
-_imports of goods and services_: -50.1% (2018 est.)<br>
-<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 mangoes/guavas, potatoes, milk, onions, spices, chicken, sorghum, watermelons, tomatoes, grapes (2023)<br>
@@ -435,7 +421,7 @@ mangoes/guavas, potatoes, milk, onions, spices, chicken, sorghum, watermelons, t
 crude oil production and petroleum refining; small-scale production of cotton textiles, leather goods; food processing; handicrafts; aluminum products; cement; commercial ship repair; natural gas production<br>
 
 **Industrial production growth rate**<br>
--1.12% (2018 est.)<br>
+-1.1% (2018 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -454,19 +440,6 @@ _male_: 31.8% (2024 est.)<br>
 _female_: 38.4% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-48.6% (2014 est.)<br>
-<b>note:</b> % of population with income below national poverty line<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-36.7 (2014 est.)<br>
-<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 3% (2014 est.)<br>
-_highest 10%_: 29.4% (2014 est.)<br>
-<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
-
 **Remittances**<br>
 20.05% of GDP (2023 est.)<br>
 16.02% of GDP (2022 est.)<br>
@@ -476,12 +449,6 @@ _highest 10%_: 29.4% (2014 est.)<br>
 **Budget**<br>
 _revenues_: $2.207 billion (2019 est.)<br>
 _expenditures_: $3.585 billion (2019 est.)<br>
-
-**Public debt**<br>
-74.5% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-9% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
 -$2.419 billion (2016 est.)<br>

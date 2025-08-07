@@ -373,25 +373,25 @@ _history_: in use since 1875; more commonly known as "Fasi Fakafonua" (National 
 upper middle-income Pacific island economy; enormous diaspora and remittance reliance; key tourism and agricultural sectors; major fish exporter; rapidly growing Chinese infrastructure investments; rising methamphetamine hub<br>
 
 **Real GDP (purchasing power parity)**<br>
+$740.082 million (2023 est.)<br>
 $724.972 million (2022 est.)<br>
 $742.114 million (2021 est.)<br>
-$739.433 million (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--2.31% (2022 est.)<br>
-0.36% (2021 est.)<br>
-0.49% (2020 est.)<br>
+2.1% (2023 est.)<br>
+-2.3% (2022 est.)<br>
+0.4% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$7,100 (2023 est.)<br>
 $6,900 (2022 est.)<br>
 $7,000 (2021 est.)<br>
-$7,000 (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$518.18 million (2022 est.)<br>
+$508.735 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -401,18 +401,18 @@ $518.18 million (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 15.6% (2022 est.)<br>
-_industry_: 15.5% (2022 est.)<br>
-_services_: 51.8% (2022 est.)<br>
+_agriculture_: 17.5% (2023 est.)<br>
+_industry_: 13.5% (2023 est.)<br>
+_services_: 50.2% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 77.9% (2022 est.)<br>
-_government consumption_: 30% (2022 est.)<br>
-_investment in fixed capital_: 27.2% (2022 est.)<br>
-_investment in inventories_: -0.4% (2022 est.)<br>
-_exports of goods and services_: 11.6% (2022 est.)<br>
-_imports of goods and services_: -63.8% (2022 est.)<br>
+_household consumption_: 107.6% (2023 est.)<br>
+_government consumption_: 29.1% (2023 est.)<br>
+_investment in fixed capital_: 27.3% (2023 est.)<br>
+_investment in inventories_: -0.3% (2023 est.)<br>
+_exports of goods and services_: 18.8% (2023 est.)<br>
+_imports of goods and services_: -75.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -423,7 +423,7 @@ coconuts, pumpkins/squash, cassava, sweet potatoes, vegetables, yams, taro, root
 tourism, construction, fishing<br>
 
 **Industrial production growth rate**<br>
--12.25% (2022 est.)<br>
+-11.1% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -433,7 +433,7 @@ tourism, construction, fishing<br>
 **Unemployment rate**<br>
 2.2% (2024 est.)<br>
 2.3% (2023 est.)<br>
-2.3% (2022 est.)<br>
+2.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -444,6 +444,7 @@ _female_: 10% (2024 est.)<br>
 
 **Population below poverty line**<br>
 20.6% (2021 est.)<br>
+<strong>note:</strong> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 27.1 (2021 est.)<br>
@@ -455,9 +456,9 @@ _highest 10%_: 22% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-41.94% of GDP (2022 est.)<br>
-41.98% of GDP (2021 est.)<br>
-38.23% of GDP (2020 est.)<br>
+50% of GDP (2023 est.)<br>
+41.9% of GDP (2022 est.)<br>
+42% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -508,9 +509,9 @@ refined petroleum, plastic products, poultry, cars, sheep and goat meat (2023)<b
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$377.299 million (2024 est.)<br>
 $396.53 million (2023 est.)<br>
 $375.564 million (2022 est.)<br>
-$361.812 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -519,11 +520,11 @@ $159.276 million (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: pa'anga (TOP) per US dollar -<br>
+2.373 (2024 est.)<br>
 2.364 (2023 est.)<br>
 2.328 (2022 est.)<br>
 2.265 (2021 est.)<br>
 2.3 (2020 est.)<br>
-2.289 (2019 est.)<br>
 
 ## Energy
 
@@ -616,7 +617,7 @@ the military's inventory consists of light weapons, as well as some naval patrol
 voluntary military service for men and women 18-25; no conscription (2023)<br>
 
 **Military - note**<br>
-the HMAF’s primary missions are protecting the King and Tonga’s sovereignty; it is also responsible for humanitarian assistance and disaster relief,  search and rescue operations, monitoring against illegal fishing, and delivering supplies to the outer islands; the HMAF has contributed limited numbers of personnel to multinational military operations in Afghanistan, Iraq, and the Solomon Islands; it is a small force comprised of royal guards, marines, a few naval patrol boats, and a couple of aircraft for maritime patrolling, search and rescue, and training purposes <br><br>Tonga participated in World War I as part of the New Zealand Expeditionary Force, but the Tonga Defense Force (TDF) was not established until 1939 at the beginning of World War II; in 1943, New Zealand helped train about 2,000 Tongan troops who saw action in the Solomon Islands; the TDF was disbanded at the end of the war, but was reactivated in 1946 as the Tonga Defense Services (TDS); in 2013, the name of the TDS was changed to His Majesty’s Armed Forces of Tonga (HMAF); Tongan troops deployed to Iraq from 2004-2008 and Afghanistan to support UK forces from 2010-2014<br><br>Tonga has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Tonga's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
+the military's primary missions are defending Tonga's sovereignty, providing maritime security, and protecting the King; it is also responsible for humanitarian assistance and disaster relief, search and rescue operations, monitoring against illegal fishing, and delivering supplies to the outer islands; the military has contributed limited numbers of personnel to multinational military operations in Afghanistan, Iraq, and the Solomon Islands; Australia, New Zealand, and the US are key partners <br><br>Tonga has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Tonga's designated exclusive economic zone (EEZ) or on the high seas<br><br>Tonga participated in World War I as part of the New Zealand Expeditionary Force, but the Tonga Defense Force (TDF) was not established until 1939 at the beginning of World War II; in 1943, New Zealand helped train about 2,000 Tongan troops who saw action in the Solomon Islands; the TDF was disbanded at the end of the war, but was reactivated in 1946 as the Tonga Defense Services (TDS); in 2013, the name of the TDS was changed to His Majesty’s Armed Forces of Tonga (HMAF); Tongan troops deployed to Iraq from 2004-2008 and Afghanistan to support UK forces from 2010-2014 (2025)<br>
 
 ## Transnational Issues
 

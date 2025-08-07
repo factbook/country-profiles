@@ -62,7 +62,7 @@ _other_: 91.2% (2022 est.)<br>
 100 sq km (2015)<br>
 
 **Major watersheds (area sq km)**<br>
-Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+_Indian Ocean drainage_: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
 **Major aquifers**<br>
 Arabian Aquifer System<br>
@@ -370,25 +370,25 @@ _history_: adopted 1978; the anthem is only used on formal occasions<br>
 small, high-income, oil-based Middle East economy; renewable energy proponent; regional finance and investment leader; maintains oldest sovereign wealth fund; emerging space and tourism industries; mid-way through 25-year development program<br>
 
 **Real GDP (purchasing power parity)**<br>
-$225.481 billion (2023 est.)<br>
-$234 billion (2022 est.)<br>
-$221.048 billion (2021 est.)<br>
+$225.947 billion (2024 est.)<br>
+$231.884 billion (2023 est.)<br>
+$235.815 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--3.64% (2023 est.)<br>
-5.86% (2022 est.)<br>
-1.7% (2021 est.)<br>
+-2.6% (2024 est.)<br>
+-1.7% (2023 est.)<br>
+6.8% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$46,500 (2023 est.)<br>
-$51,000 (2022 est.)<br>
-$50,700 (2021 est.)<br>
+$45,400 (2024 est.)<br>
+$47,800 (2023 est.)<br>
+$51,400 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$163.705 billion (2023 est.)<br>
+$160.227 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -398,18 +398,18 @@ $163.705 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.5% (2023 est.)<br>
-_industry_: 60.7% (2023 est.)<br>
-_services_: 51.3% (2023 est.)<br>
+_agriculture_: 0.5% (2024 est.)<br>
+_industry_: 57.1% (2024 est.)<br>
+_services_: 55.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 32.5% (2022 est.)<br>
+_household consumption_: 32.6% (2022 est.)<br>
 _government consumption_: 20.7% (2022 est.)<br>
 _investment in fixed capital_: 16.1% (2022 est.)<br>
 _investment in inventories_: 0.8% (2022 est.)<br>
-_exports of goods and services_: 60.3% (2022 est.)<br>
-_imports of goods and services_: -30.4% (2022 est.)<br>
+_exports of goods and services_: 60.4% (2022 est.)<br>
+_imports of goods and services_: -30.5% (2022 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -420,16 +420,16 @@ dates, eggs, milk, tomatoes, chicken, lamb/mutton, cucumbers/gherkins, vegetable
 petroleum, petrochemicals, cement, shipbuilding and repair, water desalination, food processing, construction materials<br>
 
 **Industrial production growth rate**<br>
--5.37% (2023 est.)<br>
+-5.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.991 million (2024 est.)<br>
+3.003 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.1% (2024 est.)<br>
-2.1% (2023 est.)<br>
+2.2% (2024 est.)<br>
+2.2% (2023 est.)<br>
 2.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -444,9 +444,9 @@ _on food_: 19.2% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 0.2% of household expenditures (2023 est.)<br>
 
 **Remittances**<br>
-0.01% of GDP (2023 est.)<br>
-0.01% of GDP (2022 est.)<br>
-0.54% of GDP (2021 est.)<br>
+0% of GDP (2024 est.)<br>
+0% of GDP (2023 est.)<br>
+0% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -454,22 +454,16 @@ _revenues_: $44.254 billion (2015 est.)<br>
 _expenditures_: $59.584 billion (2015 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants and social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-20.6% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-41.8% (of GDP) (2017 est.)<br>
-
 **Current account balance**<br>
+$46.703 billion (2024 est.)<br>
 $51.396 billion (2023 est.)<br>
 $63.078 billion (2022 est.)<br>
-$34.943 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$89.71 billion (2024 est.)<br>
 $95.476 billion (2023 est.)<br>
 $110.923 billion (2022 est.)<br>
-$77.121 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -481,9 +475,9 @@ crude petroleum, refined petroleum, natural gas, hydrocarbons, plastics (2023)<b
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$61.521 billion (2024 est.)<br>
 $63.43 billion (2023 est.)<br>
 $55.909 billion (2022 est.)<br>
-$48.954 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -495,7 +489,7 @@ cars, natural gas, garments, broadcasting equipment, packaged medicine (2023)<br
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$44.104 billion (2024 est.)<br>
+$50.728 billion (2024 est.)<br>
 $52.619 billion (2023 est.)<br>
 $52.462 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

@@ -68,7 +68,9 @@ _other_: 45% (2022 est.)<br>
 Zambezi (shared with Zambia [s]), Angola, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Orange river mouth (shared with Lesotho [s], and South Africa) - 2,092 km; Okavango (shared with Angola [s], and Botswana [m]) - 1,600 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
+_Atlantic Ocean drainage_: Orange (941,351 sq km)<br>
+_Indian Ocean drainage_: Zambezi (1,332,412 sq km)<br>
+_Internal (endorheic basin) drainage_: Okavango Basin (863,866 sq km)<br>
 
 **Major aquifers**<br>
 Lower Kalahari-Stampriet Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
@@ -394,25 +396,25 @@ _selected World Heritage Site locales_: Twyfelfontein or /Ui-//aes (c); Namib Sa
 upper middle-income, export-driven Sub-Saharan economy; natural resource rich; Walvis Bay port expansion for trade; high potential for renewable power generation and energy independence; major nature-based tourist locale; natural resource rich; shortage of skilled labor<br>
 
 **Real GDP (purchasing power parity)**<br>
-$29.944 billion (2023 est.)<br>
-$28.748 billion (2022 est.)<br>
-$27.288 billion (2021 est.)<br>
+$31.154 billion (2024 est.)<br>
+$30.039 billion (2023 est.)<br>
+$28.761 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.16% (2023 est.)<br>
-5.35% (2022 est.)<br>
-3.6% (2021 est.)<br>
+3.7% (2024 est.)<br>
+4.4% (2023 est.)<br>
+5.4% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$10,300 (2024 est.)<br>
 $10,100 (2023 est.)<br>
-$9,900 (2022 est.)<br>
-$9,700 (2021 est.)<br>
+$10,000 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$12.351 billion (2023 est.)<br>
+$13.372 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -422,18 +424,18 @@ $12.351 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 7.7% (2023 est.)<br>
-_industry_: 30% (2023 est.)<br>
-_services_: 53.4% (2023 est.)<br>
+_agriculture_: 7.3% (2024 est.)<br>
+_industry_: 28.9% (2024 est.)<br>
+_services_: 54.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 73.3% (2023 est.)<br>
-_government consumption_: 21.8% (2023 est.)<br>
-_investment in fixed capital_: 26.2% (2023 est.)<br>
-_investment in inventories_: 1.5% (2023 est.)<br>
-_exports of goods and services_: 43.4% (2023 est.)<br>
-_imports of goods and services_: -66.2% (2023 est.)<br>
+_household consumption_: 79.3% (2024 est.)<br>
+_government consumption_: 21.5% (2024 est.)<br>
+_investment in fixed capital_: 23.7% (2024 est.)<br>
+_investment in inventories_: 1.9% (2024 est.)<br>
+_exports of goods and services_: 41.6% (2024 est.)<br>
+_imports of goods and services_: -68% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -444,7 +446,7 @@ root vegetables, milk, maize, beef, grapes, onions, wheat, fruits, pulses, veget
 mining, tourism, fishing, agriculture<br>
 
 **Industrial production growth rate**<br>
-9.19% (2023 est.)<br>
+1% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -452,7 +454,7 @@ mining, tourism, fishing, agriculture<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-19.1% (2024 est.)<br>
+19.2% (2024 est.)<br>
 19.4% (2023 est.)<br>
 19.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -477,9 +479,9 @@ _highest 10%_: 47.2% (2015 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.71% of GDP (2023 est.)<br>
-0.66% of GDP (2022 est.)<br>
-0.58% of GDP (2021 est.)<br>
+1.1% of GDP (2024 est.)<br>
+1% of GDP (2023 est.)<br>
+0.7% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -492,19 +494,19 @@ _expenditures_: $4.535 billion (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-27.2% (of GDP) (2022 est.)<br>
+33% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.809 billion (2023 est.)<br>
--$1.611 billion (2022 est.)<br>
--$1.393 billion (2021 est.)<br>
+-$2.055 billion (2024 est.)<br>
+-$1.893 billion (2023 est.)<br>
+-$1.605 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$5.691 billion (2023 est.)<br>
+$5.887 billion (2024 est.)<br>
+$5.729 billion (2023 est.)<br>
 $5.361 billion (2022 est.)<br>
-$4.353 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -516,9 +518,9 @@ gold, diamonds, radioactive chemicals, fish, refined petroleum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$8.286 billion (2023 est.)<br>
-$7.424 billion (2022 est.)<br>
-$6.466 billion (2021 est.)<br>
+$9.199 billion (2024 est.)<br>
+$8.443 billion (2023 est.)<br>
+$7.43 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

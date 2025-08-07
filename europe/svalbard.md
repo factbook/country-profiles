@@ -159,11 +159,11 @@ high-income Norwegian island economy; major coal mining, tourism, and research s
 
 **Exchange rates**<br>
 _Currency_: Norwegian kroner (NOK) per US dollar -<br>
+10.746 (2024 est.)<br>
 10.563 (2023 est.)<br>
 9.614 (2022 est.)<br>
 8.59 (2021 est.)<br>
 9.416 (2020 est.)<br>
-8.8 (2019 est.)<br>
 
 ## Energy
 

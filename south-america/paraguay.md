@@ -65,7 +65,7 @@ _other_: 18.8% (2022 est.)<br>
 Río de la Plata/Paraná (shared with Brazil [s], Argentina, and Uruguay [m]) - 4,880 km; Paraguay river mouth (shared with Brazil [s] and Argentina) - 2,549 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
+_Atlantic Ocean drainage_: Paran&aacute; (2,582,704 sq km)<br>
 
 **Major aquifers**<br>
 Guarani Aquifer System<br>
@@ -357,7 +357,7 @@ _subordinate courts_: appellate courts; first instance courts; minor courts, inc
 Asociacion Nacional Republicana (National Republican Association) - Colorado Party or ANR<br>Avanza Pais coalition or AP<br>Frente Guasu (Broad Front coalition) or FG<br>GANAR Alliance (Great Renewed National Alliance) (alliance between PLRA and Guasú Front)<br>Movimiento Hagamos or MH<br>Movimiento Union Nacional de Ciudadanos Eticos (National Union of Ethical Citizens) or UNACE<br>Partido Cruzada Nacional (National Crusade Party) or PCN; note - formerly Movimiento Cruzada Nacional<br>Partido del Movimiento al Socialismo or P-MAS<br>Partido Democratica Progresista (Progressive Democratic Party) or PDP<br>Partido Encuentro Nacional or PEN<br>Partido Liberal Radical Autentico (Authentic Radical Liberal Party) or PLRA<br>Partido Pais Solidario or PPS<br>Partido Popular Tekojoja or PPT<br>Patria Querida (Beloved Fatherland Party) or PPQ<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador José Antonio DOS SANTOS BEDOYA (since 15 September 2021)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Oscar BAEZ Galeano (since 21 April 2025)<br>
 _chancery_: 2209 Massachusetts Avenue, NW, Washington DC&nbsp; 20008<br>
 _telephone_: [1] (202) 483-6960<br>
 _FAX_: [1] (202) 234-4508<br>
@@ -407,25 +407,25 @@ _selected World Heritage Site locales_: Jesuit Missions of La Sant&iacute;sima T
 upper middle-income South American economy; COVID-19 hit while still recovering from 2019 Argentina-driven recession; global hydroelectricity leader; major corruption and money-laundering locale; highly agrarian economy; significant income inequality<br>
 
 **Real GDP (purchasing power parity)**<br>
-$108.022 billion (2023 est.)<br>
+$112.919 billion (2024 est.)<br>
+$108.316 billion (2023 est.)<br>
 $103.159 billion (2022 est.)<br>
-$102.978 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.71% (2023 est.)<br>
-0.18% (2022 est.)<br>
-4.02% (2021 est.)<br>
+4.2% (2024 est.)<br>
+5% (2023 est.)<br>
+0.2% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$16,300 (2024 est.)<br>
 $15,800 (2023 est.)<br>
 $15,300 (2022 est.)<br>
-$15,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$42.956 billion (2023 est.)<br>
+$44.458 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -435,18 +435,18 @@ $42.956 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 11.3% (2023 est.)<br>
-_industry_: 32.4% (2023 est.)<br>
-_services_: 49% (2023 est.)<br>
+_agriculture_: 10.7% (2024 est.)<br>
+_industry_: 32.5% (2024 est.)<br>
+_services_: 48.7% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 66.3% (2023 est.)<br>
-_government consumption_: 12% (2023 est.)<br>
-_investment in fixed capital_: 20.6% (2023 est.)<br>
-_investment in inventories_: -0.9% (2023 est.)<br>
-_exports of goods and services_: 42.5% (2023 est.)<br>
-_imports of goods and services_: -40.4% (2023 est.)<br>
+_household consumption_: 67% (2024 est.)<br>
+_government consumption_: 12.6% (2024 est.)<br>
+_investment in fixed capital_: 21% (2024 est.)<br>
+_investment in inventories_: 1.8% (2024 est.)<br>
+_exports of goods and services_: 37.2% (2024 est.)<br>
+_imports of goods and services_: -39.6% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -457,7 +457,7 @@ soybeans, sugarcane, maize, cassava, wheat, rice, milk, beef, oranges, bananas (
 sugar processing, cement, textiles, beverages, wood products, steel, base metals, electric power<br>
 
 **Industrial production growth rate**<br>
-3.43% (2023 est.)<br>
+2.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -481,7 +481,7 @@ _female_: 18.8% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-45.1 (2022 est.)<br>
+44.4 (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -489,14 +489,14 @@ _on food_: 29.3% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 4.2% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.8% (2022 est.)<br>
-_highest 10%_: 35.4% (2022 est.)<br>
+_lowest 10%_: 1.8% (2023 est.)<br>
+_highest 10%_: 34.4% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.74% of GDP (2023 est.)<br>
-1.41% of GDP (2022 est.)<br>
-1.47% of GDP (2021 est.)<br>
+2% of GDP (2024 est.)<br>
+1.7% of GDP (2023 est.)<br>
+1.4% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -504,23 +504,20 @@ _revenues_: $7.148 billion (2022 est.)<br>
 _expenditures_: $6.937 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-19.5% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
-10.2% (of GDP) (2023 est.)<br>
+10.1% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$243.292 million (2023 est.)<br>
--$3.002 billion (2022 est.)<br>
--$442.843 million (2021 est.)<br>
+-$1.666 billion (2024 est.)<br>
+-$176.597 million (2023 est.)<br>
+-$2.948 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$17.395 billion (2024 est.)<br>
 $18.581 billion (2023 est.)<br>
 $14.971 billion (2022 est.)<br>
-$14.821 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -532,9 +529,9 @@ soybeans, beef, electricity, corn, soybean meal (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$17.904 billion (2023 est.)<br>
-$17.142 billion (2022 est.)<br>
-$14.316 billion (2021 est.)<br>
+$18.377 billion (2024 est.)<br>
+$17.848 billion (2023 est.)<br>
+$17.088 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

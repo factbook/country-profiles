@@ -288,9 +288,9 @@ $4.789 billion (2020 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--1.31% (2022 est.)<br>
-2.85% (2021 est.)<br>
--1.92% (2020 est.)<br>
+-1.3% (2022 est.)<br>
+3.7% (2021 est.)<br>
+-1.6% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
@@ -302,10 +302,6 @@ $45,100 (2020 est.)<br>
 **GDP (official exchange rate)**<br>
 $4.672 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
-
-**Inflation rate (consumer prices)**<br>
-1% (2016 est.)<br>
-2.6% (2015 est.)<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 68.9% (2022 est.)<br>
@@ -322,18 +318,14 @@ fruit, vegetables, sorghum; Senepol cattle<br>
 **Industries**<br>
 tourism, watch assembly, rum distilling, construction, pharmaceuticals, electronics<br>
 
-**Industrial production growth rate**<br>
-4.3% (2014 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
-
 **Labor force**<br>
-47,100 (2024 est.)<br>
+47,200 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-12% (2024 est.)<br>
-12.3% (2023 est.)<br>
-13% (2022 est.)<br>
+12.1% (2024 est.)<br>
+12.4% (2023 est.)<br>
+13.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -345,12 +337,6 @@ _female_: 28.9% (2024 est.)<br>
 **Budget**<br>
 _revenues_: $1.496 billion (2016 est.)<br>
 _expenditures_: $1.518 billion (2016 est.)<br>
-
-**Public debt**<br>
-53.3% of GDP (2016 est.)<br>
-
-**Taxes and other revenues**<br>
-28.9% (of GDP) (2016 est.)<br>
 
 **Exports**<br>
 $4.549 billion (2022 est.)<br>

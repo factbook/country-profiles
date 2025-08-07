@@ -68,7 +68,7 @@ _other_: 61.2% (2022 est.)<br>
 Senegal river mouth (shared with Guinea [s], Senegal and Mali) - 1,641 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
+_Atlantic Ocean drainage_: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
 
 **Major aquifers**<br>
 Senegalo-Mauritanian Basin, Taodeni-Tanzerouft Basin<br>
@@ -398,37 +398,37 @@ _selected World Heritage Site locales_: Ancient Ksour (Fortified Villages) of Ou
 lower middle-income West African economy; primarily agrarian; rising urbanization; poor property rights; systemic corruption; endemic social and workforce tensions; wide-scale terrorism; foreign over-fishing; environmentally fragile<br>
 
 **Real GDP (purchasing power parity)**<br>
+$33.069 billion (2024 est.)<br>
 $31.434 billion (2023 est.)<br>
 $29.514 billion (2022 est.)<br>
-$27.635 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-6.51% (2023 est.)<br>
+5.2% (2024 est.)<br>
+6.5% (2023 est.)<br>
 6.8% (2022 est.)<br>
-0.74% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$6,400 (2024 est.)<br>
 $6,300 (2023 est.)<br>
 $6,100 (2022 est.)<br>
-$5,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$10.652 billion (2023 est.)<br>
+$10.767 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.5% (2024 est.)<br>
 5% (2023 est.)<br>
 9.5% (2022 est.)<br>
-3.6% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 18.7% (2023 est.)<br>
-_industry_: 30.6% (2023 est.)<br>
-_services_: 43.8% (2023 est.)<br>
+_agriculture_: 18.6% (2024 est.)<br>
+_industry_: 30.6% (2024 est.)<br>
+_services_: 43.2% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -449,7 +449,7 @@ fish processing, oil production, mining (iron ore, gold, copper)<br>
 <strong>note:</strong> gypsum deposits have never been exploited<br>
 
 **Industrial production growth rate**<br>
-5.82% (2023 est.)<br>
+2.8% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -458,8 +458,8 @@ fish processing, oil production, mining (iron ore, gold, copper)<br>
 
 **Unemployment rate**<br>
 10.4% (2024 est.)<br>
-10.4% (2023 est.)<br>
-10.5% (2022 est.)<br>
+10.5% (2023 est.)<br>
+10.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -482,20 +482,14 @@ _highest 10%_: 24.6% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.57% of GDP (2023 est.)<br>
-1.14% of GDP (2022 est.)<br>
-0.14% of GDP (2021 est.)<br>
+1.6% of GDP (2023 est.)<br>
+1.1% of GDP (2022 est.)<br>
+0.1% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.617 billion (2019 est.)<br>
 _expenditures_: $1.407 billion (2019 est.)<br>
-
-**Public debt**<br>
-96.6% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-27.4% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
 -$966.506 million (2023 est.)<br>

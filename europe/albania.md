@@ -66,7 +66,7 @@ _other_: 29.8% (2022 est.)<br>
 _fresh water lake(s)_: Lake Scutari (shared with Montenegro) - 400 sq km<br>note - largest lake in the Balkans<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+_Atlantic Ocean drainage_: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
 a fairly even distribution, with somewhat higher concentrations of people in the western and central parts of the country<br>
@@ -397,25 +397,25 @@ _selected World Heritage Site locales_: Butrint (c); Historic Berat and Gjirokas
 <p>upper-middle-income Balkan economy; EU accession candidate; growth bolstered by tourism, agriculture, mining, construction, and private consumption; fiscal consolidation through revenue collection and tax compliance enhancements to address public debt; challenges include weak governance, corruption, and high emigration rates</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$50.098 billion (2023 est.)<br>
-$48.201 billion (2022 est.)<br>
-$45.981 billion (2021 est.)<br>
+$51.36 billion (2024 est.)<br>
+$49.403 billion (2023 est.)<br>
+$47.532 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.94% (2023 est.)<br>
-4.83% (2022 est.)<br>
-8.91% (2021 est.)<br>
+4% (2024 est.)<br>
+3.9% (2023 est.)<br>
+4.8% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$18,200 (2023 est.)<br>
-$17,400 (2022 est.)<br>
-$16,400 (2021 est.)<br>
+$18,900 (2024 est.)<br>
+$18,000 (2023 est.)<br>
+$17,100 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$23.547 billion (2023 est.)<br>
+$27.178 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -425,9 +425,9 @@ $23.547 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 16.2% (2023 est.)<br>
-_industry_: 23% (2023 est.)<br>
-_services_: 48% (2023 est.)<br>
+_agriculture_: 15.5% (2024 est.)<br>
+_industry_: 22.4% (2024 est.)<br>
+_services_: 48.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -447,17 +447,17 @@ milk, maize, tomatoes, watermelons, potatoes, wheat, grapes, onions, cucumbers/g
 food; footwear, apparel and clothing; lumber, oil, cement, chemicals, mining, basic metals, hydropower<br>
 
 **Industrial production growth rate**<br>
-3.08% (2023 est.)<br>
+-0.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.375 million (2024 est.)<br>
+1.37 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-10.2% (2024 est.)<br>
-10.1% (2023 est.)<br>
-10.1% (2022 est.)<br>
+10.3% (2024 est.)<br>
+10.2% (2023 est.)<br>
+10.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -480,9 +480,9 @@ _highest 10%_: 22.8% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-8.65% of GDP (2023 est.)<br>
-9.18% of GDP (2022 est.)<br>
-9.53% of GDP (2021 est.)<br>
+8.4% of GDP (2024 est.)<br>
+8.6% of GDP (2023 est.)<br>
+9.2% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -499,15 +499,15 @@ _expenditures_: $4.4 billion (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$646.107 million (2024 est.)<br>
 -$281.7 million (2023 est.)<br>
 -$1.117 billion (2022 est.)<br>
--$1.37 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$9.848 billion (2024 est.)<br>
 $9.099 billion (2023 est.)<br>
 $7.057 billion (2022 est.)<br>
-$5.612 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -519,9 +519,9 @@ garments, footwear, electricity, crude petroleum, iron alloys (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$11.697 billion (2024 est.)<br>
 $10.374 billion (2023 est.)<br>
 $9.016 billion (2022 est.)<br>
-$8.004 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -533,9 +533,9 @@ cars, refined petroleum, garments, packaged medicine, iron bars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$6.516 billion (2024 est.)<br>
 $6.455 billion (2023 est.)<br>
 $5.266 billion (2022 est.)<br>
-$5.635 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>

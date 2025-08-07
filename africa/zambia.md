@@ -68,7 +68,8 @@ _fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo
 <p>Congo river source (shared with Angola, Republic of Congo, and Democratic Republic of Congo [m]) - 4,700 km; Zambezi river source (shared with Angola, Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
+_Atlantic Ocean drainage_: Congo (3,730,881 sq km)<br>
+_Indian Ocean drainage_: Zambezi (1,332,412 sq km)<br>
 
 **Major aquifers**<br>
 Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
@@ -388,37 +389,37 @@ _selected World Heritage Site locales_: Mosi-oa-Tunya/Victoria Falls<br>
 <p>lower-middle-income sub-Saharan economy; regional hydroelectricity producer; trade ties and infrastructure investments from China; IMF assistance to restructure debt burden; one of youngest and fastest-growing labor forces; systemic corruption; extreme rural poverty</p><br>
 
 **Real GDP (purchasing power parity)**<br>
+$79.207 billion (2024 est.)<br>
 $76.129 billion (2023 est.)<br>
 $72.251 billion (2022 est.)<br>
-$68.672 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.37% (2023 est.)<br>
-5.25% (2022 est.)<br>
-6.23% (2021 est.)<br>
+4% (2024 est.)<br>
+5.4% (2023 est.)<br>
+5.2% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$3,700 (2024 est.)<br>
 $3,700 (2023 est.)<br>
 $3,600 (2022 est.)<br>
-$3,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$27.578 billion (2023 est.)<br>
+$26.326 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+15% (2024 est.)<br>
 10.9% (2023 est.)<br>
 11% (2022 est.)<br>
-22% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.2% (2023 est.)<br>
-_industry_: 35.1% (2023 est.)<br>
-_services_: 56.8% (2023 est.)<br>
+_agriculture_: 1.8% (2024 est.)<br>
+_industry_: 37.5% (2024 est.)<br>
+_services_: 55.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -438,7 +439,7 @@ sugarcane, cassava, maize, soybeans, milk, vegetables, wheat, groundnuts, sweet 
 copper mining and processing, emerald mining, construction, foodstuffs, beverages, chemicals, textiles, fertilizer, horticulture<br>
 
 **Industrial production growth rate**<br>
-0.87% (2023 est.)<br>
+3.5% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -447,7 +448,7 @@ copper mining and processing, emerald mining, construction, foodstuffs, beverage
 
 **Unemployment rate**<br>
 6% (2024 est.)<br>
-5.9% (2023 est.)<br>
+6% (2023 est.)<br>
 6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -471,9 +472,9 @@ _highest 10%_: 39.1% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.89% of GDP (2023 est.)<br>
-0.83% of GDP (2022 est.)<br>
-1.08% of GDP (2021 est.)<br>
+0.9% of GDP (2023 est.)<br>
+0.8% of GDP (2022 est.)<br>
+1.1% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>

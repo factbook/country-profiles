@@ -273,15 +273,9 @@ coconuts, root vegetables, tropical fruits, pork, bananas, eggs, chicken (2023)<
 **Industries**<br>
 small-scale enterprises for copra production, woodworking, plaited craft goods; stamps, coins; fishing<br>
 
-**Labor force**<br>
-1,100 (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $24,324,473 (2017 est.)<br>
 _expenditures_: $11,666,542 (2017 est.)<br>
-
-**Exports**<br>
-$103,000 (2015 est.)<br>
 
 **Exports - partners**<br>
 Czechia 92%, Singapore 2%, Brazil 1%, South Africa 1%, Sri Lanka 1% (2023)<br>
@@ -290,9 +284,6 @@ Czechia 92%, Singapore 2%, Brazil 1%, South Africa 1%, Sri Lanka 1% (2023)<br>
 **Exports - commodities**<br>
 cars, telephones, garments, iron fasteners, fabric (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
-
-**Imports**<br>
-$15,792,720 (2015 est.)<br>
 
 **Imports - partners**<br>
 Samoa 31%, Italy 23%, France 21%, Netherlands 16%, Germany 2% (2023)<br>
@@ -304,11 +295,11 @@ integrated circuits, stone processing machines, refined petroleum, gas turbines,
 
 **Exchange rates**<br>
 _Currency_: New Zealand dollars (NZD) per US dollar -<br>
+1.652 (2024 est.)<br>
 1.628 (2023 est.)<br>
 1.577 (2022 est.)<br>
 1.414 (2021 est.)<br>
 1.542 (2020 est.)<br>
-1.518 (2019 est.)<br>
 
 ## Energy
 

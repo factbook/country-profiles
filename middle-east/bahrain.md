@@ -388,25 +388,25 @@ _selected World Heritage Site locales_: Dilmun Burial Mounds; Qal'at al-Bahrain 
 <p>high-income, growing Middle Eastern island economy; oil and aluminum exporter with diversification led by services, construction and manufacturing; regional finance and tourism hub; high public debt linked to oil revenue dependence and limited tax base; vulnerable to water reservoir depletion</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$90.228 billion (2023 est.)<br>
-$87.617 billion (2022 est.)<br>
-$82.672 billion (2021 est.)<br>
+$93.937 billion (2024 est.)<br>
+$91.185 billion (2023 est.)<br>
+$87.781 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.98% (2023 est.)<br>
-5.98% (2022 est.)<br>
-2.59% (2021 est.)<br>
+3% (2024 est.)<br>
+3.9% (2023 est.)<br>
+6.2% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$57,200 (2023 est.)<br>
-$57,500 (2022 est.)<br>
-$55,000 (2021 est.)<br>
+$59,100 (2024 est.)<br>
+$57,800 (2023 est.)<br>
+$57,600 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$46.08 billion (2023 est.)<br>
+$47.737 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -417,17 +417,17 @@ $46.08 billion (2023 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.3% (2023 est.)<br>
-_industry_: 44% (2023 est.)<br>
-_services_: 51.8% (2023 est.)<br>
+_industry_: 43.4% (2023 est.)<br>
+_services_: 51.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 39.1% (2023 est.)<br>
+_household consumption_: 38.9% (2023 est.)<br>
 _government consumption_: 14.6% (2023 est.)<br>
-_investment in fixed capital_: 27.6% (2023 est.)<br>
-_investment in inventories_: 1.4% (2023 est.)<br>
-_exports of goods and services_: 87.6% (2023 est.)<br>
-_imports of goods and services_: -70.3% (2023 est.)<br>
+_investment in fixed capital_: 27.5% (2023 est.)<br>
+_investment in inventories_: 1.8% (2023 est.)<br>
+_exports of goods and services_: 87.4% (2023 est.)<br>
+_imports of goods and services_: -70.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -438,17 +438,17 @@ lamb/mutton, dates, milk, tomatoes, chicken, eggs, sheep offal, sheepskins, eggp
 petroleum processing and refining, aluminum smelting, iron pelletization, fertilizers, Islamic and offshore banking, insurance, ship repairing, tourism<br>
 
 **Industrial production growth rate**<br>
--0.35% (2023 est.)<br>
+0.1% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-928,800 (2024 est.)<br>
+913,300 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.1% (2024 est.)<br>
+1.2% (2024 est.)<br>
 1.2% (2023 est.)<br>
-1.3% (2022 est.)<br>
+1.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -465,6 +465,7 @@ _on alcohol and tobacco_: 0.4% of household expenditures (2023 est.)<br>
 0% of GDP (2023 est.)<br>
 0% of GDP (2022 est.)<br>
 0% of GDP (2021 est.)<br>
+<strong>note:</strong> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $5.538 billion (2020 est.)<br>
@@ -473,21 +474,22 @@ _expenditures_: $9.357 billion (2020 est.)<br>
 
 **Public debt**<br>
 111.6% of GDP (2020 est.)<br>
+<strong data-olk-copy-source="MessageBody">note:</strong> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 2.8% (of GDP) (2020 est.)<br>
 <strong>note:</strong> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$2.282 billion (2024 est.)<br>
 $2.699 billion (2023 est.)<br>
 $6.839 billion (2022 est.)<br>
-$2.602 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$41.303 billion (2024 est.)<br>
 $40.344 billion (2023 est.)<br>
 $44.58 billion (2022 est.)<br>
-$35.653 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -499,9 +501,9 @@ refined petroleum, aluminum, iron ore, aluminum wire, jewelry (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$33.044 billion (2024 est.)<br>
 $32.374 billion (2023 est.)<br>
 $33.066 billion (2022 est.)<br>
-$27.996 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -513,9 +515,9 @@ iron ore, aluminum oxide, ships, cars, gold (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$4.949 billion (2024 est.)<br>
 $5.118 billion (2023 est.)<br>
 $4.775 billion (2022 est.)<br>
-$4.993 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>

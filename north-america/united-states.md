@@ -52,7 +52,7 @@ vast central plain, mountains in west, hills and low mountains in east; rugged m
 _highest point_: Mount McKinley 6,190 m (highest point in North America)<br>
 _lowest point_: Death Valley (lowest point in North America) -86 m<br>
 _mean elevation_: 760 m<br>
-<strong>note: </strong>Mount McKinley is one of the most striking features on the entire planet; at 20,310 feet, it is the crowning peak of the Alaska Range and the highest mountain on North America; it towers three and one-half vertical miles above its base, making it a mile taller from base to summit than Mt. Everest; McKinley's base sits at about 2,000 feet above sea level and rises over three and one-half miles to its 20,310 foot summit; Everest begins on a 14,000-foot high plain, then summits at 29,028 feet.<strong><br>note:</strong> the peak of Mauna Kea (4,207 m above sea level) on the island of Hawaii rises about 10,200 m above the Pacific Ocean floor; by this measurement, it is the world's tallest mountain -- higher than Mount Everest (8,850 m), which is recognized as the tallest mountain above sea level<br>
+<strong>note 1: </strong>Mount McKinley is one of the most striking features on the entire planet; at 20,310 feet, it is the crowning peak of the Alaska Range and the highest mountain on North America; it towers three and one-half vertical miles above its base, making it a mile taller from base to summit than Mt. Everest; McKinley's base sits at about 2,000 feet above sea level and rises over three and one-half miles to its 20,310 foot summit; Everest begins on a 14,000-foot high plain, then summits at 29,028 feet<strong><br><br>note 2:</strong> the peak of Mauna Kea (4,207 m above sea level) on the island of Hawaii rises about 10,200 m above the Pacific Ocean floor; by this measurement, it is the world's tallest mountain -- higher than Mount Everest (8,850 m), which is recognized as the tallest mountain above sea level<br>
 
 **Natural resources**<br>
 coal, copper, lead, molybdenum, phosphates, rare earth elements, uranium, bauxite, gold, iron, mercury, nickel, potash, silver, tungsten, zinc, petroleum, natural gas, timber, arable land<br>
@@ -77,7 +77,9 @@ _salt water lake(s)_: Great Salt &ndash; 4,360 sq km; Pontchartrain &ndash; 1,62
 <p>Missouri - 3,768 km; Mississippi - 3,544 km; Yukon river mouth (shared with Canada [s]) - 3,190 km; Saint Lawrence (shared with Canada) - 3,058 km; Rio Grande river source (mouth shared with Mexico) - 3,057 km; Colorado river source (shared with Mexico [m]) - 2,333 km; Arkansas - 2,348 km; Columbia river mouth (shared with Canada [s]) - 2,250 km; Red - 2,188 km; Ohio - 2,102 km); Snake - 1,670 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Gulf of America) </em>Mississippi* (3,202,185 sq km); Rio Grande (607,965 sq km); <em>(Gulf of Saint Lawrence)</em> Saint Lawrence* (1,049,636 sq km total, US only 505,000 sq km)<br>Pacific Ocean drainage: Yukon* (847,620 sq km, US only 23,820 sq km); Colorado (703,148 sq km); Columbia* (657,501 sq km, US only 554,501 sq km)<br>note - watersheds shared with Canada shown with *<br>
+_Atlantic Ocean drainage_: <em>(Gulf of America) </em>Mississippi* (3,202,185 sq km); Rio Grande (607,965 sq km); <em>(Gulf of Saint Lawrence)</em> Saint Lawrence* (1,049,636 sq km total, US only 505,000 sq km)<br>
+_Pacific Ocean drainage_: Yukon* (847,620 sq km, US only 23,820 sq km); Colorado (703,148 sq km); Columbia* (657,501 sq km, US only 554,501 sq km)<br>
+<strong>note:</strong> watersheds shared with Canada shown with *<br>
 
 **Major aquifers**<br>
 Northern Great Plains Aquifer, Cambrian-Ordovician Aquifer System, Californian Central Valley Aquifer System, Ogallala Aquifer (High Plains), Atlantic and Gulf Coastal Plains Aquifer<br>
@@ -350,7 +352,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 2 years<br>
 _most recent election date_: 11/5/2024<br>
 _parties elected and seats per party_: Republican Party (220); Democratic Party (215)<br>
-_percentage of women in chamber_: 28.9%<br>
+_percentage of women in chamber_: 29%<br>
 _expected date of next election_: November 2026<br>
 
 **Legislative branch - upper chamber**<br>
@@ -407,25 +409,25 @@ _selected World Heritage Site locales_: Yellowstone National Park (n); Grand Can
 <p>world’s largest economy by nominal GDP; largest importer and second-largest exporter; home to leading financial exchanges and global reserve currency; high and growing public debt; inflation moderating but remains above pre-pandemic levels</p><br>
 
 **Real GDP (purchasing power parity)**<br>
+$25.676 trillion (2024 est.)<br>
 $24.977 trillion (2023 est.)<br>
 $24.276 trillion (2022 est.)<br>
-$23.681 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.89% (2023 est.)<br>
-2.51% (2022 est.)<br>
-5.8% (2021 est.)<br>
+2.8% (2024 est.)<br>
+2.9% (2023 est.)<br>
+2.5% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$74,600 (2023 est.)<br>
-$72,800 (2022 est.)<br>
-$71,300 (2021 est.)<br>
+$75,500 (2024 est.)<br>
+$74,200 (2023 est.)<br>
+$72,700 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$27.721 trillion (2023 est.)<br>
+$29.185 trillion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -435,18 +437,18 @@ $27.721 trillion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.9% (2021 est.)<br>
-_industry_: 17.6% (2021 est.)<br>
-_services_: 76.4% (2021 est.)<br>
+_agriculture_: 0.9% (2024 est.)<br>
+_industry_: 17.3% (2024 est.)<br>
+_services_: 79.7% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 67.9% (2023 est.)<br>
-_government consumption_: 13.4% (2023 est.)<br>
-_investment in fixed capital_: 21.4% (2023 est.)<br>
-_investment in inventories_: 0.2% (2023 est.)<br>
-_exports of goods and services_: 11% (2023 est.)<br>
-_imports of goods and services_: -13.9% (2023 est.)<br>
+_household consumption_: 67.9% (2024 est.)<br>
+_government consumption_: 13.4% (2024 est.)<br>
+_investment in fixed capital_: 21.6% (2024 est.)<br>
+_investment in inventories_: 0.1% (2024 est.)<br>
+_exports of goods and services_: 10.9% (2024 est.)<br>
+_imports of goods and services_: -14% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -461,13 +463,13 @@ highly diversified, world leading, high-technology innovator, second-largest ind
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-172.436 million (2024 est.)<br>
+174.174 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.1% (2024 est.)<br>
-3.6% (2023 est.)<br>
-3.6% (2022 est.)<br>
+4.2% (2024 est.)<br>
+3.7% (2023 est.)<br>
+3.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -477,7 +479,7 @@ _female_: 8.3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-41.3 (2022 est.)<br>
+41.8 (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -485,14 +487,14 @@ _on food_: 6.8% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 1.9% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.8% (2022 est.)<br>
-_highest 10%_: 30.2% (2022 est.)<br>
+_lowest 10%_: 1.8% (2023 est.)<br>
+_highest 10%_: 30.4% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.03% of GDP (2023 est.)<br>
-0.03% of GDP (2022 est.)<br>
-0.03% of GDP (2021 est.)<br>
+0% of GDP (2024 est.)<br>
+0% of GDP (2023 est.)<br>
+0% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -509,15 +511,15 @@ _expenditures_: $6.306 trillion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$1.134 trillion (2024 est.)<br>
 -$905.378 billion (2023 est.)<br>
 -$1.012 trillion (2022 est.)<br>
--$867.984 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$3.191 trillion (2024 est.)<br>
 $3.072 trillion (2023 est.)<br>
 $3.039 trillion (2022 est.)<br>
-$2.571 trillion (2021 est.)<br>
 <strong>note:</strong> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -529,9 +531,9 @@ crude petroleum, refined petroleum, natural gas, gas turbines, cars (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$4.108 trillion (2024 est.)<br>
 $3.857 trillion (2023 est.)<br>
 $3.984 trillion (2022 est.)<br>
-$3.419 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -543,7 +545,7 @@ cars, crude petroleum, broadcasting equipment, computers, garments (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$227.76 billion (2024 est.)<br>
+$910.037 billion (2024 est.)<br>
 $773.426 billion (2023 est.)<br>
 $706.644 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

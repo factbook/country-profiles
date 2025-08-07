@@ -310,7 +310,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Gitanas NAUSEDA (since 12 July 2019)<br>
-_head of government_: Prime Minister Gintautas PALUCKAS (since 12 December 2024)<br>
+_head of government_: Acting Prime Minister Rimantas SADZIUS (since 4 August 2025)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the president, approved by Parliament<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister appointed by the president, approved by Parliament<br>
 _most recent election date_: 26 May 2024<br>
@@ -338,7 +338,7 @@ _subordinate courts_: Court of Appeals; district and local courts<br>
 Dawn of Nemunas or NA<br>Electoral Action of Poles in Lithuania or LLRA–KŠS<br>Freedom and Justice Party or LT (formerly Lithuanian Freedom Union (Liberals))<br>Freedom Party or LP<br>Homeland Union-Lithuanian Christian Democrats or TS-LKD<br>Labour Party or DP<br>Lithuanian Center Party or LCP<br>Lithuanian Christian Democracy Party or LKDP<br>Lithuanian Farmers and Greens Union or LVZS<br>Lithuanian Green Party or LZP<br>Liberals' Movement or LRLS<br>Lithuanian List or LL<br>Lithuanian Regions Party or LRP<br>Social Democratic Party of Lithuania or LSDP<br>Union of Democrats for Lithuania or DSVL<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Audra PLEPYTĖ (since 7 July 2021)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Jurate USEVIČIŪTĖ (since 14 July 2025)<br>
 _chancery_: 2622 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 234-5860<br>
 _FAX_: [1] (202) 328-0466<br>
@@ -387,25 +387,25 @@ _selected World Heritage Site locales_: Vilnius Historic Center; Curonian Spit; 
 <p>high-income EU and eurozone member, largest Baltic economy; recovery supported by private consumption and EU fund-driven investments; structural challenges include pension reform, aging workforce, and high energy-import costs</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$134.219 billion (2023 est.)<br>
-$133.761 billion (2022 est.)<br>
-$130.451 billion (2021 est.)<br>
+$136.227 billion (2024 est.)<br>
+$132.552 billion (2023 est.)<br>
+$132.099 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.34% (2023 est.)<br>
-2.54% (2022 est.)<br>
-6.28% (2021 est.)<br>
+2.8% (2024 est.)<br>
+0.3% (2023 est.)<br>
+2.5% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$46,700 (2023 est.)<br>
-$47,200 (2022 est.)<br>
-$46,600 (2021 est.)<br>
+$47,200 (2024 est.)<br>
+$46,200 (2023 est.)<br>
+$46,700 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$79.79 billion (2023 est.)<br>
+$84.869 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -415,16 +415,16 @@ $79.79 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.7% (2023 est.)<br>
-_industry_: 24.2% (2023 est.)<br>
-_services_: 63.1% (2023 est.)<br>
+_agriculture_: 2.6% (2024 est.)<br>
+_industry_: 23.4% (2024 est.)<br>
+_services_: 63.6% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 57.3% (2023 est.)<br>
 _government consumption_: 17.3% (2023 est.)<br>
 _investment in fixed capital_: 23.7% (2023 est.)<br>
-_investment in inventories_: -1.7% (2023 est.)<br>
+_investment in inventories_: -1.8% (2023 est.)<br>
 _exports of goods and services_: 76.5% (2023 est.)<br>
 _imports of goods and services_: -72.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -437,16 +437,16 @@ wheat, milk, sugar beets, rapeseed, barley, potatoes, triticale, oats, beans, pe
 metal-cutting machine tools, electric motors, televisions, refrigerators and freezers, petroleum refining, shipbuilding (small ships), furniture, textiles, food processing, fertilizer, agricultural machinery, optical equipment, lasers, electronic components, computers, amber jewelry, information technology, video game development, app/software development, biotechnology<br>
 
 **Industrial production growth rate**<br>
--1.39% (2023 est.)<br>
+3.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.53 million (2024 est.)<br>
+1.548 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.5% (2024 est.)<br>
-6.8% (2023 est.)<br>
+7.6% (2024 est.)<br>
+6.9% (2023 est.)<br>
 6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -461,7 +461,7 @@ _female_: 11.7% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-36.7 (2021 est.)<br>
+36.6 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -469,14 +469,14 @@ _on food_: 19.4% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 5.5% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.6% (2021 est.)<br>
-_highest 10%_: 29.1% (2021 est.)<br>
+_lowest 10%_: 2.5% (2022 est.)<br>
+_highest 10%_: 28.7% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.22% of GDP (2023 est.)<br>
-1.04% of GDP (2022 est.)<br>
-1.16% of GDP (2021 est.)<br>
+1.2% of GDP (2024 est.)<br>
+1.2% of GDP (2023 est.)<br>
+1% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -493,15 +493,15 @@ _expenditures_: $24.219 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$2.101 billion (2024 est.)<br>
 $878.388 million (2023 est.)<br>
 -$4.322 billion (2022 est.)<br>
-$985.051 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$62.896 billion (2024 est.)<br>
 $61.02 billion (2023 est.)<br>
 $61.448 billion (2022 est.)<br>
-$53.297 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -513,9 +513,9 @@ refined petroleum, furniture, plastic products, wheat, cars (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$58.491 billion (2024 est.)<br>
 $57.899 billion (2023 est.)<br>
 $62.916 billion (2022 est.)<br>
-$50.295 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -527,7 +527,7 @@ crude petroleum, cars, natural gas, packaged medicine, plastic products (2023)<b
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$6.92 billion (2024 est.)<br>
+$7.406 billion (2024 est.)<br>
 $6.168 billion (2023 est.)<br>
 $5.365 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

@@ -251,6 +251,10 @@ _agricultural_: 6.61 billion cubic meters (2020 est.)<br>
 **Total renewable water resources**<br>
 77.15 billion cubic meters (2020 est.)<br>
 
+**Geoparks**<br>
+_total global geoparks and regional networks_: 1 (2025)<br>
+_global geoparks and regional networks_: Mt Paektu (2025)<br>
+
 ## Government
 
 **Country name**<br>
@@ -366,26 +370,8 @@ one of the last centrally planned economies; hard hit by COVID-19, crop failures
 $40 billion (2015 est.)<br>
 <strong>note: </strong>data are in 2015 dollars<br><br>North Korea does not publish reliable National Income Accounts data; the data shown are derived from purchasing power parity (PPP) GDP estimates that were made by Angus MADDISON in a study conducted for the OECD; his figure for 1999 was extrapolated to 2015 using estimated real growth rates for North Korea's GDP and an inflation factor based on the US GDP deflator; the results were rounded to the nearest $10 billion.<br>
 
-**Real GDP growth rate**<br>
--1.1% (2015 est.)<br>
-1% (2014 est.)<br>
-
-**Real GDP per capita**<br>
-$1,700 (2015 est.)<br>
-$1,800 (2014 est.)<br>
-<strong>note:</strong> data are in 2015 US dollars<br>
-
 **GDP (official exchange rate)**<br>
 $28 billion (2013 est.)<br>
-
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 22.5% (2017 est.)<br>
-_industry_: 47.6% (2017 est.)<br>
-_services_: 29.9% (2017 est.)<br>
-
-**GDP - composition, by end use**<br>
-_exports of goods and services_: 5.9% (2016 est.)<br>
-_imports of goods and services_: -11.1% (2016 est.)<br>
 
 **Agricultural products**<br>
 maize, vegetables, rice, apples, cabbages, fruits, sweet potatoes, potatoes, beans, soybeans (2023)<br>
@@ -394,18 +380,14 @@ maize, vegetables, rice, apples, cabbages, fruits, sweet potatoes, potatoes, bea
 **Industries**<br>
 military products; machine building, electric power, chemicals; mining (coal, iron ore, limestone, magnesite, graphite, copper, zinc, lead, and precious metals), metallurgy; textiles, food processing; tourism<br>
 
-**Industrial production growth rate**<br>
-4.3% (2014 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
-
 **Labor force**<br>
 17.637 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 2.9% (2024 est.)<br>
-2.8% (2023 est.)<br>
-2.8% (2022 est.)<br>
+2.9% (2023 est.)<br>
+2.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -414,11 +396,6 @@ _male_: 6.1% (2024 est.)<br>
 _female_: 7.4% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Exports**<br>
-$222 million (2018)<br>
-$4.582 billion (2017 est.)<br>
-$2.908 billion (2015 est.)<br>
-
 **Exports - partners**<br>
 China 74%, Poland 3%, Senegal 3%, Angola 3%, Austria 3% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
@@ -426,10 +403,6 @@ China 74%, Poland 3%, Senegal 3%, Angola 3%, Austria 3% (2023)<br>
 **Exports - commodities**<br>
 fake hair, iron alloys, tungsten ore, electricity, cars (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
-
-**Imports**<br>
-$2.32 billion (2018 est.)<br>
-$3.86 billion (2016 est.)<br>
 
 **Imports - partners**<br>
 China 97%, Togo 1%, Peru 1%, Gabon 1%, India 0% (2023)<br>

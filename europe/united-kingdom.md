@@ -265,8 +265,8 @@ _agricultural_: 1.18 billion cubic meters (2020 est.)<br>
 147 billion cubic meters (2020 est.)<br>
 
 **Geoparks**<br>
-_total global geoparks and regional networks_: 9<br>
-_global geoparks and regional networks_: Black Country; Cuilcagh Lakelands (includes Ireland); English Riviera; Fforest Fawr; GeoM&ocirc;n; Mourne Gullion Strangford; North Pennines AONB; North-West Highlands; Shetland (2023)<br>
+_total global geoparks and regional networks_: 10 (2025)<br>
+_global geoparks and regional networks_: Arran; Black Country; Cuilcagh Lakelands (includes Ireland); English Riviera; Fforest Fawr; GeoM&ocirc;n; Mourne Gullion Strangford; North Pennines AONB; North-West Highlands; Shetland (2025)<br>
 
 ## Government
 
@@ -399,25 +399,25 @@ _selected World Heritage Site locales_: Giant's Causeway and Causeway Coast (n);
 <p>high-income, non-EU European economy; global financial center and dominant service sector; sluggish growth from stringent monetary policy, reduced business investment, low productivity and participation rates; fiscal austerity in face of high public debt </p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.728 trillion (2023 est.)<br>
-$3.715 trillion (2022 est.)<br>
-$3.544 trillion (2021 est.)<br>
+$3.636 trillion (2024 est.)<br>
+$3.596 trillion (2023 est.)<br>
+$3.582 trillion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.34% (2023 est.)<br>
-4.84% (2022 est.)<br>
-8.67% (2021 est.)<br>
+1.1% (2024 est.)<br>
+0.4% (2023 est.)<br>
+4.8% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$54,500 (2023 est.)<br>
-$54,800 (2022 est.)<br>
-$52,900 (2021 est.)<br>
+$52,500 (2024 est.)<br>
+$52,500 (2023 est.)<br>
+$53,000 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.381 trillion (2023 est.)<br>
+$3.644 trillion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -427,18 +427,18 @@ $3.381 trillion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.6% (2023 est.)<br>
-_industry_: 17.5% (2023 est.)<br>
-_services_: 72.5% (2023 est.)<br>
+_agriculture_: 0.6% (2024 est.)<br>
+_industry_: 16.7% (2024 est.)<br>
+_services_: 72.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 61.1% (2023 est.)<br>
+_household consumption_: 61.3% (2023 est.)<br>
 _government consumption_: 20.5% (2023 est.)<br>
 _investment in fixed capital_: 17.6% (2023 est.)<br>
 _investment in inventories_: -0.4% (2023 est.)<br>
-_exports of goods and services_: 31.7% (2023 est.)<br>
-_imports of goods and services_: -32.2% (2023 est.)<br>
+_exports of goods and services_: 32% (2023 est.)<br>
+_imports of goods and services_: -33.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -449,17 +449,17 @@ milk, wheat, sugar beets, barley, potatoes, chicken, rapeseed, pork, beef, oats 
 machine tools, electric power equipment, automation equipment, railroad equipment, shipbuilding, aircraft, motor vehicles and parts, electronics and communications equipment, metals, chemicals, coal, petroleum, paper and paper products, food processing, textiles, clothing, other consumer goods<br>
 
 **Industrial production growth rate**<br>
--0.07% (2023 est.)<br>
+-0.5% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-35.126 million (2024 est.)<br>
+35.359 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.1% (2024 est.)<br>
+4.2% (2024 est.)<br>
 4% (2023 est.)<br>
-3.7% (2022 est.)<br>
+3.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -486,9 +486,9 @@ _highest 10%_: 24.6% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.13% of GDP (2023 est.)<br>
-0.13% of GDP (2022 est.)<br>
-0.11% of GDP (2021 est.)<br>
+0.1% of GDP (2024 est.)<br>
+0.1% of GDP (2023 est.)<br>
+0.1% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -497,23 +497,23 @@ _expenditures_: $1.291 trillion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-138.2% of GDP (2023 est.)<br>
+138.6% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-27.3% (of GDP) (2023 est.)<br>
+27.4% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$74.863 billion (2023 est.)<br>
+-$96.634 billion (2024 est.)<br>
+-$118.354 billion (2023 est.)<br>
 -$70.962 billion (2022 est.)<br>
--$13.852 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$1.05 trillion (2023 est.)<br>
+$1.117 trillion (2024 est.)<br>
+$1.078 trillion (2023 est.)<br>
 $1.041 trillion (2022 est.)<br>
-$916.573 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -525,9 +525,9 @@ cars, gold, gas turbines, packaged medicine, crude petroleum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.076 trillion (2023 est.)<br>
+$1.158 trillion (2024 est.)<br>
+$1.114 trillion (2023 est.)<br>
 $1.1 trillion (2022 est.)<br>
-$923.549 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -539,7 +539,7 @@ cars, gold, crude petroleum, refined petroleum, natural gas (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$148.569 billion (2024 est.)<br>
+$174.598 billion (2024 est.)<br>
 $177.915 billion (2023 est.)<br>
 $176.41 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

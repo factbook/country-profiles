@@ -269,8 +269,8 @@ _agricultural_: 15.96 billion cubic meters (2020 est.)<br>
 69.7 billion cubic meters (2020 est.)<br>
 
 **Geoparks**<br>
-_total global geoparks and regional networks_: 5<br>
-_global geoparks and regional networks_: Cheongsong; Hantangang; Jeju Island; Jeonbuk West Coast; Mudeungsan (2023)<br>
+_total global geoparks and regional networks_: 7 (2025)<br>
+_global geoparks and regional networks_: Cheongsong; Danyang; Gyeongbuk Donghaean; Hantangang; Jeju Island; Jeonbuk West Coast; Mudeungsan (2025)<br>
 
 ## Government
 
@@ -345,7 +345,7 @@ _subordinate courts_: High Courts; District Courts; Branch Courts (organized und
 Basic Income Party <br>Democratic Party of Korea or DPK <br>New Future Party<br>New Reform Party <br>Open Democratic Party or ODP <br>People Power Party or PPP <br>Progressive Party or Jinbo Party <br>Rebuilding Korea Party <br>Social Democratic Party <br><br><strong>note:</strong>  the Democratic Alliance coalition consists of the DPK and the smaller Basic Income, Jinbo, Open Democratic, and Social Democratic parties, as well as two independents; for the 2024 election, the Basic Income Party, the ODP, and the Social Democratic Party formed the New Progressive Alliance<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador CHO Hyundong (since 19 April 2023)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires LEE Joon Ho (since 12 July 2025)<br>
 _chancery_: 2450 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-5600<br>
 _FAX_: [1] (202) 797-0595<br>
@@ -394,21 +394,21 @@ _selected World Heritage Site locales_: Jeju Volcanic Island and Lava Tubes (n);
 <p>high-income, export- and technology-oriented East Asian economy; manufacturing led by semiconductor and automotive industries; slow growth amid declining construction investment, export risks, and recent political instability; aging workforce; increased restraint in fiscal policy while maintaining industry support initiatives</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.615 trillion (2023 est.)<br>
-$2.58 trillion (2022 est.)<br>
-$2.515 trillion (2021 est.)<br>
+$2.607 trillion (2023 est.)<br>
+$2.572 trillion (2022 est.)<br>
+$2.507 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.36% (2023 est.)<br>
-2.61% (2022 est.)<br>
+1.4% (2023 est.)<br>
+2.6% (2022 est.)<br>
 4.3% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$50,600 (2023 est.)<br>
-$49,900 (2022 est.)<br>
-$48,600 (2021 est.)<br>
+$50,400 (2023 est.)<br>
+$49,800 (2022 est.)<br>
+$48,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -431,7 +431,7 @@ _services_: 58.4% (2023 est.)<br>
 _household consumption_: 48.9% (2023 est.)<br>
 _government consumption_: 18.9% (2023 est.)<br>
 _investment in fixed capital_: 32.2% (2023 est.)<br>
-_investment in inventories_: 0% (2023 est.)<br>
+_investment in inventories_: -0.1% (2023 est.)<br>
 _exports of goods and services_: 44% (2023 est.)<br>
 _imports of goods and services_: -43.9% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -444,15 +444,15 @@ rice, vegetables, cabbages, milk, onions, pork, chicken, eggs, tangerines/mandar
 electronics, telecommunications, automobile production, chemicals, shipbuilding, steel<br>
 
 **Industrial production growth rate**<br>
-1.14% (2023 est.)<br>
+1.1% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-29.647 million (2024 est.)<br>
+29.713 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.6% (2024 est.)<br>
+2.7% (2024 est.)<br>
 2.7% (2023 est.)<br>
 2.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -462,9 +462,6 @@ _total_: 5.9% (2024 est.)<br>
 _male_: 6% (2024 est.)<br>
 _female_: 5.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
-
-**Population below poverty line**<br>
-14.4% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 32.9 (2021 est.)<br>
@@ -480,9 +477,9 @@ _highest 10%_: 24.6% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.45% of GDP (2023 est.)<br>
-0.47% of GDP (2022 est.)<br>
-0.43% of GDP (2021 est.)<br>
+0.4% of GDP (2023 est.)<br>
+0.5% of GDP (2022 est.)<br>
+0.4% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -533,7 +530,7 @@ integrated circuits, natural gas, crude petroleum, machinery, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$409.457 billion (2024 est.)<br>
+$418.219 billion (2024 est.)<br>
 $420.93 billion (2023 est.)<br>
 $423.366 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

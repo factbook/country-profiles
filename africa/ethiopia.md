@@ -70,7 +70,7 @@ _salt water lake(s)_: Lake Turkana (shared with Kenya) - 6,400 sq km; Abhe Bid H
 Blue Nile river source (shared with Sudan [m]) - 1,600 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+_Atlantic Ocean drainage_: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Major aquifers**<br>
 Ogaden-Juba Basin, Sudd Basin (Umm Ruwaba Aquifer)<br>
@@ -416,46 +416,46 @@ _selected World Heritage Site locales_: <p>Rock-Hewn Churches, Lalibela (c); Sim
 <p>low-income, fast-growing Horn of Africa economy; widespread poverty and food insecurity worsened by conflict and environmental factors; landlocked with tensions over seaport access; development aid supporting reforms to boost private-sector growth and financial stability; challenge of creating jobs for growing labor force</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$354.604 billion (2023 est.)<br>
-$332.968 billion (2022 est.)<br>
-$316.145 billion (2021 est.)<br>
+$380.895 billion (2024 est.)<br>
+$354.926 billion (2023 est.)<br>
+$332.97 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-6.5% (2023 est.)<br>
-5.32% (2022 est.)<br>
-5.64% (2021 est.)<br>
+7.3% (2024 est.)<br>
+6.6% (2023 est.)<br>
+5.3% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$2,900 (2024 est.)<br>
 $2,800 (2023 est.)<br>
 $2,700 (2022 est.)<br>
-$2,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$163.698 billion (2023 est.)<br>
+$126.773 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+21% (2024 est.)<br>
 30.2% (2023 est.)<br>
 33.9% (2022 est.)<br>
-26.8% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 35.8% (2023 est.)<br>
-_industry_: 24.5% (2023 est.)<br>
-_services_: 37% (2023 est.)<br>
+_agriculture_: 34.9% (2024 est.)<br>
+_industry_: 25.4% (2024 est.)<br>
+_services_: 37.6% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 78.9% (2023 est.)<br>
-_government consumption_: 6.3% (2023 est.)<br>
-_investment in fixed capital_: 22.2% (2023 est.)<br>
-_investment in inventories_: 0% (2023 est.)<br>
-_exports of goods and services_: 6.6% (2023 est.)<br>
-_imports of goods and services_: -14% (2023 est.)<br>
+_household consumption_: 80.2% (2024 est.)<br>
+_government consumption_: 5.5% (2024 est.)<br>
+_investment in fixed capital_: 20.5% (2024 est.)<br>
+_investment in inventories_: 0% (2024 est.)<br>
+_exports of goods and services_: 5.6% (2024 est.)<br>
+_imports of goods and services_: -11.8% (2024 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -466,7 +466,7 @@ maize, cereals, wheat, milk, sorghum, barley, taro, beans, sweet potatoes, potat
 food processing, beverages, textiles, leather, garments, chemicals, metals processing, cement<br>
 
 **Industrial production growth rate**<br>
-6.93% (2023 est.)<br>
+9.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -475,8 +475,8 @@ food processing, beverages, textiles, leather, garments, chemicals, metals proce
 
 **Unemployment rate**<br>
 3.4% (2024 est.)<br>
-3.4% (2023 est.)<br>
-3.4% (2022 est.)<br>
+3.5% (2023 est.)<br>
+3.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -490,7 +490,7 @@ _female_: 7.2% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-35 (2015 est.)<br>
+31.1 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -498,8 +498,8 @@ _on food_: 37.9% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 3.1% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9% (2015 est.)<br>
-_highest 10%_: 28.5% (2015 est.)<br>
+_lowest 10%_: 3.5% (2021 est.)<br>
+_highest 10%_: 24.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>

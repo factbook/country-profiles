@@ -369,10 +369,6 @@ _revenues_: $113.674 million (2022 est.)<br>
 _expenditures_: $129.088 million (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
-**Exports**<br>
-$31.4 million (2021 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
-
 **Exports - partners**<br>
 Japan 33%, Thailand 15%, Greece 15%, France 11%, China 8% (2023)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
@@ -380,9 +376,6 @@ Japan 33%, Thailand 15%, Greece 15%, France 11%, China 8% (2023)<br>
 **Exports - commodities**<br>
 fish, ships, garments, shellfish (2023)<br>
 <strong>note:</strong> top export commodities based on value in dollars over $500,000<br>
-
-**Imports**<br>
-$215 million (2021 est.)<br>
 
 **Imports - partners**<br>
 NZ 44%, Italy 26%, Fiji 9%, China 7%, Australia 3% (2023)<br>
@@ -394,11 +387,11 @@ ships, refined petroleum, cars, plastic products, additive manufacturing machine
 
 **Exchange rates**<br>
 _Currency_: New Zealand dollars (NZD) per US dollar -<br>
+1.652 (2024 est.)<br>
 1.628 (2023 est.)<br>
 1.577 (2022 est.)<br>
 1.414 (2021 est.)<br>
 1.542 (2020 est.)<br>
-1.518 (2019 est.)<br>
 
 ## Energy
 

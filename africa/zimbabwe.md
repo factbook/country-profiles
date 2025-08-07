@@ -65,7 +65,8 @@ _other_: 15.7% (2022 est.)<br>
 <p>Zambezi (shared with Zambia [s]), Angola, Namibia, Botswana, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Botswana, and Mozambique [m]) - 1,800 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
+_Indian Ocean drainage_: Zambezi (1,332,412 sq km)<br>
+_Internal (endorheic basin) drainage_: Okavango Basin (863,866 sq km)<br>
 
 **Major aquifers**<br>
 Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
@@ -408,25 +409,25 @@ _selected World Heritage Site locales_: Mana Pools National Park, Sapi, and Chew
 low income Sub-Saharan economy; political instability and endemic corruption have prevented reforms and stalled debt restructuring; new Zimbabwe Gold (ZiG) currency latest effort to combat ongoing hyperinflation; reliant on natural resource extraction, agriculture and remittances<br>
 
 **Real GDP (purchasing power parity)**<br>
+$57.391 billion (2024 est.)<br>
 $56.249 billion (2023 est.)<br>
 $53.399 billion (2022 est.)<br>
-$50.311 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.34% (2023 est.)<br>
-6.52% (2022 est.)<br>
-8.47% (2021 est.)<br>
+2% (2024 est.)<br>
+5.3% (2023 est.)<br>
+6.1% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$3,500 (2024 est.)<br>
 $3,400 (2023 est.)<br>
 $3,300 (2022 est.)<br>
-$3,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$35.231 billion (2023 est.)<br>
+$44.188 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -436,18 +437,18 @@ $35.231 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 4.1% (2023 est.)<br>
-_industry_: 26.3% (2023 est.)<br>
-_services_: 62.4% (2023 est.)<br>
+_agriculture_: 5.4% (2024 est.)<br>
+_industry_: 31.8% (2024 est.)<br>
+_services_: 55.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 76.3% (2023 est.)<br>
-_government consumption_: 15.1% (2023 est.)<br>
-_investment in fixed capital_: 12.2% (2023 est.)<br>
-_investment in inventories_: 4.1% (2023 est.)<br>
-_exports of goods and services_: 21.6% (2023 est.)<br>
-_imports of goods and services_: -29.2% (2023 est.)<br>
+_household consumption_: 91.5% (2024 est.)<br>
+_government consumption_: 12.5% (2024 est.)<br>
+_investment in fixed capital_: 3.6% (2024 est.)<br>
+_investment in inventories_: 0.9% (2024 est.)<br>
+_exports of goods and services_: 22.1% (2024 est.)<br>
+_imports of goods and services_: -30.6% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -458,7 +459,7 @@ sugarcane, beef, maize, cabbages, potatoes, tomatoes, milk, onions, bananas, whe
 mining (coal, gold, platinum, copper, nickel, tin, diamonds, clay, numerous metallic and nonmetallic ores), steel, wood products, cement, chemicals, fertilizer, clothing and footwear, foodstuffs, beverages<br>
 
 **Industrial production growth rate**<br>
-3.18% (2023 est.)<br>
+2.7% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -491,17 +492,14 @@ _highest 10%_: 34.8% (2017 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-9.37% of GDP (2023 est.)<br>
-9.41% of GDP (2022 est.)<br>
-9.45% of GDP (2021 est.)<br>
+9.4% of GDP (2023 est.)<br>
+9.4% of GDP (2022 est.)<br>
+9.4% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $17 million (2018 est.)<br>
 _expenditures_: $23 million (2018 est.)<br>
-
-**Public debt**<br>
-82.3% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 7.2% (of GDP) (2018 est.)<br>
@@ -542,7 +540,7 @@ refined petroleum, fertilizers, trucks, soybean oil, stone processing machines (
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$261.373 million (2024 est.)<br>
+$484.973 million (2024 est.)<br>
 $115.53 million (2023 est.)<br>
 $598.622 million (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

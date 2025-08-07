@@ -69,7 +69,8 @@ _salt water lake(s)_: Lake Chilwa - 1,040 sq km<br>
 Zambezi (shared with Zambia [s], Angola, Zimbabwe, Namibia, Tanzania, and Mozambique [m]) - 2,740 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
+_Atlantic Ocean drainage_: Congo (3,730,881 sq km)<br>
+_Indian Ocean drainage_: Zambezi (1,332,412 sq km)<br>
 
 **Population distribution**<br>
 population density is highest south of Lake Nyasa, as shown in this population distribution map<br>
@@ -394,25 +395,25 @@ _selected World Heritage Site locales_: Lake Malawi National Park (n); Chongoni 
 low-income East African economy; primarily agrarian; investing in human capital; urban poverty increasing due to COVID-19; high public debt; endemic corruption and poor property rights; poor hydroelectric grid; localized pharmaceutical industry<br>
 
 **Real GDP (purchasing power parity)**<br>
+$35.425 billion (2024 est.)<br>
 $34.789 billion (2023 est.)<br>
 $34.143 billion (2022 est.)<br>
-$33.832 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.89% (2023 est.)<br>
-0.92% (2022 est.)<br>
-2.75% (2021 est.)<br>
+1.8% (2024 est.)<br>
+1.9% (2023 est.)<br>
+0.9% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$1,600 (2024 est.)<br>
 $1,600 (2023 est.)<br>
 $1,700 (2022 est.)<br>
-$1,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$12.712 billion (2023 est.)<br>
+$11.009 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -422,17 +423,10 @@ $12.712 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 30.4% (2023 est.)<br>
-_industry_: 15.3% (2023 est.)<br>
-_services_: 47.5% (2023 est.)<br>
+_agriculture_: 32.4% (2024 est.)<br>
+_industry_: 16% (2024 est.)<br>
+_services_: 44.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
-
-**GDP - composition, by end use**<br>
-_household consumption_: 84.3% (2017 est.)<br>
-_government consumption_: 16.3% (2017 est.)<br>
-_investment in fixed capital_: 15.3% (2017 est.)<br>
-_exports of goods and services_: 27.9% (2017 est.)<br>
-_imports of goods and services_: -43.8% (2017 est.)<br>
 
 **Agricultural products**<br>
 sweet potatoes, cassava, maize, sugarcane, mangoes/guavas, potatoes, tomatoes, pigeon peas, pumpkins/squash, plantains (2023)<br>
@@ -442,7 +436,7 @@ sweet potatoes, cassava, maize, sugarcane, mangoes/guavas, potatoes, tomatoes, p
 tobacco, tea, sugar, sawmill products, cement, consumer goods<br>
 
 **Industrial production growth rate**<br>
-2.52% (2023 est.)<br>
+2.1% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -450,9 +444,9 @@ tobacco, tea, sugar, sawmill products, cement, consumer goods<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5% (2024 est.)<br>
-5% (2023 est.)<br>
-5% (2022 est.)<br>
+5.1% (2024 est.)<br>
+5.1% (2023 est.)<br>
+5.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -475,9 +469,9 @@ _highest 10%_: 31% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.41% of GDP (2023 est.)<br>
-2.13% of GDP (2022 est.)<br>
-2.57% of GDP (2021 est.)<br>
+1.4% of GDP (2023 est.)<br>
+2.1% of GDP (2022 est.)<br>
+2.6% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>

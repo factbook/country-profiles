@@ -68,7 +68,8 @@ _salt water lake(s)_: Ab-e Istadah-ye Muqur (endorheic basin) - 520 sq km<br>
 Amu Darya (shared with Tajikistan [s], Turkmenistan, and Uzbekistan [m]) - 2,620 km; Helmand river source (shared with Iran) - 1,130 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Amu Darya (534,739 sq km); Tarim Basin (1,152,448 sq km)<br>
+_Indian Ocean drainage_: Indus (1,081,718 sq km)<br>
+_Internal (endorheic basin) drainage_: Amu Darya (534,739 sq km); Tarim Basin (1,152,448 sq km)<br>
 
 **Population distribution**<br>
 populations tend to cluster in the foothills and periphery of the rugged Hindu Kush range; smaller groups are found in many of the country's interior valleys; in general, the east is more densely settled, while the south is sparsely populated<br>
@@ -379,15 +380,15 @@ _selected World Heritage Site locales_: Minaret of Jam; Buddhas of Bamyan<br>
 <p>low-income South Asian economy; economy stable after major contraction due to Taliban takeover, but recovery remains fragile; widespread poverty and obstacles to human development; import-reliant for food, fuel, and machinery; ongoing sanctions, suspended development aid, and frozen reserve assets</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$82.595 billion (2023 est.)<br>
+$82.238 billion (2023 est.)<br>
 $80.416 billion (2022 est.)<br>
 $85.768 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.71% (2023 est.)<br>
--6.24% (2022 est.)<br>
--20.74% (2021 est.)<br>
+2.3% (2023 est.)<br>
+-6.2% (2022 est.)<br>
+-20.7% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
@@ -397,7 +398,7 @@ $2,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$17.233 billion (2023 est.)<br>
+$17.152 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -407,18 +408,18 @@ $17.233 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 34.5% (2023 est.)<br>
-_industry_: 13.5% (2023 est.)<br>
-_services_: 46.5% (2023 est.)<br>
+_agriculture_: 34.7% (2023 est.)<br>
+_industry_: 13.4% (2023 est.)<br>
+_services_: 46.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 97.4% (2023 est.)<br>
+_household consumption_: 98.1% (2023 est.)<br>
 _government consumption_: 21.2% (2023 est.)<br>
 _investment in fixed capital_: 15.2% (2023 est.)<br>
-_investment in inventories_: 0% (2023 est.)<br>
-_exports of goods and services_: 16.8% (2023 est.)<br>
-_imports of goods and services_: -50.5% (2023 est.)<br>
+_investment in inventories_: 0.1% (2023 est.)<br>
+_exports of goods and services_: 16.9% (2023 est.)<br>
+_imports of goods and services_: -50.7% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -429,7 +430,7 @@ wheat, milk, grapes, watermelons, potatoes, cantaloupes/melons, vegetables, rice
 small-scale production of bricks, textiles, soap, furniture, shoes, fertilizer, apparel, food products, non-alcoholic beverages, mineral water, cement; handwoven carpets; natural gas, coal, copper<br>
 
 **Industrial production growth rate**<br>
-2.62% (2023 est.)<br>
+1.8% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -453,18 +454,15 @@ _female_: 27% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Remittances**<br>
-1.86% of GDP (2023 est.)<br>
-2.21% of GDP (2022 est.)<br>
-2.24% of GDP (2021 est.)<br>
+1.9% of GDP (2023 est.)<br>
+2.2% of GDP (2022 est.)<br>
+2.2% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $9.093 billion (2017 est.)<br>
 _expenditures_: $7.411 billion (2017 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
-
-**Public debt**<br>
-7% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 9.9% (of GDP) (2017 est.)<br>

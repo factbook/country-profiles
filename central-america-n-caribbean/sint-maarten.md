@@ -42,7 +42,7 @@ _exclusive economic zone_: 200 nm<br>
 tropical marine climate, ameliorated by northeast trade winds, results in moderate temperatures; average rainfall of 150 cm/year; hurricane season stretches from July to November<br>
 
 **Terrain**<br>
-<p>low, hilly terrain, volcanic origin</p><br>
+low, hilly terrain, volcanic origin<br>
 
 **Elevation**<br>
 _highest point_: 250 m SW of Mount Flagstaff summit, 383 m<br>
@@ -282,25 +282,25 @@ _history_: official anthem, as part of the Kingdom of the Netherlands<br>
 high-income, tourism-based Dutch autonomous constituent economy; severe hurricane- and COVID-19-related economic recessions; multilateral trust fund helping offset economic downturn; no property taxation; re-exporter to Saint Martin<br>
 
 **Real GDP (purchasing power parity)**<br>
+$1.986 billion (2024 est.)<br>
 $1.919 billion (2023 est.)<br>
 $1.849 billion (2022 est.)<br>
-$1.684 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.5% (2024 est.)<br>
 3.8% (2023 est.)<br>
 9.8% (2022 est.)<br>
-4.58% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$45,800 (2024 est.)<br>
 $44,900 (2023 est.)<br>
 $43,900 (2022 est.)<br>
-$40,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.628 billion (2023 est.)<br>
+$1.735 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -321,13 +321,13 @@ sugar<br>
 tourism, light industry<br>
 
 **Industrial production growth rate**<br>
-0.46% (2021 est.)<br>
+0.5% (2021 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Remittances**<br>
-2.95% of GDP (2023 est.)<br>
-3.16% of GDP (2022 est.)<br>
-3.44% of GDP (2021 est.)<br>
+3% of GDP (2023 est.)<br>
+3.2% of GDP (2022 est.)<br>
+3.4% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Current account balance**<br>

@@ -67,7 +67,7 @@ _other_: 7.6% (2022 est.)<br>
 _salt water lake(s)_: Lagune Aby - 780 sq km<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
+_Atlantic Ocean drainage_: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
 
 **Population distribution**<br>
 the population is primarily located in the forested south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the northern savanna remains sparsely populated, with higher concentrations located along transportation corridors, as shown in this population distribution map<br>
@@ -410,25 +410,25 @@ _selected World Heritage Site locales_: Como&eacute; National Park (n); Historic
 one of West Africa&rsquo;s most influential, stable, and rapidly developing economies; poverty declines in urban but increases in rural areas; strong construction sector and increasingly diverse economic portfolio; increasing but manageable public debt; large labor force in agriculture<br>
 
 **Real GDP (purchasing power parity)**<br>
-$202.119 billion (2023 est.)<br>
-$190.319 billion (2022 est.)<br>
-$179.178 billion (2021 est.)<br>
+$215.018 billion (2024 est.)<br>
+$202.943 billion (2023 est.)<br>
+$190.645 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-6.2% (2023 est.)<br>
-6.22% (2022 est.)<br>
-7.06% (2021 est.)<br>
+6% (2024 est.)<br>
+6.5% (2023 est.)<br>
+6.4% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$6,700 (2024 est.)<br>
 $6,500 (2023 est.)<br>
 $6,300 (2022 est.)<br>
-$6,000 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$78.875 billion (2023 est.)<br>
+$86.538 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -438,18 +438,18 @@ $78.875 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 14.4% (2023 est.)<br>
-_industry_: 23.9% (2023 est.)<br>
-_services_: 54.6% (2023 est.)<br>
+_agriculture_: 17.9% (2024 est.)<br>
+_industry_: 22.1% (2024 est.)<br>
+_services_: 53.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 64.9% (2023 est.)<br>
-_government consumption_: 10.5% (2023 est.)<br>
-_investment in fixed capital_: 27.8% (2023 est.)<br>
-_investment in inventories_: 0.3% (2023 est.)<br>
-_exports of goods and services_: 24.5% (2023 est.)<br>
-_imports of goods and services_: -28.1% (2023 est.)<br>
+_household consumption_: 66% (2024 est.)<br>
+_government consumption_: 9% (2024 est.)<br>
+_investment in fixed capital_: 24.5% (2024 est.)<br>
+_investment in inventories_: 0% (2024 est.)<br>
+_exports of goods and services_: 27.6% (2024 est.)<br>
+_imports of goods and services_: -27.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -460,7 +460,7 @@ yams, cassava, oil palm fruit, cocoa beans, sugarcane, plantains, rice, rubber, 
 foodstuffs, beverages; wood products, oil refining, gold mining, truck and bus assembly, textiles, fertilizer, building materials, electricity<br>
 
 **Industrial production growth rate**<br>
-6.1% (2023 est.)<br>
+2.8% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -470,7 +470,7 @@ foodstuffs, beverages; wood products, oil refining, gold mining, truck and bus a
 **Unemployment rate**<br>
 2.3% (2024 est.)<br>
 2.3% (2023 est.)<br>
-2.3% (2022 est.)<br>
+2.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -497,8 +497,8 @@ _highest 10%_: 27.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.32% of GDP (2023 est.)<br>
-1.48% of GDP (2022 est.)<br>
+1.3% of GDP (2023 est.)<br>
+1.5% of GDP (2022 est.)<br>
 0.6% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -507,11 +507,8 @@ _revenues_: $9.755 billion (2022 est.)<br>
 _expenditures_: $13.255 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-47% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
-13.4% (of GDP) (2023 est.)<br>
+13.2% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -547,10 +544,6 @@ China 16%, Nigeria 12%, France 6%, India 5%, USA 4% (2023)<br>
 **Imports - commodities**<br>
 crude petroleum, ships, refined petroleum, fish, rice (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Reserves of foreign exchange and gold**<br>
-$6.257 billion (2017 est.)<br>
-$4.935 billion (2016 est.)<br>
 
 **Debt - external**<br>
 $26.576 billion (2023 est.)<br>

@@ -295,19 +295,11 @@ _history_: official anthem, as a British crown dependency<br>
 **Economic overview**<br>
 high-income English Channel island economy; strong financial sector but stressed due to COVID-19 disruptions; manufacturing, tourism, and construction industries suffered but expected to recover; stable inflation; maintains independent taxation authority<br>
 
-**Real GDP (purchasing power parity)**<br>
-$3.465 billion (2015 est.)<br>
-$3.451 billion (2014 est.)<br>
-<strong>note:</strong> data are in 2015 dollars<br>
-
 **Real GDP growth rate**<br>
-3.72% (2023 est.)<br>
-5.34% (2022 est.)<br>
-15.46% (2021 est.)<br>
+3.7% (2023 est.)<br>
+5.3% (2022 est.)<br>
+9.9% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency; entry includes Jersey and Guernsey<br>
-
-**Real GDP per capita**<br>
-$52,500 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $12.508 billion (2023 est.)<br>
@@ -326,7 +318,7 @@ tomatoes, greenhouse flowers, sweet peppers, eggplant, fruit; Guernsey cattle<br
 tourism, banking<br>
 
 **Industrial production growth rate**<br>
-1.26% (2023 est.)<br>
+1.3% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency; entry includes Jersey and Guernsey<br>
 
 **Labor force**<br>
@@ -336,7 +328,7 @@ tourism, banking<br>
 **Unemployment rate**<br>
 6.3% (2024 est.)<br>
 6.2% (2023 est.)<br>
-6.1% (2022 est.)<br>
+6.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment; entry includes Jersey and Guernsey<br>
 
 **Youth unemployment rate (ages 15-24)**<br>

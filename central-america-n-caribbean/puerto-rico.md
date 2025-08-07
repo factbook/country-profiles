@@ -349,44 +349,40 @@ _selected World Heritage Site locales_: La Fortaleza and San Juan National Histo
 US Caribbean island territorial economy; hit hard by COVID-19 and hurricanes; declining labor force and job growth after a decade of continuous recession; capital-based industry and tourism; high poverty; energy import-dependent<br>
 
 **Real GDP (purchasing power parity)**<br>
-$137.828 billion (2023 est.)<br>
-$137.056 billion (2022 est.)<br>
-$132.334 billion (2021 est.)<br>
+$141.344 billion (2024 est.)<br>
+$136.926 billion (2023 est.)<br>
+$136.247 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.56% (2023 est.)<br>
-3.57% (2022 est.)<br>
-0.39% (2021 est.)<br>
+3.2% (2024 est.)<br>
+0.5% (2023 est.)<br>
+3% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$43,000 (2023 est.)<br>
-$42,600 (2022 est.)<br>
-$40,600 (2021 est.)<br>
+$44,100 (2024 est.)<br>
+$42,700 (2023 est.)<br>
+$42,300 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$117.902 billion (2023 est.)<br>
+$125.842 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
-**Inflation rate (consumer prices)**<br>
-1.8% (2017 est.)<br>
--0.3% (2016 est.)<br>
-
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.7% (2023 est.)<br>
-_industry_: 49.1% (2023 est.)<br>
-_services_: 50.6% (2023 est.)<br>
+_agriculture_: 0.7% (2024 est.)<br>
+_industry_: 48% (2024 est.)<br>
+_services_: 51.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 80% (2023 est.)<br>
-_government consumption_: 7.1% (2023 est.)<br>
-_investment in fixed capital_: 13.7% (2023 est.)<br>
-_investment in inventories_: 0.5% (2023 est.)<br>
-_exports of goods and services_: 53.9% (2023 est.)<br>
-_imports of goods and services_: -47.8% (2023 est.)<br>
+_household consumption_: 76% (2024 est.)<br>
+_government consumption_: 8.2% (2024 est.)<br>
+_investment in fixed capital_: 14.6% (2024 est.)<br>
+_investment in inventories_: 0.2% (2024 est.)<br>
+_exports of goods and services_: 51.9% (2024 est.)<br>
+_imports of goods and services_: -42.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -396,17 +392,13 @@ milk, plantains, bananas, tomatoes, chicken, oranges, mangoes/guavas, pineapples
 **Industries**<br>
 pharmaceuticals, electronics, apparel, food products, tourism<br>
 
-**Industrial production growth rate**<br>
-4.3% (2014 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
-
 **Labor force**<br>
-1.15 million (2024 est.)<br>
+1.152 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 5.5% (2024 est.)<br>
-5.7% (2023 est.)<br>
+5.8% (2023 est.)<br>
 6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -420,16 +412,10 @@ _female_: 9.8% (2024 est.)<br>
 _revenues_: $9.268 billion (2017 est.)<br>
 _expenditures_: $9.974 billion (2017 est.)<br>
 
-**Public debt**<br>
-51.6% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-8.9% (of GDP) (2017 est.)<br>
-
 **Exports**<br>
-$63.579 billion (2023 est.)<br>
-$59.714 billion (2022 est.)<br>
-$57.91 billion (2021 est.)<br>
+$65.368 billion (2024 est.)<br>
+$63.563 billion (2023 est.)<br>
+$59.712 billion (2022 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -440,9 +426,9 @@ packaged medicines, medical cultures/vaccines, hormones, orthopedic and medical 
 top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$56.359 billion (2023 est.)<br>
+$53.898 billion (2024 est.)<br>
+$56.889 billion (2023 est.)<br>
 $52.15 billion (2022 est.)<br>
-$45.051 billion (2021 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

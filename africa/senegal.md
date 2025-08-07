@@ -68,7 +68,7 @@ _other_: 9.1% (2022 est.)<br>
 Senegal (shared with Guinea [s], Mali, and Mauritania [m] ) - 1,641 km; Gambie (Gambia) (shared with Guinea [s] and The Gambia [m]) - 1,094 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Senegal (456,397 sq km)<br>
+_Atlantic Ocean drainage_: Senegal (456,397 sq km)<br>
 
 **Major aquifers**<br>
 Senegalo-Mauritanian Basin<br>
@@ -350,7 +350,7 @@ _subordinate courts_: High Court of Justice (for crimes of high treason by the p
 Alliance for Citizenship and Work or ACT <br>Alliance for the Republic-Yakaar or APR <br>Alliance of Forces of Progress or AFP <br>AND (National Alliance for Democracy) <br>And-Jef/African Party for Democracy and Socialism or AJ/PADS <br>ARC (Alternative for the next generation of citizens) <br>Awalé <br>Benno Bokk Yakaar or BBY (United in Hope); coalition includes AFP, APR, BGC, LD-MPT, PIT, PS, and UNP<br>Bokk Gis Gis coalition <br>Citizen Movement for National Reform or MCRN-Bes Du Nakk <br>Coalition Mimi 2024 <br>Dare the Future movement <br>Democratic League-Labor Party Movement or LD-MPT <br>Democratic Renaissance Congress <br>Front for Socialism and Democracy/Benno Jubel or FSD/BJ <br>Gainde Centrist Bloc or BCG <br>General Alliance for the Interests of the Republic or AGIR <br>Grand Party or GP <br>Gueum sa Bopp (Believe in yourself) <br>Independence and Labor Party or PIT <br>Jotna Coalition <br>Liberate the People (Yewwi Askan Wi) or YAW <br>Madicke 2019 coalition <br>National Union for the People or UNP <br>Only Senegal Movement <br>Party for Truth and Development or PVD <br>Party of Unity and Rally or PUR <br>Patriotic Convergence Kaddu Askan Wi or CP-Kaddu Askan Wi <br>PRP (Republican party for Progress) <br>Rewmi Party <br>Save Senegal (Wallu Senegal Grand Coalition) or WS; coalition includes PDS, Jotna Coalition, Democratic Renaissance Congress<br>Senegalese Democratic Party or PDS <br>Socialist Party or PS <br>Tekki Movement <br>Réewum Ngor (Republic of Values) <br>Servants (Les Serviteurs)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Isidor Marcel SENE (since 31 August 2024)<br>
+_chief of mission_: Ambassador Abdoul Wahab HAIDARA (since 24 July 2025)<br>
 _chancery_: 2215 M ST NW, Washington, D.C. 20037<br>
 _telephone_: [1] (202) 234-0540<br>
 _FAX_: [1] (202) 629-2961<br>
@@ -398,46 +398,46 @@ _selected World Heritage Site locales_: Island of Gor&eacute;e (c); Niokolo-Koba
 lower middle-income, services-driven West African economy; key mining, construction, agriculture, and fishing industries; tourism and exports hit hard by COVID-19; large informal economy; developing offshore oil and gas fields; systemic corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
-$78.045 billion (2023 est.)<br>
-$74.624 billion (2022 est.)<br>
-$71.874 billion (2021 est.)<br>
+$83.183 billion (2024 est.)<br>
+$77.82 billion (2023 est.)<br>
+$74.642 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.58% (2023 est.)<br>
-3.83% (2022 est.)<br>
-6.54% (2021 est.)<br>
+6.9% (2024 est.)<br>
+4.3% (2023 est.)<br>
+3.9% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$4,500 (2024 est.)<br>
 $4,300 (2023 est.)<br>
 $4,200 (2022 est.)<br>
-$4,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$30.848 billion (2023 est.)<br>
+$32.267 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+0.8% (2024 est.)<br>
 5.9% (2023 est.)<br>
 9.7% (2022 est.)<br>
-2.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 17.4% (2023 est.)<br>
-_industry_: 24.3% (2023 est.)<br>
-_services_: 49.2% (2023 est.)<br>
+_agriculture_: 15.5% (2024 est.)<br>
+_industry_: 25.4% (2024 est.)<br>
+_services_: 49.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 67% (2023 est.)<br>
-_government consumption_: 13.8% (2023 est.)<br>
-_investment in fixed capital_: 34.8% (2023 est.)<br>
-_investment in inventories_: 9.5% (2023 est.)<br>
-_exports of goods and services_: 23% (2023 est.)<br>
-_imports of goods and services_: -48% (2023 est.)<br>
+_household consumption_: 65.8% (2024 est.)<br>
+_government consumption_: 16.4% (2024 est.)<br>
+_investment in fixed capital_: 32.1% (2024 est.)<br>
+_investment in inventories_: 0.8% (2024 est.)<br>
+_exports of goods and services_: 28.1% (2024 est.)<br>
+_imports of goods and services_: -43.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -448,7 +448,7 @@ rice, groundnuts, watermelons, millet, cassava, sugarcane, maize, sorghum, onion
 agricultural and fish processing, phosphate mining, fertilizer production, petroleum refining, zircon, and gold mining, construction materials, ship construction and repair<br>
 
 **Industrial production growth rate**<br>
-3.71% (2023 est.)<br>
+20% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -458,7 +458,7 @@ agricultural and fish processing, phosphate mining, fertilizer production, petro
 **Unemployment rate**<br>
 3% (2024 est.)<br>
 2.8% (2023 est.)<br>
-2.8% (2022 est.)<br>
+2.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -477,9 +477,9 @@ _highest 10%_: 28.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-9.52% of GDP (2023 est.)<br>
-10.89% of GDP (2022 est.)<br>
-11.25% of GDP (2021 est.)<br>
+10.6% of GDP (2023 est.)<br>
+10.5% of GDP (2022 est.)<br>
+11.3% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -487,11 +487,8 @@ _revenues_: $6.423 billion (2022 est.)<br>
 _expenditures_: $6.424 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-48.3% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
-19.4% (of GDP) (2023 est.)<br>
+19.5% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -527,10 +524,6 @@ China 19%, France 9%, Nigeria 7%, India 7%, Russia 5% (2023)<br>
 **Imports - commodities**<br>
 refined petroleum, crude petroleum, rice, garments, wheat (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Reserves of foreign exchange and gold**<br>
-$1.827 billion (2017 est.)<br>
-$116.9 million (2016 est.)<br>
 
 **Debt - external**<br>
 $14.985 billion (2023 est.)<br>

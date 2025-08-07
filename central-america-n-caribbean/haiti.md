@@ -355,7 +355,7 @@ _subordinate courts_: Courts of Appeal; Courts of First Instance; magistrate's c
 Alternative League for Haitian Progress and Emancipation (Ligue Alternative pour le Progrès et l’Emancipation Haïtienne) or LAPEH<br>Christian Movement for a New Haiti or MCNH or Mochrenha<br>Christian National Movement for the Reconstruction of Haiti or UNCRH<br>Combat of Peasant Workers to Liberate Haiti (Konbit Travaye Peyizan Pou Libere Ayiti) or Kontra Pep La <br>Convention for Democratic Unity or KID<br>Cooperative Action to Rebuild Haiti or KONBA<br>December 16 Platform or Platfom 16 Desanm<br>Democratic Alliance Party or ALYANS (coalition includes KID and PPRH)<br>Democratic Centers' National Council or CONACED<br>Democratic and Popular Sector (Secteur Démocratique et Populaire) or SDP<br>Democratic Unity Convention (Konvansyon Inite Demokratik) or KID<br>Dessalinian Patriotic and Popular Movement or MOPOD<br>Effort and Solidarity to Create an Alternative for the People or ESKAMP<br>Fanmi Lavalas or FL<br>Forward (En Avant)<br>Fusion of Haitian Social Democrats (Fusion Des Sociaux-Démocrates Haïtiens) or FHSD<br>G18 Policy Platform (Plateforme Politique G18)<br>Haiti in Action (Ayiti An Aksyon Haiti's Action) or AAA<br>Haitian Tet Kale Party (Parti Haitien Tet Kale) or PHTK<br>Independent Movement for National Reconciliation or MIRN<br>Lavni Organization or LAVNI<br>Lod Demokratik<br>Love Haiti (Renmen Ayiti) or RA<br>MTV Ayiti<br>National Consortium of Haitian Political Parties (Consortium National des Partis Politiques Haitiens) or CNPPH <br>National Shield Network (Reseau Bouclier National)<br>Organization of the People's Struggle (Oganizasyon Pep Kap Lite) or OPL<br>Patriotic Unity (Inite Patriyotik) or Inite<br>Platform Pitit Desalin (Politik Pitit Dessalines) or PPD<br>Political Party for Us All or Bridge (Pont) or Pou Nou Tout<br>Popular Patriotic Dessalinien Movement (Mouvement Patriotique Populaire Dessalinien) or MOPOD<br>Rally of Progressive National Democrats (Rassemblement des Démocrates Nationaux Progressistes) or RDNP<br>Respe (Respect)<br>Women and Families Political Parties (Defile Pati Politik Fanm Ak Fanmi)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Louis Harold JOSEPH (since 15 May 2023)<br>
+_chief of mission_: Ambassador Lionel DELATOUR (since 11 June 2025)<br>
 _chancery_: 2311 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-4090<br>
 _FAX_: [1] (202) 745-7215<br>
@@ -403,46 +403,46 @@ _selected World Heritage Site locales_: National History Park &ndash; Citadel, S
 small Caribbean island economy and OECS-member state; extreme poverty and inflation; enormous income inequality; ongoing civil unrest due to recent presidential assassination; US preferential market access; very open to foreign direct investment<br>
 
 **Real GDP (purchasing power parity)**<br>
+$32.971 billion (2024 est.)<br>
 $34.406 billion (2023 est.)<br>
 $35.059 billion (2022 est.)<br>
-$35.659 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--1.86% (2023 est.)<br>
--1.68% (2022 est.)<br>
--1.8% (2021 est.)<br>
+-4.2% (2024 est.)<br>
+-1.9% (2023 est.)<br>
+-1.7% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$2,800 (2024 est.)<br>
 $3,000 (2023 est.)<br>
 $3,000 (2022 est.)<br>
-$3,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$19.851 billion (2023 est.)<br>
+$25.224 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+26.9% (2024 est.)<br>
 36.8% (2023 est.)<br>
 34% (2022 est.)<br>
-16.8% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 18.2% (2023 est.)<br>
-_industry_: 31% (2023 est.)<br>
-_services_: 47.8% (2023 est.)<br>
+_agriculture_: 15.9% (2024 est.)<br>
+_industry_: 33.4% (2024 est.)<br>
+_services_: 48.3% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 100.2% (2023 est.)<br>
-_government consumption_: 6.2% (2023 est.)<br>
-_investment in fixed capital_: 13.9% (2023 est.)<br>
-_investment in inventories_: 0% (2023 est.)<br>
-_exports of goods and services_: 5.3% (2023 est.)<br>
-_imports of goods and services_: -25.5% (2023 est.)<br>
+_household consumption_: 99.8% (2024 est.)<br>
+_government consumption_: 5.7% (2024 est.)<br>
+_investment in fixed capital_: 9.9% (2024 est.)<br>
+_investment in inventories_: 0% (2024 est.)<br>
+_exports of goods and services_: 3.4% (2024 est.)<br>
+_imports of goods and services_: -18.8% (2024 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -453,7 +453,7 @@ sugarcane, cassava, plantains, bananas, mangoes/guavas, avocados, maize, tropica
 textiles, sugar refining, flour milling, cement, light assembly using imported parts<br>
 
 **Industrial production growth rate**<br>
--3.82% (2023 est.)<br>
+-4.7% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -463,7 +463,7 @@ textiles, sugar refining, flour milling, cement, light assembly using imported p
 **Unemployment rate**<br>
 15.1% (2024 est.)<br>
 14.6% (2023 est.)<br>
-14.6% (2022 est.)<br>
+14.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -473,20 +473,14 @@ _female_: 47.1% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-18.91% of GDP (2023 est.)<br>
-18.75% of GDP (2022 est.)<br>
-19.13% of GDP (2021 est.)<br>
+18.9% of GDP (2023 est.)<br>
+18.8% of GDP (2022 est.)<br>
+19.1% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.179 billion (2020 est.)<br>
 _expenditures_: $1.527 billion (2020 est.)<br>
-
-**Public debt**<br>
-31.1% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-18.2% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
 -$682.57 million (2023 est.)<br>
@@ -523,7 +517,7 @@ refined petroleum, rice, garments, cotton fabric, plastic products (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.566 billion (2024 est.)<br>
+$2.718 billion (2024 est.)<br>
 $2.586 billion (2023 est.)<br>
 $2.173 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

@@ -338,10 +338,10 @@ _number of seats_: 248 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: partial renewal<br>
 _term in office_: 6 years<br>
-_most recent election date_: 7/10/2022<br>
-_parties elected and seats per party_: Liberal Democratic Party (LDP) (63); Constitutional Democratic Party of Japan (17); Komeito (13); Nippon Ishin (Japan Innovation Party) (12); Other (20)<br>
-_percentage of women in chamber_: 25.5%<br>
-_expected date of next election_: July 2025<br>
+_most recent election date_: 7/20/2025<br>
+_parties elected and seats per party_: Liberal Democratic Party (LDP) (39); Constitutional Democratic Party of Japan (22); Democratic Party for the People (17); Sanseito (14); Komeito (8); Nippon Ishin (Japan Innovation Party) (7); Independents (8); Other (10)<br>
+_percentage of women in chamber_: 29.4%<br>
+_expected date of next election_: June 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Saiko saibansho (consists of the chief justice and 14 associate justices)<br>
@@ -408,25 +408,25 @@ _selected World Heritage Site locales_: Buddhist Monuments in the Horyu-ji Area 
 second-largest East Asian economy; trade-oriented and highly diversified; high public debt levels; following years of near-zero interest rates, gradual increases to address inflation and depreciation of yen; strong rebound in tourism; aging population poses challenges to labor force participation<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.747 trillion (2023 est.)<br>
-$5.652 trillion (2022 est.)<br>
-$5.599 trillion (2021 est.)<br>
+$5.715 trillion (2024 est.)<br>
+$5.71 trillion (2023 est.)<br>
+$5.627 trillion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.68% (2023 est.)<br>
-0.95% (2022 est.)<br>
-2.56% (2021 est.)<br>
+0.1% (2024 est.)<br>
+1.5% (2023 est.)<br>
+0.9% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$46,200 (2023 est.)<br>
-$45,200 (2022 est.)<br>
-$44,500 (2021 est.)<br>
+$46,100 (2024 est.)<br>
+$45,900 (2023 est.)<br>
+$45,000 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$4.204 trillion (2023 est.)<br>
+$4.026 trillion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -436,18 +436,18 @@ $4.204 trillion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1% (2022 est.)<br>
-_industry_: 26.9% (2022 est.)<br>
-_services_: 71.4% (2022 est.)<br>
+_agriculture_: 0.9% (2023 est.)<br>
+_industry_: 28.6% (2023 est.)<br>
+_services_: 69.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 55.6% (2022 est.)<br>
+_household consumption_: 55.5% (2022 est.)<br>
 _government consumption_: 21.6% (2022 est.)<br>
-_investment in fixed capital_: 25.8% (2023 est.)<br>
-_investment in inventories_: 0.4% (2023 est.)<br>
-_exports of goods and services_: 21.8% (2023 est.)<br>
-_imports of goods and services_: -23.4% (2023 est.)<br>
+_investment in fixed capital_: 26.3% (2022 est.)<br>
+_investment in inventories_: 0.5% (2022 est.)<br>
+_exports of goods and services_: 21.5% (2022 est.)<br>
+_imports of goods and services_: -25.3% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -458,11 +458,11 @@ rice, milk, sugar beets, vegetables, eggs, chicken, potatoes, onions, cabbages, 
 motor vehicles, electronic equipment, machine tools, steel and nonferrous metals, ships, chemicals, textiles, processed foods<br>
 
 **Industrial production growth rate**<br>
--1.25% (2022 est.)<br>
+1.4% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-69.269 million (2024 est.)<br>
+69.382 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -477,14 +477,23 @@ _male_: 4.2% (2024 est.)<br>
 _female_: 3.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
+**Gini Index coefficient - distribution of family income**<br>
+32.3 (2020 est.)<br>
+<strong>note:</strong> index (0-100) of income distribution; higher values represent greater inequality<br>
+
 **Average household expenditures**<br>
 _on food_: 15.8% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 2.5% of household expenditures (2023 est.)<br>
 
+**Household income or consumption by percentage share**<br>
+_lowest 10%_: 2.4% (2020 est.)<br>
+_highest 10%_: 23.9% (2020 est.)<br>
+% share of income accruing to lowest and highest 10% of population<br>
+
 **Remittances**<br>
-0.11% of GDP (2023 est.)<br>
-0.13% of GDP (2022 est.)<br>
-0.11% of GDP (2021 est.)<br>
+0.1% of GDP (2024 est.)<br>
+0.1% of GDP (2023 est.)<br>
+0.1% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -493,22 +502,19 @@ _expenditures_: $892.184 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants and social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-216.2% of GDP (2022 est.)<br>
+215.9% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
-**Taxes and other revenues**<br>
-35.2% (of GDP) (2017 est.)<br>
-
 **Current account balance**<br>
-$159.185 billion (2023 est.)<br>
-$90.152 billion (2022 est.)<br>
-$196.525 billion (2021 est.)<br>
+$194.257 billion (2024 est.)<br>
+$156.592 billion (2023 est.)<br>
+$90.21 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$920.737 billion (2023 est.)<br>
+$922.447 billion (2024 est.)<br>
+$923.488 billion (2023 est.)<br>
 $922.813 billion (2022 est.)<br>
-$920.639 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -520,9 +526,9 @@ cars, integrated circuits, machinery, vehicle parts/accessories, construction ve
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$989.843 billion (2023 est.)<br>
+$965.047 billion (2024 est.)<br>
+$996.364 billion (2023 est.)<br>
 $1.081 trillion (2022 est.)<br>
-$942.45 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -534,7 +540,7 @@ crude petroleum, natural gas, coal, integrated circuits, broadcasting equipment 
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.16 trillion (2024 est.)<br>
+$1.231 trillion (2024 est.)<br>
 $1.295 trillion (2023 est.)<br>
 $1.228 trillion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

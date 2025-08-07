@@ -273,31 +273,31 @@ _selected World Heritage Site locales_: Ancient Jericho/Tell es-Sultan; Birthpla
 ## Economy
 
 **Real GDP (purchasing power parity)**<br>
-$27.446 billion (2023 est.)<br>
+$20.339 billion (2024 est.)<br>
+$27.694 billion (2023 est.)<br>
 $29.016 billion (2022 est.)<br>
-$27.878 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars; entry includes West Bank and Gaza Strip<br>
 
 **Real GDP growth rate**<br>
--5.41% (2023 est.)<br>
-4.08% (2022 est.)<br>
-7.01% (2021 est.)<br>
+-26.6% (2024 est.)<br>
+-4.6% (2023 est.)<br>
+4.1% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency; entry includes West Bank and Gaza Strip<br>
 
 **Real GDP per capita**<br>
-$5,300 (2023 est.)<br>
+$3,800 (2024 est.)<br>
+$5,400 (2023 est.)<br>
 $5,800 (2022 est.)<br>
-$5,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars; entry includes West Bank and Gaza Strip<br>
 
 **GDP (official exchange rate)**<br>
-$17.421 billion (2023 est.)<br>
+$13.711 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate; entry includes West Bank and Gaza Strip<br>
 
 **Inflation rate (consumer prices)**<br>
+53.7% (2024 est.)<br>
 5.9% (2023 est.)<br>
 3.7% (2022 est.)<br>
-1.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices; entry includes West Bank and Gaza Strip<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -307,12 +307,12 @@ _services_: 58.3% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 101.5% (2023 est.)<br>
-_government consumption_: 20.3% (2023 est.)<br>
+_household consumption_: 95.5% (2024 est.)<br>
+_government consumption_: 20.7% (2024 est.)<br>
 _investment in fixed capital_: 24.7% (2023 est.)<br>
-_investment in inventories_: 1.5% (2023 est.)<br>
-_exports of goods and services_: 19.6% (2023 est.)<br>
-_imports of goods and services_: -66.8% (2023 est.)<br>
+_investment in inventories_: 1.7% (2024 est.)<br>
+_exports of goods and services_: 21% (2024 est.)<br>
+_imports of goods and services_: -60.3% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -322,7 +322,7 @@ tomatoes, cucumbers, olives, poultry, milk, potatoes, sheep milk, eggplants, gou
 small-scale manufacturing, quarrying, textiles, soap, olive-wood carvings, and mother-of-pearl souvenirs<br>
 
 **Industrial production growth rate**<br>
--8.57% (2023 est.)<br>
+-32.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency; entry includes West Bank and Gaza Strip<br>
 
 **Labor force**<br>
@@ -330,7 +330,7 @@ small-scale manufacturing, quarrying, textiles, soap, olive-wood carvings, and m
 <b>note:</b> number of people ages 15 or older who are employed or seeking work; entry includes West Bank and Gaza Strip<br>
 
 **Unemployment rate**<br>
-24.4% (2022 est.)<br>
+24.5% (2022 est.)<br>
 26.4% (2021 est.)<br>
 25.9% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment; entry includes West Bank and Gaza Strip<br>
@@ -346,18 +346,18 @@ _female_: 56.6% (2022 est.)<br>
 <b>note:</b> % of population with income below national poverty line; entry includes West Bank and Gaza Strip<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-33.7 (2016 est.)<br>
+36.4 (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality; entry includes West Bank and Gaza Strip<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9% (2016 est.)<br>
-_highest 10%_: 25.2% (2016 est.)<br>
+_lowest 10%_: 2.5% (2023 est.)<br>
+_highest 10%_: 27.1% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population; entry includes West Bank and Gaza Strip<br>
 
 **Remittances**<br>
-18.62% of GDP (2023 est.)<br>
-23.98% of GDP (2022 est.)<br>
-20.77% of GDP (2021 est.)<br>
+5.4% of GDP (2024 est.)<br>
+18.2% of GDP (2023 est.)<br>
+24% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities; entry includes West Bank and Gaza Strip<br>
 
 **Budget**<br>
@@ -365,23 +365,20 @@ _revenues_: $3.803 billion (2020 est.)<br>
 _expenditures_: $5.002 billion (2020 est.)<br>
 <strong>note:</strong> includes Palestinian Authority expenditures in the Gaza Strip<br>
 
-**Public debt**<br>
-24.4% of GDP (2014 est.)<br>
-
 **Taxes and other revenues**<br>
 21.5% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP; entry includes West Bank and Gaza Strip<br>
 
 **Current account balance**<br>
+-$2.899 billion (2024 est.)<br>
 -$2.895 billion (2023 est.)<br>
 -$2.037 billion (2022 est.)<br>
--$1.778 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars; entry includes West Bank and Gaza Strip<br>
 
 **Exports**<br>
+$2.885 billion (2024 est.)<br>
 $3.413 billion (2023 est.)<br>
 $3.533 billion (2022 est.)<br>
-$3.14 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars; entry includes West Bank and Gaza Strip<br>
 
 **Exports - partners**<br>
@@ -393,9 +390,9 @@ scrap iron, tropical fruits, olive oil, building stone, prepared meat (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars; entry includes the West Bank and the Gaza Strip<br>
 
 **Imports**<br>
+$8.264 billion (2024 est.)<br>
 $11.637 billion (2023 est.)<br>
 $12.257 billion (2022 est.)<br>
-$10.094 billion (2021 est.)<br>
 <strong>note:</strong> balance of payments - imports of goods and services in current dollars; entry includes West Bank and Gaza Strip<br>
 
 **Imports - partners**<br>
@@ -414,11 +411,11 @@ $896.9 million (2022 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: new Israeli shekels (ILS) per US dollar -<br>
+3.7 (2024 est.)<br>
+3.67 (2023 est.)<br>
 3.36 (2022 est.)<br>
 3.23 (2021 est.)<br>
 3.442 (2020 est.)<br>
-3.565 (2019 est.)<br>
-3.591 (2018 est.)<br>
 
 ## Energy
 

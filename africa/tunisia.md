@@ -403,25 +403,25 @@ _selected World Heritage Site locales_: Amphitheatre of El Jem (c); Archaeologic
 lower middle-income North African economy; drafting reforms for foreign lenders; high unemployment, especially for youth and women; hit hard by COVID-19; high public sector wages; high public debt; protectionist austerity measures; key EU trade partner<br>
 
 **Real GDP (purchasing power parity)**<br>
-$153.152 billion (2023 est.)<br>
-$153.092 billion (2022 est.)<br>
-$149.106 billion (2021 est.)<br>
+$156.086 billion (2024 est.)<br>
+$154.006 billion (2023 est.)<br>
+$153.945 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.04% (2023 est.)<br>
-2.67% (2022 est.)<br>
-4.61% (2021 est.)<br>
+1.4% (2024 est.)<br>
+0% (2023 est.)<br>
+2.7% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$12,700 (2024 est.)<br>
 $12,600 (2023 est.)<br>
-$12,600 (2022 est.)<br>
-$12,400 (2021 est.)<br>
+$12,700 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$48.53 billion (2023 est.)<br>
+$53.41 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -431,18 +431,18 @@ $48.53 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 9.5% (2023 est.)<br>
-_industry_: 23.5% (2023 est.)<br>
+_agriculture_: 9.3% (2023 est.)<br>
+_industry_: 23.6% (2023 est.)<br>
 _services_: 62.1% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 73.1% (2023 est.)<br>
-_government consumption_: 19.7% (2023 est.)<br>
-_investment in fixed capital_: 15.9% (2023 est.)<br>
-_investment in inventories_: 0% (2023 est.)<br>
-_exports of goods and services_: 51.9% (2023 est.)<br>
-_imports of goods and services_: -55.3% (2023 est.)<br>
+_household consumption_: 76.2% (2024 est.)<br>
+_government consumption_: 18.6% (2024 est.)<br>
+_investment in fixed capital_: 13.4% (2024 est.)<br>
+_investment in inventories_: 0% (2024 est.)<br>
+_exports of goods and services_: 48.4% (2024 est.)<br>
+_imports of goods and services_: -56.6% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -453,7 +453,7 @@ milk, tomatoes, olives, onions, chillies/peppers, watermelons, potatoes, wheat, 
 petroleum, mining (particularly phosphate, iron ore), tourism, textiles, footwear, agribusiness, beverages<br>
 
 **Industrial production growth rate**<br>
--0.97% (2023 est.)<br>
+-2.5% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -461,8 +461,8 @@ petroleum, mining (particularly phosphate, iron ore), tourism, textiles, footwea
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-16.2% (2024 est.)<br>
-15.1% (2023 est.)<br>
+16.3% (2024 est.)<br>
+15.2% (2023 est.)<br>
 15.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -490,20 +490,14 @@ _highest 10%_: 27% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-5.92% of GDP (2023 est.)<br>
-6.3% of GDP (2022 est.)<br>
-6.34% of GDP (2021 est.)<br>
+6% of GDP (2023 est.)<br>
+6.2% of GDP (2022 est.)<br>
+6.3% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $10.866 billion (2019 est.)<br>
 _expenditures_: $12.375 billion (2019 est.)<br>
-
-**Public debt**<br>
-70.3% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-24.7% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
 -$1.111 billion (2023 est.)<br>
@@ -540,7 +534,7 @@ refined petroleum, natural gas, plastic products, cars, plastics (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$8.77 billion (2024 est.)<br>
+$9.344 billion (2024 est.)<br>
 $9.24 billion (2023 est.)<br>
 $8.094 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
@@ -681,7 +675,7 @@ the Tunisian military's inventory consists mostly of older or second-hand equipm
 775 Central African Republic (MINUSCA) (2024)<br>
 
 **Military - note**<br>
-the FAT is responsible for territorial defense and internal security; its operational areas of focus are countering Islamist terrorist groups and assisting with securing the border; areas of focus include security operations in the mountainous regions along the Algerian border where smuggling and criminal activity has occurred and militants linked to the al-Qa'ida and Islamic State of Iraq and ash-Sham terrorist groups have been active; the military has the lead for security operations in the area and has conducted joint operations with Algerian security forces; the FAT in recent years also has increased its role in securing the southern border with Libya against terrorist activity and infiltrators, criminal gangs, smuggling, and trafficking; in the remote areas of the border with Libya, buffer/exclusion zones have also been established where the military has the lead for security and counter-terrorism operations; outside of these border areas, the Ministry of Interior has responsibility<br> <br>the FAT conducts bilateral and multinational training exercises with a variety of countries, including Algeria and other North African and Middle Eastern countries, France, and the US, as well as NATO; it also participates in UN peacekeeping operations; Tunisia has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2024)<br>
+the Tunisian Armed Forces (FAT) are responsible for territorial defense and internal security; operational areas of focus include counterterrorism and assisting with securing the border regions, particularly along the frontiers with Algerian and Libya<br> <br>the FAT conducts bilateral and multinational training exercises with a variety of countries, including Algeria and other North African and Middle Eastern countries, France, and the US, as well as NATO; it also participates in UN peacekeeping operations; Tunisia has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2025)<br>
 
 ## Terrorism
 

@@ -325,11 +325,6 @@ $10.89 billion (2016 est.)<br>
 -2.4% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
-**Real GDP per capita**<br>
-$35,700 (2021 est.)<br>
-$31,100 (2015 est.)<br>
-$32,100 (2014 est.)<br>
-
 **GDP (official exchange rate)**<br>
 $9.623 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
@@ -362,18 +357,14 @@ coconuts, vegetables, fruits, pork, beef, maize, eggs, bananas, yams, oranges (2
 **Industries**<br>
 nickel mining and smelting<br>
 
-**Industrial production growth rate**<br>
-4.3% (2014 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
-
 **Labor force**<br>
 130,800 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 11.2% (2024 est.)<br>
-10.9% (2023 est.)<br>
-10.7% (2022 est.)<br>
+11% (2023 est.)<br>
+10.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -383,17 +374,14 @@ _female_: 35.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-6.45% of GDP (2022 est.)<br>
-6.17% of GDP (2021 est.)<br>
-6.57% of GDP (2020 est.)<br>
+6.5% of GDP (2022 est.)<br>
+6.2% of GDP (2021 est.)<br>
+6.6% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.995 billion (2015 est.)<br>
 _expenditures_: $1.993 billion (2015 est.)<br>
-
-**Public debt**<br>
-6.5% of GDP (2015 est.)<br>
 
 **Current account balance**<br>
 -$654.237 million (2016 est.)<br>

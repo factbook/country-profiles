@@ -328,25 +328,25 @@ _history_: official anthem, as a Special Administrative Region of China<br>
 high-income tourism- and services-based economy; global financial hub; COVID-19 and political protests fueled recent recession; ongoing recovery but lower-skilled unemployment remains high; investing in job-reskilling programs<br>
 
 **Real GDP (purchasing power parity)**<br>
-$485.834 billion (2023 est.)<br>
-$470.421 billion (2022 est.)<br>
-$488.412 billion (2021 est.)<br>
+$497.88 billion (2024 est.)<br>
+$485.541 billion (2023 est.)<br>
+$470.42 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.28% (2023 est.)<br>
--3.68% (2022 est.)<br>
-6.45% (2021 est.)<br>
+2.5% (2024 est.)<br>
+3.2% (2023 est.)<br>
+-3.7% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$64,500 (2023 est.)<br>
+$66,200 (2024 est.)<br>
+$64,400 (2023 est.)<br>
 $64,000 (2022 est.)<br>
-$65,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$380.812 billion (2023 est.)<br>
+$407.107 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -358,16 +358,16 @@ $380.812 billion (2023 est.)<br>
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0% (2023 est.)<br>
 _industry_: 6.3% (2023 est.)<br>
-_services_: 91.5% (2023 est.)<br>
+_services_: 91.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 70.6% (2023 est.)<br>
-_government consumption_: 13.3% (2023 est.)<br>
-_investment in fixed capital_: 16.8% (2023 est.)<br>
-_investment in inventories_: -1.3% (2023 est.)<br>
-_exports of goods and services_: 176.8% (2023 est.)<br>
-_imports of goods and services_: -176% (2023 est.)<br>
+_household consumption_: 67.4% (2024 est.)<br>
+_government consumption_: 12.8% (2024 est.)<br>
+_investment in fixed capital_: 16.2% (2024 est.)<br>
+_investment in inventories_: -0.5% (2024 est.)<br>
+_exports of goods and services_: 181.7% (2024 est.)<br>
+_imports of goods and services_: -177.7% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -378,17 +378,17 @@ pork, chicken, spinach, vegetables, pork offal, game meat, beef, fruits, onions,
 trading and logistics, financial services, professional services, tourism, cultural and creative, clothing and textiles, shipping, electronics, toys, clocks and watches<br>
 
 **Industrial production growth rate**<br>
-4.59% (2023 est.)<br>
+3.4% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.823 million (2024 est.)<br>
+3.836 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 2.8% (2024 est.)<br>
-2.9% (2023 est.)<br>
-4.3% (2022 est.)<br>
+3% (2023 est.)<br>
+4.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -397,46 +397,30 @@ _male_: 10.5% (2024 est.)<br>
 _female_: 6.3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-19.9% (2016 est.)<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-53.9 (2016 est.)<br>
-
 **Average household expenditures**<br>
 _on food_: 11.5% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 0.7% of household expenditures (2023 est.)<br>
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.8%<br>
-_highest 10%_: 38.1% (2016)<br>
-
 **Remittances**<br>
-0.11% of GDP (2023 est.)<br>
-0.12% of GDP (2022 est.)<br>
-0.12% of GDP (2021 est.)<br>
+0.1% of GDP (2024 est.)<br>
+0.1% of GDP (2023 est.)<br>
+0.1% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $70.124 billion (2020 est.)<br>
 _expenditures_: $105.849 billion (2020 est.)<br>
 
-**Public debt**<br>
-0.1% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-23.2% (of GDP) (2017 est.)<br>
-
 **Current account balance**<br>
+$52.475 billion (2024 est.)<br>
 $32.338 billion (2023 est.)<br>
 $36.525 billion (2022 est.)<br>
-$43.659 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$739.915 billion (2024 est.)<br>
 $673.738 billion (2023 est.)<br>
 $697.583 billion (2022 est.)<br>
-$752.621 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -448,9 +432,9 @@ gold, integrated circuits, gas turbines, broadcasting equipment, jewelry (2023)<
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$723.397 billion (2024 est.)<br>
 $671.492 billion (2023 est.)<br>
 $682.881 billion (2022 est.)<br>
-$732.087 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

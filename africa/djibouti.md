@@ -372,46 +372,46 @@ _history_: adopted 1977<br>
 food import-dependent Horn of Africa economy driven by various national military bases and port-based trade; fairly resilient from COVID-19 disruptions; major re-exporter; increasing Ethiopian and Chinese trade relations; investing in infrastructure<br>
 
 **Real GDP (purchasing power parity)**<br>
-$7.38 billion (2023 est.)<br>
-$6.918 billion (2022 est.)<br>
-$6.669 billion (2021 est.)<br>
+$7.995 billion (2024 est.)<br>
+$7.546 billion (2023 est.)<br>
+$7.028 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-6.68% (2023 est.)<br>
-3.73% (2022 est.)<br>
-4.52% (2021 est.)<br>
+6% (2024 est.)<br>
+7.4% (2023 est.)<br>
+5.2% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$6,400 (2023 est.)<br>
-$6,100 (2022 est.)<br>
-$5,900 (2021 est.)<br>
+$6,800 (2024 est.)<br>
+$6,500 (2023 est.)<br>
+$6,200 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$4.099 billion (2023 est.)<br>
+$4.086 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.1% (2024 est.)<br>
 1.5% (2023 est.)<br>
 5.2% (2022 est.)<br>
-1.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.8% (2023 est.)<br>
-_industry_: 15.3% (2023 est.)<br>
-_services_: 76.9% (2023 est.)<br>
+_agriculture_: 2.6% (2024 est.)<br>
+_industry_: 15.4% (2024 est.)<br>
+_services_: 75.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 60.6% (2023 est.)<br>
-_government consumption_: 14.5% (2023 est.)<br>
-_investment in fixed capital_: 29.4% (2023 est.)<br>
-_investment in inventories_: 0% (2023 est.)<br>
-_exports of goods and services_: 169.1% (2023 est.)<br>
-_imports of goods and services_: -173.6% (2023 est.)<br>
+_household consumption_: 73% (2024 est.)<br>
+_government consumption_: 18.8% (2024 est.)<br>
+_investment in fixed capital_: 26.3% (2024 est.)<br>
+_investment in inventories_: -30.1% (2024 est.)<br>
+_exports of goods and services_: 160.8% (2024 est.)<br>
+_imports of goods and services_: -148.3% (2024 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -422,7 +422,7 @@ vegetables, beans, milk, beef, camel milk, lemons/limes, goat meat, lamb/mutton,
 construction, agricultural processing, shipping<br>
 
 **Industrial production growth rate**<br>
-10% (2023 est.)<br>
+9.7% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -432,7 +432,7 @@ construction, agricultural processing, shipping<br>
 **Unemployment rate**<br>
 25.9% (2024 est.)<br>
 26.2% (2023 est.)<br>
-26.3% (2022 est.)<br>
+26.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -455,20 +455,14 @@ _highest 10%_: 32.3% (2017 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.43% of GDP (2023 est.)<br>
-1.54% of GDP (2022 est.)<br>
-2.35% of GDP (2021 est.)<br>
+1.4% of GDP (2024 est.)<br>
+1.5% of GDP (2023 est.)<br>
+1.6% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $725 million (2019 est.)<br>
 _expenditures_: $754 million (2019 est.)<br>
-
-**Public debt**<br>
-31.8% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-35.3% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
 $610.124 million (2024 est.)<br>

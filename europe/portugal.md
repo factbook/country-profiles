@@ -328,7 +328,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 5/18/2025<br>
 _parties elected and seats per party_: Social Democratic Party (PPD/PSD) - Democratic and Social Centre - People's Party (CDS-PP) (88); Chega (CH) (60); Socialist Party (PS) (58); Other (24)<br>
-_percentage of women in chamber_: 33.5%<br>
+_percentage of women in chamber_: 35.7%<br>
 _expected date of next election_: September 2029<br>
 
 **Judicial branch**<br>
@@ -391,25 +391,25 @@ _selected World Heritage Site locales_: Historic Évora (c); Central Zone of the
 <p>high-income EU and eurozone economy; strong services sector led by tourism and banking; tight labor market; growth driven by private consumption, trade surplus, and public investment from EU funds; declining public debt</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$441.697 billion (2023 est.)<br>
-$430.813 billion (2022 est.)<br>
-$402.682 billion (2021 est.)<br>
+$448.226 billion (2024 est.)<br>
+$439.745 billion (2023 est.)<br>
+$428.547 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.53% (2023 est.)<br>
-6.99% (2022 est.)<br>
-5.74% (2021 est.)<br>
+1.9% (2024 est.)<br>
+2.6% (2023 est.)<br>
+7% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$41,800 (2023 est.)<br>
-$41,300 (2022 est.)<br>
-$38,900 (2021 est.)<br>
+$41,900 (2024 est.)<br>
+$41,600 (2023 est.)<br>
+$41,100 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$289.114 billion (2023 est.)<br>
+$308.683 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -419,17 +419,17 @@ $289.114 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.1% (2023 est.)<br>
-_industry_: 18.1% (2023 est.)<br>
-_services_: 66.8% (2023 est.)<br>
+_agriculture_: 2% (2024 est.)<br>
+_industry_: 18.4% (2024 est.)<br>
+_services_: 66.4% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 62.1% (2023 est.)<br>
-_government consumption_: 16.9% (2023 est.)<br>
+_household consumption_: 62% (2023 est.)<br>
+_government consumption_: 16.8% (2023 est.)<br>
 _investment in fixed capital_: 20.1% (2023 est.)<br>
 _investment in inventories_: 0.4% (2023 est.)<br>
-_exports of goods and services_: 47.3% (2023 est.)<br>
+_exports of goods and services_: 47.5% (2023 est.)<br>
 _imports of goods and services_: -46.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
@@ -441,17 +441,17 @@ milk, tomatoes, olives, grapes, maize, pork, potatoes, chicken, apples, oranges 
 textiles, clothing, footwear, wood and cork, paper and pulp, chemicals, fuels and lubricants, automobiles and auto parts, base metals, minerals, porcelain and ceramics, glassware, technology, telecommunications; dairy products, wine, other foodstuffs; ship construction and refurbishment; tourism, plastics, financial services, optics<br>
 
 **Industrial production growth rate**<br>
-0.9% (2023 est.)<br>
+1.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.394 million (2024 est.)<br>
+5.464 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 6.4% (2024 est.)<br>
-6.5% (2023 est.)<br>
-6% (2022 est.)<br>
+6.6% (2023 est.)<br>
+6.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -465,7 +465,7 @@ _female_: 20.7% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-34.6 (2021 est.)<br>
+36.3 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -473,14 +473,14 @@ _on food_: 17.3% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 3.1% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.8% (2021 est.)<br>
-_highest 10%_: 27.5% (2021 est.)<br>
+_lowest 10%_: 2.5% (2022 est.)<br>
+_highest 10%_: 28.8% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.46% of GDP (2023 est.)<br>
-0.38% of GDP (2022 est.)<br>
-0.3% of GDP (2021 est.)<br>
+0.6% of GDP (2024 est.)<br>
+0.6% of GDP (2023 est.)<br>
+0.6% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -493,7 +493,7 @@ _expenditures_: $100.796 billion (2022 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-22.9% (of GDP) (2023 est.)<br>
+22.8% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -531,7 +531,7 @@ cars, crude petroleum, vehicle parts/accessories, refined petroleum, garments (2
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$10.332 billion (2024 est.)<br>
+$42.434 billion (2024 est.)<br>
 $35.243 billion (2023 est.)<br>
 $32.232 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

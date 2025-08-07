@@ -37,7 +37,7 @@ _total_: 0 km<br>
 _territorial sea_: 12 nm<br>
 _exclusive economic zone_: 200 nm<br>
 _continental shelf_: 200 nm or to the edge of the continental margin<br>
-measured from claimed archipelagic straight baselines<br>
+<strong>note: </strong>measured from claimed archipelagic straight baselines<br>
 
 **Climate**<br>
 tropical, modified by southeast trade winds; warm, dry winter (May to November); hot, wet, humid summer (November to May)<br>
@@ -331,7 +331,7 @@ _subordinate courts_: lower regional courts known as District Courts, Court of C
 Alliance Morisien (Mauritian Alliance)<br>Jean-Claude Barbier Movement (Mouvement Jean-Claude Barbier) or MJCB<br>Mauritian Militant Movement (Mouvement Militant Mauricien) or MMM<br>Mauritian Social Democratic Party (Parti Mauricien Social Democrate) or PMSD<br>Mauritius Labor Party (Parti Travailliste) or PTR or MLP<br>Militant Platform (Plateforme Militante) or PM<br>Militant Socialist Movement (Mouvement Socialist Mauricien) or MSM<br>Muvman Liberater or ML<br>National Alliance<br>Patriotic Movement (Mouvement Patriotique) or MAG<br>Rodrigues Peoples Organization (Organisation du Peuple Rodriguais) or OPR<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Dhanandjay GOBOODUN (since 9 January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Gajjaluxmi MOOTOOSAMY (since 5 June 2025)<br>
 _chancery_: 1709 N Street NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 244-1491<br>
 _FAX_: [1] (202) 966-0983<br>
@@ -380,46 +380,46 @@ _selected World Heritage Site locales_: Aapravasi Ghat; Le Morne Cultural Landsc
 upper middle-income Indian Ocean island economy; diversified portfolio; investing in maritime security; strong tourism sector decimated by COVID-19; expanding in information and financial services; environmentally fragile<br>
 
 **Real GDP (purchasing power parity)**<br>
-$33.532 billion (2023 est.)<br>
-$31.35 billion (2022 est.)<br>
-$28.793 billion (2021 est.)<br>
+$34.406 billion (2024 est.)<br>
+$32.864 billion (2023 est.)<br>
+$31.296 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-6.96% (2023 est.)<br>
-8.88% (2022 est.)<br>
-3.4% (2021 est.)<br>
+4.7% (2024 est.)<br>
+5% (2023 est.)<br>
+8.7% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$26,600 (2023 est.)<br>
+$27,300 (2024 est.)<br>
+$26,100 (2023 est.)<br>
 $24,800 (2022 est.)<br>
-$22,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$14.645 billion (2023 est.)<br>
+$14.953 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.1% (2024 est.)<br>
+3.6% (2024 est.)<br>
 7.1% (2023 est.)<br>
 10.8% (2022 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3.9% (2023 est.)<br>
-_industry_: 18.6% (2023 est.)<br>
-_services_: 64.9% (2023 est.)<br>
+_agriculture_: 4.3% (2024 est.)<br>
+_industry_: 17.8% (2024 est.)<br>
+_services_: 64.4% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 66.5% (2023 est.)<br>
-_government consumption_: 13.8% (2023 est.)<br>
-_investment in fixed capital_: 23.9% (2023 est.)<br>
-_investment in inventories_: -0.2% (2023 est.)<br>
-_exports of goods and services_: 52.5% (2023 est.)<br>
-_imports of goods and services_: -55.4% (2023 est.)<br>
+_household consumption_: 68.6% (2024 est.)<br>
+_government consumption_: 14.7% (2024 est.)<br>
+_investment in fixed capital_: 21% (2024 est.)<br>
+_investment in inventories_: 0.2% (2024 est.)<br>
+_exports of goods and services_: 46.2% (2024 est.)<br>
+_imports of goods and services_: -57.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -430,17 +430,17 @@ sugarcane, chicken, pumpkins/squash, tomatoes, eggs, potatoes, cabbages, bananas
 food processing (largely sugar milling), textiles, clothing, mining, chemicals, metal products, transport equipment, nonelectrical machinery, tourism<br>
 
 **Industrial production growth rate**<br>
-10.47% (2023 est.)<br>
+4.7% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-594,700 (2024 est.)<br>
+594,900 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 5.5% (2024 est.)<br>
 5.6% (2023 est.)<br>
-6.3% (2022 est.)<br>
+6.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -463,9 +463,9 @@ _highest 10%_: 29.9% (2017 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.15% of GDP (2023 est.)<br>
-2.12% of GDP (2022 est.)<br>
-2.37% of GDP (2021 est.)<br>
+2.2% of GDP (2023 est.)<br>
+2.1% of GDP (2022 est.)<br>
+2.4% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -478,7 +478,7 @@ _expenditures_: $3.647 billion (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-19.8% (of GDP) (2023 est.)<br>
+20.5% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -516,7 +516,7 @@ refined petroleum, cars, fish, coal, packaged medicine (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$7.465 billion (2024 est.)<br>
+$8.506 billion (2024 est.)<br>
 $7.248 billion (2023 est.)<br>
 $7.793 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

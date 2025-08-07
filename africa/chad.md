@@ -65,7 +65,8 @@ _other_: 56.8% (2022 est.)<br>
 _fresh water lake(s)_: Lake Chad (endorheic lake shared with Niger, Nigeria, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
+_Atlantic Ocean drainage_: Niger (2,261,741 sq km)<br>
+_Internal (endorheic basin) drainage_: Lake Chad (2,497,738 sq km)<br>
 
 **Major aquifers**<br>
 Lake Chad Basin, Nubian Aquifer System<br>
@@ -408,25 +409,25 @@ _selected World Heritage Site locales_: Lakes of Ounianga (n); Ennedi Massif: Na
 <p>oil-dependent economy challenged by market fluctuations, regional instability, refugee influx, and climate vulnerability; high levels of extreme poverty and food insecurity; recent growth driven by oil and agricultural recovery; debt-restructuring agreement under G20 Common Framework</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$32.446 billion (2023 est.)<br>
-$31.161 billion (2022 est.)<br>
-$30.311 billion (2021 est.)<br>
+$52.895 billion (2024 est.)<br>
+$51.03 billion (2023 est.)<br>
+$49.012 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.12% (2023 est.)<br>
-2.8% (2022 est.)<br>
--1.17% (2021 est.)<br>
+3.7% (2024 est.)<br>
+4.1% (2023 est.)<br>
+12.9% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$1,700 (2023 est.)<br>
-$1,700 (2022 est.)<br>
-$1,700 (2021 est.)<br>
+$2,600 (2024 est.)<br>
+$2,600 (2023 est.)<br>
+$2,700 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$13.149 billion (2023 est.)<br>
+$20.626 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -436,18 +437,18 @@ $13.149 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 25.1% (2023 est.)<br>
-_industry_: 44.4% (2023 est.)<br>
-_services_: 28.7% (2023 est.)<br>
+_agriculture_: 32.2% (2024 est.)<br>
+_industry_: 29.7% (2024 est.)<br>
+_services_: 31.6% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 74.6% (2023 est.)<br>
-_government consumption_: 4.2% (2023 est.)<br>
-_investment in fixed capital_: 25.8% (2023 est.)<br>
-_investment in inventories_: 0% (2023 est.)<br>
-_exports of goods and services_: 43.5% (2023 est.)<br>
-_imports of goods and services_: -48.1% (2023 est.)<br>
+_household consumption_: 61.3% (2024 est.)<br>
+_government consumption_: 8.7% (2024 est.)<br>
+_investment in fixed capital_: 14.4% (2024 est.)<br>
+_investment in inventories_: 3.4% (2024 est.)<br>
+_exports of goods and services_: 28.1% (2024 est.)<br>
+_imports of goods and services_: -17.2% (2024 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -458,7 +459,7 @@ sorghum, groundnuts, millet, beef, cereals, yams, sugarcane, maize, cassava, mil
 oil, cotton textiles, brewing, natron (sodium carbonate), soap, cigarettes, construction materials<br>
 
 **Industrial production growth rate**<br>
-3.27% (2023 est.)<br>
+5.1% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -478,7 +479,7 @@ _female_: 0.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-42.3% (2018 est.)<br>
+44.8% (2022 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -494,25 +495,16 @@ _highest 10%_: 29.5% (2022 est.)<br>
 0% of GDP (2023 est.)<br>
 0% of GDP (2022 est.)<br>
 0% of GDP (2021 est.)<br>
+<strong>note:</strong> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $2.29 billion (2020 est.)<br>
 _expenditures_: $2.12 billion (2020 est.)<br>
 
-**Public debt**<br>
-52.5% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-13.5% (of GDP) (2017 est.)<br>
-
-**Current account balance**<br>
--$558 million (2017 est.)<br>
--$926 million (2016 est.)<br>
-
 **Exports**<br>
-$5.721 billion (2023 est.)<br>
-$6.114 billion (2022 est.)<br>
-$4.565 billion (2021 est.)<br>
+$5.799 billion (2024 est.)<br>
+$5.7 billion (2023 est.)<br>
+$5.658 billion (2022 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -524,9 +516,9 @@ crude petroleum, gold, oil seeds, gum resins, cotton (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$6.321 billion (2023 est.)<br>
-$5.009 billion (2022 est.)<br>
-$5.211 billion (2021 est.)<br>
+$3.557 billion (2024 est.)<br>
+$3.271 billion (2023 est.)<br>
+$2.898 billion (2022 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

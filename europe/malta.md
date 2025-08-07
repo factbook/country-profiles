@@ -371,46 +371,46 @@ _selected World Heritage Site locales_: City of Valletta; Ħal Saflieni Hypogeum
 high-income, EU-member European economy; diversified portfolio; euro user; dependent on food and energy imports; strong tourism, trade, and manufacturing sectors; high North African immigration; large welfare system; educated workforce<br>
 
 **Real GDP (purchasing power parity)**<br>
-$33.787 billion (2023 est.)<br>
-$31.43 billion (2022 est.)<br>
-$30.178 billion (2021 est.)<br>
+$34.731 billion (2024 est.)<br>
+$32.774 billion (2023 est.)<br>
+$30.689 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-7.5% (2023 est.)<br>
-4.15% (2022 est.)<br>
-12.51% (2021 est.)<br>
+6% (2024 est.)<br>
+6.8% (2023 est.)<br>
+4.3% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$61,100 (2023 est.)<br>
-$59,100 (2022 est.)<br>
-$58,200 (2021 est.)<br>
+$60,500 (2024 est.)<br>
+$59,300 (2023 est.)<br>
+$57,800 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$22.329 billion (2023 est.)<br>
+$24.322 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+1.7% (2024 est.)<br>
 5.1% (2023 est.)<br>
 6.2% (2022 est.)<br>
-1.5% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.7% (2023 est.)<br>
-_industry_: 11.7% (2023 est.)<br>
-_services_: 80.6% (2023 est.)<br>
+_agriculture_: 0.2% (2024 est.)<br>
+_industry_: 11.4% (2024 est.)<br>
+_services_: 80.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 45.8% (2023 est.)<br>
-_government consumption_: 16.6% (2023 est.)<br>
-_investment in fixed capital_: 18.6% (2023 est.)<br>
-_investment in inventories_: 0.9% (2023 est.)<br>
-_exports of goods and services_: 122.8% (2023 est.)<br>
-_imports of goods and services_: -104.7% (2023 est.)<br>
+_household consumption_: 46.6% (2024 est.)<br>
+_government consumption_: 17.2% (2024 est.)<br>
+_investment in fixed capital_: 17.9% (2024 est.)<br>
+_investment in inventories_: 0.9% (2024 est.)<br>
+_exports of goods and services_: 123.5% (2024 est.)<br>
+_imports of goods and services_: -106.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -421,17 +421,17 @@ milk, tomatoes, onions, potatoes, chicken, cauliflower/broccoli, cabbages, pork,
 tourism, electronics, ship building and repair, construction, food and beverages, pharmaceuticals, footwear, clothing, tobacco, aviation services, financial services, information technology services<br>
 
 **Industrial production growth rate**<br>
-5.29% (2023 est.)<br>
+5.6% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-309,600 (2024 est.)<br>
+318,200 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.7% (2024 est.)<br>
-3.1% (2023 est.)<br>
-2.9% (2022 est.)<br>
+2.8% (2024 est.)<br>
+3.2% (2023 est.)<br>
+3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -445,18 +445,18 @@ _female_: 5.7% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-31.4 (2020 est.)<br>
+34.6 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.1% (2020 est.)<br>
-_highest 10%_: 25.1% (2020 est.)<br>
+_lowest 10%_: 2.7% (2022 est.)<br>
+_highest 10%_: 27.7% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.07% of GDP (2023 est.)<br>
-0.06% of GDP (2022 est.)<br>
-0.07% of GDP (2021 est.)<br>
+0.1% of GDP (2024 est.)<br>
+0.1% of GDP (2023 est.)<br>
+0.1% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -469,19 +469,19 @@ _expenditures_: $6.922 billion (2022 est.)<br>
 <strong>note:</strong> Malta reports public debt at nominal value outstanding at the end of the year, according to guidelines set out in the Maastricht Treaty for general government gross debt; the data include the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); general government comprises the central, state, and local governments, and social security funds<br>
 
 **Taxes and other revenues**<br>
-21.8% (of GDP) (2023 est.)<br>
+21.9% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$1.383 billion (2024 est.)<br>
 $1.425 billion (2023 est.)<br>
 -$167.611 million (2022 est.)<br>
-$1.844 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$29.245 billion (2024 est.)<br>
 $26.647 billion (2023 est.)<br>
 $23.566 billion (2022 est.)<br>
-$22.605 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -493,9 +493,9 @@ refined petroleum, integrated circuits, packaged medicine, ships, postage stamps
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$24.505 billion (2024 est.)<br>
 $22.637 billion (2023 est.)<br>
 $21.406 billion (2022 est.)<br>
-$18.795 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -507,7 +507,7 @@ ships, refined petroleum, integrated circuits, aircraft, packaged medicine (2023
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.402 billion (2024 est.)<br>
+$1.418 billion (2024 est.)<br>
 $1.223 billion (2023 est.)<br>
 $1.199 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

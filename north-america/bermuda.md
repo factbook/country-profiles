@@ -335,25 +335,25 @@ _selected World Heritage Site locales_: Historic Town of St. George and Related 
 small, tourism- and construction-based, territorial-island economy; American import and tourist destination; known offshore banking hub; increasing inflation; major re-exportation and re-importation area<br>
 
 **Real GDP (purchasing power parity)**<br>
-$6.343 billion (2023 est.)<br>
-$6.349 billion (2022 est.)<br>
-$5.965 billion (2021 est.)<br>
+$6.808 billion (2024 est.)<br>
+$6.667 billion (2023 est.)<br>
+$6.355 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--0.09% (2023 est.)<br>
-6.43% (2022 est.)<br>
-5.42% (2021 est.)<br>
+2.1% (2024 est.)<br>
+4.9% (2023 est.)<br>
+6.5% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$98,000 (2023 est.)<br>
+$105,300 (2024 est.)<br>
+$103,100 (2023 est.)<br>
 $98,100 (2022 est.)<br>
-$92,300 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$8.142 billion (2023 est.)<br>
+$8.98 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -361,18 +361,18 @@ $8.142 billion (2023 est.)<br>
 1.4% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.2% (2022 est.)<br>
-_industry_: 5.4% (2022 est.)<br>
-_services_: 90.5% (2022 est.)<br>
+_agriculture_: 0.2% (2023 est.)<br>
+_industry_: 4.6% (2023 est.)<br>
+_services_: 91.5% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 47.9% (2023 est.)<br>
-_government consumption_: 12% (2023 est.)<br>
-_investment in fixed capital_: 11.8% (2023 est.)<br>
-_investment in inventories_: 0% (2023 est.)<br>
-_exports of goods and services_: 52.9% (2023 est.)<br>
-_imports of goods and services_: -24.6% (2023 est.)<br>
+_household consumption_: 45.6% (2024 est.)<br>
+_government consumption_: 11% (2024 est.)<br>
+_investment in fixed capital_: 11.3% (2024 est.)<br>
+_investment in inventories_: 0% (2024 est.)<br>
+_exports of goods and services_: 56.3% (2024 est.)<br>
+_imports of goods and services_: -24.2% (2024 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -382,42 +382,29 @@ bananas, vegetables, citrus, flowers; dairy products, honey<br>
 international business, tourism, light manufacturing<br>
 
 **Industrial production growth rate**<br>
-5.57% (2022 est.)<br>
+-3.6% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
-**Labor force**<br>
-33,480 (2016 est.)<br>
-
-**Unemployment rate**<br>
-7% (2017 est.)<br>
-7% (2016 est.)<br>
-
 **Remittances**<br>
-21.49% of GDP (2023 est.)<br>
-22.36% of GDP (2022 est.)<br>
-22.72% of GDP (2021 est.)<br>
+23.7% of GDP (2023 est.)<br>
+22.3% of GDP (2022 est.)<br>
+22.7% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $999.2 million (2017 est.)<br>
 _expenditures_: $1.176 billion (2017 est.)<br>
 
-**Public debt**<br>
-43% of GDP (FY14/15)<br>
-
-**Taxes and other revenues**<br>
-16.3% (of GDP) (2017 est.)<br>
-
 **Current account balance**<br>
+$1.32 billion (2023 est.)<br>
+$1.135 billion (2022 est.)<br>
 $962.258 million (2021 est.)<br>
-$853.85 million (2020 est.)<br>
-$838.701 million (2019 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$1.599 billion (2023 est.)<br>
+$1.425 billion (2022 est.)<br>
 $1.136 billion (2021 est.)<br>
-$1.027 billion (2020 est.)<br>
-$1.605 billion (2019 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -429,9 +416,9 @@ crude petroleum, ships, aircraft, liquor, railway cargo containers (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$2.3 billion (2023 est.)<br>
+$2.235 billion (2022 est.)<br>
 $1.925 billion (2021 est.)<br>
-$1.723 billion (2020 est.)<br>
-$2.224 billion (2019 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -444,11 +431,11 @@ ships, refined petroleum, railway cargo containers, packaged medicine, cars (202
 
 **Exchange rates**<br>
 _Currency_: Bermudian dollars (BMD) per US dollar -<br>
+1 (2024 est.)<br>
 1 (2023 est.)<br>
 1 (2022 est.)<br>
 1 (2021 est.)<br>
 1 (2020 est.)<br>
-1 (2019 est.)<br>
 
 ## Energy
 

@@ -36,7 +36,7 @@ _border countries_: Malaysia 1,881 km; Papua New Guinea 824 km; Timor-Leste 253 
 **Maritime claims**<br>
 _territorial sea_: 12 nm<br>
 _exclusive economic zone_: 200 nm<br>
-measured from claimed archipelagic straight baselines<br>
+<strong>note: </strong>measured from claimed archipelagic straight baselines<br>
 
 **Climate**<br>
 tropical; hot, humid; more moderate in highlands<br>
@@ -282,8 +282,8 @@ _agricultural_: 189.7 billion cubic meters (2020 est.)<br>
 2.02 trillion cubic meters (2020 est.)<br>
 
 **Geoparks**<br>
-_total global geoparks and regional networks_: 10<br>
-_global geoparks and regional networks_: Batur; Belitong; Ciletuh - Palabuhanratu; Gunung Sewu; Ijen; Maros Pangkep; Merangin Jambi; Raja Ampat; Rinjani-Lombok; Toba Caldera (2023)<br>
+_total global geoparks and regional networks_: 12 (2025)<br>
+_global geoparks and regional networks_: Batur; Belitong; Ciletuh - Palabuhanratu; Gunung Sewu; Ijen; Kebumen; Maros Pangkep; Merangin Jambi; Meratus; Raja Ampat; Rinjani-Lombok; Toba Caldera (2025)<br>
 
 ## Government
 
@@ -410,25 +410,25 @@ _selected World Heritage Site locales_: Borobudur Temple Compounds (c); Komodo N
 upper middle-income, largest and growing Southeast Asian economy; higher lending rates to moderate inflation; ongoing relocation of capital fueling infrastructure projects; major tourism sector prompting green economy goals<br>
 
 **Real GDP (purchasing power parity)**<br>
+$4.102 trillion (2024 est.)<br>
 $3.906 trillion (2023 est.)<br>
 $3.718 trillion (2022 est.)<br>
-$3.531 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.05% (2023 est.)<br>
-5.31% (2022 est.)<br>
-3.7% (2021 est.)<br>
+5% (2024 est.)<br>
+5% (2023 est.)<br>
+5.3% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$14,500 (2024 est.)<br>
 $13,900 (2023 est.)<br>
 $13,300 (2022 est.)<br>
-$12,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.371 trillion (2023 est.)<br>
+$1.396 trillion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -438,18 +438,18 @@ $1.371 trillion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 12.5% (2023 est.)<br>
-_industry_: 40.2% (2023 est.)<br>
-_services_: 42.9% (2023 est.)<br>
+_agriculture_: 12.6% (2024 est.)<br>
+_industry_: 39.3% (2024 est.)<br>
+_services_: 43.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 54.4% (2023 est.)<br>
-_government consumption_: 7.4% (2023 est.)<br>
-_investment in fixed capital_: 29.3% (2023 est.)<br>
-_investment in inventories_: 1.2% (2023 est.)<br>
-_exports of goods and services_: 21.7% (2023 est.)<br>
-_imports of goods and services_: -19.6% (2023 est.)<br>
+_household consumption_: 55.4% (2024 est.)<br>
+_government consumption_: 7.7% (2024 est.)<br>
+_investment in fixed capital_: 29.1% (2024 est.)<br>
+_investment in inventories_: 2.3% (2024 est.)<br>
+_exports of goods and services_: 22.2% (2024 est.)<br>
+_imports of goods and services_: -20.4% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -460,7 +460,7 @@ oil palm fruit, rice, sugarcane, maize, coconuts, cassava, bananas, eggs, chicke
 petroleum and natural gas, textiles, automotive, electrical appliances, apparel, footwear, mining, cement, medical instruments and appliances, handicrafts, chemical fertilizers, plywood, rubber, processed food, jewelry, and tourism<br>
 
 **Industrial production growth rate**<br>
-5% (2023 est.)<br>
+5.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -469,7 +469,7 @@ petroleum and natural gas, textiles, automotive, electrical appliances, apparel,
 
 **Unemployment rate**<br>
 3.3% (2024 est.)<br>
-3.3% (2023 est.)<br>
+3.4% (2023 est.)<br>
 3.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -480,11 +480,11 @@ _female_: 13% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-9.4% (2023 est.)<br>
+9% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-36.1 (2023 est.)<br>
+34.9 (2024 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -492,14 +492,14 @@ _on food_: 33.5% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 7.3% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.3% (2023 est.)<br>
-_highest 10%_: 29.9% (2023 est.)<br>
+_lowest 10%_: 3.5% (2024 est.)<br>
+_highest 10%_: 28.8% (2024 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.06% of GDP (2023 est.)<br>
-0.99% of GDP (2022 est.)<br>
-0.79% of GDP (2021 est.)<br>
+1.1% of GDP (2024 est.)<br>
+1.1% of GDP (2023 est.)<br>
+1% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -515,13 +515,13 @@ _expenditures_: $192.97 billion (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$8.856 billion (2024 est.)<br>
+-$8.47 billion (2024 est.)<br>
 -$2.042 billion (2023 est.)<br>
 $13.215 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$300.811 billion (2024 est.)<br>
+$300.868 billion (2024 est.)<br>
 $291.287 billion (2023 est.)<br>
 $315.746 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -535,7 +535,7 @@ coal, palm oil, iron alloys, lignite, garments (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$279.552 billion (2024 est.)<br>
+$279.419 billion (2024 est.)<br>
 $262.694 billion (2023 est.)<br>
 $273.031 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -549,7 +549,7 @@ refined petroleum, crude petroleum, plastics, vehicle parts/accessories, integra
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$149.118 billion (2024 est.)<br>
+$155.708 billion (2024 est.)<br>
 $146.359 billion (2023 est.)<br>
 $137.222 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

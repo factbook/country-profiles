@@ -389,25 +389,25 @@ _selected World Heritage Site locales_: Te Wahipounamu – South West New Zealan
 <p>high-income, globally integrated Pacific island economy; strong agriculture, manufacturing, and tourism sectors; reliant on Chinese market for exports; recovery trajectory following deep post-pandemic recession; challenges of fiscal deficits, below-average productivity, cost of living, and drop in net migration</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$255.026 billion (2023 est.)<br>
-$253.17 billion (2022 est.)<br>
-$246.334 billion (2021 est.)<br>
+$257.117 billion (2024 est.)<br>
+$257.443 billion (2023 est.)<br>
+$253.903 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.73% (2023 est.)<br>
-2.77% (2022 est.)<br>
-4.55% (2021 est.)<br>
+-0.1% (2024 est.)<br>
+1.4% (2023 est.)<br>
+3.5% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$48,800 (2023 est.)<br>
-$49,500 (2022 est.)<br>
-$48,200 (2021 est.)<br>
+$48,200 (2024 est.)<br>
+$49,100 (2023 est.)<br>
+$49,600 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$252.176 billion (2023 est.)<br>
+$260.236 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -417,18 +417,18 @@ $252.176 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 5.8% (2021 est.)<br>
-_industry_: 19% (2021 est.)<br>
-_services_: 67.1% (2021 est.)<br>
+_agriculture_: 4.6% (2022 est.)<br>
+_industry_: 19.6% (2022 est.)<br>
+_services_: 67.4% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 58.2% (2022 est.)<br>
-_government consumption_: 21.1% (2022 est.)<br>
-_investment in fixed capital_: 24.6% (2023 est.)<br>
-_investment in inventories_: -1.1% (2023 est.)<br>
-_exports of goods and services_: 24.1% (2023 est.)<br>
-_imports of goods and services_: -26.9% (2023 est.)<br>
+_household consumption_: 57.5% (2022 est.)<br>
+_government consumption_: 20.9% (2022 est.)<br>
+_investment in fixed capital_: 25.4% (2022 est.)<br>
+_investment in inventories_: 0.9% (2022 est.)<br>
+_exports of goods and services_: 24% (2022 est.)<br>
+_imports of goods and services_: -29.4% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -439,16 +439,16 @@ milk, beef, kiwifruit, apples, grapes, lamb/mutton, potatoes, wheat, barley, chi
 agriculture, forestry, fishing, logs and wood articles, manufacturing, mining, construction, financial services, real estate services, tourism<br>
 
 **Industrial production growth rate**<br>
--2.56% (2022 est.)<br>
+-1% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.079 million (2024 est.)<br>
+3.124 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 4.9% (2024 est.)<br>
-3.7% (2023 est.)<br>
+3.8% (2023 est.)<br>
 3.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -463,9 +463,9 @@ _on food_: 12.8% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 4.7% of household expenditures (2023 est.)<br>
 
 **Remittances**<br>
-0.32% of GDP (2023 est.)<br>
-0.23% of GDP (2022 est.)<br>
-0.26% of GDP (2021 est.)<br>
+0.3% of GDP (2023 est.)<br>
+0.2% of GDP (2022 est.)<br>
+0.3% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -474,23 +474,23 @@ _expenditures_: $88.64 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-54.6% of GDP (2022 est.)<br>
+54% of GDP (2022 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-29.9% (of GDP) (2022 est.)<br>
+29.6% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$15.978 billion (2024 est.)<br>
 -$17.065 billion (2023 est.)<br>
 -$21.627 billion (2022 est.)<br>
--$14.804 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$61.799 billion (2024 est.)<br>
 $59.029 billion (2023 est.)<br>
 $57.485 billion (2022 est.)<br>
-$54.923 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -502,9 +502,9 @@ milk, wood, beef, butter, sheep and goat meat (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$67.998 billion (2024 est.)<br>
 $68.412 billion (2023 est.)<br>
 $71.35 billion (2022 est.)<br>
-$62.984 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

@@ -286,9 +286,6 @@ _history_: official anthem, as a French territory<br>
 **Economic overview**<br>
 lower-middle-income, agrarian French dependency economy; heavily reliant on French subsidies; licenses fishing rights to Japan and South Korea; major remittances from New Caledonia; aging workforce; import-dependent; deforestation-fueled fragility<br>
 
-**Inflation rate (consumer prices)**<br>
-0.9% (2015)<br>
-
 **Agricultural products**<br>
 coconuts, breadfruit, yams, taro, bananas; pigs, goats; fish<br>
 
@@ -316,11 +313,11 @@ refined petroleum, prepared meat, poultry, iron pipe fittings, animal food (2023
 
 **Exchange rates**<br>
 _Currency_: Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
+110.31 (2024 est.)<br>
 110.347 (2023 est.)<br>
 113.474 (2022 est.)<br>
 100.88 (2021 est.)<br>
 104.711 (2020 est.)<br>
-110.347 (2019 est.)<br>
 
 ## Communications
 

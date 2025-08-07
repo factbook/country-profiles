@@ -68,7 +68,7 @@ _fresh water lake(s)_: Lake Kivu (shared with Democratic Republic of Congo) - 2,
 Nile river source (shared with Tanzania, Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+_Atlantic Ocean drainage_: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Population distribution**<br>
 one of Africa's most densely populated countries; large concentrations tend to be in the central regions and along the shore of Lake Kivu in the west, as shown in this population distribution map<br>
@@ -409,25 +409,25 @@ _selected World Heritage Site locales_: Memorial sites of the Genocide: Nyamata,
 fast-growing Sub-Saharan economy; major public investments; trade and tourism hit hard by COVID-19; increasing poverty after 2 decades of declines; Ugandan competition for regional influence; major coffee exporter; contested GDP figures<br>
 
 **Real GDP (purchasing power parity)**<br>
-$42.701 billion (2023 est.)<br>
-$39.45 billion (2022 est.)<br>
-$36.474 billion (2021 est.)<br>
+$46.543 billion (2024 est.)<br>
+$42.743 billion (2023 est.)<br>
+$39.485 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-8.24% (2023 est.)<br>
-8.16% (2022 est.)<br>
-10.86% (2021 est.)<br>
+8.9% (2024 est.)<br>
+8.2% (2023 est.)<br>
+8.2% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$3,300 (2024 est.)<br>
 $3,100 (2023 est.)<br>
 $2,900 (2022 est.)<br>
-$2,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$14.098 billion (2023 est.)<br>
+$14.252 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -437,18 +437,18 @@ $14.098 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 27.1% (2023 est.)<br>
-_industry_: 21.5% (2023 est.)<br>
-_services_: 44.3% (2023 est.)<br>
+_agriculture_: 24.6% (2024 est.)<br>
+_industry_: 21% (2024 est.)<br>
+_services_: 47.6% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 75.3% (2023 est.)<br>
-_government consumption_: 16.6% (2023 est.)<br>
-_investment in fixed capital_: 27.1% (2023 est.)<br>
-_investment in inventories_: -3.8% (2023 est.)<br>
-_exports of goods and services_: 25.4% (2023 est.)<br>
-_imports of goods and services_: -40.6% (2023 est.)<br>
+_household consumption_: 64.9% (2024 est.)<br>
+_government consumption_: 17.1% (2024 est.)<br>
+_investment in fixed capital_: 29.1% (2024 est.)<br>
+_investment in inventories_: -3.2% (2024 est.)<br>
+_exports of goods and services_: 30.8% (2024 est.)<br>
+_imports of goods and services_: -39.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -459,7 +459,7 @@ bananas, cassava, sweet potatoes, plantains, potatoes, maize, beans, pumpkins/sq
 cement, agricultural products, small-scale beverages, soap, furniture, shoes, plastic goods, textiles, cigarettes<br>
 
 **Industrial production growth rate**<br>
-10.25% (2023 est.)<br>
+10% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -492,9 +492,9 @@ _highest 10%_: 35.6% (2016 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.67% of GDP (2023 est.)<br>
-3.56% of GDP (2022 est.)<br>
-3.53% of GDP (2021 est.)<br>
+3.6% of GDP (2023 est.)<br>
+3.6% of GDP (2022 est.)<br>
+3.5% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -502,11 +502,8 @@ _revenues_: $2.676 billion (2020 est.)<br>
 _expenditures_: $2.191 billion (2020 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-40.5% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
-13.7% (of GDP) (2023 est.)<br>
+13.5% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>

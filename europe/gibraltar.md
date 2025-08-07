@@ -291,13 +291,6 @@ _history_: official anthem, as an overseas UK territory<br>
 **Economic overview**<br>
 British territorial high-income economy; Brexit caused significant economic disruption to longstanding financial services, shipping, and tourism industries; ongoing negotiations to rejoin EU Schengen Area; independent taxation authority<br>
 
-**Real GDP (purchasing power parity)**<br>
-$2.044 billion (2014 est.)<br>
-<strong>note:</strong> data are in 2014 dollars<br>
-
-**Real GDP per capita**<br>
-$61,700 (2014 est.)<br>
-
 **GDP (official exchange rate)**<br>
 $2.044 billion (2014 est.)<br>
 
@@ -306,16 +299,6 @@ none<br>
 
 **Industries**<br>
 tourism, banking and finance, ship repairing, tobacco<br>
-
-**Industrial production growth rate**<br>
-4.3% (2014 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
-
-**Unemployment rate**<br>
-1% (2016 est.)<br>
-
-**Exports**<br>
-$202.3 million (2014 est.)<br>
 
 **Exports - partners**<br>
 Netherlands 38%, France 26%, Cyprus 7%, Poland 7%, Sweden 6% (2023)<br>

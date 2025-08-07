@@ -369,25 +369,25 @@ _history_: adopted 1962; also known as "Samoa Tula'i" (Samoa Arise)<br>
 ower middle-income Pacific island economy; enormous fishing and agriculture industries; significant remittances; growing offshore financial hub; recently hosted Pacific Games to drive tourism and infrastructure growth<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.366 billion (2023 est.)<br>
+$1.503 billion (2024 est.)<br>
+$1.374 billion (2023 est.)<br>
 $1.258 billion (2022 est.)<br>
-$1.328 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-8.58% (2023 est.)<br>
--5.31% (2022 est.)<br>
--7.08% (2021 est.)<br>
+9.4% (2024 est.)<br>
+9.2% (2023 est.)<br>
+-5.3% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$6,900 (2024 est.)<br>
 $6,300 (2023 est.)<br>
 $5,800 (2022 est.)<br>
-$6,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$938.189 million (2023 est.)<br>
+$1.068 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -397,18 +397,18 @@ $938.189 million (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 11% (2023 est.)<br>
-_industry_: 10.9% (2023 est.)<br>
-_services_: 67.7% (2023 est.)<br>
+_agriculture_: 11% (2024 est.)<br>
+_industry_: 10.9% (2024 est.)<br>
+_services_: 72.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 87.7% (2023 est.)<br>
-_government consumption_: 18.2% (2023 est.)<br>
-_investment in fixed capital_: 34.5% (2023 est.)<br>
-_investment in inventories_: 2.6% (2023 est.)<br>
-_exports of goods and services_: 28.8% (2023 est.)<br>
-_imports of goods and services_: -61.9% (2023 est.)<br>
+_household consumption_: 80.8% (2024 est.)<br>
+_government consumption_: 18.2% (2024 est.)<br>
+_investment in fixed capital_: 30.5% (2024 est.)<br>
+_investment in inventories_: 2.3% (2024 est.)<br>
+_exports of goods and services_: 29.3% (2024 est.)<br>
+_imports of goods and services_: -53.8% (2024 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -419,7 +419,7 @@ coconuts, bananas, taro, tropical fruits, pineapples, mangoes/guavas, papayas, r
 food processing, building materials, auto parts<br>
 
 **Industrial production growth rate**<br>
--1.9% (2023 est.)<br>
+4.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -429,7 +429,7 @@ food processing, building materials, auto parts<br>
 **Unemployment rate**<br>
 4.6% (2024 est.)<br>
 5% (2023 est.)<br>
-5% (2022 est.)<br>
+5.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -443,9 +443,9 @@ _female_: 20.9% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Remittances**<br>
-28.24% of GDP (2023 est.)<br>
-33.61% of GDP (2022 est.)<br>
-29.43% of GDP (2021 est.)<br>
+26.4% of GDP (2024 est.)<br>
+28.2% of GDP (2023 est.)<br>
+33.6% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -453,23 +453,20 @@ _revenues_: $342.18 million (2021 est.)<br>
 _expenditures_: $297.736 million (2021 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-49.1% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
-25% (of GDP) (2021 est.)<br>
+26.7% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$39.966 million (2023 est.)<br>
--$74.107 million (2022 est.)<br>
--$114.446 million (2021 est.)<br>
+$64.616 million (2024 est.)<br>
+$40.177 million (2023 est.)<br>
+-$74.039 million (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$369.73 million (2024 est.)<br>
 $346.187 million (2023 est.)<br>
 $175.377 million (2022 est.)<br>
-$97.774 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -481,9 +478,9 @@ refined petroleum, integrated circuits, coconut oil, fish, insulated wire (2023)
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$560.987 million (2023 est.)<br>
-$512.002 million (2022 est.)<br>
-$430.011 million (2021 est.)<br>
+$575.749 million (2024 est.)<br>
+$560.776 million (2023 est.)<br>
+$512.021 million (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

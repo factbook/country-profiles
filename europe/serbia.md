@@ -65,7 +65,7 @@ _other_: 26.4% (2022 est.)<br>
 Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+_Atlantic Ocean drainage_: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -357,7 +357,7 @@ _subordinate courts_: basic courts, higher courts, appellate courts; courts of s
 Alliance of Vojvodina Hungarians or SVM or VMSZ <br>Democratic Alliance of Croats in Vojvodina or DSHV <br>Democratic Party or DS <br>Ecological Uprising or EU <br>Green - Left Front or ZLF <br>Greens of Serbia or ZS <br>Justice and Reconciliation Party or SPP (formerly Bosniak Democratic Union of Sandzak or BDZS)<br>Movement for Reversal or PZP <br>Movement for the Restoration of the Kingdom of Serbia or POKS <br>Movement of Free Citizens or PSG <br>Movement of Socialists or PS <br>National Democratic Alternative or NADA (electoral coalition includes NDSS and POKS)<br>New Communist Party of Yugoslavia or NKPJ <br>New Democratic Party of Serbia or NDSS or New DSS  (formerly Democratic Party of Serbia or DSS)<br>New Face of Serbia or NLS <br>Party of Democratic Action of the Sandzak or SDAS <br>Party of Freedom and Justice or SSP <br>Party of United Pensioners, Farmers, and Proletarians of Serbia – Solidarity and Justice or PUPS - Solidarity and Justice (formerly Party of United Pensioners of Serbia or PUPS)<br>People's Movement of Serbia or NPS <br>People's Movement of Serbs from Kosovo and Metohija or Fatherland <br>People's Peasant Party or NSS <br>Political Battle of the Albanians Continues <br>Russian Party or RS <br>Serbia Against Violence or SPN (electoral coalition includes DS, SSP, ZLF, Zajedno, NPS, PSG, EU, PZP, USS Sloga, NLS, Fatherland)<br>Serbia Must Not Stop (electoral coalitions includes SNS, SDPS, PUPS, PSS, SNP, SPO, PS, NSS, USS)<br>Serbian People's Party or SNP <br>Serbian Progressive Party or SNS <br>Serbian Renewal Movement or SPO <br>Social Democratic Party of Serbia or SDPS <br>Socialist Party of Serbia or SPS <br>Strength of Serbia or PSS <br>Together or ZAJEDNO <br>United Peasant Party or USS <br>United Serbia or JS <br>United Trade Unions of Serbia "Sloga" or USS Sloga <br>We - The Voice from the People or MI-GIN <br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador-designate Dragan &Scaron;UTANOVAC (since 8 May 2025)<br>
+_chief of mission_: Ambassador Dragan &Scaron;UTANOVAC (since 24 July 2025)<br>
 _chancery_: 1333 16th Street, NW Washington, D.C. 20036<br>
 _telephone_: [1] (202) 507-8654<br>
 _FAX_: [1] (202) 332-3933<br>
@@ -407,25 +407,25 @@ _selected World Heritage Site locales_: Stari Ras and Sopoćani; Studenica Monas
 upper middle-income Balkan economy; current EU accession candidate; hit by COVID-19; pursuing green growth development; manageable public debt; new anticorruption efforts; falling unemployment; historic Russian relations; energy import-dependent<br>
 
 **Real GDP (purchasing power parity)**<br>
-$172.402 billion (2023 est.)<br>
-$166.014 billion (2022 est.)<br>
-$161.758 billion (2021 est.)<br>
+$177.093 billion (2024 est.)<br>
+$170.482 billion (2023 est.)<br>
+$164.166 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.85% (2023 est.)<br>
-2.63% (2022 est.)<br>
-7.73% (2021 est.)<br>
+3.9% (2024 est.)<br>
+3.8% (2023 est.)<br>
+2.6% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$26,000 (2023 est.)<br>
-$24,900 (2022 est.)<br>
-$23,700 (2021 est.)<br>
+$26,900 (2024 est.)<br>
+$25,700 (2023 est.)<br>
+$24,600 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$81.343 billion (2023 est.)<br>
+$89.084 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -435,18 +435,18 @@ $81.343 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3.8% (2023 est.)<br>
-_industry_: 24% (2023 est.)<br>
-_services_: 57.6% (2023 est.)<br>
+_agriculture_: 3.1% (2024 est.)<br>
+_industry_: 23.3% (2024 est.)<br>
+_services_: 58.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 62.6% (2023 est.)<br>
-_government consumption_: 17.1% (2023 est.)<br>
-_investment in fixed capital_: 23.4% (2023 est.)<br>
-_investment in inventories_: 1.2% (2023 est.)<br>
-_exports of goods and services_: 55.1% (2023 est.)<br>
-_imports of goods and services_: -59.4% (2023 est.)<br>
+_household consumption_: 62.7% (2024 est.)<br>
+_government consumption_: 17.8% (2024 est.)<br>
+_investment in fixed capital_: 23.6% (2024 est.)<br>
+_investment in inventories_: 2% (2024 est.)<br>
+_exports of goods and services_: 52.7% (2024 est.)<br>
+_imports of goods and services_: -58.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -457,17 +457,17 @@ maize, wheat, sugar beets, milk, sunflower seeds, soybeans, potatoes, barley, ap
 automobiles, base metals, furniture, food processing, machinery, chemicals, sugar, tires, clothes, pharmaceuticals<br>
 
 **Industrial production growth rate**<br>
-3.69% (2023 est.)<br>
+2.9% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.225 million (2024 est.)<br>
+3.23 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 7.4% (2024 est.)<br>
 8.3% (2023 est.)<br>
-8.4% (2022 est.)<br>
+8.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -481,7 +481,7 @@ _female_: 24.1% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-33.1 (2021 est.)<br>
+32.8 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -489,23 +489,20 @@ _on food_: 24.1% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 7.8% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.5% (2021 est.)<br>
-_highest 10%_: 25.9% (2021 est.)<br>
+_lowest 10%_: 2.4% (2022 est.)<br>
+_highest 10%_: 24.7% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 7.1% of GDP (2023 est.)<br>
-8.54% of GDP (2022 est.)<br>
-6.95% of GDP (2021 est.)<br>
+8.5% of GDP (2022 est.)<br>
+6.9% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $26.077 billion (2022 est.)<br>
 _expenditures_: $23.693 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
-
-**Public debt**<br>
-62.5% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 23.9% (of GDP) (2022 est.)<br>
@@ -546,7 +543,7 @@ crude petroleum, natural gas, packaged medicine, plastic products, cars (2023)<b
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$26.445 billion (2024 est.)<br>
+$30.484 billion (2024 est.)<br>
 $27.569 billion (2023 est.)<br>
 $20.68 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

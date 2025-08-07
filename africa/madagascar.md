@@ -396,25 +396,25 @@ _selected World Heritage Site locales_: Tsingy de Bemaraha Strict Nature Reserve
 low-income East African island economy; natural resource rich; extreme poverty; return of political stability has helped growth; sharp tax revenue drop due to COVID-19; leading vanilla producer; environmentally fragile<br>
 
 **Real GDP (purchasing power parity)**<br>
-$51.265 billion (2023 est.)<br>
-$49.388 billion (2022 est.)<br>
-$47.488 billion (2021 est.)<br>
+$52.968 billion (2024 est.)<br>
+$50.833 billion (2023 est.)<br>
+$48.782 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.8% (2023 est.)<br>
-4% (2022 est.)<br>
-5.74% (2021 est.)<br>
+4.2% (2024 est.)<br>
+4.2% (2023 est.)<br>
+4.2% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$1,700 (2024 est.)<br>
 $1,600 (2023 est.)<br>
 $1,600 (2022 est.)<br>
-$1,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$15.79 billion (2023 est.)<br>
+$17.421 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -424,18 +424,18 @@ $15.79 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 22.6% (2023 est.)<br>
-_industry_: 22.4% (2023 est.)<br>
-_services_: 44.7% (2023 est.)<br>
+_agriculture_: 22.5% (2024 est.)<br>
+_industry_: 22.8% (2024 est.)<br>
+_services_: 46.4% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 63.1% (2023 est.)<br>
-_government consumption_: 22.3% (2023 est.)<br>
-_investment in fixed capital_: 21.6% (2023 est.)<br>
-_investment in inventories_: 0% (2023 est.)<br>
-_exports of goods and services_: 26.9% (2023 est.)<br>
-_imports of goods and services_: -33.9% (2023 est.)<br>
+_household consumption_: 69.8% (2024 est.)<br>
+_government consumption_: 15.3% (2024 est.)<br>
+_investment in fixed capital_: 22.6% (2024 est.)<br>
+_investment in inventories_: 0% (2024 est.)<br>
+_exports of goods and services_: 23.6% (2024 est.)<br>
+_imports of goods and services_: -31.3% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -446,7 +446,7 @@ rice, sugarcane, cassava, sweet potatoes, milk, bananas, vegetables, mangoes/gua
 meat processing, seafood, soap, beer, leather, sugar, textiles, glassware, cement, automobile assembly plant, paper, petroleum, tourism, mining<br>
 
 **Industrial production growth rate**<br>
-2.91% (2023 est.)<br>
+3.7% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -454,7 +454,7 @@ meat processing, seafood, soap, beer, leather, sugar, textiles, glassware, cemen
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3% (2024 est.)<br>
+3.1% (2024 est.)<br>
 3.1% (2023 est.)<br>
 3.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -466,9 +466,9 @@ _female_: 5.4% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-2.44% of GDP (2023 est.)<br>
-2.55% of GDP (2022 est.)<br>
-3.02% of GDP (2021 est.)<br>
+2.4% of GDP (2023 est.)<br>
+2.5% of GDP (2022 est.)<br>
+3.1% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -476,11 +476,8 @@ _revenues_: $1.756 billion (2022 est.)<br>
 _expenditures_: $1.523 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-36% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
-9.4% (of GDP) (2022 est.)<br>
+9.6% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>

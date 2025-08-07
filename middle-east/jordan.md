@@ -65,7 +65,7 @@ _other_: 87.3% (2022 est.)<br>
 _salt water lake(s)_: Dead Sea (shared with Israel and West Bank) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
 
 **Major watersheds (area sq km)**<br>
-Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+_Indian Ocean drainage_: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
 **Major aquifers**<br>
 Arabian Aquifer System<br>
@@ -407,37 +407,37 @@ _selected World Heritage Site locales_: Petra (c); Quseir Amra (c); Um er-Rasas 
 <p>upper-middle-income Middle Eastern economy; high debt and unemployment, especially for youth and women; global events triggering trade slump and decreased revenue from tourism; growing manufacturing and agricultural sectors; key US foreign assistance recipient; natural-resource-poor and import-reliant </p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$107.101 billion (2023 est.)<br>
+$109.986 billion (2024 est.)<br>
+$107.315 billion (2023 est.)<br>
 $104.307 billion (2022 est.)<br>
-$101.617 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.68% (2023 est.)<br>
-2.65% (2022 est.)<br>
-3.66% (2021 est.)<br>
+2.5% (2024 est.)<br>
+2.9% (2023 est.)<br>
+2.6% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$9,500 (2024 est.)<br>
 $9,400 (2023 est.)<br>
 $9,300 (2022 est.)<br>
-$9,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$50.967 billion (2023 est.)<br>
+$53.352 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+1.6% (2024 est.)<br>
 2.1% (2023 est.)<br>
 4.2% (2022 est.)<br>
-1.3% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 4.8% (2023 est.)<br>
-_industry_: 24.8% (2023 est.)<br>
-_services_: 60.7% (2023 est.)<br>
+_agriculture_: 5.1% (2024 est.)<br>
+_industry_: 25.1% (2024 est.)<br>
+_services_: 60.4% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -445,8 +445,8 @@ _household consumption_: 78.9% (2021 est.)<br>
 _government consumption_: 15.8% (2021 est.)<br>
 _investment in fixed capital_: 22.2% (2021 est.)<br>
 _investment in inventories_: 3% (2021 est.)<br>
-_exports of goods and services_: 43.5% (2023 est.)<br>
-_imports of goods and services_: -56.7% (2023 est.)<br>
+_exports of goods and services_: 30% (2021 est.)<br>
+_imports of goods and services_: -50.4% (2021 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -457,7 +457,7 @@ tomatoes, milk, chicken, potatoes, olives, cucumbers/gherkins, onions, chillies/
 tourism, information technology, clothing, fertilizer, potash, phosphate mining, pharmaceuticals, petroleum refining, cement, inorganic chemicals, light manufacturing<br>
 
 **Industrial production growth rate**<br>
-3.54% (2023 est.)<br>
+3.7% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -485,9 +485,9 @@ _on food_: 25% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 4.5% of household expenditures (2023 est.)<br>
 
 **Remittances**<br>
-8.79% of GDP (2023 est.)<br>
-10.07% of GDP (2022 est.)<br>
-10.96% of GDP (2021 est.)<br>
+8.8% of GDP (2023 est.)<br>
+10.1% of GDP (2022 est.)<br>
+11% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -496,11 +496,11 @@ _expenditures_: $14.464 billion (2018 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-103.1% of GDP (2023 est.)<br>
+102.8% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-17.1% (of GDP) (2023 est.)<br>
+17% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -538,7 +538,7 @@ cars, refined petroleum, gold, crude petroleum, jewelry (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$15.929 billion (2024 est.)<br>
+$21.939 billion (2024 est.)<br>
 $19.069 billion (2023 est.)<br>
 $18.198 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

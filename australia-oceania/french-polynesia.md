@@ -322,9 +322,9 @@ $5.94 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
-4.47% (2022 est.)<br>
-2.09% (2021 est.)<br>
--7.05% (2020 est.)<br>
+3% (2023 est.)<br>
+4.5% (2022 est.)<br>
+2.1% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
@@ -334,22 +334,22 @@ $19,800 (2019 est.)<br>
 <strong>note:</strong> data are in 2015 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$5.815 billion (2022 est.)<br>
+$6.402 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.3% (2019 est.)<br>
-_industry_: 10.7% (2019 est.)<br>
-_services_: 76.2% (2019 est.)<br>
+_agriculture_: 2.2% (2020 est.)<br>
+_industry_: 10.6% (2020 est.)<br>
+_services_: 75.9% (2020 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 71.5% (2022 est.)<br>
-_government consumption_: 31.7% (2022 est.)<br>
-_investment in fixed capital_: 21.8% (2022 est.)<br>
-_investment in inventories_: 0% (2022 est.)<br>
-_exports of goods and services_: 21.1% (2022 est.)<br>
-_imports of goods and services_: -46.1% (2022 est.)<br>
+_household consumption_: 70.4% (2023 est.)<br>
+_government consumption_: 30.5% (2023 est.)<br>
+_investment in fixed capital_: 21.7% (2023 est.)<br>
+_investment in inventories_: 0% (2023 est.)<br>
+_exports of goods and services_: 23.1% (2023 est.)<br>
+_imports of goods and services_: -45.6% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -359,17 +359,13 @@ coconuts, fruits, cassava, sugarcane, pineapples, eggs, tropical fruits, waterme
 **Industries**<br>
 tourism, pearls, agricultural processing, handicrafts, phosphates<br>
 
-**Industrial production growth rate**<br>
-4.3% (2014 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
-
 **Labor force**<br>
 119,100 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 11.8% (2024 est.)<br>
-11.7% (2023 est.)<br>
+11.8% (2023 est.)<br>
 11.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -380,9 +376,9 @@ _female_: 41.5% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
+9.1% of GDP (2023 est.)<br>
 10% of GDP (2022 est.)<br>
-9.46% of GDP (2021 est.)<br>
-10.04% of GDP (2020 est.)<br>
+9.5% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Current account balance**<br>

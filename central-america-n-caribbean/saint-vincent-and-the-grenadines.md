@@ -345,25 +345,25 @@ _history_: adopted 1967<br>
 upper middle-income Caribbean island economy; key agriculture and tourism sectors; environmentally fragile; diversifying economy across services, science and knowledge, and creative industries; CARICOM member and US Caribbean Basin Initiative beneficiary<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.858 billion (2023 est.)<br>
-$1.752 billion (2022 est.)<br>
-$1.635 billion (2021 est.)<br>
+$1.883 billion (2024 est.)<br>
+$1.809 billion (2023 est.)<br>
+$1.718 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-6.02% (2023 est.)<br>
-7.16% (2022 est.)<br>
-0.75% (2021 est.)<br>
+4.1% (2024 est.)<br>
+5.3% (2023 est.)<br>
+3.1% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$18,300 (2023 est.)<br>
-$17,200 (2022 est.)<br>
-$15,900 (2021 est.)<br>
+$18,700 (2024 est.)<br>
+$17,900 (2023 est.)<br>
+$16,800 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.066 billion (2023 est.)<br>
+$1.157 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -373,18 +373,10 @@ $1.066 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 4.2% (2023 est.)<br>
-_industry_: 14.2% (2023 est.)<br>
-_services_: 64.2% (2023 est.)<br>
+_agriculture_: 3.5% (2024 est.)<br>
+_industry_: 15.4% (2024 est.)<br>
+_services_: 66.4% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
-
-**GDP - composition, by end use**<br>
-_household consumption_: 87.3% (2017 est.)<br>
-_government consumption_: 16.6% (2017 est.)<br>
-_investment in fixed capital_: 10.8% (2017 est.)<br>
-_investment in inventories_: -0.2% (2017 est.)<br>
-_exports of goods and services_: 37.1% (2017 est.)<br>
-_imports of goods and services_: -51.7% (2017 est.)<br>
 
 **Agricultural products**<br>
 bananas, root vegetables, plantains, spices, coconuts, fruits, apples, vegetables, mangoes/guavas, sweet potatoes (2023)<br>
@@ -394,7 +386,7 @@ bananas, root vegetables, plantains, spices, coconuts, fruits, apples, vegetable
 tourism; food processing, cement, furniture, clothing, starch<br>
 
 **Industrial production growth rate**<br>
-3.91% (2023 est.)<br>
+7.3% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -404,7 +396,7 @@ tourism; food processing, cement, furniture, clothing, starch<br>
 **Unemployment rate**<br>
 18.1% (2024 est.)<br>
 18.6% (2023 est.)<br>
-19.4% (2022 est.)<br>
+19.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -414,9 +406,9 @@ _female_: 41.4% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-8.61% of GDP (2023 est.)<br>
-9.17% of GDP (2022 est.)<br>
-8.03% of GDP (2021 est.)<br>
+8.2% of GDP (2024 est.)<br>
+8.5% of GDP (2023 est.)<br>
+9% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -424,23 +416,20 @@ _revenues_: $226.404 million (2017 est.)<br>
 _expenditures_: $208.744 million (2017 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-73.8% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
 23.8% (of GDP) (2017 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$156.589 million (2024 est.)<br>
 -$180.43 million (2023 est.)<br>
 -$199.727 million (2022 est.)<br>
--$206.272 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$425.182 million (2024 est.)<br>
 $345.098 million (2023 est.)<br>
 $278.292 million (2022 est.)<br>
-$140.607 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -452,9 +441,9 @@ ships, wheat flours, animal food, shellfish, construction vehicles (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$641.179 million (2024 est.)<br>
 $588.865 million (2023 est.)<br>
 $540.833 million (2022 est.)<br>
-$430.268 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

@@ -69,7 +69,7 @@ _fresh water lake(s)_: Lake Hammar - 1,940 sq km<br>
 Euphrates river mouth (shared with Turkey[s], Syria, and Iran) - 3,596 km; Tigris river mouth (shared with Turkey[s], Syria, and Iran) - 1,950 km; the Tigris and Euphrates join to form the Shatt al Arab<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+_Indian Ocean drainage_: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
 **Major aquifers**<br>
 Arabian Aquifer System<br>
@@ -394,25 +394,25 @@ _selected World Heritage Site locales_: Ashur (Qal'at Sherqat) (c); Babylon (c);
 highly oil-dependent Middle Eastern economy; fiscal sustainability subject to fluctuation in oil prices; rising public confidence in economic conditions; import-dependent for most sectors; persistent challenges of corruption, informal markets, banking access, and political fragility<br>
 
 **Real GDP (purchasing power parity)**<br>
-$572.939 billion (2023 est.)<br>
-$590.267 billion (2022 est.)<br>
-$548.372 billion (2021 est.)<br>
+$585.887 billion (2024 est.)<br>
+$595.082 billion (2023 est.)<br>
+$592.017 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--2.94% (2023 est.)<br>
-7.64% (2022 est.)<br>
-1.5% (2021 est.)<br>
+-1.5% (2024 est.)<br>
+0.5% (2023 est.)<br>
+8% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$12,700 (2023 est.)<br>
+$12,700 (2024 est.)<br>
+$13,200 (2023 est.)<br>
 $13,400 (2022 est.)<br>
-$12,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$250.843 billion (2023 est.)<br>
+$279.641 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -422,18 +422,18 @@ $250.843 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.8% (2023 est.)<br>
-_industry_: 55.6% (2023 est.)<br>
-_services_: 42.3% (2023 est.)<br>
+_agriculture_: 3.4% (2024 est.)<br>
+_industry_: 51.6% (2024 est.)<br>
+_services_: 45.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 31.8% (2022 est.)<br>
-_government consumption_: 15.7% (2022 est.)<br>
-_investment in fixed capital_: 9.7% (2022 est.)<br>
-_investment in inventories_: 12.6% (2022 est.)<br>
-_exports of goods and services_: 44.6% (2022 est.)<br>
-_imports of goods and services_: -24.3% (2022 est.)<br>
+_household consumption_: 41.2% (2024 est.)<br>
+_government consumption_: 20.3% (2024 est.)<br>
+_investment in fixed capital_: 20.6% (2024 est.)<br>
+_investment in inventories_: 8.8% (2024 est.)<br>
+_exports of goods and services_: 37.5% (2024 est.)<br>
+_imports of goods and services_: -37.2% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -444,7 +444,7 @@ wheat, dates, maize, tomatoes, rye, grapes, milk, chicken, potatoes, fruits (202
 petroleum, chemicals, textiles, leather, construction materials, food processing, fertilizer, metal fabrication/processing<br>
 
 **Industrial production growth rate**<br>
--6.34% (2023 est.)<br>
+-2.7% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -452,9 +452,9 @@ petroleum, chemicals, textiles, leather, construction materials, food processing
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-15.5% (2024 est.)<br>
-15.4% (2023 est.)<br>
-15.5% (2022 est.)<br>
+15.6% (2024 est.)<br>
+15.5% (2023 est.)<br>
+15.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -463,16 +463,22 @@ _male_: 27.5% (2024 est.)<br>
 _female_: 62.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-23% (2014 est.)<br>
+**Gini Index coefficient - distribution of family income**<br>
+29.8 (2023 est.)<br>
+<strong>note:</strong> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 28.7% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 4.3% of household expenditures (2023 est.)<br>
 
+**Household income or consumption by percentage share**<br>
+_lowest 10%_: 3.7% (2023 est.)<br>
+_highest 10%_: 24.2% (2023 est.)<br>
+% share of income accruing to lowest and highest 10% of population<br>
+
 **Remittances**<br>
-0.46% of GDP (2023 est.)<br>
-0.38% of GDP (2022 est.)<br>
+0.4% of GDP (2023 est.)<br>
+0.4% of GDP (2022 est.)<br>
 0.4% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -524,7 +530,7 @@ refined petroleum, cars, broadcasting equipment, jewelry, gold (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$87.048 billion (2024 est.)<br>
+$100.691 billion (2024 est.)<br>
 $112.233 billion (2023 est.)<br>
 $97.009 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
@@ -634,8 +640,8 @@ _key ports_: Al Basrah, Al-Basra Oil Terminal, Khawr Al Amaya, Khawr Al Zubair, 
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command, Special Security Division<br><br>National-Level Security Forces: Iraqi Counterterrorism Service (CTS), Prime Minister's Special Forces (Security) Division, Presidential Brigades<br><br>Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Provincial Police<br><br>Ministry of Oil: Energy Police Directorate<br><br>Popular Mobilization Committee (PMC): Popular Mobilization Forces (PMF), Tribal Mobilization Forces (TMF)<br><br>Kurdistan Regional Government (KRG): Kurdish Security Forces (2025)<br>
-<strong>note 1: </strong>the Iraqi military and associated forces are collectively known as the Iraqi Security Forces (ISF)<br><br><strong>note 2:</strong> the PMF and TMF are a collection of more than 50 militias of widely varied sizes and political interests<br><br><strong>note 3:</strong> the federal constitution provides the KRG the right to maintain its own military and security forces; some forces, such as the Regional Guard Brigades, are unified under the KRG's Ministry of Peshmerga Affairs, but the two main Kurdish political parties, the Kurdistan Democratic Party (KDP) and the Patriotic Union of Kurdistan (PUK), also maintain their own forces; the Unit/Division 80 Forces are under the KDP, while the Unit/Division 70 Forces are under the PUK; the KDP and PUK also maintain separate police, emergency response, and internal security/intelligence (Asayish) services under nominal KRG Ministry of Interior control; the KRG is working towards disbanding the partisan 70 and 80 Forces and integrating them into joint units under the Ministry of Peshmerga Affairs by September 2026<br>
+Ministry of Defense: Iraqi Army, Iraqi Navy, Iraqi Air Force<br><br>Office of the Prime Minister: Iraqi Counterterrorism Service (CTS); Popular Mobilization Committee (PMC)<br><br>Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Provincial Police; Ministry of Oil: Energy Police Directorate (2025)<br>
+<strong>note 1: </strong>the Iraqi military and associated security forces are collectively known as the Iraqi Security Forces (ISF); the Iraqi Counterterrorism Service (CTS) includes the Iraqi Special Operations Forces (ISOF)<br><br><strong>note 2:</strong> the PMC includes both the Popular Mobilization Forces and Tribal Mobilization Forces, a collection of more than 50 militias of widely varied sizes and political interests<br><br><strong>note 3:</strong> the federal constitution provides the Kurdistan Regional Government (KRG) the right to maintain its own military and security forces, known as the Kurdish Security Forces (KSF); some forces, such as the Regional Guard Brigades, are unified under the KRG's Ministry of Peshmerga Affairs, but the two main Kurdish political parties, the Kurdistan Democratic Party (KDP) and the Patriotic Union of Kurdistan (PUK), also maintain their own forces; the Unit/Division 80 Forces are under the KDP, while the Unit/Division 70 Forces are under the PUK; the KDP and PUK also maintain separate police, emergency response, and internal security/intelligence services (Asayish) under nominal KRG Ministry of Interior control; the KRG is working towards disbanding the partisan 70 and 80 Forces and integrating them into joint units under the Ministry of Peshmerga Affairs by September 2026<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2024 est.)<br>

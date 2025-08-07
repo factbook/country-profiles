@@ -390,25 +390,25 @@ _selected World Heritage Site locales_: Monasteries of Haghpat and Sanahin; Mona
 <p>upper-middle income, fast-growing Caucasus economy; stable fiscal and monetary regime but vulnerable to geopolitical shocks; economic and energy ties to Russia but seeking more EU and US trade; key copper and gold exporter; business-friendly and anti-corruption reforms; persistent unemployment; influx of migrants from Ukraine war easing</p><br>
 
 **Real GDP (purchasing power parity)**<br>
+$60.909 billion (2024 est.)<br>
 $57.516 billion (2023 est.)<br>
 $53.108 billion (2022 est.)<br>
-$47.165 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+5.9% (2024 est.)<br>
 8.3% (2023 est.)<br>
 12.6% (2022 est.)<br>
-5.8% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$19,200 (2023 est.)<br>
+$20,100 (2024 est.)<br>
+$19,400 (2023 est.)<br>
 $17,900 (2022 est.)<br>
-$15,900 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$24.086 billion (2023 est.)<br>
+$25.787 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -418,18 +418,18 @@ $24.086 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 8.5% (2023 est.)<br>
-_industry_: 23.4% (2023 est.)<br>
-_services_: 59.4% (2023 est.)<br>
+_agriculture_: 7.9% (2024 est.)<br>
+_industry_: 23.2% (2024 est.)<br>
+_services_: 61.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 65.4% (2023 est.)<br>
-_government consumption_: 14.1% (2023 est.)<br>
-_investment in fixed capital_: 20.9% (2023 est.)<br>
-_investment in inventories_: 0.4% (2023 est.)<br>
-_exports of goods and services_: 59.5% (2023 est.)<br>
-_imports of goods and services_: -60.3% (2023 est.)<br>
+_household consumption_: 66.5% (2024 est.)<br>
+_government consumption_: 10.7% (2024 est.)<br>
+_investment in fixed capital_: 21.7% (2024 est.)<br>
+_investment in inventories_: 0.5% (2024 est.)<br>
+_exports of goods and services_: 76.3% (2024 est.)<br>
+_imports of goods and services_: -75.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -440,16 +440,16 @@ milk, potatoes, grapes, vegetables, wheat, tomatoes, watermelons, apricots, appl
 brandy, mining, diamond processing, metal-cutting machine tools, forging and pressing machines, electric motors, knitted wear, hosiery, shoes, silk fabric, chemicals, trucks, instruments, microelectronics, jewelry, software, food processing<br>
 
 **Industrial production growth rate**<br>
-2.7% (2023 est.)<br>
+6.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.478 million (2024 est.)<br>
+1.51 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-13.3% (2024 est.)<br>
-13.2% (2023 est.)<br>
+13.4% (2024 est.)<br>
+13.3% (2023 est.)<br>
 13.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -464,18 +464,18 @@ _female_: 27.9% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-27.9 (2022 est.)<br>
+27.2 (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.9% (2022 est.)<br>
-_highest 10%_: 23% (2022 est.)<br>
+_lowest 10%_: 4% (2023 est.)<br>
+_highest 10%_: 22.9% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-6.03% of GDP (2023 est.)<br>
-10.41% of GDP (2022 est.)<br>
-11.22% of GDP (2021 est.)<br>
+4.6% of GDP (2024 est.)<br>
+6% of GDP (2023 est.)<br>
+10.4% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -492,15 +492,15 @@ _expenditures_: $4.13 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$997.086 million (2024 est.)<br>
 -$556.329 million (2023 est.)<br>
 $64.725 million (2022 est.)<br>
--$482.982 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$18.618 billion (2024 est.)<br>
 $14.338 billion (2023 est.)<br>
 $10.118 billion (2022 est.)<br>
-$5.04 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -512,9 +512,9 @@ gold, diamonds, copper ore, broadcasting equipment, jewelry (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$19.087 billion (2024 est.)<br>
 $14.532 billion (2023 est.)<br>
 $10.265 billion (2022 est.)<br>
-$6.155 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -526,7 +526,7 @@ cars, gold, diamonds, broadcasting equipment, natural gas (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.684 billion (2024 est.)<br>
+$3.685 billion (2024 est.)<br>
 $3.607 billion (2023 est.)<br>
 $4.112 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

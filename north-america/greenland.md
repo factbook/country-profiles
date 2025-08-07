@@ -323,44 +323,40 @@ _selected World Heritage Site locales_: Ilulissat Icefjord (n); Kujataa, Norse, 
 high-income, self-governing Danish territorial economy; non-EU member but preferential market access; dependent on Danish financial support; exports led by fishing industry; growing tourism and interest in untapped mineral deposits; relies on hydropower for fuel<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.857 billion (2021 est.)<br>
-$3.808 billion (2020 est.)<br>
-$3.801 billion (2019 est.)<br>
+$4.04 billion (2023 est.)<br>
+$4.005 billion (2022 est.)<br>
+$3.926 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.29% (2021 est.)<br>
-0.19% (2020 est.)<br>
-2.83% (2019 est.)<br>
+0.9% (2023 est.)<br>
+2% (2022 est.)<br>
+1.6% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$68,100 (2021 est.)<br>
-$67,600 (2020 est.)<br>
-$67,600 (2019 est.)<br>
+$71,000 (2023 est.)<br>
+$70,700 (2022 est.)<br>
+$69,300 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.236 billion (2021 est.)<br>
+$3.327 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
-**Inflation rate (consumer prices)**<br>
-0.3% (January 2017 est.)<br>
-1.2% (January 2016 est.)<br>
-
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 17.5% (2021 est.)<br>
-_industry_: 16.1% (2021 est.)<br>
-_services_: 62.7% (2021 est.)<br>
+_agriculture_: 16.6% (2023 est.)<br>
+_industry_: 18.4% (2023 est.)<br>
+_services_: 61% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 35.8% (2021 est.)<br>
-_government consumption_: 45.1% (2021 est.)<br>
-_investment in fixed capital_: 33.3% (2021 est.)<br>
-_investment in inventories_: 0% (2021 est.)<br>
-_exports of goods and services_: 35.4% (2021 est.)<br>
-_imports of goods and services_: -49.7% (2021 est.)<br>
+_household consumption_: 32.6% (2023 est.)<br>
+_government consumption_: 41.7% (2023 est.)<br>
+_investment in fixed capital_: 34.7% (2023 est.)<br>
+_investment in inventories_: 1.3% (2023 est.)<br>
+_exports of goods and services_: 40.8% (2023 est.)<br>
+_imports of goods and services_: -51.1% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -370,29 +366,17 @@ sheep, cattle, reindeer, fish, shellfish<br>
 fish processing (mainly shrimp and Greenland halibut), anorthosite and ruby mining, handicrafts, hides and skins, small shipyards<br>
 
 **Industrial production growth rate**<br>
--10.63% (2021 est.)<br>
+-1.3% (2023 est.)<br>
 <strong>note:</strong> annual % change in industrial value added based on constant local currency<br>
-
-**Population below poverty line**<br>
-16.2% (2015 est.)<br>
-
-**Gini Index coefficient - distribution of family income**<br>
-33.9 (2015 est.)<br>
 
 **Budget**<br>
 _revenues_: $1.719 billion (2016 est.)<br>
 _expenditures_: $1.594 billion (2016 est.)<br>
 
-**Public debt**<br>
-13% of GDP (2015 est.)<br>
-
-**Taxes and other revenues**<br>
-77.4% (of GDP) (2016 est.)<br>
-
 **Exports**<br>
-$1.147 billion (2021 est.)<br>
-$1.108 billion (2020 est.)<br>
-$1.23 billion (2019 est.)<br>
+$1.357 billion (2023 est.)<br>
+$1.286 billion (2022 est.)<br>
+$1.122 billion (2021 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -404,9 +388,9 @@ fish, shellfish, processed crustaceans, ships, precious stones (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.609 billion (2021 est.)<br>
-$1.441 billion (2020 est.)<br>
-$1.533 billion (2019 est.)<br>
+$1.7 billion (2023 est.)<br>
+$1.657 billion (2022 est.)<br>
+$1.635 billion (2021 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

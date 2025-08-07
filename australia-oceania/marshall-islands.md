@@ -366,30 +366,26 @@ _selected World Heritage Site locales_: Bikini Atoll Nuclear Test Site<br>
 upper middle-income Pacific island economy; US aid reliance; large public sector; coconut oil production as diesel fuel substitute; growing offshore banking locale; fishing rights seller; import-dependent<br>
 
 **Real GDP (purchasing power parity)**<br>
+$270.809 million (2024 est.)<br>
 $263.507 million (2023 est.)<br>
 $274.3 million (2022 est.)<br>
-$277.402 million (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--3.93% (2023 est.)<br>
--1.12% (2022 est.)<br>
-1.11% (2021 est.)<br>
+2.8% (2024 est.)<br>
+-3.9% (2023 est.)<br>
+-1.1% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$7,200 (2024 est.)<br>
 $6,800 (2023 est.)<br>
 $6,800 (2022 est.)<br>
-$6,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$259.3 million (2023 est.)<br>
+$280.358 million (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
-
-**Inflation rate (consumer prices)**<br>
-0% (2017 est.)<br>
--1.5% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 19.5% (2023 est.)<br>
@@ -414,13 +410,8 @@ coconuts (2023)<br>
 copra, tuna processing, tourism, craft items (from seashells, wood, and pearls)<br>
 
 **Industrial production growth rate**<br>
--2.81% (2023 est.)<br>
+-2.8% (2023 est.)<br>
 <strong>note:</strong> annual % change in industrial value added based on constant local currency<br>
-
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 26% (2019 est.)<br>
-_male_: 31%<br>
-_female_: 14.2%<br>
 
 **Population below poverty line**<br>
 7.2% (2019 est.)<br>
@@ -436,9 +427,9 @@ _highest 10%_: 27.5% (2019 est.)<br>
 <strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-13.29% of GDP (2023 est.)<br>
+13.3% of GDP (2023 est.)<br>
 13.6% of GDP (2022 est.)<br>
-13.31% of GDP (2021 est.)<br>
+13.3% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>

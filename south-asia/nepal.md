@@ -62,7 +62,7 @@ _other_: 32.3% (2022 est.)<br>
 12,090 sq km (2022)<br>
 
 **Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km)<br>
+_Indian Ocean drainage_: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km)<br>
 
 **Major aquifers**<br>
 Indus-Ganges-Brahmaputra Basin<br>
@@ -358,7 +358,7 @@ _subordinate courts_: High Court; district courts<br>
 Communist Party of Nepal (Maoist Centre) or CPN-MC<br>Communist Party of Nepal (Unified Marxist-Leninist) or CPN-UML<br>Communist Party of Nepal (Unified Socialist) or CPN-US<br>Janamat Party<br>Janata Samajbaadi Party or JSP<br>Loktantrik Samajwadi Party or LSP<br>Naya Shakti Party, Nepal<br>Nepali Congress or NC<br>Nepal Mazdoor Kisan Party (Nepal Workers' and Peasants' Party) or NWPP<br>Rastriya Janamorcha (National People's Front)<br>Rastriya Prajatantra Party (National Democratic Party) or RPP<br>Rastriya Swatantra Party or RSP<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Sharad Raj ARAN (since 13 November 2024)<br>
+_chief of mission_: Ambassador Lok Darshan REGMI (since 11 June 2025)<br>
 _chancery_: 2730 34th Place NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 667-4550<br>
 _FAX_: [1] (202) 667-5534<br>
@@ -408,25 +408,25 @@ _selected World Heritage Site locales_: Kathmandu Valley (c); Sagarmatha Nationa
 low-income South Asian economy; post-conflict fiscal federalism increasing stability; COVID-19 hurt trade and tourism; widening current account deficits; environmentally fragile economy from earthquakes; growing Chinese relations and investments<br>
 
 **Real GDP (purchasing power parity)**<br>
-$144.31 billion (2023 est.)<br>
+$149.643 billion (2024 est.)<br>
+$144.352 billion (2023 est.)<br>
 $141.546 billion (2022 est.)<br>
-$134 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.95% (2023 est.)<br>
-5.63% (2022 est.)<br>
-4.84% (2021 est.)<br>
+3.7% (2024 est.)<br>
+2% (2023 est.)<br>
+5.6% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$5,000 (2024 est.)<br>
 $4,900 (2023 est.)<br>
 $4,800 (2022 est.)<br>
-$4,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$40.908 billion (2023 est.)<br>
+$42.914 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -436,18 +436,18 @@ $40.908 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 21.2% (2023 est.)<br>
-_industry_: 12.1% (2023 est.)<br>
-_services_: 55.4% (2023 est.)<br>
+_agriculture_: 21.9% (2024 est.)<br>
+_industry_: 11.4% (2024 est.)<br>
+_services_: 55.2% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 85.9% (2023 est.)<br>
-_government consumption_: 6.6% (2023 est.)<br>
-_investment in fixed capital_: 25.1% (2023 est.)<br>
-_investment in inventories_: 6.6% (2023 est.)<br>
-_exports of goods and services_: 7% (2023 est.)<br>
-_imports of goods and services_: -34.7% (2023 est.)<br>
+_household consumption_: 86.3% (2024 est.)<br>
+_government consumption_: 7.4% (2024 est.)<br>
+_investment in fixed capital_: 24.3% (2024 est.)<br>
+_investment in inventories_: 6.1% (2024 est.)<br>
+_exports of goods and services_: 7.6% (2024 est.)<br>
+_imports of goods and services_: -32.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -458,7 +458,7 @@ rice, vegetables, potatoes, sugarcane, maize, wheat, bison milk, milk, mangoes/g
 tourism, carpets, textiles, small rice, jute, sugar, oilseed mills, cigarettes, cement and brick production<br>
 
 **Industrial production growth rate**<br>
-1.38% (2023 est.)<br>
+0.1% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -466,9 +466,9 @@ tourism, carpets, textiles, small rice, jute, sugar, oilseed mills, cigarettes, 
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-10.7% (2024 est.)<br>
-10.6% (2023 est.)<br>
-10.8% (2022 est.)<br>
+10.8% (2024 est.)<br>
+10.7% (2023 est.)<br>
+10.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -479,18 +479,21 @@ _female_: 23.6% (2024 est.)<br>
 
 **Population below poverty line**<br>
 20.3% (2022 est.)<br>
+<strong>note:</strong> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 30 (2022 est.)<br>
+<strong>note:</strong> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.7% (2022 est.)<br>
 _highest 10%_: 24.2% (2022 est.)<br>
+% share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-26.31% of GDP (2023 est.)<br>
-22.85% of GDP (2022 est.)<br>
-22.28% of GDP (2021 est.)<br>
+33.1% of GDP (2024 est.)<br>
+25.3% of GDP (2023 est.)<br>
+22% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>

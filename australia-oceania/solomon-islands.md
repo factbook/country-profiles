@@ -36,7 +36,7 @@ _total_: 0 km<br>
 _territorial sea_: 12 nm<br>
 _exclusive economic zone_: 200 nm<br>
 _continental shelf_: 200 nm<br>
-measured from claimed archipelagic baselines<br>
+<strong>note: </strong>measured from claimed archipelagic baselines<br>
 
 **Climate**<br>
 tropical monsoon; few temperature and weather extremes<br>
@@ -362,25 +362,25 @@ _selected World Heritage Site locales_: East Rennell<br>
 lower middle-income Pacific island economy; natural resource rich but environmentally fragile; key agrarian sector; growing Chinese economic relationship; infrastructure damage due to social unrest; metal mining operations<br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.027 billion (2023 est.)<br>
+$2.07 billion (2024 est.)<br>
+$2.019 billion (2023 est.)<br>
 $1.967 billion (2022 est.)<br>
-$1.921 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.08% (2023 est.)<br>
+2.5% (2024 est.)<br>
+2.7% (2023 est.)<br>
 2.4% (2022 est.)<br>
-2.56% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$2,500 (2024 est.)<br>
 $2,500 (2023 est.)<br>
 $2,500 (2022 est.)<br>
-$2,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.633 billion (2023 est.)<br>
+$1.761 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -399,7 +399,7 @@ _services_: 47.3% (2022 est.)<br>
 _household consumption_: 61.7% (2022 est.)<br>
 _government consumption_: 29.2% (2022 est.)<br>
 _investment in fixed capital_: 24.4% (2022 est.)<br>
-_investment in inventories_: -1% (2022 est.) NA<br>
+_investment in inventories_: -1% (2022 est.)<br>
 _exports of goods and services_: 26.3% (2022 est.)<br>
 _imports of goods and services_: -51.7% (2022 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -432,9 +432,9 @@ _female_: 3.4% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-5.18% of GDP (2023 est.)<br>
-5.18% of GDP (2022 est.)<br>
-3.35% of GDP (2021 est.)<br>
+5.4% of GDP (2024 est.)<br>
+5.1% of GDP (2023 est.)<br>
+5.2% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -580,10 +580,10 @@ _key ports_: Gizo Harbor, Honiara, Port Noro, Ringgi Cove, Tulaghi, Yandina<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; the Royal Solomon Islands Police Force (RSIPF) (2025)<br>
+Ministry of Police, National Security and Correctional Services (MPNSCS): the Royal Solomon Islands Police Force (RSIPF) (2025)<br>
 
 **Military - note**<br>
-from 2003 to 2017, at the request of the Solomon Islands Governor-General, the Regional Assistance Mission to Solomon Islands (RAMSI), consisting of police, military, and civilian advisors drawn from 15 countries, assisted in reestablishing and maintaining civil and political order while reinforcing regional stability and security; from November 2021 to August 2024, an Australian-led Solomon Islands Assistance Force (SIAF) provided support to the Royal Solomon Islands Police Force (RSIPF) in maintaining stability; the SIAF also included military and police personnel from New Zealand, Fiji, and Papua New Guinea; following the conclusion of the SIAF mission, Australia continued to provide security assistance to the Solomon Islands; the Solomon Islands Government has also signed police and security agreements with China (2024)<br>
+in 2017, the Solomon Islands and Australia signed a security treaty allowing Australian police, defense, and associated civilian personnel to deploy rapidly to Solomon Islands should the need arise and where both countries consent; the treaty was activated for the first time in November 2021 following civil unrest in Honiara; Australia was the first country Solomon Islands called upon for support, and from November 2021, Australia deployed police and defense personnel to work alongside partners from Fiji, Papua New Guinea, and New Zealand to restore law and order in Honiara<br><br>in 2022, the Solomon Islands Government has also signed a police and security agreement with China (2025)<br>
 
 ## Transnational Issues
 

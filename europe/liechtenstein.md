@@ -61,7 +61,7 @@ _other_: 25.8% (2022 est.)<br>
 0 sq km (2012)<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
+_Atlantic Ocean drainage_: Rhine-Maas (198,735 sq km)<br>
 
 **Population distribution**<br>
 most of the population is found in the western half of the country along the Rhine River<br>
@@ -340,20 +340,14 @@ _history_: adopted 1850, revised 1963; uses the tune of the United Kingdom's ant
 **Economic overview**<br>
 high-income European economy; Schengen Area participant; key European financial leader; integrated with Swiss economy and franc currency user; one of the highest GDP per capita countries; relies on US and Eurozone markets for exports<br>
 
-**Real GDP (purchasing power parity)**<br>
-$4.978 billion (2014 est.)<br>
-
 **GDP (official exchange rate)**<br>
-$7.362 billion (2022 est.)<br>
+$8.288 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
-**Inflation rate (consumer prices)**<br>
--0.4% (2016 est.)<br>
-
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.2% (2021 est.)<br>
-_industry_: 40.2% (2021 est.)<br>
-_services_: 55.4% (2021 est.)<br>
+_agriculture_: 0.2% (2022 est.)<br>
+_industry_: 40.6% (2022 est.)<br>
+_services_: 55.6% (2022 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **Agricultural products**<br>
@@ -361,10 +355,6 @@ wheat, barley, corn, potatoes; livestock, dairy products<br>
 
 **Industries**<br>
 electronics, metal manufacturing, dental products, ceramics, pharmaceuticals, food products, precision instruments, tourism, optical instruments<br>
-
-**Industrial production growth rate**<br>
-4.3% (2014 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Exports**<br>
 $3.217 billion (2015 est.)<br>
@@ -374,10 +364,6 @@ $3.774 billion (2014 est.)<br>
 **Exports - commodities**<br>
 small specialty machinery, connectors for audio and video, parts for motor vehicles, dental products, hardware<br>
 top five export commodities based on value in dollars<br>
-
-**Imports**<br>
-$2.23 billion (2014 est.)<br>
-<strong>note:</strong> trade data exclude trade with Switzerland<br>
 
 **Imports - commodities**<br>
 agricultural products, raw materials, energy products, machinery, metal goods, textiles, foodstuffs, motor vehicles<br>

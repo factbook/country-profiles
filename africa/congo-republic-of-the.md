@@ -67,7 +67,7 @@ _other_: 4.5% (2022 est.)<br>
 Oubangui (Ubangi) (shared with Central African Republic [s] and Democratic Republic of Congo [m]) - 2,270 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>
+_Atlantic Ocean drainage_: Congo (3,730,881 sq km)<br>
 
 **Major aquifers**<br>
 Congo Basin<br>
@@ -401,46 +401,46 @@ _selected World Heritage Site locales_: Sangha Trinational Forest; Forest Massif
 primarily an oil- and natural resources-based economy; recovery from mid-2010s oil devaluation has been slow and curtailed by COVID-19; extreme poverty increasing, particularly in southern rural regions; attempting to implement recommended CEMAC reforms; increasing likelihood of debt default<br>
 
 **Real GDP (purchasing power parity)**<br>
+$39.147 billion (2024 est.)<br>
 $38.163 billion (2023 est.)<br>
 $37.448 billion (2022 est.)<br>
-$36.904 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.91% (2023 est.)<br>
-1.48% (2022 est.)<br>
-1.02% (2021 est.)<br>
+2.6% (2024 est.)<br>
+1.9% (2023 est.)<br>
+1.5% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$6,200 (2024 est.)<br>
 $6,200 (2023 est.)<br>
 $6,200 (2022 est.)<br>
-$6,300 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$15.321 billion (2023 est.)<br>
+$15.72 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.1% (2024 est.)<br>
 4.3% (2023 est.)<br>
 3% (2022 est.)<br>
-1.7% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 9% (2023 est.)<br>
-_industry_: 45.2% (2023 est.)<br>
-_services_: 40.4% (2023 est.)<br>
+_agriculture_: 9.4% (2024 est.)<br>
+_industry_: 40.1% (2024 est.)<br>
+_services_: 45% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 44.1% (2023 est.)<br>
-_government consumption_: 13.1% (2023 est.)<br>
-_investment in fixed capital_: 24.9% (2023 est.)<br>
-_investment in inventories_: 0.3% (2023 est.)<br>
-_exports of goods and services_: 56.9% (2023 est.)<br>
-_imports of goods and services_: -39.3% (2023 est.)<br>
+_household consumption_: 47.4% (2024 est.)<br>
+_government consumption_: 13.4% (2024 est.)<br>
+_investment in fixed capital_: 26.5% (2024 est.)<br>
+_investment in inventories_: 0.3% (2024 est.)<br>
+_exports of goods and services_: 52.8% (2024 est.)<br>
+_imports of goods and services_: -40.4% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -451,7 +451,7 @@ cassava, sugarcane, oil palm fruit, bananas, plantains, root vegetables, game me
 petroleum extraction, cement, lumber, brewing, sugar, palm oil, soap, flour, cigarettes<br>
 
 **Industrial production growth rate**<br>
-0.75% (2023 est.)<br>
+0.3% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -461,7 +461,7 @@ petroleum extraction, cement, lumber, brewing, sugar, palm oil, soap, flour, cig
 **Unemployment rate**<br>
 19.7% (2024 est.)<br>
 19.9% (2023 est.)<br>
-20.1% (2022 est.)<br>
+20.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -471,8 +471,8 @@ _female_: 39% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-0.29% of GDP (2023 est.)<br>
-0.28% of GDP (2022 est.)<br>
+0.3% of GDP (2023 est.)<br>
+0.3% of GDP (2022 est.)<br>
 0.3% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -480,9 +480,6 @@ _female_: 39% (2024 est.)<br>
 _revenues_: $2.393 billion (2020 est.)<br>
 _expenditures_: $2.409 billion (2020 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
-
-**Public debt**<br>
-130.8% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 6.5% (of GDP) (2021 est.)<br>

@@ -31,7 +31,7 @@ _total_: 2,742 km<br>
 _border countries_: Brunei 266 km; Indonesia 1,881 km; Thailand 595 km<br>
 
 **Coastline**<br>
-4,675 km (Peninsular Malaysia 2,068 km, East Malaysia 2,607 km)<br>
+4,675 km (Peninsular Malaysia 2,068 km; East Malaysia 2,607 km)<br>
 
 **Maritime claims**<br>
 _territorial sea_: 12 nm<br>
@@ -350,7 +350,7 @@ _subordinate courts_: Court of Appeal; High Court; Sessions Court; Magistrates' 
 <strong>National Front (Barisan Nasional) or BN:<br></strong>Malaysian Chinese Association (Persatuan Cina Malaysia) or MCA <br>Malaysian Indian Congress (Kongres India Malaysia) or MIC <br>United Malays National Organization (Pertubuhan Kebansaan Melayu Bersatu) or UMNO <br>United Sabah People's Party (Parti Bersatu Rakyat Sabah) or PBRS <br><br><strong>Alliance of Hope (Pakatan Harapan) or PH:</strong><br>Democratic Action Party (Parti Tindakan Demokratik) or DAP <br>National Trust Party (Parti Amanah Negara) or AMANAH <br>People's Justice Party (Parti Keadilan Rakyat) or PKR <br>United Progressive Kinabalu Organization (Pertubuhan Kinabalu Progresif Bersatu) or UPKO <br><br><strong>National Alliance (Perikatan Nasional) or PN:</strong><br>Malaysian People's Movement Party (Parti Gerakan Rakyat Malaysia) or GERAKAN or PGRM <br>Malaysian United Indigenous Party (Parti Pribumi Bersatu Malaysia) or PPBM or BERSATU <br>Pan-Malaysian Islamic Party (Parti Islam Se-Malaysia) or PAS <br><br><strong>Sabah People's Alliance (Gabungan Rakya Sabah) or GRS:<br></strong>Homeland Solidarity Party (Parti Solidariti Tanah Airku) or STAR <br>Love Sabah Party (Parti Cinta Sabah) or PCS<br>Sabah People's Ideas Party (Parti Gagasan Rakyat Sabah) or GAGASAN or PGRS <br><br><strong>Sarawak Parties Alliance (Gabungan Parti Sarawak) or GPS:</strong><br>Progressive Democratic Party (Parti Demokratik Progresif) or PDP <br>Sarawak People's Party (Parti Rakyat Sarawak) or PRS <br>Sarawak United People's Party (Parti Rakyat Bersatu Sarawak) or SUPP <br>United Bumiputera Heritage Party (Parti Pesaka Bumiputera Bersata) or PBB <br><strong><br>others: </strong><strong><br></strong>Malaysian Nation Party (Parti Bangsa Malaysia) or PBM<br>Heritage Party (Parti Warisan) or WARISAN <br>Homeland Fighter's Party (Parti Pejuang Tanah Air) or PEJUANG <br>Malaysian United Democratic Alliance (Ikatan Demokratik Malaysia) or MUDA <br>United Sarawak Party (PSB)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires KHAERIAH Zaehera Abd Kayyum (since 9 February 2025)<br>
+_chief of mission_: Ambassador Tan Sri Muhammad SHAHRUL Ikram bin Yaakob (since 24 July 2025)<br>
 _chancery_: 3516 International Court NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 572-9700<br>
 _FAX_: [1] (202) 572-9882<br>
@@ -399,25 +399,25 @@ _selected World Heritage Site locales_: Gunung Mulu National Park (n); Kinabalu 
 upper middle-income Southeast Asian economy; implementing key anticorruption policies; major electronics, oil, and chemicals exporter; trade sector employs over 40% of jobs; key economic equity initiative; high labor productivity<br>
 
 **Real GDP (purchasing power parity)**<br>
+$1.212 trillion (2024 est.)<br>
 $1.153 trillion (2023 est.)<br>
 $1.113 trillion (2022 est.)<br>
-$1.022 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.56% (2023 est.)<br>
-8.86% (2022 est.)<br>
-3.3% (2021 est.)<br>
+5.1% (2024 est.)<br>
+3.6% (2023 est.)<br>
+8.9% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$34,100 (2024 est.)<br>
 $32,800 (2023 est.)<br>
 $32,100 (2022 est.)<br>
-$29,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$399.705 billion (2023 est.)<br>
+$421.972 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -427,18 +427,18 @@ $399.705 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 7.8% (2023 est.)<br>
-_industry_: 37.7% (2023 est.)<br>
-_services_: 53.4% (2023 est.)<br>
+_agriculture_: 8.2% (2024 est.)<br>
+_industry_: 37.1% (2024 est.)<br>
+_services_: 53.6% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 60.5% (2023 est.)<br>
-_government consumption_: 11.9% (2023 est.)<br>
-_investment in fixed capital_: 19.2% (2023 est.)<br>
-_investment in inventories_: 3.2% (2023 est.)<br>
-_exports of goods and services_: 68.6% (2023 est.)<br>
-_imports of goods and services_: -63.5% (2023 est.)<br>
+_household consumption_: 60.8% (2024 est.)<br>
+_government consumption_: 12% (2024 est.)<br>
+_investment in fixed capital_: 20.6% (2024 est.)<br>
+_investment in inventories_: 1.3% (2024 est.)<br>
+_exports of goods and services_: 71.4% (2024 est.)<br>
+_imports of goods and services_: -66% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -449,7 +449,7 @@ oil palm fruit, rice, chicken, eggs, tropical fruits, coconuts, vegetables, pine
 Peninsular Malaysia - rubber and oil palm processing and manufacturing, petroleum and natural gas, light manufacturing, pharmaceuticals, medical technology, electronics and semiconductors, timber processing; Sabah - logging, petroleum and natural gas production; Sarawak - agriculture processing, petroleum and natural gas production, logging<br>
 
 **Industrial production growth rate**<br>
-1.33% (2023 est.)<br>
+4.9% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -457,9 +457,9 @@ Peninsular Malaysia - rubber and oil palm processing and manufacturing, petroleu
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.8% (2024 est.)<br>
+3.9% (2024 est.)<br>
 3.9% (2023 est.)<br>
-3.9% (2022 est.)<br>
+4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -486,9 +486,9 @@ _highest 10%_: 30.9% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.43% of GDP (2023 est.)<br>
+0.4% of GDP (2024 est.)<br>
+0.4% of GDP (2023 est.)<br>
 0.4% of GDP (2022 est.)<br>
-0.42% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -539,7 +539,7 @@ integrated circuits, refined petroleum, crude petroleum, coal, broadcasting equi
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$112.968 billion (2024 est.)<br>
+$116.229 billion (2024 est.)<br>
 $113.463 billion (2023 est.)<br>
 $114.659 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

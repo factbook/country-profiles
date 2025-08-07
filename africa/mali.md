@@ -69,7 +69,7 @@ _fresh water lake(s)_: Lac Faguibine - 590 sq km<br>note - the Niger River is th
 Niger (shared with Guinea [s], Niger, and Nigeria [m]) - 4,200 km; Senegal (shared with Guinea [s], Senegal, and Mauritania [m]) - 1,641 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km), Volta (410,991 sq km)<br>
+_Atlantic Ocean drainage_: Niger (2,261,741 sq km), Senegal (456,397 sq km), Volta (410,991 sq km)<br>
 
 **Major aquifers**<br>
 Lullemeden-Irhazer Basin, Taodeni-Tanezrouft Basin<br>
@@ -338,8 +338,8 @@ _number of seats_: 147 (all appointed)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _most recent election date_: 12/5/2020<br>
-_percentage of women in chamber_: 30.4%<br>
-_expected date of next election_: December 2025<br>
+_percentage of women in chamber_: 30.1%<br>
+_expected date of next election_: December 2030<br>
 <strong>note 1:</strong> the National Assembly was dissolved on 18 August 2020 after a military coup; the transitional government created a Transitional National Council (CNT) that acts as the transitional government's legislative body; a new constitution was ratified in July 2023 that expanded the military junta's powers, and no plans for legislative elections have been announced<br><strong>note 2:</strong> coup leaders appointed a president and vice president; the president then apportioned CNT seats to various groups and political parties<br>
 
 **Judicial branch**<br>
@@ -400,25 +400,25 @@ _selected World Heritage Site locales_: Old Towns of Djenné (c); Timbuktu (c); 
 low-income Saharan economy; recession due to COVID-19 and political instability; extreme poverty; environmentally fragile; high public debt; agricultural and gold exporter; terrorism and warfare are common<br>
 
 **Real GDP (purchasing power parity)**<br>
-$56.919 billion (2023 est.)<br>
-$54.387 billion (2022 est.)<br>
-$52.56 billion (2021 est.)<br>
+$71.253 billion (2024 est.)<br>
+$67.857 billion (2023 est.)<br>
+$64.8 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.66% (2023 est.)<br>
-3.47% (2022 est.)<br>
-3.05% (2021 est.)<br>
+5% (2024 est.)<br>
+4.7% (2023 est.)<br>
+3.5% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,400 (2023 est.)<br>
-$2,400 (2022 est.)<br>
-$2,300 (2021 est.)<br>
+$2,900 (2024 est.)<br>
+$2,900 (2023 est.)<br>
+$2,800 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$20.662 billion (2023 est.)<br>
+$26.588 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -428,18 +428,18 @@ $20.662 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 35.1% (2023 est.)<br>
-_industry_: 19.9% (2023 est.)<br>
-_services_: 36.7% (2023 est.)<br>
+_agriculture_: 33.4% (2024 est.)<br>
+_industry_: 22.7% (2024 est.)<br>
+_services_: 36.7% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 74.2% (2023 est.)<br>
-_government consumption_: 17.5% (2023 est.)<br>
-_investment in fixed capital_: 19.2% (2023 est.)<br>
-_investment in inventories_: -0.3% (2023 est.)<br>
-_exports of goods and services_: 29.4% (2023 est.)<br>
-_imports of goods and services_: -40% (2023 est.)<br>
+_household consumption_: 71.9% (2024 est.)<br>
+_government consumption_: 13.1% (2024 est.)<br>
+_investment in fixed capital_: 21.6% (2024 est.)<br>
+_investment in inventories_: -0.7% (2024 est.)<br>
+_exports of goods and services_: 22.5% (2024 est.)<br>
+_imports of goods and services_: -28.4% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -450,7 +450,7 @@ maize, rice, millet, sorghum, onions, okra, sugarcane, cotton, mangoes/guavas, s
 food processing; construction; phosphate and gold mining<br>
 
 **Industrial production growth rate**<br>
--1.19% (2023 est.)<br>
+-2.4% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -483,9 +483,9 @@ _highest 10%_: 28.3% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-5.58% of GDP (2023 est.)<br>
-5.89% of GDP (2022 est.)<br>
-5.86% of GDP (2021 est.)<br>
+4.2% of GDP (2023 est.)<br>
+4.9% of GDP (2022 est.)<br>
+4.9% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -493,11 +493,8 @@ _revenues_: $2.841 billion (2020 est.)<br>
 _expenditures_: $2.533 billion (2020 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-35.4% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
-14.2% (of GDP) (2020 est.)<br>
+12% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -533,10 +530,6 @@ Cote d'Ivoire 25%, Senegal 19%, China 12%, France 5%, Burkina Faso 4% (2023)<br>
 **Imports - commodities**<br>
 refined petroleum, broadcasting equipment, cement, cotton fabric, plastic products (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Reserves of foreign exchange and gold**<br>
-$647.8 million (2017 est.)<br>
-$395.7 million (2016 est.)<br>
 
 **Debt - external**<br>
 $4.085 billion (2023 est.)<br>

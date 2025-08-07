@@ -397,25 +397,25 @@ _selected World Heritage Site locales_: Uvs Nuur Basin (n); Orkhon Valley Cultur
 lower middle-income East Asian economy; large human capital improvements over last 3 decades; agricultural and natural resource rich; export and consumption-led growth; high inflation due to supply bottlenecks and increased food and energy prices; currency depreciation<br>
 
 **Real GDP (purchasing power parity)**<br>
+$59.221 billion (2024 est.)<br>
 $56.474 billion (2023 est.)<br>
 $52.572 billion (2022 est.)<br>
-$50.053 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-7.42% (2023 est.)<br>
-5.03% (2022 est.)<br>
-1.64% (2021 est.)<br>
+4.9% (2024 est.)<br>
+7.4% (2023 est.)<br>
+5% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$16,800 (2024 est.)<br>
 $16,200 (2023 est.)<br>
 $15,300 (2022 est.)<br>
-$14,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$20.325 billion (2023 est.)<br>
+$23.586 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -425,18 +425,18 @@ $20.325 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 9.9% (2023 est.)<br>
-_industry_: 39.5% (2023 est.)<br>
-_services_: 41% (2023 est.)<br>
+_agriculture_: 7.4% (2024 est.)<br>
+_industry_: 38.1% (2024 est.)<br>
+_services_: 44.2% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 44.5% (2023 est.)<br>
-_government consumption_: 13% (2023 est.)<br>
-_investment in fixed capital_: 25.3% (2023 est.)<br>
-_investment in inventories_: 8.6% (2023 est.)<br>
-_exports of goods and services_: 76.3% (2023 est.)<br>
-_imports of goods and services_: -66.6% (2023 est.)<br>
+_household consumption_: 49.8% (2024 est.)<br>
+_government consumption_: 16.3% (2024 est.)<br>
+_investment in fixed capital_: 26.8% (2024 est.)<br>
+_investment in inventories_: 7.8% (2024 est.)<br>
+_exports of goods and services_: 69.1% (2024 est.)<br>
+_imports of goods and services_: -69.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -447,7 +447,7 @@ milk, wheat, lamb/mutton, potatoes, beef, carrots/turnips, goat milk, goat meat,
 construction and construction materials; mining (coal, copper, molybdenum, fluorspar, tin, tungsten, gold); oil; food and beverages; processing of animal products, cashmere and natural fiber manufacturing<br>
 
 **Industrial production growth rate**<br>
-12.89% (2023 est.)<br>
+6.5% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -455,9 +455,9 @@ construction and construction materials; mining (coal, copper, molybdenum, fluor
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.4% (2024 est.)<br>
-5.5% (2023 est.)<br>
-6.2% (2022 est.)<br>
+5.5% (2024 est.)<br>
+5.6% (2023 est.)<br>
+6.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -480,9 +480,9 @@ _highest 10%_: 24.6% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.24% of GDP (2023 est.)<br>
-2.33% of GDP (2022 est.)<br>
-3.08% of GDP (2021 est.)<br>
+2.2% of GDP (2023 est.)<br>
+2.3% of GDP (2022 est.)<br>
+3.1% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -533,7 +533,7 @@ cars, trucks, trailers, tractors, construction vehicles (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$4.891 billion (2024 est.)<br>
+$5.508 billion (2024 est.)<br>
 $4.916 billion (2023 est.)<br>
 $3.398 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

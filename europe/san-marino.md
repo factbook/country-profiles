@@ -350,7 +350,7 @@ $1.947 billion (2020 est.)<br>
 **Real GDP growth rate**<br>
 7.9% (2022 est.)<br>
 13.9% (2021 est.)<br>
--6.65% (2020 est.)<br>
+-6.6% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
@@ -391,22 +391,13 @@ wheat, grapes, corn, olives; cattle, pigs, horses, beef, cheese, hides<br>
 tourism, banking, textiles, electronics, ceramics, cement, wine<br>
 
 **Industrial production growth rate**<br>
-10.72% (2022 est.)<br>
+10.7% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
-**Unemployment rate**<br>
-8.1% (2017 est.)<br>
-8.6% (2016 est.)<br>
-
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.4% (2016 est.)<br>
-_male_: 21.4%<br>
-_female_: 36%<br>
-
 **Remittances**<br>
-1.15% of GDP (2022 est.)<br>
-1.13% of GDP (2021 est.)<br>
-1.14% of GDP (2020 est.)<br>
+1.2% of GDP (2022 est.)<br>
+1.1% of GDP (2021 est.)<br>
+1.1% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>

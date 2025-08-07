@@ -294,41 +294,16 @@ small, tourism-dependent, territorial-island economy; very high public debt; COV
 1.3% (2017 est.)<br>
 -0.6% (2016 est.)<br>
 
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 3% (2017 est.)<br>
-_industry_: 10.5% (2017 est.)<br>
-_services_: 86.4% (2017 est.)<br>
-
-**GDP - composition, by end use**<br>
-_household consumption_: 74.1% (2017 est.)<br>
-_government consumption_: 18.3% (2017 est.)<br>
-_investment in fixed capital_: 26.8% (2017 est.)<br>
-_exports of goods and services_: 48.2% (2017 est.)<br>
-_imports of goods and services_: -67.4% (2017 est.)<br>
-
 **Agricultural products**<br>
 small quantities of tobacco, vegetables; cattle raising<br>
 
 **Industries**<br>
 tourism, boat building, offshore financial services<br>
 
-**Industrial production growth rate**<br>
-4% (2017 est.)<br>
-
 **Budget**<br>
 _revenues_: $81.925 million (2017 est.)<br>
 _expenditures_: $72.352 million (2017 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
-
-**Public debt**<br>
-20.1% of GDP (2015 est.)<br>
-
-**Taxes and other revenues**<br>
-46.7% (of GDP) (2017 est.)<br>
-
-**Current account balance**<br>
--$23.2 million (2017 est.)<br>
--$25.3 million (2016 est.)<br>
 
 **Exports**<br>
 $7.9 million (2017 est.)<br>
@@ -343,10 +318,6 @@ Chile 60%, Netherlands 8%, Brazil 5%, Hungary 4%, USA 4% (2023)<br>
 packaged medicine, garments, vehicle parts/accessories, vaccines, cars (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
-**Imports**<br>
-$186.2 million (2017 est.)<br>
-$170.1 million (2016 est.)<br>
-
 **Imports - partners**<br>
 Chile 50%, USA 27%, Botswana 15%, Japan 1%, Dominican Republic 1% (2023)<br>
 <b>note:</b> top five import partners based on percentage share of imports<br>
@@ -355,17 +326,13 @@ Chile 50%, USA 27%, Botswana 15%, Japan 1%, Dominican Republic 1% (2023)<br>
 poultry, copper ore, natural gas, refined petroleum, fish (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
-**Reserves of foreign exchange and gold**<br>
-$76.38 million (2017 est.)<br>
-$48.14 million (2015 est.)<br>
-
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
+2.7 (2024 est.)<br>
 2.7 (2023 est.)<br>
 2.7 (2022 est.)<br>
 2.7 (2021 est.)<br>
 2.7 (2020 est.)<br>
-2.7 (2019 est.)<br>
 
 ## Energy
 

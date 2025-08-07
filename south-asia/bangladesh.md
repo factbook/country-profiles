@@ -68,7 +68,7 @@ _other_: 13.2% (2022 est.)<br>
 Brahmaputra river mouth (shared with China [s] and India) - 3,969 km; Ganges river mouth (shared with India [s]) - 2,704 km<br><br><strong>note: </strong>[s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km)<br>
+_Indian Ocean drainage_: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km)<br>
 
 **Major aquifers**<br>
 Indus-Ganges-Brahmaputra Basin<br>
@@ -337,7 +337,7 @@ _subordinate courts_: civil courts include: Assistant Judge's Court; Joint Distr
 Awami League or AL<br>Bangladesh Jamaat-i-Islami or JIB<br>Bangladesh Nationalist Party or BNP<br>Islami Andolan Bangladesh<br>Jatiya Party or JP (Ershad faction)<br>Jatiya Party or JP (Manju faction)<br>National Socialist Party (Jatiya Samajtantrik Dal) or JSD<br>Workers Party or WP<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Asad Alam SIAM (since 13 January 2025)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires DM Salahuddin MAHMUD (since 12 June 2025)<br>
 _chancery_: 3510 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 244-0183<br>
 _FAX_: [1] (202) 244-2771<br>
@@ -389,25 +389,25 @@ _selected World Heritage Site locales_: Bagerhat Historic Mosque (c); Ruins of t
 one of the fastest growing emerging market economies; strong economic rebound following COVID-19; significant poverty reduction; exports dominated by textile industry; weakened exports and remittances resulted in declining foreign exchange reserves and 2022 IMF loan request<br>
 
 **Real GDP (purchasing power parity)**<br>
+$1.473 trillion (2024 est.)<br>
 $1.413 trillion (2023 est.)<br>
 $1.336 trillion (2022 est.)<br>
-$1.248 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.78% (2023 est.)<br>
+4.2% (2024 est.)<br>
+5.8% (2023 est.)<br>
 7.1% (2022 est.)<br>
-6.94% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$8,500 (2024 est.)<br>
 $8,200 (2023 est.)<br>
 $7,900 (2022 est.)<br>
-$7,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$437.415 billion (2023 est.)<br>
+$450.119 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -417,18 +417,18 @@ $437.415 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 11% (2023 est.)<br>
-_industry_: 34.6% (2023 est.)<br>
-_services_: 51.1% (2023 est.)<br>
+_agriculture_: 11.2% (2024 est.)<br>
+_industry_: 34.1% (2024 est.)<br>
+_services_: 51.4% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 68.6% (2023 est.)<br>
-_government consumption_: 5.7% (2023 est.)<br>
-_investment in fixed capital_: 31% (2023 est.)<br>
-_investment in inventories_: 0% (2023 est.)<br>
-_exports of goods and services_: 13.2% (2023 est.)<br>
-_imports of goods and services_: -17.8% (2023 est.)<br>
+_household consumption_: 70.1% (2024 est.)<br>
+_government consumption_: 5.9% (2024 est.)<br>
+_investment in fixed capital_: 30.7% (2024 est.)<br>
+_investment in inventories_: 0% (2024 est.)<br>
+_exports of goods and services_: 10.5% (2024 est.)<br>
+_imports of goods and services_: -16.3% (2024 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -439,7 +439,7 @@ rice, milk, potatoes, maize, sugarcane, onions, jute, vegetables, mangoes/guavas
 cotton, textiles and clothing, jute, tea, paper, cement, fertilizer, sugar, light engineering&nbsp;<br>
 
 **Industrial production growth rate**<br>
-8.37% (2023 est.)<br>
+3.5% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -476,9 +476,9 @@ _highest 10%_: 27.4% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-5.07% of GDP (2023 est.)<br>
-4.67% of GDP (2022 est.)<br>
-5.33% of GDP (2021 est.)<br>
+6% of GDP (2024 est.)<br>
+5.1% of GDP (2023 est.)<br>
+4.7% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -486,23 +486,20 @@ _revenues_: $39.849 billion (2021 est.)<br>
 _expenditures_: $34.538 billion (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-33.1% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
 7.6% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$7.2 billion (2023 est.)<br>
--$17.532 billion (2022 est.)<br>
--$15.775 billion (2021 est.)<br>
+$1.87 billion (2024 est.)<br>
+$4.388 billion (2023 est.)<br>
+-$14.438 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$47.287 billion (2023 est.)<br>
-$56.794 billion (2022 est.)<br>
-$49.291 billion (2021 est.)<br>
+$53.848 billion (2024 est.)<br>
+$58.885 billion (2023 est.)<br>
+$60.066 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -514,9 +511,9 @@ garments, footwear, fabric, textiles, trunks and cases (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$72.996 billion (2023 est.)<br>
-$93.457 billion (2022 est.)<br>
-$85.299 billion (2021 est.)<br>
+$74.96 billion (2024 est.)<br>
+$73.172 billion (2023 est.)<br>
+$93.635 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -528,7 +525,7 @@ refined petroleum, cotton fabric, natural gas, cotton, fabric (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$20.225 billion (2024 est.)<br>
+$21.395 billion (2024 est.)<br>
 $21.86 billion (2023 est.)<br>
 $33.747 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
@@ -539,7 +536,7 @@ $58.02 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: taka (BDT) per US dollar -<br>
-115.801 (2024 est.)<br>
+115.604 (2024 est.)<br>
 106.309 (2023 est.)<br>
 91.745 (2022 est.)<br>
 85.084 (2021 est.)<br>

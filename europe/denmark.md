@@ -393,25 +393,25 @@ _selected World Heritage Site locales_: Denmark: Mounds, Runic Stones, and Churc
 <p>high-income, EU-member, trade-oriented Nordic economy; growth driven by pharmaceuticals, energy, and services; large share of employment in public sector; fixed exchange rate pegged to euro; strong fiscal position and declining public debt; tight labor market mitigated by migrant workers and higher retirement age</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$428.759 billion (2023 est.)<br>
-$418.321 billion (2022 est.)<br>
-$411.976 billion (2021 est.)<br>
+$440.558 billion (2024 est.)<br>
+$424.937 billion (2023 est.)<br>
+$414.592 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.7% (2024 est.)<br>
 2.5% (2023 est.)<br>
-1.54% (2022 est.)<br>
-6.84% (2021 est.)<br>
+1.5% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$72,100 (2023 est.)<br>
-$70,900 (2022 est.)<br>
-$70,300 (2021 est.)<br>
+$73,700 (2024 est.)<br>
+$71,500 (2023 est.)<br>
+$70,200 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$407.092 billion (2023 est.)<br>
+$429.457 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -421,16 +421,16 @@ $407.092 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.8% (2023 est.)<br>
-_industry_: 23.5% (2023 est.)<br>
-_services_: 64.4% (2023 est.)<br>
+_agriculture_: 0.7% (2024 est.)<br>
+_industry_: 24% (2024 est.)<br>
+_services_: 64% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 45.5% (2023 est.)<br>
 _government consumption_: 22.5% (2023 est.)<br>
 _investment in fixed capital_: 22.6% (2023 est.)<br>
-_investment in inventories_: 0.3% (2023 est.)<br>
+_investment in inventories_: 0.2% (2023 est.)<br>
 _exports of goods and services_: 68% (2023 est.)<br>
 _imports of goods and services_: -59.8% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
@@ -443,17 +443,17 @@ milk, wheat, potatoes, barley, sugar beets, pork, rapeseed, rye, oats, chicken (
 wind turbines, pharmaceuticals, medical equipment, shipbuilding and refurbishment, iron, steel, nonferrous metals, chemicals, food processing, machinery and transportation equipment, textiles and clothing, electronics, construction, furniture and other wood products<br>
 
 **Industrial production growth rate**<br>
-10.41% (2023 est.)<br>
+12% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.207 million (2024 est.)<br>
+3.21 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 5.6% (2024 est.)<br>
 5.1% (2023 est.)<br>
-4.4% (2022 est.)<br>
+4.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -467,7 +467,7 @@ _female_: 11.9% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-28.3 (2021 est.)<br>
+29.3 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -475,14 +475,14 @@ _on food_: 11.9% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 3.5% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.7% (2021 est.)<br>
-_highest 10%_: 23.8% (2021 est.)<br>
+_lowest 10%_: 3.6% (2022 est.)<br>
+_highest 10%_: 24.5% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.35% of GDP (2023 est.)<br>
-0.35% of GDP (2022 est.)<br>
-0.35% of GDP (2021 est.)<br>
+0.4% of GDP (2024 est.)<br>
+0.4% of GDP (2023 est.)<br>
+0.3% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -499,15 +499,15 @@ _expenditures_: $130.785 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$55.901 billion (2024 est.)<br>
 $40.061 billion (2023 est.)<br>
 $46.488 billion (2022 est.)<br>
-$35.362 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$299.405 billion (2024 est.)<br>
 $276.646 billion (2023 est.)<br>
 $283.37 billion (2022 est.)<br>
-$239.956 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -519,9 +519,9 @@ packaged medicine, fish, vaccines, refined petroleum, pork (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$252.954 billion (2024 est.)<br>
 $243.478 billion (2023 est.)<br>
 $245.07 billion (2022 est.)<br>
-$214.488 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -533,7 +533,7 @@ natural gas, cars, garments, packaged medicine, refined petroleum (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$103.239 billion (2024 est.)<br>
+$108.405 billion (2024 est.)<br>
 $109.371 billion (2023 est.)<br>
 $96.073 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

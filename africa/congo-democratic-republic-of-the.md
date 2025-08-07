@@ -70,7 +70,8 @@ _fresh water lake(s)_: Lake Tanganyika (shared with Burundi, Tanzania, and Zambi
 <p>Zaïre (Congo) river mouth (shared with Zambia [s], Angola, and Republic of Congo) - 2,920 km; Ubangi river mouth (shared with Central African Republic [s] and Republic of Congo) - 2,270 km</p> <strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
+_Atlantic Ocean drainage_: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+_Indian Ocean drainage_: Zambezi (1,332,412 sq km)<br>
 
 **Major aquifers**<br>
 Congo Basin<br>
@@ -345,7 +346,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 12/20/2023<br>
 _parties elected and seats per party_: Union for Democracy and Social Progress/TSHISEKEDI (UDPS/TSHISEKEDI) (69); Action of Allies and Union for the Congolese Nation (A/A-UNC) (35); Alliance of Democratic Forces of Congo and Allies (AFDC-A) (35); Act and Build (AB) (26); Other (312)<br>
-_percentage of women in chamber_: 13%<br>
+_percentage of women in chamber_: 12.8%<br>
 _expected date of next election_: December 2028<br>
 
 **Legislative branch - upper chamber**<br>
@@ -414,25 +415,25 @@ _selected World Heritage Site locales_: Garamba National Park; Kahuzi-Biega Nati
 very poor, large, natural resource-rich sub-Saharan country; possesses the world&rsquo;s second largest rainforest; increasing Chinese extractive sector trade; massive decrease in government investments; increasing current account deficit and public debts<br>
 
 **Real GDP (purchasing power parity)**<br>
-$154.012 billion (2023 est.)<br>
+$164.367 billion (2024 est.)<br>
+$154.081 billion (2023 est.)<br>
 $141.867 billion (2022 est.)<br>
-$130.244 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-8.56% (2023 est.)<br>
-8.92% (2022 est.)<br>
-6.2% (2021 est.)<br>
+6.7% (2024 est.)<br>
+8.6% (2023 est.)<br>
+8.9% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$1,500 (2024 est.)<br>
 $1,500 (2023 est.)<br>
 $1,400 (2022 est.)<br>
-$1,300 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$66.383 billion (2023 est.)<br>
+$70.749 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -442,18 +443,18 @@ $66.383 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 17.4% (2023 est.)<br>
-_industry_: 46.5% (2023 est.)<br>
-_services_: 33.5% (2023 est.)<br>
+_agriculture_: 17.1% (2024 est.)<br>
+_industry_: 46.6% (2024 est.)<br>
+_services_: 33% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 62.7% (2023 est.)<br>
-_government consumption_: 7.9% (2023 est.)<br>
-_investment in fixed capital_: 31.7% (2023 est.)<br>
-_investment in inventories_: 0.4% (2023 est.)<br>
-_exports of goods and services_: 44.2% (2023 est.)<br>
-_imports of goods and services_: -47% (2023 est.)<br>
+_household consumption_: 62.7% (2024 est.)<br>
+_government consumption_: 8.1% (2024 est.)<br>
+_investment in fixed capital_: 32.9% (2024 est.)<br>
+_investment in inventories_: 0.5% (2024 est.)<br>
+_exports of goods and services_: 46.6% (2024 est.)<br>
+_imports of goods and services_: -50.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -464,7 +465,7 @@ cassava, plantains, sugarcane, maize, oil palm fruit, rice, root vegetables, ban
 mining (copper, cobalt, gold, diamonds, coltan, zinc, tin, tungsten), mineral processing, consumer products (textiles, plastics, footwear, cigarettes), metal products, processed foods and beverages, timber, cement, commercial ship repair<br>
 
 **Industrial production growth rate**<br>
-14.56% (2023 est.)<br>
+10.1% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -474,7 +475,7 @@ mining (copper, cobalt, gold, diamonds, coltan, zinc, tin, tungsten), mineral pr
 **Unemployment rate**<br>
 4.6% (2024 est.)<br>
 4.5% (2023 est.)<br>
-4.5% (2022 est.)<br>
+4.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -484,19 +485,22 @@ _female_: 6.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-63% (2014 est.)<br>
+56.2% (2020 est.)<br>
+<strong>note:</strong> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 44.7 (2020 est.)<br>
+<strong>note:</strong> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1% (2020 est.)<br>
 _highest 10%_: 35.7% (2020 est.)<br>
+% share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-4.97% of GDP (2023 est.)<br>
-4.96% of GDP (2022 est.)<br>
-2.44% of GDP (2021 est.)<br>
+4.9% of GDP (2023 est.)<br>
+5% of GDP (2022 est.)<br>
+2.4% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -506,6 +510,7 @@ _expenditures_: $5.109 billion (2021 est.)<br>
 
 **Public debt**<br>
 16% of GDP (2022 est.)<br>
+<strong data-olk-copy-source="MessageBody">note:</strong> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 11.4% (of GDP) (2022 est.)<br>

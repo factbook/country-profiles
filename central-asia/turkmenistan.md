@@ -31,7 +31,8 @@ _total_: 4,158 km<br>
 _border countries_: Afghanistan 804 km; Iran 1,148 km; Kazakhstan 413 km; Uzbekistan 1,793 km<br>
 
 **Coastline**<br>
-0 km (landlocked); note - Turkmenistan borders the Caspian Sea (1,768 km)<br>
+0 km (landlocked)<br>
+<strong>note:</strong> Turkmenistan borders the Caspian Sea (1,768 km)<br>
 
 **Maritime claims**<br>
 none (landlocked)<br>
@@ -68,7 +69,7 @@ _salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Russia, and Kaz
 Amu Darya (shared with Tajikistan [s], Afghanistan, and Uzbekistan [m]) - 2,620 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>
+_Internal (endorheic basin) drainage_: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>
 
 **Population distribution**<br>
 the most densely populated areas are the southern, eastern, and northeastern oases; approximately 50% of the population lives in and around the capital of Ashgabat<br>
@@ -394,44 +395,32 @@ _selected World Heritage Site locales_: Ancient Merv (c); Kunya-Urgench (c); Par
 upper middle-income Central Asian economy; has 10% of global natural gas reserves, exporting to Russia and China; natural resource rich; authoritarian and dominated by state-owned enterprises; major central-south Asian pipeline development<br>
 
 **Real GDP (purchasing power parity)**<br>
+$134.555 billion (2024 est.)<br>
 $131.576 billion (2023 est.)<br>
 $123.778 billion (2022 est.)<br>
-$116.552 billion (2021 est.)<br>
 <b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+2.3% (2024 est.)<br>
 6.3% (2023 est.)<br>
 6.2% (2022 est.)<br>
-6.2% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$18,000 (2024 est.)<br>
 $17,900 (2023 est.)<br>
 $17,100 (2022 est.)<br>
-$16,400 (2021 est.)<br>
 <b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$60.629 billion (2023 est.)<br>
+$64.24 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
-
-**Inflation rate (consumer prices)**<br>
-8% (2017 est.)<br>
-3.6% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 11.3% (2023 est.)<br>
 _industry_: 39.3% (2023 est.)<br>
 _services_: 49.4% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
-
-**GDP - composition, by end use**<br>
-_household consumption_: 50% (2017 est.)<br>
-_government consumption_: 9.4% (2022 est.)<br>
-_investment in fixed capital_: 18.3% (2023 est.)<br>
-_exports of goods and services_: 21.6% (2023 est.)<br>
-_imports of goods and services_: -12.5% (2023 est.)<br>
-<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 milk, wheat, potatoes, cotton, watermelons, tomatoes, grapes, barley, beef, lamb/mutton (2023)<br>
@@ -440,18 +429,14 @@ milk, wheat, potatoes, cotton, watermelons, tomatoes, grapes, barley, beef, lamb
 **Industries**<br>
 natural gas, oil, petroleum products, textiles, food processing<br>
 
-**Industrial production growth rate**<br>
-4.3% (2014 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
-
 **Labor force**<br>
 2.445 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.3% (2024 est.)<br>
+4.4% (2024 est.)<br>
 4.1% (2023 est.)<br>
-4.1% (2022 est.)<br>
+4.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -473,16 +458,6 @@ _on alcohol and tobacco_: 2.2% of household expenditures (2023 est.)<br>
 **Budget**<br>
 _revenues_: $5.954 billion (2019 est.)<br>
 _expenditures_: $6.134 billion (2019 est.)<br>
-
-**Public debt**<br>
-28.8% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-14.9% (of GDP) (2017 est.)<br>
-
-**Current account balance**<br>
--$4.359 billion (2017 est.)<br>
--$7.207 billion (2016 est.)<br>
 
 **Exports**<br>
 $13.111 billion (2023 est.)<br>
@@ -511,10 +486,6 @@ Turkey 21%, UAE 21%, China 20%, Kazakhstan 8%, Germany 5% (2023)<br>
 **Imports - commodities**<br>
 broadcasting equipment, cars, wheat, computers, iron pipes (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Reserves of foreign exchange and gold**<br>
-$24.91 billion (2017 est.)<br>
-$25.05 billion (2016 est.)<br>
 
 **Debt - external**<br>
 $3.696 billion (2023 est.)<br>
@@ -629,7 +600,7 @@ the military's inventory is comprised largely of Russian and Soviet-era weapons 
 18-27 years of age for compulsory military service for men and volunteer service for men and women; 24-month conscript service obligation (2025)<br>
 
 **Military - note**<br>
-the military is responsible for external defense and works closely with the Border Service on protecting the country’s borders; while Turkmenistan has a policy of permanent and "positive" neutrality and has declined to participate in post-Soviet military groupings such as the Collective Security Treaty Organization and the Shanghai Cooperation Organization, it has participated in multinational exercises and bilateral training with neighboring countries, including Russia and Uzbekistan; Turkmenistan joined NATO's Partnership for Peace program in 1994, but it does not offer any military forces to NATO-led operations<br><br>in recent years, Turkmenistan has made efforts to strengthen its naval capabilities on the Caspian Sea, including expanding ship building capabilities, building a new naval base, and adding larger vessels to the Navy’s inventory; in 2018, Turkmenistan opened its first naval shipyard, and in 2021 the Navy commissioned its largest warship, a corvette that was jointly constructed with Turkey, to complement a small existing force of coastal patrol craft (2023)<br>
+the military is responsible for external defense and has a role in internal security; it works closely with the Border Service on protecting the country&rsquo;s borders; while Turkmenistan has a policy of permanent and "positive" neutrality and has declined to participate in post-Soviet military groupings such as the Collective Security Treaty Organization and the Shanghai Cooperation Organization, it has participated in multinational exercises and bilateral training with neighboring countries, including Russia and Uzbekistan; Turkmenistan joined NATO's Partnership for Peace program in 1994, but it does not offer any military forces to NATO-led operations (2025)<br>
 
 ## Space
 

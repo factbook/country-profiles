@@ -326,7 +326,7 @@ _subordinate courts_: Appeals Court; first instance civil, criminal, and labor c
 Alliance for the Republic or APRE<br>Alternative for Change or AC (operates in a political alliance with the FSLN)<br>Autonomous Liberal Party or PAL<strong><br></strong>Caribbean Unity Movement or PAMUC<br>Christian Unity Party or PUC (operates in a political alliance with the FSLN)<br>Independent Liberal Party or PLI<br>Liberal Constitutionalist Party or PLC<br>Moskitia Indigenous Progressive Movement or MOSKITIA PAWANKA (operates in a political alliance with the FSLN) <br>Multiethnic Indigenous Party or PIM (operates in a political alliance with the FSLN)<br>Nationalist Liberal Party or PLN (operates in a political alliance with the FSLN)<br>Nicaraguan Liberal Alliance or ALN<br>Nicaraguan Party of the Christian Path or CCN<br>Nicaraguan Resistance Party or PRN (operates in a political alliance with the FSLN)<strong><br></strong>Sandinista National Liberation Front or FSLN<br>Sons of Mother Earth or YATAMA<br>The New Sons of Mother Earth Movement or MYATAMARAN (operates in a political alliance with the FSLN)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires M. Lautaro SANDINO Montes (since 23 February 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Sammia Alicia HODGSON MCKENZIE (since 3 June 2025)<br>
 _chancery_: 1627 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 939-6570<br>
 _FAX_: [1] (202) 939-6545<br>
@@ -375,25 +375,25 @@ _selected World Heritage Site locales_: Ruins of León Viejo; León Cathedral<br
 low-income Central American economy; until 2018, nearly 20 years of sustained GDP growth; recent struggles due to COVID-19, political instability, and hurricanes; significant remittances; increasing poverty and food scarcity since 2005; sanctions limit investment<br>
 
 **Real GDP (purchasing power parity)**<br>
-$51.088 billion (2023 est.)<br>
-$48.856 billion (2022 est.)<br>
-$47.089 billion (2021 est.)<br>
+$52.989 billion (2024 est.)<br>
+$51.153 billion (2023 est.)<br>
+$48.985 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.57% (2023 est.)<br>
-3.75% (2022 est.)<br>
-10.32% (2021 est.)<br>
+3.6% (2024 est.)<br>
+4.4% (2023 est.)<br>
+3.6% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$7,700 (2024 est.)<br>
 $7,500 (2023 est.)<br>
 $7,300 (2022 est.)<br>
-$7,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$17.829 billion (2023 est.)<br>
+$19.694 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -403,18 +403,18 @@ $17.829 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 15.3% (2023 est.)<br>
-_industry_: 27.3% (2023 est.)<br>
-_services_: 46.3% (2023 est.)<br>
+_agriculture_: 14.4% (2024 est.)<br>
+_industry_: 27.6% (2024 est.)<br>
+_services_: 46.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 78.1% (2023 est.)<br>
-_government consumption_: 12.2% (2023 est.)<br>
-_investment in fixed capital_: 21.2% (2023 est.)<br>
-_investment in inventories_: 1.8% (2023 est.)<br>
-_exports of goods and services_: 45.8% (2023 est.)<br>
-_imports of goods and services_: -59.1% (2023 est.)<br>
+_household consumption_: 80.6% (2024 est.)<br>
+_government consumption_: 12.3% (2024 est.)<br>
+_investment in fixed capital_: 22.9% (2024 est.)<br>
+_investment in inventories_: 1.8% (2024 est.)<br>
+_exports of goods and services_: 40.5% (2024 est.)<br>
+_imports of goods and services_: -58.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -425,7 +425,7 @@ sugarcane, milk, rice, oil palm fruit, maize, plantains, cassava, groundnuts, be
 food processing, chemicals, machinery and metal products, knit and woven apparel, petroleum refining and distribution, beverages, footwear, wood, electric wire harness manufacturing, mining<br>
 
 **Industrial production growth rate**<br>
-6.07% (2023 est.)<br>
+3.6% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -434,7 +434,7 @@ food processing, chemicals, machinery and metal products, knit and woven apparel
 
 **Unemployment rate**<br>
 4.6% (2024 est.)<br>
-4.7% (2023 est.)<br>
+4.8% (2023 est.)<br>
 5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -448,19 +448,10 @@ _female_: 12% (2024 est.)<br>
 24.9% (2016 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
-**Gini Index coefficient - distribution of family income**<br>
-46.2 (2014 est.)<br>
-<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: 2% (2014 est.)<br>
-_highest 10%_: 37.2% (2014 est.)<br>
-<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
-
 **Remittances**<br>
-26.15% of GDP (2023 est.)<br>
-20.62% of GDP (2022 est.)<br>
-15.2% of GDP (2021 est.)<br>
+26.6% of GDP (2024 est.)<br>
+26.2% of GDP (2023 est.)<br>
+20.6% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -477,15 +468,15 @@ _expenditures_: $2.609 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$1.381 billion (2023 est.)<br>
--$386.9 million (2022 est.)<br>
--$540.879 million (2021 est.)<br>
+$817.618 million (2024 est.)<br>
+$1.465 billion (2023 est.)<br>
+-$459.6 million (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$8.25 billion (2023 est.)<br>
+$8.135 billion (2024 est.)<br>
+$8.248 billion (2023 est.)<br>
 $7.87 billion (2022 est.)<br>
-$6.618 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -497,9 +488,9 @@ garments, gold, insulated wire, coffee, beef (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$10.517 billion (2023 est.)<br>
-$10.212 billion (2022 est.)<br>
-$8.342 billion (2021 est.)<br>
+$11.437 billion (2024 est.)<br>
+$10.519 billion (2023 est.)<br>
+$10.213 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

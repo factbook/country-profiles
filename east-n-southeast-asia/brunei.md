@@ -322,7 +322,7 @@ National Development Party or NDP<br>
 <strong>note:</strong> the NDP is Brunei’s only registered party, but does not have representation in the Legislative Council, which is appointed<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Dato Paduka Haji SERBINI bin Haji Ali (since 28 January 2016)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires IZZATI Baharuddin (since 6 May 2025)<br>
 _chancery_: 3520 International Court NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 237-1838<br>
 _FAX_: [1] (202) 885-0560<br>
@@ -367,25 +367,25 @@ _history_: adopted 1951<br>
 almost exclusively an oil and gas economy; high income country; expansive and robust welfare system; the majority of the population works for the government; promulgating a nationalized halal brand; considering establishment of a bond market and stock exchange<br>
 
 **Real GDP (purchasing power parity)**<br>
-$35.26 billion (2023 est.)<br>
+$36.64 billion (2024 est.)<br>
+$35.163 billion (2023 est.)<br>
 $34.771 billion (2022 est.)<br>
-$35.347 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.41% (2023 est.)<br>
--1.63% (2022 est.)<br>
--1.59% (2021 est.)<br>
+4.2% (2024 est.)<br>
+1.1% (2023 est.)<br>
+-1.6% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$76,800 (2023 est.)<br>
+$79,200 (2024 est.)<br>
+$76,600 (2023 est.)<br>
 $76,400 (2022 est.)<br>
-$78,200 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$15.128 billion (2023 est.)<br>
+$15.463 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -395,18 +395,18 @@ $15.128 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.2% (2023 est.)<br>
-_industry_: 61.8% (2023 est.)<br>
-_services_: 38.8% (2023 est.)<br>
+_agriculture_: 1.2% (2024 est.)<br>
+_industry_: 61.7% (2024 est.)<br>
+_services_: 38.7% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 27.6% (2023 est.)<br>
-_government consumption_: 22.8% (2023 est.)<br>
-_investment in fixed capital_: 29.4% (2023 est.)<br>
-_investment in inventories_: 0.2% (2023 est.)<br>
-_exports of goods and services_: 76.5% (2023 est.)<br>
-_imports of goods and services_: -60% (2023 est.)<br>
+_household consumption_: 28.5% (2024 est.)<br>
+_government consumption_: 23% (2024 est.)<br>
+_investment in fixed capital_: 28.2% (2024 est.)<br>
+_investment in inventories_: 0.2% (2024 est.)<br>
+_exports of goods and services_: 74.3% (2024 est.)<br>
+_imports of goods and services_: -58.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -417,7 +417,7 @@ chicken, eggs, fruits, vegetables, rice, bananas, beans, cucumbers/gherkins, pin
 petroleum, petroleum refining, liquefied natural gas, construction, agriculture, aquaculture, transportation<br>
 
 **Industrial production growth rate**<br>
--1.43% (2023 est.)<br>
+5.7% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -425,7 +425,7 @@ petroleum, petroleum refining, liquefied natural gas, construction, agriculture,
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.1% (2024 est.)<br>
+5.2% (2024 est.)<br>
 5.2% (2023 est.)<br>
 5.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -437,9 +437,9 @@ _female_: 21.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
-0.01% of GDP (2023 est.)<br>
-0.01% of GDP (2022 est.)<br>
-0.01% of GDP (2021 est.)<br>
+0% of GDP (2023 est.)<br>
+0% of GDP (2022 est.)<br>
+0% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -448,20 +448,18 @@ _expenditures_: $3.189 billion (2020 est.)<br>
 
 **Public debt**<br>
 2.8% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-18.5% (of GDP) (2017 est.)<br>
+<strong data-olk-copy-source="MessageBody">note:</strong> central government debt as a % of GDP<br>
 
 **Current account balance**<br>
+$2.23 billion (2024 est.)<br>
 $1.944 billion (2023 est.)<br>
-$3.264 billion (2022 est.)<br>
-$1.57 billion (2021 est.)<br>
+$3.256 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$11.578 billion (2023 est.)<br>
-$14.411 billion (2022 est.)<br>
-$11.202 billion (2021 est.)<br>
+$11.483 billion (2024 est.)<br>
+$11.573 billion (2023 est.)<br>
+$14.405 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -473,9 +471,9 @@ refined petroleum, natural gas, crude petroleum, hydrocarbons, fertilizers (2023
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$9.081 billion (2023 est.)<br>
-$10.106 billion (2022 est.)<br>
-$9.219 billion (2021 est.)<br>
+$9.11 billion (2024 est.)<br>
+$9.077 billion (2023 est.)<br>
+$10.099 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -487,7 +485,7 @@ crude petroleum, gold, refined petroleum, coal, cars (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$4.032 billion (2024 est.)<br>
+$4.414 billion (2024 est.)<br>
 $4.483 billion (2023 est.)<br>
 $5.035 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

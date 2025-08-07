@@ -334,9 +334,9 @@ $7.672 billion (2015 est.)<br>
 <strong>note:</strong> data are in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
-5.04% (2023 est.)<br>
-11.05% (2022 est.)<br>
-21.87% (2021 est.)<br>
+5% (2023 est.)<br>
+11% (2022 est.)<br>
+22.2% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
@@ -358,29 +358,12 @@ none<br>
 **Industries**<br>
 banking, insurance, tourism, construction, small-scale industrial and consumer products<br>
 
-**Industrial production growth rate**<br>
--3.16% (2014 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
-
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.6% (2016 est.)<br>
-_male_: 25.7%<br>
-_female_: 27.9%<br>
-
-**Exports**<br>
-$964.6 million (2017 est.)<br>
-<strong>note:</strong> full customs integration with France, which collects and rebates Monegasque trade duties; also participates in EU market system through customs union with France<br>
-
 **Exports - partners**<br>
 <p>Italy, Switzerland, Germany, Belgium, Spain</p> (2021)<br>
 
 **Exports - commodities**<br>
 jewelry, perfumes, watches, packaged medicines, cars (2021)<br>
 top five export commodities based on value in dollars<br>
-
-**Imports**<br>
-$1.371 billion (2017 est.)<br>
-<strong>note:</strong> full customs integration with France, which collects and rebates Monegasque trade duties; also participates in EU market system through customs union with France<br>
 
 **Imports - partners**<br>
 Italy, Switzerland, United Kingdom, Germany, China&nbsp; (2021)<br>

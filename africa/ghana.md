@@ -68,7 +68,7 @@ _other_: 9.4% (2022 est.)<br>
 Volta river mouth (shared with Burkina Faso [s]) - 1,600 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Volta (410,991 sq km)<br>
+_Atlantic Ocean drainage_: Volta (410,991 sq km)<br>
 
 **Population distribution**<br>
 population is concentrated in the southern half of the country, with the highest concentrations on or near the Atlantic coast, as shown in this population distribution map<br>
@@ -318,7 +318,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President John Dramani MAHAMA (since 7 January 2025)<br>
-_head of government_: President Nana Addo Dankwa AKUFO-ADDO (since 7 January 2017)<br>
+_head of government_: President John Dramani MAHAMA (since 7 January 2025)<br>
 _cabinet_: Council of Ministers; nominated by the president, approved by Parliament<br>
 _election/appointment process_: president and vice president directly elected on the same ballot by absolute-majority popular vote in 2 rounds, if needed, for a 4-year term (eligible for a second term); the president is both chief of state and head of government<br>
 _most recent election date_: 7 December 2024<br>
@@ -346,7 +346,7 @@ _subordinate courts_: Court of Appeal; High Court; Circuit Court; District Court
 All Peoples Congress or APC <br>Convention People's Party or CPP <br>Ghana Freedom Party or GFP <br>Ghana Union Movement or GUM <br>Great Consolidated Popular Party or GCPP <br>Liberal Party of Ghana or LPG <br>National Democratic Congress or NDC <br>National Democratic Party or NDP <br>New Patriotic Party or NPP <br>People's National Convention or PNC <br>Progressive People's Party or PPP <br>United Front Party or UFP <br>United Progressive Party or UPP <br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires (vacant); note - various News and Events posts on the Embassy website list Paul Kwaw CUDJOE is the Acting Head of Mission (since March 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Jane Gasu AHETO (since 31 May 2025)<br>
 _chancery_: 3512 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 686-4520<br>
 _FAX_: [1] (202) 686-4527<br>
@@ -394,25 +394,25 @@ _selected World Heritage Site locales_: Forts and Castles, Volta, Greater Accra,
 West African lower-middle income economy; major gold, oil and cocoa exporter; macroeconomic challenges following nearly four decades of sustained growth; recent progress in debt restructuring, fiscal reforms, financial stability, and curbing runaway inflation under 2023-26 IMF credit facility program<br>
 
 **Real GDP (purchasing power parity)**<br>
-$229.639 billion (2023 est.)<br>
-$223.07 billion (2022 est.)<br>
-$214.867 billion (2021 est.)<br>
+$243.124 billion (2024 est.)<br>
+$230.046 billion (2023 est.)<br>
+$223.043 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.94% (2023 est.)<br>
-3.82% (2022 est.)<br>
-5.08% (2021 est.)<br>
+5.7% (2024 est.)<br>
+3.1% (2023 est.)<br>
+3.8% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$7,100 (2024 est.)<br>
 $6,800 (2023 est.)<br>
 $6,700 (2022 est.)<br>
-$6,600 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$76.37 billion (2023 est.)<br>
+$82.825 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -422,18 +422,18 @@ $76.37 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 21.1% (2023 est.)<br>
-_industry_: 29.5% (2023 est.)<br>
-_services_: 42.5% (2023 est.)<br>
+_agriculture_: 20.7% (2024 est.)<br>
+_industry_: 28.8% (2024 est.)<br>
+_services_: 43.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 84.2% (2023 est.)<br>
-_government consumption_: 5.9% (2023 est.)<br>
-_investment in fixed capital_: 10.7% (2023 est.)<br>
-_investment in inventories_: 0.2% (2023 est.)<br>
-_exports of goods and services_: 34% (2023 est.)<br>
-_imports of goods and services_: -35% (2023 est.)<br>
+_household consumption_: 84.1% (2024 est.)<br>
+_government consumption_: 4.8% (2024 est.)<br>
+_investment in fixed capital_: 9.8% (2024 est.)<br>
+_investment in inventories_: 0.2% (2024 est.)<br>
+_exports of goods and services_: 35.3% (2024 est.)<br>
+_imports of goods and services_: -34.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -444,7 +444,7 @@ cassava, yams, plantains, maize, oil palm fruit, taro, rice, oranges, pineapples
 mining, lumbering, light manufacturing, aluminum smelting, food processing, cement, small commercial ship building, petroleum<br>
 
 **Industrial production growth rate**<br>
--1.22% (2023 est.)<br>
+7.1% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -452,7 +452,7 @@ mining, lumbering, light manufacturing, aluminum smelting, food processing, ceme
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3% (2024 est.)<br>
+3.1% (2024 est.)<br>
 3.1% (2023 est.)<br>
 3.1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -481,18 +481,15 @@ _highest 10%_: 32.2% (2016 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.18% of GDP (2023 est.)<br>
-2.79% of GDP (2022 est.)<br>
-2.42% of GDP (2021 est.)<br>
+3% of GDP (2023 est.)<br>
+2.8% of GDP (2022 est.)<br>
+2.4% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $11.684 billion (2022 est.)<br>
 _expenditures_: $16.842 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
-
-**Public debt**<br>
-71.8% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 12.3% (of GDP) (2022 est.)<br>

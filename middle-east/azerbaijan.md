@@ -32,7 +32,8 @@ _total_: 2,468 km<br>
 _border countries_: Armenia 996 km; Georgia 428 km; Iran 689 km; Russia 338 km; Turkey 17 km<br>
 
 **Coastline**<br>
-0 km (landlocked); note - Azerbaijan borders the Caspian Sea (713 km)<br>
+0 km (landlocked)<br>
+<strong>note:</strong> Azerbaijan borders the Caspian Sea (713 km)<br>
 
 **Maritime claims**<br>
 none (landlocked)<br>
@@ -389,25 +390,25 @@ _selected World Heritage Site locales_: Walled City of Baku; Gobustan Rock Art C
 <p>upper-middle income, oil-dependent Caucasus economy; minimal economic diversification and dominance of state-owned enterprises; growth and fiscal consolidation supported by oil revenues, but risks remain from demand shocks; potential economic gains from Nagorno-Karabakh ceasefire; education investments to diversify and retain human capital</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$215.896 billion (2023 est.)<br>
+$225.198 billion (2024 est.)<br>
+$216.388 billion (2023 est.)<br>
 $213.497 billion (2022 est.)<br>
-$203.884 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.12% (2023 est.)<br>
-4.71% (2022 est.)<br>
-5.62% (2021 est.)<br>
+4.1% (2024 est.)<br>
+1.4% (2023 est.)<br>
+4.7% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$22,100 (2024 est.)<br>
 $21,300 (2023 est.)<br>
 $21,100 (2022 est.)<br>
-$20,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$72.356 billion (2023 est.)<br>
+$74.316 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -417,18 +418,18 @@ $72.356 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 5.5% (2023 est.)<br>
-_industry_: 46.6% (2023 est.)<br>
-_services_: 39.1% (2023 est.)<br>
+_agriculture_: 5.7% (2024 est.)<br>
+_industry_: 42.6% (2024 est.)<br>
+_services_: 42.3% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 53.2% (2023 est.)<br>
-_government consumption_: 14% (2023 est.)<br>
-_investment in fixed capital_: 14.9% (2023 est.)<br>
-_investment in inventories_: 3.5% (2023 est.)<br>
-_exports of goods and services_: 49% (2023 est.)<br>
-_imports of goods and services_: -34.6% (2023 est.)<br>
+_household consumption_: 55.4% (2024 est.)<br>
+_government consumption_: 14.4% (2024 est.)<br>
+_investment in fixed capital_: 16.8% (2024 est.)<br>
+_investment in inventories_: 4.3% (2024 est.)<br>
+_exports of goods and services_: 45.9% (2024 est.)<br>
+_imports of goods and services_: -36.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -439,17 +440,17 @@ milk, wheat, barley, potatoes, tomatoes, watermelons, onions, apples, maize, cot
 petroleum and petroleum products, natural gas, oilfield equipment; steel, iron ore; cement; chemicals and petrochemicals; textiles<br>
 
 **Industrial production growth rate**<br>
-1.34% (2023 est.)<br>
+2.1% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.028 million (2024 est.)<br>
+5.02 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 5.6% (2024 est.)<br>
-5.6% (2023 est.)<br>
-5.6% (2022 est.)<br>
+5.7% (2023 est.)<br>
+5.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -458,17 +459,14 @@ _male_: 12.3% (2024 est.)<br>
 _female_: 15.3% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-4.9% (2015 est.)<br>
-
 **Average household expenditures**<br>
 _on food_: 42.7% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 2% of household expenditures (2023 est.)<br>
 
 **Remittances**<br>
-2.64% of GDP (2023 est.)<br>
-5.01% of GDP (2022 est.)<br>
-2.78% of GDP (2021 est.)<br>
+1.8% of GDP (2024 est.)<br>
+2.6% of GDP (2023 est.)<br>
+5% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>

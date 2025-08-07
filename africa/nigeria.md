@@ -70,7 +70,8 @@ _fresh water lake(s)_: Lake Chad (endorheic lake shared with Niger, Chad, and Ca
 Niger river mouth (shared with Guinea [s], Mali, Benin, and Niger) - 4,200 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
+_Atlantic Ocean drainage_: Niger (2,261,741 sq km)<br>
+_Internal (endorheic basin) drainage_: Lake Chad (2,497,738 sq km)<br>
 
 **Major aquifers**<br>
 Lake Chad Basin, Lullemeden-Irhazer Aquifer System<br>
@@ -408,46 +409,38 @@ _selected World Heritage Site locales_: Sukur Cultural Landscape; Osun-Osogbo Sa
 largest African market economy; enormous but mostly lower middle income labor force; major oil exporter; key telecommunications and finance industries; susceptible to global energy price shocks; regional leader in critical infrastructure; primarily agrarian employment<br>
 
 **Real GDP (purchasing power parity)**<br>
+$1.318 trillion (2024 est.)<br>
 $1.275 trillion (2023 est.)<br>
 $1.239 trillion (2022 est.)<br>
-$1.2 trillion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.86% (2023 est.)<br>
-3.25% (2022 est.)<br>
-3.65% (2021 est.)<br>
+3.4% (2024 est.)<br>
+2.9% (2023 est.)<br>
+3.3% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$5,700 (2024 est.)<br>
 $5,600 (2023 est.)<br>
 $5,600 (2022 est.)<br>
-$5,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$363.846 billion (2023 est.)<br>
+$187.76 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+33.2% (2024 est.)<br>
 24.7% (2023 est.)<br>
 18.8% (2022 est.)<br>
-17% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 22.7% (2023 est.)<br>
-_industry_: 32.6% (2023 est.)<br>
-_services_: 42.8% (2023 est.)<br>
+_agriculture_: 20.4% (2024 est.)<br>
+_industry_: 29.6% (2024 est.)<br>
+_services_: 47% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
-
-**GDP - composition, by end use**<br>
-_household consumption_: 80% (2017 est.)<br>
-_government consumption_: 5.8% (2017 est.)<br>
-_investment in fixed capital_: 14.8% (2017 est.)<br>
-_investment in inventories_: 0.7% (2017 est.)<br>
-_exports of goods and services_: 11.9% (2017 est.)<br>
-_imports of goods and services_: -13.2% (2017 est.)<br>
 
 **Agricultural products**<br>
 cassava, yams, maize, oil palm fruit, rice, taro, bananas, vegetables, sorghum, groundnuts (2023)<br>
@@ -457,7 +450,7 @@ cassava, yams, maize, oil palm fruit, rice, taro, bananas, vegetables, sorghum, 
 crude oil, coal, tin, columbite; rubber products, wood; hides and skins, textiles, cement and other construction materials, food products, footwear, chemicals, fertilizer, printing, ceramics, steel<br>
 
 **Industrial production growth rate**<br>
-0.72% (2023 est.)<br>
+2.4% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -467,7 +460,7 @@ crude oil, coal, tin, columbite; rubber products, wood; hides and skins, textile
 **Unemployment rate**<br>
 3% (2024 est.)<br>
 3.1% (2023 est.)<br>
-3.8% (2022 est.)<br>
+3.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -494,31 +487,25 @@ _highest 10%_: 26.7% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-5.37% of GDP (2023 est.)<br>
-4.22% of GDP (2022 est.)<br>
-4.42% of GDP (2021 est.)<br>
+11.3% of GDP (2024 est.)<br>
+5.4% of GDP (2023 est.)<br>
+4.2% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $37.298 billion (2019 est.)<br>
 _expenditures_: $59.868 billion (2019 est.)<br>
 
-**Public debt**<br>
-21.8% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-3.4% (of GDP) (2017 est.)<br>
-
 **Current account balance**<br>
-$6.023 billion (2023 est.)<br>
+$17.215 billion (2024 est.)<br>
+$6.423 billion (2023 est.)<br>
 $1.019 billion (2022 est.)<br>
--$3.254 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$57.536 billion (2024 est.)<br>
 $60.261 billion (2023 est.)<br>
 $69.091 billion (2022 est.)<br>
-$50.856 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -530,9 +517,9 @@ crude petroleum, natural gas, gold, fertilizers, cocoa beans (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$57.73 billion (2024 est.)<br>
 $65.423 billion (2023 est.)<br>
 $77.049 billion (2022 est.)<br>
-$67.478 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

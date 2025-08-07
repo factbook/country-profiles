@@ -36,7 +36,7 @@ _total_: 0 km<br>
 _territorial sea_: 12 nm<br>
 _contiguous zone_: 24 nm<br>
 _exclusive economic zone_: 200 nm<br>
-measured from claimed archipelagic straight baselines<br>
+<strong>note: </strong>measured from claimed archipelagic straight baselines<br>
 
 **Climate**<br>
 tropical; hot, humid; dry, northeast monsoon (November to March); rainy, southwest monsoon (June to August)<br>
@@ -380,25 +380,25 @@ _history_: lyrics adopted 1948, music adopted 1972; between 1948 and 1972, the l
 upper middle-income Indian Ocean island economy; major tourism, fishing, and shipping industries; high public debt; systemic corruption; crippled by COVID-19; ongoing deflation; poverty has tripled since pandemic began<br>
 
 **Real GDP (purchasing power parity)**<br>
+$12.325 billion (2024 est.)<br>
 $11.723 billion (2023 est.)<br>
 $11.194 billion (2022 est.)<br>
-$9.834 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.73% (2023 est.)<br>
-13.83% (2022 est.)<br>
-37.69% (2021 est.)<br>
+5.1% (2024 est.)<br>
+4.7% (2023 est.)<br>
+13.8% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$23,400 (2024 est.)<br>
 $22,300 (2023 est.)<br>
 $21,400 (2022 est.)<br>
-$19,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$6.591 billion (2023 est.)<br>
+$6.975 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -408,16 +408,16 @@ $6.591 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 5.1% (2023 est.)<br>
-_industry_: 9.7% (2023 est.)<br>
-_services_: 70.6% (2023 est.)<br>
+_agriculture_: 3% (2024 est.)<br>
+_industry_: 9% (2024 est.)<br>
+_services_: 73.8% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 51.3% (2023 est.)<br>
+_household consumption_: 51.4% (2023 est.)<br>
 _government consumption_: 17.1% (2023 est.)<br>
 _investment in fixed capital_: 35% (2023 est.)<br>
-_investment in inventories_: -2.1% (2023 est.)<br>
+_investment in inventories_: -2% (2023 est.)<br>
 _exports of goods and services_: 74.4% (2023 est.)<br>
 _imports of goods and services_: -75.7% (2023 est.)<br>
 
@@ -429,7 +429,7 @@ fruits, vegetables, nuts, other meats, papayas, bananas, tomatoes, maize, pulses
 tourism, fish processing, shipping, boat building, coconut processing, woven mats, rope, handicrafts, coral and sand mining<br>
 
 **Industrial production growth rate**<br>
-3.25% (2023 est.)<br>
+-2.7% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -437,9 +437,9 @@ tourism, fish processing, shipping, boat building, coconut processing, woven mat
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.6% (2024 est.)<br>
-4.2% (2023 est.)<br>
-4.4% (2022 est.)<br>
+4.7% (2024 est.)<br>
+4.3% (2023 est.)<br>
+4.5% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -462,9 +462,9 @@ _highest 10%_: 23.3% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.08% of GDP (2023 est.)<br>
-0.08% of GDP (2022 est.)<br>
-0.09% of GDP (2021 est.)<br>
+0.1% of GDP (2024 est.)<br>
+0.1% of GDP (2023 est.)<br>
+0.1% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -472,23 +472,20 @@ _revenues_: $1.407 billion (2021 est.)<br>
 _expenditures_: $1.548 billion (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-63.9% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
 19.5% (of GDP) (2021 est.)<br>
 <strong>note:</strong> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.399 billion (2023 est.)<br>
+-$1.257 billion (2024 est.)<br>
+-$1.4 billion (2023 est.)<br>
 -$1.042 billion (2022 est.)<br>
--$453.449 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$4.878 billion (2023 est.)<br>
+$5.413 billion (2024 est.)<br>
+$4.88 billion (2023 est.)<br>
 $5.096 billion (2022 est.)<br>
-$3.985 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -500,9 +497,9 @@ fish, aircraft, refined petroleum, scrap iron, natural gas (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$4.979 billion (2023 est.)<br>
+$5.344 billion (2024 est.)<br>
+$4.984 billion (2023 est.)<br>
 $4.939 billion (2022 est.)<br>
-$3.482 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -514,7 +511,7 @@ refined petroleum, plastic products, aircraft, granite, ships (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$673.203 million (2024 est.)<br>
+$673.886 million (2024 est.)<br>
 $590.523 million (2023 est.)<br>
 $832.094 million (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

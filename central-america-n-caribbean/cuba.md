@@ -399,9 +399,9 @@ $134.2 billion (2015 est.)<br>
 <strong>note:</strong> data are in 2016 dollars<br>
 
 **Real GDP growth rate**<br>
--1.93% (2023 est.)<br>
-1.77% (2022 est.)<br>
-1.25% (2021 est.)<br>
+-1.9% (2023 est.)<br>
+1.8% (2022 est.)<br>
+1.3% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
@@ -419,18 +419,18 @@ $107.352 billion (2020 est.)<br>
 4.5% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.8% (2022 est.)<br>
-_industry_: 23.8% (2022 est.)<br>
-_services_: 74.6% (2022 est.)<br>
+_agriculture_: 1.3% (2023 est.)<br>
+_industry_: 27.5% (2023 est.)<br>
+_services_: 70% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 59.6% (2022 est.)<br>
-_government consumption_: 32.5% (2022 est.)<br>
-_investment in fixed capital_: 11.5% (2022 est.)<br>
-_investment in inventories_: 5.1% (2022 est.)<br>
-_exports of goods and services_: 40% (2022 est.)<br>
-_imports of goods and services_: -48.8% (2022 est.)<br>
+_household consumption_: 73.3% (2023 est.)<br>
+_government consumption_: 25.5% (2023 est.)<br>
+_investment in fixed capital_: 12.3% (2023 est.)<br>
+_investment in inventories_: 10% (2023 est.)<br>
+_exports of goods and services_: 43.5% (2023 est.)<br>
+_imports of goods and services_: -64.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -441,7 +441,7 @@ sugarcane, cassava, plantains, vegetables, mangoes/guavas, milk, tomatoes, pumpk
 petroleum, nickel, cobalt, pharmaceuticals, tobacco, construction, steel, cement, agricultural machinery, sugar<br>
 
 **Industrial production growth rate**<br>
--1.56% (2023 est.)<br>
+-0.9% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -449,9 +449,9 @@ petroleum, nickel, cobalt, pharmaceuticals, tobacco, construction, steel, cement
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.5% (2024 est.)<br>
-1.7% (2023 est.)<br>
-1.8% (2022 est.)<br>
+1.6% (2024 est.)<br>
+1.8% (2023 est.)<br>
+1.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -464,18 +464,8 @@ _female_: 3.5% (2024 est.)<br>
 _revenues_: $54.52 billion (2017 est.)<br>
 _expenditures_: $64.64 billion (2017 est.)<br>
 
-**Public debt**<br>
-47.7% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-58.1% (of GDP) (2017 est.)<br>
-
-**Current account balance**<br>
-$985.4 million (2017 est.)<br>
-$2.008 billion (2016 est.)<br>
-
 **Exports**<br>
-$8.769 billion (2020 est.)<br>
+$8.768 billion (2020 est.)<br>
 $12.632 billion (2019 est.)<br>
 $14.53 billion (2018 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
@@ -502,17 +492,13 @@ Spain 24%, China 13%, Netherlands 10%, USA 9%, Canada 6% (2023)<br>
 beer, poultry, rice, plastic products, soybean oil (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
-**Reserves of foreign exchange and gold**<br>
-$11.35 billion (2017 est.)<br>
-$12.3 billion (2016 est.)<br>
-
 **Exchange rates**<br>
 _Currency_: Cuban pesos (CUP) per US dollar -<br>
+24 (2024 est.)<br>
 24 (2023 est.)<br>
 24 (2022 est.)<br>
 24 (2021 est.)<br>
 1 (2020 est.)<br>
-1 (2019 est.)<br>
 <strong>note:</strong> official exchange rate of 24 Cuban pesos per US dollar effective 1 January 2021<br>
 
 ## Energy

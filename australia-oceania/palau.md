@@ -380,9 +380,9 @@ $278.538 million (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.88% (2023 est.)<br>
--1.32% (2022 est.)<br>
--14.16% (2021 est.)<br>
+1.9% (2023 est.)<br>
+-1.3% (2022 est.)<br>
+-13.8% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
@@ -423,15 +423,12 @@ coconuts, cassava (manioc, tapioca), sweet potatoes; fish, pigs, chickens, eggs,
 tourism, fishing, subsistence agriculture<br>
 
 **Industrial production growth rate**<br>
--19.49% (2023 est.)<br>
+-19.5% (2023 est.)<br>
 <strong>note:</strong> annual % change in industrial value added based on constant local currency<br>
 
-**Labor force**<br>
-11,610 (2016)<br>
-
 **Remittances**<br>
-0.69% of GDP (2023 est.)<br>
-0.76% of GDP (2022 est.)<br>
+0.7% of GDP (2023 est.)<br>
+0.8% of GDP (2022 est.)<br>
 0.8% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -481,9 +478,6 @@ Italy 32%, China 25%, USA 11%, Turkey 10%, Japan 6% (2023)<br>
 **Imports - commodities**<br>
 ships, refined petroleum, additive manufacturing machines, cars, plastic products (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Reserves of foreign exchange and gold**<br>
-$580.9 million (2015 est.)<br>
 
 **Exchange rates**<br>
 <p>the US dollar is used</p><br>

@@ -37,7 +37,7 @@ _territorial sea_: 12 nm<br>
 _contiguous zone_: 24 nm<br>
 _exclusive economic zone_: 200 nm<br>
 _continental shelf_: 200 nm or to the outer edge of the continental margin<br>
-measured from claimed archipelagic baselines<br>
+<strong>note: </strong>measured from claimed archipelagic baselines<br>
 
 **Climate**<br>
 tropical; rainy season (June to December)<br>
@@ -333,7 +333,7 @@ _subordinate courts_: Courts of Summary Criminal Jurisdiction; Petty Civil Court
 People's National Movement or PNM<br>United National Congress or UNC<br>Tobago People’s Party or Tobago<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Venessa RAMHIT-RAMROOP (since 3 March 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Venessa RAMHIT-RAMROOP (since 4 June 2025)<br>
 _chancery_: 1708 Massachusetts Avenue NW, Washington, DC 20036-1975<br>
 _telephone_: [1] (202) 467-6490<br>
 _FAX_: [1] (202) 785-3130<br>
@@ -380,25 +380,25 @@ _history_: adopted 1962; song originally written as an anthem for the West Indie
 high-income Caribbean economy; major hydrocarbon exporter; key tourism and finance sectors; high inflation and growing public debt; long foreign currency access delays; large foreign reserves and sovereign wealth fund<br>
 
 **Real GDP (purchasing power parity)**<br>
-$43.358 billion (2023 est.)<br>
-$42.781 billion (2022 est.)<br>
-$42.157 billion (2021 est.)<br>
+$43.362 billion (2024 est.)<br>
+$42.658 billion (2023 est.)<br>
+$42.058 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.35% (2023 est.)<br>
-1.48% (2022 est.)<br>
--1.04% (2021 est.)<br>
+1.7% (2024 est.)<br>
+1.4% (2023 est.)<br>
+1.1% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$31,700 (2023 est.)<br>
-$31,300 (2022 est.)<br>
-$30,800 (2021 est.)<br>
+$31,700 (2024 est.)<br>
+$31,200 (2023 est.)<br>
+$30,800 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$27.372 billion (2023 est.)<br>
+$26.429 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -408,9 +408,9 @@ $27.372 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.1% (2022 est.)<br>
-_industry_: 48.9% (2022 est.)<br>
-_services_: 47.8% (2022 est.)<br>
+_agriculture_: 0.8% (2023 est.)<br>
+_industry_: 35% (2023 est.)<br>
+_services_: 59.9% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -429,16 +429,16 @@ chicken, fruits, coconuts, citrus fruits, maize, oranges, plantains, eggs, taro,
 petroleum and petroleum products, liquefied natural gas, methanol, ammonia, urea, steel products, beverages, food processing, cement, cotton textiles<br>
 
 **Industrial production growth rate**<br>
-3.18% (2022 est.)<br>
+-4.7% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-651,600 (2024 est.)<br>
+649,900 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.5% (2024 est.)<br>
-4.2% (2023 est.)<br>
+4.6% (2024 est.)<br>
+4.3% (2023 est.)<br>
 4.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -448,13 +448,10 @@ _male_: 10.3% (2024 est.)<br>
 _female_: 12% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
-**Population below poverty line**<br>
-20% (2014 est.)<br>
-
 **Remittances**<br>
-0.74% of GDP (2023 est.)<br>
-0.68% of GDP (2022 est.)<br>
-0.96% of GDP (2021 est.)<br>
+0.8% of GDP (2024 est.)<br>
+0.8% of GDP (2023 est.)<br>
+0.7% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -462,23 +459,20 @@ _revenues_: $5.698 billion (2019 est.)<br>
 _expenditures_: $7.822 billion (2019 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-41.8% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
-16.5% (of GDP) (2019 est.)<br>
+16.7% (of GDP) (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$3.397 billion (2023 est.)<br>
-$5.244 billion (2022 est.)<br>
-$2.629 billion (2021 est.)<br>
+$1.117 billion (2024 est.)<br>
+$2.948 billion (2023 est.)<br>
+$4.967 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$11.544 billion (2023 est.)<br>
+$11.087 billion (2024 est.)<br>
+$11.545 billion (2023 est.)<br>
 $17.584 billion (2022 est.)<br>
-$11.542 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -490,9 +484,9 @@ natural gas, alcohols, ammonia, crude petroleum, iron reductions (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$8.773 billion (2023 est.)<br>
-$10.694 billion (2022 est.)<br>
-$8.636 billion (2021 est.)<br>
+$10.19 billion (2024 est.)<br>
+$9.219 billion (2023 est.)<br>
+$10.968 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -504,7 +498,7 @@ railway cargo containers, refined petroleum, cars, iron ore, excavation machiner
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$5.438 billion (2024 est.)<br>
+$5.601 billion (2024 est.)<br>
 $6.256 billion (2023 est.)<br>
 $6.832 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
@@ -619,7 +613,7 @@ the TTDF's ground force inventory consists of light weapons, while the Coast Gua
 18-25 years of age for voluntary military service for men and women (some age variations between services, reserves); no conscription (2024)<br>
 
 **Military - note**<br>
-the TTDF's primary responsibilities are conducting border and maritime security, including air and maritime surveillance, assisting civil authorities in times of crisis or disaster, providing search and rescue services, port security, and supporting civil law enforcement, particularly in countering gang-related crime and trafficking of narcotics and other illicit goods; the Police Service maintains internal security (2024)<br>
+the primary responsibilities of the Trinidad and Tobago Defense Force (TTDF) are conducting border and maritime security, assisting civil authorities in times of crisis or disaster, providing search and rescue services, port security, and supporting civil law enforcement, particularly in countering gang-related crime and trafficking of narcotics and other illicit goods; the Police Service maintains internal security (2025)<br>
 
 ## Transnational Issues
 

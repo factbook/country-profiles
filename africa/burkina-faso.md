@@ -65,7 +65,7 @@ _other_: 24.4% (2022 est.)<br>
 Volta river source (shared with Ghana [m]) - 1,600 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
+_Atlantic Ocean drainage_: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
 
 **Population distribution**<br>
 most of the population is located in the center and south; nearly one third lives in cities, including the capital city of Ouagadougou (Ouaga), as shown in this population distribution map (2019)<br>
@@ -346,7 +346,7 @@ _subordinate courts_: Appeals Court; High Court; first instance tribunals; distr
 Act Together<br>African Democratic Rally/Alliance for Democracy and Federation or ADF/RDA<br>Congress for Democracy and Progress or CDP<br>Convergence for Progress and Solidarity-Generation 3 or CPS-G3<br>Movement for the Future Burkina Faso or MBF<br>National Convention for Progress or CNP<br>New Era for Democracy or NTD<br>Pan-African Alliance for Refoundation or APR<br>Party for Democracy and Socialism/Metba or PDS/Metba<br>Party for Development and Change or PDC<br>Patriotic Rally for Integrity or RPI<br>Peoples Movement for Progress or MPP<br>Progressives United for Renewal or PUR<br>Union for Progress and Reform or UPC<br>Union for Rebirth - Sankarist Party or UNIR-PS<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Edouard BOUDA (since 1 February 2024)<br>
+_chief of mission_: Ambassador Kassoum COULIBALY (since 24 July 2025)<br>
 _chancery_: 2340 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-5577<br>
 _FAX_: [1] (202) 667-1882<br>
@@ -395,25 +395,25 @@ _selected World Heritage Site locales_: <p>Ruins of Loropéni (c); Ancient Ferro
 highly agrarian, low-income economy; limited natural resources; widespread poverty; terrorism disrupting potential economic activity; improving trade balance via increases in gold exports; economy inflating after prior deflation; growing public debt but still manageable<br>
 
 **Real GDP (purchasing power parity)**<br>
+$60.001 billion (2024 est.)<br>
 $57.152 billion (2023 est.)<br>
 $55.508 billion (2022 est.)<br>
-$54.69 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.96% (2023 est.)<br>
+5% (2024 est.)<br>
+3% (2023 est.)<br>
 1.5% (2022 est.)<br>
-6.94% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$2,500 (2024 est.)<br>
 $2,500 (2023 est.)<br>
 $2,500 (2022 est.)<br>
-$2,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$20.325 billion (2023 est.)<br>
+$23.25 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -423,18 +423,18 @@ $20.325 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 16.3% (2023 est.)<br>
-_industry_: 29.3% (2023 est.)<br>
-_services_: 43.6% (2023 est.)<br>
+_agriculture_: 18.6% (2024 est.)<br>
+_industry_: 29.7% (2024 est.)<br>
+_services_: 40.2% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 64.6% (2023 est.)<br>
-_government consumption_: 20% (2023 est.)<br>
-_investment in fixed capital_: 17.2% (2023 est.)<br>
-_investment in inventories_: 5.4% (2023 est.)<br>
-_exports of goods and services_: 28.9% (2023 est.)<br>
-_imports of goods and services_: -36% (2023 est.)<br>
+_household consumption_: 60.6% (2024 est.)<br>
+_government consumption_: 18.8% (2024 est.)<br>
+_investment in fixed capital_: 16.5% (2024 est.)<br>
+_investment in inventories_: 10.6% (2024 est.)<br>
+_exports of goods and services_: 28.5% (2024 est.)<br>
+_imports of goods and services_: -34.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -445,7 +445,7 @@ maize, sorghum, fruits, vegetables, millet, cowpeas, cotton, groundnuts, sugarca
 cotton lint, beverages, agricultural processing, soap, cigarettes, textiles, gold<br>
 
 **Industrial production growth rate**<br>
-5.29% (2023 est.)<br>
+-5.4% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -454,7 +454,7 @@ cotton lint, beverages, agricultural processing, soap, cigarettes, textiles, gol
 
 **Unemployment rate**<br>
 5.2% (2024 est.)<br>
-5.3% (2023 est.)<br>
+5.4% (2023 est.)<br>
 5.4% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -478,8 +478,8 @@ _highest 10%_: 30.2% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.85% of GDP (2023 est.)<br>
-2.78% of GDP (2022 est.)<br>
+2.9% of GDP (2023 est.)<br>
+2.8% of GDP (2022 est.)<br>
 2.9% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -489,11 +489,11 @@ _expenditures_: $4.018 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-62.5% of GDP (2022 est.)<br>
+61.3% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-17.7% (of GDP) (2022 est.)<br>
+18.4% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -529,10 +529,6 @@ Cote d'Ivoire 14%, China 13%, Ghana 9%, Russia 9%, France 7% (2023)<br>
 **Imports - commodities**<br>
 refined petroleum, plastic products, cement, electricity, packaged medicine (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
-
-**Reserves of foreign exchange and gold**<br>
-$49 million (2017 est.)<br>
-$50.9 million (2016 est.)<br>
 
 **Debt - external**<br>
 $3.565 billion (2023 est.)<br>

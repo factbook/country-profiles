@@ -65,7 +65,7 @@ _other_: 6.3% (2022 est.)<br>
 _fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Zambia) - 32,000 sq km<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+_Atlantic Ocean drainage_: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Population distribution**<br>
 one of Africa's most densely populated countries; concentrations tend to be in the north and along the northern shore of Lake Tanganyika in the west; most people live on farms near areas of fertile volcanic soil, as shown in this population distribution map<br>
@@ -317,7 +317,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Evariste NDAYISHIMIYE (since 18 June 2020)<br>
-_head of government_: Minister Gervais NDIRAKOBUCA (since 7 September 2022)<br>
+_head of government_: Prime Minister Gervais NDIRAKOBUCA (since 7 September 2022)<br>
 _cabinet_: Council of Ministers appointed by president<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 7-year term (eligible for a second term); vice presidents nominated by the president, endorsed by Parliament<br>
 _most recent election date_: 20 May 2020<br>
@@ -334,15 +334,15 @@ _number of seats_: 111 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 5/20/2020<br>
-_parties elected and seats per party_: National Council for the Defense of Democracy - Front for the Defense of Democracy (CNDD-FDD) (86); National Congress for Liberty (CNL) (32); Other (5)<br>
+_most recent election date_: 6/5/2025<br>
+_parties elected and seats per party_: National Council for the Defense of Democracy - Front for the Defense of Democracy (CNDD-FDD) (108); Other (3)<br>
 _percentage of women in chamber_: 39.6%<br>
-_expected date of next election_: June 2025<br>
+_expected date of next election_: June 2030<br>
 <strong>note:</strong> 60% of seats in the National Assembly are allocated to Hutus and 40% to Tutsis; 3 seats are reserved for Twas; 30% of total seats are reserved for women<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate (Inama Nkenguzamateka)<br>
-_number of seats_: 39 (all indirectly elected)<br>
+_number of seats_: 13 (all indirectly elected)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 7/20/2020<br>
@@ -403,25 +403,25 @@ _history_: adopted 1962<br>
 highly agrarian, low-income Sub-Saharan economy; declining foreign assistance; increasing fiscal insolvencies; dense and still growing population; COVID-19 weakened economic recovery and flipped two years of deflation<br>
 
 **Real GDP (purchasing power parity)**<br>
-$11.347 billion (2023 est.)<br>
+$11.739 billion (2024 est.)<br>
+$11.343 billion (2023 est.)<br>
 $11.048 billion (2022 est.)<br>
-$10.848 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.5% (2024 est.)<br>
 2.7% (2023 est.)<br>
-1.85% (2022 est.)<br>
-3.1% (2021 est.)<br>
+1.8% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$800 (2024 est.)<br>
 $800 (2023 est.)<br>
 $800 (2022 est.)<br>
-$800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.642 billion (2023 est.)<br>
+$2.162 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -431,18 +431,18 @@ $2.642 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 25.2% (2023 est.)<br>
+_agriculture_: 25.3% (2023 est.)<br>
 _industry_: 9.6% (2023 est.)<br>
-_services_: 48.8% (2023 est.)<br>
+_services_: 49% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 75.6% (2023 est.)<br>
-_government consumption_: 30.5% (2023 est.)<br>
-_investment in fixed capital_: 13% (2023 est.)<br>
+_household consumption_: 75.9% (2023 est.)<br>
+_government consumption_: 30.7% (2023 est.)<br>
+_investment in fixed capital_: 13.1% (2023 est.)<br>
 _investment in inventories_: 0% (2023 est.)<br>
 _exports of goods and services_: 5.3% (2023 est.)<br>
-_imports of goods and services_: -24.3% (2023 est.)<br>
+_imports of goods and services_: -24.4% (2023 est.)<br>
 <strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -453,7 +453,7 @@ cassava, bananas, sweet potatoes, beans, maize, vegetables, potatoes, rice, suga
 light consumer goods (sugar, shoes, soap, beer); cement, assembly of imported components; public works construction; food processing (fruits)<br>
 
 **Industrial production growth rate**<br>
-2.75% (2023 est.)<br>
+-0.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -461,9 +461,9 @@ light consumer goods (sugar, shoes, soap, beer); cement, assembly of imported co
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-0.9% (2024 est.)<br>
-0.9% (2023 est.)<br>
-0.9% (2022 est.)<br>
+1% (2024 est.)<br>
+1% (2023 est.)<br>
+1% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -471,6 +471,10 @@ _total_: 1.6% (2024 est.)<br>
 _male_: 2.1% (2024 est.)<br>
 _female_: 1.2% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
+
+**Population below poverty line**<br>
+51% (2020 est.)<br>
+<strong>note:</strong> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 37.5 (2020 est.)<br>
@@ -482,18 +486,15 @@ _highest 10%_: 29.9% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-7.49% of GDP (2023 est.)<br>
-4.89% of GDP (2022 est.)<br>
-6.05% of GDP (2021 est.)<br>
+7.5% of GDP (2023 est.)<br>
+4.9% of GDP (2022 est.)<br>
+6.1% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $713.694 million (2021 est.)<br>
 _expenditures_: $506.147 million (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
-
-**Public debt**<br>
-51.7% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 15.6% (of GDP) (2021 est.)<br>

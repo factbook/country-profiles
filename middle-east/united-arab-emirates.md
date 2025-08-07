@@ -383,31 +383,31 @@ _selected World Heritage Site locales_: Cultural Sites of Al Ain (Hafit, Hili, B
 <p>high-income, oil-driven Middle Eastern economy; fastest GDP growth of Gulf states; diversification through tourism, construction, and services; strong foreign direct investment orientation; continued government investment and business-friendly reforms</p><br>
 
 **Real GDP (purchasing power parity)**<br>
+$745.994 billion (2024 est.)<br>
 $718.95 billion (2023 est.)<br>
 $693.842 billion (2022 est.)<br>
-$645.376 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.62% (2023 est.)<br>
-7.51% (2022 est.)<br>
-4.35% (2021 est.)<br>
+3.8% (2024 est.)<br>
+3.6% (2023 est.)<br>
+7.5% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$68,600 (2024 est.)<br>
 $68,600 (2023 est.)<br>
 $68,900 (2022 est.)<br>
-$67,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$514.13 billion (2023 est.)<br>
+$537.079 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+1.7% (2024 est.)<br>
 1.6% (2023 est.)<br>
 5.3% (2022 est.)<br>
-0.2% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -437,11 +437,11 @@ petroleum and petrochemicals; fishing, aluminum, cement, fertilizer, commercial 
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-7.077 million (2024 est.)<br>
+7.09 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.1% (2024 est.)<br>
+2.2% (2024 est.)<br>
 2.2% (2023 est.)<br>
 2.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -478,10 +478,6 @@ _expenditures_: $19.483 billion (2022 est.)<br>
 0.6% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Current account balance**<br>
-$26.47 billion (2017 est.)<br>
-$13.23 billion (2016 est.)<br>
-
 **Exports**<br>
 $558.402 billion (2023 est.)<br>
 $521.897 billion (2022 est.)<br>
@@ -511,7 +507,7 @@ gold, broadcasting equipment, cars, refined petroleum, diamonds (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$231.69 billion (2024 est.)<br>
+$237.931 billion (2024 est.)<br>
 $189.491 billion (2023 est.)<br>
 $138.433 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

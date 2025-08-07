@@ -71,7 +71,8 @@ _salt water lake(s)_: Lake Rukwa - 5,760 sq km<br>
 Nile (shared with Rwanda [s], Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
+_Atlantic Ocean drainage_: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+_Indian Ocean drainage_: Zambezi (1,332,412 sq km)<br>
 
 **Population distribution**<br>
 the largest and most populous East African country; population distribution is extremely uneven, but greater population clusters occur in the northern half of country and along the east coast, as shown in this population distribution map<br>
@@ -404,25 +405,25 @@ _selected World Heritage Site locales_: Ngorongoro Conservation Area (m); Ruins 
 emerging lower middle-income East African economy; resource-rich and growing tourism; strong post-pandemic recovery from hospitality, electricity, mining, and transit sectors; declining poverty; stable inflation; gender-based violence economic and labor force disruptions<br>
 
 **Real GDP (purchasing power parity)**<br>
+$246.706 billion (2024 est.)<br>
 $233.786 billion (2023 est.)<br>
 $222.506 billion (2022 est.)<br>
-$212.79 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.07% (2023 est.)<br>
-4.57% (2022 est.)<br>
-4.32% (2021 est.)<br>
+5.5% (2024 est.)<br>
+5.1% (2023 est.)<br>
+4.6% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$3,700 (2024 est.)<br>
 $3,600 (2023 est.)<br>
 $3,500 (2022 est.)<br>
-$3,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$79.062 billion (2023 est.)<br>
+$78.78 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -432,18 +433,18 @@ $79.062 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 23.7% (2023 est.)<br>
-_industry_: 28% (2023 est.)<br>
-_services_: 28.7% (2023 est.)<br>
+_agriculture_: 23.4% (2024 est.)<br>
+_industry_: 28.7% (2024 est.)<br>
+_services_: 28.4% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 54.1% (2023 est.)<br>
-_government consumption_: 8.8% (2023 est.)<br>
-_investment in fixed capital_: 42.7% (2023 est.)<br>
-_investment in inventories_: -1.7% (2023 est.)<br>
-_exports of goods and services_: 17.2% (2023 est.)<br>
-_imports of goods and services_: -21% (2023 est.)<br>
+_household consumption_: 52.9% (2024 est.)<br>
+_government consumption_: 9.2% (2024 est.)<br>
+_investment in fixed capital_: 41.4% (2024 est.)<br>
+_investment in inventories_: -1.6% (2024 est.)<br>
+_exports of goods and services_: 19.8% (2024 est.)<br>
+_imports of goods and services_: -21.7% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -454,7 +455,7 @@ maize, cassava, sweet potatoes, bananas, milk, sugarcane, rice, vegetables, bean
 agricultural processing (sugar, beer, cigarettes, sisal twine); mining (diamonds, gold, and iron), salt, soda ash; cement, oil refining, shoes, apparel, wood products, fertilizer<br>
 
 **Industrial production growth rate**<br>
-4.8% (2023 est.)<br>
+5.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -491,18 +492,15 @@ _highest 10%_: 33.1% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.96% of GDP (2023 est.)<br>
-0.93% of GDP (2022 est.)<br>
-0.79% of GDP (2021 est.)<br>
+1% of GDP (2023 est.)<br>
+0.9% of GDP (2022 est.)<br>
+0.8% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $9.114 billion (2014 est.)<br>
 _expenditures_: $8.926 billion (2014 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
-
-**Public debt**<br>
-37% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 11.5% (of GDP) (2023 est.)<br>
@@ -554,11 +552,11 @@ $17.513 billion (2023 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Tanzanian shillings (TZS) per US dollar -<br>
+2,597.9 (2024 est.)<br>
+2,383.043 (2023 est.)<br>
+2,303.034 (2022 est.)<br>
 2,297.764 (2021 est.)<br>
 2,294.146 (2020 est.)<br>
-2,288.207 (2019 est.)<br>
-2,263.782 (2018 est.)<br>
-2,228.857 (2017 est.)<br>
 
 ## Energy
 
@@ -679,7 +677,7 @@ the TPDF's inventory includes mostly Chinese and Russian/Soviet-era weapons and 
 520 Central African Republic (MINUSCA); more than 1,000 Democratic Republic of the Congo (MONUSCO and Southern African Development Community regional force); 125 Lebanon (UNIFIL); approximately 300 Mozambique (under bi-lateral agreement to assist with combatting an insurgency) (2025)<br>
 
 **Military - note**<br>
-the TDPF&rsquo;s primary concerns are maritime piracy and smuggling, border security, terrorism, animal poaching, and spillover from instability in neighboring countries, particularly Mozambique and the Democratic Republic of the Congo (DRC); it participates in multinational training exercises, regional peacekeeping deployments, and has ties with a variety of foreign militaries, including those of China, India, and the US; it has contributed troops to the UN&rsquo;s Force Intervention Brigade in the DRC; the TPDF also participated in the former Southern African Development Community intervention force in Mozambique, which assisted the Mozambique military in combating fighters affiliated with the Islamic State of Iraq and ash-Sham (ISIS); the regional force withdrew in 2024, but the TPDF continues to maintain troops in Mozambique as part of a separate bilateral security agreement; since 2020, the TPDF has reinforced the border with Mozambique following several cross-border attacks by ISIS fighters (2024)<br>
+the chief concerns of the Tanzania Defense Forces (TDPF) are maritime piracy and smuggling, border security, terrorism, animal poaching, and spillover from instability in neighboring countries, particularly Mozambique and the Democratic Republic of the Congo (DRC); it participates in multinational training exercises, regional peacekeeping deployments, and has ties with a variety of foreign militaries, including those of China, India, and the US; it has contributed troops to the UN&rsquo;s Force Intervention Brigade in the DRC; the TPDF also participated in the former Southern African Development Community intervention force in Mozambique, which assisted the Mozambique military in combating fighters affiliated with the Islamic State of Iraq and ash-Sham (ISIS); the regional force withdrew in 2024, but the TPDF continues to maintain troops in Mozambique as part of a separate bilateral security agreement; since 2020, the TPDF has reinforced the border with Mozambique following several cross-border attacks by ISIS fighters (2025)<br>
 
 ## Terrorism
 

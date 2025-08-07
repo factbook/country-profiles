@@ -344,7 +344,7 @@ _subordinate courts_: judicial circuit courts; special courts, including crimina
 All Liberian Party or ALP <br>Alliance for Peace and Democracy or APD <br>Alternative National Congress or ANC <br>Coalition for Democratic Change (includes CDC, NPP, and LPDP)<br>Collaborating Political Parties or CPP (coalition includes ANC, LP; CPP dissolved in April 2024)<br>Congress for Democratic Change or CDC <br>Liberia Destiny Party or LDP <br>Liberia National Union or LINU <br>Liberia Transformation Party or LTP <br>Liberian People Democratic Party or LPDP <br>Liberian People's Party or LPP <br>Liberian Restoration Party or LRP <br>Liberty Party or LP <br>Movement for Democracy and Reconstruction or MDR <br>Movement for Economic Empowerment <br>Movement for Progressive Change or MPC <br>National Democratic Coalition or NDC <br>National Democratic Party of Liberia or NDPL <br>National Patriotic Party or NPP <br>National Reformist Party or NRP <br>National Union for Democratic Progress or NUDP <br>People's Unification Party or PUP <br>Unity Party or UP <br>United People's Party <br>Victory for Change Party or VCP <br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires&nbsp;Isaac Chennoweth YEAH, Sr. (since 15 January 2025)<br>
+_chief of mission_: Ambassador Al-Hassan CONTEH (since 24 July 2025)<br>
 _chancery_: 5201 16th Street NW, Washington, DC 20011<br>
 _telephone_: [1] (202) 723-0437<br>
 _FAX_: [1] (202) 723-0436<br>
@@ -388,25 +388,25 @@ _history_: lyrics adopted 1847, music adopted 1860; the anthem's author later be
 low-income West African economy; food scarcity, especially in rural areas; high poverty and inflation; bad recession prior to COVID-19 due to Ebola crisis; growing government debt; longest continuously operated rubber plantation; large informal economy<br>
 
 **Real GDP (purchasing power parity)**<br>
+$9.308 billion (2024 est.)<br>
 $8.882 billion (2023 est.)<br>
 $8.484 billion (2022 est.)<br>
-$8.095 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.68% (2023 est.)<br>
-4.81% (2022 est.)<br>
-4.99% (2021 est.)<br>
+4.8% (2024 est.)<br>
+4.7% (2023 est.)<br>
+4.8% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$1,700 (2024 est.)<br>
 $1,600 (2023 est.)<br>
 $1,600 (2022 est.)<br>
-$1,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$4.24 billion (2023 est.)<br>
+$4.75 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -416,18 +416,10 @@ $4.24 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 35.8% (2023 est.)<br>
-_industry_: 24.2% (2023 est.)<br>
-_services_: 36.3% (2023 est.)<br>
+_agriculture_: 33.6% (2024 est.)<br>
+_industry_: 23.3% (2024 est.)<br>
+_services_: 42.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
-
-**GDP - composition, by end use**<br>
-_household consumption_: 128.8% (2016 est.)<br>
-_government consumption_: 16.7% (2016 est.)<br>
-_investment in fixed capital_: 19.5% (2016 est.)<br>
-_investment in inventories_: 6.7% (2016 est.)<br>
-_exports of goods and services_: 17.5% (2016 est.)<br>
-_imports of goods and services_: -89.2% (2016 est.)<br>
 
 **Agricultural products**<br>
 cassava, sugarcane, rice, oil palm fruit, bananas, rubber, vegetables, plantains, taro, maize (2023)<br>
@@ -437,7 +429,7 @@ cassava, sugarcane, rice, oil palm fruit, bananas, rubber, vegetables, plantains
 mining (iron ore and gold), rubber processing, palm oil processing, diamonds<br>
 
 **Industrial production growth rate**<br>
-13.83% (2023 est.)<br>
+6.1% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -446,7 +438,7 @@ mining (iron ore and gold), rubber processing, palm oil processing, diamonds<br>
 
 **Unemployment rate**<br>
 2.9% (2024 est.)<br>
-2.9% (2023 est.)<br>
+3% (2023 est.)<br>
 3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -470,17 +462,14 @@ _highest 10%_: 27.1% (2016 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-18.87% of GDP (2023 est.)<br>
-17.24% of GDP (2022 est.)<br>
-15.11% of GDP (2021 est.)<br>
+18.2% of GDP (2023 est.)<br>
+17.2% of GDP (2022 est.)<br>
+15.1% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $5 million (2019 est.)<br>
 _expenditures_: $6 million (2019 est.)<br>
-
-**Public debt**<br>
-34.4% of GDP (2017 est.)<br>
 
 **Current account balance**<br>
 $64.806 million (2022 est.)<br>

@@ -301,15 +301,10 @@ _history_: official anthem, as a US territory; usually played after "Stand, Ye G
 **Economic overview**<br>
 small Pacific island US territorial economy; upper income, tourism-based economy; hard-hit by COVID-19 disruptions; relaunched many industries via vaccination tourism; domestic economy relies on multiple military bases; environmentally fragile economy<br>
 
-**Real GDP (purchasing power parity)**<br>
-$5.793 billion (2016 est.)<br>
-$5.697 billion (2015 est.)<br>
-$5.531 billion (2014 est.)<br>
-
 **Real GDP growth rate**<br>
 5.1% (2022 est.)<br>
-2.06% (2021 est.)<br>
--10.52% (2020 est.)<br>
+2.1% (2021 est.)<br>
+-10.5% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
@@ -321,27 +316,11 @@ $34,400 (2014 est.)<br>
 $6.91 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
-**Inflation rate (consumer prices)**<br>
-1% (2017 est.)<br>
-0% (2016 est.)<br>
-
-**GDP - composition, by end use**<br>
-_household consumption_: 59.9% (2022 est.)<br>
-_government consumption_: 55% (2016 est.)<br>
-_investment in fixed capital_: 20.6% (2016 est.)<br>
-_exports of goods and services_: 7.9% (2022 est.)<br>
-_imports of goods and services_: -64% (2022 est.)<br>
-<strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection<br>
-
 **Agricultural products**<br>
 fruits, copra, vegetables; eggs, pork, poultry, beef<br>
 
 **Industries**<br>
 national defense, tourism, construction, transshipment services, concrete products, printing and publishing, food processing, textiles<br>
-
-**Industrial production growth rate**<br>
-4.3% (2014 est.)<br>
-<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 77,700 (2024 est.)<br>
@@ -366,12 +345,6 @@ _on alcohol and tobacco_: 1.3% of household expenditures (2021 est.)<br>
 **Budget**<br>
 _revenues_: $1.24 billion (2016 est.)<br>
 _expenditures_: $1.299 billion (2016 est.)<br>
-
-**Public debt**<br>
-22.1% of GDP (2016 est.)<br>
-
-**Taxes and other revenues**<br>
-21.4% (of GDP) (2016 est.)<br>
 
 **Exports**<br>
 $545 million (2022 est.)<br>

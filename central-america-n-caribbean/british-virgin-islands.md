@@ -304,14 +304,6 @@ $500 million (2017 est.)<br>
 $490.2 million (2016 est.)<br>
 $481.1 million (2015 est.)<br>
 
-**Real GDP growth rate**<br>
-2% (2017 est.)<br>
-1.9% (2016 est.)<br>
-1.8% (2015 est.)<br>
-
-**Real GDP per capita**<br>
-$34,200 (2017 est.)<br>
-
 **GDP (official exchange rate)**<br>
 $1.38 billion (2018 est.)<br>
 
@@ -319,19 +311,7 @@ $1.38 billion (2018 est.)<br>
 4.2% (2022 est.)<br>
 2.8% (2021 est.)<br>
 0.4% (2020 est.)<br>
-
-**GDP - composition, by sector of origin**<br>
-_agriculture_: 0.2% (2017 est.)<br>
-_industry_: 6.8% (2017 est.)<br>
-_services_: 93.1% (2017 est.)<br>
-
-**GDP - composition, by end use**<br>
-_household consumption_: 25.1% (2017 est.)<br>
-_government consumption_: 7.5% (2017 est.)<br>
-_investment in fixed capital_: 21.7% (2017 est.)<br>
-_investment in inventories_: 20.4% (2017 est.)<br>
-_exports of goods and services_: 94.7% (2017 est.)<br>
-_imports of goods and services_: -69.4% (2017 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
 
 **Agricultural products**<br>
 fruits, vegetables; livestock, poultry; fish<br>
@@ -339,30 +319,15 @@ fruits, vegetables; livestock, poultry; fish<br>
 **Industries**<br>
 tourism, light industry, construction, rum, concrete block, offshore banking center<br>
 
-**Industrial production growth rate**<br>
-1.1% (2017 est.)<br>
-
 **Budget**<br>
 _revenues_: $400 million (2017 est.)<br>
 _expenditures_: $400 million (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-38.9% (of GDP) (2017 est.)<br>
-
-**Exports**<br>
-$23 million (2017 est.)<br>
-$23 million (2015 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Malta 33%, Guyana 22%, Greece 11%, Germany 7%, Indonesia 4% (2023)<br>
 
 **Exports - commodities**<br>
 ships, refined petroleum, aircraft, molasses, precious stones (2023)<br>
-
-**Imports**<br>
-$300 million (2017 est.)<br>
-$210 million (2016 est.)<br>
 
 **Imports - partners**<br>
 USA 34%, Italy 10%, France 9%, China 8%, Luxembourg 5% (2023)<br>

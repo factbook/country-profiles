@@ -62,7 +62,7 @@ _other_: 5.5% (2018 est.)<br>
 NA<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+_Atlantic Ocean drainage_: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
 population clusters exist throughout the country, with the largest in the east in and around the capital of Pristina<br>
@@ -321,25 +321,25 @@ _selected World Heritage Site locales_: Medieval Monuments in Kosovo<br>
 small-but-growing European economy; non-EU member but unilateral euro user; very high unemployment, especially youth; vulnerable reliance on diaspora tourism services, curtailed by COVID-19 disruptions; unclear public loan portfolio health<br>
 
 **Real GDP (purchasing power parity)**<br>
+$25.019 billion (2024 est.)<br>
 $23.962 billion (2023 est.)<br>
 $23.025 billion (2022 est.)<br>
-$22.08 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.07% (2023 est.)<br>
-4.28% (2022 est.)<br>
-10.75% (2021 est.)<br>
+4.4% (2024 est.)<br>
+4.1% (2023 est.)<br>
+4.3% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$13,600 (2023 est.)<br>
+$16,400 (2024 est.)<br>
+$14,200 (2023 est.)<br>
 $13,000 (2022 est.)<br>
-$12,400 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$10.468 billion (2023 est.)<br>
+$11.149 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -349,18 +349,18 @@ $10.468 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 7.2% (2023 est.)<br>
-_industry_: 26.3% (2023 est.)<br>
-_services_: 46.6% (2023 est.)<br>
+_agriculture_: 6.9% (2024 est.)<br>
+_industry_: 26.2% (2024 est.)<br>
+_services_: 45.7% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 84.1% (2023 est.)<br>
-_government consumption_: 12.6% (2023 est.)<br>
-_investment in fixed capital_: 31.5% (2023 est.)<br>
-_investment in inventories_: 2.5% (2023 est.)<br>
-_exports of goods and services_: 39.6% (2023 est.)<br>
-_imports of goods and services_: -70.3% (2023 est.)<br>
+_household consumption_: 84.3% (2024 est.)<br>
+_government consumption_: 12.3% (2024 est.)<br>
+_investment in fixed capital_: 33.8% (2024 est.)<br>
+_investment in inventories_: 0% (2024 est.)<br>
+_exports of goods and services_: 41.9% (2024 est.)<br>
+_imports of goods and services_: -72.3% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -370,51 +370,35 @@ wheat, corn, berries, potatoes, peppers, fruit; dairy, livestock; fish<br>
 mineral mining, construction materials, base metals, leather, machinery, appliances, foodstuffs and beverages, textiles<br>
 
 **Industrial production growth rate**<br>
-3.35% (2023 est.)<br>
+4% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 500,300 (2017 est.)<br>
 <strong>note:</strong> includes those estimated to be employed in the gray economy<br>
 
-**Unemployment rate**<br>
-30.5% (2017 est.)<br>
-27.5% (2016 est.)<br>
-<strong>note:</strong> Kosovo has a large informal sector that may not be reflected in these data<br>
-
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 48.8% (2020 est.)<br>
-_male_: 44.9%<br>
-_female_: 57.3%<br>
-
 **Population below poverty line**<br>
 17.6% (2015 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-29 (2017 est.)<br>
+49.4 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.8% (2017 est.)<br>
-_highest 10%_: 24.6% (2017 est.)<br>
+_lowest 10%_: 0.4% (2021 est.)<br>
+_highest 10%_: 32.9% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-17.51% of GDP (2023 est.)<br>
-17.24% of GDP (2022 est.)<br>
-18.01% of GDP (2021 est.)<br>
+17.5% of GDP (2023 est.)<br>
+17.2% of GDP (2022 est.)<br>
+18% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.951 billion (2020 est.)<br>
 _expenditures_: $2.547 billion (2020 est.)<br>
-
-**Public debt**<br>
-21.2% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-29% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
 -$785.09 million (2023 est.)<br>

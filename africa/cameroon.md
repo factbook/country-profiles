@@ -66,7 +66,8 @@ _other_: 36.6% (2022 est.)<br>
 _fresh water lake(s)_: Lake Chad (endorheic lake shared with Niger, Nigeria, and Chad) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
+_Atlantic Ocean drainage_: Congo (3,730,881 sq km), Niger (2,261,741 sq km)<br>
+_Internal (endorheic basin) drainage_: Lake Chad (2,497,738 sq km)<br>
 
 **Major aquifers**<br>
 Lake Chad Basin<br>
@@ -412,46 +413,46 @@ _selected World Heritage Site locales_: Dja Faunal Reserve; Sangha Trinational F
 largest CEMAC economy with many natural resources; recent political instability and terrorism reducing economic output; systemic corruption; poor property rights enforcement; increasing poverty in northern regions<br>
 
 **Real GDP (purchasing power parity)**<br>
+$143.264 billion (2024 est.)<br>
 $138.191 billion (2023 est.)<br>
 $133.843 billion (2022 est.)<br>
-$129.022 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.25% (2023 est.)<br>
-3.74% (2022 est.)<br>
-3.34% (2021 est.)<br>
+3.7% (2024 est.)<br>
+3.2% (2023 est.)<br>
+3.7% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$4,900 (2024 est.)<br>
 $4,900 (2023 est.)<br>
 $4,800 (2022 est.)<br>
-$4,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$49.279 billion (2023 est.)<br>
+$51.327 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.5% (2024 est.)<br>
 7.4% (2023 est.)<br>
 6.2% (2022 est.)<br>
-2.3% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 17.3% (2023 est.)<br>
-_industry_: 25.5% (2023 est.)<br>
-_services_: 50.2% (2023 est.)<br>
+_agriculture_: 17.4% (2024 est.)<br>
+_industry_: 25.6% (2024 est.)<br>
+_services_: 49.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 73.9% (2023 est.)<br>
-_government consumption_: 10.6% (2023 est.)<br>
-_investment in fixed capital_: 19.1% (2023 est.)<br>
-_investment in inventories_: 0.4% (2023 est.)<br>
-_exports of goods and services_: 16.6% (2023 est.)<br>
-_imports of goods and services_: -20.6% (2023 est.)<br>
+_household consumption_: 74.5% (2024 est.)<br>
+_government consumption_: 10.5% (2024 est.)<br>
+_investment in fixed capital_: 21.4% (2024 est.)<br>
+_investment in inventories_: 0% (2024 est.)<br>
+_exports of goods and services_: 14.7% (2024 est.)<br>
+_imports of goods and services_: -21.1% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -462,7 +463,7 @@ cassava, plantains, oil palm fruit, maize, taro, tomatoes, sorghum, sugarcane, b
 petroleum production and refining, aluminum production, food processing, light consumer goods, textiles, lumber, ship repair<br>
 
 **Industrial production growth rate**<br>
--0.41% (2023 est.)<br>
+1.9% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -470,8 +471,8 @@ petroleum production and refining, aluminum production, food processing, light c
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.5% (2024 est.)<br>
-3.6% (2023 est.)<br>
+3.6% (2024 est.)<br>
+3.7% (2023 est.)<br>
 3.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -480,10 +481,6 @@ _total_: 6.2% (2024 est.)<br>
 _male_: 5.9% (2024 est.)<br>
 _female_: 6.7% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
-
-**Population below poverty line**<br>
-37.5% (2014 est.)<br>
-<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 42.2 (2021 est.)<br>
@@ -499,18 +496,15 @@ _highest 10%_: 31.1% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.18% of GDP (2023 est.)<br>
-1.27% of GDP (2022 est.)<br>
-0.96% of GDP (2021 est.)<br>
+1.6% of GDP (2023 est.)<br>
+1.3% of GDP (2022 est.)<br>
+1% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $6.385 billion (2021 est.)<br>
 _expenditures_: $5.592 billion (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
-
-**Public debt**<br>
-36.9% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 11.3% (of GDP) (2021 est.)<br>

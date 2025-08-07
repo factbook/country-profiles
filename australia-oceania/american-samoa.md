@@ -287,28 +287,14 @@ $666.9 billion (2014 est.)<br>
 <strong>note:</strong> data are in 2016 dollars<br>
 
 **Real GDP growth rate**<br>
-1.74% (2022 est.)<br>
--0.78% (2021 est.)<br>
-4.41% (2020 est.)<br>
+1.7% (2022 est.)<br>
+-0.8% (2021 est.)<br>
+4.4% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
-
-**Real GDP per capita**<br>
-$11,200 (2016 est.)<br>
-$11,300 (2015 est.)<br>
-$11,200 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $871 million (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
-
-**GDP - composition, by end use**<br>
-_household consumption_: 71.3% (2022 est.)<br>
-_government consumption_: 49.7% (2016 est.)<br>
-_investment in fixed capital_: 7.3% (2016 est.)<br>
-_investment in inventories_: 5.1% (2016 est.)<br>
-_exports of goods and services_: 47% (2022 est.)<br>
-_imports of goods and services_: -77.7% (2022 est.)<br>
-<b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
 bananas, coconuts, vegetables, taro, breadfruit, yams, copra, pineapples, papayas; dairy products, livestock<br>
@@ -319,12 +305,6 @@ tuna canneries (largely supplied by foreign fishing vessels), handicrafts<br>
 **Budget**<br>
 _revenues_: $249 million (2016 est.)<br>
 _expenditures_: $262.5 million (2016 est.)<br>
-
-**Public debt**<br>
-12.2% of GDP (2016 est.)<br>
-
-**Taxes and other revenues**<br>
-37.8% (of GDP) (2016 est.)<br>
 
 **Exports**<br>
 $409 million (2022 est.)<br>

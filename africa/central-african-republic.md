@@ -65,7 +65,8 @@ _other_: 55.3% (2022 est.)<br>
 Oubangui (Ubangi) river [s] (shared with Democratic Republic of Congo and Republic of Congo [m]) - 2,270 km <br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
+_Atlantic Ocean drainage_: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+_Internal (endorheic basin) drainage_: Lake Chad (2,497,738 sq km)<br>
 
 **Major aquifers**<br>
 Congo Basin, Lake Chad Basin<br>
@@ -385,25 +386,25 @@ _selected World Heritage Site locales_: Manovo-Gounda St. Floris National Park; 
 enormous natural resources; extreme poverty; weak public institutions and infrastructure; political and gender-based violence have led to displacement of roughly 25% of population; Bangui-Douala corridor blockade reduced activity and tax collection; strong agricultural performance offset COVID-19 downturn<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.849 billion (2023 est.)<br>
-$5.798 billion (2022 est.)<br>
-$5.769 billion (2021 est.)<br>
+$5.926 billion (2024 est.)<br>
+$5.836 billion (2023 est.)<br>
+$5.795 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.87% (2023 est.)<br>
+1.5% (2024 est.)<br>
+0.7% (2023 est.)<br>
 0.5% (2022 est.)<br>
-0.98% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$1,100 (2024 est.)<br>
 $1,100 (2023 est.)<br>
 $1,100 (2022 est.)<br>
-$1,100 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.555 billion (2023 est.)<br>
+$2.752 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -413,18 +414,18 @@ $2.555 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 28.6% (2023 est.)<br>
-_industry_: 20.7% (2023 est.)<br>
-_services_: 40.5% (2023 est.)<br>
+_agriculture_: 32.5% (2024 est.)<br>
+_industry_: 17.8% (2024 est.)<br>
+_services_: 40.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 97.4% (2023 est.)<br>
-_government consumption_: 8.3% (2023 est.)<br>
-_investment in fixed capital_: 14.6% (2023 est.)<br>
-_investment in inventories_: 9.2% (2023 est.)<br>
-_exports of goods and services_: 14.4% (2023 est.)<br>
-_imports of goods and services_: -29% (2023 est.)<br>
+_household consumption_: 94.7% (2024 est.)<br>
+_government consumption_: 9.7% (2024 est.)<br>
+_investment in fixed capital_: 15.4% (2024 est.)<br>
+_investment in inventories_: 0% (2024 est.)<br>
+_exports of goods and services_: 15.5% (2024 est.)<br>
+_imports of goods and services_: -32.4% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -435,7 +436,7 @@ cassava, groundnuts, yams, coffee, maize, sesame seeds, taro, sugarcane, beef, m
 gold and diamond mining, logging, brewing, sugar refining<br>
 
 **Industrial production growth rate**<br>
--10.28% (2023 est.)<br>
+9.7% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -471,27 +472,21 @@ _highest 10%_: 33.1% (2021 est.)<br>
 0% of GDP (2023 est.)<br>
 0% of GDP (2022 est.)<br>
 0% of GDP (2021 est.)<br>
+<strong>note:</strong> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $360.48 million (2021 est.)<br>
 _expenditures_: $293.459 million (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
-**Public debt**<br>
-52.9% of GDP (2017 est.)<br>
-
 **Taxes and other revenues**<br>
 8.2% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Current account balance**<br>
--$163 million (2017 est.)<br>
--$97 million (2016 est.)<br>
-
 **Exports**<br>
+$425.306 million (2024 est.)<br>
 $369.034 million (2023 est.)<br>
 $293.074 million (2022 est.)<br>
-$332.869 million (2021 est.)<br>
 <strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -503,9 +498,9 @@ gold, wood, diamonds, vehicle parts/accessories, cotton (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$890.572 million (2024 est.)<br>
 $742.108 million (2023 est.)<br>
 $784.669 million (2022 est.)<br>
-$778.395 million (2021 est.)<br>
 <strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

@@ -68,7 +68,7 @@ _other_: 35.4% (2022 est.)<br>
 Rijn (Rhine) river mouth (shared with Switzerland [s], Germany, and France) - 1,233 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
+_Atlantic Ocean drainage_: Rhine-Maas (198,735 sq km)<br>
 
 **Population distribution**<br>
 an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, the Hague, and Utrecht, is the most densely populated region; the north tends to be less dense, but sizeable communities can be found throughout the entire country<br>
@@ -408,25 +408,25 @@ _selected World Heritage Site locales_: Schokland and Surroundings (c); Dutch Wa
 <p>high-income, core EU- and eurozone-member economy; strong services, logistics, and tech sectors; strongly trade-oriented with heightened risks from global tensions; declining inflation aided by easing energy prices and wage growth; rising but manageable deficits and public debt; strong ratings for innovation, competitiveness, and business climate</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.277 trillion (2023 est.)<br>
-$1.276 trillion (2022 est.)<br>
-$1.215 trillion (2021 est.)<br>
+$1.276 trillion (2024 est.)<br>
+$1.263 trillion (2023 est.)<br>
+$1.263 trillion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.07% (2023 est.)<br>
-5.01% (2022 est.)<br>
-6.19% (2021 est.)<br>
+1% (2024 est.)<br>
+0.1% (2023 est.)<br>
+5% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$71,400 (2023 est.)<br>
-$72,100 (2022 est.)<br>
-$69,300 (2021 est.)<br>
+$70,900 (2024 est.)<br>
+$70,700 (2023 est.)<br>
+$71,300 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.154 trillion (2023 est.)<br>
+$1.228 trillion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -436,9 +436,9 @@ $1.154 trillion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.7% (2023 est.)<br>
-_industry_: 18.7% (2023 est.)<br>
-_services_: 69.6% (2023 est.)<br>
+_agriculture_: 1.7% (2024 est.)<br>
+_industry_: 17.9% (2024 est.)<br>
+_services_: 70.3% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -458,17 +458,17 @@ milk, sugar beets, potatoes, onions, pork, wheat, chicken, tomatoes, carrots/tur
 agroindustries, metal and engineering products, electrical machinery and equipment, chemicals, petroleum, construction, microelectronics, fishing<br>
 
 **Industrial production growth rate**<br>
--2.64% (2023 est.)<br>
+-1.5% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-10.316 million (2024 est.)<br>
+10.315 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.6% (2024 est.)<br>
-3.5% (2023 est.)<br>
-3.5% (2022 est.)<br>
+3.6% (2023 est.)<br>
+3.6% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -495,9 +495,9 @@ _highest 10%_: 21.4% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.35% of GDP (2023 est.)<br>
-0.36% of GDP (2022 est.)<br>
-0.38% of GDP (2021 est.)<br>
+0.4% of GDP (2024 est.)<br>
+0.4% of GDP (2023 est.)<br>
+0.4% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -514,15 +514,15 @@ _expenditures_: $398.696 billion (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$121.825 billion (2024 est.)<br>
 $113.676 billion (2023 est.)<br>
 $69.676 billion (2022 est.)<br>
-$105.942 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$1.032 trillion (2024 est.)<br>
 $1.022 trillion (2023 est.)<br>
 $1.007 trillion (2022 est.)<br>
-$910.795 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -534,9 +534,9 @@ refined petroleum, vaccines, machinery, crude petroleum, broadcasting equipment 
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$884.154 billion (2024 est.)<br>
 $893.132 billion (2023 est.)<br>
 $915.294 billion (2022 est.)<br>
-$808.111 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -548,7 +548,7 @@ crude petroleum, refined petroleum, broadcasting equipment, cars, natural gas (2
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$27.753 billion (2024 est.)<br>
+$79.129 billion (2024 est.)<br>
 $69.83 billion (2023 est.)<br>
 $63.353 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

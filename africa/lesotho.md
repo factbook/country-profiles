@@ -65,7 +65,7 @@ _other_: 24.1% (2022 est.)<br>
 Orange river source (shared with South Africa and Namibia [m]) - 2,092 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Orange (941,351 sq km)<br>
+_Atlantic Ocean drainage_: Orange (941,351 sq km)<br>
 
 **Population distribution**<br>
 relatively higher population density in the western half of the nation, with the capital of Maseru and the smaller cities of Mafeteng, Teyateyaneng, and Leribe attracting the most people, as shown in this population distribution map<br>
@@ -399,25 +399,25 @@ _selected World Heritage Site locales_: Maloti-Drakensberg Park<br>
 lower middle-income economy surrounded by South Africa; environmentally fragile and politically unstable; key infrastructure and renewable energy investments; dire poverty; urban job and income losses due to COVID-19; systemic corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
+$6.166 billion (2024 est.)<br>
 $6 billion (2023 est.)<br>
 $5.893 billion (2022 est.)<br>
-$5.755 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.83% (2023 est.)<br>
-2.39% (2022 est.)<br>
-1.85% (2021 est.)<br>
+2.8% (2024 est.)<br>
+1.8% (2023 est.)<br>
+2.4% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$2,600 (2024 est.)<br>
 $2,600 (2023 est.)<br>
 $2,600 (2022 est.)<br>
-$2,500 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.118 billion (2023 est.)<br>
+$2.272 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -427,9 +427,9 @@ $2.118 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 6.6% (2023 est.)<br>
-_industry_: 28.7% (2023 est.)<br>
-_services_: 50.6% (2023 est.)<br>
+_agriculture_: 6.5% (2024 est.)<br>
+_industry_: 31% (2024 est.)<br>
+_services_: 48% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -449,7 +449,7 @@ milk, potatoes, maize, vegetables, fruits, sorghum, wheat, game meat, beans, woo
 food, beverages, textiles, apparel assembly, handicrafts, construction, tourism<br>
 
 **Industrial production growth rate**<br>
--8.32% (2023 est.)<br>
+2.6% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -457,7 +457,7 @@ food, beverages, textiles, apparel assembly, handicrafts, construction, tourism<
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-16.1% (2024 est.)<br>
+16.2% (2024 est.)<br>
 16.5% (2023 est.)<br>
 16.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -482,9 +482,9 @@ _highest 10%_: 32.9% (2017 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-22.87% of GDP (2023 est.)<br>
-22.62% of GDP (2022 est.)<br>
-19.67% of GDP (2021 est.)<br>
+22% of GDP (2024 est.)<br>
+22.9% of GDP (2023 est.)<br>
+22.6% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -501,13 +501,13 @@ _expenditures_: $947.517 million (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$112.105 million (2024 est.)<br>
--$148.064 million (2023 est.)<br>
+$84.393 million (2024 est.)<br>
+-$151.577 million (2023 est.)<br>
 -$268.876 million (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$983.619 million (2024 est.)<br>
+$983.027 million (2024 est.)<br>
 $885.789 million (2023 est.)<br>
 $1.07 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -521,8 +521,8 @@ diamonds, garments, wool, power equipment, bedding (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$2.089 billion (2024 est.)<br>
-$2.078 billion (2023 est.)<br>
+$2.083 billion (2024 est.)<br>
+$2.077 billion (2023 est.)<br>
 $2.247 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
@@ -535,9 +535,9 @@ refined petroleum, fabric, trucks, garments, cotton fabric (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.008 billion (2024 est.)<br>
 $854.089 million (2023 est.)<br>
 $771.278 million (2022 est.)<br>
-$798.207 million (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>

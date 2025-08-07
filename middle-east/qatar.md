@@ -374,25 +374,25 @@ _selected World Heritage Site locales_: Al Zubarah Archaeological Site<br>
 <p>high-income, oil-and-gas-based Middle Eastern economy; implementing “National Vision 2030” government strategy for economic development, diversification, and favorable business conditions to boost investment and employment; expansion of LNG sector expected to boost growth; Islamic finance leader</p><br>
 
 **Real GDP (purchasing power parity)**<br>
+$317.064 billion (2024 est.)<br>
 $308.522 billion (2023 est.)<br>
 $304.903 billion (2022 est.)<br>
-$292.655 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.19% (2023 est.)<br>
-4.19% (2022 est.)<br>
-1.63% (2021 est.)<br>
+2.8% (2024 est.)<br>
+1.2% (2023 est.)<br>
+4.2% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$110,900 (2024 est.)<br>
 $116,200 (2023 est.)<br>
 $114,700 (2022 est.)<br>
-$116,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$213.003 billion (2023 est.)<br>
+$217.983 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -402,9 +402,9 @@ $213.003 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 0.3% (2023 est.)<br>
-_industry_: 60.4% (2023 est.)<br>
-_services_: 45.3% (2023 est.)<br>
+_agriculture_: 0.3% (2024 est.)<br>
+_industry_: 58.5% (2024 est.)<br>
+_services_: 45.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -424,17 +424,17 @@ dates, chicken, tomatoes, camel milk, vegetables, cucumbers/gherkins, pumpkins/s
 liquefied natural gas, crude oil production and refining, ammonia, fertilizer, petrochemicals, steel reinforcing bars, cement, commercial ship repair<br>
 
 **Industrial production growth rate**<br>
-0.31% (2023 est.)<br>
+1.6% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.024 million (2024 est.)<br>
+2.123 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-0.1% (2024 est.)<br>
-0.1% (2023 est.)<br>
-0.1% (2022 est.)<br>
+0.2% (2024 est.)<br>
+0.2% (2023 est.)<br>
+0.2% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -445,6 +445,7 @@ _female_: 1.2% (2024 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 35.1 (2017 est.)<br>
+<strong>note:</strong> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 14.6% of household expenditures (2023 est.)<br>
@@ -453,33 +454,28 @@ _on alcohol and tobacco_: 0.3% of household expenditures (2023 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6% (2017 est.)<br>
 _highest 10%_: 25.8% (2017 est.)<br>
+% share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.67% of GDP (2023 est.)<br>
-0.44% of GDP (2022 est.)<br>
-0.48% of GDP (2021 est.)<br>
+0.7% of GDP (2024 est.)<br>
+0.7% of GDP (2023 est.)<br>
+0.4% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $65.922 billion (2019 est.)<br>
 _expenditures_: $57.258 billion (2019 est.)<br>
 
-**Public debt**<br>
-53.8% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-26.4% (of GDP) (2017 est.)<br>
-
 **Current account balance**<br>
+$38.117 billion (2024 est.)<br>
 $36.453 billion (2023 est.)<br>
 $63.118 billion (2022 est.)<br>
-$26.319 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$125.216 billion (2024 est.)<br>
 $128.709 billion (2023 est.)<br>
 $161.693 billion (2022 est.)<br>
-$105.549 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -491,9 +487,9 @@ natural gas, crude petroleum, refined petroleum, plastics, fertilizers (2023)<br
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$69.692 billion (2024 est.)<br>
 $72.174 billion (2023 est.)<br>
 $74.52 billion (2022 est.)<br>
-$61.204 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -505,7 +501,7 @@ gas turbines, cars, aircraft, iron pipes, ships (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$44.692 billion (2024 est.)<br>
+$53.987 billion (2024 est.)<br>
 $51.539 billion (2023 est.)<br>
 $47.389 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

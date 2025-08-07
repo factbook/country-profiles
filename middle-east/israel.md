@@ -388,25 +388,25 @@ _selected World Heritage Site locales_: Masada; Old City of Acre; White City of 
 high-income, technology- and industrial-based economy; economic contraction and fiscal deficits resulting from war in Gaza; labor force stabilizing following military reservist mobilization; high-tech industry remains resilient while construction and tourism among hardest-hit sectors<br>
 
 **Real GDP (purchasing power parity)**<br>
-$472.533 billion (2023 est.)<br>
-$461.354 billion (2022 est.)<br>
-$433.317 billion (2021 est.)<br>
+$472.177 billion (2024 est.)<br>
+$468.095 billion (2023 est.)<br>
+$459.698 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.42% (2023 est.)<br>
-6.47% (2022 est.)<br>
-8.61% (2021 est.)<br>
+0.9% (2024 est.)<br>
+1.8% (2023 est.)<br>
+6.3% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$48,400 (2023 est.)<br>
-$48,300 (2022 est.)<br>
-$46,200 (2021 est.)<br>
+$47,300 (2024 est.)<br>
+$47,500 (2023 est.)<br>
+$48,100 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$513.611 billion (2023 est.)<br>
+$540.38 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -416,18 +416,18 @@ $513.611 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.2% (2022 est.)<br>
-_industry_: 18.9% (2022 est.)<br>
-_services_: 70.8% (2022 est.)<br>
+_agriculture_: 1.3% (2024 est.)<br>
+_industry_: 17.3% (2024 est.)<br>
+_services_: 72.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 47.8% (2023 est.)<br>
-_government consumption_: 22.2% (2023 est.)<br>
+_household consumption_: 48% (2023 est.)<br>
+_government consumption_: 22.3% (2023 est.)<br>
 _investment in fixed capital_: 24.4% (2023 est.)<br>
 _investment in inventories_: 1.7% (2023 est.)<br>
-_exports of goods and services_: 30.6% (2023 est.)<br>
-_imports of goods and services_: -26.9% (2023 est.)<br>
+_exports of goods and services_: 30.4% (2023 est.)<br>
+_imports of goods and services_: -27.6% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -438,11 +438,11 @@ milk, chicken, potatoes, tomatoes, tangerines/mandarins, bananas, eggs, avocados
 high-technology products (including aviation, communications, computer-aided design and manufactures, medical electronics, fiber optics), wood and paper products, potash and phosphates, food, beverages, and tobacco, caustic soda, cement, pharmaceuticals, construction, metal products, chemical products, plastics, cut diamonds, textiles, footwear<br>
 
 **Industrial production growth rate**<br>
-5.51% (2022 est.)<br>
+-4.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.671 million (2024 est.)<br>
+4.71 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -456,10 +456,6 @@ _total_: 6.1% (2024 est.)<br>
 _male_: 6.2% (2024 est.)<br>
 _female_: 6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
-
-**Population below poverty line**<br>
-22% (2014 est.)<br>
-<strong>note:</strong> Israel's poverty line is $7.30 per person per day<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 37.9 (2021 est.)<br>
@@ -475,18 +471,15 @@ _highest 10%_: 26.6% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.19% of GDP (2023 est.)<br>
-0.24% of GDP (2022 est.)<br>
-0.25% of GDP (2021 est.)<br>
+0.2% of GDP (2024 est.)<br>
+0.2% of GDP (2023 est.)<br>
+0.2% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $180.935 billion (2022 est.)<br>
 _expenditures_: $184.823 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
-
-**Public debt**<br>
-72.6% of GDP (2020 est.)<br>
 
 **Taxes and other revenues**<br>
 22.1% (of GDP) (2023 est.)<br>

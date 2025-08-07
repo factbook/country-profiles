@@ -69,7 +69,7 @@ _salt water lake(s)_: Zalew Szczecinski/Stettiner Haff (shared with Germany) - 9
 Wisla (Vistula) river source and mouth (shared with Belarus and Ukraine) - 1,213 km<br><br><strong>note:</strong> longest river in Poland<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+_Atlantic Ocean drainage_: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
 population concentrated in the southern area around Krakow and the central area around Warsaw and Lodz, with an extension to the northern coastal city of Gdansk<br>
@@ -407,25 +407,25 @@ _selected World Heritage Site locales_: Historic Krakow (c); Historic Warsaw (c)
 <p>high-income, diversified, EU-member economy; significant growth in GDP, trade, and investment since joining EU in 2004; private consumption and EU-funded public investments driving GDP growth; increased social spending, flooding recovery costs, and defense spending have added to public debt</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.628 trillion (2023 est.)<br>
-$1.626 trillion (2022 est.)<br>
-$1.545 trillion (2021 est.)<br>
+$1.649 trillion (2024 est.)<br>
+$1.602 trillion (2023 est.)<br>
+$1.598 trillion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.14% (2023 est.)<br>
-5.26% (2022 est.)<br>
-6.93% (2021 est.)<br>
+2.9% (2024 est.)<br>
+0.2% (2023 est.)<br>
+5.3% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$44,400 (2023 est.)<br>
-$44,200 (2022 est.)<br>
-$41,800 (2021 est.)<br>
+$45,100 (2024 est.)<br>
+$43,700 (2023 est.)<br>
+$43,400 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$809.201 billion (2023 est.)<br>
+$914.696 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -435,18 +435,18 @@ $809.201 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 2.7% (2023 est.)<br>
-_industry_: 30.1% (2023 est.)<br>
-_services_: 57.5% (2023 est.)<br>
+_agriculture_: 2.6% (2024 est.)<br>
+_industry_: 26.4% (2024 est.)<br>
+_services_: 59.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 57.7% (2023 est.)<br>
-_government consumption_: 19% (2023 est.)<br>
-_investment in fixed capital_: 17.7% (2023 est.)<br>
-_investment in inventories_: -0.2% (2023 est.)<br>
-_exports of goods and services_: 58.1% (2023 est.)<br>
-_imports of goods and services_: -52.4% (2023 est.)<br>
+_household consumption_: 57.6% (2024 est.)<br>
+_government consumption_: 20.8% (2024 est.)<br>
+_investment in fixed capital_: 16.9% (2024 est.)<br>
+_investment in inventories_: 0.8% (2024 est.)<br>
+_exports of goods and services_: 52.3% (2024 est.)<br>
+_imports of goods and services_: -48.3% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -457,17 +457,17 @@ sugar beets, milk, wheat, maize, potatoes, triticale, apples, rapeseed, barley, 
 machine building, iron and steel, coal mining, chemicals, shipbuilding, food processing, glass, beverages, textiles<br>
 
 **Industrial production growth rate**<br>
--0.57% (2023 est.)<br>
+-0.6% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-18.145 million (2024 est.)<br>
+18.245 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 2.5% (2024 est.)<br>
-2.7% (2023 est.)<br>
-2.8% (2022 est.)<br>
+2.8% (2023 est.)<br>
+2.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -477,11 +477,11 @@ _female_: 9.6% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-11.8% (2022 est.)<br>
+12.2% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-28.5 (2021 est.)<br>
+28.9 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -489,14 +489,14 @@ _on food_: 18.6% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 6.2% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.4% (2021 est.)<br>
-_highest 10%_: 22.8% (2021 est.)<br>
+_lowest 10%_: 3.3% (2022 est.)<br>
+_highest 10%_: 23.1% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.06% of GDP (2023 est.)<br>
-1.09% of GDP (2022 est.)<br>
-1.15% of GDP (2021 est.)<br>
+0.9% of GDP (2024 est.)<br>
+1.1% of GDP (2023 est.)<br>
+1.1% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -509,19 +509,19 @@ _expenditures_: $250.097 billion (2022 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities, the data include subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-18.1% (of GDP) (2023 est.)<br>
+18% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$1.789 billion (2024 est.)<br>
 $14.535 billion (2023 est.)<br>
 -$15.822 billion (2022 est.)<br>
--$8.97 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$478.579 billion (2024 est.)<br>
 $471.571 billion (2023 est.)<br>
 $436.388 billion (2022 est.)<br>
-$392.702 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -533,9 +533,9 @@ vehicle parts/accessories, electric batteries, plastic products, cars, seats (20
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$441.945 billion (2024 est.)<br>
 $423.797 billion (2023 est.)<br>
 $421.765 billion (2022 est.)<br>
-$370.252 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -547,7 +547,7 @@ crude petroleum, cars, garments, vehicle parts/accessories, plastic products (20
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$185.515 billion (2024 est.)<br>
+$223.115 billion (2024 est.)<br>
 $193.783 billion (2023 est.)<br>
 $166.664 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

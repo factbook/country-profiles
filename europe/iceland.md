@@ -378,25 +378,25 @@ _selected World Heritage Site locales_: Thingvellir National Park (c); Surtsey (
 <p>high-income North Atlantic island economy; not an EU member but market integration via European Economic Area (EEA); dominant tourism, fishing, and aluminum industries vulnerable to demand swings and disruption from volcanic activity; inflation remains above target rate; barriers to foreign business access and economic diversification</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$26.455 billion (2023 est.)<br>
-$25.186 billion (2022 est.)<br>
-$23.108 billion (2021 est.)<br>
+$26.561 billion (2024 est.)<br>
+$26.424 billion (2023 est.)<br>
+$25.012 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.04% (2023 est.)<br>
-8.99% (2022 est.)<br>
-5.15% (2021 est.)<br>
+0.5% (2024 est.)<br>
+5.6% (2023 est.)<br>
+9% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$67,300 (2023 est.)<br>
-$65,900 (2022 est.)<br>
-$62,000 (2021 est.)<br>
+$65,600 (2024 est.)<br>
+$67,200 (2023 est.)<br>
+$65,500 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$31.325 billion (2023 est.)<br>
+$33.463 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -406,18 +406,18 @@ $31.325 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3.8% (2023 est.)<br>
-_industry_: 21.1% (2023 est.)<br>
-_services_: 64.6% (2023 est.)<br>
+_agriculture_: 4% (2024 est.)<br>
+_industry_: 19.4% (2024 est.)<br>
+_services_: 65.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 49.5% (2023 est.)<br>
-_government consumption_: 25.4% (2023 est.)<br>
-_investment in fixed capital_: 24.2% (2023 est.)<br>
+_household consumption_: 49.3% (2023 est.)<br>
+_government consumption_: 25.3% (2023 est.)<br>
+_investment in fixed capital_: 24.8% (2023 est.)<br>
 _investment in inventories_: 0.7% (2023 est.)<br>
-_exports of goods and services_: 43.6% (2023 est.)<br>
-_imports of goods and services_: -43.2% (2023 est.)<br>
+_exports of goods and services_: 43.4% (2023 est.)<br>
+_imports of goods and services_: -43.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -428,16 +428,16 @@ milk, chicken, lamb/mutton, barley, potatoes, pork, beef, eggs, other meats, cuc
 tourism, fish processing; aluminum smelting; geothermal power, hydropower; medical/pharmaceutical products<br>
 
 **Industrial production growth rate**<br>
-3.93% (2023 est.)<br>
+-2.3% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-244,700 (2024 est.)<br>
+248,400 (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.1% (2024 est.)<br>
-3.5% (2023 est.)<br>
+3.2% (2024 est.)<br>
+3.6% (2023 est.)<br>
 3.8% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -452,18 +452,18 @@ _female_: 7% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-26.1 (2017 est.)<br>
+26.6 (2018 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4% (2017 est.)<br>
-_highest 10%_: 22% (2017 est.)<br>
+_lowest 10%_: 3.7% (2018 est.)<br>
+_highest 10%_: 21.7% (2018 est.)<br>
 <strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.7% of GDP (2024 est.)<br>
 0.7% of GDP (2023 est.)<br>
-0.67% of GDP (2022 est.)<br>
-0.74% of GDP (2021 est.)<br>
+0.7% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -472,11 +472,11 @@ _expenditures_: $9.498 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-81.1% of GDP (2023 est.)<br>
+80.7% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-23.4% (of GDP) (2023 est.)<br>
+23.3% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -514,7 +514,7 @@ refined petroleum, cars, carbon-based electronics, aluminum oxide, computers (20
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$6.236 billion (2024 est.)<br>
+$6.403 billion (2024 est.)<br>
 $5.809 billion (2023 est.)<br>
 $5.887 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

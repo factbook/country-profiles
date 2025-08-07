@@ -386,25 +386,25 @@ _selected World Heritage Site locales_: Joya de Cer&eacute;n Archaeological Site
 upper-middle-income, dollarized Central American economy; reliant on remittances from US; recent growth linked to infrastructure investment, consumption, and crime reduction; $1.3 billion IMF loan to address fiscal imbalances; Bitcoin adopted as legal tender; persistent poverty and large informal sector<br>
 
 **Real GDP (purchasing power parity)**<br>
-$71.957 billion (2023 est.)<br>
-$69.516 billion (2022 est.)<br>
-$67.623 billion (2021 est.)<br>
+$73.961 billion (2024 est.)<br>
+$72.085 billion (2023 est.)<br>
+$69.621 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.51% (2023 est.)<br>
-2.8% (2022 est.)<br>
-11.9% (2021 est.)<br>
+2.6% (2024 est.)<br>
+3.5% (2023 est.)<br>
+3% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$11,700 (2024 est.)<br>
 $11,400 (2023 est.)<br>
 $11,100 (2022 est.)<br>
-$10,800 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$34.016 billion (2023 est.)<br>
+$35.365 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -414,18 +414,18 @@ $34.016 billion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 4.6% (2023 est.)<br>
-_industry_: 25% (2023 est.)<br>
-_services_: 59.8% (2023 est.)<br>
+_agriculture_: 4.4% (2024 est.)<br>
+_industry_: 22.4% (2024 est.)<br>
+_services_: 61% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 81.4% (2023 est.)<br>
-_government consumption_: 18% (2023 est.)<br>
-_investment in fixed capital_: 22% (2023 est.)<br>
-_investment in inventories_: -2.7% (2023 est.)<br>
-_exports of goods and services_: 31.1% (2023 est.)<br>
-_imports of goods and services_: -49.8% (2023 est.)<br>
+_household consumption_: 79.6% (2024 est.)<br>
+_government consumption_: 19.2% (2024 est.)<br>
+_investment in fixed capital_: 22.2% (2024 est.)<br>
+_investment in inventories_: -1.9% (2024 est.)<br>
+_exports of goods and services_: 32.8% (2024 est.)<br>
+_imports of goods and services_: -51.9% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -436,7 +436,7 @@ sugarcane, maize, milk, chicken, sorghum, beans, oranges, coconuts, eggs, mangoe
 food processing, beverages, petroleum, chemicals, fertilizer, textiles, furniture, light metals<br>
 
 **Industrial production growth rate**<br>
-4.12% (2023 est.)<br>
+0.4% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -444,7 +444,7 @@ food processing, beverages, petroleum, chemicals, fertilizer, textiles, furnitur
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.8% (2024 est.)<br>
+2.9% (2024 est.)<br>
 3% (2023 est.)<br>
 3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -460,7 +460,7 @@ _female_: 9.5% (2024 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-38.8 (2022 est.)<br>
+39.8 (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -468,14 +468,14 @@ _on food_: 26.7% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 0.5% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.9% (2022 est.)<br>
-_highest 10%_: 28.7% (2022 est.)<br>
+_lowest 10%_: 1.9% (2023 est.)<br>
+_highest 10%_: 29.7% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-24.09% of GDP (2023 est.)<br>
-24.54% of GDP (2022 est.)<br>
-26.25% of GDP (2021 est.)<br>
+24% of GDP (2024 est.)<br>
+24.5% of GDP (2023 est.)<br>
+24.6% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -484,23 +484,23 @@ _expenditures_: $9.371 billion (2023 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-101.7% of GDP (2023 est.)<br>
+102.2% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-20.6% (of GDP) (2023 est.)<br>
+20.7% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$465.688 million (2023 est.)<br>
--$2.182 billion (2022 est.)<br>
--$1.25 billion (2021 est.)<br>
+-$632.549 million (2024 est.)<br>
+-$367.831 million (2023 est.)<br>
+-$2.144 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$11.586 billion (2024 est.)<br>
 $10.629 billion (2023 est.)<br>
 $10.164 billion (2022 est.)<br>
-$8.351 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -512,9 +512,9 @@ garments, plastic products, electrical capacitors, raw sugar, toilet paper (2023
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$17.032 billion (2023 est.)<br>
-$18.184 billion (2022 est.)<br>
-$15.483 billion (2021 est.)<br>
+$18.354 billion (2024 est.)<br>
+$17.034 billion (2023 est.)<br>
+$18.181 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -526,7 +526,7 @@ refined petroleum, natural gas, garments, packaged medicine, plastics (2023)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.59 billion (2024 est.)<br>
+$3.705 billion (2024 est.)<br>
 $3.079 billion (2023 est.)<br>
 $2.695 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

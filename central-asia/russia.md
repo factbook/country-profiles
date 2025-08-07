@@ -73,7 +73,10 @@ _salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, a
 Yenisey-Angara - 5,539 km; Ob-Irtysh - 5,410 km;  Amur river mouth (shared with China [s] and Mongolia) - 4,444 km; Lena - 4,400 km; Volga - 3,645 km; Kolyma - 2,513 km; Ural river source (shared with Kazakhstan [m]) - 2,428 km; Dnepr (Dnieper) river source (shared with Belarus and Ukraine [m]) - 2,287 km; Don - 1,870 km; Pechora - 1,809 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Arctic Ocean drainage: Kolyma (679,934 sq km), Lena (2,306,743 sq km), Ob (2,972,493 sq km), Pechora (289,532 sq km), Yenisei (2,554,388 sq km)<br>Atlantic Ocean drainage: <em>(Black Sea) </em>Don (458,694 sq km), Dnieper (533,966 sq km)<br>Pacific Ocean drainage: Amur (1,929,955 sq km)<br>Internal <em>(endorheic basin) </em>drainage: <em>(Caspian Sea basin)</em> Volga (1,410,951 sq km)<br>
+_Arctic Ocean drainage_: Kolyma (679,934 sq km), Lena (2,306,743 sq km), Ob (2,972,493 sq km), Pechora (289,532 sq km), Yenisei (2,554,388 sq km)<br>
+_Atlantic Ocean drainage_: <em>(Black Sea) </em>Don (458,694 sq km), Dnieper (533,966 sq km)<br>
+_Pacific Ocean drainage_: Amur (1,929,955 sq km)<br>
+_Internal (endorheic basin) drainage_: <em>(Caspian Sea basin)</em> Volga (1,410,951 sq km)<br>
 
 **Major aquifers**<br>
 Angara-Lena Basin, Pechora Basin, North Caucasus Basin, East European Aquifer System, West Siberian Basin, Tunguss Basin, Yakut Basin<br>
@@ -369,7 +372,7 @@ _subordinate courts_: regional (kray) and provincial (oblast) courts; Moscow and
 A Just Russia or SRZP<br>Civic Platform or GP<br>Communist Party of the Russian Federation or KPRF<br>Liberal Democratic Party of Russia or LDPR<br>New People or NL<br>Party of Growth or PR<br>Rodina<br>United Russia or ER<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Aleksandr Vyacheslavovich KIM (since 11 October 2024)<br>
+_chief of mission_: Ambassador Alexander Nikitich DARCHIEV (since 11 June 2025)<br>
 _chancery_: 2650 Wisconsin Avenue NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 298-5700<br>
 _FAX_: [1] (202) 298-5735<br>
@@ -422,25 +425,25 @@ _selected World Heritage Site locales_: Historic Centre of Saint Petersburg and 
 natural resource-rich Eurasian economy; leading energy exporter to Europe and Asia; decreased oil export reliance; endemic corruption, Ukrainian invasion, and lack of green infrastructure limit investment and have led to sanctions<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.816 trillion (2023 est.)<br>
-$5.614 trillion (2022 est.)<br>
-$5.732 trillion (2021 est.)<br>
+$6.089 trillion (2024 est.)<br>
+$5.835 trillion (2023 est.)<br>
+$5.607 trillion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.6% (2023 est.)<br>
--2.07% (2022 est.)<br>
-5.61% (2021 est.)<br>
+4.3% (2024 est.)<br>
+4.1% (2023 est.)<br>
+-1.4% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$39,800 (2023 est.)<br>
-$38,300 (2022 est.)<br>
-$38,900 (2021 est.)<br>
+$41,700 (2024 est.)<br>
+$39,900 (2023 est.)<br>
+$38,200 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.021 trillion (2023 est.)<br>
+$2.174 trillion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -450,18 +453,18 @@ $2.021 trillion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 3.3% (2023 est.)<br>
-_industry_: 30.6% (2023 est.)<br>
-_services_: 56.9% (2023 est.)<br>
+_agriculture_: 2.7% (2024 est.)<br>
+_industry_: 30.7% (2024 est.)<br>
+_services_: 57.5% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 49.8% (2023 est.)<br>
-_government consumption_: 18.5% (2023 est.)<br>
-_investment in fixed capital_: 21.9% (2023 est.)<br>
-_investment in inventories_: 3.8% (2023 est.)<br>
-_exports of goods and services_: 23.1% (2023 est.)<br>
-_imports of goods and services_: -18.7% (2023 est.)<br>
+_household consumption_: 49.4% (2024 est.)<br>
+_government consumption_: 18.6% (2024 est.)<br>
+_investment in fixed capital_: 22.1% (2024 est.)<br>
+_investment in inventories_: 4.2% (2024 est.)<br>
+_exports of goods and services_: 21.9% (2024 est.)<br>
+_imports of goods and services_: -17.6% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -472,15 +475,15 @@ wheat, sugar beets, milk, barley, potatoes, sunflower seeds, maize, soybeans, ch
 complete range of mining and extractive industries producing coal, oil, gas, chemicals, and metals; all forms of machine building from rolling mills to high-performance aircraft and space vehicles; defense industries (including radar, missile production, advanced electronic components), shipbuilding; road and rail transportation equipment; communications equipment; agricultural machinery, tractors, and construction equipment; electric power generating and transmitting equipment; medical and scientific instruments; consumer durables, textiles, foodstuffs, handicrafts<br>
 
 **Industrial production growth rate**<br>
-3.56% (2023 est.)<br>
+4.1% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-72.313 million (2024 est.)<br>
+72.517 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.5% (2024 est.)<br>
+2.6% (2024 est.)<br>
 3.1% (2023 est.)<br>
 3.9% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -492,7 +495,7 @@ _female_: 9.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
-11% (2021 est.)<br>
+12.1% (2020 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -509,9 +512,9 @@ _highest 10%_: 26.6% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.13% of GDP (2023 est.)<br>
-0.14% of GDP (2022 est.)<br>
-0.52% of GDP (2021 est.)<br>
+0.1% of GDP (2024 est.)<br>
+0.1% of GDP (2023 est.)<br>
+0.1% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -520,23 +523,23 @@ _expenditures_: $719.521 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-19% of GDP (2023 est.)<br>
+18.5% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-12.4% (of GDP) (2023 est.)<br>
+12.1% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$50.133 billion (2023 est.)<br>
+$62.287 billion (2024 est.)<br>
+$49.439 billion (2023 est.)<br>
 $237.735 billion (2022 est.)<br>
-$124.953 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$465.66 billion (2023 est.)<br>
+$475.277 billion (2024 est.)<br>
+$465.22 billion (2023 est.)<br>
 $640.878 billion (2022 est.)<br>
-$549.717 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -548,9 +551,9 @@ crude petroleum, refined petroleum, natural gas, coal, fertilizers (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$379.315 billion (2023 est.)<br>
+$381.45 billion (2024 est.)<br>
+$379.659 billion (2023 est.)<br>
 $347.384 billion (2022 est.)<br>
-$376.923 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

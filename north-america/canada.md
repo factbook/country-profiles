@@ -29,11 +29,10 @@ slightly larger than the US<br>
 **Land boundaries**<br>
 _total_: 8,892 km<br>
 _border countries_: US 8,891 km (includes 2,475 km with Alaska); Denmark (Greenland) 1.3 km<br>
-&nbsp;<br>
 
 **Coastline**<br>
 202,080 km<br>
-<strong>note:</strong> the Canadian Arctic Archipelago - consisting of 36,563 islands, several of them some of the world's largest - contributes to Canada easily having the longest coastline in the world<br>
+<strong>note:</strong> the Canadian Arctic Archipelago -- consisting of 36,563 islands, several of them among the world's largest -- gives Canada the longest coastline in the world<br>
 
 **Maritime claims**<br>
 _territorial sea_: 12 nm<br>
@@ -73,7 +72,10 @@ _fresh water lake(s)_: Huron* - 35,972 sq km; Great Bear Lake - 31,328 sq km; Su
 Mackenzie - 4,241 km; Yukon river source (shared with the US [m]) - 3,185 km; Saint Lawrence river mouth (shared with US) - 3,058 km; Nelson - 2,570 km; Columbia river source (shared with the US [m]) - 1,953 km; Churchill - 1,600 km; Fraser - 1,368 km; Ottawa - 1,271 km; Athabasca - 1,231 km; North Saskatchewan - 1,220 km; Liard - 1,115 km<br><br><strong>note:</strong> [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Mississippi* <em>(Gulf of America)</em> (3,202,185 sq km, Canada only 32,000 sq km), Nelson <em>(Hudson Bay)</em> (1,093,141 sq km), Saint Lawrence* (1,049,636 sq km, Canada only 839,200 sq km)<br>Arctic Ocean drainage: Mackenzie (1,706,388 sq km)<br>Pacific Ocean drainage: Yukon* (847,620 sq km, Canada only 823,800 sq km), Columbia* (657,501 sq km, Canada only 103,000 sq km)<br>note - watersheds shared with the US shown with *<br>
+_Arctic Ocean drainage_: Mackenzie (1,706,388 sq km)<br>
+_Atlantic Ocean drainage_: Mississippi* <em>(Gulf of America)</em> (3,202,185 sq km, Canada only 32,000 sq km), Nelson <em>(Hudson Bay)</em> (1,093,141 sq km), Saint Lawrence* (1,049,636 sq km, Canada only 839,200 sq km)<br>
+_Pacific Ocean drainage_: Yukon* (847,620 sq km, Canada only 823,800 sq km), Columbia* (657,501 sq km, Canada only 103,000 sq km)<br>
+<strong>note:</strong> watersheds shared with the US shown with *<br>
 
 **Major aquifers**<br>
 Northern Great Plains Aquifer<br>
@@ -406,25 +408,25 @@ _selected World Heritage Site locales_: L'Anse aux Meadows (c); Canadian Rocky M
 <p>high-income economy and second-largest US trading partner; key timber, oil, and gas industries; trade uncertainties and weak business investments contributing to economic slowdown; high and growing public debt; inflation moderating but remains above target range</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.242 trillion (2023 est.)<br>
-$2.215 trillion (2022 est.)<br>
-$2.133 trillion (2021 est.)<br>
+$2.341 trillion (2024 est.)<br>
+$2.305 trillion (2023 est.)<br>
+$2.271 trillion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.25% (2023 est.)<br>
-3.82% (2022 est.)<br>
-5.29% (2021 est.)<br>
+1.5% (2024 est.)<br>
+1.5% (2023 est.)<br>
+4.2% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$55,900 (2023 est.)<br>
-$56,900 (2022 est.)<br>
-$55,800 (2021 est.)<br>
+$56,700 (2024 est.)<br>
+$57,500 (2023 est.)<br>
+$58,300 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.142 trillion (2023 est.)<br>
+$2.241 trillion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -434,18 +436,18 @@ $2.142 trillion (2023 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 1.8% (2020 est.)<br>
-_industry_: 22.5% (2020 est.)<br>
-_services_: 69.6% (2020 est.)<br>
+_agriculture_: 1.6% (2021 est.)<br>
+_industry_: 25.3% (2021 est.)<br>
+_services_: 66.4% (2021 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 55.2% (2023 est.)<br>
-_government consumption_: 21.2% (2023 est.)<br>
-_investment in fixed capital_: 22.8% (2023 est.)<br>
-_investment in inventories_: 1.2% (2023 est.)<br>
-_exports of goods and services_: 33.4% (2023 est.)<br>
-_imports of goods and services_: -33.8% (2023 est.)<br>
+_household consumption_: 54.4% (2023 est.)<br>
+_government consumption_: 20.9% (2023 est.)<br>
+_investment in fixed capital_: 22.9% (2023 est.)<br>
+_investment in inventories_: 1% (2023 est.)<br>
+_exports of goods and services_: 33.3% (2023 est.)<br>
+_imports of goods and services_: -33.3% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -456,16 +458,16 @@ wheat, rapeseed, maize, milk, barley, soybeans, potatoes, peas, oats, pork (2023
 transportation equipment, chemicals, processed and unprocessed minerals, food products, wood and paper products, fish products, petroleum, natural gas<br>
 
 **Industrial production growth rate**<br>
--0.94% (2023 est.)<br>
+0% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-22.426 million (2024 est.)<br>
+22.868 million (2024 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.4% (2024 est.)<br>
-5.4% (2023 est.)<br>
+6.5% (2024 est.)<br>
+5.5% (2023 est.)<br>
 5.3% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
@@ -476,7 +478,7 @@ _female_: 12.1% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-31.7 (2019 est.)<br>
+29.9 (2020 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -484,14 +486,14 @@ _on food_: 9.7% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 3.5% of household expenditures (2023 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3% (2019 est.)<br>
-_highest 10%_: 24% (2019 est.)<br>
+_lowest 10%_: 3.5% (2020 est.)<br>
+_highest 10%_: 23.4% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.04% of GDP (2023 est.)<br>
-0.04% of GDP (2022 est.)<br>
-0.04% of GDP (2021 est.)<br>
+0% of GDP (2024 est.)<br>
+0% of GDP (2023 est.)<br>
+0% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -500,21 +502,21 @@ _expenditures_: $399.8 billion (2022 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-62.2% of GDP (2023 est.)<br>
+61.3% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-14% (of GDP) (2023 est.)<br>
+13.8% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$11.425 billion (2024 est.)<br>
+-$10.349 billion (2024 est.)<br>
 -$13.764 billion (2023 est.)<br>
 -$6.318 billion (2022 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$727.453 billion (2024 est.)<br>
+$727.831 billion (2024 est.)<br>
 $724.754 billion (2023 est.)<br>
 $743.782 billion (2022 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
@@ -528,7 +530,7 @@ crude petroleum, cars, gold, natural gas, refined petroleum (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$733.234 billion (2024 est.)<br>
+$733.778 billion (2024 est.)<br>
 $723.399 billion (2023 est.)<br>
 $731.058 billion (2022 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
@@ -542,9 +544,9 @@ cars, trucks, vehicle parts/accessories, refined petroleum, crude petroleum (202
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$119.778 billion (2024 est.)<br>
 $117.551 billion (2023 est.)<br>
 $106.952 billion (2022 est.)<br>
-$106.615 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>

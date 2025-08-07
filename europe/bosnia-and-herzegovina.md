@@ -62,7 +62,7 @@ _other_: 13.1% (2022 est.)<br>
 30 sq km (2012)<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+_Atlantic Ocean drainage_: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
 the northern and central areas of the country are the most densely populated<br>
@@ -399,25 +399,25 @@ _selected World Heritage Site locales_: Old Bridge Area of Mostar (c); Mehmed Pa
 import-dominated economy; remains consumption-heavy; lack of private sector investments and diversification; jointly addressing structural economic challenges; Chinese energy infrastructure investments; high unemployment; tourism industry impacted by COVID-19<br>
 
 **Real GDP (purchasing power parity)**<br>
-$64.104 billion (2023 est.)<br>
-$62.717 billion (2022 est.)<br>
-$60.174 billion (2021 est.)<br>
+$64.641 billion (2024 est.)<br>
+$63.077 billion (2023 est.)<br>
+$61.843 billion (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.21% (2023 est.)<br>
-4.23% (2022 est.)<br>
-7.39% (2021 est.)<br>
+2.5% (2024 est.)<br>
+2% (2023 est.)<br>
+4.2% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$20,100 (2023 est.)<br>
-$19,600 (2022 est.)<br>
-$18,500 (2021 est.)<br>
+$20,400 (2024 est.)<br>
+$19,800 (2023 est.)<br>
+$19,300 (2022 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$27.515 billion (2023 est.)<br>
+$28.343 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -427,18 +427,18 @@ $27.515 billion (2023 est.)<br>
 <strong>note:</strong> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 4.7% (2023 est.)<br>
-_industry_: 23.8% (2023 est.)<br>
-_services_: 55.8% (2023 est.)<br>
+_agriculture_: 4.3% (2024 est.)<br>
+_industry_: 22% (2024 est.)<br>
+_services_: 58% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: 68.5% (2023 est.)<br>
-_government consumption_: 19.2% (2023 est.)<br>
+_household consumption_: 68.3% (2023 est.)<br>
+_government consumption_: 19.1% (2023 est.)<br>
 _investment in fixed capital_: 23.1% (2023 est.)<br>
-_investment in inventories_: 3.3% (2023 est.)<br>
-_exports of goods and services_: 44.1% (2023 est.)<br>
-_imports of goods and services_: -55.8% (2023 est.)<br>
+_investment in inventories_: 3.2% (2023 est.)<br>
+_exports of goods and services_: 43.9% (2023 est.)<br>
+_imports of goods and services_: -55.7% (2023 est.)<br>
 <b>note:</b> figures may not total 100% due to rounding or gaps in data collection<br>
 
 **Agricultural products**<br>
@@ -449,7 +449,7 @@ maize, milk, vegetables, potatoes, plums, wheat, apples, barley, chicken, tomato
 steel, coal, iron ore, lead, zinc, manganese, bauxite, aluminum, motor vehicle assembly, textiles, tobacco products, wooden furniture, ammunition, domestic appliances, oil refining<br>
 
 **Industrial production growth rate**<br>
--0.47% (2023 est.)<br>
+-2.4% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -457,7 +457,7 @@ steel, coal, iron ore, lead, zinc, manganese, bauxite, aluminum, motor vehicle a
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-10.7% (2024 est.)<br>
+10.8% (2024 est.)<br>
 10.7% (2023 est.)<br>
 12.7% (2022 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
@@ -477,9 +477,9 @@ _on food_: 32.1% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 7.1% of household expenditures (2023 est.)<br>
 
 **Remittances**<br>
-10.26% of GDP (2023 est.)<br>
-10.52% of GDP (2022 est.)<br>
-10.47% of GDP (2021 est.)<br>
+11% of GDP (2024 est.)<br>
+10.2% of GDP (2023 est.)<br>
+10.5% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -488,7 +488,7 @@ _expenditures_: $9.739 billion (2023 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
-40.4% of GDP (2023 est.)<br>
+40.3% of GDP (2023 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
@@ -496,15 +496,15 @@ _expenditures_: $9.739 billion (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$1.176 billion (2024 est.)<br>
 -$638.769 million (2023 est.)<br>
 -$1.078 billion (2022 est.)<br>
--$349.24 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$12.141 billion (2024 est.)<br>
 $12.126 billion (2023 est.)<br>
 $11.838 billion (2022 est.)<br>
-$10.116 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -516,9 +516,9 @@ footwear, electricity, garments, plastic products, insulated wire (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$16.202 billion (2024 est.)<br>
 $15.37 billion (2023 est.)<br>
 $15.166 billion (2022 est.)<br>
-$12.739 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -530,7 +530,7 @@ refined petroleum, cars, garments, plastic products, packaged medicine (2023)<br
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$9.127 billion (2024 est.)<br>
+$9.419 billion (2024 est.)<br>
 $9.205 billion (2023 est.)<br>
 $8.762 billion (2022 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

@@ -35,7 +35,7 @@ _total_: 0 km<br>
 **Maritime claims**<br>
 _territorial sea_: 12 nm<br>
 _exclusive economic zone_: 200 nm<br>
-measured from claimed archipelagic baselines<br>
+<strong>note: </strong>measured from claimed archipelagic baselines<br>
 
 **Climate**<br>
 tropical; hot, humid; one rainy season (October to May)<br>
@@ -378,37 +378,37 @@ _history_: adopted 1975<br>
 lower middle-income Central African island economy; falling cocoa production due to drought and mismanagement; joint oil venture with Nigeria; government owns 90% of land; high debt, partly from fuel subsidies; tourism gutted by COVID-19<br>
 
 **Real GDP (purchasing power parity)**<br>
+$1.291 billion (2024 est.)<br>
 $1.279 billion (2023 est.)<br>
 $1.275 billion (2022 est.)<br>
-$1.272 billion (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.37% (2023 est.)<br>
-0.17% (2022 est.)<br>
-1.9% (2021 est.)<br>
+0.9% (2024 est.)<br>
+0.4% (2023 est.)<br>
+0.2% (2022 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$5,500 (2024 est.)<br>
 $5,500 (2023 est.)<br>
 $5,600 (2022 est.)<br>
-$5,700 (2021 est.)<br>
 <b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$678.976 million (2023 est.)<br>
+$764.274 million (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+14.4% (2024 est.)<br>
 21.3% (2023 est.)<br>
 18% (2022 est.)<br>
-8.1% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
-_agriculture_: 13.7% (2023 est.)<br>
-_industry_: 2.8% (2023 est.)<br>
-_services_: 75.9% (2023 est.)<br>
+_agriculture_: 12.8% (2024 est.)<br>
+_industry_: 2.9% (2024 est.)<br>
+_services_: 76.6% (2024 est.)<br>
 <b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data<br>
 
 **GDP - composition, by end use**<br>
@@ -427,7 +427,7 @@ plantains, oil palm fruit, taro, bananas, fruits, cocoa beans, yams, coconuts, c
 light construction, textiles, soap, beer, fish processing, timber<br>
 
 **Industrial production growth rate**<br>
--2.06% (2023 est.)<br>
+3.2% (2024 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -460,21 +460,15 @@ _highest 10%_: 32.8% (2017 est.)<br>
 <strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.47% of GDP (2023 est.)<br>
-1.88% of GDP (2022 est.)<br>
-2.02% of GDP (2021 est.)<br>
+1.5% of GDP (2023 est.)<br>
+1.9% of GDP (2022 est.)<br>
+2% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $128.764 million (2022 est.)<br>
 _expenditures_: $122.193 million (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
-
-**Public debt**<br>
-88.4% of GDP (2017 est.)<br>
-
-**Taxes and other revenues**<br>
-26.2% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
 -$79.437 million (2022 est.)<br>

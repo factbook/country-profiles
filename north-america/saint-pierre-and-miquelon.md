@@ -299,9 +299,6 @@ $261.3 million (2015 est.)<br>
 **GDP (official exchange rate)**<br>
 $261.3 million (2015 est.)<br>
 
-**Inflation rate (consumer prices)**<br>
-1.5% (2015)<br>
-
 **Agricultural products**<br>
 vegetables; poultry, cattle, sheep, pigs; fish<br>
 
@@ -326,11 +323,11 @@ refined petroleum, packaged medicine, cars, plastic products, other foods (2023)
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
