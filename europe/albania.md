@@ -232,9 +232,9 @@ _male_: 98.6% (2017 est.)<br>
 _female_: 99% (2017 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 14 years<br>
-_male_: 13 years<br>
-_female_: 15 years (2020)<br>
+_total_: 15 years (2023 est.)<br>
+_male_: 14 years (2023 est.)<br>
+_female_: 15 years (2023 est.)<br>
 
 ## Environment
 
@@ -385,7 +385,7 @@ red, black<br>
 **National anthem(s)**<br>
 _title_: "Hymni i Flamurit" (Hymn to the Flag)<br>
 _lyrics/music_: Aleksander Stavre DRENOVA/Ciprian PORUMBESCU<br>
-_history_: adopted 1912<br>
+_history_: adopted 1912; only the first two stanzas of the original poem are used with the second stanza is a chorus<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (2 cultural, 1 natural, 1 mixed)<br>

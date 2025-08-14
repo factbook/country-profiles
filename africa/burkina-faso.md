@@ -229,9 +229,9 @@ _male_: 49.8% (2022 est.)<br>
 _female_: 33.7% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 9 years<br>
-_male_: 9 years<br>
-_female_: 9 years (2020)<br>
+_total_: 7 years (2023 est.)<br>
+_male_: 7 years (2023 est.)<br>
+_female_: 7 years (2023 est.)<br>
 
 ## Environment
 
@@ -383,7 +383,7 @@ red, yellow, green<br>
 **National anthem(s)**<br>
 _title_: "Le Ditanye" (Anthem of Victory)<br>
 _lyrics/music_: Thomas SANKARA<br>
-_history_: adopted 1974; also known as "Une Seule Nuit" (Only One Night); written by the country's former president, an avid guitar player<br>
+_history_: adopted 1974; also known as "Une Seule Nuit"(One Single Night) ; written by the country's former president, an avid guitar player<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (3 cultural, 1 natural)<br>

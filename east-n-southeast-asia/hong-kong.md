@@ -189,9 +189,9 @@ _Education expenditure (% GDP)_: 3.8% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 12.7% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 17 years<br>
-_male_: 17 years<br>
-_female_: 17 years (2021)<br>
+_total_: 17 years (2023 est.)<br>
+_male_: 17 years (2023 est.)<br>
+_female_: 17 years (2023 est.)<br>
 
 ## Environment
 

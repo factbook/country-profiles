@@ -209,9 +209,9 @@ _female_: 97% (2022 est.)<br>
 <strong>note:</strong> estimates are for Gaza Strip and the West Bank<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 13 years<br>
-_male_: 12 years<br>
-_female_: 14 years (2021)<br>
+_total_: 13 years (2023 est.)<br>
+_male_: 12 years (2023 est.)<br>
+_female_: 14 years (2023 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 ## Environment

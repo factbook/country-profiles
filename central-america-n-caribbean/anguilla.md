@@ -290,6 +290,12 @@ _history_: official anthem, as an overseas UK territory<br>
 **Economic overview**<br>
 small, tourism-dependent, territorial-island economy; very high public debt; COVID-19 crippled economic activity; partial recovery underway via tourism, benefitting from its high amount of timeshare residences; considering reopening oil refinery<br>
 
+**Real GDP (purchasing power parity)**<br>
+$362.499 million (2024 est.)<br>
+$345.238 million (2023 est.)<br>
+$336.924 million (2022 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
+
 **Inflation rate (consumer prices)**<br>
 1.3% (2017 est.)<br>
 -0.6% (2016 est.)<br>

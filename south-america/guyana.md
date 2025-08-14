@@ -227,11 +227,6 @@ _total population_: 85.6% (2020 est.)<br>
 _male_: 84.2% (2020 est.)<br>
 _female_: 86.9% (2020 est.)<br>
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 11 years<br>
-_male_: 11 years<br>
-_female_: 12 years (2012)<br>
-
 ## Environment
 
 **Environmental issues**<br>

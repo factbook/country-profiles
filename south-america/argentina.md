@@ -226,9 +226,9 @@ _Education expenditure (% GDP)_: 4.8% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 12.7% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 18 years<br>
-_male_: 17 years<br>
-_female_: 20 years (2020)<br>
+_total_: 19 years (2022 est.)<br>
+_male_: 17 years (2022 est.)<br>
+_female_: 21 years (2022 est.)<br>
 
 ## Environment
 
@@ -394,7 +394,7 @@ sky blue, white<br>
 **National anthem(s)**<br>
 _title_: "Himno Nacional Argentino" (Argentine National Anthem)<br>
 _lyrics/music_: Vicente LOPEZ y PLANES/Jose Blas PARERA<br>
-_history_: adopted 1813; Vicente LOPEZ was inspired to write the anthem after watching a play about the 1810 May Revolution against Spain<br>
+_history_: adopted 1813; Vicente LOPEZ was inspired to write the anthem after watching a play about the 1810 May Revolution against Spain<br>a 1900 presidential decree declared that the first and last verses of the anthem would be the national anthem rather than the original nine verses<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 12 (7 cultural, 5 natural)<br>
@@ -694,13 +694,13 @@ the Argentine military’s primary responsibilities are territorial defense and 
 ## Space
 
 **Space agency/agencies**<br>
-Argentina National Space Activities Commission (Comision Nacional de Actividades Espaciales, CONAE; formed in 1991); CONAE&rsquo;s predecessor was the National Commission for Space Research (Comisi&oacute;n Nacional de Investigaciones Espaciales, CNIE; formed in 1960) (2024)<br>
+Argentina National Space Activities Commission (Comision Nacional de Actividades Espaciales, CONAE; formed in 1991); CONAE&rsquo;s predecessor was the National Commission for Space Research (Comisi&oacute;n Nacional de Investigaciones Espaciales, CNIE; formed in 1960) (2025)<br>
 
 **Space launch site(s)**<br>
-Manuel Belgrano Space Center (Buenos Aires province): planned launch platform of the Tronador SLV (see Appendix S); Punta Indio Space Center (Buenos Aires province): test facility; Teofilo Tabanera Space Center (CETT; Cordoba Province): testing, mission control site (2024)<br>
+Manuel Belgrano Space Center (Buenos Aires province); Punta Indio Space Center (Buenos Aires province); Teofilo Tabanera Space Center (CETT; Cordoba Province; testing/mission control) (2025)<br>
 
 **Space program overview**<br>
-has a long history in the development of space-related capabilities, including rockets and satellites; develops, builds, and operates communications, remote sensing (RS), and scientific satellites, often in partnership with other countries; developing additional satellites with more advanced payloads; has a national space plan; contracts with commercial and other government space agencies for launches but has a domestic rocket program and is developing space launch vehicle (SLV) capabilities; cooperates with a broad range of space agencies and industries, including those of Brazil, China, the European Space Agency and its member states (particularly France, Italy), and the US; also has a commercial space industry, which includes efforts to design, build, and launch reusable small SLVs (2024)<br>
+has a long history in the development of space-related capabilities, including rockets and satellites; develops, builds, and operates communications, remote sensing (RS), and scientific satellites, often in partnership with other countries; developing additional satellites with more advanced payloads; has a national space plan; contracts with commercial and other government space agencies for launches but has a domestic rocket program and is developing space launch vehicle (SLV) capabilities; cooperates with a broad range of space agencies and industries, including those of Brazil, China, the European Space Agency and its member states (particularly France, Italy), and the US; also has a commercial space industry, which includes efforts to design, build, and launch reusable SLVs (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

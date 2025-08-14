@@ -230,9 +230,9 @@ _male_: 81% (2022 est.)<br>
 _female_: 77% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 12 years<br>
-_male_: 12 years<br>
-_female_: 13 years (2020)<br>
+_total_: 11 years (2023 est.)<br>
+_male_: 11 years (2023 est.)<br>
+_female_: 12 years (2023 est.)<br>
 
 ## Environment
 
@@ -673,10 +673,10 @@ the military’s primary responsibility is external defense but it also has a do
 ## Space
 
 **Space agency/agencies**<br>
-Bangladesh Space Research and Remote Sensing Organization (SPARRSO; established 1980) (2024)<br>
+Bangladesh Space Research and Remote Sensing Organization (SPARRSO; established as a statutory body in 1991 and designated as the country's national focal point for space-related activities in 1995) (2025)<br>
 
 **Space program overview**<br>
-has a modest space program focused on designing, building, and operating satellites, particularly those with remote sensing (RS) capabilities; researching a variety of other space-related capabilities and technologies; has a government-owned company for acquiring and operating satellites (Bangladesh Satellite Company Limited or BSCL, established in 2017); has relations with several foreign space agencies and commercial entities, including those of France, Japan, Russia, and the US (2024)<br>
+has a modest space program focused on designing, building, and operating satellites, particularly those with remote sensing (RS) capabilities; SPARSSO's mandate is to use space and RS technology in such areas as agriculture, education, environmental studies, fisheries, forestry, geology, land use, mapping, meteorology, oceanography, and water resources; has a government-owned company for acquiring and operating satellites (Bangladesh Satellite Company Limited or BSCL, established in 2017); has relations with several foreign space agencies and commercial entities, including those of France, Japan, Russia, and the US; member of several international space organizations, such as the Asia-Pacific Space Cooperation Organization (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

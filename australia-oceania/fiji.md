@@ -364,7 +364,7 @@ Fijian canoe<br>
 light blue<br>
 
 **National anthem(s)**<br>
-_title_: "God Bless Fiji"<br>
+_title_: "God Bless Fiji" (Let Us Show Pride)<br>
 _lyrics/music_: Michael Francis Alexander PRESCOTT/C. Austin MILES (adapted by Michael Francis Alexander PRESCOTT)<br>
 _history_: adopted 1970; known in Fijian as "Meda Dau Doka" (Let Us Show Pride); adapted from the hymn, "Dwelling in Beulah Land," the anthem's English lyrics are usually used, although they differ in meaning from the official Fijian lyrics<br>
 

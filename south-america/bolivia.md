@@ -681,11 +681,17 @@ the Bolivian Armed Forces (FAB) are responsible for territorial defense but also
 ## Space
 
 **Space agency/agencies**<br>
-Bolivian Space Agency (la Agencia Boliviana Espacial, ABE; established 2010 as a national public company) (2024)<br>
+Bolivian Space Agency (la Agencia Boliviana Espacial, ABE; established 2010 as a national public company under Ministry of Public Works, Services and Housing) (2025)<br>
 
 **Space program overview**<br>
-has a small space program focused on acquiring and operating satellites; operates a telecommunications satellite and two ground stations; has cooperated with China and India and member states of the Latin American and Caribbean Space Agency (ALCE) (2024)<br>
+has a small space program focused on acquiring and operating satellites; operates a telecommunications satellite and ground stations; has cooperated with China and India and member states of the Latin American and Caribbean Space Agency (ALCE) (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+
+## Terrorism
+
+**Terrorist group(s)**<br>
+Tren de Aragua (TdA)<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

@@ -226,9 +226,9 @@ _male_: 100% (2019 est.)<br>
 _female_: 100% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 15 years<br>
-_male_: 15 years<br>
-_female_: 15 years (2021)<br>
+_total_: 14 years (2023 est.)<br>
+_male_: 14 years (2023 est.)<br>
+_female_: 15 years (2023 est.)<br>
 
 ## Environment
 
@@ -681,15 +681,6 @@ the military's inventory is comprised mostly of Russian and Soviet-origin equipm
 
 **Military - note**<br>
 the military of Belarus is responsible for territorial defense; Russia is the country’s closest security partner, and the military conducts joint training exercises with Russian forces; in 2022, Belarus allowed the Russian military to stage on its territory for their invasion of Ukraine; in 2023, Belarus agreed to permit Russia to deploy nuclear weapons on its soil<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and has committed an airborne brigade to CSTO's rapid reaction force; the military trains regularly with other CSTO members (2025)<br>
-
-## Space
-
-**Space agency/agencies**<br>
-Belarus Space Agency (aka National Agency for Space Research; established 2009); National Academy of Sciences of Belarus (2024)<br>
-
-**Space program overview**<br>
-has a modest national space program focused on developing remote sensing (RS) satellites; jointly builds satellites with foreign partners; develops some space technologies and components for space equipment, including satellite payloads and associated technology, such as optics and imaging equipment; has cooperated with a variety of foreign space agencies and commercial entities, including those of Azerbaijan, China, Kazakhstan, Russia, and Ukraine; has a state-owned satellite company (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

@@ -359,7 +359,7 @@ blue, yellow, black<br>
 **National anthem(s)**<br>
 _title_: "The National Anthem of Barbados"<br>
 _lyrics/music_: Irving BURGIE/C. Van Roland EDWARDS<br>
-_history_: adopted 1966; the anthem is also known as "In Plenty and In Time of Need"<br>
+_history_: adopted 1966<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

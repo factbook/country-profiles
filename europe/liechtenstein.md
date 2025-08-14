@@ -187,9 +187,9 @@ _unimproved: total_: total: 0% of population (2020)<br>
 2.6% of GDP (2011 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 15 years<br>
-_male_: 16 years<br>
-_female_: 14 years (2020)<br>
+_total_: 15 years (2021 est.)<br>
+_male_: 16 years (2021 est.)<br>
+_female_: 14 years (2021 est.)<br>
 
 ## Environment
 

@@ -235,6 +235,11 @@ _total population_: 71.9% (2021 est.)<br>
 _male_: 81.5% (2021 est.)<br>
 _female_: 63.6% (2021 est.)<br>
 
+**School life expectancy (primary to tertiary education)**<br>
+_total_: 11 years (2023 est.)<br>
+_male_: 11 years (2023 est.)<br>
+_female_: 11 years (2023 est.)<br>
+
 ## Environment
 
 **Environmental issues**<br>

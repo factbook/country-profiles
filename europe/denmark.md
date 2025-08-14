@@ -218,9 +218,9 @@ _Education expenditure (% GDP)_: 5.3% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 11.8% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 19 years<br>
-_male_: 18 years<br>
-_female_: 19 years (2020)<br>
+_total_: 18 years (2023 est.)<br>
+_male_: 18 years (2023 est.)<br>
+_female_: 19 years (2023 est.)<br>
 
 ## Environment
 
@@ -377,9 +377,9 @@ red, white<br>
 Denmark’s King Frederick VI adopted the national coat of arms in 1819; the crown of King Christian V, who ruled Denmark and Norway from 1670 to 1699,<em> </em>sits atop the shield, symbolizing royal and national authority; the three lions represent a strong and powerful country, with red lily pads in the shape of hearts that stand for strength, valor, and joy<br>
 
 **National anthem(s)**<br>
-_title_: "Kong Christian" (King Christian)<br>
+_title_: &ldquo;Kong Christian stod ved h&oslash;jen mast&rdquo; (King Christian Stood by the Lofty Mast)<br>
 _lyrics/music_: Johannes EWALD/unknown<br>
-_history_: adopted 1780; national and royal anthem; also known as "Kong Christian stod ved hojen mast" (King Christian Stood by the Lofty Mast) and "Kongesangen" (The King's Anthem); in Denmark, the royal anthem is played only when royalty is present and is usually followed by the other national anthem; when royalty is not present, only "Der er et yndigt land" is performed; outside Denmark, the royal anthem is played unless the other anthem is requested<br>
+_history_: adopted 1780; one of the oldest royal anthems in the world; used for events when the Danish royalty is present; anthem has equal status with the national anthem<br><br><br>
 <strong>note:</strong> Denmark is one of only two countries that has two national anthems of equal status (New Zealand is the other)<br>
 
 **National heritage**<br>

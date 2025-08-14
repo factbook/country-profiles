@@ -236,9 +236,9 @@ _male_: 76% (2017 est.)<br>
 _female_: 66% (2017 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 14 years<br>
-_male_: 14 years<br>
-_female_: 14 years (2018)<br>
+_total_: 13 years (2023 est.)<br>
+_male_: 13 years (2023 est.)<br>
+_female_: 13 years (2023 est.)<br>
 
 ## Environment
 
@@ -406,7 +406,7 @@ red, white, black<br>
 **National anthem(s)**<br>
 _title_: "Bilady, Bilady, Bilady" (My Homeland, My Homeland, My Homeland)<br>
 _lyrics/music_: Younis-al QADI/Sayed DARWISH<br>
-_history_: adopted 1979; the current anthem, less militaristic than the previous one, was written after the 1979 peace treaty was signed with Israel; Sayed DARWISH, the composer, is widely considered the father of modern Egyptian music<br>
+_history_: adopted 1979; the current anthem was written after the 1979 peace treaty with Israel; the composer is considered the father of modern Egyptian music; of the three verses, only the first verse is sung, preceded and followed by the chorus<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 7 (6 cultural, 1 natural)<br>

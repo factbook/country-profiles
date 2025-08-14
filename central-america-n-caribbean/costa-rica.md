@@ -217,9 +217,9 @@ _Education expenditure (% GDP)_: 6.2% of GDP (2021 est.)<br>
 _Education expenditure (% national budget)_: 31.2% national budget (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 17 years<br>
-_male_: 16 years<br>
-_female_: 17 years (2019)<br>
+_total_: 16 years (2019 est.)<br>
+_male_: 15 years (2019 est.)<br>
+_female_: 16 years (2019 est.)<br>
 
 ## Environment
 
@@ -374,7 +374,7 @@ the Costa Rican coat of arms highlights the country&rsquo;s natural beauty and h
 **National anthem(s)**<br>
 _title_: "Himno Nacional de Costa Rica" (National Anthem of Costa Rica)<br>
 _lyrics/music_: Jose Maria ZELEDON Brenes/Manuel Maria GUTIERREZ<br>
-_history_: adopted 1949; the music was originally written for a welcome ceremony in 1853 for the US and UK diplomatic missions; the lyrics were added in 1903<br>
+_history_: adopted 1949; the music was originally written for a welcome ceremony in 1852 for the US and UK diplomatic missions; the lyrics were added in 1900<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (1 cultural, 3 natural)<br>

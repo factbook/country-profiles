@@ -166,11 +166,6 @@ _unimproved: total_: total: 0% of population (2017)<br>
 **Education expenditure**<br>
 7.4% of GDP (2020 est.)<br>
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 17 years<br>
-_male_: 18 years<br>
-_female_: 18 years (2013)<br>
-
 ## Environment
 
 **Environmental issues**<br>

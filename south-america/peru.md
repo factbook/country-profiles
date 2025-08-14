@@ -237,9 +237,9 @@ _male_: 97% (2020 est.)<br>
 _female_: 92% (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 15 years<br>
-_male_: 15 years<br>
-_female_: 15 years (2017)<br>
+_total_: 15 years (2017 est.)<br>
+_male_: 15 years (2017 est.)<br>
+_female_: 15 years (2017 est.)<br>
 
 ## Environment
 
@@ -705,7 +705,7 @@ has a small space program focused on acquiring satellites, applying space applic
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Shining Path (Sendero Luminoso)<br>
+Shining Path (Sendero Luminoso); Tren de Aragua (TdA)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

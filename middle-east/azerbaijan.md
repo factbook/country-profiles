@@ -224,9 +224,9 @@ _male_: 100% (2023 est.)<br>
 _female_: 100% (2023 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 14 years<br>
-_male_: 13 years<br>
-_female_: 14 years (2021)<br>
+_total_: 13 years (2023 est.)<br>
+_male_: 13 years (2023 est.)<br>
+_female_: 13 years (2023 est.)<br>
 
 ## Environment
 
@@ -648,10 +648,10 @@ the Azerbaijani military was established in 1991, although its origins go back t
 ## Space
 
 **Space agency/agencies**<br>
-Azerbaijan National Aerospace Agency (NASA; Azərbaycan Milli Aerokosmik Agentliyi, MAKA; established in 1992 from the Kaspiy Scientific Center, established 1974); Space Agency of the Republic of Azerbaijan (Azercosmos; established 2010 as a state-owned satellite operating company) (2024)<br>
+Space Agency of the Republic of Azerbaijan (Azercosmos; established 2010 as a state-owned satellite operating company); Azerbaijan National Aerospace Agency (NASA; Azərbaycan Milli Aerokosmik Agentliyi, MAKA; established 1992; since 2006, has operated under the Ministry of Defense Industry) (2025)<br>
 
 **Space program overview**<br>
-national space program largely focused on the acquisition and operation of satellites; operates foreign-built communications and remote sensing (RS) satellites; has two satellite ground-control stations; cooperates with a variety of foreign space agencies and commercial entities, including those of China, the European Space Agency (and individual member states such as France), Israel, Russia, Turkey, and the US; Azercosmos is the largest satellite operator in the Caucasus region (2024)<br>
+national space program largely focused on the acquisition and operation of satellites; operates foreign-built communications and remote sensing (RS) satellites; cooperates with a variety of foreign space agencies and commercial entities, including those of China, the European Space Agency (and bilaterally with individual member states such as France), Israel, Russia, Turkey, and the US; Azercosmos is the largest satellite operator in the Caucasus region (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

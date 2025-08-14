@@ -235,11 +235,6 @@ _total population_: 73.6% (2018 est.)<br>
 _male_: 87.5% (2018 est.)<br>
 _female_: 61.6% (2018 est.)<br>
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 11 years<br>
-_male_: 10 years<br>
-_female_: 9 years (2013)<br>
-
 ## Environment
 
 **Environmental issues**<br>

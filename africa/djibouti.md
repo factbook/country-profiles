@@ -212,11 +212,6 @@ _women married by age 18_: 6.5% (2019)<br>
 _Education expenditure (% GDP)_: 3.8% of GDP (2018 est.)<br>
 _Education expenditure (% national budget)_: 14.5% national budget (2018 est.)<br>
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 7 years<br>
-_male_: 7 years<br>
-_female_: 7 years (2011)<br>
-
 ## Environment
 
 **Environmental issues**<br>

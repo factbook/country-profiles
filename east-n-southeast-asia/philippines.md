@@ -228,9 +228,9 @@ _male_: 98% (2020 est.)<br>
 _female_: 97% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 13 years<br>
-_male_: 13 years<br>
-_female_: 13 years (2020)<br>
+_total_: 12 years (2021 est.)<br>
+_male_: 12 years (2021 est.)<br>
+_female_: 13 years (2021 est.)<br>
 
 **People - note**<br>
 one of only two predominantly Christian nations in Southeast Asia, the other being Timor-Leste<br>

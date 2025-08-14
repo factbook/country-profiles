@@ -240,9 +240,9 @@ _male_: 88% (2023 est.)<br>
 _female_: 75% (2023 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 12 years<br>
-_male_: 12 years<br>
-_female_: 12 years (2020)<br>
+_total_: 13 years (2024 est.)<br>
+_male_: 13 years (2024 est.)<br>
+_female_: 13 years (2024 est.)<br>
 
 ## Environment
 
@@ -727,7 +727,7 @@ has one of the world’s largest space programs; designs, builds, launches, oper
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami (HUJI); Hizbul Mujahideen; Indian Mujahedeen; Islamic State of Iraq and ash-Sham (ISIS) – India (ISI); Jaish-e-Mohammed (JeM);<strong> </strong>Lashkar-e Tayyiba (LeT); al-Qa’ida; al-Qa’ida in the Indian Subcontinent (AQIS); Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
+al-Qa’ida; al-Qa’ida in the Indian Subcontinent (AQIS); Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami (HUJI); Hizbul Mujahideen; Indian Mujahedeen; Islamic State of Iraq and ash-Sham (ISIS) – India (ISI); Jaish-e-Mohammed (JeM);<strong> </strong>Lashkar-e Tayyiba (LeT); Islamic Revolutionary Guard Corps (IRGC)/Qods Force; The Resistance Front (TRF)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

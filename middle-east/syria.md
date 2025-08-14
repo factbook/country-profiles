@@ -212,11 +212,6 @@ _total population_: 94% (2021 est.)<br>
 _male_: 97% (2021 est.)<br>
 _female_: 92% (2021 est.)<br>
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 9 years<br>
-_male_: 9 years<br>
-_female_: 9 years (2013)<br>
-
 ## Environment
 
 **Environmental issues**<br>
@@ -627,7 +622,7 @@ status unclear; has been handicapped by the impact of the civil war, including t
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Abdallah Azzam Brigades; Ansar al-Islam; Asa’ib Ahl Al-Haq; Hizballah; Hurras al-Din; Islamic Jihad Union; Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); Kata'ib Hizballah; Kurdistan Workers' Party (PKK); Hay'at Tahrir al-Sham (HTS; aka al-Nusrah Front ); al-Qa'ida; Palestine Liberation Front (PLF); Popular Front for the Liberation of Palestine (PFLP); PFLP-General Command (PLFP-GC)<br>
+Abdallah Azzam Brigades; Ansar al-Islam; Asa’ib Ahl Al-Haq; Hizballah; Hurras al-Din; Islamic Jihad Union; Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); Kata'ib Hizballah; Kurdistan Workers' Party (PKK); al-Qa'ida; Palestine Liberation Front (PLF); Popular Front for the Liberation of Palestine (PFLP); PFLP-General Command (PLFP-GC)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

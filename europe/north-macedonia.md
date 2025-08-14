@@ -216,9 +216,9 @@ _women married by age 18_: 7.5% (2019)<br>
 _female_: 97.8% (2018 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 13 years<br>
-_male_: 13 years<br>
-_female_: 14 years (2020)<br>
+_total_: 15 years (2022 est.)<br>
+_male_: 14 years (2022 est.)<br>
+_female_: 15 years (2022 est.)<br>
 
 ## Environment
 

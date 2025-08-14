@@ -204,9 +204,9 @@ _Education expenditure (% GDP)_: 4.6% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 8.7% national budget (2024 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 15 years<br>
-_male_: 15 years<br>
-_female_: 14 years (2012)<br>
+_total_: 15 years (2023 est.)<br>
+_male_: 15 years (2023 est.)<br>
+_female_: 15 years (2023 est.)<br>
 
 ## Environment
 
@@ -328,9 +328,9 @@ a circle of 15 five-pointed white stars on a blue field, tiare maori flower (<em
 green, white<br>
 
 **National anthem(s)**<br>
-_title_: "Te Atua Mou E" (To God Almighty)<br>
-_lyrics/music_: Tepaeru Te RITO/Thomas DAVIS<br>
-_history_: adopted 1982; as prime minister, Sir Thomas DAVIS composed the anthem; Pa Tepaeru Terito Ariki, his wife and a tribal chief, wrote the lyrics<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: royal anthem<br>
 
 ## Economy
 

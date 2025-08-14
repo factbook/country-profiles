@@ -211,6 +211,11 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _Education expenditure (% GDP)_: 2.9% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 17.7% national budget (2023 est.)<br>
 
+**School life expectancy (primary to tertiary education)**<br>
+_total_: 12 years (2023 est.)<br>
+_male_: 12 years (2023 est.)<br>
+_female_: 12 years (2023 est.)<br>
+
 ## Environment
 
 **Environmental issues**<br>

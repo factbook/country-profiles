@@ -217,9 +217,9 @@ _male_: 99% (2019 est.)<br>
 _female_: 99% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 16 years<br>
-_male_: 16 years<br>
-_female_: 17 years (2020)<br>
+_total_: 17 years (2023 est.)<br>
+_male_: 16 years (2023 est.)<br>
+_female_: 17 years (2023 est.)<br>
 
 ## Environment
 
@@ -352,7 +352,7 @@ _subordinate courts_: various lower civil and criminal courts (primary and secon
 Action-Italia Viva <br>Associative Movement of Italians Abroad or MAIE <br>Brothers of Italy or FdI <br>Democratic Party or PD <br>Five Star Movement or M5S <br>Forza Italia or FI <br>Free and Equal (Liberi e Uguali) or LeU <br>Greens and Left Alliance or AVS <br>Italexit <br>League or Lega <br>More Europe or +EU <br>Popular Union or PU <br>South calls North or ScN <br>South Tyrolean Peoples Party or SVP <br>other minor parties<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Alessandro GONZALES (since 4 July 2025)<br>
+_chief of mission_: Ambassador-designate Marco PERONACI; Charg&eacute; d&rsquo;Affaires Alessandro GONZALES (since 4 July 2025)<br>
 _chancery_: 3000 Whitehaven Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 612-4400<br>
 _FAX_: [1] (202) 518-2154<br>

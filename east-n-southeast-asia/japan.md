@@ -219,9 +219,9 @@ _Education expenditure (% GDP)_: 3.2% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 7.5% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 15 years<br>
-_male_: 15 years<br>
-_female_: 15 years (2019)<br>
+_total_: 16 years (2022 est.)<br>
+_male_: 16 years (2022 est.)<br>
+_female_: 16 years (2022 est.)<br>
 
 ## Environment
 
@@ -362,7 +362,7 @@ _consulate(s) general_: Chicago<br>
 _consulate(s)_: Anchorage (AK), Atlanta, Boston, Denver (CO), Detroit (MI), Hagatna (Guam), Honolulu, Houston, Los Angeles, Miami, Nashville (TN), New York, Portland (OR), San Francisco, Saipan (Northern Mariana Islands), Seattle (WA)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador-designate George GLASS (since 18 April 2025)<br>
+_chief of mission_: Ambassador George GLASS (since 17 July 2025)<br>
 _embassy_: 1-10-5 Akasaka, Minato-ku, Tokyo 107-8420<br>
 _mailing address_: 9800 Tokyo Place, Washington DC&nbsp; 20521-9800<br>
 _telephone_: [81] (03) 3224-5000<br>

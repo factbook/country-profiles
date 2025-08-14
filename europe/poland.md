@@ -222,9 +222,9 @@ _Education expenditure (% GDP)_: 4.6% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 10.5% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 16 years<br>
-_male_: 15 years<br>
-_female_: 17 years (2020)<br>
+_total_: 17 years (2023 est.)<br>
+_male_: 16 years (2023 est.)<br>
+_female_: 18 years (2023 est.)<br>
 
 ## Environment
 
@@ -315,12 +315,13 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Andrzej DUDA (since 6 August 2015)<br>
+_chief of state_: President Karol NAWROCKI (since 6 August 2025)<br>
 _head of government_: Prime Minister Donald TUSK (since 11 December 2023)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, appointed by the president, and approved by the Sejm<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister, deputy prime ministers, and Council of Ministers appointed by the president and confirmed by the Sejm; all presidential candidates resign their party affiliation<br>
 _most recent election date_: 18 May 2025, with the second round on 1 June 2025<br>
 _election results_: <br>2025: Karol NAWROCKI elected president in second round; percent of vote - Karol NAWROCKI (PiS) 50.9%, Rafal TRZASKOWSKI (KO) 49.1%; NAWROCKI takes office 6 August 2025<br><br>2025: First round Rafal TRZASKOWSKI (KO) 31.4%, Karol NAWROCKI 29.5% (PiS), Slawomir MENTZEN 14.8%, Grzegorz BRAUN 6.3%, and Szymon HOLOWNIA 5.0%; second round to be held on 1 June 2025; <br><br><em>2020:</em> Andrzej DUDA reelected president in second round; percent of vote - Andrzej DUDA (independent) 51%, Rafal TRZASKOWSKI (KO) 49%<br><em><br>2015:</em> Andrzej DUDA elected president in second round; percent of vote - Andrzej DUDA (independent) 51.5%, Bronislaw KOMOROWSKI (independent) 48.5%<br>
+_expected date of next election_: July 2030<br>
 
 **Legislative branch**<br>
 _legislative structure_: bicameral<br>

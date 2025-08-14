@@ -13,10 +13,10 @@ France today is one of the most modern countries in the world and is a leader am
 <strong>metropolitan France:</strong> Western Europe, bordering the Bay of Biscay and English Channel, between Belgium and Spain, southeast of the UK; bordering the Mediterranean Sea, between Italy and Spain<br><br><strong>French Guiana:</strong> Northern South America, bordering the North Atlantic Ocean, between Brazil and Suriname<br><br><strong>Guadeloupe:</strong> Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, southeast of Puerto Rico<br><br><strong>Martinique:</strong> Caribbean, island between the Caribbean Sea and North Atlantic Ocean, north of Trinidad and Tobago<br><br><strong>Mayotte:</strong> Southern Indian Ocean, island in the Mozambique Channel, about halfway between northern Madagascar and northern Mozambique<br><br><strong>Reunion:</strong> Southern Africa, island in the Indian Ocean, east of Madagascar<br>
 
 **Geographic coordinates**<br>
-<strong>metropolitan France:</strong> 46 00 N, 2 00 E <p><strong>French Guiana:</strong> 4 00 N, 53 00 W</p> <p><strong>Guadeloupe:</strong> 16 15 N, 61 35 W</p> <p><strong>Martinique:</strong> 14 40 N, 61 00 W</p> <p><strong>Mayotte:</strong> 12 50 S, 45 10 E</p> <strong>Reunion:</strong> 21 06 S, 55 36 E<br>
+<strong>metropolitan France:</strong> 46 00 N, 2 00 E <br><br><strong>French Guiana:</strong> 4 00 N, 53 00 W <br><br><strong>Guadeloupe:</strong> 16 15 N, 61 35 W <br><br><strong>Martinique:</strong> 14 40 N, 61 00 W <br><br><strong>Mayotte:</strong> 12 50 S, 45 10 E <br><br><strong>Reunion:</strong> 21 06 S, 55 36 E<br>
 
 **Map references**<br>
-<strong>metropolitan France:</strong> Europe <p><strong>French Guiana:</strong> South America</p> <p><strong>Guadeloupe:</strong> Central America and the Caribbean</p> <p><strong>Martinique:</strong> Central America and the Caribbean</p> <p><strong>Mayotte:</strong> Africa</p> <strong>Reunion:</strong> World<br>
+<strong>metropolitan France:</strong> Europe <br><br><strong>French Guiana:</strong> South America <br><br><strong>Guadeloupe:</strong> Central America and the Caribbean <br><br><strong>Martinique:</strong> Central America and the Caribbean <br><br><strong>Mayotte:</strong> Africa <br><br><strong>Reunion:</strong> World<br>
 
 **Area**<br>
 _total _: 643,801 sq km ; 551,500 sq km (metropolitan France)<br>
@@ -106,7 +106,7 @@ Celtic and Latin with Teutonic, Slavic, North African (Algerian, Moroccan, Tunis
 <strong>note:</strong> overseas departments: Black, White, Mulatto, East Indian, Chinese, Indigenous<br>
 
 **Languages**<br>
-French (official) 100%, declining regional dialects and languages (Provencal, Breton, Alsatian, Corsican, Catalan, Basque, Flemish, Occitan, Picard)<br>
+French (official) 100%, declining regional dialects and languages (Proven&ccedil;al, Breton, Alsatian, Corsican, Catalan, Basque, Flemish, Occitan, Picard)<br>
 _major-language sample(s)_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 <strong>note:</strong> overseas departments - French, Creole patois, Mahorian (a Swahili dialect)<br>
 
@@ -233,9 +233,9 @@ _Education expenditure (% GDP)_: 5.4% of GDP (2021 est.)<br>
 _Education expenditure (% national budget)_: 8.9% national budget (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 16 years<br>
-_male_: 16 years<br>
-_female_: 16 years (2020)<br>
+_total_: 16 years (2022 est.)<br>
+_male_: 16 years (2022 est.)<br>
+_female_: 17 years (2022 est.)<br>
 
 ## Environment
 
@@ -380,7 +380,7 @@ _email address and website_: <br>info@ambafrance-us.org<br><br>https://franceint
 _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador-designate Charles KUSHNER (since May 2025); note - also accredited to Monaco<br>
+_chief of mission_: Ambassador Charles KUSHNER (since 11 July 2025); note - also accredited to Monaco<br>
 _embassy_: 2 avenue Gabriel, 75008 Paris<br>
 _mailing address_: 9200 Paris Place, Washington DC&nbsp; 20521-9200<br>
 _telephone_: [33] (1) 43-12-22-22, [33] (1) 42-66-97-83<br>

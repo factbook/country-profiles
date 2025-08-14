@@ -222,9 +222,9 @@ _Education expenditure (% GDP)_: 4.8% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 9% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 16 years<br>
-_male_: 16 years<br>
-_female_: 16 years (2020)<br>
+_total_: 16 years (2023 est.)<br>
+_male_: 16 years (2023 est.)<br>
+_female_: 17 years (2023 est.)<br>
 
 ## Environment
 
@@ -389,7 +389,7 @@ red, white<br>
 **National anthem(s)**<br>
 _title_: "Bundeshymne" (Federal Hymn)<br>
 _lyrics/music_: Paula von PRERADOVIC/Wolfgang Amadeus MOZART or Johann HOLZER (disputed)<br>
-_history_: adopted 1947; the anthem is also known as "Land der Berge, Land am Strome" (Land of the Mountains, Land by the River); Austria adopted a new national anthem after World War II to replace the former imperial anthem composed by Franz Josef HAYDN, which Germany had appropriated in 1922 and was thereafter associated with the Nazi regime; the Austrian Federal Assembly adopted a gender-neutral version of the lyrics in 2011<br>
+_history_: adopted 1947; Austria adopted a new national anthem after World War II to replace the former imperial anthem composed by Franz Josef HAYDN, which Germany had appropriated in 1922 and was thereafter associated with the Nazi regime; the Austrian Federal Assembly adopted a gender-neutral version of the lyrics in 2012<br>
 <strong>note:</strong> the beloved waltz "The Blue Danube" ("An der schoenen, blauen Donau"), composed in 1866 by Johann STRAUSS II, is widely considered Austria's unofficial national anthem <br>
 
 **National heritage**<br>
@@ -673,10 +673,10 @@ the military’s primary responsibilities are national defense and protecting Au
 ## Space
 
 **Space agency/agencies**<br>
-Aerospace Agency (established in 1972 as the Austrian Space Agency) (2024)<br>
+Aeronautics and Space Agency (ALR; established in 1972 as the Austrian Space Agency) (2025)<br>
 
 **Space program overview**<br>
-has a national space program and is a member of the European Space Agency (ESA); develops, builds, operates, and tracks satellites, including remote sensing (RS) and research/scientific satellites; works closely with member states of ESA, the EU, and the commercial sector to develop a range of space capabilities and technologies, including applications for satellite payloads, space flight, and space research; has also cooperated with other foreign space agencies and industries, including those of China, India, Russia, and the US (2024)<br>
+has a national space program; develops, builds, operates, and tracks satellites, including remote sensing and research/scientific satellites; member of the European Space Agency (ESA) and the EU; works closely with ESA and EU member states and the commercial sector to develop a range of space capabilities and technologies, including applications for satellite payloads, space flight, and space research; also cooperates with other foreign space agencies and industries, including those of China, India, Russia, and the US (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

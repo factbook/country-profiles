@@ -71,7 +71,7 @@ _Internal (endorheic basin) drainage_: Lake Chad (2,497,738 sq km)<br>
 Lullemeden-Irhazer Aquifer System, Murzuk-Djado Basin, North Western Sahara Aquifer, Taoudeni-Tanezrouft Basin<br>
 
 **Population distribution**<br>
-the vast majority of the populace is found in the extreme northern part of the country along the Mediterranean Coast, as shown in this population distribution map<br>
+the vast majority of the populace is found in the extreme northern part of the country along the Mediterranean Coast<br>
 
 **Natural hazards**<br>
 mountainous areas subject to severe earthquakes; mudslides and floods in rainy season; droughts<br>
@@ -130,7 +130,7 @@ _female_: 29.4 years<br>
 -0.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the vast majority of the populace is found in the extreme northern part of the country along the Mediterranean Coast, as shown in this population distribution map<br>
+the vast majority of the populace is found in the extreme northern part of the country along the Mediterranean Coast<br>
 
 **Urbanization**<br>
 _urban population_: 75.3% of total population (2023)<br>
@@ -225,6 +225,11 @@ _Education expenditure (% national budget)_: 14.4% national budget (2024 est.)<b
 
 **Literacy**<br>
 _female_: 74.2% (2019 est.)<br>
+
+**School life expectancy (primary to tertiary education)**<br>
+_total_: 15 years (2023 est.)<br>
+_male_: 15 years (2023 est.)<br>
+_female_: 16 years (2023 est.)<br>
 
 ## Environment
 
@@ -663,13 +668,13 @@ the ANP is responsible for external defense but also has some internal security 
 ## Space
 
 **Space agency/agencies**<br>
-Algerian Space Agency (Agence Spatiale Alg&eacute;rienne, ASAL; established 2002) (2024)<br>
+Algerian Space Agency (Agence Spatiale Alg&eacute;rienne, ASAL; established 2002) (2025)<br>
 
 **Space launch site(s)**<br>
-none; note - in 1947, Algeria began hosting a French military rocket test site, which was the continent of Africa's first rocket launch site; it was called the Centre Interarm&eacute;es d&rsquo;Essais d&rsquo;Engins Sp&eacute;ciaux (CIEES or Interarmy Special Vehicles Test Center) and was in service until 1967<br>
+none; note - in 1947, Algeria began hosting a French military rocket test site known as&nbsp;&nbsp;the Centre Interarm&eacute;es d&rsquo;Essais d&rsquo;Engins Sp&eacute;ciaux (CIEES or Interarmy Special Vehicles Test Center); it was the continent of Africa's first rocket launch site and was in service until 1967<br>
 
 **Space program overview**<br>
-has a national space policy and space research program with stated goals of supporting internal development, managing resources, mastering space technology, and reinforcing national sovereignty; builds and operates communications and remote sensing (RS) satellites; researching and developing a range of space-related capabilities, including satellites and satellite payloads, communications, RS, instrumentation, satellite image processing, and geo-spatial information; has bilateral relationships with a variety of foreign space agencies and industries, including those of Argentina, China, France, Germany, India, Russia, Ukraine, and the UK; also a member of the Arab Space Coordination Group (2024)<br>
+has a national space policy and space research program with stated goals of supporting internal development, managing resources, mastering space technology, and reinforcing national sovereignty; builds and operates communications and remote sensing (RS) satellites; researching and developing a range of space-related capabilities, including satellites and satellite payloads, communications, RS, instrumentation, satellite image processing, and geo-spatial information; has bilateral relationships with a variety of foreign space agencies and industries, including those of Argentina, China, France, Germany, India, Russia, Slovenia, Ukraine, the UK, and other African countries; member of the African Space Agency and the Arab Space Coordination Group (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

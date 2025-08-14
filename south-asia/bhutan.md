@@ -205,9 +205,9 @@ _male_: 75% (2017 est.)<br>
 _female_: 57% (2017 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 13 years<br>
-_male_: 13 years<br>
-_female_: 13 years (2018)<br>
+_total_: 13 years (2022 est.)<br>
+_male_: 12 years (2022 est.)<br>
+_female_: 14 years (2022 est.)<br>
 
 ## Environment
 
@@ -610,15 +610,6 @@ the Royal Bhutan Army is lightly armed; it has a small amount of heavy equipment
 
 **Military - note**<br>
 the Army is responsible for external threats but also has some internal security functions such as conducting counterinsurgency operations, guarding forests, and providing security for prominent persons; Bhutan's closest security partner is India; under the 2007 India-Bhutan Friendship Treaty, both countries agreed to cooperate closely on issues relating to their national interests (2025)<br>
-
-## Space
-
-**Space agency/agencies**<br>
-announced in 2018 that it intends to establish a space agency, but has not yet done so; has a Division of Telecom and Space (DoTS) under the GovTech Agency (2024)<br>
-
-**Space program overview**<br>
-has a small, recently established program focused on acquiring satellites and developing the capabilities to manufacture satellites; cooperates with India and the US (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

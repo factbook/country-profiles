@@ -232,9 +232,9 @@ _male_: 97% (2020 est.)<br>
 _female_: 95% (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 14 years<br>
-_male_: 14 years<br>
-_female_: 14 years (2018)<br>
+_total_: 13 years (2023 est.)<br>
+_male_: 13 years (2023 est.)<br>
+_female_: 13 years (2023 est.)<br>
 
 **People - note**<br>
 Indonesia is the fourth most populous nation in the World after China, India, and the United States; more than half of the Indonesian population - roughly 150 million people or 55% - live on the island of Java (about the size of California) making it the most crowded island on earth<br>

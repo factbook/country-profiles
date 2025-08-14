@@ -237,9 +237,9 @@ _Education expenditure (% GDP)_: 5.4% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 14% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 16 years<br>
-_male_: 16 years<br>
-_female_: 17 years (2020)<br>
+_total_: 16 years (2022 est.)<br>
+_male_: 15 years (2022 est.)<br>
+_female_: 17 years (2022 est.)<br>
 
 ## Environment
 
@@ -687,7 +687,7 @@ the US military's inventory is comprised almost entirely of domestically produce
 the US has more than 200,000 air, ground, and naval personnel deployed overseas on a permanent or a long-term rotational (typically 3-9 months) basis; key areas of deployment include approximately 5,000 in Africa, approximately 80,000 in Europe, approximately 10-15,000 in Southwest Asia, and more than 80,000 in East Asia (2024)<br>
 
 **Military - note**<br>
-the US military's primary missions are to deter potential enemies, provide for the defense of the US, its Territories, Commonwealths and possessions, and any areas occupied by the US, and to protect US national interests; its responsibilities are worldwide and include providing humanitarian assistance, participating in international military exercises and operations, conducting military diplomacy, and fulfilling the US's alliance and treaty commitments; the US has been a leading member of NATO since the Alliance's formation in 1949; the military has a global presence; the separate services operate jointly under 11 regional- or functionally-based joint service "combatant" commands: Africa Command; Central Command, Cyber Command, European Command, Indo-Pacific Command, Northern Command, Southern Command, Space Command, Special Operations Command, Strategic Command, and Transportation Command<br><br>Congress officially created the US military in September 1789; the US Army was established in June 1775 as the Continental Army; after the declaration of independence in July 1776, the Continental Army and the militia in the service of Congress became known collectively as the Army of the United States; when Congress ordered the Continental Army to disband in 1784, it retained a small number of personnel that would form the nucleus of the 1st American Regiment for national service formed later that year; both the US Navy and the US Marines were also established in 1775, but the Navy fell into disuse after the Revolutionary War, and was reestablished by Congress in 1794; the first US military unit devoted exclusively to aviation began operations in 1913 as part of the US Army; the Army Air Corps (AAC) was the US military service dedicated to aerial warfare between 1926 and 1941; the AAC became the US Army Air Forces in 1941 and remained as a combat arm of the Army until the establishment of the US Air Force in 1947 (2024)<br>
+the US military's primary missions are to deter potential enemies, provide for the defense of the US, its Territories, Commonwealths and possessions, and any areas occupied by the US, and to protect US national interests; its responsibilities are worldwide and include providing humanitarian assistance, participating in international military exercises and operations, conducting military diplomacy, and fulfilling the US's alliance and treaty commitments; the US has been a leading member of NATO since the Alliance's formation in 1949; the military has a global presence; the separate services operate jointly under 11 regional- or functionally-based joint service "combatant" commands: Africa Command; Central Command, Cyber Command, European Command, Indo-Pacific Command, Northern Command, Southern Command, Space Command, Special Operations Command, Strategic Command, and Transportation Command<br><br>Congress officially created the US military in September 1789; the US Army was established in June 1775 as the Continental Army; after the declaration of independence in July 1776, the Continental Army and the militia in the service of Congress became known collectively as the Army of the United States; when Congress ordered the Continental Army to disband in 1784, it retained a small number of personnel that would form the nucleus of the 1st American Regiment for national service formed later that year; both the US Navy and the US Marines were also established in 1775, but the Navy fell into disuse after the Revolutionary War, and was reestablished by Congress in 1794; the first US military unit devoted exclusively to aviation began operations in 1913 as part of the US Army; the Army Air Corps (AAC) was the US military service dedicated to aerial warfare between 1926 and 1941; the AAC became the US Army Air Forces in 1941 and remained as a combat arm of the Army until the establishment of the US Air Force in 1947 (2025)<br>
 
 ## Space
 
@@ -705,7 +705,7 @@ has a large and comprehensive space program and is one of the world’s top spac
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Hizballah; Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); al-Qa'ida; Lashkar-e Tayyiba (LeT)<br>
+al-Qa'ida; Hizballah; Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); La Mara Salvatruche (MS-13); Lashkar-e Tayyiba (LeT); Tren de Aragua (TdA)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

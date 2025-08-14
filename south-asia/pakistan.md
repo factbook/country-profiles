@@ -238,9 +238,9 @@ _male_: 69.1% (2021 est.)<br>
 _female_: 48.5% (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 9 years<br>
-_male_: 9 years<br>
-_female_: 8 years (2019)<br>
+_total_: 8 years (2022 est.)<br>
+_male_: 8 years (2022 est.)<br>
+_female_: 7 years (2022 est.)<br>
 
 ## Environment
 
@@ -719,7 +719,7 @@ space program dates back to the early 1960s but funding shortfalls and shifts in
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Haqqani Network (HQN); Harakat ul-Jihad-i-Islami (HUJI); Harakat ul-Mujahidin; Hizbul Mujahideen;<strong> </strong>Indian Mujahedeen; Islamic State of Iraq and ash-Sham-Khorasan (ISIS-K); Islamic State of Iraq and ash-Sham – India (ISI); Islamic State of ash-Sham – Pakistan (ISP); Islamic Movement of Uzbekistan (IMU); Jaish-e-Mohammed (JeM); Jaysh al Adl (Jundallah); Lashkar i Jhangvi (LJ); Lashkar-e Tayyiba (LeT); Tehrik-e-Taliban Pakistan (TTP); al-Qa’ida; al-Qa’ida in the Indian Subcontinent (AQIS)<br>
+al-Qa’ida; al-Qa’ida in the Indian Subcontinent (AQIS); Haqqani Network (HQN); Harakat ul-Jihad-i-Islami (HUJI); Harakat ul-Mujahidin; Hizbul Mujahideen;<strong> </strong>Indian Mujahedeen; Islamic State of Iraq and ash-Sham-Khorasan (ISIS-K); Islamic State of Iraq and ash-Sham – India (ISI); Islamic State of ash-Sham – Pakistan (ISP); Islamic Movement of Uzbekistan (IMU); Jaish-e-Mohammed (JeM); Jaysh al Adl (Jundallah); Lashkar i Jhangvi (LJ); Lashkar-e Tayyiba (LeT); The Resistance Front (TRF); Tehrik-e-Taliban Pakistan (TTP) <br>
 <strong>note 1:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br><br><strong>note 2:</strong> the Balochistan Liberation Army (BLA), an armed separatist group that targets security forces and civilians, has been active in Pakistan since the 2000s, mainly in ethnic Baloch areas of the country; in 2019, the US designated BLA as Specially Designated Global Terrorists<br>
 
 ## Transnational Issues

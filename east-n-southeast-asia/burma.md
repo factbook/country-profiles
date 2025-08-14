@@ -237,9 +237,9 @@ _male_: 92% (2019 est.)<br>
 _female_: 86% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 11 years<br>
-_male_: 10 years<br>
-_female_: 11 years (2018)<br>
+_total_: 12 years (2018 est.)<br>
+_male_: 11 years (2018 est.)<br>
+_female_: 12 years (2018 est.)<br>
 
 ## Environment
 
@@ -333,7 +333,7 @@ _most recent election date_: 8 November 2020<br>
 _election results_: <em><br>2020:  </em>the National League for Democracy (NLD) won 396 seats across both houses -- well above the 322 required for a parliamentary majority -- but on 1 February 2021, the military claimed the results of the election were illegitimate and deposed State Counsellor AUNG SAN SUU KYI and President WIN MYINT of the NLD, causing military-affiliated Vice President MYINT SWE (USDP) to become acting president; MYINT SWE subsequently handed power to coup leader MIN AUNG HLAING; WIN MYINT and other key leaders of the ruling NLD party were placed under arrest after the military takeover<br><em><br>2018</em>: WIN MYINT elected president in an indirect by-election held on 28 March 2018 after the resignation of HTIN KYAW; Assembly of the Union vote for president - WIN MYINT (NLD) 403, MYINT SWE (USDP) 211, HENRY VAN THIO (NLD) 18, 4 votes canceled (636 votes cast)<br>
 _expected date of next election_: on 31 July 2025, the military government announced that it was preparing for elections to be held in December 2025<br>
 _state counsellor_: State Counselor AUNG SAN SUU KYI (since 6 April 2016); note - under arrest since 1 February 2021<br>
-<strong>note 1: </strong>on 31 July 2025, the military ended the state of emergency that had been in place since taking over the government in February 2021, dissolved the State Administrative Council (SAC) and replaced it with the National Security and Peace Commission (NSPC), chaired by Sr. Gen. MIN AUNG HLAING; the SAC had been the official name of the military government in Burma<br><br><strong>note 2: </strong>prior to the military takeover, the state counsellor served the equivalent term of the president and was similar to a prime minister<br>
+<strong>note 1: </strong>on 31 July 2025, the military ended the state of emergency that had been in place since taking over the government in February 2021, although martial law continues to exist in parts of the country; at the same time, the military dissolved the State Administrative Council (SAC), which had been the official name of the military government in Burma, and replaced it with the National Security and Peace Commission (NSPC), chaired by Sr. Gen. MIN AUNG HLAING, who also retains his position as chief of the armed forces<br><br><strong>note 2: </strong>prior to the military takeover, the state counsellor served the equivalent term of the president and was similar to a prime minister<br>
 
 **Legislative branch**<br>
 _legislature name_: Assembly of the Union (Pyidaungsu Hluttaw)<br>
@@ -384,9 +384,9 @@ chinthe (mythical lion)<br>
 yellow, green, red, white<br>
 
 **National anthem(s)**<br>
-_title_: "Kaba Ma Kyei" (Till the End of the World, Myanmar)<br>
+_title_: "Kaba Ma Kyei" (Till the End of the World)<br>
 _lyrics/music_: SAYA TIN<br>
-_history_: adopted 1948; the song begins with a traditional Burmese anthem before transitioning into a Western-style orchestrated work<br>
+_history_: adopted 1948<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>

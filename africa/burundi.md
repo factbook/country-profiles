@@ -228,9 +228,9 @@ _male_: 76% (2017 est.)<br>
 _female_: 61% (2017 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 11 years<br>
-_male_: 11 years<br>
-_female_: 11 years (2018)<br>
+_total_: 10 years (2018 est.)<br>
+_male_: 10 years (2018 est.)<br>
+_female_: 10 years (2018 est.)<br>
 
 ## Environment
 
@@ -317,7 +317,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Evariste NDAYISHIMIYE (since 18 June 2020)<br>
-_head of government_: Prime Minister Gervais NDIRAKOBUCA (since 7 September 2022)<br>
+_head of government_: Prime Minister Nestor NTAHONTUYE (since 5 August 2025)               <br><br><br> <br><br>
 _cabinet_: Council of Ministers appointed by president<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 7-year term (eligible for a second term); vice presidents nominated by the president, endorsed by Parliament<br>
 _most recent election date_: 20 May 2020<br>

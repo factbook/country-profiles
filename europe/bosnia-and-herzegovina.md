@@ -214,9 +214,9 @@ _Education expenditure (% GDP)_: 3% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 10.4% national budget (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 14 years<br>
-_male_: 14 years<br>
-_female_: 15 years (2014)<br>
+_total_: 14 years (2023 est.)<br>
+_male_: 14 years (2023 est.)<br>
+_female_: 15 years (2023 est.)<br>
 
 ## Environment
 
@@ -387,7 +387,7 @@ blue, yellow, white<br>
 **National anthem(s)**<br>
 _title_: "Drzavna himna Bosne i Hercegovine" (The National Anthem of Bosnia and Herzegovina)<br>
 _lyrics/music_: none officially/Dusan SESTIC<br>
-_history_: music adopted 1999; lyrics proposed in 2008 and 2016 were not approved<br>
+_history_: music adopted 1999; lyrics proposed in 2009 were accepted by a parliamentary commission, but await official adoption, so the anthem still remains officially wordless<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>

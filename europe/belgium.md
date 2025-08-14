@@ -223,9 +223,9 @@ _Education expenditure (% GDP)_: 6.4% of GDP (2021 est.)<br>
 _Education expenditure (% national budget)_: 11.3% national budget (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 19 years<br>
-_male_: 18 years<br>
-_female_: 20 years (2020)<br>
+_total_: 19 years (2022 est.)<br>
+_male_: 18 years (2022 est.)<br>
+_female_: 20 years (2022 est.)<br>
 
 ## Environment
 
@@ -293,7 +293,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the name is of Germanic origin, from <em>broca </em>(marsh) and <em>sali </em>(room or building)<br>
 
 **Administrative divisions**<br>
-3 regions (French: <em>régions</em>, singular - <em>région</em>; Dutch: <em>gewesten</em>, singular - <em>gewest</em>); Brussels-Capital Region, also known as Brussels Hoofdstedelijk Gewest (Dutch), Region de Bruxelles-Capitale (French long form), Bruxelles-Capitale (French short form); Flemish Region (Flanders), also known as Vlaams Gewest (Dutch long form), Vlaanderen (Dutch short form), Region Flamande (French long form), Flandre (French short form); Walloon Region (Wallonia), also known as Region Wallone (French long form), Wallonie (French short form), Waals Gewest (Dutch long form), Wallonie (Dutch short form)<br>
+3 regions (French: <em>régions</em>, singular - <em>région</em>; Dutch: <em>gewesten</em>, singular - <em>gewest</em>); Brussels-Capital Region, also known as Brussels Hoofdstedelijk Gewest (Dutch), Region de Bruxelles-Capitale (French long form), Bruxelles-Capitale (French short form); Flemish Region (Flanders), also known as Vlaams Gewest (Dutch long form), Vlaanderen (Dutch short form), Région Flamande (French long form), Flandre (French short form); Walloon Region (Wallonia), also known as Région Wallonne (French long form), Wallonie (French short form), Waals Gewest (Dutch long form), Wallonie (Dutch short form)<br>
 <strong>note:</strong> as a result of the 1993 constitutional revision that furthered devolution into a federal state, there are now three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; the 2012 sixth state reform transferred additional competencies from the federal state to the regions and linguistic communities<br>
 
 **Legal system**<br>
@@ -391,7 +391,7 @@ red, black, yellow<br>
 **National anthem(s)**<br>
 _title_: "La Braban&ccedil;onne" (The Song of Brabant)<br>
 _lyrics/music_: Louis-Alexandre DECHET [French] and Victor CEULEMANS [Dutch]/Francois VAN CAMPENHOUT<br>
-_history_: adopted 1830; according to legend, Louis-Alexandre DECHET, an actor at the theater where the revolution against the Netherlands began, wrote the lyrics with a group of young people in a Brussels cafe<br>
+_history_: adopted 1830; according to legend Louis-Alexandre DECHET, an actor at the theater where the revolution against the Netherlands began, wrote the lyrics with a group of young people in a Brussels cafe<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 16 (15 cultural, 1 natural)<br>
@@ -690,10 +690,10 @@ the Belgian military's responsibilities include territorial defense, humanitaria
 ## Space
 
 **Space agency/agencies**<br>
-Royal Belgian Institute for Space Aeronomy-Interfederal Space Agency of Belgium (BIRA-IASB; established 1964; IASB added 2017); Belgium Federal Science Policy Office (BELSPO) (2024)<br>
+Royal Belgian Institute for Space Aeronomy-Interfederal Space Agency of Belgium (BIRA-IASB; established 1964; IASB added 2017); Belgium Federal Science Policy Office (BELSPO) (2025)<br>
 
 **Space program overview**<br>
-founding member of the European Space Agency (ESA), which acts as the de facto Belgian space agency; builds satellites, particularly research/science/technology and remote sensing (RS) platforms; researches, develops, and produces a wide variety of space technologies, including telecommunications, optics, robotics, scientific instruments, and space launch vehicle (SLV) components; provides funding for the ESA’s SLV program, as well as legal, scientific, and technological expertise; hosts the European Space Security and Education Center (established 1968); participates in international astronomy efforts, particularly through the European Southern Observatory (ESO); in addition to the ESA members, has cooperated with a variety foreign space agencies and commercial entities, including those of Argentina, China, India, Russia, South Africa, UAE, Vietnam, and the US (2024)<br>
+founding member of the European Space Agency (ESA), which acts as the de facto Belgian space agency; builds satellites, particularly research/science/technology and remote sensing platforms; researches, develops, and produces a wide variety of space technologies, including telecommunications, optics, robotics, scientific instruments, and space launch vehicle (SLV) components; provides funding for the ESA’s SLV program, as well as legal, scientific, and technological expertise; works closely with the EU on space; hosts the European Space Security and Education Center (established 1968); participates in international astronomy efforts, particularly through the European Southern Observatory (ESO); in addition to the ESA, EU, and their members states, has cooperated bi-laterally with a variety foreign space agencies and commercial entities, including those of Argentina, China, India, Russia, South Africa, UAE, Vietnam, and the US (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

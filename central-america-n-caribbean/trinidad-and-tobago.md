@@ -615,6 +615,11 @@ the TTDF's ground force inventory consists of light weapons, while the Coast Gua
 **Military - note**<br>
 the primary responsibilities of the Trinidad and Tobago Defense Force (TTDF) are conducting border and maritime security, assisting civil authorities in times of crisis or disaster, providing search and rescue services, port security, and supporting civil law enforcement, particularly in countering gang-related crime and trafficking of narcotics and other illicit goods; the Police Service maintains internal security (2025)<br>
 
+## Terrorism
+
+**Terrorist group(s)**<br>
+Tren de Aragua (TdA)<br>
+
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>

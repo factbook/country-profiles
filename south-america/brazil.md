@@ -232,9 +232,9 @@ _male_: 93% (2018 est.)<br>
 _female_: 93% (2018 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 16 years<br>
-_male_: 15 years<br>
-_female_: 16 years (2020)<br>
+_total_: 16 years (2022 est.)<br>
+_male_: 15 years (2022 est.)<br>
+_female_: 17 years (2022 est.)<br>
 
 ## Environment
 
@@ -729,7 +729,7 @@ has an active program with a long history; develops, builds, operates, and track
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Hizballah<br>
+Hizballah; Tren de Aragua (TdA)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

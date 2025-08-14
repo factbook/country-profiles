@@ -230,9 +230,9 @@ _male_: 88.4% (2022 est.)<br>
 _female_: 78.6% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 11 years<br>
-_male_: 11 years<br>
-_female_: 10 years (2019)<br>
+_total_: 11 years (2023 est.)<br>
+_male_: 10 years (2023 est.)<br>
+_female_: 11 years (2023 est.)<br>
 
 ## Environment
 
@@ -678,6 +678,12 @@ all male citizens 18-50 are eligible for military service; most of the force is 
 
 **Military - note**<br>
 the military is responsible for maintaining the independence, sovereignty, territorial integrity, and the honor of Guatemala, but has long focused on internal security; since the 2000s, the Guatemalan Government has used the military to support the National Civil Police in internal security operations (as permitted by the constitution) to combat organized crime, gang violence, and narco-trafficking; other responsibilities include border security, cybersecurity, and providing humanitarian assistance; it also participates in UN missions on a small scale and has a peacekeeping operations training command that offers training to regional countries; the military has security ties with regional partners such as Brazil, Colombia, El Salvador, and Honduras; cooperation with El Salvador and Honduras has included a combined police-military anti-gang task force to patrol border areas; it also has ties with the US, including joint training exercises and material assistance<br><br>the military held power during most of Guatemala’s 36-year civil war (1960-1996) and conducted a campaign of widespread violence and repression, particularly against the country’s majority indigenous population; more than 200,000 people were estimated to have been killed or disappeared during the conflict (2025)<br>
+
+## Terrorism
+
+**Terrorist group(s)**<br>
+La Mara Salvatrucha (MS-13)<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

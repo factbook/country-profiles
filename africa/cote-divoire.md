@@ -230,9 +230,9 @@ _male_: 60.2% (2021 est.)<br>
 _female_: 40.3% (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 11 years<br>
-_male_: 11 years<br>
-_female_: 10 years (2020)<br>
+_total_: 11 years (2023 est.)<br>
+_male_: 11 years (2023 est.)<br>
+_female_: 11 years (2023 est.)<br>
 
 ## Environment
 
@@ -673,7 +673,7 @@ the inventory of the FACI consists mostly of older or second-hand equipment, typ
 180 Central African Republic (MINUSCA) (2024)<br>
 
 **Military - note**<br>
-the military (FACI) is responsible for external defense but also has a considerable internal role supporting the National Gendarmerie and other internal security forces; the operational focus of the FACI is the threat posed by Islamic militants associated with the al-Qa’ida in the Islamic Maghreb (AQIM) terrorist group operating across the border in Burkina Faso and Mali; AQIM militants conducted significant attacks in the country in 2016 and 2020; Côte d’Ivoire since 2016 has stepped up border security and completed building a joint counter-terrorism training center with France near Abidjan in 2020; Cote d'Ivoire has long maintained a close security relationship with France <br><br>the FACI has mutinied several times since the late 1990s, most recently in 2017, and has had a large role in the country’s political turmoil; it was established in 1960 from home defense units the French colonial government began standing up in 1950 (2025)<br>
+the military (FACI) is responsible for external defense but also has a considerable internal role supporting the National Gendarmerie and other internal security forces; key areas of focus for the FACI are the country's porous international borders and the threat posed by Islamic militants associated with the al-Qa’ida in the Islamic Maghreb (AQIM) terrorist group operating across the border in Burkina Faso and Mali; AQIM militants conducted attacks in the country in 2016 and 2020; Côte d’Ivoire since 2016 has stepped up border security and completed building a joint counter-terrorism training center with France near Abidjan in 2020; Cote d'Ivoire has long maintained a close security relationship with France <br><br>the FACI has mutinied several times since the late 1990s, most recently in 2017, and has had a large role in the country’s political turmoil; it was established in 1960 from home defense units the French colonial government began standing up in 1950 (2025)<br>
 
 ## Space
 

@@ -235,9 +235,9 @@ _male_: 79.7% (2018 est.)<br>
 _female_: 66.2% (2018 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 12 years<br>
-_male_: 13 years<br>
-_female_: 11 years (2016)<br>
+_total_: 11 years (2023 est.)<br>
+_male_: 12 years (2023 est.)<br>
+_female_: 10 years (2023 est.)<br>
 
 ## Environment
 
@@ -401,7 +401,7 @@ green, red, yellow<br>
 **National anthem(s)**<br>
 _title_: "O Cameroun, Berceau de Nos Anc&ecirc;tres" (O Cameroon, Cradle of Our Forefathers)<br>
 _lyrics/music_: Rene Djam AFAME, Samuel Minkio BAMBA, Moise Nyatte NKO'O [French], Benard Nsokika FONLON [English]/Rene Djam AFAME<br>
-_history_: adopted 1957; the anthem, also known as "Le Chant de Ralliement" (The Rallying Song), has been used unofficially since 1948; has French and English versions with different lyrics<br>
+_history_: adopted 1957; lyrics were changed slightly to the current version in 1978<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both natural)<br>

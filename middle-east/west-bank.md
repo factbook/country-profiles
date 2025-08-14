@@ -211,9 +211,9 @@ _female_: 97% (2022 est.)<br>
 <strong>note:</strong> estimates are for Gaza and the West Bank<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 13 years<br>
-_male_: 12 years<br>
-_female_: 14 years (2021)<br>
+_total_: 13 years (2023 est.)<br>
+_male_: 12 years (2023 est.)<br>
+_female_: 14 years (2023 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 ## Environment
@@ -503,7 +503,7 @@ the PA police and security forces have approximately 28,000 active personnel, in
 the security services are lightly equipped with small arms, light weapons, and wheeled vehicles (2024)<br>
 
 **Military - note**<br>
-Palestinian Authority security forces maintain security control of 17.5% (called Area A) of the West Bank, as agreed by the Palestine Liberation Organization and Israel in the Oslo Accords; Israeli security forces maintain responsibility for the remaining 82.5% of the West Bank, including Area B (22.5%), where the Palestinian Authority has administrative control, and Area C (60%), where Israel maintains administrative control (2023)<br>
+Palestinian Authority security forces maintain security control of 17.5% (called Area A) of the West Bank, as agreed by the Palestine Liberation Organization and Israel in the Oslo Accords, although Israeli security forces frequently conducted security operations there; Israeli security forces maintain responsibility for the remaining 82.5% of the West Bank, including Area B (22.5%), where the Palestinian Authority has administrative control, and Area C (60%), where Israel maintains administrative control (2024)<br>
 
 ## Terrorism
 

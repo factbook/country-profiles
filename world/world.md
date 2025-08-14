@@ -190,11 +190,6 @@ _women married by age 15_: 4.3% (2023)<br>
 _women married by age 18_: 18.7% (2023)<br>
 _men married by age 18_: 2.7% (2022)<br>
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 13 years<br>
-_male_: 13 years<br>
-_female_: 13 years (2020)<br>
-
 ## Environment
 
 **Environmental issues**<br>
@@ -473,14 +468,14 @@ _by type_: bulk carrier 13,141, container ship 5,815, general cargo 19,918, oil 
 2.3% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 20 million active-duty military personnel worldwide (2023)<br>
+approximately 20 million active-duty military personnel worldwide (2025)<br>
 <strong>note:</strong> the largest militaries in the world based on personnel numbers belong to China, India, the US, North Korea, and Russia<br>
 
 **Military equipment inventories and acquisitions**<br>
 the US is the world's leading arms exporter (2024)<br>
 
 **Military deployments**<br>
-as of August 2024, there were approximately 68,000 personnel deployed on UN peacekeeping missions worldwide (2024)<br>
+as of mid-2025, there were approximately 68,000 personnel deployed on UN peacekeeping missions worldwide (2025)<br>
 
 ## Space
 

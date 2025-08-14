@@ -233,7 +233,7 @@ a circle of 12 five-pointed golden-yellow stars on a blue field<br>
 blue, yellow<br>
 
 **National anthem(s)**<br>
-_title_: "Ode to Joy"<br>
+_title_: "European Anthem" (Ode to Joy)<br>
 _lyrics/music_: no lyrics/Ludwig VAN BEETHOVEN, arranged by Herbert VON KARAJAN<br>
 _history_: adopted 1985; the anthem is meant to represent all of Europe rather than just the organization, conveying the ideals of peace, freedom, and unity<br>
 

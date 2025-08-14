@@ -223,9 +223,9 @@ _male_: 77.9% (2021 est.)<br>
 _female_: 71.8% (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 10 years<br>
-_male_: 10 years<br>
-_female_: 10 years (2018)<br>
+_total_: 9 years (2019 est.)<br>
+_male_: 9 years (2019 est.)<br>
+_female_: 9 years (2019 est.)<br>
 
 ## Environment
 

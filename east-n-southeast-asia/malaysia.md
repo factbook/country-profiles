@@ -218,9 +218,9 @@ _male_: 97% (2022 est.)<br>
 _female_: 95% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 13 years<br>
-_male_: 13 years<br>
-_female_: 14 years (2020)<br>
+_total_: 12 years (2023 est.)<br>
+_male_: 11 years (2023 est.)<br>
+_female_: 12 years (2023 est.)<br>
 
 ## Environment
 

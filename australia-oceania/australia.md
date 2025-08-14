@@ -231,9 +231,9 @@ _Education expenditure (% GDP)_: 5.2% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 13.9% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 21 years<br>
-_male_: 20 years<br>
-_female_: 22 years (2020)<br>
+_total_: 21 years (2023 est.)<br>
+_male_: 20 years (2023 est.)<br>
+_female_: 21 years (2023 est.)<br>
 
 ## Environment
 
@@ -403,7 +403,7 @@ King George V of the United Kingdom granted the current Commonwealth Coat of Arm
 **National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
-_history_: <p>royal anthem, as a Commonwealth country</p><br>
+_history_: royal anthem, as a Commonwealth country<br>
 <strong>note:</strong> the well-known and much-loved bush ballad "Waltzing Matilda" is often referred to as Australia's unofficial national anthem; Australian poet Banjo PATERSON wrote the original lyrics in 1895, and they were first published as sheet music in 1903; since 2012, a Waltzing Matilda Day has been held annually on 6 April, the anniversary of the first performance of the song in 1895<br>
 
 **National heritage**<br>
@@ -697,13 +697,13 @@ the ADF's missions include protecting Australia’s borders and maritime interes
 ## Space
 
 **Space agency/agencies**<br>
-Australian Space Agency (ASA; established 2018; headquarters opened in 2020); Defense Space Command (established 2022) (2024)<br>
+Australian Space Agency (ASA; established 2018; headquarters opened in 2020); Defense Space Command (established 2022) (2025)<br>
 
 **Space launch site(s)**<br>
-Whalers Way Orbital Launch Complex (commercial site, South Australia); Arnhem Space Center (commercial site, Northern Territory) (2024)<br>
+Whalers Way Orbital Launch Complex (commercial site, South Australia); Arnhem Space Center (commercial site, Northern Territory); Bown Orbital Spaceport (commercial site, North Queensland) (2025)<br>
 
 **Space program overview**<br>
-has a long history of involvement in space-related activities, including astronomy, rockets, satellites, and space tracking; develops, builds, operates, and tracks satellites, including communications, remote sensing (RS), navigational, and scientific/testing/research, often in partnership with other countries; develops other space technologies, including communications, RS capabilities, and telescopes; encouraging growth in domestic commercial space-industry sector; cooperates with a variety of foreign space agencies and industries, including those of China, the European Space Agency (ESA), individual ESA member states, India, Japan, New Zealand, South Korea, the UK, and the US; co-leads the Global Earth Observation System of Systems (2024)<br>
+has a long history of involvement in space-related activities, including astronomy, rockets, satellites, and space tracking; develops, builds, operates, and tracks satellites, including communications, remote sensing (RS), navigational, and scientific/testing/research, often in partnership with other countries; develops other space technologies, including communications, RS capabilities, and telescopes; encouraging growth in domestic commercial space-industry sector, including satellite launch vehicles; cooperates with a variety of foreign space agencies and industries, including those of China, the European Space Agency (ESA), individual ESA member states, India, Japan, New Zealand, South Korea, the UK, and the US; co-leads the Global Earth Observation System of Systems (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

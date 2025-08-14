@@ -221,9 +221,9 @@ _Education expenditure (% GDP)_: 6.5% of GDP (2021 est.)<br>
 _Education expenditure (% national budget)_: 10.2% national budget (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 19 years<br>
-_male_: 18 years<br>
-_female_: 20 years (2020)<br>
+_total_: 20 years (2023 est.)<br>
+_male_: 18 years (2023 est.)<br>
+_female_: 21 years (2023 est.)<br>
 
 ## Environment
 
@@ -378,7 +378,7 @@ blue, white<br>
 
 **National anthem(s)**<br>
 _title_: "Maamme" (Our Land)<br>
-_lyrics/music_: Johan Ludvig RUNEBERG/Fredrik PACIUS<br>
+_lyrics/music_: Paavo Eemil KAJANDER, Johan Ludvig RUNEBERG/Fredrik PACIUS<br>
 _history_: in use since 1848; although never officially adopted, the anthem has been popular since a student group first sang it in 1848<br>
 
 **National heritage**<br>

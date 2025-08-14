@@ -232,9 +232,9 @@ _male_: 100% (2022 est.)<br>
 _female_: 100% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 12 years<br>
-_male_: 12 years<br>
-_female_: 12 years (2021)<br>
+_total_: 13 years (2024 est.)<br>
+_male_: 13 years (2024 est.)<br>
+_female_: 13 years (2024 est.)<br>
 
 ## Environment
 
@@ -669,7 +669,7 @@ the Uzbek Armed Forces use mainly Russian or Soviet-era weapons and equipment wi
 <strong>note:</strong> Uzbek citizens who have completed their service terms in the armed forces have privileges in employment and admission to higher educational institutions<br>
 
 **Military - note**<br>
-the military’s primary concerns and responsibilities are border security, ensuring the country’s sovereignty and territorial integrity, instability in neighboring countries, and terrorism; the military is equipped largely with Soviet-era arms, and its units are based on Soviet Army formations that were in the territory of Uzbekistan when the USSR collapsed in 1991; the armed forces were established in January 1992 when Uzbekistan assumed jurisdiction over all former Soviet ground, air, and air defense units, formations, and installations then deployed on its soil; the building hosting the headquarters for the ex-Soviet Turkestan Military District became the headquarters for the Uzbek armed forces; all former Soviet troops departed Uzbekistan by 1995<br><br>Uzbekistan joined the Russian-sponsored Collective Security Treaty Organization (CSTO) in the 1990s but withdrew in 1999; it returned in 2006 but left again in 2012; although it is not part of CSTO, Uzbekistan continues to maintain defense ties with Russia, including joint military exercises and defense industrial cooperation; it also has defense ties with other regional countries, including India, Pakistan, and Turkey; it is part of the Shanghai Cooperation Organization (SCO) and participates in SCO training exercises (2023)<br>
+the military&rsquo;s responsibilities include ensuring the country&rsquo;s sovereignty and territorial integrity, securing its borders, and assisting with internal security; regional security and international terrorism are areas of concern; Uzbekistan joined the Russian-sponsored Collective Security Treaty Organization (CSTO) in the 1990s but withdrew in 1999; it returned in 2006 but left again in 2012; although not part of CSTO, Uzbekistan continues to maintain defense ties with Russia, including joint military exercises and defense industrial cooperation; it also has defense ties with other regional countries, including Azerbaijan, China, India, Kazakhstan, Pakistan, and Turkey; it is part of the Shanghai Cooperation Organization (SCO) and participates in SCO training exercises (2025)<br>
 
 ## Space
 

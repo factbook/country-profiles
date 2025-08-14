@@ -221,7 +221,7 @@ _male_: 95% (2018 est.)<br>
 _female_: 90% (2018 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 11 years<br>
+_total_: 11 years (2023 est.)<br>
 _male_: 12 years<br>
 _female_: 11 years (2014)<br>
 
@@ -648,7 +648,7 @@ the primary responsibilities of the Lebanese Armed Forces (LAF) are defense agai
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; HAMAS; Hizballah; Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); Hay'at Tahrir al-Sham (HTS; al-Nusrah Front); Palestine Liberation Front (PLF); Popular Front for the Liberation of Palestine (PFLP); PFLP-General Command (PFLP-GC)<br>
+Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; HAMAS; Hizballah; Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); Palestine Liberation Front (PLF); Popular Front for the Liberation of Palestine (PFLP); PFLP-General Command (PFLP-GC)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

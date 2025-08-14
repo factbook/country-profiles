@@ -222,9 +222,9 @@ _Education expenditure (% GDP)_: 3.9% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 9.4% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 14 years<br>
-_male_: 13 years<br>
-_female_: 14 years (2020)<br>
+_total_: 15 years (2023 est.)<br>
+_male_: 15 years (2023 est.)<br>
+_female_: 16 years (2023 est.)<br>
 
 ## Environment
 
@@ -378,8 +378,8 @@ white, green, red<br>
 Bulgaria&rsquo;s coat of arms in the national colors of white, green, and red was adopted in 1997; the three lions are a national symbol for strength, courage, and leadership that was used during the country&rsquo;s liberation movement in the 1870s and the kingdom period in the early 20th century; above the shield is the crown of Bulgaria (originally the crown of the medieval Bulgarian tsars) with a gold cross on top; a white scroll over the oak branches bears the Bulgarian national motto, &ldquo;United we stand strong&rdquo;<br>
 
 **National anthem(s)**<br>
-_title_: "Mila Rodino" (Dear Homeland)<br>
-_lyrics/music_: Tsvetan Tsvetkov RADOSLAVOV<br>
+_title_: &ldquo;Mila Rodino&rdquo; (Dear Homeland)<br>
+_lyrics/music_: Tsvetan RADOSLAVOV<br>
 _history_: adopted 1964; composed in 1885 by a student en route to fight in the Serbo-Bulgarian War<br>
 
 **National heritage**<br>

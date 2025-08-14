@@ -237,9 +237,9 @@ _male_: 46% (2018 est.)<br>
 _female_: 26% (2018 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 7 years<br>
-_male_: 8 years<br>
-_female_: 7 years (2017)<br>
+_total_: 7 years (2017 est.)<br>
+_male_: 8 years (2017 est.)<br>
+_female_: 6 years (2017 est.)<br>
 
 ## Environment
 
@@ -632,7 +632,7 @@ Malian Armed Forces (Forces Armées Maliennes or FAMa): Army (l’Armée de Terr
 information varies; estimated 35-40,000 active FAMa, Gendarmerie, and National Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAMa's inventory includes a large amount of Soviet-era weapons and equipment along with smaller quantities of secondhand and some more modern material from a variety of other countries, including China, Czechia, France, Russia, Turkey, and the UAE (2024)<br>
+the FAMa's inventory includes mostly Soviet-era weapons and equipment along with smaller quantities of secondhand and some more modern material from a variety of other countries, including China, Czechia, France, Russia, Turkey, and the UAE (2025)<br>
 
 **Military service age and obligation**<br>
 18 years of age for men and women for selective compulsory and voluntary military service; 24-month compulsory service obligation (2023)<br>

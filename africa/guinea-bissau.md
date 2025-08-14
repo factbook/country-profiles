@@ -301,7 +301,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Umaro Sissoco EMBALO (since 27 February 2020)<br>
-_head of government_: Prime Minister Rui Duarte DE BARROS (since 20 December 2023)<br>
+_head of government_: Prime Minister Braima CAMARA (since 7 August 2025)<br><br><br> <br>
 _cabinet_: Cabinet nominated by the prime minister, appointed by the president<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for up to 2 consecutive 5-year terms; prime minister appointed by the president after consultation with party leaders in the National People's Assembly<br>
 _most recent election date_: 24 November 2019, with a runoff on 29 December 2019<br>

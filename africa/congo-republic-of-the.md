@@ -223,11 +223,6 @@ _men married by age 18_: 5.6% (2018 est.)<br>
 _Education expenditure (% GDP)_: 3.3% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 14.7% national budget (2023 est.)<br>
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 11 years<br>
-_male_: 11 years<br>
-_female_: 11 years (2012)<br>
-
 ## Environment
 
 **Environmental issues**<br>

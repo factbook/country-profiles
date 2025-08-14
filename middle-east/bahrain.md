@@ -211,9 +211,9 @@ _male_: 99% (2023 est.)<br>
 _female_: 96% (2023 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 16 years<br>
-_male_: 16 years<br>
-_female_: 17 years (2019)<br>
+_total_: 16 years (2023 est.)<br>
+_male_: 15 years (2023 est.)<br>
+_female_: 17 years (2023 est.)<br>
 
 ## Environment
 
@@ -643,10 +643,10 @@ the military's inventory consists of a mix of equipment acquired from a wide var
 ## Space
 
 **Space agency/agencies**<br>
-Bahrain National Space Science Agency (NSSA; established 2014) (2024)<br>
+Bahrain Space Agency (BSA; established 2014) (2025)<br>
 
 **Space program overview**<br>
-has a space program in nascent stages and is developing the capabilities to build and operate satellites; the mission includes 1.) promoting space science, technology, and research, 2.) building capacity in the fields of satellite manufacturing, tracking, control, data processing and analysis, and remote sensing, 3.) developing space-related programs and space policy, and 4.) facilitating international cooperation; cooperates with a variety of foreign agencies and commercial entities, including those of India, Italy, Japan, Saudi Arabia, the UK, the UAE, and the US; also a member of the Arab Space Coordination Group (2024)<br>
+has a national space program with a focus on promoting space research and science, applying space-related technologies, and building capacity in the fields of satellite manufacturing, tracking, control, data processing and analysis, and remote sensing; cooperates with a variety of foreign agencies and commercial entities, including those of India, Italy, Japan, Oman, Saudi Arabia, the UK, the UAE, and the US; also a member of the Arab Space Coordination Group (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

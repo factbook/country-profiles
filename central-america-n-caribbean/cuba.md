@@ -225,9 +225,9 @@ _male_: 99% (2019 est.)<br>
 _female_: 96.4% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 14 years<br>
-_male_: 13 years<br>
-_female_: 15 years (2021)<br>
+_total_: 14 years (2023 est.)<br>
+_male_: 13 years (2023 est.)<br>
+_female_: 15 years (2023 est.)<br>
 
 **People - note**<br>
 illicit emigration is a continuing problem; Cubans attempt to depart the island and enter the US using homemade rafts, alien smugglers, direct flights, or falsified visas; Cubans also use non-maritime routes to enter the US including direct flights to Miami and overland via the southwest border; the number of Cubans migrating to the US surged after the announcement of normalization of US-Cuban relations in late December 2014 but has decreased since the end of the so-called "wet-foot, dry-foot" policy on 12 January 2017<br>

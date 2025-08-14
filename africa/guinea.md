@@ -223,9 +223,9 @@ _male_: 54% (2018 est.)<br>
 _female_: 28% (2018 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 9 years<br>
-_male_: 10 years<br>
-_female_: 8 years (2014)<br>
+_total_: 9 years (2021 est.)<br>
+_male_: 9 years (2021 est.)<br>
+_female_: 8 years (2021 est.)<br>
 
 ## Environment
 
@@ -637,7 +637,7 @@ the Guinean military's inventory consists almost entirely of Soviet-era weapons 
 18 years of age for voluntary and selective conscripted service; 9-12 months of service (2023)<br>
 
 **Military - note**<br>
-the Guinean military is responsible for territorial defense, but also has some domestic security responsibilities and has historically been involved in suppressing public protests; in 2021 the Army&rsquo;s special forces led a military overthrow of the government; the military-led government has since been accused of cracking down on dissent, the media, and political opposition (2025)<br>
+the Guinean military is responsible for territorial defense, but also has some domestic security responsibilities and has historically been involved in suppressing public protests; in 2021 the Army&rsquo;s special forces led a military overthrow of the government; the military-led government has since been accused of cracking down on dissent, the media, and political opposition; border security is a key focus for the Guinean military, particularly a territorial dispute with Sierra Leone that dates back to 2001 (2025)<br>
 
 ## Transnational Issues
 

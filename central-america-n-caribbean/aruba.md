@@ -177,11 +177,6 @@ _unimproved: total_: total: 2.3% of population (2015 est.)<br>
 _Education expenditure (% GDP)_: 3.6% of GDP (2021 est.)<br>
 _Education expenditure (% national budget)_: 19.4% national budget (2019 est.)<br>
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 14 years<br>
-_male_: 13 years<br>
-_female_: 14 years (2012)<br>
-
 ## Environment
 
 **Environmental issues**<br>
@@ -274,7 +269,7 @@ _judge selection and term of office_: Joint Court judges appointed for life by t
 _subordinate courts_: &nbsp;Court in First Instance<br>
 
 **Political parties**<br>
-<p>Accion21<br>Aruban People's Party or AVP<br>Democratic Network or RED<br>FUTURO<br>Movimiento Aruba Soberano (Aruban Sovereignty Movement) or MAS<br>Partido Patriotico di Aruba (Aruban Patriotic Party) or APP<br>People's Electoral Movement Party or MEP<br>Pueblo Orguyoso y Respeta or POR<br>RAIZ (ROOTS)</p><br>
+Accion21<br>Aruban People's Party or AVP<br>Democratic Network or RED<br>FUTURO<br>Movimiento Aruba Soberano (Aruban Sovereignty Movement) or MAS<br>Partido Patriotico di Aruba (Aruban Patriotic Party) or APP<br>People's Electoral Movement Party or MEP<br>Pueblo Orguyoso y Respeta or POR<br>RAIZ (ROOTS)<br>
 
 **Diplomatic representation in the US**<br>
 none (represented by the Kingdom of the Netherlands)<br>
@@ -301,7 +296,7 @@ Hooiberg (Haystack) Hill<br>
 blue, yellow, red, white<br>
 
 **National anthem(s)**<br>
-_title_: "Het Wilhelmus"<br>
+_title_: &ldquo;Het Wilhelmus&rdquo;<br>
 _lyrics/music_: Philips VAN MARNIX van Sint Aldegonde (presumed)/unknown<br>
 _history_: official anthem, as part of the Kingdom of the Netherlands<br>
 

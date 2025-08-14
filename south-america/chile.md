@@ -220,9 +220,9 @@ _male_: 96% (2017 est.)<br>
 _female_: 96% (2017 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 17 years<br>
-_male_: 16 years<br>
-_female_: 17 years (2020)<br>
+_total_: 17 years (2023 est.)<br>
+_male_: 17 years (2023 est.)<br>
+_female_: 17 years (2023 est.)<br>
 
 ## Environment
 
@@ -688,6 +688,12 @@ the Chilean Space Agency was established in 2001 and dissolved in 2014, at which
 **Space program overview**<br>
 has a space program with a considerable history, now largely focused on the acquisition and operation of satellites; operates foreign-built satellites and satellite ground stations; building small remote sensing (RS) satellites; researching and developing additional capabilities and technologies for the production of satellites and satellite sub-systems; is a world leader in astronomy and astrophysics; the Atacama Desert is home to more than a dozen astronomical observatories, including the Cerro Tololo Inter-American Observatory, the Las Campanas Observatory, and the European Southern Observatory; Chile is also home to several astronomy institutes; has established relations with space agencies and industries of Canada, China, France, India, Israel, Mexico, Russia, the UK, and the US (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+
+## Terrorism
+
+**Terrorist group(s)**<br>
+Tren de Aragua (TdA)<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

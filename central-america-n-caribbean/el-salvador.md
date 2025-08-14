@@ -222,9 +222,9 @@ _male_: 92% (2023 est.)<br>
 _female_: 88% (2023 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 12 years<br>
-_male_: 12 years<br>
-_female_: 12 years (2018)<br>
+_total_: 11 years (2023 est.)<br>
+_male_: 11 years (2023 est.)<br>
+_female_: 12 years (2023 est.)<br>
 
 ## Environment
 
@@ -651,6 +651,12 @@ the FAES is lightly armed with an inventory of mostly older imported arms and eq
 
 **Military - note**<br>
 the Armed Force of El Salvador (FAES) is responsible for defending national sovereignty and ensuring territorial integrity but also has considerable domestic security responsibilities; while the National Civil Police (PNC) are responsible for maintaining public security, the country’s constitution allows the president to use the FAES “in exceptional circumstances” to maintain internal peace and public security; in 2016, the government created a special joint unit of Army commandos and police to fight criminal gangs; more military personnel were devoted to internal security beginning in 2019 when President BUKELE signed a decree authorizing military involvement in police duties to combat rising gang violence, organized crime, and narcotics trafficking, as well as assisting with border security<br><br>the military led the country for much of the 20th century; from 1980 to 1992, it fought a bloody civil war against guerrillas from the Farabundo Martí National Liberation Front or FMLN, the paramilitary arm of the Democratic Revolutionary Front (Frente Democrático Revolucionario), a coalition of left-wing dissident political groups backed by Cuba and the Soviet Union; the FAES received considerable US support during the conflict; significant human rights violations occurred during the war and approximately 75,000 Salvadorans, mostly civilians, were killed (2025)<br>
+
+## Terrorism
+
+**Terrorist group(s)**<br>
+La Mara Salvatrucha (MS-13)<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

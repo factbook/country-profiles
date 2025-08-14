@@ -242,11 +242,6 @@ _total population_: 97% (2020 est.)<br>
 _male_: 98% (2020 est.)<br>
 _female_: 95% (2020 est.)<br>
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 14 years<br>
-_male_: 14 years<br>
-_female_: 14 years (2015)<br>
-
 **People - note**<br>
 in October 2015, the Chinese Government announced that it would change its rules to allow all couples to have two children, loosening a 1979 mandate that restricted many couples to one child; the new policy was implemented on 1 January 2016 to address China&rsquo;s rapidly aging population and future economic needs<br>
 
@@ -407,7 +402,7 @@ red, yellow<br>
 **National anthem(s)**<br>
 _title_: "Yiyongjun Jinxingqu" (The March of the Volunteers)<br>
 _lyrics/music_: TIAN Han/NIE Er<br>
-_history_: adopted 1949; the anthem, which was banned during the Cultural Revolution, is more commonly known as "Zhongguo Guoge" (Chinese National Song); it was originally the theme song to the 1935 Chinese movie, "Sons and Daughters in a Time of Storm"<br>
+_history_: adopted 1982; the anthem, which was banned during the Cultural Revolution, is more commonly known as "Zhongguo Guoge" (Chinese National Song)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 59 (40 cultural, 15 natural, 4 mixed)<br>

@@ -235,9 +235,9 @@ _male_: 95% (2020 est.)<br>
 _female_: 96% (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 14 years<br>
-_male_: 14 years<br>
-_female_: 15 years (2020)<br>
+_total_: 14 years (2022 est.)<br>
+_male_: 14 years (2022 est.)<br>
+_female_: 15 years (2022 est.)<br>
 
 ## Environment
 
@@ -404,7 +404,7 @@ yellow, blue, red<br>
 **National anthem(s)**<br>
 _title_: "Himno Nacional de la Republica de Colombia" (National Anthem of the Republic of Colombia)<br>
 _lyrics/music_: Rafael NUNEZ/Oreste SINDICI<br>
-_history_: adopted 1920; the anthem comes from an inspirational poem written by President Rafael NUNEZ<br>
+_history_: adopted 1920; the anthem comes from an inspirational poem written by President Rafael NUNEZ; the anthem starts with the chorus, then a verse, then the chorus, any one of the eleven verses are used<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 9 (6 cultural, 2 natural, 1 mixed)<br>
@@ -713,7 +713,7 @@ has a small program focused on acquiring satellites, particularly remote sensing
 ## Terrorism
 
 **Terrorist group(s)**<br>
-National Liberation Army (ELN); Revolutionary Armed Forces of Colombia - People's Army (FARC-EP); Segunda Marquetalia (SM)<br>
+National Liberation Army (ELN); Revolutionary Armed Forces of Colombia - People's Army (FARC-EP); Segunda Marquetalia (SM); Tren de Aragua (TdA)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

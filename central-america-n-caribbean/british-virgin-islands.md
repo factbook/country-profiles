@@ -174,9 +174,9 @@ _Education expenditure (% GDP)_: 2.5% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 13.6% national budget (2025 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 12 years<br>
-_male_: 12 years<br>
-_female_: 12 years (2018)<br>
+_total_: 11 years (2022 est.)<br>
+_male_: 11 years (2022 est.)<br>
+_female_: 11 years (2022 est.)<br>
 
 ## Environment
 
@@ -300,9 +300,10 @@ _history_: official anthem, as a UK overseas territory<br>
 British Caribbean island territorial economy; strong tourism and services industries; vulnerable to hurricanes; navigating public debt insolvency since 2008 Crisis; considered a tax haven; high electrification costs; major rum exporter<br>
 
 **Real GDP (purchasing power parity)**<br>
-$500 million (2017 est.)<br>
-$490.2 million (2016 est.)<br>
-$481.1 million (2015 est.)<br>
+$1.634 billion (2024 est.)<br>
+$1.579 billion (2023 est.)<br>
+$1.537 billion (2022 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.38 billion (2018 est.)<br>

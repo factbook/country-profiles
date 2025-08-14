@@ -220,9 +220,9 @@ _male_: 96% (2019 est.)<br>
 _female_: 95% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 13 years<br>
-_male_: 12 years<br>
-_female_: 13 years (2016)<br>
+_total_: 13 years (2016 est.)<br>
+_male_: 12 years (2016 est.)<br>
+_female_: 14 years (2016 est.)<br>
 
 ## Environment
 
@@ -643,6 +643,12 @@ approximately 30,000 Ministry of Public Security personnel (2025)<br>
 
 **Military - note**<br>
 the Panamanian Public Forces focus on law enforcement, border control, and maritime security; the National Police are responsible for internal law enforcement and public order, while the National Border Service (SENAFRONT) handles border security; the Aeronaval Service is responsible for carrying out air and naval operations that include some internal security responsibilities; key areas of focus are countering narcotics trafficking and securing the border, particularly along the frontier with Colombia where SENAFRONT maintains a significant presence<br><br>Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution (2025)<br>
+
+## Terrorism
+
+**Terrorist group(s)**<br>
+Tren de Aragua (TdA)<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

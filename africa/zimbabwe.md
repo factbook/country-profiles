@@ -230,11 +230,6 @@ _total population_: 93.2% (2019 est.)<br>
 _male_: 93.1% (2019 est.)<br>
 _female_: 93.4% (2019 est.)<br>
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 11 years<br>
-_male_: 12 years<br>
-_female_: 11 years (2013)<br>
-
 ## Environment
 
 **Environmental issues**<br>
@@ -657,7 +652,7 @@ the ZDF inventory is comprised mostly of Russian/Soviet-era and Chinese armament
 18-22 years of age for voluntary military service for men and women (18-24 for officer cadets; 18-30 for technical/specialist personnel); no conscription (2023)<br>
 
 **Military - note**<br>
-the ZDF’s primary responsibilities are protecting the country’s sovereignty and territory and securing its borders; it also has a considerable role in domestic security and has continued to be active in the country’s politics since the 2017 military-assisted political transition; the ZDF is part of the Southern Africa Development Community (SADC) Standby Force and provided troops for the SADC military deployment to Mozambique, from 2021-2024; Zimbabwe has defense ties with China and Russia<br><br>the ZDF was formed after independence from the former Rhodesian Army and the two guerrilla forces that opposed it during the Rhodesian Civil War (aka "Bush War") of the 1970s, the Zimbabwe African National Liberation Army (ZANLA) and the Zimbabwe People's Revolutionary Army (ZIPRA); the ZDF intervened in the Mozambique Civil War (1983-1992), the Democratic Republic of Congo during the Second Congo War (1998-2003), and the Angolan Civil War (1975-2002) during the late 1990s (2024)<br>
+the primary responsibilities of the Zimbabwe Defense Forces (ZDF) are protecting the country’s sovereignty and territory and securing its borders; it also has a role in domestic security and socio-economic development projects and has continued to be active in the country’s politics since the 2017 military-assisted political transition;<br>the ZDF is part of the Southern Africa Development Community (SADC) Standby Force and provided troops for the SADC military deployment to Mozambique from 2021-2024; Zimbabwe has defense ties with China and Russia<br><br>the ZDF was formed after independence from the former Rhodesian Army and the two guerrilla forces that opposed it during the Rhodesian Civil War (aka "Bush War") of the 1970s, the Zimbabwe African National Liberation Army (ZANLA) and the Zimbabwe People's Revolutionary Army (ZIPRA); the ZDF intervened in the Mozambique Civil War (1983-1992), the Democratic Republic of Congo during the Second Congo War (1998-2003), and the Angolan Civil War (1975-2002) during the late 1990s (2025)<br>
 
 ## Space
 

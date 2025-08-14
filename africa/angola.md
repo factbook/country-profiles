@@ -75,7 +75,7 @@ _Internal (endorheic basin) drainage_: Okavango Basin (863,866 sq km)<br>
 Congo Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 **Population distribution**<br>
-most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda, as shown in this population distribution map<br>
+most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda<br>
 
 **Natural hazards**<br>
 locally heavy rainfall causes periodic flooding on the plateau<br>
@@ -133,7 +133,7 @@ _female_: 16.8 years<br>
 -0.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda, as shown in this population distribution map<br>
+most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda<br>
 
 **Urbanization**<br>
 _urban population_: 68.7% of total population (2023)<br>
@@ -664,10 +664,10 @@ the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed b
 ## Space
 
 **Space agency/agencies**<br>
-National Space Program Office (Gabinete de Gest&atilde;o do Programa Espacial Nacional, GGPEN; established 2013) (2024)<br>
+National Space Program Office (Gabinete de Gest&atilde;o do Programa Espacial Nacional, GGPEN; established 2013) (2025)<br>
 
 **Space program overview**<br>
-has a national space strategy with a focus on capacity-building, developing space infrastructure, investing in domestic space sector, supporting socioeconomic growth, and establishing cooperation agreements with foreign technical and scientific institutions in the space industry; contracts with foreign companies to build and launch satellites; operates satellites; cooperates with a variety of foreign space agencies and industries, including those of France, Russia, and the US (2024)<br>
+has a national space strategy with a focus on capacity-building, developing space infrastructure, investing in domestic space sector, supporting socioeconomic growth, and establishing cooperation agreements with foreign technical and scientific institutions in the space industry; contracts with foreign companies to build and launch satellites; operates satellites; cooperates with a variety of foreign space agencies and industries, including those of France, Portugal, Russia, the US, and other African countries; member of the African Space Agency (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues

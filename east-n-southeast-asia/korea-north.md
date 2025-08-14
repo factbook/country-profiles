@@ -210,9 +210,9 @@ _men married by age 18_: 0% (2017)<br>
 14.6% national budget (2025 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 11 years<br>
-_male_: 11 years<br>
-_female_: 11 years (2015)<br>
+_total_: 12 years (2018 est.)<br>
+_male_: 12 years (2018 est.)<br>
+_female_: 12 years (2018 est.)<br>
 
 ## Environment
 

@@ -73,7 +73,7 @@ _Internal (endorheic basin) drainage_: Okavango Basin (863,866 sq km)<br>
 Lower Kalahari-Stampriet Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 **Population distribution**<br>
-the population is primarily concentrated in the east, with a focus in and around the capital of Gaborone and the eastern city of Francistown; population density remains low in other areas in the country, especially in the Kalahari Desert to the west, as shown in this population distribution map<br>
+the population is primarily concentrated in the east, with a focus in and around the capital of Gaborone and the eastern city of Francistown; population density remains low in other areas in the country, especially in the Kalahari Desert to the west.<br>
 
 **Natural hazards**<br>
 periodic droughts; seasonal August winds blow from the west, carrying sand and dust across the country, which can obscure visibility<br>
@@ -130,7 +130,7 @@ _female_: 28.3 years<br>
 2.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
-the population is primarily concentrated in the east, with a focus in and around the capital of Gaborone and the eastern city of Francistown; population density remains low in other areas in the country, especially in the Kalahari Desert to the west, as shown in this population distribution map<br>
+the population is primarily concentrated in the east, with a focus in and around the capital of Gaborone and the eastern city of Francistown; population density remains low in other areas in the country, especially in the Kalahari Desert to the west.<br>
 
 **Urbanization**<br>
 _urban population_: 72.9% of total population (2023)<br>
@@ -220,9 +220,9 @@ _Education expenditure (% GDP)_: 8.1% of GDP (2020 est.)<br>
 _Education expenditure (% national budget)_: 21.5% national budget (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 12 years<br>
-_male_: 12 years<br>
-_female_: 12 years (2021)<br>
+_total_: 12 years (2021 est.)<br>
+_male_: 12 years (2021 est.)<br>
+_female_: 13 years (2021 est.)<br>
 
 ## Environment
 

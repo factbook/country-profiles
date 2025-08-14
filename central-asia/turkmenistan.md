@@ -230,9 +230,9 @@ _Education expenditure (% national budget)_: 20.5% national budget (2024 est.)<b
 _female_: 99.6% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 13 years<br>
-_male_: 13 years<br>
-_female_: 13 years (2020)<br>
+_total_: 13 years (2023 est.)<br>
+_male_: 12 years (2022 est.)<br>
+_female_: 12 years (2022 est.)<br>
 
 ## Environment
 
@@ -600,7 +600,7 @@ the military's inventory is comprised largely of Russian and Soviet-era weapons 
 18-27 years of age for compulsory military service for men and volunteer service for men and women; 24-month conscript service obligation (2025)<br>
 
 **Military - note**<br>
-the military is responsible for external defense and has a role in internal security; it works closely with the Border Service on protecting the country&rsquo;s borders; while Turkmenistan has a policy of permanent and "positive" neutrality and has declined to participate in post-Soviet military groupings such as the Collective Security Treaty Organization and the Shanghai Cooperation Organization, it has participated in multinational exercises and bilateral training with neighboring countries, including Russia and Uzbekistan; Turkmenistan joined NATO's Partnership for Peace program in 1994, but it does not offer any military forces to NATO-led operations (2025)<br>
+the military is responsible for external defense and works closely with the Border Service on protecting the country&rsquo;s borders; areas of emphasis for the military include border security, competition on the Caspian Sea, regional stability, and military modernization; while Turkmenistan has a policy of permanent and "positive" neutrality and has declined to participate in post-Soviet military groupings such as the Collective Security Treaty Organization and the Shanghai Cooperation Organization, it has participated in multinational exercises and bilateral training with neighboring countries, including Russia and Uzbekistan; Turkmenistan joined NATO's Partnership for Peace program in 1994, but it does not offer any military forces to NATO-led operations (2025)<br>
 
 ## Space
 

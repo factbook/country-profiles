@@ -240,9 +240,9 @@ _male_: 96% (2020 est.)<br>
 _female_: 94% (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 15 years<br>
-_male_: 15 years<br>
-_female_: 15 years (2020)<br>
+_total_: 15 years (2022 est.)<br>
+_male_: 14 years (2022 est.)<br>
+_female_: 15 years (2022 est.)<br>
 
 ## Environment
 
@@ -736,7 +736,7 @@ the AEM’s focus is on coordinating Mexico’s space policy and the country’s
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Gulf Cartel (CDG); Jalisco Cartel New Generation (CJNG); Northeast Cartel (CDN); The New Family Michoacana (LNFM); Sinaloa Cartel; United Cartels (CU)<br>
+Gulf Cartel (CDG); Jalisco Cartel New Generation (CJNG); La Mara Salvatruche (MS-13); Northeast Cartel (CDN); The New Family Michoacana (LNFM); Sinaloa Cartel; United Cartels (CU)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

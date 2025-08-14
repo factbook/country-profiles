@@ -222,9 +222,9 @@ _Education expenditure (% national budget)_: 19.7% national budget (2023 est.)<b
 _female_: 94.6% (2017 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 11 years<br>
-_male_: 12 years<br>
-_female_: 11 years (2013)<br>
+_total_: 12 years (2024 est.)<br>
+_male_: 12 years (2024 est.)<br>
+_female_: 11 years (2024 est.)<br>
 
 ## Environment
 

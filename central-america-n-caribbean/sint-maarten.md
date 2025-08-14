@@ -158,11 +158,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 1.2% of population (2017)<br>
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 12 years<br>
-_male_: 12 years<br>
-_female_: 12 years (2014)<br>
-
 ## Environment
 
 **Environmental issues**<br>
