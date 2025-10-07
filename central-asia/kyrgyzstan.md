@@ -167,16 +167,13 @@ _female_: 77.2 years<br>
 **Gross reproduction rate**<br>
 1.19 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-39.4% (2018)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 89.9% of population<br>
-_improved: total_: total: 93.6% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 10.1% of population<br>
-_unimproved: total_: total: 6.4% of population (2020 est.)<br>
+_improved: urban_: urban: 99.2% of population (2022 est.)<br>
+_improved: rural_: rural: 85.8% of population (2022 est.)<br>
+_improved: total_: total: 90.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.8% of population (2022 est.)<br>
+_unimproved: rural_: rural: 14.2% of population (2022 est.)<br>
+_unimproved: total_: total: 9.2% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.4% of GDP (2021)<br>
@@ -189,12 +186,12 @@ _Health expenditure (as % of national budget)_: 7.6% of national budget (2022 es
 4.2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 16.6% (2016)<br>
@@ -254,21 +251,26 @@ _other_: 38.9% (2022 est.)<br>
 _urban population_: 37.8% of total population (2023)<br>
 _rate of urbanization_: 2.05% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 37.58 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 9.79 megatons (2016 est.)<br>
-_methane emissions_: 4.47 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 11.389 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 6.301 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 4.234 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 854,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+40.9 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1,113,300 tons (2015 est.)<br>
+_municipal solid waste generated annually_: 1.113 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 14.6% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 220 million cubic meters (2020 est.)<br>
-_industrial_: 340 million cubic meters (2020 est.)<br>
-_agricultural_: 7.1 billion cubic meters (2020 est.)<br>
+_municipal_: 224 million cubic meters (2022 est.)<br>
+_industrial_: 336 million cubic meters (2022 est.)<br>
+_agricultural_: 7.1 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-23.62 billion cubic meters (2020 est.)<br>
+23.618 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -365,8 +367,8 @@ ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU
 **National holiday**<br>
 Independence Day, 31 August (1991)<br>
 
-**Flag description**<br>
-red field with a yellow sun in the center that has 40 rays to represent the Kyrgyz tribes; the rays run counterclockwise on the front of the flag and clockwise on the reverse; in the center of the sun is a red ring crossed by two sets of three lines in a stylized representation of a <em>tunduk,</em> the crown of a traditional Kyrgyz yurt; red stands for bravery and valor, and the sun for peace and wealth<br>
+**Flag**<br>
+<strong>description:</strong> red field with a yellow sun in the center that has 40 rays that run counterclockwise on the front of the flag and clockwise on the reverse; in the center of the sun is a red ring crossed by two sets of three lines in a stylized representation of a <em>tunduk,</em> the circular opening at the top of a traditional Kyrgyz yurt<br><br><strong>meaning:</strong> the sun's rays represent the Kyrgyz tribes; red stands for bravery and valor, and the sun for peace and wealth<br>
 
 **National symbol(s)**<br>
 white falcon<br>
@@ -478,9 +480,9 @@ _highest 10%_: 22% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $3.859 billion (2022 est.)<br>
-_expenditures_: $2.892 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $4.84 billion (2023 est.)<br>
+_expenditures_: $4.452 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 40.5% of GDP (2023 est.)<br>
@@ -578,12 +580,6 @@ _consumption_: 435.336 million cubic meters (2023 est.)<br>
 _imports_: 406.698 million cubic meters (2023 est.)<br>
 _proven reserves_: 5.663 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 11.389 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 6.301 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 4.234 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 854,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 27.58 million Btu/person (2023 est.)<br>
 
@@ -658,8 +654,10 @@ US-designated foreign terrorist groups such as the Islamic Jihad Union, the Isla
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 482 (2022)<br>
+_refugees_: 25,413 (2024 est.)<br>
+_IDPs_: 12 (2024 est.)<br>
+_stateless persons_: 925 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Kyrgyzstan was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/kyrgyzstan/<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Kyrgyzstan remained on Tier 2 Watch List for the second consecutive year; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/kyrgyz-republic/<br>
 

@@ -166,16 +166,13 @@ _female_: 76.3 years<br>
 **Gross reproduction rate**<br>
 0.91 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-48.1% (2018)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 98.4% of population<br>
-_improved: rural_: rural: 64.2% of population<br>
-_improved: total_: total: 87.6% of population<br>
-_unimproved: urban_: urban: 1.6% of population<br>
-_unimproved: rural_: rural: 35.8% of population<br>
-_unimproved: total_: total: 12.4% of population (2020 est.)<br>
+_improved: urban_: urban: 94.2% of population (2022 est.)<br>
+_improved: rural_: rural: 59.7% of population (2022 est.)<br>
+_improved: total_: total: 83.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 5.8% of population (2022 est.)<br>
+_unimproved: rural_: rural: 40.3% of population (2022 est.)<br>
+_unimproved: total_: total: 16.5% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6.9% of GDP (2021)<br>
@@ -188,12 +185,12 @@ _Health expenditure (as % of national budget)_: 9.2% of national budget (2022 es
 10.6 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 97.4% of population<br>
-_improved: rural_: rural: 69.9% of population<br>
-_improved: total_: total: 88.8% of population<br>
-_unimproved: urban_: urban: 2.6% of population<br>
-_unimproved: rural_: rural: 30.1% of population<br>
-_unimproved: total_: total: 11.2% of population (2020 est.)<br>
+_improved: urban_: urban: 97.8% of population (2022 est.)<br>
+_improved: rural_: rural: 78.7% of population (2022 est.)<br>
+_improved: total_: total: 91.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 2.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 21.3% of population (2022 est.)<br>
+_unimproved: total_: total: 8.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 20.6% (2016)<br>
@@ -259,21 +256,31 @@ _other_: 19% (2022 est.)<br>
 _urban population_: 69.1% of total population (2023)<br>
 _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 41.3 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 25.37 megatons (2016 est.)<br>
-_methane emissions_: 13.72 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 19.203 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 13.489 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 5.714 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+41.3 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 532.2 kt (2022-2024 est.)<br>
+_agriculture_: 525.2 kt (2019-2021 est.)<br>
+_waste_: 14.2 kt (2019-2021 est.)<br>
+_other_: 2.9 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2.9 million tons (2016 est.)<br>
+_municipal solid waste generated annually_: 2.9 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 13% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 50 million cubic meters (2020 est.)<br>
-_industrial_: 170 million cubic meters (2020 est.)<br>
-_agricultural_: 250 million cubic meters (2020 est.)<br>
+_municipal_: 45.3 million cubic meters (2022 est.)<br>
+_industrial_: 166.2 million cubic meters (2022 est.)<br>
+_agricultural_: 250.9 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-34.8 billion cubic meters (2020 est.)<br>
+34.8 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -373,8 +380,8 @@ ADB, ARF, CD, CICA, CP, EBRD, EITI (compliant country), FAO, G-77, IAEA, IBRD, I
 Naadam (games) holiday, 11-15 July; Constitution Day, 26 November (1924)<br>
 <strong>note: </strong>the first holiday commemorates independence from China in the 1921 Revolution, and the second marks the date that the Mongolian People's Republic was created under a new constitution<br><br>
 
-**Flag description**<br>
-three equal vertical bands of red (hoist side), blue, and red; centered on the hoist-side red band in yellow is the national emblem, the <em>soyombo,</em> which is an abstract geometric representation of fire, sun, moon, earth, water, and the yin-yang symbol; blue stands for the sky, and red for progress and prosperity<br>
+**Flag**<br>
+<strong>description: </strong>three equal vertical bands of red (left side), blue, and red; centered on the left-side red band is the national emblem in yellow, the <em>soyombo,</em> which is an abstract representation of fire, sun, moon, earth, water, and the yin-yang symbol<br><br><strong>meaning:</strong> blue stands for the sky, and red for progress and prosperity<br>
 
 **National symbol(s)**<br>
 Soyombo character (from the Soyombo writing system)<br>
@@ -487,8 +494,8 @@ _highest 10%_: 24.6% (2022 est.)<br>
 
 **Budget**<br>
 _revenues_: $4.721 billion (2021 est.)<br>
-_expenditures_: $4.845 billion (2021 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_expenditures_: $5.623 billion (2021 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 67.6% of GDP (2021 est.)<br>
@@ -579,11 +586,6 @@ _proven reserves_: 2.52 billion metric tons (2023 est.)<br>
 _total petroleum production_: 15,000 bbl/day (2023 est.)<br>
 _refined petroleum consumption_: 39,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 19.203 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 13.489 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 5.714 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 67.132 million Btu/person (2023 est.)<br>
 
@@ -650,7 +652,7 @@ the MAF's inventory is comprised largely of Soviet-era and Russian equipment (20
 18-25 years of age for compulsory and voluntary military service (can enter military schools at age 17); 12-month conscript service obligation for men can be extended 3 months under special circumstances; conscription service can be exchanged for a 24‐month stint in the civil service or a cash payment determined by the Mongolian Government; after conscription, soldiers can contract into military service for 2 or 4 years; volunteer military service for men and women is 24 months, which can be extended for another two years up to the age of 31 (2024)<br>
 
 **Military deployments**<br>
-875 South Sudan (UNMISS) (2024)<br>
+850 South Sudan (UNMISS) (2025)<br>
 <strong>note:</strong> since 2002, Mongolia has deployed more than 20,000 peacekeepers and observers to UN operations in more than a dozen countries<br>
 
 **Military - note**<br>
@@ -659,5 +661,7 @@ the Mongolian Armed Forces (MAF) are responsible for ensuring the country's inde
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 17 (2022)<br>
+_refugees_: 26 (2024 est.)<br>
+_IDPs_: 22 (2024 est.)<br>
+_stateless persons_: 17 (2024 est.)<br>
 

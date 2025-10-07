@@ -167,16 +167,13 @@ _female_: 78.6 years<br>
 **Gross reproduction rate**<br>
 0.79 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 93.3% of population<br>
-_improved: total_: total: 97.1% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 6.7% of population<br>
-_unimproved: total_: total: 2.9% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 94.5% of population (2022 est.)<br>
+_improved: total_: total: 97.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 5.5% of population (2022 est.)<br>
+_unimproved: total_: total: 2.4% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.7% of GDP (2021)<br>
@@ -189,12 +186,8 @@ _Health expenditure (as % of national budget)_: 4.6% of national budget (2022 es
 3.9 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: (2020 est.) NA<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 19.9% (2016)<br>
@@ -253,21 +246,32 @@ _urban population_: 57.6% of total population (2023)<br>
 _rate of urbanization_: 1.38% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Nagorno-Karabakh<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 24.64 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 37.62 megatons (2016 est.)<br>
-_methane emissions_: 44.87 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 38.892 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 17,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 13.954 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 24.921 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+27.2 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 268.8 kt (2022-2024 est.)<br>
+_agriculture_: 188.9 kt (2019-2021 est.)<br>
+_waste_: 93.8 kt (2019-2021 est.)<br>
+_other_: 1 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2,930,349 tons (2015 est.)<br>
+_municipal solid waste generated annually_: 2.93 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 14.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 400 million cubic meters (2020 est.)<br>
-_industrial_: 570 million cubic meters (2020 est.)<br>
-_agricultural_: 11.6 billion cubic meters (2020 est.)<br>
+_municipal_: 408 million cubic meters (2022 est.)<br>
+_industrial_: 598 million cubic meters (2022 est.)<br>
+_agricultural_: 11.962 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-34.68 billion cubic meters (2020 est.)<br>
+34.675 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -350,7 +354,7 @@ _email address and website_: <br>azerbaijan@azembassy.us<br><br>https://washingt
 _consulate(s) general_: Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Hugo GUEVAR (since January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Amy CARLON (since 23 June 2025)<br>
 _embassy_: 111 Azadlig Avenue, AZ1007 Baku<br>
 _mailing address_: 7050 Baku Place, Washington, DC 20521-7050<br>
 _telephone_: [994] (12) 488-3300<br>
@@ -366,8 +370,8 @@ ADB, BSEC, CD, CE, CICA, CIS, EAPC, EBRD, ECO, FAO, GCTU, GUAM, IAEA, IBRD, ICAO
 **National holiday**<br>
 Republic Day (founding of the Democratic Republic of Azerbaijan), 28 May (1918)<br>
 
-**Flag description**<br>
-three equal horizontal bands of sky blue (top), red, and green; a vertical crescent moon and an eight-pointed star in white are centered in the red band; the blue band stands for Azerbaijan's Turkic heritage, red for modernization and progress, and green for Islam; the crescent moon and star are a Turkic insignia; the eight star points represent the eight Turkic peoples of the world<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of sky blue (top), red, and green; a vertical crescent moon and an eight-pointed star in white are centered in the red band<br><br><strong>meaning:</strong> the blue band stands for Azerbaijan's Turkic heritage, red for modernization and progress, and green for Islam; the crescent moon and star are a Turkic insignia; the eight star points represent the eight Turkic peoples of the world<br>
 
 **National symbol(s)**<br>
 flames of fire<br>
@@ -470,9 +474,9 @@ _on alcohol and tobacco_: 2% of household expenditures (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $20.877 billion (2021 est.)<br>
-_expenditures_: $14.882 billion (2021 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $30.966 billion (2022 est.)<br>
+_expenditures_: $22.95 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 16.8% of GDP (2021 est.)<br>
@@ -569,12 +573,6 @@ _exports_: 23.65 billion cubic meters (2023 est.)<br>
 _imports_: 2.173 billion cubic meters (2023 est.)<br>
 _proven reserves_: 1.699 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 38.892 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 17,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 13.954 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 24.921 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 66.467 million Btu/person (2023 est.)<br>
 
@@ -663,6 +661,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps (IR
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 659,000 (conflict with Armenia over Nagorno-Karabakh; IDPs are mainly ethnic Azerbaijanis but also include ethnic Kurds, Russians, and Turks predominantly from occupied territories around Nagorno-Karabakh; includes IDPs' descendants, returned IDPs, and people living in insecure areas and excludes people displaced by natural disasters; around half the IDPs live in the capital Baku) (2022)<br>
-_stateless persons_: 3,585 (2022)<br>
+_refugees_: 6,698 (2024 est.)<br>
+_IDPs_: 657,996 (2024 est.)<br>
+_stateless persons_: 271 (2024 est.)<br>
 

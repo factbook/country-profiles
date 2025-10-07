@@ -165,17 +165,13 @@ _female_: 85.2 years<br>
 **Gross reproduction rate**<br>
 0.85 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-85.5% (2015)<br>
-<strong>note:</strong> percent of women aged 18-49<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 10.2% of GDP (2021)<br>
@@ -188,12 +184,12 @@ _Health expenditure (as % of national budget)_: 14.8% of national budget (2022 e
 2.8 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 22.2% (2016)<br>
@@ -249,23 +245,26 @@ _other_: 18.8% (2022 est.)<br>
 _urban population_: 85.8% of total population (2023)<br>
 _rate of urbanization_: 0.42% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 5.47 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 45.87 megatons (2016 est.)<br>
-_methane emissions_: 4.46 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 33.594 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 7.536 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 23.069 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 2.989 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+6 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2.738 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 769,926 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 28.1% (2015 est.)<br>
+_municipal solid waste generated annually_: 3.124 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 35.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1 billion cubic meters (2020 est.)<br>
-_industrial_: 2 billion cubic meters (2020 est.)<br>
-_agricultural_: 500 million cubic meters (2020 est.)<br>
+_municipal_: 500 million cubic meters (2022 est.)<br>
+_industrial_: 1,299,080,000 cubic meters (2022 est.)<br>
+_agricultural_: 1 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-110 billion cubic meters (2020 est.)<br>
+110 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 4 (2024)<br>
@@ -351,7 +350,7 @@ _email address and website_: <br>sanomat.WAS@gov.fi<br><br>https://finlandabroad
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Christopher KRAFFT (since September 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires J. Chris KARBER (since July 2025)<br>
 _embassy_: Itainen Puistotie 14 B, 00140 Helsinki<br>
 _mailing address_: 5310 Helsinki Place, Washington DC&nbsp; 20521-5310<br>
 _telephone_: [358] (9) 616-250<br>
@@ -367,8 +366,8 @@ ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia G
 **National holiday**<br>
 Independence Day, 6 December (1917)<br>
 
-**Flag description**<br>
-white with a blue cross extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the blue stands for the country's thousands of lakes, and the white for snow<br>
+**Flag**<br>
+<strong>description:</strong> white with a blue cross extending to the edges of the flag; the cross is shifted to the left in the style of the Dannebrog (Danish flag)<br><br><strong>meaning:</strong> the blue stands for the country's thousands of lakes, and the white for snow<br>
 
 **National symbol(s)**<br>
 lion<br>
@@ -484,9 +483,9 @@ _highest 10%_: 23.1% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $105.182 billion (2022 est.)<br>
-_expenditures_: $106.991 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $126.337 billion (2023 est.)<br>
+_expenditures_: $131.978 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 61.3% of GDP (2017 est.)<br>
@@ -584,12 +583,6 @@ _consumption_: 1.55 billion cubic meters (2023 est.)<br>
 _exports_: 479.457 million cubic meters (2023 est.)<br>
 _imports_: 2.112 billion cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 33.594 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 7.536 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 23.069 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 2.989 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 183.54 million Btu/person (2023 est.)<br>
 
@@ -607,8 +600,8 @@ _subscriptions per 100 inhabitants_: 129 (2022 est.)<br>
 3 publicly operated TV stations and numerous privately owned TV stations; several free and special-interest pay-TV channels; cable and satellite multi-channel subscription services are available; all TV signals are digital; 13 national and 25 regional public radio stations; a large number of private radio broadcasters&nbsp;<br>
 
 **Internet country code**<br>
-<p>.fi</p> <p> </p><br>
-note - Aland Islands assigned .ax<br>
+.fi<br>
+<strong>note:</strong> Aland Islands assigned .ax<br>
 
 **Internet users**<br>
 _percent of population_: 94% (2023 est.)<br>
@@ -651,15 +644,15 @@ Finnish Defense Forces (FDF; Puolustusvoimat): Army (Maavoimat), Navy (Merivoima
 <strong>note:</strong> the Border Guard (Rajavartiolaitos) and National Police are under the Ministry of the Interior; the Border Guard becomes part of the FDF in wartime<br>
 
 **Military expenditures**<br>
+2.8% of GDP (2025 est.)<br>
 2.4% of GDP (2024 est.)<br>
-2.45% of GDP (2023)<br>
-2% of GDP (2022)<br>
-1.9% of GDP (2021)<br>
-1.5% of GDP (2020)<br>
+2.1% of GDP (2023 est.)<br>
+1.7% of GDP (2022 est.)<br>
+1.4% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 31,000 active Finnish Defense Forces (23,000 Army; 5,000 Navy; 3,000 Air Force) (2024)<br>
-<strong>note:</strong> active-duty figures include about 21,000 conscripts carrying out their obligated military service (approximately 17,000 Army; 3,500 Navy; 1,000 Air Force)<br>
+approximately 31,000 active-duty military personnel (2025)<br>
+<strong>note:</strong> active-duty figures include about 21,000 conscripts carrying out their obligated military service<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists of a wide mix of modern US, European, Israeli, South Korean, and domestically produced weapons systems; the Finnish defense industry produces a variety of military equipment, including wheeled armored vehicles and naval vessels; Finland also cooperates with other European countries and the US in the joint production of arms (2024)<br>
@@ -682,6 +675,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 66,195 (Ukraine) (as of 29 February 2024)<br>
-_stateless persons_: 3,546 (2022)<br>
+_refugees_: 97,568 (2024 est.)<br>
+_stateless persons_: 1,326 (2024 est.)<br>
 

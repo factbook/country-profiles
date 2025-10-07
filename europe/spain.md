@@ -168,17 +168,13 @@ _female_: 85.8 years<br>
 **Gross reproduction rate**<br>
 0.64 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-62.1% (2018)<br>
-<strong>note:</strong> percent of women aged 18-49<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
+_improved: urban_: urban: 99.9% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 99.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 10.7% of GDP (2021)<br>
@@ -191,12 +187,12 @@ _Health expenditure (as % of national budget)_: 15.2% of national budget (2022 e
 2.9 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 23.8% (2016)<br>
@@ -255,23 +251,26 @@ _urban population_: 81.6% of total population (2023)<br>
 _rate of urbanization_: 0.24% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Canary Islands, Ceuta, and Melilla<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 9.34 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 244 megatons (2016 est.)<br>
-_methane emissions_: 36.94 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 254.823 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 13.39 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 182.327 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 59.105 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+8.3 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 20.151 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 3,393,428 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 16.8% (2015 est.)<br>
+_municipal solid waste generated annually_: 22.409 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 27.7% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 4.56 billion cubic meters (2020 est.)<br>
-_industrial_: 5.5 billion cubic meters (2020 est.)<br>
-_agricultural_: 18.96 billion cubic meters (2020 est.)<br>
+_municipal_: 4.56 billion cubic meters (2022 est.)<br>
+_industrial_: 5.5 billion cubic meters (2022 est.)<br>
+_agricultural_: 18.96 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-111.5 billion cubic meters (2020 est.)<br>
+111.5 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 18 (2025)<br>
@@ -389,10 +388,11 @@ ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), 
 <strong>note:</strong> the Iberian peninsula was home to a variety of independent kingdoms prior to the Muslim occupation that began in the early 8th century A.D. and lasted nearly seven centuries; the small Christian redoubts of the north began the reconquest almost immediately, culminating in the seizure of Granada in 1492; this completed the unification of several kingdoms and is traditionally considered the forging of present-day Spain<br>
 
 **National holiday**<br>
-National Day (Hispanic Day), 12 October (1492); note - commemorates the arrival of COLUMBUS in the Americas<br>
+National Day (Hispanic Day), 12 October (1492)<br>
+<strong>note:</strong> commemorates the arrival of explorer Christopher COLUMBUS in the Americas<br>
 
-**Flag description**<br>
-three horizontal bands of red (top), yellow (double-width), and red, with the national coat of arms on the hoist side of the yellow band; the coat of arms shows the emblems of the area's former kingdoms (clockwise from upper left: Castile, Leon, Navarre, and Aragon), which also used red and yellow as their colors; Granada is represented by the stylized pomegranate at the bottom of the shield; the two columns represent the Pillars of Hercules, which are promontories (Gibraltar and Ceuta) on the Strait of Gibraltar; a red scroll bears the imperial motto of "Plus Ultra" (further beyond), referring to Spanish lands outside Europe<br>
+**Flag**<br>
+<strong>description:</strong> three horizontal bands of red (top), yellow (double-width), and red, with the national coat of arms on the left side of the yellow band; the coat of arms shows the emblems of the area's former kingdoms (clockwise from upper left: Castile, Leon, Navarre, and Aragon), which also used red and yellow as their colors; the stylized pomegranate at the bottom of the shield represents Granada; the two columns represent the Pillars of Hercules, which are promontories (Gibraltar and Ceuta) on the Strait of Gibraltar; a red scroll bears the imperial motto of "Plus Ultra" (further beyond), referring to Spanish lands outside Europe<br>
 
 **National symbol(s)**<br>
 Pillars of Hercules<br>
@@ -403,7 +403,7 @@ red, yellow<br>
 **National anthem(s)**<br>
 _title_: "Himno Nacional Espanol" (National Anthem of Spain)<br>
 _lyrics/music_: no lyrics/unknown<br>
-_history_: officially in use between 1770 and 1931, restored in 1939; the Spanish anthem was the first to be officially adopted; it first appeared in a 1761 military bugle-call book and was replaced by "Himno de Riego" in the years between 1931 and 1939; the long version of the anthem is used for the king, and the short version is used for the prince, prime minister, and occasions such as sporting events<br>
+_history_: adopted 1942;officially in use between 1770 and 1931, restored in 1939; the Spanish anthem was the first to be officially adopted; it first appeared in a 1761 military bugle-call book and was replaced by "Himno de Riego" in the years between 1931 and 1939; the long version of the anthem is used for the king, and the short version is used for the prince, prime minister, and occasions such as sporting events<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 50 (44 cultural, 4 natural, 2 mixed)<br>
@@ -508,9 +508,9 @@ _highest 10%_: 24.8% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $467.609 billion (2022 est.)<br>
-_expenditures_: $514.452 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $512.57 billion (2023 est.)<br>
+_expenditures_: $549.772 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 107.3% of GDP (2023 est.)<br>
@@ -613,12 +613,6 @@ _exports_: 6.576 billion cubic meters (2023 est.)<br>
 _imports_: 35.252 billion cubic meters (2023 est.)<br>
 _proven reserves_: 2.549 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 254.823 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 13.39 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 182.327 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 59.105 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 101.12 million Btu/person (2023 est.)<br>
 
@@ -680,14 +674,14 @@ Spanish Armed Forces (Fuerzas Armadas de España): Army (Ejército de Tierra), S
 <strong>note 1:</strong> the Civil Guard is a military force with police duties (including coast guard) under both the Ministry of Defense and the Ministry of the Interior; it also responds to the needs of the Ministry of Finance; the CNP and the Civil Guard maintain internal security as well as migration and border enforcement under the authority of the Ministry of the Interior; the regional police under the authority of the Catalan and the Basque Country regional governments and municipal police throughout the country also support domestic security <br><br><strong>note 2:</strong> the Emergency Response Unit was established in 2006 as a separate branch of service for responding to natural disasters and providing disaster relief both domestically and abroad; it has personnel from all the other military services<br><br><strong>note 3:</strong> the Royal Guard is an independent joint-service regiment of the military dedicated to the protection of the King and members of the royal family<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2024 est.)<br>
-1.2% of GDP (2023)<br>
-1.2% of GDP (2022)<br>
-1% of GDP (2021)<br>
-1% of GDP (2020)<br>
+2% of GDP (2025 est.)<br>
+1.4% of GDP (2024 est.)<br>
+1.2% of GDP (2023 est.)<br>
+1.1% of GDP (2022 est.)<br>
+1% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 120,000 active-duty Armed Forces (70,000 Army; 25,000 Navy, including about 5,500 marines; 25,000 Air and Space Force); approximately 80,000 Guardia Civil (2024)<br>
+approximately 120,000 active-duty military personnel; approximately 80,000 Guardia Civil (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is comprised of weapons and equipment that were produced domestically, co-produced with or imported from other EU countries, or purchased from the US; in recent years, leading suppliers have included France, Germany, and the US; Spain's defense industry manufactures land, air, and sea weapons systems and is integrated within the European defense-industrial sector (2024)<br>
@@ -706,13 +700,14 @@ the Spanish military has a wide range of responsibilities, including protecting 
 ## Space
 
 **Space agency/agencies**<br>
-Spanish Space Agency (AEE; became operational in April 2023); previously, the National Institute of Aerospace Technology (Instituto Nacional de T&eacute;cnica Aeroespacial or INTA, established 1942), a public research organization that depends on the Ministry of Defense, acted as Spain&rsquo;s space agency; Space Command (Mando del Espacio or MESPA; established January 2024); Center for the Development of Industrial Technology (CDTI); Catalan Space Agency (established 2021); Valencian Space Consortium (established 2009) (2024)<br>
+Spanish Space Agency (AEE; became operational in 2023); Center for the Development of Industrial Technology (CDTI) (2025)<br>
+<strong>note 1: </strong>the CDTI coordinates the activities of the commercial space sector<strong><br><br>note 2: </strong>prior to the establishment of the AEE, the National Institute of Aerospace Technology (Instituto Nacional de Técnica Aeroespacial or INTA, established 1942), a public research organization that depends on the Ministry of Defense, acted as Spain’s space agency<br>
 
 **Space launch site(s)**<br>
-El Arenosillo Test Center/Range (Andalusia); private launch site (Teruel province) (2024)<br>
+El Arenosillo Test Center/Range (Andalusia) (2025)<br>
 
 **Space program overview**<br>
-space program is integrated into the European Space Agency (ESA) and dates back to the 1940s; manufactures and operates communications, remote sensing (RS), and scientific/technology satellites; has developed sounding rockets; conducts research and development in a broad range of space-related capabilities, including astrobiology, astronomy, imaging/RS, materials, meteorology, optics, propulsion, robotics, satellites (particularly micro- and nano-satellites), satellite systems and subsystems, satellite/space launch vehicles (SLVs), and space sciences; participates in ESA, EU, and other international programs; hosts the European Space Astronomy Center (ESOC) and the ESA’s Space Surveillance and Tracking Data Centre (ESAC); cooperates with foreign space agencies and industries, including those of ESA and EU member states and the US; has a considerable commercial space industry, which is involved in a wide range of space-related research, development, and production, including satellites and SLVs; the CDTI coordinates the activities of the commercial space sector (2024)<br>
+space program is integrated into the European Space Agency (ESA) and dates back to the 1940s; manufactures and operates communications, remote sensing (RS), and scientific/technology satellites; has developed sounding rockets; conducts research and development in a broad range of space-related capabilities, including astrobiology, astronomy, imaging/RS, materials, meteorology, optics, propulsion, robotics, satellites (particularly micro- and nano-satellites), satellite systems and subsystems, satellite/space launch vehicles (SLVs), and space sciences; participates in ESA, EU, and other international programs; hosts the European Space Astronomy Center (ESOC) and the ESA’s Space Surveillance and Tracking Data Centre (ESAC); cooperates with foreign space agencies and industries, including those of ESA and EU member states and the US; has a considerable commercial space industry, which is involved in a wide range of space-related research, development, and production, including satellites and SLVs (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -724,7 +719,7 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 438,400 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022); 192,390 (Ukraine) (as of 29 February 2024)<br>
-_stateless persons_: 6,489 (2022)<br>
-<strong>note: </strong>351,562 estimated refugee and migrant arrivals, including Canary Islands (January 2015-March 2024)<br>
+_refugees_: 693,298 (2024 est.)<br>
+_IDPs_: 3,960 (2024 est.)<br>
+_stateless persons_: 10,164 (2024 est.)<br>
 

@@ -155,13 +155,6 @@ _female_: 79.3 years<br>
 **Gross reproduction rate**<br>
 0.85 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
-**Drinking water source**<br>
-_improved: total_: total: 95.1% of population<br>
-_unimproved: total_: total: 4.9% of population (2017 est.)<br>
-
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.4% of GDP (2021)<br>
 _Health expenditure (as % of national budget)_: 8.6% of national budget (2022 est.)<br>
@@ -173,12 +166,7 @@ _Health expenditure (as % of national budget)_: 8.6% of national budget (2022 es
 4.2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
 _improved: total_: total: 90.2% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 9.8% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 23.7% (2016)<br>
@@ -226,21 +214,25 @@ _other_: 8.9% (2022 est.)<br>
 _urban population_: 54.3% of total population (2023)<br>
 _rate of urbanization_: 0.94% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 9.41 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.22 megatons (2016 est.)<br>
-_methane emissions_: 0.09 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 268,000 metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 19,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 249,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+9.5 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 31,561 tons (2015 est.)<br>
+_municipal solid waste generated annually_: 31,600 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 13.3% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 10 million cubic meters (2020 est.)<br>
-_industrial_: 2,000 cubic meters (2017 est.)<br>
-_agricultural_: 0 cubic meters (2017 est.)<br>
+_municipal_: 8.5 million cubic meters (2022 est.)<br>
+_industrial_: 2,000 cubic meters (2022 est.)<br>
+_agricultural_: 0 cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-100 million cubic meters (2020 est.)<br>
+100 million cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -325,8 +317,8 @@ ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA,
 **National holiday**<br>
 Independence Day, 27 October (1979)<br>
 
-**Flag description**<br>
-three vertical bands of blue (hoist side), gold (double-width), and green; the gold band has three green diamonds arranged in a V pattern that stands for "Vincent;" the diamonds represent the islands as "the Gems of the Antilles" and are set slightly lowered in the gold band to reflect the nation's position in the Antilles; blue stands for the tropical sky and sea, yellow for the sand, and green for vegetation<br>
+**Flag**<br>
+<strong>description:</strong> three vertical bands of blue (left side), gold (double-width), and green; the gold band has three green diamonds arranged in a "V" pattern that stands for "Vincent" <br><br><strong>meaning:</strong> the diamonds represent the islands as "the Gems of the Antilles" and are set slightly lowered in the gold band to reflect the country's position in the Antilles; blue stands for the tropical sky and sea, yellow for the sand, and green for vegetation<br>
 
 **National symbol(s)**<br>
 Saint Vincent parrot<br>
@@ -335,9 +327,9 @@ Saint Vincent parrot<br>
 blue, gold, green<br>
 
 **National anthem(s)**<br>
-_title_: "St. Vincent! Land So Beautiful!"<br>
-_lyrics/music_: Phyllis Joyce MCCLEAN PUNNETT/Joel Bertram MIGUEL<br>
-_history_: adopted 1967<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: in use since 1745<br>
 
 ## Economy
 
@@ -416,6 +408,9 @@ _revenues_: $226.404 million (2017 est.)<br>
 _expenditures_: $208.744 million (2017 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
+**Public debt**<br>
+82.8% of GDP (2016 est.)<br>
+
 **Taxes and other revenues**<br>
 23.8% (of GDP) (2017 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
@@ -493,11 +488,6 @@ _imports_: 8,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 2,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 268,000 metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 19,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 249,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 37.253 million Btu/person (2023 est.)<br>

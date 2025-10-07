@@ -168,16 +168,13 @@ _female_: 76 years<br>
 **Gross reproduction rate**<br>
 1.1 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-70.8% (2018)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 98.3% of population<br>
-_improved: rural_: rural: 79.1% of population<br>
-_improved: total_: total: 91% of population<br>
-_unimproved: urban_: urban: 1.7% of population<br>
-_unimproved: rural_: rural: 20.9% of population<br>
-_unimproved: total_: total: 9% of population (2017 est.)<br>
+_improved: urban_: urban: 98.8% of population (2022 est.)<br>
+_improved: rural_: rural: 65.6% of population (2022 est.)<br>
+_improved: total_: total: 87% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 34.4% of population (2022 est.)<br>
+_unimproved: total_: total: 13% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.7% of GDP (2021)<br>
@@ -191,13 +188,12 @@ _Health expenditure (as % of national budget)_: 6.8% of national budget (2022 es
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 98.2% of population<br>
-_improved: rural_: rural: 72.4% of population<br>
-_improved: total_: total: 88.8% of population<br>
-_unimproved: urban_: urban: 1.8% of population<br>
-_unimproved: rural_: rural: 27.6% of population<br>
-_unimproved: total_: total: 11.2% of population (2020 est.)<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
+_improved: urban_: urban: 98.2% of population (2022 est.)<br>
+_improved: rural_: rural: 72.4% of population (2022 est.)<br>
+_improved: total_: total: 89.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.8% of population (2022 est.)<br>
+_unimproved: rural_: rural: 27.6% of population (2022 est.)<br>
+_unimproved: total_: total: 10.9% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 26.1% (2016)<br>
@@ -262,26 +258,34 @@ _urban population_: 65.1% of total population (2023)<br>
 _rate of urbanization_: 1.88% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 13.44 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 61.28 megatons (2016 est.)<br>
-_methane emissions_: 17.16 megatons (2020 est.)<br>
-<strong>note:</strong>  data does not include former Western Sahara<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 64.173 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 23.024 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 39.329 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 1.82 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+13.2 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 36.6 kt (2022-2024 est.)<br>
+_agriculture_: 283.7 kt (2019-2021 est.)<br>
+_waste_: 377.5 kt (2019-2021 est.)<br>
+_other_: 4.5 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 6.852 million tons (2014 est.)<br>
-_municipal solid waste recycled annually_: 548,160 tons (2014 est.)<br>
-_percent of municipal solid waste recycled_: 8% (2014 est.)<br>
+_municipal solid waste generated annually_: 6.852 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 25.4% (2022 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.06 billion cubic meters (2020 est.)<br>
-_industrial_: 210 million cubic meters (2020 est.)<br>
-_agricultural_: 9.16 billion cubic meters (2020 est.)<br>
+_municipal_: 1.063 billion cubic meters (2022 est.)<br>
+_industrial_: 212 million cubic meters (2022 est.)<br>
+_agricultural_: 9.156 billion cubic meters (2022 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
 **Total renewable water resources**<br>
-29 billion cubic meters (2020 est.)<br>
+29 billion cubic meters (2022 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
 **Geoparks**<br>
@@ -377,7 +381,7 @@ _email address and website_: <br>washingtonembmorocco@maec.gov.ma<br><br>Embassy
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Aimee CUTRONA (since January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Ben ZIFF (since 28 August 2025)<br>
 _embassy_: Km 5.7 Avenue Mohammed VI, Souissi, Rabat 10170<br>
 _mailing address_: 9400 Rabat Place, Washington DC&nbsp; 20521-9400<br>
 _telephone_: [212] 0537-637-200<br>
@@ -394,8 +398,8 @@ ABEDA, AfDB, AFESD, AIIB, AMF, AMU, AU, CAEU, CD, EBRD, FAO, G-11, G-77, IAEA, I
 **National holiday**<br>
 Throne Day (accession of King MOHAMMED VI to the throne), 30 July (1999)<br>
 
-**Flag description**<br>
-red with a green pentacle (five-pointed linear star) known as Sulayman's (Solomon's) seal in the center of the flag; red and green are traditional colors in Arab flags, although the use of red is more commonly associated with the Arab states of the Persian Gulf; the pentacle represents the five pillars of Islam and signifies the association between God and the nation; the design dates to 1912<br>
+**Flag**<br>
+<strong>description:</strong> red with a green pentacle (five-pointed linear star) known as Sulayman's (Solomon's) seal in the center of the flag<br><br><strong>meaning:</strong> red and green are traditional colors in Arab flags, although the use of red is more commonly associated with the Arab states of the Persian Gulf; the pentacle represents the five pillars of Islam and the association between God and the nation<br><br><strong>history:</strong> the design dates to 1912<br>
 
 **National symbol(s)**<br>
 pentacle symbol, lion<br>
@@ -502,9 +506,12 @@ _on alcohol and tobacco_: 2.1% of household expenditures (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $35.356 billion (2022 est.)<br>
-_expenditures_: $36.939 billion (2022 est.)<br>
+_revenues_: $38.458 billion (2023 est.)<br>
+_expenditures_: $44.819 billion (2023 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+64.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 21% (of GDP) (2023 est.)<br>
@@ -598,12 +605,6 @@ _consumption_: 912.277 million cubic meters (2023 est.)<br>
 _imports_: 861.38 million cubic meters (2023 est.)<br>
 _proven reserves_: 1.444 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 64.173 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 23.024 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 39.329 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 1.82 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 23.52 million Btu/person (2023 est.)<br>
 
@@ -695,5 +696,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,250 (Syria) (mid-year 2022)<br>
+_refugees_: 18,848 (2024 est.)<br>
+_IDPs_: 256 (2024 est.)<br>
 

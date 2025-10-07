@@ -161,16 +161,13 @@ _female_: 79.5 years<br>
 **Gross reproduction rate**<br>
 0.98 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-71.9% (2014)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.6% of population<br>
-_improved: rural_: rural: 94.2% of population<br>
-_improved: total_: total: 98.2% of population<br>
-_unimproved: urban_: urban: 0.4% of population<br>
-_unimproved: rural_: rural: 5.8% of population<br>
-_unimproved: total_: total: 1.8% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 94.4% of population (2022 est.)<br>
+_improved: total_: total: 98.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 5.6% of population (2022 est.)<br>
+_unimproved: total_: total: 1.4% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 9.7% of GDP (2021)<br>
@@ -183,12 +180,12 @@ _Health expenditure (as % of national budget)_: 21.2% of national budget (2022 e
 1.2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 97.1% of population<br>
-_improved: total_: total: 99.2% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 2.9% of population<br>
-_unimproved: total_: total: 0.8% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 98.3% of population (2022 est.)<br>
+_improved: total_: total: 99.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.7% of population (2022 est.)<br>
+_unimproved: total_: total: 0.4% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 24.6% (2016)<br>
@@ -250,21 +247,26 @@ _other_: 14.5% (2022 est.)<br>
 _urban population_: 75.4% of total population (2023)<br>
 _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 22.15 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 7.17 megatons (2016 est.)<br>
-_methane emissions_: 4.71 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 8.694 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 1,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 7.745 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 948,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+23.8 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1,648,996 tons (2010 est.)<br>
+_municipal solid waste generated annually_: 1.649 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 15.2% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 470 million cubic meters (2020 est.)<br>
-_industrial_: 210 million cubic meters (2020 est.)<br>
-_agricultural_: 1.43 billion cubic meters (2020 est.)<br>
+_municipal_: 433.229 million cubic meters (2022)<br>
+_industrial_: 94.316 million cubic meters (2022)<br>
+_agricultural_: 1.411 billion cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-26.27 billion cubic meters (2020 est.)<br>
+26.27 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -310,10 +312,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Nayib Armando BUKELE Ortez (since 1 June 2019)<br>
 _head of government_: President Nayib Armando BUKELE Ortez (since 1 June 2019)<br>
 _cabinet_: Council of Ministers selected by the president<br>
-_election/appointment process_: president and vice president directly elected on the same ballot by absolute-majority popular vote in 2 rounds, if needed, for a single 5-year term<br>
+_election/appointment process_: president and vice president directly elected on the same ballot by absolute-majority popular vote for a 6-year term (no term limits)<br>
 _most recent election date_: 4 February 2024<br>
 _election results_: <em><br>2024:</em> Nayib Armando BUKELE Ortez reelected president - Nayib Armando BUKELE Ortez (Nuevas Ideas) 84.7%, Manuel FLORES (FMLN) 6.4%, Joel SANCHEZ (ARENA) 5.6%, Luis PARADA (NT) 2%, other 1.3%<br><br><em>2019:</em> Nayib Armando BUKELE Ortez elected president - Nayib Armando BUKELE Ortez (GANA) 53.1%, Carlos CALLEJA Hakker (ARENA) 31.7%, Hugo MARTINEZ (FMLN) 14.4%, other 0.8%<br>
-_expected date of next election_: 2029<br>
+_expected date of next election_: 28 February 2027; note - on 31 July 2025, the Legislative Assembly voted to move the date of the next presidential election from 2029 to 2027 to bring the presidential election cycle in line with the three-year legislative and municipal election cycle<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -345,7 +347,7 @@ _email address and website_: <br>infoEEUU@rree.gob.sv<br><br>https://rree.gob.sv
 _consulate(s) general_: Aurora (CO), Boston, Charlotte (NC), Chicago, Dallas, Doral (FL), Duluth (GA), El Paso (TX), Elizabeth (NJ), Fresno (CA), Houston, Las Vegas (NV), Laredo (TX), Long Island (NY), Los Angeles, McAllen (TX), New York, Omaha (NE), San Bernardino (CA), San Francisco, Salt Lake City, Seattle, Silver Spring (MD), Springdale (AR), St. Paul (MN), Tucson (AZ), Woodbridge (VA)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador William H. DUNCAN (since 24 January 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Naomi C. FELLOWS (since August 2025)<br>
 _embassy_: Final Boulevard Santa Elena, Antiguo Cuscatlan, La Libertad, San Salvador<br>
 _mailing address_: 3450 San Salvador Place, Washington, DC 20521-3450<br>
 _telephone_: [503] 2501-2999<br>
@@ -361,9 +363,9 @@ ACS, BCIE, CACM, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (nation
 **National holiday**<br>
 Independence Day, 15 September (1821)<br>
 
-**Flag description**<br>
-three equal horizontal bands of cobalt blue (top), white, and cobalt blue with the national coat of arms centered in the white band; the coat of arms features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands stand for the Pacific Ocean and the Caribbean Sea, and the white for the land, as well as peace and prosperity<br>
-<strong>note:</strong> similar to the flag of Nicaragua, which has a different coat of arms centered in the white band; also similar to the flag of Honduras, which has five blue stars arranged in an X pattern and centered in the white band<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of cobalt blue (top), white, and cobalt blue, with the national coat of arms centered in the white band; the coat of arms has a round emblem with the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL around it<br><br><strong>meaning:</strong> the blue bands stand for the Pacific Ocean and the Caribbean Sea, and the white for the land, as well as peace and prosperity<br><br><strong>history:</strong> the banner is based on the former blue-white-blue flag of the Federal Republic of Central America<br>
+<strong>note:</strong> similar to the flag of Nicaragua, which has a different coat of arms centered in the white band; also similar to the flag of Honduras, which has five blue stars arranged in an "X" pattern and centered in the white band<br>
 
 **National symbol(s)**<br>
 turquoise-browed motmot (bird)<br>
@@ -480,8 +482,8 @@ _highest 10%_: 29.7% (2023 est.)<br>
 
 **Budget**<br>
 _revenues_: $9.359 billion (2023 est.)<br>
-_expenditures_: $9.371 billion (2023 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_expenditures_: $10.313 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 102.2% of GDP (2023 est.)<br>
@@ -570,12 +572,6 @@ _refined petroleum consumption_: 56,000 bbl/day (2023 est.)<br>
 _consumption_: 486.291 million cubic meters (2023 est.)<br>
 _imports_: 486.291 million cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 8.694 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 1,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 7.745 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 948,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 24.421 million Btu/person (2023 est.)<br>
 
@@ -661,7 +657,8 @@ La Mara Salvatrucha (MS-13)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 52,000 (2022)<br>
+_refugees_: 392 (2024 est.)<br>
+_IDPs_: 35,391 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>

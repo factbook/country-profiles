@@ -124,24 +124,17 @@ _female_: 84.2 years<br>
 **Gross reproduction rate**<br>
 0.79 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 ## Environment
 
@@ -265,11 +258,11 @@ precious metal watches, base metal watches, jewelry, cars, garments (2023)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.924 (2024 est.)<br>
 0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
 
 ## Energy
 
@@ -282,7 +275,8 @@ _electrification - total population_: 100% (2021)<br>
 2 local TV broadcasters; 5 FM radio channels (2021)<br>
 
 **Internet country code**<br>
-.bl; note - .gp, the Internet country code for Guadeloupe, and .fr, the Internet country code for France, might also be encountered<br>
+.bl<br>
+<strong>note:</strong> .gp, the Internet country code for Guadeloupe, and .fr, the Internet country code for France, are also used<br>
 
 **Internet users**<br>
 _percent of population_: 71.3% (2022 est.)<br>

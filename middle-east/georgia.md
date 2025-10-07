@@ -162,16 +162,13 @@ _female_: 77.2 years<br>
 **Gross reproduction rate**<br>
 0.94 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-40.6% (2018)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.4% of population<br>
-_improved: rural_: rural: 94.3% of population<br>
-_improved: total_: total: 97.3% of population<br>
-_unimproved: urban_: urban: 0.6% of population<br>
-_unimproved: rural_: rural: 5.7% of population<br>
-_unimproved: total_: total: 2.7% of population (2020 est.)<br>
+_improved: urban_: urban: 99.2% of population (2022 est.)<br>
+_improved: rural_: rural: 88.5% of population (2022 est.)<br>
+_improved: total_: total: 95% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.8% of population (2022 est.)<br>
+_unimproved: rural_: rural: 11.5% of population (2022 est.)<br>
+_unimproved: total_: total: 5% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 7.4% of GDP (2022)<br>
@@ -184,12 +181,12 @@ _Health expenditure (as % of national budget)_: 10.5% of national budget (2022 e
 4.9 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 96.3% of population<br>
-_improved: rural_: rural: 72.7% of population<br>
-_improved: total_: total: 86.7% of population<br>
-_unimproved: urban_: urban: 3.7% of population<br>
-_unimproved: rural_: rural: 27.3% of population<br>
-_unimproved: total_: total: 13.3% of population (2020 est.)<br>
+_improved: urban_: urban: 96.6% of population (2022 est.)<br>
+_improved: rural_: rural: 72.5% of population (2022 est.)<br>
+_improved: total_: total: 87.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 3.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 27.5% of population (2022 est.)<br>
+_unimproved: total_: total: 12.9% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 21.7% (2016)<br>
@@ -256,21 +253,26 @@ _urban population_: 60.7% of total population (2023)<br>
 _rate of urbanization_: 0.35% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Abkhazia and South Ossetia<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 19.06 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 10.13 megatons (2016 est.)<br>
-_methane emissions_: 6.05 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 10.7 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 812,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 4.469 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 5.419 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+18.6 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 800,000 tons (2015 est.)<br>
+_municipal solid waste generated annually_: 800,000 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 19.6% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 610 million cubic meters (2020 est.)<br>
-_industrial_: 340 million cubic meters (2020 est.)<br>
-_agricultural_: 710 million cubic meters (2020 est.)<br>
+_municipal_: 504.96 million cubic meters (2022)<br>
+_industrial_: 354.46 million cubic meters (2022)<br>
+_agricultural_: 433.96 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-63.33 billion cubic meters (2020 est.)<br>
+63.33 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -292,7 +294,7 @@ _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name comes from the Georgian word <em>tbili</em>, meaning "warm" and referring to the hot sulfur springs in the area<br>
 
 **Administrative divisions**<br>
-<p>9 regions (<em>mkharebi</em>, singular - <em>mkhare</em>), 1 city (<em>kalaki</em>), and 2 autonomous republics (<em>avtomnoy respubliki</em>, singular - <em>avtom respublika</em>)</p> <p><strong>regions:</strong> Guria, Imereti, Kakheti, Kvemo Kartli, Mtskheta Mtianeti, Racha-Lechkhumi and Kvemo Svaneti, Samegrelo and Zemo Svaneti, Samtskhe-Javakheti, Shida Kartli; note - the breakaway region of South Ossetia consists of the northern part of Shida Kartli, eastern slivers of the Imereti region and Racha-Lechkhumi and Kvemo Svaneti, and part of western Mtskheta-Mtianeti</p> <p><strong>city:</strong> Tbilisi</p> <strong>autonomous republics:</strong> Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi), Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)<br>
+9 regions (<em>mkharebi</em>, singular - <em>mkhare</em>), 1 city (<em>kalaki</em>), and 2 autonomous republics (<em>avtomnoy respubliki</em>, singular - <em>avtom respublika</em>) <br><br><strong>regions:</strong> Guria, Imereti, Kakheti, Kvemo Kartli, Mtskheta Mtianeti, Racha-Lechkhumi and Kvemo Svaneti, Samegrelo and Zemo Svaneti, Samtskhe-Javakheti, Shida Kartli; note - the breakaway region of South Ossetia consists of the northern part of Shida Kartli, eastern slivers of the Imereti region and Racha-Lechkhumi and Kvemo Svaneti, and part of western Mtskheta-Mtianeti <br><br><strong>city:</strong> Tbilisi <br><br><strong>autonomous republics:</strong> Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi), Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)<br>
 <strong>note 1:</strong> the administrative centers of the two autonomous republics are shown in parentheses <br><br><strong>note 2:</strong> the United States recognizes the breakaway regions of Abkhazia and South Ossetia as part of Georgia<br>
 
 **Legal system**<br>
@@ -332,7 +334,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 10/26/2024<br>
 _parties elected and seats per party_: Georgian Dream (89); Coalition for Changes (19); Unity - National Movement (16); Strong Georgia – Lelo, For people, For Liberty! (14); For Georgia (12)<br>
-_percentage of women in chamber_: 13.9%<br>
+_percentage of women in chamber_: 12.4%<br>
 _expected date of next election_: October 2028<br>
 
 **Judicial branch**<br>
@@ -370,8 +372,8 @@ ADB, BSEC, CD, CE, CPLP (associate), EAPC, EBRD, FAO, G-11, GCTU, GUAM, IAEA, IB
 Independence Day, 26 May (1918)<br>
 <strong>note:</strong> 26 May 1918 was the date of independence from Soviet Russia; 9 April 1991 was the date of independence from the Soviet Union<br>
 
-**Flag description**<br>
-white rectangle with a central red cross extending to all four sides of the flag; each of the four quadrants displays a small red <em>bolnur-katskhuri</em> cross; sometimes referred to as the Five-Cross Flag, the design is based on a 14th-century banner of the Kingdom of Georgia<br>
+**Flag**<br>
+<strong>description:</strong> white rectangle with a central red cross extending to all four sides of the flag; each of the four quadrants displays a small red <em>bolnur-katskhuri</em> cross (also known as Bolnisi cross), which has equal-length arms that are slightly wider at the end than in the center<br><br><strong>history:</strong> sometimes referred to as the Five-Cross Flag, the design is based on a 14th-century banner of the Kingdom of Georgia<br>
 
 **National symbol(s)**<br>
 Saint George, lion<br>
@@ -487,9 +489,9 @@ _highest 10%_: 26.9% (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $6.712 billion (2022 est.)<br>
-_expenditures_: $6.23 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $8.686 billion (2023 est.)<br>
+_expenditures_: $9.307 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 43.4% of GDP (2023 est.)<br>
@@ -586,12 +588,6 @@ _consumption_: 2.775 billion cubic meters (2023 est.)<br>
 _imports_: 2.764 billion cubic meters (2023 est.)<br>
 _proven reserves_: 8.495 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 10.7 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 812,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 4.469 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 5.419 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 56.076 million Btu/person (2023 est.)<br>
 
@@ -675,7 +671,7 @@ the Defense Forces of Georgia (DFG) are responsible for protecting the independe
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,660 (Ukraine) (as of 30 December 2023)<br>
-_IDPs_: 308,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2022)<br>
-_stateless persons_: 530 (2022)<br>
+_refugees_: 31,791 (2024 est.)<br>
+_IDPs_: 347,754 (2024 est.)<br>
+_stateless persons_: 488 (2024 est.)<br>
 

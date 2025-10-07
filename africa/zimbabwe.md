@@ -169,16 +169,13 @@ _female_: 68.8 years<br>
 **Gross reproduction rate**<br>
 1.71 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-66.8% (2015)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 97.9% of population<br>
-_improved: rural_: rural: 66.9% of population<br>
-_improved: total_: total: 76.9% of population<br>
-_unimproved: urban_: urban: 2.1% of population<br>
-_unimproved: rural_: rural: 33.1% of population<br>
-_unimproved: total_: total: 23.1% of population (2020 est.)<br>
+_improved: urban_: urban: 92.8% of population (2022 est.)<br>
+_improved: rural_: rural: 47.7% of population (2022 est.)<br>
+_improved: total_: total: 62.3% of population (2022 est.)<br>
+_unimproved: urban_: urban: 7.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 52.3% of population (2022 est.)<br>
+_unimproved: total_: total: 37.7% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 2.8% of GDP (2021)<br>
@@ -188,12 +185,12 @@ _Health expenditure (as % of national budget)_: 5.2% of national budget (2022 es
 0.14 physicians/1,000 population (2023)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 96.1% of population<br>
-_improved: rural_: rural: 49% of population<br>
-_improved: total_: total: 64.2% of population<br>
-_unimproved: urban_: urban: 3.9% of population<br>
-_unimproved: rural_: rural: 51% of population<br>
-_unimproved: total_: total: 35.8% of population (2017 est.)<br>
+_improved: urban_: urban: 97.5% of population (2022 est.)<br>
+_improved: rural_: rural: 50.3% of population (2022 est.)<br>
+_improved: total_: total: 65.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 2.5% of population (2022 est.)<br>
+_unimproved: rural_: rural: 49.7% of population (2022 est.)<br>
+_unimproved: total_: total: 34.4% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 15.5% (2016)<br>
@@ -254,23 +251,25 @@ _other_: 15.7% (2022 est.)<br>
 _urban population_: 32.5% of total population (2023)<br>
 _rate of urbanization_: 2.41% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 13.08 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 10.98 megatons (2016 est.)<br>
-_methane emissions_: 12.1 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 12.578 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 7.629 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 4.949 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+14.5 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1,449,752 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 231,960 tons (2005 est.)<br>
-_percent of municipal solid waste recycled_: 16% (2005 est.)<br>
+_municipal solid waste generated annually_: 1.45 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 21.8% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 650 million cubic meters (2020 est.)<br>
-_industrial_: 80 million cubic meters (2020 est.)<br>
-_agricultural_: 3.04 billion cubic meters (2020 est.)<br>
+_municipal_: 547.078 million cubic meters (2022 est.)<br>
+_industrial_: 81.352 million cubic meters (2022 est.)<br>
+_agricultural_: 4.281 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-20 billion cubic meters (2020 est.)<br>
+20 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -380,8 +379,8 @@ ACP, AfDB, ATMIS, AU, COMESA, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD
 **National holiday**<br>
 Independence Day, 18 April (1980)<br>
 
-**Flag description**<br>
-seven equal horizontal bands of green (top), yellow, red, black, red, yellow, and green, with a white isosceles triangle edged in black with its base on the hoist side; a yellow bird representing the long history of the country is on top of a five-pointed red star in the center of the triangle, which symbolizes peace; green stands for agriculture, yellow for mineral wealth, red for the blood shed to achieve independence, and black for the people<br>
+**Flag**<br>
+<strong>description:</strong> seven equal horizontal bands of green (top), yellow, red, black, red, yellow, and green, with a white isosceles triangle edged in black based on the left side; in the middle of the triangle, a yellow bird is on top of a five-pointed red star<br><br><strong>meaning: </strong>the bird represents the long history of the country; white stands for peace, green for agriculture, yellow for mineral wealth, red for the blood shed to achieve independence, and black for the people<br>
 
 **National symbol(s)**<br>
 Zimbabwe bird symbol, African fish eagle, flame lily<br>
@@ -390,9 +389,9 @@ Zimbabwe bird symbol, African fish eagle, flame lily<br>
 green, yellow, red, black, white<br>
 
 **National anthem(s)**<br>
-_title_: "Kalibusiswe Ilizwe leZimbabwe" [Northern Ndebele language] "Simudzai Mureza WeZimbabwe" [Shona] (Blessed Be the Land of Zimbabwe)<br>
+_title_: "Kalibusiswe Ilizwe leZimbabwe" [Ndebele] "Simudzai Mureza WeZimbabwe" [Shona] (Blessed Be the Land of Zimbabwe)<br>
 _lyrics/music_: Solomon MUTSWAIRO/Fred Lecture CHANGUNDEGA<br>
-_history_: adopted 1994<br>
+_history_: adopted 1994; lyrics in the country's three main languages were written by Zimbabwean poet and academic MUTSWAIRO<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>
@@ -496,6 +495,9 @@ _highest 10%_: 34.8% (2017 est.)<br>
 _revenues_: $17 million (2018 est.)<br>
 _expenditures_: $23 million (2018 est.)<br>
 
+**Public debt**<br>
+69.9% of GDP (2016 est.)<br>
+
 **Taxes and other revenues**<br>
 7.2% (of GDP) (2018 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
@@ -584,11 +586,6 @@ _proven reserves_: 502 million metric tons (2023 est.)<br>
 _total petroleum production_: 800 bbl/day (2023 est.)<br>
 _refined petroleum consumption_: 34,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 12.578 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 7.629 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 4.949 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 10.855 million Btu/person (2023 est.)<br>
 
@@ -666,8 +663,9 @@ has a nascent program with the goal of utilizing space technologies in economic 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,931 (Mozambique) (2023); 12,293 (Democratic Republic of Congo) (refugees and asylum seekers) (2024)<br>
+_refugees_: 22,432 (2024 est.)<br>
+_IDPs_: 32,675 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Zimbabwe was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/zimbabwe/<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Zimbabwe remained on Tier 2 Watch List for the second consecutive year; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/zimbabwe/<br>
 

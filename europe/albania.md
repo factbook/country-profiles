@@ -167,16 +167,13 @@ _female_: 82.8 years<br>
 **Gross reproduction rate**<br>
 0.75 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-46% (2017/18)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 97.3% of population<br>
-_improved: rural_: rural: 96.4% of population<br>
-_improved: total_: total: 97% of population<br>
-_unimproved: urban_: urban: 2.7% of population<br>
-_unimproved: rural_: rural: 3.6% of population<br>
-_unimproved: total_: total: 3% of population (2020 est.)<br>
+_improved: urban_: urban: 95.7% of population (2022 est.)<br>
+_improved: rural_: rural: 94.1% of population (2022 est.)<br>
+_improved: total_: total: 95.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 4.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 5.9% of population (2022 est.)<br>
+_unimproved: total_: total: 4.9% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 7.3% of GDP (2021)<br>
@@ -189,12 +186,12 @@ _Health expenditure (as % of national budget)_: 9.2% of national budget (2022 es
 2.9 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.8% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: 0.2% of population<br>
-_unimproved: rural_: rural: 0.5% of population<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
+_improved: urban_: urban: 99.8% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 99.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 21.7% (2016)<br>
@@ -260,21 +257,26 @@ _other_: 29.8% (2022 est.)<br>
 _urban population_: 64.6% of total population (2023)<br>
 _rate of urbanization_: 1.29% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 16.28 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 4.54 megatons (2016 est.)<br>
-_methane emissions_: 2.55 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 3.392 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 566,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.734 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 93,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+16.6 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1,142,964 tons (2015 est.)<br>
+_municipal solid waste generated annually_: 1.087 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 20.5% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 230 million cubic meters (2020 est.)<br>
-_industrial_: 20 million cubic meters (2020 est.)<br>
-_agricultural_: 550 million cubic meters (2020 est.)<br>
+_municipal_: 221 million cubic meters (2022)<br>
+_industrial_: 11 million cubic meters (2022)<br>
+_agricultural_: 565 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-30.2 billion cubic meters (2020 est.)<br>
+30.2 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -373,8 +375,8 @@ BSEC, CD, CE, CEI, EAPC, EBRD, EITI (compliant country), FAO, IAEA, IBRD, ICAO, 
 **National holiday**<br>
 Independence Day, 28 November (1912), also known as Flag Day<br>
 
-**Flag description**<br>
-red with a black two-headed eagle in the center; the design is claimed to be that of 15th-century hero Georgi Kastrioti SKANDERBEG, who led a successful uprising against the Ottoman Turks that resulted in a short-lived independence for some Albanian regions (1443-78); an unsubstantiated explanation for the eagle symbol is the tradition that Albanians see themselves as descendants of the eagle; they refer to themselves as "Shqiptare," which translates as "sons of the eagle"<br>
+**Flag**<br>
+<strong>description:</strong> red with a black two-headed eagle in the center<br><br><strong>meaning: </strong>Albanians traditionally see themselves as descendants of the eagle; they refer to themselves as "Shqiptare," which translates as "sons of the eagle"<br><br><strong>history: </strong>the design is said to originate with 15th-century Albanian hero Georgi Kastrioti SKANDERBEG, who led a successful uprising against the Ottoman Turks<br>
 
 **National symbol(s)**<br>
 black double-headed eagle<br>
@@ -382,10 +384,13 @@ black double-headed eagle<br>
 **National color(s)**<br>
 red, black<br>
 
+**National coat of arms**<br>
+adopted in 1998 and features the national symbol, the double-headed black eagle, in the national colors of red and black; red represents the courage and strength of the Albanian people, and the golden border represents the country’s wealth; the helmet above the eagle is modeled on the helmet of Skanderbeg, a 15th-century Albanian military hero who led a rebellion against the Ottoman Empire; the goat on top of the helmet represents defiance and resistance<br>
+
 **National anthem(s)**<br>
 _title_: "Hymni i Flamurit" (Hymn to the Flag)<br>
 _lyrics/music_: Aleksander Stavre DRENOVA/Ciprian PORUMBESCU<br>
-_history_: adopted 1912; only the first two stanzas of the original poem are used with the second stanza is a chorus<br>
+_history_: adopted 1912; only the first two stanzas of the original poem are used, with the second stanza as a chorus<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (2 cultural, 1 natural, 1 mixed)<br>
@@ -486,9 +491,9 @@ _highest 10%_: 22.8% (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $5.319 billion (2021 est.)<br>
-_expenditures_: $4.4 billion (2021 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $6.636 billion (2023 est.)<br>
+_expenditures_: $6.966 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 81.9% of GDP (2021 est.)<br>
@@ -583,12 +588,6 @@ _production_: 49.977 million cubic meters (2023 est.)<br>
 _consumption_: 49.977 million cubic meters (2023 est.)<br>
 _proven reserves_: 5.692 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 3.392 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 566,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 2.734 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 93,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 27.407 million Btu/person (2023 est.)<br>
 
@@ -650,14 +649,14 @@ Republic of Albania Armed Forces (Forcat e Armatosura të Republikës së Shqip�
 <strong>note:</strong> the State Police are primarily responsible for internal security, including counterterrorism, while the Guard of the Republic protects senior state officials, foreign dignitaries, and certain state properties<br>
 
 **Military expenditures**<br>
-2% of GDP (2024 est.)<br>
-1.7% of GDP (2023)<br>
-1.2% of GDP (2022)<br>
-1.2% of GDP (2021)<br>
-1.3% of GDP (2020)<br>
+2% of GDP (2025 est.)<br>
+1.7% of GDP (2024 est.)<br>
+1.7% of GDP (2023 est.)<br>
+1.2% of GDP (2022 est.)<br>
+1.2% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,000 total active-duty Armed Forces (2024)<br>
+approximately 7,500 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 since joining NATO, the military has been in the process of modernizing by retiring its inventory of Soviet-era weapons and replacing them with Western equipment, including donated and secondhand deliveries (2024)<br>
@@ -678,7 +677,6 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 47,247 (Ukraine) (as of 30 January 2024)<br>
-_stateless persons_: 1,948 (2022)<br>
-<strong>note:</strong> 47,306 estimated refugee and migrant arrivals (January 2015-February 2024)<br>
+_refugees_: 9,381 (2024 est.)<br>
+_stateless persons_: 2,203 (2024 est.)<br>
 

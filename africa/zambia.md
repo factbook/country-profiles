@@ -172,16 +172,13 @@ _female_: 68.7 years<br>
 **Gross reproduction rate**<br>
 2.18 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-49.6% (2018)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 90.2% of population<br>
-_improved: rural_: rural: 56.6% of population<br>
-_improved: total_: total: 71.6% of population<br>
-_unimproved: urban_: urban: 9.8% of population<br>
-_unimproved: rural_: rural: 43.4% of population<br>
-_unimproved: total_: total: 28.4% of population (2020 est.)<br>
+_improved: urban_: urban: 88.6% of population (2022 est.)<br>
+_improved: rural_: rural: 51.1% of population (2022 est.)<br>
+_improved: total_: total: 68.2% of population (2022 est.)<br>
+_unimproved: urban_: urban: 11.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 48.9% of population (2022 est.)<br>
+_unimproved: total_: total: 31.8% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6.6% of GDP (2021)<br>
@@ -191,12 +188,12 @@ _Health expenditure (as % of national budget)_: 8.9% of national budget (2022 es
 0.32 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 76.3% of population<br>
-_improved: rural_: rural: 31.9% of population<br>
-_improved: total_: total: 51.7% of population<br>
-_unimproved: urban_: urban: 23.7% of population<br>
-_unimproved: rural_: rural: 68.1% of population<br>
-_unimproved: total_: total: 48.3% of population (2020 est.)<br>
+_improved: urban_: urban: 78.1% of population (2022 est.)<br>
+_improved: rural_: rural: 40.9% of population (2022 est.)<br>
+_improved: total_: total: 57.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 21.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 59.1% of population (2022 est.)<br>
+_unimproved: total_: total: 42.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 8.1% (2016)<br>
@@ -257,13 +254,17 @@ _other_: 8.2% (2022 est.)<br>
 _urban population_: 46.3% of total population (2023)<br>
 _rate of urbanization_: 4.15% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 16.9 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 5.14 megatons (2016 est.)<br>
-_methane emissions_: 14.1 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 9.877 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 4.835 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 5.042 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+16.1 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2,608,268 tons (2002 est.)<br>
+_municipal solid waste generated annually_: 2.608 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 12.6% (2022 est.)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 290 million cubic meters (2020 est.)<br>
@@ -365,8 +366,8 @@ ACP, AfDB, AU, C, COMESA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO,
 **National holiday**<br>
 Independence Day, 24 October (1964)<br>
 
-**Flag description**<br>
-green field with a panel of three vertical bands of red (hoist side), black, and orange, below a soaring orange eagle on the outer edge of the flag; green stands for the country's natural resources and vegetation, red for the struggle for freedom, black for the people, and orange for the country's mineral wealth; the eagle represents the people's ability to rise above the nation's problems<br>
+**Flag**<br>
+<strong>description: </strong>green field with a soaring orange eagle in the upper-right corner; a panel of three vertical bands is under the eagle, in red (left side), black, and orange<br><br><strong>meaning:</strong> green stands for the country's natural resources and vegetation, red for the struggle for freedom, black for the people, and orange for the country's mineral wealth; the eagle represents the people's ability to rise above the nation's problems<br>
 
 **National symbol(s)**<br>
 African fish eagle<br>
@@ -377,7 +378,7 @@ green, red, black, orange<br>
 **National anthem(s)**<br>
 _title_: "Lumbanyeni Zambia" (Stand and Sing of Zambia, Proud and Free)<br>
 _lyrics/music_: multiple/Enoch Mankayi SONTONGA<br>
-_history_: adopted 1964; the melody, which comes from the popular song "God Bless Africa," is the same as Tanzania's anthem, but with different lyrics; the melody is also incorporated into South Africa's anthem<br>
+_history_: adopted 1964; the melody, which comes from the popular song "God Bless Africa," a popular song and anthem in southern Africa <br><br><br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (natural)<br>
@@ -572,11 +573,6 @@ _proven reserves_: 945 million metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 34,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 9.877 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 4.835 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 5.042 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 8.265 million Btu/person (2023 est.)<br>
 
@@ -655,5 +651,6 @@ the Zambia Defense Forces (ZDF) are responsible for territorial defense, border 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,436 (Burundi) (2023); 62,660 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
+_refugees_: 88,918 (2024 est.)<br>
+_IDPs_: 131,349 (2024 est.)<br>
 

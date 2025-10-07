@@ -164,16 +164,13 @@ _female_: 70.6 years<br>
 **Gross reproduction rate**<br>
 1.37 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-33.5% (2013)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 98.5% of population<br>
-_improved: rural_: rural: 84.2% of population<br>
-_improved: total_: total: 99.6% of population<br>
-_unimproved: urban_: urban: 1.5% of population<br>
-_unimproved: rural_: rural: 15.8% of population<br>
-_unimproved: total_: total: 10.4% of population (2020 est.)<br>
+_improved: urban_: urban: 77.2% of population (2022 est.)<br>
+_improved: rural_: rural: 51.8% of population (2022 est.)<br>
+_improved: total_: total: 61.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 22.8% of population (2022 est.)<br>
+_unimproved: rural_: rural: 48.2% of population (2022 est.)<br>
+_unimproved: total_: total: 38.2% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.3% of GDP (2015)<br>
@@ -183,12 +180,12 @@ _Health expenditure (as % of national budget)_: 2.5% of national budget (2022 es
 0.1 physicians/1,000 population (2023)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 83.5% of population<br>
-_improved: rural_: rural: 44.2% of population<br>
-_improved: total_: total: 59.1% of population<br>
-_unimproved: urban_: urban: 16.5% of population<br>
-_unimproved: rural_: rural: 55.8% of population<br>
-_unimproved: total_: total: 40.9% of population (2020 est.)<br>
+_improved: urban_: urban: 83.1% of population (2022 est.)<br>
+_improved: rural_: rural: 44.8% of population (2022 est.)<br>
+_improved: total_: total: 59.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 16.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 55.2% of population (2022 est.)<br>
+_unimproved: total_: total: 40.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 17.1% (2016)<br>
@@ -239,23 +236,32 @@ _other_: 54.5% (2022 est.)<br>
 _urban population_: 39.8% of total population (2023)<br>
 _rate of urbanization_: 3.71% annual rate of change (2015-20 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 41.61 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 10.61 megatons (2016 est.)<br>
-_methane emissions_: 8.03 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 8.193 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 93,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 8.08 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 21,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+43.9 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 190.5 kt (2022-2024 est.)<br>
+_agriculture_: 192.2 kt (2019-2021 est.)<br>
+_waste_: 135.9 kt (2019-2021 est.)<br>
+_other_: 0.4 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 4,836,820 tons (2011 est.)<br>
-_municipal solid waste recycled annually_: 386,946 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 4.837 million tons (2024 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2016 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 270 million cubic meters (2020 est.)<br>
-_industrial_: 70 million cubic meters (2020 est.)<br>
-_agricultural_: 3.24 billion cubic meters (2020 est.)<br>
+_municipal_: 265 million cubic meters (2022 est.)<br>
+_industrial_: 65 million cubic meters (2022 est.)<br>
+_agricultural_: 3.235 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-2.1 billion cubic meters (2020 est.)<br>
+2.1 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -361,8 +367,8 @@ AFESD, AMF, CAEU, CD, EITI (temporarily suspended), FAO, G-77, IAEA, IBRD, ICAO,
 **National holiday**<br>
 Unification Day, 22 May (1990)<br>
 
-**Flag description**<br>
-three equal horizontal bands of red (top), white, and black; the band colors come from the Arab Liberation flag and represent oppression (black) overcome through bloody struggle (red), to be replaced by a bright future (white)<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of red (top), white, and black<br><br><strong>meaning:</strong> the band colors come from the Arab Liberation flag and represent oppression (black) overcome through bloody struggle (red), to be replaced by a bright future (white)<br>
 <strong>note:</strong> similar to the flags of Iraq (Arabic inscription centered in the white band) and Egypt (heraldic eagle centered in the white band)<br>
 
 **National symbol(s)**<br>
@@ -386,10 +392,10 @@ _selected World Heritage Site locales_: Old Walled City of Shibam (c); Old City 
 low-income Middle Eastern economy; infrastructure, trade, and economic institutions devastated by civil war; oil/gas-dependent but decreasing reserves; massive poverty, food insecurity, and unemployment; high inflation<br>
 
 **Real GDP (purchasing power parity)**<br>
-$73.63 billion (2017 est.)<br>
-$78.28 billion (2016 est.)<br>
-$90.63 billion (2015 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$18.719 billion (2024 est.)<br>
+$18.908 billion (2023 est.)<br>
+$19.294 billion (2022 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
 0.8% (2018 est.)<br>
@@ -398,14 +404,20 @@ $90.63 billion (2015 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,500 (2017 est.)<br>
-$2,700 (2016 est.)<br>
-$3,200 (2015 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$200 (2024 est.)<br>
+$200 (2023 est.)<br>
+$300 (2022 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$21.606 billion (2018 est.)<br>
+$8.278 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
+
+**Inflation rate (consumer prices)**<br>
+29.1% (2022 est.)<br>
+26% (2021 est.)<br>
+19.6% (2020 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 28.7% (2018 est.)<br>
@@ -449,6 +461,9 @@ _female_: 38.4% (2024 est.)<br>
 **Budget**<br>
 _revenues_: $2.207 billion (2019 est.)<br>
 _expenditures_: $3.585 billion (2019 est.)<br>
+
+**Public debt**<br>
+68.1% of GDP (2016 est.)<br>
 
 **Current account balance**<br>
 -$2.419 billion (2016 est.)<br>
@@ -532,12 +547,6 @@ _production_: 10.286 million cubic meters (2023 est.)<br>
 _consumption_: 10.286 million cubic meters (2023 est.)<br>
 _proven reserves_: 478.555 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 8.193 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 93,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 8.08 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 21,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 2.987 million Btu/person (2023 est.)<br>
 
@@ -616,6 +625,6 @@ Ansarallah (Houthis); Hizballah; Islamic Revolutionary Guard Corps (IRGC)/Qods F
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 45,608 (Somalia), 17,812 (Ethiopia) (2023)<br>
-_IDPs_: 4.523 million (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2022)<br>
+_refugees_: 60,921 (2024 est.)<br>
+_IDPs_: 4,795,983 (2024 est.)<br>
 

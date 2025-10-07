@@ -170,16 +170,13 @@ _female_: 76.1 years<br>
 **Gross reproduction rate**<br>
 1.58 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-65.6% (2019/20)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 96.7% of population<br>
-_improved: rural_: rural: 91% of population<br>
-_improved: total_: total: 92% of population<br>
-_unimproved: urban_: urban: 3.3% of population<br>
-_unimproved: rural_: rural: 9% of population<br>
-_unimproved: total_: total: 8% of population (2020 est.)<br>
+_improved: urban_: urban: 85.9% of population (2022 est.)<br>
+_improved: rural_: rural: 68.8% of population (2022 est.)<br>
+_improved: total_: total: 71.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 14.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 31.2% of population (2022 est.)<br>
+_unimproved: total_: total: 28.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 7.4% of GDP (2021)<br>
@@ -189,12 +186,12 @@ _Health expenditure (as % of national budget)_: 3.3% of national budget (2022 es
 0.05 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 59.9% of population<br>
-_improved: rural_: rural: 35.9% of population<br>
-_improved: total_: total: 40% of population<br>
-_unimproved: urban_: urban: 40.1% of population<br>
-_unimproved: rural_: rural: 64.1% of population<br>
-_unimproved: total_: total: 60% of population (2020 est.)<br>
+_improved: urban_: urban: 87.1% of population (2022 est.)<br>
+_improved: rural_: rural: 73.4% of population (2022 est.)<br>
+_improved: total_: total: 75.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 12.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 26.6% of population (2022 est.)<br>
+_unimproved: total_: total: 24.2% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 5.8% (2016)<br>
@@ -260,21 +257,25 @@ _other_: 12.9% (2022 est.)<br>
 _urban population_: 18.3% of total population (2023)<br>
 _rate of urbanization_: 4.41% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 18.57 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 1.3 megatons (2016 est.)<br>
-_methane emissions_: 11.12 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 2.265 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 65,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.2 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+18.5 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1,297,844 tons (2013 est.)<br>
+_municipal solid waste generated annually_: 1.298 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 9.6% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 140 million cubic meters (2020 est.)<br>
-_industrial_: 50 million cubic meters (2020 est.)<br>
-_agricultural_: 1.17 billion cubic meters (2020 est.)<br>
+_municipal_: 143.1 million cubic meters (2022 est.)<br>
+_industrial_: 47.7 million cubic meters (2022 est.)<br>
+_agricultural_: 1.166 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-17.28 billion cubic meters (2020 est.)<br>
+17.28 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -322,9 +323,9 @@ _chief of state_: President Lazarus CHAKWERA (since 28 June 2020)<br>
 _head of government_: President Lazarus CHAKWERA (since 28 June 2020)<br>
 _cabinet_: Cabinet named by the president<br>
 _election/appointment process_: president directly elected by simple-majority popular vote for a 5-year term (eligible for a second term)<br>
-_most recent election date_: 23 June 2020<br>
-_election results_: <br><em>2020: </em>Lazarus CHAKWERA elected president; Lazarus CHAKWERA (MCP) 59.3%, Peter Mutharika (DPP) 39.9%, other 0.8%<br><br><em>2014:</em> Peter MUTHARIKA elected president; percent of vote - Peter MUTHARIKA (DPP) 36.4%, Lazarus CHAKWERA (MCP) 27.8%, Joyce BANDA (PP) 20.2%, Atupele MULUZI (UDF) 13.7%, other 1.9%<br>
-_expected date of next election_: June 2025<br>
+_most recent election date_: September 2030<br>
+_election results_: 2025: Peter MUTHARIKA elected president; percent of vote- Peter MUTHARIKA (DPP) 56.8%, Lazarus CHAKWERA (MCP) 33.0%, Dalitso KABAMBE (UTM) 3.95, Atupele MULUZI (UDF) 1.92%, Joyce BANDA (PP) 1.61%, other 2.72%<br><br><em>2020: </em>Lazarus CHAKWERA elected president; Lazarus CHAKWERA (MCP) 59.3%, Peter Mutharika (DPP) 39.9%, other 0.8%<br>
+_expected date of next election_: September 2025<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -354,7 +355,7 @@ _telephone_: [1] (202) 451- 0409<br>
 _email address and website_: <br>malawidc@aol.com<br><br>Home | Malawi Embassy USA<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Amy W. DIAZ (since February 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Jonathan FISCHER (since 8 August 2025)<br>
 _embassy_: 16 Jomo Kenyatta Road, Lilongwe 3<br>
 _mailing address_: 2280 Lilongwe Place, Washington DC&nbsp; 20521-2280<br>
 _telephone_: [265] (0) 177-3166<br>
@@ -371,8 +372,8 @@ ACP, AfDB, AU, C, CD, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD
 Independence Day, 6 July (1964)<br>
 <strong>note:</strong> also called Republic Day since 6 July 1966<br>
 
-**Flag description**<br>
-three equal horizontal bands of black (top), red, and green, with a rising red sun centered on the black band; black represents ethnic groups, red the blood shed in their struggle for freedom, and green the color of nature; the sun represents the hope of freedom for the continent of Africa<br>
+**Flag**<br>
+<strong>description: </strong>three equal horizontal bands of black (top), red, and green, with a rising red sun centered on the black band<br><br><strong>meaning:</strong> black stands for ethnic groups, red for the blood shed in the struggle for freedom, and green for nature; the sun represents the hope of freedom for the continent of Africa<br>
 
 **National symbol(s)**<br>
 lion<br>
@@ -475,8 +476,8 @@ _highest 10%_: 31% (2019 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $1.688 billion (2020 est.)<br>
-_expenditures_: $1.941 billion (2020 est.)<br>
+_revenues_: $2.208 billion (2022 est.)<br>
+_expenditures_: $3.523 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
@@ -567,11 +568,6 @@ _proven reserves_: 801.999 million metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 15,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 2.265 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 65,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 2.2 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 1.792 million Btu/person (2023 est.)<br>
 
@@ -641,5 +637,6 @@ the MDF’s primary responsibility is external security; it is also tasked as ne
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,502 (Burundi) (refugees and asylum seekers), 6,594 (Rwanda) (refugees and asylum seekers) (2023); 34,605 (Democratic Republic of the Congo) (refugees and asylum seekers)<br>
+_refugees_: 56,659 (2024 est.)<br>
+_IDPs_: 135,728 (2024 est.)<br>
 

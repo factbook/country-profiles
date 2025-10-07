@@ -164,16 +164,13 @@ _female_: 74.7 years<br>
 **Gross reproduction rate**<br>
 2.03 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-23.9% (2017)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 93.8% of population<br>
-_improved: rural_: rural: 60.3% of population<br>
-_improved: total_: total: 74.6% of population<br>
-_unimproved: urban_: urban: 6.2% of population<br>
-_unimproved: rural_: rural: 39.7% of population<br>
-_unimproved: total_: total: 25.4% of population (2020 est.)<br>
+_improved: urban_: urban: 87% of population (2022 est.)<br>
+_improved: rural_: rural: 58.5% of population (2022 est.)<br>
+_improved: total_: total: 71% of population (2022 est.)<br>
+_unimproved: urban_: urban: 13% of population (2022 est.)<br>
+_unimproved: rural_: rural: 41.5% of population (2022 est.)<br>
+_unimproved: total_: total: 29% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.6% of GDP (2021)<br>
@@ -186,12 +183,12 @@ _Health expenditure (as % of national budget)_: 2.6% of national budget (2022 es
 0.6 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 81.9% of population<br>
-_improved: rural_: rural: 18.3% of population<br>
-_improved: total_: total: 45.5% of population<br>
-_unimproved: urban_: urban: 18.1% of population<br>
-_unimproved: rural_: rural: 81.7% of population<br>
-_unimproved: total_: total: 54.5% of population (2020 est.)<br>
+_improved: urban_: urban: 82% of population (2022 est.)<br>
+_improved: rural_: rural: 19.2% of population (2022 est.)<br>
+_improved: total_: total: 46.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 18% of population (2022 est.)<br>
+_unimproved: rural_: rural: 80.8% of population (2022 est.)<br>
+_unimproved: total_: total: 53.3% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 8.4% (2016)<br>
@@ -257,23 +254,32 @@ _other_: 7.6% (2022 est.)<br>
 _urban population_: 44.5% of total population (2023)<br>
 _rate of urbanization_: 3.6% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 35.66 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 3 megatons (2016 est.)<br>
-_methane emissions_: 3.06 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 2.656 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 372,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.941 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 343,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+33.9 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 43.3 kt (2022-2024 est.)<br>
+_agriculture_: 51.8 kt (2019-2021 est.)<br>
+_waste_: 31.3 kt (2019-2021 est.)<br>
+_other_: 10.4 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1,109,030 tons (2014 est.)<br>
-_municipal solid waste recycled annually_: 22,181 tons (2012 est.)<br>
-_percent of municipal solid waste recycled_: 2% (2012 est.)<br>
+_municipal solid waste generated annually_: 1.109 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 3.5% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 140 million cubic meters (2020 est.)<br>
-_industrial_: 10 million cubic meters (2020 est.)<br>
-_agricultural_: 80 million cubic meters (2020 est.)<br>
+_municipal_: 140.7 million cubic meters (2022 est.)<br>
+_industrial_: 6.3 million cubic meters (2022 est.)<br>
+_agricultural_: 76 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-14.7 billion cubic meters (2020 est.)<br>
+14.7 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -366,8 +372,8 @@ _FAX_: [1] (202) 232-3190<br>
 _email address and website_: <br>embassyoftogo@hotmail.com<br><br>https://embassyoftogousa.com/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Ronald E. HAWKINS Jr. (since 31 May 2024)<br>
-_embassy_: DoS PDF Ambassador Assignments Overseas Report, 23 December 2024 and 28 June 2024, accessed 14 January 2025; and<br>U.S. Embassy Togo website homepage, U.S. Mission Leaders, https://tg.usembassy.gov/, Homepage - U.S. Embassy in Togo, current as of 14 January 2025, accessed 14 January 2025; and<br>U.S. Embassy Togo website, U.S. Mission Leaders, (undated), https://tg.usembassy.gov/category/u-s-mission-leaders/, U.S. Mission Leaders Archives - U.S. Embassy in Togo, accessed 14 January 2025<br>X@USEmbassyLome post on departure of Ambassador, 30 May 2024, accessed 14 January 2025<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Richard C. MICHAELS (since June 2025)<br>
+_embassy_: Boulevard Eyadema<br>B.P. 852, Lomé<br>
 _mailing address_: 2300 Lome Place, Washington, DC 20521-2300<br>
 _telephone_: [228] 2261-5470<br>
 _FAX_: [228] 2261-5501<br>
@@ -382,9 +388,8 @@ ACP, AfDB, AIIB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, I
 **National holiday**<br>
 Independence Day, 27 April (1960)<br>
 
-**Flag description**<br>
-five equal horizontal bands of green (top and bottom) alternating with yellow; a white five-pointed star on a red square is in the upper hoist-side corner; the five horizontal stripes stand for the country's regions; red stands for the people's loyalty and patriotism, green for hope, fertility, and agriculture, and yellow for mineral wealth and faith that hard work and strength will bring prosperity; the star symbolizes life, purity, peace, dignity, and national independence<br>
-<strong>note:</strong> uses the popular pan-African colors of Ethiopia<br>
+**Flag**<br>
+<strong>description:</strong> five equal horizontal bands of green (top and bottom) alternating with yellow; a five-pointed white star on a red square is in the upper-left corner<br><br><strong>meaning:</strong> the five horizontal stripes stand for the country's regions; red stands for the people's loyalty and patriotism; green for hope, fertility, and agriculture; yellow for mineral wealth and faith that hard work and strength will bring prosperity; the star symbolizes life, purity, peace, dignity, and national independence<br><br><strong>history:</strong> uses the colors of the Pan-African movement<br>
 
 **National symbol(s)**<br>
 lion<br>
@@ -496,9 +501,12 @@ _highest 10%_: 29.6% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $1.434 billion (2022 est.)<br>
-_expenditures_: $1.32 billion (2022 est.)<br>
+_revenues_: $1.801 billion (2023 est.)<br>
+_expenditures_: $2.407 billion (2023 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+81.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 14.8% (of GDP) (2023 est.)<br>
@@ -580,12 +588,6 @@ _refined petroleum consumption_: 14,000 bbl/day (2023 est.)<br>
 **Natural gas**<br>
 _consumption_: 176.16 million cubic meters (2023 est.)<br>
 _imports_: 176.16 million cubic meters (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 2.656 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 372,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 1.941 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 343,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 4.538 million Btu/person (2023 est.)<br>
@@ -673,5 +675,6 @@ Jama’at Nusrat al Islam wal Muslimeen (JNIM)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,846 (Burkina Faso), 8,436 (Ghana) (2023)<br>
+_refugees_: 48,756 (2024 est.)<br>
+_IDPs_: 18,429 (2024 est.)<br>
 

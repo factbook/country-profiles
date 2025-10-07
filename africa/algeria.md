@@ -165,16 +165,13 @@ _female_: 78.7 years<br>
 **Gross reproduction rate**<br>
 1.43 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-53.6% (2018/19)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.6% of population<br>
-_improved: rural_: rural: 98.8% of population<br>
-_improved: total_: total: 99.4% of population<br>
-_unimproved: urban_: urban: 0.4% of population<br>
-_unimproved: rural_: rural: 1.2% of population<br>
-_unimproved: total_: total: 0.6% of population (2020 est.)<br>
+_improved: urban_: urban: 96.1% of population (2022 est.)<br>
+_improved: rural_: rural: 90.4% of population (2022 est.)<br>
+_improved: total_: total: 94.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 3.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 9.6% of population (2022 est.)<br>
+_unimproved: total_: total: 5.3% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.5% of GDP (2021)<br>
@@ -187,12 +184,12 @@ _Health expenditure (as % of national budget)_: 5.4% of national budget (2022 es
 1.6 beds/1,000 population (2017 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 98.3% of population<br>
-_improved: rural_: rural: 91.3% of population<br>
-_improved: total_: total: 96.5% of population<br>
-_unimproved: urban_: urban: 1.7% of population<br>
-_unimproved: rural_: rural: 8.7% of population<br>
-_unimproved: total_: total: 3.5% of population (2020 est.)<br>
+_improved: urban_: urban: 98.3% of population (2022 est.)<br>
+_improved: rural_: rural: 91.7% of population (2022 est.)<br>
+_improved: total_: total: 96.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.7% of population (2022 est.)<br>
+_unimproved: rural_: rural: 8.3% of population (2022 est.)<br>
+_unimproved: total_: total: 3.4% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 27.4% (2016)<br>
@@ -255,23 +252,32 @@ _other_: 81.8% (2022 est.)<br>
 _urban population_: 75.3% of total population (2023)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 22.68 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 150.01 megatons (2016 est.)<br>
-_methane emissions_: 49.94 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 163.661 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 741,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 57.795 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 105.125 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+22.4 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 2,561.1 kt (2022-2024 est.)<br>
+_agriculture_: 256 kt (2019-2021 est.)<br>
+_waste_: 486.4 kt (2019-2021 est.)<br>
+_other_: 7.6 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 12,378,740 tons (2016 est.)<br>
-_municipal solid waste recycled annually_: 990,299 tons (2013 est.)<br>
-_percent of municipal solid waste recycled_: 8% (2013 est.)<br>
+_municipal solid waste generated annually_: 12.379 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 11% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 3.6 billion cubic meters (2020 est.)<br>
-_industrial_: 190 million cubic meters (2020 est.)<br>
-_agricultural_: 6.67 billion cubic meters (2020 est.)<br>
+_municipal_: 3.389 billion cubic meters (2022)<br>
+_industrial_: 181 million cubic meters (2022)<br>
+_agricultural_: 7.391 billion cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-11.67 billion cubic meters (2020 est.)<br>
+11.667 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -315,7 +321,7 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Abdelmadjid TEBBOUNE (since 12 December 2019)<br>
-_head of government_: Prime Minister Nadir LARBAOUI (since 11 November 2023)<br>
+_head of government_: Prime Minister Sifi GHRIEB (since 28 August 2025)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _election/appointment process_: president directly elected by absolute majority popular vote in two rounds if needed for a 5-year term (eligible for a second term); prime minister nominated by the president after consultation with the majority party in Parliament<br>
 _most recent election date_: 7 September 2024<br>
@@ -382,8 +388,8 @@ ABEDA, AfDB, AFESD, AMF, AMU, AU, BIS, CAEU, CD, FAO, G-15, G-24, G-77, IAEA, IB
 **National holiday**<br>
 Independence Day, 5 July (1962); Revolution Day, 1 November (1954)<br>
 
-**Flag description**<br>
-two equal vertical bands of green (hoist side) and white; a red, five-pointed star within a red crescent centered over the two-color boundary; the colors represent Islam (green), purity and peace (white), and liberty (red); the crescent and star are also Islamic symbols, but the crescent is more closed than those of other Muslim countries because Algerians believe the long crescent horns bring happiness<br>
+**Flag**<br>
+<strong>description:</strong> two equal vertical bands of green (left) and white; a red, five-pointed star inside a red crescent, centered over the two-color boundary <br><br><strong>meaning: </strong>the colors represent Islam (green), purity and peace (white), and liberty (red); the crescent and star are also Islamic symbols, but the crescent is more closed than those of other Muslim countries because Algerians believe the long crescent horns bring happiness<br>
 
 **National symbol(s)**<br>
 five-pointed star between the extended horns of a crescent moon; fennec fox<br>
@@ -580,12 +586,6 @@ _consumption_: 52.831 billion cubic meters (2023 est.)<br>
 _exports_: 51.566 billion cubic meters (2023 est.)<br>
 _proven reserves_: 4.504 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 163.661 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 741,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 57.795 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 105.125 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 61.843 million Btu/person (2023 est.)<br>
 
@@ -686,8 +686,9 @@ al-Qa'ida in the Islamic Maghreb (AQIM); Islamic State of Iraq and ash-Sham (ISI
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: more than 100,000 (Sahrawi, mostly living in Algerian-sponsored camps in the southwestern Algerian town of Tindouf); 7,345 (Syria) (mid-year 2022)<br>
+_refugees_: 188,206 (2024 est.)<br>
+_IDPs_: 25 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch list — Algeria does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Algeria was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/algeria/<br>
+_tier rating_: Tier 2 Watch List — Algeria did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Algeria remained on Tier 2 Watch List for the second consecutive year; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/algeria/<br>
 

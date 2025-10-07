@@ -74,7 +74,7 @@ population concentrated in the highlands and eastern coastal areas on the island
 active volcanism; frequent and sometimes severe earthquakes; mud slides; tsunamis <br><br><strong>volcanism:</strong> severe volcanic activity; Ulawun (2,334 m), one of Papua New Guinea's potentially most dangerous volcanoes, has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Rabaul (688 m) destroyed the city of Rabaul in 1937 and 1994; Lamington erupted in 1951, killing 3,000 people; Manam's 2004 eruption forced the island's abandonment; other historically active volcanoes include Bam, Bagana, Garbuna, Karkar, Langila, Lolobau, Long Island, Pago, St. Andrew Strait, Victory, and Waiowa; see note 2 under "Geography - note"<br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> shares island of New Guinea with Indonesia; highlands that trend from east to west break up New Guinea into diverse ecoregions; one of world's largest swamps lies along the southwest coast</p> <p><strong>note 2:</strong> Papua New Guinea is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p><br>
+<strong>note 1:</strong> shares island of New Guinea with Indonesia; highlands that trend from east to west break up New Guinea into diverse ecoregions; one of world's largest swamps lies along the southwest coast <br><br><strong>note 2:</strong> Papua New Guinea is one of the countries along the Ring of Fire, which is a belt bordering the Pacific Ocean that contains about 75% of the world's volcanoes and up to 90% of the world's earthquakes<br>
 
 ## People and Society
 
@@ -166,16 +166,13 @@ _female_: 71.9 years<br>
 **Gross reproduction rate**<br>
 1.85 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-36.7% (2016/18)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 86.2% of population<br>
-_improved: rural_: rural: 41.5% of population<br>
-_improved: total_: total: 47.5% of population<br>
-_unimproved: urban_: urban: 13.8% of population<br>
-_unimproved: rural_: rural: 58.5% of population<br>
-_unimproved: total_: total: 52.5% of population (2020 est.)<br>
+_improved: urban_: urban: 86.9% of population (2022 est.)<br>
+_improved: rural_: rural: 44.5% of population (2022 est.)<br>
+_improved: total_: total: 50.2% of population (2022 est.)<br>
+_unimproved: urban_: urban: 13.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 55.5% of population (2022 est.)<br>
+_unimproved: total_: total: 49.8% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 2.3% of GDP (2021)<br>
@@ -188,12 +185,12 @@ _Health expenditure (as % of national budget)_: 7% of national budget (2022 est.
 0.2 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 57.8% of population<br>
-_improved: rural_: rural: 18.2% of population<br>
-_improved: total_: total: 23.5% of population<br>
-_unimproved: urban_: urban: 42.2% of population<br>
-_unimproved: rural_: rural: 81.8% of population<br>
-_unimproved: total_: total: 76.5% of population (2020 est.)<br>
+_improved: urban_: urban: 57.8% of population (2022 est.)<br>
+_improved: rural_: rural: 18.2% of population (2022 est.)<br>
+_improved: total_: total: 23.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 42.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 81.8% of population (2022 est.)<br>
+_unimproved: total_: total: 76.4% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 21.3% (2016)<br>
@@ -254,23 +251,26 @@ _other_: 17.9% (2022 est.)<br>
 _urban population_: 13.7% of total population (2023)<br>
 _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 8.89 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 7.54 megatons (2016 est.)<br>
-_methane emissions_: 11.05 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 5.798 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 1,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 4.467 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 1.33 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+8.8 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1 million tons (2014 est.)<br>
-_municipal solid waste recycled annually_: 20,000 tons (2016 est.)<br>
-_percent of municipal solid waste recycled_: 2% (2016 est.)<br>
+_municipal solid waste generated annually_: 1 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 6.3% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 220 million cubic meters (2020 est.)<br>
-_industrial_: 170 million cubic meters (2020 est.)<br>
-_agricultural_: 1 million cubic meters (2020 est.)<br>
+_municipal_: 223.5 million cubic meters (2022 est.)<br>
+_industrial_: 167.6 million cubic meters (2022 est.)<br>
+_agricultural_: 1 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-801 billion cubic meters (2020 est.)<br>
+801 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -339,10 +339,10 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: district, village, and juvenile courts, military courts, taxation courts, coronial courts, mining warden courts, land courts, traffic courts, committal courts, grade five courts<br>
 
 **Political parties**<br>
-Destiny Party <br>Liberal Party <br>Melanesian Alliance Party or MAP <br>Melanesian Liberal Party or MLP <br>National Alliance Party or NAP <br>Our Development Party or ODP <br>Papua and Niugini Union Party or PANGU PATI <br>Papua New Guinea Greens Party <br>Papua New Guinea National Party <br>Papua New Guinea Party or PNGP <br>People's First Party or PFP <br>People's Movement for Change or PMC <br>People's National Congress Party or PNC <br>People’s National Party <br>People's Party or PP <br>People's Progress Party or PPP <br>People's Reform Party or PRP <br>PNG Party <br>Social Democratic Party or SDP <br>Triumph Heritage Empowerment Party or THE <br>United Labor Party or ULP <br>United Resources Party or URP <br>
+Destiny Party <br>Liberal Party <br>Melanesian Alliance Party or MAP <br>Melanesian Liberal Party or MLP <br>National Alliance Party or NAP <br>Our Development Party or ODP <br>Papua and Niugini Union Party or PANGU PATI <br>Papua New Guinea Greens Party <br>Papua New Guinea National Party <br>Papua New Guinea Party or PNGP <br>People's First Party or PFP <br>People's Movement for Change or PMC <br>People's National Congress Party or PNC <br>People’s National Party <br>People's Party or PP <br>People's Progress Party or PPP <br>People's Reform Party or PRP <br>Social Democratic Party or SDP <br>Triumph Heritage Empowerment Party or THE <br>United Labor Party or ULP <br>United Resources Party or URP<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador-designate Sir Arnold AMET (since 24 February 2025); Charg&eacute; d&rsquo;Affaires Cephas KAYO (since January 2018)<br>
+_chief of mission_: Ambassador Arnold Karibone AMET (since 5 September 2025)<br>
 _chancery_: 1825 K Street NW, Suite 1010, Washington, DC 20006<br>
 _telephone_: [1] (202) 745-3680<br>
 _FAX_: [1] (202) 745-3679<br>
@@ -364,8 +364,8 @@ ACP, ADB, AOSIS, APEC, ARF, ASEAN (observer), C, CD, CP, EITI (candidate country
 **National holiday**<br>
 Independence Day, 16 September (1975)<br>
 
-**Flag description**<br>
-divided diagonally from upper hoist-side corner; the upper triangle is red with a soaring yellow bird of paradise centered; the lower triangle is black with five white five-pointed stars of the Southern Cross constellation centered; red, black, and yellow are the country's traditional colors; the bird of paradise is an emblem of regional tribal culture and represents the emergence of Papua New Guinea as a nation; the Southern Cross symbolizes the country's connection with Australia and several other countries in the South Pacific<br>
+**Flag**<br>
+<strong>description:</strong> divided diagonally from upper-left corner; the upper triangle is red and has a soaring yellow bird of paradise in the center; the lower triangle is black with five five-pointed white stars of the Southern Cross constellation<br><br><strong>meaning: </strong>red, black, and yellow are the country's traditional colors; the bird of paradise is an emblem of regional tribal culture and represents the emergence of Papua New Guinea as a nation; the Southern Cross symbolizes the country's connection with Australia and several other countries in the South Pacific<br>
 
 **National symbol(s)**<br>
 bird of paradise<br>
@@ -463,8 +463,8 @@ _female_: 3% (2024 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $5.268 billion (2022 est.)<br>
-_expenditures_: $6.156 billion (2022 est.)<br>
+_revenues_: $5.518 billion (2023 est.)<br>
+_expenditures_: $6.856 billion (2023 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
@@ -560,12 +560,6 @@ _consumption_: 677.736 million cubic meters (2023 est.)<br>
 _exports_: 10.892 billion cubic meters (2023 est.)<br>
 _proven reserves_: 183.125 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 5.798 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 1,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 4.467 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 1.33 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 8.781 million Btu/person (2023 est.)<br>
 
@@ -619,7 +613,7 @@ _key ports_: Kavieng Harbor, Kieta, Port Moresby, Rabaul, Vanimo, Wewak Harbor<b
 ## Military and Security
 
 **Military and security forces**<br>
-Papua New Guinea Defense Force (PNGDF): land, maritime, and air elements<br><br>Ministry of Internal Security: Royal Papua New Guinea Constabulary (RPNGC) (2025)<br>
+Papua New Guinea Defense Force (PNGDF): Land, Air, Maritime elements<br><br>Ministry of Internal Security: Royal Papua New Guinea Constabulary (RPNGC) (2025)<br>
 
 **Military expenditures**<br>
 0.3% of GDP (2024 est.)<br>
@@ -635,7 +629,7 @@ estimated 4,000 active PNGDF&nbsp; (2025)<br>
 the PNGDF is lightly armed; the Land Force has no heavy weapons while the Air and the Maritime forces have a handful of light aircraft and small patrol boats provided by Australia (2024)<br>
 
 **Military service age and obligation**<br>
-18-27 for voluntary military service for men and women; no conscription (2025)<br>
+18-27 (30 for officers) for voluntary military service for men and women; no conscription (2025)<br>
 
 **Military - note**<br>
 the Papua New Guinea Defense Force (PNGDF) is tasked with defense of the country and its territories against external attack, as well as internal security and socio-economic development duties; following some inter-tribal violence in Wapenamanda in 2024, the PNGDF was given arrest powers<br><br>since 2023, Papua New Guinea has signed bilateral defense cooperation agreements with Australia, Indonesia, the UK, and the US; the 2023 defense cooperation agreement with the US allowed the US military to develop and operate out of bases in PNG with the PNG Government’s approval; PNG has also military relations with France and New Zealand and has discussed a security cooperation agreement with China <br><br>the PNGDF was established in 1973, and its primary combat unit, the Royal Pacific Islands Regiment (RPIR), is descended from Australian Army infantry battalions comprised of native soldiers and led by Australian officers and non-commissioned officers formed during World War II to help fight the Japanese; the RPIR was disbanded after the war, but reestablished in 1951 as part of the Australian Army where it continued to serve until PNG gained its independence in 1975, when it became part of the PNGDF (2025)<br>
@@ -643,10 +637,9 @@ the Papua New Guinea Defense Force (PNGDF) is tasked with defense of the country
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,432 (Indonesia) (mid-year 2022)<br>
-_IDPs_: 91,000 (tribal conflict, inter-communal violence) (2022)<br>
-_stateless persons_: 15 (2022)<br>
+_refugees_: 10,983 (2024 est.)<br>
+_IDPs_: 107,985 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 — Papua New Guinea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Papua New Guinea remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/papua-new-guinea/<br>
+_tier rating_: Tier 3 — Papua New Guinea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Papua New Guinea remained on Tier 3; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/papua-new-guinea/<br>
 

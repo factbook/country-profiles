@@ -168,16 +168,13 @@ _female_: 70.1 years<br>
 **Gross reproduction rate**<br>
 1.74 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-18.9% (2019/20)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 91.8% of population<br>
-_improved: rural_: rural: 85.7% of population<br>
-_improved: total_: total: 89.5% of population<br>
-_unimproved: urban_: urban: 8.2% of population<br>
-_unimproved: rural_: rural: 14.3% of population<br>
-_unimproved: total_: total: 10.5% of population (2020 est.)<br>
+_improved: urban_: urban: 90.9% of population (2022 est.)<br>
+_improved: rural_: rural: 76.4% of population (2022 est.)<br>
+_improved: total_: total: 85.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 9.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 23.6% of population (2022 est.)<br>
+_unimproved: total_: total: 14.4% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 3.2% of GDP (2021)<br>
@@ -190,12 +187,12 @@ _Health expenditure (as % of national budget)_: 7.5% of national budget (2022 es
 1.2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 75.8% of population<br>
-_improved: rural_: rural: 33.6% of population<br>
-_improved: total_: total: 60% of population<br>
-_unimproved: urban_: urban: 24.2% of population<br>
-_unimproved: rural_: rural: 66.4% of population<br>
-_unimproved: total_: total: 40% of population (2020 est.)<br>
+_improved: urban_: urban: 74.9% of population (2022 est.)<br>
+_improved: rural_: rural: 32% of population (2022 est.)<br>
+_improved: total_: total: 59.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 25.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 68% of population (2022 est.)<br>
+_unimproved: total_: total: 40.6% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 10.3% (2016)<br>
@@ -256,21 +253,24 @@ _other_: 14.5% (2022 est.)<br>
 _urban population_: 64.5% of total population (2023)<br>
 _rate of urbanization_: 3.75% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 39.1 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.53 megatons (2016 est.)<br>
-_methane emissions_: 1.96 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 537,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 537,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+34.9 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 193,441 tons (2002 est.)<br>
+_municipal solid waste generated annually_: 193,400 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 13% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 40 million cubic meters (2020 est.)<br>
-_industrial_: 20 million cubic meters (2020 est.)<br>
-_agricultural_: 40 million cubic meters (2020 est.)<br>
+_municipal_: 41.2 million cubic meters (2022 est.)<br>
+_industrial_: 21.2 million cubic meters (2022 est.)<br>
+_agricultural_: 39.2 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-8 billion cubic meters (2020 est.)<br>
+8 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -348,7 +348,7 @@ _FAX_: [1] (202) 785-1430<br>
 _email address and website_: <br>info@gambiaembassydc.us<br><br>https://www.gambiaembassydc.us/home<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Sharon L. CROMER (since 18 March 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Robert ANDERSON (since 22 August 2025)<br>
 _embassy_: Kairaba Avenue, Fajara, P.M.B. 19, Banjul<br>
 _mailing address_: 2070 Banjul Place, Washington DC&nbsp; 20521-2070<br>
 _telephone_: [220] 439-2856<br>
@@ -364,8 +364,8 @@ ACP, AfDB, AU, ECOWAS, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, I
 **National holiday**<br>
 Independence Day, 18 February (1965)<br>
 
-**Flag description**<br>
-three equal horizontal bands of red (top), blue with white edges, and green; red stands for the sun and the savannah, blue for the Gambia River, and green for forests and agriculture; the white stripes denote unity and peace<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of red (top), blue with white edges, and green<br><br><strong>meaning:</strong> red stands for the sun and the savannah, blue for the Gambia River, and green for forests and agriculture; the white stripes denote unity and peace<br>
 
 **National symbol(s)**<br>
 lion<br>
@@ -481,6 +481,9 @@ _revenues_: $308.887 million (2018 est.)<br>
 _expenditures_: $221.137 million (2018 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
+**Public debt**<br>
+82.3% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 -$74.374 million (2024 est.)<br>
 -$120.064 million (2023 est.)<br>
@@ -552,10 +555,6 @@ _wind_: 0.4% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 3,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 537,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 537,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 2.731 million Btu/person (2023 est.)<br>
@@ -632,5 +631,6 @@ the Gambian Armed Forces (GAF) are responsible for external defense and aiding c
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 5,600 (2022)<br>
+_refugees_: 4,411 (2024 est.)<br>
+_IDPs_: 7,462 (2024 est.)<br>
 

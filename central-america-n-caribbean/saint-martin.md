@@ -128,24 +128,15 @@ _female_: 84.2 years<br>
 **Gross reproduction rate**<br>
 0.88 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: NA<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.9% of GDP (2023 est.) NA<br>
@@ -165,7 +156,7 @@ _forest_: 24.8% (2022 est.)<br>
 _other_: 75.2% (2022 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 15,480 tons (2012 est.)<br>
+_municipal solid waste generated annually_: 15,500 tons (2024 est.)<br>
 
 ## Government
 
@@ -243,7 +234,7 @@ none (overseas collectivity of France)<br>
 Fête de la Fédération, 14 July (1790)<br>
 <strong>note 1:</strong> local holiday is Schoelcher Day (Slavery Abolition Day) 12 July (1848), as well as St. Martin's Day, 11 November (1985); the latter holiday celebrated on both halves of the island<br><br><strong>note 2:</strong> often incorrectly referred to as Bastille Day, France's national celebration commemorates the storming of the Bastille prison on 14 July 1789 and the establishment of a constitutional monarchy; other names for the holiday are <em>la Fête nationale</em> (National Holiday) and <em>le Quatorze Juillet</em> (14th of July)<br>
 
-**Flag description**<br>
+**Flag**<br>
 the flag of France is used<br>
 
 **National symbol(s)**<br>
@@ -308,7 +299,8 @@ _subscriptions per 100 inhabitants_: 196 (2012 est.)<br>
 1 local TV station; access to about 20 radio stations, including RFO Guadeloupe radio broadcasts via repeater<br>
 
 **Internet country code**<br>
-.mf; note - .gp, the Internet country code for Guadeloupe, and .fr, the Internet country code for France, might also be encountered<br>
+.mf<br>
+<strong>note:</strong> .gp, the Internet country code for Guadeloupe, and .fr, the Internet country code for France, are also used<br>
 
 **Internet users**<br>
 _percent of population_: 48.5% (2022 est.)<br>
@@ -327,4 +319,7 @@ no regular military forces; Ministry of Justice: Police Force of Sint Maaten (Ko
 defense is the responsibility of France<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 156 (2024 est.)<br>
 

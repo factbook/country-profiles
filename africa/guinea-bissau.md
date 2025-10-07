@@ -158,16 +158,13 @@ _female_: 66.8 years<br>
 **Gross reproduction rate**<br>
 2.28 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-20.6% (2018/19)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 90.6% of population<br>
-_improved: rural_: rural: 59.1% of population<br>
-_improved: total_: total: 73.1% of population<br>
-_unimproved: urban_: urban: 9.4% of population<br>
-_unimproved: rural_: rural: 40.9% of population<br>
-_unimproved: total_: total: 26.9% of population (2020 est.)<br>
+_improved: urban_: urban: 73.1% of population (2022 est.)<br>
+_improved: rural_: rural: 52.5% of population (2022 est.)<br>
+_improved: total_: total: 61.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 26.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 47.5% of population (2022 est.)<br>
+_unimproved: total_: total: 38.2% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 8.2% of GDP (2021)<br>
@@ -177,12 +174,12 @@ _Health expenditure (as % of national budget)_: 5.2% of national budget (2022 es
 0.25 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 62.4% of population<br>
-_improved: rural_: rural: 7.6% of population<br>
-_improved: total_: total: 31.8% of population<br>
-_unimproved: urban_: urban: 37.6% of population<br>
-_unimproved: rural_: rural: 92.4% of population<br>
-_unimproved: total_: total: 68.2% of population (2020 est.)<br>
+_improved: urban_: urban: 72.2% of population (2022 est.)<br>
+_improved: rural_: rural: 23.8% of population (2022 est.)<br>
+_improved: total_: total: 45.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 27.8% of population (2022 est.)<br>
+_unimproved: rural_: rural: 76.2% of population (2022 est.)<br>
+_unimproved: total_: total: 54.4% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 9.5% (2016)<br>
@@ -242,21 +239,25 @@ _other_: 0.1% (2022 est.)<br>
 _urban population_: 45.5% of total population (2023)<br>
 _rate of urbanization_: 3.22% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 34.85 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.29 megatons (2016 est.)<br>
-_methane emissions_: 1.46 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 366,000 metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 1 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 366,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+42.6 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 289,514 tons (2015 est.)<br>
+_municipal solid waste generated annually_: 289,500 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 10.1% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 30 million cubic meters (2020 est.)<br>
-_industrial_: 10 million cubic meters (2020 est.)<br>
-_agricultural_: 140 million cubic meters (2020 est.)<br>
+_municipal_: 34.1 million cubic meters (2022 est.)<br>
+_industrial_: 11.9 million cubic meters (2022 est.)<br>
+_agricultural_: 144 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-31.4 billion cubic meters (2020 est.)<br>
+31.4 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -350,9 +351,8 @@ ACP, AfDB, AOSIS, AU, CPLP, ECOWAS, FAO, FZ, G-77, IBRD, ICAO, ICRM, IDA, IDB, I
 **National holiday**<br>
 Independence Day, 24 September (1973)<br>
 
-**Flag description**<br>
-two equal horizontal bands of yellow (top) and green with a vertical red band on the hoist side; a black five-pointed star is centered in the red band; yellow stands for the sun, green for hope, red for blood shed during the struggle for independence; the black star stands for African unity<br>
-<strong>note:</strong> uses the popular pan-African colors of Ethiopia; the Ghanaian flag heavily influenced the design<br>
+**Flag**<br>
+<strong>description:</strong> two equal horizontal bands of yellow (top) and green, with a vertical red band on the left side; a five-pointed black star is centered in the red band<br><br><strong>meaning:</strong> yellow stands for the sun, green for hope, red for blood shed during the struggle for independence; the black star stands for African unity<br><br><strong>history:</strong> uses the colors of the Pan-African movement; the Ghanaian flag heavily influenced the design<br>
 
 **National symbol(s)**<br>
 black star<br>
@@ -460,9 +460,12 @@ _highest 10%_: 26.1% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $220.219 million (2019 est.)<br>
-_expenditures_: $210.858 million (2019 est.)<br>
+_revenues_: $269.794 million (2023 est.)<br>
+_expenditures_: $450.953 million (2023 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+57.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 8.8% (of GDP) (2023 est.)<br>
@@ -535,11 +538,6 @@ _imports_: 1 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 2,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 366,000 metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 1 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 366,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 2.351 million Btu/person (2023 est.)<br>
@@ -616,8 +614,5 @@ the Armed Forces (FARP) are focused on external security, but also has some inte
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 7,757 (Senegal) (2022)<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — The Government of Guinea-Bissau does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Guinea-Bissau was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/guinea-bissau/<br>
+_refugees_: 54 (2024 est.)<br>
 

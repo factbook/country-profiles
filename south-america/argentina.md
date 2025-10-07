@@ -171,12 +171,9 @@ _female_: 82 years<br>
 **Gross reproduction rate**<br>
 1.04 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-70.1% (2019/20)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.8% of population<br>
-_unimproved: urban_: urban: 0.2% of population<br>
+_improved: urban_: urban: 99.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.2% of population (2022 est.)<br>
 _unimproved: total_: total: (2020 est.) NA<br>
 
 **Health expenditure**<br>
@@ -190,11 +187,8 @@ _Health expenditure (as % of national budget)_: 15.2% of national budget (2022 e
 3.3 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: (2020 est.) NA<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 28.3% (2016)<br>
@@ -254,23 +248,32 @@ _other_: 46.2% (2022 est.)<br>
 _urban population_: 92.5% of total population (2023)<br>
 _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 12.04 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 201.35 megatons (2016 est.)<br>
-_methane emissions_: 120.66 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 198.141 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 5.022 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 102.998 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 90.122 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+12 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 1,553.3 kt (2022-2024 est.)<br>
+_agriculture_: 3,035.5 kt (2019-2021 est.)<br>
+_waste_: 631 kt (2019-2021 est.)<br>
+_other_: 89.9 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 17,910,550 tons (2014 est.)<br>
-_municipal solid waste recycled annually_: 1,074,633 tons (2010 est.)<br>
-_percent of municipal solid waste recycled_: 6% (2010 est.)<br>
+_municipal solid waste generated annually_: 17.911 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 9.6% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 5.85 billion cubic meters (2020 est.)<br>
-_industrial_: 4 billion cubic meters (2020 est.)<br>
-_agricultural_: 27.93 billion cubic meters (2020 est.)<br>
+_municipal_: 5.85 billion cubic meters (2022 est.)<br>
+_industrial_: 4 billion cubic meters (2022 est.)<br>
+_agricultural_: 27.93 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-876.24 billion cubic meters (2020 est.)<br>
+876.24 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -366,7 +369,7 @@ _email address and website_: <br>eeeuu@mrecic.gov.ar<br><br>https://eeeuu.cancil
 _consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Abigail L. DRESSEL (since 17 January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Heidi G&oacute;mez R&Aacute;PALO (since 11 July 2025)<br>
 _embassy_: <br>Avenida Colombia 4300, (C1425GMN) Buenos Aires<br>
 _mailing address_: 3130 Buenos Aires Place, Washington DC&nbsp; 20521-3130<br>
 _telephone_: [54] (11) 5777-4533<br>
@@ -382,8 +385,8 @@ AfDB (nonregional member), Australia Group, BCIE, BIS, CAN (associate), CD, CABE
 **National holiday**<br>
 Revolution Day (May Revolution Day), 25 May (1810)<br>
 
-**Flag description**<br>
-three equal horizontal bands of sky blue (top), white, and sky blue; centered in the white band is a radiant yellow sun with a human face that is known as the Sun of May; the colors represent the clear skies and snow of the Andes; the sun symbol commemorates the appearance of the sun through cloudy skies on 25 May 1810 during the first mass demonstration in favor of independence; the sun features are those of Inti, the Inca god of the sun<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of sky blue (top), white, and sky blue; centered in the white band is a radiant yellow sun with a human face that is known as the Sun of May<br><br><strong>meaning:</strong> the colors represent the clear skies and snow of the Andes Mountains; the sun commemorates the first mass demonstration in favor of independence on 25 May 1810, when the sun broke through the clouds; the sun is designed to look like Inti, the Incan god of the sun<br>
 
 **National symbol(s)**<br>
 Sun of May (a sun-with-face symbol)<br>
@@ -394,7 +397,7 @@ sky blue, white<br>
 **National anthem(s)**<br>
 _title_: "Himno Nacional Argentino" (Argentine National Anthem)<br>
 _lyrics/music_: Vicente LOPEZ y PLANES/Jose Blas PARERA<br>
-_history_: adopted 1813; Vicente LOPEZ was inspired to write the anthem after watching a play about the 1810 May Revolution against Spain<br>a 1900 presidential decree declared that the first and last verses of the anthem would be the national anthem rather than the original nine verses<br>
+_history_: adopted 1813; Vicente LOPEZ was inspired to write the anthem after watching a play about the 1810 May Revolution against Spain; a 1900 presidential decree declared that only the first and last verses would be considered official, rather than the original nine verses<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 12 (7 cultural, 5 natural)<br>
@@ -428,9 +431,10 @@ $633.267 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-25.7% (2017 est.)<br>
-26.5% (2016 est.)<br>
-note: data are derived from private estimates<br>
+73.1% (2022 est.)<br>
+47.1% (2021 est.)<br>
+40.5% (2020 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6% (2024 est.)<br>
@@ -498,9 +502,12 @@ _highest 10%_: 31% (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $113.553 billion (2022 est.)<br>
-_expenditures_: $138.622 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $115.69 billion (2023 est.)<br>
+_expenditures_: $139.037 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+55% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 10% (of GDP) (2023 est.)<br>
@@ -602,12 +609,6 @@ _consumption_: 46.028 billion cubic meters (2023 est.)<br>
 _exports_: 2.344 billion cubic meters (2023 est.)<br>
 _imports_: 5.225 billion cubic meters (2023 est.)<br>
 _proven reserves_: 396.464 billion cubic meters (2021 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 198.141 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 5.022 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 102.998 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 90.122 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 78.496 million Btu/person (2023 est.)<br>
@@ -712,5 +713,7 @@ Hizballah<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 217,742 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2023)<br>
+_refugees_: 9,175 (2024 est.)<br>
+_IDPs_: 74 (2024 est.)<br>
+_stateless persons_: 34 (2024 est.)<br>
 

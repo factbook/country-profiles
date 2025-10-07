@@ -158,16 +158,13 @@ _female_: 78.4 years<br>
 **Gross reproduction rate**<br>
 0.84 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-52.2% (2014)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.4% of population<br>
-_improved: rural_: rural: 90.7% of population<br>
-_improved: total_: total: 97.5% of population<br>
-_unimproved: urban_: urban: 0.6% of population<br>
-_unimproved: rural_: rural: 9.3% of population<br>
-_unimproved: total_: total: 2.5% of population (2020 est.)<br>
+_improved: urban_: urban: 99.1% of population (2022 est.)<br>
+_improved: rural_: rural: 90.1% of population (2022 est.)<br>
+_improved: total_: total: 97.2% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 9.9% of population (2022 est.)<br>
+_unimproved: total_: total: 2.8% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.4% of GDP (2021)<br>
@@ -180,12 +177,12 @@ _Health expenditure (as % of national budget)_: 8% of national budget (2022 est.
 2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99% of population<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: (2020 est.) NA<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 99.9% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.1% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 15.6% (2016)<br>
@@ -246,23 +243,32 @@ _other_: 16% (2022 est.)<br>
 _urban population_: 78.7% of total population (2023)<br>
 _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 21.52 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 248.29 megatons (2016 est.)<br>
-_methane emissions_: 51.51 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 260.005 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 76.78 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 90.273 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 92.951 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+23.7 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 818.9 kt (2022-2024 est.)<br>
+_agriculture_: 182.2 kt (2019-2021 est.)<br>
+_waste_: 847.9 kt (2019-2021 est.)<br>
+_other_: 15.3 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 12,982,685 tons (2014 est.)<br>
-_municipal solid waste recycled annually_: 2,271,970 tons (2016 est.)<br>
-_percent of municipal solid waste recycled_: 17.5% (2016 est.)<br>
+_municipal solid waste generated annually_: 12.983 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 22.1% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.34 billion cubic meters (2020 est.)<br>
-_industrial_: 1.64 billion cubic meters (2020 est.)<br>
-_agricultural_: 2.51 billion cubic meters (2020 est.)<br>
+_municipal_: 1.342 billion cubic meters (2022 est.)<br>
+_industrial_: 1.641 billion cubic meters (2022 est.)<br>
+_agricultural_: 2.505 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-580 billion cubic meters (2020 est.)<br>
+580 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 2<br>
@@ -347,7 +353,7 @@ _subordinate courts_: Court of Appeal; High Court; Sessions Court; Magistrates' 
 <strong>note:</strong> Malaysia has a dual judicial hierarchy of civil and religious (sharia) courts<br>
 
 **Political parties**<br>
-<strong>National Front (Barisan Nasional) or BN:<br></strong>Malaysian Chinese Association (Persatuan Cina Malaysia) or MCA <br>Malaysian Indian Congress (Kongres India Malaysia) or MIC <br>United Malays National Organization (Pertubuhan Kebansaan Melayu Bersatu) or UMNO <br>United Sabah People's Party (Parti Bersatu Rakyat Sabah) or PBRS <br><br><strong>Alliance of Hope (Pakatan Harapan) or PH:</strong><br>Democratic Action Party (Parti Tindakan Demokratik) or DAP <br>National Trust Party (Parti Amanah Negara) or AMANAH <br>People's Justice Party (Parti Keadilan Rakyat) or PKR <br>United Progressive Kinabalu Organization (Pertubuhan Kinabalu Progresif Bersatu) or UPKO <br><br><strong>National Alliance (Perikatan Nasional) or PN:</strong><br>Malaysian People's Movement Party (Parti Gerakan Rakyat Malaysia) or GERAKAN or PGRM <br>Malaysian United Indigenous Party (Parti Pribumi Bersatu Malaysia) or PPBM or BERSATU <br>Pan-Malaysian Islamic Party (Parti Islam Se-Malaysia) or PAS <br><br><strong>Sabah People's Alliance (Gabungan Rakya Sabah) or GRS:<br></strong>Homeland Solidarity Party (Parti Solidariti Tanah Airku) or STAR <br>Love Sabah Party (Parti Cinta Sabah) or PCS<br>Sabah People's Ideas Party (Parti Gagasan Rakyat Sabah) or GAGASAN or PGRS <br><br><strong>Sarawak Parties Alliance (Gabungan Parti Sarawak) or GPS:</strong><br>Progressive Democratic Party (Parti Demokratik Progresif) or PDP <br>Sarawak People's Party (Parti Rakyat Sarawak) or PRS <br>Sarawak United People's Party (Parti Rakyat Bersatu Sarawak) or SUPP <br>United Bumiputera Heritage Party (Parti Pesaka Bumiputera Bersata) or PBB <br><strong><br>others: </strong><strong><br></strong>Malaysian Nation Party (Parti Bangsa Malaysia) or PBM<br>Heritage Party (Parti Warisan) or WARISAN <br>Homeland Fighter's Party (Parti Pejuang Tanah Air) or PEJUANG <br>Malaysian United Democratic Alliance (Ikatan Demokratik Malaysia) or MUDA <br>United Sarawak Party (PSB)<br>
+<strong>National Front (Barisan Nasional) or BN:<br></strong>Malaysian Chinese Association (Persatuan Cina Malaysia) or MCA <br>Malaysian Indian Congress (Kongres India Malaysia) or MIC <br>United Malays National Organization (Pertubuhan Kebansaan Melayu Bersatu) or UMNO <br>United Sabah People's Party (Parti Bersatu Rakyat Sabah) or PBRS <br><br><strong>Alliance of Hope (Pakatan Harapan) or PH:</strong><br>Democratic Action Party (Parti Tindakan Demokratik) or DAP <br>National Trust Party (Parti Amanah Negara) or AMANAH <br>People's Justice Party (Parti Keadilan Rakyat) or PKR <br>United Progressive Kinabalu Organization (Pertubuhan Kinabalu Progresif Bersatu) or UPKO <br><br><strong>National Alliance (Perikatan Nasional) or PN:</strong><br>Malaysian People's Movement Party (Parti Gerakan Rakyat Malaysia) or GERAKAN or PGRM <br>Malaysian United Indigenous Party (Parti Pribumi Bersatu Malaysia) or PPBM or BERSATU <br>Pan-Malaysian Islamic Party (Parti Islam Se-Malaysia) or PAS <br><br><strong>Sabah People's Alliance (Gabungan Rakya Sabah) or GRS:<br></strong>Homeland Solidarity Party (Parti Solidariti Tanah Airku) or STAR <br>Love Sabah Party (Parti Cinta Sabah) or PCS<br>Sabah People's Ideas Party (Parti Gagasan Rakyat Sabah) or GAGASAN or PGRS <br><br><strong>Sarawak Parties Alliance (Gabungan Parti Sarawak) or GPS:</strong><br>Progressive Democratic Party (Parti Demokratik Progresif) or PDP <br>Sarawak People's Party (Parti Rakyat Sarawak) or PRS <br>Sarawak United People's Party (Parti Rakyat Bersatu Sarawak) or SUPP <br>United Bumiputera Heritage Party (Parti Pesaka Bumiputera Bersata) or PBB <br><br><strong>Homeland Movement/Party (Gerakan Tanah Air) or GTA</strong><br>Homeland Fighter's Party (Parti Pejuang Tanah Air) or PEJUANG <br>Perkasa Bumiputera Party of Malaysia (Parti Bumiputera Perkasa Malaysia)<br>All-Malaysian Jemaah Islamiah Front (Barisan Jemaah Islamiah Se-Malaysia)<br>National All India Muslim Alliance Party (Parti Perikatan India Muslim Nasional)<br><strong><br>others: </strong><strong><br></strong>Malaysian Nation Party (Parti Bangsa Malaysia) or PBM<br>Heritage Party (Parti Warisan) or WARISAN <br>Malaysian United Democratic Alliance (Ikatan Demokratik Malaysia) or MUDA <br>United Sarawak Party (PSB)<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Tan Sri Muhammad SHAHRUL Ikram bin Yaakob (since 24 July 2025)<br>
@@ -374,8 +380,8 @@ ADB, APEC, ARF, ASEAN, BIS, C, CICA (observer), CP, D-8, EAS, FAO, G-15, G-77, I
 **National holiday**<br>
 Independence Day (or Merdeka Day), 31 August (1957) (independence of Malaya); Malaysia Day, 16 September (1963) (formation of Malaysia)<br>
 
-**Flag description**<br>
-14 equal horizontal stripes of red (top) alternating with white (bottom); a dark blue rectangle in the upper hoist-side corner has a yellow crescent and a yellow 14-pointed star; the flag is often called Jalur Gemilang (Stripes of Glory); the 14 stripes stand for the equal status of the 13 member states and the federal government; the points on the star represent the unity among these entities; the crescent is a traditional symbol of Islam; blue symbolizes the unity of the Malay people, and yellow is the royal color<br>
+**Flag**<br>
+<strong>description:</strong> 14 equal horizontal stripes of red alternating with white; a dark blue rectangle in the upper-left corner has a yellow crescent and a 14-pointed yellow star <br><br><strong>meaning:</strong> the flag is often called Jalur Gemilang (Stripes of Glory); the 14 stripes stand for the equal status of the 13 member states and the federal government; the points on the star represent the unity among these entities; the crescent is a traditional symbol of Islam; blue symbolizes the unity of the Malay people, and yellow is the royal color<br>
 <strong>note:</strong> the design is based on the US flag<br>
 
 **National symbol(s)**<br>
@@ -387,7 +393,7 @@ gold, black<br>
 **National anthem(s)**<br>
 _title_: "Negaraku" (My Country)<br>
 _lyrics/music_: collective, led by Tunku ABDUL RAHMAN/Pierre Jean DE BERANGER<br>
-_history_: adopted 1957; full version only performed in the king's presence; the tune was adopted from a popular French melody called "La Rosalie" and was originally the anthem of Perak, one of Malaysia's 13 states<br>
+_history_: adopted 1957; full version only performed in the king's presence,&nbsp; the shorter version performed for the queen and lesser officials<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>
@@ -492,8 +498,8 @@ _highest 10%_: 30.9% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $66.883 billion (2022 est.)<br>
-_expenditures_: $72.986 billion (2022 est.)<br>
+_revenues_: $69.055 billion (2023 est.)<br>
+_expenditures_: $89.046 billion (2023 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
@@ -589,12 +595,6 @@ _exports_: 37.451 billion cubic meters (2023 est.)<br>
 _imports_: 3.359 billion cubic meters (2023 est.)<br>
 _proven reserves_: 1.189 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 260.005 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 76.78 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 90.273 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 92.951 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 113.163 million Btu/person (2023 est.)<br>
 
@@ -682,10 +682,14 @@ the Malaysian military is responsible for defense of the country's national inte
 ## Space
 
 **Space agency/agencies**<br>
-Malaysian Space Agency (MYSA); MYSA was established in 2019 through the merging of the National Space Agency (ANGKASA; established 2002) and Malaysian Remote Sensing Agency (MRSA; established 1998); Astronautic Technology Sd Bhd (ATSB; established 1995) (2024)<br>
+Malaysian Space Agency (MYSA; established 2019) (2025)<br>
+<strong>note:</strong> MYSA was established through the merging of the National Space Agency (ANGKASA; established 2002) and the Malaysian Remote Sensing Agency (MRSA; established 1998)<br>
+
+**Space launch site(s)**<br>
+has launched feasibility studies for potential space launch sites in Pahang, Sabah, and Sarawak (2025)<br>
 
 **Space program overview**<br>
-has a growing space program focused on the areas of remote sensing (RS), communication, and navigational services to support domestic economic sectors; also seeks to promote a domestic space industry; acquires, manufactures, and operates satellites; conducts research in RS capabilities and space sciences such as astronomy, atmospherics, space environment, and weather; has an astronaut training exchange program with Russia and has relations with a variety of foreign space agencies and industries, including those of the European Space Agency and some of its individual member states, India, Japan, Russia, South Korea, the UK, and the US (2024)<br>
+has a national space policy and a growing space program focused on the areas of remote sensing (RS), communication, and navigational services to support domestic economic sectors; also seeks to promote a domestic space industry; acquires, manufactures, and operates satellites; conducts research in RS capabilities and space sciences such as astronomy, atmospherics, space environment, and weather; has an astronaut training exchange program with Russia and has relations with a variety of foreign space agencies and industries, including those of the European Space Agency and some of its individual member states, India, Japan, Russia, South Korea, the UK, and the US (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -697,6 +701,6 @@ Abu Sayyaf Group, al-Qa'ida, Islamic State of Iraq and ash-Sham (ISIS) <br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 157,731 (Burma) (refugees and asylum seekers) (2023)<br>
-_stateless persons_: 113,930 (2022); note - Malaysia's stateless population consists of Rohingya refugees from Burma, ethnic Indians, and the children of Filipino and Indonesian illegal migrants; Burma stripped the Rohingya of their nationality in 1982; Filipino and Indonesian children who have not been registered for birth certificates by their parents or who received birth certificates stamped "foreigner" are not eligible to attend government schools; these children are vulnerable to statelessness should they not be able to apply to their parents' country of origin for passports<br>
+_refugees_: 191,343 (2024 est.)<br>
+_stateless persons_: 120,857 (2024 est.)<br>
 

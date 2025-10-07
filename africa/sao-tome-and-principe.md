@@ -159,16 +159,13 @@ _female_: 69.4 years<br>
 **Gross reproduction rate**<br>
 1.63 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-49.7% (2019)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 94% of population<br>
-_improved: total_: total: 98.5% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 6% of population<br>
-_unimproved: total_: total: 1.5% of population (2020 est.)<br>
+_improved: urban_: urban: 79.3% of population (2022 est.)<br>
+_improved: rural_: rural: 71.1% of population (2022 est.)<br>
+_improved: total_: total: 77.3% of population (2022 est.)<br>
+_unimproved: urban_: urban: 20.7% of population (2022 est.)<br>
+_unimproved: rural_: rural: 28.9% of population (2022 est.)<br>
+_unimproved: total_: total: 22.7% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 7.8% of GDP (2021)<br>
@@ -181,12 +178,12 @@ _Health expenditure (as % of national budget)_: 14.9% of national budget (2022 e
 2.9 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 57.1% of population<br>
-_improved: rural_: rural: 42.8% of population<br>
-_improved: total_: total: 53.4% of population<br>
-_unimproved: urban_: urban: 42.9% of population<br>
-_unimproved: rural_: rural: 57.2% of population<br>
-_unimproved: total_: total: 46.6% of population (2020 est.)<br>
+_improved: urban_: urban: 56.8% of population (2022 est.)<br>
+_improved: rural_: rural: 43.2% of population (2022 est.)<br>
+_improved: total_: total: 53.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 43.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 56.8% of population (2022 est.)<br>
+_unimproved: total_: total: 46.5% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 12.4% (2016)<br>
@@ -252,21 +249,24 @@ _other_: 2.4% (2022 est.)<br>
 _urban population_: 76.4% of total population (2023)<br>
 _rate of urbanization_: 2.96% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 33.75 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.12 megatons (2016 est.)<br>
-_methane emissions_: 0.04 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 146,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 146,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+29 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 25,587 tons (2014 est.)<br>
+_municipal solid waste generated annually_: 25,600 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 16.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 10 million cubic meters (2020 est.)<br>
-_industrial_: 600,000 cubic meters (2017 est.)<br>
-_agricultural_: 30 million cubic meters (2020 est.)<br>
+_municipal_: 14.7 million cubic meters (2022 est.)<br>
+_industrial_: 600,000 cubic meters (2022 est.)<br>
+_agricultural_: 25.6 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-2.18 billion cubic meters (2020 est.)<br>
+2.18 billion cubic meters (2022)<br>
 
 ## Government
 
@@ -357,9 +357,8 @@ ACP, AfDB, AOSIS, AU, CD, CEMAC, CPLP, EITI (candidate country), FAO, G-77, IBRD
 **National holiday**<br>
 Independence Day, 12 July (1975)<br>
 
-**Flag description**<br>
-three horizontal bands of green (top), yellow (double-width), and green with two black five-pointed stars in the center of the yellow band and a red isosceles triangle based on the hoist side; green stands for the country's rich vegetation, red for the struggle for independence, and yellow for cocoa, one of the country's main agricultural products; the two stars symbolize the main islands<br>
-<strong>note:</strong> uses the popular pan-African colors of Ethiopia<br>
+**Flag**<br>
+<strong>description:</strong> three horizontal bands of green (top), yellow (double-width), and green with two five-pointed black stars in the center of the yellow band and a red isosceles triangle based on the left side<br><br><strong>meaning:</strong> green stands for the country's rich vegetation, red for the struggle for independence, and yellow for cocoa, one of the country's main agricultural products; the two stars symbolize the main islands<br><br><strong>history:</strong> uses the colors of the Pan-African movement<br>
 
 **National symbol(s)**<br>
 palm tree<br>
@@ -466,9 +465,12 @@ _highest 10%_: 32.8% (2017 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $128.764 million (2022 est.)<br>
-_expenditures_: $122.193 million (2022 est.)<br>
+_revenues_: $128.767 million (2022 est.)<br>
+_expenditures_: $165.95 million (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+93.1% of GDP (2016 est.)<br>
 
 **Current account balance**<br>
 -$79.437 million (2022 est.)<br>
@@ -540,10 +542,6 @@ _hydroelectricity_: 6.8% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 1,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 146,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 146,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 8.875 million Btu/person (2023 est.)<br>

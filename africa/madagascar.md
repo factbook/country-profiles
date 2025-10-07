@@ -161,16 +161,13 @@ _female_: 70.3 years<br>
 **Gross reproduction rate**<br>
 1.71 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-49.7% (2020)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 85% of population<br>
-_improved: rural_: rural: 38% of population<br>
-_improved: total_: total: 56.1% of population<br>
-_unimproved: urban_: urban: 15% of population<br>
-_unimproved: rural_: rural: 62% of population<br>
-_unimproved: total_: total: 43.9% of population (2020 est.)<br>
+_improved: urban_: urban: 79.8% of population (2022 est.)<br>
+_improved: rural_: rural: 36% of population (2022 est.)<br>
+_improved: total_: total: 53.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 20.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 64% of population (2022 est.)<br>
+_unimproved: total_: total: 46.5% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 3.5% of GDP (2021)<br>
@@ -180,12 +177,12 @@ _Health expenditure (as % of national budget)_: 5.7% of national budget (2022 es
 0.17 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 49.2% of population<br>
-_improved: rural_: rural: 22.1% of population<br>
-_improved: total_: total: 32.6% of population<br>
-_unimproved: urban_: urban: 50.8% of population<br>
-_unimproved: rural_: rural: 77.9% of population<br>
-_unimproved: total_: total: 67.4% of population (2020 est.)<br>
+_improved: urban_: urban: 53.9% of population (2022 est.)<br>
+_improved: rural_: rural: 25.2% of population (2022 est.)<br>
+_improved: total_: total: 36.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 46.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 74.8% of population (2022 est.)<br>
+_unimproved: total_: total: 63.3% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 5.3% (2016)<br>
@@ -251,21 +248,25 @@ _other_: 8.4% (2022 est.)<br>
 _urban population_: 40.6% of total population (2023)<br>
 _rate of urbanization_: 4.26% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 16.02 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 3.91 megatons (2016 est.)<br>
-_methane emissions_: 10.14 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 3.936 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 1.057 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.879 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+16.7 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 3,768,759 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 3.769 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 9.2% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 400 million cubic meters (2020 est.)<br>
-_industrial_: 160 million cubic meters (2020 est.)<br>
-_agricultural_: 13 billion cubic meters (2020 est.)<br>
+_municipal_: 395 million cubic meters (2022 est.)<br>
+_industrial_: 161.9 million cubic meters (2022 est.)<br>
+_agricultural_: 13 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-337 billion cubic meters (2020 est.)<br>
+337 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -372,8 +373,8 @@ ACP, AfDB, AU, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO
 **National holiday**<br>
 Independence Day, 26 June (1960)<br>
 
-**Flag description**<br>
-two equal horizontal bands of red (top) and green, with a vertical white band of the same width on hoist side; red stands for sovereignty, green for hope, and white for purity<br>
+**Flag**<br>
+<strong>description:</strong> two equal horizontal bands of red (top) and green, with a vertical white band on the left side<br><br><strong>meaning:</strong> red stands for sovereignty, green for hope, and white for purity<br>
 
 **National symbol(s)**<br>
 traveller's palm (ravenala), zebu<br>
@@ -472,9 +473,12 @@ _female_: 5.4% (2024 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $1.756 billion (2022 est.)<br>
-_expenditures_: $1.523 billion (2022 est.)<br>
+_revenues_: $2.066 billion (2023 est.)<br>
+_expenditures_: $2.876 billion (2023 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+38.4% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 9.6% (of GDP) (2023 est.)<br>
@@ -558,11 +562,6 @@ _proven reserves_: 150 million metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 20,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 3.936 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 1.057 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 2.879 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 1.816 million Btu/person (2023 est.)<br>
 
@@ -641,6 +640,7 @@ the military&rsquo;s responsibilities include ensuring sovereignty and territori
 
 ## Transnational Issues
 
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — the government has devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards; therefore, Madagascar was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3 and remained on Tier 2 Watch List for the third consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/madagascar/<br>
+**Refugees and internally displaced persons**<br>
+_refugees_: 1,256 (2024 est.)<br>
+_IDPs_: 9,868 (2024 est.)<br>
 

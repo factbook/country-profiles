@@ -152,15 +152,9 @@ _female_: 72.3 years<br>
 **Gross reproduction rate**<br>
 1.25 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: NA<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Health expenditure**<br>
@@ -169,14 +163,6 @@ _Health expenditure (as % of national budget)_: 11.8% of national budget (2022 e
 
 **Physician density**<br>
 1.27 physicians/1,000 population (2015)<br>
-
-**Sanitation facility access**<br>
-_improved: urban_: urban: 96.3% of population<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 96.3% of population<br>
-_unimproved: urban_: urban: 3.7% of population<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 3.7% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 61% (2016)<br>
@@ -229,16 +215,18 @@ _other_: 80% (2022 est.)<br>
 _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0.18% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 7.4 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.05 megatons (2016 est.)<br>
-_methane emissions_: 0.01 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 86,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 86,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+7.4 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 6,192 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 6,200 tons (2024 est.)<br>
 
 **Total renewable water resources**<br>
-10 million cubic meters (2020 est.)<br>
+10 million cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -313,7 +301,7 @@ _email address and website_: <br>nauru@onecommonwealth.org<br><br>https://www.un
 _embassy_: the US does not have an embassy in Nauru; the US Ambassador to Fiji is accredited to Nauru<br>
 
 **International organization participation**<br>
-ACP, ADB, AOSIS, C, FAO, G-77, ICAO, ICCt, IFAD, Interpol, IOC, IOM, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WHO<br>
+ACP, ADB, AOSIS, C, FAO, G-77, ICAO, ICCt, IFAD, Interpol, IOC, IOM, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WHO, WMO<br>
 
 **Independence**<br>
 31 January 1968 (from the Australia-, NZ-, and UK-administered UN trusteeship)<br>
@@ -321,8 +309,8 @@ ACP, ADB, AOSIS, C, FAO, G-77, ICAO, ICCt, IFAD, Interpol, IOC, IOM, ITU, OPCW, 
 **National holiday**<br>
 Independence Day, 31 January (1968)<br>
 
-**Flag description**<br>
-blue with a narrow horizontal gold stripe across the center and a large white 12-pointed star below the stripe on the hoist side; blue stands for the Pacific Ocean; the star indicates the country's location in relation to the equator (the gold stripe) and the 12 points stand for the original tribes of Nauru; the star's white color represents phosphate, the basis of the island's wealth<br>
+**Flag**<br>
+<strong>description:</strong> blue with a narrow horizontal gold stripe across the center and a large white 12-pointed star below the stripe on the left side<br><br><strong>meaning:</strong> blue stands for the Pacific Ocean; the star indicates the country's location in relation to the equator (the gold stripe), and the 12 points stand for the original tribes of Nauru; the star's white color represents phosphate, the basis of the island's wealth<br>
 
 **National symbol(s)**<br>
 frigatebird, calophyllum flower<br>
@@ -331,7 +319,7 @@ frigatebird, calophyllum flower<br>
 blue, yellow, white<br>
 
 **National anthem(s)**<br>
-_title_: "Nauru Bwiema" (Song of Nauru)<br>
+_title_: "Nauru Bwiema" (Nauru, Our Homeland)<br>
 _lyrics/music_: Margaret HENDRIE/Laurence Henry HICKS<br>
 _history_: adopted 1968<br>
 
@@ -362,6 +350,12 @@ $12,500 (2022 est.)<br>
 $160.351 million (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
+**Inflation rate (consumer prices)**<br>
+2.6% (2022 est.)<br>
+2.4% (2021 est.)<br>
+1.8% (2020 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
+
 **Agricultural products**<br>
 coconuts, tropical fruits, pork, eggs, pork offal, pork fat, chicken, papayas, vegetables, cabbages (2023)<br>
 <b>note:</b> top ten agricultural products based on tonnage<br>
@@ -376,9 +370,12 @@ phosphate mining, offshore banking, coconut products<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $199.728 million (2020 est.)<br>
-_expenditures_: $132.607 million (2020 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $199.74 million (2020 est.)<br>
+_expenditures_: $157.86 million (2020 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+65% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 44.4% (of GDP) (2020 est.)<br>
@@ -443,10 +440,6 @@ _solar_: 12% of total installed capacity (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 500 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 86,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 86,000 metric tonnes of CO2 (2023 est.)<br>
-
 ## Communications
 
 **Telephones - fixed lines**<br>
@@ -502,5 +495,5 @@ under the terms of a security deal signed in December 2024, Australia and Nauru 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 140 (2022)<br>
+_refugees_: 95 (2024 est.)<br>
 

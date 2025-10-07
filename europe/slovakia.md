@@ -165,16 +165,13 @@ _female_: 81 years<br>
 **Gross reproduction rate**<br>
 0.77 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 99.6% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 99.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0.2% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 7.8% of GDP (2021)<br>
@@ -187,12 +184,12 @@ _Health expenditure (as % of national budget)_: 14.6% of national budget (2022 e
 5.7 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 99.9% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 20.5% (2016)<br>
@@ -245,23 +242,26 @@ _other_: 21.1% (2022 est.)<br>
 _urban population_: 54% of total population (2023)<br>
 _rate of urbanization_: 0.17% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 15.89 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 32.42 megatons (2016 est.)<br>
-_methane emissions_: 4.43 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 30.087 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 9.607 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 12.112 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 8.368 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+16.6 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1.784 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 135,941 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 7.6% (2015 est.)<br>
+_municipal solid waste generated annually_: 2.296 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 13.2% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 290 million cubic meters (2020 est.)<br>
-_industrial_: 230 million cubic meters (2020 est.)<br>
-_agricultural_: 30 million cubic meters (2020 est.)<br>
+_municipal_: 306.21 million cubic meters (2022)<br>
+_industrial_: 224.562 million cubic meters (2022)<br>
+_agricultural_: 32.851 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-50.1 billion cubic meters (2020 est.)<br>
+50.1 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 1<br>
@@ -363,8 +363,8 @@ Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE, CEI, CERN, EAPC,
 **National holiday**<br>
 Constitution Day, 1 September (1992)<br>
 
-**Flag description**<br>
-three equal horizontal bands of white (top), blue, and red come from the pan-Slav colors; the national coat of arms (a red shield bordered in white and with a white double-barred cross of St. Cyril and St. Methodius on top of three blue hills) is centered over the bands but offset slightly to the hoist side<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of white (top), blue, and red; the national coat of arms (a red shield bordered in white, with a white double-barred cross of St. Cyril and St. Methodius on top of three blue hills) is centered over the bands but offset to the left<br><br><strong>meaning:</strong> white, blue, and red are the pan-Slav colors<br>
 <strong>note:</strong> the pan-Slav colors were inspired by Russia's flag<br>
 
 **National symbol(s)**<br>
@@ -374,9 +374,9 @@ double-barred cross (Cross of St. Cyril and St. Methodius) over three peaks<br>
 white, blue, red<br>
 
 **National anthem(s)**<br>
-_title_: "Nad Tatrou sa blyska" (Lightning Over the Tatras)<br>
+_title_: "Nad Tatrou sa blyska" (Storm Over the Tatras)<br>
 _lyrics/music_: Janko MATUSKA/traditional<br>
-_history_: adopted 1993, in use since 1844; music based on the Slovak folk song "Kopala studienku" (She was digging a well)<br>
+_history_: adopted 1993;&nbsp; music based on an 1843 Slovak folk song "Kopala studienku" (She Was Digging a Well)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 8 (6 cultural, 2 natural)<br>
@@ -585,12 +585,6 @@ _consumption_: 4.277 billion cubic meters (2023 est.)<br>
 _imports_: 4.56 billion cubic meters (2023 est.)<br>
 _proven reserves_: 14.158 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 30.087 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 9.607 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 12.112 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 8.368 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 127.582 million Btu/person (2023 est.)<br>
 
@@ -638,14 +632,14 @@ Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Groun
 <strong>note:</strong> the SPF has sole responsibility for internal and border security<br>
 
 **Military expenditures**<br>
+2% of GDP (2025 est.)<br>
 2% of GDP (2024 est.)<br>
-2.1% of GDP (2023)<br>
-1.8% of GDP (2022)<br>
-1.7% of GDP (2021)<br>
-1.9% of GDP (2020)<br>
+1.8% of GDP (2023 est.)<br>
+1.8% of GDP (2022 est.)<br>
+1.7% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 15,000 active-duty Armed Forces (2025)<br>
+approximately 17,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists mostly of Soviet-era platforms; in recent years it has imported limited quantities of more modern, NATO-compatible equipment, particularly from Italy and the US (2024)<br>
@@ -663,6 +657,6 @@ the Slovak military is responsible for external defense and fulfilling Slovakiaâ
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 117,265 (Ukraine) (as of 14 April 2024)<br>
-_stateless persons_: 2,940 (2022)<br>
+_refugees_: 144,349 (2024 est.)<br>
+_stateless persons_: 65 (2024 est.)<br>
 

@@ -178,17 +178,13 @@ _female_: 85.7 years<br>
 **Gross reproduction rate**<br>
 0.84 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-66.9% (2015/16)<br>
-<strong>note:</strong> percent of women aged 18-44<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 10.5% of GDP (2021)<br>
@@ -201,12 +197,8 @@ _Health expenditure (as % of national budget)_: 20.2% of national budget (2022 e
 3.8 beds/1,000 population (2016 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 29% (2016)<br>
@@ -260,30 +252,39 @@ _urban population_: 86.6% of total population (2023)<br>
 _rate of urbanization_: 1.27% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Christmas Island, Cocos Islands, and Norfolk Island<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 8.93 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 375.91 megatons (2016 est.)<br>
-_methane emissions_: 105.01 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 394.653 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 146.81 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 154.346 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 93.497 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+9.1 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 2,146 kt (2022-2024 est.)<br>
+_agriculture_: 2,382.2 kt (2019-2021 est.)<br>
+_waste_: 587.8 kt (2019-2021 est.)<br>
+_other_: 144.1 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 13.345 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 5,618,245 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 42.1% (2015 est.)<br>
+_municipal solid waste generated annually_: 13.345 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 52.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 2.29 billion cubic meters (2020 est.)<br>
-_industrial_: 2.89 billion cubic meters (2020 est.)<br>
-_agricultural_: 8.57 billion cubic meters (2020 est.)<br>
+_municipal_: 2.43 billion cubic meters (2022)<br>
+_industrial_: 3.11 billion cubic meters (2022)<br>
+_agricultural_: 11.19 billion cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-492 billion cubic meters (2020 est.)<br>
+492 billion cubic meters (2022 est.)<br>
 
 ## Government
 
 **Country name**<br>
 _conventional long form_: Commonwealth of Australia<br>
 _conventional short form_: Australia<br>
-_etymology_: the name Australia derives from the Latin <em>australis </em>meaning "southern"; the Australian landmass was long referred to as "Terra Australis," or the Southern Land<br>
+_etymology_: the name Australia derives from the Latin <em>australis </em>meaning "southern;" the Australian landmass was long referred to as "Terra Australis," or the Southern Land<br>
 
 **Government type**<br>
 federal parliamentary democracy&nbsp;under a constitutional monarchy; a Commonwealth realm<br>
@@ -388,8 +389,8 @@ ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP
 **National holiday**<br>
 Australia Day (commemorates the arrival of the First Fleet of Australian settlers), 26 January (1788); ANZAC Day (commemorates the anniversary of the landing of troops of the Australian and New Zealand Army Corps during World War I at Gallipoli, Turkey), 25 April (1915)<br>
 
-**Flag description**<br>
-blue, with the flag of the UK in the upper hoist-side quadrant and a large seven-pointed star in the lower hoist-side quadrant; the star is known as the Commonwealth or Federation Star and represents the federation of the Australian colonies in 1901; the star has one point for each of the six original states and one representing all of Australia's internal and external territories; on the fly half is a representation of the Southern Cross constellation in white, with one small five-pointed star and four larger seven-pointed stars<br>
+**Flag**<br>
+<strong>description:</strong> blue, with the UK flag in the upper-left quadrant and a large seven-pointed star in the lower-left quadrant; on the right half is a representation of the Southern Cross constellation in white, with one small five-pointed star and four larger seven-pointed stars<br><br><strong>meaning:</strong> the largest star is known as the Commonwealth or Federation Star and represents the federation of the Australian colonies in 1901; the star has one point for each of the six original states, plus one representing all of Australia's internal and external territories<br>
 
 **National symbol(s)**<br>
 Commonwealth Star (seven-pointed Star of Federation), golden wattle tree (<em>Acacia pycnantha</em>), kangaroo, emu<br>
@@ -506,9 +507,9 @@ _highest 10%_: 26.2% (2018 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $431.371 billion (2022 est.)<br>
-_expenditures_: $447.119 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $431.27 billion (2022 est.)<br>
+_expenditures_: $453.105 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 58% of GDP (2022 est.)<br>
@@ -601,12 +602,6 @@ _consumption_: 48.845 billion cubic meters (2023 est.)<br>
 _exports_: 105.146 billion cubic meters (2023 est.)<br>
 _imports_: 521.034 million cubic meters (2023 est.)<br>
 _proven reserves_: 3.228 trillion cubic meters (2021 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 394.653 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 146.81 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 154.346 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 93.497 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 223.158 million Btu/person (2023 est.)<br>
@@ -703,7 +698,7 @@ Australian Space Agency (ASA; established 2018; headquarters opened in 2020); De
 Whalers Way Orbital Launch Complex (commercial site, South Australia); Arnhem Space Center (commercial site, Northern Territory); Bown Orbital Spaceport (commercial site, North Queensland) (2025)<br>
 
 **Space program overview**<br>
-has a long history of involvement in space-related activities, including astronomy, rockets, satellites, and space tracking; develops, builds, operates, and tracks satellites, including communications, remote sensing (RS), navigational, and scientific/testing/research, often in partnership with other countries; develops other space technologies, including communications, RS capabilities, and telescopes; encouraging growth in domestic commercial space-industry sector, including satellite launch vehicles; cooperates with a variety of foreign space agencies and industries, including those of China, the European Space Agency (ESA), individual ESA member states, India, Japan, New Zealand, South Korea, the UK, and the US; co-leads the Global Earth Observation System of Systems (2025)<br>
+has a long history of involvement in space-related activities, including astronomy, rockets, satellites, and space tracking; develops, builds, operates, and tracks satellites, including communications, remote sensing (RS), navigational, and scientific/testing/research, often in partnership with other countries; develops other space technologies, including communications, RS capabilities, and telescopes; encouraging growth in domestic commercial space-industry sector, including satellite launch vehicles; cooperates with a variety of foreign space agencies and industries, including those of China, the European Space Agency (ESA), individual ESA member states, India, Japan, New Zealand, South Korea, the UK, and the US; co-leads the Global Earth Observation System of Systems and hosts one of the telescopes for the international Square Kilometer Array radio telescope project (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -715,6 +710,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,180 (Iran), 8,741 (Afghanistan), 5,042 (Pakistan) (mid-year 2022)<br>
-_stateless persons_: 7,649 (2022)<br>
+_refugees_: 120,789 (2024 est.)<br>
+_IDPs_: 185 (2024 est.)<br>
+_stateless persons_: 6,922 (2024 est.)<br>
 

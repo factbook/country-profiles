@@ -157,16 +157,13 @@ _female_: 78.4 years<br>
 **Gross reproduction rate**<br>
 0.66 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-63.8% (2014)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: 99.8% of population<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: 0.2% of population<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6.4% of GDP (2021)<br>
@@ -179,12 +176,8 @@ _Health expenditure (as % of national budget)_: 9.4% of national budget (2022 es
 3.7 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: (2020 est.) NA<br>
+_improved: urban_: urban: 99.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.3% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 10.8% (2016)<br>
@@ -242,21 +235,25 @@ _other_: 37.5% (2022 est.)<br>
 _urban population_: 40.9% of total population (2023)<br>
 _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 10.48 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 4.35 megatons (2016 est.)<br>
-_methane emissions_: 2.06 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 5.551 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 1.495 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 4.056 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+10.5 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 438,000 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 438,000 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 15.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 290 million cubic meters (2020 est.)<br>
-_industrial_: 10 million cubic meters (2020 est.)<br>
-_agricultural_: 310 million cubic meters (2020 est.)<br>
+_municipal_: 320 million cubic meters (2022)<br>
+_industrial_: 10 million cubic meters (2022)<br>
+_agricultural_: 303 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-2.75 billion cubic meters (2020 est.)<br>
+2.751 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -355,9 +352,9 @@ ACP, AfDB, AOSIS, AU, CD, COMESA, CPLP (associate), FAO, G-77, IAEA, IBRD, ICAO,
 Independence and Republic Day, 12 March (1968, 1992)<br>
 <strong>note:</strong> became independent and a republic on the same date in 1968 and 1992, respectively<br>
 
-**Flag description**<br>
-four equal horizontal bands of red (top), blue, yellow, and green; red stands for self-determination and independence, blue for the Indian Ocean, yellow for the new light of independence, golden sunshine, or the bright future, and green for agriculture or the island's lush vegetation<br>
-<strong>note:</strong> the flag of Mauritius is the only national flag with four horizontal color bands<br>
+**Flag**<br>
+<strong>description:</strong> four equal horizontal bands of red (top), blue, yellow, and green<br><br><strong>meaning:</strong> red stands for self-determination and independence; blue for the Indian Ocean; yellow for the new light of independence, golden sunshine, or the bright future; and green for agriculture or the island's lush vegetation<br>
+<strong>note:</strong> Mauritius has the only national flag with four horizontal color bands<br>
 
 **National symbol(s)**<br>
 dodo bird, earring tree flower (<em>Trochetia boutoniana</em>)<br>
@@ -469,9 +466,9 @@ _highest 10%_: 29.9% (2017 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $3.134 billion (2022 est.)<br>
-_expenditures_: $3.647 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $3.801 billion (2024 est.)<br>
+_expenditures_: $5.042 billion (2024 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 58% of GDP (2019 est.)<br>
@@ -559,11 +556,6 @@ _imports_: 610,000 metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 28,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 5.551 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 1.495 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 4.056 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 60.188 million Btu/person (2023 est.)<br>
 
@@ -626,4 +618,8 @@ the MPF's inventory is comprised of mostly secondhand equipment from Western Eur
 key security priorities for the Maritius Police Force (MPF) include combating narcotics trafficking, ensuring public order, fighting cybercrime, improving maritime security, and responding to natural disasters; the MPF's primary security partner is India, which provides training and other support to the National Coast Guard, while Indian naval vessels often patrol the country's waters; the MPF has also received assistance and training from France, the UK, and the US<br><br>the Special Mobile Force was created in 1960 following the withdrawal of the British garrison (2025)<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 82 (2024 est.)<br>
+_IDPs_: 39 (2024 est.)<br>
 

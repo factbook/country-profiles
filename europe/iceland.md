@@ -159,16 +159,13 @@ _female_: 86.3 years<br>
 **Gross reproduction rate**<br>
 0.95 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 8.6% of GDP (2022)<br>
@@ -181,12 +178,12 @@ _Health expenditure (as % of national budget)_: 16.5% of national budget (2022 e
 2.8 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 21.9% (2016)<br>
@@ -239,23 +236,25 @@ _other_: 80.9% (2022 est.)<br>
 _urban population_: 94% of total population (2023)<br>
 _rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 5.79 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 2.06 megatons (2016 est.)<br>
-_methane emissions_: 0.59 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 3.101 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 376,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.725 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+5.8 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 525,000 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 293,003 tons (2013 est.)<br>
-_percent of municipal solid waste recycled_: 55.8% (2013 est.)<br>
+_municipal solid waste generated annually_: 225,300 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 55.5% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 80 million cubic meters (2020 est.)<br>
-_industrial_: 200 million cubic meters (2020 est.)<br>
-_agricultural_: 300,000 cubic meters (2017 est.)<br>
+_municipal_: 80 million cubic meters (2022 est.)<br>
+_industrial_: 198 million cubic meters (2022 est.)<br>
+_agricultural_: 300,000 cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-170 billion cubic meters (2020 est.)<br>
+170 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 2<br>
@@ -318,7 +317,7 @@ _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 11/30/2024<br>
-_parties elected and seats per party_: Social Democratic Alliance (SDA) (15); Independence Party (IP) (14); Liberal Reform Party (11); People’s Party (10); Center Party (8); Progressive Party (PP) (5)<br>
+_parties elected and seats per party_: Social Democratic Alliance (S) (15); Independence Party (D) (14); Liberal Reform Party (C) (11); People&rsquo;s Party (F) (10); Center Party (M) (8); Progressive Party (B) (5)<br>
 _percentage of women in chamber_: 46%<br>
 _expected date of next election_: November 2028<br>
 
@@ -328,7 +327,7 @@ _judge selection and term of office_: judges proposed by Ministry of Interior se
 _subordinate courts_: Appellate Court or Landsrettur; 8 district courts; Labor Court<br>
 
 **Political parties**<br>
-Center Party (Midflokkurinn) or CP <br>Independence Party (Sjalfstaedisflokkurinn) or IP <br>Left-Green Movement (Vinstrihreyfingin-graent frambod) or LGM <br>Liberal Reform Party (Vidreisn) <br>People's Party (Flokkur Folksins) <br>Pirate Party (Piratar) <br>Progressive Party (Framsoknarflokkurinn) or PP <br>Social Democratic Alliance (Samfylkingin) or SDA<br>
+Center Party or M <br>Independence Party or D <br>Liberal Reform Party or C<br>People's Party or F<br>Progressive Party or B <br>Social Democratic Alliance or S<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Svanhildur H&oacute;lm VALSD&Oacute;TTIR (since 18 September 2024)<br>
@@ -354,8 +353,8 @@ Arctic Council, Australia Group, BIS, CBSS, CD, CE, EAPC, EBRD, EFTA, FAO, FATF,
 **National holiday**<br>
 Independence Day, 17 June (1944)<br>
 
-**Flag description**<br>
-blue with a red cross outlined in white extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); red stands for the island's volcanic fires, white for the snow and ice fields, and blue for the ocean<br>
+**Flag**<br>
+<strong>description:</strong> blue with a red cross outlined in white extending to the edges of the flag; the cross is shifted to the left in the style of the Dannebrog (Danish flag)<br><br><strong>meaning:</strong> red stands for the island's volcanic fires, white for the snow and ice fields, and blue for the ocean<br>
 
 **National symbol(s)**<br>
 gyrfalcon<br>
@@ -366,7 +365,7 @@ blue, white, red<br>
 **National anthem(s)**<br>
 _title_: "Lofsongur" (Song of Praise)<br>
 _lyrics/music_: Matthias JOCHUMSSON/Sveinbjorn SVEINBJORNSSON<br>
-_history_: adopted 1944; also known as "O, Gud vors lands" (O God of Our Land), the anthem was originally written and performed in 1874<br>
+_history_: adopted 1918<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (1 cultural, 2 natural)<br>
@@ -467,9 +466,9 @@ _highest 10%_: 21.7% (2018 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $9 billion (2022 est.)<br>
-_expenditures_: $9.498 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $10.023 billion (2023 est.)<br>
+_expenditures_: $10.364 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 80.7% of GDP (2023 est.)<br>
@@ -549,11 +548,6 @@ _imports_: 106,000 metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 19,000 bbl/day (2024 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 3.101 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 376,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 2.725 million metric tonnes of CO2 (2023 est.)<br>
-
 ## Communications
 
 **Telephones - fixed lines**<br>
@@ -617,5 +611,7 @@ Iceland was one of the original 12 countries to sign the North Atlantic Treaty (
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 68 (2022)<br>
+_refugees_: 8,960 (2024 est.)<br>
+_IDPs_: 3,700 (2024 est.)<br>
+_stateless persons_: 31 (2024 est.)<br>
 

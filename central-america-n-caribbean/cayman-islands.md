@@ -153,20 +153,17 @@ _female_: 85.2 years<br>
 **Gross reproduction rate**<br>
 0.9 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 97.4% of population<br>
-_improved: total_: total: 97.4% of population<br>
-_unimproved: urban_: urban: 2.6% of population<br>
-_unimproved: total_: total: 2.6% of population (2015 est.)<br>
+_improved: urban_: urban: 95.5% of population (2022 est.)<br>
+_improved: total_: total: 95.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 4.5% of population (2022 est.)<br>
+_unimproved: total_: total: 4.5% of population (2022 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 95.6% of population<br>
-_improved: total_: total: 95.6% of population<br>
-_unimproved: urban_: urban: 4.4% of population<br>
-_unimproved: total_: total: 4.4% of population (2015 est.)<br>
+_improved: urban_: urban: 93.5% of population (2022 est.)<br>
+_improved: total_: total: 93.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 6.5% of population (2022 est.)<br>
+_unimproved: total_: total: 6.5% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 51.4% (2023 est.)<br>
@@ -195,13 +192,12 @@ _other_: 36.1% (2022 est.)<br>
 _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 1.13% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.55 megatons (2016 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 737,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 737,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 60,000 tons (2014 est.)<br>
-_municipal solid waste recycled annually_: 12,600 tons (2013 est.)<br>
-_percent of municipal solid waste recycled_: 21% (2013 est.)<br>
+_municipal solid waste generated annually_: 60,000 tons (2024 est.)<br>
 
 ## Government
 
@@ -278,8 +274,8 @@ none (overseas territory of the UK)<br>
 **National holiday**<br>
 Constitution Day, the first Monday in July (1959)<br>
 
-**Flag description**<br>
-a blue field with the UK flag in the upper hoist-side quadrant and the Caymanian coat of arms centered on the outer half of the flag; the coat of arms includes a crest with a pineapple (representing ties to Jamaica) and a turtle (representing Cayman's seafaring tradition) above a shield bearing a golden lion (symbolizing Great Britain); below are three green stars (representing the three islands) over white and blue wavy lines representing the sea; a scroll below the shield bears the motto HE HATH FOUNDED IT UPON THE SEAS<br>
+**Flag**<br>
+<strong>description:</strong> a blue field with the UK flag in the upper-left quadrant and the Caymanian coat of arms centered on the right half of the flag; the coat of arms has a pineapple, a turtle, a shield with a golden lion and three green stars, and a scroll below the shield with the motto HE HATH FOUNDED IT UPON THE SEAS<br><br><strong>meaning:</strong> the pineapple represents ties to Jamaica; the turtle represents the Caymans' seafaring tradition; the lion symbolizes Great Britain; the green stars represent the three islands; the white and blue wavy lines on the coat of arms represent the sea<br>
 
 **National symbol(s)**<br>
 green sea turtle<br>
@@ -417,10 +413,6 @@ _wind_: 0.1% of total installed capacity (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 5,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 737,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 737,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 143.149 million Btu/person (2023 est.)<br>
 
@@ -480,4 +472,7 @@ no regular military forces; Royal Cayman Islands Police Service<br>
 defense is the responsibility of the UK<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 65 (2024 est.)<br>
 

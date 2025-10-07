@@ -186,7 +186,7 @@ none (territory of Australia)<br>
 **National holiday**<br>
 Australia Day (commemorates the arrival of the First Fleet of Australian settlers), 26 January (1788)<br>
 
-**Flag description**<br>
+**Flag**<br>
 the flag of Australia is used<br>
 
 **National anthem(s)**<br>
@@ -219,11 +219,11 @@ iron structures, special purpose motor vehicles, cars, ships, aluminum structure
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>
+1.515 (2024 est.)<br>
 1.505 (2023 est.)<br>
 1.442 (2022 est.)<br>
 1.331 (2021 est.)<br>
 1.453 (2020 est.)<br>
-1.439 (2019 est.)<br>
 
 ## Communications
 

@@ -80,6 +80,10 @@ tropical<br>
 _agricultural land_: 0% (2018 est.)<br>
 _other_: 100% (2018 est.)<br>
 
+**Carbon dioxide emissions**<br>
+_total emissions_: 1.214 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.214 million metric tonnes of CO2 (2023 est.)<br>
+
 ## Government
 
 **Country name**<br>
@@ -99,7 +103,7 @@ see United States<br>
 **Independence**<br>
 none (territory of the US)<br>
 
-**Flag description**<br>
+**Flag**<br>
 the US flag is used<br>
 
 ## Economy
@@ -111,10 +115,6 @@ _electrification - total population_: 100% (2021)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 8,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 1.214 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 1.214 million metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

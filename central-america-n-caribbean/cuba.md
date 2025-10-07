@@ -160,16 +160,13 @@ _female_: 82.6 years<br>
 **Gross reproduction rate**<br>
 0.83 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-69% (2019)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 98.9% of population<br>
-_improved: rural_: rural: 97% of population<br>
-_improved: total_: total: 98.5% of population<br>
-_unimproved: urban_: urban: 1.1% of population<br>
-_unimproved: rural_: rural: 3% of population<br>
-_unimproved: total_: total: 1.5% of population (2020 est.)<br>
+_improved: urban_: urban: 95.5% of population (2022 est.)<br>
+_improved: rural_: rural: 91.8% of population (2022 est.)<br>
+_improved: total_: total: 94.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 4.5% of population (2022 est.)<br>
+_unimproved: rural_: rural: 8.2% of population (2022 est.)<br>
+_unimproved: total_: total: 5.3% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 13.8% of GDP (2021)<br>
@@ -182,12 +179,12 @@ _Health expenditure (as % of national budget)_: 21% of national budget (2022 est
 4.2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 94.8% of population<br>
-_improved: rural_: rural: 87% of population<br>
-_improved: total_: total: 93% of population<br>
-_unimproved: urban_: urban: 5.2% of population<br>
-_unimproved: rural_: rural: 13% of population<br>
-_unimproved: total_: total: 7% of population (2017 est.)<br>
+_improved: urban_: urban: 98.4% of population (2022 est.)<br>
+_improved: rural_: rural: 95.7% of population (2022 est.)<br>
+_improved: total_: total: 97.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 4.3% of population (2022 est.)<br>
+_unimproved: total_: total: 2.2% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 24.6% (2016)<br>
@@ -256,23 +253,32 @@ _other_: 7.1% (2022 est.)<br>
 _urban population_: 77.5% of total population (2023)<br>
 _rate of urbanization_: 0.19% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 13.32 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 28.28 megatons (2016 est.)<br>
-_methane emissions_: 9.3 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 19.716 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 16,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 18.12 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 1.58 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+13.3 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 23 kt (2022-2024 est.)<br>
+_agriculture_: 249.7 kt (2019-2021 est.)<br>
+_waste_: 146.4 kt (2019-2021 est.)<br>
+_other_: 2.2 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2,692,692 tons (2007 est.)<br>
-_municipal solid waste recycled annually_: 255,536 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 9.5% (2015 est.)<br>
+_municipal solid waste generated annually_: 2.693 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 25.7% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.7 billion cubic meters (2020 est.)<br>
-_industrial_: 740 million cubic meters (2020 est.)<br>
-_agricultural_: 4.52 billion cubic meters (2020 est.)<br>
+_municipal_: 1.7 billion cubic meters (2022 est.)<br>
+_industrial_: 740 million cubic meters (2022 est.)<br>
+_agricultural_: 4.519 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-38.12 billion cubic meters (2020 est.)<br>
+38.12 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -368,8 +374,8 @@ ACP, ACS, ALBA, AOSIS, CABEI, CELAC, EAEU (observer), FAO, G-77, IAEA, ICAO, ICC
 **National holiday**<br>
 Triumph of the Revolution (Liberation Day), 1 January (1959)<br>
 
-**Flag description**<br>
-five equal horizontal bands of blue (top, center, and bottom) alternating with white; a red equilateral triangle based on the hoist side has a white, five-pointed star in the center; the blue bands refer to the three former divisions of the island: central, occidental, and oriental; the white bands stand for the purity of the independence ideal; the triangle symbolizes liberty, equality, and fraternity; the red color stands for the blood shed in the independence struggle; the white star, called La Estrella Solitaria (the Lone Star) lights the way to freedom and was inspired by the flag of Texas<br>
+**Flag**<br>
+<strong>description:</strong> five equal horizontal bands of blue (top, center, and bottom) alternating with white; a red equilateral triangle based on the left side has a five-pointed white star in the center<br><br><strong>meaning:</strong> the blue bands stand for the islands' three former departments: Central, Occidental, and Oriental; the white bands for the purity of the independence ideal; the triangle for liberty, equality, and fraternity; the red color for the blood shed in the independence struggle; the white star, called "La Estrella Solitaria" (the Lone Star), lights the way to freedom and was inspired by the state flag of Texas<br>
 <strong>note:</strong> design similar to the Puerto Rican flag, with the colors of the bands and triangle reversed<br>
 
 **National symbol(s)**<br>
@@ -393,10 +399,10 @@ _selected World Heritage Site locales_: Old Havana (c); Trinidad and the Valley 
 still largely state-run planned economy, although privatization increasing under new constitution; widespread protests due to lack of basic necessities and electricity; massive foreign investment increases recently; known tobacco exporter; unique oil-for-doctors relationship with Venezuela; widespread corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
-$137 billion (2017 est.)<br>
-$134.8 billion (2016 est.)<br>
-$134.2 billion (2015 est.)<br>
-<strong>note:</strong> data are in 2016 dollars<br>
+$81.165 billion (2024 est.)<br>
+$81.985 billion (2023 est.)<br>
+$83.597 billion (2022 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
 -1.9% (2023 est.)<br>
@@ -405,18 +411,20 @@ $134.2 billion (2015 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$12,300 (2016 est.)<br>
-$12,200 (2015 est.)<br>
-$12,100 (2014 est.)<br>
-<strong>note:</strong> data are in 2016 US dollars<br>
+$23,700 (2024 est.)<br>
+$18,300 (2023 est.)<br>
+$13,300 (2022 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$107.352 billion (2020 est.)<br>
+$259.781 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.5% (2017 est.)<br>
-4.5% (2016 est.)<br>
+76.1% (2022 est.)<br>
+151.9% (2021 est.)<br>
+11.9% (2020 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.3% (2023 est.)<br>
@@ -463,6 +471,9 @@ _female_: 3.5% (2024 est.)<br>
 **Budget**<br>
 _revenues_: $54.52 billion (2017 est.)<br>
 _expenditures_: $64.64 billion (2017 est.)<br>
+
+**Public debt**<br>
+42.7% of GDP (2016 est.)<br>
 
 **Exports**<br>
 $8.768 billion (2020 est.)<br>
@@ -532,12 +543,6 @@ _crude oil estimated reserves_: 124 million barrels (2021 est.)<br>
 _production_: 850.133 million cubic meters (2023 est.)<br>
 _consumption_: 850.133 million cubic meters (2023 est.)<br>
 _proven reserves_: 70.792 billion cubic meters (2021 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 19.716 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 16,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 18.12 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 1.58 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 26.07 million Btu/person (2023 est.)<br>
@@ -623,6 +628,10 @@ the Cuban military is largely focused on protecting territorial integrity and th
 
 ## Transnational Issues
 
+**Refugees and internally displaced persons**<br>
+_refugees_: 171 (2024 est.)<br>
+_IDPs_: 37,171 (2024 est.)<br>
+
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 — Cuba does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Cuba remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/cuba/<br>
+_tier rating_: Tier 3 — Cuba does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Cuba remained on Tier 3; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/cuba/<br>
 

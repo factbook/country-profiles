@@ -91,7 +91,7 @@ large urban clusters are spread throughout the eastern half of the US (particula
 tsunamis; volcanoes; earthquake activity around Pacific Basin; hurricanes along the Atlantic and Gulf of America coasts; tornadoes in the Midwest and Southeast; mud slides in California; forest fires in the west; flooding; permafrost in northern Alaska is a major impediment to development <br><br><strong>volcanism:</strong> volcanic activity in the Hawaiian Islands, Western Alaska, the Pacific Northwest, and in the Northern Mariana Islands; Mauna Loa (4,170 m) in Hawaii and Mount Rainier (4,392 m) in Washington have been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; Pavlof (2,519 m) is the most active volcano in Alaska's Aleutian Arc and poses a significant threat to intercontinental air travel; St. Helens (2,549 m), famous for the devastating 1980 eruption, remains active today; other historically active volcanoes are mostly concentrated in the Aleutian arc and Hawaii, including (in Alaska) Aniakchak, Augustine, Chiginagak, Fourpeaked, Iliamna, Katmai, Kupreanof, Martin, Novarupta, Redoubt, Spurr, Wrangell, Trident, Ugashik-Peulik, Ukinrek Maars, Veniaminof, (in Hawaii) Haleakala, Kilauea, Loihi, (in the Northern Mariana Islands) Anatahan, (in the Pacific Northwest) Mount Baker, and Mount Hood; see note 2 under "Geography - note"<br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> world's third-largest country by size (after Russia and Canada) and by population (after China and India); Mt. McKinley is the highest point (6,190 m; 20,308 ft) in North America, and Death Valley is the lowest point (-86 m; -282 ft)</p> <p><strong>note 2:</strong> the western US coast and the southern coast of Alaska lie along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> the Aleutian Islands are a chain of volcanic islands that divide the Bering Sea (north) from the main Pacific Ocean (south); they extend about 1,800 km (1,118 mi) westward from the Alaskan Peninsula; the archipelago consists of 14 larger islands, 55 smaller islands, and hundreds of islets; there are 41 active volcanoes on the islands, which together form a large northern section of the Ring of Fire<br><br><strong>note 4: </strong>Mammoth Cave, in west-central Kentucky, is the world's longest known cave system with more than 650 km (405 miles) of surveyed passageways, which is nearly twice as long as the second-longest cave system, the Sac Actun underwater cave in Mexico (see "Geography - note" under Mexico)<br><br><strong>note 5:</strong> Kazumura Cave on the island of Hawaii is the world's longest and deepest lava-tube cave; it has been surveyed at 66 km (41 mi) long and 1,102 m (3,614 ft) deep <br><br><strong>note 6: </strong>Bracken Cave outside San Antonio, Texas is the world's largest bat cave and the summer home to the largest colony of bats in the world; an estimated 20 million Mexican free-tailed bats roost in the cave from March to October, making it the world's largest known concentration of mammals</p><br>
+<strong>note 1:</strong> world's third-largest country by size (after Russia and Canada) and by population (after China and India); Mt. McKinley is the highest point (6,190 m; 20,308 ft) in North America, and Death Valley is the lowest point (-86 m; -282 ft) <br><br><strong>note 2:</strong> the western US coast and the southern coast of Alaska lie along the Ring of Fire, which is a belt bordering the Pacific Ocean that contains about 75% of the world's volcanoes and up to 90% of the world's earthquakes<br><br><strong>note 3:</strong> the Aleutian Islands are a chain of volcanic islands that divide the Bering Sea (north) from the main Pacific Ocean (south); they extend about 1,800 km (1,118 mi) westward from the Alaskan Peninsula; the archipelago consists of 14 larger islands, 55 smaller islands, and hundreds of islets; there are 41 active volcanoes on the islands, which together form a large northern section of the Ring of Fire<br><br><strong>note 4: </strong>Mammoth Cave, in west-central Kentucky, is the world's longest known cave system with more than 650 km (405 miles) of surveyed passageways, which is nearly twice as long as the second-longest cave system, the Sac Actun underwater cave in Mexico (see "Geography - note" under Mexico)<br><br><strong>note 5:</strong> Kazumura Cave on the island of Hawaii is the world's longest and deepest lava-tube cave; it has been surveyed at 66 km (41 mi) long and 1,102 m (3,614 ft) deep <br><br><strong>note 6: </strong>Bracken Cave outside San Antonio, Texas is the world's largest bat cave and the summer home to the largest colony of bats in the world; an estimated 20 million Mexican free-tailed bats roost in the cave from March to October, making it the world's largest known concentration of mammals<br>
 
 ## People and Society
 
@@ -182,16 +182,13 @@ _female_: 83.1 years<br>
 **Gross reproduction rate**<br>
 0.9 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-73.9% (2017/19)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: 99.7% of population<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: 0.3% of population<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 16.6% of GDP (2022)<br>
@@ -204,12 +201,12 @@ _Health expenditure (as % of national budget)_: 24.7% of national budget (2022 e
 2.7 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.8% of population<br>
-_improved: rural_: rural: 98.9% of population<br>
-_improved: total_: total: 99.7% of population<br>
-_unimproved: urban_: urban: 0.2% of population<br>
-_unimproved: rural_: rural: 11.1% of population<br>
-_unimproved: total_: total: 0.3% of population (2020 est.)<br>
+_improved: urban_: urban: 99.9% of population (2022 est.)<br>
+_improved: rural_: rural: 98.5% of population (2022 est.)<br>
+_improved: total_: total: 99.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.5% of population (2022 est.)<br>
+_unimproved: total_: total: 0.4% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 36.2% (2016)<br>
@@ -266,23 +263,32 @@ _other_: 21% (2022 est.)<br>
 _urban population_: 83.3% of total population (2023)<br>
 _rate of urbanization_: 0.96% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 7.18 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 5,006.3 megatons (2016 est.)<br>
-_methane emissions_: 685.74 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 4.795 billion metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 777.302 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.258 billion metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 1.76 billion metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+7.4 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 20,500.6 kt (2022-2024 est.)<br>
+_agriculture_: 9,063.9 kt (2019-2021 est.)<br>
+_waste_: 4,974 kt (2019-2021 est.)<br>
+_other_: 758.6 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 258 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 89.268 million tons (2014 est.)<br>
-_percent of municipal solid waste recycled_: 34.6% (2014 est.)<br>
+_municipal solid waste generated annually_: 265.225 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 14.8% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 58.39 billion cubic meters (2020 est.)<br>
-_industrial_: 209.7 billion cubic meters (2020 est.)<br>
-_agricultural_: 176.2 billion cubic meters (2020 est.)<br>
+_municipal_: 58.39 billion cubic meters (2022 est.)<br>
+_industrial_: 209.7 billion cubic meters (2022 est.)<br>
+_agricultural_: 176.2 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-3.07 trillion cubic meters (2020 est.)<br>
+3.069 trillion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -384,9 +390,9 @@ ADB (nonregional member), AfDB (nonregional member), ANZUS, APEC, Arctic Council
 **National holiday**<br>
 Independence Day, 4 July (1776)<br>
 
-**Flag description**<br>
-13 equal horizontal stripes of red (top and bottom) alternating with white; a blue rectangle in the upper hoist-side corner has 50 five-pointed white stars, arranged in nine offset horizontal rows of six stars (top and bottom) alternating with rows of five stars; the stars represent the 50 states, and the stripes represent the 13 original colonies; blue stands for loyalty, devotion, truth, justice, and friendship, red for courage, zeal, and fervency, and white for purity and rectitude of conduct; commonly referred to by its nickname of "Old Glory"<br>
-<strong>note:</strong> the design and colors have been the basis for a number of other flags, including Chile, Liberia, Malaysia, and Puerto Rico<br>
+**Flag**<br>
+<strong>description:</strong> 13 equal horizontal stripes of red (top and bottom) alternating with white; a blue rectangle in the upper-left corner has 50 five-pointed white stars, arranged in nine offset horizontal rows of six stars (top and bottom) alternating with rows of five stars<br><br><strong>meaning:</strong> the stars represent the 50 states, and the stripes represent the 13 original colonies; blue stands for loyalty, devotion, truth, justice, and friendship; red for courage, zeal, and fervency; white for purity and rectitude of conduct<br>
+<strong>note 1:</strong> sometimes referred to by its nickname of "Old Glory"<br><br><strong>note 2:</strong> the design and colors have been the basis for a number of other flags, including Chile, Liberia, Malaysia, and Puerto Rico<br>
 
 **National symbol(s)**<br>
 bald eagle<br>
@@ -397,7 +403,7 @@ red, white, blue<br>
 **National anthem(s)**<br>
 _title_: "The Star-Spangled Banner"<br>
 _lyrics/music_: Francis Scott KEY/John Stafford SMITH<br>
-_history_: adopted 1931; during the War of 1812, Francis Scott KEY witnessed the successful American defense of Baltimore's Fort McHenry against a British naval bombardment, later writing a poem about it that would become the US national anthem; the lyrics were set to the tune of "The Anacreontic Song;" usually only the first verse is sung<br>
+_history_: adopted 1931; during the War of 1812, Francis Scott KEY witnessed the successful American defense of Baltimore's Fort McHenry against a British naval bombardment, later writing a poem about it that would become the US national anthem; the lyrics were set to the tune of "The Anacreontic Song;" there are four verses, but only the first verse is sung<br><br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 26 (13 cultural, 12 natural, 1 mixed); note - includes one site in Puerto Rico<br>
@@ -498,9 +504,9 @@ _highest 10%_: 30.4% (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $5.038 trillion (2022 est.)<br>
-_expenditures_: $6.306 trillion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $4.877 trillion (2023 est.)<br>
+_expenditures_: $6.857 trillion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 114.8% of GDP (2023 est.)<br>
@@ -599,12 +605,6 @@ _exports_: 215.48 billion cubic meters (2023 est.)<br>
 _imports_: 82.917 billion cubic meters (2023 est.)<br>
 _proven reserves_: 13.402 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 4.795 billion metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 777.302 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 2.258 billion metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 1.76 billion metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 278.474 million Btu/person (2023 est.)<br>
 
@@ -667,11 +667,11 @@ United States Armed Forces (aka US Military): US Army (USA), US Navy (USN; inclu
 <strong>note 1: </strong>the US Coast Guard is administered in peacetime by the Department of Homeland Security, but in wartime reports to the Navy<br><strong><br>note 2:</strong> the Army National Guard and the Air National Guard are reserve components of their services and operate in part under state authority; the US military also maintains reserve forces for each branch<br><br><strong>note 3: </strong>US law enforcement personnel include those of federal agencies, such as the Department of Homeland Security and Department of Justice, the 50 states, special jurisdictions, local sheriff’s offices, and municipal, county, regional, and tribal police departments<br><br><strong>note 4:</strong> some US states have "state defense forces" (SDFs), which are military units that operate under the sole authority of state governments; SDFs are authorized by state and federal law and are under the command of the governor of each state; most are organized as ground units, but air and naval units also exist<br>
 
 **Military expenditures**<br>
-3.4% of GDP (2024 est.)<br>
-3.2% of GDP (2023)<br>
-3.3% of GDP (2022)<br>
-3.5% of GDP (2021)<br>
-3.6% of GDP (2020)<br>
+3.2% of GDP (2025 est.)<br>
+3.2% of GDP (2024 est.)<br>
+3.1% of GDP (2023 est.)<br>
+3.2% of GDP (2022 est.)<br>
+3.5% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1.28 million active-duty Armed Forces (450,000 Army; 334,000 Navy; 317,000 Air Force; 10,000 Space Force; 168,000 Marine Corps); 42,000 Coast Guard) (2025)<br>
@@ -711,6 +711,6 @@ al-Qa'ida; Hizballah; Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islam
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: the US admitted 25,465 refugees during FY2022, including: 7,810 (Democratic Republic of the Congo), 4,556 (Syria), 2,156 (Burma), 1,669 (Sudan), 1,618 (Afghanistan), 1,610 (Ukraine)<br>
-_stateless persons_: 47 (2022)<br>
+_refugees_: 3,619,495 (2024 est.)<br>
+_IDPs_: 21,737 (2024 est.)<br>
 

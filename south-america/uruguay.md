@@ -168,17 +168,13 @@ _female_: 82.1 years<br>
 **Gross reproduction rate**<br>
 0.86 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-79.6% (2015)<br>
-<strong>note:</strong> percent of women aged 15-44<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 99.7% of population (2022 est.)<br>
+_improved: rural_: rural: 95.3% of population (2022 est.)<br>
+_improved: total_: total: 99.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 4.7% of population (2022 est.)<br>
+_unimproved: total_: total: 0.5% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 9.4% of GDP (2021)<br>
@@ -191,12 +187,12 @@ _Health expenditure (as % of national budget)_: 20.9% of national budget (2022 e
 2.5 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.2% of population<br>
-_improved: rural_: rural: 99.6% of population<br>
-_improved: total_: total: 99.2% of population<br>
-_unimproved: urban_: urban: 0.8% of population<br>
-_unimproved: rural_: rural: 0.4% of population<br>
-_unimproved: total_: total: 0.8% of population (2020 est.)<br>
+_improved: urban_: urban: 99.3% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 99.3% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.7% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0.7% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 27.9% (2016)<br>
@@ -257,23 +253,32 @@ _other_: 7.3% (2022 est.)<br>
 _urban population_: 95.8% of total population (2023)<br>
 _rate of urbanization_: 0.4% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 8.48 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 6.77 megatons (2016 est.)<br>
-_methane emissions_: 25.59 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 6.896 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 39,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 6.681 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 177,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+8.5 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 18.1 kt (2022-2024 est.)<br>
+_agriculture_: 730.6 kt (2019-2021 est.)<br>
+_waste_: 115.4 kt (2019-2021 est.)<br>
+_other_: 2.8 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1,260,140 tons (2012 est.)<br>
-_municipal solid waste recycled annually_: 100,811 tons (2011 est.)<br>
-_percent of municipal solid waste recycled_: 8% (2011 est.)<br>
+_municipal solid waste generated annually_: 1.26 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 24.8% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 410 million cubic meters (2020 est.)<br>
-_industrial_: 80 million cubic meters (2020 est.)<br>
-_agricultural_: 3.17 billion cubic meters (2020 est.)<br>
+_municipal_: 424.428 million cubic meters (2022)<br>
+_industrial_: 603.701 million cubic meters (2022)<br>
+_agricultural_: 3.479 billion cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-172.2 billion cubic meters (2020 est.)<br>
+172.2 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 1<br>
@@ -365,7 +370,7 @@ _subordinate courts_: Courts of Appeal; District Courts (Juzgados Letrados); Pea
 Broad Front or FA (Frente Amplio) - (a broad governing coalition that comprises 34 factions including Popular Participation Movement or MPP, Uruguay Assembly, Progressive Alliance, Broad Social Democratic Space, Socialist Party, Vertiente Artiguista, Christian Democratic Party, Big House, Communist Party, The Federal League, Fuerza Renovadora)<br>Colorado Party or PC (including Batllistas and Ciudadanos)<br>Intransigent Radical Ecologist Party (Partido Ecologista Radical Intransigente) or PERI<br>Independent Party<br>National Party or PN (including Todos (Everyone) and National Alliance)<br>Open Cabildo<br>Popular Unity<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Gerardo RUIZ NADAL (since 1 April 2025)<br>
+_chief of mission_: Ambassador Daniel CASTILLOS G&oacute;mez (since 5 September 2025)<br>
 _chancery_: 1913 I Street NW, Washington, DC 20006<br>
 _telephone_: [1] (202) 331-1313<br>
 _FAX_: [1] (202) 331-8142<br>
@@ -373,7 +378,7 @@ _email address and website_: <br>urueeuu@mrree.gub.uy<br><br>https://embassyofur
 _consulate(s) general_: Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Heide B. FULTON (since 22 March 2023)<br>
+_chief of mission_: Ambassador-designate Lou RINALDI (since September 2025)<br>
 _embassy_: Lauro Muller 1776, Montevideo 11200<br>
 _mailing address_: 3360 Montevideo Place, Washington DC&nbsp; 20521-3360<br>
 _telephone_: (+598) 1770-2000<br>
@@ -389,8 +394,8 @@ CAN (associate), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national com
 **National holiday**<br>
 Independence Day, 25 August (1825)<br>
 
-**Flag description**<br>
-nine equal horizontal stripes of white (top and bottom) alternating with blue; a white square in the upper hoist-side corner has a yellow sun with a human face (outlined in black) known as the Sun of May, with 16 rays that alternate between triangular and wavy; the stripes represent the country's nine original departments; the sun refers to the legend of the sun breaking through the clouds on 25 May 1810 as independence was declared from Spain (Uruguay subsequently won its independence from Brazil); the sun is said to be Inti, the Inca god of the sun<br>
+**Flag**<br>
+<strong>description: </strong>nine equal horizontal stripes of white (top and bottom) alternating with blue; a white square in the upper-left corner has a yellow sun with a human face (outlined in black) known as the Sun of May, with 16 rays that alternate between triangular and wavy<br><br><strong>meaning: </strong>the stripes represent the country's nine original departments; the sun refers to the legend of the sun breaking through the clouds on 25 May 1810 as independence was declared from Spain; the sun is said to be Inti, the Inca god of the sun<br>
 <strong>note:</strong> the banner was inspired by the national colors of Argentina and the design of the US flag<br>
 
 **National symbol(s)**<br>
@@ -507,9 +512,9 @@ _highest 10%_: 30.8% (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $16.522 billion (2020 est.)<br>
-_expenditures_: $18.58 billion (2020 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $27.781 billion (2023 est.)<br>
+_expenditures_: $17.808 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 62.4% of GDP (2023 est.)<br>
@@ -598,12 +603,6 @@ _refined petroleum consumption_: 50,000 bbl/day (2023 est.)<br>
 _consumption_: 90.018 million cubic meters (2023 est.)<br>
 _imports_: 90.871 million cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 6.896 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 39,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 6.681 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 177,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 45.755 million Btu/person (2023 est.)<br>
 
@@ -690,9 +689,7 @@ the armed forces are responsible for defense of the country&rsquo;s independence
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 32,939 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2023)<br>
-_stateless persons_: 5 (2022)<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Uruguay was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/uruguay/<br>
+_refugees_: 32,149 (2024 est.)<br>
+_IDPs_: 33 (2024 est.)<br>
+_stateless persons_: 5 (2024 est.)<br>
 

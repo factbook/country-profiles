@@ -143,21 +143,6 @@ _female_: 82.2 years<br>
 **Gross reproduction rate**<br>
 0.96 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
-**Drinking water source**<br>
-_improved: total_: total: 95.1% of population<br>
-_unimproved: total_: total: 4.9% of population (2017)<br>
-
-**Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 98.8% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 1.2% of population (2017)<br>
-
 ## Environment
 
 **Environmental issues**<br>
@@ -256,8 +241,8 @@ none (part of the Kingdom of the Netherlands)<br>
 King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967)<br>
 <strong>note:</strong> observed on the ruling monarch's birthday; celebrated on 26 April if 27 April is a Sunday; local holiday is Sint Maarten's Day, 11 November (1985), and is celebrated on both halves of the island<br>
 
-**Flag description**<br>
-two equal horizontal bands of red (top) and blue, with a white isosceles triangle based on the hoist side; the center of the triangle displays the national coat of arms with an orange-bordered blue shield that prominently displays the white courthouse in Philipsburg, as well as yellow sage (the national flower) in the upper left and the silhouette of a Dutch-French friendship monument in the upper right; over the shield is a yellow rising sun and a brown pelican in flight; a yellow scroll below the shield has the motto SEMPER PROGREDIENS (Always Progressing)<br>
+**Flag**<br>
+<strong>description:</strong> two equal horizontal bands of red (top) and blue, with a white isosceles triangle based on the left side; the national coat of arms is in the center of the triangle, with an orange-bordered blue shield that displays the white courthouse in Philipsburg, as well as yellow sage (the national flower) in the upper left and the silhouette of a Dutch-French friendship monument in the upper right; over the shield is a yellow rising sun and a brown pelican in flight; a yellow scroll below the shield has the motto SEMPER PROGREDIENS (Always Progressing)<br>
 <strong>note:</strong> the flag resembles Philippines' flag, but with the red and blue bands reversed; the three main colors are the same as the Dutch flag<br>
 
 **National symbol(s)**<br>
@@ -267,9 +252,9 @@ two equal horizontal bands of red (top) and blue, with a white isosceles triangl
 red, white, blue<br>
 
 **National anthem(s)**<br>
-_title_: "Het Wilhelmus"<br>
+_title_: &ldquo;Het Wilhelmus&rdquo; (The William)<br>
 _lyrics/music_: Philips VAN MARNIX van Sint Aldegonde (presumed)/unknown<br>
-_history_: official anthem, as part of the Kingdom of the Netherlands<br>
+_history_: adopted 1932<br>
 
 ## Economy
 
@@ -379,7 +364,7 @@ _total subscriptions_: 68,840 (2012 est.)<br>
 _subscriptions per 100 inhabitants_: 196 (2012 est.)<br>
 
 **Internet country code**<br>
-<p>.sx; note - IANA has designated .sx for Sint Maarten, but has not yet assigned it to a sponsoring organization</p><br>
+.sx<br>
 
 **Internet users**<br>
 _percent of population_: 89.5% (2022)<br>
@@ -410,5 +395,5 @@ defense is the responsibility of the Kingdom of the Netherlands<br>
 ## Transnational Issues
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 — Sint Maarten does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Sint Maarten remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/sint-maarten/ <br>
+_tier rating_: Tier 3 — Sint Maarten does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Sint Maarten remained on Tier 3; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/sint-maarten/<br>
 

@@ -156,16 +156,11 @@ _female_: 93.7 years<br>
 **Gross reproduction rate**<br>
 0.76 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 3.7% of GDP (2021)<br>
@@ -175,12 +170,10 @@ _Health expenditure (as % of national budget)_: 12% of national budget (2022 est
 8.61 physicians/1,000 population (2020)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 1.2% of GDP (2022 est.)<br>
@@ -212,13 +205,11 @@ _other_: 100% (2022 est.)<br>
 _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0.5% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 9.21 micrograms per cubic meter (2019 est.)<br>
-_methane emissions_: 0.05 megatons (2020 est.)<br>
+**Particulate matter emissions**<br>
+9.2 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 46,000 tons (2012 est.)<br>
-_municipal solid waste recycled annually_: 2,484 tons (2012 est.)<br>
+_municipal solid waste generated annually_: 46,000 tons (2024 est.)<br>
 _percent of municipal solid waste recycled_: 5.4% (2012 est.)<br>
 
 **Total water withdrawal**<br>
@@ -246,8 +237,8 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: founded as a Greek colony in the 6th century B.C., the name's origin is unclear; it could derive from the Greek term <em>monoikos</em> (solitary), the Ligurian word <em>monegu</em> (rock), or the Basque word <em>muno</em> (mountain)<br>
 
 **Administrative divisions**<br>
-none; there are no first-order administrative divisions as defined by the US government, but there are 4 quarters (<em>quartiers</em>, singular - <em>quartier</em>); Fontvieille, La Condamine, Monaco-Ville, Monte-Carlo<br>
- <strong>note:</strong> Moneghetti, part of La Condamine, is sometimes called the fifth quarter of Monaco<br>
+none; no first-order administrative divisions as defined by the US government, but 4 quarters (<em>quartiers</em>, singular - <em>quartier</em>); Fontvieille, La Condamine, Monaco-Ville, Monte-Carlo<br>
+<strong>note:</strong> Moneghetti, part of La Condamine, is sometimes called the fifth quarter of Monaco<br>
 
 **Legal system**<br>
 civil law system influenced by French legal tradition<br>
@@ -314,8 +305,8 @@ CD, CE, FAO, IAEA, ICAO, ICC (national committees), ICRM, IFRCS, IHO, IMO, IMSO,
 **National holiday**<br>
 National Day (Saint Rainier's Day), 19 November (1857)<br>
 
-**Flag description**<br>
-two equal horizontal bands of red (top) and white; the colors are those of the ruling House of Grimaldi and have been in use since 1339, making the national flag one of the world's oldest<br>
+**Flag**<br>
+<strong>description:</strong> two equal horizontal bands of red (top) and white<br><br><strong>history:</strong> uses the colors of the ruling House of Grimaldi; colors have been in use since 1339, making it one of the world's oldest national flags<br>
 <strong>note:</strong> similar to the flags of Indonesia (longer) and Poland (colors reversed)<br>
 
 **National symbol(s)**<br>
@@ -335,8 +326,10 @@ _history_: music adopted 1867, lyrics adopted 1931; only the Monegasque lyrics a
 high-income European economy; non-EU euro user; considered a tax haven; tourism and banking are largest sectors; negatively impacted by COVID-19; major oceanographic museum; among most expensive real estate; major state-owned enterprises<br>
 
 **Real GDP (purchasing power parity)**<br>
-$7.672 billion (2015 est.)<br>
-<strong>note:</strong> data are in 2015 dollars<br>
+$8.924 billion (2024 est.)<br>
+$8.749 billion (2023 est.)<br>
+$8.329 billion (2022 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
 5% (2023 est.)<br>
@@ -345,12 +338,20 @@ $7.672 billion (2015 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$115,700 (2015 est.)<br>
-$109,200 (2014 est.)<br>
+$270,100 (2024 est.)<br>
+$256,600 (2023 est.)<br>
+$226,100 (2022 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$9.995 billion (2023 est.)<br>
+$10.434 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
+
+**Inflation rate (consumer prices)**<br>
+5.9% (2022 est.)<br>
+2.1% (2021 est.)<br>
+0.5% (2020 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _industry_: 11.5% (2023 est.)<br>
@@ -449,4 +450,7 @@ the Compagnie des Carabiniers du Prince is staffed by French nationals (2024)<br
 by treaty, France is responsible for defending the independence and sovereignty of Monaco<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 17 (2024 est.)<br>
 

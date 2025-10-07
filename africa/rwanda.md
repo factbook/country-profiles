@@ -168,16 +168,13 @@ _female_: 68.6 years<br>
 **Gross reproduction rate**<br>
 1.54 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-64.1% (2019/20)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 92.3% of population<br>
-_improved: rural_: rural: 80.7% of population<br>
-_improved: total_: total: 82.7% of population<br>
-_unimproved: urban_: urban: 7.7% of population<br>
-_unimproved: rural_: rural: 19.3% of population<br>
-_unimproved: total_: total: 17.3% of population (2020 est.)<br>
+_improved: urban_: urban: 88.1% of population (2022 est.)<br>
+_improved: rural_: rural: 60.1% of population (2022 est.)<br>
+_improved: total_: total: 65.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 11.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 39.9% of population (2022 est.)<br>
+_unimproved: total_: total: 34.9% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 7.3% of GDP (2021)<br>
@@ -190,12 +187,12 @@ _Health expenditure (as % of national budget)_: 9.5% of national budget (2022 es
 0.7 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 89.1% of population<br>
-_improved: rural_: rural: 83.2% of population<br>
-_improved: total_: total: 84.2% of population<br>
-_unimproved: urban_: urban: 10.9% of population<br>
-_unimproved: rural_: rural: 16.8% of population<br>
-_unimproved: total_: total: 15.8% of population (2020 est.)<br>
+_improved: urban_: urban: 91.4% of population (2022 est.)<br>
+_improved: rural_: rural: 87% of population (2022 est.)<br>
+_improved: total_: total: 87.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 8.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 13% of population (2022 est.)<br>
+_unimproved: total_: total: 12.2% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 5.8% (2016)<br>
@@ -261,21 +258,26 @@ _other_: 7.5% (2022 est.)<br>
 _urban population_: 17.9% of total population (2023)<br>
 _rate of urbanization_: 3.07% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 35.66 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 1.11 megatons (2016 est.)<br>
-_methane emissions_: 2.92 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 1.645 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 226,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.295 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 124,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+35.7 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 4,384,969 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 4.385 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 11.5% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 230 million cubic meters (2020 est.)<br>
-_industrial_: 10 million cubic meters (2020 est.)<br>
-_agricultural_: 360 million cubic meters (2020 est.)<br>
+_municipal_: 230 million cubic meters (2022 est.)<br>
+_industrial_: 10 million cubic meters (2022 est.)<br>
+_agricultural_: 361 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-13.3 billion cubic meters (2020 est.)<br>
+13.3 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -385,8 +387,8 @@ ACP, AfDB, AU, CEPGL, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA,
 **National holiday**<br>
 Independence Day, 1 July (1962)<br>
 
-**Flag description**<br>
-three horizontal bands of sky blue (top, double-width), yellow, and green, with a golden sun with 24 rays near the fly end of the blue band; blue stands for happiness and peace, yellow for economic development and mineral wealth, and green for hope for prosperity and natural resources; the sun symbolizes unity and enlightenment<br>
+**Flag**<br>
+<strong>description:</strong> three horizontal bands of sky blue (top, double-width), yellow, and green, with a golden sun with 24 rays on the right end of the blue band<br><br><strong>meaning:</strong> blue stands for happiness and peace, yellow for economic development and mineral wealth, and green for hope for prosperity and natural resources; the sun symbolizes unity and enlightenment<br>
 
 **National symbol(s)**<br>
 traditional woven basket with peaked lid<br>
@@ -498,9 +500,12 @@ _highest 10%_: 35.6% (2016 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $2.676 billion (2020 est.)<br>
-_expenditures_: $2.191 billion (2020 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $3.41 billion (2023 est.)<br>
+_expenditures_: $3.996 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+37.3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 13.5% (of GDP) (2023 est.)<br>
@@ -590,12 +595,6 @@ _production_: 63.666 million cubic meters (2023 est.)<br>
 _consumption_: 63.696 million cubic meters (2023 est.)<br>
 _proven reserves_: 56.634 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 1.645 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 226,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 1.295 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 124,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 1.808 million Btu/person (2023 est.)<br>
 
@@ -661,18 +660,19 @@ the principle responsibilities of the Rwanda Defense Force (RDF) are ensuring te
 ## Space
 
 **Space agency/agencies**<br>
-Rwanda Space Agency (L&rsquo;Agence Spatiale Rwandaise; RSA; established 2020 and approved by legislature in 2021) (2024)<br>
+Rwanda Space Agency (L&rsquo;Agence Spatiale Rwandaise; RSA; established 2020 and approved by legislature in 2021) (2025)<br>
 
 **Space program overview**<br>
-has a small program focused on developing and utilizing space technologies, such as satellite imagery for socioeconomic development and security purposes; operates communications and remote sensing (RS) satellites; the RSA is responsible for regulating and coordinating the country’s space activities and encouraging commercial and industrial development; has established ties with the space agencies or industries of several countries, including France, Israel, Japan, the UAE, and the US (2024)<br>
+has a small program focused on developing and utilizing space technologies, such as satellite communications and imagery for connectivity, disaster management, security purposes, and socioeconomic development; seeks to establish itself as an African hub for satellite development; operates communications and remote sensing (RS) satellites; the RSA is responsible for regulating and coordinating the country’s space activities and encouraging commercial and industrial development; has established ties with the space agencies or industries of several countries, including France, Israel, Japan, Poland, the UAE, and the US, as well as those of the African Space Agency (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 79,720 (Democratic Republic of the Congo), 48,533 (Burundi) (2024)<br>
-_stateless persons_: 9,500 (2022)<br>
+_refugees_: 128,561 (2024 est.)<br>
+_IDPs_: 21,948 (2024 est.)<br>
+_stateless persons_: 14,500 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Rwanda was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/rwanda/<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Rwanda remained on Tier 2 Watch List for the second consecutive year; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/rwanda<br>
 

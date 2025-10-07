@@ -160,16 +160,11 @@ _female_: 89.5 years<br>
 **Gross reproduction rate**<br>
 0.57 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.6% of GDP (2021)<br>
@@ -182,12 +177,10 @@ _Health expenditure (as % of national budget)_: 18.1% of national budget (2022 e
 2.6 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 6.1% (2016)<br>
@@ -249,23 +242,26 @@ _other_: 77.9% (2022 est.)<br>
 _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 13.33 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 37.54 megatons (2016 est.)<br>
-_methane emissions_: 4.4 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 238.962 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2.338 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 210.859 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 25.765 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+10 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 7,704,300 tons (2017 est.)<br>
-_municipal solid waste recycled annually_: 4,699,623 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 61% (2015 est.)<br>
+_municipal solid waste generated annually_: 1.87 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 51.7% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 300 million cubic meters (2020 est.)<br>
-_industrial_: 340 million cubic meters (2020 est.)<br>
-_agricultural_: 30 million cubic meters (2020 est.)<br>
+_municipal_: 198.207 million cubic meters (2022)<br>
+_industrial_: 162.624 million cubic meters (2022)<br>
+_agricultural_: 0 cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-600 million cubic meters (2020 est.)<br>
+600 million cubic meters (2022)<br>
 
 ## Government
 
@@ -346,7 +342,7 @@ _consulate(s) general_: San Francisco<br>
 _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Casey K. MACE (since January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Graham MAYER (since August 2025)<br>
 _embassy_: 27 Napier Road, Singapore 258508<br>
 _mailing address_: 4280 Singapore Place, Washington DC&nbsp; 20521-4280<br>
 _telephone_: [65] 6476-9100<br>
@@ -362,8 +358,8 @@ ADB, AOSIS, APEC, Arctic Council (observer), ARF, ASEAN, BIS, C, CP, EAS, FAO, F
 **National holiday**<br>
 National Day, 9 August (1965)<br>
 
-**Flag description**<br>
-two equal horizontal bands of red (top) and white; near the hoist side of the red band is a vertical white crescent partially enclosing a circle of five white five-pointed stars; red stands for brotherhood and equality, and white for purity and virtue; the waxing crescent moon symbolizes a young nation on the ascendancy; the stars represent the national ideals of democracy, peace, progress, justice, and equality<br>
+**Flag**<br>
+<strong>description: </strong>two equal horizontal bands of red (top) and white; a vertical white crescent is on the left side of the red band, with a circle of five five-pointed white stars to the right of the crescent<br><br><strong>meaning:</strong> red stands for brotherhood and equality, and white for purity and virtue; the waxing crescent moon symbolizes a young nation on the ascendancy; the stars represent the national ideals of democracy, peace, progress, justice, and equality<br>
 
 **National symbol(s)**<br>
 lion, merlion (mythical half-lion, half-fish creature), orchid<br>
@@ -373,8 +369,8 @@ red, white<br>
 
 **National anthem(s)**<br>
 _title_: "Majulah Singapura" (Onward, Singapore)<br>
-_lyrics/music_: ZUBIR Said<br>
-_history_: adopted 1965; first performed in 1958 at the Victoria Theatre; the anthem is sung only in Malay<br>
+_lyrics/music_: Zubir SAID<br>
+_history_: adopted 1959; the anthem is sung only in Malay; first four lines of the melody are used as a presidential salute<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -455,6 +451,9 @@ _male_: 5.6% (2024 est.)<br>
 _female_: 10.8% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
+**Gini Index coefficient - distribution of family income**<br>
+45.8 (2016)<br>
+
 **Average household expenditures**<br>
 _on food_: 7% of household expenditures (2023 est.)<br>
 _on alcohol and tobacco_: 1.7% of household expenditures (2023 est.)<br>
@@ -466,9 +465,9 @@ _on alcohol and tobacco_: 1.7% of household expenditures (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $80.855 billion (2022 est.)<br>
-_expenditures_: $75.448 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $80.836 billion (2022 est.)<br>
+_expenditures_: $73.144 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 175.6% of GDP (2023 est.)<br>
@@ -553,12 +552,6 @@ _refined petroleum consumption_: 1.514 million bbl/day (2023 est.)<br>
 _consumption_: 13.134 billion cubic meters (2023 est.)<br>
 _exports_: 399.452 million cubic meters (2023 est.)<br>
 _imports_: 13.973 billion cubic meters (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 238.962 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 2.338 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 210.859 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 25.765 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 643.259 million Btu/person (2023 est.)<br>
@@ -645,5 +638,5 @@ the SAF’s primary responsibility is external defense, particularly maritime se
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 1,109 (2022)<br>
+_stateless persons_: 1,109 (2024 est.)<br>
 

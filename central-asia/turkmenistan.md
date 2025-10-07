@@ -168,16 +168,13 @@ _female_: 75.5 years<br>
 **Gross reproduction rate**<br>
 0.99 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-49.7% (2019)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.6% of GDP (2021)<br>
@@ -190,12 +187,12 @@ _Health expenditure (as % of national budget)_: 8.5% of national budget (2022 es
 4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.8% of population<br>
-_improved: rural_: rural: 99.9% of population<br>
-_improved: total_: total: 99.8% of population<br>
-_unimproved: urban_: urban: 0.2% of population<br>
-_unimproved: rural_: rural: 0.1% of population<br>
-_unimproved: total_: total: 0.2% of population (2020 est.)<br>
+_improved: urban_: urban: 99.8% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 99.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 18.6% (2016)<br>
@@ -258,21 +255,32 @@ _other_: 7% (2022 est.)<br>
 _urban population_: 54% of total population (2023)<br>
 _rate of urbanization_: 2.23% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 26.41 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 70.63 megatons (2016 est.)<br>
-_methane emissions_: 52.09 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 106.215 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 100 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 18.062 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 88.153 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+28.1 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 5,451.4 kt (2022-2024 est.)<br>
+_agriculture_: 294.9 kt (2019-2021 est.)<br>
+_waste_: 44.1 kt (2019-2021 est.)<br>
+_other_: 1.1 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 500,000 tons (2013 est.)<br>
+_municipal solid waste generated annually_: 500,000 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 15.3% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 450 million cubic meters (2020 est.)<br>
-_industrial_: 810 million cubic meters (2020 est.)<br>
-_agricultural_: 16.12 billion cubic meters (2020 est.)<br>
+_municipal_: 453.5 million cubic meters (2022 est.)<br>
+_industrial_: 806.765 million cubic meters (2022 est.)<br>
+_agricultural_: 16.12 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-24.77 billion cubic meters (2020 est.)<br>
+24.765 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -371,8 +379,8 @@ ADB, CIS (associate member, has not ratified the 1993 CIS charter although it pa
 **National holiday**<br>
 Independence Day, 27 October (1991)<br>
 
-**Flag description**<br>
-green field with a vertical red stripe near the hoist side, containing five tribal <em>guls </em>(designs used in producing carpets) stacked above two crossed olive branches; five white five-pointed stars and a white crescent moon appear in the upper corner of the field; the green color and crescent moon stand for Islam, the five stars for the country's regions, and the guls for national identity<br>
+**Flag**<br>
+<strong>description:</strong> green field with a vertical red stripe near the left side; the stripe has five tribal <em>guls </em>(designs used in producing carpets) stacked above two crossed olive branches; five five-pointed white stars and a white crescent moon appear in the upper left corner of the main field<br><br><strong>meaning:</strong> the green color and crescent moon stand for Islam, the five stars for the country's regions, and the guls for national identity<br>
 
 **National symbol(s)**<br>
 Akhal-Teke horse<br>
@@ -416,6 +424,12 @@ $17,100 (2022 est.)<br>
 $64.24 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
+**Inflation rate (consumer prices)**<br>
+11.5% (2022 est.)<br>
+19.5% (2021 est.)<br>
+6.1% (2020 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
+
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 11.3% (2023 est.)<br>
 _industry_: 39.3% (2023 est.)<br>
@@ -458,6 +472,9 @@ _on alcohol and tobacco_: 2.2% of household expenditures (2023 est.)<br>
 **Budget**<br>
 _revenues_: $5.954 billion (2019 est.)<br>
 _expenditures_: $6.134 billion (2019 est.)<br>
+
+**Public debt**<br>
+24.1% of GDP (2016 est.)<br>
 
 **Exports**<br>
 $13.111 billion (2023 est.)<br>
@@ -526,12 +543,6 @@ _production_: 84.277 billion cubic meters (2023 est.)<br>
 _consumption_: 44.936 billion cubic meters (2023 est.)<br>
 _exports_: 41.334 billion cubic meters (2023 est.)<br>
 _proven reserves_: 11.327 trillion cubic meters (2021 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 106.215 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 100 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 18.062 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 88.153 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 261.142 million Btu/person (2023 est.)<br>
@@ -605,17 +616,17 @@ the military is responsible for external defense and works closely with the Bord
 ## Space
 
 **Space agency/agencies**<br>
-Turkmenistan National Space Agency (established 2011; in 2019, was transferred to the Space Directorate of Turkmenaragatnashik Agency) (2024)<br>
+Turkmenistan National Space Agency (established 2011; transferred to the Space Department of the Ministry of Communications in 2019) (2025)<br>
 
 **Space program overview**<br>
-has a small space program focused on acquiring satellites and developing the infrastructure to build and operate satellites; particularly interested in remote sensing satellites for such purposes as monitoring its agricultural and transportation sectors, the oil and natural gas industry, and the ecology of the Caspian Sea; has cooperated with the space agencies and/or space industries of France, Italy, Russia, South Korea, and the US (2024)<br>
+has a small space program focused on acquiring satellites and developing the infrastructure to build and operate satellites; particularly interested in communications and remote sensing satellites; has cooperated with the space agencies and/or space industries of France, Italy, Russia, South Korea, and the US (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 4,463 (2022)<br>
+_refugees_: 3,409 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 — Turkmenistan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Turkmenistan remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/turkmenistan/<br>
+_tier rating_: Tier 2 Watch List — Turkmenistan does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Turkmenistan was upgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/turkmenistan/<br>
 

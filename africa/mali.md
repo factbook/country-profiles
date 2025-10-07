@@ -172,16 +172,13 @@ _female_: 65.6 years<br>
 **Gross reproduction rate**<br>
 2.64 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-17.2% (2018)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: 75.9% of population<br>
-_improved: total_: total: 86.4% of population<br>
-_unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: 24.1% of population<br>
-_unimproved: total_: total: 13.6% of population (2020 est.)<br>
+_improved: urban_: urban: 94.7% of population (2022 est.)<br>
+_improved: rural_: rural: 74.4% of population (2022 est.)<br>
+_improved: total_: total: 83.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 5.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 25.6% of population (2022 est.)<br>
+_unimproved: total_: total: 16.4% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.5% of GDP (2021)<br>
@@ -194,12 +191,12 @@ _Health expenditure (as % of national budget)_: 5.7% of national budget (2022 es
 0.2 beds/1,000 population (2018 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 85.7% of population<br>
-_improved: rural_: rural: 44.7% of population<br>
-_improved: total_: total: 62.7% of population<br>
-_unimproved: urban_: urban: 14.3% of population<br>
-_unimproved: rural_: rural: 55.3% of population<br>
-_unimproved: total_: total: 37.3% of population (2020 est.)<br>
+_improved: urban_: urban: 88.6% of population (2022 est.)<br>
+_improved: rural_: rural: 49.3% of population (2022 est.)<br>
+_improved: total_: total: 67.2% of population (2022 est.)<br>
+_unimproved: urban_: urban: 11.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 50.7% of population (2022 est.)<br>
+_unimproved: total_: total: 32.8% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 8.6% (2016)<br>
@@ -265,21 +262,25 @@ _other_: 53.6% (2022 est.)<br>
 _urban population_: 46.2% of total population (2023)<br>
 _rate of urbanization_: 4.57% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 38.55 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 3.18 megatons (2016 est.)<br>
-_methane emissions_: 19.16 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 6.858 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 83 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 6.858 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+48.5 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1,937,354 tons (2012 est.)<br>
+_municipal solid waste generated annually_: 1.937 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 10.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 110 million cubic meters (2020 est.)<br>
-_industrial_: 4 million cubic meters (2020 est.)<br>
-_agricultural_: 5.08 billion cubic meters (2020 est.)<br>
+_municipal_: 107 million cubic meters (2022 est.)<br>
+_industrial_: 4 million cubic meters (2022 est.)<br>
+_agricultural_: 5.075 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-120 billion cubic meters (2020 est.)<br>
+120 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -375,9 +376,9 @@ ACP, AfDB, AU (suspended), CD, EITI (compliant country), FAO, FZ, G-77, IAEA, IB
 **National holiday**<br>
 Independence Day, 22 September (1960)<br>
 
-**Flag description**<br>
-three equal vertical bands of green (hoist side), yellow, and red<br>
-<strong>note:</strong> uses the popular pan-African colors of Ethiopia; the colors from left to right are the same as those of neighboring Senegal (which has an additional green central star) and the reverse of those on the flag of neighboring Guinea<br>
+**Flag**<br>
+<strong>description:</strong> three equal vertical bands of green (left side), yellow, and red<br><br><strong>history:</strong> uses the colors of the Pan-African movement<br>
+<strong>note:</strong> the colors from left to right are the same as those of neighboring Senegal (which has an additional green central star) and the reverse of the flag of neighboring Guinea<br>
 
 **National symbol(s)**<br>
 Great Mosque of Djenne<br>
@@ -388,7 +389,7 @@ green, yellow, red<br>
 **National anthem(s)**<br>
 _title_: "Le Mali" (Mali)<br>
 _lyrics/music_: Seydou Badian KOUYATE/Banzoumana SISSOKO<br>
-_history_: adopted 1962; also known as "Pour l'Afrique et pour toi, Mali" (For Africa and for You, Mali) and "A ton appel, Mali" (At Your Call, Mali)<br>
+_history_: adopted 1962<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (3 cultural, 1 mixed)<br>
@@ -490,8 +491,11 @@ _highest 10%_: 28.3% (2021 est.)<br>
 
 **Budget**<br>
 _revenues_: $2.841 billion (2020 est.)<br>
-_expenditures_: $2.533 billion (2020 est.)<br>
+_expenditures_: $3.563 billion (2020 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+36% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 12% (of GDP) (2020 est.)<br>
@@ -568,11 +572,6 @@ _imports_: 36 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 46,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 6.858 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 83 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 6.858 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 4.307 million Btu/person (2023 est.)<br>
@@ -652,9 +651,6 @@ Ansar al-Dine; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 29,138 (Burkina Faso) (refugees and asylum seekers), 20,617 (Niger) (refugees and asylum seekers), 14,956 (Mauritania) (refugees and asylum seekers) (2023)<br>
-_IDPs_: 375,539 (Tuareg rebellion since 2012) (2023)<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch list — Mali did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/mali/<br>
+_refugees_: 135,827 (2024 est.)<br>
+_IDPs_: 378,363 (2024 est.)<br>
 

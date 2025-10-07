@@ -158,27 +158,24 @@ _female_: 77 years<br>
 **Gross reproduction rate**<br>
 0.88 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-70.2% (2017)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 97.8% of population<br>
-_improved: rural_: rural: 89.1% of population<br>
-_improved: total_: total: 94.5% of population<br>
-_unimproved: urban_: urban: 2.2% of population<br>
-_unimproved: rural_: rural: 10.9% of population<br>
-_unimproved: total_: total: 5.5% of population (2020 est.)<br>
+_improved: urban_: urban: 96.9% of population (2022 est.)<br>
+_improved: rural_: rural: 88.8% of population (2022 est.)<br>
+_improved: total_: total: 93.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 3.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 11.2% of population (2022 est.)<br>
+_unimproved: total_: total: 6.1% of population (2022 est.)<br>
 
 **Physician density**<br>
 3.63 physicians/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 92.7% of population<br>
-_improved: rural_: rural: 73.1% of population<br>
-_improved: total_: total: 85.3% of population<br>
-_unimproved: urban_: urban: 7.3% of population<br>
-_unimproved: rural_: rural: 26.9% of population<br>
-_unimproved: total_: total: 14.7% of population (2020 est.)<br>
+_improved: urban_: urban: 92.7% of population (2022 est.)<br>
+_improved: rural_: rural: 73.1% of population (2022 est.)<br>
+_improved: total_: total: 85.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 7.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 26.9% of population (2022 est.)<br>
+_unimproved: total_: total: 14.6% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 6.8% (2016)<br>
@@ -238,18 +235,21 @@ _other_: 28.7% (2022 est.)<br>
 _urban population_: 63.2% of total population (2023)<br>
 _rate of urbanization_: 0.85% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 41.46 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 28.28 megatons (2016 est.)<br>
-_methane emissions_: 18.68 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 55.744 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 52.985 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.759 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+41.8 micrograms per cubic meter (2019 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 900 million cubic meters (2020 est.)<br>
-_industrial_: 1.15 billion cubic meters (2020 est.)<br>
-_agricultural_: 6.61 billion cubic meters (2020 est.)<br>
+_municipal_: 902.8 million cubic meters (2022 est.)<br>
+_industrial_: 1.145 billion cubic meters (2022 est.)<br>
+_agricultural_: 6.61 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-77.15 billion cubic meters (2020 est.)<br>
+77.15 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 1 (2025)<br>
@@ -343,8 +343,8 @@ ARF, FAO, G-77, ICAO, ICRM, IFAD, IFRCS, IHO, IMO, IMSO, IOC, IPU, ISO, ITSO, IT
 **National holiday**<br>
 Founding of the Democratic People's Republic of Korea (DPRK), 9 September (1948)<br>
 
-**Flag description**<br>
-three horizontal bands of blue (top), red (triple-width), and blue; the red band is edged in white; on the hoist side of the red band is a white disk with a red five-pointed star; the red band stands for revolutionary traditions, the white for purity, strength, and dignity; blue for sovereignty, peace, and friendship; the red star represents socialism<br>
+**Flag**<br>
+<strong>description:</strong> three horizontal bands of blue (top), red (triple-width), and blue; the red band is edged in white; on the left side of the red band is a white disk with a red five-pointed star<br><br><strong>meaning:</strong> the red band stands for revolutionary traditions, the white for purity, strength, and dignity; blue for sovereignty, peace, and friendship; the red star represents socialism<br>
 
 **National symbol(s)**<br>
 red star, chollima (winged horse)<br>
@@ -367,11 +367,20 @@ _selected World Heritage Site locales_: Koguryo Tombs Complex; Historic Monument
 one of the last centrally planned economies; hard hit by COVID-19, crop failures, international sanctions, and isolationist policies; declining growth and trade, and heavily reliant on China; poor exchange rate stability; economic data integrity issues<br>
 
 **Real GDP (purchasing power parity)**<br>
-$40 billion (2015 est.)<br>
-<strong>note: </strong>data are in 2015 dollars<br><br>North Korea does not publish reliable National Income Accounts data; the data shown are derived from purchasing power parity (PPP) GDP estimates that were made by Angus MADDISON in a study conducted for the OECD; his figure for 1999 was extrapolated to 2015 using estimated real growth rates for North Korea's GDP and an inflation factor based on the US GDP deflator; the results were rounded to the nearest $10 billion.<br>
+$15.416 billion (2023 est.)<br>
+$14.959 billion (2022 est.)<br>
+$14.982 billion (2021 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
+
+**Real GDP per capita**<br>
+$600 (2023 est.)<br>
+$600 (2022 est.)<br>
+$600 (2021 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$28 billion (2013 est.)<br>
+$16.447 billion (2023 est.)<br>
+<strong>note:</strong> data in current dollars at official exchange rate<br>
 
 **Agricultural products**<br>
 maize, vegetables, rice, apples, cabbages, fruits, sweet potatoes, potatoes, beans, soybeans (2023)<br>
@@ -441,11 +450,6 @@ _proven reserves_: 10.6 billion metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 18,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 55.744 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 52.985 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 2.759 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 23.83 million Btu/person (2023 est.)<br>
 
@@ -504,7 +508,7 @@ Korean People's Army (KPA): KPA Ground Forces, KPA Navy, KPA Air Force and Air D
 defense spending is a regime priority; between 2010 and 2020, military expenditures accounted for an estimated 20-30% of North Korea's GDP annually; spending estimates ranged from $7 billion to $11 billion annually; in 2024, North Korea announced that it would spend nearly 16% of state expenditures on defense; North Korea in the 2010s and 2020s has increasingly relied on illicit activities &mdash; including cybercrime &mdash; to generate revenue for its weapons of mass destruction and ballistic missile programs to evade US and UN sanctions<br>
 
 **Military and security service personnel strengths**<br>
-estimates vary; approximately 1-1.3 million active-duty Korean People's Army (2024)<br>
+estimates vary; as many as 1.3 million active-duty Korean People's Army (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the KPA is equipped with older weapon systems originally acquired from the former Soviet Union, Russia, and China, and some domestically produced equipment; North Korea produces a diverse array of military hardware, including small arms, munitions, light armored vehicles, tanks, naval vessels and submarines, and some advanced weapons systems, such as cruise and ballistic missiles; most are copies or upgrades of older foreign supplied equipment (2024)<br>
@@ -523,20 +527,18 @@ the Korean People's Army (KPA) is one of the World’s largest military forces; 
 ## Space
 
 **Space agency/agencies**<br>
-National Aerospace Technology Administration (NATA; established 2013); predecessor organization, Korean Committee of Space Technology (KCST; established 1980s); State Space Development Bureau; Academy of Defense Science; Ministry of People&rsquo;s Armed Forces (2024)<br>
+National Aerospace Technology Administration (NATA; established 2013; re-named in 2023 from the National Aerospace Development Administration or NADA); State Space Development Bureau; Academy of National Defense Science; Ministry of People’s Armed Forces (2025)<br>
+<strong>note:</strong> the predecessor of NATA/NADA was the Korean Committee of Space Technology (KCST), which was established in the 1980s<br>
 
 **Space launch site(s)**<br>
-Sohae Satellite Launching Station (aka Tongch'ang-dong Space Launch Center; North Pyongan province); Tonghae Satellite Launching Ground (North Hamgyong province) (2024)<br>
+Sohae Satellite Launching Station (aka Tongch'ang-dong Space Launch Center; North Pyongan province); Tonghae Satellite Launching Ground (North Hamgyong province) (2025)<br>
 
 **Space program overview**<br>
-North Korea’s leader has emphasized the development of space capabilities, particularly space launch vehicles (SLVs) and remote sensing (RS) satellites; manufactures small satellites; manufactures and launches rockets/SLVs; note – the SLV program is closely related to North Korea’s development of intercontinental ballistic missiles (2024)<br>
+North Korea’s leader has emphasized the development of space capabilities, particularly space launch vehicles (SLVs) and remote sensing satellites; manufactures satellites and rockets/SLVs; independently launches rockets/SLVs; SLV program is viewed as closely related to the country's development of intercontinental ballistic missiles; passed a national space law in 2013, which was revised in 2022 to allow for the use of space for national defense purposes; has cooperated with Iran on space related technologies, and in June 2024, North Korea and Russia signed a mutual defense treaty which stated the two countries would “develop exchanges and joint research in science and technology including space” (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 
-**Refugees and internally displaced persons**<br>
-_IDPs_: undetermined (2021)<br>
-
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 — the government of North Korea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, North Korea remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/north-korea/<br>
+_tier rating_: Tier 3 — the government of North Korea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, North Korea remained on Tier 3; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/north-korea/<br>
 

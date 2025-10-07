@@ -171,16 +171,13 @@ _female_: 72.2 years<br>
 **Gross reproduction rate**<br>
 1.56 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-64.6% (2020)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 91.3% of population<br>
-_improved: rural_: rural: 63.3% of population<br>
-_improved: total_: total: 71.2% of population<br>
-_unimproved: urban_: urban: 8.7% of population<br>
-_unimproved: rural_: rural: 36.7% of population<br>
-_unimproved: total_: total: 28.8% of population (2020 est.)<br>
+_improved: urban_: urban: 86.4% of population (2022 est.)<br>
+_improved: rural_: rural: 53.3% of population (2022 est.)<br>
+_improved: total_: total: 62.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 13.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 46.7% of population (2022 est.)<br>
+_unimproved: total_: total: 37.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.5% of GDP (2021)<br>
@@ -193,12 +190,12 @@ _Health expenditure (as % of national budget)_: 8.7% of national budget (2022 es
 1.3 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 84% of population<br>
-_improved: rural_: rural: 48.1% of population<br>
-_improved: total_: total: 58.2% of population<br>
-_unimproved: urban_: urban: 16% of population<br>
-_unimproved: rural_: rural: 51.9% of population<br>
-_unimproved: total_: total: 41.8% of population (2020 est.)<br>
+_improved: urban_: urban: 84.7% of population (2022 est.)<br>
+_improved: rural_: rural: 51.1% of population (2022 est.)<br>
+_improved: total_: total: 60.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 15.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 48.9% of population (2022 est.)<br>
+_unimproved: total_: total: 39.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 7.1% (2016)<br>
@@ -254,23 +251,31 @@ _other_: 43.9% (2022 est.)<br>
 _urban population_: 29.5% of total population (2023)<br>
 _rate of urbanization_: 4.09% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 12.52 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 17.91 megatons (2016 est.)<br>
-_methane emissions_: 37.65 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 19.023 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 3.316 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 15.707 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+12.7 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 334.4 kt (2022-2024 est.)<br>
+_agriculture_: 1,241 kt (2019-2021 est.)<br>
+_waste_: 127.1 kt (2019-2021 est.)<br>
+_other_: 32.8 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 5,595,099 tons (2010 est.)<br>
-_municipal solid waste recycled annually_: 447,608 tons (2009 est.)<br>
-_percent of municipal solid waste recycled_: 8% (2009 est.)<br>
+_municipal solid waste generated annually_: 5.595 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 19.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 500 million cubic meters (2020 est.)<br>
-_industrial_: 300 million cubic meters (2020 est.)<br>
-_agricultural_: 3.23 billion cubic meters (2020 est.)<br>
+_municipal_: 495 million cubic meters (2022 est.)<br>
+_industrial_: 303 million cubic meters (2022 est.)<br>
+_agricultural_: 3.234 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-30.7 billion cubic meters (2020 est.)<br>
+30.7 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -366,7 +371,7 @@ _email address and website_: <br>information@kenyaembassydc.org<br><br>https://k
 _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Marc DILLARD (since November 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Susan M. BURNS (since 25 August 2025)<br>
 _embassy_: P.O. Box 606 Village Market, 00621 Nairobi<br>
 _mailing address_: 8900 Nairobi Place, Washington, DC&nbsp; 20521-8900<br>
 _telephone_: [254] (20) 363-6000<br>
@@ -383,8 +388,8 @@ ACP, AfDB, ATMIS, AU, C, CD, COMESA, EAC, EADB, FAO, G-15, G-77, IAEA, IBRD, ICA
 Jamhuri Day (Independence Day), 12 December (1963)<br>
 <strong>note:</strong> Madaraka Day, 1 June (1963), marks the day Kenya attained internal self-rule<br>
 
-**Flag description**<br>
-three equal horizontal bands of black (top), red, and green; the red band is edged in white; a large Maasai warrior's shield covering crossed spears is at the center; black stands for the majority population, red for the blood shed in the struggle for freedom, green for natural wealth, and white for peace; the shield and crossed spears symbolize the defense of freedom<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of black (top), red, and green; the red band is edged in white; a large Maasai warrior's shield covering crossed spears is at the center<br><br><strong>meaning:</strong> black stands for the majority population, red for the blood shed in the struggle for freedom, green for natural wealth, and white for peace; the shield and crossed spears symbolize the defense of freedom<br>
 
 **National symbol(s)**<br>
 lion<br>
@@ -504,8 +509,11 @@ _highest 10%_: 31.8% (2021 est.)<br>
 
 **Budget**<br>
 _revenues_: $20.202 billion (2023 est.)<br>
-_expenditures_: $29.933 billion (2023 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_expenditures_: $30.924 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+53.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 14% (of GDP) (2023 est.)<br>
@@ -593,11 +601,6 @@ _imports_: 1.453 million metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 113,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 19.023 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 3.316 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 15.707 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 5.486 million Btu/person (2023 est.)<br>
 
@@ -681,13 +684,14 @@ the Kenya Defense Forces (KDF) are responsible for protecting the country's sove
 ## Space
 
 **Space agency/agencies**<br>
-Kenya Space Agency (KSA; established, 2017) (2024)<br>
+Kenya Space Agency (KSA; established 2017) (2025)<br>
+<strong>note: </strong>KSA's predecessor, the National Space Secretariat, was established in 2009<br>
 
 **Space launch site(s)**<br>
-Luigi Broglio Space Center (aka Malindi Space Center, Malindi Station, San Marco Satellite Launching and Tracking Station; Kilifi County; over 20 sounding rockets and nine satellites launched from the site, 1967-1989); in 2020, Kenya concluded a new deal with Italy to conduct rocket launches from the site again in the future (2024)<br>
+Luigi Broglio Space Center (aka Malindi Space Center, Malindi Station, San Marco Satellite Launching and Tracking Station; Kilifi County; over 20 sounding rockets and nine satellites launched from the site, 1967-1989); in 2020, Kenya concluded a new deal with Italy to conduct rocket launches from the site again in the future (2025)<br>
 
 **Space program overview**<br>
-has a national space strategy focused on acquiring and applying space technologies and applications for agriculture, communications, disaster and resource management, security, urban planning, and weather monitoring; jointly develops and builds nanosatellites with foreign partners; operates satellites; researching and developing satellite payloads and imagery data analysis capabilities; has cooperated on space issues with China, Japan, India, Italy, and the US, as well as a variety African partners, including Egypt and South Africa; developing a satellite imagery/geospatial analysis and data sharing portal that contains 17 years of satellite imagery for other African countries, including Ghana, Senegal, Sierra Leone, and Tanzania; cooperating with Egypt, Ethiopia, Ghana, Nigeria, Sudan, and Uganda to establish a joint remote sensing (RS) satellite to monitor climate changes on the African continent (African Development Satellite program) (2024)<br>
+has a national space strategy focused on acquiring and applying space technologies and applications for agriculture, communications, disaster and resource management, security, urban planning, and weather monitoring; jointly develops and builds nanosatellites with foreign partners; operates satellites; researching and developing satellite payloads and imagery data analysis capabilities; has cooperated on space issues with China, Japan, India, Italy, and the US, as well as a variety African partners; member of the African Space Agency (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -699,7 +703,7 @@ al-Shabaab<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,847 (Ethiopia), 5,756 (Sudan) (2023); 298,117 (Somalia), 176,776 (South Sudan), 59,384 (Democratic Republic of the Congo), 8,701 (Burundi) (2024)<br>
-_IDPs_: 30,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2022)<br>
-_stateless persons_: 16,779 (2022); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
+_refugees_: 823,904 (2024 est.)<br>
+_IDPs_: 284,886 (2024 est.)<br>
+_stateless persons_: 9,800 (2024 est.)<br>
 

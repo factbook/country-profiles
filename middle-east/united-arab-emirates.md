@@ -161,12 +161,12 @@ _female_: 81.4 years<br>
 0.78 (2024 est.)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.3% of GDP (2021)<br>
@@ -179,12 +179,12 @@ _Health expenditure (as % of national budget)_: 12.1% of national budget (2022 e
 2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 99.8% of population (2022 est.)<br>
+_improved: rural_: rural: 99.9% of population (2022 est.)<br>
+_improved: total_: total: 99.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.1% of population (2022 est.)<br>
+_unimproved: total_: total: 0.2% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 31.7% (2016)<br>
@@ -242,23 +242,32 @@ _other_: 90% (2022 est.)<br>
 _urban population_: 87.8% of total population (2023)<br>
 _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 41.75 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 206.32 megatons (2016 est.)<br>
-_methane emissions_: 56.55 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 271.703 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 12.788 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 126.038 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 132.876 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+38.9 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 1,573.7 kt (2022-2024 est.)<br>
+_agriculture_: 47.4 kt (2019-2021 est.)<br>
+_waste_: 448.4 kt (2019-2021 est.)<br>
+_other_: 2.5 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 5,413,453 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 1,082,691 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 20% (2015 est.)<br>
+_municipal solid waste generated annually_: 5.618 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 24.5% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 2.63 billion cubic meters (2020 est.)<br>
-_industrial_: 69 million cubic meters (2020 est.)<br>
-_agricultural_: 2.32 billion cubic meters (2020 est.)<br>
+_municipal_: 2.297 billion cubic meters (2022)<br>
+_industrial_: 55 million cubic meters (2022)<br>
+_agricultural_: 2.466 billion cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-150 million cubic meters (2020 est.)<br>
+150 million cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -342,7 +351,7 @@ _email address and website_: <br>info@uaeembassy-usa.org<br><br>https://www.uae-
 _consulate(s) general_: Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Martina A. STRONG (since 4 October 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Eric GAUDIOSI (since August 2025)<br>
 _embassy_: Embassies District, Plot 38, Sector W59-02, Street No. 4,&nbsp;Abu Dhabi<br>
 _mailing address_: 6010 Abu Dhabi Place, Washington DC 20521-6010<br>
 _telephone_: [971] (2) 414-2200<br>
@@ -359,8 +368,8 @@ ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, BRICS, CAEU, CICA, FAO, G-77,
 **National holiday**<br>
 Independence Day (National Day), 2 December (1971)<br>
 
-**Flag description**<br>
-three equal horizontal bands of green (top), white, and black, with a wider vertical red band on the hoist side; the flag incorporates all four pan-Arab colors, which in this case represent fertility (green), neutrality (white), oil (black), and unity (red); red is a traditional color that was part of all the emirates' flags before their unification<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of green (top), white, and black, with a wider vertical red band on the left side<br><br><strong>meaning:</strong> the flag incorporates all four pan-Arab colors, which in this case represent fertility (green), neutrality (white), oil (black), and unity (red); red is a traditional color that was part of all the emirates' flags before their unification<br>
 
 **National symbol(s)**<br>
 golden falcon<br>
@@ -371,7 +380,7 @@ green, white, black, red<br>
 **National anthem(s)**<br>
 _title_: "Nashid al-watani al-imarati" (National Anthem of the UAE)<br>
 _lyrics/music_: AREF Al Sheikh Abdullah Al Hassan/Mohamad Abdel WAHAB<br>
-_history_: music adopted 1971, lyrics adopted 1996; Mohamad Abdel WAHAB also composed the music for Tunisia's anthem<br>
+_history_: music adopted 1971, lyrics adopted 1986; Mohamad Abdel WAHAB also composed the music for Tunisia's and Libya's anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -466,9 +475,9 @@ _highest 10%_: 20.5% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Budget**<br>
-_revenues_: $20.165 billion (2022 est.)<br>
-_expenditures_: $19.483 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $23.248 billion (2023 est.)<br>
+_expenditures_: $19.349 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 19.7% of GDP (2017 est.)<br>
@@ -559,12 +568,6 @@ _exports_: 6.863 billion cubic meters (2023 est.)<br>
 _imports_: 18.938 billion cubic meters (2023 est.)<br>
 _proven reserves_: 6.091 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 271.703 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 12.788 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 126.038 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 132.876 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 450.432 million Btu/person (2023 est.)<br>
 
@@ -647,16 +650,16 @@ the UAE Armed Forces (UAEAF) are responsible for defending the state, its resour
 ## Space
 
 **Space agency/agencies**<br>
-UAE Space Agency (created in 2014); Mohammed bin Rashid Space Centre (MBRSC; established 2006); in 2015, MBRSC combined with the Emirates Institution for Advanced Science and Technology (EIAST; established 2006) (2024)<br>
+UAE Space Agency (created in 2014); Mohammed bin Rashid Space Centre (MBRSC; established 2006) (2025)<br>
 
 **Space program overview**<br>
-has an ambitious and growing space program and is recognized as one of the leading programs in the region; focused on satellite development, including communications, remote sensing, and navigational; also placing emphasis on building expertise, infrastructure, ground stations, technology, and research and development capabilities to support its space program domestically; rather than building its own launch capabilities, has elected to utilize foreign partners to launch payloads from spaceports abroad; has looked to invest heavily in foreign commercial space companies and  encourage global partnerships; has a foreign-assisted astronaut training program; seeking to establish UAE as an international hub for space education; has signed more than 25 cooperation agreements or memorandums of understanding with major global and regional players in the space sector, including the Arab Space Cooperation Group, China, the European Space Agency (ESA), France, Germany, India, Japan, Russia, South Korea, the UK, and the US; sees the development of its commercial space industry as a key pillar for diversifying and developing the country’s non-oil economy; dozens of space companies and entities operate in the UAE, including international and start-ups, plus several space science research centers (2024)<br>
+has an ambitious and growing national space program; focused on satellite development, including communications, remote sensing, and navigational, as well as capabilities (such as probes) for deep space exploration; also placing emphasis on building expertise, infrastructure, ground stations, technology, and research and development capabilities to support its space program domestically; rather than building its own launch capabilities, has elected to utilize foreign partners to launch payloads from spaceports abroad; has looked to invest in foreign commercial space companies and encourage global partnerships; has a foreign-assisted astronaut training program; seeking to establish UAE as an international hub for space education; founding member of the Arab Space Cooperation Group; has signed more than 25 cooperation agreements or memorandums of understanding with major global and regional players in the space sector, including China, Egypt, the European Space Agency, France, Germany, India, Japan, Russia, South Korea, Turkey, the UK, and the US; sees the development of its commercial space industry as a key pillar for diversifying and developing the country’s non-oil economy; in 2022, pledged to spend more than $800 million in the private space sector to grow the country’s capabilities in space over the following 10 years; dozens of space companies and entities operate in the UAE, including international and start-ups, plus several space science research centers (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 5 (mid-year 2021)<br>
+_refugees_: 7,634 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major precursor-chemical producer (2025)<br>

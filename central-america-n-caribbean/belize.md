@@ -159,16 +159,13 @@ _female_: 76.1 years<br>
 **Gross reproduction rate**<br>
 1 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-51.4% (2015/16)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 99.4% of population<br>
-_improved: total_: total: 99.7% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0.6% of population<br>
-_unimproved: total_: total: 0.3% of population (2020 est.)<br>
+_improved: urban_: urban: 98.9% of population (2022 est.)<br>
+_improved: rural_: rural: 98% of population (2022 est.)<br>
+_improved: total_: total: 98.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 2% of population (2022 est.)<br>
+_unimproved: total_: total: 1.6% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5% of GDP (2021)<br>
@@ -181,12 +178,12 @@ _Health expenditure (as % of national budget)_: 11.5% of national budget (2022 e
 1 beds/1,000 population (2018 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.1% of population<br>
-_improved: rural_: rural: 95.7% of population<br>
-_improved: total_: total: 97.3% of population<br>
-_unimproved: urban_: urban: 0.9% of population<br>
-_unimproved: rural_: rural: 4.3% of population<br>
-_unimproved: total_: total: 2.7% of population (2020 est.)<br>
+_improved: urban_: urban: 99.1% of population (2022 est.)<br>
+_improved: rural_: rural: 95.7% of population (2022 est.)<br>
+_improved: total_: total: 97.3% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 4.3% of population (2022 est.)<br>
+_unimproved: total_: total: 2.7% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 24.1% (2016)<br>
@@ -252,21 +249,25 @@ _other_: 37% (2022 est.)<br>
 _urban population_: 46.6% of total population (2023)<br>
 _rate of urbanization_: 2.3% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 10.51 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.57 megatons (2016 est.)<br>
-_methane emissions_: 0.55 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 662,000 metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 3 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 662,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+10.5 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 101,379 tons (2015 est.)<br>
+_municipal solid waste generated annually_: 101,400 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 10.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 10 million cubic meters (2020 est.)<br>
-_industrial_: 20 million cubic meters (2020 est.)<br>
-_agricultural_: 70 million cubic meters (2020 est.)<br>
+_municipal_: 11.4 million cubic meters (2022 est.)<br>
+_industrial_: 21.2 million cubic meters (2022 est.)<br>
+_agricultural_: 68.4 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-21.73 billion cubic meters (2020 est.)<br>
+21.734 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -355,7 +356,7 @@ _email address and website_: <br>reception.usa@mfa.gov.bz<br><br>https://www.bel
 _consulate(s) general_: Chicago, Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires David HODGE (since January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Katharine BEAMER (since 23 August 2025)<br>
 _embassy_: 4 Floral Park Road, Belmopan, Cayo<br>
 _mailing address_: 3050 Belmopan Place, Washington DC&nbsp; 20521-3050<br>
 _telephone_: (501) 822-4011<br>
@@ -371,8 +372,8 @@ ACP, ACS, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, 
 **National holiday**<br>
 Battle of St. George's Caye Day (National Day), 10 September (1798); Independence Day, 21 September (1981)<br>
 
-**Flag description**<br>
-royal blue with a narrow red stripe along the top and the bottom edges; a large white disk bears the coat of arms at the center, which features a shield flanked by two workers in front of a mahogany tree with the motto SUB UMBRA FLOREO (I Flourish in the Shade) on a scroll at the bottom, all encircled by a green garland of 50 mahogany leaves; the figures, the tools, the mahogany tree, and the garland refer to the logging industry that led to British settlement of Belize; blue and red are the colors of the two main political parties<br>
+**Flag**<br>
+<strong>description:</strong> royal blue with a narrow red stripe along the top and the bottom edges; the coat of arms is on a large white disk at the center and shows a shield flanked by two workers in front of a mahogany tree, with the motto SUB UMBRA FLOREO (I Flourish in the Shade) on a scroll at the bottom; a green garland of 50 mahogany leaves rings the coat of arms<br><br><strong>meaning:</strong> the figures, the mahogany tree, and the garland refer to the logging industry that led the British to settle Belize; blue and red are the colors of the two main political parties<br>
 <strong>note:</strong> Belize has the only national flag that depicts humans; the flags of two British overseas territories, Montserrat and the British Virgin Islands, also depict humans<br>
 
 **National symbol(s)**<br>
@@ -472,7 +473,7 @@ _female_: 25.6% (2024 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2% (2018 est.)<br>
 _highest 10%_: 30% (2018 est.)<br>
-% share of income accruing to lowest and highest 10% of population<br>
+<strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 4.4% of GDP (2024 est.)<br>
@@ -572,11 +573,6 @@ _total petroleum production_: 800 bbl/day (2023 est.)<br>
 _refined petroleum consumption_: 5,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 6.7 million barrels (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 662,000 metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 3 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 662,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 30.752 million Btu/person (2023 est.)<br>
 
@@ -654,6 +650,10 @@ the military has a small inventory consisting mostly of UK- and US-origin equipm
 the Belize Defense Force (BDF) is responsible for external security but also provides some support to civilian authorities; it has limited powers of arrest within land and shoreline areas, while the Coast Guard has arrest powers and jurisdiction within coastal and maritime areas; the BDF traces its history back to the Prince Regent Royal Honduras Militia, a volunteer force established in 1817; the BDF was established in 1978 from the disbanded Police Special Force and the Belize Volunteer Guard to assist the resident British forces with the defense of Belize against Guatemala<br><br>the British Army has maintained a presence in Belize since its independence; the presence consists of a small training support unit that provides jungle training to troops from the UK and international partners (2025)<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 2,287 (2024 est.)<br>
+_IDPs_: 8 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country (2025)<br>

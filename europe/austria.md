@@ -169,17 +169,13 @@ _female_: 85.4 years<br>
 **Gross reproduction rate**<br>
 0.74 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-79% (2019)<br>
-<strong>note:</strong> percent of women aged 16-49<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 12.1% of GDP (2021)<br>
@@ -192,12 +188,12 @@ _Health expenditure (as % of national budget)_: 16.3% of national budget (2022 e
 7.1 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 20.1% (2016)<br>
@@ -250,23 +246,26 @@ _other_: 21.3% (2022 est.)<br>
 _urban population_: 59.5% of total population (2023)<br>
 _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 11.51 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 61.45 megatons (2016 est.)<br>
-_methane emissions_: 6.34 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 56.959 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 10.527 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 33.036 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 13.397 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+10.3 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 4.836 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 1,240,918 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 25.7% (2015 est.)<br>
+_municipal solid waste generated annually_: 5.22 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 36% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 720 million cubic meters (2020 est.)<br>
-_industrial_: 2.7 billion cubic meters (2020 est.)<br>
-_agricultural_: 720 million cubic meters (2020 est.)<br>
+_municipal_: 34.36 million cubic meters (2022 est.)<br>
+_industrial_: 2.21 billion cubic meters (2022 est.)<br>
+_agricultural_: 124 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-77.7 billion cubic meters (2020 est.)<br>
+77.7 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 3<br>
@@ -377,8 +376,8 @@ no official date of independence: 976 (Margravate of Austria established); 17 Se
 **National holiday**<br>
 National Day (commemorates passage of the law on permanent neutrality), 26 October (1955)<br>
 
-**Flag description**<br>
-three equal horizontal bands of red (top), white, and red; the flag design is one of the oldest national banners in the world; according to tradition, after a fierce battle in the Third Crusade in 1191, Duke Leopold V of Austria's white tunic became blood-spattered; upon removal of his sash, a white band was revealed, and the red-white-red color combination was adopted as his banner<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of red (top), white, and red<br><br><strong>history: </strong>one of the oldest national flags in the world; according to tradition, after a fierce battle in the Third Crusade in 1191, Duke Leopold V of Austria's white tunic became blood-spattered; when his sash was removed, a white band was revealed, and the red-white-red color combination was adopted as his banner<br>
 
 **National symbol(s)**<br>
 eagle, edelweiss, Alpine gentian<br>
@@ -495,9 +494,9 @@ _highest 10%_: 24.6% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $212.218 billion (2022 est.)<br>
-_expenditures_: $225.52 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $231.132 billion (2023 est.)<br>
+_expenditures_: $241.516 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 78.3% of GDP (2023 est.)<br>
@@ -591,12 +590,6 @@ _consumption_: 6.971 billion cubic meters (2023 est.)<br>
 _imports_: 7.084 billion cubic meters (2023 est.)<br>
 _proven reserves_: 5.04 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 56.959 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 10.527 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 33.036 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 13.397 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 120.211 million Btu/person (2023 est.)<br>
 
@@ -688,6 +681,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 68,700 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 84,135 (Ukraine) (as of 11 March 2024)<br>
-_stateless persons_: 3,219 (2022)<br>
+_refugees_: 313,711 (2024 est.)<br>
+_stateless persons_: 3,919 (2024 est.)<br>
 

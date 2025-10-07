@@ -170,16 +170,13 @@ _female_: 80.5 years<br>
 **Gross reproduction rate**<br>
 0.79 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6.5% of GDP (2021)<br>
@@ -192,12 +189,12 @@ _Health expenditure (as % of national budget)_: 11.2% of national budget (2022 e
 7.1 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 96.9% of population<br>
-_improved: rural_: rural: 76% of population<br>
-_improved: total_: total: 87.3% of population<br>
-_unimproved: urban_: urban: 3.1% of population<br>
-_unimproved: rural_: rural: 24% of population<br>
-_unimproved: total_: total: 12.7% of population (2020 est.)<br>
+_improved: urban_: urban: 97.5% of population (2022 est.)<br>
+_improved: rural_: rural: 77.9% of population (2022 est.)<br>
+_improved: total_: total: 88.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 2.5% of population (2022 est.)<br>
+_unimproved: rural_: rural: 22.1% of population (2022 est.)<br>
+_unimproved: total_: total: 11.5% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 22.5% (2016)<br>
@@ -259,23 +256,32 @@ _other_: 14.8% (2022 est.)<br>
 _urban population_: 54.7% of total population (2023)<br>
 _rate of urbanization_: -0.15% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 13.3 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 69.26 megatons (2016 est.)<br>
-_methane emissions_: 27.62 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 61.416 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 13.07 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 30.902 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 17.444 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+14.6 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 325.6 kt (2022-2024 est.)<br>
+_agriculture_: 355.4 kt (2019-2021 est.)<br>
+_waste_: 247.7 kt (2019-2021 est.)<br>
+_other_: 11.8 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 4.895 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 277,547 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 5.7% (2015 est.)<br>
+_municipal solid waste generated annually_: 5.42 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 13% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.09 billion cubic meters (2020 est.)<br>
-_industrial_: 3.9 billion cubic meters (2020 est.)<br>
-_agricultural_: 1.43 billion cubic meters (2020 est.)<br>
+_municipal_: 1.256 billion cubic meters (2022)<br>
+_industrial_: 3.94 billion cubic meters (2022)<br>
+_agricultural_: 2.955 billion cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-212 billion cubic meters (2020 est.)<br>
+212.01 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 2<br>
@@ -392,8 +398,8 @@ Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CEI, EAPC, EBRD, ECB, EIB, 
 **National holiday**<br>
 Unification Day (unification of Romania and Transylvania), 1 December (1918)<br>
 
-**Flag description**<br>
-three equal vertical bands of blue (hoist side), yellow, and red; modeled after the flag of France; the colors come from the principalities of Walachia (red and yellow) and Moldavia (red and blue), which united in 1862 to form Romania; the national coat of arms that used to be centered in the yellow band has been removed<br>
+**Flag**<br>
+<strong>description:</strong> three equal vertical bands of blue (left side), yellow, and red<br><br><strong>meaning:</strong> the colors come from the principalities of Walachia (red and yellow) and Moldavia (red and blue), which united in 1862 to form Romania<br><br><strong>history:</strong> modeled on the French flag; the national coat of arms that used to be centered on the yellow band has been removed<br>
 <strong>note:</strong> similar to the flag of Chad, which has a darker blue band; also resembles the flags of Andorra and Moldova<br>
 
 **National symbol(s)**<br>
@@ -510,9 +516,9 @@ _highest 10%_: 22.6% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $93.681 billion (2022 est.)<br>
-_expenditures_: $110.163 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $93.691 billion (2022 est.)<br>
+_expenditures_: $112.799 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 50.9% of GDP (2022 est.)<br>
@@ -614,12 +620,6 @@ _exports_: 2.231 billion cubic meters (2023 est.)<br>
 _imports_: 2.793 billion cubic meters (2023 est.)<br>
 _proven reserves_: 105.48 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 61.416 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 13.07 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 30.902 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 17.444 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 59.377 million Btu/person (2023 est.)<br>
 
@@ -679,11 +679,11 @@ _key ports_: Basarabi, Braila, Cernavoda, Constanta, Danube-Black Sea Canal, Gal
 Romanian Armed Forces (Forțele Armate Române or Armata Română): Romanian Land Forces, Romanian Naval Forces, Romanian Air Force<br><br>Ministry of Internal Affairs: Romanian Police, Romanian Gendarmerie, Romanian Border Police (2025)<br>
 
 **Military expenditures**<br>
-2.3% of GDP (2024 est.)<br>
-1.6% of GDP (2023)<br>
-1.7% of GDP (2022)<br>
-1.9% of GDP (2021)<br>
-2% of GDP (2020)<br>
+2.3% of GDP (2025 est.)<br>
+2.2% of GDP (2024 est.)<br>
+1.6% of GDP (2023 est.)<br>
+1.8% of GDP (2022 est.)<br>
+1.9% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 70,000 active Armed Forces (2025)<br>
@@ -703,10 +703,10 @@ the Romanian Armed Forces are responsible for territorial defense, fulfilling th
 ## Space
 
 **Space agency/agencies**<br>
-Romanian Space Agency (Agentia Spatiala Romania, ROSA; established 1991) (2024)<br>
+Romanian Space Agency (Agentia Spatiala Romania, ROSA; established 1991) (2025)<br>
 
 **Space program overview**<br>
-space program is integrated into the European Space Agency (ESA) and dates back to the 1960s; program is involved in the development and production of a wide range of capabilities and technologies, including satellites, satellite/space launch vehicles (SLVs), remote sensing, human space flight, navigation, telecommunications, and other space-related applications; in addition to the ESA/EU and their member states (particularly Bulgaria, France, Germany, Hungary, Italy), it cooperates with a variety of other space agencies and commercial space entities, including those of Azerbaijan, China, Japan, Russia, and the US; also participates in international programs; has an active space industry sector with over 50 entities involved in space-related activities (2024)<br>
+space program is integrated into the European Space Agency (ESA), which it first started cooperating with in 1992 and formally joined in 2011; program is involved in the development and production of a wide range of capabilities and technologies, including satellites, satellite/space launch vehicles (SLVs), remote sensing, human space flight, navigation, telecommunications, and other space-related applications; in addition to the ESA/EU and their member states (particularly Bulgaria, France, Germany, Hungary, Italy), it cooperates with a variety of other space agencies and commercial space entities, including those of Azerbaijan, China, Japan, Russia, and the US; also participates in international programs; has an active space industry sector with over 50 entities involved in space-related activities (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -718,7 +718,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 77,250 (Ukraine) (as of 14 April 2024)<br>
-_stateless persons_: 297 (2022)<br>
-<strong>note:</strong> 16,085 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
+_refugees_: 184,991 (2024 est.)<br>
+_stateless persons_: 297 (2024 est.)<br>
 

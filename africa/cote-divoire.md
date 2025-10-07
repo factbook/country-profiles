@@ -168,16 +168,13 @@ _female_: 65.4 years<br>
 **Gross reproduction rate**<br>
 1.67 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-27.8% (2020)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 89.9% of population<br>
-_improved: rural_: rural: 69.1% of population<br>
-_improved: total_: total: 79.8% of population<br>
-_unimproved: urban_: urban: 10.1% of population<br>
-_unimproved: rural_: rural: 30.9% of population<br>
-_unimproved: total_: total: 20.2% of population (2020 est.)<br>
+_improved: urban_: urban: 86.2% of population (2022 est.)<br>
+_improved: rural_: rural: 58% of population (2022 est.)<br>
+_improved: total_: total: 72.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 13.8% of population (2022 est.)<br>
+_unimproved: rural_: rural: 42% of population (2022 est.)<br>
+_unimproved: total_: total: 27.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 3.1% of GDP (2021)<br>
@@ -187,12 +184,12 @@ _Health expenditure (as % of national budget)_: 6.2% of national budget (2022 es
 0.17 physicians/1,000 population (2023)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 77.8% of population<br>
-_improved: rural_: rural: 35% of population<br>
-_improved: total_: total: 57.1% of population<br>
-_unimproved: urban_: urban: 22.2% of population<br>
-_unimproved: rural_: rural: 65% of population<br>
-_unimproved: total_: total: 42.9% of population (2020 est.)<br>
+_improved: urban_: urban: 84.6% of population (2022 est.)<br>
+_improved: rural_: rural: 41.5% of population (2022 est.)<br>
+_improved: total_: total: 64.2% of population (2022 est.)<br>
+_unimproved: urban_: urban: 15.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 58.5% of population (2022 est.)<br>
+_unimproved: total_: total: 35.8% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 10.3% (2016)<br>
@@ -258,23 +255,31 @@ _other_: 7.6% (2022 est.)<br>
 _urban population_: 53.1% of total population (2023)<br>
 _rate of urbanization_: 3.38% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 40.41 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 9.67 megatons (2016 est.)<br>
-_methane emissions_: 10.3 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 16.28 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 11.641 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 4.639 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+36 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 187.7 kt (2022-2024 est.)<br>
+_agriculture_: 192 kt (2019-2021 est.)<br>
+_waste_: 199.9 kt (2019-2021 est.)<br>
+_other_: 28.9 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 4,440,814 tons (2010 est.)<br>
-_municipal solid waste recycled annually_: 133,224 tons (2005 est.)<br>
-_percent of municipal solid waste recycled_: 3% (2005 est.)<br>
+_municipal solid waste generated annually_: 4.441 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 13.3% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 320 million cubic meters (2020 est.)<br>
-_industrial_: 240 million cubic meters (2020 est.)<br>
-_agricultural_: 600 million cubic meters (2020 est.)<br>
+_municipal_: 320 million cubic meters (2022 est.)<br>
+_industrial_: 242 million cubic meters (2022 est.)<br>
+_agricultural_: 600 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-84.14 billion cubic meters (2020 est.)<br>
+84.14 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -297,7 +302,7 @@ _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
 _etymology_: formerly a village named N'Gokro, Yamoussoukro is named after Queen YAMOUSSOU, who ruled during the early 20th century; Abidjan's name may have come from a misunderstanding when a French explorer asked a group of women the name of the village -- thinking it was a question about what they were doing, they replied "t'chan m&rsquo;bi djan," which in the Ebrie language means "I return from cutting leaves," so the explorer recorded the name of the locale as Abidjan<br>
 
 **Administrative divisions**<br>
-12 districts and 2 autonomous districts*; Abidjan*, Bas-Sassandra, Comoe, Denguele, Goh-Djiboua, Lacs, Lagunes, Montagnes, Sassandra-Marahoue, Savanes, Vallee du Bandama, Woroba, Yamoussoukro*, Zanzan<br>
+12 districts and 2 autonomous districts*; Abidjan*, Bas-Sassandra, Comoe, Denguele, Goh-Djiboua, Lacs, Lagunes, Montagnes, Sassandra-Marahoue, Savanes, Vall&eacute;e du Bandama, Woroba, Yamoussoukro*, Zanzan<br>
 
 **Legal system**<br>
 civil law system based on the French civil code; Constitutional Chamber of the Supreme Court reviews legislation<br>
@@ -342,7 +347,7 @@ _term in office_: 5 years<br>
 _most recent election date_: 3/6/2021 to 6/12/2021<br>
 _parties elected and seats per party_: Rally of Houphouetists for Democracy and Peace (RHDP) (139); Democratic Party of Côte d'Ivoire-African Democratic Rally (PDCI-RDA)-Together for Democracy and Sovereignty (EDS) (49); Democratic Party of Côte d'Ivoire-African Democratic Rally (PDCI-RDA) (23); Independents (26); Other (18)<br>
 _percentage of women in chamber_: 13.4%<br>
-_expected date of next election_: March 2026<br>
+_expected date of next election_: December 2025<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate (Sénat)<br>
@@ -385,9 +390,9 @@ ACP, AfDB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-24, G-77, I
 **National holiday**<br>
 Independence Day, 7 August (1960)<br>
 
-**Flag description**<br>
-three equal vertical bands of orange (hoist side), white, and green; orange stands for the savannah and fertility, white for peace and unity, green for the forests of the south and the hope for a bright future; design based on France's flag<br>
-<strong>note:</strong> similar to the flag of Ireland, which is longer and has the colors reversed -- green (hoist side), white, and orange; also similar to the flag of Italy, which is green (hoist side), white, and red<br>
+**Flag**<br>
+<strong>description:</strong> three equal vertical bands of orange (left side), white, and green<br><br><strong>meaning:</strong> orange stands for the savannah and fertility, white for peace and unity, green for the forests of the south and the hope for a bright future; design based on France's flag<br>
+<strong>note:</strong> similar to the flag of Ireland, which is wider and has the colors reversed -- green (left side), white, and orange; also similar to the flag of Italy, which is green (left side), white, and red<br>
 
 **National symbol(s)**<br>
 elephant<br>
@@ -503,9 +508,12 @@ _highest 10%_: 27.8% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $9.755 billion (2022 est.)<br>
-_expenditures_: $13.255 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $12.351 billion (2023 est.)<br>
+_expenditures_: $16.03 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+47% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 13.2% (of GDP) (2023 est.)<br>
@@ -586,11 +594,6 @@ _crude oil estimated reserves_: 100 million barrels (2021 est.)<br>
 _production_: 2.474 billion cubic meters (2023 est.)<br>
 _consumption_: 2.474 billion cubic meters (2023 est.)<br>
 _proven reserves_: 28.317 billion cubic meters (2021 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 16.28 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 11.641 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 4.639 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 8.489 million Btu/person (2023 est.)<br>
@@ -678,10 +681,11 @@ the military (FACI) is responsible for external defense but also has a considera
 ## Space
 
 **Space agency/agencies**<br>
-Space Agency of C&ocirc;te d&rsquo;Ivoire (ASCI; established June 2025) (2025)<br>
+National Office for Technical Studies and Development (Bureau d'Études Techniques et de Développement or BNETD) (2025)<br>
+<strong>note:</strong> in mid-2025, Côte d’Ivoire announced that it would establish the Space Agency of Côte d’Ivoire (ASCI) in 2026 under the Minister of Higher Education and Scientific Research<br>
 
 **Space program overview**<br>
-has a small, nascent program focused on acquiring a remote sensing (RS) satellite for detecting illegal gold mining, facilitating access to drinking water, mapping deforestation, and national security issues; new space agency's responsibilities also include advancing the use of space-based technologies for sustainable development, promoting domestic expertise, and supporting scientific research (2025)<br>
+has a small, nascent program with a focus on satellite technology and geospatial information systems for effective national planning, resource management, addressing environmental challenges, supporting the agricultural sector and scientific research, promoting domestic expertise, and national security issues (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -693,6 +697,6 @@ al-Qa'ida in the Islamic Maghreb (AQIM); Jama’at Nusrat al Islam wal Muslimeen
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 302,000 (post-election conflict in 2010-11, as well as civil war from 2002-04; land disputes; most pronounced in western and southwestern regions) (2022)<br>
-_stateless persons_: 930,578 (2022); note - many Ivoirians lack documentation proving their nationality, which prevent them from accessing education and healthcare; birth on Ivorian soil does not automatically result in citizenship; disputes over citizenship and the associated rights of the large population descended from migrants from neighboring countries is an ongoing source of tension and contributed to the country's 2002 civil war; some observers believe the government's mass naturalizations of thousands of people over the last couple of years is intended to boost its electoral support base; the government in October 2013 acceded to international conventions on statelessness and in August 2013 reformed its nationality law, key steps to clarify the nationality of thousands of residents; since the adoption of the Abidjan Declaration to eradicate statelessness in West Africa in February 2015, 6,400 people have received nationality papers in Cote d'Ivoire; in September 2020, Cote d'Ivoire adopted Africa's first statelessness determination procedure to regularize the status of stateless people<br>
+_refugees_: 69,176 (2024 est.)<br>
+_stateless persons_: 930,978 (2024 est.)<br>
 

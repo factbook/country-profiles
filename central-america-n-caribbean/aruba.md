@@ -151,24 +151,9 @@ _female_: 81.6 years<br>
 **Gross reproduction rate**<br>
 0.9 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
-**Drinking water source**<br>
-_improved: urban_: urban: 98.1% of population<br>
-_improved: rural_: rural: 98.1% of population<br>
-_improved: total_: total: 98.1% of population<br>
-_unimproved: urban_: urban: 1.9% of population<br>
-_unimproved: rural_: rural: 1.9% of population<br>
-_unimproved: total_: total: 1.9% of population (2015 est.)<br>
-
 **Sanitation facility access**<br>
-_improved: urban_: urban: 97.7% of population<br>
-_improved: rural_: rural: 97.7% of population<br>
-_improved: total_: total: 97.7% of population<br>
-_unimproved: urban_: urban: 2.3% of population<br>
-_unimproved: rural_: rural: 2.3% of population<br>
-_unimproved: total_: total: 2.3% of population (2015 est.)<br>
+_improved: total_: total: 98.8% of population (2022 est.)<br>
+_unimproved: total_: total: 1.2% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 42.1% (2023 est.)<br>
@@ -197,13 +182,12 @@ _other_: 86.6% (2022 est.)<br>
 _urban population_: 44.3% of total population (2023)<br>
 _rate of urbanization_: 0.77% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.88 megatons (2016 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 1.163 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.163 million metric tonnes of CO2 (2023 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 88,132 tons (2013 est.)<br>
-_municipal solid waste recycled annually_: 9,695 tons (2013 est.)<br>
-_percent of municipal solid waste recycled_: 11% (2013 est.)<br>
+_municipal solid waste generated annually_: 88,100 tons (2024 est.)<br>
 
 ## Government
 
@@ -212,7 +196,7 @@ _conventional long form_: Country of Aruba<br>
 _conventional short form_: Aruba<br>
 _local long form_: Land Aruba (Dutch); Pais Aruba (Papiamento)<br>
 _local short form_: Aruba<br>
-_etymology_: the origin of the island's name is unclear; according to tradition, the name comes from the Spanish phrase <em>oro hubo</em> ("there was gold"), but no gold was ever found on the island; other possible sources are either the local word <em>oruba</em>, meaning "well-situated," or a combination of two Carib Indian words, <em>ora </em>and <em>oubao</em>,<em> </em>respectively meaning "shell" and "island"<br>
+_etymology_: the origin of the island's name is unclear; according to tradition, the name comes from the Spanish phrase <em>oro hubo</em> ("there was gold"), but no gold was ever found on the island; other possible sources are either the local word <em>oruba</em> ("well-situated") or a combination of two Carib Indian words, <em>ora </em>and <em>oubao</em> ("shell" and "island," respectively)<br>
 
 **Government type**<br>
 parliamentary democracy; part of the Kingdom of the Netherlands<br>
@@ -286,8 +270,8 @@ none (part of the Kingdom of the Netherlands)<br>
 **National holiday**<br>
 National Anthem and Flag Day, 18 March (1976)<br>
 
-**Flag description**<br>
-blue, with two narrow, horizontal yellow stripes across the lower portion and a red four-pointed star outlined in white in the upper hoist-side corner; the star represents Aruba's red soil and white beaches, and its four points stand for the major languages (Papiamento, Dutch, Spanish, English) and the points of a compass, to indicate that its inhabitants come from all over the world; the blue symbolizes Caribbean waters and skies; the stripes represent the island's two main industries, tourism and mining<br>
+**Flag**<br>
+<strong>description:</strong> blue, with two narrow, horizontal yellow stripes across the lower portion and a red four-pointed star outlined in white in the upper-left corner<br><br><strong>meaning:</strong> the star stands for Aruba's red soil and white beaches, and its four points for the major languages (Papiamento, Dutch, Spanish, English) and the points of a compass, to indicate that its inhabitants come from all over the world; blue symbolizes Caribbean waters and skies; the stripes represent the island's two main industries, tourism and mining<br>
 
 **National symbol(s)**<br>
 Hooiberg (Haystack) Hill<br>
@@ -364,6 +348,9 @@ tourism, petroleum transshipment facilities, banking<br>
 _revenues_: $793 million (2019 est.)<br>
 _expenditures_: $782 million (2019 est.)<br>
 
+**Public debt**<br>
+84.7% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 $194.498 million (2023 est.)<br>
 $230.556 million (2022 est.)<br>
@@ -435,10 +422,6 @@ _imports_: 1 metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 8,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 1.163 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 1.163 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 153.952 million Btu/person (2023 est.)<br>
 
@@ -495,7 +478,4 @@ no regular military forces; Aruban Militia (ARUMIL); Police Department for local
 defense is the responsibility of the Kingdom of the Netherlands; the Aruba security services focus on organized crime and terrorism; the Dutch Government controls foreign and defense policy; the Dutch Caribbean Coast Guard (DCCG) provides maritime security; the Dutch military maintains a presence on Aruba, including a marine company and a naval base (2024)<br>
 
 ## Transnational Issues
-
-**Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,085 (Venezuela) (2023)<br>
 

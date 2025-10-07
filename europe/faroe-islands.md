@@ -150,27 +150,16 @@ _female_: 84.4 years<br>
 **Gross reproduction rate**<br>
 1.09 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
 _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Physician density**<br>
 2.62 physicians/1,000 population (2016)<br>
-
-**Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA<br>
 
 **Currently married women (ages 15-49)**<br>
 34.8% (2023 est.)<br>
@@ -198,16 +187,13 @@ _other_: 29.8% (2022 est.)<br>
 _urban population_: 43% of total population (2023)<br>
 _rate of urbanization_: 0.89% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.63 megatons (2016 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 742,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 742,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 61,000 tons (2014 est.)<br>
-_municipal solid waste recycled annually_: 40,870 tons (2012 est.)<br>
+_municipal solid waste generated annually_: 61,000 tons (2024 est.)<br>
 _percent of municipal solid waste recycled_: 67% (2012 est.)<br>
-
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -291,9 +277,9 @@ none (self-governing overseas administrative division of Denmark)<br>
 Olaifest (Olavsoka), 29 July (1030)<br>
 <strong>note: </strong>commemorates the death in battle of King OLAF II of Norway, later St. OLAF<br>
 
-**Flag description**<br>
-white with a red cross outlined in blue extending to the edges of the flag; the vertical part of the cross is shifted toward the hoist side in the style of the Dannebrog (Danish flag); referred to as Merkid, meaning "the banner" or "the mark," the flag resembles the flags of Iceland and Norway and uses the same three colors in a different sequence; white represents the clear Faroese sky and sea foam; red and blue are traditional Faroese colors<br>
-<strong>note:</strong> the blue on the flag is a lighter blue (azure) than the flags of Iceland and Norway<br>
+**Flag**<br>
+<strong>description:</strong> white with a red cross outlined in blue that extends to the edges of the flag; the cross is shifted toward the left side in the style of the Dannebrog (Danish flag)<br><br><strong>meaning:</strong> white represents waves breaking on the shore; red and blue are traditional Faroese colors<br><br><strong>history:</strong> the flag is referred to as Merkid, meaning "the banner" or "the mark;" a group of students designed it in 1919, although it wasn't officially adopted until 1940<br>
+<strong>note:</strong> resembles the flags of Iceland and Norway; uses the same three colors in a different sequence and with a lighter blue<br>
 
 **National symbol(s)**<br>
 ram<br>
@@ -413,10 +399,6 @@ _imports_: 1 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 5,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 742,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 742,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

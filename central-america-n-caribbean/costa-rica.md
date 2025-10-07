@@ -158,16 +158,13 @@ _female_: 82.9 years<br>
 **Gross reproduction rate**<br>
 0.7 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-70.9% (2018)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 99.8% of population (2022 est.)<br>
+_improved: rural_: rural: 99.6% of population (2022 est.)<br>
+_improved: total_: total: 99.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.4% of population (2022 est.)<br>
+_unimproved: total_: total: 0.2% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 7.6% of GDP (2021)<br>
@@ -180,12 +177,12 @@ _Health expenditure (as % of national budget)_: 25.8% of national budget (2022 e
 1.2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99% of population<br>
-_improved: rural_: rural: 97.1% of population<br>
-_improved: total_: total: 98.7% of population<br>
-_unimproved: urban_: urban: 1% of population<br>
-_unimproved: rural_: rural: 2.9% of population<br>
-_unimproved: total_: total: 1.3% of population (2020 est.)<br>
+_improved: urban_: urban: 99.2% of population (2022 est.)<br>
+_improved: rural_: rural: 97.6% of population (2022 est.)<br>
+_improved: total_: total: 98.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.8% of population (2022 est.)<br>
+_unimproved: rural_: rural: 2.4% of population (2022 est.)<br>
+_unimproved: total_: total: 1.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 25.7% (2016)<br>
@@ -245,23 +242,25 @@ _other_: 5.3% (2022 est.)<br>
 _urban population_: 82.6% of total population (2023)<br>
 _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 14.7 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 8.02 megatons (2016 est.)<br>
-_methane emissions_: 5.61 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 7.91 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 58,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 7.852 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+15.1 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1.46 million tons (2014 est.)<br>
-_municipal solid waste recycled annually_: 18,396 tons (2014 est.)<br>
-_percent of municipal solid waste recycled_: 1.3% (2014 est.)<br>
+_municipal solid waste generated annually_: 1.46 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 5.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 830 million cubic meters (2020 est.)<br>
-_industrial_: 230 million cubic meters (2020 est.)<br>
-_agricultural_: 2.08 billion cubic meters (2020 est.)<br>
+_municipal_: 1,108,600,000 cubic meters (2022 est.)<br>
+_industrial_: 245.34 million cubic meters (2022 est.)<br>
+_agricultural_: 2,092,895,183 cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-113 billion cubic meters (2020 est.)<br>
+113 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -342,7 +341,7 @@ _email address and website_: <br>embcr-us@rree.go.cr<br>https://www.embassycr.or
 _consulate(s) general_: Atlanta, Houston, Los Angeles, Miami, New York, Washington DC<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Michael (Mike) FLORES (since January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Jennifer SAVAGE (since August 2025)<br>
 _embassy_: Calle 98 Via 104, Pavas, San Jose<br>
 _mailing address_: 3180 St. George's Place, Washington DC&nbsp; 20521-3180<br>
 _telephone_: [506] 2519-2000<br>
@@ -358,8 +357,8 @@ ACS, BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national com
 **National holiday**<br>
 Independence Day, 15 September (1821)<br>
 
-**Flag description**<br>
-five horizontal bands of blue (top), white, red (double width), white, and blue, with the coat of arms in a white elliptical disk placed toward the hoist side of the red band; Costa Rica retained the earlier blue-white-blue flag of Central America until 1848 when, in response to revolutions in Europe, it was decided to incorporate the French colors by adding a central red stripe; today the blue is said to stand for the sky, opportunity, and perseverance, the white for peace, happiness, and wisdom, and the red for the blood shed for freedom, as well as Costa Ricans' generosity and vibrancy<br>
+**Flag**<br>
+<strong>description:</strong> five horizontal bands of blue (top), white, red (double-width), white, and blue, with the coat of arms in a white elliptical disk placed toward the left side of the red band<br><br><strong>meaning:</strong> the blue is said to stand for the sky, opportunity, and perseverance; the white for peace, happiness, and wisdom; and the red for the blood shed for freedom, as well as Costa Ricans' generosity and vibrancy<br><br><strong>history: </strong>Costa Rica retained the earlier blue-white-blue flag of Central America until 1848 when, in response to revolutions in Europe, it was decided to incorporate the French colors by adding a central red stripe<br>
 <strong>note:</strong> somewhat resembles the flag of North Korea; similar to the flag of Thailand, but with the blue and red colors reversed<br>
 
 **National symbol(s)**<br>
@@ -479,9 +478,12 @@ _highest 10%_: 34.2% (2024 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $20.224 billion (2022 est.)<br>
-_expenditures_: $19.799 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $26.333 billion (2023 est.)<br>
+_expenditures_: $25.953 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+48.9% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 13.9% (of GDP) (2023 est.)<br>
@@ -567,11 +569,6 @@ _imports_: 24,000 metric tons (2023 est.)<br>
 _total petroleum production_: 400 bbl/day (2023 est.)<br>
 _refined petroleum consumption_: 60,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 7.91 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 58,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 7.852 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 30.725 million Btu/person (2023 est.)<br>
 
@@ -652,17 +649,18 @@ Costa Rica relies on specialized paramilitary units within the Ministry of Publi
 ## Space
 
 **Space agency/agencies**<br>
-Costa Rican Space Agency (ACE; established 2021); ACE is a non-state, public entity subject to guidelines issued by the Ministry of Science, Technology, and Telecommunications (2024)<br>
+Costa Rican Space Agency (ACE; established by legislation in 2021); ACE is a non-state, public entity subject to guidelines issued by the Ministry of Science, Technology, and Telecommunications (2025)<br>
 
 **Space program overview**<br>
-has a small, recently established program focused on using space to develop the country’s economy and industry, including acquiring and utilizing satellites; has built a remote sensing (RS) cube satellite; has relations with the space agencies and commercial space industries of the US, the European Space Agency, and the Latin American and Caribbean Space Agency (2024)<br>
+has a small, recently established program focused on using space to develop the country’s economy and industry, including acquiring and utilizing satellites; has built a remote sensing (RS) cube satellite; has relations with the space agencies and commercial space industries of the US, the European Space Agency, and the Latin American and Caribbean Space Agency (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 29,405 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2023)<br>
-_stateless persons_: 192 (2022)<br>
+_refugees_: 249,521 (2024 est.)<br>
+_IDPs_: 58 (2024 est.)<br>
+_stateless persons_: 345 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>

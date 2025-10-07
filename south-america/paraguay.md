@@ -169,16 +169,13 @@ _female_: 81.6 years<br>
 **Gross reproduction rate**<br>
 0.92 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-68.4% (2016)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 99.9% of population (2022 est.)<br>
+_improved: rural_: rural: 99.1% of population (2022 est.)<br>
+_improved: total_: total: 99.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.9% of population (2022 est.)<br>
+_unimproved: total_: total: 0.4% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 8% of GDP (2021)<br>
@@ -191,12 +188,12 @@ _Health expenditure (as % of national budget)_: 17.4% of national budget (2022 e
 1 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.6% of population<br>
-_improved: rural_: rural: 90.6% of population<br>
-_improved: total_: total: 96.2% of population<br>
-_unimproved: urban_: urban: 0.4% of population<br>
-_unimproved: rural_: rural: 9.4% of population<br>
-_unimproved: total_: total: 3.8% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 94.9% of population (2022 est.)<br>
+_improved: total_: total: 98.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 5.1% of population (2022 est.)<br>
+_unimproved: total_: total: 1.9% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 20.3% (2016)<br>
@@ -256,21 +253,31 @@ _other_: 18.8% (2022 est.)<br>
 _urban population_: 63.1% of total population (2023)<br>
 _rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 12.31 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 7.41 megatons (2016 est.)<br>
-_methane emissions_: 27.65 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 7.509 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 7.507 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+12.5 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 37.3 kt (2022-2024 est.)<br>
+_agriculture_: 813 kt (2019-2021 est.)<br>
+_waste_: 101.2 kt (2019-2021 est.)<br>
+_other_: 10 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1,818,501 tons (2015 est.)<br>
+_municipal solid waste generated annually_: 1.819 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 18.1% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 360 million cubic meters (2020 est.)<br>
-_industrial_: 150 million cubic meters (2020 est.)<br>
-_agricultural_: 1.9 billion cubic meters (2020 est.)<br>
+_municipal_: 362 million cubic meters (2022 est.)<br>
+_industrial_: 154 million cubic meters (2022 est.)<br>
+_agricultural_: 1.897 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-387.77 billion cubic meters (2020 est.)<br>
+387.77 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -357,7 +364,7 @@ _subordinate courts_: appellate courts; first instance courts; minor courts, inc
 Asociacion Nacional Republicana (National Republican Association) - Colorado Party or ANR<br>Avanza Pais coalition or AP<br>Frente Guasu (Broad Front coalition) or FG<br>GANAR Alliance (Great Renewed National Alliance) (alliance between PLRA and Guasú Front)<br>Movimiento Hagamos or MH<br>Movimiento Union Nacional de Ciudadanos Eticos (National Union of Ethical Citizens) or UNACE<br>Partido Cruzada Nacional (National Crusade Party) or PCN; note - formerly Movimiento Cruzada Nacional<br>Partido del Movimiento al Socialismo or P-MAS<br>Partido Democratica Progresista (Progressive Democratic Party) or PDP<br>Partido Encuentro Nacional or PEN<br>Partido Liberal Radical Autentico (Authentic Radical Liberal Party) or PLRA<br>Partido Pais Solidario or PPS<br>Partido Popular Tekojoja or PPT<br>Patria Querida (Beloved Fatherland Party) or PPQ<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Oscar BAEZ Galeano (since 21 April 2025)<br>
+_chief of mission_: Ambassador Gustavo Alfredo LEITE Gusinky (since 5 September 2025)<br>
 _chancery_: 2209 Massachusetts Avenue, NW, Washington DC&nbsp; 20008<br>
 _telephone_: [1] (202) 483-6960<br>
 _FAX_: [1] (202) 234-4508<br>
@@ -365,7 +372,7 @@ _email address and website_: <br>gabineteembaparusa@mre.gov.py<br><br>Embajada d
 _consulate(s) general_: Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Amir P. MASLIYAH (since January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Robert ALTER (since July 2025)<br>
 _embassy_: 1776 Mariscal Lopez Avenue, Asuncion<br>
 _mailing address_: 3020 Asuncion Place, Washington DC&nbsp; 20521-3020<br>
 _telephone_: [595] (21) 248-3000<br>
@@ -382,9 +389,9 @@ CAN (associate), CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (nation
 **National holiday**<br>
 Independence Day, 14-15 May (1811) (observed 15 May); 14 May is celebrated as Flag Day<br>
 
-**Flag description**<br>
-three equal horizontal bands of red (top), white, and blue, with an emblem centered in the white band; the emblem is different on each side; one side (hoist side at the left) has the national coat of arms (a five-pointed yellow star in a green wreath and capped by the words REPUBLICA DEL PARAGUAY, all inside two circles); the other side (hoist side at the right) has a circular treasury seal (a yellow lion below a red Cap of Liberty and the words PAZ Y JUSTICIA, or Peace and Justice); red stands for bravery and patriotism, white for integrity and peace, and blue for liberty and generosity<br>
-<strong>note:</strong> the three color bands resemble the Dutch flag; one of three national flags that differ on each side -- the others are Moldova and Saudi Arabia<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of red (top), white, and blue, with an emblem centered on the white band; the emblem on one side of the flag is the national coat of arms, which has a five-pointed yellow star in a green wreath with the words REPUBLICA DEL PARAGUAY around it, all inside two circles; the other side of the flag has a circular treasury seal (a yellow lion below a red Cap of Liberty and the words PAZ Y JUSTICIA)<br><br><strong>meaning:</strong> red stands for bravery and patriotism, white for integrity and peace, and blue for liberty and generosity<br>
+<strong>note 1:</strong> resembles the flag of the Netherlands, which does not have a central emblem<br><br><strong>note 2:</strong> one of three national flags that differ on each side -- the others are Moldova and Saudi Arabia<br>
 
 **National symbol(s)**<br>
 lion<br>
@@ -394,8 +401,8 @@ red, white, blue<br>
 
 **National anthem(s)**<br>
 _title_: "Paraguayos, Republica o muerte!" (Paraguayans, the Republic or Death!)<br>
-_lyrics/music_: Francisco Esteban ACUNA de Figueroa/disputed<br>
-_history_: adopted 1934, in use since 1846<br>
+_lyrics/music_: Francisco Esteban ACUNA de Figueroa/Remberto GIMENEZ&nbsp; &nbsp;<br>
+_history_: adopted 1846 (lyrics) and 1934 (music)&nbsp;<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -500,9 +507,12 @@ _highest 10%_: 34.4% (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $7.148 billion (2022 est.)<br>
-_expenditures_: $6.937 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $7.751 billion (2023 est.)<br>
+_expenditures_: $9.397 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+18.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 10.1% (of GDP) (2023 est.)<br>
@@ -583,11 +593,6 @@ _imports_: 100 metric tons (2023 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 2,000 bbl/day (2023 est.)<br>
 _refined petroleum consumption_: 52,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 7.509 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 2,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 7.507 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 25.733 million Btu/person (2023 est.)<br>
@@ -671,10 +676,10 @@ the military's inventory is comprised of mostly older or obsolescent equipment f
 ## Space
 
 **Space agency/agencies**<br>
-Space Agency of Paraguay (Agencia Especial del Paraguay, AEP; established 2014) (2024)<br>
+Space Agency of Paraguay (Agencia Especial del Paraguay, AEP; established 2014) (2025)<br>
 
 **Space program overview**<br>
-has a small, recently established space program focused on the acquisition of satellites, satellite data, and the technologies and capabilities to manufacture satellites, as well as promoting in-country expertise building and space industry; a priority is acquiring remote sensing (RS) capabilities to support socio-economic develop, including resource mapping, weather, and crop monitoring; has built a cube satellite with foreign assistance; operates satellites; cooperates with foreign space agencies and industries, including those of India, Japan, Taiwan, the US, and member states of the Latin American and Caribbean Space Agency (ALCE) (2024)<br>
+has a small, recently established space program focused on the acquisition of satellites, satellite data, and the technologies and capabilities to manufacture satellites, as well as promoting in-country expertise building and space industry; a priority is acquiring remote sensing capabilities to support socio-economic develop, including resource mapping, weather, and crop monitoring; has built a cube satellite with foreign assistance; operates satellites; cooperates with foreign space agencies and industries, including those of India, Japan, Taiwan, the US, and member states of the Latin American and Caribbean Space Agency (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -686,5 +691,7 @@ Hizballah<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,231 (Venezuela) (2022)<br>
+_refugees_: 7,649 (2024 est.)<br>
+_IDPs_: 141 (2024 est.)<br>
+_stateless persons_: 5 (2024 est.)<br>
 

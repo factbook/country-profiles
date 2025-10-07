@@ -155,16 +155,13 @@ _female_: 78.7 years<br>
 **Gross reproduction rate**<br>
 1.14 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-16.6% (2019/20)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 98% of population<br>
-_improved: total_: total: 98.4% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 2% of population<br>
-_unimproved: total_: total: 1.6% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 98.8% of population (2022 est.)<br>
+_improved: total_: total: 99% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.2% of population (2022 est.)<br>
+_unimproved: total_: total: 1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6.8% of GDP (2021)<br>
@@ -174,12 +171,12 @@ _Health expenditure (as % of national budget)_: 15.2% of national budget (2022 e
 0.56 physicians/1,000 population (2021)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.5% of population<br>
-_improved: rural_: rural: 99.5% of population<br>
-_improved: total_: total: 99.5% of population<br>
-_unimproved: urban_: urban: 0.5% of population<br>
-_unimproved: rural_: rural: 0.5% of population<br>
-_unimproved: total_: total: 0.5% of population (2020 est.)<br>
+_improved: urban_: urban: 99.7% of population (2022 est.)<br>
+_improved: rural_: rural: 98.9% of population (2022 est.)<br>
+_improved: total_: total: 99% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.1% of population (2022 est.)<br>
+_unimproved: total_: total: 1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 47.3% (2016)<br>
@@ -240,18 +237,16 @@ _other_: 24.4% (2022 est.)<br>
 _urban population_: 17.5% of total population (2023)<br>
 _rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 7.78 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.25 megatons (2016 est.)<br>
-_methane emissions_: 0.27 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 335,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 335,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+7.8 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 27,399 tons (2011 est.)<br>
-_municipal solid waste recycled annually_: 9,864 tons (2013 est.)<br>
-_percent of municipal solid waste recycled_: 36% (2013 est.)<br>
-
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
+_municipal solid waste generated annually_: 27,400 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 57.6% (2022 est.)<br>
 
 ## Government
 
@@ -295,7 +290,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi II (since 21 July 2017)<br>
-_head of government_: Prime Minister FIAME Naomi Mata&rsquo;afa (since 24 May 2021)<br>
+_head of government_: Prime Minister La'auli Leuatea SCHMIDT (since 16 September 2025)<br>
 _cabinet_: Cabinet appointed by the chief of state on the advice of the prime minister<br>
 _election/appointment process_: chief of state indirectly elected by the Legislative Assembly to serve a 5-year term (2-term limit); following legislative elections, the chief of state usually appoints the leader of the majority party as prime minister, with the approval of the Legislative Assembly<br>
 _most recent election date_: 23 August 2022<br>
@@ -309,10 +304,10 @@ _number of seats_: 51 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 4/9/2021 to 11/26/2021<br>
+_most recent election date_: 8/29/2025<br>
 _parties elected and seats per party_: Faatuatua ile Atua Samoa ua Tasi (FAST) (32); Human Rights Protection Party (HRPP) (22)<br>
 _percentage of women in chamber_: 13%<br>
-_expected date of next election_: August 2025<br>
+_expected date of next election_: August 2030<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and 2 Supreme Court judges and meets once or twice a year); Supreme Court (consists of the chief justice and several judges)<br>
@@ -348,8 +343,8 @@ ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IL
 Independence Day Celebration, 1 June (1962)<br>
 <strong>note:</strong> 1 January 1962 is the date of independence from the New Zealand-administered UN trusteeship, but it is observed in June<br>
 
-**Flag description**<br>
-red with a blue rectangle in the upper hoist-side quadrant bearing five white, five-pointed stars that represent the Southern Cross constellation; red stands for courage, blue for freedom, and white for purity<br>
+**Flag**<br>
+<strong>description:</strong> red with a blue rectangle in the upper-left quadrant; on the rectangle are five five-pointed white stars that represent the Southern Cross constellation<br><br><strong>meaning:</strong> red stands for courage, blue for freedom, and white for purity<br>
 <strong>note:</strong> similar to the flag of Taiwan<br>
 
 **National symbol(s)**<br>
@@ -449,9 +444,12 @@ _female_: 20.9% (2024 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $342.18 million (2021 est.)<br>
-_expenditures_: $297.736 million (2021 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $371.764 million (2023 est.)<br>
+_expenditures_: $326.052 million (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+52.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 26.7% (of GDP) (2023 est.)<br>
@@ -530,10 +528,6 @@ _biomass and waste_: 6.3% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 2,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 335,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 335,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 23.476 million Btu/person (2023 est.)<br>

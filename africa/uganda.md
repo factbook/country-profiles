@@ -166,16 +166,13 @@ _female_: 72 years<br>
 **Gross reproduction rate**<br>
 2.55 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-50.2% (2021)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 92.5% of population<br>
-_improved: rural_: rural: 80% of population<br>
-_improved: total_: total: 83.1% of population<br>
-_unimproved: urban_: urban: 7.5% of population<br>
-_unimproved: rural_: rural: 20% of population<br>
-_unimproved: total_: total: 16.9% of population (2020 est.)<br>
+_improved: urban_: urban: 80.3% of population (2022 est.)<br>
+_improved: rural_: rural: 51.8% of population (2022 est.)<br>
+_improved: total_: total: 59.3% of population (2022 est.)<br>
+_unimproved: urban_: urban: 19.7% of population (2022 est.)<br>
+_unimproved: rural_: rural: 48.2% of population (2022 est.)<br>
+_unimproved: total_: total: 40.7% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.7% of GDP (2021)<br>
@@ -185,12 +182,12 @@ _Health expenditure (as % of national budget)_: 4.9% of national budget (2022 es
 0.19 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 67.3% of population<br>
-_improved: rural_: rural: 27.5% of population<br>
-_improved: total_: total: 37.4% of population<br>
-_unimproved: urban_: urban: 32.7% of population<br>
-_unimproved: rural_: rural: 72.5% of population<br>
-_unimproved: total_: total: 62.6% of population (2020 est.)<br>
+_improved: urban_: urban: 67.1% of population (2022 est.)<br>
+_improved: rural_: rural: 27.9% of population (2022 est.)<br>
+_improved: total_: total: 38.2% of population (2022 est.)<br>
+_unimproved: urban_: urban: 32.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 72.1% of population (2022 est.)<br>
+_unimproved: total_: total: 61.8% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 5.3% (2016)<br>
@@ -256,23 +253,25 @@ _other_: 16.9% (2022 est.)<br>
 _urban population_: 26.8% of total population (2023)<br>
 _rate of urbanization_: 5.41% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 31.31 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 5.68 megatons (2016 est.)<br>
-_methane emissions_: 30.24 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 6.354 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: -398 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 6.354 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+31.3 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 7,045,050 tons (2016 est.)<br>
-_municipal solid waste recycled annually_: 422,703 tons (2017 est.)<br>
-_percent of municipal solid waste recycled_: 6% (2017 est.)<br>
+_municipal solid waste generated annually_: 7.045 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 24.1% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 330 million cubic meters (2020 est.)<br>
-_industrial_: 50 million cubic meters (2020 est.)<br>
-_agricultural_: 260 million cubic meters (2020 est.)<br>
+_municipal_: 328 million cubic meters (2022 est.)<br>
+_industrial_: 50 million cubic meters (2022 est.)<br>
+_agricultural_: 259 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-60.1 billion cubic meters (2020 est.)<br>
+60.1 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -365,8 +364,8 @@ ACP, AfDB, ATMIS, AU, C, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICC (na
 **National holiday**<br>
 Independence Day, 9 October (1962)<br>
 
-**Flag description**<br>
-six equal horizontal bands of black (top), yellow, red, black, yellow, and red; a white disk is at the center and shows a grey crowned crane (the national symbol); black stands for the African people, yellow for sunshine and vitality, and red for African brotherhood<br>
+**Flag**<br>
+<strong>description:</strong> six equal horizontal bands of black (top), yellow, red, black, yellow, and red; a white disk is at the center and shows a grey crowned crane (the national symbol)<br><br><strong>meaning:</strong> black stands for the African people, yellow for sunshine and vitality, and red for African brotherhood<br>
 
 **National symbol(s)**<br>
 grey crowned crane<br>
@@ -377,7 +376,7 @@ black, yellow, red<br>
 **National anthem(s)**<br>
 _title_: "O Uganda, Land of Beauty!"<br>
 _lyrics/music_: George Wilberforce KAKOMOA<br>
-_history_: adopted 1962<br>
+_history_: adopted 1962; one of the shortest national anthems in the world<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (1 cultural, 2 natural)<br>
@@ -482,9 +481,9 @@ _highest 10%_: 34.5% (2019 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $6.895 billion (2022 est.)<br>
-_expenditures_: $7.473 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $7.616 billion (2023 est.)<br>
+_expenditures_: $10.043 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 53.1% of GDP (2023 est.)<br>
@@ -579,11 +578,6 @@ _crude oil estimated reserves_: 2.5 billion barrels (2021 est.)<br>
 **Natural gas**<br>
 _proven reserves_: 14.158 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 6.354 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: -398 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 6.354 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 2.252 million Btu/person (2023 est.)<br>
 
@@ -659,6 +653,7 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,368 (Eritrea), 23,388 (Rwanda), 8,936 (Ethiopia), 5,776 (Sudan) (2023); 931,666 (South Sudan) (refugees and asylum seekers), 512,445 (Democratic Republic of the Congo), 40,326 (Somalia), 40,326 (Burundi) (2024)<br>
-_stateless persons_: 67,000 (2022)<br>
+_refugees_: 1,796,597 (2024 est.)<br>
+_IDPs_: 22,209 (2024 est.)<br>
+_stateless persons_: 10,284 (2024 est.)<br>
 

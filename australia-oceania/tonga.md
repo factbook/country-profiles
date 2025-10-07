@@ -159,16 +159,13 @@ _female_: 79.7 years<br>
 **Gross reproduction rate**<br>
 1.3 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-29.3% (2019)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.8% of population<br>
-_improved: rural_: rural: 99.6% of population<br>
-_improved: total_: total: 99.6% of population<br>
-_unimproved: urban_: urban: 0.2% of population<br>
-_unimproved: rural_: rural: 0.4% of population<br>
-_unimproved: total_: total: 0.4% of population (2020 est.)<br>
+_improved: urban_: urban: 99.6% of population (2022 est.)<br>
+_improved: rural_: rural: 98.6% of population (2022 est.)<br>
+_improved: total_: total: 98.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.4% of population (2022 est.)<br>
+_unimproved: total_: total: 1.2% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6.3% of GDP (2021)<br>
@@ -178,12 +175,12 @@ _Health expenditure (as % of national budget)_: 8.7% of national budget (2022 es
 1.01 physicians/1,000 population (2021)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.4% of population<br>
-_improved: rural_: rural: 98.8% of population<br>
-_improved: total_: total: 98.9% of population<br>
-_unimproved: urban_: urban: 0.6% of population<br>
-_unimproved: rural_: rural: 1.2% of population<br>
-_unimproved: total_: total: 1.1% of population (2020 est.)<br>
+_improved: urban_: urban: 99.6% of population (2022 est.)<br>
+_improved: rural_: rural: 99.7% of population (2022 est.)<br>
+_improved: total_: total: 99.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.3% of population (2022 est.)<br>
+_unimproved: total_: total: 0.4% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 48.2% (2016)<br>
@@ -249,16 +246,16 @@ _other_: 39% (2022 est.)<br>
 _urban population_: 23.2% of total population (2023)<br>
 _rate of urbanization_: 0.99% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 7.52 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.13 megatons (2016 est.)<br>
-_methane emissions_: 0.12 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 174,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 174,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+7.4 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 17,238 tons (2012 est.)<br>
-
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
+_municipal solid waste generated annually_: 17,200 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 12.2% (2022 est.)<br>
 
 ## Government
 
@@ -350,11 +347,11 @@ ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, IMF
 4 June 1970 (from UK protectorate status)<br>
 
 **National holiday**<br>
-Official Birthday of King TUPOU VI, 4 July (1959)<br>
-<strong>note:</strong> actual birthday of the monarch is 12 July 1959, 4 July (2015) is the day the king was crowned; Constitution Day (National Day), 4 November (1875)<br>
+Official birthday of King TUPOU VI, 4 July (1959)<br>
+<strong>note:</strong> the monarch's actual birthday is 12 July 1959, 4 July (2015) is the day the king was crowned; Constitution Day (National Day), 4 November (1875)<br>
 
-**Flag description**<br>
-red with a red cross on a white rectangle in the upper hoist-side corner; the cross stands for Christianity in Tonga, red for Christ's blood and sacrifice, and white for purity<br>
+**Flag**<br>
+<strong>description:</strong> red with a red cross on a white rectangle in the upper-left corner<br><br><strong>meaning:</strong> the cross stands for Christianity in Tonga, red for Christ's blood and sacrifice, and white for purity<br>
 
 **National symbol(s)**<br>
 red cross on white field<br>
@@ -365,7 +362,7 @@ red, white<br>
 **National anthem(s)**<br>
 _title_: "Ko e fasi 'o e tu'i 'o e 'Otu Tonga" (Song of the King of the Tonga Islands)<br>
 _lyrics/music_: Uelingatoni Ngu TUPOUMALOHI/Karl Gustavus SCHMITT<br>
-_history_: in use since 1875; more commonly known as "Fasi Fakafonua" (National Song)<br>
+_history_: in use since 1874; more commonly known as "Fasi Fakafonua" (National Song)<br>
 
 ## Economy
 
@@ -462,8 +459,8 @@ _highest 10%_: 22% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $215.007 million (2020 est.)<br>
-_expenditures_: $160.257 million (2020 est.)<br>
+_revenues_: $276.025 million (2023 est.)<br>
+_expenditures_: $244.97 million (2023 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
@@ -544,10 +541,6 @@ _wind_: 1.4% of total installed capacity (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 1,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 174,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 174,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 23.272 million Btu/person (2023 est.)<br>
 
@@ -617,7 +610,7 @@ the military's inventory consists of light weapons, as well as some naval patrol
 voluntary military service for men and women 18-25; no conscription (2023)<br>
 
 **Military - note**<br>
-the military's primary missions are defending Tonga's sovereignty, providing maritime security, and protecting the King; it is also responsible for humanitarian assistance and disaster relief, search and rescue operations, monitoring against illegal fishing, and delivering supplies to the outer islands; the military has contributed limited numbers of personnel to multinational military operations in Afghanistan, Iraq, and the Solomon Islands; Australia, New Zealand, and the US are key partners <br><br>Tonga has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Tonga's designated exclusive economic zone (EEZ) or on the high seas<br><br>Tonga participated in World War I as part of the New Zealand Expeditionary Force, but the Tonga Defense Force (TDF) was not established until 1939 at the beginning of World War II; in 1943, New Zealand helped train about 2,000 Tongan troops who saw action in the Solomon Islands; the TDF was disbanded at the end of the war, but was reactivated in 1946 as the Tonga Defense Services (TDS); in 2013, the name of the TDS was changed to His Majesty’s Armed Forces of Tonga (HMAF); Tongan troops deployed to Iraq from 2004-2008 and Afghanistan to support UK forces from 2010-2014 (2025)<br>
+the military's primary missions are defending Tonga's sovereignty, providing maritime security, and protecting the King; it is also responsible for humanitarian assistance and disaster relief, search and rescue operations, monitoring against illegal fishing, and delivering supplies to the outer islands; the military has contributed limited numbers of personnel to multinational military operations in Afghanistan, Iraq, and the Solomon Islands; Australia, New Zealand, and the US are key partners <br><br>Tonga has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Tonga's designated exclusive economic zone (EEZ) or on the high seas<br><br>Tonga participated in World War I as part of the New Zealand Expeditionary Force, but the Tonga Defense Force (TDF) was not established until 1939 at the beginning of World War II; in 1943, New Zealand helped train about 2,000 Tongan troops who saw action in the Solomon Islands; the TDF was disbanded at the end of the war, but was reactivated in 1946 as the Tonga Defense Services (TDS); in 2013, the name of the TDS was changed to His Majesty’s Armed Forces of Tonga (HMAF) (2025)<br>
 
 ## Transnational Issues
 

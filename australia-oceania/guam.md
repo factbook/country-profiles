@@ -150,24 +150,13 @@ _female_: 80.5 years<br>
 **Gross reproduction rate**<br>
 1.32 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 99.7% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0.3% of population (2020 est.)<br>
+_improved: total_: total: 99.7% of population (2022 est.)<br>
+_unimproved: total_: total: 0.3% of population (2022 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 89.8% of population (2015 est.)<br>
-_improved: rural_: rural: 89.8% of population (2015 est.)<br>
-_improved: total_: total: 89.8% of population (2015 est.)<br>
-_unimproved: urban_: urban: 10.2% of population (2015 est.)<br>
-_unimproved: rural_: rural: 10.2% of population (2015 est.)<br>
-_unimproved: total_: total: 10.2% of population (2015 est.)<br>
+_improved: total_: total: 99.2% of population (2022 est.)<br>
+_unimproved: total_: total: 0.8% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 37% (2023 est.)<br>
@@ -192,9 +181,12 @@ _other_: 18.5% (2022 est.)<br>
 _urban population_: 95.2% of total population (2022)<br>
 _rate of urbanization_: 0.84% annual rate of change (2020-25 est.)<br>
 
+**Carbon dioxide emissions**<br>
+_total emissions_: 1.819 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.819 million metric tonnes of CO2 (2023 est.)<br>
+
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 141,500 tons (2012 est.)<br>
-_municipal solid waste recycled annually_: 25,258 tons (2011 est.)<br>
+_municipal solid waste generated annually_: 141,500 tons (2024 est.)<br>
 _percent of municipal solid waste recycled_: 17.9% (2011 est.)<br>
 
 ## Government
@@ -281,8 +273,8 @@ none (territory of the US)<br>
 **National holiday**<br>
 Discovery Day (or Magellan Day), first Monday in March (1521)<br>
 
-**Flag description**<br>
-territorial flag is dark blue with a narrow red border on all four sides; centered is a red-bordered, pointed, vertical ellipse containing a beach scene, a <em>proa (</em>outrigger canoe with sail), and a palm tree; the word GUAM in red is centered in the ellipse; the proa is sailing in Agana Bay with the promontory of Puntan Dos Amantes in the background; the central emblem is shaped like a Chamorro sling stone, a weapon for defense or hunting; blue stands for the sea and red for the blood shed in the fight against oppression<br>
+**Flag**<br>
+<strong>description:</strong> territorial flag is dark blue with a narrow red border on all four sides; centered is a red-bordered, pointed, vertical ellipse containing a beach scene, a <em>proa (</em>outrigger canoe with sail), and a palm tree; the word GUAM in red is centered in the ellipse; the proa is sailing in Agana Bay with the promontory of Puntan Dos Amantes in the background<br><br><strong>meaning:</strong> blue stands for the sea and red for the blood shed in the fight against oppression; the central emblem is shaped like a Chamorro sling stone (a weapon for defense or hunting)<br>
 <strong>note:</strong> the US flag is the national flag<br>
 
 **National symbol(s)**<br>
@@ -294,7 +286,7 @@ deep blue, red<br>
 **National anthem(s)**<br>
 _title_: "The Star-Spangled Banner"<br>
 _lyrics/music_: Francis Scott KEY/John Stafford SMITH<br>
-_history_: official anthem, as a US territory; usually played after "Stand, Ye Guamanians"<br>
+_history_: official anthem, as a US territory; played before "Stand, Ye Guamanians"<br>
 
 ## Economy
 
@@ -346,6 +338,9 @@ _on alcohol and tobacco_: 1.3% of household expenditures (2021 est.)<br>
 _revenues_: $1.24 billion (2016 est.)<br>
 _expenditures_: $1.299 billion (2016 est.)<br>
 
+**Public debt**<br>
+32.1% of GDP (2013)<br>
+
 **Exports**<br>
 $545 million (2022 est.)<br>
 $193 million (2021 est.)<br>
@@ -394,10 +389,6 @@ _wind_: 0.1% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 11,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 1.819 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 1.819 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 150.555 million Btu/person (2019 est.)<br>

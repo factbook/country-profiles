@@ -155,17 +155,12 @@ _female_: 78.8 years<br>
 **Gross reproduction rate**<br>
 1.69 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-57.3% (2019/20)<br>
-<strong>note:</strong> includes Gaza Strip and the West Bank<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 98.9% of population<br>
-_improved: rural_: rural: 99% of population<br>
-_improved: total_: total: 98.9% of population<br>
-_unimproved: urban_: urban: 1.1% of population<br>
-_unimproved: rural_: rural: 1% of population<br>
-_unimproved: total_: total: 1.1% of population (2020 est.)<br>
+_improved: urban_: urban: 98% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 98.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 2% of population (2022 est.)<br>
+_unimproved: total_: total: 1.6% of population (2022 est.)<br>
 <strong>note:</strong> includes Gaza Strip and the West Bank<br>
 
 **Health expenditure**<br>
@@ -179,13 +174,13 @@ _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 1.3 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: 98.6% of population<br>
-_improved: total_: total: 99.6% of population<br>
-_unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: 1.4% of population<br>
-_unimproved: total_: total: 0.4% of population (2020 est.)<br>
-<strong>note:</strong> note includes Gaza Strip and the West Bank<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 99% of population (2022 est.)<br>
+_improved: total_: total: 99.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1% of population (2022 est.)<br>
+_unimproved: total_: total: 0.2% of population (2022 est.)<br>
+<strong>note:</strong> includes Gaza Strip and the West Bank<br>
 
 **Children under the age of 5 years underweight**<br>
 2.1% (2019/20)<br>
@@ -238,25 +233,26 @@ _urban population_: 77.6% of total population (2023)<br>
 _rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 30.82 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 3.23 megatons (2016 est.)<br>
-<strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 3.913 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 3.913 million metric tonnes of CO2 (2023 est.)<br>
+<strong>note:</strong> includes the West Bank and the Gaza Strip<br>
+
+**Particulate matter emissions**<br>
+31.3 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1.387 million tons (2016 est.)<br>
-_municipal solid waste recycled annually_: 6,935 tons (2013 est.)<br>
-_percent of municipal solid waste recycled_: 0.5% (2013 est.)<br>
+_municipal solid waste generated annually_: 1.387 million tons (2024 est.)<br>
 <strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
 
 **Total water withdrawal**<br>
-_municipal_: 200 million cubic meters (2020 est.)<br>
-_industrial_: 30 million cubic meters (2020 est.)<br>
-_agricultural_: 220 million cubic meters (2020 est.)<br>
+_municipal_: 251 million cubic meters (2022)<br>
+_industrial_: 37 million cubic meters (2022)<br>
+_agricultural_: 158 million cubic meters (2022)<br>
 <strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
 
 **Total renewable water resources**<br>
-840 million cubic meters (2020 est.)<br>
+837 million cubic meters (2022 est.)<br>
 <strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
 
 ## Government
@@ -361,9 +357,12 @@ _highest 10%_: 27.1% (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities; entry includes West Bank and Gaza Strip<br>
 
 **Budget**<br>
-_revenues_: $3.803 billion (2020 est.)<br>
-_expenditures_: $5.002 billion (2020 est.)<br>
-<strong>note:</strong> includes Palestinian Authority expenditures in the Gaza Strip<br>
+_revenues_: $1.409 billion (2021 est.)<br>
+_expenditures_: $1.499 billion (2021 est.)<br>
+<b>note:</b> central government revenues and expenditures (excluding grants and social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+23.8% of GDP (2013 est.)<br>
 
 **Taxes and other revenues**<br>
 21.5% (of GDP) (2021 est.)<br>
@@ -443,11 +442,6 @@ _exports_: 1 metric tons (2023 est.)<br>
 _refined petroleum consumption_: 29,000 bbl/day (2023 est.)<br>
 <strong>note:</strong> includes the West Bank and the Gaza Strip<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 3.913 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 3.913 million metric tonnes of CO2 (2023 est.)<br>
-<strong>note:</strong> includes the West Bank and the Gaza Strip<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 14.991 million Btu/person (2023 est.)<br>
 <strong>note:</strong> includes the West Bank and the Gaza Strip<br>
@@ -468,7 +462,8 @@ _subscriptions per 100 inhabitants_: 78 (2021 est.)<br>
 the Palestinian Authority operates 1 TV and 1 radio station; about 20 private TV and 40 radio stations; Jordanian TV and satellite TV accessible<br>
 
 **Internet country code**<br>
-.ps; note - IANA has designated .ps for the West Bank, same as Gaza Strip<br>
+.ps<br>
+<strong>note:</strong> IANA has designated .ps for the West Bank, same as Gaza Strip<br>
 
 **Internet users**<br>
 _percent of population_: 87% (2023 est.)<br>
@@ -514,6 +509,5 @@ Al-Aqsa Martyrs Brigade; HAMAS; Palestine Islamic Jihad; Palestine Liberation Fr
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 901,000 (Palestinian refugees) (2022)<br>
-_IDPs_: 12,000 (includes persons displaced within the Gaza strip due to the intensification of the Israeli-Palestinian conflict since June 2014 and other Palestinian IDPs in the Gaza Strip and West Bank who fled as long ago as 1967, although confirmed cumulative data do not go back beyond 2006) (2022); note - data represent Gaza Strip and West Bank<br>
+_IDPs_: 2,032,011 (2024 est.)<br>
 

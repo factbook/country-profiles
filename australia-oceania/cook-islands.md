@@ -152,16 +152,13 @@ _female_: 80.6 years<br>
 **Gross reproduction rate**<br>
 0.99 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
 _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 3.2% of GDP (2020)<br>
@@ -174,12 +171,8 @@ _Health expenditure (as % of national budget)_: 11.9% of national budget (2022 e
 8.2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 99.1% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0.9% of population (2020 est.)<br>
+_improved: total_: total: 96.8% of population (2022 est.)<br>
+_unimproved: total_: total: 3.2% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 55.9% (2016)<br>
@@ -232,11 +225,12 @@ _other_: 27.1% (2022 est.)<br>
 _urban population_: 76.2% of total population (2023)<br>
 _rate of urbanization_: 0.52% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 7.8 micrograms per cubic meter (2019 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 103,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 103,000 metric tonnes of CO2 (2023 est.)<br>
 
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
+**Particulate matter emissions**<br>
+7.8 micrograms per cubic meter (2019 est.)<br>
 
 ## Government
 
@@ -318,8 +312,8 @@ ACP, ADB, AOSIS, FAO, ICAO, ICCt, ICRM, IFAD, IFRCS, IMO, IMSO, IOC, ITUC (NGOs)
 **National holiday**<br>
 Constitution Day, the first Monday in August (1965)<br>
 
-**Flag description**<br>
-blue with the UK flag in the upper hoist-side quadrant and a large circle of 15 white five-pointed stars (one for every island) centered in the outer half of the flag<br>
+**Flag**<br>
+<strong>description:</strong> blue with the UK flag in the upper-left quadrant and a large circle of 15 five-pointed white stars (one for each island) centered in the right half of the flag<br>
 
 **National symbol(s)**<br>
 a circle of 15 five-pointed white stars on a blue field, tiare maori flower (<em>Gardenia taitensis</em>)<br>
@@ -338,9 +332,9 @@ _history_: royal anthem<br>
 high-income self-governing New Zealand territorial economy; tourism-based activity but diversifying; severely curtailed by COVID-19 pandemic; copra and tropical fruit exporter; Asian Development Bank aid recipient<br>
 
 **Real GDP (purchasing power parity)**<br>
-$266 million (2022 est.)<br>
-$257 million (2021 est.)<br>
-$287 million (2020 est.)<br>
+$401.155 million (2024 est.)<br>
+$364.686 million (2023 est.)<br>
+$306.285 million (2022 est.)<br>
 <strong>note:</strong> data are in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -349,13 +343,20 @@ $287 million (2020 est.)<br>
 -5.2% (2020 est.)<br>
 
 **Real GDP per capita**<br>
-$15,600 (2022 est.)<br>
-$15,100 (2021 est.)<br>
-$16,800 (2020 est.)<br>
-<strong>note:</strong> data are in 2015 dollars<br>
+$29,800 (2024 est.)<br>
+$25,700 (2023 est.)<br>
+$19,700 (2022 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$336 million (2022 est.)<br>
+$409.077 million (2024 est.)<br>
+<strong>note:</strong> data in current dollars at official exchange rate<br>
+
+**Inflation rate (consumer prices)**<br>
+10.6% (2022 est.)<br>
+1.9% (2021 est.)<br>
+1% (2020 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
 
 **Agricultural products**<br>
 coconuts, vegetables, papayas, pork, sweet potatoes, tomatoes, fruits, mangoes/guavas, watermelons, chicken (2023)<br>
@@ -365,8 +366,8 @@ coconuts, vegetables, papayas, pork, sweet potatoes, tomatoes, fruits, mangoes/g
 fishing, fruit processing, tourism, clothing, handicrafts<br>
 
 **Budget**<br>
-_revenues_: $113.674 million (2022 est.)<br>
-_expenditures_: $129.088 million (2022 est.)<br>
+_revenues_: $113.687 million (2022 est.)<br>
+_expenditures_: $143.391 million (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Exports - partners**<br>
@@ -409,10 +410,6 @@ _imports_: 1 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 700 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 103,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 103,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

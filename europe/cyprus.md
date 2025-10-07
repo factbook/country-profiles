@@ -165,16 +165,13 @@ _female_: 83.1 years<br>
 **Gross reproduction rate**<br>
 0.73 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.7% of population<br>
-_improved: rural_: rural: 99.8% of population<br>
-_improved: total_: total: 99.8% of population<br>
-_unimproved: urban_: urban: 0.3% of population<br>
-_unimproved: rural_: rural: 0.2% of population<br>
-_unimproved: total_: total: 0.2% of population (2020 est.)<br>
+_improved: urban_: urban: 99.7% of population (2022 est.)<br>
+_improved: rural_: rural: 99.8% of population (2022 est.)<br>
+_improved: total_: total: 99.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.2% of population (2022 est.)<br>
+_unimproved: total_: total: 0.2% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 9.4% of GDP (2021)<br>
@@ -187,12 +184,12 @@ _Health expenditure (as % of national budget)_: 18.3% of national budget (2022 e
 2.2 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.7% of population<br>
-_improved: rural_: rural: 98.8% of population<br>
-_improved: total_: total: 99.4% of population<br>
-_unimproved: urban_: urban: 0.3% of population<br>
-_unimproved: rural_: rural: 1.2% of population<br>
-_unimproved: total_: total: 0.6% of population (2020 est.)<br>
+_improved: urban_: urban: 99.7% of population (2022 est.)<br>
+_improved: rural_: rural: 98.8% of population (2022 est.)<br>
+_improved: total_: total: 99.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.2% of population (2022 est.)<br>
+_unimproved: total_: total: 0.6% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 21.8% (2016)<br>
@@ -248,23 +245,25 @@ _other_: 68% (2022 est.)<br>
 _urban population_: 67% of total population (2023)<br>
 _rate of urbanization_: 0.76% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 14.52 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 6.63 megatons (2016 est.)<br>
-_methane emissions_: 0.86 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 6.837 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 100,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 6.737 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+14.5 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 541,000 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 72,007 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 13.3% (2015 est.)<br>
+_municipal solid waste generated annually_: 769,500 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 17.6% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 100 million cubic meters (2020 est.)<br>
-_industrial_: 20 million cubic meters (2020 est.)<br>
-_agricultural_: 170 million cubic meters (2020 est.)<br>
+_municipal_: 112 million cubic meters (2022)<br>
+_industrial_: 17 million cubic meters (2022 est.)<br>
+_agricultural_: 177 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-780 million cubic meters (2020 est.)<br>
+780 million cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 1<br>
@@ -357,7 +356,7 @@ _consulate(s) general_: New York<br>
 _honorary consulate(s)_: Atlanta, Chicago, Houston, Kirkland (WA), Los Angeles, New Orleans, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Julie D. FISHER (since 21 February 2023)<br>
+_chief of mission_: Ambassador Julie Davis FISHER (since 21 February 2023); note - Ambassador FISHER is temporarily assigned to the U.S. Embassy in Kyiv, Ukraine as Charg&eacute; d&rsquo; Affaires ad interim; she remains fully accredited in Cyprus<br>
 _embassy_: Metochiou and Ploutarchou Street, 2407, Engomi, Nicosia<br>
 _mailing address_: 5450 Nicosia Place, Washington DC&nbsp; 20521-5450<br>
 _telephone_: [357] (22) 393939<br>
@@ -375,9 +374,9 @@ Australia Group, C, CD, CE, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC 
 Independence Day, 1 October (1960)<br>
 <strong>note:</strong> Turkish Cypriots celebrate 15 November (1983) as "Republic Day"<br>
 
-**Flag description**<br>
-a copper-colored silhouette of the island is centered on a white field above two crossed green olive branches, which symbolize the hope for peace and reconciliation between the Greek and Turkish communities<br>
-<strong>note:</strong> one of only two national flags that uses a map as a design element; the flag of Kosovo is the other <br><br><strong>note:</strong> the "Turkish Republic of Northern Cyprus" flag retains the white field of the Cyprus national flag but displays narrow horizontal red stripes positioned a small distance from the top and bottom edges, with a red crescent and a red five-pointed star between them; the banner is modeled after the Turkish national flag, but with the colors reversed<br>
+**Flag**<br>
+<strong>description:</strong> a copper-colored silhouette of the island is centered on a white field above two crossed green olive branches<br><br><strong>meaning:</strong> the olive branches symbolize hope for peace and reconciliation between the Greek and Turkish communities<br>
+<strong>note 1:</strong> one of two national flags that uses a map as a design element; the flag of Kosovo is the other <br><br><strong>note 2:</strong> the "Turkish Republic of Northern Cyprus" flag retains the white field of the Cyprus national flag but has narrow horizontal red stripes near the top and bottom edges, with a red crescent and a five-pointed red star between them; the banner is modeled on the Turkish national flag, but with the colors reversed<br>
 
 **National symbol(s)**<br>
 Cypriot mouflon (wild sheep), white dove<br>
@@ -386,7 +385,7 @@ Cypriot mouflon (wild sheep), white dove<br>
 blue, white<br>
 
 **National anthem(s)**<br>
-_title_: "Ymnos eis tin Eleftherian" (Hymn to Liberty)<br>
+_title_: "Ymnos eis tin Eleftherian" (Hymn to Freedom)<br>
 _lyrics/music_: Dionysios SOLOMOS/Nikolaos MANTZAROS<br>
 _history_: adopted 1966; Cyprus uses the Greek national anthem; the Turkish Cypriot community in Cyprus uses Turkey's national anthem<br>
 
@@ -491,9 +490,9 @@ _highest 10%_: 26.2% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $11.644 billion (2022 est.)<br>
-_expenditures_: $10.765 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $14.39 billion (2023 est.)<br>
+_expenditures_: $13.733 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 97.5% of GDP (2017 est.)<br>
@@ -574,11 +573,6 @@ _imports_: 22,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 45,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 6.837 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 100,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 6.737 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 107.188 million Btu/person (2023 est.)<br>
@@ -664,8 +658,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,869 (Syria) (mid-year 2022); 17,270 (Ukraine) (as of 11 February 2024)<br>
-_IDPs_: 246,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2022)<br>
-_stateless persons_: 74 (2022)<br>
-<strong>note:</strong> 55,098 estimated refugee and migrant arrivals (January 2015-August 2023)<br>
+_refugees_: 73,303 (2024 est.)<br>
+_IDPs_: 244,944 (2024 est.)<br>
+_stateless persons_: 130 (2024 est.)<br>
 

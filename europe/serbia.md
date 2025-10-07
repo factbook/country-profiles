@@ -169,16 +169,13 @@ _female_: 78.1 years<br>
 **Gross reproduction rate**<br>
 0.71 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-62.3% (2019)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.7% of population<br>
-_improved: rural_: rural: 99.4% of population<br>
-_improved: total_: total: 99.5% of population<br>
-_unimproved: urban_: urban: 0.3% of population<br>
-_unimproved: rural_: rural: 0.6% of population<br>
-_unimproved: total_: total: 0.5% of population (2020 est.)<br>
+_improved: urban_: urban: 95.4% of population (2022 est.)<br>
+_improved: rural_: rural: 96.1% of population (2022 est.)<br>
+_improved: total_: total: 95.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 4.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 3.9% of population (2022 est.)<br>
+_unimproved: total_: total: 4.3% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 10% of GDP (2021)<br>
@@ -191,12 +188,12 @@ _Health expenditure (as % of national budget)_: 13.7% of national budget (2022 e
 5.4 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.6% of population<br>
-_improved: rural_: rural: 95.7% of population<br>
-_improved: total_: total: 97.9% of population<br>
-_unimproved: urban_: urban: 0.4% of population<br>
-_unimproved: rural_: rural: 4.3% of population<br>
-_unimproved: total_: total: 2.1% of population (2020 est.)<br>
+_improved: urban_: urban: 99.7% of population (2022 est.)<br>
+_improved: rural_: rural: 95.6% of population (2022 est.)<br>
+_improved: total_: total: 97.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 4.4% of population (2022 est.)<br>
+_unimproved: total_: total: 2.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 21.5% (2016)<br>
@@ -262,23 +259,27 @@ _urban population_: 57.1% of total population (2023)<br>
 _rate of urbanization_: 0.04% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Kosovo<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 21.74 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 45.22 megatons (2016 est.)<br>
-_methane emissions_: 11.96 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 44.782 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 27.743 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 11.665 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 5.374 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+21.7 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1.84 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 13,984 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 0.8% (2015 est.)<br>
+_municipal solid waste generated annually_: 2.347 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 1% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 680 million cubic meters (2020 est.)<br>
-_industrial_: 3.99 billion cubic meters (2020 est.)<br>
-_agricultural_: 660 million cubic meters (2020 est.)<br>
+_municipal_: 702 million cubic meters (2022)<br>
+_industrial_: 3.967 billion cubic meters (2022)<br>
+_agricultural_: 422 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-162.2 billion cubic meters (2020 est.) (note - includes Kosovo)<br>
+162.2 billion cubic meters (2022 est.)<br>
+<strong>note:</strong> data includes Kosovo<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 1<br>
@@ -382,8 +383,8 @@ BIS, BSEC, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, G-9, IAEA, IBRD
 **National holiday**<br>
 Statehood Day, 15 February (1835), the day the first constitution of the country was adopted<br>
 
-**Flag description**<br>
-three equal horizontal stripes of red (top), blue, and white, which are the pan-Slav colors representing freedom and revolutionary ideals; the national coat of arms is shifted slightly to the hoist side; the principal field of the coat of arms represents the government and displays a two-headed white eagle on a red shield; a smaller red shield on the eagle represents the nation and is divided into four quarters by a white cross; the meaning and origin of the curved white symbols in each quarter are not clear; a royal crown is on top of the coat of arms<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal stripes of red (top), blue, and white; the national coat of arms is shifted to the left side; the principal field of the coat of arms displays a two-headed white eagle on a red shield; a smaller red shield on the eagle is divided into four quarters by a white cross; a royal crown is on top of the coat of arms<br><br><strong>meaning:</strong> red, blue, and white are the pan-Slav colors that represent freedom and revolutionary ideals; the eagle on a red shield represents the government; the smaller shield represents the country; the meaning and origin of the curved white symbols in each quarter are not clear<br>
 <strong>note:</strong> the pan-Slav colors were inspired by Russia's flag<br>
 
 **National symbol(s)**<br>
@@ -501,8 +502,11 @@ _highest 10%_: 24.7% (2022 est.)<br>
 
 **Budget**<br>
 _revenues_: $26.077 billion (2022 est.)<br>
-_expenditures_: $23.693 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_expenditures_: $28.12 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+73.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 23.9% (of GDP) (2022 est.)<br>
@@ -597,12 +601,6 @@ _consumption_: 2.886 billion cubic meters (2023 est.)<br>
 _imports_: 2.471 billion cubic meters (2023 est.)<br>
 _proven reserves_: 48.139 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 44.782 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 27.743 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 11.665 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 5.374 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 91.884 million Btu/person (2023 est.)<br>
 
@@ -664,7 +662,7 @@ the military's inventory consists of a mix of domestically produced, Russian/Sov
 <strong>note:</strong> as of 2024, women made up about 11% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-180 Lebanon (UNIFIL) (2024)<br>
+180 Lebanon (UNIFIL) (2025)<br>
 
 **Military - note**<br>
 the Serbian military is responsible for defense and deterrence against external threats, supporting international peacekeeping operations, and providing support to civil authorities for internal security; specific areas of concerns for the military include ethnic and religious extremism, separatism, and deepening international recognition of Kosovo; Serbia has cooperated with NATO since 2006, when it joined the Partnership for Peace program, and the military trains with NATO countries, particularly other Balkan states; Serbia has participated in EU peacekeeping missions, as well as missions under the Organization for Security and Cooperation in Europe and the UN; it traditionally has maintained close security ties with Russia and has a growing security relationship with China<br><br>the modern Serbian military was established in 2006 but traces its origins back through World War II, World War I, the Balkan Wars of 1912-1913, and the Bulgarian-Serb War of 1885 to the First (1804-1813) and Second (1815-1817) Uprisings against the Ottoman Empire (2025)<br>
@@ -672,11 +670,7 @@ the Serbian military is responsible for defense and deterrence against external 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,334 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2022)<br>
-_IDPs_: 196,066 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2022)<br>
-_stateless persons_: 2,594 (includes stateless persons in Kosovo) (2022)<br>
-<strong>note:</strong> 1,045,323 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — the government has devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards; therefore, Serbia was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3 and remained on Tier 2 Watch List for the third consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/serbia/<br>
+_refugees_: 36,270 (2024 est.)<br>
+_IDPs_: 194,171 (2024 est.)<br>
+_stateless persons_: 1,715 (2024 est.)<br>
 

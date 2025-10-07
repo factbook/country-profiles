@@ -152,23 +152,11 @@ _female_: 85.3 years<br>
 **Gross reproduction rate**<br>
 0.85 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 97.5% of population<br>
 _improved: total_: total: 97.5% of population<br>
-_unimproved: urban_: urban: 2.5% of population<br>
-_unimproved: total_: total: 2.5% of population (2017 est.)<br>
 
 **Physician density**<br>
 1.51 physicians/1,000 population (2018)<br>
-
-**Sanitation facility access**<br>
-_improved: urban_: urban: 99.1% of population<br>
-_improved: total_: total: 99.1% of population<br>
-_unimproved: urban_: urban: 0.9% of population<br>
-_unimproved: total_: total: 0.9% of population (2017 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 46.1% (2023 est.)<br>
@@ -271,8 +259,8 @@ none (overseas territory of the UK)<br>
 **National holiday**<br>
 Anguilla Day, 30 May (1967)<br>
 
-**Flag description**<br>
-blue, with the flag of the UK in the upper hoist-side quadrant and the Anguillan coat of arms centered in the outer half of the flag; the coat of arms depicts three orange dolphins in an interlocking circular design on a white background with a turquoise-blue field below; the white in the background represents peace, the blue base symbolizes the sea, faith, youth, and hope, and the three dolphins stand for endurance, unity, and strength<br>
+**Flag**<br>
+<strong>description:</strong> blue, with the UK flag in the upper-left quadrant and the Anguillan coat of arms centered on the outer half of the flag; the coat of arms shows three orange dolphins in an interlocking circular design on a white background, with a turquoise-blue field below<br><br><strong>meaning:</strong> the white on the coat of arms stands for peace; the blue base for the sea, faith, youth, and hope; and the three dolphins for endurance, unity, and strength<br>
 
 **National symbol(s)**<br>
 dolphin<br>
@@ -296,9 +284,21 @@ $345.238 million (2023 est.)<br>
 $336.924 million (2022 est.)<br>
 <strong>note:</strong> data in 2015 dollars<br>
 
+**Real GDP per capita**<br>
+$31,000 (2024 est.)<br>
+$28,900 (2023 est.)<br>
+$27,400 (2022 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$452.73 million (2024 est.)<br>
+<strong>note:</strong> data in current dollars at official exchange rate<br>
+
 **Inflation rate (consumer prices)**<br>
-1.3% (2017 est.)<br>
--0.6% (2016 est.)<br>
+3% (2022 est.)<br>
+1.8% (2021 est.)<br>
+-0.5% (2020 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
 
 **Agricultural products**<br>
 small quantities of tobacco, vegetables; cattle raising<br>
@@ -310,6 +310,9 @@ tourism, boat building, offshore financial services<br>
 _revenues_: $81.925 million (2017 est.)<br>
 _expenditures_: $72.352 million (2017 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+20.8% of GDP (2014 est.)<br>
 
 **Exports**<br>
 $7.9 million (2017 est.)<br>

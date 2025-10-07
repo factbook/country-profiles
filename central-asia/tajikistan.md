@@ -165,16 +165,13 @@ _female_: 73.8 years<br>
 **Gross reproduction rate**<br>
 1.73 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-29.3% (2017)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 96.5% of population<br>
-_improved: rural_: rural: 79.9% of population<br>
-_improved: total_: total: 84.4% of population<br>
-_unimproved: urban_: urban: 3.5% of population<br>
-_unimproved: rural_: rural: 20.1% of population<br>
-_unimproved: total_: total: 15.6% of population (2020 est.)<br>
+_improved: urban_: urban: 95.6% of population (2022 est.)<br>
+_improved: rural_: rural: 76.6% of population (2022 est.)<br>
+_improved: total_: total: 81.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 4.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 23.4% of population (2022 est.)<br>
+_unimproved: total_: total: 18.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 8% of GDP (2021)<br>
@@ -187,12 +184,12 @@ _Health expenditure (as % of national budget)_: 6.4% of national budget (2022 es
 4.3 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 98.9% of population<br>
-_improved: rural_: rural: 99.6% of population<br>
-_improved: total_: total: 99.4% of population<br>
-_unimproved: urban_: urban: 1.1% of population<br>
-_unimproved: rural_: rural: 0.4% of population<br>
-_unimproved: total_: total: 0.6% of population (2020 est.)<br>
+_improved: urban_: urban: 98.9% of population (2022 est.)<br>
+_improved: rural_: rural: 99.6% of population (2022 est.)<br>
+_improved: total_: total: 99.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.4% of population (2022 est.)<br>
+_unimproved: total_: total: 0.6% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 14.2% (2016)<br>
@@ -250,21 +247,26 @@ _other_: 68.9% (2022 est.)<br>
 _urban population_: 28.2% of total population (2023)<br>
 _rate of urbanization_: 2.73% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 53.65 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 5.31 megatons (2016 est.)<br>
-_methane emissions_: 4.87 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 8.616 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 4.676 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 3.855 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 86,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+53.8 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1,787,400 tons (2013 est.)<br>
+_municipal solid waste generated annually_: 1.787 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 13.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 910 million cubic meters (2020 est.)<br>
-_industrial_: 1.61 billion cubic meters (2020 est.)<br>
-_agricultural_: 7.38 billion cubic meters (2020 est.)<br>
+_municipal_: 912 million cubic meters (2022 est.)<br>
+_industrial_: 1.61 billion cubic meters (2022 est.)<br>
+_agricultural_: 7.378 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-21.91 billion cubic meters (2020 est.)<br>
+21.91 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -328,7 +330,7 @@ _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 3/2/2025<br>
-_parties elected and seats per party_: People's Democratic Party of Tajikistan (PDPT) (47); Agrarian Party of Tajikistan (APT) (7); Party of Economic Reforms of Tajikistan (PERT) (5); Other (4)<br>
+_parties elected and seats per party_: People's Democratic Party of Tajikistan (PDPT) (49); Agrarian Party of Tajikistan (APT) (7); Party of Economic Reforms of Tajikistan (PERT) (5); Other (2)<br>
 _percentage of women in chamber_: 28.6%<br>
 _expected date of next election_: March 2030<br>
 
@@ -373,8 +375,8 @@ ADB, CICA, CIS, CSTO, EAEC, EAPC, EBRD, ECO, EITI (candidate country), FAO, G-77
 **National holiday**<br>
 Independence Day (or National Day), 9 September (1991)<br>
 
-**Flag description**<br>
-three horizontal stripes of red (top), a wider stripe of white, and green; a gold crown under seven gold five-pointed stars is in the center of the white stripe; red stands for the sun, victory, and the unity of the nation, white for purity, cotton, and mountain snows, and green for Islam and nature's bounty; the crown symbolizes the Tajik people; the stars represent the number seven, which is considered a symbol of perfection and the embodiment of happiness<br>
+**Flag**<br>
+<strong>description:</strong> three horizontal stripes of red (top), a wider stripe of white, and green; a gold crown under seven five-pointed gold stars is in the center of the white stripe<br><br><strong>meaning:</strong> red stands for the sun, victory, and the unity of the nation; white for purity, cotton, and mountain snows; green for Islam and nature's bounty; the crown symbolizes the Tajik people; the stars represent the number seven, which is considered a symbol of perfection and the embodiment of happiness<br>
 
 **National symbol(s)**<br>
 arc of seven five-pointed stars over a crown, Marco Polo sheep<br>
@@ -385,7 +387,7 @@ red, white, green<br>
 **National anthem(s)**<br>
 _title_: "Surudi milli" (National Anthem)<br>
 _lyrics/music_: Gulnazar KELDI/Sulaimon YUDAKOV<br>
-_history_: adopted 1991; after the fall of the Soviet Union, Tajikistan kept the music of its Soviet-era anthem but adopted new lyrics<br>
+_history_: adopted 1994; after the fall of the Soviet Union, Tajikistan kept the music of its Soviet-era anthem, but adopted new lyrics<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (2 cultural, 2 natural)<br>
@@ -486,9 +488,12 @@ _highest 10%_: 26.4% (2015 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $2.268 billion (2022 est.)<br>
-_expenditures_: $1.145 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $2.911 billion (2023 est.)<br>
+_expenditures_: $3.036 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+42% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 10.8% (of GDP) (2023 est.)<br>
@@ -582,12 +587,6 @@ _consumption_: 43.767 million cubic meters (2023 est.)<br>
 _imports_: 24.196 million cubic meters (2023 est.)<br>
 _proven reserves_: 5.663 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 8.616 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 4.676 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 3.855 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 86,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 16.192 million Btu/person (2023 est.)<br>
 
@@ -664,9 +663,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,775 (Afghanistan) (mid-year 2021)<br>
-_stateless persons_: 4,898 (2022)<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Tajikistan was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/tajikistan/<br>
+_refugees_: 15,191 (2024 est.)<br>
+_IDPs_: 238 (2024 est.)<br>
+_stateless persons_: 4,466 (2024 est.)<br>
 

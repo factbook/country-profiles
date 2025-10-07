@@ -72,7 +72,7 @@ population concentrated in areas with good farmland; highest concentrations are 
 astride typhoon belt, usually affected by several cyclonic storms each year; landslides; active volcanoes; destructive earthquakes; tsunamis <br><br><strong>volcanism:</strong> significant volcanic activity; Taal (311 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Mayon (2,462 m), the country's most active volcano, erupted in 2009 and forced over 33,000 to be evacuated; other historically active volcanoes include Biliran, Babuyan Claro, Bulusan, Camiguin, Camiguin de Babuyanes, Didicas, Iraya, Jolo, Kanlaon, Makaturing, Musuan, Parker, Pinatubo, and Ragang; see note 2 under "Geography - note"<br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> for decades, the Philippine archipelago was reported as having 7,107 islands; in 2016, the national mapping authority reported that hundreds of new islands had been discovered and increased the number of islands to 7,641, though not all of the new islands have been verified; the country is favorably located in relation to many of Southeast Asia's main water bodies: the South China Sea, Philippine Sea, Sulu Sea, Celebes Sea, and Luzon Strait</p> <p><strong>note 2:</strong> Philippines is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> the Philippines sits on the Pacific typhoon belt, and an average of 9 typhoons make landfall on the islands each year -- with about 5 of these being destructive; the country is the most exposed in the world to tropical storms</p><br>
+<strong>note 1:</strong> for decades, the Philippine archipelago was reported as having 7,107 islands; in 2016, the national mapping authority reported that hundreds of new islands had been discovered and increased the number of islands to 7,641, though not all of the new islands have been verified<br><br><strong>note 2:</strong> the Philippines is one of the countries along the Ring of Fire, which is a belt bordering the Pacific Ocean that contains about 75% of the world's volcanoes and up to 90% of the world's earthquakes<strong><br><br>note 3:</strong> the Philippines sits on the Pacific typhoon belt, and an average of 9 typhoons make landfall on the islands each year, with about 5 being destructive; the country is the most exposed in the world to tropical storms<br>
 
 ## People and Society
 
@@ -164,16 +164,13 @@ _female_: 74.5 years<br>
 **Gross reproduction rate**<br>
 1.34 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-54.1% (2017)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.1% of population<br>
-_improved: rural_: rural: 95% of population<br>
-_improved: total_: total: 97% of population<br>
-_unimproved: urban_: urban: 0.9% of population<br>
-_unimproved: rural_: rural: 5% of population<br>
-_unimproved: total_: total: 3% of population (2020 est.)<br>
+_improved: urban_: urban: 97.8% of population (2022 est.)<br>
+_improved: rural_: rural: 92.2% of population (2022 est.)<br>
+_improved: total_: total: 94.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 2.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 7.8% of population (2022 est.)<br>
+_unimproved: total_: total: 5.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.1% of GDP (2022)<br>
@@ -186,12 +183,12 @@ _Health expenditure (as % of national budget)_: 9% of national budget (2022 est.
 1 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 96% of population<br>
-_improved: rural_: rural: 91% of population<br>
-_improved: total_: total: 93.4% of population<br>
-_unimproved: urban_: urban: 4% of population<br>
-_unimproved: rural_: rural: 9% of population<br>
-_unimproved: total_: total: 6.6% of population (2020 est.)<br>
+_improved: urban_: urban: 96.5% of population (2022 est.)<br>
+_improved: rural_: rural: 92.7% of population (2022 est.)<br>
+_improved: total_: total: 94.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 3.5% of population (2022 est.)<br>
+_unimproved: rural_: rural: 7.3% of population (2022 est.)<br>
+_unimproved: total_: total: 5.5% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 6.4% (2016)<br>
@@ -259,23 +256,32 @@ _other_: 33.1% (2022 est.)<br>
 _urban population_: 48.3% of total population (2023)<br>
 _rate of urbanization_: 2.04% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 22.45 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 122.29 megatons (2016 est.)<br>
-_methane emissions_: 51.32 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 156.228 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 88.581 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 61.597 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 6.05 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+25.4 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 230.7 kt (2022-2024 est.)<br>
+_agriculture_: 1,662.2 kt (2019-2021 est.)<br>
+_waste_: 452.7 kt (2019-2021 est.)<br>
+_other_: 39.1 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 14,631,923 tons (2016 est.)<br>
-_municipal solid waste recycled annually_: 4,096,938 tons (2014 est.)<br>
-_percent of municipal solid waste recycled_: 28% (2014 est.)<br>
+_municipal solid waste generated annually_: 14.632 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 49.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 8.16 billion cubic meters (2020 est.)<br>
-_industrial_: 9.88 billion cubic meters (2020 est.)<br>
-_agricultural_: 67.83 billion cubic meters (2020 est.)<br>
+_municipal_: 9.498 billion cubic meters (2022)<br>
+_industrial_: 13.602 billion cubic meters (2022)<br>
+_agricultural_: 67.937 billion cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-479 billion cubic meters (2020 est.)<br>
+479 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 1<br>
@@ -390,8 +396,8 @@ ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, EAS, FAO, G-24, G-77, IAEA,
 Independence Day, 12 June (1898)<br>
 <strong>note:</strong> 12 June 1898 was the date of independence from Spain; 4 July 1946 was the date of independence from the US<br>
 
-**Flag description**<br>
-two equal horizontal bands of blue (top) and red; a white equilateral triangle is based on the hoist side; the center of the triangle has a yellow sun with eight primary rays; each corner of the triangle contains a small five-pointed yellow star; blue stands for peace and justice, red for courage, and the triangle for equality; the rays represent the first eight provinces that sought independence from Spain, and the stars represent the country's three parts: Luzon, Visayas, and Mindanao; the design dates to 1897<br>
+**Flag**<br>
+<strong>description:</strong> two equal horizontal bands of blue (top) and red; a white equilateral triangle is based on the left side; the center of the triangle has a yellow sun with eight rays, each split into smaller rays; the triangle's corners each have a small five-pointed yellow star<br><br><strong>meaning:</strong> blue stands for peace and justice, red for courage, and the triangle for equality; the rays represent the first eight provinces that sought independence from Spain, and the stars represent the country's three parts: Luzon, Visayas, and Mindanao<br><br><strong>history:</strong> the design dates to 1897<br>
 <strong>note:</strong> in wartime, the flag is flown upside-down with the red band at the top<br>
 
 **National symbol(s)**<br>
@@ -405,8 +411,8 @@ the coat of arms was adopted on 3 July 1946; the three gold stars represent the 
 
 **National anthem(s)**<br>
 _title_: "Lupang Hinirang" (Chosen Land)<br>
-_lyrics/music_: Jose PALMA (revised by Felipe PADILLA de Leon)/Julian FELIPE<br>
-_history_: music adopted 1898, original Spanish lyrics adopted 1899, Filipino (Tagalog) lyrics adopted 1956; English and Filipino versions were created after the original Spanish version; today, only the Filipino lyrics are used<br>
+_lyrics/music_: collectively/Julian FELIPE<br>
+_history_: music adopted 1898 and lyrics adopted 1956; only sung in Tagalog<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 6 (3 cultural, 3 natural)<br>
@@ -511,9 +517,9 @@ _highest 10%_: 31.6% (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $65.051 billion (2022 est.)<br>
-_expenditures_: $75.238 billion (2022 est.)<br>
-<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $65.069 billion (2022 est.)<br>
+_expenditures_: $93.871 billion (2022 est.)<br>
+<b>note:</b> central government revenues and expenditures (excluding grants and social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 39.9% of GDP (2017 est.)<br>
@@ -613,12 +619,6 @@ _consumption_: 3.12 billion cubic meters (2023 est.)<br>
 _imports_: 794.289 million cubic meters (2023 est.)<br>
 _proven reserves_: 98.543 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 156.228 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 88.581 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 61.597 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 6.05 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 17.654 million Btu/person (2023 est.)<br>
 
@@ -703,10 +703,10 @@ the Armed Forces of the Philippines (AFP) are responsible for territorial defens
 ## Space
 
 **Space agency/agencies**<br>
-Philippine Space Agency (PhilSA; established 2019); Philippine Space Council (PSC; established in 2019 as an advisory body responsible for coordinating and integrating policies, programs and resources affecting space science and technology applications) (2024)<br>
+Philippine Space Agency (PhilSA; established 2019) (2025)<br>
 
 **Space program overview**<br>
-has a small and ambitious space program focused on acquiring satellites and related technologies, largely for the areas of climate studies, national security, and risk management; also prioritizing development of the country’s space expertise and industry; manufactures and operates satellites (mostly micro- and nano-sized), including remote sensing (RS) and scientific/experimental; has relations with a variety of foreign space agencies and industries, including those of China, the European Space Agency and some of its member states, Japan, Russia, and the US (2024)<br>
+has a small but ambitious space program focused on acquiring satellites and related technologies, largely for the areas of climate studies, national security, and risk management; also prioritizing development of the country’s space expertise and industry; manufactures and operates satellites (mostly micro- and nano-sized), including remote sensing and scientific/experimental; has relations with a variety of foreign space agencies and industries, including those of China, the European Space Agency and some of its member states, India, Japan, Russia, and the US (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -718,6 +718,7 @@ Abu Sayyaf Group; Communist Party of the Philippines/New People's Army (CPP/NPA)
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 102,000 (government troops fighting the Moro Islamic Liberation Front, the Abu Sayyaf Group, and the New People's Army; clan feuds; armed attacks, political violence, and communal tensions in Mindanao) (2022)<br>
-_stateless persons_: 261 (2022); note - stateless persons are descendants of Indonesian migrants<br>
+_refugees_: 2,342 (2024 est.)<br>
+_IDPs_: 1,158,643 (2024 est.)<br>
+_stateless persons_: 30 (2024 est.)<br>
 

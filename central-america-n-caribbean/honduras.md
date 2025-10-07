@@ -165,16 +165,13 @@ _female_: 76.8 years<br>
 **Gross reproduction rate**<br>
 1.15 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-69.4% (2019)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 90.7% of population<br>
-_improved: total_: total: 96.1% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 9.3% of population<br>
-_unimproved: total_: total: 3.9% of population (2020 est.)<br>
+_improved: urban_: urban: 99.2% of population (2022 est.)<br>
+_improved: rural_: rural: 90.8% of population (2022 est.)<br>
+_improved: total_: total: 95.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.8% of population (2022 est.)<br>
+_unimproved: rural_: rural: 9.2% of population (2022 est.)<br>
+_unimproved: total_: total: 4.2% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 9.2% of GDP (2021)<br>
@@ -187,12 +184,12 @@ _Health expenditure (as % of national budget)_: 14.2% of national budget (2022 e
 0.7 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 96.7% of population<br>
-_improved: rural_: rural: 87.9% of population<br>
-_improved: total_: total: 93% of population<br>
-_unimproved: urban_: urban: 3.3% of population<br>
-_unimproved: rural_: rural: 12.1% of population<br>
-_unimproved: total_: total: 7% of population (2020 est.)<br>
+_improved: urban_: urban: 96.6% of population (2022 est.)<br>
+_improved: rural_: rural: 88.1% of population (2022 est.)<br>
+_improved: total_: total: 93.2% of population (2022 est.)<br>
+_unimproved: urban_: urban: 3.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 11.9% of population (2022 est.)<br>
+_unimproved: total_: total: 6.8% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 21.4% (2016)<br>
@@ -258,21 +255,25 @@ _other_: 11.6% (2022 est.)<br>
 _urban population_: 60.2% of total population (2023)<br>
 _rate of urbanization_: 2.48% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 18.93 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 9.81 megatons (2016 est.)<br>
-_methane emissions_: 7.72 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 10.534 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 324,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 10.21 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+19.1 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2,162,028 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 2.162 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 10.3% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 320 million cubic meters (2020 est.)<br>
-_industrial_: 111 million cubic meters (2020 est.)<br>
-_agricultural_: 1.18 billion cubic meters (2020 est.)<br>
+_municipal_: 315 million cubic meters (2022 est.)<br>
+_industrial_: 114 million cubic meters (2022 est.)<br>
+_agricultural_: 1.178 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-92.16 billion cubic meters (2020 est.)<br>
+92.164 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -355,7 +356,7 @@ _email address and website_: <br>info@wadchn.com<br><br>https://hondurasembusa.o
 _consulate(s) general_: Atlanta, Boston, Charlotte (NC), Chicago, Dallas, Houston, Los Angeles, McAllen (TX), Miami, New Orleans, New York, San Francisco, Seattle<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Roy PERRIN (since April 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Colleen Anne HOEY (since 23 June 2025)<br>
 _embassy_: Avenida La Paz, Tegucigalpa M.D.C.<br>
 _mailing address_: 3480 Tegucigalpa Place, Washington DC&nbsp; 20521-3480<br>
 _telephone_: [504] 2236-9320,<br>
@@ -371,9 +372,9 @@ ACS, BCIE, CACM, CD, CELAC, EITI (candidate country), FAO, G-11, G-77, IADB, IAE
 **National holiday**<br>
 Independence Day, 15 September (1821)<br>
 
-**Flag description**<br>
-three equal horizontal bands of cerulean blue (top), white, and cerulean blue, with five cerulean five-pointed stars arranged in an X pattern and centered in the white band; the stars represent the members of the former Federal Republic of Central America: Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; the blue bands stand for the Pacific Ocean and the Caribbean Sea, and the white band for the land and the peace and prosperity of its people<br>
-<strong>note:</strong> similar to the flag of El Salvador, which features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL; also similar to the flag of Nicaragua, which features a triangle encircled by the words REPUBLICA DE NICARAGUA on top and AMERICA CENTRAL on the bottom<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of cerulean blue (top), white, and cerulean blue, with five five-pointed cerulean stars arranged in an "X" pattern and centered in the white band<br><br><strong>meaning:</strong> the stars represent the members of the former Federal Republic of Central America: Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; blue stands for the Pacific Ocean and the Caribbean Sea, and white for the land and the people's peace and prosperity<br>
+<strong>note:</strong> similar to the flag of El Salvador, which has a round emblem surrounded by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL; also similar to the flag of Nicaragua, which has a triangle with the words REPUBLICA DE NICARAGUA above and AMERICA CENTRAL below<br>
 
 **National symbol(s)**<br>
 scarlet macaw, white-tailed deer<br>
@@ -490,8 +491,11 @@ _highest 10%_: 33% (2023 est.)<br>
 
 **Budget**<br>
 _revenues_: $5.333 billion (2020 est.)<br>
-_expenditures_: $5.696 billion (2020 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_expenditures_: $6.391 billion (2020 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+38.5% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 15.1% (of GDP) (2020 est.)<br>
@@ -579,11 +583,6 @@ _imports_: 148,000 metric tons (2023 est.)<br>
 _total petroleum production_: 20 bbl/day (2023 est.)<br>
 _refined petroleum consumption_: 71,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 10.534 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 324,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 10.21 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 16.642 million Btu/person (2023 est.)<br>
 
@@ -668,7 +667,8 @@ the Honduran Armed Forces (FFAA) are responsible for maintaining the country’s
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 247,000 (violence, extortion, threats, forced recruitment by urban gangs between 2004 and 2018) (2023)<br>
+_refugees_: 341 (2024 est.)<br>
+_IDPs_: 100,637 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>

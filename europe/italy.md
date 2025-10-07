@@ -163,13 +163,9 @@ _female_: 85.5 years<br>
 **Gross reproduction rate**<br>
 0.61 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-65.1% (2013)<br>
-<strong>note:</strong> percent of women aged 18-49<br>
-
 **Drinking water source**<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
+_improved: total_: total: 99.9% of population (2022 est.)<br>
+_unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 9% of GDP (2022)<br>
@@ -182,12 +178,12 @@ _Health expenditure (as % of national budget)_: 11.8% of national budget (2022 e
 3.2 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 19.9% (2016)<br>
@@ -245,22 +241,32 @@ _other_: 23.3% (2022 est.)<br>
 _urban population_: 72% of total population (2023)<br>
 _rate of urbanization_: 0.27% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 14.22 micrograms per cubic meter (2019 est.)<br>
-_methane emissions_: 41.3 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 307.442 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 26.15 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 162.688 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 118.604 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+12.3 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 276.4 kt (2022-2024 est.)<br>
+_agriculture_: 764.9 kt (2019-2021 est.)<br>
+_waste_: 523.4 kt (2019-2021 est.)<br>
+_other_: 35.3 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 29.524 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 7,646,716 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 25.9% (2015 est.)<br>
+_municipal solid waste generated annually_: 30.088 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 39.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 9.19 billion cubic meters (2020 est.)<br>
-_industrial_: 7.7 billion cubic meters (2020 est.)<br>
-_agricultural_: 17 billion cubic meters (2020 est.)<br>
+_municipal_: 9.148 billion cubic meters (2022)<br>
+_industrial_: 7.7 billion cubic meters (2022 est.)<br>
+_agricultural_: 17 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-191.3 billion cubic meters (2020 est.)<br>
+191.3 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 12 (2025)<br>
@@ -352,7 +358,7 @@ _subordinate courts_: various lower civil and criminal courts (primary and secon
 Action-Italia Viva <br>Associative Movement of Italians Abroad or MAIE <br>Brothers of Italy or FdI <br>Democratic Party or PD <br>Five Star Movement or M5S <br>Forza Italia or FI <br>Free and Equal (Liberi e Uguali) or LeU <br>Greens and Left Alliance or AVS <br>Italexit <br>League or Lega <br>More Europe or +EU <br>Popular Union or PU <br>South calls North or ScN <br>South Tyrolean Peoples Party or SVP <br>other minor parties<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador-designate Marco PERONACI; Charg&eacute; d&rsquo;Affaires Alessandro GONZALES (since 4 July 2025)<br>
+_chief of mission_: Ambassador Marco PERONACI (since 5 September 2025)<br>
 _chancery_: 3000 Whitehaven Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 612-4400<br>
 _FAX_: [1] (202) 518-2154<br>
@@ -379,8 +385,8 @@ ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), 
 **National holiday**<br>
 Republic Day, 2 June (1946)<br>
 
-**Flag description**<br>
-three equal vertical bands of green (hoist side), white, and red; design inspired by the French flag that Napoleon brought to Italy in 1797; colors are those of Milan (red and white) combined with the green uniform color of the Milanese civic guard<br>
+**Flag**<br>
+<strong>description:</strong> three equal vertical bands of green (left side), white, and red<br><br><strong>meaning:</strong> colors are those of Milan (red and white) combined with the green uniform color of the Milanese civic guard<br><br><strong>history:</strong> design inspired by the French flag that Napoleon brought to Italy in 1797<br>
 <strong>note:</strong> similar to the flags of Mexico (longer, darker shades of green and red, and has its coat of arms centered on the white band), Ireland (longer and with orange instead of red), and Cote d'Ivoire (colors reversed)<br>
 
 **National symbol(s)**<br>
@@ -389,10 +395,13 @@ five-pointed white star (Stella d'Italia)<br>
 **National color(s)**<br>
 red, white, green<br>
 
+**National coat of arms**<br>
+this coat of arms has been a symbol of the Italian Republic since May 5, 1948, when Paolo Paschetto&rsquo;s design won a two-year public competition; the olive branch symbolizes national and global peace; the oak branch stands for the strength and the dignity of the Italian people, and the steel cog-wheel for their hard work; the single star represents Italy&rsquo;s solidarity<br>
+
 **National anthem(s)**<br>
 _title_: "Il Canto degli Italiani" (The Song of the Italians)<br>
 _lyrics/music_: Goffredo MAMELI/Michele NOVARO<br>
-_history_: adopted 1946; the anthem, originally written in 1847, is also known as "L'Inno di Mameli" (Mameli's Hymn), and "Fratelli d'Italia" (Brothers of Italy)<br>
+_history_: adopted 2005; the anthem, originally written in 1847, is also known as "L'Inno di Mameli" (Mameli's Hymn), and "Fratelli d'Italia" (Brothers of Italy)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 60 (54 cultural, 6 natural)<br>
@@ -497,9 +506,9 @@ _highest 10%_: 25.3% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $857.336 billion (2022 est.)<br>
-_expenditures_: $1.015 trillion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $935.038 billion (2023 est.)<br>
+_expenditures_: $1.104 trillion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 131.8% of GDP (2017 est.)<br>
@@ -599,12 +608,6 @@ _exports_: 2.609 billion cubic meters (2023 est.)<br>
 _imports_: 61.851 billion cubic meters (2023 est.)<br>
 _proven reserves_: 45.76 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 307.442 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 26.15 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 162.688 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 118.604 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 96.797 million Btu/person (2023 est.)<br>
 
@@ -667,14 +670,14 @@ Italian Armed Forces (Forze Armate Italiane): Army (Esercito Italiano, EI), Navy
 <strong>note 1:</strong> the National (or State) Police and Carabinieri (gendarmerie or military police) maintain internal security; the National Police reports to the Ministry of Interior while the Carabinieri reports to the Ministry of Defense but is also under the coordination of the Ministry of Interior; the Carabinieri is primarily a domestic police force organized along military lines, with some overseas responsibilities<br><br><strong>note 2:</strong> the Financial Guard (Guardia di Finanza) under the Ministry of Economy and Finance is a force with military status and nationwide remit for financial crime investigations, including narcotics trafficking, smuggling, and illegal immigration<br>
 
 **Military expenditures**<br>
+2% of GDP (2025 est.)<br>
 1.5% of GDP (2024 est.)<br>
-1.5% of GDP (2023)<br>
-1.5% of GDP (2022)<br>
-1.5% of GDP (2021)<br>
-1.6% of GDP (2020)<br>
+1.5% of GDP (2023 est.)<br>
+1.5% of GDP (2022 est.)<br>
+1.5% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 170,000 active Armed Forces (100,000 Army; 30,000 Navy; 40,000 Air Force); approximately 108,000 Carabinieri (2024)<br>
+approximately 170,000 active-duty military personnel; approximately 105,000 Carabinieri (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a mix of domestically manufactured, imported, and jointly produced weapons systems, mostly from Europe and the US; in recent years, the US has been the lead supplier of military hardware to Italy; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in aircraft, armored vehicles, and naval vessels; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2024)<br>
@@ -693,13 +696,13 @@ the Italian military is responsible for Italy’s national defense and security 
 ## Space
 
 **Space agency/agencies**<br>
-Italian Space Agency (L&rsquo;Agenzia Spaziale Italiana or ASI; established 1988); Joint Space Operations Command (Comando Interforze delle Operazioni Spaziali or COS; established 2020) (2024)<br>
+Italian Space Agency (L&rsquo;Agenzia Spaziale Italiana or ASI; established 1988) (2025)<br>
 
 **Space launch site(s)**<br>
-the Broglio (aka San Marco, Malindi) Space Center, located near Malindi, Kenya, served from 1967 to 1988 as an Italian and international satellite launch facility; in 2020, Kenya concluded a new deal with Italy to conduct rocket launches from the site again in the future; in 2018, the Italian Government designated the Taranto-Grottaglie Airport as a future spaceport and signed framework agreements with commercial space companies that could lead to suborbital and orbital launches from what would be called the Grottaglie Spaceport (2024)<br>
+the Broglio (aka San Marco, Malindi) Space Center, located near Malindi, Kenya, served from 1967 to 1988 as an Italian and international satellite launch facility; in 2020, Italy concluded a deal with Kenya to conduct rocket launches from the site again in the future; the Italian Space Agency has utilized the site as a satellite ground station since 2004<br><br>the Italian Government has designated the Taranto-Grottaglie Airport as a future spaceport and signed framework agreements with commercial space companies that could lead to suborbital and orbital launches from what would be called the Grottaglie Spaceport (2025)<br>
 
 **Space program overview**<br>
-has one of the largest space programs in Europe; is a key member of the European Space Agency (ESA) and one of its largest contributors; designs, builds, launches, and operates communications, remote sensing (RS), and scientific satellites; designs and manufacturers sounding (research) rockets and orbital satellite launch vehicles (SLVs); hosts the ESA Center for Earth Observation; has astronaut cadre in the ESA astronaut corps; researches, develops, and builds a range of other space-related technologies and participates in a wide array of international programs with astronauts, cargo containers, construction, expertise, modules, scientific experiments, and technology; outside of the ESA/EU and their individual member states, has cooperated with a variety of foreign space agencies and industries, including those of Argentina, Brazil, Canada, China, Israel, Japan, Kenya, Mexico, Russia, South Korea, Thailand, the UAE, and the US; participates in international space projects such as the International Space Station (ISS); has a considerable commercial space industrial sector encompassing a wide range of capabilities, including manufacturing satellites, satellite payloads, launch vehicles, propulsion systems, cargo containers, and their sub-components (2024)<br>
+is a key member of the European Space Agency (ESA) and one of its largest contributors; designs, builds, launches, and operates communications, remote sensing (RS), and scientific satellites; designs and manufacturers probes, rockets, and orbital satellite launch vehicles (SLVs); researches, develops, and builds a range of other space-related technologies and participates in a wide array of international programs with astronauts, cargo containers, construction, expertise, modules, scientific experiments, and technology; hosts the ESA Center for Earth Observation; has astronaut cadre in the ESA astronaut corps; outside of the ESA/EU and their individual member states, has cooperated with a variety of foreign space agencies and industries, including those of Argentina, Brazil, Canada, China, Israel, Japan, Kenya, Mexico, Russia, South Korea, Thailand, the UAE, and the US; participates in international space projects such as the International Space Station (ISS); has a considerable commercial space industrial sector encompassing a wide range of capabilities, including manufacturing satellites, satellite payloads, launch vehicles, propulsion systems, cargo containers, and their sub-components (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -711,7 +714,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 169,165 (Ukraine) (as of 23 February 2024)<br>
-_stateless persons_: 3,000 (2022)<br>
-<strong>note:</strong> 861,413 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
+_refugees_: 520,127 (2024 est.)<br>
+_stateless persons_: 3,000 (2024 est.)<br>
 

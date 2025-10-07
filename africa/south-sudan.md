@@ -159,16 +159,13 @@ _female_: 62.2 years<br>
 **Gross reproduction rate**<br>
 2.48 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 88.7% of population<br>
-_improved: rural_: rural: 75.8% of population<br>
-_improved: total_: total: 78.4% of population<br>
-_unimproved: urban_: urban: 11.3% of population<br>
-_unimproved: rural_: rural: 24.2% of population<br>
-_unimproved: total_: total: 21.6% of population (2020 est.)<br>
+_improved: urban_: urban: 70% of population (2022 est.)<br>
+_improved: rural_: rural: 33.6% of population (2022 est.)<br>
+_improved: total_: total: 41.2% of population (2022 est.)<br>
+_unimproved: urban_: urban: 30% of population (2022 est.)<br>
+_unimproved: rural_: rural: 66.4% of population (2022 est.)<br>
+_unimproved: total_: total: 58.8% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.9% of GDP (2021)<br>
@@ -178,12 +175,12 @@ _Health expenditure (as % of national budget)_: 2.1% of national budget (2022 es
 0.04 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 60.6% of population<br>
-_improved: rural_: rural: 15.5% of population<br>
-_improved: total_: total: 24.6% of population<br>
-_unimproved: urban_: urban: 39.4% of population<br>
-_unimproved: rural_: rural: 84.5% of population<br>
-_unimproved: total_: total: 75.4% of population (2020 est.)<br>
+_improved: urban_: urban: 60.6% of population (2022 est.)<br>
+_improved: rural_: rural: 15.5% of population (2022 est.)<br>
+_improved: total_: total: 24.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 39.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 84.5% of population (2022 est.)<br>
+_unimproved: total_: total: 75.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 6.6% (2014)<br>
@@ -219,21 +216,29 @@ _other_: 44% (2022 est.)<br>
 _urban population_: 21.2% of total population (2023)<br>
 _rate of urbanization_: 4.12% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 20.18 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 1.73 megatons (2016 est.)<br>
-_methane emissions_: 7.61 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 1.725 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.725 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+20.6 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 59.4 kt (2022-2024 est.)<br>
+_agriculture_: 696 kt (2019-2021 est.)<br>
+_waste_: 120.2 kt (2019-2021 est.)<br>
+_other_: 12.7 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2,680,681 tons (2013 est.)<br>
+_municipal solid waste generated annually_: 2.681 million tons (2024 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 190 million cubic meters (2020 est.)<br>
-_industrial_: 230 million cubic meters (2020 est.)<br>
-_agricultural_: 240 million cubic meters (2020 est.)<br>
+_municipal_: 193 million cubic meters (2022 est.)<br>
+_industrial_: 225 million cubic meters (2022 est.)<br>
+_agricultural_: 240 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-49.5 billion cubic meters (2020 est.)<br>
+49.5 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -330,9 +335,9 @@ AU, EAC, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, Interpol,
 **National holiday**<br>
 Independence Day, 9 July (2011)<br>
 
-**Flag description**<br>
-three equal horizontal bands of black (top), red, and green; the red band is edged in white; a blue isosceles triangle based on the hoist side has a gold, five-pointed star; black stands for the people, red for the blood shed in the struggle for freedom, green for the land, and blue for the Nile; the gold star represents the unity of the country's states<br>
-<strong>note:</strong> resembles the flag of Kenya; South Sudan has one of two national flags that display six colors as part of the primary design -- the other is South Africa's<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of black (top), red, and green; the red band is edged in white; a five-pointed gold star is in the middle of a blue isosceles triangle based on the left side<br><br><strong>meaning: </strong>black stands for the people, red for the blood shed in the struggle for freedom, green for the land, and blue for the Nile; the gold star represents the unity of the country's states<br>
+<strong>note 1:</strong> similar to the flag of Kenya<br><br><strong>note 2:</strong> South Sudan has one of two national flags that display six colors as part of the primary design -- the other is South Africa's<br>
 
 **National symbol(s)**<br>
 African fish eagle<br>
@@ -342,7 +347,7 @@ red, green, blue, yellow, black, white<br>
 
 **National anthem(s)**<br>
 _title_: "South Sudan Oyee!" (South Sudan, Hooray!)<br>
-_lyrics/music_: collective of 49 poets/Juba University students and teachers<br>
+_lyrics/music_: collective/Mido SAMUEL and Juba University students&nbsp;<br>
 _history_: adopted 2011; anthem selected in a national contest<br>
 
 ## Economy
@@ -351,10 +356,10 @@ _history_: adopted 2011; anthem selected in a national contest<br>
 low-income, oil-based Sahelian economy; extreme poverty and food insecurity; COVID-19 and ongoing violence threaten socioeconomic potential; environmentally fragile; ongoing land and property rights issues; natural resource rich but lacks infrastructure<br>
 
 **Real GDP (purchasing power parity)**<br>
-$20.01 billion (2017 est.)<br>
-$21.1 billion (2016 est.)<br>
-$24.52 billion (2015 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$6.752 billion (2023 est.)<br>
+$6.585 billion (2022 est.)<br>
+$6.945 billion (2021 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
 -5.2% (2017 est.)<br>
@@ -363,13 +368,13 @@ $24.52 billion (2015 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$1,600 (2017 est.)<br>
-$1,700 (2016 est.)<br>
-$2,100 (2015 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$400 (2023 est.)<br>
+$400 (2022 est.)<br>
+$400 (2021 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$11.998 billion (2015 est.)<br>
+$4.629 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -419,7 +424,7 @@ _female_: 17.6% (2023 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8% (2016 est.)<br>
 _highest 10%_: 33% (2016 est.)<br>
-% share of income accruing to lowest and highest 10% of population<br>
+<strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 9.5% of GDP (2015 est.)<br>
@@ -428,8 +433,12 @@ _highest 10%_: 33% (2016 est.)<br>
 <strong>note:</strong> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $1.94 billion (2019 est.)<br>
-_expenditures_: $1.938 billion (2019 est.)<br>
+_revenues_: $2.513 billion (2023 est.)<br>
+_expenditures_: $1.984 billion (2023 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+86.6% of GDP (2016 est.)<br>
 
 **Current account balance**<br>
 $577.9 million (2023 est.)<br>
@@ -503,10 +512,6 @@ _total petroleum production_: 146,000 bbl/day (2023 est.)<br>
 _refined petroleum consumption_: 11,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 3.75 billion barrels (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 1.725 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 1.725 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 2.092 million Btu/person (2023 est.)<br>
 
@@ -577,10 +582,10 @@ the South Sudan People's Defense Forces (SSPDF) are largely focused on border an
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 564,738 (Sudan) (refugees since 15 April 2023), 13,833 (Democratic Republic of the Congo) (2024)<br>
-_IDPs_: 2.258 million (alleged coup attempt and ethnic conflict beginning in December 2013; information is lacking on those displaced in earlier years by: fighting in Abyei between the Sudanese Armed Forces and the Sudan People's Liberation Army (SPLA) in May 2011; clashes between the SPLA and dissident militia groups in South Sudan; inter-ethnic conflicts over resources and cattle; attacks from the Lord's Resistance Army; floods and drought) (2023)<br>
-_stateless persons_: 10,000 (2022)<br>
+_refugees_: 517,471 (2024 est.)<br>
+_IDPs_: 1,359,795 (2024 est.)<br>
+_stateless persons_: 18,000 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 — South Sudan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, South Sudan remains on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/south-sudan/<br>
+_tier rating_: Tier 3 — South Sudan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, South Sudan remained on Tier 3; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/south-sudan/<br>
 

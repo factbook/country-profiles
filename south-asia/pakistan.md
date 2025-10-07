@@ -103,7 +103,7 @@ _major-language sample(s)_: <br>دنیا کا قاموس، ایک لازمی ز�
 <strong>note:</strong> data represent population by mother tongue; English (official; lingua franca of Pakistani elite and most government ministries)<br>
 
 **Religions**<br>
-Muslim (official) 96.5% (Sunni 85-90%, Shia 10-15%), other (includes Christian and Hindu) 3.5% (2020 est.)<br>
+Islam (official) 96.5% (Sunni 85-90%, Shia 10-15%), other (includes Christian and Hindu) 3.5% (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 34.4% (male 44,330,669/female 42,529,007)<br>
@@ -173,16 +173,13 @@ _female_: 72.5 years<br>
 **Gross reproduction rate**<br>
 1.62 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-34% (2018/19)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 96.5% of population<br>
-_improved: rural_: rural: 92.5% of population<br>
-_improved: total_: total: 94% of population<br>
-_unimproved: urban_: urban: 3.5% of population<br>
-_unimproved: rural_: rural: 7.5% of population<br>
-_unimproved: total_: total: 6% of population (2020 est.)<br>
+_improved: urban_: urban: 92.9% of population (2022 est.)<br>
+_improved: rural_: rural: 89.3% of population (2022 est.)<br>
+_improved: total_: total: 90.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 7.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 10.7% of population (2022 est.)<br>
+_unimproved: total_: total: 9.4% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 2.9% of GDP (2021)<br>
@@ -195,12 +192,12 @@ _Health expenditure (as % of national budget)_: 5.6% of national budget (2022 es
 0.5 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 88.6% of population<br>
-_improved: rural_: rural: 73.2% of population<br>
-_improved: total_: total: 78.9% of population<br>
-_unimproved: urban_: urban: 11.4% of population<br>
-_unimproved: rural_: rural: 26.8% of population<br>
-_unimproved: total_: total: 21.1% of population (2020 est.)<br>
+_improved: urban_: urban: 90.5% of population (2022 est.)<br>
+_improved: rural_: rural: 76.1% of population (2022 est.)<br>
+_improved: total_: total: 81.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 9.5% of population (2022 est.)<br>
+_unimproved: rural_: rural: 23.9% of population (2022 est.)<br>
+_unimproved: total_: total: 18.5% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 8.6% (2016)<br>
@@ -266,23 +263,32 @@ _other_: 48.6% (2022 est.)<br>
 _urban population_: 38% of total population (2023)<br>
 _rate of urbanization_: 2.1% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 50.13 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 201.15 megatons (2016 est.)<br>
-_methane emissions_: 142.12 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 212.655 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 59.937 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 93.713 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 59.006 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+50.1 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 1,625.2 kt (2022-2024 est.)<br>
+_agriculture_: 5,381.3 kt (2019-2021 est.)<br>
+_waste_: 700.4 kt (2019-2021 est.)<br>
+_other_: 128.7 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 30.76 million tons (2017 est.)<br>
-_municipal solid waste recycled annually_: 2,460,800 tons (2017 est.)<br>
-_percent of municipal solid waste recycled_: 8% (2017 est.)<br>
+_municipal solid waste generated annually_: 30.76 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 13.8% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 9.65 billion cubic meters (2020 est.)<br>
-_industrial_: 1.4 billion cubic meters (2020 est.)<br>
-_agricultural_: 172.4 billion cubic meters (2020 est.)<br>
+_municipal_: 9.65 billion cubic meters (2022 est.)<br>
+_industrial_: 1.4 billion cubic meters (2022 est.)<br>
+_agricultural_: 172.4 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-246.8 billion cubic meters (2020 est.)<br>
+246.8 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -328,11 +334,11 @@ _residency requirement for naturalization_: 4 out of the previous 7 years and in
 
 **Executive branch**<br>
 _chief of state_: President Asif Ali ZARDARI (since 10 March 2024)<br>
-_head of government_: Prime Minister Shahbaz SHARIF (since 3 March 2024)<br>
+_head of government_: Prime Minister Muhammad Shehbaz SHARIF (since 3 March 2024)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
-_election/appointment process_: president indirectly elected for a 5-year term (limited to 2 consecutive terms) by the Electoral College, which consists of members of the Senate, National Assembly, and provincial assemblies<br>
+_election/appointment process_: president indirectly elected for a 5-year term (limited to 2 consecutive terms) by the Electoral College, which consists of members of the Senate, National Assembly, and provincial assemblies; prime minister elected for a 5-year term by the National Assembly<br>
 _most recent election date_: 9 March 2024<br>
-_election results_: <em><br>2024:</em> Asif Ali ZARDARI elected president; National Assembly vote - Asif Ali ZARDARI (PPP) 411 votes, Mehmood Khan ACHAKZALI (PMAP) 181 votes; Shahbaz SHARIF elected prime minister; National Assembly vote - Shahbaz SHARIF (PML-N) 201, Omar AYUB (PTI) 92<br><br><em>2018:</em> Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96<br>
+_election results_: <em><br>2024:</em> Asif Ali ZARDARI elected president; National Assembly vote - Asif Ali ZARDARI (PPP) 411 votes, Mehmood Khan ACHAKZALI (PMAP) 181 votes; Shehbaz SHARIF elected prime minister; National Assembly vote - Shehbaz SHARIF (PML-N) 201, Omar AYUB (PTI) 92<br><br><em>2018:</em> Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96<br>
 _expected date of next election_: 2029<br>
 
 **Legislative branch**<br>
@@ -393,11 +399,11 @@ ADB, AIIB, ARF, ASEAN (sectoral dialogue partner), C, CERN (associate member), C
 14 August 1947 (from British India)<br>
 
 **National holiday**<br>
-Pakistan Day (also referred to as Pakistan Resolution Day or Republic Day), 23 March (1940, 1956)<br>
-<strong>note:</strong> commemorates the All-India Muslim League adopting the Lahore Resolution during its 22-24 March 1940 session, which called for the creation of independent Muslim states, and also the adoption of Pakistan's first constitution on 23 March 1956, during the transition to the Islamic Republic of Pakistan<br>
+Pakistan Day, 23 March, also referred to as Pakistan Resolution Day (1940) or Republic Day (1956)<br>
+<strong>note:</strong> commemorates the adoption of the Lahore Resolution on 23 March 1940, which called for the creation of independent Muslim states, and also the adoption of Pakistan's first constitution on 23 March 1956, during the transition to the Islamic Republic of Pakistan<br>
 
-**Flag description**<br>
-green with a vertical white band on the hoist side, symbolizing the role of religious minorities; a large white crescent and star are centered in the green field, all of which are traditional Islamic symbols<br>
+**Flag**<br>
+<strong>description: </strong>green with a vertical white band on the left side; a large white crescent and star are centered in the green field<br><br><strong>meaning:</strong> the crescent, star, and color green are all traditional Islamic symbols; the white band symbolizes the role of religious minorities<br>
 
 **National symbol(s)**<br>
 five-pointed star between the horns of a waxing crescent moon, jasmine<br>
@@ -517,6 +523,9 @@ _revenues_: $40.774 billion (2015 est.)<br>
 _expenditures_: $49.558 billion (2015 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
+**Public debt**<br>
+67.6% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 $699.22 million (2024 est.)<br>
 -$1.039 billion (2023 est.)<br>
@@ -615,12 +624,6 @@ _consumption_: 36.323 billion cubic meters (2023 est.)<br>
 _imports_: 8.847 billion cubic meters (2023 est.)<br>
 _proven reserves_: 592.219 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 212.655 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 59.937 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 93.713 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 59.006 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 14.076 million Btu/person (2023 est.)<br>
 
@@ -707,10 +710,10 @@ the Pakistan military is responsible for external defense but also has a domesti
 ## Space
 
 **Space agency/agencies**<br>
-Pakistan Space &amp; Upper Atmosphere Research Commission (SUPARCO; established 1961); National Remote Sensing Center (aka Resacent; established 1980) (2024)<br>
+Pakistan Space &amp; Upper Atmosphere Research Commission (SUPARCO; established 1961) (2025)<br>
 
 **Space launch site(s)**<br>
-Somiani Flight Test Range (Balochistan); Tilla Satellite Launch Center (aka Tilla Range; Punjab) (2024)<br>
+none; missile test sites at Somiani (Balochistan) and Tilla Jogian (Punjab) (2025)<br>
 
 **Space program overview**<br>
 space program dates back to the early 1960s but funding shortfalls and shifts in priority toward ballistic missile development in the 1980s and 1990s hampered the program’s development; more recently, the program has regained attention and become more ambitious, particularly in acquiring satellites and reaching agreements with other space powers for additional capabilities; manufactures and operates satellites; researching and developing other space-related capabilities and technologies, such as satellite payloads and probably satellite/space launch vehicles (SLVs); also conducts research in such areas as astronomy, astrophysics, environmental monitoring, and space sciences; has relations or cooperation agreements on space with China, Russia, and Turkey (cooperated with the UK and US prior to the 1990s) (2024)<br>
@@ -725,9 +728,9 @@ al-Qa’ida; al-Qa’ida in the Indian Subcontinent (AQIS); Haqqani Network (HQN
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2.64-2.9 million (1.3 million registered, 1.34-1.6&nbsp; million undocumented or otherwise categorized) (Afghanistan) (2023)<br>
-_IDPs_: 21,000 (primarily those who remain displaced by counter-terrorism and counter-insurgency operations and violent conflict between armed non-state groups in the Federally Administered Tribal Areas and Khyber-Paktunkwa Province; more than 1 million displaced in northern Waziristan in 2014; individuals also have been displaced by repeated monsoon floods) (2022)<br>
-_stateless persons_: 48 (2022)<br>
+_refugees_: 1,759,332 (2024 est.)<br>
+_IDPs_: 224,813 (2024 est.)<br>
+_stateless persons_: 60 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>

@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-The archipelago was once largely under the control of Buddhist and Hindu rulers. By around the 7th century, a Buddhist kingdom arose on Sumatra and expanded into Java and the Malay Peninsula until it was conquered in the late 13th century by the Hindu Majapahit Empire from Java. Majapahit (1290-1527) united most of modern-day Indonesia and Malaysia. Traders introduced Islam around the 11th century, and the religion was gradually over the next 500 years. The Portuguese conquered parts of Indonesia in the 16th century, but the Dutch ousted them (except in East Timor) and began colonizing the islands in the early 17th century. It would be the early 20th century before Dutch colonial rule was established across the entirety of what would become the boundaries of the modern Indonesian state.<br><br>Japan occupied the islands from 1942 to 1945. Indonesia declared its independence shortly before Japan's surrender, but it required four years of sometimes brutal fighting, intermittent negotiations, and UN mediation before the Netherlands agreed to transfer sovereignty in 1949. A period of sometimes unruly parliamentary democracy ended in 1957 when President SOEKARNO declared martial law and instituted "Guided Democracy." After an abortive coup in 1965 by alleged communist sympathizers, SOEKARNO was gradually eased from power. From 1967 until 1998, President SUHARTO ruled Indonesia with his "New Order" government. After street protests toppled SUHARTO in 1998, free and fair legislative elections took place in 1999 while the country's first direct presidential election occurred in 2004. Indonesia has since become a robust democracy, holding four direct presidential elections, each considered by international observers to have been largely free and fair. <br><br>Indonesia is now the world's third-most-populous  democracy and the world's largest Muslim-majority nation. It has had strong economic growth since overcoming the Asian financial crisis of the late 1990s. By the 2020s, it had the largest economy in Southeast Asia, and its economy ranked in the world's top 10 in terms of purchasing power parity. It has also made considerable gains in reducing poverty. Although relations amongst its diverse population--there are more than 300 ethnic groups--have been harmonious in the 2000s, there have been areas of sectarian discontent and violence, as well as instances of religious extremism and terrorism. A political settlement to an armed separatist conflict in Aceh was achieved in 2005, but a separatist group in Papua continued to conduct a low-intensity conflict as of 2024.<br>
+The archipelago was once largely under the control of Buddhist and Hindu rulers. By around the 7th century, a Buddhist kingdom arose on Sumatra and expanded into Java and the Malay Peninsula until it was conquered in the late 13th century by the Hindu Majapahit Empire from Java. Majapahit (1290-1527) united most of modern-day Indonesia and Malaysia. Traders introduced Islam around the 11th century, and the religion gradually expanded over the next 500 years. The Portuguese conquered parts of Indonesia in the 16th century, but the Dutch ousted them (except in East Timor) and began colonizing the islands in the early 17th century. It would be the early 20th century before Dutch colonial rule was established across the entirety of what would become the boundaries of the modern Indonesian state.<br><br>Japan occupied the islands from 1942 to 1945. Indonesia declared its independence shortly before Japan's surrender, but it required four years of sometimes brutal fighting, intermittent negotiations, and UN mediation before the Netherlands agreed to transfer sovereignty in 1949. A period of sometimes unruly parliamentary democracy ended in 1957 when President SOEKARNO declared martial law and instituted "Guided Democracy." After an abortive coup in 1965 by alleged communist sympathizers, SOEKARNO was gradually eased from power. From 1967 until 1998, President SUHARTO ruled Indonesia with his "New Order" government. After street protests toppled SUHARTO in 1998, free and fair legislative elections took place in 1999 while the country's first direct presidential election occurred in 2004. Indonesia has since become a robust democracy, holding four direct presidential elections, each considered by international observers to have been largely free and fair. <br><br>Indonesia is now the world's third-most-populous  democracy and the world's largest Muslim-majority nation. It has had strong economic growth since overcoming the Asian financial crisis of the late 1990s. By the 2020s, it had the largest economy in Southeast Asia, and its economy ranked in the world's top 10 in terms of purchasing power parity. It has also made considerable gains in reducing poverty. Although relations amongst its diverse population--there are more than 300 ethnic groups--have been harmonious in the 2000s, there have been areas of sectarian discontent and violence, as well as instances of religious extremism and terrorism. A political settlement to an armed separatist conflict in Aceh was achieved in 2005, but a separatist group in Papua continued to conduct a low-intensity conflict as of 2024.<br>
 
 ## Geography
 
@@ -77,7 +77,7 @@ major concentration on the island of Java, which is considered one of the most d
 occasional floods; severe droughts; tsunamis; earthquakes; volcanoes; forest fires <br><br><strong>volcanism:</strong> Indonesia contains the most volcanoes of any country in the world, with over 75 historically active; significant volcanic activity occurs on Java, Sumatra, the Sunda Islands, Halmahera Island, Sulawesi Island, Sangihe Island, and in the Banda Sea; Merapi (2,968 m), Indonesia's most active volcano, has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; in 2018, a large explosion and flank collapse destroyed most of the island of Anak Krakatau (Child of Krakatau) and generated a deadly tsunami that left more than 400 dead; other notable historically active volcanoes include Agung, Awu, Karangetang, Krakatau (Krakatoa), Makian, Raung, Sinabung, and Tambora; see note 2 under "Geography - note"<br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> 13,466 islands are in the archipelago, of which 922 are permanently inhabited; Indonesia is the world's largest country composed solely of islands; the country straddles the equator and occupies a strategic location along major sea lanes from the Indian Ocean to the Pacific Ocean</p> <p><strong>note 2:</strong> Indonesia is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire; 80% of tsunamis, caused by volcanic or seismic events, occur within the "Pacific Ring of Fire"</p> <p><strong>note 3:</strong> despite having the fourth largest population in the world, Indonesia is the most heavily forested region on earth after the Amazon</p><br>
+<p><strong>note 1:</strong> 13,466 islands are in the archipelago, of which 922 are permanently inhabited; Indonesia is the world's largest country composed solely of islands; the country straddles the equator and occupies a strategic location along major sea lanes from the Indian Ocean to the Pacific Ocean</p> <p><strong>note 2:</strong> Indonesia is one of the countries along the Ring of Fire, which is a belt bordering the Pacific Ocean that contains about 75% of the world's volcanoes, up to 90% of the world's earthquakes, and 80% of tsunamis<br><br><strong>note 3:</strong> despite having the fourth largest population in the world, Indonesia is the most heavily forested region on earth after the Amazon</p><br>
 
 ## People and Society
 
@@ -168,16 +168,13 @@ _female_: 76 years<br>
 **Gross reproduction rate**<br>
 0.96 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-55.5% (2018)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 98.2% of population<br>
-_improved: rural_: rural: 86.8% of population<br>
-_improved: total_: total: 93.3% of population<br>
-_unimproved: urban_: urban: 1.8% of population<br>
-_unimproved: rural_: rural: 13.2% of population<br>
-_unimproved: total_: total: 6.7% of population (2020 est.)<br>
+_improved: urban_: urban: 98.3% of population (2022 est.)<br>
+_improved: rural_: rural: 88.3% of population (2022 est.)<br>
+_improved: total_: total: 94.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.7% of population (2022 est.)<br>
+_unimproved: rural_: rural: 11.7% of population (2022 est.)<br>
+_unimproved: total_: total: 5.9% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 3.7% of GDP (2021)<br>
@@ -190,12 +187,12 @@ _Health expenditure (as % of national budget)_: 8% of national budget (2022 est.
 1.4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 97.2% of population<br>
-_improved: rural_: rural: 86.5% of population<br>
-_improved: total_: total: 92.5% of population<br>
-_unimproved: urban_: urban: 2.8% of population<br>
-_unimproved: rural_: rural: 13.5% of population<br>
-_unimproved: total_: total: 7.5% of population (2020 est.)<br>
+_improved: urban_: urban: 97.4% of population (2022 est.)<br>
+_improved: rural_: rural: 91.1% of population (2022 est.)<br>
+_improved: total_: total: 94.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 2.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 8.9% of population (2022 est.)<br>
+_unimproved: total_: total: 5.3% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 6.9% (2016)<br>
@@ -263,23 +260,32 @@ _other_: 22.2% (2022 est.)<br>
 _urban population_: 58.6% of total population (2023)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 19.34 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 563.32 megatons (2016 est.)<br>
-_methane emissions_: 244.5 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 829.655 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 527.923 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 223.352 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 78.38 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+18.4 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 3,621.7 kt (2022-2024 est.)<br>
+_agriculture_: 3,379.3 kt (2019-2021 est.)<br>
+_waste_: 4,200.1 kt (2019-2021 est.)<br>
+_other_: 165.7 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 65.2 million tons (2016 est.)<br>
-_municipal solid waste recycled annually_: 4.564 million tons (2016 est.)<br>
-_percent of municipal solid waste recycled_: 7% (2016 est.)<br>
+_municipal solid waste generated annually_: 65.2 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 15.2% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 23.8 billion cubic meters (2020 est.)<br>
-_industrial_: 9.14 billion cubic meters (2020 est.)<br>
-_agricultural_: 189.7 billion cubic meters (2020 est.)<br>
+_municipal_: 23.8 billion cubic meters (2022 est.)<br>
+_industrial_: 9.135 billion cubic meters (2022 est.)<br>
+_agricultural_: 189.7 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-2.02 trillion cubic meters (2020 est.)<br>
+2.019 trillion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 12 (2025)<br>
@@ -359,7 +365,7 @@ _subordinate courts_: High Courts of Appeal, district courts, religious courts<b
 Democrat Party or PD <br>Functional Groups Party or GOLKAR <br>Great Indonesia Movement Party or GERINDRA <br>Indonesia Democratic Party-Struggle or PDI-P <br>National Awakening Party or PKB <br>National Democratic Party or NasDem <br>National Mandate Party or PAN <br>Prosperous Justice Party or PKS <br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Ida Bagus Made BIMANTARA (since 30 November 2023)<br>
+_chief of mission_: Ambassador-designate INDROYONO Soesilo; Charg&eacute; d'Affaires Nidya KARTIKASARI (since 1 September 2025)<br>
 _chancery_: 2020 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 775-5200<br>
 _FAX_: [1] (202) 775-5236<br>
@@ -367,7 +373,7 @@ _email address and website_: <br>washington.kbri@kemlu.go.id<br><br>Embassy of T
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Heather MERRITT (since May 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Peter M. HAYMOND (since 15 June 2025)<br>
 _embassy_: Jl. Medan Merdeka Selatan No. 3-5, Jakarta 10110<br>
 _mailing address_: 8200 Jakarta Place, Washington DC&nbsp; 20521-8200<br>
 _telephone_: [62] (21) 5083-1000<br>
@@ -385,8 +391,8 @@ ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, D-8, EAS, EITI (compliant c
 **National holiday**<br>
 Independence Day, 17 August (1945)<br>
 
-**Flag description**<br>
-two equal horizontal bands of red (top) and white; the colors derive from the banner of the Majapahit Empire of the 13th-15th centuries; red symbolizes courage, and white represents purity<br>
+**Flag**<br>
+<strong>description:</strong> two equal horizontal bands of red (top) and white<br><br><strong>meaning:</strong> red stands for courage and white for purity<br><br><strong>history:</strong> the colors derive from the banner of the Majapahit Empire of the 13th-15th centuries<br>
 <strong>note:</strong> similar to the flags of Monaco, which is shorter, and Poland, which is white (top) and red<br>
 
 **National symbol(s)**<br>
@@ -503,8 +509,9 @@ _highest 10%_: 28.8% (2024 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $130.872 billion (2020 est.)<br>
-_expenditures_: $192.97 billion (2020 est.)<br>
+_revenues_: $182.658 billion (2023 est.)<br>
+_expenditures_: $204.739 billion (2023 est.)<br>
+<b>note:</b> central government revenues and expenditures (excluding grants and social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 45.34% of GDP (2022 est.)<br>
@@ -606,12 +613,6 @@ _exports_: 20.989 billion cubic meters (2023 est.)<br>
 _imports_: 727.056 million cubic meters (2023 est.)<br>
 _proven reserves_: 1.408 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 829.655 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 527.923 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 223.352 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 78.38 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 37.39 million Btu/person (2023 est.)<br>
 
@@ -699,13 +700,10 @@ the military is responsible for external defense, combatting separatism, and res
 ## Space
 
 **Space agency/agencies**<br>
-Indonesian Space Agency (INASA; formed 2022); National Research and Innovation Agency (BRIN; established 2021); Research Organization for Aeronautics and Space (ORPA; formed 2021) (2024)<br>
-
-**Space launch site(s)**<br>
-Stasiun Peluncuran Roket rocket launch facility (West Java); building a space launch facility/spaceport on Biak, Papua (estimated completion date is 2025) (2024)<br>
+Indonesian Space Agency (INASA; formed 2022); National Research and Innovation Agency (BRIN; established 2021); Research Organization for Aeronautics and Space (ORPA; formed 2021) (2025)<br>
 
 **Space program overview**<br>
-has had a space program since the 1960s that has focused largely on rocket development and the acquisition and operation of satellites; operates satellites; manufactures remote sensing (RS) satellites; has a sounding (research) rocket program geared towards development of an indigenous orbital satellite launch vehicle (SLV) and independent satellite launch capabilities; researching and developing a range of other space-related technologies and capabilities related to satellite payloads, communications, RS, and astronomy; has relations with several foreign space agencies and industries, including those of France, Germany, India, Japan, Russia, and the US (2024)<br>
+space program focused largely on rocket development and the acquisition and operation of satellites; operates satellites; manufactures remote sensing (RS) satellites; has a sounding (research) rocket program geared towards development of an indigenous orbital satellite launch vehicle (SLV) and independent satellite launch capabilities; researching and developing a range of other space-related technologies and capabilities related to satellite payloads, communications, RS, and astronomy; has relations with several foreign space agencies and industries, including those of France, Germany, India, Japan, Russia, South Korea, and the US; national space program includes building up the country's private space sector (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -717,7 +715,7 @@ Islamic State of Iraq and ash-Sham (aka Jemaah Anshorut Daulah); Jemaah Islamiya
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,684 (Afghanistan) (mid-year 2022)<br>
-_IDPs_: 72,000 (inter-communal, inter-faith, and separatist violence between 1998 and 2004 in Aceh and Papua; religious attacks and land conflicts in 2007 and 2013; most IDPs in Aceh, Maluku, East Nusa Tengarra) (2022)<br>
-_stateless persons_: 866 (2022)<br>
+_refugees_: 11,964 (2024 est.)<br>
+_IDPs_: 95,521 (2024 est.)<br>
+_stateless persons_: 2,643 (2024 est.)<br>
 

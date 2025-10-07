@@ -149,17 +149,6 @@ _female_: 82.3 years<br>
 **Gross reproduction rate**<br>
 0.96 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
-**Drinking water source**<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017)<br>
-
-**Sanitation facility access**<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017)<br>
-
 **Currently married women (ages 15-49)**<br>
 49.7% (2023 est.)<br>
 
@@ -184,16 +173,8 @@ _other_: 99.8% (2022 est.)<br>
 _urban population_: 89% of total population (2023)<br>
 _rate of urbanization_: 0.57% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 5.39 megatons (2016 est.)<br>
-
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 24,704 tons (2013 est.)<br>
-_municipal solid waste recycled annually_: 494 tons (2013 est.)<br>
-_percent of municipal solid waste recycled_: 2% (2013 est.)<br>
-
-**Total renewable water resources**<br>
-NA<br>
+_municipal solid waste generated annually_: 24,700 tons (2024 est.)<br>
 
 ## Government
 
@@ -206,10 +187,10 @@ _former_: Netherlands Antilles; Curacao and Dependencies<br>
 _etymology_: the origin of the name is disputed; many historians now agree that the name derives from a similar-sounding word the original inhabitants used to describe themselves<br>
 
 **Government type**<br>
-<p>parliamentary democracy</p><br>
+parliamentary democracy<br>
 
 **Dependency status**<br>
-<p>constituent country of the Kingdom of the Netherlands; full autonomy in internal affairs granted in 2010; Dutch government responsible for defense and foreign affairs</p><br>
+constituent country of the Kingdom of the Netherlands; full autonomy in internal affairs granted in 2010; Dutch government responsible for defense and foreign affairs<br>
 
 **Capital**<br>
 _name_: Willemstad<br>
@@ -265,7 +246,7 @@ Korsou di Nos Tur or KdnT<br>Korsou Esun Miho or KEM<br>Movementu Futuro Korsou 
 none (represented by the Kingdom of the Netherlands)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Consul General Margy BOND (since 20 January 2022); note - also accredited to Aruba and Sint Maarten<br>
+_chief of mission_: Consul General Ram&oacute;n &ldquo;Chico&rdquo; NEGR&Oacute;N (since 9 June 2025); note - also accredited to Aruba and Sint Maarten<br>
 _embassy_: P.O. Box 158, J.B. Gorsiraweg 1<br>
 _mailing address_: 3160 Curacao Place, Washington DC&nbsp; 20521-3160<br>
 _telephone_: [599] (9) 461-3066<br>
@@ -282,8 +263,8 @@ none (part of the Kingdom of the Netherlands)<br>
 King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967)<br>
 <strong>note:</strong> King's or Queen's Day are observed on the ruling monarch's birthday; celebrated on 26 April if 27 April is a Sunday<br>
 
-**Flag description**<br>
-on a blue field, a horizontal yellow band below the center divides the flag; two five-pointed white stars -- the smaller above and to the left of the larger -- appear in the upper left; the blue stands for the sky and sea, and yellow for the sun; the stars symbolize Curacao and its uninhabited sister island of Klein Curacao; the five star points signify the five continents from which Curacao's people originate<br>
+**Flag**<br>
+<strong>description:</strong> on a blue field, a horizontal yellow band divides the flag below the center; two five-pointed white stars -- the smaller above and to the left of the larger -- appear in the upper left<br><br><strong>meaning:</strong> the blue stands for the sky and sea, and yellow for the sun; the stars symbolize Curacao and its uninhabited sister island of Klein Curacao (Little Curacao); the star points represent the five continents from which Curacao's inhabitants originate<br>
 
 **National symbol(s)**<br>
 laraha (citrus tree)<br>
@@ -421,7 +402,7 @@ _subscriptions per 100 inhabitants_: 88 (2021 est.)<br>
 government-run TeleCuracao operates a TV station and a radio station;&nbsp;2 other privately owned TV stations and several privately owned radio stations (2019)<br>
 
 **Internet country code**<br>
-<p>.cw</p><br>
+.cw<br>
 
 **Internet users**<br>
 _percent of population_: 68% (2017 est.)<br>
@@ -460,10 +441,4 @@ Curaçao Militia (CURMIL); Curaçao Volunteer Corps; Curacao Police Force (Korps
 defense is the responsibility of the Kingdom of the Netherlands; the Dutch Government controls foreign and defense policy; local security forces are supported by the Royal Netherlands Marechaussee (Gendarmerie), the Dutch Caribbean Police Force (Korps Politie Caribisch Nederland, KPCN), and the Dutch Caribbean Coast Guard (DCCG or Kustwacht Caribisch Gebied (KWCARIB)); there are two Dutch naval bases on Cura&ccedil;ao, and the Dutch Army maintains a small unit on a rotational basis (2025)<br>
 
 ## Transnational Issues
-
-**Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,000 (Venezuela) (2022)<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — Curaçao does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Curaçao was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/curacao/<br>
 

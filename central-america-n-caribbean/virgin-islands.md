@@ -151,24 +151,9 @@ _female_: 84.1 years<br>
 **Gross reproduction rate**<br>
 0.95 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
-**Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 98.7% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 1.3% of population (2020 est.)<br>
-
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 99.4% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0.6% of population (2020 est.)<br>
+_improved: total_: total: 99.1% of population (2022 est.)<br>
+_unimproved: total_: total: 0.9% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 27.4% (2023)<br>
@@ -193,8 +178,12 @@ _other_: 32.8% (2022 est.)<br>
 _urban population_: 96.2% of total population (2023)<br>
 _rate of urbanization_: -0.11% annual rate of change (2020-25 est.)<br>
 
+**Carbon dioxide emissions**<br>
+_total emissions_: 2.378 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.378 million metric tonnes of CO2 (2023 est.)<br>
+
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 146,500 tons (2012 est.)<br>
+_municipal solid waste generated annually_: 146,500 tons (2024 est.)<br>
 
 ## Government
 
@@ -268,8 +257,8 @@ none (territory of the US)<br>
 **National holiday**<br>
 Transfer Day (from Denmark to the US), 31 March (1917)<br>
 
-**Flag description**<br>
-white field with a modified US coat of arms in the center between the large blue initials V and I; the coat of arms shows a yellow eagle holding an olive branch in its right talon and three arrows in the left, with a shield of seven red and six white vertical stripes below a blue panel; white is a symbol of purity, and the letters stand for the Virgin Islands<br>
+**Flag**<br>
+<strong>description:</strong> white field with a modified US coat of arms in the center between the large blue initials "V" and "I"; the coat of arms shows a yellow eagle holding an olive branch in its right talon and three arrows in its left, with a shield of seven red and six white vertical stripes below a blue panel<br><br><strong>meaning:</strong> white is a symbol of purity, and the letters stand for the Virgin Islands<br>
 
 **National anthem(s)**<br>
 _title_: "The Star-Spangled Banner"<br>
@@ -338,6 +327,9 @@ _female_: 28.9% (2024 est.)<br>
 _revenues_: $1.496 billion (2016 est.)<br>
 _expenditures_: $1.518 billion (2016 est.)<br>
 
+**Public debt**<br>
+45.9% of GDP (2014 est.)<br>
+
 **Exports**<br>
 $4.549 billion (2022 est.)<br>
 $4.069 billion (2021 est.)<br>
@@ -385,10 +377,6 @@ _exports_: 4 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 16,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 2.378 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 2.378 million metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

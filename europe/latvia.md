@@ -162,16 +162,13 @@ _female_: 81 years<br>
 **Gross reproduction rate**<br>
 0.76 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: 98.6% of population<br>
-_improved: total_: total: 99.5% of population<br>
-_unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: 1.4% of population<br>
-_unimproved: total_: total: 0.5% of population (2020 est.)<br>
+_improved: urban_: urban: 98.9% of population (2022 est.)<br>
+_improved: rural_: rural: 98.9% of population (2022 est.)<br>
+_improved: total_: total: 98.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.1% of population (2022 est.)<br>
+_unimproved: total_: total: 1.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 9% of GDP (2021)<br>
@@ -182,14 +179,6 @@ _Health expenditure (as % of national budget)_: 12.1% of national budget (2022 e
 
 **Hospital bed density**<br>
 5.3 beds/1,000 population (2020 est.)<br>
-
-**Sanitation facility access**<br>
-_improved: urban_: urban: 98.9% of population<br>
-_improved: rural_: rural: 85.3% of population<br>
-_improved: total_: total: 94.6% of population<br>
-_unimproved: urban_: urban: 1.1% of population<br>
-_unimproved: rural_: rural: 14.7% of population<br>
-_unimproved: total_: total: 5.4% of population (2020 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 23.6% (2016)<br>
@@ -242,23 +231,26 @@ _other_: 13.4% (2022 est.)<br>
 _urban population_: 68.7% of total population (2023)<br>
 _rate of urbanization_: -0.68% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 12.02 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 7 megatons (2016 est.)<br>
-_methane emissions_: 1.85 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 6.427 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 41,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 4.861 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 1.526 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+15.6 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 857,000 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 181,941 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 21.2% (2015 est.)<br>
+_municipal solid waste generated annually_: 839,700 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 31.3% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 90 million cubic meters (2020 est.)<br>
-_industrial_: 40 million cubic meters (2020 est.)<br>
-_agricultural_: 60 million cubic meters (2020 est.)<br>
+_municipal_: 91.945 million cubic meters (2022)<br>
+_industrial_: 30.291 million cubic meters (2022)<br>
+_agricultural_: 50.098 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-34.94 billion cubic meters (2020 est.)<br>
+34.94 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -356,8 +348,8 @@ Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperat
 Independence Day (Republic of Latvia Proclamation Day), 18 November (1918)<br>
 <strong>note:</strong> 18 November 1918 was the date Latvia established its statehood and independence from Soviet Russia; 4 May 1990 was the date it declared the restoration of statehood and independence from the Soviet Union<br>
 
-**Flag description**<br>
-three horizontal bands of maroon (top), white (half-width), and maroon; the flag is one of the older banners in the world -- a medieval chronicle mentions Latvian tribes using a red standard with a white stripe around 1280<br>
+**Flag**<br>
+<strong>description:</strong> three horizontal bands of maroon (top), white (half-width), and maroon<br><br><strong>history:</strong> the flag is one of the older banners in the world -- a medieval chronicle mentions Latvian tribes using a red standard with a white stripe around 1280<br>
 
 **National symbol(s)**<br>
 white wagtail (bird)<br>
@@ -473,9 +465,9 @@ _highest 10%_: 25.8% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $12.075 billion (2022 est.)<br>
-_expenditures_: $13.672 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $14.58 billion (2023 est.)<br>
+_expenditures_: $15.432 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 36.3% of GDP (2017 est.)<br>
@@ -565,12 +557,6 @@ _refined petroleum consumption_: 33,000 bbl/day (2024 est.)<br>
 _consumption_: 786.523 million cubic meters (2023 est.)<br>
 _imports_: 786.523 million cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 6.427 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 41,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 4.861 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 1.526 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 65.908 million Btu/person (2023 est.)<br>
 
@@ -631,14 +617,14 @@ National Armed Forces (Nacionalie Brunotie Speki or NBS): Land Forces (Latvijas 
 <strong>note: </strong>the State Border Guard may become part of the armed forces during an emergency<br>
 
 **Military expenditures**<br>
-3.2% of GDP (2024 est.)<br>
-2.4% of GDP (2023)<br>
-2.1% of GDP (2022)<br>
-2.1% of GDP (2021)<br>
-2.2% of GDP (2020)<br>
+3.7% of GDP (2025 est.)<br>
+3.4% of GDP (2024 est.)<br>
+3% of GDP (2023 est.)<br>
+2.3% of GDP (2022 est.)<br>
+2.2% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 8,000 active Armed Forces; approximately 10,000 National Guard (2024)<br>
+approximately 9,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Latvian military's inventory consists of a mix of European and US weapons and equipment (2024)<br>
@@ -656,6 +642,6 @@ the National Armed Forces are responsible for the defense of the country’s sov
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 47,615 (Ukraine) (as of 6 March 2024)<br>
-_stateless persons_: 195,354 (2022); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem<br>
+_refugees_: 49,483 (2024 est.)<br>
+_stateless persons_: 173,891 (2024 est.)<br>
 

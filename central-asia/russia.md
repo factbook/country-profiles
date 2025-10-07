@@ -88,7 +88,7 @@ population is heavily concentrated in the westernmost fifth of the country, exte
 permafrost over much of Siberia is a major impediment to development; volcanic activity in the Kuril Islands; volcanoes and earthquakes on the Kamchatka Peninsula; spring floods and summer/autumn forest fires in Siberia and parts of European Russia <br><br><strong>volcanism:</strong> Kamchatka Peninsula is home to 29 historically active volcanoes, with dozens more in the Kuril Islands; Kliuchevskoi (4,835 m) is Kamchatka's most active volcano; Avachinsky and Koryaksky volcanoes, which pose a threat to the city of Petropavlovsk-Kamchatsky, have been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; other notable historically active volcanoes include Bezymianny, Chikurachki, Ebeko, Gorely, Grozny, Karymsky, Ketoi, Kronotsky, Ksudach, Medvezhia, Mutnovsky, Sarychev Peak, Shiveluch, Tiatia, Tolbachik, and Zheltovsky; see note 2 under "Geography - note"<br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> largest country in the world in terms of area but unfavorably located in relation to major sea lanes; despite its size, much of the country lacks the soil and climate (either too cold or too dry) for agriculture</p> <p><strong>note 2:</strong> Russia's far east, particularly the Kamchatka Peninsula, lies along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> Mount El'brus is Europe's tallest peak; Lake Baikal, the deepest lake in the world, is estimated to hold one fifth of the world's fresh surface water<br><br><strong>note 4:</strong> Kaliningrad oblast is an exclave annexed from Germany after World War II; its capital city of Kaliningrad -- formerly Koenigsberg -- is the only Baltic port in Russia that remains ice-free in the winter</p><br>
+<strong>note 1:</strong> largest country in the world in terms of area; despite its size, much of the country lacks the soil and climate (either too cold or too dry) for agriculture <br><br><strong>note 2:</strong> Russia's far east, particularly the Kamchatka Peninsula, lies along the Ring of Fire, which is a belt bordering the Pacific Ocean that contains about 75% of the world's volcanoes and up to 90% of the world's earthquakes<br><br><strong>note 3:</strong> Mount El'brus is Europe's tallest peak; Lake Baikal, the deepest lake in the world, is estimated to hold one fifth of the world's fresh surface water<br><br><strong>note 4:</strong> Kaliningrad oblast is an exclave annexed from Germany after World War II; its capital city of Kaliningrad -- formerly Koenigsberg -- is the only Baltic port in Russia that remains ice-free in the winter<br>
 
 ## People and Society
 
@@ -181,17 +181,13 @@ _female_: 77.4 years<br>
 **Gross reproduction rate**<br>
 0.74 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-68% (2011)<br>
-<strong>note:</strong> percent of women aged 15-44<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.1% of population<br>
-_improved: rural_: rural: 93.1% of population<br>
-_improved: total_: total: 97.6% of population<br>
-_unimproved: urban_: urban: 0.9% of population<br>
-_unimproved: rural_: rural: 6.9% of population<br>
-_unimproved: total_: total: 2.4% of population (2020 est.)<br>
+_improved: urban_: urban: 98.9% of population (2022 est.)<br>
+_improved: rural_: rural: 91.5% of population (2022 est.)<br>
+_improved: total_: total: 97.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 8.5% of population (2022 est.)<br>
+_unimproved: total_: total: 2.9% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 7.4% of GDP (2021)<br>
@@ -204,12 +200,12 @@ _Health expenditure (as % of national budget)_: 13.8% of national budget (2022 e
 7 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 95.2% of population<br>
-_improved: rural_: rural: 72.3% of population<br>
-_improved: total_: total: 89.4% of population<br>
-_unimproved: urban_: urban: 4.8% of population<br>
-_unimproved: rural_: rural: 27.7% of population<br>
-_unimproved: total_: total: 10.6% of population (2020 est.)<br>
+_improved: urban_: urban: 95.4% of population (2022 est.)<br>
+_improved: rural_: rural: 71.4% of population (2022 est.)<br>
+_improved: total_: total: 89.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 4.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 28.6% of population (2022 est.)<br>
+_unimproved: total_: total: 10.6% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 23.1% (2016)<br>
@@ -266,23 +262,32 @@ _other_: 37.1% (2022 est.)<br>
 _urban population_: 75.3% of total population (2023)<br>
 _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 8.88 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 1,732.03 megatons (2016 est.)<br>
-_methane emissions_: 851.52 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 1.844 billion metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 479.311 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 453.103 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 912.076 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+9.1 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 13,815.3 kt (2022-2024 est.)<br>
+_agriculture_: 1,972.6 kt (2019-2021 est.)<br>
+_waste_: 4,069.8 kt (2019-2021 est.)<br>
+_other_: 363.2 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 60 million tons (2012 est.)<br>
-_municipal solid waste recycled annually_: 2.7 million tons (2012 est.)<br>
-_percent of municipal solid waste recycled_: 4.5% (2012 est.)<br>
+_municipal solid waste generated annually_: 60 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 5.3% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 17.15 billion cubic meters (2020 est.)<br>
-_industrial_: 29.03 billion cubic meters (2020 est.)<br>
-_agricultural_: 18.64 billion cubic meters (2020 est.)<br>
+_municipal_: 17.15 billion cubic meters (2022 est.)<br>
+_industrial_: 29.03 billion cubic meters (2022 est.)<br>
+_agricultural_: 18.64 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-4.53 trillion cubic meters (2020 est.)<br>
+4.53 trillion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 1<br>
@@ -310,7 +315,7 @@ _time zone note_: Russia has 11 time zones, the largest number of contiguous tim
 _etymology_: named after the Moskva River; the origin of the river's name is unclear<br>
 
 **Administrative divisions**<br>
-<p>46 provinces (<em>oblasti</em>, singular - <em>oblast</em>), 21 republics (<em>respubliki</em>, singular - <em>respublika</em>), 4 autonomous districts (<em>avtonomnyye okrugi</em>, singular - <em>avtonomnyy okrug</em>), 9 federal subjects (<em>kraya</em>, singular - <em>kray</em>), 2 federal cities (<em>goroda</em>, singular - <em>gorod</em>), and 1 autonomous province (<em>avtonomnaya oblast'</em>)</p> <p><strong>oblasts:</strong> Amur (Blagoveshchensk), Arkhangelsk, Astrakhan, Belgorod, Bryansk, Chelyabinsk, Irkutsk, Ivanovo, Kaliningrad, Kaluga, Kemerovo, Kirov, Kostroma, Kurgan, Kursk, Leningrad (Gatchina), Lipetsk, Magadan, Moscow, Murmansk, Nizhniy Novgorod, Novgorod, Novosibirsk, Omsk, Orenburg, Orel, Penza, Pskov, Rostov, Ryazan, Sakhalin (Yuzhno-Sakhalinsk), Samara, Saratov, Smolensk, Sverdlovsk (Yekaterinburg), Tambov, Tomsk, Tula, Tver, Tyumen, Ulyanovsk, Vladimir, Volgograd, Vologda, Voronezh, Yaroslavl</p> <p><strong>republics:</strong> Adygeya (Maykop), Altay (Gorno-Altaysk), Bashkortostan (Ufa), Buryatiya (Ulan-Ude), Chechnya (Groznyy), Chuvashiya (Cheboksary), Dagestan (Makhachkala), Ingushetiya (Magas), Kabardino-Balkariya (Nal'chik), Kalmykiya (Elista), Karachayevo-Cherkesiya (Cherkessk), Kareliya (Petrozavodsk), Khakasiya (Abakan), Komi (Syktyvkar), Mariy-El (Yoshkar-Ola), Mordoviya (Saransk), North Ossetia (Vladikavkaz), Sakha [Yakutiya] (Yakutsk), Tatarstan (Kazan), Tyva (Kyzyl), Udmurtiya (Izhevsk)</p> <p><strong>autonomous districts:</strong> Chukotka (Anadyr'), Khanty-Mansi-Yugra (Khanty-Mansiysk), Nenets (Nar'yan-Mar), Yamalo-Nenets (Salekhard)</p> <p><strong>federal subjects:</strong> Altay (Barnaul), Kamchatka (Petropavlovsk-Kamchatskiy), Khabarovsk, Krasnodar, Krasnoyarsk, Perm, Primorskiy [Maritime] (Vladivostok), Stavropol, Zabaykalsk [Transbaikal] (Chita)</p> <p><strong>federal cities:</strong> Moscow [Moskva], Saint Petersburg [Sankt-Peterburg]</p> <strong>autonomous province:</strong> Yevreyskaya [Jewish] (Birobidzhan)<br>
+46 provinces (<em>oblasti</em>, singular - <em>oblast</em>), 21 republics (<em>respubliki</em>, singular - <em>respublika</em>), 4 autonomous districts (<em>avtonomnyye okrugi</em>, singular - <em>avtonomnyy okrug</em>), 9 federal subjects (<em>kraya</em>, singular - <em>kray</em>), 2 federal cities (<em>goroda</em>, singular - <em>gorod</em>), and 1 autonomous province (<em>avtonomnaya oblast'</em>) <br><br><strong>oblasts:</strong> Amur (Blagoveshchensk), Arkhangelsk, Astrakhan, Belgorod, Bryansk, Chelyabinsk, Irkutsk, Ivanovo, Kaliningrad, Kaluga, Kemerovo, Kirov, Kostroma, Kurgan, Kursk, Leningrad (Gatchina), Lipetsk, Magadan, Moscow, Murmansk, Nizhniy Novgorod, Novgorod, Novosibirsk, Omsk, Orenburg, Orel, Penza, Pskov, Rostov, Ryazan, Sakhalin (Yuzhno-Sakhalinsk), Samara, Saratov, Smolensk, Sverdlovsk (Yekaterinburg), Tambov, Tomsk, Tula, Tver, Tyumen, Ulyanovsk, Vladimir, Volgograd, Vologda, Voronezh, Yaroslavl <br><br><strong>republics:</strong> Adygeya (Maykop), Altay (Gorno-Altaysk), Bashkortostan (Ufa), Buryatiya (Ulan-Ude), Chechnya (Groznyy), Chuvashiya (Cheboksary), Dagestan (Makhachkala), Ingushetiya (Magas), Kabardino-Balkariya (Nal'chik), Kalmykiya (Elista), Karachayevo-Cherkesiya (Cherkessk), Kareliya (Petrozavodsk), Khakasiya (Abakan), Komi (Syktyvkar), Mariy-El (Yoshkar-Ola), Mordoviya (Saransk), North Ossetia (Vladikavkaz), Sakha [Yakutiya] (Yakutsk), Tatarstan (Kazan), Tyva (Kyzyl), Udmurtiya (Izhevsk) <br><br><strong>autonomous districts:</strong> Chukotka (Anadyr'), Khanty-Mansi-Yugra (Khanty-Mansiysk), Nenets (Nar'yan-Mar), Yamalo-Nenets (Salekhard) <br><br><strong>federal subjects:</strong> Altay (Barnaul), Kamchatka (Petropavlovsk-Kamchatskiy), Khabarovsk, Krasnodar, Krasnoyarsk, Perm, Primorskiy [Maritime] (Vladivostok), Stavropol, Zabaykalsk [Transbaikal] (Chita) <br><br><strong>federal cities:</strong> Moscow [Moskva], Saint Petersburg [Sankt-Peterburg] <br><br><strong>autonomous province:</strong> Yevreyskaya [Jewish] (Birobidzhan)<br>
 <strong>note 1:</strong> administrative divisions have the same names as their administrative centers; exceptions show the administrative center name in parentheses <br><br><strong>note 2:</strong> the United States does not recognize Russia's annexation or renaming of Ukraine's Autonomous Republic of Crimea and the municipality of Sevastopol; it similarly does not recognize the annexation of the Ukrainian oblasts Donetsk, Luhansk, Zaporizhzhia, and Kherson<br>
 
 **Legal system**<br>
@@ -380,7 +385,7 @@ _email address and website_: <br>rusembusa@mid.ru<br><br>https://washington.mid.
 _consulate(s) general_: Houston, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Lynne M. TRACY (30 January 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires J. Douglas DYKHOUSE (since June 2025)<br>
 _embassy_: <small>55,75566° N, 37,58028° E</small><br>
 _mailing address_: 5430 Moscow Place, Washington DC&nbsp; 20521-5430<br>
 _telephone_: [7] (495) 728-5000<br>
@@ -398,8 +403,9 @@ APEC, Arctic Council, ARF, ASEAN (dialogue partner), BIS, BRICS, BSEC, CBSS, CD,
 Russia Day, 12 June (1990)<br>
 <strong>note:</strong> commemorates the Declaration of State Sovereignty of the Russian Soviet Federative Socialist Republic (RSFSR)<br>
 
-**Flag description**<br>
-three equal horizontal bands of white (top), blue, and red; created when Russia built its first naval vessels, and was used mostly as a naval ensign until the 19th century; colors may have been based on the Dutch flag, but no official meaning is assigned; inspired several other Slavic countries to adopt horizontal tricolors of the same colors in different arrangements<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of white (top), blue, and red<br><br><strong>meaning:</strong> colors may have been based on the Dutch flag, but no official meaning is assigned<br><br><strong>history:</strong> created when Russia built its first naval vessels, and was used mostly as a naval flag until the 19th century<br>
+<strong>note:</strong> inspired several other Slavic countries to adopt horizontal tricolors of the same colors in different arrangements<br>
 
 **National symbol(s)**<br>
 bear, double-headed eagle<br>
@@ -411,9 +417,9 @@ white, blue, red<br>
 the current coat of arms of Russia was adopted by presidential decree on 30 November 1993; the double-headed eagle was adopted as a Russian symbol in 1472 when Ivan III married Sophia Palaiologina, niece of the last Byzantine emperor in Constantinople -- the eagle was her family's emblem<br>
 
 **National anthem(s)**<br>
-_title_: "Gimn Rossiyskoy Federatsii" (National Anthem of the Russian Federation)<br>
+_title_: &ldquo;Gosudarstvenny Gimn Rossiyskoy Federatsii&rdquo; (National Anthem of the Russian Federation)<br>
 _lyrics/music_: Sergey Vladimirovich MIKHALKOV/Aleksandr Vasilyevich ALEKSANDROV<br>
-_history_: in 2000, Russia adopted the tune of the Soviet Union's anthem (composed in 1939), as well as new lyrics; MIKHALKOV, who wrote the new lyrics, also authored the Soviet lyrics in 1943<br>
+_history_: adopted 2000; Russia adopted the tune of the Soviet Union's anthem (composed in 1939), as well as new lyrics; MIKHALKOV, who wrote the new lyrics, also authored the Soviet lyrics in 1943<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 32 (21 cultural, 11 natural)<br>
@@ -518,9 +524,9 @@ _highest 10%_: 26.6% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $776.897 billion (2022 est.)<br>
-_expenditures_: $719.521 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $704.613 billion (2023 est.)<br>
+_expenditures_: $635.809 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 18.5% of GDP (2023 est.)<br>
@@ -630,19 +636,13 @@ _exports_: 124.479 billion cubic meters (2023 est.)<br>
 _imports_: 5.724 billion cubic meters (2023 est.)<br>
 _proven reserves_: 47.805 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 1.844 billion metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 479.311 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 453.103 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 912.076 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 224.858 million Btu/person (2023 est.)<br>
 
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 21.988 million (2022 est.)<br>
+_total subscriptions_: 20,816,300 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 15 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -653,7 +653,7 @@ _subscriptions per 100 inhabitants_: 169 (2021 est.)<br>
 13 national TV stations: the federal government owns 1 and controls a second, state-owned Gazprom controls 2, state-affiliated Bank Rossiya controls 2, Moscow city administration runs 1, the Russian Orthodox Church owns 1, and the Russian military owns 1; around 3,300 national, regional, and local TV stations, with over two-thirds completely or partially state-controlled; satellite TV available; 2 state-run national radio networks, with a third majority-owned by Gazprom; around 2,400 public and commercial radio stations<br>
 
 **Internet country code**<br>
-.ru; note - Russia also has responsibility for a legacy domain ".su" that was allocated to the Soviet Union and is being phased out<br>
+.ru<br>
 
 **Internet users**<br>
 _percent of population_: 92% (2023 est.)<br>
@@ -712,7 +712,7 @@ estimated 1.1-1.2 million active Armed Forces; estimated 350,000 Federal Nationa
 the Russian Federation's military and paramilitary services are equipped with domestically produced weapons systems, although in recent years Russia has imported considerable amounts of military hardware from external suppliers such as Iran and North Korea; the Russian defense industry is capable of designing, developing, and producing a full range of advanced air, land, missile, and naval systems; Russia is the world's second largest exporter of military hardware (2024)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for compulsory service for men; 18-40 for voluntary/contractual service; women and non-Russian citizens (18-30) may volunteer; 12-month service obligation (Russia offers the option of serving on a 24-month contract instead of completing a 12-month conscription period); reserve obligation for non-officers to age 50 (Russian men who have completed their compulsory service to re-enter the army up to the age of 55) (2024)<br>
+18-30 years of age for compulsory service for men; 18-40 for voluntary/contractual service; women and non-Russian citizens (18-30) may volunteer; 12-month service obligation (Russia offers the option of serving on a 24-month contract instead of completing a 12-month conscription period) (2024)<br>
 <strong>note 1:</strong> in 2022, Russia's parliament approved a law removing the upper age limit for contractual service in the military; also in 2022, President Vladimir PUTIN signed a decree allowing dual-national Russians and those with permanent residency status in foreign countries to be drafted into the army for military service<br><br><strong>note 2: </strong>historically, the Russian military has taken in about 260,000 conscripts each year in two semi-annual drafts (Spring and Fall)<br><br><strong>note 3:</strong> prior to the full-scale invasion of Ukraine in 2022, approximately 40-45,000 women served in the Russian Armed Forces<br><br><strong>note 4:</strong> since 2015, foreigners 18-30 with a good command of Russian have been allowed to join the military on five-year contracts and become eligible for Russian citizenship after serving three years; in October 2022, the Interior Ministry opened up recruitment centers for foreigners to sign a one-year service contract with the armed forces, other troops, or military formations participating in the invasion of Ukraine with the promise of simplifying the process of obtaining Russian citizenship<br>
 
 **Military deployments**<br>
@@ -725,11 +725,11 @@ the Russian military is responsible for protecting the country's sovereignty and
 ## Space
 
 **Space agency/agencies**<br>
-State Space Corporation of the Russian Federation (Roscosmos); Roscosmos was established in 2015 from a merger of the Federal Space Agency and the state-owned United Rocket and Space Corporation; began as the Russian Space Agency (RSA or RKA) in 1992 and restructured in 1999 and 2004 as the Russian Aviation and Space Agency and then the Federal Space Agency); the Russian Space Forces (Kosmicheskie voyska Rossii, KV) are part of the Russian Aerospace Forces (Vozdushno-Kosmicheskiye Sily, VKS) (2024)<br>
-<strong>note:</strong> Russia’s space strategy is defined jointly by Roscosmos and the Ministry of Defense; prior to the breakup of the Soviet Union in 1991, the USSR’s space program was dispersed amongst several civil and military organizations<br>
+State Space Corporation of the Russian Federation (Roscosmos; established 2015); Russian Space Forces (Kosmicheskie voyska Rossii, KV; under the Russian Aerospace Forces) (2025)<br>
+<strong>note 1:</strong> Russia’s space strategy is defined jointly by Roscosmos and the Ministry of Defense<br><br><strong>note 2:</strong> Roscosmos was established from a merger of the Federal Space Agency and the state-owned United Rocket and Space Corporation; it began as the Russian Space Agency (RSA or RKA) in 1992 and restructured in 1999 and 2004 as the Russian Aviation and Space Agency and then the Federal Space Agency<br>
 
 **Space launch site(s)**<br>
-Baikonur Cosmodrome (Kazakhstan); Vostochny Cosmodrome (Amur Oblast); Plesetsk Cosmodrome (Arkhangel'sk Oblast); Kapustin Yar (Astrakhan Oblast); Yasny Launch Base (Orenburg Oblast) (2024)<br>
+Baikonur Cosmodrome (Kazakhstan); Vostochny Cosmodrome (Amur Oblast); Plesetsk Cosmodrome (Arkhangel'sk Oblast) (2025)<br>
 <strong>note 1:</strong> the Baikonur cosmodrome and the surrounding area are leased and administered by Russia until 2050 for approximately $115 million/year; the cosmodrome was originally built by the Soviet Union in the mid-1950s and is the site of the World's first successful satellite launch (Sputnik) in 1957; it is also the largest space launch facility in the World, comprising 15 launch pads for space launch vehicles, four launch pads for testing intercontinental ballistic missiles, more than 10 assembly and test facilities, and other infrastructure <br><br><strong>note 2:</strong> in 2018, Kazakhstan and Russia agreed that Kazakhstan would build, maintain, and operate a new space launch facility (Baiterek) at the Baikonur space center (estimated to be ready for operations in 2025)<br>
 
 **Space program overview**<br>
@@ -745,10 +745,10 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,212,585 (Ukraine) (as of 30 June 2023)<br>
-_IDPs_: 7,500 (2022)<br>
-_stateless persons_: 56,960 (mid-year 2021); note - Russia's stateless population consists of Roma, Meskhetian Turks, and ex-Soviet citizens from the former republics; between 2003 and 2010 more than 600,000 stateless people were naturalized; most Meskhetian Turks, followers of Islam with origins in Georgia, fled or were evacuated from Uzbekistan after a 1989 pogrom and have lived in Russia for more than the required five-year residency period; they continue to be denied registration for citizenship and basic rights by local Krasnodar Krai authorities on the grounds that they are temporary illegal migrants<br>
+_refugees_: 11,440 (2024 est.)<br>
+_IDPs_: 172,783 (2024 est.)<br>
+_stateless persons_: 90,185 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 — Russia does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Russia remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/russia/<br>
+_tier rating_: Tier 3 — Russia does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Russia remained on Tier 3; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/russia/<br>
 

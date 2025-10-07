@@ -94,7 +94,7 @@ possession of France; administered directly by the Minister of Overseas France<b
 **Legal system**<br>
 the laws of France apply<br>
 
-**Flag description**<br>
+**Flag**<br>
 the flag of France is used<br>
 
 ## Economy

@@ -74,7 +74,7 @@ over three quarters of New Zealanders, including the Maori, live on the North Is
 earthquakes are common, though usually not severe; volcanic activity <br><br><strong>volcanism:</strong> significant volcanism on North Island; Ruapehu (2,797 m) has a history of large eruptions in the past century; Taranaki has the potential to produce dangerous avalanches and lahars; other historically active volcanoes include Okataina, Raoul Island, Tongariro, and White Island; see note 2 under "Geography - note"<br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> consists of two main islands and a number of smaller islands; South Island, the larger main island, is the 12th largest island in the world and is divided along its length by the Southern Alps; North Island is the 14th largest island in the world and is not as mountainous, but it is marked by volcanism</p> <p><strong>note 2:</strong> New Zealand lies along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> almost 90% of the population lives in cities and over three-quarters on North Island; Wellington is the southernmost national capital in the world</p><br>
+<strong>note 1:</strong> consists of two main islands and a number of smaller islands; South Island, the larger main island, is the 12th-largest island in the world and is divided along its length by the Southern Alps; North Island is the 14th-largest island in the world and is not as mountainous, but it is marked by volcanism <br><br><strong>note 2:</strong> New Zealand lies along the Ring of Fire, which is a belt bordering the Pacific Ocean that contains about 75% of the world's volcanoes and up to 90% of the world's earthquakes<br><br><strong>note 3:</strong> almost 90% of the population lives in cities and over three-quarters on North Island; Wellington is the southernmost national capital in the world<br>
 
 ## People and Society
 
@@ -166,17 +166,13 @@ _female_: 84.8 years<br>
 **Gross reproduction rate**<br>
 0.9 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-79.9% (2014/15)<br>
-<strong>note:</strong> percent of women aged 16-49<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 10% of GDP (2021)<br>
@@ -189,12 +185,12 @@ _Health expenditure (as % of national budget)_: 19.8% of national budget (2022 e
 2.7 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 30.8% (2016)<br>
@@ -247,21 +243,32 @@ _other_: 25.3% (2022 est.)<br>
 _urban population_: 87% of total population (2023)<br>
 _rate of urbanization_: 0.92% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 8.61 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 34.38 megatons (2016 est.)<br>
-_methane emissions_: 34.3 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 33.506 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 4.24 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 21.836 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 7.43 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+8.7 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 95.4 kt (2022-2024 est.)<br>
+_agriculture_: 1,105.6 kt (2019-2021 est.)<br>
+_waste_: 158.8 kt (2019-2021 est.)<br>
+_other_: 6.2 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 3.405 million tons (2016 est.)<br>
+_municipal solid waste generated annually_: 3.405 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 22% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 500 million cubic meters (2020 est.)<br>
-_industrial_: 1.18 billion cubic meters (2020 est.)<br>
-_agricultural_: 3.2 billion cubic meters (2020 est.)<br>
+_municipal_: 547 million cubic meters (2022)<br>
+_industrial_: 1.184 billion cubic meters (2022 est.)<br>
+_agricultural_: 3.207 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-327 billion cubic meters (2020 est.)<br>
+327 billion cubic meters (2022)<br>
 
 ## Government
 
@@ -323,7 +330,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 3 years<br>
 _most recent election date_: 10/14/2023<br>
 _parties elected and seats per party_: National Party (49); Labour Party (34); Green Party (15); ACT New Zealand (11); New Zealand First (8); Other (6)<br>
-_percentage of women in chamber_: 46.3%<br>
+_percentage of women in chamber_: 45.1%<br>
 _expected date of next election_: September 2026<br>
 
 **Judicial branch**<br>
@@ -361,8 +368,8 @@ ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP
 Waitangi Day, 6 February (1840); Anzac Day, 25 April (1915)<br>
 <strong>note:</strong> the Treaty of Waitangi established British sovereignty over New Zealand, and the second holiday commemorates the landing of the Australian and New Zealand Army Corps in Gallipoli, Turkey, during World War I<br>
 
-**Flag description**<br>
-blue with the UK flag in the upper hoist-side quadrant, with four red five-pointed stars edged in white centered in the outer half of the flag; the stars represent the Southern Cross constellation<br>
+**Flag**<br>
+<strong>description:</strong> blue with the UK flag in the upper-left quadrant, with four five-pointed red stars edged in white centered in the right half of the flag<br><br><strong>meaning:</strong> the stars represent the Southern Cross constellation<br>
 
 **National symbol(s)**<br>
 Southern Cross constellation (four five-pointed stars), kiwi (bird), silver fern<br>
@@ -376,7 +383,7 @@ the first quarter of the shield shows four stars that represent the Southern Cro
 **National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
-_history_: royal anthem and one of two official national anthems; usually played only when a member of the royal family or the governor-general is present<br>
+_history_: royal anthem and one of two official national anthems; usually played only when a member of the royal family or a representative is present or when allegiance to the crown is demonstrated<br>
 <strong>note:</strong> New Zealand is one of only two countries that has two national anthems of equal status (Denmark is the other)<br>
 
 **National heritage**<br>
@@ -469,9 +476,9 @@ _on alcohol and tobacco_: 4.7% of household expenditures (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $83.157 billion (2022 est.)<br>
-_expenditures_: $88.64 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $83.167 billion (2022 est.)<br>
+_expenditures_: $91.782 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 54% of GDP (2022 est.)<br>
@@ -564,12 +571,6 @@ _production_: 3.97 billion cubic meters (2023 est.)<br>
 _consumption_: 3.891 billion cubic meters (2023 est.)<br>
 _proven reserves_: 31.149 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 33.506 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 4.24 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 21.836 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 7.43 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 121.647 million Btu/person (2023 est.)<br>
 
@@ -628,7 +629,7 @@ _key ports_: Auckland, Bluff Harbor, Gisborne, Manukau Harbor, Napier, Nelson, N
 
 **Military and security forces**<br>
 New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Royal New Zealand Air Force (2025)<br>
-<strong>note: </strong>the New Zealand Police, under the Minister of Police, are responsible for internal security<br>
+<strong>note: </strong>the New Zealand Police, under the Minister of Police, is the primary law enforcement body agency of New Zealand and responsible for internal security<strong><br></strong><br>
 
 **Military expenditures**<br>
 1.2% of GDP (2024 est.)<br>
@@ -657,13 +658,13 @@ the NZDF is responsible for protecting New Zealand’s sovereignty, promoting it
 ## Space
 
 **Space agency/agencies**<br>
-New Zealand Space Agency (NZSA; established 2016 under the Ministry of Business, Innovation, and Employment); Center for Space Science and Technology (CSST; established 2017) (2024)<br>
+New Zealand Space Agency (NZSA; established 2016 under the Ministry of Business, Innovation, and Employment) (2025)<br>
 
 **Space launch site(s)**<br>
-Mahia Peninsula Launch Complex (Hawke's Bay) (2024)<br>
+Mahia Peninsula Launch Complex (Hawke's Bay) (2025)<br>
 
 **Space program overview**<br>
-the New Zealand space sector model is mostly based on commercial space; NZSA and CSST primarily focus on developing space policy and strategy, bringing commercial space talent to New Zealand, and encouraging the commercial development of space technologies, particularly satellites and satellite/space launch vehicles (SLV); manufactures and launches satellites; builds and launches commercial SLVs; researches and develops a range of other space-related technologies, including propulsion systems; has a national space strategy; participates in international space programs and partners with a range of foreign space agencies and industries, including those of Australia, Canada, the EU and its member states, the European Space Agency (ESA) and its member states, South Africa, and the US; has a small, but growing commercial space sector (2024)<br>
+national space program focused largely on the development of a commercial space sector, particularly in the field of satellites and satellite/space launch vehicles (SLV); manufactures and launches commercial satellites and SLVs; researches and develops a range of other space-related technologies, including propulsion systems; participates in international space programs and partners with a range of foreign space agencies and industries, including those of Australia, Canada, the EU and its member states, the European Space Agency (ESA) and its member states, South Africa, and the US; has a growing commercial space sector (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -675,5 +676,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 5 (2022)<br>
+_refugees_: 5,622 (2024 est.)<br>
+_IDPs_: 26 (2024 est.)<br>
+_stateless persons_: 29 (2024 est.)<br>
 

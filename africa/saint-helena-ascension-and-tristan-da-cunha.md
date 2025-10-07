@@ -90,7 +90,7 @@ St. Helena 82.1%, UK 7.6%, South Africa 3.6%, Ascension 2.8%, other 3.9% (2021 e
 English<br>
 
 **Religions**<br>
-Protestant 69.4% (includes Anglican 63.2%, Baptist 2.3%, Salvation Army 2%, Seventh Day Adventist 1.9%), Jehovah's Witness 3.8%, Roman Catholic 2.2%, New Apostolic 1.6%, other Christian 1.4%, other 1.1%, none 9%, unspecified 11.4% (2021 est.)<br>
+Anglican 63.2%, unspecified 11.4%, no religion 9%, Jehovah's Witness 3.8%, Baptist 2.3%, Salvation Army 2%, Roman Catholic 2.2%, Seventh Day Adventist 1.9%, New Apostolic 1.6%, other Christian 1.4%, other 1.1%  (2021 est.)<br>
 <strong>note:</strong> data represent Saint Helena only<br>
 
 **Age structure**<br>
@@ -99,10 +99,10 @@ _15-64 years_: 66.5% (male 2,626/female 2,655)<br>
 _65 years and over_: 19.2% (2024 est.) (male 773/female 754)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 50.4 (2024 est.) NA<br>
-_youth dependency ratio_: 21.5 (2024 est.) NA<br>
-_elderly dependency ratio_: 28.9 (2024 est.) NA<br>
-_potential support ratio_: 3.5 (2024 est.) NA<br>
+_total dependency ratio_: 50.4 (2024 est.)<br>
+_youth dependency ratio_: 21.5 (2024 est.)<br>
+_elderly dependency ratio_: 28.9 (2024 est.)<br>
+_potential support ratio_: 3.5 (2024 est.)<br>
 
 **Median age**<br>
 _total_: 45.1 years (2024 est.)<br>
@@ -154,24 +154,13 @@ _female_: 83.9 years<br>
 **Gross reproduction rate**<br>
 0.78 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 99.1% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0.9% of population (2020)<br>
+_improved: total_: total: 99.1% of population (2022 est.)<br>
+_unimproved: total_: total: 0.9% of population (2022 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 ## Environment
 
@@ -192,6 +181,10 @@ _other_: 64.1% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 40.7% of total population (2023)<br>
 _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
+
+**Carbon dioxide emissions**<br>
+_total emissions_: 12,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 12,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Government
 
@@ -259,10 +252,11 @@ UPU<br>
 none (overseas territory of the UK)<br>
 
 **National holiday**<br>
-Official birthday of King Charles III, April or June as designated by the governor<br>
+Official birthday of King Charles III, celebrated in April or June as designated by the governor (1948)<br>
 
-**Flag description**<br>
-blue with the UK flag in the upper hoist-side quadrant and the Saint Helenian shield centered on the outer half of the flag; the upper third of the shield depicts a white plover on a yellow field; the rest of the shield depicts a rocky coastline and a three-masted sailing ship with sails furled and flying an English flag<br>
+**Flag**<br>
+<strong>description:</strong> blue with the UK flag in the upper-left quadrant and the Saint Helenian shield centered on the right half of the flag; the upper third of the shield depicts a white plover on a yellow field; under the bird is a rocky coastline and a three-masted sailing ship with sails furled and flying an English flag<br><br><strong>history:</strong> the flag has been in use since 1984, when it was commissioned to mark the 150th anniversary of Saint Helena becoming a Crown Colony<br>
+<strong>note: </strong>the French flag flies at Longwood House (Napoleon's former residence) and Napoleon's (now-empty) tomb on the island, because the French Government has owned the properties since 1858<br>
 
 **National symbol(s)**<br>
 Saint Helena plover (wire bird)<br>
@@ -329,10 +323,6 @@ _imports_: 70 metric tons (2022 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 85 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 12,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 12,000 metric tonnes of CO2 (2023 est.)<br>
-
 ## Communications
 
 **Telephones - fixed lines**<br>
@@ -347,7 +337,8 @@ _subscriptions per 100 inhabitants_: 74 (2021 est.)<br>
 <em>Saint Helena</em>: no local TV station; 2 local radio stations, one of which is relayed to Ascension Island; satellite TV stations rebroadcast terrestrially<br><br><em>Ascension Island</em>: no local TV station; 1 local radio station and receives relays of broadcasts from radio station on Saint Helena; broadcasts from the British Forces Broadcasting Service (BFBS) available, as well as US military TV <br><br><em>Tristan da Cunha</em>: 1 local radio station and receives BFBS TV and radio broadcasts<br>
 
 **Internet country code**<br>
-.sh; note - Ascension Island assigned .ac<br>
+.sh<br>
+<strong>note:</strong> Ascension Island assigned .ac<br>
 
 **Internet users**<br>
 _percent of population_: 37.6% (2021 est.)<br>

@@ -162,16 +162,13 @@ _female_: 70.7 years<br>
 **Gross reproduction rate**<br>
 1.1 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-54.1% (2017)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 97.1% of population<br>
-_improved: rural_: rural: 84.1% of population<br>
-_improved: total_: total: 88.8% of population<br>
-_unimproved: urban_: urban: 2.9% of population<br>
-_unimproved: rural_: rural: 15.9% of population<br>
-_unimproved: total_: total: 11.2% of population (2020 est.)<br>
+_improved: urban_: urban: 97.1% of population (2022 est.)<br>
+_improved: rural_: rural: 78.5% of population (2022 est.)<br>
+_improved: total_: total: 85.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 2.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 21.5% of population (2022 est.)<br>
+_unimproved: total_: total: 14.5% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 2.7% of GDP (2021)<br>
@@ -184,12 +181,12 @@ _Health expenditure (as % of national budget)_: 4.3% of national budget (2022 es
 1.3 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 72% of population<br>
-_improved: total_: total: 82.2% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 28% of population<br>
-_unimproved: total_: total: 17.8% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 72% of population (2022 est.)<br>
+_improved: total_: total: 82.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 28% of population (2022 est.)<br>
+_unimproved: total_: total: 17.5% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 5.3% (2016)<br>
@@ -255,23 +252,25 @@ _other_: 18.6% (2022 est.)<br>
 _urban population_: 38.2% of total population (2023)<br>
 _rate of urbanization_: 2.99% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 21.15 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 17.76 megatons (2016 est.)<br>
-_methane emissions_: 9 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 23.412 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 19.652 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 3.76 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+20.5 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 351,900 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 35,190 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 10% (2015 est.)<br>
+_municipal solid waste generated annually_: 351,900 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 15.1% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 130 million cubic meters (2020 est.)<br>
-_industrial_: 170 million cubic meters (2020 est.)<br>
-_agricultural_: 7.05 billion cubic meters (2020 est.)<br>
+_municipal_: 130 million cubic meters (2022 est.)<br>
+_industrial_: 170 million cubic meters (2022 est.)<br>
+_agricultural_: 7.05 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-333.5 billion cubic meters (2020 est.)<br>
+333.5 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -345,7 +344,7 @@ Lao People's Revolutionary Party or LPRP<br>
 <strong>note:</strong>  other parties proscribed<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Sisavath&nbsp;INPHACHANH (since 7 June 2022)<br>
+_chief of mission_: Ambassador PHOUKHONG Sisoulath (since 5 September 2025)<br>
 _chancery_: 2222 S Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-6416<br>
 _FAX_: [1] (202) 332-4923<br>
@@ -368,8 +367,8 @@ ADB, ARF, ASEAN, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFR
 **National holiday**<br>
 Republic Day (National Day), 2 December (1975)<br>
 
-**Flag description**<br>
-three horizontal bands of red (top), blue (double-width), and red with a large white disk centered in the blue band; the red bands stand for the blood shed for liberation, and the blue for the Mekong River and prosperity; the white disk represents the full moon over the Mekong River and the unity of the people under the Lao People's Revolutionary Party, as well as the country's bright future<br>
+**Flag**<br>
+<strong>description:</strong> three horizontal bands of red (top), blue (double-width), and red, with a large white disk centered in the blue band<br><br><strong>meaning:</strong> red stands for the blood shed for liberation, and blue for the Mekong River and prosperity; the white disk represents the full moon over the Mekong River and the unity of the people under the Lao People's Revolutionary Party, as well as the country's bright future<br>
 
 **National symbol(s)**<br>
 elephant<br>
@@ -486,8 +485,11 @@ _highest 10%_: 31.2% (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $2.288 billion (2022 est.)<br>
-_expenditures_: $1.596 billion (2022 est.)<br>
+_expenditures_: $2.259 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+58.4% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 12.1% (of GDP) (2022 est.)<br>
@@ -573,11 +575,6 @@ _proven reserves_: 62 million metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 25,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 23.412 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 19.652 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 3.76 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 34.463 million Btu/person (2023 est.)<br>
 
@@ -647,8 +644,11 @@ the LPAF&rsquo;s primary missions are border and internal security, including co
 
 ## Transnational Issues
 
+**Refugees and internally displaced persons**<br>
+_IDPs_: 1,274 (2024 est.)<br>
+
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Laos was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/laos/<br>
+_tier rating_: Tier 3 — Laos does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Laos was downgraded to Tier 3; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/laos/<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country (2025)<br>

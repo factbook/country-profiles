@@ -156,7 +156,6 @@ _female_: 78.4 years<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 98.9% of population<br>
-_unimproved: total_: total: 1.1% of population (2017 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 7.1% of GDP (2021)<br>
@@ -167,10 +166,6 @@ _Health expenditure (as % of national budget)_: 15.8% of national budget (2022 e
 
 **Hospital bed density**<br>
 2.7 beds/1,000 population (2021 est.)<br>
-
-**Sanitation facility access**<br>
-_improved: total_: total: 98.2% of population<br>
-_unimproved: total_: total: 1.8% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 31.6% (2016)<br>
@@ -218,13 +213,18 @@ _other_: 47.8% (2022 est.)<br>
 _urban population_: 83.6% of total population (2023)<br>
 _rate of urbanization_: 1.02% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 5.2 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 1.79 megatons (2016 est.)<br>
-_methane emissions_: 0.23 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 2.99 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.966 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 23,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+5.2 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 264,000 tons (2015 est.)<br>
+_municipal solid waste generated annually_: 264,000 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 24.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 30 million cubic meters (2020 est.)<br>
@@ -336,8 +336,8 @@ ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC 
 **National holiday**<br>
 Independence Day, 10 July (1973)<br>
 
-**Flag description**<br>
-three equal horizontal bands of aquamarine (top), gold, and aquamarine, with a black equilateral triangle based on the hoist side; the band colors represent the golden beaches of the islands surrounded by the aquamarine sea; black represents the vigor and force of a united people, and the triangle stands for the enterprise and determination of the Bahamian people<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of aquamarine (top), gold, and aquamarine, with a black equilateral triangle based on the left side<br><br><strong>meaning:</strong> the band colors represent the islands' golden beaches surrounded by the aquamarine sea; black stands for the vigor and force of a united people, and the triangle for the people's enterprise and determination<br>
 
 **National symbol(s)**<br>
 blue marlin, flamingo, yellow elderflower<br>
@@ -519,12 +519,6 @@ _refined petroleum consumption_: 20,000 bbl/day (2023 est.)<br>
 _consumption_: 14.13 million cubic meters (2023 est.)<br>
 _imports_: 14.13 million cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 2.99 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 2,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 2.966 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 23,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 104.409 million Btu/person (2023 est.)<br>
 
@@ -601,6 +595,10 @@ most of the RBDF's major equipment inventory has been acquired from the Netherla
 the RBDF was established in 1980; its primary responsibilities are maritime security and safeguarding the territorial integrity of the Bahamas, providing disaster relief and humanitarian assistance, and supporting internal law and order in cooperation with other law enforcement agencies; the RBDF is a naval force with a few light aircraft, coastal patrol craft, and patrol boats, as well as a lightly-armed marine infantry/commando squadron for base and internal security; the RBDF has training relationships with the UK and the US (2025)<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 30 (2024 est.)<br>
+_IDPs_: 30 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country (2025)<br>

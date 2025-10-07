@@ -139,8 +139,11 @@ _signed, but not ratified_: Air Pollution-Volatile Organic Compounds<br>
 **Climate**<br>
 cold temperate; potentially subarctic in the north to temperate; mild wet winters; hot dry summers in the south<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 2,881.62 megatons (2016 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 2.651 billion metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 518.857 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.489 billion metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 643.8 million metric tonnes of CO2 (2023 est.)<br>
 
 **Total renewable water resources**<br>
 1.7 trillion cubic meters (2019)<br>
@@ -207,7 +210,7 @@ _FAX_: [1] (202) 429-1766<br>
 _email address and website_: <br>delegation-usa-info@eeas.europa.eu<br><br>Delegation of the European Union to the United States of America | EEAS (europa.eu)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Norman Thatcher SCHARPF (since 17 January 2025)<br>
+_chief of mission_: Ambassador Andrew PUZDER (since 11 September 2025)<br>
 _embassy_: Zinnerstraat - 13 - Rue Zinner, B-1000 Brussels<br>
 _mailing address_: use embassy street address<br>
 _telephone_: [32] (2) 811-4100<br>
@@ -223,8 +226,8 @@ ARF, ASEAN (dialogue member), Australian Group, BIS, BSEC (observer), CBSS, CERN
 **National holiday**<br>
 Europe Day (also known as Schuman Day), 9 May (1950)<br>
 
-**Flag description**<br>
-a blue field with 12 five-pointed gold stars arranged in a circle in the center; blue represents the sky of the Western world, the stars stand for unity, solidarity, and harmony; the number of stars is fixed and does not correspond to the number of member states<br>
+**Flag**<br>
+<strong>description:</strong> a blue field with 12 five-pointed gold stars arranged in a circle in the center; blue stands for the sky of the Western world, and the stars for unity, solidarity, and harmony<br><br><strong>meaning:</strong> the number of stars is fixed and does not correspond to the number of member states<br>
 
 **National symbol(s)**<br>
 a circle of 12 five-pointed golden-yellow stars on a blue field<br>
@@ -309,11 +312,17 @@ _male_: 16% (2024 est.)<br>
 _female_: 16% (2024 est.)<br>
 <b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
+**Gini Index coefficient - distribution of family income**<br>
+31 (2015 est.)<br>
+
 **Remittances**<br>
 0.8% of GDP (2024 est.)<br>
 0.8% of GDP (2023 est.)<br>
 0.8% of GDP (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+
+**Public debt**<br>
+85.5% of GDP (2013)<br>
 
 **Taxes and other revenues**<br>
 19.8% (of GDP) (2022 est.)<br>
@@ -399,12 +408,6 @@ _consumption_: 335.326 billion cubic meters (2023 est.)<br>
 _exports_: 100.238 billion cubic meters (2023 est.)<br>
 _imports_: 396.993 billion cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 2.651 billion metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 518.857 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 1.489 billion metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 643.8 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 114.309 million Btu/person (2023 est.)<br>
 
@@ -419,7 +422,8 @@ _total subscriptions_: 552.316 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 124 (2022 est.)<br>
 
 **Internet country code**<br>
-.eu; note - see country entries of member states for individual country codes<br>
+.eu<br>
+<strong>note:</strong> see country entries of member states for individual country codes<br>
 
 **Internet users**<br>
 _percent of population_: 90% (2023 est.)<br>
@@ -467,13 +471,13 @@ the EU partners with the North Atlantic Treaty Organization (NATO); NATO is an a
 ## Space
 
 **Space agency/agencies**<br>
-the only EU agency dedicated to space is the EU Agency for the Space Program (EUSPA; established in 2021); the EUSPA originated with the Galileo Joint Undertaking (GJU) set up in 2002 by the European Community (EC) and the European Space Agency (ESA) to manage the development phase of Europe’s Galileo satellite navigation program; the GJU’s responsibilities were assumed by the European Global Navigation Satellite System Supervisory Authority (GSA) in 2007<br><br>the ESA (established 1975 from the European Launcher Development Organization and the European Space Research Organization, which were established in the early 1960s) is an independent organization although it maintains close ties with the EU through an ESA/EC Framework Agreement; the ESA and EC share a joint European Strategy for Space and have together developed a European Space Policy<br><br>the ESA has 22 member states; the national bodies responsible for space in these countries sit on ESA’s governing Council: Austria, Belgium, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Luxembourg, the Netherlands, Norway, Poland, Portugal, Romania, Spain, Sweden, Switzerland, and the UK; Canada also sits on the Council and takes part in some projects under a Cooperation Agreement;  Latvia, Lithuania, Slovakia, and Slovenia are Associate Members; Bulgaria, Croatia, Cyprus, and Malta have cooperation agreements with ESA; ESA has established formal cooperation with all member states of the EU that are not ESA members (2024)<br>
+the only EU agency dedicated to space is the EU Agency for the Space Program (EUSPA; established in 2021); the EUSPA originated with the Galileo Joint Undertaking (GJU) set up in 2002 by the European Community (EC) and the European Space Agency (ESA) to manage the development phase of Europe’s Galileo satellite navigation program; the GJU’s responsibilities were assumed by the European Global Navigation Satellite System Supervisory Authority (GSA) in 2007<br><br>the ESA (established 1975 from the European Launcher Development Organization and the European Space Research Organization, which were established in the early 1960s) is an independent organization although it maintains close ties with the EU through an ESA/EC Framework Agreement; the ESA and EC share a joint European Strategy for Space and have together developed a European Space Policy<br><br>the ESA has 23 member states; the national bodies responsible for space in these countries sit on ESA’s governing Council: Austria, Belgium, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Luxembourg, the Netherlands, Norway, Poland, Portugal, Romania, Slovenia, Spain, Sweden, Switzerland, and the UK; Canada also sits on the Council and takes part in some projects under a Cooperation Agreement;  Latvia, Lithuania, and Slovakia are Associate Members; Bulgaria, Croatia, Cyprus, and Malta have cooperation agreements with ESA; ESA has established formal cooperation with all member states of the EU that are not ESA members (2025)<br>
 
 **Space launch site(s)**<br>
-ESA&rsquo;s spaceport is located in Kourou, French Guiana; Europe also has or is developing commercial space ports in Italy, Norway, Sweden, and the UK, as well as maritime launch capabilities with a logistics base in Germany (2024)<br>
+ESA&rsquo;s spaceport is located in Kourou, French Guiana; EU members Norway and Sweden have operational commercial space ports; the UK, non-EU member, has two operational commercial space ports (2025)<br>
 
 **Space program overview**<br>
-EU member states have a large and advanced commercial space sector capable of developing and producing a full range of capabilities and technologies; the EU's space capability includes two primary agencies, the European Space Agency (ESA) and the EU Agency for the Space Programme (EUSPA); a key focus for both the ESA and EUSPA is encouraging the European commercial space sector; Europe is a global leader in satellite-based communications and hosts the headquarters of three of the world’s major satellite communications companies<br><br>ESA is comprehensive space agency that is active across the sector except for launching humans into space, including producing and operating satellites with a full spectrum of capabilities (communications, multipurpose, navigational, RS, science/technology), satellite launch vehicles (SLVs), space launches, human space flight (has an astronaut training program), space transportation/automated transfer vehicles, reusable spacecraft, space station modules, spacecraft components, robotic space labs, lunar/planetary surface rovers, interplanetary space probes and exploration, space telescopes, and research; ESA participates in international space programs such as the International Space Station and works closely with Europe’s commercial space industry; it also cooperates with a broad range of space agencies and industries of non-member countries, including China, Japan, Russia, and the US; many of its programs are conducted jointly, particularly with the US space program<br><br>the EUSPA is responsible for the operational management of the European Geostationary Navigation Overlay Service (EGNOS) and Galileo satellite navigation programs; the EU space strategy includes encouraging investment in and the use of space services and data, fostering competition and innovation, developing space technologies, and reinforcing Europe’s autonomy in accessing space<br> (2024)<br>
+EU member states have a large and advanced commercial space sector capable of developing and producing a full range of capabilities and technologies; a key focus for both the EU Agency for the Space Program (EUSPA) and the European Space Agency (ESA) is encouraging the European commercial space sector; Europe is a global leader in satellite-based communications and hosts the headquarters of three of the world’s major satellite communications companies<br><br>ESA is comprehensive space agency that is active across the space sector except for launching humans into space including producing and operating satellites with a full spectrum of capabilities (communications, multipurpose, navigational, remote sensing, science/technology), satellite launch vehicles (SLVs), space launches, human space flight (has an astronaut training program), space transportation/automated transfer vehicles, reusable spacecraft, space station modules, spacecraft components, robotic space labs, lunar/planetary surface rovers, interplanetary space probes and exploration, space telescopes, and research; ESA participates in international space programs such as the International Space Station and works closely with Europe’s commercial space industry; it also cooperates with a broad range of space agencies and industries of non-member countries, including China, Japan, Russia, and the US; many of its programs are conducted jointly, particularly with the US space program<br><br>the EUSPA is responsible for the operational management of the European Geostationary Navigation Overlay Service (EGNOS) and Galileo satellite navigation programs; the EU space strategy includes encouraging investment in and the use of space services and data, fostering competition and innovation, developing space technologies, and reinforcing Europe’s autonomy in accessing space (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

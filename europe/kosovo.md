@@ -152,27 +152,8 @@ _female_: 75.5 years<br>
 **Gross reproduction rate**<br>
 0.9 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
-**Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA<br>
-
 **Physician density**<br>
 0.2 physicians/1,000 population (2015)<br>
-
-**Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA<br>
 
 ## Environment
 
@@ -190,12 +171,13 @@ _agricultural land: permanent pasture_: permanent pasture: 23.5% (2018 est.)<br>
 _forest_: 41.7% (2018 est.)<br>
 _other_: 5.5% (2018 est.)<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 8.94 megatons (2016 est.)<br>
-_methane emissions_: 0.54 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 7.444 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 5.005 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.439 million metric tonnes of CO2 (2023 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 319,000 tons (2015 est.)<br>
+_municipal solid waste generated annually_: 319,000 tons (2024 est.)<br>
 
 ## Government
 
@@ -296,8 +278,8 @@ FIFA, IBRD, IDA, IFC, IMF, IOC, ITUC (NGOs), MIGA, OIF (observer)<br>
 **National holiday**<br>
 Independence Day, 17 February (2008)<br>
 
-**Flag description**<br>
-a dark blue field with a gold-colored silhouette of Kosovo in the center, with six five-pointed white stars in a slight arc over it; each star represents one of the major ethnic groups of Kosovo: Albanians, Serbs, Turks, Gorani, Roma, and Bosniaks<br>
+**Flag**<br>
+<strong>description:</strong> a dark blue field with a gold-colored silhouette of Kosovo in the center, with six five-pointed white stars in a slight arc over it<br><br><strong>meaning: </strong>each star represents one of the major ethnic groups of Kosovo: Albanians, Serbs, Turks, Gorani, Roma, and Bosniaks<br>
 <strong>note:</strong> one of two national flags that uses a map as a design element; the flag of Cyprus is the other<br>
 
 **National symbol(s)**<br>
@@ -305,6 +287,9 @@ six five-pointed white stars<br>
 
 **National color(s)**<br>
 blue, gold, white<br>
+
+**National coat of arms**<br>
+uses the national colors of blue, gold, and white, and is featured on the country&rsquo;s flag; the golden map symbolizes a rich and peaceful Kosovo, with a blue background that represents the country&rsquo;s aspirations for Euro-Atlantic integration; the six white stars stand for the major ethnic groups in Kosovo: Albanians, Serbs, Bosniaks, Turks, Roma (including Ashkali and Egyptians), and Gorani<br>
 
 **National anthem(s)**<br>
 _title_: "Europe"<br>
@@ -400,6 +385,9 @@ _highest 10%_: 32.9% (2021 est.)<br>
 _revenues_: $1.951 billion (2020 est.)<br>
 _expenditures_: $2.547 billion (2020 est.)<br>
 
+**Public debt**<br>
+19.4% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 -$785.09 million (2023 est.)<br>
 -$983.283 million (2022 est.)<br>
@@ -475,11 +463,6 @@ _proven reserves_: 1.564 billion metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 16,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 7.444 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 5.005 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 2.439 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 52.085 million Btu/person (2023 est.)<br>
 
@@ -494,8 +477,8 @@ _total subscriptions_: 1,777,859 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 98 (2022 est.)<br>
 
 **Internet country code**<br>
-.xk; note - assigned as a temporary code under UN Security Council resolution 1244/99<br><br> <br>
-&nbsp;<br>
+.xk<br>
+<strong>note:</strong> assigned as a temporary code under UN Security Council resolution 1244/99<br>
 
 **Internet users**<br>
 _percent of population_: 89% (2018 est.)<br>
@@ -531,13 +514,13 @@ Kosovo Security Force (KSF; Forca e Sigurisë së Kosovës or FSK): Land Force, 
 approximately 3,300 Kosovo Security Forces, including about 800 reserves (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the KSF is equipped with small arms and light vehicles and has relied on limited amounts of donated equipment from several countries, particularly Turkey and the US (2024)<br>
+the KSF is equipped with small arms and light vehicles and has relied on limited amounts of donated equipment from several countries, particularly Turkey and the US (2025)<br>
 
 **Military service age and obligation**<br>
 any citizen of Kosovo over the age of 18 is eligible to serve in the Kosovo Security Force; upper age for enlisting is 30 for officers, 25 for other ranks, although these may be waived for recruits with key skills considered essential for the KSF<br> (2024)<br>
 
 **Military - note**<br>
-the Kosovo Security Force (KSF) was established in 2009 as a small (1,500 personnel), lightly armed disaster response force; the NATO-led Kosovo Force (KFOR) was charged with assisting in the development of the KSF and bringing it up to standards designated by NATO; the KSF was certified as fully operational by the North Atlantic Council in 2013, indicating the then 2,200-strong KSF was entirely capable of performing the tasks assigned under its mandate, which included non-military security functions that were not appropriate for the police, plus missions such as search and rescue, explosive ordnance disposal, control and clearance of hazardous materials, firefighting, and other humanitarian assistance tasks<br><br>in 2019, Kosovo approved legislation that began a process to transition the KSF by 2028 into a professional military (the Kosovo Armed Forces) led by a General Staff and comprised of a Land Force, a National Guard, a Logistics Command, and a Doctrine and Training Command; it would have a strength of up to 5,000 with about 3,000 reserves; at the same time, the KSF’s mission was expanded to include traditional military functions, such as territorial defense and international peacekeeping; the KSF’s first international mission was the deployment of a small force to Kuwait in 2021 <br><br>the NATO-led KFOR has operated in the country as a peace support force since 1999; in addition to assisting in the development of the KSF, KFOR is responsible for providing a safe and secure environment and ensuring freedom of movement for all citizens; as of 2025, it had approximately 4,700 troops from 32 countries (2025)<br>
+the Kosovo Security Force (KSF) was established in 2009 as a small (1,500 personnel), lightly armed disaster response force; the NATO-led Kosovo Force (KFOR) was charged with assisting in the development of the KSF and bringing it up to standards designated by NATO; the KSF was certified as fully operational by the North Atlantic Council in 2013, indicating the then 2,200-strong KSF was entirely capable of performing the tasks assigned under its mandate, which included non-military security functions that were not appropriate for the police, plus missions such as search and rescue, explosive ordnance disposal, control and clearance of hazardous materials, firefighting, and other humanitarian assistance tasks<br><br>in 2019, Kosovo approved legislation that began a process to transition the KSF by 2028 into a professional military (the Kosovo Armed Forces) led by a General Staff and comprised of a Land Force, a National Guard, a Logistics Command, and a Doctrine and Training Command; it would have a strength of up to 5,000 with about 3,000 reserves; at the same time, the KSF’s mission was expanded to include traditional military functions, such as territorial defense and international peacekeeping; the KSF’s first international mission was the deployment of a small force to Kuwait in 2021 <br><br>the NATO-led KFOR has operated in the country as a peace support force since 1999; in addition to assisting in the development of the KSF, KFOR is responsible for providing a safe and secure environment and ensuring freedom of movement for all citizens; as of 2025, it had approximately 4,700 troops from more than 30 countries (2025)<br>
 
 ## Terrorism
 
@@ -548,6 +531,5 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 16,000 (primarily ethnic Serbs displaced during the 1998-1999 war fearing reprisals from the majority ethnic-Albanian population; a smaller number of ethnic Serbs, Roma, Ashkali, and Egyptians fled their homes in 2004 as a result of violence) (2022)<br>
-<strong>note:</strong> 9,011 estimated refugee and migrant arrivals (January 2015-August 2023)<br>
+_IDPs_: 15,582 (2024 est.)<br>
 

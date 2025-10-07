@@ -168,16 +168,13 @@ _female_: 70.2 years<br>
 **Gross reproduction rate**<br>
 2.18 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-12.2% (2014)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99% of population<br>
-_improved: rural_: rural: 80.7% of population<br>
-_improved: total_: total: 87.1% of population<br>
-_unimproved: urban_: urban: 1% of population<br>
-_unimproved: rural_: rural: 19.3% of population<br>
-_unimproved: total_: total: 12.9% of population (2020 est.)<br>
+_improved: urban_: urban: 74.2% of population (2022 est.)<br>
+_improved: rural_: rural: 59.7% of population (2022 est.)<br>
+_improved: total_: total: 64.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 25.8% of population (2022 est.)<br>
+_unimproved: rural_: rural: 40.3% of population (2022 est.)<br>
+_unimproved: total_: total: 35.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 2.8% of GDP (2021)<br>
@@ -188,14 +185,6 @@ _Health expenditure (as % of national budget)_: 6.7% of national budget (2022 es
 
 **Hospital bed density**<br>
 0.7 beds/1,000 population (2020 est.)<br>
-
-**Sanitation facility access**<br>
-_improved: urban_: urban: 72.1% of population<br>
-_improved: rural_: rural: 30.6% of population<br>
-_improved: total_: total: 45.3% of population<br>
-_unimproved: urban_: urban: 27.9% of population<br>
-_unimproved: rural_: rural: 69.4% of population<br>
-_unimproved: total_: total: 54.7% of population (2020 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 6.6% (2014)<br>
@@ -242,21 +231,31 @@ _other_: 30% (2022 est.)<br>
 _urban population_: 36.3% of total population (2023)<br>
 _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 21.43 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 20 megatons (2016 est.)<br>
-_methane emissions_: 75.1 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 18.242 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 300 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 18.242 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+24.4 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 218.5 kt (2022-2024 est.)<br>
+_agriculture_: 1,509.6 kt (2019-2021 est.)<br>
+_waste_: 198.7 kt (2019-2021 est.)<br>
+_other_: 38.8 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2,831,291 tons (2015 est.)<br>
+_municipal solid waste generated annually_: 2.831 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 8.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 950 million cubic meters (2020 est.)<br>
-_industrial_: 80 million cubic meters (2020 est.)<br>
-_agricultural_: 25.91 billion cubic meters (2020 est.)<br>
+_municipal_: 950 million cubic meters (2022 est.)<br>
+_industrial_: 75 million cubic meters (2022 est.)<br>
+_agricultural_: 25.91 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-37.8 billion cubic meters (2020 est.)<br>
+37.8 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -345,8 +344,8 @@ ABEDA, ACP, AfDB, AFESD, AMF, AU (suspended), CAEU, COMESA, FAO, G-77, IAEA, IBR
 **National holiday**<br>
 Independence Day, 1 January (1956)<br>
 
-**Flag description**<br>
-three equal horizontal bands of red (top), white, and black, with a green isosceles triangle based on the hoist side; colors and design based on the Arab Revolt flag of World War I; red stands for the struggle for freedom, white for peace, light, and love, black for the people, and green for Islam, agriculture, and prosperity<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of red (top), white, and black, with a green isosceles triangle based on the left side<br><br><strong>meaning:</strong> red stands for the struggle for freedom; white for peace, light, and love, black for the people; green for Islam, agriculture, and prosperity<br><br><strong>history:</strong> colors and design are based on the Arab Revolt flag of World War I<br>
 
 **National symbol(s)**<br>
 secretary bird<br>
@@ -449,6 +448,9 @@ _revenues_: $9.045 billion (2015 est.)<br>
 _expenditures_: $9.103 billion (2015 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
+**Public debt**<br>
+99.5% of GDP (2016 est.)<br>
+
 **Taxes and other revenues**<br>
 7.4% (of GDP) (2016 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
@@ -535,11 +537,6 @@ _crude oil estimated reserves_: 1.25 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
 _proven reserves_: 84.951 billion cubic meters (2021 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 18.242 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 300 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 18.242 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 6.145 million Btu/person (2023 est.)<br>
@@ -633,9 +630,9 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida; Harakat Sawa’d Misr<br
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 696,246 (South Sudan) (refugees and asylum seekers), 137,402 (Eritrea) (refugees and asylum seekers), 93,477 (Syria) (refugees and asylum seekers), 72,334 (Ethiopia) (refugees and asylum seekers), 18,279 (Central African Republic) (2023)<br>
-_IDPs_: 6.5 million (armed conflict between rival factions of the military government of Sudan since 15 April 2023) (2024); note - includes some non-Sudanese nationals<br>
+_refugees_: 837,988 (2024 est.)<br>
+_IDPs_: 11,559,970 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 — Sudan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Sudan was downgraded to Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/sudan/<br>
+_tier rating_: Tier 3 — Sudan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Sudan remained on Tier 3; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/sudan<br>
 

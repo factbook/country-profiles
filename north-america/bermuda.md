@@ -68,7 +68,7 @@ relatively even population distribution throughout<br>
 hurricanes (June to November)<br>
 
 **Geography - note**<br>
-consists of about 138 coral islands and islets with ample rainfall, but no rivers or freshwater lakes; some land was leased by the US Government from 1941 to 1995<br>
+the archipelago consists of over 170 coral islands and islets with ample rainfall, as well as thousands of cays, but no rivers or freshwater lakes; some land was leased by the US Government from 1941 to 1995<br>
 
 ## People and Society
 
@@ -151,22 +151,17 @@ _female_: 85.7 years<br>
 **Gross reproduction rate**<br>
 0.92 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.9% of population<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: total_: total: 0.1% of population (2020)<br>
+_improved: urban_: urban: 99.9% of population (2022 est.)<br>
+_improved: total_: total: 99.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.1% of population (2022 est.)<br>
+_unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0.1% of population (2020)<br>
+_improved: urban_: urban: 99.9% of population (2022 est.)<br>
+_improved: total_: total: 99.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.1% of population (2022 est.)<br>
+_unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 47.6% (2023 est.)<br>
@@ -200,12 +195,13 @@ _other_: 75.9% (2022 est.)<br>
 _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: -0.2% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.61 megatons (2016 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 577,000 metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 9 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 577,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 82,000 tons (2012 est.)<br>
-_municipal solid waste recycled annually_: 1,640 tons (2012 est.)<br>
+_municipal solid waste generated annually_: 82,000 tons (2024 est.)<br>
 _percent of municipal solid waste recycled_: 2% (2012 est.)<br>
 
 ## Government
@@ -292,7 +288,7 @@ Free Democratic Movement or FDM<br>One Bermuda Alliance or OBA<br>Progressive La
 none (overseas territory of the UK)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Acting Consul General Vanja VUKOTA (since December 2024)<br>
+_chief of mission_: Consul General Antoinette HURTADO (since 27 March 2025)<br>
 _embassy_: US Consulate Bermuda, 16 Middle Road, Devonshire, DV 03, Bermuda<br>
 _mailing address_: 5300 Hamilton Place, Washington, DC 20520-5300<br>
 _telephone_: (441) 295-1342<br>
@@ -310,9 +306,9 @@ none (overseas territory of the UK)<br>
 Bermuda Day, 24 May<br>
 <strong>note:</strong> formerly known as Victoria Day, Empire Day, and Commonwealth Day<br>
 
-**Flag description**<br>
-red, with the UK flag in the upper hoist-side quadrant and the Bermudian coat of arms centered on the outer half of the flag; the coat of arms is a white shield with a red lion on a green field, holding a scrolled shield showing the sinking of the ship Sea Venture off Bermuda in 1609; it was the shipwreck that led to the settling of Bermuda<br>
-<strong>note:</strong> Bermuda is the only British overseas territory that uses a red ensign on its flag; all others use blue<br>
+**Flag**<br>
+<strong>description:</strong> a red field with the UK flag in the upper-left quadrant and the Bermudian coat of arms centered on the right half of the flag; the coat of arms is a white shield with a red lion on a green field, holding a scroll showing the sinking of the ship "Sea Venture" <br><br><strong>history:</strong> the 1609 shipwreck of the "Sea Venture" led to the settling of Bermuda<br>
+<strong>note:</strong> Bermuda is the only British overseas territory that uses a red field on its flag; all others use blue<br>
 
 **National symbol(s)**<br>
 red lion<br>
@@ -357,8 +353,10 @@ $8.98 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-1.9% (2017 est.)<br>
-1.4% (2016 est.)<br>
+2.8% (2022 est.)<br>
+1.4% (2021 est.)<br>
+0% (2020 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.2% (2023 est.)<br>
@@ -457,11 +455,6 @@ _imports_: 4 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 4,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 577,000 metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 9 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 577,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 122.737 million Btu/person (2023 est.)<br>

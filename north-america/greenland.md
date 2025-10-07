@@ -153,27 +153,18 @@ _female_: 77.3 years<br>
 **Gross reproduction rate**<br>
 0.92 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Physician density**<br>
 1.87 physicians/1,000 population (2016)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
+_improved: total_: total: 62.5% of population (2022 est.)<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_unimproved: total_: total: 37.5% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 39.4% (2023 est.)<br>
@@ -201,11 +192,13 @@ _other_: 99.4% (2022 est.)<br>
 _urban population_: 87.9% of total population (2023)<br>
 _rate of urbanization_: 0.41% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.51 megatons (2016 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 527,000 metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 12 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 527,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 50,000 tons (2010 est.)<br>
+_municipal solid waste generated annually_: 50,000 tons (2024 est.)<br>
 
 ## Government
 
@@ -299,8 +292,8 @@ none (extensive self-rule as part of the Kingdom of Denmark)<br>
 National Day, June 21<br>
 <strong>note:</strong> marks the summer solstice and the longest day of the year in the Northern Hemisphere<br>
 
-**Flag description**<br>
-two equal horizontal bands of white (top) and red, with a large disk slightly to the hoist side of center; the top half of the disk is red, and the bottom is white; the design represents the sun reflecting off a field of ice; the colors are the same as those of the Danish flag and symbolize Greenland's links to the Kingdom of Denmark<br>
+**Flag**<br>
+<strong>description:</strong> two equal horizontal bands of white (top) and red, with a large disk set slightly to the left; the top half of the disk is red, and the bottom is white<br><br><strong>meaning:</strong> the design represents the sun reflecting off a field of ice; the colors are the same as the Danish flag and symbolize Greenland's links to the Kingdom of Denmark<br>
 
 **National symbol(s)**<br>
 polar bear<br>
@@ -343,6 +336,12 @@ $69,300 (2021 est.)<br>
 **GDP (official exchange rate)**<br>
 $3.327 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
+
+**Inflation rate (consumer prices)**<br>
+1.2% (2022 est.)<br>
+0% (2021 est.)<br>
+2.1% (2020 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 16.6% (2023 est.)<br>
@@ -431,11 +430,6 @@ _proven reserves_: 383 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 4,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 527,000 metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 12 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 527,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

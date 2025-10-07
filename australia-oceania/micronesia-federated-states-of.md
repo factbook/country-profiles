@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Each of the four states that compose the Federated States of Micronesia (FSM) -- Chuuk, Kosrae, Pohnpei, and Yap -- has its own unique history and cultural traditions. The first humans arrived in what is now the FSM in the second millennium B.C. In the 800s A.D., construction of the artificial islets at the Nan Madol complex in Pohnpei began, with the main architecture being built around 1200. At its height, Nan Madol united the approximately 25,000 people of Pohnpei under the Saudeleur Dynasty. By 1250, Kosrae was united in a kingdom centered in Leluh. Yap’s society became strictly hierarchical, with chiefs receiving tributes from islands up to 1,100 km (700 mi) away. Widespread human settlement in Chuuk began in the 1300s, and the different islands in the Chuuk Lagoon were frequently at war with one another.</p> <p>Portuguese and Spanish explorers visited a few of the islands in the 1500s, and Spain began exerting nominal, but not day-to-day, control over some of the islands -- which they named the Caroline Islands -- in the 1600s. In 1899, Spain sold all of the FSM to Germany. Japan seized the islands in 1914 and was granted a League of Nations mandate to administer them in 1920. The Japanese navy built bases across most of the islands and headquartered their Pacific naval operations in Chuuk. The US bombed Chuuk in 1944 but largely bypassed the other islands in its leapfrog campaign across the Pacific. </p> <p>In 1947, the FSM came under US administration as part of the Trust Territory of the Pacific Islands, which comprised six districts: Chuuk, the Marshall Islands, the Northern Mariana Islands, Palau, Pohnpei, and Yap; Kosrae was separated from Pohnpei into a separate district in 1977. In 1979, Chuuk, Kosrae, Pohnpei, and Yap ratified the FSM Constitution and declared independence while the other three districts opted to pursue separate political status. There are significant inter-island rivalries stemming from their different histories and cultures. Chuuk, the most populous but poorest state, has pushed for secession, but an independence referendum has been repeatedly postponed.</p><br>
+<p>Each of the four states that compose the Federated States of Micronesia (FSM) -- Chuuk, Kosrae, Pohnpei, and Yap -- has its own unique history and cultural traditions. The first humans arrived in what is now the FSM in the second millennium B.C. In the 800s A.D., construction of the artificial islets at the Nan Madol complex in Pohnpei began, with the main architecture being built around 1200. At its height, Nan Madol united the approximately 25,000 people of Pohnpei under the Saudeleur Dynasty. By 1250, Kosrae was united in a kingdom centered in Leluh. Yap’s society became strictly hierarchical, with chiefs receiving tributes from islands up to 1,100 km (700 mi) away. Widespread human settlement in Chuuk began in the 1300s, and the different islands in the Chuuk Lagoon were frequently at war with one another.</p> <p>Portuguese and Spanish explorers visited a few of the islands in the 1500s, and Spain began exerting nominal, but not day-to-day, control over some of the islands -- which they named the Caroline Islands -- in the 1600s. In 1899, Spain sold all of the FSM to Germany. Japan seized the islands in 1914 and was granted a League of Nations mandate to administer them in 1920. During WWII, Japan built military bases across most of the islands and headquartered their Pacific naval operations in Chuuk. The US bombed Chuuk in 1944 but largely bypassed the other islands in its leapfrog campaign across the Pacific. </p> <p>In 1947, the FSM came under US administration as part of the Trust Territory of the Pacific Islands, which comprised six districts: Chuuk, the Marshall Islands, the Northern Mariana Islands, Palau, Pohnpei, and Yap; Kosrae was separated from Pohnpei into a separate district in 1977. In 1979, Chuuk, Kosrae, Pohnpei, and Yap ratified the FSM Constitution and declared independence while the other three districts opted to pursue separate political status. There are significant inter-island rivalries stemming from their different histories and cultures. Chuuk, the most populous but poorest state, has pushed for secession, but an independence referendum has been repeatedly postponed.</p><br>
 
 ## Geography
 
@@ -154,13 +154,6 @@ _female_: 77.2 years<br>
 **Gross reproduction rate**<br>
 1.07 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
-**Drinking water source**<br>
-_improved: total_: total: 78.6% of population<br>
-_unimproved: total_: total: 21.4% of population (2017 est.)<br>
-
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 11% of GDP (2021)<br>
 _Health expenditure (as % of national budget)_: 1.9% of national budget (2022 est.)<br>
@@ -169,12 +162,7 @@ _Health expenditure (as % of national budget)_: 1.9% of national budget (2022 es
 0.97 physicians/1,000 population (2020)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
 _improved: total_: total: 88.3% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 11.7% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 45.8% (2016)<br>
@@ -217,16 +205,16 @@ _other_: 0.8% (2022 est.)<br>
 _urban population_: 23.4% of total population (2023)<br>
 _rate of urbanization_: 1.52% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 7.79 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.14 megatons (2016 est.)<br>
-_methane emissions_: 0.02 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 121,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 121,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+8.1 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 26,040 tons (2016 est.)<br>
-
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
+_municipal solid waste generated annually_: 26,000 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 15.2% (2022 est.)<br>
 
 ## Government
 
@@ -325,8 +313,8 @@ ACP, ADB, AOSIS, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, IMF, IOC, IOM, IP
 **National holiday**<br>
 Constitution Day, 10 May (1979)<br>
 
-**Flag description**<br>
-light blue with four white five-pointed stars centered and arranged in a diamond pattern; blue stands for the Pacific Ocean, and the stars for the four island groups of Chuuk, Kosrae, Pohnpei, and Yap<br>
+**Flag**<br>
+<strong>description:</strong> light blue with four five-pointed white stars centered and arranged in a diamond pattern<br><br><strong>meaning:</strong> blue stands for the Pacific Ocean, and the stars for the four island groups of Chuuk, Kosrae, Pohnpei, and Yap<br>
 
 **National symbol(s)**<br>
 four five-pointed white stars on a light blue field, hibiscus flower<br>
@@ -336,8 +324,8 @@ light blue, white<br>
 
 **National anthem(s)**<br>
 _title_: "Patriots of Micronesia"<br>
-_lyrics/music_: unknown/August Daniel BINZER<br>
-_history_: adopted 1991; also known as "Across All Micronesia;" the music is based on the 1820 German patriotic song "Ich hab mich ergeben," which was the West German national anthem from 1949 to 1950<br>
+_lyrics/music_: unknown<br>
+_history_: adopted 1991<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -401,7 +389,7 @@ tourism, construction; specialized aquaculture, craft items (shell and wood)<br>
 
 **Budget**<br>
 _revenues_: $137.795 million (2020 est.)<br>
-_expenditures_: $87.355 million (2020 est.)<br>
+_expenditures_: $111.963 million (2020 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
@@ -465,10 +453,6 @@ _electrification - rural areas_: 79.4%<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 800 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 121,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 121,000 metric tonnes of CO2 (2023 est.)<br>
-
 ## Communications
 
 **Telephones - fixed lines**<br>
@@ -519,7 +503,7 @@ _key ports_: Colonia, Lele Harbor, Moen, Pohnpei Harbor<br>
 no military forces; Federated States of Micronesia National Police (includes a maritime wing) (2025)<br>
 
 **Military - note**<br>
-defense is the responsibility of the US; in 1982, the FSM signed a Compact of Free Association (COFA) with the US, which granted the FSM financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986 and its funding was renewed in 2003; Micronesians can serve in the US armed forces<br><br>the FSM has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within the FSM's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>
+defense is the responsibility of the US; in 1982, the FSM signed a Compact of Free Association (COFA) with the US, which granted the FSM financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986; Micronesians can serve in the US armed forces<br><br>the FSM has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within the FSM's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>
 
 ## Transnational Issues
 

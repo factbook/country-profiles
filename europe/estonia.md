@@ -162,16 +162,13 @@ _female_: 83.2 years<br>
 **Gross reproduction rate**<br>
 0.79 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 99.6% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0.4% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.) NA<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.) NA<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6.9% of GDP (2022)<br>
@@ -184,12 +181,12 @@ _Health expenditure (as % of national budget)_: 13.2% of national budget (2022 e
 4.5 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.8% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 99.8% of population<br>
-_unimproved: urban_: urban: 0.2% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0.2% of population (2020 est.)<br>
+_improved: urban_: urban: 99.7% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 99.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0.2% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 21.2% (2016)<br>
@@ -242,23 +239,32 @@ _other_: 19.9% (2022 est.)<br>
 _urban population_: 69.8% of total population (2023)<br>
 _rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 6.35 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 16.59 megatons (2016 est.)<br>
-_methane emissions_: 0.99 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 4.607 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: -19,814 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 3.977 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 649,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+6.6 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 11.9 kt (2022-2024 est.)<br>
+_agriculture_: 27.3 kt (2019-2021 est.)<br>
+_waste_: 23.7 kt (2019-2021 est.)<br>
+_other_: 2.2 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 473,000 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 117,020 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 24.7% (2015 est.)<br>
+_municipal solid waste generated annually_: 489,500 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 39.1% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 60 million cubic meters (2020 est.)<br>
-_industrial_: 790 million cubic meters (2020 est.)<br>
-_agricultural_: 4.5 million cubic meters (2017 est.)<br>
+_municipal_: 64.998 million cubic meters (2022)<br>
+_industrial_: 1.135 billion cubic meters (2022)<br>
+_agricultural_: 5 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-12.81 billion cubic meters (2020 est.)<br>
+12.806 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -357,8 +363,8 @@ Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperat
 Independence Day, 24 February (1918)<br>
 <strong>note:</strong> 24 February 1918 was the date Estonia declared its independence from Soviet Russia and established its statehood; 20 August 1991 was the date it declared its independence from the Soviet Union and restored its statehood<br>
 
-**Flag description**<br>
-three equal horizontal bands of blue (top), black, and white; blue represents faith, loyalty, and devotion, and also the sky, sea, and lakes; black stands for the soil of the country, as well as the Estonian people's past suffering; white stands for striving towards enlightenment and virtue and also for birch bark, snow, and summer nights illuminated by the midnight sun<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of blue (top), black, and white<br><br><strong>meaning:</strong> blue stands for faith, loyalty, and devotion, and also the sky, sea, and lakes; black for the country's soil and the Estonian people's past suffering; white for striving for enlightenment and virtue and also for birch bark, snow, and summer nights illuminated by the midnight sun<br>
 
 **National symbol(s)**<br>
 barn swallow, cornflower<br>
@@ -474,9 +480,9 @@ _highest 10%_: 24.4% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $13.907 billion (2022 est.)<br>
-_expenditures_: $13.505 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $15.784 billion (2023 est.)<br>
+_expenditures_: $16.721 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 28.3% of GDP (2023 est.)<br>
@@ -567,12 +573,6 @@ _consumption_: 334.748 million cubic meters (2023 est.)<br>
 _exports_: 675.708 million cubic meters (2023 est.)<br>
 _imports_: 1.01 billion cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 4.607 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: -19,814 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 3.977 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 649,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 73.679 million Btu/person (2023 est.)<br>
 
@@ -633,14 +633,14 @@ Estonian Defense Forces: Land Forces, Navy, Air Force; Estonian Defense League 
 <strong>note:</strong> the Estonian Defense League is a voluntary national defense organization that operates under the Estonian Ministry of Defense<br>
 
 **Military expenditures**<br>
+3.4% of GDP (2025 est.)<br>
 3.4% of GDP (2024 est.)<br>
-2.9% of GDP (2023)<br>
-2.2% of GDP (2022)<br>
-2% of GDP (2021)<br>
-2.3% of GDP (2020)<br>
+3% of GDP (2023 est.)<br>
+2.2% of GDP (2022 est.)<br>
+2% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,500 active-duty Defense Forces; approximately 15,000 Defense League (2024)<br>
+approximately 7,500 active-duty military personnel (2025)<br>
 <strong>note: </strong>the Estonian Defense Forces rely largely on reservists who have completed compulsory conscription in the previous 10 years to fill out its active duty and Territorial Defense units during a crisis; there are more than 40,000 trained reservists, and approximately 230,000 Estonians are enrolled in the mobilization registry<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -656,6 +656,6 @@ Estonia’s defense policy aims to guarantee the country’s independence and so
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,020 (Ukraine) (as of 2 March 2024)<br>
-_stateless persons_: 70,604 (2022); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
+_refugees_: 42,439 (2024 est.)<br>
+_stateless persons_: 63,944 (2024 est.)<br>
 

@@ -163,16 +163,13 @@ _female_: 65 years<br>
 **Gross reproduction rate**<br>
 2.61 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-15.5% (2017/18)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 79% of population<br>
-_improved: rural_: rural: 70.8% of population<br>
-_improved: total_: total: 74.7% of population<br>
-_unimproved: urban_: urban: 21% of population<br>
-_unimproved: rural_: rural: 29.2% of population<br>
-_unimproved: total_: total: 25.3% of population (2020 est.)<br>
+_improved: urban_: urban: 74.1% of population (2022 est.)<br>
+_improved: rural_: rural: 60.8% of population (2022 est.)<br>
+_improved: total_: total: 67.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 25.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 39.2% of population (2022 est.)<br>
+_unimproved: total_: total: 32.6% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 2.6% of GDP (2021)<br>
@@ -185,12 +182,12 @@ _Health expenditure (as % of national budget)_: 2.6% of national budget (2022 es
 0.4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 56.3% of population<br>
-_improved: rural_: rural: 18.1% of population<br>
-_improved: total_: total: 36.6% of population<br>
-_unimproved: urban_: urban: 43.7% of population<br>
-_unimproved: rural_: rural: 81.9% of population<br>
-_unimproved: total_: total: 63.4% of population (2020 est.)<br>
+_improved: urban_: urban: 58.5% of population (2022 est.)<br>
+_improved: rural_: rural: 20.8% of population (2022 est.)<br>
+_improved: total_: total: 39.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 41.5% of population (2022 est.)<br>
+_unimproved: rural_: rural: 79.2% of population (2022 est.)<br>
+_unimproved: total_: total: 60.5% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 9.6% (2016)<br>
@@ -256,23 +253,32 @@ _other_: 30% (2022 est.)<br>
 _urban population_: 50.1% of total population (2023)<br>
 _rate of urbanization_: 3.74% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 31.51 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 6.48 megatons (2016 est.)<br>
-_methane emissions_: 5.8 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 5.948 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 379,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 5.263 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 306,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+32.6 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 63.4 kt (2022-2024 est.)<br>
+_agriculture_: 106.1 kt (2019-2021 est.)<br>
+_waste_: 34.3 kt (2019-2021 est.)<br>
+_other_: 43.5 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 685,936 tons (1993 est.)<br>
-_municipal solid waste recycled annually_: 171,484 tons (2005 est.)<br>
-_percent of municipal solid waste recycled_: 25% (2005 est.)<br>
+_municipal solid waste generated annually_: 685,900 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 56.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 150 million cubic meters (2020 est.)<br>
-_industrial_: 30 million cubic meters (2020 est.)<br>
-_agricultural_: 60 million cubic meters (2020 est.)<br>
+_municipal_: 145 million cubic meters (2022 est.)<br>
+_industrial_: 30 million cubic meters (2022 est.)<br>
+_agricultural_: 59 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-26.39 billion cubic meters (2020 est.)<br>
+26.39 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -372,9 +378,8 @@ ACP, AfDB, AU, CD, ECOWAS, Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM,
 **National holiday**<br>
 Independence Day, 1 August (1960)<br>
 
-**Flag description**<br>
-two equal horizontal bands of yellow (top) and red (bottom) with a vertical green band on the hoist side; green stands for hope and revival, yellow for wealth, and red for courage<br>
-<strong>note:</strong> uses the popular pan-African colors of Ethiopia<br>
+**Flag**<br>
+<strong>description:</strong> two equal horizontal bands of yellow (top) and red (bottom) to the right, with a vertical green band on the left side <br><br><strong>meaning:</strong> green stands for hope and revival, yellow for wealth, and red for courage<br><br><strong>history:</strong> uses the colors of the Pan-African movement<br>
 
 **National symbol(s)**<br>
 leopard<br>
@@ -489,6 +494,9 @@ _highest 10%_: 27.2% (2021 est.)<br>
 _revenues_: $2.024 billion (2019 est.)<br>
 _expenditures_: $2.101 billion (2019 est.)<br>
 
+**Public debt**<br>
+49.7% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 -$1.609 billion (2023 est.)<br>
 -$991.005 million (2022 est.)<br>
@@ -565,12 +573,6 @@ _crude oil estimated reserves_: 8 million barrels (2021 est.)<br>
 _consumption_: 157.25 million cubic meters (2023 est.)<br>
 _imports_: 157.25 million cubic meters (2023 est.)<br>
 _proven reserves_: 1.133 billion cubic meters (2021 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 5.948 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 379,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 5.263 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 306,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 6.472 million Btu/person (2023 est.)<br>
@@ -656,6 +658,7 @@ Jama’at Nusrat al Islam wal Muslimeen (JNIM); Islamic State in the Greater Sah
 
 ## Transnational Issues
 
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch list — Benin did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/benin/<br>
+**Refugees and internally displaced persons**<br>
+_refugees_: 23,225 (2024 est.)<br>
+_IDPs_: 12,501 (2024 est.)<br>
 

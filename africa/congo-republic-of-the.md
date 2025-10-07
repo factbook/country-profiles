@@ -100,7 +100,7 @@ French (official), French Lingala and Monokutuba (trade languages), many local l
 _major-language sample(s)_: <br>Buku oyo ya bosembo ya Mokili Mobimba Ezali na Makanisi ya Liboso Mpenza. (Lingala)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 33.1%, Awakening Churches/Christian Revival 22.3%, Protestant 19.9%, Salutiste 2.2%, Muslim 1.6%, Kimbanguiste 1.5%, other 8.1%, none 11.3% (2007 est.)<br>
+Roman Catholic 33.1%, Awakening Churches/Christian Revival 22.3%, Protestant 19.9%, Salutiste 2.2%, Muslim 1.6%, Kimbanguist 1.5%, other 8.1%, none 11.3% (2007 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 37.8% (male 1,162,298/female 1,143,668)<br>
@@ -170,31 +170,12 @@ _female_: 74.3 years<br>
 **Gross reproduction rate**<br>
 1.87 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-30.1% (2014/15)<br>
-
-**Drinking water source**<br>
-_improved: urban_: urban: 97.5% of population<br>
-_improved: rural_: rural: 56.4% of population<br>
-_improved: total_: total: 84.2% of population<br>
-_unimproved: urban_: urban: 2.5% of population<br>
-_unimproved: rural_: rural: 43.6% of population<br>
-_unimproved: total_: total: 15.8% of population (2020 est.)<br>
-
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 3.9% of GDP (2021)<br>
 _Health expenditure (as % of national budget)_: 3.5% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.17 physicians/1,000 population (2022)<br>
-
-**Sanitation facility access**<br>
-_improved: urban_: urban: 73.4% of population<br>
-_improved: rural_: rural: 15.1% of population<br>
-_improved: total_: total: 54.7% of population<br>
-_unimproved: urban_: urban: 26.6% of population<br>
-_unimproved: rural_: rural: 84.9% of population<br>
-_unimproved: total_: total: 45.3% of population (2020 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 9.6% (2016)<br>
@@ -247,23 +228,31 @@ _other_: 4.5% (2022 est.)<br>
 _urban population_: 69.2% of total population (2023)<br>
 _rate of urbanization_: 3.19% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 29.48 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 3.28 megatons (2016 est.)<br>
-_methane emissions_: 2.24 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 2.66 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.826 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 834,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+36.5 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 308.8 kt (2022-2024 est.)<br>
+_agriculture_: 19.7 kt (2019-2021 est.)<br>
+_waste_: 25.3 kt (2019-2021 est.)<br>
+_other_: 11.4 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 451,200 tons (1993 est.)<br>
-_municipal solid waste recycled annually_: 118,214 tons (2005 est.)<br>
-_percent of municipal solid waste recycled_: 26.2% (2005 est.)<br>
+_municipal solid waste generated annually_: 451,200 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 17.2% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 60 million cubic meters (2020 est.)<br>
-_industrial_: 20 million cubic meters (2020 est.)<br>
-_agricultural_: 4 million cubic meters (2017 est.)<br>
+_municipal_: 63.7 million cubic meters (2022 est.)<br>
+_industrial_: 24 million cubic meters (2022 est.)<br>
+_agricultural_: 4 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-832 billion cubic meters (2020 est.)<br>
+832 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -285,7 +274,7 @@ _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
 _etymology_: named after the Italian-born French explorer and humanitarian, Pierre Savorgnan de BRAZZA (1852-1905), who founded the town in 1883<br>
 
 **Administrative divisions**<br>
-12 departments; Bouenza, Brazzaville, Cuvette, Cuvette-Ouest, Kouilou, Lekoumou, Likouala, Niari, Plateaux, Pointe-Noire, Pool, Sangha<br>
+15 departments; Bouenza, Brazzaville, Congo-Oubangui, Cuvette, Cuvette-Ouest, Djoue-Lefini, Kouilou, Lekoumou, Likouala, Niari, Nkeni-Alima, Plateaux, Pointe-Noire, Pool, Sangha<br>
 
 **Legal system**<br>
 mixed system of French civil law and customary law<br>
@@ -349,14 +338,14 @@ _subordinate courts_: Court of Audit and Budgetary Discipline; courts of appeal;
 Alliance of the Presidential Majority or AMP<br>Action Movement for Renewal or MAR <br>Citizen's Rally or RC <br>Congolese Labour Party or PCT <br>Congolese Movement for Democracy and Integral Development or MCDDI <br>Congo on the Move or LCEM <br>Movement for Unity, Solidarity, and Work or MUST <br>Pan-African Union for Social Development or UPADS <br>Club 2002-Party for the Unity and the Republic or Club 2002 <br>Patriotic Union for Democracy and Progress or UPDP <br>Perspectives and Realities Club or CPR <br>Rally for Democracy and Social Progress or RDPS <br>Republican and Liberal Party or PRL <br>Union of Democratic Forces or UDF <br>Union for Democracy and Republic or UDR<br>Union of Humanist Democrats or UDH-YUKI <br>Union for the Republic or UR <br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Serge MOMBOULI (since 31 July 2001)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Firmine BOUITY (since 6 September 2025)<br>
 _chancery_: 1720 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 726-5500<br>
 _FAX_: [1] (202) 726-1860<br>
 _email address and website_: <br>info@ambacongo-us.org<br><br>http://www.ambacongo-us.org/en-us/home.aspx<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Eugene S. YOUNG (since 30 March 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Amanda S. JACOBSEN (since 18 July 2025)<br>
 _embassy_: 70-83 Section D, Boulevard Denis Sassou N'Guesso, Brazzaville<br>
 _mailing address_: 2090 Brazzaville Place, Washington DC 20521-2090<br>
 _telephone_: [242] 06 612-2000, [242] 05 387-9700<br>
@@ -371,9 +360,9 @@ ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD
 **National holiday**<br>
 Independence Day, 15 August (1960)<br>
 
-**Flag description**<br>
-divided diagonally from the lower hoist side by a yellow band; the upper triangle (hoist side) is green and the lower triangle is red; green symbolizes agriculture and forests, and yellow the friendship and nobility of the people; the meaning of the red color is not noted but has been associated with the struggle for independence<br>
-<strong>note:</strong> uses the popular pan-African colors of Ethiopia<br>
+**Flag**<br>
+<strong>description:</strong> divided diagonally from the lower-left side by a wide yellow band; the upper triangle (left side) is green, and the lower triangle is red<br><br><strong>meaning:</strong> green stands for agriculture and forests, and yellow for the people's friendship and nobility; the meaning of the red color is not noted but has been associated with the struggle for independence<br>
+<strong>history:</strong> uses the colors of the Pan-African movement<br>
 
 **National symbol(s)**<br>
 lion, elephant<br>
@@ -473,8 +462,11 @@ _female_: 39% (2024 est.)<br>
 
 **Budget**<br>
 _revenues_: $2.393 billion (2020 est.)<br>
-_expenditures_: $2.409 billion (2020 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_expenditures_: $3.231 billion (2020 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+128.7% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 6.5% (of GDP) (2021 est.)<br>
@@ -565,11 +557,6 @@ _production_: 425 million cubic meters (2023 est.)<br>
 _consumption_: 425 million cubic meters (2023 est.)<br>
 _proven reserves_: 283.99 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 2.66 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 1.826 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 834,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 7.351 million Btu/person (2023 est.)<br>
 
@@ -652,9 +639,8 @@ the FAC's primary focuses are internal and maritime security; since its creation
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 33,593 (Central African Republic), 29,785 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
-_IDPs_: 27,000 (multiple civil wars since 1992) (2022)<br>
+_refugees_: 69,766 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore the Republic of the Congo remained on Tier 2 Watch List for the second consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/republic-of-the-congo/<br>
+_tier rating_: Tier 2 Watch List — the Republic of the Congo does not fully meet the minimum standards for the elimination of trafficking, but the government has devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards; therefore, the Republic of the Congo was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3 and remained on Tier 2 Watch List for the third consecutive year; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/republic-of-the-congo/<br>
 

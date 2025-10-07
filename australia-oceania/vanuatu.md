@@ -158,16 +158,13 @@ _female_: 77.4 years<br>
 **Gross reproduction rate**<br>
 1.23 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-49% (2013)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 89.7% of population<br>
-_improved: total_: total: 92.3% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 10.3% of population<br>
-_unimproved: total_: total: 7.7% of population (2020 est.)<br>
+_improved: urban_: urban: 99.2% of population (2022 est.)<br>
+_improved: rural_: rural: 88.6% of population (2022 est.)<br>
+_improved: total_: total: 91.3% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.8% of population (2022 est.)<br>
+_unimproved: rural_: rural: 11.4% of population (2022 est.)<br>
+_unimproved: total_: total: 8.7% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.4% of GDP (2021)<br>
@@ -177,12 +174,12 @@ _Health expenditure (as % of national budget)_: 3.9% of national budget (2022 es
 0.16 physicians/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 91.1% of population<br>
-_improved: rural_: rural: 60.4% of population<br>
-_improved: total_: total: 68.2% of population<br>
-_unimproved: urban_: urban: 8.9% of population<br>
-_unimproved: rural_: rural: 39.6% of population<br>
-_unimproved: total_: total: 31.8% of population (2020 est.)<br>
+_improved: urban_: urban: 94% of population (2022 est.)<br>
+_improved: rural_: rural: 66.9% of population (2022 est.)<br>
+_improved: total_: total: 73.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 33.1% of population (2022 est.)<br>
+_unimproved: total_: total: 26.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 25.2% (2016)<br>
@@ -235,18 +232,19 @@ _other_: 48.4% (2022 est.)<br>
 _urban population_: 26% of total population (2023)<br>
 _rate of urbanization_: 2.55% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 8.42 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.15 megatons (2016 est.)<br>
-_methane emissions_: 0.5 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 292,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 292,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+9.1 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 70,225 tons (2012 est.)<br>
-_municipal solid waste recycled annually_: 25,983 tons (2013 est.)<br>
-_percent of municipal solid waste recycled_: 37% (2013 est.)<br>
+_municipal solid waste generated annually_: 70,200 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 52.9% (2022 est.)<br>
 
 **Total renewable water resources**<br>
-10 billion cubic meters (2020 est.)<br>
+10 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -340,8 +338,8 @@ ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO,
 **National holiday**<br>
 Independence Day, 30 July (1980)<br>
 
-**Flag description**<br>
-two equal horizontal bands of red (top) and green with a black isosceles triangle (based on the hoist side), all separated by a black-edged yellow stripe in the shape of a horizontal Y (the two points of the Y face the hoist side and enclose the triangle); a boar's tusk in the triangle encircles two crossed namele fern fronds, all in yellow; red stands for unity and the blood of men and boars, green for the richness of the islands, and black for the ni-Vanuatu people; the yellow Y-shape reflects the islands' layout in the Pacific Ocean and symbolizes the light of the Gospel; the boar's tusk is a symbol of prosperity; the ferns represent peace<br>
+**Flag**<br>
+<strong>description: </strong>two equal horizontal bands of red (top) and green with a black isosceles triangle (based on the left side); a black-edged yellow stripe in the shape of a horizontal "Y" faces the left side and encloses the triangle; a boar's tusk in the triangle circles two crossed namele fern fronds, all in yellow<br><br><strong>meaning:</strong> red stands for unity and the blood of men and boars, green for the richness of the islands, and black for the ni-Vanuatu people; the yellow "Y" reflects the islands' layout in the Pacific Ocean and symbolizes the light of the Gospel; the boar's tusk is a symbol of prosperity; the ferns represent peace<br>
 <strong>note:</strong> one of four national flags that reflect the shape of the country in the flag design; the others are Bosnia and Herzegovina, Brazil, and Eritrea<br>
 
 **National symbol(s)**<br>
@@ -353,7 +351,7 @@ red, black, green, yellow<br>
 **National anthem(s)**<br>
 _title_: "Yumi, Yumi, Yumi" (We, We, We)<br>
 _lyrics/music_: Francois Vincent AYSSAV<br>
-_history_: adopted 1980; the anthem is written in Bislama, a Creole language<br>
+_history_: adopted 1980; the anthem is written in the native Bislama<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -454,13 +452,13 @@ _highest 10%_: 24.7% (2019 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $415.063 million (2021 est.)<br>
-_expenditures_: $325.587 million (2021 est.)<br>
+_revenues_: $386.577 million (2023 est.)<br>
+_expenditures_: $378.659 million (2023 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 71.7% of GDP (2023 est.)<br>
-<strong data-olk-copy-source="MessageBody">note:</strong> central government debt as a % of GDP<br>
+<strong>note:</strong> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 17.4% (of GDP) (2023 est.)<br>
@@ -540,10 +538,6 @@ _biomass and waste_: 0.1% of total installed capacity (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 2,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 292,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 292,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 12.934 million Btu/person (2023 est.)<br>
 
@@ -602,6 +596,9 @@ the separate British and French police forces were unified in 1980 as the New He
 
 ## Transnational Issues
 
+**Refugees and internally displaced persons**<br>
+_IDPs_: 2,336 (2024 est.)<br>
+
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Vanuatu remained on Tier 2 Watch List for the second consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/vanuatu/<br>
+_tier rating_: Tier 2 Watch List — Vanuatu does not fully meet the minimum standards for the elimination of trafficking, but the government has devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards; therefore, Vanuatu was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3 and remained on Tier 2 Watch List for the third consecutive year; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/vanuatu/<br>
 

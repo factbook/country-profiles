@@ -164,16 +164,13 @@ _female_: 66.1 years<br>
 **Gross reproduction rate**<br>
 1.98 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-35.3% (2020/21 est.)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 94.7% of population<br>
-_improved: rural_: rural: 71.3% of population<br>
-_improved: total_: total: 78.5% of population<br>
-_unimproved: urban_: urban: 5.3% of population<br>
-_unimproved: rural_: rural: 28.7% of population<br>
-_unimproved: total_: total: 21.5% of population (2020 est.)<br>
+_improved: urban_: urban: 80.9% of population (2022 est.)<br>
+_improved: rural_: rural: 34.8% of population (2022 est.)<br>
+_improved: total_: total: 49.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 19.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 65.2% of population (2022 est.)<br>
+_unimproved: total_: total: 50.5% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6.4% of GDP (2021)<br>
@@ -186,12 +183,12 @@ _Health expenditure (as % of national budget)_: 8.4% of national budget (2022 es
 0.2 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 90.8% of population<br>
-_improved: rural_: rural: 37.7% of population<br>
-_improved: total_: total: 54% of population<br>
-_unimproved: urban_: urban: 9.2% of population<br>
-_unimproved: rural_: rural: 62.3% of population<br>
-_unimproved: total_: total: 46% of population (2020 est.)<br>
+_improved: urban_: urban: 91.2% of population (2022 est.)<br>
+_improved: rural_: rural: 42.6% of population (2022 est.)<br>
+_improved: total_: total: 58.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 8.8% of population (2022 est.)<br>
+_unimproved: rural_: rural: 57.4% of population (2022 est.)<br>
+_unimproved: total_: total: 41.9% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 5.6% (2016)<br>
@@ -257,23 +254,25 @@ _other_: 24.4% (2022 est.)<br>
 _urban population_: 32.5% of total population (2023)<br>
 _rate of urbanization_: 4.75% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 40.74 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 3.42 megatons (2016 est.)<br>
-_methane emissions_: 12.85 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 5.243 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 7 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 5.243 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+38.5 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2,575,251 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 309,030 tons (2005 est.)<br>
-_percent of municipal solid waste recycled_: 12% (2005 est.)<br>
+_municipal solid waste generated annually_: 2.575 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 23% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 380 million cubic meters (2020 est.)<br>
-_industrial_: 20 million cubic meters (2020 est.)<br>
-_agricultural_: 420 million cubic meters (2020 est.)<br>
+_municipal_: 375.6 million cubic meters (2022 est.)<br>
+_industrial_: 21.7 million cubic meters (2022 est.)<br>
+_agricultural_: 420.7 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-13.5 billion cubic meters (2020 est.)<br>
+13.5 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -370,9 +369,8 @@ ACP, AfDB, AU (suspended), CD, EITI (compliant country), Entente, FAO, FZ, G-77,
 Republic Day, 11 December (1958)<br>
 <strong>note:</strong> commemorates the day that Upper Volta became an autonomous republic in the French Community<br>
 
-**Flag description**<br>
-two equal horizontal bands of red (top) and green with a yellow five-pointed star in the center; red stands for the country's struggle for independence, green for hope and abundance, and yellow for the country's mineral wealth<br>
-<strong>note:</strong> uses the popular pan-African colors of Ethiopia<br>
+**Flag**<br>
+<strong>description:</strong> two equal horizontal bands of red (top) and green, with a five-pointed yellow star in the center<br><br><strong>meaning:</strong> red stands for the country's struggle for independence, green for hope and abundance, and yellow for the country's mineral wealth<br><br><strong>history:</strong> uses the colors of the Pan-African movement<br>
 
 **National symbol(s)**<br>
 white stallion<br>
@@ -484,9 +482,9 @@ _highest 10%_: 30.2% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $4.649 billion (2022 est.)<br>
-_expenditures_: $4.018 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $5.174 billion (2023 est.)<br>
+_expenditures_: $6.308 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 61.3% of GDP (2023 est.)<br>
@@ -568,11 +566,6 @@ _imports_: 74 metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 37,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 5.243 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 7 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 5.243 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 3.481 million Btu/person (2023 est.)<br>
 
@@ -650,9 +643,9 @@ Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 36,372 (Mali) (2023)<br>
-_IDPs_: <p>2,062,534 (2023)</p><br>
+_refugees_: 41,408 (2024 est.)<br>
+_IDPs_: 2,065,358 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch list — Burkina Faso did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/burkina-faso/<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Burkina Faso remained on Tier 2 Watch List for the second consecutive year; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/burkina-faso/<br>
 

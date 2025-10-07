@@ -152,21 +152,8 @@ _female_: 85.7 years<br>
 **Gross reproduction rate**<br>
 0.81 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
-**Drinking water source**<br>
-_improved: total_: total: 94.2% of population<br>
-_unimproved: total_: total: 5.9% of population (2017 est.)<br>
-<strong>note</strong>: includes data for Guernsey<br>
-
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
 _improved: total_: total: 98.5% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 1.5% of population (2017)<br>
 
 ## Environment
 
@@ -190,8 +177,7 @@ _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Guernsey and Jersey<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 178,933 tons (2016 est.)<br>
-_municipal solid waste recycled annually_: 50,871 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 178,900 tons (2024 est.)<br>
 _percent of municipal solid waste recycled_: 28.4% (2016 est.)<br>
 <strong>note:</strong> data include combined totals for Guernsey and Jersey.<br>
 
@@ -217,7 +203,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: named after Saint HELIER, the patron saint of Jersey, who was reputedly martyred on the island in A.D. 555<br>
 
 **Administrative divisions**<br>
-none (British crown dependency); there are no first-order administrative divisions as defined by the US government, but there are 12 parishes; Grouville, Saint Brelade, Saint Clement, Saint Helier, Saint John, Saint Lawrence, Saint Martin, Saint Mary, Saint Ouen, Saint Peter, Saint Saviour, Trinity<br>
+none (British crown dependency); no first-order administrative divisions as defined by the US government, but 12 parishes; Grouville, Saint Brelade, Saint Clement, Saint Helier, Saint John, Saint Lawrence, Saint Martin, Saint Mary, Saint Ouen, Saint Peter, Saint Saviour, Trinity<br>
 
 **Legal system**<br>
 the laws of the UK apply, as well as local statutes<br>
@@ -273,8 +259,8 @@ none (British Crown dependency)<br>
 **National holiday**<br>
 Liberation Day, 9 May (1945)<br>
 
-**Flag description**<br>
-white with a diagonal red cross extending to the corners of the flag; a red shield with three lions in yellow is in the upper quadrant, with a yellow crown above; according to tradition, the ships of Jersey differentiated themselves from English ships flying the horizontal cross of St. George by rotating the cross to the "X" (saltire) configuration; because this arrangement resembled the Irish cross of St. Patrick, the Plantagenet crown and Jersey coat of arms were added<br>
+**Flag**<br>
+<strong>description:</strong> white with a diagonal red cross extending to the corners of the flag; a red shield with three lions in yellow is in the upper triangle, with a yellow crown above<br><br><strong>history:</strong> according to tradition, Jersey ships differentiated themselves from English ships that flew the horizontal cross of St. George by rotating their own cross to the "X" (saltire) configuration; this arrangement resembled the Irish cross of St. Patrick, so the Plantagenet crown and Jersey coat of arms were added<br>
 
 **National symbol(s)**<br>
 Jersey cow<br>

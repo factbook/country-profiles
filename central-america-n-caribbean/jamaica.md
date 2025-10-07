@@ -161,16 +161,13 @@ _female_: 78.1 years<br>
 **Gross reproduction rate**<br>
 1 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 98.3% of population<br>
-_improved: rural_: rural: 93.9% of population<br>
-_improved: total_: total: 96.4% of population<br>
-_unimproved: urban_: urban: 1.7% of population<br>
-_unimproved: rural_: rural: 6.1% of population<br>
-_unimproved: total_: total: 3.6% of population (2020 est.)<br>
+_improved: urban_: urban: 95.4% of population (2022 est.)<br>
+_improved: rural_: rural: 85.4% of population (2022 est.)<br>
+_improved: total_: total: 91.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 4.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 14.6% of population (2022 est.)<br>
+_unimproved: total_: total: 8.9% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 7.2% of GDP (2021)<br>
@@ -183,12 +180,12 @@ _Health expenditure (as % of national budget)_: 19% of national budget (2022 est
 1.7 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 98.6% of population<br>
-_improved: rural_: rural: 99.4% of population<br>
-_improved: total_: total: 98.9% of population<br>
-_unimproved: urban_: urban: 1.4% of population<br>
-_unimproved: rural_: rural: 0.6% of population<br>
-_unimproved: total_: total: 1.1% of population (2020 est.)<br>
+_improved: urban_: urban: 98.6% of population (2022 est.)<br>
+_improved: rural_: rural: 99.4% of population (2022 est.)<br>
+_improved: total_: total: 98.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.6% of population (2022 est.)<br>
+_unimproved: total_: total: 1.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 24.7% (2016)<br>
@@ -244,21 +241,26 @@ _other_: 5.7% (2022 est.)<br>
 _urban population_: 57.4% of total population (2023)<br>
 _rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 14.83 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 8.23 megatons (2016 est.)<br>
-_methane emissions_: 1.08 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 7.89 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 239,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 6.04 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 1.611 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+14.8 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1,051,695 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 1.052 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 15% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 140 million cubic meters (2020 est.)<br>
-_industrial_: 1.1 billion cubic meters (2020 est.)<br>
-_agricultural_: 110 million cubic meters (2020 est.)<br>
+_municipal_: 339.867 million cubic meters (2022 est.)<br>
+_industrial_: 43.989 million cubic meters (2022 est.)<br>
+_agricultural_: 78.972 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-10.82 billion cubic meters (2020 est.)<br>
+10.823 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -347,7 +349,7 @@ _email address and website_: <br>contactus@jamaicaembassy.org<br><br>Jamaican Em
 _consulate(s) general_: Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Amy TACHCO (since January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Scott RENNER (since 13 August 2025)<br>
 _embassy_: 142 Old Hope Road, Kingston 6<br>
 _mailing address_: 3210 Kingston Place, Washington DC&nbsp; 20521-3210<br>
 _telephone_: (876) 702-6000<br>
@@ -363,8 +365,8 @@ ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO
 **National holiday**<br>
 Independence Day, 6 August (1962)<br>
 
-**Flag description**<br>
-diagonal yellow cross divides the flag into four triangles, two green (top and bottom) and two black (hoist side and fly side); green stands for hope, vegetation, and agriculture, black for hardships overcome and to be faced, and yellow for sunshine and natural resources<br>
+**Flag**<br>
+<strong>description: </strong>diagonal yellow cross divides the flag into four triangles, two green (top and bottom) and two black (left and right)<br><br><strong>meaning: </strong>green stands for hope, vegetation, and agriculture; black for hardships overcome and to be faced; and yellow for sunshine and natural resources<br>
 
 **National symbol(s)**<br>
 green-and-black streamertail (bird), guaiacwood (<em>Guiacum officinale</em>)<br>
@@ -467,7 +469,7 @@ _female_: 16.4% (2024 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2% (2021 est.)<br>
 _highest 10%_: 29.6% (2021 est.)<br>
-% share of income accruing to lowest and highest 10% of population<br>
+<strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 17.9% of GDP (2024 est.)<br>
@@ -477,7 +479,7 @@ _highest 10%_: 29.6% (2021 est.)<br>
 
 **Budget**<br>
 _revenues_: $4.041 billion (2020 est.)<br>
-_expenditures_: $4.12 billion (2020 est.)<br>
+_expenditures_: $4.466 billion (2020 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
@@ -569,12 +571,6 @@ _refined petroleum consumption_: 41,000 bbl/day (2023 est.)<br>
 **Natural gas**<br>
 _consumption_: 822.549 million cubic meters (2023 est.)<br>
 _imports_: 822.549 million cubic meters (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 7.89 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 239,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 6.04 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 1.611 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 42.095 million Btu/person (2023 est.)<br>

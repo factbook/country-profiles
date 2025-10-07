@@ -73,6 +73,10 @@ _other_: 100% (2018 est.)<br>
 **Land use**<br>
 _other_: 100% (2018 est.)<br>
 
+**Carbon dioxide emissions**<br>
+_total emissions_: 294,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 294,000 metric tonnes of CO2 (2023 est.)<br>
+
 ## Government
 
 **Country name**<br>
@@ -90,7 +94,7 @@ the laws of the US apply<br>
 **Diplomatic representation from the US**<br>
 none (territories of the US)<br>
 
-**Flag description**<br>
+**Flag**<br>
 the US flag is used<br>
 
 ## Economy
@@ -102,10 +106,6 @@ _imports_: 108,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 2,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 294,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 294,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Transportation
 

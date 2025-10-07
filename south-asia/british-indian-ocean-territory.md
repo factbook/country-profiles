@@ -124,8 +124,8 @@ _embassy_: none (overseas territory of the UK)<br>
 **International organization participation**<br>
 UPU<br>
 
-**Flag description**<br>
-white with six blue, wavy, horizontal stripes; the UK flag is in the upper hoist-side quadrant; the striped section has a palm tree and yellow crown (the symbols of the territory) centered on the outer half of the flag; the wavy stripes represent the Indian Ocean; although not officially described, the six blue stripes may stand for the six main atolls of the archipelago<br>
+**Flag**<br>
+<strong>description:</strong> white with six wavy blue horizontal stripes; the UK flag is in the upper-left quadrant; the striped section has a palm tree and yellow crown (the territory's symbols) centered on the right half of the flag<br><br><strong>meaning:</strong> the wavy stripes represent the Indian Ocean; the six blue stripes may stand for the six main atolls of the archipelago<br>
 
 **National anthem(s)**<br>
 _title_: "God Save the King"<br>

@@ -166,16 +166,13 @@ _female_: 81.8 years<br>
 **Gross reproduction rate**<br>
 0.85 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: 99.8% of population<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: 0.2% of population<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
+_improved: urban_: urban: 99.9% of population (2022 est.)<br>
+_improved: rural_: rural: 99.8% of population (2022 est.)<br>
+_improved: total_: total: 99.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.2% of population (2022 est.)<br>
+_unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 9.5% of GDP (2021)<br>
@@ -188,12 +185,12 @@ _Health expenditure (as % of national budget)_: 16.7% of national budget (2022 e
 6.6 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 26% (2016)<br>
@@ -246,23 +243,26 @@ _other_: 19.5% (2022 est.)<br>
 _urban population_: 74.6% of total population (2023)<br>
 _rate of urbanization_: 0.2% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 14.34 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 102.22 megatons (2016 est.)<br>
-_methane emissions_: 13.11 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 79.901 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 41.667 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 25.707 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 12.527 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+15 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 3.337 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 850,935 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 25.5% (2015 est.)<br>
+_municipal solid waste generated annually_: 5.335 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 37.3% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 630 million cubic meters (2020 est.)<br>
-_industrial_: 700 million cubic meters (2020 est.)<br>
-_agricultural_: 40 million cubic meters (2020 est.)<br>
+_municipal_: 626 million cubic meters (2022)<br>
+_industrial_: 776 million cubic meters (2022)<br>
+_agricultural_: 44 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-13.5 billion cubic meters (2020 est.)<br>
+13.15 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 1<br>
@@ -361,7 +361,7 @@ _email address and website_: <br>washington@embassy.mzv.cz<br><br>https://www.mz
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Christy AGOR (since January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires David WISNER (since June 2025)<br>
 _embassy_: Trziste 15, 118 01 Praha 1 - Mala Strana<br>
 _mailing address_: 5630 Prague Place, Washington DC&nbsp; 20521-5630<br>
 _telephone_: [420] 257-022-000<br>
@@ -378,9 +378,9 @@ Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, 
 **National holiday**<br>
 Czechoslovak Founding Day, 28 October (1918)<br>
 
-**Flag description**<br>
-two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side<br>
-<strong>note:</strong> combines the white and red colors of Bohemia with blue from the arms of Moravia; identical to the flag of the former Czechoslovakia<br>
+**Flag**<br>
+<strong>description:</strong> two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the left side<br>
+<strong>note:</strong> combines the white and red of Bohemia with blue from the arms of Moravia; identical to the flag of the former Czechoslovakia<br>
 
 **National symbol(s)**<br>
 silver (or white) double-tailed rampant lion<br>
@@ -497,8 +497,11 @@ _highest 10%_: 21.8% (2022 est.)<br>
 
 **Budget**<br>
 _revenues_: $94.01 billion (2022 est.)<br>
-_expenditures_: $103.959 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_expenditures_: $106.07 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+36.8% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 12.6% (of GDP) (2022 est.)<br>
@@ -595,12 +598,6 @@ _consumption_: 6.499 billion cubic meters (2023 est.)<br>
 _imports_: 6.812 billion cubic meters (2023 est.)<br>
 _proven reserves_: 3.964 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 79.901 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 41.667 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 25.707 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 12.527 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 136.306 million Btu/person (2023 est.)<br>
 
@@ -648,14 +645,14 @@ Czech Armed Forces: Land Forces, Air Force, Special Forces (2025)<br>
 also has Cyber Command, Territorial Command, Operations Command, plus commands for Land Forces and Air Forces<br>
 
 **Military expenditures**<br>
+2% of GDP (2025 est.)<br>
 2.1% of GDP (2024 est.)<br>
-1.5% of GDP (2023)<br>
-1.3% of GDP (2022)<br>
-1.4% of GDP (2021)<br>
-1.3% of GDP (2020)<br>
+1.5% of GDP (2023 est.)<br>
+1.3% of GDP (2022 est.)<br>
+1.4% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 29,000 active-duty Armed Forces (23,000 Army; 6,000 Air Force) (2024)<br>
+approximately 30,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Czech military has a mix of domestically produced, Soviet-era, and more recently acquired modern weapons and equipment from such suppliers as Austria, Germany, Sweden, and the US; its domestic defense industry has produced such items as armored combat vehicles and light attack aircraft; during the Cold War, Czechoslovakia was a major producer of tanks, armored personnel carriers, military trucks, and trainer aircraft (2024)<br>
@@ -674,6 +671,7 @@ the Czech military is responsible for national and territorial defense, assistin
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 381,400 (Ukraine) (as of 31 January 2024)<br>
-_stateless persons_: 1,625 (2022)<br>
+_refugees_: 392,198 (2024 est.)<br>
+_IDPs_: 5 (2024 est.)<br>
+_stateless persons_: 588 (2024 est.)<br>
 

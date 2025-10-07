@@ -161,16 +161,13 @@ _female_: 79.9 years<br>
 **Gross reproduction rate**<br>
 1.04 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-64.6% (2016)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.7% of population<br>
-_improved: rural_: rural: 91.2% of population<br>
-_improved: total_: total: 92.8% of population<br>
-_unimproved: urban_: urban: 0.3% of population<br>
-_unimproved: rural_: rural: 8.8% of population<br>
-_unimproved: total_: total: 7.2% of population (2020 est.)<br>
+_improved: urban_: urban: 98.1% of population (2022 est.)<br>
+_improved: rural_: rural: 87.2% of population (2022 est.)<br>
+_improved: total_: total: 89.3% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 12.8% of population (2022 est.)<br>
+_unimproved: total_: total: 10.7% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.1% of GDP (2021)<br>
@@ -183,12 +180,12 @@ _Health expenditure (as % of national budget)_: 9.5% of national budget (2022 es
 4 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 96.6% of population<br>
-_improved: rural_: rural: 97.9% of population<br>
-_improved: total_: total: 97.6% of population<br>
-_unimproved: urban_: urban: 3.4% of population<br>
-_unimproved: rural_: rural: 2.1% of population<br>
-_unimproved: total_: total: 2.4% of population (2020 est.)<br>
+_improved: urban_: urban: 97.9% of population (2022 est.)<br>
+_improved: rural_: rural: 99.2% of population (2022 est.)<br>
+_improved: total_: total: 99% of population (2022 est.)<br>
+_unimproved: urban_: urban: 2.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.8% of population (2022 est.)<br>
+_unimproved: total_: total: 1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 5.2% (2016)<br>
@@ -253,15 +250,17 @@ _other_: 20.5% (2022 est.)<br>
 _urban population_: 19.2% of total population (2023)<br>
 _rate of urbanization_: 1.22% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 23.88 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 23.36 megatons (2016 est.)<br>
-_methane emissions_: 10.95 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 19.153 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 5.15 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 14.003 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+24.8 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2,631,650 tons (2016 est.)<br>
-_municipal solid waste recycled annually_: 336,588 tons (2016 est.)<br>
-_percent of municipal solid waste recycled_: 12.8% (2016 est.)<br>
+_municipal solid waste generated annually_: 2.632 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 24.5% (2022 est.)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 810 million cubic meters (2020 est.)<br>
@@ -346,7 +345,7 @@ _chief of mission_: Ambassador Mahinda SAMARASINGHE (since 13 January 2022)<br>
 _chancery_: 3025 Whitehaven Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 483-4025<br>
 _FAX_: [1] 202-232-2329<br>
-_email address and website_: <br>slemb.washington@mfa.gov.lk<br><br>https://slembassyusa.org/new/<br>
+_email address and website_: <br>slemb.washington@mfa.gov.lk<br><br>https://slembassyusa.org/<br>
 _consulate(s) general_: Los Angeles<br>
 _consulate(s)_: New York<br>
 
@@ -367,8 +366,9 @@ ABEDA, ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, FAO, G-11, G-15, G-24, G-7
 **National holiday**<br>
 Independence Day (National Day), 4 February (1948)<br>
 
-**Flag description**<br>
-yellow with two panels; the smaller hoist-side panel has two equal vertical bands of green (hoist side) and orange; the larger panel has a yellow lion holding a sword on a maroon field, as well as a yellow bo leaf in each corner; the sword stands for national sovereignty, the lion for Sinhalese ethnicity, the strength of the nation, and bravery,&nbsp; and the four bo leaves for Buddhism and the four virtues of kindness, friendliness, happiness, and equanimity; orange stands for Tamils, green for Moors, and maroon for the Sinhalese majority; yellow represents other ethnic groups; also referred to as the Lion Flag<br>
+**Flag**<br>
+<strong>description:</strong> yellow with two panels; the smaller panel on the left has two equal vertical bands of green (left side) and orange; the larger panel has a yellow lion holding a sword on a maroon field, with a yellow bo leaf in each corner<br><br><strong>meaning:</strong> the sword stands for national sovereignty; the lion for Sinhalese ethnicity, the strength of the nation, and bravery; the four bo leaves for Buddhism and the four virtues of kindness, friendliness, happiness, and equanimity; orange stands for Tamils, green for Moors, and maroon for the Sinhalese majority; yellow represents other ethnic groups<br>
+<strong>note:</strong> the banner is sometimes referred to as the Lion Flag<br>
 
 **National symbol(s)**<br>
 lion, water lily<br>
@@ -378,7 +378,7 @@ maroon, yellow<br>
 
 **National anthem(s)**<br>
 _title_: "Sri Lanka Matha" (Mother Sri Lanka)<br>
-_lyrics/music_: Ananda SAMARKONE<br>
+_lyrics/music_: Ananda SAMARKONE (Sinhala),M. NALLATHAMBY (Tamil)/Ananda SAMARKONE<br>
 _history_: adopted 1951<br>
 
 **National heritage**<br>
@@ -572,11 +572,6 @@ _imports_: 2.238 million metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 100,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 19.153 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 5.15 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 14.003 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 12.372 million Btu/person (2023 est.)<br>
 
@@ -670,6 +665,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Liberation Tigers of Tamil Eelam (LTT
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 12,000 (civil war; more than half displaced prior to 2008; many of the more than 480,000 IDPs registered as returnees have not reached durable solutions) (2022)<br>
-_stateless persons_: 35 (2022)<br>
+_refugees_: 500 (2024 est.)<br>
+_IDPs_: 5,549 (2024 est.)<br>
+_stateless persons_: 229 (2024 est.)<br>
 

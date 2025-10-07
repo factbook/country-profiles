@@ -40,12 +40,12 @@ _percent of World Ocean total volume_: 1.4%<br>
 
 **Bathymetry**<br>
 _continental shelf_: more than one quarter of the Arctic sea floor; the Eurasian shelf is very wide, extending out 1,500 km (930 mi), and is the largest continental shelf in the world<br><br>the following are examples of continental-shelf features in the Arctic Ocean (see Figure 2):<br><br>Barents Shelf<br>Beaufort Shelf<br>Davis Sill<br>Chukchi Shelf<br>East Siberian Shelf<br>Kara Shelf<br>Laptev Shelf<br>Lincoln Shelf<br>
-_continental slope_: the following are examples of continental-slope features found in the Arctic Ocean (see Figure 2):<br><br>Litke Trough<br>Novaya Zemlya Trough<br>Svyataya Anna Trough (Saint Anna Trough)<br>Voronin Trough<br>
-_abyssal plains_: the following are examples of abyssal-plain features found in the Arctic Ocean (see Figure 2):<br><br>Baffin Basin<br>Canada Basin<br>Fram/Amundsen Basin<br>Greenland Abyssal Plain<br>Iceland Basin<br>Makarov Basin<br>Molloy Deep (deepest point in the Arctic Ocean)<br>Nansen Basin<br>Norwegian Basin<br>
-_mid-ocean ridge_: the following are examples of <em>mid-ocean ridges</em> found in the Arctic Ocean (see Figure 2):<br><br>Gakkel Ridge<br>Mohns Ridge<br>
-_undersea terrain features_: <p>the following are examples of undersea terrain features found on the floor of the Arctic Ocean (see Figure 2):<br><br>Lomonosov Ridge<br>Gakkel Ridge<br>Alpha Ridge<br>Mendeleev Rise<br>Chukchi Plateau</p><br>
-_ocean trenches_: there are no ocean trenches on the Arctic sea floor<br>
-_atolls_: there are no atolls found in the Arctic Ocean<br>
+_continental slope_: the following are examples of continental-slope features in the Arctic Ocean (see Figure 2):<br><br>Litke Trough<br>Novaya Zemlya Trough<br>Svyataya Anna Trough (Saint Anna Trough)<br>Voronin Trough<br>
+_abyssal plains_: the following are examples of abyssal-plain features in the Arctic Ocean (see Figure 2):<br><br>Baffin Basin<br>Canada Basin<br>Fram/Amundsen Basin<br>Greenland Abyssal Plain<br>Iceland Basin<br>Makarov Basin<br>Molloy Deep (deepest point in the Arctic Ocean)<br>Nansen Basin<br>Norwegian Basin<br>
+_mid-ocean ridge_: the following are examples of <em>mid-ocean ridges</em> in the Arctic Ocean (see Figure 2):<br><br>Gakkel Ridge<br>Mohns Ridge<br>
+_undersea terrain features_: the following are examples of undersea terrain features on the floor of the Arctic Ocean (see Figure 2):<br><br>Lomonosov Ridge<br>Gakkel Ridge<br>Alpha Ridge<br>Mendeleev Rise<br>Chukchi Plateau<br>
+_ocean trenches_: none<br>
+_atolls_: none<br>
 
 **Elevation**<br>
 _highest point_: sea level<br>
@@ -78,7 +78,7 @@ the Arctic fishery region (Region 18) is the smallest in the world with a catch 
 ## Government
 
 **Country name**<br>
-_etymology_: the name comes from the Greek word <em>arktikos </em>meaning "near the bear" or "northern," and that word derives from <em>arktos</em>, meaning "bear"; the name refers either to the constellation Ursa Major, the "Great Bear," which is prominent in the northern celestial sphere, or to the constellation Ursa Minor, the "Little Bear," which contains Polaris, the North (Pole) Star<br>
+_etymology_: the name comes from the Greek word <em>arktikos </em>meaning "near the bear" or "northern," and that word derives from <em>arktos</em>, meaning "bear;" the name refers either to the constellation Ursa Major, the "Great Bear," which is prominent in the northern celestial sphere, or to the constellation Ursa Minor, the "Little Bear," which contains Polaris, the North (Pole) Star<br>
 
 ## Economy
 

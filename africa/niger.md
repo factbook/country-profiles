@@ -172,16 +172,13 @@ _female_: 62.5 years<br>
 **Gross reproduction rate**<br>
 3.27 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-11% (2021)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 95.8% of population<br>
-_improved: rural_: rural: 63.1% of population<br>
-_improved: total_: total: 68.6% of population<br>
-_unimproved: urban_: urban: 4.2% of population<br>
-_unimproved: rural_: rural: 36.9% of population<br>
-_unimproved: total_: total: 31.4% of population (2020 est.)<br>
+_improved: urban_: urban: 88.3% of population (2022 est.)<br>
+_improved: rural_: rural: 40.9% of population (2022 est.)<br>
+_improved: total_: total: 48.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 11.7% of population (2022 est.)<br>
+_unimproved: rural_: rural: 59.1% of population (2022 est.)<br>
+_unimproved: total_: total: 51.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.8% of GDP (2021)<br>
@@ -194,12 +191,12 @@ _Health expenditure (as % of national budget)_: 7.1% of national budget (2022 es
 0.3 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 81.9% of population<br>
-_improved: rural_: rural: 13.5% of population<br>
-_improved: total_: total: 24.8% of population<br>
-_unimproved: urban_: urban: 18.1% of population<br>
-_unimproved: rural_: rural: 86.5% of population<br>
-_unimproved: total_: total: 75.2% of population (2020 est.)<br>
+_improved: urban_: urban: 81.9% of population (2022 est.)<br>
+_improved: rural_: rural: 15.2% of population (2022 est.)<br>
+_improved: total_: total: 26.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 18.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 84.8% of population (2022 est.)<br>
+_unimproved: total_: total: 73.6% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 5.5% (2016)<br>
@@ -260,23 +257,32 @@ _other_: 62.4% (2022 est.)<br>
 _urban population_: 17.1% of total population (2023)<br>
 _rate of urbanization_: 4.72% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 50.15 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 2.02 megatons (2016 est.)<br>
-_methane emissions_: 22.99 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 3.132 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 622,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.457 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 52,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+59.5 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 137.8 kt (2022-2024 est.)<br>
+_agriculture_: 713.8 kt (2019-2021 est.)<br>
+_waste_: 128.2 kt (2019-2021 est.)<br>
+_other_: 11.1 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1,865,646 tons (1993 est.)<br>
-_municipal solid waste recycled annually_: 74,626 tons (2005 est.)<br>
-_percent of municipal solid waste recycled_: 4% (2005 est.)<br>
+_municipal solid waste generated annually_: 1.866 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 20.3% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 190 million cubic meters (2020 est.)<br>
-_industrial_: 40 million cubic meters (2020 est.)<br>
-_agricultural_: 2.35 billion cubic meters (2020 est.)<br>
+_municipal_: 193.247 million cubic meters (2022 est.)<br>
+_industrial_: 38.654 million cubic meters (2022 est.)<br>
+_agricultural_: 2.351 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-34.05 billion cubic meters (2020 est.)<br>
+34,050,000,000 cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -375,9 +381,9 @@ ACP, AfDB, AU (suspended), CD, EITI (compliant country), Entente, FAO, FZ, G-77,
 Republic Day, 18 December (1958)<br>
 <strong>note:</strong> commemorates the founding of the Republic of Niger, which predated independence from France in 1960<br>
 
-**Flag description**<br>
-three equal horizontal bands of orange (top), white, and green, with a small orange disk centered in the white band; the orange stands for the northern Sahara regions, white for purity and innocence, and green for hope and the fertile and productive southern and western areas, as well as the Niger River; the orange disc represents the sun and the people's sacrifices <br>
-<strong>note:</strong> similar to the flag of India, which has a blue spoked wheel centered in the white band<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of orange (top), white, and green, with an orange disk centered on the white band<br><br><strong>meaning:</strong> orange stands for the northern Sahara regions, white for purity and innocence, and green for hope and the fertile and productive southern and western areas, as well as the Niger River; the orange disc represents the sun and the people's sacrifices<br>
+<strong>note:</strong> similar to the flag of India, which has a blue spoked wheel centered on the white band<br>
 
 **National symbol(s)**<br>
 zebu<br>
@@ -492,6 +498,9 @@ _highest 10%_: 27.8% (2021 est.)<br>
 _revenues_: $2.325 billion (2019 est.)<br>
 _expenditures_: $2.785 billion (2019 est.)<br>
 
+**Public debt**<br>
+45.2% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 -$2.333 billion (2023 est.)<br>
 -$2.5 billion (2022 est.)<br>
@@ -570,12 +579,6 @@ _crude oil estimated reserves_: 150 million barrels (2021 est.)<br>
 _production_: 26.805 million cubic meters (2023 est.)<br>
 _consumption_: 26.872 million cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 3.132 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 622,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 2.457 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 52,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 1.772 million Btu/person (2023 est.)<br>
 
@@ -648,9 +651,9 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS); 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 67,191 (Mali) (refugees and asylum seekers) (2023); 200,423 (Nigeria) (2024)<br>
-_IDPs_: 335,277 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2023)<br>
+_refugees_: 421,795 (2024 est.)<br>
+_IDPs_: 891,565 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Niger was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/niger/<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Niger remained on Tier 2 Watch List for the second consecutive year; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/niger/<br>
 

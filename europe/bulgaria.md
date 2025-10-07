@@ -167,16 +167,13 @@ _female_: 79.4 years<br>
 **Gross reproduction rate**<br>
 0.73 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.5% of population<br>
-_improved: rural_: rural: 97.4% of population<br>
-_improved: total_: total: 99% of population<br>
-_unimproved: urban_: urban: 0.5% of population<br>
-_unimproved: rural_: rural: 2.6% of population<br>
-_unimproved: total_: total: 1% of population (2020 est.)<br>
+_improved: urban_: urban: 99.6% of population (2022 est.)<br>
+_improved: rural_: rural: 97.3% of population (2022 est.)<br>
+_improved: total_: total: 99.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 2.7% of population (2022 est.)<br>
+_unimproved: total_: total: 0.9% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 8.6% of GDP (2021)<br>
@@ -189,12 +186,12 @@ _Health expenditure (as % of national budget)_: 11.6% of national budget (2022 e
 7.8 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 25% (2016)<br>
@@ -250,23 +247,26 @@ _other_: 17.6% (2022 est.)<br>
 _urban population_: 76.7% of total population (2023)<br>
 _rate of urbanization_: -0.28% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 17.29 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 41.71 megatons (2016 est.)<br>
-_methane emissions_: 6.77 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 33.465 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 14.486 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 13.958 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 5.021 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+18.6 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 3.011 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 572,993 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 19% (2015 est.)<br>
+_municipal solid waste generated annually_: 2.859 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 29.8% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 840 million cubic meters (2020 est.)<br>
-_industrial_: 3.48 billion cubic meters (2020 est.)<br>
-_agricultural_: 760 million cubic meters (2020 est.)<br>
+_municipal_: 838 million cubic meters (2022)<br>
+_industrial_: 3.879 billion cubic meters (2022)<br>
+_agricultural_: 726.434 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-21.3 billion cubic meters (2020 est.)<br>
+21.3 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -348,7 +348,7 @@ _email address and website_: <br>office@bulgaria-embassy.org<br><br>https://www.
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires H. Martin McDowell (since May 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires H. Martin McDOWELL (since May 2025)<br>
 _embassy_: 16, Kozyak Street, Sofia 1408<br>
 _mailing address_: 5740 Sofia Place, Washington, DC&nbsp; 20521-5740<br>
 _telephone_: [359] (2) 937-5100<br>
@@ -364,9 +364,8 @@ Australia Group, BIS, BSEC, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EU, FAO, G-
 **National holiday**<br>
 Liberation Day, 3 March (1878)<br>
 
-**Flag description**<br>
-three equal horizontal bands of white (top), green, and red; the pan-Slavic white-blue-red colors were modified by substituting a green band (representing freedom) for the blue<br>
-<strong>note:</strong> the national emblem, formerly on the hoist side of the white stripe, has been removed<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of white (top), green, and red<br><br><strong>meaning:</strong> white stands for peace, love, and freedom; green for the country's agricultural wealth; red for the independence struggle and military courage<br><br><strong>history:</strong> originally adopted in 1879 as a modified version of the Russian tricolor flag, using green instead of blue; the communist coat of arms was added to the flag in various forms between 1948 and 1990, when it was removed after the communist government collapsed<br>
 
 **National symbol(s)**<br>
 lion<br>
@@ -485,9 +484,9 @@ _highest 10%_: 30.1% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $33.1 billion (2022 est.)<br>
-_expenditures_: $35.619 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $35.615 billion (2023 est.)<br>
+_expenditures_: $37.546 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 30.1% of GDP (2023 est.)<br>
@@ -596,12 +595,6 @@ _exports_: 2.75 million cubic meters (2020 est.)<br>
 _imports_: 2.544 billion cubic meters (2023 est.)<br>
 _proven reserves_: 5.663 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 33.465 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 14.486 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 13.958 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 5.021 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 102.171 million Btu/person (2023 est.)<br>
 
@@ -662,11 +655,11 @@ Bulgarian Armed Forces (aka Bulgarian Army): Land Forces, Air Force, Navy<br><br
 <strong>note 1: </strong>the Bulgarian military also has a Joint Special Operations Command, a Logistic Support Command, and a Communications and Information Support and Cyber Defence Command<br><strong><br>note 2:</strong> the GDNP includes the Gendarmerie, a special police force with military status deployed to secure important facilities, buildings and infrastructure, respond to riots, and counter militant threats<br>
 
 **Military expenditures**<br>
-2.2% of GDP (2024 est.)<br>
-1.9% of GDP (2023)<br>
-1.6% of GDP (2022)<br>
-1.6% of GDP (2021)<br>
-1.6% of GDP (2020)<br>
+2.1% of GDP (2025 est.)<br>
+2% of GDP (2024 est.)<br>
+1.9% of GDP (2023 est.)<br>
+1.6% of GDP (2022 est.)<br>
+1.6% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 27,000 active-duty Armed Forces (17,000 Army; 3,000 Navy; 7,000 Air Force) (2024)<br>
@@ -685,10 +678,10 @@ the Bulgarian military is responsible for guaranteeing Bulgaria’s independence
 ## Space
 
 **Space agency/agencies**<br>
-Space Research and Technology Institute - Bulgarian Academy of Sciences (SRTI-BAS; formed in 1987 but originated from the Central Laboratory for Space Research and the Bulgarian Aerospace Agency, which was established in 1969) (2024)<br>
+Space Research and Technology Institute - Bulgarian Academy of Sciences (SRTI-BAS; formed in 1987 but originated from the Central Laboratory for Space Research and the Bulgarian Aerospace Agency, which was established in 1969) (2025)<br>
 
 **Space program overview**<br>
-has a long history of involvement in space-related activities going back to the 1960s; develops, produces, and operates satellites, mostly with foreign partners; researches, develops, and produces other space technologies, including those related to astrophysics, remote sensing, data exploitation, optics, and electronics; has specialized in producing scientific instruments for space research; has more than 20 research institutes; Cooperating State of the European Space Agency (ESA) since 2015; cooperates with a variety of foreign space agencies and commercial entities, including those of the ESA and EU (and bi-laterally with their member states), India, Japan, Russia, and the US (2024)<br>
+has a long history of involvement in space-related activities going back to the 1960s; develops, produces, and operates satellites; researches, develops, and produces other space technologies, including those related to astrophysics, remote sensing, data exploitation, optics, and electronics; has specialized in producing scientific instruments for space research; has more than 20 research institutes; Cooperating State of the European Space Agency (ESA) since 2015; cooperates with a variety of foreign space agencies and commercial entities, including those of the ESA and EU (and bi-laterally with their member states), India, Japan, Russia, and the US (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -700,7 +693,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 72,775 (Ukraine) (as of 8 March 2024)<br>
-_stateless persons_: 1,129 (2022)<br>
-<strong>note:</strong> 106,227 estimated refugee and migrant arrivals (January 2015-January 2024); Bulgaria is predominantly a transit country<br>
+_refugees_: 114,728 (2024 est.)<br>
+_stateless persons_: 862 (2024 est.)<br>
 

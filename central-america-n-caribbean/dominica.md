@@ -154,13 +154,6 @@ _female_: 81.8 years<br>
 **Gross reproduction rate**<br>
 0.98 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
-**Drinking water source**<br>
-_improved: urban_: urban: 95.7% of population<br>
-_unimproved: urban_: urban: 4.3% of population<br>
-
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6.5% of GDP (2021)<br>
 _Health expenditure (as % of national budget)_: 6.2% of national budget (2022 est.)<br>
@@ -215,13 +208,16 @@ _other_: 2.8% (2022 est.)<br>
 _urban population_: 72% of total population (2023)<br>
 _rate of urbanization_: 0.84% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 8.22 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.18 megatons (2016 est.)<br>
-_methane emissions_: 0.04 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 168,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 168,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+7.9 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 13,176 tons (2013 est.)<br>
+_municipal solid waste generated annually_: 13,200 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 12.6% (2022 est.)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 20 million cubic meters (2020 est.)<br>
@@ -318,14 +314,17 @@ ACP, ACS, AOSIS, C, Caricom, CD, CDB, CELAC, Commonwealth of Nations, ECCU, FAO,
 **National holiday**<br>
 Independence Day, 3 November (1978)<br>
 
-**Flag description**<br>
-green with a centered cross of three equal bands; the vertical part is yellow (hoist side), black, and white, and the horizontal part is yellow (top), black, and white; in the center of the cross is a red disk with a Sisserou parrot encircled by 10 green five-pointed stars edged in yellow; the stars represent the 10 administrative divisions (parishes); green symbolizes the island's lush vegetation; the tri-color cross represents the Christian Trinity; yellow stands for sunshine, the main agricultural products (citrus and bananas), and the native Carib Indians; black is for the rich soil and the African heritage of most citizens; white stands for the rivers, waterfalls, and the purity of aspirations; the red disc stands for social justice<br>
+**Flag**<br>
+<strong>description: </strong>green with a centered cross of three equal bands in yellow, black, and white; in the center of the cross is a red disk with a Sisserou parrot surrounded by 10 five-pointed green stars edged in yellow<br><br><strong>meaning:</strong> the stars represent the 10 administrative divisions (parishes); green symbolizes the island's lush vegetation; the tricolor cross represents the Christian Trinity; yellow stands for sunshine, the primary agricultural products (citrus and bananas), and the Carib people; black for the rich soil and the African heritage of most citizens; white for rivers, waterfalls, and the purity of aspirations; the red disc for social justice<br>
 
 **National symbol(s)**<br>
 sisserou parrot, Carib wood flower<br>
 
 **National color(s)**<br>
 green, yellow, black, white, red<br>
+
+**National coat of arms**<br>
+the coat of arms was adopted on July 21, 1961, and features two sisserou parrots supporting a shield that is divided into four sections by a cross, a reference to the island&rsquo;s discovery on a Sunday; the quadrants feature a palm tree, a banana tree, a frog that is native to the island, and a canoe on the Caribbean Sea; the golden lion symbolizes Dominica&rsquo;s past colonial ties with the UK; below the shield is the national motto, which means "After God is the Earth"<br>
 
 **National anthem(s)**<br>
 _title_: "Isle of Beauty"<br>
@@ -402,6 +401,9 @@ _revenues_: $233.831 million (2017 est.)<br>
 _expenditures_: $164.673 million (2017 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
+**Public debt**<br>
+71.7% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 -$160.12 million (2024 est.)<br>
 -$223.632 million (2023 est.)<br>
@@ -473,10 +475,6 @@ _hydroelectricity_: 15% of total installed capacity (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 1,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 168,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 168,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 36.395 million Btu/person (2023 est.)<br>
 
@@ -533,4 +531,7 @@ no regular military forces; Commonwealth of Dominica Police Force (CDPF) under t
 Dominica has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Grenada, Guyana, St. Kitts and Nevis, St. Lucia, and St. Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2025)<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 5 (2024 est.)<br>
 

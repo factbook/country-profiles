@@ -163,16 +163,13 @@ _female_: 79.6 years<br>
 **Gross reproduction rate**<br>
 0.74 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-59.9% (2018/19)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.7% of population<br>
-_improved: rural_: rural: 99% of population<br>
-_improved: total_: total: 99.4% of population<br>
-_unimproved: urban_: urban: 0.3% of population<br>
-_unimproved: rural_: rural: 1% of population<br>
-_unimproved: total_: total: 0.6% of population (2020 est.)<br>
+_improved: urban_: urban: 98.1% of population (2022 est.)<br>
+_improved: rural_: rural: 97.4% of population (2022 est.)<br>
+_improved: total_: total: 97.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 2.6% of population (2022 est.)<br>
+_unimproved: total_: total: 2.2% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 8.5% of GDP (2021)<br>
@@ -185,12 +182,12 @@ _Health expenditure (as % of national budget)_: 12.4% of national budget (2022 e
 4.2 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 98% of population<br>
-_improved: total_: total: 99.2% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 2% of population<br>
-_unimproved: total_: total: 0.8% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 98.6% of population (2022 est.)<br>
+_improved: total_: total: 99.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.4% of population (2022 est.)<br>
+_unimproved: total_: total: 0.6% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 22.4% (2016)<br>
@@ -244,23 +241,26 @@ _other_: 10.4% (2022 est.)<br>
 _urban population_: 59.5% of total population (2023)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 25.17 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 7.05 megatons (2016 est.)<br>
-_methane emissions_: 2.28 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 7.369 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 3.014 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 3.682 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 673,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+28.7 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 796,585 tons (2016 est.)<br>
-_municipal solid waste recycled annually_: 1,434 tons (2013 est.)<br>
-_percent of municipal solid waste recycled_: 0.2% (2013 est.)<br>
+_municipal solid waste generated annually_: 627,000 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 4.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 310 million cubic meters (2020 est.)<br>
-_industrial_: 20 million cubic meters (2020 est.)<br>
-_agricultural_: 140 million cubic meters (2020 est.)<br>
+_municipal_: 305.4 million cubic meters (2022 est.)<br>
+_industrial_: 31.54 million cubic meters (2022 est.)<br>
+_agricultural_: 139 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-6.4 billion cubic meters (2020 est.)<br>
+6.4 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -306,7 +306,7 @@ _residency requirement for naturalization_: 8 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Gordana SILJANOVSKA-DAVKOVA (since 12 May 2024)<br>
-_head of government_: President Gordana SILJANOVSKA-DAVKOVA (since 12 May 2024)<br>
+_head of government_: Prime Minister Hristijan MICKOSKI (since 23 June 2024)<br>
 _cabinet_: Council of Ministers elected by the Assembly by simple majority vote<br>
 _election/appointment process_: president directly elected using a modified 2-round system; a candidate can only be elected in the first round with an absolute majority from all registered voters; in the second round, voter turnout must be at least 40% for the result to be valid; president elected for a 5-year term (eligible for a second term); following legislative elections, the Assembly usually elects the leader of the majority party or majority coalition as prime minister<br>
 _most recent election date_: 24 April and 8 May 2024<br>
@@ -359,8 +359,8 @@ BIS, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, IAEA, IBRD, ICAO, ICC
 **National holiday**<br>
 Independence Day, 8 September (1991), also known as National Day<br>
 
-**Flag description**<br>
-a yellow sun (the Sun of Liberty) with eight broadening rays extending to the edges of the red field; the red and yellow colors have long been associated with Macedonia<br>
+**Flag**<br>
+<strong>description:</strong> a red field with a yellow sun (the Sun of Liberty) in the center, with eight broadening rays extending to the edges<br><br><strong>meaning:</strong> the red and yellow colors have long been associated with Macedonia<br>
 
 **National symbol(s)**<br>
 eight-rayed sun<br>
@@ -476,9 +476,9 @@ _highest 10%_: 22.9% (2019 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $4.141 billion (2021 est.)<br>
-_expenditures_: $4.666 billion (2021 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $4.787 billion (2023 est.)<br>
+_expenditures_: $5.514 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 39.3% of GDP (2017 est.)<br>
@@ -573,12 +573,6 @@ _refined petroleum consumption_: 24,000 bbl/day (2023 est.)<br>
 _consumption_: 348.078 million cubic meters (2023 est.)<br>
 _imports_: 347.981 million cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 7.369 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 3.014 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 3.682 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 673,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 56.104 million Btu/person (2023 est.)<br>
 
@@ -626,14 +620,14 @@ Army of the Republic of North Macedonia (ARSM or ARNM): joint force with air, gr
 <strong>note: </strong>the Police of Macedonia maintain internal security, including migration and border enforcement, and report to the Ministry of the Interior<br>
 
 **Military expenditures**<br>
-2.2% of GDP (2024 est.)<br>
-1.7% of GDP (2023)<br>
-1.6% of GDP (2022)<br>
-1.5% of GDP (2021)<br>
-1.2% of GDP (2020)<br>
+2% of GDP (2025 est.)<br>
+1.9% of GDP (2024 est.)<br>
+1.7% of GDP (2023 est.)<br>
+1.6% of GDP (2022 est.)<br>
+1.5% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 6,000 active Army of the Republic of North Macedonia forces (2024)<br>
+approximately 6,000 active military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix of Soviet-era and increasing amounts of modern equipment from countries such as Turkey, the UK, and the US, with more on order (2024)<br>
@@ -654,7 +648,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,915 (Ukraine) (as of 22 February 2024)<br>
-_stateless persons_: 521 (2022)<br>
-<strong>note:</strong> 579,828 estimated refugee and migrant arrivals (January 2015-February 2024)<br>
+_refugees_: 20,937 (2024 est.)<br>
+_stateless persons_: 159 (2024 est.)<br>
 

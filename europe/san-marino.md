@@ -151,16 +151,9 @@ _female_: 87 years<br>
 **Gross reproduction rate**<br>
 0.74 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 8% of GDP (2021)<br>
@@ -170,12 +163,8 @@ _Health expenditure (as % of national budget)_: 29.5% of national budget (2022 e
 4.63 physicians/1,000 population (2023)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 47.7% (2023 est.)<br>
@@ -218,13 +207,11 @@ _other_: 45% (2022 est.)<br>
 _urban population_: 97.8% of total population (2023)<br>
 _rate of urbanization_: 0.41% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 9.85 micrograms per cubic meter (2019 est.)<br>
-_methane emissions_: 0.02 megatons (2020 est.)<br>
+**Particulate matter emissions**<br>
+9.8 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 17,175 tons (2016 est.)<br>
-_municipal solid waste recycled annually_: 7,737 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 17,200 tons (2024 est.)<br>
 _percent of municipal solid waste recycled_: 45.1% (2016 est.)<br>
 
 ## Government
@@ -318,8 +305,8 @@ CE, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFRCS, ILO, IMF, IMO, In
 **National holiday**<br>
 Founding of the Republic (or Feast of Saint Marinus), 3 September (A.D. 301)<br>
 
-**Flag description**<br>
-two equal horizontal bands of white (top) and light blue, with the national coat of arms in the center; the main colors come from the shield on the coat of arms, which features three white towers on mountain peaks on a blue field; the towers represent the Guaita, Cesta, and Montale castles on Mount Titano; a wreath and a crown are around the shield, above a scroll with the word LIBERTAS (Liberty); the white and blue colors are said to stand for peace and liberty<br>
+**Flag**<br>
+<strong>description:</strong> two equal horizontal bands of white (top) and light blue, with the national coat of arms in the center; the main colors come from the shield on the coat of arms, which features three white towers on mountain peaks on a blue field; a wreath and a crown are around the shield, above a scroll with the word LIBERTAS (Liberty)<br><br><strong>meaning: </strong>the towers represent the Guaita, Cesta, and Montale castles on Mount Titano; white and blue are said to stand for peace and liberty<br>
 
 **National symbol(s)**<br>
 three peaks, each displaying a tower<br>
@@ -401,9 +388,9 @@ tourism, banking, textiles, electronics, ceramics, cement, wine<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $817.27 million (2022 est.)<br>
-_expenditures_: $816.572 million (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $841.03 million (2023 est.)<br>
+_expenditures_: $816.886 million (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 103.2% of GDP (2022 est.)<br>

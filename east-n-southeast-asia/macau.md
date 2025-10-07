@@ -149,16 +149,8 @@ _female_: 88.3 years<br>
 **Gross reproduction rate**<br>
 0.6 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020)<br>
 
 **Currently married women (ages 15-49)**<br>
 53.5% (2023 est.)<br>
@@ -188,13 +180,14 @@ _other_: 100% (2022 est.)<br>
 _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 2.07 megatons (2016 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 1.595 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: -1,239 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.358 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 238,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 377,942 tons (2016 est.)<br>
-_municipal solid waste recycled annually_: 75,588 tons (2014 est.)<br>
-_percent of municipal solid waste recycled_: 20% (2014 est.)<br>
+_municipal solid waste generated annually_: 377,900 tons (2024 est.)<br>
 
 ## Government
 
@@ -273,8 +266,8 @@ none (special administrative region of China)<br>
 National Day (anniversary of the Founding of the People's Republic of China), 1 October (1949)<br>
 <strong>note:</strong> 20 December (1999) is celebrated as Macau Special Administrative Region Establishment Day<br>
 
-**Flag description**<br>
-green with a lotus flower above a stylized bridge and water in white, under an arc of five five-pointed gold stars; the lotus is the national floral emblem, and the three petals represent the country's peninsula and two islands; the five stars echo those on the Chinese flag<br>
+**Flag**<br>
+<strong>description:</strong> green with a lotus flower above a stylized bridge and water in white, under an arc of five five-pointed gold stars<br><br><strong>meaning:</strong> the lotus is the national floral emblem, and the three petals represent the country's peninsula and two islands; the five stars echo the Chinese flag<br>
 
 **National symbol(s)**<br>
 lotus blossom<br>
@@ -368,9 +361,12 @@ _female_: 5.6% (2024 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $5.135 billion (2022 est.)<br>
-_expenditures_: $12.259 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $12.513 billion (2023 est.)<br>
+_expenditures_: $11.509 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+0% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 22.8% (of GDP) (2023 est.)<br>
@@ -450,12 +446,6 @@ _refined petroleum consumption_: 11,000 bbl/day (2023 est.)<br>
 _consumption_: 121.747 million cubic meters (2023 est.)<br>
 _imports_: 121.716 million cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 1.595 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: -1,239 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 1.358 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 238,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 64.641 million Btu/person (2023 est.)<br>
 
@@ -517,5 +507,5 @@ defense is the responsibility of China; the Chinese People's Liberation Army (PL
 ## Transnational Issues
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 — Macau does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Macau remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/macau/<br>
+_tier rating_: Tier 3 — Macau does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Macau remained on Tier 3; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/macau<br>
 

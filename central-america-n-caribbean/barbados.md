@@ -153,12 +153,9 @@ _female_: 81.8 years<br>
 **Gross reproduction rate**<br>
 0.85 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-59.2% (2012)<br>
-
 **Drinking water source**<br>
-_improved: total_: total: 98.8% of population<br>
-_unimproved: total_: total: 2% of population (2020 est.)<br>
+_improved: total_: total: 98.5% of population (2022 est.)<br>
+_unimproved: total_: total: 1.5% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 8.1% of GDP (2021)<br>
@@ -171,12 +168,8 @@ _Health expenditure (as % of national budget)_: 8.7% of national budget (2022 es
 5.7 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 23.1% (2016)<br>
@@ -224,23 +217,26 @@ _other_: 62.1% (2022 est.)<br>
 _urban population_: 31.4% of total population (2023)<br>
 _rate of urbanization_: 0.46% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 9.79 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 1.28 megatons (2016 est.)<br>
-_methane emissions_: 2.35 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 1.348 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.284 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 64,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+9.8 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 174,815 tons (2011 est.)<br>
-_municipal solid waste recycled annually_: 15,733 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 9% (2015 est.)<br>
+_municipal solid waste generated annually_: 174,800 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 10.6% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 20 million cubic meters (2020 est.)<br>
-_industrial_: 10 million cubic meters (2020 est.)<br>
-_agricultural_: 5 million cubic meters (2020 est.)<br>
+_municipal_: 20 million cubic meters (2022 est.)<br>
+_industrial_: 6.2 million cubic meters (2022 est.)<br>
+_agricultural_: 54.8 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-80 million cubic meters (2020 est.)<br>
+80 million cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -331,7 +327,7 @@ _email address and website_: <br>washington@foreign.gov.bb<br><br>https://www.fo
 _consulate(s) general_: Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Karin B. SULLIVAN (since January 2025) note - also accredited to Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Karin B. SULLIVAN (since January 2025); note - also accredited to Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines<br>
 _embassy_: Wildey Business Park, St. Michael BB 14006, Barbados, W.I.<br>
 _mailing address_: 3120 Bridgetown Place, Washington DC&nbsp; 20521-3120<br>
 _telephone_: (246) 227-4000<br>
@@ -347,8 +343,8 @@ ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM
 **National holiday**<br>
 Independence Day, 30 November (1966)<br>
 
-**Flag description**<br>
-three equal vertical bands of ultramarine blue (hoist side), gold, and ultramarine blue with the head of a black trident centered on the gold band; the band colors represent the blue of the sea and sky and the gold of the beaches; the trident head represents independence and a break with the past&nbsp;<br>
+**Flag**<br>
+<strong>description:</strong> three equal vertical bands of ultramarine blue (left side), gold, and ultramarine blue with a black trident head centered on the gold band<br><br><strong>meaning:</strong> blue stands for the sea and sky, and gold for the beaches; the trident head represents independence and a break with the past<br>
 
 **National symbol(s)**<br>
 Neptune's trident, pelican, red bird of paradise flower (also known as "Pride of Barbados")<br>
@@ -447,7 +443,7 @@ _female_: 19.6% (2024 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.5% (2016 est.)<br>
 _highest 10%_: 25.8% (2016 est.)<br>
-% share of income accruing to lowest and highest 10% of population<br>
+<strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 1.3% of GDP (2023 est.)<br>
@@ -547,12 +543,6 @@ _consumption_: 32.593 million cubic meters (2023 est.)<br>
 _imports_: 24.636 million cubic meters (2023 est.)<br>
 _proven reserves_: 113.267 million cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 1.348 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 2 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 1.284 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 64,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 68.293 million Btu/person (2023 est.)<br>
 
@@ -629,4 +619,10 @@ voluntary service only (men and women); 17 years, 9 months to 17 years, 11 month
 formed in 1979, the Barbados Defense Force (BDF) is responsible for protecting national security, but it may also be called up to maintain internal public order in times of crisis, emergency, or other specific needs, such as special joint patrols with the police; it also provides humanitarian assistance and disaster response operations both domestically and regionally; other duties include assisting with national development, such as through the training of the country's youth with the units of the Barbados Cadet Corps <br><br>Barbados has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Dominica, Grenada, Guyana, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security; the RSS is headquartered in Barbados (2025)<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 13 (2024 est.)<br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List — Barbados did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/barbados/<br>
 

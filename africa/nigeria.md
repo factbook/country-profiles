@@ -174,16 +174,13 @@ _female_: 64.2 years<br>
 **Gross reproduction rate**<br>
 2.19 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-16.6% (2018)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 95.3% of population<br>
-_improved: rural_: rural: 68.8% of population<br>
-_improved: total_: total: 82.6% of population<br>
-_unimproved: urban_: urban: 4.7% of population<br>
-_unimproved: rural_: rural: 31.2% of population<br>
-_unimproved: total_: total: 17.4% of population (2020 est.)<br>
+_improved: urban_: urban: 93.7% of population (2022 est.)<br>
+_improved: rural_: rural: 63.5% of population (2022 est.)<br>
+_improved: total_: total: 79.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 6.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 36.5% of population (2022 est.)<br>
+_unimproved: total_: total: 20.4% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.1% of GDP (2021)<br>
@@ -193,12 +190,12 @@ _Health expenditure (as % of national budget)_: 4.3% of national budget (2022 es
 0.38 physicians/1,000 population (2023)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 81.6% of population<br>
-_improved: rural_: rural: 41.4% of population<br>
-_improved: total_: total: 62.3% of population<br>
-_unimproved: urban_: urban: 18.4% of population<br>
-_unimproved: rural_: rural: 58.6% of population<br>
-_unimproved: total_: total: 37.7% of population (2020 est.)<br>
+_improved: urban_: urban: 81.9% of population (2022 est.)<br>
+_improved: rural_: rural: 41.1% of population (2022 est.)<br>
+_improved: total_: total: 62.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 18.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 58.9% of population (2022 est.)<br>
+_unimproved: total_: total: 37.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 8.9% (2016)<br>
@@ -260,21 +257,32 @@ _other_: 1.1% (2022 est.)<br>
 _urban population_: 54.3% of total population (2023)<br>
 _rate of urbanization_: 3.92% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 55.64 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 120.37 megatons (2016 est.)<br>
-_methane emissions_: 143.99 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 114.397 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2.962 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 72.425 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 39.01 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+56 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 2,794.3 kt (2022-2024 est.)<br>
+_agriculture_: 1,991.9 kt (2019-2021 est.)<br>
+_waste_: 729.4 kt (2019-2021 est.)<br>
+_other_: 362.7 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 27,614,830 tons (2009 est.)<br>
+_municipal solid waste generated annually_: 27.615 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 4.7% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 5 billion cubic meters (2020 est.)<br>
-_industrial_: 1.97 billion cubic meters (2020 est.)<br>
-_agricultural_: 5.51 billion cubic meters (2020 est.)<br>
+_municipal_: 5 billion cubic meters (2022 est.)<br>
+_industrial_: 1.965 billion cubic meters (2022 est.)<br>
+_agricultural_: 5.51 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-286.2 billion cubic meters (2020 est.)<br>
+286.2 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -384,8 +392,8 @@ ACP, AfDB, ATMIS, AU, C, CD, D-8, ECOWAS, EITI (compliant country), FAO, G-15, G
 **National holiday**<br>
 Independence Day (National Day), 1 October (1960)<br>
 
-**Flag description**<br>
-three equal vertical bands of green (hoist side), white, and green; the color green stands for the country's forests and natural resources, and white for peace and unity<br>
+**Flag**<br>
+<strong>description:</strong> three equal vertical bands of green (left side), white, and green<br><br><strong>meaning:</strong> green stands for the country's forests and natural resources, and white for peace and unity<br>
 
 **National symbol(s)**<br>
 eagle<br>
@@ -496,6 +504,9 @@ _highest 10%_: 26.7% (2018 est.)<br>
 _revenues_: $37.298 billion (2019 est.)<br>
 _expenditures_: $59.868 billion (2019 est.)<br>
 
+**Public debt**<br>
+19.6% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 $17.215 billion (2024 est.)<br>
 $6.423 billion (2023 est.)<br>
@@ -585,12 +596,6 @@ _consumption_: 19.885 billion cubic meters (2023 est.)<br>
 _exports_: 16.324 billion cubic meters (2023 est.)<br>
 _proven reserves_: 5.761 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 114.397 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 2.962 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 72.425 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 39.01 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 7.993 million Btu/person (2023 est.)<br>
 
@@ -679,10 +684,11 @@ the Nigerian military is responsible for defending against external aggression, 
 ## Space
 
 **Space agency/agencies**<br>
-National Space Research and Development Agency (NARSDA; established 1999); NARSDA originated from the National Centre for Remote Sensing and National Committee on Space Applications (both established in 1987), and the Directorate of Science (established 1993); Defense Space Administration (DSA; established 2014) (2024)<br>
+National Space Research and Development Agency (NARSDA; established 1999); Defense Space Administration (DSA; established 2014) (2025)<br>
+<strong>note:</strong> NARSDA originated from the National Centre for Remote Sensing, the National Committee on Space Applications (both established in 1987), and the Directorate of Science (established 1993)<br>
 
 **Space program overview**<br>
-has a formal national space program, which is one of the largest in Africa; focused on acquiring satellites for agricultural, environmental, meteorology, mining and disaster monitoring, socio-economic development, and security purposes; designs, builds (mostly with foreign assistance), and operates satellites; processes overhead imagery data for analysis and sharing; developing additional capabilities in satellite and satellite payload production, including remote sensing (RS) technologies; has a sounding rocket program for researching rockets and rocket propulsion systems with goal of launching domestically produced satellites into space from a Nigerian spaceport by 2030; has relations and/or cooperation agreements with a variety of foreign space agencies and industries, including those of Algeria, Bangladesh, Belarus, China, Ghana, India, Japan, Kenya, Mongolia, South Africa, Thailand, Turkey, the UK, the US, and Vietnam; has a government-owned satellite company and a small commercial aerospace sector (2024)<br>
+has a national space program with a focus on acquiring satellites for agricultural, environmental, meteorology, mining and disaster monitoring, socio-economic development, and security purposes; designs, builds (mostly with foreign assistance), and operates satellites; processes overhead imagery data for analysis and sharing; developing additional capabilities in satellite and satellite payload production, including remote sensing (RS) technologies; has a sounding rocket program for researching rockets and rocket propulsion systems with goal of launching domestically produced satellites into space from a Nigerian spaceport by 2030; has relations and/or cooperation agreements with a variety of foreign space agencies and industries, including those of Algeria, Bangladesh, Belarus, China, Ghana, India, Japan, Kenya, Mongolia, South Africa, Thailand, Turkey, the UK, the US, and Vietnam; has a government-owned satellite company and a small commercial aerospace sector (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -694,8 +700,8 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa; Jama’atu Ansar
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 89,045 (Cameroon) (2023)<br>
-_IDPs_: 3.09 million (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2024)<br>
+_refugees_: 127,131 (2024 est.)<br>
+_IDPs_: 3,709,022 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major precursor-chemical producer (2025)<br>

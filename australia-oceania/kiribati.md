@@ -159,16 +159,13 @@ _female_: 71.3 years<br>
 **Gross reproduction rate**<br>
 1.05 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-33.5% (2018/19)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 97.2% of population<br>
-_improved: rural_: rural: 63.1% of population<br>
-_improved: total_: total: 82% of population<br>
-_unimproved: urban_: urban: 2.8% of population<br>
-_unimproved: rural_: rural: 36.9% of population<br>
-_unimproved: total_: total: 18% of population (2020 est.)<br>
+_improved: urban_: urban: 87.9% of population (2022 est.)<br>
+_improved: rural_: rural: 59.5% of population (2022 est.)<br>
+_improved: total_: total: 75.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 12.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 40.5% of population (2022 est.)<br>
+_unimproved: total_: total: 24.3% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 14.8% of GDP (2021)<br>
@@ -181,12 +178,12 @@ _Health expenditure (as % of national budget)_: 9.7% of national budget (2022 es
 1.9 beds/1,000 population (2016 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 75.4% of population<br>
-_improved: rural_: rural: 45.4% of population<br>
-_improved: total_: total: 62.1% of population<br>
-_unimproved: urban_: urban: 24.6% of population<br>
-_unimproved: rural_: rural: 54.6% of population<br>
-_unimproved: total_: total: 37.9% of population (2020 est.)<br>
+_improved: urban_: urban: 72.6% of population (2022 est.)<br>
+_improved: rural_: rural: 48.1% of population (2022 est.)<br>
+_improved: total_: total: 62.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 27.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 51.9% of population (2022 est.)<br>
+_unimproved: total_: total: 37.9% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 46% (2016)<br>
@@ -247,16 +244,16 @@ _other_: 56.6% (2022 est.)<br>
 _urban population_: 57.8% of total population (2023)<br>
 _rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 7.62 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.07 megatons (2016 est.)<br>
-_methane emissions_: 0.02 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 81,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 81,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+8 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 35,724 tons (2016 est.)<br>
-
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
+_municipal solid waste generated annually_: 35,700 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 15.4% (2022 est.)<br>
 
 ## Government
 
@@ -350,8 +347,8 @@ ABEDA, ACP, ADB, AOSIS, C, FAO, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IM
 **National holiday**<br>
 Independence Day, 12 July (1979)<br>
 
-**Flag description**<br>
-the upper half is red with a yellow frigatebird flying over a yellow rising sun, and the lower half is blue with three horizontal wavy white stripes to represent the Pacific ocean; the white stripes represent the Gilbert, Line, and Phoenix island groups; the 17 rays of the sun represent the 16 Gilbert Islands and Banaba (formerly Ocean Island); the frigatebird symbolizes authority and freedom<br>
+**Flag**<br>
+<strong>description:</strong> the upper half is red with a yellow frigatebird flying over a yellow rising sun, and the lower half is blue with three wavy horizontal white stripes to represent the Pacific Ocean<br><br><strong>meaning:</strong> the white stripes represent the Gilbert, Line, and Phoenix island groups; the 17 rays of the sun represent the 16 Gilbert Islands and Banaba (formerly Ocean Island); the frigatebird symbolizes authority and freedom<br>
 
 **National symbol(s)**<br>
 frigatebird<br>
@@ -446,9 +443,12 @@ _highest 10%_: 22.8% (2019 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $213.334 million (2022 est.)<br>
-_expenditures_: $221.12 million (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $260.557 million (2023 est.)<br>
+_expenditures_: $264.736 million (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+22.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 17.7% (of GDP) (2023 est.)<br>
@@ -515,10 +515,6 @@ _solar_: 18.5% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 500 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 81,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 81,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 8.578 million Btu/person (2023 est.)<br>

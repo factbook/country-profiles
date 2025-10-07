@@ -156,27 +156,16 @@ _female_: 85.5 years<br>
 **Gross reproduction rate**<br>
 0.61 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Physician density**<br>
 3.06 physicians/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 37.4% (2023 est.)<br>
@@ -214,18 +203,22 @@ _other_: 24.9% (2022 est.)<br>
 _urban population_: 93.6% of total population (2023)<br>
 _rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
 
+**Carbon dioxide emissions**<br>
+_total emissions_: 18.833 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2.49 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 11.801 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 4.542 million metric tonnes of CO2 (2023 est.)<br>
+
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 4,170,953 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 583,933 tons (2013 est.)<br>
-_percent of municipal solid waste recycled_: 14% (2013 est.)<br>
+_municipal solid waste generated annually_: 4.171 million tons (2024 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 800 million cubic meters (2020 est.)<br>
-_industrial_: 2.37 billion cubic meters (2020 est.)<br>
-_agricultural_: 110 million cubic meters (2020 est.)<br>
+_municipal_: 796 million cubic meters (2022 est.)<br>
+_industrial_: 2.365 billion cubic meters (2022 est.)<br>
+_agricultural_: 113.5 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-7.1 billion cubic meters (2020 est.)<br>
+7.1 billion cubic meters (2022)<br>
 
 ## Government
 
@@ -248,7 +241,7 @@ _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<
 _etymology_: Spanish explorer Juan PONCE de Leon named the city in 1511 both for himself and for his name saint, Saint John<br>
 
 **Administrative divisions**<br>
-none (territory of the US); there are no first-order administrative divisions as defined by the US government, but 78 municipalities (<em>municipios</em>, singular - <em>municipio</em>) are considered second-order: Adjuntas, Aguada, Aguadilla, Aguas Buenas, Aibonito, Anasco, Arecibo, Arroyo, Barceloneta, Barranquitas, Bayamon, Cabo Rojo, Caguas, Camuy, Canovanas, Carolina, Catano, Cayey, Ceiba, Ciales, Cidra, Coamo, Comerio, Corozal, Culebra, Dorado, Fajardo, Florida, Guanica, Guayama, Guayanilla, Guaynabo, Gurabo, Hatillo, Hormigueros, Humacao, Isabela, Jayuya, Juana Diaz, Juncos, Lajas, Lares, Las Marias, Las Piedras, Loiza, Luquillo, Manati, Maricao, Maunabo, Mayaguez, Moca, Morovis, Naguabo, Naranjito, Orocovis, Patillas, Penuelas, Ponce, Quebradillas, Rincon, Rio Grande, Sabana Grande, Salinas, San German, San Juan, San Lorenzo, San Sebastian, Santa Isabel, Toa Alta, Toa Baja, Trujillo Alto, Utuado, Vega Alta, Vega Baja, Vieques, Villalba, Yabucoa, Yauco<br>
+none (territory of the US); no first-order administrative divisions as defined by the US government, but 78 municipalities (<em>municipios</em>, singular - <em>municipio</em>) are considered second-order: Adjuntas, Aguada, Aguadilla, Aguas Buenas, Aibonito, Anasco, Arecibo, Arroyo, Barceloneta, Barranquitas, Bayamon, Cabo Rojo, Caguas, Camuy, Canovanas, Carolina, Catano, Cayey, Ceiba, Ciales, Cidra, Coamo, Comerio, Corozal, Culebra, Dorado, Fajardo, Florida, Guanica, Guayama, Guayanilla, Guaynabo, Gurabo, Hatillo, Hormigueros, Humacao, Isabela, Jayuya, Juana Diaz, Juncos, Lajas, Lares, Las Marias, Las Piedras, Loiza, Luquillo, Manati, Maricao, Maunabo, Mayaguez, Moca, Morovis, Naguabo, Naranjito, Orocovis, Patillas, Penuelas, Ponce, Quebradillas, Rincon, Rio Grande, Sabana Grande, Salinas, San German, San Juan, San Lorenzo, San Sebastian, Santa Isabel, Toa Alta, Toa Baja, Trujillo Alto, Utuado, Vega Alta, Vega Baja, Vieques, Villalba, Yabucoa, Yauco<br>
 
 **Legal system**<br>
 civil law system based on the Spanish civil code, within the framework of the US federal system<br>
@@ -324,8 +317,8 @@ none (territory of the US with commonwealth status)<br>
 **National holiday**<br>
 US Independence Day, 4 July (1776); Puerto Rico Constitution Day, 25 July (1952)<br>
 
-**Flag description**<br>
-five equal horizontal bands of red (top, center, and bottom) alternating with white; a blue isosceles triangle based on the hoist side has a large five-pointed white star in the center, symbolizing the country; the three sides of the triangle stand for the executive, legislative, and judicial parts of the government; blue stands for the sky and the coastal waters, red for the blood shed by warriors, and white for liberty, victory, and peace<br>
+**Flag**<br>
+<strong>description: </strong>five equal horizontal bands of red alternating with white; a blue isosceles triangle based on the left side has a large five-pointed white star in the center<br><br><strong>meaning:</strong> the star stands for the country; the three sides of the triangle stand for the executive, legislative, and judicial branches of the government; blue stands for the sky and the coastal waters, red for the blood shed by warriors, and white for liberty, victory, and peace<br>
 <strong>note:</strong> design initially influenced by the US flag, but similar to the Cuban flag, with the colors of the bands and triangle reversed<br>
 
 **National symbol(s)**<br>
@@ -370,6 +363,12 @@ $42,300 (2022 est.)<br>
 $125.842 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
+**Inflation rate (consumer prices)**<br>
+4.3% (2022 est.)<br>
+2.4% (2021 est.)<br>
+-0.5% (2020 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
+
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.7% (2024 est.)<br>
 _industry_: 48% (2024 est.)<br>
@@ -411,6 +410,9 @@ _female_: 9.8% (2024 est.)<br>
 **Budget**<br>
 _revenues_: $9.268 billion (2017 est.)<br>
 _expenditures_: $9.974 billion (2017 est.)<br>
+
+**Public debt**<br>
+50.1% of GDP (2016 est.)<br>
 
 **Exports**<br>
 $65.368 billion (2024 est.)<br>
@@ -470,12 +472,6 @@ _consumption_: 2.315 billion cubic meters (2023 est.)<br>
 _exports_: 15.627 million cubic meters (2023 est.)<br>
 _imports_: 2.331 billion cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 18.833 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 2.49 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 11.801 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 4.542 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 86.286 million Btu/person (2023 est.)<br>
 
@@ -529,4 +525,7 @@ Puerto Rico Police; Puerto Rico (US) National Guard (Guardia Nacional de Puerto 
 defense is the responsibility of the US<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_IDPs_: 146 (2024 est.)<br>
 

@@ -166,16 +166,9 @@ _female_: 81 years<br>
 **Gross reproduction rate**<br>
 0.71 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 8.1% of GDP (2021)<br>
@@ -186,14 +179,6 @@ _Health expenditure (as % of national budget)_: 13.7% of national budget (2022 e
 
 **Hospital bed density**<br>
 5.6 beds/1,000 population (2020 est.)<br>
-
-**Sanitation facility access**<br>
-_improved: urban_: urban: 99.5% of population<br>
-_improved: rural_: rural: 98.4% of population<br>
-_improved: total_: total: 99% of population<br>
-_unimproved: urban_: urban: 0.5% of population<br>
-_unimproved: rural_: rural: 1.6% of population<br>
-_unimproved: total_: total: 1% of population (2020 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 24.4% (2016)<br>
@@ -246,23 +231,26 @@ _other_: 39.4% (2022 est.)<br>
 _urban population_: 58.6% of total population (2023)<br>
 _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 15.29 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 17.49 megatons (2016 est.)<br>
-_methane emissions_: 3.98 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 16.467 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 1.335 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 9.858 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 5.275 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+15.2 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1.654 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 269,933 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 16.3% (2015 est.)<br>
+_municipal solid waste generated annually_: 1.81 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 20% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 460 million cubic meters (2020 est.)<br>
-_industrial_: 700 million cubic meters (2020 est.)<br>
-_agricultural_: 80 million cubic meters (2020 est.)<br>
+_municipal_: 465 million cubic meters (2022)<br>
+_industrial_: 475 million cubic meters (2022)<br>
+_agricultural_: 76 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-105.5 billion cubic meters (2020 est.)<br>
+105.5 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 3 (2024)<br>
@@ -369,9 +357,8 @@ AIIB, Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, 
 Statehood Day (National Day), 30 May (1990)<br>
 <strong>note:</strong> marks the day in 1990 that the first modern multi-party Croatian parliament convened<br>
 
-**Flag description**<br>
-three equal horizontal bands of red (top), white, and blue -- the pan-Slav colors -- with the Croatian coat of arms in the center; the coat of arms consists of a main shield (a checkerboard of 13 red and 12 silver fields) with five smaller shields that form a crown over the main shield; the small shields represent the five historic regions (from left to right): Croatia, Dubrovnik, Dalmatia, Istria, and Slavonia<br>
-<strong>note:</strong> Russia's 19th-century flag inspired the pan-Slav colors<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of red (top), white, and blue -- the pan-Slav colors -- with the Croatian coat of arms in the center, which consists of a main shield (a checkerboard of 13 red and 12 silver fields) with five smaller shields that form a crown over the main shield<br><br><strong>meaning:</strong> the small shields represent the five historic regions (from left to right): Croatia, Dubrovnik, Dalmatia, Istria, and Slavonia<br><br><strong>history:</strong> Russia's 19th-century flag inspired the pan-Slav colors<br>
 
 **National symbol(s)**<br>
 red-and-white checkerboard<br>
@@ -487,9 +474,9 @@ _highest 10%_: 23% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $3.678 billion (2022 est.)<br>
-_expenditures_: $3.662 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $32.487 billion (2023 est.)<br>
+_expenditures_: $33.715 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 75.6% of GDP (2023 est.)<br>
@@ -585,12 +572,6 @@ _exports_: 1.119 billion cubic meters (2023 est.)<br>
 _imports_: 2.995 billion cubic meters (2023 est.)<br>
 _proven reserves_: 24.919 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 16.467 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 1.335 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 9.858 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 5.275 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 79.907 million Btu/person (2023 est.)<br>
 
@@ -651,14 +632,14 @@ Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH)
 <strong>note:</strong> the Ministry of the Interior is responsible for internal security, including law enforcement (Croatia Police) and border security<br>
 
 **Military expenditures**<br>
-1.8% of GDP (2024 est.)<br>
-1.8% of GDP (2023)<br>
-1.8% of GDP (2022)<br>
-2% of GDP (2021)<br>
-1.7% of GDP (2020)<br>
+2% of GDP (2025 est.)<br>
+1.9% of GDP (2024 est.)<br>
+1.7% of GDP (2023 est.)<br>
+1.8% of GDP (2022 est.)<br>
+2% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 14,000 active-duty Armed Forces (10,000 Army; 1,500 Navy; 1,500 Air force; 1,000 joint/other) (2024)<br>
+approximately 15,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix of Soviet-era (largely from the former Yugoslavia) equipment and a growing amount of more modern, NATO-compatible weapon systems from suppliers such as France, Germany, Turkey, and the US (2024)<br>
@@ -676,7 +657,6 @@ the Armed Forces of Croatia (OSRH) are responsible for the defense of Croatia’
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 24,525 (Ukraine) (as of 29 February 2024)<br>
-_stateless persons_: 2,889 (2022)<br>
-<strong>note: </strong>843,010 estimated refugee and migrant arrivals (January 2015-September 2023)<br>
+_refugees_: 29,927 (2024 est.)<br>
+_stateless persons_: 758 (2024 est.)<br>
 

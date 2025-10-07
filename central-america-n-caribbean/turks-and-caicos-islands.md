@@ -150,20 +150,21 @@ _female_: 84.1 years<br>
 **Gross reproduction rate**<br>
 0.83 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-34.4% (2019/20)<br>
-
 **Drinking water source**<br>
-_improved: total_: total: 94.3% of population<br>
-_unimproved: total_: total: 5.7% of population (2017)<br>
+_improved: urban_: urban: 99.2% of population (2022 est.)<br>
+_improved: rural_: rural: 91.8% of population (2022 est.)<br>
+_improved: total_: total: 98.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.8% of population (2022 est.)<br>
+_unimproved: rural_: rural: 8.2% of population (2022 est.)<br>
+_unimproved: total_: total: 1.2% of population (2022 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 88% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 12% of population (2017)<br>
+_improved: urban_: urban: 98.8% of population (2022 est.)<br>
+_improved: rural_: rural: 97.7% of population (2022 est.)<br>
+_improved: total_: total: 98.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 2.3% of population (2022 est.)<br>
+_unimproved: total_: total: 1.3% of population (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 0.4% (2019/20)<br>
@@ -208,8 +209,9 @@ _other_: 87.9% (2022 est.)<br>
 _urban population_: 94.2% of total population (2023)<br>
 _rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.22 megatons (2016 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 447,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 447,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Government
 
@@ -286,8 +288,8 @@ Caricom (associate), CDB, Interpol (subbureau), UPU<br>
 **Independence**<br>
 none (overseas territory of the UK)<br>
 
-**Flag description**<br>
-blue with the UK flag in the upper hoist-side quadrant and the colonial shield centered on the outer half of the flag; the shield is yellow and displays a conch shell, a spiny lobster, and Turk's cap cactus<br>
+**Flag**<br>
+<strong>description:</strong> blue with the UK flag in the upper-left quadrant and the colonial shield centered on the right half of the flag; the shield is yellow and displays a conch shell, a spiny lobster, and Turk's cap cactus<br>
 
 **National symbol(s)**<br>
 conch shell, Turk's cap cactus<br>
@@ -323,6 +325,12 @@ $28,200 (2022 est.)<br>
 **GDP (official exchange rate)**<br>
 $1.745 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
+
+**Inflation rate (consumer prices)**<br>
+8.5% (2022 est.)<br>
+5% (2021 est.)<br>
+2.3% (2020 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.4% (2024 est.)<br>
@@ -406,10 +414,6 @@ _solar_: 1.9% of total installed capacity (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 3,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 447,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 447,000 metric tonnes of CO2 (2023 est.)<br>
-
 ## Communications
 
 **Telephones - fixed lines**<br>
@@ -457,4 +461,7 @@ _key ports_: Cockburn Harbor, Grand Turk, Providenciales<br>
 defense is the responsibility of the UK<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 8 (2024 est.)<br>
 

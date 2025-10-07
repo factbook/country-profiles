@@ -173,16 +173,13 @@ _female_: 70 years<br>
 **Gross reproduction rate**<br>
 1.89 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-37.7% (2020)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 98.5% of population<br>
-_improved: rural_: rural: 70.2% of population<br>
-_improved: total_: total: 76.4% of population<br>
-_unimproved: urban_: urban: 1.5% of population<br>
-_unimproved: rural_: rural: 29.8% of population<br>
-_unimproved: total_: total: 23.6% of population (2020 est.)<br>
+_improved: urban_: urban: 83.2% of population (2022 est.)<br>
+_improved: rural_: rural: 42.2% of population (2022 est.)<br>
+_improved: total_: total: 51.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 16.8% of population (2022 est.)<br>
+_unimproved: rural_: rural: 57.8% of population (2022 est.)<br>
+_unimproved: total_: total: 48.5% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 3.2% of GDP (2021)<br>
@@ -195,12 +192,12 @@ _Health expenditure (as % of national budget)_: 5.7% of national budget (2022 es
 0.3 beds/1,000 population (2016 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 52.5% of population<br>
-_improved: rural_: rural: 8.1% of population<br>
-_improved: total_: total: 17.7% of population<br>
-_unimproved: urban_: urban: 47.5% of population<br>
-_unimproved: rural_: rural: 91.9% of population<br>
-_unimproved: total_: total: 82.3% of population (2020 est.)<br>
+_improved: urban_: urban: 50.8% of population (2022 est.)<br>
+_improved: rural_: rural: 8.2% of population (2022 est.)<br>
+_improved: total_: total: 17.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 49.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 91.8% of population (2022 est.)<br>
+_unimproved: total_: total: 82.2% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 4.5% (2016)<br>
@@ -261,21 +258,31 @@ _other_: 50.9% (2022 est.)<br>
 _urban population_: 23.2% of total population (2023)<br>
 _rate of urbanization_: 4.4% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 21.8 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 14.87 megatons (2016 est.)<br>
-_methane emissions_: 114.21 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 18.519 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 3.427 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 15.092 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+23.5 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 1,108.5 kt (2022-2024 est.)<br>
+_agriculture_: 1,948.6 kt (2019-2021 est.)<br>
+_waste_: 356.3 kt (2019-2021 est.)<br>
+_other_: 143.9 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 6,532,787 tons (2015 est.)<br>
+_municipal solid waste generated annually_: 6.533 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 12.8% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 810 million cubic meters (2020 est.)<br>
-_industrial_: 50 million cubic meters (2020 est.)<br>
-_agricultural_: 9.69 billion cubic meters (2020 est.)<br>
+_municipal_: 810 million cubic meters (2022 est.)<br>
+_industrial_: 51.1 million cubic meters (2022 est.)<br>
+_agricultural_: 9.687 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-122 billion cubic meters (2020 est.)<br>
+122 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -386,9 +393,9 @@ oldest independent country in Africa and one of the oldest in the world, at leas
 **National holiday**<br>
 Derg Downfall Day (defeat of MENGISTU regime), 28 May (1991)<br>
 
-**Flag description**<br>
-three equal horizontal bands of green (top), yellow, and red, with a yellow pentagram and single yellow rays emanating from the angles between the points on a light blue disk centered on the three bands; green stands for hope and the land's fertility, yellow for justice and harmony, and red for sacrifice and heroism; the blue of the disk symbolizes peace, and the pentagram represents the unity and equality of the Ethiopian people<br>
-<strong>note:</strong> Ethiopia is the oldest independent country in Africa, and newly independent African countries often adopted the Ethiopian flag's colors, leading them to become known as the pan-African colors; the emblem in the center of the current flag was added in 1996<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of green (top), yellow, and red, with a light blue disk centered on the three bands; on the disk is a yellow pentagram with single yellow rays emanating from the angles between the points<br><br><strong>meaning:</strong> green stands for hope and the land's fertility, yellow for justice and harmony, and red for sacrifice and heroism; the blue of the disk symbolizes peace, and the pentagram represents the Ethiopian people's unity and equality<br><br><strong>history:</strong> the emblem in the center of the current flag was added in 1996<br>
+<strong>note:</strong> Ethiopia is the oldest independent country in Africa, and newly independent African countries often adopted the Ethiopian flag's colors, which were later known as the Pan-African movement's colors<br>
 
 **National symbol(s)**<br>
 Abyssinian lion (traditional), yellow pentagram with five rays of light on a blue field (promoted by government)<br>
@@ -504,8 +511,8 @@ _highest 10%_: 24.8% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $7.009 billion (2022 est.)<br>
-_expenditures_: $8.83 billion (2022 est.)<br>
+_revenues_: $8.808 billion (2023 est.)<br>
+_expenditures_: $12.49 billion (2023 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
@@ -600,11 +607,6 @@ _crude oil estimated reserves_: 428,000 barrels (2021 est.)<br>
 **Natural gas**<br>
 _proven reserves_: 24.919 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 18.519 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 3.427 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 15.092 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 2.366 million Btu/person (2023 est.)<br>
 
@@ -682,10 +684,10 @@ the Ethiopian National Defense Force (ENDF) is focused on both external threats 
 ## Space
 
 **Space agency/agencies**<br>
-Ethiopian Space Science and Geospatial Institute (ESSGI; formed in 2022 from the joining of the Ethiopian Space Science and Technology Institute or ESSTI and the Ethiopian Geospatial Information Institute or EGII) (2024)<br>
+Ethiopian Space Science and Geospatial Institute (ESSGI; formed in 2022 from the joining of the Ethiopian Space Science and Technology Institute or ESSTI and the Ethiopian Geospatial Information Institute or EGII) (2025)<br>
 
 **Space program overview**<br>
-has a small space program to acquire and operate satellites, as well as conduct research; jointly builds satellites with foreign partners and operates and exploits remote sensing (RS) satellites; developing the ability to manufacture satellites and their associated payloads; involved in astronomy and in the construction of space observatories; cooperates on space-related issues with a variety of countries, including China, France, India, Russia, and multiple African countries, particularly Kenya, Rwanda, Sudan, Tanzania, and Uganda; shares RS data with neighboring countries (2024)<br>
+has a small space program focused on acquiring and operating satellites, as well as conducting research; jointly builds satellites with foreign partners and operates and exploits remote sensing (RS) satellites; developing the ability to manufacture satellites and their associated payloads; involved in astronomy and in the construction of space observatories; cooperates on space-related issues with a variety of countries, including China, France, India, Russia, and multiple African countries, particularly Kenya, Rwanda, Sudan, Tanzania, and Uganda; shares RS data with neighboring countries (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -697,6 +699,6 @@ al-Shabaab<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 167,391 (Eritrea) (2023); 420,502 (South Sudan), 314,976 (Somalia), 111,778 (Sudan) (refugees since 15 April 2023) (2024)<br>
-_IDPs_: 4.385 million (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2023)<br>
+_refugees_: 1,071,881 (2024 est.)<br>
+_IDPs_: 3,134,600 (2024 est.)<br>
 

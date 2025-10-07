@@ -159,16 +159,13 @@ _female_: 59 years<br>
 **Gross reproduction rate**<br>
 2.52 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-6.9% (2018/19)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 96.4% of population<br>
-_improved: rural_: rural: 73.7% of population<br>
-_improved: total_: total: 84.2% of population<br>
-_unimproved: urban_: urban: 3.6% of population<br>
-_unimproved: rural_: rural: 26.3% of population<br>
-_unimproved: total_: total: 15.8% of population (2020 est.)<br>
+_improved: urban_: urban: 80.1% of population (2022 est.)<br>
+_improved: rural_: rural: 38.6% of population (2022 est.)<br>
+_improved: total_: total: 58.3% of population (2022 est.)<br>
+_unimproved: urban_: urban: 19.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 61.4% of population (2022 est.)<br>
+_unimproved: total_: total: 41.7% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 2.5% of national budget (2022 est.)<br>
@@ -180,12 +177,12 @@ _unimproved: total_: total: 15.8% of population (2020 est.)<br>
 0.9 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 82.4% of population<br>
-_improved: rural_: rural: 33.8% of population<br>
-_improved: total_: total: 56.2% of population<br>
-_unimproved: urban_: urban: 17.6% of population<br>
-_unimproved: rural_: rural: 66.2% of population<br>
-_unimproved: total_: total: 43.8% of population (2020 est.)<br>
+_improved: urban_: urban: 82.9% of population (2022 est.)<br>
+_improved: rural_: rural: 34.8% of population (2022 est.)<br>
+_improved: total_: total: 57.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 17.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 65.2% of population (2022 est.)<br>
+_unimproved: total_: total: 42.4% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 8.3% (2016)<br>
@@ -233,21 +230,24 @@ _other_: 20.4% (2022 est.)<br>
 _urban population_: 47.9% of total population (2023)<br>
 _rate of urbanization_: 4.2% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 14.28 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.65 megatons (2016 est.)<br>
-_methane emissions_: 20.13 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 838,000 metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 10 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 838,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+14.3 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2,326,099 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 2.326 million tons (2024 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 20 million cubic meters (2020 est.)<br>
-_industrial_: 2 million cubic meters (2017 est.)<br>
-_agricultural_: 3.28 billion cubic meters (2020 est.)<br>
+_municipal_: 15 million cubic meters (2022 est.)<br>
+_industrial_: 2 million cubic meters (2022 est.)<br>
+_agricultural_: 3.281 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-14.7 billion cubic meters (2020 est.)<br>
+14.7 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -336,7 +336,7 @@ Cosmopolitan Democratic Party<br>Green Party<br>Himilo Qaran Party<br>Ilays Part
 _chief of mission_: Ambassador DAHIR Hassan Abdi (since 18 September 2024)<br>
 _chancery_: 1609 22nd Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 853-9164<br>
-_email address and website_: <br>info@somaliembassydc.net<br><br>https://somaliembassydc.net/<br>
+_email address and website_: <br>washingtonembassy@mfa.gov.so<br><br>https://usa.mfa.gov.so/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Richard H. RILEY (since 20 June 2024)<br>
@@ -354,8 +354,8 @@ ACP, AfDB, AFESD, AMF, AU, CAEU (candidate), EAC, FAO, G-77, IBRD, ICAO, ICRM, I
 **National holiday**<br>
 Foundation of the Somali Republic, 1 July (1960); note - 26 June (1960) in Somaliland<br>
 
-**Flag description**<br>
-light blue with a large white five-pointed star in the center; the blue field was originally influenced by the UN flag but today is said to represent the sky and the Indian Ocean; the five points of the star represent the regions in the horn of Africa where Somali people live: the former British Somaliland and Italian Somaliland (which together make up Somalia), Djibouti, Ogaden (Ethiopia), and the Northeast Province (Kenya)<br>
+**Flag**<br>
+<strong>description:</strong> light blue with a large white five-pointed star in the center<br><br><strong>meaning: </strong>the blue field was originally influenced by the UN flag but today is said to represent the sky and the Indian Ocean; the five points of the star represent the regions in the horn of Africa where Somali people live: the former British Somaliland and Italian Somaliland (which together make up Somalia), Djibouti, Ogaden (Ethiopia), and the Northeast Province (Kenya)<br>
 
 **National symbol(s)**<br>
 leopard<br>
@@ -365,8 +365,8 @@ blue, white<br>
 
 **National anthem(s)**<br>
 _title_: "Qolobaa Calankeed" (Every Nation Has Its Own Flag)<br>
-_lyrics/music_: lyrics/music: Abdullahi QARSHE<br>
-_history_: adopted 2012; written in 1959<br>
+_lyrics/music_: Abdullahi QARSHE<br>
+_history_: adopted 2012<br>
 
 **Government - note**<br>
 regional and local governing bodies continue to exist and control various areas of the country, including the self-declared Republic of Somaliland in northwestern Somalia<br>
@@ -397,6 +397,12 @@ $1,400 (2022 est.)<br>
 **GDP (official exchange rate)**<br>
 $12.109 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
+
+**Inflation rate (consumer prices)**<br>
+6.8% (2022 est.)<br>
+4.6% (2021 est.)<br>
+4.3% (2020 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 124% (2024 est.)<br>
@@ -439,6 +445,9 @@ _female_: 37% (2024 est.)<br>
 17% of GDP (2022 est.)<br>
 18.3% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+
+**Public debt**<br>
+93% of GDP (2014 est.)<br>
 
 **Taxes and other revenues**<br>
 0% (of GDP) (2023 est.)<br>
@@ -509,11 +518,6 @@ _refined petroleum consumption_: 6,000 bbl/day (2023 est.)<br>
 
 **Natural gas**<br>
 _proven reserves_: 5.663 billion cubic meters (2021 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 838,000 metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 10 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 838,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 649,000 Btu/person (2023 est.)<br>
@@ -597,6 +601,6 @@ al-Shabaab; Islamic State of Iraq and ash-Sham – Somalia<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,364 (Ethiopia), 9,969 (Yemen) (2023)<br>
-_IDPs_: 3.864 million (civil war since 1988, clan-based competition for resources; famine; insecurity because of fighting between al-Shabaab and the Transitional Federal Government's allied forces) (2022)<br>
+_refugees_: 41,763 (2024 est.)<br>
+_IDPs_: 3,869,345 (2024 est.)<br>
 

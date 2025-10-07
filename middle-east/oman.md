@@ -161,16 +161,13 @@ _female_: 79.4 years<br>
 **Gross reproduction rate**<br>
 1.29 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-29.7% (2014)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 97.9% of population<br>
-_improved: total_: total: 99.7% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 2.1% of population<br>
-_unimproved: total_: total: 0.3% of population (2020 est.)<br>
+_improved: urban_: urban: 94.7% of population (2022 est.)<br>
+_improved: rural_: rural: 76.3% of population (2022 est.)<br>
+_improved: total_: total: 92.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 5.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 23.7% of population (2022 est.)<br>
+_unimproved: total_: total: 7.6% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.4% of GDP (2021)<br>
@@ -183,12 +180,12 @@ _Health expenditure (as % of national budget)_: 8.3% of national budget (2022 es
 1.2 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 27% (2016)<br>
@@ -249,21 +246,32 @@ _other_: 95.3% (2022 est.)<br>
 _urban population_: 88.4% of total population (2023)<br>
 _rate of urbanization_: 2.32% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 34.88 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 63.46 megatons (2016 est.)<br>
-_methane emissions_: 5.6 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 84.073 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 661,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 28.611 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 54.8 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+34.9 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 673.6 kt (2022-2024 est.)<br>
+_agriculture_: 36.8 kt (2019-2021 est.)<br>
+_waste_: 62.4 kt (2019-2021 est.)<br>
+_other_: 9.9 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1,734,885 tons (2014 est.)<br>
+_municipal solid waste generated annually_: 3.308 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 13.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 130 million cubic meters (2020 est.)<br>
-_industrial_: 240 million cubic meters (2020 est.)<br>
-_agricultural_: 1.55 billion cubic meters (2020 est.)<br>
+_municipal_: 130 million cubic meters (2022 est.)<br>
+_industrial_: 238 million cubic meters (2022 est.)<br>
+_agricultural_: 1.547 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-1.4 billion cubic meters (2020 est.)<br>
+1.4 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -369,8 +377,8 @@ ABEDA, AFESD, AMF, CAEU, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (NGOs), IDA, IDB,
 National Day, 18 November<br>
 <strong>note:</strong> celebrates Oman's independence from Portugal in 1650 and the birthday of Sultan QABOOS bin Said al Said, who reigned from 1970 to 2020<br>
 
-**Flag description**<br>
-three equal horizontal bands of white (top), red, and green, with a vertical red band on the hoist side; the national emblem (a <em>khanjar</em> dagger in its sheath on top of crossed swords in scabbards) in white is centered near the top of the vertical band; white stands for peace and prosperity, red for battles against foreign invaders, and green for the Jebel al Akhdar (Green Mountains) and fertility<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of white (top), red, and green, with a vertical red band on the left side; the national emblem (a <em>khanjar</em> dagger in its sheath on top of crossed swords in scabbards) in white is centered near the top of the vertical band<br><br><strong>meaning:</strong> white stands for peace and prosperity, red for battles against foreign invaders, and green for the Jebel al Akhdar (Green Mountains) and fertility<br>
 
 **National symbol(s)**<br>
 khanjar dagger on top of two crossed swords<br>
@@ -560,12 +568,6 @@ _exports_: 15.536 billion cubic meters (2023 est.)<br>
 _imports_: 1.924 billion cubic meters (2023 est.)<br>
 _proven reserves_: 651.287 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 84.073 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 661,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 28.611 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 54.8 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 296.586 million Btu/person (2023 est.)<br>
 
@@ -650,5 +652,5 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,000 (Yemen) (2017)<br>
+_refugees_: 714 (2024 est.)<br>
 

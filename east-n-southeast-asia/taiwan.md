@@ -155,26 +155,6 @@ _female_: 84.7 years<br>
 **Gross reproduction rate**<br>
 0.54 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-75.2% (2016)<br>
-<strong>note:</strong> percent of women aged 20-52<br>
-
-**Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA<br>
-
-**Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA<br>
-
 **Currently married women (ages 15-49)**<br>
 51% (2023 est.)<br>
 
@@ -198,8 +178,15 @@ _other_: 78% (2022 est.)<br>
 _urban population_: 80.1% of total population (2023)<br>
 _rate of urbanization_: 0.65% annual rate of change (2020-25 est.)<br>
 
+**Carbon dioxide emissions**<br>
+_total emissions_: 289.109 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 140.734 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 92.014 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 56.361 million metric tonnes of CO2 (2023 est.)<br>
+
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 7.336 million tons (2015 est.)<br>
+_percent of municipal solid waste recycled_: 13.8% (2022 est.)<br>
 
 **Total renewable water resources**<br>
 67 cubic meters (2011)<br>
@@ -298,8 +285,8 @@ ADB (Chinese Taipei), APEC (Chinese Taipei), BCIE, CABEI, IOC, ITUC (NGOs), SICA
 Republic Day (National Day), 10 October (1911)<br>
 <strong>note:</strong> celebrates the anniversary of the Chinese Revolution, also known as Double Ten (10-10) Day<br>
 
-**Flag description**<br>
-red field with a dark blue rectangle in the upper hoist-side corner, bearing a white sun with 12 triangular rays; the blue-and-white design of the canton (symbolizing the sun of progress) dates to 1895; blue stands for liberty, justice, and democracy, red for fraternity, sacrifice, and nationalism, and white for equality, frankness, and the people's livelihood; the 12 rays represent the months of the year and the traditional Chinese hours (each ray equals two hours)<br>
+**Flag**<br>
+<strong>description:</strong> red field with a dark blue rectangle in the upper-left corner, bearing a white sun with 12 triangular rays<br><br><strong>meaning:</strong> blue stands for liberty, justice, and democracy; red for fraternity, sacrifice, and nationalism; white for equality, frankness, and the people's livelihood; the 12 rays represent the months of the year and the traditional Chinese hours (each ray equals two hours)<br><br><strong>history:</strong> the blue-and-white design of the canton (symbolizing the sun of progress) dates to 1895<br>
 <strong>note:</strong> similar to the flag of Samoa<br>
 
 **National symbol(s)**<br>
@@ -311,7 +298,7 @@ blue, white, red<br>
 **National anthem(s)**<br>
 _title_: "Zhonghua Minguo guoge" (National Anthem of the Republic of China)<br>
 _lyrics/music_: HU Han-min, TAI Chi-t'ao, and LIAO Chung-k'ai/CHENG Mao-yun<br>
-_history_: adopted 1930; also the song of the Kuomintang Party; informally known as "San Min Chu I" or "San Min Zhu Yi" (Three Principles of the People); because of political pressure from China, "Guo Qi Ge" (National Banner Song) is used at international events rather than the official anthem of Taiwan<br>
+_history_: adopted 1937; also the song of the Kuomintang Party; informally known as "San Min Chu I" or "San Min Zhu Yi" (Three Principles of the People); the anthem is banned from performance in mainland China, Hong Kong, and Macau<br>
 
 ## Economy
 
@@ -337,11 +324,12 @@ $32,900 (2021 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $611.391 billion (2023 est.)<br>
+<strong>note:</strong> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 2.2% (2024 est.)<br>
 2.5% (2023 est.)<br>
-3% (2022 est.)<br>
+2.9% (2022 est.)<br>
 <strong>note:</strong> annual % change based on consumer prices<br>
 
 **GDP - composition, by end use**<br>
@@ -462,12 +450,6 @@ _consumption_: 27.222 billion cubic meters (2023 est.)<br>
 _imports_: 26.997 billion cubic meters (2023 est.)<br>
 _proven reserves_: 6.23 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 289.109 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 140.734 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 92.014 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 56.361 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 206.102 million Btu/person (2023 est.)<br>
 
@@ -554,16 +536,19 @@ the military’s primary responsibility is external security, including the defe
 ## Space
 
 **Space agency/agencies**<br>
-Taiwan Space Agency (TASA; renamed and reorganized in 2023 from the former National Space Program Organization or NSPO, which was established in 1991) (2024)<br>
+Taiwan Space Agency (TASA; renamed and reorganized in 2023 from the former National Space Program Organization or NSPO, which was established in 1991) (2025)<br>
 
 **Space launch site(s)**<br>
-sounding rockets launched from Jui Peng Air Base (Pingtung); has announced intentions to build a future rocket launch site (2024)<br>
+sounding rockets launched from Jui Peng Air Base (Pingtung); has announced intentions to build a future national space port on the southeast coast (Pingtung) (2025)<br>
 
 **Space program overview**<br>
-space program focused on the acquisition of satellites and the development of independent space capabilities, such as rocket manufacturing and satellite launch services; manufactures and operates remote sensing (RS) and scientific/research satellites; manufactures and tests sounding rockets; researching and developing other space technologies, including communications satellites, small satellites, satellite payloads and ground station components, spacecraft components, optical RS and telecommunications, navigational control, and rocket propulsion systems; has bi-lateral relations with the space programs of India and the US, but is blocked from participating in most international and regional space organizations due to political pressure from China; has a commercial space industry that provides components and expertise for TASA and is independently developing satellites and a small satellite launch vehicle (2024)<br>
+has had a formal national space development program since the early 1990s with a focus on the acquisition of satellites and the development of independent space capabilities, such as rocket manufacturing and satellite launch services; manufactures and operates satellites; manufactures and tests sounding rockets; researching and developing other space technologies, including remote sensing, telecommunications, small satellites, satellite payloads and ground station components, spacecraft components, navigational control, and rocket propulsion systems; has bi-lateral relations with the space programs of France, India, Japan, Paraguay, Poland, the UK, and the US; has a commercial space industry that provides components and expertise for TASA and is independently developing satellites and a small satellite launch vehicle; the government passed a space promotion act in 2021 encouraging private investment in the space industry (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_IDPs_: 380 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major precursor-chemical producer (2025)<br>

@@ -161,16 +161,13 @@ _female_: 81.7 years<br>
 **Gross reproduction rate**<br>
 0.79 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 93.8% of population<br>
-_improved: total_: total: 98% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 6.2% of population<br>
-_unimproved: total_: total: 2% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 93.8% of population (2022 est.)<br>
+_improved: total_: total: 98% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 6.2% of population (2022 est.)<br>
+_unimproved: total_: total: 2% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 7.5% of GDP (2022)<br>
@@ -183,12 +180,12 @@ _Health expenditure (as % of national budget)_: 13% of national budget (2022 est
 6 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.5% of population<br>
-_improved: rural_: rural: 88.7% of population<br>
-_improved: total_: total: 96% of population<br>
-_unimproved: urban_: urban: 0.5% of population<br>
-_unimproved: rural_: rural: 11.3% of population<br>
-_unimproved: total_: total: 4% of population (2020 est.)<br>
+_improved: urban_: urban: 99% of population (2022 est.)<br>
+_improved: rural_: rural: 91.9% of population (2022 est.)<br>
+_improved: total_: total: 96.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 8.1% of population (2022 est.)<br>
+_unimproved: total_: total: 3.3% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 26.3% (2016)<br>
@@ -248,23 +245,26 @@ _other_: 18.3% (2022 est.)<br>
 _urban population_: 68.7% of total population (2023)<br>
 _rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 10.37 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 12.96 megatons (2016 est.)<br>
-_methane emissions_: 3.15 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 12.877 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 380,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 9.61 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 2.887 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+11.5 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1.3 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 297,960 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 22.9% (2015 est.)<br>
+_municipal solid waste generated annually_: 1.315 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 34.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 140 million cubic meters (2020 est.)<br>
-_industrial_: 60 million cubic meters (2020 est.)<br>
-_agricultural_: 60 million cubic meters (2020 est.)<br>
+_municipal_: 136.78 million cubic meters (2022 est.)<br>
+_industrial_: 87.96 million cubic meters (2022 est.)<br>
+_agricultural_: 58.74 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-24.5 billion cubic meters (2020 est.)<br>
+24.5 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -338,7 +338,7 @@ _subordinate courts_: Court of Appeals; district and local courts<br>
 Dawn of Nemunas or NA<br>Electoral Action of Poles in Lithuania or LLRA–KŠS<br>Freedom and Justice Party or LT (formerly Lithuanian Freedom Union (Liberals))<br>Freedom Party or LP<br>Homeland Union-Lithuanian Christian Democrats or TS-LKD<br>Labour Party or DP<br>Lithuanian Center Party or LCP<br>Lithuanian Christian Democracy Party or LKDP<br>Lithuanian Farmers and Greens Union or LVZS<br>Lithuanian Green Party or LZP<br>Liberals' Movement or LRLS<br>Lithuanian List or LL<br>Lithuanian Regions Party or LRP<br>Social Democratic Party of Lithuania or LSDP<br>Union of Democrats for Lithuania or DSVL<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Jurate USEVIČIŪTĖ (since 14 July 2025)<br>
+_chief of mission_: Ambassador Gediminas VARVUOLIS (since 5 September 2025)<br>
 _chancery_: 2622 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 234-5860<br>
 _FAX_: [1] (202) 328-0466<br>
@@ -363,8 +363,8 @@ Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EU, FAO, IAEA, IBR
 Independence Day (or National Day), 16 February (1918)<br>
 <strong>note:</strong> 16 February 1918 was the date Lithuania established its statehood and independence from Soviet Russia and Germany; 11 March 1990 was the date it declared the restoration of statehood and independence from the Soviet Union<br>
 
-**Flag description**<br>
-three equal horizontal bands of yellow (top), green, and red; yellow stands for golden fields, the sun, light, and goodness; green represents the forests, nature, freedom, and hope; red stands for courage and the blood spilled in defense of the homeland<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of yellow (top), green, and red<br><br><strong>meaning:</strong> yellow stands for golden fields, the sun, light, and goodness; green for the forests, nature, freedom, and hope; red for courage and the blood spilled in defense of the homeland<br>
 
 **National symbol(s)**<br>
 mounted knight known as Vytis (the Chaser), white stork<br>
@@ -480,9 +480,9 @@ _highest 10%_: 28.7% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $24.347 billion (2022 est.)<br>
-_expenditures_: $24.219 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $28.011 billion (2023 est.)<br>
+_expenditures_: $28.68 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 36.9% of GDP (2023 est.)<br>
@@ -577,12 +577,6 @@ _consumption_: 1.49 billion cubic meters (2023 est.)<br>
 _exports_: 1.867 billion cubic meters (2023 est.)<br>
 _imports_: 3.282 billion cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 12.877 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 380,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 9.61 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 2.887 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 83.7 million Btu/person (2023 est.)<br>
 
@@ -643,14 +637,14 @@ Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Lithuanian Land Forces
 <strong>note 1: </strong>the National Rifleman's Union is a civilian paramilitary organization supported by the Lithuanian Government, which cooperates with the military but is not part of it; however, in a state of war, its armed formations would fall under the Armed Forces<br><br><strong>note 2:</strong> the Lithuanian Police and State Border Guard Service are under the Ministry of Interior; in wartime, the State Border Guard Service becomes part of the armed forces<br>
 
 **Military expenditures**<br>
-2.9% of GDP (2024 est.)<br>
-2.8% of GDP (2023)<br>
-2.5% of GDP (2022)<br>
-2% of GDP (2021)<br>
-2.1% of GDP (2020)<br>
+4% of GDP (2025 est.)<br>
+3.1% of GDP (2024 est.)<br>
+2.7% of GDP (2023 est.)<br>
+2.4% of GDP (2022 est.)<br>
+2% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 18,000 active-duty Armed Forces (14,000 Army, including about 5,000 active National Defense Voluntary Forces); 500 Navy; 1,000 Air Force; 2,500 other, including special operations forces, logistics support, training, etc) (2024)<br>
+approximately 20,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix of mostly European and US weapons and equipment (2024)<br>
@@ -668,6 +662,6 @@ the Lithuanian Armed Forces are responsible for the defense of the country’s i
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 41,490 (Ukraine) (as of 11 March 2024)<br>
-_stateless persons_: 2,720 (2022)<br>
+_refugees_: 53,859 (2024 est.)<br>
+_stateless persons_: 2,236 (2024 est.)<br>
 

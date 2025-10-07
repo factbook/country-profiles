@@ -82,7 +82,7 @@ approximately one third of the population resides along the desert coastal belt 
 earthquakes, tsunamis, flooding, landslides, mild volcanic activity <br><br><strong>volcanism:</strong> volcanic activity in the Andes Mountains; Ubinas (5,672 m) is the country's most active volcano; other historically active volcanoes include El Misti, Huaynaputina, Sabancaya, and Yucamane; see note 2 under "Geography - note"<br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> shares control of Lago Titicaca, world's highest navigable lake, with Bolivia; a remote slope of Nevado Mismi, a 5,316-m (17,441-ft) peak, is the ultimate source of the Amazon River</p> <p><strong>note 2:</strong> Peru is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire<br><br><strong>note 3:</strong> on 19 February 1600, Mount Huaynaputina in the southern Peruvian Andes erupted in the largest volcanic explosion in South America in historical times; intermittent eruptions lasted until 5 March 1600 and pumped an estimated 16 to 32 million metric tons of particulates into the atmosphere, reducing the amount of sunlight reaching the earth's surface and affecting weather worldwide; over the next two-and-a-half years, millions died around the globe in famines from bitterly cold winters, cool summers, and the loss of crops and animals</p><br>
+<strong>note 1:</strong> shares control of Lago Titicaca, world's highest navigable lake, with Bolivia; a remote slope of Nevado Mismi, a 5,316-m (17,441-ft) peak, is the ultimate source of the Amazon River <br><br><strong>note 2:</strong> Peru is one of the countries along the Ring of Fire, which is a belt bordering the Pacific Ocean that contains about 75% of the world's volcanoes and up to 90% of the world's earthquakes<br><br><strong>note 3:</strong> on 19 February 1600, Mount Huaynaputina in the southern Peruvian Andes erupted in the largest volcanic explosion in South America in historical times; intermittent eruptions lasted until 5 March 1600 and pumped an estimated 16 to 32 million metric tons of particulates into the atmosphere, reducing the amount of sunlight reaching the earth's surface and affecting weather worldwide; over the next two-and-a-half years, millions died around the globe in famines from bitterly cold winters, cool summers, and the loss of crops and animals<br>
 
 ## People and Society
 
@@ -103,7 +103,7 @@ Spanish (official) 82.9%, Quechua (official) 13.6%, Aymara (official) 1.6%, Asha
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 66.4%, Protestant 22.4% (Evangelical 19.6%, other Protestant 1.3%), other 1.9%, agnostic/atheist none 6.8%, unspecified 1.2% (2023 est.)<br>
+Catholic 76%, Evangelical Christian 15.7%, no religion 5.1%, other religions 3.2% (2023 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 25.8% (male 4,293,229/female 4,119,269)<br>
@@ -173,16 +173,13 @@ _female_: 72.7 years<br>
 **Gross reproduction rate**<br>
 1.05 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-77.4% (2020)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 97.2% of population<br>
-_improved: rural_: rural: 82.4% of population<br>
-_improved: total_: total: 94% of population<br>
-_unimproved: urban_: urban: 2.8% of population<br>
-_unimproved: rural_: rural: 17.6% of population<br>
-_unimproved: total_: total: 6% of population (2020 est.)<br>
+_improved: urban_: urban: 97.5% of population (2022 est.)<br>
+_improved: rural_: rural: 84.9% of population (2022 est.)<br>
+_improved: total_: total: 94.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 2.5% of population (2022 est.)<br>
+_unimproved: rural_: rural: 15.1% of population (2022 est.)<br>
+_unimproved: total_: total: 5.2% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6.2% of GDP (2021)<br>
@@ -195,12 +192,12 @@ _Health expenditure (as % of national budget)_: 16.7% of national budget (2022 e
 1.6 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 93.6% of population<br>
-_improved: rural_: rural: 65.3% of population<br>
-_improved: total_: total: 87.4% of population<br>
-_unimproved: urban_: urban: 6.4% of population<br>
-_unimproved: rural_: rural: 34.7% of population<br>
-_unimproved: total_: total: 12.6% of population (2020 est.)<br>
+_improved: urban_: urban: 94.1% of population (2022 est.)<br>
+_improved: rural_: rural: 65.9% of population (2022 est.)<br>
+_improved: total_: total: 88.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 5.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 34.1% of population (2022 est.)<br>
+_unimproved: total_: total: 11.9% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 19.7% (2016)<br>
@@ -265,23 +262,32 @@ _other_: 24.7% (2022 est.)<br>
 _urban population_: 78.9% of total population (2023)<br>
 _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 29.07 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 57.41 megatons (2016 est.)<br>
-_methane emissions_: 30.17 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 58.903 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2.177 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 34.863 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 21.863 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+31.7 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 233.6 kt (2022-2024 est.)<br>
+_agriculture_: 623.5 kt (2019-2021 est.)<br>
+_waste_: 317 kt (2019-2021 est.)<br>
+_other_: 51.9 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 8,356,711 tons (2014 est.)<br>
-_municipal solid waste recycled annually_: 334,268 tons (2012 est.)<br>
-_percent of municipal solid waste recycled_: 4% (2012 est.)<br>
+_municipal solid waste generated annually_: 8.357 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 9.2% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 2.24 billion cubic meters (2020 est.)<br>
-_industrial_: 3.51 billion cubic meters (2020 est.)<br>
-_agricultural_: 32.8 billion cubic meters (2020 est.)<br>
+_municipal_: 3.141 billion cubic meters (2022)<br>
+_industrial_: 1.666 billion cubic meters (2022)<br>
+_agricultural_: 21.112 billion cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-1.88 trillion cubic meters (2020 est.)<br>
+1.88 trillion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 1<br>
@@ -382,8 +388,8 @@ AIIB, APEC, BIS, CAN, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB
 **National holiday**<br>
 Independence Day, 28-29 July (1821)<br>
 
-**Flag description**<br>
-three equal vertical bands of red (hoist side), white, and red, with the coat of arms centered in the white band; the coat of arms has a shield with a vicuna (symbolizing fauna), a cinchona tree (the source of quinine, symbolizing flora), and a yellow cornucopia spilling out coins (symbolizing mineral wealth); red stands for blood shed for independence, and white for peace<br>
+**Flag**<br>
+<strong>description:</strong> three equal vertical bands of red (left side), white, and red, with the coat of arms centered on the white band; the coat of arms has a shield with a vicuna, a cinchona tree, and a yellow cornucopia spilling out coins<br><br><strong>meaning:</strong> the vicuna represents fauna, the cinchona tree is the source of quinine, and the cornucopia symbolizes mineral wealth; red stands for blood shed for independence, and white for peace<br>
 
 **National symbol(s)**<br>
 vicuna (a camelid related to the llama)<br>
@@ -394,7 +400,7 @@ red, white<br>
 **National anthem(s)**<br>
 _title_: "Himno Nacional del Peru" (National Anthem of Peru)<br>
 _lyrics/music_: Jose DE LA TORRE Ugarte/Jose Bernardo ALZEDO<br>
-_history_: adopted 1822; the song won a national anthem contest<br>
+_history_: adopted 1821<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 13 (9 cultural, 2 natural, 2 mixed)<br>
@@ -499,9 +505,9 @@ _highest 10%_: 30.6% (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $48.008 billion (2021 est.)<br>
-_expenditures_: $51.709 billion (2021 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $48.003 billion (2021 est.)<br>
+_expenditures_: $55.34 billion (2021 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 35.2% of GDP (2021 est.)<br>
@@ -601,12 +607,6 @@ _consumption_: 9.675 billion cubic meters (2023 est.)<br>
 _exports_: 4.883 billion cubic meters (2023 est.)<br>
 _proven reserves_: 300.159 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 58.903 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 2.177 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 34.863 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 21.863 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 30.923 million Btu/person (2023 est.)<br>
 
@@ -693,13 +693,13 @@ the Peruvian Armed Forces (FAP) are responsible for external defense in addition
 ## Space
 
 **Space agency/agencies**<br>
-National Aerospace Research and Development Commission (Comisi&oacute;n Nacional de Investigaci&oacute;n y Desarrollo Aeroespacia, CONIDA; established 1974); National Satellite Imagery Operations Center (Centro Nacional de Operaciones de Im&aacute;genes Satelitales, CONIS; established 2006) (2024)<br>
+National Aerospace Research and Development Commission (Comisi&oacute;n Nacional de Investigaci&oacute;n y Desarrollo Aeroespacia, CONIDA; established 1974) (2025)<br>
 
 **Space launch site(s)**<br>
-Punta Lobos Rocket Range (Chilca, Huancayo; used by foreign partners for scientific sounding rocket launches (1970s-1990s; the US used the site for scientific launches in 1975 and 1983) (2023)<br>
+in 2024, Peru and the US signed an agreement to construct a spaceport in the Talara Desert in the Piura region<br>
 
 **Space program overview**<br>
-has a small space program focused on acquiring satellites, applying space applications such as data satellite imagery, and building small rockets; has built a small science/technology satellite; operates satellites and processes satellite imagery data; builds and launches sounding rockets with goal of developing a satellite/space launch vehicle (SLV); researching, developing, and acquiring technologies for manufacturing satellites and satellite payloads with a focus on remote sensing (RS) capabilities; member of Latin American and Caribbean Space Agency (ALCE); cooperates with a variety of foreign space agencies and industries, including those of Brazil, China, the European Space Agency and individual member states (particularly France and Germany), India, Russia, South Korea, Thailand, and the US, as well as signatories of the Latin American and Caribbean Space Agency (ALCE) (2024)<br>
+has a small space program focused on acquiring satellites, applying space applications such as data satellite imagery, and building small rockets; has built a small science/technology satellite; operates satellites and processes satellite imagery data; builds and launches sounding rockets with goal of developing a satellite/space launch vehicle (SLV); researching, developing, and acquiring technologies for manufacturing satellites and satellite payloads with a focus on remote sensing (RS) capabilities; member of Latin American and Caribbean Space Agency (ALCE) since its formation in 2021; cooperates with a variety of foreign space agencies and industries, including those of Brazil, China, the European Space Agency and individual member states (particularly France and Germany), India, Russia, South Korea, Thailand, and the US, as well as other signatories of the ALCE (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -711,8 +711,9 @@ Shining Path (Sendero Luminoso); Tren de Aragua (TdA)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,542,004 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2023)<br>
-_IDPs_: 73,000 (civil war from 1980-2000; most IDPs are indigenous peasants in Andean and Amazonian regions; as of 2011, no new information on the situation of these IDPs) (2022)<br>
+_refugees_: 546,699 (2024 est.)<br>
+_IDPs_: 83,441 (2024 est.)<br>
+_stateless persons_: 32 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>

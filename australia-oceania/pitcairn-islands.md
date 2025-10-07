@@ -182,10 +182,10 @@ SPC, UPU<br>
 none (overseas territory of the UK)<br>
 
 **National holiday**<br>
-Birthday of King CHARLES III, second Saturday in June (1948); Discovery Day (Pitcairn Day), 2 July (1767)<br>
+Official birthday of King Charles III, usually celebrated the second Saturday in June (1948); Discovery Day (Pitcairn Day), 2 July (1767)<br>
 
-**Flag description**<br>
-blue with the UK flag in the upper hoist-side quadrant and the Pitcairn Islander coat of arms centered on the outer half of the flag; the green, yellow, and blue of the shield represents the island rising from the ocean; the green field features a yellow anchor with a Bible over it (both were found on the <em>HMS Bounty</em>); a Pitcairn Island wheelbarrow is on the crest, with a flowering twig of miro (a local plant)<br>
+**Flag**<br>
+<strong>description:</strong> blue with the UK flag in the upper-left quadrant and the Pitcairn Islander coat of arms centered on the right half of the flag; the green field features a yellow anchor with a Bible over it (both were on the <em>HMS Bounty</em>); a Pitcairn Island wheelbarrow is on the crest, with a flowering twig of miro (a local plant)<br><br><strong>meaning:</strong> the green, yellow, and blue of the shield represents the island rising from the ocean<br>
 
 **National anthem(s)**<br>
 _title_: "God Save the King"<br>
@@ -221,11 +221,11 @@ construction vehicles, refined petroleum, beef, computers, other foods (2023)<br
 
 **Exchange rates**<br>
 _Currency_: New Zealand dollars (NZD) per US dollar -<br>
+1.652 (2024 est.)<br>
 1.628 (2023 est.)<br>
 1.577 (2022 est.)<br>
 1.414 (2021 est.)<br>
 1.542 (2020 est.)<br>
-1.518 (2019 est.)<br>
 
 ## Communications
 

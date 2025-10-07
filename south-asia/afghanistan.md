@@ -170,17 +170,13 @@ _female_: 56.1 years<br>
 **Gross reproduction rate**<br>
 2.16 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-18.9% (2018)<br>
-<strong>note:</strong>  percent of women aged 12-49<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 68.3% of population<br>
-_improved: total_: total: 76.5% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 31.7% of population<br>
-_unimproved: total_: total: 23.5% of population (2020 est.)<br>
+_improved: urban_: urban: 99% of population (2022 est.)<br>
+_improved: rural_: rural: 76.1% of population (2022 est.)<br>
+_improved: total_: total: 82.2% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 23.9% of population (2022 est.)<br>
+_unimproved: total_: total: 17.8% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 21.8% of GDP (2021)<br>
@@ -193,12 +189,12 @@ _Health expenditure (as % of national budget)_: 1.1% of national budget (2022 es
 0.4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 88.2% of population<br>
-_improved: rural_: rural: 52% of population<br>
-_improved: total_: total: 61.4% of population<br>
-_unimproved: urban_: urban: 11.8% of population<br>
-_unimproved: rural_: rural: 48% of population<br>
-_unimproved: total_: total: 38.6% of population (2020 est.)<br>
+_improved: urban_: urban: 93% of population (2022 est.)<br>
+_improved: rural_: rural: 58.9% of population (2022 est.)<br>
+_improved: total_: total: 68% of population (2022 est.)<br>
+_unimproved: urban_: urban: 7% of population (2022 est.)<br>
+_unimproved: rural_: rural: 41.1% of population (2022 est.)<br>
+_unimproved: total_: total: 32% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 5.5% (2016)<br>
@@ -264,21 +260,25 @@ _other_: 39.4% (2022 est.)<br>
 _urban population_: 26.9% of total population (2023)<br>
 _rate of urbanization_: 3.34% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 62.49 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 8.67 megatons (2016 est.)<br>
-_methane emissions_: 90.98 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 7.757 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 930,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 6.827 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+84 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 5,628,525 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 5.629 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 11.1% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 200 million cubic meters (2020 est.)<br>
-_industrial_: 170 million cubic meters (2020 est.)<br>
-_agricultural_: 20 billion cubic meters (2020 est.)<br>
+_municipal_: 203.4 million cubic meters (2022 est.)<br>
+_industrial_: 169.5 million cubic meters (2022 est.)<br>
+_agricultural_: 20 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-65.33 billion cubic meters (2020 est.)<br>
+65.33 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -354,9 +354,9 @@ Afghanistan is a member of the following organizations but Taliban representativ
 **National holiday**<br>
 previous: Independence Day, 19 August (1919); under the Taliban Government, 15 August (2022) is declared a national holiday, marking the anniversary of the victory of the Afghan jihad<br><br><br>
 
-**Flag description**<br>
-three equal vertical bands of black (hoist side), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other bands; the center of the emblem features a mosque with pulpit and flags on either side; below the mosque are Eastern Arabic numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); this central image is circled by a border consisting of sheaves of wheat on the left and right; in the upper-center is an Arabic inscription of the Shahada (Muslim creed), below which are rays of the rising sun over the Takbir (Arabic expression meaning "God is great"), and at bottom center is a scroll bearing the name Afghanistan; black signifies the past, red is for the blood shed for independence, and green can represent either hope for the future, agricultural prosperity, or Islam<br>
-<strong>note 1: </strong>the United States has not recognized the Taliban or any other entity as the government of Afghanistan and, accordingly, continues to display the flag of Afghanistan as set forth in the country's constitution of 2004<strong><br><br>note 2:</strong> Afghanistan had more changes to its national flag in the 20th century -- 19 by one count -- than any other country; the colors black, red, and green appeared on most of them<br>
+**Flag**<br>
+<strong>description: </strong>three equal vertical bands of black (left), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other bands; the emblem shows a mosque with a pulpit and flags on either side; below the mosque are Eastern Arabic numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); a border of wheat sheaves circles the mosque; above the mosque is an Arabic inscription of the Shahada (Muslim creed), with rays of the rising sun over the Takbir (Arabic expression meaning "God is great"); under the mosque is a scroll with the name Afghanistan<br><br><strong>meaning:</strong> black stands for the past, and red for the blood shed for independence; green can represent hope for the future, agricultural prosperity, or Islam<br><br><strong>history:</strong> Afghanistan had more changes to its national flag in the 20th century -- 19 by one count -- than any other country; the colors black, red, and green appeared on most of them<br>
+<strong>note: </strong>the United States has not recognized the Taliban or any other entity as the government of Afghanistan and, accordingly, continues to display the flag of Afghanistan as set forth in the country's constitution of 2004<br>
 
 **National symbol(s)**<br>
 lion<br>
@@ -464,6 +464,9 @@ _revenues_: $9.093 billion (2017 est.)<br>
 _expenditures_: $7.411 billion (2017 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
+**Public debt**<br>
+7.8% of GDP (2016 est.)<br>
+
 **Taxes and other revenues**<br>
 9.9% (of GDP) (2017 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
@@ -553,11 +556,6 @@ _production_: 80.2 million cubic meters (2020 est.)<br>
 _consumption_: 80.2 million cubic meters (2020 est.)<br>
 _proven reserves_: 49.554 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 7.757 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 930,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 6.827 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 3.38 million Btu/person (2023 est.)<br>
 
@@ -629,11 +627,11 @@ Haqqani Network; Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Islamic Jihad 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 59,486 (Pakistan) (mid-year 2022)<br>
-_IDPs_: 4.394 million (mostly Pashtuns and Kuchis displaced in the south and west due to natural disasters and political instability) (2022)<br>
+_refugees_: 21,236 (2024 est.)<br>
+_IDPs_: 5,457,183 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 — Afghanistan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Afghanistan remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/afghanistan/<br>
+_tier rating_: Tier 3 — Afghanistan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Afghanistan remained on Tier 3; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/afghanistan/<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>

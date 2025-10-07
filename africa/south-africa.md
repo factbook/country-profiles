@@ -171,16 +171,13 @@ _female_: 73.5 years<br>
 **Gross reproduction rate**<br>
 1.12 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-54.6% (2016)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.7% of population<br>
-_improved: rural_: rural: 90.3% of population<br>
-_improved: total_: total: 96.7% of population<br>
-_unimproved: urban_: urban: 0.3% of population<br>
-_unimproved: rural_: rural: 9.7% of population<br>
-_unimproved: total_: total: 3.3% of population (2020 est.)<br>
+_improved: urban_: urban: 99.1% of population (2022 est.)<br>
+_improved: rural_: rural: 84.5% of population (2022 est.)<br>
+_improved: total_: total: 94.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 15.5% of population (2022 est.)<br>
+_unimproved: total_: total: 5.5% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 8.3% of GDP (2021)<br>
@@ -190,12 +187,12 @@ _Health expenditure (as % of national budget)_: 16.9% of national budget (2022 e
 0.79 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 96.6% of population<br>
-_improved: rural_: rural: 86.4% of population<br>
-_improved: total_: total: 93.2% of population<br>
-_unimproved: urban_: urban: 3.4% of population<br>
-_unimproved: rural_: rural: 13.6% of population<br>
-_unimproved: total_: total: 6.8% of population (2020 est.)<br>
+_improved: urban_: urban: 95.9% of population (2022 est.)<br>
+_improved: rural_: rural: 81.7% of population (2022 est.)<br>
+_improved: total_: total: 91.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 4.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 18.3% of population (2022 est.)<br>
+_unimproved: total_: total: 8.6% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 28.3% (2016)<br>
@@ -261,23 +258,32 @@ _other_: 6.6% (2022 est.)<br>
 _urban population_: 68.8% of total population (2023)<br>
 _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 19.75 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 476.64 megatons (2016 est.)<br>
-_methane emissions_: 55.89 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 446.704 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 365.269 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 73.913 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 7.522 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+17 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 1,489.2 kt (2022-2024 est.)<br>
+_agriculture_: 754.2 kt (2019-2021 est.)<br>
+_waste_: 770.2 kt (2019-2021 est.)<br>
+_other_: 32.1 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 18,457,232 tons (2011 est.)<br>
-_municipal solid waste recycled annually_: 5,168,025 tons (2011 est.)<br>
-_percent of municipal solid waste recycled_: 28% (2011 est.)<br>
+_municipal solid waste generated annually_: 18.457 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 28.2% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 3.11 billion cubic meters (2020 est.)<br>
-_industrial_: 4.09 billion cubic meters (2020 est.)<br>
-_agricultural_: 11.99 billion cubic meters (2020 est.)<br>
+_municipal_: 3.476 billion cubic meters (2022)<br>
+_industrial_: 4.616 billion cubic meters (2022)<br>
+_agricultural_: 11.839 billion cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-51.35 billion cubic meters (2020 est.)<br>
+51.35 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -340,7 +346,7 @@ _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 5/29/2024<br>
-_percentage of women in chamber_: 44.9%<br>
+_percentage of women in chamber_: 45%<br>
 _expected date of next election_: May 2029<br>
 
 **Legislative branch - upper chamber**<br>
@@ -387,8 +393,8 @@ ACP, AfDB, AIIB, AU, BIS, BRICS, C, CD, FAO, FATF, G-20, G-24, G-5, G-77, IAEA, 
 **National holiday**<br>
 Freedom Day, 27 April (1994)<br>
 
-**Flag description**<br>
-two equal-width horizontal bands of red (top) and blue separated by a central green band that splits into a horizontal Y; a black isosceles triangle is in the Y, with narrow yellow bands around it; the red and blue bands are bordered by narrow white stripes; the colors have no official meaning, but the Y stands for "the convergence of diverse elements within South African society, taking the road ahead in unity"<br>
+**Flag**<br>
+<strong>description:</strong> two equal-width horizontal bands of red (top) and blue separated by a central green band that splits into a horizontal Y; a black isosceles triangle is in the Y, with narrow yellow bands around it; the red and blue bands are bordered by narrow white stripes<br><br><strong>meaning:</strong> the colors have no official meaning, but the Y stands for "the convergence of diverse elements within South African society, taking the road ahead in unity"<br>
 <strong>note:</strong> South Africa has one of two national flags that display six colors as part of the primary design -- the other is South Sudan's<br>
 
 **National symbol(s)**<br>
@@ -400,7 +406,7 @@ red, green, blue, yellow, black, white<br>
 **National anthem(s)**<br>
 _title_: "National Anthem of South Africa"<br>
 _lyrics/music_: Enoch SONTONGA and Cornelius Jacob LANGENHOVEN/Enoch SONTONGA and Marthinus LOURENS de Villiers<br>
-_history_: adopted 1994; a combination of "N'kosi Sikelel' iAfrica" (God Bless Africa) and "Die Stem van Suid Afrika" (The Call of South Africa), which were respectively the anthems of the non-white and white communities under apartheid; official lyrics contain a mixture of Xhosa, Zulu, Sesotho, Afrikaans, and English (the five most widely spoken of South Africa's 11 official languages); music incorporates the melody used in the Tanzanian and Zambian anthems<br>
+_history_: adopted 1997; a combination of "N'kosi Sikelel' iAfrica" (God Bless Africa) and "Die Stem van Suid Afrika" (The Call of South Africa), which were respectively the anthems of the non-white and white communities under apartheid; official lyrics contain a mixture of Xhosa, Zulu, Sesotho, Afrikaans, and English (the five most widely spoken of South Africa's 11 official languages)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 12 (7 cultural, 4 natural, 1 mixed)<br>
@@ -492,9 +498,9 @@ _on alcohol and tobacco_: 4.1% of household expenditures (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $123.264 billion (2022 est.)<br>
-_expenditures_: $136.236 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $123.263 billion (2022 est.)<br>
+_expenditures_: $137.593 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 76.2% of GDP (2022 est.)<br>
@@ -600,12 +606,6 @@ _production_: 66.094 million cubic meters (2023 est.)<br>
 _consumption_: 3.834 billion cubic meters (2023 est.)<br>
 _imports_: 3.768 billion cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 446.704 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 365.269 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 73.913 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 7.522 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 86.197 million Btu/person (2023 est.)<br>
 
@@ -692,13 +692,13 @@ the South African National Defense Force's (SANDF) primary responsibilities incl
 ## Space
 
 **Space agency/agencies**<br>
-South African National Space Agency (SANSA; established 2010); South Africa Council for Space Affairs (SACSA; statutory body established 1995); South African Radio Telescope Observatory (SARAO) (2024)<br>
+South African National Space Agency (SANSA; established 2010) (2025)<br>
 
 **Space launch site(s)**<br>
 Arniston launch facility (Western Cape) used to support space launch vehicle and ballistic missile program (1980s-1990s); it is now a weapons testing facility called the Denel Overberg Test Range (2024)<br>
 
 **Space program overview**<br>
-the largest producer of satellites (particularly nanosatellites) in Africa; areas of focus for development include remote sensing (RS) capabilities, such as optical instruments and synthetic aperture radar systems, space engineering, ground support to space operations (tracking, telemetry, etc.), and space science, particularly astronomy; SANSA is responsible for aggregating RS data for southern African countries; has a sounding rocket program for carrying experimental payloads for research purposes; cooperates with foreign space agencies and industries, including those of China, France, India, Russia, and the US; participates in international programs such as the Square Kilometer Array (SKA) Project, an international effort to build the world’s largest radio telescope by 2030; has a substantial number of state- and privately-owned aerospace companies, as well as academic and research institutions involved in space-related activities (2024)<br>
+space program is one of the most advanced in Africa; key areas of emphasis include Earth observation/remote sensing (RS), space weather monitoring, space scientific research, space engineering, and space operations (tracking, telemetry, etc); produces and operates satellites; has a sounding rocket program for carrying experimental payloads for research purposes; cooperates with a variety of foreign space agencies and industries, including those of China, France, India, Russia, and the US; member of the African Space Agency; participates in international programs such as the Square Kilometer Array (SKA) Project, an effort to build the world’s largest radio telescope by 2030; has a substantial number of state- and privately-owned aerospace companies, as well as academic and research institutions involved in space-related activities (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -710,8 +710,11 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,388 (Somalia), 15,240 (Ethiopia) (mid-year 2022); 42,132 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
-_IDPs_: 5,000 (2020)<br>
+_refugees_: 171,484 (2024 est.)<br>
+_IDPs_: 7,385 (2024 est.)<br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore South Africa was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/south-africa/<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major precursor-chemical producer (2025)<br>

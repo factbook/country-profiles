@@ -168,16 +168,13 @@ _female_: 77.1 years<br>
 **Gross reproduction rate**<br>
 0.93 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.8% of population<br>
-_improved: rural_: rural: 98.1% of population<br>
-_improved: total_: total: 99.4% of population<br>
-_unimproved: urban_: urban: 0.2% of population<br>
-_unimproved: rural_: rural: 1.9% of population<br>
-_unimproved: total_: total: 0.6% of population (2020 est.)<br>
+_improved: urban_: urban: 98.7% of population (2022 est.)<br>
+_improved: rural_: rural: 94.4% of population (2022 est.)<br>
+_improved: total_: total: 97.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 5.6% of population (2022 est.)<br>
+_unimproved: total_: total: 2.3% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.8% of GDP (2021)<br>
@@ -190,12 +187,12 @@ _Health expenditure (as % of national budget)_: 19% of national budget (2022 est
 1.9 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population (2015 est.)<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 25.8% (2016)<br>
@@ -256,23 +253,32 @@ _other_: 64.4% (2022 est.)<br>
 _urban population_: 77.3% of total population (2023)<br>
 _rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 31.62 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 661.71 megatons (2016 est.)<br>
-_methane emissions_: 158.71 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 823.364 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 7.136 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 316.922 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 499.306 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+36.4 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 6,208.1 kt (2022-2024 est.)<br>
+_agriculture_: 819.7 kt (2019-2021 est.)<br>
+_waste_: 832.7 kt (2019-2021 est.)<br>
+_other_: 37.6 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 17.885 million tons (2017 est.)<br>
-_municipal solid waste recycled annually_: 894,250 tons (2017 est.)<br>
-_percent of municipal solid waste recycled_: 5% (2017 est.)<br>
+_municipal solid waste generated annually_: 17.885 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 16.8% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 6.2 billion cubic meters (2020 est.)<br>
-_industrial_: 1.1 billion cubic meters (2020 est.)<br>
-_agricultural_: 86 billion cubic meters (2020 est.)<br>
+_municipal_: 6.2 billion cubic meters (2022 est.)<br>
+_industrial_: 1.1 billion cubic meters (2022 est.)<br>
+_agricultural_: 86 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-137.05 billion cubic meters (2020 est.)<br>
+137 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 3<br>
@@ -364,8 +370,8 @@ BRICS, CICA, CP, D-8, ECO, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (nationa
 **National holiday**<br>
 Republic Day, 1 April (1979)<br>
 
-**Flag description**<br>
-three equal horizontal bands of green (top), white, and red; centered in the white band is the red national emblem, a stylization of the word <em>Allah </em>in the shape of a tulip, a symbol of martyrdom; ALLAH AKBAR (God is Great) in white Arabic script is repeated 11 times along the bottom edge of the green band and 11 times along the top edge of the red band; green is the color of Islam and also represents growth, white stands for honesty and peace, and red for bravery and martyrdom<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of green (top), white, and red; centered in the white band is the red national emblem, a stylization of the word <em>Allah </em>in the shape of a tulip (a symbol of martyrdom); ALLAH AKBAR (God is Great) in white Arabic script is repeated 11 times along the bottom edge of the green band and 11 times along the top edge of the red band<br><br><strong>meaning: </strong>green is the color of Islam and also represents growth, white stands for honesty and peace, and red for bravery and martyrdom<br>
 
 **National symbol(s)**<br>
 lion<br>
@@ -376,7 +382,7 @@ green, white, red<br>
 **National anthem(s)**<br>
 _title_: "Soroud-e Melli-ye Jomhouri-ye Eslami-ye Iran" (National Anthem of the Islamic Republic of Iran)<br>
 _lyrics/music_: multiple authors/Hassan RIAHI<br>
-_history_: adopted 1990; Iran has had six national anthems; the first, "Salam-e Shah" (Royal Salute), was in use from 1873 to 1909; "Salamati-ye Dowlat-e Elliye-ye Iran" (Salute of the Sublime State of Persia) from 1909 to 1933; "Sorud-e melli" (The Imperial Anthem of Iran) from 1933 to 1979; "Ey Iran" (Oh Iran) functioned unofficially as the national anthem for a brief period between the ouster of the Shah in 1979 and the early days of the Islamic Republic in 1980; "Payandeh Bada Iran" (Long Live Iran) was used between 1980 and 1990 under Ayatollah KHOMEINI<br>
+_history_: adopted 1990&nbsp;<br>
 <strong>note:</strong> a recording of the current Iranian national anthem is unavailable because the US Navy Band does not record anthems for countries from which the US does not anticipate official visits; the US does not have diplomatic relations with Iran<br>
 
 **National heritage**<br>
@@ -569,12 +575,6 @@ _exports_: 14.698 billion cubic meters (2023 est.)<br>
 _imports_: 2.274 billion cubic meters (2023 est.)<br>
 _proven reserves_: 33.987 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 823.364 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 7.136 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 316.922 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 499.306 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 160.779 million Btu/person (2023 est.)<br>
 
@@ -662,13 +662,14 @@ the Islamic Revolutionary Guard Corps (IRGC) was formed in May 1979 in the immed
 ## Space
 
 **Space agency/agencies**<br>
-Iranian Space Agency (ISA; created in 2003 from merging the activities of the Iranian Remote Sensing Center and some of the activities of the Telecommunications Company of Iran); Iran Space Research Center (established, 2000); Ministry of Defense and Armed Forces Logistics; Aerospace Industries Organization (AIO; under the Ministry of Defense); Islamic Revolutionary Guard Corps (IRGC) Space Command (formed in 2020) (2024)<br>
+Iranian Space Agency (ISA; created in 2003); Iran Space Research Center (ISRC; established, 2000); Ministry of Defense and Armed Forces Logistics (MODAFL); Islamic Revolutionary Guard Corps - Aerospace Force (IRGC-ARF) (2024)<br>
+<strong>note 1:</strong> ISA and ISRC are subordinate to the Ministry of Information and Communications Technology; along with the MODAFL, they oversee part of Iran's satellite development programs; they also work with Iranian universities, private industry, and foreign partners to develop satellites<br><br><strong>note 2:</strong> MODAFL and the IRGC-ARF oversee Iran's satellite/space launch vehicle development program<br>
 
 **Space launch site(s)**<br>
-Imam Khomeini Space Center (aka Semnan Space Center; Semnan province); Shahroud Space Center (IGRC military base; Semnan Province); Qom Space Center (Qom Province); inaugurated its first space monitoring center located near Delijan (Markazi Province) in 2013 (2024)<br>
+Imam Khomeini Space Center (aka Semnan Space Center; Semnan province); Shahroud Space Center (Semnan Province; IRGC-operated); Chabahar Space Center (Sistan and Baluchistan Province; under development) (2025)<br>
 
 **Space program overview**<br>
-has an ambitious civil and military space program focused on acquiring and operating satellites and developing indigenous satellite/space launch vehicles (SLV); designs, builds, and operates satellites, including communications, remote sensing (RS), and scientific; manufactures and operates SLVs; researching and developing other space-related capabilities and technologies in such areas as telecommunications, RS, navigation, and space situational awareness; UN Security Council and other international sanctions against Iran’s weapons of mass destruction program have severely limited Iran’s cooperation with foreign space agencies and commercial space industries; in recent years, however, it has cooperated with North Korea and Russia on space issues; Iran has also had relations with regional and international space organizations, such as the Asia-Pacific Space Cooperation Organization and the International Telecommunications Satellite Organization; it was a founding member of the UN Committee on the Peaceful Uses of Outer Space (COPUOS) established in 1958 (2024)<br>
+has an ambitious civil and military space program focused on acquiring and operating satellites and developing indigenous satellite/space launch vehicles (SLV); designs, builds, and operates satellites, including communications, remote sensing (RS), and scientific; manufactures and operates SLVs; researching and developing other space-related capabilities and technologies in such areas as telecommunications, RS, navigation, and space situational awareness; UN Security Council and other international sanctions against Iran’s weapons of mass destruction program have severely limited Iran’s cooperation with foreign space agencies and commercial space industries; in recent years, however, it has cooperated with North Korea and Russia on space issues; Iran has also had relations with regional and international space organizations, such as the Asia-Pacific Space Cooperation Organization and the International Telecommunications Satellite Organization; it was a founding member of the UN Committee on the Peaceful Uses of Outer Space (COPUOS) established in 1958; has a private space industry involved in the development and production of satellites, satellite payloads, and other space technologies (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -680,9 +681,9 @@ Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and a
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 500,000 undocumented Afghans, 750,000 Afghan refugee card holders, 12,000 Iraqi refugee card holders (2022)<br>
-_stateless persons_: 34 (mid-year 2021)<br>
+_refugees_: 3,489,257 (2024 est.)<br>
+_IDPs_: 421 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 — Iran does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Iran remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/iran/<br>
+_tier rating_: Tier 3 — Iran does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Iran remained on Tier 3; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/iran/<br>
 

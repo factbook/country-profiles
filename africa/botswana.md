@@ -165,16 +165,13 @@ _female_: 68.6 years<br>
 **Gross reproduction rate**<br>
 1.15 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-67.4% (2017)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 98.1% of population<br>
-_improved: rural_: rural: 96.9% of population<br>
-_improved: total_: total: 99.4% of population<br>
-_unimproved: urban_: urban: 0.2% of population<br>
-_unimproved: rural_: rural: 3.1% of population<br>
-_unimproved: total_: total: 0.6% of population (2020 est.)<br>
+_improved: urban_: urban: 97.5% of population (2022 est.)<br>
+_improved: rural_: rural: 79.6% of population (2022 est.)<br>
+_improved: total_: total: 92.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 2.5% of population (2022 est.)<br>
+_unimproved: rural_: rural: 20.4% of population (2022 est.)<br>
+_unimproved: total_: total: 7.4% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6.3% of GDP (2021)<br>
@@ -187,12 +184,12 @@ _Health expenditure (as % of national budget)_: 14.6% of national budget (2022 e
 2.2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 94.9% of population<br>
-_improved: rural_: rural: 63% of population<br>
-_improved: total_: total: 85.6% of population<br>
-_unimproved: urban_: urban: 5.1% of population<br>
-_unimproved: rural_: rural: 37% of population<br>
-_unimproved: total_: total: 14.4% of population (2020 est.)<br>
+_improved: urban_: urban: 94.9% of population (2022 est.)<br>
+_improved: rural_: rural: 63% of population (2022 est.)<br>
+_improved: total_: total: 86% of population (2022 est.)<br>
+_unimproved: urban_: urban: 5.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 37% of population (2022 est.)<br>
+_unimproved: total_: total: 14% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 18.9% (2016)<br>
@@ -248,23 +245,31 @@ _other_: 27.9% (2022 est.)<br>
 _urban population_: 72.9% of total population (2023)<br>
 _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 12.82 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 6.34 megatons (2016 est.)<br>
-_methane emissions_: 5.73 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 5.897 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2.818 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 3.079 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+12.5 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 26 kt (2022-2024 est.)<br>
+_agriculture_: 144 kt (2019-2021 est.)<br>
+_waste_: 841.4 kt (2019-2021 est.)<br>
+_other_: 1.7 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 210,854 tons (2010 est.)<br>
-_municipal solid waste recycled annually_: 2,109 tons (2005 est.)<br>
-_percent of municipal solid waste recycled_: 1% (2005 est.)<br>
+_municipal solid waste generated annually_: 210,900 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 21% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 110 million cubic meters (2020 est.)<br>
-_industrial_: 30 million cubic meters (2020 est.)<br>
-_agricultural_: 80 million cubic meters (2020 est.)<br>
+_municipal_: 129.327 million cubic meters (2022)<br>
+_industrial_: 24.295 million cubic meters (2022)<br>
+_agricultural_: 59.661 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-12.24 billion cubic meters (2020 est.)<br>
+12.24 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -326,7 +331,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 10/30/2024<br>
 _parties elected and seats per party_: Umbrella for Democratic Change (UDC) (36); Botswana Congress Party (BCP) (15); Botswana Patriotic Front (BPF) (5); Botswana Democratic Party (BDP) (4); Other (1)<br>
-_percentage of women in chamber_: 8.7%<br>
+_percentage of women in chamber_: 9%<br>
 _expected date of next election_: October 2029<br>
 <strong>note:</strong> the House of Chiefs (Ntlo ya Dikgosi), an advisory body to the National Assembly, consists of 35 members -- 8 hereditary chiefs from Botswana's principal tribes, 22 indirectly elected by the chiefs, and 5 appointed by the president; the House of Chiefs consults on issues including powers of chiefs, customary courts, customary law, tribal property, and constitutional amendments<br>
 
@@ -362,8 +367,8 @@ ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, I
 **National holiday**<br>
 Independence Day (Botswana Day), 30 September (1966)<br>
 
-**Flag description**<br>
-light blue with a horizontal white-edged black stripe in the center; the blue symbolizes water in the form of rain, and the black and white bands represent racial harmony<br>
+**Flag**<br>
+<strong>description:</strong> light blue with a horizontal white-edged black stripe across the middle<br><br><strong>meaning:</strong> the blue symbolizes rainwater, and the black and white bands represent racial harmony<br>
 
 **National symbol(s)**<br>
 zebra<br>
@@ -478,8 +483,8 @@ _highest 10%_: 42.9% (2015 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $5.989 billion (2022 est.)<br>
-_expenditures_: $5.099 billion (2022 est.)<br>
+_revenues_: $5.474 billion (2024 est.)<br>
+_expenditures_: $6.296 billion (2024 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
@@ -570,11 +575,6 @@ _proven reserves_: 1.66 billion metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 22,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 5.897 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 2.818 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 3.079 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 32.443 million Btu/person (2023 est.)<br>
 
@@ -639,4 +639,8 @@ the BDF has a mix of mostly older weapons and equipment, largely of Western/Euro
 the key responsibilities of the Botswana Defense Force (BDF) are defending the country's sovereignty and territorial integrity on land and in the air, ensuring national security and stability, and aiding civil authorities in support of domestic missions such as disaster relief and anti-poaching; the BDF also participates in regional and international security operations<br><br>Bechuanaland/Botswana did not have a permanent military during colonial times, with the British colonial administrators relying instead on small, lightly armed constabularies such as the Bechuanaland Mounted Police, the Bechuanaland Border Police, and by the early 1960s, the Police Mobile Unit (PMU); after independence in 1966, Botswana militarized the PMU and gave it responsibility for the country’s defense rather than create a conventional military force; however, turmoil in neighboring countries and numerous cross-border incursions by Rhodesian and South African security forces in the 1960s and 1970s demonstrated that the PMU was inadequate for defending the country and led to the establishment of the BDF in 1977 (2025)<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 823 (2024 est.)<br>
+_IDPs_: 99 (2023 est.)<br>
 

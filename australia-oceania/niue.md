@@ -114,16 +114,16 @@ _male_: 71.8 years (2016)<br>
 _female_: 75.7 years (2016 est.)<br>
 
 **Drinking water source**<br>
-_improved: total_: total: 97% of population<br>
-_unimproved: total_: total: 3% of population (2020 est.)<br>
+_improved: total_: total: 97% of population (2022 est.)<br>
+_unimproved: total_: total: 3% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 7.8% of GDP (2020)<br>
 _Health expenditure (as % of national budget)_: 6.9% of national budget (2022 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: total_: total: 95.5% of population<br>
-_unimproved: total_: total: 4.5% of population (2020 est.)<br>
+_improved: total_: total: 97.4% of population (2022 est.)<br>
+_unimproved: total_: total: 2.6% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 50% (2016)<br>
@@ -162,11 +162,12 @@ _other_: 8.9% (2022 est.)<br>
 _urban population_: 48.2% of total population (2023)<br>
 _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 6.74 micrograms per cubic meter (2019 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 9,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 9,000 metric tonnes of CO2 (2023 est.)<br>
 
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
+**Particulate matter emissions**<br>
+6.7 micrograms per cubic meter (2019 est.)<br>
 
 ## Government
 
@@ -190,7 +191,7 @@ _time difference_: UTC-11 (6 hours behind Washington, DC, during Standard Time)<
 _etymology_: a traditional name for an area of the island; became the name for the newly declared capital in the 20th century<br>
 
 **Administrative divisions**<br>
-none; there are no first-order administrative divisions as defined by the US government, but 14 villages are considered second-order<br>
+none; no first-order administrative divisions as defined by the US government, but 14 villages are considered second-order<br>
 
 **Legal system**<br>
 English common law<br>
@@ -248,8 +249,8 @@ ACP, AOSIS, FAO, IFAD, OPCW, PIF, Sparteca, SPC, UNESCO, UPU, WHO, WIPO, WMO<br>
 **National holiday**<br>
 Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealand), 6 February (1840)<br>
 
-**Flag description**<br>
-yellow with the UK flag in the upper hoist-side quadrant; the UK flag has five yellow five-pointed stars, with a large star (representing Niue) on a blue disk in the center and smaller stars on each arm of the red cross that symbolize links with New Zealand; yellow stands for sunshine and the warmth and friendship between Niue and New Zealand<br>
+**Flag**<br>
+<strong>description:</strong> yellow with the UK flag in the upper-left quadrant; the UK flag has five yellow five-pointed stars, with a large star on a blue disk in the center and smaller stars on each arm of the red cross <br><br><strong>meaning:</strong> the large star represents Niue, and the smaller stars symbolize links with New Zealand; yellow stands for sunshine, as well as the warmth and friendship between Niue and New Zealand<br>
 
 **National symbol(s)**<br>
 yellow five-pointed star<br>
@@ -258,9 +259,9 @@ yellow five-pointed star<br>
 yellow<br>
 
 **National anthem(s)**<br>
-_title_: "Ko e Iki he Lagi" (The Lord in Heaven)<br>
-_lyrics/music_: unknown/unknown, prepared by Sioeli FUSIKATA<br>
-_history_: adopted 1974<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: in use since 1745<br>
 
 ## Economy
 
@@ -321,10 +322,6 @@ _fossil fuels_: 100% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 61 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 9,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 9,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

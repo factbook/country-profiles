@@ -155,16 +155,13 @@ _female_: 76.7 years<br>
 **Gross reproduction rate**<br>
 1.03 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-55.8% (2018)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 90% of population<br>
-_improved: total_: total: 96.7% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 10% of population<br>
-_unimproved: total_: total: 3.3% of population (2020 est.)<br>
+_improved: urban_: urban: 93.2% of population (2022 est.)<br>
+_improved: rural_: rural: 82.9% of population (2022 est.)<br>
+_improved: total_: total: 89.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 6.8% of population (2022 est.)<br>
+_unimproved: rural_: rural: 17.1% of population (2022 est.)<br>
+_unimproved: total_: total: 10.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6.9% of GDP (2021)<br>
@@ -177,12 +174,12 @@ _Health expenditure (as % of national budget)_: 16.1% of national budget (2022 e
 2 beds/1,000 population (2018 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 91.7% of population<br>
-_improved: rural_: rural: 73.3% of population<br>
-_improved: total_: total: 85.6% of population<br>
-_unimproved: urban_: urban: 8.3% of population<br>
-_unimproved: rural_: rural: 26.7% of population<br>
-_unimproved: total_: total: 14.4% of population (2020 est.)<br>
+_improved: urban_: urban: 95.6% of population (2022 est.)<br>
+_improved: rural_: rural: 77.8% of population (2022 est.)<br>
+_improved: total_: total: 89.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 4.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 22.2% of population (2022 est.)<br>
+_unimproved: total_: total: 10.2% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 11.8% (2016)<br>
@@ -245,21 +242,24 @@ _other_: 68.9% (2022 est.)<br>
 _urban population_: 68% of total population (2023)<br>
 _rate of urbanization_: 1.83% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 31.08 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.54 megatons (2016 est.)<br>
-_methane emissions_: 0.13 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 714,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 714,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+27.4 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 132,555 tons (2012 est.)<br>
+_municipal solid waste generated annually_: 132,600 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 17.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.6 million cubic meters (2017 est.)<br>
-_industrial_: 400,000 cubic meters (2017 est.)<br>
-_agricultural_: 30 million cubic meters (2020 est.)<br>
+_municipal_: 155.895 million cubic meters (2022)<br>
+_industrial_: 5.614 million cubic meters (2022)<br>
+_agricultural_: 103.217 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-300 million cubic meters (2020 est.)<br>
+300 million cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -355,8 +355,8 @@ ACP, AfDB, AOSIS, AU, CD, CPLP, ECOWAS, FAO, G-77, IAEA, IBRD, ICAO, ICCt (signa
 **National holiday**<br>
 Independence Day, 5 July (1975)<br>
 
-**Flag description**<br>
-five unequal horizontal bands; the top-most band of blue -- equal to half the width of the flag -- is followed by three narrow bands of white, red, and white, and a bottom&nbsp; stripe of blue; a circle of 10 yellow five-pointed stars is centered on the red stripe and sits toward the left side of the flag; blue stands for the sea and sky; the stripes symbolize the country's formation through peace (white) and effort (red); the circle of stars represents the 10 major islands<br>
+**Flag**<br>
+<strong>description:</strong> five unequal horizontal bands; the top band of blue is half the height of the flag; under it are three narrow bands of white, red, and white, and a bottom stripe of blue; a circle of 10 five-pointed yellow stars is centered on the red stripe and sits toward the left side of the flag<br><br><strong>meaning:</strong> blue stands for the sea and sky; the stripes symbolize the country's formation through peace (white) and effort (red); the stars represent the 10 major islands<br>
 
 **National symbol(s)**<br>
 ten five-pointed yellow stars<br>
@@ -468,9 +468,12 @@ _highest 10%_: 32.3% (2015 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $574.917 million (2017 est.)<br>
-_expenditures_: $503.059 million (2017 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $453.182 million (2020 est.)<br>
+_expenditures_: $623.816 million (2020 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+127.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 18.4% (of GDP) (2020 est.)<br>
@@ -548,10 +551,6 @@ _wind_: 14.6% of total installed capacity (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 5,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 714,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 714,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 19.999 million Btu/person (2023 est.)<br>
 
@@ -627,5 +626,8 @@ the FACV is responsible for external defense; it also has an internal security r
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 115 (2022)<br>
+_stateless persons_: 115 (2024 est.)<br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List — Cabo Verde did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/cabo-verde/<br>
 

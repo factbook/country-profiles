@@ -151,24 +151,13 @@ _female_: 79.5 years<br>
 **Gross reproduction rate**<br>
 1.18 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 97.9% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 2.1% of population (2020 est.)<br>
+_improved: total_: total: 99.4% of population (2022 est.)<br>
+_unimproved: total_: total: 0.6% of population (2022 est.)<br>
 
 ## Environment
 
@@ -191,8 +180,7 @@ _urban population_: 92.1% of total population (2023)<br>
 _rate of urbanization_: 0.36% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 32,761 tons (2013 est.)<br>
-_municipal solid waste recycled annually_: 11,794 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 32,800 tons (2024 est.)<br>
 _percent of municipal solid waste recycled_: 36% (2016 est.)<br>
 
 ## Government
@@ -217,7 +205,7 @@ _time difference_: UTC+10 (15 hours ahead of Washington, DC, during Standard Tim
 _etymology_: the origin of the name is unclear; it probably comes from a local word meaning "deserted" or "uninhabited," but stories vary on how it came to be used<br>
 
 **Administrative divisions**<br>
-none (commonwealth in political union with the US); there are no first-order administrative divisions as defined by the US government, but 4 municipalities are considered second-order: Northern Islands, Rota, Saipan, Tinian<br>
+none (commonwealth in political union with the US); no first-order administrative divisions as defined by the US government, but 4 municipalities are considered second-order: Northern Islands, Rota, Saipan, Tinian<br>
 
 **Legal system**<br>
 the laws of the US apply, except for customs and some aspects of taxation<br>
@@ -266,8 +254,8 @@ none (commonwealth in political union with the US)<br>
 **National holiday**<br>
 Commonwealth Day, 8 January (1978)<br>
 
-**Flag description**<br>
-blue with a five-pointed white star on a gray latte stone (a traditional foundation stone) in the center, surrounded by a <em>mwáár </em>or head lei (wreath); blue stands for the Pacific Ocean, the star for the Commonwealth, and the latte stone and mwáár for Marianas culture; the mwáár is made from four kinds of flowers: flores mayo (<em>Plumeria</em>), ylang-ylang or langilang (<em>Cananga odorata</em>), angagha or peacock flower (<em>Caesalpinia pulcherrima</em>), and teibwo or Pacific basil (<em>Ocimum tenuiflorum</em>)<br>
+**Flag**<br>
+<strong>description:</strong> blue with a five-pointed white star on a gray latte stone (a traditional foundation stone) in the center, surrounded by a <em>mwáár </em>or head lei (wreath)<br><br><strong>meaning:</strong> blue stands for the Pacific Ocean, the star for the Commonwealth, and the latte stone and mwáár for Marianas culture; the mwáár is made from four kinds of flowers: flores mayo (<em>Plumeria</em>), ylang-ylang or langilang (<em>Cananga odorata</em>), angagha or peacock flower (<em>Caesalpinia pulcherrima</em>), and teibwo or Pacific basil (<em>Ocimum tenuiflorum</em>)<br>
 
 **National symbol(s)**<br>
 latte stone<br>

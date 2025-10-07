@@ -158,16 +158,9 @@ _female_: 78.4 years<br>
 **Gross reproduction rate**<br>
 0.8 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: total_: total: 98.9% of population (2022 est.)<br>
+_unimproved: total_: total: 1.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 7% of GDP (2021)<br>
@@ -180,12 +173,8 @@ _Health expenditure (as % of national budget)_: 10.9% of national budget (2022 e
 1.6 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
+_improved: total_: total: 99.9% of population (2022 est.)<br>
+_unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 18.6% (2016)<br>
@@ -235,21 +224,32 @@ _other_: 45.2% (2022 est.)<br>
 _urban population_: 53.4% of total population (2023)<br>
 _rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 10.26 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 43.87 megatons (2016 est.)<br>
-_methane emissions_: 1.35 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 33.629 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 6,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 3.634 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 29.989 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+10.4 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 160.3 kt (2022-2024 est.)<br>
+_agriculture_: 4.1 kt (2019-2021 est.)<br>
+_waste_: 59.1 kt (2019-2021 est.)<br>
+_other_: 6 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 727,874 tons (2010 est.)<br>
+_municipal solid waste generated annually_: 727,900 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 16.2% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 240 million cubic meters (2020 est.)<br>
-_industrial_: 130 million cubic meters (202 est.)<br>
-_agricultural_: 20 million cubic meters (2020 est.)<br>
+_municipal_: 237.6 million cubic meters (2022 est.)<br>
+_industrial_: 128.9 million cubic meters (2022 est.)<br>
+_agricultural_: 16.7 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-3.84 billion cubic meters (2020 est.)<br>
+3.84 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -357,8 +357,8 @@ ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, EITI (compliant country), FAO, G-24, G-
 **National holiday**<br>
 Independence Day, 31 August (1962)<br>
 
-**Flag description**<br>
-red with a white-edged black diagonal band from the upper hoist side to the lower fly side; the colors represent the elements of earth, water, and fire; black also stands for the wealth of the land and the dedication of the people; white for the sea, the purity of the country's aspirations, and equality; red for the sun, the vitality of the land, and the people's courage and friendliness<br>
+**Flag**<br>
+<strong>description: </strong>red with a white-edged black diagonal band from the upper left to the lower right<br><br><strong>meaning:</strong> the colors represent the elements of earth, water, and fire; black also stands for the wealth of the land and the dedication of the people; white for the sea, the purity of the country's aspirations, and equality; red for the sun, the vitality of the land, and the people's courage and friendliness<br>
 
 **National symbol(s)**<br>
 scarlet ibis (bird of Trinidad), cocrico (bird of Tobago), chaconia flower<br>
@@ -459,6 +459,9 @@ _revenues_: $5.698 billion (2019 est.)<br>
 _expenditures_: $7.822 billion (2019 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
+**Public debt**<br>
+37% of GDP (2016 est.)<br>
+
 **Taxes and other revenues**<br>
 16.7% (of GDP) (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
@@ -540,12 +543,6 @@ _consumption_: 15.316 billion cubic meters (2023 est.)<br>
 _exports_: 10.737 billion cubic meters (2023 est.)<br>
 _proven reserves_: 298.063 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 33.629 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 6,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 3.634 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 29.989 million metric tonnes of CO2 (2023 est.)<br>
-
 ## Communications
 
 **Telephones - fixed lines**<br>
@@ -623,5 +620,5 @@ Tren de Aragua (TdA)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 36,218 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2023)<br>
+_refugees_: 24,134 (2024 est.)<br>
 

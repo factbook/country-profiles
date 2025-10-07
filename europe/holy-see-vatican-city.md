@@ -89,9 +89,6 @@ _rate of urbanization_: 0% annual rate of change (2020-25 est.)<br>
 **Major urban areas - population**<br>
 1,000 VATICAN CITY (capital) (2018)<br>
 
-**Drinking water source**<br>
-_improved: total_: total: 100% of population (2019 est.)<br>
-
 ## Environment
 
 **Environmental issues**<br>
@@ -112,12 +109,6 @@ _other_: 100% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0% annual rate of change (2020-25 est.)<br>
-
-**Air pollutants**<br>
-_methane emissions_: 0 megatons (2020 est.)<br>
-
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -193,7 +184,7 @@ _FAX_: [1] (202) 337-4036<br>
 _email address and website_: <br>nuntiususa@nuntiususa.org<br><br>http://www.nuntiususa.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Laura HOCHLA (since 8 July 2024)<br>
+_chief of mission_: Ambassador Brian Francis BURCH II (since 13 September 2025)<br>
 _embassy_: Via Sallustiana, 49, 00187 Rome<br>
 _mailing address_: 5660 Holy See Place, Washington DC&nbsp; 20521-5660<br>
 _telephone_: [39] (06) 4674-1<br>
@@ -207,8 +198,8 @@ CE (observer), IAEA, Interpol, IOM, ITSO, ITU, ITUC (NGOs), OAS (observer), OPCW
 11 February 1929<br>
 <strong>note:</strong> the three treaties signed with Italy on 11 February 1929 acknowledged the full sovereignty of the Holy See and established its territorial extent, but the origin of the Papal States, which over centuries varied considerably in extent, can be traced back to A.D. 754<br>
 
-**Flag description**<br>
-two vertical bands of yellow (hoist side) and white with the arms of the Holy See, consisting of the crossed keys of Saint Peter with the three-tiered papal tiara above, centered in the white band; the yellow color represents the pope's spiritual power, and the white his worldly power<br>
+**Flag**<br>
+<strong>description:</strong> two vertical bands of yellow (left side) and white, with the arms of the Holy See centered in the white band; the arms show the crossed keys of Saint Peter under the three-tiered papal tiara <br><br><strong>meaning:</strong> yellow stands for the pope's spiritual power, and white for his worldly power<br>
 
 **National symbol(s)**<br>
 crossed keys under a papal tiara<br>
@@ -217,9 +208,9 @@ crossed keys under a papal tiara<br>
 yellow, white<br>
 
 **National anthem(s)**<br>
-_title_: "Inno e Marcia Pontificale" (Hymn and Pontifical March), often called "The Pontifical Hymn"<br>
+_title_: &ldquo;Hymnus Pontificius" (Pontifical Anthem)<br>
 _lyrics/music_: Raffaello LAVAGNA/Charles-Francois GOUNOD<br>
-_history_: adopted 1950<br>
+_history_: adopted 1949<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>

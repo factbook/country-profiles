@@ -161,16 +161,13 @@ _female_: 63.3 years<br>
 **Gross reproduction rate**<br>
 1.94 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-24.9% (2019/20)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 96.2% of population<br>
-_improved: rural_: rural: 70.6% of population<br>
-_improved: total_: total: 84% of population<br>
-_unimproved: urban_: urban: 3.8% of population<br>
-_unimproved: rural_: rural: 29.4% of population<br>
-_unimproved: total_: total: 16% of population (2020 est.)<br>
+_improved: urban_: urban: 84.6% of population (2022 est.)<br>
+_improved: rural_: rural: 65.5% of population (2022 est.)<br>
+_improved: total_: total: 75.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 15.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 34.5% of population (2022 est.)<br>
+_unimproved: total_: total: 24.4% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 16.6% of GDP (2021)<br>
@@ -183,12 +180,12 @@ _Health expenditure (as % of national budget)_: 4.8% of national budget (2022 es
 1.6 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 68% of population<br>
-_improved: rural_: rural: 25.2% of population<br>
-_improved: total_: total: 47.5% of population<br>
-_unimproved: urban_: urban: 32% of population<br>
-_unimproved: rural_: rural: 74.8% of population<br>
-_unimproved: total_: total: 52.5% of population (2020 est.)<br>
+_improved: urban_: urban: 70.1% of population (2022 est.)<br>
+_improved: rural_: rural: 25.1% of population (2022 est.)<br>
+_improved: total_: total: 49% of population (2022 est.)<br>
+_unimproved: urban_: urban: 29.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 74.9% of population (2022 est.)<br>
+_unimproved: total_: total: 51% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 9.9% (2016)<br>
@@ -244,21 +241,25 @@ _other_: 1.6% (2022 est.)<br>
 _urban population_: 53.6% of total population (2023)<br>
 _rate of urbanization_: 3.41% annual rate of change (2015-20 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 35.8 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 1.39 megatons (2016 est.)<br>
-_methane emissions_: 6.56 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 671,000 metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 4 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 671,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+41.9 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 564,467 tons (2007 est.)<br>
+_municipal solid waste generated annually_: 564,500 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 7.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 80 million cubic meters (2020 est.)<br>
-_industrial_: 50 million cubic meters (2020 est.)<br>
-_agricultural_: 10 million cubic meters (2020 est.)<br>
+_municipal_: 80.2 million cubic meters (2022 est.)<br>
+_industrial_: 53.4 million cubic meters (2022 est.)<br>
+_agricultural_: 12.3 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-232 billion cubic meters (2020 est.)<br>
+232 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -352,7 +353,7 @@ _email address and website_: <br>info@liberianembassyus.org<br><br>http://www.li
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Mark TONER (since 7 August 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Joseph ZADROZNY (since August 2025)<br>
 _embassy_: 502 Benson Street, Monrovia<br>
 _mailing address_: 8800 Monrovia Place, Washington DC&nbsp; 20521-8800<br>
 _telephone_: [231] 77-677-7000<br>
@@ -368,8 +369,9 @@ ACP, AfDB, AU, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, IC
 **National holiday**<br>
 Independence Day, 26 July (1847)<br>
 
-**Flag description**<br>
-11 equal horizontal stripes of red (top and bottom) alternating with white; a five-pointed white star sits on a blue square in the upper hoist-side corner; the stripes symbolize the signatories of the Liberian Declaration of Independence, the blue square represents the African mainland, and the star represents the freedom granted to the ex-slaves; the blue stands for liberty, justice, and fidelity, the white for purity, cleanliness, and guilelessness, and the red for steadfastness, valor, and fervor; the design is based on the US flag<br>
+**Flag**<br>
+<strong>description:</strong> 11 equal horizontal stripes of red alternating with white; a five-pointed white star sits on a blue square in the upper-left corner<br><br><strong>meaning:</strong> the stripes stand for the signatories of the Liberian Declaration of Independence, the blue square for the African mainland, and the star for the freedom granted to ex-slaves; the blue stands for liberty, justice, and fidelity; the white for purity, cleanliness, and guilelessness; the red for steadfastness, valor, and fervor<br>
+<strong>note: </strong>the design is based on the US flag<br>
 
 **National symbol(s)**<br>
 white star<br>
@@ -471,6 +473,9 @@ _highest 10%_: 27.1% (2016 est.)<br>
 _revenues_: $5 million (2019 est.)<br>
 _expenditures_: $6 million (2019 est.)<br>
 
+**Public debt**<br>
+28.3% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 $64.806 million (2022 est.)<br>
 -$101.746 million (2021 est.)<br>
@@ -546,11 +551,6 @@ _imports_: 75,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 5,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 671,000 metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 4 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 671,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 1.822 million Btu/person (2023 est.)<br>
@@ -631,6 +631,9 @@ the Armed Forces of Liberia (AFL) are responsible for external defense and some 
 
 ## Transnational Issues
 
+**Refugees and internally displaced persons**<br>
+_refugees_: 1,854 (2024 est.)<br>
+
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Liberia was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/liberia/<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Liberia remained on Tier 2 Watch List for the second consecutive year; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/liberia/<br>
 

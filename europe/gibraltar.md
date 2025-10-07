@@ -142,24 +142,17 @@ _female_: 83.8 years<br>
 **Gross reproduction rate**<br>
 0.92 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 40.7% (2023 est.)<br>
@@ -184,11 +177,13 @@ _other_: 100% (2022 est.)<br>
 _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0.45% annual rate of change (2015-20 est.)<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.63 megatons (2016 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 15.608 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 15.458 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 150,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 16,954 tons (2012 est.)<br>
+_municipal solid waste generated annually_: 17,000 tons (2024 est.)<br>
 
 ## Government
 
@@ -269,8 +264,8 @@ none (overseas territory of the UK)<br>
 National Day, 10 September (1967)<br>
 <strong>note:</strong> day of the national referendum to decide whether to remain with the UK or join Spain<br>
 
-**Flag description**<br>
-two horizontal bands of white (top, double-width) and red with a three-towered red castle in the center of the white band; a gold key hangs from the castle gate and is centered in the red band; the design comes from Gibraltar's coat of arms that was granted on 10 July 1502 by King Ferdinand and Queen Isabella of Spain; the castle symbolizes Gibraltar as a fortress, and the key represents Gibraltar's strategic importance -- the key to the Mediterranean<br>
+**Flag**<br>
+<strong>description:</strong> two horizontal bands of white (top, double-width) and red with a three-towered red castle in the center of the white band; a gold key hangs from the castle gate and is centered in the red band<br><br><strong> meaning:</strong> the castle symbolizes Gibraltar as a fortress, and the key represents Gibraltar's strategic importance -- the key to the Mediterranean<br><br><strong>history:</strong> the design comes from Gibraltar's coat of arms, which King Ferdinand and Queen Isabella of Spain granted on 10 July 1502 <br>
 
 **National symbol(s)**<br>
 Barbary partridge<br>
@@ -343,11 +338,6 @@ _refined petroleum consumption_: 91,000 bbl/day (2023 est.)<br>
 **Natural gas**<br>
 _consumption_: 77.196 million cubic meters (2023 est.)<br>
 _imports_: 77.196 million cubic meters (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 15.608 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 15.458 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 150,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

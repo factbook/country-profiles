@@ -87,7 +87,7 @@ vast majority of the population lives in a discontinuous band within approximate
 continuous permafrost in north is a serious obstacle to development; cyclonic storms form east of the Rocky Mountains, a result of the mixing of air masses from the Arctic, Pacific, and North American interior, and produce most of the country's rain and snow east of the mountains <br><br><strong>volcanism:</strong> the vast majority of volcanoes in Western Canada's Coast Mountains remain dormant<br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> second-largest country in world (after Russia) and largest in the Americas; strategic location between Russia and US via north polar route; approximately 90% of the population is concentrated within 160 km (100 mi) of the US border</p> <p><strong>note 2:</strong> Canada has more fresh water than any other country, and almost 9% of Canadian territory is water; Canada has at least 2 million and possibly over 3 million lakes, more than all other countries combined</p><br>
+<strong>note 1:</strong> second-largest country in the world (after Russia) and largest in the Americas; strategic location between Russia and US via north polar route; approximately 90% of the population is concentrated within 160 km (100 mi) of the US border <br><br><strong>note 2:</strong> Canada has more fresh water than any other country, and almost 9% of Canadian territory is water; Canada has at least 2 million and possibly over 3 million lakes, more than all other countries combined<br>
 
 ## People and Society
 
@@ -178,16 +178,13 @@ _female_: 86.6 years<br>
 **Gross reproduction rate**<br>
 0.77 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.3% of population<br>
-_improved: rural_: rural: 99.1% of population<br>
-_improved: total_: total: 99.2% of population<br>
-_unimproved: urban_: urban: 0.7% of population<br>
-_unimproved: rural_: rural: 0.9% of population<br>
-_unimproved: total_: total: 0.8% of population (2020 est.)<br>
+_improved: urban_: urban: 99.3% of population (2022 est.)<br>
+_improved: rural_: rural: 99.1% of population (2022 est.)<br>
+_improved: total_: total: 99.2% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.7% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.9% of population (2022 est.)<br>
+_unimproved: total_: total: 0.8% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 11.2% of GDP (2022)<br>
@@ -200,12 +197,12 @@ _Health expenditure (as % of national budget)_: 19.5% of national budget (2022 e
 2.6 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.1% of population<br>
-_improved: rural_: rural: 98.9% of population<br>
-_improved: total_: total: 99% of population<br>
-_unimproved: urban_: urban: 0.9% of population<br>
-_unimproved: rural_: rural: 1.1% of population<br>
-_unimproved: total_: total: 1% of population (2020 est.)<br>
+_improved: urban_: urban: 98.6% of population (2022 est.)<br>
+_improved: rural_: rural: 98.8% of population (2022 est.)<br>
+_improved: total_: total: 98.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.2% of population (2022 est.)<br>
+_unimproved: total_: total: 1.4% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 29.4% (2016)<br>
@@ -258,23 +255,32 @@ _other_: 54% (2022 est.)<br>
 _urban population_: 81.9% of total population (2023)<br>
 _rate of urbanization_: 0.95% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 6.39 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 544.89 megatons (2016 est.)<br>
-_methane emissions_: 101.82 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 585.853 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 32.486 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 294.196 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 259.171 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+6.7 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 2,787.3 kt (2022-2024 est.)<br>
+_agriculture_: 1,049.8 kt (2019-2021 est.)<br>
+_waste_: 816.7 kt (2019-2021 est.)<br>
+_other_: 39.3 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 25,103,034 tons (2014 est.)<br>
-_municipal solid waste recycled annually_: 5,168,715 tons (2008 est.)<br>
-_percent of municipal solid waste recycled_: 20.6% (2008 est.)<br>
+_municipal solid waste generated annually_: 25.103 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 23.1% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 4.87 billion cubic meters (2020 est.)<br>
-_industrial_: 27.51 billion cubic meters (2020 est.)<br>
-_agricultural_: 3.86 billion cubic meters (2020 est.)<br>
+_municipal_: 4.869 billion cubic meters (2022 est.)<br>
+_industrial_: 27.357 billion cubic meters (2022 est.)<br>
+_agricultural_: 3.859 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-2.9 trillion cubic meters (2020 est.)<br>
+2.902 trillion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 5<br>
@@ -384,8 +390,8 @@ ADB (nonregional member), AfDB (nonregional member), APEC, Arctic Council, ARF, 
 **National holiday**<br>
 Canada Day, 1 July (1867)<br>
 
-**Flag description**<br>
-two vertical bands of red (hoist and fly side, half-width) with white square between them; an 11-pointed red maple leaf, a national symbol, is centered in the white square<br>
+**Flag**<br>
+<strong>description:</strong> two vertical bands of red on each side, with a white square between them; a large 11-pointed red maple leaf is centered in the white square<br><br><strong>meaning:</strong> the maple leaf is a national symbol<br>
 
 **National symbol(s)**<br>
 maple leaf, beaver<br>
@@ -497,9 +503,9 @@ _highest 10%_: 23.4% (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $393.642 billion (2022 est.)<br>
-_expenditures_: $399.8 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $428.312 billion (2023 est.)<br>
+_expenditures_: $417.421 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 61.3% of GDP (2023 est.)<br>
@@ -602,12 +608,6 @@ _exports_: 82.537 billion cubic meters (2023 est.)<br>
 _imports_: 29.058 billion cubic meters (2023 est.)<br>
 _proven reserves_: 2.067 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 585.853 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 32.486 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 294.196 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 259.171 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 311.599 million Btu/person (2023 est.)<br>
 
@@ -670,14 +670,14 @@ Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force (2
 <strong>note 1: </strong>the CAF is comprised of both a Regular Force and a Reserve Force; the Reserve Force is comprised of the Primary Reserve, Canadian Rangers, Cadet Organizations Administration and Training Service, and the Supplementary Reserve; the Canadian Rangers are part of the Army Reserve Force and provide a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles <br><br><strong>note 2: </strong>the Royal Canadian Mounted Police (RCMP or "Mounties") is under the Department of Public Safety; the Coast Guard is under the Department of Fisheries and Oceans<br>
 
 **Military expenditures**<br>
-1.4% of GDP (2024)<br>
-1.3% of GDP (2023)<br>
-1.2% of GDP (2022)<br>
-1.3% of GDP (2021)<br>
-1.4% of GDP (2020)<br>
+2% of GDP (2025 est.)<br>
+1.5% of GDP (2024 est.)<br>
+1.3% of GDP (2023 est.)<br>
+1.2% of GDP (2022 est.)<br>
+1.3% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the authorized target strength of the CAF Regular Force is 71,500 personnel (2025)<br>
+approximately 75,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the CAF's inventory is a mix of domestically produced equipment and imported weapons systems from Australia, Europe, Israel, and the US; in recent years, the leading supplier has been the US; Canada's defense industry develops, maintains, and produces a range of equipment, including aircraft, combat vehicles, naval vessels, and associated components (2024)<br>
@@ -696,13 +696,14 @@ the Canadian Armed Forces (CAF) are responsible for external security; the CAF�
 ## Space
 
 **Space agency/agencies**<br>
-Canadian Space Agency (CSA; established 1989) (2024)<br>
+Canadian Space Agency (CSA; established 1989) (2025)<br>
 
 **Space launch site(s)**<br>
-Churchill Rocket Research Range (sounding rockets; Manitoba); constructing a private, commercial space launch site in Nova Scotia (2023)<br>
+developing commercial space port sites in Nova Scotia and Newfoundland (2025)<br>
+<strong>note:</strong> the Churchill Rocket Research Range in Manitoba was used for rocket testing from 1956-1985<br>
 
 **Space program overview**<br>
-has a substantial program, a national space strategy, and a long history of developing space-related technologies; designs, builds, operates, and tracks communications, remote sensing (RS), multi-mission, and scientific/testing satellites; has an astronaut program (train in the US); designs, builds, or contributes to a variety of other space-related programs, including space telescopes, planetary probes, sensors, and robotic systems (such as the Canadian-made robotic arms used on the US Space Shuttle and the International Space Station); participates in international space efforts and cooperates with a variety of foreign space agencies and commercial entities, including those of Argentina, Brazil, the European Space Agency (ESA)/EU (and their member states), India, and particularly the US; ESA Cooperating State since 1979; has a robust commercial space sector that is involved in satellite communications, optics, space exploration, navigation, and space science (2024)<br>
+has a substantial program, a national space strategy, and a long history of developing space-related technologies; designs, builds, operates, and tracks communications, remote sensing (RS), multi-mission, and scientific/testing satellites; has an astronaut program; designs, builds, or contributes to a variety of other space-related programs, including space telescopes, planetary probes, lunar rovers, sensors, and robotic systems (such as the Canadian-made robotic arms used on the US Space Shuttle and the International Space Station); participates in international space efforts and cooperates with a variety of foreign space agencies and commercial entities, including those of Argentina, Brazil, the European Space Agency (ESA)/EU (and their member states), India, and particularly the US; ESA Cooperating State since 1979; has a robust commercial space sector that is involved in navigation, optics, satellite communications, space exploration, and space science (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -714,8 +715,9 @@ Hizballah; Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,400 (Venezuela) (refugees and migrants) (2020); 5,254 (Iran) (mid-year 2021)<br>
-_stateless persons_: 4,323 (2022)<br>
+_refugees_: 561,551 (2024 est.)<br>
+_IDPs_: 1,981 (2024 est.)<br>
+_stateless persons_: 8,166 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major precursor-chemical producer (2025)<br>

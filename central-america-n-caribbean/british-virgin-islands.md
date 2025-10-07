@@ -151,20 +151,9 @@ _female_: 81.7 years<br>
 **Gross reproduction rate**<br>
 0.67 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
-
-**Sanitation facility access**<br>
-_improved: urban_: urban: 97.5% of population<br>
-_improved: rural_: rural: 97.5% of population<br>
-_improved: total_: total: 97.5% of population<br>
-_unimproved: urban_: urban: 2.5% of population<br>
-_unimproved: rural_: rural: 2.5% of population<br>
-_unimproved: total_: total: 2.5% of population (2015 est.)<br>
+_improved: total_: total: 99.9% of population (2022 est.)<br>
+_unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 46.6% (2023 est.)<br>
@@ -198,11 +187,12 @@ _other_: 29.2% (2022 est.)<br>
 _urban population_: 49.7% of total population (2023)<br>
 _rate of urbanization_: 1.73% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.21 megatons (2016 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 188,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 188,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 21,099 tons (2000 est.)<br>
+_municipal solid waste generated annually_: 21,100 tons (2024 est.)<br>
 
 ## Government
 
@@ -280,8 +270,8 @@ none (overseas territory of the UK)<br>
 **National holiday**<br>
 Territory Day, 1 July (1956)<br>
 
-**Flag description**<br>
-blue with the UK flag in the upper hoist-side quadrant and the Virgin Islander coat of arms centered in the outer half of the flag; the coat of arms depicts a woman flanked by vertical columns of six oil lamps above a scroll bearing the Latin word VIGILATE (Be Watchful); Christopher COLUMBUS named the islands in 1493 in honor of Saint Ursula and her virgin followers, and the figure holding a lamp represents the saint, with the other lamps symbolizing her followers<br>
+**Flag**<br>
+<strong>description:</strong> blue with the UK flag in the upper-left quadrant and the Virgin Islander coat of arms centered on the right half of the flag; the coat of arms depicts a woman between two columns of six oil lamps, above a scroll with the Latin word VIGILATE (Be Watchful)<br><br><strong>meaning:</strong> Christopher COLUMBUS named the islands in 1493 in honor of Saint Ursula and her virgin followers, and the figure holding a lamp represents the saint, with the other lamps symbolizing her followers<br>
 
 **National symbol(s)**<br>
 zenaida dove, white cedar flower<br>
@@ -305,13 +295,20 @@ $1.579 billion (2023 est.)<br>
 $1.537 billion (2022 est.)<br>
 <strong>note:</strong> data in 2015 dollars<br>
 
+**Real GDP per capita**<br>
+$40,500 (2024 est.)<br>
+$38,600 (2023 est.)<br>
+$38,400 (2022 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
+
 **GDP (official exchange rate)**<br>
-$1.38 billion (2018 est.)<br>
+$1.598 billion (2024 est.)<br>
+<strong>note:</strong> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.2% (2022 est.)<br>
+8.5% (2022 est.)<br>
 2.8% (2021 est.)<br>
-0.4% (2020 est.)<br>
+1.4% (2020 est.)<br>
 <strong>note:</strong> annual % change based on consumer prices<br>
 
 **Agricultural products**<br>
@@ -359,10 +356,6 @@ _imports_: 20 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 1,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 188,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 188,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 66.998 million Btu/person (2023 est.)<br>
@@ -420,4 +413,7 @@ _key ports_: Road Harbor<br>
 defense is the responsibility of the UK<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 41 (2024 est.)<br>
 

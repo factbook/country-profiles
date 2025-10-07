@@ -161,16 +161,13 @@ _female_: 80.1 years<br>
 **Gross reproduction rate**<br>
 0.8 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-57.1% (2015/16)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 12.3% of GDP (2021)<br>
@@ -183,12 +180,12 @@ _Health expenditure (as % of national budget)_: 6.5% of national budget (2022 es
 4.6 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 84.6% of population<br>
-_improved: total_: total: 94.4% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 15.4% of population<br>
-_unimproved: total_: total: 5.6% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 84.6% of population (2022 est.)<br>
+_improved: total_: total: 94.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 15.4% of population (2022 est.)<br>
+_unimproved: total_: total: 5.6% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 20.2% (2016)<br>
@@ -254,21 +251,26 @@ _other_: 29.6% (2022 est.)<br>
 _urban population_: 63.7% of total population (2023)<br>
 _rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 34.13 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 5.16 megatons (2016 est.)<br>
-_methane emissions_: 2.91 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 7.144 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 48,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.934 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 5.162 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+28.4 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 492,800 tons (2014 est.)<br>
+_municipal solid waste generated annually_: 492,800 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 13.5% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 650 million cubic meters (2020 est.)<br>
-_industrial_: 190 million cubic meters (2020 est.)<br>
-_agricultural_: 1.99 billion cubic meters (2020 est.)<br>
+_municipal_: 542 million cubic meters (2022)<br>
+_industrial_: 150 million cubic meters (2022)<br>
+_agricultural_: 2.38 billion cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-7.77 billion cubic meters (2020 est.)<br>
+7.769 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -342,7 +344,7 @@ _subordinate courts_: criminal and civil appellate courts; administrative appell
 Armenia Alliance or HD<br>Armenian National Congress or ANC<br>Bright Armenia<br>Civil Contract or KP<br>Country To Live In<br>Homeland of Armenians<br>Homeland Party<br>I Have Honor Alliance (formerly known as the Republican Party of Armenia) PUD<br>Liberal Party<br>National Democratic Party<br>Prosperous Armenia or BHK<br>Republic Party (Hanrapetutyun Party)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Lilit MAKUNTS (since 15 September 2021)<br>
+_chief of mission_: Ambassador Narek MKRTCHYAN (since 19 September 2025)<br>
 _chancery_: 2225 R Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 319-1976<br>
 _FAX_: [1] (202) 319-2982<br>
@@ -366,8 +368,8 @@ ADB, BSEC, CD, CE, CIS, CSTO, EAEC (observer), EAEU, EAPC, EBRD, FAO, GCTU, IAEA
 **National holiday**<br>
 Independence Day, 21 September (1991)<br>
 
-**Flag description**<br>
-three equal horizontal bands of red (top), blue, and orange; the color red stands for the blood shed for liberty, blue for the Armenian skies and hope, and orange for the land and the courage of the workers who farm it<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of red (top), blue, and orange<br><br><strong>meaning:</strong> red stands for the blood shed for liberty, blue for the Armenian skies and hope, and orange for the land and the courage of the workers who farm it<br>
 
 **National symbol(s)**<br>
 Mount Ararat, eagle, lion<br>
@@ -479,9 +481,9 @@ _highest 10%_: 22.9% (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $4.617 billion (2022 est.)<br>
-_expenditures_: $4.13 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $5.812 billion (2023 est.)<br>
+_expenditures_: $6.27 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 48.3% of GDP (2023 est.)<br>
@@ -581,12 +583,6 @@ _refined petroleum consumption_: 15,000 bbl/day (2023 est.)<br>
 _consumption_: 2.631 billion cubic meters (2023 est.)<br>
 _imports_: 2.631 billion cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 7.144 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 48,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 1.934 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 5.162 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 54.689 million Btu/person (2023 est.)<br>
 
@@ -656,7 +652,7 @@ the Armenian Armed Forces were officially established in 1992, although their or
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 27,929 (Azerbaijan) (mid-year 2022)<br>
-_IDPs_: 8,400 (2022)<br>
-_stateless persons_: 816 (2022)<br>
+_refugees_: 145,354 (2024 est.)<br>
+_IDPs_: 4 (2024 est.)<br>
+_stateless persons_: 373 (2024 est.)<br>
 

@@ -175,16 +175,13 @@ _female_: 76.2 years<br>
 **Gross reproduction rate**<br>
 1.28 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-58.5% (2014)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.7% of population<br>
-_improved: rural_: rural: 99.7% of population<br>
-_improved: total_: total: 99.7% of population<br>
-_unimproved: urban_: urban: 0.3% of population<br>
-_unimproved: rural_: rural: 0.3% of population<br>
-_unimproved: total_: total: 0.3% of population (2020 est.)<br>
+_improved: urban_: urban: 99.3% of population (2022 est.)<br>
+_improved: rural_: rural: 98.4% of population (2022 est.)<br>
+_improved: total_: total: 98.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.7% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.6% of population (2022 est.)<br>
+_unimproved: total_: total: 1.2% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.6% of GDP (2021)<br>
@@ -197,12 +194,12 @@ _Health expenditure (as % of national budget)_: 7.2% of national budget (2022 es
 1.1 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: 98.2% of population<br>
-_improved: total_: total: 98.9% of population<br>
-_unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: 1.8% of population<br>
-_unimproved: total_: total: 1.1% of population (2020 est.)<br>
+_improved: urban_: urban: 99.9% of population (2022 est.)<br>
+_improved: rural_: rural: 98.5% of population (2022 est.)<br>
+_improved: total_: total: 99.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.5% of population (2022 est.)<br>
+_unimproved: total_: total: 0.9% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 32% (2016)<br>
@@ -264,15 +261,24 @@ _other_: 95.9% (2022 est.)<br>
 _urban population_: 43.1% of total population (2023)<br>
 _rate of urbanization_: 1.9% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 63.16 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 238.56 megatons (2016 est.)<br>
-_methane emissions_: 59.68 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 236.618 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 6.966 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 114.507 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 115.144 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+66.4 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 690.8 kt (2022-2024 est.)<br>
+_agriculture_: 548.9 kt (2019-2021 est.)<br>
+_waste_: 874 kt (2019-2021 est.)<br>
+_other_: 9.2 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 21 million tons (2012 est.)<br>
-_municipal solid waste recycled annually_: 2.625 million tons (2013 est.)<br>
-_percent of municipal solid waste recycled_: 12.5% (2013 est.)<br>
+_municipal solid waste generated annually_: 21 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 26.6% (2022 est.)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 10.75 billion cubic meters (2020 est.)<br>
@@ -353,10 +359,10 @@ _number of seats_: 300 (200 directly elected; 100 appointed)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 8/11/2020 to 9/9/2020<br>
+_most recent election date_: 8/4/2025 to 8/28/2025<br>
 _parties elected and seats per party_: Future of the Nation (Mostakbal Watan) (148); Republican People's party (17); Independents (88); Other (47)<br>
 _percentage of women in chamber_: 13.7%<br>
-_expected date of next election_: August 2025<br>
+_expected date of next election_: July 2030<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Constitutional Court (SCC) (consists of the court president and 10 justices); the SCC serves as the final court of arbitration on the constitutionality of laws and conflicts between lower courts regarding jurisdiction and rulings; Court of Cassation (CC) (consists of the court president and 550 judges organized in circuits with cases heard by panels of 5 judges); the CC is the highest appeals body for civil and criminal cases, also known as "ordinary justices"; Supreme Administrative Court (SAC) (consists of the court president and NA judges and organized in circuits with cases heard by panels of 5 judges); the SAC is the highest court of the State Council<br>
@@ -393,8 +399,8 @@ ABEDA, AfDB, AFESD, AMF, AU, BRICS, BSEC (observer), CAEU, CD, CICA, COMESA, D-8
 **National holiday**<br>
 Revolution Day, 23 July (1952)<br>
 
-**Flag description**<br>
-three equal horizontal bands of red (top), white, and black; centered in the white band is the national emblem, a gold Eagle of Saladin facing the hoist side with a shield on its chest above a scroll with the country's name in Arabic; the band colors derive from the Arab Liberation flag and represent oppression (black) overcome through bloody struggle (red), to be replaced by a bright future (white)<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of red (top), white, and black; centered in the white band is the national emblem, a gold Eagle of Saladin; it faces the left side, with a shield on its chest, above a scroll with the country's name in Arabic<br><br><strong>meaning:</strong> the band colors derive from the Arab Liberation flag and represent oppression (black) overcome through bloody struggle (red), to be replaced by a bright future (white)<br>
 <strong>note:</strong> similar to the flags of Syria (two green stars in the white band), Iraq (an Arabic inscription centered in the white band), and Yemen (plain white band)<br>
 
 **National symbol(s)**<br>
@@ -616,12 +622,6 @@ _exports_: 5.344 billion cubic meters (2023 est.)<br>
 _imports_: 9.126 billion cubic meters (2023 est.)<br>
 _proven reserves_: 1.784 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 236.618 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 6.966 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 114.507 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 115.144 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 34.975 million Btu/person (2023 est.)<br>
 
@@ -709,10 +709,10 @@ the Egyptian Armed Forces (EAF) are responsible for external defense but also ha
 ## Space
 
 **Space agency/agencies**<br>
-Egyptian Space Agency (EgSA; public economic authority established 2019); National Authority for Remote Sensing and Space Science (NARSS; formed in 1994 from the Remote Sensing Center, which was established in 1971) (2024)<br>
+Egyptian Space Agency (EgSA; established 2019); National Authority for Remote Sensing and Space Science (NARSS; formed in 1994 from the Remote Sensing Center, which was established in 1971) (2025)<br>
 
 **Space program overview**<br>
-has a growing program to manufacture satellites and associated support infrastructure; seeks to become a regional space power; operates satellites; builds satellites jointly with foreign partners but developing localized satellite manufacturing capabilities; acquiring other space-related technologies through transfers and domestic development, including on communications, Earth imaging/remote sensing (RS), and satellite payloads and components; cooperating on space-related issues with a variety of foreign governments and commercial space companies, including those of Belarus, Canada, China, the European Space Agency and its member states (particularly France, Germany, Italy), Ghana, India, Japan, Kazakhstan, Kenya, Nigeria, Russia, South Africa, Sudan, Uganda, Ukraine, the UAE, and the US; also a member of the Arab Space Coordination Group; has a commercial space sector that focuses on satellite communications, satellite design and production, RS, and space applications (2024)<br>
+has a growing space program and seeks to become a regional space power; operates satellites; builds satellites jointly with foreign partners but developing localized satellite manufacturing capabilities and associated support infrastructure; acquiring other space-related technologies through transfers and domestic development, including on communications, Earth imaging/remote sensing (RS), and satellite payloads and components; cooperating on space-related issues with a variety of foreign governments and commercial space companies, including those of Belarus, Canada, China, the European Space Agency and its member states (particularly France, Germany, Italy), Ghana, India, Japan, Kazakhstan, Kenya, Nigeria, Russia, South Africa, Sudan, Uganda, Ukraine, the UAE, and the US; also a member of the Arab Space Coordination Group; has a commercial space sector that focuses on satellite communications, satellite design and production, RS capabilities, and space applications (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the countryâ€™s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -724,6 +724,6 @@ Army of Islam; Harakat Sawa'd Misr (HASM); Islamic State of Iraq and ash-Sham â€
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022); 464,827 (Sudan) (refugees since 15 April 2023), 156,159 (Syria) (2024)<br>
-_stateless persons_: 10 (2022)<br>
+_refugees_: 876,962 (2024 est.)<br>
+_stateless persons_: 5 (2024 est.)<br>
 

@@ -78,7 +78,7 @@ the population is unevenly distributed due to contrasts in climate and physical 
 hot, dry, dusty harmattan winds occur in north; periodic droughts; locust plagues<br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> Chad is the largest of Africa's 16 landlocked countries</p> <p><strong>note 2:</strong> a wide variety of animals lived in modern-day Chad during the African Humid Period, including elephants, giraffes, hippos, and antelope; the last remnant of this "Green Sahara" exists in the Lakes of Ounianga in northern Chad, a series of 18 interconnected freshwater, saline, and hypersaline lakes </p> <p><strong>note 3:</strong> Lake Chad, the most significant water body in the Sahel, is a remnant of a former inland sea, paleolake Mega-Chad; at its greatest extent, sometime before 5000 B.C., Lake Mega-Chad was the largest of four Saharan paleolakes that existed during the African Humid Period; it covered an area of about 400,000 sq km (150,000 sq mi), roughly the size of today's Caspian Sea</p><br>
+<strong>note 1:</strong> Chad is the largest of Africa's 16 landlocked countries <br><br><strong>note 2:</strong> a wide variety of animals lived in modern-day Chad during the African Humid Period, including elephants, giraffes, hippos, and antelope; the last remnant of this "Green Sahara" exists in the Lakes of Ounianga in northern Chad, a series of 18 interconnected freshwater, saline, and hypersaline lakes  <br><br><strong>note 3:</strong> Lake Chad, the most significant water body in the Sahel, is a remnant of a former inland sea, paleolake Mega-Chad; at its greatest extent, sometime before 5000 B.C., Lake Mega-Chad was the largest of four Saharan paleolakes that existed during the African Humid Period; it covered an area of about 400,000 sq km (150,000 sq mi), roughly the size of today's Caspian Sea<br>
 
 ## People and Society
 
@@ -169,16 +169,13 @@ _female_: 62 years<br>
 **Gross reproduction rate**<br>
 2.57 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-8.1% (2019)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 90.2% of population<br>
-_improved: rural_: rural: 51.9% of population<br>
-_improved: total_: total: 60.9% of population<br>
-_unimproved: urban_: urban: 9.8% of population<br>
-_unimproved: rural_: rural: 48.1% of population<br>
-_unimproved: total_: total: 39.1% of population (2020 est.)<br>
+_improved: urban_: urban: 77.9% of population (2022 est.)<br>
+_improved: rural_: rural: 43.8% of population (2022 est.)<br>
+_improved: total_: total: 52% of population (2022 est.)<br>
+_unimproved: urban_: urban: 22.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 56.2% of population (2022 est.)<br>
+_unimproved: total_: total: 48% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.2% of GDP (2021)<br>
@@ -191,12 +188,12 @@ _Health expenditure (as % of national budget)_: 7.3% of national budget (2022 es
 0.4 beds/1,000 population (2017 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 57.5% of population<br>
-_improved: rural_: rural: 4.9% of population<br>
-_improved: total_: total: 17.3% of population<br>
-_unimproved: urban_: urban: 42.5% of population<br>
-_unimproved: rural_: rural: 95.1% of population<br>
-_unimproved: total_: total: 82.7% of population (2020 est.)<br>
+_improved: urban_: urban: 56.4% of population (2022 est.)<br>
+_improved: rural_: rural: 6.3% of population (2022 est.)<br>
+_improved: total_: total: 18.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 43.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 93.7% of population (2022 est.)<br>
+_unimproved: total_: total: 81.6% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 6.1% (2016)<br>
@@ -262,21 +259,31 @@ _other_: 56.8% (2022 est.)<br>
 _urban population_: 24.4% of total population (2023)<br>
 _rate of urbanization_: 4.1% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 41.15 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 1.02 megatons (2016 est.)<br>
-_methane emissions_: 30.69 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 2.054 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.054 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+41.2 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 101.8 kt (2022-2024 est.)<br>
+_agriculture_: 1,282.9 kt (2019-2021 est.)<br>
+_waste_: 60.3 kt (2019-2021 est.)<br>
+_other_: 12 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1,358,851 tons (2010 est.)<br>
+_municipal solid waste generated annually_: 1.359 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 11.1% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 100 million cubic meters (2020 est.)<br>
-_industrial_: 100 million cubic meters (2020 est.)<br>
-_agricultural_: 670 million cubic meters (2020 est.)<br>
+_municipal_: 103.7 million cubic meters (2022 est.)<br>
+_industrial_: 103.7 million cubic meters (2022 est.)<br>
+_agricultural_: 672.2 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-45.7 billion cubic meters (2020 est.)<br>
+45.7 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -361,14 +368,14 @@ Chadian Convention for Peace and Development or CTPD<br>Federation Action for th
 <strong>note 1: </strong> 19 additional parties each contributed one member<br><strong><br>note 2: </strong> on 5 October 2021, Interim President Mahamat Idriss DEBY appointed 93 members to the interim National Transitional Council (NTC); 30% of the NTC members were retained from parties previously represented in the National Assembly<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador KITOKO GATA Ngoulou (since 30 June 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires ANWAR SADAT Fatahalbab (since 30 July 2025)<br>
 _chancery_: 2401 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 652-1312<br>
 _FAX_: [1] (202) 578-0431<br>
 _email address and website_: <br>info@chadembassy.us<br><br>https://chadembassy.us/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Rick SWART (since 28 February 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires William FLENS (since July 2025)<br>
 _embassy_: Rond-Point Chagoua, B.P. 413, N&rsquo;Djamena<br>
 _mailing address_: 2410 N'Djamena Place, Washington DC&nbsp; 20521-2410<br>
 _telephone_: [235] 6885-1065<br>
@@ -384,9 +391,9 @@ ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD
 **National holiday**<br>
 Independence Day, 11 August (1960)<br>
 
-**Flag description**<br>
-three equal vertical bands of blue (hoist side), gold, and red; the flag combines the blue and red French (former colonial) colors with the red and yellow of the Pan-African colors; blue symbolizes the sky, hope, and the south of the country; gold represents the sun and the desert in the north; red stands for progress, unity, and sacrifice<br>
-<strong>note:</strong> almost identical to the flag of Romania but with a darker shade of blue; also similar to the flags of Andorra and Moldova, both of which have a national coat of arms centered in the yellow band; design based on France's flag<br>
+**Flag**<br>
+<strong>description:</strong> three equal vertical bands of blue (left side), gold, and red<br><br><strong>meaning:</strong> combines the blue and red French (former colonial) colors with the red and yellow Pan-African colors; blue stands for the sky, hope, and the south of the country; gold for the sun and the desert in the north; red for progress, unity, and sacrifice<br>
+<strong>note:</strong> almost identical to the flag of Romania, but with a darker shade of blue; also similar to the flags of Andorra and Moldova, both of which have a national coat of arms centered in the yellow band; design based on France's flag<br>
 
 **National symbol(s)**<br>
 goat (north), lion (south)<br>
@@ -498,8 +505,12 @@ _highest 10%_: 29.5% (2022 est.)<br>
 <strong>note:</strong> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $2.29 billion (2020 est.)<br>
-_expenditures_: $2.12 billion (2020 est.)<br>
+_revenues_: $2.129 billion (2020 est.)<br>
+_expenditures_: $2.15 billion (2020 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+52.4% of GDP (2016 est.)<br>
 
 **Exports**<br>
 $5.799 billion (2024 est.)<br>
@@ -573,11 +584,6 @@ _total petroleum production_: 124,000 bbl/day (2023 est.)<br>
 _refined petroleum consumption_: 15,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 1.5 billion barrels (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 2.054 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 2 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 2.054 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 1.502 million Btu/person (2023 est.)<br>
 
@@ -650,9 +656,9 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 694,569 (Sudan) (includes refugees since 15 April 2023), 26,692 (Cameroon) (2023); 134,015 (Central African Republic), 21,381 (Nigeria) (2024)<br>
-_IDPs_: 215,918 (majority are in the east) (2023)<br>
+_refugees_: 1,286,645 (2024 est.)<br>
+_IDPs_: 1,542,532 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — Chad does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Chad was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/chad/<br>
+_tier rating_: Tier 3 — Chad does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Chad was downgraded to Tier 3; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/chad/<br>
 

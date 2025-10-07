@@ -90,7 +90,7 @@ the laws of the US apply<br>
 **Diplomatic representation from the US**<br>
 _embassy_: none (territory of the US)<br>
 
-**Flag description**<br>
+**Flag**<br>
 the flag of the US is used<br>
 
 ## Economy

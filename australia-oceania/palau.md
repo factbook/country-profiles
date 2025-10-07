@@ -156,16 +156,13 @@ _female_: 78.5 years<br>
 **Gross reproduction rate**<br>
 0.83 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.6% of population<br>
-_improved: rural_: rural: 99.8% of population<br>
-_improved: total_: total: 99.7% of population<br>
-_unimproved: urban_: urban: 0.4% of population<br>
-_unimproved: rural_: rural: 0.2% of population<br>
-_unimproved: total_: total: 0.3% of population (2020 est.)<br>
+_improved: urban_: urban: 99.6% of population (2022 est.)<br>
+_improved: rural_: rural: 99.4% of population (2022 est.)<br>
+_improved: total_: total: 99.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.6% of population (2022 est.)<br>
+_unimproved: total_: total: 0.4% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 16.4% of GDP (2021)<br>
@@ -175,12 +172,12 @@ _Health expenditure (as % of national budget)_: 9.5% of national budget (2022 es
 1.81 physicians/1,000 population (2023)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.8% of population<br>
-_improved: rural_: rural: 99% of population<br>
-_improved: total_: total: 99.6% of population<br>
-_unimproved: urban_: urban: 0.2% of population<br>
-_unimproved: rural_: rural: 1% of population<br>
-_unimproved: total_: total: 0.4% of population (2020 est.)<br>
+_improved: urban_: urban: 99.1% of population (2022 est.)<br>
+_improved: rural_: rural: 98.4% of population (2022 est.)<br>
+_improved: total_: total: 99% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.6% of population (2022 est.)<br>
+_unimproved: total_: total: 1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 55.3% (2016)<br>
@@ -231,16 +228,11 @@ _other_: 0.3% (2022 est.)<br>
 _urban population_: 82.4% of total population (2023)<br>
 _rate of urbanization_: 1.59% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 7.82 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.22 megatons (2016 est.)<br>
-_methane emissions_: 0.06 megatons (2020 est.)<br>
+**Particulate matter emissions**<br>
+7.9 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 9,427 tons (2016 est.)<br>
-
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
+_municipal solid waste generated annually_: 9,400 tons (2024 est.)<br>
 
 ## Government
 
@@ -342,7 +334,7 @@ _FAX_: [680] 587-2911<br>
 _email address and website_: <br>ConsularKoror@state.gov<br><br>https://pw.usembassy.gov/<br>
 
 **International organization participation**<br>
-ACP, ADB, AOSIS, FAO, IAEA, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IPU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNAMID, UNCTAD, UNESCO, WHO<br>
+ACP, ADB, AOSIS, FAO, IAEA, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IPU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNAMID, UNCTAD, UNESCO, WHO, WIPO<br>
 
 **Independence**<br>
 1 October 1994 (from the US-administered UN trusteeship)<br>
@@ -350,8 +342,8 @@ ACP, ADB, AOSIS, FAO, IAEA, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IM
 **National holiday**<br>
 Constitution Day, 9 July (1981); Independence Day, 1 October (1994)<br>
 
-**Flag description**<br>
-light blue with a large yellow disk shifted slightly to the hoist side; blue stands for the ocean, and the disk for the moon, which is considered a symbol of peace, love, and tranquility<br>
+**Flag**<br>
+<strong>description:</strong> light blue with a large yellow disk to the left side<br><br><strong>meaning:</strong> blue stands for the ocean, and the disk for the moon, which is considered a symbol of peace, love, and tranquility<br>
 
 **National symbol(s)**<br>
 bai (native meeting house)<br>
@@ -433,9 +425,9 @@ tourism, fishing, subsistence agriculture<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $173.256 million (2019 est.)<br>
-_expenditures_: $175.508 million (2019 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $127.757 million (2020 est.)<br>
+_expenditures_: $152.398 million (2020 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 85.2% of GDP (2019 est.)<br>
@@ -542,4 +534,7 @@ no regular military forces; the Bureau of Public Safety (Ministry of Justice) ha
 under the Compact of Free Association between Palau and the US, the US is responsible for the defense of Palau and the US military is granted access to the islands; the COFA also allows citizens of Palau to serve in the US armed forces<br><br>Palau has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Palau's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 5 (2024 est.)<br>
 

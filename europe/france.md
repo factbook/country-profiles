@@ -44,7 +44,8 @@ _exclusive economic zone_: 200 nm (does not apply to the Mediterranean Sea)<br>
 _continental shelf_: 200m depth or to the depth of exploitation<br>
 
 **Climate**<br>
-<strong>metropolitan France:</strong> generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as the mistral<br><br><strong>French Guiana:</strong> tropical; hot, humid; little seasonal temperature variation <br><br><strong>Guadeloupe and Martinique:</strong> subtropical tempered by trade winds; moderately high humidity; rainy season (June to October); vulnerable to devastating cyclones (hurricanes) every eight years on average <br><br><strong>Mayotte:</strong> tropical; marine; hot, humid, rainy season during northeastern monsoon (November to May); dry season is cooler (May to November) <br><br><strong>Reunion:</strong> tropical, but temperature moderates with elevation; cool and dry (May to November), hot and rainy (November to April)<br>
+<strong>metropolitan France:</strong> generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as the mistral<br><br>
+<strong>French Guiana:</strong> tropical; hot, humid; little seasonal temperature variation <br><br><strong>Guadeloupe and Martinique:</strong> subtropical tempered by trade winds; moderately high humidity; rainy season (June to October); vulnerable to devastating cyclones (hurricanes) every eight years on average <br><br><strong>Mayotte:</strong> tropical; marine; hot, humid, rainy season during northeastern monsoon (November to May); dry season is cooler (May to November) <br><br><strong>Reunion:</strong> tropical, but temperature moderates with elevation; cool and dry (May to November), hot and rainy (November to April)<br>
 
 **Terrain**<br>
 <strong>metropolitan France:</strong> mostly flat plains or gently rolling hills in north and west; remainder is mountainous, especially Pyrenees in south, Alps in east<br><br><strong>French Guiana:</strong> low-lying coastal plains rising to hills and small mountains<br><br><strong>Guadeloupe:</strong> Basse-Terre is volcanic in origin with interior mountains; Grande-Terre is low limestone formation; most of the seven other islands are volcanic in origin<br><br><strong>Martinique:</strong> mountainous with indented coastline; dormant volcano<br><br><strong>Mayotte:</strong> generally undulating, with deep ravines and ancient volcanic peaks<br><br><strong>Reunion:</strong> mostly rugged and mountainous; fertile lowlands along coast<br>
@@ -181,16 +182,13 @@ _female_: 85.5 years<br>
 **Gross reproduction rate**<br>
 0.93 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 12.3% of GDP (2021)<br>
@@ -203,12 +201,12 @@ _Health expenditure (as % of national budget)_: 15.3% of national budget (2022 e
 6 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 21.6% (2016)<br>
@@ -247,7 +245,8 @@ _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effec
 _signed, but not ratified_: none of the selected agreements<br>
 
 **Climate**<br>
-<strong>metropolitan France:</strong> generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as the mistral<br><br><strong>French Guiana:</strong> tropical; hot, humid; little seasonal temperature variation <br><br><strong>Guadeloupe and Martinique:</strong> subtropical tempered by trade winds; moderately high humidity; rainy season (June to October); vulnerable to devastating cyclones (hurricanes) every eight years on average <br><br><strong>Mayotte:</strong> tropical; marine; hot, humid, rainy season during northeastern monsoon (November to May); dry season is cooler (May to November) <br><br><strong>Reunion:</strong> tropical, but temperature moderates with elevation; cool and dry (May to November), hot and rainy (November to April)<br>
+<strong>metropolitan France:</strong> generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as the mistral<br><br>
+<strong>French Guiana:</strong> tropical; hot, humid; little seasonal temperature variation <br><br><strong>Guadeloupe and Martinique:</strong> subtropical tempered by trade winds; moderately high humidity; rainy season (June to October); vulnerable to devastating cyclones (hurricanes) every eight years on average <br><br><strong>Mayotte:</strong> tropical; marine; hot, humid, rainy season during northeastern monsoon (November to May); dry season is cooler (May to November) <br><br><strong>Reunion:</strong> tropical, but temperature moderates with elevation; cool and dry (May to November), hot and rainy (November to April)<br>
 
 **Land use**<br>
 _agricultural land_: 51.7% (2022 est.)<br>
@@ -261,22 +260,32 @@ _other_: 16.5% (2022 est.)<br>
 _urban population_: 81.8% of total population (2023)<br>
 _rate of urbanization_: 0.67% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 10.46 micrograms per cubic meter (2019 est.)<br>
-_methane emissions_: 55.99 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 303.779 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 25.355 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 209.4 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 69.025 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+9 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 232 kt (2022-2024 est.)<br>
+_agriculture_: 1,496.1 kt (2019-2021 est.)<br>
+_waste_: 550.9 kt (2019-2021 est.)<br>
+_other_: 37.7 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 33.399 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 7,434,617 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 22.3% (2015 est.)<br>
+_municipal solid waste generated annually_: 36.749 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 31.6% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 5.31 billion cubic meters (2020 est.)<br>
-_industrial_: 17.78 billion cubic meters (2020 est.)<br>
-_agricultural_: 3.18 billion cubic meters (2020 est.)<br>
+_municipal_: 5,271,098,480 cubic meters (2022 est.)<br>
+_industrial_: 16,641,397,540 cubic meters (2022 est.)<br>
+_agricultural_: 2,515,163,573 cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-211 billion cubic meters (2020 est.)<br>
+211 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 9 (2024)<br>
@@ -331,7 +340,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017)<br>
-_head of government_: Fran&ccedil;ois BAYROU (since 13 December 2024)<br>
+_head of government_: S&eacute;bastien LECORNU (since 10 September 2025)<br>
 _cabinet_: Council of Ministers appointed by the president at the suggestion of the prime minister<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister appointed by the president<br>
 _most recent election date_: 10 April 2022, with a runoff held on 24 April 2022<br>
@@ -399,9 +408,9 @@ no official date of independence: 486 (Frankish tribes unified under Merovingian
 Fête de la Fédération, 14 July (1790)<br>
 <strong>note:</strong> often incorrectly referred to as Bastille Day, the celebration commemorates the storming of the Bastille prison on 14 July 1789 and the establishment of a constitutional monarchy; other names for the holiday are <em>la Fête nationale</em> (National Holiday) and <em>le Quatorze Juillet</em> (14th of July)<br>
 
-**Flag description**<br>
-three equal vertical bands of blue (hoist side), white, and red; known as the <em>le tricolore</em> (tricolor), the flag dates to 1790 and the French Revolution, when the traditional color of white was combined with the blue and red of the Paris militia; serves as the official flag for all French dependencies<br>
-<strong>note:</strong> for the first four years of the flag's use, 1790-94, the order of colors was reversed (red-white-blue); the design and colors are similar to a number of other flags, including those of Belgium, Chad, Cote d'Ivoire, Ireland, Italy, Luxembourg, and Netherlands<br>
+**Flag**<br>
+<strong>description:</strong> three equal vertical bands of blue (left side), white, and red<br><br><strong>history:</strong> known as the <em>le tricolore</em> (tricolor), the flag dates to 1790 and the French Revolution, when the traditional color of white was combined with the blue and red of the Paris militia; for the first four years of the flag's use (1790-94), the order of colors was reversed (red-white-blue)<br>
+<strong>note 1:</strong> serves as the official flag for all French dependencies<br><br><strong>note 2:</strong> the design and colors are similar to a number of other flags, including those of Belgium, Chad, Cote d'Ivoire, Ireland, Italy, Luxembourg, and Netherlands<br>
 
 **National symbol(s)**<br>
 Gallic rooster, fleur-de-lis, Marianne (female personification of the country)<br>
@@ -412,7 +421,7 @@ blue, white, red<br>
 **National anthem(s)**<br>
 _title_: "La Marseillaise" (The Song of Marseille)<br>
 _lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
-_history_: adopted 1795, restored 1870; originally known as "Le Chant de Guerre pour l&rsquo;Arm&eacute;e du Rhin" (War Song for the Army of the Rhine), the National Guard of Marseille made the song famous by singing it while marching into Paris in 1792 during the French Revolutionary Wars<br>
+_history_: adopted 1795, restored 1870; acquired its name when the National Guard of Marseille sang the song while marching into Paris in 1792 during the French Revolution; one of the most recognized anthems in the world<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 53 (45 cultural, 7 natural, 1 mixed); note - includes one site in New Caledonia and one site in French Polynesia<br>
@@ -517,9 +526,9 @@ _highest 10%_: 24.6% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $1.229 trillion (2022 est.)<br>
-_expenditures_: $1.362 trillion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $1.29 trillion (2023 est.)<br>
+_expenditures_: $1.447 trillion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 98.5% of GDP (2023 est.)<br>
@@ -623,12 +632,6 @@ _exports_: 13.584 billion cubic meters (2023 est.)<br>
 _imports_: 46.909 billion cubic meters (2023 est.)<br>
 _proven reserves_: 7.787 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 303.779 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 25.355 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 209.4 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 69.025 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 123.526 million Btu/person (2023 est.)<br>
 
@@ -696,14 +699,14 @@ French Armed Forces (Forces Armées Françaises): Army (l'Armee de Terre; includ
 <strong>note 1: </strong>under the direction of the Ministry of the Interior, the civilian National Police and the National Gendarmerie maintain internal security; the National Gendarmerie is a paramilitary police force that is a branch of the Armed Forces and therefore part of the Ministry of Defense but under the jurisdiction of the Ministry of the Interior; it also has additional duties to the Ministry of Justice<br><br><strong>note 2:</strong> the French Foreign Legion, established in 1831, is a military force that is open to foreign recruits willing to serve in the French military for service in France and abroad; the Foreign Legion is an integrated part of the French Army; its combat units are a mix of armored cavalry and airborne, light, mechanized, and motorized infantry regiments<br>
 
 **Military expenditures**<br>
-2.1% of GDP (2024 est.)<br>
-1.9% of GDP (2023)<br>
-1.9% of GDP (2022)<br>
-1.9% of GDP (2021)<br>
-2% of GDP (2020)<br>
+2.1% of GDP (2025 est.)<br>
+2% of GDP (2024 est.)<br>
+1.9% of GDP (2023 est.)<br>
+1.9% of GDP (2022 est.)<br>
+1.9% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 205,000 active-duty Armed Forces (120,000 Army; 35,000 Navy; 40,000 Air Force; 10,000 other, such as joint staffs, administration, logistics, procurement, medical service, etc.); approximately 100,000 National Gendarmerie; approximately 75,000 National Guard (2024)<br>
+approximately 205,000 active duty Armed Forces; approximately 100,000 National Gendarmerie; approximately 75,000 National Guard (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the French military's inventory consists mostly of domestically produced weapons systems, including some jointly produced with other European countries; there is a smaller mix of armaments from other Western countries, particularly the US; France has a large and sophisticated defense industry capable of manufacturing the full spectrum of air, land, and naval military weapons systems (2024)<br>
@@ -722,13 +725,13 @@ the French military has a global footprint and a wide range of missions and resp
 ## Space
 
 **Space agency/agencies**<br>
-National Center for Space Studies (Centre National D'&eacute;tudes Spatiales, CNES; established 1961); established a military Space Command (Le Commandement de l&rsquo;Espace, CDE) under the Air and Space Force, 2020 (2024)<br>
+National Center for Space Studies (Centre National d'Etudes Spatiales, CNES; established 1961) (2025)<br>
 
 **Space launch site(s)**<br>
-Guiana Space Center (Kourou, French Guiana; also serves as the spaceport for the ESA); note &ndash; prior to the completion of the Guiana Space Center in 1969, France launched rockets from Algeria (2024)<br>
+Guiana Space Center (Kourou, French Guiana; also serves as the spaceport for the ESA); note &ndash; prior to the completion of the Guiana Space Center in 1969, France launched rockets from Algeria (2025)<br>
 
 **Space program overview**<br>
-has one of Europe’s largest space programs and is a key member of the European Space Agency (ESA), as well as one of its largest contributors; has independent capabilities in all areas of space categories except for autonomous manned space flight; can build, launch, and operate a range of space/satellite launch vehicles (SLVs) and spacecraft, including exploratory probes and a full spectrum of satellites; trained astronauts until training mission shifted to ESA in 2001; develops a wide range of space-related technologies; hosts the ESA headquarters; participates in international space programs such as the Square Kilometer Array Project (world’s largest radio telescope) and International Space Station (ISS); cooperates with a broad range of space agencies and commercial space companies, including those of China, Egypt, individual ESA and EU member countries, India, Indonesia, Israel, Japan, Mexico, Russia, the UAE, the US, and several African countries; has a large commercial space sector involved in such areas as satellite construction and payloads, launch capabilities, and a range of other space-related capabilities and technologies (2024)<br>
+has one of Europe’s largest space programs and is a key member of the European Space Agency (ESA), as well as one of its largest contributors; has independent capabilities in all areas of space categories except for autonomous manned space flight; can build, launch, and operate a range of space/satellite launch vehicles (SLVs) and spacecraft, including exploratory probes and a full spectrum of satellites; trained astronauts until training mission shifted to ESA in 2001; develops a wide range of space-related technologies; hosts the ESA headquarters and its space launch facility; participates in international space programs such as the Square Kilometer Array Project (world’s largest radio telescope) and International Space Station (ISS); cooperates with a broad range of space agencies and commercial space companies, including those of China, Egypt, individual ESA and EU member countries, India, Indonesia, Israel, Japan, Mexico, Russia, the UAE, the US, and several African countries; has a large commercial space sector involved in such areas as satellite construction and payloads, launch capabilities, and a range of other space-related capabilities and technologies (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -740,6 +743,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 55,681 (Afghanistan), 39,091 (Syria), 33,834 (Sri Lanka), 33,148 (Russia), 31,935 (Democratic Republic of the Congo), 24,223 (Sudan), 21,225 (Guinea), 18,008 (Serbia and Kosovo), 17,032 (Turkey), 13,974 (Iraq), 12,286 (Cote d'Ivoire), 11,489 (Eritrea), 11,012 (Cambodia), 10,543 (China), 10,236 (Albania), 10,210 (Somalia), 8,858 (Bangladesh), 8,124 (Mauritania), 8,101 (Mali), 7,991 (Vietnam), 6,913 (Bosnia and Herzegovina), 6,910 (Haiti), 6,808 (Angola), 6,498 (Laos), 6,417 (Armenia), 6,111 (Nigeria), 5,896 (Georgia) (mid-year 2022); 69,462 (Ukraine) (as of 31 January 2024)<br>
-_stateless persons_: 3,633 (2022)<br>
+_refugees_: 810,325 (2024 est.)<br>
+_IDPs_: 59 (2024 est.)<br>
+_stateless persons_: 2,634 (2024 est.)<br>
 

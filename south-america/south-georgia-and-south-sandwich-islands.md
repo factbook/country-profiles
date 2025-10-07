@@ -101,8 +101,8 @@ none (administered by the UK, claimed by Argentina)<br>
 **International organization participation**<br>
 UPU<br>
 
-**Flag description**<br>
-blue with the UK flag in the upper hoist-side quadrant; the islands' coat of arms is centered on the outer half of the flag and has a green shield with a golden lion holding a torch; a fur seal is to the left of the shield and a Macaroni penguin to the right; a reindeer appears above the crest, and below the shield on a scroll is the motto LEO TERRAM PROPRIAM PROTEGAT (Let the Lion Protect its Own Land); the lion represents the UK and discovery; the seal, penguin, and reindeer are native to the islands<br>
+**Flag**<br>
+<strong>description:</strong> blue with the UK flag in the upper-left quadrant; the islands' coat of arms is centered on the right half of the flag and has a green shield with a golden lion holding a torch; a fur seal is to the left of the shield and a Macaroni penguin to the right; a reindeer appears above the crest, and below the shield on a scroll is the motto LEO TERRAM PROPRIAM PROTEGAT (Let the Lion Protect its Own Land)<br><br><strong>meaning:</strong> the lion represents the UK and discovery; the seal, penguin, and reindeer are native to the islands<br>
 
 ## Economy
 

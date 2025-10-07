@@ -154,16 +154,13 @@ _female_: 62.8 years<br>
 **Gross reproduction rate**<br>
 1.17 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-66.1% (2014)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 97.5% of population<br>
-_improved: rural_: rural: 74.8% of population<br>
-_improved: total_: total: 80.3% of population<br>
-_unimproved: urban_: urban: 2.5% of population<br>
-_unimproved: rural_: rural: 25.2% of population<br>
-_unimproved: total_: total: 19.7% of population (2020 est.)<br>
+_improved: urban_: urban: 98% of population (2022 est.)<br>
+_improved: rural_: rural: 65.5% of population (2022 est.)<br>
+_improved: total_: total: 73.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 34.5% of population (2022 est.)<br>
+_unimproved: total_: total: 26.5% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 7% of GDP (2021)<br>
@@ -173,12 +170,12 @@ _Health expenditure (as % of national budget)_: 11.3% of national budget (2022 e
 0.56 physicians/1,000 population (2023)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 92.3% of population<br>
-_improved: rural_: rural: 83.9% of population<br>
-_improved: total_: total: 85.9% of population<br>
-_unimproved: urban_: urban: 7.7% of population<br>
-_unimproved: rural_: rural: 16.1% of population<br>
-_unimproved: total_: total: 14.1% of population (2020 est.)<br>
+_improved: urban_: urban: 92.4% of population (2022 est.)<br>
+_improved: rural_: rural: 84.2% of population (2022 est.)<br>
+_improved: total_: total: 86.2% of population (2022 est.)<br>
+_unimproved: urban_: urban: 7.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 15.8% of population (2022 est.)<br>
+_unimproved: total_: total: 13.8% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 16.5% (2016)<br>
@@ -236,21 +233,25 @@ _other_: 1.5% (2022 est.)<br>
 _urban population_: 24.8% of total population (2023)<br>
 _rate of urbanization_: 2.42% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 15.07 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 1.16 megatons (2016 est.)<br>
-_methane emissions_: 1.9 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 1.326 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 410,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 916,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+16.4 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 218,199 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 218,200 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 17.3% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 40 million cubic meters (2020 est.)<br>
-_industrial_: 20 million cubic meters (2020 est.)<br>
-_agricultural_: 1.01 billion cubic meters (2020 est.)<br>
+_municipal_: 41.3 million cubic meters (2022 est.)<br>
+_industrial_: 20.7 million cubic meters (2022 est.)<br>
+_agricultural_: 1.006 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-4.51 billion cubic meters (2020 est.)<br>
+4.51 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -341,7 +342,7 @@ _FAX_: [1] (202) 234-8254<br>
 _email address and website_: <br>swaziland@compuserve.com<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant) Charg&eacute; d&rsquo;Affaires Caitlin PIPER (since 27 October 2023)<br>
+_chief of mission_: Ambassador (vacant) Charg&eacute; d&rsquo;Affaires Marc WEINSTOCK (since August 2025)<br>
 _embassy_: Corner of MR 103 and Cultural Center Drive, Ezulwini, P.O. Box D202, The Gables, H106<br>
 _mailing address_: 2350 Mbabane Place, Washington DC&nbsp; 20521-2350<br>
 _telephone_: (268) 2417-9000<br>
@@ -357,8 +358,8 @@ ACP, AfDB, AU, C, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFR
 **National holiday**<br>
 Independence Day (Somhlolo Day), 6 September (1968)<br>
 
-**Flag description**<br>
-three horizontal bands of blue (top), red (triple-width), and blue; the red band is edged in yellow, with a large black-and-white shield in the center and covering two horizontal spears and a staff with feather tassels; blue stands for peace and stability, red for past struggles, and yellow for the mineral resources of the country; the shield, spears, and staff symbolize protection from enemies, and the shield colors stand for ethnic groups living in peaceful coexistence<br>
+**Flag**<br>
+<strong>description:</strong> three horizontal bands of blue (top), red (triple-width), and blue; the red band is edged in yellow, with a large black-and-white shield in the center that covers two horizontal spears and a staff with feather tassels<br><br><strong>meaning:</strong> blue stands for peace and stability, red for past struggles, and yellow for the mineral resources of the country; the shield, spears, and staff symbolize protection from enemies, and the shield colors stand for ethnic groups living in peaceful coexistence<br>
 
 **National symbol(s)**<br>
 lion, elephant<br>
@@ -470,12 +471,12 @@ _highest 10%_: 42.7% (2016 est.)<br>
 
 **Budget**<br>
 _revenues_: $1.217 billion (2021 est.)<br>
-_expenditures_: $1.183 billion (2021 est.)<br>
+_expenditures_: $1.439 billion (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 35.9% of GDP (2021 est.)<br>
-<strong data-olk-copy-source="MessageBody">note:</strong> central government debt as a % of GDP<br>
+<strong>note:</strong> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 24.5% (of GDP) (2021 est.)<br>
@@ -562,11 +563,6 @@ _proven reserves_: 4.644 billion metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 6,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 1.326 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 410,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 916,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 18.823 million Btu/person (2023 est.)<br>
 
@@ -633,4 +629,8 @@ the UEDF has a light and small inventory of mostly older equipment originating f
 the UEDF&rsquo;s primary mission is external defense, which includes mostly securing the borders; it also has domestic security responsibilities, including protecting members of the royal family; the king is the UEDF commander in chief and holds the position of minister of defense, although the UEDF reports to the Army commander and principal undersecretary of defense for day-to-day operations; the Royal Eswatini Police Service (REPS) is responsible for maintaining internal security as well as migration and border crossing enforcement; it is under the prime minister, although the king is the force&rsquo;s titular commissioner in chief; the UEDF was originally created in 1973 as the Royal Swaziland Defense Force (2024)<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 4,459 (2024 est.)<br>
+_IDPs_: 56 (2024 est.)<br>
 

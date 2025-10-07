@@ -127,20 +127,17 @@ _male_: 75.6<br>
 _female_: 79.6<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 78.2% of population<br>
-_improved: total_: total: 95.3% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
 _unimproved: rural_: rural: 21.8% of population<br>
-_unimproved: total_: total: 4.7% of population (2020)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 44.8% (2023 est.)<br>
@@ -164,6 +161,10 @@ _other_: 6.5% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 79.7% of total population (2023)<br>
 _rate of urbanization_: 0.53% annual rate of change (2020-25 est.)<br>
+
+**Carbon dioxide emissions**<br>
+_total emissions_: 36,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 36,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Government
 
@@ -240,8 +241,8 @@ none (overseas territory of the UK; also claimed by Argentina)<br>
 **National holiday**<br>
 Liberation Day, 14 June (1982)<br>
 
-**Flag description**<br>
-blue with the UK flag in the upper hoist-side quadrant and the Falkland Island coat of arms centered on the outer half of the flag; the coat of arms has a white ram above the ship Desire (whose crew discovered the islands), with a scroll at the bottom bearing the motto DESIRE THE RIGHT<br>
+**Flag**<br>
+<strong>description:</strong> blue with the UK flag in the upper-left quadrant and the Falkland Island coat of arms centered on the right half of the flag; the coat of arms has a white ram above the ship "Desire" (whose crew discovered the islands), with a scroll at the bottom bearing the motto DESIRE THE RIGHT<br>
 
 **National symbol(s)**<br>
 ram<br>
@@ -312,10 +313,6 @@ _wind_: 26.1% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 200 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 36,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 36,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

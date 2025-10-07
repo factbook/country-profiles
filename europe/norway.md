@@ -166,16 +166,13 @@ _female_: 84.6 years<br>
 **Gross reproduction rate**<br>
 0.77 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 8.1% of GDP (2022)<br>
@@ -188,12 +185,12 @@ _Health expenditure (as % of national budget)_: 17.8% of national budget (2022 e
 3.4 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 23.1% (2016)<br>
@@ -251,23 +248,32 @@ _urban population_: 84% of total population (2023)<br>
 _rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Svalbard and Jan Mayen Islands<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 6.3 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 41.02 megatons (2016 est.)<br>
-_methane emissions_: 4.81 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 38.535 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2.929 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 25.576 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 10.029 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+7 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 31 kt (2022-2024 est.)<br>
+_agriculture_: 99.8 kt (2019-2021 est.)<br>
+_waste_: 33 kt (2019-2021 est.)<br>
+_other_: 6.2 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2.187 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 572,119 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 26.2% (2015 est.)<br>
+_municipal solid waste generated annually_: 4.15 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 35.3% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 780 million cubic meters (2020 est.)<br>
-_industrial_: 1.07 billion cubic meters (2020 est.)<br>
-_agricultural_: 840 million cubic meters (2020 est.)<br>
+_municipal_: 773.41 million cubic meters (2022 est.)<br>
+_industrial_: 1.071 billion cubic meters (2022 est.)<br>
+_agricultural_: 844.9 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-393 billion cubic meters (2020 est.)<br>
+393 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 5 (2025)<br>
@@ -369,8 +375,8 @@ ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia G
 **National holiday**<br>
 Constitution Day, 17 May (1814)<br>
 
-**Flag description**<br>
-red with a blue cross outlined in white that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors represent Norway's past political unions with Denmark (red and white) and Sweden (blue)<br>
+**Flag**<br>
+<strong>description:</strong> red with a blue cross outlined in white that extends to the edges of the flag; the the cross is shifted to the left side in the style of the Dannebrog (Danish flag)<br><br><strong>meaning:</strong> the colors represent Norway's past political unions with Denmark (red and white) and Sweden (blue)<br>
 
 **National symbol(s)**<br>
 lion<br>
@@ -380,7 +386,7 @@ red, white, blue<br>
 
 **National anthem(s)**<br>
 _title_: "Kongesangen" (Song of the King)<br>
-_lyrics/music_: Bjornstjerne BJORNSON/Rikard NORDRAAK<br>
+_lyrics/music_: Gustav JENSEN<br>
 _history_: royal anthem; uses the tune of "God Save the King," the United Kingdom's anthem<br>
 <strong>note:</strong> since 2011, the patriotic song “Mitt lille land” has been called a new national anthem and is sometimes performed at patriotic events, but it is not used as often as “Ja, vi elsker dette landet”<br>
 
@@ -487,9 +493,9 @@ _highest 10%_: 22% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $334.543 billion (2022 est.)<br>
-_expenditures_: $174.546 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $261.945 billion (2023 est.)<br>
+_expenditures_: $178.156 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 36.5% of GDP (2017 est.)<br>
@@ -585,12 +591,6 @@ _exports_: 117.597 billion cubic meters (2023 est.)<br>
 _imports_: 104.744 million cubic meters (2023 est.)<br>
 _proven reserves_: 1.544 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 38.535 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 2.929 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 25.576 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 10.029 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 206.961 million Btu/person (2023 est.)<br>
 
@@ -652,15 +652,14 @@ Norwegian Armed Forces (Forsvaret or "the Defense"): Norwegian Army (Haeren), Ro
 <strong>note:</strong> the Norwegian Police Service is under the Ministry of Justice and Public Security<br>
 
 **Military expenditures**<br>
-2.2% of GDP (2024 est.)<br>
-1.8% of GDP (2023)<br>
-1.5% of GDP (2022)<br>
-1.7% of GDP (2021)<br>
-2% of GDP (2020)<br>
+3.4% of GDP (2025 est.)<br>
+2.3% of GDP (2024 est.)<br>
+1.8% of GDP (2023 est.)<br>
+1.5% of GDP (2022 est.)<br>
+1.7% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 27,000 active Armed Forces (9,000 Army; 4,300 Navy; 4,700 Air Force; 9,000 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); approximately 40,000 Home Guard (2024)<br>
-<strong>note:</strong> active personnel include about 10,000 conscripts<br>
+approximately 27,000 active military personnel; approximately 40,000 Home Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a mix of modern, imported Western European and US, as well as domestically produced weapons systems and equipment; in 2024, the Norwegian Government announced a new long-term defense plan which would double defense spending by the mid-2030s with priorities placed in such areas as the acquisition of air defenses and naval capabilities; Norway has a defense industry with a focus in niche capabilities and participates in joint development and production of weapons systems with other European countries (2025)<br>
@@ -678,18 +677,18 @@ the Norwegian Armed Forces (Forsvaret) are responsible for protecting Norway and
 ## Space
 
 **Space agency/agencies**<br>
-the Norwegian Space Agency (NOSA, aka Norsk Romsenter; established 1987) (2024)<br>
+the Norwegian Space Agency (NOSA, aka Norsk Romsenter; established 1987) (2025)<br>
 
 **Space launch site(s)**<br>
-And&oslash;ya Space Center (And&oslash;ya Island; note - first operational spaceport in continental Europe) (2024)<br>
+And&oslash;ya Space Center (And&oslash;ya Island; note - first operational spaceport in continental Europe) (2025)<br>
 
 **Space program overview**<br>
-has a broad and active space program coordinated with the European Space Agency (ESA) and the EU; jointly designs and builds satellites with foreign partners, including communications, remote sensing (RS), scientific, and navigational/positional; operates satellites; develops and launches sounding rockets; researches and produces a range of other space-related technologies, including satellite/space launch vehicle (SLV) and space station components, telescopes, and robotics; conducts solar and telecommunications research; participates in international space programs, such as the International Space Station; hosts training for Mars landing missions on the island of Svalbard; active member of the ESA and cooperates with a variety of foreign space agencies and industries, including those of Canada, ESA/EU member states, Japan, Russia, and the US; has an active and advanced space industry that cooperates with both the NOSA and foreign space programs and produces a variety of space-related products, from terminals for satellite communications and technologies for RS satellites to sensors for gamma radiation in deep space (2024)<br>
+has a broad and active space program coordinated with the European Space Agency (ESA) and the EU; jointly designs and builds satellites with foreign partners, including communications, remote sensing (RS), scientific, and navigational/positional; operates satellites; develops and launches sounding rockets; researches and produces a range of other space-related technologies, including satellite/space launch vehicle (SLV) and space station components, telescopes, and robotics; conducts solar and telecommunications research; participates in international space programs, such as the International Space Station; hosts training for Mars landing missions on the island of Svalbard; active member of the ESA and cooperates with a variety of foreign space agencies and industries, including those of Canada, ESA/EU member states, Japan, Russia, and the US; has an active and advanced space industry that cooperates with both the NOSA and foreign space programs and produces a variety of space-related products, from terminals for satellite communications and technologies for RS satellites to sensors for gamma radiation in deep space (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 70,085 (Ukraine) (as of 8 March 2024)<br>
-_stateless persons_: 3,901 (2022)<br>
+_refugees_: 129,894 (2024 est.)<br>
+_stateless persons_: 1,621 (2024 est.)<br>
 

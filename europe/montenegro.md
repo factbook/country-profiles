@@ -165,16 +165,13 @@ _female_: 80.7 years<br>
 **Gross reproduction rate**<br>
 0.89 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-20.7% (2018)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 98.2% of population<br>
-_improved: total_: total: 99.4% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 1.8% of population<br>
-_unimproved: total_: total: 0.6% of population (2020 est.)<br>
+_improved: urban_: urban: 99.2% of population (2022 est.)<br>
+_improved: rural_: rural: 98.2% of population (2022 est.)<br>
+_improved: total_: total: 98.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.8% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.8% of population (2022 est.)<br>
+_unimproved: total_: total: 1.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 10.6% of GDP (2021)<br>
@@ -187,12 +184,12 @@ _Health expenditure (as % of national budget)_: 16.3% of national budget (2022 e
 3.8 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 93.9% of population<br>
-_improved: total_: total: 98% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 6.1% of population<br>
-_unimproved: total_: total: 2% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 93.9% of population (2022 est.)<br>
+_improved: total_: total: 98.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 6.1% of population (2022 est.)<br>
+_unimproved: total_: total: 1.9% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 23.3% (2016)<br>
@@ -254,20 +251,22 @@ _other_: 19.7% (2022 est.)<br>
 _urban population_: 68.5% of total population (2023)<br>
 _rate of urbanization_: 0.45% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 19.3 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 2.02 megatons (2016 est.)<br>
-_methane emissions_: 0.75 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 2.808 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 1.543 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.265 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+17.9 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 332,000 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 17,994 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 5.4% (2015 est.)<br>
+_municipal solid waste generated annually_: 329,800 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 6.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 100 million cubic meters (2020 est.)<br>
-_industrial_: 60 million cubic meters (2020 est.)<br>
-_agricultural_: 1.7 million cubic meters (2017 est.)<br>
+_municipal_: 121.32 million cubic meters (2022 est.)<br>
+_industrial_: 2,078,970,000 cubic meters (2022 est.)<br>
+_agricultural_: 6.76 million cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -368,8 +367,8 @@ CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IF
 Statehood Day, 13 July (1878, 1941)<br>
 <strong>note: </strong>the holiday celebrates the day in 1878 when the Berlin Congress recognized Montenegro as an independent state, as well as the day in 1941 when the Montenegrins staged an uprising against its occupiers<br>
 
-**Flag description**<br>
-a red field bordered with a narrow golden-yellow stripe and the Montenegrin coat of arms in the center; the arms consist of a double-headed golden eagle that symbolizes the unity of church and state, with a crown above; the eagle holds a golden scepter in its right claw and a blue orb in its left; the breast shield over the eagle shows a golden lion on a green field in front of a blue sky; the lion is a symbol of episcopal authority, a reference to the three-and-a-half centuries when Montenegro was ruled as a theocracy<br>
+**Flag**<br>
+<strong>description:</strong> a red field bordered with a narrow golden-yellow stripe; the Montenegrin coat of arms in the center is a double-headed golden eagle, with a crown above; the eagle holds a golden scepter in its right claw and a blue orb in its left; the eagle's breast shield shows a golden lion on a green field in front of a blue sky<br><br><strong>meaning:</strong> the eagle symbolizes the unity of church and state; the lion is a symbol of episcopal authority, a reference to the three-and-a-half centuries when Montenegro was ruled as a theocracy<br>
 
 **National symbol(s)**<br>
 double-headed eagle<br>
@@ -378,7 +377,7 @@ double-headed eagle<br>
 red, gold<br>
 
 **National anthem(s)**<br>
-_title_: "Oj, svijetla majska zoro" (O Bright Dawn of May)<br>
+_title_: "Oj, svijetla majska zoro" (Oh, Bright Dawn of May)<br>
 _lyrics/music_: Sekula DRLJEVIC/unknown, arranged by Zarko MIKOVIC<br>
 _history_: adopted 2004; music based on a Montenegrin folk song<br>
 
@@ -574,11 +573,6 @@ _proven reserves_: 337 million metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 9,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 2.808 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 1.543 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 1.265 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 63.407 million Btu/person (2023 est.)<br>
 
@@ -639,14 +633,14 @@ _key ports_: Bar, Kotor, Risan, Tivat<br>
 Army of Montenegro (Vojska Crne Gore or VCG): Ground Forces, Air Force, Navy <br><br>Ministry of Interior: Police Directorate of Montenegro (2025)<br>
 
 **Military expenditures**<br>
-2% of GDP (2024 est.)<br>
-1.6% of GDP (2023)<br>
-1.4% of GDP (2022)<br>
-1.6% of GDP (2021)<br>
-1.7% of GDP (2020)<br>
+2% of GDP (2025 est.)<br>
+1.7% of GDP (2024 est.)<br>
+1.5% of GDP (2023 est.)<br>
+1.4% of GDP (2022 est.)<br>
+1.6% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 1,600 active-duty Army of Montenegro forces (2024)<br>
+approximately 2,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is small and consists largely of Soviet-era equipment inherited from the former Yugoslavia military, along with a limited but growing mix of imported Western systems (2024)<br>
@@ -663,7 +657,6 @@ the Army of Montenegro is responsible for the defense of Montenegro&rsquo;s sove
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 65,105 (Ukraine) (as of 29 January 2024)<br>
-_stateless persons_: 468 (2022)<br>
-<strong>note:</strong> 34,511 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
+_refugees_: 18,820 (2024 est.)<br>
+_stateless persons_: 423 (2024 est.)<br>
 

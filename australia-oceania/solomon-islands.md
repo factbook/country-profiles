@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Settlers from Papua arrived on the Solomon Islands around 30,000 years ago. About 6,000 years ago, Austronesian settlers came to the islands, and the two groups mixed extensively. Despite significant inter-island trade, no attempts were made to unite the islands into a single political entity. In 1568, a Spanish explorer became the first European to spot the islands. After a failed Spanish attempt at creating a permanent European settlement in the late 1500s, the Solomon Islands remained free of European contact until a British explorer arrived in 1767. European explorers and US and British whaling ships regularly visited the islands into the 1800s.<br><br>Germany declared a protectorate over the northern Solomon Islands in 1885, and the UK established a protectorate over the southern islands in 1893. In 1899, Germany transferred its islands to the UK in exchange for the UK relinquishing all claims in Samoa. In 1942, Japan invaded the islands, and the Guadalcanal Campaign (August 1942-February 1943) proved a turning point in the Pacific war. The fighting destroyed large parts of the Solomon Islands, and a nationalist movement emerged near the end of the war. By 1960, the British allowed some local autonomy. The islands were granted self-government in 1976 and independence two years later under Prime Minister Sir Peter KENILOREA.<br><br>In 1999, longstanding tensions between ethnic Guale in Honiara and ethnic Malaitans in Honiara’s suburbs erupted in civil war, leading thousands of Malaitans to take refuge in Honiara and prompting Guale to flee the city. In 2000, newly elected Prime Minister Manasseh SOGAVARE focused on peace agreements and distributing resources equally among groups, but his actions bankrupted the government in 2001 and led to his ouster. In 2003, the Solomon Islands requested international assistance to reestablish law and order; the Australian-led Regional Assistance Mission to the Solomon Islands, which ended in 2017, improved the security situation. In 2006, however, riots broke out in Honiara, and the city’s Chinatown was burned amid allegations that the prime minister took money from China. SOGAVARE was reelected prime minister for a fourth time in 2019. When a small group of protestors, mostly from the island of Malaita, approached parliament to lodge a petition calling for SOGAVARE’s removal and more development in Malaita in 2021, police fired tear gas into the crowd which sparked rioting and looting in Honiara. </p><br>
+<p>Settlers from Papua arrived on the Solomon Islands around 30,000 years ago. About 6,000 years ago, Austronesian settlers came to the islands, and the two groups mixed extensively. Despite significant inter-island trade, no attempts were made to unite the islands into a single political entity. In 1568, a Spanish explorer became the first European to spot the islands. After a failed Spanish attempt at creating a permanent European settlement in the late 1500s, the Solomon Islands remained free of European contact until a British explorer arrived in 1767. European explorers and US and British whaling ships regularly visited the islands into the 1800s.<br><br>Germany declared a protectorate over the northern Solomon Islands in 1885, and the UK established a protectorate over the southern islands in 1893. In 1899, Germany transferred its islands to the UK in exchange for the UK relinquishing all claims in Samoa. In 1942, Japan invaded the islands, and the Guadalcanal Campaign (August 1942-February 1943) proved a turning point in the Pacific theater of WWII. The fighting destroyed large parts of the Solomon Islands, and a nationalist movement emerged near the end of the war. By 1960, the British allowed some local autonomy. The islands were granted self-government in 1976 and independence two years later under Prime Minister Sir Peter KENILOREA.<br><br>In 1999, longstanding tensions between ethnic Guale in Honiara and ethnic Malaitans in Honiara’s suburbs erupted in civil war, leading thousands of Malaitans to take refuge in Honiara and prompting Guale to flee the city. In 2000, newly elected Prime Minister Manasseh SOGAVARE focused on peace agreements and distributing resources equally among groups, but his actions bankrupted the government in 2001 and led to his ouster. In 2003, the Solomon Islands requested international assistance to reestablish law and order; the Australian-led Regional Assistance Mission to the Solomon Islands, which ended in 2017, improved the security situation. In 2006, however, riots broke out in Honiara, and the city’s Chinatown was burned amid allegations that the prime minister took money from China. SOGAVARE was reelected prime minister for a fourth time in 2019. When a small group of protestors, mostly from the island of Malaita, approached parliament to lodge a petition calling for SOGAVARE’s removal and more development in Malaita in 2021, police fired tear gas into the crowd which sparked rioting and looting in Honiara. </p><br>
 
 ## Geography
 
@@ -159,16 +159,10 @@ _female_: 80 years<br>
 **Gross reproduction rate**<br>
 1.35 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-29.3% (2015)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 95% of population<br>
-_improved: rural_: rural: 65.9% of population<br>
+_improved: rural_: rural: 59.4% of population (2022 est.)<br>
 _improved: total_: total: 73.1% of population<br>
-_unimproved: urban_: urban: 5% of population<br>
-_unimproved: rural_: rural: 34.1% of population<br>
-_unimproved: total_: total: 26.9% of population (2020 est.)<br>
+_unimproved: rural_: rural: 40.6% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.8% of GDP (2021)<br>
@@ -178,12 +172,9 @@ _Health expenditure (as % of national budget)_: 9.7% of national budget (2022 es
 0.24 physicians/1,000 population (2023)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 95.6% of population<br>
-_improved: rural_: rural: 22.6% of population<br>
-_improved: total_: total: 40.6% of population<br>
-_unimproved: urban_: urban: 4.4% of population<br>
-_unimproved: rural_: rural: 77.4% of population<br>
-_unimproved: total_: total: 59.4% of population (2020 est.)<br>
+_improved: rural_: rural: 22.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 77.4% of population (2022 est.)<br>
+_unimproved: total_: total: 59.4% of population<br>
 
 **Obesity - adult prevalence rate**<br>
 22.5% (2016)<br>
@@ -239,16 +230,19 @@ _other_: 5.6% (2022 est.)<br>
 _urban population_: 26% of total population (2023)<br>
 _rate of urbanization_: 3.57% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 7.83 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.17 megatons (2016 est.)<br>
-_methane emissions_: 0.43 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 318,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 318,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+8.8 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 179,972 tons (2013 est.)<br>
+_municipal solid waste generated annually_: 180,000 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 6.1% (2022 est.)<br>
 
 **Total renewable water resources**<br>
-44.7 billion cubic meters (2020 est.)<br>
+44.7 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -316,7 +310,7 @@ _subordinate courts_: Magistrates' Courts; Customary Land Appeal Court; local co
 
 **Political parties**<br>
 Democratic Alliance Party or DAP <br>Kadere Party of Solomon Islands or KAD <br>Ownership, Unity, and Responsibility Party (OUR Party) <br>People First Party or PFP <br>Solomon Islands Democratic Party or SIDP <br>Solomon Islands Party for Rural Advancement or SIPRA <br>Solomon Islands United Party or SIUP <br>United for Change Party or U4C<br>Coalition for Accountability Reform and Empowerment (CARE) (includes DAP, SIDP, and U4C)<br>
-<strong>note:</strong> Solomon Islands politics is characterized by fluid coalitions<br>
+<strong>note:</strong> the Solomon Islands political party system is characterized by fluid coalitions<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jane Mugafalu Kabui WAETARA (since 16 September 2022); note - also Permanent Representative to the UN<br>
@@ -341,16 +335,16 @@ ACP, ADB, AOSIS, C, EITI (candidate country), ESCAP, FAO, G-77, IBRD, ICAO, ICRM
 **National holiday**<br>
 Independence Day, 7 July (1978)<br>
 
-**Flag description**<br>
-divided diagonally by a thin yellow stripe from the lower hoist-side corner; the upper triangle (hoist side) is blue with five white five-pointed stars in an X pattern; the lower triangle is green; blue stands for the ocean, green for the land, and yellow for sunshine; the five stars stand for the main island groups<br>
+**Flag**<br>
+<strong>description: </strong>divided diagonally by a yellow stripe from the lower-left corner; the upper triangle (left side) is blue with five five-pointed white stars in an "X" pattern; the lower triangle is green<br><br><strong>meaning:</strong> blue stands for the ocean, green for the land, and yellow for sunshine; the five stars stand for the main island groups<br>
 
 **National color(s)**<br>
 blue, yellow, green, white<br>
 
 **National anthem(s)**<br>
-_title_: "God Save Our Solomon Islands"<br>
-_lyrics/music_: Panapasa BALEKANA and Matila BALEKANA/Panapasa BALEKANA<br>
-_history_: adopted 1978<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: in use since 1745<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (natural)<br>
@@ -438,8 +432,8 @@ _female_: 3.4% (2024 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $436.2 million (2022 est.)<br>
-_expenditures_: $423.726 million (2022 est.)<br>
+_revenues_: $436.174 million (2022 est.)<br>
+_expenditures_: $482.24 million (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
@@ -523,10 +517,6 @@ _biomass and waste_: 3.6% of total installed capacity (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 2,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 318,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 318,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 5.655 million Btu/person (2023 est.)<br>
 
@@ -587,6 +577,9 @@ in 2017, the Solomon Islands and Australia signed a security treaty allowing Aus
 
 ## Transnational Issues
 
+**Refugees and internally displaced persons**<br>
+_IDPs_: 1,638 (2023 est.)<br>
+
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Solomon Islands remained on Tier 2 Watch List for the second consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/solomon-islands/<br>
+_tier rating_: Tier 2 Watch List — Solomon Islands does not fully meet the minimum standards for the elimination of trafficking, but the government has devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards; therefore, Solomon Islands was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3 and remained on Tier 2 Watch List for the third consecutive year; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/solomon-islands/<br>
 

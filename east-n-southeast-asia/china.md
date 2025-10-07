@@ -87,7 +87,7 @@ overwhelming majority of the population is found in the eastern half of the coun
 frequent typhoons (about five per year along southern and eastern coasts); damaging floods; tsunamis; earthquakes; droughts; land subsidence <br><br><strong>volcanism:</strong> China contains some historically active volcanoes including Changbaishan (also known as Baitoushan, Baegdu, or P'aektu-san), Hainan Dao, and Kunlun although most have been relatively inactive in recent centuries<br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> world's fourth largest country (after Russia, Canada, and US) and largest country situated entirely in Asia; Mount Everest, on the border with Nepal, is the world's tallest peak above sea level<br><br><strong>note 2:</strong> the largest cave chamber in the world is the Miao Room, in the Gebihe cave system at China's Ziyun Getu He Chuandong National Park, which encloses about 10.78 million cu m (380.7 million cu ft); the world's largest sinkhole is the Xiaoxhai Tiankeng sinkhole in Chongqing Municipality, which is 660 m deep, with a volume of 130 million cu m<br>
+<strong>note 1:</strong> world's fourth largest country (after Russia, Canada, and the US) and largest country situated entirely in Asia; Mount Everest, on the border with Nepal, is the world's tallest peak above sea level<br><br><strong>note 2:</strong> the largest cave chamber in the world is the Miao Room, in the Gebihe cave system at China's Ziyun Getu He Chuandong National Park, which encloses about 10.78 million cu m (380.7 million cu ft); the world's largest sinkhole is the Xiaoxhai Tiankeng sinkhole in Chongqing Municipality, which is 660 m deep, with a volume of 130 million cu m<br>
 
 ## People and Society
 
@@ -178,16 +178,13 @@ _female_: 81.7 years<br>
 **Gross reproduction rate**<br>
 0.74 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-84.5% (2017)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 97.3% of population<br>
-_improved: rural_: rural: 91.5% of population<br>
-_improved: total_: total: 95.1% of population<br>
-_unimproved: urban_: urban: 2.7% of population<br>
-_unimproved: rural_: rural: 8.5% of population<br>
-_unimproved: total_: total: 4.9% of population (2020 est.)<br>
+_improved: urban_: urban: 98.4% of population (2022 est.)<br>
+_improved: rural_: rural: 96.4% of population (2022 est.)<br>
+_improved: total_: total: 97.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 3.6% of population (2022 est.)<br>
+_unimproved: total_: total: 2.4% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.4% of GDP (2021)<br>
@@ -200,12 +197,12 @@ _Health expenditure (as % of national budget)_: 8.8% of national budget (2022 es
 5 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 97.6% of population<br>
-_improved: rural_: rural: 90.6% of population<br>
-_improved: total_: total: 94.9% of population<br>
-_unimproved: urban_: urban: 2.4% of population<br>
-_unimproved: rural_: rural: 9.4% of population<br>
-_unimproved: total_: total: 5.1% of population (2020 est.)<br>
+_improved: urban_: urban: 99.5% of population (2022 est.)<br>
+_improved: rural_: rural: 95.3% of population (2022 est.)<br>
+_improved: total_: total: 98% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.5% of population (2022 est.)<br>
+_unimproved: rural_: rural: 4.7% of population (2022 est.)<br>
+_unimproved: total_: total: 2% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 6.2% (2016)<br>
@@ -270,21 +267,32 @@ _urban population_: 64.6% of total population (2023)<br>
 _rate of urbanization_: 1.78% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data do not include Hong Kong and Macau<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 38.15 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 9,893.04 megatons (2016 est.)<br>
-_methane emissions_: 1,490.24 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 12.196 billion metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 9.575 billion metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.847 billion metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 774.076 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+41.4 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 27,832.7 kt (2022-2024 est.)<br>
+_agriculture_: 18,177.8 kt (2019-2021 est.)<br>
+_waste_: 9,402.4 kt (2019-2021 est.)<br>
+_other_: 1,186.9 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 210 million tons (2015 est.)<br>
+_municipal solid waste generated annually_: 395.081 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 24.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 117.01 billion cubic meters (2020 est.)<br>
-_industrial_: 103.04 billion cubic meters (2020 est.)<br>
-_agricultural_: 361.24 billion cubic meters (2020 est.)<br>
+_municipal_: 117.01 billion cubic meters (2022 est.)<br>
+_industrial_: 103.04 billion cubic meters (2022 est.)<br>
+_agricultural_: 361.24 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-2.84 trillion cubic meters (2020 est.)<br>
+2.84 trillion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 49 (2025)<br>
@@ -373,7 +381,7 @@ _email address and website_: <br>chinaemppress_us@mfa.gov.cn<br><br>http://www.c
 _consulate(s) general_: Chicago, Los Angeles, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador-designate David PERDUE (since 16 May 2025)<br>
+_chief of mission_: Ambassador David PERDUE (since 25 July 2025)<br>
 _embassy_: 55 Anjialou Road, Chaoyang District, Beijing 100600<br>
 _mailing address_: 7300 Beijing Place, Washington DC&nbsp; 20521-7300<br>
 _telephone_: [86] (10) 8531-3000<br>
@@ -390,8 +398,8 @@ ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dia
 **National holiday**<br>
 National Day (anniversary of the founding of the People's Republic of China), 1 October (1949)<br>
 
-**Flag description**<br>
-red with a large yellow five-pointed star and four smaller yellow five-pointed stars, arranged in a vertical arc toward the middle of the flag, in the upper hoist-side corner; the color red represents revolution, and the stars symbolize the four social classes -- the working class, the peasantry, the urban petty bourgeoisie, and the national bourgeoisie (capitalists) -- united under the Communist Party of China<br>
+**Flag**<br>
+<strong>description:</strong> red with a large five-pointed yellow star and four smaller ones in the upper-left corner; the small stars are arranged in a vertical arc around the large one<br><br><strong>meaning:</strong> red represents revolution; the stars symbolize the four social classes -- the working class, the peasantry, the urban petty bourgeoisie, and the national bourgeoisie (capitalists) -- united under the Communist Party of China<br>
 
 **National symbol(s)**<br>
 dragon, giant panda<br>
@@ -615,12 +623,6 @@ _exports_: 6.025 billion cubic meters (2023 est.)<br>
 _imports_: 161.808 billion cubic meters (2023 est.)<br>
 _proven reserves_: 6.654 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 12.196 billion metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 9.575 billion metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 1.847 billion metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 774.076 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 113.805 million Btu/person (2023 est.)<br>
 
@@ -677,7 +679,7 @@ _key ports_: Chaozhou, Dalian, Fang-Cheng, Guangzhou, Hankow, Lon Shui Terminal,
 ## Military and Security
 
 **Military and security forces**<br>
-People's Liberation Army (PLA): Ground Forces or People's Liberation Army Army (PLAA), Navy (PLAN, includes Marine Corps (PLANMC)), Air Force (PLAAF), Rocket Force (PLARF), Aerospace Force (ASF), Cyberspace Force (CSF), Information Support Force (ISF), Joint Logistics Support Force (JLSF), People's Armed Police (PAP, includes Coast Guard, Border Defense Force, Internal Security Forces); PLA Reserve Force (2025)<br>
+People's Liberation Army (PLA): Ground Forces or People's Liberation Army Army (PLAA), Navy (PLAN, includes Marine Corps (PLANMC)), Air Force (PLAAF), Rocket Force (PLARF), Aerospace Force (ASF), Cyberspace Force (CSF), Information Support Force (ISF), Joint Logistics Support Force (JLSF); People's Armed Police (PAP, includes Coast Guard, Border Defense Force, Internal Security Forces); PLA Reserve Force (2025)<br>
 <strong>note 1:</strong> the PAP is a paramilitary police component of China’s armed forces that is under the dual authority of the Central Committee of the Communist Party and the Central Military Commission; the China Coast Guard (CCG) is subordinate to the PAP<br><br><strong>note 2: </strong>the PLA (established 1927) is the military arm of the ruling Chinese Communist Party (CCP), which oversees the PLA through its Central Military Commission (CMC); the CMC is China’s top military decision making body<br>
 
 **Military expenditures**<br>
@@ -707,23 +709,24 @@ the People's Liberation Army (PLA) is the world’s largest military; the PLA's 
 ## Space
 
 **Space agency/agencies**<br>
-China National Space Administration (CNSA; established in 1993); Administration for Science, Technology, and Industry for National Defense (SASTIND; subordinate to the Ministry of Industry and Information Technology); People&rsquo;s Liberation Army (PLA) Aerospace Force (in 2024, the PLA created the Aerospace Force from the former Strategic Support Force, which had included the Space Systems Department and the China Manned Space Engineering Office or CMSEO) (2024)<br>
+China National Space Administration (CNSA; established in 1993); Administration for Science, Technology, and Industry for National Defense (SASTIND; subordinate to the Ministry of Industry and Information Technology); People’s Liberation Army (PLA) Aerospace Force (2025)<br>
+<strong>note:</strong> in 2024, the PLA created the Aerospace Force from the former Strategic Support Force, which had included the Space Systems Department and the China Manned Space Engineering Office or CMSEO)<br>
 
 **Space launch site(s)**<br>
-Jiuquan Launch Center (Inner Mongolia), Xichang Launch Center (Sichuan), Wenchang Launch Center (Hainan; Wenchang includes a commercial launch pad, the Hainan Commercial Space Launch Site, which became operational in December 2024), Taiyuan Launch Center (Shanxi), Eastern Spaceport (Shandong; a coastal spaceport designed to facilitate maritime launches); note - China also has a ship capable of conducting space launches (2024)<br>
+Jiuquan Launch Center (Inner Mongolia); Xichang Launch Center (Sichuan); Wenchang Launch Center (Hainan; Wenchang includes a commercial launch pad, the Hainan Commercial Space Launch Site, which became operational in December 2024); Taiyuan Launch Center (Shanxi); Eastern Spaceport (Shandong; a coastal spaceport designed to facilitate maritime launches) (2025)<br>
 
 **Space program overview**<br>
-has a large, comprehensive, and ambitious space program and is considered one of the world’s leading space powers; capable of manufacturing and operating the full spectrum of space launch vehicles (SLVs) and spacecraft, including human-crewed satellite launchers, lunar/inter-planetary/asteroid probes, satellites (communications, remote sensing, navigational, scientific, etc.), space stations, and reusable space transportation systems such as orbital space planes/shuttles; trains astronauts; researches and develops a range of space-related capabilities, including advanced telecommunications, optics, spacecraft components, and satellite payloads; participates in international space programs and co-leads (with Australia and Japan) the Global Earth Observation System of Systems; has signed space cooperation agreements with more than 30 countries, including Brazil, Canada, France, and Russia, as well as the European Space Agency; has a space industry dominated by two state-owned aerospace enterprises, but has developed a substantial commercial space sector, including launch services (2024)<br>
+has a large, comprehensive, and ambitious space program and is considered one of the world’s leading space powers; capable of manufacturing and operating the full spectrum of space launch vehicles (SLVs) and spacecraft, including human-crewed, lunar/inter-planetary/asteroid probes, satellites (communications, remote sensing, navigational, scientific, etc.), space stations, and reusable space transportation systems such as orbital space planes/shuttles; has an astronaut/taikonaut program; researches and develops a range of space-related capabilities, including advanced telecommunications, optics, spacecraft components, and satellite payloads; participates in international space programs and co-leads (with Australia and Japan) the Global Earth Observation System of Systems; has signed space cooperation agreements with more than 45 national space agencies, including those of Brazil, Canada, France, and Russia, as well several international organizations; it has also cooperated with the European Space Agency; has a space industry dominated by two state-owned aerospace enterprises, but has developed a substantial commercial space sector, including launch services (2025)<br>
 <strong>note 1:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br><br><strong>note 2:</strong> the US NASA is barred by a 2011 law from cooperating with the Chinese bilaterally in space unless approved by the US Congress; the US objected to China’s participation in the International Space Station program<br>
 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 303,107 (Vietnam), undetermined (North Korea) (mid-year 2021)<br>
-_IDPs_: undetermined (2021)<br>
+_refugees_: 814 (2024 est.)<br>
+_IDPs_: 198,400 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 — China does not fully meet the minimum standards for elimination of trafficking and is not making significant efforts to do so, therefore, China remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/china/<br>
+_tier rating_: Tier 3 — China does not fully meet the minimum standards for elimination of trafficking and is not making significant efforts to do so, therefore, China remained on Tier 3; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/china/<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>

@@ -147,20 +147,13 @@ _female_: 78.5 years<br>
 **Gross reproduction rate**<br>
 1 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
 _improved: total_: total: 99.8% of population<br>
 _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 99% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 1% of population (2020 est.)<br>
+_improved: total_: total: 98.5% of population (2022 est.)<br>
+_unimproved: total_: total: 1.5% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 53.5% (2023 est.)<br>
@@ -185,8 +178,12 @@ _other_: 0.2% (2022 est.)<br>
 _urban population_: 87.2% of total population (2023)<br>
 _rate of urbanization_: 0.26% annual rate of change (2020-25 est.)<br>
 
+**Carbon dioxide emissions**<br>
+_total emissions_: 389,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 389,000 metric tonnes of CO2 (2023 est.)<br>
+
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 18,989 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 19,000 tons (2024 est.)<br>
 
 ## Government
 
@@ -210,7 +207,7 @@ _time difference_: UTC-11 (6 hours behind Washington, DC, during Standard Time)<
 <strong>note:</strong> pronounced PAHN-go PAHN-go<br>
 
 **Administrative divisions**<br>
-none (territory of the US); there are no first-order administrative divisions as defined by the US Government, but there are 3 districts and 2 islands* at the second order; Eastern, Manu'a, Rose Island*, Swains Island*, Western<br>
+none (territory of the US); no first-order administrative divisions as defined by the US Government, but 3 districts and 2 islands* are considered second-order; Eastern, Manu'a, Rose Island*, Swains Island*, Western<br>
 
 **Legal system**<br>
 mixed legal system of US common law and customary law<br>
@@ -261,8 +258,8 @@ none (territory of the US)<br>
 **National holiday**<br>
 Flag Day, 17 April (1900)<br>
 
-**Flag description**<br>
-a large white triangle edged in red that is based on the fly side and extends to the hoist side and is charged with an eagle, all on a blue field; the red, white, and blue colors are traditionally used by both the United States and Samoa; the brown and white American bald eagle carries two traditional Samoan symbols of authority, a war club known as a <em>fa'alaufa'i</em> (upper), and a coconut-fiber fly whisk known as a <em>fue </em>(lower); the combination of symbols reflects the US Great Seal and the relationship between the US and American Samoa<br>
+**Flag**<br>
+<strong>description:</strong> a large white triangle edged in red is based on the right side and extends to the left side, and it is on a dark blue field; a bald eagle holding a Samoan war club (<em>fa'alaufa'i</em>) and a coconut-fiber fly whisk (<em>fue</em>) sits on the right side of the flag<br><br><strong>meaning: </strong>the war club and fly whisk are traditional Samoan symbols of authority; the eagle carrying two objects echoes the US Great Seal and reflects the relationship between the United States and American Samoa; the red, white, and blue colors are traditionally used by both countries<br>
 
 **National symbol(s)**<br>
 a <em>fue </em>(coconut fiber fly whisk that represents wisdom) crossed with a <em>to'oto'o</em> (staff that represents authority)<br>
@@ -350,10 +347,6 @@ _solar_: 2.9% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 3,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 389,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 389,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 89.105 million Btu/person (2019 est.)<br>

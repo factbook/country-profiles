@@ -163,16 +163,13 @@ _female_: 74.3 years<br>
 **Gross reproduction rate**<br>
 1 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-29.9% (2019/20)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 95.6% of population<br>
-_improved: total_: total: 96.8% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 4.4% of population<br>
-_unimproved: total_: total: 3.2% of population (2020 est.)<br>
+_improved: urban_: urban: 96% of population (2022 est.)<br>
+_improved: rural_: rural: 95.8% of population (2022 est.)<br>
+_improved: total_: total: 95.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 4.2% of population (2022 est.)<br>
+_unimproved: total_: total: 4.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.9% of GDP (2021)<br>
@@ -185,12 +182,12 @@ _Health expenditure (as % of national budget)_: 10.5% of national budget (2022 e
 2.6 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 97.8% of population<br>
-_improved: rural_: rural: 95.4% of population<br>
-_improved: total_: total: 96% of population<br>
-_unimproved: urban_: urban: 2.2% of population<br>
-_unimproved: rural_: rural: 4.6% of population<br>
-_unimproved: total_: total: 4% of population (2020 est.)<br>
+_improved: urban_: urban: 98.7% of population (2022 est.)<br>
+_improved: rural_: rural: 99.5% of population (2022 est.)<br>
+_improved: total_: total: 99.3% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.5% of population (2022 est.)<br>
+_unimproved: total_: total: 0.7% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 20.2% (2016)<br>
@@ -251,23 +248,31 @@ _other_: 1.2% (2022 est.)<br>
 _urban population_: 27.2% of total population (2023)<br>
 _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 11.11 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 2.38 megatons (2016 est.)<br>
-_methane emissions_: 1.81 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 2.639 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.635 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 4,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+11.2 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 103 kt (2022-2024 est.)<br>
+_agriculture_: 51.9 kt (2019-2021 est.)<br>
+_waste_: 7.7 kt (2019-2021 est.)<br>
+_other_: 2.2 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 179,252 tons (2010 est.)<br>
-_municipal solid waste recycled annually_: 968 tons (2010 est.)<br>
-_percent of municipal solid waste recycled_: 0.5% (2010 est.)<br>
+_municipal solid waste generated annually_: 179,300 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 23% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 60 million cubic meters (2020 est.)<br>
-_industrial_: 20 million cubic meters (2020 est.)<br>
-_agricultural_: 1.36 billion cubic meters (2020 est.)<br>
+_municipal_: 61.3 million cubic meters (2022 est.)<br>
+_industrial_: 20.4 million cubic meters (2022 est.)<br>
+_agricultural_: 1.363 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-271 billion cubic meters (2020 est.)<br>
+271 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -315,7 +320,7 @@ _cabinet_: Cabinet of Ministers appointed by the president, responsible to the N
 _election/appointment process_: the predesignated candidate of the winning party in the last National Assembly election becomes president for a 5-year term (no term limits); prime minister appointed by the president<br>
 _most recent election date_: 2 March 2020<br>
 _election results_: <br><em>2020:</em> Mohammed Irfaan ALI (PPP/C) designated president by the majority party in the National Assembly<br><br><em>2015:</em> David GRANGER (APNU-AFC) designated president by the majority party in the National Assembly<br>
-_expected date of next election_: 2025<br>
+_expected date of next election_: 1 September 2025<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -326,10 +331,10 @@ _number of seats_: 69 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 3/2/2020<br>
+_most recent election date_: 9/1/2025<br>
 _parties elected and seats per party_: People's Progressive Party/Civic (PPP/C) (33); A Partnership for National Unity - Alliance for Change (APNU-AFC) (31); Other (1)<br>
 _percentage of women in chamber_: 39.4%<br>
-_expected date of next election_: September 2025<br>
+_expected date of next election_: August 2030<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Judicature (consists of the Court of Appeal with a chief justice and 3 justices, and the High Court with a chief justice and 10 justices organized into 3- or 5-judge panels); Caribbean Court of Justice is the final court of appeal in civil and criminal cases<br>
@@ -364,8 +369,8 @@ ACP, ACS, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, 
 **National holiday**<br>
 Republic Day, 23 February (1970)<br>
 
-**Flag description**<br>
-green with a red isosceles triangle (based on the hoist side) on top of a long, yellow arrowhead; a narrow black border sits between the red and yellow, and a narrow white border between the yellow and green; green stands for forest and foliage, yellow for mineral resources and a bright future, white for the rivers, red for zeal and the people's sacrifice, and black for perseverance<br>
+**Flag**<br>
+<strong>description:</strong> green with a red isosceles triangle (based on the left side) on top of a long yellow arrowhead shape that extends to the opposite side of the flag; a narrow black border sits between the red and yellow, and a narrow white border between the yellow and green<br><br><strong>meaning:</strong> green stands for forest and foliage, yellow for mineral resources and a bright future, white for the rivers, red for zeal and the people's sacrifice, and black for perseverance<br>
 
 **National symbol(s)**<br>
 Canje pheasant (hoatzin), jaguar, Victoria Regia water lily<br>
@@ -457,6 +462,9 @@ _female_: 28.1% (2024 est.)<br>
 _revenues_: $1.333 billion (2019 est.)<br>
 _expenditures_: $1.467 billion (2019 est.)<br>
 
+**Public debt**<br>
+50.7% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 $2.352 billion (2023 est.)<br>
 $4.242 billion (2022 est.)<br>
@@ -535,11 +543,6 @@ _refined petroleum consumption_: 18,000 bbl/day (2023 est.)<br>
 _consumption_: 1.991 million cubic meters (2023 est.)<br>
 _imports_: 1.991 million cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 2.639 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 2.635 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 4,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 46.045 million Btu/person (2023 est.)<br>
 
@@ -615,5 +618,5 @@ the Guyana Defense Force (GDF) was established in 1965; its primary missions are
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,676 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2023)<br>
+_refugees_: 79 (2024 est.)<br>
 

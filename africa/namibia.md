@@ -173,16 +173,13 @@ _female_: 67.6 years<br>
 **Gross reproduction rate**<br>
 1.43 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-56.1% (2013)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 98.9% of population<br>
-_improved: rural_: rural: 83.2% of population<br>
-_improved: total_: total: 91.4% of population<br>
-_unimproved: urban_: urban: 1.1% of population<br>
-_unimproved: rural_: rural: 16.8% of population<br>
-_unimproved: total_: total: 8.6% of population (2020 est.)<br>
+_improved: urban_: urban: 96.2% of population (2022 est.)<br>
+_improved: rural_: rural: 73.8% of population (2022 est.)<br>
+_improved: total_: total: 85.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 3.8% of population (2022 est.)<br>
+_unimproved: rural_: rural: 26.2% of population (2022 est.)<br>
+_unimproved: total_: total: 14.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 9.4% of GDP (2021)<br>
@@ -192,12 +189,12 @@ _Health expenditure (as % of national budget)_: 11.7% of national budget (2022 e
 0.55 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 70.6% of population<br>
-_improved: rural_: rural: 23.6% of population<br>
-_improved: total_: total: 48.1% of population<br>
-_unimproved: urban_: urban: 29.4% of population<br>
-_unimproved: rural_: rural: 76.4% of population<br>
-_unimproved: total_: total: 51.9% of population (2020 est.)<br>
+_improved: urban_: urban: 70.6% of population (2022 est.)<br>
+_improved: rural_: rural: 23.6% of population (2022 est.)<br>
+_improved: total_: total: 49% of population (2022 est.)<br>
+_unimproved: urban_: urban: 29.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 76.4% of population (2022 est.)<br>
+_unimproved: total_: total: 51% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 17.2% (2016)<br>
@@ -245,23 +242,31 @@ _other_: 45% (2022 est.)<br>
 _urban population_: 54.9% of total population (2023)<br>
 _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 11.81 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 4.23 megatons (2016 est.)<br>
-_methane emissions_: 10.4 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 3.46 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 48,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 3.412 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+11.8 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 2.1 kt (2022-2024 est.)<br>
+_agriculture_: 193.6 kt (2019-2021 est.)<br>
+_waste_: 13.7 kt (2019-2021 est.)<br>
+_other_: 0.9 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 256,729 tons (1993 est.)<br>
-_municipal solid waste recycled annually_: 11,553 tons (2005 est.)<br>
-_percent of municipal solid waste recycled_: 4.5% (2005 est.)<br>
+_municipal solid waste generated annually_: 256,700 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 19.6% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 70 million cubic meters (2020 est.)<br>
-_industrial_: 10 million cubic meters (2020 est.)<br>
-_agricultural_: 201 million cubic meters (2020 est.)<br>
+_municipal_: 61.568 million cubic meters (2022 est.)<br>
+_industrial_: 18.61 million cubic meters (2022 est.)<br>
+_agricultural_: 201 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-39.91 billion cubic meters (2020 est.)<br>
+39.91 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -372,8 +377,8 @@ ACP, AfDB, AU, C, CD, CPLP (associate observer), FAO, G-77, IAEA, IBRD, ICAO, IC
 **National holiday**<br>
 Independence Day, 21 March (1990)<br>
 
-**Flag description**<br>
-a wide red stripe edged with narrow white stripes divides the flag diagonally from lower hoist corner to upper fly corner; the upper triangle is blue and has a golden-yellow, 12-rayed sunburst, and the lower triangle is green; red stands for the heroism of the people and their determination to build a future of equal opportunity; white stands for peace, unity, tranquility, and harmony; blue stands for the sky and the Atlantic Ocean, the sun for power and existence, and green for vegetation and agricultural resources<br>
+**Flag**<br>
+<strong>description:</strong> a wide red stripe edged with narrow white stripes divides the flag diagonally from lower-left corner to upper-right corner; the upper triangle is blue and has a golden-yellow, 12-ray sunburst, and the lower triangle is green<br><br><strong>meaning:</strong> red stands for the heroism of the people and their determination to build a future of equal opportunity; white stands for peace, unity, tranquility, and harmony; blue stands for the sky and the Atlantic Ocean, the sun for power and existence, and green for vegetation and agricultural resources<br>
 
 **National symbol(s)**<br>
 oryx (antelope)<br>
@@ -485,9 +490,9 @@ _highest 10%_: 47.2% (2015 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $3.998 billion (2022 est.)<br>
-_expenditures_: $4.535 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $4.415 billion (2023 est.)<br>
+_expenditures_: $4.779 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 4.64% of GDP (2019 est.)<br>
@@ -577,11 +582,6 @@ _refined petroleum consumption_: 23,000 bbl/day (2023 est.)<br>
 **Natural gas**<br>
 _proven reserves_: 62.297 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 3.46 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 48,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 3.412 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 21.734 million Btu/person (2023 est.)<br>
 
@@ -665,5 +665,7 @@ the NDF’s primary responsibility is defending Namibia's territorial integrity 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,288 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
+_refugees_: 6,575 (2024 est.)<br>
+_IDPs_: 1,399 (2024 est.)<br>
+_stateless persons_: 14,796 (2024 est.)<br>
 

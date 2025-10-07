@@ -171,16 +171,13 @@ _female_: 73.3 years<br>
 **Gross reproduction rate**<br>
 1.06 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-56.3% (2014)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.3% of population<br>
-_improved: rural_: rural: 80.6% of population<br>
-_improved: total_: total: 85.1% of population<br>
-_unimproved: urban_: urban: 0.7% of population<br>
-_unimproved: rural_: rural: 19.4% of population<br>
-_unimproved: total_: total: 14.9% of population (2020 est.)<br>
+_improved: urban_: urban: 93.6% of population (2022 est.)<br>
+_improved: rural_: rural: 72.8% of population (2022 est.)<br>
+_improved: total_: total: 78% of population (2022 est.)<br>
+_unimproved: urban_: urban: 6.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 27.2% of population (2022 est.)<br>
+_unimproved: total_: total: 22% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 7.5% of GDP (2021)<br>
@@ -193,12 +190,12 @@ _Health expenditure (as % of national budget)_: 7% of national budget (2022 est.
 0.7 beds/1,000 population (2018 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 69.3% of population<br>
-_improved: total_: total: 76.8% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 30.7% of population<br>
-_unimproved: total_: total: 23.2% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 79.6% of population (2022 est.)<br>
+_improved: total_: total: 84.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 20.4% of population (2022 est.)<br>
+_unimproved: total_: total: 15.3% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 3.9% (2016)<br>
@@ -264,21 +261,25 @@ _other_: 21.4% (2022 est.)<br>
 _urban population_: 25.6% of total population (2023)<br>
 _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 17.8 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 9.92 megatons (2016 est.)<br>
-_methane emissions_: 14.88 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 18.779 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 8.026 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 10.753 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+18.4 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1.089 million tons (2014 est.)<br>
+_municipal solid waste generated annually_: 1.089 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 12.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 100 million cubic meters (2020 est.)<br>
-_industrial_: 30 million cubic meters (2020 est.)<br>
-_agricultural_: 2.05 billion cubic meters (2020 est.)<br>
+_municipal_: 98 million cubic meters (2022 est.)<br>
+_industrial_: 33 million cubic meters (2022 est.)<br>
+_agricultural_: 2.053 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-476.1 billion cubic meters (2020 est.)<br>
+476.1 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -331,7 +332,6 @@ _election/appointment process_: monarch chosen by the 9-member Royal Council of 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
 _legislative structure_: bicameral<br>
-<strong>note:</strong> the EU, UN, and US condemned the July 2023 National Assembly election as neither free nor fair<br>
 
 **Legislative branch - lower chamber**<br>
 _chamber name_: National Assembly (Radhsphea Ney Preah Recheanachakr Kampuchea)<br>
@@ -343,7 +343,6 @@ _most recent election date_: 7/23/2023<br>
 _parties elected and seats per party_: Cambodian People's Party (CPP) (120); Other (5)<br>
 _percentage of women in chamber_: 13.6%<br>
 _expected date of next election_: July 2028<br>
-<strong>note:</strong> the EU, UN, and US condemned the July 2023 National Assembly election as neither free nor fair<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate<br>
@@ -387,8 +386,8 @@ ADB, ARF, ASEAN, CICA, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, I
 **National holiday**<br>
 Independence Day, 9 November (1953)<br>
 
-**Flag description**<br>
-three horizontal bands of blue (top), red (double-width), and blue, with a white, three-towered temple representing Angkor Wat outlined in black in the center of the red band; red and blue are traditional Cambodian colors<br>
+**Flag**<br>
+<strong>description:</strong> three horizontal bands of blue (top), red (double-width), and blue; a three-towered, stylized white temple outlined in black is in the center of the red band, representing Angkor Wat<br><br><strong>meaning:</strong> red and blue are traditional Cambodian colors<br>
 <strong>note:</strong> only national flag to prominently incorporate an identifiable building into its design; Afghanistan, San Marino, Portugal, and Spain show small generic buildings as part of their coats of arms on the flag<br>
 
 **National symbol(s)**<br>
@@ -396,6 +395,9 @@ Angkor Wat temple, kouprey (wild ox)<br>
 
 **National color(s)**<br>
 red, blue<br>
+
+**National coat of arms**<br>
+Cambodia’s coat of arms is also the Royal Arms of Cambodia; the lions symbolize strength, courage, and the divine protection of the monarchs; the lion on the left is a <em>gajasingha</em> (a lion with an elephant’s trunk), and the lion on the right is a <em>rajasingha</em> (royal lion); both hold five-tiered umbrellas representing the king and queen, and they stand on a blue ribbon that says “<em>Preah Chao Krung Kampuche”</em>' (King of the Kingdom of Cambodia); between the lions is a crown with the Unalome, the Buddhist and Hindu symbol for the spiritual path to enlightenment, under it and a ray of light on top<br>
 
 **National anthem(s)**<br>
 _title_: "Nokoreach" (Royal Kingdom)<br>
@@ -492,13 +494,13 @@ _on alcohol and tobacco_: 1.9% of household expenditures (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $5.9 billion (2020 est.)<br>
-_expenditures_: $4.666 billion (2020 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $7.076 billion (2023 est.)<br>
+_expenditures_: $8.285 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 50.3% of GDP (2023 est.)<br>
-<strong data-olk-copy-source="MessageBody">note:</strong> central government debt as a % of GDP<br>
+<strong>note:</strong> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 12.2% (of GDP) (2023 est.)<br>
@@ -582,11 +584,6 @@ _imports_: 4.36 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 77,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 18.779 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 8.026 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 10.753 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 15.664 million Btu/person (2023 est.)<br>
@@ -676,7 +673,9 @@ the primary responsibilities of the Royal Cambodian Armed Forces (RCAF) are bord
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 75,000 (2022)<br>
+_refugees_: 28 (2024 est.)<br>
+_IDPs_: 2,526 (2024 est.)<br>
+_stateless persons_: 75,000 (2024 est.)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 — Cambodia does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Cambodia remained on Tier 3; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/cambodia/<br>

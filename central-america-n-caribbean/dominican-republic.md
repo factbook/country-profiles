@@ -167,16 +167,13 @@ _female_: 74.3 years<br>
 **Gross reproduction rate**<br>
 1.06 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-62.8% (2019)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 98.3% of population<br>
-_improved: rural_: rural: 91.7% of population<br>
-_improved: total_: total: 97.2% of population<br>
-_unimproved: urban_: urban: 1.7% of population<br>
-_unimproved: rural_: rural: 8.3% of population<br>
-_unimproved: total_: total: 2.8% of population (2020 est.)<br>
+_improved: urban_: urban: 97.8% of population (2022 est.)<br>
+_improved: rural_: rural: 91.4% of population (2022 est.)<br>
+_improved: total_: total: 96.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 2.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 8.6% of population (2022 est.)<br>
+_unimproved: total_: total: 3.2% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.9% of GDP (2021)<br>
@@ -189,12 +186,12 @@ _Health expenditure (as % of national budget)_: 14.4% of national budget (2022 e
 1.4 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 97.4% of population<br>
-_improved: rural_: rural: 91.3% of population<br>
-_improved: total_: total: 96.3% of population<br>
-_unimproved: urban_: urban: 2.6% of population<br>
-_unimproved: rural_: rural: 8.7% of population<br>
-_unimproved: total_: total: 3.7% of population (2020 est.)<br>
+_improved: urban_: urban: 97.4% of population (2022 est.)<br>
+_improved: rural_: rural: 91.9% of population (2022 est.)<br>
+_improved: total_: total: 96.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 2.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 8.1% of population (2022 est.)<br>
+_unimproved: total_: total: 3.5% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 27.6% (2016)<br>
@@ -259,23 +256,26 @@ _other_: 4.6% (2022 est.)<br>
 _urban population_: 84.4% of total population (2023)<br>
 _rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 7.59 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 25.26 megatons (2016 est.)<br>
-_methane emissions_: 8.1 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 29.713 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 5.374 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 19.872 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 4.467 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+8 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 4,063,910 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 333,241 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 8.2% (2015 est.)<br>
+_municipal solid waste generated annually_: 4.064 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 11.6% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 860 million cubic meters (2020 est.)<br>
-_industrial_: 660 million cubic meters (2020 est.)<br>
-_agricultural_: 7.56 billion cubic meters (2020 est.)<br>
+_municipal_: 855 million cubic meters (2022 est.)<br>
+_industrial_: 659.9 million cubic meters (2022 est.)<br>
+_agricultural_: 7.563 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-23.5 billion cubic meters (2020 est.)<br>
+23.5 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -387,8 +387,8 @@ ACP, ACS, AOSIS, BCIE, Caricom (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBR
 **National holiday**<br>
 Independence Day, 27 February (1844)<br>
 
-**Flag description**<br>
-a centered white cross extends to the edges and divides the flag into four rectangles; the top ones are ultramarine blue (hoist side) and vermilion red, and the bottom ones are vermilion red (hoist side) and ultramarine blue; a small coat of arms featuring a shield supported by a laurel branch (left) and a palm branch (right) is at the center of the cross; above the shield a blue ribbon displays the motto DIOS, PATRIA, LIBERTAD (God, Fatherland, Liberty), and below the shield, REPUBLICA DOMINICANA appears on a red ribbon; in the shield, a Bible is opened to a verse that reads "Y la verdad nos hara libre" (And the truth shall set you free); blue stands for liberty, white for salvation, and red for the blood of heroes<br>
+**Flag**<br>
+<strong>description:</strong> a centered white cross extends to the edges and divides the flag into four rectangles; the top ones are ultramarine blue (left side) and vermilion red, and the bottom ones are vermilion red (left side) and ultramarine blue; a small coat of arms with a shield supported by a laurel branch and a palm branch is at the center of the cross; above the shield, a blue ribbon displays the motto DIOS, PATRIA, LIBERTAD (God, Fatherland, Liberty); below the shield, REPUBLICA DOMINICANA is on a red ribbon; on the shield, a Bible is opened to a verse that reads "Y la verdad nos hara libre" (And the truth shall set you free)<br><br><strong>meaning:</strong> blue stands for liberty, white for salvation, and red for the blood of heroes<br>
 
 **National symbol(s)**<br>
 palmchat (bird)<br>
@@ -504,9 +504,12 @@ _highest 10%_: 29.1% (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $18.303 billion (2022 est.)<br>
-_expenditures_: $20.072 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $20.418 billion (2023 est.)<br>
+_expenditures_: $24.348 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+34.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 14.5% (of GDP) (2023 est.)<br>
@@ -595,12 +598,6 @@ _consumption_: 2.277 billion cubic meters (2023 est.)<br>
 _exports_: 1.997 million cubic meters (2023 est.)<br>
 _imports_: 2.279 billion cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 29.713 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 5.374 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 19.872 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 4.467 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 39.329 million Btu/person (2023 est.)<br>
 
@@ -686,11 +683,8 @@ the military is responsible for defending the independence, integrity, and sover
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 121,141 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2023)<br>
-_stateless persons_: 133,770 (2016); note - a September 2013 Constitutional Court ruling revoked the citizenship of those born after 1929 to immigrants without proper documentation, even though the constitution at the time automatically granted citizenship to children born in the Dominican Republic and the 2010 constitution provides that constitutional provisions cannot be applied retroactively; the decision overwhelmingly affected people of Haitian descent whose relatives had come to the Dominican Republic since the 1890s as a cheap source of labor for sugar plantations; a May 2014 law passed by the Dominican Congress regularizes the status of those with birth certificates but will require those without them to prove they were born in the Dominican Republic and to apply for naturalization; the government has issued documents to thousands of individuals who may claim citizenship under this law, but no official estimate has been released<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore the Dominican Republic remained on Tier 2 Watch List for the second consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/dominican-republic/<br>
+_refugees_: 1,004 (2024 est.)<br>
+_IDPs_: 390 (2023 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country (2025)<br>

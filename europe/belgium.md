@@ -164,16 +164,13 @@ _female_: 85 years<br>
 **Gross reproduction rate**<br>
 0.86 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-66.7% (2018)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 11% of GDP (2021)<br>
@@ -186,12 +183,12 @@ _Health expenditure (as % of national budget)_: 15.2% of national budget (2022 e
 5.5 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 22.1% (2016)<br>
@@ -251,23 +248,26 @@ _other_: 32.8% (2022 est.)<br>
 _urban population_: 98.2% of total population (2023)<br>
 _rate of urbanization_: 0.38% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 11.26 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 96.89 megatons (2016 est.)<br>
-_methane emissions_: 7.78 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 112.083 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 8.166 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 76.635 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 27.282 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+12.3 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 4.708 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 1,614,985 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 34.3% (2015 est.)<br>
+_municipal solid waste generated annually_: 4.766 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 31.7% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 740 million cubic meters (2020 est.)<br>
-_industrial_: 3.47 billion cubic meters (2020 est.)<br>
-_agricultural_: 50 million cubic meters (2020 est.)<br>
+_municipal_: 740.19 million cubic meters (2022 est.)<br>
+_industrial_: 4.14 billion cubic meters (2022 est.)<br>
+_agricultural_: 41.97 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-18.3 billion cubic meters (2020 est.)<br>
+18.3 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 2 (2024)<br>
@@ -363,7 +363,7 @@ _email address and website_: <br>Washington@diplobel.fed.be<br><br>https://unite
 _consulate(s) general_: Atlanta, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Tim RICHARDSON (since January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Kathleen LIVELY (since July 2025)<br>
 _embassy_: Regentlaan 27 Boulevard du Regent, B-1000 Brussels<br>
 _mailing address_: 7600 Brussels Place, Washington DC&nbsp; 20521-7600<br>
 _telephone_: [32] (2) 811-4000<br>
@@ -379,8 +379,8 @@ ADB (nonregional members), AfDB (nonregional members), Australia Group, Benelux,
 **National holiday**<br>
 Belgian National Day (ascension to the throne of King LEOPOLD I), 21 July (1831)<br>
 
-**Flag description**<br>
-three equal vertical bands of black (hoist side), yellow, and red; the vertical design was based on the flag of France; the colors are from the arms of the duchy of Brabant (yellow lion with red claws and tongue on a black field)<br>
+**Flag**<br>
+<strong>description:</strong> three equal vertical bands of black (left side), yellow, and red<br><br><strong>history:</strong> the vertical design was based on the flag of France; the colors are from the arms of the duchy of Brabant (yellow lion with red claws and tongue on a black field)<br>
 
 **National symbol(s)**<br>
 golden rampant lion<br>
@@ -496,9 +496,9 @@ _highest 10%_: 22.2% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $220.744 billion (2022 est.)<br>
-_expenditures_: $234.883 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $220.657 billion (2022 est.)<br>
+_expenditures_: $235.767 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 92.5% of GDP (2022 est.)<br>
@@ -599,12 +599,6 @@ _consumption_: 14.382 billion cubic meters (2023 est.)<br>
 _exports_: 8.461 billion cubic meters (2023 est.)<br>
 _imports_: 23.007 billion cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 112.083 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 8.166 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 76.635 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 27.282 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 190.416 million Btu/person (2023 est.)<br>
 
@@ -665,14 +659,14 @@ Belgian Armed Forces (Defensie or La Défense): Land Component, Marine (Naval) C
 <strong>note: </strong>the Belgian Federal Police is the national police force and responsible for internal security and nationwide law and order, including migration and border enforcement<br>
 
 **Military expenditures**<br>
+2% of GDP (2025 est.)<br>
 1.3% of GDP (2024 est.)<br>
-1.2% of GDP (2023)<br>
-1.2% of GDP (2022)<br>
-1.1% of GDP (2021)<br>
-1% of GDP (2020)<br>
+1.2% of GDP (2023 est.)<br>
+1.2% of GDP (2022 est.)<br>
+1.1% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 23,000 active-duty Belgian Armed Forces (10,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Component; 5,000 other, including joint staff, support, and training schools) (2024)<br>
+approximately 23,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the armed forces have a mix of weapons systems from European countries, Israel, and the US; Belgium has an export-focused defense industry that focuses on components and subcontracting (2024)<br>
@@ -705,8 +699,8 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 75,030 (Ukraine) (as of 29 February 2024)<br>
-_stateless persons_: 1,190 (2022)<br>
+_refugees_: 236,689 (2024 est.)<br>
+_stateless persons_: 849 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major precursor-chemical producer (2025)<br>

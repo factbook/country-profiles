@@ -96,7 +96,7 @@ territory of Norway; since 1994, administered from Oslo through the county gover
 **Legal system**<br>
 the laws of Norway apply<br>
 
-**Flag description**<br>
+**Flag**<br>
 the flag of Norway is used<br>
 
 ## Economy

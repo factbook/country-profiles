@@ -170,16 +170,13 @@ _female_: 74 years<br>
 **Gross reproduction rate**<br>
 1.07 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-66.5% (2016)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.2% of population<br>
-_improved: rural_: rural: 80.2% of population<br>
-_improved: total_: total: 93.5% of population<br>
-_unimproved: urban_: urban: 0.8% of population<br>
-_unimproved: rural_: rural: 19.8% of population<br>
-_unimproved: total_: total: 6.5% of population (2020 est.)<br>
+_improved: urban_: urban: 99.5% of population (2022 est.)<br>
+_improved: rural_: rural: 81% of population (2022 est.)<br>
+_improved: total_: total: 94.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.5% of population (2022 est.)<br>
+_unimproved: rural_: rural: 19% of population (2022 est.)<br>
+_unimproved: total_: total: 5.9% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 8.2% of GDP (2021)<br>
@@ -192,12 +189,12 @@ _Health expenditure (as % of national budget)_: 16.4% of national budget (2022 e
 1.4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 97.8% of population<br>
-_improved: rural_: rural: 48.4% of population<br>
-_improved: total_: total: 83.1% of population<br>
-_unimproved: urban_: urban: 2.2% of population<br>
-_unimproved: rural_: rural: 51.6% of population<br>
-_unimproved: total_: total: 16.9% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 51.4% of population (2022 est.)<br>
+_improved: total_: total: 85.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 48.6% of population (2022 est.)<br>
+_unimproved: total_: total: 14.2% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 20.2% (2016)<br>
@@ -258,23 +255,32 @@ _other_: 17.6% (2022 est.)<br>
 _urban population_: 71.2% of total population (2023)<br>
 _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 25.23 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 21.61 megatons (2016 est.)<br>
-_methane emissions_: 21.01 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 21.552 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 24,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 13.647 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 7.881 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+24.6 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 122.8 kt (2022-2024 est.)<br>
+_agriculture_: 673.4 kt (2019-2021 est.)<br>
+_waste_: 73.1 kt (2019-2021 est.)<br>
+_other_: 150.3 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2,219,052 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 268,727 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 12.1% (2015 est.)<br>
+_municipal solid waste generated annually_: 2.219 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 34.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 140 million cubic meters (2020 est.)<br>
-_industrial_: 30 million cubic meters (2020 est.)<br>
-_agricultural_: 1.92 billion cubic meters (2020 est.)<br>
+_municipal_: 252.91 million cubic meters (2022 est.)<br>
+_industrial_: 32 million cubic meters (2022 est.)<br>
+_agricultural_: 1.92 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-574 billion cubic meters (2020 est.)<br>
+574 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -323,9 +329,9 @@ _chief of state_: President Luis Alberto ARCE Catacora (since 8 November 2020)<b
 _head of government_: President Luis Alberto ARCE Catacora (since 8 November 2020)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _election/appointment process_: president and vice president directly elected on the same ballot one of 3 ways: candidate wins at least 50% of the vote, or at least 40% of the vote and 10% more than the next highest candidate; otherwise, a second round is held and the winner determined by simple majority vote; president and vice president are elected by majority vote to serve a 5-year term; no term limits<br>
-_most recent election date_: 18 October 2020<br>
-_election results_: <br><em>2020:</em> Luis Alberto ARCE Catacora elected president; percent of vote - Luis Alberto ARCE Catacora (MAS) 55.1%; Carlos Diego MESA Gisbert (CC) 28.8%; Luis Fernando CAMACHO Vaca (Creemos) 14%; other 2.1%<br><br><em>2019:</em> Juan Evo MORALES Ayma reelected president; percent of vote - Juan Evo MORALES Ayma (MAS) 61%; Samuel DORIA MEDINA Arana (UN) 24.5%; Jorge QUIROGA Ramirez (POC) 9.1%; other 5.4%<br>
-_expected date of next election_: 17 August 2025 (a runoff, if needed, will take place on 19 October 2025)<br>
+_most recent election date_: 17 August 2025<br>
+_election results_: <br><em>2025:</em> First round election results: percent of vote - Rodrigo PAZ Pereira (PDC) 32.1%, Jorge<strong> </strong>Fernando QUIROGA<strong> </strong>Ramírez (LIBRE) 26.7%, Samuel DORIA MEDINA Auza (UN) 19.7%, Andrónico RODRÌGUEZ Ledezma<strong> </strong>(AP) 8.5%, Manfred REYES Villa (APB Súmate) 6.8%, Eduardo DEL CASTILLO (MAS) 3.2%, other 3%; note - PAZ and QUIROGA advance to a run-off election set for 19 October 2025 <em><br><br>2020:</em> Luis Alberto ARCE Catacora elected president; percent of vote - Luis Alberto ARCE Catacora (MAS) 55.1%; Carlos Diego MESA Gisbert (CC) 28.8%; Luis Fernando CAMACHO Vaca (Creemos) 14%; other 2.1%<br><br><em>2019:</em> Juan Evo MORALES Ayma reelected president; percent of vote - Juan Evo MORALES Ayma (MAS) 61%; Samuel DORIA MEDINA Arana (UN) 24.5%; Jorge QUIROGA Ramirez (POC) 9.1%; other 5.4%<br>
+_expected date of next election_: 2030<br>
 <strong>note:</strong> the president is both chief of state and head of government<br><br><strong>note:</strong> elections were held in successive years in 2019 and 2020 because Juan Evo MORALES resigned from office on 10 November 2019 over alleged election rigging; Jeanine ANEZ Chavez served as interim president until the 8 November 2020 inauguration of Luis Alberto ARCE Catacora, who won the 18 October 2020 presidential election<br>
 
 **Legislative branch**<br>
@@ -338,10 +344,10 @@ _number of seats_: 130 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 10/18/2020<br>
+_most recent election date_: 8/17/2025<br>
 _parties elected and seats per party_: Movement for Socialism (MAS-IPSP) (75); Civic Community (C.C) (39); Creemos (16)<br>
 _percentage of women in chamber_: 46.2%<br>
-_expected date of next election_: August 2025<br>
+_expected date of next election_: August 2030<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Chamber of Senators (Cámara de Senadores)<br>
@@ -349,10 +355,10 @@ _number of seats_: 36 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 10/18/2020<br>
+_most recent election date_: 8/17/2025<br>
 _parties elected and seats per party_: Movement for Socialism (MAS-IPSP) (21); Civic Community (C.C) (11); Creemos (4)<br>
 _percentage of women in chamber_: 55.6%<br>
-_expected date of next election_: August 2025<br>
+_expected date of next election_: August 2030<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Tribunal Supremo de Justicia (consists of 12 judges<em> </em>organized into civil, penal, social, and administrative chambers); Plurinational Constitutional Tribunal (consists of 7 primary and 7 alternate magistrates); Plurinational Electoral Organ (consists of 7 members and 6 alternates); National Agro-Environment Court (consists of 5 primary and 5 alternate judges; Council of the Judiciary (consists of 3 primary and 3 alternate judges)<br>
@@ -360,7 +366,7 @@ _judge selection and term of office_: Supreme Court, Plurinational Constitutiona
 _subordinate courts_: National Electoral Court; District Courts (in each of the 9 administrative departments); agro-environmental lower courts<br>
 
 **Political parties**<br>
-Community Citizen Alliance or ACC<br>Front for Victory or FPV<br>Movement Toward Socialism or MAS<br>National Unity or UN<br>Revolutionary Left Front or FRI<br>Revolutionary Nationalist Movement or MNR<br>Social Democrat Movement or MDS<br>Third System Movement or MTS<br>We Believe or Creemos<br>
+Autonomy for Bolivia – Súmate or APB Súmate<br>Christian Democratic Party or PDC<br>Community Citizen Alliance or ACC<br>Freedom and Democracy or LIBRE<br>Front for Victory or FPV<br>Movement Toward Socialism or MAS<br>National Unity or UN<br>Popular Alliance or AP<br>Revolutionary Left Front or FRI<br>Revolutionary Nationalist Movement or MNR<br>Social Democrat Movement or MDS<br>Third System Movement or MTS<br>We Believe or Creemos<br>
 <strong>note:</strong> We Believe or Creemos [Luis Fernando CAMACHO Vaca] is a coalition comprised of several opposition parties that participated in the 2020 election, which includes the Christian Democratic Party (PDC) and Solidarity Civic Unity (UCS)<br>
 
 **Diplomatic representation in the US**<br>
@@ -389,9 +395,9 @@ CAN, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), IC
 **National holiday**<br>
 Independence Day, 6 August (1825)<br>
 
-**Flag description**<br>
-three equal horizontal bands of red (top), yellow, and green, with the coat of arms centered on the yellow band; red stands for bravery and the blood of national heroes, yellow for the nation's mineral resources, and green for the land's fertility<br>
-<strong>note:</strong> similar to the flag of Ghana, which has a large black five-pointed star centered in the yellow band; in 2009, a presidential decree made it mandatory for a <em>wiphala -</em>- a square, multi-colored flag representing the country's ethnic groups -- to be used alongside the traditional flag<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of red (top), yellow, and green, with the coat of arms centered on the yellow band<br><br><strong>meaning:</strong> red stands for bravery and the blood of national heroes, yellow for the nation's mineral resources, and green for the land's fertility<br><br><strong>history: </strong>in 2009, a presidential decree made it mandatory for a <em>wiphala -</em>- a square, multi-colored flag representing the country's ethnic groups -- to be used alongside the national flag<br>
+<strong>note:</strong> similar to the flag of Ghana, which has a large, five-pointed black star centered in the yellow band<br>
 
 **National symbol(s)**<br>
 llama, Andean condor; two national flowers, the cantuta and the patuju<br>
@@ -601,12 +607,6 @@ _consumption_: 4.025 billion cubic meters (2023 est.)<br>
 _exports_: 7.816 billion cubic meters (2023 est.)<br>
 _proven reserves_: 302.99 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 21.552 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 24,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 13.647 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 7.881 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 29.34 million Btu/person (2023 est.)<br>
 
@@ -696,7 +696,11 @@ Tren de Aragua (TdA)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 16,350 (Venezuela) (2023)<br>
+_refugees_: 1,163 (2024 est.)<br>
+_IDPs_: 12,070 (2024 est.)<br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List — Bolivia did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/bolivia/<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>

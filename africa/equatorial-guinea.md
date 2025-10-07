@@ -156,31 +156,12 @@ _female_: 66.2 years<br>
 **Gross reproduction rate**<br>
 2.03 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
-**Drinking water source**<br>
-_improved: urban_: urban: 81.7% of population<br>
-_improved: rural_: rural: 32.1% of population<br>
-_improved: total_: total: 67.6% of population<br>
-_unimproved: urban_: urban: 18.3% of population<br>
-_unimproved: rural_: rural: 67.9% of population<br>
-_unimproved: total_: total: 32.4% of population (2017 est.)<br>
-
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 3.4% of GDP (2021)<br>
 _Health expenditure (as % of national budget)_: 4.4% of national budget (2022 est.)<br>
 
 **Physician density**<br>
 0.15 physicians/1,000 population (2022)<br>
-
-**Sanitation facility access**<br>
-_improved: urban_: urban: 81.2% of population<br>
-_improved: rural_: rural: 63.4% of population<br>
-_improved: total_: total: 76.2% of population<br>
-_unimproved: urban_: urban: 18.8% of population<br>
-_unimproved: rural_: rural: 36.6% of population<br>
-_unimproved: total_: total: 23.8% of population (2020 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 8% (2016)<br>
@@ -219,21 +200,32 @@ _other_: 9.6% (2022 est.)<br>
 _urban population_: 74.4% of total population (2023)<br>
 _rate of urbanization_: 3.62% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 25.67 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 5.65 megatons (2016 est.)<br>
-_methane emissions_: 11.21 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 5.471 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 1 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 896,000 metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 4.575 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+26.5 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 129.8 kt (2022-2024 est.)<br>
+_agriculture_: 0.4 kt (2019-2021 est.)<br>
+_waste_: 10 kt (2019-2021 est.)<br>
+_other_: 2.2 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 198,443 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 198,400 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 23.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 20 million cubic meters (2020 est.)<br>
-_industrial_: 3 million cubic meters (2017 est.)<br>
-_agricultural_: 1 million cubic meters (2017 est.)<br>
+_municipal_: 15.8 million cubic meters (2022 est.)<br>
+_industrial_: 3 million cubic meters (2022 est.)<br>
+_agricultural_: 1 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-26 billion cubic meters (2020 est.)<br>
+26 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -343,14 +335,17 @@ ACP, AfDB, AU, BDEAC, CEMAC, CPLP, FAO, Francophonie, FZ, G-77, IBRD, ICAO, ICRM
 **National holiday**<br>
 Independence Day, 12 October (1968)<br>
 
-**Flag description**<br>
-three equal horizontal bands of green (top), white, and red, with a blue isosceles triangle based on the hoist side and the coat of arms centered in the white band; the coat of arms has six yellow six-pointed stars (representing the mainland and five offshore islands) above a gray shield bearing a silk-cotton tree; below is a scroll with the motto UNIDAD, PAZ, JUSTICIA (Unity, Peace, Justice); green stands for the jungle and natural resources, blue for the sea, white for peace, and red for the fight for independence<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of green (top), white, and red, with a blue isosceles triangle based on the left side and the coat of arms centered in the white band; the coat of arms has six six-pointed yellow stars (representing the mainland and five offshore islands) above a gray shield with a silk-cotton tree; below is a scroll with the motto UNIDAD, PAZ, JUSTICIA (Unity, Peace, Justice)<br><br><strong>meaning:</strong> green stands for the jungle and natural resources, blue for the sea, white for peace, and red for the fight for independence<br>
 
 **National symbol(s)**<br>
 silk cotton tree<br>
 
 **National color(s)**<br>
 green, white, red, blue<br>
+
+**National coat of arms**<br>
+the national symbol, the silk cotton tree, is in the center of the coat of arms; the tree represents the location where the first treaty was signed between local rulers and the Portuguese; the stars above the tree symbolize the mainland and the five offshore islands; a ribbon below the shield displays the national motto, &ldquo;Unidad, Paz, Justicia&rdquo; (Unity, Peace, Justice)<br>
 
 **National anthem(s)**<br>
 _title_: "Caminemos pisando la senda" (Let Us Tread the Path)<br>
@@ -439,7 +434,7 @@ _female_: 15.7% (2024 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6% (2022 est.)<br>
 _highest 10%_: 29.1% (2022 est.)<br>
-% share of income accruing to lowest and highest 10% of population<br>
+<strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0% of GDP (2023 est.)<br>
@@ -449,8 +444,11 @@ _highest 10%_: 29.1% (2022 est.)<br>
 
 **Budget**<br>
 _revenues_: $3.62 billion (2022 est.)<br>
-_expenditures_: $1.512 billion (2022 est.)<br>
+_expenditures_: $2.051 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+43.3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 6.6% (of GDP) (2022 est.)<br>
@@ -528,12 +526,6 @@ _consumption_: 2.332 billion cubic meters (2023 est.)<br>
 _exports_: 3.63 billion cubic meters (2023 est.)<br>
 _proven reserves_: 139.007 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 5.471 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 1 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 896,000 metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 4.575 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 54.509 million Btu/person (2023 est.)<br>
 
@@ -608,6 +600,6 @@ the Armed Forces of Equatorial Guinea (FAGE) are responsible for defending the t
 
 ## Transnational Issues
 
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — Equatorial Guinea does not fully meet the minimum standards for the elimination of trafficking, but it is making significant efforts to do so and was upgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/equatorial-guinea/<br>
+**Refugees and internally displaced persons**<br>
+_refugees_: 5 (2024 est.)<br>
 

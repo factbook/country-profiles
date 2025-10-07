@@ -160,16 +160,13 @@ _female_: 82.2 years<br>
 **Gross reproduction rate**<br>
 1.14 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-50.8% (2014/15)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 88.1% of population<br>
-_improved: total_: total: 96.2% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 11.9% of population<br>
-_unimproved: total_: total: 3.8% of population (2020 est.)<br>
+_improved: urban_: urban: 98.5% of population (2022 est.)<br>
+_improved: rural_: rural: 86.1% of population (2022 est.)<br>
+_improved: total_: total: 94.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.5% of population (2022 est.)<br>
+_unimproved: rural_: rural: 13.9% of population (2022 est.)<br>
+_unimproved: total_: total: 5.3% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 9.7% of GDP (2021)<br>
@@ -182,12 +179,12 @@ _Health expenditure (as % of national budget)_: 22.2% of national budget (2022 e
 1.9 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 95.5% of population<br>
-_improved: rural_: rural: 69.1% of population<br>
-_improved: total_: total: 87.2% of population<br>
-_unimproved: urban_: urban: 4.5% of population<br>
-_unimproved: rural_: rural: 30.9% of population<br>
-_unimproved: total_: total: 12.8% of population (2020 est.)<br>
+_improved: urban_: urban: 96.1% of population (2022 est.)<br>
+_improved: rural_: rural: 70.1% of population (2022 est.)<br>
+_improved: total_: total: 88% of population (2022 est.)<br>
+_unimproved: urban_: urban: 3.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 29.9% of population (2022 est.)<br>
+_unimproved: total_: total: 12% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 22.7% (2016)<br>
@@ -248,21 +245,26 @@ _other_: 14.1% (2022 est.)<br>
 _urban population_: 69.5% of total population (2023)<br>
 _rate of urbanization_: 1.92% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 11.78 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 10.71 megatons (2016 est.)<br>
-_methane emissions_: 5.97 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 23.458 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 1.969 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 20.389 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 1.101 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+11.9 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1,472,262 tons (2015 est.)<br>
+_municipal solid waste generated annually_: 1.472 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 14.2% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 760 million cubic meters (2020 est.)<br>
-_industrial_: 10 million cubic meters (2020 est.)<br>
-_agricultural_: 450 million cubic meters (2020 est.)<br>
+_municipal_: 759.1 million cubic meters (2022 est.)<br>
+_industrial_: 6.2 million cubic meters (2022 est.)<br>
+_agricultural_: 446.1 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-139.3 billion cubic meters (2020 est.)<br>
+139.304 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -359,8 +361,8 @@ ACS, BCIE, CAN (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (na
 **National holiday**<br>
 Independence Day (Separation Day), 3 November (1903)<br>
 
-**Flag description**<br>
-divided into four equal rectangles; one of the top quadrants is white (hoist side) with a five-pointed blue star in the center, and the other is plain red; one of the bottom quadrants is plain blue (hoist side), and the other is white with a five-pointed red star in the center; the blue and red stand for the main political parties, and the white for peace between them; the blue star stands for the civic virtues of purity and honesty, and the red star signifies authority and law<br>
+**Flag**<br>
+<strong>description:</strong> divided into four equal rectangles; one of the top quadrants is white (left side) with a five-pointed blue star in the center, and the other is plain red; one of the bottom quadrants is plain blue (left side), and the other is white with a five-pointed red star in the center<br><br><strong>meaning:</strong> blue and red stand for the main political parties, and white for peace between them; the blue star stands for the civic virtues of purity and honesty, and the red star for authority and law<br>
 
 **National symbol(s)**<br>
 harpy eagle<br>
@@ -477,8 +479,11 @@ _highest 10%_: 36.9% (2023 est.)<br>
 
 **Budget**<br>
 _revenues_: $7.57 billion (2021 est.)<br>
-_expenditures_: $11.553 billion (2021 est.)<br>
+_expenditures_: $12.046 billion (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+37.4% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 7.5% (of GDP) (2021 est.)<br>
@@ -564,12 +569,6 @@ _refined petroleum consumption_: 131,000 bbl/day (2023 est.)<br>
 _consumption_: 564.786 million cubic meters (2023 est.)<br>
 _imports_: 564.786 million cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 23.458 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 1.969 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 20.389 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 1.101 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 78.01 million Btu/person (2023 est.)<br>
 
@@ -653,7 +652,8 @@ Tren de Aragua (TdA)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 58,158 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2023)<br>
+_refugees_: 10,801 (2024 est.)<br>
+_stateless persons_: 928 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country (2025)<br>

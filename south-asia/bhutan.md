@@ -148,16 +148,13 @@ _female_: 75 years<br>
 **Gross reproduction rate**<br>
 0.86 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.5% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 99.8% of population<br>
-_unimproved: urban_: urban: 0.5% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0.2% of population (2020 est.)<br>
+_improved: urban_: urban: 99.5% of population (2022 est.)<br>
+_improved: rural_: rural: 98.8% of population (2022 est.)<br>
+_improved: total_: total: 99.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.5% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.2% of population (2022 est.)<br>
+_unimproved: total_: total: 0.9% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 3.8% of GDP (2021)<br>
@@ -170,12 +167,12 @@ _Health expenditure (as % of national budget)_: 6.7% of national budget (2022 es
 2.2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 90.8% of population<br>
-_improved: rural_: rural: 83.1% of population<br>
-_improved: total_: total: 86.4% of population<br>
-_unimproved: urban_: urban: 9.2% of population<br>
-_unimproved: rural_: rural: 16.9% of population<br>
-_unimproved: total_: total: 13.6% of population (2020 est.)<br>
+_improved: urban_: urban: 91.1% of population (2022 est.)<br>
+_improved: rural_: rural: 85.5% of population (2022 est.)<br>
+_improved: total_: total: 87.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 8.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 14.5% of population (2022 est.)<br>
+_unimproved: total_: total: 12.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 6.4% (2016)<br>
@@ -233,15 +230,17 @@ _other_: 15.6% (2022 est.)<br>
 _urban population_: 44.4% of total population (2023)<br>
 _rate of urbanization_: 2.52% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 26.1 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 1.26 megatons (2016 est.)<br>
-_methane emissions_: 1.11 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 733,000 metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 241,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 492,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+26.4 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 111,314 tons (2007 est.)<br>
-_municipal solid waste recycled annually_: 957 tons (2016 est.)<br>
-_percent of municipal solid waste recycled_: 0.9% (2016 est.)<br>
+_municipal solid waste generated annually_: 111,300 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 1.7% (2022 est.)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 20 million cubic meters (2020 est.)<br>
@@ -332,15 +331,11 @@ _subordinate courts_: High Court (first appellate court); District or Dzongkhag 
 Bhutan Peace and Prosperity Party (Druk Phuensum Tshogpa) or DPT<br>Bhutan Tendrel Party or BTP<br>Druk Thuendrel Tshogpa or DTT<br>People's Democratic Party or PDP<br>United Party of Bhutan (Druk Nyamrup Tshogpa) or DNT<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador/Permanent Representative to the United Nations (vacant); Charg&eacute; d'Affaires Phuntsho NORBU (since October 2022); note - also serving as the Deputy Permanent Representative to the UN<br>
-_telephone_: [1] (212) 682-2371<br>
-_FAX_: [1] (212) 661-0551<br>
-_email address and website_: <br>consulate.pmbny@mfa.gov.bt<br><br>https://www.mfa.gov.bt/pmbny/<br>
-_consulate(s) general_: 343 East, 43rd Street, New York, NY 10017<br>
-<strong>note:</strong> Bhutan and the United States do not have diplomatic relations, but the two countries established consular relations on 23 July 1986; the Consulate General of the Kingdom of Bhutan was established in New York with an officer from the Permanent Mission of the Kingdom of Bhutan to the United Nations holding dual accreditation as the Consul General with consular jurisdiction in the US<br>
+_consulate(s) general_: 343 East, 43rd Street, New York, NY 10017<br><br><strong>telephone:</strong> [1] (212) 682-2371<br><br><strong>FAX:</strong> [1] (212) 661-0551<br><br><strong>email address and website:</strong><br>consulate.pmbny@mfa.gov.bt<br><br>https://www.mfa.gov.bt/pmbny/<br>
+<strong>note:</strong> Bhutan and the United States do not have diplomatic relations, but the two countries established consular relations on 23 July 1986; the Consulate General of the Kingdom of Bhutan was established in New York with an officer from the Permanent Mission of the Kingdom of Bhutan to the United Nations holding dual accreditation as the Consul General with consular jurisdiction in the US; Phuntsho NORBU has served as the Consul General since October 2022 and is the Deputy Permanent Representative to the UN<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: none; frequent informal contact is maintained via the US embassy in New Delhi (India) and Bhutan's Permanent Mission to the UN<br>
+<strong>note:</strong>  Although Bhutan and the United States have never established formal diplomatic relations, the two countries maintain informal relations via the U.S. Embassy in New Delhi, India, and Bhutan’s Mission to the United Nations in New York<br>
 
 **International organization participation**<br>
 ADB, BIMSTEC, CP, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IMF, Interpol, IOC, IOM (observer), IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
@@ -351,8 +346,8 @@ ADB, BIMSTEC, CP, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IMF, Interpol, IOC, IOM
 **National holiday**<br>
 National Day (Ugyen WANGCHUCK became first hereditary king), 17 December (1907)<br>
 
-**Flag description**<br>
-divided diagonally from the lower hoist-side corner; the upper triangle is yellow and the lower triangle is orange; centered along the dividing line is a large black and white dragon facing away from the hoist side; the dragon, called the Druk (Thunder Dragon), is the national emblem; its white color stands for purity, and the jewels in its claws symbolize wealth; the background colors represent spiritual and secular powers in Bhutan, with the orange standing for Buddhism and the yellow for the ruling dynasty<br>
+**Flag**<br>
+<strong>description:</strong> divided diagonally from the lower-left corner to the upper-right corner; the upper triangle is yellow, and the lower triangle is dark orange; centered along the dividing line is a large, stylized black-and-white dragon facing to the right; the dragon is called the Druk (Thunder Dragon) and is the national emblem<br><br><strong>meaning:</strong> white stands for purity, and the jewels in the dragon's claws symbolize wealth; the background colors represent the spiritual and secular powers in Bhutan, with orange standing for Buddhism and yellow for the ruling dynasty<br>
 
 **National symbol(s)**<br>
 mythical thunder dragon (<em>druk</em>)<br>
@@ -548,11 +543,6 @@ _imports_: 122,000 metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 4,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 733,000 metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 241,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 492,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 64.082 million Btu/person (2023 est.)<br>
 
@@ -612,4 +602,7 @@ the Royal Bhutan Army is lightly armed; it has a small amount of heavy equipment
 the Army is responsible for external threats but also has some internal security functions such as conducting counterinsurgency operations, guarding forests, and providing security for prominent persons; Bhutan's closest security partner is India; under the 2007 India-Bhutan Friendship Treaty, both countries agreed to cooperate closely on issues relating to their national interests (2025)<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_IDPs_: 138 (2024 est.)<br>
 

@@ -151,27 +151,16 @@ _female_: 81.3 years<br>
 **Gross reproduction rate**<br>
 0.87 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Physician density**<br>
 0.02 physicians/1,000 population (2023)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 97% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 3% of population (2020 est.)<br>
+_improved: total_: total: 97% of population (2022 est.)<br>
+_unimproved: total_: total: 3% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 27.2% (2023 est.)<br>
@@ -196,13 +185,12 @@ _other_: 43% (2022 est.)<br>
 _urban population_: 62.3% of total population (2023)<br>
 _rate of urbanization_: 0.65% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.77 megatons (2016 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 1.01 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.01 million metric tonnes of CO2 (2023 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 147,000 tons (2013 est.)<br>
-_municipal solid waste recycled annually_: 57,330 tons (2013 est.)<br>
-_percent of municipal solid waste recycled_: 39% (2013 est.)<br>
+_municipal solid waste generated annually_: 147,000 tons (2024 est.)<br>
 
 ## Government
 
@@ -245,7 +233,7 @@ see France<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Emmanuel MACRON (since 14 May 2017), represented by High Commissioner of the Republic Eric SPITZ (since 23 September 2022)<br>
+_chief of state_: President Emmanuel MACRON (since 14 May 2017), represented by High Commissioner of the Republic Alexander ROCHATTE (since 1 September 2025)<br>
 _head of government_: President of French Polynesia Moetai BROTHERSON (since 12 May 2023)<br>
 _cabinet_: Council of Ministers approved by the Assembly from a list of its members submitted by the president<br>
 _election/appointment process_: French president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; French Polynesia president indirectly elected by Assembly of French Polynesia for a 5-year term (no term limits)<br>
@@ -288,9 +276,9 @@ none (overseas land of France)<br>
 Fête de la Fédération, 14 July (1790)<br>
 <strong>note 1:</strong> the local holiday is Internal Autonomy Day, 29 June (1880)<br><br><strong>note 2:</strong> often incorrectly referred to as Bastille Day, France's national celebration commemorates the storming of the Bastille prison on 14 July 1789 and the establishment of a constitutional monarchy; other names for the holiday are <em>la Fête nationale</em> (National Holiday) and <em>le Quatorze Juillet</em> (14th of July)<br>
 
-**Flag description**<br>
-two red horizontal bands flank a wide white band in a 1:2:1 ratio; centered on the white band is a disk with a blue-and-white wave pattern depicting the sea on the lower half and a gold-and-white ray pattern depicting the sun on the upper half; a Polynesian canoe on the disk has a crew of five, represented by five stars that also symbolize the five island groups; red and white are traditional Polynesian colors<br>
-<strong>note:</strong> identical to the red-white-red flag of Tahiti, the largest and most populous of the islands in French Polynesia, but which has no emblem in the white band; the flag of France is used for official occasions<br>
+**Flag**<br>
+<strong>description:</strong> two horizontal red bands flank a wide white band in a 1:2:1 ratio; centered on the white band is a disk with a blue-and-white wave pattern depicting the sea on the lower half and a gold-and-white ray pattern depicting the sun on the upper half; a stylized  red Polynesian canoe on the disk has a crew of five, represented by five stars <br><br><strong>meaning: </strong>the stars symbolize the five island groups; red and white are traditional Polynesian colors<br>
+<strong>note 1:</strong> similar to the red-white-red flag of Tahiti, the largest and most populous of the French Polynesian islands, but the Tahitian flag has no emblem on the white band<br><br><strong>note 2:</strong> the flag of France is used for official occasions<br>
 
 **National symbol(s)**<br>
 outrigger canoe, Tahitian gardenia flower (<em>Gardenia taitensis</em>)<br>
@@ -316,10 +304,10 @@ French Polynesia has acquired autonomy from France in all areas except those rel
 small, territorial-island tourism-based economy; large French financing; lower EU import duties; Pacific Islands Forum member; fairly resilient from COVID-19; oil-dependent infrastructure<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.65 billion (2021 est.)<br>
-$5.52 billion (2020 est.)<br>
-$5.94 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2015 dollars<br>
+$6.007 billion (2024 est.)<br>
+$5.935 billion (2023 est.)<br>
+$5.892 billion (2022 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
 3% (2023 est.)<br>
@@ -328,14 +316,20 @@ $5.94 billion (2019 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$18,600 (2021 est.)<br>
-$18,300 (2020 est.)<br>
-$19,800 (2019 est.)<br>
-<strong>note:</strong> data are in 2015 dollars<br>
+$23,300 (2024 est.)<br>
+$22,800 (2023 est.)<br>
+$20,700 (2022 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$6.402 billion (2023 est.)<br>
+$6.563 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
+
+**Inflation rate (consumer prices)**<br>
+6.4% (2022 est.)<br>
+0.5% (2021 est.)<br>
+-0.1% (2020 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.2% (2020 est.)<br>
@@ -443,10 +437,6 @@ _imports_: 1 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 7,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 1.01 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 1.01 million metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

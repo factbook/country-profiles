@@ -159,16 +159,13 @@ _female_: 68.5 years<br>
 **Gross reproduction rate**<br>
 1.04 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-19% (2012)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.7% of population<br>
-_improved: rural_: rural: 59.3% of population<br>
-_improved: total_: total: 90.8% of population<br>
-_unimproved: urban_: urban: 0.3% of population<br>
-_unimproved: rural_: rural: 40.7% of population<br>
-_unimproved: total_: total: 9.2% of population (2020 est.)<br>
+_improved: urban_: urban: 84.1% of population (2022 est.)<br>
+_improved: rural_: rural: 47.3% of population (2022 est.)<br>
+_improved: total_: total: 76.2% of population (2022 est.)<br>
+_unimproved: urban_: urban: 15.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 52.7% of population (2022 est.)<br>
+_unimproved: total_: total: 23.8% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 2.9% of GDP (2021)<br>
@@ -181,12 +178,12 @@ _Health expenditure (as % of national budget)_: 5.2% of national budget (2022 es
 1.4 beds/1,000 population (2018 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 87.7% of population<br>
-_improved: rural_: rural: 24.2% of population<br>
-_improved: total_: total: 73.8% of population<br>
-_unimproved: urban_: urban: 12.3% of population<br>
-_unimproved: rural_: rural: 75.8% of population<br>
-_unimproved: total_: total: 26.2% of population (2020 est.)<br>
+_improved: urban_: urban: 87.7% of population (2022 est.)<br>
+_improved: rural_: rural: 24.2% of population (2022 est.)<br>
+_improved: total_: total: 74% of population (2022 est.)<br>
+_unimproved: urban_: urban: 12.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 75.8% of population (2022 est.)<br>
+_unimproved: total_: total: 26% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 13.5% (2016)<br>
@@ -236,21 +233,25 @@ _other_: 26.2% (2022 est.)<br>
 _urban population_: 78.6% of total population (2023)<br>
 _rate of urbanization_: 1.56% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 19.98 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.62 megatons (2016 est.)<br>
-_methane emissions_: 0.52 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 685,000 metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 45,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 640,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+21 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 114,997 tons (2002 est.)<br>
+_municipal solid waste generated annually_: 115,000 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 14.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 20 million cubic meters (2020 est.)<br>
-_industrial_: 0 cubic meters (2017 est.)<br>
-_agricultural_: 3 million cubic meters (2017 est.)<br>
+_municipal_: 16 million cubic meters (2022 est.)<br>
+_industrial_: 0 cubic meters (2022 est.)<br>
+_agricultural_: 3 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-300 million cubic meters (2020 est.)<br>
+300 million cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -347,8 +348,8 @@ ACP, AfDB, AFESD, AMF, ATMIS, AU, CAEU (candidates), COMESA, FAO, G-77, IBRD, IC
 **National holiday**<br>
 Independence Day, 27 June (1977)<br>
 
-**Flag description**<br>
-two equal horizontal bands of light blue (top) and light green with a white isosceles triangle based on the hoist side and with a red five-pointed star in the center; blue stands for sea and sky and the Issa Somali people, green for earth and the Afar people, and white for peace; the red star stands for the struggle for independence and for unity<br>
+**Flag**<br>
+<strong>description:</strong> two equal horizontal bands of light blue (top) and light green, with a white isosceles triangle based on the left side that has a five-pointed red star in the center<br><br><strong>meaning:</strong> blue stands for sea, sky, and the Issa Somali people, green for earth and the Afar people, and white for peace; the red star stands for the struggle for independence and unity<br>
 
 **National symbol(s)**<br>
 red star<br>
@@ -459,6 +460,9 @@ _highest 10%_: 32.3% (2017 est.)<br>
 _revenues_: $725 million (2019 est.)<br>
 _expenditures_: $754 million (2019 est.)<br>
 
+**Public debt**<br>
+33.7% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 $610.124 million (2024 est.)<br>
 $721.349 million (2023 est.)<br>
@@ -535,11 +539,6 @@ _imports_: 19,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 5,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 685,000 metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 45,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 640,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 10.428 million Btu/person (2023 est.)<br>
@@ -632,8 +631,8 @@ al-Shabaab<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,518 (Yemen) (mid-year 2022); 13,467 (Somalia) (2024)<br>
+_refugees_: 32,636 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 — Djibouti does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Djibouti remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/djibouti/<br>
+_tier rating_: Tier 2 Watch List — Djibouti does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Djibouti was upgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/djibouti/<br>
 

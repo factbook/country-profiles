@@ -172,16 +172,13 @@ _female_: 65.1 years<br>
 **Gross reproduction rate**<br>
 2.81 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-13.7% (2015/16)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 81.3% of population<br>
-_improved: rural_: rural: 36.5% of population<br>
-_improved: total_: total: 66.5% of population<br>
-_unimproved: urban_: urban: 18.7% of population<br>
-_unimproved: rural_: rural: 63.5% of population<br>
-_unimproved: total_: total: 33.5% of population (2020 est.)<br>
+_improved: urban_: urban: 71.7% of population (2022 est.)<br>
+_improved: rural_: rural: 27.8% of population (2022 est.)<br>
+_improved: total_: total: 57.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 28.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 72.2% of population (2022 est.)<br>
+_unimproved: total_: total: 42.3% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 3% of GDP (2021)<br>
@@ -194,12 +191,12 @@ _Health expenditure (as % of national budget)_: 6.7% of national budget (2022 es
 0.8 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 93.7% of population<br>
-_improved: rural_: rural: 30.3% of population<br>
-_improved: total_: total: 72.7% of population<br>
-_unimproved: urban_: urban: 6.3% of population<br>
-_unimproved: rural_: rural: 69.7% of population<br>
-_unimproved: total_: total: 27.3% of population (2020 est.)<br>
+_improved: urban_: urban: 93.7% of population (2022 est.)<br>
+_improved: rural_: rural: 30.3% of population (2022 est.)<br>
+_improved: total_: total: 73.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 6.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 69.7% of population (2022 est.)<br>
+_unimproved: total_: total: 26.5% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 8.2% (2016)<br>
@@ -255,21 +252,32 @@ _other_: 10.6% (2022 est.)<br>
 _urban population_: 68.7% of total population (2023)<br>
 _rate of urbanization_: 4.04% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 27.16 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 34.69 megatons (2016 est.)<br>
-_methane emissions_: 23.28 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 19.66 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 9,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 17.21 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 2.441 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+27.2 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 1,009.1 kt (2022-2024 est.)<br>
+_agriculture_: 374.5 kt (2019-2021 est.)<br>
+_waste_: 123 kt (2019-2021 est.)<br>
+_other_: 78.5 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 4,213,644 tons (2012 est.)<br>
+_municipal solid waste generated annually_: 4.214 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 19% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 320 million cubic meters (2020 est.)<br>
-_industrial_: 240 million cubic meters (2020 est.)<br>
-_agricultural_: 150 million cubic meters (2020 est.)<br>
+_municipal_: 319.5 million cubic meters (2022 est.)<br>
+_industrial_: 239.6 million cubic meters (2022 est.)<br>
+_agricultural_: 146.7 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-148.4 billion cubic meters (2020 est.)<br>
+148.4 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -292,7 +300,7 @@ _daylight saving time_: does not observe daylight savings time<br>
 _etymology_: the Portuguese named the city S&atilde;o Paulo da Assun&ccedil;&atilde;o de Loanda (Saint Paul of the Assumption of Loanda); over time, it was shortened to "Luanda," which may derive from a Bantu word meaning "tax" or "duty," in reference to local people paying their dues to the king of the Congo<br>
 
 **Administrative divisions**<br>
-18 provinces (<em>provincias</em>, singular - <em>provincia</em>); Bengo, Benguela, Bie, Cabinda, Cuando Cubango, Cuanza-Norte, Cuanza-Sul, Cunene, Huambo, Huila, Luanda, Lunda-Norte, Lunda-Sul, Malanje, Moxico, Namibe, Uige, Zaire<br>
+21 provinces (<em>provincias</em>, singular - <em>provincia</em>); Bengo, Benguela, Bie, Cabinda, Cuando, Cubango, Cuanza-Norte, Cuanza-Sul, Cunene, Huambo, Huila, Icolo e Bengo, Luanda, Lunda-Norte, Lunda-Sul, Malanje, Moxico, Moxico Leste, Namibe, Uige, Zaire<br>
 
 **Legal system**<br>
 civil legal system based on Portuguese civil law; no judicial review of legislation<br>
@@ -351,7 +359,7 @@ _email address and website_: <br>info@angola.org<br><br>https://angola.org/<br>
 _consulate(s) general_: Houston, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Ambassador James Story (since 23 October 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Ambassador Noah ZARING (since March 2025)<br>
 _embassy_: Rua Houari Boumedienne, #32, Luanda<br>
 _mailing address_: 2550 Luanda Place, Washington, DC 20521-2550<br>
 _telephone_: [244] (222) 64-1000<br>
@@ -367,8 +375,8 @@ ACP, AfDB, AU, CEMAC, CPLP, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, I
 **National holiday**<br>
 Independence Day, 11 November (1975)<br>
 
-**Flag description**<br>
-two equal horizontal bands of red (top) and black with a centered yellow emblem consisting of a five-pointed star within half a cogwheel crossed by a machete (in the style of a hammer and sickle); red represents liberty and black the African continent; the symbols characterize workers and peasants<br>
+**Flag**<br>
+<strong>description:</strong> two equal horizontal bands of red (top) and black with a centered yellow emblem of a five-pointed star inside half a cogwheel, crossed by a machete (in the style of a hammer and sickle)<br><br><strong>meaning:</strong> red stands for liberty and black for the African continent; the emblem symbolizes workers and peasants<br>
 
 **National symbol(s)**<br>
 giant black sable antelope (<em>Palanca negra gigante</em>)<br>
@@ -488,6 +496,9 @@ _revenues_: $18.117 billion (2019 est.)<br>
 _expenditures_: $13.871 billion (2019 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
+**Public debt**<br>
+75.3% of GDP (2016 est.)<br>
+
 **Taxes and other revenues**<br>
 10.1% (of GDP) (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
@@ -575,12 +586,6 @@ _production_: 5.984 billion cubic meters (2023 est.)<br>
 _consumption_: 1.244 billion cubic meters (2023 est.)<br>
 _exports_: 4.928 billion cubic meters (2023 est.)<br>
 _proven reserves_: 343.002 billion cubic meters (2021 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 19.66 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 9,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 17.21 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 2.441 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 9.146 million Btu/person (2023 est.)<br>
@@ -673,5 +678,6 @@ has a national space strategy with a focus on capacity-building, developing spac
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2023); 22,841 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
+_refugees_: 55,542 (2024 est.)<br>
+_IDPs_: 75,308 (2024 est.)<br>
 

@@ -162,16 +162,11 @@ _female_: 81.1 years<br>
 **Gross reproduction rate**<br>
 1.08 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.8% of GDP (2021)<br>
@@ -184,12 +179,10 @@ _Health expenditure (as % of national budget)_: 9.4% of national budget (2022 es
 2.4 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 37.9% (2016)<br>
@@ -250,21 +243,32 @@ _other_: 91.2% (2022 est.)<br>
 _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 1.35% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 64.08 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 98.73 megatons (2016 est.)<br>
-_methane emissions_: 6.21 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 100.459 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 149,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 48.723 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 51.587 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+54.9 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 819.9 kt (2022-2024 est.)<br>
+_agriculture_: 7.3 kt (2019-2021 est.)<br>
+_waste_: 256.8 kt (2019-2021 est.)<br>
+_other_: 0.9 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1.75 million tons (2010 est.)<br>
+_municipal solid waste generated annually_: 1.75 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 15.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 450 million cubic meters (2020 est.)<br>
-_industrial_: 20 million cubic meters (2020 est.)<br>
-_agricultural_: 780 million cubic meters (2020 est.)<br>
+_municipal_: 448.3 million cubic meters (2022 est.)<br>
+_industrial_: 23.3 million cubic meters (2022 est.)<br>
+_agricultural_: 778.4 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-20 million cubic meters (2020 est.)<br>
+20 million cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -334,7 +338,7 @@ _email address and website_: <br>info@kuwaitembassy.us<br><br>https://www.kuwait
 _consulate(s) general_: Beverly Hills (CA), New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Karen Hideko SASAHARA (since 10 March 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Steven R. BUTLER (since July 2025)<br>
 _embassy_: P.O. Box 77, Safat 13001<br>
 _mailing address_: 6200 Kuwait Place, Washington DC&nbsp; 20521-6200<br>
 _telephone_: [00] (965) 2259-1001<br>
@@ -350,8 +354,8 @@ ABEDA, AfDB (nonregional member), AFESD, AMF, BDEAC, CAEU, CD, FAO, G-77, GCC, I
 **National holiday**<br>
 National Day, 25 February (1950)<br>
 
-**Flag description**<br>
-three equal horizontal bands of green (top), white, and red with a black trapezoid based on the hoist side; colors and design are based on the Arab Revolt flag of World War I; green stands for fertile fields, white for purity, red for blood on Kuwaiti swords, and black for defeating the enemy<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of green (top), white, and red, with a black trapezoid based on the left side<br><br><strong>meaning:</strong> green stands for fertile fields, white for purity, red for blood on Kuwaiti swords, and black for defeating the enemy<br><br><strong>history:</strong> colors and design are based on the Arab Revolt flag of World War I<br>
 
 **National symbol(s)**<br>
 golden falcon<br>
@@ -454,6 +458,9 @@ _revenues_: $44.254 billion (2015 est.)<br>
 _expenditures_: $59.584 billion (2015 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants and social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
+**Public debt**<br>
+9.9% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 $46.703 billion (2024 est.)<br>
 $51.396 billion (2023 est.)<br>
@@ -532,12 +539,6 @@ _production_: 19.207 billion cubic meters (2023 est.)<br>
 _consumption_: 26.296 billion cubic meters (2023 est.)<br>
 _imports_: 8.433 billion cubic meters (2023 est.)<br>
 _proven reserves_: 1.784 trillion cubic meters (2021 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 100.459 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 149,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 48.723 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 51.587 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 389.848 million Btu/person (2023 est.)<br>
@@ -618,8 +619,6 @@ the Kuwaiti Armed Forces (KAF) are responsible for defending Kuwait's sovereignt
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 92,000 (2022); note - Kuwait's 1959 Nationality Law defined citizens as persons who settled in the country before 1920 and who had maintained normal residence since then; one-third of the population, descendants of Bedouin tribes, missed the window of opportunity to register for nationality rights after Kuwait became independent in 1961 and were classified as bidun (meaning "without"); since the 1980s Kuwait's bidun have progressively lost their rights, including opportunities for employment and education, amid official claims that they are nationals of other countries who have destroyed their identification documents in hopes of gaining Kuwaiti citizenship; Kuwaiti authorities have delayed processing citizenship applications and labeled biduns as "illegal residents," denying them access to civil documentation, such as birth and marriage certificates<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — Kuwait does not fully meet the minimum standards for the elimination of trafficking, but the government has devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards; therefore, Kuwait was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3 and remained on Tier 2 Watch List for the third consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/kuwait/<br>
+_refugees_: 1,271 (2024 est.)<br>
+_stateless persons_: 92,000 (2024 est.)<br>
 

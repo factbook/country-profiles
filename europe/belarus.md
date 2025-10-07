@@ -164,16 +164,13 @@ _female_: 80 years<br>
 **Gross reproduction rate**<br>
 0.7 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-52.6% (2019)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 99.6% of population<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0.4% of population<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
+_improved: urban_: urban: 99.5% of population (2022 est.)<br>
+_improved: rural_: rural: 98.1% of population (2022 est.)<br>
+_improved: total_: total: 99.2% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.5% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.9% of population (2022 est.)<br>
+_unimproved: total_: total: 0.8% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6.6% of GDP (2021)<br>
@@ -186,12 +183,12 @@ _Health expenditure (as % of national budget)_: 12.3% of national budget (2022 e
 9.7 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: 98.3% of population<br>
-_improved: total_: total: 99.5% of population<br>
-_unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: 1.7% of population<br>
-_unimproved: total_: total: 0.5% of population (2020 est.)<br>
+_improved: urban_: urban: 99.9% of population (2022 est.)<br>
+_improved: rural_: rural: 98.3% of population (2022 est.)<br>
+_improved: total_: total: 99.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.7% of population (2022 est.)<br>
+_unimproved: total_: total: 0.4% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 24.5% (2016)<br>
@@ -254,23 +251,26 @@ _other_: 16.8% (2022 est.)<br>
 _urban population_: 80.7% of total population (2023)<br>
 _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 15.48 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 58.28 megatons (2016 est.)<br>
-_methane emissions_: 17.19 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 46.709 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 1.497 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 15.884 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 29.328 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+13.4 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 4.28 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 684,800 tons (2016 est.)<br>
-_percent of municipal solid waste recycled_: 16% (2016 est.)<br>
+_municipal solid waste generated annually_: 4.28 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 19% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 550 million cubic meters (2020 est.)<br>
-_industrial_: 410 million cubic meters (2020 est.)<br>
-_agricultural_: 370 million cubic meters (2020 est.)<br>
+_municipal_: 600 million cubic meters (2022)<br>
+_industrial_: 430 million cubic meters (2022)<br>
+_agricultural_: 385 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-57.9 billion cubic meters (2020 est.)<br>
+57.9 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -365,7 +365,7 @@ _FAX_: [1] (202) 986-1805<br>
 _email address and website_: <br>usa@mfa.gov.by<br><br>Embassy of the Republic of Belarus in the United States of America (mfa.gov.by)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Peter KAUFMAN (since June 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Michael KREIDLER (since July 2025)<br>
 _embassy_: 46 Starovilenskaya Street, Minsk 220002<br>
 _mailing address_: 7010 Minsk Place, Washington DC&nbsp; 20521-7010<br>
 _telephone_: [375] (17) 210-12-83<br>
@@ -382,8 +382,8 @@ BSEC (observer), CBSS (observer), CEI, CIS, CSTO, EAEC, EAEU, EAPC, EBRD, FAO, G
 Independence Day, 3 July (1944)<br>
 <strong>note:</strong> 3 July 1944 was the date Minsk was liberated from German troops, 25 August 1991 was the date of independence from the Soviet Union<br>
 
-**Flag description**<br>
-red horizontal band (top) and green horizontal band one-half the width of the red band; a white vertical stripe on the hoist side bears Belarusian national ornamentation in red; the red stands for past struggles from oppression, and the green represents hope and the many forests of the country<br>
+**Flag**<br>
+<strong>description:</strong> red horizontal band (top), with a green horizontal band below that is half the width of the red band; a white vertical stripe on the left side has traditional Belarusian designs in red<br><br><strong>meaning:</strong> the red stands for past struggles to escape oppression, and the green for hope and the country's forests<br>
 
 **National symbol(s)**<br>
 no official symbol; the mounted knight known as Pahonia (the Chaser) is the traditional symbol<br>
@@ -499,9 +499,9 @@ _highest 10%_: 20.7% (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $20.609 billion (2022 est.)<br>
-_expenditures_: $20.856 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $22.876 billion (2023 est.)<br>
+_expenditures_: $21.912 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 33.2% of GDP (2019 est.)<br>
@@ -604,12 +604,6 @@ _consumption_: 15.094 billion cubic meters (2023 est.)<br>
 _imports_: 15.433 billion cubic meters (2023 est.)<br>
 _proven reserves_: 2.832 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 46.709 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 1.497 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 15.884 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 29.328 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 104.821 million Btu/person (2023 est.)<br>
 
@@ -685,9 +679,9 @@ the military of Belarus is responsible for territorial defense; Russia is the co
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 42,785 (Ukraine) (as of 29 February 2024)<br>
-_stateless persons_: 5,626 (2022)<br>
+_refugees_: 44,621 (2024 est.)<br>
+_stateless persons_: 5,620 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 — Belarus does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Belarus remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/belarus/<br>
+_tier rating_: Tier 3 — Belarus does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Belarus remained on Tier 3; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/belarus/<br>
 

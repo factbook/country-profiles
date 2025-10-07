@@ -165,17 +165,6 @@ _female_: 76.4 years<br>
 **Gross reproduction rate**<br>
 0.89 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-80.4% (2011/12)<br>
-
-**Drinking water source**<br>
-_improved: urban_: urban: 97.5% of population<br>
-_improved: rural_: rural: 62.6% of population<br>
-_improved: total_: total: 83.2% of population<br>
-_unimproved: urban_: urban: 2.5% of population<br>
-_unimproved: rural_: rural: 37.4% of population<br>
-_unimproved: total_: total: 16.8% of population (2020 est.)<br>
-
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 9.7% of GDP (2021)<br>
 _Health expenditure (as % of national budget)_: 17.8% of national budget (2022 est.)<br>
@@ -187,12 +176,7 @@ _Health expenditure (as % of national budget)_: 17.8% of national budget (2022 e
 0.9 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 89.9% of population<br>
-_improved: rural_: rural: 66.5% of population<br>
-_improved: total_: total: 80.3% of population<br>
-_unimproved: urban_: urban: 10.1% of population<br>
 _unimproved: rural_: rural: 33.5% of population<br>
-_unimproved: total_: total: 19.7% of population (2020 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 23.7% (2016)<br>
@@ -240,21 +224,25 @@ _other_: 31% (2022 est.)<br>
 _urban population_: 59.8% of total population (2023)<br>
 _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 16 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 5.59 megatons (2016 est.)<br>
-_methane emissions_: 6.46 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 3.806 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 3.806 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+16.3 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1,528,816 tons (2010 est.)<br>
+_municipal solid waste generated annually_: 1.529 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 15% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 286 million cubic meters (2020 est.)<br>
-_industrial_: 50 million cubic meters (2020 est.)<br>
-_agricultural_: 1.08 billion cubic meters (2020 est.)<br>
+_municipal_: 190 million cubic meters (2022 est.)<br>
+_industrial_: 620,000 cubic meters (2022 est.)<br>
+_agricultural_: 1.084 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-164.52 billion cubic meters (2020 est.)<br>
+164.52 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 1<br>
@@ -355,9 +343,9 @@ ACS, BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, 
 **National holiday**<br>
 Independence Day, 15 September (1821)<br>
 
-**Flag description**<br>
-three equal horizontal bands of blue (top), white, and blue, with the national coat of arms centered in the white band; the coat of arms has a triangle encircled by the words REPUBLICA DE NICARAGUA on the top and AMERICA CENTRAL on the bottom; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands stand for the Pacific Ocean and the Caribbean Sea, and the white band for the land between the two bodies of water<br>
-<strong>note:</strong> similar to the flag of El Salvador, which has a round emblem with the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL; also similar to the flag of Honduras, which has five blue stars in an X pattern centered in the white band<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of blue (top), white, and blue, with the national coat of arms centered in the white band; the coat of arms has a triangle with the words REPUBLICA DE NICARAGUA in an arc over it and AMERICA CENTRAL in an arc underneath<br><br><strong>meaning: </strong>blue stands for the Pacific Ocean and the Caribbean Sea, and white for the land between the two bodies of water<br><br><strong>history:</strong> the banner is based on the former blue-white-blue flag of the Federal Republic of Central America<br>
+<strong>note:</strong> similar to the flag of El Salvador, which has a round emblem; also similar to the flag of Honduras, which has five blue stars in an "X" pattern centered on the white band<br>
 
 **National symbol(s)**<br>
 turquoise-browed motmot (bird)<br>
@@ -368,7 +356,7 @@ blue, white<br>
 **National anthem(s)**<br>
 _title_: "Salve a ti, Nicaragua" (Hail to Thee, Nicaragua)<br>
 _lyrics/music_: Salomon Ibarra MAYORGA/traditional, arranged by Luis Abraham DELGADILLO<br>
-_history_: adopted in 1971, but the music was approved in 1918 and the lyrics in 1939; the tune was originally from Spain and was used as an anthem without lyrics from the 1830s until 1876<br>
+_history_: music was approved in 1918 and the lyrics in 1939<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>
@@ -460,8 +448,8 @@ _female_: 12% (2024 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $3.396 billion (2022 est.)<br>
-_expenditures_: $2.609 billion (2022 est.)<br>
+_revenues_: $3.856 billion (2023 est.)<br>
+_expenditures_: $3.382 billion (2023 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
@@ -552,11 +540,6 @@ _imports_: 22 metric tons (2023 est.)<br>
 _total petroleum production_: 200 bbl/day (2023 est.)<br>
 _refined petroleum consumption_: 28,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 3.806 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 2 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 3.806 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 10.66 million Btu/person (2023 est.)<br>
 
@@ -633,16 +616,19 @@ the military is responsible for defending Nicaragua’s independence, sovereignt
 ## Space
 
 **Space agency/agencies**<br>
-National Secretariat for Extraterrestrial Space Affairs, The Moon and Other Celestial Bodies (Secretar&iacute;a Nacional para Asuntos del Espacio Ultraterrestre, la Luna y otros Cuerpos Celestes, established 2021; operates under the military&rsquo;s control) (2024)<br>
+National Secretariat for Extraterrestrial Space Affairs, The Moon and Other Celestial Bodies (Secretar&iacute;a Nacional para Asuntos del Espacio Ultraterrestre, la Luna y otros Cuerpos Celestes, established 2021; operates under the military&rsquo;s control) (2025)<br>
 
 **Space program overview**<br>
-stated mission of the space agency is to promote the development of space activities with the aim of broadening the country’s capacities in the fields of education, industry, science, and technology; has cooperated with China and Russia; is a signatory of the convention establishing the Latin American and Caribbean Space Agency (ALCE) (2024)<br>
+stated mission of the space agency is to promote the development of space activities with the aim of broadening the country’s capacities in the fields of education, industry, science, and technology; has cooperated with China and Russia; is a signatory of the convention establishing the Latin American and Caribbean Space Agency (ALCE) (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 
+**Refugees and internally displaced persons**<br>
+_IDPs_: 89 (2024 est.)<br>
+
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 — Nicaragua does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Nicaragua remained on Tier 3; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/nicaragua/ <br>
+_tier rating_: Tier 3 — Nicaragua does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Nicaragua remained on Tier 3; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/nicaragua/<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country (2025)<br>

@@ -95,7 +95,7 @@ territory of Norway; administered by the Polar Department of the Ministry of Jus
 **Legal system**<br>
 the laws of Norway apply&nbsp;<br>
 
-**Flag description**<br>
+**Flag**<br>
 the flag of Norway is used<br>
 
 ## Economy

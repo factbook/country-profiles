@@ -151,24 +151,15 @@ _female_: 84.4 years<br>
 **Gross reproduction rate**<br>
 0.9 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 99.1% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0.9% of population (2020)<br>
+_improved: total_: total: 99.9% of population (2022 est.)<br>
+_unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
 _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA<br>
+_unimproved: total_: total: 0% of population (2022 est.) NA<br>
 
 ## Environment
 
@@ -191,8 +182,7 @@ _urban population_: 53.5% of total population (2023)<br>
 _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 50,551 tons (2011 est.)<br>
-_municipal solid waste recycled annually_: 25,276 tons (2011 est.)<br>
+_municipal solid waste generated annually_: 50,600 tons (2024 est.)<br>
 _percent of municipal solid waste recycled_: 50% (2011 est.)<br>
 
 ## Government
@@ -218,7 +208,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the name comes from the Gaelic name <em>Dubhghlais</em>, or "black stream," referring to a nearby river; a second river was called <em>Fionnghlais</em>, or "white stream;" both river names were later shortened to Dhoo and Glass, respectively, which coincidentally comprised the elements of the town's name<br>
 
 **Administrative divisions**<br>
-none; there are no first-order administrative divisions as defined by the US government, but 24 local authorities each hold elections<br>
+none; no first-order administrative divisions as defined by the US government, but 24 local authorities each hold elections<br>
 
 **Legal system**<br>
 UK laws apply, as well as Manx statutes<br>
@@ -292,8 +282,8 @@ none (British Crown dependency)<br>
 **National holiday**<br>
 Tynwald Day, 5 July (1417); date Tynwald Day was first recorded<br>
 
-**Flag description**<br>
-red with the Three Legs of Man emblem (triskelion) in the center; the three legs are joined at the thigh and bent at the knee; in order to have the toes pointing clockwise on both sides of the flag, a two-sided emblem is used; the flag is based on the coat of arms of the last recognized Norse King of Mann, MAGNUS III (r. 1252-65); the triskelion has its roots in an early Celtic sun symbol<br>
+**Flag**<br>
+<strong>description:</strong> red with the Three Legs of Man emblem (triskelion) in the center; the three legs are joined at the thigh and bent at the knee; a two-sided emblem is used to allow the toes to point clockwise on both sides of the flag <br><br><strong>history:</strong> the flag is based on the coat of arms of the last recognized Norse King of Mann, MAGNUS III (r. 1252-65); the triskelion has its roots in an early Celtic sun symbol<br>
 
 **National symbol(s)**<br>
 triskelion (a motif of three legs)<br>

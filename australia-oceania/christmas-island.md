@@ -187,8 +187,8 @@ none (territory of Australia)<br>
 **National holiday**<br>
 Australia Day (commemorates the arrival of the First Fleet of Australian settlers), 26 January (1788)<br>
 
-**Flag description**<br>
-territorial flag; divided diagonally from upper hoist side to lower fly side; the upper triangle is green with a yellow image of the Golden Bosun Bird; the lower triangle is blue with the Southern Cross constellation, representing Australia; a centered yellow disk displays a green map of the island<br>
+**Flag**<br>
+<strong>description:</strong> territorial flag; divided diagonally from upper left to lower right; the upper triangle is green with a yellow silhouette of the golden bosun bird; the lower triangle is blue and shows the Southern Cross constellation, representing Australia; a centered yellow disk displays a green outline of the island<br>
 <strong>note:</strong> the flag of Australia is used for official purposes<br>
 
 **National symbol(s)**<br>
@@ -225,11 +225,11 @@ aircraft, refined petroleum, cars, air conditioners, plastic products (2023)<br>
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>
+1.515 (2024 est.)<br>
 1.505 (2023 est.)<br>
 1.442 (2022 est.)<br>
 1.331 (2021 est.)<br>
 1.453 (2020 est.)<br>
-1.439 (2019 est.)<br>
 
 ## Communications
 

@@ -170,16 +170,13 @@ _female_: 75.7 years<br>
 **Gross reproduction rate**<br>
 1.51 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-52.8% (2018)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 97.4% of population<br>
-_improved: total_: total: 99.3% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 2.6% of population<br>
-_unimproved: total_: total: 0.7% of population (2020 est.)<br>
+_improved: urban_: urban: 99.8% of population (2022 est.)<br>
+_improved: rural_: rural: 94.8% of population (2022 est.)<br>
+_improved: total_: total: 98.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 5.2% of population (2022 est.)<br>
+_unimproved: total_: total: 1.6% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.2% of GDP (2021)<br>
@@ -192,12 +189,12 @@ _Health expenditure (as % of national budget)_: 5.8% of national budget (2022 es
 1.3 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 98.8% of population (2022 est.)<br>
+_improved: rural_: rural: 97.6% of population (2022 est.)<br>
+_improved: total_: total: 98.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 2.4% of population (2022 est.)<br>
+_unimproved: total_: total: 1.5% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 30.4% (2016)<br>
@@ -256,21 +253,32 @@ _other_: 76.3% (2022 est.)<br>
 _urban population_: 71.6% of total population (2023)<br>
 _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 39.29 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 190.06 megatons (2016 est.)<br>
-_methane emissions_: 17.44 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 190.815 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 7,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 152.931 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 37.878 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+45.4 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 2,243 kt (2022-2024 est.)<br>
+_agriculture_: 157 kt (2019-2021 est.)<br>
+_waste_: 325 kt (2019-2021 est.)<br>
+_other_: 2.3 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 13.14 million tons (2015 est.)<br>
+_municipal solid waste generated annually_: 13.14 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 15.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 6.9 billion cubic meters (2020 est.)<br>
-_industrial_: 5.49 billion cubic meters (2020 est.)<br>
-_agricultural_: 44.23 billion cubic meters (2020 est.)<br>
+_municipal_: 6.735 billion cubic meters (2022 est.)<br>
+_industrial_: 4.52 billion cubic meters (2022 est.)<br>
+_agricultural_: 31.169 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-89.86 billion cubic meters (2020 est.)<br>
+89.86 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -292,7 +300,7 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the origin of the name is unclear; it may mean "gift of God," from the pre-Islamic words <em>bagh</em> (god) and <em>dad</em> (given)<br>
 
 **Administrative divisions**<br>
-18 governorates (<em>muhafazat</em>, singular - <em>muhafazah </em>(Arabic); parezgakan, singular - parezga (Kurdish)); 'Al Anbar; Al Basrah; Al Muthanna; Al Qadisiyah (Ad Diwaniyah); An Najaf; Arbil (Erbil) (Arabic), Hewler (Kurdish); As Sulaymaniyah (Arabic), Slemani (Kurdish); Babil; Baghdad; Dahuk (Arabic), Dihok (Kurdish); Dhi Qar; Diyala; Karbala'; Kirkuk; Maysan; Ninawa; Salah ad Din; Wasit<br>
+19 governorates (<em>muhafazat</em>, singular - <em>muhafazah </em>(Arabic); parezgakan, singular - parezga (Kurdish)); 'Al Anbar; Al Basrah; Al Muthanna; Al Qadisiyah (Ad Diwaniyah); An Najaf; Arbil (Erbil) (Arabic), Halabjah; Hewler (Kurdish); As Sulaymaniyah (Arabic), Slemani (Kurdish); Babil; Baghdad; Dahuk (Arabic), Dihok (Kurdish); Dhi Qar; Diyala; Karbala'; Kirkuk; Maysan; Ninawa; Salah ad Din; Wasit<br>
 <strong>note: </strong>Iraq's Kurdistan Regional Government administers Arbil, Dahuk, and As Sulaymaniyah (as Hewler, Dihok, and Slemani, respectively)<br>
 
 **Legal system**<br>
@@ -353,7 +361,7 @@ _email address and website_: <br>washington@scrdiraq.gov.iq<br><br>https://www.i
 _consulate(s) general_: Detroit, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Daniel Rubinstein (since 28 January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Ambassador Steven H. FAGIN (since 29 May 2025); note - Ambassador Fagin has served as U.S. Ambassador to the Republic of Yemen since 2022 and will remain accredited as Ambassador there during his time in Baghdad<br>
 _embassy_: Al-Kindi Street, International Zone, Baghdad; note - consulate in Al Basrah closed as of 28 September 2018<br>
 _mailing address_: 6060 Baghdad Place, Washington DC&nbsp; 20521-6060<br>
 _telephone_: 0760-030-3000<br>
@@ -369,8 +377,8 @@ ABEDA, AFESD, AIIB, AMF, CAEU, CICA, EITI (compliant country), FAO, G-77, IAEA, 
 **National holiday**<br>
 Independence Day, 3 October (1932); Republic Day, 14 July (1958)<br>
 
-**Flag description**<br>
-three equal horizontal bands of red (top), white, and black; the Takbir (Arabic phrase meaning "God is great") in green Arabic script is centered in the white band; the colors come from the Arab Liberation flag and stand for oppression (black) overcome through bloody struggle (red), to be replaced by a bright future (white); the Council of Representatives approved this flag in 2008 as a compromise replacement for the Ba'thist SADDAM-era flag<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of red (top), white, and black; the Takbir (Arabic phrase meaning "God is great") in green Arabic script is centered in the white band<br><br><strong>meaning:</strong> the colors come from the Arab Liberation flag and stand for oppression (black) overcome through bloody struggle (red), to be replaced by a bright future (white)<br><br><strong>history:</strong> the Council of Representatives approved this flag in 2008 as a compromise replacement for the Ba'thist SADDAM-era flag<br>
 <strong>note:</strong> similar to the flags of Syria (two stars but no script), Yemen (plain white band), and Egypt (a golden Eagle of Saladin centered in the white band)<br>
 
 **National symbol(s)**<br>
@@ -474,7 +482,7 @@ _on alcohol and tobacco_: 4.3% of household expenditures (2023 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.7% (2023 est.)<br>
 _highest 10%_: 24.2% (2023 est.)<br>
-% share of income accruing to lowest and highest 10% of population<br>
+<strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.4% of GDP (2023 est.)<br>
@@ -577,12 +585,6 @@ _consumption_: 19.308 billion cubic meters (2023 est.)<br>
 _imports_: 8.771 billion cubic meters (2023 est.)<br>
 _proven reserves_: 3.729 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 190.815 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 7,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 152.931 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 37.878 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 64.311 million Btu/person (2023 est.)<br>
 
@@ -641,7 +643,7 @@ _key ports_: Al Basrah, Al-Basra Oil Terminal, Khawr Al Amaya, Khawr Al Zubair, 
 
 **Military and security forces**<br>
 Ministry of Defense: Iraqi Army, Iraqi Navy, Iraqi Air Force<br><br>Office of the Prime Minister: Iraqi Counterterrorism Service (CTS); Popular Mobilization Committee (PMC)<br><br>Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Provincial Police; Ministry of Oil: Energy Police Directorate (2025)<br>
-<strong>note 1: </strong>the Iraqi military and associated security forces are collectively known as the Iraqi Security Forces (ISF); the Iraqi Counterterrorism Service (CTS) includes the Iraqi Special Operations Forces (ISOF)<br><br><strong>note 2:</strong> the PMC includes both the Popular Mobilization Forces and Tribal Mobilization Forces, a collection of more than 50 militias of widely varied sizes and political interests<br><br><strong>note 3:</strong> the federal constitution provides the Kurdistan Regional Government (KRG) the right to maintain its own military and security forces, known as the Kurdish Security Forces (KSF); some forces, such as the Regional Guard Brigades, are unified under the KRG's Ministry of Peshmerga Affairs, but the two main Kurdish political parties, the Kurdistan Democratic Party (KDP) and the Patriotic Union of Kurdistan (PUK), also maintain their own forces; the Unit/Division 80 Forces are under the KDP, while the Unit/Division 70 Forces are under the PUK; the KDP and PUK also maintain separate police, emergency response, and internal security/intelligence services (Asayish) under nominal KRG Ministry of Interior control; the KRG is working towards disbanding the partisan 70 and 80 Forces and integrating them into joint units under the Ministry of Peshmerga Affairs by September 2026<br>
+<strong>note 1: </strong>the Iraqi military and associated security forces are collectively known as the Iraqi Security Forces (ISF); the Iraqi Counterterrorism Service (CTS) includes the Iraqi Special Operations Forces (ISOF)<br><br><strong>note 2:</strong> the PMC includes the Popular Mobilization Forces (PMF), a collection of more than 60 militias of widely varied sizes and political interests; the Iraqi Government funds the PMF and it is mandated by law to act under government control, but many of the militia units take orders from individual government officials and/or associated political parties; some militias have ties to Iran and some have been designated as terrorist organizations by the US<br><br><strong>note 3:</strong> the federal constitution provides the Kurdistan Regional Government (KRG) the right to maintain its own military and security forces, known as the Kurdish Security Forces (KSF); some forces, such as the Regional Guard Brigades, are unified under the KRG's Ministry of Peshmerga Affairs, but the two main Kurdish political parties, the Kurdistan Democratic Party (KDP) and the Patriotic Union of Kurdistan (PUK), also maintain their own military forces, police, emergency response, and internal security/intelligence services<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2024 est.)<br>
@@ -651,7 +653,7 @@ Ministry of Defense: Iraqi Army, Iraqi Navy, Iraqi Air Force<br><br>Office of th
 3.2% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 200,000 active armed forces personnel under the Ministry of Defense (Army, Aviation Command, Air/Air Defense, Navy, Special Forces); approximately 20-25,000 National-Level Security Forces<br><br>Ministry of Peshmerga: approximately 150,000 active personnel (2025)<br>
+estimated 200,000 active armed forces personnel under the Ministry of Defense (Army, Aviation Command, Air/Air Defense, Navy, Special Forces); approximately 20-25,000 National-Level Security Forces<br><br>Ministry of Peshmerga: estimated 150,000 active personnel<br><br>Popular Mobilization Forces: estimated 200,000 militia (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Iraqi military's inventory includes a mix of equipment from a wide variety of sources, including China, several European countries, South Africa, South Korea, Russia, and the US (2024)<br>
@@ -672,7 +674,7 @@ Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps (IRGC)/Qods
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 7,864 (West Bank and Gaza Strip) (mid-year 2022); 273,258 (Syria), 8,575 (Iran), 8,091 (Turkey) (2023)<br>
-_IDPs_: 1.142 million (displacement in central and northern Iraq since January 2014) (2023)<br>
-_stateless persons_: 47,253 (2022); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless<br>
+_refugees_: 335,343 (2024 est.)<br>
+_IDPs_: 1,201,813 (2024 est.)<br>
+_stateless persons_: 233 (2024 est.)<br>
 

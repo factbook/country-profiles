@@ -166,16 +166,13 @@ _female_: 79.3 years<br>
 **Gross reproduction rate**<br>
 0.78 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 7.4% of GDP (2021)<br>
@@ -188,12 +185,12 @@ _Health expenditure (as % of national budget)_: 9.9% of national budget (2022 es
 6.8 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 26.4% (2016)<br>
@@ -246,23 +243,26 @@ _other_: 21.9% (2022 est.)<br>
 _urban population_: 72.9% of total population (2023)<br>
 _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 14.24 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 45.54 megatons (2016 est.)<br>
-_methane emissions_: 7.25 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 40.161 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 3.373 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 20.887 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 15.901 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+14.2 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 3.712 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 962,893 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 25.9% (2015 est.)<br>
+_municipal solid waste generated annually_: 3.781 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 31% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 660 million cubic meters (2020 est.)<br>
-_industrial_: 3.45 billion cubic meters (2020 est.)<br>
-_agricultural_: 550 million cubic meters (2020 est.)<br>
+_municipal_: 660 million cubic meters (2022)<br>
+_industrial_: 3.758 billion cubic meters (2022)<br>
+_agricultural_: 548.613 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-104 billion cubic meters (2020 est.)<br>
+104 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 4 (2024)<br>
@@ -367,8 +367,8 @@ Australia Group, BIS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA (cooperating 
 Saint Stephen's Day, 20 August (1083)<br>
 <strong>note:</strong> commemorates the saint's canonization and the transfer of his remains to Buda (now Budapest) in 1083<br>
 
-**Flag description**<br>
-three equal horizontal bands of red (top), white, and green; the flag dates to the national movement of the 18th and 19th centuries and fuses the medieval colors of the Hungarian coat of arms with the revolutionary tricolor of the French flag; folklore attributes virtues to the colors: red for strength, white for faithfulness, and green for hope; alternatively, the red can stand for the blood spilled in defense of the land, white for freedom, and green for pasturelands&nbsp;<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of red (top), white, and green<br><br><strong>meaning:</strong> folklore attributes virtues to the colors: red for strength, white for faithfulness, and green for hope; alternatively, the red can stand for the blood spilled in defense of the land, white for freedom, and green for pasturelands<br><br><strong>history:</strong> the flag dates to the national movement of the 18th and 19th centuries and fuses the medieval colors of the Hungarian coat of arms with the revolutionary tricolor of the French flag <br>
 
 **National symbol(s)**<br>
 Holy Crown of Hungary (Crown of Saint Stephen)<br>
@@ -485,8 +485,8 @@ _highest 10%_: 24.4% (2022 est.)<br>
 
 **Budget**<br>
 _revenues_: $69.793 billion (2022 est.)<br>
-_expenditures_: $75.081 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_expenditures_: $80.429 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 75.3% of GDP (2022 est.)<br>
@@ -587,12 +587,6 @@ _consumption_: 8.293 billion cubic meters (2023 est.)<br>
 _imports_: 8.216 billion cubic meters (2023 est.)<br>
 _proven reserves_: 3.738 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 40.161 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 3.373 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 20.887 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 15.901 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 96.152 million Btu/person (2023 est.)<br>
 
@@ -644,18 +638,17 @@ Hungarian Defense Forces (HDF or Magyar Honvédség): the HDF is organized as a 
 <strong>note:</strong> the National Police are under the Ministry of Interior and responsible for maintaining order nationwide; the Ministry of Interior also has the Counterterrorism Center, a special police force responsible for protecting the president and the prime minister and for preventing, uncovering, and detecting terrorist acts<br>
 
 **Military expenditures**<br>
+2.1% of GDP (2025 est.)<br>
 2.1% of GDP (2024 est.)<br>
-2.1% of GDP (2023)<br>
-1.8% of GDP (2022)<br>
-1.7% of GDP (2021)<br>
-1.8% of GDP (2020)<br>
+2.1% of GDP (2023 est.)<br>
+1.8% of GDP (2022 est.)<br>
+1.7% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 21,000 active-duty Defense Forces (16,000 Army; 5,000 Air Force) (2024)<br>
-<strong>note:</strong> in 2017, Hungary announced plans to increase the number of active soldiers to around 37,000 but did not give a timeline<br>
+approximately 22,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the HDF has a mix of Soviet-era and more modern, Western equipment from such countries as Germany, France, Sweden, and the US; in 2017, Budapest launched a modernization program aimed at replacing its Soviet-era weaponry with modern systems; Hungary has also placed emphasis on building up its s defense industrial capacity&nbsp; (2024)<br>
+the HDF has a mix of Soviet-era and more modern, Western equipment from such countries as Germany, France, Sweden, and the US; in 2017, Budapest launched a modernization program aimed at replacing its Soviet-era weaponry with modern systems; Hungary has also placed emphasis on building up its defense industrial capacity (2024)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; no conscription (abolished 2005); 6-month service obligation (2023)<br>
@@ -667,15 +660,6 @@ the HDF has a mix of Soviet-era and more modern, Western equipment from such cou
 **Military - note**<br>
 the Hungarian Defense Forces (HDF) are responsible for ensuring the defense of the country’s sovereignty, territorial integrity, and citizens, and fulfilling Hungary’s commitments to the EU and NATO, as well as contributing to other international peacekeeping efforts under the UN; key areas of concern for the HDF the HDF is also responsible for some aspects of domestic security, crisis management, disaster response, and assisting law enforcement forces in border security<br><br>Hungary has been a member of NATO since 1999 and considers the collective defense ensured within the Alliance as a cornerstone of the country’s security; NATO membership is complemented by Hungary’s ties to the EU under its Common Security and Defense Policy; the HDF has participated in multiple NATO-led security missions, including in Afghanistan, Iraq, and Kosovo, as well as EU-led missions in Bosnia and Herzegovina and Mali; it hosts a NATO battlegroup comprised of troops from Croatia, Hungary, Italy, and the US, and NATO’s Multinational Division Center, a headquarters capable of commanding a division-sized force (typically 15-20,000 troops) in a crisis; both organizations were established as a result of Russian aggression against Ukraine; Hungary is a member of the Visegrad Group, a regional platform that brings together Czechia, Hungary, Poland, and Slovakia to discuss cultural, defense, and political cooperation (2025)<br>
 
-## Space
-
-**Space agency/agencies**<br>
-Hungarian Space Office (HSO; established 1992) (2024)<br>
-
-**Space program overview**<br>
-has a history of involvement in space activities going back to the Soviet era; growing a modern space program focused on acquiring satellites and contributing to the European Space Agency (ESA); has a national space strategy; builds and operates satellites; researches and develops space technologies, including communications, navigation, and subsystems for satellites; has an astronaut corps; in addition to being an ESA member and cooperating with individual ESA and EU member states, particularly France, has relations with a variety of other foreign space agencies and industries, including those of Brazil, Israel, Russia, Singapore, Turkey, the UAE, and the US; national space strategy included the goals of fostering innovation and increasing Hungary’s competitiveness in the commercial space sector (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
-
 ## Terrorism
 
 **Terrorist group(s)**<br>
@@ -685,6 +669,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 66,135 (Ukraine) (as of 15 April 2024)<br>
-_stateless persons_: 130 (2022)<br>
+_refugees_: 72,359 (2024 est.)<br>
+_stateless persons_: 101 (2024 est.)<br>
 

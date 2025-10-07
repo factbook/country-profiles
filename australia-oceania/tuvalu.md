@@ -155,16 +155,13 @@ _female_: 71.6 years<br>
 **Gross reproduction rate**<br>
 1.36 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-23.7% (2019/20)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 99% of population (2022 est.)<br>
+_improved: rural_: rural: 99.7% of population (2022 est.)<br>
+_improved: total_: total: 99.3% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.3% of population (2022 est.)<br>
+_unimproved: total_: total: 0.7% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 20% of GDP (2021)<br>
@@ -174,12 +171,12 @@ _Health expenditure (as % of national budget)_: 11.2% of national budget (2022 e
 1.35 physicians/1,000 population (2020)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 91.8% of population<br>
-_improved: rural_: rural: 91% of population<br>
-_improved: total_: total: 91.5% of population<br>
-_unimproved: urban_: urban: 9.2% of population<br>
-_unimproved: rural_: rural: 9% of population<br>
-_unimproved: total_: total: 8.5% of population (2017 est.)<br>
+_improved: urban_: urban: 96.7% of population (2022 est.)<br>
+_improved: rural_: rural: 93.9% of population (2022 est.)<br>
+_improved: total_: total: 95.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 3.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 6.1% of population (2022 est.)<br>
+_unimproved: total_: total: 4.2% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 51.6% (2016)<br>
@@ -235,18 +232,11 @@ _other_: 6.7% (2022 est.)<br>
 _urban population_: 66.2% of total population (2023)<br>
 _rate of urbanization_: 2.08% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 6.81 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.01 megatons (2016 est.)<br>
-_methane emissions_: 0.01 megatons (2020 est.)<br>
+**Particulate matter emissions**<br>
+6.8 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 3,989 tons (2011 est.)<br>
-_municipal solid waste recycled annually_: 598 tons (2013 est.)<br>
-_percent of municipal solid waste recycled_: 15% (2013 est.)<br>
-
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
+_municipal solid waste generated annually_: 4,000 tons (2024 est.)<br>
 
 ## Government
 
@@ -337,8 +327,8 @@ ACP, ADB, AOSIS, C, FAO, IBRD, IDA, IFAD, IFRCS (observer), ILO, IMF, IMO, IOC, 
 **National holiday**<br>
 Independence Day, 1 October (1978)<br>
 
-**Flag description**<br>
-light blue with the UK flag in the upper hoist-side quadrant; the outer half of the flag represents a map of the country, with the nine yellow five-pointed stars on a blue field symbolizing the atolls in the ocean<br>
+**Flag**<br>
+<strong>description:</strong> light blue with the UK flag in the upper-left quadrant; the right half of the flag has nine five-pointed yellow stars  <br><br><strong>meaning: </strong>the stars represent a map of the country, with each symbolizing an atoll in the ocean<br>
 
 **National symbol(s)**<br>
 maneapa (native meeting house)<br>
@@ -347,9 +337,9 @@ maneapa (native meeting house)<br>
 light blue, yellow<br>
 
 **National anthem(s)**<br>
-_title_: "Tuvalu mo te Atua" (Tuvalu for the Almighty)<br>
-_lyrics/music_: Afaese MANOA<br>
-_history_: adopted 1978; the anthem's name is also the nation's motto<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: used since 1745<br>
 
 ## Economy
 
@@ -378,6 +368,12 @@ $5,400 (2021 est.)<br>
 $62.28 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
+**Inflation rate (consumer prices)**<br>
+11.5% (2022 est.)<br>
+6.2% (2021 est.)<br>
+1.9% (2020 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
+
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 15.9% (2015 est.)<br>
 _industry_: 7% (2015 est.)<br>
@@ -401,6 +397,9 @@ fishing<br>
 _revenues_: $87 million (2019 est.)<br>
 _expenditures_: $88 million (2019 est.)<br>
 <strong>note:</strong> revenue data include Official Development Assistance from Australia<br>
+
+**Public debt**<br>
+47.2% of GDP (2016 est.)<br>
 
 **Current account balance**<br>
 $2.713 million (2022 est.)<br>

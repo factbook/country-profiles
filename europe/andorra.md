@@ -159,16 +159,13 @@ _female_: 86.2 years<br>
 **Gross reproduction rate**<br>
 0.71 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 8.3% of GDP (2021)<br>
@@ -178,12 +175,12 @@ _Health expenditure (as % of national budget)_: 15.9% of national budget (2022 e
 5.07 physicians/1,000 population (2023)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 25.6% (2016)<br>
@@ -233,16 +230,14 @@ _other_: 26.1% (2022 est.)<br>
 _urban population_: 87.8% of total population (2023)<br>
 _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 8.52 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.47 megatons (2016 est.)<br>
-_methane emissions_: 0.05 megatons (2020 est.)<br>
+**Particulate matter emissions**<br>
+8.5 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 43,000 tons (2012 est.)<br>
+_municipal solid waste generated annually_: 43,000 tons (2024 est.)<br>
 
 **Total renewable water resources**<br>
-320 million cubic meters (2020 est.)<br>
+315.6 million cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -334,8 +329,8 @@ CE, FAO, ICAO, ICC (NGOs), ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITU, OIF, OPCW
 **National holiday**<br>
 Our Lady of Meritxell Day, 8 September (1278)<br>
 
-**Flag description**<br>
-three vertical bands of blue (hoist side), yellow, and red, with the national coat of arms centered in the yellow band, which is slightly wider than the other two; the coat of arms features a quartered shield with the emblems of (starting in the upper left and proceeding clockwise): Urgell, Foix, Bearn, and Catalonia; the motto reads VIRTUS UNITA FORTIOR (Strength United is Stronger); the flag combines the blue and red French colors with the red and yellow of Spain to show Franco-Spanish protection<br>
+**Flag**<br>
+<strong>description:</strong> three vertical bands of blue (left side), yellow, and red, with the national coat of arms centered in the yellow band, which is slightly wider than the other two; the coat of arms features a quartered shield with the emblems of Urgell, Foix, Bearn, and Catalonia; the motto reads VIRTUS UNITA FORTIOR (Strength United is Stronger)<br><br><strong>meaning: </strong>the flag combines the blue and red French colors with the red and yellow of Spain to symbolize Franco-Spanish protection<br>
 <strong>note:</strong> similar to the flags of Chad and Romania, which do not have a national coat of arms in the center, and the flag of Moldova, which does bear a national emblem<br>
 
 **National symbol(s)**<br>
@@ -380,6 +375,12 @@ $63,900 (2022 est.)<br>
 $4.04 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
+**Inflation rate (consumer prices)**<br>
+6.2% (2022 est.)<br>
+1.7% (2021 est.)<br>
+0.1% (2020 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
+
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.5% (2024 est.)<br>
 _industry_: 12.8% (2024 est.)<br>
@@ -403,8 +404,12 @@ tourism (particularly skiing), banking, timber, furniture<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $1.872 billion (2016)<br>
-_expenditures_: $2.06 billion (2016)<br>
+_revenues_: $1.054 billion (2023 est.)<br>
+_expenditures_: $989.38 million (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+41.4% of GDP (2013 est.)<br>
 
 **Current account balance**<br>
 $538.287 million (2023 est.)<br>

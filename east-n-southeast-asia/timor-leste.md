@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The island of Timor was actively involved in Southeast Asian trading networks for centuries, and by the 14th century, it exported sandalwood, slaves, honey, and wax. The sandalwood trade attracted the Portuguese, who arrived in the early 16th century; by mid-century, they had colonized the island, which was previously ruled by local chieftains. In 1859, Portugal ceded the western portion of the island to the Dutch. Imperial Japan occupied Portuguese Timor from 1942 to 1945, but Portugal resumed colonial authority after the Japanese defeat in World War II. The eastern part of Timor declared itself independent from Portugal on 28 November 1975, but Indonesian forces invaded and occupied the area nine days later. It was incorporated into Indonesia in 1976 as the province of Timor Timur (East Timor or Timor Leste). Indonesia conducted an unsuccessful pacification campaign in the province over the next two decades, during which an estimated 100,000 to 250,000 people died. <br><br>In a UN-supervised referendum in 1999, an overwhelming majority of the people of Timor-Leste voted for independence from Indonesia. However, anti-independence Timorese militias -- organized and supported by the Indonesian military -- began a large-scale, scorched-earth campaign of retribution, killing approximately 1,400 Timorese and displacing nearly 500,000. Most of the country's infrastructure was destroyed, including homes, irrigation systems, water supply systems, schools, and most of the electrical grid. Australian-led peacekeeping troops eventually deployed to the country and ended the violence. In 2002, Timor-Leste was internationally recognized as an independent state.</p> <p>In 2006, Australia and the UN had to step in again to stabilize the country, which allowed presidential and parliamentary elections to be conducted in 2007 in a largely peaceful atmosphere. In 2008, rebels staged an unsuccessful attack against the president and prime minister. Since that attack, Timor-Leste has made considerable progress in building stability and democratic institutions, holding a series of successful parliamentary and presidential elections since 2012. Nonetheless, weak and unstable political coalitions have led to periodic episodes of stalemate and crisis. The UN continues to provide assistance on economic development and strengthening governing institutions. Currently, Timor-Leste is one of the world's poorest nations, with an economy that relies heavily on energy resources in the Timor Sea.</p><br>
+<p>The island of Timor was actively involved in Southeast Asian trading networks for centuries, and by the 14th century, it exported sandalwood, slaves, honey, and wax. The sandalwood trade attracted the Portuguese, who arrived in the early 16th century; by mid-century, they had colonized the island, which was previously ruled by local chieftains. In 1859, Portugal ceded the western portion of the island to the Dutch. Imperial Japan occupied Portuguese Timor from 1942 to 1945, but Portugal resumed colonial authority after the Japanese defeat in World War II. The eastern part of Timor declared itself independent from Portugal on 28 November 1975, but Indonesian forces invaded and occupied the area nine days later. It was incorporated into Indonesia in 1976 as the province of Timor Timur (East Timor or Timor Leste). Indonesia conducted an unsuccessful pacification campaign in the province over the next two decades, during which as many as 250,000 people died. <br><br>In a UN-supervised referendum in 1999, an overwhelming majority of the people of Timor-Leste voted for independence from Indonesia. However, anti-independence Timorese militias -- organized and supported by the Indonesian military -- began a large-scale, scorched-earth campaign of retribution, killing approximately 1,400 Timorese and displacing nearly 500,000. Most of the country's infrastructure was destroyed, including homes, irrigation systems, water supply systems, schools, and most of the electrical grid. Australian-led peacekeeping troops eventually deployed to the country and ended the violence. In 2002, Timor-Leste was internationally recognized as an independent state.</p> <p>In 2006, Australia and the UN had to step in again to stabilize the country, which allowed presidential and parliamentary elections to be conducted in 2007 in a largely peaceful atmosphere. In 2008, rebels staged an unsuccessful attack against the president and prime minister. Since that attack, Timor-Leste has made considerable progress in building stability and democratic institutions, holding a series of successful parliamentary and presidential elections since 2012. Nonetheless, weak and unstable political coalitions have led to periodic episodes of stalemate and crisis. The UN continues to provide assistance on economic development and strengthening governing institutions. Currently, Timor-Leste is one of the world's poorest nations, with an economy that relies heavily on energy resources in the Timor Sea.</p><br>
 
 ## Geography
 
@@ -160,16 +160,13 @@ _female_: 72.3 years<br>
 **Gross reproduction rate**<br>
 1.92 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-26.1% (2016)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 98% of population<br>
-_improved: rural_: rural: 82.5% of population<br>
-_improved: total_: total: 87.4% of population<br>
-_unimproved: urban_: urban: 2% of population<br>
-_unimproved: rural_: rural: 17.5% of population<br>
-_unimproved: total_: total: 12.6% of population (2020 est.)<br>
+_improved: urban_: urban: 98.4% of population (2022 est.)<br>
+_improved: rural_: rural: 81.6% of population (2022 est.)<br>
+_improved: total_: total: 87% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 18.4% of population (2022 est.)<br>
+_unimproved: total_: total: 13% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 11.4% of GDP (2021)<br>
@@ -179,12 +176,12 @@ _Health expenditure (as % of national budget)_: 8.9% of national budget (2022 es
 0.75 physicians/1,000 population (2020)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 88.7% of population<br>
-_improved: rural_: rural: 56.1% of population<br>
-_improved: total_: total: 66.3% of population<br>
-_unimproved: urban_: urban: 11.3% of population<br>
-_unimproved: rural_: rural: 43.9% of population<br>
-_unimproved: total_: total: 33.7% of population (2020 est.)<br>
+_improved: urban_: urban: 94.1% of population (2022 est.)<br>
+_improved: rural_: rural: 64% of population (2022 est.)<br>
+_improved: total_: total: 73.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 5.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 36% of population (2022 est.)<br>
+_unimproved: total_: total: 26.3% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 3.8% (2016)<br>
@@ -248,21 +245,24 @@ _other_: 15.3% (2022 est.)<br>
 _urban population_: 32.5% of total population (2023)<br>
 _rate of urbanization_: 3.31% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 20.47 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.5 megatons (2016 est.)<br>
-_methane emissions_: 4.74 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 660,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 660,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+20.4 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 63,875 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 63,900 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 13.5% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 100 million cubic meters (2020 est.)<br>
-_industrial_: 2 million cubic meters (2017 est.)<br>
-_agricultural_: 1.07 billion cubic meters (2020 est.)<br>
+_municipal_: 99 million cubic meters (2022 est.)<br>
+_industrial_: 2 million cubic meters (2022 est.)<br>
+_agricultural_: 1.071 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-8.22 billion cubic meters (2020 est.)<br>
+8.215 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -344,7 +344,7 @@ _FAX_: [1] (202) 966-3205<br>
 _email address and website_: <br>info@timorlesteembassy.org<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Marc WEINSTOCK (since 22 February 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Bruce BEGNELL (since July 2025)<br>
 _embassy_: Avenida de Portugal, Praia dos Coqueiros, Dili<br>
 _mailing address_: 8250 Dili Place, Washington, DC 20521-8250<br>
 _telephone_: (670) 332-4684, (670) 330-2400<br>
@@ -360,8 +360,8 @@ ACP, ADB, AOSIS, ARF, ASEAN (observer), CPLP, EITI (compliant country), FAO, G-7
 **National holiday**<br>
 Restoration of Independence Day, 20 May (2002); Proclamation of Independence Day, 28 November (1975)<br>
 
-**Flag description**<br>
-red with a black isosceles triangle (based on the hoist side) on a slightly longer yellow arrowhead that extends to the center of the flag; a white star is in the center of the black triangle; yellow stands for past colonialism, black for obscurantism that needs to be overcome, and red for the struggle for freedom; the white star represents peace and a guiding light<br>
+**Flag**<br>
+<strong>description:</strong> red with a black isosceles triangle (based on the left side) on a slightly longer yellow arrowhead that extends to the center of the flag; a white star is in the center of the black triangle<br><br><strong>meaning:</strong> yellow stands for past colonialism, black for obscurantism that needs to be overcome, and red for the struggle for freedom; the white star represents peace and a guiding light<br>
 
 **National symbol(s)**<br>
 Mount Ramelau<br>
@@ -457,8 +457,11 @@ _female_: 3.7% (2024 est.)<br>
 
 **Budget**<br>
 _revenues_: $1.877 billion (2022 est.)<br>
-_expenditures_: $1.684 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_expenditures_: $1.826 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+3.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 21.6% (of GDP) (2022 est.)<br>
@@ -537,10 +540,6 @@ _refined petroleum consumption_: 5,000 bbl/day (2023 est.)<br>
 **Natural gas**<br>
 _production_: 521.034 million cubic meters (2023 est.)<br>
 _exports_: 521.034 million cubic meters (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 660,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 660,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 6.825 million Btu/person (2023 est.)<br>

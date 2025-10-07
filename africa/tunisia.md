@@ -161,16 +161,13 @@ _female_: 79.1 years<br>
 **Gross reproduction rate**<br>
 0.94 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-50.7% (2018)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 97.3% of population<br>
-_improved: total_: total: 99.2% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 2.7% of population<br>
-_unimproved: total_: total: 0.8% of population (2020 est.)<br>
+_improved: urban_: urban: 98.8% of population (2022 est.)<br>
+_improved: rural_: rural: 93.4% of population (2022 est.)<br>
+_improved: total_: total: 97.2% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 6.6% of population (2022 est.)<br>
+_unimproved: total_: total: 2.8% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 7% of GDP (2021)<br>
@@ -183,12 +180,12 @@ _Health expenditure (as % of national budget)_: 11.2% of national budget (2022 e
 2.4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 98.8% of population<br>
-_improved: rural_: rural: 99.4% of population<br>
-_improved: total_: total: 99% of population<br>
-_unimproved: urban_: urban: 1.2% of population<br>
-_unimproved: rural_: rural: 0.6% of population<br>
-_unimproved: total_: total: 1% of population (2020 est.)<br>
+_improved: urban_: urban: 98.8% of population (2022 est.)<br>
+_improved: rural_: rural: 99.4% of population (2022 est.)<br>
+_improved: total_: total: 99% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.6% of population (2022 est.)<br>
+_unimproved: total_: total: 1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 26.9% (2016)<br>
@@ -254,23 +251,32 @@ _other_: 33% (2022 est.)<br>
 _urban population_: 70.5% of total population (2023)<br>
 _rate of urbanization_: 1.34% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 26.52 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 29.94 megatons (2016 est.)<br>
-_methane emissions_: 7.89 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 24.645 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 4,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 14.249 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 10.392 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+26.5 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 88 kt (2022-2024 est.)<br>
+_agriculture_: 94.5 kt (2019-2021 est.)<br>
+_waste_: 97.9 kt (2019-2021 est.)<br>
+_other_: 3 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2.7 million tons (2014 est.)<br>
-_municipal solid waste recycled annually_: 108,000 tons (2014 est.)<br>
-_percent of municipal solid waste recycled_: 4% (2014 est.)<br>
+_municipal solid waste generated annually_: 2.7 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 10.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 820 million cubic meters (2020 est.)<br>
-_industrial_: 60 million cubic meters (2020 est.)<br>
-_agricultural_: 2.71 billion cubic meters (2020 est.)<br>
+_municipal_: 815.5 million cubic meters (2022 est.)<br>
+_industrial_: 61.9 million cubic meters (2022 est.)<br>
+_agricultural_: 2.71 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-4.62 billion cubic meters (2020 est.)<br>
+4.615 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -356,7 +362,7 @@ Afek Tounes<br>Al Badil Al-Tounisi (The Tunisian Alternative)<br>Al-Amal Party<b
 <strong>note:</strong> President SAIED in 2022 issued a decree that forbids political parties' participation in legislative elections; although parties remain a facet of Tunisian political life, they have lost significant influence<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Hanene&nbsp;TAJOURI&nbsp;BESSASSI (since 1 December 2021)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Anis HAJRI (since 1 August 2025)<br>
 _chancery_: 1515 Massachusetts Avenue NW, Washington, DC 20005<br>
 _telephone_: [1] (202) 862-1850<br>
 _FAX_: [1] (202) 862-1858<br>
@@ -379,8 +385,8 @@ ABEDA, AfDB, AFESD, AIIB, AMF, AMU, AU, BSEC (observer), CAEU, CD, EBRD, FAO, G-
 **National holiday**<br>
 Independence Day, 20 March (1956); Revolution and Youth Day, 14 January (2011)<br>
 
-**Flag description**<br>
-red with a white disk in the center with a red crescent around a five-pointed red star; resembles the Ottoman flag (red banner with white crescent and star), a reference to Tunisia's history as part of the Ottoman Empire; red stands for martyrs' blood shed the fight against oppression, and white for peace; the crescent and star are traditional symbols of Islam<br>
+**Flag**<br>
+<strong>description:</strong> red with a white disk in the center that displays a red crescent around a five-pointed red star<br><br><strong>meaning:</strong> red stands for martyrs' blood shed the fight against oppression, and white for peace; the crescent and star are traditional symbols of Islam<br><br><strong>history:</strong> resembles the Ottoman flag (red banner with white crescent and star), a reference to Tunisia's history as part of the Ottoman Empire<br>
 
 **National symbol(s)**<br>
 red crescent moon and five-pointed star in a white circle<br>
@@ -499,6 +505,9 @@ _highest 10%_: 27% (2021 est.)<br>
 _revenues_: $10.866 billion (2019 est.)<br>
 _expenditures_: $12.375 billion (2019 est.)<br>
 
+**Public debt**<br>
+62.3% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 -$1.111 billion (2023 est.)<br>
 -$3.969 billion (2022 est.)<br>
@@ -585,12 +594,6 @@ _production_: 1.313 billion cubic meters (2023 est.)<br>
 _consumption_: 5.131 billion cubic meters (2023 est.)<br>
 _imports_: 3.887 billion cubic meters (2023 est.)<br>
 _proven reserves_: 65.129 billion cubic meters (2021 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 24.645 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 4,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 14.249 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 10.392 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 33.754 million Btu/person (2023 est.)<br>
@@ -684,4 +687,10 @@ Ansar al-Sharia in Tunisia; Islamic State of Iraq and ash-Sham (ISIS) network in
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 12,575 (2024 est.)<br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Tunisia was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report-174/<br>
 

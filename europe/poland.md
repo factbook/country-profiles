@@ -101,7 +101,7 @@ _major-language sample(s)_: <br>Księga Faktów Świata, niezbędne źródło po
 <strong>note 1: </strong>shares of languages sum to more than 100% because some respondents gave more than one answer on the census; data represent language spoken at home<br><br><strong>note 2:</strong> Poland also recognizes Kashub as a regional language; Czech, Hebrew, Yiddish, Belarusian, Lithuanian, German, Armenian, Russian, Slovak, and Ukrainian as national minority languages; and Karaim, Lemko, Romani (Polska Roma and Bergitka Roma), and Tatar as ethnic minority languages<br>
 
 **Religions**<br>
-Catholic 84.6% (Roman Catholic 84.6% and other Catholic 0.3%), Orthodox 1.3% (almost all are Polish Autocephalous Orthodox), Protestant 0.4% (mainly Augsburg Evangelical and Pentecostal), other 0.3%, unspecified 13% (2022 est.)<br>
+Roman Catholic 70.7%, refused to answer 20.9%, no religion 6.9%; less than 1 percent: Orthodox, Jehovah Witness, Evangelic of Augsburg, Greek Catholic, Pentecostal, other Protestant, not stated, old Catholic Mariavite Church, other Christians, Islam, Buddhist, Polish Catholic Church, other, Baptist Union of Poland, Pagan, Seventh Day Adventist, Hindu, other Catholic (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 14.2% (male 2,830,048/female 2,676,300)<br>
@@ -170,16 +170,13 @@ _female_: 80.9 years<br>
 **Gross reproduction rate**<br>
 0.64 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-62.3% (2014)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 95.8% of population (2022 est.)<br>
+_improved: rural_: rural: 82.2% of population (2022 est.)<br>
+_improved: total_: total: 90.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 4.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 17.8% of population (2022 est.)<br>
+_unimproved: total_: total: 9.6% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6.7% of GDP (2022)<br>
@@ -192,12 +189,12 @@ _Health expenditure (as % of national budget)_: 10.7% of national budget (2022 e
 6.1 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 23.1% (2016)<br>
@@ -250,23 +247,32 @@ _other_: 22.6% (2022 est.)<br>
 _urban population_: 60.2% of total population (2023)<br>
 _rate of urbanization_: -0.16% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 18.83 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 299.04 megatons (2016 est.)<br>
-_methane emissions_: 46.62 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 264.031 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 132.101 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 95.095 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 36.835 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+18.8 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 954.2 kt (2022-2024 est.)<br>
+_agriculture_: 595.9 kt (2019-2021 est.)<br>
+_waste_: 292 kt (2019-2021 est.)<br>
+_other_: 36.3 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 10.863 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 2,866,746 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 26.4% (2015 est.)<br>
+_municipal solid waste generated annually_: 12.758 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 38.3% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.96 billion cubic meters (2020 est.)<br>
-_industrial_: 5.87 billion cubic meters (2020 est.)<br>
-_agricultural_: 1.39 billion cubic meters (2020 est.)<br>
+_municipal_: 2.113 billion cubic meters (2022)<br>
+_industrial_: 6.44 billion cubic meters (2022)<br>
+_agricultural_: 1.28 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-60.5 billion cubic meters (2020 est.)<br>
+60.5 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 3 (2024)<br>
@@ -366,7 +372,7 @@ _email address and website_: <br>washington.amb.sekretariat@msz.gov.pl<br><br>ht
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Daniel LAWTON (since 20 January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Stephanie HOLMES (since August 2025)<br>
 _embassy_: Aleje Ujazdowskie 29/31, 00-540 Warsaw<br>
 _mailing address_: 5010 Warsaw Place, Washington, DC 20521-5010<br>
 _telephone_: [48] (22) 504-2000<br>
@@ -383,8 +389,8 @@ Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, 
 **National holiday**<br>
 Constitution Day, 3 May (1791)<br>
 
-**Flag description**<br>
-two equal horizontal bands of white (top) and red; colors derive from the Polish emblem, a white eagle on a red field<br>
+**Flag**<br>
+<strong>description: </strong>two equal horizontal bands of white (top) and red<br><br><strong>meaning:</strong> colors derive from the Polish emblem, a white eagle on a red field<br>
 <strong>note:</strong> similar to the flags of Indonesia and Monaco, which are red (top) and white<br>
 
 **National symbol(s)**<br>
@@ -396,7 +402,7 @@ white, red<br>
 **National anthem(s)**<br>
 _title_: "Mazurek Dabrowskiego" (Dabrowski's Mazurka)<br>
 _lyrics/music_: Jozef WYBICKI/traditional<br>
-_history_: adopted 1927; the anthem, commonly known as "Jeszcze Polska nie zginela" (Poland Has Not Yet Perished), was written in 1797<br>
+_history_: adopted 1927;&nbsp;<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 17 (15 cultural, 2 natural)<br>
@@ -501,9 +507,9 @@ _highest 10%_: 23.1% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $234.98 billion (2022 est.)<br>
-_expenditures_: $250.097 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $291.603 billion (2023 est.)<br>
+_expenditures_: $328.497 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 50.6% of GDP (2017 est.)<br>
@@ -599,12 +605,6 @@ _exports_: 747.124 million cubic meters (2023 est.)<br>
 _imports_: 15.111 billion cubic meters (2023 est.)<br>
 _proven reserves_: 91.492 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 264.031 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 132.101 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 95.095 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 36.835 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 103.651 million Btu/person (2023 est.)<br>
 
@@ -664,14 +664,14 @@ _key ports_: Gdansk, Gdynia, Port Polnochny, Szczecin<br>
 Polish Armed Forces (Polskie Siły Zbrojne): Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air Force (Sily Powietrzne), Special Forces (Wojska Specjalne), Territorial Defense Forces (Wojska Obrony Terytorialnej), Cyberspace Defense Forces (Wojska Obrony Cyberprzestrzeni)<br><br>Ministry of Interior and Administration: Polish National Police (Policja); Border Guard (Straż Graniczna or SG) (2025)<br>
 
 **Military expenditures**<br>
-4.1% of GDP (2024 est.)<br>
-3.9% of GDP (2023 est.)<br>
-2.2% of GDP (2022)<br>
-2.2% of GDP (2021)<br>
-2.2% of GDP (2020)<br>
+4.5% of GDP (2025 est.)<br>
+3.8% of GDP (2024 est.)<br>
+3.3% of GDP (2023 est.)<br>
+2.2% of GDP (2022 est.)<br>
+2.2% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 210,000 including air, ground, naval, special forces, and Territorial Defense Forces (2024)<br>
+approximately 235,000 active military personnel (2025)<br>
 <strong>note: </strong>a new national defense law in 2022 set a goal to double the size of Poland’s armed forces to 300,000 personnel, including 250,000 professional soldiers and 50,000 territorials<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -692,10 +692,10 @@ the Polish Armed Forces are responsible for defense of the country's sovereignty
 ## Space
 
 **Space agency/agencies**<br>
-Polish Space Agency (POLSA; established 2014; operational in 2015); Space Research Center (SRC, interdisciplinary research institute of the Polish Academy of Sciences that acted as Poland&rsquo;s space agency until POLSA was established in 1977) (2024)<br>
+Polish Space Agency (POLSA; established 2014; operational in 2015) (2025)<br>
 
 **Space program overview**<br>
-space program is integrated within the framework of the European Space Agency (ESA); builds satellites, including nano/cube remote sensing (RS) and educational/scientific/technology satellites; researches and develops communications, RS, navigational, and other scientific applications for satellite payloads; creating infrastructure for receiving, storing, processing and distributing data from meteorological and environmental satellites; researches and develops other space-related technologies, including sensors and robotic probes for interplanetary landers, and launcher systems; participates in international space programs and cooperates with a variety of foreign space agencies and industries, including those of Brazil, Canada, China, ESA/EU member states (particularly France, Germany, Italy), India, Japan, Mexico, Russia, Ukraine, UK, and the US; has a growing commercial space sector with more than 300 active enterprises (2024)<br>
+space program is integrated within the framework of the European Space Agency (ESA); builds satellites, including nano/cube remote sensing (RS) and educational/scientific/technology satellites; researches and develops communications, RS, navigational, and other scientific applications for satellite payloads; creating infrastructure for receiving, storing, processing and distributing data from meteorological and environmental satellites; researches and develops other space-related technologies, including sensors and robotic probes for interplanetary landers, and launcher systems; participates in ESA/EU and other international space programs; cooperates with a variety of foreign space agencies and industries, including those of Brazil, Canada, China, ESA/EU member states (particularly France, Germany, Italy), India, Japan, Mexico, Russia, Ukraine, UK, and the US; has a growing commercial space sector with more than 300 active enterprises (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -707,8 +707,8 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 956,635 (Ukraine) (as of 15 December 2023)<br>
-_stateless persons_: 1,435 (2022)<br>
+_refugees_: 1,019,863 (2024 est.)<br>
+_stateless persons_: 1,486 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major precursor-chemical producer (2025)<br>

@@ -155,17 +155,6 @@ _female_: 80.1 years<br>
 **Gross reproduction rate**<br>
 0.87 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
-**Drinking water source**<br>
-_improved: urban_: urban: 98.3% of population<br>
-_improved: rural_: rural: 98.3% of population<br>
-_improved: total_: total: 98.3% of population<br>
-_unimproved: urban_: urban: 1.7% of population<br>
-_unimproved: rural_: rural: 1.7% of population<br>
-_unimproved: total_: total: 1.7% of population (2015 est.)<br>
-
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6.2% of GDP (2021)<br>
 _Health expenditure (as % of national budget)_: 5.9% of national budget (2022 est.)<br>
@@ -175,14 +164,6 @@ _Health expenditure (as % of national budget)_: 5.9% of national budget (2022 es
 
 **Hospital bed density**<br>
 4.3 beds/1,000 population (2021 est.)<br>
-
-**Sanitation facility access**<br>
-_improved: urban_: urban: 87.3% of population<br>
-_improved: rural_: rural: 87.3% of population<br>
-_improved: total_: total: 87.3% of population<br>
-_unimproved: urban_: urban: 12.7% of population<br>
-_unimproved: rural_: rural: 12.7% of population<br>
-_unimproved: total_: total: 12.7% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 22.9% (2016)<br>
@@ -230,21 +211,23 @@ _other_: 34.6% (2022 est.)<br>
 _urban population_: 31.1% of total population (2023)<br>
 _rate of urbanization_: 1.06% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 8.05 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.24 megatons (2016 est.)<br>
-_methane emissions_: 0.1 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 269,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 269,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+8 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 32,892 tons (2015 est.)<br>
+_municipal solid waste generated annually_: 32,900 tons (2024 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 20 million cubic meters (2020 est.)<br>
-_industrial_: 0 cubic meters (2017 est.)<br>
-_agricultural_: 200,000 cubic meters (2017 est.)<br>
+_municipal_: 15.4 million cubic meters (2022 est.)<br>
+_industrial_: 0 cubic meters (2022 est.)<br>
+_agricultural_: 200,000 cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-20 million cubic meters (2020 est.)<br>
+24 million cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -332,8 +315,8 @@ ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA,
 **National holiday**<br>
 Independence Day, 19 September (1983)<br>
 
-**Flag description**<br>
-divided diagonally from the lower hoist side by a broad black band with two five-pointed white stars; the black band is edged in yellow; the upper triangle is green, and the lower is red; green stands for the island's fertility, red for the struggles of the people from slavery, yellow for year-round sunshine, and black for the people's African heritage; the white stars stand for the islands of Saint Kitts and Nevis but can also express hope and liberty, or independence and optimism<br>
+**Flag**<br>
+<strong>description:</strong> divided diagonally from the lower left side by a broad black band with two five-pointed white stars; the black band is edged in yellow; the upper triangle is green, and the lower is red<br><br><strong>meaning:</strong> green stands for the island's fertility, red for the struggles of the people from slavery, yellow for year-round sunshine, and black for the people's African heritage; the white stars stand for the islands of Saint Kitts and Nevis but can also express hope and liberty, or independence and optimism<br>
 
 **National symbol(s)**<br>
 brown pelican, royal poinciana (flamboyant) tree<br>
@@ -345,9 +328,9 @@ green, yellow, red, black, white<br>
 the coat of arms of Saint Kitts and Nevis features a Carib who represents the original inhabitants of the islands, and a fleur-de-lis and rose that represent the French and English who arrived in the 1620; the shield also features the poinciana (the national flower) and a traditional boat; three hands hold the torch, which represents the quest for freedom: the hand of an African, a European, and a person of mixed ethnicity; pelicans (the national bird) support the shield, with a sugarcane plant and a coconut tree that symbolize the land<br>
 
 **National anthem(s)**<br>
-_title_: "O Land of Beauty!"<br>
-_lyrics/music_: Kenrick Anderson GEORGES<br>
-_history_: adopted 1983<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: in use since 1745<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -411,7 +394,7 @@ tourism, cotton, salt, copra, clothing, footwear, beverages<br>
 
 **Budget**<br>
 _revenues_: $262 million (2020 est.)<br>
-_expenditures_: $236.444 million (2020 est.)<br>
+_expenditures_: $281.889 million (2020 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
@@ -488,10 +471,6 @@ _wind_: 2.7% of total installed capacity (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 2,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 269,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 269,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 81.454 million Btu/person (2023 est.)<br>
 
@@ -564,4 +543,7 @@ the SKNDF is lightly armed with equipment from Belgium, the UK, and the US (2024
 SKNDF's missions include protecting the country's territorial integrity, assisting the police in combating the illegal narcotic trade and other crimes, and providing humanitarian and disaster relief assistance; the force also has a regional role through the Caribbean Regional Security System (RSS); St. Kitts joined the RSS in 1984; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Guyana, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2025)<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 5 (2024 est.)<br>
 

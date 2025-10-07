@@ -157,16 +157,13 @@ _female_: 77.6 years<br>
 **Gross reproduction rate**<br>
 1.08 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-35.5% (2021)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 98.2% of population<br>
-_improved: rural_: rural: 89.1% of population<br>
-_improved: total_: total: 94.3% of population<br>
-_unimproved: urban_: urban: 1.8% of population<br>
-_unimproved: rural_: rural: 10.9% of population<br>
-_unimproved: total_: total: 5.7% of population (2020 est.)<br>
+_improved: urban_: urban: 98.7% of population (2022 est.)<br>
+_improved: rural_: rural: 91.1% of population (2022 est.)<br>
+_improved: total_: total: 95.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 8.9% of population (2022 est.)<br>
+_unimproved: total_: total: 4.5% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.4% of GDP (2021)<br>
@@ -179,12 +176,12 @@ _Health expenditure (as % of national budget)_: 10.3% of national budget (2022 e
 1.9 beds/1,000 population (2017 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 30.2% (2016)<br>
@@ -243,23 +240,25 @@ _other_: 19.8% (2022 est.)<br>
 _urban population_: 58.7% of total population (2023)<br>
 _rate of urbanization_: 1.37% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 7.36 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 2.05 megatons (2016 est.)<br>
-_methane emissions_: 0.95 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 1.432 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 12 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.432 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+8.1 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 189,390 tons (2011 est.)<br>
-_municipal solid waste recycled annually_: 10,322 tons (2013 est.)<br>
-_percent of municipal solid waste recycled_: 5.5% (2013 est.)<br>
+_municipal solid waste generated annually_: 189,400 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 16.1% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 30 million cubic meters (2020 est.)<br>
-_industrial_: 10 million cubic meters (2020 est.)<br>
-_agricultural_: 50 million cubic meters (2020 est.)<br>
+_municipal_: 25.3 million cubic meters (2022 est.)<br>
+_industrial_: 9.6 million cubic meters (2022 est.)<br>
+_agricultural_: 50 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-28.55 billion cubic meters (2020 est.)<br>
+28.55 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -354,8 +353,8 @@ ACP, ADB, AOSIS, C, CP, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC,
 **National holiday**<br>
 Fiji (Independence) Day, 10 October (1970)<br>
 
-**Flag description**<br>
-light blue with the UK flag in the upper hoist-side quadrant and the Fijian shield centered on the outer half of the flag; blue symbolizes the Pacific Ocean; the shield is taken from Fiji's coat of arms and shows a yellow lion holding a coconut above a white field quartered by the cross of Saint George; the four quarters depict sugarcane, a palm tree, a banana bunch, and a white dove<br>
+**Flag**<br>
+<strong>description:</strong> light blue with the UK flag in the upper-left quadrant and the Fijian shield centered on the right half of the flag; the shield shows a yellow lion holding a coconut above a white field quartered by the cross of Saint George; the four quarters depict sugarcane, a palm tree, a banana bunch, and a white dove<br><br><strong>meaning:</strong> blue symbolizes the Pacific Ocean<br>
 
 **National symbol(s)**<br>
 Fijian canoe<br>
@@ -467,9 +466,12 @@ _highest 10%_: 24.2% (2019 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $1.019 billion (2021 est.)<br>
-_expenditures_: $1.488 billion (2021 est.)<br>
+_revenues_: $1.345 billion (2023 est.)<br>
+_expenditures_: $1.562 billion (2023 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+47.5% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 20.7% (of GDP) (2023 est.)<br>
@@ -553,11 +555,6 @@ _imports_: 2 metric tons (2022 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 10,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 1.432 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 12 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 1.432 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 25.375 million Btu/person (2023 est.)<br>
 
@@ -629,7 +626,7 @@ Republic of Fiji Military Forces (RFMF): Land Force, Republic of Fiji Navy (2025
 approximately 4,000 active Republic of Fiji Military Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RFMF is lightly armed and equipped; Australia has provided patrol boats and a few armored personnel carriers; it also provides logistical support for RFMF regional or UN operations; in recent years, China and the US have provided small amounts of equipment&nbsp; (2024)<br>
+the RFMF is lightly armed and equipped; Australia has provided patrol boats and a few armored personnel carriers; it also provides logistical support for RFMF regional or UN operations; in recent years, China and the US have provided small amounts of equipment (2025)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service for men and women (2024)<br>
@@ -643,6 +640,10 @@ the Fiji Military Forces (RFMF) are responsible for external security but can be
 
 ## Transnational Issues
 
+**Refugees and internally displaced persons**<br>
+_refugees_: 25 (2024 est.)<br>
+_IDPs_: 259 (2024 est.)<br>
+
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Fiji was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/fiji/<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Fiji remained on Tier 2 Watch List for the second consecutive year; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/fiji/<br>
 

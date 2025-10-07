@@ -164,16 +164,13 @@ _female_: 78.8 years<br>
 **Gross reproduction rate**<br>
 0.91 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-27.9% (2019)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 98.4% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 98.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 1.4% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6% of GDP (2021)<br>
@@ -186,12 +183,12 @@ _Health expenditure (as % of national budget)_: 12.8% of national budget (2022 e
 2.2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 99.7% of population (2022 est.)<br>
+_improved: rural_: rural: 99.7% of population (2022 est.)<br>
+_improved: total_: total: 99.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.3% of population (2022 est.)<br>
+_unimproved: total_: total: 0.3% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 35.4% (2016)<br>
@@ -251,23 +248,32 @@ _other_: 18.8% (2022 est.)<br>
 _urban population_: 85% of total population (2023)<br>
 _rate of urbanization_: 1.69% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 57.16 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 563.45 megatons (2016 est.)<br>
-_methane emissions_: 45.47 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 656.511 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 384,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 418.326 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 237.801 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+60.7 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 1,743.8 kt (2022-2024 est.)<br>
+_agriculture_: 162.9 kt (2019-2021 est.)<br>
+_waste_: 927.6 kt (2019-2021 est.)<br>
+_other_: 28.3 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 16,125,701 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 2,418,855 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 15% (2015 est.)<br>
+_municipal solid waste generated annually_: 16.126 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 18.8% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 3.39 billion cubic meters (2020 est.)<br>
-_industrial_: 1.4 billion cubic meters (2020 est.)<br>
-_agricultural_: 21.2 billion cubic meters (2020 est.)<br>
+_municipal_: 3.392 billion cubic meters (2022 est.)<br>
+_industrial_: 1.4 billion cubic meters (2022 est.)<br>
+_agricultural_: 21.2 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-2.4 billion cubic meters (2020 est.)<br>
+2.4 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 2 (2025)<br>
@@ -363,9 +369,9 @@ ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, BRICS, CAEU, CP, FAO, G-20, G
 **National holiday**<br>
 Saudi National Day (Unification of the Kingdom), 23 September (1932)<br>
 
-**Flag description**<br>
-green (traditional Islamic color) with the Shahada, or Muslim creed, in large white Arabic script that translates as, "There is no god but God; Muhammad is the messenger of God;" the text is above a white horizontal saber pointing to the hoist side; design dates to the early 20th century and is closely associated with the Al Saud family who established the kingdom in 1932; the flag has different sides so that the text reads correctly from right to left and the saber points in the proper direction on both sides<br>
-<strong>note:</strong> the only national flag that has an inscription as its principal design; one of three national flags that have different sides -- the others are Moldova and Paraguay<br>
+**Flag**<br>
+<strong>description:</strong> green (traditional Islamic color) with the Shahada, or Muslim creed, in large white Arabic script that translates as, "There is no god but God; Muhammad is the messenger of God;" the text is above a white horizontal saber pointing to the left <br><br><strong>history:</strong> design dates to the early 20th century and is closely associated with the Al Saud family that established the kingdom in 1932; the flag has different sides so that the text reads correctly from right to left and the saber points in the same direction on both sides<br>
+<strong>note 1:</strong> the only national flag that has an inscription as its primary design<br><br><strong>note 2:</strong> one of three national flags that differ on each side -- the others are Moldova and Paraguay<br>
 
 **National symbol(s)**<br>
 palm tree over two crossed swords<br>
@@ -468,9 +474,12 @@ _on alcohol and tobacco_: 0.7% of household expenditures (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $398.023 billion (2022 est.)<br>
-_expenditures_: $315.007 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $378.413 billion (2023 est.)<br>
+_expenditures_: $388.489 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+13.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 7.8% (of GDP) (2023 est.)<br>
@@ -556,12 +565,6 @@ _production_: 121.219 billion cubic meters (2023 est.)<br>
 _consumption_: 121.219 billion cubic meters (2023 est.)<br>
 _proven reserves_: 9.423 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 656.511 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 384,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 418.326 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 237.801 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 349.692 million Btu/person (2023 est.)<br>
 
@@ -644,15 +647,15 @@ men (17-40) and women (21-40) may volunteer for military service; no conscriptio
 continues to maintain a military presence in Yemen; has also established and supports several local militias, including the National Shield Forces in Aden and the Amajid Brigade in Abyan (2023)<br>
 
 **Military - note**<br>
-Saudi Arabia's security concerns include border security, cyberattacks, instability and Houthi (Ansarallah) rebels in Yemen, international terrorism, maritime security, and regional rivals such as Iran and Turkey<br><br>Saudi Arabia has close security ties with the US; the SAAF conducts bilateral exercises with the US military and hosts US forces; the US has participated in a cooperative program to equip and train the SANG since 1973, and much of the equipment for both the regular forces and the SANG has been acquired from the US; Saudi Arabia also has defense relationships with China, France, India, the UK, and fellow Gulf Cooperation Council (GCC) members; it is a member of the Peninsula Shield Forces, a joint military force established by the GCC countries with the aim of maintaining security and stability in the region; the force was established in 1982, and its leadership is based in Saudi Arabia<br><br>in 2015, Saudi Arabia led a military intervention into Yemen by a coalition of Arab states in support of the Republic of Yemen Government against the separatist Houthis (Ansarallah); Saudi forces from both the Ministry of Defense and the SANG participated in combat operations in Yemen; Saudi Arabia also raised and equipped paramilitary/militia security forces in Yemen--based largely on tribal or regional affiliation--to deploy along the Saudi-Yemen border (2025)<br>
+Saudi Arabia's security concerns include border security, cyberattacks, instability and Houthi (Ansarallah) rebels in Yemen, international terrorism, maritime security, and regional rivals such as Iran and Turkey<br><br>Saudi Arabia has close security ties with the US; the SAAF conducts bilateral exercises with the US military and hosts US forces; the US has participated in a cooperative program to equip and train the SANG since 1973, and much of the equipment for both the regular forces and the SANG has been acquired from the US; Saudi Arabia also has defense relationships with China, France, India, Pakistan, the UK, and fellow Gulf Cooperation Council (GCC) members; it is a member of the Peninsula Shield Forces, a joint military force established by the GCC countries with the aim of maintaining security and stability in the region; the force was established in 1982, and its leadership is based in Saudi Arabia<br><br>in 2015, Saudi Arabia led a military intervention into Yemen by a coalition of Arab states in support of the Republic of Yemen Government against the separatist Houthis (Ansarallah); Saudi forces from both the Ministry of Defense and the SANG participated in combat operations in Yemen; Saudi Arabia also raised and equipped paramilitary/militia security forces in Yemen--based largely on tribal or regional affiliation--to deploy along the Saudi-Yemen border (2025)<br>
 
 ## Space
 
 **Space agency/agencies**<br>
-Saudi Space Agency (SSA; elevated to agency level from previous Saudi Space Commission or SSC, which was established in 2018); King Abdulaziz City for Science and Technology (KACST; established 1977); KACST includes the Space and Aeronautics Research Institute (SARI; established 2000) (2024)<br>
+Saudi Space Agency (SSA; elevated to agency level from previous Saudi Space Commission or SSC, which was established in 2018); King Abdulaziz City for Science and Technology (KACST; established 1977) (2024)<br>
 
 **Space program overview**<br>
-has an ambitious and growing space program; manufactures and operates communications, remote sensing (RS), and scientific satellites; develops a range of satellite subsystems and payload technologies; SSA's missions also include accelerating economic diversification, enhancing research and development, and raising private sector participation in the global space industry; is the main founder and financier of the Arab Satellite Communications Organization (Arabsat; launched in 1976; headquartered in Riyadh, Saudi Arabia and the primary satellite communications service provider for over 170 million persons in the Arab world); cooperates with the space agencies and industries of a wide range of countries, including those of Belarus, China, Egypt, the European Space Agency and its member states (particularly France, Germany, Greece, and Hungary), India, Kazakhstan, Morocco, Russia, South Africa, South Korea, Ukraine, the UAE, the UK, and the US; member of the Arab Space Cooperation Group (established by the UAE in 2019 and includes Algeria, Bahrain, Egypt, Jordan, Kuwait, Lebanon, Morocco, and Sudan) (2024)<br>
+has a national space strategy and an ambitious space program; manufactures and operates communications, remote sensing (RS), and scientific satellites; develops a range of satellite subsystems and payload technologies; SSA's missions include accelerating economic diversification, enhancing research and development, and raising private sector participation in the global space industry; is the main founder and financier of the Arab Satellite Communications Organization (Arabsat; launched in 1976; headquartered in Riyadh, Saudi Arabia and the primary satellite communications service provider the Arab world); cooperates with the space agencies and industries of a wide range of countries, including those of Belarus, China, Egypt, the European Space Agency and its member states (particularly France, Germany, Greece, and Hungary), India, Kazakhstan, Morocco, Russia, South Africa, South Korea, Ukraine, the UAE, the UK, and the US; member of the Arab Space Cooperation Group (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -664,5 +667,6 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 70,000 (2022); note - thousands of biduns (stateless Arabs) are descendants of nomadic tribes who were not officially registered when national borders were established, while others migrated to Saudi Arabia in search of jobs; some have temporary identification cards that must be renewed every five years, but their rights remain restricted; most Palestinians have only legal resident status; some naturalized Yemenis were made stateless after being stripped of their passports when Yemen backed Iraq in its invasion of Kuwait in 1990; Saudi women cannot pass their citizenship on to their children, so if they marry a non-national, their children risk statelessness<br>
+_refugees_: 4,355 (2024 est.)<br>
+_stateless persons_: 70,000 (2024 est.)<br>
 

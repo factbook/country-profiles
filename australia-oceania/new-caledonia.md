@@ -151,27 +151,16 @@ _female_: 83.3 years<br>
 **Gross reproduction rate**<br>
 0.89 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 99.3% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0.7% of population (2020 est.)<br>
+_improved: total_: total: 99.5% of population (2022 est.)<br>
+_unimproved: total_: total: 0.5% of population (2022 est.)<br>
 
 **Physician density**<br>
 0.24 physicians/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 22.5% (2023 est.)<br>
@@ -196,11 +185,13 @@ _other_: 44.1% (2022 est.)<br>
 _urban population_: 72.7% of total population (2023)<br>
 _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 5.33 megatons (2016 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 4.887 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2.312 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.575 million metric tonnes of CO2 (2023 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 108,157 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 108,200 tons (2024 est.)<br>
 
 ## Government
 
@@ -287,8 +278,8 @@ none (overseas collectivity of France)<br>
 Fête de la Fédération, 14 July (1790)<br>
 <strong>note 1:</strong> the local holiday is New Caledonia Day, 24 September (1853)<br><br><strong>note 2:</strong> often incorrectly referred to as Bastille Day, France's national celebration commemorates the storming of the Bastille prison on 14 July 1789 and the establishment of a constitutional monarchy; other names for the holiday are <em>la Fête nationale</em> (National Holiday) and <em>le Quatorze Juillet</em> (14th of July)<br>
 
-**Flag description**<br>
-two official flags: the flag of France and the Kanak (ethnic Melanesian) flag have equal status; the latter consists of three equal horizontal bands of blue (top), red, and green; a large yellow disk shifted slightly to the hoist side is edged in black and displays a black <em>fleche faîtière</em> symbol, a native rooftop adornment<br>
+**Flag**<br>
+<strong>description:</strong> the country has two official flags with equal status, the flag of France and the Kanak (ethnic Melanesian) flag; the latter consists of three equal horizontal bands of blue (top), red, and green; a large yellow disk shifted slightly to the left side is edged in black and displays a black <em>fleche faîtière</em> symbol, a native rooftop adornment<br>
 
 **National symbol(s)**<br>
 fl&egrave;che fa&icirc;ti&egrave;re (native rooftop adornment), kagu bird<br>
@@ -314,10 +305,10 @@ _selected World Heritage Site locales_: Lagoons of New Caledonia<br>
 upper-middle-income French Pacific territorial economy; enormous nickel reserves; ongoing French independence negotiations; large Chinese nickel exporter; luxury eco-tourism destination; large French aid recipient; high cost-of-living; lingering wealth disparities<br>
 
 **Real GDP (purchasing power parity)**<br>
-$10.266 billion (2021 est.)<br>
-$11.11 billion (2017 est.)<br>
-$10.89 billion (2016 est.)<br>
-<strong>note:</strong> data are in 2015 dollars<br>
+$8.469 billion (2024 est.)<br>
+$8.642 billion (2023 est.)<br>
+$8.678 billion (2022 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
 3.5% (2022 est.)<br>
@@ -325,14 +316,20 @@ $10.89 billion (2016 est.)<br>
 -2.4% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
+**Real GDP per capita**<br>
+$34,600 (2024 est.)<br>
+$35,000 (2023 est.)<br>
+$33,500 (2022 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
+
 **GDP (official exchange rate)**<br>
-$9.623 billion (2022 est.)<br>
+$10.129 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-1.4% (2017 est.)<br>
-0.6% (2016 est.)<br>
-0.6% (2015 est.)<br>
+3.7% (2022 est.)<br>
+0.6% (2021 est.)<br>
+-0.5% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -382,6 +379,9 @@ _female_: 35.7% (2024 est.)<br>
 **Budget**<br>
 _revenues_: $1.995 billion (2015 est.)<br>
 _expenditures_: $1.993 billion (2015 est.)<br>
+
+**Public debt**<br>
+6.5% of GDP (2014 est.)<br>
 
 **Current account balance**<br>
 -$654.237 million (2016 est.)<br>
@@ -448,11 +448,6 @@ _proven reserves_: 2 million metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 17,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 4.887 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 2.312 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 2.575 million metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

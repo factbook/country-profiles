@@ -169,16 +169,13 @@ _female_: 78.1 years<br>
 **Gross reproduction rate**<br>
 1.39 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-51.8% (2017/18)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.2% of population<br>
-_improved: rural_: rural: 97.9% of population<br>
-_improved: total_: total: 99.1% of population<br>
-_unimproved: urban_: urban: 0.8% of population<br>
-_unimproved: rural_: rural: 2.1% of population<br>
-_unimproved: total_: total: 0.9% of population (2020 est.)<br>
+_improved: urban_: urban: 99.1% of population (2022 est.)<br>
+_improved: rural_: rural: 97% of population (2022 est.)<br>
+_improved: total_: total: 99% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 3% of population (2022 est.)<br>
+_unimproved: total_: total: 1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 7.3% of GDP (2021)<br>
@@ -191,12 +188,12 @@ _Health expenditure (as % of national budget)_: 7.6% of national budget (2022 es
 1.4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 98.8% of population<br>
-_improved: rural_: rural: 97.8% of population<br>
-_improved: total_: total: 98.7% of population<br>
-_unimproved: urban_: urban: 1.2% of population<br>
-_unimproved: rural_: rural: 2.2% of population<br>
-_unimproved: total_: total: 1.3% of population (2020 est.)<br>
+_improved: urban_: urban: 98.9% of population (2022 est.)<br>
+_improved: rural_: rural: 97.9% of population (2022 est.)<br>
+_improved: total_: total: 98.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 2.1% of population (2022 est.)<br>
+_unimproved: total_: total: 1.2% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 35.5% (2016)<br>
@@ -262,23 +259,32 @@ _other_: 87.3% (2022 est.)<br>
 _urban population_: 92% of total population (2023)<br>
 _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 25.87 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 25.11 megatons (2016 est.)<br>
-_methane emissions_: 6.04 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 22.434 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 627,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 13.264 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 8.544 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+26.3 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 12.2 kt (2022-2024 est.)<br>
+_agriculture_: 25.4 kt (2019-2021 est.)<br>
+_waste_: 188.2 kt (2019-2021 est.)<br>
+_other_: 0.6 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2,529,997 tons (2013 est.)<br>
-_municipal solid waste recycled annually_: 177,100 tons (2014 est.)<br>
-_percent of municipal solid waste recycled_: 7% (2014 est.)<br>
+_municipal solid waste generated annually_: 2.53 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 14.6% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 500 million cubic meters (2020 est.)<br>
-_industrial_: 40 million cubic meters (2020 est.)<br>
-_agricultural_: 570 million cubic meters (2020 est.)<br>
+_municipal_: 497.37 million cubic meters (2022 est.)<br>
+_industrial_: 36.88 million cubic meters (2022 est.)<br>
+_agricultural_: 570.61 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-940 million cubic meters (2020 est.)<br>
+937 million cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -367,7 +373,7 @@ _FAX_: [1] (202) 966-3110<br>
 _email address and website_: <br>hkjconsular@jordanembassyus.org<br><br>http://www.jordanembassyus.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Rohit (Ro) NEPAL (since 22 January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Peter T. SHEA (since 29 June 2025)<br>
 _embassy_: Abdoun, Al-Umawyeen St., Amman<br>
 _mailing address_: 6050 Amman Place, Washington DC&nbsp; 20521-6050<br>
 _telephone_: [962] (6) 590-6000<br>
@@ -383,8 +389,8 @@ ABEDA, AFESD, AMF, CAEU, CD, CICA, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC,
 **National holiday**<br>
 Independence Day, 25 May (1946)<br>
 
-**Flag description**<br>
-three equal horizontal bands, with black (top) representing the Abbassid Caliphate, white representing the Ummayyad Caliphate, and green representing the Fatimid Caliphate; a red isosceles triangle on the hoist side stands for the Great Arab Revolt of 1916 and has a small white seven-pointed star symbolizing the seven verses of the opening Sura (Al-Fatiha) of the Koran; the points on the star represent faith in One God, humanity, national spirit, humility, social justice, virtue, and aspirations; the design is based on the Arab Revolt flag of World War I<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of black (top), white, and green; a red isosceles triangle is on the left side, with a small white seven-pointed star in the center<br><br><strong>meaning:</strong> black stands for the Abbassid Caliphate, white for the Ummayyad Caliphate, and green for the Fatimid Caliphate; the triangle stands for the Great Arab Revolt of 1916, and the star's points for the seven verses of the opening Sura (Al-Fatiha) of the Quran, as well as faith in One God, humanity, national spirit, humility, social justice, virtue, and aspirations<br><br><strong>history:</strong> the design is based on the Arab Revolt flag of World War I<br>
 
 **National symbol(s)**<br>
 eagle<br>
@@ -491,9 +497,9 @@ _on alcohol and tobacco_: 4.5% of household expenditures (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $16.073 billion (2018 est.)<br>
-_expenditures_: $14.464 billion (2018 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $13.779 billion (2023 est.)<br>
+_expenditures_: $17.159 billion (2023 est.)<br>
+<b>note:</b> central government revenues and expenditures (excluding grants and social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 102.8% of GDP (2023 est.)<br>
@@ -591,12 +597,6 @@ _exports_: 375.998 million cubic meters (2018 est.)<br>
 _imports_: 4.865 billion cubic meters (2023 est.)<br>
 _proven reserves_: 6.031 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 22.434 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 627,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 13.264 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 8.544 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 32.909 million Btu/person (2023 est.)<br>
 
@@ -688,6 +688,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2.4 million (Palestinian refugees) (2020); 12,866 (Yemen), 6,013 Sudan (2021); 33,951 (Iraq) (mid-year 2022) (2022); 638,760 (Syria) (2024)<br>
-_stateless persons_: 64 (2022)<br>
+_refugees_: 675,388 (2024 est.)<br>
+_stateless persons_: 17 (2024 est.)<br>
 

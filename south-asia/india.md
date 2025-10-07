@@ -175,16 +175,13 @@ _female_: 70.1 years<br>
 **Gross reproduction rate**<br>
 0.97 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-66.7% (2019/20)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 96.9% of population<br>
-_improved: rural_: rural: 94.7% of population<br>
-_improved: total_: total: 95.5% of population<br>
-_unimproved: urban_: urban: 3.1% of population<br>
-_unimproved: rural_: rural: 5.3% of population<br>
-_unimproved: total_: total: 4.5% of population (2020 est.)<br>
+_improved: urban_: urban: 95.8% of population (2022 est.)<br>
+_improved: rural_: rural: 91.9% of population (2022 est.)<br>
+_improved: total_: total: 93.3% of population (2022 est.)<br>
+_unimproved: urban_: urban: 4.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 8.1% of population (2022 est.)<br>
+_unimproved: total_: total: 6.7% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 3.3% of GDP (2021)<br>
@@ -197,12 +194,12 @@ _Health expenditure (as % of national budget)_: 4.5% of national budget (2022 es
 1.6 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 98.6% of population<br>
-_improved: rural_: rural: 75.2% of population<br>
-_improved: total_: total: 83.4% of population<br>
-_unimproved: urban_: urban: 1.4% of population<br>
-_unimproved: rural_: rural: 24.8% of population<br>
-_unimproved: total_: total: 16.6% of population (2020 est.)<br>
+_improved: urban_: urban: 99.4% of population (2022 est.)<br>
+_improved: rural_: rural: 83% of population (2022 est.)<br>
+_improved: total_: total: 88.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 17% of population (2022 est.)<br>
+_unimproved: total_: total: 11.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 3.9% (2016)<br>
@@ -268,23 +265,32 @@ _other_: 15.5% (2022 est.)<br>
 _urban population_: 36.4% of total population (2023)<br>
 _rate of urbanization_: 2.33% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 50.17 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 2,407.67 megatons (2016 est.)<br>
-_methane emissions_: 559.11 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 2.821 billion metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2.054 billion metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 642.909 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 124.226 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+55.6 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 8,217.3 kt (2022-2024 est.)<br>
+_agriculture_: 17,971 kt (2019-2021 est.)<br>
+_waste_: 4,773.7 kt (2019-2021 est.)<br>
+_other_: 644.6 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 168,403,240 tons (2001 est.)<br>
-_municipal solid waste recycled annually_: 8,420,162 tons (2013 est.)<br>
-_percent of municipal solid waste recycled_: 5% (2013 est.)<br>
+_municipal solid waste generated annually_: 189.75 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 17.8% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 56 billion cubic meters (2020 est.)<br>
-_industrial_: 17 billion cubic meters (2020 est.)<br>
-_agricultural_: 688 billion cubic meters (2020 est.)<br>
+_municipal_: 56 billion cubic meters (2022 est.)<br>
+_industrial_: 17 billion cubic meters (2022 est.)<br>
+_agricultural_: 688 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-1.91 trillion cubic meters (2019 est.)<br>
+1.911 trillion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -395,8 +401,8 @@ ADB, AfDB (nonregional member), Arctic Council (observer), ARF, ASEAN (dialogue 
 **National holiday**<br>
 Republic Day, 26 January (1950)<br>
 
-**Flag description**<br>
-three equal horizontal bands of saffron (top), white, and green, with a blue <em>chakra </em>(24-spoked wheel) centered in the white band; saffron stands for courage, sacrifice, and the spirit of renunciation; white for purity and truth; green for faith and fertility; the chakra symbolizes the wheel of life in movement and death in stagnation<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of saffron (top), white, and green, with a blue <em>chakra </em>(24-spoked wheel) centered in the white band<br><br><strong>meaning: </strong>saffron stands for courage, sacrifice, and the spirit of renunciation; white for purity and truth; green for faith and fertility; the chakra symbolizes the wheel of life in movement and death in stagnation<br>
 <strong>note:</strong> similar to the flag of Niger, which has a small orange disk centered in the white band<br>
 
 **National symbol(s)**<br>
@@ -509,8 +515,8 @@ _highest 10%_: 22.1% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $364.86 billion (2018 est.)<br>
-_expenditures_: $432.856 billion (2018 est.)<br>
+_revenues_: $311.824 billion (2022 est.)<br>
+_expenditures_: $486.598 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
@@ -620,12 +626,6 @@ _exports_: 91.921 million cubic meters (2019 est.)<br>
 _imports_: 29.337 billion cubic meters (2023 est.)<br>
 _proven reserves_: 1.381 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 2.821 billion metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 2.054 billion metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 642.909 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 124.226 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 25.179 million Btu/person (2023 est.)<br>
 
@@ -715,13 +715,14 @@ the Indian military's primary mission is external/territorial defense while seco
 ## Space
 
 **Space agency/agencies**<br>
-Indian Space Research Organization (ISRO; established 1969); the ISRO is subordinate to the Department of Space (DOS; established 1972); India&rsquo;s first space organization was the Indian National Committee for Space Research (INCOSPAR; established 1962); Defense Space Agency (DSA; established 2019 to command the space assets of the Army, Navy, and Air Force; the Defense Imagery Processing and Analysis Center, Defense Satellite Control Center, and Defense Space Research Organization were also merged into the DSA); National Space Promotion and Authorization Center (established 2020 to facilitate India&rsquo;s private sector in the country&rsquo;s space program) (2024)<br>
+Indian Space Research Organization (ISRO; originally established in 1962 as the  Indian National Committee for Space Research (INCOSPAR); renamed ISRO in 1969); the ISRO is subordinate to the Department of Space (DOS; established 1972); Defense Space Agency (DSA; established 2019 to command the space assets of the Armed Forces and other defense organizations) (2025)<br><br>note: India’s first space organization was the Indian National Committee for Space Research (INCOSPAR; established 1962)<br>
+note: India&rsquo;s first space organization was the Indian National Committee for Space Research (INCOSPAR; established 1962)<br>
 
 **Space launch site(s)**<br>
-Satish Dhawan Space Center (aka Sriharikota Range; located in Andhra Pradesh); Vikram Sarabhai Space Center (Kerala) (2024)<br>
+Satish Dhawan Space Center (aka Sriharikota Range; located in Andhra Pradesh); Vikram Sarabhai Space Center (Kerala) (2025)<br>
 
 **Space program overview**<br>
-has one of the world’s largest space programs; designs, builds, launches, operates, and tracks the full spectrum of satellites, including communications, navigation, remote sensing (RS), and scientific/technology; designs, builds, and launches rockets, space/satellite launch vehicles (SLVs), and lunar/interplanetary probes; launches satellites for foreign partners; developing astronaut corps and human flight capabilities (with assistance from Russia, US); researching and developing additional space-related technologies and capabilities; has space-related agreements with more than 50 countries, including China, France, Germany, Japan, Russia, and the US, as well as the European Space Agency; participates in international space projects such as the Square Kilometer Array (SKA) radio telescope; has a government-owned company under the administrative control of DOS; NewSpace India Limited (NSIL) is the commercial arm of the ISRO with the responsibility of researching and developing space-related technologies and promoting India’s growing space industry (2024)<br>
+has one of the world’s largest space programs; designs, builds, launches, operates, and tracks the full spectrum of satellites, including communications, navigation, remote sensing (RS), and scientific/technology; designs, builds, and launches rockets, space/satellite launch vehicles (SLVs), and lunar/interplanetary probes; launches satellites for foreign partners; developing astronaut corps and human flight capabilities (with assistance from Russia, US); researching and developing additional space-related technologies and capabilities; has space-related agreements with more than 50 countries, including China, France, Germany, Japan, Russia, and the US, as well as the European Space Agency; participates in international space projects such as the Square Kilometer Array (SKA) radio telescope; the Department of Space administers two government-controlled space industry corporations; India also has a growing private space sector (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -733,9 +734,9 @@ al-Qa’ida; al-Qa’ida in the Indian Subcontinent (AQIS); Harakat ul-Mujahidin
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 92,131 (Sri Lanka), 72,315 (Tibet/China), 10,064 (Afghanistan) (mid-year 2022); 78,731 (Burma) (refugees and asylum seekers) (2023)<br>
-_IDPs_: 631,000 (armed conflict and intercommunal violence) (2022)<br>
-_stateless persons_: 20,330 (2022)<br>
+_refugees_: 250,006 (2024 est.)<br>
+_IDPs_: 642,610 (2024 est.)<br>
+_stateless persons_: 23,262 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>

@@ -171,16 +171,13 @@ _female_: 78.7 years<br>
 **Gross reproduction rate**<br>
 0.95 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-81% (2015/16)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 87.5% of population<br>
-_improved: total_: total: 97.7% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 12.5% of population<br>
-_unimproved: total_: total: 2.3% of population (2020 est.)<br>
+_improved: urban_: urban: 99.9% of population (2022 est.)<br>
+_improved: rural_: rural: 86.7% of population (2022 est.)<br>
+_improved: total_: total: 97.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 13.3% of population (2022 est.)<br>
+_unimproved: total_: total: 2.5% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 9% of GDP (2021)<br>
@@ -193,12 +190,12 @@ _Health expenditure (as % of national budget)_: 15.7% of national budget (2022 e
 1.7 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.1% of population<br>
-_improved: rural_: rural: 87.7% of population<br>
-_improved: total_: total: 97% of population<br>
-_unimproved: urban_: urban: 0.9% of population<br>
-_unimproved: rural_: rural: 12.3% of population<br>
-_unimproved: total_: total: 3% of population (2020 est.)<br>
+_improved: urban_: urban: 98.9% of population (2022 est.)<br>
+_improved: rural_: rural: 88.2% of population (2022 est.)<br>
+_improved: total_: total: 97% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 11.8% of population (2022 est.)<br>
+_unimproved: total_: total: 3% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 22.3% (2016)<br>
@@ -263,23 +260,32 @@ _other_: 9.4% (2022 est.)<br>
 _urban population_: 82.4% of total population (2023)<br>
 _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 14.04 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 97.81 megatons (2016 est.)<br>
-_methane emissions_: 81.52 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 85.878 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 15.463 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 49.727 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 20.688 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+13.1 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 814.5 kt (2022-2024 est.)<br>
+_agriculture_: 1,791.5 kt (2019-2021 est.)<br>
+_waste_: 600.8 kt (2019-2021 est.)<br>
+_other_: 18.9 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 12,150,120 tons (2011 est.)<br>
-_municipal solid waste recycled annually_: 2,089,821 tons (2013 est.)<br>
-_percent of municipal solid waste recycled_: 17.2% (2013 est.)<br>
+_municipal solid waste generated annually_: 12.15 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 28.5% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 3.72 billion cubic meters (2020 est.)<br>
-_industrial_: 360 million cubic meters (2020 est.)<br>
-_agricultural_: 25.04 billion cubic meters (2020 est.)<br>
+_municipal_: 3.405 billion cubic meters (2022)<br>
+_industrial_: 1.033 billion cubic meters (2022)<br>
+_agricultural_: 20.46 billion cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-2.36 trillion cubic meters (2020 est.)<br>
+2.36 trillion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -391,9 +397,9 @@ ACS, BCIE, BIS, CABEI, CAN, Caricom (observer), CD, CDB, CELAC, EITI (candidate 
 **National holiday**<br>
 Independence Day, 20 July (1810)<br>
 
-**Flag description**<br>
-three horizontal bands of yellow (top, double-width), blue, and red; various interpretations of the colors exist; one interpretation has yellow for the gold in Colombia's land, blue for the sea, and red for the blood spilled in attaining freedom; alternatively, the colors have been described as representing sovereignty and justice (yellow), loyalty and vigilance (blue), and valor and generosity (red); another interpretation has the colors standing for liberty, equality, and fraternity<br>
-<strong>note:</strong> similar to the flag of Ecuador, which is longer and has the Ecuadorian coat of arms superimposed in the center<br>
+**Flag**<br>
+<strong>description:</strong> three horizontal bands of yellow (top, double-width), blue, and red<br><br><strong>meaning:</strong> various interpretations of the colors exist; one has yellow for the gold in Colombia's land, blue for the sea, and red for the blood spilled in attaining freedom; another describes them as representing sovereignty and justice (yellow), loyalty and vigilance (blue), and valor and generosity (red); another has the colors standing for liberty, equality, and fraternity <br>
+<strong>note:</strong> similar to the flag of Ecuador, which is wider and has the Ecuadorian coat of arms in the center<br>
 
 **National symbol(s)**<br>
 Andean condor<br>
@@ -404,7 +410,7 @@ yellow, blue, red<br>
 **National anthem(s)**<br>
 _title_: "Himno Nacional de la Republica de Colombia" (National Anthem of the Republic of Colombia)<br>
 _lyrics/music_: Rafael NUNEZ/Oreste SINDICI<br>
-_history_: adopted 1920; the anthem comes from an inspirational poem written by President Rafael NUNEZ; the anthem starts with the chorus, then a verse, then the chorus, any one of the eleven verses are used<br>
+_history_: adopted 1920; the anthem comes from an inspirational poem written by President Rafael NUNEZ; the anthem always starts with the chorus<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 9 (6 cultural, 2 natural, 1 mixed)<br>
@@ -509,9 +515,9 @@ _highest 10%_: 42.7% (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $98.462 billion (2022 est.)<br>
-_expenditures_: $113.035 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $116.49 billion (2023 est.)<br>
+_expenditures_: $123.966 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 71.3% of GDP (2023 est.)<br>
@@ -610,12 +616,6 @@ _consumption_: 11.885 billion cubic meters (2023 est.)<br>
 _imports_: 958.724 million cubic meters (2023 est.)<br>
 _proven reserves_: 87.782 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 85.878 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 15.463 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 49.727 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 20.688 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 29.305 million Btu/person (2023 est.)<br>
 
@@ -704,10 +704,10 @@ the Colombian military is responsible for defending and maintaining the country�
 ## Space
 
 **Space agency/agencies**<br>
-Colombian Space Commission (Comision Colombiana Del Espacio, CCE; established 2006); Air and Space Operations Command (Colombian military); note &ndash; the Colombian Space Agency (Agencia Espacial Del Colombia, AEC) is a private, non-profit agency established in 2017 (2024)<br>
+Colombian Space Commission (Comision Colombiana Del Espacio, CCE; established 2006); Air and Space Operations Command (Colombian military); note &ndash; the Colombian Space Agency (Agencia Espacial Del Colombia, AEC) is a private, non-profit agency established in 2017 (2025)<br>
 
 **Space program overview**<br>
-has a small program focused on acquiring satellites, particularly remote sensing (RS) satellites; operates satellites and produces nanosatellites; researches other space technologies, including telecommunications, satellite navigation, and astronautics; has relations with a variety of foreign space agencies or commercial space industries, including those of Denmark, India, Russia, Sweden, the US, and some members of the Latin American and Caribbean Space Agency (ALCE) (2024)<br>
+has a small program focused on acquiring satellites, particularly remote sensing (RS) satellites; operates satellites and produces nanosatellites; researches other space technologies, including astronautics, satellite navigation, and telecommunications; has relations with a variety of foreign space agencies or commercial space industries, including those of Denmark, India, Russia, Sweden, the US, and some members of the Latin American and Caribbean Space Agency (ALCE) (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -719,9 +719,9 @@ National Liberation Army (ELN); Revolutionary Armed Forces of Colombia - People'
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,875,743 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2023)<br>
-_IDPs_: 6,863,334 (conflict between government and illegal armed groups and drug traffickers since 1985) (2023)<br>
-_stateless persons_: 11 (2022)<br>
+_refugees_: 30,611 (2024 est.)<br>
+_IDPs_: 7,264,767 (2024 est.)<br>
+_stateless persons_: 5 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>

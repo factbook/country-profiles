@@ -170,17 +170,9 @@ _female_: 77.9 years<br>
 **Gross reproduction rate**<br>
 1.25 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-53% (2018)<br>
-<strong>note:</strong> percent of women aged 18-49<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 93.8% of population<br>
-_improved: total_: total: 97.4% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 6.2% of population<br>
-_unimproved: total_: total: 2.6% of population (2020 est.)<br>
+_improved: urban_: urban: 98% of population (2022 est.)<br>
+_unimproved: urban_: urban: 2% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 3.9% of GDP (2021)<br>
@@ -193,12 +185,12 @@ _Health expenditure (as % of national budget)_: 10.6% of national budget (2022 e
 6.7 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: 99.9% of population<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: 0.1% of population<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
+_improved: urban_: urban: 99.9% of population (2022 est.)<br>
+_improved: rural_: rural: 99.9% of population (2022 est.)<br>
+_improved: total_: total: 99.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.1% of population (2022 est.)<br>
+_unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 21% (2016)<br>
@@ -258,23 +250,32 @@ _other_: 19.3% (2022 est.)<br>
 _urban population_: 58.2% of total population (2023)<br>
 _rate of urbanization_: 1.19% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 26.5 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 247.21 megatons (2016 est.)<br>
-_methane emissions_: 45.03 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 269.83 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 175.848 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 50.387 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 43.596 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+38.4 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 1,903.1 kt (2022-2024 est.)<br>
+_agriculture_: 781.2 kt (2019-2021 est.)<br>
+_waste_: 184.1 kt (2019-2021 est.)<br>
+_other_: 17.7 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 4,659,740 tons (2012 est.)<br>
-_municipal solid waste recycled annually_: 136,064 tons (2012 est.)<br>
-_percent of municipal solid waste recycled_: 2.9% (2012 est.)<br>
+_municipal solid waste generated annually_: 4.66 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 3.8% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 4.62 billion cubic meters (2020 est.)<br>
-_industrial_: 4.54 billion cubic meters (2020 est.)<br>
-_agricultural_: 15.4 billion cubic meters (2020 est.)<br>
+_municipal_: 4.877 billion cubic meters (2022)<br>
+_industrial_: 5.995 billion cubic meters (2022)<br>
+_agricultural_: 14.264 billion cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-108.41 billion cubic meters (2020 est.)<br>
+108.41 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -387,14 +388,17 @@ ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU
 **National holiday**<br>
 Independence Day, 16 December (1991)<br>
 
-**Flag description**<br>
-a gold sun with 32 rays above a soaring golden steppe eagle, both centered on a sky-blue background; the hoist side displays a national pattern called <em>koshkar-muiz</em> (the horns of the ram) in gold; the blue color has religious significance for the Turkic peoples and symbolizes cultural and ethnic unity, as well as sky and water; the sun stands for wealth and plenitude, with rays shaped like grain; the eagle has appeared on Kazakh tribal flags for centuries and represents freedom, power, and the flight to the future<br>
+**Flag**<br>
+<strong>description:</strong> a gold sun with 32 rays above a soaring golden steppe eagle, both centered on a sky-blue background; the left side displays a national pattern called <em>koshkar-muiz</em> (the horns of the ram) in gold<br><br><strong>meaning:</strong> the blue color has religious significance for the Turkic peoples and symbolizes cultural and ethnic unity, as well as sky and water; the sun stands for wealth and plenitude, with rays shaped like grain; the eagle has appeared on Kazakh tribal flags for centuries and represents freedom, power, and the flight to the future<br>
 
 **National symbol(s)**<br>
 golden eagle<br>
 
 **National color(s)**<br>
 blue, yellow<br>
+
+**National coat of arms**<br>
+winning design from a competition held in 1992; the design uses the national colors of yellow and blue, with blue standing for the hope for unity, peace, and friendship with all people and gold for a clear future for the country’s population; a <em>shanyrak</em> (the upper dome-like portion of a yurt) represents familial well-being, peace, and calmness, with the circular shape standing for life and eternity; the winged horses, or <em>tulpars</em>, protect the shanyrak and symbolize bravery, prosperity, and inspiration<br>
 
 **National anthem(s)**<br>
 _title_: "Menin Qazaqstanim" (My Kazakhstan)<br>
@@ -504,9 +508,9 @@ _highest 10%_: 24.8% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $39.879 billion (2022 est.)<br>
-_expenditures_: $36.451 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $44.25 billion (2023 est.)<br>
+_expenditures_: $47.247 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 20.9% of GDP (2023 est.)<br>
@@ -608,12 +612,6 @@ _exports_: 7.071 billion cubic meters (2023 est.)<br>
 _imports_: 408.952 million cubic meters (2023 est.)<br>
 _proven reserves_: 2.407 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 269.83 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 175.848 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 50.387 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 43.596 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 172.936 million Btu/person (2023 est.)<br>
 
@@ -688,18 +686,20 @@ the military’s principal responsibilities are territorial defense while the Na
 ## Space
 
 **Space agency/agencies**<br>
-National Space Agency of the Republic of Kazakhstan (KazCosmos; established 2007) (2024)<br>
+Aerospace Committee of the Kazakh Digital Development, Innovations and Aerospace Industry Ministry (aka National Space Agency of the Republic of Kazakhstan or KazCosmos; established 2007) (2025)<br>
 
 **Space launch site(s)**<br>
-Baikonur Cosmodrome/Space Center (Baikonur) (2024)<br>
-<strong>note 1:</strong> the Baikonur cosmodrome and the surrounding area are leased and administered by Russia until 2050 for approximately $115 million/year; the cosmodrome was originally built by the Soviet Union in the mid-1950s and is the site of the World's first successful satellite launch (Sputnik) in 1957; it is also the largest space launch facility in the World, comprising 15 launch pads for space launch vehicles, four launch pads for testing intercontinental ballistic missiles, more than 10 assembly and test facilities, and other infrastructure <br><br><strong>note 2: </strong>in 2018, Kazakhstan and Russia agreed that Kazakhstan would build, maintain, and operate a new space launch facility (Baiterek) at the Baikonur space center (estimated to be ready for operations in 2025)<br>
+Baikonur Cosmodrome/Space Center (Baikonur) (2025)<br>
+<strong>note 1:</strong> Baikonur Cosmodrome is leased and administered by Russia until 2050; the cosmodrome was originally built by the Soviet Union in the mid-1950s and is the site of the World's first successful satellite launch (Sputnik) in 1957; it is also the largest space launch facility in the World<br><br><strong>note 2: </strong>in 2018, Kazakhstan and Russia agreed that Kazakhstan would build, maintain, and operate a new space launch facility (Baiterek) at the Baikonur Space Center (estimated to be fully operational in 2027-2028)<br>
 
 **Space program overview**<br>
-has an active and ambitious space program that originated with the former Soviet Union; focused on the acquisition and operation of satellites; builds (with foreign assistance) and operates communications, remote sensing (RS), and scientific satellites; building space infrastructure, such as launch and testing facilities, ground stations, and rocket manufacturing; has an astronaut (cosmonaut) program; has relations with a variety of foreign space agencies and industries, including those of China, France, Germany, India, Israel, Italy, Japan, Russia, Saudi Arabia, Sweden, Thailand, Turkey, Ukraine, UAE, and the UK; has state-owned and private companies that assist in the development and building of the country’s space program, including satellites, satellite payloads, and associated capabilities; they also work closely with foreign commercial entities (2024)<br>
+space program originated with the former Soviet Union; focused on the acquisition and operation of satellites; builds (with foreign assistance) and operates communications, remote sensing (RS), and scientific satellites; building space infrastructure, such as launch and testing facilities, ground stations, and rocket manufacturing; has an astronaut (cosmonaut) program; has relations with a variety of foreign space agencies and industries, including those of China, France, Germany, India, Israel, Italy, Japan, Russia, Saudi Arabia, Sweden, Thailand, Turkey, Ukraine, UAE, and the UK; participates in international program such as the International Space Station; has state-owned and private companies that assist in the development and building of the country’s space program, including satellites, satellite payloads, and associated capabilities; they also work closely with foreign commercial entities (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 7,558 (2022)<br>
+_refugees_: 66,152 (2024 est.)<br>
+_IDPs_: 0 (2024 est.)<br>
+_stateless persons_: 7,865 (2024 est.)<br>
 

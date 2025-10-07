@@ -158,27 +158,17 @@ _female_: 85.8 years<br>
 **Gross reproduction rate**<br>
 0.75 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Physician density**<br>
 1.3 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
 _unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 65.2% (2023 est.)<br>
@@ -215,20 +205,12 @@ _other_: 25.8% (2022 est.)<br>
 _urban population_: 14.6% of total population (2023)<br>
 _rate of urbanization_: 1.15% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.05 megatons (2016 est.)<br>
-_methane emissions_: 0.02 megatons (2020 est.)<br>
-
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 32,382 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 20,919 tons (2015 est.)<br>
+_municipal solid waste generated annually_: 32,400 tons (2024 est.)<br>
 _percent of municipal solid waste recycled_: 64.6% (2015 est.)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 10 million cubic meters (2020 est.)<br>
-
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -318,8 +300,8 @@ CD, CE, EBRD, EFTA, IAEA, ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITSO, ITU, ITUC
 National Day, 15 August (1940)<br>
 <strong>note:</strong> a National Day was originally established in 1940 to combine celebrations for the Feast of the Assumption (15 August) with those honoring the birthday of former Prince FRANZ JOSEF II (1906-1989) on 16 August; after the prince's death, National Day became the official national holiday in 1990<br>
 
-**Flag description**<br>
-two equal horizontal bands of blue (top) and red, with a gold crown on the hoist side of the blue band; the colors may derive from the blue-and-red livery used in the principality's household in the 18th century; the prince's crown was introduced in 1937 to distinguish it from Haiti's flag<br>
+**Flag**<br>
+<strong>description:</strong> two equal horizontal bands of blue (top) and red, with a gold crown on the left side of the blue band<br><br><strong>history: </strong>the colors may derive from the blue-and-red livery used in the principality's household in the 18th century; the prince's crown was added in 1937 to distinguish it from Haiti's flag<br>
 
 **National symbol(s)**<br>
 princely hat (crown)<br>
@@ -340,9 +322,27 @@ _history_: adopted 1850, revised 1963; uses the tune of the United Kingdom's ant
 **Economic overview**<br>
 high-income European economy; Schengen Area participant; key European financial leader; integrated with Swiss economy and franc currency user; one of the highest GDP per capita countries; relies on US and Eurozone markets for exports<br>
 
+**Real GDP (purchasing power parity)**<br>
+$7.172 billion (2024 est.)<br>
+$7.031 billion (2023 est.)<br>
+$6.885 billion (2022 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
+
+**Real GDP per capita**<br>
+$210,600 (2024 est.)<br>
+$201,200 (2023 est.)<br>
+$187,700 (2022 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
+
 **GDP (official exchange rate)**<br>
-$8.288 billion (2023 est.)<br>
+$8.395 billion (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
+
+**Inflation rate (consumer prices)**<br>
+2.8% (2022 est.)<br>
+0.6% (2021 est.)<br>
+-0.7% (2020 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.2% (2022 est.)<br>
@@ -427,4 +427,7 @@ _by type_: bulk carrier 14, general cargo 1, other 2 (includes Switzerland)<br>
 no regular military forces; National Police of the Principality of Liechtenstein (Landespolizei des F&uuml;rstentums Liechtenstein)<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 875 (2024 est.)<br>
 

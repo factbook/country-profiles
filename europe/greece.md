@@ -161,16 +161,13 @@ _female_: 84.6 years<br>
 **Gross reproduction rate**<br>
 0.68 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 9.2% of GDP (2021)<br>
@@ -183,12 +180,12 @@ _Health expenditure (as % of national budget)_: 8.7% of national budget (2022 es
 4.2 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 24.9% (2016)<br>
@@ -241,23 +238,26 @@ _other_: 25.4% (2022 est.)<br>
 _urban population_: 80.7% of total population (2023)<br>
 _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 14.62 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 62.43 megatons (2016 est.)<br>
-_methane emissions_: 9.8 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 62.06 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 10.794 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 44.649 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 6.617 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+14.6 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 5,477,424 tons (2014 est.)<br>
-_municipal solid waste recycled annually_: 1,040,711 tons (2014 est.)<br>
-_percent of municipal solid waste recycled_: 19% (2014 est.)<br>
+_municipal solid waste generated annually_: 5.615 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 22.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.69 billion cubic meters (2020 est.)<br>
-_industrial_: 330 million cubic meters (2020 est.)<br>
-_agricultural_: 8.11 billion cubic meters (2020 est.)<br>
+_municipal_: 1.687 billion cubic meters (2022)<br>
+_industrial_: 279.8 million cubic meters (2022)<br>
+_agricultural_: 8.107 billion cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-68.4 billion cubic meters (2020 est.)<br>
+68 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 9 (2024)<br>
@@ -345,7 +345,7 @@ _consulate(s) general_: Boston, Chicago, Los Angeles, New York, Tampa (FL), San 
 _consulate(s)_: Atlanta, Houston<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Maria OLSON (since January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Josh HUCK (since 1 August 2025)<br>
 _embassy_: 91 Vasillisis Sophias Avenue, 10160 Athens<br>
 _mailing address_: 7100 Athens Place, Washington DC&nbsp; 20521-7100<br>
 _telephone_: [30] (210) 721-2951<br>
@@ -363,8 +363,8 @@ Australia Group, BIS, BSEC, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FA
 **National holiday**<br>
 Independence Day, 25 March (1821)<br>
 
-**Flag description**<br>
-nine equal horizontal stripes of blue alternating with white; a blue square with a white cross is in the upper hoist-side corner; the cross symbolizes Greek Orthodoxy, the established religion of the country; there is no set meaning for the stripes and colors<br>
+**Flag**<br>
+<strong>description:</strong> nine equal horizontal stripes of blue alternating with white; a blue square with a white cross is in the upper-left corner<br><br><strong>meaning:</strong> the cross symbolizes Greek Orthodoxy, the established religion; there is no set meaning for the stripes and colors<br>
 <strong>note:</strong> Greek legislation states that the flag colors are cyan and white, but cyan can mean "blue" in Greek, so the exact shade of blue has never been set and has varied from a light to a dark blue over time; the blue is now usually an azure<br>
 
 **National symbol(s)**<br>
@@ -377,9 +377,9 @@ blue, white<br>
 the coat of arms was designed by Greek artist Kostas Grammatopoulos and has been in use since 1975; depicted in the national colors of blue and white; the white cross represents the country&rsquo;s primary religion, Greek Orthodoxy, and the laurel branches symbolize victory<br>
 
 **National anthem(s)**<br>
-_title_: "Ymnos eis tin Eleftherian" (Hymn to Liberty)<br>
+_title_: "Ymnos eis tin Eleftherian" (Hymn to Freedom)<br>
 _lyrics/music_: Dionysios SOLOMOS/Nikolaos MANTZAROS<br>
-_history_: adopted 1864; the anthem is based on a 158-stanza poem by the same name, which was inspired by the Greek Revolution of 1821 against the Ottomans (only the first two stanzas are used); Cyprus also uses "Hymn to Liberty" as its anthem<br>
+_history_: adopted 1864; the anthem is based on a 158-stanza poem by the same name, which was inspired by the Greek Revolution of 1821 against the Ottomans (only the first two stanzas are used); Cyprus also uses "Hymn to Freedom" as its anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 19 (17 cultural, 2 mixed)<br>
@@ -484,9 +484,9 @@ _highest 10%_: 25.7% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $105.353 billion (2022 est.)<br>
-_expenditures_: $110.844 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $111.938 billion (2023 est.)<br>
+_expenditures_: $114.497 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 190.6% of GDP (2023 est.)<br>
@@ -582,12 +582,6 @@ _exports_: 8.362 billion cubic meters (2023 est.)<br>
 _imports_: 11.619 billion cubic meters (2023 est.)<br>
 _proven reserves_: 991.09 million cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 62.06 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 10.794 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 44.649 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 6.617 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 92.693 million Btu/person (2023 est.)<br>
 
@@ -648,14 +642,14 @@ Hellenic Armed Forces (HAF; Ellinikes Enoples Dynamis, EED): Hellenic Army (Elli
 <strong>note 1:</strong> the police (under the Ministry of Citizen Protection) and the armed forces (Ministry of National Defense) share law enforcement duties in certain border areas; the Greek Coast Guard is under the Ministry of Shipping Affairs and Island Policy<br><br><strong>note 2:</strong> the National Guard was established in 1982 as an official part of the Army to help protect Greece and provide reinforcements and support to the Army in peacetime and in times of mobilization and war<br>
 
 **Military expenditures**<br>
-3.1% of GDP (2024 est.)<br>
-3.1% of GDP (2023)<br>
-3.9% of GDP (2022)<br>
-3.7% of GDP (2021)<br>
-2.9% of GDP (2020)<br>
+2.9% of GDP (2025 est.)<br>
+2.7% of GDP (2024 est.)<br>
+2.8% of GDP (2023 est.)<br>
+3.9% of GDP (2022 est.)<br>
+3.7% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 115,000 active-duty Armed Forces (80,000 Army; 15,000 Navy; 20,000 Air Force) (2024)<br>
+approximately 112,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists of a mix of domestically produced and imported weapons and equipment from Europe and the US; in recent years, France, Germany, and the US have been major suppliers; Greece's defense industry is capable of producing a range of military hardware, including naval vessels and associated subsystems (2024)<br>
@@ -674,10 +668,10 @@ the Hellenic Armed Forces (HAF) are responsible for protecting Greece’s indepe
 ## Space
 
 **Space agency/agencies**<br>
-Hellenic Space Center (HSC; aka Hellenic Space Agency; established 2018) (2024)<br>
+Hellenic Space Center (HSC; aka Hellenic Space Agency; established 2018) (2025)<br>
 
 **Space program overview**<br>
-has a relatively new and growing space program focused on building and operating satellites; also researches and develops technologies in a variety of other space sectors, including such areas as remote sensing (RS), telecommunications, defense, environmental studies, and agricultural development; has a national space strategy; as a member of the European Space Agency (ESA), it contributes to, participates in, and benefits from ESA capabilities and programs; cooperates with space agencies and commercial space sectors of ESA and EU member states, as well as the US; has a robust commercial space sector that researches, develops, and produces a variety of space technologies and capabilities, including satellite components, electronics, sensors, and communications (2024)<br>
+space program focused on building and operating satellites for communications and remote sensing (RS); researches and develops technologies in a variety of space sectors, including such areas agricultural areas, defense, environmental studies, RS, and telecommunications; has a national space strategy; as a member of the European Space Agency (ESA), it contributes to, participates in, and benefits from ESA capabilities and programs; cooperates with space agencies and commercial space sectors of ESA and EU member states, as well as the US; has a commercial space sector that researches, develops, and produces a variety of space technologies and capabilities, including satellite components, electronics, sensors, and telecommunications (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -689,7 +683,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle (RS); Revoluti
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 27,365 (Ukraine) (as of 31 December 2023)<br>
-_stateless persons_: 4,488 (2022)<br>
-<strong>note:</strong> 1,289,013 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
+_refugees_: 144,694 (2024 est.)<br>
+_stateless persons_: 3,743 (2024 est.)<br>
 

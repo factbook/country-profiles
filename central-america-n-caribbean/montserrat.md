@@ -147,24 +147,13 @@ _female_: 75.3 years<br>
 **Gross reproduction rate**<br>
 0.63 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 98.1% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 1.9% of population (2020 est.)<br>
+_improved: total_: total: 98.1% of population (2022 est.)<br>
+_unimproved: total_: total: 1.9% of population (2022 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA<br>
+_improved: total_: total: 99.6% of population (2022 est.)<br>
+_unimproved: total_: total: 0.4% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 35.8% (2023 est.)<br>
@@ -192,6 +181,10 @@ _other_: 45% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 9.3% of total population (2023)<br>
 _rate of urbanization_: 0.94% annual rate of change (2020-25 est.)<br>
+
+**Carbon dioxide emissions**<br>
+_total emissions_: 24,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 24,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Government
 
@@ -268,10 +261,10 @@ Caricom, CDB, Interpol (subbureau), OECS, UPU<br>
 none (overseas territory of the UK)<br>
 
 **National holiday**<br>
-Birthday of Queen ELIZABETH II, usually celebrated the Monday after the second Saturday in June (1926)<br>
+Official birthday of King Charles III, usually celebrated the second Saturday in June (1948)<br>
 
-**Flag description**<br>
-blue with the UK flag in the upper hoist-side quadrant and the Montserratian coat of arms centered in the outer half of the flag; the arms show a woman in a green dress (Erin, the female personification of Ireland) standing beside a yellow harp (a symbol of Ireland) and embracing a large dark cross with her right arm; blue represents awareness, trustworthiness, determination, and righteousness<br>
+**Flag**<br>
+<strong>description:</strong> blue with the UK flag in the upper-left quadrant and the Montserratian coat of arms centered in the right half of the flag; the arms show a woman in a green dress standing beside a yellow harp and embracing a large, dark-brown cross with her right arm<br><br><strong>meaning:</strong> the woman is Erin, the female personification of Ireland, the harp is an Irish symbol, and the cross represents the Christian faith; blue stands for awareness, trustworthiness, determination, and righteousness<br>
 
 **National anthem(s)**<br>
 _title_: "God Save the King"<br>
@@ -282,6 +275,28 @@ _history_: official anthem, as a UK territory<br>
 
 **Economic overview**<br>
 formerly high-income economy; volcanic activity destroyed much of original infrastructure and economy; new capital and port is being developed; key geothermal and solar power generation; key music recording operations<br>
+
+**Real GDP (purchasing power parity)**<br>
+$89.254 million (2024 est.)<br>
+$86.875 million (2023 est.)<br>
+$80.972 million (2022 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
+
+**Real GDP per capita**<br>
+$19,300 (2024 est.)<br>
+$18,200 (2023 est.)<br>
+$16,200 (2022 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$84.537 million (2024 est.)<br>
+<strong>note:</strong> data in current dollars at official exchange rate<br>
+
+**Inflation rate (consumer prices)**<br>
+4% (2022 est.)<br>
+1.7% (2021 est.)<br>
+-1.9% (2020 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 90.8% (2017 est.)<br>
@@ -347,10 +362,6 @@ _solar_: 12.2% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 200 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 24,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 24,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

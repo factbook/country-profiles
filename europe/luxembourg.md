@@ -161,16 +161,13 @@ _female_: 85.9 years<br>
 **Gross reproduction rate**<br>
 0.79 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 98.6% of population<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 1.4% of population<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 98.6% of population (2022 est.)<br>
+_improved: total_: total: 99.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.4% of population (2022 est.)<br>
+_unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.5% of GDP (2022)<br>
@@ -183,12 +180,12 @@ _Health expenditure (as % of national budget)_: 11% of national budget (2022 est
 4.2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 99.9% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0.1% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 99.9% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.1% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 22.6% (2016)<br>
@@ -241,23 +238,26 @@ _other_: 14.2% (2022 est.)<br>
 _urban population_: 92.1% of total population (2023)<br>
 _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 8.89 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 8.99 megatons (2016 est.)<br>
-_methane emissions_: 0.61 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 8.715 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 75,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 7.496 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 1.144 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+9.2 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 356,000 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 100,997 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 28.4% (2015 est.)<br>
+_municipal solid waste generated annually_: 490,300 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 42% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 50 million cubic meters (2020 est.)<br>
-_industrial_: 1.6 million cubic meters (2017 est.)<br>
-_agricultural_: 400,000 cubic meters (2017 est.)<br>
+_municipal_: 43.53 million cubic meters (2022 est.)<br>
+_industrial_: 1.83 million cubic meters (2022 est.)<br>
+_agricultural_: 490,000 cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-3.5 billion cubic meters (2020 est.)<br>
+3.5 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 1<br>
@@ -340,7 +340,7 @@ _email address and website_: <br>washington.amb@mae.etat.lu<br><br>https://washi
 _consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Michael KONSTANTINO (since 19 January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Anthony BAIRD (since 21 July 2025)<br>
 _embassy_: 22 Boulevard Emmanuel Servais, L-2535 Luxembourg City<br>
 _mailing address_: 5380 Luxembourg Place, Washington DC&nbsp; 20521-5380<br>
 _telephone_: [352] 46-01-23-00<br>
@@ -357,8 +357,9 @@ ADB (nonregional member), Australia Group, Benelux, BIS, CD, CE, EAPC, EBRD, ECB
 National Day (birthday of Grand Duke HENRI), 23 June<br>
 <strong>note:</strong> this is not the true date of birth for any of the Royals, but the national festivities were shifted in 1962 to allow observance during a more favorable time of year<br>
 
-**Flag description**<br>
-three equal horizontal bands of red (top), white, and light blue; similar to the flag of the Netherlands, which uses a darker blue and is shorter; the coloring is derived from the Grand Duke's coat of arms<br>
+**Flag**<br>
+<strong>description: </strong>three equal horizontal bands of red (top), white, and light blue<br><br><strong>history:</strong> the colors are derived from the Grand Duke's coat of arms<br>
+<strong>note: </strong>similar to the flag of the Netherlands, which is shorter and uses a darker blue<br>
 
 **National symbol(s)**<br>
 red rampant lion<br>
@@ -367,9 +368,9 @@ red rampant lion<br>
 red, white, light blue<br>
 
 **National anthem(s)**<br>
-_title_: "De Wilhelmus" (The William)<br>
-_lyrics/music_: Nikolaus WELTER/unknown<br>
-_history_: royal anthem, for use when members of the grand ducal family enter or exit a ceremony in Luxembourg<br>
+_title_: &ldquo;De Wilhelmus&rdquo; (The William)<br>
+_lyrics/music_: Nikolaus WELTER<br>
+_history_: adopted 1919; royal anthem, for use when members of the grand ducal family enter or exit a ceremony in Luxembourg<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -470,9 +471,9 @@ _highest 10%_: 25.6% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $33.533 billion (2022 est.)<br>
-_expenditures_: $33.054 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $37.951 billion (2023 est.)<br>
+_expenditures_: $38.263 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 23% of GDP (2017 est.)<br>
@@ -561,12 +562,6 @@ _refined petroleum consumption_: 51,000 bbl/day (2024 est.)<br>
 _consumption_: 556.63 million cubic meters (2023 est.)<br>
 _imports_: 552.714 million cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 8.715 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 75,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 7.496 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 1.144 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 224.651 million Btu/person (2023 est.)<br>
 
@@ -618,14 +613,14 @@ Luxembourg Army (l'Armée Luxembourgeoise) (2025)<br>
 <strong>note:</strong> the Grand Ducal Police maintain internal security and report to the Ministry of Internal Security<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2024 est.)<br>
-1% of GDP (2023)<br>
-0.6% of GDP (2022)<br>
-0.5% of GDP (2021)<br>
-0.6% of GDP (2020)<br>
+2% of GDP (2025 est.)<br>
+1.2% of GDP (2024 est.)<br>
+1.1% of GDP (2023 est.)<br>
+0.6% of GDP (2022 est.)<br>
+0.5% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 900 active Luxembourg Army personnel (2024)<br>
+approximately 900 active military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of Luxembourg's Army is a small mix of Western origin equipment (2024)<br>
@@ -640,15 +635,15 @@ founded in 1881, the Luxembourg Army is responsible for the defense of the count
 ## Space
 
 **Space agency/agencies**<br>
-the Luxembourg Space Agency (LSA; established 2018) (2024)<br>
+the Luxembourg Space Agency (LSA; established 2018) (2025)<br>
 
 **Space program overview**<br>
-LSA established largely to develop space policy, encourage and coordinate commercial space ventures, support space education, and to promote the country’s space-related capabilities internationally; has a national space strategy; has set up policy and funding initiatives (such as LuxIMPULSE) aimed at encouraging space research, development, innovation, and entrepreneurship and attracting space-based industries; focused on developing commercial satellites and infrastructure (Luxembourg is home to some of the largest commercial satellite companies in the world), as well as other space sector capabilities and technologies, such as autonomous vehicles, robotics, remote sensing (RS), communications, and software; member of the European Space Agency (ESA), participates in ESA programs, and cooperates with individual ESA and EU member states; also has relations with other foreign space agencies and industries, including those of Canada, China, Japan, New Zealand, South Korea, the UAE, and the US (2024)<br>
+LSA established largely to develop space policy, encourage and coordinate commercial space ventures, support space education, and to promote the country’s space-related capabilities internationally; has a national space strategy; has set up policy and funding initiatives (such as LuxIMPULSE) aimed at encouraging space research, development, innovation, and entrepreneurship and attracting space-based industries; focused on developing commercial satellites and infrastructure (Luxembourg is home to some of the largest commercial satellite companies in the world), as well as other space sector capabilities and technologies, such as autonomous vehicles, robotics, remote sensing (RS), communications, and software; member of the European Space Agency (ESA) since 2005; participates in a variety of ESA programs and cooperates with individual ESA and EU member states; also has relations with other foreign space agencies and industries, including those of Canada, China, Japan, New Zealand, South Korea, the UAE, and the US (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,065 (Ukraine) (as of 11 August 2023)<br>
-_stateless persons_: 174 (2022)<br>
+_refugees_: 14,344 (2024 est.)<br>
+_stateless persons_: 85 (2024 est.)<br>
 

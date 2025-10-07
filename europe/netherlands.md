@@ -168,17 +168,13 @@ _female_: 83.5 years<br>
 **Gross reproduction rate**<br>
 0.78 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-73% (2013)<br>
-<strong>note:</strong> percent of women aged 18-45<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 11.3% of GDP (2021)<br>
@@ -191,12 +187,12 @@ _Health expenditure (as % of national budget)_: 15.9% of national budget (2022 e
 2.9 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 20.4% (2016)<br>
@@ -249,23 +245,32 @@ _other_: 35.4% (2022 est.)<br>
 _urban population_: 93.2% of total population (2023)<br>
 _rate of urbanization_: 0.59% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 10.74 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 170.78 megatons (2016 est.)<br>
-_methane emissions_: 17.79 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 188.191 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 23.701 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 112.037 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 52.454 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+10 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 63.1 kt (2022-2024 est.)<br>
+_agriculture_: 449 kt (2019-2021 est.)<br>
+_waste_: 123.3 kt (2019-2021 est.)<br>
+_other_: 17.4 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 8.855 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 2,179,216 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 24.6% (2015 est.)<br>
+_municipal solid waste generated annually_: 8.805 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 28.3% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 2.05 billion cubic meters (2020 est.)<br>
-_industrial_: 5.94 billion cubic meters (2020 est.)<br>
-_agricultural_: 31 million cubic meters (2020 est.)<br>
+_municipal_: 2,184,700,000 cubic meters (2022)<br>
+_industrial_: 5,784,500,000 cubic meters (2022)<br>
+_agricultural_: 265.086 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-91 billion cubic meters (2020 est.)<br>
+91 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 2 (2024)<br>
@@ -383,8 +388,9 @@ ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), 
 King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967)<br>
 <strong>note:</strong> observed on the ruling monarch's birthday; celebrated on 26 April if 27 April is a Sunday<br>
 
-**Flag description**<br>
-three equal horizontal bands of bright red (top), white, and cobalt blue; similar to the flag of Luxembourg, which uses a lighter blue and is longer; the colors come from WILLIAM I, Prince of Orange; originally the upper band was orange, but the dye would turn red over time, and red was eventually made the permanent color<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of bright red (top), white, and cobalt blue<br><br><strong>history:</strong> the colors come from WILLIAM I, Prince of Orange; originally the upper band was orange, but the dye would turn red over time, so red was eventually made the permanent color<br>
+<strong>note: </strong>similar to the flag of Luxembourg, which uses a lighter blue and is wider<br>
 
 **National symbol(s)**<br>
 lion, daisy<br>
@@ -395,7 +401,7 @@ orange<br>
 **National anthem(s)**<br>
 _title_: "Het Wilhelmus" (The William)<br>
 _lyrics/music_: Philips VAN MARNIX van Sint Aldegonde (presumed)/unknown<br>
-_history_: adopted 1932, in use since the 17th century; also known as "Wilhelmus van Nassouwe" (William of Nassau), it is in the form of an acrostic -- the first letter of each stanza spells the name of the leader of the Dutch Revolt<br>
+_history_: adopted 1932, in use since the 17th century&nbsp;<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 13 (12 cultural, 1 natural)<br>
@@ -501,9 +507,9 @@ _highest 10%_: 21.4% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $399.616 billion (2022 est.)<br>
-_expenditures_: $398.696 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $451.11 billion (2023 est.)<br>
+_expenditures_: $455.334 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 56.5% of GDP (2017 est.)<br>
@@ -606,12 +612,6 @@ _exports_: 45.129 billion cubic meters (2023 est.)<br>
 _imports_: 66.783 billion cubic meters (2023 est.)<br>
 _proven reserves_: 132.608 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 188.191 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 23.701 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 112.037 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 52.454 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 185.536 million Btu/person (2023 est.)<br>
 
@@ -673,15 +673,14 @@ Netherlands (Dutch) Armed Forces (Nederlandse Krijgsmacht): Royal Netherlands Ar
 <strong>note 1:</strong> the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature but managed by the Royal Netherlands Navy<br><br><strong>note 2: </strong>the core missions of the Royal Netherlands Marechaussee are border security, security and surveillance, and international and military police tasks; it has 21 brigades based in eight Dutch provinces, plus Curaçao in the Caribbean, a special missions security brigade, and separate security platoons to guard and protect domestic sites that are most likely to be the targets of attacks, such as government buildings<br><br><strong>note 3:</strong> the Netherlands (or National) Police maintain internal security and report to the Ministry of Justice and Security, which oversees law enforcement organizations, as do the justice ministries in Aruba, Curacao, and Sint Maarten<br>
 
 **Military expenditures**<br>
-2.1% of GDP (2024 est.)<br>
-1.6% of GDP (2023)<br>
-1.5% of GDP (2022)<br>
-1.4% of GDP (2021)<br>
-1.4% of GDP (2020)<br>
+2.5% of GDP (2025 est.)<br>
+2% of GDP (2024 est.)<br>
+1.6% of GDP (2023 est.)<br>
+1.4% of GDP (2022 est.)<br>
+1.3% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 51,000 active-duty Armed Forces (22,000 Army; 9,000 Navy/Marines; 8,000 Air Force; 7,000 Constabulary; 5,000 other) (2025)<br>
-<strong>note:</strong> the total figures include both professional military and reservists on active duty<br>
+approximately 43,000 active-duty professional military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists of a mix of domestically produced and modern European- and US-sourced equipment; the Netherlands has an advanced domestic defense industry that focuses on armored vehicles, naval ships, and air defense systems; it also participates with the US and other European countries on joint development and production of advanced weapons systems (2025)<br>
@@ -700,10 +699,10 @@ the Dutch military is charged with the three core tasks of defending the country
 ## Space
 
 **Space agency/agencies**<br>
-Netherlands Space Office (NSO; established 2009); Netherlands Institute for Space Research (SRON; advises NSO on scientific space research; established 1983) (2024)<br>
+Netherlands Space Office (NSO; established 2009) (2025)<br>
 
 **Space program overview**<br>
-has an active space program focused on the added value of space on science, the economy, and society, as well as the development of cutting edge space technologies and services based on satellite data; builds and operates satellites; researches and develops technologies related to astrophysics, telecommunications, remote sensing (RS), propulsion systems, atmospheric measuring instruments (such as spectrometers), planetary/exoplanetary research, and robotics; active member of the European Space Agency (ESA) and participates in the construction of ESA satellite launch vehicles (Arienne and VEGA) and in the ESA astronaut training program; participates in international space programs and with other foreign space agencies and industries, including those of Japan, the US, and members of the EU; has a robust commercial space sector tied in to the larger European space economy (2024)<br>
+has a national space program focused on the development of advanced space technologies and services based on satellite data; builds and operates a range of satellites, including communications and remote sensing (RS); researches and develops technologies related to astrophysics, telecommunications, RS, propulsion systems, atmospheric measuring instruments (such as spectrometers), planetary/exoplanetary research, and robotics; founding member of the European Space Agency (ESA) and active in the EU space community; hosts the ESA's main research and technology center; participates in the construction of European satellite launch vehicles and a range of other European space programs, such as Copernicus Earth observation and the Galileo global navigation satellite system; participates in international space programs, including the International Space Station and the Square Kilometer Array Project; also works with other foreign space agencies and industries, including those of Japan and the the US; has a robust commercial space sector tied in to the larger European space economy (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -715,8 +714,8 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 53,496 (Syria), 19,204 (Eritrea), 7,106 (Turkey), 5,593 (Iran), 5,152 (Iraq) (mid-year 2022); 117,950 (Ukraine) (as of 21 February 2024)<br>
-_stateless persons_: 4,570 (2022)<br>
+_refugees_: 310,239 (2024 est.)<br>
+_stateless persons_: 4,428 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major precursor-chemical producer (2025)<br>

@@ -159,16 +159,13 @@ _female_: 76.7 years<br>
 **Gross reproduction rate**<br>
 0.91 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-39.1% (2018)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.5% of population<br>
-_improved: rural_: rural: 98.2% of population<br>
-_improved: total_: total: 99.1% of population<br>
-_unimproved: urban_: urban: 0.5% of population<br>
-_unimproved: rural_: rural: 1.8% of population<br>
-_unimproved: total_: total: 0.9% of population (2020 est.)<br>
+_improved: urban_: urban: 98.7% of population (2022 est.)<br>
+_improved: rural_: rural: 96.6% of population (2022 est.)<br>
+_improved: total_: total: 98% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 3.4% of population (2022 est.)<br>
+_unimproved: total_: total: 2% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.7% of GDP (2021)<br>
@@ -181,12 +178,12 @@ _Health expenditure (as % of national budget)_: 13.1% of national budget (2022 e
 2.9 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 98.5% of population<br>
-_improved: rural_: rural: 91.2% of population<br>
-_improved: total_: total: 96% of population<br>
-_unimproved: urban_: urban: 1.5% of population<br>
-_unimproved: rural_: rural: 8.8% of population<br>
-_unimproved: total_: total: 4% of population (2020 est.)<br>
+_improved: urban_: urban: 98.5% of population (2022 est.)<br>
+_improved: rural_: rural: 91.2% of population (2022 est.)<br>
+_improved: total_: total: 96.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.5% of population (2022 est.)<br>
+_unimproved: rural_: rural: 8.8% of population (2022 est.)<br>
+_unimproved: total_: total: 3.9% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 26.4% (2016)<br>
@@ -242,21 +239,25 @@ _other_: 5% (2022 est.)<br>
 _urban population_: 66.4% of total population (2023)<br>
 _rate of urbanization_: 0.88% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 12.17 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 1.74 megatons (2016 est.)<br>
-_methane emissions_: 2.28 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 2.521 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.507 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 14,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+12.2 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 78,620 tons (2010 est.)<br>
+_municipal solid waste generated annually_: 78,600 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 16.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 50 million cubic meters (2020 est.)<br>
-_industrial_: 140 million cubic meters (2020 est.)<br>
-_agricultural_: 430 million cubic meters (2020 est.)<br>
+_municipal_: 49.3 million cubic meters (2022 est.)<br>
+_industrial_: 135.5 million cubic meters (2022 est.)<br>
+_agricultural_: 431.1 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-99 billion cubic meters (2020 est.)<br>
+99 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -355,8 +356,8 @@ ACP, ACS, AOSIS, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICR
 **National holiday**<br>
 Independence Day, 25 November (1975)<br>
 
-**Flag description**<br>
-five horizontal bands of green (top, double-width), white, red (quadruple-width), white, and green (double-width); a five-pointed yellow star is centered in the red band; red stands for progress and love, green for hope and fertility, and white for peace, justice, and freedom; the star represents the unity of ethnic groups<br>
+**Flag**<br>
+<strong>description:</strong> five horizontal bands of green (top, double-width), white, red (quadruple-width), white, and green (double-width); a five-pointed yellow star is centered on the red band<br><br><strong>meaning: </strong>red stands for progress and love, green for hope and fertility, and white for peace, justice, and freedom; the star represents the unity of ethnic groups<br>
 
 **National symbol(s)**<br>
 royal palm, faya lobi (flower)<br>
@@ -446,7 +447,7 @@ _female_: 35.9% (2024 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2% (2022 est.)<br>
 _highest 10%_: 30.1% (2022 est.)<br>
-% share of income accruing to lowest and highest 10% of population<br>
+<strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 3.4% of GDP (2024 est.)<br>
@@ -457,6 +458,9 @@ _highest 10%_: 30.1% (2022 est.)<br>
 **Budget**<br>
 _revenues_: $863 million (2019 est.)<br>
 _expenditures_: $1.648 billion (2019 est.)<br>
+
+**Public debt**<br>
+75.8% of GDP (2016 est.)<br>
 
 **Current account balance**<br>
 $9.306 million (2024 est.)<br>
@@ -540,11 +544,6 @@ _crude oil estimated reserves_: 89 million barrels (2021 est.)<br>
 _production_: 7.173 million cubic meters (2023 est.)<br>
 _consumption_: 6.967 million cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 2.521 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 2.507 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 14,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 60.896 million Btu/person (2023 est.)<br>
 
@@ -620,4 +619,7 @@ the Suriname Army has a limited inventory comprised of a mix of older weapons an
 the National Leger is responsible for defending the sovereignty and territorial integrity of Suriname against foreign aggression; other special tasks include border control and supporting domestic security as required; the military police, for example, have direct responsibility for immigration control at the country&rsquo;s ports of entry, and the military assists the police in combating crime, particularly narco-trafficking, including joint military and police patrols, as well as joint special security teams; in addition, the military provides aid and assistance during times of natural emergencies and participates in socio-economic development projects (2025)<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 3,241 (2024 est.)<br>
 

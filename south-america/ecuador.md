@@ -164,17 +164,13 @@ _female_: 80.4 years<br>
 **Gross reproduction rate**<br>
 1.08 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-77.9% (2018/19)<br>
-<strong>note:</strong> percent of women aged 15-50<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 87.1% of population<br>
-_improved: total_: total: 95.4% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 12.9% of population<br>
-_unimproved: total_: total: 4.6% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 87.9% of population (2022 est.)<br>
+_improved: total_: total: 95.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 12.1% of population (2022 est.)<br>
+_unimproved: total_: total: 4.3% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 8.3% of GDP (2021)<br>
@@ -187,12 +183,12 @@ _Health expenditure (as % of national budget)_: 11.9% of national budget (2022 e
 1.3 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 96.9% of population<br>
-_improved: total_: total: 98.9% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 3.1% of population<br>
-_unimproved: total_: total: 1.1% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 98.2% of population (2022 est.)<br>
+_improved: total_: total: 99.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.8% of population (2022 est.)<br>
+_unimproved: total_: total: 0.6% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 19.9% (2016)<br>
@@ -257,23 +253,32 @@ _other_: 28.7% (2022 est.)<br>
 _urban population_: 64.8% of total population (2023)<br>
 _rate of urbanization_: 1.62% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 16.55 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 41.15 megatons (2016 est.)<br>
-_methane emissions_: 23.51 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 38.286 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 39,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 37.711 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 536,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+17.3 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 454.3 kt (2022-2024 est.)<br>
+_agriculture_: 346.3 kt (2019-2021 est.)<br>
+_waste_: 210.1 kt (2019-2021 est.)<br>
+_other_: 2.6 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 5,297,211 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 683,340 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 12.9% (2015 est.)<br>
+_municipal solid waste generated annually_: 5.297 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 28% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.29 billion cubic meters (2020 est.)<br>
-_industrial_: 550 million cubic meters (2020 est.)<br>
-_agricultural_: 8.8 billion cubic meters (2020 est.)<br>
+_municipal_: 1.293 billion cubic meters (2022 est.)<br>
+_industrial_: 549 million cubic meters (2022 est.)<br>
+_agricultural_: 8,076,000,000 cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-442.4 billion cubic meters (2020 est.)<br>
+442.4 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 3 (2025)<br>
@@ -377,8 +382,8 @@ CAN, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committee
 **National holiday**<br>
 Independence Day (independence of Quito), 10 August (1809)<br>
 
-**Flag description**<br>
-three horizontal bands of yellow (top, double-width), blue, and red, with the coat of arms at the center of the flag; yellow stands for sunshine, grain, and mineral wealth; blue for the sky, sea, and rivers; red for the blood of patriots spilled in the struggle for freedom and justice<br>
+**Flag**<br>
+<strong>description:</strong> three horizontal bands of yellow (top, double-width), blue, and red, with the coat of arms at the center of the flag<br><br><strong>meaning:</strong> yellow stands for sunshine, grain, and mineral wealth; blue for the sky, sea, and rivers; red for patriots' blood spilled in the struggle for freedom and justice<br>
 <strong>note:</strong> similar to the flag of Colombia, which is shorter and does not have a coat of arms<br>
 
 **National symbol(s)**<br>
@@ -496,8 +501,11 @@ _highest 10%_: 33.2% (2023 est.)<br>
 
 **Budget**<br>
 _revenues_: $35.962 billion (2022 est.)<br>
-_expenditures_: $35.347 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_expenditures_: $35.969 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+43.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 13.1% (of GDP) (2022 est.)<br>
@@ -585,12 +593,6 @@ _production_: 271.053 million cubic meters (2023 est.)<br>
 _consumption_: 271.053 million cubic meters (2023 est.)<br>
 _proven reserves_: 10.902 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 38.286 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 39,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 37.711 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 536,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 35.7 million Btu/person (2023 est.)<br>
 
@@ -676,16 +678,17 @@ the military is responsible for preserving Ecuador’s national sovereignty and 
 ## Space
 
 **Space agency/agencies**<br>
-Ecuadorian Civilian Space Agency (EXA; a civilian independent research and development institution in charge of the administration and execution of Ecuador&rsquo;s space program, established 2007); Ecuadorian Space Institute (established 2012, disbanded 2018) (2024)<br>
+Ecuadorian Civilian Space Agency (EXA; a civilian independent research and development institution in charge of the administration and execution of Ecuador&rsquo;s space program, established 2007) (2025)<br>
 
 **Space program overview**<br>
-has a small program focused on acquiring or manufacturing satellites; builds scientific satellites; conducts research and develops some space-related technologies; has relationships with China and Russia's space agencies and industries, as well as the Latin American and Caribbean Space Agency (ALCE) and its member states (2024)<br>
+has a small program focused on acquiring or manufacturing satellites; builds scientific satellites; conducts research and develops some space-related technologies; has relationships with China and Russia's space agencies and industries, as well as the Latin American and Caribbean Space Agency (ALCE) and its member states (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 65,854 (Colombia) (refugees and asylum seekers) (2021); 474,945 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2023)<br>
+_refugees_: 30,241 (2024 est.)<br>
+_IDPs_: 57,402 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>

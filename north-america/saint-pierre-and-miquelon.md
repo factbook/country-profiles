@@ -152,24 +152,9 @@ _female_: 84.3 years<br>
 **Gross reproduction rate**<br>
 0.78 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
-**Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 91.4% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 8.6% of population (2017 est.)<br>
-
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020)<br>
+_improved: total_: total: 99.9% of population (2022 est.)<br>
+_unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 64.1% (2023 est.)<br>
@@ -194,6 +179,10 @@ _other_: 86.2% (2022 est.)<br>
 _urban population_: 90.1% of total population (2023)<br>
 _rate of urbanization_: 0.75% annual rate of change (2020-25 est.)<br>
 
+**Carbon dioxide emissions**<br>
+_total emissions_: 57,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 57,000 metric tonnes of CO2 (2023 est.)<br>
+
 ## Government
 
 **Country name**<br>
@@ -217,7 +206,7 @@ _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday i
 _etymology_: may be named after Saint Peter, the patron saint of fisherman; alternatively, the name may come from one of the two navigators for whom the island as a whole is named&nbsp;<br>
 
 **Administrative divisions**<br>
-none (territorial overseas collectivity of France); there are no first-order administrative divisions as defined by the US government, but 2 communes are considered second-order: Saint Pierre, Miquelon<br>
+none (territorial overseas collectivity of France); no first-order administrative divisions as defined by the US government, but 2 communes are considered second-order: Saint Pierre, Miquelon<br>
 
 **Legal system**<br>
 French civil law<br>
@@ -275,8 +264,8 @@ none (overseas collectivity collectivity of France; has been under French contro
 Fête de la Fédération, 14 July (1790)<br>
 <strong>note:</strong> often incorrectly referred to as Bastille Day, France's national celebration commemorates the storming of the Bastille prison on 14 July 1789 and the establishment of a constitutional monarchy; other names for the holiday are <em>la Fête nationale</em> (National Holiday) and <em>le Quatorze Juillet</em> (14th of July)<br>
 
-**Flag description**<br>
-a yellow three-masted sailing ship facing the hoist side rides on a blue background with wavy white lines; a black-over-white wavy line divides the ship from the white wavy lines; on the hoist side, a vertical band is divided into three heraldic arms: the top (called <em>ikkurina</em>) is red with a green diagonal cross extending to the corners and overlaid with a white cross, the middle is white with an ermine pattern, and the bottom is red with two yellow lions outlined in black; the arms represent settlers from the Basque Country (top), Brittany, and Normandy in France; blue symbolizes the Atlantic Ocean, and the ship represents explorer Jacques Cartier's ship when he visited the islands in 1536<br>
+**Flag**<br>
+<strong>description:</strong> a yellow three-masted sailing ship facing the left side rides on a blue background with wavy white lines; a black-over-white wavy line divides the ship from the white wavy lines; on the left side, a vertical band is divided into three heraldic arms: the top (called <em>ikkurina</em>) is red with a green diagonal cross extending to the corners and overlaid with a white cross, the middle is white with an ermine pattern, and the bottom is red with two yellow lions outlined in black<br><br><strong>meaning: </strong>the arms represent settlers from the Basque Country (top), Brittany, and Normandy in France; blue symbolizes the Atlantic Ocean, and the ship represents explorer Jacques Cartier's ship when he visited the islands in 1536<br>
 <strong>note:</strong> the flag of France used for official occasions<br>
 
 **National symbol(s)**<br>
@@ -341,10 +330,6 @@ _fossil fuels_: 100% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 400 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 57,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 57,000 metric tonnes of CO2 (2023 est.)<br>
 
 ## Communications
 

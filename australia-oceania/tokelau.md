@@ -110,18 +110,19 @@ _urban population_: 0% of total population (2023)<br>
 _rate of urbanization_: 0% annual rate of change (2020-25 est.)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 0% of population<br>
-_improved: rural_: rural: 99.7% of population<br>
-_improved: total_: total: 99.7% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0.3% of population<br>
-_unimproved: total_: total: 0.3% of population (2020 est.)<br>
+_improved: rural_: rural: 99.7% of population (2022 est.)<br>
+_improved: total_: total: 99.7% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.3% of population (2022 est.)<br>
+_unimproved: total_: total: 0.3% of population (2022 est.)<br>
 
 **Physician density**<br>
 1.67 physicians/1,000 population (2021)<br>
 
 **Sanitation facility access**<br>
-_improved: rural_: rural: 100% of population<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 52% (2023 est.)<br>
@@ -145,9 +146,6 @@ _other_: 40% (2022 est.)<br>
 **Urbanization**<br>
 _urban population_: 0% of total population (2023)<br>
 _rate of urbanization_: 0% annual rate of change (2020-25 est.)<br>
-
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -227,8 +225,8 @@ none (territory of New Zealand)<br>
 Waitangi Day, 6 February (1840)<br>
 <strong>note: </strong>Treaty of Waitangi established British sovereignty over New Zealand<br>
 
-**Flag description**<br>
-a yellow stylized Tokelauan canoe on a dark blue field sails toward the Southern Cross constellation with four white five-pointed stars at the hoist side; the stars represent the role of Christianity in Tokelauan culture; the stars and canoe together symbolize the country navigating into the future; yellow stands for happiness and peace, and blue for the ocean<br>
+**Flag**<br>
+<strong>description:</strong> a stylized yellow Tokelauan canoe on a dark blue field sails toward four white five-pointed stars on the left side<br><br><strong>meaning:</strong> the stars are the Southern Cross constellation and represent the role of Christianity in Tokelauan culture; the stars and canoe together symbolize the country navigating into the future; yellow stands for happiness and peace, and blue for the ocean<br>
 
 **National symbol(s)**<br>
 tuluma (fishing tackle box)<br>

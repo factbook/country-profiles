@@ -162,17 +162,9 @@ _female_: 86.6 years<br>
 **Gross reproduction rate**<br>
 0.55 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-82.3% (2018)<br>
-<strong>note:</strong> percent of women aged 20-49<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 9.7% of GDP (2022)<br>
@@ -185,12 +177,8 @@ _Health expenditure (as % of national budget)_: 14.1% of national budget (2022 e
 12.8 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
+_improved: total_: total: 99.8% of population (2022 est.)<br>
+_unimproved: total_: total: 0.2% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 4.7% (2016)<br>
@@ -250,23 +238,32 @@ _other_: 19.6% (2022 est.)<br>
 _urban population_: 81.5% of total population (2023)<br>
 _rate of urbanization_: 0.31% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 24.04 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 620.3 megatons (2016 est.)<br>
-_methane emissions_: 30.28 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 644.231 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 275.411 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 248.599 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 120.222 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+25 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 145.7 kt (2022-2024 est.)<br>
+_agriculture_: 500 kt (2019-2021 est.)<br>
+_waste_: 478.6 kt (2019-2021 est.)<br>
+_other_: 27 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 18,218,975 tons (2014 est.)<br>
-_municipal solid waste recycled annually_: 10,567,006 tons (2014 est.)<br>
-_percent of municipal solid waste recycled_: 58% (2014 est.)<br>
+_municipal solid waste generated annually_: 20.453 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 67.1% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 6.672 billion cubic meters (2020 est.)<br>
-_industrial_: 4.45 billion cubic meters (2020 est.)<br>
-_agricultural_: 15.96 billion cubic meters (2020 est.)<br>
+_municipal_: 6.672 billion cubic meters (2022 est.)<br>
+_industrial_: 4.45 billion cubic meters (2022 est.)<br>
+_agricultural_: 15.96 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-69.7 billion cubic meters (2020 est.)<br>
+69.7 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 7 (2025)<br>
@@ -322,7 +319,7 @@ _election/appointment process_: president directly elected by simple-majority po
 _most recent election date_: 3 June 2025 (special snap election in the wake of the impeachment of former President YOON Suk-yeol)<br>
 _election results_: <em>2025: </em>LEE Jae-myung elected president; LEE Jae-myung (DPK) 49.4%, KIM Moon-soo (PPP) 41.2%, LEE Jun-seok (New Reform Party) 8.3%<br><em><br>2022</em>: YOON Suk-yeol elected president; YOON Suk-yeol (PPP) 48.6%, LEE Jae-myung (DPK) 47.8%; other 3.6%<br>
 _expected date of next election_: 2030<br>
-<strong>note 1: </strong>the president is both chief of state and head of government; the prime minister serves as the principal executive assistant to the president, similar to the role of a vice president<br><br><strong>note 2:</strong> President LEE Jae-myung has nominated KIM Min Seok to replace Acting Prime Minister LEE<br>
+<strong>note: </strong>the president is both chief of state and head of government; the prime minister serves as the principal executive assistant to the president, similar to the role of a vice president<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Kuk Hoe)<br>
@@ -370,8 +367,8 @@ ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dia
 **National holiday**<br>
 Liberation Day, 15 August (1945)<br>
 
-**Flag description**<br>
-white with a red-and-blue yin-yang symbol in the center;a black trigram (<em>kwae</em>) from the ancient I Ching (Book of Changes) is in each corner of the white field; the flag is called Taegukki; white is a traditional Korean color and represents peace and purity; the blue represents the negative cosmic forces of the yin, and the red symbolizes the opposite positive forces of the yang; each trigram stands for one of the universal elements, which together express the principle of movement and harmony<br>
+**Flag**<br>
+<strong>description:</strong> white with a red-and-blue yin-yang symbol in the center; a black trigram (<em>kwae</em>) from the ancient I Ching (Book of Changes) is in each corner of the white field<br><br><strong>meaning:</strong> the flag is called Taegukki; white is a traditional Korean color and represents peace and purity; blue stands for the negative cosmic forces of the yin, and red for the opposite positive forces of the yang; each trigram represents one of the universal elements, which together express the principle of movement and harmony<br>
 
 **National symbol(s)**<br>
 taegeuk (yin-yang symbol), Rose of Sharon (<em>Hibiscus syriacus</em>), Siberian tiger<br>
@@ -483,9 +480,9 @@ _highest 10%_: 24.6% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $542.275 billion (2022 est.)<br>
-_expenditures_: $563.156 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $513.21 billion (2023 est.)<br>
+_expenditures_: $532.023 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 52.3% of GDP (2023 est.)<br>
@@ -587,12 +584,6 @@ _exports_: 93.639 million cubic meters (2022 est.)<br>
 _imports_: 60.025 billion cubic meters (2023 est.)<br>
 _proven reserves_: 7.079 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 644.231 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 275.411 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 248.599 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 120.222 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 234.668 million Btu/person (2023 est.)<br>
 
@@ -678,20 +669,20 @@ the South Korean military is responsible for external defense and is primarily f
 ## Space
 
 **Space agency/agencies**<br>
-Korea AeroSpace Administration (KASA; established 2024); Korea Aerospace Research Institute (KARI; established 1989 and previously acted as South Korea's space agency); Korea Advanced Institute of Science and Technology (KAIST); Korean Astronomy and Space Science Institute (KASI; funded by the South Korean Government) (2024)<br>
-<strong>note 1:</strong> the South Korean space program works closely with the Agency for Defense Development (ADD), a national agency for research and development in defense technology established in 1970<br><br><strong>note 2:</strong> in January 2022, the South Korean military announced the formation of a space branch under its Joint Chiefs of Staff to coordinate the development of space and space-enabled capabilities across the Army, Navy and Air Force<br>
+Korea AeroSpace Administration (KASA; established 2024); Korea Aerospace Research Institute (KARI; established 1989 and previously acted as South Korea's space agency) (2025)<br>
 
 **Space launch site(s)**<br>
-Naro Space Center (South Jeolla province) (2024)<br>
+Naro Space Center (South Jeolla province) (2025)<br>
 
 **Space program overview**<br>
-has a growing and ambitious space program focused on developing satellites, satellite/space launch vehicles (SLVs), and interplanetary probes; has a national space strategy; manufacturers and operates satellites, including those with communications, remote sensing (RS), scientific, and multipurpose capabilities; manufactures and launches SLVs; developing interplanetary space vehicles, including orbital probes and landers; participates in international space programs and has relations with an array of foreign space agencies and industries, including those of Australia, the European Space Agency (ESA) and its member states (particularly France, Germany, Italy, Spain, UK), India, Israel, Japan, Peru, Russia, UAE, and especially the US; has a robust and growing commercial space industry that works closely with government space program in the development of satellites and space launch capabilities; the South Korean Government has said it aims to capture 10% of the global space market by 2045 (2024)<br>
+has an ambitious and growing space program focused on developing satellites, satellite/space launch vehicles (SLVs), and interplanetary probes; has a national space strategy; manufacturers and operates satellites, including those with communications, remote sensing (RS), scientific, and multipurpose capabilities; manufactures and launches SLVs; developing interplanetary space vehicles, including orbital probes and landers; participates in international space programs and has relations with an array of foreign space agencies and industries, including those of Australia, the European Space Agency (ESA) and its member states (particularly France, Germany, Italy, Spain, UK), India, Indonesia, Israel, Japan, Peru, Russia, UAE, and especially the US; has a robust and growing commercial space industry involved in the development of satellites and space launch capabilities (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 202 (2022)<br>
+_refugees_: 40,084 (2024 est.)<br>
+_stateless persons_: 248 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major precursor-chemical producer (2025)<br>

@@ -160,16 +160,9 @@ _female_: 82.4 years<br>
 **Gross reproduction rate**<br>
 0.94 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-37.5% (2012)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 99.6% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0.4% of population (2020 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 2.9% of GDP (2021)<br>
@@ -182,12 +175,8 @@ _Health expenditure (as % of national budget)_: 7.4% of national budget (2022 es
 1.1 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: total_: total: 99.9% of population (2022 est.)<br>
+_unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 35.1% (2016)<br>
@@ -240,23 +229,32 @@ _other_: 93.6% (2022 est.)<br>
 _urban population_: 99.4% of total population (2023)<br>
 _rate of urbanization_: 1.66% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 59.04 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 103.26 megatons (2016 est.)<br>
-_methane emissions_: 8.34 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 127.783 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 10,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 27.781 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 99.991 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+59 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 1,040.8 kt (2022-2024 est.)<br>
+_agriculture_: 9.5 kt (2019-2021 est.)<br>
+_waste_: 64.7 kt (2019-2021 est.)<br>
+_other_: 5.5 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1,000,990 tons (2012 est.)<br>
-_municipal solid waste recycled annually_: 30,030 tons (2014 est.)<br>
-_percent of municipal solid waste recycled_: 3% (2014 est.)<br>
+_municipal solid waste generated annually_: 1.001 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 6% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 530 million cubic meters (2020 est.)<br>
-_industrial_: 400 million cubic meters (2020 est.)<br>
-_agricultural_: 320 million cubic meters (2020 est.)<br>
+_municipal_: 582.862 million cubic meters (2022)<br>
+_industrial_: 40.18 million cubic meters (2022)<br>
+_agricultural_: 311.156 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-60 million cubic meters (2020 est.)<br>
+58 million cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -333,7 +331,7 @@ _email address and website_: <br>info.dc@mofa.gov.qa<br><br>https://washington.e
 _consulate(s) general_: Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Timmy DAVIS (since 5 September 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Stefanie ALTMAN-WINANS (since June 2025)<br>
 _embassy_: 22 February Street, Al Luqta District, P.O. Box 2399, Doha<br>
 _mailing address_: 6130 Doha Place, Washington DC&nbsp; 20521-6130<br>
 _telephone_: [974] 4496-6000<br>
@@ -349,9 +347,8 @@ ABEDA, AFESD, AMF, CAEU, CD, CICA (observer), EITI (implementing country), FAO, 
 **National holiday**<br>
 National Day, 18 December (1878), anniversary of Al Thani family accession to the throne; Independence Day, 3 September (1971)<br>
 
-**Flag description**<br>
-maroon with a broad white serrated band on the hoist side; maroon stands for the blood shed in Qatari wars, and white for peace; the nine-pointed serrated edge is a reference to Qatar's status as the ninth member of the "reconciled emirates" after the Qatari-British treaty of 1916<br>
-<strong>note:</strong> the other eight emirates are Bahrain and the seven that are part of the UAE<br>
+**Flag**<br>
+<strong>description:</strong> maroon with a broad, serrated white band on the left side<br><br><strong>meaning:</strong> maroon stands for the blood shed in Qatari wars, and white for peace; the nine-pointed serrated edge is a reference to Qatar's status as the ninth member of the "reconciled emirates" after the Qatari-British treaty of 1916 -- the other eight members are Bahrain and the seven that make up the UAE<br>
 
 **National symbol(s)**<br>
 a white serrated band with nine white points on top of a maroon field<br>
@@ -360,9 +357,9 @@ a white serrated band with nine white points on top of a maroon field<br>
 maroon, white<br>
 
 **National anthem(s)**<br>
-_title_: "Al-Salam Al-Amiri" (The Amiri Salute)<br>
+_title_: "Al-Salam Al-Amiri" (Peace be to the Emir)<br>
 _lyrics/music_: Sheikh MUBARAK bin Saif al-Thani/Abdul Aziz Nasser OBAIDAN<br>
-_history_: adopted 1996; anthem first performed that year at a meeting of the Gulf Cooperative Council<br>
+_history_: adopted 1996&nbsp;<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -454,7 +451,7 @@ _on alcohol and tobacco_: 0.3% of household expenditures (2023 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6% (2017 est.)<br>
 _highest 10%_: 25.8% (2017 est.)<br>
-% share of income accruing to lowest and highest 10% of population<br>
+<strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.7% of GDP (2024 est.)<br>
@@ -465,6 +462,9 @@ _highest 10%_: 25.8% (2017 est.)<br>
 **Budget**<br>
 _revenues_: $65.922 billion (2019 est.)<br>
 _expenditures_: $57.258 billion (2019 est.)<br>
+
+**Public debt**<br>
+46.7% of GDP (2016 est.)<br>
 
 **Current account balance**<br>
 $38.117 billion (2024 est.)<br>
@@ -542,12 +542,6 @@ _production_: 171.805 billion cubic meters (2023 est.)<br>
 _consumption_: 48.034 billion cubic meters (2023 est.)<br>
 _exports_: 124.747 billion cubic meters (2023 est.)<br>
 _proven reserves_: 23.861 trillion cubic meters (2021 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 127.783 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 10,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 27.781 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 99.991 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 814.308 million Btu/person (2023 est.)<br>
@@ -629,5 +623,6 @@ Qatar's military is responsible for territorial defense and maritime security; t
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 1,200 (2022)<br>
+_refugees_: 349 (2024 est.)<br>
+_stateless persons_: 1,200 (2024 est.)<br>
 

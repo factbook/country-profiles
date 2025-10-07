@@ -168,16 +168,13 @@ _female_: 59.6 years<br>
 **Gross reproduction rate**<br>
 2.29 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-27.1% (2015)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 93.4% of population<br>
-_improved: rural_: rural: 61.5% of population<br>
-_improved: total_: total: 73.3% of population<br>
-_unimproved: urban_: urban: 6.6% of population<br>
-_unimproved: rural_: rural: 38.5% of population<br>
-_unimproved: total_: total: 26.7% of population (2020 est.)<br>
+_improved: urban_: urban: 87.3% of population (2022 est.)<br>
+_improved: rural_: rural: 48.3% of population (2022 est.)<br>
+_improved: total_: total: 63.2% of population (2022 est.)<br>
+_unimproved: urban_: urban: 12.7% of population (2022 est.)<br>
+_unimproved: rural_: rural: 51.7% of population (2022 est.)<br>
+_unimproved: total_: total: 36.8% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 9.1% of GDP (2021)<br>
@@ -190,12 +187,12 @@ _Health expenditure (as % of national budget)_: 8% of national budget (2022 est.
 0.7 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 71.9% of population (2015 est.)<br>
-_improved: rural_: rural: 24.7% of population<br>
-_improved: total_: total: 42.2% of population<br>
-_unimproved: urban_: urban: 28.1% of population<br>
-_unimproved: rural_: rural: 75.3% of population<br>
-_unimproved: total_: total: 57.8% of population (2020 est.)<br>
+_improved: urban_: urban: 71.8% of population (2022 est.)<br>
+_improved: rural_: rural: 24.3% of population (2022 est.)<br>
+_improved: total_: total: 42.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 28.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 75.7% of population (2022 est.)<br>
+_unimproved: total_: total: 57.6% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 7.2% (2016)<br>
@@ -261,23 +258,32 @@ _other_: 1.2% (2022 est.)<br>
 _urban population_: 38.8% of total population (2023)<br>
 _rate of urbanization_: 4.24% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 16.45 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 7.94 megatons (2016 est.)<br>
-_methane emissions_: 16.26 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 9.549 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: -68,287 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 6.244 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 3.373 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+17.5 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 320.1 kt (2022-2024 est.)<br>
+_agriculture_: 169.5 kt (2019-2021 est.)<br>
+_waste_: 117.5 kt (2019-2021 est.)<br>
+_other_: 101.2 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2.5 million tons (2014 est.)<br>
-_municipal solid waste recycled annually_: 25,000 tons (2014 est.)<br>
-_percent of municipal solid waste recycled_: 1% (2014 est.)<br>
+_municipal solid waste generated annually_: 2.5 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 5.2% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 370 million cubic meters (2020 est.)<br>
-_industrial_: 30 million cubic meters (2020 est.)<br>
-_agricultural_: 1.08 billion cubic meters (2020 est.)<br>
+_municipal_: 372 million cubic meters (2022 est.)<br>
+_industrial_: 25 million cubic meters (2022 est.)<br>
+_agricultural_: 1.076 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-217.1 billion cubic meters (2020 est.)<br>
+217.1 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -356,7 +362,7 @@ _FAX_: [1] (202) 835-0245<br>
 _email address and website_: <br>washington.dc@embamoc.gov.mz<br><br>https://usa.embamoc.gov.mz/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Peter Hendrick VROOMAN (since 3 March 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Abigail L. DRESSEL (since 11 August 2025)<br>
 _embassy_: Avenida Marginal 5467, Maputo<br>
 _mailing address_: 2330 Maputo Place, Washington DC&nbsp; 20521-2330<br>
 _telephone_: [258] (84) 095-8000<br>
@@ -371,8 +377,8 @@ ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICA
 **National holiday**<br>
 Independence Day, 25 June (1975)<br>
 
-**Flag description**<br>
-three equal horizontal bands of green (top), black, and yellow, with a red isosceles triangle based on the hoist side; the black band is edged in white; centered in the triangle is a yellow five-pointed star with a crossed rifle and hoe in black superimposed on an open white book; green stands for the riches of the land, white for peace, black for the African continent, yellow for the country's minerals, and red for the fight for independence; the rifle symbolizes defense and vigilance, the hoe refers to the country's agriculture, the open book stresses the importance of education, and the star represents Marxism and internationalism<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of green (top), black, and yellow, with a red isosceles triangle based on the left side; the black band is edged in white; centered in the triangle is a five-pointed yellow star with a crossed black-and-white rifle and hoe, on top of an open white book<br><br><strong>meaning:</strong> green stands for the riches of the land, white for peace, black for the African continent, yellow for the country's minerals, and red for the fight for independence; the rifle stands for defense and vigilance, the hoe for agriculture, the open book for the importance of education, and the star for Marxism and internationalism<br>
 <strong>note:</strong> one of two national flags featuring a firearm; the other is Guatemala<br>
 
 **National symbol(s)**<br>
@@ -382,9 +388,9 @@ rifle, hoe, and book<br>
 green, black, yellow, white, red<br>
 
 **National anthem(s)**<br>
-_title_: "Patria Amada" (Lovely Fatherland)<br>
-_lyrics/music_: Salomao J. MANHICA/unknown<br>
-_history_: adopted 2002<br>
+_title_: &ldquo;P&aacute;tria Amada&rdquo; (Lovely Fatherland)<br>
+_lyrics/music_: Salom&atilde;o J. MANHICA/unkown<br>
+_history_: adopted 2002; the new anthem reflects the new multi-party political system<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -485,8 +491,8 @@ _highest 10%_: 41.1% (2019 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $5.388 billion (2022 est.)<br>
-_expenditures_: $4.91 billion (2022 est.)<br>
+_revenues_: $6.243 billion (2024 est.)<br>
+_expenditures_: $7.223 billion (2024 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
@@ -585,12 +591,6 @@ _consumption_: 1.625 billion cubic meters (2023 est.)<br>
 _exports_: 7.09 billion cubic meters (2023 est.)<br>
 _proven reserves_: 2.832 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 9.549 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: -68,287 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 6.244 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 3.373 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 5.789 million Btu/person (2023 est.)<br>
 
@@ -676,6 +676,6 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,655 (Burundi) (refugees and asylum seekers) (2023); 9,340 (Democratic Republic of Congo) (refugees and asylum seekers) (2024)<br>
-_IDPs_: 850,599 (north Mozambique, violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2023)<br>
+_refugees_: 24,250 (2024 est.)<br>
+_IDPs_: 718,154 (2024 est.)<br>
 

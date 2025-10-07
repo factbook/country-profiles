@@ -83,7 +83,7 @@ urban clusters are spread throughout the country, particularly in the northeast 
 periodic droughts in south; Congo River floods (seasonal); active volcanoes in the east along the Great Rift Valley <br><br><strong>volcanism:</strong> the active volcano Nyiragongo (3,470 m) poses a major threat to the city of Goma, home to a quarter of a million people; it produces unusually fast-moving lava, known to travel up to 100 km/hr; Nyiragongo has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; its neighbor Nyamuragira is Africa's most active volcano; Visoke is the only other historically active volcano<br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> second-largest country in Africa (after Algeria) and largest country in sub-Saharan Africa; straddles the equator; dense tropical rain forest in central river basin and eastern highlands; the narrow strip of land that controls the lower Congo River is the DRC's only outlet to the South Atlantic Ocean</p> <p><strong>note 2:</strong> the Congo River, most of which flows through the DRC, has never been accurately measured along much of its length because of its speed, cataracts, rapids, and turbulence; nonetheless, it is conceded to be the deepest river in the world, with estimates of the point of greatest depth varying between 220 and 250 meters</p><br>
+<strong>note 1:</strong> second-largest country in Africa (after Algeria) and largest country in sub-Saharan Africa; straddles the equator; dense tropical rainforest in central river basin and eastern highlands; the narrow strip of land that controls the lower Congo River is the DRC's only outlet to the South Atlantic Ocean <br><br><strong>note 2:</strong> the Congo River, most of which flows through the DRC, has never been accurately measured along much of its length because of its speed, cataracts, rapids, and turbulence; nonetheless, it is conceded to be the deepest river in the world, with estimates of the point of greatest depth varying between 220 and 250 meters<br>
 
 ## People and Society
 
@@ -174,16 +174,13 @@ _female_: 64.6 years<br>
 **Gross reproduction rate**<br>
 2.7 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-28.1% (2017/18)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 88.8% of population<br>
-_improved: rural_: rural: 34.7% of population<br>
-_improved: total_: total: 59.4% of population<br>
-_unimproved: urban_: urban: 11.2% of population<br>
-_unimproved: rural_: rural: 65.3% of population<br>
-_unimproved: total_: total: 40.6% of population (2020 est.)<br>
+_improved: urban_: urban: 59.3% of population (2022 est.)<br>
+_improved: rural_: rural: 13.8% of population (2022 est.)<br>
+_improved: total_: total: 35.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 40.7% of population (2022 est.)<br>
+_unimproved: rural_: rural: 86.2% of population (2022 est.)<br>
+_unimproved: total_: total: 64.9% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 3.8% of GDP (2021)<br>
@@ -193,12 +190,12 @@ _Health expenditure (as % of national budget)_: 4% of national budget (2022 est.
 0.21 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 53.4% of population<br>
-_improved: rural_: rural: 20.5% of population<br>
-_improved: total_: total: 35.5% of population<br>
-_unimproved: urban_: urban: 46.6% of population<br>
-_unimproved: rural_: rural: 79.5% of population<br>
-_unimproved: total_: total: 64.5% of population (2020 est.)<br>
+_improved: urban_: urban: 48.8% of population (2022 est.)<br>
+_improved: rural_: rural: 20.5% of population (2022 est.)<br>
+_improved: total_: total: 33.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 51.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 79.5% of population (2022 est.)<br>
+_unimproved: total_: total: 66.3% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 6.7% (2016)<br>
@@ -259,23 +256,31 @@ _other_: 29.8% (2022 est.)<br>
 _urban population_: 47.4% of total population (2023)<br>
 _rate of urbanization_: 4.33% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 31.58 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 2.02 megatons (2016 est.)<br>
-_methane emissions_: 61.24 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 5.883 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 731,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 5.152 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+33.7 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 780.6 kt (2022-2024 est.)<br>
+_agriculture_: 567.3 kt (2019-2021 est.)<br>
+_waste_: 499.2 kt (2019-2021 est.)<br>
+_other_: 214.3 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 14,385,226 tons (2016 est.)<br>
-_municipal solid waste recycled annually_: 704,876 tons (2005 est.)<br>
-_percent of municipal solid waste recycled_: 4.9% (2005 est.)<br>
+_municipal solid waste generated annually_: 14.385 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 6.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 460 million cubic meters (2020 est.)<br>
-_industrial_: 150 million cubic meters (2020 est.)<br>
-_agricultural_: 70 million cubic meters (2020 est.)<br>
+_municipal_: 464.9 million cubic meters (2022 est.)<br>
+_industrial_: 146.8 million cubic meters (2022 est.)<br>
+_agricultural_: 71.9 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-1.29 trillion cubic meters (2020 est.)<br>
+1.283 trillion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -386,8 +391,8 @@ ACP, AfDB, AU, CEMAC, CEPGL, COMESA, EAC, EITI (compliant country), FAO, G-24, G
 **National holiday**<br>
 Independence Day, 30 June (1960)<br>
 
-**Flag description**<br>
-sky-blue field divided diagonally from the lower hoist corner to upper fly corner by a red stripe bordered by two narrow yellow stripes; a yellow five-pointed star appears in the upper hoist corner; blue stands for peace and hope, red for the blood of the country's martyrs, and yellow for the country's wealth and prosperity; the star symbolizes unity and the brilliant future for the country<br>
+**Flag**<br>
+<strong>description:</strong> sky-blue field divided diagonally from the lower-left corner to the upper-right corner by a red stripe bordered with two narrow yellow stripes; a five-pointed yellow star is in the upper-left corner<br><br><strong>meaning:</strong> blue stands for peace and hope, red for the blood of the country's martyrs, and yellow for the country's wealth and prosperity; the star symbolizes unity and a brilliant future for the country<br>
 
 **National symbol(s)**<br>
 leopard<br>
@@ -490,7 +495,7 @@ _female_: 6.6% (2024 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1% (2020 est.)<br>
 _highest 10%_: 35.7% (2020 est.)<br>
-% share of income accruing to lowest and highest 10% of population<br>
+<strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 4.9% of GDP (2023 est.)<br>
@@ -499,13 +504,13 @@ _highest 10%_: 35.7% (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $7.524 billion (2021 est.)<br>
-_expenditures_: $5.109 billion (2021 est.)<br>
+_revenues_: $11.568 billion (2022 est.)<br>
+_expenditures_: $13.026 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 16% of GDP (2022 est.)<br>
-<strong data-olk-copy-source="MessageBody">note:</strong> central government debt as a % of GDP<br>
+<strong>note:</strong> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 11.4% (of GDP) (2022 est.)<br>
@@ -597,11 +602,6 @@ _production_: 380,000 cubic meters (2019 est.)<br>
 _consumption_: 380,000 cubic meters (2019 est.)<br>
 _proven reserves_: 991.09 million cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 5.883 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 731,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 5.152 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 1.305 million Btu/person (2023 est.)<br>
 
@@ -661,7 +661,7 @@ _key ports_: Banana, Boma, Matadi<br>
 
 **Military and security forces**<br>
 Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Republique Democratique du Congo, FARDC): Land Forces (Forces Terrestres), National Navy (La Marine Nationale), Congolese Air Force (Force Aerienne Congolaise, FAC); Republican Guard (Garde Républicaine, GR)<br><br>Ministry of Interior: Congolese National Police (Police Nationale Congolaise, PNC) (2025)<br>
-<strong>note: </strong>the Republican Guard is overseen by the office of the presidency rather than the FARDC; it focuses on protecting the president and government institutions and enforcing internal security<br>
+<strong>note: </strong>the Republican Guard is overseen by the office of the presidency rather than the FARDC; it focuses on protecting the president and government institutions and enforcing internal security<br><br><strong>note 2:</strong> community-based self-defense groups, known as Wazalendo militias, are also active in areas contested by illegal armed groups, such as M23<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2024 est.)<br>
@@ -692,6 +692,9 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 208,328 (Rwanda), 53,297 (South Sudan) (refugees and asylum seekers), 49,836 (Burundi) (2023); 212,211 (Central African Republic) (2024)<br>
-_IDPs_: 6.38 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2023)<br>
+_refugees_: 518,445 (2024 est.)<br>
+_IDPs_: 6,895,648 (2024 est.)<br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List — the Democratic Republic of the Congo did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/democratic-republic-of-the-congo/<br>
 

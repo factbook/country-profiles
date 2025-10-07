@@ -42,8 +42,8 @@ _ten coldest places on Earth (lowest average monthly temperature)_: Verkhoyansk,
 _ten hottest places on Earth (highest average monthly temperature)_: Death Valley, US (California) 39°C (101°F) July<br>Iranshahr, Iran 38.3°C (100.9°F) June <br>Ouallene, Algeria 38°C (100.4°F) July<br>Kuwait City, Kuwait 37.7°C (100°F) July<br>Medina, Saudi Arabia 36°C (97°F) July<br>Buckeye, US (Arizona) 34°C (93°F) July<br>Jazan, Saudi Arabia 33°C (91°F) June<br>Al Kufrah, Libya 31°C (87°F) July<br>Alice Springs, Australia 29°C (84°F) January<br>Tamanrasset, Algeria 29°C (84°F) June<br>
 
 **Terrain**<br>
-_Terrain_: a compilation of terrain extremes can be found in the World elevation entry; the world's ocean floors also display wide variation, as explained in the bathymetry and major ocean currents entries under each of the five ocean entries (Arctic, Atlantic, Indian, Pacific, and Southern)<br>
-_Top ten world caves_: compiled from Geography - note(s) under country entries<br><br><em>largest cave:</em> Son Doong in Phong Nha-Ke Bang National Park, Vietnam, is the world's largest cave (greatest cross sectional area) and is the largest known cave passage by volume; it currently measures a total of 38.5 million cu m (about 1.35 billion cu ft); it connects to Thung cave, but not yet officially -- when recognized, it will add an additional 1.6 million cu m in volume<strong><br><br></strong><em>largest ice cave:</em> the Eisriesenwelt (Ice Giants World) inside the Hochkogel mountain near Werfen, Austria, is the world's largest and longest ice cave system at 42 km (26 mi) <br><strong><br></strong><em>longest cave:</em> Mammoth Cave in west-central Kentucky is the world's longest known cave system with more than 650 km (405 mi) of surveyed passageways<br><br><em>longest salt cave:</em> the Malham Cave in Mount Sodom in Israel is the world's longest salt cave at 10 km (6 mi); its survey is not complete, so its recorded length will eventually increase<br><br><em>longest underwater cave:</em> the Sac Actun cave system in Mexico is the longest underwater cave in the world at 348 km (216 mi), and the second-longest cave worldwide<br><br><em>longest lava tube cave:</em> Kazumura Cave on the island of Hawaii is the world's longest and deepest lava tube cave; it has been surveyed at 66 km (41 mi) long and 1,102 m (3,614 ft) deep <br><br><em>deepest cave:</em> Veryovkina Cave in the country of Georgia is the world's deepest cave at 2,212 m (7,257 ft)<br><br><em>deepest underwater cave:</em> the Hranice Abyss in Czechia is the world's deepest surveyed underwater cave at 404 m (1,325 ft); its survey is not complete, and it could be 800-1,200 m deep<br><br><em>largest cave chamber:</em> the Miao Room in the Gebihe cave system in China's Ziyun Getu He Chuandong National Park has about 10.78 million cu m (380.7 million cu ft) of volume<br><br><em>largest bat cave:</em> Bracken Cave outside San Antonio, Texas, is the world's largest bat cave; an estimated 20 million Mexican free-tailed bats roost in the cave from March to October, making it the world's largest known concentration of mammals<br><br><em>bonus "cave" - the world's largest sinkhole:</em> the Xiaoxhai Tiankeng sinkhole in Chongqing Municipality, China is 660 m deep, with a volume of 130 million cu m<br>
+_terrain_: a compilation of terrain extremes can be found in the World elevation entry; the world's ocean floors also display wide variation, as explained in the bathymetry and major ocean currents entries under each of the five ocean entries (Arctic, Atlantic, Indian, Pacific, and Southern)<br>
+_top ten world caves_: compiled from Geography - note(s) under country entries<br><br><em>largest cave:</em> Son Doong in Phong Nha-Ke Bang National Park, Vietnam, is the world's largest cave (greatest cross sectional area) and is the largest known cave passage by volume; it currently measures a total of 38.5 million cu m (about 1.35 billion cu ft); it connects to Thung cave, but not yet officially -- when recognized, it will add an additional 1.6 million cu m in volume<strong><br><br></strong><em>largest ice cave:</em> the Eisriesenwelt (Ice Giants World) inside the Hochkogel mountain near Werfen, Austria, is the world's largest and longest ice cave system at 42 km (26 mi) <br><strong><br></strong><em>longest cave:</em> Mammoth Cave in west-central Kentucky is the world's longest known cave system with more than 650 km (405 mi) of surveyed passageways<br><br><em>longest salt cave:</em> the Malham Cave in Mount Sodom in Israel is the world's longest salt cave at 10 km (6 mi); its survey is not complete, so its recorded length will eventually increase<br><br><em>longest underwater cave:</em> the Sac Actun cave system in Mexico is the longest underwater cave in the world at 348 km (216 mi), and the second-longest cave worldwide<br><br><em>longest lava tube cave:</em> Kazumura Cave on the island of Hawaii is the world's longest and deepest lava tube cave; it has been surveyed at 66 km (41 mi) long and 1,102 m (3,614 ft) deep <br><br><em>deepest cave:</em> Veryovkina Cave in the country of Georgia is the world's deepest cave at 2,212 m (7,257 ft)<br><br><em>deepest underwater cave:</em> the Hranice Abyss in Czechia is the world's deepest surveyed underwater cave at 404 m (1,325 ft); its survey is not complete, and it could be 800-1,200 m deep<br><br><em>largest cave chamber:</em> the Miao Room in the Gebihe cave system in China's Ziyun Getu He Chuandong National Park has about 10.78 million cu m (380.7 million cu ft) of volume<br><br><em>largest bat cave:</em> Bracken Cave outside San Antonio, Texas, is the world's largest bat cave; an estimated 20 million Mexican free-tailed bats roost in the cave from March to October, making it the world's largest known concentration of mammals<br><br><em>bonus "cave" - the world's largest sinkhole:</em> the Xiaoxhai Tiankeng sinkhole in Chongqing Municipality, China is 660 m deep, with a volume of 130 million cu m<br>
 
 **Elevation**<br>
 _highest point_: Mount Everest 8,849 m<br>
@@ -95,7 +95,7 @@ _male_: 4,046,854,454<br>
 _female_: 4,010,381,789<br>
 
 **Languages**<br>
-<p><strong>most-spoken language: </strong>English 18.8%, Mandarin Chinese 13.8%, Hindi 7.5%, Spanish 6.9%, French 3.4%, Arabic 3.4%, Bengali 3.4%, Russian 3.2%, Portuguese 3.2%, Urdu 2.9% (2022 est.) <br><br><strong>most-spoken first language:</strong> Mandarin Chinese 12.3%, Spanish 6%, English 5.1%, Arabic 5.1%, Hindi 3.5%, Bengali 3.3%, Portuguese 3%, Russian 2.1%, Japanese 1.7%, Punjabi, Western 1.3%, Javanese 1.1% (2018 est.)</p> <p><strong>note 1:</strong> the six UN languages - Arabic, Chinese (Mandarin), English, French, Russian, and Spanish (Castilian) - are the mother tongue or second language of about 49.6% of the world's population (2022), and are the official languages in more than half the states in the world; some 400 languages have more than a million first-language speakers (2018)</p> <p><strong>note 2:</strong> all told, there are estimated to be 7,168 living languages spoken in the world (2023); approximately 80% of these languages are spoken by less than 100,000 people; about 150 languages are spoken by fewer than 10 people; communities that are isolated from each other in mountainous regions often develop multiple languages; Papua New Guinea, for example, boasts about 840 separate languages (2018)</p> <p><strong>note 3:</strong> approximately 2,300 languages are spoken in Asia, 2,140, in Africa, 1,310 in the Pacific, 1,060 in the Americas, and 290 in Europe (2020)</p><br>
+<strong>most-spoken language: </strong>English 18.8%, Mandarin Chinese 13.8%, Hindi 7.5%, Spanish 6.9%, French 3.4%, Arabic 3.4%, Bengali 3.4%, Russian 3.2%, Portuguese 3.2%, Urdu 2.9% (2022 est.) <br><br><strong>most-spoken first language:</strong> Mandarin Chinese 12.3%, Spanish 6%, English 5.1%, Arabic 5.1%, Hindi 3.5%, Bengali 3.3%, Portuguese 3%, Russian 2.1%, Japanese 1.7%, Punjabi, Western 1.3%, Javanese 1.1% (2018 est.) <br><br><strong>note 1:</strong> the six UN languages -- Arabic, Chinese (Mandarin), English, French, Russian, and Spanish (Castilian) -- are the mother tongue or second language of about 49.6% of the world's population (2022), and are the official languages in more than half the states in the world; some 400 languages have more than a million first-language speakers (2018) <br><br><strong>note 2:</strong> all told, there are estimated to be 7,168 living languages spoken in the world (2023); approximately 80% of these languages are spoken by fewer than 100,000 people; about 150 languages are spoken by fewer than 10 people; communities that are isolated in mountainous regions often develop multiple languages -- Papua New Guinea, for example, boasts about 840 separate languages (2018) <br><br><strong>note 3:</strong> approximately 2,300 languages are spoken in Asia; 2,140, in Africa; 1,310 in the Pacific; 1,060 in the Americas; and 290 in Europe (2020)<br>
 
 **Religions**<br>
 Christian 31.1%, Muslim 24.9%, Hindu 15.2%, Buddhist 6.6%, folk religions 5.6%, Jewish &lt;1%, other &lt;1%, unaffiliated 15.6% (2020 est.)<br>
@@ -161,23 +161,23 @@ _female_: 72.6 years<br>
 2.42 children born/woman (2020 est.)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 96.5% of population<br>
-_improved: rural_: rural: 84.7% of population<br>
-_improved: total_: total: 91.1% of population<br>
-_unimproved: urban_: urban: 3.5% of population<br>
-_unimproved: rural_: rural: 15.3% of population<br>
-_unimproved: total_: total: 8.9% of population (2015 est.)<br>
+_improved: urban_: urban: 97.9% of population (2022 est.)<br>
+_improved: rural_: rural: 84% of population (2022 est.)<br>
+_improved: total_: total: 91.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 2.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 16% of population (2022 est.)<br>
+_unimproved: total_: total: 8.2% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 10.4% of GDP (2021)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 82.3% of population<br>
-_improved: rural_: rural: 50.5% of population<br>
-_improved: total_: total: 67.7% of population<br>
-_unimproved: urban_: urban: 17.7% of population<br>
-_unimproved: rural_: rural: 49.5% of population<br>
-_unimproved: total_: total: 32.3% of population (2015 est.)<br>
+_improved: urban_: urban: 88.9% of population (2022 est.)<br>
+_improved: rural_: rural: 70.1% of population (2022 est.)<br>
+_improved: total_: total: 80.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 11.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 29.9% of population (2022 est.)<br>
+_unimproved: total_: total: 19.2% of population (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 12.3% (2022)<br>
@@ -224,6 +224,12 @@ _other_: 31.4% (2022 est.)<br>
 _urban population_: 57.5% of total population (2023)<br>
 _rate of urbanization_: 1.73% annual rate of change (2020-25 est.)<br>
 
+**Carbon dioxide emissions**<br>
+_total emissions_: 37.079 billion metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 16.652 billion metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 12.463 billion metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 7.964 billion metric tonnes of CO2 (2023 est.)<br>
+
 **Total renewable water resources**<br>
 54 trillion cubic meters (2011 est.)<br>
 
@@ -252,9 +258,9 @@ _chief of state_: there are 27 countries with royal families in the world: most 
 **Legislative branch**<br>
 230 political entities have legislative bodies; of these, 144 are unicameral (a single &ldquo;house&rdquo;) and 86 are bicameral (both upper and lower houses); 33 territories, possessions, or other special administrative units have their own governing bodies<br>
 
-**Flag description**<br>
-a "World" flag does not exist, but the United Nations (UN) flag -- adopted on 7 December 1946 -- has sometimes been used to represent the entire planet; the flag displays the official emblem of the UN in white on a blue background; the emblem design shows a world map in an azimuthal equidistant projection centered on the North Pole, with the image flanked by two olive branches; blue was chosen to represent peace, in contrast to the red usually associated with war; the map projection includes all the continents except Antarctica<br>
-<strong>note 1:</strong> the flags of 12 nations -- Austria, Botswana, Georgia, Jamaica, Japan, Laos, Latvia, Micronesia, Nigeria, North Macedonia, Switzerland, and Thailand -- have no top or bottom and may be flown with either long edge on top <br><br><strong>note 2:</strong> the most common colors found on national flags are as follows: red (including deep red; ~75%), white (~70%), and blue (including light blue; ~50%); these three colors are so prevalent that there are only two countries, Jamaica and Sri Lanka, that do not include one of them; the next three most popular colors are yellow/gold and green (both ~45%) and black (~30%)<br><br><strong>note 3:</strong> flags composed of three colors are by far the most common type and, of those, the red-white-blue combination is the most widespread<br>
+**Flag**<br>
+a "World" flag does not exist, but the United Nations (UN) flag -- adopted on 7 December 1946 -- has sometimes been used to represent the entire planet; the flag displays the official UN emblem in white on a blue background; the emblem design shows a world map in an azimuthal equidistant projection centered on the North Pole, with the image flanked by two olive branches; blue was chosen to represent peace, in contrast to the red usually associated with war; the map projection includes all the continents except Antarctica<br>
+<strong>note 1:</strong> the flags of 12 nations -- Austria, Botswana, Georgia, Jamaica, Japan, Laos, Latvia, Micronesia, Nigeria, North Macedonia, Switzerland, and Thailand -- have no top or bottom and may be flown with either long edge on top <br><br><strong>note 2:</strong> the most common colors found on national flags are as follows: red (~75%), white (~70%), and blue (~50%); these three colors are so prevalent that there are only two countries, Jamaica and Sri Lanka, that do not include one of them; the three next most popular colors are yellow/gold and green (both ~45%) and black (~30%)<br><br><strong>note 3:</strong> flags composed of three colors are by far the most common type and, of those, the red-white-blue combination is the most widespread<br>
 
 **National anthem(s)**<br>
 _title_: almost every country has a national anthem (and Denmark and New Zealand have two); most anthems have lyrics, which are usually in the official language or the most common language of the country; countries with more than one official language sometimes offer several versions<br>
@@ -345,6 +351,9 @@ _female_: 15.3% (2024 est.)<br>
 _revenues_: $21.68 trillion (2017 est.)<br>
 _expenditures_: $23.81 trillion (2017 est.)<br>
 
+**Public debt**<br>
+67.2% of GDP (2016 est.)<br>
+
 **Taxes and other revenues**<br>
 13.8% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
@@ -415,12 +424,6 @@ _exports_: 1.219 trillion cubic meters (2023 est.)<br>
 _imports_: 1.226 trillion cubic meters (2023 est.)<br>
 _proven reserves_: 206.683 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 37.079 billion metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 16.652 billion metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 12.463 billion metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 7.964 billion metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 73.108 million Btu/person (2023 est.)<br>
 
@@ -477,20 +480,8 @@ the US is the world's leading arms exporter (2024)<br>
 **Military deployments**<br>
 as of mid-2025, there were approximately 68,000 personnel deployed on UN peacekeeping missions worldwide (2025)<br>
 
-## Space
-
-**Space agency/agencies**<br>
-more than 70 countries have national space agencies (2024)<br>
-
-**Space launch site(s)**<br>
-more than 30 countries have existing or planned commercial or government space launch sites (2024)<br>
-<strong>note:</strong> there were approximately 220 attempted space launches worldwide in 2023; as of December 2023, over 11,000 satellites were in orbit, of which about 9,000 were still active<br>
-
 ## Transnational Issues
 
-**Refugees and internally displaced persons**<br>
-<p>the UN High Commissioner for Refugees (UNHCR) estimated that as of mid-year 2023 there were 110 million people forcibly displaced worldwide; this includes 62.5 million IDPs, 36.4 million refugees, 6.1 million asylum seekers, 5.3 million others in need of international protection; the UNHCR estimates there are currently more than 4.4 million stateless persons as of year-end 2022 (the true number is estimated to be significantly higher)</p><br>
-
 **Trafficking in persons**<br>
-_tier rating_: <strong><br><br>Tier 2 Watch List:</strong> (32 countries) Algeria, Benin, Burkina Faso, Central African Republic, Chad, Republic of Congo, Curaçao, Dominican Republic, Equatorial Guinea, Fiji, Gabon, Guinea-Bissau, Hong Kong, Kuwait, Kyrgyzstan, Laos, Lebanon, Liberia, Madagascar, Maldives, Mali, Malta, Marshall Islands, Nepal, Niger, Rwanda, Serbia, Solomon Islands, Tajikistan, Uruguay, Vanuatu, Zimbabwe (2024)<br><br><strong>Tier 3:</strong> (21 countries) Afghanistan, Belarus, Brunei, Burma, Cambodia, People's Republic of China, Cuba, Djibouti, Eritrea, Iran, Democratic People's Republic of Korea, Macau, Nicaragua, Papua New Guinea, Russia, Sint Maarten, South Sudan, Sudan, Syria, Turkmenistan, Venezuela (2024)<br>
+_tier rating_: <strong><br><br>Tier 2 Watch List:</strong> (25 countries) Algeria, Barbados, Bolivia, Brazil, Brunei, Burkina Faso, Cabo Verde, Democratic Republic of the Congo, Republic of Congo, Djibouti, Fiji, Hong Kong, Kyrgyzstan, Liberia, Maldives, Nepal, Niger, Rwanda, Saint Lucia, Solomon Islands, South Africa, Tunisia, Turkmenistan, Vanuatu, Zimbabwe (2025)<br><br><strong>Tier 3:</strong> (20 countries) Afghanistan, Belarus, Burma, Cambodia, Chad, People's Republic of China, Cuba, Eritrea, Iran, Democratic People's Republic of Korea, Laos, Macau, Nicaragua, Papua New Guinea, Russia, Sint Maarten, South Sudan, Sudan, Syria, Venezuela (2025)<br>
 

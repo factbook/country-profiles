@@ -145,24 +145,18 @@ _female_: 84.2 years<br>
 **Gross reproduction rate**<br>
 0.83 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: 99.1% of population<br>
-_improved: total_: total: 99.1% of population<br>
+_improved: rural_: rural: 99.3% of population (2022 est.)<br>
+_improved: total_: total: 99.3% of population (2022 est.)<br>
 _unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: 0.9% of population<br>
-_unimproved: total_: total: 0.9% of population (2020)<br>
+_unimproved: rural_: rural: 0.7% of population (2022 est.)<br>
+_unimproved: total_: total: 0.7% of population (2022 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: 92.9% of population<br>
-_improved: total_: total: 92.9% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: 7.1% of population<br>
-_unimproved: total_: total: 7.1% of population (2020 est.)<br>
+_improved: rural_: rural: 94.2% of population (2022 est.)<br>
+_improved: total_: total: 94.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 5.8% of population (2022 est.)<br>
+_unimproved: total_: total: 5.8% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 56% (2023)<br>
@@ -264,11 +258,12 @@ PIF (observer), SPC, UPU<br>
 none (overseas collectivity of France)<br>
 
 **National holiday**<br>
-Bastille Day, 14 July (1789)<br>
+Fête de la Fédération, 14 July (1790)<br>
+<strong>note:</strong> often incorrectly referred to as Bastille Day, the celebration commemorates the storming of the Bastille prison on 14 July 1789 and the establishment of a constitutional monarchy; other names for the holiday are <em>la Fête nationale</em> (National Holiday) and <em>le Quatorze Juillet</em> (14th of July)<br>
 
-**Flag description**<br>
-unofficial local flag has a red field with four white isosceles triangles in the middle, representing the three native kings of the islands and the French administrator; the apexes of the triangles are oriented inward and at right angles to each other; the flag of France, outlined in white on two sides, is in the upper hoist quadrant<br>
-<strong>note:</strong> the design is derived from a red flag with a white cross that French missionaries introduced in the 19th century; the flag of France is used for official occasions<br>
+**Flag**<br>
+<strong>description:</strong> unofficial local flag has a red field with four white isosceles triangles in the middle; the apexes of the triangles are oriented inward and at right angles to each other; a small flag of France, outlined in white on two sides, is in the upper-left corner<br><br><strong>meaning:</strong> the triangles represent the three native kings of the islands and the French administrator<br><br><strong>history:</strong> the design is derived from a red flag with a white cross that French missionaries introduced in the 19th century<br>
+<strong>note:</strong> the flag of France is used for official occasions<br>
 
 **National symbol(s)**<br>
 red saltire (Saint Andrew's Cross) on a white square on a red field<br>

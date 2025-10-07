@@ -166,16 +166,13 @@ _female_: 72.1 years<br>
 **Gross reproduction rate**<br>
 1.58 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-31.1% (2012)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 97.2% of population<br>
-_improved: rural_: rural: 55.3% of population<br>
-_improved: total_: total: 93.1% of population<br>
-_unimproved: urban_: urban: 2.8% of population<br>
-_unimproved: rural_: rural: 44.7% of population<br>
-_unimproved: total_: total: 6.9% of population (2020 est.)<br>
+_improved: urban_: urban: 90.2% of population (2022 est.)<br>
+_improved: rural_: rural: 54.9% of population (2022 est.)<br>
+_improved: total_: total: 86.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 9.8% of population (2022 est.)<br>
+_unimproved: rural_: rural: 45.1% of population (2022 est.)<br>
+_unimproved: total_: total: 13.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 2.7% of GDP (2021)<br>
@@ -185,12 +182,12 @@ _Health expenditure (as % of national budget)_: 9.6% of national budget (2022 es
 0.52 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 81.3% of population<br>
-_improved: rural_: rural: 55.1% of population<br>
-_improved: total_: total: 78.7% of population<br>
-_unimproved: urban_: urban: 18.7% of population<br>
-_unimproved: rural_: rural: 44.9% of population<br>
-_unimproved: total_: total: 21.3% of population (2020 est.)<br>
+_improved: urban_: urban: 81.3% of population (2022 est.)<br>
+_improved: rural_: rural: 55.1% of population (2022 est.)<br>
+_improved: total_: total: 78.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 18.7% of population (2022 est.)<br>
+_unimproved: rural_: rural: 44.9% of population (2022 est.)<br>
+_unimproved: total_: total: 21.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 15% (2016)<br>
@@ -246,21 +243,32 @@ _other_: 0.4% (2022 est.)<br>
 _urban population_: 91% of total population (2023)<br>
 _rate of urbanization_: 2.27% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 26.29 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 5.32 megatons (2016 est.)<br>
-_methane emissions_: 1.13 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 3.144 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 230,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.005 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 908,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+29.6 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 272.4 kt (2022-2024 est.)<br>
+_agriculture_: 4.9 kt (2019-2021 est.)<br>
+_waste_: 18.6 kt (2019-2021 est.)<br>
+_other_: 5.4 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 238,102 tons (1995 est.)<br>
+_municipal solid waste generated annually_: 238,100 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 22.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 80 million cubic meters (2020 est.)<br>
-_industrial_: 10 million cubic meters (2020 est.)<br>
-_agricultural_: 40 million cubic meters (2020 est.)<br>
+_municipal_: 84.7 million cubic meters (2022 est.)<br>
+_industrial_: 14.1 million cubic meters (2022 est.)<br>
+_agricultural_: 40.3 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-166 billion cubic meters (2020 est.)<br>
+166 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -364,8 +372,8 @@ ACP, AfDB, AU (suspended), BDEAC, CEMAC, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, 
 **National holiday**<br>
 Independence Day, 17 August (1960)<br>
 
-**Flag description**<br>
-three equal horizontal bands of green (top), yellow, and blue; green stands for the country's forests and natural resources, gold for the equator and the sun, and blue for the sea<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of green (top), yellow, and blue<br><br><strong>meaning:</strong> green stands for the country's forests and natural resources, gold for the equator and the sun, and blue for the sea<br>
 
 **National symbol(s)**<br>
 black panther<br>
@@ -481,8 +489,11 @@ _highest 10%_: 27.7% (2017 est.)<br>
 
 **Budget**<br>
 _revenues_: $2.939 billion (2021 est.)<br>
-_expenditures_: $2.732 billion (2021 est.)<br>
+_expenditures_: $3.226 billion (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+64.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 9.5% (of GDP) (2021 est.)<br>
@@ -571,12 +582,6 @@ _production_: 463 million cubic meters (2023 est.)<br>
 _consumption_: 463 million cubic meters (2023 est.)<br>
 _proven reserves_: 25.995 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 3.144 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 230,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 2.005 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 908,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 22.101 million Btu/person (2023 est.)<br>
 
@@ -656,14 +661,14 @@ the Gabonese military is a small and lightly armed force that is responsible for
 ## Space
 
 **Space agency/agencies**<br>
-Gabonese Studies and Space Observations Agency (Agence Gabonaise d&rsquo;Etudes et d&rsquo;Observations Spatiales or AGEOS; established 2015) (2024)<br>
+Gabonese Studies and Space Observations Agency (Agence Gabonaise d&rsquo;Etudes et d&rsquo;Observations Spatiales or AGEOS; established 2015) (2025)<br>
 
 **Space program overview**<br>
-has a small space program focused on the acquisition, processing, analysis, and furnishing of data from foreign remote sensing (RS) satellites for environmental management, mapping, natural resources, land use planning, and maritime surveillance, as well as research and innovation; has relationships with Brazil, China, the European Space Agency (ESA) and its member states (particularly France), Kenya, Niger, Rwanda, South Africa, and the US; shares RS data with neighboring countries (2024)<br>
+has a small space program focused on the acquisition, processing, analysis, and furnishing of data from remote sensing (RS) satellites for environmental management, mapping, natural resources, land use planning, and maritime surveillance, as well as research and innovation; member of the African Space Agency; has relationships with Brazil, China, the European Space Agency and its member states (particularly France), and the US, as well as African countries such as Kenya, Niger, Rwanda, and South Africa; shares RS data with neighboring countries (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — Gabon does not fully meet the minimum standards for the elimination of trafficking, but the government has devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards; therefore, Gabon was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3 and remained on Tier 2 Watch List for the third consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/gabon/<br>
+**Refugees and internally displaced persons**<br>
+_refugees_: 261 (2024 est.)<br>
 

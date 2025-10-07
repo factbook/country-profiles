@@ -74,7 +74,7 @@ all primary and secondary regions of high population density lie on the coast; o
 many dormant and some active volcanoes; about 1,500 seismic occurrences (mostly tremors but occasional severe earthquakes) every year; tsunamis; typhoons <br><br><strong>volcanism:</strong> both Unzen (1,500 m) and Sakura-jima (1,117 m), which lies near the densely populated city of Kagoshima, have been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; other notable historically active volcanoes include Asama (Honshu Island's most active volcano), Aso, Bandai, Fuji, Iwo-Jima, Kikai, Kirishima, Komaga-take, Oshima, Suwanosejima, Tokachi, Yake-dake, and Usu; see note 2 under "Geography - note"<br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> strategic location in northeast Asia; composed of four main islands (the "Home Islands") -- Hokkaido, Honshu (the largest, most populous, and site of Tokyo, the capital), Shikoku, and Kyushu  <br><br><strong>note 2:</strong> a 2023 Geospatial Information Authority of Japan survey detected 100,000 islands and islets, but only the 14,125 islands with a circumference of at least 100 m (330 ft) were officially counted; about 260 of the islands are inhabited</p> <p><strong>note 3:</strong> Japan annually records the most earthquakes in the world; it is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p><br>
+<strong>note 1:</strong> strategic location in northeast Asia; composed of four main islands (the "Home Islands") -- Hokkaido, Honshu (the largest, most populous, and site of Tokyo, the capital), Shikoku, and Kyushu  <br><br><strong>note 2:</strong> a 2023 Geospatial Information Authority of Japan survey detected 100,000 islands and islets, but only the 14,125 islands with a circumference of at least 100 m (330 ft) were officially counted; about 260 of the islands are inhabited <br><br><strong>note 3:</strong> Japan annually records the most earthquakes in the world; it is one of the countries along the Ring of Fire, which is a belt bordering the Pacific Ocean that contains about 75% of the world's volcanoes and up to 90% of the world's earthquakes<br>
 
 ## People and Society
 
@@ -166,17 +166,9 @@ _female_: 88.2 years<br>
 **Gross reproduction rate**<br>
 0.68 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-39.8% (2015)<br>
-<strong>note:</strong> percent of women aged 20-49<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 99.1% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
+_improved: total_: total: 99.1% of population (2022 est.)<br>
+_unimproved: total_: total: 0.9% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 10.8% of GDP (2021)<br>
@@ -189,12 +181,8 @@ _Health expenditure (as % of national budget)_: 23.4% of national budget (2022 e
 12.7 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
+_improved: total_: total: 99.9% of population (2022 est.)<br>
+_unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 4.3% (2016)<br>
@@ -247,23 +235,32 @@ _other_: 18.9% (2022 est.)<br>
 _urban population_: 92% of total population (2023)<br>
 _rate of urbanization_: -0.25% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 10.84 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 1,135.89 megatons (2016 est.)<br>
-_methane emissions_: 29.99 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 960.23 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 367.144 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 403.042 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 190.043 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+10.5 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 214.7 kt (2022-2024 est.)<br>
+_agriculture_: 972.8 kt (2019-2021 est.)<br>
+_waste_: 208.2 kt (2019-2021 est.)<br>
+_other_: 22.7 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 43.981 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 2,155,069 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 4.9% (2015 est.)<br>
+_municipal solid waste generated annually_: 42.72 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 11.5% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 14.8 billion cubic meters (2020 est.)<br>
-_industrial_: 10.3 billion cubic meters (2020 est.)<br>
-_agricultural_: 53.3 billion cubic meters (2020 est.)<br>
+_municipal_: 13.5 billion cubic meters (2022 est.)<br>
+_industrial_: 13 billion cubic meters (2022 est.)<br>
+_agricultural_: 53 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-430 billion cubic meters (2020 est.)<br>
+430 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 10<br>
@@ -311,11 +308,11 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: Emperor NARUHITO (since 1 May 2019)<br>
-_head of government_: Prime Minister Shigeru ISHIBA (since 1 October 2024)<br>
+_head of government_: vacant (since 7 September 2025)<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
 _election/appointment process_: the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister<br>
 _election results_: <em><br>2024: </em>Shigeru ISHIBA (LDP) elected prime minister on 27 September 2024; upper house vote - 143 of 242 votes; lower house vote - 291 of 461 votes<br><br><em>2021:</em> Fumio KISHIDA reelected prime minister on 10 November 2021; upper house vote - Fumio KISHIDA (LDP) 141, Yukio EDANO (CDP) 60; lower house vote - Fumio KISHIDA 297, Yukio EDANO 108<br>
-<strong>note:</strong> Shigeru ISHIBA resigned as prime minister on 11 November 2024 after legislative elections but was re-elected in the second round of voting in the lower house<br>
+<strong>note:</strong> Shigeru ISHIBA resigned as prime minister on 7 September 2025; the party vote on the new prime minister is expected in early October 2025<br>
 
 **Legislative branch**<br>
 _legislature name_: National Diet (Kokkai)<br>
@@ -381,8 +378,8 @@ ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dia
 Birthday of Emperor NARUHITO, 23 February (1960)<br>
 <strong>note:</strong> celebrates the birthday of the current emperor<br>
 
-**Flag description**<br>
-white with a large red disk, representing the sun without rays, in the center<br>
+**Flag**<br>
+<strong>description:</strong> white with a large red disk that symbolizes the sun without rays, in the center<br><br><strong>history:</strong> the current flag was adopted in 1854, but a sun flag has been in use in Japan since at least 1184; the sun has long been a national symbol: according to tradition, the sun goddess Amaterasu founded the country in the 7th century B.C.<br>
 
 **National symbol(s)**<br>
 red sun disc, chrysanthemum<br>
@@ -394,7 +391,7 @@ red, white<br>
 the Kikumon is the Japanese emperor's family coat of arms and dates from 1183; the Imperial chrysanthemum emblem (菊の御紋, <em>kikunogomon</em>) is a yellow or orange chrysanthemum with black or red outlines and background; a central disc is surrounded by a front set of 16 petals; a rear set of 16 petals are half-staggered in relation to the front set and are visible at the edges of the flower<br>
 
 **National anthem(s)**<br>
-_title_: "Kimigayo" (The Emperor's Reign)<br>
+_title_: "Kimigayo" (&ldquo;His Majesty&rsquo;s Reign)<br>
 _lyrics/music_: unknown/Hiromori HAYASHI<br>
 _history_: adopted 1999; unofficial national anthem since 1883; oldest anthem lyrics in the world, dating to the 10th century or earlier; some oppose the anthem because of its association with militarism and worship of the emperor<br>
 
@@ -488,7 +485,7 @@ _on alcohol and tobacco_: 2.5% of household expenditures (2023 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.4% (2020 est.)<br>
 _highest 10%_: 23.9% (2020 est.)<br>
-% share of income accruing to lowest and highest 10% of population<br>
+<strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.1% of GDP (2024 est.)<br>
@@ -498,8 +495,8 @@ _highest 10%_: 23.9% (2020 est.)<br>
 
 **Budget**<br>
 _revenues_: $661.986 billion (2022 est.)<br>
-_expenditures_: $892.184 billion (2022 est.)<br>
-<b>note:</b> central government revenues and expenses (excluding grants and social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+_expenditures_: $897.03 billion (2022 est.)<br>
+<b>note:</b> central government revenues and expenditures (excluding grants and social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 215.9% of GDP (2022 est.)<br>
@@ -598,12 +595,6 @@ _exports_: 271.607 million cubic meters (2022 est.)<br>
 _imports_: 85.003 billion cubic meters (2023 est.)<br>
 _proven reserves_: 20.898 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 960.23 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 367.144 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 403.042 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 190.043 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 129.504 million Btu/person (2023 est.)<br>
 
@@ -695,13 +686,13 @@ the Japan Self-Defense Force (JSDF) has a range of missions, including territori
 ## Space
 
 **Space agency/agencies**<br>
-Japan Aerospace Exploration Agency (JAXA; established in 2003) (2024)<br>
+Japan Aerospace Exploration Agency (JAXA; established in 2003) (2025)<br>
 
 **Space launch site(s)**<br>
-Tanegashima Space Center/Yoshinobu Launch Complex (Kagoshima), Uchinoura Space Center (Kagoshima), Noshiro Testing Center (Akita) (2024)<br>
+Tanegashima Space Center/Yoshinobu Launch Complex (Kagoshima), Uchinoura Space Center (Kagoshima), Noshiro Testing Center (Akita) (2025)<br>
 
 **Space program overview**<br>
-has one of the world’s largest and most advanced space programs with independent capabilities in all areas of space categories except for autonomous manned space flight; designs, builds, launches, and operates the full spectrum of satellites, including communications, remote sensing (RS), astronomical observation, scientific, and navigational/positional; designs, builds, and independently launches satellite/space launch vehicles (SLVs) and other spacecraft, including interplanetary and Lunar probes, space station modules and space labs, and space transportation systems; has a wide range of research and development programs, including reusable SLVs, space-based astronomy, spacecraft components, robotics, solar sails, radio waves, and space plasma; has an astronaut training program; participates in international space programs, including the International Space Station (ISS), leading the Asia-Pacific Regional Space Agency Forum, and co-leading the Global Earth Observation System of Systems; cooperates with a variety of foreign space agencies and industries, including those of Canada, the European Space Agency (ESA) and its individual member states, India, Russia, the UAE, the US, and a range of other countries and space agencies throughout Africa, Europe, and the Asia-Pacific regions; has a substantial commercial space industry that develops an array of space-related capabilities and technologies, including satellites, satellite payloads and subcomponents, and SLVs; in recent years, the Japanese Government has encouraged and supported the development of space startup companies (2024)<br>
+has one of the world’s largest and most advanced space programs with independent capabilities in all areas of space categories except for autonomous manned space flight; designs, builds, launches, and operates the full spectrum of satellites, including communications, remote sensing (RS), astronomical observation, scientific, and navigational/positional; designs, builds, and independently launches satellite/space launch vehicles (SLVs) and other spacecraft, including interplanetary and Lunar probes, space station modules and space labs, and space transportation systems; has a wide range of research and development programs, including radio waves, robotics, reusable SLVs, solar sails, space-based astronomy, spacecraft components, and space plasma; has an astronaut training program; participates in international space programs, including the International Space Station (ISS) and the Square Kilometer Array radio telescope project, leading the Asia-Pacific Regional Space Agency Forum, and co-leading the Global Earth Observation System of Systems; cooperates with a variety of foreign space agencies and industries, including those of Canada, the European Space Agency (ESA) and its individual member states, India, Russia, the UAE, the US, and a range of other countries and space agencies throughout Africa, Europe, and the Asia-Pacific regions; has a substantial commercial space industry that develops an array of space-related capabilities and technologies, including satellites, satellite payloads and subcomponents, and SLVs; in recent years, the Japanese Government has encouraged and supported the development of space startup companies (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -709,5 +700,7 @@ has one of the world’s largest and most advanced space programs with independe
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 531 (2022)<br>
+_refugees_: 60,361 (2024 est.)<br>
+_IDPs_: 29,244 (2024 est.)<br>
+_stateless persons_: 505 (2024 est.)<br>
 

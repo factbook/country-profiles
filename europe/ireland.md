@@ -158,16 +158,13 @@ _female_: 83.9 years<br>
 **Gross reproduction rate**<br>
 0.84 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 97% of population<br>
-_improved: rural_: rural: 98.1% of population<br>
-_improved: total_: total: 97.4% of population<br>
-_unimproved: urban_: urban: 3% of population<br>
-_unimproved: rural_: rural: 1.9% of population<br>
-_unimproved: total_: total: 2.6% of population (2020 est.)<br>
+_improved: urban_: urban: 95.4% of population (2022 est.)<br>
+_improved: rural_: rural: 97% of population (2022 est.)<br>
+_improved: total_: total: 96% of population (2022 est.)<br>
+_unimproved: urban_: urban: 4.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 3% of population (2022 est.)<br>
+_unimproved: total_: total: 4% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6.1% of GDP (2022)<br>
@@ -180,12 +177,12 @@ _Health expenditure (as % of national budget)_: 22.3% of national budget (2022 e
 2.9 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 97.8% of population<br>
-_improved: rural_: rural: 99.1% of population<br>
-_improved: total_: total: 98.3% of population<br>
-_unimproved: urban_: urban: 2.2% of population<br>
-_unimproved: rural_: rural: 0.9% of population<br>
-_unimproved: total_: total: 1.7% of population (2020 est.)<br>
+_improved: urban_: urban: 94.8% of population (2022 est.)<br>
+_improved: rural_: rural: 98.2% of population (2022 est.)<br>
+_improved: total_: total: 96.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 5.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.8% of population (2022 est.)<br>
+_unimproved: total_: total: 3.9% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 25.3% (2016)<br>
@@ -238,23 +235,26 @@ _other_: 25.4% (2022 est.)<br>
 _urban population_: 64.5% of total population (2023)<br>
 _rate of urbanization_: 1.15% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 8.2 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 37.71 megatons (2016 est.)<br>
-_methane emissions_: 13.67 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 35.486 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 3.029 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 22.635 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 9.822 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+7.5 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2,692,537 tons (2012 est.)<br>
-_municipal solid waste recycled annually_: 888,537 tons (2012 est.)<br>
-_percent of municipal solid waste recycled_: 33% (2012 est.)<br>
+_municipal solid waste generated annually_: 2.911 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 42.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 990 million cubic meters (2020 est.)<br>
-_industrial_: 520 million cubic meters (2020 est.)<br>
-_agricultural_: 40 million cubic meters (2020 est.)<br>
+_municipal_: 1.106 billion cubic meters (2022 est.)<br>
+_industrial_: 531.82 million cubic meters (2022 est.)<br>
+_agricultural_: 39.63 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-52 billion cubic meters (2020 est.)<br>
+52 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 3<br>
@@ -352,7 +352,7 @@ _email address and website_: <br>https://www.ireland.ie/en/usa/washington/<br>
 _consulate(s) general_: Atlanta, Austin (TX), Boston, Chicago, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Michael CLAUSEN (since January 2025)<br>
+_chief of mission_: Ambassador Edward S. WALSH (since 1 July 2025)<br>
 _embassy_: 42 Elgin Road, Ballsbridge, Dublin 4<br>
 _mailing address_: 5290 Dublin Place, Washington DC&nbsp; 20521-5290<br>
 _telephone_: [353] (1) 668-8777<br>
@@ -369,8 +369,8 @@ ADB (nonregional member), Australia Group, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EM
 Saint Patrick's Day, 17 March<br>
 <strong>note:</strong> marks the traditional death date of Saint Patrick, patron saint of Ireland, during the latter half of the fifth century A.D. (most commonly cited years are c. 461 and c. 493); Saint Patrick's feast day was celebrated as early as the ninth century, but it only became an official public holiday in 1903<br>
 
-**Flag description**<br>
-three equal vertical bands of green (hoist side), white, and orange; the flag colors have no official meaning, but a common interpretation is that the green stands for the Irish nationalist tradition, orange for the Orange tradition (minority supporters of William of Orange), and white for peace or a lasting truce between the green and the orange<br>
+**Flag**<br>
+<strong>description:</strong> three equal vertical bands of green (left side), white, and orange<br><br><strong>meaning:</strong> the flag colors have no official meaning, but a common interpretation is that the green stands for the Irish nationalist tradition, orange for the Orange tradition (minority supporters of William of Orange), and white for peace or a lasting truce between the green and the orange<br>
 <strong>note:</strong> similar to the flag of Cote d'Ivoire, which is shorter and has the colors reversed; also similar to the flag of Italy, which is shorter and has red instead of orange<br>
 
 **National symbol(s)**<br>
@@ -490,9 +490,9 @@ _highest 10%_: 24.5% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $118.278 billion (2022 est.)<br>
-_expenditures_: $105.516 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $118.231 billion (2022 est.)<br>
+_expenditures_: $108.693 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 45.4% of GDP (2022 est.)<br>
@@ -585,12 +585,6 @@ _consumption_: 4.919 billion cubic meters (2023 est.)<br>
 _imports_: 3.707 billion cubic meters (2023 est.)<br>
 _proven reserves_: 9.911 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 35.486 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 3.029 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 22.635 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 9.822 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 113.837 million Btu/person (2023 est.)<br>
 
@@ -682,6 +676,6 @@ Continuity Irish Republican Army (CIRA); Real Irish Republican Army (RIRA); Isla
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 105,210 (Ukraine) (as of 8 March 2024)<br>
-_stateless persons_: 7 (2022)<br>
+_refugees_: 156,441 (2024 est.)<br>
+_stateless persons_: 48 (2024 est.)<br>
 

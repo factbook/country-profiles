@@ -73,7 +73,7 @@ the vast majority of the populace resides in the southern half of the country, p
 numerous volcanoes in mountains, with occasional violent earthquakes; Caribbean coast extremely susceptible to hurricanes and other tropical storms <br><br><strong>volcanism:</strong> significant volcanic activity in the Sierra Madre range; Santa Maria (3,772 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Pacaya (2,552 m) is one of the country's most active volcanoes, with frequent eruptions since 1965; other historically active volcanoes include Acatenango, Almolonga, Atitlan, Fuego, and Tacana; see note 2 under "Geography - note"<br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> despite having both eastern and western coastlines (Caribbean Sea and Pacific Ocean), there are no natural harbors on the west coast</p> <p><strong>note 2:</strong> Guatemala is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p><br>
+<strong>note 1:</strong> despite having both eastern and western coastlines (Caribbean Sea and Pacific Ocean), there are no natural harbors on the west coast <br><br><strong>note 2:</strong> Guatemala is one of the countries along the Ring of Fire, which is a belt bordering the Pacific Ocean that contains about 75% of the world's volcanoes and up to 90% of the world's earthquakes<br>
 
 ## People and Society
 
@@ -165,16 +165,13 @@ _female_: 75.6 years<br>
 **Gross reproduction rate**<br>
 1.23 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-60.6% (2014/15)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 97.9% of population<br>
-_improved: rural_: rural: 92.2% of population<br>
-_improved: total_: total: 95% of population<br>
-_unimproved: urban_: urban: 2.1% of population<br>
-_unimproved: rural_: rural: 8% of population<br>
-_unimproved: total_: total: 5% of population (2020 est.)<br>
+_improved: urban_: urban: 97.8% of population (2022 est.)<br>
+_improved: rural_: rural: 91% of population (2022 est.)<br>
+_improved: total_: total: 94.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 2.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 9% of population (2022 est.)<br>
+_unimproved: total_: total: 5.4% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6.9% of GDP (2021)<br>
@@ -187,12 +184,12 @@ _Health expenditure (as % of national budget)_: 16.9% of national budget (2022 e
 0.4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 90.4% of population<br>
-_improved: rural_: rural: 66.3% of population<br>
-_improved: total_: total: 78.8% of population<br>
-_unimproved: urban_: urban: 9.6% of population<br>
-_unimproved: rural_: rural: 33.7% of population<br>
-_unimproved: total_: total: 21.2% of population (2020 est.)<br>
+_improved: urban_: urban: 91.4% of population (2022 est.)<br>
+_improved: rural_: rural: 68.9% of population (2022 est.)<br>
+_improved: total_: total: 80.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 8.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 31.1% of population (2022 est.)<br>
+_unimproved: total_: total: 19.2% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 21.2% (2016)<br>
@@ -258,21 +255,26 @@ _other_: 24.3% (2022 est.)<br>
 _urban population_: 53.1% of total population (2023)<br>
 _rate of urbanization_: 2.59% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 20.75 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 16.78 megatons (2016 est.)<br>
-_methane emissions_: 10.7 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 18.546 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2.31 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 16.232 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 4,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+21.8 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2,756,741 tons (2015 est.)<br>
+_municipal solid waste generated annually_: 2.757 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 10.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 840 million cubic meters (2020 est.)<br>
-_industrial_: 600 million cubic meters (2020 est.)<br>
-_agricultural_: 1.89 billion cubic meters (2020 est.)<br>
+_municipal_: 835 million cubic meters (2022 est.)<br>
+_industrial_: 603.1 million cubic meters (2022 est.)<br>
+_agricultural_: 1.886 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-127.91 billion cubic meters (2020 est.)<br>
+127.91 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -372,9 +374,9 @@ ACS, BCIE, CACM, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAE
 **National holiday**<br>
 Independence Day, 15 September (1821)<br>
 
-**Flag description**<br>
-three equal vertical bands of light blue (hoist side), white, and light blue, with the coat of arms centered in the white band; the coat of arms includes a green-and-red quetzal (the national bird) and a scroll with the inscription LIBERTAD 15 DE SEPTIEMBRE DE 1821 (the original date of independence from Spain); a pair of crossed rifles on the coat of arms signify Guatemala's willingness to defend itself and a pair of crossed swords represent honor; framed by a laurel wreath symbolizing victory; the blue bands stand for the Pacific Ocean and Caribbean Sea, and the white for peace and purity<br>
-<strong>note:</strong> one of two national flags featuring a firearm; the other is Mozambique<br>
+**Flag**<br>
+<strong>description:</strong> three equal vertical bands of light blue (left side), white, and light blue, with the coat of arms centered in the white band; the coat of arms includes a green-and-red quetzal (the national bird), a scroll with the inscription LIBERTAD 15 DE SEPTIEMBRE DE 1821 (the original date of independence from Spain), a pair of crossed rifles, and a pair of crossed swords; a laurel wreath frames the objects<br><br><strong>meaning:</strong> the rifles stand for Guatemala's willingness to defend itself, the swords for honor, and the laurel wreath for victory; blue stands for the Pacific Ocean and Caribbean Sea, and white for peace and purity<br>
+<strong>note:</strong> one of two national flags featuring a firearm -- the other is Mozambique<br>
 
 **National symbol(s)**<br>
 quetzal (bird)<br>
@@ -385,7 +387,7 @@ blue, white<br>
 **National anthem(s)**<br>
 _title_: "Himno Nacional de Guatemala" (National Anthem of Guatemala)<br>
 _lyrics/music_: Jose Joaquin PALMA/Rafael Alvarez OVALLE<br>
-_history_: adopted 1897, modified lyrics adopted 1934; Cuban poet Jose Joaquin PALMA anonymously submitted lyrics to a public contest calling for a national anthem; his authorship was not discovered until 1911<br>
+_history_: adopted 1897, modified lyrics adopted 1934; Cuban poet Jose Joaquin PALMA anonymously submitted lyrics to a public contest calling for a national anthem and it was not discovered until 1911; anthem has four verses with four separate choruses at the end of each verse -- all are official, and the anthem is sung in its entirety when performed in Guatemala<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (3 cultural, 1 mixed)<br>
@@ -490,9 +492,9 @@ _highest 10%_: 34.1% (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $15.09 billion (2022 est.)<br>
-_expenditures_: $15.376 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $16.603 billion (2023 est.)<br>
+_expenditures_: $17.349 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 31.56% of GDP (2020 est.)<br>
@@ -590,12 +592,6 @@ _crude oil estimated reserves_: 86.11 million barrels (2021 est.)<br>
 _production_: 2.016 million cubic meters (2023 est.)<br>
 _consumption_: 1.991 million cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 18.546 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 2.31 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 16.232 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 4,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 17.096 million Btu/person (2023 est.)<br>
 
@@ -688,7 +684,8 @@ La Mara Salvatrucha (MS-13)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 242,000 (more than three decades of internal conflict that ended in 1996 displaced mainly the indigenous Maya population and rural peasants; ongoing drug cartel and gang violence) (2022)<br>
+_refugees_: 4,676 (2024 est.)<br>
+_IDPs_: 572,813 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>

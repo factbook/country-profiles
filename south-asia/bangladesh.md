@@ -166,16 +166,13 @@ _female_: 77.5 years<br>
 **Gross reproduction rate**<br>
 1.01 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-62.7% (2019)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99% of population<br>
-_improved: rural_: rural: 98.7% of population<br>
-_improved: total_: total: 98.9% of population<br>
-_unimproved: urban_: urban: 1% of population<br>
-_unimproved: rural_: rural: 1.3% of population<br>
-_unimproved: total_: total: 1.1% of population (2020 est.)<br>
+_improved: urban_: urban: 98.3% of population (2022 est.)<br>
+_improved: rural_: rural: 98.5% of population (2022 est.)<br>
+_improved: total_: total: 98.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.7% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.5% of population (2022 est.)<br>
+_unimproved: total_: total: 1.6% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 2.4% of GDP (2021)<br>
@@ -188,12 +185,12 @@ _Health expenditure (as % of national budget)_: 1.2% of national budget (2022 es
 0.9 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 85.3% of population<br>
-_improved: rural_: rural: 73.5% of population<br>
-_improved: total_: total: 78% of population<br>
-_unimproved: urban_: urban: 14.7% of population<br>
-_unimproved: rural_: rural: 26.5% of population<br>
-_unimproved: total_: total: 22% of population (2020 est.)<br>
+_improved: urban_: urban: 90.3% of population (2022 est.)<br>
+_improved: rural_: rural: 81.4% of population (2022 est.)<br>
+_improved: total_: total: 84.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 9.7% of population (2022 est.)<br>
+_unimproved: rural_: rural: 18.6% of population (2022 est.)<br>
+_unimproved: total_: total: 15.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 3.6% (2016)<br>
@@ -258,21 +255,32 @@ _other_: 13.2% (2022 est.)<br>
 _urban population_: 40.5% of total population (2023)<br>
 _rate of urbanization_: 2.88% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 45.99 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 84.25 megatons (2016 est.)<br>
-_methane emissions_: 59.3 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 125.956 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 26.967 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 42.083 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 56.906 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+42.5 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 544 kt (2022-2024 est.)<br>
+_agriculture_: 2,391.4 kt (2019-2021 est.)<br>
+_waste_: 693 kt (2019-2021 est.)<br>
+_other_: 38.6 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 14,778,497 tons (2012 est.)<br>
+_municipal solid waste generated annually_: 14.778 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 15.7% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 3.6 billion cubic meters (2020 est.)<br>
-_industrial_: 770 million cubic meters (2020 est.)<br>
-_agricultural_: 31.5 billion cubic meters (2020 est.)<br>
+_municipal_: 3.6 billion cubic meters (2022 est.)<br>
+_industrial_: 770 million cubic meters (2022 est.)<br>
+_agricultural_: 31.5 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-1.23 trillion cubic meters (2020 est.)<br>
+1.227 trillion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -316,17 +324,17 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Mohammad Shahabuddin CHUPPI (since 24 April 2023)<br>
+_chief of state_: President Mohammad SHAHABUDDIN Chuppi (since 24 April 2023)<br>
 _head of government_: Interim Prime Minister Muhammad YUNUS (since 8 August 2024)<br>
 _cabinet_: Cabinet selected by the prime minister, appointed by the president<br>
 _election/appointment process_: president indirectly elected by the National Parliament for a 5-year term (eligible for a second term); the president appoints as prime minister the majority party leader in the National Parliament<br>
 _most recent election date_: 13 February 2023<br>
-_election results_: President Mohammad Shahabuddin CHUPPI (AL) elected unopposed by the National Parliament; Sheikh HASINA reappointed prime minister for a fifth term following the 7 January 2024 parliamentary election<br>
+_election results_: President Mohammad SHAHABUDDIN Chuppi (AL) elected unopposed by the National Parliament; Sheikh HASINA reappointed prime minister for a fifth term following the 7 January 2024 parliamentary election; note - Sheikh HASINA resigned and fled the country on 5 August 2024 following mass protests against her government in July and August 2024, and Mohammad YUNIS was appointed as interim Prime Minister on 8 August 2024<br>
 _expected date of next election_: 2028<br>
 
 **Legislative branch**<br>
-_expected date of next election_: December 2025<br>
-<strong><strong>note: </strong></strong>the Parliament (House of the Nation) was dissolved on 6 August 2024 by President Mohammad Shahabuddin CHUPPI following the resignation of Prime Minister Sheikh HASINA Wazed on 5 August 2024; new national elections may be held in late 2025 or early 2026<strong><strong><br></strong></strong><br>
+_expected date of next election_: February 2026<br>
+<strong><strong>note: </strong></strong>the Parliament (House of the Nation) was dissolved on 6 August 2024 by President Mohammad SHAHABUDDIN Chuppi following the resignation of Prime Minister Sheikh HASINA Wazed on 5 August 2024; new national elections will be held in February 2026<strong><strong><br></strong></strong><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Bangladesh (organized into the Appellate Division with 7 justices and the High Court Division with 99 justices)<br>
@@ -337,7 +345,7 @@ _subordinate courts_: civil courts include: Assistant Judge's Court; Joint Distr
 Awami League or AL<br>Bangladesh Jamaat-i-Islami or JIB<br>Bangladesh Nationalist Party or BNP<br>Islami Andolan Bangladesh<br>Jatiya Party or JP (Ershad faction)<br>Jatiya Party or JP (Manju faction)<br>National Socialist Party (Jatiya Samajtantrik Dal) or JSD<br>Workers Party or WP<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires DM Salahuddin MAHMUD (since 12 June 2025)<br>
+_chief of mission_: Ambassador Tareq Md Ariful ISLAM (since 5 September 2025)<br>
 _chancery_: 3510 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 244-0183<br>
 _FAX_: [1] (202) 244-2771<br>
@@ -362,8 +370,8 @@ ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO,
 Independence Day, 26 March (1971); Victory Day, 16 December (1971)<br>
 <strong>note:</strong> 26 March 1971 is the date of the Awami League's declaration of an independent Bangladesh, and 16 December (Victory Day) memorializes the military victory over Pakistan and the official creation of the state of Bangladesh<br>
 
-**Flag description**<br>
-green field with a large red disk shifted slightly to the hoist side; the red disk represents the rising sun and the sacrifice to achieve independence; the green field symbolizes the lush vegetation of Bangladesh<br>
+**Flag**<br>
+<strong>description:</strong> green field with a large red disk shifted slightly to the left<br><br><strong>meaning:</strong> the red disk represents the rising sun and the sacrifice to achieve independence; the green field symbolizes the lush vegetation of Bangladesh<br>
 
 **National symbol(s)**<br>
 Bengal tiger, water lily<br>
@@ -483,8 +491,11 @@ _highest 10%_: 27.4% (2022 est.)<br>
 
 **Budget**<br>
 _revenues_: $39.849 billion (2021 est.)<br>
-_expenditures_: $34.538 billion (2021 est.)<br>
+_expenditures_: $51.558 billion (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+33.3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 7.6% (of GDP) (2021 est.)<br>
@@ -579,12 +590,6 @@ _production_: 22.334 billion cubic meters (2023 est.)<br>
 _consumption_: 29.119 billion cubic meters (2023 est.)<br>
 _imports_: 6.785 billion cubic meters (2023 est.)<br>
 _proven reserves_: 126.293 billion cubic meters (2021 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 125.956 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 26.967 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 42.083 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 56.906 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 11.472 million Btu/person (2023 est.)<br>
@@ -688,7 +693,7 @@ Harakat ul-Jihad-i-Islami/Bangladesh (HUJI-B); Islamic State of Iraq and ash-Sha
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 976,507 (Burma) (2024)<br>
-_IDPs_: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2022)<br>
-_stateless persons_: 929,606 (2022)<br>
+_refugees_: 1,005,637 (2024 est.)<br>
+_IDPs_: 756,743 (2024 est.)<br>
+_stateless persons_: 1,005,520 (2024 est.)<br>
 

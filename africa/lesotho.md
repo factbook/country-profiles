@@ -164,16 +164,13 @@ _female_: 62.3 years<br>
 **Gross reproduction rate**<br>
 1.4 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-64.9% (2018)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 95.7% of population<br>
-_improved: rural_: rural: 77.2% of population<br>
-_improved: total_: total: 82.6% of population<br>
-_unimproved: urban_: urban: 4.3% of population<br>
-_unimproved: rural_: rural: 22.8% of population<br>
-_unimproved: total_: total: 17.4% of population (2020 est.)<br>
+_improved: urban_: urban: 93% of population (2022 est.)<br>
+_improved: rural_: rural: 65.9% of population (2022 est.)<br>
+_improved: total_: total: 74% of population (2022 est.)<br>
+_unimproved: urban_: urban: 7% of population (2022 est.)<br>
+_unimproved: rural_: rural: 34.1% of population (2022 est.)<br>
+_unimproved: total_: total: 26% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 10.2% of GDP (2021)<br>
@@ -183,12 +180,12 @@ _Health expenditure (as % of national budget)_: 13.1% of national budget (2022 e
 0.24 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 93.6% of population<br>
-_improved: rural_: rural: 62.4% of population<br>
-_improved: total_: total: 71.4% of population<br>
-_unimproved: urban_: urban: 6.4% of population<br>
-_unimproved: rural_: rural: 37.6% of population<br>
-_unimproved: total_: total: 28.6% of population (2020 est.)<br>
+_improved: urban_: urban: 93.6% of population (2022 est.)<br>
+_improved: rural_: rural: 62.4% of population (2022 est.)<br>
+_improved: total_: total: 71.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 6.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 37.6% of population (2022 est.)<br>
+_unimproved: total_: total: 28.3% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 16.6% (2016)<br>
@@ -254,21 +251,25 @@ _other_: 24.1% (2022 est.)<br>
 _urban population_: 30.4% of total population (2023)<br>
 _rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 17.6 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 2.51 megatons (2016 est.)<br>
-_methane emissions_: 2.56 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 1.148 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 175,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 973,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+17.4 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 73,457 tons (2006 est.)<br>
+_municipal solid waste generated annually_: 73,500 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 11.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 20 million cubic meters (2020 est.)<br>
-_industrial_: 20 million cubic meters (2020 est.)<br>
-_agricultural_: 3.8 million cubic meters (2017 est.)<br>
+_municipal_: 20 million cubic meters (2022 est.)<br>
+_industrial_: 20 million cubic meters (2022 est.)<br>
+_agricultural_: 3.8 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-3.02 billion cubic meters (2020 est.)<br>
+3.022 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -375,8 +376,8 @@ ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, I
 **National holiday**<br>
 Independence Day, 4 October (1966)<br>
 
-**Flag description**<br>
-three horizontal stripes of blue (top), white, and green, representing respectively rain, peace, and prosperity; centered in the white stripe is a black <em>mokorotlo</em>, a traditional Basotho straw hat and national symbol; the redesigned flag was introduced in 2006 to celebrate 40 years of independence<br>
+**Flag**<br>
+<strong>description: </strong>three horizontal stripes of blue (top), white, and green; centered on the white stripe is a black <em>mokorotlo</em>, a traditional Basotho straw hat and national symbol<br><br><strong>meaning:</strong> blue stands for rain, white for peace, and green for prosperity<br><br><strong>history:</strong> the redesigned flag was introduced in 2006 to celebrate 40 years of independence<br>
 
 **National symbol(s)**<br>
 mokorotio (Basotho hat)<br>
@@ -489,7 +490,7 @@ _highest 10%_: 32.9% (2017 est.)<br>
 
 **Budget**<br>
 _revenues_: $1.13 billion (2022 est.)<br>
-_expenditures_: $947.517 million (2022 est.)<br>
+_expenditures_: $1.256 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
@@ -579,11 +580,6 @@ _imports_: 24,000 metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 7,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 1.148 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 175,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 973,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 8.117 million Btu/person (2023 est.)<br>
 
@@ -644,4 +640,7 @@ the LDF is lightly armed and has a small inventory of mostly older or second-han
 the Lesotho Defense Force (LDF) is responsible for the maintenance of the country's sovereignty and the preservation of internal security; in practice, external security is guaranteed by South Africa; the LDF is a small force that began in 1964 as the Police Mobile Unit (PMU); the PMU was designated as the Lesotho Paramilitary Force in 1980 and became the Royal Lesotho Defense Force in 1986; it was renamed the Lesotho Defense Force in 1993 (2025)<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 610 (2024 est.)<br>
 

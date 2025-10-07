@@ -173,16 +173,13 @@ _female_: 72.6 years<br>
 **Gross reproduction rate**<br>
 2.1 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-38.4% (2015/16)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 95.1% of population<br>
-_improved: rural_: rural: 59.4% of population<br>
-_improved: total_: total: 72% of population<br>
-_unimproved: urban_: urban: 4.9% of population<br>
-_unimproved: rural_: rural: 40.6% of population<br>
-_unimproved: total_: total: 28% of population (2020 est.)<br>
+_improved: urban_: urban: 81.1% of population (2022 est.)<br>
+_improved: rural_: rural: 49% of population (2022 est.)<br>
+_improved: total_: total: 60.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 18.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 51% of population (2022 est.)<br>
+_unimproved: total_: total: 39.2% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 3.4% of GDP (2021)<br>
@@ -195,12 +192,12 @@ _Health expenditure (as % of national budget)_: 5.1% of national budget (2022 es
 0.6 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 89.4% of population<br>
-_improved: rural_: rural: 29.2% of population<br>
-_improved: total_: total: 50.4% of population<br>
-_unimproved: urban_: urban: 10.6% of population<br>
-_unimproved: rural_: rural: 70.8% of population<br>
-_unimproved: total_: total: 49.6% of population (2020 est.)<br>
+_improved: urban_: urban: 89.6% of population (2022 est.)<br>
+_improved: rural_: rural: 27.2% of population (2022 est.)<br>
+_improved: total_: total: 50.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 10.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 72.8% of population (2022 est.)<br>
+_unimproved: total_: total: 49.9% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 8.4% (2016)<br>
@@ -266,21 +263,32 @@ _other_: 4.8% (2022 est.)<br>
 _urban population_: 37.4% of total population (2023)<br>
 _rate of urbanization_: 4.89% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 15.36 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 11.97 megatons (2016 est.)<br>
-_methane emissions_: 59.08 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 17.707 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 1.687 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 12.066 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 3.954 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+14.5 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 568.3 kt (2022-2024 est.)<br>
+_agriculture_: 1,176.8 kt (2019-2021 est.)<br>
+_waste_: 168.3 kt (2019-2021 est.)<br>
+_other_: 1,226.8 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 9,276,995 tons (2012 est.)<br>
+_municipal solid waste generated annually_: 9.277 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 12.3% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 530 million cubic meters (2020 est.)<br>
-_industrial_: 30 million cubic meters (2020 est.)<br>
-_agricultural_: 4.63 billion cubic meters (2020 est.)<br>
+_municipal_: 527 million cubic meters (2022 est.)<br>
+_industrial_: 25 million cubic meters (2022 est.)<br>
+_agricultural_: 4.632 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-96.3 billion cubic meters (2019 est.)<br>
+96.27 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 1<br>
@@ -381,8 +389,8 @@ ACP, AfDB, AU, C, CD, EAC, EADB, EITI, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), 
 **National holiday**<br>
 Union Day (Tanganyika and Zanzibar), 26 April (1964)<br>
 
-**Flag description**<br>
-divided diagonally by a yellow-edged black band from the lower hoist-side corner; the upper triangle (hoist side) is green, and the lower is blue; combines colors from the flags of Tanganyika and Zanzibar; green stands for natural vegetation, gold for rich mineral deposits, black for the Swahili people, and blue for lakes and rivers, as well as the Indian Ocean<br>
+**Flag**<br>
+<strong>description:</strong> divided diagonally by a yellow-edged black band, from the lower left corner to the upper right corner; the upper triangle (left side) is green, and the lower is blue<br><br><strong>meaning:</strong> colors come from the flags of Tanganyika and Zanzibar; green stands for natural vegetation, gold for rich mineral deposits, black for the Swahili people, and blue for lakes and rivers, as well as the Indian Ocean<br>
 
 **National symbol(s)**<br>
 Uhuru (freedom) torch, giraffe<br>
@@ -393,7 +401,7 @@ green, yellow, blue, black<br>
 **National anthem(s)**<br>
 _title_: "Mungu ibariki Afrika" (God Bless Africa)<br>
 _lyrics/music_: collective/Enoch Mankayi SONTONGA<br>
-_history_: adopted 1961; the anthem, which is also a popular song in Africa, shares the melody of Zambia's anthem; the melody is also part of South Africa's anthem<br>
+_history_: adopted 1961; the anthem, which is also a popular African popular song in Africa, shares the melody of Zambia's anthem and is&nbsp; part of South Africa's anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 7 (3 cultural, 3 natural, 1 mixed)<br>
@@ -498,9 +506,12 @@ _highest 10%_: 33.1% (2018 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $9.114 billion (2014 est.)<br>
-_expenditures_: $8.926 billion (2014 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $11.716 billion (2024 est.)<br>
+_expenditures_: $13.583 billion (2024 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+38% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 11.5% (of GDP) (2023 est.)<br>
@@ -592,12 +603,6 @@ _production_: 2.016 billion cubic meters (2023 est.)<br>
 _consumption_: 2.016 billion cubic meters (2023 est.)<br>
 _proven reserves_: 6.513 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 17.707 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 1.687 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 12.066 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 3.954 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 4.091 million Btu/person (2023 est.)<br>
 
@@ -688,5 +693,6 @@ al-Shabaab; Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 89,163 (Democratic Republic of the Congo), 112,779 (Burundi) (2024)<br>
+_refugees_: 218,123 (2024 est.)<br>
+_IDPs_: 75,117 (2024 est.)<br>
 

@@ -165,16 +165,9 @@ _female_: 80 years<br>
 **Gross reproduction rate**<br>
 1.46 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-27.7% (2014)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
+_improved: total_: total: 99.9% of population (2022 est.)<br>
+_unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 5.1% of national budget (2022 est.)<br>
@@ -186,12 +179,8 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 3.2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 99.3% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0.7% of population (2020 est.)<br>
+_improved: total_: total: 99.3% of population (2022 est.)<br>
+_unimproved: total_: total: 0.7% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 32.5% (2016)<br>
@@ -233,13 +222,23 @@ _other_: 91.2% (2022 est.)<br>
 _urban population_: 81.6% of total population (2023)<br>
 _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 29.84 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 50.56 megatons (2016 est.)<br>
-_methane emissions_: 45.76 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 46.479 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 700 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 29.542 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 16.936 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+29.8 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 1,357.4 kt (2022-2024 est.)<br>
+_agriculture_: 63.4 kt (2019-2021 est.)<br>
+_waste_: 77.3 kt (2019-2021 est.)<br>
+_other_: 3.6 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2,147,596 tons (2011 est.)<br>
+_municipal solid waste generated annually_: 2.148 million tons (2024 est.)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 700 million cubic meters (2020 est.)<br>
@@ -334,8 +333,8 @@ ABEDA, AfDB, AFESD, AMF, AMU, AU, BDEAC, CAEU, COMESA, FAO, G-77, IAEA, IBRD, IC
 **National holiday**<br>
 Liberation Day, 23 October (2011)<br>
 
-**Flag description**<br>
-three horizontal bands of red (top), black (double-width), and green, with a white crescent and star centered on the black stripe; the National Transitional Council reintroduced this flag design from the former Kingdom of Libya (1951-1969) in 2011 to replace the all-green banner of the QADHAFI regime; the colors represent the three major regions of the country: red stands for Fezzan, black for Cyrenaica, and green for Tripolitania; the crescent and star represent Islam<br>
+**Flag**<br>
+<strong>description:</strong> three horizontal bands of red (top), black (double-width), and green, with a white crescent and star centered on the black stripe<br><br><strong>meaning:</strong> the colors represent the three major regions of the country: red stands for Fezzan, black for Cyrenaica, and green for Tripolitania; the crescent and star represent Islam<br><br><strong>history:</strong> the National Transitional Council reintroduced this flag design from the former Kingdom of Libya (1951-69) in 2011 to replace the all-green banner of the QADHAFI regime<br>
 
 **National symbol(s)**<br>
 star and crescent, hawk<br>
@@ -437,6 +436,9 @@ _female_: 68.8% (2024 est.)<br>
 _revenues_: $28.005 billion (2019 est.)<br>
 _expenditures_: $37.475 billion (2019 est.)<br>
 
+**Public debt**<br>
+7.5% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 $1.865 billion (2023 est.)<br>
 $9.607 billion (2022 est.)<br>
@@ -513,12 +515,6 @@ _production_: 11.16 billion cubic meters (2023 est.)<br>
 _consumption_: 8.633 billion cubic meters (2023 est.)<br>
 _exports_: 2.527 billion cubic meters (2023 est.)<br>
 _proven reserves_: 1.505 trillion cubic meters (2021 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 46.479 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 700 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 29.542 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 16.936 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 100.844 million Btu/person (2023 est.)<br>
@@ -598,6 +594,6 @@ Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham - Libya (ISIS-L); al-
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,623 (Syria) (refugees and asylum seekers), 8,302 (Eritrea) (2023); 6,293 (Sudan) (refugees and asylum seekers) (2024)<br>
-_IDPs_: 125,802 (conflict between pro-QADHAFI and anti-QADHAFI forces in 2011; post-QADHAFI tribal clashes 2014) (2023)<br>
+_refugees_: 277,010 (2024 est.)<br>
+_IDPs_: 139,305 (2024 est.)<br>
 

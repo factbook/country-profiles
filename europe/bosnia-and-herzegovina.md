@@ -162,16 +162,13 @@ _female_: 81.6 years<br>
 **Gross reproduction rate**<br>
 0.67 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-45.8% (2011/12)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
+_improved: urban_: urban: 94.8% of population (2022 est.)<br>
+_improved: rural_: rural: 97.3% of population (2022 est.)<br>
+_improved: total_: total: 96.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 5.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 2.7% of population (2022 est.)<br>
+_unimproved: total_: total: 3.9% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 9.6% of GDP (2021)<br>
@@ -184,12 +181,8 @@ _Health expenditure (as % of national budget)_: 14.8% of national budget (2022 e
 2.3 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.5% of population<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: urban_: urban: 0.5% of population<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: (2020 est.) NA<br>
+_improved: urban_: urban: 99.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.5% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 17.9% (2016)<br>
@@ -242,22 +235,25 @@ _other_: 13.1% (2022 est.)<br>
 _urban population_: 50.3% of total population (2023)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 26.19 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 21.85 megatons (2016 est.)<br>
-_methane emissions_: 2.92 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 24.513 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 19.292 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 4.785 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 436,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+26.2 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1,248,718 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 12 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 0% (2015 est.)<br>
+_municipal solid waste generated annually_: 1.249 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 23.8% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 310 million cubic meters (2020 est.)<br>
-_industrial_: 60 million cubic meters (2020 est.)<br>
+_municipal_: 320 million cubic meters (2022)<br>
+_industrial_: 475 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-37.5 billion cubic meters (2020 est.)<br>
+37.5 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -374,8 +370,8 @@ BIS, CD, CE, CEI, EAPC, EBRD, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICR
 Independence Day, 1 March (1992) and Statehood Day, 25 November (1943) - both observed in the Federation of Bosnia and Herzegovina entity; Victory Day, 9 May (1945) and Dayton Agreement Day, 21 November (1995) - both observed in the Republika Srpska entity<br>
 <strong>note:</strong> there is no national-level holiday<br>
 
-**Flag description**<br>
-a wide blue vertical band on the fly side, with a yellow isosceles triangle; the rest of the flag is blue with seven five-pointed white stars and two half-stars along the hypotenuse of the triangle; the triangle approximates the shape of the country, and its three points stand for the Bosniaks, Croats, and Serbs; the stars represent Europe; the colors (white, blue, and yellow) are traditional to Bosnia and are also associated with neutrality and peace<br>
+**Flag**<br>
+<strong>description:</strong> a wide blue vertical band on the right side, with a large yellow isosceles triangle in the middle of the flag, based at the top; the rest of the flag is blue, with seven five-pointed white stars and two half-stars along the triangle's hypotenuse<br><br><strong>meaning:</strong> the triangle approximates the country's shape, and its three points stand for the Bosniaks, Croats, and Serbs; the stars represent Europe; the colors (white, blue, and yellow) are traditional and are also associated with neutrality and peace<br>
 <strong>note:</strong> one of four national flags that reflect the shape of the country in the flag design; the others are Brazil, Eritrea, and Vanuatu<br>
 
 **National symbol(s)**<br>
@@ -387,7 +383,7 @@ blue, yellow, white<br>
 **National anthem(s)**<br>
 _title_: "Drzavna himna Bosne i Hercegovine" (The National Anthem of Bosnia and Herzegovina)<br>
 _lyrics/music_: none officially/Dusan SESTIC<br>
-_history_: music adopted 1999; lyrics proposed in 2009 were accepted by a parliamentary commission, but await official adoption, so the anthem still remains officially wordless<br>
+_history_: music adopted 1999; lyrics proposed in 2009 were accepted by a parliamentary commission but are still awaiting adoption, so the anthem remains officially wordless<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>
@@ -483,9 +479,9 @@ _on alcohol and tobacco_: 7.1% of household expenditures (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $10.195 billion (2023 est.)<br>
-_expenditures_: $9.739 billion (2023 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $10.196 billion (2023 est.)<br>
+_expenditures_: $10.463 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 40.3% of GDP (2023 est.)<br>
@@ -580,12 +576,6 @@ _refined petroleum consumption_: 34,000 bbl/day (2023 est.)<br>
 _consumption_: 228.855 million cubic meters (2023 est.)<br>
 _imports_: 228.855 million cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 24.513 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 19.292 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 4.785 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 436,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 91.227 million Btu/person (2023 est.)<br>
 
@@ -670,7 +660,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 91,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2022)<br>
-_stateless persons_: 48 (2022)<br>
-<strong>note: </strong>153,304 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
+_refugees_: 685 (2024 est.)<br>
+_IDPs_: 94,796 (2024 est.)<br>
+_stateless persons_: 23 (2024 est.)<br>
 

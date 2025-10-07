@@ -166,16 +166,13 @@ _female_: 70.3 years<br>
 **Gross reproduction rate**<br>
 2.41 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-28.5% (2016/17)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 98.7% of population<br>
-_improved: rural_: rural: 78.9% of population<br>
-_improved: total_: total: 81.6% of population<br>
-_unimproved: urban_: urban: 1.3% of population<br>
-_unimproved: rural_: rural: 21.1% of population<br>
-_unimproved: total_: total: 18.4% of population (2020 est.)<br>
+_improved: urban_: urban: 90.7% of population (2022 est.)<br>
+_improved: rural_: rural: 57.7% of population (2022 est.)<br>
+_improved: total_: total: 62.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 9.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 42.3% of population (2022 est.)<br>
+_unimproved: total_: total: 37.6% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 9.1% of GDP (2021)<br>
@@ -185,12 +182,12 @@ _Health expenditure (as % of national budget)_: 4.7% of national budget (2022 es
 0.08 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 87.4% of population<br>
-_improved: rural_: rural: 53.7% of population<br>
-_improved: total_: total: 58.4% of population<br>
-_unimproved: urban_: urban: 12.6% of population<br>
-_unimproved: rural_: rural: 46.3% of population<br>
-_unimproved: total_: total: 41.6% of population (2020 est.)<br>
+_improved: urban_: urban: 87.4% of population (2022 est.)<br>
+_improved: rural_: rural: 53.7% of population (2022 est.)<br>
+_improved: total_: total: 58.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 12.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 46.3% of population (2022 est.)<br>
+_unimproved: total_: total: 41.4% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 5.4% (2016)<br>
@@ -256,21 +253,25 @@ _other_: 6.3% (2022 est.)<br>
 _urban population_: 14.8% of total population (2023)<br>
 _rate of urbanization_: 5.43% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 28 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.5 megatons (2016 est.)<br>
-_methane emissions_: 1.42 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 838,000 metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 32,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 806,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+26.3 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1,872,016 tons (2002 est.)<br>
+_municipal solid waste generated annually_: 1.872 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 7.1% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 40 million cubic meters (2020 est.)<br>
-_industrial_: 20 million cubic meters (2020 est.)<br>
-_agricultural_: 220 million cubic meters (2020 est.)<br>
+_municipal_: 43.1 million cubic meters (2022 est.)<br>
+_industrial_: 15 million cubic meters (2022 est.)<br>
+_agricultural_: 222 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-12.54 billion cubic meters (2020 est.)<br>
+12.536 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -293,8 +294,7 @@ _etymology_: the origin of the name Bujumbura is unclear, but "bu-" is a Bantu p
 <strong>note:</strong> in January 2019, the Burundian parliament voted to make Gitega the political capital of the country while Bujumbura would remain its economic capital; as of 2023, the government's move to Gitega remains incomplete<br>
 
 **Administrative divisions**<br>
-18 provinces; Bubanza, Bujumbura Mairie, Bujumbura Rural, Bururi, Cankuzo, Cibitoke, Gitega, Karuzi, Kayanza, Kirundo, Makamba, Muramvya, Muyinga, Mwaro, Ngozi, Rumonge, Rutana, Ruyigi<br>
-<strong>note:</strong> a law was passed in March 2023 reducing the number of provinces to five: Buhumuza, Bujumbura, Burunga, Butanyerera, Gitega, with full implementation by 2025<br>
+5 provinces: Buhumuza, Bujumbura, Burunga, Butanyerera, Gitega<br>
 
 **Legal system**<br>
 mixed legal system of Belgian civil law and customary law<br>
@@ -345,10 +345,10 @@ _chamber name_: Senate (Inama Nkenguzamateka)<br>
 _number of seats_: 13 (all indirectly elected)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 7/20/2020<br>
-_parties elected and seats per party_: National Council for the Defense of Democracy - Front for the Defense of Democracy (CNDD-FDD) (34); Other (2)<br>
-_percentage of women in chamber_: 41%<br>
-_expected date of next election_: July 2025<br>
+_most recent election date_: 7/23/2025<br>
+_parties elected and seats per party_: National Council for the Defense of Democracy - Front for the Defense of Democracy (CNDD-FDD) (10)<br>
+_percentage of women in chamber_: 46.2%<br>
+_expected date of next election_: July 2030<br>
 <strong>note:</strong> 3 seats in the Senate are reserved for Twas, and 30% of all votes are reserved for women<br>
 
 **Judicial branch**<br>
@@ -383,8 +383,8 @@ ACP, AfDB, ATMIS, AU, CEMAC, CEPGL, CICA, COMESA, EAC, FAO, G-77, IBRD, ICAO, IC
 **National holiday**<br>
 Independence Day, 1 July (1962)<br>
 
-**Flag description**<br>
-divided by a white diagonal cross into red panels (top and bottom) and green panels (hoist side and fly side) with a white disk at the center bearing three red six-pointed stars outlined in green and arranged in a triangular design; green stands for hope and optimism, white for purity and peace, and red for the blood shed in the struggle for independence; the three stars in the disk represent the major ethnic groups (Hutu, Twa, Tutsi), as well as unity, work, and progress<br>
+**Flag**<br>
+<strong>description:</strong> divided by a white diagonal cross into red triangles (top and bottom) and green triangles (on each side) with a white disk at the center bearing three six-pointed red stars outlined in green and arranged in a triangular design<br><br><strong>meaning:</strong> green stands for hope and optimism, white for purity and peace, and red for the blood shed in the struggle for independence; the three stars represent the major ethnic groups (Hutu, Twa, Tutsi), as well as unity, work, and progress<br>
 
 **National symbol(s)**<br>
 lion<br>
@@ -493,8 +493,11 @@ _highest 10%_: 29.9% (2020 est.)<br>
 
 **Budget**<br>
 _revenues_: $713.694 million (2021 est.)<br>
-_expenditures_: $506.147 million (2021 est.)<br>
+_expenditures_: $737.898 million (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+48.4% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 15.6% (of GDP) (2021 est.)<br>
@@ -578,11 +581,6 @@ _imports_: 10,000 metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 6,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 838,000 metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 32,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 806,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 946,000 Btu/person (2023 est.)<br>
 
@@ -649,7 +647,7 @@ the National Defense Force (FDNB) is responsible for defending Burundi’s terri
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 87,157 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
-_IDPs_: 76,987 (some ethnic Tutsis remain displaced from intercommunal violence that broke out after the 1993 coup and fighting between government forces and rebel groups; violence since April 2015) (2023)<br>
-_stateless persons_: 767 (mid-year 2021)<br>
+_refugees_: 91,164 (2024 est.)<br>
+_IDPs_: 92,174 (2024 est.)<br>
+_stateless persons_: 791 (2024 est.)<br>
 

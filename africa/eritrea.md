@@ -159,17 +159,6 @@ _female_: 70.2 years<br>
 **Gross reproduction rate**<br>
 1.69 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
-**Drinking water source**<br>
-_improved: urban_: urban: 73.2% of population<br>
-_improved: rural_: rural: 53.3% of population<br>
-_improved: total_: total: 57.8% of population<br>
-_unimproved: urban_: urban: 26.8% of population<br>
-_unimproved: rural_: rural: 46.7% of population<br>
-_unimproved: total_: total: 42.2% of population (2015 est.)<br>
-
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.2% of GDP (2021)<br>
 _Health expenditure (as % of national budget)_: 2.4% of national budget (2022 est.)<br>
@@ -179,14 +168,6 @@ _Health expenditure (as % of national budget)_: 2.4% of national budget (2022 es
 
 **Hospital bed density**<br>
 1 beds/1,000 population (2020 est.)<br>
-
-**Sanitation facility access**<br>
-_improved: urban_: urban: 44.5% of population<br>
-_improved: rural_: rural: 7.3% of population<br>
-_improved: total_: total: 15.7% of population<br>
-_unimproved: urban_: urban: 55.5% of population<br>
-_unimproved: rural_: rural: 92.7% of population<br>
-_unimproved: total_: total: 84.3% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 5% (2016)<br>
@@ -235,21 +216,30 @@ _other_: 28.6% (2022 est.)<br>
 _urban population_: 43.3% of total population (2023)<br>
 _rate of urbanization_: 3.67% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 22.74 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.71 megatons (2016 est.)<br>
-_methane emissions_: 4.48 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 733,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 733,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+22.7 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 15.7 kt (2022-2024 est.)<br>
+_agriculture_: 117.4 kt (2019-2021 est.)<br>
+_waste_: 20.5 kt (2019-2021 est.)<br>
+_other_: 2.8 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 726,957 tons (2011 est.)<br>
+_municipal solid waste generated annually_: 727,000 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 6.8% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 30 million cubic meters (2020 est.)<br>
-_industrial_: 1 million cubic meters (2017 est.)<br>
-_agricultural_: 550 million cubic meters (2020 est.)<br>
+_municipal_: 31 million cubic meters (2022 est.)<br>
+_industrial_: 1 million cubic meters (2022 est.)<br>
+_agricultural_: 550 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-7.32 billion cubic meters (2020 est.)<br>
+7.315 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -327,7 +317,7 @@ _FAX_: [1] (202) 319-1304<br>
 _email address and website_: <br>embassyeritrea@embassyeritrea.org<br><br>https://us.embassyeritrea.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Leslie FRERIKSEN (since 18 July 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Christine E. MEYER (since July 2025)<br>
 _embassy_: 179 Alaa Street, Asmara<br>
 _mailing address_: 7170 Asmara Place, Washington DC&nbsp; 20521-7170<br>
 _telephone_: [291] (1) 12-00-04<br>
@@ -343,15 +333,18 @@ ACP, AfDB, AU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), IDA, IFAD, IFC, 
 **National holiday**<br>
 Independence Day, 24 May (1991)<br>
 
-**Flag description**<br>
-a red isosceles triangle (based on the hoist side) divides the flag into two right triangles; the upper triangle is green, the lower is blue; a gold wreath encircling a gold olive branch is centered on the hoist side of the red triangle; green stands for the country's agriculture economy, red for the blood shed in the fight for freedom, and blue for the sea's bounty; the shape of the red triangle mimics the shape of the country<br>
-<strong>note:</strong> one of four national flags that reflect the shape of the country in the flag design; the others are Bosnia and Herzegovina, Brazil, and Vanuatu<br>
+**Flag**<br>
+<strong>description:</strong> a red isosceles triangle (based on the left side) divides the flag into two right triangles; the upper triangle is green, the lower is blue; a gold wreath around a gold olive branch is on the left side of the red triangle<br><br><strong>meaning:</strong> green stands for the country's agriculture economy, red for the blood shed in the fight for freedom, and blue for the sea's bounty; the shape of the red triangle mimics the country's shape<br>
+<strong>note:</strong> one of four national flags that reflect the country's shape in the flag design; the others are Bosnia and Herzegovina, Brazil, and Vanuatu<br>
 
 **National symbol(s)**<br>
 camel<br>
 
 **National color(s)**<br>
 green, red, blue<br>
+
+**National coat of arms**<br>
+Eritrea adopted its coat of arms on May 24, 1993, when it won independence from Ethiopia; the camel was used to transport supplies and goods during the war, and it became a symbol of the country&rsquo;s success; the olive wreath represents peace, reconciliation, and harmony; under the camel is name of the country in its three official languages: Tigrinya, English, and Arabic<br>
 
 **National anthem(s)**<br>
 _title_: "Ertra, Ertra, Ertra" (Eritrea, Eritrea, Eritrea)<br>
@@ -367,19 +360,32 @@ _selected World Heritage Site locales_: Asmara: A Modernist African City<br>
 **Economic overview**<br>
 largely agrarian economy with a significant mining sector; substantial fiscal surplus due to tight controls; high and vulnerable debts; increased Ethiopian trade and shared port usage decreasing prices; financial and economic data integrity challenges<br>
 
+**Real GDP (purchasing power parity)**<br>
+$2.534 billion (2024 est.)<br>
+$2.465 billion (2023 est.)<br>
+$2.398 billion (2022 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
+
 **Real GDP growth rate**<br>
 5% (2017 est.)<br>
 1.9% (2016 est.)<br>
 2.6% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$1,600 (2017 est.)<br>
-$1,500 (2016 est.)<br>
-$1,500 (2015 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$700 (2024 est.)<br>
+$700 (2023 est.)<br>
+$700 (2022 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$5.813 billion (2017 est.)<br>
+$2.535 billion (2024 est.)<br>
+<strong>note:</strong> data in current dollars at official exchange rate<br>
+
+**Inflation rate (consumer prices)**<br>
+7.4% (2022 est.)<br>
+6.6% (2021 est.)<br>
+5.6% (2020 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
 
 **Agricultural products**<br>
 sorghum, milk, barley, vegetables, root vegetables, cereals, pulses, wheat, beef, maize (2023)<br>
@@ -408,6 +414,9 @@ _female_: 10.5% (2024 est.)<br>
 _revenues_: $633 million (2018 est.)<br>
 _expenditures_: $549 million (2018 est.)<br>
 
+**Public debt**<br>
+132.8% of GDP (2016 est.)<br>
+
 **Exports**<br>
 $624.3 million (2017 est.)<br>
 $485.4 million (2016 est.)<br>
@@ -420,6 +429,10 @@ China 67%, UAE 26%, Philippines 5%, Italy 1%, Croatia 1% (2023)<br>
 **Exports - commodities**<br>
 copper ore, zinc ore, gold, garments, liquor (2023)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
+
+**Imports**<br>
+$494.229 million (2010 est.)<br>
+$435.275 million (2009 est.)<br>
 
 **Imports - partners**<br>
 China 32%, UAE 27%, Turkey 9%, USA 7%, Italy 5% (2023)<br>
@@ -466,10 +479,6 @@ _wind_: 0.2% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 5,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 733,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 733,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 2.977 million Btu/person (2023 est.)<br>
@@ -549,6 +558,9 @@ the military’s primary responsibilities are external defense, border security,
 
 ## Transnational Issues
 
+**Refugees and internally displaced persons**<br>
+_refugees_: 119 (2024 est.)<br>
+
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 — Eritrea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore Eritrea remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/eritrea/<br>
+_tier rating_: Tier 3 — Eritrea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore Eritrea remained on Tier 3; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/eritrea/<br>
 

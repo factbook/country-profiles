@@ -171,17 +171,13 @@ _female_: 84.4 years<br>
 **Gross reproduction rate**<br>
 0.77 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-67% (2018)<br>
-<strong>note:</strong> percent of women aged 18-49<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 12.7% of GDP (2022)<br>
@@ -194,12 +190,12 @@ _Health expenditure (as % of national budget)_: 20.5% of national budget (2022 e
 7.8 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 22.3% (2016)<br>
@@ -255,23 +251,32 @@ _other_: 19.8% (2022 est.)<br>
 _urban population_: 77.8% of total population (2023)<br>
 _rate of urbanization_: 0.13% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 10.73 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 727.97 megatons (2016 est.)<br>
-_methane emissions_: 49.92 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 600.192 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 163.407 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 277.688 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 159.097 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+10.6 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 476.2 kt (2022-2024 est.)<br>
+_agriculture_: 1,197.8 kt (2019-2021 est.)<br>
+_waste_: 459 kt (2019-2021 est.)<br>
+_other_: 110 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 51.046 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 24,415,302 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 47.8% (2015 est.)<br>
+_municipal solid waste generated annually_: 50.628 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 49.8% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 10.4 billion cubic meters (2020 est.)<br>
-_industrial_: 17.68 billion cubic meters (2020 est.)<br>
-_agricultural_: 400 million cubic meters (2020 est.)<br>
+_municipal_: 10,712,619,000 cubic meters (2022 est.)<br>
+_industrial_: 14,005,279,000 cubic meters (2022 est.)<br>
+_agricultural_: 1,074,671,000 cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-154 billion cubic meters (2020 est.)<br>
+154 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 8<br>
@@ -360,7 +365,7 @@ _subordinate courts_: Federal Administrative Court; Federal Finance Court; Feder
 Alliance '90/Greens <br>Alternative for Germany or AfD <br>Christian Democratic Union or CDU <br>Christian Social Union or CSU <br>Free Democratic Party or FDP <br>Free Voters or FW<br>The Left or Die Linke <br>Social Democratic Party or SPD<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Axel DITTMANN (since 30 June 2025)<br>
+_chief of mission_: Ambassador Jens HANEFELD (since 5 September 2025)<br>
 _chancery_: 4645 Reservoir Road NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 298-4000<br>
 _FAX_: [1] (202) 298-4261<br>
@@ -385,8 +390,8 @@ ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), 
 **National holiday**<br>
 German Unity Day, 3 October (1990)<br>
 
-**Flag description**<br>
-three equal horizontal bands of black (top), red, and gold; the colors can be traced back to the medieval banner of the Holy Roman Emperor -- a black eagle with red claws and beak on a gold field<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of black (top), red, and gold<br><br><strong>history:</strong> the colors can be traced back to the medieval banner of the Holy Roman Emperor -- a black eagle with red claws and beak on a gold field<br>
 
 **National symbol(s)**<br>
 eagle<br>
@@ -394,8 +399,11 @@ eagle<br>
 **National color(s)**<br>
 black, red, yellow<br>
 
+**National coat of arms**<br>
+Germany’s coat of arms is the world’s oldest, said to date back to 1200, and uses the country’s national colors; it features the oldest European national symbol, an eagle known as the <em>Bundesadler</em> (Federal Eagle); the coat of arms has varied over time for military or political reasons, but the eagle has always been part of the design; the Federal Republic of Germany adopted this version in 1950<br>
+
 **National anthem(s)**<br>
-_title_: "Das Lied der Deutschen" (Song of the Germans)<br>
+_title_: &ldquo;Lied der Deutschen&rdquo;(Song of the Germans)<br>
 _lyrics/music_: August Heinrich HOFFMANN VON FALLERSLEBEN/Franz Joseph HAYDN<br>
 _history_: first adopted 1922; the anthem, also known as "Deutschlandlied" (Song of Germany), was originally adopted for its connection to the March 1848 liberal revolution; the Nazis later appropriated the first verse -- specifically the phrase "Deutschland, Deutschland ueber alles" (Germany, Germany above all) -- to promote nationalism, and the anthem was banned after 1945; in 1952, West Germany adopted the third verse as its national anthem; in 1990, it became the national anthem for the reunited Germany<br>
 
@@ -502,9 +510,9 @@ _highest 10%_: 25% (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $1.19 trillion (2022 est.)<br>
-_expenditures_: $1.31 trillion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $1.279 trillion (2023 est.)<br>
+_expenditures_: $1.369 trillion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 63.9% of GDP (2017 est.)<br>
@@ -604,12 +612,6 @@ _consumption_: 82.371 billion cubic meters (2023 est.)<br>
 _imports_: 74.989 billion cubic meters (2023 est.)<br>
 _proven reserves_: 23.39 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 600.192 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 163.407 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 277.688 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 159.097 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 120.457 million Btu/person (2023 est.)<br>
 
@@ -671,14 +673,14 @@ Federal Armed Forces (Bundeswehr): German Army (Deutsche Heer), German Navy (Deu
 <strong>note:</strong> responsibility for internal and border security is shared by the police forces of the 16 states, the Federal Criminal Police Office, and the Federal Police; the states’ police forces report to their respective interior ministries while the Federal Police forces report to the Federal Ministry of the Interior<br>
 
 **Military expenditures**<br>
-2.1% of GDP (2024 est.)<br>
-1.7% of GDP (2023)<br>
-1.5% of GDP (2022)<br>
-1.5% of GDP (2021)<br>
-1.5% of GDP (2020)<br>
+2% of GDP (2024 est.)<br>
+1.6% of GDP (2023 est.)<br>
+1.5% of GDP (2022 est.)<br>
+1.4% of GDP (2021 est.)<br>
+1.5% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 185,000 active-duty Armed Forces (62,000 Army; 16,000 Navy; 27,000 Air Force; 20,000 Medical Service, 14,000 Cyber and Information Space Command; 45,000 other, including central staff, support, logistics, etc.) (2024)<br>
+approximately 185,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of Federal Armed Forces is comprised of weapons systems produced domestically or jointly with other European countries and Western imports, particularly from the US; Germany's defense industry is capable of manufacturing the full spectrum of air, land, and naval military weapons systems, and Germany is one of the world's leading arms exporters; it also participates in joint defense production projects with the US and European partners (2024)<br>
@@ -697,13 +699,13 @@ the Bundeswehr’s core mission is the defense of Germany and its NATO partners;
 ## Space
 
 **Space agency/agencies**<br>
-German Aerospace Center (Deutsches Zentrum f&uuml;r Luft- und Raumfahrt, DLR; established 1997); predecessor organization, German Test and Research Institute for Aviation and Space Flight, was established in 1969; note &ndash; the Federal Republic of Germany was allowed to research space flight after gaining sovereignty in 1955 (2024)<br>
+German Aerospace Center (Deutsches Zentrum f&uuml;r Luft- und Raumfahrt, DLR; established 1997); predecessor organization, German Test and Research Institute for Aviation and Space Flight, was established in 1969; note &ndash; the Federal Republic of Germany was allowed to research space flight after gaining sovereignty in 1955 (2025)<br>
 
 **Space launch site(s)**<br>
-establishing a commercial ship-based launch pad 350 kms (217 miles) off the German coast in the remotest corner of its exclusive economic zone; each launch is to be supervised by a control ship and a multifunctional mission control center in Bremen, Germany; the launch ship will be based out of Bremerhaven (2024)<br>
+a commercial offshore launch platform that will operate from the North Sea is under development with both government and private funding (2025)<br>
 
 **Space program overview**<br>
-has one of Europe’s largest space programs; is a key member of the European Space Agency (ESA) and one of its largest contributors; builds and operates satellites, satellite/space launch vehicles (SLVs), space probes, unmanned orbiters, and reusable space planes; conducts research and develops a range of other space-related capabilities technologies, including satellite payloads (cameras, remote sensing, communications, optics, sensors, etc.), rockets and rocket propulsion, propulsion assisted landing technologies, and aeronautics; participates in ESA’s astronaut training program and human space flight operations and hosts the European Astronaut Center; participates in other international space programs, such as the International Space Station (ISS); hosts the mission control centers for the ISS and the ESA, as well as the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT); in addition to ESA/EU and their member states, has ties to a range of foreign space programs, including those of China, Japan, Russia, and the US; has a robust commercial space industry sector that develops a broad range of space capabilities, including satellite launchers, and cooperates closely with DLR, ESA, and other international commercial entities and government agencies (2024)<br>
+has one of Europe’s largest space programs; is a key member of the European Space Agency (ESA) and one of its largest contributors; builds and operates satellites, satellite/space launch vehicles (SLVs), space probes, and unmanned orbiters; conducts research and develops a range of other space-related capabilities and technologies, including reusable space planes, satellite payloads (cameras, remote sensing, communications, optics, sensors, etc.), rockets and rocket propulsion, propulsion assisted landing technologies, and aeronautics; participates in ESA’s astronaut training program and human space flight operations and hosts the European Astronaut Center; participates in other international space programs, such as the International Space Station (ISS); hosts the mission control centers for the ISS and the ESA, as well as the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT); in addition to ESA/EU and their member states, has ties to a range of foreign space programs, including those of China, Japan, Russia, and the US; has a robust commercial space industry sector that develops a broad range of space capabilities, including satellite launchers and reusable space craft, and cooperates closely with DLR, ESA, and other international commercial entities and government agencies (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -715,8 +717,9 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 1,139,690 (Ukraine) (as of 3 February 2024)<br>
-_stateless persons_: 28,941 (2022)<br>
+_refugees_: 3,098,169 (2024 est.)<br>
+_IDPs_: 100 (2023 est.)<br>
+_stateless persons_: 28,813 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major precursor-chemical producer (2025)<br>

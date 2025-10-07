@@ -170,16 +170,13 @@ _female_: 72.4 years<br>
 **Gross reproduction rate**<br>
 1.98 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-26.9% (2019)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 95.9% of population<br>
-_improved: rural_: rural: 79.3% of population<br>
-_improved: total_: total: 87.3% of population<br>
-_unimproved: urban_: urban: 4.1% of population<br>
-_unimproved: rural_: rural: 20.7% of population<br>
-_unimproved: total_: total: 12.7% of population (2020 est.)<br>
+_improved: urban_: urban: 95.9% of population (2022 est.)<br>
+_improved: rural_: rural: 77% of population (2022 est.)<br>
+_improved: total_: total: 86.2% of population (2022 est.)<br>
+_unimproved: urban_: urban: 4.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 23% of population (2022 est.)<br>
+_unimproved: total_: total: 13.8% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.4% of GDP (2021)<br>
@@ -192,12 +189,12 @@ _Health expenditure (as % of national budget)_: 3.4% of national budget (2022 es
 0.7 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 94.1% of population<br>
-_improved: rural_: rural: 55.5% of population<br>
-_improved: total_: total: 74.1% of population<br>
-_unimproved: urban_: urban: 5.9% of population<br>
-_unimproved: rural_: rural: 44.5% of population<br>
-_unimproved: total_: total: 25.9% of population (2020 est.)<br>
+_improved: urban_: urban: 95.3% of population (2022 est.)<br>
+_improved: rural_: rural: 60.1% of population (2022 est.)<br>
+_improved: total_: total: 77.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 4.7% of population (2022 est.)<br>
+_unimproved: rural_: rural: 39.9% of population (2022 est.)<br>
+_unimproved: total_: total: 22.6% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 8.8% (2016)<br>
@@ -263,21 +260,32 @@ _other_: 9.1% (2022 est.)<br>
 _urban population_: 49.6% of total population (2023)<br>
 _rate of urbanization_: 3.59% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 38.21 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 10.9 megatons (2016 est.)<br>
-_methane emissions_: 11.74 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 10.373 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 456,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 9.859 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 58,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+42.2 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 37 kt (2022-2024 est.)<br>
+_agriculture_: 258.5 kt (2019-2021 est.)<br>
+_waste_: 89.6 kt (2019-2021 est.)<br>
+_other_: 4.5 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2,454,059 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 2.454 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 11.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 260 million cubic meters (2020 est.)<br>
-_industrial_: 58 million cubic meters (2017 est.)<br>
-_agricultural_: 2.76 billion cubic meters (2020 est.)<br>
+_municipal_: 261 million cubic meters (2022 est.)<br>
+_industrial_: 1.416 million cubic meters (2022 est.)<br>
+_agricultural_: 2.759 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-38.97 billion cubic meters (2020 est.)<br>
+38.97 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -373,9 +381,9 @@ ACP, AfDB, AU, CD, CPLP (associate), ECOWAS, EITI (candidate country), FAO, FZ, 
 **National holiday**<br>
 Independence Day, 4 April (1960)<br>
 
-**Flag description**<br>
-three equal vertical bands of green (hoist side), yellow, and red, with a small green five-pointed star centered in the yellow band; green stands for Islam, progress, and hope, yellow for natural wealth and progress, and red for sacrifice and determination; the star represents unity and hope<br>
-<strong>note:</strong> uses the popular pan-African colors of Ethiopia; the colors from left to right are the same as Mali's flag and the reverse of Guinea's flag<br>
+**Flag**<br>
+<strong>description:</strong> three equal vertical bands of green (left side), yellow, and red, with a small five-pointed green star centered on the yellow band; green stands for Islam, progress, and hope, yellow for natural wealth and progress, and red for sacrifice and determination; the star represents unity and hope<br><br><strong>history:</strong> uses the colors of the Pan-African movement<br>
+<strong>note:</strong> the colors from left to right are the same as Mali's flag and the reverse of Guinea's flag<br>
 
 **National symbol(s)**<br>
 lion<br>
@@ -483,9 +491,12 @@ _highest 10%_: 28.8% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $6.423 billion (2022 est.)<br>
-_expenditures_: $6.424 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $7.749 billion (2023 est.)<br>
+_expenditures_: $9.267 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+47.8% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 19.5% (of GDP) (2023 est.)<br>
@@ -570,12 +581,6 @@ _refined petroleum consumption_: 65,000 bbl/day (2023 est.)<br>
 _production_: 34.646 million cubic meters (2023 est.)<br>
 _consumption_: 34.604 million cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 10.373 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 456,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 9.859 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 58,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 8.303 million Btu/person (2023 est.)<br>
 
@@ -658,10 +663,10 @@ the Senegalese military is responsible for both territorial defense and internal
 ## Space
 
 **Space agency/agencies**<br>
-Senegalese Space Study Agency (Agence S&eacute;n&eacute;galaise d'Etudes Spatiales or ASES; launched in 2023 under the Ministry of Higher Education, Research, and Innovation) (2024)<br>
+Senegalese Space Study Agency (Agence S&eacute;n&eacute;galaise d'Etudes Spatiales or ASES; launched in 2023 under the Ministry of Higher Education, Research, and Innovation) (2025)<br>
 
 **Space program overview**<br>
-small, nascent program focused on acquiring satellites, largely for socio-economic development and research; conducts research in such fields as astronomy and planetary sciences; has cooperated with the European Space Agency, and the space agencies of China, France, Turkey, and the US (2024)<br>
+small, nascent program focused on earth observation capabilities, largely for climate resilience, environmental management, research, and socio-economic development; conducts research in such fields as astronomy and planetary sciences; has cooperated with the European Space Agency, and the space agencies of China, France, Turkey, and the US (2025)<br>
 
 ## Terrorism
 
@@ -671,6 +676,6 @@ Jama&rsquo;at Nusrat al-Islam wal-Muslimin (JNIM)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,518 (Mauritania) (2023)<br>
-_IDPs_: 8,400 (2022)<br>
+_refugees_: 13,064 (2024 est.)<br>
+_IDPs_: 5,922 (2024 est.)<br>
 

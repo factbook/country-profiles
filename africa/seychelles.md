@@ -155,16 +155,9 @@ _female_: 81.1 years<br>
 **Gross reproduction rate**<br>
 0.89 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 96.2% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 3.8% of population (2017 est.)<br>
+_improved: total_: total: 96.4% of population (2022 est.)<br>
+_unimproved: total_: total: 3.6% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.3% of GDP (2021)<br>
@@ -177,12 +170,8 @@ _Health expenditure (as % of national budget)_: 10.2% of national budget (2022 e
 3.2 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 14% (2016)<br>
@@ -235,21 +224,22 @@ _other_: 23.4% (2022 est.)<br>
 _urban population_: 58.8% of total population (2023)<br>
 _rate of urbanization_: 0.99% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 16.96 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.61 megatons (2016 est.)<br>
-_methane emissions_: 0.1 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 893,000 metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 92 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 893,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+17.4 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 48,000 tons (2012 est.)<br>
+_municipal solid waste generated annually_: 48,000 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 24.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 10 million cubic meters (2020 est.)<br>
-_industrial_: 3.8 million cubic meters (2017 est.)<br>
-_agricultural_: 900,000 cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
+_municipal_: 9 million cubic meters (2022 est.)<br>
+_industrial_: 3.8 million cubic meters (2022 est.)<br>
+_agricultural_: 900,000 cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -342,8 +332,8 @@ ACP, AfDB, AOSIS, AU, C, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, 
 **National holiday**<br>
 Constitution Day, 18 June (1993); Independence Day (National Day), 29 June (1976)<br>
 
-**Flag description**<br>
-five oblique bands of blue (hoist side), yellow, red, white, and green (bottom), radiating from the bottom of the hoist side; the bands symbolize a dynamic new country moving into the future; blue stands for the sky and sea, yellow for the sun giving light and life, red for the people's determination to work for the future in unity and love, white for social justice and harmony, and green for the land and natural environment<br>
+**Flag**<br>
+<strong>description:</strong> five expanding bands of blue, yellow, red, white, and green, radiating from the bottom left corner<br><br><strong>meaning:</strong> the bands symbolize a dynamic new country moving into the future; blue stands for the sky and sea, yellow for the sun giving light and life, red for the people's determination to work for the future in unity and love, white for social justice and harmony, and green for the land and natural environment<br>
 
 **National symbol(s)**<br>
 coco de mer (sea coconut)<br>
@@ -439,9 +429,9 @@ _highest 10%_: 23.9% (2018 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $431.07 million (2020 est.)<br>
-_expenditures_: $611.548 million (2020 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $695.973 million (2023 est.)<br>
+_expenditures_: $728.171 million (2023 est.)<br>
+<b>note:</b> central government revenues and expenditures (excluding grants and social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 63.6% of GDP (2017 est.)<br>
@@ -519,11 +509,6 @@ _imports_: 500 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 6,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 893,000 metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 92 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 893,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 98.847 million Btu/person (2023 est.)<br>

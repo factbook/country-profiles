@@ -85,7 +85,7 @@ most of the population is found in the middle of the country between the states 
 tsunamis along the Pacific coast; volcanoes and destructive earthquakes in the center and south; hurricanes on the Pacific, Gulf of America, and Caribbean coasts <br><br><strong>volcanism:</strong> volcanic activity in the central-southern part of the country; the volcanoes in Baja California are mostly dormant; Colima (3,850 m) is Mexico's most active volcano and is responsible for periodic evacuations of nearby villagers; it has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Popocatepetl (5,426 m) poses a threat to Mexico City; other historically active volcanoes include Barcena, Ceboruco, El Chichon, Michoacan-Guanajuato, Pico de Orizaba, San Martin, Socorro, and Tacana; see note 2 under "Geography - note"<br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> strategic location on southern border of the US; Mexico is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire<br><br><strong>note 2: </strong>the Sac Actun cave system at 348 km (216 mi) is the longest underwater cave in the world and the second longest cave worldwide, after Mammoth Cave in the United States (see "Geography - note" under United States)<br><br><strong>note 3:</strong> the prominent Yucatán Peninsula that divides the Gulf of America from the Caribbean Sea is shared by Mexico, Guatemala, and Belize; on the northern coast of Yucatan near the town of Chicxulub lie the remnants of a massive asteroid or comet crater about 150 km (93 mi) in diameter and extending into the Gulf of America; the impact is believed to have initiated a worldwide climate disruption that caused a mass extinction of 75% of the earth's plant and animal species, including the non-avian dinosaurs</p><br>
+<strong>note 1:</strong> strategic location on southern border of the US; Mexico is one of the countries along the Ring of Fire, which is a belt bordering the Pacific Ocean that contains about 75% of the world's volcanoes and up to 90% of the world's earthquakes<br><br><strong>note 2: </strong>the Sac Actun cave system at 348 km (216 mi) is the longest underwater cave in the world and the second longest cave worldwide, after Mammoth Cave in the United States (see "Geography - note" under United States)<br><br><strong>note 3:</strong> the prominent Yucatán Peninsula that divides the Gulf of America from the Caribbean Sea is shared by Mexico, Guatemala, and Belize; on the northern coast of Yucatan near the town of Chicxulub lie the remnants of a massive asteroid or comet crater about 150 km (93 mi) in diameter and extending into the Gulf of America; the impact is believed to have initiated a worldwide climate disruption that caused a mass extinction of 75% of the earth's plant and animal species, including the non-avian dinosaurs<br>
 
 ## People and Society
 
@@ -176,16 +176,13 @@ _female_: 77.7 years<br>
 **Gross reproduction rate**<br>
 0.88 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-73.1% (2018)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 98.3% of population<br>
-_improved: total_: total: 99.7% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 1.7% of population<br>
-_unimproved: total_: total: 0.3% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 98.4% of population (2022 est.)<br>
+_improved: total_: total: 99.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.6% of population (2022 est.)<br>
+_unimproved: total_: total: 0.3% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6.1% of GDP (2021)<br>
@@ -198,12 +195,12 @@ _Health expenditure (as % of national budget)_: 10.4% of national budget (2022 e
 1 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: 96.4% of population<br>
-_improved: total_: total: 99.2% of population<br>
-_unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: 3.6% of population<br>
-_unimproved: total_: total: 0.8% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 98.2% of population (2022 est.)<br>
+_improved: total_: total: 99.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.8% of population (2022 est.)<br>
+_unimproved: total_: total: 0.3% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 28.9% (2016)<br>
@@ -269,23 +266,32 @@ _other_: 16.9% (2022 est.)<br>
 _urban population_: 81.6% of total population (2023)<br>
 _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 17.83 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 486.41 megatons (2016 est.)<br>
-_methane emissions_: 135.77 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 441.049 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 32.087 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 228.279 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 180.684 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+17.8 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 1,389 kt (2022-2024 est.)<br>
+_agriculture_: 2,372.1 kt (2019-2021 est.)<br>
+_waste_: 1,832.6 kt (2019-2021 est.)<br>
+_other_: 49.8 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 53.1 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 2.655 million tons (2013 est.)<br>
-_percent of municipal solid waste recycled_: 5% (2013 est.)<br>
+_municipal solid waste generated annually_: 53.1 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 9.6% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 13.17 billion cubic meters (2020 est.)<br>
-_industrial_: 8.56 billion cubic meters (2020 est.)<br>
-_agricultural_: 67.83 billion cubic meters (2020 est.)<br>
+_municipal_: 13.33 billion cubic meters (2022)<br>
+_industrial_: 7.953 billion cubic meters (2022)<br>
+_agricultural_: 68,523,000,000 cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-461.89 billion cubic meters (2020 est.)<br>
+461.888 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 2<br>
@@ -408,9 +414,8 @@ ACS, APEC, Australia Group, BCIE, BIS, CABEI, CAN (observer), Caricom (observer)
 **National holiday**<br>
 Independence Day, 16 September (1810)<br>
 
-**Flag description**<br>
-three equal vertical bands of green (hoist side), white, and red; Mexico's coat of arms (an eagle with a snake in its beak perched on a cactus) is centered in the white band; green stands for hope, joy, and love; white for peace and honesty; red for hardiness, bravery, strength, and valor<br>
-<strong>note:</strong> similar to the flag of Italy, which is shorter, has no emblem, and uses lighter shades of green and red<br>
+**Flag**<br>
+<strong>description:</strong> three equal vertical bands of green (left side), white, and red; Mexico's coat of arms (an eagle with a snake in its beak, perched on a cactus) is centered in the white band<br><br><strong>meaning:</strong> green stands for hope, joy, and love; white for peace and honesty; red for hardiness, bravery, strength, and valor<br>
 
 **National symbol(s)**<br>
 golden eagle, dahlia<br>
@@ -421,7 +426,7 @@ green, white, red<br>
 **National anthem(s)**<br>
 _title_: "Himno Nacional Mexicano" (National Anthem of Mexico)<br>
 _lyrics/music_: Francisco Gonzalez BOCANEGRA/Jaime Nuno ROCA<br>
-_history_: adopted 1943, in use since 1854; also known as "Mexicanos, al grito de Guerra" (Mexicans, to the War Cry); according to tradition, BOCANEGRA, an accomplished poet, did not want to submit lyrics to a national anthem contest, but his fianc&eacute;e locked him in a room and refused to release him until the lyrics were completed<br>
+_history_: adopted 1943<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 35 (27 cultural, 6 natural, 2 mixed)<br>
@@ -526,9 +531,9 @@ _highest 10%_: 34.4% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $282.751 billion (2022 est.)<br>
-_expenditures_: $327.211 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $342.571 billion (2023 est.)<br>
+_expenditures_: $417.843 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 45.1% of GDP (2023 est.)<br>
@@ -637,12 +642,6 @@ _exports_: 27.92 million cubic meters (2023 est.)<br>
 _imports_: 64.289 billion cubic meters (2023 est.)<br>
 _proven reserves_: 180.322 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 441.049 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 32.087 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 228.279 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 180.684 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 57.539 million Btu/person (2023 est.)<br>
 
@@ -727,10 +726,10 @@ the Mexican military is responsible for defending the independence, integrity, a
 ## Space
 
 **Space agency/agencies**<br>
-Mexican Space Agency (Agencia Espacial Mexicana or AEM; established 2010 and began operating in 2013) (2024)<br>
+Mexican Space Agency (Agencia Espacial Mexicana or AEM; established 2010 and began operating in 2013) (2025)<br>
 
 **Space program overview**<br>
-the AEM’s focus is on coordinating Mexico’s space policy and the country’s commercial space sector, including developing specialists, technologies, and infrastructure, and acquiring satellites; manufactures and operates communications and scientific satellites; conducts research in a range of space-related capabilities and technologies, including satellites and satellite payloads, telecommunications, remote sensing, robotics, Earth and weather sciences, astronomy, and astrophysics; has relations with a variety of foreign space agencies and commercial space industries, including those of Argentina, Brazil, Chile, the European Space Agency (ESA) and its member states (particularly France, Germany, and the UK), India, Peru, Russia, Ukraine, and the US; leading member of the Latin American and Caribbean Space Agency (ALCE) (2024)<br>
+has a national space policy with a focus on expanding Mexico's commercial space sector, including developing specialists, technologies, and infrastructure, and acquiring satellites; manufactures and operates communications and scientific satellites; conducts research in a range of space-related capabilities and technologies, including satellite payloads, telecommunications, remote sensing, robotics, Earth and weather sciences, astronomy, and astrophysics; has relations with a variety of foreign space agencies and commercial space industries, including those of Argentina, Brazil, Chile, the European Space Agency (ESA) and its member states (particularly France, Germany, and the UK), India, Japan, Peru, Russia, Ukraine, and the US; led effort to establish the Latin American and Caribbean Space Agency (ALCE) and hosts its headquarters (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -742,9 +741,9 @@ Gulf Cartel (CDG); Jalisco Cartel New Generation (CJNG); La Mara Salvatruche (MS
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 35,755 (Honduras), 13,531 (El Salvador) (mid-year 2022); 113,108 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2023)<br>
-_IDPs_: 386,000 (government's quashing of Zapatista uprising in 1994 in eastern Chiapas Region; drug cartel violence and government's military response since 2007; violence between and within indigenous groups) (2022)<br>
-_stateless persons_: 13 (2022)<br>
+_refugees_: 417,546 (2024 est.)<br>
+_IDPs_: 390,250 (2024 est.)<br>
+_stateless persons_: 13 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>

@@ -160,16 +160,13 @@ _female_: 79.9 years<br>
 **Gross reproduction rate**<br>
 0.83 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-18.8% (2016/17)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 99.6% of population<br>
-_unimproved: urban_: urban: 1% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0.4% of population (2020 est.)<br>
+_improved: urban_: urban: 99.1% of population (2022 est.)<br>
+_improved: rural_: rural: 99.9% of population (2022 est.)<br>
+_improved: total_: total: 99.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.1% of population (2022 est.)<br>
+_unimproved: total_: total: 0.4% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 10% of GDP (2021)<br>
@@ -182,12 +179,12 @@ _Health expenditure (as % of national budget)_: 18.2% of national budget (2022 e
 5 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 99.1% of population<br>
-_improved: total_: total: 99.5% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0.9% of population<br>
-_unimproved: total_: total: 0.5% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 8.6% (2016)<br>
@@ -253,21 +250,24 @@ _other_: 77.6% (2022 est.)<br>
 _urban population_: 42% of total population (2023)<br>
 _rate of urbanization_: 2.34% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 13 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 1.44 megatons (2016 est.)<br>
-_methane emissions_: 0.14 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 1.908 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.908 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+12.3 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 211,506 tons (2015 est.)<br>
+_municipal solid waste generated annually_: 211,500 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 20.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 10 million cubic meters (2020 est.)<br>
-_industrial_: 300,000 cubic meters (2017 est.)<br>
-_agricultural_: 0 cubic meters (2017 est.)<br>
+_municipal_: 5.6 million cubic meters (2022 est.)<br>
+_industrial_: 300,000 cubic meters (2022 est.)<br>
+_agricultural_: 268,194 cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-30 million cubic meters (2020 est.)<br>
+30 million cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -360,8 +360,8 @@ ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC,
 **National holiday**<br>
 Independence Day, 26 July (1965)<br>
 
-**Flag description**<br>
-red with a large green rectangle in the center and a vertical white crescent moon; red stand for those who have sacrificed their lives to defend the country, the green represents peace and prosperity, and the white crescent is a symbol of Islam<br>
+**Flag**<br>
+<strong>description:</strong> red with a large green rectangle in the center and a vertical white crescent moon centered on the rectangle<br><br><strong>meaning:</strong> red stands for those who have sacrificed their lives to defend the country, green for peace and prosperity, and the white crescent is a symbol of Islam<br>
 
 **National symbol(s)**<br>
 coconut palm, yellowfin tuna<br>
@@ -372,7 +372,7 @@ red, green, white<br>
 **National anthem(s)**<br>
 _title_: "Gaumee Salaam" (National Salute)<br>
 _lyrics/music_: Mohamed Jameel DIDI/Wannakuwattawaduge DON AMARADEVA<br>
-_history_: lyrics adopted 1948, music adopted 1972; between 1948 and 1972, the lyrics were sung to the tune of "Auld Lang Syne"<br>
+_history_: lyrics adopted 1948, music adopted 1972; the anthem has seven verses, but only the first two are commonly used<br>
 
 ## Economy
 
@@ -469,8 +469,11 @@ _highest 10%_: 23.3% (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $1.407 billion (2021 est.)<br>
-_expenditures_: $1.548 billion (2021 est.)<br>
+_expenditures_: $1.939 billion (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+61.7% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 19.5% (of GDP) (2021 est.)<br>
@@ -549,10 +552,6 @@ _imports_: 8 metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 13,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 1.908 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 1.908 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 50.886 million Btu/person (2023 est.)<br>
 
@@ -629,6 +628,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 ## Transnational Issues
 
+**Refugees and internally displaced persons**<br>
+_IDPs_: 54 (2023 est.)<br>
+
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — the Maldives did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/maldives/<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Maldives remained on Tier 2 Watch List for the second consecutive year; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/maldives/<br>
 

@@ -161,15 +161,9 @@ _female_: 85.2 years<br>
 **Gross reproduction rate**<br>
 0.79 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: total_: total: 99.5% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0.5% of population (2020 est.)<br>
+_improved: total_: total: 99.5% of population (2022 est.)<br>
+_unimproved: total_: total: 0.5% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 8.8% of GDP (2022)<br>
@@ -182,12 +176,8 @@ _Health expenditure (as % of national budget)_: 15% of national budget (2022 est
 4.2 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 99% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 1% of population (2020 est.)<br>
+_improved: total_: total: 99.2% of population (2022 est.)<br>
+_unimproved: total_: total: 0.8% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 20.2% (2016)<br>
@@ -240,23 +230,32 @@ _other_: 8.4% (2022 est.)<br>
 _urban population_: 56.1% of total population (2023)<br>
 _rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 14.08 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 12.63 megatons (2016 est.)<br>
-_methane emissions_: 2.1 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 10.772 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2.706 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 6.521 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 1.545 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+14.1 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 8.5 kt (2022-2024 est.)<br>
+_agriculture_: 46.5 kt (2019-2021 est.)<br>
+_waste_: 15.6 kt (2019-2021 est.)<br>
+_other_: 1.9 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 926,000 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 430,034 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 46.4% (2015 est.)<br>
+_municipal solid waste generated annually_: 1.052 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 24.8% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 170 million cubic meters (2020 est.)<br>
-_industrial_: 830 million cubic meters (2020 est.)<br>
-_agricultural_: 3.9 million cubic meters (2017 est.)<br>
+_municipal_: 179 million cubic meters (2022)<br>
+_industrial_: 645 million cubic meters (2022)<br>
+_agricultural_: 3.4 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-31.87 billion cubic meters (2020 est.)<br>
+31.87 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 2<br>
@@ -354,7 +353,7 @@ _email address and website_: <br>sloembassy.washington@gov.si<br><br>http://www.
 _consulate(s) general_: Cleveland (OH)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Melania ARREAGA (since 31 July 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Brian GREANEY (since August 2025)<br>
 _embassy_: Presernova 31, 1000 Ljubljana<br>
 _mailing address_: 7140 Ljubljana Place, Washington, DC 20521-7140<br>
 _telephone_: [386] (1) 200-5500<br>
@@ -370,8 +369,8 @@ Australia Group, BIS, CD, CE, CEI, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating s
 **National holiday**<br>
 Independence Day/Statehood Day, 25 June (1991)<br>
 
-**Flag description**<br>
-three equal horizontal bands of white (top), blue, and red that come from the medieval coat of arms of the Duchy of Carniola; the Slovenian seal (a shield with Triglav, Slovenia's highest peak, in white on a blue background) is at the center, with two wavy blue lines under it to represent seas and rivers; three six-pointed stars in an inverted triangle appear on the upper hoist side of the flag and are taken from the coat of arms of the Counts of Celje (a Slovene dynastic house)<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of white (top), blue, and red; the Slovenian seal (a shield with Triglav, the country's highest peak, in white on a blue background) is at the center, with two wavy blue lines under it; three six-pointed stars in an inverted triangle appear on the upper-left<br><br><strong>meaning:</strong> the wavy lines represent seas and rivers;<strong> </strong>the colors come from the medieval coat of arms of the Duchy of Carniola; the stars come from the coat of arms of the Counts of Celje (a Slovene dynastic house)<br>
 
 **National symbol(s)**<br>
 Mount Triglav<br>
@@ -382,7 +381,7 @@ white, blue, red<br>
 **National anthem(s)**<br>
 _title_: "Zdravljica" (A Toast)<br>
 _lyrics/music_: France PRESEREN/Stanko PREMRL<br>
-_history_: adopted in 1989 while still part of Yugoslavia; originally written in 1848; the full poem, whose seventh verse is used as the anthem, speaks of pan-Slavic nationalism<br>
+_history_: adopted in 1989; originally written in 1848; only the seventh verse of the poem is used as the anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>
@@ -487,9 +486,9 @@ _highest 10%_: 20.7% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $23.529 billion (2022 est.)<br>
-_expenditures_: $24.369 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $28.874 billion (2023 est.)<br>
+_expenditures_: $30.714 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 73.6% of GDP (2017 est.)<br>
@@ -588,12 +587,6 @@ _consumption_: 811.395 million cubic meters (2023 est.)<br>
 _exports_: 11.387 million cubic meters (2018 est.)<br>
 _imports_: 810.948 million cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 10.772 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 2.706 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 6.521 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 1.545 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 104.502 million Btu/person (2023 est.)<br>
 
@@ -653,14 +646,14 @@ _key ports_: Koper, Piran<br>
 Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force with air, land, maritime, and special operations components<br><br>Ministry of Interior: National Police (2025)<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2024 est.)<br>
-1.3% of GDP (2023)<br>
-1.3% of GDP (2022)<br>
-1.2% of GDP (2021)<br>
-1% of GDP (2020)<br>
+2% of GDP (2025 est.)<br>
+1.4% of GDP (2024 est.)<br>
+1.3% of GDP (2023 est.)<br>
+1.3% of GDP (2022 est.)<br>
+1.2% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 6,000 active Armed Forces (2024)<br>
+approximately 6,000 active military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix of Soviet-era and smaller quantities of more modern, mostly Western equipment; in recent years, Slovenia has begun a modernization program and imported growing amounts of NATO-standard European and US equipment (2024)<br>
@@ -679,7 +672,7 @@ the Slovenian Armed Forces (Slovenska Vojska or SV) are responsible for the defe
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,035 (Ukraine) (as of 1 March 2024)<br>
-_stateless persons_: 10 (2020)<br>
-<strong>note: </strong> 634,128 estimated refugee and migrant arrivals (January 2015-February 2024)<br>
+_refugees_: 13,369 (2024 est.)<br>
+_IDPs_: 10 (2023 est.)<br>
+_stateless persons_: 10 (2024 est.)<br>
 

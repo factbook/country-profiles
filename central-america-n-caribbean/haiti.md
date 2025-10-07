@@ -163,16 +163,13 @@ _female_: 67.4 years<br>
 **Gross reproduction rate**<br>
 1.21 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-34.3% (2016/17)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 91.9% of population<br>
-_improved: rural_: rural: 56.1% of population<br>
-_improved: total_: total: 76.5% of population<br>
-_unimproved: urban_: urban: 8.1% of population<br>
-_unimproved: rural_: rural: 43.9% of population<br>
-_unimproved: total_: total: 23.5% of population (2020 est.)<br>
+_improved: urban_: urban: 84.6% of population (2022 est.)<br>
+_improved: rural_: rural: 42.8% of population (2022 est.)<br>
+_improved: total_: total: 67.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 15.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 57.2% of population (2022 est.)<br>
+_unimproved: total_: total: 32.6% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 3.5% of GDP (2021)<br>
@@ -185,12 +182,12 @@ _Health expenditure (as % of national budget)_: 4.1% of national budget (2022 es
 4.8 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 82.9% of population<br>
-_improved: rural_: rural: 42.6% of population<br>
-_improved: total_: total: 65.6% of population<br>
-_unimproved: urban_: urban: 17.1% of population<br>
-_unimproved: rural_: rural: 57.4% of population<br>
-_unimproved: total_: total: 34.4% of population (2020 est.)<br>
+_improved: urban_: urban: 82.9% of population (2022 est.)<br>
+_improved: rural_: rural: 42.6% of population (2022 est.)<br>
+_improved: total_: total: 66.3% of population (2022 est.)<br>
+_unimproved: urban_: urban: 17.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 57.4% of population (2022 est.)<br>
+_unimproved: total_: total: 33.7% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 22.7% (2016)<br>
@@ -251,21 +248,25 @@ _other_: 22.5% (2022 est.)<br>
 _urban population_: 59.7% of total population (2023)<br>
 _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 9.69 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 2.98 megatons (2016 est.)<br>
-_methane emissions_: 6.12 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 2.854 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.848 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 6,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+9.8 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2,309,852 tons (2015 est.)<br>
+_municipal solid waste generated annually_: 2.31 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 9.1% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 190 million cubic meters (2020 est.)<br>
-_industrial_: 50 million cubic meters (2020 est.)<br>
-_agricultural_: 1.21 billion cubic meters (2020 est.)<br>
+_municipal_: 190 million cubic meters (2022 est.)<br>
+_industrial_: 51 million cubic meters (2022 est.)<br>
+_agricultural_: 1.209 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-14.02 billion cubic meters (2020 est.)<br>
+14.022 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -363,7 +364,7 @@ _email address and website_: <br>amb.washington@diplomatie.ht<br><br>https://www
 _consulate(s) general_: Atlanta, Boston, Chicago, Miami, Orlando (FL), New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Dennis HANKINS (since 3 May 2024) <br><br>
+_chief of mission_: Ambassador (vacant); Chargé d’Affaires Henry T. WOOSTER (since 12 June 2025) <br><br>
 _embassy_: Tabarre 41, Route de Tabarre, Port-au-Prince<br>
 _mailing address_: 3400 Port-au-Prince Place, Washington, DC 20521-3400<br>
 _telephone_: [011] (509) 2229-8000<br>
@@ -379,8 +380,8 @@ ACP, ACS, AOSIS, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC
 **National holiday**<br>
 Independence Day, 1 January (1804)<br>
 
-**Flag description**<br>
-two equal horizontal bands of blue (top) and red with a centered white rectangle bearing the coat of arms, which has a palm tree flanked by flags and two cannons above a scroll with the motto L'UNION FAIT LA FORCE (Union Makes Strength); the colors are taken from the French flag and represent the union of ethnic groups<br>
+**Flag**<br>
+<strong>description:</strong> two equal horizontal bands of blue (top) and red; a centered white rectangle bears the coat of arms, which has a palm tree flanked by flags and two cannons above a scroll with the motto L'UNION FAIT LA FORCE (Union Makes Strength)<br><br><strong>meaning:</strong> the colors are taken from the French flag and represent the union of ethnic groups<br>
 
 **National symbol(s)**<br>
 Hispaniolan trogon (bird), hibiscus flower<br>
@@ -391,7 +392,7 @@ blue, red<br>
 **National anthem(s)**<br>
 _title_: "La Dessalinienne" (The Dessalines Song)<br>
 _lyrics/music_: Justin LHERISSON/Nicolas GEFFRARD<br>
-_history_: adopted 1904; named for Jean-Jacques DESSALINES, a leader in the Haitian Revolution and first ruler of independent Haiti<br>
+_history_: adopted 1904; named for Jean-Jacques DESSALINES, founder of Haiti<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -482,6 +483,9 @@ _female_: 47.1% (2024 est.)<br>
 _revenues_: $1.179 billion (2020 est.)<br>
 _expenditures_: $1.527 billion (2020 est.)<br>
 
+**Public debt**<br>
+33.9% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 -$682.57 million (2023 est.)<br>
 -$491.954 million (2022 est.)<br>
@@ -561,11 +565,6 @@ _refined petroleum consumption_: 19,000 bbl/day (2023 est.)<br>
 _consumption_: 3.2 million cubic meters (2023 est.)<br>
 _imports_: 3.2 million cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 2.854 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 2.848 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 6,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 3.486 million Btu/person (2023 est.)<br>
 
@@ -643,8 +642,8 @@ Gran Grif; Viv Ansanm<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 362,551 (violence among armed gangs in primarily in the metropolitan area of Port-au-Prince) (2024)<br>
-_stateless persons_: 2,992 (2018); note - individuals without a nationality who were born in the Dominican Republic prior to January 2010<br>
+_refugees_: 5 (2024 est.)<br>
+_IDPs_: 1,041,229 (2024 est.)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Special Category<br>

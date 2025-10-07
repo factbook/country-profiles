@@ -147,23 +147,6 @@ _female_: 86.4 years<br>
 **Gross reproduction rate**<br>
 0.77 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
-**Drinking water source**<br>
-_improved: total_: total: 94.2% of population<br>
-_unimproved: total_: total: 5.9% of population (2017 est.)<br>
-<strong>note</strong>: includes data for Jersey<br>
-
-**Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 98% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 1.2% of population (2017)<br>
-<strong>note:</strong> data represent Guernsey and Jersey<br>
-
 ## Environment
 
 **Environmental issues**<br>
@@ -186,8 +169,7 @@ _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Guernsey and Jersey<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 178,933 tons (2016 est.)<br>
-_municipal solid waste recycled annually_: 50,871 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 178,900 tons (2024 est.)<br>
 _percent of municipal solid waste recycled_: 28.4% (2016 est.)<br>
 <strong>note:</strong> data include combined totals for Guernsey and Jersey.<br>
 
@@ -213,7 +195,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: named for the patron saint of fishermen; "port" distinguishes it from the Saint Peter (sometimes called Saint Peter in the Wood) on the other side of the island<br>
 
 **Administrative divisions**<br>
-none (British Crown dependency); there are no first-order administrative divisions as defined by the US government, but there are 10 parishes: Castel, Forest, Saint Andrew, Saint Martin, Saint Peter Port, Saint Pierre du Bois, Saint Sampson, Saint Saviour, Torteval, Vale<br>
+none (British Crown dependency); no first-order administrative divisions as defined by the US government, but 10 parishes: Castel, Forest, Saint Andrew, Saint Martin, Saint Peter Port, Saint Pierre du Bois, Saint Sampson, Saint Saviour, Torteval, Vale<br>
 <strong>note:</strong> two additional parishes for Guernsey are sometimes listed -- Saint Anne on the island of Alderney and Saint Peter on the island of Sark<br>
 
 **Legal system**<br>
@@ -276,8 +258,8 @@ none (British Crown dependency)<br>
 **National holiday**<br>
 Liberation Day, 9 May (1945)<br>
 
-**Flag description**<br>
-white with the red cross of Saint George (patron saint of England) extending to the edges of the flag and a yellow equal-armed cross of William the Conqueror superimposed on the Saint George cross; the red cross represents Guernsey's status as a British Crown dependency; the gold cross is a replica of the one William the Conqueror carried at the Battle of Hastings in 1066<br>
+**Flag**<br>
+<strong>description:</strong> white with the red cross of Saint George (patron saint of England) extending to the edges of the flag and a yellow equal-armed cross of William the Conqueror on top of the Saint George cross<br><br><strong>meaning:</strong> the red cross represents Guernsey's status as a British Crown dependency <br><br><strong>history:</strong> the gold cross is a replica of the one William the Conqueror carried at the Battle of Hastings in 1066<br>
 
 **National symbol(s)**<br>
 Guernsey cow, donkey<br>

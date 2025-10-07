@@ -166,16 +166,13 @@ _female_: 66.6 years<br>
 **Gross reproduction rate**<br>
 2.36 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-10.9% (2018)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.5% of population<br>
-_improved: rural_: rural: 76.9% of population<br>
-_improved: total_: total: 85.2% of population<br>
-_unimproved: urban_: urban: 0.5% of population<br>
-_unimproved: rural_: rural: 23.1% of population<br>
-_unimproved: total_: total: 14.8% of population (2020 est.)<br>
+_improved: urban_: urban: 92% of population (2022 est.)<br>
+_improved: rural_: rural: 59% of population (2022 est.)<br>
+_improved: total_: total: 71.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 8% of population (2022 est.)<br>
+_unimproved: rural_: rural: 41% of population (2022 est.)<br>
+_unimproved: total_: total: 28.5% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 3.8% of GDP (2021)<br>
@@ -185,12 +182,12 @@ _Health expenditure (as % of national budget)_: 5% of national budget (2022 est.
 0.21 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 90.9% of population<br>
-_improved: rural_: rural: 38.7% of population<br>
-_improved: total_: total: 58% of population<br>
-_unimproved: urban_: urban: 9.1% of population<br>
-_unimproved: rural_: rural: 61.3% of population<br>
-_unimproved: total_: total: 42% of population (2020 est.)<br>
+_improved: urban_: urban: 95.6% of population (2022 est.)<br>
+_improved: rural_: rural: 39.4% of population (2022 est.)<br>
+_improved: total_: total: 60.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 4.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 60.6% of population (2022 est.)<br>
+_unimproved: total_: total: 39.4% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 7.7% (2016)<br>
@@ -251,15 +248,17 @@ _other_: 5.2% (2022 est.)<br>
 _urban population_: 38.1% of total population (2023)<br>
 _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 37.57 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 3 megatons (2016 est.)<br>
-_methane emissions_: 11.13 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 4.505 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 1,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 4.504 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+34.2 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 596,911 tons (1996 est.)<br>
-_municipal solid waste recycled annually_: 29,846 tons (2005 est.)<br>
-_percent of municipal solid waste recycled_: 5% (2005 est.)<br>
+_municipal solid waste generated annually_: 596,900 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 23.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 230 million cubic meters (2020 est.)<br>
@@ -311,7 +310,7 @@ _residency requirement for naturalization_: na<br>
 
 **Executive branch**<br>
 _chief of state_: Interim President Col. Mamady DOUMBOUYA (since 1 October 2021)<br>
-_head of government_: Prime Minister Mamadou Oury BAH (since 27 February 2024)<br>
+_head of government_: Prime Minister Amadou Oury BAH (since 27 February 2024)<br>
 _cabinet_: formerly the Council of Ministers appointed by the president<br>
 _election/appointment process_: formerly, the president was directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term), and the prime minister was appointed by the president<br>
 _most recent election date_: 18 October 2020<br>
@@ -346,7 +345,7 @@ _email address and website_: <br>http://guineaembassyusa.org/en/welcome-to-the-e
 _consulate(s)_: Los Angelos<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Troy Damian FITRELL (since January 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Mary E. DASCHBACH (since 15 July 2025)<br>
 _embassy_: Transversale No. 2, Centre Administratif de Koloma, Commune de Ratoma, Conakry<br>
 _mailing address_: 2110 Conakry Place, Washington DC&nbsp; 20521-2110<br>
 _telephone_: [224] 65-10-40-00<br>
@@ -362,9 +361,9 @@ ACP, AfDB, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB
 **National holiday**<br>
 Independence Day, 2 October (1958)<br>
 
-**Flag description**<br>
-three equal vertical bands of red (hoist side), yellow, and green; red stands for the people's sacrifice for liberation and work; yellow for the sun, the riches of the earth, and justice; green for the country's vegetation and unity<br>
-<strong>note:</strong> uses the popular pan-African colors of Ethiopia; the colors from left to right are the reverse of those on the flags of neighboring Mali and Senegal<br>
+**Flag**<br>
+<strong>description: </strong>three equal vertical bands of red (left side), yellow, and green<br><br><strong>meaning:</strong> red stands for the people's sacrifice for liberation and work; yellow for the sun, the riches of the earth, and justice; green for the country's vegetation and unity<br><br><strong>history:</strong> uses the colors of the Pan-African movement<br>
+<strong>note:</strong> the colors from left to right are the reverse of those on the flags of neighboring Mali and Senegal<br>
 
 **National symbol(s)**<br>
 elephant<br>
@@ -479,6 +478,9 @@ _highest 10%_: 23.1% (2018 est.)<br>
 _revenues_: $1.949 billion (2019 est.)<br>
 _expenditures_: $2.014 billion (2019 est.)<br>
 
+**Public debt**<br>
+41.8% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 $2.288 billion (2023 est.)<br>
 $3.35 billion (2022 est.)<br>
@@ -553,11 +555,6 @@ _imports_: 400 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 32,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 4.505 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 1,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 4.504 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 5.235 million Btu/person (2023 est.)<br>
@@ -640,4 +637,8 @@ the Guinean military's inventory consists almost entirely of Soviet-era weapons 
 the Guinean military is responsible for territorial defense, but also has some domestic security responsibilities and has historically been involved in suppressing public protests; in 2021 the Army&rsquo;s special forces led a military overthrow of the government; the military-led government has since been accused of cracking down on dissent, the media, and political opposition; border security is a key focus for the Guinean military, particularly a territorial dispute with Sierra Leone that dates back to 2001 (2025)<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 2,343 (2024 est.)<br>
+_IDPs_: 5,160 (2024 est.)<br>
 

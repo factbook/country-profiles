@@ -157,15 +157,11 @@ _female_: 81.3 years<br>
 **Gross reproduction rate**<br>
 0.85 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.7% of population<br>
-_improved: total_: total: 99.9% of population<br>
+_improved: total_: total: 99.9% of population (2022 est.)<br>
 _unimproved: urban_: urban: 0.4% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0.1% of population (2020)<br>
+_unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 2.2% of GDP (2021)<br>
@@ -178,12 +174,8 @@ _Health expenditure (as % of national budget)_: 6.4% of national budget (2022 es
 3.9 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA<br>
+_improved: total_: total: 99.5% of population (2022 est.)<br>
+_unimproved: total_: total: 0.5% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 14.1% (2016)<br>
@@ -236,20 +228,31 @@ _other_: 25.4% (2022 est.)<br>
 _urban population_: 79.1% of total population (2023)<br>
 _rate of urbanization_: 1.44% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 6.86 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 7.66 megatons (2016 est.)<br>
-_methane emissions_: 8.4 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 10.823 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 998,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 2.175 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 7.65 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+7.4 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 50.5 kt (2022-2024 est.)<br>
+_agriculture_: 0.9 kt (2019-2021 est.)<br>
+_waste_: 9.2 kt (2019-2021 est.)<br>
+_other_: 0.3 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 216,253 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 216,300 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 20% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 150 million cubic meters (2020 est.)<br>
-_agricultural_: 10 million cubic meters (2020 est.)<br>
+_municipal_: 151.5 million cubic meters (2022 est.)<br>
+_agricultural_: 5.3 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-8.5 billion cubic meters (2020 est.)<br>
+8.5 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -347,8 +350,8 @@ ADB, APEC, ARF, ASEAN, C, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM
 National Day, 23 February (1984)<br>
 <strong>note:</strong> 1 January 1984 was the date of independence from the UK, 23 February 1984 was the date of independence from British protection; the Sultan's birthday, 15 June<br>
 
-**Flag description**<br>
-yellow with two diagonal bands of white and black starting from the upper hoist side; the national emblem in red is at the center; yellow symbolizes the sultanate, and the white and black bands stand for the chief ministers; the emblem includes a swallow-tailed flag, a royal umbrella representing the monarchy, two wings with four feathers (justice, tranquility, prosperity, and peace), two upraised hands signifying the government's pledge to preserve and promote the welfare of the people, and the&nbsp; crescent moon of Islam (the state religion); the state motto "Always render service with God's guidance" appears in yellow Arabic script on the crescent; a ribbon below the crescent reads "Brunei, the Abode of Peace"<br>
+**Flag**<br>
+<strong>description:</strong> yellow with a diagonal white band and second below it in black, both starting from the upper left; the national emblem in red is at the center; the state motto, "Always render service with God's guidance," appears in yellow Arabic script on the emblem's crescent; a ribbon below the crescent reads "Brunei, the Abode of Peace"<br><br><strong>meaning:</strong> yellow symbolizes the sultanate, and the white and black bands stand for the chief ministers; the emblem includes a royal umbrella (the monarchy), two wings with four feathers (justice, tranquility, prosperity, and peace), two upraised hands (the government's pledge to preserve and promote the people's welfare), and the crescent moon of Islam (the state religion) <br>
 
 **National symbol(s)**<br>
 royal parasol<br>
@@ -448,7 +451,7 @@ _expenditures_: $3.189 billion (2020 est.)<br>
 
 **Public debt**<br>
 2.8% of GDP (2017 est.)<br>
-<strong data-olk-copy-source="MessageBody">note:</strong> central government debt as a % of GDP<br>
+<strong>note:</strong> central government debt as a % of GDP<br>
 
 **Current account balance**<br>
 $2.23 billion (2024 est.)<br>
@@ -526,12 +529,6 @@ _production_: 10.093 billion cubic meters (2023 est.)<br>
 _consumption_: 3.911 billion cubic meters (2023 est.)<br>
 _exports_: 5.733 billion cubic meters (2023 est.)<br>
 _proven reserves_: 260.515 billion cubic meters (2021 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 10.823 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 998,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 2.175 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 7.65 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 403.365 million Btu/person (2023 est.)<br>
@@ -612,8 +609,8 @@ the Royal Brunei Armed Forces (RBAF) are responsible for ensuring the country’
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 20,863 (2022); note - thousands of stateless persons, often ethnic Chinese, are permanent residents and their families have lived in Brunei for generations; obtaining citizenship is difficult and requires individuals to pass rigorous tests on Malay culture, customs, and language; stateless residents receive an International Certificate of Identity, which enables them to travel overseas; the government is considering changing the law prohibiting non-Bruneians, including stateless permanent residents, from owning land<br>
+_stateless persons_: 20,863 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 — Brunei does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Brunei was downgraded to Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/brunei/<br>
+_tier rating_: Tier 2 Watch List — Brunei does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so, therefore Brunei was upgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/brunei/<br>
 

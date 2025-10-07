@@ -168,16 +168,13 @@ _female_: 79 years<br>
 **Gross reproduction rate**<br>
 1.33 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.6% of population<br>
-_improved: rural_: rural: 96.1% of population<br>
-_improved: total_: total: 97.8% of population<br>
-_unimproved: urban_: urban: 0.4% of population<br>
-_unimproved: rural_: rural: 3.9% of population<br>
-_unimproved: total_: total: 2.2% of population (2020 est.)<br>
+_improved: urban_: urban: 98% of population (2022 est.)<br>
+_improved: rural_: rural: 95.2% of population (2022 est.)<br>
+_improved: total_: total: 96.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 4.8% of population (2022 est.)<br>
+_unimproved: total_: total: 3.4% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 7.7% of GDP (2021)<br>
@@ -190,12 +187,12 @@ _Health expenditure (as % of national budget)_: 7.1% of national budget (2022 es
 4.9 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 98.1% of population (2022 est.)<br>
+_improved: rural_: rural: 98.7% of population (2022 est.)<br>
+_improved: total_: total: 98.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.3% of population (2022 est.)<br>
+_unimproved: total_: total: 1.6% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 16.6% (2016)<br>
@@ -260,21 +257,32 @@ _other_: 33.5% (2022 est.)<br>
 _urban population_: 50.5% of total population (2023)<br>
 _rate of urbanization_: 1.25% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 40.98 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 91.81 megatons (2016 est.)<br>
-_methane emissions_: 96.16 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 110.992 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 12.845 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 13.437 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 84.71 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+46.6 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 848.1 kt (2022-2024 est.)<br>
+_agriculture_: 868.1 kt (2019-2021 est.)<br>
+_waste_: 261.3 kt (2019-2021 est.)<br>
+_other_: 4.5 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 4 million tons (2016 est.)<br>
+_municipal solid waste generated annually_: 4 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 31.6% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 2.41 billion cubic meters (2020 est.)<br>
-_industrial_: 2.13 billion cubic meters (2020 est.)<br>
-_agricultural_: 54.36 billion cubic meters (2020 est.)<br>
+_municipal_: 2.3 billion cubic meters (2022)<br>
+_industrial_: 1.2 billion cubic meters (2022)<br>
+_agricultural_: 41 billion cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-48.87 billion cubic meters (2020 est.)<br>
+48.87 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -385,8 +393,8 @@ ADB, CICA, CIS, EAEU (observer), EAPC, EBRD, ECO, EEU (observer), FAO, IAEA, IBR
 **National holiday**<br>
 Independence Day, 1 September (1991)<br>
 
-**Flag description**<br>
-three equal horizontal bands of blue (top), white, and green separated by narrow red stripes with a vertical white crescent moon and 12 five-pointed white stars shifted to the hoist on the top band; blue stands for the Turkic peoples and the sky, white for peace and the striving for purity in thoughts and deeds, and green for nature and Islam; the red stripes represent the vital force of all living organisms; the crescent represents Islam and the 12 stars the months and constellations of the Uzbek calendar<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of blue (top), white, and green separated by narrow red stripes with a vertical white crescent moon and 12 five-pointed white stars in the left corner of the top band<br><br><strong>meaning:</strong> blue stands for the Turkic peoples and the sky, white for peace and the striving for purity in thoughts and deeds, and green for nature and Islam; the red stripes represent the vital force of all living organisms; the crescent stands for Islam, and the 12 stars for the months and constellations of the Uzbek calendar<br>
 
 **National symbol(s)**<br>
 khumo (mythical bird)<br>
@@ -493,7 +501,7 @@ _on alcohol and tobacco_: 3.2% of household expenditures (2023 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1% (2023 est.)<br>
 _highest 10%_: 25.3% (2023 est.)<br>
-% share of income accruing to lowest and highest 10% of population<br>
+<strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 14.4% of GDP (2024 est.)<br>
@@ -502,9 +510,12 @@ _highest 10%_: 25.3% (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $20.578 billion (2022 est.)<br>
-_expenditures_: $20.79 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $21.565 billion (2023 est.)<br>
+_expenditures_: $25.953 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+10.5% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 11.5% (of GDP) (2023 est.)<br>
@@ -598,12 +609,6 @@ _exports_: 1.308 billion cubic meters (2023 est.)<br>
 _imports_: 2.514 billion cubic meters (2023 est.)<br>
 _proven reserves_: 1.841 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 110.992 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 12.845 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 13.437 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 84.71 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 55.305 million Btu/person (2023 est.)<br>
 
@@ -689,6 +694,6 @@ Islamic Jihad Union (IJU); Islamic Movement of Uzbekistan (IMU); Islamic State o
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 13,031 (Afghanistan) (mid-year 2022)<br>
-_stateless persons_: 31,829 (2022)<br>
+_refugees_: 8,505 (2024 est.)<br>
+_stateless persons_: 20,000 (2024 est.)<br>
 

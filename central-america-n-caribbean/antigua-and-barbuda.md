@@ -157,12 +157,13 @@ _female_: 80.5 years<br>
 **Gross reproduction rate**<br>
 0.94 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: total_: total: 96.7% of population<br>
-_unimproved: total_: total: 3.2% of population (2017 est.)<br>
+_improved: urban_: urban: 98.4% of population (2022 est.)<br>
+_improved: rural_: rural: 98.3% of population (2022 est.)<br>
+_improved: total_: total: 98.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.7% of population (2022 est.)<br>
+_unimproved: total_: total: 1.6% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.9% of GDP (2021)<br>
@@ -175,8 +176,12 @@ _Health expenditure (as % of national budget)_: 14% of national budget (2022 est
 3.3 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: total_: total: 91.7% of population<br>
-_unimproved: total_: total: 8.1% of population (2017 est.)<br>
+_improved: urban_: urban: 95.4% of population (2022 est.)<br>
+_improved: rural_: rural: 98% of population (2022 est.)<br>
+_improved: total_: total: 97.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 4.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 2% of population (2022 est.)<br>
+_unimproved: total_: total: 2.6% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 18.9% (2016)<br>
@@ -219,28 +224,31 @@ _other_: 61.4% (2022 est.)<br>
 _urban population_: 24.3% of total population (2023)<br>
 _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 8.3 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.56 megatons (2016 est.)<br>
-_methane emissions_: 0.22 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 725,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 725,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+8.3 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 30,585 tons (2012 est.)<br>
+_municipal solid waste generated annually_: 30,600 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 15.3% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 10 million cubic meters (2020 est.)<br>
-_industrial_: 2.5 million cubic meters (2017 est.)<br>
-_agricultural_: 1.8 million cubic meters (2017 est.)<br>
+_municipal_: 7.2 million cubic meters (2022 est.)<br>
+_industrial_: 2.5 million cubic meters (2022 est.)<br>
+_agricultural_: 1.8 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-50 million cubic meters (2020 est.)<br>
+52 million cubic meters (2022)<br>
 
 ## Government
 
 **Country name**<br>
 _conventional long form_: Antigua and Barbuda<br>
 _conventional short form_: Antigua and Barbuda<br>
-_etymology_: <em>antiguo </em>is Spanish for "ancient" or "old"; Christopher COLUMBUS named the island in 1493, after the church of Santa Maria la Antigua (Old Saint Mary's) in Seville, Spain; <em>barbuda </em>is Spanish for "bearded" and may refer to the island's lichen-covered fig trees<br>
+_etymology_: <em>antiguo </em>is Spanish for "ancient" or "old;" Christopher COLUMBUS named the island in 1493, after the church of Santa Maria la Antigua (Old Saint Mary's) in Seville, Spain; <em>barbuda </em>is Spanish for "bearded" and may refer to the island's lichen-covered fig trees<br>
 
 **Government type**<br>
 parliamentary democracy under a constitutional monarchy; a Commonwealth realm<br>
@@ -331,8 +339,8 @@ ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt
 **National holiday**<br>
 Independence Day, 1 November (1981)<br>
 
-**Flag description**<br>
-red, with an inverted isosceles triangle on the top edge of the flag; the triangle contains three horizontal bands of black (top), light blue, and white, with a yellow rising sun in the black band; the sun symbolizes the dawn of a new era, black represents the African heritage of most of the population, blue is for hope, and red is for the dynamism of the people; the "V" stands for victory; the successive yellow, blue, and white coloring is also meant to evoke the country's tourist attractions of sun, sea, and sand<br>
+**Flag**<br>
+<strong>description:</strong> red, with an inverted isosceles triangle in the center that spans the flag from top to bottom; the triangle contains three horizontal bands of black (top), light blue, and white, with a yellow rising sun in the black band<br><br><strong>meaning: </strong>the sun stands for the dawn of a new era, black for the African heritage of most of the population, blue for hope, and red for the dynamism of the people; the "V" shape of the triangle stands for victory; the yellow, blue, and white colors are also meant to evoke the country's tourist attractions of sun, sea, and sand<br>
 
 **National symbol(s)**<br>
 fallow deer<br>
@@ -410,6 +418,9 @@ _revenues_: $251.418 million (2014 est.)<br>
 _expenditures_: $266.044 million (2014 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
+**Public debt**<br>
+86.2% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 -$181.366 million (2024 est.)<br>
 -$271.047 million (2023 est.)<br>
@@ -477,10 +488,6 @@ _imports_: 25 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 5,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 725,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 725,000 metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 110.114 million Btu/person (2023 est.)<br>
@@ -550,4 +557,7 @@ the ABDF's equipment inventory is limited to small arms, light weapons, and soft
 the ABDF’s responsibilities include providing for internal security and support to the police in maintaining law and order, interdicting narcotics smuggling, responding to natural disasters, and monitoring the country’s territorial waters and maritime resources; established in 1981 from colonial forces originally created in 1897, it is one of the world’s smallest militaries<br><br>the country has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Barbados, Dominica, Grenada, Guyana, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2025)<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 5 (2024 est.)<br>
 

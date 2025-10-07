@@ -171,16 +171,13 @@ _female_: 75.8 years<br>
 **Gross reproduction rate**<br>
 0.59 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-65.4% (2012)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.4% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 99.6% of population<br>
-_unimproved: urban_: urban: 0.6% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0.4% of population (2020 est.)<br>
+_improved: urban_: urban: 90.8% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 93.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 9.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 6.4% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 8% of GDP (2021)<br>
@@ -193,12 +190,12 @@ _Health expenditure (as % of national budget)_: 10.6% of national budget (2021 e
 6.3 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 24.1% (2016)<br>
@@ -256,23 +253,32 @@ _other_: 12% (2022 est.)<br>
 _urban population_: 70.1% of total population (2023)<br>
 _rate of urbanization_: -0.27% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 13.51 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 202.25 megatons (2016 est.)<br>
-_methane emissions_: 63.37 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 106.847 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 45.512 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 24.488 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 36.847 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+15.2 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 1,003.4 kt (2022-2024 est.)<br>
+_agriculture_: 341.6 kt (2019-2021 est.)<br>
+_waste_: 409.2 kt (2019-2021 est.)<br>
+_other_: 70.9 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 15,242,025 tons (2016 est.)<br>
-_municipal solid waste recycled annually_: 487,745 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 3.2% (2015 est.)<br>
+_municipal solid waste generated annually_: 15.242 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 4.5% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 2.77 billion cubic meters (2020 est.)<br>
-_industrial_: 4.04 billion cubic meters (2020 est.)<br>
-_agricultural_: 3.06 billion cubic meters (2020 est.)<br>
+_municipal_: 1.66 billion cubic meters (2022)<br>
+_industrial_: 2.188 billion cubic meters (2022)<br>
+_agricultural_: 1.031 billion cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-175.28 billion cubic meters (2020 est.)<br>
+175.28 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -349,7 +355,7 @@ _subordinate courts_: Courts of Appeal; district courts<br>
 Batkivshchyna (Fatherland)<br>European Solidarity or YeS<br>Holos (Voice or Vote)<br>Opposition Bloc (formerly known as Opposition Bloc — Party for Peace and Development, successor of the Industrial Party of Ukraine, and resulted from a schism in the original Opposition Bloc in 2019; banned in court June 2022; ceased to exist in July 2022)<br>Opposition Bloc or OB (divided into Opposition Bloc - Party for Peace and Development and Opposition Platform - For Life in 2019; ceased to exist in July 2022)<br>Opposition Platform - For Life (resulted from a schism in the original Opposition Bloc in 2019; activities suspended by the National Security and Defense Council in March 2022; dissolved in April 2022)<br>Platform for Life and Peace<br>Radical Party or RPOL<br>Samopomich (Self Reliance)<br>Servant of the People<br>Svoboda (Freedom)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Oksana MARKAROVA (since 7 July 2021)<br>
+_chief of mission_: Ambassador Olha STEFANISHYNA (since 19 September 2025)<br>
 _chancery_: 3350 M Street NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 349-2963<br>
 _FAX_: [1] (202) 333-0817<br>
@@ -375,8 +381,8 @@ Australia Group, BSEC, CBSS (observer), CD, CE, CEI, CICA (observer), CIS (parti
 Independence Day, 24 August (1991)<br>
 <strong>note:</strong> 22 January 1918, the day Ukraine first declared its independence from Soviet Russia, is now celebrated as Unity Day<br>
 
-**Flag description**<br>
-two equal horizontal bands of blue (top) and yellow; the colors date back to medieval heraldry, but they are sometimes said to represent grain fields under a blue sky<br>
+**Flag**<br>
+<strong>description:</strong> two equal horizontal bands of blue (top) and yellow<br><br><strong>meaning: </strong>the colors date back to medieval heraldry, but they are sometimes said to represent grain fields under a blue sky<br>
 
 **National symbol(s)**<br>
 tryzub (trident), sunflower<br>
@@ -387,7 +393,7 @@ blue, yellow<br>
 **National anthem(s)**<br>
 _title_: "Shche ne vmerla Ukraina" (Ukraine Has Not Yet Perished)<br>
 _lyrics/music_: Paul CHUBYNSKYI/Mikhail VERBYTSKYI<br>
-_history_: music adopted 1991, lyrics adopted 2003; song first performed in 1864 at the Ukraine Theatre in Lviv; the lyrics, originally written in 1862, were revised in 2003<br>
+_history_: music adopted 1991, lyrics adopted 2003; current version of the anthem is the first verse of CHUBYNSKYI's poem, plus the chorus<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 8 (7 cultural, 1 natural)<br>
@@ -492,9 +498,9 @@ _highest 10%_: 21.7% (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $68.559 billion (2022 est.)<br>
-_expenditures_: $93.783 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $86.185 billion (2023 est.)<br>
+_expenditures_: $121.657 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 58.7% of GDP (2020 est.)<br>
@@ -602,12 +608,6 @@ _exports_: 95.994 million cubic meters (2022 est.)<br>
 _imports_: 2.028 billion cubic meters (2023 est.)<br>
 _proven reserves_: 1.104 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 106.847 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 45.512 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 24.488 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 36.847 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 57.856 million Btu/person (2023 est.)<br>
 
@@ -697,15 +697,16 @@ the primary focus of the Ukrainian Armed Forces (UAF) is defense against Russian
 ## Space
 
 **Space agency/agencies**<br>
-State Space Agency of Ukraine (SSAU; established 1992 as the National Space Agency of Ukraine or NSAU; renamed in 2010) (2024)<br>
+State Space Agency of Ukraine (SSAU; established 1992 as the National Space Agency of Ukraine or NSAU and renamed in 2010) (2025)<br>
 
 **Space program overview**<br>
-SSAU/NSAU inherited a large and well-developed space program when it took over all of the former Soviet defense/space industrial industry that was located on the territory of Ukraine upon the country’s declaration of independence in 1991; prior to the 2014 Russia takeover of Crimea and support for separatists in Ukraine’s Donbas region, Ukraine’s space efforts largely provided support to the Russian space program, including the production of satellite/space launch vehicles (SLVs)/rocket carriers and their components; today, it develops and produces SLVs/rocket carriers, spacecraft, satellites, and satellite sub-components both independently and jointly with numerous foreign space agencies and private space industry companies, including those of Brazil, Canada, China, the European Space Agency (ESA) and its member states (particularly Italy and Poland), Japan, Kazakhstan, Russia (curtailed after 2014), Turkey, and the US; prior to the full scale Russian invasion in February 2022, Ukraine was producing more than 100 SLVs, SLV stages, or SLV engines annually, and since 1991, over 160 rockets and more than 370 spacecraft had been manufactured by Ukraine or produced with its participation; as of 2022, SSAU had 16,000 employees and controlled 20 state-run corporations in Ukraine's “space cluster,” a region between the cities of Dnipro, Kharkiv, and Kyiv (note – Dnipro, known as Ukraine's “Rocket City,” was one of the Soviet Union’s main centers for space, nuclear, and military industries and played a crucial role in the development and manufacture of both civilian and military rockets); in 2019, the Ukrainian Parliament began allowing private companies to engage in space endeavors, including launching rockets into space and allowing companies to negotiate with foreign companies without the state’s approval; previously, only state-owned companies could do so (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+Ukraine inherited a large and well-developed space program when it took over all of the former Soviet defense/space industry that was located on its territory upon the country’s independence in 1991; the modern program includes the production of satellite/space launch vehicles (SLVs)/rocket carriers and their components, satellites, and satellite sub-components; prior to the full scale Russian invasion in February 2022, Ukraine was producing more than 100 SLVs, SLV stages, or SLV engines annually, and since 1991, over 160 rockets and more than 370 spacecraft had been manufactured by Ukraine or produced with its participation; Ukraine cooperates with numerous foreign space agencies and industries, including those of Brazil, Canada, China, the European Space Agency (ESA), the EU, and their member states (particularly Italy and Poland), Japan, Kazakhstan, Russia (curtailed after 2014), Turkey, and the US; Ukraine's “space cluster,” a region between the cities of Dnipro, Kharkiv, and Kyiv includes around 20 state-run space industries; in 2019, the Ukrainian Parliament began allowing private companies to engage in space endeavors, including launching rockets into space and allowing companies to negotiate with foreign companies without the state’s approval (2025)<br>
+<strong>note 1: </strong>Dnipro, known as Ukraine's “Rocket City,” was one of the Soviet Union’s main centers for space, nuclear, and military industries and played a crucial role in the development and manufacture of both civilian and military rockets<strong><br><br>note 2:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: <p>1,461,700 (Russian-sponsored separatist violence in Crimea and eastern Ukraine) (2021); 3.67 million (2023) (since Russian invasion that started in February 2022); note – the more recent invasion total may reflect some double counting, since it is impossible to determine how many of the recent IDPs may also include IDPs from the earlier Russian-sponsored violence in Crimea and eastern Ukraine</p><br>
-_stateless persons_: 36,459 (2022); note - citizens of the former USSR who were permanently resident in Ukraine were granted citizenship upon Ukraine's independence in 1991, but some missed this window of opportunity; people arriving after 1991, Crimean Tatars, ethnic Koreans, people with expired Soviet passports, and people with no documents have difficulty acquiring Ukrainian citizenship; following the fall of the Soviet Union in 1989, thousands of Crimean Tatars and their descendants deported from Ukraine under the STALIN regime returned to their homeland, some being stateless and others holding the citizenship of Uzbekistan or other former Soviet republics; a 1998 bilateral agreement between Ukraine and Uzbekistan simplified the process of renouncing Uzbek citizenship and obtaining Ukrainian citizenship<br>
+_refugees_: 2,876 (2024 est.)<br>
+_IDPs_: 3,665,165 (2024 est.)<br>
+_stateless persons_: 10,910 (2024 est.)<br>
 

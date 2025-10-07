@@ -162,16 +162,13 @@ _female_: 85.2 years<br>
 **Gross reproduction rate**<br>
 0.71 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-73.9% (2014)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 99.7% of population<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0.3% of population<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
+_improved: urban_: urban: 99.9% of population (2022 est.)<br>
+_improved: rural_: rural: 97.9% of population (2022 est.)<br>
+_improved: total_: total: 99.3% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 2.1% of population (2022 est.)<br>
+_unimproved: total_: total: 0.7% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 10.6% of GDP (2022)<br>
@@ -184,12 +181,12 @@ _Health expenditure (as % of national budget)_: 14.8% of national budget (2022 e
 3.5 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 20.8% (2016)<br>
@@ -245,23 +242,26 @@ _other_: 21.1% (2022 est.)<br>
 _urban population_: 67.9% of total population (2023)<br>
 _rate of urbanization_: 0.44% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 7.34 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 48.74 megatons (2016 est.)<br>
-_methane emissions_: 10.93 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 38.272 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 20,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 29.525 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 8.727 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+7.6 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 4.71 million tons (2014 est.)<br>
-_municipal solid waste recycled annually_: 764,433 tons (2014 est.)<br>
-_percent of municipal solid waste recycled_: 16.2% (2014 est.)<br>
+_municipal solid waste generated annually_: 5.268 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 23.5% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 880 million cubic meters (2020 est.)<br>
-_industrial_: 1.83 billion cubic meters (2020 est.)<br>
-_agricultural_: 3.42 billion cubic meters (2020 est.)<br>
+_municipal_: 920.03 million cubic meters (2022 est.)<br>
+_industrial_: 1.83 billion cubic meters (2022 est.)<br>
+_agricultural_: 3.419 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-77.4 billion cubic meters (2020 est.)<br>
+77.4 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 6 (2024)<br>
@@ -349,7 +349,7 @@ _consulate(s) general_: Boston, Newark (NJ), New York, San Francisco<br>
 _consulate(s)_: New Bedford (MA), Providence (RI)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Douglas A. KONEFF (since January 2025)<br>
+_chief of mission_: Ambassador John Joseph ARRIGO (since 30 September 2025)<br>
 _embassy_: Avenida das Forcas Armadas, 1600-081 Lisboa<br>
 _mailing address_: 5320 Lisbon Place, Washington DC&nbsp; 20521-5320<br>
 _telephone_: [351] (21) 727-3300<br>
@@ -367,8 +367,8 @@ ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, C
 Portugal Day (Dia de Portugal), 10 June (1580)<br>
 <strong>note:</strong> also called Camoes Day, the day that revered national poet Luis DE CAMOES (1524-80) died<br>
 
-**Flag description**<br>
-two vertical bands of green (hoist side, two-fifths) and red (three-fifths), with the national coat of arms (armillary sphere and national shield) centered on the dividing line; explanations for the color meanings are ambiguous, but a popular interpretation has green symbolizing hope and red the blood of those defending the nation<br>
+**Flag**<br>
+<strong>description:</strong> two vertical bands of green (left side, two-fifths) and red (three-fifths), with the national coat of arms (armillary sphere and national shield) centered on the dividing line<br><br><strong>meaning:</strong> explanations for the color meanings are ambiguous, but a popular interpretation says that green symbolizes hope and red the blood of those defending the nation<br>
 
 **National symbol(s)**<br>
 armillary sphere (a spherical astrolabe for modeling objects in the sky)<br>
@@ -379,7 +379,7 @@ red, green<br>
 **National anthem(s)**<br>
 _title_: "A Portugesa" (The Song of the Portuguese)<br>
 _lyrics/music_: Henrique LOPES DE MENDOCA/Alfredo KEIL<br>
-_history_: adopted 1910; originally written to protest the Portuguese monarchy's acquiescence to the 1890 British ultimatum forcing Portugal to give up areas of Africa<br>
+_history_: adopted 1911; originally written to protest the Portuguese monarchy's acquiescence to the 1890 British ultimatum forcing Portugal to give up areas of Africa<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 17 (16 cultural, 1 natural)<br>
@@ -484,9 +484,9 @@ _highest 10%_: 28.8% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $99.473 billion (2022 est.)<br>
-_expenditures_: $100.796 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $112.802 billion (2023 est.)<br>
+_expenditures_: $109.044 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 125.7% of GDP (2017 est.)<br>
@@ -578,12 +578,6 @@ _refined petroleum consumption_: 204,000 bbl/day (2024 est.)<br>
 _consumption_: 4.325 billion cubic meters (2023 est.)<br>
 _imports_: 4.251 billion cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 38.272 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 20,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 29.525 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 8.727 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 73.285 million Btu/person (2023 est.)<br>
 
@@ -644,14 +638,14 @@ Portuguese Armed Forces (Forças Armadas Portuguesa): Portuguese Army (Exercito 
 <strong>note:</strong> the PSP has jurisdiction in cities while the GNR has jurisdiction in rural areas; the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to both the Ministry of Internal Administration and to the Ministry of National Defense; it is not part of the Armed Forces, but may be placed under its operational command in the event of a national emergency<br>
 
 **Military expenditures**<br>
+2% of GDP (2025 est.)<br>
 1.6% of GDP (2024 est.)<br>
-1.5% of GDP (2023)<br>
+1.3% of GDP (2023 est.)<br>
 1.4% of GDP (2022 est.)<br>
-1.5% of GDP (2021)<br>
-1.4% of GDP (2020)<br>
+1.5% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 28,000 active-duty Armed Forces (15,000 Army; 7,000 Navy, including about 1,000 marines; 6,000 Air Force); 25,000 National Republican Guard (military personnel) (2024)<br>
+approximately 25,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes mostly European- and US-origin weapons systems along with a smaller mix of domestically produced equipment; in recent years, leading foreign suppliers have included Germany and the US; Portugal's defense industry is noted for its shipbuilding (2024)<br>
@@ -670,13 +664,13 @@ the Portuguese military is responsible for external defense, humanitarian operat
 ## Space
 
 **Space agency/agencies**<br>
-Portuguese Space Agency (Ag&ecirc;ncia Espacial Portuguesa; aka Portugal Space; established 2019); Foundation for Science and Technology (FCT; government agency that funds space research established in 2009) (2024)<br>
+Portuguese Space Agency (Ag&ecirc;ncia Espacial Portuguesa; aka Portugal Space; established 2019) (2025)<br>
 
 **Space launch site(s)**<br>
-developing a commercial space port on Santa Maria Island in the Azores (first anticipated launch, 2025) (2024)<br>
+in August 2025, Portugal granted a license to a commercial consortium to build and operate a space launch center on the island of Santa Maria in the Azores; the first orbital launches are expected in 2027 (2025)<br>
 
 **Space program overview**<br>
-has a national space program which is is integrated within the framework of the European Space Agency (ESA); builds and operates satellites; researches and develops a range of space-related technologies with an emphasis on small/micro/nano satellites for remote sensing (RS), navigational, science/technology, and telecommunications, as well as satellite launch services; in addition to the ESA/EU and their member states, cooperates with the space agencies and industries of a variety of countries, including those of Algeria, Angola, Brazil, China, India, Japan, Morocco, South Korea, and the US, as well as such international organizations and projects as the Europe South Observatory (ESO) and the Square Kilometer Array (SKA) Observatory project; one of the objectives of the country's national space strategy (Portugal Space 2030) is to increase the annual outcome of space related activities in the country to about $500 million by 2030 (2024)<br>
+national space program is integrated within the framework of the European Space Agency (ESA); builds and operates satellites; researches and develops a range of space-related technologies with an emphasis on small/micro/nano satellites for remote sensing (RS), navigational, science/technology, and telecommunications, as well as satellite launch services; in addition to the ESA/EU and their member states, cooperates with the space agencies and industries of a variety of countries, including those of Algeria, Angola, Brazil, China, India, Japan, Morocco, South Korea, and the US; also cooperates with international organizations and projects as the Europe South Observatory (ESO) and the Square Kilometer Array (SKA) Observatory project; one of the objectives of the country's national space strategy (Portugal Space 2030) is to increase the annual outcome of commercial space related activities in the country to about $500 million by 2030 (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -688,6 +682,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 59,920 (Ukraine) (as of 31 January 2024)<br>
-_stateless persons_: 55 (2022)<br>
+_refugees_: 71,166 (2024 est.)<br>
+_IDPs_: 21 (2024 est.)<br>
+_stateless persons_: 31 (2024 est.)<br>
 

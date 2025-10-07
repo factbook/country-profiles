@@ -106,7 +106,7 @@ Portuguese (official and most widely spoken language); less common languages inc
 _major-language sample(s)_: <br>O Livro de Fatos Mundiais, a fonte indispensável para informação básica. (Brazilian Portuguese)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 52.8%, Protestant 26.7% (Evangelical 25.5%, other Protestant 1.2%), African-American cultist/Umbanda 1.8%, other 3%, agnostic/atheist 0.6%, none 13.6%, unspecified 1.4% (2023 est.)<br>
+Roman Catholic 56.8%, Evangelical 26.9%, none 9.3%, other 4%, Spirtism (Esp&iacute;rita) 1.8%, unspecified 1.4%, Umbanda and Candombl&eacute; 1.1%, Indigenous religions .06%, undeclared 0.2% (2022)<br>
 
 **Age structure**<br>
 _0-14 years_: 19.6% (male 22,025,593/female 21,088,398)<br>
@@ -172,16 +172,13 @@ _female_: 80.1 years<br>
 **Gross reproduction rate**<br>
 0.85 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-80.5% (2019)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.8% of population<br>
-_improved: rural_: rural: 96.9% of population<br>
-_improved: total_: total: 99.4% of population<br>
-_unimproved: urban_: urban: 0.2% of population<br>
-_unimproved: rural_: rural: 3.1% of population<br>
-_unimproved: total_: total: 0.6% of population (2020 est.)<br>
+_improved: urban_: urban: 99.8% of population (2022 est.)<br>
+_improved: rural_: rural: 98% of population (2022 est.)<br>
+_improved: total_: total: 99.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 2% of population (2022 est.)<br>
+_unimproved: total_: total: 0.4% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 9.9% of GDP (2021)<br>
@@ -194,12 +191,12 @@ _Health expenditure (as % of national budget)_: 9% of national budget (2022 est.
 2.5 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 94.1% of population<br>
-_improved: rural_: rural: 63.6% of population<br>
-_improved: total_: total: 90.2% of population<br>
-_unimproved: urban_: urban: 5.9% of population<br>
-_unimproved: rural_: rural: 36.4% of population<br>
-_unimproved: total_: total: 9.8% of population (2020 est.)<br>
+_improved: urban_: urban: 94.7% of population (2022 est.)<br>
+_improved: rural_: rural: 65% of population (2022 est.)<br>
+_improved: total_: total: 91% of population (2022 est.)<br>
+_unimproved: urban_: urban: 5.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 35% of population (2022 est.)<br>
+_unimproved: total_: total: 9% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 22.1% (2016)<br>
@@ -227,9 +224,9 @@ _Education expenditure (% GDP)_: 5.5% of GDP (2021 est.)<br>
 _Education expenditure (% national budget)_: 12.8% national budget (2021 est.)<br>
 
 **Literacy**<br>
-_total population_: 93% (2018 est.)<br>
-_male_: 93% (2018 est.)<br>
-_female_: 93% (2018 est.)<br>
+_total population_: 93% (2022 est.)<br>
+_male_: 92.5% (2022 est.)<br>
+_female_: 93.5% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years (2022 est.)<br>
@@ -260,23 +257,32 @@ _other_: 14.2% (2022 est.)<br>
 _urban population_: 87.8% of total population (2023)<br>
 _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 10.94 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 462.3 megatons (2016 est.)<br>
-_methane emissions_: 401.83 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 437.769 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 53.664 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 331.079 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 53.026 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+10.9 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 1,759.1 kt (2022-2024 est.)<br>
+_agriculture_: 13,761.9 kt (2019-2021 est.)<br>
+_waste_: 3,361.8 kt (2019-2021 est.)<br>
+_other_: 382.6 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 79,889,010 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 1,118,446 tons (2014 est.)<br>
-_percent of municipal solid waste recycled_: 1.4% (2014 est.)<br>
+_municipal solid waste generated annually_: 79.07 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 2.8% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 16.13 billion cubic meters (2020 est.)<br>
-_industrial_: 9.51 billion cubic meters (2020 est.)<br>
-_agricultural_: 41.42 billion cubic meters (2020 est.)<br>
+_municipal_: 16.397 billion cubic meters (2022)<br>
+_industrial_: 10.2 billion cubic meters (2022)<br>
+_agricultural_: 41.336 billion cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-8.65 trillion cubic meters (2020 est.)<br>
+8.647 trillion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 6<br>
@@ -396,8 +402,8 @@ AfDB (nonregional member), BIS, BRICS, CAN (associate), CD, CELAC, CPLP, FAO, FA
 **National holiday**<br>
 Independence Day, 7 September (1822)<br>
 
-**Flag description**<br>
-green with a large yellow diamond in the center, showing a blue celestial globe with 27 white five-pointed stars; the globe has a white equatorial band with the motto ORDEM E PROGRESSO (Order and Progress); the flag was inspired by the former Empire of Brazil's flag (1822-1889); the green represents the forests of the country, and the yellow its mineral wealth, with the diamond representing the country's shape; the blue circle and stars depict the sky over Rio de Janeiro on the morning of 15 November 1889, the day the Republic of Brazil was declared; the number of stars has risen with the creation of new states, from 21 to 27 (one for each state and the Federal District)<br>
+**Flag**<br>
+<strong>description:</strong> green with a large yellow diamond in the center, showing a blue celestial globe with 27 five-pointed white stars; the globe has a white equatorial band with the motto ORDEM E PROGRESSO (Order and Progress)<br><br><strong>meaning:</strong> green stands for the country's forests, and yellow for its mineral wealth, with the diamond representing the country's shape; the blue globe and stars depict the sky over Rio de Janeiro on the morning of 15 November 1889, the day the Republic of Brazil was declared; the number of stars has risen with the creation of new states, from 21 to 27 (one for each state and the Federal District)<br><br><strong>history:</strong> the flag was inspired by the former Empire of Brazil's flag (1822-1889)<br>
 <strong>note:</strong> one of four national flags that reflect the shape of the country in the flag design; the others are Bosnia and Herzegovina, Eritrea, and Vanuatu<br>
 
 **National symbol(s)**<br>
@@ -514,9 +520,9 @@ _highest 10%_: 40.8% (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $578.267 billion (2022 est.)<br>
-_expenditures_: $666.279 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $556.303 billion (2023 est.)<br>
+_expenditures_: $706.816 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 83% of GDP (2023 est.)<br>
@@ -625,12 +631,6 @@ _exports_: 101.203 million cubic meters (2023 est.)<br>
 _imports_: 6.356 billion cubic meters (2023 est.)<br>
 _proven reserves_: 363.985 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 437.769 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 53.664 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 331.079 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 53.026 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 48.889 million Btu/person (2023 est.)<br>
 
@@ -717,13 +717,13 @@ the Brazilian Armed Forces (BAF) are the second largest military in the Western 
 ## Space
 
 **Space agency/agencies**<br>
-Brazilian Space Agency (Ag&ecirc;ncia Espacial Brasileira, AEB; established in 1994 when Brazil&rsquo;s space program was transferred from the military to civilian control); National Institute for Space Research (established, 1971; part of the Brazilian Ministry of Science, Technology and Innovations); Space Operations Command (Armed Forces); Department of Aerospace Science and Technology (DCTA; established in 1953 as a military space research program under the Brazilian Air Force) (2024)<br>
+Brazilian Space Agency (Ag&ecirc;ncia Espacial Brasileira, AEB; established in 1994 when Brazil&rsquo;s space program was transferred from the military to civilian control); National Institute for Space Research (INPE, under the Ministry of Science, Technology and Innovations); Department of Aerospace Science and Technology (DCTA, under the Aeronautics Command (COMAER) of the Ministry of Defense) (2025)<br>
 
 **Space launch site(s)**<br>
-Alcantara Launch Site (Maranh&atilde;o state); Barreira do Inferno Launch Center (Rio Grande do Norte state) (2024)<br>
+Alcantara Launch Center (Maranh&atilde;o state); Barreira do Inferno Launch Center (Rio Grande do Norte state) (2025)<br>
 
 **Space program overview**<br>
-has an active program with a long history; develops, builds, operates, and tracks satellites, including communications, remote sensing (RS), multi-mission, navigational, and scientific/testing/research; satellites are launched by foreign partners, but Brazil has a long-standing sounding (research) rocket and space launch vehicle (SLV) program and rocket launch facilities; cooperates with a variety of foreign space agencies and commercial entities, including those of Argentina, Canada, the European Space Agency and individual member states (particularly France and Germany), India, Japan, Russia, South Africa, South Korea, Ukraine, and the US; has a state-controlled communications company that operates Brazil’s communications satellites and a growing commercial space sector with expertise in satellite technology (2024)<br>
+has an active program with a long history; develops, builds, operates, and tracks satellites, including communications, remote sensing (RS), multi-mission, navigational, and scientific/testing/research; satellites are launched by foreign partners, but Brazil has a long-standing sounding (research) rocket and space launch vehicle (SLV) program and rocket launch facilities; cooperates with a variety of foreign space agencies and commercial entities, including those of Argentina, Canada, the European Space Agency and individual member states (particularly France and Germany), India, Japan, Russia, South Africa, South Korea, Ukraine, and the US; has a state-controlled communications company that operates Brazil’s communications satellites and a growing commercial space sector with expertise in satellite technology (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -735,9 +735,12 @@ Hizballah; Tren de Aragua (TdA)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 510,499 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2023)<br>
-_IDPs_: 5,600 (2022)<br>
-_stateless persons_: 12 (2022)<br>
+_refugees_: 331,097 (2024 est.)<br>
+_IDPs_: 19,043 (2024 est.)<br>
+_stateless persons_: 27 (2024 est.)<br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List — Brazil did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/brazil/<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major precursor-chemical producer (2025)<br>

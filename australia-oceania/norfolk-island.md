@@ -191,9 +191,9 @@ none (territory of Australia)<br>
 **National holiday**<br>
 Bounty Day (commemorates the arrival of Pitcairn Islanders), 8 June (1856)<br>
 
-**Flag description**<br>
-three vertical bands of green (hoist side), white, and green, with a large green Norfolk Island pine tree centered in the white band; green stands for the island's rich vegetation, and the native pine tree is an island symbol<br>
-<strong>note:</strong> resembles Canada's flag in its use of only two colors and depiction of a local floral symbol in the central white band; also resembles Nigeria's green-and-white triband<br>
+**Flag**<br>
+<strong>description:</strong> three vertical bands of green (left side), white, and green, with a large green Norfolk Island pine tree centered on the white band<br><br><strong>meaning:</strong> green stands for the island's rich vegetation, and the native pine tree is an island symbol<br>
+<strong>note:</strong> resembles Canada's flag in its use of only two colors and depiction of a symbol based on a native tree in the central white band; also resembles Nigeria's green-and-white tri-band flag<br>
 
 **National symbol(s)**<br>
 Norfolk Island pine<br>
@@ -204,7 +204,7 @@ Norfolk Island is part of the Commonwealth of Australia, and in 1980, Queen Eliz
 **National anthem(s)**<br>
 _title_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
-_history_: official anthem, as an Australian overseas territory<br>
+_history_: royal anthem, as an Australian overseas territory<br>
 
 ## Economy
 
@@ -234,11 +234,11 @@ refined petroleum, plastics, electrical lighting/signalling equipment, cars, mac
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>
+1.515 (2024 est.)<br>
 1.505 (2023 est.)<br>
 1.442 (2022 est.)<br>
 1.331 (2021 est.)<br>
 1.453 (2020 est.)<br>
-1.439 (2019 est.)<br>
 
 ## Communications
 

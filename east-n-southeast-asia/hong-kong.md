@@ -156,16 +156,13 @@ _female_: 86.8 years<br>
 **Gross reproduction rate**<br>
 0.6 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-66.7% (2017)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
 _improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
 _unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Physician density**<br>
 2.04 physicians/1,000 population (2020)<br>
@@ -174,12 +171,10 @@ _unimproved: total_: total: 0% of population (2020)<br>
 4.9 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 96.4% of population<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 96.4% of population<br>
-_unimproved: urban_: urban: 3.6% of population<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 3.6% of population (2017)<br>
+_improved: urban_: urban: 96.5% of population (2022 est.)<br>
+_improved: total_: total: 96.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 3.5% of population (2022 est.)<br>
+_unimproved: total_: total: 3.5% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 47.7% (2023 est.)<br>
@@ -213,12 +208,14 @@ _other_: 96.2% (2022 est.)<br>
 _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0.58% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 43.64 megatons (2016 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 58.433 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 12.935 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 35.453 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 10.045 million metric tonnes of CO2 (2023 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 5,679,816 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 1,931,138 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 5.68 million tons (2024 est.)<br>
 _percent of municipal solid waste recycled_: 34% (2016 est.)<br>
 
 ## Government
@@ -291,7 +288,7 @@ _HKETO offices_: New York, San Francisco, Washington DC<br>
 <strong>note</strong>: Hong Kong is a Special Administrative Region of China and does not have a diplomatic presence; the Hong Kong Economic and Trade Office (HKETO) carries out normal liaison activities and communication with the US government and other US entities; the position of the Hong Kong Commissioner to the US Government of the Hong Kong Special Administrative Region is vacant; address: 1520 18th Street NW, Washington, DC 20036; telephone: [1] (202) 331-8947; FAX: [1] (202) 331-8958; email:  hketo@hketowashington.gov.hk; website: https://www.hketowashington.gov.hk/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Consul General Gregory MAY (since September 2022); note - also accredited to Macau<br>
+_chief of mission_: Consul General Julie EADEH (since August 2025); note - also accredited to Macau<br>
 _embassy_: 26 Garden Road, Central, Hong Kong<br>
 _mailing address_: 8000 Hong Kong Place, Washington DC&nbsp; 20521-8000<br>
 _telephone_: [852] 2523-9011<br>
@@ -308,8 +305,8 @@ none (special administrative region of China)<br>
 National Day (Anniversary of the Founding of the People's Republic of China), 1 October (1949)<br>
 <strong>note:</strong> 1 July (1997) is celebrated as Hong Kong Special Administrative Region Establishment Day<br>
 
-**Flag description**<br>
-red with a stylized, five-petal, white Bauhinia flower in the center; each petal has a small, five-pointed red star; the red color is the same as the Chinese flag and represents the motherland, and the five stars also echo the Chinese flag; the Bauhinia flower was developed in Hong Kong the late 19th century and has come to symbolize the region<br>
+**Flag**<br>
+<strong>description:</strong> red with a stylized white Bauhinia flower with five petals in the center of the flag; each petal has a tiny five-pointed red star with a fine red line curving toward the center of the flower<br><br><strong>meaning:</strong> the red color is the same as the Chinese flag and represents the motherland, and the five stars also echo the Chinese flag; the Bauhinia flower was developed in Hong Kong the late 19th century and has come to symbolize the region<br>
 
 **National symbol(s)**<br>
 bauhinia flower<br>
@@ -411,6 +408,9 @@ _on alcohol and tobacco_: 0.7% of household expenditures (2023 est.)<br>
 _revenues_: $70.124 billion (2020 est.)<br>
 _expenditures_: $105.849 billion (2020 est.)<br>
 
+**Public debt**<br>
+0.1% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 $52.475 billion (2024 est.)<br>
 $32.338 billion (2023 est.)<br>
@@ -488,12 +488,6 @@ _refined petroleum consumption_: 233,000 bbl/day (2023 est.)<br>
 _consumption_: 5.12 billion cubic meters (2023 est.)<br>
 _imports_: 5.12 billion cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 58.433 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 12.935 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 35.453 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 10.045 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 116.811 million Btu/person (2023 est.)<br>
 
@@ -551,8 +545,11 @@ Hong Kong Police Force (specialized units include the Police Counterterrorism Re
 
 ## Transnational Issues
 
+**Refugees and internally displaced persons**<br>
+_refugees_: 260 (2024 est.)<br>
+
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Hong Kong was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/hong-kong/<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Hong Kong remained on Tier 2 Watch List for the second consecutive year; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/hong-kong/<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major precursor-chemical producer (2025)<br>

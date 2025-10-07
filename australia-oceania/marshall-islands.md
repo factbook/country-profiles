@@ -158,16 +158,13 @@ _female_: 77.5 years<br>
 **Gross reproduction rate**<br>
 1.3 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 99.8% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0.2% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 84.5% of population (2022 est.)<br>
+_improved: rural_: rural: 87.2% of population (2022 est.)<br>
+_improved: total_: total: 85.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 15.5% of population (2022 est.)<br>
+_unimproved: rural_: rural: 12.8% of population (2022 est.)<br>
+_unimproved: total_: total: 14.9% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 12.5% of GDP (2021)<br>
@@ -177,12 +174,12 @@ _Health expenditure (as % of national budget)_: 6.7% of national budget (2022 es
 0.47 physicians/1,000 population (2012)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 96.6% of population<br>
-_improved: rural_: rural: 65.4% of population<br>
-_improved: total_: total: 89.7% of population<br>
-_unimproved: urban_: urban: 3.4% of population<br>
-_unimproved: rural_: rural: 34.6% of population<br>
-_unimproved: total_: total: 10.3% of population (2020 est.)<br>
+_improved: urban_: urban: 92.8% of population (2022 est.)<br>
+_improved: rural_: rural: 70.4% of population (2022 est.)<br>
+_improved: total_: total: 88% of population (2022 est.)<br>
+_unimproved: urban_: urban: 7.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 29.6% of population (2022 est.)<br>
+_unimproved: total_: total: 12% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 52.9% (2016)<br>
@@ -231,18 +228,15 @@ _other_: 8.9% (2022 est.)<br>
 _urban population_: 78.9% of total population (2023)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 7.21 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.14 megatons (2016 est.)<br>
-_methane emissions_: 0.03 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+293,700 metric tonnes of CO2 (2017 est.)<br>
+
+**Particulate matter emissions**<br>
+7.2 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 8,614 tons (2013 est.)<br>
-_municipal solid waste recycled annually_: 2,653 tons (2007 est.)<br>
-_percent of municipal solid waste recycled_: 30.8% (2007 est.)<br>
-
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
+_municipal solid waste generated annually_: 8,600 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 39.7% (2022 est.)<br>
 
 ## Government
 
@@ -342,8 +336,8 @@ ACP, ADB, AOSIS, FAO, G-77, IAEA, IBRD, ICAO, ICCt, IDA, IFAD, IFC, ILO, IMF, IM
 **National holiday**<br>
 Constitution Day, 1 May (1979)<br>
 
-**Flag description**<br>
-blue with an orange stripe and a white stripe radiating from the lower hoist-side corner; a white star with four large rays and 20 small rays appears on the hoist side above the two stripes; the blue stands for the Pacific Ocean, the orange stripe for the Ralik Chain (or sunset and courage), and the white stripe for the Ratak Chain (or sunrise and peace); the star symbolizes the Christian cross, with a small ray for each electoral district and a larger ray for the principal cultural centers of Majuro, Jaluit, Wotje, and Ebeye; the diagonal stripes can also be interpreted as representing the equator, with the star showing the archipelago's position<br>
+**Flag**<br>
+<strong>description:</strong> blue with an orange stripe and a white stripe radiating from the lower-left corner to the upper-right corner; a white star with four large rays and 20 small rays appears on the left side above the two stripes<br><br><strong>meaning:</strong> blue stands for the Pacific Ocean, orange for the Ralik Chain (or sunset and courage), and white for the Ratak Chain (or sunrise and peace); the star symbolizes the Christian cross, with a small ray for each electoral district and a larger ray for the principal cultural centers of Majuro, Jaluit, Wotje, and Ebeye; the diagonal stripes can also be interpreted as representing the equator, with the star showing the archipelago's position<br>
 
 **National symbol(s)**<br>
 a 24-rayed star<br>
@@ -354,7 +348,7 @@ blue, white, orange<br>
 **National anthem(s)**<br>
 _title_: "Forever Marshall Islands"<br>
 _lyrics/music_: Amata KABUA<br>
-_history_: adopted 1981<br>
+_history_: adopted 1981; words and music written by the first president of the Marshall Islands<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -386,6 +380,12 @@ $6,800 (2022 est.)<br>
 **GDP (official exchange rate)**<br>
 $280.358 million (2024 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
+
+**Inflation rate (consumer prices)**<br>
+6.2% (2022 est.)<br>
+2.6% (2021 est.)<br>
+-0.7% (2020 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 19.5% (2023 est.)<br>
@@ -433,9 +433,9 @@ _highest 10%_: 27.5% (2019 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $186.971 million (2018 est.)<br>
-_expenditures_: $177.91 million (2018 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $171.267 million (2020 est.)<br>
+_expenditures_: $159.095 million (2020 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 41.6% of GDP (2019 est.)<br>
@@ -489,9 +489,6 @@ _electrification - total population_: 100% (2022 est.)<br>
 _electrification - urban areas_: 96.1%<br>
 _electrification - rural areas_: 100%<br>
 
-**Carbon dioxide emissions**<br>
-293,700 metric tonnes of CO2 (2017 est.)<br>
-
 ## Communications
 
 **Telephones - fixed lines**<br>
@@ -542,10 +539,10 @@ _key ports_: Enitwetak Island, Kwajalein, Majuro Atoll<br>
 no regular military forces; Marshall Islands Police Department (includes a Sea Patrol Division) (2025)<br>
 
 **Military - note**<br>
-defense is the responsibility of the US; in 1982, the Marshall Islands signed a Compact of Free Association (COFA) with the US, which granted the Marshall Islands financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986, and its funding was renewed in 2003; the Marshall Islands hosts a US Army missile test site <br><br>the Marshall Islands has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within its designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>
+defense is the responsibility of the US; in 1982, the Marshall Islands signed a Compact of Free Association (COFA) with the US, which granted the Marshall Islands financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986; the Marshall Islands hosts a US Army missile test site <br><br>the Marshall Islands has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within its designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>
 
 ## Transnational Issues
 
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Marshall Islands remained on Tier 2 Watch List for the second consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/marshall-islands/<br>
+**Refugees and internally displaced persons**<br>
+_IDPs_: 35 (2024 est.)<br>
 

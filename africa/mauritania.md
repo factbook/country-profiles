@@ -172,16 +172,13 @@ _female_: 68.5 years<br>
 **Gross reproduction rate**<br>
 1.68 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-11.5% (2019/20)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 98.7% of population<br>
-_improved: rural_: rural: 68.4% of population<br>
-_improved: total_: total: 85.2% of population<br>
-_unimproved: urban_: urban: 1.3% of population<br>
-_unimproved: rural_: rural: 31.6% of population<br>
-_unimproved: total_: total: 14.8% of population (2020 est.)<br>
+_improved: urban_: urban: 94.6% of population (2022 est.)<br>
+_improved: rural_: rural: 55.6% of population (2022 est.)<br>
+_improved: total_: total: 77.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 5.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 44.4% of population (2022 est.)<br>
+_unimproved: total_: total: 22.2% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.1% of GDP (2021)<br>
@@ -191,12 +188,12 @@ _Health expenditure (as % of national budget)_: 6.3% of national budget (2022 es
 0.26 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 83.5% of population<br>
-_improved: rural_: rural: 25.2% of population<br>
-_improved: total_: total: 57.5% of population<br>
-_unimproved: urban_: urban: 16.5% of population<br>
-_unimproved: rural_: rural: 74.8% of population<br>
-_unimproved: total_: total: 42.5% of population (2020 est.)<br>
+_improved: urban_: urban: 89.4% of population (2022 est.)<br>
+_improved: rural_: rural: 33.9% of population (2022 est.)<br>
+_improved: total_: total: 65.5% of population (2022 est.)<br>
+_unimproved: urban_: urban: 10.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 66.1% of population (2022 est.)<br>
+_unimproved: total_: total: 34.5% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 12.7% (2016)<br>
@@ -262,23 +259,24 @@ _other_: 61.2% (2022 est.)<br>
 _urban population_: 57.7% of total population (2023)<br>
 _rate of urbanization_: 3.84% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 41.98 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 2.74 megatons (2016 est.)<br>
-_methane emissions_: 6.16 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 4.86 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 4.86 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+35.1 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 454,000 tons (2009 est.)<br>
-_municipal solid waste recycled annually_: 36,320 tons (2009 est.)<br>
-_percent of municipal solid waste recycled_: 8% (2009 est.)<br>
+_municipal solid waste generated annually_: 454,000 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 10% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 100 million cubic meters (2020 est.)<br>
-_industrial_: 30 million cubic meters (2020 est.)<br>
-_agricultural_: 1.2 billion cubic meters (2020 est.)<br>
+_municipal_: 95.4 million cubic meters (2022 est.)<br>
+_industrial_: 31.8 million cubic meters (2022 est.)<br>
+_agricultural_: 1.223 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-11.4 billion cubic meters (2020 est.)<br>
+11.4 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -374,8 +372,8 @@ ABEDA, ACP, AfDB, AFESD, AIIB, AMF, AMU, AU, CAEU, EITI (compliant country), FAO
 **National holiday**<br>
 Independence Day, 28 November (1960)<br>
 
-**Flag description**<br>
-green with a five-pointed yellow star between the ends of a yellow, upward-pointing crescent moon and red stripes along the top and bottom edges; the crescent, star, and color green are traditional symbols of Islam; green also represents hope for a bright future; the yellow color stands for the sands of the Sahara, and red for blood shed in the fight for independence<br>
+**Flag**<br>
+<strong>description:</strong> green with red stripes along the top and bottom edges; on the green field, a five-pointed yellow star is centered over a yellow, upward-pointing crescent moon<br><br><strong>meaning:</strong> the crescent, star, and color green are traditional symbols of Islam; green also represents hope for a bright future; yellow stands for the sands of the Sahara, and red for blood shed in the fight for independence<br>
 
 **National symbol(s)**<br>
 five-pointed star between the horns of a horizontal crescent moon<br>
@@ -384,9 +382,9 @@ five-pointed star between the horns of a horizontal crescent moon<br>
 green, yellow<br>
 
 **National anthem(s)**<br>
-_title_: "Bilāda l-ʾubāti l-hudāti l-kirām" (Land of the Proud, Guided by Noblemen)<br>
-_lyrics/music_: unknown/traditional, Rageh DAOUD<br>
-_history_: adopted 28 November 2017<br>
+_title_: "National Anthem of Mauritania"&nbsp;<br>
+_lyrics/music_: unknown/Rageh DAOUD<br>
+_history_: adopted 2017<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
@@ -491,6 +489,9 @@ _highest 10%_: 24.6% (2019 est.)<br>
 _revenues_: $1.617 billion (2019 est.)<br>
 _expenditures_: $1.407 billion (2019 est.)<br>
 
+**Public debt**<br>
+100% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 -$966.506 million (2023 est.)<br>
 -$1.424 billion (2022 est.)<br>
@@ -570,10 +571,6 @@ _crude oil estimated reserves_: 20 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
 _proven reserves_: 28.317 billion cubic meters (2021 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 4.86 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 4.86 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 14.135 million Btu/person (2023 est.)<br>
@@ -665,5 +662,5 @@ Al-Qa'ida in the Islamic Maghreb (AQIM)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,000 (Sahrawis) (2021); 104,080 (Mali) (2023)<br>
+_refugees_: 162,277 (2024 est.)<br>
 

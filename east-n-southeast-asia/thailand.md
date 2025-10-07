@@ -172,16 +172,13 @@ _female_: 81.3 years<br>
 **Gross reproduction rate**<br>
 0.75 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-73% (2019)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.2% of GDP (2021)<br>
@@ -194,12 +191,12 @@ _Health expenditure (as % of national budget)_: 16.1% of national budget (2022 e
 2.3 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 99.9% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 10% (2016)<br>
@@ -265,23 +262,32 @@ _other_: 15.2% (2022 est.)<br>
 _urban population_: 53.6% of total population (2023)<br>
 _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 24.64 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 283.76 megatons (2016 est.)<br>
-_methane emissions_: 86.98 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 336.693 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 79.928 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 160.931 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 95.834 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+26.3 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 708.8 kt (2022-2024 est.)<br>
+_agriculture_: 2,109.9 kt (2019-2021 est.)<br>
+_waste_: 635.8 kt (2019-2021 est.)<br>
+_other_: 57.9 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 26,853,366 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 5,128,993 tons (2012 est.)<br>
-_percent of municipal solid waste recycled_: 19.1% (2012 est.)<br>
+_municipal solid waste generated annually_: 26.853 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 40% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 2.74 billion cubic meters (2020 est.)<br>
-_industrial_: 2.78 billion cubic meters (2020 est.)<br>
-_agricultural_: 51.79 billion cubic meters (2020 est.)<br>
+_municipal_: 2.739 billion cubic meters (2022 est.)<br>
+_industrial_: 2.777 billion cubic meters (2022 est.)<br>
+_agricultural_: 51.79 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-438.61 billion cubic meters (2020 est.)<br>
+438.61 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 2<br>
@@ -330,10 +336,9 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King WACHIRALONGKON; also spelled Vajiralongkorn (since 1 December 2016)<br>
-_head of government_: Interim Prime Minister PHUMTHAM Wechayachai (since 3 July 2025)<br>
+_head of government_: Prime Minister ANUTIN Charnvirakul (since 5 Sep 2025)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the king; a Privy Council advises the king<br>
 _election/appointment process_: the monarchy is hereditary; prime minister candidate approved by House of Representatives and appointed by the king<br>
-<strong>note:</strong> PHAETHONGTHAN Chinnawat (also spelled PAETONGTARN Shinawatra), Prime Minister since 18 August 2024, was suspended by Thailand's Constitutional Court on 1 July pending an investigation<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Rathhasapha)<br>
@@ -394,9 +399,9 @@ ADB, APEC, ARF, ASEAN, BIMSTEC, BIS, CD, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, I
 **National holiday**<br>
 Birthday of King WACHIRALONGKON, 28 July (1952)<br>
 
-**Flag description**<br>
-five horizontal bands of red (top), white, blue (double-width), white, and red; the red color stands for the nation and the blood of life, white for religion and the purity of Buddhism, and blue for the monarchy<br>
-<strong>note:</strong> similar to the flag of Costa Rica but with the blue and red colors reversed<br>
+**Flag**<br>
+<strong>description: </strong>five horizontal bands of red (top), white, blue (double-width), white, and red<br><br><strong>meaning: </strong>red stands for the nation and the blood of life, white for religion and the purity of Buddhism, and blue for the monarchy<br>
+<strong>note:</strong> similar to the flag of Costa Rica, but with the blue and red colors reversed<br>
 
 **National symbol(s)**<br>
 garuda (mythical half-man, half-bird figure), elephant<br>
@@ -409,7 +414,7 @@ in 1911, King Vajiravudh (Rama VI) of Thailand officially adopted the Garuda as 
 
 **National anthem(s)**<br>
 _title_: "Phleng Sanlasoen Phra Barami" (A Salute to the Monarch)<br>
-_lyrics/music_: Luang SARANUPRAPAN/Phra JENDURIYANG<br>
+_lyrics/music_: Narisara&nbsp; NUWATTIWONG and King VAJIRAVUDH/Pyotr SHCHUROVSKY&nbsp; &nbsp;&nbsp;<br>
 _history_: royal anthem, played in the presence of the royal family and during certain state ceremonies<br>
 
 **National heritage**<br>
@@ -515,9 +520,9 @@ _highest 10%_: 26.1% (2023 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $90.509 billion (2022 est.)<br>
-_expenditures_: $106.576 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $102.84 billion (2023 est.)<br>
+_expenditures_: $114.521 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 61.1% of GDP (2023 est.)<br>
@@ -618,12 +623,6 @@ _consumption_: 52.351 billion cubic meters (2023 est.)<br>
 _imports_: 22.738 billion cubic meters (2023 est.)<br>
 _proven reserves_: 138.243 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 336.693 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 79.928 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 160.931 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 95.834 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 80.602 million Btu/person (2023 est.)<br>
 
@@ -711,22 +710,21 @@ the missions of the Royal Thai Armed Forces (RTARF) include defending the countr
 ## Space
 
 **Space agency/agencies**<br>
-Geo-Informatics and Space Technology Development Agency (GISTDA; created in 2000 from the Thailand Remote Sensing Center that was established in 1979; GISTDA is under the Ministry of Higher Education, Science, Research and Innovation); National Space Policy Committee (NSPC; advisory body to the prime minister) (2024)<br>
+Geo-Informatics and Space Technology Development Agency (GISTDA; created in 2000 from the Thailand Remote Sensing Center that was established in 1979; GISTDA is under the Ministry of Higher Education, Science, Research and Innovation); National Space Policy Committee (NSPC; advisory body to the prime minister) (2025)<br>
 
 **Space launch site(s)**<br>
-none; in 2023, announced intentions to build a spaceport with South Korean assistance (2024)<br>
+none; in 2023, announced intentions to build a spaceport with South Korean assistance (2025)<br>
 
 **Space program overview**<br>
-has an ambitious and growing space program focused on the acquisition and operation of satellites and the development of related technologies; operates communications and remote sensing (RS) satellites; manufactures scientific/research/testing cube satellites and developing the capabilities to produce RS satellites (has historically built satellites with foreign assistance); cooperates with a range of foreign space agencies and industries, including those of other ASEAN countries, China, France, India, the Netherlands, Pakistan, Russia, South Korea, and the US; founding member of the China-led Asia-Pacific Space Cooperation Organization (APSCO); has a growing space industry, including Southeast Asia’s first dedicated satellite manufacturing facility, which opened in 2021 (2024)<br>
+has an ambitious and growing national space program focused on the acquisition, production, and operation of satellites, as well as research and development of related space infrastructure, sciences, and technologies; operates communications and remote sensing (RS) satellites; manufactures scientific/research/testing cube satellites and developing the capabilities to produce RS satellites (has historically built satellites with foreign assistance); cooperates with a range of foreign space agencies and industries, including those of other ASEAN countries, China, France, India, the Netherlands, Pakistan, Russia, South Korea, and the US; founding member of the China-led Asia-Pacific Space Cooperation Organization (APSCO); has a growing space industry, including Southeast Asia’s first dedicated satellite manufacturing facility, which opened in 2021 (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 91,339 (Burma) (refugees and asylum seekers) (2023)<br>
-_IDPs_: 41,000 (2022)<br>
-_stateless persons_: 566,900 (2022) (estimate represents stateless persons registered with the Thai Government; actual number may be as high as 3.5 million); note - about half of Thailand's northern hill tribe people do not have citizenship and make up the bulk of Thailand's stateless population; most lack documentation showing they or one of their parents were born in Thailand; children born to Burmese refugees are not eligible for Burmese or Thai citizenship and are stateless; most Chao Lay, maritime nomadic peoples, who travel from island to island in the Andaman Sea west of Thailand are also stateless; stateless Rohingya refugees from Burma are considered illegal migrants by Thai authorities and are detained in inhumane conditions or expelled; stateless persons are denied access to voting, property, education, employment, healthcare, and driving<br>
-<strong>note:</strong> Thai nationality was granted to more than 23,000 stateless persons between 2012 and 2016 and more than 18,000 between 2018 and 2021; in 2016, the Government of Thailand approved changes to its citizenship laws that could make 80,000 stateless persons eligible for citizenship, as part of its effort to achieve zero statelessness by 2024 (2021)<br>
+_refugees_: 87,025 (2024 est.)<br>
+_IDPs_: 19 (2023 est.)<br>
+_stateless persons_: 612,524 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major precursor-chemical producer (2025)<br>

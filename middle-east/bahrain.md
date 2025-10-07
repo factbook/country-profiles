@@ -158,12 +158,9 @@ _female_: 82.7 years<br>
 **Gross reproduction rate**<br>
 0.81 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: total_: total: 99.9% of population (2022 est.)<br>
+_unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.3% of GDP (2021)<br>
@@ -176,12 +173,8 @@ _Health expenditure (as % of national budget)_: 8.6% of national budget (2022 es
 1.7 beds/1,000 population (2019 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 29.8% (2016)<br>
@@ -239,23 +232,32 @@ _other_: 88.8% (2022 est.)<br>
 _urban population_: 89.9% of total population (2023)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 51.82 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 31.69 megatons (2016 est.)<br>
-_methane emissions_: 15.47 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 47.818 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: -1,401 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 8.825 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 38.995 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+51.8 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 165.3 kt (2022-2024 est.)<br>
+_agriculture_: 0.6 kt (2019-2021 est.)<br>
+_waste_: 163.6 kt (2019-2021 est.)<br>
+_other_: 1.2 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 951,943 tons (2016 est.)<br>
-_municipal solid waste recycled annually_: 76,155 tons (2012 est.)<br>
-_percent of municipal solid waste recycled_: 8% (2012 est.)<br>
+_municipal solid waste generated annually_: 951,900 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 14.1% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 280 million cubic meters (2020 est.)<br>
-_industrial_: 10 million cubic meters (2020 est.)<br>
-_agricultural_: 140 million cubic meters (2020 est.)<br>
+_municipal_: 275.6 million cubic meters (2022 est.)<br>
+_industrial_: 14.1 million cubic meters (2022 est.)<br>
+_agricultural_: 144.7 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-120 million cubic meters (2020 est.)<br>
+116 million cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -363,9 +365,8 @@ ABEDA, AFESD, AMF, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national c
 National Day, 16 December (1971)<br>
 <strong>note:</strong> 15 August 1971 was the date of independence from the UK, 16 December 1971 was the date of independence from British protection<br>
 
-**Flag description**<br>
-red, the traditional color for flags of Persian Gulf states, with a white serrated band of five white points on the hoist side; the five points represent the five pillars of Islam<br>
-<strong>note:</strong> until 2002, the flag had eight white points, but this was reduced to five to avoid confusion with the Qatari flag<br>
+**Flag**<br>
+<strong>description:</strong> red, with a white serrated band of five white points on the left side<br><br><strong>meaning:</strong> red is the traditional color for flags of Persian Gulf states; the five points represent the five pillars of Islam<br><br><strong>history: </strong>until 2002, the flag had eight white points, but this was reduced to five to avoid confusion with the Qatari flag<br>
 
 **National symbol(s)**<br>
 a white serrated band with five white points on top of a red field<br>
@@ -469,12 +470,12 @@ _on alcohol and tobacco_: 0.4% of household expenditures (2023 est.)<br>
 
 **Budget**<br>
 _revenues_: $5.538 billion (2020 est.)<br>
-_expenditures_: $9.357 billion (2020 est.)<br>
+_expenditures_: $9.982 billion (2020 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 111.6% of GDP (2020 est.)<br>
-<strong data-olk-copy-source="MessageBody">note:</strong> central government debt as a % of GDP<br>
+<strong>note:</strong> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 2.8% (of GDP) (2020 est.)<br>
@@ -558,12 +559,6 @@ _production_: 19.55 billion cubic meters (2023 est.)<br>
 _consumption_: 19.878 billion cubic meters (2023 est.)<br>
 _imports_: 81.98 million cubic meters (2020 est.)<br>
 _proven reserves_: 81.383 billion cubic meters (2021 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 47.818 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: -1,401 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 8.825 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 38.995 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 554.202 million Btu/person (2023 est.)<br>
@@ -656,4 +651,7 @@ al-Ashtar Brigades; Islamic Revolutionary Guard Corps/Qods Force<br>
 <strong>note 1:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide <br><br><strong>note 2: </strong>in addition to the al-Ashtar Brigades and the IRGC/Qods Force, Saraya al-Mukhtar (aka The Mukhtar Brigade) is an Iran-backed terrorist organization based in Bahrain, reportedly receiving financial and logistic support from the IRGC; Saraya al-Mukhtar's self-described goal is to depose the Bahraini Government with the intention of paving the way for Iran to exert greater influence in Bahrain; the group was designated by the US as a Specially Designated Global Terrorist in Dec 2020<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 371 (2024 est.)<br>
 

@@ -39,13 +39,13 @@ _percent of World Ocean total volume_: 5.4%<br>
 <p>the cold, clockwise-flowing Antarctic Circumpolar Current (West Wind Drift; 21,000 km long) moves perpetually eastward around the continent and is the world's largest and strongest ocean current, transporting 130 million cubic meters of water per second - 100 times the flow of all the world's rivers; it is also the only current that flows all the way around the planet and connects the Atlantic, Pacific, and Indian Ocean basins; the cold Antarctic Coastal Current (East Wind Drift) is the southernmost current in the world, flowing westward and parallel to the Antarctic coastline</p><br>
 
 **Bathymetry**<br>
-_continental shelf_: the following are examples of features found on the continental shelf of the Southern Ocean (see Figure 2):<br><br>Astrid Ridge (see also Figure 4)<br>Belgrano Bank<br>Gunnerus Ridge (see also Figure 4)<br>Hayes Bank<br>Iselin Bank<br>
-_continental slope_: the following are examples of features found on the continental slope of the Southern Ocean (see Figure 2):<br><br>Amery Basin (Figure 4)<br>Filchner Trough<br>Hillary Canyon<br>Pobeda Canyon (Figure 3)<br>
-_abyssal plains_: the following are examples of features found on the abyssal plains of the Southern Ocean (see Figures 2, 3, and 4):<br><br>Amundsen (Abyssal) Plain<br>Enderby (Abyssal) Plain<br>South Indian/Australian-Antarctic Basin<br>Southeast Pacific/Bellinghausen Basin<br>Weddell (Abyssal) Plain<br>
-_mid-ocean ridge_: the following are examples of mid-ocean ridges found on the floor of the Southern Ocean (see Figure 2):<br><br>Pacific-Antarctic Ridge (Figure 3)<br>
-_undersea terrain features_: the following are examples of undersea terrain features found on the floor of the Southern Ocean (see Figure 2):<br><br>Akopov Seamounts (Figure 3)<br>De Gerlache Seamounts (see also Figure 3, 4)<br>Endurance Ridge (Figure 4)<br>Marie Byrd Seamount (see also Figure 3)<br>Maud Rise (see also Figure 4)<br>Scott Seamounts (see also Figure 3)<br>
-_ocean trenches_: <p>the following are examples of ocean trenches found on the floor of the Southern Ocean (see Figure 2):<br><br>South Sandwich Trench (Figure 4; the deepest location in the Southern Ocean)</p><br>
-_atolls_: due to the extremely cold water, there are no atolls in the Southern Ocean<br>
+_continental shelf_: the following are examples of features on the continental shelf of the Southern Ocean (see Figure 2):<br><br>Astrid Ridge (see also Figure 4)<br>Belgrano Bank<br>Gunnerus Ridge (see also Figure 4)<br>Hayes Bank<br>Iselin Bank<br>
+_continental slope_: the following are examples of features on the continental slope of the Southern Ocean (see Figure 2):<br><br>Amery Basin (Figure 4)<br>Filchner Trough<br>Hillary Canyon<br>Pobeda Canyon (Figure 3)<br>
+_abyssal plains_: the following are examples of features on the abyssal plains of the Southern Ocean (see Figures 2, 3, and 4):<br><br>Amundsen (Abyssal) Plain<br>Enderby (Abyssal) Plain<br>South Indian/Australian-Antarctic Basin<br>Southeast Pacific/Bellinghausen Basin<br>Weddell (Abyssal) Plain<br>
+_mid-ocean ridge_: the following are examples of mid-ocean ridges on the floor of the Southern Ocean (see Figure 2):<br><br>Pacific-Antarctic Ridge (Figure 3)<br>
+_undersea terrain features_: the following are examples of undersea terrain features on the floor of the Southern Ocean (see Figure 2):<br><br>Akopov Seamounts (Figure 3)<br>De Gerlache Seamounts (see also Figure 3, 4)<br>Endurance Ridge (Figure 4)<br>Marie Byrd Seamount (see also Figure 3)<br>Maud Rise (see also Figure 4)<br>Scott Seamounts (see also Figure 3)<br>
+_ocean trenches_: the following are examples of ocean trenches on the floor of the Southern Ocean (see Figure 2):<br><br>South Sandwich Trench (Figure 4; the deepest location in the Southern Ocean)<br>
+_atolls_: none, due to the extremely cold water<br>
 
 **Elevation**<br>
 _highest point_: sea level<br>
@@ -61,8 +61,6 @@ huge icebergs with drafts up to several hundred meters; smaller bergs and iceber
 
 **Geography - note**<br>
 the major chokepoint is the Drake Passage between South America and Antarctica; the Polar Front (Antarctic Convergence) is the best natural definition of the northern extent of the Southern Ocean; it is a distinct region at the middle of the Antarctic Circumpolar Current that separates the cold polar surface waters to the south from the warmer waters to the north; the Front and the Current extend entirely around Antarctica, reaching south of 60 degrees south near New Zealand and near 48 degrees south in the far South Atlantic, coinciding with the path of the maximum westerly winds<br>
-
-## People and Society
 
 ## Environment
 

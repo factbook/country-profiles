@@ -150,13 +150,6 @@ _female_: 79.1 years<br>
 **Gross reproduction rate**<br>
 0.91 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
-**Drinking water source**<br>
-_improved: total_: total: 96.8% of population<br>
-_unimproved: total_: total: 3.2% of population (2017 est.)<br>
-
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.7% of GDP (2021)<br>
 _Health expenditure (as % of national budget)_: 6.3% of national budget (2022 est.)<br>
@@ -166,14 +159,6 @@ _Health expenditure (as % of national budget)_: 6.3% of national budget (2022 es
 
 **Hospital bed density**<br>
 3.2 beds/1,000 population (2018 est.)<br>
-
-**Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 93.7% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 6.3% of population (2020 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 21.3% (2016)<br>
@@ -221,13 +206,16 @@ _other_: 24.4% (2022 est.)<br>
 _urban population_: 37.1% of total population (2023)<br>
 _rate of urbanization_: 0.86% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 10.08 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.27 megatons (2016 est.)<br>
-_methane emissions_: 2.04 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 348,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 348,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+10.2 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 29,536 tons (2012 est.)<br>
+_municipal solid waste generated annually_: 29,500 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 15.1% (2022 est.)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 10 million cubic meters (2020 est.)<br>
@@ -339,8 +327,8 @@ ACP, ACS, AOSIS, CARIFORUM, CARIBCAN, Caricom, CBI, CDB, CELAC, CSME, ECCU, EPA,
 **National holiday**<br>
 Independence Day, 7 February (1974)<br>
 
-**Flag description**<br>
-a rectangle divided diagonally into yellow triangles (top and bottom) and green triangles (hoist side and outer side), with a red border around the flag; three yellow five-pointed stars are centered on the top red border, three on the bottom red border, and one on a red disk at the center of the flag; a nutmeg pod is on the hoist-side triangle; the seven stars stand for the administrative divisions, with the central star denoting the capital, St. George's; yellow stands for the sun and the warmth of the people, green for vegetation and agriculture, and red for harmony, unity, and courage<br>
+**Flag**<br>
+<strong>description:</strong> a rectangle divided diagonally into yellow triangles (top and bottom) and green triangles (left and right), with a wide red border around the flag; three five-pointed yellow stars are centered on the top and bottom of the red border, with one larger yellow star on a red disk at the center of the flag; a small yellow-and-red nutmeg pod is on the left triangle<br><br><strong>meaning:</strong> the seven stars stand for the country's administrative divisions, with the central star symbolizing the capital, St. George's; yellow stands for the sun and the warmth of the people, green for vegetation and agriculture, and red for harmony, unity, and courage<br>
 
 **National symbol(s)**<br>
 Grenada dove, bougainvillea flower<br>
@@ -417,7 +405,7 @@ food and beverages, textiles, light assembly operations, tourism, construction, 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1% (2018 est.)<br>
 _highest 10%_: 33.7% (2018 est.)<br>
-% share of income accruing to lowest and highest 10% of population<br>
+<strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 5% of GDP (2024 est.)<br>
@@ -429,6 +417,9 @@ _highest 10%_: 33.7% (2018 est.)<br>
 _revenues_: $288.404 million (2017 est.)<br>
 _expenditures_: $222.475 million (2017 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+82% of GDP (2016 est.)<br>
 
 **Current account balance**<br>
 -$270.771 million (2024 est.)<br>
@@ -503,10 +494,6 @@ _imports_: 1 metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 2,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 348,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 348,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 41.703 million Btu/person (2023 est.)<br>
 
@@ -563,4 +550,7 @@ no regular military forces; the Royal Grenada Police Force (under the Ministry o
 Grenada joined the Caribbean Regional Security System (RSS) in 1985; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Guyana, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_IDPs_: 383 (2024 est.)<br>
 

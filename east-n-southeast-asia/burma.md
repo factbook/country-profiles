@@ -172,16 +172,13 @@ _female_: 72.1 years<br>
 **Gross reproduction rate**<br>
 0.96 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-52.2% (2015/16)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 95.4% of population<br>
-_improved: rural_: rural: 80.7% of population<br>
-_improved: total_: total: 85.3% of population<br>
-_unimproved: urban_: urban: 4.6% of population<br>
-_unimproved: rural_: rural: 19.3% of population<br>
-_unimproved: total_: total: 14.7% of population (2020 est.)<br>
+_improved: urban_: urban: 93.7% of population (2022 est.)<br>
+_improved: rural_: rural: 77.1% of population (2022 est.)<br>
+_improved: total_: total: 82.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 6.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 22.9% of population (2022 est.)<br>
+_unimproved: total_: total: 17.6% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.6% of GDP (2021)<br>
@@ -194,12 +191,12 @@ _Health expenditure (as % of national budget)_: 2.5% of national budget (2022 es
 1.1 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 93.9% of population<br>
-_improved: rural_: rural: 81.3% of population<br>
-_improved: total_: total: 85.2% of population<br>
-_unimproved: urban_: urban: 6.1% of population<br>
-_unimproved: rural_: rural: 18.7% of population<br>
-_unimproved: total_: total: 14.8% of population (2020 est.)<br>
+_improved: urban_: urban: 94.1% of population (2022 est.)<br>
+_improved: rural_: rural: 82% of population (2022 est.)<br>
+_improved: total_: total: 85.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 5.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 18% of population (2022 est.)<br>
+_unimproved: total_: total: 14.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 5.8% (2016)<br>
@@ -265,21 +262,26 @@ _other_: 37.3% (2022 est.)<br>
 _urban population_: 32.1% of total population (2023)<br>
 _rate of urbanization_: 1.85% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 27.16 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 25.28 megatons (2016 est.)<br>
-_methane emissions_: 42.2 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 27.005 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 1.24 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 17.39 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 8.376 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+27.2 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 4,677,307 tons (2000 est.)<br>
+_municipal solid waste generated annually_: 4.677 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 12.3% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 3.32 billion cubic meters (2019 est.)<br>
-_industrial_: 500 million cubic meters (2019 est.)<br>
-_agricultural_: 29.57 billion cubic meters (2019 est.)<br>
+_municipal_: 3.323 billion cubic meters (2022 est.)<br>
+_industrial_: 498.4 million cubic meters (2022 est.)<br>
+_agricultural_: 29.57 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-1.2 trillion cubic meters (2020 est.)<br>
+1.168 trillion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -338,7 +340,9 @@ _state counsellor_: State Counselor AUNG SAN SUU KYI (since 6 April 2016); note 
 **Legislative branch**<br>
 _legislature name_: Assembly of the Union (Pyidaungsu Hluttaw)<br>
 _legislative structure_: bicameral<br>
-<strong>note 1:</strong> the Assembly of the Union was dissolved on 1 February 2021 after a military coup led by Sr. General MIN AUNG HLAING; it was replaced by the State Administration Council<br><br><strong>note 2:</strong> the military junta overturned the results of the 8 November legislative elections<br>
+_most recent election date_: 8 November 2020<br>
+_expected date of next election_: on 31 July 2025, the military government announced that it was preparing for elections to be held in late December 2025<br>
+<strong>note:</strong> on 1 February 2021, the Burmese military claimed the results of the 2020 general election were illegitimate and launched a coup led by Sr. General MIN AUNG HLAING; the military subsequently dissolved the Assembly of the Union and replaced it with the military-led State Administration Council<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Union (consists of the chief justice and 7-11 judges)<br>
@@ -374,8 +378,8 @@ ADB, ARF, ASEAN, BIMSTEC, CP, EAS, EITI (candidate country), FAO, G-77, IAEA, IB
 **National holiday**<br>
 Independence Day, 4 January (1948); Union Day, 12 February (1947)<br>
 
-**Flag description**<br>
-three equal horizontal stripes of yellow (top), green, and red; centered on the green band is a white five-pointed star that overlaps onto the adjacent colored stripes; the design revives the triband colors that Burma used from 1943 to 1945, during the Japanese occupation<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal stripes of yellow (top), green, and red; centered on the green band is a five-pointed white star that overlaps onto the yellow and red stripes<br><br><strong>history:</strong> the design revives the triband colors that Burma used from 1943 to 1945, during the Japanese occupation<br>
 
 **National symbol(s)**<br>
 chinthe (mythical lion)<br>
@@ -486,6 +490,9 @@ _revenues_: $10.945 billion (2019 est.)<br>
 _expenditures_: $10.22 billion (2019 est.)<br>
 <b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
 
+**Public debt**<br>
+35.7% of GDP (2016 est.)<br>
+
 **Taxes and other revenues**<br>
 6% (of GDP) (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
@@ -580,12 +587,6 @@ _exports_: 9.29 billion cubic meters (2023 est.)<br>
 _imports_: 219.822 million cubic meters (2021 est.)<br>
 _proven reserves_: 637.129 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 27.005 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 1.24 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 17.39 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 8.376 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 8.384 million Btu/person (2023 est.)<br>
 
@@ -670,11 +671,11 @@ since the country’s founding, the Tatmadaw has been deeply involved in domesti
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 1.975 million (government offensives against armed ethnic minority groups near its borders with China and Thailand, natural disasters, forced land evictions) (2023)<br>
-_stateless persons_: 600,000 (2022); note - Rohingya Muslims, living predominantly in Rakhine State, are Burma's main group of stateless people; the Burmese Government does not recognize the Rohingya as a "national race" and stripped them of their citizenship under the 1982 Citizenship Law, categorizing them as "non-nationals" or "foreign residents;" under the Rakhine State Action Plan drafted in October 2014, the Rohingya must demonstrate their family has lived in Burma for at least 60 years to qualify for a lesser naturalized citizenship and the classification of Bengali or be put in detention camps and face deportation; native-born but non-indigenous people, such as Indians, are also stateless; the Burmese Government does not grant citizenship to children born outside of the country to Burmese parents who left the country illegally or fled persecution, such as those born in Thailand; the number of stateless persons has decreased dramatically because hundreds of thousands of Rohingya have fled to Bangladesh since 25 August 2017 to escape violence<br>
+_IDPs_: 3,646,658 (2024 est.)<br>
+_stateless persons_: 619,429 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 — Burma does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Burma remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/burma/<br>
+_tier rating_: Tier 3 — Burma does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Burma remained on Tier 3; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/burma/<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>

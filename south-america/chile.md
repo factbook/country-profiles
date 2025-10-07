@@ -75,7 +75,7 @@ _fresh water lake(s)_: Lago General Carrera (shared with Argentina) - 2,240 sq k
 severe earthquakes; active volcanism; tsunamis <br><br><strong>volcanism:</strong> significant volcanic activity due to more than three-dozen active volcanoes along the Andes Mountains; Lascar (5,592 m), which last erupted in 2007, is the most active volcano in the northern Chilean Andes; Llaima (3,125 m) in central Chile, which last erupted in 2009, is another of the country's most active; Chaiten's 2008 eruption forced major evacuations; other notable historically active volcanoes include Cerro Hudson, Calbuco, Copahue, Guallatiri, Llullaillaco, Nevados de Chillan, Puyehue, San Pedro, and Villarrica; see note 2 under "Geography - note"<br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> the longest country north-to-south in the world, extending across 39 degrees of latitude; strategic location relative to sea lanes between the Atlantic and Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage)</p> <p><strong>note 2:</strong> Chile is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> the Atacama Desert in the north is the driest desert in the world; Ojos del Salado (6,893 m) in the Atacama Desert is the highest active volcano in the world, Chile's tallest mountain, and the second highest in the Western Hemisphere and the Southern Hemisphere; the volcano's small crater lake (at 6,390 m) is the world's highest lake</p><br>
+<strong>note 1:</strong> Chile is the longest country north-to-south in the world, extending across 39 degrees of latitude<br><br><strong>note 2:</strong> Chile is one of the countries along the Ring of Fire, which is a belt bordering the Pacific Ocean that contains about 75% of the world's volcanoes and up to 90% of the world's earthquakes<br><br><strong>note 3:</strong> the Atacama Desert in the north of Chile is the driest desert in the world; Ojos del Salado (6,893 m) in the Atacama Desert is the highest active volcano in the world, Chile's tallest mountain, and the second-highest in the Western Hemisphere and the Southern Hemisphere; the volcano's small crater lake is the world's highest lake at 6,390 m<br>
 
 ## People and Society
 
@@ -97,7 +97,7 @@ _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indi
 <strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census<br>
 
 **Religions**<br>
-Roman Catholic 42%, Evangelical 14%, other 6%, none 37% (2021 est.)<br>
+Catholic 57%, none 25.7%, Evangelical or Protestant 16.2%, other Christians and traditions related to Christ 1.3%; less than 1%: Buddhist, Catholic Orthodox, Church of Jesus Christ of Latter-Day Saints, Islam, Judaism, other religions, no religion (2024)<br>
 
 **Age structure**<br>
 _0-14 years_: 19.2% (male 1,822,908/female 1,751,528)<br>
@@ -163,16 +163,13 @@ _female_: 83.3 years<br>
 **Gross reproduction rate**<br>
 0.85 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-76.3% (2015/16)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 9% of GDP (2022)<br>
@@ -185,12 +182,12 @@ _Health expenditure (as % of national budget)_: 19% of national budget (2022 est
 2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 28% (2016)<br>
@@ -248,23 +245,26 @@ _other_: 60.9% (2022 est.)<br>
 _urban population_: 88% of total population (2023)<br>
 _rate of urbanization_: 0.78% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 20.49 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 85.82 megatons (2016 est.)<br>
-_methane emissions_: 15.97 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 83.058 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 14.773 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 55.504 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 12.781 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+18.8 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 6.517 million tons (2009 est.)<br>
-_municipal solid waste recycled annually_: 24,113 tons (2009 est.)<br>
-_percent of municipal solid waste recycled_: 0.4% (2009 est.)<br>
+_municipal solid waste generated annually_: 6.517 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 1% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.29 billion cubic meters (2020 est.)<br>
-_industrial_: 1.66 billion cubic meters (2020 est.)<br>
-_agricultural_: 29.42 billion cubic meters (2020 est.)<br>
+_municipal_: 1.29 billion cubic meters (2022 est.)<br>
+_industrial_: 1.66 billion cubic meters (2022 est.)<br>
+_agricultural_: 29.42 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-923.1 billion cubic meters (2020 est.)<br>
+923.06 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 1<br>
@@ -382,8 +382,8 @@ APEC, BIS, CAN (associate), CD, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, 
 **National holiday**<br>
 Independence Day, 18 September (1810)<br>
 
-**Flag description**<br>
-two equal horizontal bands of white (top) and red; a blue square the same height as the white band at the hoist-side end of the white band; the square bears a white five-pointed star in the center, representing a guide to progress and honor; blue stands for the sky, white for the snow-covered Andes, and red for the blood spilled to achieve independence<br>
+**Flag**<br>
+<strong>description:</strong> two equal horizontal bands of white (top) and red; a blue square sits in the top left corner of the flag, the same height as the white band; the square has a five-pointed white star in the center<br><br><strong>meaning:</strong> the star represents a guide to progress and honor; blue stands for the sky, white for the Andes Mountains, and red for the blood spilled to achieve independence<br>
 <strong>note:</strong> design influenced by the US flag<br>
 
 **National symbol(s)**<br>
@@ -500,9 +500,12 @@ _highest 10%_: 34.5% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $78.577 billion (2022 est.)<br>
-_expenditures_: $72.673 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $77.003 billion (2023 est.)<br>
+_expenditures_: $85.024 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+21% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 17.7% (of GDP) (2023 est.)<br>
@@ -593,12 +596,6 @@ _exports_: 39.009 million cubic meters (2023 est.)<br>
 _imports_: 5.196 billion cubic meters (2023 est.)<br>
 _proven reserves_: 97.976 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 83.058 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 14.773 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 55.504 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 12.781 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 71.42 million Btu/person (2023 est.)<br>
 
@@ -683,10 +680,10 @@ the Chilean military's responsibilities are territorial defense, ensuring the co
 ## Space
 
 **Space agency/agencies**<br>
-the Chilean Space Agency was established in 2001 and dissolved in 2014, at which time the space program became part of the Ministry of Defense; the Ministry of Science also participates in Chile&rsquo;s space program (2024)<br>
+the Chilean Space Agency was established in 2001 and dissolved in 2014, at which time the space program became part of the Ministry of Defense; the Ministry of Science also participates in Chile&rsquo;s space program (2025)<br>
 
 **Space program overview**<br>
-has a space program with a considerable history, now largely focused on the acquisition and operation of satellites; operates foreign-built satellites and satellite ground stations; building small remote sensing (RS) satellites; researching and developing additional capabilities and technologies for the production of satellites and satellite sub-systems; is a world leader in astronomy and astrophysics; the Atacama Desert is home to more than a dozen astronomical observatories, including the Cerro Tololo Inter-American Observatory, the Las Campanas Observatory, and the European Southern Observatory; Chile is also home to several astronomy institutes; has established relations with space agencies and industries of Canada, China, France, India, Israel, Mexico, Russia, the UK, and the US (2024)<br>
+space program focused on the acquisition and operation of satellites; operates foreign-built satellites and satellite ground stations; building small remote sensing (RS) satellites; researching and developing additional capabilities and technologies for the production of satellites and satellite sub-systems; is a world leader in astronomy and astrophysics; the Atacama Desert is home to more than a dozen astronomical observatories, including the Cerro Tololo Inter-American Observatory, the Las Campanas Observatory, and the European Southern Observatory; Chile is also home to several astronomy institutes; has established relations with space agencies and industries of Canada, China, France, India, Israel, Mexico, Russia, the UK, and the US (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -698,5 +695,7 @@ Tren de Aragua (TdA)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 444,423 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2023)<br>
+_refugees_: 15,788 (2024 est.)<br>
+_IDPs_: 8,323 (2024 est.)<br>
+_stateless persons_: 1,688 (2024 est.)<br>
 

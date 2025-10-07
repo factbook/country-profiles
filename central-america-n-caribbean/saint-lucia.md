@@ -155,16 +155,13 @@ _female_: 82.3 years<br>
 **Gross reproduction rate**<br>
 0.83 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-55.5% (2011/12)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.4% of population<br>
-_improved: rural_: rural: 98.5% of population<br>
-_improved: total_: total: 98.7% of population<br>
-_unimproved: urban_: urban: 0.6% of population<br>
-_unimproved: rural_: rural: 1.5% of population<br>
-_unimproved: total_: total: 1.3% of population (2020 est.)<br>
+_improved: urban_: urban: 97.2% of population (2022 est.)<br>
+_improved: rural_: rural: 96.8% of population (2022 est.)<br>
+_improved: total_: total: 96.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 2.8% of population (2022 est.)<br>
+_unimproved: rural_: rural: 3.2% of population (2022 est.)<br>
+_unimproved: total_: total: 3.1% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6.2% of GDP (2021)<br>
@@ -177,12 +174,12 @@ _Health expenditure (as % of national budget)_: 9% of national budget (2022 est.
 2 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 97.6% of population<br>
-_improved: rural_: rural: 92.9% of population<br>
-_improved: total_: total: 93.8% of population<br>
-_unimproved: urban_: urban: 2.4% of population<br>
-_unimproved: rural_: rural: 7.1% of population<br>
-_unimproved: total_: total: 6.2% of population (2020 est.)<br>
+_improved: urban_: urban: 97.6% of population (2022 est.)<br>
+_improved: rural_: rural: 92.9% of population (2022 est.)<br>
+_improved: total_: total: 93.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 2.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 7.1% of population (2022 est.)<br>
+_unimproved: total_: total: 6.2% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 19.7% (2016)<br>
@@ -235,21 +232,24 @@ _other_: 49.7% (2022 est.)<br>
 _urban population_: 19.2% of total population (2023)<br>
 _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 8.98 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.41 megatons (2016 est.)<br>
-_methane emissions_: 0.27 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 605,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 605,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+8.9 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 77,616 tons (2015 est.)<br>
+_municipal solid waste generated annually_: 77,600 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 13.3% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 10 million cubic meters (2020 est.)<br>
-_industrial_: 0 cubic meters (2017 est.)<br>
-_agricultural_: 30 million cubic meters (2020 est.)<br>
+_municipal_: 12.5 million cubic meters (2022 est.)<br>
+_industrial_: 0 cubic meters (2022 est.)<br>
+_agricultural_: 30.4 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-300 million cubic meters (2020 est.)<br>
+300 million cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -348,8 +348,8 @@ ACP, ACS, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, 
 **National holiday**<br>
 Independence Day, 22 February (1979)<br>
 
-**Flag description**<br>
-cerulean blue with a gold isosceles triangle below a black arrowhead; the upper edges of the arrowhead have a white border; blue stands for the sky and sea, gold for sunshine and prosperity, and white and black for the ethnic composition of the island; the triangles represent Gros Piton and Petit Piton, the cone-shaped volcanic plugs that are a symbol of the island<br>
+**Flag**<br>
+<strong>description:</strong> cerulean blue with a gold isosceles triangle below a black arrowhead; the upper edges of the arrowhead have a white border<br><br><strong>meaning:</strong> blue stands for the sky and sea, gold for sunshine and prosperity, and white and black for the ethnic composition of the island; the triangles represent Gros Piton and Petit Piton, the cone-shaped volcanic plugs that are a symbol of the island<br>
 
 **National symbol(s)**<br>
 twin pitons (volcanic peaks), Saint Lucia parrot<br>
@@ -358,9 +358,9 @@ twin pitons (volcanic peaks), Saint Lucia parrot<br>
 cerulean blue, gold, black, white<br>
 
 **National anthem(s)**<br>
-_title_: "Sons and Daughters of St. Lucia"<br>
-_lyrics/music_: Charles JESSE/Leton Felix THOMAS<br>
-_history_: adopted 1967<br>
+_title_: "God Save the King"<br>
+_lyrics/music_: unknown<br>
+_history_: in use since 1745<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (natural)<br>
@@ -464,6 +464,9 @@ _revenues_: $414.77 million (2017 est.)<br>
 _expenditures_: $351.956 million (2017 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
+**Public debt**<br>
+69.2% of GDP (2016 est.)<br>
+
 **Taxes and other revenues**<br>
 18.2% (of GDP) (2017 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
@@ -537,10 +540,6 @@ _solar_: 2% of total installed capacity (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 4,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 605,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 605,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 47.522 million Btu/person (2023 est.)<br>
 
@@ -593,4 +592,10 @@ no regular military forces; Ministry of Home Affairs, Justice, and National Secu
 Saint Lucia has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Guyana, Saint Kitts, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2025)<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 5 (2024 est.)<br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Saint Lucia was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/saint-lucia/<br>
 

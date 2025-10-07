@@ -167,16 +167,13 @@ _female_: 73.7 years<br>
 **Gross reproduction rate**<br>
 0.9 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-46.7% (2019)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 92.7% of population<br>
-_improved: rural_: rural: 94.4% of population<br>
-_improved: total_: total: 94.1% of population<br>
-_unimproved: urban_: urban: 7.3% of population<br>
-_unimproved: rural_: rural: 5.6% of population<br>
-_unimproved: total_: total: 5.9% of population (2020 est.)<br>
+_improved: urban_: urban: 90% of population (2022 est.)<br>
+_improved: rural_: rural: 91.6% of population (2022 est.)<br>
+_improved: total_: total: 91.2% of population (2022 est.)<br>
+_unimproved: urban_: urban: 10% of population (2022 est.)<br>
+_unimproved: rural_: rural: 8.4% of population (2022 est.)<br>
+_unimproved: total_: total: 8.8% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.4% of GDP (2021)<br>
@@ -189,12 +186,12 @@ _Health expenditure (as % of national budget)_: 8% of national budget (2022 est.
 0.4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 95.1% of population<br>
-_improved: rural_: rural: 85.7% of population<br>
-_improved: total_: total: 87.7% of population<br>
-_unimproved: urban_: urban: 4.9% of population<br>
-_unimproved: rural_: rural: 14.3% of population<br>
-_unimproved: total_: total: 12.3% of population (2020 est.)<br>
+_improved: urban_: urban: 96.1% of population (2022 est.)<br>
+_improved: rural_: rural: 89.2% of population (2022 est.)<br>
+_improved: total_: total: 90.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 3.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 10.8% of population (2022 est.)<br>
+_unimproved: total_: total: 9.3% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 4.1% (2016)<br>
@@ -260,21 +257,25 @@ _other_: 32.3% (2022 est.)<br>
 _urban population_: 21.9% of total population (2023)<br>
 _rate of urbanization_: 3.09% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 36.43 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 9.11 megatons (2016 est.)<br>
-_methane emissions_: 41.15 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 11.357 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2.025 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 9.332 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+36.9 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1,768,977 tons (2016 est.)<br>
+_municipal solid waste generated annually_: 1.769 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 4.6% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 150 million cubic meters (2020 est.)<br>
-_industrial_: 30 million cubic meters (2020 est.)<br>
-_agricultural_: 9.32 billion cubic meters (2020 est.)<br>
+_municipal_: 147.6 million cubic meters (2022 est.)<br>
+_industrial_: 29.5 million cubic meters (2022 est.)<br>
+_agricultural_: 9.32 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-210.2 billion cubic meters (2020 est.)<br>
+210.2 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -318,16 +319,17 @@ _residency requirement for naturalization_: 15 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Ram Chandra POUDEL (since 13 March 2023)<br>
-_head of government_: Prime Minister Khadga Prasad Sharma OLI (since 15 July 2024)<br>
+_head of government_: Prime Minister Sushila KARKI; note - KARKI was sworn in as interim prime minister on 12 September 2025 after Khadga Prasad Sharma OLI resigned on 9 September following violent protests; KARKI will serve until elections are held in March 2026<br>
 _cabinet_: Council of Ministers appointed by the prime minister; cabinet positions shared among Nepali Congress, Communist Party of Nepal-Maoist Centre, and various coalition partners<br>
 _election/appointment process_: president indirectly elected by an electoral college of the Federal Parliament and the state assemblies for a 5-year term (eligible for a second term)<br>
 _most recent election date_: 9 March 2023<br>
 _election results_: <em><br>2023:</em> Ram Chandra POUDEL elected president; electoral college vote - Ram Chandra POUDEL (NC) 33,802, Subash Chandra NEMBANG (CPN-UML) 15,518<br><br><em>2018:</em> Bidhya Devi BHANDARI reelected president; electoral vote - Bidhya Devi BHANDARI (CPN-UML) 39,275, Kumari Laxmi RAI (NC) 11,730<br>
-_expected date of next election_: 2028<br>
+_expected date of next election_: 5 March 2026<br>
 
 **Legislative branch**<br>
 _legislature name_: Federal Parliament (Sanghiya Sansad)<br>
 _legislative structure_: bicameral<br>
+<strong>note: </strong>violent student-led protests in early September 2025 led to the resignation of the Prime Minister; the President dissolved Parliament on 12 September 2015 following the swearing in of an interim prime minister and set elections for 5 March 2026; the major political parties have demanded reinstatement of the Parliament<br>
 
 **Legislative branch - lower chamber**<br>
 _chamber name_: House of Representatives (Pratinidhi Sabha)<br>
@@ -338,7 +340,7 @@ _term in office_: 5 years<br>
 _most recent election date_: 11/19/2013<br>
 _parties elected and seats per party_: Nepali Congress (NC) (89); Communist Party of Nepal (Unified Marxist-Leninist, UML) (78); Communist Party of Nepal-Maoist Centre (CPN-MC) (32); Rastriya Swatantra Party (20); Rastriya Prajatantra Party Nepal (RPP) (14); People's Socialist Party, Nepal (12); Communist Party of Nepal (Unified Socialist) (10); Janamat Party (6); Democratic Socialist Party, Nepal (4); People's Freedom Party (3); Nepal Workers Peasants Party (1); Rastriya Janamorcha (1); Independents (5)<br>
 _percentage of women in chamber_: 33.5%<br>
-_expected date of next election_: November 2027<br>
+_expected date of next election_: 5 March 2026; note - Parliament was dissolved by the President on 12 September following violent protests, the resignation of the Prime Minister, and the appointment of an interim prime minister with new elections set for March 2026<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: National Assembly (Rastriya Sabha)<br>
@@ -383,9 +385,9 @@ ADB, BIMSTEC, CD, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, 
 Constitution Day, 20 September (2015)<br>
 <strong>note:</strong> replaces the previous Republic Day on 28 May as the official national day in Nepal; the Gregorian date fluctuates based on Nepal’s Hindu calendar<br>
 
-**Flag description**<br>
-crimson red with a blue border around the unique shape of two overlapping right triangles; the smaller upper triangle has a white stylized moon, and the larger, lower triangle displays a white 12-pointed sun; the color red represents the rhododendron (the national flower) and victory and bravery, and the blue border signifies peace and harmony; the two triangles are a combination of two pennants that originally symbolized the Himalaya Mountains, but today they refer to Hinduism and Buddhism, the country's two main religions; the moon stands for the serenity of the people and the Himalayan shade and cool weather, and the sun for the heat and higher temperatures of the rest of the country<br>
-<strong>note:</strong> Nepal is the only country in the world with a flag that is not rectangular or square<br>
+**Flag**<br>
+<strong>description:</strong> crimson red with a blue border, in the shape of two overlapping right triangles; the smaller upper triangle has a stylized white moon, and the larger lower triangle has a 12-pointed white sun<br><br><strong>meaning:</strong> red stands for the rhododendron (the national flower) and victory and bravery, and the blue border for peace and harmony; the two triangles are a combination of two pennants that originally symbolized the Himalaya Mountains, but today they refer to Hinduism and Buddhism, the country's two main religions; the moon stands for the serenity of the people, as well as Himalayan shade and cool weather, and the sun for the heat and higher temperatures in the rest of the country<br>
+<strong>note:</strong> Nepal is the only country with a flag that is not rectangular or square<br>
 
 **National symbol(s)**<br>
 rhododendron blossom<br>
@@ -396,7 +398,7 @@ red<br>
 **National anthem(s)**<br>
 _title_: "Sayaun Thunga Phool Ka" (Hundreds of Flowers)<br>
 _lyrics/music_: Pradeep Kumar RAI/Ambar GURUNG<br>
-_history_: adopted 2007, replacing a previous anthem that praised the king; the monarchy was abolished in 2006<br>
+_history_: adopted 2007<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (2 cultural, 2 natural)<br>
@@ -488,7 +490,7 @@ _female_: 23.6% (2024 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.7% (2022 est.)<br>
 _highest 10%_: 24.2% (2022 est.)<br>
-% share of income accruing to lowest and highest 10% of population<br>
+<strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 33.1% of GDP (2024 est.)<br>
@@ -498,8 +500,8 @@ _highest 10%_: 24.2% (2022 est.)<br>
 
 **Budget**<br>
 _revenues_: $7.625 billion (2021 est.)<br>
-_expenditures_: $7.163 billion (2021 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_expenditures_: $9.1 billion (2021 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 39.9% of GDP (2021 est.)<br>
@@ -590,11 +592,6 @@ _proven reserves_: 8 million metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 71,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 11.357 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 2.025 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 9.332 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 6.604 million Btu/person (2023 est.)<br>
 
@@ -674,9 +671,10 @@ Indian Mujahedeen<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,540 (Tibet/China), 6,365 (Bhutan) (mid-year 2022)<br>
-_stateless persons_: undetermined (mid-year 2021)<br>
+_refugees_: 19,874 (2024 est.)<br>
+_IDPs_: 18,671 (2024 est.)<br>
+_stateless persons_: 467 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Nepal was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/nepal/<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Nepal remained on Tier 2 Watch List for the second consecutive year; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/nepal/<br>
 

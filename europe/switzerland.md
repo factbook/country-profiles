@@ -169,16 +169,13 @@ _female_: 85.8 years<br>
 **Gross reproduction rate**<br>
 0.77 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-71.6% (2017)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 11.8% of GDP (2021)<br>
@@ -191,12 +188,12 @@ _Health expenditure (as % of national budget)_: 12.4% of national budget (2022 e
 4.4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 19.5% (2016)<br>
@@ -249,23 +246,26 @@ _other_: 29.8% (2022 est.)<br>
 _urban population_: 74.2% of total population (2023)<br>
 _rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 8.97 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 34.48 megatons (2016 est.)<br>
-_methane emissions_: 4.98 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 33.306 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 195,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 27.528 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 5.583 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+9 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 6.056 million tons (2016 est.)<br>
-_municipal solid waste recycled annually_: 1.938 million tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 32% (2015 est.)<br>
+_municipal solid waste generated annually_: 6.08 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 30.1% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 970 million cubic meters (2020 est.)<br>
-_industrial_: 640 million cubic meters (2020 est.)<br>
-_agricultural_: 160 million cubic meters (2020 est.)<br>
+_municipal_: 930 million cubic meters (2022)<br>
+_industrial_: 642.7 million cubic meters (2022 est.)<br>
+_agricultural_: 160.1 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-53.5 billion cubic meters (2020 est.)<br>
+53.5 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -382,8 +382,8 @@ ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, C
 Founding of the Swiss Confederation in 1291<br>
 <strong>note:</strong> celebrated as Swiss National Day since 1 August 1891<br>
 
-**Flag description**<br>
-red square with an equilateral white cross in the center that does not extend to the edges of the flag; the origin of the flag is unclear, but a white cross was used to identify Swiss Confederation troops at the Battle of Laupen (1339)<br>
+**Flag**<br>
+<strong>description:</strong> red square with an equal-armed white cross in the center that does not extend to the edges of the flag<br><br><strong>history: </strong>the origin of the flag is unclear, but a white cross was used to identify Swiss Confederation troops at the Battle of Laupen (1339)<br>
 <strong>note:</strong> in 1863, the newly formed International Red Cross chose the inverse of the Swiss flag -- a red cross on a white field -- as its symbol<br>
 
 **National symbol(s)**<br>
@@ -395,7 +395,7 @@ red, white<br>
 **National anthem(s)**<br>
 _title_: the Swiss anthem has four names: "Schweizerpsalm" [German] "Cantique Suisse" [French] "Salmo svizzero," [Italian] "Psalm svizzer" [Romansch] (Swiss Psalm)<br>
 _lyrics/music_: Leonhard WIDMER [German], Charles CHATELANAT [French], Camillo VALSANGIACOMO [Italian], and Flurin CAMATHIAS [Romansch]/Alberik ZWYSSIG<br>
-_history_: unofficially adopted 1961, officially 1981; the anthem has been popular in a number of Swiss cantons since it was composed (in German) in 1841; all four of the versions (German, French, Italian, Romansch) are considered official<br>
+_history_: adopted 1981; all four of the versions (German, French, Italian, Romansch) are considered official<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 13 (9 cultural, 4 natural)<br>
@@ -500,9 +500,9 @@ _highest 10%_: 26.6% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $143.411 billion (2022 est.)<br>
-_expenditures_: $136.348 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $153.795 billion (2023 est.)<br>
+_expenditures_: $152.488 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 19.9% of GDP (2023 est.)<br>
@@ -599,12 +599,6 @@ _refined petroleum consumption_: 194,000 bbl/day (2024 est.)<br>
 _consumption_: 2.915 billion cubic meters (2023 est.)<br>
 _imports_: 2.869 billion cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 33.306 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 195,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 27.528 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 5.583 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 99.578 million Btu/person (2023 est.)<br>
 
@@ -688,6 +682,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 65,615 (Ukraine) (as of 5 March 2024)<br>
-_stateless persons_: 891 (2022)<br>
+_refugees_: 213,177 (2024 est.)<br>
+_IDPs_: 97 (2024 est.)<br>
+_stateless persons_: 1,267 (2024 est.)<br>
 

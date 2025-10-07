@@ -166,16 +166,13 @@ _female_: 76.4 years<br>
 **Gross reproduction rate**<br>
 1.31 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.6% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 99.8% of population<br>
-_unimproved: urban_: urban: 0.4% of population<br>
-_unimproved: rural_: rural: 0.7% of population<br>
-_unimproved: total_: total: 0.2% of population (2020 est.)<br>
+_improved: urban_: urban: 95.6% of population (2022 est.)<br>
+_improved: rural_: rural: 92.1% of population (2022 est.)<br>
+_improved: total_: total: 94.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 4.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 7.9% of population (2022 est.)<br>
+_unimproved: total_: total: 5.9% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 7.8% of national budget (2022 est.)<br>
@@ -187,12 +184,12 @@ _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 1.4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.5% of population<br>
-_improved: rural_: rural: 99.5% of population<br>
-_improved: total_: total: 99.5% of population<br>
-_unimproved: urban_: urban: 0.5% of population<br>
-_unimproved: rural_: rural: 0.5% of population<br>
-_unimproved: total_: total: 0.5% of population (2020 est.)<br>
+_improved: urban_: urban: 99.8% of population (2022 est.)<br>
+_improved: rural_: rural: 99.3% of population (2022 est.)<br>
+_improved: total_: total: 99.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.7% of population (2022 est.)<br>
+_unimproved: total_: total: 0.4% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 27.8% (2016)<br>
@@ -236,23 +233,32 @@ _other_: 23.7% (2022 est.)<br>
 _urban population_: 57.4% of total population (2023)<br>
 _rate of urbanization_: 5.38% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 25.14 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 28.83 megatons (2016 est.)<br>
-_methane emissions_: 12.93 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 20.243 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 33,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 14.79 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 5.42 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+25.3 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 519.8 kt (2022-2024 est.)<br>
+_agriculture_: 144.7 kt (2019-2021 est.)<br>
+_waste_: 138 kt (2019-2021 est.)<br>
+_other_: 1.3 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 4.5 million tons (2009 est.)<br>
-_municipal solid waste recycled annually_: 112,500 tons (2010 est.)<br>
+_municipal solid waste generated annually_: 4.5 million tons (2024 est.)<br>
 _percent of municipal solid waste recycled_: 2.5% (2010 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.48 billion cubic meters (2020 est.)<br>
-_industrial_: 620 million cubic meters (2020 est.)<br>
-_agricultural_: 14.67 billion cubic meters (2020 est.)<br>
+_municipal_: 1.475 billion cubic meters (2022 est.)<br>
+_industrial_: 615.4 million cubic meters (2022 est.)<br>
+_agricultural_: 14.67 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-16.8 billion cubic meters (2020 est.)<br>
+16.802 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -340,9 +346,8 @@ ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national commit
 Independence Day (Evacuation Day), 17 April (1946)<br>
 <strong>note:</strong> celebrates the last French troops departing and the proclamation of full independence<br>
 
-**Flag description**<br>
-three equal horizontal bands of red (top), white, and black; two green five-pointed stars in a horizontal line centered in the white band; the band colors come from the Arab Liberation flag and represent oppression (black) overcome through bloody struggle (red), to be replaced by a bright future (white); identical to the former flag of the United Arab Republic (1958-1961), where the two stars represented the constituent states of Syria and Egypt; the current design dates to 1980<br>
-<strong>note:</strong> similar to the flags of Yemen (plain white band), Iraq (Arabic inscription centered in the white band), and Egypt (gold Eagle of Saladin centered in the white band)<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of green (top), white, and black; three five-pointed red stars in a horizontal line, centered on the white band<br><br><strong>meaning:</strong> the design is the same as a previous Syrian national flag (in use 1932-58 and 1961-63), but it is still unclear if the elements will retain the same meanings; the bands formerly represented Syria’s past rulers: white (Umayyad Caliphate), black (Abbasid Caliphate), and green (Rashidun Caliphate); the first star represented Damascus, Aleppo, and Deir ez-Zor, the three administrative subdivisions in Syria in the 1930s; the second star stood for Jabal Druze (the Mountain of the Druze), and the third star for the Alawite Mountains <br><br><strong>history:</strong> in 2011, opponents to the Asad regime adopted the flag; in 2025, it became the new national flag, replacing the two-star design<br>
 
 **National symbol(s)**<br>
 northern bald ibis<br>
@@ -351,7 +356,7 @@ northern bald ibis<br>
 red, white, black, green<br>
 
 **National anthem(s)**<br>
-_title_: "Humat ad-Diyar" (Guardians of the Homeland)<br>
+_title_: &ldquo;Ħumāt ad-Diyār (Guardians of the Homeland)<br>
 _lyrics/music_: Khalil Mardam BEY/Mohammad Salim FLAYFEL and Ahmad Salim FLAYFEL<br>
 _history_: adopted 1936, restored 1961; the country had a different anthem between 1958 and 1961, when Syria was part of the United Arab Republic<br>
 
@@ -387,9 +392,10 @@ $19.993 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-13.4% (2019 est.)<br>
-0.9% (2018 est.)<br>
-18.1% (2017 est.)<br>
+94.1% (2022 est.)<br>
+98.3% (2021 est.)<br>
+114.2% (2020 est.)<br>
+<strong>note:</strong> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 43.1% (2022 est.)<br>
@@ -439,7 +445,7 @@ _female_: 47.9% (2024 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8% (2022 est.)<br>
 _highest 10%_: 21.1% (2022 est.)<br>
-% share of income accruing to lowest and highest 10% of population<br>
+<strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0% of GDP (2023 est.)<br>
@@ -451,6 +457,9 @@ _highest 10%_: 21.1% (2022 est.)<br>
 _revenues_: $1.162 billion (2017 est.)<br>
 _expenditures_: $3.211 billion (2017 est.)<br>
 <strong>note:</strong> government projections for FY2016<br>
+
+**Public debt**<br>
+91.3% of GDP (2016 est.)<br>
 
 **Exports**<br>
 $1.609 billion (2022 est.)<br>
@@ -524,12 +533,6 @@ _crude oil estimated reserves_: 2.5 billion barrels (2021 est.)<br>
 _production_: 2.763 billion cubic meters (2023 est.)<br>
 _consumption_: 2.763 billion cubic meters (2023 est.)<br>
 _proven reserves_: 240.693 billion cubic meters (2021 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 20.243 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 33,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 14.79 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 5.42 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 13.569 million Btu/person (2023 est.)<br>
@@ -608,12 +611,12 @@ prior to the fall of the ASAD regime in December 2024, the SAF was inventory was
 prior to the fall of the ASAD regime in December 2024, men 18-42 were obligated to perform military service; compulsory service obligation was up to 30 months; women were not conscripted but could volunteer to serve, including in combat arms (2024)<br>
 
 **Military - note**<br>
-the UN Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; UNDOF has about 1,300 personnel (2025)<br>
+as of September 2025, the government did not exercise control over all of Syria; areas of the northeast were under the control of ethnic Kurdish-led forces and areas south of the capital Damascus were controlled by members of the Druze religious minority; Turkish forces remained in parts of the north, while Israeli forces had moved into formerly demilitarized areas between Syria and Israel and into some Syrian territory near the frontier<br><br>the UN Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; UNDOF has about 1,300 personnel (2025)<br>
 
 ## Space
 
 **Space agency/agencies**<br>
-Syrian Space Agency (created in 2014); General Organization of Remote Sensing (GORS; established 1986 to replace the National Remote Sensing Center, established 1981) (2024)<br>
+Syrian Space Agency (created in 2014); status is unclear since the fall of the ASAD Government (2025)<br>
 
 **Space program overview**<br>
 status unclear; has been handicapped by the impact of the civil war, including the loss of students and scientists who fled the country; had previously focused on satellite development and related space technologies, as well as scientific research; has relations with the space agency and space industries of Russia (2024)<br>
@@ -628,11 +631,10 @@ Abdallah Azzam Brigades; Ansar al-Islam; Asa’ib Ahl Al-Haq; Hizballah; Hurras 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 580,000 (Palestinian Refugees) (2022); 11,121 (Iraq) (2023)<br>
-_IDPs_: 6.865 million (ongoing civil war since 2011) (2022)<br>
-_stateless persons_: 160,000 (2022); note - Syria's stateless population consists of Kurds and Palestinians; stateless persons are prevented from voting, owning land, holding certain jobs, receiving food subsidies or public healthcare, enrolling in public schools, or being legally married to Syrian citizens; in 1962, some 120,000 Syrian Kurds were stripped of their Syrian citizenship, rendering them and their descendants stateless; in 2011, the Syrian Government granted citizenship to thousands of Syrian Kurds as a means of appeasement; however, resolving the question of statelessness is not a priority given Syria's ongoing civil war<br>
-<strong>note:</strong> the ongoing civil war has resulted in more than 5 million registered Syrian refugees - dispersed mainly in Egypt, Iraq, Jordan, Lebanon, and Turkey - as of March 2024<br>
+_refugees_: 16,402 (2024 est.)<br>
+_IDPs_: 7,408,809 (2024 est.)<br>
+_stateless persons_: 160,000 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 — Syria does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Syria remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/syria/<br>
+_tier rating_: Tier 3 — Syria does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Syria remained on Tier 3; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/syria/<br>
 

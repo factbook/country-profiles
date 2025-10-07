@@ -165,16 +165,13 @@ _female_: 57.7 years<br>
 **Gross reproduction rate**<br>
 1.94 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-17.8% (2019)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 83.9% of population<br>
-_improved: rural_: rural: 47.5% of population<br>
-_improved: total_: total: 62.9% of population<br>
-_unimproved: urban_: urban: 16.1% of population<br>
-_unimproved: rural_: rural: 52.5% of population<br>
-_unimproved: total_: total: 37.1% of population (2020 est.)<br>
+_improved: urban_: urban: 48.1% of population (2022 est.)<br>
+_improved: rural_: rural: 27.4% of population (2022 est.)<br>
+_improved: total_: total: 36.3% of population (2022 est.)<br>
+_unimproved: urban_: urban: 51.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 72.6% of population (2022 est.)<br>
+_unimproved: total_: total: 63.7% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 9.1% of GDP (2021)<br>
@@ -184,12 +181,12 @@ _Health expenditure (as % of national budget)_: 9% of national budget (2022 est.
 0.07 physicians/1,000 population (2023)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 53.8% of population<br>
-_improved: rural_: rural: 12.4% of population<br>
-_improved: total_: total: 29.9% of population<br>
-_unimproved: urban_: urban: 46.2% of population<br>
-_unimproved: rural_: rural: 87.6% of population<br>
-_unimproved: total_: total: 70.1% of population (2020 est.)<br>
+_improved: urban_: urban: 53.5% of population (2022 est.)<br>
+_improved: rural_: rural: 12.4% of population (2022 est.)<br>
+_improved: total_: total: 30.2% of population (2022 est.)<br>
+_unimproved: urban_: urban: 46.5% of population (2022 est.)<br>
+_unimproved: rural_: rural: 87.6% of population (2022 est.)<br>
+_unimproved: total_: total: 69.8% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 7.5% (2016)<br>
@@ -245,21 +242,24 @@ _other_: 55.3% (2022 est.)<br>
 _urban population_: 43.6% of total population (2023)<br>
 _rate of urbanization_: 3.32% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 27.2 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.3 megatons (2016 est.)<br>
-_methane emissions_: 22.44 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 313,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 313,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+25.5 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 1,105,983 tons (2014 est.)<br>
+_municipal solid waste generated annually_: 1.106 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 9.1% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 60 million cubic meters (2020 est.)<br>
-_industrial_: 10 million cubic meters (2020 est.)<br>
-_agricultural_: 400,000 cubic meters (2017 est.)<br>
+_municipal_: 60.1 million cubic meters (2022 est.)<br>
+_industrial_: 12 million cubic meters (2022 est.)<br>
+_agricultural_: 400,000 cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-141 billion cubic meters (2020 est.)<br>
+141 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -341,7 +341,7 @@ _FAX_: [1] (202) 332-9893<br>
 _email address and website_: <br>centrafricwashington@yahoo.com<br><br>https://www.usrcaembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires TBD (since 27 March 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Melanie Anne ZIMMERMAN (since July 2025)<br>
 _embassy_: Avenue David Dacko, Bangui<br>
 _mailing address_: 2060 Bangui Place, Washington DC&nbsp; 20521-2060<br>
 _telephone_: [236] 2161-0200<br>
@@ -357,8 +357,8 @@ ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country) (suspended), FAO, FZ, G-77
 **National holiday**<br>
 Republic Day, 1 December (1958)<br>
 
-**Flag description**<br>
-four equal horizontal bands of blue (top), white, green, and yellow with a vertical red band in the center; a yellow five-pointed star to the hoist side of the blue band; banner combines the pan-African and French flag colors; red stands for the blood spilled in the struggle for independence, blue for the sky and freedom, white for peace and dignity, green for hope and faith, and yellow for tolerance; the star represents aspiration towards a vibrant future<br>
+**Flag**<br>
+<strong>description:</strong> four equal horizontal bands of blue (top), white, green, and yellow with a vertical red band in the center; a five-pointed yellow star sits in the top left corner of the flag, on the blue band<br><br><strong>meaning:</strong> combines the pan-African and French flag colors; red stands for blood spilled in the struggle for independence, blue for the sky and freedom, white for peace and dignity, green for hope and faith, and yellow for tolerance; the star represents aspiring to a vibrant future<br>
 
 **National symbol(s)**<br>
 elephant<br>
@@ -471,8 +471,11 @@ _highest 10%_: 33.1% (2021 est.)<br>
 
 **Budget**<br>
 _revenues_: $360.48 million (2021 est.)<br>
-_expenditures_: $293.459 million (2021 est.)<br>
+_expenditures_: $462.104 million (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+56% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 8.2% (of GDP) (2021 est.)<br>
@@ -547,10 +550,6 @@ _proven reserves_: 3 million metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 2,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 313,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 313,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 954,000 Btu/person (2023 est.)<br>
 
@@ -614,9 +613,6 @@ the Central African Armed Forces (FACA) are focused on internal security; since 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 28,217 (Sudan) (refugees since 15 April 2023), 6,707 (Democratic Republic of the Congo) (2024)<br>
-_IDPs_: 490,868 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2023)<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch list — The Central African Republic did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/central-african-republic/<br>
+_refugees_: 53,378 (2024 est.)<br>
+_IDPs_: 469,342 (2024 est.)<br>
 

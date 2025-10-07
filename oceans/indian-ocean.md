@@ -36,13 +36,13 @@ _percent of World Ocean total volume_: 19.8%<br>
 the counterclockwise Indian Ocean Gyre comprised of the southward flowing warm Agulhas and East Madagascar Currents in the west, the eastward flowing South Indian Current in the south, the northward flowing cold West Australian Current in the east, and the westward flowing South Equatorial Current in the north; a distinctive annual reversal of surface currents occurs in the northern Indian Ocean; low atmospheric pressure over southwest Asia from hot, rising, summer air results in the southwest monsoon and southwest-to-northeast winds and clockwise currents, while high pressure over northern Asia from cold, falling, winter air results in the northeast monsoon and northeast-to-southwest winds and counterclockwise currents<br>
 
 **Bathymetry**<br>
-_continental shelf_: <p>the following are examples of features found on the continental shelf of the Indian Ocean (see Figure 2):</p> <p>Exmouth Plateau<br>Indus Canyon <br>The Swatch of No Ground/Ganges Canyon (Bay of Bengal)<br>Sunda Shelf</p><br>
-_continental slope_: <p>the following are examples of features found on the continental slope of the Indian Ocean (see Figure 2):</p> <p>Bengal Fan<br>Indus Fan</p><br>
-_abyssal plains_: <p>the following are examples of features found on the abyssal plains of the Indian Ocean (see Figure 2):</p> <p>Arabian Basin<br>Crozet Basin<br>Madagascar Basin<br>Mid-Indian Basin<br>Mozambique Basin<br>Wharton Basin</p><br>
-_mid-ocean ridge_: <p>the following are examples of mid-ocean ridges found on the floor of the Indian Ocean (see Figure 2):</p> <p>Central Indian Ridge<br>Davie Ridge<br>Southeast Indian Ridge<br>Southwest Indian Ridge</p><br>
-_undersea terrain features_: <p>the following are examples of undersea terrain features found on the floor of the Indian Ocean (see Figure 2):</p> <p>Andaman-Nicobar Ridge<br>Chagos-Laccadive Ridge<br>Kerguelen Plateau<br>Madagascar Plateau<br>Mascarene Plateau<br>Mozambique Plateau<br>Ninetyeast Ridge</p><br>
-_ocean trenches_: <p>the following are examples of ocean trenches found on the floor of the Indian Ocean (see Figure 2):</p> <p>Java/Sunda Trench (deepest point in the Indian Ocean)</p><br>
-_atolls_: <p>the following are examples of atolls found in the Indian Ocean (see Figure 2):</p> <p>Bassas da India<br>Chagos Archipelago/Diego Garcia<br>Europa Island<br>Juan de Nova Island<br>Lakshadweep Islands<br>Maldive Islands<br>Seychelles</p><br>
+_continental shelf_: the following are examples of features on the continental shelf of the Indian Ocean (see Figure 2): <br><br>Exmouth Plateau<br>Indus Canyon <br>The Swatch of No Ground/Ganges Canyon (Bay of Bengal)<br>Sunda Shelf<br>
+_continental slope_: the following are examples of features on the continental slope of the Indian Ocean (see Figure 2): <br><br>Bengal Fan<br>Indus Fan<br>
+_abyssal plains_: the following are examples of features on the abyssal plains of the Indian Ocean (see Figure 2): <br><br>Arabian Basin<br>Crozet Basin<br>Madagascar Basin<br>Mid-Indian Basin<br>Mozambique Basin<br>Wharton Basin<br>
+_mid-ocean ridge_: the following are examples of mid-ocean ridges on the floor of the Indian Ocean (see Figure 2): <br><br>Central Indian Ridge<br>Davie Ridge<br>Southeast Indian Ridge<br>Southwest Indian Ridge<br>
+_undersea terrain features_: the following are examples of undersea terrain features on the floor of the Indian Ocean (see Figure 2): <br><br>Andaman-Nicobar Ridge<br>Chagos-Laccadive Ridge<br>Kerguelen Plateau<br>Madagascar Plateau<br>Mascarene Plateau<br>Mozambique Plateau<br>Ninetyeast Ridge<br>
+_ocean trenches_: the following are examples of ocean trenches on the floor of the Indian Ocean (see Figure 2): <br><br>Java/Sunda Trench (deepest point in the Indian Ocean)<br>
+_atolls_: the following are examples of atolls in the Indian Ocean (see Figure 2): <br><br>Bassas da India<br>Chagos Archipelago/Diego Garcia<br>Europa Island<br>Juan de Nova Island<br>Lakshadweep Islands<br>Maldive Islands<br>Seychelles<br>
 
 **Elevation**<br>
 _highest point_: sea level<br>

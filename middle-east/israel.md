@@ -163,16 +163,13 @@ _female_: 85.1 years<br>
 **Gross reproduction rate**<br>
 1.42 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 7.9% of GDP (2021)<br>
@@ -185,12 +182,12 @@ _Health expenditure (as % of national budget)_: 13% of national budget (2022 est
 3.1 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 99.3% of population<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0.7% of population<br>
-_unimproved: total_: total: 0.1% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 99% of population (2022 est.)<br>
+_improved: total_: total: 99.9% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1% of population (2022 est.)<br>
+_unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 26.1% (2016)<br>
@@ -243,23 +240,32 @@ _other_: 64% (2022 est.)<br>
 _urban population_: 92.9% of total population (2023)<br>
 _rate of urbanization_: 1.51% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 19.47 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 65.17 megatons (2016 est.)<br>
-_methane emissions_: 13.02 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 64.401 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 11.542 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 28.793 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 24.066 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+20.4 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 29.2 kt (2022-2024 est.)<br>
+_agriculture_: 40.6 kt (2019-2021 est.)<br>
+_waste_: 272.7 kt (2019-2021 est.)<br>
+_other_: 0.7 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 5.4 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 1.35 million tons (2017 est.)<br>
-_percent of municipal solid waste recycled_: 25% (2017 est.)<br>
+_municipal solid waste generated annually_: 5.4 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 30.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1 billion cubic meters (2020 est.)<br>
-_industrial_: 100 million cubic meters (2020 est.)<br>
-_agricultural_: 1.2 billion cubic meters (2020 est.)<br>
+_municipal_: 1 billion cubic meters (2022 est.)<br>
+_industrial_: 104.834 million cubic meters (2022 est.)<br>
+_agricultural_: 1.215 billion cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-1.78 billion cubic meters (2020 est.)<br>
+1.78 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -363,8 +369,8 @@ BIS, BSEC (observer), CE (observer), CERN, CICA, EBRD, FAO, IADB, IAEA, IBRD, IC
 Independence Day, 14 May (1948)<br>
 <strong>note:</strong> Israel declared independence on 14 May 1948, but the Jewish calendar is lunar, so the holiday can occur in April or May<br>
 
-**Flag description**<br>
-white with a blue hexagram (six-pointed linear star) known as the Magen David (Star of David or Shield of David) centered between two equal horizontal blue bands near the top and bottom edges of the flag; the design resembles a traditional Jewish prayer shawl (<em>tallit</em>), which is white with blue stripes; the hexagram as a Jewish symbol dates back to medieval times<br>
+**Flag**<br>
+<strong>description:</strong> white with a blue hexagram (six-pointed linear star) known as the Magen David (Star of David or Shield of David) centered between two equal horizontal blue bands near the top and bottom edges of the flag<br><br><strong>history:</strong> the design resembles a traditional Jewish prayer shawl (<em>tallit</em>), which is white with blue stripes; the hexagram as a Jewish symbol dates back to medieval times<br>
 <strong>note:</strong> the Israeli flag proclamation states that the flag colors are sky blue and white, but the exact shade of blue has never been set and can vary<br>
 
 **National symbol(s)**<br>
@@ -477,9 +483,12 @@ _highest 10%_: 26.6% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $180.935 billion (2022 est.)<br>
-_expenditures_: $184.823 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $162.524 billion (2023 est.)<br>
+_expenditures_: $188.905 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+59.6% of GDP (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 22.1% (of GDP) (2023 est.)<br>
@@ -567,12 +576,6 @@ _exports_: 11.505 billion cubic meters (2023 est.)<br>
 _imports_: 59.369 million cubic meters (2022 est.)<br>
 _proven reserves_: 176.018 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 64.401 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 11.542 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 28.793 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 24.066 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 112.437 million Btu/person (2023 est.)<br>
 
@@ -655,13 +658,13 @@ the IDF is responsible for external defense but also has some domestic security 
 ## Space
 
 **Space agency/agencies**<br>
-Israel Space Agency (ISA; established 1983 under the Ministry of Science and Technology; origins go back to the creation of a National Committee for Space Research, established 1960); Ministry of Defense Space Department (2024)<br>
+Israel Space Agency (ISA; established 1983 under the Ministry of Science and Technology; origins go back to the creation of a National Committee for Space Research, established 1960); Ministry of Defense Space Department (2025)<br>
 
 **Space launch site(s)**<br>
-Palmachim Airbase (Central district) (2024)<br>
+Palmachim Airbase (Central district) (2025)<br>
 
 **Space program overview**<br>
-has an ambitious space program and one of the most advanced in the region; designs, builds, and operates communications, remote sensing (RS), and scientific satellites; designs, builds, and operates sounding (research) rockets and orbital satellite/space launch vehicles (SLVs); launches satellites on domestic and foreign rockets; researches and develops a range of other space-related capabilities with a focus on lightweight and miniaturized technologies, including small satellites with high resolution RS imaging and communications capabilities; has relations with a variety of foreign space agencies and space industries, including those of Canada, the European Space Agency (and individual member states, such as France, Germany, and Italy), India, Japan, Mexico, and the US; has a substantial commercial space sector, including state-owned enterprises, in areas such as launchers, propulsion, satellite manufacturing, particularly micro- and nano-satellites, payloads and applications, RS, communications, and ground stations (2024)<br>
+has an ambitious space program and one of the most advanced in the region; designs, builds, operates, and launches communications, remote sensing (RS), and scientific satellites; designs, builds, and operates orbital satellite/space launch vehicles (SLVs); researches and develops a range of other space-related capabilities with a focus on lightweight and miniaturized technologies, including robotics and small satellites with high resolution RS imaging and communications capabilities; has relations with a variety of foreign space agencies and space industries, including those of Canada, the European Space Agency (and individual member states, such as France, Germany, and Italy), India, Japan, Mexico, and the US; has a substantial commercial space sector, as well as state-owned enterprises (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -673,6 +676,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Popular Front for the Liberation of P
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,181 (Eritrea), 5,061 (Ukraine) (2019)<br>
-_stateless persons_: 35 (2022)<br>
+_refugees_: 27,413 (2024 est.)<br>
+_IDPs_: 68,000 (2024 est.)<br>
+_stateless persons_: 35 (2024 est.)<br>
 

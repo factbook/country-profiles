@@ -157,16 +157,9 @@ _female_: 80.7 years<br>
 **Gross reproduction rate**<br>
 0.83 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: total_: total: 92.6% of population (2022 est.)<br>
+_unimproved: total_: total: 7.4% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 10.1% of GDP (2021)<br>
@@ -179,12 +172,8 @@ _Health expenditure (as % of national budget)_: 15.5% of national budget (2022 e
 2.7 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 32% (2016)<br>
@@ -249,23 +238,31 @@ _other_: 19.5% (2022 est.)<br>
 _urban population_: 89.4% of total population (2023)<br>
 _rate of urbanization_: -1.23% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 24.23 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 24.8 megatons (2016 est.)<br>
-_methane emissions_: 3.37 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 17.484 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 375,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 17.109 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+23.8 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 7.9 kt (2022-2024 est.)<br>
+_agriculture_: 11.8 kt (2019-2021 est.)<br>
+_waste_: 105.3 kt (2019-2021 est.)<br>
+_other_: 0.7 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 2.04 million tons (2014 est.)<br>
-_municipal solid waste recycled annually_: 163,200 tons (2014 est.)<br>
-_percent of municipal solid waste recycled_: 8% (2014 est.)<br>
+_municipal solid waste generated annually_: 2.04 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 15% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 240 million cubic meters (2020 est.)<br>
-_industrial_: 900 million cubic meters (2020 est.)<br>
-_agricultural_: 700 million cubic meters (2020 est.)<br>
+_municipal_: 240 million cubic meters (2022 est.)<br>
+_industrial_: 900 million cubic meters (2022 est.)<br>
+_agricultural_: 700 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-4.5 billion cubic meters (2020 est.)<br>
+4.503 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -340,7 +337,7 @@ _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized tr
 Al-Ahbash (Association of Islamic Charitable Projects) or AICP<br>Amal Movement ("Hope Movement")<br>Azm Movement<br>Ba’th Arab Socialist Party of Lebanon<br>Free Patriotic Movement or FPM<br>Future Movement Bloc or FM<br>Hizballah<br>Islamic Action Front or IAF<br>Kata'ib Party<br>Lebanese Democratic Party<br>Lebanese Forces or LF<br>Marada Movement<br>Progressive Socialist Party or PSP<br>Social Democrat Hunshaqian Party<br>Syrian Social Nationalist Party or SSNP<br>Tashnaq or Armenian Revolutionary Federation<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Wa&euml;l HACHEM, Counselor (since 15 March 2021)<br>
+_chief of mission_: Ambassador Nada HAMADEH (since 5 September 2025)<br>
 _chancery_: 2560 28th Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-6300<br>
 _FAX_: [1] (202) 939-6324<br>
@@ -364,8 +361,8 @@ ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national commit
 **National holiday**<br>
 Independence Day, 22 November (1943)<br>
 
-**Flag description**<br>
-three horizontal bands consisting of red (top), white (middle, double-width), and red (bottom), with a green cedar tree centered in the white band; the red bands stand for blood shed for liberation, and the white for peace, the snow of the mountains, and purity; the green cedar tree is the national symbol and represents eternity, steadiness, happiness, and prosperity<br>
+**Flag**<br>
+<strong>description:</strong> three horizontal bands consisting of red (top), white (middle, double-width), and red (bottom), with a green cedar tree centered on the white band<br><br><strong>meaning:</strong> red stands for blood shed for liberation, and white for peace, the snow of the mountains, and purity; the green cedar tree is the national symbol and represents eternity, steadiness, happiness, and prosperity<br>
 
 **National symbol(s)**<br>
 cedar tree<br>
@@ -376,7 +373,7 @@ red, white, green<br>
 **National anthem(s)**<br>
 _title_: "Kulluna lil-watan" (All of Us, For Our Country!)<br>
 _lyrics/music_: Rachid NAKHLE/Wadih SABRA<br>
-_history_: adopted 1927; chosen through a nationwide competition<br>
+_history_: adopted 1927<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 6 (all cultural)<br>
@@ -469,7 +466,7 @@ _on alcohol and tobacco_: 0.7% of household expenditures (2023 est.)<br>
 
 **Budget**<br>
 _revenues_: $12.73 billion (2021 est.)<br>
-_expenditures_: $11.356 billion (2021 est.)<br>
+_expenditures_: $11.853 billion (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
@@ -557,11 +554,6 @@ _imports_: 164,000 metric tons (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 115,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 17.484 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 375,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 17.109 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 43.105 million Btu/person (2023 est.)<br>
@@ -654,10 +646,7 @@ Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; HAMAS; Hizball
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 487,000 (Palestinian refugees) (2022); 784,884 (Syria) (2023)<br>
-_IDPs_: 7,000 (2020)<br>
-_stateless persons_: undetermined (2016); note - tens of thousands of persons are stateless in Lebanon, including many Palestinian refugees and their descendants, Syrian Kurds denaturalized in Syria in 1962, children born to Lebanese women married to foreign or stateless men; most babies born to Syrian refugees, and Lebanese children whose births are unregistered<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared to the previous reporting period, therefore Lebanon remained on Tier 2 Watch List for a second consecutive year; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/lebanon/<br>
+_refugees_: 765,390 (2024 est.)<br>
+_IDPs_: 984,514 (2024 est.)<br>
+_stateless persons_: 40,000 (2024 est.)<br>
 

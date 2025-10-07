@@ -164,16 +164,13 @@ _female_: 61 years<br>
 **Gross reproduction rate**<br>
 1.78 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-21.2% (2019)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 92.5% of population<br>
-_improved: rural_: rural: 58% of population<br>
-_improved: total_: total: 72.8% of population<br>
-_unimproved: urban_: urban: 7.5% of population<br>
-_unimproved: rural_: rural: 42% of population<br>
-_unimproved: total_: total: 27.2% of population (2020 est.)<br>
+_improved: urban_: urban: 79.8% of population (2022 est.)<br>
+_improved: rural_: rural: 54.1% of population (2022 est.)<br>
+_improved: total_: total: 65.3% of population (2022 est.)<br>
+_unimproved: urban_: urban: 20.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 45.9% of population (2022 est.)<br>
+_unimproved: total_: total: 34.7% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 8.6% of GDP (2021)<br>
@@ -183,12 +180,12 @@ _Health expenditure (as % of national budget)_: 5.2% of national budget (2022 es
 0.13 physicians/1,000 population (2022)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 79.5% of population<br>
-_improved: rural_: rural: 35.5% of population<br>
-_improved: total_: total: 54.4% of population<br>
-_unimproved: urban_: urban: 20.5% of population<br>
-_unimproved: rural_: rural: 64.5% of population<br>
-_unimproved: total_: total: 45.6% of population (2020 est.)<br>
+_improved: urban_: urban: 81.9% of population (2022 est.)<br>
+_improved: rural_: rural: 37.9% of population (2022 est.)<br>
+_improved: total_: total: 57.2% of population (2022 est.)<br>
+_unimproved: urban_: urban: 18.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 62.1% of population (2022 est.)<br>
+_unimproved: total_: total: 42.8% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 8.7% (2016)<br>
@@ -249,21 +246,24 @@ _other_: 10.7% (2022 est.)<br>
 _urban population_: 44.3% of total population (2023)<br>
 _rate of urbanization_: 3.02% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 39.42 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 1.09 megatons (2016 est.)<br>
-_methane emissions_: 3.16 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 1.342 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 1.342 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+45.4 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 610,222 tons (2004 est.)<br>
+_municipal solid waste generated annually_: 610,200 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 9.7% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 110 million cubic meters (2020 est.)<br>
-_industrial_: 60 million cubic meters (2020 est.)<br>
-_agricultural_: 50 million cubic meters (2020 est.)<br>
+_municipal_: 111 million cubic meters (2022 est.)<br>
+_industrial_: 55.5 million cubic meters (2022 est.)<br>
+_agricultural_: 45.7 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-160 billion cubic meters (2020 est.)<br>
+160 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -359,8 +359,8 @@ ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD
 **National holiday**<br>
 Independence Day, 27 April (1961)<br>
 
-**Flag description**<br>
-three equal horizontal bands of light green (top), white, and light blue; green stands for agriculture, mountains, and natural resources, white for unity and justice, and blue for the sea and the natural harbor in Freetown<br>
+**Flag**<br>
+<strong>description: </strong>three equal horizontal bands of light green (top), white, and light blue<br><br><strong>meaning:</strong> green stands for agriculture, mountains, and natural resources; white for unity and justice; and blue for the sea and the natural harbor in Freetown<br>
 
 **National symbol(s)**<br>
 lion<br>
@@ -471,6 +471,9 @@ _highest 10%_: 29.4% (2018 est.)<br>
 _revenues_: $740 million (2019 est.)<br>
 _expenditures_: $867 million (2019 est.)<br>
 
+**Public debt**<br>
+54.9% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 -$606.358 million (2023 est.)<br>
 -$452.094 million (2022 est.)<br>
@@ -543,10 +546,6 @@ _biomass and waste_: 2.3% of total installed capacity (2023 est.)<br>
 
 **Petroleum**<br>
 _refined petroleum consumption_: 9,000 bbl/day (2023 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 1.342 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 1.342 million metric tonnes of CO2 (2023 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 2.301 million Btu/person (2023 est.)<br>
@@ -623,7 +622,4 @@ the RSLAF has a small inventory that includes a mix of Soviet-origin and other o
 the RSLAF’s primary responsibilities are securing the country's borders and territorial waters, supporting civil authorities during internal emergencies, and participating in peacekeeping missions; since the end of the civil war in 2002, it has received assistance from several foreign militaries, including those of Canada, China, France, the UK, and the US<br><br>the RSLAF’s origins lie in the Sierra Leone Battalion of the Royal West African Frontier Force (RWAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and The Gambia; the RWAFF fought in both World Wars (2025)<br>
 
 ## Transnational Issues
-
-**Refugees and internally displaced persons**<br>
-_IDPs_: IDPs: 3000 currently displaced due to post-electoral violence in 2018 and clashes in the Pujehun region in 2019); 900 internal displacements due to flood in 2022 (2022)<br><br>5,500 (displacement caused by post-electoral violence in 2018 and clashes in the Pujehun region in 2019) (2021)<br>
 

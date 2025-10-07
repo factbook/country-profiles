@@ -160,12 +160,12 @@ _female_: 85.8 years<br>
 0.74 (2024 est.)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 10.6% of GDP (2021)<br>
@@ -178,12 +178,12 @@ _Health expenditure (as % of national budget)_: 16.2% of national budget (2022 e
 4.4 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 28.9% (2016)<br>
@@ -236,23 +236,25 @@ _other_: 71.2% (2022 est.)<br>
 _urban population_: 94.9% of total population (2023)<br>
 _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 12.93 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 1.34 megatons (2016 est.)<br>
-_methane emissions_: 0.2 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 8.965 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 8.113 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 852,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+13.1 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 269,000 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 17,996 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 6.7% (2015 est.)<br>
+_municipal solid waste generated annually_: 348,800 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 10.5% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 40 million cubic meters (2020 est.)<br>
-_industrial_: 1 million cubic meters (2020 est.)<br>
-_agricultural_: 20 million cubic meters (2020 est.)<br>
+_municipal_: 39.497 million cubic meters (2022)<br>
+_industrial_: 1 million cubic meters (2022)<br>
+_agricultural_: 21.358 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-50 million cubic meters (2020 est.)<br>
+50.5 million cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -347,8 +349,8 @@ Australia Group, C, CD, CE, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO
 **National holiday**<br>
 Independence Day, 21 September (1964); Republic Day, 13 December (1974)<br>
 
-**Flag description**<br>
-two equal vertical bands of white (hoist side) and red; in the upper hoist-side corner is the George Cross, edged in red; according to legend, the colors come from the red-and-white checkered banner of Count Roger of Sicily, who removed a bi-colored corner and granted it to Malta in 1091, but the colors more likely come from the Knights of Saint John, who ruled Malta from 1530 to 1798; in 1942, Britain's King George VI awarded the George Cross to the islanders for their exceptional bravery and gallantry in World War II; since independence in 1964, the George Cross bordered in red has appeared on the white field<br>
+**Flag**<br>
+<strong>description:</strong> two equal vertical bands of white (left side) and red; in the upper-left corner is the George Cross, edged in red<br><br><strong>history:</strong> according to legend, the colors come from the red-and-white checkered banner of Count Roger of Sicily, who removed a bicolored corner and granted it to Malta in 1091, but the colors more likely come from the Knights of Saint John, who ruled Malta from 1530 to 1798; in 1942, Britain's King George VI awarded the George Cross to the islanders for their exceptional bravery and gallantry in World War II, and the George Cross bordered in red was added to the flag after independence in 1964 <br>
 
 **National symbol(s)**<br>
 Maltese eight-pointed cross<br>
@@ -357,9 +359,9 @@ Maltese eight-pointed cross<br>
 red, white<br>
 
 **National anthem(s)**<br>
-_title_: "L-Innu Malti" (The Maltese Anthem)<br>
+_title_: "L-Innu Malti" (The Hymn of Malta)<br>
 _lyrics/music_: Dun Karm PSAILA/Robert SAMMUT<br>
-_history_: adopted 1945; written in the form of a prayer<br>
+_history_: adopted 1945; written in the form of a prayer to bind together the political parties and the country&nbsp;<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (all cultural)<br>
@@ -460,9 +462,9 @@ _highest 10%_: 27.7% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $6.106 billion (2022 est.)<br>
-_expenditures_: $6.922 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $6.95 billion (2023 est.)<br>
+_expenditures_: $7.966 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 50.7% of GDP (2017 est.)<br>
@@ -548,11 +550,6 @@ _refined petroleum consumption_: 50,000 bbl/day (2023 est.)<br>
 _consumption_: 444.715 million cubic meters (2023 est.)<br>
 _imports_: 444.715 million cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 8.965 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 8.113 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 852,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 234.698 million Btu/person (2023 est.)<br>
 
@@ -631,9 +628,6 @@ the Armed Forces of Malta (AFM) are responsible for external security but also h
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 11 (2022)<br>
-<strong>note:</strong> 8,556 estimated refugee and migrant arrivals by sea (January 2015-November 2022)<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch list — Malta did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period and was downgraded to Tier 2 Watch List; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/malta/<br>
+_refugees_: 9,284 (2024 est.)<br>
+_stateless persons_: 171 (2024 est.)<br>
 

@@ -144,11 +144,11 @@ none<br>
 **Independence**<br>
 none (territory of Norway)<br>
 
-**Flag description**<br>
+**Flag**<br>
 the flag of Norway is used<br>
 
 **National anthem(s)**<br>
-_title_: "Ja, vi elsker dette landet"<br>
+_title_: "Ja, vi elsker dette landet" (Yes, We Love This Country)<br>
 _lyrics/music_: Bjornstjerne BJORNSON/Rikard NORDRAAK<br>
 _history_: official anthem, as a Norwegian territory<br>
 

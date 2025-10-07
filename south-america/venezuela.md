@@ -167,16 +167,9 @@ _female_: 77.7 years<br>
 **Gross reproduction rate**<br>
 1.06 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-75% (2010)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 94.2% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 5.8% of population (2020 est.)<br>
+_improved: total_: total: 93.3% of population (2022 est.)<br>
+_unimproved: total_: total: 6.7% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4% of GDP (2021)<br>
@@ -189,12 +182,8 @@ _Health expenditure (as % of national budget)_: 6% of national budget (2022 est.
 1 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: 95.8% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 4.2% of population (2020 est.)<br>
+_improved: total_: total: 98.4% of population (2022 est.)<br>
+_unimproved: total_: total: 1.6% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 25.6% (2016)<br>
@@ -242,21 +231,32 @@ _other_: 23.3% (2022 est.)<br>
 _urban population_: 88.4% of total population (2023)<br>
 _rate of urbanization_: 1.16% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 16.21 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 164.18 megatons (2016 est.)<br>
-_methane emissions_: 68.66 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 76.73 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 179,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 27.928 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 48.623 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+16.1 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 3,595.7 kt (2022-2024 est.)<br>
+_agriculture_: 1,007.8 kt (2019-2021 est.)<br>
+_waste_: 328.3 kt (2019-2021 est.)<br>
+_other_: 7 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 9,779,093 tons (2010 est.)<br>
+_municipal solid waste generated annually_: 9.779 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 21.3% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 5.12 billion cubic meters (2020 est.)<br>
-_industrial_: 790 million cubic meters (2020 est.)<br>
-_agricultural_: 16.71 billion cubic meters (2020 est.)<br>
+_municipal_: 5.123 billion cubic meters (2022 est.)<br>
+_industrial_: 793.3 million cubic meters (2022 est.)<br>
+_agricultural_: 16.71 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-1.33 trillion cubic meters (2020 est.)<br>
+1.325 trillion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -349,8 +349,8 @@ ACS, Caricom (observer), CD, CDB, CELAC, FAO, G-15, G-24, G-77, IADB, IAEA, IBRD
 **National holiday**<br>
 Independence Day, 5 July (1811)<br>
 
-**Flag description**<br>
-three equal horizontal bands of yellow (top), blue, and red, with the coat of arms on the hoist side of the yellow band and an arc of eight white five-pointed stars centered in the blue band; the flag retains the three equal horizontal bands and three main colors from the flag of Gran Colombia, the South American republic that broke up in 1830; yellow stands for the riches of the land, blue for the courage of its people, and red for the blood shed in attaining independence; in 2006, President Hugo CHAVEZ added the eighth star -- the original seven stars represented the country's provinces that united in the war of independence -- to match Simon Bolivar's flag from 1827 and to represent the historic province of Guayana<br>
+**Flag**<br>
+<strong>description: </strong>three equal horizontal bands of yellow (top), blue, and red, with the coat of arms on the left side of the yellow band and an arc of eight five-pointed white stars centered on the blue band<br><br><strong>meaning: </strong>yellow stands for the riches of the land, blue for the courage of its people, and red for the blood shed in attaining independence<br><br><strong>history:</strong> the flag retains the three equal horizontal bands and three main colors from the flag of Gran Colombia, the South American republic that broke up in 1830; in 2006, President Hugo CHAVEZ added the eighth star -- the original seven stars represented the country's provinces that united in the war of independence -- to match Simon Bolivar's flag from 1827 and to represent the historic province of Guayana<br>
 
 **National symbol(s)**<br>
 troupial (bird)<br>
@@ -373,9 +373,10 @@ _selected World Heritage Site locales_: Coro and its Port (c); Canaima National 
 South American economy; ongoing hyperinflation since mid-2010s; chaotic economy due to political corruption, infrastructure cuts, and human rights abuses; in debt default; oil exporter; hydropower consumer; rising Chinese relations<br>
 
 **Real GDP (purchasing power parity)**<br>
-$269.068 billion (2018 est.)<br>
-$334.751 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$110.943 billion (2023 est.)<br>
+$106.672 billion (2022 est.)<br>
+$98.768 billion (2021 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
 -19.67% (2018 est.)<br>
@@ -383,18 +384,19 @@ $334.751 billion (2017 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$7,704 (2018 est.)<br>
-$9,417 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$4,900 (2023 est.)<br>
+$4,600 (2022 est.)<br>
+$4,000 (2021 est.)<br>
+<strong>note:</strong> data in 2015 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$482.359 billion (2014 est.)<br>
+$139.395 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-146,101.7% (2019 est.)<br>
-45,518.1% (2018 est.)<br>
-416.8% (2017 est.)<br>
+200.9% (2022 est.)<br>
+1,588.5% (2021 est.)<br>
+2,355.1% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Agricultural products**<br>
@@ -515,12 +517,6 @@ _production_: 23.873 billion cubic meters (2023 est.)<br>
 _consumption_: 23.873 billion cubic meters (2023 est.)<br>
 _proven reserves_: 5.674 trillion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 76.73 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 179,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 27.928 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 48.623 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 54.474 million Btu/person (2023 est.)<br>
 
@@ -619,11 +615,11 @@ National Liberation Army (ELN); Revolutionary Armed Forces of Colombia-People's 
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 39,185 (Colombia) (mid-year 2022)<br>
-<strong>note: </strong>As of November 2023, approximately 7.7 million Venezuelan refugees and migrants were residing worldwide with 84.7% in Latin America and the Caribbean<br>
+_refugees_: 20,911 (2024 est.)<br>
+_IDPs_: 2,338 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 — Venezuela does not fully meet the minimum standards for the elimination of trafficking and is not making any efforts to do so, therefore, Venezuela remained on Tier 3; for more details, go to:  https://www.state.gov/reports/2024-trafficking-in-persons-report/venezuela/<br>
+_tier rating_: Tier 3 — Venezuela does not fully meet the minimum standards for the elimination of trafficking and is not making any efforts to do so, therefore, Venezuela remained on Tier 3; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/venezuela/<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country<br><br>major precursor-chemical producer (2025)<br>

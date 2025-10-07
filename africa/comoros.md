@@ -158,9 +158,6 @@ _female_: 70.2 years<br>
 **Gross reproduction rate**<br>
 1.28 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-19.4% (2012)<br>
-
 **Drinking water source**<br>
 _improved: urban_: urban: 97.4% of population<br>
 _improved: rural_: rural: 88.5% of population<br>
@@ -175,14 +172,6 @@ _Health expenditure (as % of national budget)_: 4.7% of national budget (2022 es
 
 **Physician density**<br>
 0.42 physicians/1,000 population (2022)<br>
-
-**Sanitation facility access**<br>
-_improved: urban_: urban: 62.4% of population<br>
-_improved: rural_: rural: 43.6% of population<br>
-_improved: total_: total: 49% of population<br>
-_unimproved: urban_: urban: 37.6% of population<br>
-_unimproved: rural_: rural: 56.4% of population<br>
-_unimproved: total_: total: 51% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 7.8% (2016)<br>
@@ -235,21 +224,24 @@ _other_: 11.3% (2022 est.)<br>
 _urban population_: 30.1% of total population (2023)<br>
 _rate of urbanization_: 2.97% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 14.37 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 0.2 megatons (2016 est.)<br>
-_methane emissions_: 0.19 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 436,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 436,000 metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+14.5 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 91,013 tons (2015 est.)<br>
+_municipal solid waste generated annually_: 91,000 tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 10.1% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 4.8 million cubic meters (2017 est.)<br>
-_industrial_: 500,000 cubic meters (2017 est.)<br>
-_agricultural_: 4.7 million cubic meters (2017 est.)<br>
+_municipal_: 4.8 million cubic meters (2022 est.)<br>
+_industrial_: 500,000 cubic meters (2022 est.)<br>
+_agricultural_: 4.7 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-1.2 billion cubic meters (2020 est.)<br>
+1.2 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -342,8 +334,8 @@ ACP, AfDB, AMF, AOSIS, AU, CAEU (candidates), COMESA, FAO, FZ, G-77, IBRD, ICAO,
 **National holiday**<br>
 Independence Day, 6 July (1975)<br>
 
-**Flag description**<br>
-four equal horizontal bands of yellow (top), white, red, and blue, with a green isosceles triangle based on the hoist; a vertical white crescent moon is centered in the triangle, with the convex side facing the hoist and four white five-pointed stars placed vertically in a line between the points of the crescent; the horizontal bands and the four stars represent the four main islands of the archipelago -- Mwali, N'gazidja, Ndzuwani, and Mahore (Mayotte is a department of France, but claimed by Comoros)<br>
+**Flag**<br>
+<strong>description:</strong> four equal horizontal bands of yellow (top), white, red, and blue, with a green isosceles triangle based on the left; a vertical white crescent moon is centered in the triangle, with four five-pointed white stars placed vertically in a line between the points of the crescent<br><br><strong>meaning:</strong> the horizontal bands and the stars represent the four main islands of the archipelago -- Mwali, N'gazidja, Ndzuwani, and Mahore (Mayotte is a department of France, but claimed by Comoros)<br>
 <strong>note:</strong> the crescent, stars, and color green are traditional symbols of Islam<br>
 
 **National symbol(s)**<br>
@@ -445,8 +437,12 @@ _female_: 9.6% (2024 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $223 million (2018 est.)<br>
-_expenditures_: $228 million (2018 est.)<br>
+_revenues_: $212.551 million (2023 est.)<br>
+_expenditures_: $230.338 million (2023 est.)<br>
+<b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+27.7% of GDP (2016 est.)<br>
 
 **Current account balance**<br>
 -$24.621 million (2023 est.)<br>
@@ -521,10 +517,6 @@ _imports_: 2,000 metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 3,000 bbl/day (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 436,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 436,000 metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 7.139 million Btu/person (2023 est.)<br>
 
@@ -591,4 +583,8 @@ the AND is lightly armed and equipped with small arms and a few light aircraft (
 the focus for the security forces is search and rescue operations and maintaining internal security; a defense treaty with France provides naval resources for the protection of territorial waters, training of Comoran military personnel, and air surveillance; France maintains a small maritime base and a Foreign Legion contingent on neighboring Mayotte (2024)<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 18 (2024 est.)<br>
+_IDPs_: 38 (2024 est.)<br>
 

@@ -170,16 +170,13 @@ _female_: 79.2 years<br>
 **Gross reproduction rate**<br>
 0.92 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-69.8% (2018)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.1% of population<br>
-_improved: rural_: rural: 98.7% of population<br>
-_improved: total_: total: 99% of population<br>
-_unimproved: urban_: urban: 0.9% of population<br>
-_unimproved: rural_: rural: 1.3% of population<br>
-_unimproved: total_: total: 1% of population (2020 est.)<br>
+_improved: urban_: urban: 97.3% of population (2022 est.)<br>
+_improved: rural_: rural: 96% of population (2022 est.)<br>
+_improved: total_: total: 97% of population (2022 est.)<br>
+_unimproved: urban_: urban: 2.7% of population (2022 est.)<br>
+_unimproved: rural_: rural: 4% of population (2022 est.)<br>
+_unimproved: total_: total: 3% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.6% of GDP (2021)<br>
@@ -192,12 +189,12 @@ _Health expenditure (as % of national budget)_: 10% of national budget (2022 est
 3 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.8% of population<br>
-_improved: rural_: rural: 98.7% of population<br>
-_improved: total_: total: 99.6% of population<br>
-_unimproved: urban_: urban: 0.2% of population<br>
-_unimproved: rural_: rural: 1.3% of population<br>
-_unimproved: total_: total: 0.4% of population (2020 est.)<br>
+_improved: urban_: urban: 99.8% of population (2022 est.)<br>
+_improved: rural_: rural: 98.7% of population (2022 est.)<br>
+_improved: total_: total: 99.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 1.3% of population (2022 est.)<br>
+_unimproved: total_: total: 0.4% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 32.1% (2016)<br>
@@ -262,21 +259,26 @@ _other_: 20.7% (2022 est.)<br>
 _urban population_: 77.5% of total population (2023)<br>
 _rate of urbanization_: 1.11% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 23.25 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 372.72 megatons (2016 est.)<br>
-_methane emissions_: 57.53 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 399.173 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 155.26 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 147.211 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 96.703 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+23.1 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 31.283 million tons (2015 est.)<br>
+_municipal solid waste generated annually_: 35.374 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 32% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 6.91 billion cubic meters (2020 est.)<br>
-_industrial_: 1.03 billion cubic meters (2020 est.)<br>
-_agricultural_: 54.27 billion cubic meters (2020 est.)<br>
+_municipal_: 7.144 billion cubic meters (2022)<br>
+_industrial_: 1.297 billion cubic meters (2022)<br>
+_agricultural_: 56.127 billion cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-211.6 billion cubic meters (2020 est.)<br>
+211.6 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 1<br>
@@ -380,8 +382,8 @@ ADB (nonregional member), Australia Group, BIS, BSEC, CBSS (observer), CD, CE, C
 **National holiday**<br>
 Republic Day, 29 October (1923)<br>
 
-**Flag description**<br>
-red with a vertical white crescent moon and five-pointed white star centered just outside the crescent opening; the flag colors and designs closely resemble the Ottoman Empire's flag; the crescent moon and star serve as insignia for Turkic peoples; according to one interpretation, the flag represents the reflection of the moon and a star in a pool of blood of Turkish warriors<br>
+**Flag**<br>
+<strong>description:</strong> red with a vertical white crescent moon and five-pointed white star centered just outside the crescent's opening<br><br><strong>meaning: </strong>the flag colors and designs closely resemble the Ottoman Empire's flag; the crescent moon and star serve as insignia for Turkic peoples; according to one interpretation, the flag represents the reflection of the moon and a star in a pool of blood of Turkish warriors<br>
 
 **National symbol(s)**<br>
 vertical crescent moon with adjacent five-pointed star<br>
@@ -390,7 +392,7 @@ vertical crescent moon with adjacent five-pointed star<br>
 red, white<br>
 
 **National anthem(s)**<br>
-_title_: "Istiklal Marsi" (Independence March)<br>
+_title_: "Istiklal Marsi" (The March of Independence)<br>
 _lyrics/music_: Mehmet Akif ERSOY/Zeki UNGOR<br>
 _history_: lyrics adopted 1921, music adopted 1932; the anthem's original music was adopted in 1924<br>
 
@@ -497,9 +499,9 @@ _highest 10%_: 35.2% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $234.92 billion (2022 est.)<br>
-_expenditures_: $269.146 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $330.21 billion (2023 est.)<br>
+_expenditures_: $382.998 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 33.1% of GDP (2023 est.)<br>
@@ -603,12 +605,6 @@ _exports_: 896.281 million cubic meters (2023 est.)<br>
 _imports_: 50.484 billion cubic meters (2023 est.)<br>
 _proven reserves_: 3.794 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 399.173 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 155.26 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 147.211 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 96.703 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 70.521 million Btu/person (2023 est.)<br>
 
@@ -670,14 +666,14 @@ Turkish Armed Forces (TAF; Türk Silahlı Kuvvetleri, TSK): Turkish Land Forces 
 <strong>note:</strong> the Gendarmerie (Jandarma) is responsible for the maintenance of the public order in areas that fall outside the jurisdiction of police forces (generally in rural areas); in wartime, the Gendarmerie and Coast Guard would be placed under the operational control of the Land Forces and Naval Forces, respectively<br>
 
 **Military expenditures**<br>
+2.3% of GDP (2025 est.)<br>
 2.1% of GDP (2024 est.)<br>
-1.6% of GDP (2023 est.)<br>
-1.4% of GDP (2022)<br>
-1.6% of GDP (2021)<br>
-1.9% of GDP (2020)<br>
+1.5% of GDP (2023 est.)<br>
+1.4% of GDP (2022 est.)<br>
+1.6% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 480,000 active-duty Armed Forces (380,000 Army; 50,000 Navy; 50,000 Air Force); approximately 150,000 Gendarmerie (2024)<br>
+approximately 495,000 active military personnel; approximately 150,000 Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is comprised of domestically produced, European (particularly from Germany), and US weapons and equipment, as well as some Chinese, Russian, and South Korean acquisitions; it is a mix of older and modern weapons systems; T&uuml;rkiye has a defense industry capable of producing a range of weapons systems for both export and internal use, including armored vehicles, naval vessels, and unmanned aerial vehicles/drones; T&uuml;rkiye's defense industry also partners with other countries for defense production (2024)<br>
@@ -687,8 +683,8 @@ mandatory military service for men at age 20; service can be delayed if in unive
 <strong>note 1:</strong> after completing six months of service, if a conscripted soldier wants to and is suitable for extending his military service, he may do so for an additional six months in return for a monthly salary; all male Turkish citizens over the age of 20 are required to undergo a one month military training period, but they can obtain an exemption from the remaining 5 months of their mandatory service by paying a fee <br><strong><br>note 2:</strong> as of 2021, women made up about 0.4% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-estimated 2-300 Azerbaijan; 250 Bosnia-Herzegovina (EUFOR); approximately 30-35,000 Cyprus; 800 Kosovo (NATO/KFOR); 130 Lebanon (UNIFIL); estimated 500 Libya; up to 5,000 Qatar; approximately 800 Somalia (2024)<br>
-<strong>note:</strong> Turkey maintains military forces in both Iraq and Syria; size estimates vary as some forces are long-term deployments while others are deployed for specific operations<br>
+approximately 200 Azerbaijan; approximately 250 Bosnia-Herzegovina (EUFOR); approximately 30,000 Cyprus; 325 Kosovo (NATO/KFOR); estimated 500 Libya; estimated 3,000 Qatar; estimated 800 Somalia (2025)<br>
+<strong>note:</strong> Turkey estimated to maintain several thousand military forces in both Iraq and Syria<br>
 
 **Military - note**<br>
 the responsibilities of the Turkish Armed Forces (TAF) include protecting the country's territory and sovereignty, participating in international peacekeeping operations, fulfilling Türkiye’s military commitments to NATO, providing disaster/humanitarian relief and assistance to domestic law enforcement if requested by civil authorities, and supporting the country's overall national security interests; it also has overall responsibility for the security of Türkiye’s borders; key areas of focus for the TAF are its operations in Syria, a protracted counterinsurgency campaign against the US-designated terrorist group the Kurdistan Worker’s Party (PKK), territorial disputes with fellow NATO member Greece, regional conflicts, and threats from Islamic terrorist groups<br><br>Türkiye is active in international peacekeeping and other military/security operations under NATO and the UN, as well as under bilateral agreements with some countries, such as Azerbaijan, Libya, Somalia, and Qatar; Türkiye has been a member of NATO since 1952 and hosts the headquarters for a NATO Land Command and a Rapid Deployment Corps, multiple airbases for NATO and US aircraft, NATO air/missile defense systems, and training centers; the TAF is the second-largest military in NATO behind the US<br><br>the military traces its history back to 200 B.C., although the modern TAF was formed following the collapse of the Ottoman Empire at the conclusion of the Turkish War of Independence (1919-1923); the TAF traditionally has been viewed as the “guardian” of Turkish politics, but its political role was diminished after the failed 2016 coup attempt; the military has a stake in Türkiye's economy through a holding company that is involved in the automotive, energy, finance, and logistics sectors, as well as iron and steel production (2025)<br>
@@ -696,13 +692,13 @@ the responsibilities of the Turkish Armed Forces (TAF) include protecting the co
 ## Space
 
 **Space agency/agencies**<br>
-Turkish Space Agency (TUA; established 2018); T&Uuml;BİTAK Space Technologies Research Institute (UZAY; established in 1985 as Ankara Electronics Research and Development Institute) (2025)<br>
+Turkish Space Agency (TUA; established 2018) (2025)<br>
 
 **Space launch site(s)**<br>
 rocket test launch site on the Black Sea in Sinop Province; constructing a rocket launch facility in Somalia as of early 2025 (2025)<br>
 
 **Space program overview**<br>
-has an ambitious space program with a large focus on satellites, software development, ground station technologies, and building up the country’s space industries; in recent years has also initiated a space launch program with the goal of placing domestically produced satellites into orbit independently and a probe on the Moon; manufactures and operates remote sensing and telecommunications satellites, as well as satellite components; has a space/satellite launch vehicle program; space sector is heavily import-reliant, particularly at the component level; has established relations with more than 25 foreign space agencies and corporations, including those of Azerbaijan, China, France, India, Japan, Kazakhstan, Pakistan, Russia, South Korea, Ukraine, and the US, as well as the European Space Agency; has state-owned rocket development and satellite communications companies, including some under the Ministry of Defense (2025)<br>
+has an ambitious national space program with a focus on satellites, satellite components, software development, ground station technologies, and building up the country’s space industries; manufactures and operates remote sensing and telecommunications satellites; in recent years has initiated a space launch vehicle (SLV) program with the goal of independently placing satellites into orbit and a probe on the Moon; has established relations with more than 25 foreign space agencies and corporations, including those of Azerbaijan, China, France, India, Japan, Kazakhstan, Pakistan, Russia, South Korea, Ukraine, and the US, as well as the European Space Agency; has state-owned rocket and satellite development companies, including some under the Ministry of Defense; also has a growing private space industry sector, and the Turkish Government has pledged to increase the country's share of the global space market (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -714,7 +710,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan (IMU);
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,244 (Iraq) (mid-year 2022); 41,665 (Ukraine) (as of 15 February 2024) (2023); 3,122,899 (Syria) (2024)<br>
-_IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2022)<br>
-_stateless persons_: 117 (2018)<br>
+_refugees_: 3,094,818 (2024 est.)<br>
+_IDPs_: 538,105 (2024 est.)<br>
+_stateless persons_: 420 (2024 est.)<br>
 

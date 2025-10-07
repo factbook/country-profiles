@@ -166,17 +166,13 @@ _female_: 84.7 years<br>
 **Gross reproduction rate**<br>
 0.8 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-70.3% (2017)<br>
-<strong>note:</strong> percent of women aged 16-49<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.8% of population<br>
-_improved: rural_: rural: 99.7% of population<br>
-_improved: total_: total: 99.8% of population<br>
-_unimproved: urban_: urban: 0.2% of population<br>
-_unimproved: rural_: rural: 0.3% of population<br>
-_unimproved: total_: total: 0.2% of population (2020 est.)<br>
+_improved: urban_: urban: 99.8% of population (2022 est.)<br>
+_improved: rural_: rural: 99.6% of population (2022 est.)<br>
+_improved: total_: total: 99.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.4% of population (2022 est.)<br>
+_unimproved: total_: total: 0.3% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 10.7% of GDP (2022)<br>
@@ -189,12 +185,12 @@ _Health expenditure (as % of national budget)_: 19% of national budget (2022 est
 2 beds/1,000 population (2020 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 99.6% of population (2022 est.)<br>
+_improved: rural_: rural: 99.5% of population (2022 est.)<br>
+_improved: total_: total: 99.6% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.4% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.5% of population (2022 est.)<br>
+_unimproved: total_: total: 0.4% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 20.6% (2016)<br>
@@ -247,23 +243,32 @@ _other_: 23.9% (2022 est.)<br>
 _urban population_: 88.7% of total population (2023)<br>
 _rate of urbanization_: 0.89% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 5.96 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 43.25 megatons (2016 est.)<br>
-_methane emissions_: 4.42 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 43.96 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 5.324 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 36.768 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 1.868 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+6 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 39.6 kt (2022-2024 est.)<br>
+_agriculture_: 127.8 kt (2019-2021 est.)<br>
+_waste_: 112.7 kt (2019-2021 est.)<br>
+_other_: 9.8 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 4.377 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 1,416,835 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 32.4% (2015 est.)<br>
+_municipal solid waste generated annually_: 4.618 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 39.7% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 700 million cubic meters (2020 est.)<br>
-_industrial_: 1.27 billion cubic meters (2020 est.)<br>
-_agricultural_: 100 million cubic meters (2020 est.)<br>
+_municipal_: 699 million cubic meters (2022 est.)<br>
+_industrial_: 1.267 billion cubic meters (2022 est.)<br>
+_agricultural_: 102 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-174 billion cubic meters (2020 est.)<br>
+174 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 1<br>
@@ -345,7 +350,7 @@ _email address and website_: <br>ambassaden.washington@gov.se<br><br>https://www
 _consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Mark EVANS (since January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Viraj LeBAILLY (since August 2025)<br>
 _embassy_: Dag Hammarskjolds Vag 31, SE-115 89 Stockholm<br>
 _mailing address_: 5750 Stockholm Place, Washington, DC&nbsp; 20521-5750<br>
 _telephone_: [46] (08) 783-53-00<br>
@@ -362,8 +367,8 @@ ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia G
 National Day, 6 June (1983)<br>
 <strong>note:</strong> celebrated as Swedish Flag Day from 1916 to 1982<br>
 
-**Flag description**<br>
-blue with a golden yellow cross extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors come from the Swedish coat of arms<br>
+**Flag**<br>
+<strong>description:</strong> blue with a golden yellow cross extending to the edges of the flag; the cross is shifted to the left side in the style of the Dannebrog (Danish flag)<br><br><strong>meaning:</strong> the colors come from the Swedish coat of arms<br>
 
 **National symbol(s)**<br>
 three crowns, lion<br>
@@ -372,9 +377,9 @@ three crowns, lion<br>
 blue, yellow<br>
 
 **National anthem(s)**<br>
-_title_: "Kungssangen" (The King's Song)<br>
+_title_: "Kungssangen" (Royal Song)<br>
 _lyrics/music_: Carl Wilhelm August Strandberg/Otto Lindblad<br>
-_history_: in use since 1844 as the royal anthem, but also used as the national anthem until 1893; played in the presence of the royal family and during certain state ceremonies<br>
+_history_: adopted 1844 as the royal anthem, but also used as the national anthem until 1893; only the first verse is sung if the monarch is present&nbsp;<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 15 (13 cultural, 1 natural, 1 mixed)<br>
@@ -479,9 +484,9 @@ _highest 10%_: 24.7% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $195.463 billion (2022 est.)<br>
-_expenditures_: $186.928 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $195.468 billion (2022 est.)<br>
+_expenditures_: $191.095 billion (2022 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 36.9% of GDP (2022 est.)<br>
@@ -581,12 +586,6 @@ _consumption_: 896.109 million cubic meters (2023 est.)<br>
 _exports_: 10.625 million cubic meters (2023 est.)<br>
 _imports_: 897.487 million cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 43.96 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 5.324 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 36.768 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 1.868 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 142.102 million Btu/person (2023 est.)<br>
 
@@ -647,15 +646,15 @@ _key ports_: Falkenberg, Goteborg, Helsingborg, Karlsborg, Karlshamn, Lulea, Mal
 Swedish Armed Forces (F&ouml;rsvarsmakten): Army, Navy, Air Force, Home Guard (202)<br>
 
 **Military expenditures**<br>
-2.1% of GDP (2024 est.)<br>
+2.5% of GDP (2025 est.)<br>
+2.3% of GDP (2024 est.)<br>
 1.7% of GDP (2023 est.)<br>
-1.3% of GDP (2022 est.)<br>
-1.3% of GDP (2021 est.)<br>
-1.2% of GDP (2020 est.)<br>
+1.5% of GDP (2022 est.)<br>
+1.4% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25,000 active Armed Forces (14,000 continuous service/full-time and 11,000 temporary service); approximately 21,000 Home Guard (some on active duty) (2025)<br>
-<strong>note 1: </strong>SAF personnel are divided into continuously serving (full-time) and temporary service troops (part-timers who serve periodically and have another main employer or attend school); additional personnel have signed service agreements with the SAF and mostly serve in the Home Guard; the SAF also has about 9,000 civilian employees<br><br><strong>note 2:</strong> in 2021, Sweden announced plans that increase the total size of the armed forces to about 100,000 personnel by 2030<br>
+approximately 25,000 active military personnel; approximately 21,000 Home Guard  (2025)<br>
+<strong>note 1: </strong>SAF personnel are divided into continuously serving (full-time) and temporary service troops (part-timers who serve periodically and have another main employer or attend school); additional personnel have signed service agreements with the SAF and mostly serve in the Home Guard<br><br><strong>note 2:</strong> in 2021, Sweden announced plans that increase the total size of the armed forces to about 100,000 personnel by 2030<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SAF's inventory is comprised of domestically produced and imported Western weapons systems, including from Finland, Germany, and the US; Sweden has a defense industry that produces a range of air, land, and naval systems, including armored vehicles, combat aircraft, and submarines; it also produces weapons systems jointly with other countries&nbsp; (2024)<br>
@@ -673,13 +672,13 @@ the Swedish military is responsible for deterrence and the defense of the countr
 ## Space
 
 **Space agency/agencies**<br>
-Swedish National Space Agency (SNSA; established 1972; known until 2018 as the Swedish National Space Board) (2024)<br>
+Swedish National Space Agency (SNSA; established 1972; known until 2018 as the Swedish National Space Board) (2025)<br>
 
 **Space launch site(s)**<br>
-Esrange Space Center (Kiruna) (2024)<br>
+Esrange Space Center (Kiruna) (2025)<br>
 
 **Space program overview**<br>
-member of the European Space Agency (ESA) and program is integrated within the framework of the ESA; produces and operates satellites; builds and launches sounding rockets; involved in the research, development, production, and operations of a wide variety of other space-related areas and capabilities, including astronomy, atmospheric monitoring, geographic information systems, infrared imaging, meteorology, propulsion systems, remote sensing, satellite subsystems, spacecraft systems and structures, space physics, scientific research, stratospheric balloons, and telecommunications; conducts extensive bilateral and multilateral international cooperation, in particular through the ESA and EU and their member states, as well as with the US; has a robust commercial space industry involved in a broad range of space-related capabilities (2024)<br>
+member of the European Space Agency (ESA) and program is integrated within its framework; aims to have one of Europe's leading space programs; produces and operates satellites; builds and launches sounding rockets; involved in the research, development, production, and operations of a wide variety of other space-related areas and capabilities, including astronomy, atmospheric monitoring, geographic information systems, infrared imaging, meteorology, propulsion systems, remote sensing, satellite subsystems, spacecraft systems and structures, space physics, scientific research, stratospheric balloons, and telecommunications; conducts extensive bilateral and multilateral international cooperation, in particular through the ESA and EU and their member states, as well as with the US; participates in such programs as Europe's Copernicus Earth observation and the Galileo global navigation satellite system, France's Pleiades project for sharing satellite imagery, and the international Square Kilometer Array Project; has a robust commercial space industry, including state-owned enterprises (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -691,6 +690,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 43,710 (Ukraine) (as of 28 February 2024)<br>
-_stateless persons_: 46,515 (2022); note - the majority of stateless people are from the Middle East and Somalia<br>
+_refugees_: 168,519 (2024 est.)<br>
+_stateless persons_: 6,835 (2024 est.)<br>
 

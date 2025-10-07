@@ -165,16 +165,13 @@ _female_: 74.4 years<br>
 **Gross reproduction rate**<br>
 0.61 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-56% (2020)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 98.9% of population<br>
-_improved: rural_: rural: 87% of population<br>
-_improved: total_: total: 92.1% of population<br>
-_unimproved: urban_: urban: 1.1% of population<br>
-_unimproved: rural_: rural: 13% of population<br>
-_unimproved: total_: total: 7.9% of population (2020 est.)<br>
+_improved: urban_: urban: 97.7% of population (2022 est.)<br>
+_improved: rural_: rural: 87.7% of population (2022 est.)<br>
+_improved: total_: total: 92% of population (2022 est.)<br>
+_unimproved: urban_: urban: 2.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 12.3% of population (2022 est.)<br>
+_unimproved: total_: total: 8% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 7.8% of GDP (2021)<br>
@@ -187,12 +184,12 @@ _Health expenditure (as % of national budget)_: 12.3% of national budget (2022 e
 5.7 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99% of population<br>
-_improved: rural_: rural: 83.1% of population<br>
-_improved: total_: total: 89.9% of population<br>
-_unimproved: urban_: urban: 1% of population<br>
-_unimproved: rural_: rural: 16.9% of population<br>
-_unimproved: total_: total: 10.1% of population (2020 est.)<br>
+_improved: urban_: urban: 98.7% of population (2022 est.)<br>
+_improved: rural_: rural: 82.9% of population (2022 est.)<br>
+_improved: total_: total: 89.7% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 17.1% of population (2022 est.)<br>
+_unimproved: total_: total: 10.3% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 18.9% (2016)<br>
@@ -245,23 +242,26 @@ _other_: 18.9% (2022 est.)<br>
 _urban population_: 43.4% of total population (2023)<br>
 _rate of urbanization_: 0.09% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 12.37 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 5.12 megatons (2016 est.)<br>
-_methane emissions_: 3.29 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 7.093 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 219,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 3.087 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 3.786 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+12.3 micrograms per cubic meter (2019 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 3,981,200 tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 609,920 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 15.3% (2015 est.)<br>
+_municipal solid waste generated annually_: 3.981 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 36.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 160 million cubic meters (2020 est.)<br>
-_industrial_: 580 million cubic meters (2020 est.)<br>
-_agricultural_: 60 million cubic meters (2020 est.)<br>
+_municipal_: 160 million cubic meters (2022 est.)<br>
+_industrial_: 583 million cubic meters (2022 est.)<br>
+_agricultural_: 55 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-12.27 billion cubic meters (2020 est.)<br>
+12.27 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -337,14 +337,14 @@ _subordinate courts_: Courts of Appeal; Court of Business Audit; municipal court
 Bloc of Communists and Socialists or BCS<br>Party of Action and Solidarity or PAS<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Viorel URSU (since 12 December 2022)<br>
+_chief of mission_: Ambassador Vladislav KULMINSKI (since 5 September 2025)<br>
 _chancery_: 2101 S Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 667-1130<br>
 _FAX_: [1] (202) 667-2624<br>
 _email address and website_: <br>washington@mfa.gov.md<br><br>https://sua.mfa.gov.md/en<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Daniela DIPIERRO (since June 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Nick PIETROWICZ (since 2025)<br>
 _embassy_: 103 Mateevici Street, Chisinau MD-2009<br>
 _mailing address_: 7080 Chisinau Place, Washington DC&nbsp; 20521-7080<br>
 _telephone_: [373] (22) 408-300<br>
@@ -361,9 +361,9 @@ BSEC, CD, CE, CEI, CIS, EAEU (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD
 **National holiday**<br>
 Independence Day, 27 August (1991)<br>
 
-**Flag description**<br>
-three equal vertical bands of Prussian blue (hoist side), chrome yellow, and vermilion red; emblem in center of flag is a Roman eagle of dark gold outlined in black, with a red beak and talons; the eagle carries a yellow cross in its beak, a green olive branch in its right talons, and a yellow scepter in its left talons; on the eagle's breast is a red-and-blue shield divided horizontally, with a stylized aurochs head, star, rose, and crescent in black and outlined yellow; colors are based on the Romanian flag, but Moldova's blue band is lighter; the reverse of the flag displays a mirror image of the coat of arms<br>
-<strong>note:</strong> one of three national flags that differ on their obverse and reverse sides -- the others are Paraguay and Saudi Arabia<br>
+**Flag**<br>
+<strong>description:</strong> three equal vertical bands of Prussian blue (left side), chrome yellow, and vermilion red; the Moldavan coat of arms in the center is a dark gold Roman eagle outlined in black, with a red beak and talons; the eagle carries a yellow cross in its beak, a green olive branch in its right talons, and a yellow scepter in its left talons; on the eagle's breast is a red-and-blue shield divided horizontally, with a stylized aurochs head, star, rose, and crescent in black and outlined yellow; the reverse of the flag displays a mirror image of the coat of arms<br><br><strong>history:</strong> replaced the communist flag in 1990; the coat of arms is based on traditional designs<br>
+<strong>note 1: </strong>colors are based on the Romanian flag, but Moldova's blue band is lighter<strong><br><br>note 2:</strong> one of three national flags that differ on each side -- the others are Paraguay and Saudi Arabia<br>
 
 **National symbol(s)**<br>
 aurochs (type of wild cattle)<br>
@@ -372,9 +372,9 @@ aurochs (type of wild cattle)<br>
 blue, yellow, red<br>
 
 **National anthem(s)**<br>
-_title_: "Limba noastra" (Our Language)<br>
+_title_: "Limba noastra" (Our Tongue)<br>
 _lyrics/music_: Alexei MATEEVICI/Alexandru CRISTEA<br>
-_history_: adopted 1994<br>
+_history_: adopted 1994; originally a 12-verse poem, but only stanzas 1, 2, 5, 9, and 12 are included in the anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
@@ -475,9 +475,9 @@ _highest 10%_: 22.5% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $4.487 billion (2022 est.)<br>
-_expenditures_: $4.684 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $5.197 billion (2023 est.)<br>
+_expenditures_: $6.037 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 34.3% of GDP (2023 est.)<br>
@@ -570,12 +570,6 @@ _production_: 10,000 cubic meters (2021 est.)<br>
 _consumption_: 2.223 billion cubic meters (2023 est.)<br>
 _imports_: 2.223 billion cubic meters (2023 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 7.093 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 219,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 3.087 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 3.786 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 35.686 million Btu/person (2023 est.)<br>
 
@@ -651,6 +645,7 @@ the National Army is responsible for defense against external aggression, suppre
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 116,855 (Ukraine) (as of 7 April 2024)<br>
-_stateless persons_: 1,701 (2022)<br>
+_refugees_: 136,845 (2024 est.)<br>
+_IDPs_: 6 (2024 est.)<br>
+_stateless persons_: 3,164 (2024 est.)<br>
 

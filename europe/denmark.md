@@ -163,16 +163,13 @@ _female_: 84.1 years<br>
 **Gross reproduction rate**<br>
 0.86 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 9.5% of GDP (2022)<br>
@@ -185,12 +182,12 @@ _Health expenditure (as % of national budget)_: 17.7% of national budget (2022 e
 2.5 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 19.7% (2016)<br>
@@ -246,23 +243,32 @@ _other_: 18.6% (2022 est.)<br>
 _urban population_: 88.5% of total population (2023)<br>
 _rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 9.66 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 31.79 megatons (2016 est.)<br>
-_methane emissions_: 6.54 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 29.915 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 2.54 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 22.535 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 4.841 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+10.1 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 49.7 kt (2022-2024 est.)<br>
+_agriculture_: 236.5 kt (2019-2021 est.)<br>
+_waste_: 54.4 kt (2019-2021 est.)<br>
+_other_: 5.3 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 4.485 million tons (2015 est.)<br>
-_municipal solid waste recycled annually_: 1,223,060 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 27.3% (2015 est.)<br>
+_municipal solid waste generated annually_: 4.911 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 35.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 400 million cubic meters (2020 est.)<br>
-_industrial_: 50 million cubic meters (2020 est.)<br>
-_agricultural_: 530 million cubic meters (2020 est.)<br>
+_municipal_: 382.787 million cubic meters (2022)<br>
+_industrial_: 45.076 million cubic meters (2022)<br>
+_agricultural_: 506.487 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
-6 billion cubic meters (2020 est.)<br>
+6 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 3 (2024)<br>
@@ -346,7 +352,7 @@ _email address and website_: <br>wasamb@um.dk<br><br>https://usa.um.dk/en<br>
 _consulate(s) general_: Chicago, Houston, New York, Silicon Valley (CA)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Jennifer Hall GODFREY (since January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Mark STROH (since June 2025)<br>
 _embassy_: Dag Hammarskjolds Alle 24, 2100 Kobenhavn 0<br>
 _mailing address_: 5280 Copenhagen Place, Washington DC&nbsp; 20521-5280<br>
 _telephone_: [45] 33-41-71-00<br>
@@ -363,9 +369,9 @@ ca. 965 (unified and Christianized under Harald I GORMSSON); 5 June 1849 (became
 Constitution Day, 5 June (1849)<br>
 <strong>note:</strong> closest equivalent to a national holiday<br>
 
-**Flag description**<br>
-red with a white cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side; the banner is referred to as the Dannebrog (Danish flag) and is one of the oldest national flags in the world; traditions as to the origin of the flag design vary, but the best known is a legend that the banner fell from the sky during an early-13th-century battle and inspired the royal army to victory; in actuality, the flag may derive from a crusade banner or ensign<br>
-<strong>note:</strong> the shifted cross design element was subsequently adopted by Finland, Iceland, Norway, and Sweden, as well as by the Faroe Islands<br>
+**Flag**<br>
+<strong>description:</strong> red field with a white cross that extends to the edges of the flag; the vertical part of the cross is shifted to the left<br><br><strong>history: </strong>referred to as the Dannebrog (Danish flag) and is one of the oldest national flags in the world; the origin of the design is unclear; one legend says that the banner fell from the sky during an early-13th-century battle and inspired the royal army to victory; in actuality, the flag may derive from a crusade banner<br>
+<strong>note:</strong> Finland, Iceland, Norway, Sweden, and the Faroe Islands subsequently adopted the shifted-cross design<br>
 
 **National symbol(s)**<br>
 lion, mute swan<br>
@@ -379,7 +385,7 @@ Denmark’s King Frederick VI adopted the national coat of arms in 1819; the cro
 **National anthem(s)**<br>
 _title_: &ldquo;Kong Christian stod ved h&oslash;jen mast&rdquo; (King Christian Stood by the Lofty Mast)<br>
 _lyrics/music_: Johannes EWALD/unknown<br>
-_history_: adopted 1780; one of the oldest royal anthems in the world; used for events when the Danish royalty is present; anthem has equal status with the national anthem<br><br><br>
+_history_: adopted 1780; one of the oldest royal anthems in the world; used for events when Danish royalty is present; anthem has equal status with the national anthem<br>
 <strong>note:</strong> Denmark is one of only two countries that has two national anthems of equal status (New Zealand is the other)<br>
 
 **National heritage**<br>
@@ -486,9 +492,9 @@ _highest 10%_: 24.5% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $145.764 billion (2022 est.)<br>
-_expenditures_: $130.785 billion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $149.393 billion (2023 est.)<br>
+_expenditures_: $136.662 billion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 35.3% of GDP (2017 est.)<br>
@@ -582,12 +588,6 @@ _exports_: 8.388 billion cubic meters (2023 est.)<br>
 _imports_: 8.612 billion cubic meters (2023 est.)<br>
 _proven reserves_: 29.534 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 29.915 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 2.54 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 22.535 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 4.841 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 98.513 million Btu/person (2023 est.)<br>
 
@@ -647,14 +647,14 @@ _key ports_: Abenra, Alborg, Arhus, Assens, Augustenborg, Bandholm, Esbjerg, Fab
 Danish Armed Forces (Forsvaret): Royal Danish Army, Royal Danish Navy, Royal Danish Air Force (2025)<br>
 
 **Military expenditures**<br>
-2.4% of GDP (2024 est.)<br>
-2% of GDP (2023)<br>
-1.4% of GDP (2022)<br>
-1.3% of GDP (2021)<br>
-1.4% of GDP (2020)<br>
+3.2% of GDP (2025 est.)<br>
+2.3% of GDP (2024 est.)<br>
+2% of GDP (2023 est.)<br>
+1.4% of GDP (2022 est.)<br>
+1.3% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 17,000 active-duty Armed Forces (10,000 Army; 3,500 Navy; 3,500 Air Force) (2024)<br>
+approximately 17,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Danish military inventory is comprised of modern European, US, and domestically produced weapons and equipment; the Danish defense industry is active in the production of naval vessels, defense electronics, and subcomponents of larger weapons systems, such as the US F-35 fighter aircraft; the major warships of the Royal Danish Navy were all produced domestically (2024)<br>
@@ -669,15 +669,6 @@ approximately 800 Latvia (NATO); Denmark contributes small numbers of air, groun
 **Military - note**<br>
 the Danish Armed Forces (Forsvaret) have a variety of missions, including enforcing the country’s sovereignty, monitoring Danish waters and airspace, search and rescue, environmental protection, host nation support for alliance partners, international peacekeeping, fulfilling Denmark’s commitments to NATO, and providing assistance to the police for border control, guard tasks, air surveillance, and during national disasters and other emergencies<br><br>NATO has been a cornerstone of Danish security and defense police since it joined in 1949 as one of the organization’s original members under the North Atlantic Treaty (also known as the Washington Treaty); the Forsvaret regularly exercises with NATO allies and participates in a number of NATO missions, including its Enhanced Forward Presence in Eastern Europe, air policing in the Baltics, naval operations in the Baltic Sea and North Atlantic, and an advisory mission in Iraq; the Forsvaret leads NATO’s Multinational Division – North (inaugurated 2019), a headquarters based in Latvia that supports the defense planning of Estonia, Latvia, and Lithuania, and the coordination of regional military activities, including NATO’s forward deployed forces; it also takes part in other international missions for Europe and the UN ranging from peacekeeping in Africa to protecting Europe's external borders by patrolling the Mediterranean Sea in support of the European Border and Coast Guard Agency; Denmark is a member of the EU and voted to join the EU’s Common Defense and Security Policy in a 2022 referendum; the Forsvaret cooperates closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO; established 2009), which consists of Denmark, Finland, Iceland, Norway, and Sweden in such areas as armaments, training and exercises, and operations; it also has a joint composite special operations command with Belgium and the Netherlands<br><br>the Forsvaret has an Arctic Command to protect the sovereignty of Denmark in the Arctic region, including the Faroe Islands and Greenland, and conducts maritime pollution prevention, environmental monitoring, fishery inspections, search and rescue, and hydrographical surveys, plus support to governmental science missions; there is also a joint service Special Operations Command (SOKOM), which includes the Sirius Dog Sled Patrol, an elite unit that patrols the most remote parts of northeast Greenland (2025)<br>
 
-## Space
-
-**Space agency/agencies**<br>
-no formal space agency; the Ministry of Higher Education and Science has responsibility for coordinating Danish space activities managing international cooperation; the Danish Space Research Institute (Dansk Rumforskningsinstitut (DRKI) was the country&rsquo;s space agency from 1966-2005; DTU Space, National Space Institute, is Denmark&rsquo;s national space institute (2024)<br>
-
-**Space program overview**<br>
-member of the European Space Agency (ESA); participates in ESA programs, particularly those linked to human spaceflight and satellite-based remote sensing activities, as well as technology programs involving telecommunications and navigation; independently builds and operates satellites, particularly with meteorological, science, technology, and signal/traffic monitoring capabilities; conducts research and development of technologies such as measurement and instrumentation systems, microwaves, remote sensing, electromagnetic systems, astrophysics, and geomagnetism; has relations with the space agencies and industries of Canada, India, Japan, and the US, in addition to the EU member states (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
-
 ## Terrorism
 
 **Terrorist group(s)**<br>
@@ -687,6 +678,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps (IR
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 37,530 (Ukraine) (as of 3 March 2024)<br>
-_stateless persons_: 11,644 (2022)<br>
+_refugees_: 100,832 (2024 est.)<br>
+_stateless persons_: 8,566 (2024 est.)<br>
 

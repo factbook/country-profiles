@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-Vietnam's early history included periods of occupation by outside forces and eventual power consolidation under Vietnamese dynastic families. A succession of Han Chinese emperors ruled the area, which was centered on the Red River Valley, until approximately the 10th century. The Ly Dynasty (11th-13th century) created the first independent Vietnamese state, which was known as Dai Viet, and established their capital at Thang Long (Hanoi). Under the Tran Dynasty (13th-15th century), TRAN Hung Dao, one of Vietnam’s national heroes, led Dai Viet forces to fight off Mongol invaders in 1279. After a brief Chinese occupation in the early 1400s, Vietnamese resistance leader LE Thai To made himself emperor and established the Le Dynasty, which lasted until the late 18th century despite decades of political turmoil, civil war, and division. During this period, Dai Viet expanded southward to the Central Highlands and Mekong Delta, reaching the approximate boundaries of modern-day Vietnam by the 1750s. Dai Viet suffered additional civil war and division in the latter half of the 18th century, but it was reunited and renamed Vietnam under Emperor NGUYEN Phuc Anh (aka Gia Long) in 1802.<br><br>France began its conquest of Vietnam in 1858 and made Vietnam part of French Indochina in 1887. Vietnam declared independence after World War II, but the French continued to rule until communist forces under Ho Chi MINH defeated them in 1954. Under the Geneva Accords of 1954, Vietnam was divided into the communist North and anti-communist South. Fighting erupted between the two governments shortly afterwards with the North supporting communist rebels in the South and eventually committing thousands of combat troops. The US provided to the South significant economic and military assistance, including large numbers of US military forces, which reached a peak strength of over 500,000 troops in 1968. US combat forces were withdrawn following a cease-fire agreement in 1973. Two years later, North Vietnamese forces overran the South, reuniting the country under communist rule. The conflict, known as the Second Indochina War (1955-1975), caused more than 58,000 US combat and non-combat deaths and created deep domestic divisions in the US. It also devastated Vietnam, spilled over into the neighboring countries of Cambodia and Laos, and is estimated to have resulted in the deaths of up to 3 million Vietnamese civilians and soldiers.  <br><br>Despite the return of peace, the country experienced little economic growth for over a decade because of its diplomatic isolation, leadership policies, and the persecution and mass exodus of citizens, many of them successful South Vietnamese merchants. However, since the enactment of Vietnam's "doi moi" (renovation) policy in 1986, the economy has seen strong growth, particularly in agricultural and industrial production, construction, exports, foreign investment, and tourism. Nevertheless, the Communist Party maintains tight political and social control of the country, and Vietnam faces many related challenges, such as rising income inequality and corruption.<br>
+Vietnam's early history included periods of occupation by outside forces and eventual power consolidation under Vietnamese dynastic families. A succession of Han Chinese emperors ruled the area, which was centered on the Red River Valley, until approximately the 10th century. The Ly Dynasty (11th-13th century) created the first independent Vietnamese state, which was known as Dai Viet, and established their capital at Thang Long (Hanoi). Under the Tran Dynasty (13th-15th century), TRAN Hung Dao, one of Vietnam’s national heroes, led Dai Viet forces to fight off Mongol invaders in 1279. After a brief Chinese occupation in the early 1400s, Vietnamese resistance leader LE Thai To made himself emperor and established the Le Dynasty, which lasted until the late 18th century despite decades of political turmoil, civil war, and division. During this period, Dai Viet expanded southward to the Central Highlands and Mekong Delta, reaching the approximate boundaries of modern-day Vietnam by the 1750s. Dai Viet suffered additional civil war and division in the latter half of the 18th century, but it was reunited and renamed Vietnam under Emperor NGUYEN Phuc Anh (aka Gia Long) in 1802.<br><br>France began its conquest of Vietnam in 1858 and made Vietnam part of French Indochina in 1887. Vietnam declared independence after World War II, but the French continued to rule until communist forces under Ho Chi MINH defeated them in 1954. Under the Geneva Accords of 1954, Vietnam was divided into the communist North and anti-communist South. Fighting erupted between the two governments shortly afterwards with the North supporting communist rebels in the South and eventually committing thousands of combat troops. The US provided to the South significant economic and military assistance, including large numbers of US military forces, which reached a peak strength of over 500,000 troops in 1968. US combat forces were withdrawn following a cease-fire agreement in 1973. Two years later, North Vietnamese forces overran the South, reuniting the country under communist rule. The conflict, known as the Second Indochina War (1955-1975), devastated Vietnam, spilled over into the neighboring countries of Cambodia and Laos, and is estimated to have resulted in the deaths of up to 3 million Vietnamese civilians and soldiers. It also caused more than 58,000 US combat and non-combat deaths and created deep domestic divisions in the US. <br><br>Despite the return of peace, the country experienced little economic growth for over a decade because of its diplomatic isolation, leadership policies, and the persecution and mass exodus of citizens, many of them successful South Vietnamese merchants. However, since the enactment of Vietnam's "doi moi" (renovation) policy in 1986, the economy has seen strong growth, particularly in agricultural and industrial production, construction, exports, foreign investment, and tourism. Nevertheless, the Communist Party maintains tight political and social control of the country, and Vietnam faces many related challenges, such as rising income inequality and corruption.<br>
 
 ## Geography
 
@@ -166,16 +166,13 @@ _female_: 78.9 years<br>
 **Gross reproduction rate**<br>
 0.96 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-72.8% (2020)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 99.2% of population<br>
-_improved: rural_: rural: 95.5% of population<br>
-_improved: total_: total: 96.9% of population<br>
-_unimproved: urban_: urban: 0.8% of population<br>
-_unimproved: rural_: rural: 4.5% of population<br>
-_unimproved: total_: total: 3.1% of population (2020 est.)<br>
+_improved: urban_: urban: 99.1% of population (2022 est.)<br>
+_improved: rural_: rural: 97.2% of population (2022 est.)<br>
+_improved: total_: total: 98% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.9% of population (2022 est.)<br>
+_unimproved: rural_: rural: 2.8% of population (2022 est.)<br>
+_unimproved: total_: total: 2% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.6% of GDP (2021)<br>
@@ -188,12 +185,12 @@ _Health expenditure (as % of national budget)_: 10.7% of national budget (2022 e
 2.6 beds/1,000 population (2017 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 98.7% of population<br>
-_improved: rural_: rural: 90% of population<br>
-_improved: total_: total: 93.3% of population<br>
-_unimproved: urban_: urban: 1.3% of population<br>
-_unimproved: rural_: rural: 10% of population<br>
-_unimproved: total_: total: 6.7% of population (2020 est.)<br>
+_improved: urban_: urban: 99.9% of population (2022 est.)<br>
+_improved: rural_: rural: 90.9% of population (2022 est.)<br>
+_improved: total_: total: 94.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.1% of population (2022 est.)<br>
+_unimproved: rural_: rural: 9.1% of population (2022 est.)<br>
+_unimproved: total_: total: 5.6% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 2.1% (2016)<br>
@@ -259,23 +256,32 @@ _other_: 13.5% (2022 est.)<br>
 _urban population_: 39.5% of total population (2023)<br>
 _rate of urbanization_: 2.7% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 20.89 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 192.67 megatons (2016 est.)<br>
-_methane emissions_: 110.4 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 305.404 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 218.502 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 72.383 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 14.52 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+20.9 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 806.7 kt (2022-2024 est.)<br>
+_agriculture_: 2,146.3 kt (2019-2021 est.)<br>
+_waste_: 683.4 kt (2019-2021 est.)<br>
+_other_: 40.4 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 9,570,300 tons (2011 est.)<br>
-_municipal solid waste recycled annually_: 2,201,169 tons (2014 est.)<br>
-_percent of municipal solid waste recycled_: 23% (2014 est.)<br>
+_municipal solid waste generated annually_: 9.57 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 46% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.21 billion cubic meters (2020 est.)<br>
-_industrial_: 3.07 billion cubic meters (2020 est.)<br>
-_agricultural_: 77.75 billion cubic meters (2020 est.)<br>
+_municipal_: 1.206 billion cubic meters (2022 est.)<br>
+_industrial_: 3.074 billion cubic meters (2022 est.)<br>
+_agricultural_: 77.75 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-884.12 billion cubic meters (2020 est.)<br>
+884.12 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 4 (2025)<br>
@@ -379,8 +385,8 @@ ADB, APEC, ARF, ASEAN, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), I
 **National holiday**<br>
 Independence Day (National Day), 2 September (1945)<br>
 
-**Flag description**<br>
-red field with a five-pointed yellow star in the center; red stands for revolution and blood, and the five-pointed star for the five elements of the populace -- peasants, workers, intellectuals, traders, and soldiers -- that unite to build socialism<br>
+**Flag**<br>
+<strong>description:</strong> red field with a five-pointed yellow star in the center<br><br><strong>meaning:</strong> red stands for revolution and blood, and the five-pointed star for the five elements of the populace -- peasants, workers, intellectuals, traders, and soldiers -- that unite to build socialism<br>
 
 **National symbol(s)**<br>
 five-pointed yellow star on a red field, lotus blossom<br>
@@ -391,7 +397,7 @@ red, yellow<br>
 **National anthem(s)**<br>
 _title_: "Tien quan ca" (The Song of the Marching Troops)<br>
 _lyrics/music_: Nguyen Van CAO<br>
-_history_: adopted as the national anthem of the Democratic Republic of Vietnam in 1945; it became the national anthem of the unified Socialist Republic of Vietnam in 1976; it has two verses, but only the first is used as the official anthem<br>
+_history_: adopted as the national anthem of the Democratic Republic of Vietnam in 1945; it became the national anthem of the unified Socialist Republic of Vietnam in 1976; only the first verse is used as the official anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 8 (5 cultural, 2 natural, 1 mixed)<br>
@@ -496,8 +502,8 @@ _highest 10%_: 28.1% (2022 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $42.247 billion (2014 est.)<br>
-_expenditures_: $38.025 billion (2014 est.)<br>
+_revenues_: $68.818 billion (2022 est.)<br>
+_expenditures_: $83.707 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
@@ -592,12 +598,6 @@ _production_: 7.48 billion cubic meters (2023 est.)<br>
 _consumption_: 7.48 billion cubic meters (2023 est.)<br>
 _proven reserves_: 699.426 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 305.404 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 218.502 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 72.383 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 14.52 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 40.263 million Btu/person (2023 est.)<br>
 
@@ -670,7 +670,7 @@ People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces (
 approximately 450,000 active-duty People's Army of Vietnam (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PAVN is armed largely with weapons and equipment from Russia and the former Soviet Union; in recent years, Vietnam has moved to diversify arms its arms suppliers and has acquired items from countries such as India, South Korea, and the US; Vietnam has a small defense industry involved in the manufacture of small arms, ground combat vehicles, and naval systems (2024)<br>
+the PAVN is armed largely with weapons and equipment from Russia and the former Soviet Union; in recent years, Vietnam has moved to diversify arms its arms suppliers and has acquired items from countries such as India, South Korea, and the US; Vietnam has a small defense industry involved in the manufacture of small arms, ground combat vehicles, and naval systems (2025)<br>
 <strong>note:</strong> the US lifted an embargo on arms sales to Vietnam in 2016<br>
 
 **Military service age and obligation**<br>
@@ -694,5 +694,7 @@ has a growing space program focused on acquiring, operating, and exploiting sate
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 35,475 (2022); note - Vietnam's stateless ethnic Chinese Cambodian population dates to the 1970s when thousands of Cambodians fled to Vietnam to escape the Khmer Rouge and were no longer recognized as Cambodian citizens; Vietnamese women who gave up their citizenship to marry foreign men have found themselves stateless after divorcing and returning home to Vietnam; the government addressed this problem in 2009, and Vietnamese women are beginning to reclaim their citizenship<br>
+_refugees_: 19 (2024 est.)<br>
+_IDPs_: 2,568 (2024 est.)<br>
+_stateless persons_: 20,590 (2024 est.)<br>
 

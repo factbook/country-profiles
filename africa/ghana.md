@@ -168,16 +168,13 @@ _female_: 71.8 years<br>
 **Gross reproduction rate**<br>
 1.75 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-27.2% (2017/18)<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 98.7% of population<br>
-_improved: rural_: rural: 83.8% of population<br>
-_improved: total_: total: 92.4% of population<br>
-_unimproved: urban_: urban: 1.3% of population<br>
-_unimproved: rural_: rural: 16.2% of population<br>
-_unimproved: total_: total: 7.6% of population (2020 est.)<br>
+_improved: urban_: urban: 98.4% of population (2022 est.)<br>
+_improved: rural_: rural: 74.1% of population (2022 est.)<br>
+_improved: total_: total: 88.4% of population (2022 est.)<br>
+_unimproved: urban_: urban: 1.6% of population (2022 est.)<br>
+_unimproved: rural_: rural: 25.9% of population (2022 est.)<br>
+_unimproved: total_: total: 11.6% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.2% of GDP (2021)<br>
@@ -190,12 +187,12 @@ _Health expenditure (as % of national budget)_: 7.4% of national budget (2022 es
 0.7 beds/1,000 population (2015 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 84.8% of population<br>
-_improved: rural_: rural: 52.8% of population<br>
-_improved: total_: total: 71.1% of population<br>
-_unimproved: urban_: urban: 15.2% of population<br>
-_unimproved: rural_: rural: 47.2% of population<br>
-_unimproved: total_: total: 28.9% of population (2020 est.)<br>
+_improved: urban_: urban: 85.7% of population (2022 est.)<br>
+_improved: rural_: rural: 55.3% of population (2022 est.)<br>
+_improved: total_: total: 73.1% of population (2022 est.)<br>
+_unimproved: urban_: urban: 14.3% of population (2022 est.)<br>
+_unimproved: rural_: rural: 44.7% of population (2022 est.)<br>
+_unimproved: total_: total: 26.9% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 10.9% (2016)<br>
@@ -261,21 +258,32 @@ _other_: 9.4% (2022 est.)<br>
 _urban population_: 59.2% of total population (2023)<br>
 _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 46.04 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 16.67 megatons (2016 est.)<br>
-_methane emissions_: 22.75 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 20.822 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 107,000 metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 13.349 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 7.366 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+43.4 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 164.9 kt (2022-2024 est.)<br>
+_agriculture_: 166.7 kt (2019-2021 est.)<br>
+_waste_: 134 kt (2019-2021 est.)<br>
+_other_: 28.1 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 3,538,275 tons (2005 est.)<br>
+_municipal solid waste generated annually_: 3.538 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 13.3% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 300 million cubic meters (2020 est.)<br>
-_industrial_: 100 million cubic meters (2020 est.)<br>
-_agricultural_: 1.07 billion cubic meters (2020 est.)<br>
+_municipal_: 299.6 million cubic meters (2022 est.)<br>
+_industrial_: 95 million cubic meters (2022 est.)<br>
+_agricultural_: 1.07 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-56.2 billion cubic meters (2020 est.)<br>
+56.2 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -346,7 +354,7 @@ _subordinate courts_: Court of Appeal; High Court; Circuit Court; District Court
 All Peoples Congress or APC <br>Convention People's Party or CPP <br>Ghana Freedom Party or GFP <br>Ghana Union Movement or GUM <br>Great Consolidated Popular Party or GCPP <br>Liberal Party of Ghana or LPG <br>National Democratic Congress or NDC <br>National Democratic Party or NDP <br>New Patriotic Party or NPP <br>People's National Convention or PNC <br>Progressive People's Party or PPP <br>United Front Party or UFP <br>United Progressive Party or UPP <br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Jane Gasu AHETO (since 31 May 2025)<br>
+_chief of mission_: Ambassador Victor Emmanuel SMITH (since 19 September 2025)<br>
 _chancery_: 3512 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 686-4520<br>
 _FAX_: [1] (202) 686-4527<br>
@@ -354,7 +362,7 @@ _email address and website_: <br>info.washington@mfa.gov.gh<br><br>https://washi
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Virginia E. PALMER (since 16 June 2022)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Rolf OLSON (since 29 May 2025)<br>
 _embassy_: No. 24, Fourth Circular Road, Cantonments, Accra, P.O. Box 2288, Accra<br>
 _mailing address_: 2020 Accra Place, Washington DC&nbsp; 20521-2020<br>
 _telephone_: [233] (0) 30-274-1000<br>
@@ -369,9 +377,9 @@ ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-24, G-77, IAEA
 **National holiday**<br>
 Independence Day, 6 March (1957)<br>
 
-**Flag description**<br>
-three equal horizontal bands of red (top), yellow, and green, with a large black five-pointed star centered in the yellow band; red stands for the blood shed for independence, yellow for the country's mineral wealth, and green for its forests and natural wealth; the black star is said to be the lodestar of African freedom<br>
-<strong>note:</strong> uses the popular pan-African colors of Ethiopia; similar to the flag of Bolivia, which has a coat of arms centered in the yellow band<br>
+**Flag**<br>
+<strong>description:</strong> three equal horizontal bands of red (top), yellow, and green, with a large five-pointed black star centered in the yellow band<br><br><strong>meaning:</strong> red stands for the blood shed for independence, yellow for the country's mineral wealth, and green for its forests and natural wealth; the black star is said to be the lodestar of African freedom<br><br><strong>history:</strong> uses the colors of the Pan-African movement<br>
+<strong>note:</strong> similar to the flag of Bolivia, which has a coat of arms centered in the yellow band<br>
 
 **National symbol(s)**<br>
 black star, golden eagle<br>
@@ -488,8 +496,11 @@ _highest 10%_: 32.2% (2016 est.)<br>
 
 **Budget**<br>
 _revenues_: $11.684 billion (2022 est.)<br>
-_expenditures_: $16.842 billion (2022 est.)<br>
+_expenditures_: $19.102 billion (2022 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
+
+**Public debt**<br>
+73.4% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
 12.3% (of GDP) (2022 est.)<br>
@@ -583,12 +594,6 @@ _consumption_: 3.755 billion cubic meters (2023 est.)<br>
 _imports_: 639.204 million cubic meters (2023 est.)<br>
 _proven reserves_: 22.653 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 20.822 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 107,000 metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 13.349 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 7.366 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 10.493 million Btu/person (2023 est.)<br>
 
@@ -672,16 +677,20 @@ the military's inventory is a mix of older and some newer Chinese, Russian, and 
 <strong>note:</strong> since sending a contingent of troops to the Congo in 1960, the military has been a regular contributor to African- and UN-sponsored peacekeeping missions<br>
 
 **Military - note**<br>
-the military’s primary missions are border defense, assisting with internal security, peacekeeping, and protecting the country’s territorial waters, particularly its offshore oil and gas infrastructure; it has benefited from cooperation with foreign partners, such as the UK and the US, and experience gained from participation in multiple international peacekeeping missions<br> <br>in recent years, Ghana has expanded the Army and reinforced its presence in the northern part of the country to shore up porous borders, interdict smuggling routes, and counter threats from the terrorist organization Jama’at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida linked militant groups, which has a considerable presence in Burkina Faso and has conducted attacks in Cote d'Ivoire and Togo; Ghana has also made efforts to increase the Navy's capabilities to protect its maritime claims and counter threats such as piracy and illegal fishing (2025)<br>
+the military’s primary missions are border defense, assisting with internal security, peacekeeping, and protecting the country’s territorial waters, particularly its offshore oil and gas infrastructure; it has benefited from cooperation with foreign partners, such as the UK and the US, and experience gained from participation in multiple international peacekeeping missions<br> <br>in recent years, Ghana has expanded the Army and reinforced its presence in the northern part of the country to shore up porous borders, interdict smuggling routes, and counter threats from the terrorist organization Jama’at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida linked militant groups which has a considerable presence in Burkina Faso and has conducted attacks in Cote d'Ivoire and Togo; Ghana has also made efforts to increase the Navy's capabilities to protect its maritime claims and counter threats such as piracy and illegal fishing (2025)<br>
 
 ## Space
 
 **Space agency/agencies**<br>
-Ghana Space Science and Technology Institute (GSSTI; established 2011); note &ndash; the GSSTI is eventually slated to become the Ghana Space Agency (2024)<br>
+Ghana Space Science and Technology Institute (GSSTI; established 2011); note &ndash; the GSSTI is eventually slated to become the Ghana Space Agency (2025)<br>
 
 **Space program overview**<br>
-has a small, nascent space program focused on research in space sciences and exploiting remote sensing (RS) technology for natural resource management, weather forecasting, agriculture, and national security issues; relies on foreign imagery for analysis but seeks to develop its own RS satellite capabilities; one of Africa’s leaders in satellite dish research; trains aerospace scientists and engineers; has established relations on space-related issues with China, Japan, and South Africa; cooperating with Egypt, Kenya, Nigeria, Sudan, and Uganda to establish a joint satellite to monitor climate changes in the African continent; partner of the Square Kilometer Array (SKA) international astronomy initiative (2024)<br>
+has nascent space program focused on earth observation, space science education, and telecommunications; seeks to exploit remote sensing (RS) technology for agriculture, natural resource management, weather forecasting, and national security issues; relies on foreign imagery for analysis but seeks to develop its own RS satellite capabilities; has established cooperative relationships with China and Japan, as well as a number of regional states, particularly South Africa; cooperating with Egypt, Kenya, Nigeria, Sudan, and Uganda to establish a joint satellite to monitor climate changes in the African continent; member of the African Space Agency; partner of the Square Kilometer Array (SKA) international astronomy initiative (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees_: 17,334 (2024 est.)<br>
+_IDPs_: 4,937 (2024 est.)<br>
 

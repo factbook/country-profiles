@@ -162,17 +162,13 @@ _female_: 84.4 years<br>
 **Gross reproduction rate**<br>
 0.8 (2024 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-76.1% (2010/12)<br>
-<strong>note:</strong> percent of women aged 16-49<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
+_improved: urban_: urban: 100% of population (2022 est.)<br>
+_improved: rural_: rural: 100% of population (2022 est.)<br>
+_improved: total_: total: 100% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0% of population (2022 est.)<br>
+_unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 11.3% of GDP (2022)<br>
@@ -185,12 +181,12 @@ _Health expenditure (as % of national budget)_: 20.7% of national budget (2022 e
 2.4 beds/1,000 population (2021 est.)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.8% of population<br>
-_improved: rural_: rural: 99.8% of population<br>
-_improved: total_: total: 99.8% of population<br>
-_unimproved: urban_: urban: 0.2% of population<br>
-_unimproved: rural_: rural: 0.2% of population<br>
-_unimproved: total_: total: 0.2% of population (2020 est.)<br>
+_improved: urban_: urban: 99.8% of population (2022 est.)<br>
+_improved: rural_: rural: 99.8% of population (2022 est.)<br>
+_improved: total_: total: 99.8% of population (2022 est.)<br>
+_unimproved: urban_: urban: 0.2% of population (2022 est.)<br>
+_unimproved: rural_: rural: 0.2% of population (2022 est.)<br>
+_unimproved: total_: total: 0.2% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 27.8% (2016)<br>
@@ -246,23 +242,32 @@ _other_: 17.2% (2022 est.)<br>
 _urban population_: 84.6% of total population (2023)<br>
 _rate of urbanization_: 0.8% annual rate of change (2020-25 est.)<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 9.52 micrograms per cubic meter (2019 est.)<br>
-_carbon dioxide emissions_: 379.02 megatons (2016 est.)<br>
-_methane emissions_: 49.16 megatons (2020 est.)<br>
+**Carbon dioxide emissions**<br>
+_total emissions_: 340.94 million metric tonnes of CO2 (2023 est.)<br>
+_from coal and metallurgical coke_: 17.093 million metric tonnes of CO2 (2023 est.)<br>
+_from petroleum and other liquids_: 197.133 million metric tonnes of CO2 (2023 est.)<br>
+_from consumed natural gas_: 126.713 million metric tonnes of CO2 (2023 est.)<br>
+
+**Particulate matter emissions**<br>
+7.8 micrograms per cubic meter (2019 est.)<br>
+
+**Methane emissions**<br>
+_energy_: 353.4 kt (2022-2024 est.)<br>
+_agriculture_: 1,030.2 kt (2019-2021 est.)<br>
+_waste_: 1,070.1 kt (2019-2021 est.)<br>
+_other_: 62 kt (2019-2021 est.)<br>
 
 **Waste and recycling**<br>
-_municipal solid waste generated annually_: 31.567 million tons (2014 est.)<br>
-_municipal solid waste recycled annually_: 8,602,008 tons (2015 est.)<br>
-_percent of municipal solid waste recycled_: 27.3% (2015 est.)<br>
+_municipal solid waste generated annually_: 30.771 million tons (2024 est.)<br>
+_percent of municipal solid waste recycled_: 34.2% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 6.23 billion cubic meters (2020 est.)<br>
-_industrial_: 1.01 billion cubic meters (2020 est.)<br>
-_agricultural_: 1.18 billion cubic meters (2020 est.)<br>
+_municipal_: 6.227 billion cubic meters (2022 est.)<br>
+_industrial_: 1.01 billion cubic meters (2022 est.)<br>
+_agricultural_: 1.183 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-147 billion cubic meters (2020 est.)<br>
+147 billion cubic meters (2022 est.)<br>
 
 **Geoparks**<br>
 _total global geoparks and regional networks_: 10 (2025)<br>
@@ -350,7 +355,7 @@ _subordinate courts_: England and Wales: Court of Appeal (civil and criminal div
 Alliance Party or APNI (Northern Ireland) <br>Conservative and Unionist Party <br>Democratic Unionist Party or DUP (Northern Ireland) <br>Green Party of England and Wales or Greens <br>Labor (Labour) Party <br>Liberal Democrats (Lib Dems)<br>Party of Wales (Plaid Cymru) <br>Reform UK <br>Scottish National Party or SNP <br>Sinn Fein (Northern Ireland) <br>Social Democratic and Labor Party or SDLP (Northern Ireland) <br>Traditional Unionist Voice or TUV <br>UK Independence Party or UKIP <br>Ulster Unionist Party or UUP (Northern Ireland) <br>Workers Party of Great Britian<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Peter MANDELSON (since 25 February 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires James ROSCOE (since 11 September 2025)<br>
 _chancery_: 3100 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 588-6500<br>
 _FAX_: [1] (202) 588-7870<br>
@@ -375,8 +380,8 @@ no official date of independence: 927 (minor English kingdoms unite); 3 March 12
 **National holiday**<br>
 the UK does not celebrate one particular national holiday<br>
 
-**Flag description**<br>
-blue field with the red cross of Saint George (patron saint of England) edged in white on top of the diagonal red cross of Saint Patrick (patron saint of Ireland), which is on top of the diagonal white cross of Saint Andrew (patron saint of Scotland); the official name is the Union Flag, but commonly called the Union Jack; the design and colors have been the basis for a number of other flags<br>
+**Flag**<br>
+<strong>description:</strong> blue field with the red cross of Saint George (patron saint of England) edged in white on top of the diagonal red cross of Saint Patrick (patron saint of Ireland), which is on top of the diagonal white cross of Saint Andrew (patron saint of Scotland)<br><br><strong>history:</strong> the official name is the Union Flag, but commonly called the Union Jack; the design and colors have been the basis for a number of other flags<br>
 
 **National symbol(s)**<br>
 lion (all of Britain); lion, Tudor rose, oak (England); lion, unicorn, thistle (Scotland); dragon, daffodil, leek (Wales); shamrock, flax (Northern Ireland)<br>
@@ -492,9 +497,9 @@ _highest 10%_: 24.6% (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $1.136 trillion (2022 est.)<br>
-_expenditures_: $1.291 trillion (2022 est.)<br>
-<b>note:</b> central government revenues (excluding grants) and expenses converted to US dollars at average official exchange rate for year indicated<br>
+_revenues_: $1.211 trillion (2023 est.)<br>
+_expenditures_: $1.442 trillion (2023 est.)<br>
+<b>note:</b> central government revenues (excluding grants) and expenditures converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>
 138.6% of GDP (2023 est.)<br>
@@ -600,12 +605,6 @@ _exports_: 15.842 billion cubic meters (2023 est.)<br>
 _imports_: 45.226 billion cubic meters (2023 est.)<br>
 _proven reserves_: 180.661 billion cubic meters (2021 est.)<br>
 
-**Carbon dioxide emissions**<br>
-_total emissions_: 340.94 million metric tonnes of CO2 (2023 est.)<br>
-_from coal and metallurgical coke_: 17.093 million metric tonnes of CO2 (2023 est.)<br>
-_from petroleum and other liquids_: 197.133 million metric tonnes of CO2 (2023 est.)<br>
-_from consumed natural gas_: 126.713 million metric tonnes of CO2 (2023 est.)<br>
-
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2023_: 94.28 million Btu/person (2023 est.)<br>
 
@@ -670,11 +669,11 @@ begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) 
 United Kingdom Armed Forces (aka British Armed Forces, aka His Majesty's Armed Forces): British Army, Royal Navy (includes Royal Marines), Royal Air Force (2025)<br>
 
 **Military expenditures**<br>
+2.4% of GDP (2025 est.)<br>
 2.3% of GDP (2024 est.)<br>
-2.3% of GDP (2023)<br>
-2.3% of GDP (2022)<br>
-2.3% of GDP (2021)<br>
-2.4% of GDP (2020)<br>
+2.3% of GDP (2023 est.)<br>
+2.3% of GDP (2022 est.)<br>
+2.3% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 138,000 Regular Forces (75,000 Army including the Gurkhas; 32,000 Navy including the Royal Marines; 31,000 Air Force) (2025)<br>
@@ -696,13 +695,14 @@ the British military has a long history, a global presence, and a wide range of 
 ## Space
 
 **Space agency/agencies**<br>
-UK Space Agency (UKSA; established in 2010); the UKSA replaced the British National Space Center (BNSC; organized in 1985); UK Space Command (formed 2021) (2024)<br>
+UK Space Agency (UKSA; established in 2010) (2025)<br>
+<strong>note 1:</strong> the UKSA replaced the British National Space Center (BNSC; established in 1985); in 2025, the UK Government announced that the UKSA would be absorbed into the Department for Science, Innovation, and Technology (DSIT) as of April 2026<br><br><strong>note 2:</strong> in 2021, the British formed the joint service UK Space Command under the Ministry of Defense for military space operations, space workforce, and space capabilities<br>
 
 **Space launch site(s)**<br>
-Spaceport 1 (Outer Hebrides, Scotland; operational 2023); Spaceport Machrihanish (Argyll, Scotland; operational 2024); Glasgow Prestwick (South Ayrshire, Scotland; operational 2024 for horizontal launches); Spaceport Snowdonia (Gwynedd, Wales; operational 2024); SaxaVord UK Spaceport (Unst, Shetland Islands; operational 2023); Sutherland Spaceport (Sutherland, Scotland; operational 2024); Sutherland, Scotland (Cornwall Airport Newquay, Cornwall; operational 2023 for horizontal launches) (2024)<br>
+Spaceport 1 (Outer Hebrides, Scotland); Spaceport Machrihanish (Argyll, Scotland); Glasgow Prestwick (South Ayrshire, Scotland); Spaceport Snowdonia (Gwynedd, Wales); SaxaVord UK Spaceport (Unst, Shetland Islands); Sutherland Spaceport (Sutherland, Scotland); Sutherland, Scotland (Cornwall Airport Newquay, Cornwall) (2024)<br>
 
 **Space program overview**<br>
-has a comprehensive space program and is active across all areas of the space sector outside of launching humans into space, including satellite/space launch vehicles (SLVs)/rockets and their components, space probes, satellites and satellite subcomponents, space sensors, spaceports, and various other space-related technologies; as a founding member of the European Space Agency (ESA), it is heavily involved in ESA programs and has bi-lateral relations with many members; is a close partner of the US NASA and since 2016 has forged over 350 relationships with international organizations across nearly 50 developing countries; has a large commercial space sector that produces SLVs, SLV components, satellites, satellite subcomponents and sensors, and other space-related technologies; the UK has a space industrial plan, and the UKSA has provided funding to encourage and support commercial space projects (2024)<br>
+has a long-standing and comprehensive national space program; is active across all areas of the space sector outside of human space flight, including satellite launch vehicles (SLVs)/rockets and their components, space probes, satellites and satellite subcomponents, space sensors, spaceports, and various other space-related capabilities and technologies; is a founding member of the European Space Agency (ESA) and heavily involved in ESA programs, such as the Mars Express space exploration and Jupiter Icy Moons Explorer (JUICE) missions; has bi-lateral relations with many ESA members and is a close partner of the US NASA; since 2016 has forged over 350 relationships with international organizations across nearly 50 countries; participates in international programs such as the International Space Station and the James Webb Space Telescope; has a large commercial space sector involved in the production of SLVs and their components, satellites, satellite subcomponents and sensors, and other space-related technologies; the UK has a space industrial plan, and the UKSA has provided funding to encourage and support commercial space projects (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
@@ -714,8 +714,8 @@ Continuity Irish Republican Army (CIRA); Islamic State of Iraq and ash-Sham (ISI
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,904 (Iran), 15,615 (Eritrea), 11,371 (Sudan), 12,155 (Syria), 10,259 (Afghanistan), 8,009 (Pakistan), 7,699 (Iraq) (mid-year 2022); 255,060 (Ukraine) (as of 12 March 2024)<br>
-_stateless persons_: 5,483 (2022)<br>
+_refugees_: 640,460 (2024 est.)<br>
+_stateless persons_: 4,672 (2024 est.)<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major precursor-chemical producer (2025)<br>
