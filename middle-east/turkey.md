@@ -397,8 +397,8 @@ _lyrics/music_: Mehmet Akif ERSOY/Zeki UNGOR<br>
 _history_: lyrics adopted 1921, music adopted 1932; the anthem's original music was adopted in 1924<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 21 (19 cultural, 2 mixed)<br>
-_selected World Heritage Site locales_: Archaeological Site of Troy (c); Ephesus (c); Diyarbakır Fortress and Hevsel Gardens Cultural Landscape (c); Hierapolis-Pamukkale (m); Göreme National Park and the Rock Sites of Cappadocia (m); Göbekli Tepe (c); Historic Areas of Istanbul (c); Selimiye Mosque and its Social Complex (c); Neolithic Site of Çatalhöyük (c); Bursa and Cumalıkızık: the Birth of the Ottoman Empire (c); Gordion (c); Great Mosque and Hospital of Divriği (c); Hattusha: the Hittite Capital (c); Nemrut Dağ (c);  Xanthos-Letoon (c); City of Safranbolu (c); Pergamon and its Multi-Layered Cultural Landscape (c); Archaeological Site of Ani (c); Aphrodisias (c); Arslantepe Mound (c); Wooden Hypostyle Mosques of Medieval Anatolia (c); Turkmenistan (c)<br>
+_total World Heritage Sites_: 22 (20 cultural, 2 mixed)<br>
+_selected World Heritage Site locales_: Archaeological Site of Troy (c); Ephesus (c); Diyarbakır Fortress and Hevsel Gardens Cultural Landscape (c); Hierapolis-Pamukkale (m); Göreme National Park and the Rock Sites of Cappadocia (m); Göbekli Tepe (c); Historic Areas of Istanbul (c); Selimiye Mosque and its Social Complex (c); Neolithic Site of Çatalhöyük (c); Bursa and Cumalıkızık: the Birth of the Ottoman Empire (c); Gordion (c); Great Mosque and Hospital of Divriği (c); Hattusha: the Hittite Capital (c); Nemrut Dağ (c);  Xanthos-Letoon (c); City of Safranbolu (c); Pergamon and its Multi-Layered Cultural Landscape (c); Archaeological Site of Ani (c); Aphrodisias (c); Arslantepe Mound (c); Wooden Hypostyle Mosques of Medieval Anatolia (c); Turkmenistan (c); Sardis and the Lydian Tumuli of Bin Tepe (c)<br>
 
 ## Economy
 

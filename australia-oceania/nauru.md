@@ -266,9 +266,9 @@ _chief of state_: President David ADEANG (since 30 October 2023)<br>
 _head of government_: President David ADEANG (since 30 October 2023)<br>
 _cabinet_: Cabinet appointed by the president from among members of Parliament<br>
 _election/appointment process_: president indirectly elected by Parliament for 3-year term (eligible for a second term)<br>
-_most recent election date_: 30 October 2023<br>
-_election results_: <em><br>2023:</em> David ADEAGN elected president over Delvin THOMA, 10-8<br><br><em>2022:</em> Russ KUN elected president unopposed<br>
-_expected date of next election_: 2026<br>
+_most recent election date_: 14 October 2025<br>
+_election results_: <em><br><br>2025:  </em>David ADEAGN elected president (unopposed)<em><br><br>2023:</em> David ADEAGN elected president over Delvin THOMA, 10-8<br>
+_expected date of next election_: 2028<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -277,9 +277,9 @@ _legislative structure_: unicameral<br>
 _number of seats_: 19 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
 _term in office_: 3 years<br>
-_most recent election date_: 9/24/2022<br>
+_most recent election date_: 10/11/2025<br>
 _percentage of women in chamber_: 10.5%<br>
-_expected date of next election_: September 2025<br>
+_expected date of next election_: September 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and several justices)<br>

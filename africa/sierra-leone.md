@@ -373,6 +373,10 @@ _title_: "High We Exalt Thee, Realm of the Free"<br>
 _lyrics/music_: Clifford Nelson FYLE/John Joseph AKA<br>
 _history_: adopted 1961<br>
 
+**National heritage**<br>
+_total World Heritage Sites_: 1 (natural)<br>
+_selected World Heritage Site locales_: Gola-Tiwai Complex (n)<br>
+
 ## Economy
 
 **Economic overview**<br>

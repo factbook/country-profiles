@@ -365,6 +365,10 @@ _title_: "Esta e a Nossa Patria Bem Amada" (This is Our Beloved Country)<br>
 _lyrics/music_: Amilcar Lopes CABRAL/XIAO He<br>
 _history_: adopted 1974; a delegation from Portuguese Guinea visited China in 1963 and heard music by XIAO He; Amilcar Lopes CABRAL, the leader of Guinea-Bissau's independence movement, asked the composer to create a piece that would inspire his people to fight for independence<br>
 
+**National heritage**<br>
+_total World Heritage Sites_: 1 (natural)<br>
+_selected World Heritage Site locales_: Coastal and Marine Ecosystems of the Bijag&oacute;s Archipelago &ndash; Omat&iacute; Minh&ocirc; (n)<br>
+
 ## Economy
 
 **Economic overview**<br>

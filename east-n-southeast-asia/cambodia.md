@@ -405,8 +405,8 @@ _lyrics/music_: CHUON NAT/F. PERRUCHOT and J. JEKYLL<br>
 _history_: adopted 1941, restored 1993; the anthem, based on a Cambodian folk tune, was restored after the defeat of the Communist regime<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 4 (all cultural)<br>
-_selected World Heritage Site locales_: Angkor; Temple of Preah Vihear; Sambor Prei Kuk; Koh Ker: Archaeological Site of Ancient Lingapora or Chok Gargyar<br>
+_total World Heritage Sites_: 5 (all cultural)<br>
+_selected World Heritage Site locales_: Angkor; Temple of Preah Vihear; Sambor Prei Kuk; Koh Ker: Archaeological Site of Ancient Lingapora or Chok Gargyar; Cambodian Memorial Sites: From centres of repression to places of peace and reflection (c)<br>
 
 ## Economy
 
@@ -678,5 +678,5 @@ _IDPs_: 2,526 (2024 est.)<br>
 _stateless persons_: 75,000 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 — Cambodia does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Cambodia remained on Tier 3; for more details, go to: https://www.state.gov/reports/2024-trafficking-in-persons-report/cambodia/<br>
+_tier rating_: Tier 3 — Cambodia does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Cambodia remained on Tier 3; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/cambodia/<br>
 

@@ -288,7 +288,7 @@ _percent of municipal solid waste recycled_: 9.6% (2022 est.)<br>
 **Total water withdrawal**<br>
 _municipal_: 13.33 billion cubic meters (2022)<br>
 _industrial_: 7.953 billion cubic meters (2022)<br>
-_agricultural_: 68,523,000,000 cubic meters (2022)<br>
+_agricultural_: 68.523 billion cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
 461.888 billion cubic meters (2022 est.)<br>
@@ -429,8 +429,8 @@ _lyrics/music_: Francisco Gonzalez BOCANEGRA/Jaime Nuno ROCA<br>
 _history_: adopted 1943<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 35 (27 cultural, 6 natural, 2 mixed)<br>
-_selected World Heritage Site locales_: Historic Mexico City (c); Earliest 16th-Century Monasteries on the Slopes of Popocatepetl (c); Teotihuacan (c); Whale Sanctuary of El Vizcaino (n); Monarch Butterfly Biosphere Reserve (n); Tehuacán-Cuicatlán Valley (m); Historic Puebla (c); El Tajin (c); Historic Tlacotalpan (c); Historic Oaxaca and Monte Albán (c); Palenque (c); Chichen-Itza (c); Uxmal (c)<br>
+_total World Heritage Sites_: 36 (28 cultural, 6 natural, 2 mixed)<br>
+_selected World Heritage Site locales_: Historic Mexico City (c); Earliest 16th-Century Monasteries on the Slopes of Popocatepetl (c); Teotihuacan (c); Whale Sanctuary of El Vizcaino (n); Monarch Butterfly Biosphere Reserve (n); Tehuacán-Cuicatlán Valley (m); Historic Puebla (c); El Tajin (c); Historic Tlacotalpan (c); Historic Oaxaca and Monte Albán (c); Palenque (c); Chichen-Itza (c); Uxmal (c); Wixárika Route through Sacred Sites to Wirikuta (Tatehuarí Huajuyé) (c)<br>
 
 ## Economy
 

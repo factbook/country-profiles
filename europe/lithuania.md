@@ -310,7 +310,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Gitanas NAUSEDA (since 12 July 2019)<br>
-_head of government_: Acting Prime Minister Rimantas SADZIUS (since 4 August 2025)<br>
+_head of government_: Prime Minister Inga RUGINIENE (since 25 September 2025)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the president, approved by Parliament<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister appointed by the president, approved by Parliament<br>
 _most recent election date_: 26 May 2024<br>

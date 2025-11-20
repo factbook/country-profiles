@@ -408,8 +408,8 @@ _history_: royal anthem, as a Commonwealth country<br>
 <strong>note:</strong> the well-known and much-loved bush ballad "Waltzing Matilda" is often referred to as Australia's unofficial national anthem; Australian poet Banjo PATERSON wrote the original lyrics in 1895, and they were first published as sheet music in 1903; since 2012, a Waltzing Matilda Day has been held annually on 6 April, the anniversary of the first performance of the song in 1895<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 20 (4 cultural, 12 natural, 4 mixed)<br>
-_selected World Heritage Site locales_: Great Barrier Reef (n); Greater Blue Mountains Area (n); Fraser Island (n); Gondwana Rainforests (n); Lord Howe Island Group (n); Royal Exhibition Building and Carlton Gardens (c); Shark Bay (n); Sydney Opera House (c); Uluṟu-Kata Tjuṯa National Park (m); Kakadu National Park (m)<br>
+_total World Heritage Sites_: 21 (5 cultural, 12 natural, 4 mixed)<br>
+_selected World Heritage Site locales_: Great Barrier Reef (n); Greater Blue Mountains Area (n); Fraser Island (n); Gondwana Rainforests (n); Lord Howe Island Group (n); Royal Exhibition Building and Carlton Gardens (c); Shark Bay (n); Sydney Opera House (c); Uluṟu-Kata Tjuṯa National Park (m); Kakadu National Park (m); Murujuga Cultural Landscape (c)<br>
 <strong>note:</strong> includes one site on Heard Island and McDonald Islands<br>
 
 ## Economy
@@ -676,7 +676,7 @@ Australian Defense Force (ADF): Australian Army, Royal Australian Navy, Royal Au
 approximately 60,000 active ADF personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a mix of domestically produced and imported Western weapons systems; in recent years, the US has been the largest supplier of arms; the Australian defense industry produces a variety of land and sea weapons platforms; the defense industry also participates in joint development and production ventures with other Western countries, including the US and Canada (2024)<br>
+the military's inventory includes a mix of domestically produced and imported Western weapons systems; in recent years, the US has been the largest supplier of arms; the Australian defense industry produces a variety of land and sea weapons platforms; the defense industry also participates in joint development and production ventures with other Western countries, including the US and Canada (2025)<br>
 <strong>note:</strong> in 2023, the Australian defense ministry announced a new strategic review that called for the acquisition of more long-range deterrence capabilities, including missiles, submarines, and cyber tools; in early 2024, Australia announced a 10-year plan to more than double the number of the Navy's major surface combatant ships<br>
 
 **Military service age and obligation**<br>
@@ -692,13 +692,14 @@ the ADF's missions include protecting Australia’s borders and maritime interes
 ## Space
 
 **Space agency/agencies**<br>
-Australian Space Agency (ASA; established 2018; headquarters opened in 2020); Defense Space Command (established 2022) (2025)<br>
+Australian Space Agency (ASA; established 2018; headquarters opened in 2020) (2025)<br>
+<strong>note:</strong> Australia established a Defense Space Command in 2022<br>
 
 **Space launch site(s)**<br>
 Whalers Way Orbital Launch Complex (commercial site, South Australia); Arnhem Space Center (commercial site, Northern Territory); Bown Orbital Spaceport (commercial site, North Queensland) (2025)<br>
 
 **Space program overview**<br>
-has a long history of involvement in space-related activities, including astronomy, rockets, satellites, and space tracking; develops, builds, operates, and tracks satellites, including communications, remote sensing (RS), navigational, and scientific/testing/research, often in partnership with other countries; develops other space technologies, including communications, RS capabilities, and telescopes; encouraging growth in domestic commercial space-industry sector, including satellite launch vehicles; cooperates with a variety of foreign space agencies and industries, including those of China, the European Space Agency (ESA), individual ESA member states, India, Japan, New Zealand, South Korea, the UK, and the US; co-leads the Global Earth Observation System of Systems and hosts one of the telescopes for the international Square Kilometer Array radio telescope project (2025)<br>
+has a history of involvement in space-related activities, including astronomy, rockets, satellites, and space tracking; develops, builds, operates, and tracks satellites, including communications, remote sensing (RS), navigational, and scientific/testing/research, often in partnership with other countries; develops other space technologies, including communications, RS capabilities, and telescopes; encouraging growth in domestic commercial space-industry sector, including satellite launch vehicles; cooperates with a variety of foreign space agencies and industries, including those of China, the European Space Agency (ESA), individual ESA member states, India, Japan, New Zealand, South Korea, the UK, and the US; co-leads the Global Earth Observation System of Systems and hosts one of the telescopes for the international Square Kilometer Array radio telescope project (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

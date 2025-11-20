@@ -325,14 +325,14 @@ _residency requirement for naturalization_: 3 years<br>
 18 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: President Luis Alberto ARCE Catacora (since 8 November 2020)<br>
-_head of government_: President Luis Alberto ARCE Catacora (since 8 November 2020)<br>
+_chief of state_: President Rodrigo PAZ Pereira (since 8 November 2025)<br>
+_head of government_: President Rodrigo PAZ Pereira (since 8 November 2025)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _election/appointment process_: president and vice president directly elected on the same ballot one of 3 ways: candidate wins at least 50% of the vote, or at least 40% of the vote and 10% more than the next highest candidate; otherwise, a second round is held and the winner determined by simple majority vote; president and vice president are elected by majority vote to serve a 5-year term; no term limits<br>
 _most recent election date_: 17 August 2025<br>
-_election results_: <br><em>2025:</em> First round election results: percent of vote - Rodrigo PAZ Pereira (PDC) 32.1%, Jorge<strong> </strong>Fernando QUIROGA<strong> </strong>Ramírez (LIBRE) 26.7%, Samuel DORIA MEDINA Auza (UN) 19.7%, Andrónico RODRÌGUEZ Ledezma<strong> </strong>(AP) 8.5%, Manfred REYES Villa (APB Súmate) 6.8%, Eduardo DEL CASTILLO (MAS) 3.2%, other 3%; note - PAZ and QUIROGA advance to a run-off election set for 19 October 2025 <em><br><br>2020:</em> Luis Alberto ARCE Catacora elected president; percent of vote - Luis Alberto ARCE Catacora (MAS) 55.1%; Carlos Diego MESA Gisbert (CC) 28.8%; Luis Fernando CAMACHO Vaca (Creemos) 14%; other 2.1%<br><br><em>2019:</em> Juan Evo MORALES Ayma reelected president; percent of vote - Juan Evo MORALES Ayma (MAS) 61%; Samuel DORIA MEDINA Arana (UN) 24.5%; Jorge QUIROGA Ramirez (POC) 9.1%; other 5.4%<br>
+_election results_: <br><em>2025:</em> Rodrigo PAZ Pereira elected president in second round; percent vote in first round - Rodrigo PAZ Pereira (PDC) 32.1%, Jorge<strong> </strong>Fernando QUIROGA<strong> </strong>Ramírez (LIBRE) 26.7%, Samuel DORIA MEDINA Auza (UN) 19.7%, Andrónico RODRÌGUEZ Ledezma<strong> </strong>(AP) 8.5%, Manfred REYES Villa (APB Súmate) 6.8%, Eduardo DEL CASTILLO (MAS) 3.2%, other 3%; percent of vote in second round - Rodrigo PAZ Pereira 55%, Jorge<strong> </strong>Fernando QUIROGA<strong> </strong>Ramírez 45%<em><br><br>2020:</em> Luis Alberto ARCE Catacora elected president; percent of vote - Luis Alberto ARCE Catacora (MAS) 55.1%; Carlos Diego MESA Gisbert (CC) 28.8%; Luis Fernando CAMACHO Vaca (Creemos) 14%; other 2.1%<br><br><em>2019:</em> Juan Evo MORALES Ayma reelected president; percent of vote - Juan Evo MORALES Ayma (MAS) 61%; Samuel DORIA MEDINA Arana (UN) 24.5%; Jorge QUIROGA Ramirez (POC) 9.1%; other 5.4%<br>
 _expected date of next election_: 2030<br>
-<strong>note:</strong> the president is both chief of state and head of government<br><br><strong>note:</strong> elections were held in successive years in 2019 and 2020 because Juan Evo MORALES resigned from office on 10 November 2019 over alleged election rigging; Jeanine ANEZ Chavez served as interim president until the 8 November 2020 inauguration of Luis Alberto ARCE Catacora, who won the 18 October 2020 presidential election<br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _legislature name_: Plurinational Legislative Assembly (Asamblea Legislativa Plurinacional)<br>

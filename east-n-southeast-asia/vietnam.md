@@ -400,8 +400,8 @@ _lyrics/music_: Nguyen Van CAO<br>
 _history_: adopted as the national anthem of the Democratic Republic of Vietnam in 1945; it became the national anthem of the unified Socialist Republic of Vietnam in 1976; only the first verse is used as the official anthem<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 8 (5 cultural, 2 natural, 1 mixed)<br>
-_selected World Heritage Site locales_: Complex of Hué Monuments (c); Ha Long Bay (n); Hoi An Ancient Town (c); My Son Sanctuary (c); Phong Nha-Ke Bang National Park (n); Imperial Citadel of Thang Long - Hanoi (c); Citadel of the Ho Dynasty (c); Trang An Landscape Complex (m)<br>
+_total World Heritage Sites_: 9 (6 cultural, 2 natural, 1 mixed)<br>
+_selected World Heritage Site locales_: Complex of Hué Monuments (c); Ha Long Bay (n); Hoi An Ancient Town (c); My Son Sanctuary (c); Phong Nha-Ke Bang National Park (n); Imperial Citadel of Thang Long - Hanoi (c); Citadel of the Ho Dynasty (c); Trang An Landscape Complex (m); Yen Tu-Vinh Nghiem-Con Son, Kiep Bac Complex of Monuments and Landscapes (c)<br>
 
 ## Economy
 
@@ -685,10 +685,11 @@ since withdrawing its military occupation forces from Cambodia in the late 1980s
 ## Space
 
 **Space agency/agencies**<br>
-Vietnam National Space Center (VNSC; established 2011; formerly known as the Vietnam National Satellite Center); Space Technology Institute (STI; established 2006); both the VNSC and the STI operate under the Vietnamese Academy of Science and Technology (VAST); Ministry of Science and Technology (2024)<br>
+Vietnam National Space Center (VNSC; established 2011) (2025)<br>
+<strong>note:</strong> the VNSC is under the Vietnamese Academy of Science and Technology (VAST)<br>
 
 **Space program overview**<br>
-has a growing space program focused on acquiring, operating, and exploiting satellites, as well as expanding domestic capabilities in satellites and associated sub-system production, space sciences, and technology applications; builds and operates communications and remote sensing satellites; conducting research and development on space science and applied space technologies, such as advanced optics and space data exploitation; has worked closely with Japan on its space program since inception; cooperation has included funding, loans, training, technical expertise, and data sharing; has also established relationships with the space agencies or commercial space sectors of some European countries (such as France), India, and the US (2024)<br>
+has a growing national space program focused on acquiring, operating, and exploiting satellites, as well as expanding domestic capabilities in satellites and associated sub-system production, space sciences, and technology applications; builds and operates communications and remote sensing satellites; conducting research and development on space science and applied space technologies, such as advanced optics and space data exploitation; has worked closely with Japan on its space program; cooperation has included funding, loans, training, technical expertise, and data sharing; has also established relationships with the space agencies or commercial space sectors of some European countries (such as France), India, and the US (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues

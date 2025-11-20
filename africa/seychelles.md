@@ -282,8 +282,8 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Wavel RAMKALAWAN (since 26 October 2020)<br>
-_head of government_: President Wavel RAMKALAWAN (since 26 October 2020)<br>
+_chief of state_: President Patrick HERMINIE (since 26 October 2025)<br>
+_head of government_: President Patrick HERMINIE (since 26 October 2025)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br>
 _most recent election date_: 22-24 October 2020<br>
@@ -312,7 +312,7 @@ _subordinate courts_: Magistrates' Courts of Seychelles; Family Tribunal for iss
 Seychelles Party for Social Justice and Democracy or SPSJD<br>Seychellois Democratic Alliance or LDS (Linyon Demokratik Seselwa/Union Démocratique Seychelloise)<br>Seychelles National Party or SNP<br>United Seychelles or US<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Ian Dereck Joseph MADELEINE (since 1 December 2021); note - also Permanent Representative to the UN<br>
+_chief of mission_: Ambassador-designate Vivianne FOCK TAVE (since August 2025); note - also Permanent Representative to the UN-designate<br>
 _chancery_: 685 Third Avenue, Suite 1107, 11th Floor, New York, NY 10017<br>
 _telephone_: [1] (212) 972-1785<br>
 _FAX_: [1] (212) 972-1786<br>

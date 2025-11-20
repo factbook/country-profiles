@@ -280,9 +280,9 @@ _municipal solid waste generated annually_: 36.749 million tons (2024 est.)<br>
 _percent of municipal solid waste recycled_: 31.6% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 5,271,098,480 cubic meters (2022 est.)<br>
-_industrial_: 16,641,397,540 cubic meters (2022 est.)<br>
-_agricultural_: 2,515,163,573 cubic meters (2022 est.)<br>
+_municipal_: 5.271 billion cubic meters (2022 est.)<br>
+_industrial_: 16.641 billion cubic meters (2022 est.)<br>
+_agricultural_: 2.515 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
 211 billion cubic meters (2022 est.)<br>
@@ -424,8 +424,8 @@ _lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
 _history_: adopted 1795, restored 1870; acquired its name when the National Guard of Marseille sang the song while marching into Paris in 1792 during the French Revolution; one of the most recognized anthems in the world<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 53 (45 cultural, 7 natural, 1 mixed); note - includes one site in New Caledonia and one site in French Polynesia<br>
-_selected World Heritage Site locales_: Chartres Cathedral (c); Palace and Park of Versailles (c); Mont-Saint-Michel and its Bay (c); Prehistoric Sites and Decorated Caves of the Vézère Valley (c); Pyrénées - Mont Perdu (m); Cistercian Abbey of Fontenay (c); Paris, Banks of the Seine (c); The Loire Valley between Sully-sur-Loire and Chalonnes (c); Pont du Gard (Roman Aqueduct) (c); Amiens Cathedral (c); Palace and Park of Fontainebleau (c); Historic Fortified City of Carcassonne (c); The Maison Carrée of Nîmes (c); Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve (Corsica) (n)<br>
+_total World Heritage Sites_: 54 (46 cultural, 7 natural, 1 mixed); note - includes one site in New Caledonia and one site in French Polynesia<br>
+_selected World Heritage Site locales_: Chartres Cathedral (c); Palace and Park of Versailles (c); Mont-Saint-Michel and its Bay (c); Prehistoric Sites and Decorated Caves of the Vézère Valley (c); Pyrénées - Mont Perdu (m); Cistercian Abbey of Fontenay (c); Paris, Banks of the Seine (c); The Loire Valley between Sully-sur-Loire and Chalonnes (c); Pont du Gard (Roman Aqueduct) (c); Amiens Cathedral (c); Palace and Park of Fontainebleau (c); Historic Fortified City of Carcassonne (c); The Maison Carrée of Nîmes (c); Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve (Corsica) (n); Megaliths of Carnac and of the shores of Morbihan (c)<br>
 
 ## Economy
 

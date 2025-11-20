@@ -667,7 +667,7 @@ Armed Forces of Uzbekistan: Army, Air and Air Defense Forces; National Guard <b
 limited available information; estimated 50,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Uzbek Armed Forces use mainly Russian or Soviet-era weapons and equipment with smaller quantities of items from suppliers such as China, Turkey, and the US; Uzbekistan has a small defense industry, which is involved in repairing and maintaining aircraft and armored vehicles, as well as producing light armored vehicles, unmanned aerial vehicles/drones, and other military items (2024)<br>
+the Uzbek Armed Forces use mainly Russian or Soviet-era weapons and equipment with smaller quantities of items from suppliers such as China, Turkey, and the US; Uzbekistan has a small defense industry, which is involved in repairing and maintaining aircraft and armored vehicles, as well as producing light armored vehicles, unmanned aerial vehicles/drones, and other military items (2025)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory military service for men; 12-month service obligation (those conscripted have the option of paying for a shorter service of one month while remaining in the reserves until the age of 27) (2024)<br>
@@ -679,10 +679,11 @@ the military&rsquo;s responsibilities include ensuring the country&rsquo;s sover
 ## Space
 
 **Space agency/agencies**<br>
-Agency for Space Research and Technology (Uzbekcosmos; established 2019) (2024)<br>
+Space Research and Technology Agency (UzCosmos or UzSpace; established 2019) (2025)<br>
+<strong>note:</strong> Uzcosmos operates under the Ministry of Digital Technologies<br>
 
 **Space program overview**<br>
-has a small space program focused on acquiring satellites and developing the country’s space industry; Uzbekcosmos largely sets state policy and shapes the strategic direction, development, and use of the country’s space-related industries and technologies in key sectors, including cartography, environmental and disaster monitoring, land use, resource management, and telecommunications; also has an astronomy program; cooperates with foreign space agencies or commercial companies from a variety of countries, including those of Canada, China, France, India, Israel, Kazakhstan, Russia, South Korea, and Spain (2024)<br>
+has a small but growing space effort focused on acquiring satellites and developing the country’s space industries and technologies in key sectors, including cartography, data processing, environmental and disaster monitoring, land use, resource management, and telecommunications; developing a 10-year national space program; recognized for its astronomy program; member of international space organizations; cooperates with foreign space agencies or commercial companies from a variety of countries, including those of Canada, China, France, India, Israel, Japan, Kazakhstan, Russia, South Korea, Spain, Turkey, and UAE (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

@@ -403,6 +403,9 @@ Abyssinian lion (traditional), yellow pentagram with five rays of light on a blu
 **National color(s)**<br>
 green, yellow, red<br>
 
+**National coat of arms**<br>
+adopted in 1996, the coat of arms features the national symbol, a pentagram; the blue circle symbolizes peace, and the pentagram represents the unity and equality of the Ethiopian people<br>
+
 **National anthem(s)**<br>
 _title_: "Whedefit Gesgeshi Woud Enat Ethiopia" (March Forward, Dear Mother Ethiopia)<br>
 _lyrics/music_: DEREJE Melaku Mengesha/SOLOMON Lulu<br>
@@ -687,7 +690,7 @@ the Ethiopian National Defense Force (ENDF) is focused on both external threats 
 Ethiopian Space Science and Geospatial Institute (ESSGI; formed in 2022 from the joining of the Ethiopian Space Science and Technology Institute or ESSTI and the Ethiopian Geospatial Information Institute or EGII) (2025)<br>
 
 **Space program overview**<br>
-has a small space program focused on acquiring and operating satellites, as well as conducting research; jointly builds satellites with foreign partners and operates and exploits remote sensing (RS) satellites; developing the ability to manufacture satellites and their associated payloads; involved in astronomy and in the construction of space observatories; cooperates on space-related issues with a variety of countries, including China, France, India, Russia, and multiple African countries, particularly Kenya, Rwanda, Sudan, Tanzania, and Uganda; shares RS data with neighboring countries (2025)<br>
+has a national space program focused on acquiring and operating satellites, as well as conducting research; jointly builds satellites with foreign partners and operates and exploits remote sensing (RS) satellites; developing the ability to manufacture satellites and their associated payloads; involved in astronomy and in the construction of space observatories; cooperates on space-related issues with a variety of countries, including China, France, India, Russia, and multiple African countries, particularly Kenya, Rwanda, Sudan, Tanzania, and Uganda; shares RS data with neighboring countries (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

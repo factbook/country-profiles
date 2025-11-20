@@ -373,6 +373,9 @@ bird of paradise<br>
 **National color(s)**<br>
 red, black<br>
 
+**National coat of arms**<br>
+Papua New Guinea's coat of arms was adopted on July 1, 1971, and features the country's national symbol, the Raggiana bird-of-paradise; the bird stands for the nation's freedom and rich natural environment; the traditional spear under the bird represents the country's ethnic groups and the protection of its heritage, and the Kundu drum, which is used in ceremonies, represents local artistic traditions and communication<br>
+
 **National anthem(s)**<br>
 _title_: "O Arise, All You Sons"<br>
 _lyrics/music_: Thomas SHACKLADY<br>

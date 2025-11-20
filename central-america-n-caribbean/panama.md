@@ -376,8 +376,8 @@ _lyrics/music_: Jeronimo DE LA OSSA/Santos A. JORGE<br>
 _history_: adopted 1925<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 5 (2 cultural, 3 natural)<br>
-_selected World Heritage Site locales_: Caribbean Fortifications (c); Darien National Park (n); Talamanca Range-La Amistad National Park (n); Panamá Viejo and Historic District of Panamá (c); Coiba National Park (n)<br>
+_total World Heritage Sites_: 6 (3 cultural, 3 natural)<br>
+_selected World Heritage Site locales_: Caribbean Fortifications (c); Darien National Park (n); Talamanca Range-La Amistad National Park (n); Panamá Viejo and Historic District of Panamá (c); Coiba National Park (n); The Colonial Transisthmian Route of Panamá (c)<br>
 
 ## Economy
 

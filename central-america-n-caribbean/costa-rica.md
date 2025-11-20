@@ -255,9 +255,9 @@ _municipal solid waste generated annually_: 1.46 million tons (2024 est.)<br>
 _percent of municipal solid waste recycled_: 5.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1,108,600,000 cubic meters (2022 est.)<br>
+_municipal_: 1.109 billion cubic meters (2022 est.)<br>
 _industrial_: 245.34 million cubic meters (2022 est.)<br>
-_agricultural_: 2,092,895,183 cubic meters (2022 est.)<br>
+_agricultural_: 2.093 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
 113 billion cubic meters (2022 est.)<br>
@@ -649,7 +649,8 @@ Costa Rica relies on specialized paramilitary units within the Ministry of Publi
 ## Space
 
 **Space agency/agencies**<br>
-Costa Rican Space Agency (ACE; established by legislation in 2021); ACE is a non-state, public entity subject to guidelines issued by the Ministry of Science, Technology, and Telecommunications (2025)<br>
+Costa Rican Space Agency (ACE; established by legislation in 2021)  (2025)<br>
+<strong>note:</strong> ACE is a non-state, public entity subject to guidelines issued by the Ministry of Science, Technology, and Telecommunications of Costa Rica<br>
 
 **Space program overview**<br>
 has a small, recently established program focused on using space to develop the country’s economy and industry, including acquiring and utilizing satellites; has built a remote sensing (RS) cube satellite; has relations with the space agencies and commercial space industries of the US, the European Space Agency, and the Latin American and Caribbean Space Agency (2025)<br>

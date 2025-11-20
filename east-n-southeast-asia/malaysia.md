@@ -396,8 +396,8 @@ _lyrics/music_: collective, led by Tunku ABDUL RAHMAN/Pierre Jean DE BERANGER<br
 _history_: adopted 1957; full version only performed in the king's presence,&nbsp; the shorter version performed for the queen and lesser officials<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: Gunung Mulu National Park (n); Kinabalu Park (n); Melaka and George Town, Historic Cities of the Straits of Melaka (c); Archaeological Heritage of the Lenggong Valley (c); The Archaeological Heritage of Niah National Park&rsquo;s Caves Complex (c)<br>
+_total World Heritage Sites_: 6 (4 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Gunung Mulu National Park (n); Kinabalu Park (n); Melaka and George Town, Historic Cities of the Straits of Melaka (c); Archaeological Heritage of the Lenggong Valley (c); The Archaeological Heritage of Niah National Park&rsquo;s Caves Complex (c); Forest Research Institute Malaysia Forest Park Selangor (c)<br>
 
 ## Economy
 

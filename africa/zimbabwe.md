@@ -654,10 +654,11 @@ the primary responsibilities of the Zimbabwe Defense Forces (ZDF) are protecting
 ## Space
 
 **Space agency/agencies**<br>
-Zimbabwe National Geospatial and Space Agency (ZINGSA; established in 2019 and officially launched in 2021; under the Ministry of Higher and Tertiary Education, Science and Technology Development) (2024)<br>
+Zimbabwe National Geospatial and Space Agency (ZINGSA; established in 2019 and officially launched in 2021) (2025)<br>
+note: ZINGSA is under the Ministry of Higher and Tertiary Education, Science, and Technology Development<br>
 
 **Space program overview**<br>
-has a nascent program with the goal of utilizing space technologies in economic development; particularly interested in remote sensing capabilities to assist with monitoring or managing agriculture and food security, climate change, disease outbreaks, environmental hazards and disasters, and natural resources, as well as weather forecasting; part of a joint project (BIRDS-5) with Japan, which seeks to promote the first steps towards creating an indigenous space program by designing, building, testing, launching, and operating the first satellites for participating countries (2024)<br>
+has a nascent program with the goal of utilizing space technologies in economic development, including remote sensing capabilities to assist with monitoring or managing agriculture and food security, climate change, disease outbreaks, environmental hazards and disasters, and natural resources, as well as weather forecasting; has cooperated with Japan and Russia (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues

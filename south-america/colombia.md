@@ -704,7 +704,8 @@ the Colombian military is responsible for defending and maintaining the countryâ
 ## Space
 
 **Space agency/agencies**<br>
-Colombian Space Commission (Comision Colombiana Del Espacio, CCE; established 2006); Air and Space Operations Command (Colombian military); note &ndash; the Colombian Space Agency (Agencia Espacial Del Colombia, AEC) is a private, non-profit agency established in 2017 (2025)<br>
+Colombian Space Commission (Comision Colombiana Del Espacio, CCE; established 2006) (2025)<br>
+<strong>note 1:</strong> the Colombian military has an Air and Space Operations Command<br><br><strong>note 2:</strong> the Colombian Space Agency (Agencia Espacial Del Colombia, AEC) is a private, non-profit agency established in 2017<br>
 
 **Space program overview**<br>
 has a small program focused on acquiring satellites, particularly remote sensing (RS) satellites; operates satellites and produces nanosatellites; researches other space technologies, including astronautics, satellite navigation, and telecommunications; has relations with a variety of foreign space agencies or commercial space industries, including those of Denmark, India, Russia, Sweden, the US, and some members of the Latin American and Caribbean Space Agency (ALCE) (2025)<br>

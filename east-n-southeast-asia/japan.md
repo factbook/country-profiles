@@ -308,10 +308,10 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: Emperor NARUHITO (since 1 May 2019)<br>
-_head of government_: vacant (since 7 September 2025)<br>
+_head of government_: Prime Minister Sanae TAKAICHI (since 21 October 2025)<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
 _election/appointment process_: the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister<br>
-_election results_: <em><br>2024: </em>Shigeru ISHIBA (LDP) elected prime minister on 27 September 2024; upper house vote - 143 of 242 votes; lower house vote - 291 of 461 votes<br><br><em>2021:</em> Fumio KISHIDA reelected prime minister on 10 November 2021; upper house vote - Fumio KISHIDA (LDP) 141, Yukio EDANO (CDP) 60; lower house vote - Fumio KISHIDA 297, Yukio EDANO 108<br>
+_election results_: <em><br><br>2025: </em>Sanae TAKAICHI (LDP) elected prime minister on 21 October 2025; upper house vote - 125 of 171 votes (runoff); lower house vote - 237 of 386 votes<em><br><br>2024: </em>Shigeru ISHIBA (LDP) elected prime minister on 27 September 2024; upper house vote - 143 of 242 votes; lower house vote - 291 of 461 votes<br>
 <strong>note:</strong> Shigeru ISHIBA resigned as prime minister on 7 September 2025; the party vote on the new prime minister is expected in early October 2025<br>
 
 **Legislative branch**<br>

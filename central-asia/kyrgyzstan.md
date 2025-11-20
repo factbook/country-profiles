@@ -376,6 +376,9 @@ white falcon<br>
 **National color(s)**<br>
 red, yellow<br>
 
+**National coat of arms**<br>
+adopted in 1992, the coat of arms of Kyrgyzstan highlights two of its best-known geographic features, Issyk-Kul Lake and the Tien Shan mountain range; the falcon, the national symbol, stands for nobleness and purity, and light blue for courage and generosity; the word &ldquo;Kyrgyz&rdquo; appears at the top of the emblem, and &ldquo;Republic&rdquo; at the bottom; the wheat, cotton, and rising sun were symbols used during the Soviet era<br>
+
 **National anthem(s)**<br>
 _title_: "Kyrgyz Respublikasynyn Mamlekettik Gimni" (National Anthem of the Kyrgyz Republic)<br>
 _lyrics/music_: Djamil SADYKOV and Eshmambet KULUEV/Nasyr DAVLESOV and Kalyi MOLDOBASANOV<br>

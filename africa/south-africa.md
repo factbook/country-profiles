@@ -376,7 +376,7 @@ _email address and website_: <br>Info.saembassyDC@dirco.gov.za<br><br>https://ww
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires David J. GREENE (since March 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Marc DILLARD (since October 2025)<br>
 _embassy_: 877 Pretorius Street, Arcadia, Pretoria<br>
 _mailing address_: 9300 Pretoria Place, Washington DC&nbsp; 20521-9300<br>
 _telephone_: [27] (12) 431-4000<br>

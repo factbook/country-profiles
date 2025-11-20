@@ -352,7 +352,7 @@ _subordinate courts_: regional and district courts; Dushanbe City Court; viloyat
 Agrarian Party of Tajikistan or APT<br>Communist Party of Tajikistan or CPT<br>Democratic Party of Tajikistan or DPT<br>Party of Economic Reform of Tajikistan or PERT<br>People's Democratic Party of Tajikistan or PDPT<br>Social Democratic Party of Tajikistan or SDPT<br>Socialist Party of Tajikistan or SPT<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Farrukh HAMRALIZODA (since 17 February 2021)<br>
+_chief of mission_: Ambassador-designate Zavqi ZAVQIZODA (since November 2021)<br>
 _chancery_: 1005 New Hampshire Avenue NW, Washington, DC 20037<br>
 _telephone_: [1] (202) 223-6090<br>
 _FAX_: [1] (202) 223-6091<br>
@@ -390,8 +390,8 @@ _lyrics/music_: Gulnazar KELDI/Sulaimon YUDAKOV<br>
 _history_: adopted 1994; after the fall of the Soviet Union, Tajikistan kept the music of its Soviet-era anthem, but adopted new lyrics<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 4 (2 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: Proto-urban Site of Sarazm (c); Tajik National Park (Mountains of the Pamirs) (n); Silk Roads: Zarafshan-Karakum Corridor (c); Tugay forests of the Tigrovaya Balka Nature Reserve (n)<br>
+_total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Proto-urban Site of Sarazm (c); Tajik National Park (Mountains of the Pamirs) (n); Silk Roads: Zarafshan-Karakum Corridor (c); Tugay forests of the Tigrovaya Balka Nature Reserve (n); Cultural Heritage Sites of Ancient Khuttal (c)<br>
 
 ## Economy
 

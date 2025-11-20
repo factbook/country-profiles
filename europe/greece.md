@@ -382,8 +382,8 @@ _lyrics/music_: Dionysios SOLOMOS/Nikolaos MANTZAROS<br>
 _history_: adopted 1864; the anthem is based on a 158-stanza poem by the same name, which was inspired by the Greek Revolution of 1821 against the Ottomans (only the first two stanzas are used); Cyprus also uses "Hymn to Freedom" as its anthem<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 19 (17 cultural, 2 mixed)<br>
-_selected World Heritage Site locales_: Acropolis, Athens (c); Archaeological site of Delphi (c); Meteora (m); Medieval City of Rhodes (c); Archaeological site of Olympia (c); Archaeological site of Mycenae and Tiryns (c); Old Town of Corfu (c); Mount Athos (m); Delos (c); Archaeological Site of Philippi (c)<br>
+_total World Heritage Sites_: 20 (18 cultural, 2 mixed)<br>
+_selected World Heritage Site locales_: Acropolis, Athens (c); Archaeological site of Delphi (c); Meteora (m); Medieval City of Rhodes (c); Archaeological site of Olympia (c); Archaeological site of Mycenae and Tiryns (c); Old Town of Corfu (c); Mount Athos (m); Delos (c); Archaeological Site of Philippi (c); Minoan Palatial Centres (c)<br>
 
 ## Economy
 
@@ -671,7 +671,7 @@ the Hellenic Armed Forces (HAF) are responsible for protecting Greece’s indepe
 Hellenic Space Center (HSC; aka Hellenic Space Agency; established 2018) (2025)<br>
 
 **Space program overview**<br>
-space program focused on building and operating satellites for communications and remote sensing (RS); researches and develops technologies in a variety of space sectors, including such areas agricultural areas, defense, environmental studies, RS, and telecommunications; has a national space strategy; as a member of the European Space Agency (ESA), it contributes to, participates in, and benefits from ESA capabilities and programs; cooperates with space agencies and commercial space sectors of ESA and EU member states, as well as the US; has a commercial space sector that researches, develops, and produces a variety of space technologies and capabilities, including satellite components, electronics, sensors, and telecommunications (2025)<br>
+space program focused on building and operating satellites for communications and remote sensing (RS) purposes; researches and develops space-related technologies in a variety of sectors, including agriculture, defense, environmental studies, RS, and telecommunications; has a national space strategy; as a member of the European Space Agency (ESA), it contributes to, participates in, and benefits from ESA capabilities and programs; also participates in EU space programs, such as space situational awareness (SSA); also cooperates bilaterally with space agencies and commercial space sectors of ESA and EU member states, as well as the US; has a commercial space sector that researches, develops, and produces a variety of space technologies and capabilities, including satellite components, electronics, sensors, and telecommunications (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

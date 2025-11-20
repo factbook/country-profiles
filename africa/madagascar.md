@@ -310,8 +310,8 @@ _residency requirement for naturalization_: unknown<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Andry RAJOELINA (since 16 December 2023)<br>
-_head of government_: Prime Minister Christian NTSAY (since 6 June 2018)<br>
+_chief of state_: President Michael RANDRIANIRINA (Col.) (since 17 October 2025)<br>
+_head of government_: Prime Minister Herintsalama RAJAONARIVELO (since 22 October 2025)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister nominated by the National Assembly, appointed by the president<br>
 _most recent election date_: 16 November 2023<br>
@@ -636,7 +636,7 @@ the military's inventory consists mostly of older or secondhand weapons and equi
 18-25 years of age for men and women; service obligation 18 months; no conscription; women are permitted to serve in all branches (2023)<br>
 
 **Military - note**<br>
-the military&rsquo;s responsibilities include ensuring sovereignty and territorial integrity and protecting Madagascar&rsquo;s maritime domain, particularly against piracy, drug trafficking, and smuggling; it also assists the Gendarmerie with maintaining law and order in rural areas, largely in areas affected by banditry, cattle rustling, and criminal groups; the military has a history of having influence in domestic politics; members of the military were arrested for coup plotting as recently as 2021; security relationships have included France, India, and Russia; Madagascar's small Navy has traditionally looked to India for assistance with maritime security (2025)<br>
+the military&rsquo;s responsibilities include ensuring sovereignty and territorial integrity and protecting Madagascar&rsquo;s maritime domain, particularly against piracy, drug trafficking, and smuggling; it also assists the Gendarmerie with maintaining law and order in rural areas, largely in areas affected by banditry, cattle rustling, and criminal groups; the military has a history of influence in domestic politics and seized control of the government in October 2025; security relationships have included France, India, and Russia; Madagascar's small Navy has traditionally looked to India for assistance with maritime security (2025)<br>
 
 ## Transnational Issues
 

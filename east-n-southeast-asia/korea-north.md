@@ -358,8 +358,8 @@ _lyrics/music_: PAK Se Yong/KIM Won Gyun<br>
 _history_: adopted 1947; North Korea's and South Korea's anthems have the same name and a similar melody, but different lyrics; the North Korean anthem is also known as "Ach'imun pinnara" (Let Morning Shine)<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 2 (both cultural)<br>
-_selected World Heritage Site locales_: Koguryo Tombs Complex; Historic Monuments and Sites in Kaesong<br>
+_total World Heritage Sites_: 2 (both cultural, one mixed)<br>
+_selected World Heritage Site locales_: Koguryo Tombs Complex; Historic Monuments and Sites in Kaesong; Mount Kumgang &ndash; Diamond Mountain from the Sea (m)<br>
 
 ## Economy
 
@@ -519,7 +519,7 @@ the KPA is equipped with older weapon systems originally acquired from the forme
 <strong>note:</strong> the bulk of the KPA is made up of conscripts; as many as 20% of North Korean males between the ages of 16 and 54 are in the military at a given time and possibly up to 30 percent of males between the ages of 18 and 27, not counting the reserves or paramilitary units; women comprise about 20% of the military by some estimates<br>
 
 **Military deployments**<br>
-approximately 10-12,000 Russia (2025)<br>
+estimated 10-12,000 Russia (2025)<br>
 
 **Military - note**<br>
 the Korean People's Army (KPA) is one of the World’s largest military forces; founded in 1948, the KPA’s primary responsibilities are national defense and protection of the Kim regime; it also provides support to domestic economic projects such as agriculture production and infrastructure construction; North Korea views South Korea and the US as its primary external threats and Russia as its closest security partner<br><br>in addition to the invasion of South Korea and the subsequent Korean War (1950-53), North Korea from the 1960s to the 1980s launched a number of military and subversive actions against South Korea; including skirmishes along the DMZ, overt attempts to assassinate South Korean leaders, kidnappings, the bombing of an airliner, and a failed effort in 1968 to foment an insurrection and conduct a guerrilla war in the South with more than 100 seaborne commandos; from the 1990s until 2010, the North lost two submarines and a semi-submersible boat attempting to insert infiltrators into the South (1996, 1998) and provoked several engagements in the Northwest Islands area along the disputed Northern Limit Line (NLL), including naval skirmishes between patrol boats in 1999 and 2002, the torpedoing and sinking of a South Korean Navy corvette in 2010, and the bombardment of a South Korean military installation on Yeonpyeong Island, also in 2010; since 2010, further minor incidents continue to occur periodically along the DMZ, where both the KPA and the South Korean military maintain large numbers of troops<br><br>North Korea also has a history of provocative regional military actions and posturing that are of major concern to the international community, including: proliferation of military-related items; ballistic and cruise missile development and testing; weapons of mass destruction (WMD) programs including tests of nuclear devices in 2006, 2009, 2013, 2016, and 2017; and large conventional armed forces (2025)<br>

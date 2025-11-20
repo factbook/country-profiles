@@ -319,13 +319,13 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Lazarus CHAKWERA (since 28 June 2020)<br>
-_head of government_: President Lazarus CHAKWERA (since 28 June 2020)<br>
+_chief of state_: President Peter MUTHARIKA (since 4 October)<br>
+_head of government_: Vice President Jane ANSAH (since 4 October)<br>
 _cabinet_: Cabinet named by the president<br>
 _election/appointment process_: president directly elected by simple-majority popular vote for a 5-year term (eligible for a second term)<br>
 _most recent election date_: September 2030<br>
 _election results_: 2025: Peter MUTHARIKA elected president; percent of vote- Peter MUTHARIKA (DPP) 56.8%, Lazarus CHAKWERA (MCP) 33.0%, Dalitso KABAMBE (UTM) 3.95, Atupele MULUZI (UDF) 1.92%, Joyce BANDA (PP) 1.61%, other 2.72%<br><br><em>2020: </em>Lazarus CHAKWERA elected president; Lazarus CHAKWERA (MCP) 59.3%, Peter Mutharika (DPP) 39.9%, other 0.8%<br>
-_expected date of next election_: September 2025<br>
+_expected date of next election_: September 2030<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -387,8 +387,8 @@ _lyrics/music_: Michael-Fredrick Paul SAUKA<br>
 _history_: adopted 1964<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Lake Malawi National Park (n); Chongoni Rock-Art Area (c)<br>
+_total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Lake Malawi National Park (n); Chongoni Rock-Art Area (c); Mount Mulanje Cultural Landscape (c)<br>
 
 ## Economy
 

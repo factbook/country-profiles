@@ -695,13 +695,14 @@ the Argentine military’s primary responsibilities are territorial defense and 
 ## Space
 
 **Space agency/agencies**<br>
-Argentina National Space Activities Commission (Comision Nacional de Actividades Espaciales, CONAE; formed in 1991); CONAE&rsquo;s predecessor was the National Commission for Space Research (Comisi&oacute;n Nacional de Investigaciones Espaciales, CNIE; formed in 1960) (2025)<br>
+Argentina National Space Activities Commission (Comision Nacional de Actividades Espaciales, CONAE; formed in 1991) (2025)<br>
+<strong>note:</strong> CONAE’s predecessor was the National Commission for Space Research (Comisión Nacional de Investigaciones Espaciales, CNIE; formed in 1960)<br>
 
 **Space launch site(s)**<br>
 Manuel Belgrano Space Center (Buenos Aires province); Punta Indio Space Center (Buenos Aires province); Teofilo Tabanera Space Center (CETT; Cordoba Province; testing/mission control) (2025)<br>
 
 **Space program overview**<br>
-has a long history in the development of space-related capabilities, including rockets and satellites; develops, builds, and operates communications, remote sensing (RS), and scientific satellites, often in partnership with other countries; developing additional satellites with more advanced payloads; has a national space plan; contracts with commercial and other government space agencies for launches but has a domestic rocket program and is developing space launch vehicle (SLV) capabilities; cooperates with a broad range of space agencies and industries, including those of Brazil, China, the European Space Agency and its member states (particularly France, Italy), and the US; also has a commercial space industry, which includes efforts to design, build, and launch reusable SLVs (2025)<br>
+has a national space program and a history in the development of space-related capabilities, including rockets and satellites; develops, builds, and operates communications, remote sensing (RS), and scientific satellites, often in partnership with other countries; developing additional satellites with more advanced payloads; contracts with commercial and other government space agencies for launches but has a domestic rocket program and is developing space launch vehicle (SLV) capabilities; cooperates with a broad range of space agencies and industries, including those of Brazil, China, the European Space Agency and its member states (particularly France, Italy), and the US; also has a commercial space industry, which includes efforts to design, build, and launch reusable SLVs (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

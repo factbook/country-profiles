@@ -281,12 +281,12 @@ _municipal solid waste generated annually_: 21 million tons (2024 est.)<br>
 _percent of municipal solid waste recycled_: 26.6% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 10.75 billion cubic meters (2020 est.)<br>
-_industrial_: 5.4 billion cubic meters (2020 est.)<br>
-_agricultural_: 61.35 billion cubic meters (2020 est.)<br>
+_municipal_: 10.75 billion cubic meters (2022 est.)<br>
+_industrial_: 5.4 billion cubic meters (2022 est.)<br>
+_agricultural_: 61.35 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-57.5 billion cubic meters (2020 est.)<br>
+57.5 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -408,6 +408,9 @@ golden eagle, white lotus<br>
 
 **National color(s)**<br>
 red, white, black<br>
+
+**National coat of arms**<br>
+adopted in 1984, the coat of arms features the national symbol, the Eagle of Saladin; the eagle holds a golden scroll with the name of the country, &ldquo;Gumhuriyet Miṣr al-ʿArabiyyah&rdquo; (Arab Republic of Egypt), in Arabic script; the shield on the eagle&rsquo;s chest shows the national colors of red, white, and black<br>
 
 **National anthem(s)**<br>
 _title_: "Bilady, Bilady, Bilady" (My Homeland, My Homeland, My Homeland)<br>

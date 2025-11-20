@@ -386,8 +386,8 @@ _history_: adopted 1990&nbsp;<br>
 <strong>note:</strong> a recording of the current Iranian national anthem is unavailable because the US Navy Band does not record anthems for countries from which the US does not anticipate official visits; the US does not have diplomatic relations with Iran<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 28 (26cultural, 2 natural)<br>
-_selected World Heritage Site locales_: Persepolis (c); Tchogha Zanbil (c); Bam and its Cultural Landscape (c); Golestan Palace (c); Shushtar Historical Hydraulic System (c); Pasargadae (c); Hyrcanian Forests (n); Tabriz Historic Bazaar Complex (c); Meidan Emam, Esfahan (c); Bisotun (c); Takht-e Soleyman (c); Soltaniyeh(c); Bisotun (c); Armenian Monastic Ensembles of Iran(c); Sheikh Safi al-din Khānegāh and Shrine Ensemble in Ardabil (c); The Persian Garden (c); Gonbad-e Qābus (c); Masjed-e Jām&eacute; of Isfahan (c); Shahr-i Sokhta (c); Cultural Landscape of Maymand (c); Susa (c); Lut Desert (n);The Persian Qanat (c); Historic City of Yazd (c); Sassanid Archaeological Landscape of Fars Region (c); Cultural Landscape of Hawraman/Uramanat (c); Trans-Iranian Railway (c); The Persian Caravanserai (c); Hegmataneh (c)<br>
+_total World Heritage Sites_: 29 (27 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Persepolis (c); Tchogha Zanbil (c); Bam and its Cultural Landscape (c); Golestan Palace (c); Shushtar Historical Hydraulic System (c); Pasargadae (c); Hyrcanian Forests (n); Tabriz Historic Bazaar Complex (c); Meidan Emam, Esfahan (c); Bisotun (c); Takht-e Soleyman (c); Soltaniyeh(c); Bisotun (c); Armenian Monastic Ensembles of Iran(c); Sheikh Safi al-din Khānegāh and Shrine Ensemble in Ardabil (c); The Persian Garden (c); Gonbad-e Qābus (c); Masjed-e Jām&eacute; of Isfahan (c); Shahr-i Sokhta (c); Cultural Landscape of Maymand (c); Susa (c); Lut Desert (n);The Persian Qanat (c); Historic City of Yazd (c); Sassanid Archaeological Landscape of Fars Region (c); Cultural Landscape of Hawraman/Uramanat (c); Trans-Iranian Railway (c); The Persian Caravanserai (c); Hegmataneh (c); Prehistoric Sites of the Khorramabad Valley (c)<br>
 
 ## Economy
 

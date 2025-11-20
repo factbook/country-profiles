@@ -224,7 +224,7 @@ none (overseas collectivity of France)<br>
 Fête de la Fédération, 14 July (1790)<br>
 <strong>note 1:</strong> local holiday is St. Barthelemy Day, 24 August (1572)<br><br><strong>note 2:</strong> often incorrectly referred to as Bastille Day, France's national celebration commemorates the storming of the Bastille prison on 14 July 1789 and the establishment of a constitutional monarchy; other names for the holiday are <em>la Fête nationale</em> (National Holiday) and <em>le Quatorze Juillet</em> (14th of July)<br>
 
-**Flag description**<br>
+**Flag**<br>
 the flag of France is used<br>
 
 **National symbol(s)**<br>

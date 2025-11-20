@@ -342,7 +342,7 @@ _subordinate courts_: High Courts; District Courts; Branch Courts (organized und
 Basic Income Party <br>Democratic Party of Korea or DPK <br>New Future Party<br>New Reform Party <br>Open Democratic Party or ODP <br>People Power Party or PPP <br>Progressive Party or Jinbo Party <br>Rebuilding Korea Party <br>Social Democratic Party <br><br><strong>note:</strong>  the Democratic Alliance coalition consists of the DPK and the smaller Basic Income, Jinbo, Open Democratic, and Social Democratic parties, as well as two independents; for the 2024 election, the Basic Income Party, the ODP, and the Social Democratic Party formed the New Progressive Alliance<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires LEE Joon Ho (since 12 July 2025)<br>
+_chief of mission_: Ambassador-designate KANG Kyung-wha (since October 2025)<br>
 _chancery_: 2450 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-5600<br>
 _FAX_: [1] (202) 797-0595<br>
@@ -382,8 +382,8 @@ _lyrics/music_: YUN Ch'i-Ho or AN Ch'ang-Ho/AHN Eaktay<br>
 _history_: adopted 1948, well-known by 1910; North Korea's and South Korea's anthems have the same name and a similar melody, but different lyrics<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 16 (14 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: Jeju Volcanic Island and Lava Tubes (n); Changdeokgung Palace Complex (c); Jongmyo Shrine (c); Seokguram Grotto and Bulguksa Temple (c); Hwaseong Fortress (c); Gochang, Hwasun, and Ganghwa Dolmen Sites (c); Gyeongju Historic Areas (c); Namhansanseong (c); Baekje Historic Areas (c); Sansa, Buddhist Mountain Monasteries in Korea (c); Royal Tombs of the Joseon Dynasty (c)<br>
+_total World Heritage Sites_: 17 (15 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Jeju Volcanic Island and Lava Tubes (n); Changdeokgung Palace Complex (c); Jongmyo Shrine (c); Seokguram Grotto and Bulguksa Temple (c); Hwaseong Fortress (c); Gochang, Hwasun, and Ganghwa Dolmen Sites (c); Gyeongju Historic Areas (c); Namhansanseong (c); Baekje Historic Areas (c); Sansa, Buddhist Mountain Monasteries in Korea (c); Royal Tombs of the Joseon Dynasty (c); Petroglyphs along the Bangucheon Stream (c)<br>
 
 ## Economy
 

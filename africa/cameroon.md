@@ -333,9 +333,9 @@ _chief of state_: President Paul BIYA (since 6 November 1982)<br>
 _head of government_: Prime Minister Joseph NGUTE (since 4 January 2019)<br>
 _cabinet_: Cabinet proposed by the prime minister, appointed by the president<br>
 _election/appointment process_: president directly elected by simple-majority popular vote for a 7-year term (no term limits); prime minister appointed by the president<br>
-_most recent election date_: 7 October 2018<br>
-_election results_: <em><br>2018:</em> Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 71.3%, Maurice KAMTO (MRC) 14.2%, Cabral LIBII (Univers) 6.3%, other 8.2%<br><br><em>2011: </em>Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 78.0%, John FRU NDI (SDF) 10.7%, Garga Haman ADJI 3.2%, other 8.1% (2018)<br>
-_expected date of next election_: October 2025<br>
+_most recent election date_: 12 October 2025<br>
+_election results_: <em>2025- </em>Paul BIYA reelected president;<em> </em>percent of vote - Paul BIYA (CPDM) 53.7%, Issa Tchiroma BAKARY (CNSF) 35.2%, Cabral LIBII (PCRN) 3.4%, Bello Boubou MAIGARI (UNDP)2.4%, other 5.3%   <em><br><br>2018:</em> Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 71.3%, Maurice KAMTO (MRC) 14.2%, Cabral LIBII (Univers) 6.3%, other 8.2%<br> (2018)<br>
+_expected date of next election_: October 2032<br>
 
 **Legislative branch**<br>
 _legislature name_: Parlement - Parliament<br>
@@ -409,8 +409,8 @@ _lyrics/music_: Rene Djam AFAME, Samuel Minkio BAMBA, Moise Nyatte NKO'O [French
 _history_: adopted 1957; lyrics were changed slightly to the current version in 1978<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 2 (both natural)<br>
-_selected World Heritage Site locales_: Dja Faunal Reserve; Sangha Trinational Forest<br>
+_total World Heritage Sites_: 3 (two natural and one cultural)<br>
+_selected World Heritage Site locales_: Dja Faunal Reserve (n); Sangha Trinational Forest (n); Diy-Gid-Biy Cultural Landscape of the Mandara Mountains (c)<br>
 
 ## Economy
 

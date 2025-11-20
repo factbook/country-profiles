@@ -600,10 +600,11 @@ the armed forces (FANB) are responsible for ensuring Venezuela’s independence,
 ## Space
 
 **Space agency/agencies**<br>
-Bolivarian Agency for Space Activities (Agencia Bolivariana para Actividades Espaciales, ABAE; formed 2007); ABAE was originally known as the Venezuelan Space Center (CEV; created 2005); the ABAE is under the Ministry of Science, Technology, and Innovation (2024)<br>
+Bolivarian Agency for Space Activities (Agencia Bolivariana para Actividades Espaciales, ABAE; formed 2007) (2025)<br>
+<strong>note:</strong> the ABAE is under the Ministry of Science, Technology, and Innovation; it was originally known as the Venezuelan Space Center (CEV; created 2005)<br>
 
 **Space program overview**<br>
-has a small program primarily focused on the acquisition of satellites and developing the country’s space engineering and sciences capabilities; operates satellites and maintains two satellite ground control stations; has relations with the space programs of China and Russia (2024)<br>
+has a small national program primarily focused on the acquisition of satellites and stimulating the country’s science and technological capabilities; operates satellites and maintains two satellite ground control stations; participates in multinational space organizations, such as the Latin American and Caribbean Space Agency; closest bilateral partners are China and Russia; also has bilateral framework agreements for space cooperation with Argentina, Bolivia, Brazil, the US, and Uruguay (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

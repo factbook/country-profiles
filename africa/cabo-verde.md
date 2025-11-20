@@ -364,6 +364,9 @@ ten five-pointed yellow stars<br>
 **National color(s)**<br>
 blue, white, red, yellow<br>
 
+**National coat of arms**<br>
+adopted in 1992, the coat of arms features the national symbol of ten stars that represent the country&rsquo;s islands; the stylized torch and triangle at the center of the circle symbolize freedom and national unity, and the three blue lines represent the ocean and sky; the name of the country is written in Portuguese, the official language; the plumbob at the top of the circle -- used in construction to make accurate vertical lines -- represents justice, righteousness, and truth; the chain links symbolize a commitment to the people and their well-being<br>
+
 **National anthem(s)**<br>
 _title_: "Cantico da Liberdade" (Song of Freedom)<br>
 _lyrics/music_: Amilcar Spencer LOPES/Adalberto Higino Tavares SILVA<br>

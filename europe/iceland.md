@@ -362,6 +362,9 @@ gyrfalcon<br>
 **National color(s)**<br>
 blue, white, red<br>
 
+**National coat of arms**<br>
+Iceland’s coat of arms is derived from a 13th-century folktale about four guardians who protect the four corners of the nation; the bull protects the northwest, the eagle the northeast, the dragon the southeast, and the rock-giant the southwest; the shield displays the national flag, with red standing for Iceland’s volcanic fires, white for its snow and ice fields, and blue for the ocean<br>
+
 **National anthem(s)**<br>
 _title_: "Lofsongur" (Song of Praise)<br>
 _lyrics/music_: Matthias JOCHUMSSON/Sveinbjorn SVEINBJORNSSON<br>

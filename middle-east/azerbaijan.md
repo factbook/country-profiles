@@ -635,7 +635,7 @@ Azerbaijan Armed Forces: Land Forces, Air Forces, Navy Forces, Special Forces, S
 information varies widely; estimated 100,000 active Armed Forces personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-Baku has been actively upgrading its equipment for over a decade with purchases from Belarus, Israel, Russia, and Turkey; while most of the military's equipment was once Soviet-era material, it now fields quantities of advanced equipment, including armored vehicles, artillery systems, air defense systems, tanks, and UAVs (2024)<br>
+Baku has been actively upgrading the military's inventory for over a decade with equipment acquisitions from several sources, including Belarus, China, Israel, Russia, and Turkey; while most of the military's equipment was once Soviet-era material, it now fields quantities of advanced equipment, including armored vehicles, artillery systems, air defense systems, fighter aircraft, tanks, and UAVs (2024)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for compulsory military service for men; 18-35 years of age for voluntary/contractual service for men and women; 18 months service for conscripts, 36 months for voluntary/contractual service (2023)<br>

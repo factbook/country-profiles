@@ -363,7 +363,7 @@ _subordinate courts_: regional and local courts<br>
 Ak Zhol Democratic Party or Ak Zhol<br>Amanat Party (formerly Nur Otan (Radiant Fatherland))<br>Auyl People's Democratic Patriotic Party or Auyl<br>Baytak (Boundless) Party<br>National Social Democratic Party or NSDP<br>People's Democratic (Patriotic) Party or Auyl or AHDPP<br>People's Party of Kazakhstan or PPK<br>Respublica<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Yerzhan ASHIKBAYEV (since 7 July 2021)<br>
+_chief of mission_: Ambassador-designate Magzhan ILYASOV (since October 2025)<br>
 _chancery_: 1401 16th Street NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 232-5488<br>
 _FAX_: [1] (202) 232-5845<br>

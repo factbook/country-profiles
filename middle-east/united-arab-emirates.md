@@ -383,8 +383,8 @@ _lyrics/music_: AREF Al Sheikh Abdullah Al Hassan/Mohamad Abdel WAHAB<br>
 _history_: music adopted 1971, lyrics adopted 1986; Mohamad Abdel WAHAB also composed the music for Tunisia's and Libya's anthem<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 1 (cultural)<br>
-_selected World Heritage Site locales_: Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud, and Oases Areas)<br>
+_total World Heritage Sites_: 2 ( both cultural)<br>
+_selected World Heritage Site locales_: Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud, and Oases Areas); Faya Palaeolandscape (c)<br>
 
 ## Economy
 

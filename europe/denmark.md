@@ -389,8 +389,8 @@ _history_: adopted 1780; one of the oldest royal anthems in the world; used for 
 <strong>note:</strong> Denmark is one of only two countries that has two national anthems of equal status (New Zealand is the other)<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 11 (8 cultural, 3 natural)<br>
-_selected World Heritage Site locales_: Denmark: Mounds, Runic Stones, and Church at Jelling (c); Roskilde Cathedral (c); Kronborg Castle (c); Wadden Sea (n); Stevns Klint (n); Christiansfeld, Moravian Church Settlement (c); Par force hunting landscape, North Zealand (c); Greenland: Ilulissat Icefjord (n); Kujataa, Norse and Inuit Farming (c); Aasivissuit–Nipisat, Inuit Hunting Ground (c); Viking-Age Ring Fortresses (c)<br>
+_total World Heritage Sites_: 12 (8 cultural, 4 natural)<br>
+_selected World Heritage Site locales_: Denmark: Mounds, Runic Stones, and Church at Jelling (c); Roskilde Cathedral (c); Kronborg Castle (c); Wadden Sea (n); Stevns Klint (n); Christiansfeld, Moravian Church Settlement (c); Par force hunting landscape, North Zealand (c); Greenland: Ilulissat Icefjord (n); Kujataa, Norse and Inuit Farming (c); Aasivissuit–Nipisat, Inuit Hunting Ground (c); Viking-Age Ring Fortresses (c); Møns Klint (n)<br>
 <strong>note:</strong> includes three sites in Greenland<br>
 
 ## Economy

@@ -380,8 +380,8 @@ _lyrics/music_: Hugh Braham SHERLOCK/Robert Charles LIGHTBOURNE<br>
 _history_: adopted 1962<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 1 (mixed)<br>
-_selected World Heritage Site locales_: Blue and John Crow Mountains<br>
+_total World Heritage Sites_: 2 ( 1mixed,1 cultural)<br>
+_selected World Heritage Site locales_: Blue and John Crow Mountains (m); The Archaeological Ensemble of 17th Century Port Royal (c)<br>
 
 ## Economy
 
