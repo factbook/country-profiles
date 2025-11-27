@@ -336,10 +336,10 @@ _number of seats_: 169 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 9/13/2021<br>
-_parties elected and seats per party_: Labour Party (48); Conservative Party (36); Center Party (28); Progress Party (21); Socialist Left Party (13); Other (23)<br>
-_percentage of women in chamber_: 44.4%<br>
-_expected date of next election_: September 2025<br>
+_most recent election date_: 9/8/2025<br>
+_parties elected and seats per party_: Labour Party (53); Progress Party (47); Conservative Party (24); Socialist Left Party (9); Center Party (9); Red Party (9); Other (18)<br>
+_percentage of women in chamber_: 40.2%<br>
+_expected date of next election_: September 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Hoyesterett (consists of the chief justice and 18 associate justices)<br>
@@ -683,7 +683,7 @@ the Norwegian Space Agency (NOSA, aka Norsk Romsenter; established 1987) (2025)<
 And&oslash;ya Space Center (And&oslash;ya Island; note - first operational spaceport in continental Europe) (2025)<br>
 
 **Space program overview**<br>
-has a broad and active space program coordinated with the European Space Agency (ESA) and the EU; jointly designs and builds satellites with foreign partners, including communications, remote sensing (RS), scientific, and navigational/positional; operates satellites; develops and launches sounding rockets; researches and produces a range of other space-related technologies, including satellite/space launch vehicle (SLV) and space station components, telescopes, and robotics; conducts solar and telecommunications research; participates in international space programs, such as the International Space Station; hosts training for Mars landing missions on the island of Svalbard; active member of the ESA and cooperates with a variety of foreign space agencies and industries, including those of Canada, ESA/EU member states, Japan, Russia, and the US; has an active and advanced space industry that cooperates with both the NOSA and foreign space programs and produces a variety of space-related products, from terminals for satellite communications and technologies for RS satellites to sensors for gamma radiation in deep space (2025)<br>
+jointly designs and builds satellites with foreign partners, including communications, remote sensing (RS), scientific, and navigational/positional; operates satellites; develops and launches sounding rockets; researches and produces a range of other space-related technologies, including satellite/space launch vehicle (SLV) and space station components, telescopes, and robotics; conducts solar and telecommunications research; member of the European Space Agency and space program is closely coordinated the organization, as well as with the EU; participates in international space programs, such as the International Space Station; hosts training for Mars landing missions on the island of Svalbard; cooperates with a variety of foreign space agencies and industries, including those of Canada, ESA/EU member states, Japan, Russia, and the US; has an active and advanced space industry that cooperates with both the NOSA and foreign space programs and produces a variety of space-related products, from terminals for satellite communications and technologies for RS satellites to sensors for gamma radiation in deep space (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues

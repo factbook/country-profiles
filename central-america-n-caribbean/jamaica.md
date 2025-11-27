@@ -317,19 +317,19 @@ _number of seats_: 63 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 9/3/2020<br>
-_parties elected and seats per party_: Jamaica Labour Party (JLP) (49); People's National Party (PNP) (14)<br>
-_percentage of women in chamber_: 28.6%<br>
-_expected date of next election_: September 2025<br>
+_most recent election date_: 9/3/2025<br>
+_parties elected and seats per party_: Jamaica Labour Party (JLP) (35); People's National Party (PNP) (28)<br>
+_percentage of women in chamber_: 30.2%<br>
+_expected date of next election_: August 2030<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate<br>
 _number of seats_: 21 (all appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 9/15/2020<br>
-_percentage of women in chamber_: 40%<br>
-_expected date of next election_: September 2025<br>
+_most recent election date_: 9/18/2025<br>
+_percentage of women in chamber_: 33.3%<br>
+_expected date of next election_: September 2030<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of president of the court and a minimum of 4 judges); Supreme Court (40 judges organized in specialized divisions)<br>

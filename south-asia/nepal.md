@@ -339,7 +339,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 11/19/2013<br>
 _parties elected and seats per party_: Nepali Congress (NC) (89); Communist Party of Nepal (Unified Marxist-Leninist, UML) (78); Communist Party of Nepal-Maoist Centre (CPN-MC) (32); Rastriya Swatantra Party (20); Rastriya Prajatantra Party Nepal (RPP) (14); People's Socialist Party, Nepal (12); Communist Party of Nepal (Unified Socialist) (10); Janamat Party (6); Democratic Socialist Party, Nepal (4); People's Freedom Party (3); Nepal Workers Peasants Party (1); Rastriya Janamorcha (1); Independents (5)<br>
-_percentage of women in chamber_: 33.5%<br>
+_percentage of women in chamber_: 0%<br>
 _expected date of next election_: 5 March 2026; note - Parliament was dissolved by the President on 12 September following violent protests, the resignation of the Prime Minister, and the appointment of an interim prime minister with new elections set for March 2026<br>
 
 **Legislative branch - upper chamber**<br>

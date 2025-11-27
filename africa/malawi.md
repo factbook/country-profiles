@@ -331,13 +331,13 @@ _expected date of next election_: September 2030<br>
 **Legislative branch**<br>
 _legislature name_: National Assembly<br>
 _legislative structure_: unicameral<br>
-_number of seats_: 193 (all directly elected)<br>
+_number of seats_: 229 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 5/21/2019<br>
-_parties elected and seats per party_: Democratic Progressive Party (DPP) (62); Malawi Congress Party (MCP) (55); United Democratic Front (UDF) (10); Independents (55); Other (10)<br>
-_percentage of women in chamber_: 20.7%<br>
+_most recent election date_: 9/16/2025<br>
+_parties elected and seats per party_: Democratic Progressive Party (DPP) (78); Malawi Congress Party (MCP) (52); Independents (73); Other (21)<br>
+_percentage of women in chamber_: 21.4%<br>
 _expected date of next election_: September 2025<br>
 
 **Judicial branch**<br>

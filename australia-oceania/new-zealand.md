@@ -664,7 +664,7 @@ New Zealand Space Agency (NZSA; established 2016 under the Ministry of Business,
 Mahia Peninsula Launch Complex (Hawke's Bay) (2025)<br>
 
 **Space program overview**<br>
-national space program focused largely on the development of a commercial space sector, particularly in the field of satellites and satellite/space launch vehicles (SLV); manufactures and launches commercial satellites and SLVs; researches and develops a range of other space-related technologies, including propulsion systems; participates in international space programs and partners with a range of foreign space agencies and industries, including those of Australia, Canada, the EU and its member states, the European Space Agency (ESA) and its member states, South Africa, and the US; has a growing commercial space sector (2025)<br>
+has a national space program focused largely on the development of a commercial space sector, particularly in the field of satellites and satellite launch vehicles (SLV); manufactures and launches commercial satellites and SLVs; researches and develops a range of other space-related technologies, including propulsion systems; participates in international space programs and partners with a range of foreign space agencies and industries, including those of Australia, Canada, the EU and the European Space Agency and their member states, South Africa, and the US; has a growing commercial space sector (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

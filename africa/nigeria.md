@@ -344,7 +344,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 2/25/2023<br>
 _parties elected and seats per party_: All Progressives Congress (APC) (180); People's Democratic Party (PDP) (116); Labour Party (LP) (35); New Nigeria Peoples Party (NNPP) (19); Other (10)<br>
-_percentage of women in chamber_: 3.9%<br>
+_percentage of women in chamber_: 4.2%<br>
 _expected date of next election_: February 2027<br>
 
 **Legislative branch - upper chamber**<br>
@@ -355,7 +355,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 2/25/2023<br>
 _parties elected and seats per party_: All Progressives Congress (APC) (59); People's Democratic Party (PDP) (36); Labour Party (LP) (8); Other (6)<br>
-_percentage of women in chamber_: 2.8%<br>
+_percentage of women in chamber_: 3.7%<br>
 _expected date of next election_: February 2027<br>
 
 **Judicial branch**<br>
@@ -688,7 +688,7 @@ National Space Research and Development Agency (NARSDA; established 1999); Defen
 <strong>note:</strong> NARSDA originated from the National Centre for Remote Sensing, the National Committee on Space Applications (both established in 1987), and the Directorate of Science (established 1993)<br>
 
 **Space program overview**<br>
-has a national space program with a focus on acquiring satellites for agricultural, environmental, meteorology, mining and disaster monitoring, socio-economic development, and security purposes; designs, builds (mostly with foreign assistance), and operates satellites; processes overhead imagery data for analysis and sharing; developing additional capabilities in satellite and satellite payload production, including remote sensing (RS) technologies; has a sounding rocket program for researching rockets and rocket propulsion systems with goal of launching domestically produced satellites into space from a Nigerian spaceport by 2030; has relations and/or cooperation agreements with a variety of foreign space agencies and industries, including those of Algeria, Bangladesh, Belarus, China, Ghana, India, Japan, Kenya, Mongolia, South Africa, Thailand, Turkey, the UK, the US, and Vietnam; has a government-owned satellite company and a small commercial aerospace sector (2025)<br>
+has a national space program with a focus on acquiring satellites for agricultural, environmental, meteorology, mining and disaster monitoring, security purposes, and socio-economic development; designs, builds (mostly with foreign assistance), and operates satellites; processes overhead imagery data for analysis and sharing; developing additional capabilities in satellite and satellite payload production, including remote sensing technologies; has a sounding rocket program for researching rockets and rocket propulsion systems with goal of launching domestically produced satellites into space from a Nigerian spaceport by 2030; has relations and/or cooperation agreements with a variety of foreign space agencies and industries, including those of Algeria, Bangladesh, Belarus, China, Ghana, India, Japan, Kenya, Mongolia, South Africa, Thailand, Turkey, the UK, the US, and Vietnam; has a government-owned satellite company and a small commercial aerospace sector (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

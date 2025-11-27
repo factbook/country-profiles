@@ -366,7 +366,7 @@ _email address and website_: <br>echile.eeuu@minrel.gob.cl<br><br>https://chile.
 _consulate(s) general_: Chicago, Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Richard T. (Rick) YONEOKA (since January 2025)<br>
+_chief of mission_: Ambassador-designate Brandon JUDD (since November 2025)<br>
 _embassy_: Avenida Andres Bello 2800, Las Condes, Santiago<br>
 _mailing address_: 3460 Santiago Place, Washington DC&nbsp; 20521-3460<br>
 _telephone_: [56] (2) 2330-3000<br>
@@ -683,7 +683,7 @@ the Chilean military's responsibilities are territorial defense, ensuring the co
 the Chilean Space Agency was established in 2001 and dissolved in 2014, at which time the space program became part of the Ministry of Defense; the Ministry of Science also participates in Chile&rsquo;s space program (2025)<br>
 
 **Space program overview**<br>
-space program focused on the acquisition and operation of satellites; building small remote sensing satellites; developing additional capabilities and technologies for the production of satellites and satellite sub-systems; is a world leader in astronomy and astrophysics; Chile has several astronomy institutes, and the Atacama Desert is home to more than a dozen astronomical observatories, including the Cerro Tololo Inter-American Observatory, the Las Campanas Observatory, and the European Southern Observatory; has established relations with space agencies and industries of Canada, China, France, India, Israel, Mexico, Russia, the UK, and the US (2025)<br>
+space program focused on the acquisition and operation of satellites; building small remote sensing satellites; developing additional capabilities and technologies for the production of satellites and satellite sub-systems; is a world leader in astronomy and astrophysics; has several astronomy institutes, and the Atacama Desert is home to more than a dozen astronomical observatories, including the Cerro Tololo Inter-American Observatory, the Las Campanas Observatory, and the European Southern Observatory; has established relations with space agencies and industries of Canada, China, France, India, Israel, Mexico, Russia, the UK, and the US (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

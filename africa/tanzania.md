@@ -348,13 +348,13 @@ _expected date of next election_: October 2025<br>
 **Legislative branch**<br>
 _legislature name_: National Assembly (Bunge)<br>
 _legislative structure_: unicameral<br>
-_number of seats_: 393 (264 directly elected; 118 indirectly elected; 10 appointed)<br>
+_number of seats_: 403 (272 directly elected; 120 indirectly elected; 10 appointed)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 10/28/2020<br>
 _parties elected and seats per party_: Revolutionary Party of Tanzania (CCM) (350); Chadema (Party for Democracy and Development) (20); Other (7)<br>
-_percentage of women in chamber_: 37.8%<br>
+_percentage of women in chamber_: 0%<br>
 _expected date of next election_: October 2025<br>
 
 **Judicial branch**<br>
@@ -663,8 +663,8 @@ Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): 
 <strong>note 1:</strong> the Nation Building Army (aka National Services) is a paramilitary organization under the Defense Forces that provides six months of military and vocational training to individuals as part of their two years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the Reserves<br><br><strong>note 2:</strong> the Tanzania Police Force includes the Police Field Force (aka Field Force Unit), a special police division with the responsibility for controlling unlawful demonstrations and riots<br>
 
 **Military expenditures**<br>
-1.4% of GDP (2024 est.)<br>
-1.3% of GDP (2023 est.)<br>
+1.3% of GDP (2024 est.)<br>
+1.2% of GDP (2023 est.)<br>
 1.2% of GDP (2022 est.)<br>
 1.1% of GDP (2021 est.)<br>
 1.2% of GDP (2020 est.)<br>
@@ -673,10 +673,10 @@ Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): 
 approximately 25,000 active Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the TPDF's inventory includes mostly Chinese and Russian/Soviet-era weapons and equipment (2024)<br>
+the TPDF's inventory includes mostly Chinese and Russian/Soviet-era weapons and equipment (2025)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service for men and women; 6-year commitment (2-year contracts afterwards); selective conscription for 2 years of public service (2024)<br>
+18-25 years of age for voluntary military service for men and women; 6-year commitment (2-year contracts afterwards); selective conscription for 2 years of public service (2025)<br>
 
 **Military deployments**<br>
 520 Central African Republic (MINUSCA); more than 1,000 Democratic Republic of the Congo (MONUSCO and Southern African Development Community regional force); 125 Lebanon (UNIFIL); approximately 300 Mozambique (under bi-lateral agreement to assist with combatting an insurgency) (2025)<br>

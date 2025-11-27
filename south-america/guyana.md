@@ -318,23 +318,23 @@ _chief of state_: President Mohammed Irfaan ALI (since 2 August 2020)<br>
 _head of government_: President Mohammed Irfaan ALI (since 2 August 2020)<br>
 _cabinet_: Cabinet of Ministers appointed by the president, responsible to the National Assembly<br>
 _election/appointment process_: the predesignated candidate of the winning party in the last National Assembly election becomes president for a 5-year term (no term limits); prime minister appointed by the president<br>
-_most recent election date_: 2 March 2020<br>
-_election results_: <br><em>2020:</em> Mohammed Irfaan ALI (PPP/C) designated president by the majority party in the National Assembly<br><br><em>2015:</em> David GRANGER (APNU-AFC) designated president by the majority party in the National Assembly<br>
-_expected date of next election_: 1 September 2025<br>
+_most recent election date_: 1 September 2025<br>
+_election results_: 2025: Mohammed Irfaan ALI (PPP/C) reelected president by the majority party in the National Assembly<br><br><em>2020:</em> Mohammed Irfaan ALI (PPP/C) designated president by the majority party in the National Assembly<br><br><em>2015:</em> David GRANGER (APNU-AFC) designated president by the majority party in the National Assembly<br>
+_expected date of next election_: August 2030<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament of the Co-operative Republic of Guyana<br>
 _legislative structure_: unicameral<br>
 _chamber name_: National Assembly<br>
-_number of seats_: 69 (all directly elected)<br>
-_electoral system_: mixed system<br>
+_number of seats_: 72 (all directly elected)<br>
+_electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 9/1/2025<br>
+_most recent election date_: 3/2/2020<br>
 _parties elected and seats per party_: People's Progressive Party/Civic (PPP/C) (33); A Partnership for National Unity - Alliance for Change (APNU-AFC) (31); Other (1)<br>
-_percentage of women in chamber_: 39.4%<br>
-_expected date of next election_: August 2030<br>
+_percentage of women in chamber_: 36.1%<br>
+_expected date of next election_: September 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Judicature (consists of the Court of Appeal with a chief justice and 3 justices, and the High Court with a chief justice and 10 justices organized into 3- or 5-judge panels); Caribbean Court of Justice is the final court of appeal in civil and criminal cases<br>

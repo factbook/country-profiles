@@ -330,7 +330,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 10/8/2021 to 10/9/2021<br>
 _parties elected and seats per party_: ANO (72); SPOLU (71); Pirate Party (Pirati) - Mayors and independents (STAN) (37); Freedom and Direct Democracy (SPD) (20)<br>
-_percentage of women in chamber_: 25.5%<br>
+_percentage of women in chamber_: 33.5%<br>
 _expected date of next election_: October 2025<br>
 
 **Legislative branch - upper chamber**<br>
@@ -361,7 +361,7 @@ _email address and website_: <br>washington@embassy.mzv.cz<br><br>https://www.mz
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires David WISNER (since June 2025)<br>
+_chief of mission_: Ambassador Nicholas MERRICK (since 23 October 2025)<br>
 _embassy_: Trziste 15, 118 01 Praha 1 - Mala Strana<br>
 _mailing address_: 5630 Prague Place, Washington DC&nbsp; 20521-5630<br>
 _telephone_: [420] 257-022-000<br>

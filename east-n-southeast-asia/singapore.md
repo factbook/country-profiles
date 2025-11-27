@@ -320,6 +320,7 @@ _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 5/3/2025<br>
+_parties elected and seats per party_: People's Action Party (PAP) (87); Workers' Party (WPS) (12)<br>
 _percentage of women in chamber_: 32.3%<br>
 _expected date of next election_: May 2030<br>
 
@@ -342,7 +343,7 @@ _consulate(s) general_: San Francisco<br>
 _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Graham MAYER (since August 2025)<br>
+_chief of mission_: Ambassador Anjani K. SINHA (since November 2025)<br>
 _embassy_: 27 Napier Road, Singapore 258508<br>
 _mailing address_: 4280 Singapore Place, Washington DC&nbsp; 20521-4280<br>
 _telephone_: [65] 6476-9100<br>

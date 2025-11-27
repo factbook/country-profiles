@@ -344,10 +344,10 @@ _number of seats_: 130 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 8/17/2025<br>
+_most recent election date_: 10/18/2020<br>
 _parties elected and seats per party_: Movement for Socialism (MAS-IPSP) (75); Civic Community (C.C) (39); Creemos (16)<br>
-_percentage of women in chamber_: 46.2%<br>
-_expected date of next election_: August 2030<br>
+_percentage of women in chamber_: 50.8%<br>
+_expected date of next election_: August 2025<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Chamber of Senators (Cámara de Senadores)<br>
@@ -355,10 +355,10 @@ _number of seats_: 36 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 8/17/2025<br>
+_most recent election date_: 10/18/2020<br>
 _parties elected and seats per party_: Movement for Socialism (MAS-IPSP) (21); Civic Community (C.C) (11); Creemos (4)<br>
-_percentage of women in chamber_: 55.6%<br>
-_expected date of next election_: August 2030<br>
+_percentage of women in chamber_: 58.3%<br>
+_expected date of next election_: August 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Tribunal Supremo de Justicia (consists of 12 judges<em> </em>organized into civil, penal, social, and administrative chambers); Plurinational Constitutional Tribunal (consists of 7 primary and 7 alternate magistrates); Plurinational Electoral Organ (consists of 7 members and 6 alternates); National Agro-Environment Court (consists of 5 primary and 5 alternate judges; Council of the Judiciary (consists of 3 primary and 3 alternate judges)<br>

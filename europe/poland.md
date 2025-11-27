@@ -372,7 +372,7 @@ _email address and website_: <br>washington.amb.sekretariat@msz.gov.pl<br><br>ht
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Stephanie HOLMES (since August 2025)<br>
+_chief of mission_: Ambassador Thomas ROSE (since 6 November 2025)<br>
 _embassy_: Aleje Ujazdowskie 29/31, 00-540 Warsaw<br>
 _mailing address_: 5010 Warsaw Place, Washington, DC 20521-5010<br>
 _telephone_: [48] (22) 504-2000<br>

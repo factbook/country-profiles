@@ -345,7 +345,7 @@ _email address and website_: <br>info@lebanonembassyus.org<br><br>http://www.leb
 _consulate(s) general_: Detroit, New York, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Lisa A. JOHNSON (since 6 February 2025)<br>
+_chief of mission_: Ambassador Michel ISSA (since 17 November 2025)<br>
 _embassy_: Awkar facing the Municipality<br>P.O. Box 70-840 Antelias, Beirut<br>
 _mailing address_: 6070 Beirut Place, Washington DC&nbsp; 20521-6070<br>
 _telephone_: [961] (04) 543-600<br>

@@ -334,7 +334,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 10/26/2024<br>
 _parties elected and seats per party_: Georgian Dream (89); Coalition for Changes (19); Unity - National Movement (16); Strong Georgia – Lelo, For people, For Liberty! (14); For Georgia (12)<br>
-_percentage of women in chamber_: 12.4%<br>
+_percentage of women in chamber_: 16.8%<br>
 _expected date of next election_: October 2028<br>
 
 **Judicial branch**<br>
@@ -355,7 +355,7 @@ _email address and website_: <br>embgeo.usa@mfa.gov.ge<br><br>https://georgiaemb
 _consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Robin L. DUNNIGAN (since 12 October 2023)<br>
+_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Alan S. Purcell (since 16 July 2025)<br>
 _embassy_: 29 Georgian-American Friendship Avenue, Didi Dighomi, Tbilisi, 0131<br>
 _mailing address_: 7060 Tbilisi Place, Washington, DC&nbsp; 20521-7060<br>
 _telephone_: [995] (32) 227-70-00<br>

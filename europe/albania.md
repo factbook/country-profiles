@@ -338,7 +338,8 @@ _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 5/11/2025<br>
-_percentage of women in chamber_: 35.7%<br>
+_parties elected and seats per party_: Socialist Party of Albania (PS) (83); Democratic Party - Alliance for a Greater Albania (PD-ASHM) (50); Other (7)<br>
+_percentage of women in chamber_: 35%<br>
 _expected date of next election_: May 2029<br>
 
 **Judicial branch**<br>

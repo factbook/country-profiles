@@ -351,7 +351,7 @@ _term in office_: 5 years<br>
 _most recent election date_: 10/24/2020 to 12/8/2020<br>
 _parties elected and seats per party_: Future of the Nation (Mostakbal Watan) (317); Republican People's party (El Shaab el Gomhory) (49); Independents (117); Other (109)<br>
 _percentage of women in chamber_: 27.7%<br>
-_expected date of next election_: October 2025<br>
+_expected date of next election_: November 2025<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate (Majlis Al-Shiyoukh)<br>
@@ -361,7 +361,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 8/4/2025 to 8/28/2025<br>
 _parties elected and seats per party_: Future of the Nation (Mostakbal Watan) (148); Republican People's party (17); Independents (88); Other (47)<br>
-_percentage of women in chamber_: 13.7%<br>
+_percentage of women in chamber_: 10.7%<br>
 _expected date of next election_: July 2030<br>
 
 **Judicial branch**<br>

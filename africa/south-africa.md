@@ -346,7 +346,7 @@ _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 5/29/2024<br>
-_percentage of women in chamber_: 45%<br>
+_percentage of women in chamber_: 44.9%<br>
 _expected date of next election_: May 2029<br>
 
 **Legislative branch - upper chamber**<br>
@@ -670,24 +670,24 @@ South African National Defense Force (SANDF): South African Army (includes Reser
 0.7% of GDP (2024 est.)<br>
 0.7% of GDP (2023 est.)<br>
 0.8% of GDP (2022 est.)<br>
-0.9% of GDP (2021 est.)<br>
+0.8% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 65-70,000 active-duty National Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SANDF's inventory consists of a mix of domestically produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly produced with foreign companies), while the Air Force and Navy inventories include a mix of aging European-, Israeli-, and US-origin weapons and equipment; South Africa has one of Africa's leading defense industries (2024)<br>
+the SANDF's inventory consists of a mix of domestically produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly produced with foreign companies), while the Air Force and Navy inventories include a mix of aging European, Israeli, and US origin weapons and equipment; South Africa has one of Africa's leading defense industries (2024)<br>
 
 **Military service age and obligation**<br>
-18-22 (18-26 for college graduates) years of age for voluntary military service for men and women; 2-year service obligation (2023)<br>
+18-22 (18-26 for college graduates) years of age for voluntary military service for men and women; initial 2-year service obligation (2025)<br>
 <strong>note:</strong> in 2023, women comprised nearly 30% of the military<br>
 
 **Military deployments**<br>
-approximately 1,100 Democratic Republic of the Congo (MONUSCO) (2025)<br>
+approximately 2,000 Democratic Republic of the Congo (MONUSCO and Southern African Development Community) (2025)<br>
 
 **Military - note**<br>
-the South African National Defense Force's (SANDF) primary responsibilities include territorial and maritime defense, supporting the Police Service, protecting key infrastructure, responding to disasters, and participating in international peacekeeping missions; border security and maintaining a rapid reaction capability for regional security missions and disaster response are priorities; in recent years, it has been deployed internally to assist the Police with quelling unrest and assisting with border security; the SANDF also regularly participates in African and UN peacekeeping missions and is a member of the Southern Africa Development Community (SADC) Standby Force; in 2021, South AFrica sent about 1,500 SANDF troops to Mozambique as part of a multinational SADC force to help combat an insurgency<br><br>the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands (2025)<br>
+the South African National Defense Force's (SANDF) primary responsibilities include territorial and maritime defense, supporting the Police Service, protecting key infrastructure, responding to disasters, and participating in international peacekeeping missions; border security and maintaining a rapid reaction capability for regional security missions and disaster response have been priorities; in recent years, it has been deployed internally to assist the Police with quelling unrest and assisting with border security; the SANDF also regularly participates in African and UN peacekeeping missions and is a member of the Southern Africa Development Community (SADC) Standby Force<br><br>the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands (2025)<br>
 
 ## Space
 

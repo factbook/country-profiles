@@ -384,7 +384,7 @@ _email address and website_: <br>hoc.washington@mea.gov.in<br><br>https://www.in
 _consulate(s) general_: Atlanta, Chicago, Houston, New York, San Francisco, Seattle<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Jorgan K. ANDREWS (since January 2025)<br>
+_chief of mission_: Ambassador-designate Sergio GOR (since 11 October 2025)<br>
 _embassy_: Shantipath, Chanakyapuri, New Delhi - 110021<br>
 _mailing address_: 9000 New Delhi Place, Washington DC&nbsp; 20521-9000<br>
 _telephone_: [91] (11) 2419-8000<br>
@@ -715,8 +715,8 @@ the Indian military's primary mission is external/territorial defense while seco
 ## Space
 
 **Space agency/agencies**<br>
-Indian Space Research Organization (ISRO; originally established in 1962 as the  Indian National Committee for Space Research (INCOSPAR); renamed ISRO in 1969); the ISRO is subordinate to the Department of Space (DOS; established 1972); Defense Space Agency (DSA; established 2019 to command the space assets of the Armed Forces and other defense organizations) (2025)<br><br>note: India’s first space organization was the Indian National Committee for Space Research (INCOSPAR; established 1962)<br>
-note: India&rsquo;s first space organization was the Indian National Committee for Space Research (INCOSPAR; established 1962)<br>
+Indian Space Research Organization (ISRO; originally established in 1962 as the Indian National Committee for Space Research (INCOSPAR); renamed ISRO in 1969); Defense Space Agency (DSA; established 2019) (2025)<br>
+<strong>note:</strong> the ISRO is subordinate to the Department of Space (DOS; established 1972)<br>
 
 **Space launch site(s)**<br>
 Satish Dhawan Space Center (aka Sriharikota Range; located in Andhra Pradesh); Vikram Sarabhai Space Center (Kerala) (2025)<br>

@@ -345,6 +345,7 @@ _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _most recent election date_: 5/1/2025<br>
 _percentage of women in chamber_: 19.6%<br>
+_expected date of next election_: April 2030<br>
 <strong>Note:</strong> on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the National Assembly; a commission recommended to the junta in February 2025 a minimum of a five-year transition to democratic rule<br>
 
 **Judicial branch**<br>

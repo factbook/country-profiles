@@ -277,7 +277,7 @@ _email address and website_: <br>washington@nanoq.gl<br><br>All Greenlandic Repr
 <strong>note</strong>: Greenland also has offices in the Danish consulates in Chicago and New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Consul Monica BLAND (since July 2023)<br>
+_chief of mission_: Consul Susan A. "Suzi" WILSON (since August 2025)<br>
 _embassy_: Aalisartut Aqqutaa 47<br>Nuuk 3900<br>Greenland<br>
 _telephone_: (+299) 384100<br>
 _email address and website_: <br>USConsulateNuuk@state.gov<br><br>Homepage - U.S. Embassy &amp; Consulate in the Kingdom of Denmark (usembassy.gov)<br>

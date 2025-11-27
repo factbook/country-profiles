@@ -681,11 +681,11 @@ the military (FACI) is responsible for external defense but also has a considera
 ## Space
 
 **Space agency/agencies**<br>
-National Office for Technical Studies and Development (Bureau d'Études Techniques et de Développement or BNETD) (2025)<br>
+National Office for Technical Studies and Development (Bureau d'Études Techniques et de Développement or BNETD); Côte d’Ivoire Geographic and Digital Information Center (CIGN) (2025)<br>
 <strong>note:</strong> in mid-2025, Côte d’Ivoire announced that it would establish the Space Agency of Côte d’Ivoire (ASCI) in 2026 under the Minister of Higher Education and Scientific Research<br>
 
 **Space program overview**<br>
-has a small, nascent program with a focus on satellite technology and geospatial information systems for effective national planning, resource management, addressing environmental challenges, supporting the agricultural sector and scientific research, promoting domestic expertise, and national security issues (2025)<br>
+has a small, nascent program with a focus on satellite technology and geospatial information systems and exploitation for national planning, resource management, addressing environmental challenges, supporting the agricultural sector and scientific research, promoting domestic expertise, and national security issues; member of the African Space Agency and cooperates bilaterally with member states such as Tanzania (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

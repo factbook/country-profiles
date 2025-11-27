@@ -306,7 +306,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 8/29/2025<br>
 _parties elected and seats per party_: Faatuatua ile Atua Samoa ua Tasi (FAST) (32); Human Rights Protection Party (HRPP) (22)<br>
-_percentage of women in chamber_: 13%<br>
+_percentage of women in chamber_: 9.8%<br>
 _expected date of next election_: August 2030<br>
 
 **Judicial branch**<br>

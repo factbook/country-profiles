@@ -332,7 +332,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 11/27/2024 to 11/30/2024<br>
 _parties elected and seats per party_: SWAPO Party (51); Independent Patriots of Change (IPC) (20); Affirmative Repositioning (AR) (6); Landless People's Movement (LPM) (5); Popular Democratic Movement (PDM) (5); Other (9)<br>
-_percentage of women in chamber_: 40.6%<br>
+_percentage of women in chamber_: 42.3%<br>
 _expected date of next election_: November 2029<br>
 
 **Legislative branch - upper chamber**<br>
@@ -361,7 +361,7 @@ _FAX_: [1] (202) 986-0443<br>
 _email address and website_: <br>info@namibiaembassyusa.org<br><br>https://namibiaembassyusa.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Brandon HUDSPETH (since 1 January 2025)<br>
+_chief of mission_: Ambassador John GIORDANO (since 29 October 2025)<br>
 _embassy_: 38 Metje Street, Klein Windhoek, Windhoek<br>
 _mailing address_: 2540 Windhoek Place, Washington DC&nbsp; 20521-2540<br>
 _telephone_: [264] (61) 202-5000<br>

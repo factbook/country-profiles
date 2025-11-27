@@ -317,7 +317,7 @@ _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 11/30/2024<br>
-_parties elected and seats per party_: Social Democratic Alliance (S) (15); Independence Party (D) (14); Liberal Reform Party (C) (11); People&rsquo;s Party (F) (10); Center Party (M) (8); Progressive Party (B) (5)<br>
+_parties elected and seats per party_: Social Democratic Alliance (SDA) (15); Independence Party (IP) (14); Liberal Reform Party (11); People’s Party (10); Center Party (8); Progressive Party (PP) (5)<br>
 _percentage of women in chamber_: 46%<br>
 _expected date of next election_: November 2028<br>
 
@@ -609,7 +609,7 @@ no regular military forces; the Icelandic National Police, the regional police f
 the Icelandic Coast Guard's inventory consists of equipment from mostly European suppliers (2024)<br>
 
 **Military - note**<br>
-Iceland was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; Iceland is the only NATO member that has no standing military force; defense of Iceland remains a NATO commitment and NATO maintains an air policing presence in Icelandic airspace; Iceland participates in international peacekeeping missions with the civilian-manned Icelandic Crisis Response Unit (ICRU)<br><br>Iceland cooperates with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO, established 2009), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations<br><br>in 1951, Iceland and the US concluded an agreement to make arrangements regarding the defense of Iceland and for the use of facilities in Iceland to that end; the agreement, along with NATO membership, is one of the two pillars of Iceland‘s security policy; since 2007 Iceland has concluded cooperation agreements with Canada, Denmark, Norway, and the UK which entail dialogue on security and defense issues as well as situational awareness and search and rescue; it also has regular consultations with Germany and France  (2025)<br>
+Iceland was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; Iceland is the only NATO member that has no standing military force; defense of Iceland remains a NATO commitment and NATO maintains an air policing presence in Icelandic airspace; Iceland participates in international peacekeeping missions with the civilian-manned Icelandic Crisis Response Unit (ICRU)<br><br>Iceland also cooperates with the militaries of other regional countries through the Nordic Defense Cooperation (Denmark, Finland, Iceland, Norway, and Sweden) and the Joint Expeditionary Force (Denmark, Estonia, Finland, Iceland, Latvia, Lithuania, the Netherlands, Norway, Sweden and the UK); in 1951, Iceland and the US concluded an agreement to make arrangements regarding the defense of Iceland and for the use of facilities in Iceland to that end (2025)<br>
 
 ## Transnational Issues
 

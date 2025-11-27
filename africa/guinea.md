@@ -261,12 +261,12 @@ _municipal solid waste generated annually_: 596,900 tons (2024 est.)<br>
 _percent of municipal solid waste recycled_: 23.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 230 million cubic meters (2020 est.)<br>
-_industrial_: 60 million cubic meters (2020 est.)<br>
-_agricultural_: 600 million cubic meters (2020 est.)<br>
+_municipal_: 230 million cubic meters (2022 est.)<br>
+_industrial_: 60 million cubic meters (2022 est.)<br>
+_agricultural_: 600 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-226 billion cubic meters (2020 est.)<br>
+226 billion cubic meters (2022 est.)<br>
 
 ## Government
 

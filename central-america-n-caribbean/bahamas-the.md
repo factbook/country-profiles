@@ -227,10 +227,10 @@ _municipal solid waste generated annually_: 264,000 tons (2024 est.)<br>
 _percent of municipal solid waste recycled_: 24.9% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 30 million cubic meters (2020 est.)<br>
+_municipal_: 31 million cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-700 million cubic meters (2020 est.)<br>
+700 million cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -320,7 +320,7 @@ _email address and website_: <br>embassy@bahamasembdc.org<br><br>https://www.bah
 _consulate(s) general_: Atlanta, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Kimberly FURNISH (since June 2024)<br>
+_chief of mission_: Ambassador-designate Herschel WALKER (since 20 October 2025); Charg&eacute; d&rsquo;Affaires Kimberly FURNISH (since June 2024)<br>
 _embassy_: 42 Queen Street, Nassau<br>
 _mailing address_: 3370 Nassau Place, Washington, DC 20521-3370<br>
 _telephone_: [1] (242) 322-1181<br>
@@ -435,8 +435,8 @@ _female_: 17.8% (2024 est.)<br>
 <strong>note:</strong> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
-_revenues_: $2.606 billion (2022 est.)<br>
-_expenditures_: $3.102 billion (2022 est.)<br>
+_revenues_: $2.855 billion (2023 est.)<br>
+_expenditures_: $3.389 billion (2023 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>

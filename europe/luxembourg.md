@@ -305,7 +305,7 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: Grand Duke HENRI (since 7 October 2000)<br>
+_chief of state_: Grand Duke GUILLAUME (since 3 October 2025)<br>
 _head of government_: Prime Minister Luc FRIEDEN (since 17 November 2023)<br>
 _cabinet_: Council of Ministers recommended by the prime minister, appointed by the monarch<br>
 _election/appointment process_: the monarchy is hereditary; following elections to the Chamber of Deputies, monarch usually appoints the leader of the majority party or majority coalition as prime minister; deputy prime minister also appointed by the monarch; prime minister and deputy prime minister are responsible to the Chamber of Deputies<br>
@@ -340,7 +340,7 @@ _email address and website_: <br>washington.amb@mae.etat.lu<br><br>https://washi
 _consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Anthony BAIRD (since 21 July 2025)<br>
+_chief of mission_: Ambassador Stacey FEINBERG (since 13 November 2025)<br>
 _embassy_: 22 Boulevard Emmanuel Servais, L-2535 Luxembourg City<br>
 _mailing address_: 5380 Luxembourg Place, Washington DC&nbsp; 20521-5380<br>
 _telephone_: [352] 46-01-23-00<br>
@@ -638,7 +638,7 @@ founded in 1881, the Luxembourg Army is responsible for the defense of the count
 the Luxembourg Space Agency (LSA; established 2018) (2025)<br>
 
 **Space program overview**<br>
-LSA established largely to develop space policy, encourage and coordinate commercial space ventures, support space education, and to promote the country’s space-related capabilities internationally; has a national space strategy; has set up policy and funding initiatives (such as LuxIMPULSE) aimed at encouraging space research, development, innovation, and entrepreneurship and attracting space-based industries; focused on developing commercial satellites and infrastructure (Luxembourg is home to some of the largest commercial satellite companies in the world), as well as other space sector capabilities and technologies, such as autonomous vehicles, robotics, remote sensing (RS), communications, and software; member of the European Space Agency (ESA) since 2005; participates in a variety of ESA programs and cooperates with individual ESA and EU member states; also has relations with other foreign space agencies and industries, including those of Canada, China, Japan, New Zealand, South Korea, the UAE, and the US (2025)<br>
+LSA established largely to develop space policy, encourage and coordinate commercial space ventures, support space education, and to promote the country’s space-related capabilities internationally; has a national space strategy; has set up policy and funding initiatives (such as LuxIMPULSE) aimed at encouraging space research, development, innovation, and entrepreneurship and attracting space-based industries; focused on developing commercial satellites and infrastructure (Luxembourg is home to some of the largest commercial satellite companies in the world), as well as other space sector capabilities and technologies, such as autonomous vehicles, robotics, remote sensing (RS), communications, and software; member of the European Space Agency (ESA) since 2005 and participates in a variety of ESA programs; cooperates bilaterally with individual ESA and EU member states; also has relations with other foreign space agencies and industries, including those of Canada, China, Japan, New Zealand, South Korea, the UAE, and the US (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues

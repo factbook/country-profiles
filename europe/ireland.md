@@ -302,7 +302,7 @@ _residency requirement for naturalization_: 4 of the previous 8 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Michael D. HIGGINS (since 11 November 2011)<br>
+_chief of state_: President Catherine CONNOLLY (since 11 November 2025)<br>
 _head of government_: Taoiseach (Prime Minister) Michael MARTIN (since 23 January 2025)<br>
 _cabinet_: Cabinet nominated by the prime minister, appointed by the president, approved by the Dali Eireann (lower house of Parliament)<br>
 _election/appointment process_: president directly elected by majority popular vote for a 7-year term (eligible for a second term); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president<br>

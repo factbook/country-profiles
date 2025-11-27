@@ -348,7 +348,7 @@ _FAX_: [1] (202) 785-1430<br>
 _email address and website_: <br>info@gambiaembassydc.us<br><br>https://www.gambiaembassydc.us/home<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Robert ANDERSON (since 22 August 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Eugene S. YOUNG (since 14 October 2025)<br>
 _embassy_: Kairaba Avenue, Fajara, P.M.B. 19, Banjul<br>
 _mailing address_: 2070 Banjul Place, Washington DC&nbsp; 20521-2070<br>
 _telephone_: [220] 439-2856<br>

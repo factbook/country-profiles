@@ -219,7 +219,7 @@ see France<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by Administrator Superior Blaise GOURTAY (since 1 August 2023)<br>
+_chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by Administrator Superior Jean-Fran&ccedil;ois de MANHEULLE (since 17 November 2025)<br>
 _head of government_: President of the Territorial Assembly Munipoese MULI'AKA'AKA (since 20 March 2022)<br>
 _cabinet_: Council of the Territory appointed by the administrator superior on the advice of the Territorial Assembly<br>
 _election/appointment process_: French president elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); administrator superior appointed by the French president on the advice of the French Ministry of the Interior; the presidents of the Territorial Government and the Territorial Assembly elected by assembly members<br>

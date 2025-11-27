@@ -363,7 +363,7 @@ _email address and website_: <br>Washington@diplobel.fed.be<br><br>https://unite
 _consulate(s) general_: Atlanta, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Kathleen LIVELY (since July 2025)<br>
+_chief of mission_: Ambassador Bill WHITE (since 17 November 2025)<br>
 _embassy_: Regentlaan 27 Boulevard du Regent, B-1000 Brussels<br>
 _mailing address_: 7600 Brussels Place, Washington DC&nbsp; 20521-7600<br>
 _telephone_: [32] (2) 811-4000<br>
@@ -687,7 +687,7 @@ the Belgian military's responsibilities include territorial defense, humanitaria
 Royal Belgian Institute for Space Aeronomy-Interfederal Space Agency of Belgium (BIRA-IASB; established 1964; IASB added 2017); Belgium Federal Science Policy Office (BELSPO) (2025)<br>
 
 **Space program overview**<br>
-founding member of the European Space Agency (ESA), which acts as the de facto Belgian space agency; builds satellites, particularly research/science/technology and remote sensing platforms; researches, develops, and produces a wide variety of space technologies, including telecommunications, optics, robotics, scientific instruments, and space launch vehicle (SLV) components; provides funding for the ESA’s SLV program, as well as legal, scientific, and technological expertise; works closely with the EU on space; hosts the European Space Security and Education Center (established 1968); participates in international astronomy efforts, particularly through the European Southern Observatory (ESO); in addition to the ESA, EU, and their members states, has cooperated bi-laterally with a variety foreign space agencies and commercial entities, including those of Argentina, China, India, Russia, South Africa, UAE, Vietnam, and the US (2025)<br>
+builds satellites, particularly research/science/technology and remote sensing platforms; researches, develops, and produces a wide variety of space technologies, including telecommunications, optics, robotics, scientific instruments, and space launch vehicle components; founding member of the European Space Agency (ESA) and participates in a variety of ESA, as well as EU projects, such as Space Surveillance and Tracking, Copernicus Earth observation, and Galileo global navigation satellite system; hosts the European Space Security and Education Center (established 1968); participates in international astronomy efforts, particularly through the European Southern Observatory (ESO); in addition to the ESA, EU, and their members states, has cooperated bi-laterally with a variety foreign space agencies and commercial entities, including those of Argentina, China, India, Russia, South Africa, UAE, Vietnam, and the US (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

@@ -276,10 +276,11 @@ _legislature name_: Parliament<br>
 _legislative structure_: unicameral<br>
 _number of seats_: 19 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
+_scope of elections_: Full renewal<br>
 _term in office_: 3 years<br>
 _most recent election date_: 10/11/2025<br>
 _percentage of women in chamber_: 10.5%<br>
-_expected date of next election_: September 2028<br>
+_expected date of next election_: October 2028<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and several justices)<br>

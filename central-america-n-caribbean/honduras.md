@@ -664,6 +664,11 @@ the FFAA's inventory is comprised of a mix of older or secondhand and limited am
 **Military - note**<br>
 the Honduran Armed Forces (FFAA) are responsible for maintaining the country’s territory, defending its sovereignty, providing emergency/humanitarian assistance, and supporting the National Police (PNH); the FFAA’s primary focus is internal and border security, and since 2011 a considerable portion of it has been deployed to support the PNH in combating narcotics trafficking and organized crime; military support to domestic security included the creation of the Military Police of Public Order (PMOP) in 2013 to provide security in areas controlled by street gangs to combat crime and make arrests; the FFAA, including the PMOP, cooperates with the militaries of El Salvador, Guatemala, and Nicaragua on border security<br><br>the FFAA has received military equipment, training, humanitarian, and technical assistance from the US military; the US military maintains a joint service task force co-located with the FFAA at Soto Cano Air Base (2025)<br>
 
+## Terrorism
+
+**Terrorist group(s)**<br>
+La Mara Salvatrucha (MS-13)<br>
+
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>

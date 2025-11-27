@@ -369,7 +369,7 @@ _email address and website_: <br>eeeuu@mrecic.gov.ar<br><br>https://eeeuu.cancil
 _consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Heidi G&oacute;mez R&Aacute;PALO (since 11 July 2025)<br>
+_chief of mission_: Ambassador Peter LAMELAS (since 4 November 2025)<br>
 _embassy_: <br>Avenida Colombia 4300, (C1425GMN) Buenos Aires<br>
 _mailing address_: 3130 Buenos Aires Place, Washington DC&nbsp; 20521-3130<br>
 _telephone_: [54] (11) 5777-4533<br>

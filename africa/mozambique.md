@@ -343,7 +343,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 10/9/2024<br>
 _parties elected and seats per party_: Mozambique Liberation Front (FRELIMO) (171); Optimist Party for the Development of Mozambique (PODEMOS) (43); Mozambican National Resistance (RENAMO) (28); Other (8)<br>
-_percentage of women in chamber_: 39.2%<br>
+_percentage of women in chamber_: 38.3%<br>
 _expected date of next election_: October 2029<br>
 
 **Judicial branch**<br>
@@ -650,10 +650,10 @@ Armed Forces for the Defense of Mozambique (Forcas Armadas de Defesa de Mocambiq
 
 **Military expenditures**<br>
 2% of GDP (2024 est.)<br>
-1.5% of GDP (2023 est.)<br>
-1.3% of GDP (2022 est.)<br>
-1.2% of GDP (2021 est.)<br>
-1.1% of GDP (2020 est.)<br>
+2% of GDP (2023 est.)<br>
+2% of GDP (2022 est.)<br>
+2% of GDP (2021 est.)<br>
+1.5% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 12,000 active FADM (2025)<br>
@@ -662,7 +662,7 @@ estimated 12,000 active FADM (2025)<br>
 the FADM's inventory consists primarily of Russian and Soviet-era equipment, although in recent years it has received some more modern equipment from a variety of countries, mostly as aid/donations (2024)<br>
 
 **Military service age and obligation**<br>
-registration for military service is mandatory for all men and women at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service for men and women; 60-month service obligation&nbsp; (2025)<br>
+has conscription and voluntary service; registration for military service is mandatory for all men and women at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service for men and women; initial 60-month service obligation (2025)<br>
 
 **Military - note**<br>
 the FADM is responsible for external security, cooperating with police on internal security, and responding to natural disasters and other emergencies; the primary focus of the FADM is countering an insurgency in the northern province of Cabo Delgado by militants affiliated with the Islamic State of Iraq and ash-Sham terrorist group (ISIS-Mozambique; known locally as Ahl al-Sunna wal-Jama&lsquo;a); since 2017, the conflict has claimed an estimated 6,000 lives and displaced an estimated one million persons; at Mozambique's request, Rwanda and several southern African countries under the Southern Africa Development Community (SADC) deployed forces to Mozambique to combat the insurgency in 2021; the SADC forces departed in 2024; as of 2025, Rwanda continued to provide approximately 3,000 military and police personnel to assist Mozambican Defense and Security Forces, along with several hundred Tanzanian troops; the EU has also provided training assistance (2025)<br>

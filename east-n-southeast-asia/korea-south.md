@@ -350,7 +350,7 @@ _email address and website_: <br>generalusa@mofa.go.kr<br><br>https://overseas.m
 _consulate(s) general_: Anchorage (AK), Atlanta, Boston, Chicago, Dallas, Hagatna (Guam), Honolulu, Houston, Los Angeles, New York, San Francisco, Seattle, Philadelphia<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Ambassador Joseph (Joe) YUN (since January 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Kevin KIM (since October 2025)<br>
 _embassy_: 188 Sejong-daero, Jongno-gu, Seoul<br>
 _mailing address_: 9600 Seoul Place, Washington, DC&nbsp; 20521-9600<br>
 _telephone_: [82] (2) 397-4114<br>
@@ -675,7 +675,7 @@ Korea AeroSpace Administration (KASA; established 2024); Korea Aerospace Researc
 Naro Space Center (South Jeolla province) (2025)<br>
 
 **Space program overview**<br>
-has an ambitious and growing space program focused on developing satellites, satellite/space launch vehicles (SLVs), and interplanetary probes; has a national space strategy; manufacturers and operates satellites, including those with communications, remote sensing (RS), scientific, and multipurpose capabilities; manufactures and launches SLVs; developing interplanetary space vehicles, including orbital probes and landers; participates in international space programs and has relations with an array of foreign space agencies and industries, including those of Australia, the European Space Agency (ESA) and its member states (particularly France, Germany, Italy, Spain, UK), India, Indonesia, Israel, Japan, Peru, Russia, UAE, and especially the US; has a robust and growing commercial space industry involved in the development of satellites and space launch capabilities (2025)<br>
+has an ambitious space program focused on developing satellites, satellite launch vehicles (SLVs), and interplanetary probes; has a national space strategy; manufacturers and operates satellites, including those with communications, remote sensing (RS), scientific, and multipurpose capabilities; manufactures and launches SLVs; developing interplanetary space vehicles, including orbital probes and landers; participates in international space programs and has relations with an array of foreign space agencies and industries, including those of Australia, the European Space Agency (ESA) and its member states (particularly France, Germany, Italy, Spain, UK), India, Indonesia, Israel, Japan, Peru, Russia, UAE, and the US; has a commercial space industry involved in the development of satellites and space launch capabilities (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues

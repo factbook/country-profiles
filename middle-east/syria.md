@@ -312,13 +312,13 @@ _expected date of next election_: 2028<br>
 **Legislative branch**<br>
 _legislature name_: People's Assembly (Majlis Al-Chaab)<br>
 _legislative structure_: unicameral<br>
-_number of seats_: 250 (all directly elected)<br>
+_number of seats_: 210 (140 indirectly elected; 70 appointed)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 7/15/2024<br>
+_most recent election date_: 10/5/2025<br>
 _percentage of women in chamber_: 9.6%<br>
-_expected date of next election_: September 2025<br>
+_expected date of next election_: March 2030<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation (organized into civil, criminal, religious, and military divisions, each with 3 judges); Supreme Constitutional Court (consists of 7 members)<br>

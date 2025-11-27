@@ -360,7 +360,7 @@ _consulate(s) general_: Los Angeles, New York<br>
 _consulate(s)_: Chicago<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Kami A. WITMER (since 20 January 2025)<br>
+_chief of mission_: Ambassador Art FISHER (since 19 November 2025)<br>
 _embassy_: Boltzmanngasse 16, 1090, Vienna<br>
 _mailing address_: 9900 Vienna Place, Washington DC&nbsp; 20521-9900<br>
 _telephone_: [43] (1) 31339 0<br>
@@ -669,7 +669,7 @@ the military’s primary responsibilities are national defense and protecting Au
 Aeronautics and Space Agency (ALR; established in 1972 as the Austrian Space Agency) (2025)<br>
 
 **Space program overview**<br>
-has a national space program; develops, builds, operates, and tracks satellites, including remote sensing and research/scientific satellites; member of the European Space Agency (ESA) and the EU; works closely with ESA and EU member states and the commercial sector to develop a range of space capabilities and technologies, including applications for satellite payloads, space flight, and space research; also cooperates with other foreign space agencies and industries, including those of China, India, Russia, and the US (2025)<br>
+established a national space program in 2002; develops, builds, operates, and tracks satellites, including remote sensing and research/scientific satellites; member of the European Space Agency (ESA) and the EU; works closely with ESA and EU member states and the commercial sector to develop a range of space capabilities and technologies, including applications for satellite payloads, space flight, and space research; participates in a range of ESA/EU programs, such as Space Surveillance and Tracking (SST), Copernicus Earth observation, and Galileo global navigation satellite system; also cooperates with other foreign space agencies and industries, including those of China, India, Russia, and the US (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

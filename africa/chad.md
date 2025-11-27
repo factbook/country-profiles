@@ -339,7 +339,7 @@ _legislature name_: Parliament<br>
 _legislative structure_: bicameral<br>
 
 **Legislative branch - lower chamber**<br>
-_chamber name_: National Assembly (Conseil national de transition)<br>
+_chamber name_: National Assembly (National Assembly)<br>
 _number of seats_: 188 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>

@@ -356,7 +356,7 @@ _FAX_: [1] (202) 319-2623<br>
 _email address and website_: <br>ambarimwashington@diplomatie.gov.mr<br><br>mauritaniaembassyus.org – Mauritania Embassy washington<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); John T. ICE Charg&eacute; d&rsquo;Affaires (since July 2024)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Corina R. SANDERS (since September 2025)<br>
 _embassy_: Nouadhibou Road, Avenue Al Quds, NOT PRTZ, Nouakchott<br>
 _mailing address_: 2430 Nouakchott Place, Washington DC&nbsp; 20521-2430<br>
 _telephone_: [222] 4525-2660<br>

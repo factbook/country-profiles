@@ -275,7 +275,7 @@ _percent of municipal solid waste recycled_: 28% (2022 est.)<br>
 **Total water withdrawal**<br>
 _municipal_: 1.293 billion cubic meters (2022 est.)<br>
 _industrial_: 549 million cubic meters (2022 est.)<br>
-_agricultural_: 8,076,000,000 cubic meters (2022 est.)<br>
+_agricultural_: 8.076 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
 442.4 billion cubic meters (2022 est.)<br>
@@ -683,6 +683,11 @@ Ecuadorian Civilian Space Agency (EXA; a civilian independent research and devel
 **Space program overview**<br>
 has a small program focused on acquiring or manufacturing satellites; builds scientific satellites; conducts research and develops some space-related technologies; has relationships with China and Russia's space agencies and industries, as well as the Latin American and Caribbean Space Agency (ALCE) and its member states (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+
+## Terrorism
+
+**Terrorist group(s)**<br>
+Los Choneros; Los Lobos<br>
 
 ## Transnational Issues
 

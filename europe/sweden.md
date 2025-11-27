@@ -350,7 +350,7 @@ _email address and website_: <br>ambassaden.washington@gov.se<br><br>https://www
 _consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Viraj LeBAILLY (since August 2025)<br>
+_chief of mission_: Ambassador Christine TORETTI (since 21 October 2025)<br>
 _embassy_: Dag Hammarskjolds Vag 31, SE-115 89 Stockholm<br>
 _mailing address_: 5750 Stockholm Place, Washington, DC&nbsp; 20521-5750<br>
 _telephone_: [46] (08) 783-53-00<br>

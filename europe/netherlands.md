@@ -265,8 +265,8 @@ _municipal solid waste generated annually_: 8.805 million tons (2024 est.)<br>
 _percent of municipal solid waste recycled_: 28.3% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 2,184,700,000 cubic meters (2022)<br>
-_industrial_: 5,784,500,000 cubic meters (2022)<br>
+_municipal_: 2.185 billion cubic meters (2022)<br>
+_industrial_: 5.784 billion cubic meters (2022)<br>
 _agricultural_: 265.086 million cubic meters (2022)<br>
 
 **Total renewable water resources**<br>
@@ -340,7 +340,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 11/22/2023<br>
 _parties elected and seats per party_: Party for Freedom (PVV) (37); Labour Party (PvdA) (25); People's Party for Freedom and Democracy (VVD) (24); New Social Contract (NSC) (20); Democrats 66 (D66) (9); Other (35)<br>
-_percentage of women in chamber_: 39.3%<br>
+_percentage of women in chamber_: 42.7%<br>
 _expected date of next election_: October 2025<br>
 
 **Legislative branch - upper chamber**<br>
@@ -369,7 +369,7 @@ _email address and website_: <br>was@minbuza.nl<br><br>https://www.netherlandswo
 _consulate(s) general_: Atlanta, Chicago, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Marcus MICHELI (since January 2025)<br>
+_chief of mission_: Ambassador Joseph POPOLO (since 29 October 2025)<br>
 _embassy_: John Adams Park 1, 2244 BZ Wassenaar<br>
 _mailing address_: 5780 Amsterdam Place, Washington DC&nbsp; 20521-5780<br>
 _telephone_: [31] (70) 310-2209<br>
@@ -702,7 +702,7 @@ the Dutch military is charged with the three core tasks of defending the country
 Netherlands Space Office (NSO; established 2009) (2025)<br>
 
 **Space program overview**<br>
-has a national space program focused on the development of advanced space technologies and services based on satellite data; builds and operates a range of satellites, including communications and remote sensing (RS); researches and develops technologies related to astrophysics, telecommunications, RS, propulsion systems, atmospheric measuring instruments (such as spectrometers), planetary/exoplanetary research, and robotics; founding member of the European Space Agency (ESA) and active in the EU space community; hosts the ESA's main research and technology center; participates in the construction of European satellite launch vehicles and a range of other European space programs, such as Copernicus Earth observation and the Galileo global navigation satellite system; participates in international space programs, including the International Space Station and the Square Kilometer Array Project; also works with other foreign space agencies and industries, including those of Japan and the the US; has a robust commercial space sector tied in to the larger European space economy (2025)<br>
+has a national space program focused on the development of advanced space technologies and services based on satellite data; builds and operates a range of satellites, including communications and remote sensing (RS); researches and develops technologies related to astrophysics, atmospheric measuring instruments (such as spectrometers), planetary/exoplanetary research, propulsion systems, RS, robotics, and telecommunications; founding member of the European Space Agency (ESA) and active in the EU space community; hosts the ESA's main research and technology center; participates in the construction of European satellite launch vehicles and a range of other European space programs, such as Copernicus Earth observation and the Galileo global navigation satellite system; participates in international space programs, including the International Space Station and the Square Kilometer Array Project; also works with other foreign space agencies and industries, including those of Japan and the US; has a robust commercial space sector tied in to the larger European space economy (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism

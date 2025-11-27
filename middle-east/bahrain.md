@@ -348,7 +348,7 @@ _email address and website_: <br>ambsecretary@bahrainembassy.org<br><br>https://
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Steven C. BONDY (since 9 February 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Elizabeth A. LITCHFIELD (since September 2025)<br>
 _embassy_: Building 979, Road 3119, Block 331, Zinj District, P.O. Box 26431, Manama<br>
 _mailing address_: 6210 Manama Place, Washington DC&nbsp; 20521-6210<br>
 _telephone_: [973] 17-242700<br>

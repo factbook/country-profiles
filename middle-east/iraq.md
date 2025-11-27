@@ -361,7 +361,7 @@ _email address and website_: <br>washington@scrdiraq.gov.iq<br><br>https://www.i
 _consulate(s) general_: Detroit, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Ambassador Steven H. FAGIN (since 29 May 2025); note - Ambassador Fagin has served as U.S. Ambassador to the Republic of Yemen since 2022 and will remain accredited as Ambassador there during his time in Baghdad<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Ambassador Joshua HARRIS (since 2 September 2025)<br>
 _embassy_: Al-Kindi Street, International Zone, Baghdad; note - consulate in Al Basrah closed as of 28 September 2018<br>
 _mailing address_: 6060 Baghdad Place, Washington DC&nbsp; 20521-6060<br>
 _telephone_: 0760-030-3000<br>
@@ -668,7 +668,7 @@ the Iraqi Security Forces (ISF) are primarily focused on internal and border sec
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); Jaysh Rijal al-Tariq al-Naqshabandi; Kata'ib Hizballah; Kurdistan Workers' Party (PKK)<br>
+Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Harakat al-Nujaba (HAN); Harakat Ansar Allah al-Awfiya (HAAA); Islamic State of Iraq and ash-Sham (ISIS); Jaysh Rijal al-Tariq al-Naqshabandi; Kata'ib Hizballah; Kata’ib al-Imam Ali (KIA); Kata’ib Sayyid al-Shuhada (KSS); Kurdistan Workers' Party (PKK)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues

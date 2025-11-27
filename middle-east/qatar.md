@@ -306,13 +306,13 @@ _election/appointment process_: the monarchy is hereditary; prime minister appoi
 **Legislative branch**<br>
 _legislature name_: Shura Council (Majlis Al-Shura)<br>
 _legislative structure_: unicameral<br>
-_number of seats_: 45 (30 directly elected; 15 appointed)<br>
+_number of seats_: 49 (all appointed)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 10/2/2021<br>
-_percentage of women in chamber_: 4.4%<br>
-_expected date of next election_: September 2025<br>
+_most recent election date_: 10/9/2025<br>
+_percentage of women in chamber_: 6.1%<br>
+_expected date of next election_: September 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Court of Cassation (consists of the court president and several judges); Supreme Constitutional Court (consists of the chief justice and 6 members)<br>

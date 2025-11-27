@@ -372,7 +372,7 @@ _email address and website_: <br>embassy@drembassyusa.org<br><br>http://drembass
 _consulate(s) general_: Boston, Chicago, Houston, Los Angelos, Miami, New Jersey, New Orleans, New York, Orlando, Philadelphia<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Patricia AGUILERA (since 1 October 2023)<br>
+_chief of mission_: Ambassador Leah F. CAMPOS (since 19 November 2025)<br>
 _embassy_: Av. Republica de Colombia #57, Santo Domingo<br>
 _mailing address_: 3470 Santo Domingo Place, Washington DC&nbsp; 20521-3470<br>
 _telephone_: (809) 567-7775<br>

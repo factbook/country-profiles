@@ -260,7 +260,7 @@ _percent of municipal solid waste recycled_: 35.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 500 million cubic meters (2022 est.)<br>
-_industrial_: 1,299,080,000 cubic meters (2022 est.)<br>
+_industrial_: 1.299 billion cubic meters (2022 est.)<br>
 _agricultural_: 1 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
@@ -350,7 +350,7 @@ _email address and website_: <br>sanomat.WAS@gov.fi<br><br>https://finlandabroad
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires J. Chris KARBER (since July 2025)<br>
+_chief of mission_: Ambassador Howard W. Brodie (since 13 November 2025)<br>
 _embassy_: Itainen Puistotie 14 B, 00140 Helsinki<br>
 _mailing address_: 5310 Helsinki Place, Washington DC&nbsp; 20521-5310<br>
 _telephone_: [358] (9) 616-250<br>

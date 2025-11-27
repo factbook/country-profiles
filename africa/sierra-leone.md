@@ -344,7 +344,7 @@ _FAX_: [1] (202) 483-1793<br>
 _email address and website_: <br>info@embassyofsierraleone.net<br><br>https://embassyofsierraleone.net/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Bryan David HUNT (since 8 September 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Jared M. YANCEY (since 18 September 2025)<br>
 _embassy_: Southridge-Hill Station, Freetown<br>
 _mailing address_: 2160 Freetown Place, Washington DC&nbsp; 20521-2160<br>
 _telephone_: [232] 99 105 000<br>

@@ -381,7 +381,7 @@ _email address and website_: <br>washingtonembmorocco@maec.gov.ma<br><br>Embassy
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Ben ZIFF (since 28 August 2025)<br>
+_chief of mission_: Ambassador-designate Richard Duke BUCHAN III; Charg&eacute; d'Affaires Ben ZIFF (since 28 August 2025)<br>
 _embassy_: Km 5.7 Avenue Mohammed VI, Souissi, Rabat 10170<br>
 _mailing address_: 9400 Rabat Place, Washington DC&nbsp; 20521-9400<br>
 _telephone_: [212] 0537-637-200<br>

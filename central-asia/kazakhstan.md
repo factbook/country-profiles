@@ -371,7 +371,7 @@ _email address and website_: <br>washington@mfa.kz<br><br>https://www.gov.kz/mem
 _consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d'Affaires Deborah ROBINSON (since January 2025)<br>
+_chief of mission_: Ambassador-designate Julie STUFFT; Charg&eacute; d'Affaires Deborah ROBINSON (since January 2025)<br>
 _embassy_: Rakhymzhan Koshkarbayev Avenue, No. 3, Astana 010010<br>
 _mailing address_: 2230 Astana Place, Washington DC&nbsp; 20521-2230<br>
 _telephone_: [7] (7172) 70-21-00<br>

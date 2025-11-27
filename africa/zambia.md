@@ -267,12 +267,12 @@ _municipal solid waste generated annually_: 2.608 million tons (2024 est.)<br>
 _percent of municipal solid waste recycled_: 12.6% (2022 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 290 million cubic meters (2020 est.)<br>
-_industrial_: 130 million cubic meters (2020 est.)<br>
-_agricultural_: 1.15 billion cubic meters (2020 est.)<br>
+_municipal_: 290 million cubic meters (2022 est.)<br>
+_industrial_: 130 million cubic meters (2022 est.)<br>
+_agricultural_: 1.152 billion cubic meters (2022 est.)<br>
 
 **Total renewable water resources**<br>
-104.8 billion cubic meters (2020 est.)<br>
+104.8 billion cubic meters (2022 est.)<br>
 
 ## Government
 
@@ -480,7 +480,7 @@ _highest 10%_: 39.1% (2022 est.)<br>
 
 **Budget**<br>
 _revenues_: $5.388 billion (2021 est.)<br>
-_expenditures_: $5.554 billion (2021 est.)<br>
+_expenditures_: $6.19 billion (2021 est.)<br>
 <b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated<br>
 
 **Public debt**<br>

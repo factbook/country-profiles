@@ -294,14 +294,14 @@ _expected date of next election_: 2025<br>
 **Legislative branch**<br>
 _legislature name_: National Assembly<br>
 _legislative structure_: unicameral<br>
-_number of seats_: 35 (all directly elected)<br>
+_number of seats_: 34 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 10/22/2020 to 10/24/2020<br>
-_parties elected and seats per party_: Seychelles Democratic Alliance (Linyon Demokratik Seselwa, LDS) (25); United Seychelles (US) (10)<br>
-_percentage of women in chamber_: 28.6%<br>
-_expected date of next election_: September 2025<br>
+_most recent election date_: 9/27/2025<br>
+_parties elected and seats per party_: United Seychelles (US) (19); Seychelles Democratic Alliance (Linyon Demokratik Seselwa, LDS) (15)<br>
+_percentage of women in chamber_: 26.5%<br>
+_expected date of next election_: September 2030<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Seychelles Court of Appeal (consists of the court president and 4 justices); Supreme Court of Seychelles (consists of the chief justice and 9 puisne judges); Constitutional Court (consists of 3 Supreme Court judges)<br>
@@ -319,9 +319,10 @@ _FAX_: [1] (212) 972-1786<br>
 _email address and website_: seychellesmission@sycun.org<br><br>Foreign Affairs Department Republic of Seychelles » United States of America (mfa.gov.sc)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Henry V. JARDINE (since 22 February 2023) and Charg&eacute; d&rsquo;Affaires Adham LOUTFI (since 6 October 2023); note - Ambassador JARDINE is posted in Mauritius and is accredited to Seychelles, and Charg&eacute; d&rsquo;Affaires LOUTFI is posted in Victoria, Seychelles<br>
+_chief of mission_: Ambassador Henry V. JARDINE (since 22 February 2023) and Charg&eacute; d&rsquo;Affaires Adham LOUTFI (since 6 October 2023); note - Ambassador JARDINE is posted in Mauritius and is accredited to Seychelles, and Charg&eacute; d&rsquo;Affaires LOUTFI is posted in Victoria, Mahe, Seychelles<br>
 _embassy_: 2nd Floor, Oliaji Trade Center, Victoria Mahe, Seychelles; note - US Embassy in Seychelles reopened on 1 June 2023 after having been closed in 1996<br>
 _telephone_: [248] 422 5256<br>
+_email address and website_: <br>USEmbassySeychelles@state.gov<br><br>https://sc.usembassy.gov/<br>
 
 **International organization participation**<br>
 ACP, AfDB, AOSIS, AU, C, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

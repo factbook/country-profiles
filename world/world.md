@@ -438,8 +438,7 @@ _total subscriptions_: 9,144,200,000 (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 112 (2024 est.)<br>
 
 **Internet users**<br>
-_percent of population_: 68% (2024 est.)<br>
-<strong>top ten countries by Internet usage (in millions):</strong> 854 China; 560 India; 293 United States; 171 Indonesia; 149 Brazil; 123 Nigeria; 119 Japan; 116 Russia; 96 Bangladesh; 88 Mexico (2023)<br>
+_percent of population_: 74% (2025 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,495,600,000 (2023 est.)<br>

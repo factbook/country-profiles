@@ -359,7 +359,7 @@ _email address and website_: <br>info@angola.org<br><br>https://angola.org/<br>
 _consulate(s) general_: Houston, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Ambassador Noah ZARING (since March 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Shannon Nagy CAZEAU (since 2 October 2025)<br>
 _embassy_: Rua Houari Boumedienne, #32, Luanda<br>
 _mailing address_: 2550 Luanda Place, Washington, DC 20521-2550<br>
 _telephone_: [244] (222) 64-1000<br>

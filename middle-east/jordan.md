@@ -373,7 +373,7 @@ _FAX_: [1] (202) 966-3110<br>
 _email address and website_: <br>hkjconsular@jordanembassyus.org<br><br>http://www.jordanembassyus.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Peter T. SHEA (since 29 June 2025)<br>
+_chief of mission_: Ambassador-designate James HOLTSNIDER (since October 2025)<br>
 _embassy_: Abdoun, Al-Umawyeen St., Amman<br>
 _mailing address_: 6050 Amman Place, Washington DC&nbsp; 20521-6050<br>
 _telephone_: [962] (6) 590-6000<br>

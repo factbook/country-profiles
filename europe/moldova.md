@@ -322,10 +322,10 @@ _number of seats_: 101 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 7/11/2021<br>
-_parties elected and seats per party_: Action and Solidarity Party (PAS) (63); Electoral Bloc of Communists and Socialists (BECS) (32); Șor Party (PPȘ) (6)<br>
-_percentage of women in chamber_: 40%<br>
-_expected date of next election_: September 2025<br>
+_most recent election date_: 9/28/2025<br>
+_parties elected and seats per party_: Action and Solidarity Party (PAS) (55); Electoral Bloc “Patriotic of Socialists, Communists, Heart and Future of Moldova” (26); Alternative Bloc (8); Our Party (6); Democracy at Home Party (6)<br>
+_percentage of women in chamber_: 37.6%<br>
+_expected date of next election_: September 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of the chief judge, 3 deputy-chief judges, 45 judges, and 7 assistant judges); Constitutional Court (consists of the court president and 6 judges)<br>

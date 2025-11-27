@@ -265,7 +265,7 @@ _percent of municipal solid waste recycled_: 6.4% (2022 est.)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 121.32 million cubic meters (2022 est.)<br>
-_industrial_: 2,078,970,000 cubic meters (2022 est.)<br>
+_industrial_: 2.079 billion cubic meters (2022 est.)<br>
 _agricultural_: 6.76 million cubic meters (2022 est.)<br>
 
 ## Government

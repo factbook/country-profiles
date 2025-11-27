@@ -100,7 +100,7 @@ none (territory of Australia)<br>
 **Diplomatic representation from the US**<br>
 _embassy_: none (territory of Australia)<br>
 
-**Flag description**<br>
+**Flag**<br>
 the flag of Australia is used<br>
 
 ## Economy

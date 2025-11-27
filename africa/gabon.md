@@ -319,24 +319,27 @@ _most recent election date_: 12 April 2025<br>
 _election results_: <em><br>2025: </em>Brice OLIGUI Nguema elected president; percent of vote - Brice OLIGUI Nguema (Ind.) 90.35%, Alain Claude Bilie By Nze (EPG) 3.02%, other 6.63%<br><em><br>2016: </em>Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0%<br>
 
 **Legislative branch**<br>
-_legislature name_: Transitional Parlement (Parliament de la transition)<br>
+_legislature name_: Parliament<br>
 _legislative structure_: bicameral<br>
 
 **Legislative branch - lower chamber**<br>
-_chamber name_: Transitional National Assembly (Assemblée nationale de la transition)<br>
-_number of seats_: 98 (all appointed)<br>
+_chamber name_: National Assembly (Assemblée nationale)<br>
+_number of seats_: 145 (all directly elected)<br>
+_electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
 _most recent election date_: 10/6/2023<br>
-_percentage of women in chamber_: 25.5%<br>
+_percentage of women in chamber_: 21.6%<br>
 _expected date of next election_: September 2025<br>
 
 **Legislative branch - upper chamber**<br>
-_chamber name_: Transitional Senate (Sénat de la transition)<br>
-_number of seats_: 70 (all appointed)<br>
+_chamber name_: Senate (Senate)<br>
+_number of seats_: 70 (all indirectly elected)<br>
 _scope of elections_: full renewal<br>
+_term in office_: 5 years<br>
 _most recent election date_: 10/6/2023<br>
 _percentage of women in chamber_: 20.3%<br>
-_expected date of next election_: August 2025<br>
+_expected date of next election_: November 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 4 permanent specialized supreme courts - Supreme Court or Cour de Cassation, Administrative Supreme Court or Conseil d'Etat, Accounting Supreme Court or Cour des Comptes, Constitutional Court or Cour Constitutionnelle, and the non-permanent Court of State Security, initiated only for cases of high treason by the president and criminal activity by executive branch officials)<br>
@@ -664,7 +667,7 @@ the Gabonese military is a small and lightly armed force that is responsible for
 Gabonese Studies and Space Observations Agency (Agence Gabonaise d&rsquo;Etudes et d&rsquo;Observations Spatiales or AGEOS; established 2015) (2025)<br>
 
 **Space program overview**<br>
-has a small space program focused on the acquisition, processing, analysis, and furnishing of data from remote sensing (RS) satellites for environmental management, mapping, natural resources, land use planning, and maritime surveillance, as well as research and innovation; member of the African Space Agency; has relationships with Brazil, China, the European Space Agency and its member states (particularly France), and the US, as well as African countries such as Kenya, Niger, Rwanda, and South Africa; shares RS data with neighboring countries (2025)<br>
+has a small space program focused on the acquisition, processing, analysis, and furnishing of data from remote sensing (RS) satellites for environmental management, mapping, natural resources, land use planning, and maritime surveillance, as well as research and innovation; member of the African Space Agency; has relationships with Brazil, China, the European Space Agency and its member states (particularly France), and the US, as well as African countries such as Kenya, Niger, Rwanda, and South Africa; shares RS satellite data with neighboring countries (2025)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues

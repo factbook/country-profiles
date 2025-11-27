@@ -339,7 +339,7 @@ _consulate(s) general_: Chicago, Los Angeles, New York, Seattle (WA)<br>
 _consulate(s)_: Anchorage (AL), Houston, Kansas City (MO),Minneapolis/St. Paul (MN), New Orleans, Pittsburgh (PA)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Trey LYONS (since January 2025)<br>
+_chief of mission_: Ambassador Nicole McGRAW (since 21 October 2025)<br>
 _embassy_: Ulica Thomasa Jeffersona 2, 10010 Zagreb<br>
 _mailing address_: 5080 Zagreb Place, Washington DC&nbsp; 20521-5080<br>
 _telephone_: [385] (1) 661-2200<br>
