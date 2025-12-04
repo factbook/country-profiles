@@ -683,8 +683,7 @@ Space Research and Technology Agency (UzCosmos or UzSpace; established 2019) (20
 <strong>note:</strong> Uzcosmos operates under the Ministry of Digital Technologies<br>
 
 **Space program overview**<br>
-has a small but growing space effort focused on acquiring satellites and developing the country’s space industries and technologies in key sectors, including cartography, data processing, environmental and disaster monitoring, land use, resource management, and telecommunications; developing a 10-year national space program; recognized for its astronomy program; member of international space organizations; cooperates with foreign space agencies or commercial companies from a variety of countries, including those of Canada, China, France, India, Israel, Japan, Kazakhstan, Russia, South Korea, Spain, Turkey, and UAE (2025)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+has a small but growing space effort focused on acquiring satellites and developing the country&rsquo;s space industries and technologies in key sectors, including cartography, data processing, environmental and disaster monitoring, land use, resource management, and telecommunications; recognized for its astronomy program; member of international space organizations; cooperates with foreign space agencies or commercial companies from a variety of countries, including those of Canada, China, France, India, Israel, Japan, Kazakhstan, Russia, South Korea, Spain, Turkey, and the UAE (2025)<br>
 
 ## Terrorism
 

@@ -352,9 +352,8 @@ _email address and website_: <br>Information@yemenembassy.org<br><br>https://www
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Steven H. FAGIN (since 1 June 2022); note - the embassy closed in March 2015; Yemen Affairs Unit currently operates out of US Embassy Riyadh<br>
-_embassy_: previously - Sa'awan Street, Sanaa<br>
 _mailing address_: 6330 Sanaa Place, Washington DC&nbsp; 20521-6330<br>
-_telephone_: US Embassy Riyadh [966] 11-488-3800<br>previously - [967] 1 755-2000<br>
+_telephone_: US Embassy Riyadh [966] 11-835-4000<br>
 _FAX_: US Embassy Riyadh [966] 11-488-7360<br>
 _email address and website_: <br>YemenEmergencyUSC@state.gov<br><br>https://ye.usembassy.gov/<br>
 

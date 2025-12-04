@@ -667,8 +667,7 @@ the Gabonese military is a small and lightly armed force that is responsible for
 Gabonese Studies and Space Observations Agency (Agence Gabonaise d&rsquo;Etudes et d&rsquo;Observations Spatiales or AGEOS; established 2015) (2025)<br>
 
 **Space program overview**<br>
-has a small space program focused on the acquisition, processing, analysis, and furnishing of data from remote sensing (RS) satellites for environmental management, mapping, natural resources, land use planning, and maritime surveillance, as well as research and innovation; member of the African Space Agency; has relationships with Brazil, China, the European Space Agency and its member states (particularly France), and the US, as well as African countries such as Kenya, Niger, Rwanda, and South Africa; shares RS satellite data with neighboring countries (2025)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+has a small space program focused on using data from remote sensing (RS) satellites for environmental and natural-resource management, mapping, land-use planning, maritime surveillance, and research; member of the African Space Agency; has relationships with Brazil, China, the ESA, individual ESA member states (particularly France), and the US, as well as African countries such as Kenya, Niger, Rwanda, and South Africa; shares RS satellite data with neighboring countries (2025)<br>
 
 ## Transnational Issues
 

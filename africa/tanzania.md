@@ -348,14 +348,14 @@ _expected date of next election_: October 2025<br>
 **Legislative branch**<br>
 _legislature name_: National Assembly (Bunge)<br>
 _legislative structure_: unicameral<br>
-_number of seats_: 403 (272 directly elected; 120 indirectly elected; 10 appointed)<br>
+_number of seats_: 403 (272 directly elected; 120 indirectly elected; 10 appointed; 1 other)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 10/28/2020<br>
-_parties elected and seats per party_: Revolutionary Party of Tanzania (CCM) (350); Chadema (Party for Democracy and Development) (20); Other (7)<br>
-_percentage of women in chamber_: 0%<br>
-_expected date of next election_: October 2025<br>
+_most recent election date_: 10/29/2025<br>
+_parties elected and seats per party_: Revolutionary Party of Tanzania (CCM) (403); ACT-Wazalendo (2)<br>
+_percentage of women in chamber_: 39.5%<br>
+_expected date of next election_: October 2030<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal of the United Republic of Tanzania (consists of the chief justice and 14 justices); High Court of the United Republic for Mainland Tanzania (consists of the principal judge and 30 judges organized into commercial, land, and labor courts); High Court of Zanzibar (consists of the chief justice and 10 justices)<br>

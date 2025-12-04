@@ -620,7 +620,6 @@ Syrian Space Agency (created in 2014); status is unclear since the fall of the A
 
 **Space program overview**<br>
 status unclear; has been handicapped by the impact of the civil war, including the loss of students and scientists who fled the country; had previously focused on satellite development and related space technologies, as well as scientific research; has relations with the space agency and space industries of Russia (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 

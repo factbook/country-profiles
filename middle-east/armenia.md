@@ -341,7 +341,7 @@ _judge selection and term of office_: Court of Cassation judges nominated by the
 _subordinate courts_: criminal and civil appellate courts; administrative appellate court; first instance courts; specialized administrative and bankruptcy courts<br>
 
 **Political parties**<br>
-Armenia Alliance or HD<br>Armenian National Congress or ANC<br>Bright Armenia<br>Civil Contract or KP<br>Country To Live In<br>Homeland of Armenians<br>Homeland Party<br>I Have Honor Alliance (formerly known as the Republican Party of Armenia) PUD<br>Liberal Party<br>National Democratic Party<br>Prosperous Armenia or BHK<br>Republic Party (Hanrapetutyun Party)<br>
+Armenia Alliance or HD<br>Armenian National Congress or ANC<br>Bright Armenia or BA<br>Civil Contract or KP<br>Hanrapetutyun Party or HP<br>Heritage<br>I Have Honor Alliance (formerly known as the Republican Party of Armenia) PUD<br>Orinats Yerkir or OY<br>Prosperous Armenia or PAP<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Narek MKRTCHYAN (since 19 September 2025)<br>

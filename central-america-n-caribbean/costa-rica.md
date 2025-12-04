@@ -653,8 +653,7 @@ Costa Rican Space Agency (ACE; established by legislation in 2021)  (2025)<br>
 <strong>note:</strong> ACE is a non-state, public entity subject to guidelines issued by the Ministry of Science, Technology, and Telecommunications of Costa Rica<br>
 
 **Space program overview**<br>
-has a small, recently established program focused on using space to develop the country’s economy and industry, including acquiring and utilizing satellites; has built a remote sensing (RS) cube satellite; has relations with the space agencies and commercial space industries of the US, the European Space Agency, and the Latin American and Caribbean Space Agency (2025)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+has a small, recently established program focused on using space to develop the country&rsquo;s economy and industry, including acquiring and using satellites; has built a remote sensing (RS) cube satellite; has relations with US space agencies and commercial space industries, as well as with the ESA and the Latin American and Caribbean Space Agency (2025)<br>
 
 ## Transnational Issues
 

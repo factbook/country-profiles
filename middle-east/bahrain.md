@@ -641,8 +641,7 @@ the military's inventory consists of a mix of equipment acquired from a wide var
 Bahrain Space Agency (BSA; established 2014) (2025)<br>
 
 **Space program overview**<br>
-has a national space program with a focus on promoting space research and science, applying space-related technologies, and building capacity in the fields of satellite manufacturing, tracking, control, data processing and analysis, and remote sensing; cooperates with a variety of foreign agencies and commercial entities, including those of India, Italy, Japan, Oman, Saudi Arabia, the UK, the UAE, and the US; also a member of the Arab Space Coordination Group (2025)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+focuses on promoting space research and science, applying space-related technologies, and building capacity in the fields of satellite manufacturing, tracking, control, data processing and analysis, and remote sensing; cooperates with a variety of foreign agencies and commercial entities, including those of India, Italy, Japan, Oman, Saudi Arabia, the UK, the UAE, and the US; also a member of the Arab Space Coordination Group (2025)<br>
 
 ## Terrorism
 

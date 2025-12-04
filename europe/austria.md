@@ -333,7 +333,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 9/29/2024<br>
 _parties elected and seats per party_: Freedom Party (FPÖ) (57); People's Party (ÖVP) (51); Social Democratic Party (SPÖ) (41); NEOS (“New Austria”) (18); Greens (16)<br>
-_percentage of women in chamber_: 36.1%<br>
+_percentage of women in chamber_: 35.5%<br>
 _expected date of next election_: September 2029<br>
 
 **Legislative branch - upper chamber**<br>
@@ -669,8 +669,7 @@ the military’s primary responsibilities are national defense and protecting Au
 Aeronautics and Space Agency (ALR; established in 1972 as the Austrian Space Agency) (2025)<br>
 
 **Space program overview**<br>
-established a national space program in 2002; develops, builds, operates, and tracks satellites, including remote sensing and research/scientific satellites; member of the European Space Agency (ESA) and the EU; works closely with ESA and EU member states and the commercial sector to develop a range of space capabilities and technologies, including applications for satellite payloads, space flight, and space research; participates in a range of ESA/EU programs, such as Space Surveillance and Tracking (SST), Copernicus Earth observation, and Galileo global navigation satellite system; also cooperates with other foreign space agencies and industries, including those of China, India, Russia, and the US (2025)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+established a national space program in 2002; develops, builds, operates, and tracks satellites, including remote sensing and research/scientific satellites; member of the ESA; works closely with ESA and EU member states and the commercial sector to develop a range of space capabilities and technologies, including applications for satellite payloads, space flight, and space research; participates in a range of ESA/EU programs, including Space Surveillance and Tracking (SST), Copernicus Earth observation, and Galileo global navigation satellite system; also cooperates with other foreign space agencies and industries, including those of China, India, Russia, and the US (2025)<br>
 
 ## Terrorism
 

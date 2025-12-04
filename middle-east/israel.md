@@ -664,8 +664,7 @@ Israel Space Agency (ISA; established 1983 under the Ministry of Science and Tec
 Palmachim Airbase (Central district) (2025)<br>
 
 **Space program overview**<br>
-has an ambitious space program and one of the most advanced in the region; designs, builds, operates, and launches communications, remote sensing (RS), and scientific satellites; designs, builds, and operates orbital satellite/space launch vehicles (SLVs); researches and develops a range of other space-related capabilities with a focus on lightweight and miniaturized technologies, including robotics and small satellites with high resolution RS imaging and communications capabilities; has relations with a variety of foreign space agencies and space industries, including those of Canada, the European Space Agency (and individual member states, such as France, Germany, and Italy), India, Japan, Mexico, and the US; has a substantial commercial space sector, as well as state-owned enterprises (2025)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+has an ambitious space program that is one of the most advanced in the region; designs, builds, operates, and launches communications, remote sensing (RS), and scientific satellites; designs, builds, and operates orbital satellite/space launch vehicles (SLVs); researches and develops a range of other space-related capabilities, with a focus on lightweight and miniaturized technologies; has relations with a variety of foreign space agencies and industries, including those of Canada, the ESA, individual ESA member states (such as France, Germany, and Italy), India, Japan, Mexico, and the US; has a substantial commercial space sector, as well as state-owned enterprises (2025)<br>
 
 ## Terrorism
 

@@ -346,7 +346,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 6/21/2021 to 9/30/2021<br>
 _parties elected and seats per party_: Prosperity Party (448); Other (22)<br>
-_percentage of women in chamber_: 41.9%<br>
+_percentage of women in chamber_: 29.7%<br>
 _expected date of next election_: June 2026<br>
 <strong>note:</strong> only 470 of the 547 seats in the House of People's Representatives were filled during the 2021 elections due to security issues in the Tigray State and other areas<br>
 
@@ -690,8 +690,7 @@ the Ethiopian National Defense Force (ENDF) is focused on both external threats 
 Ethiopian Space Science and Geospatial Institute (ESSGI; formed in 2022 from the joining of the Ethiopian Space Science and Technology Institute or ESSTI and the Ethiopian Geospatial Information Institute or EGII) (2025)<br>
 
 **Space program overview**<br>
-has a national space program focused on acquiring and operating satellites, as well as conducting research; jointly builds satellites with foreign partners and operates and exploits remote sensing (RS) satellites; developing the ability to manufacture satellites and their associated payloads; involved in astronomy and in the construction of space observatories; cooperates on space-related issues with a variety of countries, including China, France, India, Russia, and multiple African countries, particularly Kenya, Rwanda, Sudan, Tanzania, and Uganda; shares RS data with neighboring countries (2025)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+focuses on acquiring and operating satellites, as well as conducting research; jointly builds satellites with foreign partners, and operates and exploits remote sensing (RS) satellites; developing the ability to manufacture satellites and their payloads; involved in astronomy and the construction of space observatories; works with a variety of countries, including China, France, India, Russia, and multiple African countries, particularly Kenya, Rwanda, Sudan, Tanzania, and Uganda; shares RS data with neighboring countries (2025)<br>
 
 ## Terrorism
 

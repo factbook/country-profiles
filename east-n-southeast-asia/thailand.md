@@ -382,7 +382,7 @@ _email address and website_: <br>thai.wsn@thaiembdc.org<br><br>https://washingto
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Robert F. GODEC (since 7 October 2022)<br>
+_chief of mission_: Ambassador Robert F. GODEC (since 7 October 2022); note - Sean O'NEILL was sworn in as the Ambassador-designate on 12 November 2025 and is expected to arrive in Thailand in the near-term<br>
 _embassy_: 95 Wireless Road, Bangkok 10330<br>
 _mailing address_: 7200 Bangkok Place, Washington DC&nbsp; 20521-7200<br>
 _telephone_: [66] 2-205-4000<br>
@@ -710,14 +710,14 @@ the missions of the Royal Thai Armed Forces (RTARF) include defending the countr
 ## Space
 
 **Space agency/agencies**<br>
-Geo-Informatics and Space Technology Development Agency (GISTDA; created in 2000 from the Thailand Remote Sensing Center that was established in 1979; GISTDA is under the Ministry of Higher Education, Science, Research and Innovation); National Space Policy Committee (NSPC; advisory body to the prime minister) (2025)<br>
+Geo-Informatics and Space Technology Development Agency (GISTDA; created in 2000 from the Thailand Remote Sensing Center that was established in 1979); National Space Policy Committee (NSPC) (2025)<br>
+<strong>note:</strong> GISTDA is under the Ministry of Higher Education, Science, Research and Innovation; the NSPC is an advisory body to the prime minister<br>
 
 **Space launch site(s)**<br>
 none; in 2023, announced intentions to build a spaceport with South Korean assistance (2025)<br>
 
 **Space program overview**<br>
-has an ambitious and growing national space program focused on the acquisition, production, and operation of satellites, as well as research and development of related space infrastructure, sciences, and technologies; operates communications and remote sensing (RS) satellites; manufactures scientific/research/testing cube satellites and developing the capabilities to produce RS satellites (has historically built satellites with foreign assistance); cooperates with a range of foreign space agencies and industries, including those of other ASEAN countries, China, France, India, the Netherlands, Pakistan, Russia, South Korea, and the US; founding member of the China-led Asia-Pacific Space Cooperation Organization (APSCO); has a growing space industry, including Southeast Asia’s first dedicated satellite manufacturing facility, which opened in 2021 (2025)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+has an ambitious national space program focused on the acquisition, production, and operation of satellites, as well as research and development of related infrastructure, sciences, and technologies; operates communications and remote sensing (RS) satellites; manufactures scientific/research/testing cube satellites and is developing the capabilities to produce RS satellites (has historically built satellites with foreign assistance); works with a range of foreign space agencies and industries, including those of China, France, India, the Netherlands, Pakistan, Russia, South Korea, and the US; founding member of the China-led Asia-Pacific Space Cooperation Organization (APSCO); has a commercial space industry, including Southeast Asia&rsquo;s first dedicated satellite manufacturing facility, which opened in 2021 (2025)<br>
 
 ## Transnational Issues
 

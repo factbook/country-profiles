@@ -360,7 +360,7 @@ _subordinate courts_: High Court; district courts<br>
 Communist Party of Nepal (Maoist Centre) or CPN-MC<br>Communist Party of Nepal (Unified Marxist-Leninist) or CPN-UML<br>Communist Party of Nepal (Unified Socialist) or CPN-US<br>Janamat Party<br>Janata Samajbaadi Party or JSP<br>Loktantrik Samajwadi Party or LSP<br>Naya Shakti Party, Nepal<br>Nepali Congress or NC<br>Nepal Mazdoor Kisan Party (Nepal Workers' and Peasants' Party) or NWPP<br>Rastriya Janamorcha (National People's Front)<br>Rastriya Prajatantra Party (National Democratic Party) or RPP<br>Rastriya Swatantra Party or RSP<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Lok Darshan REGMI (since 11 June 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Sharad Raj ARAN (since November 2025)<br>
 _chancery_: 2730 34th Place NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 667-4550<br>
 _FAX_: [1] (202) 667-5534<br>

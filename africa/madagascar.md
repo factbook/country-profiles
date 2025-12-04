@@ -328,7 +328,7 @@ _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 5/29/2024<br>
-_parties elected and seats per party_: Isika Rehetra Miaraka Amin’i Andry Rajoelina (IRMAR) (84); Firaisankina (22); Independents (50); Other (7)<br>
+_parties elected and seats per party_: Isika Rehetra Miaraka Amin&rsquo;i Andry Rajoelina (IRMAR) (84); Firaisankina (22); Independents (50); Other (7)<br>
 _percentage of women in chamber_: 14.1%<br>
 _expected date of next election_: May 2029<br>
 

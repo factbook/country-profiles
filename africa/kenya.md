@@ -334,12 +334,12 @@ _legislative structure_: bicameral<br>
 
 **Legislative branch - lower chamber**<br>
 _chamber name_: National Assembly<br>
-_number of seats_: 350 (all directly elected)<br>
+_number of seats_: 350 (337 directly elected; 12 nominated by parties to represent special interests, including youths, people with disabilities, workers; the Speaker as ex-officio member)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 8/9/2022<br>
-_parties elected and seats per party_: United Democratic Alliance (UDA) (145); Orange Democratic Movement (ODM) (86); Jubilee Party (JP) (28); Wiper Democratic Movement-Kenya (WDM-K) (26); Others (19); Other (45)<br>
+_parties elected and seats per party_: United Democratic Alliance (UDA) (145); Orange Democratic Movement (ODM) (86); Jubilee Party (JP) (28); Wiper Democratic Movement-Kenya (WDM-K) (26); Others (52); Independents (12)<br>
 _percentage of women in chamber_: 23.4%<br>
 _expected date of next election_: August 2027<br>
 
@@ -691,8 +691,7 @@ Kenya Space Agency (KSA; established 2017) (2025)<br>
 Luigi Broglio Space Center (aka Malindi Space Center, Malindi Station, San Marco Satellite Launching and Tracking Station; Kilifi County; over 20 sounding rockets and nine satellites launched from the site, 1967-1989); in 2020, Kenya concluded a new deal with Italy to conduct rocket launches from the site again in the future (2025)<br>
 
 **Space program overview**<br>
-has a national space strategy focused on acquiring and applying space technologies and applications for agriculture, communications, disaster and resource management, security, urban planning, and weather monitoring; jointly develops and builds nanosatellites with foreign partners; operates satellites; researching and developing satellite payloads and imagery data analysis capabilities; has cooperated on space issues with China, Japan, India, Italy, and the US, as well as a variety African partners; member of the African Space Agency (2025)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+has a national space strategy focused on acquiring and applying space technologies for agriculture, communications, disaster and resource management, security, urban planning, and weather monitoring; jointly develops and builds nanosatellites with foreign partners; operates satellites; researching and developing satellite payloads and imagery data analysis capabilities; has cooperated on space issues with China, Japan, India, Italy, and the US, as well as a variety of African partners; member of the African Space Agency (2025)<br>
 
 ## Terrorism
 

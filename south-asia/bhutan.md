@@ -318,6 +318,7 @@ _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 4/20/2023<br>
+_parties elected and seats per party_: N/A; note - the National Council is not party-based<br>
 _percentage of women in chamber_: 12%<br>
 _expected date of next election_: April 2028<br>
 

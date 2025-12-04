@@ -671,8 +671,7 @@ the Hellenic Armed Forces (HAF) are responsible for protecting Greece’s indepe
 Hellenic Space Center (HSC; aka Hellenic Space Agency; established 2018) (2025)<br>
 
 **Space program overview**<br>
-space program focused on building and operating satellites for communications and remote sensing (RS) purposes; researches and develops space-related technologies in a variety of sectors, including agriculture, defense, environmental studies, RS, and telecommunications; has a national space strategy; as a member of the European Space Agency (ESA), it contributes to, participates in, and benefits from ESA capabilities and programs; also participates in EU space programs, such as Space Situational Awareness; also cooperates bilaterally with space agencies and commercial space sectors of ESA and EU member states, as well as the US; has a commercial space sector that researches, develops, and produces a variety of space technologies and capabilities, including satellite components, electronics, sensors, and telecommunications (2025)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+focuses on building and operating satellites for communications and remote sensing (RS); researches and develops space-related technologies in a variety of sectors, including agriculture, defense, environmental studies, RS, and telecommunications; contributes to and participates in ESA capabilities and programs; also participates in EU space programs and cooperates bilaterally with European and US space agencies and commercial space sectors; has a commercial space sector that researches, develops, and produces a variety of space technologies and capabilities (2025)<br>
 
 ## Terrorism
 

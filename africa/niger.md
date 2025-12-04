@@ -346,7 +346,7 @@ _scope of elections_: full renewal<br>
 _most recent election date_: 5/1/2025<br>
 _percentage of women in chamber_: 19.6%<br>
 _expected date of next election_: April 2030<br>
-<strong>Note:</strong> on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the National Assembly; a commission recommended to the junta in February 2025 a minimum of a five-year transition to democratic rule<br>
+<strong>Note 1:</strong> on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the National Assembly; a commission recommended to the junta in February 2025 a minimum of a five-year transition to democratic rule<br><br><strong>Note 2:</strong> In May 2025, Transitional President Tchiani signed decrees nominating 194 members of the Advisory Council for the Refoundation (Conseil consultatif de la refondation or CCR), CCR Bureau members, and the Speaker, Mamoudou Harouna Djingarey; the first session of the CCR convened on 28 June 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court of Justice (consists of 7 members); Supreme Court (membership NA); Constitutional Court (consists of 7 judges)<br>

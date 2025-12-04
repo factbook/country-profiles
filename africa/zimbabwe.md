@@ -658,8 +658,7 @@ Zimbabwe National Geospatial and Space Agency (ZINGSA; established in 2019 and o
 note: ZINGSA is under the Ministry of Higher and Tertiary Education, Science, and Technology Development<br>
 
 **Space program overview**<br>
-has a nascent program with the goal of utilizing space technologies in economic development, including remote sensing capabilities to assist with monitoring or managing agriculture and food security, climate change, disease outbreaks, environmental hazards and disasters, and natural resources, as well as weather forecasting; has cooperated with Japan and Russia (2025)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+has a nascent program with the goal of using space technologies in economic development, including remote sensing capabilities to assist with monitoring or managing agriculture, food security, climate change, disease outbreaks, environmental hazards and disasters, and natural resources, as well as weather forecasting; has cooperated with Japan and Russia (2025)<br>
 
 ## Transnational Issues
 

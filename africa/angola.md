@@ -673,7 +673,6 @@ National Space Program Office (Gabinete de Gest&atilde;o do Programa Espacial Na
 
 **Space program overview**<br>
 has a national space strategy with a focus on capacity-building, developing space infrastructure, investing in domestic space sector, supporting socioeconomic growth, and establishing cooperation agreements with foreign technical and scientific institutions in the space industry; contracts with foreign companies to build and launch satellites; operates satellites; cooperates with a variety of foreign space agencies and industries, including those of France, Portugal, Russia, the US, and other African countries; member of the African Space Agency (2025)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

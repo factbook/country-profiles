@@ -679,8 +679,7 @@ the military's inventory is comprised of mostly older or obsolescent equipment f
 Space Agency of Paraguay (Agencia Especial del Paraguay, AEP; established 2014) (2025)<br>
 
 **Space program overview**<br>
-has a small, recently established space program focused on the acquisition of satellites, satellite data, and the technologies and capabilities to manufacture satellites, as well as promoting in-country expertise building and space industry; a priority is acquiring remote sensing capabilities to support socio-economic develop, including resource mapping, weather, and crop monitoring; has built a cube satellite with foreign assistance; operates satellites; cooperates with foreign space agencies and industries, including those of India, Japan, Taiwan, the US, and member states of the Latin American and Caribbean Space Agency (2025)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+has a small, recently established space program focused on the acquisition of satellites, satellite data, and the technologies and capabilities to manufacture satellites, as well as promoting domestic expertise and industry; a priority is acquiring remote sensing capabilities to support socio-economic development, including resource mapping, weather, and crop monitoring; has built a cube satellite with foreign assistance; operates satellites; cooperates with foreign space agencies and industries, including those of India, Japan, Taiwan, the US, and member states of the Latin American and Caribbean Space Agency (2025)<br>
 
 ## Terrorism
 

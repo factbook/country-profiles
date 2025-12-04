@@ -354,8 +354,8 @@ _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 4/19/2024 to 6/1/2024<br>
-_parties elected and seats per party_: Bharatiya Janata Party (BJP) (240); Indian National Congress (INC) (99); Samajwadi Party (SP) (37); All India Trinamool Congress (AITC) (29); Other (138)<br>
-_percentage of women in chamber_: 13.8%<br>
+_parties elected and seats per party_: Bharatiya Janata Party (BJP) (240); Indian National Congress (INC) (99); Samajwadi Party (SP) (37); All India Trinamool Congress (AITC) (29); Independents (7); Other (131)<br>
+_percentage of women in chamber_: 13.7%<br>
 _expected date of next election_: April 2029<br>
 
 **Legislative branch - upper chamber**<br>
@@ -722,8 +722,7 @@ Indian Space Research Organization (ISRO; originally established in 1962 as the 
 Satish Dhawan Space Center (aka Sriharikota Range; located in Andhra Pradesh); Vikram Sarabhai Space Center (Kerala) (2025)<br>
 
 **Space program overview**<br>
-has one of the world’s largest space programs; designs, builds, launches, operates, and tracks the full spectrum of satellites, including communications, navigation, remote sensing (RS), and scientific/technology; designs, builds, and launches rockets, space/satellite launch vehicles (SLVs), and lunar/interplanetary probes; launches satellites for foreign partners; developing astronaut corps and human flight capabilities (with assistance from Russia, US); researching and developing additional space-related technologies and capabilities; has space-related agreements with more than 50 countries, including China, France, Germany, Japan, Russia, and the US, as well as the European Space Agency; participates in international space projects such as the Square Kilometer Array (SKA) radio telescope; the Department of Space administers two government-controlled space industry corporations; India also has a growing private space sector (2025)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+has one of the world&rsquo;s largest space programs; designs, builds, launches, operates, and tracks the full spectrum of satellites, including communications, navigation, remote sensing (RS), and scientific/technology; designs, builds, and launches rockets, space/satellite launch vehicles (SLVs), and lunar/interplanetary probes; launches satellites for foreign partners; researching and developing additional technologies and capabilities; developing astronaut program and human flight capabilities (with assistance from Russia and the US); has space-related agreements with the ESA and more than 50 countries, including China, France, Germany, Japan, Russia, and the US; participates in international projects such as the Square Kilometer Array radio telescope; the Department of Space administers two government-controlled space industry corporations; has a growing private space sector (2025)<br>
 
 ## Terrorism
 

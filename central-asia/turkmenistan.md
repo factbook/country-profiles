@@ -620,7 +620,6 @@ Turkmenistan National Space Agency (established 2011; transferred to the Space D
 
 **Space program overview**<br>
 has a small space program focused on acquiring satellites and developing the infrastructure to build and operate satellites; particularly interested in communications and remote sensing satellites; has cooperated with the space agencies and/or space industries of France, Italy, Russia, South Korea, and the US (2025)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

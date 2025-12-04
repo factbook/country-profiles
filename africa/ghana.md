@@ -686,8 +686,7 @@ Ghana Space Science and Technology Institute (GSSTI; established 2011) (2025)<br
 <strong>note:</strong> the GSSTI is eventually slated to become the Ghana Space Agency<br>
 
 **Space program overview**<br>
-has nascent space program focused on earth observation, space science education, and telecommunications; seeks to exploit remote sensing (RS) technology for agriculture, natural resource management, weather forecasting, and national security issues; relies on foreign imagery for analysis but seeks to develop its own RS satellite capabilities; has established cooperative relationships with China and Japan, as well as a number of regional states, particularly South Africa; cooperating with Egypt, Kenya, Nigeria, Sudan, and Uganda to establish a joint satellite to monitor climate changes in the African continent; member of the African Space Agency; partner of the Square Kilometer Array (SKA) international astronomy initiative (2025)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+has nascent space program focused on Earth observation, space science education, and telecommunications; seeks to exploit remote sensing (RS) technology for agriculture, natural-resource management, weather forecasting, and national security; relies on foreign imagery for analysis but seeks to develop its own RS satellite capabilities; has established cooperative relationships with China, Japan, and a number of regional states, particularly South Africa; working with Egypt, Kenya, Nigeria, Sudan, and Uganda on a satellite to monitor climate changes in the African continent; member of the African Space Agency; partner in the Square Kilometer Array radio telescope (2025)<br>
 
 ## Transnational Issues
 

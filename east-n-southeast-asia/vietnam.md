@@ -689,8 +689,7 @@ Vietnam National Space Center (VNSC; established 2011) (2025)<br>
 <strong>note:</strong> the VNSC is under the Vietnamese Academy of Science and Technology (VAST)<br>
 
 **Space program overview**<br>
-has a growing national space program focused on acquiring, operating, and exploiting satellites, as well as expanding domestic capabilities in satellites and associated sub-system production, space sciences, and technology applications; builds and operates communications and remote sensing satellites; conducting research and development on space science and applied space technologies, such as advanced optics and space data exploitation; has worked closely with Japan on its space program; cooperation has included funding, loans, training, technical expertise, and data sharing; has also established relationships with the space agencies or commercial space sectors of some European countries (such as France), India, and the US (2025)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+has a growing national space program focused on acquiring, operating, and exploiting satellites, as well as expanding domestic capabilities in satellites and associated sub-system production, space sciences, and technology applications; builds and operates communications and remote sensing satellites; conducting research and development on space science and applied space technologies, such as advanced optics and space data exploitation; has worked closely with Japan on its space program; has also established relationships with the space agencies or commercial space sectors of some European countries (such as France), India, and the US (2025)<br>
 
 ## Transnational Issues
 

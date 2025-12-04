@@ -345,7 +345,7 @@ _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 12/29/2024<br>
-_parties elected and seats per party_: Patriotic Salvation Movement (MPS) (124); Rally of Chadian Nationalists/Awakening (RNDT/ Le Réveil) (12); Others (27); Other (25)<br>
+_parties elected and seats per party_: Patriotic Salvation Movement (MPS) (124); Rally of Chadian Nationalists/Awakening (RNDT/ Le R&eacute;veil) (12); Others (52)<br>
 _percentage of women in chamber_: 33.5%<br>
 _expected date of next election_: December 2029<br>
 

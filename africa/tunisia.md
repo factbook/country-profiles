@@ -369,7 +369,7 @@ _FAX_: [1] (202) 862-1858<br>
 _email address and website_: <br>AT.Washington@Tunisiaembassy.org<br><br>https://www.tunisianembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Joey HOOD (since 2 February 2023)<br>
+_chief of mission_: Ambassador Bill BAZZI (since 21 November 2025)<br>
 _embassy_: Les Berges du Lac, 1053 Tunis<br>
 _mailing address_: 6360 Tunis Place, Washington DC&nbsp; 20521-6360<br>
 _telephone_: [216] 71-107-000<br>

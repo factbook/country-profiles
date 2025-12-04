@@ -649,8 +649,7 @@ the Azerbaijani military was established in 1991, although its origins go back t
 Space Agency of the Republic of Azerbaijan (Azercosmos; established 2010 as a state-owned satellite operating company); Azerbaijan National Aerospace Agency (NASA; Azərbaycan Milli Aerokosmik Agentliyi, MAKA; established 1992; since 2006, has operated under the Ministry of Defense Industry) (2025)<br>
 
 **Space program overview**<br>
-national space program largely focused on the acquisition and operation of satellites; operates foreign-built communications and remote sensing (RS) satellites; cooperates with a variety of foreign space agencies and commercial entities, including those of China, the European Space Agency (and bilaterally with individual member states such as France), Israel, Russia, Turkey, and the US; Azercosmos is the largest satellite operator in the Caucasus region (2025)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+largely focused on the acquisition and operation of satellites; operates foreign-built communications and remote sensing (RS) satellites; cooperates with a variety of foreign space agencies and commercial entities, including those of China, the ESA (bilaterally with individual member states such as France), Israel, Russia, Turkey, and the US; Azercosmos is the largest satellite operator in the Caucasus region (2025)<br>
 
 ## Terrorism
 

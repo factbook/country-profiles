@@ -681,8 +681,7 @@ the military is responsible for preserving Ecuador’s national sovereignty and 
 Ecuadorian Civilian Space Agency (EXA; a civilian independent research and development institution in charge of the administration and execution of Ecuador&rsquo;s space program, established 2007) (2025)<br>
 
 **Space program overview**<br>
-has a small program focused on acquiring or manufacturing satellites; builds scientific satellites; conducts research and develops some space-related technologies; has relationships with China and Russia's space agencies and industries, as well as the Latin American and Caribbean Space Agency (ALCE) and its member states (2025)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
+has a small program focused on acquiring and manufacturing satellites; builds scientific satellites; conducts research and develops some space-related technologies; has relationships with China and Russia's space agencies and industries, as well as the Latin American and Caribbean Space Agency and its member states (2025)<br>
 
 ## Terrorism
 

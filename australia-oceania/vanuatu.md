@@ -328,6 +328,7 @@ _email address and website_: <br>vanunmis@aol.com<br><br>https://www.un.int/vanu
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Ann Marie YASTISHOCK (since 16 April 2024); note - also accredited to the Papua New Guinea and the Solomon Islands, based in Port Moresby, Papua New Guinea<br>
 _embassy_: Port Vila<br>
+_email address and website_: <br>https://vt.usembassy.gov/<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IOM, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIF, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
