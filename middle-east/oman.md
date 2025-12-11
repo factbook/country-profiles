@@ -53,12 +53,12 @@ _mean elevation_: 310 m<br>
 petroleum, copper, asbestos, some marble, limestone, chromium, gypsum, natural gas<br>
 
 **Land use**<br>
-_agricultural land_: 4.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.3% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.4% (2022 est.)<br>
-_forest_: 0% (2022 est.)<br>
-_other_: 95.3% (2022 est.)<br>
+_agricultural land_: 4.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.4% (2023 est.)<br>
+_forest_: 0% (2023 est.)<br>
+_other_: 95.2% (2023 est.)<br>
 
 **Irrigated land**<br>
 1,162 sq km (2022)<br>
@@ -203,19 +203,19 @@ _male_: 17.9% (2025 est.)<br>
 _female_: 0.4% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-11.2% (2016/17)<br>
+11.2% (2017 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 56.4% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4.2% of GDP (2022 est.)<br>
+_Education expenditure (% GDP)_: 4.3% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 14.2% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_total population_: 97% (2022 est.)<br>
-_male_: 99% (2022 est.)<br>
-_female_: 95% (2022 est.)<br>
+_total population_: 97.3% (2022 est.)<br>
+_male_: 98.6% (2022 est.)<br>
+_female_: 94.9% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years (2021 est.)<br>
@@ -235,12 +235,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 dry desert; hot, humid along coast; hot, dry interior; strong southwest summer monsoon (May to September) in far south<br>
 
 **Land use**<br>
-_agricultural land_: 4.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.3% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.4% (2022 est.)<br>
-_forest_: 0% (2022 est.)<br>
-_other_: 95.3% (2022 est.)<br>
+_agricultural land_: 4.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.4% (2023 est.)<br>
+_forest_: 0% (2023 est.)<br>
+_other_: 95.2% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 88.4% of total population (2023)<br>
@@ -331,7 +331,7 @@ _number of seats_: 90 (all directly elected)<br>
 _electoral system_: other systems<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 10/29/2023<br>
+_most recent election date_: 11/1/2023<br>
 _percentage of women in chamber_: 0%<br>
 _expected date of next election_: October 2027<br>
 
@@ -340,7 +340,7 @@ _chamber name_: State Council (Majles Addawla)<br>
 _number of seats_: 87 (all appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 11/1/2023<br>
+_most recent election date_: 10/29/2023<br>
 _percentage of women in chamber_: 20.9%<br>
 _expected date of next election_: November 2027<br>
 

@@ -54,12 +54,12 @@ _mean elevation_: 470 m<br>
 bauxite, copper, calcium carbonate, gold, marble, hydropower, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 65.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 36.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 10.9% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 17.8% (2022 est.)<br>
-_forest_: 12.4% (2022 est.)<br>
-_other_: 22.5% (2022 est.)<br>
+_agricultural land_: 65.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 36.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 10.9% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.8% (2023 est.)<br>
+_forest_: 13.4% (2023 est.)<br>
+_other_: 21.5% (2023 est.)<br>
 
 **Irrigated land**<br>
 800 sq km (2013)<br>
@@ -205,7 +205,7 @@ _male_: 12.4% (2025 est.)<br>
 _female_: 2.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-9.5% (2016/17)<br>
+10.7% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 51.4% (2023 est.)<br>
@@ -216,7 +216,7 @@ _women married by age 18_: 14.9% (2017)<br>
 _men married by age 18_: 1.6% (2017)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 1.1% of GDP (2023 est.)<br>
+_Education expenditure (% GDP)_: 1% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 13.2% national budget (2025 est.)<br>
 
 **Literacy**<br>
@@ -237,12 +237,12 @@ _signed, but not ratified_: Nuclear Test Ban<br>
 tropical; semiarid where mountains in east cut off trade winds<br>
 
 **Land use**<br>
-_agricultural land_: 65.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 36.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 10.9% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 17.8% (2022 est.)<br>
-_forest_: 12.4% (2022 est.)<br>
-_other_: 22.5% (2022 est.)<br>
+_agricultural land_: 65.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 36.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 10.9% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.8% (2023 est.)<br>
+_forest_: 13.4% (2023 est.)<br>
+_other_: 21.5% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 59.7% of total population (2023)<br>
@@ -317,7 +317,7 @@ _cabinet_: Cabinet chosen by the prime minister in consultation with the preside
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a single non-consecutive term)<br>
 _most recent election date_: 20 November 2016<br>
 _election results_: <br><em>2016:</em> Jovenel MOÏSE elected president in first round; percent of vote - Jovenel MOÏSE (PHTK) 55.6%, Jude CELESTIN (LAPEH) 19.6%, Jean-Charles MOÏSE (PPD) 11%, Maryse NARCISSE (FL) 9%; other 4.8%<br><br><em>2011:</em> Michel MARTELLY elected president in second round; percent of vote in second round - Michel MARTELLY (Peasant's Response) 68%, Mirlande MANIGAT (RDNP) 32%<br>
-_expected date of next election_: elections were delayed in 2022 and 2023 and have not been rescheduled<br>
+_expected date of next election_: 30 August 2026<br>
 <strong>note:</strong> former Prime Minister Ariel HENRY, who had assumed executive responsibilities following the assassination of President MOÏSE on 7 July 2021, resigned on 24 April 2024; a nine-member Presidential Transitional Council, equipped with presidential powers, was sworn in on 25 April 2024 and will remain in place until 7 February 2026<br>
 
 **Legislative branch**<br>
@@ -326,7 +326,7 @@ _legislative structure_: bicameral<br>
 <strong>note 1:</strong> when the two chambers meet collectively, it is known as the National Assembly (or L'Assemblée nationale) and is convened for specific purposes spelled out in the constitution<br><strong><br>note 2:</strong> as of October 2024, the Senate and Chamber of Deputies were not functional<br>
 
 **Legislative branch - lower chamber**<br>
-_chamber name_: Chamber of Deputies (Chambre des Députés)<br>
+_chamber name_: Chamber of Deputies (Chambre des D&eacute;put&eacute;s)<br>
 _number of seats_: 119 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
@@ -334,7 +334,7 @@ _term in office_: 4 years<br>
 _most recent election date_: 8/9/2015 to 10/25/2015<br>
 _parties elected and seats per party_: Haitian Tet Kale Party (PHTK) (9); Konvansyon Inite Demokratik (KID) (7); Ayiti an aksyon (AAA) (6); Fanmi Lavalas (6); Patriotic Unity Party (Inite Patriyotik) (4); People's Struggle Party (OPL) (7); Other (24)<br>
 _percentage of women in chamber_: 0%<br>
-_expected date of next election_: December 2025<br>
+_expected date of next election_: August 2026<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate (Sénat)<br>
@@ -344,7 +344,7 @@ _scope of elections_: partial renewal<br>
 _term in office_: 6 years<br>
 _most recent election date_: 11/20/2016 to 1/29/2017<br>
 _parties elected and seats per party_: Haitian Tet Kale Party (PHTK) (9); Truth (Vérité) (3); Konvansyon Inite Demokratik (KID) (2); Bouclier (2); Ayiti an aksyon (AAA) (2); Other (10)<br>
-_expected date of next election_: December 2025<br>
+_expected date of next election_: August 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour de cassation (consists of 12 judges)<br>

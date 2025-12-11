@@ -54,12 +54,12 @@ negligible mineral resources, fish <br>
 <strong>note:</strong> with virtually no natural energy resources, Japan is almost totally dependent on imported sources of energy<br>
 
 **Land use**<br>
-_agricultural land_: 12.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 11.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.9% (2022 est.)<br>
-_forest_: 68.4% (2022 est.)<br>
-_other_: 18.9% (2022 est.)<br>
+_agricultural land_: 12.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 11.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.9% (2023 est.)<br>
+_forest_: 68.3% (2023 est.)<br>
+_other_: 19% (2023 est.)<br>
 
 **Irrigated land**<br>
 15,730 sq km (2014)<br>
@@ -203,7 +203,7 @@ _female_: 7.2% (2025 est.)<br>
 46.8% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 3.2% of GDP (2022 est.)<br>
+_Education expenditure (% GDP)_: 3.3% of GDP (2021 est.)<br>
 _Education expenditure (% national budget)_: 7.5% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
@@ -224,12 +224,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 varies from tropical in south to cool temperate in north<br>
 
 **Land use**<br>
-_agricultural land_: 12.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 11.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.9% (2022 est.)<br>
-_forest_: 68.4% (2022 est.)<br>
-_other_: 18.9% (2022 est.)<br>
+_agricultural land_: 12.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 11.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.9% (2023 est.)<br>
+_forest_: 68.3% (2023 est.)<br>
+_other_: 19% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 92% of total population (2023)<br>
@@ -324,7 +324,7 @@ _number of seats_: 465 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 10/27/2024<br>
+_most recent election date_: 7/20/2025<br>
 _parties elected and seats per party_: Liberal Democratic Party (LDP) (191); Constitutional Democratic Party of Japan (148); Nippon Ishin (Japan Innovation Party) (38); Democratic Party for the People (28); Komeito (24); Other (36)<br>
 _percentage of women in chamber_: 15.7%<br>
 _expected date of next election_: October 2028<br>
@@ -335,7 +335,7 @@ _number of seats_: 248 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: partial renewal<br>
 _term in office_: 6 years<br>
-_most recent election date_: 7/20/2025<br>
+_most recent election date_: 10/27/2024<br>
 _parties elected and seats per party_: Liberal Democratic Party (LDP) (39); Constitutional Democratic Party of Japan (22); Democratic Party for the People (17); Sanseito (14); Komeito (8); Nippon Ishin (Japan Innovation Party) (7); Independents (8); Other (10)<br>
 _percentage of women in chamber_: 29.4%<br>
 _expected date of next election_: June 2028<br>
@@ -693,6 +693,9 @@ Tanegashima Space Center/Yoshinobu Launch Complex (Kagoshima), Uchinoura Space C
 
 **Space program overview**<br>
 has one of the world&rsquo;s largest and most advanced space programs, with independent capabilities in all areas except autonomous manned space flight; designs, builds, launches, and operates the full spectrum of satellites; designs, builds, and independently launches satellite/space launch vehicles (SLVs) and other spacecraft; has a wide range of research and development programs; has an astronaut training program; participates in international programs such as the International Space Station and the Square Kilometer Array radio telescope project; leads the Asia-Pacific Regional Space Agency Forum and co-leads the Global Earth Observation System of Systems; cooperates with a variety of foreign space agencies and industries, including those of Canada, the ESA and its member states, India, Russia, the UAE, the US; has a commercial space industry that develops space-related capabilities and technologies, including satellites, satellite payloads and subcomponents, and SLVs; in recent years, the Japanese Government has supported space startup companies (2025)<br>
+
+**Key space-program milestones**<br>
+1966-1970 - initiated satellite launch vehicle (SLV) program and launched first domestically produced satellite (OHSUMI)<br><br>1985 - launched two Halley’s Comet observation satellites (Japan’s first missions beyond Earth’s orbit)<br><br>1992 - first astronaut in space on US Space Shuttle<br><br>1998 - launched its first Mars orbiter (failed to enter orbit)<br><br>2003 - launched world’s first uncrewed spacecraft (Hayabusa 1) to return with a sample from an asteroid (2010)<br><br>2007 - launched Lunar orbiter (Kaguya) mission<br><br>2010 - launched Venus orbiter (Akatsuki) mission<br><br>2014 - launched asteroid probe with lander/rover (Hayabusa 2); first Japanese International Space Station commander<br><br>2018 - launched joint Japan-ESA probe to Mercury (BepiColombo); began operation of a navigational/positioning satellite constellation (Quasi-Zenith Satellite System, QZSS)<br><br>2019 - began participating in US-led lunar orbital station and Moon exploration programs <br><br>2024 - soft-landed unmanned spacecraft (Smart Lander for Investigating Moon or SLIM) on the Moon; conducted first successful test launch of domestically produced H3 medium-lift SLV<br>
 
 ## Terrorism
 

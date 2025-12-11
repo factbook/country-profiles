@@ -53,12 +53,12 @@ _mean elevation_: 360 m<br>
 copper, mahogany forests, shrimp, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 29.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 7.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 20.3% (2022 est.)<br>
-_forest_: 56.5% (2022 est.)<br>
-_other_: 14.1% (2022 est.)<br>
+_agricultural land_: 29.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 7.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 20.3% (2023 est.)<br>
+_forest_: 62.3% (2023 est.)<br>
+_other_: 8.2% (2023 est.)<br>
 
 **Irrigated land**<br>
 394 sq km (2022)<br>
@@ -202,19 +202,19 @@ _male_: 7.4% (2025 est.)<br>
 _female_: 1.7% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-2.9% (2019)<br>
+2.9% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 58.6% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 3.9% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 11.9% national budget (2023 est.)<br>
+_Education expenditure (% GDP)_: 2.5% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 16.3% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_total population_: 96% (2019 est.)<br>
-_male_: 96% (2019 est.)<br>
-_female_: 95% (2019 est.)<br>
+_total population_: 96.3% (2024 est.)<br>
+_male_: 97.3% (2024 est.)<br>
+_female_: 95.9% (2024 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years (2016 est.)<br>
@@ -234,12 +234,12 @@ _signed, but not ratified_: Marine Life Conservation<br>
 tropical maritime; hot, humid, cloudy; prolonged rainy season (May to January), short dry season (January to May)<br>
 
 **Land use**<br>
-_agricultural land_: 29.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 7.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 20.3% (2022 est.)<br>
-_forest_: 56.5% (2022 est.)<br>
-_other_: 14.1% (2022 est.)<br>
+_agricultural land_: 29.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 7.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 20.3% (2023 est.)<br>
+_forest_: 62.3% (2023 est.)<br>
+_other_: 8.2% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 69.5% of total population (2023)<br>
@@ -285,7 +285,7 @@ _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 _etymology_: origin is unclear; may come from a Guaran&iacute; word meaning "place of many fish"<br>
 
 **Administrative divisions**<br>
-10 provinces (<em>provincias</em>, singular - <em>provincia</em>) and 4 indigenous regions* (<em>comarcas</em>); Bocas del Toro, Chiriqui, Cocle, Colon, Darien, Embera-Wounaan*, Guna Yala*, Herrera, Los Santos, Naso Tjer Di*, Ngabe-Bugle*, Panama, Panama Oeste, Veraguas<br>
+10 provinces (<em>provincias</em>, singular - <em>provincia</em>) and 4 indigenous regions* (<em>comarcas</em>); Bocas del Toro, Chiriquí, Coclé, Colon, Darien, Embera-Wounaan*, Guna Yala*, Herrera, Los Santos, Naso Tjer Di*, Ngabe-Bugle*, Panama, Panama Oeste, Veraguas<br>
 
 **Legal system**<br>
 civil law system; Supreme Court of Justice reviews legislative acts<br>

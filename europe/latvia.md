@@ -53,12 +53,12 @@ _mean elevation_: 87 m<br>
 peat, limestone, dolomite, amber, hydropower, timber, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 31.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 21.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.7% (2022 est.)<br>
-_forest_: 54.9% (2022 est.)<br>
-_other_: 13.4% (2022 est.)<br>
+_agricultural land_: 31.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 21.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.7% (2023 est.)<br>
+_forest_: 55.5% (2023 est.)<br>
+_other_: 12.8% (2023 est.)<br>
 
 **Irrigated land**<br>
 6 sq km (2016)<br>
@@ -195,12 +195,15 @@ _total_: 28.8% (2025 est.)<br>
 _male_: 43.5% (2025 est.)<br>
 _female_: 16.4% (2025 est.)<br>
 
+**Children under the age of 5 years underweight**<br>
+0.3% (2021 est.)<br>
+
 **Currently married women (ages 15-49)**<br>
 49.1% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 5.4% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 13.1% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 4.3% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 9.9% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years (2023 est.)<br>
@@ -220,12 +223,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 maritime; wet, moderate winters<br>
 
 **Land use**<br>
-_agricultural land_: 31.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 21.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.7% (2022 est.)<br>
-_forest_: 54.9% (2022 est.)<br>
-_other_: 13.4% (2022 est.)<br>
+_agricultural land_: 31.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 21.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.7% (2023 est.)<br>
+_forest_: 55.5% (2023 est.)<br>
+_other_: 12.8% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 68.7% of total population (2023)<br>
@@ -321,7 +324,7 @@ _judge selection and term of office_: Supreme Court judges nominated by chief ju
 _subordinate courts_: district (city) and regional courts<br>
 
 **Political parties**<br>
-Development/For! or AP!<br>For Stability or S!<br>For Latvia's Development LA<br>Harmony or S<br>Honor to Serve Riga! or GKR<br>Latvia First LPV<br>Latvian Green Party or LZP<br>National Alliance or NA<br>New Unity or JV<br>People, Land, Statehood TZV<br>Social Democratic Party "Harmony" or S<br>The Progressives or PRO<br>Union of Greens and Farmers or ZZS<br>United List or AS<br>We for Talsi and Municipality or MTuN<br>
+For Stability or S!<br>For Latvia's Development or LA<br>Harmony or S<br>Honor to Serve Riga! or GKR<br>Latvia First or LPV<br>National Alliance or NA<br>New Unity or JV<br>People. Land. Statehood. or TZV<br>The Progressives or PRO<br>Union of Greens and Farmers or ZZS<br>United List or AS<br>We for Talsi and Municipality or MTuN<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Elita KUZMA (since 18 September 2024)<br>
@@ -634,7 +637,7 @@ the Latvian military's inventory consists of a mix of European and US weapons an
 <strong>note 1:</strong> conscription was reintroduced in 2024<br><br><strong>note 2:</strong> as of 2024, women comprised about 16.5% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-135 Kosovo (KFOR/NATO) (2024)<br>
+140 Kosovo (KFOR/NATO) (2025)<br>
 
 **Military - note**<br>
 the National Armed Forces are responsible for the defense of the country’s sovereignty and territory; they also have some domestic security responsibilities, including coast guard functions, search and rescue, humanitarian assistance, and providing support to other internal security services; the Military Police provides protection to the president and other government officials, foreign dignitaries, and key facilities; Latvia’s primary external security focus is Russia<br><br>in 2004, Latvia joined NATO and the EU, both of which it depends on to play a decisive role in Latvia’s security policy; the Latvian military has participated in EU and NATO missions abroad and regularly conducts training and exercises with EU and NATO partner forces; Latvia also hosts NATO partner forces; since 2017, it has hosted a Canadian-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; in addition, NATO has provided air protection for Latvia since 2004 through its Baltics Air Policing mission<br><br>Latvia is a member of the UK-led Joint Expeditionary Force, a pool of high-readiness military forces from 10 Baltic and Scandinavian countries designed to respond to a wide range of contingencies in the North Atlantic, Baltic Sea, and High North regions (2025)<br>

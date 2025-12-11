@@ -52,12 +52,12 @@ _mean elevation_: 118 m<br>
 natural gas, peat, copper, lead, zinc, silver, barite, gypsum, limestone, dolomite<br>
 
 **Land use**<br>
-_agricultural land_: 63.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 6.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 56.6% (2022 est.)<br>
-_forest_: 11.5% (2022 est.)<br>
-_other_: 25.4% (2022 est.)<br>
+_agricultural land_: 60.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 6.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 54.4% (2023 est.)<br>
+_forest_: 11.9% (2023 est.)<br>
+_other_: 27.3% (2023 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -203,8 +203,8 @@ _female_: 14.4% (2025 est.)<br>
 52.1% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 3% of GDP (2021 est.)<br>
-_Education expenditure (% national budget)_: 12% national budget (2021 est.)<br>
+_Education expenditure (% GDP)_: 2.9% of GDP (2021 est.)<br>
+_Education expenditure (% national budget)_: 12.3% national budget (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years (2022 est.)<br>
@@ -224,12 +224,12 @@ _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Multi-effe
 temperate maritime; modified by North Atlantic Current; mild winters, cool summers; consistently humid; overcast about half the time<br>
 
 **Land use**<br>
-_agricultural land_: 63.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 6.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 56.6% (2022 est.)<br>
-_forest_: 11.5% (2022 est.)<br>
-_other_: 25.4% (2022 est.)<br>
+_agricultural land_: 60.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 6.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 54.4% (2023 est.)<br>
+_forest_: 11.9% (2023 est.)<br>
+_other_: 27.3% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 64.5% of total population (2023)<br>
@@ -320,7 +320,7 @@ _number of seats_: 174 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 11/29/2024<br>
+_most recent election date_: 1/29/2025 to 1/30/2025<br>
 _parties elected and seats per party_: Fianna Fáil (48); Sinn Féin (39); Fine Gael (38); Social Democratic Party (11); Labour Party (11); Independents (16); Other (11)<br>
 _percentage of women in chamber_: 25.3%<br>
 _expected date of next election_: November 2029<br>
@@ -330,7 +330,7 @@ _chamber name_: Senate (Seanad Éireann - Senate)<br>
 _number of seats_: 60 (49 indirectly elected; 11 appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 1/29/2025 to 1/30/2025<br>
+_most recent election date_: 11/29/2024<br>
 _parties elected and seats per party_: Fianna Fail (19); Fine Gael (18); Sinn Fein (6); Independents (12); other (5)<br>
 _percentage of women in chamber_: 45%<br>
 _expected date of next election_: January 2030<br>

@@ -51,12 +51,12 @@ _mean elevation_: 2,161 m<br>
 water, agricultural and grazing land, diamonds, sand, clay, building stone<br>
 
 **Land use**<br>
-_agricultural land_: 74.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 8.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 65.9% (2022 est.)<br>
-_forest_: 1.1% (2022 est.)<br>
-_other_: 24.1% (2022 est.)<br>
+_agricultural land_: 77.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 11.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 65.9% (2023 est.)<br>
+_forest_: 1.1% (2023 est.)<br>
+_other_: 21.1% (2023 est.)<br>
 
 **Irrigated land**<br>
 12 sq km (2013)<br>
@@ -203,7 +203,7 @@ _male_: 42.4% (2025 est.)<br>
 _female_: 4.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-10.5% (2018)<br>
+12.5% (2024 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 53.7% (2023 est.)<br>
@@ -218,9 +218,9 @@ _Education expenditure (% GDP)_: 6.6% of GDP (2024 est.)<br>
 _Education expenditure (% national budget)_: 10.4% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_total population_: 86.2% (2018 est.)<br>
-_male_: 80.2% (2018 est.)<br>
-_female_: 91.8% (2018 est.)<br>
+_total population_: 90.4% (2024 est.)<br>
+_male_: 83.2% (2024 est.)<br>
+_female_: 96.6% (2024 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years (2017 est.)<br>
@@ -240,12 +240,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; cool to cold, dry winters; hot, wet summers<br>
 
 **Land use**<br>
-_agricultural land_: 74.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 8.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 65.9% (2022 est.)<br>
-_forest_: 1.1% (2022 est.)<br>
-_other_: 24.1% (2022 est.)<br>
+_agricultural land_: 77.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 11.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 65.9% (2023 est.)<br>
+_forest_: 1.1% (2023 est.)<br>
+_other_: 21.1% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 30.4% of total population (2023)<br>
@@ -329,7 +329,7 @@ _number of seats_: 122 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 10/7/2022<br>
+_most recent election date_: 11/2/2022<br>
 _parties elected and seats per party_: Revolution for Prosperity (RFP) (56); Democratic Congress (DC) (29); All Basotho Convention (ABC) (8); Basotho Action Party (BAP) (6); Other (20)<br>
 _percentage of women in chamber_: 25%<br>
 _expected date of next election_: October 2027<br>
@@ -339,7 +339,7 @@ _chamber name_: Senate<br>
 _number of seats_: 33 (11 appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 11/2/2022<br>
+_most recent election date_: 10/7/2022<br>
 _percentage of women in chamber_: 21.2%<br>
 _expected date of next election_: November 2027<br>
 

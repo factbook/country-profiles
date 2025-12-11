@@ -54,12 +54,12 @@ _mean elevation_: 69 m<br>
 fish, phosphates, iron ore<br>
 
 **Land use**<br>
-_agricultural land_: 49.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 19.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 29.1% (2022 est.)<br>
-_forest_: 41.5% (2022 est.)<br>
-_other_: 9.1% (2022 est.)<br>
+_agricultural land_: 49.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 19.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 29.1% (2023 est.)<br>
+_forest_: 45.1% (2023 est.)<br>
+_other_: 5.5% (2023 est.)<br>
 
 **Irrigated land**<br>
 1,200 sq km (2012)<br>
@@ -212,7 +212,7 @@ _male_: 10.5% (2025 est.)<br>
 _female_: 0.5% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-14.4% (2019)<br>
+16.2% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 65.3% (2023 est.)<br>
@@ -249,12 +249,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; hot, humid; rainy season (May to November) has strong southeast winds; dry season (December to April) dominated by hot, dry, harmattan wind<br>
 
 **Land use**<br>
-_agricultural land_: 49.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 19.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 29.1% (2022 est.)<br>
-_forest_: 41.5% (2022 est.)<br>
-_other_: 9.1% (2022 est.)<br>
+_agricultural land_: 49.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 19.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 29.1% (2023 est.)<br>
+_forest_: 45.1% (2023 est.)<br>
+_other_: 5.5% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 49.6% of total population (2023)<br>
@@ -666,7 +666,10 @@ the Senegalese military is responsible for both territorial defense and internal
 Senegalese Space Study Agency (Agence S&eacute;n&eacute;galaise d'Etudes Spatiales or ASES; launched in 2023 under the Ministry of Higher Education, Research, and Innovation) (2025)<br>
 
 **Space program overview**<br>
-small, nascent program focused on earth observation capabilities, largely for climate resilience, environmental management, research, and socio-economic development; conducts research in such fields as astronomy and planetary sciences; has cooperated with the European Space Agency, and the space agencies of China, France, Turkey, and the US (2025)<br>
+small, nascent program focused on earth observation/remote sensing capabilities, largely for climate resilience, environmental management, research, and socio-economic development; conducts research in fields such as astronomy and planetary sciences; has cooperated with space agencies in China, France, Turkey, and the US, as well as the ESA (2025)<br>
+
+**Key space-program milestones**<br>
+2023 - signed cooperation agreement with ESA to leverage space technology for socio-economic growth; established a space control center to provide infrastructure for satellite manufacturing and satellite services<br><br>2024 - first Earth observation/remote sensing nanosatellite (GaindeSat-1A) built with French assistance and launched by US; signed agreement with Turkey on space infrastructure advancement; agreed to participate in China's lunar exploration/research station project<br><br>2025 - signed US-led Artemis Accords for space and lunar exploration; signed agreement with France for capacity development in space infrastructure and Earth observation initiatives<br>
 
 ## Terrorism
 

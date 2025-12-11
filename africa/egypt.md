@@ -54,12 +54,12 @@ _mean elevation_: 321 m<br>
 petroleum, natural gas, iron ore, phosphates, manganese, limestone, gypsum, talc, asbestos, lead, rare earth elements, zinc<br>
 
 **Land use**<br>
-_agricultural land_: 4.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 3.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
+_agricultural land_: 4.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 3.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 0% (2022 est.)<br>
-_other_: 95.9% (2022 est.)<br>
+_forest_: 0% (2023 est.)<br>
+_other_: 95.9% (2023 est.)<br>
 
 **Irrigated land**<br>
 36,500 sq km (2012)<br>
@@ -216,6 +216,9 @@ _total_: 25.8% (2025 est.)<br>
 _male_: 51% (2025 est.)<br>
 _female_: 0.3% (2025 est.)<br>
 
+**Children under the age of 5 years underweight**<br>
+3.7% (2021 est.)<br>
+
 **Currently married women (ages 15-49)**<br>
 71.1% (2023 est.)<br>
 
@@ -228,9 +231,9 @@ _Education expenditure (% GDP)_: 3.9% of GDP (2015 est.)<br>
 _Education expenditure (% national budget)_: 12% national budget (2015 est.)<br>
 
 **Literacy**<br>
-_total population_: 71% (2017 est.)<br>
-_male_: 76% (2017 est.)<br>
-_female_: 66% (2017 est.)<br>
+_total population_: 79.5% (2022 est.)<br>
+_male_: 85.3% (2022 est.)<br>
+_female_: 73.3% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years (2023 est.)<br>
@@ -250,12 +253,12 @@ _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 desert; hot, dry summers with moderate winters<br>
 
 **Land use**<br>
-_agricultural land_: 4.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 3.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
+_agricultural land_: 4.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 3.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 0% (2022 est.)<br>
-_other_: 95.9% (2022 est.)<br>
+_forest_: 0% (2023 est.)<br>
+_other_: 95.9% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 43.1% of total population (2023)<br>
@@ -683,11 +686,11 @@ _key ports_: Ain Sukhna Terminal, Al Iskandariyh (Alexandria), As Suways, Bur Sa
 ## Military and Security
 
 **Military and security forces**<br>
-Egyptian Armed Forces (EAF): Army (includes Republican Guard), Navy (includes Coast Guard), Air Force, Air Defense Forces, Border Guard Forces<br><br>Interior Ministry: Public Security Sector Police, the Central Security Force, National Security Agency (2024)<br>
-<strong>note:</strong> the Public Security Sector Police are responsible for law enforcement nationwide; the Central Security Force protects infrastructure and is responsible for crowd control; the National Security Agency is responsible for internal security threats and counterterrorism along with other security services<br><br>
+Egyptian Armed Forces (EAF): Army (includes Republican Guard), Navy (includes Coast Guard), Air Force, Air Defense Forces, Border Guard Forces<br><br>Interior Ministry: Public Security Sector Police, the Central Security Force, National Security Agency (2025)<br>
+<strong>note:</strong> the Public Security Sector Police are responsible for law enforcement nationwide; the Central Security Force protects infrastructure and is responsible for crowd control; the National Security Agency is responsible for internal security threats and counterterrorism along with other security services<br>
 
 **Military expenditures**<br>
-0.8% of GDP (2024 est.)<br>
+0.7% of GDP (2024 est.)<br>
 1% of GDP (2023 est.)<br>
 1.2% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
@@ -700,11 +703,12 @@ estimated 450,000 active Armed Forces (2025)<br>
 the EAF's inventory is comprised of a mix of domestically produced, Soviet-era, and more modern, particularly Western, weapons systems; in recent years, the EAF has embarked on an equipment modernization program with significant purchases from foreign suppliers; major suppliers have included China, France, Germany, Italy, Russia, and the US; Egypt has an established defense industry that produces a range of products from small arms to armored vehicles and naval vessels; it also has licensed and co-production agreements with several countries, including Germany and the US (2024)<br>
 
 **Military service age and obligation**<br>
-voluntary enlistment possible from age 16 for men and 17 for women; 18-30 years of age for conscript service for men; service obligation 14-36 months, followed by a 9-year reserve obligation; active service length depends on education; high school drop-outs serve for the full 36 months, while college graduates serve for lesser periods of time, depending on their education level (2023)<br>
+voluntary enlistment possible from age 16 for men and 17 for women; 18-30 years of age for conscript service for men; service obligation 14-36 months, followed by a 9-year reserve obligation; active service length depends on education; high school drop-outs serve for the full 36 months, while college graduates serve for lesser periods of time, depending on their education level (2025)<br>
 <strong>note:</strong> conscripts make up a considerable portion of the military and the Central Security Force<br>
 
 **Military deployments**<br>
-1,000 (plus nearly 200 police) Central African Republic (MINUSCA); also has about 350 police deployed to the Democratic Republic of the Congo under MONUSCO; slated to have about 1,100 personnel in Somalia under AUSSOM in 2025 (2024)<br>
+775 (plus nearly 200 police) Central African Republic (MINUSCA); also has about 200 police deployed to the Democratic Republic of the Congo under MONUSCO (2025)<br>
+<strong>note: </strong>Egypt is slated to have about 1,100 military personnel in Somalia under AUSSOM; the first contingent of troops deployed in 2025<br>
 
 **Military - note**<br>
 the Egyptian Armed Forces (EAF) are responsible for external defense but also have an internal role assisting police and paramilitary security forces during emergencies and in anti-terrorism operations; the EAF also participates in foreign peacekeeping and other security missions, as well as both bilateral and multinational exercises; the military has considerable political power and independence; it has long had a crucial role in Egypt’s politics and has a large stake in the civilian economy, including running banks, businesses, gas stations, shipping lines, and utilities, and producing consumer and industrial goods, importing commodities, and building and managing infrastructure projects, such as bridges, roads, hospitals, and housing<br><br>key areas of concern for the EAF include Islamist militant groups operating out of the Sinai Peninsula, regional challenges such as ongoing conflicts and instability, and maritime security; since 2011, the EAF has been conducting operations alongside other security forces in the North Sinai governorate against several militant groups, particularly the Islamic State of Iraq and ash-Sham (ISIS); over the past decade, it has deployed additional units along the border with Libya, provided air support to the Saudi-led coalition's intervention in Yemen, and most recently boosted its presence on the border with Gaza in response to the HAMAS-Israel conflict; the Navy in recent years has sought to modernize and expand its capabilities and profile in the Eastern Mediterranean and Red Sea, including the acquisition of helicopter carriers, modern frigates, and attack submarines, as well as the establishment of a joint service military base on the Red Sea<br><br>the Multinational Force &amp; Observers (MFO) has operated in the Sinai since 1982 as a peacekeeping and monitoring force to supervise the implementation of the security provisions of the 1979 Egyptian-Israeli Treaty of Peace; the MFO is an independent international organization, created by agreement between Egypt and Israel; it has about 1,150 troops from 13 countries; Colombia, Fiji, and the US are the leading providers of troops to the MFO (2025)<br>
@@ -716,6 +720,9 @@ Egyptian Space Agency (EgSA; established 2019); National Authority for Remote Se
 
 **Space program overview**<br>
 has a growing space program and seeks to become a regional space power; operates satellites; builds satellites jointly with foreign partners but developing localized satellite manufacturing and support infrastructure; acquiring other space-related technologies through transfers and domestic development, including in communications, Earth imaging/remote sensing (RS), and satellite payloads and components; works with a variety of foreign governments and commercial space companies, including those of Belarus, Canada, China, the ESA and its member states (particularly France, Germany, Italy), Ghana, India, Japan, Kazakhstan, Kenya, Nigeria, Russia, South Africa, Sudan, Uganda, Ukraine, the UAE, and the US; also a member of the Arab Space Coordination Group; has an active commercial space sector (2025)<br>
+
+**Key space-program milestones**<br>
+1960 - initiated a space program<br><br>1998 - first communications satellite (NileSat-101) built in Europe and launched on a European rocket (first African country to have its own communications satellite)<br><br>2007 - first remote sensing (RS) satellite (Egypsat-1) built and launched by Russia<br><br>2019 - first domestically produced RS cube satellites (NARSSCube-1 and 2) released from International Space Station; signed agreement with China for construction of satellite assembly, integrating, and testing facilities<br><br>2020 - announced a 10-year national space program, including initiating an astronaut training program and jointly developing with several African countries an RS satellite for monitoring climate changes<br><br>2022 - inaugurated a “space city” containing a satellite manufacturing facility, a research center, a space academy, and the headquarters of the African Space Agency (AfSA; inaugurated 2025); latest NileSat-series (NileSat-301) communications satellite acquired from Europe and launched by the US<br><br>2023 - three RS satellites (Horus-1, Horus-2, and MisrSat-2) built jointly with and launched by China; joined the China-led International Lunar Research Station project<br><br>2024 - experimental RS satellite (Nexsat-1) jointly developed with a European commercial company and launched by China<br>
 
 ## Terrorism
 

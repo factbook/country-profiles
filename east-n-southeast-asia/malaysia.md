@@ -53,12 +53,12 @@ _mean elevation_: 419 m<br>
 tin, petroleum, timber, copper, iron ore, natural gas, bauxite<br>
 
 **Land use**<br>
-_agricultural land_: 26.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 22.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.9% (2022 est.)<br>
-_forest_: 57.9% (2022 est.)<br>
-_other_: 16% (2022 est.)<br>
+_agricultural land_: 26.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 22.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.9% (2023 est.)<br>
+_forest_: 57.8% (2023 est.)<br>
+_other_: 16% (2023 est.)<br>
 
 **Irrigated land**<br>
 4,420 sq km (2022)<br>
@@ -200,19 +200,19 @@ _male_: 41.8% (2025 est.)<br>
 _female_: 0.6% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-14.1% (2019)<br>
+15.3% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 59.3% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 3.6% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 17.1% national budget (2023 est.)<br>
+_Education expenditure (% GDP)_: 3.5% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 14.1% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_total population_: 96% (2022 est.)<br>
-_male_: 97% (2022 est.)<br>
-_female_: 95% (2022 est.)<br>
+_total population_: 95.8% (2022 est.)<br>
+_male_: 96.8% (2022 est.)<br>
+_female_: 94.7% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years (2023 est.)<br>
@@ -232,12 +232,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; annual southwest (April to October) and northeast (October to February) monsoons<br>
 
 **Land use**<br>
-_agricultural land_: 26.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 22.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.9% (2022 est.)<br>
-_forest_: 57.9% (2022 est.)<br>
-_other_: 16% (2022 est.)<br>
+_agricultural land_: 26.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 22.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.9% (2023 est.)<br>
+_forest_: 57.8% (2023 est.)<br>
+_other_: 16% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 78.7% of total population (2023)<br>
@@ -690,6 +690,9 @@ has launched feasibility studies for potential space launch sites in Pahang, Sab
 
 **Space program overview**<br>
 has a national space policy and program focused on the areas of remote sensing (RS), navigational services, and telecommunications to support domestic economic sectors; seeks to promote a domestic space industry; acquires, manufactures, and operates satellites; conducts research in RS capabilities and space sciences such as astronomy, atmospherics, space environment, and weather; has an astronaut training exchange program with Russia and works with a variety of foreign space agencies and industries, including those of the ESA, individual ESA member states, India, Japan, Russia, South Korea, the UK, and the US (2025)<br>
+
+**Key space-program milestones**<br>
+1996 - first of a series of domestically produced commercial communications satellites (MEASAT) launched on European rocket<br><br>2000 - first multipurpose (remote sensing/RS, communications, scientific) microsatellite (TiungSat-1) produced with technology and training from the UK and launched by Russia<br><br>2007 - first Malaysian astronaut (trained in Russia) to space on International Space Station<br><br>2009 - first RS satellite (RazakSat) built with assistance from South Korea and launched by US<br><br>2011 - completed construction of a satellite assembly, integration, and testing facility<br><br>2025 - first commercial high-resolution RS satellite (UzmaSat-1) launched by US; signed US-led Artemis Accords<br>
 
 ## Terrorism
 

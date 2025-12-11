@@ -50,12 +50,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 aquatic wildlife (supporting tourism), fishing (largely undeveloped)<br>
 
 **Land use**<br>
-_agricultural land_: 29.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 13% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 14.8% (2022 est.)<br>
-_forest_: 51.9% (2022 est.)<br>
-_other_: 18.5% (2022 est.)<br>
+_agricultural land_: 29.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 13% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 14.8% (2023 est.)<br>
+_forest_: 52.4% (2023 est.)<br>
+_other_: 18% (2023 est.)<br>
 
 **Irrigated land**<br>
 2 sq km (2012)<br>
@@ -170,12 +170,12 @@ freshwater scarcity; reef damage; inadequate sewage treatment; rapid proliferati
 tropical marine; generally warm and humid, moderated by northeast trade winds; dry season (January to June), rainy season (July to December); little seasonal temperature variation<br>
 
 **Land use**<br>
-_agricultural land_: 29.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 13% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 14.8% (2022 est.)<br>
-_forest_: 51.9% (2022 est.)<br>
-_other_: 18.5% (2022 est.)<br>
+_agricultural land_: 29.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 13% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 14.8% (2023 est.)<br>
+_forest_: 52.4% (2023 est.)<br>
+_other_: 18% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 95.2% of total population (2022)<br>
@@ -210,9 +210,6 @@ _name_: Hagatna (Agana)<br>
 _geographic coordinates_: 13 28 N, 144 44 E<br>
 _time difference_: UTC+10 (15 hours ahead of Washington, DC, during Standard Time)<br>
 _etymology_: the name Hagatna is derived from the Chamorro word <em>haga</em>, meaning "life's blood" and referring to the town's role as the center of government for the island <br>
-
-**Administrative divisions**<br>
-none (territory of the US)<br>
 
 **Legal system**<br>
 common law modeled on US system; US federal laws apply<br>

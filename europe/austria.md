@@ -51,12 +51,12 @@ _mean elevation_: 910 m<br>
 oil, coal, lignite, timber, iron ore, copper, zinc, antimony, magnesite, tungsten, graphite, salt, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 31.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 16% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 14.7% (2022 est.)<br>
-_forest_: 47.2% (2022 est.)<br>
-_other_: 21.3% (2022 est.)<br>
+_agricultural land_: 31.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 16% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 14.7% (2023 est.)<br>
+_forest_: 47.2% (2023 est.)<br>
+_other_: 20.9% (2023 est.)<br>
 
 **Irrigated land**<br>
 382 sq km (2016)<br>
@@ -214,8 +214,8 @@ _female_: 18.3% (2025 est.)<br>
 58.7% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4.8% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 9% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 5.3% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 9.9% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years (2023 est.)<br>
@@ -235,12 +235,12 @@ _signed, but not ratified_: Air Pollution-Multi-effect Protocol, Antarctic-Envir
 temperate; continental, cloudy; cold winters with frequent rain and some snow in lowlands and snow in mountains; moderate summers with occasional showers<br>
 
 **Land use**<br>
-_agricultural land_: 31.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 16% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 14.7% (2022 est.)<br>
-_forest_: 47.2% (2022 est.)<br>
-_other_: 21.3% (2022 est.)<br>
+_agricultural land_: 31.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 16% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 14.7% (2023 est.)<br>
+_forest_: 47.2% (2023 est.)<br>
+_other_: 20.9% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 59.5% of total population (2023)<br>
@@ -658,7 +658,7 @@ registration requirement at age 17, the legal minimum age for voluntary military
 <strong>note 1:</strong> as of 2023, women made up about 4% of the military's full-time personnel<br><br><strong>note 2:</strong> in a January 2013 referendum, a majority of Austrians voted in favor of retaining the system of compulsory military service (with the option of alternative/non-military service) instead of switching to a professional army system<br>
 
 **Military deployments**<br>
-210 Bosnia-Herzegovina (EUFOR stabilization force); 160 Kosovo (NATO/KFOR); 160 Lebanon (UNIFIL) (2025)<br>
+210 Bosnia-Herzegovina (EUFOR stabilization force); 100 Kosovo (NATO/KFOR); 160 Lebanon (UNIFIL) (2025)<br>
 
 **Military - note**<br>
 the military’s primary responsibilities are national defense and protecting Austria’s neutrality; it also has some domestic security and disaster response responsibilities; each of the nine federal states has a military command that provides a link between the military and civil authorities; the main tasks of these commands include providing military assistance during disasters and supporting security police operations<br><br>the Austrian military contributes to international peacekeeping and humanitarian missions; Austria has been constitutionally militarily non-aligned since 1955 but is an EU member and actively participates in EU peacekeeping and crisis management operations under the EU Common Security and Defense Policy; Austria is not a member of NATO but joined NATO’s Partnership for Peace framework in 1995 and participates in some NATO-led crisis management and peacekeeping operations; more than 100,000 Austrian military and civilian personnel have taken part in more than 50 international peace support and humanitarian missions since 1960 (2025)<br>
@@ -670,6 +670,9 @@ Aeronautics and Space Agency (ALR; established in 1972 as the Austrian Space Age
 
 **Space program overview**<br>
 established a national space program in 2002; develops, builds, operates, and tracks satellites, including remote sensing and research/scientific satellites; member of the ESA; works closely with ESA and EU member states and the commercial sector to develop a range of space capabilities and technologies, including applications for satellite payloads, space flight, and space research; participates in a range of ESA/EU programs, including Space Surveillance and Tracking (SST), Copernicus Earth observation, and Galileo global navigation satellite system; also cooperates with other foreign space agencies and industries, including those of China, India, Russia, and the US (2025)<br>
+
+**Key space-program milestones**<br>
+1981 - became an associate ESA member (full member in 1987)<br><br>1991 - first Austrian in space on Soviet Mir Space Station<br><br>2013 - first domestically built science/technology (star observation) satellites (TUGSAT-1 and UniBRITE) launched by India<br><br>2017 - worked with China to produce world’s first quantum-encrypted satellite communications teleconference from Beijing to Vienna<br><br>2024 - signed US-led Artemis Accords outlining best practices for cooperative space exploration<br>
 
 ## Terrorism
 

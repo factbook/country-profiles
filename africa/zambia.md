@@ -51,12 +51,12 @@ _mean elevation_: 1,138 m<br>
 copper, cobalt, zinc, lead, coal, emeralds, gold, silver, uranium, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 32.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 5.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 26.9% (2022 est.)<br>
-_forest_: 59.8% (2022 est.)<br>
-_other_: 8.2% (2022 est.)<br>
+_agricultural land_: 32.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 5.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 26.9% (2023 est.)<br>
+_forest_: 60.6% (2023 est.)<br>
+_other_: 7.3% (2023 est.)<br>
 
 **Irrigated land**<br>
 1,560 sq km (2012)<br>
@@ -211,7 +211,7 @@ _male_: 21.4% (2025 est.)<br>
 _female_: 2.4% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-11.8% (2018/19)<br>
+11.8% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 53.3% (2023 est.)<br>
@@ -243,12 +243,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; modified by altitude; rainy season (October to April)<br>
 
 **Land use**<br>
-_agricultural land_: 32.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 5.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 26.9% (2022 est.)<br>
-_forest_: 59.8% (2022 est.)<br>
-_other_: 8.2% (2022 est.)<br>
+_agricultural land_: 32.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 5.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 26.9% (2023 est.)<br>
+_forest_: 60.6% (2023 est.)<br>
+_other_: 7.3% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 46.3% of total population (2023)<br>
@@ -329,7 +329,7 @@ _number of seats_: 167 (156 directly elected; 8 appointed)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 8/12/2021<br>
+_most recent election date_: 44420<br>
 _parties elected and seats per party_: United Party for National Development (UPND) (82); Patriotic Front (PF) (60); Independents (13); Other (1)<br>
 _percentage of women in chamber_: 15%<br>
 _expected date of next election_: August 2026<br>

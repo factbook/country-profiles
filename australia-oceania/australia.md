@@ -55,12 +55,12 @@ alumina, coal, iron ore, copper, lithium, tin, gold, silver, uranium, nickel, tu
 <strong>note 1:</strong> Australia is the world's largest net exporter of coal accounting for 26.5% of global coal exports in 2021; coal is the country’s most abundant energy resource, and coal ranks as the second-largest export commodity from Australia in terms of revenue; in 2020, Australia held the third-largest recoverable coal reserves in the world behind the United States and Russia<br><br><strong>note 2:</strong> Australia is by far the world's largest supplier of opals<br><br><strong>note 3:</strong> Australia holds the largest uranium reserves in the world and was the second-largest global uranium producer behind Kazakhstan in 2020<br><br><strong>note 4: </strong>Australia was the largest exporter of LNG in the world in 2020<br>
 
 **Land use**<br>
-_agricultural land_: 47.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 4.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 43.1% (2022 est.)<br>
-_forest_: 17.4% (2022 est.)<br>
-_other_: 35.3% (2022 est.)<br>
+_agricultural land_: 47.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 43.1% (2023 est.)<br>
+_forest_: 17.3% (2023 est.)<br>
+_other_: 35.4% (2023 est.)<br>
 
 **Irrigated land**<br>
 19,450 sq km (2022)<br>
@@ -219,8 +219,8 @@ _female_: 9.2% (2025 est.)<br>
 55.9% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 5.2% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 13.9% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 5.1% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 12.7% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 21 years (2023 est.)<br>
@@ -240,12 +240,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 generally arid to semiarid; temperate in south and east; tropical in north<br>
 
 **Land use**<br>
-_agricultural land_: 47.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 4.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 43.1% (2022 est.)<br>
-_forest_: 17.4% (2022 est.)<br>
-_other_: 35.3% (2022 est.)<br>
+_agricultural land_: 47.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 43.1% (2023 est.)<br>
+_forest_: 17.3% (2023 est.)<br>
+_other_: 35.4% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 86.6% of total population (2023)<br>
@@ -700,6 +700,9 @@ Whalers Way Orbital Launch Complex (commercial site, South Australia); Arnhem Sp
 
 **Space program overview**<br>
 has a history of involvement in space-related activities, including astronomy, rockets, satellites, and space tracking; develops, builds, operates, and tracks satellites, including communications, remote sensing (RS), and navigational, often in partnership with other countries; develops other space technologies, including communications, RS capabilities, and telescopes; encouraging growth in domestic commercial space-industry sector, including satellite launch vehicles; cooperates with a variety of foreign space agencies and industries, including those of China, the ESA, individual ESA member states, India, Japan, New Zealand, South Korea, the UK, and the US; co-leads the Global Earth Observation System of Systems and hosts one of the telescopes for the international Square Kilometer Array radio telescope&nbsp; (2025)<br>
+
+**Key space-program milestones**<br>
+1960 - built first space-tracking station outside the US<br><br>1967 - first domestically built satellite (WRSEA) launched on a US rocket from Australian test range<br><br>1981 - commissioned first national satellite system<br><br>1996 - first Australian in space on US Space Shuttle<br><br>2021 - announced intent to provide a robotic lunar lander for US Artemis project<br><br>2022 - launched a US NASA rocket from a commercial launch site; joint Australia-US space surveillance telescope based in Western Australia became operational<br><br>2025 - first attempted launch of Australian-designed and -manufactured orbital launch vehicle failed to reach orbit<br>
 
 ## Terrorism
 

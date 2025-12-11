@@ -55,12 +55,12 @@ _mean elevation_: 424 m<br>
 nickel, bauxite, gold, silver, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 50.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 18.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 7.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 24.8% (2022 est.)<br>
-_forest_: 44.8% (2022 est.)<br>
-_other_: 4.6% (2022 est.)<br>
+_agricultural land_: 55.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 20.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 23.8% (2023 est.)<br>
+_forest_: 46.6% (2023 est.)<br>
+_other_: 0% (2023 est.)<br>
 
 **Irrigated land**<br>
 2,981 sq km (2018)<br>
@@ -209,7 +209,7 @@ _male_: 13.5% (2025 est.)<br>
 _female_: 5.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-3% (2019)<br>
+3% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 52.1% (2023 est.)<br>
@@ -219,13 +219,13 @@ _women married by age 15_: 9.4% (2019)<br>
 _women married by age 18_: 31.5% (2019)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4.3% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 21.9% national budget (2024 est.)<br>
+_Education expenditure (% GDP)_: 3.8% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 20.9% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_total population_: 94% (2016 est.)<br>
-_male_: 94% (2016 est.)<br>
-_female_: 87.4% (2019 est.)<br>
+_total population_: 94% (2024 est.)<br>
+_male_: 93.6% (2024 est.)<br>
+_female_: 94.4% (2024 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years (2022 est.)<br>
@@ -245,12 +245,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical maritime; little seasonal temperature variation; seasonal variation in rainfall<br>
 
 **Land use**<br>
-_agricultural land_: 50.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 18.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 7.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 24.8% (2022 est.)<br>
-_forest_: 44.8% (2022 est.)<br>
-_other_: 4.6% (2022 est.)<br>
+_agricultural land_: 55.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 20.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 23.8% (2023 est.)<br>
+_forest_: 46.6% (2023 est.)<br>
+_other_: 0% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 84.4% of total population (2023)<br>
@@ -341,7 +341,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 5/19/2024<br>
 _parties elected and seats per party_: Modern Revolutionary Party (PRM) and its allies (146); People’s Force (FP) and its allies (28); Other (16)<br>
-_percentage of women in chamber_: 36.8%<br>
+_percentage of women in chamber_: 37.4%<br>
 _expected date of next election_: May 2028<br>
 
 **Legislative branch - upper chamber**<br>

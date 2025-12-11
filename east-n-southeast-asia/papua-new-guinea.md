@@ -54,12 +54,12 @@ _mean elevation_: 667 m<br>
 gold, copper, silver, natural gas, timber, oil, fisheries<br>
 
 **Land use**<br>
-_agricultural land_: 3.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.4% (2022 est.)<br>
-_forest_: 79% (2022 est.)<br>
-_other_: 17.9% (2022 est.)<br>
+_agricultural land_: 3.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.4% (2023 est.)<br>
+_forest_: 75.2% (2023 est.)<br>
+_other_: 21.7% (2023 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -216,8 +216,8 @@ _women married by age 18_: 27.3% (2018)<br>
 _men married by age 18_: 3.7% (2018)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 1.4% of GDP (2021 est.)<br>
-_Education expenditure (% national budget)_: 3.9% national budget (2021 est.)<br>
+_Education expenditure (% GDP)_: 0.8% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 3.5% national budget (2023 est.)<br>
 
 **Literacy**<br>
 _total population_: 70.1% (2017 est.)<br>
@@ -240,12 +240,12 @@ _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 tropical; northwest monsoon (December to March), southeast monsoon (May to October); slight seasonal temperature variation<br>
 
 **Land use**<br>
-_agricultural land_: 3.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.4% (2022 est.)<br>
-_forest_: 79% (2022 est.)<br>
-_other_: 17.9% (2022 est.)<br>
+_agricultural land_: 3.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.4% (2023 est.)<br>
+_forest_: 75.2% (2023 est.)<br>
+_other_: 21.7% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 13.7% of total population (2023)<br>
@@ -329,7 +329,7 @@ _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 7/4/2022 to 7/22/2022<br>
-_parties elected and seats per party_: Papua & Niugini Union Pati (PANGU) (39); People's National Congress Party (PNC) (15); United Resource Party (URP) (11); Others (40); Independents (10)<br>
+_parties elected and seats per party_: Papua &amp; Niugini Union Pati (PANGU) (39); People's National Congress Party (PNC) (15); United Resource Party (URP) (11); Others (40); Independents (10)<br>
 _percentage of women in chamber_: 2.7%<br>
 _expected date of next election_: July 2027<br>
 

@@ -55,12 +55,12 @@ _mean elevation_: 320 m<br>
 alumina, bauxite, beryllium, gold, iron ore, manganese, nickel, niobium, phosphates, platinum, tantalum, tin, rare earth elements, uranium, petroleum, hydropower, timber<br>
 
 **Land use**<br>
-_agricultural land_: 26.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 6.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.9% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 19.1% (2022 est.)<br>
-_forest_: 59.1% (2022 est.)<br>
-_other_: 14.2% (2022 est.)<br>
+_agricultural land_: 28.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 6.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.9% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 20.7% (2023 est.)<br>
+_forest_: 58.9% (2023 est.)<br>
+_other_: 12.7% (2023 est.)<br>
 
 **Irrigated land**<br>
 91,833 sq km (2022)<br>
@@ -214,19 +214,19 @@ _male_: 14.4% (2025 est.)<br>
 _female_: 8.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-3.1% (2019)<br>
+3.5% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 55.9% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 5.5% of GDP (2021 est.)<br>
-_Education expenditure (% national budget)_: 12.8% national budget (2021 est.)<br>
+_Education expenditure (% GDP)_: 5.6% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 12.9% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_total population_: 93% (2022 est.)<br>
-_male_: 92.5% (2022 est.)<br>
-_female_: 93.5% (2022 est.)<br>
+_total population_: 94.8% (2024 est.)<br>
+_male_: 94.5% (2024 est.)<br>
+_female_: 95.1% (2024 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years (2022 est.)<br>
@@ -246,12 +246,12 @@ _signed, but not ratified_: Marine Dumping-London Protocol<br>
 mostly tropical, but temperate in south<br>
 
 **Land use**<br>
-_agricultural land_: 26.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 6.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.9% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 19.1% (2022 est.)<br>
-_forest_: 59.1% (2022 est.)<br>
-_other_: 14.2% (2022 est.)<br>
+_agricultural land_: 28.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 6.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.9% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 20.7% (2023 est.)<br>
+_forest_: 58.9% (2023 est.)<br>
+_other_: 12.7% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 87.8% of total population (2023)<br>
@@ -308,7 +308,7 @@ _time zone note_: Brazil has four time zones, including one for the Fernando de 
 _etymology_: the name is the Latinized form of the country name, bestowed on the new capital of Brazil in 1960; previous Brazilian capitals were Salvador (1549-1763) and Rio de Janeiro (1763 to 1960)<br>
 
 **Administrative divisions**<br>
-26 states (<em>estados</em>, singular - <em>estado</em>) and 1 federal district* (distrito federal); Acre, Alagoas, Amapa, Amazonas, Bahia, Ceara, Distrito Federal*, Espirito Santo, Goias, Maranhao, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Para, Paraiba, Parana, Pernambuco, Piaui, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondonia, Roraima, Santa Catarina, São Paulo, Sergipe, Tocantins<br>
+26 states (<em>estados</em>, singular - <em>estado</em>) and 1 federal district* (distrito federal); Acre, Alagoas, Amapa, Amazonas, Bahia, Ceara, Distrito Federal*, Espirito Santo, Goias, Maranhao, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Para, Paraiba, Parana, Pernambuco, Piaui, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Roraima, Santa Catarina, São Paulo, Sergipe, Tocantins<br>
 
 **Legal system**<br>
 civil law<br>
@@ -352,7 +352,7 @@ _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 10/2/2022<br>
-_parties elected and seats per party_: Liberal Party (PL) (99); Workers' Party (PT) (69); Brazil Union (União) (59); Progressive Party (PP) (47); Brazilian Democratic Movement (MDB) (42); Social Democratic Party (PSD) (42); Republicans (Republicanos) (40); Other (115)<br>
+_parties elected and seats per party_: Liberal Party (PL) (99); Workers' Party (PT) (69); Brazil Union (União) (59); Progressive Party (PP) (47); Brazilian Democratic Movement (MDB) (42); Social Democratic Party (PSD) (42); Republicans (Republicanos) (40); Other (106)<br>
 _percentage of women in chamber_: 18.1%<br>
 _expected date of next election_: October 2026<br>
 
@@ -724,6 +724,9 @@ Alcantara Launch Center (Maranh&atilde;o state); Barreira do Inferno Launch Cent
 
 **Space program overview**<br>
 develops, builds, operates, and tracks satellites, including communications, remote sensing (RS), multi-mission, navigational, and scientific/testing/research; satellites are launched by foreign partners, but Brazil has a long-standing sounding (research) rocket and satellite launch vehicle (SLV) program and rocket launch facilities; cooperates with a variety of foreign space agencies and commercial entities, including those of Argentina, Canada, the ESA, individual ESA member states (particularly France and Germany), India, Japan, Russia, South Africa, South Korea, Ukraine, and the US; has a state-controlled communications company that operates Brazil&rsquo;s communications satellites and a growing commercial space sector (2025)<br>
+
+**Key space-program milestones**<br>
+1960s - established a national space program under the Air Force<br><br>1984 - began satellite launch vehicle (SLV) program (Veículo Lançador de Satélites or VLS-1) <br><br>1985 - first communications satellite jointly produced with Canada and launched on European SLV<br><br>1993 - first domestically built experimental communications satellite (Satélite de Coleta de Dados, SCD-1) launched by US<br><br>2004 - launched a sounding rocket into sub-orbital space, but the subsequent catastrophic failure of a VLS-1 during a test launch led to scaling back the program<br><br>2006 - first Brazilian astronaut to the International Space Station on a Russian rocket<br><br>2008 - began work on a 3-stage microsatellite launch vehicle (Veículo Lançador de Microssatélite or VLM-1) in partnership with Germany<br><br>2021 - first independently produced remote sensing (RS) satellite (Amazonia-1) launched by India; signed US-led Artemis Accords on space exploration cooperation and signed cooperation agreements with the space agencies of China, India, Russia, and South Africa for the joint development of an RS satellite constellation<br><br>2022 - successfully launched suborbital rocket more than 225 km (140 miles) in height<br>
 
 ## Terrorism
 

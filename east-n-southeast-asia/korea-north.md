@@ -53,12 +53,12 @@ _mean elevation_: 600 m<br>
 coal, iron ore, limestone, magnesite, graphite, copper, zinc, lead, precious metals, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 21.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 19.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.4% (2022 est.)<br>
-_forest_: 49.7% (2022 est.)<br>
-_other_: 28.7% (2022 est.)<br>
+_agricultural land_: 21.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 19.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.4% (2023 est.)<br>
+_forest_: 64% (2023 est.)<br>
+_other_: 14.5% (2023 est.)<br>
 
 **Irrigated land**<br>
 14,600 sq km (2012)<br>
@@ -193,7 +193,7 @@ _male_: 32.6% (2025 est.)<br>
 _female_: 0% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-9.3% (2017)<br>
+9.3% (2017 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 69.7% (2023 est.)<br>
@@ -224,12 +224,12 @@ _signed, but not ratified_: Antarctic-Environmental Protection, Law of the Sea<b
 temperate, with rainfall concentrated in summer; long, bitter winters<br>
 
 **Land use**<br>
-_agricultural land_: 21.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 19.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.4% (2022 est.)<br>
-_forest_: 49.7% (2022 est.)<br>
-_other_: 28.7% (2022 est.)<br>
+_agricultural land_: 21.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 19.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.4% (2023 est.)<br>
+_forest_: 64% (2023 est.)<br>
+_other_: 14.5% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 63.2% of total population (2023)<br>
@@ -535,6 +535,9 @@ Sohae Satellite Launching Station (aka Tongch'ang-dong Space Launch Center; Nort
 
 **Space program overview**<br>
 North Korea&rsquo;s leader has emphasized the development of space capabilities, particularly satellite launch vehicles (SLVs) and remote sensing satellites; manufactures satellites and rockets/SLVs; independently launches rockets/SLVs; SLV program is viewed as closely related to the country's development of intercontinental ballistic missiles; passed a national space law in 2013, and revised it in 2022 to allow for the use of space for national defense; has cooperated with Iran on space-related technologies, and signed a mutual defense treaty with Russia in 2024 that stated the two countries would &ldquo;develop exchanges and joint research in science and technology, including space&rdquo; (2025)<br>
+
+**Key space-program milestones**<br>
+1980s - initiated space program <br><br>1998 - failed first attempt to place a satellite in orbit on a 3-stage Paektusan-1 satellite launch vehicle (SLV) <br><br>2012 - successfully placed first satellite (Kwangmyŏngsŏng-3 or Bright Star-3) in orbit on Unha-3 SLV (satellite failed to operate)<br><br>2016 - second satellite (Kwangmyŏngsŏng-4) placed in orbit on Unha-3 SLV (reportedly a remote sensing (RS) satellite that also failed to operate)<br><br>2023 - placed a military RS satellite (Malligyong-1) in orbit on Chollima-1 SLV <br><br>2024 - failed attempt to place a second military RS satellite in orbit on new type SLV<br>
 
 ## Transnational Issues
 

@@ -54,12 +54,12 @@ _mean elevation_: 684 m<br>
 timber, gold, silver, copper, lead, zinc, iron ore, antimony, coal, fish, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 32% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 9.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 17.5% (2022 est.)<br>
-_forest_: 56.5% (2022 est.)<br>
-_other_: 11.6% (2022 est.)<br>
+_agricultural land_: 32% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 9.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.5% (2023 est.)<br>
+_forest_: 53.3% (2023 est.)<br>
+_other_: 14.8% (2023 est.)<br>
 
 **Irrigated land**<br>
 900 sq km (2012)<br>
@@ -207,7 +207,7 @@ _male_: 22.2% (2025 est.)<br>
 _female_: 1.6% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-7.1% (2019)<br>
+7.1% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 53.5% (2023 est.)<br>
@@ -218,13 +218,13 @@ _women married by age 18_: 34% (2019)<br>
 _men married by age 18_: 10% (2019)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 13.3% national budget (2024 est.)<br>
+_Education expenditure (% GDP)_: 4.5% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 23.2% national budget (2018 est.)<br>
 
 **Literacy**<br>
-_total population_: 89% (2019 est.)<br>
-_male_: 88% (2019 est.)<br>
-_female_: 89% (2019 est.)<br>
+_total population_: 88.2% (2024 est.)<br>
+_male_: 87.6% (2024 est.)<br>
+_female_: 88.8% (2024 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 10 years (2019 est.)<br>
@@ -244,12 +244,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 subtropical in lowlands, temperate in mountains<br>
 
 **Land use**<br>
-_agricultural land_: 32% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 9.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 17.5% (2022 est.)<br>
-_forest_: 56.5% (2022 est.)<br>
-_other_: 11.6% (2022 est.)<br>
+_agricultural land_: 32% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 9.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.5% (2023 est.)<br>
+_forest_: 53.3% (2023 est.)<br>
+_other_: 14.8% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 60.2% of total population (2023)<br>
@@ -333,10 +333,10 @@ _number of seats_: 128 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 11/28/2021<br>
+_most recent election date_: 11/30/2025<br>
 _parties elected and seats per party_: Liberty and Refoundation Party (LIBRE) (50); National Party (PN) (44); Liberal Party (PL) (22); Salvador de Honduras Party (PSH) (10); Other (2)<br>
 _percentage of women in chamber_: 27.3%<br>
-_expected date of next election_: November 2025<br>
+_expected date of next election_: November 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (15 principal judges, including the court president, and 6 alternates; court organized into civil, criminal, constitutional, and labor chambers)<br>

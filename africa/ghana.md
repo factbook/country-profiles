@@ -54,12 +54,12 @@ _mean elevation_: 190 m<br>
 gold, timber, industrial diamonds, bauxite, manganese, fish, rubber, hydropower, petroleum, silver, salt, limestone<br>
 
 **Land use**<br>
-_agricultural land_: 55.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 20.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 11.9% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 22.8% (2022 est.)<br>
-_forest_: 35.2% (2022 est.)<br>
-_other_: 9.4% (2022 est.)<br>
+_agricultural land_: 55.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 20.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.9% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 22.8% (2023 est.)<br>
+_forest_: 30.7% (2023 est.)<br>
+_other_: 13.9% (2023 est.)<br>
 
 **Irrigated land**<br>
 360 sq km (2013)<br>
@@ -210,7 +210,7 @@ _male_: 5.4% (2025 est.)<br>
 _female_: 0.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-12.6% (2017/18)<br>
+12% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 54.3% (2023 est.)<br>
@@ -247,12 +247,12 @@ _signed, but not ratified_: Marine Life Conservation<br>
 tropical; warm and comparatively dry along southeast coast; hot and humid in southwest; hot and dry in north<br>
 
 **Land use**<br>
-_agricultural land_: 55.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 20.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 11.9% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 22.8% (2022 est.)<br>
-_forest_: 35.2% (2022 est.)<br>
-_other_: 9.4% (2022 est.)<br>
+_agricultural land_: 55.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 20.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.9% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 22.8% (2023 est.)<br>
+_forest_: 30.7% (2023 est.)<br>
+_other_: 13.9% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 59.2% of total population (2023)<br>
@@ -687,6 +687,9 @@ Ghana Space Science and Technology Institute (GSSTI; established 2011) (2025)<br
 
 **Space program overview**<br>
 has nascent space program focused on Earth observation, space science education, and telecommunications; seeks to exploit remote sensing (RS) technology for agriculture, natural-resource management, weather forecasting, and national security; relies on foreign imagery for analysis but seeks to develop its own RS satellite capabilities; has established cooperative relationships with China, Japan, and a number of regional states, particularly South Africa; working with Egypt, Kenya, Nigeria, Sudan, and Uganda on a satellite to monitor climate changes in the African continent; member of the African Space Agency; partner in the Square Kilometer Array radio telescope (2025)<br>
+
+**Key space-program milestones**<br>
+2017 - first satellite (GhanaSat-1), a technology demonstration/remote sensing nanosatellite built by a Gabonese university with assistance from Japan and released from the International Space Station; established Ghana Radio Astronomy Observatory<br><br>2024 - released a national space policy<br>
 
 ## Transnational Issues
 

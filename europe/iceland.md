@@ -52,12 +52,12 @@ _mean elevation_: 557 m<br>
 fish, hydropower, geothermal power, diatomite<br>
 
 **Land use**<br>
-_agricultural land_: 18.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.2% (2022 est.)<br>
+_agricultural land_: 16.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1.2% (2023 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 17.4% (2022 est.)<br>
-_forest_: 0.5% (2022 est.)<br>
-_other_: 80.9% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 15% (2023 est.)<br>
+_forest_: 0.6% (2023 est.)<br>
+_other_: 82.6% (2023 est.)<br>
 
 **Irrigated land**<br>
 0.5 sq km (2022)<br>
@@ -204,8 +204,8 @@ _female_: 8% (2025 est.)<br>
 45.1% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 6.7% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 14.8% national budget (2023 est.)<br>
+_Education expenditure (% GDP)_: 7.3% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 15.7% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years (2022 est.)<br>
@@ -225,12 +225,12 @@ _signed, but not ratified_: Air Pollution-Heavy Metals, Environmental Modificati
 temperate; moderated by North Atlantic Current; mild, windy winters; damp, cool summers<br>
 
 **Land use**<br>
-_agricultural land_: 18.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.2% (2022 est.)<br>
+_agricultural land_: 16.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1.2% (2023 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 17.4% (2022 est.)<br>
-_forest_: 0.5% (2022 est.)<br>
-_other_: 80.9% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 15% (2023 est.)<br>
+_forest_: 0.6% (2023 est.)<br>
+_other_: 82.6% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 94% of total population (2023)<br>

@@ -55,12 +55,12 @@ wide natural-resource base including major deposits of oil, natural gas, coal, a
 <strong>note:</strong> formidable obstacles of climate, terrain, and distance hinder exploitation of natural resources<br>
 
 **Land use**<br>
-_agricultural land_: 13.2% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 7.4% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.6% (2022 est.)<br>
-_forest_: 49.8% (2022 est.)<br>
-_other_: 37.1% (2022 est.)<br>
+_agricultural land_: 13.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 7.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.6% (2023 est.)<br>
+_forest_: 50.7% (2023 est.)<br>
+_other_: 35.9% (2023 est.)<br>
 
 **Irrigated land**<br>
 43,000 sq km (2012)<br>
@@ -230,8 +230,13 @@ _women married by age 15_: 0.3% (2017)<br>
 _women married by age 18_: 6.2% (2017)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4.1% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 8.9% national budget (2020 est.)<br>
+_Education expenditure (% GDP)_: 4.2% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 14.3% national budget (2018 est.)<br>
+
+**Literacy**<br>
+_total population_: 99.9% (2021 est.)<br>
+_male_: 99.9% (2021 est.)<br>
+_female_: 99.9% (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years (2023 est.)<br>
@@ -251,12 +256,12 @@ _signed, but not ratified_: Air Pollution-Sulfur 94<br>
 ranges from steppes in the south through humid continental in much of European Russia; subarctic in Siberia to tundra climate in the polar north; winters vary from cool along Black Sea coast to frigid in Siberia; summers vary from warm in the steppes to cool along Arctic coast<br>
 
 **Land use**<br>
-_agricultural land_: 13.2% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 7.4% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.6% (2022 est.)<br>
-_forest_: 49.8% (2022 est.)<br>
-_other_: 37.1% (2022 est.)<br>
+_agricultural land_: 13.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 7.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.6% (2023 est.)<br>
+_forest_: 50.7% (2023 est.)<br>
+_other_: 35.9% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 75.3% of total population (2023)<br>
@@ -734,6 +739,9 @@ Baikonur Cosmodrome (Kazakhstan); Vostochny Cosmodrome (Amur Oblast); Plesetsk C
 
 **Space program overview**<br>
 has one of the world&rsquo;s largest space programs and is active across all areas of the space sector; builds, launches, and operates satellite/space launch vehicles, satellites, space stations, interplanetary probes, and manned, robotic, and re-usable spacecraft; has astronaut (cosmonaut) training program and conducts human space flight; researching and developing a broad range of other space-related technologies; participates in international space programs such as the International Space Station; has had relations with dozens of foreign space agencies and commercial entities, including those of China, the ESA, India, Japan, and the US; Roscosmos and its public subsidiaries comprise the majority of the Russian space industry; Roscosmos has eight operating areas, including manned space flights, launch systems, unmanned spacecraft, rocket propulsion, military missiles, space avionics, special military space systems, and flight control systems; private companies are also involved in a range of space systems (2025)<br>
+
+**Key space-program milestones**<br>
+1957 - placed world’s first satellite (Sputnik-1) in orbit<br><br>1961-1964 - launched first man, first woman, and first multi-member crew into space<br><br>1965 - launched first probe to successfully land on the Moon<br><br>1967 - initial launch of Soviet-made Soyuz series space launch vehicle (SLV)<br><br>1971 - placed first space station (Salyut) in orbit and successfully landed a probe on Venus<br><br>1975 - joint Soviet (Soyuz)-US (Apollo) space mission<br><br>1986 - began operation of Mir space station (in orbit until 2001)<br><br>1995 - Global Navigation Satellite System (GLObalnaya NAvigatsionnaya Sputnikovaya Sistema or GLONASS) constellation completed <br><br>2014 - initial launch of Angara SLV series <br><br>2021 - announced agreements with China to send a robotic probe to an asteroid and jointly establish a station on the Moon <br><br>2023 - launch first of a planned series of Moon landers (Luna-25; crashed on Moon's surface); announced intent to place first module of a new space station in orbit by 2027<br>
 
 ## Terrorism
 

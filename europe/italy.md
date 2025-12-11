@@ -53,12 +53,12 @@ _mean elevation_: 538 m<br>
 coal, antimony, mercury, zinc, potash, marble, barite, asbestos, pumice, fluorspar, feldspar, pyrite (sulfur), natural gas and crude oil reserves, fish, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 44% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 24% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 8.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 11.9% (2022 est.)<br>
-_forest_: 32.7% (2022 est.)<br>
-_other_: 23.3% (2022 est.)<br>
+_agricultural land_: 44.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 24% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 8.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 12.2% (2023 est.)<br>
+_forest_: 31.8% (2023 est.)<br>
+_other_: 24% (2023 est.)<br>
 
 **Irrigated land**<br>
 24,460 sq km (2021)<br>
@@ -204,13 +204,13 @@ _female_: 16.6% (2025 est.)<br>
 52.5% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 7.2% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 4.1% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 7.4% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_total population_: 99% (2019 est.)<br>
-_male_: 99% (2019 est.)<br>
-_female_: 99% (2019 est.)<br>
+_total population_: 99.3% (2019 est.)<br>
+_male_: 99.5% (2019 est.)<br>
+_female_: 99.2% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years (2023 est.)<br>
@@ -230,12 +230,12 @@ _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Multi-effe
 predominantly Mediterranean; alpine in far north; hot, dry in south<br>
 
 **Land use**<br>
-_agricultural land_: 44% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 24% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 8.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 11.9% (2022 est.)<br>
-_forest_: 32.7% (2022 est.)<br>
-_other_: 23.3% (2022 est.)<br>
+_agricultural land_: 44.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 24% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 8.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 12.2% (2023 est.)<br>
+_forest_: 31.8% (2023 est.)<br>
+_other_: 24% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 72% of total population (2023)<br>
@@ -687,8 +687,8 @@ the military's inventory includes a mix of domestically manufactured, imported, 
 <strong>note:</strong> women serve in all military branches; as of 2023, women made up about 8% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-120 Djibouti; approximately 750 Bulgaria (NATO); approximately 650 Middle East (NATO, European Assistance Mission Iraq); 250 Hungary (NATO; up to 1,500 Kosovo (NATO/KFOR); 250 Latvia (NATO); 1,325 Lebanon (UNIFIL); 200 Libya; 350 Niger; 250 Romania (NATO); 150 Somalia (EUTM) (2024)<br>
-<strong>note 1:</strong> Italy has about 11,500 total air, ground, and naval forces deployed on foreign missions<br><br><strong>note 2:</strong> since 1960, Italy has committed more than 60,000 troops to UN missions, and it hosts a training center in Vicenza for police personnel destined for peacekeeping missions<br>
+Italy has on average about 8,000 military personnel deployed in support of NATO, UN, and other foreign missions; significant ground troop deployments include Bulgaria (750), Hungary (250), Kosovo (870), Latvia (300), and Lebanon (875); in addition, air and naval units are deployed in support of NATO missions (2025)<br>
+<strong>note</strong><strong>:</strong> since 1960, Italy has committed more than 60,000 troops to UN missions, and it hosts a training center in Vicenza for police personnel destined for peacekeeping missions<br>
 
 **Military - note**<br>
 the Italian military is responsible for Italy’s national defense and security and fulfilling the country’s commitments to the EU, NATO, the UN, and other multinational military, security, and humanitarian operations; it also has some domestic security duties; key areas of emphasis for Italy’s security policy and multinational cooperation are Europe’s eastern and southern flanks, including the Mediterranean Sea, East and North Africa, and the Middle East and its adjacent waters<br><br>Italy has been an active member of NATO since its founding in 1948, and the Alliance is a cornerstone of Rome’s national security strategy; it is one of NATO’s leading contributors of military forces and participates in such Alliance missions as Air Policing in the Baltics, the Enhanced Forward Presence in Eastern Europe, and maritime patrols in the Mediterranean and beyond; it hosts NATO’s Joint Force Command in Naples and a NATO Rapid Deployable Corps headquarters in Milan <br><br>Italy is also active in European/EU defense cooperation and integration, including hosting the headquarters for the EU’s Mediterranean naval operations force in Rome; in addition, Italy has close defense ties with the US and hosts several US military air, army, and naval bases and facilities (2025)<br>
@@ -703,6 +703,9 @@ the Broglio (aka San Marco, Malindi) Space Center, located near Malindi, Kenya, 
 
 **Space program overview**<br>
 one of the top contributors to the ESA; designs, builds, launches, and operates communications, remote sensing (RS), and scientific satellites; designs and manufactures probes, rockets, and orbital satellite launch vehicles (SLVs); researches, develops, and builds a range of other space-related technologies and participates in a wide array of international programs; hosts the ESA Center for Earth Observation; has astronaut cadre in the ESA astronaut corps; has cooperated with a variety of foreign space agencies and industries, including those of Argentina, Brazil, Canada, China, Israel, Japan, Kenya, Mexico, Russia, South Korea, Thailand, the UAE, and the US; participates in international projects such as the International Space Station; has considerable commercial space industries encompassing a wide range of capabilities (2025)<br>
+
+**Key space-program milestones**<br>
+1964 - first domestically manufactured science satellite (San Marco-1) launched by the US<br><br>1977 - first domestically built telecommunications/research satellite (Sirio) launched by the US<br><br>1990s-2011 - participated in US Space Shuttle program, resulting in first Italian astronaut in space (1992)<br><br>1998-present - participated in International Space Station, including the first European astronaut on the station (2001), first Italian to command it (2019-2020), and first woman to command the station (2022)<br><br>2012 - first launch of Italian-designed VEGA 3-stage satellite launch vehicle (SLV) for ESA<br><br>2020 - signed US-led Artemis Accords for space and lunar exploration <br><br>2023 - first Italian all-electric satellite (MicroHETSat) built for the ESA and launched by the US; began developing a habitat for the US-led Artemis Lunar Gateway project<br><br>2025 - passed a national space law to govern Italian space operations<br>
 
 ## Terrorism
 

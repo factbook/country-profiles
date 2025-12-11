@@ -50,12 +50,12 @@ _lowest point_: Caribbean Sea 0 m<br>
 NEGL<br>
 
 **Land use**<br>
-_agricultural land_: 30% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 20% (2022 est.)<br>
+_agricultural land_: 30% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 20% (2023 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 10% (2022 est.)<br>
-_forest_: 25% (2022 est.)<br>
-_other_: 45% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 10% (2023 est.)<br>
+_forest_: 24.2% (2023 est.)<br>
+_other_: 45.8% (2023 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -160,7 +160,7 @@ _unimproved: total_: total: 0.4% of population (2022 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 7.2% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 7.7% national budget (2024 est.)<br>
+_Education expenditure (% national budget)_: 5.7% national budget (2025 est.)<br>
 
 ## Environment
 
@@ -171,12 +171,12 @@ land erosion on slopes that have been cleared for cultivation<br>
 tropical; little daily or seasonal temperature variation<br>
 
 **Land use**<br>
-_agricultural land_: 30% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 20% (2022 est.)<br>
+_agricultural land_: 30% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 20% (2023 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 10% (2022 est.)<br>
-_forest_: 25% (2022 est.)<br>
-_other_: 45% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 10% (2023 est.)<br>
+_forest_: 24.2% (2023 est.)<br>
+_other_: 45.8% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 9.3% of total population (2023)<br>

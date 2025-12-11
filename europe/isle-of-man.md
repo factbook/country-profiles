@@ -50,12 +50,12 @@ _lowest point_: Irish Sea 0 m<br>
 none<br>
 
 **Land use**<br>
-_agricultural land_: 71.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 42.3% (2022 est.)<br>
+_agricultural land_: 69.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 41.1% (2023 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 29.1% (2022 est.)<br>
-_forest_: 6.1% (2022 est.)<br>
-_other_: 22.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 28% (2023 est.)<br>
+_forest_: 6.4% (2023 est.)<br>
+_other_: 24.5% (2023 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -170,12 +170,12 @@ air pollution, marine pollution; waste disposal (both household and industrial)<
 temperate; cool summers and mild winters; overcast about a third of the time<br>
 
 **Land use**<br>
-_agricultural land_: 71.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 42.3% (2022 est.)<br>
+_agricultural land_: 69.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 41.1% (2023 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 29.1% (2022 est.)<br>
-_forest_: 6.1% (2022 est.)<br>
-_other_: 22.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 28% (2023 est.)<br>
+_forest_: 6.4% (2023 est.)<br>
+_other_: 24.5% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 53.5% of total population (2023)<br>
@@ -208,7 +208,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the name comes from the Gaelic name <em>Dubhghlais</em>, or "black stream," referring to a nearby river; a second river was called <em>Fionnghlais</em>, or "white stream;" both river names were later shortened to Dhoo and Glass, respectively, which coincidentally comprised the elements of the town's name<br>
 
 **Administrative divisions**<br>
-none; no first-order administrative divisions as defined by the US government, but 24 local authorities each hold elections<br>
+no first-order administrative divisions as defined by the US government, but 24 local authorities each hold elections<br>
 
 **Legal system**<br>
 UK laws apply, as well as Manx statutes<br>

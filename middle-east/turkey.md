@@ -53,12 +53,12 @@ _mean elevation_: 1,132 m<br>
 coal, iron ore, copper, chromium, antimony, mercury, gold, barite, borate, celestite (strontium), emery, feldspar, limestone, magnesite, marble, perlite, pumice, pyrites (sulfur), clay, arable land, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 50% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 26.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 19% (2022 est.)<br>
-_forest_: 29.3% (2022 est.)<br>
-_other_: 20.7% (2022 est.)<br>
+_agricultural land_: 50.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 26.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 19% (2023 est.)<br>
+_forest_: 29.3% (2023 est.)<br>
+_other_: 20.5% (2023 est.)<br>
 
 **Irrigated land**<br>
 52,150 sq km (2022)<br>
@@ -212,7 +212,7 @@ _male_: 40.1% (2025 est.)<br>
 _female_: 20.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-1.5% (2018/19)<br>
+1.5% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 65.4% (2023 est.)<br>
@@ -222,13 +222,13 @@ _women married by age 15_: 2% (2018)<br>
 _women married by age 18_: 14.7% (2018)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 3.1% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 8.6% national budget (2023 est.)<br>
+_Education expenditure (% GDP)_: 3.1% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 11.3% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_total population_: 97% (2021 est.)<br>
-_male_: 99% (2021 est.)<br>
-_female_: 95% (2021 est.)<br>
+_total population_: 97.3% (2021 est.)<br>
+_male_: 99.3% (2021 est.)<br>
+_female_: 95.3% (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 20 years (2022 est.)<br>
@@ -248,12 +248,12 @@ _signed, but not ratified_: Climate Change-Paris Agreement, Environmental Modifi
 temperate; hot, dry summers with mild, wet winters; harsher in interior<br>
 
 **Land use**<br>
-_agricultural land_: 50% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 26.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 19% (2022 est.)<br>
-_forest_: 29.3% (2022 est.)<br>
-_other_: 20.7% (2022 est.)<br>
+_agricultural land_: 50.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 26.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 19% (2023 est.)<br>
+_forest_: 29.3% (2023 est.)<br>
+_other_: 20.5% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 77.5% of total population (2023)<br>
@@ -683,7 +683,7 @@ mandatory military service for men at age 20; service can be delayed if in unive
 <strong>note 1:</strong> after completing six months of service, if a conscripted soldier wants to and is suitable for extending his military service, he may do so for an additional six months in return for a monthly salary; all male Turkish citizens over the age of 20 are required to undergo a one month military training period, but they can obtain an exemption from the remaining 5 months of their mandatory service by paying a fee <br><strong><br>note 2:</strong> as of 2021, women made up about 0.4% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-approximately 200 Azerbaijan; approximately 250 Bosnia-Herzegovina (EUFOR); approximately 30,000 Cyprus; 325 Kosovo (NATO/KFOR); estimated 500 Libya; estimated 3,000 Qatar; estimated 1,000 Somalia (2025)<br>
+approximately 200 Azerbaijan; approximately 250 Bosnia-Herzegovina (EUFOR); approximately 30,000 Cyprus; 730 Kosovo (NATO/KFOR); estimated 500 Libya; estimated 3,000 Qatar; estimated 1,000 Somalia (2025)<br>
 <strong>note:</strong> Turkey estimated to maintain several thousand military forces in both Iraq and Syria<br>
 
 **Military - note**<br>
@@ -699,6 +699,9 @@ rocket test launch site on the Black Sea in Sinop Province; constructing a rocke
 
 **Space program overview**<br>
 has an ambitious national space program with a focus on satellites, satellite components, satellite launch capabilities, software development, ground station technologies, and building up the country&rsquo;s space industries; manufactures and operates remote sensing and telecommunications satellites; in recent years has initiated a satellite/space launch vehicle (SLV) program with the goal of independently placing satellites into orbit and a probe on the Moon; works with more than 25 foreign space agencies and corporations, including those of Azerbaijan, China, France, India, Japan, Kazakhstan, Pakistan, Russia, South Korea, Ukraine, and the US, as well as the ESA; has state-owned rocket and satellite development companies, including some under the Ministry of Defense; has a growing private space-industry sector, and the Turkish Government has pledged to increase the country's share of the global space market (2025)<br>
+
+**Key space-program milestones**<br>
+1994 - first commercial communications satellite built jointly with and launched by France<br><br>2003 - first domestically built experimental remote sensing (RS) satellite (BILSAT) launched by Russia<br><br>2018 - launched first domestically produced solid-fuel sounding rocket to an altitude of 135 km (84 mi)<br> <br>2024 - first Turkish astronaut in space on the International Space Station; first domestically produced communications satellite launched by US<br><br>2025 - successfully launched 2-stage hybrid rocket more than 200 km (124 mi) in altitude<br>
 
 ## Terrorism
 

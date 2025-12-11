@@ -50,12 +50,12 @@ _lowest point_: Torrente Ausa 55 m<br>
 building stone<br>
 
 **Land use**<br>
-_agricultural land_: 38.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 33.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.3% (2022 est.)<br>
+_agricultural land_: 38.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 33.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.2% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 16.7% (2022 est.)<br>
-_other_: 45% (2022 est.)<br>
+_forest_: 16.7% (2023 est.)<br>
+_other_: 45% (2023 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -170,13 +170,13 @@ _unimproved: total_: total: 0% of population (2022 est.)<br>
 47.7% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 3.4% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 7.5% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 2.9% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 13% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_total population_: 100% (2022 est.)<br>
-_male_: 100% (2022 est.)<br>
-_female_: 100% (2022 est.)<br>
+_total population_: 99.9% (2022 est.)<br>
+_male_: 99.9% (2022 est.)<br>
+_female_: 99.9% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years (2015 est.)<br>
@@ -196,12 +196,12 @@ _signed, but not ratified_: Air Pollution<br>
 Mediterranean; mild to cool winters; warm, sunny summers<br>
 
 **Land use**<br>
-_agricultural land_: 38.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 33.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.3% (2022 est.)<br>
+_agricultural land_: 38.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 33.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.2% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 16.7% (2022 est.)<br>
-_other_: 45% (2022 est.)<br>
+_forest_: 16.7% (2023 est.)<br>
+_other_: 45% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 97.8% of total population (2023)<br>

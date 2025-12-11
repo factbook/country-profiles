@@ -190,17 +190,14 @@ _etymology_: the origin of the name is disputed; many historians now agree that 
 parliamentary democracy<br>
 
 **Dependency status**<br>
-constituent country of the Kingdom of the Netherlands; full autonomy in internal affairs granted in 2010; Dutch government responsible for defense and foreign affairs<br>
+one of four constituent countries of the Kingdom of the Netherlands; full autonomy in internal affairs granted in 2010; Dutch government responsible for defense and foreign affairs<br>
+<strong>note: </strong>the other three constituent countries in the Kingdom of the Netherlands are the Netherlands, Aruba, and Sint Maarten<br>
 
 **Capital**<br>
 _name_: Willemstad<br>
 _geographic coordinates_: 12 06 N, 68 55 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
 _etymology_: the name means "William's Town" in Dutch; named after Prince WILLEM of Orange (1533-84), the first stadtholder of the United Provinces of the Netherlands&nbsp;<br>
-
-**Administrative divisions**<br>
-none (part of the Kingdom of the Netherlands)<br>
-<strong>note:</strong> Curaçao is one of four constituent countries of the Kingdom of the Netherlands; the other three are the Netherlands, Aruba, and Sint Maarten<br>
 
 **Legal system**<br>
 based on Dutch civil law<br>

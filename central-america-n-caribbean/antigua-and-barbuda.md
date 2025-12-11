@@ -53,12 +53,12 @@ _lowest point_: Caribbean Sea 0 m<br>
 NEGL; pleasant climate fosters tourism<br>
 
 **Land use**<br>
-_agricultural land_: 20.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 9.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.1% (2022 est.)<br>
-_forest_: 18.2% (2022 est.)<br>
-_other_: 61.4% (2022 est.)<br>
+_agricultural land_: 20.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 9.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.1% (2023 est.)<br>
+_forest_: 18% (2023 est.)<br>
+_other_: 61.5% (2023 est.)<br>
 
 **Irrigated land**<br>
 1.3 sq km (2012)<br>
@@ -198,7 +198,7 @@ _other alcohols_: 0.41 liters of pure alcohol (2019 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.1% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 11% national budget (2024 est.)<br>
+_Education expenditure (% national budget)_: 5.9% national budget (2025 est.)<br>
 
 ## Environment
 
@@ -213,12 +213,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical maritime; little seasonal temperature variation<br>
 
 **Land use**<br>
-_agricultural land_: 20.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 9.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.1% (2022 est.)<br>
-_forest_: 18.2% (2022 est.)<br>
-_other_: 61.4% (2022 est.)<br>
+_agricultural land_: 20.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 9.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.1% (2023 est.)<br>
+_forest_: 18% (2023 est.)<br>
+_other_: 61.5% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 24.3% of total population (2023)<br>
@@ -298,7 +298,7 @@ _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 1/18/2023<br>
-_parties elected and seats per party_: Antigua and Barbuda Labour Party (ABLP) (9); United Progressive Party (UPP) (6); Barbuda People's Movement (BPM) (1); Independents (1)<br>
+_parties elected and seats per party_: Antigua and Barbuda Labour Party (ABLP) (9); United Progressive Party (UPP) (6); Barbuda People's Movement (BPM) (1); Independents (1); (1); Republican Force (1)<br>
 _percentage of women in chamber_: 5.6%<br>
 _expected date of next election_: January 2028<br>
 

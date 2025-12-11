@@ -54,12 +54,12 @@ _mean elevation_: 595 m<br>
 fertile plains of the pampas, lead, zinc, tin, copper, iron ore, manganese, petroleum, uranium, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 43.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 15.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 27.3% (2022 est.)<br>
-_forest_: 10.4% (2022 est.)<br>
-_other_: 46.2% (2022 est.)<br>
+_agricultural land_: 42.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 14.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.3% (2023 est.)<br>
+_forest_: 17.2% (2023 est.)<br>
+_other_: 40.4% (2023 est.)<br>
 
 **Irrigated land**<br>
 13,910 sq km (2018)<br>
@@ -206,7 +206,7 @@ _male_: 26.9% (2025 est.)<br>
 _female_: 17.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-2% (2018/19)<br>
+2% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 48.9% (2023 est.)<br>
@@ -216,8 +216,13 @@ _women married by age 15_: 2.4% (2020)<br>
 _women married by age 18_: 15.5% (2020)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4.8% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 12.7% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 5.9% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 14% national budget (2023 est.)<br>
+
+**Literacy**<br>
+_total population_: 99.1% (2020 est.)<br>
+_male_: 99.1% (2020 est.)<br>
+_female_: 99.2% (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years (2022 est.)<br>
@@ -237,12 +242,12 @@ _signed, but not ratified_: Marine Dumping-London Protocol, Marine Life Conserva
 mostly temperate; arid in southeast; subantarctic in southwest<br>
 
 **Land use**<br>
-_agricultural land_: 43.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 15.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 27.3% (2022 est.)<br>
-_forest_: 10.4% (2022 est.)<br>
-_other_: 46.2% (2022 est.)<br>
+_agricultural land_: 42.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 14.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.3% (2023 est.)<br>
+_forest_: 17.2% (2023 est.)<br>
+_other_: 40.4% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 92.5% of total population (2023)<br>
@@ -294,7 +299,7 @@ _time difference_: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name translates as "fair winds" in Spanish; the full original name, Nuestra Senora Santa Maria de los Buenos Aires, was given only to the port; the city was founded separately from the port in 1536 and was named Ciudad de la Santissima Trinidad (City of the Most Holy Trinity); the shortened version of the port name eventually became the city name<br>
 
 **Administrative divisions**<br>
-23 provinces (<em>provincias</em>, singular - <em>provincia</em>) and 1 autonomous city*; Buenos Aires, Catamarca, Chaco, Chubut, Ciudad Autonoma de Buenos Aires*, Cordoba, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquen, Rio Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego - Antartida e Islas del Atlantico Sur (Tierra del Fuego - Antarctica and the South Atlantic Islands), Tucuman<br>
+23 provinces (<em>provincias</em>, singular - <em>provincia</em>) and 1 autonomous city*; Buenos Aires, Catamarca, Chaco, Chubut, Ciudad Autonoma de Buenos Aires*, Cordoba, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquen, Rio Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego - Antartida e Islas del Atlántico Sur (Tierra del Fuego - Antarctica and the South Atlantic Islands), Tucuman<br>
 <strong>note:</strong> the US does not recognize any claims to Antarctica<br>
 
 **Legal system**<br>
@@ -337,7 +342,7 @@ _electoral system_: proportional representation<br>
 _scope of elections_: partial renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 10/22/2023<br>
-_parties elected and seats per party_: Union for the Homeland (UP) (48); Freedom Advances (LLA) (28); Together for Change (JxC/Juntos) (27); Other (27)<br>
+_parties elected and seats per party_: Union for the Homeland (UP) (48); Freedom Advances (LLA) (28); Together for Change (JxC/Juntos) (27); Other (25)<br>
 _percentage of women in chamber_: 42.4%<br>
 _expected date of next election_: October 2025<br>
 
@@ -703,6 +708,9 @@ Manuel Belgrano Space Center (Buenos Aires province); Punta Indio Space Center (
 
 **Space program overview**<br>
 has a national space program and a history in the development of space-related capabilities, including rockets and satellites; develops, builds, and operates communications, remote sensing (RS), and scientific satellites, often in partnership with other countries; developing additional satellites with more advanced payloads; contracts with commercial and other government space agencies for launches, but has a domestic rocket program and is developing space launch vehicle (SLV) capabilities; cooperates with a broad range of space agencies and industries, including those of Brazil, China, the European Space Agency and its member states (particularly France, Italy), and the US; also has a commercial space industry (2025)<br>
+
+**Key space-program milestones**<br>
+1961-1967 - launched first rocket (Alfa Centauro) and was first country in Latin America to send an animal into space<br><br>1997 - first domestically built communications satellite (Nahuel-1A) launched on European satellite launch vehicle (SLV)<br><br>2007 - launch of first sub-orbital test rocket for domestic SLV (Tronador) project <br><br>2018 - first domestically built, synthetic-aperture-radar remote sensing satellite (SAOCOM 1A) launched by US<br><br>2020-2021 - worked with Mexico to create the Latin American and Caribbean Space Agency (ALCE) <br><br>2023 - signed US-led Artemis Accords outlining best practices for space exploration<br><br>2025 - continued development of two-stage Tronador SLV<br>
 
 ## Terrorism
 

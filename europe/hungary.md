@@ -51,12 +51,12 @@ _mean elevation_: 143 m<br>
 bauxite, coal, natural gas, fertile soils, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 55.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 45.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 8.5% (2022 est.)<br>
-_forest_: 22.5% (2022 est.)<br>
-_other_: 21.9% (2022 est.)<br>
+_agricultural land_: 55.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 45.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8.6% (2023 est.)<br>
+_forest_: 22.7% (2023 est.)<br>
+_other_: 20.9% (2023 est.)<br>
 
 **Irrigated land**<br>
 1,331 sq km (2022)<br>
@@ -211,8 +211,8 @@ _female_: 23.8% (2025 est.)<br>
 51.4% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 5.1% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 10.4% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 3.8% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 7.8% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years (2023 est.)<br>
@@ -232,12 +232,12 @@ _signed, but not ratified_: Antarctic-Environmental Protection<br>
 temperate; cold, cloudy, humid winters; warm summers<br>
 
 **Land use**<br>
-_agricultural land_: 55.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 45.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 8.5% (2022 est.)<br>
-_forest_: 22.5% (2022 est.)<br>
-_other_: 21.9% (2022 est.)<br>
+_agricultural land_: 55.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 45.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8.6% (2023 est.)<br>
+_forest_: 22.7% (2023 est.)<br>
+_other_: 20.9% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 72.9% of total population (2023)<br>
@@ -329,7 +329,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 4/3/2022<br>
 _parties elected and seats per party_: Hungarian Civic Union-Christian Democratic People's Party (FIDESZ-KDNP) (135); Democratic Coalition (DK) (15); Movement for a Better Hungary (Jobbik) (10); Hungarian Socialist Party (MSZP) (10); Momentum (10); Other (19)<br>
-_percentage of women in chamber_: 15.2%<br>
+_percentage of women in chamber_: 15.6%<br>
 _expected date of next election_: April 2026<br>
 
 **Judicial branch**<br>
@@ -350,7 +350,7 @@ _consulate(s) general_: Chicago, Los Angeles, New York<br>
 _consulate(s)_: Houston, Miami<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Robert PALLADINO (since 7 March 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Caroline SAVAGE (since November 2025)<br>
 _embassy_: Szabadsag ter 12, H-1054 Budapest<br>
 _mailing address_: 5270 Budapest Place, US Department of State, Washington, DC 20521-5270<br>
 _telephone_: [36] (1) 475-4400<br>
@@ -655,7 +655,7 @@ the HDF has a mix of Soviet-era and more modern, Western equipment from such cou
 <strong>note:</strong> as of 2021, women comprised over 20% of Hungary's full-time military personnel<br>
 
 **Military deployments**<br>
-250 Bosnia-Herzegovina (EUFOR stabilization force); 200 Chad; 365 Kosovo (NATO/KFOR) (2025)<br>
+250 Bosnia-Herzegovina (EUFOR stabilization force); 200 Chad; 470 Kosovo (NATO/KFOR) (2025)<br>
 
 **Military - note**<br>
 the Hungarian Defense Forces (HDF) are responsible for ensuring the defense of the country’s sovereignty, territorial integrity, and citizens, and fulfilling Hungary’s commitments to the EU and NATO, as well as contributing to other international peacekeeping efforts under the UN; key areas of concern for the HDF the HDF is also responsible for some aspects of domestic security, crisis management, disaster response, and assisting law enforcement forces in border security<br><br>Hungary has been a member of NATO since 1999 and considers the collective defense ensured within the Alliance as a cornerstone of the country’s security; NATO membership is complemented by Hungary’s ties to the EU under its Common Security and Defense Policy; the HDF has participated in multiple NATO-led security missions, including in Afghanistan, Iraq, and Kosovo, as well as EU-led missions in Bosnia and Herzegovina and Mali; it hosts a NATO battlegroup comprised of troops from Croatia, Hungary, Italy, and the US, and NATO’s Multinational Division Center, a headquarters capable of commanding a division-sized force (typically 15-20,000 troops) in a crisis; both organizations were established as a result of Russian aggression against Ukraine; Hungary is a member of the Visegrad Group, a regional platform that brings together Czechia, Hungary, Poland, and Slovakia to discuss cultural, defense, and political cooperation (2025)<br>

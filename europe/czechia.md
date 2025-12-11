@@ -51,12 +51,12 @@ _mean elevation_: 433 m<br>
 hard coal, soft coal, kaolin, clay, graphite, timber, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 45.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 32.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 13% (2022 est.)<br>
-_forest_: 34.7% (2022 est.)<br>
-_other_: 19.5% (2022 est.)<br>
+_agricultural land_: 45.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 32.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.5% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 12.5% (2023 est.)<br>
+_forest_: 38.2% (2023 est.)<br>
+_other_: 16% (2023 est.)<br>
 
 **Irrigated land**<br>
 220 sq km (2022)<br>
@@ -211,8 +211,8 @@ _female_: 23% (2025 est.)<br>
 48.4% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4.7% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 11.1% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 4.3% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 10% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years (2022 est.)<br>
@@ -232,12 +232,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; cool summers; cold, cloudy, humid winters<br>
 
 **Land use**<br>
-_agricultural land_: 45.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 32.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 13% (2022 est.)<br>
-_forest_: 34.7% (2022 est.)<br>
-_other_: 19.5% (2022 est.)<br>
+_agricultural land_: 45.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 32.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.5% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 12.5% (2023 est.)<br>
+_forest_: 38.2% (2023 est.)<br>
+_other_: 16% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 74.6% of total population (2023)<br>
@@ -311,7 +311,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Petr PAVEL (since 9 March 2023)<br>
-_head of government_: Prime Minister Petr FIALA (since 17 December 2021)<br>
+_head of government_: Prime Minister Andrej BABIS (since 9 December 2025)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (limited to 2 consecutive terms); prime minister appointed by the president for a 4-year term<br>
 _most recent election date_: 13-14 January 2023, with a second round on 27-28 January 2023<br>
@@ -328,10 +328,10 @@ _number of seats_: 200 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 10/8/2021 to 10/9/2021<br>
-_parties elected and seats per party_: ANO (72); SPOLU (71); Pirate Party (Pirati) - Mayors and independents (STAN) (37); Freedom and Direct Democracy (SPD) (20)<br>
+_most recent election date_: 10/3/2025 to 10/4/2025<br>
+_parties elected and seats per party_: ANO (80); SPOLU (52); Mayors and independents (STAN) (22); Czech Pirate Party (18); Freedom and Direct Democracy (SPD) (15); Motoristé sobě (AUTO) (13)<br>
 _percentage of women in chamber_: 33.5%<br>
-_expected date of next election_: October 2025<br>
+_expected date of next election_: October 2029<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate (Senat)<br>
@@ -350,7 +350,7 @@ _judge selection and term of office_: Supreme Court judges proposed by the Chamb
 _subordinate courts_: High Court; regional and district courts<br>
 
 **Political parties**<br>
-Action of Dissatisfied Citizens or ANO (<em lang="cs">Akce nespokojených občanů)<br></em>Christian and Democratic Union - Czechoslovak People's Party or<em lang="cs"> KDU-ČSL</em><br>Civic Democratic Party or ODS<br>Communist Party of Bohemia and Moravia or KSČM<br>Czech Pirate Party or Piráti<br>ForMOST or ProMOST<br>Freedom and Direct Democracy or SPD<br>Independents or NEZ<br>Mayors and Independents or STAN<br>Mayors for the Liberec Region or SLK<br>Ostravak<br>Přísaha<br>Senator 21 or SEN 21<br>Social Democracy SOCDEM<br>Svobodni<br>Tradition Responsibility Prosperity 09 or TOP 09<br>Tábor 2020 or T2020<br>United Democrats - Association of Independents or SD-SN<br>
+Action of Dissatisfied Citizens or ANO (<em lang="cs">Akce nespokojených občanů)<br></em>Christian and Democratic Union - Czechoslovak People's Party or<em lang="cs"> KDU-ČSL</em><br>Civic Democratic Party or ODS<br>Communist Party of Bohemia and Moravia or KSČM<br>Czech Pirate Party or Piráti<br>ForMOST or ProMOST<br>Freedom and Direct Democracy or SPD<br>Independents or NEZ<br>Mayors and Independents or STAN<br>Mayors for the Liberec Region or SLK<br>Přísaha<br>Senator 21 or SEN 21<br>Social Democracy SOCDEM<br>Svobodni<br>Tradition Responsibility Prosperity 09 or TOP 09<br>Tábor 2020 or T2020<br>United Democrats - Association of Independents or SD-SN<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Miloslav STA&Scaron;EK (since 16 September 2022)<br>

@@ -53,12 +53,12 @@ _mean elevation_: 250 m<br>
 petroleum, natural gas, diamonds, manganese, iron ore, cobalt, bauxite, copper, gold, nickel, tantalum, silica sand, clay, cocoa beans, coffee, palm oil, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 84.2% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 13.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 29.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 41.5% (2022 est.)<br>
-_forest_: 8.2% (2022 est.)<br>
-_other_: 7.6% (2022 est.)<br>
+_agricultural land_: 86.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 15.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 29.9% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 41.5% (2023 est.)<br>
+_forest_: 12.4% (2023 est.)<br>
+_other_: 1.1% (2023 est.)<br>
 
 **Irrigated land**<br>
 730 sq km (2012)<br>
@@ -207,7 +207,7 @@ _male_: 14.9% (2025 est.)<br>
 _female_: 0.6% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-14% (2021)<br>
+13.6% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 60.3% (2023 est.)<br>
@@ -219,7 +219,7 @@ _men married by age 18_: 1.9% (2021)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.4% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 15.9% national budget (2023 est.)<br>
+_Education expenditure (% national budget)_: 17.6% national budget (2024 est.)<br>
 
 **Literacy**<br>
 _total population_: 50% (2021 est.)<br>
@@ -244,12 +244,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical along coast, semiarid in far north; three seasons - warm and dry (November to March), hot and dry (March to May), hot and wet (June to October)<br>
 
 **Land use**<br>
-_agricultural land_: 84.2% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 13.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 29.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 41.5% (2022 est.)<br>
-_forest_: 8.2% (2022 est.)<br>
-_other_: 7.6% (2022 est.)<br>
+_agricultural land_: 86.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 15.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 29.9% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 41.5% (2023 est.)<br>
+_forest_: 12.4% (2023 est.)<br>
+_other_: 1.1% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 53.1% of total population (2023)<br>
@@ -339,13 +339,13 @@ _legislative structure_: bicameral<br>
 <br><br><br>
 
 **Legislative branch - lower chamber**<br>
-_chamber name_: National Assembly (Assemblée nationale)<br>
+_chamber name_: National Assembly (Assembl&eacute;e nationale)<br>
 _number of seats_: 255 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 3/6/2021 to 6/12/2021<br>
-_parties elected and seats per party_: Rally of Houphouetists for Democracy and Peace (RHDP) (139); Democratic Party of Côte d'Ivoire-African Democratic Rally (PDCI-RDA)-Together for Democracy and Sovereignty (EDS) (49); Democratic Party of Côte d'Ivoire-African Democratic Rally (PDCI-RDA) (23); Independents (26); Other (18)<br>
+_parties elected and seats per party_: Rally of Houphouetists for Democracy and Peace (RHDP) (139); Democratic Party of C&ocirc;te d'Ivoire-African Democratic Rally (PDCI-RDA)-Together for Democracy and Sovereignty (EDS) (49); Democratic Party of C&ocirc;te d'Ivoire-African Democratic Rally (PDCI-RDA) (23); Independents (26); Other (18)<br>
 _percentage of women in chamber_: 13.4%<br>
 _expected date of next election_: December 2025<br>
 
@@ -686,6 +686,9 @@ National Office for Technical Studies and Development (Bureau d'Études Techniqu
 
 **Space program overview**<br>
 has a small, nascent program focused on satellite technology and geospatial information systems, as well as exploitation for resource management, environmental challenges, agricultural sector support, and national security; member of the African Space Agency and cooperates bilaterally with member states such as Tanzania (2025)<br>
+
+**Key space-program milestones**<br>
+2023 - hosted an Africa-wide space industry conference; announced plans to acquire and launch first small remote sensing satellite (Yam-Sat- CI 01) <br><br>2024 - began joint project with Tanzania to build a technology-demonstrator cube satellite (TanSat-1)<br>
 
 ## Terrorism
 

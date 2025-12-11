@@ -51,12 +51,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 fish<br>
 
 **Land use**<br>
-_agricultural land_: 25% (2022 est.)<br>
+_agricultural land_: 25% (2023 est.)<br>
 _agricultural land: arable land_: arable land: 0% (2022 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 25% (2022 est.)<br>
-_forest_: 12.3% (2022 est.)<br>
-_other_: 62.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 25% (2023 est.)<br>
+_forest_: 12.2% (2023 est.)<br>
+_other_: 62.8% (2023 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -107,12 +107,12 @@ inadequate solid-waste management; most freshwater obtained through rainwater ca
 subtropical; mild, little seasonal temperature variation<br>
 
 **Land use**<br>
-_agricultural land_: 25% (2022 est.)<br>
+_agricultural land_: 25% (2023 est.)<br>
 _agricultural land: arable land_: arable land: 0% (2022 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 25% (2022 est.)<br>
-_forest_: 12.3% (2022 est.)<br>
-_other_: 62.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 25% (2023 est.)<br>
+_forest_: 12.2% (2023 est.)<br>
+_other_: 62.8% (2023 est.)<br>
 
 ## Government
 
@@ -134,9 +134,6 @@ _geographic coordinates_: 29 03 S, 167 58 E<br>
 _time difference_: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins first Sunday in October; ends first Sunday in April<br>
 _etymology_: the name blends the words "king's" and "town;" the English king at the time of the town's settlement in the late 18th century was GEORGE III<br>
-
-**Administrative divisions**<br>
-none (territory of Australia)<br>
 
 **Legal system**<br>
 English common law and the laws of Australia<br>

@@ -51,12 +51,12 @@ _mean elevation_: 325 m<br>
 iron ore (no longer exploited), arable land<br>
 
 **Land use**<br>
-_agricultural land_: 51.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 24.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 26.7% (2022 est.)<br>
-_forest_: 34.5% (2022 est.)<br>
-_other_: 14.2% (2022 est.)<br>
+_agricultural land_: 51.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 23.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.1% (2023 est.)<br>
+_forest_: 34.5% (2023 est.)<br>
+_other_: 13.9% (2023 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2012)<br>
@@ -206,8 +206,8 @@ _female_: 19.9% (2025 est.)<br>
 51.4% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4.7% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 10.7% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 3.7% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 8.5% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years (2022 est.)<br>
@@ -227,12 +227,12 @@ _signed, but not ratified_: Environmental Modification<br>
 modified continental with mild winters, cool summers<br>
 
 **Land use**<br>
-_agricultural land_: 51.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 24.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 26.7% (2022 est.)<br>
-_forest_: 34.5% (2022 est.)<br>
-_other_: 14.2% (2022 est.)<br>
+_agricultural land_: 51.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 23.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.1% (2023 est.)<br>
+_forest_: 34.5% (2023 est.)<br>
+_other_: 13.9% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 92.1% of total population (2023)<br>
@@ -639,6 +639,9 @@ the Luxembourg Space Agency (LSA; established 2018) (2025)<br>
 
 **Space program overview**<br>
 Luxembourg Space Agency was established in 2018 to develop space policy, encourage and coordinate commercial space ventures, support space education, and promote the country&rsquo;s space-related capabilities internationally; has a national space strategy; has set up policy and funding initiatives (such as LuxIMPULSE) to encourage research, development, innovation, and entrepreneurship and attract space-based industries; focuses on developing commercial satellites and infrastructure, as well as other capabilities and technologies; hosts some of the largest commercial satellite companies in the world; member of the ESA since 2005 and participates in a variety of ESA programs; cooperates bilaterally with individual ESA and EU member states; also works with other foreign space agencies and industries, including those of Canada, China, Japan, New Zealand, South Korea, the UAE, and the US (2025)<br>
+
+**Key space-program milestones**<br>
+1980s - began creating a satellite telecommunications infrastructure for Europe<br><br>2014 - first privately built probe to successfully fly by the Moon (launched by China)<br><br>2018 - developed communications satellite (GOVSAT-1) to support the EU’s secure communications and space situational awareness program (GOVSATCOM)<br><br>2020 - signed US-led Artemis Accords for space exploration and agreed to join the Moon exploration mission<br><br>2021 - launched Luxembourg’s Quantum Communications Infrastructure project (LuxQCI) in support of the EU’s Quantum Communications Infrastructure (EuroQCI)<br><br>2025 - launched the Luxembourg Earth Observation System (LUXEOSys) satellite, part of a national space-based remote sensing program<br>
 
 ## Transnational Issues
 

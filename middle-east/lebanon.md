@@ -51,12 +51,12 @@ _mean elevation_: 1,250 m<br>
 limestone, iron ore, salt, water-surplus state in a water-deficit region, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 66.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 13.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 13.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 39.1% (2022 est.)<br>
-_forest_: 14.1% (2022 est.)<br>
-_other_: 19.5% (2022 est.)<br>
+_agricultural land_: 65.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 13.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 13.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 39.1% (2023 est.)<br>
+_forest_: 13.8% (2023 est.)<br>
+_other_: 20.3% (2023 est.)<br>
 
 **Irrigated land**<br>
 1,040 sq km (2012)<br>
@@ -191,7 +191,7 @@ _male_: 43.8% (2025 est.)<br>
 _female_: 25.4% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-3.4% (2021)<br>
+5.1% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 51.4% (2023 est.)<br>
@@ -201,13 +201,13 @@ _women married by age 15_: 1.4% (2016)<br>
 _women married by age 18_: 6% (2016)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 2.4% of GDP (2020 est.)<br>
-_Education expenditure (% national budget)_: 9.9% national budget (2020 est.)<br>
+_Education expenditure (% GDP)_: 1.2% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 8.6% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_total population_: 93% (2018 est.)<br>
-_male_: 95% (2018 est.)<br>
-_female_: 90% (2018 est.)<br>
+_total population_: 92% (2019 est.)<br>
+_male_: 94.8% (2019 est.)<br>
+_female_: 89.5% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years (2023 est.)<br>
@@ -227,12 +227,12 @@ _signed, but not ratified_: Environmental Modification, Marine Life Conservation
 Mediterranean; mild to cool, wet winters with hot, dry summers; the Lebanon Mountains experience heavy winter snows<br>
 
 **Land use**<br>
-_agricultural land_: 66.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 13.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 13.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 39.1% (2022 est.)<br>
-_forest_: 14.1% (2022 est.)<br>
-_other_: 19.5% (2022 est.)<br>
+_agricultural land_: 65.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 13.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 13.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 39.1% (2023 est.)<br>
+_forest_: 13.8% (2023 est.)<br>
+_other_: 20.3% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 89.4% of total population (2023)<br>

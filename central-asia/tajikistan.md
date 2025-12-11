@@ -51,12 +51,12 @@ _mean elevation_: 3,186 m<br>
 hydropower, some petroleum, uranium, mercury, brown coal, lead, zinc, antimony, tungsten, silver, gold<br>
 
 **Land use**<br>
-_agricultural land_: 28.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 20.3% (2022 est.)<br>
-_forest_: 3.1% (2022 est.)<br>
-_other_: 68.9% (2022 est.)<br>
+_agricultural land_: 27.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 6.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.5% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 20.4% (2023 est.)<br>
+_forest_: 3.1% (2023 est.)<br>
+_other_: 69% (2023 est.)<br>
 
 **Irrigated land**<br>
 5,681 sq km (2022)<br>
@@ -202,7 +202,7 @@ _spirits_: 0.45 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-7.6% (2017)<br>
+5.2% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 72% (2023 est.)<br>
@@ -213,7 +213,7 @@ _women married by age 18_: 8.7% (2017)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 5.4% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 19.7% national budget (2023 est.)<br>
+_Education expenditure (% national budget)_: 19.3% national budget (2024 est.)<br>
 
 **Literacy**<br>
 _female_: 94.6% (2017 est.)<br>
@@ -236,12 +236,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 mid-latitude continental, hot summers, mild winters; semiarid to polar in Pamir Mountains<br>
 
 **Land use**<br>
-_agricultural land_: 28.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 20.3% (2022 est.)<br>
-_forest_: 3.1% (2022 est.)<br>
-_other_: 68.9% (2022 est.)<br>
+_agricultural land_: 27.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 6.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.5% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 20.4% (2023 est.)<br>
+_forest_: 3.1% (2023 est.)<br>
+_other_: 69% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 28.2% of total population (2023)<br>
@@ -349,7 +349,7 @@ _judge selection and term of office_: Supreme Court, Constitutional Court, and H
 _subordinate courts_: regional and district courts; Dushanbe City Court; viloyat (province-level) courts; Court of Gorno-Badakhshan Autonomous Region<br>
 
 **Political parties**<br>
-Agrarian Party of Tajikistan or APT<br>Communist Party of Tajikistan or CPT<br>Democratic Party of Tajikistan or DPT<br>Party of Economic Reform of Tajikistan or PERT<br>People's Democratic Party of Tajikistan or PDPT<br>Social Democratic Party of Tajikistan or SDPT<br>Socialist Party of Tajikistan or SPT<br>
+Agrarian Party of Tajikistan or APT<br>Democratic Party or DPT<br>Party of Economic Reforms or PERT<br>People's Democratic Party of Tajikistan or PDPT<br>Socialist Party of Tajikistan or SPT<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador-designate Zavqi ZAVQIZODA (since November 2021)<br>

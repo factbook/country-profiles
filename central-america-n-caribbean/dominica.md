@@ -51,12 +51,12 @@ _lowest point_: Caribbean Sea 0 m<br>
 timber, hydropower, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 33.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 22.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 2.7% (2022 est.)<br>
-_forest_: 63.8% (2022 est.)<br>
-_other_: 2.8% (2022 est.)<br>
+_agricultural land_: 33.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 22.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2.7% (2023 est.)<br>
+_forest_: 76.6% (2023 est.)<br>
+_other_: 0% (2023 est.)<br>
 
 **Irrigated land**<br>
 NA<br>
@@ -197,12 +197,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; moderated by northeast trade winds; heavy rainfall<br>
 
 **Land use**<br>
-_agricultural land_: 33.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 22.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 2.7% (2022 est.)<br>
-_forest_: 63.8% (2022 est.)<br>
-_other_: 2.8% (2022 est.)<br>
+_agricultural land_: 33.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 22.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2.7% (2023 est.)<br>
+_forest_: 76.6% (2023 est.)<br>
+_other_: 0% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 72% of total population (2023)<br>

@@ -51,12 +51,12 @@ _mean elevation_: 458 m<br>
 lignite, small amounts of iron ore, copper and manganese ore; salt; arable land<br>
 
 **Land use**<br>
-_agricultural land_: 38.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 27.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 10.6% (2022 est.)<br>
-_forest_: 40.1% (2022 est.)<br>
-_other_: 21.1% (2022 est.)<br>
+_agricultural land_: 38% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 27.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 10.4% (2023 est.)<br>
+_forest_: 40.3% (2023 est.)<br>
+_other_: 21.4% (2023 est.)<br>
 
 **Irrigated land**<br>
 259 sq km (2022)<br>
@@ -210,8 +210,8 @@ _female_: 26.3% (2025 est.)<br>
 47.9% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4.5% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 10.7% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 4.7% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 11% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years (2023 est.)<br>
@@ -231,12 +231,12 @@ _signed, but not ratified_: Antarctic-Environmental Protection<br>
 temperate; cool summers; cold, cloudy, humid winters<br>
 
 **Land use**<br>
-_agricultural land_: 38.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 27.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 10.6% (2022 est.)<br>
-_forest_: 40.1% (2022 est.)<br>
-_other_: 21.1% (2022 est.)<br>
+_agricultural land_: 38% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 27.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 10.4% (2023 est.)<br>
+_forest_: 40.3% (2023 est.)<br>
+_other_: 21.4% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 54% of total population (2023)<br>
@@ -336,7 +336,7 @@ _judge selection and term of office_: Supreme Court judge candidates nominated b
 _subordinate courts_: regional and district civil courts; Special Criminal Court; Higher Military Court; military district courts; Court of Audit<br>
 
 **Political parties**<br>
-Alliance-Szovetseg or A-S<br>Christian Union or KÚ<br>Civic Conservative Party or OKS<br>Democrats<br>Direction-Social Democracy or Smer-SSD<br>For the People or Za Ludi<br>Freedom and Solidarity or SaS<br>Life National Party or Život–NS (formerly Christian Democracy - Life and Prosperity - Alliance for Slovkia)<br>New Majority or NOVA<br>Ordinary People and Independent Personalities - New Majority or OLaNO-NOVA<br>People's Party Our Slovakia or LSNS<br>Progressive Slovakia or PS<br>Republic<br>Slovak National Party or SNS<br>Voice - Social Democracy or Hlas-SD<br>We Are Family or Sme-Rodina (formerly Party of Citizens of Slovakia)<br>
+Direction - Social Democracy or SMER-SD<br>Freedom and Solidarity or SaS<br>Progressive Slovakia or PS<br>Republic<br>Slovakia<br>The Slovak National Party or SNS<br>The Christian Democratic Movement or KDH<br>Voice - Social Democracy or HLAS-SD<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Radovan JAVORČ&Iacute;K (since 18 January 2021)<br>

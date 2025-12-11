@@ -51,12 +51,12 @@ _mean elevation_: 492 m<br>
 lignite, lead, zinc, building stone, hydropower, forests<br>
 
 **Land use**<br>
-_agricultural land_: 30.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 8.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 18.8% (2022 est.)<br>
-_forest_: 61.3% (2022 est.)<br>
-_other_: 8.4% (2022 est.)<br>
+_agricultural land_: 30.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 8.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 18.8% (2023 est.)<br>
+_forest_: 61.8% (2023 est.)<br>
+_other_: 10.8% (2023 est.)<br>
 
 **Irrigated land**<br>
 50 sq km (2022)<br>
@@ -198,8 +198,8 @@ _female_: 15.3% (2025 est.)<br>
 46.4% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 5.7% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 12% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 5.3% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 11.1% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years (2023 est.)<br>
@@ -219,12 +219,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 Mediterranean climate on the coast, continental climate with mild to hot summers and cold winters in the plateaus and valleys to the east<br>
 
 **Land use**<br>
-_agricultural land_: 30.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 8.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 18.8% (2022 est.)<br>
-_forest_: 61.3% (2022 est.)<br>
-_other_: 8.4% (2022 est.)<br>
+_agricultural land_: 30.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 8.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 18.8% (2023 est.)<br>
+_forest_: 61.8% (2023 est.)<br>
+_other_: 10.8% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 56.1% of total population (2023)<br>
@@ -663,8 +663,7 @@ the military's inventory is a mix of Soviet-era and smaller quantities of more m
 <strong>note:</strong> as of 2023, women comprised about 16% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-100 Kosovo (NATO); 100 Slovakia (NATO) (2024)<br>
-<strong>note:</strong> in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Slovenia, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
+110 Kosovo (NATO); up to 200 Slovakia (NATO) (2025)<br>
 
 **Military - note**<br>
 the Slovenian Armed Forces (Slovenska Vojska or SV) are responsible for the defense of the country’s sovereignty and territory, deterring external threats, and contributing to European security and other international peacekeeping missions; the SV is also active in civil-military cooperation, such as the maintenance of local infrastructure; Slovenia has been a member of the EU and NATO since 2004, and one of the SV’s key missions is fulfilling the country’s commitments to NATO, including equipment modernization, participating in training exercises, and contributing to NATO operations; the SV provides troops to NATO’s efforts to enhance its presence in the Baltics (Latvia) and Eastern Europe (Slovakia); it has also participated in other international security missions with small numbers of personnel in such places as Africa, southern Europe, the Mediterranean Sea, and the Middle East; NATO allies Hungary and Italy provide air policing for Slovenia<br><br>the SV was formally established in 1993 as a reorganization of the Slovenia Defense Force; the Defense Force, along with the Slovenian police, comprised the majority of the forces that engaged with the Yugoslav People’s Army during the 10-Day War after Slovenia declared its independence in 1991 (2025)<br>

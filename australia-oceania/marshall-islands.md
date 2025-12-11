@@ -53,12 +53,12 @@ _mean elevation_: 2 m<br>
 coconut products, marine products, deep seabed minerals<br>
 
 **Land use**<br>
-_agricultural land_: 38.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 36.1% (2022 est.)<br>
+_agricultural land_: 38.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 36.1% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 52.2% (2022 est.)<br>
-_other_: 8.9% (2022 est.)<br>
+_forest_: 53.9% (2023 est.)<br>
+_other_: 7.2% (2023 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -190,14 +190,19 @@ _male_: 52.9% (2025 est.)<br>
 _female_: 8.5% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-11.9% (2017)<br>
+11.9% (2017 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 68.3% (2022 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 7.5% of GDP (2022 est.)<br>
+_Education expenditure (% GDP)_: 7.7% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 11.3% national budget (2022 est.)<br>
+
+**Literacy**<br>
+_total population_: 95.8% (2021 est.)<br>
+_male_: 95.7% (2021 est.)<br>
+_female_: 96.4% (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years (2022 est.)<br>
@@ -217,12 +222,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; hot and humid; wet season May to November; islands border typhoon belt<br>
 
 **Land use**<br>
-_agricultural land_: 38.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 36.1% (2022 est.)<br>
+_agricultural land_: 38.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 36.1% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 52.2% (2022 est.)<br>
-_other_: 8.9% (2022 est.)<br>
+_forest_: 53.9% (2023 est.)<br>
+_other_: 7.2% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 78.9% of total population (2023)<br>

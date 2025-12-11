@@ -50,10 +50,10 @@ _lowest point_: South China Sea 0 m<br>
 outstanding deepwater harbor, feldspar<br>
 
 **Land use**<br>
-_agricultural land_: 3.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1% (2022 est.)<br>
+_agricultural land_: 3.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 1% (2023 est.)<br>
 _forest_: 0% (2022 est.)<br>
 _other_: 96.2% (2022 est.)<br>
 
@@ -180,8 +180,8 @@ _unimproved: total_: total: 3.5% of population (2022 est.)<br>
 47.7% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 3.8% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 12.7% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 3.8% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 15.7% national budget (2024 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years (2023 est.)<br>
@@ -197,10 +197,10 @@ air and water pollution from rapid urbanization; urban waste pollution; industri
 subtropical monsoon; cool and humid in winter, hot and rainy from spring through summer, warm and sunny in fall<br>
 
 **Land use**<br>
-_agricultural land_: 3.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1% (2022 est.)<br>
+_agricultural land_: 3.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 1% (2023 est.)<br>
 _forest_: 0% (2022 est.)<br>
 _other_: 96.2% (2022 est.)<br>
 
@@ -233,9 +233,6 @@ presidential limited democracy; a special administrative region of the People's 
 
 **Dependency status**<br>
 special administrative region of the People's Republic of China<br>
-
-**Administrative divisions**<br>
-none (special administrative region of the People's Republic of China)<br>
 
 **Legal system**<br>
 mixed system of common law based on the English model and Chinese customary law (in matters of family and land tenure); China's imposition of National Security Law incorporates elements of Chinese civil law<br>

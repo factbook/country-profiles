@@ -53,12 +53,12 @@ _mean elevation_: 320 m<br>
 iron ore, copper, lead, zinc, gold, silver, tungsten, uranium, arsenic, feldspar, timber, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 7.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 6.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1.1% (2022 est.)<br>
-_forest_: 68.7% (2022 est.)<br>
-_other_: 23.9% (2022 est.)<br>
+_agricultural land_: 7.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 6.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 1.1% (2023 est.)<br>
+_forest_: 68.6% (2023 est.)<br>
+_other_: 23.8% (2023 est.)<br>
 
 **Irrigated land**<br>
 510 sq km (2016)<br>
@@ -211,8 +211,8 @@ _female_: 13.9% (2025 est.)<br>
 53.4% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 7.1% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 14.6% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 7.3% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 15.3% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years (2023 est.)<br>
@@ -232,12 +232,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate in south with cold, cloudy winters and cool, partly cloudy summers; subarctic in north<br>
 
 **Land use**<br>
-_agricultural land_: 7.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 6.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1.1% (2022 est.)<br>
-_forest_: 68.7% (2022 est.)<br>
-_other_: 23.9% (2022 est.)<br>
+_agricultural land_: 7.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 6.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 1.1% (2023 est.)<br>
+_forest_: 68.6% (2023 est.)<br>
+_other_: 23.8% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 88.7% of total population (2023)<br>
@@ -679,6 +679,9 @@ Esrange Space Center (Kiruna) (2025)<br>
 
 **Space program overview**<br>
 aims to have one of Europe's leading space programs; produces and operates satellites; builds and launches sounding rockets; involved in the research, development, production, and operations of a variety of other space-related areas, including astronomy, atmospheric monitoring, geographic information systems, infrared imaging, meteorology, propulsion systems, remote sensing, satellite subsystems, spacecraft systems and structures, research, and telecommunications; member of the ESA and program is integrated into its framework; works extensively with foreign space agencies, in particular through the ESA and EU and their member states, as well as with the US; participates in programs such as Europe's Copernicus Earth observation and the Galileo global navigation satellite system, France's Pleiades project, and the Square Kilometer Array Project; has a large commercial space industry, including state-owned enterprises (2025)<br>
+
+**Key space-program milestones**<br>
+1950s - space program initiated with the establishment of a space observatory and the Swedish Space Research Committee<br><br>1961 - launched first sounding rocket<br><br>1986 - first scientific satellite (Viking) launched on European rocket<br><br>1989 - first communications satellite (Tele-X) launched on European rocket<br><br>2006 - first astronaut into space on US Space Shuttle<br><br>2019 - established a space data lab for artificial intelligence-based analysis of imagery data<br><br>2024 - signed US-led Artemis Accords for space and lunar exploration; launched first military communications satellite (GNA-3); adopted its first defense and security space strategy<br>
 
 ## Terrorism
 

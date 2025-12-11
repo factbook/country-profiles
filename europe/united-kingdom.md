@@ -54,12 +54,12 @@ _mean elevation_: 162 m<br>
 coal, petroleum, natural gas, iron ore, lead, zinc, gold, tin, limestone, salt, clay, chalk, gypsum, potash, silica sand, slate, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 69.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 24.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 44.6% (2022 est.)<br>
-_forest_: 13.3% (2022 est.)<br>
-_other_: 17.2% (2022 est.)<br>
+_agricultural land_: 70.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 25% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 45.2% (2023 est.)<br>
+_forest_: 13.4% (2023 est.)<br>
+_other_: 14.7% (2023 est.)<br>
 
 **Irrigated land**<br>
 718 sq km (2018)<br>
@@ -203,6 +203,9 @@ _total_: 11.5% (2025 est.)<br>
 _male_: 13.3% (2025 est.)<br>
 _female_: 9.8% (2025 est.)<br>
 
+**Children under the age of 5 years underweight**<br>
+0.6% (2019 est.)<br>
+
 **Currently married women (ages 15-49)**<br>
 50.7% (2023 est.)<br>
 
@@ -210,8 +213,8 @@ _female_: 9.8% (2025 est.)<br>
 _women married by age 18_: 0% (2021)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4.9% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 10.6% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 5.9% of GDP (2021 est.)<br>
+_Education expenditure (% national budget)_: 11.8% national budget (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years (2022 est.)<br>
@@ -231,12 +234,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; moderated by prevailing southwest winds over the North Atlantic Current; more than one-half of the days are overcast<br>
 
 **Land use**<br>
-_agricultural land_: 69.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 24.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 44.6% (2022 est.)<br>
-_forest_: 13.3% (2022 est.)<br>
-_other_: 17.2% (2022 est.)<br>
+_agricultural land_: 70.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 25% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 45.2% (2023 est.)<br>
+_forest_: 13.4% (2023 est.)<br>
+_other_: 14.7% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 84.6% of total population (2023)<br>
@@ -704,6 +707,9 @@ Spaceport 1 (Outer Hebrides, Scotland); Spaceport Machrihanish (Argyll, Scotland
 **Space program overview**<br>
 has a long-standing, comprehensive national space program; is active across all areas of the space sector except human space flight, including satellite launch vehicles (SLVs)/rockets, probes, satellites, and spaceports; is a founding member of the ESA and is deeply involved in ESA programs; has bilateral relations with many ESA members and is a close partner of the US NASA; since 2016 has forged over 350 relationships with international organizations across nearly 50 countries; participates in international programs such as the International Space Station and the James Webb Space Telescope; has a large commercial space sector; the UK has a space industrial plan, and the UK Space Agency has provided funding for commercial space projects (2025)<br>
 <strong>note: </strong>the UK was part of several EU-sponsored space programs until departing the EU in 2020, including the Galileo global positioning system and the Space Surveillance and Tracking (SST) project; it remained part of the Copernicus Earth observation and Horizon Europe research and innovation programs after 2020; the UK has participated or continues to participate in multiple ESA programs, including Cassini-Huygens research mission to Saturn, the Mars Express space exploration missions, the Rosetta comet probe, and the Jupiter Icy Moons Explorer (JUICE) mission<strong><br></strong><br>
+
+**Key space-program milestones**<br>
+1957 - first suborbital sounding rocket (Skylark) launched<br><br>1960s - first satellite (Ariel) launched by US; development of Black Arrow satellite launch vehicle (SLV); launched first of Skynet family of communications satellites<br><br>1971 - first successful placement of satellite (Prospero) in orbit on a 3-stage Black Arrow SLV (Black Arrow SLV program ended in early 1970s)<br><br>1973 - began participating in development of Ariane SLV along with other European states, particularly France and Germany<br><br>1991 - first British astronaut into space to Russian Mir space station<br><br>2015 - first British astronaut on International Space Station<br><br>2019-2020 - began participating in US Gateway lunar orbital station program and signed US-led Artemis Accords for space and lunar exploration<br><br>2024 - first military remote sensing satellite (Tyche) launched by US<br>
 
 ## Terrorism
 

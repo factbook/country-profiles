@@ -56,12 +56,12 @@ gold, chromium, antimony, coal, iron ore, manganese, nickel, phosphates, tin, ra
 <strong>note: </strong>South Africa was the World's leading chromite ore producer in 2022 with an output of 18,000 mt<br>
 
 **Land use**<br>
-_agricultural land_: 79.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 9.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 69.2% (2022 est.)<br>
-_forest_: 14% (2022 est.)<br>
-_other_: 6.6% (2022 est.)<br>
+_agricultural land_: 79.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 9.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 69.2% (2023 est.)<br>
+_forest_: 18.7% (2023 est.)<br>
+_other_: 1.9% (2023 est.)<br>
 
 **Irrigated land**<br>
 16,700 sq km (2012)<br>
@@ -210,7 +210,7 @@ _male_: 35.3% (2025 est.)<br>
 _female_: 6% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-4.9% (2017)<br>
+4.9% (2017 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 36.9% (2023 est.)<br>
@@ -221,13 +221,13 @@ _women married by age 18_: 3.6% (2016)<br>
 _men married by age 18_: 0.6% (2016)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 6.7% of GDP (2024 est.)<br>
-_Education expenditure (% national budget)_: 18.6% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 6% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 19.1% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_total population_: 90% (2021 est.)<br>
-_male_: 91% (2021 est.)<br>
-_female_: 89% (2021 est.)<br>
+_total population_: 91.2% (2024 est.)<br>
+_male_: 91.5% (2024 est.)<br>
+_female_: 90.8% (2024 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years (2022 est.)<br>
@@ -247,12 +247,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 mostly semiarid; subtropical along east coast; sunny days, cool nights<br>
 
 **Land use**<br>
-_agricultural land_: 79.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 9.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 69.2% (2022 est.)<br>
-_forest_: 14% (2022 est.)<br>
-_other_: 6.6% (2022 est.)<br>
+_agricultural land_: 79.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 9.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 69.2% (2023 est.)<br>
+_forest_: 18.7% (2023 est.)<br>
+_other_: 1.9% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 68.8% of total population (2023)<br>
@@ -345,8 +345,8 @@ _number of seats_: 400 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 5/29/2024<br>
-_percentage of women in chamber_: 44.9%<br>
+_most recent election date_: 6/15/2024<br>
+_percentage of women in chamber_: 44.7%<br>
 _expected date of next election_: May 2029<br>
 
 **Legislative branch - upper chamber**<br>
@@ -354,7 +354,7 @@ _chamber name_: National Council of Provinces<br>
 _number of seats_: 90 (all appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 6/15/2024<br>
+_most recent election date_: 5/29/2024<br>
 _percentage of women in chamber_: 44.4%<br>
 _expected date of next election_: June 2029<br>
 <strong>note:</strong> the Council has special powers to protect regional interests, including safeguarding cultural and linguistic traditions among ethnic minorities<br>
@@ -699,6 +699,9 @@ Arniston launch facility (Western Cape) used to support space launch vehicle and
 
 **Space program overview**<br>
 key areas of emphasis for its national space program include Earth observation/remote sensing (RS) capabilities, weather monitoring, research, engineering, and operations (tracking, telemetry, etc.); produces and operates satellites; has a sounding rocket program for carrying experimental payloads for research; cooperates with a range of foreign space agencies and industries, including those of China, France, India, Russia, and the US; member of the African Space Agency; participates in international programs such as the Square Kilometer Array Project; has a number of state- and privately-owned aerospace companies, as well as academic and research institutions involved in space-related activities (2025)<br>
+
+**Key space-program milestones**<br>
+1976 - established a satellite remote sensing (RS)/radio astronomy center (originally built by the US in 1961 to receive data from US space missions)<br><br>1980s - conducted program to launch reconnaissance satellites on a domestically produced satellite launch vehicle (abandoned in 1994 along with nuclear program)<br><br>1999 - first domestically built RS/technology demonstrator microsatellite (Sunsat-1) launched by US<br><br>2009 - first government-owned and -operated RS/scientific/technology demonstrator satellite (SumbandilaSat) launched by Russia<br><br>2018 - inaugurated a radio space telescope array (Karoo Array Telescope or MeerKAT)<br><br>2021 - began construction of the international Square Kilometer Array radio telescope observatory; launched a sounding rocket for research purposes to an altitude of nearly 18,000 km (11,185 mi)<br><br>2022 - opened Africa's first regional space weather center<br><br>2023 - agreed to participate in China's international lunar research station project<br>
 
 ## Terrorism
 

@@ -53,12 +53,12 @@ cobalt, copper, niobium, tantalum, petroleum, industrial and gem diamonds, gold,
 <strong>note 1:</strong> coltan, the industrial name for a columbite–tantalite mineral from which niobium and tantalum are extracted, is mainly artisanal and small-scale; tantalum, tin, tungsten, and gold extracted from central Africa are considered "conflict minerals" and as such are subject to international monitoring<br><br><strong>note 2:</strong> the DROC is the World's leading producer of cobalt, accounting for as much as 70% of the World's supply; between 20-30% of this cobalt is produced in artisanal and small-scale mining operations<br>
 
 **Land use**<br>
-_agricultural land_: 15.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 6.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.9% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 8% (2022 est.)<br>
-_forest_: 54.7% (2022 est.)<br>
-_other_: 29.8% (2022 est.)<br>
+_agricultural land_: 15.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 6.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.9% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8% (2023 est.)<br>
+_forest_: 61.6% (2023 est.)<br>
+_other_: 22.9% (2023 est.)<br>
 
 **Irrigated land**<br>
 110 sq km (2012)<br>
@@ -213,7 +213,7 @@ _male_: 18.8% (2025 est.)<br>
 _female_: 2.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-23.1% (2017/18)<br>
+25% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 55.3% (2023 est.)<br>
@@ -225,7 +225,7 @@ _men married by age 18_: 5.6% (2018)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 2.8% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 18.4% national budget (2022 est.)<br>
+_Education expenditure (% national budget)_: 13.5% national budget (2017 est.)<br>
 
 **Literacy**<br>
 _total population_: 73.6% (2018 est.)<br>
@@ -245,12 +245,12 @@ _signed, but not ratified_: Environmental Modification<br>
 tropical; hot and humid in equatorial river basin; cooler and drier in southern highlands; cooler and wetter in eastern highlands; north of Equator - wet season (April to October), dry season (December to February); south of Equator - wet season (November to March), dry season (April to October)<br>
 
 **Land use**<br>
-_agricultural land_: 15.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 6.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.9% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 8% (2022 est.)<br>
-_forest_: 54.7% (2022 est.)<br>
-_other_: 29.8% (2022 est.)<br>
+_agricultural land_: 15.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 6.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.9% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8% (2023 est.)<br>
+_forest_: 61.6% (2023 est.)<br>
+_other_: 22.9% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 47.4% of total population (2023)<br>
@@ -344,8 +344,8 @@ _number of seats_: 500 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 12/20/2023<br>
-_parties elected and seats per party_: Union for Democracy and Social Progress/TSHISEKEDI (UDPS/TSHISEKEDI) (69); Action of Allies and Union for the Congolese Nation (A/A-UNC) (35); Alliance of Democratic Forces of Congo and Allies (AFDC-A) (35); Act and Build (AB) (26); Other (312)<br>
+_most recent election date_: 4/29/2024 to 5/26/2024<br>
+_parties elected and seats per party_: Union for Democracy and Social Progress/TSHISEKEDI (UDPS/TSHISEKEDI) (69); Action of Allies and Union for the Congolese Nation (A/A-UNC) (35); Alliance of Democratic Forces of Congo and Allies (AFDC-A) (35); Act and Build (AB) (26); Action of Allies/All for the Development of the Congo (2A/TDC) (21); Alliance of Stakeholders for the People (AAAP) (21); Alliance Bloc 50 (A/B50) (20); Congo Liberation Movement (MLC) (19); Other (131)<br>
 _percentage of women in chamber_: 12.8%<br>
 _expected date of next election_: December 2028<br>
 
@@ -354,7 +354,7 @@ _chamber name_: Senate (Sénat)<br>
 _number of seats_: 109 (all indirectly elected)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 4/29/2024 to 5/26/2024<br>
+_most recent election date_: 12/20/2023<br>
 _percentage of women in chamber_: 15.8%<br>
 _expected date of next election_: April 2029<br>
 

@@ -51,12 +51,12 @@ _mean elevation_: 500 m<br>
 coal, iron ore, antimony, bauxite, copper, lead, zinc, chromite, cobalt, manganese, nickel, clay, gypsum, salt, sand, timber, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 44.2% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 19.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 22.4% (2022 est.)<br>
-_forest_: 42.7% (2022 est.)<br>
-_other_: 13.1% (2022 est.)<br>
+_agricultural land_: 21.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 7.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 12.8% (2023 est.)<br>
+_forest_: 42.2% (2023 est.)<br>
+_other_: 36.1% (2023 est.)<br>
 
 **Irrigated land**<br>
 30 sq km (2012)<br>
@@ -203,8 +203,8 @@ _female_: 29% (2025 est.)<br>
 63.8% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 3% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 10.4% national budget (2021 est.)<br>
+_Education expenditure (% GDP)_: 3.2% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 10.2% national budget (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years (2023 est.)<br>
@@ -224,12 +224,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 hot summers and cold winters; areas of high elevation have short, cool summers and long, severe winters; mild, rainy winters along coast<br>
 
 **Land use**<br>
-_agricultural land_: 44.2% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 19.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 22.4% (2022 est.)<br>
-_forest_: 42.7% (2022 est.)<br>
-_other_: 13.1% (2022 est.)<br>
+_agricultural land_: 21.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 7.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 12.8% (2023 est.)<br>
+_forest_: 42.2% (2023 est.)<br>
+_other_: 36.1% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 50.3% of total population (2023)<br>
@@ -319,8 +319,8 @@ _number of seats_: 42 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 10/2/2022<br>
-_parties elected and seats per party_: Party of Democratic Action (SDA) (9); Alliance of Independent Social Democrats (SNSD) (6); Social Democratic Party of Bosnia and Herzegovina (SDP) (5); HDZ BiH, HSS, HSP BiH, HKDU, HSPAS, HDU, HSPHB, HRAST (4); Democratic Front (DF) - Civic Alliance (GS) (3); People and Justice (NAROD I PRAVDA) (3); Other (12)<br>
+_most recent election date_: 2/16/2023<br>
+_parties elected and seats per party_: Party of Democratic Action (SDA) (9); Alliance of Independent Social Democrats (SNSD) (6); Social Democratic Party of Bosnia and Herzegovina (SDP) (5); HDZ BiH, HSS, HSP BiH, HKDU, HSPAS, HDU, HSPHB, HRAST (4); Democratic Front (DF) - Civic Alliance (GS) (3); People and Justice (NAROD I PRAVDA) (3); (3); Republican Party of the Social Order (PROS) (3); Other (15)<br>
 _percentage of women in chamber_: 19%<br>
 _expected date of next election_: October 2026<br>
 
@@ -329,7 +329,7 @@ _chamber name_: House of Peoples (Dom Naroda)<br>
 _number of seats_: 15 (all appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 2/16/2023<br>
+_most recent election date_: 10/2/2022<br>
 _percentage of women in chamber_: 6.7%<br>
 _expected date of next election_: February 2027<br>
 
@@ -350,7 +350,7 @@ _email address and website_: <br>info@bhembassy.org<br><br>http://www.bhembassy.
 _consulate(s) general_: Chicago<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Daniel KOSKI (since February 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires John GINKEL (since September 2025)<br>
 _embassy_: 1 Robert C. Frasure Street, 71000 Sarajevo<br>
 _mailing address_: 7130 Sarajevo Place, Washington DC&nbsp; 20521-7130<br>
 _telephone_: [387] (33) 704-000<br>

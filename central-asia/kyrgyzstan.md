@@ -51,12 +51,12 @@ _mean elevation_: 2,988 m<br>
 abundant hydropower; gold, rare earth metals; locally exploitable coal, oil, and natural gas; other deposits of nepheline, mercury, bismuth, lead, and zinc<br>
 
 **Land use**<br>
-_agricultural land_: 54% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 6.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 46.9% (2022 est.)<br>
-_forest_: 7% (2022 est.)<br>
-_other_: 38.9% (2022 est.)<br>
+_agricultural land_: 54% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 6.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 46.9% (2023 est.)<br>
+_forest_: 6.5% (2023 est.)<br>
+_other_: 39.4% (2023 est.)<br>
 
 **Irrigated land**<br>
 10,041 sq km (2022)<br>
@@ -209,7 +209,7 @@ _male_: 50.7% (2025 est.)<br>
 _female_: 3.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-1.8% (2018)<br>
+2.9% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 66.2% (2023 est.)<br>
@@ -220,7 +220,7 @@ _women married by age 18_: 12.9% (2018)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 6.8% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 19.8% national budget (2023 est.)<br>
+_Education expenditure (% national budget)_: 19.6% national budget (2024 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years (2024 est.)<br>
@@ -240,12 +240,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 dry continental to polar in high Tien Shan Mountains; subtropical in southwest (Fergana Valley); temperate in northern foothill zone<br>
 
 **Land use**<br>
-_agricultural land_: 54% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 6.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 46.9% (2022 est.)<br>
-_forest_: 7% (2022 est.)<br>
-_other_: 38.9% (2022 est.)<br>
+_agricultural land_: 54% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 6.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 46.9% (2023 est.)<br>
+_forest_: 6.5% (2023 est.)<br>
+_other_: 39.4% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 37.8% of total population (2023)<br>
@@ -327,13 +327,13 @@ _expected date of next election_: 2027<br>
 _legislature name_: Supreme Council (Jogorku Kenesh)<br>
 _legislative structure_: unicameral<br>
 _number of seats_: 90 (all directly elected)<br>
-_electoral system_: proportional representation<br>
+_electoral system_: other systems<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 11/28/2021<br>
+_most recent election date_: 11/30/2025<br>
 _parties elected and seats per party_: Ata-Jurt Kyrgyzstan (Fatherland) (15); Ishenim (Trust) (12); Yntymak (Harmony) (9); Alyans (Alliance) (7); Butun Kyrgyzstan (United) (6); Yiman Nuru (Ray of Faith) (5); Independents (34)<br>
 _percentage of women in chamber_: 22.2%<br>
-_expected date of next election_: November 2026<br>
+_expected date of next election_: November 2030<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 25 judges); Constitutional Chamber of the Supreme Court (consists of the chairperson, deputy chairperson, and 9 judges)<br>
@@ -341,7 +341,7 @@ _judge selection and term of office_: Supreme Court and Constitutional Court jud
 _subordinate courts_: Higher Court of Arbitration; oblast (provincial) and city courts<br>
 
 **Political parties**<br>
-Afghan's Party<br>Alliance<br>Ata-Jurt Kyrgyzstan (Fatherland) or AJK<br>Cohesion<br>Ishenim (Trust)<br>Light of Faith<br>Mekenchil or the "Patriotic" Political Party<br>Social Democrats or SDK<br>United Kyrgyzstan<br>Yntymak (Unity)<br>
+Afghan's Party<br>Alliance<br>Cohesion<br>Fatherland Kyrgyzstan<br>Ishenim<br>Light of Faith<br>Mekenchil<br>Social Democrats or SDK<br>United Kyrgyzstan<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Aibek MOLDOGAZIEV (since 25 February 2025)<br>

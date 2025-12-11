@@ -133,9 +133,6 @@ _geographic coordinates_: 10 25 S, 105 43 E<br>
 _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time)<br>
 _etymology_: Flying Fish Cove was named after a British explorer's ship in 1886<br>
 
-**Administrative divisions**<br>
-none (territory of Australia)<br>
-
 **Legal system**<br>
 system is under the authority of the governor general of Australia and Australian law<br>
 

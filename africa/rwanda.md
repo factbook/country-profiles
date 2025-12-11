@@ -51,12 +51,12 @@ _mean elevation_: 1,598 m<br>
 gold, cassiterite (tin ore), wolframite (tungsten ore), methane, hydropower, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 81.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 51.4% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 14.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 15.6% (2022 est.)<br>
-_forest_: 11.3% (2022 est.)<br>
-_other_: 7.5% (2022 est.)<br>
+_agricultural land_: 76.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 47% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 13.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 15.6% (2023 est.)<br>
+_forest_: 24.5% (2023 est.)<br>
+_other_: 0% (2023 est.)<br>
 
 **Irrigated land**<br>
 96 sq km (2012)<br>
@@ -210,7 +210,7 @@ _male_: 17% (2025 est.)<br>
 _female_: 6.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-7.7% (2019/20)<br>
+7.7% (2020 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 50.4% (2023 est.)<br>
@@ -225,9 +225,9 @@ _Education expenditure (% GDP)_: 4.7% of GDP (2024 est.)<br>
 _Education expenditure (% national budget)_: 13.9% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_total population_: 79% (2022 est.)<br>
+_total population_: 78.8% (2022 est.)<br>
 _male_: 81% (2022 est.)<br>
-_female_: 77% (2022 est.)<br>
+_female_: 76.7% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years (2023 est.)<br>
@@ -247,12 +247,12 @@ _signed, but not ratified_: Law of the Sea<br>
 temperate; two rainy seasons (February to April, November to January); mild in mountains with frost and snow possible<br>
 
 **Land use**<br>
-_agricultural land_: 81.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 51.4% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 14.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 15.6% (2022 est.)<br>
-_forest_: 11.3% (2022 est.)<br>
-_other_: 7.5% (2022 est.)<br>
+_agricultural land_: 76.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 47% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 13.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 15.6% (2023 est.)<br>
+_forest_: 24.5% (2023 est.)<br>
+_other_: 0% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 17.9% of total population (2023)<br>
@@ -351,7 +351,7 @@ _chamber name_: Senate (Sénat)<br>
 _number of seats_: 26 (18 indirectly elected; 8 appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 9/16/2024 to 9/17/2024<br>
+_most recent election date_: 9/16/2024 to 9/16/2024<br>
 _percentage of women in chamber_: 53.8%<br>
 _expected date of next election_: September 2029<br>
 
@@ -664,6 +664,9 @@ Rwanda Space Agency (L&rsquo;Agence Spatiale Rwandaise; RSA; established 2020 an
 
 **Space program overview**<br>
 has a small program focused on developing space technologies, such as satellite communications and imagery for connectivity, disaster management, security, and socioeconomic development; operates communications and remote sensing (RS) satellites; has established ties with the space agencies or industries of several countries, including France, Israel, Japan, Poland, the UAE, and the US, as well as members of the African Space Agency; seeks to establish itself as an African hub for satellite production and has encouraged development of a domestic commercial space sector (2025)<br>
+
+**Key space-program milestones**<br>
+2018 - signed cooperation agreement with Japan for training in designing and producing mini-satellites<br><br>2019 - first remote sensing (RS) nanosatellite (RWASAT-1) built with assistance from and launched by Japan; first commercial communications satellite (Icyerekezo) built and launched by France<br><br>2022 - signed US-led Artemis Accords for space exploration<br><br>2025 - joined newly formed African Space Agency<br>
 
 ## Transnational Issues
 

@@ -51,12 +51,12 @@ _mean elevation_: 474 m<br>
 uranium, coal, iron ore, tin, phosphates, gold, molybdenum, gypsum, salt, petroleum<br>
 
 **Land use**<br>
-_agricultural land_: 36.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 14% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 22.7% (2022 est.)<br>
-_forest_: 0.8% (2022 est.)<br>
-_other_: 62.4% (2022 est.)<br>
+_agricultural land_: 36.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 14% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 22.7% (2023 est.)<br>
+_forest_: 0.8% (2023 est.)<br>
+_other_: 62.4% (2023 est.)<br>
 
 **Irrigated land**<br>
 2,881 sq km (2022)<br>
@@ -214,7 +214,7 @@ _male_: 13.7% (2025 est.)<br>
 _female_: 1.2% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-34.6% (2022)<br>
+34.6% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 80.3% (2023 est.)<br>
@@ -246,12 +246,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 desert; mostly hot, dry, dusty; tropical in extreme south<br>
 
 **Land use**<br>
-_agricultural land_: 36.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 14% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 22.7% (2022 est.)<br>
-_forest_: 0.8% (2022 est.)<br>
-_other_: 62.4% (2022 est.)<br>
+_agricultural land_: 36.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 14% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 22.7% (2023 est.)<br>
+_forest_: 0.8% (2023 est.)<br>
+_other_: 62.4% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 17.1% of total population (2023)<br>

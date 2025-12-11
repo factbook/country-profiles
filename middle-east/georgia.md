@@ -53,12 +53,12 @@ _mean elevation_: 1,432 m<br>
 timber, hydropower, manganese deposits, iron ore, copper, minor coal and oil deposits; coastal climate and soils allow for important tea and citrus growth<br>
 
 **Land use**<br>
-_agricultural land_: 34.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 4.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 27.9% (2022 est.)<br>
-_forest_: 40.6% (2022 est.)<br>
-_other_: 25.1% (2022 est.)<br>
+_agricultural land_: 34.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 4.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.9% (2023 est.)<br>
+_forest_: 44.6% (2023 est.)<br>
+_other_: 21.2% (2023 est.)<br>
 
 **Irrigated land**<br>
 4,330 sq km (2012)<br>
@@ -204,7 +204,7 @@ _male_: 53.9% (2025 est.)<br>
 _female_: 7.5% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-2.1% (2018)<br>
+2.1% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 67.1% (2023 est.)<br>
@@ -215,13 +215,13 @@ _women married by age 18_: 13.9% (2018)<br>
 _men married by age 18_: 0.5% (2018)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 3.7% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 14.1% national budget (2023 est.)<br>
+_Education expenditure (% GDP)_: 4% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 12.2% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_total population_: 99.6% (2023 est.)<br>
-_male_: 99.5% (2023 est.)<br>
-_female_: 99.6% (2023 est.)<br>
+_total population_: 99.7% (2024 est.)<br>
+_male_: 99.8% (2024 est.)<br>
+_female_: 99.6% (2024 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years (2023 est.)<br>
@@ -241,12 +241,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 warm and pleasant; Mediterranean-like on Black Sea coast<br>
 
 **Land use**<br>
-_agricultural land_: 34.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 4.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 27.9% (2022 est.)<br>
-_forest_: 40.6% (2022 est.)<br>
-_other_: 25.1% (2022 est.)<br>
+_agricultural land_: 34.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 4.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.9% (2023 est.)<br>
+_forest_: 44.6% (2023 est.)<br>
+_other_: 21.2% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 60.7% of total population (2023)<br>
@@ -344,7 +344,7 @@ _subordinate courts_: Courts of Appeal; regional (town) and district courts<br>
 <strong>note:</strong> the Abkhazian and Ajarian Autonomous republics each have a supreme court and a hierarchy of lower courts<br>
 
 **Political parties**<br>
-Citizens<br>European Socialists<br>For Georgia<br>Georgian Dream<br>Girchi<br>Law and Justice<br>Lelo for Georgia<br>National Democratic Party<br>People's Power<br>Progress and Freedom<br>Republican Party<br>State for the People<br>Strategy Aghmashenebeli<br>United National Movement or UNM<br>Victorious Georgia<br>
+Ahali<br>Citizens<br>Conservative Party<br>Droa<br>European Georgia - Movement for Liberty<br>For Georgia<br>For the People<br>Freedom Square<br>Georgian Dream<br>Girchi - More Freedom<br>Law and Justice<br>Lelo for Georgia<br>National Democratic Party<br>People's Power<br>Progress and Freedom<br>Republican Party<br>State for the People<br>Strategy Aghmashenebeli<br>United National Movement or UNM<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Tamar TALIASHVILI (since 24 July 2025)<br>

@@ -54,12 +54,12 @@ _mean elevation_: 243 m<br>
 iron ore, timber, diamonds, gold, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 20% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 5.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 12.7% (2022 est.)<br>
-_forest_: 78.5% (2022 est.)<br>
-_other_: 1.6% (2022 est.)<br>
+_agricultural land_: 20% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 5.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 12.7% (2023 est.)<br>
+_forest_: 66.5% (2023 est.)<br>
+_other_: 13.5% (2023 est.)<br>
 
 **Irrigated land**<br>
 30 sq km (2012)<br>
@@ -203,7 +203,7 @@ _male_: 11.5% (2025 est.)<br>
 _female_: 1.5% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-10.9% (2019/20)<br>
+10.9% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 48.7% (2023 est.)<br>
@@ -230,12 +230,12 @@ _signed, but not ratified_: Environmental Modification, Marine Life Conservation
 tropical; hot, humid; dry winters with hot days and cool to cold nights; wet, cloudy summers with frequent heavy showers<br>
 
 **Land use**<br>
-_agricultural land_: 20% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 5.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 12.7% (2022 est.)<br>
-_forest_: 78.5% (2022 est.)<br>
-_other_: 1.6% (2022 est.)<br>
+_agricultural land_: 20% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 5.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 12.7% (2023 est.)<br>
+_forest_: 66.5% (2023 est.)<br>
+_other_: 13.5% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 53.6% of total population (2023)<br>

@@ -52,12 +52,12 @@ _mean elevation_: 246 m<br>
 timber, hydropower, fish, kaolin, shrimp, bauxite, gold, and small amounts of nickel, copper, platinum, iron ore<br>
 
 **Land use**<br>
-_agricultural land_: 0.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.3% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.1% (2022 est.)<br>
-_forest_: 94.5% (2022 est.)<br>
-_other_: 5% (2022 est.)<br>
+_agricultural land_: 0.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.1% (2023 est.)<br>
+_forest_: 91.7% (2023 est.)<br>
+_other_: 7.9% (2023 est.)<br>
 
 **Irrigated land**<br>
 600 sq km (2020)<br>
@@ -196,7 +196,7 @@ _spirits_: 2.87 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.18 liters of pure alcohol (2019 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-6.7% (2018)<br>
+6.7% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 52.1% (2023 est.)<br>
@@ -228,12 +228,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; moderated by trade winds<br>
 
 **Land use**<br>
-_agricultural land_: 0.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.3% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.1% (2022 est.)<br>
-_forest_: 94.5% (2022 est.)<br>
-_other_: 5% (2022 est.)<br>
+_agricultural land_: 0.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.1% (2023 est.)<br>
+_forest_: 91.7% (2023 est.)<br>
+_other_: 7.9% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 66.4% of total population (2023)<br>

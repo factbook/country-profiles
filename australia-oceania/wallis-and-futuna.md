@@ -51,12 +51,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 NEGL<br>
 
 **Land use**<br>
-_agricultural land_: 42.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 7.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 35.7% (2022 est.)<br>
+_agricultural land_: 42.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 35.2% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 41.6% (2022 est.)<br>
-_other_: 15.5% (2022 est.)<br>
+_forest_: 74.9% (2023 est.)<br>
+_other_: 0% (2023 est.)<br>
 
 **Irrigated land**<br>
 0.6 sq km (2022)<br>
@@ -161,6 +161,11 @@ _unimproved: total_: total: 5.8% of population (2022 est.)<br>
 **Currently married women (ages 15-49)**<br>
 56% (2023)<br>
 
+**Literacy**<br>
+_total population_: 99.8% (2023 est.)<br>
+_male_: 99.9% (2023 est.)<br>
+_female_: 100% (2023 est.)<br>
+
 ## Environment
 
 **Environmental issues**<br>
@@ -170,12 +175,12 @@ deforestation (only small portions of the original forests remain) due to wood a
 tropical; hot, rainy season (November to April); cool, dry season (May to October); rains 250-300 cm per year (80% humidity); average temperature 26.6 degrees Celsius<br>
 
 **Land use**<br>
-_agricultural land_: 42.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 7.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 35.7% (2022 est.)<br>
+_agricultural land_: 42.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 35.2% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 41.6% (2022 est.)<br>
-_other_: 15.5% (2022 est.)<br>
+_forest_: 74.9% (2023 est.)<br>
+_other_: 0% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 0% of total population (2023)<br>

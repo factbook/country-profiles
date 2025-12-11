@@ -51,12 +51,12 @@ _lowest point_: Dead Sea -431 m<br>
 arable land<br>
 
 **Land use**<br>
-_agricultural land_: 64.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 11.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 46.1% (2022 est.)<br>
-_forest_: 1.7% (2022 est.)<br>
-_other_: 33.4% (2022 est.)<br>
+_agricultural land_: 64.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 46.1% (2023 est.)<br>
+_forest_: 1.8% (2023 est.)<br>
+_other_: 32.1% (2023 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 **Irrigated land**<br>
@@ -183,7 +183,7 @@ _unimproved: total_: total: 0.2% of population (2022 est.)<br>
 <strong>note:</strong> includes Gaza Strip and the West Bank<br>
 
 **Children under the age of 5 years underweight**<br>
-2.1% (2019/20)<br>
+2.1% (2020 est.)<br>
 <strong>note:</strong> estimate is for Gaza Strip and the West Bank<br>
 
 **Currently married women (ages 15-49)**<br>
@@ -220,12 +220,12 @@ adequacy of freshwater supply; sewage treatment<br>
 temperate; temperature and precipitation vary with altitude, warm to hot summers, cool to mild winters<br>
 
 **Land use**<br>
-_agricultural land_: 64.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 11.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 46.1% (2022 est.)<br>
-_forest_: 1.7% (2022 est.)<br>
-_other_: 33.4% (2022 est.)<br>
+_agricultural land_: 64.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 46.1% (2023 est.)<br>
+_forest_: 1.8% (2023 est.)<br>
+_other_: 32.1% (2023 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 **Urbanization**<br>

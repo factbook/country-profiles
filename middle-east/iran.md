@@ -55,12 +55,12 @@ _mean elevation_: 1,305 m<br>
 petroleum, natural gas, coal, chromium, copper, iron ore, lead, manganese, zinc, sulfur<br>
 
 **Land use**<br>
-_agricultural land_: 29% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 9.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 18.2% (2022 est.)<br>
-_forest_: 6.6% (2022 est.)<br>
-_other_: 64.4% (2022 est.)<br>
+_agricultural land_: 29% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 9.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 18.2% (2023 est.)<br>
+_forest_: 6.6% (2023 est.)<br>
+_other_: 64.4% (2023 est.)<br>
 
 **Irrigated land**<br>
 79,721 sq km (2020)<br>
@@ -210,7 +210,7 @@ _male_: 23.8% (2025 est.)<br>
 _female_: 2.8% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-4.3% (2017)<br>
+4.3% (2017 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 70.3% (2023 est.)<br>
@@ -242,12 +242,12 @@ _signed, but not ratified_: Climate Change-Paris Agreement, Comprehensive Nuclea
 mostly arid or semiarid, subtropical along Caspian coast<br>
 
 **Land use**<br>
-_agricultural land_: 29% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 9.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 18.2% (2022 est.)<br>
-_forest_: 6.6% (2022 est.)<br>
-_other_: 64.4% (2022 est.)<br>
+_agricultural land_: 29% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 9.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 18.2% (2023 est.)<br>
+_forest_: 6.6% (2023 est.)<br>
+_other_: 64.4% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 77.3% of total population (2023)<br>
@@ -670,6 +670,9 @@ Imam Khomeini Space Center (aka Semnan Space Center; Semnan province); Shahroud 
 
 **Space program overview**<br>
 has an ambitious civil and military space program focused on satellites and satellite launch vehicles (SLV); designs, builds, and operates satellites, including communications, remote sensing (RS), and scientific; manufactures and operates SLVs; researching and developing other space-related capabilities and technologies in areas such as telecommunications, RS, navigation, and space situational awareness; international sanctions against Iran&rsquo;s weapons of mass destruction program have severely limited Iran&rsquo;s cooperation with foreign space agencies and commercial space industries; in recent years, however, it has worked with North Korea and Russia, as well as regional and international space organizations such as the Asia-Pacific Space Cooperation Organization and the International Telecommunications Satellite Organization; Iran was a founding member of the UN Committee on the Peaceful Uses of Outer Space (COPUOS) in 1958; has an active private space industry (2025)<br>
+
+**Key space-program milestones**<br>
+1998 - began development of 2-stage satellite/space launch vehicle (SLV) (Safir)<br><br>2006 - first successful launch of a small, domestically produced communications and research satellite (Omid) on the Safir SLV<br><br>2010 - began developing a more capable 2-stage orbital SLV (Simorgh; aka Safir-2)<br><br>2011 - launched first domestically produced remote sensing (RS) satellite (Rasad) on Safir SLV<br><br>2020 - placed RS microsatellite (Noor) in orbit on 3-stage SLV (Qased or Messenger)<br><br>2021 - first launch of road-mobile 3-stage SLV (Zuljanah)<br><br>2022 - completed suborbital test of new small-lift SLV (Quam-100)<br>
 
 ## Terrorism
 

@@ -53,12 +53,12 @@ _mean elevation_: 615 m<br>
 graphite, chromite, coal, bauxite, rare earth elements, salt, quartz, tar sands, semiprecious stones, mica, fish, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 70.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 5.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 64.1% (2022 est.)<br>
-_forest_: 21.3% (2022 est.)<br>
-_other_: 8.4% (2022 est.)<br>
+_agricultural land_: 70.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 5.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 64.1% (2023 est.)<br>
+_forest_: 17.5% (2023 est.)<br>
+_other_: 12.2% (2023 est.)<br>
 
 **Irrigated land**<br>
 10,860 sq km (2012)<br>
@@ -200,7 +200,7 @@ _male_: 40.2% (2025 est.)<br>
 _female_: 8.2% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-22.6% (2021)<br>
+22.6% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 60.1% (2023 est.)<br>
@@ -237,12 +237,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical along coast, temperate inland, arid in south<br>
 
 **Land use**<br>
-_agricultural land_: 70.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 5.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 64.1% (2022 est.)<br>
-_forest_: 21.3% (2022 est.)<br>
-_other_: 8.4% (2022 est.)<br>
+_agricultural land_: 70.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 5.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 64.1% (2023 est.)<br>
+_forest_: 17.5% (2023 est.)<br>
+_other_: 12.2% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 40.6% of total population (2023)<br>
@@ -327,8 +327,8 @@ _number of seats_: 163 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 5/29/2024<br>
-_parties elected and seats per party_: Isika Rehetra Miaraka Amin&rsquo;i Andry Rajoelina (IRMAR) (84); Firaisankina (22); Independents (50); Other (7)<br>
+_most recent election date_: 12/11/2020<br>
+_parties elected and seats per party_: Isika Rehetra Miaraka Amin’i Andry Rajoelina (IRMAR) (84); Firaisankina (22); Independents (50); Other (7)<br>
 _percentage of women in chamber_: 14.1%<br>
 _expected date of next election_: May 2029<br>
 
@@ -336,7 +336,7 @@ _expected date of next election_: May 2029<br>
 _chamber name_: Senate (Antenimierandoholona)<br>
 _number of seats_: 18 (12 indirectly elected; 6 appointed)<br>
 _term in office_: 5 years<br>
-_most recent election date_: 12/11/2020<br>
+_most recent election date_: 5/29/2024<br>
 _parties elected and seats per party_: IRMAR (10); MALAGASY MIARA-MIAINGA (2)<br>
 _percentage of women in chamber_: 11.1%<br>
 _expected date of next election_: December 2025<br>

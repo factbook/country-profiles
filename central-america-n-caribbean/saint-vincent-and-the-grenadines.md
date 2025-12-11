@@ -52,12 +52,12 @@ _lowest point_: Caribbean Sea 0 m<br>
 hydropower, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 17.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 5.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 7.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.1% (2022 est.)<br>
-_forest_: 73.2% (2022 est.)<br>
-_other_: 8.9% (2022 est.)<br>
+_agricultural land_: 17.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 5.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 7.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.1% (2023 est.)<br>
+_forest_: 73.2% (2023 est.)<br>
+_other_: 8.8% (2023 est.)<br>
 
 **Irrigated land**<br>
 10 sq km (2012)<br>
@@ -203,12 +203,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; little seasonal temperature variation; rainy season (May to November)<br>
 
 **Land use**<br>
-_agricultural land_: 17.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 5.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 7.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.1% (2022 est.)<br>
-_forest_: 73.2% (2022 est.)<br>
-_other_: 8.9% (2022 est.)<br>
+_agricultural land_: 17.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 5.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 7.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.1% (2023 est.)<br>
+_forest_: 73.2% (2023 est.)<br>
+_other_: 8.8% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 54.3% of total population (2023)<br>
@@ -273,7 +273,7 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Susan DOUGAN (since 1 August 2019)<br>
-_head of government_: Prime Minister Ralph Everard GONSALVES (since 29 March 2001)<br>
+_head of government_: Prime Minister Godwin FRIDAY (since 28 November 2025)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _election/appointment process_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the governor general usually appoints the leader of the majority party or majority coalition as prime minister; deputy prime minister also appointed by governor general on the advice of the prime minister<br>
 
@@ -284,10 +284,10 @@ _number of seats_: 22 (15 directly elected; 6 appointed)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 11/5/2020<br>
+_most recent election date_: 11/27/2025<br>
 _parties elected and seats per party_: United Labour Party (ULP) (9); New Democratic Party (NDP) (6)<br>
 _percentage of women in chamber_: 21.7%<br>
-_expected date of next election_: November 2025<br>
+_expected date of next election_: November 2030<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC is headquartered on St. Lucia and consists of the Court of Appeal -- headed by the chief justice and 4 judges -- and the High Court with 18 judges; the Court of Appeal travels to member states on a schedule to hear appeals from the High Court and subordinate courts; Saint Vincent and the Grenadines is a member of the Caribbean Court of Justice<br>

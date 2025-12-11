@@ -52,12 +52,12 @@ _mean elevation_: 442 m<br>
 timber, petroleum, nickel, cobalt, silver, gold, salt, copper<br>
 
 **Land use**<br>
-_agricultural land_: 42.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 18.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 18.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5% (2022 est.)<br>
-_forest_: 24.3% (2022 est.)<br>
-_other_: 33.1% (2022 est.)<br>
+_agricultural land_: 42.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 18.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 18.9% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5% (2023 est.)<br>
+_forest_: 24.7% (2023 est.)<br>
+_other_: 32.7% (2023 est.)<br>
 
 **Irrigated land**<br>
 16,270 sq km (2012)<br>
@@ -206,7 +206,7 @@ _male_: 34.4% (2025 est.)<br>
 _female_: 3.7% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-19.1% (2015)<br>
+16.7% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 59.3% (2023 est.)<br>
@@ -217,11 +217,11 @@ _women married by age 18_: 9.4% (2022)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.6% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 16.7% national budget (2023 est.)<br>
+_Education expenditure (% national budget)_: 15.2% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_total population_: 98% (2020 est.)<br>
-_male_: 98% (2020 est.)<br>
+_total population_: 98.5% (2020 est.)<br>
+_male_: 98.4% (2020 est.)<br>
 _female_: 97% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
@@ -245,12 +245,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical marine; northeast monsoon (November to April); southwest monsoon (May to October)<br>
 
 **Land use**<br>
-_agricultural land_: 42.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 18.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 18.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5% (2022 est.)<br>
-_forest_: 24.3% (2022 est.)<br>
-_other_: 33.1% (2022 est.)<br>
+_agricultural land_: 42.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 18.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 18.9% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5% (2023 est.)<br>
+_forest_: 24.7% (2023 est.)<br>
+_other_: 32.7% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 48.3% of total population (2023)<br>
@@ -707,6 +707,9 @@ Philippine Space Agency (PhilSA; established 2019) (2025)<br>
 
 **Space program overview**<br>
 has a small space program focused on acquiring satellites and related technologies, largely for climate studies, national security, and risk management; also prioritizing development of space expertise and industry; manufactures and operates satellites (mostly micro- and nano-sized), including remote sensing and scientific/experimental; has relations with a variety of foreign space agencies and industries, including those of China, the ESA (and some of its member states), India, Japan, Russia, and the US (2025)<br>
+
+**Key space-program milestones**<br>
+1994 - formed a consortium of companies to acquire and operate satellites<br><br>1996 - acquired first communications satellite (Agila-1) from Indonesia after it was already in orbit<br><br>2014 - initiated a scientific remote sensing (RS) microsatellite development program in collaboration with Japan, resulting in first RS microsatellite (Diwata-1) being deployed from the International Space Station (ISS) in 2016<br><br>2018 - first domestically designed and built scientific/technology-demonstrator cube satellite (Maya-1) deployed from ISS; second RS microsatellite (Diwata-2) developed with assistance from and launched by Japan<br><br>2023 - signed agreement with the ESA and EU to expand cooperation on Earth observation/RS data sharing<br><br>2025 - signed US-led Artemis Accords for space exploration<br>
 
 ## Terrorism
 

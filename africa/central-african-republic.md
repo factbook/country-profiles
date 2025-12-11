@@ -51,12 +51,12 @@ _mean elevation_: 635 m<br>
 diamonds, uranium, timber, gold, oil, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.8% (2022 est.)<br>
-_forest_: 35.7% (2022 est.)<br>
-_other_: 55.3% (2022 est.)<br>
+_agricultural land_: 9.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.8% (2023 est.)<br>
+_forest_: 72.5% (2023 est.)<br>
+_other_: 18.4% (2023 est.)<br>
 
 **Irrigated land**<br>
 10 sq km (2012)<br>
@@ -199,7 +199,7 @@ _spirits_: 0.02 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.33 liters of pure alcohol (2019 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-20.5% (2019)<br>
+18.4% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 64.7% (2023 est.)<br>
@@ -231,12 +231,12 @@ _signed, but not ratified_: Law of the Sea<br>
 tropical; hot, dry winters; mild to hot, wet summers<br>
 
 **Land use**<br>
-_agricultural land_: 9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.8% (2022 est.)<br>
-_forest_: 35.7% (2022 est.)<br>
-_other_: 55.3% (2022 est.)<br>
+_agricultural land_: 9.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.8% (2023 est.)<br>
+_forest_: 72.5% (2023 est.)<br>
+_other_: 18.4% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 43.6% of total population (2023)<br>
@@ -313,14 +313,14 @@ _election results_: <em><br>2020:</em> Faustin-Archange TOUADÉRA reelected pres
 _expected date of next election_: December 2025<br>
 
 **Legislative branch**<br>
-_legislature name_: National Assembly (Assemblée nationale)<br>
+_legislature name_: National Assembly (Assembl&eacute;e nationale)<br>
 _legislative structure_: unicameral<br>
 _number of seats_: 140 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 12/27/2020 to 7/25/2021<br>
-_parties elected and seats per party_: United Hearts Movement (MCU) (61); National Movement of Independents (MOUNI) (9); Union for Central African Renewal (URCA) (7); Independents (17); Other (39)<br>
+_parties elected and seats per party_: United Hearts Movement (MCU) (63); National Movement of Independents (MOUNI) (9); Union for Central African Renewal (URCA) (7); Movement for the Liberation of the Central African People (MLPC) (7); Other (34); Independents (20)<br>
 _percentage of women in chamber_: 11.4%<br>
 _expected date of next election_: December 2025<br>
 <strong>note 1:</strong> on 27 December 2020, the day of first round elections, voting in many electoral areas was disrupted by armed groups; on 13 February 2021, President TOUADERA announced that new first round elections would be held on 27 February 2021 for those areas controlled by armed groups and the second round on 14 March 2021; ultimately, two additional rounds were held on 23 May and 25 July 2021 in areas that continued to suffer from election security problems<br><br><strong>note 2:</strong> in accordance with article 98 of the constitution published in August 2023, the parliamentary term has increased from five to seven years and will be first applied to the legislature due to be elected in late 2025<br>

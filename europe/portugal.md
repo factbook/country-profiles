@@ -55,12 +55,12 @@ _mean elevation_: 372 m<br>
 fish, forests (cork), iron ore, copper, zinc, tin, tungsten, silver, gold, uranium, marble, clay, gypsum, salt, arable land, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 42.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 10.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 9.5% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 23.1% (2022 est.)<br>
-_forest_: 36.2% (2022 est.)<br>
-_other_: 21.1% (2022 est.)<br>
+_agricultural land_: 43.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 10.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 9.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 23.6% (2023 est.)<br>
+_forest_: 36.6% (2023 est.)<br>
+_other_: 5.7% (2023 est.)<br>
 
 **Irrigated land**<br>
 5,662 sq km (2019)<br>
@@ -204,14 +204,14 @@ _male_: 26.1% (2025 est.)<br>
 _female_: 15.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-0.4% (2015/16)<br>
+0.9% (2016 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 52.6% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4.3% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 9.8% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 4.6% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 10.4% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years (2022 est.)<br>
@@ -231,12 +231,12 @@ _signed, but not ratified_: Air Pollution-Persistent Organic Pollutants, Air Pol
 maritime temperate; cool and rainy in north, warmer and drier in south<br>
 
 **Land use**<br>
-_agricultural land_: 42.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 10.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 9.5% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 23.1% (2022 est.)<br>
-_forest_: 36.2% (2022 est.)<br>
-_other_: 21.1% (2022 est.)<br>
+_agricultural land_: 43.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 10.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 9.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 23.6% (2023 est.)<br>
+_forest_: 36.6% (2023 est.)<br>
+_other_: 5.7% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 67.9% of total population (2023)<br>
@@ -671,6 +671,9 @@ in August 2025, Portugal granted a license to a commercial consortium to build a
 
 **Space program overview**<br>
 largely focuses on the acquisition and operation of satellites; researches and develops a range of space-related technologies with an emphasis on small satellites for remote sensing (RS), navigational, science/technology, and telecommunications, as well as satellite launch services; space program is integrated with the ESA and involved in a variety of ESA and EU space programs; works with the space agencies and industries of a range of countries, including Algeria, Angola, Brazil, China, India, Japan, Morocco, South Korea, and the US; also cooperates with international organizations and projects such as the Europe South Observatory and the Square Kilometer Array; one of the objectives of the country's national space strategy is to expand its commercial space sector (2025)<br>
+
+**Key space-program milestones**<br>
+1993 - first technology demonstrator microsatellite (PoSat-1) launched on a European rocket<br><br>2000 - joined the ESA<br><br>2020 - launched strategic plan for space development (Portugal Space 2030), which included building a spaceport, developing a reusable rocket/satellite launch vehicle, growing the country's domestic commercial space sector, and establishing an Earth observation/remote sensing satellite constellation<br><br>2024 - first Portuguese communications satellite (PoSat-2) launched by US as part of a planned constellation of 12 ocean-monitoring/maritime communication satellites<br>
 
 ## Terrorism
 

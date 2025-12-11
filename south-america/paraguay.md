@@ -51,12 +51,12 @@ _mean elevation_: 178 m<br>
 hydropower, timber, iron ore, manganese, limestone<br>
 
 **Land use**<br>
-_agricultural land_: 42% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 11.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 30.3% (2022 est.)<br>
-_forest_: 39.3% (2022 est.)<br>
-_other_: 18.8% (2022 est.)<br>
+_agricultural land_: 54.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 11.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 42.4% (2023 est.)<br>
+_forest_: 36.9% (2023 est.)<br>
+_other_: 7% (2023 est.)<br>
 
 **Irrigated land**<br>
 1,362 sq km (2012)<br>
@@ -211,7 +211,7 @@ _male_: 15.5% (2025 est.)<br>
 _female_: 3.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-1.3% (2016)<br>
+1.3% (2016 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 59.4% (2023 est.)<br>
@@ -222,12 +222,12 @@ _women married by age 18_: 21.6% (2016)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.4% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 22% national budget (2023 est.)<br>
+_Education expenditure (% national budget)_: 11.7% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_total population_: 95% (2020 est.)<br>
-_male_: 95% (2020 est.)<br>
-_female_: 94% (2020 est.)<br>
+_total population_: 94.9% (2024 est.)<br>
+_male_: 95.4% (2024 est.)<br>
+_female_: 94.3% (2024 est.)<br>
 
 ## Environment
 
@@ -242,12 +242,12 @@ _signed, but not ratified_: Nuclear Test Ban, Tropical Timber 2006<br>
 subtropical to temperate; substantial rainfall in the eastern portions, becoming semiarid in the far west<br>
 
 **Land use**<br>
-_agricultural land_: 42% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 11.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 30.3% (2022 est.)<br>
-_forest_: 39.3% (2022 est.)<br>
-_other_: 18.8% (2022 est.)<br>
+_agricultural land_: 54.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 11.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 42.4% (2023 est.)<br>
+_forest_: 36.9% (2023 est.)<br>
+_other_: 7% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 63.1% of total population (2023)<br>
@@ -680,6 +680,9 @@ Space Agency of Paraguay (Agencia Especial del Paraguay, AEP; established 2014) 
 
 **Space program overview**<br>
 has a small, recently established space program focused on the acquisition of satellites, satellite data, and the technologies and capabilities to manufacture satellites, as well as promoting domestic expertise and industry; a priority is acquiring remote sensing capabilities to support socio-economic development, including resource mapping, weather, and crop monitoring; has built a cube satellite with foreign assistance; operates satellites; cooperates with foreign space agencies and industries, including those of India, Japan, Taiwan, the US, and member states of the Latin American and Caribbean Space Agency (2025)<br>
+
+**Key space-program milestones**<br>
+2017 - organized country’s first international conference on space issues<br><br>2021 - first research/technology-demonstrator cube satellite (Guaranisat-1) built jointly with Japan, launched by US, and deployed from International Space Station; signed protocols for the establishment of the Latin American and Caribbean Space Agency<br><br>2025 - developing Guarani-Sat-2, which will be Paraguay's second satellite and the first designed and built domestically<br>
 
 ## Terrorism
 

@@ -50,12 +50,12 @@ _lowest point_: Indian Ocean 0 m<br>
 fish<br>
 
 **Land use**<br>
-_agricultural land_: 71.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 34.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 28.5% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 8.1% (2022 est.)<br>
-_forest_: 17.2% (2022 est.)<br>
-_other_: 11.3% (2022 est.)<br>
+_agricultural land_: 71.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 34.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 28.5% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8.1% (2023 est.)<br>
+_forest_: 17.8% (2023 est.)<br>
+_other_: 10.7% (2023 est.)<br>
 
 **Irrigated land**<br>
 1.3 sq km (2012)<br>
@@ -188,6 +188,9 @@ _total_: 14.7% (2025 est.)<br>
 _male_: 24.8% (2025 est.)<br>
 _female_: 4.7% (2025 est.)<br>
 
+**Children under the age of 5 years underweight**<br>
+9.1% (2022 est.)<br>
+
 **Currently married women (ages 15-49)**<br>
 61.2% (2023 est.)<br>
 
@@ -199,6 +202,11 @@ _men married by age 18_: 6.9% (2022)<br>
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 2.3% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 11.5% national budget (2025 est.)<br>
+
+**Literacy**<br>
+_total population_: 75.8% (2021 est.)<br>
+_male_: 79.9% (2021 est.)<br>
+_female_: 72.2% (2021 est.)<br>
 
 ## Environment
 
@@ -213,12 +221,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical marine; rainy season (November to May)<br>
 
 **Land use**<br>
-_agricultural land_: 71.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 34.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 28.5% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 8.1% (2022 est.)<br>
-_forest_: 17.2% (2022 est.)<br>
-_other_: 11.3% (2022 est.)<br>
+_agricultural land_: 71.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 34.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 28.5% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8.1% (2023 est.)<br>
+_forest_: 17.8% (2023 est.)<br>
+_other_: 10.7% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 30.1% of total population (2023)<br>
@@ -303,7 +311,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 1/12/2025 to 2/16/2025<br>
 _parties elected and seats per party_: Convention for the Renewal of the Comoros (CRC) (31); Other (2)<br>
-_percentage of women in chamber_: 15.2%<br>
+_percentage of women in chamber_: 18.2%<br>
 _expected date of next election_: January 2030<br>
 note: opposition parties, which claimed there was "gross fraud" during the most recent election, boycotted the elections in 2020 and 2025<br>
 

@@ -52,12 +52,12 @@ _mean elevation_: 472 m<br>
 bauxite, iron ore, diamonds, gold, uranium, hydropower, fish, salt<br>
 
 **Land use**<br>
-_agricultural land_: 70% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 20.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 43.5% (2022 est.)<br>
-_forest_: 24.9% (2022 est.)<br>
-_other_: 5.2% (2022 est.)<br>
+_agricultural land_: 73.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 24.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 43.5% (2023 est.)<br>
+_forest_: 20.3% (2023 est.)<br>
+_other_: 6.5% (2023 est.)<br>
 
 **Irrigated land**<br>
 949 sq km (2017)<br>
@@ -200,7 +200,7 @@ _spirits_: 0.03 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-16.3% (2018)<br>
+15% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 68.7% (2023 est.)<br>
@@ -212,12 +212,12 @@ _men married by age 18_: 1.9% (2018)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 1.7% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 9.3% national budget (2024 est.)<br>
+_Education expenditure (% national budget)_: 9.2% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_total population_: 40% (2018 est.)<br>
-_male_: 54% (2018 est.)<br>
-_female_: 28% (2018 est.)<br>
+_total population_: 39.6% (2018 est.)<br>
+_male_: 54.4% (2018 est.)<br>
+_female_: 27.7% (2018 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years (2021 est.)<br>
@@ -237,12 +237,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds<br>
 
 **Land use**<br>
-_agricultural land_: 70% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 20.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 43.5% (2022 est.)<br>
-_forest_: 24.9% (2022 est.)<br>
-_other_: 5.2% (2022 est.)<br>
+_agricultural land_: 73.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 24.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 43.5% (2023 est.)<br>
+_forest_: 20.3% (2023 est.)<br>
+_other_: 6.5% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 38.1% of total population (2023)<br>

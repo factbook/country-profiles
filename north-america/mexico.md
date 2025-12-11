@@ -54,12 +54,12 @@ _mean elevation_: 1,111 m<br>
 petroleum, silver, antimony, copper, gold, lead, zinc, natural gas, timber<br>
 
 **Land use**<br>
-_agricultural land_: 49.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 9.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.5% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 38.1% (2022 est.)<br>
-_forest_: 33.7% (2022 est.)<br>
-_other_: 16.9% (2022 est.)<br>
+_agricultural land_: 50.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 10.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 38.1% (2023 est.)<br>
+_forest_: 34.2% (2023 est.)<br>
+_other_: 15.1% (2023 est.)<br>
 
 **Irrigated land**<br>
 59,910 sq km (2022)<br>
@@ -218,7 +218,7 @@ _male_: 21.8% (2025 est.)<br>
 _female_: 6.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-4.2% (2021)<br>
+4.2% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 56.6% (2023 est.)<br>
@@ -228,8 +228,8 @@ _women married by age 15_: 3.6% (2018)<br>
 _women married by age 18_: 20.7% (2018)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4.2% of GDP (2021 est.)<br>
-_Education expenditure (% national budget)_: 15.9% national budget (2021 est.)<br>
+_Education expenditure (% GDP)_: 4.1% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 14.2% national budget (2022 est.)<br>
 
 **Literacy**<br>
 _total population_: 95% (2020 est.)<br>
@@ -255,12 +255,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 varies from tropical to desert<br>
 
 **Land use**<br>
-_agricultural land_: 49.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 9.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.5% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 38.1% (2022 est.)<br>
-_forest_: 33.7% (2022 est.)<br>
-_other_: 16.9% (2022 est.)<br>
+_agricultural land_: 50.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 10.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 38.1% (2023 est.)<br>
+_forest_: 34.2% (2023 est.)<br>
+_other_: 15.1% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 81.6% of total population (2023)<br>
@@ -730,6 +730,9 @@ Mexican Space Agency (Agencia Espacial Mexicana or AEM; established 2010 and beg
 
 **Space program overview**<br>
 has a national space policy with a focus on expanding Mexico's commercial space sector, including acquiring satellites and developing specialists, technologies, and infrastructure; manufactures and operates communications and scientific satellites; conducts research on a range of space-related capabilities and technologies, including astronomy, astrophysics, Earth and weather sciences, remote sensing, robotics, satellite payloads, and telecommunications; works with a variety of foreign space agencies and commercial space industries, including those of Argentina, Brazil, Chile, the ESA, individual ESA member states (particularly France, Germany, and the UK), India, Japan, Peru, Russia, Ukraine, and the US; led effort to establish the Latin American and Caribbean Space Agency and hosts its headquarters (2025)<br>
+
+**Key space-program milestones**<br>
+1962-1977 - sounding rocket program<br><br>1985 - first Mexican in space on US Space Shuttle; first communications satellite (Morelos-1) built by US and released from the US Space Shuttle<br><br>2015 - first successful launch of MEXSAT series of communications satellites by the US<br><br>2021 - signed US-led Artemis Accords for space and lunar exploration<br><br>2024 - contributed five autonomous micro-robots (Colmena project) on failed US commercial Moon lander mission<br>
 
 ## Terrorism
 

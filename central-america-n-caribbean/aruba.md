@@ -50,12 +50,12 @@ _lowest point_: Caribbean Sea 0 m<br>
 NEGL; white sandy beaches foster tourism<br>
 
 **Land use**<br>
-_agricultural land_: 11.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 11.1% (2022 est.)<br>
+_agricultural land_: 11.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 11.1% (2023 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 2.3% (2022 est.)<br>
-_other_: 86.6% (2022 est.)<br>
+_forest_: 2.7% (2023 est.)<br>
+_other_: 86.2% (2023 est.)<br>
 
 **Irrigated land**<br>
 NA<br>
@@ -160,7 +160,7 @@ _unimproved: total_: total: 1.2% of population (2022 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.6% of GDP (2021 est.)<br>
-_Education expenditure (% national budget)_: 19.4% national budget (2019 est.)<br>
+_Education expenditure (% national budget)_: 11% national budget (2021 est.)<br>
 
 ## Environment
 
@@ -171,12 +171,12 @@ difficulty in properly disposing waste from tourists; air pollution from waste-b
 tropical marine; little seasonal temperature variation<br>
 
 **Land use**<br>
-_agricultural land_: 11.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 11.1% (2022 est.)<br>
+_agricultural land_: 11.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 11.1% (2023 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 2.3% (2022 est.)<br>
-_other_: 86.6% (2022 est.)<br>
+_forest_: 2.7% (2023 est.)<br>
+_other_: 86.2% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 44.3% of total population (2023)<br>
@@ -202,17 +202,14 @@ _etymology_: the origin of the island's name is unclear; according to tradition,
 parliamentary democracy; part of the Kingdom of the Netherlands<br>
 
 **Dependency status**<br>
-constituent country of the Kingdom of the Netherlands; full autonomy in internal affairs obtained in 1986 upon separation from the Netherlands Antilles; Dutch government responsible for defense and foreign affairs<br>
+one of four constituent countries of the Kingdom of the Netherlands; full autonomy in internal affairs obtained in 1986 upon separation from the Netherlands Antilles; Dutch government responsible for defense and foreign affairs<br>
+<strong>note: </strong>the other three constituent countries in the Kingdom of the Netherlands are the Netherlands, Sint Maarten, and Curacao<br>
 
 **Capital**<br>
 _name_: Oranjestad<br>
 _geographic coordinates_: 12 31 N, 70 02 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
 _etymology_: translates as "orange city" in Dutch; in 1824, the city was named after the royal family of the Netherlands, the House of Orange-Nassau<br>
-
-**Administrative divisions**<br>
-none (part of the Kingdom of the Netherlands)<br>
-<strong>note:</strong> Aruba is one of four constituent countries of the Kingdom of the Netherlands; the other three are the Netherlands, Curacao, and Sint Maarten<br>
 
 **Legal system**<br>
 civil law system based on the Dutch civil code<br>

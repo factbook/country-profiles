@@ -52,12 +52,12 @@ _lowest point_: Indian Ocean 0 m<br>
 fish, coconuts (copra), cinnamon trees<br>
 
 **Land use**<br>
-_agricultural land_: 3.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.3% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3% (2022 est.)<br>
+_agricultural land_: 3.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 73.3% (2022 est.)<br>
-_other_: 23.4% (2022 est.)<br>
+_forest_: 58.6% (2023 est.)<br>
+_other_: 38% (2023 est.)<br>
 
 **Irrigated land**<br>
 3 sq km (2012)<br>
@@ -193,7 +193,7 @@ _female_: 5.2% (2025 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.5% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 13.1% national budget (2024 est.)<br>
+_Education expenditure (% national budget)_: 10.7% national budget (2025 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years (2023 est.)<br>
@@ -213,12 +213,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical marine; humid; cooler season during southeast monsoon (late May to September); warmer season during northwest monsoon (March to May)<br>
 
 **Land use**<br>
-_agricultural land_: 3.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.3% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3% (2022 est.)<br>
+_agricultural land_: 3.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 73.3% (2022 est.)<br>
-_other_: 23.4% (2022 est.)<br>
+_forest_: 58.6% (2023 est.)<br>
+_other_: 38% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 58.8% of total population (2023)<br>

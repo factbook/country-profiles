@@ -54,12 +54,12 @@ petroleum, tin, natural gas, nickel, timber, bauxite, copper, fertile soils, coa
 <strong>note:</strong> Indonesia is the World's leading producer of nickel with an output of 1.6 million mt in 2022<br>
 
 **Land use**<br>
-_agricultural land_: 29.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 9.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 14.5% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.8% (2022 est.)<br>
-_forest_: 48% (2022 est.)<br>
-_other_: 22.2% (2022 est.)<br>
+_agricultural land_: 29.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 9.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 13.9% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.8% (2023 est.)<br>
+_forest_: 50.6% (2023 est.)<br>
+_other_: 20.3% (2023 est.)<br>
 
 **Irrigated land**<br>
 67,220 sq km (2012)<br>
@@ -210,7 +210,7 @@ _male_: 74.9% (2025 est.)<br>
 _female_: 3.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-17.7% (2018)<br>
+15.9% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 70% (2023 est.)<br>
@@ -221,12 +221,12 @@ _women married by age 18_: 16.3% (2017)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 1.3% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 13.9% national budget (2022 est.)<br>
+_Education expenditure (% national budget)_: 10.6% national budget (2025 est.)<br>
 
 **Literacy**<br>
 _total population_: 96% (2020 est.)<br>
-_male_: 97% (2020 est.)<br>
-_female_: 95% (2020 est.)<br>
+_male_: 97.4% (2020 est.)<br>
+_female_: 94.6% (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years (2023 est.)<br>
@@ -249,12 +249,12 @@ _signed, but not ratified_: Marine Life Conservation<br>
 tropical; hot, humid; more moderate in highlands<br>
 
 **Land use**<br>
-_agricultural land_: 29.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 9.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 14.5% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.8% (2022 est.)<br>
-_forest_: 48% (2022 est.)<br>
-_other_: 22.2% (2022 est.)<br>
+_agricultural land_: 29.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 9.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 13.9% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.8% (2023 est.)<br>
+_forest_: 50.6% (2023 est.)<br>
+_other_: 20.3% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 58.6% of total population (2023)<br>
@@ -704,6 +704,9 @@ Indonesian Space Agency (INASA; formed 2022); National Research and Innovation A
 
 **Space program overview**<br>
 focuses largely on rocket development and satellite acquisition/operation; manufactures remote sensing (RS) satellites; has a sounding (research) rocket program to develop an orbital satellite launch vehicle (SLV); researching and developing a range of other space-related technologies related to satellite payloads, communications, RS, and astronomy; has relations with several foreign space agencies and industries, including those of France, Germany, India, Japan, Russia, South Korea, and the US; national space program includes building up the country's private space sector (2025)<br>
+
+**Key space-program milestones**<br>
+1964 - launched first sounding rocket (Kartika)<br><br>1976 - first communications satellite (Palapa A1) built and launched by US<br><br>2005 - re-started sounding rocket program with goal of producing a satellite launch vehicle (SLV)<br><br>2007 - first remote sensing (RS) satellite (LAPAN-A1) built by Germany and launched by India<br><br>2015 - first domestically produced RS satellite (LAPAN-A2) launched by India<br><br>2023-2024 - two communications satellites (SATRIA-1 and Merah Putih 2) to provide high-speed internet access across the Indonesian archipelago built by European company and launched by US<br>
 
 ## Terrorism
 

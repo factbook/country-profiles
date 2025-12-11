@@ -52,12 +52,12 @@ _mean elevation_: 708 m<br>
 petroleum, natural gas, coal, bauxite, chromite, copper, iron ore, nickel, salt, timber, hydropower, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 41.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 21.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 16.4% (2022 est.)<br>
-_forest_: 28.8% (2022 est.)<br>
-_other_: 29.8% (2022 est.)<br>
+_agricultural land_: 38.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 21.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 13.4% (2023 est.)<br>
+_forest_: 34.3% (2023 est.)<br>
+_other_: 27.5% (2023 est.)<br>
 
 **Irrigated land**<br>
 1,907 sq km (2022)<br>
@@ -209,7 +209,7 @@ _male_: 37% (2025 est.)<br>
 _female_: 6.2% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-1.5% (2017/18)<br>
+1.5% (2017 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 67.2% (2023 est.)<br>
@@ -220,13 +220,13 @@ _women married by age 18_: 11.8% (2018)<br>
 _men married by age 18_: 1.2% (2018)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 2.9% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 10.1% national budget (2023 est.)<br>
+_Education expenditure (% GDP)_: 3.1% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 10.9% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_total population_: 98.8% (2017 est.)<br>
-_male_: 98.6% (2017 est.)<br>
-_female_: 99% (2017 est.)<br>
+_total population_: 97.7% (2023 est.)<br>
+_male_: 98.2% (2023 est.)<br>
+_female_: 97.2% (2023 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years (2023 est.)<br>
@@ -246,12 +246,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 mild temperate; cool, cloudy, wet winters; hot, clear, dry summers; interior is cooler and wetter<br>
 
 **Land use**<br>
-_agricultural land_: 41.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 21.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 16.4% (2022 est.)<br>
-_forest_: 28.8% (2022 est.)<br>
-_other_: 29.8% (2022 est.)<br>
+_agricultural land_: 38.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 21.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 13.4% (2023 est.)<br>
+_forest_: 34.3% (2023 est.)<br>
+_other_: 27.5% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 64.6% of total population (2023)<br>
@@ -665,6 +665,9 @@ since joining NATO, the military has been in the process of modernizing by retir
 **Military service age and obligation**<br>
 18-27 (up to 32 in some cases) for voluntary military service for men and women; conscription abolished 2010 (2024)<br>
 <strong>note: </strong>as of 2024, women comprised about 15% of the military's full-time personnel<br>
+
+**Military deployments**<br>
+250 Kosovo (NATO/KFOR) (2025)<br>
 
 **Military - note**<br>
 the Albanian Armed Forces (AAF) are responsible for defending the country&rsquo;s independence, sovereignty, and territory, assisting with internal security, providing disaster and humanitarian relief, and participating in international peacekeeping missions; the AAF is a small, lightly armed force that has been undergoing a modernization effort to improve its ability to fulfill NATO missions; the AAF has contributed small numbers of forces to several NATO missions since Albania joined NATO in 2009, including peacekeeping/stability missions in Afghanistan, Kosovo, and Iraq, and multinational battlegroups in Bulgaria and Latvia; it has also contributed to EU and UN missions (2025)<br>

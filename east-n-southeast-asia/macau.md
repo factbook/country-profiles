@@ -204,9 +204,6 @@ executive-led limited democracy; a special administrative region of the People's
 **Dependency status**<br>
 special administrative region of the People's Republic of China<br>
 
-**Administrative divisions**<br>
-none (special administrative region of the People's Republic of China)<br>
-
 **Legal system**<br>
 civil law system based on the Portuguese model<br>
 

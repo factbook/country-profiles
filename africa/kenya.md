@@ -53,12 +53,12 @@ _mean elevation_: 762 m<br>
 limestone, soda ash, salt, gemstones, fluorspar, zinc, diatomite, gypsum, wildlife, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 49.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 11.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 37.4% (2022 est.)<br>
-_forest_: 6.3% (2022 est.)<br>
-_other_: 43.9% (2022 est.)<br>
+_agricultural land_: 49.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 11.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 36.7% (2023 est.)<br>
+_forest_: 6.5% (2023 est.)<br>
+_other_: 44% (2023 est.)<br>
 
 **Irrigated land**<br>
 1,030 sq km (2012)<br>
@@ -213,7 +213,7 @@ _male_: 15.5% (2025 est.)<br>
 _female_: 1.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-10.1% (2022)<br>
+9.8% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 56.8% (2023 est.)<br>
@@ -225,7 +225,7 @@ _men married by age 18_: 1.8% (2022)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4% of GDP (2024 est.)<br>
-_Education expenditure (% national budget)_: 18.4% national budget (2023 est.)<br>
+_Education expenditure (% national budget)_: 28.5% national budget (2025 est.)<br>
 
 ## Environment
 
@@ -240,12 +240,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 varies from tropical along coast to arid in interior<br>
 
 **Land use**<br>
-_agricultural land_: 49.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 11.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 37.4% (2022 est.)<br>
-_forest_: 6.3% (2022 est.)<br>
-_other_: 43.9% (2022 est.)<br>
+_agricultural land_: 49.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 11.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 36.7% (2023 est.)<br>
+_forest_: 6.5% (2023 est.)<br>
+_other_: 44% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 29.5% of total population (2023)<br>
@@ -334,12 +334,12 @@ _legislative structure_: bicameral<br>
 
 **Legislative branch - lower chamber**<br>
 _chamber name_: National Assembly<br>
-_number of seats_: 350 (337 directly elected; 12 nominated by parties to represent special interests, including youths, people with disabilities, workers; the Speaker as ex-officio member)<br>
+_number of seats_: 350 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 8/9/2022<br>
-_parties elected and seats per party_: United Democratic Alliance (UDA) (145); Orange Democratic Movement (ODM) (86); Jubilee Party (JP) (28); Wiper Democratic Movement-Kenya (WDM-K) (26); Others (52); Independents (12)<br>
+_parties elected and seats per party_: United Democratic Alliance (UDA) (145); Orange Democratic Movement (ODM) (86); Jubilee Party (JP) (28); Wiper Democratic Movement-Kenya (WDM-K) (26); Others (19); Other (45)<br>
 _percentage of women in chamber_: 23.4%<br>
 _expected date of next election_: August 2027<br>
 
@@ -692,6 +692,9 @@ Luigi Broglio Space Center (aka Malindi Space Center, Malindi Station, San Marco
 
 **Space program overview**<br>
 has a national space strategy focused on acquiring and applying space technologies for agriculture, communications, disaster and resource management, security, urban planning, and weather monitoring; jointly develops and builds nanosatellites with foreign partners; operates satellites; researching and developing satellite payloads and imagery data analysis capabilities; has cooperated on space issues with China, Japan, India, Italy, and the US, as well as a variety of African partners; member of the African Space Agency (2025)<br>
+
+**Key space-program milestones**<br>
+1970 - first satellite (US-made Uhura) launched from Kenya <br><br>2008 - established country's first satellite ground station <br><br>2018 - first remote-sensing (RS)/technology-demonstrator cube nanosatellite (1KUNS-PF) produced jointly with Japan and Italy and deployed from the International Space Station<br><br>2023 - first domestically designed RS satellite (TAIFA-1) built by Bulgaria and launched by US<br>
 
 ## Terrorism
 

@@ -55,12 +55,12 @@ _mean elevation_: 487 m<br>
 bauxite, iron ore, nickel, zinc, copper, gold, lead, uranium, rare earth elements, molybdenum, potash, diamonds, silver, fish, timber, wildlife, coal, petroleum, natural gas, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 6.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 4.4% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 2.1% (2022 est.)<br>
-_forest_: 39.5% (2022 est.)<br>
-_other_: 54% (2022 est.)<br>
+_agricultural land_: 6.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 4.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2.1% (2023 est.)<br>
+_forest_: 42% (2023 est.)<br>
+_other_: 51.4% (2023 est.)<br>
 
 **Irrigated land**<br>
 9,045 sq km (2015)<br>
@@ -223,8 +223,8 @@ _female_: 8% (2025 est.)<br>
 52.2% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4.5% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 11.2% national budget (2023 est.)<br>
+_Education expenditure (% GDP)_: 4.9% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 10.7% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years (2022 est.)<br>
@@ -244,12 +244,12 @@ _signed, but not ratified_: Air Pollution-Volatile Organic Compounds, Marine Lif
 varies from temperate in south to subarctic and arctic in north<br>
 
 **Land use**<br>
-_agricultural land_: 6.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 4.4% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 2.1% (2022 est.)<br>
-_forest_: 39.5% (2022 est.)<br>
-_other_: 54% (2022 est.)<br>
+_agricultural land_: 6.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 4.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2.1% (2023 est.)<br>
+_forest_: 42% (2023 est.)<br>
+_other_: 51.4% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 81.9% of total population (2023)<br>
@@ -344,7 +344,7 @@ _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 4/28/2025<br>
-_parties elected and seats per party_: Liberal Party (169); Conservative Party (144); Bloc Québécois (BQ) (22); Other (8)<br>
+_parties elected and seats per party_: Liberal Party (169); Conservative Party (144); Bloc Québécois (BQ) (22); Other (30)<br>
 _percentage of women in chamber_: 30.3%<br>
 _expected date of next election_: October 2029<br>
 
@@ -360,7 +360,7 @@ _subordinate courts_: federal level: Federal Court of Appeal; Federal Court; Tax
 <strong>note:</strong> in 1999, the Nunavut Court -- a circuit court with the power of a provincial superior court, as well as a territorial court -- was established to serve isolated settlements<br>
 
 **Political parties**<br>
-Bloc Quebecois<br>Conservative Party of Canada or CPC<br>Green Party<br>Liberal Party<br>New Democratic Party or NDP<br>People's Party of Canada<br>
+Bloc Québécois<br>Conservative Party of Canada or CPC<br>Green Party of Canada<br>Liberal Party of Canada<br>New Democratic Party<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Kirsten HILLMAN (since 17 July 2020)<br>
@@ -704,6 +704,9 @@ developing commercial space port sites in Nova Scotia and Newfoundland (2025)<br
 
 **Space program overview**<br>
 has a national space strategy and a long history of developing space-related technologies; designs, builds, operates, and tracks communications, remote sensing (RS), multi-mission, and scientific/testing satellites; has an astronaut program; involved in the development and production of advanced communications systems, lunar rovers, planetary probes, robotics, sensors, and space telescopes; participates in international space programs, including the International Space Station, the Hubble Space Telescope, the Square Kilometer Array radio telescope, and the James Webb Space Telescope; Cooperating State of the ESA since 1979 and participates in a variety of ESA programs, such as the Copernicus Earth observation project; works with numerous foreign space agencies and commercial entities, including those of Argentina, Brazil, individual ESA and EU member states, Japan, India, and particularly the US; has an active commercial space sector (2025)<br>
+
+**Key space-program milestones**<br>
+1959-1962 - launched first domestically built sounding rocket (Black Brant 1); first domestically designed and built satellite (Alouette) launched by US<br><br>1972-1973 - first domestic communications satellites (Anik A-1 and Anik A-2) launched by US, making Canada first country to employ satellites for domestic communications<br><br>1970s - began participating in US Space Shuttle (first Canadian in space on Shuttle in 1984) and US Mars probe/exploration programs<br><br>1995 - first Canadian-built, radar-capable remote sensing satellite (Radarsat-1) launched by US<br><br>2019 - began participating in US/NASA Lunar Gateway orbital station program; launched constellation of remote sensing satellites (RADARSAT Constellation Mission)<br><br>2020 - signed the US-led Artemis Accords for space exploration (active participant in planned Moon missions under the Artemis program)<br>
 
 ## Terrorism
 

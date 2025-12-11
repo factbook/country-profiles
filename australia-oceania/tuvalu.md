@@ -52,12 +52,12 @@ _mean elevation_: 2 m<br>
 fish, coconut (copra)<br>
 
 **Land use**<br>
-_agricultural land_: 60% (2022 est.)<br>
+_agricultural land_: 60% (2023 est.)<br>
 _agricultural land: arable land_: arable land: 0% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 60% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 60% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 33.3% (2022 est.)<br>
-_other_: 6.7% (2022 est.)<br>
+_forest_: 34.3% (2023 est.)<br>
+_other_: 5.7% (2023 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -194,7 +194,7 @@ _male_: 46.2% (2025 est.)<br>
 _female_: 18.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-2.9% (2019/20)<br>
+2.9% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 66.1% (2023 est.)<br>
@@ -205,8 +205,13 @@ _women married by age 18_: 1.8% (2020)<br>
 _men married by age 18_: 1.7% (2020)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 15.8% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 17% national budget (2024 est.)<br>
+_Education expenditure (% GDP)_: 12.8% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 16.8% national budget (2025 est.)<br>
+
+**Literacy**<br>
+_total population_: 100% (2022 est.)<br>
+_male_: 100% (2022 est.)<br>
+_female_: 100% (2022 est.)<br>
 
 ## Environment
 
@@ -221,12 +226,12 @@ _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 tropical; moderated by easterly trade winds (March to November); westerly gales and heavy rain (November to March)<br>
 
 **Land use**<br>
-_agricultural land_: 60% (2022 est.)<br>
+_agricultural land_: 60% (2023 est.)<br>
 _agricultural land: arable land_: arable land: 0% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 60% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 60% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 33.3% (2022 est.)<br>
-_other_: 6.7% (2022 est.)<br>
+_forest_: 34.3% (2023 est.)<br>
+_other_: 5.7% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 66.2% of total population (2023)<br>

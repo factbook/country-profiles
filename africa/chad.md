@@ -51,12 +51,12 @@ _mean elevation_: 543 m<br>
 petroleum, uranium, natron, kaolin, fish (Lake Chad), gold, limestone, sand and gravel, salt<br>
 
 **Land use**<br>
-_agricultural land_: 40% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 4.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 35.7% (2022 est.)<br>
-_forest_: 3.2% (2022 est.)<br>
-_other_: 56.8% (2022 est.)<br>
+_agricultural land_: 40% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 4.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 35.7% (2023 est.)<br>
+_forest_: 3.1% (2023 est.)<br>
+_other_: 57% (2023 est.)<br>
 
 **Irrigated land**<br>
 300 sq km (2012)<br>
@@ -211,7 +211,7 @@ _male_: 11.8% (2025 est.)<br>
 _female_: 1.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-18.9% (2022)<br>
+18.2% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 70.6% (2023 est.)<br>
@@ -248,12 +248,12 @@ _signed, but not ratified_: Marine Dumping-London Convention<br>
 tropical in south, desert in north<br>
 
 **Land use**<br>
-_agricultural land_: 40% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 4.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 35.7% (2022 est.)<br>
-_forest_: 3.2% (2022 est.)<br>
-_other_: 56.8% (2022 est.)<br>
+_agricultural land_: 40% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 4.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 35.7% (2023 est.)<br>
+_forest_: 3.1% (2023 est.)<br>
+_other_: 57% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 24.4% of total population (2023)<br>
@@ -345,7 +345,7 @@ _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 12/29/2024<br>
-_parties elected and seats per party_: Patriotic Salvation Movement (MPS) (124); Rally of Chadian Nationalists/Awakening (RNDT/ Le R&eacute;veil) (12); Others (52)<br>
+_parties elected and seats per party_: Patriotic Salvation Movement (MPS) (124); Rally of Chadian Nationalists/Awakening (RNDT/ Le Réveil) (12); Others (27); Other (25)<br>
 _percentage of women in chamber_: 33.5%<br>
 _expected date of next election_: December 2029<br>
 

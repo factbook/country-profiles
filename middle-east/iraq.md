@@ -52,12 +52,12 @@ _mean elevation_: 312 m<br>
 petroleum, natural gas, phosphates, sulfur<br>
 
 **Land use**<br>
-_agricultural land_: 21.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 11.4% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.2% (2022 est.)<br>
-_forest_: 1.9% (2022 est.)<br>
-_other_: 76.3% (2022 est.)<br>
+_agricultural land_: 21.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 11.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.2% (2023 est.)<br>
+_forest_: 1.6% (2023 est.)<br>
+_other_: 76.5% (2023 est.)<br>
 
 **Irrigated land**<br>
 35,250 sq km (2012)<br>
@@ -212,7 +212,7 @@ _male_: 36.2% (2025 est.)<br>
 _female_: 1.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-3.9% (2018)<br>
+3.9% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 65.5% (2023 est.)<br>
@@ -225,9 +225,9 @@ _women married by age 18_: 27.9% (2018)<br>
 4.7% of GDP (2016)<br>
 
 **Literacy**<br>
-_total population_: 86% (2017 est.)<br>
-_male_: 91% (2017 est.)<br>
-_female_: 76.3% (2018 est.)<br>
+_total population_: 84.1% (2021 est.)<br>
+_male_: 90.3% (2021 est.)<br>
+_female_: 77.8% (2021 est.)<br>
 
 ## Environment
 
@@ -242,12 +242,12 @@ _signed, but not ratified_: Climate Change-Paris Agreement, Environmental Modifi
 mostly desert; mild to cool winters with dry, hot, cloudless summers; northern mountainous regions along Iranian and Turkish borders experience cold winters with occasionally heavy snows that melt in early spring, sometimes causing extensive flooding in central and southern Iraq<br>
 
 **Land use**<br>
-_agricultural land_: 21.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 11.4% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.2% (2022 est.)<br>
-_forest_: 1.9% (2022 est.)<br>
-_other_: 76.3% (2022 est.)<br>
+_agricultural land_: 21.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 11.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.2% (2023 est.)<br>
+_forest_: 1.6% (2023 est.)<br>
+_other_: 76.5% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 71.6% of total population (2023)<br>
@@ -337,11 +337,10 @@ _number of seats_: 329 (all directly elected)<br>
 _electoral system_: other systems<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 10/10/2021<br>
-_parties elected and seats per party_: Sadrist Bloc (73); National Progress Alliance / Taqadum (37); State of Law Coalition (33); Kurdistan Democratic Party (31); Fatah Alliance (17); Kurdistan Alliance (17); Independents (43); Other (78)<br>
+_most recent election date_: 11/11/2025<br>
+_parties elected and seats per party_: Reconstruction &amp; Development Coalition, The Progress (Taqaddum) Party, State of Law Coalition, Sadiqoun Movement, Kurdistan Democratic Party (KDP), Badr Organization, National State Forces Alliance, Patriotic Union of Kurdistan (PUK), Azm Alliance, National Sovereignty, Ishraqat Kanun, Asas (Iraqi Foundation) Coalition, Tasmeem Alliance, Huquq Movement, National Resolve (Hasm)&nbsp;<br>
 _percentage of women in chamber_: 28.9%<br>
-_expected date of next election_: November 2025<br>
-<strong>note:</strong> seat counts reflect updated numbers following the 12 June 2022 Sadrist Trend withdrawal from government formation; its 73 seats were reallocated to other parties<br>
+_expected date of next election_: November 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court or FSC (consists of 9 judges); Court of Cassation (consists of a court president, 5 vice presidents, and at least 24 judges)<br>

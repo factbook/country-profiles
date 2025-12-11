@@ -53,12 +53,12 @@ _mean elevation_: 287 m<br>
 tin, rubber, natural gas, tungsten, tantalum, timber, lead, fish, gypsum, lignite, fluorite, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 46% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 33.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 10.9% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1.6% (2022 est.)<br>
-_forest_: 38.8% (2022 est.)<br>
-_other_: 15.2% (2022 est.)<br>
+_agricultural land_: 43.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 31% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 1.6% (2023 est.)<br>
+_forest_: 39% (2023 est.)<br>
+_other_: 17.2% (2023 est.)<br>
 
 **Irrigated land**<br>
 64,150 sq km (2012)<br>
@@ -214,7 +214,7 @@ _male_: 36.1% (2025 est.)<br>
 _female_: 1.6% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-7.7% (2019)<br>
+6.7% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 60.8% (2023 est.)<br>
@@ -226,7 +226,7 @@ _men married by age 18_: 5.8% (2022)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 2.5% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 11.6% national budget (2023 est.)<br>
+_Education expenditure (% national budget)_: 12.6% national budget (2025 est.)<br>
 
 **Literacy**<br>
 _total population_: 91.1% (2022 est.)<br>
@@ -251,12 +251,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; rainy, warm, cloudy southwest monsoon (mid-May to September); dry, cool northeast monsoon (November to mid-March); southern isthmus always hot and humid<br>
 
 **Land use**<br>
-_agricultural land_: 46% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 33.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 10.9% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1.6% (2022 est.)<br>
-_forest_: 38.8% (2022 est.)<br>
-_other_: 15.2% (2022 est.)<br>
+_agricultural land_: 43.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 31% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 1.6% (2023 est.)<br>
+_forest_: 39% (2023 est.)<br>
+_other_: 17.2% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 53.6% of total population (2023)<br>
@@ -695,7 +695,7 @@ Royal Thai Armed Forces (RTARF): Royal Thai Army (RTA), Royal Thai Navy (RTN; in
 estimated 350,000 active-duty Armed Forces (250,000 Army; 70,000 Navy; 30,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RTARF has a diverse array of foreign-supplied weapons and equipment, as well as some domestically produced items; in recent years, Thailand has received arms from a wide variety of countries, including China and the US; Thailand has a domestic defense industry, which produces such items as armored vehicles, artillery systems, naval vessels, unmanned aerial vehicles, and other military technologies (2024)<br>
+the RTARF has a diverse array of foreign-supplied weapons and equipment, as well as some domestically produced items; in recent years, Thailand has received arms from a variety of countries, including China and the US; Thailand has a domestic defense industry, which produces such items as armored vehicles, artillery systems, naval vessels, unmanned aerial vehicles, and other military technologies (2024)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; 21 years of age for compulsory military service for men; men register at 18 years of age; volunteer service obligation may be as short as 6 or 12 months, depending on educational qualifications; conscript service obligation also varies by educational qualifications, but is typically 24 months (2024)<br>
@@ -718,6 +718,9 @@ none; in 2023, announced intentions to build a spaceport with South Korean assis
 
 **Space program overview**<br>
 has an ambitious national space program focused on the acquisition, production, and operation of satellites, as well as research and development of related infrastructure, sciences, and technologies; operates communications and remote sensing (RS) satellites; manufactures scientific/research/testing cube satellites and is developing the capabilities to produce RS satellites (has historically built satellites with foreign assistance); works with a range of foreign space agencies and industries, including those of China, France, India, the Netherlands, Pakistan, Russia, South Korea, and the US; founding member of the China-led Asia-Pacific Space Cooperation Organization (APSCO); has a commercial space industry, including Southeast Asia&rsquo;s first dedicated satellite manufacturing facility, which opened in 2021 (2025)<br>
+
+**Key space-program milestones**<br>
+1982 - established first satellite ground station<br><br>1993 - first foreign-built commercial communications satellite (Thaicom-1) launched on European rocket<br><br>2008 - first remote sensing satellite (Theos-1; aka Thaichote) co-developed with France and launched by Russia <br><br>2018 - first domestically produced scientific/research satellite (KNACKSAT) launched by US<br><br>2024 - signed memorandum of understanding with China for cooperation on Beijing's lunar research station project and space exploration; signed US-led Artemis Accords <br>
 
 ## Transnational Issues
 

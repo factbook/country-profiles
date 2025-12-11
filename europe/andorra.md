@@ -51,12 +51,12 @@ _mean elevation_: 1,996 m<br>
 hydropower, mineral water, timber, iron ore, lead<br>
 
 **Land use**<br>
-_agricultural land_: 39.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 38.3% (2022 est.)<br>
-_forest_: 34% (2022 est.)<br>
-_other_: 26.1% (2022 est.)<br>
+_agricultural land_: 39.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 38.3% (2023 est.)<br>
+_forest_: 38.7% (2023 est.)<br>
+_other_: 21.4% (2023 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -199,7 +199,7 @@ _female_: 34.4% (2025 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 1.9% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 12% national budget (2024 est.)<br>
+_Education expenditure (% national budget)_: 12.1% national budget (2025 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years (2023 est.)<br>
@@ -219,12 +219,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; snowy, cold winters and warm, dry summers<br>
 
 **Land use**<br>
-_agricultural land_: 39.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 38.3% (2022 est.)<br>
-_forest_: 34% (2022 est.)<br>
-_other_: 26.1% (2022 est.)<br>
+_agricultural land_: 39.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 38.3% (2023 est.)<br>
+_forest_: 38.7% (2023 est.)<br>
+_other_: 21.4% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 87.8% of total population (2023)<br>

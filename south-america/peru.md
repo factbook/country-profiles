@@ -53,12 +53,12 @@ _mean elevation_: 1,555 m<br>
 copper, silver, gold, petroleum, timber, fish, iron ore, coal, phosphate, potash, hydropower, natural gas<br>
 
 **Land use**<br>
-_agricultural land_: 19.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 3.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 14.2% (2022 est.)<br>
-_forest_: 56.2% (2022 est.)<br>
-_other_: 24.7% (2022 est.)<br>
+_agricultural land_: 19.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 3.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 14.2% (2023 est.)<br>
+_forest_: 52.9% (2023 est.)<br>
+_other_: 28% (2023 est.)<br>
 
 **Irrigated land**<br>
 25,800 sq km (2012)<br>
@@ -215,7 +215,7 @@ _male_: 9.5% (2025 est.)<br>
 _female_: 2.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-2.1% (2021)<br>
+2.7% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 51.2% (2023 est.)<br>
@@ -226,12 +226,12 @@ _women married by age 18_: 14.1% (2020)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.2% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 19.2% national budget (2025 est.)<br>
+_Education expenditure (% national budget)_: 19.2% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_total population_: 94% (2020 est.)<br>
-_male_: 97% (2020 est.)<br>
-_female_: 92% (2020 est.)<br>
+_total population_: 93.7% (2024 est.)<br>
+_male_: 97% (2024 est.)<br>
+_female_: 90.7% (2024 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years (2017 est.)<br>
@@ -251,12 +251,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 varies from tropical in east to dry desert in west; temperate to frigid in Andes<br>
 
 **Land use**<br>
-_agricultural land_: 19.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 3.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 14.2% (2022 est.)<br>
-_forest_: 56.2% (2022 est.)<br>
-_other_: 24.7% (2022 est.)<br>
+_agricultural land_: 19.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 3.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 14.2% (2023 est.)<br>
+_forest_: 52.9% (2023 est.)<br>
+_other_: 28% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 78.9% of total population (2023)<br>
@@ -696,10 +696,13 @@ the Peruvian Armed Forces (FAP) are responsible for external defense in addition
 National Aerospace Research and Development Commission (Comisi&oacute;n Nacional de Investigaci&oacute;n y Desarrollo Aeroespacia, CONIDA; established 1974) (2025)<br>
 
 **Space launch site(s)**<br>
-in 2024, Peru and the US signed an agreement to construct a spaceport in the Talara Desert in the Piura region<br>
+in 2024, Peru announced an initiative to develop a future spaceport in Talara (Piura department)<br>
 
 **Space program overview**<br>
 focuses on acquiring satellites, applying space applications such as data satellite imagery, and building small rockets; has built a small science/technology satellite; operates satellites and processes satellite imagery data; builds and launches sounding rockets with goal of developing a satellite/space launch vehicle (SLV); researching, developing, and acquiring technologies for manufacturing satellites and satellite payloads, including remote sensing (RS) capabilities; member of Latin American and Caribbean Space Agency (ALCE) since its formation in 2021; cooperates with a variety of foreign space agencies and industries, including those of Brazil, China, the ESA, individual ESA member states (particularly France and Germany), India, Russia, South Korea, Thailand, and the US, as well as other ALCE signatories (2025)<br>
+
+**Key space-program milestones**<br>
+2006 - launched first sounding rocket/space probe (Paulet-1)<br><br>2013 - first domestically built scientific/research satellite (PUCP-SAT-1) launched by Russia; launched first domestically built rocket (Paulet 1-B) capable of reaching the stratosphere<br><br>2016 - first remote sensing satellite (PeruSat-1) acquired from France and launched on European rocket<br><br>2024 - signed US-led Artemis Accords on space and lunar exploration<br>
 
 ## Terrorism
 

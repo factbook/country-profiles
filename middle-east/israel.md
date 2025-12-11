@@ -52,12 +52,12 @@ _mean elevation_: 508 m<br>
 timber, potash, copper ore, natural gas, phosphate rock, magnesium bromide, clays, sand<br>
 
 **Land use**<br>
-_agricultural land_: 29.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 17.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 7.6% (2022 est.)<br>
-_forest_: 6.5% (2022 est.)<br>
-_other_: 64% (2022 est.)<br>
+_agricultural land_: 24.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 12.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 7.6% (2023 est.)<br>
+_forest_: 6.7% (2023 est.)<br>
+_other_: 68.5% (2023 est.)<br>
 
 **Irrigated land**<br>
 1,927 sq km (2022)<br>
@@ -208,8 +208,8 @@ _female_: 12.4% (2025 est.)<br>
 51.7% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 6.5% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 17.5% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 5.9% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 16.1% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years (2022 est.)<br>
@@ -229,12 +229,12 @@ _signed, but not ratified_: Comprehensive Nuclear Test Ban, Marine Life Conserva
 temperate; hot and dry in southern and eastern desert areas<br>
 
 **Land use**<br>
-_agricultural land_: 29.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 17.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 7.6% (2022 est.)<br>
-_forest_: 6.5% (2022 est.)<br>
-_other_: 64% (2022 est.)<br>
+_agricultural land_: 24.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 12.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 7.6% (2023 est.)<br>
+_forest_: 6.7% (2023 est.)<br>
+_other_: 68.5% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 92.9% of total population (2023)<br>
@@ -665,6 +665,9 @@ Palmachim Airbase (Central district) (2025)<br>
 
 **Space program overview**<br>
 has an ambitious space program that is one of the most advanced in the region; designs, builds, operates, and launches communications, remote sensing (RS), and scientific satellites; designs, builds, and operates orbital satellite/space launch vehicles (SLVs); researches and develops a range of other space-related capabilities, with a focus on lightweight and miniaturized technologies; has relations with a variety of foreign space agencies and industries, including those of Canada, the ESA, individual ESA member states (such as France, Germany, and Italy), India, Japan, Mexico, and the US; has a substantial commercial space sector, as well as state-owned enterprises (2025)<br>
+
+**Key space-program milestones**<br>
+1961 - first sounding rocket launched<br><br>1988 - first operational launch of small-lift satellite launch vehicle (SLV) (Shavit) placed first domestically produced technology-demonstrator satellite (Ofeq-1) in orbit <br><br>1995 - launched first fully operational remote sensing satellite (Ofeq-3) on Shavit SLV<br><br>2007 - unveiled Shavit-2 small-lift 3-stage SLV<br><br>2014 - joined ESA’s Jupiter Icy Moons Explorer (JUICE) project; domestically built lunar probe (Beresheet) launched by US (crashed on Moon’s surface)<br><br>2022 - joined US Artemis Moon exploration project<br>
 
 ## Terrorism
 

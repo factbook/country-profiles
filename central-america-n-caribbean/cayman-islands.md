@@ -51,12 +51,12 @@ _lowest point_: Caribbean Sea 0 m<br>
 fish, climate and beaches that foster tourism<br>
 
 **Land use**<br>
-_agricultural land_: 11.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 8.3% (2022 est.)<br>
-_forest_: 52.7% (2022 est.)<br>
-_other_: 36.1% (2022 est.)<br>
+_agricultural land_: 11.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8.3% (2023 est.)<br>
+_forest_: 53% (2023 est.)<br>
+_other_: 35.8% (2023 est.)<br>
 
 **Irrigated land**<br>
 NA<br>
@@ -169,7 +169,7 @@ _unimproved: total_: total: 6.5% of population (2022 est.)<br>
 51.4% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 1.5% of GDP (2022 est.)<br>
+_Education expenditure (% GDP)_: 1.6% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 15% national budget (2019 est.)<br>
 
 ## Environment
@@ -181,12 +181,12 @@ no natural freshwater resources; trash washing up or being deposited on beaches;
 tropical marine; warm, rainy summers (May to October) and cool, relatively dry winters (November to April)<br>
 
 **Land use**<br>
-_agricultural land_: 11.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 8.3% (2022 est.)<br>
-_forest_: 52.7% (2022 est.)<br>
-_other_: 36.1% (2022 est.)<br>
+_agricultural land_: 11.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8.3% (2023 est.)<br>
+_forest_: 53% (2023 est.)<br>
+_other_: 35.8% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>

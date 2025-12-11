@@ -59,12 +59,12 @@ coal, copper, lead, molybdenum, phosphates, rare earth elements, uranium, bauxit
 <strong>note: </strong>the US has the world's largest coal reserves with 491 billion short tons accounting for 27% of the world's total<br>
 
 **Land use**<br>
-_agricultural land_: 45.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 16.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 28.2% (2022 est.)<br>
-_forest_: 33.9% (2022 est.)<br>
-_other_: 21% (2022 est.)<br>
+_agricultural land_: 46.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 16.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 29.2% (2023 est.)<br>
+_forest_: 33.8% (2023 est.)<br>
+_other_: 18.7% (2023 est.)<br>
 
 **Irrigated land**<br>
 234,782 sq km (2017)<br>
@@ -224,14 +224,14 @@ _male_: 27.7% (2025 est.)<br>
 _female_: 16.7% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-0.4% (2017/18)<br>
+0.4% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 51.9% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 5.4% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 14% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 5.4% of GDP (2021 est.)<br>
+_Education expenditure (% national budget)_: 11.3% national budget (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years (2022 est.)<br>
@@ -252,12 +252,12 @@ mostly temperate, but tropical in Hawaii and Florida, arctic in Alaska, semiarid
 <strong>note:</strong> many consider Mount McKinley, the highest peak in the United States, to be the world’s coldest mountain because of its combination of high elevation and its subarctic location at 63 degrees north latitude; permanent snow and ice cover over 75 percent of the mountain, and enormous glaciers, up to 45 miles long and 3,700 feet thick, spider out from its base in every direction; it is home to some of the world’s coldest and most violent weather, where winds of over 150 miles per hour and temperatures of -93˚F have been recorded.<br>
 
 **Land use**<br>
-_agricultural land_: 45.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 16.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 28.2% (2022 est.)<br>
-_forest_: 33.9% (2022 est.)<br>
-_other_: 21% (2022 est.)<br>
+_agricultural land_: 46.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 16.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 29.2% (2023 est.)<br>
+_forest_: 33.8% (2023 est.)<br>
+_other_: 18.7% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 83.3% of total population (2023)<br>
@@ -358,7 +358,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 2 years<br>
 _most recent election date_: 11/5/2024<br>
 _parties elected and seats per party_: Republican Party (220); Democratic Party (215)<br>
-_percentage of women in chamber_: 29.1%<br>
+_percentage of women in chamber_: 28.9%<br>
 _expected date of next election_: November 2026<br>
 
 **Legislative branch - upper chamber**<br>
@@ -379,7 +379,7 @@ _subordinate courts_: Courts of Appeal (includes the US Court of Appeal for the 
 <strong>note:</strong> the US court system consists of the federal court system and the state court systems; each court system is responsible for hearing certain types of cases, but neither is completely independent of the other, and the systems often interact<br>
 
 **Political parties**<br>
-Democratic Party<br>Green Party<br>Libertarian Party<br>Republican Party<br>
+Alliance Party<br>Constitution Party<br>Democratic Party<br>Green Party<br>Libertarian Party<br>Republican Party<br>Vermont Progressive Party<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), ANZUS, APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE (observer), CERN (observer), CICA (observer), CP, EAPC, EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Quad, SAARC (observer), SELEC (observer), SICA (observer), SPC, UN, UNCTAD, UNESCO, UNHCR, UNITAR, UNMIL, UNMISS, UNOOSA, UN Security Council (permanent), UNTSO, UPU, USMCA, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -684,7 +684,7 @@ the US military's inventory is comprised almost entirely of domestically produce
 <strong>note 1: </strong>the US military has been all-volunteer since 1973, but an act of Congress can reinstate the draft in case of a national emergency; males aged 18-25 must register with Selective Service<br><strong><br>note 2:</strong> all military occupations and positions open to women; in 2022, women comprised 17.5% of the total US regular military personnel<br><br><strong>note 3:</strong> non-citizens living permanently and legally in the US may join as enlisted personnel; they must have permission to work in the US, a high school diploma, and speak, read, and write English fluently; under the Compact of Free Association, citizens of the Federated States of Micronesia, the Republic of Palau, and the Republic of the Marshall Islands may volunteer<br>
 
 **Military deployments**<br>
-the US has more than 200,000 air, ground, and naval personnel deployed overseas on a permanent or a long-term rotational (typically 3-9 months) basis; key areas of deployment include approximately 5,000 in Africa, approximately 80,000 in Europe, approximately 10-15,000 in Southwest Asia, and more than 80,000 in East Asia (2024)<br>
+the US has approximately 200,000 military personnel deployed overseas on a permanent or a long-term rotational (typically 3-9 months) basis (2025)<br>
 
 **Military - note**<br>
 the US military's primary missions are to deter potential enemies, provide for the defense of the US, its Territories, Commonwealths and possessions, and any areas occupied by the US, and to protect US national interests; its responsibilities are worldwide and include providing humanitarian assistance, participating in international military exercises and operations, conducting military diplomacy, and fulfilling the US's alliance and treaty commitments; the US has been a leading member of NATO since the Alliance's formation in 1949<br><br>the US military has a global presence; the separate services operate jointly under 11 regional or functionally based joint service "combatant" commands: Africa Command; Central Command, Cyber Command, European Command, Indo-Pacific Command, Northern Command, Southern Command, Space Command, Special Operations Command, Strategic Command, and Transportation Command<br><br>Congress officially created the US military in September 1789; the US Army was established in June 1775 as the Continental Army; after the declaration of independence in July 1776, the Continental Army and the militia in the service of Congress became known collectively as the Army of the United States; when Congress ordered the Continental Army to disband in 1784, it retained a small number of personnel that would form the nucleus of the 1st American Regiment for national service formed later that year; both the US Navy and the US Marines were also established in 1775, but the Navy fell into disuse after the Revolutionary War, and was reestablished by Congress in 1794; the first US military unit devoted exclusively to aviation began operations in 1913 as part of the US Army; the Army Air Corps (AAC) was the US military service dedicated to aerial warfare between 1926 and 1941; the AAC became the US Army Air Forces in 1941 and remained as a combat arm of the Army until the establishment of the US Air Force in 1947 (2025)<br>
@@ -700,6 +700,9 @@ has 20 government and commercial spaceports licensed by the Federal Aviation Adm
 
 **Space program overview**<br>
 has a large, comprehensive space program and is one of the world&rsquo;s top space powers; builds, launches, and operates space launch vehicles (SLVs)/rockets and the full spectrum of spacecraft, including interplanetary probes, manned craft, reusable rockets, satellites, space stations, and space planes/shuttles; has an astronaut program and a corps of astronauts; researching and developing a broad range of other space-related technologies, including advanced telecommunications and optics, navigational aids, propulsion, and robotics; has launched orbital or lander probes to the Sun and all the planets in the solar system, as well as to asteroids and beyond the solar system; has dozens of international missions and projects, including with Canada, Japan, Russia, South Korea, and the ESA; as of October 2025, nearly 60 countries had signed onto the US-led Artemis Accords to enhance the governance of civil exploration and use of outer space; the US commercial space industry is one of the world&rsquo;s largest and is active across the spectrum of US government space programs; US commercial companies conduct the majority of NASA and US military space launches (2025)<br>
+
+**Key space-program milestones**<br>
+1958-1963 - Project Mercury first manned space flights, Project Gemini longer-duration manned flights in preparation for Moon landings (1961-63)<br><br>1963-1971 - Project Apollo Moon landings (world's first manned landing on the Moon, 1969)<br><br>1964 - launched first successful Mars probe (Mariner)<br><br>1965-1979 - operated Skylab space station  <br><br>1977 - began launching Voyager probes to Jupiter, Saturn, and beyond the solar system<br><br>1980s-2011 - operated Space Shuttle program (world’s first re-usable space orbiters)<br><br>1990 - launched Hubble Space Telescope<br><br>1993 - began participating in International Space Station project<br><br>2003 - launched surface rover vehicles (Spirit and Opportunity) to Mars <br><br>2011 - launched orbital probe (Juno) to Jupiter <br><br>2016 - launched OSIRIS-REx mission to retrieve asteroid sample (landed on asteroid Bennu in 2020 and returned with sample in 2023)<br><br>2017 - initiated Artemis lunar landing project<br><br>2019 - initiated Gateway lunar orbital station project<br><br>2021 - launched James Webb Space Telescope (ESA contributed launch vehicle and launch site); surface rover vehicle (Perseverance) with robot helicopter (Ingenuity) successfully landed on surface of Mars<br><br>2024 - successfully placed a commercial lander on the Moon and launched probe (Europa Clipper) to study Jupiter's Europa moon<br>
 
 ## Terrorism
 

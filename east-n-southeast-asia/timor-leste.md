@@ -52,12 +52,12 @@ _lowest point_: Timor Sea, Savu Sea, and Banda Sea 0 m<br>
 gold, petroleum, natural gas, manganese, marble<br>
 
 **Land use**<br>
-_agricultural land_: 23% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 7.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 10.1% (2022 est.)<br>
-_forest_: 61.8% (2022 est.)<br>
-_other_: 15.3% (2022 est.)<br>
+_agricultural land_: 23% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 7.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 10.1% (2023 est.)<br>
+_forest_: 71% (2023 est.)<br>
+_other_: 6% (2023 est.)<br>
 
 **Irrigated land**<br>
 350 sq km (2012)<br>
@@ -199,7 +199,7 @@ _male_: 62.6% (2025 est.)<br>
 _female_: 8.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-31.9% (2020)<br>
+31.9% (2020 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 55.9% (2023 est.)<br>
@@ -210,13 +210,13 @@ _women married by age 18_: 14.9% (2016)<br>
 _men married by age 18_: 1.2% (2016)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 3% of GDP (2021 est.)<br>
-_Education expenditure (% national budget)_: 7.5% national budget (2021 est.)<br>
+_Education expenditure (% GDP)_: 5.2% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 4.3% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_total population_: 65.8% (2016 est.)<br>
-_male_: 72.2% (2016 est.)<br>
-_female_: 59.6% (2016 est.)<br>
+_total population_: 72.5% (2022 est.)<br>
+_male_: 73.1% (2022 est.)<br>
+_female_: 71.8% (2022 est.)<br>
 
 **People - note**<br>
 one of only two predominantly Christian nations in Southeast Asia, the other being the Philippines<br>
@@ -234,12 +234,12 @@ _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 tropical; hot, humid; distinct rainy and dry seasons<br>
 
 **Land use**<br>
-_agricultural land_: 23% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 7.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 10.1% (2022 est.)<br>
-_forest_: 61.8% (2022 est.)<br>
-_other_: 15.3% (2022 est.)<br>
+_agricultural land_: 23% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 7.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 10.1% (2023 est.)<br>
+_forest_: 71% (2023 est.)<br>
+_other_: 6% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 32.5% of total population (2023)<br>
@@ -352,7 +352,7 @@ _FAX_: (670) 331-3206<br>
 _email address and website_: <br>ConsDili@state.gov<br><br>https://tl.usembassy.gov/<br>
 
 **International organization participation**<br>
-ACP, ADB, AOSIS, ARF, ASEAN (observer), CPLP, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OPCW, PIF (observer), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WMO<br>
+ACP, ADB, AOSIS, ARF, ASEAN, CPLP, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OPCW, PIF (observer), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WMO<br>
 
 **Independence**<br>
 28 November 1975 (from Portugal); 20 May 2002 (from Indonesia)<br>

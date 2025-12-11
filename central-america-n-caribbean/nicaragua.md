@@ -53,12 +53,12 @@ _mean elevation_: 298 m<br>
 gold, silver, copper, tungsten, lead, zinc, timber, fish<br>
 
 **Land use**<br>
-_agricultural land_: 42.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 12.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.5% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 27.4% (2022 est.)<br>
-_forest_: 26.7% (2022 est.)<br>
-_other_: 31% (2022 est.)<br>
+_agricultural land_: 42.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 12.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.5% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.4% (2023 est.)<br>
+_forest_: 40.1% (2023 est.)<br>
+_other_: 17.6% (2023 est.)<br>
 
 **Irrigated land**<br>
 1,990 sq km (2012)<br>
@@ -193,7 +193,7 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 2.9% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 17.7% national budget (2023 est.)<br>
+_Education expenditure (% national budget)_: 11% national budget (2024 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years (2023 est.)<br>
@@ -213,12 +213,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical in lowlands, cooler in highlands<br>
 
 **Land use**<br>
-_agricultural land_: 42.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 12.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.5% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 27.4% (2022 est.)<br>
-_forest_: 26.7% (2022 est.)<br>
-_other_: 31% (2022 est.)<br>
+_agricultural land_: 42.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 12.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.5% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.4% (2023 est.)<br>
+_forest_: 40.1% (2023 est.)<br>
+_other_: 17.6% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 59.8% of total population (2023)<br>
@@ -267,7 +267,7 @@ _time difference_: UTC-6 (1 hour behind Washington, DC, during Standard Time)<br
 _etymology_: the name comes from Lake Managua, whose name is composed of the Guaraní words <em>ama </em>(rain) and <em>nagua </em>(spirit) and refers to a local deity<br>
 
 **Administrative divisions**<br>
-15 departments (<em>departamentos</em>, singular - <em>departamento</em>) and 2 autonomous regions* (<em>regiones autonomistas</em>, singular - <em>region autonoma</em>); Boaco, Carazo, Chinandega, Chontales, Costa Caribe Norte*, Costa Caribe Sur*, Esteli, Granada, Jinotega, Leon, Madriz, Managua, Masaya, Matagalpa, Nueva Segovia, Rio San Juan, Rivas<br>
+15 departments (<em>departamentos</em>, singular - <em>departamento</em>) and 2 autonomous regions* (<em>regiones autonomistas</em>, singular - <em>region autonoma</em>); Boaco, Carazo, Chinandega, Chontales, Costa Caribe Norte*, Costa Caribe Sur*, Estelí, Granada, Jinotega, Leon, Madriz, Managua, Masaya, Matagalpa, Nueva Segovia, Rio San Juan, Rivas<br>
 
 **Legal system**<br>
 civil law system; Supreme Court may review administrative acts<br>
@@ -620,6 +620,9 @@ National Secretariat for Extraterrestrial Space Affairs, The Moon and Other Cele
 
 **Space program overview**<br>
 stated mission is to promote the development of space activities with the aim of broadening the country&rsquo;s capacities in education, industry, science, and technology; has cooperated with China and Russia; is a signatory of the convention establishing the Latin American and Caribbean Space Agency (2025)<br>
+
+**Key space-program milestones**<br>
+1994 - joined UN Committee on the Peaceful Uses of Outer Space<br><br>2017 - Russia opened a satellite navigation system monitoring station in Nicaragua<br><br>2021 - signed convention establishing the Latin American and Caribbean Space Agency<br><br>2024 - joined the China-led International Lunar Research Station project, which aims to establish a permanent base on the Moon by the 2030s<br>
 
 ## Transnational Issues
 

@@ -54,12 +54,12 @@ _mean elevation_: 414 m<br>
 petroleum (reserves declining), timber, natural gas, coal, iron ore, salt, arable land, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 55.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 35.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 17.7% (2022 est.)<br>
-_forest_: 30.1% (2022 est.)<br>
-_other_: 14.8% (2022 est.)<br>
+_agricultural land_: 55.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 36.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17% (2023 est.)<br>
+_forest_: 30.2% (2023 est.)<br>
+_other_: 14.5% (2023 est.)<br>
 
 **Irrigated land**<br>
 5,280 sq km (2022)<br>
@@ -219,13 +219,13 @@ _women married by age 15_: 0.5% (2021)<br>
 _women married by age 18_: 6.9% (2021)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 3.3% of GDP (2021 est.)<br>
-_Education expenditure (% national budget)_: 8.1% national budget (2021 est.)<br>
+_Education expenditure (% GDP)_: 3.3% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 8.8% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_total population_: 99% (2021 est.)<br>
+_total population_: 99.2% (2021 est.)<br>
 _male_: 99% (2021 est.)<br>
-_female_: 99% (2021 est.)<br>
+_female_: 99.3% (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years (2023 est.)<br>
@@ -245,12 +245,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; cold, cloudy winters with frequent snow and fog; sunny summers with frequent showers and thunderstorms<br>
 
 **Land use**<br>
-_agricultural land_: 55.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 35.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 17.7% (2022 est.)<br>
-_forest_: 30.1% (2022 est.)<br>
-_other_: 14.8% (2022 est.)<br>
+_agricultural land_: 55.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 36.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17% (2023 est.)<br>
+_forest_: 30.2% (2023 est.)<br>
+_other_: 14.5% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 54.7% of total population (2023)<br>
@@ -707,6 +707,9 @@ Romanian Space Agency (Agentia Spatiala Romania, ROSA; established 1991) (2025)<
 
 **Space program overview**<br>
 develops and produces a range of capabilities and technologies, including satellites, satellite launch vehicles, remote sensing, human space flight, navigation, and telecommunications; program is integrated into the ESA; participates in EU and international space programs; works with a variety of foreign space agencies and commercial space entities, including those of Azerbaijan, China, Japan, Russia, and the US; also works bilaterally with ESA member states, particularly Bulgaria, France, Germany, Hungary, Italy; has an active space-industry sector with over 50 entities (2025)<br>
+
+**Key space-program milestones**<br>
+1967-1968 - began participating in Soviet Intercosmos program and established the Romanian Commission for Space Activities to coordinate national space activities<br><br>1981 - first Romanian in space on Soviet spacecraft<br><br>2010 - domestically developed commercial rocket launched to an altitude of 40,000 m (24.9 mi)<br><br>2012 - first domestically produced scientific/experimental microsatellite (Goliat) launched (failed to operate)<br><br>2022 - joined US-led Artemis Accords for space exploration <br><br>2023 - digital amateur-radio-repeater microsatellite (ROM-2) launched on US commercial rocket<br>
 
 ## Terrorism
 

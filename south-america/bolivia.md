@@ -51,12 +51,12 @@ _mean elevation_: 1,192 m<br>
 lithium, tin, natural gas, petroleum, zinc, tungsten, antimony, silver, iron, lead, gold, timber, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 35.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 5.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 30.5% (2022 est.)<br>
-_forest_: 46.5% (2022 est.)<br>
-_other_: 17.6% (2022 est.)<br>
+_agricultural land_: 35.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 5.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 30.5% (2023 est.)<br>
+_forest_: 50.6% (2023 est.)<br>
+_other_: 13.5% (2023 est.)<br>
 
 **Irrigated land**<br>
 2,972 sq km (2017)<br>
@@ -212,7 +212,7 @@ _male_: 18.9% (2025 est.)<br>
 _female_: 3.2% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-3.4% (2016)<br>
+3.4% (2016 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 57.1% (2023 est.)<br>
@@ -224,12 +224,12 @@ _men married by age 18_: 5.2% (2016)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 8.3% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 23.1% national budget (2021 est.)<br>
+_Education expenditure (% national budget)_: 10.8% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_total population_: 94% (2020 est.)<br>
-_male_: 97% (2020 est.)<br>
-_female_: 91% (2020 est.)<br>
+_total population_: 95.6% (2023 est.)<br>
+_male_: 97.8% (2023 est.)<br>
+_female_: 93.5% (2023 est.)<br>
 
 ## Environment
 
@@ -244,12 +244,12 @@ _signed, but not ratified_: Environmental Modification, Marine Life Conservation
 varies with altitude; humid and tropical to cold and semiarid<br>
 
 **Land use**<br>
-_agricultural land_: 35.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 5.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 30.5% (2022 est.)<br>
-_forest_: 46.5% (2022 est.)<br>
-_other_: 17.6% (2022 est.)<br>
+_agricultural land_: 35.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 5.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 30.5% (2023 est.)<br>
+_forest_: 50.6% (2023 est.)<br>
+_other_: 13.5% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 71.2% of total population (2023)<br>
@@ -344,10 +344,10 @@ _number of seats_: 130 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 10/18/2020<br>
-_parties elected and seats per party_: Movement for Socialism (MAS-IPSP) (75); Civic Community (C.C) (39); Creemos (16)<br>
+_most recent election date_: 8/17/2025<br>
+_parties elected and seats per party_: Christian Democratic Party (PDC) (49); LIBRE (39); Unity (26); Popular Alliance (8); Other (8)<br>
 _percentage of women in chamber_: 50.8%<br>
-_expected date of next election_: August 2025<br>
+_expected date of next election_: August 2030<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Chamber of Senators (Cámara de Senadores)<br>
@@ -355,10 +355,10 @@ _number of seats_: 36 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 10/18/2020<br>
-_parties elected and seats per party_: Movement for Socialism (MAS-IPSP) (21); Civic Community (C.C) (11); Creemos (4)<br>
+_most recent election date_: 8/17/2025<br>
+_parties elected and seats per party_: Christian Democratic Party (PDC) (16); LIBRE (12); Unity (7); Other (1)<br>
 _percentage of women in chamber_: 58.3%<br>
-_expected date of next election_: August 2025<br>
+_expected date of next election_: August 2030<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Tribunal Supremo de Justicia (consists of 12 judges<em> </em>organized into civil, penal, social, and administrative chambers); Plurinational Constitutional Tribunal (consists of 7 primary and 7 alternate magistrates); Plurinational Electoral Organ (consists of 7 members and 6 alternates); National Agro-Environment Court (consists of 5 primary and 5 alternate judges; Council of the Judiciary (consists of 3 primary and 3 alternate judges)<br>
@@ -685,6 +685,9 @@ Bolivian Space Agency (la Agencia Boliviana Espacial, ABE; established 2010 as a
 
 **Space program overview**<br>
 has a small space program focused on acquiring and operating satellites; operates a telecommunications satellite and ground stations; has cooperated with China and India and member states of the Latin American and Caribbean Space Agency (2025)<br>
+
+**Key space-program milestones**<br>
+2013 - first communications satellite (Túpac Katari, TKSAT-1) built and launched by China<br><br>2016 - began independently operating the TKSAT-1 satellite<br><br>2021 - signed protocols for establishment of the Latin American and Caribbean Space Agency<br>
 
 ## Terrorism
 

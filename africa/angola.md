@@ -53,12 +53,12 @@ _mean elevation_: 1,112 m<br>
 petroleum, diamonds, iron ore, phosphates, copper, feldspar, gold, bauxite, uranium<br>
 
 **Land use**<br>
-_agricultural land_: 36.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 4.3% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 32.3% (2022 est.)<br>
-_forest_: 52.5% (2022 est.)<br>
-_other_: 10.6% (2022 est.)<br>
+_agricultural land_: 36.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 4.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 32.4% (2023 est.)<br>
+_forest_: 51.6% (2023 est.)<br>
+_other_: 11.5% (2023 est.)<br>
 
 **Irrigated land**<br>
 860 sq km (2014)<br>
@@ -208,9 +208,6 @@ _wine_: 0.72 liters of pure alcohol (2019 est.)<br>
 _spirits_: 1.27 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.08 liters of pure alcohol (2019 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-19% (2015/16)<br>
-
 **Currently married women (ages 15-49)**<br>
 55.7% (2023 est.)<br>
 
@@ -241,12 +238,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 semiarid in south and along coast to Luanda; north has cool, dry season (May to October) and hot, rainy season (November to April)<br>
 
 **Land use**<br>
-_agricultural land_: 36.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 4.3% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 32.3% (2022 est.)<br>
-_forest_: 52.5% (2022 est.)<br>
-_other_: 10.6% (2022 est.)<br>
+_agricultural land_: 36.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 4.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 32.4% (2023 est.)<br>
+_forest_: 51.6% (2023 est.)<br>
+_other_: 11.5% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 68.7% of total population (2023)<br>
@@ -649,19 +646,19 @@ Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Gue
 
 **Military expenditures**<br>
 1% of GDP (2024 est.)<br>
-1.3% of GDP (2023 est.)<br>
-1.3% of GDP (2022 est.)<br>
+1.2% of GDP (2023 est.)<br>
+1.2% of GDP (2022 est.)<br>
 1.4% of GDP (2021 est.)<br>
-1.7% of GDP (2020 est.)<br>
+1.5% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 100,000 active-duty Armed Forces (2025)<br>
+approximately 100,000 active duty Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-most Angolan military weapons and equipment are of Russian or Soviet-era origin; there are smaller quantities of items originating from such suppliers as China, Brazil, and South Africa (2024)<br>
+most Angolan military weapons and equipment are of Russian or Soviet-era origin; there are smaller quantities of items originating from such suppliers as China, Brazil, and South Africa (2025)<br>
 
 **Military service age and obligation**<br>
-20-45 years of age for compulsory and 18-45 years for voluntary military service for men (registration at age 18 is mandatory); 20-45 years of age for voluntary service for women; 24-month conscript service obligation; Angolan citizenship required; the Navy is entirely staffed with volunteers (2023)<br>
+20-45 years of age for compulsory and 18-45 years for voluntary military service for men (registration at age 18 is mandatory); 20-45 years of age for voluntary service for women; 24-month conscript service obligation; the Navy is entirely staffed with volunteers (2025)<br>
 
 **Military - note**<br>
 the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed between the Angolan Government and the National Union for the Total Independence of Angola (UNITA); the current force is responsible for country&rsquo;s external defense but also has some domestic security responsibilities, such as border protection; it participates in multinational exercises, as well as regional peacekeeping operations, including the deployment of several hundred troops to the Democratic Republic of the Congo in 2023; in recent years, the military has placed additional emphasis on maritime security and protecting offshore resources (2025)<br>
@@ -673,6 +670,9 @@ National Space Program Office (Gabinete de Gest&atilde;o do Programa Espacial Na
 
 **Space program overview**<br>
 has a national space strategy with a focus on capacity-building, developing space infrastructure, investing in domestic space sector, supporting socioeconomic growth, and establishing cooperation agreements with foreign technical and scientific institutions in the space industry; contracts with foreign companies to build and launch satellites; operates satellites; cooperates with a variety of foreign space agencies and industries, including those of France, Portugal, Russia, the US, and other African countries; member of the African Space Agency (2025)<br>
+
+**Key space-program milestones**<br>
+2017 - first communications satellite (AngoSat-1) built, launched, and operated by Russia (satellite failed in 2018)<br><br>2022 - second communications satellite (AngoSat-2) with French-built payload, integrated and launched by Russia<br><br>2023 - signed US-led Artemis Accords outlining best practices for space exploration<br><br>2024 - inaugurated a national maritime coordination and surveillance center and country's first satellite mission control center<br><br>2025 - signed financial agreement with France for construction of country’s first high-resolution remote sensing satellite (ANGEO-1)<br>
 
 ## Transnational Issues
 

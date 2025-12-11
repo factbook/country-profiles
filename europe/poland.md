@@ -52,12 +52,12 @@ _mean elevation_: 173 m<br>
 coal, sulfur, copper, natural gas, silver, lead, salt, amber, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 46.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 36.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 8.6% (2022 est.)<br>
-_forest_: 31.1% (2022 est.)<br>
-_other_: 22.6% (2022 est.)<br>
+_agricultural land_: 47.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 36.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.8% (2023 est.)<br>
+_forest_: 31% (2023 est.)<br>
+_other_: 21% (2023 est.)<br>
 
 **Irrigated land**<br>
 1,327 sq km (2016)<br>
@@ -211,12 +211,15 @@ _total_: 21.6% (2025 est.)<br>
 _male_: 25.6% (2025 est.)<br>
 _female_: 17.8% (2025 est.)<br>
 
+**Children under the age of 5 years underweight**<br>
+0.7% (2019 est.)<br>
+
 **Currently married women (ages 15-49)**<br>
 56.6% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4.6% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 10.5% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 4.3% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 10% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years (2023 est.)<br>
@@ -236,12 +239,12 @@ _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Multi-effe
 temperate with cold, cloudy, moderately severe winters with frequent precipitation; mild summers with frequent showers and thundershowers<br>
 
 **Land use**<br>
-_agricultural land_: 46.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 36.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 8.6% (2022 est.)<br>
-_forest_: 31.1% (2022 est.)<br>
-_other_: 22.6% (2022 est.)<br>
+_agricultural land_: 47.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 36.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.8% (2023 est.)<br>
+_forest_: 31% (2023 est.)<br>
+_other_: 21% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 60.2% of total population (2023)<br>
@@ -361,7 +364,7 @@ _judge selection and term of office_: president of the Supreme Court nominated b
 _subordinate courts_: administrative courts; military courts; local, regional and appellate courts subdivided into military, civil, criminal, labor, and family courts<br>
 
 **Political parties**<br>
-AGROunion or AU<br>Center for Poland or CdP<br>Civic Platform or PO<br>Confederation of the Polish Crown or KKP<br>Kukiz' 15 or K'15<br>Labor Union or UP<br>Law and Justice or PiS<br>Left Together or LR<br>Modern or .N<br>National Movement or NN<br>New Hope or RN<br>New Left or NL<br>Poland 2050 or PL2050<br>Polish Initiative or iPL<br>Polish People's Party or PSL<br>Polish Socialist Party or PPS<br>Renewal of the Republic of Poland or ON RP<br>Sovereign Poland or SP<br>The Greens or Zieloni<br>Union of European Democrats or UED<br>Yes! For Poland or T!DPL<br>
+Civic Coalition<br>Confederation<br>Free Republicans<br>Polish Coalition or PSL<br>The Left<br>United Right or PiS<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Bogdan Adam KLICH (since 21 November 2024)<br>
@@ -683,8 +686,8 @@ the military's inventory consists of a mix of some Soviet-era and a growing amou
 <strong>note 1:</strong> as of 2024, women made up about 16.5% of the military's full-time personnel<br><br><strong>note 2: </strong>in 2022, Poland announced a new 12-month voluntary military service program with recruits going through a one-month basic training period with a military unit, followed by 11 months of specialized training; upon completion of service, the volunteers would be allowed to join the Territorial Defense Forces or the active reserve, and have priority to join the professional army and be given preference for employment in the public sector; the program is part of an effort to increase the size of the Polish military<br>
 
 **Military deployments**<br>
-210 Kosovo (NATO/KFOR); up to 180 Latvia (NATO); 190 Lebanon (UNIFIL); approximately 230 Romania (NATO) (2024)<br>
-<strong>note 1: </strong>Poland has obligated about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units; units affiliated with the multinational brigade remain within the structures of the armed forces of their respective countries until the brigade is activated for participation in an international operation<br>
+250 Kosovo (NATO/KFOR); up to 300 Latvia (NATO); 190 Lebanon (UNIFIL) (2025)<br>
+<strong>note: </strong>Poland has obligated about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units; units affiliated with the multinational brigade remain within the structures of the armed forces of their respective countries until the brigade is activated for participation in an international operation<br>
 
 **Military - note**<br>
 the Polish Armed Forces are responsible for defense of the country's sovereignty and territory, deterring potential threats, and fulfilling Poland's commitments to NATO, EU, and European security; Poland’s geographic location on NATO’s eastern flank and its history of foreign invasion underpin the Polish military’s focus on territorial and border defense; in peacetime, the Armed Forces provide support to the Border Guard; other security concerns include hybrid threats from Russia and Belarus, such as cyberattacks, sabotage, and weaponized migration; since the 2010s, Poland has taken steps to enhance the security of its borders with Russia and Belarus<br><br>since 2014, Poland has hosted several NATO military formations designed to enhance the defense of Poland and NATO’s eastern flank, including a US-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative, NATO fighter detachments at Malbork Air Base, a NATO-led divisional headquarters (Multinational Division Northeast), which coordinates training and preparation activities of its respective subordinate battlegroups in Poland and Lithuania, and a corps-level NATO field headquarters (Multinational Corps Northeast); Poland also has increased the the US military presence in the country; Poland participates in a variety of EU and NATO military deployments in Africa, the Baltic States, Southern Europe, and the Middle East; Poland also provided support to the NATO mission in Afghanistan (2025)<br>
@@ -696,6 +699,9 @@ Polish Space Agency (POLSA; established 2014; operational in 2015) (2025)<br>
 
 **Space program overview**<br>
 builds satellites, including nano/cube remote sensing (RS) and scientific/technology satellites; researches and develops communications, RS, navigational, and other scientific applications for satellite payloads; creating infrastructure for data from meteorological and environmental satellites; researches and develops other space-related technologies, including sensors and robotic probes for interplanetary landers, and launcher systems; space program is integrated with the ESA and the EU; participates in a variety of ESA/EU and international programs; cooperates with a variety of other foreign space agencies and industries, including those of Brazil, Canada, China, ESA/EU member states (particularly France, Germany, Italy), India, Japan, Mexico, Russia, Ukraine, UK, and the US; has a commercial space sector with more than 300 active enterprises (2025)<br>
+
+**Key space-program milestones**<br>
+1978 - first Polish astronaut in space on Soviet spacecraft<br><br>1991 - began cooperating with the ESA<br><br>1994 - began participating in Russia's Koronas solar research missions <br><br>2012 - joined ESA; first domestically built scientific nanosatellite (PW-Sat) launched on European rocket<br><br>2021 - joined US-led Artemis Accords for lunar and space exploration<br><br>2024 - successfully launched domestically developed experimental suborbital rocket (ILR-33 Amber 2K) to altitude of 101 kms<br><br>2025 - first Polish astronaut and scientific mission on International Space Station<br>
 
 ## Terrorism
 

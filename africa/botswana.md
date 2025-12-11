@@ -51,12 +51,12 @@ _mean elevation_: 1,013 m<br>
 diamonds, copper, nickel, salt, soda ash, potash, coal, iron ore, silver<br>
 
 **Land use**<br>
-_agricultural land_: 45.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 45.2% (2022 est.)<br>
-_forest_: 26.5% (2022 est.)<br>
-_other_: 27.9% (2022 est.)<br>
+_agricultural land_: 45.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 45.2% (2023 est.)<br>
+_forest_: 27.8% (2023 est.)<br>
+_other_: 26.6% (2023 est.)<br>
 
 **Irrigated land**<br>
 25 sq km (2014)<br>
@@ -206,9 +206,6 @@ _total_: 17.1% (2025 est.)<br>
 _male_: 29.2% (2025 est.)<br>
 _female_: 5.5% (2025 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 45% (2023 est.)<br>
 
@@ -234,12 +231,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 semiarid; warm winters and hot summers<br>
 
 **Land use**<br>
-_agricultural land_: 45.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 45.2% (2022 est.)<br>
-_forest_: 26.5% (2022 est.)<br>
-_other_: 27.9% (2022 est.)<br>
+_agricultural land_: 45.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 45.2% (2023 est.)<br>
+_forest_: 27.8% (2023 est.)<br>
+_other_: 26.6% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 72.9% of total population (2023)<br>
@@ -620,7 +617,7 @@ Botswana Defense Force (BDF): Ground Forces Command, Air Arm Command, Defense Lo
 <strong>note 1:</strong> both the BDF and the Botswana Police Service (BPS) report to the Ministry of Defense, Justice and Security; the BPS has primary responsibility for internal security<br><br><strong>note 2: </strong>the Ground Force Command includes a marine unit with boats and river craft for patrolling Botswana's internal waterways and supporting anti-poaching operations<br>
 
 **Military expenditures**<br>
-2.9% of GDP (2024 est.)<br>
+3% of GDP (2024 est.)<br>
 2.6% of GDP (2023 est.)<br>
 2.8% of GDP (2022 est.)<br>
 3% of GDP (2021 est.)<br>
@@ -633,7 +630,7 @@ estimated 10,000 active Botswana Defense Force (2025)<br>
 the BDF has a mix of mostly older weapons and equipment, largely of Western/European origin; in recent years, it has received limited amounts of material from several European countries and the US (2024)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service for men and women; no conscription (2024)<br>
+18 is the legal minimum age for voluntary military service for men and women; no conscription (2025)<br>
 
 **Military - note**<br>
 the key responsibilities of the Botswana Defense Force (BDF) are defending the country's sovereignty and territorial integrity on land and in the air, ensuring national security and stability, and aiding civil authorities in support of domestic missions such as disaster relief and anti-poaching; the BDF also participates in regional and international security operations<br><br>Bechuanaland/Botswana did not have a permanent military during colonial times, with the British colonial administrators relying instead on small, lightly armed constabularies such as the Bechuanaland Mounted Police, the Bechuanaland Border Police, and by the early 1960s, the Police Mobile Unit (PMU); after independence in 1966, Botswana militarized the PMU and gave it responsibility for the country’s defense rather than create a conventional military force; however, turmoil in neighboring countries and numerous cross-border incursions by Rhodesian and South African security forces in the 1960s and 1970s demonstrated that the PMU was inadequate for defending the country and led to the establishment of the BDF in 1977 (2025)<br>

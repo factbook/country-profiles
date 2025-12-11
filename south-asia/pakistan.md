@@ -54,12 +54,12 @@ _mean elevation_: 900 m<br>
 arable land, extensive natural gas reserves, limited petroleum, poor quality coal, iron ore, copper, salt, limestone<br>
 
 **Land use**<br>
-_agricultural land_: 46.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 39.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.9% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 6.5% (2022 est.)<br>
-_forest_: 4.7% (2022 est.)<br>
-_other_: 48.6% (2022 est.)<br>
+_agricultural land_: 46.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 39.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.5% (2023 est.)<br>
+_forest_: 4.1% (2023 est.)<br>
+_other_: 49.2% (2023 est.)<br>
 
 **Irrigated land**<br>
 194,200 sq km (2022)<br>
@@ -215,7 +215,7 @@ _male_: 25.7% (2025 est.)<br>
 _female_: 5.4% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-23.1% (2018)<br>
+23.1% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 63.5% (2023 est.)<br>
@@ -227,7 +227,7 @@ _men married by age 18_: 4.7% (2018)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 1.9% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 8.3% national budget (2023 est.)<br>
+_Education expenditure (% national budget)_: 9.8% national budget (2023 est.)<br>
 
 **Literacy**<br>
 _total population_: 58.9% (2021 est.)<br>
@@ -252,12 +252,12 @@ _signed, but not ratified_: Marine Life Conservation<br>
 mostly hot, dry desert; temperate in northwest; arctic in north<br>
 
 **Land use**<br>
-_agricultural land_: 46.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 39.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.9% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 6.5% (2022 est.)<br>
-_forest_: 4.7% (2022 est.)<br>
-_other_: 48.6% (2022 est.)<br>
+_agricultural land_: 46.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 39.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.5% (2023 est.)<br>
+_forest_: 4.1% (2023 est.)<br>
+_other_: 49.2% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 38% of total population (2023)<br>
@@ -717,6 +717,9 @@ none; missile test sites at Somiani (Balochistan) and Tilla Jogian (Punjab) (202
 
 **Space program overview**<br>
 space program dates back to the early 1960s, but funding shortfalls and shifts in priority toward ballistic missile development in the 1980s and 1990s hampered the program&rsquo;s development; now has a strengthened focus on acquiring satellites and reaching agreements with other space powers for additional capabilities; manufactures and operates satellites; researching and developing other space-related capabilities and technologies, such as satellite payloads; also conducts research in areas such as astronomy, astrophysics, environmental monitoring, and space sciences; works with China, Russia, and Turkey (cooperated with the UK and US prior to the 1990s) (2025)<br>
+
+**Key space-program milestones**<br>
+1962-1972 - launched about 200 sounding rockets with some US assistance <br><br>1990 - first domestically built experimental satellite (Badr-1) launched by China<br><br>2001 - first remote sensing (RS) satellite (Badr-2) built jointly with the UK and launched by Russia<br><br>2011 - first digital communications satellite (PakSat-1R) launched by China<br><br>2017 - successfully test-launched ballistic missile system (Shaheed-III)<br><br>2023 - joined China’s International Lunar Research Station program<br><br>2024 - first lunar orbiter/satellite (iCube Qamar) launched by China and deployed from China's Chang'e-6 spacecraft<br><br>2025 - first fully domestic RS satellite (PRSC-EO1) launched by China; selected country's first astronauts to be trained by China for mission to China's space station<br>
 
 ## Terrorism
 

@@ -52,12 +52,12 @@ _mean elevation_: 667 m<br>
 petroleum, bauxite, iron ore, timber, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 20.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 13.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.2% (2022 est.)<br>
-_forest_: 42.8% (2022 est.)<br>
-_other_: 36.6% (2022 est.)<br>
+_agricultural land_: 20.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 13.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.2% (2023 est.)<br>
+_forest_: 41% (2023 est.)<br>
+_other_: 38.1% (2023 est.)<br>
 
 **Irrigated land**<br>
 290 sq km (2012)<br>
@@ -212,7 +212,7 @@ _male_: 9.2% (2025 est.)<br>
 _female_: 0.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-11% (2018/19)<br>
+11% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 54.2% (2023 est.)<br>
@@ -224,10 +224,10 @@ _men married by age 18_: 2.9% (2018)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 2.8% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 13.1% national budget (2023 est.)<br>
+_Education expenditure (% national budget)_: 13.8% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_total population_: 72.5% (2018 est.)<br>
+_total population_: 72.6% (2018 est.)<br>
 _male_: 79.7% (2018 est.)<br>
 _female_: 66.2% (2018 est.)<br>
 
@@ -249,12 +249,12 @@ _signed, but not ratified_: Nuclear Test Ban<br>
 varies with terrain, from tropical along coast to semiarid and hot in north<br>
 
 **Land use**<br>
-_agricultural land_: 20.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 13.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.2% (2022 est.)<br>
-_forest_: 42.8% (2022 est.)<br>
-_other_: 36.6% (2022 est.)<br>
+_agricultural land_: 20.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 13.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.2% (2023 est.)<br>
+_forest_: 41% (2023 est.)<br>
+_other_: 38.1% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 59.3% of total population (2023)<br>
@@ -347,17 +347,17 @@ _number of seats_: 180 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 2/9/2020 to 3/22/2020<br>
+_most recent election date_: 3/12/2023<br>
 _parties elected and seats per party_: Cameroon People's Democratic Movement (RDPC/CPDM) (152); Other (28)<br>
 _percentage of women in chamber_: 33.9%<br>
 _expected date of next election_: February 2026<br>
 
 **Legislative branch - upper chamber**<br>
-_chamber name_: Senate (Sénat - Senate)<br>
+_chamber name_: Senate (S&eacute;nat - Senate)<br>
 _number of seats_: 100 (70 indirectly elected; 30 appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 3/12/2023<br>
+_most recent election date_: 2/9/2020 to 3/22/2020<br>
 _percentage of women in chamber_: 33%<br>
 _expected date of next election_: March 2027<br>
 

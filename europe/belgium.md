@@ -54,12 +54,12 @@ _mean elevation_: 181 m<br>
 construction materials, silica sand, carbonates, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 44.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 28.3% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 15.5% (2022 est.)<br>
-_forest_: 22.6% (2022 est.)<br>
-_other_: 32.8% (2022 est.)<br>
+_agricultural land_: 44.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 28.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 15.3% (2023 est.)<br>
+_forest_: 22% (2023 est.)<br>
+_other_: 33.6% (2023 est.)<br>
 
 **Irrigated land**<br>
 57 sq km (2013)<br>
@@ -206,7 +206,7 @@ _male_: 26.4% (2025 est.)<br>
 _female_: 22% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-1% (2014/15)<br>
+0.3% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 43.2% (2023 est.)<br>
@@ -216,8 +216,8 @@ _women married by age 15_: 0% (2020)<br>
 _women married by age 18_: 0.1% (2020)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 6.4% of GDP (2021 est.)<br>
-_Education expenditure (% national budget)_: 11.3% national budget (2021 est.)<br>
+_Education expenditure (% GDP)_: 6.3% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 12% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years (2022 est.)<br>
@@ -237,12 +237,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; mild winters, cool summers; rainy, humid, cloudy<br>
 
 **Land use**<br>
-_agricultural land_: 44.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 28.3% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 15.5% (2022 est.)<br>
-_forest_: 22.6% (2022 est.)<br>
-_other_: 32.8% (2022 est.)<br>
+_agricultural land_: 44.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 28.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 15.3% (2023 est.)<br>
+_forest_: 22% (2023 est.)<br>
+_other_: 33.6% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 98.2% of total population (2023)<br>
@@ -293,7 +293,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the name is of Germanic origin, from <em>broca </em>(marsh) and <em>sali </em>(room or building)<br>
 
 **Administrative divisions**<br>
-3 regions (French: <em>régions</em>, singular - <em>région</em>; Dutch: <em>gewesten</em>, singular - <em>gewest</em>); Brussels-Capital Region, also known as Brussels Hoofdstedelijk Gewest (Dutch), Region de Bruxelles-Capitale (French long form), Bruxelles-Capitale (French short form); Flemish Region (Flanders), also known as Vlaams Gewest (Dutch long form), Vlaanderen (Dutch short form), Région Flamande (French long form), Flandre (French short form); Walloon Region (Wallonia), also known as Région Wallonne (French long form), Wallonie (French short form), Waals Gewest (Dutch long form), Wallonie (Dutch short form)<br>
+3 regions (French: <em>régions</em>, singular - <em>région</em>; Dutch: <em>gewesten</em>, singular - <em>gewest</em>); Brussels-Capital Region, also known as Brussels Hoofdstedelijk Gewest (Dutch), R<em>é</em>gion de Bruxelles-Capitale (French long form), Bruxelles-Capitale (French short form); Flemish Region (Flanders), also known as Vlaams Gewest (Dutch long form), Vlaanderen (Dutch short form), Région Flamande (French long form), Flandre (French short form); Walloon Region (Wallonia), also known as Région Wallonne (French long form), Wallonie (French short form), Waals Gewest (Dutch long form), Wallonie (Dutch short form)<br>
 <strong>note:</strong> as a result of the 1993 constitutional revision that furthered devolution into a federal state, there are now three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; the 2012 sixth state reform transferred additional competencies from the federal state to the regions and linguistic communities<br>
 
 **Legal system**<br>
@@ -688,6 +688,9 @@ Royal Belgian Institute for Space Aeronomy-Interfederal Space Agency of Belgium 
 
 **Space program overview**<br>
 builds satellites, particularly research/science/technology and remote sensing platforms; researches, develops, and produces a wide variety of space technologies, including telecommunications, optics, robotics, scientific instruments, and space launch vehicle components; founding member of the ESA and participates in a variety of ESA and EU projects, such as Space Surveillance and Tracking, Copernicus Earth observation, and Galileo global navigation satellite system; hosts the European Space Security and Education Center (established 1968); participates in international astronomy efforts, particularly through the European Southern Observatory (ESO); has worked with a variety of foreign space agencies and commercial entities outside Europe, including those of Argentina, China, India, Russia, South Africa, UAE, Vietnam, and the US (2025)<br>
+
+**Key space-program milestones**<br>
+1986 - joined first European Earth Observation program; founding member of European Organization for the Exploitation of Meteorological Satellites<br><br>1992 - first Belgian astronaut in space on the US Space Shuttle<br><br>2001 - first remote sensing satellite (PROBA-1) launched by India<br><br>2024 - signed US-led Artemis Accords outlining best practices for space exploration<br>
 
 ## Terrorism
 

@@ -55,12 +55,12 @@ _mean elevation_: 460 m<br>
 petroleum, natural gas, iron ore, copper, lead, zinc, titanium, pyrites, nickel, fish, timber, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 2.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.5% (2022 est.)<br>
-_forest_: 33.5% (2022 est.)<br>
-_other_: 63.8% (2022 est.)<br>
+_agricultural land_: 2.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.5% (2023 est.)<br>
+_forest_: 33.3% (2023 est.)<br>
+_other_: 64% (2023 est.)<br>
 
 **Irrigated land**<br>
 337 sq km (2016)<br>
@@ -215,8 +215,8 @@ _women married by age 15_: 0% (2022)<br>
 _women married by age 18_: 0% (2022)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 10.1% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 5.5% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 14.5% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years (2023 est.)<br>
@@ -236,12 +236,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate along coast, modified by North Atlantic Current; colder interior with increased precipitation and colder summers; rainy year-round on west coast<br>
 
 **Land use**<br>
-_agricultural land_: 2.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.5% (2022 est.)<br>
-_forest_: 33.5% (2022 est.)<br>
-_other_: 63.8% (2022 est.)<br>
+_agricultural land_: 2.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.5% (2023 est.)<br>
+_forest_: 33.3% (2023 est.)<br>
+_other_: 64% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 84% of total population (2023)<br>
@@ -684,6 +684,9 @@ And&oslash;ya Space Center (And&oslash;ya Island; note - first operational space
 
 **Space program overview**<br>
 jointly designs and builds satellites with foreign partners, including communications, remote sensing (RS), scientific, and navigational/positional satellites; develops and launches sounding rockets; researches and produces a range of other space-related technologies, including satellite/space launch vehicle (SLV) and space station components, telescopes, and robotics; conducts solar and telecommunications research; member of the ESA; participates in international programs such as the International Space Station; hosts training on the island of Svalbard for Mars landing missions; cooperates with a variety of foreign space agencies and industries, including those of Canada, ESA/EU member states, Japan, Russia, and the US; has an active and advanced private-sector space industry that works with domestic and foreign space programs&nbsp; (2025)<br>
+
+**Key space-program milestones**<br>
+1962 - launched first research rocket<br><br>1992 - began operating first communications satellite (THOR-1)<br><br>2010 - built first satellite (AISSat-1) to monitor from polar orbit Automatic Identification Signals from ships (launched by India)<br><br>2017 - launched two microsatellites (NorSat-1 and -2) to track commercial sea vessels<br><br>2025 - signed US-led Artemis Accords for space and lunar exploration<br>
 
 ## Transnational Issues
 

@@ -50,12 +50,12 @@ _lowest point_: Caribbean Sea 0 m<br>
 pleasant climate, beaches foster tourism<br>
 
 **Land use**<br>
-_agricultural land_: 9.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 6.3% (2022 est.)<br>
-_forest_: 57.7% (2022 est.)<br>
-_other_: 32.8% (2022 est.)<br>
+_agricultural land_: 9.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.3% (2023 est.)<br>
+_forest_: 58.2% (2023 est.)<br>
+_other_: 32.4% (2023 est.)<br>
 
 **Irrigated land**<br>
 1 sq km (2012)<br>
@@ -167,12 +167,12 @@ lack of natural freshwater resources; protection of coral reefs; solid waste man
 subtropical, tempered by easterly trade winds, relatively low humidity, little seasonal temperature variation; rainy season September to November<br>
 
 **Land use**<br>
-_agricultural land_: 9.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 6.3% (2022 est.)<br>
-_forest_: 57.7% (2022 est.)<br>
-_other_: 32.8% (2022 est.)<br>
+_agricultural land_: 9.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.3% (2023 est.)<br>
+_forest_: 58.2% (2023 est.)<br>
+_other_: 32.4% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 96.2% of total population (2023)<br>
@@ -207,7 +207,7 @@ _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<
 _etymology_: named in honor of Danish King CHRISTIAN V&rsquo;s wife, Charlotte AMALIE of Hesse-Kassel, after the colony was established in 1672<br>
 
 **Administrative divisions**<br>
-none (territory of the US); there are no first-order administrative divisions as defined by the US government, but 3 islands are considered second-order: Saint Croix, Saint John, Saint Thomas<br>
+no first-order administrative divisions as defined by the US government, but 3 islands are considered second-order: Saint Croix, Saint John, Saint Thomas<br>
 
 **Legal system**<br>
 US common law<br>

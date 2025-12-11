@@ -54,12 +54,12 @@ _mean elevation_: 85 m<br>
 natural gas, arable land, timber, coal<br>
 
 **Land use**<br>
-_agricultural land_: 72.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 60.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 7.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.6% (2022 est.)<br>
-_forest_: 14.5% (2022 est.)<br>
-_other_: 13.2% (2022 est.)<br>
+_agricultural land_: 72.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 60.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 7.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.6% (2023 est.)<br>
+_forest_: 14.4% (2023 est.)<br>
+_other_: 13.3% (2023 est.)<br>
 
 **Irrigated land**<br>
 83,690 sq km (2022)<br>
@@ -208,7 +208,7 @@ _male_: 47.6% (2025 est.)<br>
 _female_: 12.5% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-22.6% (2019)<br>
+21.7% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 80.1% (2023 est.)<br>
@@ -219,12 +219,12 @@ _women married by age 18_: 51.4% (2019)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 2% of GDP (2024 est.)<br>
-_Education expenditure (% national budget)_: 11.6% national budget (2024 est.)<br>
+_Education expenditure (% national budget)_: 11.9% national budget (2025 est.)<br>
 
 **Literacy**<br>
 _total population_: 79% (2022 est.)<br>
-_male_: 81% (2022 est.)<br>
-_female_: 77% (2022 est.)<br>
+_male_: 81.4% (2022 est.)<br>
+_female_: 76.5% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years (2023 est.)<br>
@@ -244,12 +244,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; mild winter (October to March); hot, humid summer (March to June); humid, warm rainy monsoon (June to October)<br>
 
 **Land use**<br>
-_agricultural land_: 72.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 60.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 7.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.6% (2022 est.)<br>
-_forest_: 14.5% (2022 est.)<br>
-_other_: 13.2% (2022 est.)<br>
+_agricultural land_: 72.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 60.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 7.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.6% (2023 est.)<br>
+_forest_: 14.4% (2023 est.)<br>
+_other_: 13.3% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 40.5% of total population (2023)<br>
@@ -682,6 +682,9 @@ Bangladesh Space Research and Remote Sensing Organization (SPARRSO; established 
 
 **Space program overview**<br>
 has a modest space program focused on designing, building, and operating satellites, particularly those with remote sensing (RS) capabilities; SPARSSO's mandate is to use space and RS technology in areas such as agriculture, education, environmental studies, fisheries, forestry, geology, land use, mapping, meteorology, and oceanography; has a government-owned company for acquiring and operating satellites (Bangladesh Satellite Company Limited, established in 2017); works with several foreign space agencies and commercial entities, including those of France, Japan, Russia, and the US; member of several international space organizations, such as the Asia-Pacific Space Cooperation Organization (2025)<br>
+
+**Key space-program milestones**<br>
+2017 - first educational/scientific nanosatellite (BRAC-Onnesha) acquired from Japan and launched by US<br><br>2018 - first communications satellite (Bangabandhu-1) built by a French company and launched by US<br><br>2025 - signed US-led Artemis Accords for the safe and responsible exploration of space<br>
 
 ## Terrorism
 

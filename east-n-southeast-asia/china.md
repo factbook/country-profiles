@@ -54,12 +54,12 @@ _mean elevation_: 1,840 m<br>
 coal, iron ore, helium, petroleum, natural gas, arsenic, bismuth, cobalt, cadmium, ferrosilicon, gallium, germanium, hafnium, indium, lithium, mercury, tantalum, tellurium, tin, titanium, tungsten, antimony, manganese, magnesium, molybdenum, selenium, strontium, vanadium, magnetite, aluminum, lead, zinc, rare earth elements, uranium, hydropower potential (world's largest), arable land<br>
 
 **Land use**<br>
-_agricultural land_: 55.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 11.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 41.7% (2022 est.)<br>
-_forest_: 23.7% (2022 est.)<br>
-_other_: 21% (2022 est.)<br>
+_agricultural land_: 55.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 11.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 41.7% (2023 est.)<br>
+_forest_: 23.8% (2023 est.)<br>
+_other_: 20.6% (2023 est.)<br>
 
 **Irrigated land**<br>
 690,070 sq km (2012)<br>
@@ -231,13 +231,13 @@ _women married by age 18_: 2.8% (2020)<br>
 _men married by age 18_: 0.7% (2020)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 10.5% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 4% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 11.9% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_total population_: 97% (2020 est.)<br>
-_male_: 98% (2020 est.)<br>
-_female_: 95% (2020 est.)<br>
+_total population_: 96.7% (2020 est.)<br>
+_male_: 98.4% (2020 est.)<br>
+_female_: 95.1% (2020 est.)<br>
 
 **People - note**<br>
 in October 2015, the Chinese Government announced that it would change its rules to allow all couples to have two children, loosening a 1979 mandate that restricted many couples to one child; the new policy was implemented on 1 January 2016 to address China&rsquo;s rapidly aging population and future economic needs<br>
@@ -255,12 +255,12 @@ _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 extremely diverse; tropical in south to subarctic in north<br>
 
 **Land use**<br>
-_agricultural land_: 55.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 11.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 41.7% (2022 est.)<br>
-_forest_: 23.7% (2022 est.)<br>
-_other_: 21% (2022 est.)<br>
+_agricultural land_: 55.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 11.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 41.7% (2023 est.)<br>
+_forest_: 23.8% (2023 est.)<br>
+_other_: 20.6% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 64.6% of total population (2023)<br>
@@ -718,6 +718,9 @@ Jiuquan Launch Center (Inner Mongolia); Xichang Launch Center (Sichuan); Wenchan
 **Space program overview**<br>
 considered one of the world’s leading space powers, with a comprehensive and ambitious space program; can manufacture and operate the full spectrum of space launch vehicles (SLVs) and spacecraft, including human-crewed, lunar/inter-planetary/asteroid probes, satellites (communications, remote sensing, navigational, scientific, etc.), space stations, and reusable space transportation; has an astronaut/taikonaut program; researches and develops a range of space-related capabilities, including advanced telecommunications, optics, spacecraft components, and satellite payloads; participates in international space programs and co-leads (with Australia and Japan) the Global Earth Observation System of Systems; has signed agreements with more than 45 national space agencies, including those of Brazil, Canada, France, and Russia, as well several international organizations; has also cooperated with ESA; two state-owned aerospace enterprises dominate space industry, but a substantial commercial space sector includes launch services (2025)<br>
 <strong>note:</strong> the US NASA is barred by a 2011 law from cooperating with the Chinese bilaterally in space unless approved by the US Congress; the US objected to China’s participation in the International Space Station program<br>
+
+**Key space-program milestones**<br>
+1960s - began launching rockets and initiated satellite and satellite launch vehicle (SLV) programs<br><br>1970 - launched first communications satellite (Dongfanghong I)<br><br>2003 - first manned space flight; launched first satellite for global navigational system (Beidou)<br><br>2011 - placed temporary space station (Tiangong-1) into Earth orbit<br><br>2013 - first unmanned lunar landing mission (Chang'e-3); placed a second temporary space station (Tiangong-2) in Earth orbit<br><br>2017 - employed a communications satellite (Micius) to perform the world’s first quantum-encrypted virtual teleconference between Beijing and Vienna<br><br>2019 - landed a rover vehicle (Chang’e-4) on the far side of the Moon<br><br>2021 - landed a probe and operated a rover vehicle on Mars; signed agreement with Russia to set up an international manned lunar research station; announced intent to send a manned mission to Mars by 2033<br><br>2022 - completed construction of a permanent manned space station (Tiangong) in Earth orbit<br><br>2024 - successful landing and return of robotic spacecraft/probe (Chang'e-6) from the far side the Moon; first launch of "Thousand Sails" commercial communications satellite constellation project<br><br>2025 - launched asteroid sample return mission probe (Tianwen-2); launched world's first quantum communications microsatellite (Jinan-1)<br>
 
 ## Transnational Issues
 

@@ -52,12 +52,12 @@ _mean elevation_: 70 m<br>
 fish, timber, phosphates, bauxite, clay, granite, limestone, unexploited deposits of petroleum<br>
 
 **Land use**<br>
-_agricultural land_: 30% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 14% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 8.9% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 7.1% (2022 est.)<br>
-_forest_: 69.8% (2022 est.)<br>
-_other_: 0.1% (2022 est.)<br>
+_agricultural land_: 29.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 14.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 8.9% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.9% (2023 est.)<br>
+_forest_: 75% (2023 est.)<br>
+_other_: 0% (2023 est.)<br>
 
 **Irrigated land**<br>
 250 sq km (2012)<br>
@@ -197,7 +197,7 @@ _male_: 13.2% (2025 est.)<br>
 _female_: 0.5% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-18.8% (2019)<br>
+18.8% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 56.7% (2023 est.)<br>
@@ -228,12 +228,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds<br>
 
 **Land use**<br>
-_agricultural land_: 30% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 14% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 8.9% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 7.1% (2022 est.)<br>
-_forest_: 69.8% (2022 est.)<br>
-_other_: 0.1% (2022 est.)<br>
+_agricultural land_: 29.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 14.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 8.9% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.9% (2023 est.)<br>
+_forest_: 75% (2023 est.)<br>
+_other_: 0% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 45.5% of total population (2023)<br>
@@ -301,14 +301,14 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Umaro Sissoco EMBALO (since 27 February 2020)<br>
-_head of government_: Prime Minister Braima CAMARA (since 7 August 2025)<br><br><br> <br>
+_chief of state_: Interim President Gen. Horta Nta Na MAN (since 27 November 2025)<br>
+_head of government_: Interim Prime Minister Il&iacute;dio Vieira TE (since 28 November 2025)<br>
 _cabinet_: Cabinet nominated by the prime minister, appointed by the president<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for up to 2 consecutive 5-year terms; prime minister appointed by the president after consultation with party leaders in the National People's Assembly<br>
-_most recent election date_: 24 November 2019, with a runoff on 29 December 2019<br>
-_election results_: <em><br>2019:</em> Umaro Sissoco EMBALO elected president in second round; percent of vote in first round - Domingos Simoes PEREIRA (PAIGC) 40.1%, Umaro Sissoco EMBALO (Madem G15) 27.7%, Nuno Gomez NABIAM (APU-PDGB) 13.2%, Jose Mario VAZ (independent) 12.4%, other 6.6%; percent of vote in second round - Umaro Sissoco EMBALO 53.6%, Domingos Simoes PEREIRA 46.5%<br><br><em>2014:</em> Jose Mario VAZ elected president in second round; percent of vote in first round - Jose Mario VAZ (PAIGC) 41%, Nuno Gomez NABIAM (independent) 25.1%, other 33.9%; percent of vote in second round - Jose Mario VAZ 61.9%, Nuno Gomez NABIAM 38.1% (2019)<br>
+_most recent election date_: 23 November 2025<br>
+_election results_: <em><br>2025: </em>Umaro Sissoco EMBALO (Madem G15) and Fernando DIAS da Costa (PRS) both claimed victory in first round; a coup prevented the release of election results after ballots were destroyed<em><br><br>2019:</em> Umaro Sissoco EMBALO elected president in second round; percent of vote in first round - Domingos Simoes PEREIRA (PAIGC) 40.1%, Umaro Sissoco EMBALO (Madem G15) 27.7%, Nuno Gomez NABIAM (APU-PDGB) 13.2%, Jose Mario VAZ (independent) 12.4%, other 6.6%; percent of vote in second round - Umaro Sissoco EMBALO 53.6%, Domingos Simoes PEREIRA 46.5% (2019)<br>
 _expected date of next election_: 2025<br>
-<strong>note:</strong> President EMBALO was declared winner of the 2019 runoff presidential election by the electoral commission; in 2020, EMBALO inaugurated himself with only military leadership present, even though the Supreme Court of Justice had yet to rule on an electoral litigation appeal<br>
+<strong>note:</strong> elections were held on 23 November 2025; a military coup on 26 November suspended the election process, arrested the sitting president, swore in a transitional president, and appointed a cabinet for one year<br>
 
 **Legislative branch**<br>
 _legislature name_: People's National Assembly (Assembleia Nacional Popular)<br>
@@ -317,10 +317,10 @@ _number of seats_: 102 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 6/4/2023<br>
+_most recent election date_: 11/23/2025<br>
 _parties elected and seats per party_: Inclusive Alliance Platform/Terra Coalition (54); Movement for Democratic Alternation (MADEM G.15) (29); Party for Social Renewal (PRS) (12); Bissau-Guinean Workers’ Party (6); Other (1)<br>
 _percentage of women in chamber_: 9.8%<br>
-_expected date of next election_: November 2025<br>
+_expected date of next election_: November 2029<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supremo Tribunal de Justica (consists of 9 judges and organized into Civil, Criminal, and Social and Administrative Disputes Chambers)<br>

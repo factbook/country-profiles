@@ -54,12 +54,12 @@ _mean elevation_: 702 m<br>
 petroleum, timber, tin, antimony, zinc, copper, tungsten, lead, coal, marble, limestone, precious stones, natural gas, hydropower, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 19.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 16.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.7% (2022 est.)<br>
-_forest_: 42.8% (2022 est.)<br>
-_other_: 37.3% (2022 est.)<br>
+_agricultural land_: 19.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 16.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.7% (2023 est.)<br>
+_forest_: 42.4% (2023 est.)<br>
+_other_: 37.7% (2023 est.)<br>
 
 **Irrigated land**<br>
 17,140 sq km (2020)<br>
@@ -214,7 +214,7 @@ _male_: 68.1% (2025 est.)<br>
 _female_: 17.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-19.1% (2018)<br>
+19.5% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 57.5% (2023 est.)<br>
@@ -226,12 +226,12 @@ _men married by age 18_: 5% (2016)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 2% of GDP (2019 est.)<br>
-_Education expenditure (% national budget)_: 9.8% national budget (2019 est.)<br>
+_Education expenditure (% national budget)_: 9.7% national budget (2019 est.)<br>
 
 **Literacy**<br>
-_total population_: 89% (2019 est.)<br>
-_male_: 92% (2019 est.)<br>
-_female_: 86% (2019 est.)<br>
+_total population_: 93.5% (2020 est.)<br>
+_male_: 94.7% (2020 est.)<br>
+_female_: 92.7% (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years (2018 est.)<br>
@@ -251,12 +251,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical monsoon; cloudy, rainy, hot, humid summers (southwest monsoon, June to September); less cloudy, scant rainfall, mild temperatures, lower humidity during winter (northeast monsoon, December to April)<br>
 
 **Land use**<br>
-_agricultural land_: 19.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 16.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.7% (2022 est.)<br>
-_forest_: 42.8% (2022 est.)<br>
-_other_: 37.3% (2022 est.)<br>
+_agricultural land_: 19.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 16.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.7% (2023 est.)<br>
+_forest_: 42.4% (2023 est.)<br>
+_other_: 37.7% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 32.1% of total population (2023)<br>

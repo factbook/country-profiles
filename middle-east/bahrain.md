@@ -51,12 +51,12 @@ _lowest point_: Persian Gulf 0 m<br>
 oil, associated and nonassociated natural gas, fish, pearls<br>
 
 **Land use**<br>
-_agricultural land_: 10.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.5% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.1% (2022 est.)<br>
-_forest_: 0.9% (2022 est.)<br>
-_other_: 88.8% (2022 est.)<br>
+_agricultural land_: 10.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.5% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5% (2023 est.)<br>
+_forest_: 4.3% (2023 est.)<br>
+_other_: 84.2% (2023 est.)<br>
 
 **Irrigated land**<br>
 40 sq km (2012)<br>
@@ -195,13 +195,13 @@ _female_: 4.8% (2025 est.)<br>
 43.8% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 2% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 7.7% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 1.9% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 8.3% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_total population_: 98% (2023 est.)<br>
-_male_: 99% (2023 est.)<br>
-_female_: 96% (2023 est.)<br>
+_total population_: 97.8% (2024 est.)<br>
+_male_: 98.7% (2024 est.)<br>
+_female_: 96.3% (2024 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years (2023 est.)<br>
@@ -221,12 +221,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 arid; mild, pleasant winters; very hot, humid summers<br>
 
 **Land use**<br>
-_agricultural land_: 10.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.5% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.1% (2022 est.)<br>
-_forest_: 0.9% (2022 est.)<br>
-_other_: 88.8% (2022 est.)<br>
+_agricultural land_: 10.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.5% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5% (2023 est.)<br>
+_forest_: 4.3% (2023 est.)<br>
+_other_: 84.2% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 89.9% of total population (2023)<br>
@@ -280,7 +280,6 @@ _etymology_: name derives from the Arabic word <em>al-manama</em>, meaning "plac
 
 **Administrative divisions**<br>
 4 governorates (<em>muhafazat</em>, singular - <em>muhafazah</em>); Asimah (Capital), Janubiyah (Southern), Muharraq, Shamaliyah (Northern)<br>
-<strong>note:</strong> each governorate administered by an appointed governor<br>
 
 **Legal system**<br>
 mixed legal system of Islamic (sharia) law, English common law, Egyptian civil, criminal, and commercial codes; customary law<br>
@@ -642,6 +641,9 @@ Bahrain Space Agency (BSA; established 2014) (2025)<br>
 
 **Space program overview**<br>
 focuses on promoting space research and science, applying space-related technologies, and building capacity in the fields of satellite manufacturing, tracking, control, data processing and analysis, and remote sensing; cooperates with a variety of foreign agencies and commercial entities, including those of India, Italy, Japan, Oman, Saudi Arabia, the UK, the UAE, and the US; also a member of the Arab Space Coordination Group (2025)<br>
+
+**Key space-program milestones**<br>
+2022 - first scientific nanosatellite (Light-1 CubeSat) built with assistance from the UAE and launched by Japan; joined US-led Artemis Accords for space exploration<br><br>2023 - first domestically built technology-demonstrator nanosatellite (Kuwait Sat-1) launched by US<br><br>2025 - first domestically built remote-sensing nanosatellite (Al Munther) launched by US<br>
 
 ## Terrorism
 

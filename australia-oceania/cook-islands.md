@@ -51,12 +51,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 coconuts (copra)<br>
 
 **Land use**<br>
-_agricultural land_: 7.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.8% (2022 est.)<br>
+_agricultural land_: 7.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.8% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 65% (2022 est.)<br>
-_other_: 27.1% (2022 est.)<br>
+_forest_: 65% (2023 est.)<br>
+_other_: 27.1% (2023 est.)<br>
 
 **Irrigated land**<br>
 NA<br>
@@ -193,8 +193,8 @@ _female_: 20.1% (2025 est.)<br>
 42.6% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4.6% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 8.7% national budget (2024 est.)<br>
+_Education expenditure (% GDP)_: 3.4% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 9.2% national budget (2025 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years (2023 est.)<br>
@@ -214,12 +214,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical oceanic; moderated by trade winds; a dry season from April to November and a more humid season from December to March<br>
 
 **Land use**<br>
-_agricultural land_: 7.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.8% (2022 est.)<br>
+_agricultural land_: 7.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.8% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 65% (2022 est.)<br>
-_other_: 27.1% (2022 est.)<br>
+_forest_: 65% (2023 est.)<br>
+_other_: 27.1% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 76.2% of total population (2023)<br>
@@ -251,9 +251,6 @@ _name_: Avarua<br>
 _geographic coordinates_: 21 12 S, 159 46 W<br>
 _time difference_: UTC-10 (5 hours behind Washington, DC, during Standard Time)<br>
 _etymology_: translates as "two harbors" in Maori<br>
-
-**Administrative divisions**<br>
-none<br>
 
 **Legal system**<br>
 common law similar to New Zealand common law<br>

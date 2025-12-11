@@ -55,12 +55,12 @@ _mean elevation_: 660 m<br>
 coal, lignite, iron ore, copper, lead, zinc, uranium, tungsten, mercury, pyrites, magnesite, fluorspar, gypsum, sepiolite, kaolin, potash, hydropower, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 53.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 23.4% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 10.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 19.8% (2022 est.)<br>
-_forest_: 37.2% (2022 est.)<br>
-_other_: 9.5% (2022 est.)<br>
+_agricultural land_: 49.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 23% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 10.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 19.8% (2023 est.)<br>
+_forest_: 38.2% (2023 est.)<br>
+_other_: 12.3% (2023 est.)<br>
 
 **Irrigated land**<br>
 38,012 sq km (2022)<br>
@@ -213,13 +213,13 @@ _female_: 22% (2025 est.)<br>
 50.1% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4.3% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 9.2% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 4.6% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 9.9% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_total population_: 100% (2021 est.)<br>
-_male_: 100% (2021 est.)<br>
-_female_: 100% (2021 est.)<br>
+_total population_: 99.7% (2021 est.)<br>
+_male_: 99.8% (2021 est.)<br>
+_female_: 99.6% (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years (2023 est.)<br>
@@ -239,12 +239,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; clear, hot summers in interior, more moderate and cloudy along coast; cloudy, cold winters in interior, partly cloudy and cool along coast<br>
 
 **Land use**<br>
-_agricultural land_: 53.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 23.4% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 10.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 19.8% (2022 est.)<br>
-_forest_: 37.2% (2022 est.)<br>
-_other_: 9.5% (2022 est.)<br>
+_agricultural land_: 49.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 23% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 10.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 19.8% (2023 est.)<br>
+_forest_: 38.2% (2023 est.)<br>
+_other_: 12.3% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 81.6% of total population (2023)<br>
@@ -298,7 +298,7 @@ _etymology_: the meaning and origin of the name is unclear; the city grew from a
 
 **Administrative divisions**<br>
 17 autonomous communities (<em>comunidades autonomas</em>, singular - <em>comunidad autonoma</em>) and 2 autonomous cities* (<em>ciudades autonomas</em>, singular - <em>ciudad autonoma</em>); Andalucia; Aragon; Asturias; Canarias (Canary Islands); Cantabria; Castilla-La Mancha; Castilla-Leon; Cataluña (Castilian), Catalunya (Catalan), Catalonha (Aranese) [Catalonia]; Ceuta*; Comunidad Valenciana (Castilian), Comunitat Valenciana (Valencian) [Valencian Community]; Extremadura; Galicia; Illes Baleares (Balearic Islands); La Rioja; Madrid; Melilla*; Murcia; Navarra (Castilian), Nafarroa (Basque) [Navarre]; Pais Vasco (Castilian), Euskadi (Basque) [Basque Country]<br>
-<strong>note:</strong> Spain administers the autonomous cities of Ceuta and Melilla and the three small islands of Islas Chafarinas, Penon de Alhucemas, and Penon de Velez de la Gomera, which are all located along the coast of Morocco; they are collectively referred to as Places of Sovereignty (Plazas de Soberania)<br>
+<strong>note:</strong> Spain administers the autonomous cities of Ceuta and Melilla and the three small islands of Islas Chafarinas, Peñón de Alhucemas, and Peñón de Velez de la Gomera, which are all located along the coast of Morocco; they are collectively referred to as Places of Sovereignty (Plazas de Soberania)<br>
 
 **Legal system**<br>
 civil law system with regional variations<br>
@@ -691,7 +691,7 @@ the military's inventory is comprised of weapons and equipment that were produce
 <strong>note 1:</strong> as of 2024, women comprised about 13% of the military's full-time personnel<br><br><strong>note 2:</strong> the military recruits foreign nationals with residency in Spain from countries of its former empire, including Argentina, Costa Rica, Bolivia, Colombia, Chile, Cuba, Dominican Republic, Ecuador, El Salvador, Equatorial Guinea, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Uruguay, and Venezuela<br>
 
 **Military deployments**<br>
-Spain has up to 3,000 military personnel deployed on 17 missions supporting the EU, NATO, and the UN on four continents, as well as naval missions in the Mediterranean and the seas off the Horn of Africa; its largest deployments are up to 700 troops in Lebanon (UNIFIL) and about 1,700 personnel in Eastern Europe supporting NATO missions in Latvia, Romania, and Slovakia (2024)<br>
+Spain has up to 3,000 military personnel deployed on 17 missions supporting the EU, NATO, and the UN on four continents, as well as naval missions in the Mediterranean and the seas off the Horn of Africa; its largest deployments are up to 700 troops in Lebanon (UNIFIL) and about 1,700 personnel in Eastern Europe supporting NATO missions in Latvia, Romania, and Slovakia (2025)<br>
 <strong> </strong><br>
 
 **Military - note**<br>
@@ -708,6 +708,9 @@ El Arenosillo Test Center/Range (Andalusia) (2025)<br>
 
 **Space program overview**<br>
 space program dates back to the 1940s; manufactures and operates communications, remote sensing (RS), and scientific/technology satellites; has developed sounding rockets; conducts research and development in a broad range of space-related capabilities, including astrobiology, astronomy, imaging/RS, meteorology, optics, propulsion, robotics, satellites (particularly micro- and nano-satellites), and satellite launch vehicles; program is integrated into the ESA; also participates in EU space programs; hosts the European Space Astronomy Center (ESOC) and the ESA&rsquo;s Space Surveillance and Tracking Data Centre (ESAC); cooperates with foreign space agencies and industries, including the US; has an active commercial space industry (2025)<br>
+
+**Key space-program milestones**<br>
+1960s - began working with the US/NASA and the European Space Research Organization (ESRO), the forerunner of the ESA; sounding rocket program (ended in the 1990s)<br><br>1974 - first satellite (IntaSat) launched by US<br><br>1990s - satellite launch vehicle (SLV) development program (canceled in 2000)<br><br>1992 - first communications satellite (Hispasat 1A) launched on European rocket<br><br>1998 - first astronaut in space on US Space Shuttle <br><br>2018 - first synthetic-aperture-radar, remote-sensing/reconnaissance satellite (Paz) launched by US<br><br>2023 - Spanish built Miuri-1 becomes first European private rocket to reach space; joined US-led Artemis Accords for space and lunar exploration<br><br>2025 - communications satellite (SpainSat NG 1) with advanced security technology launched by US<br>
 
 ## Terrorism
 

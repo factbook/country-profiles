@@ -53,12 +53,12 @@ _mean elevation_: 423 m<br>
 petroleum, natural gas, gypsum<br>
 
 **Land use**<br>
-_agricultural land_: 8.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 7.6% (2022 est.)<br>
-_forest_: 0.1% (2022 est.)<br>
-_other_: 91.2% (2022 est.)<br>
+_agricultural land_: 8.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 7.6% (2023 est.)<br>
+_forest_: 0.1% (2023 est.)<br>
+_other_: 91.2% (2023 est.)<br>
 
 **Irrigated land**<br>
 4,700 sq km (2012)<br>
@@ -193,7 +193,7 @@ _spirits_: 0 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-11.7% (2014)<br>
+4.3% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 59.2% (2023 est.)<br>
@@ -211,12 +211,12 @@ _signed, but not ratified_: Climate Change-Paris Agreement, Law of the Sea<br>
 Mediterranean along coast; dry, extreme desert interior<br>
 
 **Land use**<br>
-_agricultural land_: 8.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 7.6% (2022 est.)<br>
-_forest_: 0.1% (2022 est.)<br>
-_other_: 91.2% (2022 est.)<br>
+_agricultural land_: 8.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 7.6% (2023 est.)<br>
+_forest_: 0.1% (2023 est.)<br>
+_other_: 91.2% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 81.6% of total population (2023)<br>
@@ -303,7 +303,7 @@ _electoral system_: other systems<br>
 _scope of elections_: full renewal<br>
 _most recent election date_: 6/25/2014<br>
 _percentage of women in chamber_: 16.5%<br>
-_expected date of next election_: December 2025<br>
+_expected date of next election_: December 2026<br>
 <strong>note:</strong> 32 seats are reserved for women<br>
 
 **Judicial branch**<br>

@@ -52,12 +52,12 @@ _mean elevation_: 230 m<br>
 petroleum, natural gas, sulfur, salt<br>
 
 **Land use**<br>
-_agricultural land_: 84.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 3.4% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 80.8% (2022 est.)<br>
-_forest_: 8.8% (2022 est.)<br>
-_other_: 7% (2022 est.)<br>
+_agricultural land_: 84.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 3.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 80.8% (2023 est.)<br>
+_forest_: 5% (2023 est.)<br>
+_other_: 10.7% (2023 est.)<br>
 
 **Irrigated land**<br>
 16,459 sq km (2012)<br>
@@ -210,7 +210,7 @@ _male_: 9.4% (2025 est.)<br>
 _female_: 0.5% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-3.1% (2019)<br>
+3.1% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 64.3% (2023 est.)<br>
@@ -221,10 +221,12 @@ _women married by age 18_: 6.1% (2019)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 2.7% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 20.5% national budget (2024 est.)<br>
+_Education expenditure (% national budget)_: 29.6% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_female_: 99.6% (2019 est.)<br>
+_total population_: 99.9% (2022 est.)<br>
+_male_: 99.9% (2022 est.)<br>
+_female_: 99.9% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years (2023 est.)<br>
@@ -244,12 +246,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 subtropical desert<br>
 
 **Land use**<br>
-_agricultural land_: 84.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 3.4% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 80.8% (2022 est.)<br>
-_forest_: 8.8% (2022 est.)<br>
-_other_: 7% (2022 est.)<br>
+_agricultural land_: 84.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 3.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 80.8% (2023 est.)<br>
+_forest_: 5% (2023 est.)<br>
+_other_: 10.7% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 54% of total population (2023)<br>
@@ -337,13 +339,13 @@ _expected date of next election_: 2029<br>
 **Legislative branch**<br>
 _legislature name_: Assembly (Mejlis)<br>
 _legislative structure_: unicameral<br>
-_number of seats_: 125 (all directly elected)<br>
+_number of seats_: 56 (48 indirectly elected; 8 appointed)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 3/26/2023<br>
+_most recent election date_: 3/28/2021<br>
 _parties elected and seats per party_: Democratic Party of Turkmenistan (DPT) (65); Groups of citizens of Turkmenistan (28); Agrarian Party (24); Party of Industrialists and Entrepreneurs (8)<br>
-_percentage of women in chamber_: 25.6%<br>
+_percentage of women in chamber_: 25.5%<br>
 _expected date of next election_: March 2028<br>
 
 **Judicial branch**<br>
@@ -352,7 +354,7 @@ _judge selection and term of office_: judges appointed by the president for 5-ye
 _subordinate courts_: High Commercial Court; appellate courts; provincial, district, and city courts; military courts<br>
 
 **Political parties**<br>
-Agrarian Party of Turkmenistan or APT<br>Democratic Party of Turkmenistan or DPT<br>Party of Industrialists and Entrepreneurs or PIE<br>
+Agrarian Party of Turkmenistan or TAP<br>Party of Industrialists and Entrepreneurs of Turkmenistan or TSTP<br>The Democratic Party of Turkmenistan or TDP<br>
 <strong>note:</strong> all parties support President BERDIMUHAMEDOV; unofficial, small opposition movements exist abroad<br>
 
 **Diplomatic representation in the US**<br>
@@ -620,6 +622,9 @@ Turkmenistan National Space Agency (established 2011; transferred to the Space D
 
 **Space program overview**<br>
 has a small space program focused on acquiring satellites and developing the infrastructure to build and operate satellites; particularly interested in communications and remote sensing satellites; has cooperated with the space agencies and/or space industries of France, Italy, Russia, South Korea, and the US (2025)<br>
+
+**Key space-program milestones**<br>
+2015 - first commercial telecommunications satellite (Turkmen Sat 52E) built by European company and launched by US<br><br>2024 - announced beginning of program to develop or acquire a second communications satellite<br>
 
 ## Transnational Issues
 

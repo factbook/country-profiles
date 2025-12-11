@@ -51,12 +51,12 @@ _lowest point_: Sariqamish Kuli -12 m<br>
 natural gas, petroleum, coal, gold, uranium, silver, copper, lead and zinc, tungsten, molybdenum<br>
 
 **Land use**<br>
-_agricultural land_: 58.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 9.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 47.9% (2022 est.)<br>
-_forest_: 8.5% (2022 est.)<br>
-_other_: 33.5% (2022 est.)<br>
+_agricultural land_: 58.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 9.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 47.9% (2023 est.)<br>
+_forest_: 8.7% (2023 est.)<br>
+_other_: 31.8% (2023 est.)<br>
 
 **Irrigated land**<br>
 37,305 sq km (2022)<br>
@@ -210,7 +210,7 @@ _male_: 30.2% (2025 est.)<br>
 _female_: 1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-1.8% (2021)<br>
+1.8% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 68.6% (2023 est.)<br>
@@ -221,7 +221,7 @@ _women married by age 18_: 3.4% (2022)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 5.5% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 21.6% national budget (2022 est.)<br>
+_Education expenditure (% national budget)_: 22.1% national budget (2024 est.)<br>
 
 **Literacy**<br>
 _total population_: 100% (2022 est.)<br>
@@ -246,12 +246,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 mostly mid-latitude desert, long, hot summers, mild winters; semiarid grassland in east<br>
 
 **Land use**<br>
-_agricultural land_: 58.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 9.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 47.9% (2022 est.)<br>
-_forest_: 8.5% (2022 est.)<br>
-_other_: 33.5% (2022 est.)<br>
+_agricultural land_: 58.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 9.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 47.9% (2023 est.)<br>
+_forest_: 8.7% (2023 est.)<br>
+_other_: 31.8% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 50.5% of total population (2023)<br>
@@ -346,7 +346,7 @@ _number of seats_: 150 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 10/27/2024<br>
+_most recent election date_: 11/7/2024 to 11/12/2024<br>
 _parties elected and seats per party_: Movement of Entrepreneurs and Businesspeople - Liberal Democratic Party (UzLiDeP) (64); Milliy Tiklanish Democratic Party (O'zMTDP) (29); Social Democratic Party ("Adolat" SDP) (21); People's Democratic Party (XDP) (20); Ecological Party (O'EP) (16)<br>
 _percentage of women in chamber_: 38%<br>
 _expected date of next election_: October 2029<br>
@@ -356,7 +356,7 @@ _chamber name_: Senate (Senat)<br>
 _number of seats_: 65 (56 indirectly elected; 9 appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 11/7/2024 to 11/12/2024<br>
+_most recent election date_: 10/27/2024<br>
 _percentage of women in chamber_: 24.6%<br>
 _expected date of next election_: November 2029<br>
 
@@ -366,7 +366,7 @@ _judge selection and term of office_: judges of the highest courts nominated by 
 _subordinate courts_: regional, district, city, and town courts<br>
 
 **Political parties**<br>
-Ecological Party of Uzbekistan (O'zbekiston Ekologik Partivasi)<br>Justice (Adolat) Social Democratic Party of Uzbekistan<br>Liberal Democratic Party of Uzbekistan (O'zbekiston Liberal-Demokratik Partiyasi) or LDPU<br>National Revival Democratic Party of Uzbekistan (O'zbekiston Milliy Tiklanish Demokratik Partiyasi)<br>People's Democratic Party of Uzbekistan (Xalq Demokratik Partiyas) or PDP (formerly Communist Party)<br>
+Ecological Party of Uzbekistan or EPU<br>Justice Social Democratic Party or ASDP<br>People's Democratic Party of Uzbekistan or PDP<br>Uzbekistan Liberal Democratic Party or UzLiDep<br>Uzbekistan National Revival Democratic Party or UzMTDP<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Furqat SIDIKOV (since 19 April 2023)<br>
@@ -684,6 +684,9 @@ Space Research and Technology Agency (UzCosmos or UzSpace; established 2019) (20
 
 **Space program overview**<br>
 has a small but growing space effort focused on acquiring satellites and developing the country&rsquo;s space industries and technologies in key sectors, including cartography, data processing, environmental and disaster monitoring, land use, resource management, and telecommunications; recognized for its astronomy program; member of international space organizations; cooperates with foreign space agencies or commercial companies from a variety of countries, including those of Canada, China, France, India, Israel, Japan, Kazakhstan, Russia, South Korea, Spain, Turkey, and the UAE (2025)<br>
+
+**Key space-program milestones**<br>
+2018 - signed space cooperation agreements with France and India<br><br>2022 - signed space cooperation agreement with Kazakhstan <br><br>2025 - Uzbek engineers began two-year satellite development training program in Japan with goal of building country's first satellite; signed space cooperation agreement with South Korea; announced development of 10-year national space program<br>
 
 ## Terrorism
 

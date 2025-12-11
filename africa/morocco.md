@@ -56,12 +56,12 @@ _mean elevation_: 909 m<br>
 phosphates, iron ore, manganese, lead, zinc, fish, salt<br>
 
 **Land use**<br>
-_agricultural land_: 67.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 16.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 47.1% (2022 est.)<br>
-_forest_: 12.9% (2022 est.)<br>
-_other_: 19.2% (2022 est.)<br>
+_agricultural land_: 66.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 15.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 47.1% (2023 est.)<br>
+_forest_: 12.8% (2023 est.)<br>
+_other_: 20.3% (2023 est.)<br>
 <strong>note:</strong> does not include the area of the former Western Sahara, which is almost exclusively desert<br>
 
 **Irrigated land**<br>
@@ -197,7 +197,6 @@ _unimproved: total_: total: 10.9% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 26.1% (2016)<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Alcohol consumption per capita**<br>
 _total_: 0.51 liters of pure alcohol (2019 est.)<br>
@@ -212,7 +211,7 @@ _male_: 23.7% (2025 est.)<br>
 _female_: 0.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-2.8% (2019/20)<br>
+3% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 58.8% (2023 est.)<br>
@@ -245,12 +244,12 @@ Mediterranean in the north, becoming more extreme in the interior; in the south,
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
 **Land use**<br>
-_agricultural land_: 67.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 16.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 47.1% (2022 est.)<br>
-_forest_: 12.9% (2022 est.)<br>
-_other_: 19.2% (2022 est.)<br>
+_agricultural land_: 66.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 15.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 47.1% (2023 est.)<br>
+_forest_: 12.8% (2023 est.)<br>
+_other_: 20.3% (2023 est.)<br>
 <strong>note:</strong> does not include the area of the former Western Sahara, which is almost exclusively desert<br>
 
 **Urbanization**<br>

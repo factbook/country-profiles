@@ -53,12 +53,12 @@ _mean elevation_: 61 m<br>
 oil shale, peat, rare earth elements, phosphorite, clay, limestone, sand, dolomite, arable land, sea mud<br>
 
 **Land use**<br>
-_agricultural land_: 23.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 16.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 6.4% (2022 est.)<br>
-_forest_: 57.1% (2022 est.)<br>
-_other_: 19.9% (2022 est.)<br>
+_agricultural land_: 23.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 16.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.4% (2023 est.)<br>
+_forest_: 57.2% (2023 est.)<br>
+_other_: 19.6% (2023 est.)<br>
 
 **Irrigated land**<br>
 20 sq km (2016)<br>
@@ -207,8 +207,8 @@ _female_: 18.3% (2025 est.)<br>
 52.3% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 5.7% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 14.6% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 5.2% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 13% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years (2023 est.)<br>
@@ -228,12 +228,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 maritime; wet, moderate winters, cool summers<br>
 
 **Land use**<br>
-_agricultural land_: 23.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 16.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 6.4% (2022 est.)<br>
-_forest_: 57.1% (2022 est.)<br>
-_other_: 19.9% (2022 est.)<br>
+_agricultural land_: 23.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 16.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.4% (2023 est.)<br>
+_forest_: 57.2% (2023 est.)<br>
+_other_: 19.6% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 69.8% of total population (2023)<br>
@@ -335,7 +335,7 @@ _judge selection and term of office_: the chief justice is proposed by the presi
 _subordinate courts_: circuit (appellate) courts; administrative, county, city, and specialized courts<br>
 
 **Political parties**<br>
-Conservative People's Party (Konservatiivne Rahvaerakond) or EKRE<br>Estonia 200 or E200<br>Estonia Centre Party of (Keskerakond) or KE<br>Estonian Free Party or VAP<br>Estonian Greens or EER<br>Estonian Nationalists and Conservatives or ERK <br>Estonian Reform Party (Reformierakond) or RE<br>Estonian United Left Party or EÜVP<br>Fatherland or I<br>Pro Patria (Isamaa)<br>The Right or PP<br>Social Democratic Party or SDE<br>
+Conservative People's Party of Estonia (Konservatiivne Rahvaerakond) or EKRE<br>Estonia 200 or E200<br>Estonia Centre Party of (Keskerakond) or EK<br>Estonian Free Party or VAP<br>Estonian Freedom Party - Farmers' Assembly or V-PK<br>Estonian Greens or EER<br>Estonian Nationalists and Conservatives or ERK <br>Estonian Reform Party (Reformierakond) or RE<br>Fatherland or I<br>Left Alliance or VL<br>Social Democratic Party or SDE<br>The Right or PP<br>TOGETHER organization points to sovereignty or KOOS<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Kristjan PRIKK (since 7 July 2021)<br>

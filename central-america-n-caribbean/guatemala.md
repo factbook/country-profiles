@@ -53,12 +53,12 @@ _mean elevation_: 759 m<br>
 petroleum, nickel, rare woods, fish, chicle, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 43% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 14.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 11% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 17.5% (2022 est.)<br>
-_forest_: 32.7% (2022 est.)<br>
-_other_: 24.3% (2022 est.)<br>
+_agricultural land_: 43% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 14.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.5% (2023 est.)<br>
+_forest_: 33.2% (2023 est.)<br>
+_other_: 23.7% (2023 est.)<br>
 
 **Irrigated land**<br>
 3,375 sq km (2012)<br>
@@ -207,7 +207,7 @@ _male_: 22.5% (2025 est.)<br>
 _female_: 1.5% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-14.4% (2021/22)<br>
+14.4% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 57.2% (2023 est.)<br>
@@ -218,13 +218,13 @@ _women married by age 18_: 29.5% (2015)<br>
 _men married by age 18_: 9.6% (2015)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 3.2% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 18.9% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 3.1% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 17.3% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_total population_: 83% (2022 est.)<br>
-_male_: 88.4% (2022 est.)<br>
-_female_: 78.6% (2022 est.)<br>
+_total population_: 82.1% (2024 est.)<br>
+_male_: 86.9% (2024 est.)<br>
+_female_: 78.5% (2024 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years (2023 est.)<br>
@@ -244,12 +244,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; hot, humid in lowlands; cooler in highlands<br>
 
 **Land use**<br>
-_agricultural land_: 43% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 14.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 11% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 17.5% (2022 est.)<br>
-_forest_: 32.7% (2022 est.)<br>
-_other_: 24.3% (2022 est.)<br>
+_agricultural land_: 43% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 14.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.5% (2023 est.)<br>
+_forest_: 33.2% (2023 est.)<br>
+_other_: 23.7% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 53.1% of total population (2023)<br>
@@ -295,7 +295,7 @@ _time difference_: UTC-6 (1 hour behind Washington, DC, during Standard Time)<br
 _etymology_: the Spanish conquistadors' first capital (established in 1524) was a former Mayan settlement called "Quauhtemallan" by their Nahuatl-speaking Mexican allies, a name that means "land of the eagle" but that the Spanish probably pronounced "Guatemala"&nbsp;<br>
 
 **Administrative divisions**<br>
-22 departments (<em>departamentos</em>, singular - <em>departamento</em>); Alta Verapaz, Baja Verapaz, Chimaltenango, Chiquimula, El Progreso, Escuintla, Guatemala, Huehuetenango, Izabal, Jalapa, Jutiapa, Peten, Quetzaltenango, Quiche, Retalhuleu, Sacatepequez, San Marcos, Santa Rosa, Solola, Suchitepequez, Totonicapan, Zacapa<br>
+22 departments (<em>departamentos</em>, singular - <em>departamento</em>); Alta Verapaz, Baja Verapaz, Chimaltenango, Chiquimula, El Progreso, Escuintla, Guatemala, Huehuetenango, Izabal, Jalapa, Jutiapa, Peten, Quetzaltenango, Quiche, Retalhuleu, Sacatepéquez, San Marcos, Santa Rosa, Sololá, Suchitepéquez, Totonicapán, Zacapa<br>
 
 **Legal system**<br>
 civil law system; judicial review of legislative acts<br>

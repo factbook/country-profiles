@@ -53,12 +53,12 @@ _mean elevation_: 380 m<br>
 natural gas, petroleum, tin, iron ore, coal, limestone, niobium, lead, zinc, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 75.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 40% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 8.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 27.3% (2022 est.)<br>
-_forest_: 23.1% (2022 est.)<br>
-_other_: 1.1% (2022 est.)<br>
+_agricultural land_: 76.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 40.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 8.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.6% (2023 est.)<br>
+_forest_: 19.1% (2023 est.)<br>
+_other_: 4.7% (2023 est.)<br>
 
 **Irrigated land**<br>
 2,188 sq km (2017)<br>
@@ -213,7 +213,7 @@ _male_: 4.8% (2025 est.)<br>
 _female_: 0.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-18.4% (2019/20)<br>
+24.4% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 66.2% (2023 est.)<br>
@@ -225,8 +225,8 @@ _men married by age 18_: 1.6% (2021)<br>
 <strong>note:</strong> due to prolonged insecurity concerns, some parts of states, including Borno state, were not sampled<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 0.3% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 4.3% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 0.3% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 3% national budget (2024 est.)<br>
 
 **Literacy**<br>
 _total population_: 63.2% (2021 est.)<br>
@@ -246,12 +246,12 @@ _signed, but not ratified_: Tropical Timber 2006<br>
 varies; equatorial in south, tropical in center, arid in north<br>
 
 **Land use**<br>
-_agricultural land_: 75.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 40% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 8.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 27.3% (2022 est.)<br>
-_forest_: 23.1% (2022 est.)<br>
-_other_: 1.1% (2022 est.)<br>
+_agricultural land_: 76.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 40.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 8.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.6% (2023 est.)<br>
+_forest_: 19.1% (2023 est.)<br>
+_other_: 4.7% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 54.3% of total population (2023)<br>
@@ -659,10 +659,10 @@ Armed Forces of Nigeria (AFN): Nigerian Army, Nigerian Navy (includes Coast Guar
 <strong>note 1: </strong>the NSCDC is a paramilitary agency commissioned to assist the military in the management of threats to internal security, including attacks and natural disasters<br><br><strong>note 2: </strong>some states have created local security forces in response to increased violence, insecurity, and criminality that have exceeded the response capacity of federal government security forces, but official security forces remained the constitutional prerogative of the federal government; in 2023, the federal government began deploying thousands of "agro rangers" across 19 states and the Federal Capital Territory to help safeguard farmland and mediate conflicts, especially in areas hit by farmer-herder clashes<br>
 
 **Military expenditures**<br>
-0.7% of GDP (2024)<br>
+0.6% of GDP (2024)<br>
 0.7% of GDP (2023 est.)<br>
 0.6% of GDP (2022 est.)<br>
-0.7% of GDP (2021 est.)<br>
+0.6% of GDP (2021 est.)<br>
 0.6% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
@@ -672,10 +672,10 @@ information varies; estimated 140,000 active Armed Forces (2025)<br>
 the military's inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; the military is undergoing a modernization program, and in recent years has received equipment from a range of suppliers, including Brazil, China, France, Italy, Russia, South Korea, Turkey, and the US; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2025)<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for voluntary military service for men and women; no conscription (2023)<br>
+18-25 years of age for voluntary military service for men and women; no conscription (2025)<br>
 
 **Military deployments**<br>
-190 Sudan/South Sudan (UNISFA) (2024)<br>
+180 Sudan/South Sudan (UNISFA); 200 Gambia (ECOWAS); 150 Guinea-Bissau (ECOWAS) (2025)<br>
 <strong>note:</strong> Nigeria has committed an Army combat brigade (approximately 3,000 troops) to the Multinational Joint Task Force (MNJTF), a regional counter-terrorism force comprised of troops from Benin, Cameroon, Chad, and Niger; MNJTF conducts operations against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically<br>
 
 **Military - note**<br>
@@ -689,6 +689,9 @@ National Space Research and Development Agency (NARSDA; established 1999); Defen
 
 **Space program overview**<br>
 has a national space program that focuses on acquiring satellites for agricultural and environmental applications, meteorology, mining and disaster monitoring, security, and socio-economic development; designs, builds (mostly with foreign assistance), and operates satellites; processes overhead imagery data for analysis and sharing; developing additional capabilities in satellite and satellite payload production, including remote sensing technologies; has a sounding rocket program for researching rockets and rocket propulsion, with goal of launching domestically produced satellites into space from a Nigerian spaceport by 2030; works with a variety of foreign space agencies and industries, including those of Algeria, Bangladesh, Belarus, China, Ghana, India, Japan, Kenya, Mongolia, South Africa, Thailand, Turkey, the UK, the US, and Vietnam; has a government-owned satellite company and a small commercial aerospace sector (2025)<br>
+
+**Key space-program milestones**<br>
+2003 - first remote sensing (RS) microsatellite (NigeriaSat-1) built jointly with the UK and launched by Russia<br><br>2007 - first communications satellite (NigSatCom-1) built and launched by China (failed in orbit, 2008)<br><br>2011 - first domestically built remote sensing (RS) satellite (NigeriaSat-X) launched by Russia<br><br>2019 - inaugurated a geospatial data analysis center<br><br>2022 - signed US-led Artemis Accords for space exploration<br><br>2023 - first military reconnaissance RS satellite (DelSat-1) launched by China<br>
 
 ## Terrorism
 

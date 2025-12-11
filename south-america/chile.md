@@ -55,12 +55,12 @@ _mean elevation_: 1,871 m<br>
 copper, timber, iron ore, nitrates, precious metals, molybdenum, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 14.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 11.8% (2022 est.)<br>
-_forest_: 24.8% (2022 est.)<br>
-_other_: 60.9% (2022 est.)<br>
+_agricultural land_: 14.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 11.8% (2023 est.)<br>
+_forest_: 24.5% (2023 est.)<br>
+_other_: 61.1% (2023 est.)<br>
 
 **Irrigated land**<br>
 9,094 sq km (2022)<br>
@@ -208,13 +208,13 @@ _female_: 24.1% (2025 est.)<br>
 46.3% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 5% of GDP (2021 est.)<br>
-_Education expenditure (% national budget)_: 14.9% national budget (2021 est.)<br>
+_Education expenditure (% GDP)_: 4.9% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 18.4% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_total population_: 96% (2017 est.)<br>
-_male_: 96% (2017 est.)<br>
-_female_: 96% (2017 est.)<br>
+_total population_: 96.4% (2017 est.)<br>
+_male_: 96.5% (2017 est.)<br>
+_female_: 96.3% (2017 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years (2023 est.)<br>
@@ -234,12 +234,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; desert in north; Mediterranean in central region; cool and damp in south<br>
 
 **Land use**<br>
-_agricultural land_: 14.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 11.8% (2022 est.)<br>
-_forest_: 24.8% (2022 est.)<br>
-_other_: 60.9% (2022 est.)<br>
+_agricultural land_: 14.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 11.8% (2023 est.)<br>
+_forest_: 24.5% (2023 est.)<br>
+_other_: 61.1% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 88% of total population (2023)<br>
@@ -318,9 +318,9 @@ _chief of state_: President Gabriel BORIC (since 11 March 2022)<br>
 _head of government_: President Gabriel BORIC (since 11 March 2022)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a single 4-year term<br>
-_most recent election date_: 21 November 2021, with a runoff held on 19 December 2021<br>
-_election results_: <br><em>2021: </em>Gabriel BORIC elected president in second round; percent of vote in first round - Jose Antonio KAST (FSC) 27.9%; Gabriel BORIC (AD) 25.8%; Franco PARISI (PDG) 12.8%; Sebastian SICHEL (ChP+) 12.8%; Yasna PROVOSTE (New Social Pact) 11.6%; other 9.1%; percent of vote in second round - Gabriel BORIC 55.9%; Jose Antonio KAST 44.1%<br><em><br>2017:</em> Sebastian PINERA Echenique elected president in second round; percent of vote in first round - Sebastian PINERA Echenique (independent) 36.6%; Alejandro GUILLIER (independent) 22.7%; Beatriz SANCHEZ (independent) 20.3%; Jose Antonio KAST (independent) 7.9%; Carolina GOIC (PDC) 5.9%; Marco ENRIQUEZ-OMINAMI (PRO) 5.7%; other 0.9%; percent of vote in second round - Sebastian PINERA Echenique 54.6%, Alejandro GUILLIER 45.4%<br>
-_expected date of next election_: 23 November 2025 (a runoff, if needed, will take place on 20 December 2025)<br>
+_most recent election date_: 16 December 2025, with a runoff to be held on 14 December 2025<br>
+_election results_: <em>2025: </em>percent of vote in first round - Jeannette Alejandra JARA Román (PCCh) 26.8%,<strong> </strong>José Antonio KAST (PLR) 23.9%, Franco Aldo PARISI Fernández (PDG) 19.7%, Johannes KAISER (PNL) 13.9%, Evelyn Rose MATTHEI Fornet (PL) 12.5%; other 3.2%; note - JARA and KAST will participate in a runoff election to be held 14 December 2025  <br><br><em>2021: </em>Gabriel BORIC elected president in second round; percent of vote in first round - José Antonio KAST (FSC) 27.9%; Gabriel BORIC (AD) 25.8%; Franco PARISI (PDG) 12.8%; Sebastian SICHEL (ChP+) 12.8%; Yasna PROVOSTE (New Social Pact) 11.6%; other 9.1%; percent of vote in second round - Gabriel BORIC 55.9%; Jose Antonio KAST 44.1%<br><em><br>2017:</em> Sebastian PINERA Echenique elected president in second round; percent of vote in first round - Sebastian PINERA Echenique (independent) 36.6%; Alejandro GUILLIER (independent) 22.7%; Beatriz SANCHEZ (independent) 20.3%; Jose Antonio KAST (independent) 7.9%; Carolina GOIC (PDC) 5.9%; Marco ENRIQUEZ-OMINAMI (PRO) 5.7%; other 0.9%; percent of vote in second round - Sebastian PINERA Echenique 54.6%, Alejandro GUILLIER 45.4%<br>
+_expected date of next election_: 18 November 2029 (a runoff, if needed, will take place in December 2029)<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -335,7 +335,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 11/21/2021<br>
 _parties elected and seats per party_: Chile Podemos (Empowering Chile", CP +) (53); New Social Pact (NPS) (37); Approving Dignity (AD) (37); Christian Social Front (FSC) (15); Other (13)<br>
-_percentage of women in chamber_: 35.1%<br>
+_percentage of women in chamber_: 33.5%<br>
 _expected date of next election_: November 2025<br>
 
 **Legislative branch - upper chamber**<br>
@@ -346,7 +346,7 @@ _scope of elections_: partial renewal<br>
 _term in office_: 8 years<br>
 _most recent election date_: 11/21/2021<br>
 _parties elected and seats per party_: Chile Podemos (Empowering Chile", CP +) (12); New Social Pact (NPS) (8); Approving Dignity (AD) (4); Independents (2); Other (1)<br>
-_percentage of women in chamber_: 26%<br>
+_percentage of women in chamber_: 32%<br>
 _expected date of next election_: November 2025<br>
 
 **Judicial branch**<br>
@@ -355,7 +355,7 @@ _judge selection and term of office_: Supreme Court president and judges (minist
 _subordinate courts_: Courts of Appeal; oral criminal tribunals; military tribunals; local police courts; specialized tribunals and courts in matters such as family, labor, customs, taxes, and electoral affairs<br>
 
 **Political parties**<br>
-Approve Dignity (Apruebo Dignidad) coalition or AD (included PC, FA, and FREVS); note - dissolved 2023<br>Broad Front Coalition (Frente Amplio) or FA (includes RD, CS, and Comunes)<br>Chile We Can Do More (Chile Podemos  Más) or ChP+ (coalition includes EVOPOLI, PRI, RN, UDI)<br>Christian Democratic Party or PDC<br>Common Sense Party or SC<br>Commons (Comunes)<br>Communist Party of Chile or PCCh<br>Democratic Revolution or RD<br>Democrats or PD<br>Equality Party or PI<br>Green Ecological Party or PEV (dissolved 7 February 2022)<br>Green Popular Alliance or AVP<br>Humanist Action Party or PAH<br>Humanist Party or PH<br>Independent Democratic Union or UDI<br>Liberal Party (Partido Liberal de Chile) or PL<br>National Renewal or RN<br>New Social Pact or NPS (includes PDC, PL, PPD, PRSD, PS)<br>Party for Democracy or PPD<br>Party of the People or PDG<br>Political Evolution or EVOPOLI<br>Popular Party or PP<br>Progressive Homeland Party or PRO<br>Radical Party or PR<br>Republican Party or PLR<br>Social Christian Party or PSC<br>Social Convergence or CS<br>Social Green Regionalist Federation or FREVS<br>Socialist Party or PS<br>Yellow Movement for Chile or AMAR<br>
+Approve Dignity (Apruebo Dignidad) coalition or AD (included PC, FA, and FREVS); note - dissolved 2023<br>Broad Front Coalition (Frente Amplio) or FA (includes RD, CS, and Comunes)<br>Chile We Can Do More (Chile Podemos  Más) or ChP+ (coalition includes EVOPOLI, PRI, RN, UDI)<br>Christian Democratic Party or PDC<br>Common Sense Party or SC<br>Commons (Comunes)<br>Communist Party of Chile or PCCh<br>Democratic Revolution or RD<br>Democrats or PD<br>Equality Party or PI<br>Green Ecological Party or PEV (dissolved 7 February 2022)<br>Green Popular Alliance or AVP<br>Humanist Action Party or PAH<br>Humanist Party or PH<br>Independent Democratic Union or UDI<br>Liberal Party (Partido Liberal de Chile) or PL<br>National Libertarian Party or PNL<br>National Renewal or RN<br>New Social Pact or NPS (includes PDC, PL, PPD, PRSD, PS)<br>Party for Democracy or PPD<br>Party of the People or PDG<br>Political Evolution or EVOPOLI<br>Popular Party or PP<br>Progressive Homeland Party or PRO<br>Radical Party or PR<br>Republican Party or PLR<br>Social Christian Party or PSC<br>Social Convergence or CS<br>Social Green Regionalist Federation or FREVS<br>Socialist Party or PS<br>Yellow Movement for Chile or AMAR<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Juan Gabriel VALDES Soublette (since 7 June 2022)<br>
@@ -676,14 +676,6 @@ the Chilean military inventory is comprised of a broad mix of older foreign supp
 
 **Military - note**<br>
 the Chilean military's responsibilities are territorial defense, ensuring the country’s sovereignty, assisting with disaster and humanitarian relief, and providing some internal security duties such as border security or maintaining public order if required; a key focus in recent years has been assisting with securing the border area with Bolivia and Peru; it trains regularly and participates in bilateral and multinational training exercises, as well as international peacekeeping operations <br><br>Chile and Argentina have a joint peacekeeping force known as the Combined Southern Cross Peacekeeping Force (FPC), designed to be made available to the UN; the FPC is made up of air, ground, and naval components, as well as a combined logistics support unit<br><br>the Chilean Army was founded in 1810, but traces its origins back to the Army of the Kingdom of Chile, which was established by the Spanish Crown in the early 1600s; Chile's military aviation was inaugurated in 1913 with the creation of a military aviation school; the Navy traces its origins to 1817; it was first led by a British officer and the first ships were largely crewed by American, British, and Irish sailors; by the 1880s, the Chilean Navy was one of the most powerful in the Americas, and included the world’s first protected cruiser (a ship with an armored deck to protect vital machine spaces) (2025)<br>
-
-## Space
-
-**Space agency/agencies**<br>
-the Chilean Space Agency was established in 2001 and dissolved in 2014, at which time the space program became part of the Ministry of Defense; the Ministry of Science also participates in Chile&rsquo;s space program (2025)<br>
-
-**Space program overview**<br>
-focuses on acquiring and operating satellites; is building small remote sensing satellites; developing additional capabilities and technologies for producing satellites and satellite sub-systems; is a world leader in astronomy and astrophysics; has several astronomy institutes, and the Atacama Desert is home to more than a dozen astronomical observatories, including the Cerro Tololo Inter-American Observatory, the Las Campanas Observatory, and the European Southern Observatory; works with space agencies and industries in Canada, China, France, India, Israel, Mexico, Russia, the UK, and the US (2025)<br>
 
 ## Terrorism
 

@@ -50,12 +50,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 arable land, fish<br>
 
 **Land use**<br>
-_agricultural land_: 18.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 3.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 10.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.8% (2022 est.)<br>
-_forest_: 72.7% (2022 est.)<br>
-_other_: 8.9% (2022 est.)<br>
+_agricultural land_: 18.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 3.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 10.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 3.8% (2023 est.)<br>
+_forest_: 72.6% (2023 est.)<br>
+_other_: 9% (2023 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -138,6 +138,11 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 **Education expenditure**<br>
 5.6% national budget (2025 est.)<br>
 
+**Literacy**<br>
+_total population_: 99.5% (2022 est.)<br>
+_male_: 100% (2022 est.)<br>
+_female_: 100% (2022 est.)<br>
+
 ## Environment
 
 **Environmental issues**<br>
@@ -151,12 +156,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; modified by southeast trade winds<br>
 
 **Land use**<br>
-_agricultural land_: 18.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 3.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 10.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.8% (2022 est.)<br>
-_forest_: 72.7% (2022 est.)<br>
-_other_: 8.9% (2022 est.)<br>
+_agricultural land_: 18.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 3.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 10.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 3.8% (2023 est.)<br>
+_forest_: 72.6% (2023 est.)<br>
+_other_: 9% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 48.2% of total population (2023)<br>
@@ -191,7 +196,7 @@ _time difference_: UTC-11 (6 hours behind Washington, DC, during Standard Time)<
 _etymology_: a traditional name for an area of the island; became the name for the newly declared capital in the 20th century<br>
 
 **Administrative divisions**<br>
-none; no first-order administrative divisions as defined by the US government, but 14 villages are considered second-order<br>
+no first-order administrative divisions as defined by the US government, but 14 villages are considered second-order<br>
 
 **Legal system**<br>
 English common law<br>

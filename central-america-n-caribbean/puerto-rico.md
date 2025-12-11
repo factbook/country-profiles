@@ -51,12 +51,12 @@ _mean elevation_: 261 m<br>
 some copper and nickel; potential for onshore and offshore oil<br>
 
 **Land use**<br>
-_agricultural land_: 19% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 5.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 11.6% (2022 est.)<br>
-_forest_: 56.1% (2022 est.)<br>
-_other_: 24.9% (2022 est.)<br>
+_agricultural land_: 19% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 5.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 11.6% (2023 est.)<br>
+_forest_: 50.3% (2023 est.)<br>
+_other_: 30.6% (2023 est.)<br>
 
 **Irrigated land**<br>
 220 sq km (2012)<br>
@@ -171,12 +171,13 @@ _unimproved: total_: total: 0% of population (2022 est.)<br>
 37.4% (2023 est.)<br>
 
 **Education expenditure**<br>
-3.6% of GDP (2021 est.)<br>
+_Education expenditure (% GDP)_: 4.3% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 16% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_total population_: 92% (2017 est.)<br>
-_male_: 92% (2017 est.)<br>
-_female_: 92% (2017 est.)<br>
+_total population_: 92.4% (2017 est.)<br>
+_male_: 92.4% (2017 est.)<br>
+_female_: 92.4% (2017 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years (2023 est.)<br>
@@ -192,12 +193,12 @@ soil erosion; occasional droughts cause water shortages; industrial pollution<br
 tropical marine, mild; little seasonal temperature variation<br>
 
 **Land use**<br>
-_agricultural land_: 19% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 5.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 11.6% (2022 est.)<br>
-_forest_: 56.1% (2022 est.)<br>
-_other_: 24.9% (2022 est.)<br>
+_agricultural land_: 19% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 5.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 11.6% (2023 est.)<br>
+_forest_: 50.3% (2023 est.)<br>
+_other_: 30.6% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 93.6% of total population (2023)<br>
@@ -241,7 +242,7 @@ _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<
 _etymology_: Spanish explorer Juan PONCE de Leon named the city in 1511 both for himself and for his name saint, Saint John<br>
 
 **Administrative divisions**<br>
-none (territory of the US); no first-order administrative divisions as defined by the US government, but 78 municipalities (<em>municipios</em>, singular - <em>municipio</em>) are considered second-order: Adjuntas, Aguada, Aguadilla, Aguas Buenas, Aibonito, Anasco, Arecibo, Arroyo, Barceloneta, Barranquitas, Bayamon, Cabo Rojo, Caguas, Camuy, Canovanas, Carolina, Catano, Cayey, Ceiba, Ciales, Cidra, Coamo, Comerio, Corozal, Culebra, Dorado, Fajardo, Florida, Guanica, Guayama, Guayanilla, Guaynabo, Gurabo, Hatillo, Hormigueros, Humacao, Isabela, Jayuya, Juana Diaz, Juncos, Lajas, Lares, Las Marias, Las Piedras, Loiza, Luquillo, Manati, Maricao, Maunabo, Mayaguez, Moca, Morovis, Naguabo, Naranjito, Orocovis, Patillas, Penuelas, Ponce, Quebradillas, Rincon, Rio Grande, Sabana Grande, Salinas, San German, San Juan, San Lorenzo, San Sebastian, Santa Isabel, Toa Alta, Toa Baja, Trujillo Alto, Utuado, Vega Alta, Vega Baja, Vieques, Villalba, Yabucoa, Yauco<br>
+no first-order administrative divisions as defined by the US government, but 78 municipalities (<em>municipios</em>, singular - <em>municipio</em>) are considered second-order: Adjuntas, Aguada, Aguadilla, Aguas Buenas, Aibonito, Anasco, Arecibo, Arroyo, Barceloneta, Barranquitas, Bayamon, Cabo Rojo, Caguas, Camuy, Canovanas, Carolina, Catano, Cayey, Ceiba, Ciales, Cidra, Coamo, Comerio, Corozal, Culebra, Dorado, Fajardo, Florida, Guanica, Guayama, Guayanilla, Guaynabo, Gurabo, Hatillo, Hormigueros, Humacao, Isabela, Jayuya, Juana Diaz, Juncos, Lajas, Lares, Las Marias, Las Piedras, Loiza, Luquillo, Manati, Maricao, Maunabo, Mayaguez, Moca, Morovis, Naguabo, Naranjito, Orocovis, Patillas, Penuelas, Ponce, Quebradillas, Rincon, Rio Grande, Sabana Grande, Salinas, San German, San Juan, San Lorenzo, San Sebastian, Santa Isabel, Toa Alta, Toa Baja, Trujillo Alto, Utuado, Vega Alta, Vega Baja, Vieques, Villalba, Yabucoa, Yauco<br>
 
 **Legal system**<br>
 civil law system based on the Spanish civil code, within the framework of the US federal system<br>

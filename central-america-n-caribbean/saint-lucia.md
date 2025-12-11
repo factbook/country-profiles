@@ -52,12 +52,12 @@ _lowest point_: Caribbean Sea 0 m<br>
 forests, sandy beaches, minerals (pumice), mineral springs, geothermal potential<br>
 
 **Land use**<br>
-_agricultural land_: 16.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 4.4% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 11.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.6% (2022 est.)<br>
-_forest_: 34% (2022 est.)<br>
-_other_: 49.7% (2022 est.)<br>
+_agricultural land_: 16.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 4.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.6% (2023 est.)<br>
+_forest_: 53.7% (2023 est.)<br>
+_other_: 30% (2023 est.)<br>
 
 **Irrigated land**<br>
 30 sq km (2012)<br>
@@ -200,8 +200,8 @@ _female_: 2.6% (2025 est.)<br>
 53.6% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 2.7% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 11.8% national budget (2023 est.)<br>
+_Education expenditure (% GDP)_: 3.8% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 12.7% national budget (2025 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years (2023 est.)<br>
@@ -221,12 +221,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical, moderated by northeast trade winds; dry season January to April, rainy season May to August<br>
 
 **Land use**<br>
-_agricultural land_: 16.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 4.4% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 11.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.6% (2022 est.)<br>
-_forest_: 34% (2022 est.)<br>
-_other_: 49.7% (2022 est.)<br>
+_agricultural land_: 16.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 4.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.6% (2023 est.)<br>
+_forest_: 53.7% (2023 est.)<br>
+_other_: 30% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 19.2% of total population (2023)<br>
@@ -309,7 +309,7 @@ _term in office_: 5 years<br>
 _most recent election date_: 7/26/2021<br>
 _parties elected and seats per party_: Saint Lucia Labour Party (SLP) (13); United Workers Party (UWP) (2); Independents (2)<br>
 _percentage of women in chamber_: 10.5%<br>
-_expected date of next election_: July 2026<br>
+_expected date of next election_: December 2025<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate<br>
@@ -318,7 +318,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 8/17/2021<br>
 _percentage of women in chamber_: 54.5%<br>
-_expected date of next election_: August 2026<br>
+_expected date of next election_: December 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC is headquartered on St. Lucia and consists of the Court of Appeal -- headed by the chief justice and 4 judges -- and the High Court with 18 judges; the Court of Appeal travels to member states on a schedule to hear appeals from the High Court and subordinate courts; member of the Caribbean Court of Justice<br>

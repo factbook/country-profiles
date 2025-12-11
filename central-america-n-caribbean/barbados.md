@@ -50,12 +50,12 @@ _lowest point_: Atlantic Ocean 0 m<br>
 petroleum, fish, natural gas<br>
 
 **Land use**<br>
-_agricultural land_: 23.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 16.3% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.7% (2022 est.)<br>
-_forest_: 14.7% (2022 est.)<br>
-_other_: 62.1% (2022 est.)<br>
+_agricultural land_: 23.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 16.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.7% (2023 est.)<br>
+_forest_: 14.7% (2023 est.)<br>
+_other_: 62.1% (2023 est.)<br>
 
 **Irrigated land**<br>
 50 sq km (2012)<br>
@@ -190,8 +190,8 @@ _female_: 1.5% (2025 est.)<br>
 57.1% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 12.5% national budget (2023 est.)<br>
+_Education expenditure (% GDP)_: 3.6% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 14.2% national budget (2025 est.)<br>
 
 ## Environment
 
@@ -206,12 +206,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; rainy season (June to October)<br>
 
 **Land use**<br>
-_agricultural land_: 23.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 16.3% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.7% (2022 est.)<br>
-_forest_: 14.7% (2022 est.)<br>
-_other_: 62.1% (2022 est.)<br>
+_agricultural land_: 23.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 16.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.7% (2023 est.)<br>
+_forest_: 14.7% (2023 est.)<br>
+_other_: 62.1% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 31.4% of total population (2023)<br>
@@ -277,12 +277,12 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Sandra MASON (since 30 November 2021)<br>
+_chief of state_: President Jeffrey Davidson BOSTIC (since 30 November 2025)<br>
 _head of government_: Prime Minister Mia MOTTLEY (since 25 May 2018)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
 _election/appointment process_: president elected by an electoral college of both Houses of Parliament for a 4-year renewable term; following legislative elections, the president usually appoints the leader of the majority party or leader of the majority coalition as prime minister; the prime minister recommends the deputy prime minister<br>
 _most recent election date_: 7 October 2025<br>
-_election results_: Jeffrey Davidson BOSTIC elected as the country's second president; note - BOSTIC will take office 30 November 2025<br>
+_election results_: Jeffrey Davidson BOSTIC elected as the country's second president<br>
 _expected date of next election_: NA<br>
 
 **Legislative branch**<br>

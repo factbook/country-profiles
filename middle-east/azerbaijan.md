@@ -53,12 +53,12 @@ _mean elevation_: 384 m<br>
 petroleum, natural gas, iron ore, nonferrous metals, bauxite<br>
 
 **Land use**<br>
-_agricultural land_: 57.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 25.3% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 29.2% (2022 est.)<br>
-_forest_: 14% (2022 est.)<br>
-_other_: 28.2% (2022 est.)<br>
+_agricultural land_: 57.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 25.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 29.2% (2023 est.)<br>
+_forest_: 14.4% (2023 est.)<br>
+_other_: 27.7% (2023 est.)<br>
 
 **Irrigated land**<br>
 14,693 sq km (2022)<br>
@@ -204,17 +204,20 @@ _total_: 18.4% (2025 est.)<br>
 _male_: 37.9% (2025 est.)<br>
 _female_: 0.1% (2025 est.)<br>
 
+**Children under the age of 5 years underweight**<br>
+3% (2023 est.)<br>
+
 **Currently married women (ages 15-49)**<br>
 62.9% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 3.6% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 10.4% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 3.7% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 11.9% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_total population_: 100% (2023 est.)<br>
-_male_: 100% (2023 est.)<br>
-_female_: 100% (2023 est.)<br>
+_total population_: 99.8% (2023 est.)<br>
+_male_: 99.8% (2023 est.)<br>
+_female_: 99.7% (2023 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years (2023 est.)<br>
@@ -234,12 +237,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 dry, semiarid steppe<br>
 
 **Land use**<br>
-_agricultural land_: 57.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 25.3% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 29.2% (2022 est.)<br>
-_forest_: 14% (2022 est.)<br>
-_other_: 28.2% (2022 est.)<br>
+_agricultural land_: 57.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 25.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 29.2% (2023 est.)<br>
+_forest_: 14.4% (2023 est.)<br>
+_other_: 27.7% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 57.6% of total population (2023)<br>
@@ -343,7 +346,7 @@ _judge selection and term of office_: Supreme Court judges nominated by the pres
 _subordinate courts_: Courts of Appeal (replaced the Economic Court in 2002); district and municipal courts<br>
 
 **Political parties**<br>
-Civic Solidarity Party or VHP<br>Democratic Reforms Party DiP<br>Great Order Party or BQP<br>Motherland Party or AVP<br>Party for Democratic Reforms or DIP<br>Republican Alternative Party or REAL<br>Unity Party or VƏHDƏT<br>Whole Azerbaijan Popular Front Party or BAXCP<br>New Azerbaijan Party (Yeni Azərbaycan Partiyasi) or YAP<br>
+Azerbaijan Hope Party or ÜMİD<br>Azerbaijan Democratic Enlightenment Party or ADMP<br>Azerbaijan National Independence Party or AMİP<br>Civic Solidarity Party or VHP<br>Democratic Reforms Party or DiP<br>Great Order Party or BAP<br>Justice, Law, Democracy Party or ƏHD<br>Great Order Party or BQP<br>Motherland Party or AVP<br>National Front Party or MCP<br>National Revival Movement Party or MDHP<br>New Azerbaijan Party or YAP<br>Republican Alternative Party or REAL<br>Unity Party or VƏHDƏT<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Khazar IBRAHIM (since 15 September 2021)<br>
@@ -650,6 +653,9 @@ Space Agency of the Republic of Azerbaijan (Azercosmos; established 2010 as a st
 
 **Space program overview**<br>
 largely focused on the acquisition and operation of satellites; operates foreign-built communications and remote sensing (RS) satellites; cooperates with a variety of foreign space agencies and commercial entities, including those of China, the ESA (bilaterally with individual member states such as France), Israel, Russia, Turkey, and the US; Azercosmos is the largest satellite operator in the Caucasus region (2025)<br>
+
+**Key space-program milestones**<br>
+2013 - first communications satellite (Azerspace-1) built by US company and launched on European rocket<br><br>2014 - took operational control over remote sensing (RS) satellite (SPOT-7, now Azersky) from a French company (satellite ceased operations in 2023)<br><br>2017 - second communications satellite (Azerspace-2) built by US company and launched on European rocket<br><br>2023 - agreed to participate in China's International Lunar Research Station Cooperation project, which aims to establish a base on the Moon in the 2030s; signed agreement with Israel to jointly develop two multi-spectral RS satellites (Azersky-2 program) for scheduled launches in 2026 and 2028 (2025)<br>
 
 ## Terrorism
 

@@ -52,12 +52,12 @@ _mean elevation_: 1,330 m<br>
 small reserves of gold, platinum, copper, potash, natural gas, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 34.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 14.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 17.7% (2022 est.)<br>
-_forest_: 15% (2022 est.)<br>
-_other_: 50.9% (2022 est.)<br>
+_agricultural land_: 34.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 14.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.7% (2023 est.)<br>
+_forest_: 23.7% (2023 est.)<br>
+_other_: 42.2% (2023 est.)<br>
 
 **Irrigated land**<br>
 1,814 sq km (2020)<br>
@@ -215,7 +215,7 @@ _male_: 7.7% (2025 est.)<br>
 _female_: 1.4% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-21.2% (2019)<br>
+21.2% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 67.5% (2023 est.)<br>
@@ -230,9 +230,9 @@ _Education expenditure (% GDP)_: 2.3% of GDP (2024 est.)<br>
 _Education expenditure (% national budget)_: 16.7% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_total population_: 47.5% (2016 est.)<br>
-_male_: 62.6% (2016 est.)<br>
-_female_: 40.4% (2019 est.)<br>
+_total population_: 60.5% (2022 est.)<br>
+_male_: 71% (2022 est.)<br>
+_female_: 50% (2022 est.)<br>
 
 ## Environment
 
@@ -247,12 +247,12 @@ _signed, but not ratified_: Environmental Modification, Law of the Sea, Nuclear 
 tropical monsoon with wide topographic-induced variation<br>
 
 **Land use**<br>
-_agricultural land_: 34.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 14.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 17.7% (2022 est.)<br>
-_forest_: 15% (2022 est.)<br>
-_other_: 50.9% (2022 est.)<br>
+_agricultural land_: 34.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 14.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 17.7% (2023 est.)<br>
+_forest_: 23.7% (2023 est.)<br>
+_other_: 42.2% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 23.2% of total population (2023)<br>
@@ -346,7 +346,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 6/21/2021 to 9/30/2021<br>
 _parties elected and seats per party_: Prosperity Party (448); Other (22)<br>
-_percentage of women in chamber_: 29.7%<br>
+_percentage of women in chamber_: 41.9%<br>
 _expected date of next election_: June 2026<br>
 <strong>note:</strong> only 470 of the 547 seats in the House of People's Representatives were filled during the 2021 elections due to security issues in the Tigray State and other areas<br>
 
@@ -691,6 +691,9 @@ Ethiopian Space Science and Geospatial Institute (ESSGI; formed in 2022 from the
 
 **Space program overview**<br>
 focuses on acquiring and operating satellites, as well as conducting research; jointly builds satellites with foreign partners, and operates and exploits remote sensing (RS) satellites; developing the ability to manufacture satellites and their payloads; involved in astronomy and the construction of space observatories; works with a variety of countries, including China, France, India, Russia, and multiple African countries, particularly Kenya, Rwanda, Sudan, Tanzania, and Uganda; shares RS data with neighboring countries (2025)<br>
+
+**Key space-program milestones**<br>
+2015 - established Entoto Observatory and Space Science Research Center<br><br>2019 - first remote sensing (RS) satellite (Ethiopia RS Satellite or ETRSS-1) built and launched by China<br><br>2020 - second RS satellite (ET-SMART-RSS) built with assistance from and launched by China; began construction of satellite manufacturing, assembly, integration, and testing facility<br><br>2021 - established a multi-mission ground control station for RS satellites<br><br>2024 - declared second satellite ground station operational<br><br>2025 - announced plans to launch third RS satellite (ETRSS-02) in partnership with China in 2026<br>
 
 ## Terrorism
 

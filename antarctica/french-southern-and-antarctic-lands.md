@@ -83,7 +83,7 @@ _etymology_: self-descriptive name specifying the territories' affiliation and l
 overseas territory of France since 1955<br>
 
 **Administrative divisions**<br>
-none (overseas territory of France); no first-order administrative divisions as defined by the US government, but the 5 administrative districts are Iles Crozet, Iles &Eacute;parses, Iles Kerguelen, Ile Saint-Paul et Ile Amsterdam, and "Adelie Land," a claim in Antarctica that the US does not recognize<br>
+no first-order administrative divisions as defined by the US government, but the 5 administrative districts are Iles Crozet, Iles &Eacute;parses, Iles Kerguelen, Ile Saint-Paul et Ile Amsterdam, and "Adelie Land," a claim in Antarctica that the US does not recognize<br>
 
 **Legal system**<br>
 the laws of France apply<br>

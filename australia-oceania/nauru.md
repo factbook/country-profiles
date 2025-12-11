@@ -51,12 +51,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 phosphates, fish<br>
 
 **Land use**<br>
-_agricultural land_: 20% (2022 est.)<br>
+_agricultural land_: 20% (2023 est.)<br>
 _agricultural land: arable land_: arable land: 0% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 20% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 20% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
 _forest_: 0% (2022 est.)<br>
-_other_: 80% (2022 est.)<br>
+_other_: 80% (2023 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -179,12 +179,15 @@ _total_: 47.7% (2025 est.)<br>
 _male_: 49.3% (2025 est.)<br>
 _female_: 46.1% (2025 est.)<br>
 
+**Children under the age of 5 years underweight**<br>
+3.8% (2023 est.)<br>
+
 **Currently married women (ages 15-49)**<br>
 59.6% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 5.6% of GDP (2023 est.) NA<br>
-_Education expenditure (% national budget)_: 9.6% national budget (2018 est.)<br>
+_Education expenditure (% GDP)_: 5.7% of GDP (2023 est.) NA<br>
+_Education expenditure (% national budget)_: 6.6% national budget (2025 est.)<br>
 
 **Literacy**<br>
 _total population_: 96.6% (2023 est.)<br>
@@ -204,12 +207,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical with a monsoonal pattern; rainy season (November to February)<br>
 
 **Land use**<br>
-_agricultural land_: 20% (2022 est.)<br>
+_agricultural land_: 20% (2023 est.)<br>
 _agricultural land: arable land_: arable land: 0% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 20% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 20% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
 _forest_: 0% (2022 est.)<br>
-_other_: 80% (2022 est.)<br>
+_other_: 80% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>

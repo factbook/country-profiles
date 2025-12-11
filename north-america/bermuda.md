@@ -51,12 +51,12 @@ _lowest point_: Atlantic Ocean 0 m<br>
 limestone, pleasant climate fostering tourism<br>
 
 **Land use**<br>
-_agricultural land_: 5.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 5.6% (2022 est.)<br>
+_agricultural land_: 5.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 5.6% (2023 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 18.5% (2022 est.)<br>
-_other_: 75.9% (2022 est.)<br>
+_forest_: 14.4% (2023 est.)<br>
+_other_: 80% (2023 est.)<br>
 
 **Irrigated land**<br>
 NA<br>
@@ -168,7 +168,7 @@ _unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 1.9% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 11.6% national budget (2024 est.)<br>
+_Education expenditure (% national budget)_: 7.8% national budget (2017 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years (2023 est.)<br>
@@ -184,12 +184,12 @@ air pollution from vehicle emissions; scarce water resources; solid waste dispos
 subtropical; mild, humid; gales, strong winds common in winter<br>
 
 **Land use**<br>
-_agricultural land_: 5.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 5.6% (2022 est.)<br>
+_agricultural land_: 5.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 5.6% (2023 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 18.5% (2022 est.)<br>
-_other_: 75.9% (2022 est.)<br>
+_forest_: 14.4% (2023 est.)<br>
+_other_: 80% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>

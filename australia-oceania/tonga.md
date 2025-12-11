@@ -51,12 +51,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 arable land, fish<br>
 
 **Land use**<br>
-_agricultural land_: 48.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 27.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 15.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.6% (2022 est.)<br>
-_forest_: 12.4% (2022 est.)<br>
-_other_: 39% (2022 est.)<br>
+_agricultural land_: 48.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 27.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 15.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.6% (2023 est.)<br>
+_forest_: 12.1% (2023 est.)<br>
+_other_: 39.3% (2023 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -198,7 +198,7 @@ _male_: 46.1% (2025 est.)<br>
 _female_: 15.8% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-0.8% (2019)<br>
+0.8% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 54.9% (2023 est.)<br>
@@ -235,12 +235,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; modified by trade winds; warm season (December to May), cool season (May to December)<br>
 
 **Land use**<br>
-_agricultural land_: 48.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 27.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 15.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.6% (2022 est.)<br>
-_forest_: 12.4% (2022 est.)<br>
-_other_: 39% (2022 est.)<br>
+_agricultural land_: 48.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 27.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 15.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 5.6% (2023 est.)<br>
+_forest_: 12.1% (2023 est.)<br>
+_other_: 39.3% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 23.2% of total population (2023)<br>
@@ -316,7 +316,7 @@ _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 11/18/2021<br>
-_percentage of women in chamber_: 10%<br>
+_percentage of women in chamber_: 3.8%<br>
 _expected date of next election_: November 2025<br>
 
 **Judicial branch**<br>

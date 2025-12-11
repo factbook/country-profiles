@@ -53,12 +53,12 @@ _mean elevation_: 442 m<br>
 hydropower, geothermal power, petroleum, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 57.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 34.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 7.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 15.2% (2022 est.)<br>
-_forest_: 27.7% (2022 est.)<br>
-_other_: 14.5% (2022 est.)<br>
+_agricultural land_: 57.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 34.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 7.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 15.2% (2023 est.)<br>
+_forest_: 33% (2023 est.)<br>
+_other_: 9.3% (2023 est.)<br>
 
 **Irrigated land**<br>
 240 sq km (2022)<br>
@@ -202,6 +202,9 @@ _total_: 7.8% (2025 est.)<br>
 _male_: 14.7% (2025 est.)<br>
 _female_: 1.7% (2025 est.)<br>
 
+**Children under the age of 5 years underweight**<br>
+5% (2021 est.)<br>
+
 **Currently married women (ages 15-49)**<br>
 55% (2023 est.)<br>
 
@@ -211,12 +214,12 @@ _women married by age 18_: 19.7% (2021)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.2% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 12.5% national budget (2023 est.)<br>
+_Education expenditure (% national budget)_: 15.9% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_total population_: 90% (2023 est.)<br>
-_male_: 92% (2023 est.)<br>
-_female_: 88% (2023 est.)<br>
+_total population_: 89.8% (2024 est.)<br>
+_male_: 91.6% (2024 est.)<br>
+_female_: 88.2% (2024 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years (2023 est.)<br>
@@ -236,12 +239,12 @@ _signed, but not ratified_: Law of the Sea<br>
 tropical; rainy season (May to October); dry season (November to April); tropical on coast; temperate in uplands<br>
 
 **Land use**<br>
-_agricultural land_: 57.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 34.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 7.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 15.2% (2022 est.)<br>
-_forest_: 27.7% (2022 est.)<br>
-_other_: 14.5% (2022 est.)<br>
+_agricultural land_: 57.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 34.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 7.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 15.2% (2023 est.)<br>
+_forest_: 33% (2023 est.)<br>
+_other_: 9.3% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 75.4% of total population (2023)<br>
@@ -287,7 +290,7 @@ _time difference_: UTC-6 (1 hour behind Washington, DC, during Standard Time)<br
 _etymology_: Spanish colonists founded the city in 1526 on the feast day of the Transfiguration of the Savior (Jesus Christ), and the name means "Holy Savior" in Spanish<br>
 
 **Administrative divisions**<br>
-14 departments (<em>departamentos</em>, singular - <em>departamento</em>); Ahuachapan, Cabanas, Chalatenango, Cuscatlan, La Libertad, La Paz, La Union, Morazan, San Miguel, San Salvador, San Vicente, Santa Ana, Sonsonate, Usulutan<br>
+14 departments (<em>departamentos</em>, singular - <em>departamento</em>); Ahuachapán, Cabanas, Chalatenango, Cuscatlán, La Libertad, La Paz, La Union, Morazán, San Miguel, San Salvador, San Vicente, Santa Ana, Sonsonate, Usulután<br>
 
 **Legal system**<br>
 civil law system with minor common law influence; Supreme Court reviews legislative acts<br>

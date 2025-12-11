@@ -50,12 +50,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 fish<br>
 
 **Land use**<br>
-_agricultural land_: 60% (2022 est.)<br>
+_agricultural land_: 60% (2023 est.)<br>
 _agricultural land: arable land_: arable land: 0% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 60% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 60% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
 _forest_: 0% (2022 est.)<br>
-_other_: 40% (2022 est.)<br>
+_other_: 40% (2023 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -127,6 +127,11 @@ _unimproved: total_: total: 0% of population (2022 est.)<br>
 **Currently married women (ages 15-49)**<br>
 52% (2023 est.)<br>
 
+**Literacy**<br>
+_total population_: 100% (2022 est.)<br>
+_male_: 100% (2022 est.)<br>
+_female_: 100% (2022 est.)<br>
+
 ## Environment
 
 **Environmental issues**<br>
@@ -136,12 +141,12 @@ overfishing; damage to forest resources; pollution of freshwater and coastal wat
 tropical; moderated by trade winds (April to November)<br>
 
 **Land use**<br>
-_agricultural land_: 60% (2022 est.)<br>
+_agricultural land_: 60% (2023 est.)<br>
 _agricultural land: arable land_: arable land: 0% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 60% (2022 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 60% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
 _forest_: 0% (2022 est.)<br>
-_other_: 40% (2022 est.)<br>
+_other_: 40% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 0% of total population (2023)<br>
@@ -164,9 +169,6 @@ Tokelau is a non-self-governing territory of New Zealand and part of the Realm o
 **Capital**<br>
 _time difference_: UTC+13 (18 hours ahead of Washington, DC during Standard Time)<br>
 <strong>note</strong>: there is no designated, official capital for Tokelau; the location of the capital rotates among the three atolls along with the head of government or Ulu o Tokelau<br>
-
-**Administrative divisions**<br>
-none (territory of New Zealand)<br>
 
 **Legal system**<br>
 common law system of New Zealand<br>

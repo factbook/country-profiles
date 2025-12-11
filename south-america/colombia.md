@@ -54,12 +54,12 @@ _mean elevation_: 593 m<br>
 petroleum, natural gas, coal, iron ore, nickel, gold, copper, emeralds, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 37.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 33.2% (2022 est.)<br>
-_forest_: 52.9% (2022 est.)<br>
-_other_: 9.4% (2022 est.)<br>
+_agricultural land_: 36.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 32% (2023 est.)<br>
+_forest_: 53.8% (2023 est.)<br>
+_other_: 9.7% (2023 est.)<br>
 
 **Irrigated land**<br>
 6,506 sq km (2013)<br>
@@ -213,7 +213,7 @@ _male_: 11.2% (2025 est.)<br>
 _female_: 4.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-3.7% (2015/16)<br>
+3.7% (2016 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 55.3% (2023 est.)<br>
@@ -227,9 +227,9 @@ _men married by age 18_: 6.7% (2015)<br>
 5.3% of GDP (2020 est.)<br>
 
 **Literacy**<br>
-_total population_: 96% (2020 est.)<br>
-_male_: 95% (2020 est.)<br>
-_female_: 96% (2020 est.)<br>
+_total population_: 95.3% (2024 est.)<br>
+_male_: 95% (2024 est.)<br>
+_female_: 95.7% (2024 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years (2022 est.)<br>
@@ -249,12 +249,12 @@ _signed, but not ratified_: Law of the Sea<br>
 tropical along coast and eastern plains; cooler in highlands<br>
 
 **Land use**<br>
-_agricultural land_: 37.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 33.2% (2022 est.)<br>
-_forest_: 52.9% (2022 est.)<br>
-_other_: 9.4% (2022 est.)<br>
+_agricultural land_: 36.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 32% (2023 est.)<br>
+_forest_: 53.8% (2023 est.)<br>
+_other_: 9.7% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 82.4% of total population (2023)<br>
@@ -306,7 +306,7 @@ _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 _etymology_: originally named Santa Fe de Bacat&aacute; in 1538, after the Chibcha people's nearby settlement of Bacat&aacute;; the name was later corrupted to Bogot&aacute;<br>
 
 **Administrative divisions**<br>
-32 departments (<em>departamentos</em>, singular - <em>departamento</em>) and 1 capital district* (<em>distrito capital</em>); Amazonas, Antioquia, Arauca, Atlántico, Bogota*, Bolivar, Boyacá, Caldas, Caqueta, Casanare, Cauca, Cesar, Choco, Cordoba, Cundinamarca, Guainía, Guaviare, Huila, La Guajira, Magdalena, Meta, Nariño, Norte de Santander, Putumayo, Quindío, Risaralda, Archipielago de San Andres, Providencia y Santa Catalina (colloquially San Andres y Providencia), Santander, Sucre, Tolima, Valle del Cauca, Vaupes, Vichada<br>
+32 departments (<em>departamentos</em>, singular - <em>departamento</em>) and 1 capital district* (<em>distrito capital</em>); Amazonas, Antioquia, Arauca, Atlántico, Bogota*, Bolivar, Boyacá, Caldas, Caquetá, Casanare, Cauca, Cesar, Choco, Cordoba, Cundinamarca, Guainía, Guaviare, Huila, La Guajira, Magdalena, Meta, Nariño, Norte de Santander, Putumayo, Quindío, Risaralda, Archipiélago de San Andres, Providencia y Santa Catalina (colloquially San Andres y Providencia), Santander, Sucre, Tolima, Valle del Cauca, Vaupes, Vichada<br>
 
 **Legal system**<br>
 civil law system influenced by the Spanish and French civil codes<br>
@@ -348,7 +348,7 @@ _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 3/13/2022<br>
-_parties elected and seats per party_: Liberal Party (PL) (32); Historic Pact (27); Conservative Party (CP) (25); Democratic Centre (CD) (16); Radical Change (CR) (16); Union Party for the People “Partido de la U” (15); Green Alliance - Hope Centre coalition (11); Seats reserved for victims of the armed conflict (Citrep) (16); Other (28)<br>
+_parties elected and seats per party_: Liberal Party (PL) (32); Historic Pact (27); Conservative Party (CP) (25); Democratic Centre (CD) (16); Radical Change (CR) (16); Union Party for the People “Partido de la U” (15); Green Alliance - Hope Centre coalition (11); Other (14)<br>
 _percentage of women in chamber_: 29.4%<br>
 _expected date of next election_: March 2026<br>
 
@@ -709,6 +709,9 @@ Colombian Space Commission (Comision Colombiana Del Espacio, CCE; established 20
 
 **Space program overview**<br>
 has a small program focused on acquiring satellites, particularly remote sensing (RS) satellites; operates satellites and produces nanosatellites; researches other space technologies, including astronautics, satellite navigation, and telecommunications; works with a variety of foreign space agencies or commercial space industries, including those of Denmark, India, Russia, Sweden, the US, and some members of the Latin American and Caribbean Space Agency (2025)<br>
+
+**Key space-program milestones**<br>
+2007 - first domestically produced technology-demonstration/remote-sensing (RS) nanosatellite (Libertad I) launched by Russia<br><br>2014 - second experimental RS nanosatellite (UAPSAT) launched by US<br><br>2018 - first RS satellite (FACSAT-1) for military use purchased from Denmark and launched by India<br><br>2022 - signed US-led Artemis Accords for space exploration<br><br>2023 - second RS satellite (FACSAT-2 or Chibiriquete) launched by US<br>
 
 ## Terrorism
 

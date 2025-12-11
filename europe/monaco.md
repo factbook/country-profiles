@@ -176,7 +176,7 @@ _unimproved: urban_: urban: 0% of population (2022 est.)<br>
 _unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 1.2% of GDP (2022 est.)<br>
+_Education expenditure (% GDP)_: 1.7% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 7.7% national budget (2023 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
@@ -237,7 +237,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: founded as a Greek colony in the 6th century B.C., the name's origin is unclear; it could derive from the Greek term <em>monoikos</em> (solitary), the Ligurian word <em>monegu</em> (rock), or the Basque word <em>muno</em> (mountain)<br>
 
 **Administrative divisions**<br>
-none; no first-order administrative divisions as defined by the US government, but 4 quarters (<em>quartiers</em>, singular - <em>quartier</em>); Fontvieille, La Condamine, Monaco-Ville, Monte-Carlo<br>
+no first-order administrative divisions as defined by the US government, but 4 quarters (<em>quartiers</em>, singular - <em>quartier</em>); Fontvieille, La Condamine, Monaco-Ville, Monte-Carlo<br>
 <strong>note:</strong> Moneghetti, part of La Condamine, is sometimes called the fifth quarter of Monaco<br>
 
 **Legal system**<br>

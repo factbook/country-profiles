@@ -51,12 +51,12 @@ _mean elevation_: 442 m<br>
 oil, gas, coal, iron ore, copper, zinc, antimony, chromite, gold, silver, magnesium, pyrite, limestone, marble, salt, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 41.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 30.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.5% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 7.9% (2022 est.)<br>
-_forest_: 32.4% (2022 est.)<br>
-_other_: 26.4% (2022 est.)<br>
+_agricultural land_: 40.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 31% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.5% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.6% (2023 est.)<br>
+_forest_: 40.4% (2023 est.)<br>
+_other_: 27.2% (2023 est.)<br>
 
 **Irrigated land**<br>
 550 sq km (2022)<br>
@@ -211,7 +211,7 @@ _male_: 37.8% (2025 est.)<br>
 _female_: 34.5% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-1% (2019)<br>
+1% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 60.8% (2023 est.)<br>
@@ -221,13 +221,13 @@ _women married by age 15_: 1.2% (2019)<br>
 _women married by age 18_: 5.5% (2019)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 3.2% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 7.4% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 3.4% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 8.4% national budget (2023 est.)<br>
 
 **Literacy**<br>
-_total population_: 99% (2019 est.)<br>
-_male_: 100% (2019 est.)<br>
-_female_: 99% (2019 est.)<br>
+_total population_: 99.3% (2022 est.)<br>
+_male_: 99.6% (2022 est.)<br>
+_female_: 99.1% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years (2022 est.)<br>
@@ -247,12 +247,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 in the north, continental climate (cold winters and hot, humid summers with well-distributed rainfall); in other parts, continental and Mediterranean climate (relatively cold winters with heavy snowfall and hot, dry summers and autumns)<br>
 
 **Land use**<br>
-_agricultural land_: 41.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 30.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.5% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 7.9% (2022 est.)<br>
-_forest_: 32.4% (2022 est.)<br>
-_other_: 26.4% (2022 est.)<br>
+_agricultural land_: 40.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 31% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.5% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.6% (2023 est.)<br>
+_forest_: 40.4% (2023 est.)<br>
+_other_: 27.2% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 57.1% of total population (2023)<br>

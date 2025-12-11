@@ -51,12 +51,12 @@ _lowest point_: Atlantic Ocean 0 m<br>
 fish, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 44.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 4.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 39.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1% (2022 est.)<br>
-_forest_: 52.8% (2022 est.)<br>
-_other_: 2.4% (2022 est.)<br>
+_agricultural land_: 44.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 4.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 39.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 1% (2023 est.)<br>
+_forest_: 57.5% (2023 est.)<br>
+_other_: 0% (2023 est.)<br>
 
 **Irrigated land**<br>
 100 sq km (2012)<br>
@@ -201,7 +201,7 @@ _male_: 13.1% (2025 est.)<br>
 _female_: 1.7% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-5.4% (2019)<br>
+5.4% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 51.9% (2023 est.)<br>
@@ -238,12 +238,12 @@ _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 tropical; hot, humid; one rainy season (October to May)<br>
 
 **Land use**<br>
-_agricultural land_: 44.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 4.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 39.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1% (2022 est.)<br>
-_forest_: 52.8% (2022 est.)<br>
-_other_: 2.4% (2022 est.)<br>
+_agricultural land_: 44.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 4.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 39.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 1% (2023 est.)<br>
+_forest_: 57.5% (2023 est.)<br>
+_other_: 0% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 76.4% of total population (2023)<br>

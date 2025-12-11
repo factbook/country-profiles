@@ -55,12 +55,12 @@ _mean elevation_: 999 m<br>
 petroleum, fish, rock salt, marble; small deposits of coal, gold, lead, nickel, and copper; fertile soil in west<br>
 
 **Land use**<br>
-_agricultural land_: 44.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 41.7% (2022 est.)<br>
-_forest_: 1% (2022 est.)<br>
-_other_: 54.5% (2022 est.)<br>
+_agricultural land_: 44.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 41.7% (2023 est.)<br>
+_forest_: 1% (2023 est.)<br>
+_other_: 54.5% (2023 est.)<br>
 
 **Irrigated land**<br>
 6,800 sq km (2012)<br>
@@ -202,6 +202,9 @@ _total_: 20.2% (2025 est.)<br>
 _male_: 33.1% (2025 est.)<br>
 _female_: 7.3% (2025 est.)<br>
 
+**Children under the age of 5 years underweight**<br>
+40.7% (2022 est.)<br>
+
 **Currently married women (ages 15-49)**<br>
 60.4% (2023 est.)<br>
 
@@ -225,12 +228,12 @@ _signed, but not ratified_: Climate Change-Paris Agreement, Comprehensive Nuclea
 mostly desert; hot and humid along west coast; temperate in western mountains affected by seasonal monsoon; extraordinarily hot, dry, harsh desert in east<br>
 
 **Land use**<br>
-_agricultural land_: 44.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 41.7% (2022 est.)<br>
-_forest_: 1% (2022 est.)<br>
-_other_: 54.5% (2022 est.)<br>
+_agricultural land_: 44.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 41.7% (2023 est.)<br>
+_forest_: 1% (2023 est.)<br>
+_other_: 54.5% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 39.8% of total population (2023)<br>
@@ -613,7 +616,7 @@ the Yemeni Government forces have an inventory consisting primarily of Russian a
 <strong>note:</strong> as late as 2022, all parties to the ongoing conflict were implicated in child soldier recruitment and use; during the beginning of the truce in April 2022, the Houthis signed a plan with the UN to end the recruitment and use of child soldiers; Houthi leaders previously pledged to end the use of child soldiers in 2012, as did the Government of Yemen in 2014 <br>
 
 **Military - note**<br>
-government forces under the Yemeni Ministry of Defense are responsible for both external and internal defense; their priorities are the Houthi separatists (aka Ansarallah, which has been designated a terrorist organization by the US), the terrorist groups al-Qa&rsquo;ida in the Arabian Peninsula (AQAP) and the Islamic State of Iraq and ash-Sham in Yemen (ISIS-Yemen), and maritime security, particularly against arms smuggling; in 2022, the Yemeni Government and the Houthis signed a truce, halting most fighting and establishing humanitarian measures; the former front lines of conflict, in some areas mirroring Yemen&rsquo;s pre-unification borders, remain static; AQAP and ISIS-Yemen continue to be active in remote areas &nbsp; (2025)<br>
+government forces under the Yemeni Ministry of Defense are responsible for both external and internal defense; their priorities are the Houthi separatists (aka Ansarallah), the terrorist groups al-Qa&rsquo;ida in the Arabian Peninsula (AQAP) and the Islamic State of Iraq and ash-Sham in Yemen (ISIS-Yemen), and maritime security, particularly against arms smuggling; in 2022, the Yemeni Government and the Houthis signed a truce, halting most fighting and establishing humanitarian measures; the former front lines of conflict, in some areas mirroring Yemen&rsquo;s pre-unification borders, remain static; AQAP and ISIS-Yemen continue to be active in remote areas (2025)<br>
 
 ## Terrorism
 

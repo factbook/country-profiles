@@ -53,12 +53,12 @@ _mean elevation_: 207 m<br>
 bauxite, gold, diamonds, hardwood timber, shrimp, fish<br>
 
 **Land use**<br>
-_agricultural land_: 5.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3% (2022 est.)<br>
-_forest_: 93.5% (2022 est.)<br>
-_other_: 1.2% (2022 est.)<br>
+_agricultural land_: 3.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2.8% (2023 est.)<br>
+_forest_: 87.1% (2023 est.)<br>
+_other_: 9.5% (2023 est.)<br>
 
 **Irrigated land**<br>
 1,430 sq km (2012)<br>
@@ -205,7 +205,7 @@ _male_: 16.9% (2025 est.)<br>
 _female_: 1.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-9.4% (2019)<br>
+9.4% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 62.6% (2023 est.)<br>
@@ -217,7 +217,7 @@ _men married by age 18_: 11.9% (2020)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.5% of GDP (2018 est.)<br>
-_Education expenditure (% national budget)_: 16.2% national budget (2018 est.)<br>
+_Education expenditure (% national budget)_: 7.2% national budget (2025 est.)<br>
 
 **Literacy**<br>
 _total population_: 85.6% (2020 est.)<br>
@@ -237,12 +237,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; hot, humid, moderated by northeast trade winds; two rainy seasons (May to August, November to January)<br>
 
 **Land use**<br>
-_agricultural land_: 5.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3% (2022 est.)<br>
-_forest_: 93.5% (2022 est.)<br>
-_other_: 1.2% (2022 est.)<br>
+_agricultural land_: 3.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2.8% (2023 est.)<br>
+_forest_: 87.1% (2023 est.)<br>
+_other_: 9.5% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 27.2% of total population (2023)<br>
@@ -331,10 +331,10 @@ _number of seats_: 72 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 3/2/2020<br>
-_parties elected and seats per party_: People's Progressive Party/Civic (PPP/C) (33); A Partnership for National Unity - Alliance for Change (APNU-AFC) (31); Other (1)<br>
+_most recent election date_: 9/1/2025<br>
+_parties elected and seats per party_: People's Progressive Party/Civic (PPP/C) (36); We Invest in Nationhood (W.I.N.) (16); A Partnership for National Unity (APNU) (12); Other (1)<br>
 _percentage of women in chamber_: 36.1%<br>
-_expected date of next election_: September 2025<br>
+_expected date of next election_: August 2030<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Judicature (consists of the Court of Appeal with a chief justice and 3 justices, and the High Court with a chief justice and 10 justices organized into 3- or 5-judge panels); Caribbean Court of Justice is the final court of appeal in civil and criminal cases<br>

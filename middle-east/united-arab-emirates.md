@@ -54,12 +54,12 @@ _mean elevation_: 149 m<br>
 petroleum, natural gas<br>
 
 **Land use**<br>
-_agricultural land_: 5.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.2% (2022 est.)<br>
-_forest_: 4.5% (2022 est.)<br>
-_other_: 90% (2022 est.)<br>
+_agricultural land_: 5.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.2% (2023 est.)<br>
+_forest_: 4.6% (2023 est.)<br>
+_other_: 89.7% (2023 est.)<br>
 
 **Irrigated land**<br>
 940 sq km (2022)<br>
@@ -209,9 +209,9 @@ _Education expenditure (% GDP)_: 3.9% of GDP (2021 est.)<br>
 _Education expenditure (% national budget)_: 14.8% national budget (2021 est.)<br>
 
 **Literacy**<br>
-_total population_: 98% (2023 est.)<br>
-_male_: 99% (2023 est.)<br>
-_female_: 97% (2023 est.)<br>
+_total population_: 98.8% (2024 est.)<br>
+_male_: 99% (2024 est.)<br>
+_female_: 98.4% (2024 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years (2023 est.)<br>
@@ -231,12 +231,12 @@ _signed, but not ratified_: Law of the Sea<br>
 desert; cooler in eastern mountains<br>
 
 **Land use**<br>
-_agricultural land_: 5.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.2% (2022 est.)<br>
-_forest_: 4.5% (2022 est.)<br>
-_other_: 90% (2022 est.)<br>
+_agricultural land_: 5.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.2% (2023 est.)<br>
+_forest_: 4.6% (2023 est.)<br>
+_other_: 89.7% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 87.8% of total population (2023)<br>
@@ -654,6 +654,9 @@ UAE Space Agency (created in 2014); Mohammed bin Rashid Space Centre (MBRSC; est
 
 **Space program overview**<br>
 has an ambitious and growing national space program; focused on satellite development, including communications, remote sensing, and navigation, as well as deep space exploration; is building expertise, infrastructure, technology, and research and development capabilities; has elected to use foreign partners to launch payloads from spaceports abroad; has looked to invest in foreign commercial space companies and develop global partnerships; has a foreign-assisted astronaut training program; seeking to establish UAE as an international hub for space education; founding member of the Arab Space Cooperation Group; works with major global and regional players, including China, Egypt, the ESA, France, Germany, India, Japan, Russia, South Korea, Turkey, the UK, and the US; sees its commercial space industry as a key to diversifying and developing the country&rsquo;s non-oil economy; dozens of space companies operate in the UAE, including international and start-ups, plus several space-science research centers (2025)<br>
+
+**Key space-program milestones**<br>
+1997 - initiated a national space sector<br><br>2009 - first remote sensing (RS) satellite (DubaiSat-1) developed jointly with South Korea and launched by Russia<br><br>2017 - announced Mars 2117 project, which included building a “Mars Science City” as the first step to establishing a human settlement on Mars within 100 years<br><br>2018 - first domestically produced RS satellite (KhalifaSat or DubaiSat-3) launched by Japan<br><br>2019 - first UAE astronaut (trained by Russia and US) in space on the International Space Station<br><br>2020 - signed US-led Artemis Accords for space and lunar exploration<br><br>2021 - became first Arab country to successfully place a probe (al Amal or Hope) in Mars orbit; announced plans to launch a probe in 2028 to land on an asteroid between Mars and Jupiter<br><br>2025 - domestically produced advanced RS/Earth imaging satellite (MBZ-SAT) launched by US<br>
 
 ## Transnational Issues
 

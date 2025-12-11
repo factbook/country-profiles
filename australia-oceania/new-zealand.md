@@ -54,12 +54,12 @@ _mean elevation_: 388 m<br>
 natural gas, iron ore, sand, coal, timber, hydropower, gold, limestone<br>
 
 **Land use**<br>
-_agricultural land_: 37% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 34.7% (2022 est.)<br>
-_forest_: 37.7% (2022 est.)<br>
-_other_: 25.3% (2022 est.)<br>
+_agricultural land_: 36.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 34.6% (2023 est.)<br>
+_forest_: 38.6% (2023 est.)<br>
+_other_: 24.5% (2023 est.)<br>
 
 **Irrigated land**<br>
 7,000 sq km (2014)<br>
@@ -211,8 +211,8 @@ _female_: 8.9% (2025 est.)<br>
 57.6% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 5.2% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 13.1% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 5.3% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 12.7% national budget (2023 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years (2023 est.)<br>
@@ -232,12 +232,12 @@ _signed, but not ratified_: Antarctic Seals, Marine Life Conservation<br>
 temperate with sharp regional contrasts<br>
 
 **Land use**<br>
-_agricultural land_: 37% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 34.7% (2022 est.)<br>
-_forest_: 37.7% (2022 est.)<br>
-_other_: 25.3% (2022 est.)<br>
+_agricultural land_: 36.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 34.6% (2023 est.)<br>
+_forest_: 38.6% (2023 est.)<br>
+_other_: 24.5% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 87% of total population (2023)<br>
@@ -665,6 +665,9 @@ Mahia Peninsula Launch Complex (Hawke's Bay) (2025)<br>
 
 **Space program overview**<br>
 has a national space program focused largely on the development of a commercial space sector, particularly in the field of satellites and satellite launch vehicles (SLV); manufactures and launches commercial satellites and SLVs; researches and develops a range of other space-related technologies, including propulsion systems; participates in international programs and partners with a range of foreign space agencies and industries, including those of Australia, Canada, the EU, the ESA, individual European countries, South Africa, and the US; has a growing commercial space sector (2025)<br>
+
+**Key space-program milestones**<br>
+2009 - launched a 2-stage suborbital sounding rocket (Atea-1)<br><br>2018 - placed satellite in orbit on rocket built by a New Zealand-US commercial company and launched from a privately owned domestic launch site<br><br>2019 - began operations of the Kiwi Space Radar, which is designed to track debris in low Earth orbit<br><br>2021 - signed the US-led Artemis Accords for space and lunar exploration<br><br>2024 - first domestically made science payload sent to International Space Station on US rocket<br>
 
 ## Terrorism
 

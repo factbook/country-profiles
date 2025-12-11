@@ -54,12 +54,12 @@ _mean elevation_: 568 m<br>
 petroleum; small reserves of iron ore, copper, chromium ore, zinc, tungsten, mica, silver, gold; hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 60.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 11.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 49% (2022 est.)<br>
-_forest_: 9.6% (2022 est.)<br>
-_other_: 30% (2022 est.)<br>
+_agricultural land_: 60.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 11.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 49% (2023 est.)<br>
+_forest_: 12% (2023 est.)<br>
+_other_: 27.7% (2023 est.)<br>
 
 **Irrigated land**<br>
 15,504 sq km (2019)<br>
@@ -220,12 +220,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 hot and dry; arid desert; rainy season varies by region (April to November)<br>
 
 **Land use**<br>
-_agricultural land_: 60.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 11.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 49% (2022 est.)<br>
-_forest_: 9.6% (2022 est.)<br>
-_other_: 30% (2022 est.)<br>
+_agricultural land_: 60.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 11.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 49% (2023 est.)<br>
+_forest_: 12% (2023 est.)<br>
+_other_: 27.7% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 36.3% of total population (2023)<br>

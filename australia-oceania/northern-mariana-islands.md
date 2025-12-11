@@ -51,12 +51,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 arable land, fish<br>
 
 **Land use**<br>
-_agricultural land_: 1.2% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.8% (2022 est.)<br>
-_forest_: 53% (2022 est.)<br>
-_other_: 45.9% (2022 est.)<br>
+_agricultural land_: 1.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.8% (2023 est.)<br>
+_forest_: 53% (2023 est.)<br>
+_other_: 45.9% (2023 est.)<br>
 
 **Irrigated land**<br>
 1 sq km (2012)<br>
@@ -168,12 +168,12 @@ contamination of groundwater on Saipan; clean-up of landfill; protection of enda
 tropical marine; moderated by northeast trade winds, little seasonal temperature variation; dry season December to June, rainy season July to October<br>
 
 **Land use**<br>
-_agricultural land_: 1.2% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.8% (2022 est.)<br>
-_forest_: 53% (2022 est.)<br>
-_other_: 45.9% (2022 est.)<br>
+_agricultural land_: 1.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.8% (2023 est.)<br>
+_forest_: 53% (2023 est.)<br>
+_other_: 45.9% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 92.1% of total population (2023)<br>
@@ -205,7 +205,7 @@ _time difference_: UTC+10 (15 hours ahead of Washington, DC, during Standard Tim
 _etymology_: the origin of the name is unclear; it probably comes from a local word meaning "deserted" or "uninhabited," but stories vary on how it came to be used<br>
 
 **Administrative divisions**<br>
-none (commonwealth in political union with the US); no first-order administrative divisions as defined by the US government, but 4 municipalities are considered second-order: Northern Islands, Rota, Saipan, Tinian<br>
+no first-order administrative divisions as defined by the US government, but 4 municipalities are considered second-order: Northern Islands, Rota, Saipan, Tinian<br>
 
 **Legal system**<br>
 the laws of the US apply, except for customs and some aspects of taxation<br>

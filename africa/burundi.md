@@ -51,12 +51,12 @@ _mean elevation_: 1,504 m<br>
 nickel, uranium, rare earth oxides, peat, cobalt, copper, platinum, vanadium, arable land, hydropower, niobium, tantalum, gold, tin, tungsten, kaolin, limestone<br>
 
 **Land use**<br>
-_agricultural land_: 82.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 50.4% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 13.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 18.8% (2022 est.)<br>
-_forest_: 10.9% (2022 est.)<br>
-_other_: 6.3% (2022 est.)<br>
+_agricultural land_: 83.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 51.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 13.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 18.8% (2023 est.)<br>
+_forest_: 10.9% (2023 est.)<br>
+_other_: 5.2% (2023 est.)<br>
 
 **Irrigated land**<br>
 230 sq km (2012)<br>
@@ -205,7 +205,7 @@ _male_: 14% (2025 est.)<br>
 _female_: 4.3% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-27.6% (2022)<br>
+28.3% (2024 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 54.1% (2023 est.)<br>
@@ -216,13 +216,13 @@ _women married by age 18_: 19% (2017)<br>
 _men married by age 18_: 1.4% (2017)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4.4% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 20.6% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 4.9% of GDP (2021 est.)<br>
+_Education expenditure (% national budget)_: 14.4% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_total population_: 68% (2017 est.)<br>
-_male_: 76% (2017 est.)<br>
-_female_: 61% (2017 est.)<br>
+_total population_: 71.4% (2020 est.)<br>
+_male_: 78.2% (2020 est.)<br>
+_female_: 66.2% (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 10 years (2018 est.)<br>
@@ -242,12 +242,12 @@ _signed, but not ratified_: Law of the Sea, Nuclear Test Ban<br>
 equatorial; high plateau with considerable altitude variation (772 m to 2,670 m above sea level); average annual temperature varies with altitude from 23 to 17 degrees Celsius but is generally moderate; average annual rainfall is about 150 cm with two wet seasons (February to May and September to November) and two dry seasons (June to August and December to January)<br>
 
 **Land use**<br>
-_agricultural land_: 82.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 50.4% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 13.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 18.8% (2022 est.)<br>
-_forest_: 10.9% (2022 est.)<br>
-_other_: 6.3% (2022 est.)<br>
+_agricultural land_: 83.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 51.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 13.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 18.8% (2023 est.)<br>
+_forest_: 10.9% (2023 est.)<br>
+_other_: 5.2% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 14.8% of total population (2023)<br>
@@ -639,7 +639,7 @@ the military has a mix of mostly older weapons and equipment typically of French
 
 **Military deployments**<br>
 770 Central African Republic (MINUSCA) (2025)<br>
-<strong>note: </strong>Burundi has deployed several thousand military troops to the Democratic Republic of the Congo (DRC) since 2022 to assist the DRC Government in combating armed anti-government rebel groups; as of 2025, a contingent remained in the DRC<br>
+<strong>note: </strong>Burundi has deployed several thousand military troops to the Democratic Republic of the Congo (DRC) since 2022 to assist the DRC Government in combating armed anti-government rebel groups; a contingent remained in the DRC as of late 2025<br>
 
 **Military - note**<br>
 the National Defense Force (FDNB) is responsible for defending Burundi’s territorial integrity and protecting its sovereignty; it has an internal security role, including maintaining and restoring public order if required; the FDNB also participates in providing humanitarian/disaster assistance, countering terrorism, narcotics trafficking, piracy, and illegal arms trade, and protecting the country’s environment; the FDNB conducts limited training with foreign partners such as Russia and participates in regional peacekeeping missions, most recently in the Central African Republic, the Democratic Republic of the Congo (DRC), and Somalia; in recent years the FDNB has conducted operations against anti-government rebel groups based in the neighboring DRC that have carried out sporadic attacks in Burundi, such as the such as National Forces of Liberation (FNL), the Resistance for the Rule of Law-Tabara (aka RED Tabara), and Popular Forces of Burundi (FPB or FOREBU); Burundi has accused Rwanda of supporting the RED-Tabara<br><br>the Arusha Accords that ended the 1993-2005 civil war created a unified military by balancing the predominantly Tutsi ex-Burundi Armed Forces (ex-FAB) and the largely Hutu dominated armed movements and requiring the military to have a 50/50 ethnic mix of Tutsis and Hutus (2025)<br>

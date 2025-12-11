@@ -53,12 +53,12 @@ _mean elevation_: 263 m<br>
 coal, lignite, natural gas, iron ore, copper, nickel, uranium, potash, salt, construction materials, timber, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 47.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 33.4% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 13.5% (2022 est.)<br>
-_forest_: 32.7% (2022 est.)<br>
-_other_: 19.8% (2022 est.)<br>
+_agricultural land_: 47.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 33.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 13.5% (2023 est.)<br>
+_forest_: 32.8% (2023 est.)<br>
+_other_: 15% (2023 est.)<br>
 
 **Irrigated land**<br>
 5,065 sq km (2020)<br>
@@ -213,14 +213,14 @@ _male_: 19.4% (2025 est.)<br>
 _female_: 15% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-0.5% (2014/17)<br>
+0.6% (2016 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 54.4% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4.5% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 9.3% national budget (2023 est.)<br>
+_Education expenditure (% GDP)_: 5.2% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 10.7% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years (2023 est.)<br>
@@ -240,12 +240,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate and marine; cool, cloudy, wet winters and summers; occasional warm mountain (foehn) wind<br>
 
 **Land use**<br>
-_agricultural land_: 47.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 33.4% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 13.5% (2022 est.)<br>
-_forest_: 32.7% (2022 est.)<br>
-_other_: 19.8% (2022 est.)<br>
+_agricultural land_: 47.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 33.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 13.5% (2023 est.)<br>
+_forest_: 32.8% (2023 est.)<br>
+_other_: 15% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 77.8% of total population (2023)<br>
@@ -690,8 +690,8 @@ the inventory of Federal Armed Forces is comprised of weapons systems produced d
 <strong>note 1: </strong>conscription ended in 2011; in 2020, the German Government launched a new voluntary conscript initiative focused on homeland security tasks, with the volunteers serving for 7 months plus 5 months as reservists over a 6-year period<br><strong><br>note 2:</strong> women have been eligible for voluntary service in all military branches and positions since 2001 and accounted for about 12% of the active-duty German military in 2023<br>
 
 **Military deployments**<br>
-100 Estonia; up to 500 Iraq (NATO); Lebanon 170 (UNIFIL); up to 1,700 Lithuania (NATO); 100 Romania (NATO); 280 Slovakia (NATO) (2024)<br>
-<strong>note: </strong>the German military has over 2,000 ground forces, plus air and naval contingents deployed on some 18 foreign missions<br>
+up to 500 Iraq (NATO); 300 Kosovo (NATO/KFOR), Lebanon 170 (UNIFIL); up to 1,700 Lithuania (NATO) (2025)<br>
+<strong>note: </strong>the German military also has air and naval contingents deployed to support NATO missions<br>
 
 **Military - note**<br>
 the Bundeswehr’s core mission is the defense of Germany and its NATO partners; it has a wide range of peacetime duties, including crisis management, cyber security, deterrence, homeland security, humanitarian and disaster relief, and international peacekeeping and stability operations; as a key member of NATO and the EU, the Bundeswehr typically operates in a coalition environment, and its capabilities are largely based on NATO and EU planning goals and needs; it has participated in a range of NATO and EU missions in Europe, Africa, and Asia, as well as global maritime operations; the Bundeswehr has close bilateral defense ties with a number of EU countries, including the Czechia, France, the Netherlands, and Romania, as well as the UK and the US; it also contributes forces to UN peacekeeping missions<br><br>the Bundeswehr was established in 1955; at the height of the Cold War in the 1980s, it had nearly 600,000 personnel, over 7,000 tanks, and 1,000 combat aircraft; in addition, over 400,000 soldiers from other NATO countries—including about 200,000 US military personnel—were stationed in West Germany; in the years following the collapse of the Soviet Union and the end of the Cold War, the Bundeswehr shrank by more than 60% in size (over 90% in tanks and about 80% in aircraft), while funding fell from nearly 3% of GDP and over 4% of government spending in the mid-1980s to 1.2% and 1.6% respectively; by the 2010s, the Bundeswehr’s ability to fulfill its regional security commitments had deteriorated; the Russian annexation of Crimea in 2014 and full-scale assault on Ukraine in 2022 led to renewed emphasis on Germany’s leadership role in European defense and NATO and efforts to boost funding for the Bundeswehr to improve readiness, modernize, and expand (2025)<br>
@@ -707,6 +707,9 @@ a commercial offshore launch platform that will operate from the North Sea is un
 
 **Space program overview**<br>
 has one of Europe&rsquo;s largest space programs and is a top contributor to the ESA; builds and operates satellites, satellite/space launch vehicles (SLVs), probes, and unmanned orbiters; researches and develops a range of capabilities and technologies, including reusable space planes, satellite payloads, rockets, propulsion-assisted landing technologies, and aeronautics; participates in EU and ESA programs, including the Cassini-Huygens research mission to Saturn, Mars and Venus exploration missions, and the Galileo global navigation satellite system; participates in ESA&rsquo;s astronaut training program and human space flight operations; hosts the European Astronaut Center; participates in international programs such as the International Space Station (ISS) and the James Webb Space Telescope; hosts mission control centers for the ISS, the ESA, and the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT); has ties to foreign space programs, including those of China, Japan, Russia, and the US; has a robust commercial space sector&nbsp; (2025)<br>
+
+**Key space-program milestones**<br>
+1969 - first German scientific satellite (Azur) launched by US<br><br>1973 - participated with other European states, particularly France and the UK, in development of Ariane satellite launch vehicle<br><br>1978 - first German in space on Soviet Salyut space station<br><br>1980s-1990s - participated in US Space Shuttle program, including providing astronauts<br><br>1999 - launched a space-based X-ray telescope (ABRAXIS) on Russian rocket<br><br>2005 - began development of reusable space plane/shuttle/transporter<br><br>2019 - launched first space-based X-ray telescope (eROSITA) capable of imaging the entire sky (joint project with Russia)<br><br>2023 - signed US-led Artemis Accords for the exploration of space and the Moon; adopted a new national space strategy<br>
 
 ## Terrorism
 

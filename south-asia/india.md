@@ -54,12 +54,12 @@ _mean elevation_: 160 m<br>
 coal (fourth-largest reserves in the world), antimony, iron ore, lead, manganese, mica, bauxite, rare earth elements, titanium ore, chromite, natural gas, diamonds, petroleum, limestone, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 60% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 51.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.5% (2022 est.)<br>
-_forest_: 24.4% (2022 est.)<br>
-_other_: 15.5% (2022 est.)<br>
+_agricultural land_: 60.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 51.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4.9% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 3.4% (2023 est.)<br>
+_forest_: 24.4% (2023 est.)<br>
+_other_: 15.5% (2023 est.)<br>
 
 **Irrigated land**<br>
 754,562 sq km (2022)<br>
@@ -217,7 +217,7 @@ _male_: 34.1% (2025 est.)<br>
 _female_: 8.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-31.5% (2019/21)<br>
+31.5% (2020 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 72.6% (2023 est.)<br>
@@ -232,9 +232,9 @@ _Education expenditure (% GDP)_: 4.1% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 14.2% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_total population_: 82% (2023 est.)<br>
-_male_: 88% (2023 est.)<br>
-_female_: 75% (2023 est.)<br>
+_total population_: 81.7% (2023 est.)<br>
+_male_: 88.3% (2023 est.)<br>
+_female_: 74.9% (2023 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years (2024 est.)<br>
@@ -254,12 +254,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 varies from tropical monsoon in south to temperate in north<br>
 
 **Land use**<br>
-_agricultural land_: 60% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 51.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.5% (2022 est.)<br>
-_forest_: 24.4% (2022 est.)<br>
-_other_: 15.5% (2022 est.)<br>
+_agricultural land_: 60.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 51.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4.9% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 3.4% (2023 est.)<br>
+_forest_: 24.4% (2023 est.)<br>
+_other_: 15.5% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 36.4% of total population (2023)<br>
@@ -354,8 +354,8 @@ _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 4/19/2024 to 6/1/2024<br>
-_parties elected and seats per party_: Bharatiya Janata Party (BJP) (240); Indian National Congress (INC) (99); Samajwadi Party (SP) (37); All India Trinamool Congress (AITC) (29); Independents (7); Other (131)<br>
-_percentage of women in chamber_: 13.7%<br>
+_parties elected and seats per party_: Bharatiya Janata Party (BJP) (240); Indian National Congress (INC) (99); Samajwadi Party (SP) (37); All India Trinamool Congress (AITC) (29); Other (138)<br>
+_percentage of women in chamber_: 13.8%<br>
 _expected date of next election_: April 2029<br>
 
 **Legislative branch - upper chamber**<br>
@@ -723,6 +723,9 @@ Satish Dhawan Space Center (aka Sriharikota Range; located in Andhra Pradesh); V
 
 **Space program overview**<br>
 has one of the world&rsquo;s largest space programs; designs, builds, launches, operates, and tracks the full spectrum of satellites, including communications, navigation, remote sensing (RS), and scientific/technology; designs, builds, and launches rockets, space/satellite launch vehicles (SLVs), and lunar/interplanetary probes; launches satellites for foreign partners; researching and developing additional technologies and capabilities; developing astronaut program and human flight capabilities (with assistance from Russia and the US); has space-related agreements with the ESA and more than 50 countries, including China, France, Germany, Japan, Russia, and the US; participates in international projects such as the Square Kilometer Array radio telescope; the Department of Space administers two government-controlled space industry corporations; has a growing private space sector (2025)<br>
+
+**Key space-program milestones**<br>
+1963 - first sounding (research) rocket launched<br><br>1975 - first domestically made scientific satellite (Aryabhata) launched by Soviet Union<br><br>1979 - first experimental remote sensing (RS) satellite (Bhaskara-I) launched by Soviet Union<br><br>1980 - first successful launch of satellite (Rohini) on Indian satellite launch vehicle (SLV)<br><br>1984 - first Indian in space on a Soviet rocket<br><br>1988 - first operational RS satellite (IRS-1A) launched by Soviet Union<br><br>1994 - first successful launch of Polar Satellite Launch Vehicle (PSLV), India’s premier SLV<br><br>2008 - first lunar orbiter/probe (Chandrayaan-1) launched, reached lunar orbit, and sent a probe to the surface of the Moon<br><br>2014 - first interplanetary probe (Mangalyaan) reached orbit around Mars<br><br>2018 - Indian Regional Navigation Satellite System (INRSS) became operational<br><br>2019 - launched lunar orbiter/probe (Chandrayaan-2) with lander and rover (lander lost when it crash-landed on Moon’s surface)<br><br>2023 - successfully landed uncrewed lander/rover mission (Chandrayaan-3) on Moon's surface<br><br>2024 - launched satellite (XPoSat) to study black holes and placed solar observatory spacecraft (Aditya-L1) in orbital position to study the Sun<br><br>2025 - first docking of two orbiting satellites and sent its first astronaut to the International Space Station<br>
 
 ## Terrorism
 

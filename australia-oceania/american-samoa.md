@@ -51,12 +51,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 pumice, pumicite<br>
 
 **Land use**<br>
-_agricultural land_: 14.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 4.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 9.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 85.4% (2022 est.)<br>
-_other_: 0.2% (2022 est.)<br>
+_agricultural land_: 14.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 5.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 9.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2023 est.)<br>
+_forest_: 79.2% (2023 est.)<br>
+_other_: 6% (2023 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -167,12 +167,12 @@ limited supply of drinking water; pollution; waste disposal; coastal and stream 
 tropical marine, moderated by southeast trade winds; annual rainfall averages about 3 m; rainy season (November to April), dry season (May to October); little seasonal temperature variation<br>
 
 **Land use**<br>
-_agricultural land_: 14.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 4.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 9.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 85.4% (2022 est.)<br>
-_other_: 0.2% (2022 est.)<br>
+_agricultural land_: 14.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 5.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 9.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0% (2023 est.)<br>
+_forest_: 79.2% (2023 est.)<br>
+_other_: 6% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 87.2% of total population (2023)<br>
@@ -207,7 +207,7 @@ _time difference_: UTC-11 (6 hours behind Washington, DC, during Standard Time)<
 <strong>note:</strong> pronounced PAHN-go PAHN-go<br>
 
 **Administrative divisions**<br>
-none (territory of the US); no first-order administrative divisions as defined by the US Government, but 3 districts and 2 islands* are considered second-order; Eastern, Manu'a, Rose Island*, Swains Island*, Western<br>
+no first-order administrative divisions as defined by the US government, but 3 districts and 2 islands* are considered second-order; Eastern, Manu'a, Rose Island*, Swains Island*, Western<br>
 
 **Legal system**<br>
 mixed legal system of US common law and customary law<br>

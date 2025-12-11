@@ -56,12 +56,12 @@ _mean elevation_: 1,117 m<br>
 petroleum, fish, timber, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 21.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 3.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.5% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 12.1% (2022 est.)<br>
-_forest_: 49.8% (2022 est.)<br>
-_other_: 28.7% (2022 est.)<br>
+_agricultural land_: 21.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 4.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 11.8% (2023 est.)<br>
+_forest_: 49.8% (2023 est.)<br>
+_other_: 28.6% (2023 est.)<br>
 
 **Irrigated land**<br>
 12,520 sq km (2022)<br>
@@ -206,7 +206,7 @@ _male_: 17.2% (2025 est.)<br>
 _female_: 2.4% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-5.2% (2018/19)<br>
+4.9% (2024 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 55.1% (2023 est.)<br>
@@ -217,12 +217,12 @@ _women married by age 18_: 22.2% (2018)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.9% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 9.7% national budget (2023 est.)<br>
+_Education expenditure (% national budget)_: 15.5% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_total population_: 94% (2022 est.)<br>
-_male_: 95% (2022 est.)<br>
-_female_: 93% (2022 est.)<br>
+_total population_: 96.3% (2022 est.)<br>
+_male_: 96.8% (2022 est.)<br>
+_female_: 95.7% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years (2022 est.)<br>
@@ -242,12 +242,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical along coast, becoming cooler inland at higher elevations; tropical in Amazonian jungle lowlands<br>
 
 **Land use**<br>
-_agricultural land_: 21.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 3.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.5% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 12.1% (2022 est.)<br>
-_forest_: 49.8% (2022 est.)<br>
-_other_: 28.7% (2022 est.)<br>
+_agricultural land_: 21.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 4.1% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 11.8% (2023 est.)<br>
+_forest_: 49.8% (2023 est.)<br>
+_other_: 28.6% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 64.8% of total population (2023)<br>
@@ -305,7 +305,7 @@ _time zone note_: Ecuador has two time zones, including the Galapagos Islands (U
 _etymology_: named after the Quitu, a Pre-Columbian people who lived in the area; the meaning of their name is unknown<br>
 
 **Administrative divisions**<br>
-24 provinces (<em>provincias</em>, singular - <em>provincia</em>); Azuay, Bolivar, Canar, Carchi, Chimborazo, Cotopaxi, El Oro, Esmeraldas, Galapagos, Guayas, Imbabura, Loja, Los Rios, Manabi, Morona Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena, Santo Domingo de los Tsachilas, Sucumbios, Tungurahua, Zamora Chinchipe<br>
+24 provinces (<em>provincias</em>, singular - <em>provincia</em>); Azuay, Bolivar, Cañar, Carchi, Chimborazo, Cotopaxi, El Oro, Esmeraldas, Galapagos, Guayas, Imbabura, Loja, Los Rios, Manabí, Morona Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena, Santo Domingo de los Tsachilas, Sucumbios, Tungurahua, Zamora Chinchipe<br>
 
 **Legal system**<br>
 civil law based on the Chilean civil code with modifications; traditional law in ethnic communities<br>
@@ -682,6 +682,9 @@ Ecuadorian Civilian Space Agency (EXA; a civilian independent research and devel
 
 **Space program overview**<br>
 has a small program focused on acquiring and manufacturing satellites; builds scientific satellites; conducts research and develops some space-related technologies; has relationships with China and Russia's space agencies and industries, as well as the Latin American and Caribbean Space Agency and its member states (2025)<br>
+
+**Key space-program milestones**<br>
+2007 - an Ecuadorian completed a suborbital astronaut training program provided by Russia<br><br>2013 - first two domestically designed and built scientific/technology demonstrator satellites (NEE-01/Pegasus, NEE-02/Krysaor) launched by China and Russia <br><br>2021 - signed accords for the Latin American and Caribbean Space Agency<br><br>2023 - signed US-led Artemis Accords for space exploration<br>
 
 ## Terrorism
 

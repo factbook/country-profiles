@@ -54,12 +54,12 @@ _mean elevation_: 30 m<br>
 natural gas, petroleum, peat, limestone, salt, sand and gravel, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 53.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 29.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 22.7% (2022 est.)<br>
-_forest_: 11% (2022 est.)<br>
-_other_: 35.4% (2022 est.)<br>
+_agricultural land_: 53.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 30% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 22.5% (2023 est.)<br>
+_forest_: 10.9% (2023 est.)<br>
+_other_: 35.5% (2023 est.)<br>
 
 **Irrigated land**<br>
 2,969 sq km (2019)<br>
@@ -213,8 +213,8 @@ _female_: 16.4% (2025 est.)<br>
 53.7% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 5.1% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 11.6% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 5.2% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 12% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years (2021 est.)<br>
@@ -234,12 +234,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; marine; cool summers and mild winters<br>
 
 **Land use**<br>
-_agricultural land_: 53.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 29.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 22.7% (2022 est.)<br>
-_forest_: 11% (2022 est.)<br>
-_other_: 35.4% (2022 est.)<br>
+_agricultural land_: 53.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 30% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 22.5% (2023 est.)<br>
+_forest_: 10.9% (2023 est.)<br>
+_other_: 35.5% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 93.2% of total population (2023)<br>
@@ -338,10 +338,10 @@ _number of seats_: 150 (all directly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 11/22/2023<br>
-_parties elected and seats per party_: Party for Freedom (PVV) (37); Labour Party (PvdA) (25); People's Party for Freedom and Democracy (VVD) (24); New Social Contract (NSC) (20); Democrats 66 (D66) (9); Other (35)<br>
+_most recent election date_: 10/29/2025<br>
+_parties elected and seats per party_: Democrats 66 (D66) (26); Party for Freedom (PVV) (26); People's Party for Freedom and Democracy (VVD) (22); Green Left - Labour Party (PvdA) (20); Christian Democratic Appeal (CDA) (18); JA21 (9); Other (29)<br>
 _percentage of women in chamber_: 42.7%<br>
-_expected date of next election_: October 2025<br>
+_expected date of next election_: October 2029<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate (Eerste Kamer der Staten-Generaal)<br>
@@ -703,6 +703,9 @@ Netherlands Space Office (NSO; established 2009) (2025)<br>
 
 **Space program overview**<br>
 has a national space program focused on developing advanced space technologies and services based on satellite data; builds and operates a range of satellites, including communications and remote sensing (RS); researches and develops technologies related to astrophysics, atmospheric measuring instruments, planetary/exoplanetary research, propulsion systems, RS, robotics, and telecommunications; founding member of the ESA and active in the EU space community; hosts the ESA's main research and technology center; participates in building European satellite launch vehicles and a range of other European space programs, such as Copernicus Earth observation and the Galileo global navigation satellite system; participates in international programs, including the International Space Station and the Square Kilometer Array project; works with other foreign space agencies and industries, including those of Japan and the US; has a robust commercial space sector&nbsp; (2025)<br>
+
+**Key space-program milestones**<br>
+1960s - established space program<br><br>1974-1983 - developed advanced astronomical observatory satellites jointly with US, including the Astronomical Netherlands Satellite and the Infrared Astronomical Satellite <br><br>1985 - first Dutch citizen in space on the US Space Shuttle<br><br>2023 - signed US-led Artemis Accords for space and lunar exploration<br><br>2025 - launched the first of four planned synthetic aperture radar (SAR) remote sensing satellites<br>
 
 ## Terrorism
 

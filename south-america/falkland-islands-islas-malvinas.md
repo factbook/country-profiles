@@ -52,12 +52,12 @@ _lowest point_: Atlantic Ocean 0 m<br>
 fish, squid, wildlife, calcified seaweed, sphagnum moss<br>
 
 **Land use**<br>
-_agricultural land_: 93.5% (2022 est.)<br>
+_agricultural land_: 93.2% (2023 est.)<br>
 _agricultural land: arable land_: arable land: 0% (2022 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 93.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 93.2% (2023 est.)<br>
 _forest_: 0% (2022 est.)<br>
-_other_: 6.5% (2022 est.)<br>
+_other_: 6.8% (2023 est.)<br>
 
 **Irrigated land**<br>
 NA<br>
@@ -151,12 +151,12 @@ overfishing by unlicensed vessels; grazing threatens important habitats; soil er
 cold marine; strong westerly winds, cloudy, humid; rain occurs on more than half of days in year; average annual rainfall is 60 cm in Stanley; occasional snow all year, except in January and February, but typically does not accumulate<br>
 
 **Land use**<br>
-_agricultural land_: 93.5% (2022 est.)<br>
+_agricultural land_: 93.2% (2023 est.)<br>
 _agricultural land: arable land_: arable land: 0% (2022 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 93.5% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 93.2% (2023 est.)<br>
 _forest_: 0% (2022 est.)<br>
-_other_: 6.5% (2022 est.)<br>
+_other_: 6.8% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 79.7% of total population (2023)<br>
@@ -184,9 +184,6 @@ _name_: Stanley<br>
 _geographic coordinates_: 51 42 S, 57 51 W<br>
 _time difference_: UTC-3 (2 hour ahead of Washington, DC, during Standard Time)<br>
 _etymology_: named in 1844 after Edward SMITH-STANLEY, the 14th Earl of Derby<br>
-
-**Administrative divisions**<br>
-none (administered by the UK; claimed by Argentina)<br>
 
 **Legal system**<br>
 English common law and local statutes<br>

@@ -204,9 +204,6 @@ _geographic coordinates_: 18 13 N, 63 03 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
 _etymology_: name may derive from the capital's location among several hills<br>
 
-**Administrative divisions**<br>
-none (overseas territory of the UK)<br>
-
 **Legal system**<br>
 common law based on the English model<br>
 

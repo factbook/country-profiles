@@ -54,12 +54,12 @@ _mean elevation_: 175 m<br>
 iron ore, coal, manganese, natural gas, oil, salt, sulfur, graphite, titanium, magnesium, kaolin, nickel, mercury, timber, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 71.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 56.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.5% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 13% (2022 est.)<br>
-_forest_: 16.7% (2022 est.)<br>
-_other_: 12% (2022 est.)<br>
+_agricultural land_: 71.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 56.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.5% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 13% (2023 est.)<br>
+_forest_: 17.3% (2023 est.)<br>
+_other_: 10.4% (2023 est.)<br>
 
 **Irrigated land**<br>
 1,000 sq km (2022)<br>
@@ -216,8 +216,8 @@ _female_: 8% (2025 est.)<br>
 61.6% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 5.9% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 8.5% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 5.1% of GDP (2021 est.)<br>
+_Education expenditure (% national budget)_: 12.7% national budget (2021 est.)<br>
 
 **Literacy**<br>
 _total population_: 100%<br>
@@ -242,12 +242,12 @@ _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Persistent
 temperate continental; Mediterranean only on the southern Crimean coast; precipitation disproportionately distributed, highest in west and north, lesser in east and southeast; winters vary from cool along the Black Sea to cold farther inland; warm summers across the greater part of the country, hot in the south<br>
 
 **Land use**<br>
-_agricultural land_: 71.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 56.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.5% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 13% (2022 est.)<br>
-_forest_: 16.7% (2022 est.)<br>
-_other_: 12% (2022 est.)<br>
+_agricultural land_: 71.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 56.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.5% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 13% (2023 est.)<br>
+_forest_: 17.3% (2023 est.)<br>
+_other_: 10.4% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 70.1% of total population (2023)<br>
@@ -352,7 +352,7 @@ _judge selection and term of office_: Supreme Court judges recommended by the Hi
 _subordinate courts_: Courts of Appeal; district courts<br>
 
 **Political parties**<br>
-Batkivshchyna (Fatherland)<br>European Solidarity or YeS<br>Holos (Voice or Vote)<br>Opposition Bloc (formerly known as Opposition Bloc — Party for Peace and Development, successor of the Industrial Party of Ukraine, and resulted from a schism in the original Opposition Bloc in 2019; banned in court June 2022; ceased to exist in July 2022)<br>Opposition Bloc or OB (divided into Opposition Bloc - Party for Peace and Development and Opposition Platform - For Life in 2019; ceased to exist in July 2022)<br>Opposition Platform - For Life (resulted from a schism in the original Opposition Bloc in 2019; activities suspended by the National Security and Defense Council in March 2022; dissolved in April 2022)<br>Platform for Life and Peace<br>Radical Party or RPOL<br>Samopomich (Self Reliance)<br>Servant of the People<br>Svoboda (Freedom)<br>
+European Solidarity or YeS<br>Fatherland or VOB<br>Holos<br>Servant of the People or SN<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Olha STEFANISHYNA (since 19 September 2025)<br>
@@ -702,6 +702,9 @@ State Space Agency of Ukraine (SSAU; established 1992 as the National Space Agen
 **Space program overview**<br>
 the country inherited a large, well-developed space program when it gained independence in 1991, taking over all the former Soviet defense/space industry that was located on its territory; the modern program includes the production of satellite/space launch vehicles (SLVs)/rocket carriers, satellites, and related components; prior to the Russian invasion in 2022, the country was producing more than 100 SLVs, SLV stages, or SLV engines annually; has worked with numerous foreign space agencies and industries, including those of Brazil, Canada, China, Japan, Kazakhstan, Russia (curtailed after 2014), Turkey, and the US, as well as the ESA, the EU, and their member states (particularly Italy and Poland); has about 20 state-run space industries; in 2019, the Ukrainian Parliament began allowing private companies to engage in space activities (2025)<br>
 <strong>note: </strong>Dnipro, known as Ukraine's “Rocket City,” was one of the Soviet Union’s main centers for space, nuclear, and military industries and played a crucial role in the development and manufacture of both civilian and military rockets<strong><br></strong><br>
+
+**Key space-program milestones**<br>
+1995 - first domestically produced remote sensing (RS) satellite (Sich-1) launched on Ukrainian Tsyklon-3 rocket<br><br>1997 - first Ukrainian astronaut in space on US Space Shuttle<br><br>1999 - first launch of Dnipro-1, a domestically produced satellite launch vehicle (SLV)<br><br>2008 - first launch of Zenit-3SLB, a domestically produced SLV <br><br>2014 - launched first domestically produced microsatellite (PolyITAN-1)<br><br>2020 - signed US-led Artemis Accords for space and lunar exploration<br><br>2021 - first successful launch of joint Ukrainian-US commercial light SLV (Alpha)<br><br>2022 - domestically produced RS microsatellite (Sich 2-30) launched by US<br><br>2024 - first Ukrainian woman to suborbital space on US commercial spacecraft<br>
 
 ## Transnational Issues
 

@@ -129,9 +129,6 @@ _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
 _etymology_: the name derives from the hill called Mons Vaticanus, on which the Vatican is located and which comes from the Latin <em>vates </em>(prophet), referring to the fortune tellers and soothsayers who frequented the area in Roman times<br>
 
-**Administrative divisions**<br>
-none<br>
-
 **Legal system**<br>
 religious system based on canon (religious) law<br>
 

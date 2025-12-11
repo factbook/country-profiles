@@ -174,17 +174,14 @@ _etymology_: explorer Christopher COLUMBUS named the island in 1493 after Saint 
 <p>parliamentary democracy under a constitutional monarchy</p><br>
 
 **Dependency status**<br>
-<p>part of the Kingdom of the Netherlands; full autonomy in internal affairs granted in 2010; Dutch government responsible for defense and foreign affairs</p><br>
+one of four constituent countries of the Kingdom of the Netherlands; full autonomy in internal affairs granted in 2010; Dutch government responsible for defense and foreign affairs<br>
+<strong>note: </strong>the other three constituent countries in the Kingdom of the Netherlands are the Netherlands, Aruba, and Curacao<br>
 
 **Capital**<br>
 _name_: Philipsburg<br>
 _geographic coordinates_: 18 1 N, 63 2 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
 _etymology_: founded and named in 1763 by John PHILIPS, a Scottish captain in the Dutch navy<br>
-
-**Administrative divisions**<br>
-none (part of the Kingdom of the Netherlands)<br>
-<strong>note:</strong> Sint Maarten is one of four constituent countries of the Kingdom of the Netherlands; the other three are the Netherlands, Aruba, and Curacao<br>
 
 **Legal system**<br>
 based on Dutch civil law system with some English common law influence<br>

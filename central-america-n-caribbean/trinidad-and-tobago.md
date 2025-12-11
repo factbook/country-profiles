@@ -54,12 +54,12 @@ _mean elevation_: 83 m<br>
 petroleum, natural gas, asphalt<br>
 
 **Land use**<br>
-_agricultural land_: 10.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 4.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1.4% (2022 est.)<br>
-_forest_: 44.3% (2022 est.)<br>
-_other_: 45.2% (2022 est.)<br>
+_agricultural land_: 10.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 4.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 1.4% (2023 est.)<br>
+_forest_: 44.2% (2023 est.)<br>
+_other_: 45.2% (2023 est.)<br>
 
 **Irrigated land**<br>
 70 sq km (2012)<br>
@@ -194,7 +194,7 @@ _women married by age 15_: 0.7% (2022)<br>
 _women married by age 18_: 4.2% (2022)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 2.9% of GDP (2023 est.)<br>
+_Education expenditure (% GDP)_: 3% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 12.6% national budget (2025 est.)<br>
 
 **Literacy**<br>
@@ -213,12 +213,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; rainy season (June to December)<br>
 
 **Land use**<br>
-_agricultural land_: 10.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 4.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 4.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 1.4% (2022 est.)<br>
-_forest_: 44.3% (2022 est.)<br>
-_other_: 45.2% (2022 est.)<br>
+_agricultural land_: 10.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 4.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 4.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 1.4% (2023 est.)<br>
+_forest_: 44.2% (2023 est.)<br>
+_other_: 45.2% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 53.4% of total population (2023)<br>

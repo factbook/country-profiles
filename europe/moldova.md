@@ -51,12 +51,12 @@ _mean elevation_: 139 m<br>
 lignite, phosphorites, gypsum, limestone, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 69.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 52.4% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 6.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 10.2% (2022 est.)<br>
-_forest_: 11.8% (2022 est.)<br>
-_other_: 18.9% (2022 est.)<br>
+_agricultural land_: 74.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 56.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 8.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.4% (2023 est.)<br>
+_forest_: 11.3% (2023 est.)<br>
+_other_: 13.8% (2023 est.)<br>
 
 **Irrigated land**<br>
 2,150 sq km (2022)<br>
@@ -211,7 +211,7 @@ _female_: 6.4% (2025 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 6.6% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 15.9% national budget (2023 est.)<br>
+_Education expenditure (% national budget)_: 16% national budget (2024 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years (2023 est.)<br>
@@ -231,12 +231,12 @@ _signed, but not ratified_: Air Pollution-Multi-effect Protocol<br>
 moderate winters, warm summers<br>
 
 **Land use**<br>
-_agricultural land_: 69.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 52.4% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 6.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 10.2% (2022 est.)<br>
-_forest_: 11.8% (2022 est.)<br>
-_other_: 18.9% (2022 est.)<br>
+_agricultural land_: 74.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 56.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 8.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.4% (2023 est.)<br>
+_forest_: 11.3% (2023 est.)<br>
+_other_: 13.8% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 43.4% of total population (2023)<br>
@@ -334,7 +334,7 @@ _subordinate courts_: Courts of Appeal; Court of Business Audit; municipal court
 <strong>note:</strong> the Constitutional Court is autonomous; it interprets the Constitution and reviews the constitutionality of parliamentary laws and decisions, decrees of the president, and acts of the government<br>
 
 **Political parties**<br>
-Bloc of Communists and Socialists or BCS<br>Party of Action and Solidarity or PAS<br>
+Common Action Party - Civil Congress or PAC-CC<br>Democracy at Home Party or PPDA<br>Future of Moldova Party or PVM<br>National Alternative Movement or MAN<br>Our Party or PN<br>Party of Action and Solidarity or PAS<br>Party of Communists of the Republic of Moldova or PCRM<br>Party of Development and Consolidation of Moldova or PDCM<br>Party of Socialists of the Republic of Moldova or PSRM<br><br><br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Vladislav KULMINSKI (since 5 September 2025)<br>

@@ -53,12 +53,12 @@ _mean elevation_: 1,018 m<br>
 hydropower, tin, phosphates, iron ore, coal, diamonds, gemstones (including tanzanite, found only in Tanzania), gold, natural gas, nickel<br>
 
 **Land use**<br>
-_agricultural land_: 44.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 15.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 27.1% (2022 est.)<br>
-_forest_: 50.6% (2022 est.)<br>
-_other_: 4.8% (2022 est.)<br>
+_agricultural land_: 44.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 15.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.1% (2023 est.)<br>
+_forest_: 50.1% (2023 est.)<br>
+_other_: 5.3% (2023 est.)<br>
 
 **Irrigated land**<br>
 1,840 sq km (2012)<br>
@@ -215,7 +215,7 @@ _male_: 11.3% (2025 est.)<br>
 _female_: 2% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-12.1% (2022)<br>
+11.4% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 59.5% (2023 est.)<br>
@@ -230,9 +230,9 @@ _Education expenditure (% GDP)_: 3.2% of GDP (2024 est.)<br>
 _Education expenditure (% national budget)_: 13.4% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_total population_: 78% (2015 est.)<br>
-_male_: 83% (2015 est.)<br>
-_female_: 73% (2015 est.)<br>
+_total population_: 78.2% (2022 est.)<br>
+_male_: 84.2% (2022 est.)<br>
+_female_: 73.1% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years (2021 est.)<br>
@@ -252,12 +252,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 varies from tropical along coast to temperate in highlands<br>
 
 **Land use**<br>
-_agricultural land_: 44.6% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 15.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 27.1% (2022 est.)<br>
-_forest_: 50.6% (2022 est.)<br>
-_other_: 4.8% (2022 est.)<br>
+_agricultural land_: 44.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 15.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.1% (2023 est.)<br>
+_forest_: 50.1% (2023 est.)<br>
+_other_: 5.3% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 37.4% of total population (2023)<br>
@@ -353,9 +353,10 @@ _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 10/29/2025<br>
-_parties elected and seats per party_: Revolutionary Party of Tanzania (CCM) (403); ACT-Wazalendo (2)<br>
+_parties elected and seats per party_: Revolutionary Party of Tanzania (CCM) (383); ACT-Wazalendo (2)<br>
 _percentage of women in chamber_: 39.5%<br>
 _expected date of next election_: October 2030<br>
+<strong>note</strong>: the Attorney General fills the "other" seat as an ex-officio member<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal of the United Republic of Tanzania (consists of the chief justice and 14 justices); High Court of the United Republic for Mainland Tanzania (consists of the principal judge and 30 judges organized into commercial, land, and labor courts); High Court of Zanzibar (consists of the chief justice and 10 justices)<br>

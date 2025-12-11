@@ -52,12 +52,12 @@ _mean elevation_: 331 m<br>
 oil, some coal, bauxite, low-grade iron ore, calcium, gypsum, natural asphalt, silica, mica, clays, salt, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 25.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 15.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.2% (2022 est.)<br>
-_forest_: 34.7% (2022 est.)<br>
-_other_: 39.4% (2022 est.)<br>
+_agricultural land_: 26.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 15.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.6% (2023 est.)<br>
+_forest_: 34.7% (2023 est.)<br>
+_other_: 38.2% (2023 est.)<br>
 
 **Irrigated land**<br>
 170 sq km (2022)<br>
@@ -199,8 +199,8 @@ _female_: 32.1% (2025 est.)<br>
 50.8% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4.8% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 10.7% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 4.1% of GDP (2021 est.)<br>
+_Education expenditure (% national budget)_: 8.5% national budget (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years (2022 est.)<br>
@@ -220,12 +220,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 Mediterranean and continental; continental climate predominant with hot summers and cold winters; mild winters, dry summers along coast<br>
 
 **Land use**<br>
-_agricultural land_: 25.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 15.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.2% (2022 est.)<br>
-_forest_: 34.7% (2022 est.)<br>
-_other_: 39.4% (2022 est.)<br>
+_agricultural land_: 26.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 15.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.6% (2023 est.)<br>
+_forest_: 34.7% (2023 est.)<br>
+_other_: 38.2% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 58.6% of total population (2023)<br>
@@ -315,7 +315,7 @@ _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 4/17/2024<br>
-_parties elected and seats per party_: Croatian Democratic Union (HDZ) (55); Social Democratic Party of Croatia (SDP) (37); Homeland Movement (DP) (11); We Can! – Political Platform (Možemo!) (10); Independent (NZ) (10); Other (28)<br>
+_parties elected and seats per party_: Croatian Democratic Union (HDZ) (55); Social Democratic Party of Croatia (SDP) (37); Homeland Movement (DP) (11); We Can! – Political Platform (Možemo!) (10); Bridge (Most) (7); Other (20)<br>
 _percentage of women in chamber_: 33.1%<br>
 _expected date of next election_: April 2028<br>
 <strong>note:</strong> of the 151 seats, 140 members come from 10 multi-seat constituencies, with 3 members in a constituency for Croatian diaspora; voters belonging to recognized minorities elect an additional 8 members from a nationwide constituency: the Serb minority elects 3 members, the Hungarian and Italian minorities elect 1 each, the Czech and Slovak minorities elect 1 jointly, and all other minorities elect 2<br>

@@ -54,12 +54,12 @@ _mean elevation_: 450 m<br>
 petroleum, natural gas, iron ore, gold, bauxite, other minerals, hydropower, diamonds<br>
 
 **Land use**<br>
-_agricultural land_: 24.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 20.6% (2022 est.)<br>
-_forest_: 52.3% (2022 est.)<br>
-_other_: 23.3% (2022 est.)<br>
+_agricultural land_: 24.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 20.6% (2023 est.)<br>
+_forest_: 53.5% (2023 est.)<br>
+_other_: 22.1% (2023 est.)<br>
 
 **Irrigated land**<br>
 10,550 sq km (2012)<br>
@@ -199,13 +199,13 @@ _other alcohols_: 0.03 liters of pure alcohol (2019 est.)<br>
 51.5% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 1.3% of GDP (2017 est.)<br>
-_Education expenditure (% national budget)_: 0% national budget (2023 est.)<br>
+_Education expenditure (% GDP)_: 0% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 10.3% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_total population_: 97% (2016 est.)<br>
-_male_: 97% (2016 est.)<br>
-_female_: 97% (2016 est.)<br>
+_total population_: 97.2% (2017 est.)<br>
+_male_: 97.2% (2017 est.)<br>
+_female_: 97.3% (2017 est.)<br>
 
 ## Environment
 
@@ -220,12 +220,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; hot, humid; more moderate in highlands<br>
 
 **Land use**<br>
-_agricultural land_: 24.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 20.6% (2022 est.)<br>
-_forest_: 52.3% (2022 est.)<br>
-_other_: 23.3% (2022 est.)<br>
+_agricultural land_: 24.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 20.6% (2023 est.)<br>
+_forest_: 53.5% (2023 est.)<br>
+_other_: 22.1% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 88.4% of total population (2023)<br>
@@ -317,9 +317,9 @@ _number of seats_: 277 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 5/25/2025<br>
+_most recent election date_: 12/6/2020<br>
 _percentage of women in chamber_: 32.1%<br>
-_expected date of next election_: May 2030<br>
+_expected date of next election_: May 2025<br>
 <strong>note:</strong> in 2020, the National Electoral Council increased the number of seats in the National Assembly from 167 to 277 for the December 2020 election<br>
 
 **Judicial branch**<br>
@@ -605,6 +605,9 @@ Bolivarian Agency for Space Activities (Agencia Bolivariana para Actividades Esp
 
 **Space program overview**<br>
 has a small national program primarily focused on acquiring satellites and expanding the country&rsquo;s science and technological capabilities; operates satellites and maintains two satellite ground control stations; participates in multinational space organizations such as the Latin American and Caribbean Space Agency; closest bilateral partners are China and Russia; also has bilateral framework agreements for space cooperation with Argentina, Bolivia, Brazil, and Uruguay (2025)<br>
+
+**Key space-program milestones**<br>
+2005 - signed space cooperation partnership with China<br><br>2008- first communications satellite (Venesat-1 or Bolivar) financed, built, and launched by China<br><br>2012 - first remote sensing (RS) satellite (VRSS-1 or Miranda) built and launched by China<br><br>2017 - second RS satellite (VRSS-2 or Sucre) built and launched by China<br><br>2021 - signed agreement to establish the Latin American and Caribbean Space Agency (formally established in 2022)<br><br>2023 - joined China-Russia project to construct a permanent base on the Moon by the 2030s<br><br>2025 - announced intent to participate in planned Mars sample-return mission (Tianwen-3) led by China<br>
 
 ## Terrorism
 

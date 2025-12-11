@@ -53,12 +53,12 @@ _mean elevation_: 236 m<br>
 phosphates, limestone, marble, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 70.2% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 48.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 18.4% (2022 est.)<br>
-_forest_: 22.1% (2022 est.)<br>
-_other_: 7.6% (2022 est.)<br>
+_agricultural land_: 70.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 48.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 18.4% (2023 est.)<br>
+_forest_: 22.4% (2023 est.)<br>
+_other_: 7.4% (2023 est.)<br>
 
 **Irrigated land**<br>
 70 sq km (2012)<br>
@@ -206,7 +206,7 @@ _male_: 9.3% (2025 est.)<br>
 _female_: 0.7% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-15.2% (2017)<br>
+15.2% (2017 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 62% (2023 est.)<br>
@@ -243,12 +243,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; hot, humid in south; semiarid in north<br>
 
 **Land use**<br>
-_agricultural land_: 70.2% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 48.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 3.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 18.4% (2022 est.)<br>
-_forest_: 22.1% (2022 est.)<br>
-_other_: 7.6% (2022 est.)<br>
+_agricultural land_: 70.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 48.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 18.4% (2023 est.)<br>
+_forest_: 22.4% (2023 est.)<br>
+_other_: 7.4% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 44.5% of total population (2023)<br>

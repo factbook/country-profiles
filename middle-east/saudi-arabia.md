@@ -53,12 +53,12 @@ _mean elevation_: 665 m<br>
 petroleum, natural gas, iron ore, gold, copper<br>
 
 **Land use**<br>
-_agricultural land_: 80.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 79.1% (2022 est.)<br>
-_forest_: 0.5% (2022 est.)<br>
-_other_: 18.8% (2022 est.)<br>
+_agricultural land_: 80.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 79.1% (2023 est.)<br>
+_forest_: 1.3% (2023 est.)<br>
+_other_: 17.9% (2023 est.)<br>
 
 **Irrigated land**<br>
 7,575 sq km (2022)<br>
@@ -206,18 +206,19 @@ _male_: 28.3% (2025 est.)<br>
 _female_: 2% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-3.5% (2020)<br>
+3.5% (2020 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 63.2% (2023 est.)<br>
 
 **Education expenditure**<br>
-5.1% of GDP (2023 est.)<br>
+_Education expenditure (% GDP)_: 5.1% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 14.8% national budget (2024 est.)<br>
 
 **Literacy**<br>
-_total population_: 98% (2020 est.)<br>
-_male_: 99% (2020 est.)<br>
-_female_: 96% (2020 est.)<br>
+_total population_: 97.9% (2024 est.)<br>
+_male_: 98.6% (2024 est.)<br>
+_female_: 96.7% (2024 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years (2022 est.)<br>
@@ -237,12 +238,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 harsh, dry desert with great temperature extremes<br>
 
 **Land use**<br>
-_agricultural land_: 80.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 79.1% (2022 est.)<br>
-_forest_: 0.5% (2022 est.)<br>
-_other_: 18.8% (2022 est.)<br>
+_agricultural land_: 80.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 79.1% (2023 est.)<br>
+_forest_: 1.3% (2023 est.)<br>
+_other_: 17.9% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 85% of total population (2023)<br>
@@ -656,6 +657,9 @@ Saudi Space Agency (SSA; elevated to agency level from previous Saudi Space Comm
 
 **Space program overview**<br>
 has a national space strategy (Vision 2030) that seeks to grow its domestic space industry and use the space sector to accelerate economic diversification, enhance scientific research and development, and raise private-sector participation in the global space industry; manufactures and operates communications, remote sensing (RS), and scientific satellites; develops a range of satellite subsystems and payload technologies; is the main founder and financier of the Arab Satellite Communications Organization (Arabsat, launched in 1976 and headquartered in Riyadh); cooperates with the space agencies and industries of a wide range of countries, including those of Belarus, China, Egypt, the ESA and its member states (particularly France, Germany, Greece, and Hungary), India, Kazakhstan, Morocco, Russia, South Africa, South Korea, Ukraine, the UAE, the UK, and the US; member of the Arab Space Cooperation Group (2025)<br>
+
+**Key space-program milestones**<br>
+1985 - first communications satellite (Arabsat-1A) built and launched by European commercial companies; first Saudi astronaut in space on US Space Shuttle<br><br>2004 - first domestically built, experimental remote sensing (RS) satellite (SaudiSat-2) launched by Russia<br><br>2017-2019 - contributed to China’s robotic spacecraft mission (Chang’e-4) to the far side of the Moon<br><br>2021 - domestically built maritime-tracking satellite (Shaheen Sat) launched by Russia; began participating in Russia's astronaut training program<br><br>2022 - signed US-led Artemis Accords on space and lunar exploration<br><br>2023 - sent two astronauts, including first Saudi woman, to the International Space Station on a US commercial spacecraft<br>
 
 ## Terrorism
 

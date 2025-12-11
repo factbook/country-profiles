@@ -203,7 +203,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: named after Saint HELIER, the patron saint of Jersey, who was reputedly martyred on the island in A.D. 555<br>
 
 **Administrative divisions**<br>
-none (British crown dependency); no first-order administrative divisions as defined by the US government, but 12 parishes; Grouville, Saint Brelade, Saint Clement, Saint Helier, Saint John, Saint Lawrence, Saint Martin, Saint Mary, Saint Ouen, Saint Peter, Saint Saviour, Trinity<br>
+no first-order administrative divisions as defined by the US government, but 12 parishes; Grouville, Saint Brelade, Saint Clement, Saint Helier, Saint John, Saint Lawrence, Saint Martin, Saint Mary, Saint Ouen, Saint Peter, Saint Saviour, Trinity<br>
 
 **Legal system**<br>
 the laws of the UK apply, as well as local statutes<br>

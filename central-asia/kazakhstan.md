@@ -52,12 +52,12 @@ _mean elevation_: 387 m<br>
 major deposits of petroleum, natural gas, coal, iron ore, manganese, chrome ore, nickel, cobalt, copper, molybdenum, lead, zinc, bauxite, gold, uranium<br>
 
 **Land use**<br>
-_agricultural land_: 79.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 11% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 68.3% (2022 est.)<br>
-_forest_: 1.3% (2022 est.)<br>
-_other_: 19.3% (2022 est.)<br>
+_agricultural land_: 79.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 11% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 68.3% (2023 est.)<br>
+_forest_: 1.3% (2023 est.)<br>
+_other_: 19.3% (2023 est.)<br>
 
 **Irrigated land**<br>
 17,794 sq km (2022)<br>
@@ -207,9 +207,6 @@ _total_: 20.1% (2025 est.)<br>
 _male_: 35.7% (2025 est.)<br>
 _female_: 6.3% (2025 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-2% (2015)<br>
-
 **Currently married women (ages 15-49)**<br>
 61.8% (2023 est.)<br>
 
@@ -218,8 +215,8 @@ _women married by age 15_: 0.2% (2015)<br>
 _women married by age 18_: 7% (2015)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4.9% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 19.9% national budget (2023 est.)<br>
+_Education expenditure (% GDP)_: 4.8% of GDP (2023 est.)<br>
+_Education expenditure (% national budget)_: 22% national budget (2024 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years (2024 est.)<br>
@@ -239,12 +236,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 continental, cold winters and hot summers, arid and semiarid<br>
 
 **Land use**<br>
-_agricultural land_: 79.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 11% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 68.3% (2022 est.)<br>
-_forest_: 1.3% (2022 est.)<br>
-_other_: 19.3% (2022 est.)<br>
+_agricultural land_: 79.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 11% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 68.3% (2023 est.)<br>
+_forest_: 1.3% (2023 est.)<br>
+_other_: 19.3% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 58.2% of total population (2023)<br>
@@ -360,7 +357,7 @@ _judge selection and term of office_: Supreme Court judges proposed by the presi
 _subordinate courts_: regional and local courts<br>
 
 **Political parties**<br>
-Ak Zhol Democratic Party or Ak Zhol<br>Amanat Party (formerly Nur Otan (Radiant Fatherland))<br>Auyl People's Democratic Patriotic Party or Auyl<br>Baytak (Boundless) Party<br>National Social Democratic Party or NSDP<br>People's Democratic (Patriotic) Party or Auyl or AHDPP<br>People's Party of Kazakhstan or PPK<br>Respublica<br>
+Ak Zhol Democratic Party or Ak Zhol<br>Amanat formerly Nur Otan<br>Auyl People's Democratic Patriotic Party or Auyl<br>Green Party of Kazakhstan orBaytaq<br>Nationwide Social Democratic Party or NSDP<br>People's Party of Kazakhstan or PPK<br>Respublica<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador-designate Magzhan ILYASOV (since October 2025)<br>
@@ -694,6 +691,9 @@ Baikonur Cosmodrome/Space Center (Baikonur) (2025)<br>
 
 **Space program overview**<br>
 space program originated with the former Soviet Union; focuses on satellite acquisition and operation; builds (with foreign assistance) and operates communications, remote sensing (RS), and scientific satellites; building space infrastructure, such as launch and testing facilities, ground stations, and rocket manufacturing; has an astronaut (cosmonaut) program; has relations with a variety of foreign space agencies and industries, including those of China, France, Germany, India, Israel, Italy, Japan, Russia, Saudi Arabia, Sweden, Thailand, Turkey, Ukraine, UAE, and the UK; participates in international programs such as the International Space Station; has state-owned and private companies that assist with the country&rsquo;s space program and work closely with foreign commercial entities (2025)<br>
+
+**Key space-program milestones**<br>
+1991 - first Kazakh in space on the last Soviet Soyuz mission<br><br>2006 - first communications satellite (KazSat-1) built jointly with Italy and launched by Russia<br><br>2014 - first remote sensing satellite (KazEOSat-1) built by France and launched on European rocket<br><br>2024 - joined China-led lunar base project<br>
 
 ## Transnational Issues
 

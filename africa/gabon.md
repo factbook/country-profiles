@@ -53,12 +53,12 @@ _mean elevation_: 377 m<br>
 petroleum, natural gas, diamond, niobium, manganese, uranium, gold, timber, iron ore, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 8.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.3% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 6.4% (2022 est.)<br>
-_forest_: 91.2% (2022 est.)<br>
-_other_: 0.4% (2022 est.)<br>
+_agricultural land_: 8.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.4% (2023 est.)<br>
+_forest_: 91.5% (2023 est.)<br>
+_other_: 0.2% (2023 est.)<br>
 
 **Irrigated land**<br>
 40 sq km (2012)<br>
@@ -200,7 +200,7 @@ _spirits_: 0.5 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.04 liters of pure alcohol (2019 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-5.4% (2020)<br>
+5.4% (2020 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 49.7% (2023 est.)<br>
@@ -232,12 +232,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; always hot, humid<br>
 
 **Land use**<br>
-_agricultural land_: 8.4% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.3% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 6.4% (2022 est.)<br>
-_forest_: 91.2% (2022 est.)<br>
-_other_: 0.4% (2022 est.)<br>
+_agricultural land_: 8.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.4% (2023 est.)<br>
+_forest_: 91.5% (2023 est.)<br>
+_other_: 0.2% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 91% of total population (2023)<br>
@@ -330,14 +330,14 @@ _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 10/6/2023<br>
 _percentage of women in chamber_: 21.6%<br>
-_expected date of next election_: September 2025<br>
+_expected date of next election_: November 2030<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate (Senate)<br>
 _number of seats_: 70 (all indirectly elected)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 10/6/2023<br>
+_most recent election date_: 9/27/2025 to 10/11/2025<br>
 _percentage of women in chamber_: 20.3%<br>
 _expected date of next election_: November 2025<br>
 
@@ -668,6 +668,9 @@ Gabonese Studies and Space Observations Agency (Agence Gabonaise d&rsquo;Etudes 
 
 **Space program overview**<br>
 has a small space program focused on using data from remote sensing (RS) satellites for environmental and natural-resource management, mapping, land-use planning, maritime surveillance, and research; member of the African Space Agency; has relationships with Brazil, China, the ESA, individual ESA member states (particularly France), and the US, as well as African countries such as Kenya, Niger, Rwanda, and South Africa; shares RS satellite data with neighboring countries (2025)<br>
+
+**Key space-program milestones**<br>
+1986 - ESA established a ground station in Gabon<br><br>2018 - completed mapping Gabon’s forests<br><br>2019 - founding member of the Space Climate Observatory<br><br>2021 - began acquisition process for first satellite in joint project with Japan, known as BIRDs <br><br>2025 - became member of new African Space Agency<br>
 
 ## Transnational Issues
 

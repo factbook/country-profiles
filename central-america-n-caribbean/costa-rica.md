@@ -54,12 +54,12 @@ _mean elevation_: 746 m<br>
 hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 34.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 3.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 6.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 24.4% (2022 est.)<br>
-_forest_: 60.1% (2022 est.)<br>
-_other_: 5.3% (2022 est.)<br>
+_agricultural land_: 33.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 3.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 7.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 22.5% (2023 est.)<br>
+_forest_: 58.4% (2023 est.)<br>
+_other_: 8.4% (2023 est.)<br>
 
 **Irrigated land**<br>
 1,015 sq km (2012)<br>
@@ -200,7 +200,7 @@ _male_: 12.2% (2025 est.)<br>
 _female_: 4.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-2.9% (2018)<br>
+2.9% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 48.4% (2023 est.)<br>
@@ -212,6 +212,9 @@ _women married by age 18_: 17.1% (2018)<br>
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 6.2% of GDP (2021 est.)<br>
 _Education expenditure (% national budget)_: 31.2% national budget (2021 est.)<br>
+
+**Literacy**<br>
+_female_: 94.1% (2018 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years (2019 est.)<br>
@@ -231,12 +234,12 @@ _signed, but not ratified_: Marine Life Conservation<br>
 tropical and subtropical; dry season (December to April); rainy season (May to November); cooler in highlands<br>
 
 **Land use**<br>
-_agricultural land_: 34.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 3.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 6.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 24.4% (2022 est.)<br>
-_forest_: 60.1% (2022 est.)<br>
-_other_: 5.3% (2022 est.)<br>
+_agricultural land_: 33.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 3.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 7.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 22.5% (2023 est.)<br>
+_forest_: 58.4% (2023 est.)<br>
+_other_: 8.4% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 82.6% of total population (2023)<br>
@@ -654,6 +657,9 @@ Costa Rican Space Agency (ACE; established by legislation in 2021)  (2025)<br>
 
 **Space program overview**<br>
 has a small, recently established program focused on using space to develop the country&rsquo;s economy and industry, including acquiring and using satellites; has built a remote sensing (RS) cube satellite; has relations with US space agencies and commercial space industries, as well as with the ESA and the Latin American and Caribbean Space Agency (2025)<br>
+
+**Key space-program milestones**<br>
+2018 - first domestically produced remote sensing cube satellite (Irazú) for monitoring tropical forests and climate change launched by US and deployed from the International Space Station<br><br>2021 - signed protocols for newly established Latin American and Caribbean Space Agency; opened US commercial company’s space radar facility for mapping and space situational awareness<br><br>2022 - domestically produced scientific device (Proyecto Musa or Musa Project) launched on European rocket<br><br>2024 - participated in first China-Latin America and the Caribbean Space Cooperation Forum<br>
 
 ## Transnational Issues
 

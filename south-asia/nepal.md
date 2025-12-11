@@ -51,12 +51,12 @@ _mean elevation_: 2,565 m<br>
 quartz, water, timber, hydropower, scenic beauty, small deposits of lignite, copper, cobalt, iron ore<br>
 
 **Land use**<br>
-_agricultural land_: 26.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 12.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 12.5% (2022 est.)<br>
-_forest_: 41.6% (2022 est.)<br>
-_other_: 32.3% (2022 est.)<br>
+_agricultural land_: 26.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 12.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 12.5% (2023 est.)<br>
+_forest_: 43.5% (2023 est.)<br>
+_other_: 27.7% (2023 est.)<br>
 
 **Irrigated land**<br>
 12,090 sq km (2022)<br>
@@ -209,7 +209,7 @@ _male_: 40.3% (2025 est.)<br>
 _female_: 7.6% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-18.7% (2022)<br>
+18.3% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 74.6% (2023 est.)<br>
@@ -220,12 +220,12 @@ _women married by age 18_: 34.9% (2022)<br>
 _men married by age 18_: 7% (2022)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 12.8% national budget (2021 est.)<br>
+_Education expenditure (% GDP)_: 3.7% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 10.8% national budget (2025 est.)<br>
 
 **Literacy**<br>
 _total population_: 68.7% (2019 est.)<br>
-_male_: 79.7% (2019 est.)<br>
+_male_: 79.8% (2019 est.)<br>
 _female_: 59.4% (2019 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
@@ -246,12 +246,12 @@ _signed, but not ratified_: Comprehensive Nuclear Test Ban, Marine Life Conserva
 varies from cool summers and severe winters in north to subtropical summers and mild winters in south<br>
 
 **Land use**<br>
-_agricultural land_: 26.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 12.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 12.5% (2022 est.)<br>
-_forest_: 41.6% (2022 est.)<br>
-_other_: 32.3% (2022 est.)<br>
+_agricultural land_: 26.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 12.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 12.5% (2023 est.)<br>
+_forest_: 43.5% (2023 est.)<br>
+_other_: 27.7% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 21.9% of total population (2023)<br>
@@ -337,7 +337,7 @@ _number of seats_: 275 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 11/19/2013<br>
+_most recent election date_: 11/20/2022<br>
 _parties elected and seats per party_: Nepali Congress (NC) (89); Communist Party of Nepal (Unified Marxist-Leninist, UML) (78); Communist Party of Nepal-Maoist Centre (CPN-MC) (32); Rastriya Swatantra Party (20); Rastriya Prajatantra Party Nepal (RPP) (14); People's Socialist Party, Nepal (12); Communist Party of Nepal (Unified Socialist) (10); Janamat Party (6); Democratic Socialist Party, Nepal (4); People's Freedom Party (3); Nepal Workers Peasants Party (1); Rastriya Janamorcha (1); Independents (5)<br>
 _percentage of women in chamber_: 0%<br>
 _expected date of next election_: 5 March 2026; note - Parliament was dissolved by the President on 12 September following violent protests, the resignation of the Prime Minister, and the appointment of an interim prime minister with new elections set for March 2026<br>

@@ -51,12 +51,12 @@ _mean elevation_: 1,350 m<br>
 hydropower potential, timber, salt<br>
 
 **Land use**<br>
-_agricultural land_: 37.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 10% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 27.2% (2022 est.)<br>
-_forest_: 32.3% (2022 est.)<br>
-_other_: 29.8% (2022 est.)<br>
+_agricultural land_: 37.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 10% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.1% (2023 est.)<br>
+_forest_: 32% (2023 est.)<br>
+_other_: 32.6% (2023 est.)<br>
 
 **Irrigated land**<br>
 494 sq km (2020)<br>
@@ -214,8 +214,8 @@ _female_: 20.1% (2025 est.)<br>
 57.5% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 5.1% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 15.9% national budget (2023 est.)<br>
+_Education expenditure (% GDP)_: 4.9% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 15.4% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years (2023 est.)<br>
@@ -235,12 +235,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate, but varies with altitude; cold, cloudy, rainy/snowy winters; cool to warm, cloudy, humid summers with occasional showers<br>
 
 **Land use**<br>
-_agricultural land_: 37.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 10% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 27.2% (2022 est.)<br>
-_forest_: 32.3% (2022 est.)<br>
-_other_: 29.8% (2022 est.)<br>
+_agricultural land_: 37.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 10% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 27.1% (2023 est.)<br>
+_forest_: 32% (2023 est.)<br>
+_other_: 32.6% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 74.2% of total population (2023)<br>
@@ -332,7 +332,7 @@ _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
 _most recent election date_: 10/22/2023<br>
 _parties elected and seats per party_: Swiss People's Party (SVP/UDC) (62); Socialist Party (SP/PS) (41); Centre Party (29); FDP/The Liberals (FDP/PLR) (28); Green Party (GPS/PES) (23); Liberal Green Party (GLP/PVL) (10); Other (7)<br>
-_percentage of women in chamber_: 39%<br>
+_percentage of women in chamber_: 39.5%<br>
 _expected date of next election_: October 2027<br>
 
 **Legislative branch - upper chamber**<br>
@@ -668,7 +668,7 @@ the military's inventory includes a mix of domestically produced and imported Eu
 <strong>note: </strong>conscientious objectors can choose 390 days of community service instead of military service; as of 2023, women comprised about 1% of the active Swiss military<br>
 
 **Military deployments**<br>
-175 Kosovo (NATO/KFOR) (2024)<br>
+200 Kosovo (NATO/KFOR) (2025)<br>
 
 **Military - note**<br>
 the Swiss military is responsible for territorial defense, limited support to international disaster response and peacekeeping, and providing support to civil authorities when their resources are not sufficient to ward off threats to internal security or provide sufficient relief during disasters; Switzerland has long maintained a policy of military neutrality but does periodically participate in EU, NATO, Organization for Security and Cooperation in Europe (OSCE), and UN military and peacekeeping operations; however, Swiss units will only participate in operations under the mandate of the UN or OSCE; Switzerland joined NATO&rsquo;s Partnership for Peace program in 1996; it has contributed to the NATO-led force in Kosovo (KFOR) since 1999 (2025)<br>

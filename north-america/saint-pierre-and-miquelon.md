@@ -51,12 +51,12 @@ _lowest point_: Atlantic Ocean 0 m<br>
 fish, deepwater ports<br>
 
 **Land use**<br>
-_agricultural land_: 8.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 8.7% (2022 est.)<br>
+_agricultural land_: 8.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 8.7% (2023 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 5.1% (2022 est.)<br>
-_other_: 86.2% (2022 est.)<br>
+_forest_: 5% (2023 est.)<br>
+_other_: 86.3% (2023 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -168,12 +168,12 @@ overfishing<br>
 cold and wet, with considerable mist and fog; spring and autumn are often windy<br>
 
 **Land use**<br>
-_agricultural land_: 8.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 8.7% (2022 est.)<br>
+_agricultural land_: 8.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 8.7% (2023 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 5.1% (2022 est.)<br>
-_other_: 86.2% (2022 est.)<br>
+_forest_: 5% (2023 est.)<br>
+_other_: 86.3% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 90.1% of total population (2023)<br>
@@ -206,7 +206,7 @@ _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday i
 _etymology_: may be named after Saint Peter, the patron saint of fisherman; alternatively, the name may come from one of the two navigators for whom the island as a whole is named&nbsp;<br>
 
 **Administrative divisions**<br>
-none (territorial overseas collectivity of France); no first-order administrative divisions as defined by the US government, but 2 communes are considered second-order: Saint Pierre, Miquelon<br>
+no first-order administrative divisions as defined by the US government, but 2 communes are considered second-order: Saint Pierre, Miquelon<br>
 
 **Legal system**<br>
 French civil law<br>

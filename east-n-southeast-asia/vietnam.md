@@ -54,12 +54,12 @@ _mean elevation_: 398 m<br>
 antimony, phosphates, coal, manganese, rare earth elements, bauxite, chromate, offshore oil and gas deposits, timber, hydropower, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 39.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 21.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 15.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 2% (2022 est.)<br>
-_forest_: 47.2% (2022 est.)<br>
-_other_: 13.5% (2022 est.)<br>
+_agricultural land_: 39.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 21.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 15.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2% (2023 est.)<br>
+_forest_: 47% (2023 est.)<br>
+_other_: 13.7% (2023 est.)<br>
 
 **Irrigated land**<br>
 46,000 sq km (2012)<br>
@@ -208,7 +208,7 @@ _male_: 43.1% (2025 est.)<br>
 _female_: 2.1% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-11.6% (2020)<br>
+9.7% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 72.6% (2023 est.)<br>
@@ -223,9 +223,9 @@ _Education expenditure (% GDP)_: 2.9% of GDP (2022 est.)<br>
 _Education expenditure (% national budget)_: 15.4% national budget (2022 est.)<br>
 
 **Literacy**<br>
-_total population_: 96% (2022 est.)<br>
-_male_: 97% (2022 est.)<br>
-_female_: 95% (2022 est.)<br>
+_total population_: 96.1% (2022 est.)<br>
+_male_: 97.2% (2022 est.)<br>
+_female_: 95.1% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years (2022 est.)<br>
@@ -245,12 +245,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical in south; monsoonal in north with hot, rainy season (May to September) and warm, dry season (October to March)<br>
 
 **Land use**<br>
-_agricultural land_: 39.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 21.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 15.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 2% (2022 est.)<br>
-_forest_: 47.2% (2022 est.)<br>
-_other_: 13.5% (2022 est.)<br>
+_agricultural land_: 39.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 21.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 15.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2% (2023 est.)<br>
+_forest_: 47% (2023 est.)<br>
+_other_: 13.7% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 39.5% of total population (2023)<br>
@@ -346,7 +346,7 @@ _term in office_: 5 years<br>
 _most recent election date_: 5/23/2021<br>
 _parties elected and seats per party_: Communist Party (485); Other (14)<br>
 _percentage of women in chamber_: 31.4%<br>
-_expected date of next election_: May 2026<br>
+_expected date of next election_: March 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme People's Court (consists of the chief justice and 13 judges)<br>
@@ -690,6 +690,9 @@ Vietnam National Space Center (VNSC; established 2011) (2025)<br>
 
 **Space program overview**<br>
 has a growing national space program focused on acquiring, operating, and exploiting satellites, as well as expanding domestic capabilities in satellites and associated sub-system production, space sciences, and technology applications; builds and operates communications and remote sensing satellites; conducting research and development on space science and applied space technologies, such as advanced optics and space data exploitation; has worked closely with Japan on its space program; has also established relationships with the space agencies or commercial space sectors of some European countries (such as France), India, and the US (2025)<br>
+
+**Key space-program milestones**<br>
+1980 - first Vietnamese astronaut/cosmonaut into space on Soviet spacecraft<br><br>2008 - first telecommunications satellite (VINASAT-1) built by US company and launched on European rocket<br><br>2012 - first educational/scientific cube satellite (F-1) built jointly with and launched by Japan; second telecommunications satellite (VINASAT-2) built by US and launched on European rocket<br><br>2013 - first domestically built remote-sensing (RS)/technology-demonstrator cube satellite (PicoDragon) launched by Japan; first RS satellite (VNREDSat-1a or Vietnam Natural Resources, Environment, and Disaster Monitoring Satellite) launched on European rocket<br><br>2016 - signed an agreement with India to establish a satellite tracking and imaging center in Ho Chi Minh City in exchange for access to Indian RS imagery<br><br>2018 - completed National Space Center in Hanoi<br><br>2021 - announced a developmental roadmap for producing “Made in Vietnam” small satellites as part of a larger effort to increase space sciences and technology through 2030; signed an agreement with Japan to increase cooperation on space defense<br>
 
 ## Transnational Issues
 

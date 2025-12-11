@@ -51,12 +51,12 @@ _mean elevation_: 2,220 m<br>
 timber, hydropower, gypsum, calcium carbonate<br>
 
 **Land use**<br>
-_agricultural land_: 12.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 10.8% (2022 est.)<br>
-_forest_: 71.6% (2022 est.)<br>
-_other_: 15.6% (2022 est.)<br>
+_agricultural land_: 13.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 10.8% (2023 est.)<br>
+_forest_: 70.6% (2023 est.)<br>
+_other_: 15.6% (2023 est.)<br>
 
 **Irrigated land**<br>
 320 sq km (2012)<br>
@@ -189,17 +189,20 @@ _total_: 18.5% (2025 est.)<br>
 _male_: 26.1% (2025 est.)<br>
 _female_: 9.8% (2025 est.)<br>
 
+**Children under the age of 5 years underweight**<br>
+8.7% (2023 est.)<br>
+
 **Currently married women (ages 15-49)**<br>
 62.8% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 5.8% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 17.2% national budget (2024 est.)<br>
+_Education expenditure (% national budget)_: 22.2% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_total population_: 67% (2017 est.)<br>
-_male_: 75% (2017 est.)<br>
-_female_: 57% (2017 est.)<br>
+_total population_: 64.9% (2022 est.)<br>
+_male_: 73.4% (2022 est.)<br>
+_female_: 57% (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years (2022 est.)<br>
@@ -219,12 +222,12 @@ _signed, but not ratified_: Law of the Sea<br>
 varies; tropical in southern plains; cool winters and hot summers in central valleys; severe winters and cool summers in Himalayas<br>
 
 **Land use**<br>
-_agricultural land_: 12.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 10.8% (2022 est.)<br>
-_forest_: 71.6% (2022 est.)<br>
-_other_: 15.6% (2022 est.)<br>
+_agricultural land_: 13.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 10.8% (2023 est.)<br>
+_forest_: 70.6% (2023 est.)<br>
+_other_: 15.6% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 44.4% of total population (2023)<br>
@@ -316,7 +319,7 @@ _chamber name_: National Council (Gyelyong Tshogde)<br>
 _number of seats_: 25 (20 directly elected; 5 appointed)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
-_term in office_: 5 years<br>
+_term in office_: 0 years<br>
 _most recent election date_: 4/20/2023<br>
 _parties elected and seats per party_: N/A; note - the National Council is not party-based<br>
 _percentage of women in chamber_: 12%<br>

@@ -51,12 +51,12 @@ _lowest point_: Caribbean Sea 0 m<br>
 NEGL; pleasant climate, beaches foster tourism<br>
 
 **Land use**<br>
-_agricultural land_: 46.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 6.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 6.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 33.3% (2022 est.)<br>
-_forest_: 24.1% (2022 est.)<br>
-_other_: 29.2% (2022 est.)<br>
+_agricultural land_: 46.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 6.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 6.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 33.3% (2023 est.)<br>
+_forest_: 66.5% (2023 est.)<br>
+_other_: 0% (2023 est.)<br>
 
 **Irrigated land**<br>
 NA<br>
@@ -159,7 +159,7 @@ _unimproved: total_: total: 0.1% of population (2022 est.)<br>
 46.6% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 2.5% of GDP (2022 est.)<br>
+_Education expenditure (% GDP)_: 3.2% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 13.6% national budget (2025 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
@@ -176,12 +176,12 @@ limited natural freshwater resources; water pollution from sewage and mining/ind
 subtropical; humid; temperatures moderated by trade winds<br>
 
 **Land use**<br>
-_agricultural land_: 46.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 6.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 6.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 33.3% (2022 est.)<br>
-_forest_: 24.1% (2022 est.)<br>
-_other_: 29.2% (2022 est.)<br>
+_agricultural land_: 46.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 6.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 6.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 33.3% (2023 est.)<br>
+_forest_: 66.5% (2023 est.)<br>
+_other_: 0% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 49.7% of total population (2023)<br>
@@ -213,9 +213,6 @@ _name_: Road Town<br>
 _geographic coordinates_: 18 25 N, 64 37 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
 _etymology_: name refers to the nautical term "roadstead" or "roads," a body of water less sheltered than a harbor but where ships can still lie at anchor<br>
-
-**Administrative divisions**<br>
-none (overseas territory of the UK)<br>
 
 **Legal system**<br>
 English common law<br>

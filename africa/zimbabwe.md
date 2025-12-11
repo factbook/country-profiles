@@ -51,12 +51,12 @@ _mean elevation_: 961 m<br>
 coal, chromium ore, asbestos, gold, nickel, copper, iron ore, vanadium, lithium, tin, platinum group metals<br>
 
 **Land use**<br>
-_agricultural land_: 39.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 8.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 31.3% (2022 est.)<br>
-_forest_: 44.9% (2022 est.)<br>
-_other_: 15.7% (2022 est.)<br>
+_agricultural land_: 41.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 10.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 31.3% (2023 est.)<br>
+_forest_: 35.9% (2023 est.)<br>
+_other_: 22.3% (2023 est.)<br>
 
 **Irrigated land**<br>
 1,740 sq km (2012)<br>
@@ -208,7 +208,7 @@ _male_: 17.6% (2025 est.)<br>
 _female_: 0.7% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-9.7% (2019)<br>
+9.6% (2024 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 61.6% (2023 est.)<br>
@@ -240,12 +240,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; moderated by altitude; rainy season (November to March)<br>
 
 **Land use**<br>
-_agricultural land_: 39.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 8.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 31.3% (2022 est.)<br>
-_forest_: 44.9% (2022 est.)<br>
-_other_: 15.7% (2022 est.)<br>
+_agricultural land_: 41.8% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 10.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 31.3% (2023 est.)<br>
+_forest_: 35.9% (2023 est.)<br>
+_other_: 22.3% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 32.5% of total population (2023)<br>
@@ -329,7 +329,7 @@ _number of seats_: 280 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 8/23/2023<br>
+_most recent election date_: 45161<br>
 _parties elected and seats per party_: ZANU-PF (175); Citizens Coalition for Change (CCC) (104)<br>
 _percentage of women in chamber_: 30.1%<br>
 _expected date of next election_: August 2028<br>
@@ -341,7 +341,7 @@ _number of seats_: 80 (60 directly elected; 20 indirectly elected)<br>
 _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 8/23/2023<br>
+_most recent election date_: 45161<br>
 _parties elected and seats per party_: ZANU-PF (33); Citizens Coalition for Change (CCC) (27)<br>
 _percentage of women in chamber_: 44.3%<br>
 _expected date of next election_: August 2028<br>
@@ -659,6 +659,9 @@ note: ZINGSA is under the Ministry of Higher and Tertiary Education, Science, an
 
 **Space program overview**<br>
 has a nascent program with the goal of using space technologies in economic development, including remote sensing capabilities to assist with monitoring or managing agriculture, food security, climate change, disease outbreaks, environmental hazards and disasters, and natural resources, as well as weather forecasting; has cooperated with Japan and Russia (2025)<br>
+
+**Key space-program milestones**<br>
+2020 - began a program (BIRDS-5) sponsored by Japan to promote the development of a domestic space program by designing, building, testing, launching, and operating the first satellites for participating countries <br><br>2021 - established satellite ground communications station and completed national wetlands mapping project<br><br>2022 - first nano-sized remote sensing/educational satellite (ZIMSAT-1) built with Japan’s assistance and launched by Japan under the BIRDs-5 program<br><br>2024 - second RS satellite (ZIMSAT-2) built with Russian assistance and launched by Russia<br>
 
 ## Transnational Issues
 

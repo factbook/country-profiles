@@ -51,12 +51,12 @@ _mean elevation_: 741 m<br>
 low-grade iron ore, copper, lead, zinc, chromite, manganese, nickel, tungsten, gold, silver, asbestos, gypsum, timber, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 49.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 16.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 31.8% (2022 est.)<br>
-_forest_: 39.7% (2022 est.)<br>
-_other_: 10.4% (2022 est.)<br>
+_agricultural land_: 49.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 16.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 31.5% (2023 est.)<br>
+_forest_: 40.9% (2023 est.)<br>
+_other_: 9.5% (2023 est.)<br>
 
 **Irrigated land**<br>
 844 sq km (2016)<br>
@@ -200,7 +200,7 @@ _spirits_: 0.9 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.03 liters of pure alcohol (2019 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-0.9% (2018/19)<br>
+0.9% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 66.5% (2023 est.)<br>
@@ -230,12 +230,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 warm, dry summers and autumns; relatively cold winters with heavy snowfall<br>
 
 **Land use**<br>
-_agricultural land_: 49.8% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 16.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 31.8% (2022 est.)<br>
-_forest_: 39.7% (2022 est.)<br>
-_other_: 10.4% (2022 est.)<br>
+_agricultural land_: 49.6% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 16.5% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.6% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 31.5% (2023 est.)<br>
+_forest_: 40.9% (2023 est.)<br>
+_other_: 9.5% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 59.5% of total population (2023)<br>

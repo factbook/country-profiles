@@ -51,12 +51,12 @@ _lowest point_: Atlantic Ocean 0 m<br>
 fish, whales, hydropower, possible oil and gas<br>
 
 **Land use**<br>
-_agricultural land_: 70.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.1% (2022 est.)<br>
+_agricultural land_: 70.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.1% (2023 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 70.1% (2022 est.)<br>
-_forest_: 0.1% (2022 est.)<br>
-_other_: 29.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 70.1% (2023 est.)<br>
+_forest_: 0.1% (2023 est.)<br>
+_other_: 29.8% (2023 est.)<br>
 
 **Population distribution**<br>
 the island of Streymoy is by far the most populous with over 40% of the population; it has approximately twice as many inhabitants as Eysturoy, the second most populous island; seven of the inhabited islands have fewer than 100 people<br>
@@ -176,12 +176,12 @@ coastal erosion, landslides and rockfalls, flash flooding, wind storms; oil spil
 mild winters, cool summers; usually overcast; foggy, windy<br>
 
 **Land use**<br>
-_agricultural land_: 70.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.1% (2022 est.)<br>
+_agricultural land_: 70.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.1% (2023 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 70.1% (2022 est.)<br>
-_forest_: 0.1% (2022 est.)<br>
-_other_: 29.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 70.1% (2023 est.)<br>
+_forest_: 0.1% (2023 est.)<br>
+_other_: 29.8% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 43% of total population (2023)<br>
@@ -218,7 +218,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the name means "Thor's harbor" in Danish<br>
 
 **Administrative divisions**<br>
-part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark; there are 29 first-order municipalities (<em>kommunur</em>, singular - <em>kommuna</em>) Eidhi, Eystur, Famjin, Fuglafjordhur, Fugloy, Hov, Husavik, Hvalba, Hvannasund, Klaksvik, Kunoy, Kvivik, Nes, Porkeri, Runavik, Sandur, Sjovar, Skalavik, Skopun, Skuvoy, Sorvagur, Sumba, Sunda, Torshavn, Tvoroyri, Vagar, Vagur, Vestmanna, Vidhareidhi<br>
+29 first-order municipalities (<em>kommunur</em>, singular - <em>kommuna</em>) Eidhi, Eystur, Famjin, Fuglafjordhur, Fugloy, Hov, Husavik, Hvalba, Hvannasund, Klaksvik, Kunoy, Kvivik, Nes, Porkeri, Runavik, Sandur, Sjovar, Skalavik, Skopun, Skuvoy, Sorvagur, Sumba, Sunda, Torshavn, Tvoroyri, Vagar, Vagur, Vestmanna, Vidhareidhi<br>
 
 **Legal system**<br>
 the laws of Denmark apply&nbsp;<br>

@@ -51,12 +51,12 @@ _lowest point_: White Nile 381 m<br>
 hydropower, fertile agricultural land, gold, diamonds, petroleum, hardwoods, limestone, iron ore, copper, chromium ore, zinc, tungsten, mica, silver<br>
 
 **Land use**<br>
-_agricultural land_: 44.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 3.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 40.8% (2022 est.)<br>
-_forest_: 11.3% (2022 est.)<br>
-_other_: 44% (2022 est.)<br>
+_agricultural land_: 44.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 3.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 40.8% (2023 est.)<br>
+_forest_: 11.3% (2023 est.)<br>
+_other_: 43.8% (2023 est.)<br>
 
 **Irrigated land**<br>
 1,000 sq km (2012)<br>
@@ -190,7 +190,7 @@ _unimproved: total_: total: 75.1% of population (2022 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 1.6% of GDP (2016 est.)<br>
-_Education expenditure (% national budget)_: 8.1% national budget (2023 est.)<br>
+_Education expenditure (% national budget)_: 3.3% national budget (2015 est.)<br>
 
 ## Environment
 
@@ -205,12 +205,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 hot with seasonal rainfall influenced by the annual shift of the Inter-Tropical Convergence Zone; rainfall heaviest in upland areas of the south and diminishes to the north<br>
 
 **Land use**<br>
-_agricultural land_: 44.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 3.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 40.8% (2022 est.)<br>
-_forest_: 11.3% (2022 est.)<br>
-_other_: 44% (2022 est.)<br>
+_agricultural land_: 44.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 3.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 40.8% (2023 est.)<br>
+_forest_: 11.3% (2023 est.)<br>
+_other_: 43.8% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 21.2% of total population (2023)<br>

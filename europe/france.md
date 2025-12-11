@@ -60,12 +60,12 @@ _mean elevation_: 375 m<br>
 <em>metropolitan France:</em> coal, iron ore, bauxite, zinc, uranium, antimony, arsenic, potash, feldspar, fluorspar, gypsum, timber, arable land, fish; <em>French Guiana</em><em>:</em> gold deposits, petroleum, kaolin, niobium, tantalum, clay<br>
 
 **Land use**<br>
-_agricultural land_: 51.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 34.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.9% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 15.7% (2022 est.)<br>
-_forest_: 31.8% (2022 est.)<br>
-_other_: 16.5% (2022 est.)<br>
+_agricultural land_: 52.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 31.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.9% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 19.2% (2023 est.)<br>
+_forest_: 32.7% (2023 est.)<br>
+_other_: 15% (2023 est.)<br>
 
 **Irrigated land**<br>
 14,236 sq km (2020)<br>
@@ -227,8 +227,8 @@ _female_: 27.3% (2025 est.)<br>
 54.8% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 5.4% of GDP (2021 est.)<br>
-_Education expenditure (% national budget)_: 8.9% national budget (2021 est.)<br>
+_Education expenditure (% GDP)_: 5.3% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 9.1% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years (2022 est.)<br>
@@ -249,12 +249,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 <strong>French Guiana:</strong> tropical; hot, humid; little seasonal temperature variation <br><br><strong>Guadeloupe and Martinique:</strong> subtropical tempered by trade winds; moderately high humidity; rainy season (June to October); vulnerable to devastating cyclones (hurricanes) every eight years on average <br><br><strong>Mayotte:</strong> tropical; marine; hot, humid, rainy season during northeastern monsoon (November to May); dry season is cooler (May to November) <br><br><strong>Reunion:</strong> tropical, but temperature moderates with elevation; cool and dry (May to November), hot and rainy (November to April)<br>
 
 **Land use**<br>
-_agricultural land_: 51.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 34.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.9% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 15.7% (2022 est.)<br>
-_forest_: 31.8% (2022 est.)<br>
-_other_: 16.5% (2022 est.)<br>
+_agricultural land_: 52.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 31.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.9% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 19.2% (2023 est.)<br>
+_forest_: 32.7% (2023 est.)<br>
+_other_: 15% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 81.8% of total population (2023)<br>
@@ -357,17 +357,17 @@ _number of seats_: 577 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 6/30/2024 to 7/7/2024<br>
+_most recent election date_: 9/24/2023<br>
 _parties elected and seats per party_: New Popular Front (NFP)/UG (178); Ensemble (presidential majority) (150); National Rally (RN) (125); The Republicans (LR) (39); Other (85)<br>
 _percentage of women in chamber_: 36.2%<br>
 _expected date of next election_: June 2029<br>
 
 **Legislative branch - upper chamber**<br>
-_chamber name_: Senate (Sénat)<br>
+_chamber name_: Senate (S&eacute;nat)<br>
 _number of seats_: 348 (all indirectly elected)<br>
 _scope of elections_: partial renewal<br>
 _term in office_: 6 years<br>
-_most recent election date_: 9/24/2023<br>
+_most recent election date_: 6/30/2024 to 7/7/2024<br>
 _percentage of women in chamber_: 37.1%<br>
 _expected date of next election_: September 2026<br>
 <strong>note 1:</strong> of the 348 Senate seats, 328 seats are for metropolitan France, overseas departments, and regions of Guadeloupe, Martinique, French Guiana, Reunion, and Mayotte; the remainder of the seats include 2 for New Caledonia, 2 for French Polynesia, 1 for Saint-Pierre and Miquelon, 1 for Saint-Barthelemy, 1 for Saint-Martin, 1 for Wallis and Futuna, and 12 for French nationals abroad<br><strong><br>note 2:</strong> Senate members are indirectly elected by departmental electoral colleges, using absolute majority vote in two rounds if needed for departments with 1-3 members, and proportional representation vote in departments with 4 or more members<br>
@@ -732,6 +732,9 @@ Guiana Space Center (Kourou, French Guiana; also serves as the spaceport for the
 
 **Space program overview**<br>
 has one of Europe&rsquo;s largest space programs and is one of the top contributors to the ESA; has independent capabilities in all areas, except for autonomous manned space flight; can build, launch, and operate a range of space/satellite launch vehicles (SLVs) and spacecraft, including exploratory probes and a full spectrum of satellites; shifted astronaut training to ESA in 2001; hosts the ESA headquarters and its space launch facility; participates in international space programs such as the Square Kilometer Array radio telescope and International Space Station; works with a broad range of space agencies and commercial space companies, including those of China, Egypt, individual ESA and EU member countries, India, Indonesia, Israel, Japan, Mexico, Russia, the UAE, the US, and several African countries; has a large commercial space sector involved in satellite construction and payloads, launch capabilities, and a range of other space-related capabilities and technologies (2025)<br>
+
+**Key space-program milestones**<br>
+early 1960s - began rocket program and launched animals into space<br><br>1965 - launched first domestically produced satellite (Asterix) into space on a French Diamant rocket (third country to do so after the Soviet Union and US)<br><br>1973 - began development of Ariane heavy-lift satellite launch vehicle (SLV) along with other European states, particularly Germany and the UK; Ariane would become the ESA's SLV<br><br>1970s-1990s - development of a space plane/shuttle program (Hermes)<br><br>1982 - first French astronaut into space on a Soviet rocket<br><br>1986 - launched first joint European Earth observation/remote sensing program (SPOT)<br><br>2018 - launched project (Spaceship FR) to lay the groundwork for robotic and crewed missions to the Moon and Mars<br><br>2024 - debut launch of Ariane-6 SLV; claimed world's first satellite to ground communications via laser<br>
 
 ## Terrorism
 

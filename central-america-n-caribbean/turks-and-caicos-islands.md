@@ -50,12 +50,12 @@ _lowest point_: Atlantic Ocean 0 m<br>
 spiny lobster, conch<br>
 
 **Land use**<br>
-_agricultural land_: 1.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.1% (2022 est.)<br>
+_agricultural land_: 1.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1.1% (2023 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 11.1% (2022 est.)<br>
-_other_: 87.9% (2022 est.)<br>
+_forest_: 11.1% (2023 est.)<br>
+_other_: 87.9% (2023 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -167,7 +167,7 @@ _unimproved: rural_: rural: 2.3% of population (2022 est.)<br>
 _unimproved: total_: total: 1.3% of population (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-0.4% (2019/20)<br>
+0.4% (2020 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 59.1% (2023 est.)<br>
@@ -178,8 +178,8 @@ _women married by age 18_: 23.3% (2020)<br>
 _men married by age 18_: 5.1% (2020)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 3.1% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 8.7% national budget (2023 est.)<br>
+_Education expenditure (% GDP)_: 2.9% of GDP (2024 est.)<br>
+_Education expenditure (% national budget)_: 9.8% national budget (2025 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years (2023 est.)<br>
@@ -198,12 +198,12 @@ limited natural freshwater resources<br>
 tropical; marine; moderated by trade winds; sunny and relatively dry<br>
 
 **Land use**<br>
-_agricultural land_: 1.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.1% (2022 est.)<br>
+_agricultural land_: 1.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1.1% (2023 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 11.1% (2022 est.)<br>
-_other_: 87.9% (2022 est.)<br>
+_forest_: 11.1% (2023 est.)<br>
+_other_: 87.9% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 94.2% of total population (2023)<br>
@@ -233,9 +233,6 @@ _geographic coordinates_: 21 28 N, 71 08 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday in November<br>
 _etymology_: named after Sir Francis COCKBURN, who served as governor of the Bahamas from 1837 to 1844<br>
-
-**Administrative divisions**<br>
-none (overseas territory of the UK)<br>
 
 **Legal system**<br>
 mixed system of English common law and civil law<br>

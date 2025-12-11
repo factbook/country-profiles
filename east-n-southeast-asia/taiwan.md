@@ -52,9 +52,9 @@ _mean elevation_: 1,150 m<br>
 small deposits of coal, natural gas, limestone, marble, asbestos, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 22% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 16.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.4% (2022 est.)<br>
+_agricultural land_: 22% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 16.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.4% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
 _forest_: 0% (2022 est.)<br>
 _other_: 78% (2022 est.)<br>
@@ -167,9 +167,9 @@ air pollution; water pollution from industrial emissions, raw sewage; contaminat
 tropical; marine; rainy season during southwest monsoon (June to August); persistent and extensive cloudiness all year<br>
 
 **Land use**<br>
-_agricultural land_: 22% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 16.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.4% (2022 est.)<br>
+_agricultural land_: 22% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 16.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.4% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
 _forest_: 0% (2022 est.)<br>
 _other_: 78% (2022 est.)<br>
@@ -212,7 +212,7 @@ _etymology_: the name means "Northern Taiwan," from the Chinese words <em>tai </
 
 **Administrative divisions**<br>
 includes main island of Taiwan, plus smaller islands nearby and off coast of China's Fujian Province; Taiwan is divided into 13 counties (<em>xian</em>, singular and plural), 3 cities (<em>shi</em>, singular and plural), and 6 special municipalities directly under the jurisdiction of the Executive Yuan <br><br><strong>counties:</strong> Changhua, Chiayi, Hsinchu, Hualien, Kinmen, Lienchiang, Miaoli, Nantou, Penghu, Pingtung, Taitung, Yilan, Yunlin <br><br><strong>cities:</strong> Chiayi, Hsinchu, Keelung <br><br><strong>special municipalities:</strong> Kaohsiung (city), New Taipei (city), Taichung (city), Tainan (city), Taipei (city), Taoyuan (city)<br>
-<strong>note:</strong> Taiwan uses a variety of romanization systems; a modified Wade-Giles system still dominates, but the city of Taipei has adopted a Pinyin romanization for street and place names; other local authorities use different romanization systems<br>
+<strong>note:</strong> Taiwan uses a variety of romanization systems for names; a modified Wade-Giles system still dominates, but the city of Taipei has adopted a Pinyin romanization for street and place names; other local authorities use different romanization systems<br>
 
 **Legal system**<br>
 civil law system<br>
@@ -543,6 +543,9 @@ sounding rockets launched from Jui Peng Air Base (Pingtung); has announced inten
 
 **Space program overview**<br>
 has had a national space program since the early 1990s, with a focus on acquiring satellites and developing independent space capabilities, such as rocket manufacturing and satellite launch services; manufactures and operates satellites and sounding rockets; researching and developing other space technologies, including remote sensing, telecommunications, small satellites, satellite payloads and ground station components, spacecraft components, navigational control, and rocket propulsion systems; has bilateral relations with the space programs of France, India, Japan, Paraguay, Poland, the UK, and the US; has a commercial space industry that provides components and expertise for the Taiwan Space Agency and is independently developing satellites and a small satellite launch vehicle; the government passed a space promotion act in 2021 to encourage private investment in the space industry (2025)<br>
+
+**Key space-program milestones**<br>
+1997 - launched first sounding rocket<br><br>1999 - first scientific satellite (FORMOSAT-1) built and launched by the US<br><br>2004 - first remote sensing (RS) satellite (FORMOSAT-2) built by France and launched by US<br><br>2017 - first domestically built RS satellite (FORMOSAT-5) launched by US <br><br>2021 - initiated development of a commercial 3-stage, hybrid-engine rocket (Hapith-5)<br><br>2023 - first domestically made RS/meteorological satellite (FormoSat-7R/Triton) launched on European rocket<br>
 
 ## Transnational Issues
 

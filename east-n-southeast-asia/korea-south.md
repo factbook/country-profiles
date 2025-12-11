@@ -54,12 +54,12 @@ _mean elevation_: 282 m<br>
 coal, tungsten, graphite, molybdenum, lead, hydropower potential<br>
 
 **Land use**<br>
-_agricultural land_: 16.2% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 13.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.6% (2022 est.)<br>
-_forest_: 64.2% (2022 est.)<br>
-_other_: 19.6% (2022 est.)<br>
+_agricultural land_: 16.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 14.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.6% (2023 est.)<br>
+_forest_: 64.4% (2023 est.)<br>
+_other_: 19.5% (2023 est.)<br>
 
 **Irrigated land**<br>
 7,780 sq km (2012)<br>
@@ -196,13 +196,13 @@ _male_: 29.7% (2025 est.)<br>
 _female_: 5.2% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-0.3% (2020)<br>
+0.4% (2020 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 52.9% (2023 est.)<br>
 
 **Education expenditure**<br>
-4.9% of GDP (2021 est.)<br>
+5.8% of GDP (2022 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -227,12 +227,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate, with rainfall heavier in summer than winter; cold winters<br>
 
 **Land use**<br>
-_agricultural land_: 16.2% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 13.5% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.6% (2022 est.)<br>
-_forest_: 64.2% (2022 est.)<br>
-_other_: 19.6% (2022 est.)<br>
+_agricultural land_: 16.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 14.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 2.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.6% (2023 est.)<br>
+_forest_: 64.4% (2023 est.)<br>
+_other_: 19.5% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 81.5% of total population (2023)<br>
@@ -676,6 +676,9 @@ Naro Space Center (South Jeolla province) (2025)<br>
 
 **Space program overview**<br>
 has an ambitious space program focused on developing satellites, satellite launch vehicles (SLVs), and interplanetary probes; has a national space strategy; manufactures and operates satellites, including those with communications, remote sensing (RS), scientific, and multipurpose capabilities; manufactures and launches SLVs; developing interplanetary space vehicles, including orbital probes and landers; participates in international programs and works with an array of foreign space agencies and industries, including those of Australia, the ESA, individual ESA member states (particularly France, Germany, Italy, Spain, UK), India, Indonesia, Israel, Japan, Peru, Russia, UAE, and the US; has an active commercial space industry (2025)<br>
+
+**Key space-program milestones**<br>
+1992 - first domestically made technology-demonstrator satellite (KITSAT-1) launched on European rocket<br><br>1993-1998 - launched first single-stage sounding rocket (KSR-1) and first two-stage sounding rocket (KSR-2)<br><br>1999 - first domestically built multi-purpose satellite (KOMPSAT-1, aka Arirang-1) launched by US<br><br>2008 - first South Korean astronaut in space on International Space Station<br><br>2013 - first successful satellite launch of two-stage Korean Space Launch Vehicle-I (KSLV-I; aka Naro)<br><br>2021 - maiden launch of three-stage KSLV-II (aka Nuri); signed the US-led Artemis Accords for space and lunar exploration<br><br>2022 - first successful attempt to place satellites into orbit on the KSLV-II/Nuri; domestically made lunar orbiter (Danuri) reached Moon's orbit; began development of the Korea Positioning System (KPS) satellite navigational network<br><br>2024 - third successful launch of Nuri SLV placed eight small satellites in orbit, including a remote sensing satellite (NexSat-2) with radar imaging technology<br>
 
 ## Transnational Issues
 

@@ -133,9 +133,6 @@ _name_: West Island<br>
 _geographic coordinates_: 12 10 S, 96 50 E<br>
 _time difference_: UTC+6.5 (11.5 hours ahead of Washington, DC, during Standard Time)<br>
 
-**Administrative divisions**<br>
-none (territory of Australia)<br>
-
 **Legal system**<br>
 common law based on the Australian model<br>
 

@@ -158,7 +158,7 @@ _unimproved: total_: total: 0% of population (2022 est.)<br>
 40.7% (2023 est.)<br>
 
 **Education expenditure**<br>
-8.8% national budget (2023 est.)<br>
+8.6% national budget (2025 est.)<br>
 
 ## Environment
 
@@ -204,9 +204,6 @@ _geographic coordinates_: 36 08 N, 5 21 W<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
 _etymology_: from the Spanish derivation of the Arabic <em>jabal tariq</em>, which means "Mountain of Tariq" and refers to the Berber chief who captured the peninsula in A.D. 711<br>
-
-**Administrative divisions**<br>
-none (overseas territory of the UK)<br>
 
 **Legal system**<br>
 the laws of the UK apply<br>

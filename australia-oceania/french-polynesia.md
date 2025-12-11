@@ -50,12 +50,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 timber, fish, cobalt, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 14% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 7.5% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.8% (2022 est.)<br>
-_forest_: 43.1% (2022 est.)<br>
-_other_: 43% (2022 est.)<br>
+_agricultural land_: 8.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 7.5% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.5% (2023 est.)<br>
+_forest_: 43.1% (2023 est.)<br>
+_other_: 48.3% (2023 est.)<br>
 
 **Irrigated land**<br>
 10 sq km (2012)<br>
@@ -174,12 +174,12 @@ sea-level rise; cyclones, storms, and tsunamis producing floods, landslides, ero
 tropical, but moderate<br>
 
 **Land use**<br>
-_agricultural land_: 14% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.7% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 7.5% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 5.8% (2022 est.)<br>
-_forest_: 43.1% (2022 est.)<br>
-_other_: 43% (2022 est.)<br>
+_agricultural land_: 8.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.7% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 7.5% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.5% (2023 est.)<br>
+_forest_: 43.1% (2023 est.)<br>
+_other_: 48.3% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 62.3% of total population (2023)<br>

@@ -53,12 +53,12 @@ _mean elevation_: 800 m<br>
 petroleum, natural gas, iron ore, phosphates, uranium, lead, zinc<br>
 
 **Land use**<br>
-_agricultural land_: 17.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 3.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 13.8% (2022 est.)<br>
-_forest_: 0.8% (2022 est.)<br>
-_other_: 81.8% (2022 est.)<br>
+_agricultural land_: 17.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 3.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 13.8% (2023 est.)<br>
+_forest_: 0.7% (2023 est.)<br>
+_other_: 81.9% (2023 est.)<br>
 
 **Irrigated land**<br>
 13,819 sq km (2019)<br>
@@ -207,7 +207,7 @@ _male_: 41.6% (2025 est.)<br>
 _female_: 0.6% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-2.7% (2018/19)<br>
+2.7% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 56% (2023 est.)<br>
@@ -218,7 +218,7 @@ _women married by age 18_: 3.8% (2019)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 5.6% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 14.4% national budget (2024 est.)<br>
+_Education expenditure (% national budget)_: 15.5% national budget (2025 est.)<br>
 
 **Literacy**<br>
 _female_: 74.2% (2019 est.)<br>
@@ -241,12 +241,12 @@ _signed, but not ratified_: Nuclear Test Ban<br>
 arid to semiarid; mild, wet winters with hot, dry summers along coast; drier with cold winters and hot summers on high plateau; sirocco is a hot, dust/sand-laden wind especially common in summer<br>
 
 **Land use**<br>
-_agricultural land_: 17.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 3.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 13.8% (2022 est.)<br>
-_forest_: 0.8% (2022 est.)<br>
-_other_: 81.8% (2022 est.)<br>
+_agricultural land_: 17.4% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 3.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 13.8% (2023 est.)<br>
+_forest_: 0.7% (2023 est.)<br>
+_other_: 81.9% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 75.3% of total population (2023)<br>
@@ -675,6 +675,9 @@ none; note - in 1947, Algeria began hosting a French military rocket test site k
 
 **Space program overview**<br>
 has a national space policy and space research program with stated goals of supporting internal development, managing resources, mastering space technology, and reinforcing national sovereignty; builds and operates communications and remote sensing (RS) satellites; researching and developing a range of space-related capabilities, including satellites and satellite payloads, communications, RS, instrumentation, image processing, and geo-spatial information; works with a variety of foreign space agencies and industries, including Argentina, China, France, Germany, India, Russia, Slovenia, Ukraine, the UK, and other African countries; member of the African Space Agency and the Arab Space Coordination Group (2025)<br>
+
+**Key space-program milestones**<br>
+2002 - first remote sensing (RS) satellite (Alsat-1A) built jointly with the UK and launched by Russia<br><br>2006 - announced a national space program<br><br>2010 and 2016 - first Algerian-designed and -built RS satellites (Alsat-2A and 2B) launched by India<br><br>2017 - first communications satellite (Alcomsat-1) built jointly with and launched by China; announced a 2040 national space plan<br>
 
 ## Terrorism
 

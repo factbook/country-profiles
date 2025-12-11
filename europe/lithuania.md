@@ -51,12 +51,12 @@ _mean elevation_: 110 m<br>
 peat, arable land, amber<br>
 
 **Land use**<br>
-_agricultural land_: 46.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 36.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.3% (2022 est.)<br>
-_forest_: 35.2% (2022 est.)<br>
-_other_: 18.3% (2022 est.)<br>
+_agricultural land_: 45.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 36.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.5% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8.6% (2023 est.)<br>
+_forest_: 35.3% (2023 est.)<br>
+_other_: 18.8% (2023 est.)<br>
 
 **Irrigated land**<br>
 61 sq km (2020)<br>
@@ -203,7 +203,7 @@ _male_: 38% (2025 est.)<br>
 _female_: 16.7% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-2.5% (2021)<br>
+1.1% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
 53.4% (2023 est.)<br>
@@ -213,8 +213,8 @@ _women married by age 15_: 0% (2022)<br>
 _women married by age 18_: 0.2% (2022)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 4.3% of GDP (2021 est.)<br>
-_Education expenditure (% national budget)_: 12.7% national budget (2021 est.)<br>
+_Education expenditure (% GDP)_: 4.3% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 11.8% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years (2022 est.)<br>
@@ -234,12 +234,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 transitional, between maritime and continental; wet, moderate winters and summers<br>
 
 **Land use**<br>
-_agricultural land_: 46.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 36.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.3% (2022 est.)<br>
-_forest_: 35.2% (2022 est.)<br>
-_other_: 18.3% (2022 est.)<br>
+_agricultural land_: 45.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 36.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.5% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 8.6% (2023 est.)<br>
+_forest_: 35.3% (2023 est.)<br>
+_other_: 18.8% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 68.7% of total population (2023)<br>
@@ -335,7 +335,7 @@ _judge selection and term of office_: Supreme Court judges nominated by the pres
 _subordinate courts_: Court of Appeals; district and local courts<br>
 
 **Political parties**<br>
-Dawn of Nemunas or NA<br>Electoral Action of Poles in Lithuania or LLRA–KŠS<br>Freedom and Justice Party or LT (formerly Lithuanian Freedom Union (Liberals))<br>Freedom Party or LP<br>Homeland Union-Lithuanian Christian Democrats or TS-LKD<br>Labour Party or DP<br>Lithuanian Center Party or LCP<br>Lithuanian Christian Democracy Party or LKDP<br>Lithuanian Farmers and Greens Union or LVZS<br>Lithuanian Green Party or LZP<br>Liberals' Movement or LRLS<br>Lithuanian List or LL<br>Lithuanian Regions Party or LRP<br>Social Democratic Party of Lithuania or LSDP<br>Union of Democrats for Lithuania or DSVL<br>
+Center-Right Union or CDS<br>Dawn of Nemunas or PPNA<br>Electoral Action of Poles in Lithuania - Christian Families Alliance or LLRA–KŠS<br>Homeland Union or TS-LKD<br>Lithuanian Farmers and Greens Union or LVŽS<br>Liberals' Movement or LRLS<br>National Alliance or NS<br>Social Democratic Party of Lithuania or LSDP<br>Union of Democrats for Lithuania or DSVL<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Gediminas VARVUOLIS (since 5 September 2025)<br>

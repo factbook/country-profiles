@@ -53,12 +53,12 @@ _mean elevation_: 498 m<br>
 lignite, petroleum, iron ore, bauxite, lead, zinc, nickel, magnesite, marble, salt, hydropower potential<br>
 
 **Land use**<br>
-_agricultural land_: 44.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 14.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 22.3% (2022 est.)<br>
-_forest_: 30.3% (2022 est.)<br>
-_other_: 25.4% (2022 est.)<br>
+_agricultural land_: 41.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 14.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 19.2% (2023 est.)<br>
+_forest_: 36.9% (2023 est.)<br>
+_other_: 21.3% (2023 est.)<br>
 
 **Irrigated land**<br>
 12,191 sq km (2021)<br>
@@ -206,8 +206,8 @@ _female_: 24.6% (2025 est.)<br>
 54.1% (2023 est.)<br>
 
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 3.8% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 7.2% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 3.4% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 6.4% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 21 years (2022 est.)<br>
@@ -227,12 +227,12 @@ _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Multi-effe
 temperate; mild, wet winters; hot, dry summers<br>
 
 **Land use**<br>
-_agricultural land_: 44.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 14.1% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 22.3% (2022 est.)<br>
-_forest_: 30.3% (2022 est.)<br>
-_other_: 25.4% (2022 est.)<br>
+_agricultural land_: 41.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 14.4% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 19.2% (2023 est.)<br>
+_forest_: 36.9% (2023 est.)<br>
+_other_: 21.3% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 80.7% of total population (2023)<br>
@@ -660,7 +660,8 @@ the military's inventory consists of a mix of domestically produced and imported
 <strong>note 1: </strong>compulsory service applies to any individual whom the Greek authorities consider to be Greek, regardless of whether the individual considers himself Greek, has a foreign citizenship and passport, or was born or lives outside of Greece; Greek citizens living permanently outside of Greece have the right to postpone their conscription; they are permanently exempted from their military obligations when they reach the age of 45 years old<strong><br></strong><br><strong>note 2: </strong>as of 2023, women comprised nearly 17% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-approximately 1,000 Cyprus; 110 Kosovo (NATO); 120 Lebanon (UNIFIL) (2024)<br>
+approximately 1,000 Cyprus; 120 Kosovo (NATO); 130 Lebanon (UNIFIL) (2025)<br>
+<strong>note: </strong>Greece also has air and naval units deployed in support of NATO missions<br>
 
 **Military - note**<br>
 the Hellenic Armed Forces (HAF) are responsible for protecting Greece’s independence, sovereignty, and territorial integrity; the HAF also maintains a presence on Cyprus (the Hellenic Force in Cyprus or ELDYK) to assist and support the Cypriot National Guard; as a member of the EU, NATO, and other international organizations, the HAF participates in multinational peacekeeping and other security missions abroad, taking a particular interest in missions occurring in the near regions, such as the Balkans, the Mediterranean and Aegean seas, the Middle East, and North Africa; areas of focus for the HAF include instability in the Balkans, territorial disputes with Turkey, and support to European security through the EU and NATO<br><br>Greece’s NATO membership is a key component of its security; it became a NATO member in 1952 and occupies a strategic location in the Eastern Mediterranean on NATO’s southern flank; Greece is host to several NATO facilities, including the Deployable Corps Greece (NDC-GR) headquarters in Thessaloniki, the Combined Air Operations Center in Larissa, the Multinational Peace Support Operations Training Center in Kilkis, the Multinational Sealift Coordination Center in Athens, and the Naval Base, Maritime Interdiction Operational Training Centre, and NATO Missile Firing Installation at Souda, Crete (2025)<br>
@@ -672,6 +673,9 @@ Hellenic Space Center (HSC; aka Hellenic Space Agency; established 2018) (2025)<
 
 **Space program overview**<br>
 focuses on building and operating satellites for communications and remote sensing (RS); researches and develops space-related technologies in a variety of sectors, including agriculture, defense, environmental studies, RS, and telecommunications; contributes to and participates in ESA capabilities and programs; also participates in EU space programs and cooperates bilaterally with European and US space agencies and commercial space sectors; has a commercial space sector that researches, develops, and produces a variety of space technologies and capabilities (2025)<br>
+
+**Key space-program milestones**<br>
+1994 - signed first cooperation agreement with the ESA<br><br>2005 - first satellite (Hellas-Sat) for a domestic telecommunications satellite network launched by US; joined ESA (became member state in 2011)<br><br>2017 - first domestically manufactured communications satellite (UPSat) released from International Space Station<br><br>2019 - began participating in ESA’s quantum communications infrastructure (EuroQCI or “fiber in the sky”) and the US Gateway Lunar orbital/landing programs<br><br>2021 - launched ESA-assisted national program to develop, manufacture, launch, and operate small satellites <br><br>2024 - signed US-led Artemis Accords for space and Moon exploration<br><br>2025 - launched demonstrator/experimental RS cube satellite (DUTHSat-2) under ESA-assisted national small satellite program<br>
 
 ## Terrorism
 

@@ -53,12 +53,12 @@ _mean elevation_: 514 m<br>
 petroleum, phosphates, chrome and manganese ores, asphalt, iron ore, rock salt, marble, gypsum, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 73.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 23.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 44.1% (2022 est.)<br>
-_forest_: 2.8% (2022 est.)<br>
-_other_: 23.7% (2022 est.)<br>
+_agricultural land_: 74.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 24% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 44.5% (2023 est.)<br>
+_forest_: 2.9% (2023 est.)<br>
+_other_: 23% (2023 est.)<br>
 
 **Irrigated land**<br>
 9,820 sq km (2022)<br>
@@ -205,9 +205,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 52.6% (2023 est.)<br>
 
 **Literacy**<br>
-_total population_: 94% (2021 est.)<br>
-_male_: 97% (2021 est.)<br>
-_female_: 92% (2021 est.)<br>
+_total population_: 94.4% (2021 est.)<br>
+_male_: 97.2% (2021 est.)<br>
+_female_: 91.8% (2021 est.)<br>
 
 ## Environment
 
@@ -222,12 +222,12 @@ _signed, but not ratified_: Environmental Modification<br>
 mostly desert; hot, dry, sunny summers (June to August) and mild, rainy winters (December to February) along coast; cold weather with snow or sleet periodically in Damascus<br>
 
 **Land use**<br>
-_agricultural land_: 73.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 23.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 5.6% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 44.1% (2022 est.)<br>
-_forest_: 2.8% (2022 est.)<br>
-_other_: 23.7% (2022 est.)<br>
+_agricultural land_: 74.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 24% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 5.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 44.5% (2023 est.)<br>
+_forest_: 2.9% (2023 est.)<br>
+_other_: 23% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 57.4% of total population (2023)<br>
@@ -620,6 +620,9 @@ Syrian Space Agency (created in 2014); status is unclear since the fall of the A
 
 **Space program overview**<br>
 status unclear; has been handicapped by the impact of the civil war, including the loss of students and scientists who fled the country; had previously focused on satellite development and related space technologies, as well as scientific research; has relations with the space agency and space industries of Russia (2024)<br>
+
+**Key space-program milestones**<br>
+1987 - first and only Syrian astronaut into space as part of a Soviet-crewed mission to the Mir Space Station under the Intercosmos program<br><br>2016 - signed a scientific cooperation agreement in the field of space technology and remote sensing with Russia<br><br>2018 - announced that developing a satellite would be a primary goal of the space program<br>
 
 ## Terrorism
 
