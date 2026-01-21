@@ -92,7 +92,7 @@ Portuguese 95%; citizens from Portugal&rsquo;s former colonies in Africa, Asia (
 Portuguese (official), Mirandese (official, but locally used)<br>
 
 **Religions**<br>
-Roman Catholic 79.7%, Protestant 2.2%, other Christian 2.5%, other non-Christian, 1.1%, none 14.5% (2021 est.)<br>
+Catholic 68.1%, not applicable 12.9%, no religion 12.0%, no response 2.2%, Protestant 1.8%, other 1.0%; less than 1%: other Christians, Orthodox, Muslim (2021 est.)<br>
 <strong>note:</strong> data represent population 15 years of age and older<br>
 
 **Age structure**<br>
@@ -107,21 +107,21 @@ _elderly dependency ratio_: 34.3 (2024 est.)<br>
 _potential support ratio_: 2.9 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 46.4 years (2024 est.)<br>
+_total_: 46.8 years (2025 est.)<br>
 _male_: 44.3 years<br>
 _female_: 48.3 years<br>
 
 **Population growth rate**<br>
--0.14% (2024 est.)<br>
+-0.11% (2025 est.)<br>
 
 **Birth rate**<br>
-8 births/1,000 population (2024 est.)<br>
+8.03 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-10.9 deaths/1,000 population (2024 est.)<br>
+10.92 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-1.5 migrant(s)/1,000 population (2024 est.)<br>
+1.78 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 concentrations are primarily along or near the Atlantic coast; both Lisbon and the second largest city, Porto, are coastal cities<br>
@@ -147,7 +147,7 @@ _total population_: 0.9 male(s)/female (2024 est.)<br>
 15 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 2.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 2.8 deaths/1,000 live births<br>
 _female_: 2.1 deaths/1,000 live births<br>
 
@@ -157,10 +157,10 @@ _male_: 78.8 years<br>
 _female_: 85.2 years<br>
 
 **Total fertility rate**<br>
-1.45 children born/woman (2024 est.)<br>
+1.46 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.71 (2024 est.)<br>
+0.71 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.9% of population (2022 est.)<br>
@@ -207,7 +207,7 @@ _female_: 15.9% (2025 est.)<br>
 0.9% (2016 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-52.6% (2023 est.)<br>
+50.6% (2021 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.6% of GDP (2022 est.)<br>
@@ -648,15 +648,13 @@ Portuguese Armed Forces (Forças Armadas Portuguesa): Portuguese Army (Exercito 
 approximately 25,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes mostly European- and US-origin weapons systems along with a smaller mix of domestically produced equipment; in recent years, leading foreign suppliers have included Germany and the US; Portugal's defense industry is noted for its shipbuilding (2024)<br>
-<strong>note: </strong>in 2023, Portugal announced a modernization program that included the acquisition of land, naval, air, cyber security, and space capabilities, as well as emerging disruptive technologies<br>
+the military's inventory includes mostly European- and US-origin weapons systems along with smaller amounts of domestically produced equipment; Portugal's defense industry is noted for its shipbuilding (2025)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary or contract military service; no compulsory military service (abolished 2004) but conscription possible if insufficient volunteers available; women serve in the armed forces but are prohibited from serving in some combatant specialties; contract service lasts for an initial period of 2-6 years, and can be extended to a maximum of 20 years of service; initial voluntary military service lasts 12 months; reserve obligation to age 35 (2023)<br>
-<strong>note: </strong>as of 2023, women made up about 14% of the military's full-time personnel<br>
+18-30 years of age for voluntary or contract military service for men and women (upper age limit varies by military branch, position, role); no compulsory military service (abolished 2004) but conscription possible if insufficient volunteers available; contract service lasts for an initial period of 2-6 years, and can be extended to a maximum of 20 years of service; initial voluntary military service lasts 12 months; reserve obligation to age 35 (2025)<br>
 
 **Military deployments**<br>
-the Portuguese Armed Forces have more than 1,100 military personnel deployed around the world engaged in missions supporting the EU, NATO, the UN, and partner nations; key deployments include 225 troops in the Central African Republic (MINUSCA), approximately 200 in Lithuania (NATO), and approximately 150 in Romania (NATO); it also participates in NATO air policing and maritime patrolling operations (2024)<br>
+the Portuguese Armed Forces have more than 1,100 military personnel deployed around the world engaged in missions supporting the EU, NATO, the UN, and partner nations; key deployments include 225 troops in the Central African Republic under the UN and about 350 troops supporting NATO's forward presence in Lithuania and Romania; it also participates in NATO air policing and maritime patrolling operations (2025)<br>
 
 **Military - note**<br>
 the Portuguese military is responsible for external defense, humanitarian operations, and fulfilling Portugal’s commitments to European and international security; maritime security has long been a key component of the military's portfolio, and Portugal has one of the world's oldest navies<br><br>Portugal was one of the original signers of the North Atlantic Treaty (also known as the Washington Treaty) in 1949 establishing NATO, and the Alliance forms a key pillar of Portugal’s defense policy; Portugal is also a signatory of the EU’s Common Security and Defense Policy, and it regularly participates in a variety of EU and NATO, as well as UN deployments around the world; the military’s largest commitments include air, ground, and naval forces under NATO-led missions and standing task forces in the Baltics, Eastern Europe, and the Mediterranean Sea; the military also participates in exercises with NATO partners (2025)<br>
@@ -673,7 +671,7 @@ in August 2025, Portugal granted a license to a commercial consortium to build a
 largely focuses on the acquisition and operation of satellites; researches and develops a range of space-related technologies with an emphasis on small satellites for remote sensing (RS), navigational, science/technology, and telecommunications, as well as satellite launch services; space program is integrated with the ESA and involved in a variety of ESA and EU space programs; works with the space agencies and industries of a range of countries, including Algeria, Angola, Brazil, China, India, Japan, Morocco, South Korea, and the US; also cooperates with international organizations and projects such as the Europe South Observatory and the Square Kilometer Array; one of the objectives of the country's national space strategy is to expand its commercial space sector (2025)<br>
 
 **Key space-program milestones**<br>
-1993 - first technology demonstrator microsatellite (PoSat-1) launched on a European rocket<br><br>2000 - joined the ESA<br><br>2020 - launched strategic plan for space development (Portugal Space 2030), which included building a spaceport, developing a reusable rocket/satellite launch vehicle, growing the country's domestic commercial space sector, and establishing an Earth observation/remote sensing satellite constellation<br><br>2024 - first Portuguese communications satellite (PoSat-2) launched by US as part of a planned constellation of 12 ocean-monitoring/maritime communication satellites<br>
+1993 - first technology demonstrator microsatellite (PoSat-1) launched on a European rocket<br><br>2000 - joined the ESA<br><br>2020 - launched strategic plan for space development (Portugal Space 2030), which included building a spaceport, developing a reusable rocket/satellite launch vehicle, growing the country's domestic commercial space sector, and establishing an Earth observation/remote sensing satellite constellation<br><br>2024 - first Portuguese communications satellite (PoSat-2) launched by US as part of a planned constellation of 12 ocean-monitoring/maritime communication satellites<br><br>2026 - signed US-led Artemis Accords outlining best practices for responsible space exploration<br>
 
 ## Terrorism
 

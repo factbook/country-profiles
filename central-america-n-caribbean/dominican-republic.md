@@ -111,21 +111,21 @@ _elderly dependency ratio_: 11.4 (2024 est.)<br>
 _potential support ratio_: 8.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 29.2 years (2024 est.)<br>
+_total_: 29.6 years (2025 est.)<br>
 _male_: 29.1 years<br>
 _female_: 29.4 years<br>
 
 **Population growth rate**<br>
-0.76% (2024 est.)<br>
+0.78% (2025 est.)<br>
 
 **Birth rate**<br>
-17.3 births/1,000 population (2024 est.)<br>
+17.4 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.1 deaths/1,000 population (2024 est.)<br>
+6.97 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--2.7 migrant(s)/1,000 population (2024 est.)<br>
+-2.63 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 coastal development is significant, especially in the southern coastal plains and the Cibao Valley, where population density is highest; smaller population clusters exist in the interior mountains (Cordillera Central)<br>
@@ -152,7 +152,7 @@ _total population_: 1.02 male(s)/female (2024 est.)<br>
 124 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 21.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 20.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 24.3 deaths/1,000 live births<br>
 _female_: 19 deaths/1,000 live births<br>
 
@@ -162,10 +162,10 @@ _male_: 71 years<br>
 _female_: 74.3 years<br>
 
 **Total fertility rate**<br>
-2.15 children born/woman (2024 est.)<br>
+2.17 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.06 (2024 est.)<br>
+1.06 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 97.8% of population (2022 est.)<br>
@@ -212,7 +212,7 @@ _female_: 5.9% (2025 est.)<br>
 3% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-52.1% (2023 est.)<br>
+53.2% (2019 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 9.4% (2019)<br>
@@ -608,8 +608,8 @@ _total subscriptions_: 1.144 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 10 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10.4 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 90 (2022 est.)<br>
+_total subscriptions_: 10,409,800 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 94 (2024 est.)<br>
 
 **Broadcast media**<br>
 combination of state-owned and privately owned broadcast media; 1 state-owned TV network and a number of private TV networks; networks operate repeaters to extend signals throughout country; over 300 state-owned and privately owned radio stations&nbsp; (2019)<br>
@@ -658,7 +658,7 @@ _key ports_: Andres (Andres Lng Terminal), Las Calderas, Puerto de Haina, Puerto
 
 **Military and security forces**<br>
 Armed Forces of the Dominican Republic: Army of the Dominican Republic (Ejercito de la República Dominicana, ERD), Navy (Armada de República Dominicana or ARD; includes naval infantry), Dominican Air Force (Fuerza Aerea de la República Dominicana, FARD) (2025)<br>
-<strong>note 1:</strong> in addition to the three main branches of the military, the Ministry of Defense directs the Specialized Border Security Corps (CESFRONT), the Specialized Corps in Port Security (CESEP), and the Specialized Corps in Airport and Civil Aviation Safety (CESAC); these specialized corps are joint forces, made up of personnel from all military branches in addition to civilian personnel; they may also assist in overall citizen security working together with the National Police, which is under the Ministry of Interior<br>
+<strong>note 1:</strong> in addition to the three main branches of the military, the Ministry of Defense directs the Specialized Border Security Corps (CESFRONT), the Specialized Corps in Port Security (CESEP), and the Specialized Corps in Airport and Civil Aviation Safety (CESAC); these specialized corps are joint forces, made up of civilians and personnel from all the military branches; they may also assist in overall citizen security working together with the National Police, which is under the Ministry of Interior<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2024 est.)<br>
@@ -671,11 +671,11 @@ Armed Forces of the Dominican Republic: Army of the Dominican Republic (Ejercito
 approximately 55-60,000 Armed Forces; up to 35,000 National Police (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's equipment inventory comes largely from the US, with smaller quantities from such suppliers as Brazil and Spain (2024)<br>
+the military's equipment inventory comes largely from the US, with smaller quantities from such suppliers as Brazil and Spain (2025)<br>
 
 **Military service age and obligation**<br>
-16-23 years of age for voluntary military service for men and women (ages vary slightly according to the military service; under 18 admitted with permission of parents); recruits must have completed primary school and be Dominican Republic citizens (2024)<br>
-<strong>note:</strong> as of 2023, women made up approximately 18% of the active duty military<br>
+17-early 20s for voluntary military service for men and women (ages vary depending on military service and position; under 18 admitted with permission of parents) (2025)<br>
+<strong>note:</strong> as of 2024, women made up approximately 17% of the active-duty military<br>
 
 **Military - note**<br>
 the military is responsible for defending the independence, integrity, and sovereignty of the Dominican Republic; it also has an internal security role, which includes assisting with airport, border, port, tourism, and urban security, supporting the police in maintaining or restoring public order, countering transnational crime, and providing disaster or emergency relief/management; a key area of focus is securing the country&rsquo;s 217-mile (350-kilometer) long border with Haiti, where the Army in recent years has assigned thousands of troops to assist with security; these forces complement the personnel of the Border Security Corps permanently deployed along the border; the Air Force and Navy also provide support to the Haitian border mission; the Army has a brigade dedicated to managing and providing relief during natural disasters; the military also contributes personnel to the National Drug Control Directorate, and both the Air Force and Navy devote assets to detecting and interdicting narcotics trafficking; the Navy conducts regular bilateral maritime interdiction exercises with the US Navy (2025)<br>

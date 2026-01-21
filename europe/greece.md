@@ -106,21 +106,21 @@ _elderly dependency ratio_: 37.8 (2024 est.)<br>
 _potential support ratio_: 2.6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 46.5 years (2024 est.)<br>
+_total_: 46.8 years (2025 est.)<br>
 _male_: 44.6 years<br>
 _female_: 48.3 years<br>
 
 **Population growth rate**<br>
--0.35% (2024 est.)<br>
+-0.35% (2025 est.)<br>
 
 **Birth rate**<br>
-7.4 births/1,000 population (2024 est.)<br>
+7.38 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-12 deaths/1,000 population (2024 est.)<br>
+11.99 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-1.1 migrant(s)/1,000 population (2024 est.)<br>
+1.1 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 one third of the population lives in and around metropolitan Athens; the remainder of the country has moderate population density mixed with sizeable urban clusters<br>
@@ -146,7 +146,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 5 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 3.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 3.8 deaths/1,000 live births<br>
 _female_: 3 deaths/1,000 live births<br>
 
@@ -156,10 +156,10 @@ _male_: 79.4 years<br>
 _female_: 84.6 years<br>
 
 **Total fertility rate**<br>
-1.41 children born/woman (2024 est.)<br>
+1.42 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.68 (2024 est.)<br>
+0.69 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -203,7 +203,7 @@ _male_: 30.3% (2025 est.)<br>
 _female_: 24.6% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-54.1% (2023 est.)<br>
+52.4% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.4% of GDP (2022 est.)<br>
@@ -592,8 +592,8 @@ _total subscriptions_: 4.962 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 48 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11.3 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 109 (2022 est.)<br>
+_total subscriptions_: 11,348,300 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 114 (2024 est.)<br>
 
 **Broadcast media**<br>
 broadcast media dominated by the private sector; roughly 150 private TV channels, about 10 of which broadcast nationwide; 1 state-owned terrestrial TV channel with national coverage; 3 privately owned satellite channels; multi-channel satellite and cable TV services available; over 1,500 radio stations, all privately owned; state-owned broadcaster has 2 national radio stations<br>
@@ -652,12 +652,12 @@ Hellenic Armed Forces (HAF; Ellinikes Enoples Dynamis, EED): Hellenic Army (Elli
 approximately 112,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of a mix of domestically produced and imported weapons and equipment from Europe and the US; in recent years, France, Germany, and the US have been major suppliers; Greece's defense industry is capable of producing a range of military hardware, including naval vessels and associated subsystems (2024)<br>
+the military's inventory consists of a mix of domestically produced and imported armaments from Europe and the US; in recent years, France, Germany, the UK, and the US have been major suppliers of weapons systems; Greece's defense industry is capable of producing a range of military hardware, including naval vessels and associated subsystems (2025)<br>
 <strong>note:</strong> Greece is in the midst of a military modernization program which includes acquisitions of fighter aircraft and naval ships from France and armored vehicles and tanks from Germany; it has also boosted purchases of US equipment, including fighter aircraft upgrades, helicopters, and naval patrol craft<br>
 
 **Military service age and obligation**<br>
-19-45 years of age for compulsory military service for men; 12-month obligation for all services (note - as an exception, the duration of the full military service is 9 instead of 12 months if conscripts, after the initial training, serve the entire remaining time in certain areas of the eastern borders, in Cyprus, or in certain military units); 18 years of age for voluntary military service for men and women (2023)<br>
-<strong>note 1: </strong>compulsory service applies to any individual whom the Greek authorities consider to be Greek, regardless of whether the individual considers himself Greek, has a foreign citizenship and passport, or was born or lives outside of Greece; Greek citizens living permanently outside of Greece have the right to postpone their conscription; they are permanently exempted from their military obligations when they reach the age of 45 years old<strong><br></strong><br><strong>note 2: </strong>as of 2023, women comprised nearly 17% of the military's full-time personnel<br>
+18 years of age for voluntary military service for men and women; all Greek men 19-45 are subject to compulsory military service; 12-month obligation for all services (note - as an exception, the duration of the full military service is 9 instead of 12 months if conscripts, after the initial training, serve the entire remaining time in certain areas of the eastern borders, in Cyprus, or in certain military units)  (2026)<br>
+<strong>note 1: </strong>in July 2025, the Greek Government unveiled several defense reforms which went into effect on 1 January 2026, including abolishing mandatory military service for the Air Force and Navy, with exceptions only for specialized roles such as aircraft engineers and ship captains; all conscripts are to be classified exclusively into the Army; ground forces will also take over facility security duties previously managed by the other branches<strong><br></strong><br><strong>note 2: </strong>as of 2025, women comprised about 17% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 approximately 1,000 Cyprus; 120 Kosovo (NATO); 130 Lebanon (UNIFIL) (2025)<br>

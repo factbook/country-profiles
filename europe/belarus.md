@@ -109,21 +109,21 @@ _elderly dependency ratio_: 27 (2024 est.)<br>
 _potential support ratio_: 3.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 42.1 years (2024 est.)<br>
+_total_: 42.5 years (2025 est.)<br>
 _male_: 39.5 years<br>
 _female_: 45 years<br>
 
 **Population growth rate**<br>
--0.42% (2024 est.)<br>
+-0.44% (2025 est.)<br>
 
 **Birth rate**<br>
-8.3 births/1,000 population (2024 est.)<br>
+8.16 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-13.3 deaths/1,000 population (2024 est.)<br>
+13.21 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0.8 migrant(s)/1,000 population (2024 est.)<br>
+0.67 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -149,7 +149,7 @@ _total population_: 0.88 male(s)/female (2024 est.)<br>
 1 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 2.1 deaths/1,000 live births (2025 est.)<br>
 _male_: 2.5 deaths/1,000 live births<br>
 _female_: 1.7 deaths/1,000 live births<br>
 
@@ -159,10 +159,10 @@ _male_: 69.8 years<br>
 _female_: 80 years<br>
 
 **Total fertility rate**<br>
-1.45 children born/woman (2024 est.)<br>
+1.45 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.7 (2024 est.)<br>
+0.7 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.5% of population (2022 est.)<br>
@@ -206,7 +206,7 @@ _male_: 44.5% (2025 est.)<br>
 _female_: 11.6% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-66.6% (2023 est.)<br>
+62.4% (2019 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.1% (2019)<br>
@@ -614,8 +614,8 @@ _total subscriptions_: 4.173 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 46 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11.8 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 123 (2022 est.)<br>
+_total subscriptions_: 11,757,300 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 131 (2024 est.)<br>
 
 **Broadcast media**<br>
 7 state-controlled national TV channels; Polish and Russian TV broadcasts are available in some areas; state-run Belarusian Radio operates 5 national networks and an external service; Russian and Polish radio broadcasts are available (2019)<br>
@@ -667,10 +667,10 @@ Belarus Armed Forces: Army, Air and Air Defense Force, Special Operations Force,
 approximately 50-60,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised mostly of Russian and Soviet-origin equipment; Belarus's defense industry manufactures some equipment (mostly modernized Soviet designs), including vehicles, guided weapons, and electronic warfare systems (2024)<br>
+the military's inventory is comprised mostly of Russian and Soviet-origin equipment; Belarus's defense industry manufactures some equipment (mostly modernized Soviet designs), including vehicles, guided weapons, and electronic warfare systems (2025)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory military or alternative service; conscript service obligation is 12-18 months, depending on academic qualifications, and 24-36 months for alternative service, also depending on academic qualifications; 17-year-olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel (2023)<br>
+18-27 years of age for compulsory military or alternative service; conscript service obligation is 12-18 months, depending on academic qualifications, and 24-36 months for alternative service; 17-year-olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel (2025)<br>
 <strong>note:</strong> conscripts can be assigned to the military, to the Ministry of Interior, or to the Ministry of Labor and Social Protection (alternative service)<br>
 
 **Military - note**<br>

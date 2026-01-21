@@ -103,21 +103,21 @@ _elderly dependency ratio_: 12.1 (2024 est.)<br>
 _potential support ratio_: 8.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 27.8 years (2024 est.)<br>
+_total_: 28.1 years (2025 est.)<br>
 _male_: 26.8 years<br>
 _female_: 28.8 years<br>
 
 **Population growth rate**<br>
-0.78% (2024 est.)<br>
+0.75% (2025 est.)<br>
 
 **Birth rate**<br>
-22 births/1,000 population (2024 est.)<br>
+21.57 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.8 deaths/1,000 population (2024 est.)<br>
+7.78 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--6.3 migrant(s)/1,000 population (2024 est.)<br>
+-6.26 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 over half of the population resides on the atoll of Funafuti<br>
@@ -140,7 +140,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 170 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 27.8 deaths/1,000 live births (2024 est.)<br>
+_total_: 27.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 31.3 deaths/1,000 live births<br>
 _female_: 24 deaths/1,000 live births<br>
 
@@ -150,10 +150,10 @@ _male_: 66.5 years<br>
 _female_: 71.6 years<br>
 
 **Total fertility rate**<br>
-2.78 children born/woman (2024 est.)<br>
+2.76 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.36 (2024 est.)<br>
+1.34 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99% of population (2022 est.)<br>
@@ -197,7 +197,7 @@ _female_: 18.1% (2025 est.)<br>
 2.9% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-66.1% (2023 est.)<br>
+64.2% (2020 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0% (2020)<br>
@@ -502,7 +502,7 @@ _key ports_: Funafuti Atoll<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Tuvalu Police Force (2025)<br>
+no regular military forces; Tuvalu Police Force<br>
 
 **Military - note**<br>
 as part of the Falepili Union treaty between Australia and Tuvalu, which entered into force in August 2024, Australia committed to assist Tuvalu in response to a major natural disaster, health pandemic, or military aggression; Tuvalu pledged to mutually agree with Australia any partnership, arrangement, or engagement with any other State or entity on security and defense-related matters in Tuvalu<br><br>Tuvalu has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Tuvalu's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>

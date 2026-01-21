@@ -104,21 +104,21 @@ _elderly dependency ratio_: 6.5 (2024 est.)<br>
 _potential support ratio_: 15.4 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 21.9 years (2024 est.)<br>
+_total_: 22 years (2025 est.)<br>
 _male_: 21.6 years<br>
 _female_: 22.1 years<br>
 
 **Population growth rate**<br>
-2.07% (2024 est.)<br>
+2.03% (2025 est.)<br>
 
 **Birth rate**<br>
-27.8 births/1,000 population (2024 est.)<br>
+27.24 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-3.3 deaths/1,000 population (2024 est.)<br>
+3.2 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--3.8 migrant(s)/1,000 population (2024 est.)<br>
+-3.71 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the most populous Palestinian communities in the West Bank are located in the central ridge and western half of its territory; Jewish settlements are located throughout the West Bank, the most populous in the Seam Zone -- between the 1949 Armistice Line and the separation barrier -- and around Jerusalem<br>
@@ -140,7 +140,7 @@ _total population_: 1.03 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Infant mortality rate**<br>
-_total_: 15.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 14.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 17.5 deaths/1,000 live births<br>
 _female_: 12.6 deaths/1,000 live births<br>
 
@@ -150,10 +150,10 @@ _male_: 74.4 years<br>
 _female_: 78.8 years<br>
 
 **Total fertility rate**<br>
-3.49 children born/woman (2024 est.)<br>
+3.44 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.69 (2024 est.)<br>
+1.67 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98% of population (2022 est.)<br>
@@ -187,7 +187,7 @@ _unimproved: total_: total: 0.2% of population (2022 est.)<br>
 <strong>note:</strong> estimate is for Gaza Strip and the West Bank<br>
 
 **Currently married women (ages 15-49)**<br>
-62.4% (2023 est.)<br>
+62.4% (2020 est.)<br>
 <strong>note:</strong> data includes Gaza and the West Bank<br>
 
 **Child marriage**<br>
@@ -493,9 +493,6 @@ not available<br>
 
 **Military and security service personnel strengths**<br>
 the PA police and security forces have approximately 28,000 active personnel, including about 11,500 National Security Forces (2024)<br>
-
-**Military equipment inventories and acquisitions**<br>
-the security services are lightly equipped with small arms, light weapons, and wheeled vehicles (2024)<br>
 
 **Military - note**<br>
 Palestinian Authority security forces maintain security control of 17.5% (called Area A) of the West Bank, as agreed by the Palestine Liberation Organization and Israel in the Oslo Accords, although Israeli security forces frequently conducted security operations there; Israeli security forces maintain responsibility for the remaining 82.5% of the West Bank, including Area B (22.5%), where the Palestinian Authority has administrative control, and Area C (60%), where Israel maintains administrative control (2024)<br>

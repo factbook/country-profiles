@@ -112,21 +112,21 @@ _elderly dependency ratio_: 4.7 (2024 est.)<br>
 _potential support ratio_: 21.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 21.2 years (2024 est.)<br>
+_total_: 20 years (2025 est.)<br>
 _male_: 21.2 years<br>
 _female_: 21.2 years<br>
 
 **Population growth rate**<br>
-2.13% (2024 est.)<br>
+2.33% (2025 est.)<br>
 
 **Birth rate**<br>
-27.5 births/1,000 population (2024 est.)<br>
+29.87 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.3 deaths/1,000 population (2024 est.)<br>
+6.93 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-1.1 migrant(s)/1,000 population (2024 est.)<br>
+0.39 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the population is primarily located in the forested south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the northern savanna remains sparsely populated, with higher concentrations located along transportation corridors, as shown in this population distribution map<br>
@@ -153,7 +153,7 @@ _total population_: 1.01 male(s)/female (2024 est.)<br>
 359 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 52.5 deaths/1,000 live births (2024 est.)<br>
+_total_: 52.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 59.5 deaths/1,000 live births<br>
 _female_: 45.2 deaths/1,000 live births<br>
 
@@ -163,10 +163,10 @@ _male_: 60.9 years<br>
 _female_: 65.4 years<br>
 
 **Total fertility rate**<br>
-3.4 children born/woman (2024 est.)<br>
+3.85 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.67 (2024 est.)<br>
+1.9 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 86.2% of population (2022 est.)<br>
@@ -210,7 +210,7 @@ _female_: 0.6% (2025 est.)<br>
 13.6% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-60.3% (2023 est.)<br>
+62.7% (2021 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 7.4% (2021)<br>
@@ -605,8 +605,8 @@ _total subscriptions_: 244,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 53.6 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 174 (2022 est.)<br>
+_total subscriptions_: 53,601,500 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 184 (2024 est.)<br>
 
 **Broadcast media**<br>
 state-controlled Radiodiffusion T&eacute;l&eacute;vision Ivoirienne (RTI) is made up of 2 radio stations (Radio Cote d'Ivoire and Fr&eacute;quence2) and 2 TV stations (RTI1 and RTI2) with nationwide coverage, broadcasting mainly in French; 178 proximity radio stations, 16 religious radio stations, 5 commercial radio stations, and 5 international radio stations; government now runs radio station UNOCIFM, previously owned by the UN Operation in Cote d'Ivoire; in 2016, 4 media companies were granted licenses: Live TV, Optimum Media Cote d'Ivoire, the Audiovisual Company of Cote d'Ivoire (Sedaci), and Sorano-CI (2019)<br>
@@ -667,13 +667,14 @@ Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republi
 approximately 25-30,000 active FACI, including Gendarmerie personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the FACI consists mostly of older or second-hand equipment, typically of French or Soviet-era origin; Cote d'Ivoire was under a partial UN arms embargo from 2004 to 2016; in recent years it has received some new and secondhand equipment from a variety of suppliers, including Bulgaria, China, France, South Africa, and Turkey (2024)<br>
+the inventory of the FACI consists mostly of older or secondhand armaments, typically of French or Soviet-era origin; in recent years, it has received small quantities of newer and secondhand equipment from a variety of suppliers, including Bulgaria, China, France, Israel, South Africa, and the US (2025)<br>
+<strong>note:</strong> Cote d'Ivoire was under a partial UN arms embargo from 2004 to 2016<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for compulsory and voluntary military service for men and women; conscription is reportedly not enforced (2023)<br>
+18-26 (up to 35 for healthcare professionals) years of age for voluntary military service for men and women; conscription is authorized but reportedly not enforced (2025)<br>
 
 **Military deployments**<br>
-180 Central African Republic (MINUSCA) (2024)<br>
+180 Central African Republic (MINUSCA) (2025)<br>
 
 **Military - note**<br>
 the military (FACI) is responsible for external defense but also has a considerable internal role supporting the National Gendarmerie and other internal security forces; key areas of focus for the FACI are the country's porous international borders and the threat posed by Islamic militants associated with the al-Qa’ida in the Islamic Maghreb (AQIM) terrorist group operating across the border in Burkina Faso and Mali; AQIM militants conducted attacks in the country in 2016 and 2020; Côte d’Ivoire since 2016 has stepped up border security and completed building a joint counter-terrorism training center with France near Abidjan in 2020; Cote d'Ivoire has long maintained a close security relationship with France <br><br>the FACI has mutinied several times since the late 1990s, most recently in 2017, and has had a large role in the country’s political turmoil; it was established in 1960 from home defense units the French colonial government began standing up in 1950 (2025)<br>

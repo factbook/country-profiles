@@ -96,21 +96,21 @@ _elderly dependency ratio_: 27.9 (2024 est.)<br>
 _potential support ratio_: 3.6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 36.8 years (2024 est.)<br>
+_total_: 37.1 years (2025 est.)<br>
 _male_: 36.2 years<br>
 _female_: 37.5 years<br>
 
 **Population growth rate**<br>
-0.17% (2024 est.)<br>
+0.16% (2025 est.)<br>
 
 **Birth rate**<br>
-13.7 births/1,000 population (2024 est.)<br>
+13.55 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.7 deaths/1,000 population (2024 est.)<br>
+8.71 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--3.2 migrant(s)/1,000 population (2024 est.)<br>
+-3.23 migrant(s)/1,000 population (2025 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
@@ -127,7 +127,7 @@ _65 years and over_: 0.93 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6 deaths/1,000 live births (2024 est.)<br>
+_total_: 5.9 deaths/1,000 live births (2025 est.)<br>
 _male_: 6.8 deaths/1,000 live births<br>
 _female_: 5.2 deaths/1,000 live births<br>
 
@@ -137,10 +137,10 @@ _male_: 78.1 years<br>
 _female_: 83.8 years<br>
 
 **Total fertility rate**<br>
-1.89 children born/woman (2024 est.)<br>
+1.88 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.92 (2024 est.)<br>
+0.92 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -153,9 +153,6 @@ _improved: urban_: urban: 100% of population (2022 est.)<br>
 _improved: total_: total: 100% of population (2022 est.)<br>
 _unimproved: urban_: urban: 0% of population (2022 est.)<br>
 _unimproved: total_: total: 0% of population (2022 est.)<br>
-
-**Currently married women (ages 15-49)**<br>
-40.7% (2023 est.)<br>
 
 **Education expenditure**<br>
 8.6% national budget (2025 est.)<br>
@@ -343,8 +340,8 @@ _total subscriptions_: 17,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 46 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 37,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 112 (2022 est.)<br>
+_total subscriptions_: 36,708 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 98 (2022 est.)<br>
 
 **Broadcast media**<br>
 Gibraltar Broadcasting Corporation (GBC) provides TV and radio services via 1 TV station and 4 radio stations; British Forces Broadcasting Service (BFBS) operates 1 radio station; broadcasts from Spanish radio and TV stations are accessible<br>
@@ -383,7 +380,7 @@ _key ports_: Europa Point<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Gibraltar Regiment (2025)<br>
+Royal Gibraltar Regiment (UK) (2025)<br>
 
 **Military - note**<br>
 defense is the responsibility of the UK<br>

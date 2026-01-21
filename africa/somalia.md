@@ -107,21 +107,21 @@ _elderly dependency ratio_: 3.2 (2024 est.)<br>
 _potential support ratio_: 30.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 19.1 years (2024 est.)<br>
+_total_: 15.7 years (2025 est.)<br>
 _male_: 19.3 years<br>
 _female_: 18.9 years<br>
 
 **Population growth rate**<br>
-2.55% (2024 est.)<br>
+3.32% (2025 est.)<br>
 
 **Birth rate**<br>
-37.4 births/1,000 population (2024 est.)<br>
+46.36 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-11.2 deaths/1,000 population (2024 est.)<br>
+11.22 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.7 migrant(s)/1,000 population (2024 est.)<br>
+-1.91 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 distribution varies greatly throughout the country; least densely populated areas are in the northeast and central regions, as well as areas along the Kenyan border; most populated areas are in and around the cities of Mogadishu, Marka, Boorama, Hargeysa, and Baidoa, as shown on this population distribution map<br>
@@ -144,7 +144,7 @@ _total population_: 1.01 male(s)/female (2024 est.)<br>
 563 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 83.6 deaths/1,000 live births (2024 est.)<br>
+_total_: 81.5 deaths/1,000 live births (2025 est.)<br>
 _male_: 93.2 deaths/1,000 live births<br>
 _female_: 73.7 deaths/1,000 live births<br>
 
@@ -154,10 +154,10 @@ _male_: 54.1 years<br>
 _female_: 59 years<br>
 
 **Total fertility rate**<br>
-5.12 children born/woman (2024 est.)<br>
+6.38 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-2.52 (2024 est.)<br>
+3.14 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 80.1% of population (2022 est.)<br>
@@ -195,7 +195,7 @@ _spirits_: 0 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-62.9% (2023 est.)<br>
+62.4% (2019 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 0% of GDP (2023 est.)<br>
@@ -296,7 +296,7 @@ _head of government_: Prime Minister Hamza Abdi BARRE (since 25 June 2022)<br>
 _cabinet_: Cabinet appointed by the prime minister, approved by the House of the People<br>
 _election/appointment process_: president indirectly elected by the Federal Parliament by two-thirds majority vote in 2 rounds, if needed, for a single 4-year term; prime minister appointed by the president, approved by the House of the People<br>
 _most recent election date_: 15 May 2022<br>
-_election results_: <em><br>2022:</em> HASSAN SHEIKH Mohamud elected president in third round - Federal Parliament percent of vote in first round - Said ABDULLAHI DENI (Kaah) 20.2%, Mohamed ABDULLAHI Mohamed "Farmaajo" (TPP) 18.3%, HASSAN SHEIKH Mohamud (PDP) 16.2%, Hassan Ali KHAYRE (independent) 14.6%, other 30.7%; Federal Parliament percent of vote in second round - HASSAN SHEIKH Mohamud 34.1%, Mohamed ABDULLAHI Mohamed "Farmaajo" 25.7%, Said ABDULLAHI DENI 21%, Hassan Ali KHAYRE 19.2%; Federal Parliament percent of vote in third round - HASSAN SHEIKH Mohamud  66%, Mohamed ABDULLAHI Mohamed "Farmaajo" 34%<br><br><em>2017:</em> Mohamed ABDULLAHI Mohamed "Farmaajo" elected president in second round; Federal Parliament number of votes in first round - HASSAN SHEIKH Mohamud (PDP) 88, Mohamed ABDULLAHI Mohamed "Farmaajo" (TPP) 72, Sheikh SHARIF Sheikh Ahmed (ARS) 49, other 37; Federal Parliament number of votes in second round - Mohamed ABDULLAHI Mohamed "Farmaajo" 184, HASSAN SHEIKH Mohamud 97, Sheikh SHARIF Sheikh Ahmed 45<br>
+_election results_: <em><br>2022:</em> HASSAN SHEIKH Mohamud elected president in third round - Federal Parliament percent of vote in first round - Said ABDULLAHI DENI (Kaah) 20.2%, Mohamed ABDULLAHI Mohamed "Farmaajo" (TPP) 18.3%, HASSAN SHEIKH Mohamud (PDP) 16.2%, Hassan Ali KHAYRE (independent) 14.6%, other 30.7%; Federal Parliament percent of vote in second round - HASSAN SHEIKH Mohamud 34.1%, Mohamed ABDULLAHI Mohamed "Farmaajo" 25.7%, Said ABDULLAHI DENI 21%, Hassan Ali KHAYRE 19.2%; Federal Parliament percent of vote in third round - HASSAN SHEIKH Mohamud  66%, Mohamed ABDULLAHI Mohamed "Farmaajo" 34%<br>
 _expected date of next election_: 2026<br>
 
 **Legislative branch**<br>
@@ -570,7 +570,7 @@ _key ports_: Baraawe, Berbera, Boosaaso, Kismaayo, Marka, Muqdisho<br>
 
 **Military and security forces**<br>
 Somali Armed Forces (SAF; aka Somali Defense Force): Somali National Army (SNA; aka Land Forces), Somali Navy, Somali Air Force<br><br>Ministry of Internal Security: Somali National Police (SNP, includes Coast Guard, commando unit) (2025)<br>
-<strong>note 1:</strong> Somalia has numerous militia and regional/state forces operating throughout the country; the militia include clan- and warlord-based militias, as well as some that are externally sponsored; regional forces include semi-official paramilitary and special police forces ("darwish")<br><br><strong>note 2: </strong>Somaliland and Puntland have separate military, security, and paramilitary forces<br>
+<strong>note 1:</strong> Somalia has numerous militias and regional/state forces operating throughout the country; the militias include clan- and warlord-based forces, as well as some that are externally sponsored; regional forces include semi-official paramilitary and special police forces ("darwish")<br><br><strong>note 2: </strong>Somaliland and Puntland have separate military, security, and paramilitary forces<br>
 
 **Military expenditures**<br>
 6% of GDP (2021 est.)<br>
@@ -584,13 +584,13 @@ estimated 20,000 active Somali Armed Forces (2025)<br>
 <strong>note: </strong>tens of thousands of militia forces are also active in Somalia<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SNA's inventory is a mix of older, secondhand, and donated equipment from a variety of suppliers, including Italy, Russia, South Africa, Turkey, the UK, and the US (2024)<br>
+the SNA's inventory is a mix of older and donated (typically secondhand) equipment from a variety of suppliers, including Italy, Russia, South Africa, T&uuml;rkiye, the UK, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service for men and women; conscription of men aged 18-40 and women aged 18-30 is authorized, but not currently utilized (2023)<br>
+18-22 for voluntary military service for men and women in the Somali Armed Forces; compulsory service is reportedly authorized, but not currently utilized (2025)<br>
 
 **Military - note**<br>
-the primary responsibility of the Somali National Army (SNA) is combating the al-Shabaab terrorist group, which controls large portions of central and southern Somalia and continues to conduct attacks targeting both military and civilian sites, including military bases, government institutions, and civilian gatherings; the SNA is supported by the National Police, regional/state security forces, and allied militias, as well as international forces; some African Union (AU) countries have provided military assistance to the SNA since 2007 under the AU Mission in Somalia (AMISOM, 2007-2022), the AU Transition Mission in Somalia (ATMIS, 2022-2024), and the AU Support and Stabilization Mission in Somalia (AUSSOM, January 2025-present); Turkey and the US have also provided military support to SNA operations<br><br>Turkey and the US have formed and trained SNA units, including the US-backed Danab ("Lightning") Brigade and the Turkish-trained Gorgor ("Eagle") brigades; SNA soldiers have also received training from Egypt, Eritrea, Ethiopia, the EU, Uganda, the UAE, and the UK (2025)<br>
+the primary responsibility of the Somali National Army (SNA) is combating the al-Shabaab terrorist group, which controls large portions of central and southern Somalia and continues to conduct attacks targeting both military and civilian sites, including military bases, government institutions, and civilian gatherings; the SNA is supported by the National Police, regional/state security forces, and allied militias, as well as international forces; some African Union (AU) countries have provided military assistance to the SNA since 2007 under the AU Mission in Somalia (AMISOM, 2007-2022), the AU Transition Mission in Somalia (ATMIS, 2022-2024), and the AU Support and Stabilization Mission in Somalia (AUSSOM, January 2025-present); Turkey and the US have also provided military support to SNA operations<br><br>Turkey and the US have formed and trained SNA units, including the US-backed Danab ("Lightning") Brigade and the Turkish-trained Gorgor ("Eagle") brigades; SNA soldiers have also received training from Egypt, Eritrea, Ethiopia, the EU, Uganda, UAE, and the UK (2025)<br>
 
 ## Terrorism
 
@@ -603,4 +603,7 @@ al-Shabaab; Islamic State of Iraq and ash-Sham – Somalia<br>
 **Refugees and internally displaced persons**<br>
 _refugees_: 41,763 (2024 est.)<br>
 _IDPs_: 3,869,345 (2024 est.)<br>
+
+**Trafficking in persons**<br>
+_tier rating_: Special Case; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/somalia/<br>
 

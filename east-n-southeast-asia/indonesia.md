@@ -112,21 +112,21 @@ _elderly dependency ratio_: 11.6 (2024 est.)<br>
 _potential support ratio_: 8.6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 31.5 years (2024 est.)<br>
+_total_: 31.8 years (2025 est.)<br>
 _male_: 30.8 years<br>
 _female_: 32.3 years<br>
 
 **Population growth rate**<br>
-0.73% (2024 est.)<br>
+0.7% (2025 est.)<br>
 
 **Birth rate**<br>
-14.8 births/1,000 population (2024 est.)<br>
+14.55 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.8 deaths/1,000 population (2024 est.)<br>
+6.82 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.7 migrant(s)/1,000 population (2024 est.)<br>
+-0.7 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 major concentration on the island of Java, which is considered one of the most densely populated places on earth; of the outer islands, Sumatra contains some of the most significant clusters, particularly in the south near the Selat Sunda and along the northeastern coast near Medan; the cities of Makasar (Sulawesi), Banjarmasin (Kalimantan) are also heavily populated<br>
@@ -153,7 +153,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 140 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 18.5 deaths/1,000 live births (2025 est.)<br>
 _male_: 21.3 deaths/1,000 live births<br>
 _female_: 16.4 deaths/1,000 live births<br>
 
@@ -163,10 +163,10 @@ _male_: 71.3 years<br>
 _female_: 76 years<br>
 
 **Total fertility rate**<br>
-1.96 children born/woman (2024 est.)<br>
+1.93 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.96 (2024 est.)<br>
+0.94 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.3% of population (2022 est.)<br>
@@ -213,7 +213,7 @@ _female_: 3.1% (2025 est.)<br>
 15.9% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-70% (2023 est.)<br>
+70.3% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 2% (2017)<br>
@@ -365,7 +365,7 @@ _subordinate courts_: High Courts of Appeal, district courts, religious courts<b
 Democrat Party or PD <br>Functional Groups Party or GOLKAR <br>Great Indonesia Movement Party or GERINDRA <br>Indonesia Democratic Party-Struggle or PDI-P <br>National Awakening Party or PKB <br>National Democratic Party or NasDem <br>National Mandate Party or PAN <br>Prosperous Justice Party or PKS <br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador-designate INDROYONO Soesilo; Charg&eacute; d'Affaires Nidya KARTIKASARI (since 1 September 2025)<br>
+_chief of mission_: Ambassador INDROYONO Soesilo (since 16 December 2025)<br>
 _chancery_: 2020 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 775-5200<br>
 _FAX_: [1] (202) 775-5236<br>
@@ -685,14 +685,13 @@ Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-An
 approximately 400,000 active Armed Forces, including about 300,000 Army (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a wide mix of Chinese, Russian, and Western (including US) equipment; in recent years, major suppliers have included China, France, Germany, the Netherlands, South Korea, and the US; the TNI has been engaged in a modernization program for more than a decade; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government said that growing its domestic defense industry would be a national priority over the following decade (2024)<br>
+the military's inventory is a mix of older and new weapons platforms from China, Russia, Europe, the US, and other countries; in recent years, major suppliers have included China, France, Germany, the Netherlands, South Korea, and the US; the TNI has been engaged in a modernization program for more than a decade; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; it has jointly produced aircraft and naval vessels (2025)<br>
 
 **Military service age and obligation**<br>
-18-45 years of age for voluntary military service for men and women, with selective conscription authorized (men, age 18), but not utilized; 24-month service obligation, with reserve obligation to age 45 (officers) (2024)<br>
-<strong>note:</strong> as of 2023, women comprised about 7% of the Indonesian military<br>
+18 years of age for voluntary service for men and women; upper age limits vary by military service, position, specialty; compulsory service authorized but not utilized (2025)<br>
 
 **Military deployments**<br>
-225 (plus about 140 police) Central African Republic (MINUSCA); 1,025 Democratic Republic of the Congo (MONUSCO); 1,225 Lebanon (UNIFIL) (2024)<br>
+250 (plus about 170 police) Central African Republic (MINUSCA); 1,025 Democratic Republic of the Congo (MONUSCO); 1,225 Lebanon (UNIFIL) (2025)<br>
 
 **Military - note**<br>
 the military is responsible for external defense, combatting separatism, and responding to national emergencies and natural disasters; in certain conditions it may provide operational support to police, such as for counterterrorism operations, maintaining public order, and addressing communal conflicts<br><br>key operational priorities include an insurgency on Papua and the security of Indonesia's vast maritime domain; the West Papua Liberation Army, the military wing of the Free Papua Organization, has been fighting a low-level insurgency in Papua since Indonesia annexed the former Dutch colony in the 1960s; maritime issues include piracy, transnational crime, illegal fishing, and incursions by People's Republic of China (PRC) vessels; Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within the PRC's “nine-dash line” maritime claims, resulting in some stand offs in recent years; over the past decade, the Indonesian military has bolstered its presence on and around the strategically located Natuna Islands (2025)<br>

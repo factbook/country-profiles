@@ -105,21 +105,21 @@ _elderly dependency ratio_: 11.3 (2024 est.)<br>
 _potential support ratio_: 8.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 36.3 years (2024 est.)<br>
+_total_: 29.4 years (2025 est.)<br>
 _male_: 35.6 years<br>
 _female_: 36.9 years<br>
 
 **Population growth rate**<br>
-0.61% (2024 est.)<br>
+-0.77% (2025 est.)<br>
 
 **Birth rate**<br>
-12.6 births/1,000 population (2024 est.)<br>
+16.73 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.6 deaths/1,000 population (2024 est.)<br>
+6.23 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.9 migrant(s)/1,000 population (2024 est.)<br>
+-18.23 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the majority of people live on or near the Mediterranean coast, particularly in and around the capital of Beirut<br>
@@ -142,7 +142,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 15 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 7.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 7.3 deaths/1,000 live births<br>
 _female_: 6.2 deaths/1,000 live births<br>
 
@@ -152,10 +152,10 @@ _male_: 77.8 years<br>
 _female_: 80.7 years<br>
 
 **Total fertility rate**<br>
-1.71 children born/woman (2024 est.)<br>
+2.2 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.83 (2024 est.)<br>
+1.07 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 92.6% of population (2022 est.)<br>
@@ -194,7 +194,7 @@ _female_: 25.4% (2025 est.)<br>
 5.1% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-51.4% (2023 est.)<br>
+52.4% (2019 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 1.4% (2016)<br>
@@ -369,6 +369,9 @@ cedar tree<br>
 
 **National color(s)**<br>
 red, white, green<br>
+
+**National coat of arms**<br>
+<p> Lebanon has had many coats of arms since declaring independence in 1943, but none were officially adopted. The current version is a variation of the national flag. Red stands for the blood shed for liberation, and white for peace, purity, and mountain snow. The cedar tree is the national symbol, embodying eternity, steadiness, happiness, and prosperity.</p><br>
 
 **National anthem(s)**<br>
 _title_: "Kulluna lil-watan" (All of Us, For Our Country!)<br>
@@ -628,11 +631,10 @@ Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, 
 approximately 70,000 active Lebanese Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the LAF inventory includes a wide mix of mostly older equipment from a diverse array of countries, including the US; the country's economic crisis has limited military procurement efforts (2024)<br>
+the LAF's inventory is comprised of mostly older or secondhand equipment from an array of countries, such as France, Germany, Russia, and especially the US (2025)<br>
 
 **Military service age and obligation**<br>
-17-25 years of age for men and women for voluntary military service; no conscription (2024)<br>
-<strong>note:</strong> women were allowed to volunteer for military service in the 1980s; as of 2023, they comprised about 5% of the active duty military<br>
+18-25 years of age for voluntary military service for men and women; no conscription (2026)<br>
 
 **Military - note**<br>
 the primary responsibilities of the Lebanese Armed Forces (LAF) are defense against external attack, border security, protecting the country’s territorial waters, and assisting with internal security and development projects<br><br>the LAF’s domestic security responsibilities include countering narcotics trafficking and smuggling, managing protests, conducting search and rescue, and intervening to prevent violence between rival political factions; in recent years, the military has faced a financial crisis as government debt and national economic difficulties have undercut its ability to train and fully pay and supply personnel; the UN, as well as individual countries such as France, Qatar, and the US have provided financial assistance <br><br>the UN Interim Force in Lebanon (UNIFIL) has operated in the southern part of the country since 1978; it has approximately 10,500 personnel assigned and includes a maritime task force; the terrorist group Hizballah maintains thousands of fighters and militia in Lebanon, primarily in the south (see Terrorist Organizations in References) (2025)<br>

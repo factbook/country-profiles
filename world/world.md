@@ -183,7 +183,7 @@ _unimproved: total_: total: 19.2% of population (2022 est.)<br>
 12.3% (2022)<br>
 
 **Currently married women (ages 15-49)**<br>
-66.2% (2023 est.)<br>
+63.8% (2024 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 4.3% (2023)<br>
@@ -470,7 +470,7 @@ _by type_: bulk carrier 13,141, container ship 5,815, general cargo 19,918, oil 
 2.3% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 20 million active-duty military personnel worldwide (2025)<br>
+approximately 20-21 million active-duty military personnel worldwide (2025)<br>
 <strong>note:</strong> the largest militaries in the world based on personnel numbers belong to China, India, the US, North Korea, and Russia<br>
 
 **Military equipment inventories and acquisitions**<br>

@@ -111,21 +111,21 @@ _elderly dependency ratio_: 6.3 (2024 est.)<br>
 _potential support ratio_: 15.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 20.2 years (2024 est.)<br>
+_total_: 20.5 years (2025 est.)<br>
 _male_: 19.8 years<br>
 _female_: 20.6 years<br>
 
 **Population growth rate**<br>
-2.16% (2024 est.)<br>
+2.09% (2025 est.)<br>
 
 **Birth rate**<br>
-27.3 births/1,000 population (2024 est.)<br>
+26.49 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.6 deaths/1,000 population (2024 est.)<br>
+5.53 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2024 est.)<br>
+-0.04 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 settlements are found scattered along the Gambia River; the largest communities, including the capital of Banjul and the country's largest city, Serekunda, are found at the mouth of the Gambia River along the Atlantic coast, as shown in this population distribution map<br>
@@ -153,7 +153,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 354 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 35.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 35 deaths/1,000 live births (2025 est.)<br>
 _male_: 39.1 deaths/1,000 live births<br>
 _female_: 32.2 deaths/1,000 live births<br>
 
@@ -163,10 +163,10 @@ _male_: 66.7 years<br>
 _female_: 70.1 years<br>
 
 **Total fertility rate**<br>
-3.52 children born/woman (2024 est.)<br>
+3.39 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.74 (2024 est.)<br>
+1.67 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 90.9% of population (2022 est.)<br>
@@ -213,7 +213,7 @@ _female_: 0.5% (2025 est.)<br>
 11.6% (2020 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-60.9% (2023 est.)<br>
+63% (2020 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 5.6% (2020)<br>
@@ -620,10 +620,10 @@ Gambian Armed Forces (GAF; aka Armed Forces of the Gambia): the Gambian National
 estimated 3,000-4,000 active Gambian Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military of Gambia has a limited inventory of mostly older, obsolescent, or donated equipment originating from several suppliers, including Taiwan, Turkey, the UK, and the US (2024)<br>
+the military of Gambia has a limited inventory of mostly older, obsolescent, or donated equipment originating from several suppliers, including Taiwan, Turkey, the UK, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary service for men and women (18-22 for officers); no conscription; service obligation six months&nbsp; (2024)<br>
+18-28 years of age for men and women depending on enlisted, officer, or specialized positions (2025)<br>
 
 **Military - note**<br>
 the Gambian Armed Forces (GAF) are responsible for external defense and aiding civil authorities in internal emergencies and natural disaster relief; they participate in multinational peacekeeping missions, as well as domestic support activities such as agricultural development, construction, education, and health services; the Gambian security forces have a history of involvement in domestic politics, including multiple coup attempts and mutinies, with the latest being an attempted coup in 2022<br><br>since January 2017, several members of the Economic Community of West African States (ECOWAS) have provided security forces for Gambia's stability, plus assistance and training for the GAF and other Gambian security forces through the ECOWAS Mission in the Gambia (ECOMIG); as of 2025, Ghana, Nigeria, and Senegal were providing military and gendarmerie personnel for ECOMIG (2025)<br>

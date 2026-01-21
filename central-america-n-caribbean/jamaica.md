@@ -105,21 +105,21 @@ _elderly dependency ratio_: 15.9 (2024 est.)<br>
 _potential support ratio_: 6.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 30.9 years (2024 est.)<br>
+_total_: 28.8 years (2025 est.)<br>
 _male_: 30.1 years<br>
 _female_: 31.7 years<br>
 
 **Population growth rate**<br>
-0.1% (2024 est.)<br>
+0.25% (2025 est.)<br>
 
 **Birth rate**<br>
-15.6 births/1,000 population (2024 est.)<br>
+16.08 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.5 deaths/1,000 population (2024 est.)<br>
+7.37 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--7.1 migrant(s)/1,000 population (2024 est.)<br>
+-6.2 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population density is high throughout, but increases in and around Kingston, Montego Bay, and Port Esquivel<br>
@@ -146,7 +146,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 130 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 14.5 deaths/1,000 live births (2025 est.)<br>
 _male_: 11.9 deaths/1,000 live births<br>
 _female_: 9.4 deaths/1,000 live births<br>
 
@@ -156,10 +156,10 @@ _male_: 74.5 years<br>
 _female_: 78.1 years<br>
 
 **Total fertility rate**<br>
-2.05 children born/woman (2024 est.)<br>
+1.86 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1 (2024 est.)<br>
+0.91 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 95.4% of population (2022 est.)<br>
@@ -206,7 +206,7 @@ _female_: 3.1% (2025 est.)<br>
 2.5% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-32.7% (2023 est.)<br>
+35.2% (2022 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 5.5% of GDP (2024 est.)<br>
@@ -642,7 +642,7 @@ Jamaica Defense Force (JDF): Jamaica Regiment (Land Force), Maritime, Air, and C
 approximately 4,000 active Jamaica Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the JDF is lightly armed with a limited inventory featuring equipment mostly from Australia, Canada, Japan, the Netherlands, the UK, and the US&nbsp; (2024)<br>
+the JDF's inventory features equipment mostly from Australia, the Netherlands, and the US (2025)<br>
 
 **Military service age and obligation**<br>
 18-23 for voluntary military service (17 with parental consent) for men and women; 18-28 for the reserves; no conscription; since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC), which has a service requirement of 12 months (2025)<br>

@@ -105,21 +105,21 @@ _elderly dependency ratio_: 6.6 (2024 est.)<br>
 _potential support ratio_: 15.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 21.3 years (2024 est.)<br>
+_total_: 20.5 years (2025 est.)<br>
 _male_: 21.1 years<br>
 _female_: 21.5 years<br>
 
 **Population growth rate**<br>
-2.18% (2024 est.)<br>
+2.15% (2025 est.)<br>
 
 **Birth rate**<br>
-27.6 births/1,000 population (2024 est.)<br>
+27.54 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.8 deaths/1,000 population (2024 est.)<br>
+5.95 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2024 est.)<br>
+-0.08 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of population lives on the eastern half of the island; significant clustering is found in the central highlands and eastern coastline, as shown in this population distribution map<br>
@@ -146,7 +146,7 @@ _total population_: 1.01 male(s)/female (2024 est.)<br>
 445 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 37.5 deaths/1,000 live births (2024 est.)<br>
+_total_: 38.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 40.9 deaths/1,000 live births<br>
 _female_: 34 deaths/1,000 live births<br>
 
@@ -156,10 +156,10 @@ _male_: 67.3 years<br>
 _female_: 70.3 years<br>
 
 **Total fertility rate**<br>
-3.47 children born/woman (2024 est.)<br>
+3.47 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.71 (2024 est.)<br>
+1.71 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 79.8% of population (2022 est.)<br>
@@ -203,7 +203,7 @@ _female_: 8.2% (2025 est.)<br>
 22.6% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-60.1% (2023 est.)<br>
+62.3% (2021 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 12.7% (2021)<br>
@@ -310,13 +310,14 @@ _residency requirement for naturalization_: unknown<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Michael RANDRIANIRINA (Col.) (since 17 October 2025)<br>
+_chief of state_: Michael RANDRIANIRINA (Col.)<br>
 _head of government_: Prime Minister Herintsalama RAJAONARIVELO (since 22 October 2025)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister nominated by the National Assembly, appointed by the president<br>
 _most recent election date_: 16 November 2023<br>
-_election results_: <em><br>2023</em>: Andry RAJOELINA reelected president in first round; percent of vote - Andry RAJOELINA (TGV) 59.0%, Siteny Thierry RANDRIANASOLONIAIKO 14.4%, Marc RAVALOMANANA (TIM) 12.1%, other 14.5%<br><em><br>2018</em>: Andry RAJOELINA elected president in second round; percent of vote in first round - Andry RAJOELINA (TGV) 39.2%, Marc RAVALOMANANA (TIM) 35.4%, other 25.4%; percent of vote in second round - Andry RAJOELINA 55.7%, Marc RAVALOMANANA 44.3%<br>
+_election results_: <em><br>2023</em>: Andry RAJOELINA reelected president in first round; percent of vote - Andry RAJOELINA (TGV) 59.0%, Siteny Thierry RANDRIANASOLONIAIKO 14.4%, Marc RAVALOMANANA (TIM) 12.1%, other 14.5%<br>
 _expected date of next election_: November 2028<br>
+<strong>note:</strong> on 14 October 2025 Col. Michael Randrianirina, commander of an elite unit of the country’s armed forces, announced the formation of a transitional government made up of civilians, which would rule for two years; the constitution, the country’s top court, and the electoral commission were suspended, and a referendum will be held to formulate a new constitution; the lower house of Parliament was not suspended and impeached former-President Andry RAJOELINA<br>
 
 **Legislative branch**<br>
 _legislative structure_: bicameral<br>
@@ -630,10 +631,10 @@ Madagascar Armed Forces (aka Armed forces of the Republic of Madagascar); Malaga
 estimated 13,000 Armed Forces; estimated 10,000 Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists mostly of older or secondhand weapons and equipment originating from countries such as France, South Africa, the UAE, the UK, and the former Soviet Union (2024)<br>
+the military's inventory consists mostly of older or secondhand armaments originating from countries such as France, South Africa, the former Soviet Union, the UAE, the UK, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for men and women; service obligation 18 months; no conscription; women are permitted to serve in all branches (2023)<br>
+18 years of age for voluntary military service for men and women; service obligation 18 months; conscription available in times of national emergency or war (2025)<br>
 
 **Military - note**<br>
 the military&rsquo;s responsibilities include ensuring sovereignty and territorial integrity and protecting Madagascar&rsquo;s maritime domain, particularly against piracy, drug trafficking, and smuggling; it also assists the Gendarmerie with maintaining law and order in rural areas, largely in areas affected by banditry, cattle rustling, and criminal groups; the military has a history of influence in domestic politics and seized control of the government in October 2025; security relationships have included France, India, and Russia; Madagascar's small Navy has traditionally looked to India for assistance with maritime security (2025)<br>

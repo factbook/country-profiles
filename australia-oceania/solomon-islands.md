@@ -103,21 +103,21 @@ _elderly dependency ratio_: 8.2 (2024 est.)<br>
 _potential support ratio_: 12.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 25.2 years (2024 est.)<br>
+_total_: 25.5 years (2025 est.)<br>
 _male_: 25 years<br>
 _female_: 25.4 years<br>
 
 **Population growth rate**<br>
-1.65% (2024 est.)<br>
+1.62% (2025 est.)<br>
 
 **Birth rate**<br>
-22 births/1,000 population (2024 est.)<br>
+21.57 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-3.9 deaths/1,000 population (2024 est.)<br>
+3.94 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1.5 migrant(s)/1,000 population (2024 est.)<br>
+-1.47 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the population lives along the coastal regions; about one in five live in urban areas, and of these about two thirds reside in Honiara, the largest town and chief port<br>
@@ -144,7 +144,7 @@ _total population_: 1.04 male(s)/female (2024 est.)<br>
 123 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 18.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 22.7 deaths/1,000 live births<br>
 _female_: 15.2 deaths/1,000 live births<br>
 
@@ -154,10 +154,10 @@ _male_: 74.6 years<br>
 _female_: 80 years<br>
 
 **Total fertility rate**<br>
-2.77 children born/woman (2024 est.)<br>
+2.72 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.35 (2024 est.)<br>
+1.33 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: rural_: rural: 59.4% of population (2022 est.)<br>
@@ -192,7 +192,7 @@ _male_: 54.5% (2025 est.)<br>
 _female_: 18.8% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-64.1% (2023 est.)<br>
+64.5% (2019 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 5.6% (2015)<br>
@@ -306,7 +306,7 @@ _judge selection and term of office_: Court of Appeal and High Court president, 
 _subordinate courts_: Magistrates' Courts; Customary Land Appeal Court; local courts<br>
 
 **Political parties**<br>
-Democratic Alliance Party or DAP <br>Kadere Party of Solomon Islands or KAD <br>Ownership, Unity, and Responsibility Party (OUR Party) <br>People First Party or PFP <br>Solomon Islands Democratic Party or SIDP <br>Solomon Islands Party for Rural Advancement or SIPRA <br>Solomon Islands United Party or SIUP <br>United for Change Party or U4C<br>Coalition for Accountability Reform and Empowerment (CARE) (includes DAP, SIDP, and U4C)<br>
+Democratic Alliance Party or DAP<br>Kadere Party of Solomon Islands or KAD<br>Ownership, Unity, and Responsibility Party (OUR Party)<br>Solomon Islands People First Party or SIPFP<br>Solomon Islands Democratic Party or SIDP<br>Solomon Islands Party for Rural Advancement or SIPRA<br>Solomon Islands United Party or UP<br>United for Change Party or U4C<br>Coalition for Accountability Reform and Empowerment (CARE) (includes DAP, SIDP, and U4C)<br>
 <strong>note:</strong> the Solomon Islands political party system is characterized by fluid coalitions<br>
 
 **Diplomatic representation in the US**<br>

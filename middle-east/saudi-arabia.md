@@ -112,21 +112,21 @@ _elderly dependency ratio_: 6.1 (2024 est.)<br>
 _potential support ratio_: 16.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 32.4 years (2024 est.)<br>
+_total_: 32.8 years (2025 est.)<br>
 _male_: 34.6 years<br>
 _female_: 29.3 years<br>
 
 **Population growth rate**<br>
-1.68% (2024 est.)<br>
+1.72% (2025 est.)<br>
 
 **Birth rate**<br>
-13.6 births/1,000 population (2024 est.)<br>
+13.41 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-3.5 deaths/1,000 population (2024 est.)<br>
+3.51 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-6.7 migrant(s)/1,000 population (2024 est.)<br>
+7.35 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 historically a population that was mostly nomadic or semi-nomadic, the Saudi population has become more settled since oil was discovered in the 1930s; most of the country's population is now concentrated in a wide area across the middle of the peninsula, from Ad Dammam in the east through Riyadh in the interior to Mecca-Medina in the west near the Red Sea<br>
@@ -149,7 +149,7 @@ _total population_: 1.31 male(s)/female (2024 est.)<br>
 7 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 11.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 12.8 deaths/1,000 live births<br>
 _female_: 10.5 deaths/1,000 live births<br>
 
@@ -159,10 +159,10 @@ _male_: 75.6 years<br>
 _female_: 78.8 years<br>
 
 **Total fertility rate**<br>
-1.87 children born/woman (2024 est.)<br>
+1.84 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.91 (2024 est.)<br>
+0.9 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.4% of population (2022 est.)<br>
@@ -209,7 +209,7 @@ _female_: 2% (2025 est.)<br>
 3.5% (2020 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-63.2% (2023 est.)<br>
+55.3% (2022 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 5.1% of GDP (2023 est.)<br>
@@ -624,7 +624,7 @@ _key ports_: Dammam, Duba, Jiddah, Jizan, Ju Aymah Oil Terminal, Ras Tannurah, R
 
 **Military and security forces**<br>
 the Saudi Arabian Armed Forces (SAAF) are divided into two ministries:<br><br>Ministry of Defense: Royal Saudi Land Forces, Royal Saudi Naval Forces (includes marines, special forces, naval aviation), Royal Saudi Air Force, Royal Saudi Air Defense Forces, Royal Saudi Strategic Missiles Force; Ministry of the National Guard: Saudi Arabian National Guard (SANG)<br><br>Other security forces include: <br><br>Ministry of Interior: Facilities Security Forces, Public Security Forces (police), General Directorate of Border Guard<br><br>State Security Presidency (SSP): General Directorate of Investigation (Mabahith), Special Security Forces, Special Emergency Forces (2025)<br>
-<strong>note 1: </strong>the regular armed forces under the Ministry of Defense are responsible for external defense, although they can be called for domestic security duties if needed <br><br><strong>note 2</strong>: the SANG (also known as the White Army) is a land force comprised off tribal elements loyal to the House of Saud; it is responsible for internal security, protecting the royal family, guarding against military coups, defending strategic facilities and resources, and providing security for the cities of Mecca and Medina; it may also assist the regular armed forces in combat operations<br><br><strong>note 3:</strong> the SAAF includes the Saudi Royal Guard Command, a unit which provides security and protection to the ruling family and other dignitaries<br>
+<strong>note 1: </strong>the regular armed forces under the Ministry of Defense are responsible for external defense, although they can be called for domestic security duties if needed <br><br><strong>note 2</strong>: the SANG (also known as the White Army) is a land force comprised of tribal elements loyal to the House of Saud; it is responsible for internal security, protecting the royal family, guarding against military coups, defending strategic facilities and resources, and providing security for the cities of Mecca and Medina; it may also assist the regular armed forces in combat operations<br><br><strong>note 3:</strong> the SAAF includes the Saudi Royal Guard Command, a unit which provides security and protection to the ruling family and other dignitaries<br>
 
 **Military expenditures**<br>
 7.1% of GDP (2024 est.)<br>
@@ -637,18 +637,14 @@ the Saudi Arabian Armed Forces (SAAF) are divided into two ministries:<br><br>Mi
 approximately 250,000 active Saudi Armed Forces, including 125,000 under the Ministry of Defense and 125,000 in the National Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Saudi military forces, including the SANG, includes a mix of mostly modern weapons and equipment from Europe and the US; the US has been the largest supplier; major European suppliers have included France, Spain, and the UK; Saudi Arabia is one of the world's largest importers of arms (2024)<br>
+the inventory of the Saudi military forces, including the SANG, is comprised of imported modern armaments; major suppliers include Canada, China, France, Spain, the UK, and the US; Saudi Arabia is one of the world's largest importers of arms (2025)<br>
 <strong>note:</strong> the Saudi Navy is in the midst of a multi-year and multi-billion-dollar expansion and modernization program to purchase new frigates, corvettes, and other naval craft from such suppliers as Spain and the US<br>
 
 **Military service age and obligation**<br>
-men (17-40) and women (21-40) may volunteer for military service; no conscription (2023)<br>
-<strong>note: </strong>in 2021, women were allowed to serve in the Army, Air Defense, Navy, Strategic Missile Force, medical services, and internal security forces up to the rank of non-commissioned officer<br>
-
-**Military deployments**<br>
-continues to maintain a military presence in Yemen; has also established and supports several local militias, including the National Shield Forces in Aden and the Amajid Brigade in Abyan (2023)<br>
+voluntary military service for men (17-40) and women (typically 21-40, although maximum age may vary by role); no conscription&nbsp; (2025)<br>
 
 **Military - note**<br>
-Saudi Arabia's security concerns include border security, cyberattacks, instability and Houthi (Ansarallah) rebels in Yemen, international terrorism, maritime security, and regional rivals such as Iran and Turkey<br><br>Saudi Arabia has close security ties with the US; the SAAF conducts bilateral exercises with the US military and hosts US forces; the US has participated in a cooperative program to equip and train the SANG since 1973, and much of the equipment for both the regular forces and the SANG has been acquired from the US; Saudi Arabia also has defense relationships with China, France, India, Pakistan, the UK, and fellow Gulf Cooperation Council (GCC) members; it is a member of the Peninsula Shield Forces, a joint military force established by the GCC countries with the aim of maintaining security and stability in the region; the force was established in 1982, and its leadership is based in Saudi Arabia<br><br>in 2015, Saudi Arabia led a military intervention into Yemen by a coalition of Arab states in support of the Republic of Yemen Government against the separatist Houthis (Ansarallah); Saudi forces from both the Ministry of Defense and the SANG participated in combat operations in Yemen; Saudi Arabia also raised and equipped paramilitary/militia security forces in Yemen--based largely on tribal or regional affiliation--to deploy along the Saudi-Yemen border (2025)<br>
+Saudi Arabia's security concerns include border security, cyberattacks, instability in Yemen, international terrorism, maritime security, and regional rivals such as Iran and Turkey<br><br>Saudi Arabia has close security ties with the US; the SAAF conducts bilateral exercises with the US military and hosts US forces; the US has participated in a cooperative program to equip and train the SANG since 1973, and much of the equipment for both the regular forces and the SANG has been acquired from the US; Saudi Arabia also has defense relationships with China, France, India, Pakistan, the UK, and fellow Gulf Cooperation Council (GCC) members; it is a member of the Peninsula Shield Forces, a joint military force established by the GCC countries with the aim of maintaining security and stability in the region; the force was established in 1982, and its leadership is based in Saudi Arabia (2025)<br>
 
 ## Space
 

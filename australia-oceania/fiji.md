@@ -105,21 +105,21 @@ _elderly dependency ratio_: 13.4 (2024 est.)<br>
 _potential support ratio_: 7.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 31.6 years (2024 est.)<br>
+_total_: 32 years (2025 est.)<br>
 _male_: 31.4 years<br>
 _female_: 31.8 years<br>
 
 **Population growth rate**<br>
-0.4% (2024 est.)<br>
+0.38% (2025 est.)<br>
 
 **Birth rate**<br>
-15.9 births/1,000 population (2024 est.)<br>
+15.63 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.5 deaths/1,000 population (2024 est.)<br>
+6.58 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--5.5 migrant(s)/1,000 population (2024 est.)<br>
+-5.3 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 approximately 70% of the population lives on the island of Viti Levu; roughly half of the population lives in urban areas<br>
@@ -142,7 +142,7 @@ _total population_: 1.03 male(s)/female (2024 est.)<br>
 30 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 9.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 11.1 deaths/1,000 live births<br>
 _female_: 8.1 deaths/1,000 live births<br>
 
@@ -152,10 +152,10 @@ _male_: 72.2 years<br>
 _female_: 77.6 years<br>
 
 **Total fertility rate**<br>
-2.21 children born/woman (2024 est.)<br>
+2.18 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.08 (2024 est.)<br>
+1.06 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.7% of population (2022 est.)<br>
@@ -202,7 +202,7 @@ _female_: 12.9% (2025 est.)<br>
 4.6% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-58.8% (2023 est.)<br>
+59.2% (2021 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.2% (2021)<br>
@@ -565,8 +565,8 @@ _total subscriptions_: 49,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 992,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 107 (2021 est.)<br>
+_total subscriptions_: 5.33 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 574 (2024 est.)<br>
 
 **Broadcast media**<br>
 Fiji TV, a publicly traded company, operates a free-to-air channel; Digicel Fiji operates the Sky Fiji and Sky Pacific multi-channel pay-TV services; state-owned commercial company, Fiji Broadcasting Corporation, Ltd, operates 6 radio stations, including 2 public broadcasters and 4 commercial broadcasters with multiple repeaters; 5 radio stations with repeaters operated by Communications Fiji, Ltd; transmissions of multiple international broadcasters are available<br>
@@ -629,11 +629,10 @@ approximately 4,000 active Republic of Fiji Military Forces (2025)<br>
 the RFMF is lightly armed and equipped; Australia has provided patrol boats and a few armored personnel carriers; it also provides logistical support for RFMF regional or UN operations; in recent years, China and the US have provided small amounts of equipment (2025)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service for men and women (2024)<br>
-<strong>note:</strong> as of 2024, women comprised approximately 8% of the Fiji Military Forces<br>
+18-25 years of age for voluntary military service for men and women (2026)<br>
 
 **Military deployments**<br>
-170 Egypt (MFO); 160 Iraq (UNAMI); 150 Golan Heights (UNDOF) (2024)<br>
+170 Egypt (MFO); 160 Iraq (UNAMI); 150 Golan Heights (UNDOF) (2025)<br>
 
 **Military - note**<br>
 the Fiji Military Forces (RFMF) are responsible for external security but can be assigned some domestic security responsibilities in specific circumstances; the RFMF has a history of intervening in the country’s politics, and it continues to have significant political power; it also has a tradition of participating in UN peacekeeping operations, which have offered experience and a source of financial support; Fiji has sent troops on nearly 20 such missions since first deploying personnel to South Lebanon in 1978<br><br>Fiji has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Fiji's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>

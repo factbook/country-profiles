@@ -110,21 +110,21 @@ _elderly dependency ratio_: 7 (2024 est.)<br>
 _potential support ratio_: 14.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 22 years (2024 est.)<br>
+_total_: 22.3 years (2025 est.)<br>
 _male_: 22.5 years<br>
 _female_: 21.5 years<br>
 
 **Population growth rate**<br>
-2.37% (2024 est.)<br>
+2.35% (2025 est.)<br>
 
 **Birth rate**<br>
-25.7 births/1,000 population (2024 est.)<br>
+25.51 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.5 deaths/1,000 population (2024 est.)<br>
+5.44 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-3.5 migrant(s)/1,000 population (2024 est.)<br>
+3.42 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the relatively small population is spread in pockets throughout the country; the largest urban center is the capital of Libreville, located along the Atlantic coast in the northwest, as shown in this population distribution map<br>
@@ -151,7 +151,7 @@ _total population_: 1.07 male(s)/female (2024 est.)<br>
 233 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 26.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 26 deaths/1,000 live births (2025 est.)<br>
 _male_: 29.7 deaths/1,000 live births<br>
 _female_: 24 deaths/1,000 live births<br>
 
@@ -161,10 +161,10 @@ _male_: 68.6 years<br>
 _female_: 72.1 years<br>
 
 **Total fertility rate**<br>
-3.21 children born/woman (2024 est.)<br>
+3.16 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.58 (2024 est.)<br>
+1.56 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 90.2% of population (2022 est.)<br>
@@ -203,7 +203,7 @@ _other alcohols_: 0.04 liters of pure alcohol (2019 est.)<br>
 5.4% (2020 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-49.7% (2023 est.)<br>
+48.5% (2020 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 2.9% (2021)<br>
@@ -639,8 +639,8 @@ _key ports_: Libreville, Oguendjo Terminal, Port Gentil, Port Owendo<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Gabonese Armed Forces (Force Armées Gabonaise or FAG; aka National Defense and Security Forces of Gabon or des Forces Nationales de Défense et de Sécurité (FNDS) du Gabon): Army (Armée de Terre, AT), Navy (Marine Nationale, MN), Air Force (l'Armée de l'Air, AA), Light Aviation (L’Aviation Légère des Armées, ALA), Fire Brigade (du Corps des Sapeurs-Pompiers); National Gendarmerie (Gendarmerie Gabonaise, GENA); Republican Guard (Garde Républicaine, GR); Military Health Service (Service de Santé Militaire, SSM); Military Engineering (Génie Militaire) (2025)<br>
-<strong>note 1: </strong>the National Police Forces, under the Ministry of Interior, and the National Gendarmerie (GENA), under the Ministry of Defense, are responsible for law enforcement and public security; elements of the armed forces and the Republican Guard, an elite unit that protects the president under his direct authority, sometimes perform internal security functions<br><br><strong>note 2:</strong> the GENA is organized into regionally-based “legions,” mobile forces, a national parks security unit, and a special intervention group<br>
+Gabonese Armed Forces (Force Armées Gabonaise or FAG; aka National Defense and Security Forces of Gabon or des Forces Nationales de Défense et de Sécurité (FNDS) du Gabon): Army, Navy, Air Force, Light Aviation, Fire Brigade; Gabon National Gendarmerie (GENA); Republican Guard (GR); Military Health Service; Military Engineering (2025)<br>
+<strong>note: </strong>the National Police Forces, under the Ministry of Interior, and the National Gendarmerie (GENA), under the Ministry of Defense, are responsible for law enforcement and public security; elements of the armed forces and the Republican Guard, an elite unit that protects the president under his direct authority, sometimes perform internal security functions; the GENA is organized into regionally-based “legions,” mobile forces, a national parks security unit, and a special intervention group<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2024 est.)<br>
@@ -653,10 +653,10 @@ Gabonese Armed Forces (Force Armées Gabonaise or FAG; aka National Defense and 
 approximately 7,000 active-duty Armed Forces including the Republican Guard and Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Gabonese military has a mix of older and more modern weapons and equipment from a variety of suppliers including Brazil, China, France, Germany, Russia/former Soviet Union, and South Africa (2024)<br>
+the Gabonese military has a mix of older and limited quantities of more modern armaments; suppliers include Brazil, China, France, Germany, Russia/former Soviet Union, South Africa, and Spain (2025)<br>
 
 **Military service age and obligation**<br>
-18-24 years of age for voluntary military service; no conscription (2024)<br>
+18-24 years of age for voluntary military service; no conscription (2025)<br>
 
 **Military - note**<br>
 the Gabonese military is a small and lightly armed force that is responsible for both external and internal security; the military may also participate in the economic and social development work of the nation; key defense priorities include securing the country's borders and maritime domain; it has contributed to regional peacekeeping and joint security operations; in August 2023, officers from the Republican Guard seized control of the government and placed the president under arrest (2025)<br>

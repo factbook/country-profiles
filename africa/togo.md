@@ -108,21 +108,21 @@ _elderly dependency ratio_: 7.6 (2024 est.)<br>
 _potential support ratio_: 13.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 20.7 years (2024 est.)<br>
+_total_: 20.9 years (2025 est.)<br>
 _male_: 19.9 years<br>
 _female_: 21.4 years<br>
 
 **Population growth rate**<br>
-2.41% (2024 est.)<br>
+2.37% (2025 est.)<br>
 
 **Birth rate**<br>
-30.9 births/1,000 population (2024 est.)<br>
+30.17 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.1 deaths/1,000 population (2024 est.)<br>
+4.64 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1.7 migrant(s)/1,000 population (2024 est.)<br>
+-1.85 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 one of the more densely populated African nations, with most of the population residing in rural communities; density is highest in the south on or near the Atlantic coast, as shown in this population distribution map<br>
@@ -149,7 +149,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 349 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 38.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 34.5 deaths/1,000 live births (2025 est.)<br>
 _male_: 43 deaths/1,000 live births<br>
 _female_: 33.7 deaths/1,000 live births<br>
 
@@ -159,10 +159,10 @@ _male_: 69.5 years<br>
 _female_: 74.7 years<br>
 
 **Total fertility rate**<br>
-4.13 children born/woman (2024 est.)<br>
+4.03 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-2.03 (2024 est.)<br>
+1.99 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 87% of population (2022 est.)<br>
@@ -209,7 +209,7 @@ _female_: 0.7% (2025 est.)<br>
 15.2% (2017 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-62% (2023 est.)<br>
+63.7% (2017 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 6.4% (2017)<br>
@@ -657,14 +657,14 @@ Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army, Togolese Na
 estimated 20,000 active Armed Forces, including Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAT has a small inventory of mostly older equipment originating from a variety of countries, including Brazil, Russia/former Soviet Union, Turkey, the US, and some European nations, particularly France (2024)<br>
+the FAT has a small inventory of mostly obsolescent or older armaments originating from several countries, including Brazil, France, Russia/former Soviet Union, T&uuml;rkiye, the UK, and the US (2025)<br>
 
 **Military service age and obligation**<br>
 18 years of age for military service for men and women; 24-month service obligation; no conscription (2023)<br>
 <strong>note:</strong> as of 2022, about 7% of the military's personnel were women<br>
 
 **Military - note**<br>
-the responsibilities of the Togolese Armed Forces (FAT) included both external defense and internal security; the FAT’s primary concerns are border security, terrorism, and maritime security; in recent years, it has boosted operations in the northern border region of the country to secure the frontier and prevent banditry, illicit smuggling, and infiltrations from Jama'at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida-affiliated militant groups based in Mali that also operates in neighboring Burkina Faso; in 2022, the Togolese Government declared a state of emergency in the north following an attack by JNIM fighters on a Togolese military post that killed several soldiers; the Navy and Air Force have increased focus on combating piracy and smuggling in the Gulf of Guinea<br><br>since its creation in 1963, the Togolese military has had a history of involvement in the country’s politics, including assassinations, coups, and a crackdown in 2005 that killed hundreds of civilians; over the past decade, it has made some efforts to reform and professionalize, which have included increasing its role in UN peacekeeping activities, participating in multinational exercises, and receiving training from foreign partners, particularly France and the US; in addition, Togo has established a regional peacekeeping training center for military and police in Lome (2025)<br>
+the Togolese Armed Forces (FAT) are responsible for both external defense and internal security; the FAT’s primary concerns are border security, terrorism, and maritime security; in recent years, it has boosted operations in the northern border region of the country to secure the frontier and prevent banditry, illicit smuggling, and infiltrations from Jama'at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida-affiliated militant groups based in Mali that also operates in neighboring Burkina Faso; in 2022, the Togolese Government declared a state of emergency in the north following an attack by JNIM fighters on a Togolese military post that killed several soldiers; the Navy and Air Force have increased focus on combating piracy and smuggling in the Gulf of Guinea<br><br>since its creation in 1963, the Togolese military has had a history of involvement in the country’s politics, including assassinations, coups, and a crackdown in 2005 that killed hundreds of civilians; over the past decade, it has made efforts to reform and professionalize, which have included increasing its role in UN peacekeeping activities, participating in multinational exercises, and receiving training from foreign partners, particularly France and the US; in addition, Togo has established a regional peacekeeping training center for military and police in Lome (2025)<br>
 
 ## Terrorism
 

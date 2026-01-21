@@ -102,21 +102,21 @@ _elderly dependency ratio_: 35.9 (2024 est.)<br>
 _potential support ratio_: 2.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 43 years (2024 est.)<br>
+_total_: 43.4 years (2025 est.)<br>
 _male_: 42.1 years<br>
 _female_: 43.9 years<br>
 
 **Population growth rate**<br>
--0.54% (2024 est.)<br>
+-0.58% (2025 est.)<br>
 
 **Birth rate**<br>
-11.1 births/1,000 population (2024 est.)<br>
+10.88 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9.2 deaths/1,000 population (2024 est.)<br>
+9.43 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--7.3 migrant(s)/1,000 population (2024 est.)<br>
+-7.27 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 overall population density throughout the islands is relatively low, but concentrations appear around Charlotte Amalie on St. Thomas and Christiansted on St. Croix<br>
@@ -136,7 +136,7 @@ _65 years and over_: 0.81 male(s)/female<br>
 _total population_: 0.9 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 7.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 8.3 deaths/1,000 live births<br>
 _female_: 6.3 deaths/1,000 live births<br>
 
@@ -146,17 +146,14 @@ _male_: 77.6 years<br>
 _female_: 84.1 years<br>
 
 **Total fertility rate**<br>
-1.97 children born/woman (2024 est.)<br>
+1.95 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.95 (2024 est.)<br>
+0.95 (2025 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: total_: total: 99.1% of population (2022 est.)<br>
 _unimproved: total_: total: 0.9% of population (2022 est.)<br>
-
-**Currently married women (ages 15-49)**<br>
-27.4% (2023)<br>
 
 ## Environment
 
@@ -425,7 +422,7 @@ _key ports_: Charlotte Amalie, Christiansted, Cruz Bay, Frederiksted, Limetree B
 ## Military and Security
 
 **Military and security forces**<br>
-US Virgin Islands Police Department (VIPD); US Virgin Islands National Guard (VING) (2025)<br>
+US Virgin Islands Police Department (VIPD); US Virgin Islands National Guard (VING)<br>
 
 **Military - note**<br>
 defense is the responsibility of the US<br>

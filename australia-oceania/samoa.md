@@ -103,21 +103,21 @@ _elderly dependency ratio_: 11 (2024 est.)<br>
 _potential support ratio_: 9.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 27.4 years (2024 est.)<br>
+_total_: 27.8 years (2025 est.)<br>
 _male_: 27 years<br>
 _female_: 27.8 years<br>
 
 **Population growth rate**<br>
-0.65% (2024 est.)<br>
+0.66% (2025 est.)<br>
 
 **Birth rate**<br>
-18.8 births/1,000 population (2024 est.)<br>
+18.53 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.4 deaths/1,000 population (2024 est.)<br>
+5.41 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--6.9 migrant(s)/1,000 population (2024 est.)<br>
+-6.57 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 about three quarters of the population lives on the island of Upolu<br>
@@ -140,7 +140,7 @@ _total population_: 1.03 male(s)/female (2024 est.)<br>
 101 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 17.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 17.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 20.9 deaths/1,000 live births<br>
 _female_: 13.6 deaths/1,000 live births<br>
 
@@ -150,10 +150,10 @@ _male_: 72.8 years<br>
 _female_: 78.7 years<br>
 
 **Total fertility rate**<br>
-2.33 children born/woman (2024 est.)<br>
+2.29 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.14 (2024 est.)<br>
+1.12 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -197,7 +197,7 @@ _female_: 12.3% (2025 est.)<br>
 3.4% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-61.7% (2023 est.)<br>
+62% (2020 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.9% (2020)<br>
@@ -290,7 +290,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi II (since 21 July 2017)<br>
-_head of government_: Prime Minister La'auli Leuatea SCHMIDT (since 16 September 2025)<br>
+_head of government_: Prime Minister LA'AULIALEMALIETOA La'auli Leuatea Schmidt (since 16 September 2025)<br>
 _cabinet_: Cabinet appointed by the chief of state on the advice of the prime minister<br>
 _election/appointment process_: chief of state indirectly elected by the Legislative Assembly to serve a 5-year term (2-term limit); following legislative elections, the chief of state usually appoints the leader of the majority party as prime minister, with the approval of the Legislative Assembly<br>
 _most recent election date_: 23 August 2022<br>
@@ -305,7 +305,7 @@ _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 8/29/2025<br>
-_parties elected and seats per party_: Faatuatua ile Atua Samoa ua Tasi (FAST) (32); Human Rights Protection Party (HRPP) (22)<br>
+_parties elected and seats per party_: Faatuatua ile Atua Samoa ua Tasi (FAST) (32); Human Rights Protection Party (HRPP) (22), Sāmoa Uniting Party (SUP) (3), Independents (4)<br>
 _percentage of women in chamber_: 9.8%<br>
 _expected date of next election_: August 2030<br>
 
@@ -315,7 +315,7 @@ _judge selection and term of office_: chief justice appointed by the chief of st
 _subordinate courts_: District Court; Magistrates' Courts; Land and Titles Courts; village chief councils<br>
 
 **Political parties**<br>
-Fa'atuatua i le Atua Samoa ua Tasi or FAST <br>Human Rights Protection Party or HRPP <br>Tautua Samoa Party or TSP <br>
+Fa'atuatua i le Atua Samoa ua Tasi or FAST <br>Human Rights Protection Party or HRPP <br>Sāmoa Uniting Party (SUP)<br>Tautua Samoa Party or TSP<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Pa’olelei LUTERU (since 7 July 2021); note - also Permanent Representative to the UN<br>

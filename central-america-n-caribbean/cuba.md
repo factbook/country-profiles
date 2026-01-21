@@ -108,21 +108,21 @@ _elderly dependency ratio_: 26.5 (2024 est.)<br>
 _potential support ratio_: 3.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 42.6 years (2024 est.)<br>
+_total_: 46.2 years (2025 est.)<br>
 _male_: 41 years<br>
 _female_: 44.4 years<br>
 
 **Population growth rate**<br>
--0.17% (2024 est.)<br>
+-0.6% (2025 est.)<br>
 
 **Birth rate**<br>
-9.9 births/1,000 population (2024 est.)<br>
+7.78 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9.5 deaths/1,000 population (2024 est.)<br>
+11.42 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--2.1 migrant(s)/1,000 population (2024 est.)<br>
+-2.39 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 large population clusters found throughout the country, the more significant ones being in the larger towns and cities, particularly the capital of Havana<br>
@@ -145,7 +145,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 35 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4 deaths/1,000 live births (2024 est.)<br>
+_total_: 5.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 4.5 deaths/1,000 live births<br>
 _female_: 3.5 deaths/1,000 live births<br>
 
@@ -155,10 +155,10 @@ _male_: 77.8 years<br>
 _female_: 82.6 years<br>
 
 **Total fertility rate**<br>
-1.71 children born/woman (2024 est.)<br>
+1.49 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.83 (2024 est.)<br>
+0.72 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 95.5% of population (2022 est.)<br>
@@ -205,7 +205,7 @@ _female_: 9% (2025 est.)<br>
 2.4% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-58% (2023 est.)<br>
+58.6% (2019 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 4.8% (2019)<br>
@@ -554,8 +554,8 @@ _total subscriptions_: 1.589 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 14 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.67 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 68 (2022 est.)<br>
+_total subscriptions_: 7,667,310 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 73 (2024 est.)<br>
 
 **Broadcast media**<br>
 government owns and controls all broadcast media: 8 national TV channels (Cubavision, Cubavision Plus, Tele Rebelde, Multivision, Educational Channel 1 and 2, Canal Clave, Canal Habana), 2 international channels (Cubavision Internacional and Canal Caribe), multiple regional TV stations, 7 national radio networks, and multiple regional radio stations; the government uses the Radio-TV Marti signal; private ownership of electronic media is officially prohibited, with several online independent news sites tolerated but blocked if critical of the government; YouTube popular; Christian denominations create original video content to distribute via social media (2023)<br>
@@ -618,10 +618,10 @@ Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Ground Troops
 limited available information; estimated 50,000 active Armed Forces&nbsp; (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised of Russian and Soviet-era equipment (2024)<br>
+the military's inventory is comprised of Russian and Soviet-era equipment (2025)<br>
 
 **Military service age and obligation**<br>
-17-28 years of age for compulsory (men) and voluntary (men and women) military service; conscripts serve for 18-24 months (2025)<br>
+military service is mandatory for all men and voluntary for women (ages 17-28); service obligation is 24 months with the Armed Forces or the Ministry of Interior; reserve commitment for men until age 45 (2025)<br>
 
 **Military - note**<br>
 the Cuban military is largely focused on protecting territorial integrity and the state; it perceives the US as its primary threat; the military is a central pillar of the Cuban regime and viewed as the guardian of the Cuban revolution; it has a large role in the country&rsquo;s politics and economy; many senior government posts are held by military officers, and the FAR reportedly has interests in agriculture, banking and finance, construction, import/export, ports, industry, real estate, retail, shipping, transportation, and tourism (2025)<br>

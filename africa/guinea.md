@@ -110,21 +110,21 @@ _elderly dependency ratio_: 7.3 (2024 est.)<br>
 _potential support ratio_: 13.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 19.4 years (2024 est.)<br>
+_total_: 19.5 years (2025 est.)<br>
 _male_: 19.2 years<br>
 _female_: 19.6 years<br>
 
 **Population growth rate**<br>
-2.74% (2024 est.)<br>
+2.74% (2025 est.)<br>
 
 **Birth rate**<br>
-35.3 births/1,000 population (2024 est.)<br>
+35.04 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.8 deaths/1,000 population (2024 est.)<br>
+7.69 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2024 est.)<br>
+0 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 areas of highest density are in the west and south; interior is sparsely populated, as shown in this population distribution map<br>
@@ -151,7 +151,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 494 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 47 deaths/1,000 live births (2024 est.)<br>
+_total_: 45.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 51.6 deaths/1,000 live births<br>
 _female_: 42.3 deaths/1,000 live births<br>
 
@@ -161,10 +161,10 @@ _male_: 62.7 years<br>
 _female_: 66.6 years<br>
 
 **Total fertility rate**<br>
-4.78 children born/woman (2024 est.)<br>
+4.75 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-2.36 (2024 est.)<br>
+2.34 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 92% of population (2022 est.)<br>
@@ -203,7 +203,7 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 15% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-68.7% (2023 est.)<br>
+70.9% (2018 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 17% (2018)<br>
@@ -313,8 +313,8 @@ _chief of state_: Interim President Col. Mamady DOUMBOUYA (since 1 October 2021)
 _head of government_: Prime Minister Amadou Oury BAH (since 27 February 2024)<br>
 _cabinet_: formerly the Council of Ministers appointed by the president<br>
 _election/appointment process_: formerly, the president was directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term), and the prime minister was appointed by the president<br>
-_most recent election date_: 18 October 2020<br>
-_election results_: <em><br>2020: </em>Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%<br><br><em>2015: </em>Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 57.8%, Cellou Dalein DIALLO (UFDG) 31.4%, other 10.8%<br>
+_most recent election date_: 28 December 2025<br>
+_election results_: <em>2025: </em>Mamady DOUMBOUYA elected president in the first round; percent of vote -Mamady DOUMBOUYA (Independent) 86.7%, Abdoulaye Yero BALDE (DFG) 6.5%, other 7%<br><em><br>2020: </em>Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%<br><br>
 <strong>note 1:</strong> in 2021, the military arrested and detained the president, suspended the constitution, and dissolved the government and legislature<br><br><strong>note 2:</strong> the transitional government has not announced a new election timetable<br>
 
 **Legislative branch**<br>
@@ -566,8 +566,8 @@ _total subscriptions_: 0 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 13.8 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 102 (2021 est.)<br>
+_total subscriptions_: 15,303,900 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 109 (2022 est.)<br>
 
 **Broadcast media**<br>
 government maintains control over broadcast media; single state-run TV station; state-run radio also operates several stations in rural areas; a dozen private TV stations; many privately owned radio stations, nearly all in Conakry, and about a dozen community radio stations; foreign TV programming available via satellite and cable subscription services (2022)<br>
@@ -614,7 +614,7 @@ _key ports_: Benti, Conakry, Kamsar, Victoria<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Guinean (or National) Armed Forces (Forces Armées Guinéennes): Army, Air Force, Navy, National Gendarmerie<br><br>Ministry of Security: National Police (2024)<br>
+Guinean (or National) Armed Forces (Forces Armées Guinéennes): Army, Air Force, Navy, National Gendarmerie<br><br>Ministry of Security: National Police (2025)<br>
 <strong>note:</strong> the Gendarmerie and National Police share responsibility for internal security; Guinea's military and security forces are sometimes collectively referred to as the Defense and Security Forces<br>
 
 **Military expenditures**<br>
@@ -628,10 +628,10 @@ Guinean (or National) Armed Forces (Forces Armées Guinéennes): Army, Air Force
 estimated 10-12,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Guinean military's inventory consists almost entirely of Soviet-era weapons and equipment along with small amounts of secondhand material from China, France, Russia, and South Africa&nbsp; (2024)<br>
+the Guinean military's inventory consists almost entirely of ageing Soviet-era weapons and equipment along with small amounts of secondhand arms from China, France, Russia, and South Africa (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary and selective conscripted service; 9-12 months of service (2023)<br>
+18 years of age for voluntary and selective conscripted service; 9-12 months of service (2025)<br>
 
 **Military - note**<br>
 the Guinean military is responsible for territorial defense, but also has some domestic security responsibilities and has historically been involved in suppressing public protests; in 2021 the Army&rsquo;s special forces led a military overthrow of the government; the military-led government has since been accused of cracking down on dissent, the media, and political opposition; border security is a key focus for the Guinean military, particularly a territorial dispute with Sierra Leone that dates back to 2001 (2025)<br>

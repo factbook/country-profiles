@@ -111,21 +111,21 @@ _elderly dependency ratio_: 33.6 (2024 est.)<br>
 _potential support ratio_: 3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 44.8 years (2024 est.)<br>
+_total_: 45.1 years (2025 est.)<br>
 _male_: 42.8 years<br>
 _female_: 46.7 years<br>
 
 **Population growth rate**<br>
--0.28% (2024 est.)<br>
+-0.29% (2025 est.)<br>
 
 **Birth rate**<br>
-9.1 births/1,000 population (2024 est.)<br>
+9.03 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-14.5 deaths/1,000 population (2024 est.)<br>
+14.41 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-2.5 migrant(s)/1,000 population (2024 est.)<br>
+2.45 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -151,7 +151,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 12 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 4.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 5 deaths/1,000 live births<br>
 _female_: 4.3 deaths/1,000 live births<br>
 
@@ -161,10 +161,10 @@ _male_: 72.9 years<br>
 _female_: 79.3 years<br>
 
 **Total fertility rate**<br>
-1.6 children born/woman (2024 est.)<br>
+1.6 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.78 (2024 est.)<br>
+0.78 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -208,7 +208,7 @@ _male_: 33.7% (2025 est.)<br>
 _female_: 23.8% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-51.4% (2023 est.)<br>
+52.3% (2022 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.8% of GDP (2022 est.)<br>
@@ -645,14 +645,13 @@ Hungarian Defense Forces (HDF or Magyar Honvédség): the HDF is organized as a 
 1.7% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 22,000 active-duty military personnel (2025)<br>
+approximately 30,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the HDF has a mix of Soviet-era and more modern, Western equipment from such countries as Germany, France, Sweden, and the US; in 2017, Budapest launched a modernization program aimed at replacing its Soviet-era weaponry with modern systems; Hungary has also placed emphasis on building up its defense industrial capacity (2024)<br>
+the HDF has a mix of Soviet-era and more modern, NATO-compatible arms from such countries as Germany, France, Norway, Sweden, T&uuml;rkiye, and the US; in 2017, Budapest launched a modernization program aimed at replacing its Soviet-era weaponry with modern systems; Hungary has also placed emphasis on building up its defense industrial capacity (2025)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service; no conscription (abolished 2005); 6-month service obligation (2023)<br>
-<strong>note:</strong> as of 2021, women comprised over 20% of Hungary's full-time military personnel<br>
+18 years of age for voluntary military service; no conscription (abolished 2005) (2026)<br>
 
 **Military deployments**<br>
 250 Bosnia-Herzegovina (EUFOR stabilization force); 200 Chad; 470 Kosovo (NATO/KFOR) (2025)<br>

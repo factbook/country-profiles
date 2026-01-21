@@ -118,21 +118,21 @@ _elderly dependency ratio_: 6 (2024 est.)<br>
 _potential support ratio_: 16.6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 19.3 years (2024 est.)<br>
+_total_: 19.4 years (2025 est.)<br>
 _male_: 19.1 years<br>
 _female_: 19.6 years<br>
 
 **Population growth rate**<br>
-2.52% (2024 est.)<br>
+2.39% (2025 est.)<br>
 
 **Birth rate**<br>
-33.8 births/1,000 population (2024 est.)<br>
+33.56 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.4 deaths/1,000 population (2024 est.)<br>
+9.42 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.2 migrant(s)/1,000 population (2024 est.)<br>
+-0.24 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 largest population of any African nation; significant population clusters are scattered throughout the country, with the highest density areas being in the south and southwest, as shown in this population distribution map<br>
@@ -159,7 +159,7 @@ _total population_: 1.02 male(s)/female (2024 est.)<br>
 993 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 53.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 65.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 58.9 deaths/1,000 live births<br>
 _female_: 48.2 deaths/1,000 live births<br>
 
@@ -169,10 +169,10 @@ _male_: 60.4 years<br>
 _female_: 64.2 years<br>
 
 **Total fertility rate**<br>
-4.52 children born/woman (2024 est.)<br>
+4.59 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-2.19 (2024 est.)<br>
+2.23 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 93.7% of population (2022 est.)<br>
@@ -216,7 +216,7 @@ _female_: 0.3% (2025 est.)<br>
 24.4% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-66.2% (2023 est.)<br>
+67.6% (2018 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 12.3% (2021)<br>
@@ -669,7 +669,7 @@ Armed Forces of Nigeria (AFN): Nigerian Army, Nigerian Navy (includes Coast Guar
 information varies; estimated 140,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; the military is undergoing a modernization program, and in recent years has received equipment from a range of suppliers, including Brazil, China, France, Italy, Russia, South Korea, Turkey, and the US; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2025)<br>
+the military's inventory consists primarily of imported weapons systems from a range of countries, including Brazil, China, France, Russia/former Soviet Union, South Korea, T&uuml;rkiye, and the US; Nigeria is developing a defense-industry capacity, including small arms, light armored personnel vehicles, and small-scale naval production (2025)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service for men and women; no conscription (2025)<br>

@@ -103,21 +103,21 @@ _elderly dependency ratio_: 17.3 (2024 est.)<br>
 _potential support ratio_: 5.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 37.1 years (2024 est.)<br>
+_total_: 37.5 years (2025 est.)<br>
 _male_: 34.8 years<br>
 _female_: 39 years<br>
 
 **Population growth rate**<br>
-1.74% (2024 est.)<br>
+1.71% (2025 est.)<br>
 
 **Birth rate**<br>
-11.8 births/1,000 population (2024 est.)<br>
+11.69 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-4.7 deaths/1,000 population (2024 est.)<br>
+4.76 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-10.3 migrant(s)/1,000 population (2024 est.)<br>
+10.13 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in The Valley in the center of the island; settlement is fairly uniform in the southwest, but rather sparse in the northeast<br>
@@ -137,7 +137,7 @@ _65 years and over_: 0.93 male(s)/female<br>
 _total population_: 0.88 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3 deaths/1,000 live births (2024 est.)<br>
+_total_: 2.9 deaths/1,000 live births (2025 est.)<br>
 _male_: 3.9 deaths/1,000 live births<br>
 _female_: 2.1 deaths/1,000 live births<br>
 
@@ -147,19 +147,16 @@ _male_: 80 years<br>
 _female_: 85.3 years<br>
 
 **Total fertility rate**<br>
-1.72 children born/woman (2024 est.)<br>
+1.72 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.85 (2024 est.)<br>
+0.85 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 97.5% of population<br>
 
 **Physician density**<br>
 1.51 physicians/1,000 population (2018)<br>
-
-**Currently married women (ages 15-49)**<br>
-46.1% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 2.5% of GDP (2022 est.)<br>
@@ -352,8 +349,8 @@ _total subscriptions_: 6,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 38 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 26,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 170 (2021 est.)<br>
+_total subscriptions_: 25,870 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 163 (2022 est.)<br>
 
 **Broadcast media**<br>
 1 private TV station; multi-channel cable TV subscription services are available; about 10 radio stations, one of which is government-owned (2024)<br>

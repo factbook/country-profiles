@@ -99,21 +99,21 @@ _elderly dependency ratio_: 18.8 (2024 est.)<br>
 _potential support ratio_: 5.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 36.3 years (2024 est.)<br>
+_total_: 36.9 years (2025 est.)<br>
 _male_: 35.5 years<br>
 _female_: 37.3 years<br>
 
 **Population growth rate**<br>
-0.22% (2024 est.)<br>
+0.19% (2025 est.)<br>
 
 **Birth rate**<br>
-11.8 births/1,000 population (2024 est.)<br>
+11.63 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6 deaths/1,000 population (2024 est.)<br>
+6.13 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--3.6 migrant(s)/1,000 population (2024 est.)<br>
+-3.56 migrant(s)/1,000 population (2025 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 0% of total population (2023)<br>
@@ -130,7 +130,7 @@ _65 years and over_: 1.02 male(s)/female<br>
 _total population_: 1.06 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 3.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 3.8 deaths/1,000 live births<br>
 _female_: 3.9 deaths/1,000 live births<br>
 
@@ -140,10 +140,10 @@ _male_: 78.2 years<br>
 _female_: 84.2 years<br>
 
 **Total fertility rate**<br>
-1.71 children born/woman (2024 est.)<br>
+1.71 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.83 (2024 est.)<br>
+0.84 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: rural_: rural: 99.3% of population (2022 est.)<br>
@@ -159,7 +159,7 @@ _unimproved: rural_: rural: 5.8% of population (2022 est.)<br>
 _unimproved: total_: total: 5.8% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-56% (2023)<br>
+57.2% (2018 est.)<br>
 
 **Literacy**<br>
 _total population_: 99.8% (2023 est.)<br>

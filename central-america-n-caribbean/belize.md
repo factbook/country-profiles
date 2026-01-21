@@ -107,21 +107,21 @@ _elderly dependency ratio_: 8.3 (2024 est.)<br>
 _potential support ratio_: 12 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 26.8 years (2024 est.)<br>
+_total_: 27.2 years (2025 est.)<br>
 _male_: 26.4 years<br>
 _female_: 27.2 years<br>
 
 **Population growth rate**<br>
-1.47% (2024 est.)<br>
+1.47% (2025 est.)<br>
 
 **Birth rate**<br>
-17.7 births/1,000 population (2024 est.)<br>
+17.44 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5 deaths/1,000 population (2024 est.)<br>
+4.87 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-2 migrant(s)/1,000 population (2024 est.)<br>
+2.17 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 approximately 25% to 30% of the population lives in the former capital, Belize City; over half of the overall population is rural; population density is slightly higher in the north and east<br>
@@ -144,7 +144,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 67 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 11.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 12.4 deaths/1,000 live births<br>
 _female_: 10.1 deaths/1,000 live births<br>
 
@@ -154,10 +154,10 @@ _male_: 72.6 years<br>
 _female_: 76.1 years<br>
 
 **Total fertility rate**<br>
-2.05 children born/woman (2024 est.)<br>
+2.02 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1 (2024 est.)<br>
+0.99 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.9% of population (2022 est.)<br>
@@ -202,9 +202,6 @@ _female_: 1.8% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 4.6% (2015/16)<br>
-
-**Currently married women (ages 15-49)**<br>
-64.3% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 6.3% (2016)<br>
@@ -583,8 +580,8 @@ _total subscriptions_: 19,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 264,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 66 (2021 est.)<br>
+_total subscriptions_: 270,536 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 67 (2022 est.)<br>
 
 **Broadcast media**<br>
 8 privately owned TV stations; multi-channel cable TV provides access to foreign stations; about 25 radio stations broadcasting on roughly 50 different frequencies; state-run radio was privatized in 1998 (2019)<br>
@@ -641,10 +638,10 @@ Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard (BCG) (2025)<br>
 approximately 1,500 BDF personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military has a small inventory consisting mostly of UK- and US-origin equipment (2024)<br>
+the military has a small inventory consisting mostly of UK- and US-origin equipment (2025)<br>
 
 **Military service age and obligation**<br>
-18-23 years of age for voluntary military service; laws allow for conscription only if volunteers are insufficient, but conscription has never been implemented; initial service obligation is 12 years (2024)<br>
+18-23 years of age for voluntary military service; laws allow for conscription only if volunteers are insufficient, but conscription has never been implemented; initial service obligation is 12 years (2025)<br>
 
 **Military - note**<br>
 the Belize Defense Force (BDF) is responsible for external security but also provides some support to civilian authorities; it has limited powers of arrest within land and shoreline areas, while the Coast Guard has arrest powers and jurisdiction within coastal and maritime areas; the BDF traces its history back to the Prince Regent Royal Honduras Militia, a volunteer force established in 1817; the BDF was established in 1978 from the disbanded Police Special Force and the Belize Volunteer Guard to assist the resident British forces with the defense of Belize against Guatemala<br><br>the British Army has maintained a presence in Belize since its independence; the presence consists of a small training support unit that provides jungle training to troops from the UK and international partners (2025)<br>

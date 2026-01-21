@@ -113,21 +113,21 @@ _elderly dependency ratio_: 11.1 (2024 est.)<br>
 _potential support ratio_: 9 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 29.1 years (2024 est.)<br>
+_total_: 29.3 years (2025 est.)<br>
 _male_: 28.8 years<br>
 _female_: 29.4 years<br>
 
 **Population growth rate**<br>
-1.54% (2024 est.)<br>
+1.47% (2025 est.)<br>
 
 **Birth rate**<br>
-20.2 births/1,000 population (2024 est.)<br>
+19.62 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-4.4 deaths/1,000 population (2024 est.)<br>
+4.39 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.5 migrant(s)/1,000 population (2024 est.)<br>
+-0.52 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the vast majority of the populace is found in the extreme northern part of the country along the Mediterranean Coast<br>
@@ -150,7 +150,7 @@ _total population_: 1.03 male(s)/female (2024 est.)<br>
 62 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 18.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 19.8 deaths/1,000 live births<br>
 _female_: 17.5 deaths/1,000 live births<br>
 
@@ -160,10 +160,10 @@ _male_: 77.2 years<br>
 _female_: 78.7 years<br>
 
 **Total fertility rate**<br>
-2.94 children born/woman (2024 est.)<br>
+2.91 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.43 (2024 est.)<br>
+1.42 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 96.1% of population (2022 est.)<br>
@@ -210,7 +210,7 @@ _female_: 0.6% (2025 est.)<br>
 2.7% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-56% (2023 est.)<br>
+55.5% (2019 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0% (2019)<br>
@@ -596,8 +596,8 @@ _total subscriptions_: 6.324 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 14 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 51.5 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 109 (2022 est.)<br>
+_total subscriptions_: 5,152,210 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 116 (2024 est.)<br>
 
 **Broadcast media**<br>
 Radio Alg&eacute;rienne is the state-run radio broadcast; the National Company of Television (Entreprise Nationale de T&eacute;l&eacute;vision (ENTV)) is the primary state-run public TV station (2024)<br>
@@ -656,11 +656,10 @@ Algerian People's National Army (ANP): Land Forces, Naval Forces (includes Coast
 information varies; estimated 200,000 active ANP, including the National Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Algerian military has traditionally been armed mostly with Russian and Soviet-era weapons systems and equipment; over the past decade, it has made large investments in acquiring more modern armored vehicles, air defense systems, fighter aircraft, missiles, unmanned aerial vehicles, and warships, largely from Russia, its traditional supplier, but also China and Western European suppliers such as Germany (2024)<br>
+the Algerian military has traditionally been armed mostly with Russian and Soviet-era weapons systems and equipment; over the past decade, it has made investments in acquiring more modern armored vehicles, air defense systems, fighter aircraft, missiles, unmanned aerial vehicles, and warships, largely from Russia, its traditional supplier, but also China and Western European suppliers such as Germany (2025)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service for men and women; 19-30 years of age for mandatory national service for men (all Algerian men must register at age 17); service obligation reduced from 18 to 12 months in 2014 (2024)<br>
-<strong>note: </strong>conscripts comprise an estimated 70% of the military<br>
+18 years of age for voluntary military service for men and women; 19 years of age for mandatory national service for men (all Algerian men must register at age 17); 12 months national service obligation (2025)<br>
 
 **Military - note**<br>
 the ANP is responsible for external defense but also has some internal security responsibilities; key areas of concern include border and maritime security, terrorism, regional instability, and tensions with Morocco; Algeria supports the pro-independence Polisario Front in Western Sahara and accuses Morocco of supporting the Algerian separatist Movement for the Autonomy of Kabylie (MAK); border security and counterterrorism have received additional focus since the Arab Spring events of 2011 and the rise of terrorist threats emanating from Libya and the Sahel; the Army and Ministry of Defense (MND) paramilitary forces of the Gendarmerie and the border guards have beefed up their presence along the frontiers with Tunisia, Libya, Niger, and Mali to interdict and deter cross-border attacks by Islamist militant groups; the ANP and MND paramilitary forces have also increased counterterrorism cooperation with some neighboring countries, particularly Tunisia, including joint operations<br><br>the ANP has also played a large role in the country’s politics since independence in 1962, including coups in 1965 and 1991; it was a key backer of BOUTEFLIKA’s election in 1999 and remained a center of power during his 20-year rule; the military was instrumental in BOUTEFLIKA’s resignation in 2019, when it withdrew support and called for him to be removed from office (2024)<br>

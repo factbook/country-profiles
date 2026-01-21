@@ -112,21 +112,21 @@ _elderly dependency ratio_: 10.8 (2024 est.)<br>
 _potential support ratio_: 9.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 28.3 years (2024 est.)<br>
+_total_: 28.6 years (2025 est.)<br>
 _male_: 26.9 years<br>
 _female_: 29.8 years<br>
 
 **Population growth rate**<br>
-0.79% (2024 est.)<br>
+0.75% (2025 est.)<br>
 
 **Birth rate**<br>
-18.7 births/1,000 population (2024 est.)<br>
+18.26 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6 deaths/1,000 population (2024 est.)<br>
+5.99 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--4.8 migrant(s)/1,000 population (2024 est.)<br>
+-4.75 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the vast majority of Kyrgyzstanis live in rural areas; densest population settlement is to the north in and around the capital, Bishkek, followed by Osh in the west; the least densely populated area is the east, in the Tien Shan mountains<br>
@@ -152,7 +152,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 42 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 24.5 deaths/1,000 live births (2024 est.)<br>
+_total_: 24 deaths/1,000 live births (2025 est.)<br>
 _male_: 28.6 deaths/1,000 live births<br>
 _female_: 20.2 deaths/1,000 live births<br>
 
@@ -162,10 +162,10 @@ _male_: 68.9 years<br>
 _female_: 77.2 years<br>
 
 **Total fertility rate**<br>
-2.45 children born/woman (2024 est.)<br>
+2.43 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.19 (2024 est.)<br>
+1.18 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.2% of population (2022 est.)<br>
@@ -212,7 +212,7 @@ _female_: 3.1% (2025 est.)<br>
 2.9% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-66.2% (2023 est.)<br>
+57.4% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.3% (2018)<br>
@@ -315,7 +315,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Sadyr JAPAROV (since 28 January 2021)<br>
-_head of government_: President Adylbek KASYMALIYEV (since 18 December 2024)<br>
+_head of government_: Chairman of the Cabinet of Ministers Adylbek KASYMALIYEV (since 18 December 2024)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a five-year term (eligible for a second term)<br>
 _most recent election date_: 10 January 2021<br>
@@ -344,7 +344,7 @@ _subordinate courts_: Higher Court of Arbitration; oblast (provincial) and city 
 Afghan's Party<br>Alliance<br>Cohesion<br>Fatherland Kyrgyzstan<br>Ishenim<br>Light of Faith<br>Mekenchil<br>Social Democrats or SDK<br>United Kyrgyzstan<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Aibek MOLDOGAZIEV (since 25 February 2025)<br>
+_chief of mission_: Ambassador Aibek MOLDOGAZIEV (since 11 June 2025)<br>
 _chancery_: 2360 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 449-9822<br>
 _FAX_: [1] (202) 449-8275<br>
@@ -641,10 +641,10 @@ Armed Forces of the Kyrgyz Republic: Land Forces (Kygyz Army), Air Defense Force
 limited available information; estimated 10-15,000 active Armed Forces, including the National Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Kyrgyz military inventory is comprised almost entirely of Russian and Soviet-era weapons and equipment; in recent years, the military has acquired small amounts of material from other suppliers such as Turkey, which provided unmanned aerial vehicles/drones (2024)<br>
+the Kyrgyz military inventory is comprised almost entirely of Russian and Soviet-era weapons and equipment; in recent years, the military has acquired small amounts of armaments from other suppliers such as T&uuml;rkiye, which provided unmanned aerial vehicles/drones (2025)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory or voluntary service for men in the Armed Forces or Interior Ministry; 12-month service obligation (9 months for university graduates), with optional fee-based 3-year service in the call-up mobilization reserve; women may volunteer at age 19; 16-17 years of age for military cadets, who cannot take part in military operations (2023)<br>
+18-27 years of age for compulsory or voluntary service for men in the Armed Forces or Interior Ministry; 12-month service obligation (9 months for university graduates), with optional fee-based 3-year service in the call-up mobilization reserve; women may volunteer at age 19; 16-17 years of age for military cadets, who cannot take part in military operations (2025)<br>
 
 **Military - note**<br>
 the Kyrgyz military’s primary responsibility is defense of the country’s sovereignty and territory, although it also has some internal security duties; the military also participates in UN and Collective Security Treaty Organization (CSTO) peacekeeping missions, as well as bilateral and multinational exercises; particular issues of concern include border security and terrorism; the military’s closest security partner is Russia, which provides training and material assistance, and maintains a presence in the country, including an airbase; the military also conducts training with other regional countries such as India, traditionally with a focus on counterterrorism<br><br>Kyrgyzstan has been a member of CSTO since 1994 and contributes troops to CSTO's rapid reaction force; it also started a relationship with NATO in 1992 and joined NATO's Partnership for Peace program in 1994 (2025)<br>

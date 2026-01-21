@@ -110,21 +110,21 @@ _elderly dependency ratio_: 7.4 (2024 est.)<br>
 _potential support ratio_: 13.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 25.4 years (2024 est.)<br>
+_total_: 25.8 years (2025 est.)<br>
 _male_: 25 years<br>
 _female_: 25.7 years<br>
 
 **Population growth rate**<br>
-1.26% (2024 est.)<br>
+1.22% (2025 est.)<br>
 
 **Birth rate**<br>
-19.8 births/1,000 population (2024 est.)<br>
+19.22 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.2 deaths/1,000 population (2024 est.)<br>
+6.07 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1 migrant(s)/1,000 population (2024 est.)<br>
+-0.93 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most densely populated area is in and around the capital city of Vientiane; large communities are primarily found along the Mekong River along the southwestern border; overall density is considered one of the lowest in Southeast Asia<br>
@@ -147,7 +147,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 112 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 35.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 34.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 39.1 deaths/1,000 live births<br>
 _female_: 31.6 deaths/1,000 live births<br>
 
@@ -157,10 +157,10 @@ _male_: 67.4 years<br>
 _female_: 70.7 years<br>
 
 **Total fertility rate**<br>
-2.24 children born/woman (2024 est.)<br>
+2.19 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.1 (2024 est.)<br>
+1.07 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 97.1% of population (2022 est.)<br>
@@ -207,7 +207,7 @@ _female_: 7.2% (2025 est.)<br>
 24.3% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-60.1% (2023 est.)<br>
+61.6% (2017 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 7.1% (2017)<br>
@@ -321,6 +321,7 @@ _election/appointment process_: president and vice president indirectly elected 
 _most recent election date_: 22 March 2021<br>
 _election results_: <em><br>2021: </em>THONGLOUN Sisoulith (LPRP) elected president; National Assembly vote - 161-1; PHANKHAM Viphavanh (LPRP) elected prime minister; National Assembly vote - 158-3<br><br><em>2016:</em> BOUNNHANG Vorachit (LPRP) elected president; percent of National Assembly vote - NA; THONGLOUN Sisoulith (LPRP) elected prime minister; percent of National Assembly vote - NA<br>
 _expected date of next election_: March 2026<br>
+<strong>note:</strong> President THONGLOUN Sisoulith is also general secretary of the Lao People's Revolutionary Party<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Sapha Heng Xat)<br>
@@ -585,8 +586,8 @@ _total subscriptions_: 1.3 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 18 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.82 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 65 (2021 est.)<br>
+_total subscriptions_: 4.96 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 65 (2023 est.)<br>
 
 **Broadcast media**<br>
 6 TV stations operating out of Vientiane, with half state-operated and half commercial; 17 provincial stations, with nearly all programming relayed via satellite from the state-operated stations in Vientiane; multi-channel satellite and cable TV systems provide access to a wide range of foreign stations; state-controlled radio with state-operated Lao National Radio (LNR) broadcasting on 5 frequencies; transmissions of multiple international broadcasters are accessible<br>
@@ -634,10 +635,10 @@ Lao People's Armed Forces (LPAF; aka Lao People's Army): Lao People's Army (LPA,
 information limited and varied; estimated 30,000 active Armed Forces; estimated 100,000 Self-Defense Militia Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the LPAF is armed with Chinese, Russian, and Soviet-era equipment and weapons (2024)<br>
+the LPAF is armed with Chinese, Russian, and Soviet-era equipment and weapons (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory or voluntary military service; minimum 18-month service obligation (2023)<br>
+18 years of age for voluntary military service; mandatory military service for men 18-35 with a minimum 18-month service obligation (2025)<br>
 
 **Military - note**<br>
 the LPAF&rsquo;s primary missions are border and internal security, including counterinsurgency, counterterrorism, and counter-narcotics operations, as well as protecting the regime; its defense partners include Cambodia, China, Russia, and Vietnam (2025)<br>

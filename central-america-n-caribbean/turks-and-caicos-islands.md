@@ -101,21 +101,21 @@ _elderly dependency ratio_: 8.7 (2024 est.)<br>
 _potential support ratio_: 11.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 36.3 years (2024 est.)<br>
+_total_: 36.6 years (2025 est.)<br>
 _male_: 36.5 years<br>
 _female_: 36.1 years<br>
 
 **Population growth rate**<br>
-1.77% (2024 est.)<br>
+1.73% (2025 est.)<br>
 
 **Birth rate**<br>
-13 births/1,000 population (2024 est.)<br>
+12.73 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-3.6 deaths/1,000 population (2024 est.)<br>
+3.59 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-8.3 migrant(s)/1,000 population (2024 est.)<br>
+8.13 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 eight of the thirty islands are inhabited; the island of Providenciales is the most populated, but the most densely populated is Grand Turk<br>
@@ -135,7 +135,7 @@ _65 years and over_: 0.94 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 10.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 13.9 deaths/1,000 live births<br>
 _female_: 8.1 deaths/1,000 live births<br>
 
@@ -145,10 +145,10 @@ _male_: 78.5 years<br>
 _female_: 84.1 years<br>
 
 **Total fertility rate**<br>
-1.7 children born/woman (2024 est.)<br>
+1.7 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.83 (2024 est.)<br>
+0.83 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.2% of population (2022 est.)<br>
@@ -170,7 +170,7 @@ _unimproved: total_: total: 1.3% of population (2022 est.)<br>
 0.4% (2020 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-59.1% (2023 est.)<br>
+59.3% (2020 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0% (2020)<br>

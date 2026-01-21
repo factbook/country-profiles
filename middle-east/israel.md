@@ -108,21 +108,21 @@ _elderly dependency ratio_: 20.4 (2024 est.)<br>
 _potential support ratio_: 4.9 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 30.1 years (2024 est.)<br>
+_total_: 30.2 years (2025 est.)<br>
 _male_: 29.6 years<br>
 _female_: 30.7 years<br>
 
 **Population growth rate**<br>
-1.58% (2024 est.)<br>
+1.59% (2025 est.)<br>
 
 **Birth rate**<br>
-19.1 births/1,000 population (2024 est.)<br>
+18.89 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.2 deaths/1,000 population (2024 est.)<br>
+4.89 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-1.9 migrant(s)/1,000 population (2024 est.)<br>
+1.88 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population concentrated in and around Tel-Aviv, as well as around the Sea of Galilee; the south remains sparsely populated, with the exception of the shore of the Gulf of Aqaba<br>
@@ -148,7 +148,7 @@ _total population_: 1.01 male(s)/female (2024 est.)<br>
 2 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.8 deaths/1,000 live births (2024 est.)<br>
+_total_: 2.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 3.3 deaths/1,000 live births<br>
 _female_: 2.3 deaths/1,000 live births<br>
 
@@ -158,10 +158,10 @@ _male_: 81.1 years<br>
 _female_: 85.1 years<br>
 
 **Total fertility rate**<br>
-2.92 children born/woman (2024 est.)<br>
+2.89 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.42 (2024 est.)<br>
+1.41 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -205,7 +205,7 @@ _male_: 24.9% (2025 est.)<br>
 _female_: 12.4% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-51.7% (2023 est.)<br>
+50.4% (2021 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 5.9% of GDP (2022 est.)<br>
@@ -646,11 +646,10 @@ Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes com
 approximately 170,000 active-duty Defense Forces (130,000 Ground Forces; 10,000 Naval; 30,000 Air Force); more than 400,000 reserves (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the majority of the IDF's inventory is comprised of weapons that are domestically produced or imported from Europe and the US; the US has been the leading supplier of arms in recent years; Israel has a broad defense industrial base that can develop, produce, support, and sustain a wide variety of weapons systems for both domestic use and export, particularly armored vehicles, unmanned aerial systems, air defense, and guided missiles (2024)<br>
+the majority of the IDF's inventory is comprised of weapons that are domestically produced or imported from Europe and the US; the US has been the leading supplier of arms in recent years; Israel's defense industry can develop, produce, support, and sustain a wide variety of weapons systems for both domestic use and export, particularly armored vehicles, unmanned aerial systems, air defense, and guided missiles (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory military service; 17 years of age for voluntary military service; Jews and Druze can be conscripted; Christians, Circassians, and Muslims may volunteer; both sexes are obligated to military service; conscript service obligation is 32 months for enlisted men and about 24 months for enlisted women (varies based on military occupation); officers serve 48 months; Air Force pilots commit to 9 years of service; reserve obligation to age 41-51 (men), age 24 (women) (2024)<br>
-<strong>note:</strong> the IDF recruits foreign Jews and non-Jews with a minimum of one Jewish grandparent, as well as converts to Judaism; each year the IDF brings in about 800-1,000 foreign recruits from around the world<br>
+18-28 years of age for voluntary military service; 18 months service for men, 12 months for women; 18-21 years of age for compulsory military service for men and women; Jews and Druze can be conscripted; Christians, Circassians, and Muslims may volunteer; conscript service obligation is up to 36 months for enlisted personnel (depending on sex, marital status, and military occupation); officers serve 48 months; Air Force pilots commit to 9 years of service (2024)<br>
 
 **Military - note**<br>
 the IDF is responsible for external defense but also has some domestic security responsibilities; its primary operational focuses include the threat posed by Iran, instability in Syria, and terrorist organizations, including HAMAS, Hizballah, and Palestine Islamic Jihad; since its creation from armed Jewish militias during the First Arab-Israeli War in 1948-49, the IDF, particularly the Ground Force, has been guided by a requirement to rapidly mobilize and defend the country’s territory from numerically superior neighboring countries; the active-duty military is backed up by a large force of trained reserves--approximately 300-400,000 personnel--that can be mobilized rapidly <br><br>Israel’s primary security partner is the US; consistent with a 10-year (2019-2028) Memorandum of Understanding, the US annually provides over $3 billion in military financing and cooperative military programs, such as missile defense; the US also provides Israel access to US-produced military weapons systems including advanced fighter aircraft; Israel has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; UNDOF consists of about 1,300 total personnel (2025)<br>

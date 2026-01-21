@@ -113,21 +113,21 @@ _elderly dependency ratio_: 6.7 (2024 est.)<br>
 _potential support ratio_: 15 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 24.1 years (2024 est.)<br>
+_total_: 24.5 years (2025 est.)<br>
 _male_: 23.6 years<br>
 _female_: 24.7 years<br>
 
 **Population growth rate**<br>
-1.67% (2024 est.)<br>
+1.63% (2025 est.)<br>
 
 **Birth rate**<br>
-21.7 births/1,000 population (2024 est.)<br>
+21.26 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-4 deaths/1,000 population (2024 est.)<br>
+3.97 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1.1 migrant(s)/1,000 population (2024 est.)<br>
+-1.03 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 significant population density along the Mediterranean coast; larger concentrations found in the major cities of Damascus, Aleppo (the country's largest city), and Hims (Homs); more than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley<br>
@@ -151,7 +151,7 @@ _total population_: 1.01 male(s)/female (2024 est.)<br>
 20 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 14.7 deaths/1,000 live births (2025 est.)<br>
 _male_: 16.6 deaths/1,000 live births<br>
 _female_: 13.5 deaths/1,000 live births<br>
 
@@ -161,10 +161,10 @@ _male_: 73.4 years<br>
 _female_: 76.4 years<br>
 
 **Total fertility rate**<br>
-2.69 children born/woman (2024 est.)<br>
+2.64 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.31 (2024 est.)<br>
+1.28 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 95.6% of population (2022 est.)<br>
@@ -200,9 +200,6 @@ _beer_: 0.02 liters of pure alcohol (2019 est.)<br>
 _wine_: 0 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0.11 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
-
-**Currently married women (ages 15-49)**<br>
-52.6% (2023 est.)<br>
 
 **Literacy**<br>
 _total population_: 94.4% (2021 est.)<br>
@@ -271,7 +268,7 @@ _former_: United Arab Republic (with Egypt)<br>
 _etymology_: the source of the name is uncertain; the name appears as "Suri" in Babylonian cuneiform writings dating from about 4000 B.C.<br>
 
 **Government type**<br>
-presidential republic; highly authoritarian regime<br>
+transitional presidential republic<br>
 
 **Capital**<br>
 _name_: Damascus<br>
@@ -301,7 +298,7 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: vacant; former President Bashar al-ASAD was overthrown by Islamist rebels on 8 December 2024; ASAD and his family flew to Moscow where they were granted political asylum<br>
+_chief of state_: Ahmad al-Shara'; former President Bashar al-ASAD was overthrown by Islamist rebels on 8 December 2024<br>
 _head of government_: Prime Minister Muhammad al-BASHIR (since 8 December 2024)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _election/appointment process_: president directly elected by simple-majority popular vote for a 7-year term (eligible for a second term); the president appoints the vice president and prime minister<br>
@@ -605,7 +602,7 @@ the interim government authorities in Syria have established a Ministry of Defen
 not available<br>
 
 **Military equipment inventories and acquisitions**<br>
-prior to the fall of the ASAD regime in December 2024, the SAF was inventory was comprised mostly of Russian and Soviet-era weapons and equipment (2024)<br>
+the military forces of Syria are equipped with Russian and Soviet-era armaments (2025)<br>
 
 **Military service age and obligation**<br>
 prior to the fall of the ASAD regime in December 2024, men 18-42 were obligated to perform military service; compulsory service obligation was up to 30 months; women were not conscripted but could volunteer to serve, including in combat arms (2024)<br>

@@ -116,21 +116,21 @@ _elderly dependency ratio_: 5.7 (2024 est.)<br>
 _potential support ratio_: 17.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 15.2 years (2024 est.)<br>
+_total_: 15.3 years (2025 est.)<br>
 _male_: 14.9 years<br>
 _female_: 15.6 years<br>
 
 **Population growth rate**<br>
-3.66% (2024 est.)<br>
+3.65% (2025 est.)<br>
 
 **Birth rate**<br>
-46.6 births/1,000 population (2024 est.)<br>
+46.29 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9.5 deaths/1,000 population (2024 est.)<br>
+9.24 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.6 migrant(s)/1,000 population (2024 est.)<br>
+-0.57 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 majority of the populace is located in the southernmost extreme of the country along the border with Nigeria and Benin, as shown in this population distribution map<br>
@@ -157,7 +157,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 350 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 64.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 63 deaths/1,000 live births (2025 est.)<br>
 _male_: 69.2 deaths/1,000 live births<br>
 _female_: 59.2 deaths/1,000 live births<br>
 
@@ -167,10 +167,10 @@ _male_: 59.3 years<br>
 _female_: 62.5 years<br>
 
 **Total fertility rate**<br>
-6.64 children born/woman (2024 est.)<br>
+6.55 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-3.27 (2024 est.)<br>
+3.23 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 88.3% of population (2022 est.)<br>
@@ -217,7 +217,7 @@ _female_: 1.2% (2025 est.)<br>
 34.6% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-80.3% (2023 est.)<br>
+81.3% (2021 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.1% of GDP (2023 est.)<br>
@@ -333,9 +333,9 @@ _head of government_: CNSP Prime Minister Ali Mahaman Lamine ZEINE (since 9 Augu
 _cabinet_: Cabinet appointed by the CNSP<br>
 _election/appointment process_: the CNSP rules by decree; previously, the president was directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister was appointed by the president, authorized by the National Assembly<br>
 _most recent election date_: 27 December 2020, with a runoff held on 21 February 2021<br>
-_election results_: <em><br>2020/2021</em>: Mohamed BAZOUM elected president in second round; percent of vote in first round - Mohamed BAZOUM (PNDS-Tarrayya) 39.3%, Mahamane OUSMANE (MODEN/FA Lumana Africa) 17%, Seini OUMAROU (MNSD-Nassara) 9%, Albade ABOUDA (MPR-Jamhuriya) 7.1%, other 27.6%; percent of vote in second round - Mohamed BAZOUM 55.7%, Mahamane OUSMANE 44.3%<br><br><em>2016</em>: ISSOUFOU Mahamadou reelected president in second round; percent of vote in first round - ISSOUFOU Mahamadou (PNDS-Tarrayya) 48.6%, Hama AMADOU (MODEN/FA Lumana Africa) 17.8%, Seini OUMAROU (MNSD-Nassara) 11.3%, other 22.3%; percent of vote in second round - ISSOUFOU Mahamadou 92%, Hama AMADOU 8%<br>
+_election results_: <em><br>2020/2021</em>: Mohamed BAZOUM elected president in second round; percent of vote in first round - Mohamed BAZOUM (PNDS-Tarrayya) 39.3%, Mahamane OUSMANE (MODEN/FA Lumana Africa) 17%, Seini OUMAROU (MNSD-Nassara) 9%, Albade ABOUDA (MPR-Jamhuriya) 7.1%, other 27.6%; percent of vote in second round - Mohamed BAZOUM 55.7%, Mahamane OUSMANE 44.3%<br>
 _expected date of next election_: 2025<br>
-<strong>note:</strong> deposed president BAZOUM has been under house arrest since a military coup on 26 July 2023<br>
+<strong>note:</strong> deposed president Mohamed BAZOUM has been under house arrest since a military coup on 26 July 2023<br>
 
 **Legislative branch**<br>
 _legislature name_: Advisory Council for the Refoundation (Conseil consultatif de la refondation)<br>
@@ -617,8 +617,8 @@ _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force, Niger Gendarmerie (GN)<br><br>Ministry of Interior, Public Safety and Decentralization: Niger National Guard (GNN), National Police (2025)<br>
-<strong>note 1:</strong> the Gendarmerie (GN) and the National Guard (GNN) are paramilitary forces; the GN has primary responsibility for rural security while the GNN is responsible for domestic security and the protection of high-level officials and government buildings<br><br><strong>note 2: </strong>the National Police includes the Directorate of Territorial Surveillance, which is charged with border management<br>
+Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force, Niger Gendarmerie<br><br>Ministry of Interior, Public Safety and Decentralization: Niger National Guard, National Police (2025)<br>
+<strong>note 1:</strong> the Niger Gendarmerie (GN) and the Niger National Guard (GNN) are paramilitary forces; the GN has primary responsibility for rural security while the GNN is responsible for domestic security and the protection of high-level officials and government buildings<br><br><strong>note 2: </strong>the Directorate of Territorial Surveillance under the National Police is charged with border management<br>
 
 **Military expenditures**<br>
 2.2% of GDP (2024 est.)<br>
@@ -628,20 +628,17 @@ Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force
 2% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 35-40,000 active Nigerien Armed Forces, including Gendarmerie; estimated 5-10,000 National Guard (2025)<br>
+estimated 50,000 active Armed Forces, including Gendarmerie; estimated 15-20,000 National Guard (2025)<br>
 <strong>note: </strong>in 2020, the Nigerien Government announced it intended to increase the size of the FAN to 50,000 by 2025 and 100,000 by 2030<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAN has a wide mix of mostly older, typically Soviet-era, or donated/secondhand weapons and equipment, along with small quantities of more modern items such as unmanned aerial vehicles/drones and air defense systems; suppliers have included China, Egypt, France, Italy, Russia, Turkey, and the US (2024)<br>
+the FAN's inventory is comprised of older, typically Soviet-era weapons and equipment, along with smaller quantities of more modern armaments such as unmanned aerial vehicles/drones, air defense systems, and armored vehicles; suppliers over the past decade include China, France, Russia, South Africa, T&uuml;rkiye, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for selective compulsory or voluntary military service for unmarried men and women; 24-month service term (2023)<br>
-
-**Military deployments**<br>
-<strong>note:</strong> in 2024, Mali, Burkina Faso, and Niger announced they were forming a joint force of 5,000 troops to combat extremist groups in the Sahel<br>
+18 is the legal minimum age for selective compulsory or voluntary military service for unmarried men and women; 24-month service term (2025)<br>
 
 **Military - note**<br>
-the military of Niger is responsible for territorial defense, but most of its focus is on internal and border security operations; the Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS) and the al-Qaida affiliate Jama’at Nusrat al-Islam wal-Muslimin (JNIM) terrorist groups are active in western Niger and in adjacent strongholds in Burkina Faso and Mali, while the Nigeria-based Boko Haram and ISIS-West Africa groups threaten southeast Niger; parts of Niger also face spillover from communal, criminal, and vigilante violence in neighboring Nigeria; since the 2023 coup, some former ethnic separatist rebels have taken up arms in support of deposed President BAZOUM<br><br>the military has played a significant role in Niger's domestic politics since its establishment in 1960-61; prior to seizing control of the government in 2023, it attempted coups in 1974, 1996, 1999, 2010, and 2021, and ruled the country for much of the period before 1999 (2025)<br>
+the military of Niger is responsible for territorial defense, but most of its focus is on internal and border security operations; the Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS) and the al-Qaida affiliate Jama’at Nusrat al-Islam wal-Muslimin (JNIM) terrorist groups are active in western Niger and in adjacent strongholds in Burkina Faso and Mali, while the Nigeria-based Boko Haram and ISIS-West Africa groups threaten southeast Niger; parts of Niger also face spillover from communal, criminal, and vigilante violence in neighboring Nigeria; since the 2023 coup, some former ethnic separatist rebels have taken up arms in support of deposed President BAZOUM<br><br>the military has played a role in Niger's domestic politics since its establishment in 1960-61; prior to seizing control of the government in 2023, it attempted coups in 1974, 1996, 1999, 2010, and 2021, and ruled the country for much of the period before 1999 (2025)<br>
 
 ## Terrorism
 

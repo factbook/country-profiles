@@ -103,21 +103,21 @@ _elderly dependency ratio_: 13.8 (2024 est.)<br>
 _potential support ratio_: 7.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 38.7 years (2024 est.)<br>
+_total_: 39.2 years (2025 est.)<br>
 _male_: 38.2 years<br>
 _female_: 39.4 years<br>
 
 **Population growth rate**<br>
-0.56% (2024 est.)<br>
+0.53% (2025 est.)<br>
 
 **Birth rate**<br>
-11.8 births/1,000 population (2024 est.)<br>
+11.59 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7 deaths/1,000 population (2024 est.)<br>
+7.02 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0.8 migrant(s)/1,000 population (2024 est.)<br>
+0.71 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 more than three quarters of the population lives on the main island of Mahe; Praslin is home to less than 10%, and a smaller percentage is on La Digue and the outer islands, as shown in this population distribution map<br>
@@ -140,7 +140,7 @@ _total population_: 1.08 male(s)/female (2024 est.)<br>
 42 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.2 deaths/1,000 live births (2024 est.)<br>
+_total_: 10 deaths/1,000 live births (2025 est.)<br>
 _male_: 12.8 deaths/1,000 live births<br>
 _female_: 7.4 deaths/1,000 live births<br>
 
@@ -150,10 +150,10 @@ _male_: 72.2 years<br>
 _female_: 81.1 years<br>
 
 **Total fertility rate**<br>
-1.81 children born/woman (2024 est.)<br>
+1.8 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.89 (2024 est.)<br>
+0.89 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 96.4% of population (2022 est.)<br>
@@ -189,7 +189,7 @@ _male_: 34.2% (2025 est.)<br>
 _female_: 5.2% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-45% (2023 est.)<br>
+44.6% (2022 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.5% of GDP (2023 est.)<br>
@@ -286,9 +286,9 @@ _chief of state_: President Patrick HERMINIE (since 26 October 2025)<br>
 _head of government_: President Patrick HERMINIE (since 26 October 2025)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br>
-_most recent election date_: 22-24 October 2020<br>
-_election results_: <br><em>2020</em>: Wavel RAMKALAWAN elected president; Wavel RAMKALAWAN (LDS) 54.9%, Danny FAURE (US) 43.5%, other 1.6%<br><br><em>2015</em>:  President James Alix MICHEL reelected president in second round; percent of vote in first round - James Alix MICHEL (PL) 47.8%, Wavel RAMKALAWAN (SNP) 35.3%, other 16.9%; percent of vote in second round - James Alix MICHEL 50.2%, Wavel RAMKALAWAN 49.8%<br>
-_expected date of next election_: 2025<br>
+_most recent election date_: 9 October 2025<br>
+_election results_: <br><em>2025</em>: Patrick HERMINIE elected president; Patrick HERMINIE (US) 52.7%, Wavel RAMKALAWAN (LDS) 47.3%<br>
+_expected date of next election_: 2030<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -312,7 +312,7 @@ _subordinate courts_: Magistrates' Courts of Seychelles; Family Tribunal for iss
 Seychelles Party for Social Justice and Democracy or SPSJD<br>Seychellois Democratic Alliance or LDS (Linyon Demokratik Seselwa/Union Démocratique Seychelloise)<br>Seychelles National Party or SNP<br>United Seychelles or US<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador-designate Vivianne FOCK TAVE (since August 2025); note - also Permanent Representative to the UN-designate<br>
+_chief of mission_: Ambassador Vivianne FOCK TAVE (since 16 December 2025); note - also Permanent Representative to the UN<br>
 _chancery_: 685 Third Avenue, Suite 1107, 11th Floor, New York, NY 10017<br>
 _telephone_: [1] (212) 972-1785<br>
 _FAX_: [1] (212) 972-1786<br>
@@ -577,10 +577,10 @@ Seychelles People's Defense Forces (SPDF; aka Seychelles Defense Forces, SDF): A
 approximately 500 active Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SDF's inventory primarily consists of Soviet-era equipment delivered in the 1970s and 1980s; in recent years, the SDF has received limited amounts of more modern equipment, mostly donations of patrol boats and aircraft, from several suppliers, including Bahrain, China, India, and the UAE (2024)<br>
+the SDF is lightly armed; its inventory consists of obsolescent armaments delivered in the 1970s and 1980s and some more recently donated equipment from Bahrain, China, India, and UAE (2025)<br>
 
 **Military service age and obligation**<br>
-18-28 (18-25 for officers) years of age for voluntary military service for men and women; 6-year initial commitment; no conscription (2023)<br>
+18-35 years of age for voluntary military service for men and women; no conscription (2026)<br>
 
 **Military - note**<br>
 formed in 1977, the SDF is one of the World's smallest militaries; its primary responsibility is maritime security, including countering illegal fishing, piracy, and drug smuggling; it was given police powers in 2022; the Seychelles maintains close security ties with India, which has provided support to the SDF's maritime security operations (2025)<br>

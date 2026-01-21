@@ -98,7 +98,7 @@ Kinyarwanda (official, universal Bantu vernacular) 93.2%, French (official) &lt;
 _major-language sample(s)_: <br>Inkoranya nzimbuzi y'isi, isoko fatizo y'amakuru y'ibanze. (Kinyarwanda)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Christian 95.9% (Protestant 57.7% [includes Adventist 12.6%], Roman Catholic 38.2%), Muslim 2.1%, other 1% (includes traditional, Jehovah's Witness), none 1.1% (2019-20 est.)<br>
+Catholic 39.9%, Pentecostal 21.3%, Protestant 14.6%, Adventist 12.2%, other Christians 4.2%, no religion 3.0%, Muslim 2.0%, other religions 2.0%; less than 1%: Jehovah Witness, not specified, Animist&nbsp; (2022 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 37.2% (male 2,561,884/female 2,508,218)<br>
@@ -112,21 +112,21 @@ _elderly dependency ratio_: 5.1 (2024 est.)<br>
 _potential support ratio_: 19.4 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 20.8 years (2024 est.)<br>
+_total_: 21.3 years (2025 est.)<br>
 _male_: 20.1 years<br>
 _female_: 21.5 years<br>
 
 **Population growth rate**<br>
-1.62% (2024 est.)<br>
+2% (2025 est.)<br>
 
 **Birth rate**<br>
-25 births/1,000 population (2024 est.)<br>
+25.05 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.7 deaths/1,000 population (2024 est.)<br>
+4.87 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--3.1 migrant(s)/1,000 population (2024 est.)<br>
+-0.13 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 one of Africa's most densely populated countries; large concentrations tend to be in the central regions and along the shore of Lake Kivu in the west, as shown in this population distribution map<br>
@@ -153,7 +153,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 229 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 24.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 27.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 27.3 deaths/1,000 live births<br>
 _female_: 22.5 deaths/1,000 live births<br>
 
@@ -163,10 +163,10 @@ _male_: 64.6 years<br>
 _female_: 68.6 years<br>
 
 **Total fertility rate**<br>
-3.14 children born/woman (2024 est.)<br>
+3.2 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.54 (2024 est.)<br>
+1.58 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 88.1% of population (2022 est.)<br>
@@ -213,7 +213,7 @@ _female_: 6.3% (2025 est.)<br>
 7.7% (2020 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-50.4% (2023 est.)<br>
+49.9% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.3% (2020)<br>
@@ -408,7 +408,7 @@ _selected World Heritage Site locales_: Memorial sites of the Genocide: Nyamata,
 ## Economy
 
 **Economic overview**<br>
-fast-growing Sub-Saharan economy; major public investments; trade and tourism hit hard by COVID-19; increasing poverty after 2 decades of declines; Ugandan competition for regional influence; major coffee exporter; contested GDP figures<br>
+<p>low-income Sub-Saharan economy; services, industry, and agriculture sectors driving growth; increased government spending on human capital, energy, and healthcare; major infrastructure projects including the Bugesera Airport intended to support long-term growth; challenges include lack of economic diversification, high inflation, and wide current account deficit</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $46.543 billion (2024 est.)<br>
@@ -645,11 +645,10 @@ Rwanda Defense Force (RDF; Ingabo z’u Rwanda): Rwanda Army (Rwanda Land Force)
 approximately 30-35,000 active Rwanda Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RDF's inventory includes a mix of older and some modern equipment from suppliers such as China, France, Israel, Russia and the former Soviet Union, South Africa, and Turkey (2024)<br>
+the RDF's inventory is a mix of older and some modern equipment from suppliers such as China, France, Israel, Russia/former Soviet Union, South Africa, and T&uuml;rkiye (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age for men and women for voluntary military service; no conscription; Rwandan citizenship is required; enlistment is either as contract (5-years, renewable twice) or career professional (2024)<br>
-<strong>note:</strong> as of 2022, women comprised approximately 6% of the Rwanda Defense Force<br>
+typically 18-30 years of age for men and women for voluntary military service (including officer candidates and those with university degrees and specialized qualifications); enlistment is either as contract (5-years, renewable twice) or career professional; no conscription (2025)<br>
 
 **Military deployments**<br>
 approximately 3,200 Central African Republic (about 2,200 under MINUSCA, plus some 700 police; approximately 1,000 under a bi-lateral agreement); estimated 3-4,000 Democratic Republic of the Congo; estimated 3,000 Mozambique (bilateral agreement to assist with combating an insurgency; includes both military and police forces); 2,600 (plus about 450 police) South Sudan (UNMISS) (2025)<br>

@@ -107,7 +107,7 @@ Spanish only 93.8%, Spanish and indigenous languages (including Mayan, Nahuatl, 
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 78%, Protestant/evangelical Christian 11.2%, other 0.002%, unaffiliated (includes atheism) 10.6% (2020 est.)<br>
+Catholic 77.7%, no religion 10.6%, other Evangelical Churches 7.5%, Jehovah Witness 1.2%; less than 1 percent: Pentecostal, Seventh Day Adventist, Historics, not specified, Latter Day Saints, other religions&nbsp; (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 23.3% (male 15,647,805/female 14,754,004)<br>
@@ -121,21 +121,21 @@ _elderly dependency ratio_: 11.9 (2024 est.)<br>
 _potential support ratio_: 8.4 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 30.8 years (2024 est.)<br>
+_total_: 31 years (2025 est.)<br>
 _male_: 28.8 years<br>
 _female_: 32.7 years<br>
 
 **Population growth rate**<br>
-0.72% (2024 est.)<br>
+0.81% (2025 est.)<br>
 
 **Birth rate**<br>
-14.3 births/1,000 population (2024 est.)<br>
+14.73 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.5 deaths/1,000 population (2024 est.)<br>
+6.04 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.7 migrant(s)/1,000 population (2024 est.)<br>
+-0.59 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the population is found in the middle of the country between the states of Jalisco and Veracruz; approximately a quarter of the population lives in and around Mexico City<br>
@@ -161,7 +161,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 42 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 12.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 13.4 deaths/1,000 live births<br>
 _female_: 10.9 deaths/1,000 live births<br>
 
@@ -171,10 +171,10 @@ _male_: 71.6 years<br>
 _female_: 77.7 years<br>
 
 **Total fertility rate**<br>
-1.79 children born/woman (2024 est.)<br>
+1.85 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.88 (2024 est.)<br>
+0.9 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -221,7 +221,7 @@ _female_: 6.3% (2025 est.)<br>
 4.2% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-56.6% (2023 est.)<br>
+53% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 3.6% (2018)<br>
@@ -422,6 +422,9 @@ golden eagle, dahlia<br>
 
 **National color(s)**<br>
 green, white, red<br>
+
+**National coat of arms**<br>
+<p>Adopted in 1968, Mexico’s coat of arms is also used as the Seal of the United Mexican States. The Mexican Golden Eagle, a national symbol, is perched on a prickly pear cactus and eats a snake. Beneath the eagle, oak and laurel leaves are joined by a ribbon in the national colors. The image symbolizes the triumph of good over evil.</p><br>
 
 **National anthem(s)**<br>
 _title_: "Himno Nacional Mexicano" (National Anthem of Mexico)<br>
@@ -714,11 +717,10 @@ the Mexican Armed Forces (Fuerzas Armadas de México) are divided between the S
 information varies; approximately 260,000 active-duty Armed Forces; approximately 110,000 National Guard personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Mexican military inventory includes a mix of domestically produced and imported weapons and equipment from a variety of mostly Western suppliers, particularly the US; a considerable portion of its inventory, such as ships and fighter aircraft, are older, secondhand items from the US; over the past decade, the Mexican military has made efforts to acquire more modern equipment; Mexico's defense industry produces some naval vessels and light armored vehicles, as well as small arms and other miscellaneous equipment (2023)<br>
+the Mexican military inventory includes a mix of domestically produced and imported armaments from a variety of mostly Western suppliers, particularly the US; Mexico's defense industry produces light armored vehicles and some naval vessels, as well as small arms and other miscellaneous equipment (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age (16 with parental consent) for voluntary enlistment for men and women; 18 years of age for compulsory military service for men (selection for service determined by lottery); conscript service obligation is 12 months; those selected serve on Saturdays in a Batallón del Servicio Militar Nacional (National Military Service Battalion) composed entirely of 12-month Servicio Militar Nacional (SMN) conscripts; conscripts remain in reserve status until the age of 40; cadets enrolled in military schools from the age of 15 are considered members of the armed forces; National Guard: single men and women 18-30 years of age may volunteer (2024)<br>
-<strong>note: </strong>as of 2023, women comprised about 10% of the active-duty Army, Air Force, and Navy, and about 14% of the National Guard<br>
+18 years of age (16 with parental consent) for voluntary service for men and women; men at age 18 subject to lottery-based 12-month compulsory military service&nbsp; (2025)<br>
 
 **Military - note**<br>
 the Mexican military is responsible for defending the independence, integrity, and sovereignty of Mexico, as well as providing for internal security, disaster response, humanitarian assistance, and socio-economic development; internal security duties are a key focus, particularly combating narcotics trafficking and organized crime groups, as well as border control and immigration enforcement; the constitution was amended in 2019 to grant the president the authority to use the armed forces to protect internal and national security, and courts have upheld the legality of the armed forces&rsquo; role in law enforcement activities in support of civilian authorities through 2028; the military also provides security for strategic facilities, such as oil production infrastructure, and administers most of the country's land and sea ports and customs services, plus a state-owned development bank; in addition, President L&Oacute;PEZ OBRADOR placed the military in charge of a growing number of infrastructure projects, such as building and operating a new airport for Mexico City and sections of a train line in the country&rsquo;s southeast (2025)<br>

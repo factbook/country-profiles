@@ -112,21 +112,21 @@ _elderly dependency ratio_: 7.6 (2024 est.)<br>
 _potential support ratio_: 13.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 21.4 years (2024 est.)<br>
+_total_: 21.6 years (2025 est.)<br>
 _male_: 20.6 years<br>
 _female_: 22.3 years<br>
 
 **Population growth rate**<br>
-2.15% (2024 est.)<br>
+2.12% (2025 est.)<br>
 
 **Birth rate**<br>
-27.6 births/1,000 population (2024 est.)<br>
+27.09 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.9 deaths/1,000 population (2024 est.)<br>
+5.73 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.2 migrant(s)/1,000 population (2024 est.)<br>
+-0.15 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population is concentrated in the southern half of the country, with the highest concentrations on or near the Atlantic coast, as shown in this population distribution map<br>
@@ -153,7 +153,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 234 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 31.2 deaths/1,000 live births (2024 est.)<br>
+_total_: 30.5 deaths/1,000 live births (2025 est.)<br>
 _male_: 34.5 deaths/1,000 live births<br>
 _female_: 27.8 deaths/1,000 live births<br>
 
@@ -163,10 +163,10 @@ _male_: 68.4 years<br>
 _female_: 71.8 years<br>
 
 **Total fertility rate**<br>
-3.56 children born/woman (2024 est.)<br>
+3.51 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.75 (2024 est.)<br>
+1.73 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.4% of population (2022 est.)<br>
@@ -213,7 +213,7 @@ _female_: 0.3% (2025 est.)<br>
 12% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-54.3% (2023 est.)<br>
+53.4% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 3.3% (2022)<br>
@@ -604,8 +604,8 @@ _total subscriptions_: 320,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 33.4 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 120 (2022 est.)<br>
+_total subscriptions_: 33,384,500 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 114 (2024 est.)<br>
 
 **Broadcast media**<br>
 state-owned TV station, 2 state-owned radio networks; several privately owned TV stations and a large number of privately owned radio stations; transmissions of multiple international broadcasters are accessible; several cable and satellite TV subscription services are obtainable<br>
@@ -666,10 +666,10 @@ estimated 15-20,000 active Armed Forces (2025)<br>
 <strong>note:</strong> over the past decade, Ghana has sought to increase the size of the GAF, particularly the Army, which has added a number of new units<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a mix of older and some newer Chinese, Russian, and Western equipment, including US, which has donated items such as patrol boats; the government in recent years has committed to an increase in funding for equipment acquisitions, including armor, mechanized, and special forces capabilities for the Army, light attack aircraft for the Air Force, and more modern coastal patrol vessels for the Navy (2024)<br>
+the military's inventory is a mix of older (mostly Soviet-era) and some newer armaments from such suppliers as China, Japan, Jordan, T&uuml;rkiye, the UK, and the US; the government has committed to an increase in funding for equipment acquisitions, including armor, mechanized, and special forces capabilities for the Army, light attack aircraft for the Air Force, and more modern coastal patrol vessels for the Navy (2025)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for voluntary military service, with basic education certificate; no conscription (2024)<br>
+18-27 years of age for voluntary military service; no conscription (2025)<br>
 <strong>note:</strong> as of 2024, women comprised approximately 15% of the military; Ghanaian women first began serving in the late 1950s<br>
 
 **Military deployments**<br>

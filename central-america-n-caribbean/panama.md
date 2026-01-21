@@ -108,21 +108,21 @@ _elderly dependency ratio_: 15.6 (2024 est.)<br>
 _potential support ratio_: 6.4 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 31.5 years (2024 est.)<br>
+_total_: 31.7 years (2025 est.)<br>
 _male_: 31 years<br>
 _female_: 31.9 years<br>
 
 **Population growth rate**<br>
-1.48% (2024 est.)<br>
+1.44% (2025 est.)<br>
 
 **Birth rate**<br>
-17.4 births/1,000 population (2024 est.)<br>
+17.11 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.7 deaths/1,000 population (2024 est.)<br>
+5.48 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-3 migrant(s)/1,000 population (2024 est.)<br>
+2.82 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population is concentrated towards the center of the country, particularly around the Canal, but a sizeable segment of the populace also lives in the far west around David; the eastern third of the country is sparsely inhabited<br>
@@ -145,7 +145,7 @@ _total population_: 1.02 male(s)/female (2024 est.)<br>
 37 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.2 deaths/1,000 live births (2024 est.)<br>
+_total_: 13.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 15.4 deaths/1,000 live births<br>
 _female_: 12.9 deaths/1,000 live births<br>
 
@@ -155,10 +155,10 @@ _male_: 76.4 years<br>
 _female_: 82.2 years<br>
 
 **Total fertility rate**<br>
-2.35 children born/woman (2024 est.)<br>
+2.33 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.14 (2024 est.)<br>
+1.13 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.5% of population (2022 est.)<br>
@@ -205,7 +205,7 @@ _female_: 1.7% (2025 est.)<br>
 2.9% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-58.6% (2023 est.)<br>
+53.2% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 2.5% of GDP (2023 est.)<br>
@@ -627,7 +627,7 @@ _key ports_: Bahia de las Minas, Balboa, Pedregal, Puerto Armuelles, Puerto Colo
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Public Security: National Police (Policía Nacional,  PN), National Aeronaval Service (Servicio Nacional Aeronaval, SENAN), National Border Service (Servicio Nacional de Fronteras, SENAFRONT) (2025)<br>
+no regular military forces<br><br>Ministry of Public Security: National Police (Policía Nacional, PN), National Aeronaval Service (Servicio Nacional Aeronaval, SENAN), National Border Service (Servicio Nacional de Fronteras, SENAFRONT) (2025)<br>
 <strong>note 1:</strong> collectively, the security forces are known as the Panamanian Public Forces <br><br><strong>note 2: </strong>the PNP includes a special forces directorate with counterterrorism and counternarcotics units; SENAFRONT has four regionally based border security brigades, plus a specialized brigade comprised of special forces, counternarcotics, maritime, and rapid reaction units<br>
 
 **Military expenditures**<br>

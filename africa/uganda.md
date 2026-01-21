@@ -110,21 +110,21 @@ _elderly dependency ratio_: 4.8 (2024 est.)<br>
 _potential support ratio_: 21 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 16.2 years (2024 est.)<br>
+_total_: 16.4 years (2025 est.)<br>
 _male_: 15.5 years<br>
 _female_: 17.1 years<br>
 
 **Population growth rate**<br>
-3.18% (2024 est.)<br>
+3.13% (2025 est.)<br>
 
 **Birth rate**<br>
-39.6 births/1,000 population (2024 est.)<br>
+38.91 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-4.7 deaths/1,000 population (2024 est.)<br>
+4.61 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--3.1 migrant(s)/1,000 population (2024 est.)<br>
+-2.96 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population density is relatively high in comparison to other African nations; most of the population is concentrated in the central and southern parts of the country, particularly along the shores of Lake Victoria and Lake Albert; the northeast is least populated, as shown in this population distribution map<br>
@@ -151,7 +151,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 170 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 28.5 deaths/1,000 live births (2024 est.)<br>
+_total_: 27.5 deaths/1,000 live births (2025 est.)<br>
 _male_: 31.8 deaths/1,000 live births<br>
 _female_: 25.1 deaths/1,000 live births<br>
 
@@ -161,10 +161,10 @@ _male_: 67.5 years<br>
 _female_: 72 years<br>
 
 **Total fertility rate**<br>
-5.17 children born/woman (2024 est.)<br>
+5.08 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-2.55 (2024 est.)<br>
+2.5 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 80.3% of population (2022 est.)<br>
@@ -208,7 +208,7 @@ _female_: 1.5% (2025 est.)<br>
 9.7% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-58.3% (2023 est.)<br>
+57.8% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 7.3% (2016)<br>
@@ -317,7 +317,7 @@ _head of government_: Prime Minister Robinah NABBANJA (since 14 June 2021)<br>
 _cabinet_: Cabinet appointed by the president from among elected members of Parliament or persons who qualify to be elected as members of Parliament<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (no term limits)<br>
 _most recent election date_: 14 January 2021<br>
-_election results_: <em><br>2021: </em>Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 58.6%, Robert Kyagulanyi SSENTAMU (aka Bobi WINE) (NUP) 34.8%, Patrick Oboi AMURIAT (FDC) 3.2%, other 3.4%<br><em><br><em>2016: </em></em>Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 60.6%, Kizza BESIGYE (FDC) 35.6%, other 3.8%<br>
+_election results_: <em><br>2021: </em>Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 58.6%, Robert Kyagulanyi SSENTAMU (aka Bobi WINE) (NUP) 34.8%, Patrick Oboi AMURIAT (FDC) 3.2%, other 3.4%<br>
 _expected date of next election_: 2026<br>
 
 **Legislative branch**<br>
@@ -633,16 +633,16 @@ Uganda People's Defense Force (UPDF): Land Force (includes marines), Air Force, 
 approximately 45,000 active Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the UPDF's inventory is mix of older and some more modern weapons and equipment; it is comprised mostly of Russian/Soviet-era arms with smaller quantities of Chinese, Israeli, North Korean, South African, UK, US, and domestically-produced items; Uganda has a small defense industry that assembles or manufactures light armored vehicles and performs maintenance on some military equipment, including its Russian-made helicopters (2024)<br>
+most of the UPDF's arms are of Russian/Soviet origin with smaller quantities from such suppliers as Bulgaria, China, Czechia, Israel, and South Africa, as well as some domestically produced items; Uganda has a small defense industry that assembles or manufactures light armored vehicles and performs maintenance on some military equipment, including its Russian-made helicopters (2025)<br>
 
 **Military service age and obligation**<br>
 18-22 years of age for voluntary military duty for men and women; 9-year service obligation (2025)<br>
 
 **Military deployments**<br>
-up to 5,000 Democratic Republic of Congo; up to 4,500 Somalia (African Union Support and Stabilization Mission in Somalia or AUSSOM) (2025)<br>
+estimated 3,000 Democratic Republic of Congo; up to 4,500 Somalia (African Union Support and Stabilization Mission in Somalia or AUSSOM) (2025)<br>
 
 **Military - note**<br>
-the responsibilities of the Uganda People's Defense Force (UPDF) include defending the sovereignty and territorial integrity of Uganda, assisting the civilian authorities in emergencies and natural disasters, contributing to regional security, participating in socio-economic development projects, conducting military diplomacy, and ensuring internal security, including civil unrest, internal insurgency, and terrorism; in recent years it has beefed up its presence along the borders with the Democratic Republic of the Congo and South Sudan; the UPDF participates in African and UN peacekeeping missions and is a key contributor to the East Africa Standby Force; the UPDF is constitutionally granted seats in parliament and is widely viewed as a key constituency for MUSEVENI; it has been used to break up rallies, raid opposition offices, and surveil rival candidates<br><br>the military traces its history back to the formation of the Uganda Rifles in 1895 under the British colonial government; the Uganda Rifles were merged with the Central Africa Regiment and the East Africa Rifles to form the King’s African Rifles (KAR) in 1902, which participated in both world wars, as well as the Mau Mau rebellion in Kenya (1952-1960); in 1962, the Ugandan battalion of the KAR was transformed into the country's first military force, the Uganda Rifles, which was subsequently renamed the Uganda Army; the UPDF was established in 1995 from the former rebel National Resistance Army following the enactment of the 1995 Constitution of Uganda (2025)<br>
+the responsibilities of the Uganda People's Defense Force (UPDF) include defending the sovereignty and territorial integrity of Uganda, assisting the civilian authorities in emergencies and natural disasters, contributing to regional security, participating in socio-economic development projects, conducting military diplomacy, and ensuring internal security, including against civil unrest, internal insurgency, and terrorism; in recent years it has beefed up its presence along the borders with the Democratic Republic of the Congo and South Sudan; the UPDF participates in African and UN peacekeeping missions and is a key contributor to the East Africa Standby Force; the UPDF is constitutionally granted seats in parliament and is widely viewed as a key constituency for MUSEVENI; it has been used to break up rallies, raid opposition offices, and surveil rival candidates<br><br>the military traces its history back to the formation of the Uganda Rifles in 1895 under the British colonial government; the Uganda Rifles were merged with the Central Africa Regiment and the East Africa Rifles to form the King’s African Rifles (KAR) in 1902, which participated in both world wars, as well as the Mau Mau rebellion in Kenya (1952-1960); in 1962, the Ugandan battalion of the KAR was transformed into the country's first military force, the Uganda Rifles, which was subsequently renamed the Uganda Army; the UPDF was established in 1995 from the former rebel National Resistance Army following the enactment of the 1995 Constitution of Uganda (2025)<br>
 
 ## Terrorism
 

@@ -116,21 +116,21 @@ _elderly dependency ratio_: 5.1 (2024 est.)<br>
 _potential support ratio_: 19.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 18.4 years (2024 est.)<br>
+_total_: 19 years (2025 est.)<br>
 _male_: 18.2 years<br>
 _female_: 18.6 years<br>
 
 **Population growth rate**<br>
-2.83% (2024 est.)<br>
+2.51% (2025 est.)<br>
 
 **Birth rate**<br>
-34.1 births/1,000 population (2024 est.)<br>
+29.6 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.9 deaths/1,000 population (2024 est.)<br>
+4.91 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0.1 migrant(s)/1,000 population (2024 est.)<br>
+0.4 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 one of the highest levels of urbanization in Africa; high density in the central area, particularly around the cities of Lusaka, Ndola, Kitwe, and Mufulira, as shown in this population distribution map<br>
@@ -157,7 +157,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 85 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 35.6 deaths/1,000 live births (2024 est.)<br>
+_total_: 30.1 deaths/1,000 live births (2025 est.)<br>
 _male_: 38.9 deaths/1,000 live births<br>
 _female_: 32.1 deaths/1,000 live births<br>
 
@@ -167,10 +167,10 @@ _male_: 65.2 years<br>
 _female_: 68.7 years<br>
 
 **Total fertility rate**<br>
-4.42 children born/woman (2024 est.)<br>
+3.67 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-2.18 (2024 est.)<br>
+1.81 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 88.6% of population (2022 est.)<br>
@@ -214,7 +214,7 @@ _female_: 2.4% (2025 est.)<br>
 11.8% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-53.3% (2023 est.)<br>
+55.7% (2018 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 5.2% (2018)<br>
@@ -636,14 +636,13 @@ Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Servi
 approximately 16,000 active Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era weapons and equipment along with smaller quantities of items--particularly aircraft--from such suppliers as Israel and the US (2024)<br>
+the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era weapons and equipment along with smaller quantities of items from other suppliers such as Israel, South Africa, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age (17 with parental consent) for voluntary military service for men and women; no conscription; 12-year enlistment period (7 years active, 5 in the Reserves) (2023)<br>
-<strong>note:</strong> Zambia had military conscription from 1975-1980<br>
+18-25 years of age (17 with parental consent) for voluntary military service for men and women; no conscription; initial service of 7 years followed by 5 in the Reserves (2025)<br>
 
 **Military deployments**<br>
-930 Central African Republic (MINUSCA) (2024)<br>
+930 Central African Republic (MINUSCA) (2025)<br>
 
 **Military - note**<br>
 the Zambia Defense Forces (ZDF) are responsible for territorial defense, border security, and providing support to African and UN peacekeeping operations; it also has some domestic security responsibilities in cases of national emergency and is involved in socio-economic support; in recent years, ZDF has been directed to assist in agricultural production; the ZDF is part of the Southern Africa Development Community (SADC) Standby Force and participates in multinational training exercises; it has received training assistance from China and the US<br><br>the ZDF traces its roots to the Northern Rhodesia Regiment, which was raised by the British colonial government to fight in World War II; the ZDF was established in 1964 from units of the dissolved Federation of Rhodesia and Nyasaland armed forces; it participated in a number of regional conflicts during the 1970s and 1980s; Zambia actively supported independence movements such as the Union for the Total Liberation of Angola (UNITA), the Zimbabwe African People's Union (ZAPU), the African National Congress of South Africa (ANC), and the South-West Africa People's Organization (SWAPO) (2025)<br>

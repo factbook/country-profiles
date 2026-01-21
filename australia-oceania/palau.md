@@ -104,21 +104,21 @@ _elderly dependency ratio_: 15.8 (2024 est.)<br>
 _potential support ratio_: 6.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 35.3 years (2024 est.)<br>
+_total_: 35.5 years (2025 est.)<br>
 _male_: 34.1 years<br>
 _female_: 37.4 years<br>
 
 **Population growth rate**<br>
-0.38% (2024 est.)<br>
+0.38% (2025 est.)<br>
 
 **Birth rate**<br>
-11.6 births/1,000 population (2024 est.)<br>
+11.53 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.4 deaths/1,000 population (2024 est.)<br>
+8.52 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0.7 migrant(s)/1,000 population (2024 est.)<br>
+0.77 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the population is located on the southern end of the main island of Babelthuap<br>
@@ -141,7 +141,7 @@ _total population_: 1.06 male(s)/female (2024 est.)<br>
 89 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.8 deaths/1,000 live births (2024 est.)<br>
+_total_: 10.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 12.7 deaths/1,000 live births<br>
 _female_: 8.8 deaths/1,000 live births<br>
 
@@ -151,10 +151,10 @@ _male_: 72 years<br>
 _female_: 78.5 years<br>
 
 **Total fertility rate**<br>
-1.7 children born/woman (2024 est.)<br>
+1.7 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.83 (2024 est.)<br>
+0.83 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.6% of population (2022 est.)<br>
@@ -188,7 +188,7 @@ _male_: 25.2% (2025 est.)<br>
 _female_: 6.8% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-45.6% (2023 est.)<br>
+48.3% (2020 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.5% of GDP (2023 est.)<br>
@@ -315,7 +315,7 @@ _judge selection and term of office_: justices nominated by a 7-member independe
 _subordinate courts_: National Court and other inferior courts<br>
 
 **Political parties**<br>
-none<br>
+although not expressly forbidden by law, Palau does not have political parties or coalitions<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Hersey KYOTA (since 12 November 1997)<br>
@@ -531,7 +531,7 @@ _key ports_: Malakal Harbor<br>
 no regular military forces; the Bureau of Public Safety (Ministry of Justice) has divisions for police functions and maritime security (2025)<br>
 
 **Military - note**<br>
-under the Compact of Free Association between Palau and the US, the US is responsible for the defense of Palau and the US military is granted access to the islands; the COFA also allows citizens of Palau to serve in the US armed forces<br><br>Palau has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Palau's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>
+under the Compact of Free Association between Palau and the US, the US is responsible for the defense of Palau, and the US military is granted access to the islands; the COFA also allows citizens of Palau to serve in the US armed forces<br><br>Palau has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Palau's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>
 
 ## Transnational Issues
 

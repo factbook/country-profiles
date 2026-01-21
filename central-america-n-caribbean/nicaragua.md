@@ -109,21 +109,21 @@ _elderly dependency ratio_: 8.7 (2024 est.)<br>
 _potential support ratio_: 11.4 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 29 years (2024 est.)<br>
+_total_: 29.5 years (2025 est.)<br>
 _male_: 28.1 years<br>
 _female_: 29.9 years<br>
 
 **Population growth rate**<br>
-0.95% (2024 est.)<br>
+0.92% (2025 est.)<br>
 
 **Birth rate**<br>
-16.4 births/1,000 population (2024 est.)<br>
+16.07 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.1 deaths/1,000 population (2024 est.)<br>
+5.14 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1.8 migrant(s)/1,000 population (2024 est.)<br>
+-1.76 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the overwhelming majority of the population resides in the western half of the country, with much of the urban growth centered in the capital city of Managua; coastal areas also show large population clusters<br>
@@ -150,7 +150,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 60 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 14.1 deaths/1,000 live births (2025 est.)<br>
 _male_: 15.9 deaths/1,000 live births<br>
 _female_: 12.8 deaths/1,000 live births<br>
 
@@ -160,10 +160,10 @@ _male_: 73.2 years<br>
 _female_: 76.4 years<br>
 
 **Total fertility rate**<br>
-1.83 children born/woman (2024 est.)<br>
+1.82 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.89 (2024 est.)<br>
+0.89 (2025 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 9.7% of GDP (2021)<br>
@@ -327,7 +327,7 @@ _email address and website_: <br>mperalta@cancilleria.gob.ni<br><br>United State
 _consulate(s) general_: Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Kevin Michael O'REILLY (since 28 June 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Elias BAUMANN (since December 2025)<br>
 _embassy_: Kilometer 5.5 Carretera Sur, Managua<br>
 _mailing address_: 3240 Managua Place, Washington DC&nbsp; 20521-3240<br>
 _telephone_: [505] 2252-7100,<br>
@@ -604,11 +604,10 @@ Armed Forces of Nicaragua (formal name is Army of Nicaragua or Ejercito de Nicar
 approximately 12,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's air and ground force inventories include mostly secondhand Russian or Soviet-era equipment; its naval force has a miscellaneous mix of patrol boats from several foreign suppliers, as well as some commercial vessels converted into gunboats domestically (2024)<br>
-<strong>note: </strong>in 2024, the US imposed restrictions on the import and export of US origin defense articles and defense services destined for or originating in Nicaragua<br>
+the military's air and ground force inventories include mostly secondhand Russian or Soviet-era equipment (2025)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary military service; no conscription; tour of duty 18-36 months (2024)<br>
+18-30 years of age for voluntary military service (16-20 for cadets); no conscription; tour of duty 18-36 months (2025)<br>
 
 **Military - note**<br>
 the military is responsible for defending Nicaragua’s independence, sovereignty, and territory; it also has some domestic security responsibilities, including border security, assisting the police, protecting natural resources, and providing disaster relief and humanitarian assistance; Nicaragua has defense ties with Cuba, Venezuela, and Russia; Russia has provided training support and equipment; in 2025, Nicaragua signed an agreement of “mutual protection” with Russia<br><br>the modern Army of Nicaragua was created in 1979 as the Sandinista Popular Army (1979-1984); prior to 1979, the military was known as the National Guard, which was organized and trained by the US in the 1920s and 1930s; the first commander of the National Guard, Anastasio SOMOZA GARCIA, seized power in 1937 and ran the country as a military dictator until his assassination in 1956; his sons ran the country either directly or through figureheads until the Sandinistas came to power in 1979; the defeated National Guard was disbanded by the Sandinistas (2025)<br>

@@ -116,21 +116,21 @@ _elderly dependency ratio_: 6.9 (2024 est.)<br>
 _potential support ratio_: 14.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 22.1 years (2024 est.)<br>
+_total_: 18.6 years (2025 est.)<br>
 _male_: 21.1 years<br>
 _female_: 23.1 years<br>
 
 **Population growth rate**<br>
-1.92% (2024 est.)<br>
+2.88% (2025 est.)<br>
 
 **Birth rate**<br>
-27.2 births/1,000 population (2024 est.)<br>
+34.01 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.2 deaths/1,000 population (2024 est.)<br>
+5.18 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.7 migrant(s)/1,000 population (2024 est.)<br>
+0 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 vast areas of the country, particularly in the central, northern, and eastern areas, are desert and lack sizeable population clusters; half the population lives in or around the coastal capital of Nouakchott; smaller clusters are found near the southern border with Mali and Senegal, as shown in this population distribution map<br>
@@ -157,7 +157,7 @@ _total population_: 0.93 male(s)/female (2024 est.)<br>
 381 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 48.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 29.9 deaths/1,000 live births (2025 est.)<br>
 _male_: 54.8 deaths/1,000 live births<br>
 _female_: 42.9 deaths/1,000 live births<br>
 
@@ -167,10 +167,10 @@ _male_: 63.4 years<br>
 _female_: 68.5 years<br>
 
 **Total fertility rate**<br>
-3.4 children born/woman (2024 est.)<br>
+4.76 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.68 (2024 est.)<br>
+2.34 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 94.6% of population (2022 est.)<br>
@@ -214,7 +214,7 @@ _female_: 1.7% (2025 est.)<br>
 22.4% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-66% (2023 est.)<br>
+66.1% (2020 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 15.5% (2021)<br>
@@ -324,7 +324,7 @@ _head of government_: Prime Minister Moctar Ould DIAY (since 2 August 2024)<br>
 _cabinet_: Council of Ministers nominees suggested by the prime minister, appointed by the president<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister appointed by the president<br>
 _most recent election date_: 29 June 2024<br>
-_election results_: <em><br>2024:</em> Mohamed Ould Cheikh el GHAZOUANI reelected president in first round; percent of vote - Mohamed Ould Cheikh el GHAZOUANI (UPR) 56.1%, Biram Dah Ould ABEID (independent) 22.1%, Hamadi Sidi el MOKHTAR independent) 12.8%, other 9.0%<br><em><br>2019:</em> Mohamed Ould Cheikh el GHAZOUANI elected president in first round; percent of vote - Mohamed Ould Cheikh el GHAZOUANI (UPR) 52%, Biram Dah Ould ABEID (independent) 18.6%, Sidi Mohamed Ould BOUBACAR (independent) 17.9%, other 11.5%<br>
+_election results_: <em><br>2024:</em> Mohamed Ould Cheikh el GHAZOUANI reelected president in first round; percent of vote - Mohamed Ould Cheikh el GHAZOUANI (UPR) 56.1%, Biram Dah Ould ABEID (independent) 22.1%, Hamadi Sidi el MOKHTAR independent) 12.8%, other 9.0%<br>
 _expected date of next election_: June 2029<br>
 
 **Legislative branch**<br>
@@ -582,8 +582,8 @@ _total subscriptions_: 48,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5.36 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 113 (2022 est.)<br>
+_total subscriptions_: 4.76 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 92 (2024 est.)<br>
 
 **Broadcast media**<br>
 12 TV stations, 6 state-owned and 6 private; 19 radio broadcasters, including 15 state-owned and 4 (Radio Nouakchott Libre, Radio Tenwir, Radio Kobeni and Mauritanid) private; of the 15 government stations, 4 broadcast from Nouakchott (Radio Mauritanie, Radio Jeunesse, Radio Koran and Mauritanid) and the other 12 broadcast from each of the 12 regions outside Nouakchott (2022)<br>
@@ -643,13 +643,13 @@ Mauritanian Armed Forces (aka Armée Nationale Mauritanienne): National Army, Na
 estimated 17,000 active Mauritanian Armed Forces; estimated 3,000 Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is limited and made up largely of older French and Soviet-era equipment; in recent years, Mauritania has received some secondhand and new military equipment, including unmanned aircraft (drones), from several suppliers, including China and the UAE (2024)<br>
+the military's inventory is limited and made up largely of older French and Soviet-era equipment; in recent years, Mauritania has received some secondhand and new military equipment from several suppliers, including China, France, and the UAE (2025)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; has a compulsory two-year military service law, but the law has reportedly never been applied (2023)<br>
+18 is the legal minimum age for voluntary military service; has a compulsory two-year military service law, but the law has reportedly never been applied (2025)<br>
 
 **Military deployments**<br>
-450 (plus about 325 police) Central African Republic (MINUSCA) (2024)<br>
+450 (plus about 325 police) Central African Republic (MINUSCA) (2025)<br>
 
 **Military - note**<br>
 founded in 1960, the Mauritanian military is responsible for territorial defense and internal security; it also assists in economic development projects, humanitarian missions, and disaster response; border and maritime security, regional stability, and the threat of terrorist groups operating in the Sahel, particularly Mali, are key areas of focus; Mauritania has received security assistance from the EU, France, NATO, and the US (2025)<br>

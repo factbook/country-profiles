@@ -50,12 +50,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 nickel, chrome, iron, cobalt, manganese, silver, gold, lead, copper<br>
 
 **Land use**<br>
-_agricultural land_: 10.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.3% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.5% (2022 est.)<br>
-_forest_: 45.8% (2022 est.)<br>
-_other_: 44.1% (2022 est.)<br>
+_agricultural land_: 10.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.5% (2023 est.)<br>
+_forest_: 48.8% (2023 est.)<br>
+_other_: 41.1% (2023 est.)<br>
 
 **Irrigated land**<br>
 100 sq km (2012)<br>
@@ -102,21 +102,21 @@ _elderly dependency ratio_: 15.8 (2024 est.)<br>
 _potential support ratio_: 6.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 34.3 years (2024 est.)<br>
+_total_: 34.6 years (2025 est.)<br>
 _male_: 33.5 years<br>
 _female_: 35.1 years<br>
 
 **Population growth rate**<br>
-1.14% (2024 est.)<br>
+1.11% (2025 est.)<br>
 
 **Birth rate**<br>
-13.8 births/1,000 population (2024 est.)<br>
+13.6 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6 deaths/1,000 population (2024 est.)<br>
+6 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-3.6 migrant(s)/1,000 population (2024 est.)<br>
+3.54 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the populace lives in the southern part of the main island, in and around the capital of Noumea<br>
@@ -136,7 +136,7 @@ _65 years and over_: 0.77 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.8 deaths/1,000 live births (2024 est.)<br>
+_total_: 4.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 5.8 deaths/1,000 live births<br>
 _female_: 3.9 deaths/1,000 live births<br>
 
@@ -146,10 +146,10 @@ _male_: 75.4 years<br>
 _female_: 83.3 years<br>
 
 **Total fertility rate**<br>
-1.83 children born/woman (2024 est.)<br>
+1.82 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.89 (2024 est.)<br>
+0.89 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 99.5% of population (2022 est.)<br>
@@ -163,7 +163,7 @@ _improved: total_: total: 100% of population (2022 est.)<br>
 _unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-22.5% (2023 est.)<br>
+46.4% (2019 est.)<br>
 
 ## Environment
 
@@ -174,12 +174,12 @@ preservation of coral reefs; prevention of invasive species; limiting erosion ca
 tropical; modified by southeast trade winds; hot, humid<br>
 
 **Land use**<br>
-_agricultural land_: 10.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.3% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.2% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 9.5% (2022 est.)<br>
-_forest_: 45.8% (2022 est.)<br>
-_other_: 44.1% (2022 est.)<br>
+_agricultural land_: 10.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.3% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.2% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 9.5% (2023 est.)<br>
+_forest_: 48.8% (2023 est.)<br>
+_other_: 41.1% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 72.7% of total population (2023)<br>

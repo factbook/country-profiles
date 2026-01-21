@@ -108,21 +108,21 @@ _elderly dependency ratio_: 5.4 (2024 est.)<br>
 _potential support ratio_: 18.6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 22 years (2024 est.)<br>
+_total_: 20.5 years (2025 est.)<br>
 _male_: 21.9 years<br>
 _female_: 22.2 years<br>
 
 **Population growth rate**<br>
-1.78% (2024 est.)<br>
+2.22% (2025 est.)<br>
 
 **Birth rate**<br>
-23.4 births/1,000 population (2024 est.)<br>
+29.07 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.5 deaths/1,000 population (2024 est.)<br>
+6.21 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.2 migrant(s)/1,000 population (2024 est.)<br>
+-0.65 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the vast majority of the population is found in the Asir Mountains (part of the larger Sarawat Mountain system), located in the far western region of the country<br>
@@ -149,7 +149,7 @@ _total population_: 1.02 male(s)/female (2024 est.)<br>
 118 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 44.6 deaths/1,000 live births (2024 est.)<br>
+_total_: 42.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 49.9 deaths/1,000 live births<br>
 _female_: 39 deaths/1,000 live births<br>
 
@@ -159,10 +159,10 @@ _male_: 65.8 years<br>
 _female_: 70.6 years<br>
 
 **Total fertility rate**<br>
-2.82 children born/woman (2024 est.)<br>
+3.65 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.37 (2024 est.)<br>
+1.78 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 77.2% of population (2022 est.)<br>
@@ -206,7 +206,7 @@ _female_: 7.3% (2025 est.)<br>
 40.7% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-60.4% (2023 est.)<br>
+63.9% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 6.5% (2023)<br>
@@ -609,7 +609,8 @@ Yemeni Armed Forces: Yemeni National Army, Air Force and Air Defense, Navy and C
 not available<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Yemeni Government forces have an inventory consisting primarily of Russian and Soviet-era weapons and equipment   Houthi forces are armed largely with weapons seized from the Yemeni Government stockpiles, smuggled in from Iran, and manufactured copies of Iranian designs and pre-war Yemeni Government weapons, such as Chinese and Russian missiles (2024)<br>
+the Yemeni Government forces have an inventory consisting primarily of older foreign-supplied weapons systems, mostly of Russian or Soviet origin (2025)<br>
+<strong>note:</strong> Houthi rebel forces are armed largely with weapons seized from the Yemeni Government stockpiles, smuggled in from Iran, and manufactured copies of Iranian designs and pre-war Yemeni Government weapons<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; conscription abolished in 2001; 2-year service obligation (note - limited information since the start of the civil war in 2014) (2022)<br>
@@ -629,4 +630,7 @@ Ansarallah (Houthis); Hizballah; Islamic Revolutionary Guard Corps (IRGC)/Qods F
 **Refugees and internally displaced persons**<br>
 _refugees_: 60,921 (2024 est.)<br>
 _IDPs_: 4,795,983 (2024 est.)<br>
+
+**Trafficking in persons**<br>
+_tier rating_: Special Case; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/yemen/<br>
 

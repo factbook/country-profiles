@@ -108,21 +108,21 @@ _elderly dependency ratio_: 8.6 (2024 est.)<br>
 _potential support ratio_: 11.6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 23.9 years (2024 est.)<br>
+_total_: 24 years (2025 est.)<br>
 _male_: 23.4 years<br>
 _female_: 24.3 years<br>
 
 **Population growth rate**<br>
-0.76% (2024 est.)<br>
+0.73% (2025 est.)<br>
 
 **Birth rate**<br>
-22.9 births/1,000 population (2024 est.)<br>
+21.68 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-10.8 deaths/1,000 population (2024 est.)<br>
+10.2 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--4.5 migrant(s)/1,000 population (2024 est.)<br>
+-4.21 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 relatively higher population density in the western half of the nation, with the capital of Maseru and the smaller cities of Mafeteng, Teyateyaneng, and Leribe attracting the most people, as shown in this population distribution map<br>
@@ -149,7 +149,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 478 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 45.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 52.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 51 deaths/1,000 live births<br>
 _female_: 40.2 deaths/1,000 live births<br>
 
@@ -159,10 +159,10 @@ _male_: 58.1 years<br>
 _female_: 62.3 years<br>
 
 **Total fertility rate**<br>
-2.85 children born/woman (2024 est.)<br>
+2.49 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.4 (2024 est.)<br>
+1.23 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 93% of population (2022 est.)<br>
@@ -206,7 +206,7 @@ _female_: 4.1% (2025 est.)<br>
 12.5% (2024 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-53.7% (2023 est.)<br>
+46.9% (2021 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 1% (2018)<br>
@@ -590,8 +590,8 @@ _total subscriptions_: 7,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.6 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 68 (2022 est.)<br>
+_total subscriptions_: 1.64 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 70 (2024 est.)<br>
 
 **Broadcast media**<br>
 1 state-owned TV station and 2 state-owned radio stations; most private broadcast media transmitters are connected to government radio signal towers; satellite TV subscription service available; transmissions of multiple international broadcasters obtainable (2019)<br>
@@ -631,10 +631,10 @@ Lesotho Defense Force (LDF) (2025)<br>
 approximately 2,000 active Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the LDF is lightly armed and has a small inventory of mostly older or second-hand equipment of European, South African, and US origin (2025)<br>
+the LDF is lightly armed and has a small inventory of mostly older or secondhand equipment of European, South African, and US origin (2025)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary military service for both men and women (women can serve in combat arms); no conscription (2024)<br>
+20-30 years of age for voluntary military service for both men and women (2026)<br>
 
 **Military - note**<br>
 the Lesotho Defense Force (LDF) is responsible for the maintenance of the country's sovereignty and the preservation of internal security; in practice, external security is guaranteed by South Africa; the LDF is a small force that began in 1964 as the Police Mobile Unit (PMU); the PMU was designated as the Lesotho Paramilitary Force in 1980 and became the Royal Lesotho Defense Force in 1986; it was renamed the Lesotho Defense Force in 1993 (2025)<br>

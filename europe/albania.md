@@ -112,21 +112,21 @@ _elderly dependency ratio_: 23.5 (2024 est.)<br>
 _potential support ratio_: 4.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 36.3 years (2024 est.)<br>
+_total_: 37.9 years (2025 est.)<br>
 _male_: 34.8 years<br>
 _female_: 37.8 years<br>
 
 **Population growth rate**<br>
-0.16% (2024 est.)<br>
+-1.06% (2025 est.)<br>
 
 **Birth rate**<br>
-12.3 births/1,000 population (2024 est.)<br>
+8.71 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.4 deaths/1,000 population (2024 est.)<br>
+7.9 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--3.2 migrant(s)/1,000 population (2024 est.)<br>
+-11.37 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution, with somewhat higher concentrations of people in the western and central parts of the country<br>
@@ -152,7 +152,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 7 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 10.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 11.3 deaths/1,000 live births<br>
 _female_: 9.2 deaths/1,000 live births<br>
 
@@ -162,10 +162,10 @@ _male_: 77.3 years<br>
 _female_: 82.8 years<br>
 
 **Total fertility rate**<br>
-1.55 children born/woman (2024 est.)<br>
+1.09 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.75 (2024 est.)<br>
+0.52 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 95.7% of population (2022 est.)<br>
@@ -212,7 +212,7 @@ _female_: 6.2% (2025 est.)<br>
 1.5% (2017 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-67.2% (2023 est.)<br>
+65.7% (2018 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 1.4% (2018)<br>
@@ -599,8 +599,8 @@ _total subscriptions_: 173,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 6 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2.61 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 98 (2022 est.)<br>
+_total subscriptions_: 2,614,760 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 89 (2024 est.)<br>
 
 **Broadcast media**<br>
 over 65 TV stations, including several that broadcast nationally and are sometimes available to neighboring countries; many viewers have access to Italian and Greek TV via terrestrial reception; TV stations have begun a government-mandated conversion from analog to digital broadcast; cable TV service is available; 2 public radio networks and roughly 78 private radio stations; several international broadcasters are available (2024)<br>
@@ -660,10 +660,10 @@ Republic of Albania Armed Forces (Forcat e Armatosura të Republikës së Shqip�
 approximately 7,500 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-since joining NATO, the military has been in the process of modernizing by retiring its inventory of Soviet-era weapons and replacing them with Western equipment, including donated and secondhand deliveries (2024)<br>
+the military is in the process of modernizing by replacing its inventory of Soviet-era weapons with NATO standard armaments; in recent years, acquisitions have included equipment from France, Israel, Italy, Turkey and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18-27 (up to 32 in some cases) for voluntary military service for men and women; conscription abolished 2010 (2024)<br>
+18-30 for voluntary military service for men and women; conscription abolished 2010 (2025)<br>
 <strong>note: </strong>as of 2024, women comprised about 15% of the military's full-time personnel<br>
 
 **Military deployments**<br>

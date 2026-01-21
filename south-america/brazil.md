@@ -120,21 +120,21 @@ _elderly dependency ratio_: 15.6 (2024 est.)<br>
 _potential support ratio_: 6.4 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 35.1 years (2024 est.)<br>
+_total_: 35.4 years (2025 est.)<br>
 _male_: 34 years<br>
 _female_: 36.1 years<br>
 
 **Population growth rate**<br>
-0.61% (2024 est.)<br>
+0.58% (2025 est.)<br>
 
 **Birth rate**<br>
-13.2 births/1,000 population (2024 est.)<br>
+13.04 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7 deaths/1,000 population (2024 est.)<br>
+7.07 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.2 migrant(s)/1,000 population (2024 est.)<br>
+-0.19 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the vast majority of people live along or near the Atlantic coast in the east; the population core is in the southeast, anchored by the cities of S&atilde;o Paolo, Bras&iacute;lia, and Rio de Janeiro<br>
@@ -157,7 +157,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 67 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 12.7 deaths/1,000 live births (2025 est.)<br>
 _male_: 14.6 deaths/1,000 live births<br>
 _female_: 11.1 deaths/1,000 live births<br>
 
@@ -167,10 +167,10 @@ _male_: 72.6 years<br>
 _female_: 80.1 years<br>
 
 **Total fertility rate**<br>
-1.74 children born/woman (2024 est.)<br>
+1.73 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.85 (2024 est.)<br>
+0.84 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.8% of population (2022 est.)<br>
@@ -217,7 +217,7 @@ _female_: 8.3% (2025 est.)<br>
 3.5% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-55.9% (2023 est.)<br>
+56.9% (2019 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 5.6% of GDP (2022 est.)<br>
@@ -641,8 +641,8 @@ _total subscriptions_: 25.574 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 12 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 213 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 99 (2022 est.)<br>
+_total subscriptions_: 213.295 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 102 (2024 est.)<br>
 
 **Broadcast media**<br>
 state-run Radiobras operates a radio and a TV network; more than 1,000 radio stations and more than 100 TV channels operating, mostly privately owned; private media ownership highly concentrated (2022)<br>
@@ -705,10 +705,10 @@ Brazilian Armed Forces (Forças Armadas Brasileiras): Brazilian Army (Exercito B
 approximately 360,000 active Armed Forces (220,000 Army; 70,000 Navy; 70,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Brazilian military's inventory consists of a mix of domestically produced and imported weapons, largely from Europe and the US; Brazil's defense industry designs and manufactures equipment for all three military services and for export; it also jointly produces equipment with other countries (2024)<br>
+the Brazilian military's inventory consists of a mix of domestically produced and imported weapons, largely from Europe and the US; Brazil's defense industry designs and manufactures equipment for all three military services and for export; it also jointly produces equipment with other countries (2025)<br>
 
 **Military service age and obligation**<br>
-18-45 years of age for compulsory military service for men (women exempted); only 5-10% of those inducted are required to serve; conscript service obligation is 10-12 months; 17-45 (18 for women) years of age for voluntary service (2024)<br>
+18-45 years of age for compulsory military service for men (only 5-10% of those inducted are required to serve); compulsory service obligation is generally 12 months; 17-45 (18 for women) years of age for voluntary service (2025)<br>
 <strong>note:</strong> in 2024, women were reported to comprise approximately 10% of the Brazilian military<br>
 
 **Military - note**<br>

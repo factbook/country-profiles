@@ -107,21 +107,21 @@ _elderly dependency ratio_: 32.2 (2024 est.)<br>
 _potential support ratio_: 3.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 45 years (2024 est.)<br>
+_total_: 42.9 years (2025 est.)<br>
 _male_: 41.9 years<br>
 _female_: 48.2 years<br>
 
 **Population growth rate**<br>
--0.76% (2024 est.)<br>
+-0.47% (2025 est.)<br>
 
 **Birth rate**<br>
-8.2 births/1,000 population (2024 est.)<br>
+7.86 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-13.2 deaths/1,000 population (2024 est.)<br>
+12.57 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--2.7 migrant(s)/1,000 population (2024 est.)<br>
+0 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -147,7 +147,7 @@ _total population_: 0.89 male(s)/female (2024 est.)<br>
 5 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 2 deaths/1,000 live births (2025 est.)<br>
 _male_: 3.2 deaths/1,000 live births<br>
 _female_: 3.4 deaths/1,000 live births<br>
 
@@ -157,10 +157,10 @@ _male_: 73.8 years<br>
 _female_: 83.2 years<br>
 
 **Total fertility rate**<br>
-1.62 children born/woman (2024 est.)<br>
+1.36 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.79 (2024 est.)<br>
+0.66 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -204,7 +204,7 @@ _male_: 29.9% (2025 est.)<br>
 _female_: 18.3% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-52.3% (2023 est.)<br>
+54.1% (2021 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 5.2% of GDP (2022 est.)<br>
@@ -346,7 +346,7 @@ _email address and website_: <br>Embassy.Washington@mfa.ee<br><br>https://washin
 _consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Matthew E. WALL (since January 2025)<br>
+_chief of mission_: Ambassador Roman PIPKO (since 26 November 2025)<br>
 _embassy_: Kentmanni 20, 15099 Tallinn<br>
 _mailing address_: 4530 Tallinn Place, Washington DC&nbsp; 20521-4530<br>
 _telephone_: [372] 668-8100<br>
@@ -583,8 +583,8 @@ _total subscriptions_: 238,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 17 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2.05 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 155 (2022 est.)<br>
+_total subscriptions_: 2,053,470 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 151 (2024 est.)<br>
 
 **Broadcast media**<br>
 the publicly owned broadcaster, Eesti Rahvusringhaaling (ERR), operates 3 TV channels and 5 radio networks; growing number of private commercial radio stations broadcasting nationally, regionally, and locally; fully transitioned to digital television in 2010; national private TV channels expanding service, with a range of channels aimed at Russian-speaking viewers; in 2016, there were 42 on-demand services available in Estonia, including 19 pay TVOD and SVOD services; roughly 85% of households accessed digital television services<br>
@@ -644,11 +644,11 @@ approximately 7,500 active-duty military personnel (2025)<br>
 <strong>note: </strong>the Estonian Defense Forces rely largely on reservists who have completed compulsory conscription in the previous 10 years to fill out its active duty and Territorial Defense units during a crisis; there are more than 40,000 trained reservists, and approximately 230,000 Estonians are enrolled in the mobilization registry<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Estonian military has a mix of weapons and equipment from western European suppliers, as well as Israel, South Korea, Turkey, and the US&nbsp; (2024)<br>
+the Estonian military has a mix of Soviet-era and more modern, Western-origin weapons and equipment; suppliers in recent years include France, Israel, South Korea, Sweden, T&uuml;rkiye, and the US (2025)<br>
 
 **Military service age and obligation**<br>
 18-27 for compulsory military or governmental service for men; conscript service requirement 8-11 months depending on education; non-commissioned officers, reserve officers, and specialists serve 11 months; women can volunteer, and as of 2018 could serve in any military branch (2025)<br>
-<strong>note 1:</strong> conscripts comprise approximately 3,000-3,300 of the Estonian military's active-duty personnel and serve in all branches, except for the Air Force; after conscript service, reservists are called up for training every 5 years; Estonia has had conscription since 1991<br><br><strong>note 2:</strong> in 2021, women comprised about 10% of the full-time professional military force; the Defense League includes a Women's Voluntary Defense Organization<br>
+<strong>note 1:</strong> conscripts comprise approximately 3,000-3,300 of the Estonian military's active-duty personnel and serve in all branches, except for the Air Force; after conscript service, reservists are called up for training every 5 years; Estonia has had conscription since 1991<br><br><strong>note 2:</strong> in 2024, women comprised about 8% of the full-time professional military force; the Defense League includes a Women's Voluntary Defense Organization<br>
 
 **Military - note**<br>
 Estonia’s defense policy aims to guarantee the country’s independence and sovereignty, protect its territorial integrity, including waters and airspace, and preserve constitutional order; Estonia’s main defense goals are developing and maintaining a credible deterrent to outside aggression and ensuring the Estonian Defense Forces (EDF) can fulfill their commitments to NATO and interoperate with the armed forces of NATO and EU member states; the EDF’s primary external focus is Russia; since Russia’s full-scale invasion of Ukraine in 2022, Estonia has boosted defense spending, sent arms to Ukraine, and sought to boost the EDF’s capabilities in such areas as air defense, artillery, personnel readiness, and surveillance<br><br>Estonia has been a member of NATO since 2004, is fully integrated within the NATO structure, and relies on its NATO partners for defense; since 2017, Estonia has hosted a UK-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; as the EDF Air Force does not have any combat aircraft, NATO has provided airspace protection for Estonia since 2004 through its Baltic Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on four-month rotations; NATO fighter aircraft have been hosted at Estonia’s Ämari Air Base since 2014; Estonia also hosts a NATO cyber security center; it cooperates closely with the EU on defense issues through the EU Common Security and Defense Policy and is a member of the UK-led Joint Expeditionary Force, a pool of high-readiness military forces from 10 Baltic and Scandinavian countries designed to respond to a wide range of contingencies in the North Atlantic, Baltic Sea, and High North regions; Estonia also has close defense ties with its Baltic neighbors and has bilateral military agreements with a number of European countries, as well as Canada and the US (2025)<br>

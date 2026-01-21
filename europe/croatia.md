@@ -111,21 +111,21 @@ _elderly dependency ratio_: 33.6 (2024 est.)<br>
 _potential support ratio_: 3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 45.1 years (2024 est.)<br>
+_total_: 44.9 years (2025 est.)<br>
 _male_: 43.2 years<br>
 _female_: 47 years<br>
 
 **Population growth rate**<br>
--0.46% (2024 est.)<br>
+-0.53% (2025 est.)<br>
 
 **Birth rate**<br>
-8.5 births/1,000 population (2024 est.)<br>
+8.49 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-13.1 deaths/1,000 population (2024 est.)<br>
+12.87 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2024 est.)<br>
+-0.87 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 more of the population lives in the northern half of the country, with approximately a quarter of the populace residing in and around the capital of Zagreb; many of the islands are sparsely populated<br>
@@ -151,7 +151,7 @@ _total population_: 0.93 male(s)/female (2024 est.)<br>
 3 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 3.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 8.2 deaths/1,000 live births<br>
 _female_: 8.7 deaths/1,000 live births<br>
 
@@ -161,10 +161,10 @@ _male_: 74.6 years<br>
 _female_: 81 years<br>
 
 **Total fertility rate**<br>
-1.46 children born/woman (2024 est.)<br>
+1.43 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.71 (2024 est.)<br>
+0.69 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -196,7 +196,7 @@ _male_: 33.6% (2025 est.)<br>
 _female_: 32.1% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-50.8% (2023 est.)<br>
+50.1% (2021 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.1% of GDP (2021 est.)<br>
@@ -582,8 +582,8 @@ _total subscriptions_: 1.203 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 31 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.56 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 111 (2022 est.)<br>
+_total subscriptions_: 4,562,730 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 122 (2024 est.)<br>
 
 **Broadcast media**<br>
 the national state-owned public broadcaster, Croatian Radiotelevision, operates 4 terrestrial TV networks, a satellite channel that rebroadcasts programs for Croatians overseas, and 6 regional TV centers; 2 private broadcasters with national terrestrial networks; 29 privately owned regional TV stations; multi-channel cable and satellite TV subscription services are available; state-owned public broadcaster operates 4 national radio networks and 23 regional radio stations; 2 privately owned national radio networks and 117 local radio stations (2019)<br>
@@ -642,14 +642,14 @@ Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH)
 approximately 15,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a mix of Soviet-era (largely from the former Yugoslavia) equipment and a growing amount of more modern, NATO-compatible weapon systems from suppliers such as France, Germany, Turkey, and the US (2024)<br>
+the military's inventory is a mix of Soviet-era (largely from the former Yugoslavia) equipment and a growing amount of more modern, NATO-compatible weapon systems from suppliers such as France, Germany, T&uuml;rkiye, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for voluntary military service; conscription abolished in 2008 but slated to be reinstated in January 2025 (2024)<br>
+18-29 years of age for voluntary military service for men and women; conscription abolished in 2008 but will be reinstated in 2026 when it will become mandatory for men aged 19-29 to undergo two months of basic military training (2025)<br>
 <strong>note:</strong> as of 2024, women comprised about 14% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-150 Kosovo (KFOR/NATO); 175 Lithuania (NATO; Croatia also has a few hundred personnel participating in several other EU, NATO, and UN missions (2024)<br>
+150 Kosovo (KFOR/NATO); also has a few hundred personnel participating in several other EU, NATO, and UN missions (2025)<br>
 
 **Military - note**<br>
 the Armed Forces of Croatia (OSRH) are responsible for the defense of Croatia’s sovereignty and territory, contributing to international humanitarian, peacekeeping, and security missions, and providing assistance to civil authorities for such missions as responding to disasters, search and rescue, anti-terrorism, and internal security in times of crisis if called upon by the prime minister or the president; Croatia joined NATO in 2009, and the OSRH participates in NATO missions, including its peacekeeping force in Kosovo and the Enhanced Forward Presence mission in Eastern Europe; it also contributes to EU and UN missions; the OSRH trains regularly with NATO and regional partners  <br><br>the OSRH was established in 1991 from the Croatian National Guard during the Croatian War of Independence (1991-95); during the war, the ground forces grew to as many as 60 brigades and dozens of independent battalions, and a single military offensive against Serbian forces in 1995 included some 100,000 Croatian troops; in 2000, Croatia initiated an effort to modernize and reform the OSRH into a small, professional military capable of meeting the challenges of NATO membership (2025)<br>

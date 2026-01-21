@@ -90,7 +90,7 @@ Tetun Prasa 30.6%, Mambai 16.6%, Makasai 10.5%, Tetun Terik 6.1%, Baikenu 5.9%, 
 <strong>note:</strong> data represent population by mother tongue; Tetun and Portuguese are official languages; Indonesian and English are working languages; there are about 32 indigenous languages<br>
 
 **Religions**<br>
-Roman Catholic 97.6%, Protestant/Evangelical 2%, Muslim 0.2%, other 0.2% (2015 est.)<br>
+Catholic 90.7%, other 7.1%, Protestant Evangelical 1.9%; less than 1%: Islam, Buddhist, Hindu (2022 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 38.7% (male 299,929/female 283,416)<br>
@@ -104,21 +104,21 @@ _elderly dependency ratio_: 7.7 (2024 est.)<br>
 _potential support ratio_: 13 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 20.6 years (2024 est.)<br>
+_total_: 23 years (2025 est.)<br>
 _male_: 19.8 years<br>
 _female_: 21.3 years<br>
 
 **Population growth rate**<br>
-2.04% (2024 est.)<br>
+1.28% (2025 est.)<br>
 
 **Birth rate**<br>
-29.7 births/1,000 population (2024 est.)<br>
+23.39 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.5 deaths/1,000 population (2024 est.)<br>
+6.86 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--3.8 migrant(s)/1,000 population (2024 est.)<br>
+-3.73 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in the western third of the country, particularly around Dili<br>
@@ -145,7 +145,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 192 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 32.2 deaths/1,000 live births (2024 est.)<br>
+_total_: 41.9 deaths/1,000 live births (2025 est.)<br>
 _male_: 35.3 deaths/1,000 live births<br>
 _female_: 28.9 deaths/1,000 live births<br>
 
@@ -155,10 +155,10 @@ _male_: 68.9 years<br>
 _female_: 72.3 years<br>
 
 **Total fertility rate**<br>
-3.98 children born/woman (2024 est.)<br>
+2.79 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.92 (2024 est.)<br>
+1.35 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.4% of population (2022 est.)<br>
@@ -202,7 +202,7 @@ _female_: 8.9% (2025 est.)<br>
 31.9% (2020 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-55.9% (2023 est.)<br>
+56.4% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 2.6% (2016)<br>
@@ -607,7 +607,7 @@ Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (
 approximately 2,000 Defense Forces&nbsp; (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military is lightly armed and has a limited inventory consisting mostly of donated equipment from countries such as Australia, China, Portugal, South Korea, and the US (2024)<br>
+the military is lightly armed with a limited inventory consisting mostly of donated equipment from countries such as Australia, China, Portugal, South Korea, and the US (2025)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; compulsory service was authorized in 2020 for men and women aged 18-30 for 18 months of service, but the level of implementation is unclear (2023)<br>

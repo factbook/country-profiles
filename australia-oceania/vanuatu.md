@@ -106,21 +106,21 @@ _elderly dependency ratio_: 7.9 (2024 est.)<br>
 _potential support ratio_: 12.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 24.6 years (2024 est.)<br>
+_total_: 24.9 years (2025 est.)<br>
 _male_: 24.1 years<br>
 _female_: 25 years<br>
 
 **Population growth rate**<br>
-1.55% (2024 est.)<br>
+1.51% (2025 est.)<br>
 
 **Birth rate**<br>
-20.8 births/1,000 population (2024 est.)<br>
+20.36 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-4 deaths/1,000 population (2024 est.)<br>
+4.02 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1.3 migrant(s)/1,000 population (2024 est.)<br>
+-1.24 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 three quarters of the population lives in rural areas; the urban populace lives primarily in two cities, Port-Vila and Lugenville; the three largest islands -- Espiritu Santo, Malakula, and Efate -- accommodate over half of the populace<br>
@@ -143,7 +143,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 100 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 13.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 13.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 15 deaths/1,000 live births<br>
 _female_: 12.3 deaths/1,000 live births<br>
 
@@ -153,10 +153,10 @@ _male_: 74 years<br>
 _female_: 77.4 years<br>
 
 **Total fertility rate**<br>
-2.53 children born/woman (2024 est.)<br>
+2.46 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.23 (2024 est.)<br>
+1.2 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.2% of population (2022 est.)<br>
@@ -197,7 +197,7 @@ _male_: 33% (2020 est.)<br>
 _female_: 2.6% (2020 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-69.2% (2023 est.)<br>
+68.6% (2020 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 7.6% of GDP (2023 est.)<br>
@@ -589,7 +589,7 @@ _key ports_: Forari Bay, Luganville, Port Vila<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Vanuatu Police Force (VPF) (2025)<br>
+no regular military forces; Vanuatu Police Force (VPF)<br>
 <strong>note:</strong> the VPF includes the paramilitary Vanuatu Mobile Force (VMF) and Police Maritime Wing (VMW); the VMF has external security responsibilities<br>
 
 **Military - note**<br>

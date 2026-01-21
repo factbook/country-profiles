@@ -113,21 +113,21 @@ _elderly dependency ratio_: 4.9 (2024 est.)<br>
 _potential support ratio_: 20.6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 16.7 years (2024 est.)<br>
+_total_: 16.9 years (2025 est.)<br>
 _male_: 16.3 years<br>
 _female_: 17.2 years<br>
 
 **Population growth rate**<br>
-3.01% (2024 est.)<br>
+2.98% (2025 est.)<br>
 
 **Birth rate**<br>
-39.2 births/1,000 population (2024 est.)<br>
+38.62 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9 deaths/1,000 population (2024 est.)<br>
+8.75 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.1 migrant(s)/1,000 population (2024 est.)<br>
+-0.12 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the population is unevenly distributed due to contrasts in climate and physical geography; the highest density is found in the southwest, particularly around Lake Chad and points south; the dry Saharan zone to the north is the least densely populated, as shown in this population distribution map<br>
@@ -154,7 +154,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 748 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 62.5 deaths/1,000 live births (2024 est.)<br>
+_total_: 61.1 deaths/1,000 live births (2025 est.)<br>
 _male_: 68.1 deaths/1,000 live births<br>
 _female_: 56.7 deaths/1,000 live births<br>
 
@@ -164,10 +164,10 @@ _male_: 58.1 years<br>
 _female_: 62 years<br>
 
 **Total fertility rate**<br>
-5.24 children born/woman (2024 est.)<br>
+5.13 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-2.57 (2024 est.)<br>
+2.51 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 77.9% of population (2022 est.)<br>
@@ -214,7 +214,7 @@ _female_: 1.3% (2025 est.)<br>
 18.2% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-70.6% (2023 est.)<br>
+72.6% (2019 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 24.2% (2019)<br>
@@ -332,7 +332,7 @@ _head of government_: Prime Minister Allamaye HALINA (since 23 May 2024)<br>
 _cabinet_: Council of Ministers<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (no term limits)<br>
 _most recent election date_: 6 May 2024<br>
-_election results_: <em><br>2024: </em>Mahamat Idriss DÉBY elected president; percent of vote - Mahamat Idriss DÉBY (MPS) 61%, Succes MASRA (Transformers) 18.5%, Albert PADACKE 16.9%, other 3.6%<br><em><br>2021:</em> Lt. Gen. Idriss DÉBY reelected transitional president; percent of vote - Lt. Gen. Idriss DÉBY (MPS) 79.3%, Pahimi PADACKET Albert (RNDT) 10.3%, Lydie BEASSEMDA (Party for Democracy and Independence) 3.2%, other 7.2%<br><em><br></em><br>
+_election results_: <em><br>2024: </em>Mahamat Idriss DÉBY elected president; percent of vote - Mahamat Idriss DÉBY (MPS) 61%, Succes MASRA (Transformers) 18.5%, Albert PADACKE 16.9%, other 3.6%<br><em><br></em><br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -594,8 +594,8 @@ _total subscriptions_: 5,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12.1 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 68 (2022 est.)<br>
+_total subscriptions_: 13,559,500 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 73 (2024 est.)<br>
 
 **Broadcast media**<br>
 1 state-owned TV station; 2 privately-owned TV stations; state-owned radio network, Radiodiffusion Nationale Tchadienne (RNT), operates national and regional stations; over 10 private radio stations; some stations rebroadcast programs from international broadcasters (2017)<br>
@@ -632,17 +632,17 @@ Chadian National Army (Armee Nationale du Tchad, ANT): Ground Forces (l'Armee de
 2.9% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 35-40,000 active Chadian National Army (2025)<br>
+estimated 35-40,000 active Chadian National Army personnel (2025)<br>
 <strong>note: </strong> in 2021, Chad pledged to increase the size of the military to 60,000<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ANT is armed with a mix of older, secondhand, and some more modern weapons and equipment from a wide variety of suppliers, including Brazil, China, France, Russia/former Soviet Union, Turkey, Ukraine, and the US (2024)<br>
+the ANT has a mix of older, secondhand, and some more modern armaments from a variety of suppliers, including Brazil, China, France, Russia/former Soviet Union, T&uuml;rkiye, Ukraine, and the UAE (2025)<br>
 
 **Military service age and obligation**<br>
-20 is the legal minimum age for compulsory military service for men with an 18-36 month service obligation (information varies); women are subject to 12 months of compulsory military or civic service at age 21; 18-35 for voluntary service (18-25 for officer recruits); soldiers released from active duty are in the reserves until the age of 50 (2023)<br>
+18-25 for voluntary service; men subject to 18-36 months of compulsory service at age 20; women are subject to 12 months of compulsory military or civic service at age 21 (2025)<br>
 
 **Military deployments**<br>
-Chad has committed approximately 1,000-1,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own territories, although cross‐border operations are conducted periodically (2024)<br>
+<strong>note:</strong> Chad has committed approximately 1,000-1,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own territories, although cross‐border operations are conducted periodically<br>
 
 **Military - note**<br>
 internal security is the primary focus of the Chadian National Army, and it is actively engaged in counterinsurgency operations against multiple terrorist and rebel groups; the terrorist groups Boko Haram and Islamic State of Iraq and ash-Sham in West Africa operate in the Lake Chad Basin area; meanwhile, a number of anti-government militias operate in northern Chad, some from bases in southern Libya, including the FACT (Front pour le Changement et la Concorde au Tchad), the Military Command Council for the Salvation of the Republic (le Conseil de Commandement Militaire pour le salut de la République or CCSMR), the Union of Forces for Democracy and Development (le Union des Forces pour la Démocratie et le Développement or UFDD), and the Union of Resistance Forces (le Union des Forces de la Résistance UFR); former Chadian President Idriss DEBY<strong> </strong>was killed in April 2021 during fighting between the FACT and government forces (2025)<br>

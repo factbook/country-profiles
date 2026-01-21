@@ -109,21 +109,21 @@ _elderly dependency ratio_: 8.5 (2024 est.)<br>
 _potential support ratio_: 11.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 25.7 years (2024 est.)<br>
+_total_: 26.1 years (2025 est.)<br>
 _male_: 24.8 years<br>
 _female_: 26.6 years<br>
 
 **Population growth rate**<br>
-1.29% (2024 est.)<br>
+1.28% (2025 est.)<br>
 
 **Birth rate**<br>
-19.9 births/1,000 population (2024 est.)<br>
+19.7 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.4 deaths/1,000 population (2024 est.)<br>
+4.9 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1.7 migrant(s)/1,000 population (2024 est.)<br>
+-2.02 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most residents live in the mountainous western half of the country; Honduras is the only Central American nation with an urban population that is distributed between two large centers, the capital of Tegucigalpa and the city of San Pedro Sula; the Rio Ulua valley in the north is the only densely populated lowland area<br>
@@ -150,7 +150,7 @@ _total population_: 0.93 male(s)/female (2024 est.)<br>
 47 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 15.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 17.5 deaths/1,000 live births<br>
 _female_: 13.2 deaths/1,000 live births<br>
 
@@ -160,10 +160,10 @@ _male_: 69.6 years<br>
 _female_: 76.8 years<br>
 
 **Total fertility rate**<br>
-2.33 children born/woman (2024 est.)<br>
+2.29 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.15 (2024 est.)<br>
+1.13 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.2% of population (2022 est.)<br>
@@ -210,7 +210,7 @@ _female_: 1.6% (2025 est.)<br>
 7.1% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-53.5% (2023 est.)<br>
+54.4% (2019 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 9.2% (2019)<br>
@@ -321,9 +321,9 @@ _chief of state_: President Iris Xiomara CASTRO de Zelaya (since 27 January 2022
 _head of government_: President Iris Xiomara CASTRO de Zelaya (since 27 January 2022)<br>
 _cabinet_: Cabinet appointed by president<br>
 _election/appointment process_: president directly elected by simple-majority popular vote for a 4-year term<br>
-_most recent election date_: 28 November 2021<br>
-_election results_: <br><em>2021: </em>Iris Xiomara CASTRO de Zelaya elected president; percent of vote - Iris Xiomara CASTRO de Zelaya (LIBRE) 51.1%, Nasry Juan ASFURA Zablah (PNH) 36.9%, Yani Benjamin ROSENTHAL Hidalgo (PL) 10%, other 2%<em><br><br>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion contra la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other 0.9%<br>
-_expected date of next election_: 30 November 2025<br>
+_most recent election date_: 30 November 2025<br>
+_election results_: <br><em>2025: </em>Nasry Juan ASFURA Zablah elected president; percent of vote - Nasry Juan ASFURA Zablah (PNH) 40.3%, Salvador NASRALLA (PL) 39.5%, Rixi Ramona MONCADA Godoy (LIBRE) 19.2%; note - ASFURA will take office 27 January 2026<em><br><br>2021: </em>Iris Xiomara CASTRO de Zelaya elected president; percent of vote - Iris Xiomara CASTRO de Zelaya (LIBRE) 51.1%, Nasry Juan ASFURA Zablah (PNH) 36.9%, Yani Benjamin ROSENTHAL Hidalgo (PL) 10%, other 2%<em><br><br>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion contra la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other 0.9%<br>
+_expected date of next election_: 25 November 2029<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -655,11 +655,10 @@ Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Hond
 approximately 15,000 active Honduran Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FFAA's inventory is comprised of a mix of older or secondhand and limited amounts of more equipment from a wide mix of suppliers, including Colombia, Germany, Israel, the Netherlands, South Korea, the UK, and the US (2024)<br>
+the FFAA's inventory is comprised of a mix of older or secondhand and limited amounts of more modern equipment; its main supplier is the US; other suppliers include Colombia, Israel, the Netherlands, and the UK (2025)<br>
 
 **Military service age and obligation**<br>
-18-22 years of age for voluntary military service for men and women; 24-36 month service obligation; no conscription (2024)<br>
-<strong>note: </strong>as of 2023, women made up about 9% of the active duty military<br>
+18-22 years of age for voluntary military service for men and women; 24&ndash;36 month service obligation; no conscription (2026)<br>
 
 **Military - note**<br>
 the Honduran Armed Forces (FFAA) are responsible for maintaining the country’s territory, defending its sovereignty, providing emergency/humanitarian assistance, and supporting the National Police (PNH); the FFAA’s primary focus is internal and border security, and since 2011 a considerable portion of it has been deployed to support the PNH in combating narcotics trafficking and organized crime; military support to domestic security included the creation of the Military Police of Public Order (PMOP) in 2013 to provide security in areas controlled by street gangs to combat crime and make arrests; the FFAA, including the PMOP, cooperates with the militaries of El Salvador, Guatemala, and Nicaragua on border security<br><br>the FFAA has received military equipment, training, humanitarian, and technical assistance from the US military; the US military maintains a joint service task force co-located with the FFAA at Soto Cano Air Base (2025)<br>

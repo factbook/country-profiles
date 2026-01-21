@@ -107,21 +107,21 @@ _elderly dependency ratio_: 12.1 (2024 est.)<br>
 _potential support ratio_: 8.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 32 years (2024 est.)<br>
+_total_: 32.3 years (2025 est.)<br>
 _male_: 31.7 years<br>
 _female_: 32.4 years<br>
 
 **Population growth rate**<br>
-0.68% (2024 est.)<br>
+0.73% (2025 est.)<br>
 
 **Birth rate**<br>
-14.4 births/1,000 population (2024 est.)<br>
+14.16 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.2 deaths/1,000 population (2024 est.)<br>
+6.88 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.4 migrant(s)/1,000 population (2024 est.)<br>
+0 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population clusters exist throughout the country, with the largest in the east in and around the capital of Pristina<br>
@@ -137,7 +137,7 @@ _65 years and over_: 0.78 male(s)/female<br>
 _total population_: 1.06 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 21 deaths/1,000 live births (2025 est.)<br>
 _male_: 24.2 deaths/1,000 live births<br>
 _female_: 21.5 deaths/1,000 live births<br>
 
@@ -147,13 +147,16 @@ _male_: 71 years<br>
 _female_: 75.5 years<br>
 
 **Total fertility rate**<br>
-1.87 children born/woman (2024 est.)<br>
+1.85 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.9 (2024 est.)<br>
+0.89 (2025 est.)<br>
 
 **Physician density**<br>
 0.2 physicians/1,000 population (2015)<br>
+
+**Currently married women (ages 15-49)**<br>
+61.6% (2020 est.)<br>
 
 ## Environment
 
@@ -473,8 +476,8 @@ _total subscriptions_: 383,763 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 7 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,777,859 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 98 (2022 est.)<br>
+_total subscriptions_: 593,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 35 (2022 est.)<br>
 
 **Internet country code**<br>
 .xk<br>
@@ -514,10 +517,10 @@ Kosovo Security Force (KSF; Forca e Sigurisë së Kosovës or FSK): Land Force, 
 approximately 3,300 Kosovo Security Forces, including about 800 reserves (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the KSF is equipped with small arms and light vehicles and has relied on limited amounts of donated equipment from several countries, particularly Turkey and the US (2025)<br>
+the KSF is equipped with small arms and light vehicles and has relied on limited amounts of donated equipment from several countries, particularly T&uuml;rkiye and the US (2025)<br>
 
 **Military service age and obligation**<br>
-any citizen of Kosovo over the age of 18 is eligible to serve in the Kosovo Security Force; upper age for enlisting is 30 for officers, 25 for other ranks, although these may be waived for recruits with key skills considered essential for the KSF<br> (2024)<br>
+any citizen of Kosovo over the age of 18 is eligible to serve in the Kosovo Security Force; upper age for enlisting is 30 for officers, 25 for other ranks, although these may be waived for recruits with key skills considered essential for the KSF<br> (2025)<br>
 
 **Military - note**<br>
 the Kosovo Security Force (KSF) was established in 2009 as a small (1,500 personnel), lightly armed disaster response force; the NATO-led Kosovo Force (KFOR) was charged with assisting in the development of the KSF and bringing it up to standards designated by NATO; the KSF was certified as fully operational by the North Atlantic Council in 2013, indicating the then 2,200-strong KSF was entirely capable of performing the tasks assigned under its mandate, which included non-military security functions that were not appropriate for the police, plus missions such as search and rescue, explosive ordnance disposal, control and clearance of hazardous materials, firefighting, and other humanitarian assistance tasks<br><br>in 2019, Kosovo approved legislation that began a process to transition the KSF by 2028 into a professional military (the Kosovo Armed Forces) led by a General Staff and comprised of a Land Force, a National Guard, a Logistics Command, and a Doctrine and Training Command; it would have a strength of up to 5,000 with about 3,000 reserves; at the same time, the KSF’s mission was expanded to include traditional military functions, such as territorial defense and international peacekeeping; the KSF’s first international mission was the deployment of a small force to Kuwait in 2021 <br><br>the NATO-led KFOR has operated in the country as a peace support force since 1999; in addition to assisting in the development of the KSF, KFOR is responsible for providing a safe and secure environment and ensuring freedom of movement for all citizens; as of 2025, it had approximately 4,700 troops from more than 30 countries (2025)<br>

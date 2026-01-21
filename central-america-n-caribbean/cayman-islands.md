@@ -104,21 +104,21 @@ _elderly dependency ratio_: 25.3 (2024 est.)<br>
 _potential support ratio_: 4 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 41.2 years (2024 est.)<br>
+_total_: 41.3 years (2025 est.)<br>
 _male_: 40.3 years<br>
 _female_: 42 years<br>
 
 **Population growth rate**<br>
-1.75% (2024 est.)<br>
+1.71% (2025 est.)<br>
 
 **Birth rate**<br>
-11.5 births/1,000 population (2024 est.)<br>
+11.41 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.1 deaths/1,000 population (2024 est.)<br>
+6.24 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-12.1 migrant(s)/1,000 population (2024 est.)<br>
+11.91 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 majority of the population resides on Grand Cayman<br>
@@ -138,7 +138,7 @@ _65 years and over_: 0.84 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 7.1 deaths/1,000 live births (2025 est.)<br>
 _male_: 8.8 deaths/1,000 live births<br>
 _female_: 5.7 deaths/1,000 live births<br>
 
@@ -148,10 +148,10 @@ _male_: 79.8 years<br>
 _female_: 85.2 years<br>
 
 **Total fertility rate**<br>
-1.82 children born/woman (2024 est.)<br>
+1.81 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.9 (2024 est.)<br>
+0.9 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 95.5% of population (2022 est.)<br>
@@ -164,9 +164,6 @@ _improved: urban_: urban: 93.5% of population (2022 est.)<br>
 _improved: total_: total: 93.5% of population (2022 est.)<br>
 _unimproved: urban_: urban: 6.5% of population (2022 est.)<br>
 _unimproved: total_: total: 6.5% of population (2022 est.)<br>
-
-**Currently married women (ages 15-49)**<br>
-51.4% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 1.6% of GDP (2023 est.)<br>
@@ -423,8 +420,8 @@ _total subscriptions_: 36,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 50 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 100,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 147 (2021 est.)<br>
+_total subscriptions_: 99,737 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 139 (2022 est.)<br>
 
 **Broadcast media**<br>
 4 TV stations; cable and satellite subscription services offer&nbsp; international programming; government-owned Radio Cayman operates 2 networks broadcasting on 5 stations; 10 privately owned radio stations operate alongside Radio Cayman<br>

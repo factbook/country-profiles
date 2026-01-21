@@ -102,21 +102,21 @@ _elderly dependency ratio_: 28.3 (2024 est.)<br>
 _potential support ratio_: 3.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 38.2 years (2024 est.)<br>
+_total_: 38.5 years (2025 est.)<br>
 _male_: 37 years<br>
 _female_: 39.7 years<br>
 
 **Population growth rate**<br>
-0.56% (2024 est.)<br>
+0.51% (2025 est.)<br>
 
 **Birth rate**<br>
-12.2 births/1,000 population (2024 est.)<br>
+11.97 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.8 deaths/1,000 population (2024 est.)<br>
+7.8 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-1.2 migrant(s)/1,000 population (2024 est.)<br>
+0.96 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 fairly even distribution<br>
@@ -137,7 +137,7 @@ _65 years and over_: 0.75 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 3.7 deaths/1,000 live births (2025 est.)<br>
 _male_: 4.2 deaths/1,000 live births<br>
 _female_: 3.3 deaths/1,000 live births<br>
 
@@ -147,10 +147,10 @@ _male_: 80.6 years<br>
 _female_: 85.7 years<br>
 
 **Total fertility rate**<br>
-1.66 children born/woman (2024 est.)<br>
+1.66 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.81 (2024 est.)<br>
+0.81 (2025 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: total_: total: 98.5% of population<br>

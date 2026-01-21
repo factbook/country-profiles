@@ -104,21 +104,21 @@ _elderly dependency ratio_: 33.8 (2024 est.)<br>
 _potential support ratio_: 3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 47.2 years (2024 est.)<br>
+_total_: 47.6 years (2025 est.)<br>
 _male_: 45.3 years<br>
 _female_: 48.6 years<br>
 
 **Population growth rate**<br>
-0.12% (2024 est.)<br>
+0.09% (2025 est.)<br>
 
 **Birth rate**<br>
-7.6 births/1,000 population (2024 est.)<br>
+7.45 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.1 deaths/1,000 population (2024 est.)<br>
+8.16 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-1.6 migrant(s)/1,000 population (2024 est.)<br>
+1.64 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population fairly evenly distributed<br>
@@ -141,7 +141,7 @@ _total population_: 0.86 male(s)/female (2024 est.)<br>
 29.8 years (2008 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.5 deaths/1,000 live births (2024 est.)<br>
+_total_: 2.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 2.8 deaths/1,000 live births<br>
 _female_: 2.2 deaths/1,000 live births<br>
 
@@ -151,10 +151,10 @@ _male_: 81.3 years<br>
 _female_: 86.8 years<br>
 
 **Total fertility rate**<br>
-1.24 children born/woman (2024 est.)<br>
+1.24 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.6 (2024 est.)<br>
+0.6 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -177,7 +177,7 @@ _unimproved: urban_: urban: 3.5% of population (2022 est.)<br>
 _unimproved: total_: total: 3.5% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-47.7% (2023 est.)<br>
+49.8% (2021 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.8% of GDP (2024 est.)<br>
@@ -265,10 +265,10 @@ _legislative structure_: unicameral<br>
 _number of seats_: 90<br>
 _electoral system_: 20 members directly elected; 70 members indirectly elected<br>
 _scope of elections_: full<br>
-_most recent election date_: 19 December 2021<br>
-_parties elected and seats per party_: Democratic Alliance for the Betterment and Progress of Hong Kong (DAB) 19, Federation of Hong Kong and Kowloon Labour Unions (HKFTU) 8, Business and Professionals Alliance for Hong Kong (BPA) 7, NPP 5, Liberal (LP) 4, New Territories Association of Societies (NTAS) 4, Hong Kong Federation of Education Workers (HKFEW) 2, Federation of Hong Kong and Kowloon Labour Unions (HKFLU) 2, Civil Force (CF) 2, Roundtable (RT) 1, Professional Power (PP) 1, Kowloon West New Dynamic (KWND) 1, New Prospect for Hong Kong (NPHK) 1, New Century Forum (NCF-1); other/independent 41<br>
-_expected date of next election_: December 2025<br>
-<strong>note 1:</strong> all political candidates are evaluated by the Candidate Eligibility Review Committee (CERC), which was established in April 2022; CERC members are all appointed by the chief executive<br><br><strong>note 2:</strong> Hong Kong's leading pro-democracy political parties boycotted the 2021 election<br>
+_most recent election date_: 7 December 2025<br>
+_parties elected and seats per party_: Democratic Alliance for the Betterment and Progress of Hong Kong (DAB) 20, Federation of Hong Kong and Kowloon Trade Unions (HKFTU) 8, Business and Professionals Alliance for Hong Kong (BPA) 7, &nbsp;Liberal (LP) 4, New People's Party (NPP) 3, Hong Kong Federation of Education Workers (HKFEW) 2, Federation of Hong Kong and Kowloon Labour Unions (HKFLU) 2, Professional Power (PP) 1, Roundtable (RT) 1, New Territories Association of Societies (NTAS) 1, Kowloon West New Dynamic (KWND) 1, Independents 40<br>
+_expected date of next election_: December 2029<br>
+<strong>note:</strong> all political candidates are evaluated by the Candidate Eligibility Review Committee (CERC), which was established in April 2022; CERC members are all appointed by the chief executive<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Final Appeal (consists of the chief justice, 3 permanent judges, and 20 non-permanent judges)<br>
@@ -276,7 +276,7 @@ _judge selection and term of office_: all judges appointed by the Hong Kong Chie
 _subordinate courts_: High Court (consists of the Court of Appeal and Court of First Instance); District Courts (includes Family and Land Courts); magistrates' courts; specialized tribunals<br>
 
 **Political parties**<br>
-Business and Professionals Alliance for Hong Kong or BPA <br>Civil Force or CF <br>Democratic Alliance for the Betterment and Progress of Hong Kong or DAB <br>Federation of Hong Kong and Kowloon Labour Unions or HKFLU <br>Hong Kong Federation of Education Workers or HKFEW <br>Hong Kong Federation of Trade Unions or HKFTU <br>Kowloon West New Dynamic or KWND<br>Liberal Party or LP <br>New Century Forum or NCF <br>New People's Party or NPP<br>New Prospect for Hong Kong or NPHK <br>New Territories Association of Societies or NTAS <br>Professional Power or PP <br>Roundtable or RT <br>Third Side or TS<br>
+Business and Professionals Alliance for Hong Kong or BPA <br>Democratic Alliance for the Betterment and Progress of Hong Kong or DAB <br>Federation of Hong Kong and Kowloon Labour Unions or HKFLU <br>Hong Kong Federation of Education Workers or HKFEW <br>Hong Kong Federation of Trade Unions or HKFTU <br>Kowloon West New Dynamic or KWND<br>Liberal Party or LP <br>New People's Party or NPP<br>New Prospect for Hong Kong or NPHK <br>New Territories Association of Societies or NTAS <br>Professional Power or PP <br>Roundtable or RT<br>
 <strong>note 1:</strong> there is no political party ordinance, so there are no registered political parties; politically active groups register as societies or companies<br><br><strong>note 2:</strong> by the end of 2021, the leading pro-democracy figures in Hong Kong had been effectively removed from the political arena under the provisions of Beijing's 2021 electoral changes or via charges under the 2020 national security law; in addition, dozens of pro-democracy organizations, including political parties, unions, churches, civil rights groups, and media organizations have disbanded or closed; as of 2023, nearly all politically active groups were pro-Beijing<br>
 
 **Diplomatic representation in the US**<br>

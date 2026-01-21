@@ -100,21 +100,21 @@ _elderly dependency ratio_: 29.8 (2024 est.)<br>
 _potential support ratio_: 3.4 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 37.8 years (2024 est.)<br>
+_total_: 38.1 years (2025 est.)<br>
 _male_: 35.5 years<br>
 _female_: 40.2 years<br>
 
 **Population growth rate**<br>
-0.28% (2024 est.)<br>
+0.25% (2025 est.)<br>
 
 **Birth rate**<br>
-12.9 births/1,000 population (2024 est.)<br>
+12.71 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.9 deaths/1,000 population (2024 est.)<br>
+8.91 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1.3 migrant(s)/1,000 population (2024 est.)<br>
+-1.3 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 largest concentration on the island is Willemstad; smaller settlements near the coast can be found throughout the island, particularly in the northwest<br>
@@ -134,7 +134,7 @@ _65 years and over_: 0.67 male(s)/female<br>
 _total population_: 0.93 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.5 deaths/1,000 live births (2024 est.)<br>
+_total_: 7.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 8.3 deaths/1,000 live births<br>
 _female_: 6.7 deaths/1,000 live births<br>
 
@@ -144,13 +144,10 @@ _male_: 77.6 years<br>
 _female_: 82.3 years<br>
 
 **Total fertility rate**<br>
-1.96 children born/woman (2024 est.)<br>
+1.95 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.96 (2024 est.)<br>
-
-**Currently married women (ages 15-49)**<br>
-49.7% (2023 est.)<br>
+0.95 (2025 est.)<br>
 
 **Education expenditure**<br>
 7.4% of GDP (2020 est.)<br>
@@ -392,8 +389,8 @@ _total subscriptions_: 51,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 27 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 172,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 88 (2021 est.)<br>
+_total subscriptions_: 173,926 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 94 (2023 est.)<br>
 
 **Broadcast media**<br>
 government-run TeleCuracao operates a TV station and a radio station;&nbsp;2 other privately owned TV stations and several privately owned radio stations (2019)<br>

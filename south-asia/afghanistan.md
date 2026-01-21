@@ -114,21 +114,21 @@ _elderly dependency ratio_: 5.2 (2024 est.)<br>
 _potential support ratio_: 19.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 20 years (2024 est.)<br>
+_total_: 18.4 years (2025 est.)<br>
 _male_: 20 years<br>
 _female_: 20.1 years<br>
 
 **Population growth rate**<br>
-2.22% (2024 est.)<br>
+2.86% (2025 est.)<br>
 
 **Birth rate**<br>
-34.2 births/1,000 population (2024 est.)<br>
+35.99 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-11.8 deaths/1,000 population (2024 est.)<br>
+5.79 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.1 migrant(s)/1,000 population (2024 est.)<br>
+-1.62 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 populations tend to cluster in the foothills and periphery of the rugged Hindu Kush range; smaller groups are found in many of the country's interior valleys; in general, the east is more densely settled, while the south is sparsely populated<br>
@@ -155,7 +155,7 @@ _total population_: 1.02 male(s)/female (2024 est.)<br>
 521 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 101.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 42 deaths/1,000 live births (2025 est.)<br>
 _male_: 109.7 deaths/1,000 live births<br>
 _female_: 92.5 deaths/1,000 live births<br>
 
@@ -165,10 +165,10 @@ _male_: 52.8 years<br>
 _female_: 56.1 years<br>
 
 **Total fertility rate**<br>
-4.43 children born/woman (2024 est.)<br>
+4.89 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-2.16 (2024 est.)<br>
+2.39 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99% of population (2022 est.)<br>
@@ -215,7 +215,7 @@ _female_: 5.2% (2025 est.)<br>
 18.4% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-70.3% (2023 est.)<br>
+65.9% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 9.6% (2023)<br>
@@ -566,8 +566,8 @@ _total subscriptions_: 182,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 23 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 57 (2021 est.)<br>
+_total subscriptions_: 23,027,100 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 60 (2024 est.)<br>
 
 **Broadcast media**<br>
 under the Taliban, independent media outlets have decreased and are probably self-censoring; the Ministry of Information and Culture monitors all mass media; television and radio are key media platforms; only about a fifth of Afghans use the internet, mostly through smartphones (2023)<br>
@@ -609,7 +609,7 @@ the Taliban claims authority over a Ministry of Defense and a National Army (aka
 the Taliban claims to have 190,000 under the Ministry of Defense and 215,000 under the Ministry of Interior (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Taliban military/security forces are armed with weapons and equipment captured in 2021 from the Afghan National Defense and Security Forces, which was largely equipped with Russian/Soviet-era and US material (2024)<br>
+the Taliban military and security forces are equipped with armaments captured in 2021 from the Afghan National Defense and Security Forces, which were largely equipped with Russian/Soviet-era and US material (2025)<br>
 
 **Military service age and obligation**<br>
 service is voluntary; there is no conscription (2023)<br>

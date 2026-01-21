@@ -106,21 +106,21 @@ _elderly dependency ratio_: 12.1 (2024 est.)<br>
 _potential support ratio_: 8.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 31.8 years (2024 est.)<br>
+_total_: 32.2 years (2025 est.)<br>
 _male_: 31.7 years<br>
 _female_: 31.9 years<br>
 
 **Population growth rate**<br>
-0.99% (2024 est.)<br>
+0.97% (2025 est.)<br>
 
 **Birth rate**<br>
-14.2 births/1,000 population (2024 est.)<br>
+14.05 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.8 deaths/1,000 population (2024 est.)<br>
+5.8 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-1.5 migrant(s)/1,000 population (2024 est.)<br>
+1.43 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 a highly uneven distribution, with over 80% of the population residing on the Malay Peninsula<br>
@@ -143,7 +143,7 @@ _total population_: 1.05 male(s)/female (2024 est.)<br>
 26 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 6.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 6.8 deaths/1,000 live births<br>
 _female_: 6 deaths/1,000 live births<br>
 
@@ -153,10 +153,10 @@ _male_: 75 years<br>
 _female_: 78.4 years<br>
 
 **Total fertility rate**<br>
-1.73 children born/woman (2024 est.)<br>
+1.73 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.84 (2024 est.)<br>
+0.83 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.1% of population (2022 est.)<br>
@@ -201,9 +201,6 @@ _female_: 0.6% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 15.3% (2022 est.)<br>
-
-**Currently married women (ages 15-49)**<br>
-59.3% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.5% of GDP (2023 est.)<br>
@@ -667,14 +664,13 @@ Malaysian Armed Forces (Angkatan Tentera Malaysia, ATM): Malaysian Army, Royal M
 approximately 110,000 active Malaysian Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military fields a diverse array of mostly older but growing mix of modern weapons and equipment; its inventory originates from a wide variety of suppliers across Europe, Asia, and the US; Malaysia has a domestic defense industry that has some co-production agreements with countries such as France, Germany, and Turkey in areas including armored vehicles and naval vessels (2024)<br>
+the military fields a diverse array of mostly older but growing quantities of more modern weapons and equipment; its inventory originates from a variety of suppliers across Europe, Asia, and the US; Malaysia has a domestic defense industry that has some co-production agreements with countries such as France, Germany, and T&uuml;rkiye in areas such as armored vehicles and naval vessels (2025)<br>
 
 **Military service age and obligation**<br>
-17 years 6 months of age for voluntary military service for men and women (younger with parental consent and proof of age); maximum age of 27 to enlist; mandatory retirement age 60; no conscription (2023)<br>
-<strong>note: </strong>in 2020, the military announced a goal of having 10% of the active force comprised of women<br>
+17 years 6 months of age for voluntary military service for men and women (younger with parental consent and proof of age); mandatory retirement age 60; no conscription (2025)<br>
 
 **Military deployments**<br>
-830 Lebanon (UNIFIL) (2024)<br>
+825 Lebanon (UNIFIL) (2025)<br>
 
 **Military - note**<br>
 the Malaysian military is responsible for defense of the country's national interests, sovereignty, and territorial integrity; it also has some domestic responsibilities, such as responding to natural disasters; key areas of focus for the military include cyber defense, crime and piracy in the Strait of Malacca, and tensions in the South China Sea; the Army has traditionally been the dominant service, but air and maritime security have received increased emphasis in recent years; Malaysia has undertaken efforts to procure more modern aircraft and ships, improve air and maritime surveillance, expand the Navy’s support infrastructure (particularly bases/ports) and domestic ship-building capacities, and increase cooperation with regional and international partners such as Australia, Indonesia, the Philippines, Singapore, and the US<br><br>Malaysia is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily (2025)<br>

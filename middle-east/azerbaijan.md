@@ -111,21 +111,21 @@ _elderly dependency ratio_: 13.1 (2024 est.)<br>
 _potential support ratio_: 7.6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 34.3 years (2024 est.)<br>
+_total_: 34.8 years (2025 est.)<br>
 _male_: 32.8 years<br>
 _female_: 36 years<br>
 
 **Population growth rate**<br>
-0.43% (2024 est.)<br>
+0.4% (2025 est.)<br>
 
 **Birth rate**<br>
-11.2 births/1,000 population (2024 est.)<br>
+11.13 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.4 deaths/1,000 population (2024 est.)<br>
+6.44 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.6 migrant(s)/1,000 population (2024 est.)<br>
+-0.71 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 highest population density is found in the far eastern area of the country, in and around Baku; apart from smaller urbanized areas, the rest of the country has a fairly light and evenly distributed population<br>
@@ -152,7 +152,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 18 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 10.7 deaths/1,000 live births (2025 est.)<br>
 _male_: 12.6 deaths/1,000 live births<br>
 _female_: 9 deaths/1,000 live births<br>
 
@@ -162,10 +162,10 @@ _male_: 73.5 years<br>
 _female_: 78.6 years<br>
 
 **Total fertility rate**<br>
-1.69 children born/woman (2024 est.)<br>
+1.69 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.79 (2024 est.)<br>
+0.79 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -208,7 +208,7 @@ _female_: 0.1% (2025 est.)<br>
 3% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-62.9% (2023 est.)<br>
+59.7% (2019 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.7% of GDP (2023 est.)<br>
@@ -586,8 +586,8 @@ _total subscriptions_: 1.635 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 16 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 107 (2022 est.)<br>
+_total subscriptions_: 11,111,300 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 110 (2024 est.)<br>
 
 **Broadcast media**<br>
 TV is the most popular medium; many homes are hooked up to satellite; all Azerbaijan-based channels promote government positions; state-owned AzTV runs three national channels, and state-funded iTV is a national public service broadcaster; 4 national privately-owned stations; Turkish, Russian, and western TV is available on cable; analog terrestrial TV was phased out in 2016-17; radio outlets focus on entertainment, with around a dozen stations on FM in Baku; newspaper distribution is largely limited to Baku (2023)<br>
@@ -638,10 +638,10 @@ Azerbaijan Armed Forces: Land Forces, Air Forces, Navy Forces, Special Forces, S
 information varies widely; estimated 100,000 active Armed Forces personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-Baku has been actively upgrading the military's inventory for over a decade with equipment acquisitions from several sources, including Belarus, China, Israel, Russia, and Turkey; while most of the military's equipment was once Soviet-era material, it now fields quantities of advanced equipment, including armored vehicles, artillery systems, air defense systems, fighter aircraft, tanks, and UAVs (2024)<br>
+Baku has been actively upgrading the military's inventory for over a decade with equipment acquisitions from several sources, including Belarus, China, Israel, Russia, and T&uuml;rkiye; while most of the military's equipment was once Soviet-era material, it now fields quantities of modern armaments, including armored vehicles, artillery systems, air defense systems, fighter aircraft, tanks, and UAVs (2025)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for compulsory military service for men; 18-35 years of age for voluntary/contractual service for men and women; 18 months service for conscripts, 36 months for voluntary/contractual service (2023)<br>
+18-30 years of age for compulsory military service for men; 18-35 years of age voluntary/contractual service for men (18-40 for women volunteers); 18 months service for conscripts, 36 months for voluntary/contractual service (2025)<br>
 
 **Military - note**<br>
 the Azerbaijani military was established in 1991, although its origins go back to 1918; much of the military’s original equipment was acquired from former Soviet military forces that departed Azerbaijan by 1992; territorial defense is the military’s primary focus, particularly with regards to neighboring Armenia; a secondary focus is guarding against Iran; Armenia and Azerbaijan engaged in open conflicts over the Nagorno-Karabakh enclave in 1991-94 and 2020; tensions continued following the 2020 conflict, and Azerbaijan seized the entire enclave in 2023 <br><br>key bilateral security relationships include Israel, Russia, and Turkiye; Azerbaijan's ties with Turkiye have included weapons transfers, technical advice, bilateral training exercises, and military support during its conflicts with Armenia; Azerbaijan is not part of NATO but has had a cooperative relationship with it dating back to when it joined NATO’s Partnership for Peace program in 1994 and has provided troops to NATO-led missions in Kosovo (1999-2008) and Afghanistan (2002-2014) (2025)<br>

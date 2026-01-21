@@ -107,21 +107,21 @@ _elderly dependency ratio_: 6.3 (2024 est.)<br>
 _potential support ratio_: 16 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 26.3 years (2024 est.)<br>
+_total_: 26.7 years (2025 est.)<br>
 _male_: 24.4 years<br>
 _female_: 27.9 years<br>
 
 **Population growth rate**<br>
-1.89% (2024 est.)<br>
+1.84% (2025 est.)<br>
 
 **Birth rate**<br>
-21.8 births/1,000 population (2024 est.)<br>
+21.46 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7 deaths/1,000 population (2024 est.)<br>
+7 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-4.2 migrant(s)/1,000 population (2024 est.)<br>
+3.94 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most densely populated areas are in the east; the largest city is Djibouti, and the other cities in the country are a fraction of its size, as shown in this population distribution map<br>
@@ -144,7 +144,7 @@ _total population_: 0.83 male(s)/female (2024 est.)<br>
 162 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 45.2 deaths/1,000 live births (2024 est.)<br>
+_total_: 44.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 52.1 deaths/1,000 live births<br>
 _female_: 38 deaths/1,000 live births<br>
 
@@ -154,10 +154,10 @@ _male_: 63.4 years<br>
 _female_: 68.5 years<br>
 
 **Total fertility rate**<br>
-2.11 children born/woman (2024 est.)<br>
+2.09 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.04 (2024 est.)<br>
+1.03 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 84.1% of population (2022 est.)<br>
@@ -199,7 +199,7 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 17.7% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-50.6% (2023 est.)<br>
+46.5% (2017 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 1.4% (2019)<br>
@@ -300,7 +300,7 @@ _head of government_: Prime Minister Abdoulkader Kamil MOHAMED (since 1 April 20
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term; prime minister appointed by the president<br>
 _most recent election date_: 9 April 2021<br>
-_election results_: <em><br>2021:</em> Ismail Omar GUELLEH reelected president for a fifth term; percent of vote - Ismail Omar GUELLEH (RPP) 97.4%, Zakaria Ismael FARAH (MDEND) 2.7%<br><br><em>2016:</em> Ismail Omar GUELLEH reelected president for a fourth term; percent of vote - Ismail Omar GUELLEH (RPP) 87%, Omar Elmi KHAIREH (CDU) 7.3%, other 5.6%<br>
+_election results_: <em><br>2021:</em> Ismail Omar GUELLEH reelected president for a fifth term; percent of vote - Ismail Omar GUELLEH (RPP) 97.4%, Zakaria Ismael FARAH (MDEND) 2.7%<br>
 _expected date of next election_: April 2026<br>
 
 **Legislative branch**<br>
@@ -550,8 +550,8 @@ _total subscriptions_: 29,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 574,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 46 (2022 est.)<br>
+_total subscriptions_: 558,607 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 49 (2023 est.)<br>
 
 **Broadcast media**<br>
 state-owned Radiodiffusion-T&eacute;l&eacute;vision de Djibouti operates the sole terrestrial TV station, as well as the 2 domestic radio networks; no private TV or radio stations; transmissions of several international broadcasters are available (2019)<br>
@@ -598,7 +598,7 @@ _key ports_: Djibouti, Doraleh<br>
 
 **Military and security forces**<br>
 Djibouti Armed Forces (Forces Armées Djiboutiennes or FAD): Djiboutian (or National) Army, Djiboutian Navy (includes Djiboutian Coast Guard), Djiboutian Air Force; Djiboutian National Gendarmerie<br><br>Ministry of Interior: National Police (Police Nationale) (2025)<br>
-<strong>note 1: </strong>the National Gendarmerie is a security force with military status under the FAD and the Ministry of Defense, but also has responsibilities to the Ministry of Interior; the Gendarmerie's duties include providing security outside of Djibouti City and protecting critical infrastructure within the city, such as the international airport<strong><br><br>note 2:</strong> the National Police is responsible for security within Djibouti City and has primary control over immigration and customs procedures for all land border-crossing points<br>
+<strong>note 1: </strong>the National Gendarmerie is a security force with military status under the FAD and the Ministry of Defense, but also has responsibilities to the Ministry of Interior; the Gendarmerie's duties include providing security outside of Djibouti City and protecting critical infrastructure within the city, such as the international airport<strong><br><br>note 2:</strong> the National Police are responsible for security within Djibouti City and have primary control over immigration and customs procedures for all land border-crossing points<br>
 
 **Military expenditures**<br>
 3.5% of GDP (2019 est.)<br>
@@ -611,10 +611,10 @@ Djibouti Armed Forces (Forces Armées Djiboutiennes or FAD): Djiboutian (or Nati
 estimated 10-12,000 active Armed Forces, including Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAD's inventory is a mix of mostly older or secondhand equipment from a wide variety of suppliers, including China, France, Italy, Japan, Russia/former Soviet Union, South Africa, Turkey, and the US (2024)<br>
+the FAD's inventory is a mix of mostly older or secondhand equipment from a variety of suppliers, including China, France, Italy, Japan, the Netherlands, Russia/former Soviet Union, South Africa, T&uuml;rkiye, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women; 16-25 years of age for voluntary military training; no conscription (2023)<br>
+18-26 years of age for voluntary military service (2025)<br>
 
 **Military deployments**<br>
 approximately 1,500 Somalia (AUSSOM) (2025)<br>

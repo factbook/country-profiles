@@ -112,21 +112,21 @@ _elderly dependency ratio_: 31.6 (2024 est.)<br>
 _potential support ratio_: 3.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 46.8 years (2024 est.)<br>
+_total_: 47.2 years (2025 est.)<br>
 _male_: 45.7 years<br>
 _female_: 47.8 years<br>
 
 **Population growth rate**<br>
-0.12% (2024 est.)<br>
+0.12% (2025 est.)<br>
 
 **Birth rate**<br>
-7.1 births/1,000 population (2024 est.)<br>
+7.16 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-10 deaths/1,000 population (2024 est.)<br>
+9.98 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-4.1 migrant(s)/1,000 population (2024 est.)<br>
+3.98 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban agglomerations are found along the Mediterranean and Atlantic coasts; numerous smaller cities are spread throughout the interior; very dense settlement around the capital of Madrid, as well as the port city of Barcelona<br>
@@ -153,7 +153,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 3 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 2.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 2.7 deaths/1,000 live births<br>
 _female_: 2.1 deaths/1,000 live births<br>
 
@@ -163,10 +163,10 @@ _male_: 80.3 years<br>
 _female_: 85.8 years<br>
 
 **Total fertility rate**<br>
-1.3 children born/woman (2024 est.)<br>
+1.32 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.64 (2024 est.)<br>
+0.65 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.9% of population (2022 est.)<br>
@@ -210,7 +210,7 @@ _male_: 25.8% (2025 est.)<br>
 _female_: 22% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-50.1% (2023 est.)<br>
+50.2% (2021 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.6% of GDP (2022 est.)<br>
@@ -684,18 +684,18 @@ Spanish Armed Forces (Fuerzas Armadas de España): Army (Ejército de Tierra), S
 approximately 120,000 active-duty military personnel; approximately 80,000 Guardia Civil (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised of weapons and equipment that were produced domestically, co-produced with or imported from other EU countries, or purchased from the US; in recent years, leading suppliers have included France, Germany, and the US; Spain's defense industry manufactures land, air, and sea weapons systems and is integrated within the European defense-industrial sector (2024)<br>
+the military's inventory is comprised of weapons and equipment that were produced domestically, co-produced with or imported from other European countries, or acquired from the US; key suppliers of major armaments include Germany and the US; Spain's defense industry manufactures land, air, and sea weapons systems and is integrated within the European defense-industrial sector (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women; 24-36 month initial obligation; women allowed to serve in all branches, including combat units; no conscription (abolished 2001), but the Spanish Government retains the right to mobilize citizens 19-25 years of age in a national emergency; 18-58 for the voluntary reserves (2024)<br>
-<strong>note 1:</strong> as of 2024, women comprised about 13% of the military's full-time personnel<br><br><strong>note 2:</strong> the military recruits foreign nationals with residency in Spain from countries of its former empire, including Argentina, Costa Rica, Bolivia, Colombia, Chile, Cuba, Dominican Republic, Ecuador, El Salvador, Equatorial Guinea, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Uruguay, and Venezuela<br>
+18 years of age for voluntary military service for men and women (upper age limits depend on branch of service, roles, specialties, etc); 24-36 month initial obligation; no conscription, but the Spanish Government retains the right to mobilize citizens 19-25 years of age in a national emergency; 18-58 for the voluntary reserves (2026)<br>
+<strong>note 1:</strong> as of 2024, women comprised about 13% of the military's full-time personnel; they serve in all branches, including combat arms<br><br><strong>note 2:</strong> the military recruits foreign nationals with residency in Spain from countries of its former empire, including Argentina, Costa Rica, Bolivia, Colombia, Chile, Cuba, Dominican Republic, Ecuador, El Salvador, Equatorial Guinea, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Uruguay, and Venezuela<br>
 
 **Military deployments**<br>
 Spain has up to 3,000 military personnel deployed on 17 missions supporting the EU, NATO, and the UN on four continents, as well as naval missions in the Mediterranean and the seas off the Horn of Africa; its largest deployments are up to 700 troops in Lebanon (UNIFIL) and about 1,700 personnel in Eastern Europe supporting NATO missions in Latvia, Romania, and Slovakia (2025)<br>
 <strong> </strong><br>
 
 **Military - note**<br>
-the Spanish military has a wide range of responsibilities, including protecting the country’s national interests, sovereignty, and territory, providing support during natural disasters, and fulfilling Spain’s responsibilities to European and international security; it maintains garrisons in the Balearic Islands, the Canary Islands, Ceuta, and Melilla, conducts operations worldwide, and participates in a variety of EU-, NATO-, and UN-led missions; Spain joined NATO in 1982 and is fully integrated into the NATO structure; it routinely conducts exercises with NATO (and EU) partners, and hosts one of NATO’s two combined air operations centers <br><br>the Spanish military has a rich history going back to the 13th century; the Army has an infantry regiment, formed in the 13th century, that is considered the oldest still active military unit in the Western world; the Marine Corps, which traces its roots back to 1537, is the oldest naval infantry force in the World; Spain created a Spanish Legion for foreigners in 1920, but early on the Legion was primarily filled by native Spaniards due to difficulties in recruiting foreigners, and most of its foreign members were from the Republic of Cuba; it was modeled after the French Foreign Legion and its purpose was to provide a corps of professional troops to fight in Spain's colonial campaigns in North Africa; in more recent years, it has been used in NATO peacekeeping deployments; today’s Legion includes a mix of native Spaniards and foreigners with Spanish residency (2025)<br>
+the Spanish military has a wide range of responsibilities, including protecting the country’s national interests, sovereignty, and territory, providing support during natural disasters, and fulfilling Spain’s responsibilities to European and international security; it maintains garrisons in the Balearic Islands, the Canary Islands, Ceuta, and Melilla, conducts operations worldwide, and participates in a variety of EU-, NATO-, and UN-led missions; Spain joined NATO in 1982 and is fully integrated into the NATO structure; it routinely conducts exercises with NATO (and EU) partners, and hosts one of NATO’s two combined air operations centers <br><br>the Spanish military's history goes back to the 13th century; the Army has an infantry regiment, formed in the 13th century, that is considered the oldest still active military unit in the Western world; the Marine Corps, which traces its roots back to 1537, is the oldest naval infantry force in the world; Spain created a Spanish Legion for foreigners in 1920, but early on the Legion was primarily filled by native Spaniards due to difficulties in recruiting foreigners, and most of its foreign members were from the Republic of Cuba; it was modeled after the French Foreign Legion and its purpose was to provide a corps of professional troops to fight in Spain's colonial campaigns in North Africa; in more recent years, it has been used in NATO peacekeeping deployments; today’s Legion includes a mix of native Spaniards and foreigners with Spanish residency (2025)<br>
 
 ## Space
 

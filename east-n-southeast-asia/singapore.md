@@ -50,12 +50,12 @@ _lowest point_: Singapore Strait 0 m<br>
 fish, deepwater ports<br>
 
 **Land use**<br>
-_agricultural land_: 0.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land_: 0.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 21.2% (2022 est.)<br>
-_other_: 77.9% (2022 est.)<br>
+_forest_: 22% (2023 est.)<br>
+_other_: 77.1% (2023 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -104,21 +104,21 @@ _elderly dependency ratio_: 20.2 (2024 est.)<br>
 _potential support ratio_: 5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 39.4 years (2024 est.)<br>
+_total_: 39.8 years (2025 est.)<br>
 _male_: 38 years<br>
 _female_: 40.6 years<br>
 
 **Population growth rate**<br>
-0.87% (2024 est.)<br>
+0.85% (2025 est.)<br>
 
 **Birth rate**<br>
-8.8 births/1,000 population (2024 est.)<br>
+8.77 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-4.3 deaths/1,000 population (2024 est.)<br>
+4.38 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-4.2 migrant(s)/1,000 population (2024 est.)<br>
+4.11 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the urbanization is along the southern coast, with relatively dense population clusters found in the central areas<br>
@@ -145,7 +145,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 6 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.5 deaths/1,000 live births (2024 est.)<br>
+_total_: 1.5 deaths/1,000 live births (2025 est.)<br>
 _male_: 1.7 deaths/1,000 live births<br>
 _female_: 1.4 deaths/1,000 live births<br>
 
@@ -155,10 +155,10 @@ _male_: 84 years<br>
 _female_: 89.5 years<br>
 
 **Total fertility rate**<br>
-1.17 children born/woman (2024 est.)<br>
+1.18 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.57 (2024 est.)<br>
+0.58 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -198,7 +198,7 @@ _male_: 27.6% (2025 est.)<br>
 _female_: 3.8% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-54.3% (2023 est.)<br>
+43.8% (2020 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0% (2023)<br>
@@ -206,12 +206,12 @@ _women married by age 18_: 0.1% (2023)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 2.2% of GDP (2024 est.)<br>
-_Education expenditure (% national budget)_: 10.8% national budget (2023 est.)<br>
+_Education expenditure (% national budget)_: 12% national budget (2025 est.)<br>
 
 **Literacy**<br>
-_total population_: 98% (2021 est.)<br>
-_male_: 99% (2021 est.)<br>
-_female_: 96% (2021 est.)<br>
+_total population_: 97.7% (2021 est.)<br>
+_male_: 98.9% (2021 est.)<br>
+_female_: 96.4% (2021 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years (2022 est.)<br>
@@ -231,12 +231,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; hot, humid, rainy; two distinct monsoon seasons - northeastern monsoon (December to March) and southwestern monsoon (June to September); inter-monsoon - frequent afternoon and early evening thunderstorms<br>
 
 **Land use**<br>
-_agricultural land_: 0.9% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.1% (2022 est.)<br>
+_agricultural land_: 0.9% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.1% (2023 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 0% (2022 est.)<br>
-_forest_: 21.2% (2022 est.)<br>
-_other_: 77.9% (2022 est.)<br>
+_forest_: 22% (2023 est.)<br>
+_other_: 77.1% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
@@ -330,7 +330,7 @@ _judge selection and term of office_: judges appointed by the president from can
 _subordinate courts_: district, magistrates', juvenile, family, community, and coroners' courts; small claims tribunals; employment claims tribunals<br>
 
 **Political parties**<br>
-People's Action Party or PAP <br>Progress Singapore Party or PSP <br>Workers' Party or WP <br>
+People's Action Party or PAP<br>Workers' Party or WPS<br>there are 13 additional active political parties in Singapore<br>
 <strong>note: </strong>the PAP has won every general election since the end of the British colonial era in 1959<br>
 
 **Diplomatic representation in the US**<br>
@@ -343,7 +343,7 @@ _consulate(s) general_: San Francisco<br>
 _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Anjani K. SINHA (since November 2025)<br>
+_chief of mission_: Ambassador Anjani K. SINHA (since 17 November 2025)<br>
 _embassy_: 27 Napier Road, Singapore 258508<br>
 _mailing address_: 4280 Singapore Place, Washington DC&nbsp; 20521-4280<br>
 _telephone_: [65] 6476-9100<br>
@@ -622,17 +622,17 @@ information varies; approximately 55,000 active-duty Armed Forces (40,000 Army; 
 <strong>note:</strong> the Army is comprised mostly of conscripts and reservists with a small core of professional soldiers, while the Air Force and Navy are staffed mainly by professional personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SAF has a diverse and largely modern mix of domestically produced and imported Western weapons systems; in recent years, France, Germany, and the US have been among the top suppliers of arms; Singapore has the most developed arms industry in Southeast Asia and is also its largest importer of weapons (2024)<br>
+the SAF has a diverse and modern mix of domestically produced and imported Western weapons systems from such suppliers as France, Germany, and the US; Singapore has a small but sophisticated defense industry, which produces armaments such as armored vehicles and naval warships (2025)<br>
 
 **Military service age and obligation**<br>
-18-21 years of age for compulsory military service for men; 16.5 years of age for voluntary enlistment (with parental consent); 24-month conscript service obligation, with a reserve obligation to age 40 (enlisted) or age 50 (officers); women are not conscripted, but they are allowed to volunteer for all services and branches, including combat arms (2025)<br>
-<strong>note 1: </strong>all male Singaporean citizens and permanent residents, unless exempted, are required to enter National Service (NS) upon attaining the age of 18; most NS conscripts serve in the Armed Forces, but some go into the Police Force or Civil Defense Force; conscripts comprise over half of the defense establishment<br><br><strong>note 2:</strong> as of 2022, women made up about 8% of the regular force<br><br><strong>note 3:</strong> the Singapore Armed Forces (SAF) also has a uniformed volunteer auxiliary branch known as the Volunteer Corps (SAFVC); the SAFVC allows citizens and residents not subject to the National Service obligation, including Singaporean women, first generation permanent residents, and naturalized citizens, to contribute towards Singapore's defense; the volunteers must be 18-45 and physically fit<br><br><strong>note 4:</strong> members of the Gurkha Contingent (GC) of the Singapore Police Force are mostly recruited from a small number of hill tribes in Nepal; the GC was formed in 1949 originally from selected ex-British Army Gurkhas<br>
+18 years of age for voluntary enlistment for men and women (16.5 for early enlistment program with parental consent); 18-21 years of age for compulsory military service for men; 24-month conscript service obligation (2026)<br>
+<strong>note 1: </strong>all male Singaporean citizens and permanent residents, unless exempted, are required to enter National Service (NS) upon attaining the age of 18; most NS conscripts serve in the Armed Forces, but some go into the Police Force or Civil Defense Force; conscripts comprise over half of the defense establishment<br><br><strong>note 2:</strong> the Singapore Armed Forces (SAF) also has a uniformed volunteer auxiliary branch known as the Volunteer Corps (SAFVC); the SAFVC allows citizens and residents not subject to the National Service obligation, including Singaporean women, first generation permanent residents, and naturalized citizens, to contribute towards Singapore's defense; the volunteers must be 18-45 and physically fit<br><br><strong>note 3:</strong> members of the Gurkha Contingent (GC) of the Singapore Police Force are mostly recruited from a small number of hill tribes in Nepal; the GC was formed in 1949 originally from selected ex-British Army Gurkhas<br>
 
 **Military deployments**<br>
 maintains permanent training detachments of military personnel in Australia, France, and the US (2025)<br>
 
 **Military - note**<br>
-the SAF’s primary responsibility is external defense, particularly maritime security, but it also trains for certain domestic security operations, including joint deterrence patrols with police in instances of heightened terrorism alerts; the Army includes a “people’s defense force,” which is a divisional headquarters responsible for homeland security and counterterrorism; the SAF regularly participates in bilateral and multilateral training exercises<br><br>Singapore is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily; Singapore also has close security ties with the US, including granting the US military access, basing, and overflight privileges<br><br>the SAF's roots go back to 1854 when the Singapore Volunteer Rifle Corps was formed under colonial rule; the first battalion of regular soldiers, the First Singapore Infantry Regiment, was organized in 1957; the modern SAF was established in 1965 (2025)<br>
+the SAF’s primary responsibility is external defense, particularly maritime security, but it also trains for certain domestic security operations, including joint deterrence patrols with police in instances of heightened terrorism alerts; the Army includes a “people’s defense force,” which is a divisional headquarters responsible for homeland security and counterterrorism; the SAF regularly participates in bilateral and multilateral training exercises<br><br>Singapore is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; Singapore also has close security ties with the US, including granting the US military access, basing, and overflight privileges<br><br>the SAF's roots go back to 1854 when the Singapore Volunteer Rifle Corps was formed under colonial rule; the first battalion of regular soldiers, the First Singapore Infantry Regiment, was organized in 1957; the modern SAF was established in 1965 (2025)<br>
 
 ## Terrorism
 

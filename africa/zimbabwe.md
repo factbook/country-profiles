@@ -113,21 +113,21 @@ _elderly dependency ratio_: 6.8 (2024 est.)<br>
 _potential support ratio_: 14.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 21.2 years (2024 est.)<br>
+_total_: 21.3 years (2025 est.)<br>
 _male_: 20.3 years<br>
 _female_: 22 years<br>
 
 **Population growth rate**<br>
-1.91% (2024 est.)<br>
+1.82% (2025 est.)<br>
 
 **Birth rate**<br>
-28.8 births/1,000 population (2024 est.)<br>
+28.18 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.5 deaths/1,000 population (2024 est.)<br>
+6.4 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--3.2 migrant(s)/1,000 population (2024 est.)<br>
+-3.58 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 aside from major urban agglomerations in Harare and Bulawayo, population distribution is fairly even, with slightly greater overall numbers in the eastern half, as shown in this population distribution map<br>
@@ -154,7 +154,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 358 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 33.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 32.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 37 deaths/1,000 live births<br>
 _female_: 29.6 deaths/1,000 live births<br>
 
@@ -164,10 +164,10 @@ _male_: 65.6 years<br>
 _female_: 68.8 years<br>
 
 **Total fertility rate**<br>
-3.47 children born/woman (2024 est.)<br>
+3.42 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.71 (2024 est.)<br>
+1.68 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 92.8% of population (2022 est.)<br>
@@ -211,7 +211,7 @@ _female_: 0.7% (2025 est.)<br>
 9.6% (2024 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-61.6% (2023 est.)<br>
+62.2% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 5.4% (2019)<br>
@@ -643,10 +643,11 @@ Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbab
 approximately 30,000 active Zimbabwe Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ZDF inventory is comprised mostly of Russian/Soviet-era and Chinese armaments with smaller quantities of older or obsolescent material from countries such as Brazil, France, Italy, South Africa, the UK, and the US; since the early 2010s, Zimbabwe has been under an arms embargo from the EU, as well as targeted sanctions from Australia, Canada, New Zealand, the UK, and the US (2024)<br>
+the ZDF inventory is comprised mostly of Russian/Soviet-era and Chinese armaments with smaller quantities of older or obsolescent material from countries such as Brazil, France, Italy, South Africa, the UK, and the US (2025)<br>
+<strong>note:</strong> since the early 2010s, Zimbabwe has been under an arms embargo from the EU, as well as targeted sanctions from Australia, Canada, New Zealand, the UK, and the US<br>
 
 **Military service age and obligation**<br>
-18-22 years of age for voluntary military service for men and women (18-24 for officer cadets; 18-30 for technical/specialist personnel); no conscription (2023)<br>
+18-22 years of age for voluntary military service for men and women (enlisted personnel); 18-24 for officer cadets; 18-30 for technical/specialist personnel; no conscription (2025)<br>
 
 **Military - note**<br>
 the primary responsibilities of the Zimbabwe Defense Forces (ZDF) are protecting the country’s sovereignty and territory and securing its borders; it also has a role in domestic security and socio-economic development projects and has continued to be active in the country’s politics since the 2017 military-assisted political transition;<br>the ZDF is part of the Southern Africa Development Community (SADC) Standby Force and provided troops for the SADC military deployment to Mozambique from 2021-2024; Zimbabwe has defense ties with China and Russia<br><br>the ZDF was formed after independence from the former Rhodesian Army and the two guerrilla forces that opposed it during the Rhodesian Civil War (aka "Bush War") of the 1970s, the Zimbabwe African National Liberation Army (ZANLA) and the Zimbabwe People's Revolutionary Army (ZIPRA); the ZDF intervened in the Mozambique Civil War (1983-1992), the Democratic Republic of Congo during the Second Congo War (1998-2003), and the Angolan Civil War (1975-2002) during the late 1990s (2025)<br>

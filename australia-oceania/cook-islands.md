@@ -103,21 +103,21 @@ _elderly dependency ratio_: 24.2 (2024 est.)<br>
 _potential support ratio_: 4.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 41.1 years (2024 est.)<br>
+_total_: 41.5 years (2025 est.)<br>
 _male_: 40.7 years<br>
 _female_: 41.4 years<br>
 
 **Population growth rate**<br>
--2.24% (2024 est.)<br>
+-2.15% (2025 est.)<br>
 
 **Birth rate**<br>
-12.1 births/1,000 population (2024 est.)<br>
+11.85 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9.4 deaths/1,000 population (2024 est.)<br>
+9.48 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--25.1 migrant(s)/1,000 population (2024 est.)<br>
+-23.84 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the population is found on the island of Rarotonga<br>
@@ -137,7 +137,7 @@ _total population_: 1.05 male(s)/female (2024 est.)<br>
 0 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 14.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 19 deaths/1,000 live births<br>
 _female_: 11.1 deaths/1,000 live births<br>
 
@@ -147,10 +147,10 @@ _male_: 74.8 years<br>
 _female_: 80.6 years<br>
 
 **Total fertility rate**<br>
-2.02 children born/woman (2024 est.)<br>
+1.99 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.99 (2024 est.)<br>
+0.97 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: NA<br>
@@ -190,7 +190,7 @@ _male_: 28.6% (2025 est.)<br>
 _female_: 20.1% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-42.6% (2023 est.)<br>
+53.2% (2021 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.4% of GDP (2024 est.)<br>
@@ -291,7 +291,7 @@ _subordinate courts_: justices of the peace<br>
 <strong>note:</strong> appeals beyond the Cook Islands Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
 
 **Political parties**<br>
-Cook Islands Party or CIP<br>Cook Islands United Party <br>Democratic Party or Demo<br>One Cook Islands Movement or OCI<br>
+Cook Islands Party or CIP<br>Democratic Party or Demo<br>One Cook Islands or OCI<br>
 
 **Diplomatic representation in the US**<br>
 none (self-governing in free association with New Zealand)<br>
@@ -418,8 +418,8 @@ _total subscriptions_: 7,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 41 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 17,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 100 (2021 est.)<br>
+_total subscriptions_: 18,100 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 123 (2022 est.)<br>
 
 **Broadcast media**<br>
 1 privately owned TV station in Rarotonga provides a mix of local news and overseas-sourced programs (2019)<br>

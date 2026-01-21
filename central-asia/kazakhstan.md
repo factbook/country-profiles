@@ -115,21 +115,21 @@ _elderly dependency ratio_: 15.3 (2024 est.)<br>
 _potential support ratio_: 6.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 31.9 years (2024 est.)<br>
+_total_: 32.1 years (2025 est.)<br>
 _male_: 30 years<br>
 _female_: 33.8 years<br>
 
 **Population growth rate**<br>
-0.86% (2024 est.)<br>
+0.83% (2025 est.)<br>
 
 **Birth rate**<br>
-17.2 births/1,000 population (2024 est.)<br>
+16.83 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.1 deaths/1,000 population (2024 est.)<br>
+8.1 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.4 migrant(s)/1,000 population (2024 est.)<br>
+-0.4 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the country displays a low population density, particularly the interior; population clusters appear in urban agglomerations in the far northern and southern portions of the country<br>
@@ -155,7 +155,7 @@ _total population_: 0.94 male(s)/female (2024 est.)<br>
 10 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8 deaths/1,000 live births (2024 est.)<br>
+_total_: 7.9 deaths/1,000 live births (2025 est.)<br>
 _male_: 8.9 deaths/1,000 live births<br>
 _female_: 7 deaths/1,000 live births<br>
 
@@ -165,10 +165,10 @@ _male_: 69 years<br>
 _female_: 77.9 years<br>
 
 **Total fertility rate**<br>
-2.58 children born/woman (2024 est.)<br>
+2.57 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.25 (2024 est.)<br>
+1.24 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98% of population (2022 est.)<br>
@@ -208,7 +208,7 @@ _male_: 35.7% (2025 est.)<br>
 _female_: 6.3% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-61.8% (2023 est.)<br>
+63.8% (2021 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.2% (2015)<br>
@@ -360,7 +360,7 @@ _subordinate courts_: regional and local courts<br>
 Ak Zhol Democratic Party or Ak Zhol<br>Amanat formerly Nur Otan<br>Auyl People's Democratic Patriotic Party or Auyl<br>Green Party of Kazakhstan orBaytaq<br>Nationwide Social Democratic Party or NSDP<br>People's Party of Kazakhstan or PPK<br>Respublica<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador-designate Magzhan ILYASOV (since October 2025)<br>
+_chief of mission_: Ambassador Magzhan ILYASSOV (since 16 December 2025)<br>
 _chancery_: 1401 16th Street NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 232-5488<br>
 _FAX_: [1] (202) 232-5845<br>
@@ -409,7 +409,7 @@ _selected World Heritage Site locales_: Mausoleum of Khoja Ahmed Yasawi (c); Pet
 ## Economy
 
 **Economic overview**<br>
-oil and gas giant, with growing international investment; domestic economy hit hard by COVID-19 disruptions; reforming civil society and improving business confidence; legacy state controls and Russian influence inhibit growth and autonomy<br>
+<p>upper-middle-income Central Asian economy; robust growth due to rising oil production, expansion in manufacturing and services, rising domestic demand, and infrastructure investments; however, rapid growth contributing to high inflation rate; declining unemployment and poverty rates</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $739.385 billion (2024 est.)<br>
@@ -671,11 +671,10 @@ Armed Forces of the Republic of Kazakhstan: Land Forces (Army of Kazakhstan), Na
 available information varies widely; estimated 50,000 active Armed Forces; estimated 30,000 National Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Kazakh military's inventory is comprised of mostly Russian and Soviet-era equipment; in recent years, however, it has sought to diversify to suppliers such as China, France, Israel, South Korea, and Turkey; Kazakhstan has a defense industry capable of assembling or producing such items as naval vessels, combat vehicles, helicopters, and radar systems (2025)<br>
+the Kazakh military's inventory is comprised mostly of Russian and Soviet-era equipment; in recent years, it has sought to diversify to suppliers such as China, France, Israel, South Korea, and T&uuml;rkiye; Kazakhstan has a defense industry capable of assembling or producing such items as naval vessels, combat vehicles, helicopters, and radar systems (2025)<br>
 
 **Military service age and obligation**<br>
 men 18-27 are subject to conscription for 12-24 months; conscripts may be assigned to the Armed Forces, the National Guard, the Border Service, the State Security Service, or the Ministry of Emergency Situations; women may volunteer (2025)<br>
-<strong>note:</strong> as of 2022, more than 10,000 women served in the Armed Forces and the National Guard<br>
 
 **Military - note**<br>
 the military’s principal responsibilities are territorial defense while the National Police, National Guard, Committee for National Security, and Border Service have primary responsibility for internal security, although the military may provide assistance if required; the military also participates in humanitarian and peacekeeping operations, as well as regional exercises; in recent years, Kazakhstan has placed greater emphasis on regional military partnerships and equipment modernization and diversification in order to reduce reliance on Russia, its traditional security partner; other efforts to enhance the country’s security sector have included boosting the capabilities of the National Guard and improving military professionalism<br><br>Kazakhstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and has obligated troops to CSTO's rapid reaction force; it also has had a relationship with NATO since 1992 focused on democratic, institutional, and defense reforms (2025)<br>

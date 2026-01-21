@@ -110,21 +110,21 @@ _elderly dependency ratio_: 27.8 (2024 est.)<br>
 _potential support ratio_: 3.6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 41.1 years (2024 est.)<br>
+_total_: 41.5 years (2025 est.)<br>
 _male_: 39.5 years<br>
 _female_: 42.5 years<br>
 
 **Population growth rate**<br>
--0.44% (2024 est.)<br>
+-0.46% (2025 est.)<br>
 
 **Birth rate**<br>
-10.9 births/1,000 population (2024 est.)<br>
+10.77 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-10.3 deaths/1,000 population (2024 est.)<br>
+10.29 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--5 migrant(s)/1,000 population (2024 est.)<br>
+-5.03 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 highest population density is concentrated in the south and southwest; the extreme eastern border is the least populated area<br>
@@ -150,7 +150,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 6 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.2 deaths/1,000 live births (2024 est.)<br>
+_total_: 3.1 deaths/1,000 live births (2025 est.)<br>
 _male_: 2.7 deaths/1,000 live births<br>
 _female_: 3.7 deaths/1,000 live births<br>
 
@@ -160,10 +160,10 @@ _male_: 75.8 years<br>
 _female_: 80.7 years<br>
 
 **Total fertility rate**<br>
-1.8 children born/woman (2024 est.)<br>
+1.8 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.89 (2024 est.)<br>
+0.88 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.2% of population (2022 est.)<br>
@@ -210,7 +210,7 @@ _female_: 33.1% (2025 est.)<br>
 3.7% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-57.1% (2023 est.)<br>
+57.6% (2018 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 1.9% (2018)<br>
@@ -643,10 +643,10 @@ Army of Montenegro (Vojska Crne Gore or VCG): Ground Forces, Air Force, Navy <b
 approximately 2,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is small and consists largely of Soviet-era equipment inherited from the former Yugoslavia military, along with a limited but growing mix of imported Western systems (2024)<br>
+the military's inventory is small and consists largely of Soviet-era equipment inherited from the former Yugoslavia military, along with a limited but growing mix of imported Western systems (2025)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; conscription abolished in 2006 (2024)<br>
+18-30 for voluntary military service; conscription abolished in 2006 (2025)<br>
 <strong>note:</strong> as of 2024, women made up over 11% of the military's full-time personnel<br>
 
 **Military - note**<br>

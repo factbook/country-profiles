@@ -115,21 +115,21 @@ _elderly dependency ratio_: 30.1 (2024 est.)<br>
 _potential support ratio_: 3.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 42.9 years (2024 est.)<br>
+_total_: 43.4 years (2025 est.)<br>
 _male_: 41.5 years<br>
 _female_: 44.3 years<br>
 
 **Population growth rate**<br>
--1% (2024 est.)<br>
+-0.98% (2025 est.)<br>
 
 **Birth rate**<br>
-8.4 births/1,000 population (2024 est.)<br>
+8.03 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-12.2 deaths/1,000 population (2024 est.)<br>
+11.56 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--6.2 migrant(s)/1,000 population (2024 est.)<br>
+-6.26 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the southern area around Krakow and the central area around Warsaw and Lodz, with an extension to the northern coastal city of Gdansk<br>
@@ -155,7 +155,7 @@ _total population_: 0.91 male(s)/female (2024 est.)<br>
 2 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 4.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 5.3 deaths/1,000 live births<br>
 _female_: 4.4 deaths/1,000 live births<br>
 
@@ -165,10 +165,10 @@ _male_: 72.8 years<br>
 _female_: 80.9 years<br>
 
 **Total fertility rate**<br>
-1.32 children born/woman (2024 est.)<br>
+1.33 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.64 (2024 est.)<br>
+0.65 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 95.8% of population (2022 est.)<br>
@@ -215,7 +215,7 @@ _female_: 17.8% (2025 est.)<br>
 0.7% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-56.6% (2023 est.)<br>
+58.6% (2021 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.3% of GDP (2022 est.)<br>
@@ -401,6 +401,9 @@ white crowned eagle<br>
 
 **National color(s)**<br>
 white, red<br>
+
+**National coat of arms**<br>
+<p style="margin: 0in;">Poland’s coat of arms was designed in 1927 by noted Polish graphic artist and educator Zygmunt Kaminski. The white crowned eagle is the national symbol, and white and red are the national colors, with white representing purity and truth and red symbolizing courage and the blood shed for freedom.</p><br>
 
 **National anthem(s)**<br>
 _title_: "Mazurek Dabrowskiego" (Dabrowski's Mazurka)<br>
@@ -678,8 +681,7 @@ approximately 235,000 active military personnel (2025)<br>
 <strong>note: </strong>a new national defense law in 2022 set a goal to double the size of Poland’s armed forces to 300,000 personnel, including 250,000 professional soldiers and 50,000 territorials<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of a mix of some Soviet-era and a growing amount of more modern, NATO-compatible weapons systems; in recent years, the leading suppliers of armaments have included several European countries, South Korea, and the US; Poland has a domestic defense sector that produces or provides upgrades to a wide variety of weapons systems, particularly ground systems such as tanks and other armored vehicles; it also cooperates with the European and US defense sectors (2024)<br>
-<strong>note:</strong> in late 2018, Poland announced a 7-year (through 2026) approximately $50 billion defense modernization plan that would include such items as 5th generation combat aircraft, unmanned aerial vehicles, rocket artillery, helicopters, submarines, frigates, and improved cyber security; in 2022-2023, it signed large military weapons contracts with South Korea, the UK, and the US<br>
+the military's inventory consists of a mix of some Soviet-era and a growing amount of more modern, NATO-compatible weapons systems; in recent years, significant suppliers of armaments have included Finland, South Korea, and the US; Poland has a domestic defense sector that produces or provides upgrades to various weapons systems, particularly ground systems such as tanks and other armored vehicles; it also cooperates with the European and US defense sectors (2025)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; no conscription; professional soldiers serve on a permanent basis (for an unspecified period of time) or on a contract basis (for a specified period of time); initial contract period is 24 months (2025)<br>

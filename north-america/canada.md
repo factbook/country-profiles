@@ -123,21 +123,21 @@ _elderly dependency ratio_: 32.9 (2024 est.)<br>
 _potential support ratio_: 3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 42.6 years (2024 est.)<br>
+_total_: 42.8 years (2025 est.)<br>
 _male_: 41.4 years<br>
 _female_: 43.8 years<br>
 
 **Population growth rate**<br>
-0.71% (2024 est.)<br>
+0.73% (2025 est.)<br>
 
 **Birth rate**<br>
-10 births/1,000 population (2024 est.)<br>
+9.12 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.2 deaths/1,000 population (2024 est.)<br>
+7.75 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-5.3 migrant(s)/1,000 population (2024 est.)<br>
+5.91 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 vast majority of the population lives in a discontinuous band within approximately 300 km (186 mi) of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia<br>
@@ -163,7 +163,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 12 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 3.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 4.5 deaths/1,000 live births<br>
 _female_: 4 deaths/1,000 live births<br>
 
@@ -173,10 +173,10 @@ _male_: 81.9 years<br>
 _female_: 86.6 years<br>
 
 **Total fertility rate**<br>
-1.58 children born/woman (2024 est.)<br>
+1.43 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.77 (2024 est.)<br>
+0.7 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.3% of population (2022 est.)<br>
@@ -220,7 +220,7 @@ _male_: 12.3% (2025 est.)<br>
 _female_: 8% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-52.2% (2023 est.)<br>
+51.6% (2021 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.9% of GDP (2022 est.)<br>
@@ -398,6 +398,9 @@ maple leaf, beaver<br>
 
 **National color(s)**<br>
 red, white<br>
+
+**National coat of arms**<br>
+<p>The current design of the Royal Coat of Arms of Canada was adopted in 1921 and references the four nations that helped found Canada. England is represented with royal lions, a union flag, and a rose, and Scotland with a royal lion, a unicorn, and a thistle. Ireland’s symbols include a harp and a shamrock, and France’s symbols are a royal fleur-de-lis and a royal flag. The maple leaves are the Canadian national symbol. A red circle displays the motto <em>Desiderantes Meliorem Patriam</em> (Desiring a Better Country), and a blue ribbon displays <em>A Mari usque ad Mare</em> (From Sea to Sea).</p><br>
 
 **National anthem(s)**<br>
 _title_: "God Save the King"<br>
@@ -618,8 +621,8 @@ _total subscriptions_: 10.897 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 28 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 36.5 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 91 (2022 est.)<br>
+_total subscriptions_: 37 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 94 (2024 est.)<br>
 
 **Broadcast media**<br>
 2 public TV broadcasting networks, 1 in English and 1 in French, each with a large number of network affiliates; several private commercial networks, also with multiple network affiliates; a total of about 150 TV stations, accessible via multi-channel satellite and cable systems; mix of public and commercial radio, with over 1,000 licensed stations; public broadcaster Canadian Broadcasting Corporation (CBC) provides 4 radio networks, Radio Canada International, and radio services to ethnic populations in the north (2016)<br>
@@ -667,7 +670,7 @@ _key ports_: Argentia, Canaport (St. John), Halifax, Hamilton, Montreal, New Wes
 
 **Military and security forces**<br>
 Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force (2025)<br>
-<strong>note 1: </strong>the CAF is comprised of both a Regular Force and a Reserve Force; the Reserve Force is comprised of the Primary Reserve, Canadian Rangers, Cadet Organizations Administration and Training Service, and the Supplementary Reserve; the Canadian Rangers are part of the Army Reserve Force and provide a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles <br><br><strong>note 2: </strong>the Royal Canadian Mounted Police (RCMP or "Mounties") is under the Department of Public Safety; the Coast Guard is under the Department of Fisheries and Oceans<br>
+<strong>note 1: </strong>the CAF is comprised of both a Regular Force and a Reserve Force; the Reserve Force is comprised of the Primary Reserve, Canadian Rangers, Cadet Organizations Administration and Training Service, and the Supplementary Reserve; the Canadian Rangers are part of the Army Reserve Force and provide a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles <br><br><strong>note 2: </strong>the Royal Canadian Mounted Police (RCMP or "Mounties") are under the Department of Public Safety; the Coast Guard is under the Department of Fisheries and Oceans<br>
 
 **Military expenditures**<br>
 2% of GDP (2025 est.)<br>
@@ -680,14 +683,14 @@ Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force (2
 approximately 75,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the CAF's inventory is a mix of domestically produced equipment and imported weapons systems from Australia, Europe, Israel, and the US; in recent years, the leading supplier has been the US; Canada's defense industry develops, maintains, and produces a range of equipment, including aircraft, combat vehicles, naval vessels, and associated components (2024)<br>
+the CAF's inventory is a mix of domestically produced and imported weapons systems from Australia, Europe, Israel, the UK, and the US; in recent years, the leading supplier has been the US; Canada's defense industry develops, maintains, and produces a range of equipment, including aircraft, combat vehicles, naval vessels, and associated components; it also collaborates with the defense industries of allied countries such as the UK (2025)<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary male and female military service (with parental consent); 16 years of age for Reserve and Military College applicants; Canadian citizenship or permanent residence status required; maximum 34 years of age; service obligation 3-9 years (2023)<br>
-<strong>note 1:</strong> Canada opened up all military occupations to women in 2001; women in 2023 comprised about 16% of the CAF<br><br><strong>note 2: </strong>the CAF offers waivers to foreign nationals applying for military service only in exceptional cases — to individuals on international military exchanges, for example, or to candidates who have specialized skills in high demand<br>
+17 years of age for men and women for voluntary military service (with parental consent); 16 years of age for Reserve and Military College applicants; Canadian citizenship or permanent residence status required; service obligation 3-9 years depending on the position (2025)<br>
+<strong>note 1:</strong> Canada opened up all military occupations to women in 2001; women in 2024 comprised about 16% of the CAF<br><br><strong>note 2: </strong>the CAF offers waivers to foreign nationals applying for military service only in exceptional cases — to individuals on international military exchanges, for example, or to candidates who have specialized skills in high demand<br>
 
 **Military deployments**<br>
-the CAF has approximately 1,000 military personnel forward deployed for NATO air, land, and sea missions in the European theater, including a ground task force in Latvia; it also contributes smaller numbers of air, ground, and naval forces to a variety of other NATO and international missions (2024)<br>
+approximately 2,000 Latvia (NATO); the CAF also has air and naval assets supporting NATO missions (2025)<br>
 <strong>note:</strong> in 2024, Canada announced plans to have a full 2,000-person brigade deployed to Latvia by 2026<br>
 
 **Military - note**<br>

@@ -106,21 +106,21 @@ _elderly dependency ratio_: 8.9 (2024 est.)<br>
 _potential support ratio_: 11.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 25.5 years (2024 est.)<br>
+_total_: 25.9 years (2025 est.)<br>
 _male_: 25.4 years<br>
 _female_: 25.6 years<br>
 
 **Population growth rate**<br>
-1.26% (2024 est.)<br>
+1.22% (2025 est.)<br>
 
 **Birth rate**<br>
-21.2 births/1,000 population (2024 est.)<br>
+20.81 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-4.3 deaths/1,000 population (2024 est.)<br>
+4.37 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--4.3 migrant(s)/1,000 population (2024 est.)<br>
+-4.2 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most people live in urban clusters on many of the country's islands; more than two thirds of the population lives on the atolls of Majuro and Ebeye<br>
@@ -143,7 +143,7 @@ _total population_: 1.03 male(s)/female (2024 est.)<br>
 155 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 20.6 deaths/1,000 live births (2024 est.)<br>
+_total_: 20.1 deaths/1,000 live births (2025 est.)<br>
 _male_: 24 deaths/1,000 live births<br>
 _female_: 17.1 deaths/1,000 live births<br>
 
@@ -153,10 +153,10 @@ _male_: 73 years<br>
 _female_: 77.5 years<br>
 
 **Total fertility rate**<br>
-2.67 children born/woman (2024 est.)<br>
+2.62 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.3 (2024 est.)<br>
+1.28 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 84.5% of population (2022 est.)<br>
@@ -306,7 +306,7 @@ _term in office_: 4 years<br>
 _most recent election date_: 11/20/2023<br>
 _percentage of women in chamber_: 12.1%<br>
 _expected date of next election_: November 2027<br>
-<strong>note:</strong> the Council of Iroij is a 12-member consultative group of tribal leaders that advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice <br>
+<strong>note:</strong> the Council of Iroij is a 12-member consultative group of tribal leaders that advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 2 associate justices)<br>
@@ -541,7 +541,7 @@ _key ports_: Enitwetak Island, Kwajalein, Majuro Atoll<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Marshall Islands Police Department (includes a Sea Patrol Division) (2025)<br>
+Marshall Islands Police Department (includes a Sea Patrol Division)<br>
 
 **Military - note**<br>
 defense is the responsibility of the US; in 1982, the Marshall Islands signed a Compact of Free Association (COFA) with the US, which granted the Marshall Islands financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986; the Marshall Islands hosts a US Army missile test site <br><br>the Marshall Islands has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within its designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>

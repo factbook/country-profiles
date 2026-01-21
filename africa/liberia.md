@@ -105,21 +105,21 @@ _elderly dependency ratio_: 5.5 (2024 est.)<br>
 _potential support ratio_: 18 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 19.9 years (2024 est.)<br>
+_total_: 20.1 years (2025 est.)<br>
 _male_: 19.8 years<br>
 _female_: 20 years<br>
 
 **Population growth rate**<br>
-2.32% (2024 est.)<br>
+2.27% (2025 est.)<br>
 
 **Birth rate**<br>
-32.4 births/1,000 population (2024 est.)<br>
+31.72 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.3 deaths/1,000 population (2024 est.)<br>
+8.17 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.8 migrant(s)/1,000 population (2024 est.)<br>
+-0.84 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 more than half of the population lives in urban areas, with approximately one third living within an 80-km (50-mi) radius of Monrovia, as shown in this population distribution map<br>
@@ -146,7 +146,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 628 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 55.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 55.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 61 deaths/1,000 live births<br>
 _female_: 50.2 deaths/1,000 live births<br>
 
@@ -156,10 +156,10 @@ _male_: 59.9 years<br>
 _female_: 63.3 years<br>
 
 **Total fertility rate**<br>
-3.93 children born/woman (2024 est.)<br>
+3.84 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.94 (2024 est.)<br>
+1.89 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 84.6% of population (2022 est.)<br>
@@ -206,7 +206,7 @@ _female_: 1.5% (2025 est.)<br>
 10.9% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-48.7% (2023 est.)<br>
+51.4% (2020 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 5.8% (2020)<br>
@@ -621,10 +621,10 @@ Armed Forces of Liberia (AFL): Army, Liberian Coast Guard<br><br>Ministry of Jus
 approximately 2,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military has a limited inventory; in recent years, it has received small quantities of equipment, including donations, from countries such as China and the US (2024)<br>
+the military has a limited inventory; in recent years, it has received small quantities of equipment, including donations, from countries such as China, UAE, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18-35 years of age for men and women for voluntary military service; no conscription (2024)<br>
+18 years of age for men and women for voluntary military service (2025)<br>
 
 **Military - note**<br>
 the Armed Forces of Liberia (AFL) are responsible for external defense and some domestic security responsibilities if called upon, such as humanitarian assistance during natural disasters and support to law enforcement; it is a small, lightly equipped force comprised of two combat infantry battalions and supporting units, as well as a few coastal patrol craft for the Coast Guard; the infantry battalions were rebuilt with US assistance in 2007-2008 from the restructured AFL following the end of the second civil war in 2003 when military and police forces were disbanded and approximately 100,000 military, police, and rebel combatants were disarmed<br><br>the first militia unit established for defense of the Liberia colony was raised in 1832; the AFL traces its origins to the 1908 establishment of the Liberia Frontier Force, which became the Liberian National Guard in 1965; the AFL was established in 1970 (2025)<br>

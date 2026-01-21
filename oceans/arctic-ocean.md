@@ -82,6 +82,8 @@ _etymology_: the name comes from the Greek word <em>arktikos </em>meaning "near 
 
 ## Economy
 
+## Communications
+
 ## Transportation
 
 **Transportation - note**<br>

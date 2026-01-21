@@ -106,21 +106,21 @@ _elderly dependency ratio_: 27.3 (2024 est.)<br>
 _potential support ratio_: 3.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 44.6 years (2024 est.)<br>
+_total_: 45.1 years (2025 est.)<br>
 _male_: 43.6 years<br>
 _female_: 45.5 years<br>
 
 **Population growth rate**<br>
-0.03% (2024 est.)<br>
+0.02% (2025 est.)<br>
 
 **Birth rate**<br>
-7.3 births/1,000 population (2024 est.)<br>
+7.22 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.1 deaths/1,000 population (2024 est.)<br>
+8.18 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-1.1 migrant(s)/1,000 population (2024 est.)<br>
+1.17 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 distribution exhibits a peripheral coastal settlement pattern, with the largest populations on the north and west coasts<br>
@@ -140,7 +140,7 @@ _65 years and over_: 0.82 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.8 deaths/1,000 live births (2024 est.)<br>
+_total_: 3.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 4.2 deaths/1,000 live births<br>
 _female_: 3.5 deaths/1,000 live births<br>
 
@@ -150,13 +150,10 @@ _male_: 78.6 years<br>
 _female_: 84.7 years<br>
 
 **Total fertility rate**<br>
-1.11 children born/woman (2024 est.)<br>
+1.12 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.54 (2024 est.)<br>
-
-**Currently married women (ages 15-49)**<br>
-51% (2023 est.)<br>
+0.54 (2025 est.)<br>
 
 ## Environment
 
@@ -239,7 +236,7 @@ _head of government_: Premier CHO Jung-tai (President of the Executive Yuan) (si
 _cabinet_: Executive Yuan; ministers appointed by president on recommendation of premier<br>
 _election/appointment process_: president and vice president directly elected on the same ballot by simple-majority popular vote for a 4-year term (eligible for a second term); premier appointed by the president; vice premiers appointed by the president on the recommendation of the premier<br>
 _most recent election date_: 13 January 2024<br>
-_election results_: <em><br>2024:</em>LAI Ching-te elected president; percent of vote<em><em> - </em></em>LAI Ching-te (DPP) 40.1%, HOU Yu-ih (KMT) 33.5%, KO Wen-je (TPP) 26.5%)<em><br><br>2020: </em>TSAI Ing-wen reelected president; percent of vote - TSAI Ing-wen (DPP) 57.1%, HAN Kuo-yu (KMT) 38.6%, James SOONG (PFP) 4.3%<br>
+_election results_: <em><br>2024: </em>LAI Ching-te elected president; percent of vote<em><em> - </em></em>LAI Ching-te (DPP) 40.1%, HOU Yu-ih (KMT) 33.5%, KO Wen-je (TPP) 26.5%)<em><br><br>2020: </em>TSAI Ing-wen reelected president; percent of vote - TSAI Ing-wen (DPP) 57.1%, HAN Kuo-yu (KMT) 38.6%, James SOONG (PFP) 4.3%<br>
 _expected date of next election_: 2028<br>
 
 **Legislative branch**<br>
@@ -260,7 +257,7 @@ _judge selection and term of office_: Supreme Court justices appointed for life 
 _subordinate courts_: high courts; district courts; hierarchy of administrative courts<br>
 
 **Political parties**<br>
-Democratic Progressive Party or DPP <br>Kuomintang or KMT (Nationalist Party) <br>Taiwan People's Party or TPP <br>
+Democratic Progressive Party or DPP <br>Kuomintang or KMT (Nationalist Party) <br>Taiwan People's Party or TPP<br>
 <strong>note:</strong> the DPP and the KMT are the two major political parties; more than 30 parties garnered votes in the 2024 election<br>
 
 **Diplomatic representation in the US**<br>
@@ -509,7 +506,7 @@ _key ports_: Chi-Lung, Hua-Lien Kang, Kao-Hsiung, Su-Ao<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force<br><br>Ocean Affairs Council: Coast Guard Administration (CGA)<br><br>Ministry of Interior: National Police (2025)<br>
+Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force, Information Communication and Electronic Force (ICEF)<br><br>Ocean Affairs Council: Coast Guard Administration (CGA)<br><br>Ministry of Interior: National Police (2025)<br>
 <strong>note: </strong>the CGA is a law enforcement organization with homeland security functions during peacetime and national defense missions during wartime<br>
 
 **Military expenditures**<br>
@@ -520,18 +517,17 @@ Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force<br><br>Ocean 
 2.1% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 180,000 active-duty Armed Forces (95,000 Army; 45,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2025)<br>
-<strong>note: </strong>the military is comprised of both volunteers and conscripts; the conscripts serve 4-month tours, or 12 months for those born in 2005 and after; as of mid-2024, there were reportedly about 153,000 volunteer personnel serving in Taiwan's armed forces; in 2025, the military is expected to conscript about 75,000 men; Taiwan aims to maintain a military of about 215,000 plus reservists; Taiwan trains about 120,000 reservists annually, but in 2022 announced intentions to increase that figure to 260,000<br>
+approximately 170,000 active duty Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Taiwan military's inventory is a mix of domestically produced items and equipment acquired from the US, either as secondhand or direct acquisitions; Taiwan's domestic defense industry produces weapons systems such as aircraft, armored vehicles, missiles, and naval platforms (2024)<br>
+the military's inventory is a mix of domestically produced and foreign-supplied armaments, mostly from the US either as secondhand or direct acquisitions; Taiwan's domestic defense industry produces weapons systems such as aircraft, armored vehicles, missiles, and naval platforms (2025)<br>
 
 **Military service age and obligation**<br>
 men 18-36 years of age may volunteer or must complete 12 months of compulsory military service; civil service can be substituted for military service in some cases; women may enlist but are restricted to noncombat roles in most cases (2024)<br>
 <strong>note 1: </strong>in January 2024, Taiwan extended compulsory service from 4 to 12 months for men born in 2005 and thereafter<strong><br><br>note 2:</strong> as of 2023, women made up about 15% of the active-duty military<br>
 
 **Military - note**<br>
-the military’s primary responsibility is external security, including the defense of the country’s sovereignty and territory, and the protection of Taiwan’s air space, maritime claims, and sea lines of communication; its main focus is the challenge posed by the People’s Republic of China<br><br>the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2025)<br>
+the military&rsquo;s primary responsibility is external security, including the defense and protection of the country&rsquo;s air space, maritime claims, sea lines of communications, sovereignty, and territory; its main focus is the challenge posed by the People&rsquo;s Republic of China (2025)<br>
 
 ## Space
 

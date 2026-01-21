@@ -115,21 +115,21 @@ _elderly dependency ratio_: 5.5 (2024 est.)<br>
 _potential support ratio_: 18.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 21.2 years (2024 est.)<br>
+_total_: 21.5 years (2025 est.)<br>
 _male_: 21.1 years<br>
 _female_: 21.4 years<br>
 
 **Population growth rate**<br>
-2.06% (2024 est.)<br>
+2.15% (2025 est.)<br>
 
 **Birth rate**<br>
-25.6 births/1,000 population (2024 est.)<br>
+25.93 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-4.9 deaths/1,000 population (2024 est.)<br>
+4.72 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.2 migrant(s)/1,000 population (2024 est.)<br>
+0.26 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population heavily concentrated in the west along the shore of Lake Victoria; other areas of high density include the capital of Nairobi, and in the southeast along the Indian Ocean coast, as shown in this population distribution map<br>
@@ -156,7 +156,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 379 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 26.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 26.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 29 deaths/1,000 live births<br>
 _female_: 23.1 deaths/1,000 live births<br>
 
@@ -166,10 +166,10 @@ _male_: 68.6 years<br>
 _female_: 72.2 years<br>
 
 **Total fertility rate**<br>
-3.16 children born/woman (2024 est.)<br>
+3.09 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.56 (2024 est.)<br>
+1.53 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 86.4% of population (2022 est.)<br>
@@ -216,7 +216,7 @@ _female_: 1.9% (2025 est.)<br>
 9.8% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-56.8% (2023 est.)<br>
+53.2% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 2.2% (2022)<br>
@@ -324,7 +324,7 @@ _head of government_: President William RUTO (since 13 September 2022)<br>
 _cabinet_: Cabinet appointed by the president, subject to confirmation by the National Assembly<br>
 _election/appointment process_: president and deputy president directly elected on the same ballot by majority vote nationwide and at least 25% of the votes cast in at least 24 of the 47 counties; failure to meet these thresholds requires a runoff between the top two candidates<br>
 _most recent election date_: 9 August 2022<br>
-_election results_: <em><br>2022</em>:  William RUTO elected president in first round; percent of vote - William RUTO (UDA) 50.5%, Raila ODINGA (ODM) 48.9%, other 0.6%<br><em><br>2017</em>:  Uhuru KENYATTA reelected president; percent of vote - Uhuru KENYATTA (JP) 98.3%, Raila ODINGA (ODM) 1%, other 0.7%<br>
+_election results_: <em><br>2022</em>:  William RUTO elected president in first round; percent of vote - William RUTO (UDA) 50.5%, Raila ODINGA (ODM) 48.9%, other 0.6%<br>
 _expected date of next election_: 10 August 2027<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
@@ -670,13 +670,13 @@ Kenya Defense Forces (KDF): Kenya Army, Kenya Navy, Kenya Air Force<br><br>Minis
 approximately 25,000 active Kenya Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the KDF's inventory is a mix of older, donated/secondhand, and some modern weapon systems from a variety of sources; major suppliers have included China, France, South Africa, Turkey, the UK, and the US; in late 2023, the Kenyan Government unveiled a five-year spending plan to procure upgraded military equipment, including aerial surveillance drones, tactical vehicles, and air defense systems (2024)<br>
+the KDF's inventory is a mix of older, donated/secondhand, and some modern weapon systems from a variety of sources; major suppliers have included China, France, South Africa, T&uuml;rkiye, the UK, and the US; in 2023, the Kenyan Government unveiled a five-year defense spending plan with a focus on upgraded military equipment, including aerial surveillance drones, tactical vehicles, and air defense systems (2025)<br>
 
 **Military service age and obligation**<br>
-no conscription; 18-26 years of age for voluntary service for men and women (under 18 with parental consent; upper limit 30 years of age for specialists, tradesmen, or women with a diploma; 39 years of age for chaplains/imams); 9-year service obligation (7 years for Kenyan Navy) and subsequent 3-year re-enlistments; applicants must be Kenyan citizens (2024)<br>
+18-26 years of age for voluntary service for men and women (under 18 with parental consent; upper limit 30 years of age for specialists, tradesmen, or women with a diploma; 39 years of age for chaplains/imams); 7-9 year service obligations (2026)<br>
 
 **Military deployments**<br>
-400 Democratic Republic of the Congo (MONUSCO); approximately 1,400 Somalia (African Union Support and Stabilization Mission in Somalia or AUSSOM) (2024)<br>
+400 Democratic Republic of the Congo (MONUSCO); approximately 1,400 Somalia (African Union Support and Stabilization Mission in Somalia or AUSSOM) (2025)<br>
 
 **Military - note**<br>
 the Kenya Defense Forces (KDF) are responsible for protecting the country's sovereignty and territory and assisting civil authorities in responding to emergency, disaster, or political unrest as requested; the KDF's chief security concerns include regional disputes and instability, maritime crime and piracy, and the threat posed by the Somalia-based al-Shabaab terrorist group, which has conducted attacks inside Kenya; it has conducted operations in neighboring Somalia since 2011 and taken part in numerous regional peacekeeping and security missions; the KDF is a leading member of the Africa Standby Force; it participates in multinational exercises, and has ties to a variety of foreign militaries, including those of France, the UK, and the US<br><br>the Kenya Military Forces were created following independence in 1963; the current KDF was established and its composition laid out in the 2010 constitution; it is governed by the Kenya Defense Forces Act of 2012; the Army traces its origins back to the Kings African Rifles (KAR), a British colonial regiment raised from Britain's East Africa possessions from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during both World Wars (2025)<br>

@@ -52,12 +52,12 @@ _mean elevation_: 478 m<br>
 petroleum, natural gas, timber<br>
 
 **Land use**<br>
-_agricultural land_: 2.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.6% (2022 est.)<br>
-_forest_: 72.1% (2022 est.)<br>
-_other_: 25.4% (2022 est.)<br>
+_agricultural land_: 2.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.6% (2023 est.)<br>
+_forest_: 72.1% (2023 est.)<br>
+_other_: 25.4% (2023 est.)<br>
 
 **Irrigated land**<br>
 10 sq km (2012)<br>
@@ -104,21 +104,21 @@ _elderly dependency ratio_: 10.6 (2024 est.)<br>
 _potential support ratio_: 9.4 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 32.3 years (2024 est.)<br>
+_total_: 32.6 years (2025 est.)<br>
 _male_: 31.4 years<br>
 _female_: 33.1 years<br>
 
 **Population growth rate**<br>
-1.4% (2024 est.)<br>
+1.37% (2025 est.)<br>
 
 **Birth rate**<br>
-15.8 births/1,000 population (2024 est.)<br>
+15.58 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-3.9 deaths/1,000 population (2024 est.)<br>
+3.96 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-2.1 migrant(s)/1,000 population (2024 est.)<br>
+2.09 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the vast majority of the population is found along the coast in the western part of Brunei, which is separated from the eastern portion by Malaysia; the largest population concentration is in the far north on the western side of the Brunei Bay, in and around the capital of Bandar Seri Begawan<br>
@@ -142,7 +142,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 36 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10 deaths/1,000 live births (2024 est.)<br>
+_total_: 9.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 12.2 deaths/1,000 live births<br>
 _female_: 7.7 deaths/1,000 live births<br>
 
@@ -152,10 +152,10 @@ _male_: 76.5 years<br>
 _female_: 81.3 years<br>
 
 **Total fertility rate**<br>
-1.73 children born/woman (2024 est.)<br>
+1.73 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.85 (2024 est.)<br>
+0.85 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 99.9% of population (2022 est.)<br>
@@ -192,9 +192,6 @@ _total_: 17% (2025 est.)<br>
 _male_: 31.2% (2025 est.)<br>
 _female_: 1.9% (2025 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-54.3% (2023 est.)<br>
-
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.4% of GDP (2016 est.)<br>
 _Education expenditure (% national budget)_: 11.4% national budget (2016 est.)<br>
@@ -217,12 +214,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; hot, humid, rainy<br>
 
 **Land use**<br>
-_agricultural land_: 2.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.1% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.6% (2022 est.)<br>
-_forest_: 72.1% (2022 est.)<br>
-_other_: 25.4% (2022 est.)<br>
+_agricultural land_: 2.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.6% (2023 est.)<br>
+_forest_: 72.1% (2023 est.)<br>
+_other_: 25.4% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 79.1% of total population (2023)<br>
@@ -311,7 +308,7 @@ _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 1/20/2023<br>
-_percentage of women in chamber_: 11.8%<br>
+_percentage of women in chamber_: 11.4%<br>
 _expected date of next election_: January 2028<br>
 
 **Judicial branch**<br>
@@ -540,8 +537,8 @@ _total subscriptions_: 122,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 26 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 541,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 118 (2022 est.)<br>
+_total subscriptions_: 582,919 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 118 (2024 est.)<br>
 
 **Broadcast media**<br>
 state-controlled Radio Television Brunei (RTB) operates 5 channels; 3 Malaysian TV stations are available; foreign TV broadcasts are available via satellite systems; RTB operates 5 radio networks and broadcasts on multiple frequencies; British Forces Broadcast Service (BFBS) provides radio broadcasts on 2 FM stations; some radio broadcast stations from Malaysia are available via repeaters<br>
@@ -597,10 +594,10 @@ Royal Brunei Armed Forces (RBAF) or Angkatan Bersenjata Diraja Brunei (ABDB): Ro
 approximately 7,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's s inventory includes equipment and weapons systems from a wide variety of suppliers from Asia, Europe, and the US (2024)<br>
+the military's s inventory includes equipment and weapons systems from a variety of suppliers from Asia, Europe, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary military service; non-Malays are ineligible to serve (2024)<br>
+18-25 years of age for voluntary military service (2025)<br>
 <strong>note:</strong> the Gurkha Reserve Unit (GRU) employs hundreds of Gurkhas from Nepal, the majority of whom are veterans of the British Army and the Singapore Police Force who have joined the GRU as a second career<br>
 
 **Military - note**<br>

@@ -103,21 +103,21 @@ _elderly dependency ratio_: 6.7 (2024 est.)<br>
 _potential support ratio_: 14.9 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 27.8 years (2024 est.)<br>
+_total_: 28.2 years (2025 est.)<br>
 _male_: 27.3 years<br>
 _female_: 28.4 years<br>
 
 **Population growth rate**<br>
-0.39% (2024 est.)<br>
+0.37% (2025 est.)<br>
 
 **Birth rate**<br>
-20.2 births/1,000 population (2024 est.)<br>
+19.64 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.5 deaths/1,000 population (2024 est.)<br>
+6.55 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--9.8 migrant(s)/1,000 population (2024 est.)<br>
+-9.37 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most people live in the fertile coastal areas, especially along the southwest coast<br>
@@ -137,7 +137,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 273 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.6 deaths/1,000 live births (2024 est.)<br>
+_total_: 7.5 deaths/1,000 live births (2025 est.)<br>
 _male_: 9.8 deaths/1,000 live births<br>
 _female_: 5.3 deaths/1,000 live births<br>
 
@@ -147,10 +147,10 @@ _male_: 65 years<br>
 _female_: 72.3 years<br>
 
 **Total fertility rate**<br>
-2.55 children born/woman (2024 est.)<br>
+2.52 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.25 (2024 est.)<br>
+1.24 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 100% of population<br>
@@ -183,7 +183,7 @@ _female_: 46.1% (2025 est.)<br>
 3.8% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-59.6% (2023 est.)<br>
+57.7% (2021 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 5.7% of GDP (2023 est.) NA<br>
@@ -491,7 +491,7 @@ _key ports_: Nauru<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Nauru Police Force (2025)<br>
+no regular military forces; Nauru Police Force<br>
 
 **Military - note**<br>
 under the terms of a security deal signed in December 2024, Australia and Nauru agreed to “deepen and expand security cooperation” and “consult and consider” in the event of threats; Nauru pledged to seek Australia’s agreement before it signed any bilateral accords on maritime security, defense, and policing, and would receive Australian financial assistance in support of Nauru's police and security needs<br><br>Nauru has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Nauru's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>

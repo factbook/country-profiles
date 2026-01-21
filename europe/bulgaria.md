@@ -112,21 +112,21 @@ _elderly dependency ratio_: 32.3 (2024 est.)<br>
 _potential support ratio_: 3.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 45.1 years (2024 est.)<br>
+_total_: 45.5 years (2025 est.)<br>
 _male_: 43.3 years<br>
 _female_: 47 years<br>
 
 **Population growth rate**<br>
--0.66% (2024 est.)<br>
+-0.66% (2025 est.)<br>
 
 **Birth rate**<br>
-7.9 births/1,000 population (2024 est.)<br>
+7.88 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-14.2 deaths/1,000 population (2024 est.)<br>
+14.18 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.3 migrant(s)/1,000 population (2024 est.)<br>
+-0.3 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger populations<br>
@@ -152,7 +152,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 6 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 7.5 deaths/1,000 live births (2025 est.)<br>
 _male_: 8.7 deaths/1,000 live births<br>
 _female_: 6.6 deaths/1,000 live births<br>
 
@@ -162,10 +162,10 @@ _male_: 72.9 years<br>
 _female_: 79.4 years<br>
 
 **Total fertility rate**<br>
-1.51 children born/woman (2024 est.)<br>
+1.52 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.73 (2024 est.)<br>
+0.74 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.6% of population (2022 est.)<br>
@@ -212,7 +212,7 @@ _female_: 30.3% (2025 est.)<br>
 1.6% (2014)<br>
 
 **Currently married women (ages 15-49)**<br>
-57.3% (2023 est.)<br>
+56.6% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.5% of GDP (2022 est.)<br>
@@ -605,8 +605,8 @@ _total subscriptions_: 619,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 9 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8.01 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 117 (2022 est.)<br>
+_total subscriptions_: 8,014,470 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 118 (2024 est.)<br>
 
 **Broadcast media**<br>
 4 national terrestrial TV stations with 1 state-owned and 3 privately owned; a vast array of TV stations are available from cable and satellite TV providers; state-owned national radio broadcasts over 3 networks; large number of private radio stations, especially in urban areas<br>
@@ -652,7 +652,7 @@ _key ports_: Burgas, Varna<br>
 
 **Military and security forces**<br>
 Bulgarian Armed Forces (aka Bulgarian Army): Land Forces, Air Force, Navy<br><br>Ministry of Interior: General Directorate National Police (GDNP), General Directorate Border Police (GDBP), Special Unit for Combating Terrorism (SOBT) (2025)<br>
-<strong>note 1: </strong>the Bulgarian military also has a Joint Special Operations Command, a Logistic Support Command, and a Communications and Information Support and Cyber Defence Command<br><strong><br>note 2:</strong> the GDNP includes the Gendarmerie, a special police force with military status deployed to secure important facilities, buildings and infrastructure, respond to riots, and counter militant threats<br>
+<strong>note:</strong> the GDNP includes the Gendarmerie, a special police force with military status deployed to secure important facilities, buildings and infrastructure, respond to riots, and counter militant threats<br>
 
 **Military expenditures**<br>
 2.1% of GDP (2025 est.)<br>
@@ -662,15 +662,15 @@ Bulgarian Armed Forces (aka Bulgarian Army): Land Forces, Air Force, Navy<br><br
 1.6% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 27,000 active-duty Armed Forces (17,000 Army; 3,000 Navy; 7,000 Air Force) (2024)<br>
+approximately 28,000 active duty Armed Forces  (2025)<br>
 <strong>note:</strong> in 2021, Bulgaria released a 10-year defense plan which called for an active military strength of 43,000<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists largely of Soviet-era equipment, although in recent years Bulgaria has procured some more modern Western weapons systems in an effort to modernize and achieve NATO interoperability (2024)<br>
+the military's inventory consists largely of Soviet-era armaments, although in recent years Bulgaria has procured some more modern Western weapons systems in an effort to modernize and achieve NATO interoperability (2025)<br>
 
 **Military service age and obligation**<br>
-18-40 years of age for voluntary military service; conscription ended in 2007; service obligation 6-9 months (2023)<br>
-<strong>note 1:</strong> in 2021, women comprised about 17% of the Bulgarian military's full-time personnel<br><br><strong>note 2:</strong> in 2020, Bulgaria announced a program to allow every citizen up to the age of 40 to join the armed forces for 6 months of military service in the voluntary reserve<br>
+18 years of age for voluntary service for men and women (2025)<br>
+<strong>note:</strong> in 2020, Bulgaria announced a program to allow every citizen up to the age of 40 to join the armed forces for 6 months of military service in the voluntary reserve<br>
 
 **Military deployments**<br>
 160 Kosovo (NATO/KFOR) (2025)<br>

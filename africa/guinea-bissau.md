@@ -106,21 +106,21 @@ _elderly dependency ratio_: 5.7 (2024 est.)<br>
 _potential support ratio_: 17.6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 18.4 years (2024 est.)<br>
+_total_: 18.5 years (2025 est.)<br>
 _male_: 17.8 years<br>
 _female_: 18.9 years<br>
 
 **Population growth rate**<br>
-2.54% (2024 est.)<br>
+2.55% (2025 est.)<br>
 
 **Birth rate**<br>
-36 births/1,000 population (2024 est.)<br>
+35.82 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.2 deaths/1,000 population (2024 est.)<br>
+6.99 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--3.5 migrant(s)/1,000 population (2024 est.)<br>
+-3.36 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 approximately one fifth of the population lives in the capital city of Bissau along the Atlantic coast; the remainder is distributed among the eight mainly rural regions, as shown in this population distribution map<br>
@@ -143,7 +143,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 505 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 46.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 45.1 deaths/1,000 live births (2025 est.)<br>
 _male_: 52 deaths/1,000 live births<br>
 _female_: 40.6 deaths/1,000 live births<br>
 
@@ -153,10 +153,10 @@ _male_: 62.2 years<br>
 _female_: 66.8 years<br>
 
 **Total fertility rate**<br>
-4.62 children born/woman (2024 est.)<br>
+4.59 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-2.28 (2024 est.)<br>
+2.26 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 73.1% of population (2022 est.)<br>
@@ -200,7 +200,7 @@ _female_: 0.5% (2025 est.)<br>
 18.8% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-56.7% (2023 est.)<br>
+59% (2019 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 8.1% (2019)<br>
@@ -593,7 +593,7 @@ _key ports_: Bissau, Rio Cacheu<br>
 ## Military and Security
 
 **Military and security forces**<br>
-People's Revolutionary Armed Force (Forcas Armadas Revolucionarias do Povo or FARP): Army, Navy, Air Force<br><br>Ministry of Internal Administration: National Guard (a gendarmerie force), Public Order Police, Border Police, Rapid Intervention Police, Maritime Police (2024)<br>
+People's Revolutionary Armed Force (Forcas Armadas Revolucionarias do Povo or FARP): Army, Navy, Air Force<br><br>Ministry of Internal Administration: National Guard (a gendarmerie force), Public Order Police, Border Police, Rapid Intervention Police, Maritime Police (2025)<br>
 <strong>note: </strong>the Public Order Police is responsible for maintaining law and order, while the Judicial Police, under the Ministry of Justice, has primary responsibility for investigating drug trafficking, terrorism, and other transnational crimes<br>
 
 **Military expenditures**<br>
@@ -607,10 +607,10 @@ People's Revolutionary Armed Force (Forcas Armadas Revolucionarias do Povo or FA
 estimated 4,000 active FARP (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FARP is outfitted mostly with Soviet-era weapons and equipment, along with a handful of secondhand items from France and Spain (2024)<br>
+the FARP is outfitted mostly with Soviet-era weapons and equipment (2025)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for selective compulsory military service for men and women (Air Force service is voluntary); 16 years of age or younger, with parental consent, for voluntary service (2023)<br>
+18-25 years of age for selective compulsory military service for men and women (Air Force service is voluntary) (2025)<br>
 
 **Military - note**<br>
 the Armed Forces (FARP) are focused on external security, but also has some internal security duties; the FARP and the paramilitary National Guard have been influential in the country&rsquo;s politics since independence and have attempted several coups; since the 2000s, the FARP has undergone various attempts at defense and security sector reforms under the auspices of the African Union, the EU, the Economic Community of West Africa (ECOWAS), and the UN (2025)<br>

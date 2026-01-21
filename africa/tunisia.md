@@ -109,21 +109,21 @@ _elderly dependency ratio_: 16 (2024 est.)<br>
 _potential support ratio_: 6.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 34.4 years (2024 est.)<br>
+_total_: 34.1 years (2025 est.)<br>
 _male_: 33.6 years<br>
 _female_: 35.1 years<br>
 
 **Population growth rate**<br>
-0.58% (2024 est.)<br>
+0.38% (2025 est.)<br>
 
 **Birth rate**<br>
-13.5 births/1,000 population (2024 est.)<br>
+11.35 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.4 deaths/1,000 population (2024 est.)<br>
+6.4 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1.3 migrant(s)/1,000 population (2024 est.)<br>
+-1.16 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the overwhelming majority of the population is located in the northern half of the country; the south remains largely underpopulated, as shown in this population distribution map<br>
@@ -146,7 +146,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 36 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 10.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 12.7 deaths/1,000 live births<br>
 _female_: 9.8 deaths/1,000 live births<br>
 
@@ -156,10 +156,10 @@ _male_: 75.7 years<br>
 _female_: 79.1 years<br>
 
 **Total fertility rate**<br>
-1.93 children born/woman (2024 est.)<br>
+1.59 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.94 (2024 est.)<br>
+0.77 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.8% of population (2022 est.)<br>
@@ -206,7 +206,7 @@ _female_: 1.4% (2025 est.)<br>
 1.6% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-53.9% (2023 est.)<br>
+52.5% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0% (2018)<br>
@@ -668,14 +668,14 @@ Tunisian Armed Forces (Forces Armées Tunisiennes, FAT): Tunisian Army (includes
 approximately 35,000 active-duty Armed Forces (25,000 Army; 5,000 Navy; 5,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Tunisian military's inventory consists mostly of older or second-hand equipment from a wide variety of suppliers, including Brazil, China, Turkey, and the US, as well as several European countries, such as France, Germany, and Italy (2024)<br>
+the Tunisian military's inventory consists mostly of older or secondhand equipment from a variety of suppliers, including Austria, France, Italy, T&uuml;rkiye, and the US (2025)<br>
 
 **Military service age and obligation**<br>
 18-23 years of age for voluntary service for men and women; 20-23 years of age for compulsory (national) service for men with a 12-month service obligation; individuals engaged in higher education or vocational training programs prior to their military drafting are allowed to delay service until they have completed their programs (up to age 35); exemptions allowed for males considered to a family's sole provider (2023)<br>
 <strong>note:</strong> women have been allowed in the service since 1975 as volunteers; as of 2023, women constituted about 8% of the military and served in all three services<br>
 
 **Military deployments**<br>
-775 Central African Republic (MINUSCA) (2024)<br>
+840 Central African Republic (MINUSCA) (2025)<br>
 
 **Military - note**<br>
 the Tunisian Armed Forces (FAT) are responsible for territorial defense and internal security; operational areas of focus include counterterrorism and assisting with securing the border regions, particularly along the frontiers with Algerian and Libya<br> <br>the FAT conducts bilateral and multinational training exercises with a variety of countries, including Algeria and other North African and Middle Eastern countries, France, and the US, as well as NATO; it also participates in UN peacekeeping operations; Tunisia has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2025)<br>
@@ -692,5 +692,5 @@ Ansar al-Sharia in Tunisia; Islamic State of Iraq and ash-Sham (ISIS) network in
 _refugees_: 12,575 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Tunisia was downgraded to Tier 2 Watch List; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report-174/<br>
+_tier rating_: Tier 2 Watch List — the government did not demonstrate overall increasing efforts to eliminate trafficking compared with the previous reporting period, therefore Tunisia was downgraded to Tier 2 Watch List; for more details, go to:<br>https://www.state.gov/reports/2025-trafficking-in-persons-report/tunisia<br>
 

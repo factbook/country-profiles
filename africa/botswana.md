@@ -113,21 +113,21 @@ _elderly dependency ratio_: 9.3 (2024 est.)<br>
 _potential support ratio_: 10.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 27.1 years (2024 est.)<br>
+_total_: 25.8 years (2025 est.)<br>
 _male_: 26 years<br>
 _female_: 28.3 years<br>
 
 **Population growth rate**<br>
-1.34% (2024 est.)<br>
+1.32% (2025 est.)<br>
 
 **Birth rate**<br>
-19.6 births/1,000 population (2024 est.)<br>
+21.16 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.9 deaths/1,000 population (2024 est.)<br>
+6.8 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-2.7 migrant(s)/1,000 population (2024 est.)<br>
+-1.14 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the population is primarily concentrated in the east, with a focus in and around the capital of Gaborone and the eastern city of Francistown; population density remains low in other areas in the country, especially in the Kalahari Desert to the west.<br>
@@ -150,7 +150,7 @@ _total population_: 0.92 male(s)/female (2024 est.)<br>
 155 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 23.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 27.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 25.9 deaths/1,000 live births<br>
 _female_: 21.4 deaths/1,000 live births<br>
 
@@ -160,10 +160,10 @@ _male_: 64.4 years<br>
 _female_: 68.6 years<br>
 
 **Total fertility rate**<br>
-2.34 children born/woman (2024 est.)<br>
+2.73 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.15 (2024 est.)<br>
+1.34 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 97.5% of population (2022 est.)<br>
@@ -207,7 +207,7 @@ _male_: 29.2% (2025 est.)<br>
 _female_: 5.5% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-45% (2023 est.)<br>
+41.5% (2017 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 8.1% of GDP (2020 est.)<br>
@@ -582,8 +582,8 @@ _total subscriptions_: 90,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.44 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 165 (2022 est.)<br>
+_total subscriptions_: 4,440,310 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 164 (2024 est.)<br>
 
 **Broadcast media**<br>
 2 TV stations, 1 state-owned and 1 privately owned; privately owned satellite TV subscription service is available; 2 state-owned national radio stations; 4 privately owned radio stations broadcast locally (2019)<br>
@@ -627,10 +627,10 @@ Botswana Defense Force (BDF): Ground Forces Command, Air Arm Command, Defense Lo
 estimated 10,000 active Botswana Defense Force (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the BDF has a mix of mostly older weapons and equipment, largely of Western/European origin; in recent years, it has received limited amounts of material from several European countries and the US (2024)<br>
+the BDF has a mix of mostly older weapons and equipment, largely of Western/European origin; in recent years, it has received limited amounts of newer armaments from several European countries and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service for men and women; no conscription (2025)<br>
+18-24 years of age (men and women) for general recruits and officer candidates; 18-40 for special entrant officers; no conscription (2025)<br>
 
 **Military - note**<br>
 the key responsibilities of the Botswana Defense Force (BDF) are defending the country's sovereignty and territorial integrity on land and in the air, ensuring national security and stability, and aiding civil authorities in support of domestic missions such as disaster relief and anti-poaching; the BDF also participates in regional and international security operations<br><br>Bechuanaland/Botswana did not have a permanent military during colonial times, with the British colonial administrators relying instead on small, lightly armed constabularies such as the Bechuanaland Mounted Police, the Bechuanaland Border Police, and by the early 1960s, the Police Mobile Unit (PMU); after independence in 1966, Botswana militarized the PMU and gave it responsibility for the country’s defense rather than create a conventional military force; however, turmoil in neighboring countries and numerous cross-border incursions by Rhodesian and South African security forces in the 1960s and 1970s demonstrated that the PMU was inadequate for defending the country and led to the establishment of the BDF in 1977 (2025)<br>

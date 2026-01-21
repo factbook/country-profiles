@@ -126,21 +126,21 @@ _elderly dependency ratio_: 27 (2024 est.)<br>
 _potential support ratio_: 3.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 41.9 years (2024 est.)<br>
+_total_: 42.3 years (2025 est.)<br>
 _male_: 39.4 years<br>
 _female_: 44.5 years<br>
 
 **Population growth rate**<br>
--0.49% (2024 est.)<br>
+-0.49% (2025 est.)<br>
 
 **Birth rate**<br>
-8.4 births/1,000 population (2024 est.)<br>
+8.27 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-14 deaths/1,000 population (2024 est.)<br>
+13.93 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0.8 migrant(s)/1,000 population (2024 est.)<br>
+0.76 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population is heavily concentrated in the westernmost fifth of the country, extending from the Baltic Sea south to the Caspian Sea, and eastward parallel to the Kazakh border; elsewhere, sizeable population pockets are isolated and generally found in the south<br>
@@ -166,7 +166,7 @@ _total population_: 0.87 male(s)/female (2024 est.)<br>
 9 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.5 deaths/1,000 live births (2024 est.)<br>
+_total_: 6.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 7.2 deaths/1,000 live births<br>
 _female_: 5.8 deaths/1,000 live births<br>
 
@@ -176,10 +176,10 @@ _male_: 67.4 years<br>
 _female_: 77.4 years<br>
 
 **Total fertility rate**<br>
-1.52 children born/woman (2024 est.)<br>
+1.52 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.74 (2024 est.)<br>
+0.74 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.9% of population (2022 est.)<br>
@@ -223,7 +223,7 @@ _male_: 40.2% (2025 est.)<br>
 _female_: 15.1% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-53.1% (2023 est.)<br>
+57.6% (2021 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.3% (2017)<br>
@@ -700,7 +700,7 @@ _key ports_: Arkhangels'k, De Kastri, Dudinka, Kaliningrad, Murmansk, Novorossiy
 
 **Military and security forces**<br>
 Armed Forces of the Russian Federation: Ground Forces (SV), Aerospace Forces (VKS), Navy (VMF); separate or independent troop branches include the Airborne Forces (VDV), Missile Troops of Strategic Purpose (RVSN; commonly to as Strategic Rocket Forces), Special Operations Forces, and Unmanned Systems Forces <br><br>Federal National Guard Troops Service of the Russian Federation (FSVNG, National Guard, Russian Guard, or Rosgvardiya)<br><br>Federal Security Services (FSB): Federal Border Guard Service (includes land and maritime forces) (2025)<br>
-<strong>note 1: </strong>the Unmanned Systems Forces were established in 2025<br><br><strong>note 2:</strong> the National Guard was created in 2016 as an independent agency for internal/regime security, combating terrorism and narcotics trafficking, protecting important state facilities and government personnel, and supporting border security; it also works closely with the Armed Forces; forces under the National Guard include the Special Purpose Mobile Units (OMON), Special Rapid Response Detachment (SOBR), and Interior Troops (VV)<br><br><strong>note 3:</strong> the Ministry of Internal Affairs, Federal Security Service, Investigative Committee, Office of the Prosecutor General, and National Guard are responsible for law enforcement; the Federal Security Service is responsible for state security, counterintelligence, and counterterrorism, as well as for fighting organized crime and corruption; the Ministry of Internal Affairs includes the national police force<br>
+<strong>note 1:</strong> the National Guard was created in 2016 as an independent agency for internal/regime security, combating terrorism and narcotics trafficking, protecting important state facilities and government personnel, and supporting border security; it also works closely with the Armed Forces; forces under the National Guard include the Special Purpose Mobile Units (OMON), Special Rapid Response Detachment (SOBR), and Interior Troops (VV)<br><br><strong>note 2:</strong> the Ministry of Internal Affairs, Federal Security Service, Investigative Committee, Office of the Prosecutor General, and National Guard are responsible for law enforcement; the Federal Security Service is responsible for state security, counterintelligence, and counterterrorism, as well as for fighting organized crime and corruption; the Ministry of Internal Affairs includes the national police force<br>
 
 **Military expenditures**<br>
 7% of GDP (2024 est.)<br>
@@ -714,11 +714,11 @@ estimated 1.1-1.2 million active Armed Forces; estimated 350,000 Federal Nationa
 <strong>note:</strong> in September 2024, President PUTIN ordered the Russian military to increase in size to 1.5 million personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Russian Federation's military and paramilitary services are equipped with domestically produced weapons systems, although in recent years Russia has imported considerable amounts of military hardware from external suppliers such as Iran and North Korea; the Russian defense industry is capable of designing, developing, and producing a full range of advanced air, land, missile, and naval systems; Russia is the world's second largest exporter of military hardware (2024)<br>
+the Russian Federation's military and paramilitary services are equipped with domestically produced weapons systems, although in recent years Russia has imported military hardware from external suppliers such as Iran and North Korea to support its war on Ukraine; the Russian defense industry is capable of producing a full range of advanced air, land, missile, and naval systems; Russia is one of the world's largest exporters of military hardware (2025)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for compulsory service for men; 18-40 for voluntary/contractual service; women and non-Russian citizens (18-30) may volunteer; 12-month service obligation (Russia offers the option of serving on a 24-month contract instead of completing a 12-month conscription period) (2024)<br>
-<strong>note 1:</strong> in 2022, Russia's parliament approved a law removing the upper age limit for contractual service in the military; also in 2022, President Vladimir PUTIN signed a decree allowing dual-national Russians and those with permanent residency status in foreign countries to be drafted into the army for military service<br><br><strong>note 2: </strong>historically, the Russian military has taken in about 260,000 conscripts each year in two semi-annual drafts (Spring and Fall)<br><br><strong>note 3:</strong> prior to the full-scale invasion of Ukraine in 2022, approximately 40-45,000 women served in the Russian Armed Forces<br><br><strong>note 4:</strong> since 2015, foreigners 18-30 with a good command of Russian have been allowed to join the military on five-year contracts and become eligible for Russian citizenship after serving three years; in October 2022, the Interior Ministry opened up recruitment centers for foreigners to sign a one-year service contract with the armed forces, other troops, or military formations participating in the invasion of Ukraine with the promise of simplifying the process of obtaining Russian citizenship<br>
+18-30 years of age for compulsory service for men; 18-65 years of age for voluntary/contractual service; women and non-Russian citizens (18-30) may volunteer; minimum 12-month service obligation (2025)<br>
+<strong>note 1:</strong> in 2022, Russia removed the previous upper age limit of 30 for contractual service in the military; that same year, began drafting dual-national Russians and those with permanent residency status in foreign countries for military service<br><br><strong>note 2:</strong> since 2015, foreigners 18-30 with a good command of Russian have been allowed to join the military on five-year contracts and become eligible for Russian citizenship after serving three years; in 2022, Russia began recruiting foreigners for one-year service contracts with armed forces participating in the invasion of Ukraine with the promise of simplifying the process of obtaining Russian citizenship<br>
 
 **Military deployments**<br>
 estimated 600,000 in Ukraine; more than 20,000 additional military personnel deployed in former Soviet states and elsewhere, including Armenia, Belarus, Georgia, Kyrgyzstan, Libya, Moldova, Syria, sub-Saharan Africa, and Tajikistan (2025)<br>

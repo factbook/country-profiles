@@ -115,21 +115,21 @@ _elderly dependency ratio_: 14.1 (2024 est.)<br>
 _potential support ratio_: 7.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 34 years (2024 est.)<br>
+_total_: 34.4 years (2025 est.)<br>
 _male_: 33.4 years<br>
 _female_: 34.6 years<br>
 
 **Population growth rate**<br>
-0.61% (2024 est.)<br>
+0.59% (2025 est.)<br>
 
 **Birth rate**<br>
-13.8 births/1,000 population (2024 est.)<br>
+13.56 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.1 deaths/1,000 population (2024 est.)<br>
+6.19 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1.5 migrant(s)/1,000 population (2024 est.)<br>
+-1.51 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the most densely populated area is found around the Bosporus in the northwest, where 20% of the population lives in Istanbul; with the exception of Ankara, urban centers remain small and scattered throughout the interior of Anatolia; an overall pattern of peripheral development exists, particularly along the Aegean Sea coast in the west, and the Tigris and Euphrates River systems in the southeast<br>
@@ -155,7 +155,7 @@ _total population_: 1.01 male(s)/female (2024 est.)<br>
 15 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 17.9 deaths/1,000 live births (2025 est.)<br>
 _male_: 19.9 deaths/1,000 live births<br>
 _female_: 16.7 deaths/1,000 live births<br>
 
@@ -165,10 +165,10 @@ _male_: 74.4 years<br>
 _female_: 79.2 years<br>
 
 **Total fertility rate**<br>
-1.9 children born/woman (2024 est.)<br>
+1.88 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.92 (2024 est.)<br>
+0.92 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 97.3% of population (2022 est.)<br>
@@ -215,7 +215,7 @@ _female_: 20.1% (2025 est.)<br>
 1.5% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-65.4% (2023 est.)<br>
+59.6% (2021 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 2% (2018)<br>
@@ -676,7 +676,7 @@ Turkish Armed Forces (TAF; Türk Silahlı Kuvvetleri, TSK): Turkish Land Forces 
 approximately 495,000 active military personnel; approximately 150,000 Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised of domestically produced, European (particularly from Germany), and US weapons and equipment, as well as some Chinese, Russian, and South Korean acquisitions; it is a mix of older and modern weapons systems; T&uuml;rkiye has a defense industry capable of producing a range of weapons systems for both export and internal use, including armored vehicles, naval vessels, and unmanned aerial vehicles/drones; T&uuml;rkiye's defense industry also partners with other countries for defense production (2024)<br>
+the military's inventory is comprised of domestically produced and mostly European (such as Germany, Italy, and Spain) or US armaments; other suppliers have included Russia and South Korea; T&uuml;rkiye's defense industry produces a range of weapons systems for both export and internal use, including armored vehicles, naval vessels, and unmanned aerial vehicles/drones; some of its domestically produced armaments are produced jointly with foreign partners or based on imported weapons systems and produced under license (2025)<br>
 
 **Military service age and obligation**<br>
 mandatory military service for men at age 20; service can be delayed if in university or in certain professions (researchers, professionals, and athletic, or those with artistic talents have the right to postpone military service until the age of 35); 6-12 months service; women may volunteer (2023)<br>
@@ -687,7 +687,7 @@ approximately 200 Azerbaijan; approximately 250 Bosnia-Herzegovina (EUFOR); appr
 <strong>note:</strong> Turkey estimated to maintain several thousand military forces in both Iraq and Syria<br>
 
 **Military - note**<br>
-the responsibilities of the Turkish Armed Forces (TAF) include protecting the country's territory and sovereignty, participating in international peacekeeping operations, fulfilling Türkiye’s military commitments to NATO, providing disaster/humanitarian relief and assistance to domestic law enforcement if requested by civil authorities, and supporting the country's overall national security interests; it also has overall responsibility for the security of Türkiye’s borders<br><br>Türkiye is active in international peacekeeping and other military/security operations under NATO and the UN, as well as under bilateral agreements with some countries, such as Azerbaijan, Libya, Somalia, and Qatar; Türkiye has been a member of NATO since 1952 and hosts the headquarters for a NATO Land Command and a Rapid Deployment Corps, multiple airbases for NATO and US aircraft, NATO air/missile defense systems, and training centers; the TAF is the second-largest military in NATO behind the US<br><br>the military traces its history back to 200 B.C., although the modern TAF was formed following the collapse of the Ottoman Empire at the conclusion of the Turkish War of Independence (1919-1923); the TAF traditionally has been viewed as the “guardian” of Turkish politics, but its political role was diminished after the failed 2016 coup attempt; the military has a stake in Türkiye's economy through a holding company that is involved in the automotive, energy, finance, and logistics sectors, as well as iron and steel production (2025)<br>
+the responsibilities of the Turkish Armed Forces (TAF) include protecting the country's territory and sovereignty, participating in international peacekeeping operations, fulfilling Türkiye’s military commitments to NATO, providing disaster/humanitarian relief and assistance to domestic law enforcement if requested by civil authorities, and supporting the country's overall national security interests; it also has overall responsibility for the security of Türkiye’s borders<br><br>Türkiye is active in international peacekeeping and other military/security operations under NATO and the UN, as well as under bilateral agreements with some countries, such as Azerbaijan, Libya, Somalia, and Qatar; Türkiye has been a member of NATO since 1952 and hosts the headquarters for a NATO Land Command and a Rapid Deployment Corps, multiple airbases for NATO and US aircraft, NATO air/missile defense systems, and training centers; the TAF is the second-largest military in NATO behind the US<br><br>the military traces its history back to 200 B.C., although the modern TAF was formed following the collapse of the Ottoman Empire at the conclusion of the Turkish War of Independence (1919-1923); the TAF traditionally has been viewed as the “guardian” of Turkish politics, but its political role was diminished after the failed 2016 coup attempt; the military has a stake in Türkiye's economy through a holding company that is involved in the automotive, defense, energy, finance, and logistics sectors, as well as iron and steel production (2025)<br>
 
 ## Space
 
@@ -695,7 +695,7 @@ the responsibilities of the Turkish Armed Forces (TAF) include protecting the co
 Turkish Space Agency (TUA; established 2018) (2025)<br>
 
 **Space launch site(s)**<br>
-rocket test launch site on the Black Sea in Sinop Province; constructing a rocket launch facility in Somalia as of 2025 (2025)<br>
+rocket test launch site on the Black Sea in Sinop Province; constructing a rocket launch facility in Somalia (2025)<br>
 
 **Space program overview**<br>
 has an ambitious national space program with a focus on satellites, satellite components, satellite launch capabilities, software development, ground station technologies, and building up the country&rsquo;s space industries; manufactures and operates remote sensing and telecommunications satellites; in recent years has initiated a satellite/space launch vehicle (SLV) program with the goal of independently placing satellites into orbit and a probe on the Moon; works with more than 25 foreign space agencies and corporations, including those of Azerbaijan, China, France, India, Japan, Kazakhstan, Pakistan, Russia, South Korea, Ukraine, and the US, as well as the ESA; has state-owned rocket and satellite development companies, including some under the Ministry of Defense; has a growing private space-industry sector, and the Turkish Government has pledged to increase the country's share of the global space market (2025)<br>

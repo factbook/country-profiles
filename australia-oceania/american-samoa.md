@@ -101,21 +101,21 @@ _elderly dependency ratio_: 13.1 (2024 est.)<br>
 _potential support ratio_: 7.6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 30 years (2024 est.)<br>
+_total_: 30.6 years (2025 est.)<br>
 _male_: 29.4 years<br>
 _female_: 30.6 years<br>
 
 **Population growth rate**<br>
--1.54% (2024 est.)<br>
+-1.33% (2025 est.)<br>
 
 **Birth rate**<br>
-15.7 births/1,000 population (2024 est.)<br>
+15.3 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.3 deaths/1,000 population (2024 est.)<br>
+6.4 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--24.8 migrant(s)/1,000 population (2024 est.)<br>
+-22.23 migrant(s)/1,000 population (2025 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 87.2% of total population (2023)<br>
@@ -132,7 +132,7 @@ _65 years and over_: 0.88 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 9.5 deaths/1,000 live births (2025 est.)<br>
 _male_: 11.7 deaths/1,000 live births<br>
 _female_: 7.6 deaths/1,000 live births<br>
 
@@ -142,10 +142,10 @@ _male_: 73.4 years<br>
 _female_: 78.5 years<br>
 
 **Total fertility rate**<br>
-2.06 children born/woman (2024 est.)<br>
+1.99 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1 (2024 est.)<br>
+0.96 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 99.8% of population<br>
@@ -156,7 +156,7 @@ _improved: total_: total: 98.5% of population (2022 est.)<br>
 _unimproved: total_: total: 1.5% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-53.5% (2023 est.)<br>
+47.4% (2020 est.)<br>
 
 ## Environment
 
@@ -358,8 +358,8 @@ _total subscriptions_: 10,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 20 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,250 (2009 est.)<br>
-_subscriptions per 100 inhabitants_: 4 (2009 est.)<br>
+_total subscriptions_: 2,250 (2004 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2004 est.)<br>
 
 **Broadcast media**<br>
 3 TV stations; multi-channel pay TV services are available; about a dozen radio stations, some of which are repeater stations<br>

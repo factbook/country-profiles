@@ -101,21 +101,21 @@ _elderly dependency ratio_: 30.1 (2024 est.)<br>
 _potential support ratio_: 3.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 36.8 years (2024 est.)<br>
+_total_: 37 years (2025 est.)<br>
 _male_: 36.9 years<br>
 _female_: 36.8 years<br>
 
 **Population growth rate**<br>
-0.63% (2024 est.)<br>
+0.62% (2025 est.)<br>
 
 **Birth rate**<br>
-14.9 births/1,000 population (2024 est.)<br>
+14.76 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.6 deaths/1,000 population (2024 est.)<br>
+8.58 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2024 est.)<br>
+0 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the island of Streymoy is by far the most populous with over 40% of the population; it has approximately twice as many inhabitants as Eysturoy, the second most populous island; seven of the inhabited islands have fewer than 100 people<br>
@@ -135,7 +135,7 @@ _65 years and over_: 0.93 male(s)/female<br>
 _total population_: 1.07 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 5.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 6.3 deaths/1,000 live births<br>
 _female_: 5.1 deaths/1,000 live births<br>
 
@@ -145,10 +145,10 @@ _male_: 79.2 years<br>
 _female_: 84.4 years<br>
 
 **Total fertility rate**<br>
-2.27 children born/woman (2024 est.)<br>
+2.26 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.09 (2024 est.)<br>
+1.09 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: NA<br>
@@ -162,7 +162,7 @@ _unimproved: total_: total: 0% of population (2022 est.)<br>
 2.62 physicians/1,000 population (2016)<br>
 
 **Currently married women (ages 15-49)**<br>
-34.8% (2023 est.)<br>
+52.3% (2021 est.)<br>
 
 **Education expenditure**<br>
 7.6% of GDP (2019 est.)<br>
@@ -259,7 +259,7 @@ _highest court(s)_: Faroese Court or Raett (Rett in Danish) decides both civil a
 _subordinate courts_: Court of the First Instance or Tribunal de Premi&egrave;re Instance; Court of Administrative Law or Tribunal Administratif; Mixed Commercial Court; Land Court<br>
 
 **Political parties**<br>
-Center Party or H (Midflokkurin) <br>People's Party or A (Folkaflokkurin) <br>Progress Party or F (Framsokn) <br>Republic or E (Tjodveldi)  (formerly the Republican Party)<br>Self-Government Party or D (Sjalvstyri or Sjalvstyrisflokkurin) <br>Social Democratic Party or JF (Javnadarflokkurin) or JF <br>Union Party or B (Sambandsflokkurin) <br>
+Center Party or H (Midflokkurin) <br>People's Party or A (Folkaflokkurin) <br>Progress Party or F (Framsokn) <br>Republic or E (Tjodveldi)  (formerly the Republican Party)<br>Social Democratic Party or JF (Javnadarflokkurin) or JF <br>Union Party or B (Sambandsflokkurin)<br>
 
 **Diplomatic representation in the US**<br>
 none (self-governing overseas administrative division of Denmark)<br>
@@ -407,8 +407,8 @@ _total subscriptions_: 15,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 28 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 59,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 112 (2021 est.)<br>
+_total subscriptions_: 57,146 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 106 (2022 est.)<br>
 
 **Broadcast media**<br>
 1 publicly owned TV station; the Faroese telecommunications company distributes local and international channels through its digital terrestrial network; publicly owned radio station supplemented by 3 privately owned stations broadcasting over multiple frequencies<br>

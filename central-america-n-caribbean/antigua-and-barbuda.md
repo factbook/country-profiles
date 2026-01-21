@@ -105,21 +105,21 @@ _elderly dependency ratio_: 15.6 (2024 est.)<br>
 _potential support ratio_: 6.4 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 33.9 years (2024 est.)<br>
+_total_: 34.1 years (2025 est.)<br>
 _male_: 31.9 years<br>
 _female_: 35.7 years<br>
 
 **Population growth rate**<br>
-1.11% (2024 est.)<br>
+1.09% (2025 est.)<br>
 
 **Birth rate**<br>
-14.9 births/1,000 population (2024 est.)<br>
+14.7 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.7 deaths/1,000 population (2024 est.)<br>
+5.77 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-2 migrant(s)/1,000 population (2024 est.)<br>
+1.97 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the island of Antigua is home to approximately 97% of the population; nearly the entire population of Barbuda lives in Codrington<br>
@@ -142,7 +142,7 @@ _total population_: 0.89 male(s)/female (2024 est.)<br>
 35 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 13.6 deaths/1,000 live births (2024 est.)<br>
+_total_: 13.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 16.4 deaths/1,000 live births<br>
 _female_: 10.7 deaths/1,000 live births<br>
 
@@ -152,10 +152,10 @@ _male_: 76.1 years<br>
 _female_: 80.5 years<br>
 
 **Total fertility rate**<br>
-1.93 children born/woman (2024 est.)<br>
+1.92 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.94 (2024 est.)<br>
+0.94 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.4% of population (2022 est.)<br>
@@ -192,9 +192,6 @@ _beer_: 2.97 liters of pure alcohol (2019 est.)<br>
 _wine_: 3.95 liters of pure alcohol (2019 est.)<br>
 _spirits_: 4.55 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.41 liters of pure alcohol (2019 est.)<br>
-
-**Currently married women (ages 15-49)**<br>
-31.5% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.1% of GDP (2023 est.)<br>
@@ -499,8 +496,8 @@ _total subscriptions_: 27,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 29 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 184,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 197 (2021 est.)<br>
+_total subscriptions_: 186,182 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 201 (2022 est.)<br>
 
 **Broadcast media**<br>
 state-controlled Antigua and Barbuda Broadcasting Service (ABS) operates 1 TV station; multi-channel cable TV subscription services are available; ABS operates 1 radio station; roughly 20 radio stations (2024)<br>

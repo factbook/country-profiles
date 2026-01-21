@@ -115,21 +115,21 @@ _elderly dependency ratio_: 12.7 (2024 est.)<br>
 _potential support ratio_: 7.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 30.6 years (2024 est.)<br>
+_total_: 30.9 years (2025 est.)<br>
 _male_: 30.1 years<br>
 _female_: 31 years<br>
 
 **Population growth rate**<br>
-0.84% (2024 est.)<br>
+0.81% (2025 est.)<br>
 
 **Birth rate**<br>
-16.8 births/1,000 population (2024 est.)<br>
+16.5 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.6 deaths/1,000 population (2024 est.)<br>
+6.66 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1.7 migrant(s)/1,000 population (2024 est.)<br>
+-1.7 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the highest population density is found along the Atlantic and Mediterranean coasts; a number of densely populated agglomerations are scattered through the Atlas Mountains, as shown in this population distribution map<br>
@@ -153,7 +153,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 70 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 17.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 20.4 deaths/1,000 live births<br>
 _female_: 16 deaths/1,000 live births<br>
 
@@ -163,10 +163,10 @@ _male_: 72.5 years<br>
 _female_: 76 years<br>
 
 **Total fertility rate**<br>
-2.25 children born/woman (2024 est.)<br>
+2.24 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.1 (2024 est.)<br>
+1.09 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.8% of population (2022 est.)<br>
@@ -214,7 +214,7 @@ _female_: 0.9% (2025 est.)<br>
 3% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-58.8% (2023 est.)<br>
+58% (2018 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.5% (2018)<br>
@@ -380,7 +380,7 @@ _email address and website_: <br>washingtonembmorocco@maec.gov.ma<br><br>Embassy
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador-designate Richard Duke BUCHAN III; Charg&eacute; d'Affaires Ben ZIFF (since 28 August 2025)<br>
+_chief of mission_: Ambassador-designate Richard Duke BUCHAN III (since 3 December 2025)<br>
 _embassy_: Km 5.7 Avenue Mohammed VI, Souissi, Rabat 10170<br>
 _mailing address_: 9400 Rabat Place, Washington DC&nbsp; 20521-9400<br>
 _telephone_: [212] 0537-637-200<br>
@@ -662,7 +662,7 @@ _key ports_: Agadir, Casablanca, Tanger, Tangier-Mediterranean<br>
 
 **Military and security forces**<br>
 Royal Moroccan Armed Forces (FAR): Royal Moroccan Army (includes the Moroccan Royal Guard), Royal Moroccan Navy (includes Coast Guard, marines), Royal Moroccan Air Force, Moroccan Royal Guard, Royal Moroccan Gendarmerie<br><br>Ministry of Interior: General Directorate for National Security (DGSN; aka National Police), Auxiliary Forces (2025)<br>
-<strong>note 1:</strong> the Royal Guard is officially part of the Army, but is under the direct operational control of the Royal Military Household of His Majesty the King; it provides for the security and safety of the King and royal family; it was established in the 11th century and is considered one of the world's oldest active units still in military service<strong><br><br></strong><strong>note 2:  </strong>the DGSN manages internal law enforcement in cities; the Gendarmerie is responsible for law enforcement in rural regions and on national highways and has a counterterrorism role; the Auxiliary Forces provide support to the Gendarmerie and DGSN <br>
+<strong>note 1:</strong> the Royal Guard is officially part of the Army but is under the direct operational control of the Royal Military Household of His Majesty the King; it provides for the security and safety of the King and royal family; it was established in the 11th century and is considered one of the world's oldest active units still in military service<strong><br><br></strong><strong>note 2:  </strong>the DGSN manages internal law enforcement in cities; the Gendarmerie is responsible for law enforcement in rural regions and on national highways and has a counterterrorism role; the Auxiliary Forces provide support to the Gendarmerie and DGSN <br>
 
 **Military expenditures**<br>
 4% of GDP (2024 est.)<br>
@@ -675,13 +675,13 @@ Royal Moroccan Armed Forces (FAR): Royal Moroccan Army (includes the Moroccan Ro
 estimated 220,000 active Armed Forces (175,000 Army; 10,000 Navy; 15,000 Air Force, 20,000 Gendarmerie) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Moroccan military's inventory is comprised of mostly older French and US equipment, although in recent years it has embarked on a modernization program and received quantities of more modern equipment from a variety of countries, particularly France, Spain, and the US (2024)<br>
+the Moroccan military's inventory is mostly a mix of older and some more modern armaments from France and the US (2025)<br>
 
 **Military service age and obligation**<br>
-19-25 years of age for 12-month compulsory and voluntary military service for men and women (conscription abolished 2006 and reintroduced in 2019) (2023)<br>
+19-25 years of age for 12-month compulsory and voluntary military service for men and women (2025)<br>
 
 **Military deployments**<br>
-770 Central African Republic (MINUSCA); 930 Democratic Republic of the Congo (MONUSCO) (2024)<br>
+775 Central African Republic (MINUSCA); 890 Democratic Republic of the Congo (MONUSCO)&nbsp; (2025)<br>
 
 **Military - note**<br>
 the Royal Armed Forces (FAR) are responsible for protecting Morocco’s national interests, sovereignty, and territorial integrity; key areas of concern for the FAR include international terrorism, maritime security, and regional challenges such as the Polisario Front in Western Sahara and Algeria; the Polisario Front (Popular Front for the Liberation of Saguia el Hamra and Rio de Oro), an organization that seeks the independence of Western Sahara, disputes Morocco’s claim of sovereignty over the territory; Moroccan and Polisario forces fought intermittently from 1975, when Spain relinquished colonial authority over the territory, until a 1991 cease-fire and the establishment of a UN peacekeeping mission; the Polisario withdrew from the cease-fire in November 2020, and since then there have been reports of low-intensity hostilities between Morocco and the Polisario Front across the 2,500-kilometer-long berm built in 1987 that separates the two sides; Algeria is seen as a regional rival and has openly backed the Polisario Front<br><br>the FAR participates in international peacekeeping operations, as well as both bilateral and multinational training exercises; it has relations with a variety of partners including the militaries of France, Qatar, Saudi Arabia, Spain, and the US, as well as NATO, the Arab League, and the African Union; Morocco has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the FAR was created in May 1956; Moroccans were recruited for service in the Spahi and Tirailleur regiments of the French Army during the period of the French protectorate (1912-1956), and Moroccans fought under the French Army during both World Wars, as well as the First Indochina War (1946-1954); the Spanish Army recruited Moroccans from the Spanish Protectorate during both the Rif War (1921-26) and the Spanish Civil War (1936-39)<br><br>the UN Mission for the Referendum in Western Sahara (MINURSO) was established by Security Council resolution 690 in April 1991 in accordance with settlement proposals accepted in August 1988 by Morocco and the Polisario Front; MINURSO was unable to carry out all the original settlement proposals, but continues to monitor the cease-fire and reduce the threat of mines and unexploded ordnance, and has provided logistic support to the Office of the UN High Commissioner for Refugees (UNHCR) (2025)<br>

@@ -125,21 +125,21 @@ _potential support ratio_: 4.8 (2024 est.)<br>
 <strong>note:</strong> data do not include Hong Kong, Macau, and Taiwan<br>
 
 **Median age**<br>
-_total_: 40.2 years (2024 est.)<br>
+_total_: 40.8 years (2025 est.)<br>
 _male_: 39 years<br>
 _female_: 41.5 years<br>
 
 **Population growth rate**<br>
-0.23% (2024 est.)<br>
+-0.08% (2025 est.)<br>
 
 **Birth rate**<br>
-10.2 births/1,000 population (2024 est.)<br>
+7.28 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.7 deaths/1,000 population (2024 est.)<br>
+7.97 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.1 migrant(s)/1,000 population (2024 est.)<br>
+-0.11 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 overwhelming majority of the population is found in the eastern half of the country; the west, with its vast mountainous and desert areas, remains sparsely populated; though ranked first in the world in total population, overall density is less than that of many Asian and European countries; high population density is found along the Yangtze and Yellow River valleys, the Xi Jiang River delta, the Sichuan Basin (around Chengdu), in and around Beijing, and the industrial area around Shenyang<br>
@@ -163,7 +163,7 @@ _total population_: 1.04 male(s)/female (2024 est.)<br>
 16 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.2 deaths/1,000 live births (2024 est.)<br>
+_total_: 6 deaths/1,000 live births (2025 est.)<br>
 _male_: 6.7 deaths/1,000 live births<br>
 _female_: 5.7 deaths/1,000 live births<br>
 
@@ -173,10 +173,10 @@ _male_: 76 years<br>
 _female_: 81.7 years<br>
 
 **Total fertility rate**<br>
-1.55 children born/woman (2024 est.)<br>
+1.2 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.74 (2024 est.)<br>
+0.57 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.4% of population (2022 est.)<br>
@@ -223,7 +223,7 @@ _female_: 1.9% (2025 est.)<br>
 2.4% (2013)<br>
 
 **Currently married women (ages 15-49)**<br>
-75.9% (2023 est.)<br>
+69.5% (2021 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.1% (2020)<br>
@@ -369,7 +369,7 @@ _judge selection and term of office_: chief justice appointed by the People's Na
 _subordinate courts_: Higher People's Courts; Intermediate People's Courts; District and County People's Courts; Autonomous Region People's Courts; International Commercial Courts; Special People's Courts for military, maritime, transportation, and forestry issues<br>
 
 **Political parties**<br>
-Chinese Communist Party or CCP <br>
+Chinese Communist Party or CCP<br>
 <strong>note:</strong> China has 8 nominally independent small parties controlled by the CCP<br>
 
 **Diplomatic representation in the US**<br>
@@ -633,8 +633,8 @@ _total subscriptions_: 173.326 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 12 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.81 billion (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 125 (2022 est.)<br>
+_total subscriptions_: 1.82 billion (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 132 (2024 est.)<br>
 
 **Broadcast media**<br>
 all broadcast media are owned by, or affiliated with, the Chinese Communist Party (CCP) or a government agency; no privately owned TV or radio stations; state-run Chinese Central TV, provincial, and municipal stations offer more than 2,000 channels; the Central Propaganda Department and local (provincial, municipal) officials direct news reporting and approve all programming; foreign-made TV programs must be approved/censored prior to broadcast; widespread use of online platforms (Bilibili, Tencent Video, iQiyi, etc) to access domestic and international films and TV shows; Cyberspace Administration of China (CAC) regulates video platforms (2022)<br>
@@ -690,21 +690,21 @@ People's Liberation Army (PLA): Ground Forces or People's Liberation Army Army (
 1.7% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2 million active-duty PLA (950,000-1 million Ground; 250,000 Navy, including about 50,000 Marines; 350-400,000 Air Force; 120,000 Rocket Forces; 150-175,000 other forces) (2024)<br>
+approximately 2 million active-duty PLA (950,000-1 million Ground; 250,000 Navy, including about 50,000 Marines; 350-400,000 Air Force; 120,000 Rocket Forces; 150-175,000 other forces) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PLA has a mix of mostly modern domestically produced and imported weapons and equipment; most of its imported weaponry has come from Russia; China has one of the world's largest defense-industrial sectors and is capable of producing advanced weapons systems across all military domains (2024)<br>
-<strong>note:</strong> the PLA is in the midst of a decades-long modernization effort to achieve a "world-class" military by 2049<br>
+the PLA is mostly equipped with domestically produced armaments with smaller amounts of imported weaponry, largely from Russia; China has one of the world's largest defense-industrial sectors and is capable of producing advanced weapons systems across all military domains (2025)<br>
+<strong>note:</strong> the PLA is in the midst of a decades-long modernization effort to achieve a "world-class" military by the 2040s<br>
 
 **Military service age and obligation**<br>
-18-22 years of age for men for selective compulsory military service, with a 2-year service obligation; women 18-19 years of age who are high school graduates and meet requirements for specific military jobs are subject to conscription (2024)<br>
+18-26 years of age depending on education level for men and women for both volunteer and selective compulsory military service; 24-month service obligation  (2025)<br>
 <strong>note: </strong>the PLA’s conscription system functions as a levy; the PLA establishes the number of enlistees needed, which produces quotas for the provinces; each province provides a set number of soldiers or sailors; if the number of volunteers fails to meet quotas, the local governments may compel individuals to enter military service<br>
 
 **Military deployments**<br>
-400 Lebanon (UNIFIL); 1,030 South Sudan (UNMISS); 150 Sudan/South Sudan (UNISFA); up to 2,000 Djibouti (2024)<br>
+475 Lebanon (UNIFIL); 1,050 South Sudan (UNMISS); 280 Sudan/South Sudan (UNISFA); has also established a base in Djibouti with approximately 400 marines, plus naval and support personnel (2025)<br>
 
 **Military - note**<br>
-the People's Liberation Army (PLA) is the world’s largest military; the PLA's primary responsibility is external security but it also has some domestic security duties; China’s stated defense policy includes safeguarding sovereignty, security, and development interests while emphasizing a greater global role for the PLA; the PLA conducts air, counterspace, cyber, electronic warfare, joint, land, maritime, missile, nuclear, and space operations; it trains regularly, including multinational and multiservice exercises, deploys overseas, and participates in international peacekeeping missions <br><br>the PRC's internal security forces consist primarily of the Ministry of Public Security (MPS), the Ministry of State Security (MSS), the People’s Armed Police (PAP), and the militia; the PLA support the internal security forces as necessary:<br><br>--the MPS controls the civilian national police, which serves as the first-line force for public order; its primary mission is domestic law enforcement and maintaining order, including anti-rioting and anti-terrorism<br><br>--the MSS is the PRC’s main civilian intelligence and counterintelligence service<br><br>--the PAP is a paramilitary component (or adjunct) of the PLA; its primary missions include internal security, maintaining public order, maritime security, and assisting the PLA in times of war; the China Coast Guard (CCG) administratively falls under the PAP and has a variety of missions, such as maritime sovereignty enforcement, surveillance, resource protection, anti-smuggling, and general law enforcement; it is the largest maritime law enforcement fleet in the world<br><br>--the militia is an armed reserve of civilians which serves as an auxiliary and reserve force for the PLA upon mobilization, although it is distinct from the PLA’s reserve forces; militia units are organized around towns, villages, urban sub-districts, and enterprises, and vary widely in composition and mission; they have dual civilian-military command structures; a key component of the militia are the local maritime forces, commonly referred to as the People’s Armed Forces Maritime Militia (PAFMM); the PAFMM consists of mariners (and their vessels) who receive training, equipment, and other forms of support from the Navy and CCG (although the PAFMM remains separate from both) to perform tasks such as maritime patrolling, surveillance and reconnaissance, emergency/disaster response, transportation, search and rescue, and auxiliary tasks in support of naval operations in wartime; the PAFMM’s tasks are often conducted in conjunction or coordination with the Navy and the CCG; it has been used to assert Beijing's maritime claims in the Sea of Japan and South China Sea (2024)<br>
+the People's Liberation Army (PLA) is the world’s largest military; the PLA's primary responsibility is external security but it also has some domestic security duties; China’s stated defense policy includes safeguarding sovereignty, security, and development interests while emphasizing a greater global role for the PLA; the PLA conducts air, counterspace, cyber, electronic warfare, joint, land, maritime, missile, nuclear, and space operations; it trains regularly, including multinational and multiservice exercises, deploys overseas, and participates in international peacekeeping missions <br><br>the PRC's internal security forces consist primarily of the Ministry of Public Security (MPS), the Ministry of State Security (MSS), the People’s Armed Police (PAP), and the militia; the PLA support the internal security forces as necessary:<br><br>--the MPS controls the civilian national police, which serves as the first-line force for public order; its primary mission is domestic law enforcement and maintaining order, including anti-rioting and anti-terrorism<br><br>--the MSS is the PRC’s main civilian intelligence and counterintelligence service<br><br>--the PAP is a paramilitary component (or adjunct) of the PLA; its primary missions include internal security, maintaining public order, maritime security, and assisting the PLA in times of war; the China Coast Guard (CCG) administratively falls under the PAP and has a variety of missions, such as maritime sovereignty enforcement, surveillance, resource protection, anti-smuggling, and general law enforcement; it is the largest maritime law enforcement fleet in the world<br><br>--the militia is an armed reserve of civilians which serves as an auxiliary and reserve force for the PLA upon mobilization, although it is distinct from the PLA’s reserve forces; militia units are organized around towns, villages, urban sub-districts, and enterprises, and vary widely in composition and mission; they have dual civilian-military command structures; a key component of the militia are the local maritime forces, commonly referred to as the People’s Armed Forces Maritime Militia (PAFMM); the PAFMM consists of mariners (and their vessels) who receive training, equipment, and other forms of support from the Navy and CCG (although the PAFMM remains separate from both) to perform tasks such as maritime patrolling, surveillance and reconnaissance, emergency/disaster response, transportation, search and rescue, and auxiliary tasks in support of naval operations in wartime; the PAFMM’s tasks are often conducted in conjunction or coordination with the Navy and the CCG; it has been used to assert Beijing's maritime claims in the Sea of Japan and South China Sea (2025)<br>
 
 ## Space
 

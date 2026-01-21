@@ -102,21 +102,21 @@ _elderly dependency ratio_: 20.9 (2024 est.)<br>
 _potential support ratio_: 4.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 37 years (2024 est.)<br>
+_total_: 37.5 years (2025 est.)<br>
 _male_: 36.5 years<br>
 _female_: 37.6 years<br>
 
 **Population growth rate**<br>
--0.01% (2024 est.)<br>
+-0.04% (2025 est.)<br>
 
 **Birth rate**<br>
-13.3 births/1,000 population (2024 est.)<br>
+13.02 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.1 deaths/1,000 population (2024 est.)<br>
+8.15 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--5.3 migrant(s)/1,000 population (2024 est.)<br>
+-5.31 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population is mostly clustered along the coast, with roughly a third living in the parish of St. George, in or around the capital of Roseau; the volcanic interior is sparsely populated<br>
@@ -139,7 +139,7 @@ _total population_: 1.02 male(s)/female (2024 est.)<br>
 36 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 10.5 deaths/1,000 live births (2025 est.)<br>
 _male_: 14.5 deaths/1,000 live births<br>
 _female_: 6.8 deaths/1,000 live births<br>
 
@@ -149,10 +149,10 @@ _male_: 75.8 years<br>
 _female_: 81.8 years<br>
 
 **Total fertility rate**<br>
-2.01 children born/woman (2024 est.)<br>
+2.01 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.98 (2024 est.)<br>
+0.98 (2025 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6.5% of GDP (2021)<br>
@@ -173,9 +173,6 @@ _beer_: 1.64 liters of pure alcohol (2019 est.)<br>
 _wine_: 0.29 liters of pure alcohol (2019 est.)<br>
 _spirits_: 4.39 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
-
-**Currently married women (ages 15-49)**<br>
-40.3% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 5.4% of GDP (2024 est.)<br>
@@ -485,8 +482,8 @@ _total subscriptions_: 7,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 11 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 57,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 86 (2021 est.)<br>
+_total subscriptions_: 56,929 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 85 (2022 est.)<br>
 
 **Broadcast media**<br>
 no terrestrial TV service; subscription cable TV provider offers some locally produced programming, plus channels from the US, Latin America, and the Caribbean; state-operated radio broadcasts on 6 stations; privately owned radio broadcasts on about 15 stations (2019)<br>
@@ -525,7 +522,7 @@ _key ports_: Portsmouth, Roseau<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Commonwealth of Dominica Police Force (CDPF) under the Ministry of National Security and Legal Affairs (2025)<br>
+no regular military forces; Commonwealth of Dominica Police Force (CDPF) under the Ministry of National Security and Legal Affairs<br>
 
 **Military - note**<br>
 Dominica has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Grenada, Guyana, St. Kitts and Nevis, St. Lucia, and St. Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2025)<br>

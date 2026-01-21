@@ -104,21 +104,21 @@ _elderly dependency ratio_: 8.6 (2024 est.)<br>
 _potential support ratio_: 11.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 31.9 years (2024 est.)<br>
+_total_: 32.4 years (2025 est.)<br>
 _male_: 31.3 years<br>
 _female_: 32.4 years<br>
 
 **Population growth rate**<br>
--0.2% (2024 est.)<br>
+-0.24% (2025 est.)<br>
 
 **Birth rate**<br>
-15.1 births/1,000 population (2024 est.)<br>
+14.77 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-4.3 deaths/1,000 population (2024 est.)<br>
+4.3 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--12.8 migrant(s)/1,000 population (2024 est.)<br>
+-12.85 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 about a third of the population lives in the centrally located capital city of Male and almost a tenth in southern Addu City; the remainder of the populace is spread over the 200 or so populated islands of the archipelago<br>
@@ -145,7 +145,7 @@ _total population_: 1.04 male(s)/female (2024 est.)<br>
 32 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 24.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 23.7 deaths/1,000 live births (2025 est.)<br>
 _male_: 27.3 deaths/1,000 live births<br>
 _female_: 21.3 deaths/1,000 live births<br>
 
@@ -155,10 +155,10 @@ _male_: 75.1 years<br>
 _female_: 79.9 years<br>
 
 **Total fertility rate**<br>
-1.7 children born/woman (2024 est.)<br>
+1.7 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.83 (2024 est.)<br>
+0.83 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.1% of population (2022 est.)<br>
@@ -205,7 +205,7 @@ _female_: 9.2% (2025 est.)<br>
 14.8% (2017 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-71.9% (2023 est.)<br>
+68.4% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0% (2017)<br>
@@ -315,8 +315,9 @@ _head of government_: President Mohamed MUIZZU (since 17 November 2023)<br>
 _cabinet_: Cabinet of Ministers appointed by the president, approved by People's Majlis<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br>
 _most recent election date_: 9 September 2023, with runoff on 30 September 2023<br>
-_election results_: <em><br>2023:</em> Mohamed MUIZZU elected president in the second round; percent of vote in first round - Mohamed MUIZZU (PNC) 46.1%, Ibrahim Mohamed SOLIH (MDP) 39.1%, Ilyas LABEEB (DEMS) 7.1%, other 7.7%; percent of vote in the second round - Mohamed MUIZZU 54%, Ibrahim Mohamed SOLIH 46%<br><br><em>2018</em>: Ibrahim Mohamed SOLIH elected president in first round; Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7%<br>
+_election results_: <em><br>2023:</em> Mohamed MUIZZU elected president in the second round; percent of vote in first round - Mohamed MUIZZU (PNC) 46.1%, Ibrahim Mohamed SOLIH (MDP) 39.1%, Ilyas LABEEB (DEMS) 7.1%, other 7.7%; percent of vote in the second round - Mohamed MUIZZU 54%, Ibrahim Mohamed SOLIH 46%<br>
 _expected date of next election_: 2028<br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _legislature name_: People's Majlis (Majlis)<br>
@@ -345,7 +346,7 @@ _telephone_: [1] (202) 516-5458<br>
 _email address and website_: <br>WashingtonInfo@foreign.gov.mv<br><br>The Embassy (mdvmission.gov.mv)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Hugo Yue-Ho YON (since 6 September 2023); note - Ambassador YON is the first resident US ambassador to the Republic of Maldives<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Chunnong SAEGER (since January 2026)<br>
 _embassy_: 210 Galle Road, Colombo 03, Sri Lanka; note - as of early November 2023, the US has no consular or diplomatic offices in Maldives; the US Mission to Maldives operates from US Embassy Colombo, Sri Lanka<br>
 _telephone_: [94] (11) 249-8500<br>
 _FAX_: [94] (11) 243-7345<br>
@@ -612,10 +613,11 @@ not available<br>
 approximately 3-4,000 active Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Defense Force has a limited inventory consisting of a mix of mostly secondhand or donated equipment from suppliers such as Germany, India, Japan, Turkey, and the UK (2025)<br>
+the Defense Force has a limited inventory consisting of mostly secondhand or donated equipment from suppliers such as Germany, India, Japan, T&uuml;rkiye, and the UK (2025)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary service; no conscription (2024)<br>
+18-25 years of age for voluntary service; no conscription (2025)<br>
+<strong>note:</strong> in 2025, the Maldives began allowing Maldivians 16-28 (under 18 with parental consent) who lacked access to further education after completing their secondary education or employment could join the Maldives National Service Program and be recruited to the Army or Police<br>
 
 **Military - note**<br>
 the Maldives National Defense Force (MNDF) is responsible for defending and safeguarding the Maldives' territorial integrity, economic exclusion zone, and people; it is also responsible for disaster relief, and if requested, assisting the Maldives Police Service in maintaining internal security and law and order; maritime security is its largest focus; the Indian Armed Forces have long been the MNDF's most important partner (2025)<br>

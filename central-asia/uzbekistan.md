@@ -113,21 +113,21 @@ _elderly dependency ratio_: 10.5 (2024 est.)<br>
 _potential support ratio_: 9.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 28.9 years (2024 est.)<br>
+_total_: 29.2 years (2025 est.)<br>
 _male_: 28.1 years<br>
 _female_: 29.8 years<br>
 
 **Population growth rate**<br>
-1.43% (2024 est.)<br>
+1.26% (2025 est.)<br>
 
 **Birth rate**<br>
-20.5 births/1,000 population (2024 est.)<br>
+18.93 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.1 deaths/1,000 population (2024 est.)<br>
+5 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1.1 migrant(s)/1,000 population (2024 est.)<br>
+-1.31 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in the fertile Fergana Valley in the easternmost arm of the country; the south has significant clusters of people, but the central and western deserts are sparsely populated<br>
@@ -153,7 +153,7 @@ _total population_: 1.01 male(s)/female (2024 est.)<br>
 26 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.2 deaths/1,000 live births (2024 est.)<br>
+_total_: 17.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 21.1 deaths/1,000 live births<br>
 _female_: 15.1 deaths/1,000 live births<br>
 
@@ -163,10 +163,10 @@ _male_: 73.6 years<br>
 _female_: 79 years<br>
 
 **Total fertility rate**<br>
-2.76 children born/woman (2024 est.)<br>
+2.6 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.33 (2024 est.)<br>
+1.25 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98% of population (2022 est.)<br>
@@ -213,7 +213,7 @@ _female_: 1% (2025 est.)<br>
 1.8% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-68.6% (2023 est.)<br>
+74.7% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.2% (2022)<br>
@@ -667,7 +667,7 @@ Armed Forces of Uzbekistan: Army, Air and Air Defense Forces; National Guard <b
 limited available information; estimated 50,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Uzbek Armed Forces use mainly Russian or Soviet-era weapons and equipment with smaller quantities of items from suppliers such as China, Turkey, and the US; Uzbekistan has a small defense industry, which is involved in repairing and maintaining aircraft and armored vehicles, as well as producing light armored vehicles, unmanned aerial vehicles/drones, and other military items (2025)<br>
+the Uzbek Armed Forces use mainly Russian or Soviet-era armaments with smaller quantities of items from suppliers such as China, T&uuml;rkiye, and the US; Uzbekistan has a small defense industry, which is involved in repairing and maintaining aircraft and armored vehicles, as well as producing light armored vehicles, unmanned aerial vehicles/drones, and other military items (2025)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory military service for men; 12-month service obligation (those conscripted have the option of paying for a shorter service of one month while remaining in the reserves until the age of 27) (2024)<br>

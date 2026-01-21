@@ -108,21 +108,21 @@ _elderly dependency ratio_: 5.8 (2024 est.)<br>
 _potential support ratio_: 17.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 18.7 years (2024 est.)<br>
+_total_: 19 years (2025 est.)<br>
 _male_: 17.9 years<br>
 _female_: 19.5 years<br>
 
 **Population growth rate**<br>
-2.4% (2024 est.)<br>
+2.39% (2025 est.)<br>
 
 **Birth rate**<br>
-31.9 births/1,000 population (2024 est.)<br>
+31.74 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.3 deaths/1,000 population (2024 est.)<br>
+7.24 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.6 migrant(s)/1,000 population (2024 est.)<br>
+-0.57 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the population is located in the center and south; nearly one third lives in cities, including the capital city of Ouagadougou (Ouaga), as shown in this population distribution map (2019)<br>
@@ -149,7 +149,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 242 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 47 deaths/1,000 live births (2024 est.)<br>
+_total_: 48 deaths/1,000 live births (2025 est.)<br>
 _male_: 51.1 deaths/1,000 live births<br>
 _female_: 42.7 deaths/1,000 live births<br>
 
@@ -159,10 +159,10 @@ _male_: 62.3 years<br>
 _female_: 66.1 years<br>
 
 **Total fertility rate**<br>
-4.02 children born/woman (2024 est.)<br>
+4.02 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.98 (2024 est.)<br>
+1.98 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 80.9% of population (2022 est.)<br>
@@ -209,7 +209,7 @@ _female_: 4.6% (2025 est.)<br>
 16.9% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-73.5% (2023)<br>
+74.3% (2021 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 8.9% (2015)<br>
@@ -317,11 +317,11 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: Transitional President Capt. Ibrahim TRAORE (since 30 September 2022)<br>
-_head of government_: Prime Minister Joachim KYLEM DE TAMBELA (since 21 October 2022)<br>
+_head of government_: Prime Minister Rimtalba Jean Emmanuel OUEDRAOGO (since 9 December 2024)<br>
 _cabinet_: prior to the 2022 coups and ad hoc suspension of laws and constitutional provisions, Council of Ministers appointed by the president on the recommendation of the prime minister<br>
 _election/appointment process_: prior to the 2022 coups and ad hoc suspension of laws and constitutional provisions, president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister appointed by the president with consent of the National Assembly<br>
 _most recent election date_: 22 November 2020<br>
-_election results_: <em><br>2020:</em> Roch Marc Christian KABORE reelected president in first round; percent of vote - Roch Marc Christian KABORE (MPP) 57.9%, Eddie KOMBOIGO (CDP) 15.5%, Zephirin DIABRE (UPC) 12.5%, other 14.1%<br><br><em>2015:</em> Roch Marc Christian KABORE elected president in first round; percent of vote - Roch Marc Christian KABORE (MPP) 53.5%, Zephirin DIABRE (UPC) 29.6%, Tahirou BARRY (PAREN) 3.1%, Benewende Stanislas SANKARA (UNIR-MS) 2.8%, other 10.9%<br>
+_election results_: <em><br>2020:</em> Roch Marc Christian KABORE reelected president in first round; percent of vote - Roch Marc Christian KABORE (MPP) 57.9%, Eddie KOMBOIGO (CDP) 15.5%, Zephirin DIABRE (UPC) 12.5%, other 14.1%<br>
 _expected date of next election_: were to be held by July 2024, but were delayed<br>
 <strong>note:</strong> on 30 September 2022, a military junta led by TRAORE took power and ousted Transition President Lt. Col. Paul-Henri Sandaogo DAMIBA<br>
 
@@ -576,8 +576,8 @@ _total subscriptions_: 81,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 24.7 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 112 (2021 est.)<br>
+_total subscriptions_: 26,889,900 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 120 (2022 est.)<br>
 
 **Broadcast media**<br>
 14 digital TV channels, of which 2 are state-owned; over 140 national radio stations (commercial, religious, community), including a national and regional state-owned network; state-owned Radio Burkina and private Radio Omega are among the most widely available and broadcast in both French and local languages (2019)<br>
@@ -608,8 +608,8 @@ _narrow gauge_: 622 km (2014) 1.000-m gauge<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Burkina Faso (FABF; aka National Armed Forces (FAN), aka Defense and Security Forces (Forces de Défense et de Sécurité or FDS)): Army of Burkina Faso (L’Armee de Terre), Air Force of Burkina Faso (Force Aerienne de Burkina Faso), National Gendarmerie, National Fire Brigade (Brigade Nationale de Sapeurs-Pompiers or BNSP); Homeland Defense Volunteers (Forcés de Volontaires de Défense pour la Patrie or VDP)<br><br>Ministry of Territorial Administration, Decentralization and Security (Ministère de l'Administration Territoriale, de la Décentralisation et de la Sécurité): National Police of Burkina Faso (includes Border Police, Judicial Police, and Intervention Units, as well as State and Public Security forces) (2025)<br>
-<strong>note 1:</strong> the National Gendarmerie is under the Ministry of Defense, but usually operates in support of the Ministry of Territorial Administration, Decentralization, and Security; the Gendarmerie's primary mission is counterterrorism<br><br><strong>note 2:</strong> the VDP is a lightly armed civilian defense/militia force established in 2019 to act as auxiliaries to the Army; the volunteers receive two weeks of training and typically assist with carrying out surveillance, information-gathering, and escort duties, as well as local defense; they are based in each of the country's more than 300 municipalities<br>
+Armed Forces of Burkina Faso (FABF; aka National Armed Forces (FAN), aka Defense and Security Forces (Forces de Défense et de Sécurité or FDS)): Army of Burkina Faso, Air Force of Burkina Faso, National Gendarmerie, National Fire Brigade (Brigade Nationale de Sapeurs-Pompiers or BNSP); Homeland Defense Volunteers (Forcés de Volontaires de Défense pour la Patrie or VDP)<br><br>Ministry of Territorial Administration, Decentralization and Security (Ministère de l'Administration Territoriale, de la Décentralisation et de la Sécurité): National Police of Burkina Faso (includes Border Police, Judicial Police, and Intervention Units, as well as State and Public Security forces) (2025)<br>
+<strong>note 1:</strong> the National Gendarmerie is under the Ministry of Defense, but usually operates in support of the Ministry of Territorial Administration, Decentralization, and Security; the Gendarmerie's primary mission is counterterrorism<br><br><strong>note 2:</strong> the VDP is a lightly armed civilian defense/militia force established in 2019 to act as auxiliaries to the Army; the volunteers receive two weeks of training and typically assist with carrying out surveillance, information-gathering, and escort duties, as well as local defense; they are based in each of the country's municipalities<br>
 
 **Military expenditures**<br>
 4.5% of GDP (2024 est.)<br>
@@ -622,17 +622,14 @@ Armed Forces of Burkina Faso (FABF; aka National Armed Forces (FAN), aka Defense
 estimated 20,000 Armed Forces; estimated 50,000 Homeland Defense Volunteers (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FABF has a mix of older, secondhand, and some modern equipment from a variety of suppliers, including China, Egypt, France, Russia, South Africa, Turkey, the UK, and the US (2024)<br>
+the FABF has a mix of older and some modern armaments from a variety of suppliers, including China, Egypt, France, Russia, South Africa, T&uuml;rkiye, the UK, and the UAE (2025)<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for voluntary military service for men and women; citizens 18-77 years of age are eligible to volunteer for the VDP (2023)<br>
-<strong>note:</strong> the military government implemented an emergency law in 2023 that allows the president extensive powers to combat terrorist groups operating in the country, including conscripting citizens into the security services<br>
-
-**Military deployments**<br>
-<strong>note:</strong> in 2024, Burkina Faso, Mali, and Niger announced they were forming joint force of 5,000 troops to combat extremist groups in the Sahel<br>
+generally, 18-35 years of age for voluntary military service for men and women; citizens 18-77 years of age are eligible to volunteer for the VDP (2025)<br>
+<strong>note:</strong> the military regime implemented an emergency law in 2023 that allows the president extensive powers to combat terrorist groups operating in the country, including conscripting citizens into the security services; the VDP reportedly has been used by the military regime as a platform for the forced recruitment of dissidents and activists to silence critics<br>
 
 **Military - note**<br>
-the Armed Forces of Burkina Faso (FABF) are responsible for external defense but also have an internal security role and can be called out to assist internal security forces in restoring public order, combating crime, securing the border, and conducting counterterrorism/counterinsurgency/internal defense operations<br><br>the FABF's primary focus is combatting militants of the al-Qa'ida and Islamic State of Iraq and ash-Sham (ISIS) terrorist groups, which have operated in Burkina Faso for more than a decade and control portions of the country; Jama'at Nusrat al-Islam wal-Muslimin (JNIM), a coalition of al-Qa'ida linked militant groups that act as al-Qa'ida in the Land of the Islamic Magreb's (AQIM) arm in the Sahel, is strongest in the north but active in nearly all of the country's 13 provinces, while ISIS in the Greater Sahara (aka ISIS-Sahel) operates in the eastern part of the country<br><br>the FABF has a history of involvement in the country’s politics, having conducted eight coups since its formation in 1960-61, including the most recent in September 2022; several combat units were disbanded in 2011 following mutinies (2025)<br>
+the Armed Forces of Burkina Faso (FABF) are responsible for external defense but also have an internal security role and can be called out to assist internal security forces in restoring public order, combating crime, securing the border, and conducting counterterrorism/counterinsurgency/internal defense operations; the FABF has a history of involvement in the country’s politics, having conducted eight coups since its formation in 1960-61, including the most recent in September 2022<br><br>the FABF's primary focus is combatting militants of the al-Qa'ida and Islamic State of Iraq and ash-Sham (ISIS) terrorist groups, which have operated in Burkina Faso for more than a decade and control portions of the country; Jama'at Nusrat al-Islam wal-Muslimin (JNIM), a coalition of al-Qa'ida linked militant groups that act as al-Qa'ida in the Land of the Islamic Magreb's (AQIM) arm in the Sahel, is strongest in the north but active in nearly all of the country's 13 provinces, while ISIS in the Greater Sahara (aka ISIS-Sahel) operates in the eastern part of the country (2025)<br>
 
 ## Terrorism
 

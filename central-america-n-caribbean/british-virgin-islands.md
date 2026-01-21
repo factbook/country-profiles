@@ -102,21 +102,21 @@ _elderly dependency ratio_: 16.9 (2024 est.)<br>
 _potential support ratio_: 5.9 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 38.5 years (2024 est.)<br>
+_total_: 38.8 years (2025 est.)<br>
 _male_: 38.1 years<br>
 _female_: 38.9 years<br>
 
 **Population growth rate**<br>
-1.82% (2024 est.)<br>
+1.78% (2025 est.)<br>
 
 **Birth rate**<br>
-10.9 births/1,000 population (2024 est.)<br>
+10.8 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.5 deaths/1,000 population (2024 est.)<br>
+5.58 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-12.9 migrant(s)/1,000 population (2024 est.)<br>
+12.54 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout the inhabited islands, with the largest islands of Tortola, Anegada, Virgin Gorda, and Jost Van Dyke having the largest populations<br>
@@ -136,7 +136,7 @@ _65 years and over_: 0.9 male(s)/female<br>
 _total population_: 0.9 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 13.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 13 deaths/1,000 live births (2025 est.)<br>
 _male_: 16 deaths/1,000 live births<br>
 _female_: 10.7 deaths/1,000 live births<br>
 
@@ -146,17 +146,14 @@ _male_: 78.6 years<br>
 _female_: 81.7 years<br>
 
 **Total fertility rate**<br>
-1.38 children born/woman (2024 est.)<br>
+1.39 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.67 (2024 est.)<br>
+0.68 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 99.9% of population (2022 est.)<br>
 _unimproved: total_: total: 0.1% of population (2022 est.)<br>
-
-**Currently married women (ages 15-49)**<br>
-46.6% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.2% of GDP (2023 est.)<br>
@@ -364,8 +361,8 @@ _total subscriptions_: 23,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 17 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 38,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 121 (2021 est.)<br>
+_total subscriptions_: 35,595 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 93 (2024 est.)<br>
 
 **Broadcast media**<br>
 1 private TV station; multi-channel TV is available from cable and satellite subscription services; about a half-dozen private radio stations<br>

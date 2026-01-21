@@ -115,21 +115,21 @@ _potential support ratio_: 3.4 (2024 est.)<br>
 <strong>note:</strong> data include Crimea<br>
 
 **Median age**<br>
-_total_: 44.9 years (2024 est.)<br>
+_total_: 44.6 years (2025 est.)<br>
 _male_: 41.4 years<br>
 _female_: 49.2 years<br>
 
 **Population growth rate**<br>
-2.38% (2024 est.)<br>
+2.42% (2025 est.)<br>
 
 **Birth rate**<br>
-6 births/1,000 population (2024 est.)<br>
+6.24 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-18.6 deaths/1,000 population (2024 est.)<br>
+17.61 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-36.5 migrant(s)/1,000 population (2024 est.)<br>
+35.59 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 densest settlement in the eastern (Donbas) and western regions; notable concentrations in and around major urban areas of Kyiv, Kharkiv, Donets'k, Dnipropetrovs'k, and Odesa<br>
@@ -156,7 +156,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 15 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 8.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 9.7 deaths/1,000 live births<br>
 _female_: 7.6 deaths/1,000 live births<br>
 
@@ -166,10 +166,10 @@ _male_: 65.4 years<br>
 _female_: 75.8 years<br>
 
 **Total fertility rate**<br>
-1.22 children born/woman (2024 est.)<br>
+1.22 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.59 (2024 est.)<br>
+0.59 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 90.8% of population (2022 est.)<br>
@@ -211,9 +211,6 @@ _other alcohols_: 0.05 liters of pure alcohol (2019 est.)<br>
 _total_: 20.4% (2025 est.)<br>
 _male_: 35.5% (2025 est.)<br>
 _female_: 8% (2025 est.)<br>
-
-**Currently married women (ages 15-49)**<br>
-61.6% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 5.1% of GDP (2021 est.)<br>
@@ -682,7 +679,7 @@ estimated 850,000-1 million active Defense Forces (2025)<br>
 <strong>note:</strong> following the Russian invasion of Ukraine in February 2022, President ZELENSKY announced a general mobilization of the country; prior to the invasion, Ukraine had approximately 200,000 active Armed Forces troops, approximately 50,000 National Guard, and approximately 40,000 State Border Guard<br>
 
 **Military equipment inventories and acquisitions**<br>
-prior to the full-scale Russian invasion in February 2022, the Ukrainian military was equipped largely with Russian-origin and Soviet-era weapons systems; since the invasion, it has received considerable quantities of weapons, including Soviet-era and more modern Western systems, from European countries and the US; Ukraine also has a growing inventory of domestically produced weapons and equipment (2024)<br>
+prior to the full-scale Russian invasion in February 2022, the Ukrainian military was equipped largely with Russian-origin and Soviet-era weapons systems; since the invasion, it has received considerable quantities of weapons, including Soviet-era and more modern Western systems, from European countries and the US; Ukraine also has a growing inventory of domestically produced armaments (2025)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary service for men and women; 25 years of age for conscription for men; 18-24 months service obligation (2025)<br>

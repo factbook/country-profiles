@@ -104,21 +104,21 @@ _elderly dependency ratio_: 30.1 (2024 est.)<br>
 _potential support ratio_: 3.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 48.8 years (2024 est.)<br>
+_total_: 49.4 years (2025 est.)<br>
 _male_: 48.7 years<br>
 _female_: 48.8 years<br>
 
 **Population growth rate**<br>
--0.12% (2024 est.)<br>
+-0.12% (2025 est.)<br>
 
 **Birth rate**<br>
-6.9 births/1,000 population (2024 est.)<br>
+6.88 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.1 deaths/1,000 population (2024 est.)<br>
+8.14 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2024 est.)<br>
+0 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population is unevenly distributed and is concentrated in the seven urbanized valleys that make up the country's parishes (political administrative divisions)<br>
@@ -144,7 +144,7 @@ _total population_: 1.05 male(s)/female (2024 est.)<br>
 11 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 3.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 3.4 deaths/1,000 live births<br>
 _female_: 3.2 deaths/1,000 live births<br>
 
@@ -154,10 +154,10 @@ _male_: 81.6 years<br>
 _female_: 86.2 years<br>
 
 **Total fertility rate**<br>
-1.47 children born/woman (2024 est.)<br>
+1.47 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.71 (2024 est.)<br>
+0.71 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -308,7 +308,7 @@ _judge selection and term of office_: Supreme Court president and judges appoint
 _subordinate courts_: Tribunal of Judges or Tribunal de Batlles; Tribunal of the Courts or Tribunal de Corts<br>
 
 **Political parties**<br>
-Action for Andorra or ACCIO <br>Committed Citizens or CC <br>Concord or C<br>Democrats for Andorra or DA <br>Forward Andorra or AE <br>Liberals of Andorra or L'A <br>Social Democratic Party or PS <br>Social Democracy and Progress or SDP<br>
+Concordia or C<br>Democrats for Andorra or DA <br>Forward Andorra or AE <br>Liberals of Andorra or L'A <br>Social Democratic Party or PS <br>Social Democracy and Progress or SDP<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Joan FORNER ROVIRA (since 13 January 2025); note - also Permanent Representative to the UN<br>
@@ -466,8 +466,8 @@ _total subscriptions_: 52,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 64 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 126,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 142 (2022 est.)<br>
+_total subscriptions_: 126,214 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 156 (2024 est.)<br>
 
 **Broadcast media**<br>
 the media scene is partly shaped by the proximity to France and Spain; Andorrans have access to broadcasts from both countries (2023)<br>

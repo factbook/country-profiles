@@ -114,21 +114,21 @@ _elderly dependency ratio_: 31.7 (2024 est.)<br>
 _potential support ratio_: 3.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 44.9 years (2024 est.)<br>
+_total_: 44.5 years (2025 est.)<br>
 _male_: 43.6 years<br>
 _female_: 46.3 years<br>
 
 **Population growth rate**<br>
-0.3% (2024 est.)<br>
+0.28% (2025 est.)<br>
 
 **Birth rate**<br>
-9.3 births/1,000 population (2024 est.)<br>
+8.81 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9.9 deaths/1,000 population (2024 est.)<br>
+10.21 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-3.5 migrant(s)/1,000 population (2024 est.)<br>
+4.19 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the northern and eastern portions of the country are more densely populated; nearly two thirds of the populace lives in urban areas<br>
@@ -154,7 +154,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 6 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.2 deaths/1,000 live births (2024 est.)<br>
+_total_: 3.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 3.6 deaths/1,000 live births<br>
 _female_: 2.7 deaths/1,000 live births<br>
 
@@ -164,10 +164,10 @@ _male_: 80.1 years<br>
 _female_: 85.4 years<br>
 
 **Total fertility rate**<br>
-1.52 children born/woman (2024 est.)<br>
+1.35 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.74 (2024 est.)<br>
+0.66 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -209,9 +209,6 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _total_: 19.7% (2025 est.)<br>
 _male_: 21.1% (2025 est.)<br>
 _female_: 18.3% (2025 est.)<br>
-
-**Currently married women (ages 15-49)**<br>
-58.7% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 5.3% of GDP (2022 est.)<br>
@@ -600,8 +597,8 @@ _total subscriptions_: 3.604 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 40 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11.1 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 123 (2022 est.)<br>
+_total subscriptions_: 11.116 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 125 (2024 est.)<br>
 
 **Broadcast media**<br>
 public broadcaster, Oesterreichischer Rundfunk (ORF), is a major player in the TV and radio markets; private broadcasters, cable, and satellite TV are available in most homes are widely used; some German stations carry programs for Austrian viewers; national and regional newspapers compete fiercely for readers; the print media are owned by a handful of mostly Austrian and German media groups (2023)<br>
@@ -651,11 +648,11 @@ Austrian Armed Forces (Bundesheer): Land Forces, Air Force, Cyber Forces, Specia
 approximately 22,000 active Armed Forces (includes about 14,000 regular troops and around 8,000 reservists/militia undergoing refresher training) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a mix of domestically produced and imported weapons systems from European countries and the US; the Austrian defense industry produces a range of equipment and partners with other countries (2024)<br>
+the military's inventory includes a mix of domestically produced and imported armaments from European countries and the US; the Austrian defense industry produces a range of equipment and partners with other countries (2025)<br>
 
 **Military service age and obligation**<br>
-registration requirement at age 17, the legal minimum age for voluntary military service; men above the age of 18 are subject to compulsory military service; women may volunteer; compulsory service is for 6 months, or optionally, alternative civil/community service (Zivildienst) for 9 months (2024)<br>
-<strong>note 1:</strong> as of 2023, women made up about 4% of the military's full-time personnel<br><br><strong>note 2:</strong> in a January 2013 referendum, a majority of Austrians voted in favor of retaining the system of compulsory military service (with the option of alternative/non-military service) instead of switching to a professional army system<br>
+registration requirement at age 17, the legal minimum age for voluntary military service; men above the age of 18 are subject to compulsory military service; women may volunteer; compulsory service is for 6 months, or optionally, alternative civil/community service (Zivildienst) for 9 months (2025)<br>
+<strong>note:</strong> Austria also has a One-Year Volunteer Program (Einjährig-Freiwilligen-Ausbildung) for men and women, which substitutes for compulsory military service and serves as a gateway for those interested in a long-term military career<br>
 
 **Military deployments**<br>
 210 Bosnia-Herzegovina (EUFOR stabilization force); 100 Kosovo (NATO/KFOR); 160 Lebanon (UNIFIL) (2025)<br>

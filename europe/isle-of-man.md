@@ -102,21 +102,21 @@ _elderly dependency ratio_: 35.7 (2024 est.)<br>
 _potential support ratio_: 2.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 44.9 years (2024 est.)<br>
+_total_: 45.1 years (2025 est.)<br>
 _male_: 43.7 years<br>
 _female_: 46.1 years<br>
 
 **Population growth rate**<br>
-0.45% (2024 est.)<br>
+0.41% (2025 est.)<br>
 
 **Birth rate**<br>
-10.4 births/1,000 population (2024 est.)<br>
+10.25 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-10.2 deaths/1,000 population (2024 est.)<br>
+10.2 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-4.3 migrant(s)/1,000 population (2024 est.)<br>
+4.06 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most people concentrated in cities and large towns; Douglas, in the southeast, is the largest<br>
@@ -136,7 +136,7 @@ _65 years and over_: 0.89 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 4 deaths/1,000 live births (2025 est.)<br>
 _male_: 4.4 deaths/1,000 live births<br>
 _female_: 3.7 deaths/1,000 live births<br>
 
@@ -146,10 +146,10 @@ _male_: 80.7 years<br>
 _female_: 84.4 years<br>
 
 **Total fertility rate**<br>
-1.88 children born/woman (2024 est.)<br>
+1.87 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.9 (2024 est.)<br>
+0.9 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 99.9% of population (2022 est.)<br>

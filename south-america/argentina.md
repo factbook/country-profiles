@@ -119,21 +119,21 @@ _elderly dependency ratio_: 19.4 (2024 est.)<br>
 _potential support ratio_: 5.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 33.3 years (2024 est.)<br>
+_total_: 34.6 years (2025 est.)<br>
 _male_: 32.1 years<br>
 _female_: 34.6 years<br>
 
 **Population growth rate**<br>
-0.79% (2024 est.)<br>
+0.26% (2025 est.)<br>
 
 **Birth rate**<br>
-15.2 births/1,000 population (2024 est.)<br>
+10.47 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.3 deaths/1,000 population (2024 est.)<br>
+7.94 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.1 migrant(s)/1,000 population (2024 est.)<br>
+0.06 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 one third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated<br>
@@ -156,7 +156,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 33 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9 deaths/1,000 live births (2024 est.)<br>
+_total_: 7.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 9.9 deaths/1,000 live births<br>
 _female_: 7.9 deaths/1,000 live births<br>
 
@@ -166,10 +166,10 @@ _male_: 75.8 years<br>
 _female_: 82 years<br>
 
 **Total fertility rate**<br>
-2.15 children born/woman (2024 est.)<br>
+1.43 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.04 (2024 est.)<br>
+0.69 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.8% of population (2022 est.)<br>
@@ -209,7 +209,7 @@ _female_: 17.1% (2025 est.)<br>
 2% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-48.9% (2023 est.)<br>
+49.7% (2020 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 2.4% (2020)<br>
@@ -625,8 +625,8 @@ _total subscriptions_: 7.034 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 15 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 62.7 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 132 (2022 est.)<br>
+_total subscriptions_: 62,709,200 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 140 (2024 est.)<br>
 
 **Broadcast media**<br>
 one of South America's biggest media markets; dozens of TV networks, hundreds of radio stations, and more than 150 daily newspapers (2023)<br>
@@ -685,14 +685,14 @@ Armed Forces of the Argentine Republic (Fuerzas Armadas de la República Argenti
 approximately 75,000 active-duty Armed Forces (45,000 Army; 15,000 Navy, including about 3,500 marines; 15,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of Argentina's armed forces is a mix of domestically-produced and mostly older imported weapons, largely from Europe and the US; in recent years, France and the US have been the leading suppliers of equipment; Argentina has an indigenous defense industry that produces air, land, and naval systems (2024)<br>
+the inventory of Argentina's armed forces is a mix of domestically produced and imported weapons, largely from Europe and the US; in recent years, France and the US have been the leading suppliers of equipment; Argentina has an indigenous defense industry that produces air, land, and naval systems (2025)<br>
 
 **Military service age and obligation**<br>
-18-24 years of age for voluntary military service for men and women; conscription suspended in 1995; citizens can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2024)<br>
-<strong>note: </strong>as of 2024, women comprised nearly 20% of the active duty military<br>
+18-24 years of age for voluntary military service for men and women; conscription suspended in 1995; citizens can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2025)<br>
+<strong>note 1: </strong>as of 2024, women comprised nearly 20% of the active-duty military<br><br><strong>note 2:</strong> in 2025, the Argentine Government announced the creation of a Voluntary Military Service program for people aged 18–28 to be managed by the Ministries of Defense and Human Capital; the program's goals include to instill values like discipline  and patriotism while offering training in trades such as cooking, mechanics, and security, alongside opportunities to complete compulsory education<br>
 
 **Military deployments**<br>
-325 Cyprus (UNFICYP) (2024)<br>
+230 Cyprus (UNFICYP) (2025)<br>
 
 **Military - note**<br>
 the Argentine military’s primary responsibilities are territorial defense and protecting the country’s sovereignty; duties also include border security, countering narcotics trafficking, and other internal missions, such as disaster response and infrastructure development; it conducts support operations and has bases in Antarctica to promote an active presence in areas of national territory that are sparsely populated; the military also participates in both bilateral and multinational training exercises and supports UN peacekeeping operations<br><br>Argentina participates in the Tripartite Command, an interagency security mechanism created by Argentina, Brazil, and Paraguay to exchange information and combat transnational threats, such as crime and terrorism, in the Tri-Border Area; in addition, Argentina and Chile have a joint peacekeeping force known as the Combined Southern Cross Peacekeeping Force, designed to be made available to the UN; Argentina has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the Army and Navy were both created in 1810 during the Argentine War of Independence, while the Air Force was established in 1945; the military conducted coups d'état in 1930, 1943, 1955, 1962, 1966, and 1976; the 1976 coup, aka the "National Reorganization Process," marked the beginning of the so-called "Dirty War," a period of state-sponsored terrorism that saw the deaths or disappearances of thousands of Argentinians; the defeat in the 1982 Falklands War led to the downfall of the military junta (2025)<br>

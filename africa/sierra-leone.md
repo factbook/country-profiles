@@ -108,21 +108,21 @@ _elderly dependency ratio_: 4.4 (2024 est.)<br>
 _potential support ratio_: 22.6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 19.4 years (2024 est.)<br>
+_total_: 19.7 years (2025 est.)<br>
 _male_: 19 years<br>
 _female_: 19.9 years<br>
 
 **Population growth rate**<br>
-2.32% (2024 est.)<br>
+2.24% (2025 est.)<br>
 
 **Birth rate**<br>
-30.8 births/1,000 population (2024 est.)<br>
+30.04 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9 deaths/1,000 population (2024 est.)<br>
+8.8 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-1.4 migrant(s)/1,000 population (2024 est.)<br>
+1.13 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population clusters are found in the lower elevations of the south and west; the northern third of the country is less populated, as shown on this population distribution map<br>
@@ -149,7 +149,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 354 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 71.2 deaths/1,000 live births (2024 est.)<br>
+_total_: 70.1 deaths/1,000 live births (2025 est.)<br>
 _male_: 76 deaths/1,000 live births<br>
 _female_: 66.2 deaths/1,000 live births<br>
 
@@ -159,10 +159,10 @@ _male_: 57.8 years<br>
 _female_: 61 years<br>
 
 **Total fertility rate**<br>
-3.61 children born/woman (2024 est.)<br>
+3.52 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.78 (2024 est.)<br>
+1.73 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 79.8% of population (2022 est.)<br>
@@ -206,7 +206,7 @@ _female_: 4.9% (2025 est.)<br>
 12% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-58.9% (2023 est.)<br>
+61.5% (2019 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 8.6% (2019)<br>
@@ -617,7 +617,7 @@ Republic of Sierra Leone Armed Forces (RSLAF): organized as a Joint Force Comman
 estimated 10,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RSLAF has a small inventory that includes a mix of Soviet-origin and other older foreign-supplied equipment; in recent years, it has received limited amounts of newer equipment, mostly as donations, such as patrol boats from China and South Korea (2024)<br>
+the RSLAF has a small inventory comprised of obsolescent or secondhand imported armaments (2025)<br>
 
 **Military service age and obligation**<br>
 18-25 for voluntary military service for men and women; no conscription (2025)<br>

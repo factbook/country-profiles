@@ -113,21 +113,21 @@ _elderly dependency ratio_: 10.1 (2024 est.)<br>
 _potential support ratio_: 9.9 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 31.2 years (2024 est.)<br>
+_total_: 31.6 years (2025 est.)<br>
 _male_: 30.7 years<br>
 _female_: 31.7 years<br>
 
 **Population growth rate**<br>
-0.92% (2024 est.)<br>
+0.88% (2025 est.)<br>
 
 **Birth rate**<br>
-16.8 births/1,000 population (2024 est.)<br>
+16.43 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6 deaths/1,000 population (2024 est.)<br>
+5.99 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1.7 migrant(s)/1,000 population (2024 est.)<br>
+-1.66 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the most densely populated areas are the southern, eastern, and northeastern oases; approximately 50% of the population lives in and around the capital of Ashgabat<br>
@@ -153,7 +153,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 5 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 35.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 35 deaths/1,000 live births (2025 est.)<br>
 _male_: 43.6 deaths/1,000 live births<br>
 _female_: 27.7 deaths/1,000 live births<br>
 
@@ -163,10 +163,10 @@ _male_: 69.4 years<br>
 _female_: 75.5 years<br>
 
 **Total fertility rate**<br>
-2.02 children born/woman (2024 est.)<br>
+2.02 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.99 (2024 est.)<br>
+0.99 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -213,7 +213,7 @@ _female_: 0.5% (2025 est.)<br>
 3.1% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-64.3% (2023 est.)<br>
+65% (2019 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.2% (2019)<br>
@@ -402,7 +402,7 @@ _selected World Heritage Site locales_: Ancient Merv (c); Kunya-Urgench (c); Par
 ## Economy
 
 **Economic overview**<br>
-upper middle-income Central Asian economy; has 10% of global natural gas reserves, exporting to Russia and China; natural resource rich; authoritarian and dominated by state-owned enterprises; major central-south Asian pipeline development<br>
+<p>upper-middle-income Central Asian economy; houses fourth-largest natural gas reserves and rich in natural resources; authoritarian and dominated by state-owned enterprises; challenges include overvalued currency, high inflation risks, lack of economic diversification due to heavy state control and bureaucracy</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $134.555 billion (2024 est.)<br>
@@ -594,7 +594,7 @@ _by type_: general cargo 6, oil tanker 8, other 59<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Turkmenistan (aka Turkmen National Army): Ground Forces, Air Force, Navy<br><br>Ministry of Internal Affairs: Internal Troops, Turkmen (National) Police, Federal/State Border Guard Service (2024)<br>
+Armed Forces of Turkmenistan (aka Turkmen National Army): Ground Forces, Air Force, Navy<br><br>Ministry of Internal Affairs: Internal Troops, Turkmen (National) Police, Federal/State Border Guard Service (2025)<br>
 
 **Military expenditures**<br>
 1.9% of GDP (2019 est.)<br>
@@ -604,10 +604,10 @@ Armed Forces of Turkmenistan (aka Turkmen National Army): Ground Forces, Air For
 1.5% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-limited available information; estimated 35,000 active Armed Forces (2025)<br>
+estimated 35,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised largely of Russian and Soviet-era weapons and equipment with smaller quantities of military systems from suppliers such as Brazil, China, Italy, and Turkey (2024)<br>
+the military's inventory is comprised largely of Russian/Soviet-era armaments with smaller quantities from suppliers such as Brazil, China, Italy, and T&uuml;rkiye (2025)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory military service for men and volunteer service for men and women; 24-month conscript service obligation (2025)<br>

@@ -103,21 +103,21 @@ _elderly dependency ratio_: 24.1 (2024 est.)<br>
 _potential support ratio_: 4.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 40.2 years (2024 est.)<br>
+_total_: 40.5 years (2025 est.)<br>
 _male_: 39.7 years<br>
 _female_: 40.6 years<br>
 
 **Population growth rate**<br>
-0.93% (2024 est.)<br>
+0.8% (2025 est.)<br>
 
 **Birth rate**<br>
-11.1 births/1,000 population (2024 est.)<br>
+10.95 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.4 deaths/1,000 population (2024 est.)<br>
+7.43 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-5.6 migrant(s)/1,000 population (2024 est.)<br>
+4.48 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population distribution is weighted to the eastern side of the island, with the largest concentration in and around Dublin; populations in the west are small due to mountainous land, poorer soil, and lack of transport routes<br>
@@ -143,7 +143,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 4 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 3.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 3.2 deaths/1,000 live births<br>
 _female_: 3.3 deaths/1,000 live births<br>
 
@@ -153,10 +153,10 @@ _male_: 80.3 years<br>
 _female_: 83.9 years<br>
 
 **Total fertility rate**<br>
-1.72 children born/woman (2024 est.)<br>
+1.72 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.84 (2024 est.)<br>
+0.83 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 95.4% of population (2022 est.)<br>
@@ -200,7 +200,7 @@ _male_: 19.2% (2025 est.)<br>
 _female_: 14.4% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-52.1% (2023 est.)<br>
+47.1% (2022 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 2.9% of GDP (2021 est.)<br>
@@ -655,14 +655,14 @@ Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Re
 approximately 7,500 active-duty Defense Forces (authorized establishment of 9,500) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Irish Defense Forces have a small inventory of imported weapons systems from a variety of mostly European countries, particularly the UK (2024)<br>
+the Irish Defense Forces have an inventory of imported weapons systems from a variety of mostly European countries (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age for men and women for voluntary military service; 12-year service (5 active, 7 reserves) (2024)<br>
-<strong>note 1:</strong> as of 2024, women made up about 7.5% of the military's full-time personnel<br><br><strong>note 2:</strong> the Defense Forces are open to refugees under the Refugee Act of 1996 and nationals of the European Economic Area, which include EU member states, Iceland, Liechtenstein, and Norway<br>
+18-38 years of age for men and women for voluntary military service (2026)<br>
+<strong>note 1:</strong> as of 2025, women made up about 7.5% of the military's full-time personnel<br><br><strong>note 2:</strong> the Defense Forces are open to refugees under the Refugee Act of 1996 and nationals of the European Economic Area, which include EU member states, Iceland, Liechtenstein, and Norway<br>
 
 **Military deployments**<br>
-130 Golan Heights (UNDOF); 325 Lebanon (UNIFIL) (2024)<br>
+330 Lebanon (UNIFIL); also contributes small numbers of troops to EU, NATO, and other UN missions (2025)<br>
 
 **Military - note**<br>
 the Irish Defense Forces (IDF) are responsible for external defense, assisting civil authorities upon request, participating in multinational peacekeeping and humanitarian operations, and providing for maritime security; the IDF traces its origins back to the Irish Volunteers, a unit established in 1913 which took part in the 1916 Easter Rising and the Irish War of Independence (1919-1921)<br><br>Ireland has a long-standing policy of military neutrality; however, Ireland is a signatory of the EU’s Common Security and Defense Policy and has committed a battalion of troops to the EU’s Rapid Reaction Force; Ireland is not a member of NATO but has a relationship with it going back to 1997, when it deployed personnel in support of the NATO-led peacekeeping operation in Bosnia and Herzegovina; Ireland joined NATO’s Partnership for Peace program in 1999; it has been active in UN peacekeeping operations since the 1950s (2025)<br>

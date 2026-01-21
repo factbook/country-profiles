@@ -106,21 +106,21 @@ _elderly dependency ratio_: 32.3 (2024 est.)<br>
 _potential support ratio_: 3.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 45.1 years (2024 est.)<br>
+_total_: 44 years (2025 est.)<br>
 _male_: 40.9 years<br>
 _female_: 49.2 years<br>
 
 **Population growth rate**<br>
--1.05% (2024 est.)<br>
+-0.71% (2025 est.)<br>
 
 **Birth rate**<br>
-8.9 births/1,000 population (2024 est.)<br>
+7.01 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-15.2 deaths/1,000 population (2024 est.)<br>
+14.1 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--4.1 migrant(s)/1,000 population (2024 est.)<br>
+0 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 fairly even population distribution throughout the country, but somewhat greater concentrations in the southern cities of Vilnius and Kaunas, as well as the western port of Klaipeda<br>
@@ -146,7 +146,7 @@ _total population_: 0.86 male(s)/female (2024 est.)<br>
 8 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.6 deaths/1,000 live births (2024 est.)<br>
+_total_: 2.5 deaths/1,000 live births (2025 est.)<br>
 _male_: 4 deaths/1,000 live births<br>
 _female_: 3.1 deaths/1,000 live births<br>
 
@@ -156,10 +156,10 @@ _male_: 70.8 years<br>
 _female_: 81.7 years<br>
 
 **Total fertility rate**<br>
-1.62 children born/woman (2024 est.)<br>
+1.22 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.79 (2024 est.)<br>
+0.6 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -206,7 +206,7 @@ _female_: 16.7% (2025 est.)<br>
 1.1% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-53.4% (2023 est.)<br>
+51.8% (2024 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0% (2022)<br>
@@ -647,7 +647,7 @@ Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Lithuanian Land Forces
 approximately 20,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a mix of mostly European and US weapons and equipment (2024)<br>
+the military's inventory is a mix of mostly European and US armaments (2025)<br>
 
 **Military service age and obligation**<br>
 19-26 years of age for conscripted military service for men; 9-month service obligation;  18-38 for voluntary service for men and women; 18-60 for the National Defense Volunteer Services (2025)<br>

@@ -108,21 +108,21 @@ _elderly dependency ratio_: 2.7 (2024 est.)<br>
 _potential support ratio_: 36.9 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 35.8 years (2024 est.)<br>
+_total_: 35.8 years (2025 est.)<br>
 _male_: 38.1 years<br>
 _female_: 29.8 years<br>
 
 **Population growth rate**<br>
-0.6% (2024 est.)<br>
+0.62% (2025 est.)<br>
 
 **Birth rate**<br>
-10.7 births/1,000 population (2024 est.)<br>
+10.65 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-1.7 deaths/1,000 population (2024 est.)<br>
+1.73 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--3.1 migrant(s)/1,000 population (2024 est.)<br>
+-2.67 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population is heavily concentrated to the northeast on the Musandam Peninsula; the three largest emirates -- Abu Dhabi, Dubai, and Sharjah -- are home to nearly 85% of the population<br>
@@ -145,7 +145,7 @@ _total population_: 2.13 male(s)/female (2024 est.)<br>
 3 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5 deaths/1,000 live births (2024 est.)<br>
+_total_: 4.9 deaths/1,000 live births (2025 est.)<br>
 _male_: 5.5 deaths/1,000 live births<br>
 _female_: 4.4 deaths/1,000 live births<br>
 
@@ -155,10 +155,10 @@ _male_: 78.6 years<br>
 _female_: 81.4 years<br>
 
 **Total fertility rate**<br>
-1.61 children born/woman (2024 est.)<br>
+1.6 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.78 (2024 est.)<br>
+0.78 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -202,7 +202,7 @@ _male_: 13.9% (2025 est.)<br>
 _female_: 2.4% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-72.4% (2023 est.)<br>
+67.4% (2018 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.9% of GDP (2021 est.)<br>
@@ -635,7 +635,7 @@ United Arab Emirates Armed Forces: Land Forces (Army), Navy, Air Force, Presiden
 approximately 65,000 active Armed Forces (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised of a wide variety of mostly modern imported weapons and equipment, and a small, but expanding amount of domestically-produced items; major foreign suppliers have included China, France, Italy, Russia, South Africa, South Korea, Turkey, and the US; the UAE has a &nbsp;growing domestic defense industry which produces or co-produces such items as armored vehicles, naval vessels, precision munitions, and unmanned aerial vehicles/drones (2024)<br>
+the military is equipped with mostly modern imported armaments, and a smaller amount of domestically produced weapons; foreign suppliers have included China, France, Germany, Israel, Italy, Russia, South Africa, South Korea, T&uuml;rkiye, and the US; the UAE's domestic defense industry produces or co-produces such items as armored vehicles, naval vessels, precision munitions, and unmanned aerial vehicles/drones for both internal use and export (2025)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for compulsory national service for men (compulsory service initiated in 2014); 18-40 for voluntary service; 36-month service obligation for men without a secondary education and 11 months for secondary school graduates; women may volunteer for national service (11-month service obligation regardless of education) (2025)<br>

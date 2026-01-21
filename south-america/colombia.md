@@ -115,21 +115,21 @@ _elderly dependency ratio_: 16.9 (2024 est.)<br>
 _potential support ratio_: 5.9 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 32.7 years (2024 est.)<br>
+_total_: 33.1 years (2025 est.)<br>
 _male_: 31.5 years<br>
 _female_: 34 years<br>
 
 **Population growth rate**<br>
-0.48% (2024 est.)<br>
+0.54% (2025 est.)<br>
 
 **Birth rate**<br>
-14.9 births/1,000 population (2024 est.)<br>
+14.73 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8 deaths/1,000 population (2024 est.)<br>
+6.96 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--2.1 migrant(s)/1,000 population (2024 est.)<br>
+-2.38 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the majority of people live in the north and west, where agricultural opportunities and natural resources are found; the vast grasslands of the llanos to the south and east, which make up approximately 60% of the country, are sparsely populated<br>
@@ -156,7 +156,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 59 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 11.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 13.1 deaths/1,000 live births<br>
 _female_: 10.2 deaths/1,000 live births<br>
 
@@ -166,10 +166,10 @@ _male_: 71.3 years<br>
 _female_: 78.7 years<br>
 
 **Total fertility rate**<br>
-1.94 children born/woman (2024 est.)<br>
+1.94 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.95 (2024 est.)<br>
+0.94 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.9% of population (2022 est.)<br>
@@ -216,7 +216,7 @@ _female_: 4.1% (2025 est.)<br>
 3.7% (2016 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-55.3% (2023 est.)<br>
+50.9% (2018 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 4.9% (2015)<br>
@@ -626,8 +626,8 @@ _total subscriptions_: 7.277 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 14 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 87.4 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 156 (2022 est.)<br>
+_total subscriptions_: 87,365,900 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 174 (2024 est.)<br>
 
 **Broadcast media**<br>
 combination of state-owned and privately owned broadcast media provide service; more than 500 radio stations and many national, regional, and local TV stations (2019)<br>
@@ -686,14 +686,14 @@ Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: 
 3.4% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 260,000 active Military Forces; approximately 150,000 National Police (2025)<br>
+approximately 260,000 active Military Forces; approximately 150,000 National Police (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a wide mix of equipment from a variety of suppliers, including Canada, Germany, Israel, South Korea, and especially the US; Colombia's defense industry is active in producing air, land, and naval platforms (2024)<br>
+the military's inventory includes a mix of domestically produced and imported armaments from a variety of suppliers, including Brazil, Canada, Germany, Israel, South Korea, and the US; Colombia's defense industry is active in producing air, land, and naval platforms (2025)<br>
 
 **Military service age and obligation**<br>
-18-24 years of age for compulsory (men) and voluntary (men and women) military (and police) service; conscript service obligation is 18 months or 12 months for those with a college degree; conscripted soldiers reportedly include regular soldiers (conscripts without a high school degree), drafted high school graduates (bachilleres), and rural (campesino) soldiers who serve in their home regions (2024)<br>
-<strong>note:</strong> the Colombian military first incorporated women in 1976 in administrative positions; women were incorporated as non-commissioned officers in 1983 and officers in 2009; as of 2023, about 6,000 women served in the uniformed military while more than 30,000 served in the National Police<br>
+18-24 years of age for compulsory (men) and voluntary (men and women) military (and police) service; conscript service obligation is 18 months or 12 months for those with a college degree; conscripted soldiers reportedly include regular soldiers (conscripts without a high school degree), drafted high school graduates (bachilleres), and rural (campesino) soldiers who serve in their home regions (2025)<br>
+<strong>note:</strong> women comprised a little more than 3% of the active military in 2024<br>
 
 **Military deployments**<br>
 275 Egypt (MFO) (2025)<br>

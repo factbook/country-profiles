@@ -118,21 +118,21 @@ _elderly dependency ratio_: 5.9 (2024 est.)<br>
 _potential support ratio_: 16.9 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 22.4 years (2024 est.)<br>
+_total_: 22.7 years (2025 est.)<br>
 _male_: 22 years<br>
 _female_: 22.7 years<br>
 
 **Population growth rate**<br>
-1.99% (2024 est.)<br>
+1.94% (2025 est.)<br>
 
 **Birth rate**<br>
-23.7 births/1,000 population (2024 est.)<br>
+23.26 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-3.9 deaths/1,000 population (2024 est.)<br>
+3.86 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2024 est.)<br>
+0 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population is concentrated in the north, center, and eastern parts of the country, with many of the larger urban agglomerations found along extensive parts of the Tigris and Euphrates Rivers; much of the western and southern areas are either lightly populated or uninhabited<br>
@@ -155,7 +155,7 @@ _total population_: 1.02 male(s)/female (2024 est.)<br>
 66 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 18.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 20.4 deaths/1,000 live births<br>
 _female_: 17 deaths/1,000 live births<br>
 
@@ -165,10 +165,10 @@ _male_: 71.9 years<br>
 _female_: 75.7 years<br>
 
 **Total fertility rate**<br>
-3.1 children born/woman (2024 est.)<br>
+3.03 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.51 (2024 est.)<br>
+1.48 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.8% of population (2022 est.)<br>
@@ -215,7 +215,7 @@ _female_: 1.3% (2025 est.)<br>
 3.9% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-65.5% (2023 est.)<br>
+64.3% (2018 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 7.2% (2018)<br>
@@ -594,8 +594,8 @@ _total subscriptions_: 1.977 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 45.7 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 98 (2022 est.)<br>
+_total subscriptions_: 46.1 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 100 (2024 est.)<br>
 
 **Broadcast media**<br>
 the number of private radio and TV stations has increased rapidly since 2003; state-owned TV and radio stations are operated by the publicly funded Iraqi Media Network; private broadcast media are mostly linked to political, ethnic, or religious groups; satellite TV is available to about 70% of viewers; many broadcasters are based abroad; transmissions of multiple international radio broadcasters are accessible (2019)<br>
@@ -642,7 +642,7 @@ _key ports_: Al Basrah, Al-Basra Oil Terminal, Khawr Al Amaya, Khawr Al Zubair, 
 
 **Military and security forces**<br>
 Ministry of Defense: Iraqi Army, Iraqi Navy, Iraqi Air Force<br><br>Office of the Prime Minister: Iraqi Counterterrorism Service (CTS); Popular Mobilization Committee (PMC)<br><br>Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Provincial Police; Ministry of Oil: Energy Police Directorate (2025)<br>
-<strong>note 1: </strong>the Iraqi military and associated security forces are collectively known as the Iraqi Security Forces (ISF); the Iraqi Counterterrorism Service (CTS) includes the Iraqi Special Operations Forces (ISOF)<br><br><strong>note 2:</strong> the PMC includes the Popular Mobilization Forces (PMF), a collection of more than 60 militias of widely varied sizes and political interests; the Iraqi Government funds the PMF and it is mandated by law to act under government control, but many of the militia units take orders from individual government officials and/or associated political parties; some militias have ties to Iran and some have been designated as terrorist organizations by the US<br><br><strong>note 3:</strong> the federal constitution provides the Kurdistan Regional Government (KRG) the right to maintain its own military and security forces, known as the Kurdish Security Forces (KSF); some forces, such as the Regional Guard Brigades, are unified under the KRG's Ministry of Peshmerga Affairs, but the two main Kurdish political parties, the Kurdistan Democratic Party (KDP) and the Patriotic Union of Kurdistan (PUK), also maintain their own military forces, police, emergency response, and internal security/intelligence services<br>
+<strong>note 1: </strong>the Iraqi military and associated security forces are collectively known as the Iraqi Security Forces (ISF); the Iraqi Counterterrorism Service (CTS) includes the Iraqi Special Operations Forces (ISOF)<br><br><strong>note 2:</strong> the Iraqi Government funds the PMF, and it is mandated by law to act under government control but many of the militia units take orders from individual government officials and/or associated political parties; some militias have ties to Iran and some have been designated as terrorist organizations by the US (see Terrorism Reference)<br><br><strong>note 3:</strong> the federal constitution provides the Kurdistan Regional Government (KRG) the right to maintain its own military and security forces, known as the Kurdish Security Forces (KSF); some forces, such as the Regional Guard Brigades, are unified under the KRG's Ministry of Peshmerga Affairs, but the two main Kurdish political parties, the Kurdistan Democratic Party (KDP) and the Patriotic Union of Kurdistan (PUK), also maintain their own military forces, police, emergency response, and internal security/intelligence services<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2024 est.)<br>
@@ -655,11 +655,10 @@ Ministry of Defense: Iraqi Army, Iraqi Navy, Iraqi Air Force<br><br>Office of th
 estimated 200,000 active armed forces personnel under the Ministry of Defense (Army, Aviation Command, Air/Air Defense, Navy, Special Forces); approximately 20-25,000 National-Level Security Forces<br><br>Ministry of Peshmerga: estimated 150,000 active personnel<br><br>Popular Mobilization Forces: estimated 200,000 militia (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Iraqi military's inventory includes a mix of equipment from a wide variety of sources, including China, several European countries, South Africa, South Korea, Russia, and the US (2024)<br>
+the Iraqi military's inventory includes a mix of European, Russian, Soviet-era, and US armaments (2025)<br>
 
 **Military service age and obligation**<br>
-18-40 years of age for voluntary military service; no conscription (2023)<br>
-<strong>note:</strong> service in the armed forces was mandatory in Iraq from 1935 up until 2003; in 2021, the Iraqi cabinet approved a draft law to reinstate compulsory military service and referred the proposed law to the Iraqi parliament; as of 2023, the proposed law had been shelved<br>
+18 years of age for voluntary military service; no conscription (2025)<br>
 
 **Military - note**<br>
 the Iraqi Security Forces (ISF) are primarily focused on internal and border security; they are actively conducting counterinsurgency and counterterrorism operations against the Islamic State of Iraq and ash-Sham (ISIS) terrorist group, particularly in northern and western Iraq; the operations include securing the border with Syria; the Kurdish Security Forces, as well as are also active in conducting operations against ISIS <br><br>two international military task forces operate in Iraq to assist the country's security forces at the request of the Iraqi Government; in 2018, NATO established an advisory, training and capacity-building mission for the Iraqi military known as the NATO Mission Iraq (NMI); in December 2021, the US-led Combined Joint Task Force – Operation Inherent Resolve (CJTF-OIR) transitioned from a combat role to an advise, assist, and enable role (2025)<br>

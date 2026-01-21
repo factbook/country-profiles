@@ -127,21 +127,21 @@ _elderly dependency ratio_: 28.4 (2024 est.)<br>
 _potential support ratio_: 3.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 38.9 years (2022 est.)<br>
+_total_: 39.5 years (2025 est.)<br>
 _male_: 37.8 years<br>
 _female_: 40 years<br>
 
 **Population growth rate**<br>
-0.67% (2024 est.)<br>
+0.45% (2025 est.)<br>
 
 **Birth rate**<br>
-12.2 births/1,000 population (2024 est.)<br>
+10.75 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.5 deaths/1,000 population (2024 est.)<br>
+8.76 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-3 migrant(s)/1,000 population (2024 est.)<br>
+2.54 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 large urban clusters are spread throughout the eastern half of the US (particularly the Great Lakes area, northeast, east, and southeast) and the western-tier states; mountainous areas such as the Rocky Mountains and Appalachians, deserts in the southwest, the dense boreal forests in the extreme north, and the central prairie states are less densely populated; Alaska's population is concentrated along its southern coast, particularly around Anchorage, and Hawaii's is centered on the island of Oahu<br>
@@ -167,7 +167,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 17 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 5 deaths/1,000 live births (2025 est.)<br>
 _male_: 5.4 deaths/1,000 live births<br>
 _female_: 4.7 deaths/1,000 live births<br>
 
@@ -177,10 +177,10 @@ _male_: 78.7 years<br>
 _female_: 83.1 years<br>
 
 **Total fertility rate**<br>
-1.84 children born/woman (2024 est.)<br>
+1.63 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.9 (2024 est.)<br>
+0.02 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -227,7 +227,7 @@ _female_: 16.7% (2025 est.)<br>
 0.4% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-51.9% (2023 est.)<br>
+52.1% (2022 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 5.4% of GDP (2021 est.)<br>
@@ -674,13 +674,13 @@ United States Armed Forces (aka US Military): US Army (USA), US Navy (USN; inclu
 3.5% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 1.28 million active-duty Armed Forces (450,000 Army; 334,000 Navy; 317,000 Air Force; 10,000 Space Force; 168,000 Marine Corps); 42,000 Coast Guard) (2025)<br>
+approximately 1.28 million active duty Armed Forces (450,000 Army; 334,000 Navy; 317,000 Air Force; 10,000 Space Force; 168,000 Marine Corps); 42,000 Coast Guard) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the US military's inventory is comprised almost entirely of domestically produced weapons systems (some assembled with foreign components) along with a smaller mix of imported equipment from a variety of countries such as Germany and the UK; the US defense industry is capable of designing, developing, maintaining, and producing the full spectrum of weapons systems; the US is the world's leading arms exporter (2024)<br>
+the US military's inventory is comprised almost entirely of domestically produced weapons systems (some assembled with foreign components) along with a smaller mix of imported equipment from a variety of countries such as Germany and the UK; the US defense industry is capable of designing, developing, maintaining, and producing the full spectrum of weapons systems; the US is the world's leading arms exporter (2025)<br>
 
 **Military service age and obligation**<br>
-17 years of age (under 18 with parental consent) for voluntary service for men and women; maximum enlistment age 35 (Army), 42 (Air Force/Space Force), 41 (Navy), 28 (Marines), 41 (Coast Guard); 8-year service obligation, including 2-5 years active duty depending on the particular military service  (2025)<br>
+17 years of age (under 18 with parental consent) for voluntary service for men and women; maximum enlistment age 35 (Army), 42 (Air Force/Space Force), 41 (Navy), 28 (Marines), 41 (Coast Guard); 8-year initial service obligation, including 2-5 years active duty depending on the particular military service (2025)<br>
 <strong>note 1: </strong>the US military has been all-volunteer since 1973, but an act of Congress can reinstate the draft in case of a national emergency; males aged 18-25 must register with Selective Service<br><strong><br>note 2:</strong> all military occupations and positions open to women; in 2022, women comprised 17.5% of the total US regular military personnel<br><br><strong>note 3:</strong> non-citizens living permanently and legally in the US may join as enlisted personnel; they must have permission to work in the US, a high school diploma, and speak, read, and write English fluently; under the Compact of Free Association, citizens of the Federated States of Micronesia, the Republic of Palau, and the Republic of the Marshall Islands may volunteer<br>
 
 **Military deployments**<br>
@@ -699,10 +699,10 @@ National Aeronautics and Space Administration (NASA; established 1958) (2025)<br
 has 20 government and commercial spaceports licensed by the Federal Aviation Administration spread across 10 states (Alabama, Alaska, California, Colorado, Florida, Georgia, New Mexico, Oklahoma, Texas, and Virginia) (2025)<br>
 
 **Space program overview**<br>
-has a large, comprehensive space program and is one of the world&rsquo;s top space powers; builds, launches, and operates space launch vehicles (SLVs)/rockets and the full spectrum of spacecraft, including interplanetary probes, manned craft, reusable rockets, satellites, space stations, and space planes/shuttles; has an astronaut program and a corps of astronauts; researching and developing a broad range of other space-related technologies, including advanced telecommunications and optics, navigational aids, propulsion, and robotics; has launched orbital or lander probes to the Sun and all the planets in the solar system, as well as to asteroids and beyond the solar system; has dozens of international missions and projects, including with Canada, Japan, Russia, South Korea, and the ESA; as of October 2025, nearly 60 countries had signed onto the US-led Artemis Accords to enhance the governance of civil exploration and use of outer space; the US commercial space industry is one of the world&rsquo;s largest and is active across the spectrum of US government space programs; US commercial companies conduct the majority of NASA and US military space launches (2025)<br>
+has a large, comprehensive space program and is one of the world&rsquo;s top space powers; builds, launches, and operates space launch vehicles (SLVs)/rockets and the full spectrum of spacecraft, including interplanetary probes, manned craft, reusable rockets, satellites, space stations, and space planes/shuttles; has an astronaut program and a corps of astronauts; researching and developing a broad range of other space-related technologies, including advanced telecommunications and optics, navigational aids, propulsion, and robotics; has launched orbital or lander probes to the Sun and all the planets in the solar system, as well as to asteroids and beyond the solar system; has dozens of international missions and projects, including with Canada, Japan, Russia, South Korea, and the ESA; as of January 2026, 60 countries had signed onto the US-led Artemis Accords to enhance the governance of civil exploration and use of outer space; the US commercial space industry is one of the world&rsquo;s largest and is active across the spectrum of US government space programs; US commercial companies conduct the majority of NASA and US military space launches (2026)<br>
 
 **Key space-program milestones**<br>
-1958-1963 - Project Mercury first manned space flights, Project Gemini longer-duration manned flights in preparation for Moon landings (1961-63)<br><br>1963-1971 - Project Apollo Moon landings (world's first manned landing on the Moon, 1969)<br><br>1964 - launched first successful Mars probe (Mariner)<br><br>1965-1979 - operated Skylab space station  <br><br>1977 - began launching Voyager probes to Jupiter, Saturn, and beyond the solar system<br><br>1980s-2011 - operated Space Shuttle program (world’s first re-usable space orbiters)<br><br>1990 - launched Hubble Space Telescope<br><br>1993 - began participating in International Space Station project<br><br>2003 - launched surface rover vehicles (Spirit and Opportunity) to Mars <br><br>2011 - launched orbital probe (Juno) to Jupiter <br><br>2016 - launched OSIRIS-REx mission to retrieve asteroid sample (landed on asteroid Bennu in 2020 and returned with sample in 2023)<br><br>2017 - initiated Artemis lunar landing project<br><br>2019 - initiated Gateway lunar orbital station project<br><br>2021 - launched James Webb Space Telescope (ESA contributed launch vehicle and launch site); surface rover vehicle (Perseverance) with robot helicopter (Ingenuity) successfully landed on surface of Mars<br><br>2024 - successfully placed a commercial lander on the Moon and launched probe (Europa Clipper) to study Jupiter's Europa moon<br>
+1958-1963 - Project Mercury first manned space flights<br><br>1961-1963 - Project Gemini (longer-duration manned flights in preparation for Moon landings)<br><br>1963-1971 - Project Apollo Moon landings (world's first manned landing on the Moon, 1969)<br><br>1964 - launched first successful Mars probe (Mariner)<br><br>1965-1979 - operated Skylab space station  <br><br>1977 - began launching Voyager probes to Jupiter, Saturn, and beyond the solar system<br><br>1980s-2011 - operated Space Shuttle program (world’s first re-usable space orbiters)<br><br>1990 - launched Hubble Space Telescope<br><br>1993 - began participating in International Space Station project<br><br>2003 - launched surface rover vehicles (Spirit and Opportunity) to Mars <br><br>2011 - launched orbital probe (Juno) to Jupiter <br><br>2016 - launched OSIRIS-REx mission to retrieve asteroid sample (landed on asteroid Bennu in 2020 and returned with sample in 2023)<br><br>2017 - initiated Artemis lunar landing project<br><br>2019 - initiated Gateway lunar orbital station project<br><br>2021 - launched James Webb Space Telescope (ESA contributed launch vehicle and launch site); surface rover vehicle (Perseverance) with robot helicopter (Ingenuity) successfully landed on surface of Mars<br><br>2024 - successfully placed a commercial lander on the Moon and launched probe (Europa Clipper) to study Jupiter's Europa moon<br>
 
 ## Terrorism
 

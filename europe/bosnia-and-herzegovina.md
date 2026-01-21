@@ -107,21 +107,21 @@ _elderly dependency ratio_: 26.7 (2024 est.)<br>
 _potential support ratio_: 3.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 44.8 years (2024 est.)<br>
+_total_: 45.7 years (2025 est.)<br>
 _male_: 43.1 years<br>
 _female_: 46.5 years<br>
 
 **Population growth rate**<br>
--0.25% (2024 est.)<br>
+-0.67% (2025 est.)<br>
 
 **Birth rate**<br>
-8.2 births/1,000 population (2024 est.)<br>
+6.88 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-10.3 deaths/1,000 population (2024 est.)<br>
+12.29 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.4 migrant(s)/1,000 population (2024 est.)<br>
+-1.28 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the northern and central areas of the country are the most densely populated<br>
@@ -147,7 +147,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 6 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5 deaths/1,000 live births (2024 est.)<br>
+_total_: 3.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 5.1 deaths/1,000 live births<br>
 _female_: 4.9 deaths/1,000 live births<br>
 
@@ -157,10 +157,10 @@ _male_: 75.5 years<br>
 _female_: 81.6 years<br>
 
 **Total fertility rate**<br>
-1.38 children born/woman (2024 est.)<br>
+1.15 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.67 (2024 est.)<br>
+0.56 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 94.8% of population (2022 est.)<br>
@@ -198,9 +198,6 @@ _other alcohols_: 0.17 liters of pure alcohol (2019 est.)<br>
 _total_: 34% (2025 est.)<br>
 _male_: 39.2% (2025 est.)<br>
 _female_: 29% (2025 est.)<br>
-
-**Currently married women (ages 15-49)**<br>
-63.8% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.2% of GDP (2023 est.)<br>
@@ -586,8 +583,8 @@ _total subscriptions_: 614,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 19 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3.87 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 118 (2022 est.)<br>
+_total subscriptions_: 3,749,900 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 121 (2024 est.)<br>
 
 **Broadcast media**<br>
 3 public TV broadcasters: Radio and TV of Bosnia and Herzegovina, Federation TV (operating 2 networks), and Republika Srpska Radio-TV; a local commercial network of 5 TV stations; 3 private, near-national TV stations and dozens of small independent TV stations; 3 large public radio broadcasters and many private radio stations (2019)<br>
@@ -639,13 +636,13 @@ Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegov
 0.9% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 10,000 active-duty Armed Forces (2024)<br>
+approximately 10,000 active duty Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory of weapons and equipment is a combination of material originating from the former Soviet Union/former Yugoslavia and secondhand deliveries from Western suppliers such as the UK and especially the US (2024)<br>
+the military's inventory of weapons and equipment is a combination of material originating from the former Soviet Union/former Yugoslavia and some newer acquisitions from suppliers such as T&uuml;rkiye, the UK, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; conscription abolished in 2005 (2024)<br>
+18 -27 years of age for voluntary military service; conscription ended in January 2006 (2025)<br>
 <strong>note:</strong> as of 2024, women made up about 9% of the military's full-time personnel<br>
 
 **Military - note**<br>

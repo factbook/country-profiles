@@ -110,21 +110,21 @@ _elderly dependency ratio_: 6.8 (2024 est.)<br>
 _potential support ratio_: 14.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 21.7 years (2024 est.)<br>
+_total_: 21.9 years (2025 est.)<br>
 _male_: 21.6 years<br>
 _female_: 21.9 years<br>
 
 **Population growth rate**<br>
-2.26% (2024 est.)<br>
+2.22% (2025 est.)<br>
 
 **Birth rate**<br>
-28.1 births/1,000 population (2024 est.)<br>
+27.57 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.4 deaths/1,000 population (2024 est.)<br>
+5.36 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2024 est.)<br>
+0 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the highlands and eastern coastal areas on the island of New Guinea; predominantly a rural distribution with only about one fifth of the population residing in urban areas<br>
@@ -151,7 +151,7 @@ _total population_: 1.03 male(s)/female (2024 est.)<br>
 189 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 32 deaths/1,000 live births (2024 est.)<br>
+_total_: 31.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 35.3 deaths/1,000 live births<br>
 _female_: 28.6 deaths/1,000 live births<br>
 
@@ -161,10 +161,10 @@ _male_: 68.3 years<br>
 _female_: 71.9 years<br>
 
 **Total fertility rate**<br>
-3.79 children born/woman (2024 est.)<br>
+3.72 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.85 (2024 est.)<br>
+1.82 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 86.9% of population (2022 est.)<br>
@@ -208,7 +208,7 @@ _male_: 53.4% (2025 est.)<br>
 _female_: 23.8% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-65.5% (2023 est.)<br>
+66.9% (2018 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 8% (2018)<br>
@@ -629,7 +629,7 @@ Papua New Guinea Defense Force (PNGDF): Land, Air, Maritime elements<br><br>Mini
 estimated 4,000 active PNGDF&nbsp; (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PNGDF is lightly armed; the Land Force has no heavy weapons while the Air and the Maritime forces have a handful of light aircraft and small patrol boats provided by Australia (2024)<br>
+the PNGDF is lightly armed; the Land Force has no heavy weapons while the Air and the Maritime forces have a handful of light aircraft and small patrol boats provided by Australia and New Zealand (2025)<br>
 
 **Military service age and obligation**<br>
 18-27 (30 for officers) for voluntary military service for men and women; no conscription (2025)<br>

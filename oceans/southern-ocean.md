@@ -62,6 +62,8 @@ huge icebergs with drafts up to several hundred meters; smaller bergs and iceber
 **Geography - note**<br>
 the major chokepoint is the Drake Passage between South America and Antarctica; the Polar Front (Antarctic Convergence) is the best natural definition of the northern extent of the Southern Ocean; it is a distinct region at the middle of the Antarctic Circumpolar Current that separates the cold polar surface waters to the south from the warmer waters to the north; the Front and the Current extend entirely around Antarctica, reaching south of 60 degrees south near New Zealand and near 48 degrees south in the far South Atlantic, coinciding with the path of the maximum westerly winds<br>
 
+## People and Society
+
 ## Environment
 
 **Environmental issues**<br>

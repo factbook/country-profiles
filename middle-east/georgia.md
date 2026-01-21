@@ -105,21 +105,21 @@ _elderly dependency ratio_: 26.6 (2024 est.)<br>
 _potential support ratio_: 3.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 38.3 years (2024 est.)<br>
+_total_: 38.6 years (2025 est.)<br>
 _male_: 35.9 years<br>
 _female_: 40.6 years<br>
 
 **Population growth rate**<br>
--0.5% (2024 est.)<br>
+-0.45% (2025 est.)<br>
 
 **Birth rate**<br>
-12 births/1,000 population (2024 est.)<br>
+11.74 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-13.3 deaths/1,000 population (2024 est.)<br>
+12.89 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--3.8 migrant(s)/1,000 population (2024 est.)<br>
+-3.33 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 settlement concentrated in the central valley, particularly in the capital city of Tbilisi in the east; smaller urban agglomerations dot the Black Sea coast, with Bat'umi being the largest<br>
@@ -147,7 +147,7 @@ _total population_: 0.92 male(s)/female (2024 est.)<br>
 20 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 21.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 20.9 deaths/1,000 live births (2025 est.)<br>
 _male_: 23.6 deaths/1,000 live births<br>
 _female_: 19.7 deaths/1,000 live births<br>
 
@@ -157,10 +157,10 @@ _male_: 68.7 years<br>
 _female_: 77.2 years<br>
 
 **Total fertility rate**<br>
-1.95 children born/woman (2024 est.)<br>
+1.94 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.94 (2024 est.)<br>
+0.94 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.2% of population (2022 est.)<br>
@@ -207,7 +207,7 @@ _female_: 7.5% (2025 est.)<br>
 2.1% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-67.1% (2023 est.)<br>
+65.3% (2018 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.3% (2018)<br>
@@ -355,7 +355,7 @@ _email address and website_: <br>embgeo.usa@mfa.gov.ge<br><br>https://georgiaemb
 _consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Alan S. Purcell (since 16 July 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Alan S. PURCELL (since 16 July 2025)<br>
 _embassy_: 29 Georgian-American Friendship Avenue, Didi Dighomi, Tbilisi, 0131<br>
 _mailing address_: 7060 Tbilisi Place, Washington, DC&nbsp; 20521-7060<br>
 _telephone_: [995] (32) 227-70-00<br>
@@ -659,11 +659,11 @@ Georgian Defense Forces (GDF; aka Defense Forces of Georgia, DFG): Ground Forces
 the Georgia Defense Forces are authorized up to 37,000 personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the majority of the military's inventory consists of Soviet-era weapons and equipment, some of which has been upgraded; it has smaller quantities of mostly secondhand material from such countries as Israel, Turkey, and the US, as well as some domestically produced equipment; Georgia has a small defense industry which produces such items as small arms and light armored vehicles (2024)<br>
+the majority of the military's inventory consists of Soviet-era weapons and equipment, some of which has been upgraded; it has smaller quantities of mostly secondhand material from such countries as Israel, Poland, T&uuml;rkiye, and the US, as well as some domestically produced equipment; Georgia has a small defense industry which produces such items as small arms and light armored vehicles (2025)<br>
 
 **Military service age and obligation**<br>
-18-35 years of age for voluntary military service for men and women; conscription was abolished in 2016, but reinstated in 2017 for men 18-27 years of age; conscript service obligation is up to 11 months (six months of service in a combat unit; or eight months of service in another security organization; or 11 months of service in junior command positions and predetermined specialties  (2024)<br>
-<strong>note 1: </strong>approximately 6-7,000 individuals are called up annually for conscription for service; conscripts serve in the Defense Forces, the Ministry of Internal Affairs, or the Ministry of Corrections<br><br><strong>note 2:</strong> as of 2022, women made up about 8% of the military's full-time personnel<br>
+18-35 years of age for voluntary military service for men and women; conscription was abolished in 2016, but reinstated in 2017 for men 18-27 years of age; conscript service obligation is up to 11 months depending on the assigned ministry, job specialty, and if the service is carried out in a combat unit (2025)<br>
+<strong>note: </strong>conscripts serve in the Defense Forces, the Ministry of Internal Affairs, or the Ministry of Corrections<br>
 
 **Military - note**<br>
 the Defense Forces of Georgia (DFG) are responsible for protecting the independence, sovereignty, and territorial integrity of the country; the DFG also provides units for multinational military operations abroad and supports the Border Police in border protection and civil authorities in counter-terrorist operations, if requested; it is focused primarily on Russia, which maintains military bases and troops in occupied Abkhazia and South Ossetia; a five-day conflict with Russian forces in 2008 resulted in the defeat and expulsion of Georgian forces from the breakaway regions <br><br>Georgia is not a member of NATO but has had a relationship with the Alliance since 1992 and declared its aspiration to join in 2002; the military is working to make itself more compatible with NATO and has participated in multinational exercises and security operations abroad with NATO, such as Afghanistan, where it was one of the top non-NATO contributors, and Kosovo; the DFG has also contributed troops to EU and UN missions (2025)<br>

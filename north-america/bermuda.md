@@ -102,21 +102,21 @@ _elderly dependency ratio_: 37.2 (2024 est.)<br>
 _potential support ratio_: 2.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 43.8 years (2024 est.)<br>
+_total_: 43.9 years (2025 est.)<br>
 _male_: 41.5 years<br>
 _female_: 46.3 years<br>
 
 **Population growth rate**<br>
-0.3% (2024 est.)<br>
+0.27% (2025 est.)<br>
 
 **Birth rate**<br>
-10.9 births/1,000 population (2024 est.)<br>
+10.82 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9.3 deaths/1,000 population (2024 est.)<br>
+9.4 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-1.4 migrant(s)/1,000 population (2024 est.)<br>
+1.31 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 relatively even population distribution throughout<br>
@@ -136,7 +136,7 @@ _65 years and over_: 0.74 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 2.1 deaths/1,000 live births (2025 est.)<br>
 _male_: 2.5 deaths/1,000 live births<br>
 _female_: 1.8 deaths/1,000 live births<br>
 
@@ -146,10 +146,10 @@ _male_: 79.4 years<br>
 _female_: 85.7 years<br>
 
 **Total fertility rate**<br>
-1.88 children born/woman (2024 est.)<br>
+1.88 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.92 (2024 est.)<br>
+0.92 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.9% of population (2022 est.)<br>
@@ -164,7 +164,7 @@ _unimproved: urban_: urban: 0.1% of population (2022 est.)<br>
 _unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-47.6% (2023 est.)<br>
+49.7% (2016 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 1.9% of GDP (2023 est.)<br>
@@ -466,8 +466,8 @@ _total subscriptions_: 25,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 39 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 68,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 106 (2021 est.)<br>
+_total subscriptions_: 68,164 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 97 (2024 est.)<br>
 
 **Broadcast media**<br>
 3 TV stations; cable and satellite TV subscription services are available; roughly 13 radio stations operating<br>
@@ -514,7 +514,7 @@ Royal Bermuda Regiment; Bermuda Police Service (2025)<br>
 the Royal Bermuda Regiment has about 350 troops (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Regiment is equipped with small arms (2024)<br>
+the Regiment is equipped with small arms (2025)<br>
 
 **Military service age and obligation**<br>
 men and women who are Commonwealth citizens and 18-45 years of age can volunteer for the Bermuda Regiment; service is for a minimum period of three years and two months from the date of enlistment; after completing their initial service, soldiers in the Regiment can choose to extend their service (2025)<br>

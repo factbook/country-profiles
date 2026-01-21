@@ -100,21 +100,21 @@ _elderly dependency ratio_: 22.5 (2024 est.)<br>
 _potential support ratio_: 4.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 42.5 years (2024 est.)<br>
+_total_: 43 years (2025 est.)<br>
 _male_: 41.5 years<br>
 _female_: 43.1 years<br>
 
 **Population growth rate**<br>
-0.67% (2024 est.)<br>
+0.64% (2025 est.)<br>
 
 **Birth rate**<br>
-8.6 births/1,000 population (2024 est.)<br>
+8.31 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-4.9 deaths/1,000 population (2024 est.)<br>
+5.02 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-3.1 migrant(s)/1,000 population (2024 est.)<br>
+3.08 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population fairly equally distributed<br>
@@ -134,7 +134,7 @@ _65 years and over_: 0.89 male(s)/female<br>
 _total population_: 0.9 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 4.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 4.5 deaths/1,000 live births<br>
 _female_: 4.3 deaths/1,000 live births<br>
 
@@ -144,16 +144,13 @@ _male_: 82.5 years<br>
 _female_: 88.3 years<br>
 
 **Total fertility rate**<br>
-1.24 children born/woman (2024 est.)<br>
+1.25 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.6 (2024 est.)<br>
+0.61 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
-
-**Currently married women (ages 15-49)**<br>
-53.5% (2023 est.)<br>
 
 **Education expenditure**<br>
 6.3% of GDP (2020 est.)<br>

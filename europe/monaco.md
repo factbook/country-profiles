@@ -104,21 +104,21 @@ _elderly dependency ratio_: 69 (2024 est.)<br>
 _potential support ratio_: 1.4 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 56.9 years (2024 est.)<br>
+_total_: 57.5 years (2025 est.)<br>
 _male_: 55 years<br>
 _female_: 58.4 years<br>
 
 **Population growth rate**<br>
-0.71% (2024 est.)<br>
+0.76% (2025 est.)<br>
 
 **Birth rate**<br>
-6.5 births/1,000 population (2024 est.)<br>
+6.46 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-11.1 deaths/1,000 population (2024 est.)<br>
+11.36 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-11.7 migrant(s)/1,000 population (2024 est.)<br>
+12.48 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the second most densely populated country in the world (after Macau); its entire population lives on 2 sq km (0.8 sq mi)<br>
@@ -141,7 +141,7 @@ _total population_: 0.93 male(s)/female (2024 est.)<br>
 5 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 1.7 deaths/1,000 live births (2025 est.)<br>
 _male_: 2 deaths/1,000 live births<br>
 _female_: 1.4 deaths/1,000 live births<br>
 
@@ -151,10 +151,10 @@ _male_: 86 years<br>
 _female_: 93.7 years<br>
 
 **Total fertility rate**<br>
-1.54 children born/woman (2024 est.)<br>
+1.55 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.76 (2024 est.)<br>
+0.76 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -442,9 +442,6 @@ _key ports_: Monaco<br>
 **Military and security forces**<br>
 no regular military forces; Prince’s Company of Carabiniers (Compagnie des Carabiniers du Prince, Police Department (Direction de la Sûreté Publique), Fire and Emergency Service (Corps des Sapeurs-pompiers de Monaco) (2025)<br>
 <strong>note:</strong> the primary responsibility for the Compagnie des Carabiniers du Prince is guarding the palace; the Police maintain public order<br>
-
-**Military service age and obligation**<br>
-the Compagnie des Carabiniers du Prince is staffed by French nationals (2024)<br>
 
 **Military - note**<br>
 by treaty, France is responsible for defending the independence and sovereignty of Monaco<br>

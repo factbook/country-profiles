@@ -105,21 +105,21 @@ _elderly dependency ratio_: 19.6 (2024 est.)<br>
 _potential support ratio_: 5.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 39.6 years (2024 est.)<br>
+_total_: 40 years (2025 est.)<br>
 _male_: 38.1 years<br>
 _female_: 41 years<br>
 
 **Population growth rate**<br>
-0.07% (2024 est.)<br>
+0.06% (2025 est.)<br>
 
 **Birth rate**<br>
-9.8 births/1,000 population (2024 est.)<br>
+9.73 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9 deaths/1,000 population (2024 est.)<br>
+9.14 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2024 est.)<br>
+0 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population density is one of the highest in the world; urban clusters are found throughout the main island, with a greater density in and around Port Luis; the population on Rodrigues Island is fairly evenly spread, with a slightly denser cluster on the north coast, as shown in this population distribution map<br>
@@ -142,7 +142,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 66 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.6 deaths/1,000 live births (2024 est.)<br>
+_total_: 11.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 13.1 deaths/1,000 live births<br>
 _female_: 10 deaths/1,000 live births<br>
 
@@ -152,10 +152,10 @@ _male_: 72.6 years<br>
 _female_: 78.4 years<br>
 
 **Total fertility rate**<br>
-1.36 children born/woman (2024 est.)<br>
+1.36 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.66 (2024 est.)<br>
+0.66 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -195,7 +195,7 @@ _male_: 37.4% (2025 est.)<br>
 _female_: 2.6% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-62% (2023 est.)<br>
+51.6% (2022 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.1% of GDP (2024 est.)<br>
@@ -302,7 +302,7 @@ _head of government_: Prime Minister Navin RAMGOOLAM (since 13 November 2024)<br
 _cabinet_: Cabinet of Ministers (Council of Ministers) appointed by the president on the recommendation of the prime minister<br>
 _election/appointment process_: president and vice president indirectly elected by the National Assembly for 5-year renewable terms; the president appoints the prime minister and deputy prime minister who have the majority support in the National Assembly<br>
 _most recent election date_: 7 November 2019<br>
-_election results_: <em><br>2019</em>: Prithvirajsing ROOPUN (MSM) elected president by the National Assembly - unanimous vote<br><br>2015: Ameenah GURIB-FAKIM (independent) elected president by the National Assembly - unanimous vote<br>
+_election results_: <em><br>2019</em>: Prithvirajsing ROOPUN (MSM) elected president by the National Assembly - unanimous vote<br>
 _expected date of next election_: 2024<br>
 
 **Legislative branch**<br>
@@ -610,9 +610,6 @@ _key ports_: Port Louis, Port Mathurin<br>
 
 **Military and security forces**<br>
 no regular military forces; the Mauritius Police Force (MPF) under the Ministry of Defense is responsible for the country's security; it includes a paramilitary unit known as the Special Mobile Force, which includes some motorized infantry and light armored units; the MPF also has a Police Helicopter Squadron, a Special Support Unit (riot police), and the National Coast Guard (2025)<br>
-
-**Military equipment inventories and acquisitions**<br>
-the MPF's inventory is comprised of mostly secondhand equipment from Western European countries and India (2024)<br>
 
 **Military - note**<br>
 key security priorities for the Maritius Police Force (MPF) include combating narcotics trafficking, ensuring public order, fighting cybercrime, improving maritime security, and responding to natural disasters; the MPF's primary security partner is India, which provides training and other support to the National Coast Guard, while Indian naval vessels often patrol the country's waters; the MPF has also received assistance and training from France, the UK, and the US<br><br>the Special Mobile Force was created in 1960 following the withdrawal of the British garrison (2025)<br>

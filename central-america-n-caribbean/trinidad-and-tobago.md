@@ -106,21 +106,21 @@ _elderly dependency ratio_: 21 (2024 est.)<br>
 _potential support ratio_: 4.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 38.5 years (2024 est.)<br>
+_total_: 39.1 years (2025 est.)<br>
 _male_: 38 years<br>
 _female_: 39 years<br>
 
 **Population growth rate**<br>
-0.1% (2024 est.)<br>
+0.08% (2025 est.)<br>
 
 **Birth rate**<br>
-10.5 births/1,000 population (2024 est.)<br>
+10.33 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.6 deaths/1,000 population (2024 est.)<br>
+8.69 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.9 migrant(s)/1,000 population (2024 est.)<br>
+-0.89 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population on Trinidad is concentrated in the western half of the island, on Tobago in the southern half<br>
@@ -143,7 +143,7 @@ _total population_: 1.01 male(s)/female (2024 est.)<br>
 54 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 14.7 deaths/1,000 live births (2025 est.)<br>
 _male_: 17.1 deaths/1,000 live births<br>
 _female_: 13 deaths/1,000 live births<br>
 
@@ -153,10 +153,10 @@ _male_: 74.6 years<br>
 _female_: 78.4 years<br>
 
 **Total fertility rate**<br>
-1.63 children born/woman (2024 est.)<br>
+1.63 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.8 (2024 est.)<br>
+0.8 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 98.9% of population (2022 est.)<br>
@@ -187,7 +187,7 @@ _spirits_: 2.65 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.09 liters of pure alcohol (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-48.6% (2023 est.)<br>
+42.7% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.7% (2022)<br>
@@ -604,13 +604,13 @@ Trinidad and Tobago Defense Force (TTDF): Trinidad and Tobago Regiment (Army/Lan
 approximately 5,000 Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the TTDF's ground force inventory consists of light weapons, while the Coast Guard and Air Guard field mostly secondhand equipment from a mix of countries, including Australia, China, Italy, the Netherlands, the UK, and the US (2024)<br>
+the TTDF's ground force inventory consists of light weapons, while the Coast Guard and Air Guard field mostly secondhand equipment from several countries, including Australia, China, Italy, the Netherlands, and the US (2025)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service for men and women (some age variations between services, reserves); no conscription (2024)<br>
 
 **Military - note**<br>
-the primary responsibilities of the Trinidad and Tobago Defense Force (TTDF) are conducting border and maritime security, assisting civil authorities in times of crisis or disaster, providing search and rescue services, port security, and supporting civil law enforcement, particularly in countering gang-related crime and trafficking of narcotics and other illicit goods; the Police Service maintains internal security (2025)<br>
+the primary responsibilities of the Trinidad and Tobago Defense Force (TTDF) are conducting border and maritime security, assisting civil authorities in times of crisis or disaster, providing search and rescue services, securing ports, and supporting civil law enforcement, particularly in countering gang-related crime and trafficking of narcotics and other illicit goods; the Police Service maintains internal security (2025)<br>
 
 ## Terrorism
 

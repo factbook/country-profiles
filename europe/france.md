@@ -127,21 +127,21 @@ _elderly dependency ratio_: 36.2 (2024 est.)<br>
 _potential support ratio_: 2.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 42.6 years (2024 est.)<br>
+_total_: 42.7 years (2025 est.)<br>
 _male_: 41 years<br>
 _female_: 44.2 years<br>
 
 **Population growth rate**<br>
-0.2% (2024 est.)<br>
+0.2% (2025 est.)<br>
 
 **Birth rate**<br>
-10.9 births/1,000 population (2024 est.)<br>
+10.88 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-10 deaths/1,000 population (2024 est.)<br>
+9.91 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-1.1 migrant(s)/1,000 population (2024 est.)<br>
+1.06 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 much of the population is concentrated in the north and southeast; although there are many urban agglomerations throughout the country, Paris is by far the largest city, with Lyon ranked a distant second<br>
@@ -167,7 +167,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 7 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 3.1 deaths/1,000 live births (2025 est.)<br>
 _male_: 3.4 deaths/1,000 live births<br>
 _female_: 2.8 deaths/1,000 live births<br>
 
@@ -177,10 +177,10 @@ _male_: 79.8 years<br>
 _female_: 85.5 years<br>
 
 **Total fertility rate**<br>
-1.9 children born/woman (2024 est.)<br>
+1.9 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.93 (2024 est.)<br>
+0.93 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -224,7 +224,7 @@ _male_: 30.7% (2025 est.)<br>
 _female_: 27.3% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-54.8% (2023 est.)<br>
+54.9% (2020 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 5.3% of GDP (2022 est.)<br>
@@ -642,8 +642,8 @@ _total subscriptions_: 37.22 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 56 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 77.4 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 119 (2022 est.)<br>
+_total subscriptions_: 77.526 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 117 (2023 est.)<br>
 
 **Broadcast media**<br>
 a mix of both publicly operated and privately owned TV stations; state-owned TV stations operate 4 networks and have part-interest in several thematic cable/satellite channels and international channels; large number of privately owned regional and local TV stations; multi-channel satellite and cable services; public broadcaster Radio France operates 7 national networks, a series of regional networks, and services for overseas territories and foreign audiences; Radio France Internationale, under the Ministry of Foreign Affairs, is a leading international broadcaster; large number of commercial FM stations<br>
@@ -696,7 +696,7 @@ begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) 
 
 **Military and security forces**<br>
 French Armed Forces (Forces Armées Françaises): Army (l'Armee de Terre; includes Foreign Legion), Navy (Marine Nationale), Air and Space Force (l'Armee de l’Air et de l’Espace); includes Air Defense), National Guard (Garde Nationale), National Gendarmerie (Gendarmerie Nationale) (2025)<br>
-<strong>note 1: </strong>under the direction of the Ministry of the Interior, the civilian National Police and the National Gendarmerie maintain internal security; the National Gendarmerie is a paramilitary police force that is a branch of the Armed Forces and therefore part of the Ministry of Defense but under the jurisdiction of the Ministry of the Interior; it also has additional duties to the Ministry of Justice<br><br><strong>note 2:</strong> the French Foreign Legion, established in 1831, is a military force that is open to foreign recruits willing to serve in the French military for service in France and abroad; the Foreign Legion is an integrated part of the French Army; its combat units are a mix of armored cavalry and airborne, light, mechanized, and motorized infantry regiments<br>
+<strong>note 1: </strong>under the direction of the Ministry of the Interior, the civilian National Police and the National Gendarmerie maintain internal security; the National Gendarmerie is a paramilitary police force that is a branch of the Armed Forces and therefore part of the Ministry of Defense but under the jurisdiction of the Ministry of the Interior; it also has additional duties to the Ministry of Justice<br><br><strong>note 2:</strong> the National Guard is composed of operational reservists belonging to the Ministry of the Armed Forces and the Ministry of the Interior<br><br><strong>note 3:</strong> the French Foreign Legion, established in 1831, is a military force that is open to foreign recruits willing to serve in the French military for service in France and abroad; the Foreign Legion is an integrated part of the French Army; its combat units are a mix of armored cavalry and airborne, light, mechanized, and motorized infantry regiments<br>
 
 **Military expenditures**<br>
 2.1% of GDP (2025 est.)<br>
@@ -706,15 +706,14 @@ French Armed Forces (Forces Armées Françaises): Army (l'Armee de Terre; includ
 1.9% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 205,000 active duty Armed Forces; approximately 100,000 National Gendarmerie; approximately 75,000 National Guard (2024)<br>
+approximately 200,000 active duty Armed Forces; approximately 150,000 National Gendarmerie; approximately 80,000 National Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the French military's inventory consists mostly of domestically produced weapons systems, including some jointly produced with other European countries; there is a smaller mix of armaments from other Western countries, particularly the US; France has a large and sophisticated defense industry capable of manufacturing the full spectrum of air, land, and naval military weapons systems (2024)<br>
-<strong>note:</strong> two major future acquisition programs for the French military included the Franco-German-Spanish Future Combat Air System, or FCAS (known in France as the système combat aérien du futur, or SCAF) and a next-generation tank development project with Germany known as the Main Ground Combat System, or MGCS<br>
+the French military's inventory consists mostly of domestically produced weapons systems, including some jointly produced with other European countries; there is a smaller mix of armaments from other Western countries, particularly the US; France has a large and sophisticated defense industry capable of manufacturing the full spectrum of air, land, and naval military weapons systems (2025)<br>
 
 **Military service age and obligation**<br>
-generally 17-30 years of age for both men and women with some variations by service, position, and enlisted versus officer; basic service contract is for 12 months; no conscription (abolished 2001) (2025)<br>
-<strong>note 1: </strong>in 2023, women comprised more than 16% of the uniformed armed forces  <br><br><strong>note 2:</strong> French citizens can also volunteer for the Voluntary Military Service (VMS), which allows unemployed youth aged 18-25 to learn a trade or gain work experience while receiving basic military training and sports activities; VMS terms are 3-12 months; French citizens may also join the military operational reserve up to age 72<br><br><strong>note 3:</strong> men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign five-year contracts<br>
+generally 17-30 years of age for both men and women with some variations by service, position, and enlisted versus officer; 17-40 for National Gendarmerie; basic service contract is for 12 months; no conscription (abolished 2001) (2025)<br>
+<strong>note 1:</strong> a 10-month voluntary military service program for French citizens 18-19 is scheduled to start accepting recruits in September 2026; afterwards, the volunteers can integrate into civilian life, become a reservist, or stay in the armed forces<br><br><strong>note 2:</strong> in 2024, women comprised about 17% of the uniformed armed forces <br><br><strong>note 3:</strong> men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign five-year contracts<br>
 
 **Military deployments**<br>
 France typically has up to 30,000 total air, ground, and naval forces deployed on permanent or temporary foreign missions; up to 10,000 are permanently deployed, including Djibouti (1,500); French Guyana (2,600); French Polynesia (1,000); French West Indies (1,000); Reunion Island (2,100); UAE (800)<br><br>other non-permanent deployments include military missions under NATO, the EU, and the UN, as well as some unilateral operations, in such places as Europe, Africa, and the Middle East and adjacent waters (2025)<br>

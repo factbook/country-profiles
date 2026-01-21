@@ -67,9 +67,6 @@ French, Portuguese, Caribbean, Afro-Caribbean<br>
 French (primary), English<br>
 _major-language sample(s)_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
-**Religions**<br>
-Roman Catholic, Protestant, Jehovah's Witnesses<br>
-
 **Age structure**<br>
 _0-14 years_: 13.9% (male 506/female 479)<br>
 _15-64 years_: 63.1% (male 2,413/female 2,057)<br>
@@ -82,21 +79,21 @@ _elderly dependency ratio_: 36.5 (2024 est.)<br>
 _potential support ratio_: 2.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 47.4 years (2024 est.)<br>
+_total_: 47.7 years (2025 est.)<br>
 _male_: 47 years<br>
 _female_: 47.8 years<br>
 
 **Population growth rate**<br>
--0.11% (2024 est.)<br>
+-0.08% (2025 est.)<br>
 
 **Birth rate**<br>
-9.3 births/1,000 population (2024 est.)<br>
+9.32 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9.5 deaths/1,000 population (2024 est.)<br>
+9.75 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1 migrant(s)/1,000 population (2024 est.)<br>
+-0.42 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the populace is concentrated in and around the capital of Gustavia, but scattered settlements exist around the island's periphery<br>
@@ -109,7 +106,7 @@ _65 years and over_: 1.01 male(s)/female<br>
 _total population_: 1.12 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.5 deaths/1,000 live births (2024 est.)<br>
+_total_: 6.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 7.6 deaths/1,000 live births<br>
 _female_: 5.3 deaths/1,000 live births<br>
 
@@ -119,10 +116,10 @@ _male_: 78 years<br>
 _female_: 84.2 years<br>
 
 **Total fertility rate**<br>
-1.64 children born/woman (2024 est.)<br>
+1.64 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.79 (2024 est.)<br>
+0.79 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>

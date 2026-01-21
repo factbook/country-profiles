@@ -106,21 +106,21 @@ _elderly dependency ratio_: 16.3 (2024 est.)<br>
 _potential support ratio_: 6.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 35.9 years (2024 est.)<br>
+_total_: 36.2 years (2025 est.)<br>
 _male_: 34.5 years<br>
 _female_: 37.4 years<br>
 
 **Population growth rate**<br>
-0.4% (2024 est.)<br>
+0.4% (2025 est.)<br>
 
 **Birth rate**<br>
-13.2 births/1,000 population (2024 est.)<br>
+12.99 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9.2 deaths/1,000 population (2024 est.)<br>
+9.01 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2024 est.)<br>
+-0.04 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the plains and lowlands; least-populated regions are the mountainous provinces adjacent to the Chinese border; largest concentrations are in the western provinces, particularly the municipal district of Pyongyang, and around Hungnam and Wonsan in the east<br>
@@ -143,7 +143,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 67 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 14.7 deaths/1,000 live births (2025 est.)<br>
 _male_: 16.9 deaths/1,000 live births<br>
 _female_: 13.8 deaths/1,000 live births<br>
 
@@ -153,10 +153,10 @@ _male_: 70.2 years<br>
 _female_: 77 years<br>
 
 **Total fertility rate**<br>
-1.81 children born/woman (2024 est.)<br>
+1.8 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.88 (2024 est.)<br>
+0.87 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 96.9% of population (2022 est.)<br>
@@ -196,7 +196,7 @@ _female_: 0% (2025 est.)<br>
 9.3% (2017 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-69.7% (2023 est.)<br>
+68.2% (2017 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0% (2017)<br>
@@ -460,8 +460,8 @@ _total subscriptions_: 1.18 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 23 (2021 est.)<br>
+_total subscriptions_: 6.35 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 24 (2022 est.)<br>
 
 **Broadcast media**<br>
 no independent media; radios and TVs are pre-tuned to government stations; 4 state-owned TV stations; the Korean Workers' Party owns and operates the Korean Central Broadcasting Station, and the state-run Voice of Korea operates an external broadcast service; the government prohibits listening to and jams foreign broadcasts (2019)<br>
@@ -501,8 +501,8 @@ _key ports_: Ch'ongjin, Haeju Hang, Hungnam, Najin, Nampo, Senbong, Wonsan<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Korean People's Army (KPA): KPA Ground Forces, KPA Navy, KPA Air Force and Air Defense Forces, KPA Strategic Forces (missile forces), KPA Special Forces (special operations forces); Security Guard Command (aka Bodyguard Command); Military Security Command<br><br>Ministry of Social Security (formerly Ministry of Public Security): Border Guard General Bureau, civil security forces; Ministry of State Security: internal security, investigations (2024)<br>
-<strong>note 1</strong>: North Korea employs a systematic and intentional overlap of powers and responsibilities among its multiple internal security organizations to prevent any potential subordinate consolidation of power and assure that each unit provided a check and balance on the other<br><br><strong>note 2: </strong>Kim Jong Un is the KPA supreme commander, while operational control of the armed forces resides in the General Staff Department (GSD), which reports directly to Kim; the GSD maintains overall control of all military forces and is charged with turning Kim’s directives into operational military orders; the Ministry of National Defense (MND) is responsible for administrative control of the military and external relations with foreign militaries<strong><br><br>note 3:</strong> the Security Guard Command protects the Kim family, other senior leadership figures, and government facilities<br><strong><br>note 4: </strong>the North also has a large paramilitary/militia force organized into the Worker Peasant Red Guard and Red Youth Guard; these organizations are present at all levels of government (province, county, ward) and are under the control of the Korean Workers' Party in peacetime, but revert to KPA control in crisis or war; they are often mobilized for domestic projects, such as road building and agricultural support<br>
+Korean People's Army (KPA): KPA Ground Forces, KPA Navy, KPA Air Force and Air Defense Forces, KPA Strategic Forces (missile forces), KPA Special Forces (special operations forces); Security Guard Command (aka Bodyguard Command); Military Security Command<br><br>Ministry of Social Security (formerly Ministry of Public Security): Border Guard General Bureau, civil security forces; Ministry of State Security: internal security, investigations (2025)<br>
+<strong>note 1</strong>: Kim Jong Un is the KPA supreme commander, while operational control of the armed forces resides in the General Staff Department (GSD), which reports directly to Kim; the GSD maintains overall control of all military forces and is charged with turning Kim’s directives into operational military orders; the Ministry of National Defense (MND) is responsible for administrative control of the military and external relations with foreign militaries<strong><br><br>note 2:</strong> the Security Guard Command protects the Kim family, other senior leadership figures, and government facilities<br><strong><br>note 4: </strong>the North also has a large paramilitary/militia force organized into the Worker Peasant Red Guard and Red Youth Guard; these organizations are present at all levels of government (province, county, ward) and are under the control of the Korean Workers' Party in peacetime, but revert to KPA control in crisis or war; they are often mobilized for domestic projects, such as road building and agricultural support<br>
 
 **Military expenditures**<br>
 defense spending is a regime priority; between 2010 and 2020, military expenditures accounted for an estimated 20-30% of North Korea's GDP annually; spending estimates ranged from $7 billion to $11 billion annually; in 2024, North Korea announced that it would spend nearly 16% of state expenditures on defense; North Korea in the 2010s and 2020s has increasingly relied on illicit activities &mdash; including cybercrime &mdash; to generate revenue for its weapons of mass destruction and ballistic missile programs to evade US and UN sanctions<br>
@@ -511,12 +511,11 @@ defense spending is a regime priority; between 2010 and 2020, military expenditu
 estimates vary; as many as 1.3 million active-duty Korean People's Army (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the KPA is equipped with older weapon systems originally acquired from the former Soviet Union, Russia, and China, and some domestically produced equipment; North Korea produces a diverse array of military hardware, including small arms, munitions, light armored vehicles, tanks, naval vessels and submarines, and some advanced weapons systems, such as cruise and ballistic missiles; most are copies or upgrades of older foreign supplied equipment (2024)<br>
+the KPA is equipped with older weapon systems acquired from China, Russia, and the former Soviet Union, as well as some domestically produced armaments; North Korea produces an array of military hardware, including armored vehicles, artillery, munitions, naval vessels, and some advanced weapons systems, such as cruise and ballistic missiles; most are copies or upgrades of older foreign supplied equipment (2025)<br>
 <strong>note:</strong> since 2006, the UN Security Council has passed nearly a dozen resolutions sanctioning North Korea for developing nuclear weapons and related activities, starting with Resolution 1718, which condemned the North's first nuclear test and placed sanctions on the supply of heavy weaponry (including tanks, armored combat vehicles, large caliber artillery, combat aircraft, attack helicopters, warships, and missiles and missile launchers), missile technology and material, and select luxury goods; additional resolutions have expanded to include all arms, including small arms and light weapons; the US and other countries have also imposed unilateral sanctions<br>
 
 **Military service age and obligation**<br>
-17 years of age for compulsory military service for men and women; service obligation varies from 5-13 years; reportedly up to 10 years (7 for women) for those serving in combat units and 13 years (7 for women) for specialized combat units, such as missile forces (2024)<br>
-<strong>note:</strong> the bulk of the KPA is made up of conscripts; as many as 20% of North Korean males between the ages of 16 and 54 are in the military at a given time and possibly up to 30 percent of males between the ages of 18 and 27, not counting the reserves or paramilitary units; women comprise about 20% of the military by some estimates<br>
+compulsory military service for men (17-30 years of age) and women (17-23 years of age); service obligation is reportedly up to 10 years for men and up to 7 years for women (2025)<br>
 
 **Military deployments**<br>
 estimated 10-12,000 Russia (2025)<br>

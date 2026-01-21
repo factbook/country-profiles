@@ -105,21 +105,21 @@ _elderly dependency ratio_: 19.1 (2024 est.)<br>
 _potential support ratio_: 5.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 34.1 years (2024 est.)<br>
+_total_: 34.2 years (2025 est.)<br>
 _male_: 32.2 years<br>
 _female_: 35.8 years<br>
 
 **Population growth rate**<br>
-0.39% (2024 est.)<br>
+0.22% (2025 est.)<br>
 
 **Birth rate**<br>
-14.5 births/1,000 population (2024 est.)<br>
+14.38 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.5 deaths/1,000 population (2024 est.)<br>
+7.65 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--3 migrant(s)/1,000 population (2024 est.)<br>
+-4.5 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the population is primarily concentrated within a broad wet zone in the southwest, urban centers along the eastern coast, and on the Jaffna Peninsula in the north<br>
@@ -146,7 +146,7 @@ _total population_: 0.94 male(s)/female (2024 est.)<br>
 18 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.8 deaths/1,000 live births (2024 est.)<br>
+_total_: 6.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 7.5 deaths/1,000 live births<br>
 _female_: 6.1 deaths/1,000 live births<br>
 
@@ -156,10 +156,10 @@ _male_: 73.7 years<br>
 _female_: 79.9 years<br>
 
 **Total fertility rate**<br>
-2.13 children born/woman (2024 est.)<br>
+2.12 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.04 (2024 est.)<br>
+1.03 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.1% of population (2022 est.)<br>
@@ -206,7 +206,7 @@ _female_: 2% (2025 est.)<br>
 17.1% (2024 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-65.1% (2023 est.)<br>
+66.3% (2016 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.9% (2016)<br>
@@ -313,12 +313,13 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Anura Kumara DISSANAYAKE (since 23 September 2024)<br>
-_head of government_: Prime Minister Harini AMARASURIYA (since 24 September 2024)<br>
+_head of government_: President Anura Kumara DISSANAYAKE (since 23 September 2024)<br>
 _cabinet_: Cabinet appointed by the president in consultation with the prime minister<br>
 _election/appointment process_: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); prime minister appointed by the president<br>
 _most recent election date_: 21 September 2024<br>
-_election results_: <em><br>2024: </em>Anura Kumara DISSANAYAKE elected president; percent of vote after reallocation - Anura Kumara DISSANAYAKE (JVP) 55.9%, Sajith PREMADASA (SJB) 44.1%<br><em><br>2022: </em>Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; Parliament vote - WICKREMESINGHE (UNP) 134, Dullas ALAHAPPERUMA (SLPP) 82<br>
+_election results_: <em><br>2024: </em>Anura Kumara DISSANAYAKE elected president; percent of vote after reallocation - Anura Kumara DISSANAYAKE (JVP) 55.9%, Sajith PREMADASA (SJB) 44.1%<br>
 _expected date of next election_: 2029<br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -645,13 +646,13 @@ estimated 210,000 active Armed Forces (140,000 Army; 25,000 Air Force; 45,000 Na
 <strong>note: </strong>the Sri Lankan military has been downsizing for several years; in 2025, the Sri Lankan Government announced its intent to decrease the size of the Army to 100,000, the Air Force to 18,000, and the Navy to 40,000 by 2030<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists mostly of Chinese- and Russian-origin equipment with a smaller mix of material from countries such as India and the US, including donations; defense acquisitions have been limited over the past decade (2024)<br>
+the military's armaments are mostly of Chinese, Indian, Russian/Soviet, and US origin (2025)<br>
 
 **Military service age and obligation**<br>
-18-22 years of age for voluntary military service for men and women; no conscription (2023)<br>
+generally 18-24 years of age for voluntary military service for men and women, although upper age limits may vary by branch of service, roles, specialties, etc; no conscription (2026)<br>
 
 **Military deployments**<br>
-110 Central African Republic (MINUSCA); 125 Lebanon (UNIFIL); 240 Mali (MINUSMA) (2024)<br>
+120 Central African Republic (MINUSCA); 130 Lebanon (UNIFIL) (2025)<br>
 
 **Military - note**<br>
 the military of Sri Lanka is responsible for external defense, maritime security, and maintaining internal security; it has sent small numbers of personnel on UN peacekeeping missions; from 1983 to 2009, the military fought against the Liberation Tigers of Tamil Eelam (LTTE), a conflict that involved both guerrilla and conventional warfare, as well as acts of terrorism and human rights abuses, and cost the military nearly 30,000 killed; since the end of the war, a large portion of the Army reportedly remains deployed in the majority Tamil-populated northern and eastern provinces; the military over the past decade also has increased its role in a range of commercial sectors including agriculture, hotels, leisure, and restaurants<br><br>Sri Lanka traditionally has had close security ties to India; the Sri Lankan and Indian militaries conduct exercises together, and India trains approximately 1,000 Sri Lankan soldiers per year; in recent years, Sri Lanka has increased military ties with China, including acquiring military equipment, hosting naval port calls, and sending personnel to China for training (2025)<br>

@@ -94,7 +94,7 @@ _major-language sample(s)_: <br>Книга на Светски Факти, не�
 <strong>note:</strong> data represent mother tongue; minority languages are co-official with Macedonian in municipalities where at least 20% of the population are speakers, with Albanian co-official in Tetovo, Brvenica, Vrapciste, and other municipalities, Turkish in Centar Zupa and Plasnica, Romani in Suto Orizari, Aromanian in Krusevo, Serbian in Cucer Sandevo<br>
 
 **Religions**<br>
-Macedonian Orthodox 46.1%, Muslim 32.2%, other Christian 13.8%, other and non-believers 0.5%, unspecified 7.4% (2021 est.)<br>
+Orthodox 46.1%, Islam 32.2%, Christian 13.2%, Other 7.2%; less than 1%: atheist, Catholic, other religions, not specified, Protestant (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 16% (male 176,423/female 164,945)<br>
@@ -108,21 +108,21 @@ _elderly dependency ratio_: 22.9 (2024 est.)<br>
 _potential support ratio_: 4.4 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 40.5 years (2024 est.)<br>
+_total_: 40.9 years (2025 est.)<br>
 _male_: 39.4 years<br>
 _female_: 41.6 years<br>
 
 **Population growth rate**<br>
-0.1% (2024 est.)<br>
+0.08% (2025 est.)<br>
 
 **Birth rate**<br>
-10.2 births/1,000 population (2024 est.)<br>
+10.07 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9.6 deaths/1,000 population (2024 est.)<br>
+9.62 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0.4 migrant(s)/1,000 population (2024 est.)<br>
+0.38 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -148,7 +148,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 3 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7 deaths/1,000 live births (2024 est.)<br>
+_total_: 6.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 7.9 deaths/1,000 live births<br>
 _female_: 6 deaths/1,000 live births<br>
 
@@ -158,10 +158,10 @@ _male_: 75.3 years<br>
 _female_: 79.6 years<br>
 
 **Total fertility rate**<br>
-1.53 children born/woman (2024 est.)<br>
+1.53 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.74 (2024 est.)<br>
+0.74 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.1% of population (2022 est.)<br>
@@ -203,7 +203,7 @@ _other alcohols_: 0.03 liters of pure alcohol (2019 est.)<br>
 0.9% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-66.5% (2023 est.)<br>
+66.1% (2021 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.3% (2019)<br>
@@ -630,7 +630,7 @@ Army of the Republic of North Macedonia (ARSM or ARNM): joint force with air, gr
 approximately 6,000 active military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a mix of Soviet-era and increasing amounts of modern equipment from countries such as Turkey, the UK, and the US, with more on order (2024)<br>
+the military's inventory is a mix of Russian/Soviet-era armaments and growing quantities of more modern equipment from countries such as T&uuml;rkiye, the UK, and the US (2025)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; conscription abolished in 2007 (2024)<br>

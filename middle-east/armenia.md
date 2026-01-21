@@ -106,21 +106,21 @@ _elderly dependency ratio_: 22.8 (2024 est.)<br>
 _potential support ratio_: 4.4 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 38.9 years (2024 est.)<br>
+_total_: 39.5 years (2025 est.)<br>
 _male_: 37.6 years<br>
 _female_: 40.3 years<br>
 
 **Population growth rate**<br>
--0.42% (2024 est.)<br>
+-0.45% (2025 est.)<br>
 
 **Birth rate**<br>
-10.5 births/1,000 population (2024 est.)<br>
+10.24 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9.6 deaths/1,000 population (2024 est.)<br>
+9.6 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--5.2 migrant(s)/1,000 population (2024 est.)<br>
+-5.1 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the population is located in the northern half of the country; the capital of Yerevan is home to more than five times as many people as Gyumri, the second-largest city in the country<br>
@@ -146,7 +146,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 19 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.6 deaths/1,000 live births (2024 est.)<br>
+_total_: 11.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 13.1 deaths/1,000 live births<br>
 _female_: 10 deaths/1,000 live births<br>
 
@@ -156,10 +156,10 @@ _male_: 73.4 years<br>
 _female_: 80.1 years<br>
 
 **Total fertility rate**<br>
-1.65 children born/woman (2024 est.)<br>
+1.66 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.8 (2024 est.)<br>
+0.8 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -206,7 +206,7 @@ _female_: 1.6% (2025 est.)<br>
 2.6% (2016 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-64.8% (2023 est.)<br>
+61.5% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0% (2016)<br>
@@ -593,8 +593,8 @@ _total subscriptions_: 331,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 11 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3.96 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 135 (2022 est.)<br>
+_total subscriptions_: 3,959,450 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 135 (2024 est.)<br>
 
 **Broadcast media**<br>
 government-run Public Television network operates alongside 100 privately owned TV stations that provide local to near-nationwide coverage; three Russian TV companies are broadcast under interstate agreements; subscription cable TV services are available in most regions; several major international broadcasters are available, including CNN; Armenian TV completed conversion from analog to digital broadcasting in 2016; Public Radio of Armenia is a national, state-run broadcast network that operates alongside 18 privately owned radio stations (2024)<br>
@@ -643,7 +643,7 @@ approximately 40-50,000 active Armenian Armed Forces (2025)<br>
 the military's inventory includes mostly Russian and Soviet-era equipment; in recent years however, Armenia has looked to other countries besides Russia to provide military hardware, including France and India (2025)<br>
 
 **Military service age and obligation**<br>
-18-27 for voluntary (men and women), contract (men and women) or compulsory (men) military service; contract military service is 3-12 months or 3 or 5 years; conscripts serve 24 months; men under the age of 36, who have not previously served as contract servicemen and are registered in the reserve, as well as women, regardless of whether they are registered in the reserve can be enrolled in contractual military service; all citizens aged 27 to 50 are registered in the military reserve and may be called to serve if mobilization is declared (2024)<br>
+18-27 for voluntary (men and women), contract (men and women) or compulsory (men) military service; contract military service is 3-12 months or up to 5 years; conscripts serve 24 months; all citizens aged 27-50 are registered in the military reserve and may be called to serve if mobilization is declared (2025)<br>
 <strong>note: </strong>in 2023, Armenia approved six-month voluntary service for women, after which they have the option to switch to a five-year contract; previously, women served on a contract basis; as of 2021, women made up about 10% of the active-duty military<br>
 
 **Military - note**<br>

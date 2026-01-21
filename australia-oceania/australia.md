@@ -122,21 +122,21 @@ _elderly dependency ratio_: 26.2 (2024 est.)<br>
 _potential support ratio_: 3.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 38.1 years (2024 est.)<br>
+_total_: 38.5 years (2025 est.)<br>
 _male_: 36.9 years<br>
 _female_: 39.2 years<br>
 
 **Population growth rate**<br>
-1.13% (2024 est.)<br>
+1.59% (2025 est.)<br>
 
 **Birth rate**<br>
-12.2 births/1,000 population (2024 est.)<br>
+10.75 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.8 deaths/1,000 population (2024 est.)<br>
+6.81 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-5.9 migrant(s)/1,000 population (2024 est.)<br>
+11.98 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the states and territories, New South Wales has, by far, the largest population; the interior, or "outback," has a very sparse population<br>
@@ -163,7 +163,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 2 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 3 deaths/1,000 live births (2025 est.)<br>
 _male_: 3.2 deaths/1,000 live births<br>
 _female_: 2.7 deaths/1,000 live births<br>
 
@@ -173,10 +173,10 @@ _male_: 81.3 years<br>
 _female_: 85.7 years<br>
 
 **Total fertility rate**<br>
-1.73 children born/woman (2024 est.)<br>
+1.5 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.84 (2024 est.)<br>
+0.73 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -216,7 +216,7 @@ _male_: 13.6% (2025 est.)<br>
 _female_: 9.2% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-55.9% (2023 est.)<br>
+54% (2021 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 5.1% of GDP (2022 est.)<br>
@@ -360,7 +360,7 @@ _judge selection and term of office_: justices appointed by the governor-general
 _subordinate courts_: subordinate courts: <em>at the federal level:</em> Federal Court; Federal Circuit and Family Court of Australia;  <em>at the state and territory level:</em> Local Court - New South Wales; Magistrates' Courts – Victoria, Queensland, South Australia, Western Australia, Tasmania, Northern Territory, Australian Capital Territory; District Courts – New South Wales, Queensland, South Australia, Western Australia; County Court – Victoria; Family Court – Western Australia; Court of Petty Sessions – Norfolk Island<br>
 
 **Political parties**<br>
-Australian Greens Party or The Greens <br>Australian Labor Party or ALP <br>Centre Alliance (formerly known as the Nick Xenophon Team or NXT)<br>Jacqui Lambie Network or JLN <br>Katter's Australian Party (KAP)<br>Liberal Party of Australia <br>Liberal National Party of Queensland <br>The Nationals <br>One Nation or ONP <br>United Australia Party<br>
+Australian Greens Party or The Greens <br>Australian Labor Party or ALP <br>Australia's Voice<br>Centre Alliance (formerly known as the Nick Xenophon Team or NXT)<br>Jacqui Lambie Network or JLN <br>Katter's Australian Party (KAP)<br>Liberal Party of Australia <br>The Nationals <br>Pauline Hanson's One Nation or ONP <br>United Australia Party<br>
 <strong>note:</strong> the Labor Party is Australia’s oldest political party, established federally in 1901; the present Liberal Party was formed in 1944; the Country Party was formed in 1920, renamed the National Country Party in 1975, the National Party of Australia in 1982, and since 2003 has been known as the Nationals; since the general election of 1949, the Liberal Party and the Nationals (under various names) when forming government have done so as a coalition<br>
 
 **Diplomatic representation in the US**<br>
@@ -613,8 +613,8 @@ _total subscriptions_: 6.458 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 24 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 29.1 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 107 (2022 est.)<br>
+_total subscriptions_: 29.761 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 113 (2024 est.)<br>
 
 **Broadcast media**<br>
 tradition of public broadcasting, but privately owned TV and radio have the biggest audiences; ownership of print and broadcast media is concentrated; Australian Broadcasting Corporation (ABC) runs national and local public radio and TV; other main public broadcaster is the multilingual Special Broadcasting Service (SBS); national commercial TV is dominated by three big free-to-air networks; broadcasters must carry a minimum percentage of Australian-made programs; pay TV via cable, satellite, and IPTV has a strong foothold (2023)<br>
@@ -680,7 +680,7 @@ the military's inventory includes a mix of domestically produced and imported We
 <strong>note:</strong> in 2023, the Australian defense ministry announced a new strategic review that called for the acquisition of more long-range deterrence capabilities, including missiles, submarines, and cyber tools; in early 2024, Australia announced a 10-year plan to more than double the number of the Navy's major surface combatant ships<br>
 
 **Military service age and obligation**<br>
-17 years of age (with parental consent; 18 years of age to deploy) for voluntary military service for men and women; no conscription (abolished 1972) (2024)<br>
+17 years of age (with parental consent; 18 years of age to deploy) for voluntary military service for men and women; no conscription (abolished 1972) (2025)<br>
 <strong>note 1: </strong>as of July 2024, New Zealanders who are permanent residents and have lived in Australia for at least 12 months could apply to join the ADF; from January 2025, eligible permanent residents from Canada, the UK, and the US were also to be allowed to apply<br><br><strong>note 2:</strong> women have served in all roles, including combat arms, since 2013; in 2024, they comprised slightly more than 20% of the military<br>
 
 **Military deployments**<br>

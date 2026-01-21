@@ -102,21 +102,21 @@ _elderly dependency ratio_: 15.1 (2024 est.)<br>
 _potential support ratio_: 6.6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 32.4 years (2024 est.)<br>
+_total_: 32.6 years (2025 est.)<br>
 _male_: 31.8 years<br>
 _female_: 33.2 years<br>
 
 **Population growth rate**<br>
--0.34% (2024 est.)<br>
+-0.33% (2025 est.)<br>
 
 **Birth rate**<br>
-15.7 births/1,000 population (2024 est.)<br>
+15.8 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.7 deaths/1,000 population (2024 est.)<br>
+5.91 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--13.4 migrant(s)/1,000 population (2024 est.)<br>
+-13.21 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 approximately 90% of the population lives on the island of Saipan<br>
@@ -136,7 +136,7 @@ _65 years and over_: 1.12 male(s)/female<br>
 _total population_: 1.12 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 11.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 14.4 deaths/1,000 live births<br>
 _female_: 9 deaths/1,000 live births<br>
 
@@ -146,10 +146,10 @@ _male_: 75 years<br>
 _female_: 79.5 years<br>
 
 **Total fertility rate**<br>
-2.56 children born/woman (2024 est.)<br>
+2.53 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.18 (2024 est.)<br>
+1.17 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 100% of population (2022 est.)<br>
@@ -158,6 +158,9 @@ _unimproved: total_: total: 0% of population (2022 est.)<br>
 **Sanitation facility access**<br>
 _improved: total_: total: 99.4% of population (2022 est.)<br>
 _unimproved: total_: total: 0.6% of population (2022 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+38.2% (2020 est.)<br>
 
 ## Environment
 

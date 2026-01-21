@@ -53,12 +53,12 @@ _mean elevation_: 430 m<br>
 petroleum, timber, potash, lead, zinc, uranium, copper, phosphates, gold, magnesium, natural gas, hydropower<br>
 
 **Land use**<br>
-_agricultural land_: 31.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 29.3% (2022 est.)<br>
-_forest_: 64.2% (2022 est.)<br>
-_other_: 4.5% (2022 est.)<br>
+_agricultural land_: 31.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 29.3% (2023 est.)<br>
+_forest_: 63.9% (2023 est.)<br>
+_other_: 4.9% (2023 est.)<br>
 
 **Irrigated land**<br>
 20 sq km (2012)<br>
@@ -114,21 +114,21 @@ _elderly dependency ratio_: 7.5 (2024 est.)<br>
 _potential support ratio_: 13.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 20.7 years (2024 est.)<br>
+_total_: 20.9 years (2025 est.)<br>
 _male_: 20.5 years<br>
 _female_: 20.9 years<br>
 
 **Population growth rate**<br>
-2.38% (2024 est.)<br>
+2.36% (2025 est.)<br>
 
 **Birth rate**<br>
-28.7 births/1,000 population (2024 est.)<br>
+28.34 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-4.8 deaths/1,000 population (2024 est.)<br>
+4.64 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.1 migrant(s)/1,000 population (2024 est.)<br>
+-0.08 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the population is primarily located in the south, in and around the capital of Brazzaville, as shown in this population distribution map<br>
@@ -155,7 +155,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 241 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 30.6 deaths/1,000 live births (2024 est.)<br>
+_total_: 29.9 deaths/1,000 live births (2025 est.)<br>
 _male_: 33.5 deaths/1,000 live births<br>
 _female_: 27.7 deaths/1,000 live births<br>
 
@@ -165,10 +165,10 @@ _male_: 71.5 years<br>
 _female_: 74.3 years<br>
 
 **Total fertility rate**<br>
-3.79 children born/woman (2024 est.)<br>
+3.72 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.87 (2024 est.)<br>
+1.83 (2025 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 3.9% of GDP (2021)<br>
@@ -217,12 +217,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; rainy season (March to June); dry season (June to October); persistent high temperatures and humidity; particularly enervating climate astride the Equator<br>
 
 **Land use**<br>
-_agricultural land_: 31.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.6% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 29.3% (2022 est.)<br>
-_forest_: 64.2% (2022 est.)<br>
-_other_: 4.5% (2022 est.)<br>
+_agricultural land_: 31.2% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 29.3% (2023 est.)<br>
+_forest_: 63.9% (2023 est.)<br>
+_other_: 4.9% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 69.2% of total population (2023)<br>
@@ -314,7 +314,7 @@ _number of seats_: 151 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
-_most recent election date_: 7/10/2022 to 7/31/2022<br>
+_most recent election date_: 8/20/2023<br>
 _parties elected and seats per party_: Congolese Workers Party (PCT) (112); Other (39)<br>
 _percentage of women in chamber_: 14.6%<br>
 _expected date of next election_: July 2026<br>
@@ -324,7 +324,7 @@ _chamber name_: Senate (Sénat)<br>
 _number of seats_: 72 (all indirectly elected)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 6 years<br>
-_most recent election date_: 8/20/2023<br>
+_most recent election date_: 7/10/2022 to 7/31/2022<br>
 _percentage of women in chamber_: 31.9%<br>
 _expected date of next election_: August 2029<br>
 
@@ -567,8 +567,8 @@ _total subscriptions_: 17,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5.87 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 97 (2021 est.)<br>
+_total subscriptions_: 5,875,800 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 96 (2024 est.)<br>
 
 **Broadcast media**<br>
 1 state-owned TV and 3 state-owned radio stations; several privately owned TV and radio stations; satellite TV service is available; rebroadcasts of several international broadcasters are available<br>
@@ -625,13 +625,13 @@ Congolese Armed Forces (Forces Armees Congolaises, FAC): Army, Navy, Congolese A
 approximately 12-14,000 active FAC, including Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAC has mostly Soviet-era armaments, with a small mix of Chinese, French, and South African equipment (2024)<br>
+the FAC has a mixed inventory of Chinese, French, Italian, Russian/Soviet, and South African armaments (2025)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service for men and women; conscription ended in 1969 (2024)<br>
+18-25 years of age for voluntary military service for men and women (2025)<br>
 
 **Military deployments**<br>
-has about 190 mostly police personnel deployed to the Central African Republic (MINUSCA) (2024)<br>
+has about 175 mostly police personnel deployed to the Central African Republic (MINUSCA) (2025)<br>
 
 **Military - note**<br>
 the FAC's primary focuses are internal and maritime security; since its creation in 1961, the FAC has had a turbulent history; it has been sidelined by some national leaders in favor of personal militias, endured an internal rebellion (1996), and clashed with various rebel groups and political or ethnic militias (1993-1996, 2002-2005, 2017); during the 1997-1999 civil war, the military generally split along ethnic lines, with most northern officers supporting eventual winner SASSOU-Nguesso, and most southerners backing the rebels; others joined ethnic-based factions loyal to regional warlords; forces backing SASSOU-Nguesso were supported by Angolan troops and received some French assistance; the FAC also has undergone at least three reorganizations that included the incorporation of former rebel combatants and various ethnic and political militias; in recent years, France has provided some advice and training, and a military cooperation agreement was signed with Russia in 2019 (2025)<br>

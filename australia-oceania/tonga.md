@@ -103,21 +103,21 @@ _elderly dependency ratio_: 11.8 (2024 est.)<br>
 _potential support ratio_: 8.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 25.9 years (2024 est.)<br>
+_total_: 26.4 years (2025 est.)<br>
 _male_: 25.4 years<br>
 _female_: 26.4 years<br>
 
 **Population growth rate**<br>
--0.34% (2024 est.)<br>
+-0.37% (2025 est.)<br>
 
 **Birth rate**<br>
-19.7 births/1,000 population (2024 est.)<br>
+19.43 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5 deaths/1,000 population (2024 est.)<br>
+4.98 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--18.1 migrant(s)/1,000 population (2024 est.)<br>
+-18.18 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 over two thirds of the population lives on the island of Tongatapu; only 45 of the nation's 171 islands are occupied<br>
@@ -144,7 +144,7 @@ _total population_: 1.01 male(s)/female (2024 est.)<br>
 67 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.8 deaths/1,000 live births (2024 est.)<br>
+_total_: 11.5 deaths/1,000 live births (2025 est.)<br>
 _male_: 12.8 deaths/1,000 live births<br>
 _female_: 10.8 deaths/1,000 live births<br>
 
@@ -154,10 +154,10 @@ _male_: 76.4 years<br>
 _female_: 79.7 years<br>
 
 **Total fertility rate**<br>
-2.65 children born/woman (2024 est.)<br>
+2.59 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.3 (2024 est.)<br>
+1.28 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.6% of population (2022 est.)<br>
@@ -201,7 +201,7 @@ _female_: 15.8% (2025 est.)<br>
 0.8% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-54.9% (2023 est.)<br>
+50.7% (2021 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.4% (2019)<br>
@@ -301,11 +301,11 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King TUPOU VI (since 18 March 2012)<br>
-_head of government_: Prime Minister Aisake Valu EKE (since 22 January 2025)<br>
+_head of government_: Prime Minister Fatafehi FAKAFANUA (since 18 December 2025)<br>
 _cabinet_: Cabinet nominated by the prime minister and appointed by the monarch<br>
 _election/appointment process_: the monarchy is hereditary; prime minister and deputy prime minister indirectly elected by the Legislative Assembly and appointed by the monarch<br>
-_most recent election date_: 24 December 2024<br>
-_election results_: <em><br>2024: </em>Aisake Valu EKE elected prime minsiter by the Legislative Assembly; Aisake Valu EKE (Independent) 16 votes, Viliami LATU (Independent) 8<br><em><br>2021:</em> Siaosi SOVALENI elected prime minister by the Legislative Assembly; Siaosi SOVALENI 16 votes, Aisake EKE 10<br>
+_most recent election date_: 15 December 2025<br>
+_election results_: <em>2025:  </em>Fatafehi FAKAFANUA elected prime minister by the Legislative Assembly; Fatafehi FAKAFANUA (Independent) 16 votes, Aisake Valu EKE (Independent) 10 votes<br><em><br>2024: </em>Aisake Valu EKE elected prime minister by the Legislative Assembly; Aisake Valu EKE (Independent) 16 votes, Viliami LATU (Independent) 8<em><br></em><br>
 <strong>note:</strong> a Privy Council advises the monarch<br>
 
 **Legislative branch**<br>
@@ -315,7 +315,7 @@ _number of seats_: 30 (17 directly elected; 9 indirectly elected)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 11/18/2021<br>
+_most recent election date_: 11/20/2025<br>
 _percentage of women in chamber_: 3.8%<br>
 _expected date of next election_: November 2025<br>
 
@@ -604,7 +604,7 @@ His Majesty's Armed Forces Tonga (HMAF; aka Tonga Defense Services): Tonga Royal
 approximately 600 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of light weapons, as well as some naval patrol vessels from Australia and a few US-origin aircraft (2024)<br>
+the military's inventory consists of light weapons, as well as some naval patrol vessels acquired from Australia (2025)<br>
 
 **Military service age and obligation**<br>
 voluntary military service for men and women 18-25; no conscription (2023)<br>

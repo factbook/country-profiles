@@ -103,21 +103,21 @@ _elderly dependency ratio_: 9.5 (2024 est.)<br>
 _potential support ratio_: 10.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 28.8 years (2024 est.)<br>
+_total_: 29.3 years (2025 est.)<br>
 _male_: 27.9 years<br>
 _female_: 29.6 years<br>
 
 **Population growth rate**<br>
-1.16% (2024 est.)<br>
+1.12% (2025 est.)<br>
 
 **Birth rate**<br>
-17.9 births/1,000 population (2024 est.)<br>
+17.51 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.7 deaths/1,000 population (2024 est.)<br>
+5.73 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.6 migrant(s)/1,000 population (2024 est.)<br>
+-0.56 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 among the nine inhabited islands, population distribution is variable; islands in the east are very dry and are only sparsely settled; the more southerly islands receive more precipitation and support larger populations; approximately half of the population lives on Sao Tiago Island, which is the location of the capital of Praia; Mindelo, on the northern island of Sao Vicente, also has a large urban population, as shown in this population distribution map<br>
@@ -140,7 +140,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 40 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 21.9 deaths/1,000 live births (2025 est.)<br>
 _male_: 26.3 deaths/1,000 live births<br>
 _female_: 18.4 deaths/1,000 live births<br>
 
@@ -150,10 +150,10 @@ _male_: 72 years<br>
 _female_: 76.7 years<br>
 
 **Total fertility rate**<br>
-2.1 children born/woman (2024 est.)<br>
+2.08 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.03 (2024 est.)<br>
+1.02 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 93.2% of population (2022 est.)<br>
@@ -200,7 +200,7 @@ _female_: 4.5% (2025 est.)<br>
 2.2% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-46.9% (2023 est.)<br>
+45% (2021 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 1.8% (2018)<br>
@@ -567,8 +567,8 @@ _total subscriptions_: 60,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 12 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 590,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 99 (2022 est.)<br>
+_total subscriptions_: 590,354 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 112 (2024 est.)<br>
 
 **Broadcast media**<br>
 state-run TV and radio network, plus a growing number of private broadcasters; Portuguese public TV and radio services for Africa are available; transmissions of a few international broadcasters are available (2019)<br>
@@ -621,10 +621,10 @@ Cabo Verdean Armed Forces (FACV): National Guard (GN), Cabo Verde Coast Guard (G
 the FACV has approximately 1,000-1,500 active personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FACV has a limited amount of mostly dated or second-hand equipment, largely from China, some European countries, and the former Soviet Union (2024)<br>
+the FACV has a limited amount of mostly dated or secondhand equipment, largely from China, some European countries, and the former Soviet Union (2025)<br>
 
 **Military service age and obligation**<br>
-18-35 years of age for male and female selective compulsory military service; 24-month conscript service obligation; 17 years of age for voluntary service (with parental consent) (2024)<br>
+17 years of age for voluntary service (with parental consent); 18-35 years of age for selective compulsory service (14-month service obligation) (2025)<br>
 
 **Military - note**<br>
 the FACV is responsible for external defense; it also has an internal security role in collaboration with the police if required; its duties include monitoring and patrolling the country's air and maritime spaces, participating in training exercises, conducting search and rescue, countering narcotics and other forms of illicit trafficking, and supporting the police and civil society (2025)<br>

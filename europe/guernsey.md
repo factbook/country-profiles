@@ -100,21 +100,21 @@ _elderly dependency ratio_: 33.5 (2024 est.)<br>
 _potential support ratio_: 3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 45 years (2024 est.)<br>
+_total_: 45.1 years (2025 est.)<br>
 _male_: 43.8 years<br>
 _female_: 46.2 years<br>
 
 **Population growth rate**<br>
-0.21% (2024 est.)<br>
+0.19% (2025 est.)<br>
 
 **Birth rate**<br>
-9.7 births/1,000 population (2024 est.)<br>
+9.64 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9.2 deaths/1,000 population (2024 est.)<br>
+9.19 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-1.6 migrant(s)/1,000 population (2024 est.)<br>
+1.47 migrant(s)/1,000 population (2025 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 31.2% of total population (2023)<br>
@@ -132,7 +132,7 @@ _65 years and over_: 0.87 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 3.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 3.7 deaths/1,000 live births<br>
 _female_: 2.7 deaths/1,000 live births<br>
 
@@ -142,10 +142,10 @@ _male_: 80.9 years<br>
 _female_: 86.4 years<br>
 
 **Total fertility rate**<br>
-1.59 children born/woman (2024 est.)<br>
+1.59 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.77 (2024 est.)<br>
+0.78 (2025 est.)<br>
 
 ## Environment
 

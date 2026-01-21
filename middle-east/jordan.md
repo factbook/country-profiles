@@ -113,21 +113,21 @@ _elderly dependency ratio_: 6.5 (2024 est.)<br>
 _potential support ratio_: 15.4 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 25 years (2024 est.)<br>
+_total_: 25.4 years (2025 est.)<br>
 _male_: 25.5 years<br>
 _female_: 24.4 years<br>
 
 **Population growth rate**<br>
-0.78% (2024 est.)<br>
+1.68% (2025 est.)<br>
 
 **Birth rate**<br>
-22.2 births/1,000 population (2024 est.)<br>
+21.9 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-3.5 deaths/1,000 population (2024 est.)<br>
+3.5 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--10.9 migrant(s)/1,000 population (2024 est.)<br>
+-1.59 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population heavily concentrated in the west, and particularly the northwest, in and around the capital of Amman; a sizeable but smaller population is located in the southwest along the shore of the Gulf of Aqaba<br>
@@ -154,7 +154,7 @@ _total population_: 1.1 male(s)/female (2024 est.)<br>
 31 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 13.2 deaths/1,000 live births (2024 est.)<br>
+_total_: 12.9 deaths/1,000 live births (2025 est.)<br>
 _male_: 14.3 deaths/1,000 live births<br>
 _female_: 12.1 deaths/1,000 live births<br>
 
@@ -164,10 +164,10 @@ _male_: 75 years<br>
 _female_: 78.1 years<br>
 
 **Total fertility rate**<br>
-2.87 children born/woman (2024 est.)<br>
+2.83 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.39 (2024 est.)<br>
+1.37 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.1% of population (2022 est.)<br>
@@ -214,7 +214,7 @@ _female_: 13.9% (2025 est.)<br>
 2.5% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-55.6% (2023 est.)<br>
+56% (2018 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 1.5% (2018)<br>
@@ -373,7 +373,7 @@ _FAX_: [1] (202) 966-3110<br>
 _email address and website_: <br>hkjconsular@jordanembassyus.org<br><br>http://www.jordanembassyus.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador-designate James HOLTSNIDER (since October 2025)<br>
+_chief of mission_: Ambassador James HOLTSNIDER (since 7 December 2025)<br>
 _embassy_: Abdoun, Al-Umawyeen St., Amman<br>
 _mailing address_: 6050 Amman Place, Washington DC&nbsp; 20521-6050<br>
 _telephone_: [962] (6) 590-6000<br>
@@ -664,17 +664,16 @@ Jordanian Armed Forces (JAF; aka Arab Army): Jordanian Army (Jordanian Ground Fo
 5% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 100,000 active-duty Armed Forces (85,000 Army; 14,000 Air Force; 1,000 Navy) (2025)<br>
+approximately 100,000 active duty Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the JAF inventory is comprised of a wide mix of imported equipment, much of it older or secondhand, from China, Europe, some Gulf States, Russia, and the US (2024)<br>
+the JAF inventory is comprised of mostly older or secondhand equipment provided by China, some European countries, select Gulf States, Russia, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary military service for men and women); initial service term is 24 months, with option to reenlist for up to 18 years; conscription was abolished in 1991, but in 2020 Jordan announced the reinstatement of compulsory military service for jobless men aged between 25 and 29 with 12 months of service, made up of 3 months of military training and 9 months of professional and technical training; in 2019, Jordan announced a voluntary 4-month National Military Service program for men and women aged between 18-25 years who have been unemployed for at least 6 months; service would include 1 month for military training with the remaining 3 months dedicated to vocational training in the sectors of construction and tourism (2023)<br>
-<strong>note:</strong> women comprised about 3% of the military as of 2023<br>
+17 years of age for voluntary military service for men and women; initial service term is 24 months; selective compulsory military service (3 months) for men turning 18 will be reinstated in 2026; compulsory military service for jobless men aged 25-29 was reinstated in 2020 (12 months; 3 months of military training and 9 months of professional and technical training) (2025)<br>
 
 **Military deployments**<br>
-Jordan has about 200 police deployed to the MONUSCO mission in the Democratic Republic of the Congo (2024)<br>
+140 Democratic Republic of the Congo (MONUSCO) (2025)<br>
 
 **Military - note**<br>
 the Jordanian Armed Forces (JAF) are responsible for territorial defense and border security and have a supporting role for internal security; key areas of concern include regional conflict and instability and unconventional threats, such as terrorism and weapons smuggling; the JAF participates in both bilateral and multinational exercises, UN peacekeeping missions, and have taken part in regional military operations alongside international forces in Afghanistan, Syria, and Yemen<br><br>the US is a key security partner, and Jordan is one of the largest recipients of US military aid in the region; it cooperates with the US on a number of issues, including border security, arms transfers, cybersecurity, and counterterrorism; Jordan has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2025)<br>

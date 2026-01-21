@@ -116,21 +116,21 @@ _elderly dependency ratio_: 6.2 (2024 est.)<br>
 _potential support ratio_: 16.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 16.4 years (2024 est.)<br>
+_total_: 16.5 years (2025 est.)<br>
 _male_: 15.7 years<br>
 _female_: 17.1 years<br>
 
 **Population growth rate**<br>
-2.9% (2024 est.)<br>
+2.88% (2025 est.)<br>
 
 **Birth rate**<br>
-40 births/1,000 population (2024 est.)<br>
+39.44 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.1 deaths/1,000 population (2024 est.)<br>
+7.87 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--2.9 migrant(s)/1,000 population (2024 est.)<br>
+-2.82 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the overwhelming majority of the population lives in the southern half of the country, with greater density along the border with Burkina Faso, as shown in this population distribution map<br>
@@ -157,7 +157,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 367 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 57.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 55.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 62.6 deaths/1,000 live births<br>
 _female_: 52 deaths/1,000 live births<br>
 
@@ -167,10 +167,10 @@ _male_: 60.9 years<br>
 _female_: 65.6 years<br>
 
 **Total fertility rate**<br>
-5.35 children born/woman (2024 est.)<br>
+5.26 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-2.64 (2024 est.)<br>
+2.59 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 94.7% of population (2022 est.)<br>
@@ -217,7 +217,7 @@ _female_: 0.6% (2025 est.)<br>
 15% (2024 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-77.9% (2023 est.)<br>
+79.2% (2018 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 15.9% (2018)<br>
@@ -328,7 +328,7 @@ _head of government_: Transition Prime Minister Abdoulaye MAIGA (since 22 Novemb
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister appointed by the president<br>
 _most recent election date_: 29 July 2018, with runoff on 12 August 2018<br>
-_election results_: <em><br>2018</em>: Ibrahim Boubacar KEITA reelected president in second round; percent of vote in first round - Ibrahim Boubacar KEITA (RPM) 41.7%, Soumaila CISSE (URD) 17.8%, other 40.5%; percent of vote in second round - Ibrahim Boubacar KEITA 67.2%, Soumaila CISSE 32.8%<br><br><em>2013</em>: Ibrahim Boubacar KEITA elected president in second round; percent of vote in first round - Ibrahim Boubacar KEITA (RPM) 39.8%, Soumaila CISSE (URD) 19.7%, other 40.5%; percent of vote in second round - Ibrahim Boubacar KEITA (RPM) 77.6%, Soumaila CISSE (URD) 22.4%<br>
+_election results_: <em><br>2018</em>: Ibrahim Boubacar KEITA reelected president in second round; percent of vote in first round - Ibrahim Boubacar KEITA (RPM) 41.7%, Soumaila CISSE (URD) 17.8%, other 40.5%; percent of vote in second round - Ibrahim Boubacar KEITA 67.2%, Soumaila CISSE 32.8%<br>
 <strong>note:</strong> in 2022, the transition government adopted a charter allowing transition authorities to rule for up to 5 years, but the military junta pushed through a referendum in 2023 that created the potential for transition President GOITA to maintain his hold on power indefinitely<br>
 
 **Legislative branch**<br>
@@ -631,13 +631,10 @@ Malian Armed Forces (Forces Armées Maliennes or FAMa): Army (l’Armée de Terr
 information varies; estimated 35-40,000 active FAMa, Gendarmerie, and National Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAMa's inventory includes mostly Soviet-era weapons and equipment along with smaller quantities of secondhand and some more modern material from a variety of other countries, including China, Czechia, France, Russia, Turkey, and the UAE (2025)<br>
+the FAMa's inventory includes mostly Soviet-era weapons and equipment along with smaller quantities of more modern material from a variety of suppliers, including France, Russia, South Africa, T&uuml;rkiye, and the UAE (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age for men and women for selective compulsory and voluntary military service; 24-month compulsory service obligation (2023)<br>
-
-**Military deployments**<br>
-<strong>note 1: </strong>in 2024, Mali, Burkina Faso, and Niger announced they were forming joint force of 5,000 troops to combat extremist groups in the Sahel<strong><br><br>note 2:</strong> until announcing its withdrawal in May of 2022, Mali was part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mauritania, and Niger; Mali had committed 1,100 troops and 200 gendarmes to the force<br>
+18 years of age for men and women for selective compulsory and voluntary military service; 24-month compulsory service obligation (2025)<br>
 
 **Military - note**<br>
 the FAMa is responsible for the defense of the country’s sovereignty and territory, but also has some domestic security duties, including the maintenance of public order and support to law enforcement; it also participates in socio-economic development projects; the military has traditionally played a large role in Mali’s politics; prior to the coup in August 2020 and military takeover in May 2021, it had intervened in the political arena at least five times since the country gained independence in 1960 (1968, 1976, 1978, 1991, 2012)<br><br>the FAMa and other security forces are actively engaged in combat operations against several insurgent/terrorist groups affiliated with al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS), as well as other armed rebel organizations, communal militias, and criminal bands spread across the central, northern, and southern regions of the country; a large portion of the country--up to 50% by some estimates--is outside of government control<br><br>the FAMa and the remainder of the security forces collapsed in 2012 during the fighting against Tuareg rebels and Islamic militants and were rebuilt beginning in 2013 with external assistance from the EU and the UN; the UN Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) and the EU Training Mission in Mali (EUTM) ended their missions in 2023 and 2024, respectively; France intervened militarily in Mali in 2013 to assist with regaining the northern half of the country from rebel and Islamic militant groups; French troops withdrew in 2022; since 2021, Mali has increased security ties with Russia, which has provided equipment, training, and other forms of military support (2025)<br>

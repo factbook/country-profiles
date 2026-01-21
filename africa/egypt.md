@@ -119,21 +119,21 @@ _elderly dependency ratio_: 9.2 (2024 est.)<br>
 _potential support ratio_: 10.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 24.4 years (2024 est.)<br>
+_total_: 24.6 years (2025 est.)<br>
 _male_: 24.3 years<br>
 _female_: 24.4 years<br>
 
 **Population growth rate**<br>
-1.49% (2024 est.)<br>
+1.4% (2025 est.)<br>
 
 **Birth rate**<br>
-19.5 births/1,000 population (2024 est.)<br>
+18.63 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-4.3 deaths/1,000 population (2024 est.)<br>
+4.33 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.3 migrant(s)/1,000 population (2024 est.)<br>
+-0.27 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 approximately 95% of the population lives within 20 km (12 mi) of the Nile River and its delta; vast areas of the country remain sparsely populated or uninhabited, as shown in this population distribution map<br>
@@ -160,7 +160,7 @@ _total population_: 1.06 male(s)/female (2024 est.)<br>
 17 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 16.8 deaths/1,000 live births (2024 est.)<br>
+_total_: 16.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 17.8 deaths/1,000 live births<br>
 _female_: 15.9 deaths/1,000 live births<br>
 
@@ -170,10 +170,10 @@ _male_: 73.8 years<br>
 _female_: 76.2 years<br>
 
 **Total fertility rate**<br>
-2.65 children born/woman (2024 est.)<br>
+2.53 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.28 (2024 est.)<br>
+1.23 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.3% of population (2022 est.)<br>
@@ -220,7 +220,7 @@ _female_: 0.3% (2025 est.)<br>
 3.7% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-71.1% (2023 est.)<br>
+65.6% (2021 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 1.8% (2021)<br>
@@ -638,8 +638,8 @@ _total subscriptions_: 12.475 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 11 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 106 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 93 (2022 est.)<br>
+_total subscriptions_: 106.319 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 97 (2024 est.)<br>
 
 **Broadcast media**<br>
 mix of state-run and private broadcast media; state-run TV operates 2 national and 6 regional terrestrial networks, as well as a few satellite channels; dozens of private satellite channels and a large number of Arabic satellite channels are available for free; some limited satellite services are also available via subscription; state-run radio operates about 30 stations belonging to 8 networks; privately-owned radio includes 8 major stations (2019)<br>
@@ -700,15 +700,13 @@ Egyptian Armed Forces (EAF): Army (includes Republican Guard), Navy (includes Co
 estimated 450,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the EAF's inventory is comprised of a mix of domestically produced, Soviet-era, and more modern, particularly Western, weapons systems; in recent years, the EAF has embarked on an equipment modernization program with significant purchases from foreign suppliers; major suppliers have included China, France, Germany, Italy, Russia, and the US; Egypt has an established defense industry that produces a range of products from small arms to armored vehicles and naval vessels; it also has licensed and co-production agreements with several countries, including Germany and the US (2024)<br>
+the EAF's inventory is comprised of a mix of domestically produced, Soviet-era, and more modern, typically Western, weapons systems; in recent years, the EAF has embarked on an equipment modernization program with purchases from foreign suppliers, including China, France, Germany, Italy, Russia, UAE, the UK, and the US; Egypt's defense industry produces a range of products from small arms to armored vehicles and naval vessels; it also has licensed and co-production agreements with several countries, including Germany and the US (2025)<br>
 
 **Military service age and obligation**<br>
-voluntary enlistment possible from age 16 for men and 17 for women; 18-30 years of age for conscript service for men; service obligation 14-36 months, followed by a 9-year reserve obligation; active service length depends on education; high school drop-outs serve for the full 36 months, while college graduates serve for lesser periods of time, depending on their education level (2025)<br>
-<strong>note:</strong> conscripts make up a considerable portion of the military and the Central Security Force<br>
+voluntary enlistment possible from age 16 for men and 17 for women; 18-30 years of age for compulsory service for men; service obligation 14-36 months, followed by a 9-year reserve obligation; active service length depends on education; high school drop-outs serve for the full 36 months, while college graduates serve for lesser periods of time, depending on their education level (2025)<br>
 
 **Military deployments**<br>
-775 (plus nearly 200 police) Central African Republic (MINUSCA); also has about 200 police deployed to the Democratic Republic of the Congo under MONUSCO (2025)<br>
-<strong>note: </strong>Egypt is slated to have about 1,100 military personnel in Somalia under AUSSOM; the first contingent of troops deployed in 2025<br>
+775 (plus nearly 200 police) Central African Republic (MINUSCA); 1,100 Somalia (AUSSOM); also has about 200 police deployed to the Democratic Republic of the Congo under MONUSCO (2025)<br>
 
 **Military - note**<br>
 the Egyptian Armed Forces (EAF) are responsible for external defense but also have an internal role assisting police and paramilitary security forces during emergencies and in anti-terrorism operations; the EAF also participates in foreign peacekeeping and other security missions, as well as both bilateral and multinational exercises; the military has considerable political power and independence; it has long had a crucial role in Egypt’s politics and has a large stake in the civilian economy, including running banks, businesses, gas stations, shipping lines, and utilities, and producing consumer and industrial goods, importing commodities, and building and managing infrastructure projects, such as bridges, roads, hospitals, and housing<br><br>key areas of concern for the EAF include Islamist militant groups operating out of the Sinai Peninsula, regional challenges such as ongoing conflicts and instability, and maritime security; since 2011, the EAF has been conducting operations alongside other security forces in the North Sinai governorate against several militant groups, particularly the Islamic State of Iraq and ash-Sham (ISIS); over the past decade, it has deployed additional units along the border with Libya, provided air support to the Saudi-led coalition's intervention in Yemen, and most recently boosted its presence on the border with Gaza in response to the HAMAS-Israel conflict; the Navy in recent years has sought to modernize and expand its capabilities and profile in the Eastern Mediterranean and Red Sea, including the acquisition of helicopter carriers, modern frigates, and attack submarines, as well as the establishment of a joint service military base on the Red Sea<br><br>the Multinational Force &amp; Observers (MFO) has operated in the Sinai since 1982 as a peacekeeping and monitoring force to supervise the implementation of the security provisions of the 1979 Egyptian-Israeli Treaty of Peace; the MFO is an independent international organization, created by agreement between Egypt and Israel; it has about 1,150 troops from 13 countries; Colombia, Fiji, and the US are the leading providers of troops to the MFO (2025)<br>

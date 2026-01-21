@@ -90,7 +90,7 @@ St. Helena 82.1%, UK 7.6%, South Africa 3.6%, Ascension 2.8%, other 3.9% (2021 e
 English<br>
 
 **Religions**<br>
-Anglican 63.2%, unspecified 11.4%, no religion 9%, Jehovah's Witness 3.8%, Baptist 2.3%, Salvation Army 2%, Roman Catholic 2.2%, Seventh Day Adventist 1.9%, New Apostolic 1.6%, other Christian 1.4%, other 1.1%  (2021 est.)<br>
+Anglican 63.2%, unspecified 11.4%, no religion 9%, Jehovah's Witness 3.8%, Baptist 2.3%, Salvation Army 2%, Roman Catholic 2.2%, Seventh Day Adventist 1.9%, New Apostolic 1.6%, other Christian 1.4%, other 1.1% (2021 est.)<br>
 <strong>note:</strong> data represent Saint Helena only<br>
 
 **Age structure**<br>
@@ -105,21 +105,21 @@ _elderly dependency ratio_: 28.9 (2024 est.)<br>
 _potential support ratio_: 3.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 45.1 years (2024 est.)<br>
+_total_: 45.5 years (2025 est.)<br>
 _male_: 44.8 years<br>
 _female_: 45.4 years<br>
 
 **Population growth rate**<br>
-0.1% (2024 est.)<br>
+0.08% (2025 est.)<br>
 
 **Birth rate**<br>
-9.3 births/1,000 population (2024 est.)<br>
+9.31 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.3 deaths/1,000 population (2024 est.)<br>
+8.55 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2024 est.)<br>
+0 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 <em>Saint Helena:</em> population is concentrated in and around the capital of Jamestown in the northwest, with another significant cluster in the interior Longwood area<br><br><em>Ascension:</em> most of the population lives in and around Georgetown<br><br><em>Tristan da Cunha:</em> most of the nearly 300 inhabitants live in the northern coastal town of Edinburgh of the Seven Seas<br>
@@ -139,7 +139,7 @@ _65 years and over_: 1.03 male(s)/female<br>
 _total population_: 1 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 17.5 deaths/1,000 live births (2025 est.)<br>
 _male_: 21.7 deaths/1,000 live births<br>
 _female_: 14.2 deaths/1,000 live births<br>
 
@@ -149,10 +149,10 @@ _male_: 78.1 years<br>
 _female_: 83.9 years<br>
 
 **Total fertility rate**<br>
-1.61 children born/woman (2024 est.)<br>
+1.61 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.78 (2024 est.)<br>
+0.79 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 99.1% of population (2022 est.)<br>

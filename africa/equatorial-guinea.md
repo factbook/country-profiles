@@ -52,12 +52,12 @@ _mean elevation_: 577 m<br>
 petroleum, natural gas, timber, gold, bauxite, diamonds, tantalum, sand and gravel, clay<br>
 
 **Land use**<br>
-_agricultural land_: 3.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.2% (2022 est.)<br>
-_forest_: 86.7% (2022 est.)<br>
-_other_: 9.6% (2022 est.)<br>
+_agricultural land_: 3.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.2% (2023 est.)<br>
+_forest_: 86.4% (2023 est.)<br>
+_other_: 9.9% (2023 est.)<br>
 
 **Irrigated land**<br>
 NA<br>
@@ -104,21 +104,21 @@ _elderly dependency ratio_: 8.4 (2024 est.)<br>
 _potential support ratio_: 11.9 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 22.1 years (2024 est.)<br>
+_total_: 22.3 years (2025 est.)<br>
 _male_: 22.7 years<br>
 _female_: 21.5 years<br>
 
 **Population growth rate**<br>
-3.23% (2024 est.)<br>
+3.1% (2025 est.)<br>
 
 **Birth rate**<br>
-29 births/1,000 population (2024 est.)<br>
+28.55 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.9 deaths/1,000 population (2024 est.)<br>
+8.81 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-12.1 migrant(s)/1,000 population (2024 est.)<br>
+11.29 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the two large cities are Bata on the mainland and the capital Malabo on the island of Bioko; small communities are scattered throughout the mainland and the five inhabited islands, as shown in this population distribution map<br>
@@ -141,7 +141,7 @@ _total population_: 1.16 male(s)/female (2024 est.)<br>
 174 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 77.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 76.9 deaths/1,000 live births (2025 est.)<br>
 _male_: 83.3 deaths/1,000 live births<br>
 _female_: 71.3 deaths/1,000 live births<br>
 
@@ -151,10 +151,10 @@ _male_: 61.6 years<br>
 _female_: 66.2 years<br>
 
 **Total fertility rate**<br>
-4.12 children born/woman (2024 est.)<br>
+4.05 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-2.03 (2024 est.)<br>
+1.99 (2025 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 3.4% of GDP (2021)<br>
@@ -173,9 +173,6 @@ _wine_: 1.24 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0.99 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.05 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-60.2% (2023 est.)<br>
-
 ## Environment
 
 **Environmental issues**<br>
@@ -189,12 +186,12 @@ _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 tropical; always hot, humid<br>
 
 **Land use**<br>
-_agricultural land_: 3.7% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 1.9% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 1.7% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.2% (2022 est.)<br>
-_forest_: 86.7% (2022 est.)<br>
-_other_: 9.6% (2022 est.)<br>
+_agricultural land_: 3.7% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 1.9% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 1.7% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.2% (2023 est.)<br>
+_forest_: 86.4% (2023 est.)<br>
+_other_: 9.9% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 74.4% of total population (2023)<br>
@@ -536,8 +533,8 @@ _total subscriptions_: 11,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 893,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 53 (2022 est.)<br>
+_total subscriptions_: 893,441 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 50 (2022 est.)<br>
 
 **Broadcast media**<br>
 the state maintains control of broadcast media; 1 state-owned TV station, 1 private TV station owned by the president's eldest son, 1 state-owned radio station, and 1 private radio station owned by the president's eldest son; satellite TV service is available; transmissions of multiple international broadcasters are generally accessible (2019)<br>
@@ -590,13 +587,13 @@ Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Arm
 estimated 2,000 active Armed Forces, including Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAGE is armed with mostly older (typically Soviet-era) and second-hand weapons systems; in recent years, it has sought to modernize its naval inventory with purchases of vessels from several countries, including Bulgaria and Israel; China and Russia have also supplied some equipment to the FAGE (2024)<br>
+the FAGE is armed with mostly older (typically Soviet-era) and secondhand weapons systems; in recent years, it has sought to modernize its naval inventory with purchases of vessels from several countries, including Bulgaria and Israel; China and Russia have also supplied some equipment to the FAGE (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age for selective compulsory military service, although conscription is rare in practice; 24-month service obligation (2023)<br>
+18-25 for voluntary military service; selective compulsory military service for men; 24-month service obligation (2025)<br>
 
 **Military - note**<br>
-the Armed Forces of Equatorial Guinea (FAGE) are responsible for defending the territory and sovereignty of the country; the FAGE also has some internal security duties, including fulfilling some police functions in border areas, sensitive sites, and high-traffic areas; maritime security, particularly protecting offshore oil installations and combating piracy and crime in the Gulf of Guinea, is a key priority (2024)<br>
+the Armed Forces of Equatorial Guinea (FAGE) are responsible for defending the territory and sovereignty of the country; the FAGE also has some internal security duties, including fulfilling some police functions in border areas, sensitive sites, and high-traffic areas; maritime security, particularly protecting offshore oil installations and combating piracy and crime in the Gulf of Guinea, is a key priority (2025)<br>
 
 ## Transnational Issues
 

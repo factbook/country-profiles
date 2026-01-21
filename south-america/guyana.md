@@ -107,21 +107,21 @@ _elderly dependency ratio_: 11.9 (2024 est.)<br>
 _potential support ratio_: 8.4 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 28.3 years (2024 est.)<br>
+_total_: 28.7 years (2025 est.)<br>
 _male_: 28.2 years<br>
 _female_: 28.4 years<br>
 
 **Population growth rate**<br>
-0.32% (2024 est.)<br>
+0.35% (2025 est.)<br>
 
 **Birth rate**<br>
-16.7 births/1,000 population (2024 est.)<br>
+16.68 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7 deaths/1,000 population (2024 est.)<br>
+7.05 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--6.6 migrant(s)/1,000 population (2024 est.)<br>
+-6.14 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population is heavily concentrated in the northeast in and around Georgetown, with notable concentrations along the Berbice River to the east; the remainder of the country is sparsely populated<br>
@@ -148,7 +148,7 @@ _total population_: 1.04 male(s)/female (2024 est.)<br>
 75 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 21.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 20.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 23.9 deaths/1,000 live births<br>
 _female_: 18.3 deaths/1,000 live births<br>
 
@@ -158,10 +158,10 @@ _male_: 70.6 years<br>
 _female_: 74.3 years<br>
 
 **Total fertility rate**<br>
-2.05 children born/woman (2024 est.)<br>
+2.04 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1 (2024 est.)<br>
+1 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 96% of population (2022 est.)<br>
@@ -208,7 +208,7 @@ _female_: 1.9% (2025 est.)<br>
 9.4% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-62.6% (2023 est.)<br>
+59% (2020 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 6.3% (2020)<br>
@@ -593,7 +593,7 @@ _key ports_: Georgetown, Linden, New Amsterdam<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Guyana Defense Force (GDF) is a unified force with ground, air, and coast guard components, as well as the Guyana National Reserve (2025)<br>
+the Guyana Defense Force (GDF) is a unified force with ground, air, and coast guard components, as well as the Guyana National Reserve (2026)<br>
 <strong>note:</strong> the Guyana Police Force under the Ministry of Home Affairs is responsible for internal security<br>
 
 **Military expenditures**<br>
@@ -607,10 +607,10 @@ the Guyana Defense Force (GDF) is a unified force with ground, air, and coast gu
 approximately 3,500 active-duty Guyana Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military has a limited inventory comprised mostly of older or second-hand platforms from a variety of foreign suppliers, including Brazil, China, the former Soviet Union, the UK, and the US (2024)<br>
+the military has a limited inventory comprised mostly of older or secondhand platforms imported from a variety of foreign suppliers, including Brazil, China, India, the former Soviet Union, the UK, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age or older for voluntary military service; no conscription (2024)<br>
+18 years of age or older for voluntary military service; no conscription (2026)<br>
 
 **Military - note**<br>
 the Guyana Defense Force (GDF) was established in 1965; its primary missions are territorial defense, maritime security, search and rescue, medical evacuation, aviation and engineering support, disaster relief and humanitarian assistance, peace support operations, and community engagement; key areas of concern include illegal fishing, narcotics trafficking, piracy, porous borders, and threats from Venezuela over disputed territory; the GDF participates in both bilateral and multinational exercises and has relationships with Brazil, China, France, the UK, and the US<br><br>Guyana joined the Caribbean Regional Security System (RSS) in 2022; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2025)<br>

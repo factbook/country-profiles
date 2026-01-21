@@ -114,21 +114,21 @@ _elderly dependency ratio_: 10.8 (2024 est.)<br>
 _potential support ratio_: 9.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 26.6 years (2024 est.)<br>
+_total_: 27 years (2025 est.)<br>
 _male_: 26.2 years<br>
 _female_: 27 years<br>
 
 **Population growth rate**<br>
-1% (2024 est.)<br>
+1.01% (2025 est.)<br>
 
 **Birth rate**<br>
-17.6 births/1,000 population (2024 est.)<br>
+17.02 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.6 deaths/1,000 population (2024 est.)<br>
+5.99 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1 migrant(s)/1,000 population (2024 est.)<br>
+-0.95 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 a high-altitude plain in the west between two cordillera of the Andes, known as the Altiplano, is the focal area for most of the population; a dense settlement pattern is also found in and around the city of Santa Cruz, located on the eastern side of the Andes<br>
@@ -155,7 +155,7 @@ _total population_: 1.01 male(s)/female (2024 est.)<br>
 146 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 22.1 deaths/1,000 live births (2025 est.)<br>
 _male_: 24.5 deaths/1,000 live births<br>
 _female_: 20 deaths/1,000 live births<br>
 
@@ -165,10 +165,10 @@ _male_: 71 years<br>
 _female_: 74 years<br>
 
 **Total fertility rate**<br>
-2.2 children born/woman (2024 est.)<br>
+2.13 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.07 (2024 est.)<br>
+1.04 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.5% of population (2022 est.)<br>
@@ -215,7 +215,7 @@ _female_: 3.2% (2025 est.)<br>
 3.4% (2016 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-57.1% (2023 est.)<br>
+50.2% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 3.4% (2016)<br>
@@ -617,8 +617,8 @@ _total subscriptions_: 550,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 100 (2021 est.)<br>
+_total subscriptions_: 12,266,900 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 98 (2024 est.)<br>
 
 **Broadcast media**<br>
 large number of radio and TV stations broadcasting with private media outlets dominating; state-owned and private radio and TV stations generally operating freely, although both pro-government and anti-government groups have attacked media outlets in response to their reporting (2019)<br>
@@ -669,11 +669,11 @@ Bolivian Armed Forces (Fuerzas Armadas de Bolivia or FAB): Bolivian Army (Ejerci
 approximately 30-35,000 active-duty Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military is equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment (2024)<br>
+the military is equipped with a mix of mostly older Brazilian, Chinese, European, and US armaments (2025)<br>
 
 **Military service age and obligation**<br>
-compulsory for all men between the ages of 18 and 22; men can volunteer from the age of 16, women from 18; service is for 12 months; Search and Rescue service can be substituted for citizens who have reached the age of compulsory military service; duration of this service is 24 months (2024)<br>
-<strong>note 1:</strong> foreign nationals 18-22 residing in Bolivia may join the armed forces; joining speeds the process of acquiring Bolivian citizenship by naturalization<br><br><strong>note 2:</strong> as of 2022, women comprised about 8% of the Bolivian military's personnel<br>
+voluntary service for men and women 18-22 years of age; selective 12-month compulsory service for men, 18-22 (24 months of search and rescue service can be substituted for military service) (2025)<br>
+<strong>note:</strong> as of 2024, women comprised about 11% of the Bolivian military's personnel<br>
 
 **Military - note**<br>
 the Bolivian Armed Forces (FAB) are responsible for territorial defense but also have some internal security duties, particularly counternarcotics and border security; the FAB shares responsibility for border enforcement with the National Police (PNB), and it may be called out to assist the PNB with maintaining public order in critical situations<br><br>land-locked Bolivia has a naval force for patrolling some 5,000 miles of navigable rivers to combat narcotics trafficking and smuggling, provide disaster relief, and deliver supplies to remote rural areas, as well as for maintaining a presence on Lake Titicaca; the Navy also exists in part to cultivate a maritime tradition and as a reminder of Bolivia’s defeat at the hands of Chile in the War of the Pacific (1879-1883), and its desire to regain access to the Pacific Ocean; every year on 23 March, the Navy participates in parades and government ceremonies commemorating the Día Del Mar (Day of the Sea) holiday that remembers the loss (2025)<br>

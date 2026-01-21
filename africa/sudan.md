@@ -116,21 +116,21 @@ _elderly dependency ratio_: 5.7 (2024 est.)<br>
 _potential support ratio_: 17.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 19.3 years (2024 est.)<br>
+_total_: 19.5 years (2025 est.)<br>
 _male_: 19 years<br>
 _female_: 19.6 years<br>
 
 **Population growth rate**<br>
-2.55% (2024 est.)<br>
+2.54% (2025 est.)<br>
 
 **Birth rate**<br>
-33.1 births/1,000 population (2024 est.)<br>
+32.95 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.1 deaths/1,000 population (2024 est.)<br>
+6 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1.6 migrant(s)/1,000 population (2024 est.)<br>
+-1.55 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 with the exception of a ribbon of settlement that corresponds to the banks of the Nile, northern Sudan is sparsely populated; sizeable areas of population are found around Khartoum, southeast between the Blue and White Nile Rivers, and throughout South Darfur, as shown on this population distribution map<br>
@@ -153,7 +153,7 @@ _total population_: 1.01 male(s)/female (2024 est.)<br>
 256 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 40.6 deaths/1,000 live births (2024 est.)<br>
+_total_: 39.7 deaths/1,000 live births (2025 est.)<br>
 _male_: 46 deaths/1,000 live births<br>
 _female_: 34.8 deaths/1,000 live births<br>
 
@@ -163,10 +163,10 @@ _male_: 65.5 years<br>
 _female_: 70.2 years<br>
 
 **Total fertility rate**<br>
-4.47 children born/woman (2024 est.)<br>
+4.41 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-2.18 (2024 est.)<br>
+2.15 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 74.2% of population (2022 est.)<br>
@@ -198,9 +198,6 @@ _other alcohols_: 1.63 liters of pure alcohol (2019 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 33% (2014)<br>
-
-**Currently married women (ages 15-49)**<br>
-61.4% (2023 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 7 years (2015 est.)<br>
@@ -611,12 +608,12 @@ Sudanese Armed Forces (SAF): Ground Force (Sudanese Army), Sudanese Navy, Sudane
 prior to the outbreak of fighting between the SAF and the RSF in 2023, size estimates for Sudan's armed forces varied widely: up to 200,000 SAF; up to 100,000 RSF; up to 80,000 Central Reserve Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SAF's inventory includes a mix of mostly Chinese, Russian, Soviet-era, and domestically produced weapons systems; Sudan has one of the largest defense industries in Africa, which includes state-owned companies with military involvement; it has mostly manufactured weapons systems under license from China, Russia, Turkey, and Ukraine (2024)<br>
-<strong>note 1:</strong> Sudan has been under a UN Security Council approved arms embargo since 2005 as a result of violence in Darfur; in September 2024, the embargo was extended for another year<br><br><strong>note 2: </strong> the RSF traditionally has been a lightly armed paramilitary force but over the years is reported to have acquired some heavier weapons and equipment such as armored vehicles, artillery, and anti-aircraft guns; it has captured some SAF arms and equipment during the ongoing conflict; since the start of the conflict, both the RSF and the SAF are reported to have received additional weaponry from various foreign suppliers<br>
+the SAF's inventory includes a mix of mostly Chinese, Russian/Soviet, and some domestically produced weapons systems; Sudan has a state-run defense industry, which mostly manufactures copies of foreign-supplied armaments, such as armored vehicles, under license (2025)<br>
+<strong>note 1:</strong> Sudan has been under a UN Security Council approved arms embargo since 2005 as a result of violence in Darfur; in September 2025, the embargo was extended for another year<br><br><strong>note 2: </strong> the RSF traditionally has been a lightly armed paramilitary force but over the years is reported to have acquired some heavier armaments such as armored vehicles, artillery, and anti-aircraft guns; it has captured some SAF arms and equipment during the ongoing conflict; since the start of the conflict, both the RSF and the SAF are reported to have received additional weaponry from various foreign suppliers<br>
 
 **Military service age and obligation**<br>
-18-33 years of age for compulsory or voluntary military service for men and women; 12-24 month service obligation (2023)<br>
-<strong>note:</strong> implementation of conscription is reportedly uneven<br>
+18-33 years of age for compulsory or voluntary military service for men and women; service obligation 12-24 months (2025)<br>
+<strong>note:</strong> official implementation of compulsory service is reportedly uneven; both the SAF and the RSF have been accused of engaging in forced recruitment of men and boys during the ongoing conflict<br>
 
 **Military - note**<br>
 the primary responsibilities of the Sudanese Armed Forces (SAF) are border control, external defense, and internal security; SAF operations have traditionally been supported by militia and paramilitary forces, particularly the Rapid Support Forces (RSF); in the Spring of 2023, fighting broke out between the SAF and the RSF, particularly around the capital Khartoum and in the western region of Darfur, amid disputes over an internationally-backed plan for a transition towards civilian rule; fighting subsequently spread and continued into 2025 with reports of atrocities, ethnic cleansing, food insecurity, heavy civilian casualties, and millions of internally displaced persons; each side is supported by allied militias and both reportedly have received foreign support<br><br>the Sudanese military has been a dominant force in the ruling of the country since its independence in 1956; in addition, the military has a large role in the country's economy, reportedly controlling over 200 commercial companies, including businesses involved in gold mining, rubber production, agriculture, and meat exports<br><br>the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of 2025, UNISFA had approximately 3,800 personnel assigned (2025)<br>

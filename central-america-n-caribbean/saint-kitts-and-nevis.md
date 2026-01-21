@@ -52,12 +52,12 @@ _lowest point_: Caribbean Sea 0 m<br>
 arable land<br>
 
 **Land use**<br>
-_agricultural land_: 23.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 19.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.5% (2022 est.)<br>
-_forest_: 42.3% (2022 est.)<br>
-_other_: 34.6% (2022 est.)<br>
+_agricultural land_: 23.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 19.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 3.5% (2023 est.)<br>
+_forest_: 42.3% (2023 est.)<br>
+_other_: 34.6% (2023 est.)<br>
 
 **Irrigated land**<br>
 8 sq km (2012)<br>
@@ -88,9 +88,6 @@ African descent 92.5%, mixed 3%, White 2.1%, East Indian 1.5%, other 0.6%, unspe
 **Languages**<br>
 English (official)<br>
 
-**Religions**<br>
-Protestant 75.6% (includes Anglican 16.6%, Methodist 15.8%, Pentecostal 10.8%, Church of God 7.4%, Baptist 5.4%, Seventh Day Adventist 5.4%, Wesleyan Holiness 5.3%, Moravian 4.8%, Evangelical 2.1%, Brethren 1.7%, Presbyterian 0.3%), Roman Catholic 5.9%, Hindu 1.8%, Jehovah's Witness 1.4%, Rastafarian 1.3%, other 5%, none 8.8%, unspecified 0.1% (2011 est.)<br>
-
 **Age structure**<br>
 _0-14 years_: 19.2% (male 5,314/female 5,277)<br>
 _15-64 years_: 68.1% (male 18,944/female 18,575)<br>
@@ -103,21 +100,21 @@ _elderly dependency ratio_: 18.7 (2024 est.)<br>
 _potential support ratio_: 5.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 38.6 years (2024 est.)<br>
+_total_: 39.1 years (2025 est.)<br>
 _male_: 38.8 years<br>
 _female_: 38.3 years<br>
 
 **Population growth rate**<br>
-0.56% (2024 est.)<br>
+0.53% (2025 est.)<br>
 
 **Birth rate**<br>
-11.8 births/1,000 population (2024 est.)<br>
+11.58 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.4 deaths/1,000 population (2024 est.)<br>
+7.43 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-1.1 migrant(s)/1,000 population (2024 est.)<br>
+1.14 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population clusters are found in the small towns located on the periphery of both islands<br>
@@ -140,7 +137,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 74 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8 deaths/1,000 live births (2024 est.)<br>
+_total_: 7.9 deaths/1,000 live births (2025 est.)<br>
 _male_: 5.5 deaths/1,000 live births<br>
 _female_: 10.6 deaths/1,000 live births<br>
 
@@ -150,10 +147,10 @@ _male_: 75.2 years<br>
 _female_: 80.1 years<br>
 
 **Total fertility rate**<br>
-1.76 children born/woman (2024 est.)<br>
+1.76 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.87 (2024 est.)<br>
+0.87 (2025 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 6.2% of GDP (2021)<br>
@@ -174,9 +171,6 @@ _beer_: 3.73 liters of pure alcohol (2019 est.)<br>
 _wine_: 1.02 liters of pure alcohol (2019 est.)<br>
 _spirits_: 3.89 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.21 liters of pure alcohol (2019 est.)<br>
-
-**Currently married women (ages 15-49)**<br>
-57.2% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.5% of GDP (2023 est.)<br>
@@ -200,12 +194,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical, tempered by constant sea breezes; little seasonal temperature variation; rainy season (May to November)<br>
 
 **Land use**<br>
-_agricultural land_: 23.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 19.2% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.4% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 3.5% (2022 est.)<br>
-_forest_: 42.3% (2022 est.)<br>
-_other_: 34.6% (2022 est.)<br>
+_agricultural land_: 23.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 19.2% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.4% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 3.5% (2023 est.)<br>
+_forest_: 42.3% (2023 est.)<br>
+_other_: 34.6% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 31.1% of total population (2023)<br>
@@ -534,7 +528,7 @@ St. Kitts and Nevis Defense Force (SKNDF); Regular Force, Coast Guard Force (SKN
 estimated 200 active Defense Forces (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SKNDF is lightly armed with equipment from Belgium, the UK, and the US (2024)<br>
+the SKNDF is lightly armed with equipment from Belgium, the UK, and the US (2025)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women (under 18 with written parental permission); no conscription (2025)<br>

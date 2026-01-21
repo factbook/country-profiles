@@ -117,21 +117,21 @@ _elderly dependency ratio_: 5.7 (2024 est.)<br>
 _potential support ratio_: 17.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 19.1 years (2024 est.)<br>
+_total_: 18.8 years (2025 est.)<br>
 _male_: 18.8 years<br>
 _female_: 19.4 years<br>
 
 **Population growth rate**<br>
-2.72% (2024 est.)<br>
+2.85% (2025 est.)<br>
 
 **Birth rate**<br>
-32.5 births/1,000 population (2024 est.)<br>
+33.45 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5 deaths/1,000 population (2024 est.)<br>
+4.96 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.4 migrant(s)/1,000 population (2024 est.)<br>
+0 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the largest and most populous East African country; population distribution is extremely uneven, but greater population clusters occur in the northern half of country and along the east coast, as shown in this population distribution map<br>
@@ -158,7 +158,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 276 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 29.6 deaths/1,000 live births (2024 est.)<br>
+_total_: 28.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 32.3 deaths/1,000 live births<br>
 _female_: 26.9 deaths/1,000 live births<br>
 
@@ -168,10 +168,10 @@ _male_: 69 years<br>
 _female_: 72.6 years<br>
 
 **Total fertility rate**<br>
-4.27 children born/woman (2024 est.)<br>
+4.45 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-2.1 (2024 est.)<br>
+2.19 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 81.1% of population (2022 est.)<br>
@@ -218,7 +218,7 @@ _female_: 2% (2025 est.)<br>
 11.4% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-59.5% (2023 est.)<br>
+59.2% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 5.2% (2022)<br>
@@ -340,9 +340,9 @@ _chief of state_: President Samia Suluhu HASSAN (since 19 March 2021)<br>
 _head of government_: President Samia Suluhu HASSAN (since 19 March 2021)<br>
 _cabinet_: Cabinet appointed by the president from among members of the National Assembly<br>
 _election/appointment process_: president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term (eligible for a second term); prime minister appointed by the president<br>
-_most recent election date_: 28 October 2020<br>
-_election results_: <em><br>2020</em>: John MAGUFULI reelected president; percent of vote - John MAGUFULI (CCM) 84.4%, Tundu LISSU (CHADEMA) 13%, other 2.6%<br><br><em>2015</em>: John MAGUFULI elected president; percent of vote - John MAGUFULI (CCM) 58.5%, Edward LOWASSA (CHADEMA) 40%, other 1.5%<br>
-_expected date of next election_: October 2025<br>
+_most recent election date_: 29 October 2025<br>
+_election results_: <em><br>2025</em>: Samia Suluhu HASSAN reelected; percent of vote - Samia Suluhu HASSAN (CCM) 97.7%, others 2.3%<br>
+_expected date of next election_: October 2030<br>
 <strong>note 1:</strong> Zanzibar elects a president as head of government for internal matters; election held on 28 October 2020; Hussein MWINYI (CCM) 76.3%, Maalim Seif SHARIF (ACT-Wazalendo) 19.9%, other 3.8%<br><br><strong>note 2:</strong> the president is both chief of state and head of government<br><br><strong>note 3:</strong> after the death of President John MAGUFULI in March 2021, Vice President Samia Suluhu HASSAN assumed the presidency<br>
 
 **Legislative branch**<br>
@@ -674,7 +674,7 @@ Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): 
 approximately 25,000 active Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the TPDF's inventory includes mostly Chinese and Russian/Soviet-era weapons and equipment (2025)<br>
+the TPDF's inventory includes mostly British, Chinese, and Russian/Soviet-era armaments (2025)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service for men and women; 6-year commitment (2-year contracts afterwards); selective conscription for 2 years of public service (2025)<br>

@@ -111,21 +111,21 @@ _elderly dependency ratio_: 26.3 (2024 est.)<br>
 _potential support ratio_: 3.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 37.9 years (2024 est.)<br>
+_total_: 38.1 years (2025 est.)<br>
 _male_: 37.2 years<br>
 _female_: 38.6 years<br>
 
 **Population growth rate**<br>
-0.95% (2024 est.)<br>
+0.83% (2025 est.)<br>
 
 **Birth rate**<br>
-12.6 births/1,000 population (2024 est.)<br>
+12.4 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.9 deaths/1,000 population (2024 est.)<br>
+6.93 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-3.8 migrant(s)/1,000 population (2024 est.)<br>
+2.83 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 over three quarters of New Zealanders, including the Maori, live on the North Island, primarily in urban areas<br>
@@ -151,7 +151,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 7 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 3.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 3.5 deaths/1,000 live births<br>
 _female_: 3.1 deaths/1,000 live births<br>
 
@@ -161,10 +161,10 @@ _male_: 81.2 years<br>
 _female_: 84.8 years<br>
 
 **Total fertility rate**<br>
-1.85 children born/woman (2024 est.)<br>
+1.84 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.9 (2024 est.)<br>
+0.9 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -208,7 +208,7 @@ _male_: 11.2% (2025 est.)<br>
 _female_: 8.9% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-57.6% (2023 est.)<br>
+57.7% (2018 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 5.3% of GDP (2023 est.)<br>
@@ -329,7 +329,7 @@ _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 3 years<br>
 _most recent election date_: 10/14/2023<br>
-_parties elected and seats per party_: National Party (49); Labour Party (34); Green Party (15); ACT New Zealand (11); New Zealand First (8); Other (6)<br>
+_parties elected and seats per party_: National Party (49); Labour Party (34); Green Party (14); ACT New Zealand (11); New Zealand First (8); Te Pāti Māori (4); Others (2)<br>
 _percentage of women in chamber_: 45.1%<br>
 _expected date of next election_: September 2026<br>
 
@@ -339,7 +339,7 @@ _judge selection and term of office_: justices appointed by the governor-general
 _subordinate courts_: Court of Appeal; High Court; tribunals and authorities; district courts; specialized courts for issues related to employment, environment, family, Maori lands, youth, military; tribunals<br>
 
 **Political parties**<br>
-ACT New Zealand <br>Green Party <br>New Zealand First Party or NZ First <br>New Zealand Labor Party <br>New Zealand National Party <br>Te Pāti Māori <br>
+ACT New Zealand <br>Green Party <br>New Zealand First Party or NZ First <br>Labor Party <br>National Party <br>Te Pāti Māori<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Rosemary&nbsp;BANKS (since 17 June 2024)<br>
@@ -643,7 +643,7 @@ approximately 8,800 active (Regular Force) New Zealand Defense Forces (4,300 Arm
 <strong>note:</strong> the total NZDF complement is about 15,300 including the Regular Force, Reserves, and civilians<br>
 
 **Military equipment inventories and acquisitions**<br>
-the NZDF's inventory is comprised of domestically produced and Western-supplied weapons and equipment, including from Australia, Canada, the US, and the UK (2025)<br>
+the NZDF's inventory is comprised of domestically produced and Western-supplied weapons and equipment, including from Australia, Canada, the UK, and the US (2025)<br>
 
 **Military service age and obligation**<br>
 17 years of age for voluntary military service for men and women; soldiers cannot be deployed until the age of 18; no conscription (2025)<br>

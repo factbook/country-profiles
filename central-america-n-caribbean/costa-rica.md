@@ -106,21 +106,21 @@ _elderly dependency ratio_: 15.8 (2024 est.)<br>
 _potential support ratio_: 6.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 35.5 years (2024 est.)<br>
+_total_: 36 years (2025 est.)<br>
 _male_: 34.9 years<br>
 _female_: 36.1 years<br>
 
 **Population growth rate**<br>
-0.74% (2024 est.)<br>
+0.75% (2025 est.)<br>
 
 **Birth rate**<br>
-10.8 births/1,000 population (2024 est.)<br>
+10.86 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.3 deaths/1,000 population (2024 est.)<br>
+5.24 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-1.9 migrant(s)/1,000 population (2024 est.)<br>
+1.89 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 roughly half of the nation's population resides in urban areas; the capital of San Jose is the largest city and home to approximately one fifth of the population<br>
@@ -143,7 +143,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 24 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 6.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 7 deaths/1,000 live births<br>
 _female_: 6.3 deaths/1,000 live births<br>
 
@@ -153,10 +153,10 @@ _male_: 77.7 years<br>
 _female_: 82.9 years<br>
 
 **Total fertility rate**<br>
-1.43 children born/woman (2024 est.)<br>
+1.45 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.7 (2024 est.)<br>
+0.71 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.8% of population (2022 est.)<br>
@@ -203,7 +203,7 @@ _female_: 4.1% (2025 est.)<br>
 2.9% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-48.4% (2023 est.)<br>
+41.7% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 2% (2018)<br>
@@ -312,7 +312,7 @@ _cabinet_: Cabinet selected by the president<br>
 _election/appointment process_: president and vice presidents directly elected on the same ballot by modified majority popular vote (40% threshold) for a 4-year term (eligible for non-consecutive terms)<br>
 _most recent election date_: 6 February 2022, with a runoff on 3 April 2022<br>
 _election results_: <br><em>2022: </em>Rodrigo CHAVES Robles elected president in second round; percent of vote in first round - Jose Maria FIGUERES Olsen (PLN) 27.3%,<em> </em>Rodrigo CHAVES Robles (PPSD) 16.8%, Fabricio ALVARADO Munoz (PNR) 14.9%, Eliecer FEINZAIG Mintz (PLP) 12.4%, Lineth SABORIO Chaverri (PUSC) 12.4%, Jose Maria VILLALTA Florez-Estrada 8.7% (PFA), other 7.5%; percent of vote in second round - Rodrigo CHAVES Robles (PPSD) 52.8%, Jose Maria FIGUERES Olsen (PLN) 47.2%<br><br><em>2018:</em> Carlos ALVARADO Quesada elected president in second round; percent of vote in first round - Fabricio ALVARADO Munoz (PRN) 25%; Carlos ALVARADO Quesada (PAC) 21.6%; Antonio ALVAREZ (PLN) 18.6%; Rodolfo PIZA (PUSC) 16%; Juan Diego CASTRO (PIN) 9.5%; Rodolfo HERNANDEZ (PRSC) 4.9%, other 4.4%; percent of vote in second round - Carlos ALVARADO Quesada (PAC) 60.7%; Fabricio ALVARADO Munoz (PRN) 39.3%<br>
-_expected date of next election_: February 2026 (a runoff, if needed, will take place in April 2026)<br>
+_expected date of next election_: 1 February 2026 (a runoff, if needed, will take place in April 2026)<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -344,7 +344,7 @@ _email address and website_: <br>embcr-us@rree.go.cr<br>https://www.embassycr.or
 _consulate(s) general_: Atlanta, Houston, Los Angeles, Miami, New York, Washington DC<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Jennifer SAVAGE (since August 2025)<br>
+_chief of mission_: Ambassador-designate Melinda HILDEBRAND (since 3 December 2025); Charg&eacute; d&rsquo;Affaires Jennifer SAVAGE (since August 2025)<br>
 _embassy_: Calle 98 Via 104, Pavas, San Jose<br>
 _mailing address_: 3180 St. George's Place, Washington DC&nbsp; 20521-3180<br>
 _telephone_: [506] 2519-2000<br>
@@ -582,8 +582,8 @@ _total subscriptions_: 678,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 13 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.44 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 152 (2022 est.)<br>
+_total subscriptions_: 7,443,280 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 136 (2024 est.)<br>
 
 **Broadcast media**<br>
 over two dozen privately owned TV stations and 1 publicly owned TV station; cable network services are widely available; more than 100 privately owned radio stations and a public radio network (2022)<br>
@@ -644,7 +644,7 @@ Ministry of Public Security (Ministerio de Seguridad Pública de Costa Rica): Na
 approximately 10-15,000 Ministry of Public Security personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the National Police are lightly armed although small special units are trained and equipped for tactical operations; the US has provided equipment and support to forces such the Coast Guard, including secondhand US vessels and aircraft (2024)<br>
+the National Police are lightly armed although small special units are trained and equipped for tactical operations; the US has provided equipment and support to forces such as the Coast Guard, including secondhand US vessels and aircraft (2025)<br>
 
 **Military - note**<br>
 Costa Rica relies on specialized paramilitary units within the Ministry of Public Security (MPS) for internal security missions and countering transnational threats such as narcotics smuggling and organized crime, as well as for participating in regional security operations and exercises; MPS forces have received advisory and training support from the US (2025)<br>

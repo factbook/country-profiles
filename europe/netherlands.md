@@ -113,21 +113,21 @@ _elderly dependency ratio_: 32.4 (2024 est.)<br>
 _potential support ratio_: 3.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 42.2 years (2024 est.)<br>
+_total_: 42.2 years (2025 est.)<br>
 _male_: 40.9 years<br>
 _female_: 43.5 years<br>
 
 **Population growth rate**<br>
-0.39% (2024 est.)<br>
+0.3% (2025 est.)<br>
 
 **Birth rate**<br>
-10.6 births/1,000 population (2024 est.)<br>
+10.68 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9.7 deaths/1,000 population (2024 est.)<br>
+9.7 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-3 migrant(s)/1,000 population (2024 est.)<br>
+2.01 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, the Hague, and Utrecht, is the most densely populated region; the north tends to be less dense, but sizeable communities can be found throughout the entire country<br>
@@ -153,7 +153,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 4 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.6 deaths/1,000 live births (2024 est.)<br>
+_total_: 3.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 3.9 deaths/1,000 live births<br>
 _female_: 3.3 deaths/1,000 live births<br>
 
@@ -163,10 +163,10 @@ _male_: 80.3 years<br>
 _female_: 83.5 years<br>
 
 **Total fertility rate**<br>
-1.61 children born/woman (2024 est.)<br>
+1.62 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.78 (2024 est.)<br>
+0.79 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -210,7 +210,7 @@ _male_: 21% (2025 est.)<br>
 _female_: 16.4% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-53.7% (2023 est.)<br>
+53.5% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 5.2% of GDP (2022 est.)<br>
@@ -670,7 +670,7 @@ _key ports_: Amsterdam, Dordrecht, Europoort, Rotterdam, Terneuzen, Vlissingen<b
 
 **Military and security forces**<br>
 Netherlands (Dutch) Armed Forces (Nederlandse Krijgsmacht): Royal Netherlands Army, Royal Netherlands Navy (includes Marine Corps), Royal Netherlands Air Force, Royal Netherlands Marechaussee (Military Constabulary) (2025)<br>
-<strong>note 1:</strong> the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature but managed by the Royal Netherlands Navy<br><br><strong>note 2: </strong>the core missions of the Royal Netherlands Marechaussee are border security, security and surveillance, and international and military police tasks; it has 21 brigades based in eight Dutch provinces, plus Curaçao in the Caribbean, a special missions security brigade, and separate security platoons to guard and protect domestic sites that are most likely to be the targets of attacks, such as government buildings<br><br><strong>note 3:</strong> the Netherlands (or National) Police maintain internal security and report to the Ministry of Justice and Security, which oversees law enforcement organizations, as do the justice ministries in Aruba, Curacao, and Sint Maarten<br>
+<strong>note 1:</strong> the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature but managed by the Royal Netherlands Navy<br><br><strong>note 2: </strong>the core missions of the Royal Netherlands Marechaussee are border security, security and surveillance, and international and military police tasks<br><br><strong>note 3:</strong> the Netherlands (or National) Police maintain internal security and report to the Ministry of Justice and Security, which oversees law enforcement organizations, as do the justice ministries in Aruba, Curacao, and Sint Maarten<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2025 est.)<br>
@@ -686,8 +686,7 @@ approximately 43,000 active-duty professional military personnel (2025)<br>
 the military's inventory consists of a mix of domestically produced and modern European- and US-sourced equipment; the Netherlands has an advanced domestic defense industry that focuses on armored vehicles, naval ships, and air defense systems; it also participates with the US and other European countries on joint development and production of advanced weapons systems (2025)<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary service for men and women; the military is an all-volunteer force; conscription remains in place, but the requirement to show up for compulsory military service was suspended in 1997; must be a citizen of the Netherlands (2024)<br>
-<strong>note: </strong>in 2023, women made up about 14% of the military's full-time personnel<br>
+17 years of age for voluntary service for men and women; the military is an all-volunteer force; conscription remains in place, but the requirement to show up for compulsory military service was suspended in 1997 (2025)<br>
 
 **Military deployments**<br>
 350 Lithuania (NATO); 150 Romania (NATO); approximately 800 deployed to Dutch territories in the Caribbean (2025)<br>

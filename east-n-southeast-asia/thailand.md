@@ -117,21 +117,21 @@ _elderly dependency ratio_: 21.9 (2024 est.)<br>
 _potential support ratio_: 4.6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 41.5 years (2024 est.)<br>
+_total_: 41.9 years (2025 est.)<br>
 _male_: 40.2 years<br>
 _female_: 42.7 years<br>
 
 **Population growth rate**<br>
-0.17% (2024 est.)<br>
+0.13% (2025 est.)<br>
 
 **Birth rate**<br>
-9.9 births/1,000 population (2024 est.)<br>
+9.82 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8 deaths/1,000 population (2024 est.)<br>
+8.08 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.3 migrant(s)/1,000 population (2024 est.)<br>
+-0.41 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 highest population density is found in and around Bangkok; significant population clusters throughout large parts of the country, particularly north and northeast of Bangkok and in the extreme southern region of the country<br>
@@ -157,7 +157,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 34 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 6.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 6.9 deaths/1,000 live births<br>
 _female_: 5.6 deaths/1,000 live births<br>
 
@@ -167,10 +167,10 @@ _male_: 75.2 years<br>
 _female_: 81.3 years<br>
 
 **Total fertility rate**<br>
-1.54 children born/woman (2024 est.)<br>
+1.55 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.75 (2024 est.)<br>
+0.75 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -217,7 +217,7 @@ _female_: 1.6% (2025 est.)<br>
 6.7% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-60.8% (2023 est.)<br>
+52.4% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 5.5% (2022)<br>
@@ -350,10 +350,10 @@ _number of seats_: 500 (all directly elected)<br>
 _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 5/14/2023<br>
+_most recent election date_: 5/14/2023 (House of Representatives dissolved on 12 December 2025)<br>
 _parties elected and seats per party_: Move Forward (151); Pheu Thai (141); Bhumjaithai (71); Palang Pracharath (40); United Thai Nation (36); Democrat Party (25); Other (36)<br>
 _percentage of women in chamber_: 19.6%<br>
-_expected date of next election_: May 2028<br>
+_expected date of next election_: 8 February 2026<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate (Wuthisapha)<br>
@@ -371,7 +371,8 @@ _judge selection and term of office_: Supreme Court judges selected by the Judic
 _subordinate courts_: courts of first instance and appeals courts within both the judicial and administrative systems; military courts<br>
 
 **Political parties**<br>
-Bhumjaithai Party or BJT (aka Phumchai Thai Party or PJT; aka Thai Pride Party) <br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP<br>Move Forward Party or MFP (dissolved by order of the Constitutional Court, August 2024)<br>Palang Pracharat Party (People's State Power Party) or PPRP <br>Pheu (Puea) Thai Party (For Thais Party) or PTP <br>Prachachat Party or PCC <br>Prachathipat Party (Democrat Party) or DP <br>Thai Sang Thai Party <br>United Thai Nation (Ruam Thai Sang Chat) or UTN<br>
+Bhumjaithai Party or BJT (aka Phumchai Thai Party or PJT; aka Thai Pride Party) <br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP<br>Democrat Party <br>Move Forward Party or MFP (dissolved by order of the Constitutional Court, August 2024)<br>Palang Pracharat Party (People's State Power Party) or PPRP <br>Pheu (Puea) Thai Party (For Thais Party) or PTP <br>Prachachat Party or PCC <br>Prachathipat Party (Democrat Party) or DP <br>Thai Sang Thai Party <br>United Thai Nation (Ruam Thai Sang Chat) or UTN<br>
+<strong>note:</strong> more than 50 parties have registered for the February 2026 general election<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Dr. SURIYA Chindawongse (since 17 June 2024)<br>
@@ -382,7 +383,7 @@ _email address and website_: <br>thai.wsn@thaiembdc.org<br><br>https://washingto
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Robert F. GODEC (since 7 October 2022); note - Sean O'NEILL was sworn in as the Ambassador-designate on 12 November 2025 and is expected to arrive in Thailand in the near-term<br>
+_chief of mission_: Ambassador-designate Sean O'NEILL (since 16 December 2025)<br>
 _embassy_: 95 Wireless Road, Bangkok 10330<br>
 _mailing address_: 7200 Bangkok Place, Washington DC&nbsp; 20521-7200<br>
 _telephone_: [66] 2-205-4000<br>
@@ -695,14 +696,14 @@ Royal Thai Armed Forces (RTARF): Royal Thai Army (RTA), Royal Thai Navy (RTN; in
 estimated 350,000 active-duty Armed Forces (250,000 Army; 70,000 Navy; 30,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RTARF has a diverse array of foreign-supplied weapons and equipment, as well as some domestically produced items; in recent years, Thailand has received arms from a variety of countries, including China and the US; Thailand has a domestic defense industry, which produces such items as armored vehicles, artillery systems, naval vessels, unmanned aerial vehicles, and other military technologies (2024)<br>
+the RTARF has a diverse array of foreign-supplied armaments, as well as some domestically produced items; its imported weapons and equipment are from a variety of suppliers, including China, several European countries, Israel, Russia, South Korea, and the US; Thailand's domestic defense industry produces such items as armored vehicles, artillery systems, naval vessels, unmanned aerial vehicles, and other military technologies (2025)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; 21 years of age for compulsory military service for men; men register at 18 years of age; volunteer service obligation may be as short as 6 or 12 months, depending on educational qualifications; conscript service obligation also varies by educational qualifications, but is typically 24 months (2024)<br>
 <strong>note:</strong> serving in the armed forces is a national duty of all Thai citizens; conscription was introduced in 1905; it includes women, however, only men over the age of 21 who have not gone through reserve training are conscripted; conscripts are chosen by lottery (on draft day, eligible draftees can request volunteer service, or they may choose to stay for the conscription lottery); approximately 100,000 men are drafted for military service each year<br>
 
 **Military deployments**<br>
-280 South Sudan (UNMISS) (2024)<br>
+280 South Sudan (UNMISS) (2025)<br>
 
 **Military - note**<br>
 the missions of the Royal Thai Armed Forces (RTARF) include defending the country’s territory and sovereignty, protecting the monarchy, ensuring internal security, and responding to natural disasters; key areas of emphasis are disputed international borders and a low-level insurgency in the country's south; the military has historically had a large role in domestic politics and has attempted as many as 20 coups since the fall of absolute monarchy in 1932, the most recent being in 2014<br><br>in July 2025, following months of rising tensions, the RTARF and Cambodian military forces clashed in multiple locations along their disputed border; both sides blamed the other for provoking the five-day conflict, which included cross-border artillery shelling by both sides and air attacks by RTARF fighter aircraft and drones; since 2004, the RTARF and Thai paramilitary forces have combated a separatist insurgency in the southern Thailand provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): insurgent attacks have largely involved bombings; since 2020, Thai officials have been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups (2025)<br>

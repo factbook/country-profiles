@@ -116,21 +116,21 @@ _elderly dependency ratio_: 5.1 (2024 est.)<br>
 _potential support ratio_: 19.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 16.3 years (2024 est.)<br>
+_total_: 16.6 years (2025 est.)<br>
 _male_: 15.8 years<br>
 _female_: 16.8 years<br>
 
 **Population growth rate**<br>
-3.33% (2024 est.)<br>
+3.32% (2025 est.)<br>
 
 **Birth rate**<br>
-41.1 births/1,000 population (2024 est.)<br>
+39.75 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.6 deaths/1,000 population (2024 est.)<br>
+6.73 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.2 migrant(s)/1,000 population (2024 est.)<br>
+0.14 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda<br>
@@ -157,7 +157,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 183 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 55.6 deaths/1,000 live births (2024 est.)<br>
+_total_: 46.1 deaths/1,000 live births (2025 est.)<br>
 _male_: 60.7 deaths/1,000 live births<br>
 _female_: 50.3 deaths/1,000 live births<br>
 
@@ -167,10 +167,10 @@ _male_: 60.8 years<br>
 _female_: 65.1 years<br>
 
 **Total fertility rate**<br>
-5.7 children born/woman (2024 est.)<br>
+5.45 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-2.81 (2024 est.)<br>
+2.68 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 71.7% of population (2022 est.)<br>
@@ -209,7 +209,7 @@ _spirits_: 1.27 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.08 liters of pure alcohol (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-55.7% (2023 est.)<br>
+57.2% (2016 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 7.9% (2016)<br>
@@ -594,8 +594,8 @@ _total subscriptions_: 87,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 25.7 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 67 (2022 est.)<br>
+_total subscriptions_: 25.744 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 70 (2024 est.)<br>
 
 **Broadcast media**<br>
 state-owned media dominate; only four privately owned newspapers still exist in print form; state-run Radio Nacional de Angola (RNA) is the only outlet to offer programs in local languages such as Bantu; private stations operate in cities, including Catholic Radio Ecclesia, but RNA is the only radio broadcaster with near-national coverage (2023)<br>
@@ -655,10 +655,10 @@ Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Gue
 approximately 100,000 active duty Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-most Angolan military weapons and equipment are of Russian or Soviet-era origin; there are smaller quantities of items originating from such suppliers as China, Brazil, and South Africa (2025)<br>
+most Angolan military weapons and equipment are of Russian or Soviet-era origin; there are smaller quantities of items originating from such suppliers as China, Brazil, Israel, Italy, South Africa, and the UAE (2025)<br>
 
 **Military service age and obligation**<br>
-20-45 years of age for compulsory and 18-45 years for voluntary military service for men (registration at age 18 is mandatory); 20-45 years of age for voluntary service for women; 24-month conscript service obligation; the Navy is entirely staffed with volunteers (2025)<br>
+20-45 years of age for compulsory and 18-45 years for voluntary military service for men; 20-45 years of age for voluntary service for women; 24-month conscript service obligation; the Navy is entirely staffed with volunteers (2025)<br>
 
 **Military - note**<br>
 the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed between the Angolan Government and the National Union for the Total Independence of Angola (UNITA); the current force is responsible for country&rsquo;s external defense but also has some domestic security responsibilities, such as border protection; it participates in multinational exercises, as well as regional peacekeeping operations, including the deployment of several hundred troops to the Democratic Republic of the Congo in 2023; in recent years, the military has placed additional emphasis on maritime security and protecting offshore resources (2025)<br>

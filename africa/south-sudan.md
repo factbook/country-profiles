@@ -107,21 +107,21 @@ _elderly dependency ratio_: 4.7 (2024 est.)<br>
 _potential support ratio_: 21.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 18.7 years (2024 est.)<br>
+_total_: 18.7 years (2025 est.)<br>
 _male_: 18.7 years<br>
 _female_: 18.7 years<br>
 
 **Population growth rate**<br>
-4.65% (2024 est.)<br>
+4.52% (2025 est.)<br>
 
 **Birth rate**<br>
-36.4 births/1,000 population (2024 est.)<br>
+35.68 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.9 deaths/1,000 population (2024 est.)<br>
+8.65 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-19.1 migrant(s)/1,000 population (2024 est.)<br>
+18.2 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 clusters found in urban areas, particularly in the western interior and around the White Nile, as shown in this population distribution map<br>
@@ -144,7 +144,7 @@ _total population_: 1.04 male(s)/female (2024 est.)<br>
 692 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 60.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 58.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 65.8 deaths/1,000 live births<br>
 _female_: 54.1 deaths/1,000 live births<br>
 
@@ -154,10 +154,10 @@ _male_: 58.4 years<br>
 _female_: 62.2 years<br>
 
 **Total fertility rate**<br>
-5.09 children born/woman (2024 est.)<br>
+4.98 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-2.48 (2024 est.)<br>
+2.43 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 70% of population (2022 est.)<br>
@@ -184,9 +184,6 @@ _unimproved: total_: total: 75.1% of population (2022 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 6.6% (2014)<br>
-
-**Currently married women (ages 15-49)**<br>
-72% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 1.6% of GDP (2016 est.)<br>
@@ -571,10 +568,12 @@ information varies; estimated 150-200,000 active Defense Forces (2025)<br>
 <strong>note: </strong>some active SSPDF personnel may be militia; the National/Necessary Unified Forces (NUF) were expected to have up to 80,000 personnel when training and integration is completed; the first batch of approximately 20,000 NUF personnel completed training in late 2022<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SSPDF inventory is comprised primarily of Soviet-era equipment; South Sudan has been under a UN arms embargo since 2018 (2024)<br>
+the SSPDF inventory is a mix of primarily of Soviet-era armaments alongside limited quantities of more modern equipment such as armored personnel carriers from UAE (2025)<br>
+<strong>note:</strong> South Sudan has been under a UN arms embargo since 2018 (extended for 1 year in May 2025)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for compulsory (men) and voluntary (men and women) military service; 12-24 months service (2023)<br>
+18 (legal minimum age)-35 for voluntary military service for men and women; 12-24 months service (2025)<br>
+<strong>note: </strong>the UN reports that there are thousands of child soldiers in South Sudan serving in the SSPDF and militia forces although the South Sudanese Government has pledged to end the practice<br>
 
 **Military - note**<br>
 the South Sudan People's Defense Forces (SSPDF) are largely focused on border and internal security; areas of concern include disputed national borders, conflict spillover from neighboring Sudan, banditry, and armed rebel groups and militias that continue to operate in the country since the civil war ended in 2020<br><br>the SSPDF, formerly the Sudan People’s Liberation Army (SPLA), was founded as a guerrilla movement against the Sudanese Government in 1983 and participated in the Second Sudanese Civil War (1983-2005); the Juba Declaration that followed the Comprehensive Peace Agreement of 2005 unified the SPLA and the South Sudan Defense Forces (SSDF), the second-largest rebel militia remaining from the civil war, under the SPLA name; in 2017, the SPLA was renamed the South Sudan Defense Forces (SSDF) and in September 2018 was renamed again as the SSPDF<br><br>the UN Mission in South Sudan (UNMISS) has operated in the country since 2011 with the objectives of consolidating peace and security and helping establish conditions for the successful economic and political development of South Sudan; UNMISS has about 18,000 personnel assigned; the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; its mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; UNISFA has approximately 3,800 personnel assigned (2025)<br>

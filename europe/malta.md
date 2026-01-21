@@ -103,21 +103,21 @@ _elderly dependency ratio_: 32.4 (2024 est.)<br>
 _potential support ratio_: 3.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 43.5 years (2024 est.)<br>
+_total_: 42.1 years (2025 est.)<br>
 _male_: 42.4 years<br>
 _female_: 44.7 years<br>
 
 **Population growth rate**<br>
-0.51% (2024 est.)<br>
+0.65% (2025 est.)<br>
 
 **Birth rate**<br>
-9.4 births/1,000 population (2024 est.)<br>
+7.67 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.8 deaths/1,000 population (2024 est.)<br>
+8.65 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-4.4 migrant(s)/1,000 population (2024 est.)<br>
+7.5 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the population lives on the eastern half of Malta, the largest of the three inhabited islands<br>
@@ -144,7 +144,7 @@ _total population_: 1.02 male(s)/female (2024 est.)<br>
 8 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 4.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 4.3 deaths/1,000 live births<br>
 _female_: 4.5 deaths/1,000 live births<br>
 
@@ -154,10 +154,10 @@ _male_: 81.5 years<br>
 _female_: 85.8 years<br>
 
 **Total fertility rate**<br>
-1.51 children born/woman (2024 est.)<br>
+1.18 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.74 (2024 est.)<br>
+0.57 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -204,7 +204,7 @@ _female_: 20.2% (2025 est.)<br>
 0.7% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-63.2% (2023 est.)<br>
+52% (2021 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.7% of GDP (2022 est.)<br>
@@ -337,7 +337,7 @@ _FAX_: [1] (202) 530-9753​<br>
 _email address and website_: <br>maltaembassy.washington@gov.mt<br><br>The Embassy (gov.mt)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador-designate Somers FARKAS (since November 2025)<br>
+_chief of mission_: Ambassador Somers FARKAS (since 26 November 2025)<br>
 _embassy_: Ta' Qali National Park, Attard, ATD 4000<br>
 _mailing address_: 5800 Valletta Place, Washington DC&nbsp; 20521-5800<br>
 _telephone_: [356] 2561-4000<br>
@@ -360,6 +360,9 @@ Maltese eight-pointed cross<br>
 
 **National color(s)**<br>
 red, white<br>
+
+**National coat of arms**<br>
+<p>Adopted in 1988, Malta’s coat of arms has a shield displaying the national flag, with olive and palm branches on each side symbolizing peace. On top of the shield is a golden crown in the shape of a fortification with five turrets, representing Malta's forts. The white ribbon below the shield displays the name <em>Repubblika ta' Malta</em> (<em>Republic of Malta</em>).</p><br>
 
 **National anthem(s)**<br>
 _title_: "L-Innu Malti" (The Hymn of Malta)<br>
@@ -620,7 +623,7 @@ the Armed Forces of Malta (AFM): Land Component (combat, combat support, and com
 approximately 2,000 active Armed Forces of Malta (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military has a small inventory that consists of equipment from a mix of European countries, particularly Italy, and the US (2024)<br>
+the military has a small inventory of armaments from a mix of European countries, particularly Italy, and the US (2025)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for men and women for voluntary military service; no conscription (2024)<br>

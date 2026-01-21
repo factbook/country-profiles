@@ -99,21 +99,21 @@ _elderly dependency ratio_: 4.9 (2024 est.)<br>
 _potential support ratio_: 20.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 19.5 years (2024 est.)<br>
+_total_: 19.9 years (2025 est.)<br>
 _male_: 19.3 years<br>
 _female_: 19.8 years<br>
 
 **Population growth rate**<br>
-2.02% (2024 est.)<br>
+1.96% (2025 est.)<br>
 
 **Birth rate**<br>
-26.8 births/1,000 population (2024 est.)<br>
+26.05 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-2.9 deaths/1,000 population (2024 est.)<br>
+2.77 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--3.7 migrant(s)/1,000 population (2024 est.)<br>
+-3.66 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population concentrated in major cities, particularly Gaza City in the north<br>
@@ -138,7 +138,7 @@ _total population_: 1.03 male(s)/female (2024 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Infant mortality rate**<br>
-_total_: 15.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 14.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 16.3 deaths/1,000 live births<br>
 _female_: 13.8 deaths/1,000 live births<br>
 
@@ -148,10 +148,10 @@ _male_: 73.7 years<br>
 _female_: 77.4 years<br>
 
 **Total fertility rate**<br>
-3.26 children born/woman (2024 est.)<br>
+3.14 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.58 (2024 est.)<br>
+1.52 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 98.9% of population<br>
@@ -182,7 +182,7 @@ _unimproved: total_: total: 0.2% of population (2022 est.)<br>
 <strong>note:</strong> estimate is for Gaza Strip and the West Bank<br>
 
 **Currently married women (ages 15-49)**<br>
-62.4% (2023 est.)<br>
+62.4% (2020 est.)<br>
 <strong>note:</strong> data includes Gaza and the West Bank<br>
 
 **Child marriage**<br>
@@ -437,9 +437,9 @@ _subscriptions per 100 inhabitants_: 7 (2023 est.)<br>
 <b>note:</b> entry includes the West Bank and the Gaza Strip<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.15 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 78 (2021 est.)<br>
-<b>note:</b> entry includes the West Bank and the Gaza Strip<br>
+_total subscriptions_: 4,148,420 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 77 (2023 est.)<br>
+<strong>note:</strong> entry includes the West Bank and the Gaza Strip<br>
 
 **Broadcast media**<br>
 1 TV station and about 10 radio stations; satellite TV accessible<br>
@@ -462,16 +462,14 @@ _subscriptions per 100 inhabitants_: 8 (2023 est.)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-HAMAS maintains security forces inside Gaza in addition to its military wing, the 'Izz al-Din al-Qassam Brigades; the military wing ostensibly reports to the HAMAS Political Bureau but operates with considerable autonomy; there are several other militant groups operating in the Gaza Strip, most notably the Al-Quds Brigades of Palestinian Islamic Jihad, which are usually but not always beholden to HAMAS's authority (2024)<br>
+HAMAS maintains security forces inside Gaza in addition to its military wing, the 'Izz al-Din al-Qassam Brigades; the military wing ostensibly reports to the HAMAS Political Bureau but operates with considerable autonomy; there are several other militant groups operating in the Gaza Strip, most notably the Al-Quds Brigades of Palestinian Islamic Jihad, which are usually but not always beholden to HAMAS's authority (2025)<br>
+<strong>note:</strong> HAMAS is a US designated Foreign Terrorist Organization; see Terrorist Organizations under References<br>
 
 **Military expenditures**<br>
 not available<br>
 
 **Military and security service personnel strengths**<br>
 prior to the start of the 2023-2025 conflict with Israel, the military wing of HAMAS was estimated to have 20-30,000 fighters (2024)<br>
-
-**Military equipment inventories and acquisitions**<br>
-the military wing is armed with light weapons, including an inventory of rocket, anti-tank, anti-aircraft, indirect fire (typically mortars), and armed UAV capabilities; HAMAS acquires its weapons through smuggling or local construction and receives significant military support from Iran (2024)<br>
 
 ## Terrorism
 

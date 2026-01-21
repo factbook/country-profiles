@@ -97,8 +97,7 @@ _major-language sample(s)_: <br>Knjiga svetskih činjenica, neophodan izvor osno
 <strong>note:</strong> Serbian, Hungarian, Slovak, Romanian, Croatian, and Ruthenian (Rusyn) are official in the Autonomous Province of Vojvodina; most ethnic Albanians boycotted the 2011 census<br>
 
 **Religions**<br>
-Orthodox 84.6%, Catholic 5%, Muslim 3.1%, Protestant 1%, atheist 1.1%, other 0.8% (includes agnostics, other Christians, Eastern, Jewish), undeclared or unknown 4.5% (2011 est.)<br>
-<strong>note:</strong> most ethnic Albanians boycotted the 2011 census<br>
+Serbian Orthodox 81.1%, unknown 5.3%, Islam 4.2%, Catholic 3.9%, no response 2.5%, atheist 1.1%; less than 1%: other Christians, Protestant, agnostic (2022)<br>
 
 **Age structure**<br>
 _0-14 years_: 14.4% (male 492,963/female 463,995)<br>
@@ -112,21 +111,21 @@ _elderly dependency ratio_: 30.4 (2024 est.)<br>
 _potential support ratio_: 3.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 43.9 years (2024 est.)<br>
+_total_: 44.1 years (2025 est.)<br>
 _male_: 42.4 years<br>
 _female_: 45.4 years<br>
 
 **Population growth rate**<br>
--0.61% (2024 est.)<br>
+-0.6% (2025 est.)<br>
 
 **Birth rate**<br>
-8.8 births/1,000 population (2024 est.)<br>
+8.72 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-14.9 deaths/1,000 population (2024 est.)<br>
+14.66 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2024 est.)<br>
+0 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -154,7 +153,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 11 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.5 deaths/1,000 live births (2024 est.)<br>
+_total_: 4.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 5.1 deaths/1,000 live births<br>
 _female_: 3.9 deaths/1,000 live births<br>
 
@@ -164,10 +163,10 @@ _male_: 72.7 years<br>
 _female_: 78.1 years<br>
 
 **Total fertility rate**<br>
-1.46 children born/woman (2024 est.)<br>
+1.47 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.71 (2024 est.)<br>
+0.71 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 95.4% of population (2022 est.)<br>
@@ -214,7 +213,7 @@ _female_: 34.5% (2025 est.)<br>
 1% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-60.8% (2023 est.)<br>
+54.3% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 1.2% (2019)<br>
@@ -655,7 +654,7 @@ Serbian Armed Forces (Vojska Srbije, VS): Army (aka Land Forces; includes Riveri
 approximately 25,000 active-duty Armed Forces (15,000 Land Forces; 5,000 Air/Air Defense; 5,000 other, including Serbian Guard) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of a mix of domestically produced, Russian/Soviet-era, and Yugoslav equipment and weapons systems; in recent years, it has purchased some weapons systems from China, such as anti-aircraft missiles and armed aerial drones (2024)<br>
+the military's inventory consists of a mix of Soviet/Cold War-era and some more modern weapons systems from suppliers such as China, France, and Russia; Serbia has a defense industry focused on armored vehicles, artillery systems, and munitions (2025)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; conscription abolished in 2011 (2025)<br>

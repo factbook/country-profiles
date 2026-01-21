@@ -94,21 +94,21 @@ _elderly dependency ratio_: 23 (2024 est.)<br>
 _potential support ratio_: 4.4 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 41 years (2024 est.)<br>
+_total_: 40.8 years (2025 est.)<br>
 _male_: 39 years<br>
 _female_: 42.8 years<br>
 
 **Population growth rate**<br>
-1.15% (2024 est.)<br>
+1.1% (2025 est.)<br>
 
 **Birth rate**<br>
-12.2 births/1,000 population (2024 est.)<br>
+12 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.4 deaths/1,000 population (2024 est.)<br>
+6.59 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-5.7 migrant(s)/1,000 population (2024 est.)<br>
+5.63 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the most populous areas are Lower Prince's Quarter (north of Philipsburg) and Cul de Sac<br>
@@ -128,7 +128,7 @@ _65 years and over_: 0.86 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.6 deaths/1,000 live births (2024 est.)<br>
+_total_: 7.5 deaths/1,000 live births (2025 est.)<br>
 _male_: 8.4 deaths/1,000 live births<br>
 _female_: 6.8 deaths/1,000 live births<br>
 
@@ -138,10 +138,10 @@ _male_: 77.4 years<br>
 _female_: 82.2 years<br>
 
 **Total fertility rate**<br>
-1.97 children born/woman (2024 est.)<br>
+1.96 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.96 (2024 est.)<br>
+0.96 (2025 est.)<br>
 
 ## Environment
 
@@ -383,11 +383,10 @@ _key ports_: Coles Bay Oil Terminal, Philipsburg<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Police Force of Sint Maarten (KPSM) (2025)<br>
-<strong>note:</strong> the KPSM is supported by the Royal Netherlands Marechaussee (Gendarmerie), the Dutch Caribbean Police Force (Korps Politie Caribisch Nederland, KPCN), and the Dutch Caribbean Coast Guard (DCCG or Kustwacht Caribisch Gebied (KWCARIB))<br>
+no regular military forces; Police Force of Sint Maarten (KPSM)<br>
 
 **Military - note**<br>
-defense is the responsibility of the Kingdom of the Netherlands<br>
+defense is the responsibility of the Kingdom of the Netherlands; the KPSM is supported by the Royal Netherlands Marechaussee (Gendarmerie), the Dutch Caribbean Police Force (Korps Politie Caribisch Nederland, KPCN), and the Dutch Caribbean Coast Guard (DCCG or Kustwacht Caribisch Gebied (KWCARIB))<br>
 
 ## Transnational Issues
 

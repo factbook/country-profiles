@@ -110,21 +110,21 @@ _elderly dependency ratio_: 6.2 (2024 est.)<br>
 _potential support ratio_: 16.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 18.4 years (2024 est.)<br>
+_total_: 17.6 years (2025 est.)<br>
 _male_: 18 years<br>
 _female_: 18.7 years<br>
 
 **Population growth rate**<br>
-2.81% (2024 est.)<br>
+2.96% (2025 est.)<br>
 
 **Birth rate**<br>
-34.6 births/1,000 population (2024 est.)<br>
+35.91 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.7 deaths/1,000 population (2024 est.)<br>
+5.51 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.7 migrant(s)/1,000 population (2024 est.)<br>
+-0.81 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 one of Africa's most densely populated countries; concentrations tend to be in the north and along the northern shore of Lake Tanganyika in the west; most people live on farms near areas of fertile volcanic soil, as shown in this population distribution map<br>
@@ -151,7 +151,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 392 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 35.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 35.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 39.7 deaths/1,000 live births<br>
 _female_: 31.5 deaths/1,000 live births<br>
 
@@ -161,10 +161,10 @@ _male_: 66 years<br>
 _female_: 70.3 years<br>
 
 **Total fertility rate**<br>
-4.9 children born/woman (2024 est.)<br>
+4.94 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-2.41 (2024 est.)<br>
+2.43 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 90.7% of population (2022 est.)<br>
@@ -208,7 +208,7 @@ _female_: 4.3% (2025 est.)<br>
 28.3% (2024 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-54.1% (2023 est.)<br>
+58.2% (2017 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 2.8% (2017)<br>
@@ -591,8 +591,8 @@ _total subscriptions_: 14,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8.65 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 58 (2022 est.)<br>
+_total subscriptions_: 8,646,690 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 63 (2023 est.)<br>
 
 **Broadcast media**<br>
 state-controlled Radio Television Nationale de Burundi (RTNB) operates a TV station and a national radio network; 3 private TV stations and about 10 privately owned radio stations; transmissions of several international broadcasters are available in Bujumbura (2019)<br>
@@ -632,14 +632,13 @@ Burundi National Defense Force (BNDF; Force de Defense Nationale du Burundi, FDN
 limited available information; estimated 25-30,000 active-duty Defense Force troops (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military has a mix of mostly older weapons and equipment typically of French, Russian, and Soviet origin, and a smaller selection of more modern secondhand equipment from such countries as China, South Africa, and the US (2024)<br>
+the military has a mix of mostly older armaments typically of French, Russian, and Soviet origin, and a smaller selection of more modern equipment from such countries as China, Egypt, South Africa, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women (2023)<br>
+18 years of age for voluntary military service for men and women (2025)<br>
 
 **Military deployments**<br>
-770 Central African Republic (MINUSCA) (2025)<br>
-<strong>note: </strong>Burundi has deployed several thousand military troops to the Democratic Republic of the Congo (DRC) since 2022 to assist the DRC Government in combating armed anti-government rebel groups; a contingent remained in the DRC as of late 2025<br>
+770 Central African Republic (MINUSCA); up to 10,000 Democratic Republic of the Congo (2025)<br>
 
 **Military - note**<br>
 the National Defense Force (FDNB) is responsible for defending Burundi’s territorial integrity and protecting its sovereignty; it has an internal security role, including maintaining and restoring public order if required; the FDNB also participates in providing humanitarian/disaster assistance, countering terrorism, narcotics trafficking, piracy, and illegal arms trade, and protecting the country’s environment; the FDNB conducts limited training with foreign partners such as Russia and participates in regional peacekeeping missions, most recently in the Central African Republic, the Democratic Republic of the Congo (DRC), and Somalia; in recent years the FDNB has conducted operations against anti-government rebel groups based in the neighboring DRC that have carried out sporadic attacks in Burundi, such as the such as National Forces of Liberation (FNL), the Resistance for the Rule of Law-Tabara (aka RED Tabara), and Popular Forces of Burundi (FPB or FOREBU); Burundi has accused Rwanda of supporting the RED-Tabara<br><br>the Arusha Accords that ended the 1993-2005 civil war created a unified military by balancing the predominantly Tutsi ex-Burundi Armed Forces (ex-FAB) and the largely Hutu dominated armed movements and requiring the military to have a 50/50 ethnic mix of Tutsis and Hutus (2025)<br>

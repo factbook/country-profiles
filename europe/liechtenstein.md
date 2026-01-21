@@ -50,12 +50,12 @@ _lowest point_: Ruggeller Riet 430 m<br>
 hydroelectric potential, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 32.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 10.8% (2022 est.)<br>
+_agricultural land_: 32.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 10.8% (2023 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 21.5% (2022 est.)<br>
-_forest_: 41.9% (2022 est.)<br>
-_other_: 25.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 21.5% (2023 est.)<br>
+_forest_: 36.3% (2023 est.)<br>
+_other_: 31.4% (2023 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2012)<br>
@@ -106,21 +106,21 @@ _elderly dependency ratio_: 32.6 (2024 est.)<br>
 _potential support ratio_: 3.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 44.2 years (2024 est.)<br>
+_total_: 44.4 years (2025 est.)<br>
 _male_: 42.4 years<br>
 _female_: 46.1 years<br>
 
 **Population growth rate**<br>
-0.69% (2024 est.)<br>
+0.68% (2025 est.)<br>
 
 **Birth rate**<br>
-10.3 births/1,000 population (2024 est.)<br>
+10.31 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.2 deaths/1,000 population (2024 est.)<br>
+8.24 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-4.7 migrant(s)/1,000 population (2024 est.)<br>
+4.71 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the population is found in the western half of the country along the Rhine River<br>
@@ -143,7 +143,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 31.3 years (2017)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 3.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 4.3 deaths/1,000 live births<br>
 _female_: 3.5 deaths/1,000 live births<br>
 
@@ -153,10 +153,10 @@ _male_: 80.7 years<br>
 _female_: 85.8 years<br>
 
 **Total fertility rate**<br>
-1.69 children born/woman (2024 est.)<br>
+1.69 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.75 (2024 est.)<br>
+0.75 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 100% of population (2022 est.)<br>
@@ -171,7 +171,7 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-65.2% (2023 est.)<br>
+64.7% (2020 est.)<br>
 
 **Education expenditure**<br>
 2.6% of GDP (2011 est.)<br>
@@ -194,12 +194,12 @@ _signed, but not ratified_: Air Pollution-Multi-effect Protocol, Law of the Sea<
 continental; cold, cloudy winters with frequent snow or rain; cool to moderately warm, cloudy, humid summers<br>
 
 **Land use**<br>
-_agricultural land_: 32.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 10.8% (2022 est.)<br>
+_agricultural land_: 32.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 10.8% (2023 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 21.5% (2022 est.)<br>
-_forest_: 41.9% (2022 est.)<br>
-_other_: 25.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 21.5% (2023 est.)<br>
+_forest_: 36.3% (2023 est.)<br>
+_other_: 31.4% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 14.6% of total population (2023)<br>

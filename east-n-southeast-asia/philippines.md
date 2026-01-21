@@ -108,21 +108,21 @@ _elderly dependency ratio_: 8.7 (2024 est.)<br>
 _potential support ratio_: 11.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 25.7 years (2024 est.)<br>
+_total_: 27.1 years (2025 est.)<br>
 _male_: 25.1 years<br>
 _female_: 26.3 years<br>
 
 **Population growth rate**<br>
-1.56% (2024 est.)<br>
+0.74% (2025 est.)<br>
 
 **Birth rate**<br>
-22.1 births/1,000 population (2024 est.)<br>
+16.02 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.2 deaths/1,000 population (2024 est.)<br>
+5.8 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.2 migrant(s)/1,000 population (2024 est.)<br>
+-2.82 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population concentrated in areas with good farmland; highest concentrations are northwest and south-central Luzon, the southeastern extension of Luzon, and the islands of the Visayan Sea, particularly Cebu and Negros; Manila is home to one eighth of the national population<br>
@@ -149,7 +149,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 84 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22 deaths/1,000 live births (2024 est.)<br>
+_total_: 18.5 deaths/1,000 live births (2025 est.)<br>
 _male_: 24.4 deaths/1,000 live births<br>
 _female_: 19.6 deaths/1,000 live births<br>
 
@@ -159,10 +159,10 @@ _male_: 67.3 years<br>
 _female_: 74.5 years<br>
 
 **Total fertility rate**<br>
-2.75 children born/woman (2024 est.)<br>
+1.94 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.34 (2024 est.)<br>
+0.94 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 97.8% of population (2022 est.)<br>
@@ -209,7 +209,7 @@ _female_: 3.7% (2025 est.)<br>
 16.7% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-59.3% (2023 est.)<br>
+55.6% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 1.5% (2022)<br>
@@ -348,6 +348,7 @@ _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 3 years<br>
 _most recent election date_: 5/12/2025<br>
+_parties elected and seats per party_: Lakas-CMD party (103), National Unity Party (NUP) (32), Nationalist People's Coalition (NPC) 31, Partido Federal ng Pilipinas (PFP) (27), Nacionalista Party (NP) (22), Liberal Party (LP) (6), others (28), independents (11)&nbsp;<br>
 _percentage of women in chamber_: 28.3%<br>
 _expected date of next election_: May 2028<br>
 
@@ -368,7 +369,7 @@ _judge selection and term of office_: justices are appointed by the president on
 _subordinate courts_: Court of Appeals; Sandiganbayan (special court for corruption cases of government officials); Court of Tax Appeals; regional, metropolitan, and municipal trial courts; sharia courts<br>
 
 **Political parties**<br>
-Democratic Action (Aksyon Demokratiko) <br>Alliance for Change (Hugpong ng Pagbabago or HNP) <br>Lakas ng EDSA-Christian Muslim Democrats or Lakas-CMD <br>Liberal Party or LP <br>Nacionalista Party or NP <br>Nationalist People's Coalition or NPC <br>National Unity Party or NUP<br>Partido Demokratiko Pilipino-Lakas ng Bayan or PDP-Laban <br>Partido Federal ng Pilipinas or PFP <br>Progressive Movement for the Devolution of Initiatives or PROMDI<br>
+Democratic Action (Aksyon Demokratiko) <br>Alliance for Change (Hugpong ng Pagbabago or HNP) <br>Katipunan ng Nagkakaisang Pilipino (KANP)<br>Lakas ng EDSA-Christian Muslim Democrats or Lakas-CMD<br>Liberal Party or LP<br>Nacionalista Party or NP<br>Nationalist People's Coalition or NPC<br>National Unity Party or NUP<br>Partido Demokratiko Pilipino-Lakas ng Bayan or PDP-Laban<br>Partido Federal ng Pilipinas or PFP <br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jose Manuel del Gallego ROMUALDEZ (since 29 November 2017)<br>
@@ -691,10 +692,10 @@ Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air F
 approximately 145,000 active Armed Forces (105,000 Army; 25,000 Navy, including about 8,000 Marine Corps; 15,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the AFP is equipped with a wide mix of imported weapons systems; in recent years, it has received equipment from more than a dozen countries, including Israel, South Korea, and the US (2024)<br>
+the AFP is equipped with a mix of imported weapons systems from more than a dozen countries, including Brazil, Israel, South Korea, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-some small variations in age based on the branch, but generally 18-27 years of age for voluntary military service for men and women; no conscription (2025)<br>
+some variations in age based on the branch of service, but generally 18-27 years of age for voluntary military service for men and women; no conscription (2025)<br>
 <strong>note:</strong> as of 2023, women made up about 8% of the active military; women have attended the Philippine Military Academy and trained as combat soldiers since 1993<br>
 
 **Military - note**<br>

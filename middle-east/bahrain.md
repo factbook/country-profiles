@@ -92,7 +92,7 @@ Arabic (official), English, Farsi, Urdu<br>
 _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim 74.2%, other (includes Christian, Jewish, Hindu, Baha'i) 25.8% (2020 est.)<br>
+Muslim 74.2%, other 25.9% (2020 est)<br>
 
 **Age structure**<br>
 _0-14 years_: 18.1% (male 143,399/female 139,667)<br>
@@ -106,21 +106,21 @@ _elderly dependency ratio_: 5.5 (2024 est.)<br>
 _potential support ratio_: 18.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 33.4 years (2024 est.)<br>
+_total_: 33.5 years (2025 est.)<br>
 _male_: 34.6 years<br>
 _female_: 31.2 years<br>
 
 **Population growth rate**<br>
-0.82% (2024 est.)<br>
+0.79% (2025 est.)<br>
 
 **Birth rate**<br>
-12.2 births/1,000 population (2024 est.)<br>
+12.08 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-2.8 deaths/1,000 population (2024 est.)<br>
+2.86 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1.2 migrant(s)/1,000 population (2024 est.)<br>
+-1.33 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 smallest population of the Gulf States, but urbanization rate exceeds 90%; largest settlement concentration is found on the far northern end of the island in and around Manamah and Al Muharraq<br>
@@ -143,7 +143,7 @@ _total population_: 1.5 male(s)/female (2024 est.)<br>
 17 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 9.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 11.3 deaths/1,000 live births<br>
 _female_: 8 deaths/1,000 live births<br>
 
@@ -153,10 +153,10 @@ _male_: 78.1 years<br>
 _female_: 82.7 years<br>
 
 **Total fertility rate**<br>
-1.65 children born/woman (2024 est.)<br>
+1.64 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.81 (2024 est.)<br>
+0.81 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 99.9% of population (2022 est.)<br>
@@ -192,7 +192,7 @@ _male_: 24.3% (2025 est.)<br>
 _female_: 4.8% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-43.8% (2023 est.)<br>
+56.4% (2020 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 1.9% of GDP (2023 est.)<br>
@@ -347,7 +347,7 @@ _email address and website_: <br>ambsecretary@bahrainembassy.org<br><br>https://
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Elizabeth A. LITCHFIELD (since September 2025)<br>
+_chief of mission_: Ambassador-designate Stephanie HALLETT (since 19 December 2025); Charg&eacute; d&rsquo;Affaires Elizabeth A. LITCHFIELD<br>
 _embassy_: Building 979, Road 3119, Block 331, Zinj District, P.O. Box 26431, Manama<br>
 _mailing address_: 6210 Manama Place, Washington DC&nbsp; 20521-6210<br>
 _telephone_: [973] 17-242700<br>
@@ -569,8 +569,8 @@ _total subscriptions_: 246,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 16 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2.42 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 145 (2022 est.)<br>
+_total subscriptions_: 2,415,720 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 160 (2024 est.)<br>
 
 **Broadcast media**<br>
 state-run Bahrain Radio and Television Corporation (BRTC) operates 6 terrestrial TV networks and several radio stations; satellite TV systems provide access to international broadcasts; 1 private FM station has broadcasts for Indian listeners; radio and TV broadcasts from countries in the region are available (2023)<br>
@@ -612,7 +612,7 @@ _key ports_: Al Manamah, Khalifa Bin Salman, Mina Salman, Sitrah<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Royal Bahraini Navy, Royal Bahraini Air Force<br><br>Ministry of Interior: National Guard, Special Security Forces Command (SSFC), Coast Guard<br> (2025)<br>
+Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Royal Bahraini Navy, Royal Bahraini Air Force<br><br>Ministry of Interior: National Guard, Special Security Forces Command (SSFC), Coast Guard (2025)<br>
 <strong>note 1:</strong> the Royal Guard is officially under the command of the Army, but exercises considerable autonomy <br><br><strong>note 2:</strong> the Ministry of Interior is responsible for internal security and oversees police and specialized security units responsible for maintaining internal order; the National Guard's primary mission is to guard critical infrastructure such as the airport and oil fields and is a back-up to the police; the Guard is under the Ministry of Interior but reports directly to the king<br>
 
 **Military expenditures**<br>
@@ -626,13 +626,13 @@ Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Roy
 information varies; approximately 10,000 active Bahrain Defense Force; approximately 3,000 National Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of a mix of equipment acquired from a wide variety of suppliers; in recent years, the US has been the leading supplier of arms to Bahrain (2024)<br>
+the military's inventory is comprised of mostly older US armaments alongside smaller quantities from other countries, such as France, Germany, Turkey, and the UK (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; 18-55 to voluntarily join the reserves; no compulsory service (2024)<br>
+18 years of age for voluntary military service; 18-55 to voluntarily join the reserves (2025)<br>
 
 **Military - note**<br>
-<p>the BDF (established 1968) is responsible for territorial defense and support to internal security; its primary concern is Iran, both the conventional military threat and Tehran's support to regional terrorist groups; the BDF participates in multinational exercises and has conducted small deployments outside of the country; in 2015, for example, Bahrain joined the Saudi Arabia-led military intervention in Yemen, supplying a few hundred troops and combat aircraft</p> Bahrain’s closest security partners are Saudi Arabia and the US; Bahraini leaders have said that the security ties of Bahrain and Saudi Arabia are “indivisible”; Saudi Arabia sent forces to Bahrain to assist with internal security following the 2011 uprising; Bahrain hosts the US Naval Forces Central Command (USNAVCENT; established 1983), which includes the US 5th Fleet and the Combined Maritime Forces (established 2002), a coalition of more than 30 nations providing maritime security for regional shipping lanes; in 2003, the US granted Bahrain Major Non-NATO Ally status, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; Bahrain also has close security ties with the UK, which maintains a naval support facility there<br><br>Bahrain hosts the Gulf Cooperation Council's (GCC) Unified Maritime Operations Center and is a member of the Peninsula Shield Forces, a joint military force established by the GCC countries with the aim of maintaining security and stability in the region (2025)<br>
+<p>the BDF (established 1968) is responsible for territorial defense and support to internal security; its primary concern is Iran, both the conventional military threat and Tehran's support to regional terrorist groups; the BDF participates in multinational exercises and has conducted small deployments outside of the country; in 2015, for example, Bahrain joined the Saudi Arabia-led military intervention in Yemen, supplying a few hundred troops and combat aircraft</p> Bahrain’s closest security partners are Saudi Arabia and the US; Bahraini leaders have said that the security ties of Bahrain and Saudi Arabia are “indivisible”; Saudi Arabia sent forces to Bahrain to assist with internal security following the 2011 uprising; Bahrain hosts the US Naval Forces Central Command (USNAVCENT; established 1983), which includes the US 5th Fleet and the Combined Maritime Forces (established 2002), a coalition of more than 30 nations providing maritime security for regional shipping lanes; Bahrain also has close security ties with the UK, which maintains a naval support facility there<br><br>Bahrain hosts the Gulf Cooperation Council's (GCC) Unified Maritime Operations Center and is a member of the Peninsula Shield Forces, a joint military force established by the GCC countries with the aim of maintaining security and stability in the region (2025)<br>
 
 ## Space
 

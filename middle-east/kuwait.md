@@ -110,21 +110,21 @@ _elderly dependency ratio_: 4.9 (2024 est.)<br>
 _potential support ratio_: 20.6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 30.3 years (2024 est.)<br>
+_total_: 30.4 years (2025 est.)<br>
 _male_: 31.1 years<br>
 _female_: 28.9 years<br>
 
 **Population growth rate**<br>
-1.1% (2024 est.)<br>
+1.07% (2025 est.)<br>
 
 **Birth rate**<br>
-17.5 births/1,000 population (2024 est.)<br>
+17.36 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-2.3 deaths/1,000 population (2024 est.)<br>
+2.3 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--4.2 migrant(s)/1,000 population (2024 est.)<br>
+-4.39 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 densest settlement is along the Persian Gulf, particularly in Kuwait City and on Bubiyan Island; significant population threads extend south and west along highways that radiate from the capital, particularly in the southern half of the country<br>
@@ -147,7 +147,7 @@ _total population_: 1.36 male(s)/female (2024 est.)<br>
 8 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.2 deaths/1,000 live births (2024 est.)<br>
+_total_: 7 deaths/1,000 live births (2025 est.)<br>
 _male_: 7.4 deaths/1,000 live births<br>
 _female_: 6.9 deaths/1,000 live births<br>
 
@@ -157,10 +157,10 @@ _male_: 78.1 years<br>
 _female_: 81.1 years<br>
 
 **Total fertility rate**<br>
-2.21 children born/woman (2024 est.)<br>
+2.19 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.08 (2024 est.)<br>
+1.07 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -201,9 +201,6 @@ _female_: 1.9% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 2.8% (2023 est.)<br>
-
-**Currently married women (ages 15-49)**<br>
-59.6% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 6.4% of GDP (2024 est.)<br>
@@ -607,10 +604,10 @@ Kuwait Armed Forces (KAF): Kuwait Army (aka Kuwait Land Forces, KLF), Kuwait Nav
 approximately 17,000 active Kuwait Armed Forces; approximately 7,000 National Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of weapons from a wide variety of sources, including Western Europe, Russia, and particularly the US (2024)<br>
+the military's inventory consists of armaments from Western Europe, Russia, and particularly the US (2025)<br>
 
 **Military service age and obligation**<br>
-18-55 years of age for voluntary military service; Kuwait reintroduced 12-month mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; mandatory service is divided in two phases – 4 months for training and 8 months for military service; women were allowed to volunteer in 2021 (2023)<br>
+18 years of age for voluntary military service for men and women; 12-month compulsory service for men aged 18-35; mandatory service is divided into two phases – 4 months for training and 8 months for military service (2025)<br>
 <strong>note:</strong> the National Guard is restricted to citizens, but in 2018, the Army began allowing non-Kuwaitis to join on contract or as non-commissioned officers; that same year, it also began allowing stateless people (Bidoon) to join<br>
 
 **Military - note**<br>

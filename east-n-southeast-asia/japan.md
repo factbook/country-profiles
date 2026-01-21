@@ -111,21 +111,21 @@ _elderly dependency ratio_: 50.4 (2024 est.)<br>
 _potential support ratio_: 2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 49.9 years (2024 est.)<br>
+_total_: 50.2 years (2025 est.)<br>
 _male_: 48.3 years<br>
 _female_: 51.3 years<br>
 
 **Population growth rate**<br>
--0.43% (2024 est.)<br>
+-0.45% (2025 est.)<br>
 
 **Birth rate**<br>
-6.9 births/1,000 population (2024 est.)<br>
+6.84 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-11.9 deaths/1,000 population (2024 est.)<br>
+12.04 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0.7 migrant(s)/1,000 population (2024 est.)<br>
+0.73 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 all primary and secondary regions of high population density lie on the coast; one third of the population resides in and around Tokyo on the central plain (Kanto Plain)<br>
@@ -151,7 +151,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 3 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 1.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 2 deaths/1,000 live births<br>
 _female_: 1.7 deaths/1,000 live births<br>
 
@@ -161,10 +161,10 @@ _male_: 82.3 years<br>
 _female_: 88.2 years<br>
 
 **Total fertility rate**<br>
-1.4 children born/woman (2024 est.)<br>
+1.41 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.68 (2024 est.)<br>
+0.68 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 99.1% of population (2022 est.)<br>
@@ -200,7 +200,7 @@ _male_: 24.4% (2025 est.)<br>
 _female_: 7.2% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-46.8% (2023 est.)<br>
+50% (2020 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.3% of GDP (2021 est.)<br>
@@ -665,20 +665,19 @@ Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSD
 1.1% of GDP (2022 est.)<br>
 1% of GDP (2021 est.)<br>
 1% of GDP (2020 est.)<br>
-<strong>note:</strong> the Japanese Government in 2022 pledged to increase defense expenditures to 2% of GDP in line with NATO standards by March 2028; if the planned increase occurs, Japan would have the world's third largest defense budget<br>
 
 **Military and security service personnel strengths**<br>
-approximately 230-240,000 active Self Defense Forces (145-150,000 Ground; 40-45,000 Maritime; 40-45,000 Air) (2025)<br>
+approximately 230-240,000 active Self Defense Forces&nbsp; (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the JSDF is equipped with a mix of imported and domestically produced equipment; Japan has a robust defense industry and is capable of producing a wide range of air, ground, and naval weapons systems; the majority of its weapons imports are from the US and some domestically produced weapons are US-origin and manufactured under license (2024)<br>
+the JSDF is equipped largely with domestically produced weapons platforms; most of its imported arms are from the US; Japan's defense industry is capable of producing a wide range of air, ground, and naval weapons systems; some domestically produced weapons are US-origin and manufactured under license (2025)<br>
 
 **Military service age and obligation**<br>
-18-32 years of age for voluntary military service for men and women; no conscription (2024)<br>
+18-32 years of age for voluntary military service for men and women; no conscription (2025)<br>
 <strong>note:</strong> as of 2023, women made up about 9% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-approximately 200 Djibouti (2024)<br>
+maintains a presence of about 400 military personnel at a permanent base in Djibouti (2025)<br>
 
 **Military - note**<br>
 the Japan Self-Defense Force (JSDF) has a range of missions, including territorial defense, monitoring the country’s air and maritime spaces, countering piracy and terrorism, and conducting humanitarian operations; the JSDF exercises regularly with the US military and increasingly with other regional countries, including Australia and the Philippines<br><br>Japan’s alliance with the US is one of the cornerstones of the country’s security, as well as a large component of the US security posture in Asia; the US-Japan mutual defense treaty grants the US the right to base US military forces in Japan, including aircraft and ships, in return for US security guarantees; the Japanese Government provides approximately $3 billion on average per year to offset the cost of stationing US forces in Japan; in addition, it pays compensation to localities hosting US troops, rent for bases, and costs for new facilities to support the US presence; Japan also has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>Japan was disarmed after its defeat in World War II; shortly after the Korean War began in 1950, US occupation forces in Japan created a 75,000-member lightly armed force called the National Police Reserve; the JSDF was founded in 1954; Article 9 of Japan’s 1947 constitution renounced the use of force as a means of settling international disputes; however, Japan has interpreted Article 9 to mean that it can maintain a military for national defense purposes and, since 1991, has allowed the JSDF to participate in noncombat roles overseas in a number of UN peacekeeping missions and in the US-led coalition in Iraq; in 2014-2015, the Japanese Government reinterpreted the constitution as allowing for "collective self-defense," described as the use of force on others’ behalf if Japan’s security was threatened; in 2022, the government released security policy documents that declared Japan’s intention to develop "counterstrike” capabilities, including armed drones and cruise missiles, and outlined plans to increase Japan’s security-related expenditures to 2% of GDP (2025)<br>

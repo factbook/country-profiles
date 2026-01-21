@@ -107,21 +107,21 @@ _elderly dependency ratio_: 32.1 (2024 est.)<br>
 _potential support ratio_: 3.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 45.5 years (2024 est.)<br>
+_total_: 43.8 years (2025 est.)<br>
 _male_: 41.6 years<br>
 _female_: 49.2 years<br>
 
 **Population growth rate**<br>
--1.14% (2024 est.)<br>
+-1.27% (2025 est.)<br>
 
 **Birth rate**<br>
-8.3 births/1,000 population (2024 est.)<br>
+7.24 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-14.7 deaths/1,000 population (2024 est.)<br>
+14.68 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--4.9 migrant(s)/1,000 population (2024 est.)<br>
+-5.3 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 largest concentration of people is found in and around the port and capital city of Riga; small agglomerations are scattered throughout the country<br>
@@ -147,7 +147,7 @@ _total population_: 0.87 male(s)/female (2024 est.)<br>
 19 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 2.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 5.1 deaths/1,000 live births<br>
 _female_: 4.3 deaths/1,000 live births<br>
 
@@ -157,10 +157,10 @@ _male_: 72 years<br>
 _female_: 81 years<br>
 
 **Total fertility rate**<br>
-1.55 children born/woman (2024 est.)<br>
+1.25 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.76 (2024 est.)<br>
+0.61 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.9% of population (2022 est.)<br>
@@ -199,7 +199,7 @@ _female_: 16.4% (2025 est.)<br>
 0.3% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-49.1% (2023 est.)<br>
+49.6% (2021 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.3% of GDP (2022 est.)<br>
@@ -334,7 +334,7 @@ _FAX_: [1] (202) 328-2860<br>
 _email address and website_: <br>embassy.usa@mfa.gov.lv<br><br>https://www2.mfa.gov.lv/en/usa<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Christopher ROBINSON (since 21 February 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Julia JACOBY (since December 2025)<br>
 _embassy_: 1 Samnera Velsa Street (former Remtes), Riga LV-1510<br>
 _mailing address_: 4520 Riga Place, Washington DC&nbsp; 20521-4520<br>
 _telephone_: [371] 6710-7000<br>
@@ -630,10 +630,10 @@ National Armed Forces (Nacionalie Brunotie Speki or NBS): Land Forces (Latvijas 
 approximately 9,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Latvian military's inventory consists of a mix of European and US weapons and equipment (2024)<br>
+the Latvian military's inventory consists of European and US armaments (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women; 12 months mandatory military service for men 18-27 years of age (2024)<br>
+mandatory military service for all men 18-24; men and women 18-27 may volunteer for military service; service length 11 months in the Armed Forces or National Guard, or 5 years in the National Guard as a whole, with a minimum of 21 days of individual training and a maximum of 7 days of collective training each year (2026)<br>
 <strong>note 1:</strong> conscription was reintroduced in 2024<br><br><strong>note 2:</strong> as of 2024, women comprised about 16.5% of the military's full-time personnel<br>
 
 **Military deployments**<br>

@@ -108,21 +108,21 @@ _elderly dependency ratio_: 36.6 (2024 est.)<br>
 _potential support ratio_: 2.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 48.4 years (2024 est.)<br>
+_total_: 48.8 years (2025 est.)<br>
 _male_: 47.4 years<br>
 _female_: 49.4 years<br>
 
 **Population growth rate**<br>
--0.08% (2024 est.)<br>
+-0.05% (2025 est.)<br>
 
 **Birth rate**<br>
-7.1 births/1,000 population (2024 est.)<br>
+7.13 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-11.2 deaths/1,000 population (2024 est.)<br>
+11.2 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-3.4 migrant(s)/1,000 population (2024 est.)<br>
+3.55 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 a fairly even population distribution exists throughout most of the country, with coastal areas, the Po River Valley, and urban centers (particularly Milan, Rome, and Naples) attracting larger and denser populations<br>
@@ -148,7 +148,7 @@ _total population_: 0.93 male(s)/female (2024 est.)<br>
 6 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 3 deaths/1,000 live births (2025 est.)<br>
 _male_: 3.2 deaths/1,000 live births<br>
 _female_: 2.9 deaths/1,000 live births<br>
 
@@ -158,10 +158,10 @@ _male_: 80.7 years<br>
 _female_: 85.5 years<br>
 
 **Total fertility rate**<br>
-1.26 children born/woman (2024 est.)<br>
+1.27 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.61 (2024 est.)<br>
+0.62 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 99.9% of population (2022 est.)<br>
@@ -201,7 +201,7 @@ _male_: 23.2% (2025 est.)<br>
 _female_: 16.6% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-52.5% (2023 est.)<br>
+51.8% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.1% of GDP (2022 est.)<br>
@@ -680,10 +680,10 @@ Italian Armed Forces (Forze Armate Italiane): Army (Esercito Italiano, EI), Navy
 approximately 170,000 active-duty military personnel; approximately 105,000 Carabinieri (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a mix of domestically manufactured, imported, and jointly produced weapons systems, mostly from Europe and the US; in recent years, the US has been the lead supplier of military hardware to Italy; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in aircraft, armored vehicles, and naval vessels; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2024)<br>
+the military's inventory includes a mix of domestically manufactured, imported, and jointly produced weapons systems; imports come mostly from Europe and the US; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in aircraft, armored vehicles, and naval vessels; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2025)<br>
 
 **Military service age and obligation**<br>
-17-25 years of age for voluntary military service for men and women (some variations on age depending on the military branch); voluntary service is a minimum of 12 months with the option to extend in the Armed Forces or compete for positions in the Military Corps of the Italian Red Cross, the State Police, the Carabinieri, the Guardia di Finanza, the Penitentiary Police, or the National Fire Brigade; recruits can also volunteer for 4 years military service; conscription abolished 2004 (2024)<br>
+17 or 18 years of age for voluntary military service for men and women ; voluntary service is a minimum of 12 months with the option to extend in the Armed Forces or compete for positions in other government security organizations; conscription abolished 2004 (2025)<br>
 <strong>note:</strong> women serve in all military branches; as of 2023, women made up about 8% of the military's full-time personnel<br>
 
 **Military deployments**<br>

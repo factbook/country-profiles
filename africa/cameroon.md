@@ -114,21 +114,21 @@ _elderly dependency ratio_: 5.8 (2024 est.)<br>
 _potential support ratio_: 17.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 18.9 years (2024 est.)<br>
+_total_: 19.4 years (2025 est.)<br>
 _male_: 18.6 years<br>
 _female_: 19.2 years<br>
 
 **Population growth rate**<br>
-2.71% (2024 est.)<br>
+2.37% (2025 est.)<br>
 
 **Birth rate**<br>
-34.7 births/1,000 population (2024 est.)<br>
+30.79 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.4 deaths/1,000 population (2024 est.)<br>
+6.73 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.3 migrant(s)/1,000 population (2024 est.)<br>
+-0.32 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the west and north, with the interior of the country sparsely populated, as shown in this population distribution map<br>
@@ -155,7 +155,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 258 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 46.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 44.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 50.8 deaths/1,000 live births<br>
 _female_: 41.3 deaths/1,000 live births<br>
 
@@ -165,10 +165,10 @@ _male_: 62.3 years<br>
 _female_: 66.1 years<br>
 
 **Total fertility rate**<br>
-4.44 children born/woman (2024 est.)<br>
+3.87 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-2.19 (2024 est.)<br>
+1.91 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 81.6% of population (2022 est.)<br>
@@ -215,7 +215,7 @@ _female_: 0.9% (2025 est.)<br>
 11% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-54.2% (2023 est.)<br>
+58.1% (2018 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 10.7% (2018)<br>
@@ -613,8 +613,8 @@ _total subscriptions_: 896,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 26.2 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 83 (2022 est.)<br>
+_total subscriptions_: 27,374,500 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 108 (2024 est.)<br>
 
 **Broadcast media**<br>
 government maintains tight control over broadcast media; state-owned Cameroon Radio Television (CRTV), with both TV and radio broadcasts, was the only officially recognized and fully licensed broadcaster until 2007, when the government issued licenses to 2 private TV broadcasters and 1 private radio broadcaster; about 70 privately owned, unlicensed radio stations operate under &ldquo;administrative tolerance,&rdquo; meaning the stations could be subject to closure at any time (2023)<br>
@@ -676,13 +676,13 @@ Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army, Cameroon Navy (i
 estimated 40-50,000 active FAC, including the Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAC inventory is comprised of weapons and equipment from a variety of countries, including China, Israel, Russia/former Soviet Union, South Africa, the US, and some Western European countries, particularly France (2024)<br>
+the FAC inventory is comprised of armaments from a variety of countries, including China, Israel, Russia/former Soviet Union, South Africa, the US, and some Western European countries, particularly France (2025)<br>
 
 **Military service age and obligation**<br>
-18-24 years of age for voluntary military service for men and women; no conscription; high school graduation required; service obligation 4 years (2024)<br>
+18-23 years of age for voluntary military service for men and women (18-28 for medical services); no conscription; service obligation 4 years (2025)<br>
 
 **Military deployments**<br>
-750 (plus about 350 police) Central African Republic (MINUSCA) (2024)<br>
+750 (plus about 400 police) Central African Republic (MINUSCA) (2025)<br>
 <strong>note: </strong>Cameroon has committed approximately 2,000-2,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations occur occasionally<br>
 
 **Military - note**<br>

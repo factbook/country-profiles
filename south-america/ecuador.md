@@ -112,21 +112,21 @@ _elderly dependency ratio_: 14.2 (2024 est.)<br>
 _potential support ratio_: 7.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 28 years (2024 est.)<br>
+_total_: 28.2 years (2025 est.)<br>
 _male_: 27 years<br>
 _female_: 28.9 years<br>
 
 **Population growth rate**<br>
-0.94% (2024 est.)<br>
+0.91% (2025 est.)<br>
 
 **Birth rate**<br>
-17.7 births/1,000 population (2024 est.)<br>
+17.42 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.2 deaths/1,000 population (2024 est.)<br>
+7.12 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1.1 migrant(s)/1,000 population (2024 est.)<br>
+-1.23 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 nearly half of the population is concentrated in the interior, with large concentrations also found along the western coastal strip; the rainforests of the east remain sparsely populated<br>
@@ -149,7 +149,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 55 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.2 deaths/1,000 live births (2024 est.)<br>
+_total_: 11.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 12.2 deaths/1,000 live births<br>
 _female_: 10.2 deaths/1,000 live births<br>
 
@@ -159,10 +159,10 @@ _male_: 69.7 years<br>
 _female_: 80.4 years<br>
 
 **Total fertility rate**<br>
-2.21 children born/woman (2024 est.)<br>
+2.17 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.08 (2024 est.)<br>
+1.06 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -209,7 +209,7 @@ _female_: 2.4% (2025 est.)<br>
 4.9% (2024 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-55.1% (2023 est.)<br>
+45.3% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 3.8% (2018)<br>
@@ -603,8 +603,8 @@ _total subscriptions_: 1.434 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 8 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 18.2 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 97 (2022 est.)<br>
+_total subscriptions_: 18,165,600 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 102 (2024 est.)<br>
 
 **Broadcast media**<br>
 956 media outlets, of which 89% are private, 5% are public, and 6% belong to small communities; government controls most of the 44 public media stations, including national media and multiple local radio stations; most media outlets are concentrated in Guayas and Pichincha (2022)<br>
@@ -666,11 +666,11 @@ Ecuadorian Armed Forces (Fuerzas Armadas del Ecuador): Ground Force (Fuerza Terr
 approximately 40,000 active Ecuadorian Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a diverse mix of older and smaller quantities of more modern equipment derived from a variety of sources such as Brazil, China, France, Italy, Germany, Russia/Soviet-Union, Spain, Turkey, the UK, and the US (2024)<br>
+the military's inventory includes a mix of mostly older and limited quantities of more modern equipment from a variety of sources such as Brazil, Chile, China, France, Italy, Germany, Russia/Soviet-Union, Spain, Turkey, the UK, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18-22 years of age for selective conscript military service for men, although conscription was suspended in 2008; 18 years of age for voluntary military service for men and women; 12-month service obligation (2023)<br>
-<strong>note: </strong>in 2022, women made up an estimated 3-4% of the military<br>
+18-22 years of age for voluntary military service for men and women; 12-month service obligation; conscription abolished in 2008 (2025)<br>
+<strong>note: </strong>in 2024, women made up about 5% of the active military<br>
 
 **Military - note**<br>
 the military is responsible for preserving Ecuador’s national sovereignty and defending the integrity of the state; it also has some domestic security responsibilities and may complement police operations in maintaining public order if required; the military shares responsibility for border enforcement with the National Police; it participates in bilateral and multinational training exercises and has sent troops on UN peacekeeping missions; the military has defense ties to regional countries, such as Chile, Colombia, and Peru<br><br>border conflicts with Peru dominated the military’s focus until the late 1990s and border security remains a priority, but in more recent years, security challenges have included counterinsurgency and counternarcotics operations, particularly in the northern border area where violence and other criminal activity related to terrorism, insurgency, and narco-trafficking in Colombia, as well as refugees from Venezuela, have spilled over the border; the military has established a joint service task force for counterinsurgency and counternarcotics operations and boosted troop deployments along those borders; other missions include countering illegal mining, smuggling, and maritime piracy; since 2012, the Ecuadorian Government has expanded the military’s role in general public security and domestic crime operations, in part due to rising violence, police corruption, and police ineffectiveness; in 2024, Ecuador passed a constitutional amendment formally authorizing the military to participate in complementary security roles such as supporting law enforcement in high-risk areas, conducting joint operations against organized crime, and providing logistical assistance in maintaining public order <br><br>the military ruled the country from 1963-1966 and 1972-1979, and supported a dictatorship in 1970-1972; during the 1980s, the military remained loyal to the civilian government, but civilian-military relations were at times tenuous, and the military had considerable autonomy from civilian oversight; it was involved in coup attempts in 2000 and 2010 (2025)<br>

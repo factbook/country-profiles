@@ -107,21 +107,21 @@ _elderly dependency ratio_: 6.4 (2024 est.)<br>
 _potential support ratio_: 15.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 25 years (2024 est.)<br>
+_total_: 25.3 years (2025 est.)<br>
 _male_: 24.7 years<br>
 _female_: 25.3 years<br>
 
 **Population growth rate**<br>
-1.23% (2024 est.)<br>
+1.22% (2025 est.)<br>
 
 **Birth rate**<br>
-21.2 births/1,000 population (2024 est.)<br>
+20.76 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.3 deaths/1,000 population (2024 est.)<br>
+7 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1.6 migrant(s)/1,000 population (2024 est.)<br>
+-1.54 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 fairly even distribution; largest concentrations located near coastal areas<br>
@@ -148,7 +148,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 328 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 36.8 deaths/1,000 live births (2024 est.)<br>
+_total_: 35 deaths/1,000 live births (2025 est.)<br>
 _male_: 40.2 deaths/1,000 live births<br>
 _female_: 33.5 deaths/1,000 live births<br>
 
@@ -158,10 +158,10 @@ _male_: 63.8 years<br>
 _female_: 67.4 years<br>
 
 **Total fertility rate**<br>
-2.44 children born/woman (2024 est.)<br>
+2.39 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.21 (2024 est.)<br>
+1.19 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 84.6% of population (2022 est.)<br>
@@ -208,7 +208,7 @@ _female_: 2.1% (2025 est.)<br>
 10.7% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-51.4% (2023 est.)<br>
+53.6% (2017 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 2.1% (2017)<br>
@@ -575,8 +575,8 @@ _total subscriptions_: 6,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.32 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 64 (2021 est.)<br>
+_total subscriptions_: 7,499,080 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 65 (2022 est.)<br>
 
 **Broadcast media**<br>
 398 legal broadcasting stations, including about 60 community radio stations; 105 TV stations, including 36 in Port-au-Prince, 41 others in the provinces, and more than 40 radio-television stations; large number of stations operate irregularly or flout regulations; VOA Creole Service broadcasts daily on 30 affiliate stations (2019)<br>
@@ -625,7 +625,7 @@ the Haitian Armed Forces (FAdH): Army<br><br>Ministry of Justice and Public Secu
 estimates vary; up to 2,000 trained military personnel (the force is planned to eventually have around 5,000 personnel); estimates for the National Police range from a low of 9,000 to a high of about 13,000 (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-in recent years, Canada, Taiwan, the US, and the UAE have provide some equipment to the Haitian security forces, including vehicles (2024)<br>
+in recent years, Canada, Taiwan, UAE, and the US have provided some equipment to the Haitian security forces, including vehicles (2025)<br>
 
 **Military service age and obligation**<br>
 men and women 18-25 may volunteer for the FAdH (2023)<br>
@@ -646,7 +646,7 @@ _refugees_: 5 (2024 est.)<br>
 _IDPs_: 1,041,229 (2024 est.)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Special Category<br>
+_tier rating_: Special Case; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/haiti/<br>
 
 **Illicit drugs**<br>
 _USG identification_: <br>major illicit drug-producing and/or drug-transit country (2025)<br>

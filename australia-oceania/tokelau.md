@@ -124,9 +124,6 @@ _improved: total_: total: 100% of population (2022 est.)<br>
 _unimproved: rural_: rural: 0% of population (2022 est.)<br>
 _unimproved: total_: total: 0% of population (2022 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-52% (2023 est.)<br>
-
 **Literacy**<br>
 _total population_: 100% (2022 est.)<br>
 _male_: 100% (2022 est.)<br>

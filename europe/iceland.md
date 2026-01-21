@@ -104,21 +104,21 @@ _elderly dependency ratio_: 27 (2024 est.)<br>
 _potential support ratio_: 3.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 38 years (2024 est.)<br>
+_total_: 38.2 years (2025 est.)<br>
 _male_: 37.4 years<br>
 _female_: 38.6 years<br>
 
 **Population growth rate**<br>
-0.85% (2024 est.)<br>
+0.82% (2025 est.)<br>
 
 **Birth rate**<br>
-12.6 births/1,000 population (2024 est.)<br>
+12.47 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.6 deaths/1,000 population (2024 est.)<br>
+6.62 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-2.5 migrant(s)/1,000 population (2024 est.)<br>
+2.3 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 Iceland is almost entirely urban, with half of the population located in and around the capital of Reykjavik; smaller clusters are primarily found along the coast in the north and west<br>
@@ -144,7 +144,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 3 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.6 deaths/1,000 live births (2024 est.)<br>
+_total_: 1.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 1.8 deaths/1,000 live births<br>
 _female_: 1.4 deaths/1,000 live births<br>
 
@@ -154,10 +154,10 @@ _male_: 81.8 years<br>
 _female_: 86.3 years<br>
 
 **Total fertility rate**<br>
-1.94 children born/woman (2024 est.)<br>
+1.93 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.95 (2024 est.)<br>
+0.94 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -201,7 +201,7 @@ _male_: 7.9% (2025 est.)<br>
 _female_: 8% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-45.1% (2023 est.)<br>
+48.5% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 7.3% of GDP (2022 est.)<br>
@@ -605,11 +605,8 @@ _key ports_: Grundartangi, Reykjavik, Seydhisfjordhur, Vestmannaeyjar<br>
 no regular military forces; the Icelandic National Police, the regional police forces, and the Icelandic Coast Guard fall under the purview of the Ministry of Justice (2025)<br>
 <strong>note:</strong> the Icelandic Coast Guard is responsible for operational defense tasks in Iceland including but not limited to operation of Keflavik Air Base, special security zones, and the Icelandic air defense system; it also coordinates with NATO in such areas as air surveillance and military defense exercises<br>
 
-**Military equipment inventories and acquisitions**<br>
-the Icelandic Coast Guard's inventory consists of equipment from mostly European suppliers (2024)<br>
-
 **Military - note**<br>
-Iceland was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; Iceland is the only NATO member that has no standing military force; defense of Iceland remains a NATO commitment and NATO maintains an air policing presence in Icelandic airspace; Iceland participates in international peacekeeping missions with the civilian-manned Icelandic Crisis Response Unit (ICRU)<br><br>Iceland also cooperates with the militaries of other regional countries through the Nordic Defense Cooperation (Denmark, Finland, Iceland, Norway, and Sweden) and the Joint Expeditionary Force (Denmark, Estonia, Finland, Iceland, Latvia, Lithuania, the Netherlands, Norway, Sweden and the UK); in 1951, Iceland and the US concluded an agreement to make arrangements regarding the defense of Iceland and for the use of facilities in Iceland to that end (2025)<br>
+Iceland was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; Iceland is the only NATO member that has no standing military force; defense of Iceland is a NATO commitment, and NATO maintains an air policing presence in Icelandic airspace; Iceland participates in international peacekeeping missions with the civilian-manned Icelandic Crisis Response Unit (ICRU)<br><br>Iceland also cooperates with the militaries of other regional countries through the Nordic Defense Cooperation (Denmark, Finland, Iceland, Norway, and Sweden) and the Joint Expeditionary Force (Denmark, Estonia, Finland, Iceland, Latvia, Lithuania, the Netherlands, Norway, Sweden and the UK); in 1951, Iceland and the US concluded an agreement to make arrangements regarding the defense of Iceland and for the use of facilities in Iceland to that end (2025)<br>
 
 ## Transnational Issues
 

@@ -50,12 +50,12 @@ _lowest point_: Atlantic Ocean 0 m<br>
 salt, aragonite, timber, arable land<br>
 
 **Land use**<br>
-_agricultural land_: 1.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.2% (2022 est.)<br>
-_forest_: 50.9% (2022 est.)<br>
-_other_: 47.8% (2022 est.)<br>
+_agricultural land_: 1.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.2% (2023 est.)<br>
+_forest_: 50.9% (2023 est.)<br>
+_other_: 47.8% (2023 est.)<br>
 
 **Irrigated land**<br>
 10 sq km (2012)<br>
@@ -102,21 +102,21 @@ _elderly dependency ratio_: 12.3 (2024 est.)<br>
 _potential support ratio_: 8.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 30.7 years (2024 est.)<br>
+_total_: 31.1 years (2025 est.)<br>
 _male_: 30.6 years<br>
 _female_: 30.7 years<br>
 
 **Population growth rate**<br>
-1.07% (2024 est.)<br>
+1.08% (2025 est.)<br>
 
 **Birth rate**<br>
-13.1 births/1,000 population (2024 est.)<br>
+13.1 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.6 deaths/1,000 population (2024 est.)<br>
+5.44 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-3.2 migrant(s)/1,000 population (2024 est.)<br>
+3.15 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the population lives in urban areas, with two thirds living on New Providence Island where Nassau is located<br>
@@ -139,7 +139,7 @@ _total population_: 0.86 male(s)/female (2024 est.)<br>
 76 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 9.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 10.5 deaths/1,000 live births<br>
 _female_: 8.2 deaths/1,000 live births<br>
 
@@ -149,10 +149,10 @@ _male_: 75.1 years<br>
 _female_: 78.4 years<br>
 
 **Total fertility rate**<br>
-1.44 children born/woman (2024 est.)<br>
+1.45 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.71 (2024 est.)<br>
+0.71 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 98.9% of population<br>
@@ -182,11 +182,8 @@ _total_: 10.8% (2025 est.)<br>
 _male_: 20.8% (2025 est.)<br>
 _female_: 1.9% (2025 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-38.9% (2023 est.)<br>
-
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 2.8% of GDP (2023 est.)<br>
+_Education expenditure (% GDP)_: 2.7% of GDP (2023 est.)<br>
 _Education expenditure (% national budget)_: 10.6% national budget (2025 est.)<br>
 
 ## Environment
@@ -202,12 +199,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical marine; moderated by warm waters of Gulf Stream<br>
 
 **Land use**<br>
-_agricultural land_: 1.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 0.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.3% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.2% (2022 est.)<br>
-_forest_: 50.9% (2022 est.)<br>
-_other_: 47.8% (2022 est.)<br>
+_agricultural land_: 1.3% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 0.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.3% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.2% (2023 est.)<br>
+_forest_: 50.9% (2023 est.)<br>
+_other_: 47.8% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 83.6% of total population (2023)<br>
@@ -320,7 +317,7 @@ _email address and website_: <br>embassy@bahamasembdc.org<br><br>https://www.bah
 _consulate(s) general_: Atlanta, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador-designate Herschel WALKER (since 20 October 2025); Charg&eacute; d&rsquo;Affaires Kimberly FURNISH (since June 2024)<br>
+_chief of mission_: Ambassador Herschel WALKER (since 9 December 2025)<br>
 _embassy_: 42 Queen Street, Nassau<br>
 _mailing address_: 3370 Nassau Place, Washington, DC 20521-3370<br>
 _telephone_: [1] (242) 322-1181<br>
@@ -529,8 +526,8 @@ _total subscriptions_: 97,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 24 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 400,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 99 (2022 est.)<br>
+_total subscriptions_: 399,630 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 97 (2024 est.)<br>
 
 **Broadcast media**<br>
 4 major TV providers; 1 TV station is operated by government-owned, commercially run Broadcasting Corporation of the Bahamas (BCB) and competes with 4 privately owned TV stations; multi-channel cable TV subscription service is widely available; 32 licensed broadcast (radio) service providers, with 31 privately owned FM radio stations; the BCB operates a multi-channel radio network with national coverage; the sector is regulated by the Utilities Regulation and Competition Authority (2019)<br>
@@ -583,10 +580,10 @@ Royal Bahamas Defense Force (RBDF): includes land, air, maritime elements; Royal
 0.9% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 1,700 active RBDF&nbsp; (2024)<br>
+approximately 1,500-1,800 active RBDF (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-most of the RBDF's major equipment inventory has been acquired from the Netherlands or the US (2024)<br>
+most of the RBDF's major equipment inventory has been acquired from the Netherlands or the US (2025)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary service for men and women (18-60 for Reserves); no conscription (2025)<br>

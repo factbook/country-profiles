@@ -113,21 +113,21 @@ _elderly dependency ratio_: 13.7 (2024 est.)<br>
 _potential support ratio_: 7.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 31.8 years (2024 est.)<br>
+_total_: 32.3 years (2025 est.)<br>
 _male_: 31.6 years<br>
 _female_: 32 years<br>
 
 **Population growth rate**<br>
-1.09% (2024 est.)<br>
+1.06% (2025 est.)<br>
 
 **Birth rate**<br>
-15.9 births/1,000 population (2024 est.)<br>
+15.66 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-4.9 deaths/1,000 population (2024 est.)<br>
+4.97 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.1 migrant(s)/1,000 population (2024 est.)<br>
+-0.07 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the population resides in the eastern half of the country; to the west lies the Gran Chaco (a semi-arid lowland plain), which accounts for 60% of the land territory, but only 2% of the overall population<br>
@@ -154,7 +154,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 58 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22 deaths/1,000 live births (2024 est.)<br>
+_total_: 21.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 26.1 deaths/1,000 live births<br>
 _female_: 17.7 deaths/1,000 live births<br>
 
@@ -164,10 +164,10 @@ _male_: 76.2 years<br>
 _female_: 81.6 years<br>
 
 **Total fertility rate**<br>
-1.88 children born/woman (2024 est.)<br>
+1.88 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.92 (2024 est.)<br>
+0.92 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.9% of population (2022 est.)<br>
@@ -214,7 +214,7 @@ _female_: 3.3% (2025 est.)<br>
 1.3% (2016 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-59.4% (2023 est.)<br>
+54.8% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 3.6% (2016)<br>
@@ -661,17 +661,16 @@ Armed Forces of Paraguay (Fuerzas Armadas de Paraguay; aka Armed Forces of the N
 1% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 15,000 active-duty Armed Forces (2025)<br>
+approximately 15,000 active duty Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised of mostly older or obsolescent equipment from a variety of foreign suppliers, particularly Brazil and the US; in recent years, the military has received small quantities of more modern equipment, such as light attack aircraft and secondhand helicopters (2025)<br>
+the military's inventory is comprised of mostly older or obsolescent equipment from a variety of foreign suppliers, particularly Brazil and the US; in recent years, the military has received small quantities of more modern equipment, such as light attack aircraft from Brazil and secondhand helicopters from Taiwan (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 12 months for Army, 24 months for Navy; conscripts also serve in the National Police (2024)<br>
-<strong>note:</strong> as of 2021, women made up about 6% of the active military<br>
+18-25 years of age for voluntary service for men and women; all men 18-25 are required to perform military service for at least 12 months (2025)<br>
 
 **Military - note**<br>
- the Paraguayan military is responsible for external defense and has a role in domestic security duties; it provides support for natural disasters and cooperates with the National Police and other internal security organizations in combating the Paraguayan People’s Army (Ejército del Pueblo Paraguayo or EPP) and transnational criminal organizations, largely narcotics traffickers; the EPP is a small, domestic criminal/guerrilla group operating in the rural northern part of the country along the border with Brazil; the activities of the EPP and its offshoots—Marsical López’s Army (EML) and the Armed Peasant Association (ACA)—have consisted largely of isolated attacks on remote police and army posts, or against ranchers and peasants accused of aiding Paraguayan security forces<br><br>the Paraguayan military has deployed small numbers of troops on UN peacekeeping missions and cooperates with neighboring countries, such as Argentina and Brazil, on security issues, particularly organized crime and narco-trafficking in what is known as the Tri-Border Area; Paraguay has not fought a war against a neighboring country since the Chaco War with Bolivia in the 1930s (2025)<br>
+the Paraguayan military is responsible for external defense and has a role in domestic security duties; it provides support for natural disasters and cooperates with the National Police and other internal security organizations in combating the Paraguayan People’s Army (Ejército del Pueblo Paraguayo or EPP) and transnational criminal organizations, largely narcotics traffickers; the EPP is a small, domestic criminal/guerrilla group operating in the rural northern part of the country along the border with Brazil; the activities of the EPP and its offshoots—Marsical López’s Army (EML) and the Armed Peasant Association (ACA)—have consisted largely of isolated attacks on remote police and army posts, or against ranchers and peasants accused of aiding Paraguayan security forces<br><br>the Paraguayan military has deployed small numbers of troops on UN peacekeeping missions and cooperates with neighboring countries, such as Argentina and Brazil, on security issues, particularly organized crime and narco-trafficking in what is known as the Tri-Border Area; Paraguay has not fought a war against a neighboring country since the Chaco War with Bolivia in the 1930s (2025)<br>
 
 ## Space
 

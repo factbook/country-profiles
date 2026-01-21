@@ -102,21 +102,21 @@ _elderly dependency ratio_: 6.2 (2024 est.)<br>
 _potential support ratio_: 16 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 24.6 years (2024 est.)<br>
+_total_: 24.8 years (2025 est.)<br>
 _male_: 23.4 years<br>
 _female_: 25.8 years<br>
 
 **Population growth rate**<br>
-0.7% (2024 est.)<br>
+0.87% (2025 est.)<br>
 
 **Birth rate**<br>
-22.3 births/1,000 population (2024 est.)<br>
+20.66 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9.4 deaths/1,000 population (2024 est.)<br>
+8.3 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--6 migrant(s)/1,000 population (2024 est.)<br>
+-3.68 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 because of its mountainous terrain, the population distribution is uneven throughout the country, concentrating primarily in valleys and plains as shown in this population distribution map<br>
@@ -139,7 +139,7 @@ _total population_: 0.9 male(s)/female (2024 est.)<br>
 118 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 36.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 38 deaths/1,000 live births (2025 est.)<br>
 _male_: 40.7 deaths/1,000 live births<br>
 _female_: 32.5 deaths/1,000 live births<br>
 
@@ -149,10 +149,10 @@ _male_: 58.7 years<br>
 _female_: 62.8 years<br>
 
 **Total fertility rate**<br>
-2.37 children born/woman (2024 est.)<br>
+2.64 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.17 (2024 est.)<br>
+1.3 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98% of population (2022 est.)<br>
@@ -196,7 +196,7 @@ _female_: 1.2% (2025 est.)<br>
 5% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-37.1% (2023 est.)<br>
+36.4% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.1% (2022)<br>
@@ -576,8 +576,8 @@ _total subscriptions_: 42,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.52 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 122 (2022 est.)<br>
+_total subscriptions_: 1,579,960 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 140 (2024 est.)<br>
 
 **Broadcast media**<br>
 1 state-owned TV station; satellite dishes can access South African providers; state-owned radio network with 3 channels; 1 private radio station (2019)<br>
@@ -620,16 +620,16 @@ Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing); the Roy
 1.8% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 3,000 active-duty Defense Force (2023)<br>
+estimated 3,000 active-duty Defense Force (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the UEDF has a light and small inventory of mostly older equipment originating from Europe, South Africa, and the US (2024)<br>
+the UEDF has a small inventory of mostly older light weapons and equipment originating from Europe, South Africa, Taiwan, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18-35 years of age for voluntary military service for men and women; no conscription (2023)<br>
+18-35 years of age for voluntary military service for men and women; no conscription (2025)<br>
 
 **Military - note**<br>
-the UEDF&rsquo;s primary mission is external defense, which includes mostly securing the borders; it also has domestic security responsibilities, including protecting members of the royal family; the king is the UEDF commander in chief and holds the position of minister of defense, although the UEDF reports to the Army commander and principal undersecretary of defense for day-to-day operations; the Royal Eswatini Police Service (REPS) is responsible for maintaining internal security as well as migration and border crossing enforcement; it is under the prime minister, although the king is the force&rsquo;s titular commissioner in chief; the UEDF was originally created in 1973 as the Royal Swaziland Defense Force (2024)<br>
+the UEDF&rsquo;s primary mission is external defense, which includes mostly securing the borders; it also has domestic security responsibilities, including protecting members of the royal family; the king is the UEDF commander in chief and holds the position of minister of defense, although the UEDF reports to the Army commander and principal undersecretary of defense for day-to-day operations; the Royal Eswatini Police Service (REPS) is responsible for maintaining internal security as well as migration and border crossing enforcement; it is under the prime minister, although the king is the force&rsquo;s titular commissioner in chief; the UEDF was originally created in 1973 as the Royal Swaziland Defense Force (2025)<br>
 
 ## Transnational Issues
 

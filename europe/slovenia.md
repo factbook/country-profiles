@@ -106,21 +106,21 @@ _elderly dependency ratio_: 35.7 (2024 est.)<br>
 _potential support ratio_: 2.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 46.3 years (2024 est.)<br>
+_total_: 46 years (2025 est.)<br>
 _male_: 45 years<br>
 _female_: 47.9 years<br>
 
 **Population growth rate**<br>
--0.1% (2024 est.)<br>
+-0.16% (2025 est.)<br>
 
 **Birth rate**<br>
-8 births/1,000 population (2024 est.)<br>
+7.52 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-10.5 deaths/1,000 population (2024 est.)<br>
+11.2 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-1.5 migrant(s)/1,000 population (2024 est.)<br>
+2.09 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations; pockets in the mountainous northwest are less dense&nbsp;<br>
@@ -146,7 +146,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 3 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.5 deaths/1,000 live births (2024 est.)<br>
+_total_: 1.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 1.6 deaths/1,000 live births<br>
 _female_: 1.4 deaths/1,000 live births<br>
 
@@ -156,10 +156,10 @@ _male_: 79.4 years<br>
 _female_: 85.2 years<br>
 
 **Total fertility rate**<br>
-1.6 children born/woman (2024 est.)<br>
+1.49 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.79 (2024 est.)<br>
+0.73 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 99.5% of population (2022 est.)<br>
@@ -195,7 +195,7 @@ _male_: 19.3% (2025 est.)<br>
 _female_: 15.3% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-46.4% (2023 est.)<br>
+47.2% (2021 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 5.3% of GDP (2022 est.)<br>
@@ -656,11 +656,11 @@ Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force wi
 approximately 6,000 active military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a mix of Soviet-era and smaller quantities of more modern, mostly Western equipment; in recent years, Slovenia has begun a modernization program and imported growing amounts of NATO-standard European and US equipment (2024)<br>
+the military's inventory is a mix of Soviet/Cold War-era and smaller quantities of more modern, mostly Western equipment; Slovenia is in the midst of a modernization program to replace its Soviet-era equipment with NATO-standard European and US systems (2025)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary military service for men and women; must be a citizen of the Republic of Slovenia; recruits sign up for 3-, 5-, or 10-year service contracts; conscription abolished in 2003 (2023)<br>
-<strong>note:</strong> as of 2023, women comprised about 16% of the military's full-time personnel<br>
+18-30 years of age for voluntary military service for men and women; recruits sign up for 3-, 5-, or 10-year service contracts; no conscription (2026)<br>
+<strong>note:</strong> as of 2025, women comprised about 16% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 110 Kosovo (NATO); up to 200 Slovakia (NATO) (2025)<br>

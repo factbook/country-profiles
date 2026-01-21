@@ -117,21 +117,21 @@ _elderly dependency ratio_: 6.4 (2024 est.)<br>
 _potential support ratio_: 15.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 22.8 years (2024 est.)<br>
+_total_: 23.1 years (2025 est.)<br>
 _male_: 22.1 years<br>
 _female_: 23.5 years<br>
 
 **Population growth rate**<br>
-1.72% (2024 est.)<br>
+1.76% (2025 est.)<br>
 
 **Birth rate**<br>
-24.3 births/1,000 population (2024 est.)<br>
+23.93 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.1 deaths/1,000 population (2024 est.)<br>
+6.36 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2024 est.)<br>
+0 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population density is very low, with the largest clusters found in the extreme north-central area along the border with Angola, as shown in this population distribution map<br>
@@ -158,7 +158,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 139 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 27.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 27.1 deaths/1,000 live births (2025 est.)<br>
 _male_: 31 deaths/1,000 live births<br>
 _female_: 24.7 deaths/1,000 live births<br>
 
@@ -168,10 +168,10 @@ _male_: 64.2 years<br>
 _female_: 67.6 years<br>
 
 **Total fertility rate**<br>
-2.89 children born/woman (2024 est.)<br>
+2.85 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.43 (2024 est.)<br>
+1.4 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 96.2% of population (2022 est.)<br>
@@ -212,7 +212,7 @@ _male_: 20.5% (2025 est.)<br>
 _female_: 3.9% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-33.3% (2023 est.)<br>
+33.7% (2018 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 9.1% of GDP (2024 est.)<br>
@@ -316,12 +316,12 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Netumbo Nandi-NDAITWAH (since 21 March 2025)<br>
-_head of government_: President Netumbo Nandi-NDAITWAH (since 21 March 2025)<br>
+_chief of state_: President Netumbo NANDI-NDAITWAH (since 21 March 2025)<br>
+_head of government_: President Netumbo NANDI-NDAITWAH (since 21 March 2025)<br>
 _cabinet_: Cabinet appointed by the president from among members of the National Assembly<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br>
 _most recent election date_: 27 November 2024<br>
-_election results_: <em><br>2024:</em> Netumbo Nandi-NDAITWAH elected president in the first round; percent of vote -Netumbo Nandi-NDAITWAH (SWAPO) 57%, Panduleni  ITULA (IPC) 26%, McHenry VENAANI (PDM) 5.10%, Bernadus SWARTBOOI (LPM) 4.72%, Job AMUPANDA (AR) 1.80%, Hendrik GAOBEAB (UDF) 1.16%; other 3.31%<br><br><em>2019:</em> Hage GEINGOB reelected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 56.3%, Panduleni ITULA (independent) 29.4%, McHenry VENAANI (PDM) 5.3%, other .9%<br>
+_election results_: <em><br>2024:</em> Netumbo NANDI-NDAITWAH elected president in the first round; percent of vote -Netumbo NANDI-NDAITWAH (SWAPO) 57%, Panduleni  ITULA (IPC) 26%, McHenry VENAANI (PDM) 5.10%, Bernadus SWARTBOOI (LPM) 4.72%, Job AMUPANDA (AR) 1.80%, Hendrik GAOBEAB (UDF) 1.16%; other 3.31%<br><br><em>2019:</em> Hage GEINGOB reelected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 56.3%, Panduleni ITULA (independent) 29.4%, McHenry VENAANI (PDM) 5.3%, other .9%<br>
 _expected date of next election_: November 2029<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
@@ -359,7 +359,7 @@ _subordinate courts_: High Court; Electoral Court, Labor Court; regional and dis
 All People's Party or APP <br>Christian Democratic Voice or CDV <br>Landless People's Movement or LPM <br>National Unity Democratic Organization or NUDO <br>Namibian Economic Freedom Fighters or NEFF <br>Popular Democratic Movement or PDM (formerly Democratic Turnhalle Alliance or DTA) <br>Rally for Democracy and Progress or RDP <br>Republican Party or RP<br>South West Africa National Union or SWANU <br>South West Africa People's Organization or SWAPO <br>United Democratic Front or UDF <br>United People's Movement or UPM<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Margareth Natalie MENSAH-WILLIAMS (since 18 January 2021)<br>
+_chief of mission_: Ambassador Wilbard HELLAO (since 16 December 2025)<br>
 _chancery_: 1605 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 986-0540<br>
 _FAX_: [1] (202) 986-0443<br>
@@ -658,11 +658,10 @@ Namibian Defense Force (NDF): Namibian Army, Namibian Navy, Namibian Air Force (
 estimated 12,000 active Namibian Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the NDF's inventory consists of a mix of Soviet-era and some more modern systems from a variety of countries, including Brazil, China, Germany, India, and South Africa; most of the Navy's vessels and the Air Force's fighter aircraft were acquired from China; Namibia has a small defense industry that produces items such as armored personnel carriers (2024)<br>
+the NDF's inventory consists mostly of Soviet-era weapons and equipment; over the past decade, it has received a limited number of newer weapons systems from China and South Africa; Namibia has a small defense industry that produces items such as armored personnel carriers (2025)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for men and women for voluntary military service; no conscription (2024)<br>
-<strong>note:</strong> as of 2022, women comprised about 23% of the active-duty military<br>
+18-25 years of age for men and women for voluntary military service; no conscription (2026)<br>
 
 **Military - note**<br>
 the NDF’s primary responsibility is defending Namibia's territorial integrity and national interests; other responsibilities include support to civil authorities and participating in peace and stability missions under the African Union, Southern African Development Community, and the UN; Namibia has bilateral defense ties with several countries, including Botswana, India, South Africa, Tanzania, and Zambia<br><br>the NDF was created in 1990, largely from demobilized former members of the People's Liberation Army of Namibia (PLAN) and the South West Africa Territorial Force (SWATF); the PLAN was the armed wing of the South West Africa People’s Organization (SWAPO), while SWATF was an auxiliary of the South African Defense Force and comprised the armed forces of the former South West Africa, 1977-1989; from 1990-1995, the British military assisted with the forming and training the NDF (2025)<br>

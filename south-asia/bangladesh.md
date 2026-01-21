@@ -113,21 +113,21 @@ _elderly dependency ratio_: 11.6 (2024 est.)<br>
 _potential support ratio_: 8.6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 29.6 years (2024 est.)<br>
+_total_: 27.8 years (2025 est.)<br>
 _male_: 28.7 years<br>
 _female_: 30.4 years<br>
 
 **Population growth rate**<br>
-0.89% (2024 est.)<br>
+0.91% (2025 est.)<br>
 
 **Birth rate**<br>
-17.3 births/1,000 population (2024 est.)<br>
+19.45 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.5 deaths/1,000 population (2024 est.)<br>
+6.05 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--2.9 migrant(s)/1,000 population (2024 est.)<br>
+-4.28 migrant(s)/1,000 population (2025 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 40.5% of total population (2023)<br>
@@ -151,7 +151,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 115 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 28.8 deaths/1,000 live births (2024 est.)<br>
+_total_: 22 deaths/1,000 live births (2025 est.)<br>
 _male_: 31.3 deaths/1,000 live births<br>
 _female_: 26.3 deaths/1,000 live births<br>
 
@@ -161,10 +161,10 @@ _male_: 73.1 years<br>
 _female_: 77.5 years<br>
 
 **Total fertility rate**<br>
-2.07 children born/woman (2024 est.)<br>
+2.25 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.01 (2024 est.)<br>
+1.1 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.3% of population (2022 est.)<br>
@@ -211,7 +211,7 @@ _female_: 12.5% (2025 est.)<br>
 21.7% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-80.1% (2023 est.)<br>
+80.6% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 15.5% (2019)<br>
@@ -329,8 +329,9 @@ _head of government_: Interim Prime Minister Muhammad YUNUS (since 8 August 2024
 _cabinet_: Cabinet selected by the prime minister, appointed by the president<br>
 _election/appointment process_: president indirectly elected by the National Parliament for a 5-year term (eligible for a second term); the president appoints as prime minister the majority party leader in the National Parliament<br>
 _most recent election date_: 13 February 2023<br>
-_election results_: President Mohammad SHAHABUDDIN Chuppi (AL) elected unopposed by the National Parliament; Sheikh HASINA reappointed prime minister for a fifth term following the 7 January 2024 parliamentary election; note - Sheikh HASINA resigned and fled the country on 5 August 2024 following mass protests against her government in July and August 2024, and Mohammad YUNIS was appointed as interim Prime Minister on 8 August 2024<br>
+_election results_: President Mohammad SHAHABUDDIN Chuppi (AL) elected unopposed by the National Parliament; Sheikh HASINA reappointed prime minister for a fifth term following the 7 January 2024 parliamentary election but fled the country on 5 August 2024 following mass protests against her government in July and August 2024; Mohammad YUNIS was appointed as interim Prime Minister on 8 August 2024<br>
 _expected date of next election_: 2028<br>
+<strong>note:</strong> On August 5, 2024, former prime minister Sheikh HASINA fled the country as protesters stormed her official residence, and army chief General Waker-Uz-Zaman announced that an interim government would be formed to run Bangladesh; the President dissolved Parliament on 6 August and swore in Nobel laureate Muhammad YUNUS as interim prime minister on 8 August<br>
 
 **Legislative branch**<br>
 _expected date of next election_: February 2026<br>
@@ -353,7 +354,7 @@ _email address and website_: <br>mission.washington@mofa.gov.bd<br><br>Embassy o
 _consulate(s) general_: Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Ambassador Tracey Ann JACOBSEN (since 11 January 2025)<br>
+_chief of mission_: Ambassador-designate Brent CHRISTENSEN (since 12 January 2026)<br>
 _embassy_: Madani Avenue, Baridhara, Dhaka - 1212<br>
 _mailing address_: 6120 Dhaka Place, Washington DC&nbsp; 20521-6120<br>
 _telephone_: [880] (2) 5566-2000<br>
@@ -601,8 +602,8 @@ _total subscriptions_: 302,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 191 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 105 (2022 est.)<br>
+_total subscriptions_: 196.081 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 108 (2024 est.)<br>
 
 **Broadcast media**<br>
 state-owned Bangladesh Television (BTV) broadcasts nationally; some channels operate via satellite; the government also owns a medium-wave radio channel and some private FM radio news channels; of the 41 approved TV stations, 26 are currently being used to broadcast, and 23 operate under private management via cable distribution<br>
@@ -650,7 +651,7 @@ _key ports_: Chittagong, Mongla<br>
 
 **Military and security forces**<br>
 Armed Forces of Bangladesh (aka Bangladesh Defense Force): Bangladesh Army, Bangladesh Navy, Bangladesh Air Force<br><br>Ministry of Home Affairs: Bangladesh Police, Border Guard Bangladesh (BGB), Bangladesh Coast Guard, Rapid Action Battalion (RAB), Ansars, Village Defense Party (VDP) (2025)<br>
-<strong>note 1: </strong>the Armed Forces of Bangladesh are jointly administered by the Ministry of Defense (MOD) and the Armed Forces Division (AFD), both under the Prime Minister's Office; the AFD has ministerial status and parallel functions with MOD; the AFD is a joint coordinating headquarters for the three services and also functions as a joint command center during wartime; to coordinate policy, the prime minister and the president are advised by a six-member board, which includes the three service chiefs of staff, the principal staff officer of the AFD, and the military secretaries to the prime minister and president<br><br><strong>note 2: </strong>the RAB, Ansars, and VDP are paramilitary organizations for internal security; the RAB is a joint task force comprised of Police, Army, Navy, Air Force, and Border Guards personnel seconded to the RAB; its mandate includes internal security, intelligence gathering related to criminal activities, and government-directed investigations<br>
+<strong>note 1: </strong>the Armed Forces of Bangladesh are jointly administered by the Ministry of Defense (MOD) and the Armed Forces Division (AFD), both under the Prime Minister's Office; the AFD has ministerial status and parallel functions with MOD<br><br><strong>note 2: </strong>the RAB, Ansars, and VDP are paramilitary organizations for internal security; the RAB is a joint task force comprised of Police, Army, Navy, Air Force, and Border Guards personnel seconded to the RAB; its mandate includes internal security, intelligence gathering related to criminal activities, and government-directed investigations<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2024 est.)<br>
@@ -663,14 +664,13 @@ Armed Forces of Bangladesh (aka Bangladesh Defense Force): Bangladesh Army, Bang
 information varies; approximately 170,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-much of the military's inventory is comprised of Chinese- and Russian-origin equipment; in recent years, China has been the leading provider of arms to Bangladesh (2024)<br>
+much of the military's inventory is comprised of Chinese- and Russian-origin equipment, but in recent years suppliers have expanded to include Germany, Turkey, the UK, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-generally 17-21 for voluntary military service; length of service varies by military service&nbsp; (2024)<br>
+varies by service, but generally 17-23 for voluntary military service; length of service also varies (2025)<br>
 
 **Military deployments**<br>
-approximately 1,400 Central African Republic (MINUSCA); 1,650 Democratic Republic of the Congo (MONUSCO; plus about 200 police); 120 Lebanon (UNIFIL); 100 Mali (MINUSMA; plus about 150 police); 1,600 South Sudan (UNMISS); 500 Sudan (UNISFA) (2024)<br>
-<strong>note:</strong> as of early 2024, Bangladesh had nearly 6,000 total military and police personnel deployed on UN missions<br>
+approximately 1,400 Central African Republic (MINUSCA); 1,700 Democratic Republic of the Congo (MONUSCO; plus about 200 police); 120 Lebanon (UNIFIL); 1,600 South Sudan (UNMISS); 500 Sudan (UNISFA) (2024)<br>
 
 **Military - note**<br>
 the military’s primary responsibility is external defense but it also has a domestic security role; following widespread domestic protests in September 2024, the Army was given law enforcement powers, including making arrests, conducting searches, and dispersing unlawful assemblies; the military has traditionally been a significant player in the country's politics and has commercial business interests in such areas as banking, food, hotels, manufacturing, real estate, and shipbuilding, and manages government infrastructure and construction projects<br><br>the military has a long history of participating in UN peacekeeping missions, which has provided operational experience and a source of funding; it runs an international institute for the training of peacekeepers; the military also conducts multinational and bilateral exercises with foreign partners, particularly India (2025)<br>

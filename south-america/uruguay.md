@@ -116,21 +116,21 @@ _elderly dependency ratio_: 22.2 (2024 est.)<br>
 _potential support ratio_: 4.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 36.5 years (2024 est.)<br>
+_total_: 37.4 years (2025 est.)<br>
 _male_: 34.9 years<br>
 _female_: 38.2 years<br>
 
 **Population growth rate**<br>
-0.26% (2024 est.)<br>
+-0.06% (2025 est.)<br>
 
 **Birth rate**<br>
-12.6 births/1,000 population (2024 est.)<br>
+9.05 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9.1 deaths/1,000 population (2024 est.)<br>
+9.88 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.9 migrant(s)/1,000 population (2024 est.)<br>
+0.19 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the country's population resides in the southern half of the country; approximately 80% of the populace is urban; nearly half of the population lives in and around the capital of Montevideo<br>
@@ -153,7 +153,7 @@ _total population_: 0.94 male(s)/female (2024 est.)<br>
 15 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8 deaths/1,000 live births (2024 est.)<br>
+_total_: 6.9 deaths/1,000 live births (2025 est.)<br>
 _male_: 9.1 deaths/1,000 live births<br>
 _female_: 6.8 deaths/1,000 live births<br>
 
@@ -163,10 +163,10 @@ _male_: 75.8 years<br>
 _female_: 82.1 years<br>
 
 **Total fertility rate**<br>
-1.75 children born/woman (2024 est.)<br>
+1.27 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.86 (2024 est.)<br>
+0.62 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.7% of population (2022 est.)<br>
@@ -378,7 +378,7 @@ _email address and website_: <br>urueeuu@mrree.gub.uy<br><br>https://embassyofur
 _consulate(s) general_: Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador-designate Lou RINALDI (since September 2025)<br>
+_chief of mission_: Ambassador Lou RINALDI (since 30 September 2025)<br>
 _embassy_: Lauro Muller 1776, Montevideo 11200<br>
 _mailing address_: 3360 Montevideo Place, Washington DC&nbsp; 20521-3360<br>
 _telephone_: (+598) 1770-2000<br>
@@ -674,14 +674,14 @@ Armed Forces of Uruguay (Fuerzas Armadas del Uruguay or FF.AA. del Uruguay): Nat
 approximately 23,000 active-duty Armed Forces (15,000 Army; 5,000 Navy; 3,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a variety of mostly older or second-hand equipment originating from a wide range of suppliers, including Brazil, Canada, the former Czechoslovakia, Germany, Portugal, Russia/former Soviet Union, South Korea, Spain, and the US (2024)<br>
+the military's inventory includes a variety of mostly older or secondhand equipment originating from a range of suppliers, including Brazil, Germany, Russia/former Soviet Union, South Korea, and the US (2025)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age (18-22 years of age for Navy) for voluntary military service for men and women; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2025)<br>
 <strong>note:</strong> as of 2023, women comprised nearly 20% of the active military<br>
 
 **Military deployments**<br>
-600 Democratic Republic of the Congo (MONUSCO); 200 Golan Heights (UNDOF) (2024)<br>
+630 Democratic Republic of the Congo (MONUSCO); 210 Golan Heights (UNDOF) (2025)<br>
 
 **Military - note**<br>
 the armed forces are responsible for defense of the country&rsquo;s independence, national sovereignty, and territorial integrity, as well as protecting strategic resources; it has some domestic responsibilities, including perimeter security for a number of prisons, border security, and providing humanitarian/disaster assistance; it also assists the Ministry of Interior in combating narcotics trafficking; the military participates in UN peacekeeping missions and multinational exercises with foreign partners; Uruguay traditionally has held security ties with Argentina, Brazil, Peru, and the US; since 2018, it has also signed defense cooperation agreements with China and Russia (2025)<br>

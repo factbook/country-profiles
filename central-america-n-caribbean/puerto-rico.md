@@ -104,21 +104,21 @@ _elderly dependency ratio_: 39.8 (2024 est.)<br>
 _potential support ratio_: 2.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 46.1 years (2024 est.)<br>
+_total_: 46.7 years (2025 est.)<br>
 _male_: 44.2 years<br>
 _female_: 47.8 years<br>
 
 **Population growth rate**<br>
--1.2% (2024 est.)<br>
+-1.1% (2025 est.)<br>
 
 **Birth rate**<br>
-7.8 births/1,000 population (2024 est.)<br>
+7.78 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-10.2 deaths/1,000 population (2024 est.)<br>
+10.48 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--9.6 migrant(s)/1,000 population (2024 est.)<br>
+-8.35 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population clusters tend to be found along the coast, with the largest of these in and around San Juan; an exception is a sizeable population located in the interior of the island immediately south of the capital around Caguas; most of the interior, particularly in the western half of the island, is dominated by the Cordillera Central mountains, where population density is low<br>
@@ -141,7 +141,7 @@ _total population_: 0.89 male(s)/female (2024 est.)<br>
 11 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.8 deaths/1,000 live births (2024 est.)<br>
+_total_: 5.7 deaths/1,000 live births (2025 est.)<br>
 _male_: 6.4 deaths/1,000 live births<br>
 _female_: 5.2 deaths/1,000 live births<br>
 
@@ -151,10 +151,10 @@ _male_: 78.9 years<br>
 _female_: 85.5 years<br>
 
 **Total fertility rate**<br>
-1.26 children born/woman (2024 est.)<br>
+1.27 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.61 (2024 est.)<br>
+0.62 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 100% of population (2022 est.)<br>
@@ -168,7 +168,7 @@ _improved: total_: total: 100% of population (2022 est.)<br>
 _unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-37.4% (2023 est.)<br>
+40.9% (2022 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.3% of GDP (2024 est.)<br>

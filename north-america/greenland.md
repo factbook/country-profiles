@@ -51,12 +51,12 @@ _mean elevation_: 1,792 m<br>
 coal, iron ore, lead, zinc, molybdenum, diamonds, gold, platinum, niobium, tantalite, uranium, fish, seals, whales, hydropower, possible oil and gas<br>
 
 **Land use**<br>
-_agricultural land_: 0.6% (2022 est.)<br>
+_agricultural land_: 0.6% (2023 est.)<br>
 _agricultural land: arable land_: arable land: 0% (2022 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.6% (2022 est.)<br>
-_forest_: 0% (2022 est.)<br>
-_other_: 99.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.6% (2023 est.)<br>
+_forest_: 0% (2023 est.)<br>
+_other_: 99.4% (2023 est.)<br>
 
 **Irrigated land**<br>
 NA<br>
@@ -104,21 +104,21 @@ _elderly dependency ratio_: 18.6 (2024 est.)<br>
 _potential support ratio_: 5.4 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 35.3 years (2024 est.)<br>
+_total_: 35.6 years (2025 est.)<br>
 _male_: 35.9 years<br>
 _female_: 34.7 years<br>
 
 **Population growth rate**<br>
--0.05% (2024 est.)<br>
+-0.08% (2025 est.)<br>
 
 **Birth rate**<br>
-13.5 births/1,000 population (2024 est.)<br>
+13.32 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9.2 deaths/1,000 population (2024 est.)<br>
+9.29 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--4.9 migrant(s)/1,000 population (2024 est.)<br>
+-4.82 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 settlement concentrated on the southwest shoreline, with limited settlements scattered along the remaining coast; interior is uninhabited<br>
@@ -138,7 +138,7 @@ _65 years and over_: 1.13 male(s)/female<br>
 _total population_: 1.07 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.5 deaths/1,000 live births (2024 est.)<br>
+_total_: 8.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 9.9 deaths/1,000 live births<br>
 _female_: 6.9 deaths/1,000 live births<br>
 
@@ -148,10 +148,10 @@ _male_: 71.8 years<br>
 _female_: 77.3 years<br>
 
 **Total fertility rate**<br>
-1.88 children born/woman (2024 est.)<br>
+1.87 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.92 (2024 est.)<br>
+0.91 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 100% of population (2022 est.)<br>
@@ -167,7 +167,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 37.5% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-39.4% (2023 est.)<br>
+38.8% (2022 est.)<br>
 
 **Education expenditure**<br>
 10.2% of GDP (2019 est.)<br>
@@ -181,12 +181,12 @@ changes in sea levels and other disruptions in the Arctic environment<br>
 arctic to subarctic; cool summers, cold winters<br>
 
 **Land use**<br>
-_agricultural land_: 0.6% (2022 est.)<br>
+_agricultural land_: 0.6% (2023 est.)<br>
 _agricultural land: arable land_: arable land: 0% (2022 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.6% (2022 est.)<br>
-_forest_: 0% (2022 est.)<br>
-_other_: 99.4% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.6% (2023 est.)<br>
+_forest_: 0% (2023 est.)<br>
+_other_: 99.4% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 87.9% of total population (2023)<br>

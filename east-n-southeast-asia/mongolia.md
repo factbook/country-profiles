@@ -96,7 +96,7 @@ Mongolian 90% (official, Khalkha dialect is predominant), Turkic, Russian (1999)
 _major-language sample(s)_: <br>Дэлхийн баримтат ном, үндсэн мэдээллийн зайлшгүй эх сурвалж. (Mongolian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Buddhist 51.7%, Muslim 3.2%, Shamanist 2.5%, Christian 1.3%, other 0.7%, none 40.6% (2020 est.)<br>
+Buddhist 51.8%, no religion 40.6%, Muslim 3.2%, Shaman 2.5%, Christian 1.3%, Other 0.6% (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 25.7% (male 429,867/female 412,943)<br>
@@ -110,21 +110,21 @@ _elderly dependency ratio_: 8.9 (2024 est.)<br>
 _potential support ratio_: 11.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 31.5 years (2024 est.)<br>
+_total_: 28.8 years (2025 est.)<br>
 _male_: 30.1 years<br>
 _female_: 32.8 years<br>
 
 **Population growth rate**<br>
-0.78% (2024 est.)<br>
+1.08% (2025 est.)<br>
 
 **Birth rate**<br>
-14.9 births/1,000 population (2024 est.)<br>
+18.01 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.4 deaths/1,000 population (2024 est.)<br>
+5.35 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.8 migrant(s)/1,000 population (2024 est.)<br>
+-1.83 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population sparsely distributed throughout the country; the capital of Ulaanbaatar and the northern city of Darhan support the highest population densities<br>
@@ -151,7 +151,7 @@ _total population_: 0.95 male(s)/female (2024 est.)<br>
 41 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 8.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 22.4 deaths/1,000 live births<br>
 _female_: 16.2 deaths/1,000 live births<br>
 
@@ -161,10 +161,10 @@ _male_: 67.8 years<br>
 _female_: 76.3 years<br>
 
 **Total fertility rate**<br>
-1.87 children born/woman (2024 est.)<br>
+2.6 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.91 (2024 est.)<br>
+1.27 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 94.2% of population (2022 est.)<br>
@@ -211,7 +211,7 @@ _female_: 7.2% (2025 est.)<br>
 1.9% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-58.9% (2023 est.)<br>
+60.2% (2020 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.9% (2018)<br>
@@ -646,10 +646,10 @@ Mongolian Armed Forces (MAF): Land Force, Air Force, Cyber Security Forces, Spec
 information varies; estimated 10-20,000 active Mongolian Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the MAF's inventory is comprised largely of Soviet-era and Russian equipment (2024)<br>
+the MAF's inventory is comprised largely of Soviet-era and secondhand Russian equipment (2025)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for compulsory and voluntary military service (can enter military schools at age 17); 12-month conscript service obligation for men can be extended 3 months under special circumstances; conscription service can be exchanged for a 24‐month stint in the civil service or a cash payment determined by the Mongolian Government; after conscription, soldiers can contract into military service for 2 or 4 years; volunteer military service for men and women is 24 months, which can be extended for another two years up to the age of 31 (2024)<br>
+18-25 years of age for voluntary service for men and women; initial service 24 months; compulsory service for men at 18; service obligation is 12 months in the military or police, which can be extended to 15 months under special circumstances; compulsory service can be exchanged for a 24‐month stint in the civil service or a cash payment determined by the Mongolian Government; after conscription, soldiers can contract into military service for up to 4 years (2025)<br>
 
 **Military deployments**<br>
 850 South Sudan (UNMISS) (2025)<br>

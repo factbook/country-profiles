@@ -114,21 +114,21 @@ _elderly dependency ratio_: 12.1 (2024 est.)<br>
 _potential support ratio_: 8.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 33.1 years (2024 est.)<br>
+_total_: 33.5 years (2025 est.)<br>
 _male_: 32 years<br>
 _female_: 34.2 years<br>
 
 **Population growth rate**<br>
-0.89% (2024 est.)<br>
+0.86% (2025 est.)<br>
 
 **Birth rate**<br>
-14.9 births/1,000 population (2024 est.)<br>
+14.58 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.8 deaths/1,000 population (2024 est.)<br>
+5.81 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.2 migrant(s)/1,000 population (2024 est.)<br>
+-0.21 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 though it has one of the highest population densities in the world, the population is not evenly dispersed; clustering is heaviest along the South China Sea and Gulf of Tonkin, with the Mekong Delta (in the south) and the Red River Valley (in the north) having the largest concentrations of people<br>
@@ -151,7 +151,7 @@ _total population_: 1.01 male(s)/female (2024 est.)<br>
 48 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 13.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 14.4 deaths/1,000 live births<br>
 _female_: 13.7 deaths/1,000 live births<br>
 
@@ -161,10 +161,10 @@ _male_: 73.5 years<br>
 _female_: 78.9 years<br>
 
 **Total fertility rate**<br>
-2.03 children born/woman (2024 est.)<br>
+2.01 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.96 (2024 est.)<br>
+0.96 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.1% of population (2022 est.)<br>
@@ -211,7 +211,7 @@ _female_: 2.1% (2025 est.)<br>
 9.7% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-72.6% (2023 est.)<br>
+72.8% (2021 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 1.1% (2021)<br>
@@ -670,14 +670,13 @@ People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces (
 approximately 450,000 active-duty People's Army of Vietnam (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PAVN is armed largely with weapons and equipment from Russia and the former Soviet Union; in recent years, Vietnam has moved to diversify arms its arms suppliers and has acquired items from countries such as India, South Korea, and the US; Vietnam has a small defense industry involved in the manufacture of small arms, ground combat vehicles, and naval systems (2025)<br>
-<strong>note:</strong> the US lifted an embargo on arms sales to Vietnam in 2016<br>
+the PAVN is equipped largely with armaments from Russia and the former Soviet Union; in recent years, Vietnam has moved to diversify its arms suppliers and has acquired items from countries such as India, Israel, the Netherlands, South Korea, and the US; Vietnam has a small defense industry involved in the manufacture of small arms, ground combat vehicles, and naval systems (2025)<br>
 
 **Military service age and obligation**<br>
 18 years of age for compulsory and voluntary military service for men and women (in practice only men are drafted); service obligation is between 24 (Army, Air Defense) and 36 (Navy and Air Force) months (2024)<br>
 
 **Military deployments**<br>
-190 Abyei/South Sudan/Sudan (UNISFA) (2024)<br>
+200 Abyei/South Sudan/Sudan (UNISFA) (2025)<br>
 
 **Military - note**<br>
 since withdrawing its military occupation forces from Cambodia in the late 1980s and the end of Soviet aid in 1991, Vietnam has practiced a non-aligned foreign policy and security doctrine known as the "Four Nos" (no alliances, no siding with one country against another, no foreign bases, and no using force in international relations); despite longstanding tensions with Beijing over maritime boundaries in the South China Sea, Vietnam puts a priority on stable relations with China, given its proximity, size, and status as Vietnam's largest trading partner<br><br>the responsibilities of the People's Army of Vietnam (PAVN) include protecting the country's independence, sovereignty, territorial integrity, and national interests, as well as assisting civilian authorities with natural disasters; in recent years, the PAVN has placed additional emphasis on protecting Vietnam's interests in the disputed South China Sea; the military is also involved in economic projects, such as electrical infrastructure, oil and gas services, hydroelectric projects, aviation and seaport services, telecommunications, and the shipbuilding industry, while military-owned factories and enterprises produce weapons and equipment (2025)<br>

@@ -103,21 +103,21 @@ _elderly dependency ratio_: 6.7 (2024 est.)<br>
 _potential support ratio_: 15 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 21.3 years (2024 est.)<br>
+_total_: 21.7 years (2025 est.)<br>
 _male_: 20.8 years<br>
 _female_: 21.8 years<br>
 
 **Population growth rate**<br>
-1.12% (2024 est.)<br>
+1.16% (2025 est.)<br>
 
 **Birth rate**<br>
-26.3 births/1,000 population (2024 est.)<br>
+25.92 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.5 deaths/1,000 population (2024 est.)<br>
+6.43 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--8.7 migrant(s)/1,000 population (2024 est.)<br>
+-7.95 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 density is highest in the center of the country, in and around the cities of Asmara (capital) and Keren; smaller settlements exist in the north and south, as shown in this population distribution map<br>
@@ -144,7 +144,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 291 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 39.8 deaths/1,000 live births (2024 est.)<br>
+_total_: 39 deaths/1,000 live births (2025 est.)<br>
 _male_: 46.6 deaths/1,000 live births<br>
 _female_: 32.8 deaths/1,000 live births<br>
 
@@ -154,10 +154,10 @@ _male_: 64.9 years<br>
 _female_: 70.2 years<br>
 
 **Total fertility rate**<br>
-3.43 children born/woman (2024 est.)<br>
+3.35 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.69 (2024 est.)<br>
+1.65 (2025 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 4.2% of GDP (2021)<br>
@@ -183,9 +183,6 @@ _other alcohols_: 0.51 liters of pure alcohol (2019 est.)<br>
 _total_: 7.5% (2020 est.)<br>
 _male_: 14.7% (2020 est.)<br>
 _female_: 0.2% (2020 est.)<br>
-
-**Currently married women (ages 15-49)**<br>
-52.3% (2023 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 8 years (2015 est.)<br>
@@ -252,7 +249,7 @@ _former_: Eritrea Autonomous Region in Ethiopia<br>
 _etymology_: the country name derives from the ancient Greek name <em>Erythra Thalassa</em>, meaning "Red Sea," the body of water that borders the country<br>
 
 **Government type**<br>
-presidential republic<br>
+authoritarian<br>
 
 **Capital**<br>
 _name_: Asmara<br>
@@ -290,7 +287,7 @@ _election/appointment process_: president indirectly elected by the National Ass
 _most recent election date_: 24 May 1993, following independence from Ethiopia<br>
 _election results_: <em><br>1993:</em> ISAIAS Afwerki elected president by the transitional National Assembly; percent of National Assembly vote - ISAIAS Afwerki (PFDJ) 95%, other 5%<br>
 _expected date of next election_: postponed indefinitely<br>
-<strong>note:</strong> the president is both chief of state and head of government and is head of the State Council and National Assembly<br>
+<strong>note 1: </strong>Eritrea’s authoritarian regime is controlled entirely by the president, who heads the sole political party, which has ruled the country since 1991; national elections have not taken place since 1991 and the constitution has not been implemented.<strong><br><br>note 2:</strong> the president is both chief of state and head of government and is head of the State Council and National Assembly<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Hagerawi Baito)<br>
@@ -490,8 +487,8 @@ _total subscriptions_: 66,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.8 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 50 (2021 est.)<br>
+_total subscriptions_: 2,015,830 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 59 (2022 est.)<br>
 
 **Broadcast media**<br>
 government controls broadcast media, with private ownership prohibited; 1 state-owned TV station; 2 state-owned radio networks; purchases of satellite dishes and subscriptions to international broadcast media are permitted (2023)<br>
@@ -548,10 +545,10 @@ Eritrean Defense Forces (EDF): Eritrean Ground Forces, Eritrean Navy, Eritrean A
 available information varies widely; estimated 150,000-200,000 active Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the EDF's inventory is comprised primarily of Soviet-era weapons and equipment (2024)<br>
+the EDF's inventory is comprised primarily of Soviet-era weapons and equipment (2025)<br>
 
 **Military service age and obligation**<br>
-Eritrea mandates military service for all citizens age 18-40; 18-month conscript service obligation, which reportedly includes 4-6 months of military training and 12 months of military or other national service (military service is most common); in practice, military and national service is often extended indefinitely; citizens up to the age of 59 eligible for recall during mobilization (2024)<br>
+Eritrea mandates military service for all citizens age 18-40; 18-month conscript service obligation, which reportedly includes 4-6 months of military training and 12 months of military or other national service (military service is most common); in practice, military and national service is often extended indefinitely; citizens up to the age of 59 eligible for recall during mobilization (2025)<br>
 
 **Military - note**<br>
 the military’s primary responsibilities are external defense, border security, and providing the regime a vehicle for national cohesion; the conscript-based Army is the dominant service<br><br>since the country's independence in 1991, the Eritrean military has participated in numerous conflicts, including the Hanish Island Crisis with Yemen (1995), the First Congo War (1996-1997), the Second Sudanese Civil War (1996-1998), the Eritrea-Ethiopia War (1998-2000), the Djiboutian-Eritrean border conflict (2008), and the Tigray conflict in Ethiopia (2020-2022); during the Tigray conflict, the Eritrean Defense Forces were accused of human rights abuses; in recent years, it has provided training support to the military of Somalia (2025)<br>

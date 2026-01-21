@@ -103,21 +103,21 @@ _elderly dependency ratio_: 7.9 (2024 est.)<br>
 _potential support ratio_: 12.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 27.3 years (2024 est.)<br>
+_total_: 27.7 years (2025 est.)<br>
 _male_: 26.4 years<br>
 _female_: 28.2 years<br>
 
 **Population growth rate**<br>
-1% (2024 est.)<br>
+0.98% (2025 est.)<br>
 
 **Birth rate**<br>
-19.7 births/1,000 population (2024 est.)<br>
+19.4 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.9 deaths/1,000 population (2024 est.)<br>
+6.88 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--2.8 migrant(s)/1,000 population (2024 est.)<br>
+-2.75 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 consists of three archipelagos spread out over an area roughly the size of India; the eastern Line Islands and central Phoenix Islands are sparsely populated, but the western Gilbert Islands are some of the most densely settled places on earth, with the main island of South Tarawa boasting a population density similar to Tokyo or Hong Kong<br>
@@ -144,7 +144,7 @@ _total population_: 0.94 male(s)/female (2024 est.)<br>
 80 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 31.5 deaths/1,000 live births (2024 est.)<br>
+_total_: 30.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 33.5 deaths/1,000 live births<br>
 _female_: 29.4 deaths/1,000 live births<br>
 
@@ -154,10 +154,10 @@ _male_: 65.9 years<br>
 _female_: 71.3 years<br>
 
 **Total fertility rate**<br>
-2.15 children born/woman (2024 est.)<br>
+2.13 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.05 (2024 est.)<br>
+1.04 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 87.9% of population (2022 est.)<br>
@@ -204,7 +204,7 @@ _female_: 23.6% (2025 est.)<br>
 6.9% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-67.6% (2023 est.)<br>
+67.4% (2020 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 2.4% (2019)<br>

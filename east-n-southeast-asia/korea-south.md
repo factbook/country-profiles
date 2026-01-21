@@ -107,21 +107,21 @@ _elderly dependency ratio_: 28.4 (2024 est.)<br>
 _potential support ratio_: 3.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 45.5 years (2024 est.)<br>
+_total_: 47 years (2025 est.)<br>
 _male_: 44 years<br>
 _female_: 47.3 years<br>
 
 **Population growth rate**<br>
-0.21% (2024 est.)<br>
+-0.09% (2025 est.)<br>
 
 **Birth rate**<br>
-7 births/1,000 population (2024 est.)<br>
+4.29 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.4 deaths/1,000 population (2024 est.)<br>
+6.94 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-2.6 migrant(s)/1,000 population (2024 est.)<br>
+1.76 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the population is primarily concentrated in the lowland areas, where density is high; Gyeonggi Province in the northwest, which surrounds the capital of Seoul and contains the port of Incheon, is the most densely populated province; Gangwon in the northeast is the least populated<br>
@@ -147,7 +147,7 @@ _total population_: 1.01 male(s)/female (2024 est.)<br>
 4 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.8 deaths/1,000 live births (2024 est.)<br>
+_total_: 2.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 3 deaths/1,000 live births<br>
 _female_: 2.6 deaths/1,000 live births<br>
 
@@ -157,10 +157,10 @@ _male_: 80.3 years<br>
 _female_: 86.6 years<br>
 
 **Total fertility rate**<br>
-1.12 children born/woman (2024 est.)<br>
+0.68 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.55 (2024 est.)<br>
+0.33 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 100% of population (2022 est.)<br>
@@ -197,9 +197,6 @@ _female_: 5.2% (2025 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 0.4% (2020 est.)<br>
-
-**Currently married women (ages 15-49)**<br>
-52.9% (2023 est.)<br>
 
 **Education expenditure**<br>
 5.8% of GDP (2022 est.)<br>
@@ -342,7 +339,7 @@ _subordinate courts_: High Courts; District Courts; Branch Courts (organized und
 Basic Income Party <br>Democratic Party of Korea or DPK <br>New Future Party<br>New Reform Party <br>Open Democratic Party or ODP <br>People Power Party or PPP <br>Progressive Party or Jinbo Party <br>Rebuilding Korea Party <br>Social Democratic Party <br><br><strong>note:</strong>  the Democratic Alliance coalition consists of the DPK and the smaller Basic Income, Jinbo, Open Democratic, and Social Democratic parties, as well as two independents; for the 2024 election, the Basic Income Party, the ODP, and the Social Democratic Party formed the New Progressive Alliance<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador-designate KANG Kyung-wha (since October 2025)<br>
+_chief of mission_: Ambassador KANG Kyung-wha (since 16 December 2025)<br>
 _chancery_: 2450 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-5600<br>
 _FAX_: [1] (202) 797-0595<br>
@@ -645,7 +642,7 @@ Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Republic o
 
 **Military expenditures**<br>
 2.3% of GDP (2025 est.)<br>
-2.3% of GDP (2024 est.)<br>
+2.4% of GDP (2024 est.)<br>
 2.4% of GDP (2023 est.)<br>
 2.4% of GDP (2022 est.)<br>
 2.4% of GDP (2021 est.)<br>
@@ -654,14 +651,14 @@ Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Republic o
 approximately 500,000 active Armed Forces (365,000 Army; 70,000 Navy, including about 30,000 Marines; 65,000 Air Force) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the South Korean military is equipped with a mix of mostly modern domestically produced and imported weapons systems, particularly from the US; South Korea's defense industry produces a wide range of military hardware for both domestic use and export, including armored fighting vehicles, artillery, aircraft, missiles, and naval ships; it also jointly produces equipment with other countries (2024)<br>
+the South Korean military is equipped with a mix of mostly modern domestically produced and imported weapons systems; the US is the leading provider of foreign arms; South Korea's defense industry produces a range of military hardware for both domestic use and export, including aircraft, armored fighting vehicles, artillery, missiles, and naval vessels; it also jointly produces equipment with other countries (2025)<br>
 
 **Military service age and obligation**<br>
-18-35 years of age for compulsory military service for all men; minimum conscript service obligation varies by service - 18 months (Army, Marines, auxiliary police), 20 months (Navy, conscripted firefighters), 21 months (Air Force, social service), 36 months for alternative service; 18-29 years of age for voluntary military service for men and women (2024)<br>
-<strong>note 1:</strong> women, in service since 1950, are able to serve in all branches and as of 2024 more than 15,000 served in the armed forces<br><br><strong>note 2: </strong>the military brings on over 200,000 conscripts each year<br>
+18-29 years of age for voluntary military service for men and women; mandatory military service for all eligible men 18-35 years of age (typically served from 20-28 years of age); compulsory service obligation is 18-21 months based on the branch of service and up to 36 months for alternative service (2025)<br>
+<strong>note:</strong> women, in service since 1950, are able to serve in all branches and as of 2024 more than 15,000 served in the armed forces<br>
 
 **Military deployments**<br>
-250 Lebanon (UNIFIL); 275 South Sudan (UNMISS); 170 United Arab Emirates; note - since 2009, South Korea has kept a naval flotilla with approximately 300 personnel in the waters off of the Horn of Africa and the Arabian Peninsula (2024)<br>
+250 Lebanon (UNIFIL); 275 South Sudan (UNMISS); approximately 150 United Arab Emirates (2025)<br>
 
 **Military - note**<br>
 the South Korean military is responsible for external defense and is primarily focused on the threat from North Korea; it participates in bilateral and multinational exercises and deploys abroad for international missions, including peacekeeping and other security operations<br><br>South Korea's primary defense partner is the US, and the 1953 US-South Korea Mutual Defense Treaty is a cornerstone of the country's national security; the Treaty committed the US to provide assistance in the event of an attack and gave the US permission to station land, air, and sea forces in and about the territory of South Korea as determined by mutual agreement; South Korea hosts approximately 28,000 US military troops and regularly conducts bilateral exercises with the US military; South Korea has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; the South Korean military has assisted the US in conflicts in Afghanistan (5,000 troops; 2001-2014), Iraq (20,000 troops; 2003-2008), and Vietnam (325,000 troops; 1964-1973)<br><br>in 2016, South Korea concluded an agreement with the EU for participation in EU Common Security and Defense Policy (CSDP) missions and operations, such as EU counter-piracy operations off the coast of East Africa; South Korea has had a relationship with NATO since 2005, and in 2022 established a mission to the NATO headquarters to further cooperation; it has participated in NATO-led missions and exercises, including in Afghanistan and the Gulf of Aden (2025)<br>

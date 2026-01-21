@@ -99,21 +99,21 @@ _elderly dependency ratio_: 9.5 (2024 est.)<br>
 _potential support ratio_: 10.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 30.7 years (2024 est.)<br>
+_total_: 31.2 years (2025 est.)<br>
 _male_: 31.1 years<br>
 _female_: 30.3 years<br>
 
 **Population growth rate**<br>
-0.95% (2024 est.)<br>
+0.93% (2025 est.)<br>
 
 **Birth rate**<br>
-15.3 births/1,000 population (2024 est.)<br>
+15.05 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.9 deaths/1,000 population (2024 est.)<br>
+5.75 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2024 est.)<br>
+0 migrant(s)/1,000 population (2025 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 44.4% of total population (2023)<br>
@@ -133,7 +133,7 @@ _total population_: 1.07 male(s)/female (2024 est.)<br>
 47 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 24.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 23 deaths/1,000 live births (2025 est.)<br>
 _male_: 24.6 deaths/1,000 live births<br>
 _female_: 23.9 deaths/1,000 live births<br>
 
@@ -143,10 +143,10 @@ _male_: 72.5 years<br>
 _female_: 75 years<br>
 
 **Total fertility rate**<br>
-1.76 children born/woman (2024 est.)<br>
+1.75 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.86 (2024 est.)<br>
+0.85 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.5% of population (2022 est.)<br>
@@ -193,7 +193,7 @@ _female_: 9.8% (2025 est.)<br>
 8.7% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-62.8% (2023 est.)<br>
+62% (2022 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 5.8% of GDP (2023 est.)<br>
@@ -557,8 +557,8 @@ _total subscriptions_: 18,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 752,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 95 (2022 est.)<br>
+_total subscriptions_: 751,989 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 100 (2024 est.)<br>
 
 **Broadcast media**<br>
 state-owned TV station established in 1999; cable TV service offers dozens of Indian and other international channels; first radio station, privately launched in 1973, is now state-owned; 5 private radio stations are currently broadcasting (2012)<br>
@@ -593,14 +593,13 @@ Royal Bhutan Army (RBA; includes Royal Bodyguard of Bhutan, or RBG, and an air w
 estimated 7-8,000 active Royal Bhutan Army (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Royal Bhutan Army is lightly armed; it has a small amount of heavy equipment, such as armored cars and helicopters, originating from India and Thailand (2024)<br>
+the Royal Bhutan Army is lightly armed; it has a small amount of heavy equipment, such as armored cars and helicopters, originating from the former Soviet Union, India, and Thailand (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women; no conscription; militia training is compulsory for males aged 20-25, over a 3-year period  (2023)<br>
-<strong>note: </strong>in 2021, the Royal Bhutan Army graduated from a year-long training course the first batch of 150 women to be allowed to serve in combat roles; previously, women were allowed to serve in medical and other non-combat roles<br>
+18 years of age for voluntary military service for men and women; militia training is compulsory for men aged 20-25 over a 3-year period (2025)<br>
 
 **Military deployments**<br>
-190 Central African Republic (MINUSCA) (2024)<br>
+180 Central African Republic (MINUSCA) (2025)<br>
 
 **Military - note**<br>
 the Army is responsible for external threats but also has some internal security functions such as conducting counterinsurgency operations, guarding forests, and providing security for prominent persons; Bhutan's closest security partner is India; under the 2007 India-Bhutan Friendship Treaty, both countries agreed to cooperate closely on issues relating to their national interests (2025)<br>

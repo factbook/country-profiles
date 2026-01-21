@@ -110,21 +110,21 @@ _elderly dependency ratio_: 6.6 (2024 est.)<br>
 _potential support ratio_: 15.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 22.8 years (2024 est.)<br>
+_total_: 22.8 years (2025 est.)<br>
 _male_: 22.3 years<br>
 _female_: 23.2 years<br>
 
 **Population growth rate**<br>
-1.92% (2024 est.)<br>
+1.89% (2025 est.)<br>
 
 **Birth rate**<br>
-25.8 births/1,000 population (2024 est.)<br>
+25.31 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-4.7 deaths/1,000 population (2024 est.)<br>
+4.45 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--2 migrant(s)/1,000 population (2024 est.)<br>
+-1.94 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the population is concentrated at lower elevations, with perhaps as many as 90% living in valleys; overall density increases from east to west<br>
@@ -150,7 +150,7 @@ _total population_: 1.01 male(s)/female (2024 est.)<br>
 14 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 21.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 20.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 24.3 deaths/1,000 live births<br>
 _female_: 18.9 deaths/1,000 live births<br>
 
@@ -160,10 +160,10 @@ _male_: 70.1 years<br>
 _female_: 73.8 years<br>
 
 **Total fertility rate**<br>
-3.56 children born/woman (2024 est.)<br>
+3.52 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.73 (2024 est.)<br>
+1.71 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 95.6% of population (2022 est.)<br>
@@ -205,7 +205,7 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 5.2% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-72% (2023 est.)<br>
+68% (2020 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.1% (2017)<br>
@@ -352,7 +352,7 @@ _subordinate courts_: regional and district courts; Dushanbe City Court; viloyat
 Agrarian Party of Tajikistan or APT<br>Democratic Party or DPT<br>Party of Economic Reforms or PERT<br>People's Democratic Party of Tajikistan or PDPT<br>Socialist Party of Tajikistan or SPT<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador-designate Zavqi ZAVQIZODA (since November 2021)<br>
+_chief of mission_: Ambassador-designate Zavqi ZAVQIZODA (since 14 November 2025)<br>
 _chancery_: 1005 New Hampshire Avenue NW, Washington, DC 20037<br>
 _telephone_: [1] (202) 223-6090<br>
 _FAX_: [1] (202) 223-6091<br>
@@ -396,7 +396,7 @@ _selected World Heritage Site locales_: Proto-urban Site of Sarazm (c); Tajik Na
 ## Economy
 
 **Economic overview**<br>
-lower middle-income Central Asian economy; key gold, cotton, and aluminum exporter; declining poverty; sustained high growth; very limited private sector; substantial illicit drug trade; significant remittances; environmentally fragile<br>
+<p>lower-middle-income Central Asian economy; large infrastructure projects, including Rogun Dam, and a push towards green development and digitalization driving growth; strong metal mining, electricity, and manufacturing industries; challenges include land scarcity, climate vulnerability, and complex bureaucratic processes for investors</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $50.37 billion (2024 est.)<br>
@@ -645,7 +645,7 @@ Armed Forces of the Republic of Tajikistan: Ground Forces, Mobile Forces, Air an
 estimated 10,000 active Armed Forces; estimated 5-10,000 active paramilitary National Guard, Border Service, and Internal Troops personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised mostly of older Russian and Soviet-era weapons and equipment; it also has smaller amounts of items from suppliers such as China, Turkey, and the US; in 2022, Tajikistan opened a plant to produce an Iranian-designed unmanned aerial vehicle under license (2024)<br>
+the military is equipped with mostly older Russian and Soviet-era armaments; it also has smaller amounts of items from suppliers such as China, T&uuml;rkiye, and the US (2025)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory (men only) or voluntary (men and women) military service; 24-month conscript service obligation or 12 months for those with a higher education (2024)<br>

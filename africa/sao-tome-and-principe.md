@@ -103,21 +103,21 @@ _elderly dependency ratio_: 5.4 (2024 est.)<br>
 _potential support ratio_: 18.6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 20.8 years (2024 est.)<br>
+_total_: 21.2 years (2025 est.)<br>
 _male_: 20.4 years<br>
 _female_: 21.2 years<br>
 
 **Population growth rate**<br>
-1.42% (2024 est.)<br>
+1.39% (2025 est.)<br>
 
 **Birth rate**<br>
-26.7 births/1,000 population (2024 est.)<br>
+25.87 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6 deaths/1,000 population (2024 est.)<br>
+5.84 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--6.5 migrant(s)/1,000 population (2024 est.)<br>
+-6.15 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 Sao Tome, the capital city, has roughly a quarter of the nation's population; Santo Antonio is the largest town on Principe; the northern areas of both islands have the highest population densities, as shown in this population distribution map<br>
@@ -144,7 +144,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 75 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 42.6 deaths/1,000 live births (2024 est.)<br>
+_total_: 41.7 deaths/1,000 live births (2025 est.)<br>
 _male_: 46.1 deaths/1,000 live births<br>
 _female_: 39 deaths/1,000 live births<br>
 
@@ -154,10 +154,10 @@ _male_: 66 years<br>
 _female_: 69.4 years<br>
 
 **Total fertility rate**<br>
-3.31 children born/woman (2024 est.)<br>
+3.18 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.63 (2024 est.)<br>
+1.57 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 79.3% of population (2022 est.)<br>
@@ -204,7 +204,7 @@ _female_: 1.7% (2025 est.)<br>
 5.4% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-51.9% (2023 est.)<br>
+53.1% (2019 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 5.4% (2019)<br>
@@ -593,20 +593,20 @@ _key ports_: Santo Antonio, Sao Tome<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Sao Tome and Principe (Forcas Armadas de Sao Tome e Principe, FASTP): Army, Coast Guard of Sao Tome e Principe (Guarda Costeira de Sao Tome e Principe, GCSTP), Presidential Guard, National Guard (2024)<br>
+Armed Forces of Sao Tome and Principe (Forcas Armadas de Sao Tome e Principe, FASTP): Army, Coast Guard of Sao Tome e Principe (Guarda Costeira de Sao Tome e Principe, GCSTP), Presidential Guard, National Guard (2025)<br>
 <strong>note:</strong> the Army and Coast Guard are responsible for external security while the public security police and judicial police maintain internal security; both the public security police and the military report to the Ministry of Defense and Internal Affairs; the judicial police report to the Ministry of Justice, Public Administration, and Human Rights<br>
 
 **Military and security service personnel strengths**<br>
 approximately 500 active Armed Forces (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FASTP is lightly armed and has a small inventory of mostly older weapons and equipment&nbsp; (2023)<br>
+the FASTP is lightly armed and has a small inventory of mostly older weapons and equipment (2023)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for compulsory military service (reportedly not enforced); 17 is the legal minimum age for voluntary service (2023)<br>
+limited information; 18 is the minimum age for compulsory military service (reportedly not enforced) and 17 years of age (with parental permission) for voluntary service (2024)<br>
 
 **Military - note**<br>
-the FASTP is one of the smallest militaries in Africa and consists of only a few companies of ground troops and some small patrol boats<br><br>in November 2022, the FASTP's headquarters was attacked shortly after the prime minister's inauguration in what São Tomé authorities described as an attempted coup; in 2024, the governments of Russia and São Tomé and Principe signed a military cooperation agreement, which included training, materiel and logistics support, and information sharing (2024)<br>
+the FASTP is one of the smallest militaries in Africa and consists of only a few companies of ground troops and some small patrol boats (2024)<br>
 
 ## Transnational Issues
 

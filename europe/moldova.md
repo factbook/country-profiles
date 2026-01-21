@@ -110,21 +110,21 @@ _elderly dependency ratio_: 21.4 (2024 est.)<br>
 _potential support ratio_: 4.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 39.9 years (2024 est.)<br>
+_total_: 40.4 years (2025 est.)<br>
 _male_: 38.6 years<br>
 _female_: 41.3 years<br>
 
 **Population growth rate**<br>
--0.58% (2024 est.)<br>
+-0.57% (2025 est.)<br>
 
 **Birth rate**<br>
-8.4 births/1,000 population (2024 est.)<br>
+8.35 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-14.2 deaths/1,000 population (2024 est.)<br>
+14.06 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2024 est.)<br>
+0 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 pockets of agglomeration exist throughout the country, with the largest in the center of the country around the capital of Chisinau, followed by Tiraspol and Balti<br>
@@ -150,7 +150,7 @@ _total population_: 0.89 male(s)/female (2024 est.)<br>
 19 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 13.8 deaths/1,000 live births (2024 est.)<br>
+_total_: 13.5 deaths/1,000 live births (2025 est.)<br>
 _male_: 16 deaths/1,000 live births<br>
 _female_: 11.5 deaths/1,000 live births<br>
 
@@ -160,10 +160,10 @@ _male_: 66.1 years<br>
 _female_: 74.4 years<br>
 
 **Total fertility rate**<br>
-1.26 children born/woman (2024 est.)<br>
+1.27 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.61 (2024 est.)<br>
+0.61 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 97.7% of population (2022 est.)<br>
@@ -207,7 +207,7 @@ _male_: 54.2% (2025 est.)<br>
 _female_: 6.4% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-67% (2023 est.)<br>
+68.7% (2020 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 6.6% of GDP (2023 est.)<br>
@@ -633,10 +633,10 @@ Armed Forces of the Republic of Moldova (Forțele Armate ale Republicii Moldova)
 approximately 6,500 Moldovan Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is limited and almost entirely comprised of Soviet-era equipment; in recent years, it has received donated equipment from Western European nations and the US (2024)<br>
+the military's inventory is limited and almost entirely comprised of Soviet-era equipment; in recent years, it has received small amounts of donated equipment from some Western European nations and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory or voluntary military service; male registration required at age 16; 12-month service obligation (2024)<br>
+18-27 years of age for compulsory or voluntary military service; male registration required at age 16; 12-month service obligation; conscientious objectors can perform non-military service in public institutions for a longer period (up to 24 months) (2025)<br>
 <strong>note:</strong> as of 2024, women made up about 23% of the military's full-time personnel<br>
 
 **Military - note**<br>

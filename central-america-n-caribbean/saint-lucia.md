@@ -103,21 +103,21 @@ _elderly dependency ratio_: 23.1 (2024 est.)<br>
 _potential support ratio_: 4.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 39.7 years (2024 est.)<br>
+_total_: 40.4 years (2025 est.)<br>
 _male_: 38.4 years<br>
 _female_: 40.9 years<br>
 
 **Population growth rate**<br>
-0.26% (2024 est.)<br>
+0.25% (2025 est.)<br>
 
 **Birth rate**<br>
-11.4 births/1,000 population (2024 est.)<br>
+11.17 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.3 deaths/1,000 population (2024 est.)<br>
+8.41 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.6 migrant(s)/1,000 population (2024 est.)<br>
+-0.3 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the population is found on the periphery of the island, with a larger concentration in the north around the capital of Castries<br>
@@ -140,7 +140,7 @@ _total population_: 0.94 male(s)/female (2024 est.)<br>
 44 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.5 deaths/1,000 live births (2024 est.)<br>
+_total_: 11.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 10.8 deaths/1,000 live births<br>
 _female_: 12.2 deaths/1,000 live births<br>
 
@@ -150,10 +150,10 @@ _male_: 76.7 years<br>
 _female_: 82.3 years<br>
 
 **Total fertility rate**<br>
-1.71 children born/woman (2024 est.)<br>
+1.71 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.83 (2024 est.)<br>
+0.83 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 97.2% of population (2022 est.)<br>
@@ -195,9 +195,6 @@ _other alcohols_: 0.6 liters of pure alcohol (2019 est.)<br>
 _total_: 13.1% (2025 est.)<br>
 _male_: 24.1% (2025 est.)<br>
 _female_: 2.6% (2025 est.)<br>
-
-**Currently married women (ages 15-49)**<br>
-53.6% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.8% of GDP (2024 est.)<br>
@@ -291,7 +288,7 @@ _residency requirement for naturalization_: 8 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Acting Governor General Errol CHARLES (since 11 November 2021)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Acting Governor General Cyril Errol CHARLES (since 11 November 2021)<br>
 _head of government_: Prime Minister Philip J. PIERRE (since 28 July 2021)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _election/appointment process_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the governor general usually appoints the leader of the majority party or majority coalition as prime minister; deputy prime minister also appointed by governor general<br>
@@ -586,7 +583,7 @@ _key ports_: Castries, Grand Cul de Sac Bay, Vieux Fort<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Home Affairs, Justice, and National Security: Royal Saint Lucia Police Force (RSLPF) (2024)<br>
+no regular military forces; Ministry of Home Affairs, Justice, and National Security: Royal Saint Lucia Police Force (RSLPF) (2025)<br>
 
 **Military - note**<br>
 Saint Lucia has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Guyana, Saint Kitts, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2025)<br>

@@ -113,21 +113,21 @@ _elderly dependency ratio_: 6 (2024 est.)<br>
 _potential support ratio_: 16.6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 20.4 years (2024 est.)<br>
+_total_: 20.6 years (2025 est.)<br>
 _male_: 19.7 years<br>
 _female_: 21.2 years<br>
 
 **Population growth rate**<br>
-1.76% (2024 est.)<br>
+1.74% (2025 est.)<br>
 
 **Birth rate**<br>
-31.9 births/1,000 population (2024 est.)<br>
+31.49 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-11.3 deaths/1,000 population (2024 est.)<br>
+11.04 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--3.1 migrant(s)/1,000 population (2024 est.)<br>
+-3.06 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 majority of residents live in the western and central areas of the country, especially in and around the capital of Bangui, as shown in this population distribution map<br>
@@ -150,7 +150,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 692 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 80.5 deaths/1,000 live births (2024 est.)<br>
+_total_: 79.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 86.4 deaths/1,000 live births<br>
 _female_: 74.5 deaths/1,000 live births<br>
 
@@ -160,10 +160,10 @@ _male_: 55.1 years<br>
 _female_: 57.7 years<br>
 
 **Total fertility rate**<br>
-3.94 children born/woman (2024 est.)<br>
+3.89 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.94 (2024 est.)<br>
+1.92 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 48.1% of population (2022 est.)<br>
@@ -202,7 +202,7 @@ _other alcohols_: 0.33 liters of pure alcohol (2019 est.)<br>
 18.4% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-64.7% (2023 est.)<br>
+65.4% (2019 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 25.8% (2019)<br>
@@ -309,7 +309,7 @@ _head of government_: Prime Minister F&eacute;lix MOLOUA (since 7 February 2022)
 _cabinet_: Council of Ministers appointed by the president<br>
 _election/appointment process_: current president was directly elected for 5-year term; constitutional referendum in July 2023 removed term limits and instituted 7-year terms<br>
 _most recent election date_: 27 December 2020<br>
-_election results_: <em><br>2020:</em> Faustin-Archange TOUADÉRA reelected president in first round; percent of vote - Faustin-Archange TOUADÉRA (independent) 53.9%, Anicet Georges DOLOGUELE (URCA) 21%, other 25.1%<br><br><em>2015:</em> Faustin-Archange TOUADÉRA elected president in the second round; percent of vote in first round - Anicet-Georges DOLOGUELE (URCA) 23.7%, Faustin-Archange TOUADÉRA (independent) 19.1%, Desire KOLINGBA (RDC) 12%, Martin ZIGUELE (MLPC) 11.4%, other 33.8%; percent of vote in second round - Faustin-Archange TOUADÉRA 62.7%, Anicet-Georges DOLOGUELE 37.3%<br>
+_election results_: <em><br>2020:</em> Faustin-Archange TOUADÉRA reelected president in first round; percent of vote - Faustin-Archange TOUADÉRA (independent) 53.9%, Anicet Georges DOLOGUELE (URCA) 21%, other 25.1%<br>
 _expected date of next election_: December 2025<br>
 
 **Legislative branch**<br>
@@ -560,8 +560,8 @@ _total subscriptions_: 2,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.83 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 34 (2021 est.)<br>
+_total subscriptions_: 1,979,150 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 39 (2022 est.)<br>
 
 **Broadcast media**<br>
 government-owned network, Radiodiffusion T&eacute;l&eacute;vision Centrafricaine, provides limited TV broadcasting; state-owned radio network is supplemented by a small number of privately owned broadcast stations, as well as a few community radio stations; transmissions of at least 2 international broadcasters are available (2017)<br>
@@ -601,14 +601,14 @@ Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includ
 estimated 10-15,000 active FACA (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-most of the military's heavy weapons and equipment were destroyed or captured during the 2012–2014 civil war; prior to the war, most of its equipment was of French, Russian, or Soviet origin; in recent years, it has received some secondhand equipment from China and Russia, including light weapons, as well as some armored vehicles, unmanned aerial vehicles, and helicopters (2024)<br>
+most of the military's heavy weapons and equipment were lost during the 2012–2014 civil war; prior to the war, most of its inventory was of French, Russian, or Soviet origin; in recent years, it has received some donated equipment from China and Russia, including armored vehicles, drones, helicopters, jet trainer aircraft, and some light weapons (2025)<br>
 <strong>note:</strong> the CAR was under a UNSC arms embargo from 2013-July 2024<br>
 
 **Military service age and obligation**<br>
-18 years of age for military service; no conscription although the constitution provides for the possibility of conscription in the event of an imminent threat to the country (2023)<br>
+18-22 years of age for voluntary military service for men and women; no conscription although the constitution provides for the possibility of conscription in the event of an imminent threat to the country (2025)<br>
 
 **Military - note**<br>
-the Central African Armed Forces (FACA) are focused on internal security; since the 2013 coup, multiple armed groups have been active in the country, carrying out attacks, controlling territory, and undermining security; the coup resulted in the institutional collapse of the FACA; its forces were overwhelmed and forced to flee to neighboring countries; it has been estimated that only 10% of the FACA returned afterwards; over the past decade, the FACA has sought to rebuild with considerable foreign assistance, including from France, the EU, Russia, Rwanda, and the UN; Russian private military contractors and bilateral Rwandan military forces are assisting the FACA in its operations against rebel groups<br><br>the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) has operated in the country since 2014; its mission includes providing security, protecting civilians, facilitating humanitarian assistance, disarming and demobilizing armed groups, and supporting the country’s transitional government; MINUSCA has more than 18,000 personnel (2025)<br>
+the Central African Armed Forces (FACA) are focused on internal security; since the 2013 coup, multiple armed groups have been active in the country, carrying out attacks, controlling territory, and undermining security; the coup resulted in the institutional collapse of the FACA; its forces were overwhelmed and forced to flee to neighboring countries; it has been estimated that only 10% of the FACA returned afterwards; over the past decade, the FACA has sought to rebuild with considerable foreign assistance, including from France, the EU, Russia, Rwanda, Uganda, and the UN; Russian private military contractors and Rwandan military forces have assisted the FACA in its operations against rebel groups<br><br>the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) has operated in the country since 2014; its mission includes providing security, protecting civilians, facilitating humanitarian assistance, disarming and demobilizing armed groups, and supporting the country’s transitional government (2025)<br>
 
 ## Transnational Issues
 

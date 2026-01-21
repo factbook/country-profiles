@@ -86,21 +86,21 @@ _elderly dependency ratio_: 16.8 (2024 est.)<br>
 _potential support ratio_: 6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 34.2 years (2024 est.)<br>
+_total_: 34.3 years (2025 est.)<br>
 _male_: 33.4 years<br>
 _female_: 34.9 years<br>
 
 **Population growth rate**<br>
-0.3% (2024 est.)<br>
+0.29% (2025 est.)<br>
 
 **Birth rate**<br>
-13.9 births/1,000 population (2024 est.)<br>
+13.78 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-4.8 deaths/1,000 population (2024 est.)<br>
+4.83 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--6.2 migrant(s)/1,000 population (2024 est.)<br>
+-6.07 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the population is found along the coast, with the largest concentration around the capital of Marigot, as well as Orleans and Grand-Case<br>
@@ -113,7 +113,7 @@ _65 years and over_: 0.75 male(s)/female<br>
 _total population_: 0.92 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.5 deaths/1,000 live births (2024 est.)<br>
+_total_: 6.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 7.6 deaths/1,000 live births<br>
 _female_: 5.3 deaths/1,000 live births<br>
 
@@ -123,10 +123,10 @@ _male_: 78 years<br>
 _female_: 84.2 years<br>
 
 **Total fertility rate**<br>
-1.8 children born/woman (2024 est.)<br>
+1.8 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.88 (2024 est.)<br>
+0.88 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 100% of population<br>

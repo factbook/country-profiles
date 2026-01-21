@@ -102,21 +102,21 @@ _elderly dependency ratio_: 7.4 (2024 est.)<br>
 _potential support ratio_: 13.6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 22.7 years (2024 est.)<br>
+_total_: 23.1 years (2025 est.)<br>
 _male_: 22.1 years<br>
 _female_: 23.3 years<br>
 
 **Population growth rate**<br>
-1.3% (2024 est.)<br>
+1.26% (2025 est.)<br>
 
 **Birth rate**<br>
-21.6 births/1,000 population (2024 est.)<br>
+21.12 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.4 deaths/1,000 population (2024 est.)<br>
+6.38 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--2.2 migrant(s)/1,000 population (2024 est.)<br>
+-2.17 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the capital city of Maroni, on the western side of the island of Grande Comore, is the country's largest city; however, Anjouan is the most densely populated of the three islands that comprise Comoros, as shown in this population distribution map<br>
@@ -143,7 +143,7 @@ _total population_: 0.94 male(s)/female (2024 est.)<br>
 179 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 54.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 53.9 deaths/1,000 live births (2025 est.)<br>
 _male_: 64.9 deaths/1,000 live births<br>
 _female_: 44.7 deaths/1,000 live births<br>
 
@@ -153,10 +153,10 @@ _male_: 65.5 years<br>
 _female_: 70.2 years<br>
 
 **Total fertility rate**<br>
-2.61 children born/woman (2024 est.)<br>
+2.52 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.28 (2024 est.)<br>
+1.24 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 97.4% of population<br>
@@ -192,7 +192,7 @@ _female_: 4.7% (2025 est.)<br>
 9.1% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-61.2% (2023 est.)<br>
+63.1% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 4.9% (2022)<br>
@@ -298,7 +298,7 @@ _head of government_: President AZALI Assoumani (since 26 May 2016)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _election/appointment process_: president directly elected by absolute majority vote in 2 rounds, if needed, for a 5-year term<br>
 _most recent election date_: 14 January 2024<br>
-_election results_: <em><br>2024: </em>AZALI Assoumani reelected president in first round - AZALI Assoumani (CRC) 63%, SALIM ISSA Abdallah (PJ) 20.3%, DAOUDOU Abdallah Mohamed (Orange Party) 5.9%, Bourhane HAMIDOU (independent) 5.1%<em><br><br>2019</em>: AZALI Assoumani elected president in first round - AZALI Assoumani (CRC) 60.8%, Ahamada MAHAMOUDOU (PJ) 14.6%, Mouigni Baraka Said SOILIHI (independent) 5.6%, other 19%<br>
+_election results_: <em><br>2024: </em>AZALI Assoumani reelected president in first round - AZALI Assoumani (CRC) 63%, SALIM ISSA Abdallah (PJ) 20.3%, DAOUDOU Abdallah Mohamed (Orange Party) 5.9%, Bourhane HAMIDOU (independent) 5.1%<br>
 _expected date of next election_: 2029<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
@@ -535,8 +535,8 @@ _total subscriptions_: 9,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 934,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 100 (2022 est.)<br>
+_total subscriptions_: 934,198 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 110 (2023 est.)<br>
 
 **Broadcast media**<br>
 national state-owned TV station and a TV station run by Anjouan regional government; national state-owned radio; regional governments on the islands of Grande Comore and Anjouan each operate a radio station; a few independent and small community radio stations operate on the islands of Grande Comore and Moheli, and these two islands have access to Mayotte Radio and French TV<br>
@@ -582,10 +582,10 @@ National Army for Development (l'Armee Nationale de Developpement, AND): Comoran
 estimated 600 Defense Force; estimated 500 Federal Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the AND is lightly armed and equipped with small arms and a few light aircraft (2023)<br>
+the AND is lightly armed and equipped with small arms, a few light aircraft, and utility vehicles (2024)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for 2-year voluntary military service for men and women; no conscription (2021)<br>
+18-25 years of age for voluntary military service for men and women; no conscription (2023)<br>
 
 **Military - note**<br>
 the focus for the security forces is search and rescue operations and maintaining internal security; a defense treaty with France provides naval resources for the protection of territorial waters, training of Comoran military personnel, and air surveillance; France maintains a small maritime base and a Foreign Legion contingent on neighboring Mayotte (2024)<br>

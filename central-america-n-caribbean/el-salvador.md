@@ -105,21 +105,21 @@ _elderly dependency ratio_: 12.5 (2024 est.)<br>
 _potential support ratio_: 8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 29.7 years (2024 est.)<br>
+_total_: 31.2 years (2025 est.)<br>
 _male_: 28.2 years<br>
 _female_: 31.2 years<br>
 
 **Population growth rate**<br>
-0.34% (2024 est.)<br>
+0.34% (2025 est.)<br>
 
 **Birth rate**<br>
-17.1 births/1,000 population (2024 est.)<br>
+12.46 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.9 deaths/1,000 population (2024 est.)<br>
+5.93 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--7.7 migrant(s)/1,000 population (2024 est.)<br>
+-3.16 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 high population density country-wide, with particular concentration around the capital of San Salvador<br>
@@ -146,7 +146,7 @@ _total population_: 0.92 male(s)/female (2024 est.)<br>
 39 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 10 deaths/1,000 live births (2025 est.)<br>
 _male_: 13.3 deaths/1,000 live births<br>
 _female_: 10 deaths/1,000 live births<br>
 
@@ -156,10 +156,10 @@ _male_: 72.4 years<br>
 _female_: 79.5 years<br>
 
 **Total fertility rate**<br>
-2.02 children born/woman (2024 est.)<br>
+1.4 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.98 (2024 est.)<br>
+0.68 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -206,7 +206,7 @@ _female_: 1.7% (2025 est.)<br>
 5% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-55% (2023 est.)<br>
+50.7% (2021 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 4.3% (2021)<br>
@@ -585,8 +585,8 @@ _total subscriptions_: 863,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 14 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11.5 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 182 (2022 est.)<br>
+_total subscriptions_: 11,338,800 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 177 (2024 est.)<br>
 
 **Broadcast media**<br>
 multiple privately owned national terrestrial TV networks, supplemented by cable TV networks that carry international channels; hundreds of commercial radio stations and 2 government-owned radio stations; transition to digital transmission was set to begin in 2018, along with adoption of the Japanese-Brazilian Digital Standard (ISDB-T) (2022)<br>
@@ -643,10 +643,11 @@ approximately 25,000 active FAES (2025)<br>
 <strong>note:</strong> El Salvador has pledged to increase the size of the military to 40,000 troops by 2026<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAES is lightly armed with an inventory of mostly older imported arms and equipment, largely from the US&nbsp; (2023)<br>
+the FAES is lightly armed with an inventory of mostly older or secondhand arms and equipment, largely provided by the US (2025)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for selective compulsory military service; 16-22 years of age for voluntary military service for men and women; service obligation is 12 months, with 11 months for officers and non-commissioned officers (2023)<br>
+18-30 years of age for voluntary military service for men and women (17-22 for military schools); men are subject to selective compulsory military service; service obligation up to 18 months (2025)<br>
+<strong>note: </strong>in 2024, women comprised over 11% of the active military<br>
 
 **Military - note**<br>
 the Armed Force of El Salvador (FAES) is responsible for defending national sovereignty and ensuring territorial integrity but also has considerable domestic security responsibilities; while the National Civil Police (PNC) are responsible for maintaining public security, the country’s constitution allows the president to use the FAES “in exceptional circumstances” to maintain internal peace and public security; in 2016, the government created a special joint unit of Army commandos and police to fight criminal gangs; more military personnel were devoted to internal security beginning in 2019 when President BUKELE signed a decree authorizing military involvement in police duties to combat rising gang violence, organized crime, and narcotics trafficking, as well as assisting with border security<br><br>the military led the country for much of the 20th century; from 1980 to 1992, it fought a bloody civil war against guerrillas from the Farabundo Martí National Liberation Front or FMLN, the paramilitary arm of the Democratic Revolutionary Front (Frente Democrático Revolucionario), a coalition of left-wing dissident political groups backed by Cuba and the Soviet Union; the FAES received considerable US support during the conflict; significant human rights violations occurred during the war and approximately 75,000 Salvadorans, mostly civilians, were killed (2025)<br>

@@ -116,21 +116,21 @@ _elderly dependency ratio_: 37.9 (2024 est.)<br>
 _potential support ratio_: 2.6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 46.8 years (2024 est.)<br>
+_total_: 46.9 years (2025 est.)<br>
 _male_: 45.5 years<br>
 _female_: 48.3 years<br>
 
 **Population growth rate**<br>
--0.12% (2024 est.)<br>
+-0.13% (2025 est.)<br>
 
 **Birth rate**<br>
-8.9 births/1,000 population (2024 est.)<br>
+8.87 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-12 deaths/1,000 population (2024 est.)<br>
+11.96 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-1.8 migrant(s)/1,000 population (2024 est.)<br>
+1.79 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 second most populous country in Europe; a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations, particularly in the far-western part of the industrial state of North Rhine-Westphalia<br>
@@ -156,7 +156,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 4 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 3 deaths/1,000 live births (2025 est.)<br>
 _male_: 3.5 deaths/1,000 live births<br>
 _female_: 2.7 deaths/1,000 live births<br>
 
@@ -166,10 +166,10 @@ _male_: 79.6 years<br>
 _female_: 84.4 years<br>
 
 **Total fertility rate**<br>
-1.58 children born/woman (2024 est.)<br>
+1.59 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.77 (2024 est.)<br>
+0.77 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -622,8 +622,8 @@ _total subscriptions_: 38.8 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 46 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 105 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 125 (2022 est.)<br>
+_total subscriptions_: 105.4 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 129 (2024 est.)<br>
 
 **Broadcast media**<br>
 a mix of publicly operated and privately owned TV and radio stations; 70 national and regional public broadcasters compete with nearly 400 privately owned national and regional TV stations; more than 90% of households have cable or satellite TV; hundreds of radio stations, including national and regional networks and a large number of local stations<br>
@@ -673,21 +673,21 @@ Federal Armed Forces (Bundeswehr): German Army (Deutsche Heer), German Navy (Deu
 <strong>note:</strong> responsibility for internal and border security is shared by the police forces of the 16 states, the Federal Criminal Police Office, and the Federal Police; the states’ police forces report to their respective interior ministries while the Federal Police forces report to the Federal Ministry of the Interior<br>
 
 **Military expenditures**<br>
+2.4% of GDP (2025 est.)<br>
 2% of GDP (2024 est.)<br>
 1.6% of GDP (2023 est.)<br>
 1.5% of GDP (2022 est.)<br>
 1.4% of GDP (2021 est.)<br>
-1.5% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 185,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of Federal Armed Forces is comprised of weapons systems produced domestically or jointly with other European countries and Western imports, particularly from the US; Germany's defense industry is capable of manufacturing the full spectrum of air, land, and naval military weapons systems, and Germany is one of the world's leading arms exporters; it also participates in joint defense production projects with the US and European partners (2024)<br>
+the inventory of Federal Armed Forces is comprised of weapons systems produced domestically or jointly with other European countries and Western imports, particularly from the US; Germany's defense industry is capable of manufacturing the full spectrum of air, land, and naval military weapons systems; it also participates in joint defense production projects with European partners and the US (2025)<br>
 
 **Military service age and obligation**<br>
-17-23 years of age for voluntary military service for men and women (must have completed compulsory full-time education and have German citizenship); service obligation 7-23 months or 12 years (2024)<br>
-<strong>note 1: </strong>conscription ended in 2011; in 2020, the German Government launched a new voluntary conscript initiative focused on homeland security tasks, with the volunteers serving for 7 months plus 5 months as reservists over a 6-year period<br><strong><br>note 2:</strong> women have been eligible for voluntary service in all military branches and positions since 2001 and accounted for about 12% of the active-duty German military in 2023<br>
+17-23 years of age for voluntary military service for men and women (must have completed compulsory full-time education and have German citizenship); service obligation 7-23 months or 12 years (2025)<br>
+<strong>note 1: </strong>conscription ended in 2011; in 2020, the German Government launched a new voluntary conscript initiative focused on homeland security tasks, with the volunteers serving for 7 months plus 5 months as reservists over a 6-year period<br><br><strong>note 2:</strong> in December 2025, Germany passed a law reforming military service; from 2026, the new regulations require German males residing in Germany who have reached the age of 18 to complete a questionnaire, including questions about their willingness to serve; participation will remain voluntary for women<br><strong><br>note 3:</strong> women have been eligible for voluntary service in all military branches and positions since 2001; in 2025, they accounted for more than 13% of the active-duty German military<br>
 
 **Military deployments**<br>
 up to 500 Iraq (NATO); 300 Kosovo (NATO/KFOR), Lebanon 170 (UNIFIL); up to 1,700 Lithuania (NATO) (2025)<br>

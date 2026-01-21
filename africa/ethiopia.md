@@ -117,21 +117,21 @@ _elderly dependency ratio_: 5.8 (2024 est.)<br>
 _potential support ratio_: 17.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 20.4 years (2024 est.)<br>
+_total_: 20.6 years (2025 est.)<br>
 _male_: 20.2 years<br>
 _female_: 20.7 years<br>
 
 **Population growth rate**<br>
-2.37% (2024 est.)<br>
+2.34% (2025 est.)<br>
 
 **Birth rate**<br>
-29.6 births/1,000 population (2024 est.)<br>
+29.08 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.8 deaths/1,000 population (2024 est.)<br>
+5.58 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.1 migrant(s)/1,000 population (2024 est.)<br>
+-0.12 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 highest density is found in the highlands of the north and middle areas of the country, particularly around the centrally located capital city of Addis Ababa; the far east and southeast are sparsely populated, as shown in this population distribution map<br>
@@ -158,7 +158,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 195 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 32.6 deaths/1,000 live births (2024 est.)<br>
+_total_: 31.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 37.4 deaths/1,000 live births<br>
 _female_: 27.6 deaths/1,000 live births<br>
 
@@ -168,10 +168,10 @@ _male_: 65.4 years<br>
 _female_: 70 years<br>
 
 **Total fertility rate**<br>
-3.84 children born/woman (2024 est.)<br>
+3.77 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.89 (2024 est.)<br>
+1.86 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 83.2% of population (2022 est.)<br>
@@ -218,7 +218,7 @@ _female_: 1.4% (2025 est.)<br>
 21.2% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-67.5% (2023 est.)<br>
+66.3% (2019 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 14.1% (2016)<br>
@@ -332,7 +332,7 @@ _head of government_: Prime Minister ABIY Ahmed Ali (since April 2018)<br>
 _cabinet_: Council of Ministers selected by the prime minister and approved by the House of People's Representatives<br>
 _election/appointment process_: president indirectly elected by both chambers of Parliament for a 6-year term (eligible for a second term); prime minister designated by the majority party following legislative elections<br>
 _most recent election date_: 21 June 2021 and 30 September 2021 (scheduled 29 August 2020 election was postponed due to the COVID-19 pandemic)<br>
-_election results_: <em><br>2021:</em> SAHLE-WORK Zewde reelected president during joint session of Parliament, vote - 659 (unanimous); ABIY confirmed Prime Minister by House of Peoples' Representatives (4 October 2021)<br><br><em>2018:</em> SAHLE-WORK Zewde elected president during joint session of Parliament, vote - 659 (unanimous); snap election held on 25 October 2018 due to resignation of President MULATA Teshome<br>
+_election results_: <em><br>2021:</em> SAHLE-WORK Zewde reelected president during joint session of Parliament, vote - 659 (unanimous); ABIY confirmed Prime Minister by House of Peoples' Representatives (4 October 2021)<br>
 
 **Legislative branch**<br>
 _legislative structure_: bicameral<br>
@@ -620,8 +620,8 @@ _total subscriptions_: 862,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 71.4 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 56 (2022 est.)<br>
+_total subscriptions_: 71,424,300 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 65 (2024 est.)<br>
 
 **Broadcast media**<br>
 10 public/state broadcasters; 9 public/state radio stations; 13 commercial FM radio stations; 18 commercial TV stations; 45 community radio stations; 5 community TV stations (2023)<br>
@@ -673,13 +673,13 @@ Ethiopian National Defense Force (ENDF; aka Federal Defense Force of Ethiopia, F
 available information varies widely; estimated 150-300,000 active-duty Defense Force&nbsp; (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ENDF's major weapons and equipment inventory has traditionally been comprised of Russian, Soviet, and Eastern bloc material; it suffered considerable equipment losses during the 2020-2022 Tigray conflict; in more recent years, Ethiopia has diversified its arms sources to include weapons from China, Israel, Turkey, Ukraine, and the UAE; Ethiopia has a modest industrial defense base centered on small arms and production of armored vehicles under license (2024)<br>
+the ENDF's inventory has traditionally been comprised of Russian, Soviet, and Eastern Bloc armaments; it suffered considerable equipment losses during the 2020-2022 Tigray conflict; in more recent years, Ethiopia has diversified its arms sources to include such suppliers as China, T&uuml;rkiye, Ukraine, and the UAE; Ethiopia's defense industry produces small arms, as well as armored vehicles under license (2025)<br>
 
 **Military service age and obligation**<br>
-18-22 years of age for voluntary military service (although the military may, when necessary, recruit a person more than 22 years old); no compulsory military service, but the military can conduct callups when necessary and compliance is compulsory (2023)<br>
+18-22 years of age for voluntary military service; 24-month service obligation; no compulsory military service, but the military can conduct callups when necessary and compliance is compulsory (2025)<br>
 
 **Military deployments**<br>
-as many as 10,000 troops Somalia (approximately 2,500 under the AU; the remainder under a bilateral agreement with the Somali Government); 1,500 South Sudan (UNMISS) (2024)<br>
+1,500 South Sudan (UNMISS); estimated to have as many as 10,000 troops Somalia (approximately 2,500 under the AU; the remainder under a bilateral agreement with the Somali Government) (2025)<br>
 
 **Military - note**<br>
 the Ethiopian National Defense Force (ENDF) is focused on both external threats emanating from its neighbors and internal threats from multiple internal armed groups; since 1998, the ENDF has engaged in several conventional and counterinsurgency operations, including border wars with Eritrea (1998-2000) and Somalia (2006-2008) and internal conflicts with the Tigray regional state (2020-2022), multiple insurgent groups and ethnic militias, and the al-Shabaab terrorist group; as of 2025, the ENDF was actively conducting counterinsurgency operations against anti-government militants in several states, including the Amhara militia Fano and the Oromo Liberation Army (OLA), as well as al-Shabaab in Somalia (2025)<br>

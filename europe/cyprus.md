@@ -53,12 +53,12 @@ _mean elevation_: 91 m<br>
 copper, pyrites, asbestos, gypsum, timber, salt, marble, clay earth pigment<br>
 
 **Land use**<br>
-_agricultural land_: 13.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 10.3% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.2% (2022 est.)<br>
-_forest_: 18.7% (2022 est.)<br>
-_other_: 68% (2022 est.)<br>
+_agricultural land_: 14% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 10.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.2% (2023 est.)<br>
+_forest_: 18.6% (2023 est.)<br>
+_other_: 67.1% (2023 est.)<br>
 
 **Irrigated land**<br>
 269 sq km (2020)<br>
@@ -109,21 +109,21 @@ _potential support ratio_: 4.8 (2024 est.)<br>
 <strong>note:</strong> data represent the whole country<br>
 
 **Median age**<br>
-_total_: 39.5 years (2024 est.)<br>
+_total_: 39.9 years (2025 est.)<br>
 _male_: 38.2 years<br>
 _female_: 41 years<br>
 
 **Population growth rate**<br>
-0.95% (2024 est.)<br>
+0.89% (2025 est.)<br>
 
 **Birth rate**<br>
-10.2 births/1,000 population (2024 est.)<br>
+9.95 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7 deaths/1,000 population (2024 est.)<br>
+7.11 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-6.3 migrant(s)/1,000 population (2024 est.)<br>
+6.04 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population concentrated in central Nicosia and in the major cities of the south: Paphos, Limassol, and Larnaca<br>
@@ -150,7 +150,7 @@ _total population_: 1.05 male(s)/female (2024 est.)<br>
 14 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 7.9 deaths/1,000 live births (2025 est.)<br>
 _male_: 9.7 deaths/1,000 live births<br>
 _female_: 6.4 deaths/1,000 live births<br>
 
@@ -160,10 +160,10 @@ _male_: 77.4 years<br>
 _female_: 83.1 years<br>
 
 **Total fertility rate**<br>
-1.49 children born/woman (2024 est.)<br>
+1.49 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.73 (2024 est.)<br>
+0.73 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.7% of population (2022 est.)<br>
@@ -206,12 +206,9 @@ _total_: 33.1% (2025 est.)<br>
 _male_: 44.1% (2025 est.)<br>
 _female_: 22.2% (2025 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-54.5% (2023 est.)<br>
-
 **Education expenditure**<br>
-_Education expenditure (% GDP)_: 5.1% of GDP (2022 est.)<br>
-_Education expenditure (% national budget)_: 13.2% national budget (2022 est.)<br>
+_Education expenditure (% GDP)_: 4.7% of GDP (2022 est.)<br>
+_Education expenditure (% national budget)_: 12.5% national budget (2022 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years (2022 est.)<br>
@@ -234,12 +231,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 temperate; Mediterranean with hot, dry summers and cool winters<br>
 
 **Land use**<br>
-_agricultural land_: 13.3% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 10.3% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 2.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 0.2% (2022 est.)<br>
-_forest_: 18.7% (2022 est.)<br>
-_other_: 68% (2022 est.)<br>
+_agricultural land_: 14% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 10.6% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 3.1% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 0.2% (2023 est.)<br>
+_forest_: 18.6% (2023 est.)<br>
+_other_: 67.1% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 67% of total population (2023)<br>
@@ -383,6 +380,9 @@ Cypriot mouflon (wild sheep), white dove<br>
 
 **National color(s)**<br>
 blue, white<br>
+
+**National coat of arms**<br>
+<p>The coat of arms of Cyprus features a yellow shield representing the island’s copper deposits. A dove, one of the national symbols, holds an olive branch symbolizing peace, and olive branches encircle the shield.  The year 1960 on the shield is the date of Cyprus’s independence from the United Kingdom.</p> <p> </p><br>
 
 **National anthem(s)**<br>
 _title_: "Ymnos eis tin Eleftherian" (Hymn to Freedom)<br>
@@ -584,8 +584,8 @@ _total subscriptions_: 270,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 29 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.43 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 149 (2021 est.)<br>
+_total subscriptions_: 1,433,500 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 156 (2024 est.)<br>
 
 **Broadcast media**<br>
 mix of state and privately run TV and radio; the public broadcaster operates 2 TV channels and 4 radio stations; 6 private TV broadcasters, satellite and cable TV services (including from Greece and Turkey), and a number of private radio stations; in areas administered by Turkish Cypriots, there are 2 public TV stations, 4 public radio stations, 7 privately owned TV stations and 21 privately owned radio stations, 6 radio and 4 TV channels at local universities, 1 military radio station, and 1 radio station for civil defense cooperation, as well as relay stations from Turkey (2019)<br>
@@ -640,11 +640,10 @@ Cypriot National Guard (Ethniki Froura, EF): Army, Navy, Air Force (2025)<br>
 approximately 12-15,000 active Cypriot National Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes mostly Russian and Soviet-era weapons and equipment along with a smaller mix of largely older Brazilian, European, Israeli, and US armaments; in 2023, Cyprus announced a 5-year modernization program to replace its Russian-made weapon systems with modern equipment from the West; the country had been under an arms embargo by the US since 1987 but the embargo was lifted in 2022 with conditions that require certifying each year (2024)<br>
+the National Guard's inventory includes a mix of armaments from a variety of suppliers, including Brazil, Israel, Russia, several European countries, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-Cypriot National Guard (CNG): 18-50 years of age for compulsory military service for all Greek Cypriot males; 17 years of age for voluntary service; 14-month service obligation (2023)<br>
-<strong>note:</strong> the CNG accepts all foreign nationals of at least partial Cypriot descent under age 32 as volunteers; dual citizenship Cypriot origin citizens, who were born in Cyprus or abroad, have the obligation to serve in the CNG on repatriation, regardless of whether or not they possess a foreign citizenship; a person is considered as having Cypriot origin where a grandparent or parent was/is a Cypriot citizen<br>
+all Cypriot men must complete 14 months of compulsory service upon reaching the age of 18; women may volunteer for 6 months of service at age 18; men and women may also enlist as contract soldiers up to age 42 (2025)<br>
 
 **Military - note**<br>
 established in 1964, the National Guard (EF) is responsible for ensuring Cyprus’s territorial integrity and sovereignty; its primary focus is Turkey, which invaded Cyprus in 1974 and maintains a large military presence in the unrecognized Turkish Republic of Northern Cyprus; the majority of the force is deployed along the “Green Line” that separates the Greek Cypriots from the Turkish Cypriots; the EF also participates in some internal missions, such as providing assistance during natural disasters; Greece is its primary security partner and maintains a military presence on Cyprus; the EF has conducted training exercises with other militaries including France, Israel, and the US; since Cyprus joined the EU in 2004, the EF has actively participated in the EU’s Common Security and Defense Policy and has sent small numbers of personnel to some EU and missions; Cyprus is also part of the Organization for Security and Cooperation in Europe<br><br>the UN Peacekeeping Force in Cyprus (UNFICYP) has been deployed in Cyprus since 1964; its mandate includes supervising the de facto ceasefire that came into effect in August 1974 and maintaining a buffer zone between the lines of the Cypriot National Guard and of the Turkish and Turkish Cypriot forces; UNFICYP has about 1,100 personnel assigned (2025)<br>

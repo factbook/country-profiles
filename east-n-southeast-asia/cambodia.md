@@ -115,21 +115,21 @@ _elderly dependency ratio_: 8.1 (2024 est.)<br>
 _potential support ratio_: 12.4 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 27.9 years (2024 est.)<br>
+_total_: 28.3 years (2025 est.)<br>
 _male_: 26.9 years<br>
 _female_: 28.9 years<br>
 
 **Population growth rate**<br>
-0.99% (2024 est.)<br>
+0.95% (2025 est.)<br>
 
 **Birth rate**<br>
-18.2 births/1,000 population (2024 est.)<br>
+17.74 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.7 deaths/1,000 population (2024 est.)<br>
+5.62 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--2.6 migrant(s)/1,000 population (2024 est.)<br>
+-2.62 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the southeast, particularly in and around the capital of Phnom Penh; further distribution is linked closely to the Tonle Sap and Mekong Rivers<br>
@@ -156,7 +156,7 @@ _total population_: 0.94 male(s)/female (2024 est.)<br>
 137 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 27.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 27.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 31.3 deaths/1,000 live births<br>
 _female_: 24.4 deaths/1,000 live births<br>
 
@@ -166,10 +166,10 @@ _male_: 69.6 years<br>
 _female_: 73.3 years<br>
 
 **Total fertility rate**<br>
-2.17 children born/woman (2024 est.)<br>
+2.14 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.06 (2024 est.)<br>
+1.05 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 93.6% of population (2022 est.)<br>
@@ -216,7 +216,7 @@ _female_: 4.7% (2025 est.)<br>
 16.3% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-66.4% (2023 est.)<br>
+67.2% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 1.9% (2022)<br>
@@ -340,7 +340,7 @@ _electoral system_: proportional representation<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 7/23/2023<br>
-_parties elected and seats per party_: Cambodian People's Party (CPP) (120); Other (5)<br>
+_parties elected and seats per party_: Cambodian People's Party (CPP) (120); United National Front for an Independent, Neutral, Peaceful and Co-operative Cambodia (FUNCINPEC) (5)<br>
 _percentage of women in chamber_: 13.6%<br>
 _expected date of next election_: July 2028<br>
 
@@ -359,8 +359,8 @@ _judge selection and term of office_: Supreme Court and Constitutional Council j
 _subordinate courts_: Appellate Court; provincial and municipal courts; Military Court<br>
 
 **Political parties**<br>
-Candlelight Party or CP<br>Cambodian People's Party or CPP <br>Khmer Will Party or KWP<br>
-<strong>note 1: </strong>18 parties registered to run in the 2023 parliamentary election<br><br><strong>note 2:</strong>  the Cambodian Government disqualified the Candlelight Party, the main opposition party, from the July 2023 election<br>
+Cambodian People's Party (CPP) <br>United National Front for an Independent, Neutral, Peaceful and Co-operative Cambodia (FUNCINPEC)<br>
+<strong>note:</strong>  the Cambodian Government has disqualified the main opposition Candlelight Party<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Koy KUONG (since 11 June 2025)<br>
@@ -595,8 +595,8 @@ _total subscriptions_: 38,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 19.5 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 116 (2022 est.)<br>
+_total subscriptions_: 21,049,600 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 116 (2024 est.)<br>
 
 **Broadcast media**<br>
 mix of state-owned, joint public-private, and privately owned broadcast media; 27 TV stations, with most operating on multiple channels, including 1 state-operated station with multiple locations and 11 stations either jointly operated or privately owned, some with several locations; multi-channel cable and satellite systems; 84 radio stations, including 1 state-owned broadcaster with multiple stations and a mix of public and private broadcasters; one international broadcaster is available, as well as one TV station that is jointly run by China and the Ministry of Interior; several TV and radio operators broadcast online only (often via Facebook) (2019)<br>
@@ -657,15 +657,14 @@ Royal Cambodian Armed Forces (RCAF): Royal Cambodian Army, Royal Khmer Navy, Roy
 information varies; estimated 200,000 Armed Forces, including Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RCAF is armed largely with older Chinese and Russian-origin equipment; in recent years it has received limited amounts of more modern equipment from several suppliers, particularly China (2024)<br>
-<strong>note: </strong>in December 2021, the US Government halted arms-related trade with Cambodia, citing deepening Chinese military influence, corruption, and human rights abuses by the government and armed forces; the policy of denial applied to licenses or other approvals for exports and imports of defense articles and defense services destined for or originating in Cambodia, with exceptions (on a case-by-case basis) related to conventional weapons destruction and humanitarian demining activities<br>
+the RCAF is armed largely with older Chinese and Russian/Soviet origin armaments; in recent years it has received limited amounts of more modern equipment from several suppliers, particularly China (2025)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for military service for men and women (2025)<br>
 <strong>note:</strong> in 2006, Cambodia's parliament approved a law requiring all Cambodians aged 18 to 30 to serve in the military for 18 months, although the law has never been enforced (service was to be voluntary for women); in 2025, the Cambodian Government announced that the 2006 conscription law would be enforced beginning in 2026 and have a 24-month service requirement<br>
 
 **Military deployments**<br>
-340 Central African Republic (MINUSCA); 180 Lebanon (UNIFIL) (2024)<br>
+340 Central African Republic (MINUSCA); 180 Lebanon (UNIFIL)&nbsp; (2025)<br>
 
 **Military - note**<br>
 the primary responsibilities of the Royal Cambodian Armed Forces (RCAF) are border, coastal, and internal security; key security partners include China and Vietnam; in July 2025, following months of rising tensions, the RCAF and the military forces of Thailand clashed in multiple locations along their disputed border; both sides blamed the other for provoking the five-day conflict, which included cross-border artillery shelling by both sides and air attacks by RTARF fighter aircraft and drones<br><br>the RCAF was re-established in 1993 under the first coalition government from the merger of the Cambodian Government’s military forces (Cambodian People’s Armed Forces) and the two non-communist resistance forces (Sihanoukist National Army, aka National Army for Khmer Independence, and the Khmer People's National Liberation Armed Forces); thousands of communist Khmer Rouge fighters began surrendering by 1994 under a government amnesty program and the last of the Khmer Rouge forces (National Army of Democratic Kampuchea) were demobilized or absorbed into the RCAF in 1999 (2025)<br>

@@ -51,12 +51,12 @@ _lowest point_: Pacific Ocean 0 m<br>
 timber, marine products, deep-seabed minerals, phosphate<br>
 
 **Land use**<br>
-_agricultural land_: 7.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.9% (2022 est.)<br>
+_agricultural land_: 7.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.9% (2023 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.3% (2022 est.)<br>
-_forest_: 92.1% (2022 est.)<br>
-_other_: 0.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.3% (2023 est.)<br>
+_forest_: 92.2% (2023 est.)<br>
+_other_: 0.7% (2023 est.)<br>
 
 **Irrigated land**<br>
 0 sq km (2022)<br>
@@ -102,21 +102,21 @@ _elderly dependency ratio_: 8.5 (2024 est.)<br>
 _potential support ratio_: 11.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 28.2 years (2024 est.)<br>
+_total_: 28.7 years (2025 est.)<br>
 _male_: 27.3 years<br>
 _female_: 29.1 years<br>
 
 **Population growth rate**<br>
--0.73% (2024 est.)<br>
+-0.77% (2025 est.)<br>
 
 **Birth rate**<br>
-17.8 births/1,000 population (2024 est.)<br>
+17.55 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-4.2 deaths/1,000 population (2024 est.)<br>
+4.23 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--21 migrant(s)/1,000 population (2024 est.)<br>
+-20.98 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the majority of the population lives in the coastal areas of the high islands; the mountainous interior is largely uninhabited; less than half of the population lives in urban areas<br>
@@ -139,7 +139,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 129 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 20.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 20.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 23.8 deaths/1,000 live births<br>
 _female_: 17.8 deaths/1,000 live births<br>
 
@@ -149,10 +149,10 @@ _male_: 72.9 years<br>
 _female_: 77.2 years<br>
 
 **Total fertility rate**<br>
-2.19 children born/woman (2024 est.)<br>
+2.17 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.07 (2024 est.)<br>
+1.06 (2025 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 11% of GDP (2021)<br>
@@ -194,12 +194,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; heavy year-round rainfall, especially in the eastern islands; located on southern edge of the typhoon belt with occasionally severe damage<br>
 
 **Land use**<br>
-_agricultural land_: 7.1% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 2.9% (2022 est.)<br>
+_agricultural land_: 7.1% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 2.9% (2023 est.)<br>
 _agricultural land: permanent crops_: permanent crops: 0% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 4.3% (2022 est.)<br>
-_forest_: 92.1% (2022 est.)<br>
-_other_: 0.8% (2022 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 4.3% (2023 est.)<br>
+_forest_: 92.2% (2023 est.)<br>
+_other_: 0.7% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 23.4% of total population (2023)<br>
@@ -500,7 +500,7 @@ _key ports_: Colonia, Lele Harbor, Moen, Pohnpei Harbor<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no military forces; Federated States of Micronesia National Police (includes a maritime wing) (2025)<br>
+no military forces; Federated States of Micronesia National Police (includes a maritime wing)<br>
 
 **Military - note**<br>
 defense is the responsibility of the US; in 1982, the FSM signed a Compact of Free Association (COFA) with the US, which granted the FSM financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986; Micronesians can serve in the US armed forces<br><br>the FSM has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within the FSM's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2025)<br>

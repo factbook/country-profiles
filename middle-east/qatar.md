@@ -108,21 +108,21 @@ _elderly dependency ratio_: 1.7 (2024 est.)<br>
 _potential support ratio_: 57.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 34.3 years (2024 est.)<br>
+_total_: 34.4 years (2025 est.)<br>
 _male_: 35.7 years<br>
 _female_: 28.1 years<br>
 
 **Population growth rate**<br>
-0.71% (2024 est.)<br>
+0.57% (2025 est.)<br>
 
 **Birth rate**<br>
-9.2 births/1,000 population (2024 est.)<br>
+9.19 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-1.4 deaths/1,000 population (2024 est.)<br>
+1.42 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.7 migrant(s)/1,000 population (2024 est.)<br>
+-2.09 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the population is clustered in or around the capital of Doha on the eastern side of the peninsula<br>
@@ -145,7 +145,7 @@ _total population_: 3.32 male(s)/female (2024 est.)<br>
 4 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 6.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 7 deaths/1,000 live births<br>
 _female_: 5.8 deaths/1,000 live births<br>
 
@@ -155,10 +155,10 @@ _male_: 78.2 years<br>
 _female_: 82.4 years<br>
 
 **Total fertility rate**<br>
-1.9 children born/woman (2024 est.)<br>
+1.9 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.94 (2024 est.)<br>
+0.94 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 100% of population (2022 est.)<br>
@@ -197,7 +197,7 @@ _female_: 2.3% (2025 est.)<br>
 2.3% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-65.8% (2023 est.)<br>
+64.6% (2020 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.2% of GDP (2020 est.)<br>
@@ -612,10 +612,11 @@ Qatar Armed Forces (QAF): Qatari Amiri Land Force (QALF, includes Emiri Guard), 
 approximately 15,000 active-duty Qatar Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Qatari military's inventory includes a broad mix of older and modern weapons systems, mostly from the US and Europe; in the 2010s, Qatar embarked on a military expansion and modernization program with large air, ground, and naval equipment purchases; in recent years, major suppliers have included France, Germany, Italy, the UK, and the US; Qatar is one of the world's largest arms importers (2024)<br>
+the Qatari military's inventory is a mix of older and modern weapons systems, mostly from Türkiye, the US, and various European countries, including France, Germany, and Italy (2025)<br>
+<strong>note: </strong>in the 2010s, Qatar embarked on a military expansion and modernization program with large air, ground, and naval equipment purchases<br>
 
 **Military service age and obligation**<br>
-conscription for men aged 18-35 introduced in 2013; compulsory service times range from 4-12 months, depending on educational and professional circumstances; since 2018, women have been permitted to serve as volunteers in the armed forces, including as uniformed officers and pilots (2023)<br>
+typically 18-30 for voluntary service for men and women; compulsory military service for men 18-35; compulsory service is from 4-12 months, depending on educational and professional circumstances (2025)<br>
 <strong>note:</strong> the military incorporates about 2,000 conscripts annually and recruits foreign contract soldiers to overcome manpower limitations<br>
 
 **Military - note**<br>

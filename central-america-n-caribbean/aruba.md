@@ -102,21 +102,21 @@ _elderly dependency ratio_: 26.1 (2024 est.)<br>
 _potential support ratio_: 3.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 40.9 years (2024 est.)<br>
+_total_: 41.2 years (2025 est.)<br>
 _male_: 39.3 years<br>
 _female_: 42.4 years<br>
 
 **Population growth rate**<br>
-1.08% (2024 est.)<br>
+1.05% (2025 est.)<br>
 
 **Birth rate**<br>
-11.6 births/1,000 population (2024 est.)<br>
+11.44 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.8 deaths/1,000 population (2024 est.)<br>
+8.85 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-8 migrant(s)/1,000 population (2024 est.)<br>
+7.91 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most residents live in or around Oranjestad and San Nicolaas; most settlements tend to be located on the less mountainous western side of the island<br>
@@ -136,7 +136,7 @@ _65 years and over_: 0.68 male(s)/female<br>
 _total population_: 0.9 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.5 deaths/1,000 live births (2024 est.)<br>
+_total_: 11.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 15.6 deaths/1,000 live births<br>
 _female_: 7.3 deaths/1,000 live births<br>
 
@@ -146,17 +146,17 @@ _male_: 75.4 years<br>
 _female_: 81.6 years<br>
 
 **Total fertility rate**<br>
-1.82 children born/woman (2024 est.)<br>
+1.82 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.9 (2024 est.)<br>
+0.9 (2025 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: total_: total: 98.8% of population (2022 est.)<br>
 _unimproved: total_: total: 1.2% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-42.1% (2023 est.)<br>
+46.8% (2020 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.6% of GDP (2021 est.)<br>
@@ -429,8 +429,8 @@ _total subscriptions_: 35,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 32 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 141,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 132 (2021 est.)<br>
+_total subscriptions_: 140,815 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 131 (2022 est.)<br>
 
 **Broadcast media**<br>
 freedom of the press respected, as guaranteed under Dutch law; newspapers are in the Papiamento language; 2 commercial TV stations, with a cable TV subscription service providing access to foreign channels; wide range of commercial radio stations available (2023)<br>

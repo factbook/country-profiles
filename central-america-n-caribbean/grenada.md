@@ -50,12 +50,12 @@ _lowest point_: Caribbean Sea 0 m<br>
 timber, tropical fruit<br>
 
 **Land use**<br>
-_agricultural land_: 23.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 8.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 11.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 2.9% (2022 est.)<br>
-_forest_: 52.1% (2022 est.)<br>
-_other_: 24.4% (2022 est.)<br>
+_agricultural land_: 23.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 8.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2.9% (2023 est.)<br>
+_forest_: 52.1% (2023 est.)<br>
+_other_: 24.4% (2023 est.)<br>
 
 **Irrigated land**<br>
 20 sq km (2012)<br>
@@ -98,21 +98,21 @@ _elderly dependency ratio_: 19.6 (2024 est.)<br>
 _potential support ratio_: 5.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 35.4 years (2024 est.)<br>
+_total_: 35.9 years (2025 est.)<br>
 _male_: 35.2 years<br>
 _female_: 35.7 years<br>
 
 **Population growth rate**<br>
-0.27% (2024 est.)<br>
+0.24% (2025 est.)<br>
 
 **Birth rate**<br>
-13.3 births/1,000 population (2024 est.)<br>
+13 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.4 deaths/1,000 population (2024 est.)<br>
+8.41 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--2.2 migrant(s)/1,000 population (2024 est.)<br>
+-2.16 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 approximately one third of the population is found in the capital of St. George's; the island's population is concentrated along the coast<br>
@@ -135,7 +135,7 @@ _total population_: 1.03 male(s)/female (2024 est.)<br>
 48 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9 deaths/1,000 live births (2024 est.)<br>
+_total_: 8.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 8.6 deaths/1,000 live births<br>
 _female_: 9.5 deaths/1,000 live births<br>
 
@@ -145,10 +145,10 @@ _male_: 73.7 years<br>
 _female_: 79.1 years<br>
 
 **Total fertility rate**<br>
-1.9 children born/woman (2024 est.)<br>
+1.89 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.91 (2024 est.)<br>
+0.9 (2025 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.7% of GDP (2021)<br>
@@ -170,12 +170,9 @@ _wine_: 0.56 liters of pure alcohol (2019 est.)<br>
 _spirits_: 4.21 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.31 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-41.3% (2023 est.)<br>
-
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 5.1% of GDP (2023 est.)<br>
-_Education expenditure (% national budget)_: 14.5% national budget (2024 est.)<br>
+_Education expenditure (% national budget)_: 11.4% national budget (2025 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years (2018 est.)<br>
@@ -195,12 +192,12 @@ _signed, but not ratified_: none of the selected agreements<br>
 tropical; tempered by northeast trade winds<br>
 
 **Land use**<br>
-_agricultural land_: 23.5% (2022 est.)<br>
-_agricultural land: arable land_: arable land: 8.8% (2022 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 11.8% (2022 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 2.9% (2022 est.)<br>
-_forest_: 52.1% (2022 est.)<br>
-_other_: 24.4% (2022 est.)<br>
+_agricultural land_: 23.5% (2023 est.)<br>
+_agricultural land: arable land_: arable land: 8.8% (2023 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 11.8% (2023 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 2.9% (2023 est.)<br>
+_forest_: 52.1% (2023 est.)<br>
+_other_: 24.4% (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 37.1% of total population (2023)<br>
@@ -547,7 +544,7 @@ _key ports_: St. George's<br>
 no regular military forces; the Royal Grenada Police Force (under the Ministry of National Security) includes a Coast Guard and a paramilitary Special Services Unit (2025)<br>
 
 **Military - note**<br>
-Grenada joined the Caribbean Regional Security System (RSS) in 1985; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Guyana, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)<br>
+Grenada joined the Caribbean Regional Security System (RSS) in 1985; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Guyana, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2025)<br>
 
 ## Transnational Issues
 

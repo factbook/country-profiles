@@ -119,21 +119,21 @@ _elderly dependency ratio_: 11.5 (2024 est.)<br>
 _potential support ratio_: 8.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 30.4 years (2024 est.)<br>
+_total_: 30.7 years (2025 est.)<br>
 _male_: 30.1 years<br>
 _female_: 30.6 years<br>
 
 **Population growth rate**<br>
-1.07% (2024 est.)<br>
+1.06% (2025 est.)<br>
 
 **Birth rate**<br>
-17.7 births/1,000 population (2024 est.)<br>
+17.21 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.9 deaths/1,000 population (2024 est.)<br>
+6.56 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.2 migrant(s)/1,000 population (2024 est.)<br>
+-0.07 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the population is concentrated along the southern and southeastern coast, and inland around Pretoria; the eastern half of the country is more densely populated than the west, as shown in this population distribution map<br>
@@ -156,7 +156,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 118 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 21.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 19.7 deaths/1,000 live births (2025 est.)<br>
 _male_: 23.9 deaths/1,000 live births<br>
 _female_: 20 deaths/1,000 live births<br>
 
@@ -166,10 +166,10 @@ _male_: 70.3 years<br>
 _female_: 73.5 years<br>
 
 **Total fertility rate**<br>
-2.27 children born/woman (2024 est.)<br>
+2.23 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.12 (2024 est.)<br>
+1.1 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.1% of population (2022 est.)<br>
@@ -213,7 +213,7 @@ _female_: 6% (2025 est.)<br>
 4.9% (2017 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-36.9% (2023 est.)<br>
+33.6% (2020 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.9% (2016)<br>
@@ -376,7 +376,7 @@ _email address and website_: <br>Info.saembassyDC@dirco.gov.za<br><br>https://ww
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Marc DILLARD (since October 2025)<br>
+_chief of mission_: Ambassador-designate Leo Brent BOZELL III; Charg&eacute; d&rsquo;Affaires Marc DILLARD (since October 2025)<br>
 _embassy_: 877 Pretorius Street, Arcadia, Pretoria<br>
 _mailing address_: 9300 Pretoria Place, Washington DC&nbsp; 20521-9300<br>
 _telephone_: [27] (12) 431-4000<br>
@@ -677,10 +677,10 @@ South African National Defense Force (SANDF): South African Army (includes Reser
 approximately 65-70,000 active-duty National Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SANDF's inventory consists of a mix of domestically produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly produced with foreign companies), while the Air Force and Navy inventories include a mix of aging European, Israeli, and US origin weapons and equipment; South Africa has one of Africa's leading defense industries (2024)<br>
+the SANDF's inventory is a mix of domestically produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly produced with foreign companies), while the Air Force and Navy inventories include a mix of European, Israeli, and US origin armaments, alongside some domestic systems, such as combat helicopters and some naval vessels; South Africa has one of Africa's leading defense industries (2025)<br>
 
 **Military service age and obligation**<br>
-18-22 (18-26 for college graduates) years of age for voluntary military service for men and women; initial 2-year service obligation (2025)<br>
+18-22 (18-26 for college graduates) years of age for voluntary military service for men and women; initial 24-month service obligation (2025)<br>
 <strong>note:</strong> in 2023, women comprised nearly 30% of the military<br>
 
 **Military deployments**<br>

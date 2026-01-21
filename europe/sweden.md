@@ -111,21 +111,21 @@ _elderly dependency ratio_: 33.5 (2024 est.)<br>
 _potential support ratio_: 3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 41.1 years (2024 est.)<br>
+_total_: 41.2 years (2025 est.)<br>
 _male_: 40.1 years<br>
 _female_: 42.1 years<br>
 
 **Population growth rate**<br>
-0.51% (2024 est.)<br>
+0.51% (2025 est.)<br>
 
 **Birth rate**<br>
-10.7 births/1,000 population (2024 est.)<br>
+10.56 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9.6 deaths/1,000 population (2024 est.)<br>
+9.63 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-4 migrant(s)/1,000 population (2024 est.)<br>
+4.14 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the population lives in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found along the Baltic coast in the east; the interior areas of the north remain sparsely populated<br>
@@ -151,7 +151,7 @@ _total population_: 1.01 male(s)/female (2024 est.)<br>
 4 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 2.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 2.5 deaths/1,000 live births<br>
 _female_: 2 deaths/1,000 live births<br>
 
@@ -161,10 +161,10 @@ _male_: 81.2 years<br>
 _female_: 84.7 years<br>
 
 **Total fertility rate**<br>
-1.67 children born/woman (2024 est.)<br>
+1.66 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.8 (2024 est.)<br>
+0.8 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.8% of population (2022 est.)<br>
@@ -208,7 +208,7 @@ _male_: 25.8% (2025 est.)<br>
 _female_: 13.9% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-53.4% (2023 est.)<br>
+53.6% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 7.3% of GDP (2022 est.)<br>
@@ -657,7 +657,7 @@ approximately 25,000 active military personnel; approximately 21,000 Home GuardÂ
 <strong>note 1: </strong>SAF personnel are divided into continuously serving (full-time) and temporary service troops (part-timers who serve periodically and have another main employer or attend school); additional personnel have signed service agreements with the SAF and mostly serve in the Home Guard<br><br><strong>note 2:</strong> in 2021, Sweden announced plans that increase the total size of the armed forces to about 100,000 personnel by 2030<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SAF's inventory is comprised of domestically produced and imported Western weapons systems, including from Finland, Germany, and the US; Sweden has a defense industry that produces a range of air, land, and naval systems, including armored vehicles, combat aircraft, and submarines; it also produces weapons systems jointly with other countries&nbsp; (2024)<br>
+the SAF's inventory is comprised of mostly domestically produced armaments alongside smaller amounts of imported Western systems; Sweden's defense industry produces a range of air, land, and naval systems, including armored vehicles, combat aircraft, and submarines; it also produces weapons systems jointly with other countries (2025)<br>
 
 **Military service age and obligation**<br>
 18-47 years of age for voluntary military service for men and women; service obligation: 7-15 months (Army), 7-15 months (Navy), 8-12 months (Air Force); after completing initial service, soldiers have a reserve commitment until age 47; compulsory military service, abolished in 2010, was reinstated in January 2018; conscription is selective, includes both men and women (age 18), and requires 6-15 months of service (2024)<br>

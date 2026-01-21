@@ -114,21 +114,21 @@ _elderly dependency ratio_: 6.7 (2024 est.)<br>
 _potential support ratio_: 15 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 20.3 years (2024 est.)<br>
+_total_: 19.4 years (2025 est.)<br>
 _male_: 20 years<br>
 _female_: 20.6 years<br>
 
 **Population growth rate**<br>
-2.22% (2024 est.)<br>
+2.16% (2025 est.)<br>
 
 **Birth rate**<br>
-26.6 births/1,000 population (2024 est.)<br>
+28.04 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-4.5 deaths/1,000 population (2024 est.)<br>
+3.57 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2024 est.)<br>
+-2.9 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population density is highest south of Lake Nyasa, as shown in this population distribution map<br>
@@ -155,7 +155,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 225 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 31.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 28.9 deaths/1,000 live births (2025 est.)<br>
 _male_: 36.4 deaths/1,000 live births<br>
 _female_: 27.4 deaths/1,000 live births<br>
 
@@ -165,10 +165,10 @@ _male_: 69.9 years<br>
 _female_: 76.1 years<br>
 
 **Total fertility rate**<br>
-3.19 children born/woman (2024 est.)<br>
+3.33 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.58 (2024 est.)<br>
+1.65 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 85.9% of population (2022 est.)<br>
@@ -212,7 +212,7 @@ _female_: 1.4% (2025 est.)<br>
 11.6% (2020 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-60.7% (2022 est.)<br>
+62.1% (2020 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 7.5% (2020)<br>
@@ -319,8 +319,8 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Peter MUTHARIKA (since 4 October)<br>
-_head of government_: Vice President Jane ANSAH (since 4 October)<br>
+_chief of state_: President Peter MUTHARIKA (since 4 October 2025)<br>
+_head of government_: President Peter MUTHARIKA (since 4 October 2025)<br>
 _cabinet_: Cabinet named by the president<br>
 _election/appointment process_: president directly elected by simple-majority popular vote for a 5-year term (eligible for a second term)<br>
 _most recent election date_: September 2030<br>
@@ -578,8 +578,8 @@ _total subscriptions_: 5,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12.9 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 60 (2022 est.)<br>
+_total subscriptions_: 15 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 69 (2024 est.)<br>
 
 **Broadcast media**<br>
 radio is the main broadcast medium; privately owned Zodiak radio has the widest national reach, followed by state-run radio; numerous private and community radio stations broadcast in cities and towns; the largest TV network is state-owned, but at least 4 private TV networks broadcast in urban areas; relays of multiple international broadcasters are available (2019)<br>
@@ -623,10 +623,10 @@ Malawi Defense Force (MDF): Malawi Army (Land Forces), Malawi Maritime Force (MM
 estimated 10,000 active Malawi Defense Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the MDF's inventory is a mix of mostly older or secondhand equipment originating from such countries as France, South Africa, and the UK&nbsp; (2024)<br>
+the MDF's inventory is comprised of mostly older or secondhand armaments originating from such countries as China, France, Israel, South Africa, and the UK (2025)<br>
 
 **Military service age and obligation**<br>
-18-30years of age for men and women for voluntary military service; high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2023)<br>
+18-24 years of age for men and women for voluntary military service (2025)<br>
 
 **Military deployments**<br>
 750 Democratic Republic of the Congo (MONUSCO) (2025)<br>

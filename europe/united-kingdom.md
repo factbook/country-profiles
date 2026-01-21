@@ -106,21 +106,21 @@ _elderly dependency ratio_: 30.2 (2024 est.)<br>
 _potential support ratio_: 3.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 40.8 years (2024 est.)<br>
+_total_: 40.9 years (2025 est.)<br>
 _male_: 40.1 years<br>
 _female_: 41.5 years<br>
 
 **Population growth rate**<br>
-0.45% (2024 est.)<br>
+0.4% (2025 est.)<br>
 
 **Birth rate**<br>
-10.8 births/1,000 population (2024 est.)<br>
+10.76 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9.2 deaths/1,000 population (2024 est.)<br>
+9.25 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-2.9 migrant(s)/1,000 population (2024 est.)<br>
+2.52 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the core of the population lies in and around London, with significant clusters found in central Britain around Manchester and Liverpool, in the Scottish lowlands between Edinburgh and Glasgow, in southern Wales in and around Cardiff, and in far-eastern Northern Ireland, centered on Belfast<br>
@@ -147,7 +147,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 8 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.8 deaths/1,000 live births (2024 est.)<br>
+_total_: 3.7 deaths/1,000 live births (2025 est.)<br>
 _male_: 4.2 deaths/1,000 live births<br>
 _female_: 3.3 deaths/1,000 live births<br>
 
@@ -157,10 +157,10 @@ _male_: 80.1 years<br>
 _female_: 84.4 years<br>
 
 **Total fertility rate**<br>
-1.63 children born/woman (2024 est.)<br>
+1.64 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.8 (2024 est.)<br>
+0.8 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -207,7 +207,7 @@ _female_: 9.8% (2025 est.)<br>
 0.6% (2019 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-50.7% (2023 est.)<br>
+49.7% (2021 est.)<br>
 
 **Child marriage**<br>
 _women married by age 18_: 0% (2021)<br>
@@ -683,7 +683,7 @@ approximately 138,000 Regular Forces (75,000 Army including the Gurkhas; 32,000 
 <strong>note: </strong>the military also maintains approximately 40-45,000 reserves and other personnel on active duty<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the British military is comprised mostly of domestically produced weapons and equipment, with a smaller mix of some imported Western weapons systems, particularly from the US; the UK defense industry is capable of producing a wide variety of air, land, and sea weapons systems and is one of the world's top weapons suppliers; it also cooperates with other European countries and the US in the research and development of weapons systems (2025)<br>
+the British military's inventory is comprised of domestically produced armaments and imported Western weapons systems, particularly from the US; the UK defense industry is capable of producing air, land, and sea weapons systems and is one of the world's top weapons suppliers; it also cooperates with other European countries, as well as Australia and the US, in the research and development of weapons systems (2025)<br>
 
 **Military service age and obligation**<br>
 some variations by service, but generally 16-36 years of age for enlisted (with parental consent under 18) and 18-29 for officers; minimum length of service 4 years; women serve in all military services including combat roles; conscription abolished in 1963 (2024)<br>

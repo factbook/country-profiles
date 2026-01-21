@@ -111,21 +111,21 @@ _elderly dependency ratio_: 32.2 (2024 est.)<br>
 _potential support ratio_: 3.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 44.2 years (2024 est.)<br>
+_total_: 44.4 years (2025 est.)<br>
 _male_: 42.7 years<br>
 _female_: 45.7 years<br>
 
 **Population growth rate**<br>
-0.04% (2024 est.)<br>
+-0.02% (2025 est.)<br>
 
 **Birth rate**<br>
-9.8 births/1,000 population (2024 est.)<br>
+9.56 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-12 deaths/1,000 population (2024 est.)<br>
+11.82 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-2.7 migrant(s)/1,000 population (2024 est.)<br>
+2.02 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations<br>
@@ -151,7 +151,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 3 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.6 deaths/1,000 live births (2024 est.)<br>
+_total_: 2.5 deaths/1,000 live births (2025 est.)<br>
 _male_: 2.7 deaths/1,000 live births<br>
 _female_: 2.4 deaths/1,000 live births<br>
 
@@ -161,10 +161,10 @@ _male_: 75.6 years<br>
 _female_: 81.8 years<br>
 
 **Total fertility rate**<br>
-1.73 children born/woman (2024 est.)<br>
+1.73 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.85 (2024 est.)<br>
+0.84 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.9% of population (2022 est.)<br>
@@ -208,7 +208,7 @@ _male_: 30.8% (2025 est.)<br>
 _female_: 23% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-48.4% (2023 est.)<br>
+53.7% (2021 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.3% of GDP (2022 est.)<br>
@@ -608,8 +608,8 @@ _total subscriptions_: 1.197 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 11 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 13.6 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 128 (2022 est.)<br>
+_total subscriptions_: 13,620,800 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 127 (2024 est.)<br>
 
 **Broadcast media**<br>
 22 national TV stations, with 17 privately owned; publicly operated Czech Television has 5 national channels; over 350 TV channels, many through cable, satellite, and IPTV subscription services; 63 radio broadcasters operate over 80 radio stations, including 7 multiregional radio stations or networks; publicly owned broadcaster Czech Radio operates 4 national, 14 regional, and 4 Internet stations; both Czech Radio and Czech Television are partly financed through a license fee (2019)<br>
@@ -642,7 +642,6 @@ _total_: 9,548 km (2020) 3,242 km electrified<br>
 
 **Military and security forces**<br>
 Czech Armed Forces: Land Forces, Air Force, Special Forces (2025)<br>
-also has Cyber Command, Territorial Command, Operations Command, plus commands for Land Forces and Air Forces<br>
 
 **Military expenditures**<br>
 2% of GDP (2025 est.)<br>
@@ -652,14 +651,14 @@ also has Cyber Command, Territorial Command, Operations Command, plus commands f
 1.4% of GDP (2021 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 30,000 active-duty military personnel (2025)<br>
+approximately 28,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Czech military has a mix of domestically produced, Soviet-era, and more recently acquired modern weapons and equipment from such suppliers as Austria, Germany, Sweden, and the US; its domestic defense industry has produced such items as armored combat vehicles and light attack aircraft; during the Cold War, Czechoslovakia was a major producer of tanks, armored personnel carriers, military trucks, and trainer aircraft (2024)<br>
-<strong>note:</strong> in 2019, Czechia announced a modernization plan to acquire more Western equipment that was compliant with NATO standards, including armored vehicles, fighter aircraft, and helicopters<br>
+the Czech military has a mix of domestically produced, Soviet-era, and more recently acquired modern weapons and equipment from such suppliers as France, Germany, Italy, Sweden, and the US; its domestic defense industry produces such items as armored combat vehicles and light attack aircraft (2025)<br>
+<strong>note 1:</strong> in 2019, Czechia announced a modernization plan to acquire more Western equipment that was compliant with NATO standards, including armored vehicles, fighter aircraft, and helicopters<br><br><strong>note 2:</strong> during the Cold War, Czechoslovakia was a major producer of armored personnel carriers, military trucks, tanks, and trainer aircraft<br>
 
 **Military service age and obligation**<br>
-18-28 years of age for voluntary military service for men and women; conscription abolished 2004 (2024)<br>
+18-28 years of age for voluntary military service for men and women; conscription abolished 2004 (2025)<br>
 <strong>note: </strong>as of 2023, women comprised nearly 14% of the military's full-time personnel<br>
 
 **Military deployments**<br>

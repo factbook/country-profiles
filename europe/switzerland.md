@@ -114,21 +114,21 @@ _elderly dependency ratio_: 31.5 (2024 est.)<br>
 _potential support ratio_: 3.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 44.2 years (2024 est.)<br>
+_total_: 44.4 years (2025 est.)<br>
 _male_: 43.5 years<br>
 _female_: 44.9 years<br>
 
 **Population growth rate**<br>
-0.75% (2024 est.)<br>
+0.72% (2025 est.)<br>
 
 **Birth rate**<br>
-10.1 births/1,000 population (2024 est.)<br>
+10.01 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.5 deaths/1,000 population (2024 est.)<br>
+8.61 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-5.9 migrant(s)/1,000 population (2024 est.)<br>
+5.79 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population distribution corresponds to elevation, with the northern and western areas far more heavily populated; the higher Alps of the south limit settlement<br>
@@ -154,7 +154,7 @@ _total population_: 0.99 male(s)/female (2024 est.)<br>
 5 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3 deaths/1,000 live births (2024 est.)<br>
+_total_: 3 deaths/1,000 live births (2025 est.)<br>
 _male_: 3.4 deaths/1,000 live births<br>
 _female_: 2.5 deaths/1,000 live births<br>
 
@@ -164,10 +164,10 @@ _male_: 82 years<br>
 _female_: 85.8 years<br>
 
 **Total fertility rate**<br>
-1.59 children born/woman (2024 est.)<br>
+1.59 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.77 (2024 est.)<br>
+0.78 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -211,7 +211,7 @@ _male_: 25.5% (2025 est.)<br>
 _female_: 20.1% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-57.5% (2023 est.)<br>
+57.5% (2022 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.9% of GDP (2022 est.)<br>
@@ -311,8 +311,8 @@ _residency requirement for naturalization_: 12 years including at least 3 of the
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President of the Swiss Confederation Karin KELLER-SUTTER (since 1 January 2025)<br>
-_head of government_: President of the Swiss Confederation Karin KELLER-SUTTER (since 1 January 2025)<br>
+_chief of state_: President of the Swiss Confederation Guy PARMELIN (since 1 January 2026)<br>
+_head of government_: President of the Swiss Confederation Guy PARMELIN (since 1 January 2026)<br>
 _cabinet_: Federal Council or Bundesrat (in German), Conseil Federal (in French), Consiglio Federale (in Italian) indirectly elected by the Federal Assembly for a 4-year term<br>
 _election/appointment process_: president and vice president elected by the Federal Assembly from among members of the Federal Council for a 1-year, non-consecutive term<br>
 _most recent election date_: 11 December 2024<br>
@@ -365,7 +365,7 @@ _consulate(s) general_: Atlanta, Chicago, New York, San Francisco<br>
 _consulate(s)_: Boston<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Bradford BELL (since January 2025) note - also accredited to Liechtenstein<br>
+_chief of mission_: Ambassador Callista GINGRICH (since 23 October 2025) note - also accredited to Liechtenstein<br>
 _embassy_: Sulgeneckstrasse 19, CH-3007 Bern<br>
 _mailing address_: 5110 Bern Place, Washington DC&nbsp; 20521-5110<br>
 _telephone_: [41] (031) 357-70-11<br>
@@ -646,7 +646,7 @@ _by type_: bulk carrier 14, general cargo 1, other 2 (includes Liechtenstein)<br
 ## Military and Security
 
 **Military and security forces**<br>
-Swiss Armed Forces (aka Swiss Army or Schweizer Armee); Army (aka Land Forces), Swiss Air Force  (2025)<br>
+Swiss Armed Forces (aka Swiss Army or Schweizer Armee); Army (aka Land Forces), Swiss Air Force (2025)<br>
 <strong>note:</strong> the federal police maintain internal security and report to the Federal Department of Justice and Police<br>
 
 **Military expenditures**<br>
@@ -661,7 +661,7 @@ approximately 145,000 Swiss Armed Forces (2024)<br>
 <strong>note:</strong> the strength figures include professional cadre (approximately 20,000 personnel), people awaiting or participating in mandatory annual training, and people who have already completed their training service obligation<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a mix of domestically produced and imported European and US weapons systems; the Swiss defense industry produces a range of military land vehicles (2024)<br>
+the military's inventory includes a mix of domestically produced and imported European and US weapons systems; the Swiss defense industry produces a range of military land vehicles (2025)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for compulsory military service for men; 18 years of age for voluntary military service for men and women; every Swiss male has to serve at least 245 days in the armed forces; conscripts receive 18 weeks of mandatory training, followed by six 19-day intermittent recalls for training during the next 10 years (2024)<br>

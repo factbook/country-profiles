@@ -109,21 +109,21 @@ _potential support ratio_: 3.4 (2024 est.)<br>
 <strong>note:</strong> data include Svalbard and Jan Mayen Islands<br>
 
 **Median age**<br>
-_total_: 40.8 years (2024 est.)<br>
+_total_: 41 years (2025 est.)<br>
 _male_: 40.1 years<br>
 _female_: 41.5 years<br>
 
 **Population growth rate**<br>
-0.59% (2024 est.)<br>
+0.57% (2025 est.)<br>
 
 **Birth rate**<br>
-10.4 births/1,000 population (2024 est.)<br>
+10.35 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.4 deaths/1,000 population (2024 est.)<br>
+8.6 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-3.9 migrant(s)/1,000 population (2024 est.)<br>
+3.98 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most people live in the south; population clusters are found along the North Sea coast in the southwest and Skaggerak in the southeast; the interior areas of the north remain sparsely populated<br>
@@ -151,7 +151,7 @@ _total population_: 1.02 male(s)/female (2024 est.)<br>
 1 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.8 deaths/1,000 live births (2024 est.)<br>
+_total_: 1.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 2.1 deaths/1,000 live births<br>
 _female_: 1.5 deaths/1,000 live births<br>
 
@@ -161,10 +161,10 @@ _male_: 81.3 years<br>
 _female_: 84.6 years<br>
 
 **Total fertility rate**<br>
-1.57 children born/woman (2024 est.)<br>
+1.58 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.77 (2024 est.)<br>
+0.77 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -208,7 +208,7 @@ _male_: 12.6% (2025 est.)<br>
 _female_: 11.3% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-50.2% (2023 est.)<br>
+57.4% (2021 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0% (2022)<br>
@@ -662,11 +662,11 @@ Norwegian Armed Forces (Forsvaret or "the Defense"): Norwegian Army (Haeren), Ro
 approximately 27,000 active military personnel; approximately 40,000 Home Guard (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a mix of modern, imported Western European and US, as well as domestically produced weapons systems and equipment; in 2024, the Norwegian Government announced a new long-term defense plan which would double defense spending by the mid-2030s with priorities placed in such areas as the acquisition of air defenses and naval capabilities; Norway has a defense industry with a focus in niche capabilities and participates in joint development and production of weapons systems with other European countries (2025)<br>
+the military has an inventory of modern, domestically produced and imported Western European and US armaments; Norway's defense industry participates in joint development and production of weapons systems with other European countries (2025)<br>
 
 **Military service age and obligation**<br>
-19-35 years of age for selective compulsory military service for men and women; 17 years of age for male volunteers; 18 years of age for women volunteers; 12-19 month service obligation; conscripts first serve 12 months between the ages of 19 and 28, and then up to 4-5 refresher training periods until age 35, 44, 55, or 60 depending on rank and function (2024)<br>
-<strong>note 1: </strong>Norway has had compulsory military service since 1907; individuals conscripted each year are selected from a larger cohort who are evaluated through online assessments and physical tests<br><br><strong>note 2:</strong> Norway was the first NATO country to allow women to serve in all combat arms branches of the military (1985); it also has an all-female special operations unit known as Jegertroppen (The Hunter Troop), which was established in 2014; as of 2023, women comprised about 20% of the military's full-time personnel<br><br><strong>note 3:</strong> beginning in 1995, the military began offering Icelandic citizens the opportunity to apply for admission to officer schools in Norway with an associated education and service contract under special reasons and based on recommendations from Icelandic authorities; as early as 1996, Norway and Iceland entered into a cooperation agreement on the voluntary participation of Icelandic personnel in Norwegian force contributions in foreign operations<br>
+17 (men) or 18 (women) for voluntary military service; all Norwegian citizens 19-44 are subject to selective compulsory military service; 19-month service obligation for those selected (12 months plus 4-5 refresher training periods) (2025)<br>
+<strong>note 1: </strong>Norway has had compulsory military service since 1907; individuals conscripted each year are selected from a larger cohort who are evaluated through online assessments and physical tests<br><br><strong>note 2:</strong> Norway was the first NATO country to allow women to serve in all combat arms branches of the military (1985); it also has an all-female special operations unit known as Jegertroppen (The Hunter Troop), which was established in 2014<br>
 
 **Military deployments**<br>
 around 100 Lithuania (NATO); Norway also deploys air and naval assets in support of other NATO operations (2025)<br>

@@ -5,7 +5,7 @@ _South Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>During the late 18th and early 19th centuries, the principality of Gorkha united many of the other principalities and states of the sub-Himalayan region into a Nepali Kingdom. Nepal retained its independence after the Anglo-Nepalese War of 1814-16, and the subsequent peace treaty laid the foundations for two centuries of amicable relations between Britain and Nepal. In 1951, the Nepali monarch ended the century-old system of hereditary rule and instituted a cabinet system that brought political parties into the government. That arrangement lasted until 1960, when political parties were again banned, but it was reinstated in 1990 with the establishment of a multiparty democracy within the framework of a constitutional monarchy.</p> <p>A Maoist-led insurgency broke out in 1996. During the ensuing 10-year civil war between Maoist and government forces, the monarchy dissolved the cabinet and parliament. In 2001, Crown Prince DIPENDRA first massacred the royal family and then shot himself. His brother GYANENDRA became king, and the monarchy reassumed absolute power the next year. A peace accord in 2006 led to the promulgation of an interim constitution in 2007. After a nationwide Constituent Assembly (CA) election in 2008, the newly formed CA declared Nepal a federal democratic republic, abolished the monarchy, and elected the country's first president. <br><br>When the CA failed to draft a Supreme Court-mandated constitution, then-Prime Minister Baburam BHATTARAI dissolved the CA. An interim government held elections in 2013, in which the Nepali Congress (NC) won the largest share of seats. In 2014, NC formed a coalition government with the second-place Communist Party of Nepal-Unified Marxist-Leninist (UML). Nepal's new constitution came into effect in 2015, at which point the CA became the Parliament and Khagda Prasad Sharma OLI the first post-constitution prime minister (2015-16). He resigned ahead of a no-confidence motion, and Parliament elected Communist Party of Nepal-Maoist (CPN-M) leader Pushpa Kamal DAHAL as prime minister. <br><br>The parties headed by OLI and DAHAL ran in coalition and swept the parliamentary elections in 2017, and OLI was sworn in as prime minister in 2018. OLI's efforts to dissolve parliament and hold elections were declared unconstitutional in 2021, and the opposition-supported NC leader Sher Bahadur DEUBA was named prime minister. The NC won a majority of seats in the parliamentary elections in 2022, but DAHAL then broke with the ruling coalition and partnered with OLI and the CPN-UML to become prime minister. DAHAL's first cabinet lasted about two months, until OLI withdrew his support over disagreements about ministerial assignments. In early 2023, DAHAL survived a vote of confidence and formed a coalition with the NC to remain prime minister.</p><br>
+<p>During the late 18th and early 19th centuries, the principality of Gorkha united many of the other principalities and states of the sub-Himalayan region into a Nepali Kingdom. Nepal retained its independence after the Anglo-Nepalese War of 1814-16, and the subsequent peace treaty laid the foundations for two centuries of amicable relations between Britain and Nepal. In 1951, the Nepali monarch ended the century-old system of hereditary rule and instituted a cabinet system that brought political parties into the government. That arrangement lasted until 1960, when political parties were again banned, but it was reinstated in 1990 with the establishment of a multiparty democracy within the framework of a constitutional monarchy.</p> <p>A Maoist-led insurgency broke out in 1996. During the ensuing 10-year civil war between Maoist and government forces, the monarchy dissolved the cabinet and parliament. In 2001, Crown Prince DIPENDRA first massacred the royal family and then shot himself. His uncle GYANENDRA became king, and the monarchy reassumed absolute power the next year. A peace accord in 2006 led to the promulgation of an interim constitution in 2007. After a nationwide Constituent Assembly (CA) election in 2008, the newly formed CA declared Nepal a federal democratic republic, abolished the monarchy, and elected the country's first president. <br><br>When the CA failed to draft a Supreme Court-mandated constitution, then-Prime Minister Baburam BHATTARAI dissolved the CA. An interim government held elections in 2013, in which the Nepali Congress (NC) won the largest share of seats. In 2014, NC formed a coalition government with the second-place Communist Party of Nepal-Unified Marxist-Leninist (UML). Nepal's new constitution came into effect in 2015, at which point the CA became the Parliament and Khagda Prasad Sharma OLI the first post-constitution prime minister (2015-16). He resigned ahead of a no-confidence motion, and Parliament elected Communist Party of Nepal-Maoist (CPN-M) leader Pushpa Kamal DAHAL as prime minister. <br><br>The parties headed by OLI and DAHAL ran in coalition and swept the parliamentary elections in 2017, and OLI was sworn in as prime minister in 2018. OLI's efforts to dissolve parliament and hold elections were declared unconstitutional in 2021, and the opposition-supported NC leader Sher Bahadur DEUBA was named prime minister. The NC won a majority of seats in the parliamentary elections in 2022, but DAHAL then broke with the ruling coalition and partnered with OLI and the CPN-UML to become prime minister. DAHAL's first cabinet lasted about two months, until OLI withdrew his support over disagreements about ministerial assignments. In early 2023, DAHAL survived a vote of confidence and formed a coalition with the NC to remain prime minister.</p><br>
 
 ## Geography
 
@@ -97,7 +97,7 @@ _major-language sample(s)_: <br>विश्व तथ्य पुस्तक,
 <strong>note:</strong> 123 languages reported as mother tongue in 2021 national census; many in government and business also speak English<br>
 
 **Religions**<br>
-Hindu 81.2%, Buddhist 8.2%, Muslim 5.1%, Kirat 3.2%, Christian 1.8%, other 0.5% (2021 est.)<br>
+Hindu 81.2%, Buddhist 8.2%, Muslim 5.1%, Kirat 3.2%, Christian 1.8%; less than 1%:&nbsp; Prakriti, Bon, Jains, Sikh (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 25.8% (male 4,125,244/female 3,909,135)<br>
@@ -111,21 +111,21 @@ _elderly dependency ratio_: 9.4 (2024 est.)<br>
 _potential support ratio_: 10.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 27.6 years (2024 est.)<br>
+_total_: 28.1 years (2025 est.)<br>
 _male_: 26.5 years<br>
 _female_: 28.6 years<br>
 
 **Population growth rate**<br>
-0.7% (2024 est.)<br>
+0.66% (2025 est.)<br>
 
 **Birth rate**<br>
-17 births/1,000 population (2024 est.)<br>
+16.66 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.6 deaths/1,000 population (2024 est.)<br>
+5.62 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--4.4 migrant(s)/1,000 population (2024 est.)<br>
+-4.46 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the population is divided nearly equally between a concentration in the southern-most plains of the Tarai region and the central hilly region; overall density is low<br>
@@ -152,7 +152,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 142 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 24 deaths/1,000 live births (2024 est.)<br>
+_total_: 23.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 25.2 deaths/1,000 live births<br>
 _female_: 22.7 deaths/1,000 live births<br>
 
@@ -162,10 +162,10 @@ _male_: 72.2 years<br>
 _female_: 73.7 years<br>
 
 **Total fertility rate**<br>
-1.85 children born/woman (2024 est.)<br>
+1.82 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.9 (2024 est.)<br>
+0.88 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 90% of population (2022 est.)<br>
@@ -212,7 +212,7 @@ _female_: 7.6% (2025 est.)<br>
 18.3% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-74.6% (2023 est.)<br>
+75.1% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 5.8% (2022)<br>
@@ -323,7 +323,7 @@ _head of government_: Prime Minister Sushila KARKI; note - KARKI was sworn in as
 _cabinet_: Council of Ministers appointed by the prime minister; cabinet positions shared among Nepali Congress, Communist Party of Nepal-Maoist Centre, and various coalition partners<br>
 _election/appointment process_: president indirectly elected by an electoral college of the Federal Parliament and the state assemblies for a 5-year term (eligible for a second term)<br>
 _most recent election date_: 9 March 2023<br>
-_election results_: <em><br>2023:</em> Ram Chandra POUDEL elected president; electoral college vote - Ram Chandra POUDEL (NC) 33,802, Subash Chandra NEMBANG (CPN-UML) 15,518<br><br><em>2018:</em> Bidhya Devi BHANDARI reelected president; electoral vote - Bidhya Devi BHANDARI (CPN-UML) 39,275, Kumari Laxmi RAI (NC) 11,730<br>
+_election results_: <em><br>2023:</em> Ram Chandra POUDEL elected president; electoral college vote - Ram Chandra POUDEL (NC) 33,802, Subash Chandra NEMBANG (CPN-UML) 15,518<br>
 _expected date of next election_: 5 March 2026<br>
 
 **Legislative branch**<br>
@@ -650,14 +650,13 @@ Nepalese Armed Forces (Ministry of Defense): Nepali Army (includes Air Wing)<br>
 approximately 95,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Army's inventory includes a mix of mostly older equipment largely of British, Chinese, Indian, Russian, and South African origin; in recent years, Nepal has received limited amounts of newer hardware from several countries, including China, Indonesia, Italy, and Russia (2023)<br>
+the Army's inventory includes a mix of mostly older equipment largely of British, Chinese, Indian, Russian, and South African origin; in recent years, Nepal has received limited amounts of newer hardware from several countries, including China, Indonesia, Italy, and Russia (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women; no conscription (2023)<br>
-<strong>note:</strong> as of 2023, about 7,000 women served in the Nepalese Armed Forces<br>
+18 years of age for voluntary military service for men and women; upper age limit varies; no conscription&nbsp; (2025)<br>
 
 **Military deployments**<br>
-1240 Central African Republic (MINUSCA); 1,150 Democratic Republic of the Congo (MONUSCO); 400 Golan Heights (UNDOF); 875 Lebanon (UNIFIL); 225 Liberia (UNSMIL); 100 South Sudan/Sudan (UNISFA); 1,725 (plus about 220 police) South Sudan (UNMISS); note - Nepal has over 6,000 total personnel deployed on 15 UN missions (2024)<br>
+1240 Central African Republic (MINUSCA); 1,150 Democratic Republic of the Congo (MONUSCO); 440 Golan Heights (UNDOF); 875 Lebanon (UNIFIL); 225 Liberia (UNSMIL); 100 South Sudan/Sudan (UNISFA); 1,750 (plus about 200 police) South Sudan (UNMISS) (2025)<br>
 
 **Military - note**<br>
 the Nepali Army is responsible for territorial defense, fulfilling Nepal's commitments to UN peacekeeping, and some domestic duties such as disaster relief/humanitarian assistance, social services, and nature conservation efforts; during the 10-year civil war that ended in 2006, it conducted counterinsurgency operations against Maoist guerrillas; the Army has a long history of supporting UN missions, having sent its first UN observers to Lebanon in 1958 and its first troop contingent to Egypt in 1974; as of 2025, 150,000 Nepali military personnel have deployed on over 40 UN missions; Nepal's key security partners are China, India, and the US<br><br>the British began to recruit Nepalese citizens (Gurkhas) into the East India Company Army during the Anglo-Nepalese War (1814-1816); the Gurkhas subsequently were brought into the British Indian Army and by 1914, there were 10 Gurkha regiments, collectively known as the Gurkha Brigade; following the partition of India in 1947, an agreement between Nepal, India, and Great Britain allowed for the transfer of the 10 regiments from the British Indian Army to the separate British and Indian armies; four regiments were transferred to the British Army, where they have since served continuously as the Brigade of Gurkhas; six Gurkha (aka Gorkha in India) regiments went to the new Indian Army; a seventh regiment was later added; Gurkhas are also recruited into the Singaporean Police and a special guard in the Sultanate of Brunei known as the Gurkha Reserve Unit (2025)<br>

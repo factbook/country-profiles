@@ -119,21 +119,21 @@ _elderly dependency ratio_: 9.9 (2024 est.)<br>
 _potential support ratio_: 10.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 29.8 years (2024 est.)<br>
+_total_: 30.1 years (2025 est.)<br>
 _male_: 29.1 years<br>
 _female_: 30.5 years<br>
 
 **Population growth rate**<br>
-0.72% (2024 est.)<br>
+0.72% (2025 est.)<br>
 
 **Birth rate**<br>
-16.2 births/1,000 population (2024 est.)<br>
+15.91 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9.1 deaths/1,000 population (2024 est.)<br>
+8.7 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0.1 migrant(s)/1,000 population (2024 est.)<br>
+0.03 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 a very high population density exists throughout most of the country, with the notable exception of the deserts in the northwest and the mountain fringe in the north; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations<br>
@@ -160,7 +160,7 @@ _total population_: 1.06 male(s)/female (2024 est.)<br>
 80 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 30.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 30.5 deaths/1,000 live births (2025 est.)<br>
 _male_: 30 deaths/1,000 live births<br>
 _female_: 30.8 deaths/1,000 live births<br>
 
@@ -170,10 +170,10 @@ _male_: 66.5 years<br>
 _female_: 70.1 years<br>
 
 **Total fertility rate**<br>
-2.03 children born/woman (2024 est.)<br>
+2 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.97 (2024 est.)<br>
+0.95 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 95.8% of population (2022 est.)<br>
@@ -220,7 +220,7 @@ _female_: 8.9% (2025 est.)<br>
 31.5% (2020 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-72.6% (2023 est.)<br>
+72.3% (2020 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 4.8% (2021)<br>
@@ -339,7 +339,7 @@ _head of government_: Prime Minister Narendra MODI (since 26 May 2014)<br>
 _cabinet_: Union Council of Ministers recommended by the prime minister, appointed by the president<br>
 _election/appointment process_: president indirectly elected for a 5-year term (no term limits) by an electoral college consisting of elected members of both houses of Parliament; vice president indirectly elected for a 5-year term (no term limits) by an electoral college consisting of elected members of both houses of Parliament; following legislative elections, the prime minister is elected by Lok Sabha members of the majority party<br>
 _most recent election date_: <em>president: </em>18 July 2022<br><br><em>vice president: </em>5 August 2022<br>
-_election results_: <br><em>2022:</em> Droupadi MURMU elected president; percent of electoral college vote - Droupadi MURMU (BJP) 64%, Yashwant SINHA (AITC) 35.9%; Jagdeep DHANKHAR elected vice president; percent of electoral college vote - Jagdeep DHANKHAR (BJP) 74.4%, Margaret ALVA (INC) 25.6%<br><br><em>2017:</em> Ram Nath KOVIND elected president; percent of electoral college vote - Ram Nath KOVIND (BJP) 65.6%, Meira KUMAR (INC) 34.4%; Venkaiah NAIDU elected vice president; percent of electoral college vote - Venkaiah NAIDU (BJP) 67.9%, Gopal-krishna GANDHI 32.1%<br>
+_election results_: <br><em>2022:</em> Droupadi MURMU elected president; percent of electoral college vote - Droupadi MURMU (BJP) 64%, Yashwant SINHA (AITC) 35.9%; Jagdeep DHANKHAR elected vice president; percent of electoral college vote - Jagdeep DHANKHAR (BJP) 74.4%, Margaret ALVA (INC) 25.6%<br>
 _expected date of next election_: <em>president: </em>July 2027<br><br><em>vice president: </em>August 2027<br>
 
 **Legislative branch**<br>
@@ -699,11 +699,11 @@ Indian Armed Forces (IAF): Army, Navy, Air Force, Coast Guard<br><br>Ministry of
 information varies; approximately 1.5 million active Indian Armed Forces, including about 1.25 million in the Army (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-much of the military's inventory consists of Russian- and Soviet-origin equipment along with a smaller, but growing mix of Western and domestically produced arms; Russia continues to be the leading provider of arms to India, although in recent years India has increased acquisitions from other suppliers, including France, Israel, and the US; India's defense industry is capable of producing a range of air, land, missile, and naval weapons systems for both domestic use and export; it also produces weapons systems under license (2024)<br>
+the military's inventory consists of Russian- and Soviet-origin equipment along with a smaller mix of Western and domestically produced arms; Russia continues to be the leading provider of arms to India, although in recent years India has increased acquisitions from other suppliers, including France, Israel, the UK, and the US; India's defense industry is capable of producing a range of air, land, missile, and naval weapons systems for both domestic use and export; it also produces weapons systems under license (2025)<br>
 
 **Military service age and obligation**<br>
-ages vary by service, but generally 16.5-27 years of age for voluntary military service for men and women; no conscription (2023)<br>
-<strong>note 1:</strong> in 2022, the Indian Government began recruiting men aged 17.5-21 annually to serve on 4-year contracts; at the end of their tenure, 25% would be retained for longer terms of service, while the remainder would be forced to leave the military, although some of those leaving would be eligible to serve in the Coast Guard, the Merchant Navy, civilian positions in the Ministry of Defense, and in the paramilitary forces of the Ministry of Home Affairs<br><br><strong>note 2: </strong>as of 2023, women made up less than 1% of the Army, about 1% of the Air Force, and about 6% of the Navy <br><br><strong>note 3: </strong>the Indian military accepts citizens of Nepal and Bhutan; descendants of refugees from Tibet who arrived before 1962 and have resided permanently in India; peoples of Indian origin from nations such as Burma, the Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Pakistan, Sri Lanka, Tanzania, Uganda, and Vietnam with the intention of permanently settling in India; eligible candidates from “friendly foreign nations” may apply to the Armed Forces Medical Services <br><br><strong>note 4:</strong> the British began to recruit Nepalese citizens (Gurkhas) into the East India Company Army during the Anglo-Nepalese War (1814-1816), and the Gurkhas subsequently were brought into the British Indian Army; following the partition of India in 1947, an agreement between Nepal, India, and Great Britain allowed for the transfer of the 10 regiments from the British Indian Army to the separate British and Indian armies; six regiments of Gurkhas (aka Gorkhas in India) regiments went to the new Indian Army; a seventh regiment was later added<br>
+ages vary by branch of service and positions, but generally 17-27 years of age for voluntary military service for men and women; no conscription (2025)<br>
+<strong>note 1:</strong> in 2022, the Indian Government began recruiting men aged 17.5-21 annually to serve on 4-year contracts; at the end of their tenure, 25% would be retained for longer terms of service, while the remainder would be forced to leave the military, although some of those leaving would be eligible to serve in the Coast Guard, the Merchant Navy, civilian positions in the Ministry of Defense, and in the paramilitary forces of the Ministry of Home Affairs<br><br><strong>note 2: </strong>the Indian military accepts citizens of Nepal and Bhutan; descendants of refugees from Tibet who arrived before 1962 and have resided permanently in India; peoples of Indian origin from nations such as Burma, the Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Pakistan, Sri Lanka, Tanzania, Uganda, and Vietnam with the intention of permanently settling in India; eligible candidates from “friendly foreign nations” may apply to the Armed Forces Medical Services <br><br><strong>note 3:</strong> the British began to recruit Nepalese citizens (Gurkhas) into the East India Company Army during the Anglo-Nepalese War (1814-1816), and the Gurkhas subsequently were brought into the British Indian Army; following the partition of India in 1947, an agreement between Nepal, India, and Great Britain allowed for the transfer of the 10 regiments from the British Indian Army to the separate British and Indian armies; six regiments of Gurkhas (aka Gorkhas in India) regiments went to the new Indian Army; a seventh regiment was later added<br>
 
 **Military deployments**<br>
 1,100 Democratic Republic of the Congo (MONUSCO); 200 Golan Heights (UNDOF); 900 Lebanon (UNIFIL); 2,400 South Sudan (UNMISS); 600 Sudan (UNISFA) (2025)<br>

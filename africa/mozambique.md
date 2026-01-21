@@ -98,7 +98,7 @@ African 99% (Makhuwa, Tsonga, Lomwe, Sena, and others), Mestizo 0.8%, other (inc
 Makhuwa 26.1%, Portuguese (official) 16.6%, Tsonga 8.6%, Nyanja 8.1, Sena 7.1%, Lomwe 7.1%, Chuwabo 4.7%, Ndau 3.8%, Tswa 3.8%, other Mozambican languages 11.8%, other 0.5%, unspecified 1.8% (2017 est.)<br>
 
 **Religions**<br>
-Roman Catholic 27.2%, Muslim 18.9%, Zionist Christian 15.6%, Evangelical/Pentecostal 15.3%, Anglican 1.7%, other 4.8%, none 13.9%, unspecified 2.5% (2017 est.)<br>
+Catholic 27.3%, Islam 19.1%, Pentecostal 16.7%, Saio/Zione 16.3%, no religion 13.5%, other 4.3%, Anglican 1.7%, unknown 1.2% (2017 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 44.7% (male 7,548,247/female 7,350,012)<br>
@@ -112,21 +112,21 @@ _elderly dependency ratio_: 5.5 (2024 est.)<br>
 _potential support ratio_: 18.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 17.3 years (2024 est.)<br>
+_total_: 17.4 years (2025 est.)<br>
 _male_: 16.7 years<br>
 _female_: 17.9 years<br>
 
 **Population growth rate**<br>
-2.54% (2024 est.)<br>
+2.53% (2025 est.)<br>
 
 **Birth rate**<br>
-36.5 births/1,000 population (2024 est.)<br>
+36.07 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-9.6 deaths/1,000 population (2024 est.)<br>
+9.34 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1.5 migrant(s)/1,000 population (2024 est.)<br>
+-1.46 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 three large population clusters are found along the southern coast between Maputo and Inhambane, in the central area between Beira and Chimoio along the Zambezi River, and in and around the northern cities of Nampula, Cidade de Nacala, and Pemba; the northwest and southwest are the least populated areas, as shown in this population distribution map<br>
@@ -153,7 +153,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 82 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 58.2 deaths/1,000 live births (2024 est.)<br>
+_total_: 56.7 deaths/1,000 live births (2025 est.)<br>
 _male_: 60.1 deaths/1,000 live births<br>
 _female_: 56.2 deaths/1,000 live births<br>
 
@@ -163,10 +163,10 @@ _male_: 57.1 years<br>
 _female_: 59.6 years<br>
 
 **Total fertility rate**<br>
-4.66 children born/woman (2024 est.)<br>
+4.58 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-2.29 (2024 est.)<br>
+2.26 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 87.3% of population (2022 est.)<br>
@@ -213,7 +213,7 @@ _female_: 5.6% (2020 est.)<br>
 15.4% (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-63.7% (2023 est.)<br>
+64.8% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 16.8% (2015)<br>
@@ -601,8 +601,8 @@ _total subscriptions_: 29,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 15 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 42 (2022 est.)<br>
+_total subscriptions_: 17.1 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 50 (2024 est.)<br>
 
 **Broadcast media**<br>
 1 state-run TV station supplemented by a private TV station; Portuguese state TV's African service, RTP Africa, and Brazilian-owned TV Miramar are available; state-run radio provides nearly 100% territorial coverage and broadcasts in multiple languages; a number of privately owned and community-operated stations; transmissions of multiple international broadcasters are available (2019)<br>
@@ -659,10 +659,10 @@ Armed Forces for the Defense of Mozambique (Forcas Armadas de Defesa de Mocambiq
 estimated 12,000 active FADM (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FADM's inventory consists primarily of Russian and Soviet-era equipment, although in recent years it has received some more modern equipment from a variety of countries, mostly as aid/donations (2024)<br>
+the FADM's inventory consists primarily of Soviet-era armaments, although in recent years it has received some secondhand equipment from a number of countries, including India, South Africa, and the UAE, mostly as donations (2025)<br>
 
 **Military service age and obligation**<br>
-has conscription and voluntary service; registration for military service is mandatory for all men and women at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service for men and women; initial 60-month service obligation (2025)<br>
+registration for military service is mandatory for all men and women at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service for men and women; initial 60-month service obligation (2025)<br>
 
 **Military - note**<br>
 the FADM is responsible for external security, cooperating with police on internal security, and responding to natural disasters and other emergencies; the primary focus of the FADM is countering an insurgency in the northern province of Cabo Delgado by militants affiliated with the Islamic State of Iraq and ash-Sham terrorist group (ISIS-Mozambique; known locally as Ahl al-Sunna wal-Jama&lsquo;a); since 2017, the conflict has claimed an estimated 6,000 lives and displaced an estimated one million persons; at Mozambique's request, Rwanda and several southern African countries under the Southern Africa Development Community (SADC) deployed forces to Mozambique to combat the insurgency in 2021; the SADC forces departed in 2024; as of 2025, Rwanda continued to provide approximately 3,000 military and police personnel to assist Mozambican Defense and Security Forces, along with several hundred Tanzanian troops; the EU has also provided training assistance (2025)<br>

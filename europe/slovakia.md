@@ -110,21 +110,21 @@ _elderly dependency ratio_: 27.3 (2024 est.)<br>
 _potential support ratio_: 3.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 42.8 years (2024 est.)<br>
+_total_: 43.1 years (2025 est.)<br>
 _male_: 41.3 years<br>
 _female_: 44.4 years<br>
 
 **Population growth rate**<br>
--0.08% (2024 est.)<br>
+-0.07% (2025 est.)<br>
 
 **Birth rate**<br>
-10 births/1,000 population (2024 est.)<br>
+9.77 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-11.2 deaths/1,000 population (2024 est.)<br>
+11.18 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0.4 migrant(s)/1,000 population (2024 est.)<br>
+0.7 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country; slightly larger concentration in the west in proximity to the Czech border<br>
@@ -150,7 +150,7 @@ _total population_: 0.93 male(s)/female (2024 est.)<br>
 4 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 5 deaths/1,000 live births (2025 est.)<br>
 _male_: 5.7 deaths/1,000 live births<br>
 _female_: 4.5 deaths/1,000 live births<br>
 
@@ -160,10 +160,10 @@ _male_: 73.7 years<br>
 _female_: 81 years<br>
 
 **Total fertility rate**<br>
-1.6 children born/woman (2024 est.)<br>
+1.6 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.77 (2024 est.)<br>
+0.77 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.6% of population (2022 est.)<br>
@@ -207,7 +207,7 @@ _male_: 34.5% (2025 est.)<br>
 _female_: 26.3% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-47.9% (2023 est.)<br>
+49.2% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.7% of GDP (2022 est.)<br>
@@ -339,7 +339,7 @@ _subordinate courts_: regional and district civil courts; Special Criminal Court
 Direction - Social Democracy or SMER-SD<br>Freedom and Solidarity or SaS<br>Progressive Slovakia or PS<br>Republic<br>Slovakia<br>The Slovak National Party or SNS<br>The Christian Democratic Movement or KDH<br>Voice - Social Democracy or HLAS-SD<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Radovan JAVORČ&Iacute;K (since 18 January 2021)<br>
+_chief of mission_: Ambassador Andrej DROBA (since 16 December 2025)<br>
 _chancery_: 3523 International Court NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 237-1054<br>
 _FAX_: [1] (202) 237-6438<br>
@@ -642,14 +642,13 @@ Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Groun
 approximately 17,000 active-duty military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists mostly of Soviet-era platforms; in recent years it has imported limited quantities of more modern, NATO-compatible equipment, particularly from Italy and the US (2024)<br>
+the military's inventory is a mix of domestically produced, Soviet-era, and more modern/NATO-compatible armaments from suppliers such as Germany and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary military service for men and women; conscription in peacetime suspended in 2004 (2023)<br>
-<strong>note:</strong> as of 2021, women made up nearly 13% of the military's full-time personnel<br>
+minimum age is 18 for voluntary service for men and women; citizens 18-65 can volunteer for the military reserves (2026)<br>
 
 **Military deployments**<br>
-240 Cyprus (UNFICYP); up to 150 Latvia (NATO) (2024)<br>
+200 Cyprus (UNFICYP); up to 150 Latvia (NATO)&nbsp; (2025)<br>
 
 **Military - note**<br>
 the Slovak military is responsible for external defense and fulfilling Slovakia’s commitments to European and international security; Slovakia has been a member of both the EU and NATO since 2004; a key focus of the Slovak military is fulfilling the country’s security responsibilities to NATO, including modernizing and acquiring NATO-compatible equipment, participating in training exercises, and providing forces for security missions such as NATO’s Enhanced Forward Presence in the Baltic States; since 2022, Slovakia has hosted a multinational NATO ground force battlegroup as part of the NATO effort to boost the defenses of Eastern Europe since the Russian invasion of Ukraine; Slovakia also contributes to EU and UN peacekeeping missions<br><br>the Slovak Air Force has only a handful of fighter aircraft and is assisted by NATO’s air policing mission over Slovakia, which includes fighter aircraft from Czechia and Poland; in 2022, Slovakia signed a defense agreement with the US that allows the US to use two Slovak military air bases (2025)<br>

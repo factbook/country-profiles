@@ -103,7 +103,7 @@ _major-language sample(s)_: <br>دنیا کا قاموس، ایک لازمی ز�
 <strong>note:</strong> data represent population by mother tongue; English (official; lingua franca of Pakistani elite and most government ministries)<br>
 
 **Religions**<br>
-Islam (official) 96.5% (Sunni 85-90%, Shia 10-15%), other (includes Christian and Hindu) 3.5% (2020 est.)<br>
+Muslim 96.4%, Hindu 1.6%, Christian 1.4%; less than 1%: scheduled castes, Qadiani/Ahmadi, other, Sikh. (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 34.4% (male 44,330,669/female 42,529,007)<br>
@@ -117,21 +117,21 @@ _elderly dependency ratio_: 8.1 (2024 est.)<br>
 _potential support ratio_: 12.4 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 22.9 years (2024 est.)<br>
+_total_: 23.2 years (2025 est.)<br>
 _male_: 22.8 years<br>
 _female_: 23 years<br>
 
 **Population growth rate**<br>
-1.86% (2024 est.)<br>
+1.82% (2025 est.)<br>
 
 **Birth rate**<br>
-25.5 births/1,000 population (2024 est.)<br>
+25.05 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.9 deaths/1,000 population (2024 est.)<br>
+5.79 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1.1 migrant(s)/1,000 population (2024 est.)<br>
+-1.1 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the Indus River and its tributaries attract most of the settlement, with Punjab province the most densely populated<br>
@@ -158,7 +158,7 @@ _total population_: 1.04 male(s)/female (2024 est.)<br>
 155 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 51.5 deaths/1,000 live births (2024 est.)<br>
+_total_: 50.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 56 deaths/1,000 live births<br>
 _female_: 46.8 deaths/1,000 live births<br>
 
@@ -168,10 +168,10 @@ _male_: 68.2 years<br>
 _female_: 72.5 years<br>
 
 **Total fertility rate**<br>
-3.32 children born/woman (2024 est.)<br>
+3.25 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.62 (2024 est.)<br>
+1.59 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 92.9% of population (2022 est.)<br>
@@ -218,7 +218,7 @@ _female_: 5.4% (2025 est.)<br>
 23.1% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-63.5% (2023 est.)<br>
+63.4% (2018 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 3.6% (2018)<br>
@@ -338,7 +338,7 @@ _head of government_: Prime Minister Muhammad Shehbaz SHARIF (since 3 March 2024
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
 _election/appointment process_: president indirectly elected for a 5-year term (limited to 2 consecutive terms) by the Electoral College, which consists of members of the Senate, National Assembly, and provincial assemblies; prime minister elected for a 5-year term by the National Assembly<br>
 _most recent election date_: 9 March 2024<br>
-_election results_: <em><br>2024:</em> Asif Ali ZARDARI elected president; National Assembly vote - Asif Ali ZARDARI (PPP) 411 votes, Mehmood Khan ACHAKZALI (PMAP) 181 votes; Shehbaz SHARIF elected prime minister; National Assembly vote - Shehbaz SHARIF (PML-N) 201, Omar AYUB (PTI) 92<br><br><em>2018:</em> Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96<br>
+_election results_: <em><br>2024:</em> Asif Ali ZARDARI elected president; National Assembly vote - Asif Ali ZARDARI (PPP) 411 votes, Mehmood Khan ACHAKZALI (PMAP) 181 votes; Shehbaz SHARIF elected prime minister; National Assembly vote - Shehbaz SHARIF (PML-N) 201, Omar AYUB (PTI) 92<br>
 _expected date of next election_: 2029<br>
 
 **Legislative branch**<br>
@@ -693,16 +693,16 @@ Pakistan Armed Forces: Pakistan Army (includes National Guard), Pakistan Navy (i
 4% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 650,000 active Armed Forces (550,000 Army; 30,000 Navy; 70,000 Air Force) (2025)<br>
+approximately 650,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a broad mix of mostly imported and some domestically produced weapons and equipment; most of its imported weapons are from China; other suppliers include France, Russia, Turkey, Ukraine, the UK, and the US; Pakistan also has a large domestic defense industry, which produces or co-produces such items as armored vehicles, aircraft, missiles, naval vessels (2024)<br>
+the military's inventory is a mix of mostly imported and some domestically produced armaments; the majority of its imported weapons are from China; other suppliers include France, Russia, T&uuml;rkiye, Ukraine, the UK, and the US; Pakistan also has a domestic defense industry, which produces or co-produces such items as armored vehicles, aircraft, missiles, naval vessels (2025)<br>
 
 **Military service age and obligation**<br>
-16 (or 17 depending on service) to 23 years of age for voluntary military service; soldiers cannot be deployed for combat until age 18; women serve in all three armed forces; reserve obligation to age 45 for enlisted men, age 50 for officers (2023)<br>
+16-28 years of age for voluntary military service for men and women; lower and upper age limits vary by military branch, position, and role; personnel cannot be deployed for combat until age 18 (2025)<br>
 
 **Military deployments**<br>
-1,300 Central African Republic (MINUSCA); 290 South Sudan (UNMISS); 590 Sudan (UNISFA) (2024)<br>
+1,400 Central African Republic (MINUSCA); 300 MONUSCO; 300 South Sudan (UNMISS); 575 Sudan (UNISFA) (2025)<br>
 
 **Military - note**<br>
 the Pakistan military is responsible for external defense but also has a domestic security role; its chief external focus is India; the military is the lead security agency in many areas of the former Federally Administered Tribal Areas (FATA) and has for decades conducted operations against various internal militant groups; it is also one of the longest serving and largest contributors to UN peacekeeping missions; China is its closest security partner<br><br>the military operates largely independently and without effective civilian oversight; it has ruled the country for more than 30 years since independence in 1947 and continues to play a significant role in Pakistan's political arena; it also has a large stake in the country’s economic sector and is involved in a diverse array of commercial activities, including banking, construction of public projects, employment services, energy and power generation, fertilizer, food, housing, real estate, and security services<br><br>Pakistan has fought four wars and several skirmishes with India; three of the wars have been over the disputed region of Jammu and Kashmir, the status of which has been unsettled since the UK's 1947 withdrawal and the partition and independence of India and Pakistan; a fragile cease-fire was reached in 2003, revised in 2018, and reaffirmed in 2021, although the militarized Line of Control which serves as the border remains contested, and India has accused Pakistan of backing armed separatists and terrorist organizations in the territory New Delhi controls; in the Spring of 2025, Indian held Pakistan responsible for a terrorist attack in India-controlled Kashmir and retaliated, sparking a brief cross-border conflict involving aircraft, artillery, drone, and missile strikes<br><br>the Kashmir dispute also includes the Siachen Glacier, located in the Karakoram Mountain Range, which was seized by India in 1984 with Pakistan attempting to retake the area several times between 1985 and 1995; despite the 2003 cease-fire, both sides continue to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties are due to extreme weather and the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness (2025)<br>

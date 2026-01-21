@@ -101,21 +101,21 @@ _elderly dependency ratio_: 10.5 (2024 est.)<br>
 _potential support ratio_: 9.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 36.8 years (2024 est.)<br>
+_total_: 37.1 years (2025 est.)<br>
 _male_: 35.4 years<br>
 _female_: 37.8 years<br>
 
 **Population growth rate**<br>
-0.59% (2024 est.)<br>
+0.55% (2025 est.)<br>
 
 **Birth rate**<br>
-11.9 births/1,000 population (2024 est.)<br>
+11.64 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6 deaths/1,000 population (2024 est.)<br>
+6.18 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2024 est.)<br>
+0 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 only the northern half of the island is populated; the southern portion is uninhabitable due to volcanic activity<br>
@@ -132,7 +132,7 @@ _65 years and over_: 1 male(s)/female<br>
 _total population_: 1 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 9.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 8 deaths/1,000 live births<br>
 _female_: 11.6 deaths/1,000 live births<br>
 
@@ -142,10 +142,10 @@ _male_: 76.9 years<br>
 _female_: 75.3 years<br>
 
 **Total fertility rate**<br>
-1.33 children born/woman (2024 est.)<br>
+1.34 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.63 (2024 est.)<br>
+0.65 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 98.1% of population (2022 est.)<br>

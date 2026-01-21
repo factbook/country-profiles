@@ -101,21 +101,21 @@ _elderly dependency ratio_: 17.3 (2024 est.)<br>
 _potential support ratio_: 5.8 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 30.3 years (2024 est.)<br>
+_total_: 30.5 years (2025 est.)<br>
 _male_: 29.6 years<br>
 _female_: 31.1 years<br>
 
 **Population growth rate**<br>
-0.11% (2024 est.)<br>
+0.08% (2025 est.)<br>
 
 **Birth rate**<br>
-18.1 births/1,000 population (2024 est.)<br>
+17.9 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.1 deaths/1,000 population (2024 est.)<br>
+6.18 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--10.9 migrant(s)/1,000 population (2024 est.)<br>
+-10.92 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 no large cities exist on the island; large villages (municipalities) attract much of the population; the largest of these is Dededo<br>
@@ -135,7 +135,7 @@ _65 years and over_: 0.88 male(s)/female<br>
 _total population_: 1.06 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 10.7 deaths/1,000 live births (2025 est.)<br>
 _male_: 11 deaths/1,000 live births<br>
 _female_: 10.9 deaths/1,000 live births<br>
 
@@ -145,10 +145,10 @@ _male_: 75.6 years<br>
 _female_: 80.5 years<br>
 
 **Total fertility rate**<br>
-2.73 children born/woman (2024 est.)<br>
+2.7 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.32 (2024 est.)<br>
+1.31 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 99.7% of population (2022 est.)<br>
@@ -159,7 +159,7 @@ _improved: total_: total: 99.2% of population (2022 est.)<br>
 _unimproved: total_: total: 0.8% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-37% (2023 est.)<br>
+40.4% (2020 est.)<br>
 
 ## Environment
 
@@ -443,7 +443,7 @@ _key ports_: Apra Harbor<br>
 Guam Police Department (GPD); Guam (US) National Guard&nbsp;<br>
 
 **Military - note**<br>
-defense is the responsibility of the US; the US military maintains about 8,000 active-duty uniformed personnel and several bases and installations<br>
+the US military maintains thousands of active-duty uniformed personnel and several bases and installations on the island<br>
 
 ## Transnational Issues
 

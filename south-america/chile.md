@@ -111,21 +111,21 @@ _elderly dependency ratio_: 20 (2024 est.)<br>
 _potential support ratio_: 5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 36.9 years (2024 est.)<br>
+_total_: 38.9 years (2025 est.)<br>
 _male_: 35.8 years<br>
 _female_: 38.2 years<br>
 
 **Population growth rate**<br>
-0.61% (2024 est.)<br>
+0.46% (2025 est.)<br>
 
 **Birth rate**<br>
-12.4 births/1,000 population (2024 est.)<br>
+8.81 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.6 deaths/1,000 population (2024 est.)<br>
+6.79 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0.3 migrant(s)/1,000 population (2024 est.)<br>
+2.58 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 90% of the population is located in the middle third of the country around the capital of Santiago; the far north, including the Atacama Desert, and the extreme south are relatively underpopulated<br>
@@ -148,7 +148,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 10 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 4.5 deaths/1,000 live births (2025 est.)<br>
 _male_: 6.9 deaths/1,000 live births<br>
 _female_: 5.7 deaths/1,000 live births<br>
 
@@ -158,10 +158,10 @@ _male_: 77.3 years<br>
 _female_: 83.3 years<br>
 
 **Total fertility rate**<br>
-1.75 children born/woman (2024 est.)<br>
+1.25 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.85 (2024 est.)<br>
+0.61 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -205,7 +205,7 @@ _male_: 28.4% (2025 est.)<br>
 _female_: 24.1% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-46.3% (2023 est.)<br>
+48.5% (2022 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.9% of GDP (2022 est.)<br>
@@ -287,11 +287,11 @@ _name_: Santiago; note - Valparaiso is the seat of the national legislature<br>
 _geographic coordinates_: 33 27 S, 70 40 W<br>
 _time difference_: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins second Sunday in August; ends second Sunday in May; note - Punta Arenas observes DST throughout the year<br>
-_time zone note_: Chile has three time zones: the continental portion at UTC-3; the southern Magallanes region, which does not use daylight savings time and remains at UTC-3 for the summer months; and Easter Island at UTC-5<strong><br></strong><br>
+_time zone note_: Chile has three time zones: the continental portion at UTC-3; the southern Aysén and Magallanes regions, which do not use daylight savings time and remain at UTC-3 year-round; and Easter Island at UTC-5<strong><br></strong><br>
 _etymology_: Santiago is named after Saint James, the patron saint of Spain (Santo Iago in Spanish); Valparaiso derives from the Spanish words <em>valle </em>(valley) and <em>paraíso </em>(paradise)<br>
 
 **Administrative divisions**<br>
-16 regions (<em>regiones</em>, singular - <em>region</em>); Aysen, Antofagasta, Araucania, Arica y Parinacota, Atacama, Biobio, Coquimbo, Libertador General Bernardo O'Higgins, Los Lagos, Los Rios, Magallanes y de la Antartica Chilena (Magallanes and Chilean Antarctica), Maule, Nuble, Region Metropolitana (Santiago), Tarapaca, Valparaiso<br>
+16 regions (<em>regiones</em>, singular - <em>region</em>); Antofagasta, Araucanía, Arica y Parinacota, Atacama, Aysén, Biobío, Coquimbo, Libertador General Bernardo O'Higgins, Los Lagos, Los Ríos, Magallanes y de la Antártica Chilena (Magallanes and Chilean Antarctica), Maule, Ñuble, Región Metropolitana (Santiago), Tarapacá, Valparaíso<br>
 <strong>note:</strong> the US does not recognize any claims to Antarctica<br>
 
 **Legal system**<br>
@@ -318,8 +318,8 @@ _chief of state_: President Gabriel BORIC (since 11 March 2022)<br>
 _head of government_: President Gabriel BORIC (since 11 March 2022)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a single 4-year term<br>
-_most recent election date_: 16 December 2025, with a runoff to be held on 14 December 2025<br>
-_election results_: <em>2025: </em>percent of vote in first round - Jeannette Alejandra JARA Román (PCCh) 26.8%,<strong> </strong>José Antonio KAST (PLR) 23.9%, Franco Aldo PARISI Fernández (PDG) 19.7%, Johannes KAISER (PNL) 13.9%, Evelyn Rose MATTHEI Fornet (PL) 12.5%; other 3.2%; note - JARA and KAST will participate in a runoff election to be held 14 December 2025  <br><br><em>2021: </em>Gabriel BORIC elected president in second round; percent of vote in first round - José Antonio KAST (FSC) 27.9%; Gabriel BORIC (AD) 25.8%; Franco PARISI (PDG) 12.8%; Sebastian SICHEL (ChP+) 12.8%; Yasna PROVOSTE (New Social Pact) 11.6%; other 9.1%; percent of vote in second round - Gabriel BORIC 55.9%; Jose Antonio KAST 44.1%<br><em><br>2017:</em> Sebastian PINERA Echenique elected president in second round; percent of vote in first round - Sebastian PINERA Echenique (independent) 36.6%; Alejandro GUILLIER (independent) 22.7%; Beatriz SANCHEZ (independent) 20.3%; Jose Antonio KAST (independent) 7.9%; Carolina GOIC (PDC) 5.9%; Marco ENRIQUEZ-OMINAMI (PRO) 5.7%; other 0.9%; percent of vote in second round - Sebastian PINERA Echenique 54.6%, Alejandro GUILLIER 45.4%<br>
+_most recent election date_: 16 November 2025, with a runoff held on 14 December 2025<br>
+_election results_: <em>2025: </em>José Antonio KAST elected president in second round; percent of vote in first round - Jeannette Alejandra JARA Román (PCCh) 26.8%,<strong> </strong>José Antonio KAST (PLR) 23.9%, Franco Aldo PARISI Fernández (PDG) 19.7%, Johannes KAISER (PNL) 13.9%, Evelyn Rose MATTHEI Fornet (PL) 12.5%; other 3.2%; percent of vote in second round - José Antonio KAST 58.2%, Jeannette Alejandra JARA Román 41.8%; note - KAST will take office 11 March 2026 <br><br><em>2021: </em>Gabriel BORIC elected president in second round; percent of vote in first round - José Antonio KAST (FSC) 27.9%; Gabriel BORIC (AD) 25.8%; Franco PARISI (PDG) 12.8%; Sebastian SICHEL (ChP+) 12.8%; Yasna PROVOSTE (New Social Pact) 11.6%; other 9.1%; percent of vote in second round - Gabriel BORIC 55.9%; Jose Antonio KAST 44.1%<br><em><br>2017:</em> Sebastian PINERA Echenique elected president in second round; percent of vote in first round - Sebastian PINERA Echenique (independent) 36.6%; Alejandro GUILLIER (independent) 22.7%; Beatriz SANCHEZ (independent) 20.3%; Jose Antonio KAST (independent) 7.9%; Carolina GOIC (PDC) 5.9%; Marco ENRIQUEZ-OMINAMI (PRO) 5.7%; other 0.9%; percent of vote in second round - Sebastian PINERA Echenique 54.6%, Alejandro GUILLIER 45.4%<br>
 _expected date of next election_: 18 November 2029 (a runoff, if needed, will take place in December 2029)<br>
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
@@ -606,8 +606,8 @@ _total subscriptions_: 1.978 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 10 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 26.7 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 135 (2022 est.)<br>
+_total subscriptions_: 26,710,700 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 133 (2024 est.)<br>
 
 **Broadcast media**<br>
 national and local terrestrial TV channels, coupled with extensive cable TV networks; the state-owned Television Nacional de Chile (TVN) network is self-financed through commercial advertising and is not under direct government control; large number of privately owned TV stations; about 250 radio stations<br>
@@ -668,11 +668,11 @@ Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chi
 approximately 70,000 active Armed Forces (40,000 Army; 20,000 Navy; 10,000 Air Force); approximately 50,000 Carabineros (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Chilean military inventory is comprised of a broad mix of older foreign supplied weapons and equipment and some domestically produced systems; significant foreign suppliers have included Australia, Brazil, France, Germany, Israel, the Netherlands, Spain, the UK, and the US; Chile's defense industry is active in the production of military aircraft, ships, and vehicles (2024)<br>
+the Chilean military's inventory is comprised of a mix of mostly older foreign supplied armaments and some domestically produced weapons systems; significant foreign suppliers have included Australia, Brazil, Canada, France, Germany, Israel, the Netherlands, Spain, the UK, and the US; Chile's defense industry is active in the production of military aircraft, ships, and vehicles (2025)<br>
 
 **Military service age and obligation**<br>
-17 or 18 for voluntary military service for men and women; selective compulsory service (there are usually enough volunteers to make compulsory service unnecessary); service obligation is a minimum of 12 months for Army and 22 months for Navy and Air Force (2024)<br>
-<strong>note:</strong> as of 2024, women comprised approximately 20% of the armed forces<br>
+18-24 for voluntary military service for men and women (17 for men with parental permission); selective compulsory service for men 18-24 (there are usually enough volunteers to make compulsory service unnecessary); service obligation is a maximum of 24 months  (2025)<br>
+<strong>note:</strong> as of 2024, women comprised approximately 21% of the armed forces<br>
 
 **Military - note**<br>
 the Chilean military's responsibilities are territorial defense, ensuring the country’s sovereignty, assisting with disaster and humanitarian relief, and providing some internal security duties such as border security or maintaining public order if required; a key focus in recent years has been assisting with securing the border area with Bolivia and Peru; it trains regularly and participates in bilateral and multinational training exercises, as well as international peacekeeping operations <br><br>Chile and Argentina have a joint peacekeeping force known as the Combined Southern Cross Peacekeeping Force (FPC), designed to be made available to the UN; the FPC is made up of air, ground, and naval components, as well as a combined logistics support unit<br><br>the Chilean Army was founded in 1810, but traces its origins back to the Army of the Kingdom of Chile, which was established by the Spanish Crown in the early 1600s; Chile's military aviation was inaugurated in 1913 with the creation of a military aviation school; the Navy traces its origins to 1817; it was first led by a British officer and the first ships were largely crewed by American, British, and Irish sailors; by the 1880s, the Chilean Navy was one of the most powerful in the Americas, and included the world’s first protected cruiser (a ship with an armored deck to protect vital machine spaces) (2025)<br>

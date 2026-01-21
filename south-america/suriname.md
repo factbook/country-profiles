@@ -107,21 +107,21 @@ _elderly dependency ratio_: 10.8 (2024 est.)<br>
 _potential support ratio_: 9.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 32 years (2024 est.)<br>
+_total_: 32.3 years (2025 est.)<br>
 _male_: 31 years<br>
 _female_: 32.9 years<br>
 
 **Population growth rate**<br>
-1.07% (2024 est.)<br>
+1.04% (2025 est.)<br>
 
 **Birth rate**<br>
-14.9 births/1,000 population (2024 est.)<br>
+14.63 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-6.7 deaths/1,000 population (2024 est.)<br>
+6.74 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-2.5 migrant(s)/1,000 population (2024 est.)<br>
+2.46 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population is concentrated along the northern coastal strip; the remainder of the country is sparsely populated<br>
@@ -144,7 +144,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 84 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 29.6 deaths/1,000 live births (2024 est.)<br>
+_total_: 29.3 deaths/1,000 live births (2025 est.)<br>
 _male_: 37.6 deaths/1,000 live births<br>
 _female_: 21 deaths/1,000 live births<br>
 
@@ -154,10 +154,10 @@ _male_: 69 years<br>
 _female_: 76.7 years<br>
 
 **Total fertility rate**<br>
-1.89 children born/woman (2024 est.)<br>
+1.87 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.91 (2024 est.)<br>
+0.9 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.7% of population (2022 est.)<br>
@@ -199,7 +199,7 @@ _other alcohols_: 0.18 liters of pure alcohol (2019 est.)<br>
 6.7% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-52.1% (2023 est.)<br>
+52.2% (2018 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 8.8% (2018)<br>
@@ -610,7 +610,7 @@ Suriname National Army (Nationaal Leger or NL); Army (Landmacht), Navy (Marine);
 approximately 2,000 National Army (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Suriname Army has a limited inventory comprised of a mix of older weapons and equipment, largely originating from such suppliers as Brazil, the Netherlands, and India; France also provides material assistance (2024)<br>
+the Suriname Army has a limited inventory of older or secondhand armaments originating from such suppliers as Brazil, France, the Netherlands, and India (2025)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service for men and women; no conscription (2024)<br>

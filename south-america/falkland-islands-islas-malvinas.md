@@ -140,7 +140,7 @@ _unimproved: rural_: rural: 0% of population (2022 est.)<br>
 _unimproved: total_: total: 0% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-44.8% (2023 est.)<br>
+47.7% (2016 est.)<br>
 
 ## Environment
 
@@ -198,8 +198,8 @@ see United Kingdom<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Alison BLAKE (since 23 July 2022)<br>
-_head of government_: Chief Executive Andy KEELING (since April 2021)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Colin MARTIN-REYNOLDS (since 29 July 2025)<br>
+_head of government_: Chief Executive Andrea Patricia CLAUSEN (since 1 April 2025)<br>
 _cabinet_: Executive Council elected by the Legislative Council<br>
 _election/appointment process_: the monarchy is hereditary; monarch appoints the governor, who appoints the chief executive<br>
 
@@ -210,7 +210,7 @@ _number of seats_: 10 (8 directly elected, 2 appointed)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
 _term in office_: 4 years<br>
-_most recent election date_: 11/4/2021<br>
+_most recent election date_: 12/11/2025<br>
 _percentage of women in chamber_: 25% note: does not include the speaker<br>
 _expected date of next election_: November 2025<br>
 
@@ -318,8 +318,8 @@ _total subscriptions_: 2,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 53 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 160 (2021 est.)<br>
+_total subscriptions_: 6,420 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 184 (2022 est.)<br>
 
 **Broadcast media**<br>
 TV service provided by a multi-channel service provider; radio provided by public broadcaster Falkland Islands Radio Service and the British Forces Broadcasting Service&nbsp; (2007)<br>

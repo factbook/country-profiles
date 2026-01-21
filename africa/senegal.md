@@ -114,21 +114,21 @@ _elderly dependency ratio_: 6.1 (2024 est.)<br>
 _potential support ratio_: 16.4 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 19.2 years (2024 est.)<br>
+_total_: 19.4 years (2025 est.)<br>
 _male_: 18.4 years<br>
 _female_: 20 years<br>
 
 **Population growth rate**<br>
-2.46% (2024 est.)<br>
+2.4% (2025 est.)<br>
 
 **Birth rate**<br>
-30.2 births/1,000 population (2024 est.)<br>
+29.54 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-4.9 deaths/1,000 population (2024 est.)<br>
+4.85 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.7 migrant(s)/1,000 population (2024 est.)<br>
+-0.66 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the population is concentrated in the west, with Dakar anchoring a well-defined core area; approximately 70% of the population is rural, as shown in this population distribution map<br>
@@ -155,7 +155,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 237 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 31.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 30.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 34.4 deaths/1,000 live births<br>
 _female_: 27.6 deaths/1,000 live births<br>
 
@@ -165,10 +165,10 @@ _male_: 68.8 years<br>
 _female_: 72.4 years<br>
 
 **Total fertility rate**<br>
-4.06 children born/woman (2024 est.)<br>
+3.96 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.98 (2024 est.)<br>
+1.93 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 95.9% of population (2022 est.)<br>
@@ -215,7 +215,7 @@ _female_: 0.5% (2025 est.)<br>
 16.2% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-65.3% (2023 est.)<br>
+65.5% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 8.8% (2019)<br>
@@ -649,13 +649,13 @@ Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army (l’Arm�
 approximately 25,000 active Armed Forces personnel, including the Gendarmerie (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a mix of older, secondhand, and more modern equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the military has undertaken a modernization program and has received newer equipment from more than 10 countries, including France and the US (2024)<br>
+the military has a mix of older, secondhand, and some more modern equipment from a variety of suppliers, including China, France, Russia, South Africa, Spain, T&uuml;rkiye, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-19 years of age for voluntary military service for men and women (18 years of age for cadets); 24-month service commitment (2024)<br>
+18-28 (up to 35 for specialized roles); 24-month service commitment (2025)<br>
 
 **Military deployments**<br>
-200 Central African Republic (MINUSCA; plus about 525 police); 800 (ECOWAS Military Intervention in The Gambia--ECOMIG); 500 (ECOWAS Stabilization Support Mission in Guinea-Bissau--EESMGB); 450 police Democratic Republic of the Congo (MONUSCO) (2024)<br>
+190 Central African Republic (MINUSCA; plus about 575 police); approximately 380 police Democratic Republic of the Congo (MONUSCO)&nbsp; (2025)<br>
 
 **Military - note**<br>
 the Senegalese military is responsible for both territorial defense and internal security; it also assists the civilian government in such areas as preventive healthcare, infrastructure development, environmental protection, and disaster response; key areas of focus for the military include a low-level insurgency in the country's south, maritime security, and securing the border against smuggling and Sahel-based Islamist insurgent groups affiliated with al-Qa'ida and the Islamic State; the military participates in foreign peacekeeping deployments and multinational exercises; its closest security partner is France, which has long maintained a military presence in Senegal  <br><br>Senegalese security forces have been engaged in a low-level counterinsurgency campaign in the southern Casamance region against factions of the separatist Movement of Democratic Forces of the Casamance (MDFC) since 1982; the conflict is one of longest running low-level insurgencies in the World, having claimed more than 5,000 lives while leaving another 60,000 displaced; in recent years, nearly all of the MDFC factions have agreed to cease hostilities (2025)<br>

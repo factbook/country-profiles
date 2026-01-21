@@ -101,21 +101,21 @@ _elderly dependency ratio_: 24.4 (2024 est.)<br>
 _potential support ratio_: 4.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 41.4 years (2024 est.)<br>
+_total_: 42.2 years (2025 est.)<br>
 _male_: 40.3 years<br>
 _female_: 42.5 years<br>
 
 **Population growth rate**<br>
-0.23% (2024 est.)<br>
+-0.42% (2025 est.)<br>
 
 **Birth rate**<br>
-10.7 births/1,000 population (2024 est.)<br>
+8.02 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-8.1 deaths/1,000 population (2024 est.)<br>
+11.96 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.3 migrant(s)/1,000 population (2024 est.)<br>
+-0.3 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most densely populated country in the eastern Caribbean; approximately one third&nbsp; of the population lives in urban areas<br>
@@ -138,7 +138,7 @@ _total population_: 0.93 male(s)/female (2024 est.)<br>
 35 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.6 deaths/1,000 live births (2024 est.)<br>
+_total_: 15.1 deaths/1,000 live births (2025 est.)<br>
 _male_: 11.1 deaths/1,000 live births<br>
 _female_: 8.1 deaths/1,000 live births<br>
 
@@ -148,10 +148,10 @@ _male_: 76.3 years<br>
 _female_: 81.8 years<br>
 
 **Total fertility rate**<br>
-1.7 children born/woman (2024 est.)<br>
+1.24 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.85 (2024 est.)<br>
+0.62 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 98.5% of population (2022 est.)<br>
@@ -187,7 +187,7 @@ _male_: 11.4% (2025 est.)<br>
 _female_: 1.5% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-57.1% (2023 est.)<br>
+57.2% (2021 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.6% of GDP (2024 est.)<br>
@@ -553,7 +553,7 @@ _total subscriptions_: 121,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 43 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 323,000 (2022 est.)<br>
+_total subscriptions_: 323,482 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 115 (2022 est.)<br>
 
 **Broadcast media**<br>
@@ -610,10 +610,10 @@ Barbados Defense Force (BDF): The Barbados Regiment, The Barbados Coast Guard (2
 approximately 600 active BDF personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the BDF's major equipment inventory is comprised mostly of donated items from China, the Netherlands, and the US&nbsp; (2024)<br>
+the BDF's major equipment inventory is comprised mostly of donated items from China, the Netherlands, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-voluntary service only (men and women); 17 years, 9 months to 17 years, 11 months with letter of consent from a parent or guardian, or be in the age range of 18-25 years (18-30 for the Reserves) at the start of recruit training; citizens of Barbados by descent or naturalization (2024)<br>
+18-25 for voluntary active service at the start of recruit training; 18-30 for reserves (2025)<br>
 
 **Military - note**<br>
 formed in 1979, the Barbados Defense Force (BDF) is responsible for protecting national security, but it may also be called up to maintain internal public order in times of crisis, emergency, or other specific needs, such as special joint patrols with the police; it also provides humanitarian assistance and disaster response operations both domestically and regionally; other duties include assisting with national development, such as through the training of the country's youth with the units of the Barbados Cadet Corps <br><br>Barbados has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Dominica, Grenada, Guyana, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security; the RSS is headquartered in Barbados (2025)<br>

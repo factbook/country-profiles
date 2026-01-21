@@ -109,21 +109,21 @@ _elderly dependency ratio_: 8.5 (2024 est.)<br>
 _potential support ratio_: 11.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 24.8 years (2024 est.)<br>
+_total_: 26.7 years (2025 est.)<br>
 _male_: 24.2 years<br>
 _female_: 25.4 years<br>
 
 **Population growth rate**<br>
-1.49% (2024 est.)<br>
+0.99% (2025 est.)<br>
 
 **Birth rate**<br>
-21.4 births/1,000 population (2024 est.)<br>
+17.12 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-4.9 deaths/1,000 population (2024 est.)<br>
+4.99 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1.6 migrant(s)/1,000 population (2024 est.)<br>
+-2.22 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the vast majority of the populace resides in the southern half of the country, particularly in the mountainous regions; more than half of the population lives in rural areas<br>
@@ -150,7 +150,7 @@ _total population_: 0.98 male(s)/female (2024 est.)<br>
 94 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 25 deaths/1,000 live births (2024 est.)<br>
+_total_: 23.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 28.1 deaths/1,000 live births<br>
 _female_: 21.7 deaths/1,000 live births<br>
 
@@ -160,10 +160,10 @@ _male_: 71.5 years<br>
 _female_: 75.6 years<br>
 
 **Total fertility rate**<br>
-2.52 children born/woman (2024 est.)<br>
+1.97 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.23 (2024 est.)<br>
+0.96 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 97.8% of population (2022 est.)<br>
@@ -210,7 +210,7 @@ _female_: 1.5% (2025 est.)<br>
 14.4% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-57.2% (2023 est.)<br>
+56.2% (2018 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 6.2% (2015)<br>
@@ -664,10 +664,10 @@ Army of Guatemala (Ejercito de Guatemala; aka Armed Forces of Guatemala or Fuerz
 approximately 20,000 active Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military is lightly armed with an inventory mostly comprised of older US equipment; in recent years, Guatemala has received small amounts of equipment from several countries, including Colombia, Spain, and the US (2024)<br>
+the military is lightly armed with an inventory mostly comprised of ageing US equipment; in recent years, the US has provided additional secondhand equipment (2025)<br>
 
 **Military service age and obligation**<br>
-all male citizens 18-50 are eligible for military service; most of the force is volunteer; a selective draft system is employed, resulting in a small portion of 17-21 year-olds being conscripted; conscript service obligation varies from 12-24 months; women may volunteer (2023)<br>
+18-28 for voluntary service for men and women (17-21 for military schools); all Guatemalan men 18-49 are subject to selective compulsory service; service obligation is 12-24 months (2025)<br>
 
 **Military deployments**<br>
 180 Democratic Republic of the Congo (MONUSCO) (2025)<br>

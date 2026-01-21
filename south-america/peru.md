@@ -103,7 +103,7 @@ Spanish (official) 82.9%, Quechua (official) 13.6%, Aymara (official) 1.6%, Asha
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Catholic 76%, Evangelical Christian 15.7%, no religion 5.1%, other religions 3.2% (2023 est.)<br>
+Catholic 76%, Evangelical Christian 15.7%, no religion 5.1%, other religions 3.2% (2017 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 25.8% (male 4,293,229/female 4,119,269)<br>
@@ -117,21 +117,21 @@ _elderly dependency ratio_: 12 (2024 est.)<br>
 _potential support ratio_: 8.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 30.2 years (2024 est.)<br>
+_total_: 30.4 years (2025 est.)<br>
 _male_: 29.1 years<br>
 _female_: 31.3 years<br>
 
 **Population growth rate**<br>
-0.48% (2024 est.)<br>
+0.55% (2025 est.)<br>
 
 **Birth rate**<br>
-16.7 births/1,000 population (2024 est.)<br>
+16.43 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-10.9 deaths/1,000 population (2024 est.)<br>
+9.79 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1 migrant(s)/1,000 population (2024 est.)<br>
+-1.16 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 approximately one third of the population resides along the desert coastal belt in the&nbsp; west, with a strong focus on the capital city of Lima; the Andean highlands, or sierra, contain roughly half of the population; the eastern slopes of the Andes and adjoining rainforest are sparsely populated<br>
@@ -158,7 +158,7 @@ _total population_: 0.96 male(s)/female (2024 est.)<br>
 51 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.8 deaths/1,000 live births (2024 est.)<br>
+_total_: 10.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 11.9 deaths/1,000 live births<br>
 _female_: 9.7 deaths/1,000 live births<br>
 
@@ -168,10 +168,10 @@ _male_: 65.4 years<br>
 _female_: 72.7 years<br>
 
 **Total fertility rate**<br>
-2.15 children born/woman (2024 est.)<br>
+2.12 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.05 (2024 est.)<br>
+1.04 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 97.5% of population (2022 est.)<br>
@@ -218,7 +218,7 @@ _female_: 2.1% (2025 est.)<br>
 2.7% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-51.2% (2023 est.)<br>
+52.7% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 2% (2020)<br>
@@ -372,7 +372,7 @@ _email address and website_: <br>Webadmin@embassyofperu.us<br><br>Embassy of Per
 _consulate(s) general_: Atlanta, Boston, Chicago, Dallas, Denver, Hartford (CT), Houston, Los Angeles, Miami, New York, Paterson (NJ), San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Joan PERKINS (since 18 April 2025)<br>
+_chief of mission_: Ambassador-designate Bernardo NAVARRO; Charg&eacute; d&rsquo;Affaires Joan PERKINS (since 18 April 2025)<br>
 _embassy_: Avenida La Encalada, Cuadra 17 s/n, Surco, Lima 33<br>
 _mailing address_: 3230 Lima Place, Washington DC&nbsp; 20521-3230<br>
 _telephone_: [51] (1) 618-2000<br>
@@ -678,14 +678,14 @@ Armed Forces of Peru (Fuerzas Armadas del Perú or FAP): Peruvian Army (Ejercito
 information varies; approximately 85,000 active-duty Armed Forces (50,000 Army; 25,000 Navy; 10,000 Air Force); approximately 75,000 National Police (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military has a broad mix of mostly older but some more modern equipment from a range of suppliers, including Brazil, China, France, Germany, Italy, Russia and the former Soviet Union, South Korea, and the US; some deliveries have been secondhand weapons systems; Peru has a small defense industry, including a shipyard that builds and upgrades naval vessels; it also has defense industrial cooperation agreements with several countries, including Russia, South Korea, Spain, and the US (2024)<br>
+the military's inventory consists of mostly older or secondhand armaments originating from a range of countries, including Brazil, China, France, Germany, Italy, Russia/former Soviet Union, South Korea, Spain, and the US; Peru has a small defense industry, including a shipyard that builds and upgrades naval vessels; it also has defense industrial cooperation agreements with several countries, including Russia, South Korea, Spain, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary military service (12 months) (2024)<br>
+18-30 years of age for voluntary military service (12-24 months) (2025)<br>
 <strong>note: </strong>as of 2024, women made up about 11% of the active-duty military<br>
 
 **Military deployments**<br>
-225 Central African Republic (MINUSCA) (2024)<br>
+225 Central African Republic (MINUSCA) (2025)<br>
 
 **Military - note**<br>
 the Peruvian Armed Forces (FAP) are responsible for external defense in addition to some domestic security responsibilities in designated emergency areas and in exceptional circumstances; key areas of focus include counterinsurgency, counternarcotics, cyber defense, disaster relief, and maritime security operations; the FAP supported the police during anti-government protests in early 2023; it has contributed to UN missions since 1958 and has ties to regional militaries, particularly Colombia, as well as those of numerous other countries such as China, Russia, Spain, and the US; the FAP’s last external conflict was a brief border war with Ecuador in 1995<br><br>the Special Command of the Valley of the Apurimac, Ene, and Mantaro rivers (CE-VRAEM) is responsible for combating the remnants of the Shining Path terrorist group (aka Sendero Luminoso) and includes several thousand air, ground, naval, police, and special forces personnel; the FAP also provides aircraft, vehicles, and logistical support to the command (2025)<br>

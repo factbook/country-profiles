@@ -116,21 +116,21 @@ _elderly dependency ratio_: 10.3 (2024 est.)<br>
 _potential support ratio_: 9.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 30.8 years (2024 est.)<br>
+_total_: 31.1 years (2025 est.)<br>
 _male_: 29.9 years<br>
 _female_: 31.6 years<br>
 
 **Population growth rate**<br>
-0.71% (2024 est.)<br>
+0.69% (2025 est.)<br>
 
 **Birth rate**<br>
-15.7 births/1,000 population (2024 est.)<br>
+15.44 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.3 deaths/1,000 population (2024 est.)<br>
+7.17 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--1.4 migrant(s)/1,000 population (2024 est.)<br>
+-1.36 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population concentrated along coastal areas and in general proximity to the shores of the Irrawaddy River; the extreme north is relatively underpopulated<br>
@@ -157,7 +157,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 185 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 32.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 30.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 35.4 deaths/1,000 live births<br>
 _female_: 28.5 deaths/1,000 live births<br>
 
@@ -167,10 +167,10 @@ _male_: 68.5 years<br>
 _female_: 72.1 years<br>
 
 **Total fertility rate**<br>
-1.97 children born/woman (2024 est.)<br>
+1.95 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.96 (2024 est.)<br>
+0.95 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 93.7% of population (2022 est.)<br>
@@ -217,7 +217,7 @@ _female_: 17.1% (2025 est.)<br>
 19.5% (2018 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-57.5% (2023 est.)<br>
+58% (2019 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 1.9% (2016)<br>
@@ -340,7 +340,7 @@ _state counsellor_: State Counselor AUNG SAN SUU KYI (since 6 April 2016); note 
 **Legislative branch**<br>
 _legislature name_: Assembly of the Union (Pyidaungsu Hluttaw)<br>
 _legislative structure_: bicameral<br>
-_most recent election date_: 8 November 2020<br>
+_most recent election date_: 28 December 2025<br>
 _expected date of next election_: on 31 July 2025, the military government announced that it was preparing for elections to be held in late December 2025<br>
 <strong>note:</strong> on 1 February 2021, the Burmese military claimed the results of the 2020 general election were illegitimate and launched a coup led by Sr. General MIN AUNG HLAING; the military subsequently dissolved the Assembly of the Union and replaced it with the military-led State Administration Council<br>
 
@@ -350,7 +350,7 @@ _judge selection and term of office_: chief justice and judges nominated by the 
 _subordinate courts_: High Courts of the Region; High Courts of the State; Court of the Self-Administered Division; Court of the Self-Administered Zone; district and township courts; special courts (for juvenile, municipal, and traffic offenses); courts martial<br>
 
 **Political parties**<br>
-Arakan National Party or ANP <br>Democratic Party or DP <br>Kayah State Democratic Party or KySDP <br>Kayin People's Party or KPP <br>Kokang Democracy and Unity Party or KDUP <br>La Hu National Development Party or LHNDP <br>Lisu National Development Party or LNDP <br>Mon Unity Party (formed in 2019 from the All Mon Region Democracy Party and Mon National Party)<br>National Democratic Force or NDF <br>National League for Democracy or NLD <br>National Unity Party or NUP <br>Pa-O National Organization or PNO <br>People's Party <br>Shan Nationalities Democratic Party or SNDP <br>Shan Nationalities League for Democracy or SNLD <br>Ta'ang National Party or TNP <br>Tai-Leng Nationalities Development Party or TNDP <br>Union Solidarity and Development Party or USDP <br>Unity and Democracy Party of Kachin State or UDPKS <br>Wa Democratic Party or WDP <br>Wa National Unity Party or WNUP <br>Zomi Congress for Democracy or ZCD<br>
+according to the military regime, more than 50 parties registered and were approved for the December 2025 election, but only 9 contested nationwide; the remainder ran in regional or state constituencies<br><br>the 9 parties included:<br><br>Democratic Party of National Politics (DNP)<br>Myanmar Farmers Development Party (MFDP)<br>National Democratic Force Party (NDF)<br>National Unity Party (NUP)<br>People’s Party<br>People’s Pioneer Party (PPP)<br>Shan and Ethnic Democratic Party (SEDP)<br>Union Solidarity and Development Party (USDP)<br>Women’s Party (Mon)<br>
 <strong>note</strong>: more than 90 political parties participated in the 2020 elections; political parties continued to function after the 2021 coup, although some political leaders have been arrested by the military regime; in 2023, the regime announced a new law with several rules and restrictions on political parties and their ability to participate in elections; dozens of parties refused to comply with the new rules; the regime's election commission has subsequently banned more than 80 political parties, including the National League for Democracy<br>
 
 **Diplomatic representation in the US**<br>
@@ -597,8 +597,8 @@ _total subscriptions_: 588,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 65.5 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 107 (2022 est.)<br>
+_total subscriptions_: 65,516,900 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 114 (2024 est.)<br>
 
 **Broadcast media**<br>
 government controls all domestic broadcast media; 2 state-controlled TV stations, with 1 controlled by the armed forces; 2 pay-TV stations are joint state-private ventures; 1 state-controlled radio station; 9 FM stations are joint state-private ventures; several international broadcasts are available in some areas; the Voice of America (VOA), Radio Free Asia (RFA), BBC Burmese service, the Democratic Voice of Burma (DVB), and Radio Australia use shortwave to broadcast; VOA, RFA, and DVB produce daily TV news programs that are transmitted by satellite; in 2017, the government granted licenses to 5 private broadcasters for digital free-to-air TV channels to be operated in partnership with government-owned Myanmar Radio and Television (MRTV); after the 2021 military coup, the regime revoked the media licenses of most independent outlets, including the free-to-air licenses for DVB and Mizzima (2022)<br>
@@ -659,14 +659,14 @@ information varies; estimated 150,000 active military personnel (2025)<br>
 <strong>note: </strong>the Tatmadaw has reportedly suffered heavy personnel losses in the ongoing fighting against anti-regime forces<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Burmese military's inventory is comprised mostly of older Chinese and Russian/Soviet-era weapons and equipment with a smaller mix of more modern acquisitions, mostly from China and Russia; Burma's defense industry is involved in shipbuilding and the production of ground force equipment based largely on Chinese and Russian designs (2024)<br>
+the Burmese military's inventory is comprised of mostly Chinese, Russian, or Soviet-era armaments; Burma's defense industry is involved in shipbuilding and the production of ground force equipment based largely on Chinese and Russian designs (2025)<br>
 
 **Military service age and obligation**<br>
-18-35 years of age (men) and 18-27 years of age (women) for voluntary and conscripted military service; 24-month service obligation; conscripted professional men (ages 18-45) and women (ages 18-35), including doctors, engineers, and mechanics, serve up to 36 months; service terms may be extended to 60 months in an officially declared emergency (2024)<br>
+18-35 years of age (men) and 18-27 years of age (women) for voluntary and conscripted military service; 24-month service obligation; conscripted professional men (ages 18-45) and women (ages 18-35), including doctors, engineers, and mechanics, serve up to 36 months; service terms may be extended to 60 months in an officially declared emergency (2025)<br>
 <strong>note: </strong>in February 2024, the military government announced that the People’s Military Service Law requiring mandatory military service would go into effect; the Service Law was first introduced in 2010 but had not previously been enforced; the military government also said that it intended to call up about 60,000 men and women annually for mandatory service; during the ongoing insurgency, the military has recruited men 18-60 to serve in local militias<br>
 
 **Military - note**<br>
-since the country’s founding, the Tatmadaw has been deeply involved in domestic politics and the national economy; it ran the country for five decades following a military coup in 1962; prior to the most recent coup in 2021, the military already controlled three key security ministries (Defense, Border, and Home Affairs), one of two vice presidential appointments, 25% of the parliamentary seats, and had a proxy political party, the Union Solidarity and Development Party (USDP); it owns and operates two business conglomerates that have over 100 subsidiaries; the business activities of these conglomerates include banking and insurance, hotels, tourism, jade and ruby mining, timber, construction, real estate, and the production of palm oil, sugar, soap, cement, beverages, drinking water, coal, and gas; some of the companies supply goods and services to the military, such as food, clothing, insurance, and cellphone service; the military also manages a film industry, publishing houses, and television stations<br><br>the Tatmadaw's primary operational focus is internal security, and it is conducting counterinsurgency operations against anti-regime forces that launched an armed rebellion following the 2021 coup and an array of ethnic armed groups (EAGs), some of which have considerable conventional military capabilities; as of 2024, the Tatmadaw was reportedly engaged in combat operations in 10 of its 14 regional commands<br><br>EAGs have been fighting for self-rule against the Burmese Government since 1948; they range in strength from a few hundred fighters up to an estimated 30,000; some are organized along military lines with "brigades" and "divisions" and armed with heavy weaponry, including artillery; they control large tracts of the country’s territory, primarily in the border regions; key groups include the United Wa State Army, Karen National Union, Kachin Independence Army, Arakan Army, Ta’ang National Liberation Army, and the Myanmar Nationalities Democratic Alliance Army<br><br>the opposition National Unity Government claims its armed wing, the People's Defense Force (PDF), has more than 60,000 fighters loosely organized into battalions; in addition, several EAGs have cooperated with the NUG and supported local PDF groups (2024)<br>
+since the country’s founding, the Tatmadaw has been deeply involved in domestic politics and the national economy; it ran the country for five decades following a military coup in 1962; prior to the most recent coup in 2021, the military already controlled three key security ministries (Defense, Border, and Home Affairs), one of two vice presidential appointments, 25% of the parliamentary seats, and had a proxy political party, the Union Solidarity and Development Party (USDP); it owns and operates two business conglomerates that have over 100 subsidiaries; the business activities of these conglomerates include banking and insurance, hotels, tourism, jade and ruby mining, timber, construction, real estate, and the production of palm oil, sugar, soap, cement, beverages, drinking water, coal, and gas; some of the companies supply goods and services to the military, such as food, clothing, insurance, and cellphone service; the military also manages a film industry, publishing houses, and television stations<br><br>the Tatmadaw's primary operational focus is internal security, and it is conducting counterinsurgency operations against anti-regime forces that launched an armed rebellion following the 2021 coup and an array of ethnic armed groups (EAGs); as of 2024, the Tatmadaw was reportedly engaged in combat operations in 10 of its 14 regional commands<br><br>EAGs have been fighting for self-rule against the Burmese Government since 1948; they range in strength from a few hundred fighters up to an estimated 30,000; some are organized along military lines with "brigades" and "divisions" and armed with heavy weaponry, including artillery; they control large tracts of the country’s territory, primarily in the border regions; key groups include the United Wa State Army, Karen National Union, Kachin Independence Army, Arakan Army, Ta’ang National Liberation Army, and the Myanmar Nationalities Democratic Alliance Army<br><br>the opposition National Unity Government claims its armed wing, the People's Defense Force (PDF), has more than 60,000 fighters loosely organized into battalions; in addition, several EAGs have cooperated with the NUG and supported local PDF groups (2024)<br>
 
 ## Transnational Issues
 

@@ -116,21 +116,21 @@ _elderly dependency ratio_: 10 (2024 est.)<br>
 _potential support ratio_: 10 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 33.8 years (2024 est.)<br>
+_total_: 35.2 years (2025 est.)<br>
 _male_: 33.6 years<br>
 _female_: 34.1 years<br>
 
 **Population growth rate**<br>
-0.88% (2024 est.)<br>
+-0.87% (2025 est.)<br>
 
 **Birth rate**<br>
-14.3 births/1,000 population (2024 est.)<br>
+11.24 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.3 deaths/1,000 population (2024 est.)<br>
+4.42 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.3 migrant(s)/1,000 population (2024 est.)<br>
+-15.52 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 population is concentrated in the north, northwest, and west, reflecting the position of the Zagros and Elburz Mountains; the vast, dry areas in the center and eastern parts of the country, around the deserts of the Dasht-e Kavir and Dasht-e Lut, have a much lower population density<br>
@@ -153,7 +153,7 @@ _total population_: 1.03 male(s)/female (2024 est.)<br>
 16 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 9.7 deaths/1,000 live births (2025 est.)<br>
 _male_: 15.4 deaths/1,000 live births<br>
 _female_: 13.2 deaths/1,000 live births<br>
 
@@ -163,10 +163,10 @@ _male_: 74.3 years<br>
 _female_: 77.1 years<br>
 
 **Total fertility rate**<br>
-1.91 children born/woman (2024 est.)<br>
+1.53 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.93 (2024 est.)<br>
+0.74 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.7% of population (2022 est.)<br>
@@ -213,7 +213,7 @@ _female_: 2.8% (2025 est.)<br>
 4.3% (2017 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-70.3% (2023 est.)<br>
+69.6% (2022 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 2.8% of GDP (2023 est.)<br>
@@ -647,11 +647,11 @@ the military forces of Iran are divided between the Islamic Republic of Iran Reg
 information varies; up to 600,000 total active armed forces personnel; estimated 400,000 Islamic Republic of Iran Regular Forces (350,000 Ground Forces; 18,000 Navy; 40,000 Air Force/Air Defense Forces); up to estimated 190,000 Islamic Revolutionary Guard Corps (100-150,000 Ground Forces; 20,000 Navy; 15,000 Aerospace Force; 5,000 Qods Force); estimated 90,000 active Basij Paramilitary Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Iranian military's inventory includes a mix of domestically produced and mostly older foreign equipment largely of Chinese, Russian, Soviet, and US origin (US equipment acquired prior to the Islamic Revolution in 1979); it also has some military equipment from North Korea, including midget submarines and ballistic missiles; in recent years, Iran has received some newer equipment from Russia; Iran has a defense industry with the capacity to develop, produce, support, and sustain air, land, missile, and naval weapons programs (2024)<br>
+the Iranian military's inventory includes a mix of domestically produced and foreign equipment largely of Chinese, Russian/Soviet, and US origin (US equipment acquired prior to the Islamic Revolution in 1979); it also has some military equipment from North Korea such as midget submarines and ballistic missiles; in recent years, Iran has received some newer equipment from Russia; Iran has a defense industry with the capacity to develop, produce, support, and sustain air, land, missile, and naval weapons programs (2025)<br>
 
 **Military service age and obligation**<br>
-military service is compulsory for all Iranian men 18-19 to approximately age 40; 16 for voluntary military service (may be as low as 15 for the Basij); conscript military service obligation is up to 24 months, depending on the location of service (soldiers serving in places of high security risk and deprived areas serve shorter terms); women exempted from military service (2023)<br>
-<strong>note: </strong>conscripts serve in the Artesh, IRGC, and Law Enforcement, while Navy and Air/Air Defense Force personnel are primarily volunteers<br>
+16 for voluntary military service for men; military service is compulsory for all Iranian men at age 18 or 19 years of age; compulsory service obligation 14-21 months, depending on the location of service; women exempted from conscription but may volunteer (2025)<br>
+<strong>note: </strong>conscripts may serve in the Artesh, IRGC, or Law Enforcement<br>
 
 **Military deployments**<br>
 <strong>note:</strong> Iran maintained a military presence in Syria and recruited, trained, and funded thousands of Syrian and foreign fighters to support the ASAD regime during the Syrian civil war (2011-December 2024)<br>

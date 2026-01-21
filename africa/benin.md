@@ -107,21 +107,21 @@ _elderly dependency ratio_: 4.7 (2024 est.)<br>
 _potential support ratio_: 21.1 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 17.2 years (2024 est.)<br>
+_total_: 17.2 years (2025 est.)<br>
 _male_: 16.6 years<br>
 _female_: 17.7 years<br>
 
 **Population growth rate**<br>
-3.29% (2024 est.)<br>
+3.26% (2025 est.)<br>
 
 **Birth rate**<br>
-40.3 births/1,000 population (2024 est.)<br>
+39.82 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.6 deaths/1,000 population (2024 est.)<br>
+7.45 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-0.2 migrant(s)/1,000 population (2024 est.)<br>
+0.22 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the population is primarily located in the south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the north remains sparsely populated with higher concentrations of residents in the west, as shown in this population distribution map<br>
@@ -148,7 +148,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 518 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 52.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 51.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 57.8 deaths/1,000 live births<br>
 _female_: 47.8 deaths/1,000 live births<br>
 
@@ -158,10 +158,10 @@ _male_: 61.1 years<br>
 _female_: 65 years<br>
 
 **Total fertility rate**<br>
-5.34 children born/woman (2024 est.)<br>
+5.3 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-2.61 (2024 est.)<br>
+2.59 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 74.1% of population (2022 est.)<br>
@@ -208,7 +208,7 @@ _female_: 1.5% (2025 est.)<br>
 19.6% (2021 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-68.3% (2023 est.)<br>
+65.7% (2022 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 5.9% (2022)<br>
@@ -584,8 +584,8 @@ _total subscriptions_: 1,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 16.4 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 109 (2022 est.)<br>
+_total subscriptions_: 16,373,900 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 126 (2024 est.)<br>
 
 **Broadcast media**<br>
 state-run Office de Radiodiffusion et de T&eacute;l&eacute;vision du Benin (ORTB) operates a TV station with a wide broadcast reach; several privately owned TV stations broadcast from Cotonou; satellite TV subscription service is available; state-owned radio, under ORTB control, includes a national station supplemented by a number of regional stations; substantial number of privately owned radio stations; transmissions of a few international broadcasters are available on FM in Cotonou (2019)<br>
@@ -639,13 +639,13 @@ Beninese Armed Forces (Forces Armees Beninoises, FAB; aka Benin Defense Forces):
 0.5% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 10,000 active-duty Armed Forces (including National Guard) (2025)<br>
+estimated 10-12,000 active duty Armed Forces (including National Guard) (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAB is equipped with a small mix of mostly older or secondhand French, Soviet-era, and US equipment; in recent years, the EU, France, and the US have provided it with limited amounts of newer military hardware such as armored vehicles and helicopters (2024)<br>
+the military is equipped with a mix of older, secondhand, and limited amounts of newer equipment from a variety of suppliers, including China, France, Germany, South Africa, the former Soviet Union, Spain, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary and selective compulsory military service for men and women; conscript service is 18 months (2024)<br>
+18-30 years of age for voluntary and selective compulsory military service for men and women; compulsory service is 18 months (2025)<br>
 
 **Military - note**<br>
 the Beninese Armed Forces (FAB) are responsible for defense against external aggression and may be required to assist in maintaining public order and internal security under conditions defined by the country's president; it may also participate in economic development projects<br><br>a key focus for the security forces of Benin is countering infiltrations into the country by terrorist groups tied to al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS) operating just over the border from northern Benin in Burkina Faso and Niger; in 2022, the Benin Government said it was "at war" after suffering a series of attacks from these groups; later that same year, President TALON pledged to increase the size of the military, modernize military equipment, and establish forward operating bases; the military since 2022 has also deployed thousands of additional troops to the north of the country to better secure the border region; in addition, the FAB participates in the Multinational Joint Task Force (MNJTF) against Boko Haram and ISIS-West Africa in the general area of the Lake Chad Basin and along Nigeria's northeastern border (2025)<br>

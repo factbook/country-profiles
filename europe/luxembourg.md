@@ -106,21 +106,21 @@ _elderly dependency ratio_: 23.4 (2024 est.)<br>
 _potential support ratio_: 4.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 39.9 years (2024 est.)<br>
+_total_: 40.1 years (2025 est.)<br>
 _male_: 39.4 years<br>
 _female_: 40.4 years<br>
 
 **Population growth rate**<br>
-1.52% (2024 est.)<br>
+1.26% (2025 est.)<br>
 
 **Birth rate**<br>
-11.6 births/1,000 population (2024 est.)<br>
+9.24 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.1 deaths/1,000 population (2024 est.)<br>
+6.66 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-10.8 migrant(s)/1,000 population (2024 est.)<br>
+10.06 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most people live in the south, on or near the border with France<br>
@@ -146,7 +146,7 @@ _total population_: 1.02 male(s)/female (2024 est.)<br>
 12 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.2 deaths/1,000 live births (2024 est.)<br>
+_total_: 3.1 deaths/1,000 live births (2025 est.)<br>
 _male_: 3.6 deaths/1,000 live births<br>
 _female_: 2.8 deaths/1,000 live births<br>
 
@@ -156,10 +156,10 @@ _male_: 80.9 years<br>
 _female_: 85.9 years<br>
 
 **Total fertility rate**<br>
-1.63 children born/woman (2024 est.)<br>
+1.25 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.79 (2024 est.)<br>
+0.62 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -203,7 +203,7 @@ _male_: 22.1% (2025 est.)<br>
 _female_: 19.9% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-51.4% (2023 est.)<br>
+51.1% (2022 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 3.7% of GDP (2022 est.)<br>
@@ -623,7 +623,7 @@ Luxembourg Army (l'Armée Luxembourgeoise) (2025)<br>
 approximately 900 active military personnel (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of Luxembourg's Army is a small mix of Western origin equipment (2024)<br>
+the Luxembourg Army has a small mix of Western origin equipment (2025)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service for men and women; no conscription (abolished 1969) (2025)<br>

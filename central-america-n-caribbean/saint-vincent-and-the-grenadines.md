@@ -103,21 +103,21 @@ _elderly dependency ratio_: 19 (2024 est.)<br>
 _potential support ratio_: 5.3 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 37.6 years (2024 est.)<br>
+_total_: 38.1 years (2025 est.)<br>
 _male_: 37.7 years<br>
 _female_: 37.4 years<br>
 
 **Population growth rate**<br>
--0.15% (2024 est.)<br>
+-0.15% (2025 est.)<br>
 
 **Birth rate**<br>
-11.9 births/1,000 population (2024 est.)<br>
+11.72 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.7 deaths/1,000 population (2024 est.)<br>
+7.75 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--5.8 migrant(s)/1,000 population (2024 est.)<br>
+-5.43 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in and around the capital of Kingstown<br>
@@ -140,7 +140,7 @@ _total population_: 1.04 male(s)/female (2024 est.)<br>
 56 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 12 deaths/1,000 live births (2025 est.)<br>
 _male_: 13.9 deaths/1,000 live births<br>
 _female_: 10.7 deaths/1,000 live births<br>
 
@@ -150,10 +150,10 @@ _male_: 75.2 years<br>
 _female_: 79.3 years<br>
 
 **Total fertility rate**<br>
-1.74 children born/woman (2024 est.)<br>
+1.73 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.85 (2024 est.)<br>
+0.85 (2025 est.)<br>
 
 **Health expenditure**<br>
 _Health expenditure (as % of GDP)_: 5.4% of GDP (2021)<br>
@@ -177,9 +177,6 @@ _beer_: 2.52 liters of pure alcohol (2019 est.)<br>
 _wine_: 0.24 liters of pure alcohol (2019 est.)<br>
 _spirits_: 4.48 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.23 liters of pure alcohol (2019 est.)<br>
-
-**Currently married women (ages 15-49)**<br>
-53.3% (2023 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 6.5% of GDP (2023 est.)<br>
@@ -272,7 +269,7 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Susan DOUGAN (since 1 August 2019)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Stanley JOHN (since 6 January 2026)<br>
 _head of government_: Prime Minister Godwin FRIDAY (since 28 November 2025)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _election/appointment process_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the governor general usually appoints the leader of the majority party or majority coalition as prime minister; deputy prime minister also appointed by governor general on the advice of the prime minister<br>

@@ -109,21 +109,21 @@ _elderly dependency ratio_: 6.1 (2024 est.)<br>
 _potential support ratio_: 16.5 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 27.3 years (2024 est.)<br>
+_total_: 27.5 years (2025 est.)<br>
 _male_: 28.1 years<br>
 _female_: 26.3 years<br>
 
 **Population growth rate**<br>
-1.75% (2024 est.)<br>
+1.7% (2025 est.)<br>
 
 **Birth rate**<br>
-21.1 births/1,000 population (2024 est.)<br>
+20.65 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-3.2 deaths/1,000 population (2024 est.)<br>
+3.17 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.5 migrant(s)/1,000 population (2024 est.)<br>
+-0.49 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the vast majority of the population is located in and around the Al Hagar Mountains in the north; another smaller cluster is found around the city of Salalah in the far south; most of the country remains sparsely populated<br>
@@ -146,7 +146,7 @@ _total population_: 1.16 male(s)/female (2024 est.)<br>
 13 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 13.9 deaths/1,000 live births (2024 est.)<br>
+_total_: 13.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 15.1 deaths/1,000 live births<br>
 _female_: 12.6 deaths/1,000 live births<br>
 
@@ -156,10 +156,10 @@ _male_: 75.5 years<br>
 _female_: 79.4 years<br>
 
 **Total fertility rate**<br>
-2.64 children born/woman (2024 est.)<br>
+2.61 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.29 (2024 est.)<br>
+1.27 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 94.7% of population (2022 est.)<br>
@@ -206,7 +206,7 @@ _female_: 0.4% (2025 est.)<br>
 11.2% (2017 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-56.4% (2023 est.)<br>
+55.8% (2020 est.)<br>
 
 **Education expenditure**<br>
 _Education expenditure (% GDP)_: 4.3% of GDP (2022 est.)<br>
@@ -632,13 +632,14 @@ Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO),
 11% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 40,000 active Sultan's Armed Forces (25,000 Army, 5,000 Navy; 5,000 Air Force; 5,000 Royal Guard) (2025)<br>
+approximately 40,000 active Sultan's Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SAF's inventory includes a mix of older and some more modern weapons systems from a variety of suppliers, particularly the UK and the US; other suppliers have included China, EU countries, South Africa, and Turkey (2024)<br>
+the SAF's inventory includes a mix of older and some more modern weapons systems from a variety of suppliers, particularly the UK and the US; other suppliers have included China, EU countries, South Africa, and T&uuml;rkiye (2025)<br>
 
 **Military service age and obligation**<br>
-18 for voluntary military service for men and women (women have been allowed to serve since 2011); no conscription (2023)<br>
+18-25 for voluntary military service for men and women; no conscription (2025)<br>
+<strong>note:  </strong>women have served since 2011<br>
 
 **Military - note**<br>
 the Sultan's Armed Forces (SAF) are responsible for defending the country, ensuring internal security, and protecting the monarchy; it trains with foreign partners such as the Gulf Cooperation Council (GCC) countries, the UK, and the US; the SAF has a security relationship with the British military going back to the 18th century; today, the SAF and the British maintain a joint training base in Oman, and the British military uses the facilities at Al Duqm Port; in 2019, the US obtained access to the port, expanding on previous military cooperation agreements in 2014, 2010, and 1980; Oman also allows other nations to use some of its maritime facilities, including China; the SAF is part of the Peninsula Shield Forces, a joint military force established by the GCC countries with the aim of maintaining security and stability in the region<br><br>Oman's naval forces conduct maritime security operations along the country’s long coastline, including patrolling, ensuring freedom of navigation in the key naval chokepoint of the Strait of Hormuz, and countering piracy and smuggling; Oman participates in the US-led, multinational Combined Maritime Forces (CMF), which operates multinational task forces conducting maritime security in regional waters (2025)<br>

@@ -103,21 +103,21 @@ _elderly dependency ratio_: 41.1 (2024 est.)<br>
 _potential support ratio_: 2.4 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 51.2 years (2024 est.)<br>
+_total_: 51.8 years (2025 est.)<br>
 _male_: 50.5 years<br>
 _female_: 51.9 years<br>
 
 **Population growth rate**<br>
--1.21% (2024 est.)<br>
+-1.24% (2025 est.)<br>
 
 **Birth rate**<br>
-6.4 births/1,000 population (2024 est.)<br>
+6.31 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-11.7 deaths/1,000 population (2024 est.)<br>
+11.83 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--6.8 migrant(s)/1,000 population (2024 est.)<br>
+-6.9 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 most of the population is found on Saint Pierre Island; a small settlement is located on the north end of Miquelon Island<br>
@@ -137,7 +137,7 @@ _65 years and over_: 0.78 male(s)/female<br>
 _total population_: 0.93 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.8 deaths/1,000 live births (2024 est.)<br>
+_total_: 7.6 deaths/1,000 live births (2025 est.)<br>
 _male_: 9.6 deaths/1,000 live births<br>
 _female_: 5.8 deaths/1,000 live births<br>
 
@@ -147,17 +147,17 @@ _male_: 79.5 years<br>
 _female_: 84.3 years<br>
 
 **Total fertility rate**<br>
-1.6 children born/woman (2024 est.)<br>
+1.6 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.78 (2024 est.)<br>
+0.79 (2025 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: total_: total: 99.9% of population (2022 est.)<br>
 _unimproved: total_: total: 0.1% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-64.1% (2023 est.)<br>
+65.2% (2020 est.)<br>
 
 ## Environment
 
@@ -223,7 +223,7 @@ see France<br>
 
 **Executive branch**<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by Prefect Bruno ANDRE (since September 2023)<br>
-_head of government_: President of Territorial Council Bernard BRIAND (since 13 October 2020)<br>
+_head of government_: President of Territorial Council Marc DIDIO (since 12 January 2026)<br>
 _cabinet_: Le Cabinet du Pr&eacute;fet<br>
 _election/appointment process_: French president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prefect appointed by French president on the advice of French Ministry of Interior; Territorial Council president elected by Territorial Council councilors by absolute majority vote; term NA<br>
 _most recent election date_: 13 October 2020<br>

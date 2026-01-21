@@ -102,21 +102,21 @@ _elderly dependency ratio_: 16.1 (2024 est.)<br>
 _potential support ratio_: 6.2 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 35.3 years (2024 est.)<br>
+_total_: 35.8 years (2025 est.)<br>
 _male_: 35 years<br>
 _female_: 35.6 years<br>
 
 **Population growth rate**<br>
-0.66% (2024 est.)<br>
+0.63% (2025 est.)<br>
 
 **Birth rate**<br>
-13 births/1,000 population (2024 est.)<br>
+12.7 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-5.8 deaths/1,000 population (2024 est.)<br>
+5.84 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.6 migrant(s)/1,000 population (2024 est.)<br>
+-0.56 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the majority of the population lives in the Society Islands, one of five archipelagos that includes the most populous island, Tahiti, with approximately 70% of the nation's population<br>
@@ -136,7 +136,7 @@ _65 years and over_: 0.95 male(s)/female<br>
 _total population_: 1.05 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.3 deaths/1,000 live births (2024 est.)<br>
+_total_: 4.2 deaths/1,000 live births (2025 est.)<br>
 _male_: 5.2 deaths/1,000 live births<br>
 _female_: 3.4 deaths/1,000 live births<br>
 
@@ -146,10 +146,10 @@ _male_: 76.6 years<br>
 _female_: 81.3 years<br>
 
 **Total fertility rate**<br>
-1.79 children born/woman (2024 est.)<br>
+1.78 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.87 (2024 est.)<br>
+0.87 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 100% of population (2022 est.)<br>
@@ -163,7 +163,7 @@ _improved: total_: total: 97% of population (2022 est.)<br>
 _unimproved: total_: total: 3% of population (2022 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-27.2% (2023 est.)<br>
+66.8% (2017 est.)<br>
 
 ## Environment
 

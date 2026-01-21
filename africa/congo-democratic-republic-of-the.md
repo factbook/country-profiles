@@ -118,21 +118,21 @@ _elderly dependency ratio_: 4.8 (2024 est.)<br>
 _potential support ratio_: 20.7 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 16.9 years (2024 est.)<br>
+_total_: 16.9 years (2025 est.)<br>
 _male_: 16.7 years<br>
 _female_: 17 years<br>
 
 **Population growth rate**<br>
-3.11% (2024 est.)<br>
+3.09% (2025 est.)<br>
 
 **Birth rate**<br>
-39.2 births/1,000 population (2024 est.)<br>
+38.8 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-7.6 deaths/1,000 population (2024 est.)<br>
+7.37 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--0.6 migrant(s)/1,000 population (2024 est.)<br>
+-0.5 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 urban clusters are spread throughout the country, particularly in the northeast along the border with Uganda, Rwanda, and Burundi; the largest city is the capital, Kinshasha, located in the west along the Congo River; the south is least densely populated, as shown in this population distribution map<br>
@@ -159,7 +159,7 @@ _total population_: 1 male(s)/female (2024 est.)<br>
 427 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 57.4 deaths/1,000 live births (2024 est.)<br>
+_total_: 55.8 deaths/1,000 live births (2025 est.)<br>
 _male_: 62.9 deaths/1,000 live births<br>
 _female_: 51.9 deaths/1,000 live births<br>
 
@@ -169,10 +169,10 @@ _male_: 60.7 years<br>
 _female_: 64.6 years<br>
 
 **Total fertility rate**<br>
-5.49 children born/woman (2024 est.)<br>
+5.42 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-2.7 (2024 est.)<br>
+2.67 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 59.3% of population (2022 est.)<br>
@@ -216,7 +216,7 @@ _female_: 2.3% (2025 est.)<br>
 25% (2023 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-55.3% (2023 est.)<br>
+58.2% (2018 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 8.4% (2018)<br>
@@ -375,7 +375,7 @@ _email address and website_: <br>ambassade@ambardcusa.org<br><br>https://www.amb
 _representative office_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Lucy TAMLYN (since 6 February 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Susan TULLER (since January 2026)<br>
 _embassy_: 310 Avenue des Aviateurs, Kinshasa, Gombe<br>
 _mailing address_: 2220 Kinshasa Place, Washington DC&nbsp; 20521-2220<br>
 _telephone_: [243] 081 556-0151<br>
@@ -612,8 +612,8 @@ _total subscriptions_: 0 (2021 est.) less than 1<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 49.8 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 50 (2022 est.)<br>
+_total subscriptions_: 56,268,400 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 53 (2023 est.)<br>
 
 **Broadcast media**<br>
 state-owned TV station with near-national coverage; more than a dozen privately owned TV stations, including 2 with near-national coverage; 2 state-owned radio stations and over 100 private radio stations; transmissions of at least 2 international broadcasters are available<br>
@@ -674,14 +674,14 @@ Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Repu
 estimated 100-150,000 active FARDC (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FARDC is equipped mostly with Soviet-era and older French weapons and equipment; in 2024, the DRC signed an agreement with China for the provision of military equipment (2024)<br>
+the FARDC is equipped mostly with Soviet-era and older French armaments; in recent years, it has received some more modern equipment, such as armored vehicles and armed drones, from China, South Africa, Turkey, and the UAE (2025)<br>
 
 **Military service age and obligation**<br>
-18-35 years of age for voluntary military service for men and women; 18-45 years of age for compulsory military service for men; it is unclear how much conscription is used (2024)<br>
+18-35 years of age for voluntary military service for men and women; 18-45 years of age for compulsory military service for men; it is unclear how much conscription is used (2025)<br>
 <strong>note: </strong>in eastern Congo, fighters from armed groups, including some associated with government security forces, have been accused of forced recruitment of child soldiers<br>
 
 **Military - note**<br>
-the FARDC’s primary focus is internal security and conducting operations against rebels and other illegal armed groups (IOGs) operating in the DRC, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, where more than 15 significant and cohesive IOGs operate; there is also IOG-related violence in Maniema, Kasai, Kasai Central, and Tanganyika provinces; some estimates place over 100 IOGs operating in the country, including organized militias, such as the Nduma Defense of Congo-Renewal (NDC-R), which controls a large portion of North Kivu; Mai Mai groups (local militias that operate variously as self-defense networks and criminal rackets); and foreign-origin groups seeking safe haven and resources, such as the Ugandan-origin Allied Democratic Forces (ADF; aka Islamic State of Iraq and ash-Sham in the DRC), the Democratic Forces for the Liberation of Rwanda (FDLR), multiple groups originating from Burundi, the Lords Resistance Army (LRA), and the March 23 Movement (aka M23 or Congolese Revolutionary Army), which Rwanda has been accused of supporting militarily; the FARDC incorporates some non-state armed groups and has been accused of collaborating with some IOGs, such as the NDC-R<br><br>the UN Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO) has operated in the central and eastern parts of the country since 1999; it has nearly 14,000 personnel assigned, and its mandate had been extended to the end of 2025; MONUSCO includes a Force Intervention Brigade (FIB), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security (2025)<br>
+the FARDC’s primary focus is internal security and conducting operations against rebels and other illegal armed groups (IOGs) operating in the DRC, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, where more than 15 significant and cohesive IOGs operate; there is also IOG-related violence in Maniema, Kasai, Kasai Central, and Tanganyika provinces; some estimates place over 100 IOGs operating in the country, including organized militias, such as the Nduma Defense of Congo-Renewal (NDC-R), which controls a large portion of North Kivu; Mai Mai groups (local militias that operate variously as self-defense networks and criminal rackets); and foreign-origin groups seeking safe haven and resources, such as the Ugandan-origin Allied Democratic Forces (ADF; aka Islamic State of Iraq and ash-Sham in the DRC), the Democratic Forces for the Liberation of Rwanda (FDLR), multiple groups originating from Burundi, the Lords Resistance Army (LRA), and the March 23 Movement (aka M23 or Congolese Revolutionary Army), which Rwanda has been accused of supporting militarily; the FARDC incorporates some non-state armed groups and has been accused of collaborating with some IOGs, such as the NDC-R<br><br>the UN Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO) has operated in the central and eastern parts of the country since 1999; its mandate had been extended to the end of 2026; MONUSCO includes a Force Intervention Brigade (FIB), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security (2025)<br>
 
 ## Terrorism
 

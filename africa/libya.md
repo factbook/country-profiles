@@ -113,21 +113,21 @@ _elderly dependency ratio_: 7.2 (2024 est.)<br>
 _potential support ratio_: 13.9 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 26.2 years (2024 est.)<br>
+_total_: 26.4 years (2025 est.)<br>
 _male_: 26.3 years<br>
 _female_: 26.2 years<br>
 
 **Population growth rate**<br>
-1.44% (2024 est.)<br>
+1.35% (2025 est.)<br>
 
 **Birth rate**<br>
-20.3 births/1,000 population (2024 est.)<br>
+19.83 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-3.5 deaths/1,000 population (2024 est.)<br>
+3.48 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
--2.5 migrant(s)/1,000 population (2024 est.)<br>
+-2.89 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 over 90% of the population lives along the Mediterranean coast in and between Tripoli to the west and Al Bayda to the east; the interior remains vastly underpopulated due to the Sahara and its lack of surface water, as shown in this population distribution map<br>
@@ -150,7 +150,7 @@ _total population_: 1.04 male(s)/female (2024 est.)<br>
 59 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.7 deaths/1,000 live births (2024 est.)<br>
+_total_: 10.4 deaths/1,000 live births (2025 est.)<br>
 _male_: 12.1 deaths/1,000 live births<br>
 _female_: 9.3 deaths/1,000 live births<br>
 
@@ -160,10 +160,10 @@ _male_: 75.5 years<br>
 _female_: 80 years<br>
 
 **Total fertility rate**<br>
-3 children born/woman (2024 est.)<br>
+2.96 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-1.46 (2024 est.)<br>
+1.44 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 99.9% of population (2022 est.)<br>
@@ -194,9 +194,6 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 4.3% (2022 est.)<br>
-
-**Currently married women (ages 15-49)**<br>
-59.2% (2023 est.)<br>
 
 ## Environment
 
@@ -576,7 +573,7 @@ not available<br>
 estimates not available<br>
 
 **Military equipment inventories and acquisitions**<br>
-both the forces aligned with the GNU and the LNA are largely equipped with weapons of Russian or Soviet origin; in recent years, Turkey has the been the primary supplier of arms to the GNU, while the LNA has received quantities from Russia and the United Arab Emirates (2024)<br>
+both the forces aligned with the GNU and the LNA are largely equipped with weapons of Russian or Soviet origin; in recent years, Türkiye has the been the primary supplier of arms to the GNU, while the LNA has received quantities from Russia and the United Arab Emirates (2025)<br>
 <strong>note:</strong> Libya is under a UN-imposed arms embargo<br>
 
 **Military service age and obligation**<br>
@@ -596,4 +593,7 @@ Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham - Libya (ISIS-L); al-
 **Refugees and internally displaced persons**<br>
 _refugees_: 277,010 (2024 est.)<br>
 _IDPs_: 139,305 (2024 est.)<br>
+
+**Trafficking in persons**<br>
+_tier rating_: Special Case; for more details, go to: https://www.state.gov/reports/2025-trafficking-in-persons-report/libya/<br>
 

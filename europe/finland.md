@@ -110,21 +110,21 @@ _elderly dependency ratio_: 38.5 (2024 est.)<br>
 _potential support ratio_: 2.6 (2024 est.)<br>
 
 **Median age**<br>
-_total_: 43.3 years (2024 est.)<br>
+_total_: 44 years (2025 est.)<br>
 _male_: 41.8 years<br>
 _female_: 44.9 years<br>
 
 **Population growth rate**<br>
-0.2% (2024 est.)<br>
+0.02% (2025 est.)<br>
 
 **Birth rate**<br>
-10.2 births/1,000 population (2024 est.)<br>
+7.75 births/1,000 population (2025 est.)<br>
 
 **Death rate**<br>
-10.4 deaths/1,000 population (2024 est.)<br>
+11.01 deaths/1,000 population (2025 est.)<br>
 
 **Net migration rate**<br>
-2.2 migrant(s)/1,000 population (2024 est.)<br>
+3.44 migrant(s)/1,000 population (2025 est.)<br>
 
 **Population distribution**<br>
 the vast majority of people are found in the south; the northern interior areas remain sparsely populated<br>
@@ -150,7 +150,7 @@ _total population_: 0.97 male(s)/female (2024 est.)<br>
 8 deaths/100,000 live births (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.1 deaths/1,000 live births (2024 est.)<br>
+_total_: 1.9 deaths/1,000 live births (2025 est.)<br>
 _male_: 2.3 deaths/1,000 live births<br>
 _female_: 1.9 deaths/1,000 live births<br>
 
@@ -160,10 +160,10 @@ _male_: 79.3 years<br>
 _female_: 85.2 years<br>
 
 **Total fertility rate**<br>
-1.74 children born/woman (2024 est.)<br>
+1.28 children born/woman (2025 est.)<br>
 
 **Gross reproduction rate**<br>
-0.85 (2024 est.)<br>
+0.63 (2025 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population (2022 est.)<br>
@@ -207,7 +207,7 @@ _male_: 21.7% (2025 est.)<br>
 _female_: 14.3% (2025 est.)<br>
 
 **Currently married women (ages 15-49)**<br>
-57.2% (2023 est.)<br>
+57.1% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 18_: 0.1% (2017)<br>
@@ -339,7 +339,7 @@ _subordinate courts_: 6 Courts of Appeal; 8 regional administrative courts; 27 d
 <strong>note:</strong> Finland has a dual judicial system; courts with civil and criminal jurisdiction, and administrative courts with jurisdiction for litigation between individuals and administrative organs of the state and communities<br>
 
 **Political parties**<br>
-Aland Coalition (a coalition of several political parties on the Aland Islands)<br>Center Party or Kesk <br>Christian Democrats or KD <br>Finns Party or PS <br>Green League or Vihr <br>Left Alliance or Vas <br>Movement Now or Liike Nyt <br>National Coalition Party or Kok <br>Social Democratic Party or SDP <br>Swedish People's Party or RKP or SFP <br>
+Aland Coalition (a coalition of several political parties on the Aland Islands)<br>Center Party or Kesk <br>Christian Democrats or KD <br>Finns Party or PS <br>Green League or Vihr <br>Left Alliance or Vas <br>Movement Now or Liike Nyt <br>National Coalition Party or Kok <br>Social Democratic Party or SDP <br>Swedish People's Party or RKP or SFP<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Leena-Kaisa MIKKOLA (since 18 September 2024)<br>
@@ -350,7 +350,7 @@ _email address and website_: <br>sanomat.WAS@gov.fi<br><br>https://finlandabroad
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Howard W. Brodie (since 13 November 2025)<br>
+_chief of mission_: Ambassador Howard W. BRODIE (since 13 November 2025)<br>
 _embassy_: Itainen Puistotie 14 B, 00140 Helsinki<br>
 _mailing address_: 5310 Helsinki Place, Washington DC&nbsp; 20521-5310<br>
 _telephone_: [358] (9) 616-250<br>
@@ -655,14 +655,14 @@ approximately 31,000 active-duty military personnel (2025)<br>
 <strong>note:</strong> active-duty figures include about 21,000 conscripts carrying out their obligated military service<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of a wide mix of modern US, European, Israeli, South Korean, and domestically produced weapons systems; the Finnish defense industry produces a variety of military equipment, including wheeled armored vehicles and naval vessels; Finland also cooperates with other European countries and the US in the joint production of arms (2024)<br>
+the military's inventory consists of a mix of modern European, Israeli, South Korean, US, and domestically produced weapons systems; the Finnish defense industry produces a variety of military equipment, including wheeled armored vehicles and naval vessels; Finland also cooperates with other European countries and the US in the joint production of armaments (2025)<br>
 
 **Military service age and obligation**<br>
 all Finnish men are obligated to serve 5.5-12 months of service within a branch of the military or the Border Guard upon reaching the age of 18 (length of service depends on the type of duty); women 18-29 may volunteer for service; there is also an option to perform non-military service which lasts for 8.5 or 11.5 months; after completing their initial conscript obligation, individuals enter the reserves and remain eligible for mobilization until the age of 50 for rank-and-file and 60 for non-commissioned and commissioned officers (2025)<br>
-<strong>note 1:</strong> Finland has had conscription since 1951; each year, the military inducts and active-duty units train approximately 21,000 conscripts; the resulting pool of trained reservists gives the FDF a wartime strength of approximately 280,000 and a total reserve of some 900,000 citizens with military service<br><br><strong>note 2:</strong> women have served on a voluntary basis since 1995, and as of 2022 made up about 19% of the military's full-time personnel<br>
+<strong>note:</strong> Finland has had conscription since 1951; each year, the military inducts and active-duty units train approximately 21,000 conscripts; the resulting pool of trained reservists gives the FDF a wartime strength of approximately 280,000 and a total reserve of some 900,000 citizens with military service<br>
 
 **Military deployments**<br>
-165 Lebanon (UNIFIL) (2024)<br>
+165 Lebanon (UNIFIL); Finland also contributes to several ongoing EU and NATO missions (2025)<br>
 
 **Military - note**<br>
 the Finnish Defense Forces (FDF) are focused primarily on territorial defense, which is based on having a large, trained reserve force created by general conscription; other FDF responsibilities include support to international peacekeeping operations and some domestic security duties, such as assisting the National Police in maintaining law and order in crises<br><br>the FDF is also focused on fulfilling its commitment to NATO; following Russia’s full-scale invasion of Ukraine in 2022, Finland applied for NATO membership, gaining entry in April 2023; Finland had been part of NATO’s Partnership for Peace program since 1994 and participated in NATO-led military missions in the Balkans, Afghanistan, and Iraq; in 2024, it joined NATO's Air Policing mission in Eastern Europe<br><br>Finland is a signatory of the EU’s Common Security and Defense Policy and actively participates in EU crisis management missions and operations; the FDF also cooperates closely with the militaries of other Nordic countries through the Nordic Defense Cooperation structure (NORDEFCO; established 2009), which consists of Denmark, Finland, Iceland, Norway, and Sweden and involves cooperation in such areas as armaments, education, human resources, training and exercises, and operations; Sweden, the UK, and the US are close bi-lateral defense partners; in 2022, Finland signed a mutual security agreement with the UK, and since 2014 has been part of the UK-led Joint Expeditionary Force, a pool of high-readiness military forces from 10 Baltic and Scandinavian countries designed to respond to a wide range of contingencies in the North Atlantic, Baltic Sea, and High North regions (2025)<br>
