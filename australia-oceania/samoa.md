@@ -73,9 +73,9 @@ occupies an almost central position within Polynesia<br>
 ## People and Society
 
 **Population**<br>
-_total_: 208,853 (2024 est.)<br>
-_male_: 105,920<br>
-_female_: 102,933<br>
+_total_: 210,223 (2025 est.)<br>
+_male_: 106,542<br>
+_female_: 103,681<br>
 
 **Nationality**<br>
 _noun_: Samoan(s)<br>
@@ -97,10 +97,10 @@ _15-64 years_: 65.9% (male 70,225/female 67,427)<br>
 _65 years and over_: 7.2% (2024 est.) (male 6,743/female 8,333)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 51.7 (2024 est.)<br>
-_youth dependency ratio_: 40.8 (2024 est.)<br>
-_elderly dependency ratio_: 11 (2024 est.)<br>
-_potential support ratio_: 9.1 (2024 est.)<br>
+_total dependency ratio_: 51.6 (2025 est.)<br>
+_youth dependency ratio_: 40.2 (2025 est.)<br>
+_elderly dependency ratio_: 11.4 (2025 est.)<br>
+_potential support ratio_: 8.8 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 27.8 years (2025 est.)<br>
@@ -540,7 +540,7 @@ _subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 134,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 60 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 62 (2022 est.)<br>
 
 **Broadcast media**<br>
 state-owned TV station privatized in 2008; 4 privately owned TV stations; about a half-dozen privately owned radio stations and one state-owned; TV and radio broadcasts of several stations from American Samoa are available (2019)<br>

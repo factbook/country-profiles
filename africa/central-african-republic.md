@@ -83,9 +83,9 @@ landlocked; almost the precise center of Africa<br>
 ## People and Society
 
 **Population**<br>
-_total_: 5,650,957 (2024 est.)<br>
-_male_: 2,814,497<br>
-_female_: 2,836,460<br>
+_total_: 5,750,570 (2025 est.)<br>
+_male_: 2,864,870<br>
+_female_: 2,885,700<br>
 
 **Nationality**<br>
 _noun_: Central African(s)<br>
@@ -107,10 +107,10 @@ _15-64 years_: 58% (male 1,613,770/female 1,662,522)<br>
 _65 years and over_: 3.5% (2024 est.) (male 86,932/female 109,967)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 72.5 (2024 est.)<br>
-_youth dependency ratio_: 66.5 (2024 est.)<br>
-_elderly dependency ratio_: 6 (2024 est.)<br>
-_potential support ratio_: 16.6 (2024 est.)<br>
+_total dependency ratio_: 71.7 (2025 est.)<br>
+_youth dependency ratio_: 65.7 (2025 est.)<br>
+_elderly dependency ratio_: 6 (2025 est.)<br>
+_potential support ratio_: 16.6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 20.6 years (2025 est.)<br>
@@ -308,9 +308,9 @@ _chief of state_: President Faustin-Archange TOUAD&Eacute;RA (since 30 March 201
 _head of government_: Prime Minister F&eacute;lix MOLOUA (since 7 February 2022)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _election/appointment process_: current president was directly elected for 5-year term; constitutional referendum in July 2023 removed term limits and instituted 7-year terms<br>
-_most recent election date_: 27 December 2020<br>
-_election results_: <em><br>2020:</em> Faustin-Archange TOUADÉRA reelected president in first round; percent of vote - Faustin-Archange TOUADÉRA (independent) 53.9%, Anicet Georges DOLOGUELE (URCA) 21%, other 25.1%<br>
-_expected date of next election_: December 2025<br>
+_most recent election date_: 28 December 2025<br>
+_election results_: <em><br>2025:</em> Faustin-Archange TOUADÉRA reelected president in first round; percent of vote - Faustin-Archange TOUADÉRA (independent) 76.2%, Anicet Georges DOLOGUELE (URCA) 14.7%, other 9.1%<br>
+_expected date of next election_: December 2032<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly (Assembl&eacute;e nationale)<br>
@@ -322,8 +322,8 @@ _term in office_: 5 years<br>
 _most recent election date_: 12/27/2020 to 7/25/2021<br>
 _parties elected and seats per party_: United Hearts Movement (MCU) (63); National Movement of Independents (MOUNI) (9); Union for Central African Renewal (URCA) (7); Movement for the Liberation of the Central African People (MLPC) (7); Other (34); Independents (20)<br>
 _percentage of women in chamber_: 11.4%<br>
-_expected date of next election_: December 2025<br>
-<strong>note 1:</strong> on 27 December 2020, the day of first round elections, voting in many electoral areas was disrupted by armed groups; on 13 February 2021, President TOUADERA announced that new first round elections would be held on 27 February 2021 for those areas controlled by armed groups and the second round on 14 March 2021; ultimately, two additional rounds were held on 23 May and 25 July 2021 in areas that continued to suffer from election security problems<br><br><strong>note 2:</strong> in accordance with article 98 of the constitution published in August 2023, the parliamentary term has increased from five to seven years and will be first applied to the legislature due to be elected in late 2025<br>
+_expected date of next election_: 28 December 2025<br>
+<strong>note 1:</strong> on 27 December 2020, the day of first round elections, voting in many electoral areas was disrupted by armed groups; on 13 February 2021, President TOUADERA announced that new first round elections would be held on 27 February 2021 for those areas controlled by armed groups and the second round on 6 March 2021; ultimately, two additional rounds were held on 23 May and 25 July 2021 in areas that continued to suffer from election security problems<br><br><strong>note 2:</strong> in accordance with article 98 of the constitution published in August 2023, the parliamentary term has increased from five to seven years and will be first applied to the legislature due to be elected in late 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (number of judges unknown); Constitutional Court (consists of 9 judges, at least 3 of whom are women)<br>
@@ -556,11 +556,11 @@ _Total energy consumption per capita 2023_: 954,000 Btu/person (2023 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,000 (2021 est.)<br>
+_total subscriptions_: 2,090 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,979,150 (2022 est.)<br>
+_total subscriptions_: 1.98 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 39 (2022 est.)<br>
 
 **Broadcast media**<br>

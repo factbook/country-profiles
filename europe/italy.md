@@ -78,9 +78,9 @@ strategic location dominating central Mediterranean, as well as southern sea and
 ## People and Society
 
 **Population**<br>
-_total_: 60,964,931 (2024 est.)<br>
-_male_: 29,414,065<br>
-_female_: 31,550,866<br>
+_total_: 60,924,851 (2025 est.)<br>
+_male_: 29,383,949<br>
+_female_: 31,540,902<br>
 
 **Nationality**<br>
 _noun_: Italian(s)<br>
@@ -102,10 +102,10 @@ _15-64 years_: 64.5% (male 19,378,160/female 19,958,137)<br>
 _65 years and over_: 23.6% (2024 est.) (male 6,336,738/female 8,060,995)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55 (2024 est.)<br>
-_youth dependency ratio_: 18.4 (2024 est.)<br>
-_elderly dependency ratio_: 36.6 (2024 est.)<br>
-_potential support ratio_: 2.7 (2024 est.)<br>
+_total dependency ratio_: 55.3 (2025 est.)<br>
+_youth dependency ratio_: 18.1 (2025 est.)<br>
+_elderly dependency ratio_: 37.2 (2025 est.)<br>
+_potential support ratio_: 2.7 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 48.8 years (2025 est.)<br>
@@ -355,7 +355,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the High
 _subordinate courts_: various lower civil and criminal courts (primary and secondary tribunals and courts of appeal)<br>
 
 **Political parties**<br>
-Action-Italia Viva <br>Associative Movement of Italians Abroad or MAIE <br>Brothers of Italy or FdI <br>Democratic Party or PD <br>Five Star Movement or M5S <br>Forza Italia or FI <br>Free and Equal (Liberi e Uguali) or LeU <br>Greens and Left Alliance or AVS <br>Italexit <br>League or Lega <br>More Europe or +EU <br>Popular Union or PU <br>South calls North or ScN <br>South Tyrolean Peoples Party or SVP <br>other minor parties<br>
+Action-Italia Viva <br>Associative Movement of Italians Abroad or MAIE <br>Brothers of Italy or FdI <br>Democratic Party or PD <br>Five Star Movement or M5S <br>Forza Italia or FI <br>Free and Equal (Liberi e Uguali) or LeU <br>Greens and Left Alliance or AVS <br>League or Lega <br>More Europe or +EU  <br>South calls North or ScN <br>South Tyrolean Peoples Party or SVP <br>Us Moderates or NM<br>other minor parties<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Marco PERONACI (since 5 September 2025)<br>
@@ -618,8 +618,8 @@ _total subscriptions_: 20.107 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 34 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 78.5 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 133 (2022 est.)<br>
+_total subscriptions_: 78.7 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 133 (2024 est.)<br>
 
 **Broadcast media**<br>
 two Italian media giants dominate, with 3 national terrestrial stations;&nbsp; privately owned companies have 3 national terrestrial stations; a large number of private stations, a satellite TV network; 3 AM/FM nationwide radio stations; about 1,300 commercial radio stations<br>

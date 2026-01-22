@@ -86,9 +86,9 @@ the province of Cabinda is an exclave, separated from the rest of the country by
 ## People and Society
 
 **Population**<br>
-_total_: 37,202,061 (2024 est.)<br>
-_male_: 18,196,058<br>
-_female_: 19,006,003<br>
+_total_: 38,984,796 (2025 est.)<br>
+_male_: 19,115,781<br>
+_female_: 19,869,015<br>
 
 **Nationality**<br>
 _noun_: Angolan(s)<br>
@@ -110,10 +110,10 @@ _15-64 years_: 50.7% (male 9,076,080/female 9,795,035)<br>
 _65 years and over_: 2.4% (2024 est.) (male 367,559/female 509,546)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 96.1 (2024 est.)<br>
-_youth dependency ratio_: 91.1 (2024 est.)<br>
-_elderly dependency ratio_: 5.1 (2024 est.)<br>
-_potential support ratio_: 19.8 (2024 est.)<br>
+_total dependency ratio_: 95.1 (2025 est.)<br>
+_youth dependency ratio_: 90 (2025 est.)<br>
+_elderly dependency ratio_: 5.1 (2025 est.)<br>
+_potential support ratio_: 19.6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 16.6 years (2025 est.)<br>
@@ -590,11 +590,11 @@ _Total energy consumption per capita 2023_: 9.146 million Btu/person (2023 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 87,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
+_total subscriptions_: 80,300 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: (2024 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 25.744 million (2023 est.)<br>
+_total subscriptions_: 26.4 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 70 (2024 est.)<br>
 
 **Broadcast media**<br>

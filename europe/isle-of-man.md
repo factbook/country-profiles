@@ -72,9 +72,9 @@ one small islet, the Calf of Man, lies to the southwest and is a bird sanctuary<
 ## People and Society
 
 **Population**<br>
-_total_: 92,269 (2024 est.)<br>
-_male_: 46,331<br>
-_female_: 45,938<br>
+_total_: 92,666 (2025 est.)<br>
+_male_: 46,543<br>
+_female_: 46,123<br>
 
 **Nationality**<br>
 _noun_: Manxman (men), Manxwoman (women)<br>
@@ -96,10 +96,10 @@ _15-64 years_: 61.9% (male 29,035/female 28,044)<br>
 _65 years and over_: 22.1% (2024 est.) (male 9,595/female 10,794)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 61.7 (2024 est.)<br>
-_youth dependency ratio_: 25.9 (2024 est.)<br>
-_elderly dependency ratio_: 35.7 (2024 est.)<br>
-_potential support ratio_: 2.8 (2024 est.)<br>
+_total dependency ratio_: 62.4 (2025 est.)<br>
+_youth dependency ratio_: 25.9 (2025 est.)<br>
+_elderly dependency ratio_: 36.5 (2025 est.)<br>
+_potential support ratio_: 2.7 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 45.1 years (2025 est.)<br>
@@ -264,7 +264,7 @@ _subordinate courts_: High Court; Court of Summary Gaol Delivery; Summary Courts
 <strong>note:</strong> appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
 
 **Political parties**<br>
-Green Party <br>Liberal Vannin Party or LVP <br>Manx Labor Party<br>Mec Vannin (sometimes referred to as the Manx Nationalist Party)<br>
+Green Party <br>Liberal Vannin Party or LVP <br>Manx Labor Party<br>
 <strong>note:</strong> most members sit as independents<br>
 
 **Diplomatic representation in the US**<br>

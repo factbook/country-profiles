@@ -70,9 +70,9 @@ large, deepwater harbor at Saint Peter Port<br>
 ## People and Society
 
 **Population**<br>
-_total_: 67,787 (2024 est.)<br>
-_male_: 33,712<br>
-_female_: 34,075<br>
+_total_: 67,923 (2025 est.)<br>
+_male_: 33,760<br>
+_female_: 34,163<br>
 
 **Nationality**<br>
 _noun_: Channel Islander(s)<br>
@@ -94,10 +94,10 @@ _15-64 years_: 64.1% (male 21,937/female 21,547)<br>
 _65 years and over_: 21.5% (2024 est.) (male 6,776/female 7,811)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.9 (2024 est.)<br>
-_youth dependency ratio_: 22.3 (2024 est.)<br>
-_elderly dependency ratio_: 33.5 (2024 est.)<br>
-_potential support ratio_: 3 (2024 est.)<br>
+_total dependency ratio_: 56.8 (2025 est.)<br>
+_youth dependency ratio_: 22.4 (2025 est.)<br>
+_elderly dependency ratio_: 34.4 (2025 est.)<br>
+_potential support ratio_: 2.9 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 45.1 years (2025 est.)<br>
@@ -349,12 +349,12 @@ _electrification - total population_: 100% (2022 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 33,930 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 53 (2021 est.)<br>
+_total subscriptions_: 32,637 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 51 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 71,485 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 112 (2021 est.)<br>
+_total subscriptions_: 75,126 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 117 (2023 est.)<br>
 
 **Broadcast media**<br>
 multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey with relays in Jersey, Guernsey, and Alderney; satellite packages are available; BBC Radio Guernsey and 1 other radio station<br>

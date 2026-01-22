@@ -76,23 +76,23 @@ landlocked in the Lesser Caucasus Mountains; Sevana Lich (Lake Sevan) is the lar
 ## People and Society
 
 **Population**<br>
-_total_: 2,976,765 (2024 est.)<br>
-_male_: 1,456,415<br>
-_female_: 1,520,350<br>
+_total_: 2,963,837 (2025 est.)<br>
+_male_: 1,451,842<br>
+_female_: 1,511,995<br>
 
 **Nationality**<br>
 _noun_: Armenian(s)<br>
 _adjective_: Armenian<br>
 
 **Ethnic groups**<br>
-Armenian 98.1%, Yezidi 1.1%, other 0.8% (2022 est.)<br>
+Armenian 98.1%, Yezidi 1.1%; less than 1%: Russian, other, Assyrian, Kurd, Ukrainian, Greek (2022 est.)<br>
 
 **Languages**<br>
-Armenian (official) 97.9%, Kurmanji (spoken by Yezidi minority) 1%, other 1.1%; note - Russian is widely spoken (2011 est.)<br>
+Armenian 97.2%, Russian 1.4%, Ezidian 1.0%; less than 1%: other, unknown (2022)<br>
 _major-language sample(s)_: <br>Աշխարհի Փաստագիրք, Անփոխարինելի Աղբյւր Հիմնական Տեղեկատվւթյան. (Armenian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Armenian Apostolic Christian 95.2%, other Christian 1.6%, other 0.9%, none 0.6%, unspecified 1.7% (2022 est.)<br>
+Armenian Apostolic 95.2%, not stated 1.7%; less than 1%: Catholic, no religion, Evangelical, Shar-fadinian, other, Armenian Orthodox, Jehovah's Witness, Pagan, Molokan (2022 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 17.7% (male 275,589/female 250,630)<br>
@@ -100,10 +100,10 @@ _15-64 years_: 67% (male 991,490/female 1,004,101)<br>
 _65 years and over_: 15.3% (2024 est.) (male 189,336/female 265,619)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 49.2 (2024 est.)<br>
-_youth dependency ratio_: 26.4 (2024 est.)<br>
-_elderly dependency ratio_: 22.8 (2024 est.)<br>
-_potential support ratio_: 4.4 (2024 est.)<br>
+_total dependency ratio_: 50.4 (2025 est.)<br>
+_youth dependency ratio_: 26.1 (2025 est.)<br>
+_elderly dependency ratio_: 24.3 (2025 est.)<br>
+_potential support ratio_: 4.1 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 39.5 years (2025 est.)<br>
@@ -589,11 +589,11 @@ _Total energy consumption per capita 2023_: 54.689 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 331,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 11 (2023 est.)<br>
+_total subscriptions_: 297,000 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,959,450 (2023 est.)<br>
+_total subscriptions_: 4.01 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 135 (2024 est.)<br>
 
 **Broadcast media**<br>

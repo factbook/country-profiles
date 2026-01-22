@@ -96,9 +96,9 @@ tsunamis; volcanoes; earthquake activity around Pacific Basin; hurricanes along 
 ## People and Society
 
 **Population**<br>
-_total_: 341,963,408 (2024 est.)<br>
-_male_: 168,598,780<br>
-_female_: 173,364,628<br>
+_total_: 338,016,259 (2025 est.)<br>
+_male_: 167,543,554<br>
+_female_: 170,472,705<br>
 
 **Nationality**<br>
 _noun_: American(s)<br>
@@ -121,10 +121,10 @@ _15-64 years_: 63.4% (male 108,553,822/female 108,182,491)<br>
 _65 years and over_: 18.5% (2024 est.) (male 28,426,426/female 34,927,914)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.4 (2024 est.)<br>
-_youth dependency ratio_: 27 (2024 est.)<br>
-_elderly dependency ratio_: 28.4 (2024 est.)<br>
-_potential support ratio_: 3.5 (2024 est.)<br>
+_total dependency ratio_: 56 (2025 est.)<br>
+_youth dependency ratio_: 26.8 (2025 est.)<br>
+_elderly dependency ratio_: 29.2 (2025 est.)<br>
+_potential support ratio_: 3.4 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 39.5 years (2025 est.)<br>
@@ -615,8 +615,8 @@ _total subscriptions_: 87.987 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 26 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 386 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 110 (2022 est.)<br>
+_total subscriptions_: 391 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 113 (2024 est.)<br>
 
 **Broadcast media**<br>
 4 major terrestrial TV networks with affiliate stations, plus cable and satellite networks, independent stations, and a limited public broadcasting sector; thousands of TV stations broadcasting; multiple national radio networks with many affiliate stations; over 15,000 radio stations, most commercial; National Public Radio (NPR) has a network of about 900 member stations; satellite radio available (2018)<br>
@@ -680,8 +680,8 @@ approximately 1.28 million active duty Armed Forces (450,000 Army; 334,000 Navy;
 the US military's inventory is comprised almost entirely of domestically produced weapons systems (some assembled with foreign components) along with a smaller mix of imported equipment from a variety of countries such as Germany and the UK; the US defense industry is capable of designing, developing, maintaining, and producing the full spectrum of weapons systems; the US is the world's leading arms exporter (2025)<br>
 
 **Military service age and obligation**<br>
-17 years of age (under 18 with parental consent) for voluntary service for men and women; maximum enlistment age 35 (Army), 42 (Air Force/Space Force), 41 (Navy), 28 (Marines), 41 (Coast Guard); 8-year initial service obligation, including 2-5 years active duty depending on the particular military service (2025)<br>
-<strong>note 1: </strong>the US military has been all-volunteer since 1973, but an act of Congress can reinstate the draft in case of a national emergency; males aged 18-25 must register with Selective Service<br><strong><br>note 2:</strong> all military occupations and positions open to women; in 2022, women comprised 17.5% of the total US regular military personnel<br><br><strong>note 3:</strong> non-citizens living permanently and legally in the US may join as enlisted personnel; they must have permission to work in the US, a high school diploma, and speak, read, and write English fluently; under the Compact of Free Association, citizens of the Federated States of Micronesia, the Republic of Palau, and the Republic of the Marshall Islands may volunteer<br>
+17 years of age (under 18 with parental consent) for voluntary service for men and women; maximum enlistment age varies by service; 8-year initial service obligation, including 2-5 years active duty depending on the particular military service (2025)<br>
+<strong>note 1: </strong>the US military has been all-volunteer since 1973, but an act of Congress can reinstate the draft in case of a national emergency; males aged 18-25 must register with Selective Service<br><strong><br>note 2:</strong> all military occupations and positions open to women; women comprised 17.7% of the total US regular military personnel as of 2023<br><br><strong>note 3:</strong> non-citizens living permanently and legally in the US may join as enlisted personnel; they must have permission to work in the US, a high school diploma, and speak, read, and write English fluently; under the Compact of Free Association, citizens of the Federated States of Micronesia, the Republic of Palau, and the Republic of the Marshall Islands may volunteer<br>
 
 **Military deployments**<br>
 the US has approximately 200,000 military personnel deployed overseas on a permanent or a long-term rotational (typically 3-9 months) basis (2025)<br>

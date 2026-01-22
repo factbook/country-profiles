@@ -74,9 +74,9 @@ smallest country in the Western Hemisphere in terms of both area and population;
 ## People and Society
 
 **Population**<br>
-_total_: 55,133 (2024 est.)<br>
-_male_: 27,599<br>
-_female_: 27,534<br>
+_total_: 55,434 (2025 est.)<br>
+_male_: 27,748<br>
+_female_: 27,686<br>
 
 **Nationality**<br>
 _noun_: Kittitian(s), Nevisian(s)<br>
@@ -94,10 +94,10 @@ _15-64 years_: 68.1% (male 18,944/female 18,575)<br>
 _65 years and over_: 12.7% (2024 est.) (male 3,341/female 3,682)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 46.9 (2024 est.)<br>
-_youth dependency ratio_: 28.2 (2024 est.)<br>
-_elderly dependency ratio_: 18.7 (2024 est.)<br>
-_potential support ratio_: 5.3 (2024 est.)<br>
+_total dependency ratio_: 48.1 (2025 est.)<br>
+_youth dependency ratio_: 28.1 (2025 est.)<br>
+_elderly dependency ratio_: 20 (2025 est.)<br>
+_potential support ratio_: 5 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 39.1 years (2025 est.)<br>
@@ -475,8 +475,8 @@ _total subscriptions_: 16,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 33 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 56,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 119 (2021 est.)<br>
+_total subscriptions_: 56,600 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 119 (2023 est.)<br>
 
 **Broadcast media**<br>
 national state-operated TV network that broadcasts on 2 channels; cable subscription available for local and international channels; national state-operated radio network; mix of state-owned and privately owned broadcasters with about 15 radio stations (2019)<br>

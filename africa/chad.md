@@ -83,9 +83,9 @@ hot, dry, dusty harmattan winds occur in north; periodic droughts; locust plague
 ## People and Society
 
 **Population**<br>
-_total_: 19,093,595 (2024 est.)<br>
-_male_: 9,464,699<br>
-_female_: 9,628,896<br>
+_total_: 19,674,004 (2025 est.)<br>
+_male_: 9,756,129<br>
+_female_: 9,917,875<br>
 
 **Nationality**<br>
 _noun_: Chadian(s)<br>
@@ -107,10 +107,10 @@ _15-64 years_: 51.7% (male 4,831,744/female 5,031,383)<br>
 _65 years and over_: 2.5% (2024 est.) (male 204,823/female 274,115)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 93.6 (2024 est.)<br>
-_youth dependency ratio_: 88.7 (2024 est.)<br>
-_elderly dependency ratio_: 4.9 (2024 est.)<br>
-_potential support ratio_: 20.6 (2024 est.)<br>
+_total dependency ratio_: 92.1 (2025 est.)<br>
+_youth dependency ratio_: 87.2 (2025 est.)<br>
+_elderly dependency ratio_: 4.9 (2025 est.)<br>
+_potential support ratio_: 20.6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 16.9 years (2025 est.)<br>
@@ -333,6 +333,7 @@ _cabinet_: Council of Ministers<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (no term limits)<br>
 _most recent election date_: 6 May 2024<br>
 _election results_: <em><br>2024: </em>Mahamat Idriss DÉBY elected president; percent of vote - Mahamat Idriss DÉBY (MPS) 61%, Succes MASRA (Transformers) 18.5%, Albert PADACKE 16.9%, other 3.6%<br><em><br></em><br>
+_expected date of next election_: TBD<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament<br>
@@ -345,9 +346,10 @@ _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 12/29/2024<br>
-_parties elected and seats per party_: Patriotic Salvation Movement (MPS) (124); Rally of Chadian Nationalists/Awakening (RNDT/ Le Réveil) (12); Others (27); Other (25)<br>
+_parties elected and seats per party_: Patriotic Salvation Movement (MPS) (124); Rally of Chadian Nationalists/Awakening (RNDT/ Le R&eacute;veil) (12); Others (27); Other (25)<br>
 _percentage of women in chamber_: 33.5%<br>
 _expected date of next election_: December 2029<br>
+<strong>note:</strong> the initial term of the National Assembly was previously established as five years; however the term length will be changed to six years in accordance with constitutional amendments adopted by a joint session of parliament and promulgated by the President of the Republic in October 2025; the date from which the new term is to apply will be decided at a later stage; if the new term of six years is applied to the National Assembly elected in 2024, the next elections will be held in 2030<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: Senate (Senate)<br>
@@ -355,8 +357,10 @@ _number of seats_: 69 (46 indirectly elected; 23 appointed)<br>
 _scope of elections_: full renewal<br>
 _term in office_: 6 years<br>
 _most recent election date_: 2/25/2025<br>
+_parties elected and seats per party_: Patriotic Salvation Movement (MPS) (66); Other (3)<br>
 _percentage of women in chamber_: 36.2%<br>
 _expected date of next election_: February 2031<br>
+<strong>note:</strong> 46 of the Senate's 69 seats are determined by election, and the remaining 23 seats are appointed by the President<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice, 3 chamber presidents, and 12 judges or councilors and divided into 3 chambers); Supreme Council of the Judiciary (consists of the Judiciary president, vice president and 13 members)<br>
@@ -590,11 +594,11 @@ _Total energy consumption per capita 2023_: 1.502 million Btu/person (2023 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+_total subscriptions_: (2024 est.) The telephone system is down. No data is available for the year 2024.<br>
+_subscriptions per 100 inhabitants_: (2024 est.) The telephone system is down. No data is available for the year 2024.<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 13,559,500 (2023 est.)<br>
+_total subscriptions_: 14.8 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 73 (2024 est.)<br>
 
 **Broadcast media**<br>

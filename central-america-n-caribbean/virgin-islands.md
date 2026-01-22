@@ -72,9 +72,9 @@ important location along the Anegada Passage, a key shipping lane for the Panama
 ## People and Society
 
 **Population**<br>
-_total_: 104,377 (2024 est.)<br>
-_male_: 49,520<br>
-_female_: 54,857<br>
+_total_: 103,792 (2025 est.)<br>
+_male_: 49,195<br>
+_female_: 54,597<br>
 
 **Nationality**<br>
 _noun_: Virgin Islander(s) (US citizens)<br>
@@ -96,10 +96,10 @@ _15-64 years_: 59.8% (male 29,519/female 32,899)<br>
 _65 years and over_: 21.5% (2024 est.) (male 10,018/female 12,411)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 67.2 (2024 est.)<br>
-_youth dependency ratio_: 31.3 (2024 est.)<br>
-_elderly dependency ratio_: 35.9 (2024 est.)<br>
-_potential support ratio_: 2.8 (2024 est.)<br>
+_total dependency ratio_: 68 (2025 est.)<br>
+_youth dependency ratio_: 30.9 (2025 est.)<br>
+_elderly dependency ratio_: 37.1 (2025 est.)<br>
+_potential support ratio_: 2.7 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 43.4 years (2025 est.)<br>
@@ -382,8 +382,8 @@ _total subscriptions_: 76,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 88 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 80,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 80 (2021 est.)<br>
+_total subscriptions_: 79,100 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 92 (2022 est.)<br>
 
 **Broadcast media**<br>
 about a dozen TV stations, including 1 public TV station; multi-channel cable and satellite TV available; 24 radio stations<br>

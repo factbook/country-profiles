@@ -85,9 +85,9 @@ Mauritania is considered part of both North Africa's Maghreb region and West Afr
 ## People and Society
 
 **Population**<br>
-_total_: 4,328,040 (2024 est.)<br>
-_male_: 2,083,690<br>
-_female_: 2,244,350<br>
+_total_: 5,202,109 (2025 est.)<br>
+_male_: 2,578,114<br>
+_female_: 2,623,995<br>
 
 **Nationality**<br>
 _noun_: Mauritanian(s)<br>
@@ -110,10 +110,10 @@ _15-64 years_: 59.9% (male 1,227,347/female 1,363,938)<br>
 _65 years and over_: 4.4% (2024 est.) (male 80,308/female 110,280)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 85.4 (2024 est.)<br>
-_youth dependency ratio_: 78.5 (2024 est.)<br>
-_elderly dependency ratio_: 6.9 (2024 est.)<br>
-_potential support ratio_: 14.5 (2024 est.)<br>
+_total dependency ratio_: 84.7 (2025 est.)<br>
+_youth dependency ratio_: 77.8 (2025 est.)<br>
+_elderly dependency ratio_: 7 (2025 est.)<br>
+_potential support ratio_: 14.3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 18.6 years (2025 est.)<br>
@@ -336,6 +336,7 @@ _electoral system_: mixed system<br>
 _scope of elections_: full renewal<br>
 _term in office_: 5 years<br>
 _most recent election date_: 5/13/2023 to 5/27/2023<br>
+_parties elected and seats per party_: El Insaf (107); Tawassoul (11); Other (58)<br>
 _percentage of women in chamber_: 23.3%<br>
 _expected date of next election_: May 2028<br>
 <strong>note:</strong> the early parliamentary elections in 2023 were the first to be held under President Mohamed Ould Cheikh El GHAZOUANI, elected in 2019 in the first peaceful transition of power; the elections followed the agreement between the government and parties in September 2022 to renew the Independent National Electoral Commission (CENI) and hold the elections in the first semester of 2023 for climatic and logistical reasons<br>

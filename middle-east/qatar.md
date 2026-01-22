@@ -78,9 +78,9 @@ the peninsula occupies a strategic location in the central Persian Gulf near maj
 ## People and Society
 
 **Population**<br>
-_total_: 2,552,088 (2024 est.)<br>
-_male_: 1,961,135<br>
-_female_: 590,953<br>
+_total_: 2,568,426 (2025 est.)<br>
+_male_: 1,970,605<br>
+_female_: 597,821<br>
 
 **Nationality**<br>
 _noun_: Qatari(s)<br>
@@ -102,10 +102,10 @@ _15-64 years_: 85.4% (male 1,767,294/female 411,977)<br>
 _65 years and over_: 1.5% (2024 est.) (male 24,997/female 13,071)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 17.1 (2024 est.)<br>
-_youth dependency ratio_: 15.4 (2024 est.)<br>
-_elderly dependency ratio_: 1.7 (2024 est.)<br>
-_potential support ratio_: 57.2 (2024 est.)<br>
+_total dependency ratio_: 17.3 (2025 est.)<br>
+_youth dependency ratio_: 15.4 (2025 est.)<br>
+_elderly dependency ratio_: 1.8 (2025 est.)<br>
+_potential support ratio_: 54.4 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 34.4 years (2025 est.)<br>
@@ -556,8 +556,8 @@ _total subscriptions_: 526,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 18 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.7 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 174 (2022 est.)<br>
+_total subscriptions_: 4.68 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 154 (2024 est.)<br>
 
 **Broadcast media**<br>
 state-controlled TV and radio licensing and access to local media markets; home of satellite TV channel Al-Jazeera, which was originally&nbsp; state-owned but is now independent; local radio includes state, private, and international broadcasters on FM frequencies; satellite TV available (2019)<br>

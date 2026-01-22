@@ -434,8 +434,8 @@ _total subscriptions_: 839.8 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 11 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 9,144,200,000 (2024 est.)<br>
-_subscriptions per 100 inhabitants_: 112 (2024 est.)<br>
+_total subscriptions_: 9.01 billion (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 110 (2024 est.)<br>
 
 **Internet users**<br>
 _percent of population_: 74% (2025 est.)<br>

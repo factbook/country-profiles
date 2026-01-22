@@ -88,9 +88,9 @@ periodic droughts in south; Congo River floods (seasonal); active volcanoes in t
 ## People and Society
 
 **Population**<br>
-_total_: 115,403,027 (2024 est.)<br>
-_male_: 57,688,160<br>
-_female_: 57,714,867<br>
+_total_: 119,038,825 (2025 est.)<br>
+_male_: 59,509,076<br>
+_female_: 59,529,749<br>
 
 **Nationality**<br>
 _noun_: Congolese (singular and plural)<br>
@@ -112,10 +112,10 @@ _15-64 years_: 51.8% (male 29,845,450/female 29,884,958)<br>
 _65 years and over_: 2.5% (2024 est.) (male 1,258,442/female 1,621,018)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 93.2 (2024 est.)<br>
-_youth dependency ratio_: 88.4 (2024 est.)<br>
-_elderly dependency ratio_: 4.8 (2024 est.)<br>
-_potential support ratio_: 20.7 (2024 est.)<br>
+_total dependency ratio_: 92.1 (2025 est.)<br>
+_youth dependency ratio_: 87.3 (2025 est.)<br>
+_elderly dependency ratio_: 4.8 (2025 est.)<br>
+_potential support ratio_: 20.8 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 16.9 years (2025 est.)<br>
@@ -608,11 +608,11 @@ _Total energy consumption per capita 2023_: 1.305 million Btu/person (2023 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 0 (2021 est.) less than 1<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+_total subscriptions_: (2023 est.) Currently, operators holding fixed-line telephone licenses do not have an operational distribution network, which explains the low number of customers.<br>
+_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 56,268,400 (2023 est.)<br>
+_total subscriptions_: 56.3 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 53 (2023 est.)<br>
 
 **Broadcast media**<br>

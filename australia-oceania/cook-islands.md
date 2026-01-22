@@ -73,9 +73,9 @@ the northern Cook Islands are seven low-lying, sparsely populated, coral atolls;
 ## People and Society
 
 **Population**<br>
-_total_: 7,761 (2024 est.)<br>
-_male_: 3,980<br>
-_female_: 3,781<br>
+_total_: 7,592 (2025 est.)<br>
+_male_: 3,890<br>
+_female_: 3,702<br>
 
 **Nationality**<br>
 _noun_: Cook Islander(s)<br>
@@ -97,10 +97,10 @@ _15-64 years_: 65.9% (male 2,634/female 2,479)<br>
 _65 years and over_: 16% (2024 est.) (male 608/female 631)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 51.8 (2024 est.)<br>
-_youth dependency ratio_: 27.6 (2024 est.)<br>
-_elderly dependency ratio_: 24.2 (2024 est.)<br>
-_potential support ratio_: 4.1 (2024 est.)<br>
+_total dependency ratio_: 53 (2025 est.)<br>
+_youth dependency ratio_: 27.4 (2025 est.)<br>
+_elderly dependency ratio_: 25.5 (2025 est.)<br>
+_potential support ratio_: 3.9 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 41.5 years (2025 est.)<br>
@@ -414,8 +414,8 @@ _refined petroleum consumption_: 700 bbl/day (2023 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 41 (2021 est.)<br>
+_total subscriptions_: 6,990 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 48 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 18,100 (2022 est.)<br>

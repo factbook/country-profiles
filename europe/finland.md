@@ -79,9 +79,9 @@ long boundary with Russia; Helsinki is northernmost national capital on European
 ## People and Society
 
 **Population**<br>
-_total_: 5,626,414 (2024 est.)<br>
-_male_: 2,773,656<br>
-_female_: 2,852,758<br>
+_total_: 5,550,449 (2025 est.)<br>
+_male_: 2,750,057<br>
+_female_: 2,800,392<br>
 
 **Nationality**<br>
 _noun_: Finn(s)<br>
@@ -104,10 +104,10 @@ _15-64 years_: 60.3% (male 1,725,072/female 1,668,604)<br>
 _65 years and over_: 23.5% (2024 est.) (male 583,645/female 739,569)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 62.4 (2024 est.)<br>
-_youth dependency ratio_: 23.8 (2024 est.)<br>
-_elderly dependency ratio_: 38.5 (2024 est.)<br>
-_potential support ratio_: 2.6 (2024 est.)<br>
+_total dependency ratio_: 62.3 (2025 est.)<br>
+_youth dependency ratio_: 23.3 (2025 est.)<br>
+_elderly dependency ratio_: 39 (2025 est.)<br>
+_potential support ratio_: 2.6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 44 years (2025 est.)<br>
@@ -589,12 +589,12 @@ _Total energy consumption per capita 2023_: 183.54 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 158,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
+_total subscriptions_: 158,000 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.14 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 129 (2022 est.)<br>
+_total subscriptions_: 7.07 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 126 (2024 est.)<br>
 
 **Broadcast media**<br>
 3 publicly operated TV stations and numerous privately owned TV stations; several free and special-interest pay-TV channels; cable and satellite multi-channel subscription services are available; all TV signals are digital; 13 national and 25 regional public radio stations; a large number of private radio broadcasters&nbsp;<br>

@@ -77,9 +77,9 @@ smallest independent country on the South American continent; mostly tropical ra
 ## People and Society
 
 **Population**<br>
-_total_: 646,758 (2024 est.)<br>
-_male_: 320,352<br>
-_female_: 326,406<br>
+_total_: 653,605 (2025 est.)<br>
+_male_: 323,747<br>
+_female_: 329,858<br>
 
 **Nationality**<br>
 _noun_: Surinamer(s)<br>
@@ -101,10 +101,10 @@ _15-64 years_: 70% (male 226,417/female 226,235)<br>
 _65 years and over_: 7.5% (2024 est.) (male 20,071/female 28,598)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 42.9 (2024 est.)<br>
-_youth dependency ratio_: 32.1 (2024 est.)<br>
-_elderly dependency ratio_: 10.8 (2024 est.)<br>
-_potential support ratio_: 9.3 (2024 est.)<br>
+_total dependency ratio_: 43 (2025 est.)<br>
+_youth dependency ratio_: 31.8 (2025 est.)<br>
+_elderly dependency ratio_: 11.2 (2025 est.)<br>
+_potential support ratio_: 8.9 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 32.3 years (2025 est.)<br>
@@ -554,8 +554,8 @@ _total subscriptions_: 129,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 20 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 989,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 150 (2022 est.)<br>
+_total subscriptions_: 902,000 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 142 (2024 est.)<br>
 
 **Broadcast media**<br>
 2 state-owned TV stations; 1 state-owned radio station; multiple private radio and TV stations (2019)<br>
@@ -597,7 +597,7 @@ _key ports_: Moengo, Nieuw Nickerie, Paramaribo, Paranam<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Suriname National Army (Nationaal Leger or NL); Army (Landmacht), Navy (Marine); Air Force (Luchtmacht), Military Police (Korps Militaire Politie)<br><br>Ministry of Justice and Police: Suriname Police Force (Korps Politie Suriname or KPS) (2025)<br>
+Suriname National Army (Nationaal Leger or NL); Army (Landmacht), Navy (Marine); Air Force (Luchtmacht), Military Police (Korps Militaire Politie)<br><br>Ministry of Justice and Police: Suriname Police Force (Korps Politie Suriname or KPS) (2026)<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2019 est.)<br>
@@ -613,7 +613,7 @@ approximately 2,000 National Army (2025)<br>
 the Suriname Army has a limited inventory of older or secondhand armaments originating from such suppliers as Brazil, France, the Netherlands, and India (2025)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service for men and women; no conscription (2024)<br>
+18-28 years of age for voluntary military service for men and women; no conscription (2025)<br>
 
 **Military - note**<br>
 the National Leger is responsible for defending the sovereignty and territorial integrity of Suriname against foreign aggression; other special tasks include border control and supporting domestic security as required; the military police, for example, have direct responsibility for immigration control at the country&rsquo;s ports of entry, and the military assists the police in combating crime, particularly narco-trafficking, including joint military and police patrols, as well as joint special security teams; in addition, the military provides aid and assistance during times of natural emergencies and participates in socio-economic development projects (2025)<br>

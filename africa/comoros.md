@@ -72,9 +72,9 @@ important location at northern end of Mozambique Channel; the only Arab League c
 ## People and Society
 
 **Population**<br>
-_total_: 900,141 (2024 est.)<br>
-_male_: 435,758<br>
-_female_: 464,383<br>
+_total_: 911,707 (2025 est.)<br>
+_male_: 441,215<br>
+_female_: 470,492<br>
 
 **Nationality**<br>
 _noun_: Comoran(s)<br>
@@ -96,10 +96,10 @@ _15-64 years_: 62.8% (male 271,139/female 294,231)<br>
 _65 years and over_: 4.6% (2024 est.) (male 18,139/female 23,526)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 59.2 (2024 est.)<br>
-_youth dependency ratio_: 51.8 (2024 est.)<br>
-_elderly dependency ratio_: 7.4 (2024 est.)<br>
-_potential support ratio_: 13.6 (2024 est.)<br>
+_total dependency ratio_: 57.3 (2025 est.)<br>
+_youth dependency ratio_: 49.9 (2025 est.)<br>
+_elderly dependency ratio_: 7.4 (2025 est.)<br>
+_potential support ratio_: 13.5 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 23.1 years (2025 est.)<br>
@@ -303,7 +303,7 @@ _expected date of next election_: 2029<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_legislature name_: Assembly of the Union (Assemblée de l'Union)<br>
+_legislature name_: Assembly of the Union (Assembl&eacute;e de l'Union)<br>
 _legislative structure_: unicameral<br>
 _number of seats_: 33 (all directly elected)<br>
 _electoral system_: plurality/majority<br>
@@ -313,7 +313,7 @@ _most recent election date_: 1/12/2025 to 2/16/2025<br>
 _parties elected and seats per party_: Convention for the Renewal of the Comoros (CRC) (31); Other (2)<br>
 _percentage of women in chamber_: 18.2%<br>
 _expected date of next election_: January 2030<br>
-note: opposition parties, which claimed there was "gross fraud" during the most recent election, boycotted the elections in 2020 and 2025<br>
+<strong>note:</strong> opposition parties, which claimed there was "gross fraud" during the most recent election, boycotted the elections in 2020 and 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of 7 judges)<br>
@@ -531,11 +531,11 @@ _Total energy consumption per capita 2023_: 7.139 million Btu/person (2023 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 9,000 (2023 est.)<br>
+_total subscriptions_: 8,200 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 934,198 (2023 est.)<br>
+_total subscriptions_: 934,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 110 (2023 est.)<br>
 
 **Broadcast media**<br>

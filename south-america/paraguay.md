@@ -82,9 +82,9 @@ landlocked; lies between Argentina, Bolivia, and Brazil; population concentrated
 ## People and Society
 
 **Population**<br>
-_total_: 7,522,549 (2024 est.)<br>
-_male_: 3,769,376<br>
-_female_: 3,753,173<br>
+_total_: 7,604,044 (2025 est.)<br>
+_male_: 3,809,407<br>
+_female_: 3,794,637<br>
 
 **Nationality**<br>
 _noun_: Paraguayan(s)<br>
@@ -107,10 +107,10 @@ _15-64 years_: 68.4% (male 2,582,021/female 2,561,962)<br>
 _65 years and over_: 9.4% (2024 est.) (male 337,164/female 369,974)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 46.2 (2024 est.)<br>
-_youth dependency ratio_: 32.5 (2024 est.)<br>
-_elderly dependency ratio_: 13.7 (2024 est.)<br>
-_potential support ratio_: 7.3 (2024 est.)<br>
+_total dependency ratio_: 46.7 (2025 est.)<br>
+_youth dependency ratio_: 32.4 (2025 est.)<br>
+_elderly dependency ratio_: 14.3 (2025 est.)<br>
+_potential support ratio_: 7 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 32.3 years (2025 est.)<br>
@@ -605,7 +605,7 @@ _subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 8.67 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 128 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 127 (2023 est.)<br>
 
 **Broadcast media**<br>
 6 privately owned TV stations; about 75 commercial and community radio stations; 1 state-owned radio network (2019)<br>

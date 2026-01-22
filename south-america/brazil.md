@@ -90,9 +90,9 @@ recurring droughts in northeast; floods and occasional frost in south<br>
 ## People and Society
 
 **Population**<br>
-_total_: 220,051,512 (2024 est.)<br>
-_male_: 108,166,491<br>
-_female_: 111,885,021<br>
+_total_: 221,359,387 (2025 est.)<br>
+_male_: 108,753,532<br>
+_female_: 112,605,855<br>
 
 **Nationality**<br>
 _noun_: Brazilian(s)<br>
@@ -114,10 +114,10 @@ _15-64 years_: 69.5% (male 75,889,089/female 77,118,722)<br>
 _65 years and over_: 10.9% (2024 est.) (male 10,251,809/female 13,677,901)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 43.8 (2024 est.)<br>
-_youth dependency ratio_: 28.2 (2024 est.)<br>
-_elderly dependency ratio_: 15.6 (2024 est.)<br>
-_potential support ratio_: 6.4 (2024 est.)<br>
+_total dependency ratio_: 44.3 (2025 est.)<br>
+_youth dependency ratio_: 28.1 (2025 est.)<br>
+_elderly dependency ratio_: 16.2 (2025 est.)<br>
+_potential support ratio_: 6.2 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 35.4 years (2025 est.)<br>
@@ -637,11 +637,11 @@ _Total energy consumption per capita 2023_: 48.889 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 25.574 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 12 (2023 est.)<br>
+_total subscriptions_: 22.5 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 213.295 million (2023 est.)<br>
+_total subscriptions_: 216 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 102 (2024 est.)<br>
 
 **Broadcast media**<br>

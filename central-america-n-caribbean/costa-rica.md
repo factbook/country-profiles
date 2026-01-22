@@ -76,9 +76,9 @@ four volcanoes, two of them active, rise near the capital of San Jose in the cen
 ## People and Society
 
 **Population**<br>
-_total_: 5,265,575 (2024 est.)<br>
-_male_: 2,635,481<br>
-_female_: 2,630,094<br>
+_total_: 5,304,932 (2025 est.)<br>
+_male_: 2,654,314<br>
+_female_: 2,650,618<br>
 
 **Nationality**<br>
 _noun_: Costa Rican(s)<br>
@@ -100,10 +100,10 @@ _15-64 years_: 70.2% (male 1,862,872/female 1,832,024)<br>
 _65 years and over_: 11.1% (2024 est.) (male 266,568/female 315,589)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 42.5 (2024 est.)<br>
-_youth dependency ratio_: 26.8 (2024 est.)<br>
-_elderly dependency ratio_: 15.8 (2024 est.)<br>
-_potential support ratio_: 6.3 (2024 est.)<br>
+_total dependency ratio_: 42.7 (2025 est.)<br>
+_youth dependency ratio_: 26.2 (2025 est.)<br>
+_elderly dependency ratio_: 16.5 (2025 est.)<br>
+_potential support ratio_: 6.1 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 36 years (2025 est.)<br>
@@ -578,11 +578,11 @@ _Total energy consumption per capita 2023_: 30.725 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 678,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2023 est.)<br>
+_total subscriptions_: 610,000 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 12 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,443,280 (2023 est.)<br>
+_total subscriptions_: 6.98 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 136 (2024 est.)<br>
 
 **Broadcast media**<br>

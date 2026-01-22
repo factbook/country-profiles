@@ -75,9 +75,9 @@ smallest Central American country and only one without a coastline on the Caribb
 ## People and Society
 
 **Population**<br>
-_total_: 6,628,702 (2024 est.)<br>
-_male_: 3,172,244<br>
-_female_: 3,456,458<br>
+_total_: 6,334,723 (2025 est.)<br>
+_male_: 3,026,645<br>
+_female_: 3,308,078<br>
 
 **Nationality**<br>
 _noun_: Salvadoran(s)<br>
@@ -99,10 +99,10 @@ _15-64 years_: 66.3% (male 2,077,745/female 2,317,416)<br>
 _65 years and over_: 8.4% (2024 est.) (male 238,658/female 320,400)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 47.6 (2024 est.)<br>
-_youth dependency ratio_: 35 (2024 est.)<br>
-_elderly dependency ratio_: 12.5 (2024 est.)<br>
-_potential support ratio_: 8 (2024 est.)<br>
+_total dependency ratio_: 43 (2025 est.)<br>
+_youth dependency ratio_: 29.9 (2025 est.)<br>
+_elderly dependency ratio_: 13.1 (2025 est.)<br>
+_potential support ratio_: 7.6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 31.2 years (2025 est.)<br>
@@ -581,11 +581,11 @@ _Total energy consumption per capita 2023_: 24.421 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 863,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 14 (2022 est.)<br>
+_total subscriptions_: 885,000 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,338,800 (2023 est.)<br>
+_total subscriptions_: 11.2 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 177 (2024 est.)<br>
 
 **Broadcast media**<br>

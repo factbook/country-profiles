@@ -86,9 +86,9 @@ strategic location on the Persian Gulf and Strait of Hormuz<br>
 ## People and Society
 
 **Population**<br>
-_total_: 88,386,937 (2024 est.)<br>
-_male_: 44,795,539<br>
-_female_: 43,591,398<br>
+_total_: 89,177,357 (2025 est.)<br>
+_male_: 45,098,223<br>
+_female_: 44,079,134<br>
 
 **Nationality**<br>
 _noun_: Iranian(s)<br>
@@ -110,10 +110,10 @@ _15-64 years_: 69.8% (male 31,413,125/female 30,267,241)<br>
 _65 years and over_: 7% (2024 est.) (male 2,869,617/female 3,283,875)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 43.3 (2024 est.)<br>
-_youth dependency ratio_: 33.3 (2024 est.)<br>
-_elderly dependency ratio_: 10 (2024 est.)<br>
-_potential support ratio_: 10 (2024 est.)<br>
+_total dependency ratio_: 42.8 (2025 est.)<br>
+_youth dependency ratio_: 30.4 (2025 est.)<br>
+_elderly dependency ratio_: 12.4 (2025 est.)<br>
+_potential support ratio_: 8.1 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 35.2 years (2025 est.)<br>
@@ -585,8 +585,8 @@ _total subscriptions_: 29.02 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 32 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 151 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 165 (2022 est.)<br>
+_total subscriptions_: 159 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 174 (2024 est.)<br>
 
 **Broadcast media**<br>
 state-run broadcast media with no private, independent broadcasters; Islamic Republic of Iran Broadcasting (IRIB), the state-run TV broadcaster, operates over 60 television channels, over 50 radio stations, and dozens of newspapers and websites; about 20 foreign Persian-language TV stations broadcasting on satellite TV can be seen in Iran; satellite dishes are illegal and sometimes confiscated; most major international broadcasters transmit to Iran (2023)<br>

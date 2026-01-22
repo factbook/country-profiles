@@ -75,9 +75,9 @@ the main island, from which the country derives its name, is of volcanic origin 
 ## People and Society
 
 **Population**<br>
-_total_: 1,310,504 (2024 est.)<br>
-_male_: 639,270<br>
-_female_: 671,234<br>
+_total_: 1,311,375 (2025 est.)<br>
+_male_: 639,707<br>
+_female_: 671,668<br>
 
 **Nationality**<br>
 _noun_: Mauritian(s)<br>
@@ -99,10 +99,10 @@ _15-64 years_: 71% (male 462,833/female 467,509)<br>
 _65 years and over_: 13.9% (2024 est.) (male 75,464/female 107,014)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 40.9 (2024 est.)<br>
-_youth dependency ratio_: 21.2 (2024 est.)<br>
-_elderly dependency ratio_: 19.6 (2024 est.)<br>
-_potential support ratio_: 5.1 (2024 est.)<br>
+_total dependency ratio_: 41.7 (2025 est.)<br>
+_youth dependency ratio_: 21.1 (2025 est.)<br>
+_elderly dependency ratio_: 20.5 (2025 est.)<br>
+_potential support ratio_: 4.9 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 40 years (2025 est.)<br>
@@ -300,10 +300,10 @@ _residency requirement for naturalization_: 5 out of the previous 7 years includ
 _chief of state_: President Dharam GOKHOOL (since 7 December 2024)<br>
 _head of government_: Prime Minister Navin RAMGOOLAM (since 13 November 2024)<br>
 _cabinet_: Cabinet of Ministers (Council of Ministers) appointed by the president on the recommendation of the prime minister<br>
-_election/appointment process_: president and vice president indirectly elected by the National Assembly for 5-year renewable terms; the president appoints the prime minister and deputy prime minister who have the majority support in the National Assembly<br>
-_most recent election date_: 7 November 2019<br>
+_election/appointment process_: president indirectly elected by the National Assembly for 5-year renewable terms; the president appoints the prime minister and deputy prime minister who have the majority support in the National Assembly<br>
+_most recent election date_: 6 December 2024<br>
 _election results_: <em><br>2019</em>: Prithvirajsing ROOPUN (MSM) elected president by the National Assembly - unanimous vote<br>
-_expected date of next election_: 2024<br>
+_expected date of next election_: 2029<br>
 
 **Legislative branch**<br>
 _legislature name_: National Assembly - Assemblée nationale<br>
@@ -566,8 +566,8 @@ _total subscriptions_: 464,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 36 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2.1 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 161 (2022 est.)<br>
+_total subscriptions_: 2.2 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 173 (2024 est.)<br>
 
 **Broadcast media**<br>
 the Mauritius Broadcasting Corporation (MBC) is the national public TV and radio broadcaster, with programming in French, English, Hindi, Creole, and Chinese; MBC provides 17 television channels in Mauritius;&nbsp; 9 FM radio stations and 2 AM radio stations (2022)<br>

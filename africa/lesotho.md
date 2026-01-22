@@ -79,9 +79,9 @@ landlocked, surrounded by South Africa; mountainous, more than 80% of the countr
 ## People and Society
 
 **Population**<br>
-_total_: 2,227,548 (2024 est.)<br>
-_male_: 1,101,959<br>
-_female_: 1,125,589<br>
+_total_: 2,222,962 (2025 est.)<br>
+_male_: 1,099,314<br>
+_female_: 1,123,648<br>
 
 **Nationality**<br>
 _noun_: Mosotho (singular), Basotho (plural)<br>
@@ -102,10 +102,10 @@ _15-64 years_: 62.7% (male 699,197/female 696,626)<br>
 _65 years and over_: 5.4% (2024 est.) (male 44,625/female 75,345)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 59.6 (2024 est.)<br>
-_youth dependency ratio_: 51 (2024 est.)<br>
-_elderly dependency ratio_: 8.6 (2024 est.)<br>
-_potential support ratio_: 11.6 (2024 est.)<br>
+_total dependency ratio_: 56.8 (2025 est.)<br>
+_youth dependency ratio_: 48.2 (2025 est.)<br>
+_elderly dependency ratio_: 8.6 (2025 est.)<br>
+_potential support ratio_: 11.6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 24 years (2025 est.)<br>

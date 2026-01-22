@@ -86,9 +86,9 @@ controls Khyber Pass and Bolan Pass, traditional invasion routes between Central
 ## People and Society
 
 **Population**<br>
-_total_: 252,363,571 (2024 est.)<br>
-_male_: 128,387,797<br>
-_female_: 123,975,774<br>
+_total_: 257,047,044 (2025 est.)<br>
+_male_: 130,727,015<br>
+_female_: 126,320,029<br>
 
 **Nationality**<br>
 _noun_: Pakistani(s)<br>
@@ -111,10 +111,10 @@ _15-64 years_: 60.7% (male 78,321,834/female 74,833,003)<br>
 _65 years and over_: 4.9% (2024 est.) (male 5,735,294/female 6,613,764)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 64.8 (2024 est.)<br>
-_youth dependency ratio_: 56.7 (2024 est.)<br>
-_elderly dependency ratio_: 8.1 (2024 est.)<br>
-_potential support ratio_: 12.4 (2024 est.)<br>
+_total dependency ratio_: 64 (2025 est.)<br>
+_youth dependency ratio_: 55.8 (2025 est.)<br>
+_elderly dependency ratio_: 8.2 (2025 est.)<br>
+_potential support ratio_: 12.1 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 23.2 years (2025 est.)<br>
@@ -344,7 +344,7 @@ _expected date of next election_: 2029<br>
 **Legislative branch**<br>
 _legislature name_: Parliament (Majlis-E-Shoora)<br>
 _legislative structure_: bicameral<br>
-<strong>note</strong>: in May 2018, the Parliament of Pakistan and the Khyber Pakhtunkhwa Assembly passed a constitutional amendment to merge the Federally Administrated Tribal Areas and Provincially Administered Tribal Areas with the province of Khyber Pakhtunkhwa; the amendment reduces the Senate from 104 to 96 members - 4 in the 2024 election and 4 in the 2027 election<br><br><br>
+<br><br><br>
 
 **Legislative branch - lower chamber**<br>
 _chamber name_: National Assembly<br>
@@ -365,7 +365,6 @@ _term in office_: 6 years<br>
 _most recent election date_: 4/2/2024<br>
 _percentage of women in chamber_: 18.8%<br>
 _expected date of next election_: March 2027<br>
-<strong>note: </strong>in 2018, the Parliament of Pakistan and the Khyber Pakhtunkhwa Assembly passed a constitutional amendment to merge the Federally Administrated Tribal Areas and Provincially Administered Tribal Areas with the province of Khyber Pakhtunkhwa; the amendment reduces the Senate from 104 to 96 members -- by 4 in the 2024 election and another 4 in the 2027 election<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Pakistan (consists of the chief justice and 16 judges)<br>
@@ -634,8 +633,8 @@ _total subscriptions_: 2.573 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 189 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 82 (2022 est.)<br>
+_total subscriptions_: 193 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 77 (2024 est.)<br>
 
 **Broadcast media**<br>
 120 satellite TV stations; 42 media companies/channels; state-run Pakistan Television Corporation (PTV) is the largest TV network, serves over 85 percent of the population with 9 TV channels; over 100 private cable and satellite channels; state-owned Pakistan Broadcasting Corporation (PBC or Radio Pakistan) has the largest radio audience, particularly in rural areas, with AM/SW/FM stations covering most of the country (2022)<br>

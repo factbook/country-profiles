@@ -81,9 +81,9 @@ the country has maintained its pristine rain forest and rich biodiversity<br>
 ## People and Society
 
 **Population**<br>
-_total_: 2,455,105 (2024 est.)<br>
-_male_: 1,270,023<br>
-_female_: 1,185,082<br>
+_total_: 2,513,738 (2025 est.)<br>
+_male_: 1,299,085<br>
+_female_: 1,214,653<br>
 
 **Nationality**<br>
 _noun_: Gabonese (singular and plural)<br>
@@ -104,10 +104,10 @@ _15-64 years_: 61.1% (male 787,480/female 711,913)<br>
 _65 years and over_: 4.3% (2024 est.) (male 53,410/female 52,049)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 63.7 (2024 est.)<br>
-_youth dependency ratio_: 56.7 (2024 est.)<br>
-_elderly dependency ratio_: 7 (2024 est.)<br>
-_potential support ratio_: 14.2 (2024 est.)<br>
+_total dependency ratio_: 63 (2025 est.)<br>
+_youth dependency ratio_: 55.8 (2025 est.)<br>
+_elderly dependency ratio_: 7.2 (2025 est.)<br>
+_potential support ratio_: 13.9 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 22.3 years (2025 est.)<br>
@@ -591,12 +591,12 @@ _Total energy consumption per capita 2023_: 22.101 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 43,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
+_total subscriptions_: 67,100 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 125 (2022 est.)<br>
+_total subscriptions_: 3.18 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 125 (2024 est.)<br>
 
 **Broadcast media**<br>
 2 state-run TV stations and 2 state-run radio stations; a few private radio and TV stations; transmissions of at least 2 international broadcasters are accessible; satellite service subscriptions are available<br>

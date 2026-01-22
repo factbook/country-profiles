@@ -80,9 +80,9 @@ controls most land routes from Western Europe to the Aegean Sea and Turkish Stra
 ## People and Society
 
 **Population**<br>
-_total_: 4,150,116 (2024 est.)<br>
-_male_: 2,003,431<br>
-_female_: 2,146,685<br>
+_total_: 4,071,208 (2025 est.)<br>
+_male_: 1,968,334<br>
+_female_: 2,102,874<br>
 
 **Nationality**<br>
 _noun_: Croat(s), Croatian(s)<br>
@@ -105,10 +105,10 @@ _15-64 years_: 63.1% (male 1,307,814/female 1,309,394)<br>
 _65 years and over_: 23.1% (2024 est.) (male 399,090/female 559,055)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.2 (2024 est.)<br>
-_youth dependency ratio_: 21.6 (2024 est.)<br>
-_elderly dependency ratio_: 33.6 (2024 est.)<br>
-_potential support ratio_: 3 (2024 est.)<br>
+_total dependency ratio_: 55.9 (2025 est.)<br>
+_youth dependency ratio_: 21.5 (2025 est.)<br>
+_elderly dependency ratio_: 34.4 (2025 est.)<br>
+_potential support ratio_: 2.9 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 44.9 years (2025 est.)<br>
@@ -578,11 +578,11 @@ _Total energy consumption per capita 2023_: 79.907 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.203 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 31 (2023 est.)<br>
+_total subscriptions_: 1.1 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 29 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,562,730 (2023 est.)<br>
+_total subscriptions_: 4.72 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 122 (2024 est.)<br>
 
 **Broadcast media**<br>

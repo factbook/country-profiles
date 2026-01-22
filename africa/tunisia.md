@@ -78,9 +78,9 @@ strategic location in central Mediterranean<br>
 ## People and Society
 
 **Population**<br>
-_total_: 12,048,847 (2024 est.)<br>
-_male_: 5,972,242<br>
-_female_: 6,076,605<br>
+_total_: 11,962,995 (2025 est.)<br>
+_male_: 5,926,741<br>
+_female_: 6,036,254<br>
 
 **Nationality**<br>
 _noun_: Tunisian(s)<br>
@@ -103,10 +103,10 @@ _15-64 years_: 65.2% (male 3,861,731/female 3,990,802)<br>
 _65 years and over_: 10.4% (2024 est.) (male 593,640/female 659,281)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.4 (2024 est.)<br>
-_youth dependency ratio_: 37.5 (2024 est.)<br>
-_elderly dependency ratio_: 16 (2024 est.)<br>
-_potential support ratio_: 6.3 (2024 est.)<br>
+_total dependency ratio_: 50.7 (2025 est.)<br>
+_youth dependency ratio_: 35.6 (2025 est.)<br>
+_elderly dependency ratio_: 15.1 (2025 est.)<br>
+_potential support ratio_: 6.6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 34.1 years (2025 est.)<br>
@@ -605,8 +605,8 @@ _total subscriptions_: 1.863 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 15 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 16.4 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 129 (2022 est.)<br>
+_total subscriptions_: 14.4 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 118 (2024 est.)<br>
 
 **Broadcast media**<br>
 2 state-owned TV stations; 10 private local TV stations; satellite TV service available; state-owned radio network with 2 stations; several dozen private radio stations and community radio stations; transmissions of multiple international broadcasters available (2019)<br>
@@ -665,14 +665,14 @@ Tunisian Armed Forces (Forces Armées Tunisiennes, FAT): Tunisian Army (includes
 3% of GDP (2020 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 35,000 active-duty Armed Forces (25,000 Army; 5,000 Navy; 5,000 Air Force) (2025)<br>
+approximately 35,000 active-duty Armed Forces (2025)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Tunisian military's inventory consists mostly of older or secondhand equipment from a variety of suppliers, including Austria, France, Italy, T&uuml;rkiye, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18-23 years of age for voluntary service for men and women; 20-23 years of age for compulsory (national) service for men with a 12-month service obligation; individuals engaged in higher education or vocational training programs prior to their military drafting are allowed to delay service until they have completed their programs (up to age 35); exemptions allowed for males considered to a family's sole provider (2023)<br>
-<strong>note:</strong> women have been allowed in the service since 1975 as volunteers; as of 2023, women constituted about 8% of the military and served in all three services<br>
+18 years of age for voluntary service for men and women; men 20-35 years of age subject to 12 months of compulsory national service (2025)<br>
+<strong>note:</strong> compulsory national service may be in the Armed Forces or other government ministries as needed<br>
 
 **Military deployments**<br>
 840 Central African Republic (MINUSCA) (2025)<br>

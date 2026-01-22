@@ -77,9 +77,9 @@ composed of the Jutland Peninsula and a group of more than 400 islands (Danish A
 ## People and Society
 
 **Population**<br>
-_total_: 5,973,136 (2024 est.)<br>
-_male_: 2,975,261<br>
-_female_: 2,997,875<br>
+_total_: 6,051,491 (2025 est.)<br>
+_male_: 3,001,698<br>
+_female_: 3,049,793<br>
 
 **Nationality**<br>
 _noun_: Dane(s)<br>
@@ -102,10 +102,10 @@ _15-64 years_: 62.9% (male 1,903,315/female 1,856,615)<br>
 _65 years and over_: 20.8% (2024 est.) (male 575,153/female 670,242)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 57.2 (2024 est.)<br>
-_youth dependency ratio_: 24.7 (2024 est.)<br>
-_elderly dependency ratio_: 32.5 (2024 est.)<br>
-_potential support ratio_: 3.1 (2024 est.)<br>
+_total dependency ratio_: 57.2 (2025 est.)<br>
+_youth dependency ratio_: 24.5 (2025 est.)<br>
+_elderly dependency ratio_: 32.7 (2025 est.)<br>
+_potential support ratio_: 3.1 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 42.2 years (2025 est.)<br>
@@ -594,11 +594,11 @@ _Total energy consumption per capita 2023_: 98.513 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 755,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2023 est.)<br>
+_total subscriptions_: 698,000 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 12 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,549,290 (2023 est.)<br>
+_total subscriptions_: 7.57 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 127 (2024 est.)<br>
 
 **Broadcast media**<br>

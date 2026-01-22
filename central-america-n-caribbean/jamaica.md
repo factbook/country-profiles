@@ -76,9 +76,9 @@ third largest island in the Caribbean (after Cuba and Hispaniola); strategic loc
 ## People and Society
 
 **Population**<br>
-_total_: 2,823,713 (2024 est.)<br>
-_male_: 1,397,495<br>
-_female_: 1,426,218<br>
+_total_: 2,938,503 (2025 est.)<br>
+_male_: 1,453,759<br>
+_female_: 1,484,744<br>
 
 **Nationality**<br>
 _noun_: Jamaican(s)<br>
@@ -99,10 +99,10 @@ _15-64 years_: 65.7% (male 914,364/female 941,816)<br>
 _65 years and over_: 10.4% (2024 est.) (male 140,440/female 154,629)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 52.1 (2024 est.)<br>
-_youth dependency ratio_: 36.2 (2024 est.)<br>
-_elderly dependency ratio_: 15.9 (2024 est.)<br>
-_potential support ratio_: 6.3 (2024 est.)<br>
+_total dependency ratio_: 50.6 (2025 est.)<br>
+_youth dependency ratio_: 36 (2025 est.)<br>
+_elderly dependency ratio_: 14.6 (2025 est.)<br>
+_potential support ratio_: 6.9 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 28.8 years (2025 est.)<br>
@@ -585,8 +585,8 @@ _total subscriptions_: 459,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 16 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3.27 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 106 (2022 est.)<br>
+_total subscriptions_: 3.34 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 118 (2024 est.)<br>
 
 **Broadcast media**<br>
 3 free-to-air TV stations, subscription cable services, and roughly 30 radio stations (2019)<br>

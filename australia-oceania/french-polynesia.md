@@ -72,9 +72,9 @@ includes five archipelagoes: four volcanic (Iles Gambier, Iles Marquises, Iles T
 ## People and Society
 
 **Population**<br>
-_total_: 303,540 (2024 est.)<br>
-_male_: 155,138<br>
-_female_: 148,402<br>
+_total_: 305,507 (2025 est.)<br>
+_male_: 156,084<br>
+_female_: 149,423<br>
 
 **Nationality**<br>
 _noun_: French Polynesian(s)<br>
@@ -96,10 +96,10 @@ _15-64 years_: 68.7% (male 107,162/female 101,228)<br>
 _65 years and over_: 11% (2024 est.) (male 16,317/female 17,168)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 45.7 (2024 est.)<br>
-_youth dependency ratio_: 29.6 (2024 est.)<br>
-_elderly dependency ratio_: 16.1 (2024 est.)<br>
-_potential support ratio_: 6.2 (2024 est.)<br>
+_total dependency ratio_: 46 (2025 est.)<br>
+_youth dependency ratio_: 29.3 (2025 est.)<br>
+_elderly dependency ratio_: 16.8 (2025 est.)<br>
+_potential support ratio_: 6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 35.8 years (2025 est.)<br>
@@ -441,12 +441,12 @@ _refined petroleum consumption_: 7,000 bbl/day (2023 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 139,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 50 (2022 est.)<br>
+_total subscriptions_: 66,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 24 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 328,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 107 (2022 est.)<br>
+_total subscriptions_: 334,000 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 119 (2023 est.)<br>
 
 **Broadcast media**<br>
 French public overseas broadcaster R&eacute;seau Outre-Mer provides 2 TV channels and 1 radio station; 1 government-owned TV station; a small number of privately owned radio stations (2019)<br>

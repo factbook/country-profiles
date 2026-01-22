@@ -83,9 +83,9 @@ landlocked; shares control of Lago Titicaca, world's highest navigable lake (ele
 ## People and Society
 
 **Population**<br>
-_total_: 12,311,974 (2024 est.)<br>
-_male_: 6,192,774<br>
-_female_: 6,119,200<br>
+_total_: 12,436,103 (2025 est.)<br>
+_male_: 6,257,914<br>
+_female_: 6,178,189<br>
 
 **Nationality**<br>
 _noun_: Bolivian(s)<br>
@@ -108,10 +108,10 @@ _15-64 years_: 64.5% (male 4,002,587/female 3,937,953)<br>
 _65 years and over_: 7% (2024 est.) (male 397,384/female 463,166)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.1 (2024 est.)<br>
-_youth dependency ratio_: 44.2 (2024 est.)<br>
-_elderly dependency ratio_: 10.8 (2024 est.)<br>
-_potential support ratio_: 9.2 (2024 est.)<br>
+_total dependency ratio_: 54 (2025 est.)<br>
+_youth dependency ratio_: 42.9 (2025 est.)<br>
+_elderly dependency ratio_: 11 (2025 est.)<br>
+_potential support ratio_: 9.1 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 27 years (2025 est.)<br>
@@ -613,11 +613,11 @@ _Total energy consumption per capita 2023_: 29.34 million Btu/person (2023 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 550,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 4 (2022 est.)<br>
+_total subscriptions_: 369,000 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12,266,900 (2022 est.)<br>
+_total subscriptions_: 12.2 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 98 (2024 est.)<br>
 
 **Broadcast media**<br>

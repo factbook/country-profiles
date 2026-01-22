@@ -76,16 +76,16 @@ strategic location on Korea Strait; about 3,000 mostly small and uninhabited isl
 ## People and Society
 
 **Population**<br>
-_total_: 52,081,799 (2024 est.)<br>
-_male_: 26,119,111<br>
-_female_: 25,962,688<br>
+_total_: 51,486,343 (2025 est.)<br>
+_male_: 25,636,127<br>
+_female_: 25,850,216<br>
 
 **Nationality**<br>
 _noun_: Korean(s)<br>
 _adjective_: Korean<br>
 
 **Ethnic groups**<br>
-homogeneous<br>
+Korean<br>
 
 **Languages**<br>
 Korean, English&nbsp;<br>
@@ -101,10 +101,10 @@ _15-64 years_: 69.4% (male 18,653,915/female 17,465,817)<br>
 _65 years and over_: 19.3% (2024 est.) (male 4,440,688/female 5,623,348)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 43.6 (2024 est.)<br>
-_youth dependency ratio_: 15.2 (2024 est.)<br>
-_elderly dependency ratio_: 28.4 (2024 est.)<br>
-_potential support ratio_: 3.5 (2024 est.)<br>
+_total dependency ratio_: 44.9 (2025 est.)<br>
+_youth dependency ratio_: 14.7 (2025 est.)<br>
+_elderly dependency ratio_: 30.2 (2025 est.)<br>
+_potential support ratio_: 3.3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 47 years (2025 est.)<br>
@@ -347,7 +347,7 @@ _email address and website_: <br>generalusa@mofa.go.kr<br><br>https://overseas.m
 _consulate(s) general_: Anchorage (AK), Atlanta, Boston, Chicago, Dallas, Hagatna (Guam), Honolulu, Houston, Los Angeles, New York, San Francisco, Seattle, Philadelphia<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Kevin KIM (since October 2025)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires James &ldquo;Jim&rdquo; HELLER (since 7 January 2026)<br>
 _embassy_: 188 Sejong-daero, Jongno-gu, Seoul<br>
 _mailing address_: 9600 Seoul Place, Washington, DC&nbsp; 20521-9600<br>
 _telephone_: [82] (2) 397-4114<br>
@@ -591,8 +591,8 @@ _total subscriptions_: 22.155 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 43 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 83.9 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 149 (2022 est.)<br>
+_total subscriptions_: 89.2 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 173 (2024 est.)<br>
 
 **Broadcast media**<br>
 multiple national TV networks, with 2 of the 3 largest networks publicly operated; the largest privately owned network, Seoul Broadcasting Service (SBS), has ties with other commercial TV networks; cable and satellite TV subscription services available; publicly operated radio broadcast networks and many privately owned radio broadcasting networks, each with multiple affiliates, and independent local stations<br>

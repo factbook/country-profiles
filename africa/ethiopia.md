@@ -87,9 +87,9 @@ the most populous landlocked country in the world; the Blue Nile, the chief head
 ## People and Society
 
 **Population**<br>
-_total_: 118,550,298 (2024 est.)<br>
-_male_: 59,062,093<br>
-_female_: 59,488,205<br>
+_total_: 121,372,632 (2025 est.)<br>
+_male_: 60,461,406<br>
+_female_: 60,911,226<br>
 
 **Nationality**<br>
 _noun_: Ethiopian(s)<br>
@@ -111,10 +111,10 @@ _15-64 years_: 58% (male 34,175,328/female 34,536,238)<br>
 _65 years and over_: 3.4% (2024 est.) (male 1,794,269/female 2,186,085)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 72.5 (2024 est.)<br>
-_youth dependency ratio_: 66.7 (2024 est.)<br>
-_elderly dependency ratio_: 5.8 (2024 est.)<br>
-_potential support ratio_: 17.3 (2024 est.)<br>
+_total dependency ratio_: 71.7 (2025 est.)<br>
+_youth dependency ratio_: 65.8 (2025 est.)<br>
+_elderly dependency ratio_: 5.9 (2025 est.)<br>
+_potential support ratio_: 17.1 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 20.6 years (2025 est.)<br>
@@ -616,11 +616,11 @@ _Total energy consumption per capita 2023_: 2.366 million Btu/person (2023 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 862,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2022 est.) less than 1<br>
+_total subscriptions_: 766,000 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: (2024 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 71,424,300 (2022 est.)<br>
+_total subscriptions_: 85.9 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 65 (2024 est.)<br>
 
 **Broadcast media**<br>

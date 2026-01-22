@@ -78,9 +78,9 @@ consists of Oman proper and two northern exclaves, Musandam and Al Madhah; the f
 ## People and Society
 
 **Population**<br>
-_total_: 3,901,992 (2024 est.)<br>
-_male_: 2,096,126<br>
-_female_: 1,805,866<br>
+_total_: 3,969,824 (2025 est.)<br>
+_male_: 2,130,080<br>
+_female_: 1,839,744<br>
 
 **Nationality**<br>
 _noun_: Omani(s)<br>
@@ -103,10 +103,10 @@ _15-64 years_: 66.2% (male 1,428,141/female 1,155,438)<br>
 _65 years and over_: 4% (2024 est.) (male 73,076/female 83,746)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 51 (2024 est.)<br>
-_youth dependency ratio_: 45 (2024 est.)<br>
-_elderly dependency ratio_: 6.1 (2024 est.)<br>
-_potential support ratio_: 16.5 (2024 est.)<br>
+_total dependency ratio_: 50.8 (2025 est.)<br>
+_youth dependency ratio_: 44.6 (2025 est.)<br>
+_elderly dependency ratio_: 6.2 (2025 est.)<br>
+_potential support ratio_: 16.2 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 27.5 years (2025 est.)<br>
@@ -578,8 +578,8 @@ _total subscriptions_: 579,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 11 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6.98 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 135 (2021 est.)<br>
+_total subscriptions_: 6.35 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 121 (2024 est.)<br>
 
 **Broadcast media**<br>
 1 state-run TV broadcaster; TV stations transmitting from Saudi Arabia, the UAE, Iran, and Yemen available via satellite TV; state-run radio operates multiple stations; first private radio station began operating in 2007, and several additional stations now operating (2019)<br>

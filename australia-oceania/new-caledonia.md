@@ -72,9 +72,9 @@ consists of the main island of New Caledonia (one of the largest in the Pacific 
 ## People and Society
 
 **Population**<br>
-_total_: 304,167 (2024 est.)<br>
-_male_: 151,389<br>
-_female_: 152,778<br>
+_total_: 307,612 (2025 est.)<br>
+_male_: 153,036<br>
+_female_: 154,576<br>
 
 **Nationality**<br>
 _noun_: New Caledonian(s)<br>
@@ -96,10 +96,10 @@ _15-64 years_: 68.4% (male 104,825/female 103,349)<br>
 _65 years and over_: 10.8% (2024 est.) (male 14,326/female 18,571)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 46.1 (2024 est.)<br>
-_youth dependency ratio_: 30.3 (2024 est.)<br>
-_elderly dependency ratio_: 15.8 (2024 est.)<br>
-_potential support ratio_: 6.3 (2024 est.)<br>
+_total dependency ratio_: 46.2 (2025 est.)<br>
+_youth dependency ratio_: 30 (2025 est.)<br>
+_elderly dependency ratio_: 16.2 (2025 est.)<br>
+_potential support ratio_: 6.2 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 34.6 years (2025 est.)<br>
@@ -456,8 +456,8 @@ _total subscriptions_: 46,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 16 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 260,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 90 (2021 est.)<br>
+_total subscriptions_: 263,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 92 (2022 est.)<br>
 
 **Broadcast media**<br>
 the publicly owned French Overseas Network (RFO), which operates in France's overseas departments and territories, broadcasts over the RFO Nouvelle-Cal&eacute;donie TV and radio stations; a small number of privately owned radio stations also broadcast<br>

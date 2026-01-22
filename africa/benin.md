@@ -78,9 +78,9 @@ sandbanks create difficult access to a coast with no natural harbors, river mout
 ## People and Society
 
 **Population**<br>
-_total_: 14,697,052 (2024 est.)<br>
-_male_: 7,253,258<br>
-_female_: 7,443,794<br>
+_total_: 15,186,090 (2025 est.)<br>
+_male_: 7,500,771<br>
+_female_: 7,685,319<br>
 
 **Nationality**<br>
 _noun_: Beninese (singular and plural)<br>
@@ -101,10 +101,10 @@ _15-64 years_: 52.2% (male 3,727,040/female 3,951,786)<br>
 _65 years and over_: 2.5% (2024 est.) (male 166,191/female 197,807)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 91.4 (2024 est.)<br>
-_youth dependency ratio_: 86.7 (2024 est.)<br>
-_elderly dependency ratio_: 4.7 (2024 est.)<br>
-_potential support ratio_: 21.1 (2024 est.)<br>
+_total dependency ratio_: 91.1 (2025 est.)<br>
+_youth dependency ratio_: 86.3 (2025 est.)<br>
+_elderly dependency ratio_: 4.8 (2025 est.)<br>
+_potential support ratio_: 21 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 17.2 years (2025 est.)<br>
@@ -580,11 +580,11 @@ _Total energy consumption per capita 2023_: 6.472 million Btu/person (2023 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
+_total subscriptions_: 1,350 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: (2024 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 16,373,900 (2023 est.)<br>
+_total subscriptions_: 18.2 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 126 (2024 est.)<br>
 
 **Broadcast media**<br>

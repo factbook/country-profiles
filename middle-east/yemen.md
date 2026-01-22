@@ -77,9 +77,9 @@ strategic location on Bab el Mandeb, the strait linking the Red Sea and the Gulf
 ## People and Society
 
 **Population**<br>
-_total_: 32,140,443 (2024 est.)<br>
-_male_: 16,221,139<br>
-_female_: 15,919,304<br>
+_total_: 34,505,496 (2025 est.)<br>
+_male_: 17,275,539<br>
+_female_: 17,229,957<br>
 
 **Nationality**<br>
 _noun_: Yemeni(s)<br>
@@ -102,10 +102,10 @@ _15-64 years_: 62.2% (male 10,112,603/female 9,865,805)<br>
 _65 years and over_: 3.4% (2024 est.) (male 485,538/female 623,214)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 71.3 (2024 est.)<br>
-_youth dependency ratio_: 66 (2024 est.)<br>
-_elderly dependency ratio_: 5.4 (2024 est.)<br>
-_potential support ratio_: 18.6 (2024 est.)<br>
+_total dependency ratio_: 70.2 (2025 est.)<br>
+_youth dependency ratio_: 64.8 (2025 est.)<br>
+_elderly dependency ratio_: 5.4 (2025 est.)<br>
+_potential support ratio_: 18.4 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 20.5 years (2025 est.)<br>
@@ -560,7 +560,7 @@ _subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 20 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 46 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 51 (2023 est.)<br>
 
 **Broadcast media**<br>
 state-run TV with 2 stations; state-run radio with 2 national radio stations and 5 local stations; stations from Oman and Saudi Arabia can be accessed<br>
@@ -613,8 +613,8 @@ the Yemeni Government forces have an inventory consisting primarily of older for
 <strong>note:</strong> Houthi rebel forces are armed largely with weapons seized from the Yemeni Government stockpiles, smuggled in from Iran, and manufactured copies of Iranian designs and pre-war Yemeni Government weapons<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; conscription abolished in 2001; 2-year service obligation (note - limited information since the start of the civil war in 2014) (2022)<br>
-<strong>note:</strong> as late as 2022, all parties to the ongoing conflict were implicated in child soldier recruitment and use; during the beginning of the truce in April 2022, the Houthis signed a plan with the UN to end the recruitment and use of child soldiers; Houthi leaders previously pledged to end the use of child soldiers in 2012, as did the Government of Yemen in 2014 <br>
+limited available information; 18 is the legal minimum age for military service under the Yemeni Government (2025)<br>
+<strong>note:</strong> there is widespread recruitment of fighters by numerous armed groups operating in Yemen; all parties to the civil war have been implicated in child soldier recruitment and use; in 2022, the Houthis signed a plan with the UN to end the recruitment and use of child soldiers; Houthi leaders previously pledged to end the use of child soldiers in 2012, as did the Government of Yemen in 2014; in 2019, the Saudi and UAE-led coalition committed to protect children in a memorandum of understanding signed with the UN<br>
 
 **Military - note**<br>
 government forces under the Yemeni Ministry of Defense are responsible for both external and internal defense; their priorities are the Houthi separatists (aka Ansarallah), the terrorist groups al-Qa&rsquo;ida in the Arabian Peninsula (AQAP) and the Islamic State of Iraq and ash-Sham in Yemen (ISIS-Yemen), and maritime security, particularly against arms smuggling; in 2022, the Yemeni Government and the Houthis signed a truce, halting most fighting and establishing humanitarian measures; the former front lines of conflict, in some areas mirroring Yemen&rsquo;s pre-unification borders, remain static; AQAP and ISIS-Yemen continue to be active in remote areas (2025)<br>

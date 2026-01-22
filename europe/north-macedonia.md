@@ -76,9 +76,9 @@ landlocked; major transportation corridor from Western and Central Europe to Aeg
 ## People and Society
 
 **Population**<br>
-_total_: 2,135,622 (2024 est.)<br>
-_male_: 1,064,727<br>
-_female_: 1,070,895<br>
+_total_: 2,137,556 (2025 est.)<br>
+_male_: 1,065,634<br>
+_female_: 1,071,922<br>
 
 **Nationality**<br>
 _noun_: Macedonian(s)<br>
@@ -102,10 +102,10 @@ _15-64 years_: 68.4% (male 740,649/female 719,627)<br>
 _65 years and over_: 15.6% (2024 est.) (male 147,655/female 186,323)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 46.2 (2024 est.)<br>
-_youth dependency ratio_: 23.4 (2024 est.)<br>
-_elderly dependency ratio_: 22.9 (2024 est.)<br>
-_potential support ratio_: 4.4 (2024 est.)<br>
+_total dependency ratio_: 46.9 (2025 est.)<br>
+_youth dependency ratio_: 23.3 (2025 est.)<br>
+_elderly dependency ratio_: 23.6 (2025 est.)<br>
+_potential support ratio_: 4.2 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 40.9 years (2025 est.)<br>
@@ -583,8 +583,8 @@ _total subscriptions_: 439,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 24 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.92 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 98 (2022 est.)<br>
+_total subscriptions_: 1.98 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 108 (2024 est.)<br>
 
 **Broadcast media**<br>
 public TV broadcaster Macedonian Radio and Television operates 5 national terrestrial TV channels and 2 satellite TV channels; 11 regional TV stations broadcast nationally; 29 regional and local broadcasters; a large number of cable operators offer domestic and international programming; the public radio broadcaster operates 3 stations; 4 privately owned national radio stations and 60 regional and local operators (2023)<br>
@@ -633,7 +633,7 @@ approximately 6,000 active military personnel (2025)<br>
 the military's inventory is a mix of Russian/Soviet-era armaments and growing quantities of more modern equipment from countries such as T&uuml;rkiye, the UK, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; conscription abolished in 2007 (2024)<br>
+18 years of age for voluntary military service; conscription abolished in 2007 (2025)<br>
 <strong>note:</strong> as of 2024, women made up about 10% of the military's full-time personnel<br>
 
 **Military - note**<br>

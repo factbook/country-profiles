@@ -80,9 +80,9 @@ strategic location along Strait of Otranto (links Adriatic Sea to Ionian Sea and
 ## People and Society
 
 **Population**<br>
-_total_: 3,107,100 (2024 est.)<br>
-_male_: 1,531,063<br>
-_female_: 1,576,037<br>
+_total_: 2,551,837 (2025 est.)<br>
+_male_: 1,229,151<br>
+_female_: 1,322,686<br>
 
 **Nationality**<br>
 _noun_: Albanian(s)<br>
@@ -106,10 +106,10 @@ _15-64 years_: 66.9% (male 1,023,515/female 1,055,388)<br>
 _65 years and over_: 15.1% (2024 est.) (male 215,252/female 253,597)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 47.8 (2024 est.)<br>
-_youth dependency ratio_: 24.3 (2024 est.)<br>
-_elderly dependency ratio_: 23.5 (2024 est.)<br>
-_potential support ratio_: 4.3 (2024 est.)<br>
+_total dependency ratio_: 49 (2025 est.)<br>
+_youth dependency ratio_: 24.1 (2025 est.)<br>
+_elderly dependency ratio_: 24.9 (2025 est.)<br>
+_potential support ratio_: 4 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 37.9 years (2025 est.)<br>
@@ -595,11 +595,11 @@ _Total energy consumption per capita 2023_: 27.407 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 173,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 6 (2023 est.)<br>
+_total subscriptions_: 165,000 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 6 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,614,760 (2023 est.)<br>
+_total subscriptions_: 2.49 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 89 (2024 est.)<br>
 
 **Broadcast media**<br>

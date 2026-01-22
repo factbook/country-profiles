@@ -82,9 +82,9 @@ occasional typhoons (May to January) with extensive flooding, especially in the 
 ## People and Society
 
 **Population**<br>
-_total_: 105,758,975 (2024 est.)<br>
-_male_: 53,109,175<br>
-_female_: 52,649,800<br>
+_total_: 106,688,169 (2025 est.)<br>
+_male_: 53,597,784<br>
+_female_: 53,090,385<br>
 
 **Nationality**<br>
 _noun_: Vietnamese (singular and plural)<br>
@@ -108,10 +108,10 @@ _15-64 years_: 68.5% (male 36,591,845/female 35,887,201)<br>
 _65 years and over_: 8.3% (2024 est.) (male 3,563,611/female 5,182,909)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 45.9 (2024 est.)<br>
-_youth dependency ratio_: 33.8 (2024 est.)<br>
-_elderly dependency ratio_: 12.1 (2024 est.)<br>
-_potential support ratio_: 8.3 (2024 est.)<br>
+_total dependency ratio_: 46.4 (2025 est.)<br>
+_youth dependency ratio_: 33.6 (2025 est.)<br>
+_elderly dependency ratio_: 12.8 (2025 est.)<br>
+_potential support ratio_: 7.8 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 33.5 years (2025 est.)<br>
@@ -608,8 +608,8 @@ _total subscriptions_: 2.316 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 131 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 140 (2022 est.)<br>
+_total subscriptions_: 129 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 128 (2024 est.)<br>
 
 **Broadcast media**<br>
 state-controlled broadcast media, with oversight from the Ministry of Information and Communication (MIC); state-controlled national TV provider, Vietnam Television (VTV), has several channels with regional broadcasting centers; law limits access to satellite TV, but many access foreign programming via home satellite equipment; state-controlled Voice of Vietnam, the national radio broadcaster, broadcasts on several channels and is repeated on AM, FM, and shortwave stations&nbsp; (2018)<br>
@@ -673,7 +673,7 @@ approximately 450,000 active-duty People's Army of Vietnam (2025)<br>
 the PAVN is equipped largely with armaments from Russia and the former Soviet Union; in recent years, Vietnam has moved to diversify its arms suppliers and has acquired items from countries such as India, Israel, the Netherlands, South Korea, and the US; Vietnam has a small defense industry involved in the manufacture of small arms, ground combat vehicles, and naval systems (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory and voluntary military service for men and women (in practice only men are drafted); service obligation is between 24 (Army, Air Defense) and 36 (Navy and Air Force) months (2024)<br>
+18-27 years of age for compulsory and voluntary military service for men and women (in practice only men are drafted); service obligation is 24-36 months depending on the branch of service (including Coast Guard and Ministry of Public Security) (2025)<br>
 
 **Military deployments**<br>
 200 Abyei/South Sudan/Sudan (UNISFA) (2025)<br>

@@ -60,9 +60,9 @@ subject to hurricanes from July to November<br>
 ## People and Society
 
 **Population**<br>
-_total_: 32,996 (2024 est.)<br>
-_male_: 15,791<br>
-_female_: 17,205<br>
+_total_: 33,093 (2025 est.)<br>
+_male_: 15,825<br>
+_female_: 17,268<br>
 
 **Ethnic groups**<br>
 Creole (Mulatto), Black, Guadeloupe Mestizo (French-East Asian), White, East Indian, other<br>
@@ -80,10 +80,10 @@ _15-64 years_: 64.5% (male 10,216/female 11,068)<br>
 _65 years and over_: 10.8% (2024 est.) (male 1,536/female 2,037)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55 (2024 est.) N<br>
-_youth dependency ratio_: 38.2 (2024 est.)<br>
-_elderly dependency ratio_: 16.8 (2024 est.)<br>
-_potential support ratio_: 6 (2024 est.)<br>
+_total dependency ratio_: 55.4 (2025 est.) N<br>
+_youth dependency ratio_: 38 (2025 est.)<br>
+_elderly dependency ratio_: 17.4 (2025 est.)<br>
+_potential support ratio_: 5.7 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 34.3 years (2025 est.)<br>

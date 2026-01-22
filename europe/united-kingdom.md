@@ -76,9 +76,9 @@ lies near vital North Atlantic sea lanes; only 35 km (22 mi) from France and lin
 ## People and Society
 
 **Population**<br>
-_total_: 68,459,055 (2024 est.)<br>
-_male_: 34,005,445<br>
-_female_: 34,453,610<br>
+_total_: 68,751,311 (2025 est.)<br>
+_male_: 34,145,455<br>
+_female_: 34,605,856<br>
 
 **Nationality**<br>
 _noun_: Briton(s), British (collective plural)<br>
@@ -100,10 +100,10 @@ _15-64 years_: 63.9% (male 22,062,643/female 21,702,401)<br>
 _65 years and over_: 19.3% (2024 est.) (male 6,069,865/female 7,158,544)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 56.4 (2024 est.)<br>
-_youth dependency ratio_: 26.2 (2024 est.)<br>
-_elderly dependency ratio_: 30.2 (2024 est.)<br>
-_potential support ratio_: 3.3 (2024 est.)<br>
+_total dependency ratio_: 56.7 (2025 est.)<br>
+_youth dependency ratio_: 26 (2025 est.)<br>
+_elderly dependency ratio_: 30.7 (2025 est.)<br>
+_potential support ratio_: 3.3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 40.9 years (2025 est.)<br>
@@ -618,8 +618,8 @@ _total subscriptions_: 26.627 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 39 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 84.3 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 121 (2022 est.)<br>
+_total subscriptions_: 84.1 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 122 (2024 est.)<br>
 
 **Broadcast media**<br>
 public-service British Broadcasting Corporation (BBC) is the largest broadcasting company in the world; BBC operates multiple TV networks with regional and local TV; mixed system of public and commercial TV broadcasters along with satellite and cable systems provide access to hundreds of international TV stations; BBC operates multiple national, regional, and local radio networks with multiple transmission sites; large number of commercial and satellite radio stations available (2018)<br>
@@ -686,8 +686,8 @@ approximately 138,000 Regular Forces (75,000 Army including the Gurkhas; 32,000 
 the British military's inventory is comprised of domestically produced armaments and imported Western weapons systems, particularly from the US; the UK defense industry is capable of producing air, land, and sea weapons systems and is one of the world's top weapons suppliers; it also cooperates with other European countries, as well as Australia and the US, in the research and development of weapons systems (2025)<br>
 
 **Military service age and obligation**<br>
-some variations by service, but generally 16-36 years of age for enlisted (with parental consent under 18) and 18-29 for officers; minimum length of service 4 years; women serve in all military services including combat roles; conscription abolished in 1963 (2024)<br>
-<strong>note 1:</strong> women made up 11.7% of the military's full-time personnel in 2024<br><br><strong>note 2:</strong> the British military allows Commonwealth nationals who are current UK residents and have been in the country for at least 5 years to apply; it also accepts Irish citizens<br><br><strong>note 3:</strong> the British Army has continued the historic practice of recruiting Gurkhas from Nepal to serve in the Brigade of Gurkhas; the British began to recruit Nepalese citizens (Gurkhas) into the East India Company Army during the Anglo-Nepalese War (1814-1816); the Gurkhas subsequently were brought into the British Indian Army and by 1914, there were 10 Gurkha regiments, collectively known as the Gurkha Brigade; following the partition of India in 1947, an agreement between Nepal, India, and Great Britain allowed for the transfer of the 10 regiments from the British Indian Army to the separate British and Indian armies; four of the regiments were transferred to the British Army, where they have since served continuously as the Brigade of Gurkhas<br>
+16 years of age for enlisted ranks (with parental consent for under 18) and 18 years of age for officers; maximum age varies by military service; conscription abolished in 1963 (2026)<br>
+<strong>note 1:</strong> women serve in all branches and made up nearly 12% of the military's full-time personnel in 2025<br><br><strong>note 2:</strong> the British military allows Commonwealth nationals who are current UK residents and have been in the country for at least 5 years to apply; it also accepts Irish citizens<br><br><strong>note 3:</strong> the British Army has continued the historic practice of recruiting Gurkhas from Nepal to serve in the Brigade of Gurkhas; the British began to recruit Nepalese citizens (Gurkhas) into the East India Company Army during the Anglo-Nepalese War (1814-1816); the Gurkhas subsequently were brought into the British Indian Army and by 1914, there were 10 Gurkha regiments, collectively known as the Gurkha Brigade; following the partition of India in 1947, an agreement between Nepal, India, and Great Britain allowed for the transfer of the 10 regiments from the British Indian Army to the separate British and Indian armies; four of the regiments were transferred to the British Army, where they have since served continuously as the Brigade of Gurkhas<br>
 
 **Military deployments**<br>
 the British military has more than 8,000 personnel on permanent or long-term rotational deployments around the globe in support of NATO, UN, or other commitments and agreements; key deployments include approximately 1,000 in Brunei, approximately 2,500 in Cyprus (includes 250 for UNFICYP), approximately 900-1,000 in Estonia (NATO), over 1,000 in the Falkland Islands, 500-600 in Gibraltar, and more than 1,000 in the Middle East; its air and naval forces conduct missions on a global basis; the British military also participates in large scale NATO exercises, including providing some 16,000 personnel for the 6-month 2024 Steadfast Defender exercise (2024)<br>

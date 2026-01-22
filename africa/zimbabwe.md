@@ -83,9 +83,9 @@ landlocked; the Zambezi forms a natural river boundary with Zambia; in full floo
 ## People and Society
 
 **Population**<br>
-_total_: 17,150,352 (2024 est.)<br>
-_male_: 8,343,790<br>
-_female_: 8,806,562<br>
+_total_: 17,472,752 (2025 est.)<br>
+_male_: 8,503,108<br>
+_female_: 8,969,644<br>
 
 **Nationality**<br>
 _noun_: Zimbabwean(s)<br>
@@ -107,10 +107,10 @@ _15-64 years_: 57.8% (male 4,758,120/female 5,152,773)<br>
 _65 years and over_: 3.9% (2024 est.) (male 270,595/female 399,146)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 73 (2024 est.)<br>
-_youth dependency ratio_: 66.3 (2024 est.)<br>
-_elderly dependency ratio_: 6.8 (2024 est.)<br>
-_potential support ratio_: 14.8 (2024 est.)<br>
+_total dependency ratio_: 72.3 (2025 est.)<br>
+_youth dependency ratio_: 65.5 (2025 est.)<br>
+_elderly dependency ratio_: 6.8 (2025 est.)<br>
+_potential support ratio_: 14.7 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 21.3 years (2025 est.)<br>
@@ -596,8 +596,8 @@ _total subscriptions_: 310,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 15 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 88 (2022 est.)<br>
+_total subscriptions_: 15.7 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 94 (2024 est.)<br>
 
 **Broadcast media**<br>
 government owns all local radio and TV stations; foreign shortwave broadcasts and satellite TV available; in rural areas, access to TV broadcasts is extremely limited; analog TV only, no digital service (2017)<br>

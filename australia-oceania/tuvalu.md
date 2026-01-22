@@ -74,9 +74,9 @@ one of the smallest and most remote countries on earth; six of the nine coral at
 ## People and Society
 
 **Population**<br>
-_total_: 11,733 (2024 est.)<br>
-_male_: 5,816<br>
-_female_: 5,917<br>
+_total_: 11,824 (2025 est.)<br>
+_male_: 5,865<br>
+_female_: 5,959<br>
 
 **Nationality**<br>
 _noun_: Tuvaluan(s)<br>
@@ -97,10 +97,10 @@ _15-64 years_: 63.2% (male 3,736/female 3,675)<br>
 _65 years and over_: 7.6% (2024 est.) (male 326/female 570)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 58.3 (2024 est.)<br>
-_youth dependency ratio_: 46.2 (2024 est.)<br>
-_elderly dependency ratio_: 12.1 (2024 est.)<br>
-_potential support ratio_: 8.3 (2024 est.)<br>
+_total dependency ratio_: 59 (2025 est.)<br>
+_youth dependency ratio_: 46.4 (2025 est.)<br>
+_elderly dependency ratio_: 12.6 (2025 est.)<br>
+_potential support ratio_: 7.9 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 28.1 years (2025 est.)<br>
@@ -462,8 +462,8 @@ _total subscriptions_: 2,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 21 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 9,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 80 (2021 est.)<br>
+_total subscriptions_: 9,880 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 99 (2022 est.)<br>
 
 **Broadcast media**<br>
 no TV stations; many households use satellite dishes to watch foreign TV; 1 state-owned radio station, Radio Tuvalu, includes relays from international broadcasters (2019)<br>

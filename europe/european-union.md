@@ -414,7 +414,7 @@ _Total energy consumption per capita 2023_: 114.309 million Btu/person (2023 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 155.005 million (2022 est.)<br>
+_total subscriptions_: 155,004,603 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 36 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>

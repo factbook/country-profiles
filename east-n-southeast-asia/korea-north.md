@@ -75,9 +75,9 @@ strategic location bordering China, South Korea, and Russia; mountainous interio
 ## People and Society
 
 **Population**<br>
-_total_: 26,298,666 (2024 est.)<br>
-_male_: 12,828,269<br>
-_female_: 13,470,397<br>
+_total_: 26,402,841 (2025 est.)<br>
+_male_: 12,884,269<br>
+_female_: 13,518,572<br>
 
 **Nationality**<br>
 _noun_: Korean(s)<br>
@@ -100,10 +100,10 @@ _15-64 years_: 68.9% (male 9,054,771/female 9,066,447)<br>
 _65 years and over_: 11.2% (2024 est.) (male 1,099,676/female 1,855,175)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 45.1 (2024 est.)<br>
-_youth dependency ratio_: 28.8 (2024 est.)<br>
-_elderly dependency ratio_: 16.3 (2024 est.)<br>
-_potential support ratio_: 6.1 (2024 est.)<br>
+_total dependency ratio_: 45.6 (2025 est.)<br>
+_youth dependency ratio_: 28.8 (2025 est.)<br>
+_elderly dependency ratio_: 16.8 (2025 est.)<br>
+_potential support ratio_: 6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 36.2 years (2025 est.)<br>

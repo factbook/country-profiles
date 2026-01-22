@@ -72,9 +72,9 @@ strategic location adjacent to US and Cuba; extensive island chain of which 30 a
 ## People and Society
 
 **Population**<br>
-_total_: 410,862 (2024 est.)<br>
-_male_: 190,100<br>
-_female_: 220,762<br>
+_total_: 415,306 (2025 est.)<br>
+_male_: 192,055<br>
+_female_: 223,251<br>
 
 **Nationality**<br>
 _noun_: Bahamian(s)<br>
@@ -96,10 +96,10 @@ _15-64 years_: 70% (male 132,626/female 154,866)<br>
 _65 years and over_: 8.6% (2024 est.) (male 15,799/female 19,533)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 42.9 (2024 est.)<br>
-_youth dependency ratio_: 30.6 (2024 est.)<br>
-_elderly dependency ratio_: 12.3 (2024 est.)<br>
-_potential support ratio_: 8.1 (2024 est.)<br>
+_total dependency ratio_: 43.2 (2025 est.)<br>
+_youth dependency ratio_: 30.2 (2025 est.)<br>
+_elderly dependency ratio_: 13 (2025 est.)<br>
+_potential support ratio_: 7.7 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 31.1 years (2025 est.)<br>
@@ -522,11 +522,11 @@ _Total energy consumption per capita 2023_: 104.409 million Btu/person (2023 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 97,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 24 (2023 est.)<br>
+_total subscriptions_: 93,100 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 23 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 399,630 (2023 est.)<br>
+_total subscriptions_: 388,000 (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 97 (2024 est.)<br>
 
 **Broadcast media**<br>

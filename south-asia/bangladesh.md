@@ -82,9 +82,9 @@ most of the country is situated on deltas of large rivers flowing from the Himal
 ## People and Society
 
 **Population**<br>
-_total_: 168,697,184 (2024 est.)<br>
-_male_: 82,708,252<br>
-_female_: 85,988,932<br>
+_total_: 174,370,536 (2025 est.)<br>
+_male_: 83,908,720<br>
+_female_: 90,461,816<br>
 
 **Nationality**<br>
 _noun_: Bangladeshi(s)<br>
@@ -107,10 +107,10 @@ _15-64 years_: 67.1% (male 55,071,592/female 58,180,322)<br>
 _65 years and over_: 7.8% (2024 est.) (male 6,096,167/female 7,007,898)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 49 (2024 est.)<br>
-_youth dependency ratio_: 37.4 (2024 est.)<br>
-_elderly dependency ratio_: 11.6 (2024 est.)<br>
-_potential support ratio_: 8.6 (2024 est.)<br>
+_total dependency ratio_: 54.6 (2025 est.)<br>
+_youth dependency ratio_: 43.5 (2025 est.)<br>
+_elderly dependency ratio_: 11.1 (2025 est.)<br>
+_potential support ratio_: 9 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 27.8 years (2025 est.)<br>
@@ -598,11 +598,11 @@ _Total energy consumption per capita 2023_: 11.472 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 302,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
+_total subscriptions_: 285,000 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: (2024 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 196.081 million (2023 est.)<br>
+_total subscriptions_: 188 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 108 (2024 est.)<br>
 
 **Broadcast media**<br>

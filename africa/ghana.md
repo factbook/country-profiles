@@ -82,9 +82,9 @@ Lake Volta is the world's largest artificial lake (manmade reservoir) by surface
 ## People and Society
 
 **Population**<br>
-_total_: 34,589,092 (2024 est.)<br>
-_male_: 16,902,073<br>
-_female_: 17,687,019<br>
+_total_: 35,336,133 (2025 est.)<br>
+_male_: 17,278,776<br>
+_female_: 18,057,357<br>
 
 **Nationality**<br>
 _noun_: Ghanaian(s)<br>
@@ -106,10 +106,10 @@ _15-64 years_: 58.2% (male 9,690,498/female 10,444,197)<br>
 _65 years and over_: 4.4% (2024 est.) (male 684,189/female 842,577)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 71.8 (2024 est.)<br>
-_youth dependency ratio_: 64.2 (2024 est.)<br>
-_elderly dependency ratio_: 7.6 (2024 est.)<br>
-_potential support ratio_: 13.2 (2024 est.)<br>
+_total dependency ratio_: 70.8 (2025 est.)<br>
+_youth dependency ratio_: 63.2 (2025 est.)<br>
+_elderly dependency ratio_: 7.6 (2025 est.)<br>
+_potential support ratio_: 13.1 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 21.6 years (2025 est.)<br>
@@ -600,11 +600,11 @@ _Total energy consumption per capita 2023_: 10.493 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 320,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2023 est.) less than 1<br>
+_total subscriptions_: 269,000 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: (2024 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 33,384,500 (2023 est.)<br>
+_total subscriptions_: 39.1 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 114 (2024 est.)<br>
 
 **Broadcast media**<br>

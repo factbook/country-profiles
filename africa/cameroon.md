@@ -84,9 +84,9 @@ sometimes referred to as the hinge of Africa because of its central location on 
 ## People and Society
 
 **Population**<br>
-_total_: 30,966,105 (2024 est.)<br>
-_male_: 15,429,588<br>
-_female_: 15,536,517<br>
+_total_: 31,518,954 (2025 est.)<br>
+_male_: 15,683,611<br>
+_female_: 15,835,343<br>
 
 **Nationality**<br>
 _noun_: Cameroonian(s)<br>
@@ -108,10 +108,10 @@ _15-64 years_: 55.3% (male 8,488,522/female 8,638,519)<br>
 _65 years and over_: 3.2% (2024 est.) (male 463,628/female 533,011)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 80.8 (2024 est.)<br>
-_youth dependency ratio_: 75 (2024 est.)<br>
-_elderly dependency ratio_: 5.8 (2024 est.)<br>
-_potential support ratio_: 17.2 (2024 est.)<br>
+_total dependency ratio_: 77.6 (2025 est.)<br>
+_youth dependency ratio_: 71.8 (2025 est.)<br>
+_elderly dependency ratio_: 5.8 (2025 est.)<br>
+_potential support ratio_: 17.3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 19.4 years (2025 est.)<br>
@@ -609,11 +609,11 @@ _Total energy consumption per capita 2023_: 4.271 million Btu/person (2023 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 896,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
+_total subscriptions_: 67,500 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: (2024 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 27,374,500 (2023 est.)<br>
+_total subscriptions_: 31.5 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 108 (2024 est.)<br>
 
 **Broadcast media**<br>

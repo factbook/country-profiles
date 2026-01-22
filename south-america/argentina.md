@@ -89,9 +89,9 @@ second-largest country in South America (after Brazil); strategic location relat
 ## People and Society
 
 **Population**<br>
-_total_: 46,994,384 (2024 est.)<br>
-_male_: 23,274,794<br>
-_female_: 23,719,590<br>
+_total_: 45,418,098 (2025 est.)<br>
+_male_: 22,535,980<br>
+_female_: 22,882,118<br>
 
 **Nationality**<br>
 _noun_: Argentine(s)<br>
@@ -113,10 +113,10 @@ _15-64 years_: 63.9% (male 15,071,215/female 14,956,069)<br>
 _65 years and over_: 12.8% (2024 est.) (male 2,570,596/female 3,461,743)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 50.9 (2024 est.)<br>
-_youth dependency ratio_: 31.5 (2024 est.)<br>
-_elderly dependency ratio_: 19.4 (2024 est.)<br>
-_potential support ratio_: 5.1 (2024 est.)<br>
+_total dependency ratio_: 49.9 (2025 est.)<br>
+_youth dependency ratio_: 30.3 (2025 est.)<br>
+_elderly dependency ratio_: 19.6 (2025 est.)<br>
+_potential support ratio_: 5.1 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 34.6 years (2025 est.)<br>
@@ -621,11 +621,11 @@ _Total energy consumption per capita 2023_: 78.496 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7.034 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 15 (2023 est.)<br>
+_total subscriptions_: 6.42 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 62,709,200 (2023 est.)<br>
+_total subscriptions_: 64.1 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 140 (2024 est.)<br>
 
 **Broadcast media**<br>

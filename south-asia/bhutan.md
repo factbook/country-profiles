@@ -70,9 +70,9 @@ landlocked; strategic location between China and India; controls several key Him
 ## People and Society
 
 **Population**<br>
-_total_: 884,546 (2024 est.)<br>
-_male_: 457,665<br>
-_female_: 426,881<br>
+_total_: 892,877 (2025 est.)<br>
+_male_: 461,679<br>
+_female_: 431,198<br>
 
 **Nationality**<br>
 _noun_: Bhutanese (singular and plural)<br>
@@ -93,10 +93,10 @@ _15-64 years_: 70.2% (male 322,497/female 298,324)<br>
 _65 years and over_: 6.7% (2024 est.) (male 30,397/female 28,576)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 42.5 (2024 est.)<br>
-_youth dependency ratio_: 33 (2024 est.)<br>
-_elderly dependency ratio_: 9.5 (2024 est.)<br>
-_potential support ratio_: 10.5 (2024 est.)<br>
+_total dependency ratio_: 42.1 (2025 est.)<br>
+_youth dependency ratio_: 32.4 (2025 est.)<br>
+_elderly dependency ratio_: 9.7 (2025 est.)<br>
+_potential support ratio_: 10.3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 31.2 years (2025 est.)<br>
@@ -553,11 +553,11 @@ _Total energy consumption per capita 2023_: 64.082 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 18,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
+_total subscriptions_: 0 (2024 est.) no service<br>
+_subscriptions per 100 inhabitants_: 0 (2024 est.) no service<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 751,989 (2023 est.)<br>
+_total subscriptions_: 790,000 (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 100 (2024 est.)<br>
 
 **Broadcast media**<br>

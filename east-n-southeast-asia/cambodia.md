@@ -85,9 +85,9 @@ a land of paddies and forests dominated by the Mekong River and Tonle Sap (South
 ## People and Society
 
 **Population**<br>
-_total_: 17,063,669 (2024 est.)<br>
-_male_: 8,277,588<br>
-_female_: 8,786,081<br>
+_total_: 17,230,333 (2025 est.)<br>
+_male_: 8,362,224<br>
+_female_: 8,868,109<br>
 
 **Nationality**<br>
 _noun_: Cambodian(s)<br>
@@ -109,10 +109,10 @@ _15-64 years_: 65.8% (male 5,456,941/female 5,765,206)<br>
 _65 years and over_: 5.3% (2024 est.) (male 323,591/female 584,257)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 52.1 (2024 est.)<br>
-_youth dependency ratio_: 44 (2024 est.)<br>
-_elderly dependency ratio_: 8.1 (2024 est.)<br>
-_potential support ratio_: 12.4 (2024 est.)<br>
+_total dependency ratio_: 51.2 (2025 est.)<br>
+_youth dependency ratio_: 42.9 (2025 est.)<br>
+_elderly dependency ratio_: 8.4 (2025 est.)<br>
+_potential support ratio_: 11.9 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 28.3 years (2025 est.)<br>
@@ -591,11 +591,11 @@ _Total energy consumption per capita 2023_: 15.664 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 38,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
+_total subscriptions_: 29,100 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: (2024 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21,049,600 (2023 est.)<br>
+_total subscriptions_: 20.5 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 116 (2024 est.)<br>
 
 **Broadcast media**<br>

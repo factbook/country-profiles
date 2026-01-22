@@ -85,9 +85,9 @@ subject to floods, rockslides, mudslides; periodic droughts<br>
 ## People and Society
 
 **Population**<br>
-_total_: 31,250,306 (2024 est.)<br>
-_male_: 15,555,451<br>
-_female_: 15,694,855<br>
+_total_: 31,755,435 (2025 est.)<br>
+_male_: 15,808,263<br>
+_female_: 15,947,172<br>
 
 **Nationality**<br>
 _noun_: Venezuelan(s)<br>
@@ -109,10 +109,10 @@ _15-64 years_: 65.9% (male 10,264,353/female 10,330,376)<br>
 _65 years and over_: 9.1% (2024 est.) (male 1,303,737/female 1,553,172)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 51.7 (2024 est.)<br>
-_youth dependency ratio_: 37.9 (2024 est.)<br>
-_elderly dependency ratio_: 13.9 (2024 est.)<br>
-_potential support ratio_: 7.2 (2024 est.)<br>
+_total dependency ratio_: 51.8 (2025 est.)<br>
+_youth dependency ratio_: 37.5 (2025 est.)<br>
+_elderly dependency ratio_: 14.3 (2025 est.)<br>
+_potential support ratio_: 7 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 31.3 years (2025 est.)<br>
@@ -524,8 +524,8 @@ _total subscriptions_: 2.683 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 10 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 18.8 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 63 (2022 est.)<br>
+_total subscriptions_: 20.2 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 71 (2024 est.)<br>
 
 **Broadcast media**<br>
 mix of state-run and private broadcast media subject to high levels of control; 13 public service networks, 61 privately owned TV networks, 1 privately owned news channel with limited national coverage, and a Maduro-backed Pan-American channel; 3 Maduro-aligned radio networks control about 65 news stations and another 30 stations targeted at specific audiences; Maduro-sponsored community broadcasters include 235 radio stations and 44 TV stations; the number of private broadcast radio stations declining, but many remain&nbsp; (2021)<br>

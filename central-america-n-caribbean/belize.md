@@ -75,9 +75,9 @@ only country in Central America without a coastline on the North Pacific Ocean<b
 ## People and Society
 
 **Population**<br>
-_total_: 415,789 (2024 est.)<br>
-_male_: 205,895<br>
-_female_: 209,894<br>
+_total_: 421,960 (2025 est.)<br>
+_male_: 208,844<br>
+_female_: 213,116<br>
 
 **Nationality**<br>
 _noun_: Belizean(s)<br>
@@ -101,10 +101,10 @@ _15-64 years_: 66.7% (male 135,903/female 141,503)<br>
 _65 years and over_: 5.5% (2024 est.) (male 11,463/female 11,580)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 49.9 (2024 est.)<br>
-_youth dependency ratio_: 41.6 (2024 est.)<br>
-_elderly dependency ratio_: 8.3 (2024 est.)<br>
-_potential support ratio_: 12 (2024 est.)<br>
+_total dependency ratio_: 49.4 (2025 est.)<br>
+_youth dependency ratio_: 40.8 (2025 est.)<br>
+_elderly dependency ratio_: 8.6 (2025 est.)<br>
+_potential support ratio_: 11.6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 27.2 years (2025 est.)<br>
@@ -576,11 +576,11 @@ _Total energy consumption per capita 2023_: 30.752 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 19,000 (2021 est.)<br>
+_total subscriptions_: 17,800 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 270,536 (2022 est.)<br>
+_total subscriptions_: 271,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 67 (2022 est.)<br>
 
 **Broadcast media**<br>

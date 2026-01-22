@@ -85,9 +85,9 @@ the Kenyan Highlands comprise one of the most successful agricultural production
 ## People and Society
 
 **Population**<br>
-_total_: 58,246,378 (2024 est.)<br>
-_male_: 29,091,800<br>
-_female_: 29,154,578<br>
+_total_: 55,751,717 (2025 est.)<br>
+_male_: 27,857,519<br>
+_female_: 27,894,198<br>
 
 **Nationality**<br>
 _noun_: Kenyan(s)<br>
@@ -109,10 +109,10 @@ _15-64 years_: 60.9% (male 17,731,068/female 17,723,012)<br>
 _65 years and over_: 3.4% (2024 est.) (male 896,348/female 1,064,569)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 65.3 (2024 est.)<br>
-_youth dependency ratio_: 59.8 (2024 est.)<br>
-_elderly dependency ratio_: 5.5 (2024 est.)<br>
-_potential support ratio_: 18.3 (2024 est.)<br>
+_total dependency ratio_: 64 (2025 est.)<br>
+_youth dependency ratio_: 58.5 (2025 est.)<br>
+_elderly dependency ratio_: 5.5 (2025 est.)<br>
+_potential support ratio_: 18.2 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 21.5 years (2025 est.)<br>
@@ -611,8 +611,8 @@ _total subscriptions_: 68,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 66.7 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 122 (2022 est.)<br>
+_total subscriptions_: 71.4 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 126 (2024 est.)<br>
 
 **Broadcast media**<br>
 about a half-dozen large, privately owned media companies with TV and radio stations, as well as a state-owned TV broadcaster, provide service nationwide; satellite and cable TV subscription services available; state-owned radio broadcaster operates 2 national radio channels and provides regional and local radio services in multiple languages; many private radio stations broadcast nationally, with over 100 private and non-profit regional stations broadcasting in local languages; TV transmissions of all major international broadcasters available, mostly via paid subscriptions (2019)<br>

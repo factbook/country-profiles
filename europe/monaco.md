@@ -73,9 +73,9 @@ second-smallest independent state in the world (after the Holy See); smallest co
 ## People and Society
 
 **Population**<br>
-_total_: 31,813 (2024 est.)<br>
-_male_: 15,366<br>
-_female_: 16,447<br>
+_total_: 32,047 (2025 est.)<br>
+_male_: 15,467<br>
+_female_: 16,580<br>
 
 **Nationality**<br>
 _noun_: Monegasque(s) or Monacan(s)<br>
@@ -98,10 +98,10 @@ _15-64 years_: 53.8% (male 8,620/female 8,490)<br>
 _65 years and over_: 37.1% (2024 est.) (male 5,261/female 6,549)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 85.9 (2024 est.)<br>
-_youth dependency ratio_: 16.9 (2024 est.)<br>
-_elderly dependency ratio_: 69 (2024 est.)<br>
-_potential support ratio_: 1.4 (2024 est.)<br>
+_total dependency ratio_: 88.7 (2025 est.)<br>
+_youth dependency ratio_: 16.6 (2025 est.)<br>
+_elderly dependency ratio_: 72.1 (2025 est.)<br>
+_potential support ratio_: 1.4 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 57.5 years (2025 est.)<br>
@@ -398,8 +398,8 @@ _total subscriptions_: 43,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 111 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 41,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 107 (2022 est.)<br>
+_total subscriptions_: 41,500 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 107 (2024 est.)<br>
 
 **Broadcast media**<br>
 TV Monte-Carlo operates a TV network; cable TV available; Radio Monte-Carlo has extensive radio networks in France and Italy, with French-language broadcasts to France beginning in the 1960s and Italian-language broadcasts to Italy beginning in the 1970s; other radio stations include Riviera Radio and Radio Monaco<br>

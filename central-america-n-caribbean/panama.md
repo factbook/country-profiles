@@ -78,9 +78,9 @@ strategic location on eastern end of isthmus forming land bridge that connects N
 ## People and Society
 
 **Population**<br>
-_total_: 4,470,241 (2024 est.)<br>
-_male_: 2,251,257<br>
-_female_: 2,218,984<br>
+_total_: 4,536,008 (2025 est.)<br>
+_male_: 2,284,105<br>
+_female_: 2,251,903<br>
 
 **Nationality**<br>
 _noun_: Panamanian(s)<br>
@@ -102,10 +102,10 @@ _15-64 years_: 64.8% (male 1,465,907/female 1,433,023)<br>
 _65 years and over_: 10.1% (2024 est.) (male 211,014/female 241,781)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 54.2 (2024 est.)<br>
-_youth dependency ratio_: 38.6 (2024 est.)<br>
-_elderly dependency ratio_: 15.6 (2024 est.)<br>
-_potential support ratio_: 6.4 (2024 est.)<br>
+_total dependency ratio_: 54.4 (2025 est.)<br>
+_youth dependency ratio_: 38.4 (2025 est.)<br>
+_elderly dependency ratio_: 16 (2025 est.)<br>
+_potential support ratio_: 6.3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 31.7 years (2025 est.)<br>
@@ -580,7 +580,7 @@ _subscriptions per 100 inhabitants_: 18 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 6.98 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 156 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 157 (2023 est.)<br>
 
 **Broadcast media**<br>
 multiple privately owned TV networks and a government-owned educational TV station; multi-channel cable and satellite TV subscription services are available; more than 100 commercial radio stations (2019)<br>

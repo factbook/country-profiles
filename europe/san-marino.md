@@ -69,9 +69,9 @@ landlocked; an enclave of (completely surrounded by) Italy; smallest independent
 ## People and Society
 
 **Population**<br>
-_total_: 35,095 (2024 est.)<br>
-_male_: 16,944<br>
-_female_: 18,151<br>
+_total_: 35,291 (2025 est.)<br>
+_male_: 17,035<br>
+_female_: 18,256<br>
 
 **Nationality**<br>
 _noun_: Sammarinese (singular and plural)<br>
@@ -93,10 +93,10 @@ _15-64 years_: 64.3% (male 10,916/female 11,648)<br>
 _65 years and over_: 21.5% (2024 est.) (male 3,414/female 4,116)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.5 (2024 est.)<br>
-_youth dependency ratio_: 22.2 (2024 est.)<br>
-_elderly dependency ratio_: 33.4 (2024 est.)<br>
-_potential support ratio_: 3 (2024 est.)<br>
+_total dependency ratio_: 56.5 (2025 est.)<br>
+_youth dependency ratio_: 22.2 (2025 est.)<br>
+_elderly dependency ratio_: 34.3 (2025 est.)<br>
+_potential support ratio_: 2.9 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 46.3 years (2025 est.)<br>
@@ -459,7 +459,7 @@ _subscriptions per 100 inhabitants_: 47 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 41,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 122 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 120 (2022 est.)<br>
 
 **Broadcast media**<br>
 state-owned public broadcaster operates 1 TV station and 3 radio stations; receives radio and TV broadcasts from Italy (2019)<br>
@@ -488,7 +488,7 @@ T7<br>
 San Marino Military Corps (Corpi Militari Sammarinesi; aka Sammarinese Armed Forces or Forze Armate Sammarinesi): Fortress Guard Command (or Guard of the Rock), Uniformed Company of the Militias, Guard of the Great and General Council, Corps of the Gendarmerie<br><br>Ministry of Internal Affairs: Civil Police Corps (2025)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; no conscription; government has the authority to call up all San Marino citizens from 16-60 years of age to serve in the military (2024)<br>
+18 is the legal minimum age for voluntary military service; no conscription; government has the authority to call up all San Marino citizens from 16-60 years of age to serve in the military (2025)<br>
 
 **Military - note**<br>
 defense is the responsibility of Italy<br>

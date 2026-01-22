@@ -82,9 +82,9 @@ located at mouths of three major European rivers (Rhine (Rijn), Meuse (Maas), an
 ## People and Society
 
 **Population**<br>
-_total_: 17,772,378 (2024 est.)<br>
-_male_: 8,844,100<br>
-_female_: 8,928,278<br>
+_total_: 17,833,885 (2025 est.)<br>
+_male_: 8,874,366<br>
+_female_: 8,959,519<br>
 
 **Nationality**<br>
 _noun_: Dutchman(men), Dutchwoman(women)<br>
@@ -107,10 +107,10 @@ _15-64 years_: 64.1% (male 5,750,034/female 5,640,691)<br>
 _65 years and over_: 20.7% (2024 est.) (male 1,709,924/female 1,975,132)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 56 (2024 est.)<br>
-_youth dependency ratio_: 23.7 (2024 est.)<br>
-_elderly dependency ratio_: 32.4 (2024 est.)<br>
-_potential support ratio_: 3.1 (2024 est.)<br>
+_total dependency ratio_: 56.8 (2025 est.)<br>
+_youth dependency ratio_: 23.7 (2025 est.)<br>
+_elderly dependency ratio_: 33 (2025 est.)<br>
+_potential support ratio_: 3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 42.2 years (2025 est.)<br>
@@ -622,8 +622,8 @@ _total subscriptions_: 4.262 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 24 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21.2 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 118 (2022 est.)<br>
+_total subscriptions_: 23.4 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 129 (2024 est.)<br>
 
 **Broadcast media**<br>
 more than 90% of households are connected to cable or satellite TV systems with a wide range of domestic and foreign channels; public service broadcast system includes multiple broadcasters, 3 with a national reach and the remainder in regional and local markets; 2 nationwide commercial TV companies, each with 3 or more stations, and many commercial TV stations in regional and local markets; nearly 600 radio stations with a mix of public and private stations&nbsp;<br>

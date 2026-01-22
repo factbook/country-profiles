@@ -81,9 +81,9 @@ Cotopaxi in the Andes is highest active volcano in world<br>
 ## People and Society
 
 **Population**<br>
-_total_: 18,309,984 (2024 est.)<br>
-_male_: 9,023,170<br>
-_female_: 9,286,814<br>
+_total_: 18,479,841 (2025 est.)<br>
+_male_: 9,097,614<br>
+_female_: 9,382,227<br>
 
 **Nationality**<br>
 _noun_: Ecuadorian(s)<br>
@@ -106,10 +106,10 @@ _15-64 years_: 64.1% (male 5,771,234/female 5,972,938)<br>
 _65 years and over_: 9.1% (2024 est.) (male 746,207/female 918,678)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.9 (2024 est.)<br>
-_youth dependency ratio_: 41.7 (2024 est.)<br>
-_elderly dependency ratio_: 14.2 (2024 est.)<br>
-_potential support ratio_: 7.1 (2024 est.)<br>
+_total dependency ratio_: 55.3 (2025 est.)<br>
+_youth dependency ratio_: 41 (2025 est.)<br>
+_elderly dependency ratio_: 14.3 (2025 est.)<br>
+_potential support ratio_: 7 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 28.2 years (2025 est.)<br>
@@ -599,11 +599,11 @@ _Total energy consumption per capita 2023_: 35.7 million Btu/person (2023 est.)<
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.434 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 8 (2023 est.)<br>
+_total subscriptions_: 1.22 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 7 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 18,165,600 (2023 est.)<br>
+_total subscriptions_: 18.4 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 102 (2024 est.)<br>
 
 **Broadcast media**<br>

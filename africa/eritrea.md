@@ -73,9 +73,9 @@ strategic geopolitical position along world's busiest shipping lanes<br>
 ## People and Society
 
 **Population**<br>
-_total_: 6,343,956 (2024 est.)<br>
-_male_: 3,122,433<br>
-_female_: 3,221,523<br>
+_total_: 6,416,435 (2025 est.)<br>
+_male_: 3,158,281<br>
+_female_: 3,258,154<br>
 
 **Nationality**<br>
 _noun_: Eritrean(s)<br>
@@ -97,10 +97,10 @@ _15-64 years_: 60.3% (male 1,882,547/female 1,944,266)<br>
 _65 years and over_: 4% (2024 est.) (male 101,504/female 153,332)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 65.8 (2024 est.)<br>
-_youth dependency ratio_: 59.1 (2024 est.)<br>
-_elderly dependency ratio_: 6.7 (2024 est.)<br>
-_potential support ratio_: 15 (2024 est.)<br>
+_total dependency ratio_: 64.2 (2025 est.)<br>
+_youth dependency ratio_: 57.6 (2025 est.)<br>
+_elderly dependency ratio_: 6.6 (2025 est.)<br>
+_potential support ratio_: 15.1 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 21.7 years (2025 est.)<br>
@@ -483,11 +483,11 @@ _Total energy consumption per capita 2023_: 2.977 million Btu/person (2023 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 66,000 (2021 est.)<br>
+_total subscriptions_: 68,200 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,015,830 (2022 est.)<br>
+_total subscriptions_: 2.02 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 59 (2022 est.)<br>
 
 **Broadcast media**<br>

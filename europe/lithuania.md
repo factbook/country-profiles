@@ -76,9 +76,9 @@ fertile central plains are separated by hilly uplands that are ancient glacial d
 ## People and Society
 
 **Population**<br>
-_total_: 2,628,186 (2024 est.)<br>
-_male_: 1,214,994<br>
-_female_: 1,413,192<br>
+_total_: 2,815,687 (2025 est.)<br>
+_male_: 1,334,600<br>
+_female_: 1,481,087<br>
 
 **Nationality**<br>
 _noun_: Lithuanian(s)<br>
@@ -100,10 +100,10 @@ _15-64 years_: 62.6% (male 808,435/female 837,908)<br>
 _65 years and over_: 22.2% (2024 est.) (male 201,405/female 380,898)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.9 (2024 est.)<br>
-_youth dependency ratio_: 23.5 (2024 est.)<br>
-_elderly dependency ratio_: 32.3 (2024 est.)<br>
-_potential support ratio_: 3.1 (2024 est.)<br>
+_total dependency ratio_: 56.5 (2025 est.)<br>
+_youth dependency ratio_: 23.3 (2025 est.)<br>
+_elderly dependency ratio_: 33.3 (2025 est.)<br>
+_potential support ratio_: 3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 44 years (2025 est.)<br>
@@ -587,8 +587,8 @@ _total subscriptions_: 224,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 8 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3.92 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 139 (2022 est.)<br>
+_total subscriptions_: 3.97 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 139 (2024 est.)<br>
 
 **Broadcast media**<br>
 public broadcaster operates 3 channels, with the third channel (satellite) introduced in 2007; various privately owned commercial TV broadcasters operate national and multiple regional channels; many privately owned local TV stations; multi-channel cable and satellite TV services available; publicly owned broadcaster operates 3 radio networks; many privately owned commercial broadcasters, with repeater stations in various regions&nbsp;<br>

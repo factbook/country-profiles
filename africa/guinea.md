@@ -80,9 +80,9 @@ the Niger and its important tributary, the Milo River, have their sources in the
 ## People and Society
 
 **Population**<br>
-_total_: 13,986,179 (2024 est.)<br>
-_male_: 6,985,606<br>
-_female_: 7,000,573<br>
+_total_: 14,374,590 (2025 est.)<br>
+_male_: 7,179,661<br>
+_female_: 7,194,929<br>
 
 **Nationality**<br>
 _noun_: Guinean(s)<br>
@@ -104,10 +104,10 @@ _15-64 years_: 55.1% (male 3,846,852/female 3,856,366)<br>
 _65 years and over_: 4% (2024 est.) (male 254,608/female 308,413)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 81.6 (2024 est.)<br>
-_youth dependency ratio_: 74.3 (2024 est.)<br>
-_elderly dependency ratio_: 7.3 (2024 est.)<br>
-_potential support ratio_: 13.7 (2024 est.)<br>
+_total dependency ratio_: 81.5 (2025 est.)<br>
+_youth dependency ratio_: 74.1 (2025 est.)<br>
+_elderly dependency ratio_: 7.4 (2025 est.)<br>
+_potential support ratio_: 13.6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 19.5 years (2025 est.)<br>
@@ -309,13 +309,13 @@ _residency requirement for naturalization_: na<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Interim President Col. Mamady DOUMBOUYA (since 1 October 2021)<br>
+_chief of state_: President Col. Mamady DOUMBOUYA (since 17 January 2026)<br>
 _head of government_: Prime Minister Amadou Oury BAH (since 27 February 2024)<br>
 _cabinet_: formerly the Council of Ministers appointed by the president<br>
-_election/appointment process_: formerly, the president was directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term), and the prime minister was appointed by the president<br>
+_election/appointment process_: the president is directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 7-year single term, and the prime minister is appointed by the president<br>
 _most recent election date_: 28 December 2025<br>
-_election results_: <em>2025: </em>Mamady DOUMBOUYA elected president in the first round; percent of vote -Mamady DOUMBOUYA (Independent) 86.7%, Abdoulaye Yero BALDE (DFG) 6.5%, other 7%<br><em><br>2020: </em>Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%<br><br>
-<strong>note 1:</strong> in 2021, the military arrested and detained the president, suspended the constitution, and dissolved the government and legislature<br><br><strong>note 2:</strong> the transitional government has not announced a new election timetable<br>
+_election results_: <em>2025: </em>Mamady DOUMBOUYA elected president in the first round; percent of vote -Mamady DOUMBOUYA (Independent) 86.7%, Abdoulaye Yero BALDE (DFG) 6.5%, other 7%<br><em><br>2020: </em>Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%<br>
+<strong>note 1:</strong> in 2021, the military arrested and detained the president, suspended the constitution, and dissolved the government and legislature<br><br><strong>note 2:</strong> the transitional government has not announced a new election timetable<br><br><strong>note 3:</strong> new constitution approved in 2025 with presidential term changed to a single seven-year term<br><br><strong>note 4: </strong>elections held 28 December 2025, transitional president wins and is sworn in 17 January 2026<br>
 
 **Legislative branch**<br>
 _legislature name_: Transitional National Council (Conseil national de transition)<br>
@@ -562,11 +562,11 @@ _Total energy consumption per capita 2023_: 5.235 million Btu/person (2023 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 0 (2021 est.)<br>
+_total subscriptions_: 0 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 15,303,900 (2022 est.)<br>
+_total subscriptions_: 15.3 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 109 (2022 est.)<br>
 
 **Broadcast media**<br>

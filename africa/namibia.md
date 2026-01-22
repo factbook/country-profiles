@@ -87,9 +87,9 @@ the Namib Desert, after which the country is named, is considered to be the olde
 ## People and Society
 
 **Population**<br>
-_total_: 2,803,660 (2024 est.)<br>
-_male_: 1,377,286<br>
-_female_: 1,426,374<br>
+_total_: 2,852,777 (2025 est.)<br>
+_male_: 1,402,136<br>
+_female_: 1,450,641<br>
 
 **Nationality**<br>
 _noun_: Namibian(s)<br>
@@ -111,10 +111,10 @@ _15-64 years_: 62% (male 846,810/female 890,099)<br>
 _65 years and over_: 3.9% (2024 est.) (male 47,686/female 62,969)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 61.4 (2024 est.)<br>
-_youth dependency ratio_: 55 (2024 est.)<br>
-_elderly dependency ratio_: 6.4 (2024 est.)<br>
-_potential support ratio_: 15.7 (2024 est.)<br>
+_total dependency ratio_: 60.5 (2025 est.)<br>
+_youth dependency ratio_: 54 (2025 est.)<br>
+_elderly dependency ratio_: 6.5 (2025 est.)<br>
+_potential support ratio_: 15.5 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 23.1 years (2025 est.)<br>
@@ -597,8 +597,8 @@ _total subscriptions_: 81,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2.6 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 113 (2022 est.)<br>
+_total subscriptions_: 2.58 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 85 (2024 est.)<br>
 
 **Broadcast media**<br>
 1 private and 1 state-run TV station; satellite and cable TV service available; state-run radio broadcasts in multiple languages; about a dozen private radio stations; transmissions of multiple international broadcasters available<br>

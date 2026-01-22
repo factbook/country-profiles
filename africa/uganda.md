@@ -81,9 +81,9 @@ landlocked; fertile, well-watered country with many lakes and rivers; Lake Victo
 ## People and Society
 
 **Population**<br>
-_total_: 49,283,041 (2024 est.)<br>
-_male_: 24,040,560<br>
-_female_: 25,242,481<br>
+_total_: 50,863,850 (2025 est.)<br>
+_male_: 24,835,513<br>
+_female_: 26,028,337<br>
 
 **Nationality**<br>
 _noun_: Ugandan(s)<br>
@@ -104,10 +104,10 @@ _15-64 years_: 50.6% (male 11,788,483/female 13,131,051)<br>
 _65 years and over_: 2.4% (2024 est.) (male 504,332/female 683,498)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 97.8 (2024 est.)<br>
-_youth dependency ratio_: 93 (2024 est.)<br>
-_elderly dependency ratio_: 4.8 (2024 est.)<br>
-_potential support ratio_: 21 (2024 est.)<br>
+_total dependency ratio_: 96.9 (2025 est.)<br>
+_youth dependency ratio_: 92.1 (2025 est.)<br>
+_elderly dependency ratio_: 4.8 (2025 est.)<br>
+_potential support ratio_: 20.8 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 16.4 years (2025 est.)<br>
@@ -588,8 +588,8 @@ _total subscriptions_: 116,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 42.1 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 70 (2022 est.)<br>
+_total subscriptions_: 41.6 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 83 (2024 est.)<br>
 
 **Broadcast media**<br>
 public broadcaster, Uganda Broadcasting Corporation (UBC), operates radio and TV networks; 31 Free-To-Air (FTA) TV stations, 2 digital terrestrial TV stations, 3 cable TV stations, and 5 digital satellite TV stations; 258 FM stations<br>

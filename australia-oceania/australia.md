@@ -91,9 +91,9 @@ cyclones along the coast; severe droughts; forest fires <br><br><strong>volcanis
 ## People and Society
 
 **Population**<br>
-_total_: 26,768,598 (2024 est.)<br>
-_male_: 13,305,110<br>
-_female_: 13,463,488<br>
+_total_: 27,490,921 (2025 est.)<br>
+_male_: 13,685,935<br>
+_female_: 13,804,986<br>
 
 **Nationality**<br>
 _noun_: Australian(s)<br>
@@ -116,10 +116,10 @@ _15-64 years_: 64.7% (male 8,688,023/female 8,640,671)<br>
 _65 years and over_: 17% (2024 est.) (male 2,090,315/female 2,453,392)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 54.5 (2024 est.)<br>
-_youth dependency ratio_: 28.3 (2024 est.)<br>
-_elderly dependency ratio_: 26.2 (2024 est.)<br>
-_potential support ratio_: 3.8 (2024 est.)<br>
+_total dependency ratio_: 53.3 (2025 est.)<br>
+_youth dependency ratio_: 26.7 (2025 est.)<br>
+_elderly dependency ratio_: 26.5 (2025 est.)<br>
+_potential support ratio_: 3.8 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 38.5 years (2025 est.)<br>
@@ -609,11 +609,11 @@ _Total energy consumption per capita 2023_: 223.158 million Btu/person (2023 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6.458 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 24 (2023 est.)<br>
+_total subscriptions_: 5.95 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 22 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 29.761 million (2023 est.)<br>
+_total subscriptions_: 30.1 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 113 (2024 est.)<br>
 
 **Broadcast media**<br>

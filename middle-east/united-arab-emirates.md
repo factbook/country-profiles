@@ -76,9 +76,9 @@ strategic location along southern approaches to Strait of Hormuz, a transit poin
 ## People and Society
 
 **Population**<br>
-_total_: 10,032,213 (2024 est.)<br>
-_male_: 6,824,131<br>
-_female_: 3,208,082<br>
+_total_: 10,093,593 (2025 est.)<br>
+_male_: 6,831,802<br>
+_female_: 3,261,791<br>
 
 **Nationality**<br>
 _noun_: Emirati(s)<br>
@@ -102,10 +102,10 @@ _15-64 years_: 81.4% (male 5,812,470/female 2,353,750)<br>
 _65 years and over_: 2.2% (2024 est.) (male 169,084/female 52,030)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 22.9 (2024 est.)<br>
-_youth dependency ratio_: 20.1 (2024 est.)<br>
-_elderly dependency ratio_: 2.7 (2024 est.)<br>
-_potential support ratio_: 36.9 (2024 est.)<br>
+_total dependency ratio_: 23.4 (2025 est.)<br>
+_youth dependency ratio_: 20.4 (2025 est.)<br>
+_elderly dependency ratio_: 3 (2025 est.)<br>
+_potential support ratio_: 33.4 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 35.8 years (2025 est.)<br>
@@ -578,8 +578,8 @@ _total subscriptions_: 2.259 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 21 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21.2 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 212 (2022 est.)<br>
+_total subscriptions_: 22.4 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 203 (2024 est.)<br>
 
 **Broadcast media**<br>
 most TV and radio stations state-owned, but many private organizations now operating in media free zones in Abu Dhabi and Dubai; widespread use of satellite dishes to access pan-Arab and other international broadcasts (2022)<br>
@@ -638,7 +638,7 @@ approximately 65,000 active Armed Forces (45,000 Land Forces; 3,000 Navy; 5,000 
 the military is equipped with mostly modern imported armaments, and a smaller amount of domestically produced weapons; foreign suppliers have included China, France, Germany, Israel, Italy, Russia, South Africa, South Korea, T&uuml;rkiye, and the US; the UAE's domestic defense industry produces or co-produces such items as armored vehicles, naval vessels, precision munitions, and unmanned aerial vehicles/drones for both internal use and export (2025)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for compulsory national service for men (compulsory service initiated in 2014); 18-40 for voluntary service; 36-month service obligation for men without a secondary education and 11 months for secondary school graduates; women may volunteer for national service (11-month service obligation regardless of education) (2025)<br>
+18-40 for voluntary service; 18-30 years of age for compulsory national service for men with a 36-month service obligation for those without a secondary education and 11 months for secondary school graduates; women may volunteer for national service (11-month service obligation regardless of education) (2025)<br>
 <strong>note 1:</strong> compulsory service may be completed in the uniformed military, the Ministry of Interior, or other security institutions designated by the military leadership<br><br><strong>note 2:</strong> the UAE military employs a considerable number of foreign personnel on contracted service<br>
 
 **Military deployments**<br>

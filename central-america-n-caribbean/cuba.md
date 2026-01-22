@@ -76,9 +76,9 @@ largest country in Caribbean and westernmost island of the Greater Antilles<br>
 ## People and Society
 
 **Population**<br>
-_total_: 10,966,038 (2024 est.)<br>
-_male_: 5,441,507<br>
-_female_: 5,524,531<br>
+_total_: 10,059,519 (2025 est.)<br>
+_male_: 4,950,615<br>
+_female_: 5,108,904<br>
 
 **Nationality**<br>
 _noun_: Cuban(s)<br>
@@ -102,10 +102,10 @@ _15-64 years_: 66.5% (male 3,670,531/female 3,623,658)<br>
 _65 years and over_: 17.2% (2024 est.) (male 852,910/female 1,034,295)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 49.6 (2024 est.)<br>
-_youth dependency ratio_: 23 (2024 est.)<br>
-_elderly dependency ratio_: 26.5 (2024 est.)<br>
-_potential support ratio_: 3.8 (2024 est.)<br>
+_total dependency ratio_: 50.2 (2025 est.)<br>
+_youth dependency ratio_: 22.6 (2025 est.)<br>
+_elderly dependency ratio_: 27.6 (2025 est.)<br>
+_potential support ratio_: 3.6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 46.2 years (2025 est.)<br>
@@ -550,11 +550,11 @@ _Total energy consumption per capita 2023_: 26.07 million Btu/person (2023 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.589 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 14 (2023 est.)<br>
+_total subscriptions_: 1.59 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 15 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,667,310 (2023 est.)<br>
+_total subscriptions_: 8.01 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 73 (2024 est.)<br>
 
 **Broadcast media**<br>

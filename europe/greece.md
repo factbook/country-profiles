@@ -75,9 +75,9 @@ strategic location dominating the Aegean Sea and southern approach to Turkish St
 ## People and Society
 
 **Population**<br>
-_total_: 10,461,091 (2024 est.)<br>
-_male_: 5,117,862<br>
-_female_: 5,343,229<br>
+_total_: 10,424,536 (2025 est.)<br>
+_male_: 5,105,879<br>
+_female_: 5,318,657<br>
 
 **Nationality**<br>
 _noun_: Greek(s)<br>
@@ -100,10 +100,10 @@ _15-64 years_: 62.6% (male 3,278,906/female 3,267,140)<br>
 _65 years and over_: 23.6% (2024 est.) (male 1,096,825/female 1,377,010)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 59.8 (2024 est.)<br>
-_youth dependency ratio_: 22 (2024 est.)<br>
-_elderly dependency ratio_: 37.8 (2024 est.)<br>
-_potential support ratio_: 2.6 (2024 est.)<br>
+_total dependency ratio_: 60.1 (2025 est.)<br>
+_youth dependency ratio_: 21.7 (2025 est.)<br>
+_elderly dependency ratio_: 38.4 (2025 est.)<br>
+_potential support ratio_: 2.6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 46.8 years (2025 est.)<br>
@@ -588,11 +588,11 @@ _Total energy consumption per capita 2023_: 92.693 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4.962 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 48 (2023 est.)<br>
+_total subscriptions_: 4.69 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 47 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,348,300 (2023 est.)<br>
+_total subscriptions_: 11.4 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 114 (2024 est.)<br>
 
 **Broadcast media**<br>

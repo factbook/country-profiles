@@ -88,9 +88,9 @@ controls Sinai Peninsula, the only land bridge between Africa and remainder of E
 ## People and Society
 
 **Population**<br>
-_total_: 111,247,248 (2024 est.)<br>
-_male_: 57,142,484<br>
-_female_: 54,104,764<br>
+_total_: 112,870,457 (2025 est.)<br>
+_male_: 57,960,635<br>
+_female_: 54,909,822<br>
 
 **Nationality**<br>
 _noun_: Egyptian(s)<br>
@@ -113,10 +113,10 @@ _15-64 years_: 60.6% (male 34,646,369/female 32,792,151)<br>
 _65 years and over_: 5.6% (2024 est.) (male 3,146,720/female 3,069,042)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 65 (2024 est.)<br>
-_youth dependency ratio_: 55.7 (2024 est.)<br>
-_elderly dependency ratio_: 9.2 (2024 est.)<br>
-_potential support ratio_: 10.8 (2024 est.)<br>
+_total dependency ratio_: 63.7 (2025 est.)<br>
+_youth dependency ratio_: 54.2 (2025 est.)<br>
+_elderly dependency ratio_: 9.5 (2025 est.)<br>
+_potential support ratio_: 10.5 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 24.6 years (2025 est.)<br>
@@ -634,11 +634,11 @@ _Total energy consumption per capita 2023_: 34.975 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 12.475 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 11 (2023 est.)<br>
+_total subscriptions_: 13.3 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 106.319 million (2023 est.)<br>
+_total subscriptions_: 113 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 97 (2024 est.)<br>
 
 **Broadcast media**<br>

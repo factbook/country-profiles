@@ -82,9 +82,9 @@ occasional floods; severe droughts; tsunamis; earthquakes; volcanoes; forest fir
 ## People and Society
 
 **Population**<br>
-_total_: 281,562,465 (2024 est.)<br>
-_male_: 140,800,047<br>
-_female_: 140,762,418<br>
+_total_: 283,587,097 (2025 est.)<br>
+_male_: 141,778,977<br>
+_female_: 141,808,120<br>
 
 **Nationality**<br>
 _noun_: Indonesian(s)<br>
@@ -106,10 +106,10 @@ _15-64 years_: 68.3% (male 96,268,201/female 95,961,293)<br>
 _65 years and over_: 8% (2024 est.) (male 10,284,628/female 12,099,758)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 46.5 (2024 est.)<br>
-_youth dependency ratio_: 34.8 (2024 est.)<br>
-_elderly dependency ratio_: 11.6 (2024 est.)<br>
-_potential support ratio_: 8.6 (2024 est.)<br>
+_total dependency ratio_: 46.1 (2025 est.)<br>
+_youth dependency ratio_: 34.1 (2025 est.)<br>
+_elderly dependency ratio_: 12 (2025 est.)<br>
+_potential support ratio_: 8.3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 31.8 years (2025 est.)<br>
@@ -623,8 +623,8 @@ _total subscriptions_: 9.16 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 352 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 115 (2022 est.)<br>
+_total subscriptions_: 347 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 123 (2024 est.)<br>
 
 **Broadcast media**<br>
 mix of about a dozen national TV networks, including 1 public broadcaster and the rest private; more than 100 local TV stations; widespread use of satellite and cable TV systems; public radio broadcaster operates 6 national networks, as well as regional and local stations; more than 700 radio stations, with over 650 privately operated (2019)<br>

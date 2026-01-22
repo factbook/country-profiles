@@ -66,9 +66,9 @@ strategic location on Strait of Gibraltar that links the North Atlantic Ocean an
 ## People and Society
 
 **Population**<br>
-_total_: 29,683 (2024 est.)<br>
-_male_: 14,919<br>
-_female_: 14,764<br>
+_total_: 29,733 (2025 est.)<br>
+_male_: 14,923<br>
+_female_: 14,810<br>
 
 **Nationality**<br>
 _noun_: Gibraltarian(s)<br>
@@ -90,10 +90,10 @@ _15-64 years_: 62.5% (male 9,383/female 9,179)<br>
 _65 years and over_: 17.5% (2024 est.) (male 2,491/female 2,690)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 59.9 (2024 est.)<br>
-_youth dependency ratio_: 32 (2024 est.)<br>
-_elderly dependency ratio_: 27.9 (2024 est.)<br>
-_potential support ratio_: 3.6 (2024 est.)<br>
+_total dependency ratio_: 60 (2025 est.)<br>
+_youth dependency ratio_: 32.1 (2025 est.)<br>
+_elderly dependency ratio_: 28 (2025 est.)<br>
+_potential support ratio_: 3.6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 37.1 years (2025 est.)<br>
@@ -336,11 +336,11 @@ _imports_: 77.196 million cubic meters (2023 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 17,000 (2022 est.)<br>
+_total subscriptions_: 17,200 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 46 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 36,708 (2022 est.)<br>
+_total subscriptions_: 36,700 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 98 (2022 est.)<br>
 
 **Broadcast media**<br>

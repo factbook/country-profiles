@@ -86,9 +86,9 @@ landlocked; divided into three natural zones: the southern, cultivated Sudanese;
 ## People and Society
 
 **Population**<br>
-_total_: 21,990,607 (2024 est.)<br>
-_male_: 10,688,755<br>
-_female_: 11,301,852<br>
+_total_: 22,634,423 (2025 est.)<br>
+_male_: 10,999,331<br>
+_female_: 11,635,092<br>
 
 **Nationality**<br>
 _noun_: Malian(s)<br>
@@ -110,10 +110,10 @@ _15-64 years_: 50.1% (male 5,178,742/female 5,842,456)<br>
 _65 years and over_: 3.1% (2024 est.) (male 334,299/female 345,268)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 99.5 (2024 est.)<br>
-_youth dependency ratio_: 93.4 (2024 est.)<br>
-_elderly dependency ratio_: 6.2 (2024 est.)<br>
-_potential support ratio_: 16.2 (2024 est.)<br>
+_total dependency ratio_: 98.5 (2025 est.)<br>
+_youth dependency ratio_: 92.3 (2025 est.)<br>
+_elderly dependency ratio_: 6.2 (2025 est.)<br>
+_potential support ratio_: 16.2 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 16.5 years (2025 est.)<br>
@@ -329,12 +329,12 @@ _cabinet_: Council of Ministers appointed by the prime minister<br>
 _election/appointment process_: president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister appointed by the president<br>
 _most recent election date_: 29 July 2018, with runoff on 12 August 2018<br>
 _election results_: <em><br>2018</em>: Ibrahim Boubacar KEITA reelected president in second round; percent of vote in first round - Ibrahim Boubacar KEITA (RPM) 41.7%, Soumaila CISSE (URD) 17.8%, other 40.5%; percent of vote in second round - Ibrahim Boubacar KEITA 67.2%, Soumaila CISSE 32.8%<br>
-<strong>note:</strong> in 2022, the transition government adopted a charter allowing transition authorities to rule for up to 5 years, but the military junta pushed through a referendum in 2023 that created the potential for transition President GOITA to maintain his hold on power indefinitely<br>
+<strong>note:</strong> in 2022, the transition government adopted a charter allowing transition authorities to rule for up to 5 years; in July 2025, the military-appointed National Transitional Council (CNT) unanimously adopted a revised transitional charter that granted transitional president General Assimi GOITA a five-year presidential mandate, renewable indefinitely, following the earlier dissolution of all political parties in May<br>
 
 **Legislative branch**<br>
 _legislature name_: Transitional National Council (Conseil national de transition)<br>
 _legislative structure_: unicameral<br>
-_chamber name_: Transitional National Council (Conseil national de transition )<br>
+_chamber name_: Transitional National Council (Conseil national de transition)<br>
 _number of seats_: 147 (all appointed)<br>
 _electoral system_: plurality/majority<br>
 _scope of elections_: full renewal<br>
@@ -584,7 +584,7 @@ _subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 25.9 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 114 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 112 (2022 est.)<br>
 
 **Broadcast media**<br>
 national public TV broadcaster; 2 privately owned companies provide subscription services to foreign multi-channel TV packages; national public radio broadcaster supplemented by a large number of privately owned and community broadcast stations; transmissions of multiple international broadcasters are available (2019)<br>

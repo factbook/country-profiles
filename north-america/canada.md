@@ -92,9 +92,9 @@ continuous permafrost in north is a serious obstacle to development; cyclonic st
 ## People and Society
 
 **Population**<br>
-_total_: 38,794,813 (2024 est.)<br>
-_male_: 19,234,729<br>
-_female_: 19,560,084<br>
+_total_: 39,187,155 (2025 est.)<br>
+_male_: 19,515,416<br>
+_female_: 19,671,739<br>
 
 **Nationality**<br>
 _noun_: Canadian(s)<br>
@@ -117,10 +117,10 @@ _15-64 years_: 63.4% (male 12,382,422/female 12,227,512)<br>
 _65 years and over_: 21% (2024 est.) (male 3,753,829/female 4,403,424)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 56.8 (2024 est.)<br>
-_youth dependency ratio_: 23.9 (2024 est.)<br>
-_elderly dependency ratio_: 32.9 (2024 est.)<br>
-_potential support ratio_: 3 (2024 est.)<br>
+_total dependency ratio_: 57.7 (2025 est.)<br>
+_youth dependency ratio_: 23.8 (2025 est.)<br>
+_elderly dependency ratio_: 33.9 (2025 est.)<br>
+_potential support ratio_: 2.9 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 42.8 years (2025 est.)<br>
@@ -617,11 +617,11 @@ _Total energy consumption per capita 2023_: 311.599 million Btu/person (2023 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 10.897 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 28 (2023 est.)<br>
+_total subscriptions_: 11 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 28 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 37 million (2023 est.)<br>
+_total subscriptions_: 37.4 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 94 (2024 est.)<br>
 
 **Broadcast media**<br>

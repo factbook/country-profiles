@@ -78,9 +78,9 @@ the mainland terrain is flat, boggy, and partly wooded; over 1,500 islands lie o
 ## People and Society
 
 **Population**<br>
-_total_: 1,193,791 (2024 est.)<br>
-_male_: 563,079<br>
-_female_: 630,712<br>
+_total_: 1,340,478 (2025 est.)<br>
+_male_: 634,988<br>
+_female_: 705,490<br>
 
 **Nationality**<br>
 _noun_: Estonian(s)<br>
@@ -101,10 +101,10 @@ _15-64 years_: 62.2% (male 373,989/female 368,113)<br>
 _65 years and over_: 22.6% (2024 est.) (male 96,110/female 173,846)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 57.6 (2024 est.)<br>
-_youth dependency ratio_: 25.4 (2024 est.)<br>
-_elderly dependency ratio_: 32.2 (2024 est.)<br>
-_potential support ratio_: 3.1 (2024 est.)<br>
+_total dependency ratio_: 57.5 (2025 est.)<br>
+_youth dependency ratio_: 24.8 (2025 est.)<br>
+_elderly dependency ratio_: 32.7 (2025 est.)<br>
+_potential support ratio_: 3.1 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 42.9 years (2025 est.)<br>
@@ -579,11 +579,11 @@ _Total energy consumption per capita 2023_: 73.679 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 238,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 17 (2023 est.)<br>
+_total subscriptions_: 227,000 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 17 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,053,470 (2023 est.)<br>
+_total subscriptions_: 2.06 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 151 (2024 est.)<br>
 
 **Broadcast media**<br>

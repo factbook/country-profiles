@@ -78,20 +78,20 @@ both the main area of the country and the Naxcivan exclave are landlocked<br>
 ## People and Society
 
 **Population**<br>
-_total_: 10,650,239 (2024 est.)<br>
-_male_: 5,330,233<br>
-_female_: 5,320,006<br>
+_total_: 10,694,370 (2025 est.)<br>
+_male_: 5,354,376<br>
+_female_: 5,339,994<br>
 
 **Nationality**<br>
 _noun_: Azerbaijani(s)<br>
 _adjective_: Azerbaijani<br>
 
 **Ethnic groups**<br>
-Azerbaijani 91.6%, Lezghin 2%, Russian 1.3%, Armenian 1.3%, Talysh 1.3%, other 2.4% (2009 est.)<br>
+Azerbaijani 94.8%, other 1.8%; less than 1%: Talish, Russian, Avar, Sakhur, Tartar, Georgian, Jewish, Kurd<br><!--EndFragment --> (2019 est.)<br>
 <strong>note:</strong> Nagorno-Karabakh, which is part of Azerbaijan on the basis of the borders recognized when the Soviet Union dissolved in 1991, was populated almost entirely by ethnic Armenians; Azerbaijan has over 80 ethnic groups<br>
 
 **Languages**<br>
-Azerbaijani (Azeri) (official) 92.5%, Russian 1.4%, Armenian 1.4%, other 4.7% (2009 est.)<br>
+Azerbaijani 96.1%, other 1.4%; less than 1%: Russian, Avar, Talyshi, Turkish, Tatar, Sakhur, Tat, Ukrainian, Georgian, Hebrew (2019 est.)<br>
 _major-language sample(s)_: <br>Dünya fakt kitabı, əsas məlumatlar üçün əvəz olunmaz mənbədir (Azerbaijani)<br><br>The World Factbook, the indispensable source for basic information.<br>
 <strong>note:</strong> Russian is widely spoken<br>
 
@@ -105,10 +105,10 @@ _15-64 years_: 68.7% (male 3,659,441/female 3,656,493)<br>
 _65 years and over_: 9% (2024 est.) (male 401,551/female 558,984)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 45.6 (2024 est.)<br>
-_youth dependency ratio_: 32.4 (2024 est.)<br>
-_elderly dependency ratio_: 13.1 (2024 est.)<br>
-_potential support ratio_: 7.6 (2024 est.)<br>
+_total dependency ratio_: 45.6 (2025 est.)<br>
+_youth dependency ratio_: 31.6 (2025 est.)<br>
+_elderly dependency ratio_: 14 (2025 est.)<br>
+_potential support ratio_: 7.1 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 34.8 years (2025 est.)<br>
@@ -582,11 +582,11 @@ _Total energy consumption per capita 2023_: 66.467 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.635 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 16 (2023 est.)<br>
+_total subscriptions_: 1.33 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,111,300 (2023 est.)<br>
+_total subscriptions_: 11.3 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 110 (2024 est.)<br>
 
 **Broadcast media**<br>

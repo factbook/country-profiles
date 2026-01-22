@@ -75,9 +75,9 @@ the third largest island in the Mediterranean Sea (after Sicily and Sardinia)<br
 ## People and Society
 
 **Population**<br>
-_total_: 1,320,525 (2024 est.)<br>
-_male_: 675,196<br>
-_female_: 645,329<br>
+_total_: 1,332,293 (2025 est.)<br>
+_male_: 681,128<br>
+_female_: 651,165<br>
 
 **Nationality**<br>
 _noun_: Cypriot(s)<br>
@@ -102,10 +102,10 @@ _15-64 years_: 70% (male 486,569/female 437,651)<br>
 _65 years and over_: 14.4% (2024 est.) (male 83,094/female 107,579)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 42.9 (2024 est.)<br>
-_youth dependency ratio_: 22.2 (2024 est.)<br>
-_elderly dependency ratio_: 20.6 (2024 est.)<br>
-_potential support ratio_: 4.8 (2024 est.)<br>
+_total dependency ratio_: 43.6 (2025 est.)<br>
+_youth dependency ratio_: 22.3 (2025 est.)<br>
+_elderly dependency ratio_: 21.4 (2025 est.)<br>
+_potential support ratio_: 4.7 (2025 est.)<br>
 <strong>note:</strong> data represent the whole country<br>
 
 **Median age**<br>
@@ -580,11 +580,11 @@ _Total energy consumption per capita 2023_: 107.188 million Btu/person (2023 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 270,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 29 (2023 est.)<br>
+_total subscriptions_: 245,000 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 25 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,433,500 (2023 est.)<br>
+_total subscriptions_: 1.51 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 156 (2024 est.)<br>
 
 **Broadcast media**<br>

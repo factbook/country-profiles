@@ -86,9 +86,9 @@ strategic location on Shatt al Arab waterway and at the head of the Persian Gulf
 ## People and Society
 
 **Population**<br>
-_total_: 42,083,436 (2024 est.)<br>
-_male_: 21,193,356<br>
-_female_: 20,890,080<br>
+_total_: 42,917,742 (2025 est.)<br>
+_male_: 21,614,894<br>
+_female_: 21,302,848<br>
 
 **Nationality**<br>
 _noun_: Iraqi(s)<br>
@@ -112,10 +112,10 @@ _15-64 years_: 61.7% (male 13,064,516/female 12,907,702)<br>
 _65 years and over_: 3.6% (2024 est.) (male 681,574/female 851,495)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 62 (2024 est.)<br>
-_youth dependency ratio_: 56.1 (2024 est.)<br>
-_elderly dependency ratio_: 5.9 (2024 est.)<br>
-_potential support ratio_: 16.9 (2024 est.)<br>
+_total dependency ratio_: 60.5 (2025 est.)<br>
+_youth dependency ratio_: 54.6 (2025 est.)<br>
+_elderly dependency ratio_: 5.9 (2025 est.)<br>
+_potential support ratio_: 16.9 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 22.7 years (2025 est.)<br>

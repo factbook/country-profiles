@@ -87,9 +87,9 @@ earthquakes, tsunamis, flooding, landslides, mild volcanic activity <br><br><str
 ## People and Society
 
 **Population**<br>
-_total_: 32,600,249 (2024 est.)<br>
-_male_: 15,952,556<br>
-_female_: 16,647,693<br>
+_total_: 32,768,614 (2025 est.)<br>
+_male_: 16,016,448<br>
+_female_: 16,752,166<br>
 
 **Nationality**<br>
 _noun_: Peruvian(s)<br>
@@ -111,10 +111,10 @@ _15-64 years_: 66.2% (male 10,546,502/female 11,041,106)<br>
 _65 years and over_: 8% (2024 est.) (male 1,112,825/female 1,487,318)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 51 (2024 est.)<br>
-_youth dependency ratio_: 39 (2024 est.)<br>
-_elderly dependency ratio_: 12 (2024 est.)<br>
-_potential support ratio_: 8.3 (2024 est.)<br>
+_total dependency ratio_: 50.4 (2025 est.)<br>
+_youth dependency ratio_: 38.4 (2025 est.)<br>
+_elderly dependency ratio_: 12 (2025 est.)<br>
+_potential support ratio_: 8.3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 30.4 years (2025 est.)<br>
@@ -617,8 +617,8 @@ _total subscriptions_: 1.504 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 41.3 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 122 (2022 est.)<br>
+_total subscriptions_: 42.6 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 125 (2024 est.)<br>
 
 **Broadcast media**<br>
 10 major TV networks of which only one, Television Nacional de Peru, is state owned; multi-channel cable TV services are available; in excess of 5,000 radio stations including a substantial number of local-language stations (2021)<br>

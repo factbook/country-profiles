@@ -83,9 +83,9 @@ landlocked; the Hindu Kush mountains that run northeast to southwest divide the 
 ## People and Society
 
 **Population**<br>
-_total_: 40,121,552 (2024 est.)<br>
-_male_: 20,301,066<br>
-_female_: 19,820,486<br>
+_total_: 49,474,805 (2025 est.)<br>
+_male_: 25,051,967<br>
+_female_: 24,422,838<br>
 
 **Nationality**<br>
 _noun_: Afghan(s)<br>
@@ -108,10 +108,10 @@ _15-64 years_: 57.5% (male 11,702,734/female 11,372,249)<br>
 _65 years and over_: 2.9% (2024 est.) (male 535,925/female 629,340)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 82.7 (2024 est.)<br>
-_youth dependency ratio_: 77.5 (2024 est.)<br>
-_elderly dependency ratio_: 5.2 (2024 est.)<br>
-_potential support ratio_: 19.3 (2024 est.)<br>
+_total dependency ratio_: 82.2 (2025 est.)<br>
+_youth dependency ratio_: 77 (2025 est.)<br>
+_elderly dependency ratio_: 5.2 (2025 est.)<br>
+_potential support ratio_: 19 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 18.4 years (2025 est.)<br>
@@ -322,7 +322,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: Taliban Leader HAYBATULLAH Akhundzada (since 15 August 2021)<br>
-_head of government_: overall Taliban Leader HAYBATULLAH Akhundzada is the [so-called] Amir-ul Momineen of the Taliban and is seen by them as a head of government<br>
+_head of government_: overall Taliban Leader HAYBATULLAH Akhundzada is the [so-called] Amir-ul Momineen of the Taliban and is effectively the head of government<br>
 _cabinet_: the Taliban have announced a &ldquo;cabinet&rdquo; for the &ldquo;caretaker government,&rdquo; including the &ldquo;acting prime minister,&rdquo; &ldquo;acting deputy prime ministers,&rdquo; and &ldquo;ministers&rdquo; who claim to represent 26 ministries<br>
 _election/appointment process_: the 2004 Afghan constitution directed that the president should be elected by majority popular vote for a 5-year term (eligible for a second term); the Taliban have given no indication that they intend to reinstate elections or any other mechanism of democratic governance<br>
 _most recent election date_: 28 September 2019<br>
@@ -566,7 +566,7 @@ _total subscriptions_: 182,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 23,027,100 (2023 est.)<br>
+_total subscriptions_: 25.6 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 60 (2024 est.)<br>
 
 **Broadcast media**<br>
@@ -616,7 +616,7 @@ service is voluntary; there is no conscription (2023)<br>
 <strong>note: </strong>the Taliban dismissed nearly all women from the former Afghan National Defense and Security Forces, except those serving in detention facilities and assisting with body searches<br>
 
 **Military - note**<br>
-the Taliban&rsquo;s key security priorities are border and internal security; specific issues have included rising tensions with Pakistan along their shared border, armed anti-Taliban resistance elements, and the Islamic State of Iraq and ash-Sham - Khorasan (ISIS-K) terrorist group (2025)<br>
+the Taliban&rsquo;s key security priorities are border and internal security; specific issues have included tensions with Pakistan along their shared border, armed anti-Taliban resistance elements, and the Islamic State of Iraq and ash-Sham - Khorasan (ISIS-K) terrorist group (2025)<br>
 
 ## Terrorism
 

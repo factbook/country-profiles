@@ -85,9 +85,9 @@ strategic location on North European Plain and along the entrance to the Baltic 
 ## People and Society
 
 **Population**<br>
-_total_: 84,119,100 (2024 est.)<br>
-_male_: 41,572,702<br>
-_female_: 42,546,398<br>
+_total_: 84,012,284 (2025 est.)<br>
+_male_: 41,517,301<br>
+_female_: 42,494,983<br>
 
 **Nationality**<br>
 _noun_: German(s)<br>
@@ -110,10 +110,10 @@ _15-64 years_: 62.5% (male 26,705,657/female 25,875,865)<br>
 _65 years and over_: 23.7% (2024 est.) (male 8,941,245/female 10,981,930)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 60 (2024 est.)<br>
-_youth dependency ratio_: 22.1 (2024 est.)<br>
-_elderly dependency ratio_: 37.9 (2024 est.)<br>
-_potential support ratio_: 2.6 (2024 est.)<br>
+_total dependency ratio_: 61.3 (2025 est.)<br>
+_youth dependency ratio_: 22.4 (2025 est.)<br>
+_elderly dependency ratio_: 38.9 (2025 est.)<br>
+_potential support ratio_: 2.6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 46.9 years (2025 est.)<br>
@@ -618,11 +618,11 @@ _Total energy consumption per capita 2023_: 120.457 million Btu/person (2023 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 38.8 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 46 (2023 est.)<br>
+_total subscriptions_: 38.4 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 45 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 105.4 million (2023 est.)<br>
+_total subscriptions_: 109 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 129 (2024 est.)<br>
 
 **Broadcast media**<br>

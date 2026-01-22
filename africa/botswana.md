@@ -84,9 +84,9 @@ landlocked; sparsely populated with most settlement concentrated in the southern
 ## People and Society
 
 **Population**<br>
-_total_: 2,450,668 (2024 est.)<br>
-_male_: 1,174,306<br>
-_female_: 1,276,362<br>
+_total_: 2,521,534 (2025 est.)<br>
+_male_: 1,234,898<br>
+_female_: 1,286,636<br>
 
 **Nationality**<br>
 _noun_: Motswana (singular), Batswana (plural)<br>
@@ -107,10 +107,10 @@ _15-64 years_: 65.2% (male 759,210/female 837,752)<br>
 _65 years and over_: 6.1% (2024 est.) (male 59,513/female 89,747)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.5 (2024 est.)<br>
-_youth dependency ratio_: 44.1 (2024 est.)<br>
-_elderly dependency ratio_: 9.3 (2024 est.)<br>
-_potential support ratio_: 10.7 (2024 est.)<br>
+_total dependency ratio_: 60.9 (2025 est.)<br>
+_youth dependency ratio_: 52.1 (2025 est.)<br>
+_elderly dependency ratio_: 8.8 (2025 est.)<br>
+_potential support ratio_: 11.4 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 25.8 years (2025 est.)<br>
@@ -578,11 +578,11 @@ _Total energy consumption per capita 2023_: 32.443 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 90,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 4 (2023 est.)<br>
+_total subscriptions_: 83,200 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,440,310 (2023 est.)<br>
+_total subscriptions_: 4.13 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 164 (2024 est.)<br>
 
 **Broadcast media**<br>

@@ -56,8 +56,8 @@ a 1,200-hectare (3,000-acre) marine nature reserve, the Reserve Naturelle, is ma
 ## People and Society
 
 **Population**<br>
-_total_: 7,086 (2024 est.)<br>
-_male_: 3,737<br>
+_total_: 7,079 (2025 est.)<br>
+_male_: 3,730<br>
 _female_: 3,349<br>
 
 **Ethnic groups**<br>
@@ -73,10 +73,10 @@ _15-64 years_: 63.1% (male 2,413/female 2,057)<br>
 _65 years and over_: 23% (2024 est.) (male 818/female 813)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 58.5 (2024 est.)<br>
-_youth dependency ratio_: 22 (2024 est.)<br>
-_elderly dependency ratio_: 36.5 (2024 est.)<br>
-_potential support ratio_: 2.7 (2024 est.)<br>
+_total dependency ratio_: 60.1 (2025 est.)<br>
+_youth dependency ratio_: 22 (2025 est.)<br>
+_elderly dependency ratio_: 38 (2025 est.)<br>
+_potential support ratio_: 2.6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 47.7 years (2025 est.)<br>

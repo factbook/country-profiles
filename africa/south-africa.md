@@ -87,9 +87,9 @@ prolonged droughts <br><br><strong>volcanism:</strong> the volcano that formed M
 ## People and Society
 
 **Population**<br>
-_total_: 60,442,647 (2024 est.)<br>
-_male_: 29,664,388<br>
-_female_: 30,778,259<br>
+_total_: 61,089,926 (2025 est.)<br>
+_male_: 29,989,969<br>
+_female_: 31,099,957<br>
 
 **Nationality**<br>
 _noun_: South African(s)<br>
@@ -113,10 +113,10 @@ _15-64 years_: 65.3% (male 19,524,873/female 19,947,839)<br>
 _65 years and over_: 7.5% (2024 est.) (male 1,911,825/female 2,636,028)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.1 (2024 est.)<br>
-_youth dependency ratio_: 41.6 (2024 est.)<br>
-_elderly dependency ratio_: 11.5 (2024 est.)<br>
-_potential support ratio_: 8.7 (2024 est.)<br>
+_total dependency ratio_: 53 (2025 est.)<br>
+_youth dependency ratio_: 41.1 (2025 est.)<br>
+_elderly dependency ratio_: 11.8 (2025 est.)<br>
+_potential support ratio_: 8.4 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 30.7 years (2025 est.)<br>
@@ -616,8 +616,8 @@ _total subscriptions_: 1.353 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 108 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 167 (2022 est.)<br>
+_total subscriptions_: 115 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 167 (2024 est.)<br>
 
 **Broadcast media**<br>
 the South African Broadcasting Corporation (SABC) operates 6 free-to-air TV stations; 1 private TV station; multiple subscription TV services with mix of local and international channels; mix of public and private radio stations at the national, regional, and local levels; state-owned SABC radio network has 18 stations, including one for each of the 11 official languages, 4 community stations, and 3 commercial stations; over 100 community stations with rural coverage<br>

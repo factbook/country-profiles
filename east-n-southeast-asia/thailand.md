@@ -85,9 +85,9 @@ controls only land route from Asia to Malaysia and Singapore<br>
 ## People and Society
 
 **Population**<br>
-_total_: 69,920,998 (2024 est.)<br>
-_male_: 34,065,311<br>
-_female_: 35,855,687<br>
+_total_: 70,025,248 (2025 est.)<br>
+_male_: 34,101,016<br>
+_female_: 35,924,232<br>
 
 **Nationality**<br>
 _noun_: Thai (singular and plural)<br>
@@ -111,10 +111,10 @@ _15-64 years_: 69% (male 23,681,528/female 24,597,535)<br>
 _65 years and over_: 15.1% (2024 est.) (male 4,714,191/female 5,863,754)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 44.8 (2024 est.)<br>
-_youth dependency ratio_: 22.9 (2024 est.)<br>
-_elderly dependency ratio_: 21.9 (2024 est.)<br>
-_potential support ratio_: 4.6 (2024 est.)<br>
+_total dependency ratio_: 45.9 (2025 est.)<br>
+_youth dependency ratio_: 22.9 (2025 est.)<br>
+_elderly dependency ratio_: 23.1 (2025 est.)<br>
+_potential support ratio_: 4.3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 41.9 years (2025 est.)<br>
@@ -634,8 +634,8 @@ _total subscriptions_: 4.087 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 6 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 121 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 176 (2022 est.)<br>
+_total subscriptions_: 115 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 161 (2024 est.)<br>
 
 **Broadcast media**<br>
 26 digital TV stations and 6 terrestrial TV stations broadcast nationally via relay stations, with 2 of the terrestrial stations military-owned and the other 4 state-owned or state-controlled; some leased to private enterprise; all required to broadcast government-produced news; multi-channel satellite and cable TV subscriptions available; radio frequencies allotted for over 500 government and commercial radio stations; many small community radio stations operate with low-power transmitters (2017)<br>
@@ -699,8 +699,8 @@ estimated 350,000 active-duty Armed Forces (250,000 Army; 70,000 Navy; 30,000 Ai
 the RTARF has a diverse array of foreign-supplied armaments, as well as some domestically produced items; its imported weapons and equipment are from a variety of suppliers, including China, several European countries, Israel, Russia, South Korea, and the US; Thailand's domestic defense industry produces such items as armored vehicles, artillery systems, naval vessels, unmanned aerial vehicles, and other military technologies (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women; 21 years of age for compulsory military service for men; men register at 18 years of age; volunteer service obligation may be as short as 6 or 12 months, depending on educational qualifications; conscript service obligation also varies by educational qualifications, but is typically 24 months (2024)<br>
-<strong>note:</strong> serving in the armed forces is a national duty of all Thai citizens; conscription was introduced in 1905; it includes women, however, only men over the age of 21 who have not gone through reserve training are conscripted; conscripts are chosen by lottery (on draft day, eligible draftees can request volunteer service, or they may choose to stay for the conscription lottery); approximately 100,000 men are drafted for military service each year<br>
+18 years of age for voluntary military service for men and women; all men register at 17 years of age and are subject to selective compulsory military service at 21; volunteer service obligation may be as short as 6-18 months, depending on educational qualifications; conscript service obligation also varies by educational qualifications, but is typically 24 months (2025)<br>
+<strong>note:</strong> serving in the armed forces is a national duty of all Thai citizens; conscription was introduced in 1905; it includes women, however, only men over the age of 21 who have not gone through reserve training are conscripted; conscripts are chosen by lottery (on draft day, eligible draftees can request volunteer service, or they may choose to stay for the conscription lottery)<br>
 
 **Military deployments**<br>
 280 South Sudan (UNMISS) (2025)<br>

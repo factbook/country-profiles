@@ -79,9 +79,9 @@ crossroads of Western Europe; most West European capitals are within 1,000 km of
 ## People and Society
 
 **Population**<br>
-_total_: 11,977,634 (2024 est.)<br>
-_male_: 5,909,057<br>
-_female_: 6,068,577<br>
+_total_: 11,960,170 (2025 est.)<br>
+_male_: 5,907,498<br>
+_female_: 6,052,672<br>
 
 **Nationality**<br>
 _noun_: Belgian(s)<br>
@@ -103,10 +103,10 @@ _15-64 years_: 62.8% (male 3,796,844/female 3,730,784)<br>
 _65 years and over_: 20.2% (2024 est.) (male 1,073,635/female 1,347,578)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 57.3 (2024 est.)<br>
-_youth dependency ratio_: 25.3 (2024 est.)<br>
-_elderly dependency ratio_: 32.1 (2024 est.)<br>
-_potential support ratio_: 3.1 (2024 est.)<br>
+_total dependency ratio_: 57.6 (2025 est.)<br>
+_youth dependency ratio_: 24.9 (2025 est.)<br>
+_elderly dependency ratio_: 32.6 (2025 est.)<br>
+_potential support ratio_: 3.1 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 42.4 years (2025 est.)<br>
@@ -605,11 +605,11 @@ _Total energy consumption per capita 2023_: 190.416 million Btu/person (2023 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2.667 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 23 (2023 est.)<br>
+_total subscriptions_: 2.49 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 21 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12,087,300 (2023 est.)<br>
+_total subscriptions_: 12.2 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 104 (2024 est.)<br>
 
 **Broadcast media**<br>

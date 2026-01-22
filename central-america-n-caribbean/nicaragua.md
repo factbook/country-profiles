@@ -78,9 +78,9 @@ largest country in Central America; contains the largest freshwater body in Cent
 ## People and Society
 
 **Population**<br>
-_total_: 6,676,948 (2024 est.)<br>
-_male_: 3,273,900<br>
-_female_: 3,403,048<br>
+_total_: 6,739,380 (2025 est.)<br>
+_male_: 3,304,133<br>
+_female_: 3,435,247<br>
 
 **Nationality**<br>
 _noun_: Nicaraguan(s)<br>
@@ -103,10 +103,10 @@ _15-64 years_: 68.9% (male 2,240,297/female 2,360,244)<br>
 _65 years and over_: 6% (2024 est.) (male 178,347/female 224,090)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 45.1 (2024 est.)<br>
-_youth dependency ratio_: 36.4 (2024 est.)<br>
-_elderly dependency ratio_: 8.7 (2024 est.)<br>
-_potential support ratio_: 11.4 (2024 est.)<br>
+_total dependency ratio_: 44.6 (2025 est.)<br>
+_youth dependency ratio_: 35.6 (2025 est.)<br>
+_elderly dependency ratio_: 9 (2025 est.)<br>
+_potential support ratio_: 11.1 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 29.5 years (2025 est.)<br>
@@ -550,8 +550,8 @@ _total subscriptions_: 234,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.22 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 97 (2021 est.)<br>
+_total subscriptions_: 7.33 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 106 (2024 est.)<br>
 
 **Broadcast media**<br>
 multiple terrestrial TV stations, supplemented by cable TV in most urban areas; nearly all are state-owned or affiliated; more than 300 radio stations, both state-affiliated and privately owned (2019)<br>

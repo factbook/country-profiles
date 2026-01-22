@@ -76,9 +76,9 @@ facing the Atlantic Ocean, the coastline is characterized by lagoons, mangrove s
 ## People and Society
 
 **Population**<br>
-_total_: 5,437,249 (2024 est.)<br>
-_male_: 2,711,324<br>
-_female_: 2,725,925<br>
+_total_: 5,563,541 (2025 est.)<br>
+_male_: 2,774,006<br>
+_female_: 2,789,535<br>
 
 **Nationality**<br>
 _noun_: Liberian(s)<br>
@@ -99,10 +99,10 @@ _15-64 years_: 57.9% (male 1,566,263/female 1,579,835)<br>
 _65 years and over_: 3.2% (2024 est.) (male 80,961/female 93,534)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 72.8 (2024 est.)<br>
-_youth dependency ratio_: 67.3 (2024 est.)<br>
-_elderly dependency ratio_: 5.5 (2024 est.)<br>
-_potential support ratio_: 18 (2024 est.)<br>
+_total dependency ratio_: 72 (2025 est.)<br>
+_youth dependency ratio_: 66.4 (2025 est.)<br>
+_elderly dependency ratio_: 5.6 (2025 est.)<br>
+_potential support ratio_: 18 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 20.1 years (2025 est.)<br>
@@ -562,8 +562,8 @@ _total subscriptions_: 6,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.65 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 32 (2021 est.)<br>
+_total subscriptions_: 1.72 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 32 (2022 est.)<br>
 
 **Broadcast media**<br>
 8 private and 1 state-owned TV station; satellite TV service available; 1 state-owned radio station; about 20 independent radio stations broadcasting in Monrovia, with about 80 more local stations operating in other areas; transmissions of 4 international broadcasters are available (2019)<br>

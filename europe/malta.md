@@ -74,9 +74,9 @@ the country is an archipelago, with only the three largest islands (Malta, Ghawd
 ## People and Society
 
 **Population**<br>
-_total_: 469,730 (2024 est.)<br>
-_male_: 237,023<br>
-_female_: 232,707<br>
+_total_: 521,828 (2025 est.)<br>
+_male_: 271,180<br>
+_female_: 250,648<br>
 
 **Nationality**<br>
 _noun_: Maltese (singular and plural)<br>
@@ -97,10 +97,10 @@ _15-64 years_: 62.4% (male 151,836/female 141,248)<br>
 _65 years and over_: 23.1% (2024 est.) (male 50,153/female 58,278)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.7 (2024 est.)<br>
-_youth dependency ratio_: 21.4 (2024 est.)<br>
-_elderly dependency ratio_: 32.4 (2024 est.)<br>
-_potential support ratio_: 3.1 (2024 est.)<br>
+_total dependency ratio_: 54.1 (2025 est.)<br>
+_youth dependency ratio_: 21.2 (2025 est.)<br>
+_elderly dependency ratio_: 32.9 (2025 est.)<br>
+_potential support ratio_: 3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 42.1 years (2025 est.)<br>
@@ -566,8 +566,8 @@ _total subscriptions_: 259,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 49 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 749,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 132 (2022 est.)<br>
+_total subscriptions_: 767,000 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 142 (2024 est.)<br>
 
 **Broadcast media**<br>
 2 publicly owned TV stations, Television Malta and an educational channel; several privately owned national television stations, 2 of which are owned by political parties; Italian and British broadcast programs are available; multi-channel cable and satellite TV services are available; publicly owned radio broadcaster operates 3 stations; roughly 20 commercial radio stations (2019)<br>
@@ -626,7 +626,7 @@ approximately 2,000 active Armed Forces of Malta (2025)<br>
 the military has a small inventory of armaments from a mix of European countries, particularly Italy, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for men and women for voluntary military service; no conscription (2024)<br>
+18-30 years of age for men and women for voluntary military service; no conscription (2026)<br>
 
 **Military - note**<br>
 the Armed Forces of Malta (AFM) are responsible for external security but also have some domestic security responsibilities; the AFM’s primary roles include maintaining the country’s sovereignty and territorial integrity, monitoring and policing its territorial waters, participating in overseas peacekeeping and stability operations, and providing search and rescue and explosive ordnance disposal capabilities; secondary missions include assisting civil authorities during emergencies, supporting the police and other security services, and providing ceremonial and other public support duties<br><br>Malta maintains a security policy of neutrality but contributes to EU, Organization for the Security and Cooperation (OSCE), and UN military missions and joined NATO’s Partnership for Peace program in 1995 (suspended in 1996, but reactivated in 2008); it also participates in various bilateral and multinational military exercises; Malta cooperates closely with Italy on defense matters; in 1973, Italy established a military mission in Malta to provide advice, training, and search and rescue assistance (2025)<br>

@@ -74,9 +74,9 @@ the island of Timor is part of the Malay Archipelago and is the largest and east
 ## People and Society
 
 **Population**<br>
-_total_: 1,506,909 (2024 est.)<br>
-_male_: 750,665<br>
-_female_: 756,244<br>
+_total_: 1,404,785 (2025 est.)<br>
+_male_: 693,940<br>
+_female_: 710,845<br>
 
 **Nationality**<br>
 _noun_: Timorese<br>
@@ -98,10 +98,10 @@ _15-64 years_: 56.8% (male 418,493/female 437,727)<br>
 _65 years and over_: 4.5% (2024 est.) (male 32,243/female 35,101)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 63.8 (2024 est.)<br>
-_youth dependency ratio_: 56.1 (2024 est.)<br>
-_elderly dependency ratio_: 7.7 (2024 est.)<br>
-_potential support ratio_: 13 (2024 est.)<br>
+_total dependency ratio_: 62 (2025 est.)<br>
+_youth dependency ratio_: 54.3 (2025 est.)<br>
+_elderly dependency ratio_: 7.7 (2025 est.)<br>
+_potential support ratio_: 12.9 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 23 years (2025 est.)<br>
@@ -551,8 +551,8 @@ _total subscriptions_: 2,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.56 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 110 (2022 est.)<br>
+_total subscriptions_: 1.63 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 116 (2024 est.)<br>
 
 **Broadcast media**<br>
 7 TV stations (3 nationwide satellite coverage;&nbsp;2 terrestrial coverage, mostly in Dili; 2 cable) and 21 radio stations (3 nationwide coverage) (2019)<br>
@@ -610,7 +610,7 @@ approximately 2,000 Defense Forces&nbsp; (2025)<br>
 the military is lightly armed with a limited inventory consisting mostly of donated equipment from countries such as Australia, China, Portugal, South Korea, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women; compulsory service was authorized in 2020 for men and women aged 18-30 for 18 months of service, but the level of implementation is unclear (2023)<br>
+18 years of age for voluntary military service for men and women; according to Timorese law on military service, all citizens 18-30 must contribute to the defense of independence, sovereignty, and territorial integrity of the country and render their contribution through defense and security institutions (2025)<br>
 
 **Military - note**<br>
 the Timor-Leste Defense Force (F-FDTL) has both external defense and internal security roles; it also engages in national development missions, international peacekeeping, and regional security cooperation; the F-FDTL has ties with a variety of partners, including Australia, Brazil, Canada, China, Indonesia, Malaysia, New Zealand, the Philippines, Portugal, the UN, and the US (2025)<br>

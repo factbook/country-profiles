@@ -78,9 +78,9 @@ stretches through six distinct geographic regions; climate varies from tropical 
 ## People and Society
 
 **Population**<br>
-_total_: 8,917,994 (2024 est.)<br>
-_male_: 4,395,271<br>
-_female_: 4,522,723<br>
+_total_: 9,143,439 (2025 est.)<br>
+_male_: 4,488,825<br>
+_female_: 4,654,614<br>
 
 **Nationality**<br>
 _noun_: Togolese (singular and plural)<br>
@@ -102,10 +102,10 @@ _15-64 years_: 57% (male 2,486,142/female 2,597,914)<br>
 _65 years and over_: 4.3% (2024 est.) (male 159,596/female 225,725)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 75.4 (2024 est.)<br>
-_youth dependency ratio_: 67.8 (2024 est.)<br>
-_elderly dependency ratio_: 7.6 (2024 est.)<br>
-_potential support ratio_: 13.2 (2024 est.)<br>
+_total dependency ratio_: 74.7 (2025 est.)<br>
+_youth dependency ratio_: 66.7 (2025 est.)<br>
+_elderly dependency ratio_: 8 (2025 est.)<br>
+_potential support ratio_: 12.6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 20.9 years (2025 est.)<br>
@@ -599,8 +599,8 @@ _total subscriptions_: 67,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.05 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 74 (2022 est.)<br>
+_total subscriptions_: 7.69 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 81 (2024 est.)<br>
 
 **Broadcast media**<br>
 1 state-owned TV station with multiple transmission sites; five private local TV stations; cable TV available; state-owned radio network with two stations; several dozen private radio stations and a few community radio stations; transmissions of multiple international broadcasters available (2019)<br>
@@ -660,8 +660,7 @@ estimated 20,000 active Armed Forces, including Gendarmerie (2025)<br>
 the FAT has a small inventory of mostly obsolescent or older armaments originating from several countries, including Brazil, France, Russia/former Soviet Union, T&uuml;rkiye, the UK, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18 years of age for military service for men and women; 24-month service obligation; no conscription (2023)<br>
-<strong>note:</strong> as of 2022, about 7% of the military's personnel were women<br>
+18-24 years of age for military service for men and women; initial 24-month service obligation; no conscription (2025)<br>
 
 **Military - note**<br>
 the Togolese Armed Forces (FAT) are responsible for both external defense and internal security; the FAT’s primary concerns are border security, terrorism, and maritime security; in recent years, it has boosted operations in the northern border region of the country to secure the frontier and prevent banditry, illicit smuggling, and infiltrations from Jama'at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida-affiliated militant groups based in Mali that also operates in neighboring Burkina Faso; in 2022, the Togolese Government declared a state of emergency in the north following an attack by JNIM fighters on a Togolese military post that killed several soldiers; the Navy and Air Force have increased focus on combating piracy and smuggling in the Gulf of Guinea<br><br>since its creation in 1963, the Togolese military has had a history of involvement in the country’s politics, including assassinations, coups, and a crackdown in 2005 that killed hundreds of civilians; over the past decade, it has made efforts to reform and professionalize, which have included increasing its role in UN peacekeeping activities, participating in multinational exercises, and receiving training from foreign partners, particularly France and the US; in addition, Togo has established a regional peacekeeping training center for military and police in Lome (2025)<br>

@@ -79,9 +79,9 @@ strategic location at head of Persian Gulf<br>
 ## People and Society
 
 **Population**<br>
-_total_: 3,138,355 (2024 est.)<br>
-_male_: 1,810,542<br>
-_female_: 1,327,813<br>
+_total_: 3,172,511 (2025 est.)<br>
+_male_: 1,827,274<br>
+_female_: 1,345,237<br>
 
 **Nationality**<br>
 _noun_: Kuwaiti(s)<br>
@@ -104,10 +104,10 @@ _15-64 years_: 73.4% (male 1,386,349/female 917,465)<br>
 _65 years and over_: 3.6% (2024 est.) (male 47,778/female 64,158)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 36.2 (2024 est.)<br>
-_youth dependency ratio_: 31.4 (2024 est.)<br>
-_elderly dependency ratio_: 4.9 (2024 est.)<br>
-_potential support ratio_: 20.6 (2024 est.)<br>
+_total dependency ratio_: 36 (2025 est.)<br>
+_youth dependency ratio_: 30.9 (2025 est.)<br>
+_elderly dependency ratio_: 5.1 (2025 est.)<br>
+_potential support ratio_: 19.7 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 30.4 years (2025 est.)<br>
@@ -548,7 +548,7 @@ _subscriptions per 100 inhabitants_: 12 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 8.11 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 181 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 168 (2023 est.)<br>
 
 **Broadcast media**<br>
 state-owned TV broadcaster operates 4 networks and a satellite channel; several private TV broadcasters; satellite TV available, and pan-Arab TV stations are especially popular; state-owned Radio Kuwait broadcasts on a number of channels in Arabic and English; first private radio station in 2005; transmissions of at least 2 international radio broadcasters are available (2019)<br>

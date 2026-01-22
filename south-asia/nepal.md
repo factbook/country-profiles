@@ -79,9 +79,9 @@ landlocked; strategic location between China and India; contains eight of world'
 ## People and Society
 
 **Population**<br>
-_total_: 31,122,387 (2024 est.)<br>
-_male_: 15,240,643<br>
-_female_: 15,881,744<br>
+_total_: 31,334,402 (2025 est.)<br>
+_male_: 15,352,706<br>
+_female_: 15,981,696<br>
 
 **Nationality**<br>
 _noun_: Nepali (singular and plural)<br>
@@ -105,10 +105,10 @@ _15-64 years_: 67.8% (male 10,153,682/female 10,957,011)<br>
 _65 years and over_: 6.4% (2024 est.) (male 961,717/female 1,015,598)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 47.4 (2024 est.)<br>
-_youth dependency ratio_: 38.1 (2024 est.)<br>
-_elderly dependency ratio_: 9.4 (2024 est.)<br>
-_potential support ratio_: 10.7 (2024 est.)<br>
+_total dependency ratio_: 46.8 (2025 est.)<br>
+_youth dependency ratio_: 37.2 (2025 est.)<br>
+_elderly dependency ratio_: 9.6 (2025 est.)<br>
+_potential support ratio_: 10.4 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 28.1 years (2025 est.)<br>
@@ -319,12 +319,13 @@ _residency requirement for naturalization_: 15 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Ram Chandra POUDEL (since 13 March 2023)<br>
-_head of government_: Prime Minister Sushila KARKI; note - KARKI was sworn in as interim prime minister on 12 September 2025 after Khadga Prasad Sharma OLI resigned on 9 September following violent protests; KARKI will serve until elections are held in March 2026<br>
+_head of government_: Prime Minister Sushila KARKI (since 12 September 2025)<br>
 _cabinet_: Council of Ministers appointed by the prime minister; cabinet positions shared among Nepali Congress, Communist Party of Nepal-Maoist Centre, and various coalition partners<br>
 _election/appointment process_: president indirectly elected by an electoral college of the Federal Parliament and the state assemblies for a 5-year term (eligible for a second term)<br>
 _most recent election date_: 9 March 2023<br>
 _election results_: <em><br>2023:</em> Ram Chandra POUDEL elected president; electoral college vote - Ram Chandra POUDEL (NC) 33,802, Subash Chandra NEMBANG (CPN-UML) 15,518<br>
 _expected date of next election_: 5 March 2026<br>
+<strong>note:</strong> KARKI was sworn in as interim prime minister on 12 September 2025 after Khadga Prasad Sharma OLI resigned on 9 September following violent protests; KARKI will serve until elections are held in March 2026<br>
 
 **Legislative branch**<br>
 _legislature name_: Federal Parliament (Sanghiya Sansad)<br>
@@ -340,7 +341,8 @@ _term in office_: 5 years<br>
 _most recent election date_: 11/20/2022<br>
 _parties elected and seats per party_: Nepali Congress (NC) (89); Communist Party of Nepal (Unified Marxist-Leninist, UML) (78); Communist Party of Nepal-Maoist Centre (CPN-MC) (32); Rastriya Swatantra Party (20); Rastriya Prajatantra Party Nepal (RPP) (14); People's Socialist Party, Nepal (12); Communist Party of Nepal (Unified Socialist) (10); Janamat Party (6); Democratic Socialist Party, Nepal (4); People's Freedom Party (3); Nepal Workers Peasants Party (1); Rastriya Janamorcha (1); Independents (5)<br>
 _percentage of women in chamber_: 0%<br>
-_expected date of next election_: 5 March 2026; note - Parliament was dissolved by the President on 12 September following violent protests, the resignation of the Prime Minister, and the appointment of an interim prime minister with new elections set for March 2026<br>
+_expected date of next election_: 5 March 2026<br>
+<strong>note:</strong> Parliament was dissolved by the President on 12 September following violent protests, the resignation of the Prime Minister, and the appointment of an interim prime minister with new elections set for March 2026<br>
 
 **Legislative branch - upper chamber**<br>
 _chamber name_: National Assembly (Rastriya Sabha)<br>
@@ -602,8 +604,8 @@ _total subscriptions_: 726,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 38.2 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 127 (2021 est.)<br>
+_total subscriptions_: 29.6 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 100 (2024 est.)<br>
 
 **Broadcast media**<br>
 state operates 3 TV stations, as well as national and regional radio stations; 117 television channels are licensed, 71 of which are cable TV, 3 are distributed through Direct-To-Home (DTH) system, and 4 are digital terrestrial; 736 FM radio stations are licensed, and at least 314 of those are community stations (2019)<br>

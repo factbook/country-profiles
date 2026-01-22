@@ -86,9 +86,9 @@ landlocked; one of the hottest countries in the world; northern four-fifths is d
 ## People and Society
 
 **Population**<br>
-_total_: 26,342,784 (2024 est.)<br>
-_male_: 13,056,203<br>
-_female_: 13,286,581<br>
+_total_: 27,322,555 (2025 est.)<br>
+_male_: 13,542,629<br>
+_female_: 13,779,926<br>
 
 **Nationality**<br>
 _noun_: Nigerien(s)<br>
@@ -110,10 +110,10 @@ _15-64 years_: 47.8% (male 6,146,355/female 6,451,574)<br>
 _65 years and over_: 2.7% (2024 est.) (male 342,388/female 371,130)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 109.1 (2024 est.)<br>
-_youth dependency ratio_: 103.4 (2024 est.)<br>
-_elderly dependency ratio_: 5.7 (2024 est.)<br>
-_potential support ratio_: 17.7 (2024 est.)<br>
+_total dependency ratio_: 108.2 (2025 est.)<br>
+_youth dependency ratio_: 102.6 (2025 est.)<br>
+_elderly dependency ratio_: 5.7 (2025 est.)<br>
+_potential support ratio_: 17.7 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 15.3 years (2025 est.)<br>
@@ -334,8 +334,8 @@ _cabinet_: Cabinet appointed by the CNSP<br>
 _election/appointment process_: the CNSP rules by decree; previously, the president was directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); prime minister was appointed by the president, authorized by the National Assembly<br>
 _most recent election date_: 27 December 2020, with a runoff held on 21 February 2021<br>
 _election results_: <em><br>2020/2021</em>: Mohamed BAZOUM elected president in second round; percent of vote in first round - Mohamed BAZOUM (PNDS-Tarrayya) 39.3%, Mahamane OUSMANE (MODEN/FA Lumana Africa) 17%, Seini OUMAROU (MNSD-Nassara) 9%, Albade ABOUDA (MPR-Jamhuriya) 7.1%, other 27.6%; percent of vote in second round - Mohamed BAZOUM 55.7%, Mahamane OUSMANE 44.3%<br>
-_expected date of next election_: 2025<br>
-<strong>note:</strong> deposed president Mohamed BAZOUM has been under house arrest since a military coup on 26 July 2023<br>
+_expected date of next election_: 2030<br>
+<strong>note 1:</strong> deposed president Mohamed BAZOUM has been under house arrest since a military coup on 26 July 2023<br><br><strong>note 2:</strong> on 26 March 2025, the CNSP leader TIANI issued a decree promulgating the Charter of the Refoundation and was sworn in as the country’s president for a transition period of five years<br>
 
 **Legislative branch**<br>
 _legislature name_: Advisory Council for the Refoundation (Conseil consultatif de la refondation)<br>
@@ -346,7 +346,7 @@ _scope of elections_: full renewal<br>
 _most recent election date_: 5/1/2025<br>
 _percentage of women in chamber_: 19.6%<br>
 _expected date of next election_: April 2030<br>
-<strong>Note 1:</strong> on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the National Assembly; a commission recommended to the junta in February 2025 a minimum of a five-year transition to democratic rule<br><br><strong>Note 2:</strong> In May 2025, Transitional President Tchiani signed decrees nominating 194 members of the Advisory Council for the Refoundation (Conseil consultatif de la refondation or CCR), CCR Bureau members, and the Speaker, Mamoudou Harouna Djingarey; the first session of the CCR convened on 28 June 2025<br>
+<strong>note 1:</strong> on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the National Assembly; a commission recommended to the junta in February 2025 a minimum of a five-year transition to democratic rule<br><br><strong>note 2:</strong> In May 2025, Transitional President Tiani signed decrees nominating 194 members of the Advisory Council for the Refoundation (Conseil consultatif de la refondation or CCR), CCR Bureau members, and the Speaker, Mamoudou Harouna Djingarey; the first session of the CCR convened on 28 June 2025<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court of Justice (consists of 7 members); Supreme Court (membership NA); Constitutional Court (consists of 7 judges)<br>
@@ -590,8 +590,8 @@ _total subscriptions_: 58,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 14.2 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 56 (2021 est.)<br>
+_total subscriptions_: 17.2 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 66 (2023 est.)<br>
 
 **Broadcast media**<br>
 state-run TV station; 3 private TV stations provide a mix of local and foreign programming; state-run radio has the only radio station with national coverage; about 30 private local radio stations; as many as 100 community radio stations; transmissions of multiple international broadcasters are available<br>

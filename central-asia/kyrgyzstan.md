@@ -82,9 +82,9 @@ landlocked; entirely mountainous, dominated by the Tien Shan range; 94% of the c
 ## People and Society
 
 **Population**<br>
-_total_: 6,172,101 (2024 est.)<br>
-_male_: 3,021,318<br>
-_female_: 3,150,783<br>
+_total_: 6,219,751 (2025 est.)<br>
+_male_: 3,043,940<br>
+_female_: 3,175,811<br>
 
 **Nationality**<br>
 _noun_: Kyrgyzstani(s)<br>
@@ -106,10 +106,10 @@ _15-64 years_: 64% (male 1,935,200/female 2,013,733)<br>
 _65 years and over_: 6.9% (2024 est.) (male 164,032/female 263,805)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 56.3 (2024 est.)<br>
-_youth dependency ratio_: 45.5 (2024 est.)<br>
-_elderly dependency ratio_: 10.8 (2024 est.)<br>
-_potential support ratio_: 9.2 (2024 est.)<br>
+_total dependency ratio_: 56 (2025 est.)<br>
+_youth dependency ratio_: 44.6 (2025 est.)<br>
+_elderly dependency ratio_: 11.4 (2025 est.)<br>
+_potential support ratio_: 8.8 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 28.6 years (2025 est.)<br>
@@ -593,8 +593,8 @@ _total subscriptions_: 185,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.68 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 130 (2021 est.)<br>
+_total subscriptions_: 7.72 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 107 (2024 est.)<br>
 
 **Broadcast media**<br>
 state-funded public TV broadcaster NTRK operates Ala-Too 24 news channel and 4 other educational, cultural, and sports channels; ELTR is a state-owned TV station; the switchover to digital TV in 2017 resulted in private TV station growth; approximately 20 TV stations are struggling to increase Kyrgyz-language content to 60% of airtime, as required by law, instead of rebroadcasting programs from Russian channels or airing unlicensed movies and music; several Russian TV stations also broadcast; state-funded radio stations and about 10 significant private radio stations&nbsp; (2023)<br>

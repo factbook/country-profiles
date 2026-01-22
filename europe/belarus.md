@@ -79,9 +79,9 @@ landlocked; glacial scouring accounts for the flatness of Belarusian terrain and
 ## People and Society
 
 **Population**<br>
-_total_: 9,501,451 (2024 est.)<br>
-_male_: 4,433,839<br>
-_female_: 5,067,612<br>
+_total_: 9,460,972 (2025 est.)<br>
+_male_: 4,414,771<br>
+_female_: 5,046,201<br>
 
 **Nationality**<br>
 _noun_: Belarusian(s)<br>
@@ -103,10 +103,10 @@ _15-64 years_: 66.1% (male 3,073,507/female 3,204,088)<br>
 _65 years and over_: 17.8% (2024 est.) (male 572,483/female 1,122,231)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 51.4 (2024 est.)<br>
-_youth dependency ratio_: 24.4 (2024 est.)<br>
-_elderly dependency ratio_: 27 (2024 est.)<br>
-_potential support ratio_: 3.7 (2024 est.)<br>
+_total dependency ratio_: 52 (2025 est.)<br>
+_youth dependency ratio_: 24.1 (2025 est.)<br>
+_elderly dependency ratio_: 27.9 (2025 est.)<br>
+_potential support ratio_: 3.6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 42.5 years (2025 est.)<br>
@@ -610,11 +610,11 @@ _Total energy consumption per capita 2023_: 104.821 million Btu/person (2023 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4.173 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 46 (2023 est.)<br>
+_total subscriptions_: 4.14 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 46 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,757,300 (2023 est.)<br>
+_total subscriptions_: 11.9 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 131 (2024 est.)<br>
 
 **Broadcast media**<br>

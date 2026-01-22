@@ -75,9 +75,9 @@ strategic location along Strait of Malacca and southern South China Sea<br>
 ## People and Society
 
 **Population**<br>
-_total_: 34,564,810 (2024 est.)<br>
-_male_: 17,666,212<br>
-_female_: 16,898,598<br>
+_total_: 34,905,275 (2025 est.)<br>
+_male_: 17,833,074<br>
+_female_: 17,072,201<br>
 
 **Nationality**<br>
 _noun_: Malaysian(s)<br>
@@ -100,10 +100,10 @@ _15-64 years_: 69.4% (male 12,308,938/female 11,666,947)<br>
 _65 years and over_: 8.4% (2024 est.) (male 1,409,360/female 1,501,332)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 44.2 (2024 est.)<br>
-_youth dependency ratio_: 32 (2024 est.)<br>
-_elderly dependency ratio_: 12.1 (2024 est.)<br>
-_potential support ratio_: 8.2 (2024 est.)<br>
+_total dependency ratio_: 44.3 (2025 est.)<br>
+_youth dependency ratio_: 31.7 (2025 est.)<br>
+_elderly dependency ratio_: 12.6 (2025 est.)<br>
+_potential support ratio_: 7.9 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 32.2 years (2025 est.)<br>
@@ -602,8 +602,8 @@ _total subscriptions_: 8.402 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 24 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 50.1 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 141 (2022 est.)<br>
+_total subscriptions_: 49.7 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 140 (2024 est.)<br>
 
 **Broadcast media**<br>
 state-owned TV broadcaster operates 2 TV networks with relays; the leading private commercial media group operates 4 TV stations with numerous relays; satellite TV subscription service is available; state-owned radio broadcaster operates multiple national networks, as well as regional and local stations; many private commercial radio broadcasters and some subscription satellite radio services are available; about 55 radio stations overall (2019)<br>

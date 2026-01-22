@@ -76,9 +76,9 @@ Pitch Lake, on Trinidad's southwestern coast, is the world's largest natural res
 ## People and Society
 
 **Population**<br>
-_total_: 1,408,966 (2024 est.)<br>
-_male_: 708,260<br>
-_female_: 700,706<br>
+_total_: 1,410,170 (2025 est.)<br>
+_male_: 708,677<br>
+_female_: 701,493<br>
 
 **Nationality**<br>
 _noun_: Trinidadian(s), Tobagonian(s)<br>
@@ -100,10 +100,10 @@ _15-64 years_: 67.2% (male 481,606/female 465,150)<br>
 _65 years and over_: 14.1% (2024 est.) (male 92,146/female 106,376)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 48.8 (2024 est.)<br>
-_youth dependency ratio_: 27.9 (2024 est.)<br>
-_elderly dependency ratio_: 21 (2024 est.)<br>
-_potential support ratio_: 4.8 (2024 est.)<br>
+_total dependency ratio_: 49.3 (2025 est.)<br>
+_youth dependency ratio_: 27.5 (2025 est.)<br>
+_elderly dependency ratio_: 21.9 (2025 est.)<br>
+_potential support ratio_: 4.6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 39.1 years (2025 est.)<br>
@@ -550,8 +550,8 @@ _total subscriptions_: 311,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 21 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2.02 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 131 (2022 est.)<br>
+_total subscriptions_: 1.79 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 119 (2024 est.)<br>
 
 **Broadcast media**<br>
 6 free-to-air TV networks, 2 of which are state-owned; 24 subscription providers (cable and satellite); over 36 radio frequencies (2019)<br>
@@ -590,8 +590,8 @@ _key ports_: Galeota Point Terminal, Point Lisas Industrial Port, Point Lisas Po
 ## Military and Security
 
 **Military and security forces**<br>
-Trinidad and Tobago Defense Force (TTDF): Trinidad and Tobago Regiment (Army/Land Forces), Trinidad and Tobago Coast Guard, Trinidad and Tobago Air Guard, Trinidad and Tobago Defense Force Reserves<br><br>Trinidad and Tobago Police Service (TTPS) (2025)<br>
-<strong>note:</strong> the Ministry of National Security oversees both the TTDF and the TTPS<br>
+Trinidad and Tobago Defense Force (TTDF): Trinidad and Tobago Regiment (Army/Land Forces), Trinidad and Tobago Coast Guard, Trinidad and Tobago Air Guard, Defense Force Reserves (2026)<br>
+<strong>note:</strong> the Ministry of Homeland Security oversees both the TTDF and the Trinidad and Tobago Police Service (TTPS)<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2024 est.)<br>
@@ -607,7 +607,7 @@ approximately 5,000 Defense Forces (2025)<br>
 the TTDF's ground force inventory consists of light weapons, while the Coast Guard and Air Guard field mostly secondhand equipment from several countries, including Australia, China, Italy, the Netherlands, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service for men and women (some age variations between services, reserves); no conscription (2024)<br>
+generally 18-24 years of age for voluntary military service for men and women; no conscription (2025)<br>
 
 **Military - note**<br>
 the primary responsibilities of the Trinidad and Tobago Defense Force (TTDF) are conducting border and maritime security, assisting civil authorities in times of crisis or disaster, providing search and rescue services, securing ports, and supporting civil law enforcement, particularly in countering gang-related crime and trafficking of narcotics and other illicit goods; the Police Service maintains internal security (2025)<br>

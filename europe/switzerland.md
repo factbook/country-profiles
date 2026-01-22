@@ -82,9 +82,9 @@ landlocked; crossroads of northern and southern Europe; along with southeastern 
 ## People and Society
 
 **Population**<br>
-_total_: 8,860,574 (2024 est.)<br>
-_male_: 4,403,105<br>
-_female_: 4,457,469<br>
+_total_: 8,925,741 (2025 est.)<br>
+_male_: 4,436,858<br>
+_female_: 4,488,883<br>
 
 **Nationality**<br>
 _noun_: Swiss (singular and plural)<br>
@@ -108,10 +108,10 @@ _15-64 years_: 64.6% (male 2,887,767/female 2,834,842)<br>
 _65 years and over_: 20.3% (2024 est.) (male 830,117/female 971,825)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 54.8 (2024 est.)<br>
-_youth dependency ratio_: 23.3 (2024 est.)<br>
-_elderly dependency ratio_: 31.5 (2024 est.)<br>
-_potential support ratio_: 3.2 (2024 est.)<br>
+_total dependency ratio_: 55.8 (2025 est.)<br>
+_youth dependency ratio_: 23.5 (2025 est.)<br>
+_elderly dependency ratio_: 32.3 (2025 est.)<br>
+_potential support ratio_: 3.1 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 44.4 years (2025 est.)<br>
@@ -609,8 +609,8 @@ _total subscriptions_: 3.003 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 34 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10.9 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 120 (2022 est.)<br>
+_total subscriptions_: 11.6 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 129 (2024 est.)<br>
 
 **Broadcast media**<br>
 publicly owned Swiss Broadcasting Corporation (SRG/SSR) has 8 national TV networks, 3 broadcasting in German, 3 in French, and 2 in Italian; private commercial TV stations broadcast regionally and locally; German, Italian, and French TV broadcasts widely available via multi-channel cable and satellite TV; SRG/SSR has 17 radio stations (2019)<br>
@@ -664,8 +664,8 @@ approximately 145,000 Swiss Armed Forces (2024)<br>
 the military's inventory includes a mix of domestically produced and imported European and US weapons systems; the Swiss defense industry produces a range of military land vehicles (2025)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for compulsory military service for men; 18 years of age for voluntary military service for men and women; every Swiss male has to serve at least 245 days in the armed forces; conscripts receive 18 weeks of mandatory training, followed by six 19-day intermittent recalls for training during the next 10 years (2024)<br>
-<strong>note: </strong>conscientious objectors can choose 390 days of community service instead of military service; as of 2023, women comprised about 1% of the active Swiss military<br>
+every Swiss man 18-30 is obligated to serve in the military or the alternative civilian service; women can serve on a voluntary basis; required military service is 245 days, including 18-21 weeks of basic training generally between the ages of 19-25, followed by six three-week recalls for refresher training over the following nine years; the system offers opportunities for conscripts to train as non-commissioned and commissioned officers in the militia with longer service commitments (2026)<br>
+<strong>note: </strong>alternative civilian service is up to 370 days or 1.5x as many days as military service<br>
 
 **Military deployments**<br>
 200 Kosovo (NATO/KFOR) (2025)<br>

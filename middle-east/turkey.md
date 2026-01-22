@@ -85,9 +85,9 @@ strategic location controlling the Turkish Straits (Bosporus, Sea of Marmara, Da
 ## People and Society
 
 **Population**<br>
-_total_: 84,119,531 (2024 est.)<br>
-_male_: 42,247,430<br>
-_female_: 41,872,101<br>
+_total_: 84,625,585 (2025 est.)<br>
+_male_: 42,489,277<br>
+_female_: 42,136,308<br>
 
 **Nationality**<br>
 _noun_: Turk(s)<br>
@@ -109,10 +109,10 @@ _15-64 years_: 68.6% (male 29,219,389/female 28,494,315)<br>
 _65 years and over_: 9.6% (2024 est.) (male 3,669,330/female 4,444,113)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 45.8 (2024 est.)<br>
-_youth dependency ratio_: 31.7 (2024 est.)<br>
-_elderly dependency ratio_: 14.1 (2024 est.)<br>
-_potential support ratio_: 7.1 (2024 est.)<br>
+_total dependency ratio_: 45.7 (2025 est.)<br>
+_youth dependency ratio_: 31.2 (2025 est.)<br>
+_elderly dependency ratio_: 14.6 (2025 est.)<br>
+_potential support ratio_: 6.9 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 34.4 years (2025 est.)<br>
@@ -615,8 +615,8 @@ _total subscriptions_: 9.926 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 11 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 92.2 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 106 (2022 est.)<br>
+_total subscriptions_: 94.3 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 108 (2024 est.)<br>
 
 **Broadcast media**<br>
 Turkish Radio and Television Corporation (TRT) operates multiple TV and radio networks and stations; multiple privately owned national TV stations and 567 private regional and local TV stations; multi-channel cable TV available; 1,007 private radio stations (2019)<br>
@@ -679,11 +679,11 @@ approximately 495,000 active military personnel; approximately 150,000 Gendarmer
 the military's inventory is comprised of domestically produced and mostly European (such as Germany, Italy, and Spain) or US armaments; other suppliers have included Russia and South Korea; T&uuml;rkiye's defense industry produces a range of weapons systems for both export and internal use, including armored vehicles, naval vessels, and unmanned aerial vehicles/drones; some of its domestically produced armaments are produced jointly with foreign partners or based on imported weapons systems and produced under license (2025)<br>
 
 **Military service age and obligation**<br>
-mandatory military service for men at age 20; service can be delayed if in university or in certain professions (researchers, professionals, and athletic, or those with artistic talents have the right to postpone military service until the age of 35); 6-12 months service; women may volunteer (2023)<br>
-<strong>note 1:</strong> after completing six months of service, if a conscripted soldier wants to and is suitable for extending his military service, he may do so for an additional six months in return for a monthly salary; all male Turkish citizens over the age of 20 are required to undergo a one month military training period, but they can obtain an exemption from the remaining 5 months of their mandatory service by paying a fee <br><strong><br>note 2:</strong> as of 2021, women made up about 0.4% of the military's full-time personnel<br>
+military service is compulsory for Turkish men 20-41 for a period of 6-12 months; men and women may volunteer (2025)<br>
+<strong>note:</strong> after completing 1 month of basic training, conscripts have the option to opt out of the last 5 months by paying a fee<strong><br><br></strong><br>
 
 **Military deployments**<br>
-approximately 200 Azerbaijan; approximately 250 Bosnia-Herzegovina (EUFOR); approximately 30,000 Cyprus; 730 Kosovo (NATO/KFOR); estimated 500 Libya; estimated 3,000 Qatar; estimated 1,000 Somalia (2025)<br>
+approximately 250 Bosnia-Herzegovina (EUFOR); approximately 30,000 Cyprus; 730 Kosovo (NATO/KFOR); Turkiye also has several thousand military personnel deployed to other countries under bilateral agreements, including Azerbaijan, Libya, Qatar, and Somalia  (2025)<br>
 <strong>note:</strong> Turkey estimated to maintain several thousand military forces in both Iraq and Syria<br>
 
 **Military - note**<br>

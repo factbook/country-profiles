@@ -107,6 +107,8 @@ _imports_: 108,000 metric tons (2023 est.)<br>
 **Petroleum**<br>
 _refined petroleum consumption_: 2,000 bbl/day (2023 est.)<br>
 
+## Communications
+
 ## Transportation
 
 **Airports**<br>

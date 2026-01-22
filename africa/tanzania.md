@@ -86,9 +86,9 @@ Kilimanjaro is the highest point in Africa and one of only three mountain ranges
 ## People and Society
 
 **Population**<br>
-_total_: 67,462,121 (2024 est.)<br>
-_male_: 33,691,904<br>
-_female_: 33,770,217<br>
+_total_: 69,145,464 (2025 est.)<br>
+_male_: 34,597,449<br>
+_female_: 34,548,015<br>
 
 **Nationality**<br>
 _noun_: Tanzanian(s)<br>
@@ -111,10 +111,10 @@ _15-64 years_: 55.4% (male 18,677,388/female 18,708,390)<br>
 _65 years and over_: 3.4% (2024 est.) (male 975,224/female 1,321,388)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 82.5 (2024 est.)<br>
-_youth dependency ratio_: 76.8 (2024 est.)<br>
-_elderly dependency ratio_: 5.7 (2024 est.)<br>
-_potential support ratio_: 17.5 (2024 est.)<br>
+_total dependency ratio_: 81.8 (2025 est.)<br>
+_youth dependency ratio_: 76 (2025 est.)<br>
+_elderly dependency ratio_: 5.8 (2025 est.)<br>
+_potential support ratio_: 17.3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 18.8 years (2025 est.)<br>
@@ -614,8 +614,8 @@ _total subscriptions_: 76,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 70.2 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 92 (2022 est.)<br>
+_total subscriptions_: 86.8 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 127 (2024 est.)<br>
 
 **Broadcast media**<br>
 about 45 TV stations, with 13 national that broadcast free-to-air TV; 196 radio stations, most operating at the district level, but also including 5 independent national stations and 1 state-owned national radio station; international broadcasts widely available through satellite TV; 3 major satellite TV providers (2020)<br>
@@ -677,7 +677,7 @@ approximately 25,000 active Defense Forces (2025)<br>
 the TPDF's inventory includes mostly British, Chinese, and Russian/Soviet-era armaments (2025)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service for men and women; 6-year commitment (2-year contracts afterwards); selective conscription for 2 years of public service (2025)<br>
+generally 18-25 years of age for voluntary military service for men and women, but may go up to 35 years of age depending on education levels and for medical specialists; no conscription (2026)<br>
 
 **Military deployments**<br>
 520 Central African Republic (MINUSCA); more than 1,000 Democratic Republic of the Congo (MONUSCO and Southern African Development Community regional force); 125 Lebanon (UNIFIL); approximately 300 Mozambique (under bi-lateral agreement to assist with combatting an insurgency) (2025)<br>

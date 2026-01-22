@@ -75,9 +75,9 @@ along with Uzbekistan, one of only two doubly landlocked countries in the world;
 ## People and Society
 
 **Population**<br>
-_total_: 40,272 (2024 est.)<br>
-_male_: 20,072<br>
-_female_: 20,200<br>
+_total_: 40,547 (2025 est.)<br>
+_male_: 20,215<br>
+_female_: 20,332<br>
 
 **Nationality**<br>
 _noun_: Liechtensteiner(s)<br>
@@ -100,10 +100,10 @@ _15-64 years_: 63.9% (male 12,814/female 12,921)<br>
 _65 years and over_: 20.8% (2024 est.) (male 3,846/female 4,547)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 56.5 (2024 est.)<br>
-_youth dependency ratio_: 23.9 (2024 est.)<br>
-_elderly dependency ratio_: 32.6 (2024 est.)<br>
-_potential support ratio_: 3.1 (2024 est.)<br>
+_total dependency ratio_: 57.6 (2025 est.)<br>
+_youth dependency ratio_: 23.9 (2025 est.)<br>
+_elderly dependency ratio_: 33.6 (2025 est.)<br>
+_potential support ratio_: 3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 44.4 years (2025 est.)<br>
@@ -388,8 +388,8 @@ _total subscriptions_: 10,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 26 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 50,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 126 (2022 est.)<br>
+_total subscriptions_: 51,400 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 129 (2024 est.)<br>
 
 **Broadcast media**<br>
 relies on foreign terrestrial and satellite broadcasters for most broadcast media services; first Liechtenstein-based TV station established in 2008; Radio Liechtenstein operates multiple radio stations; a Swiss-based broadcaster operates one radio station<br>

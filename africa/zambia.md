@@ -86,9 +86,9 @@ landlocked; the Zambezi forms a natural river boundary with Zimbabwe; Lake Karib
 ## People and Society
 
 **Population**<br>
-_total_: 20,799,116 (2024 est.)<br>
-_male_: 10,407,253<br>
-_female_: 10,391,863<br>
+_total_: 22,021,971 (2025 est.)<br>
+_male_: 11,066,079<br>
+_female_: 10,955,892<br>
 
 **Nationality**<br>
 _noun_: Zambian(s)<br>
@@ -110,10 +110,10 @@ _15-64 years_: 55.1% (male 5,726,265/female 5,736,732)<br>
 _65 years and over_: 2.8% (2024 est.) (male 262,008/female 317,944)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 81.4 (2024 est.)<br>
-_youth dependency ratio_: 76.4 (2024 est.)<br>
-_elderly dependency ratio_: 5.1 (2024 est.)<br>
-_potential support ratio_: 19.8 (2024 est.)<br>
+_total dependency ratio_: 75.8 (2025 est.)<br>
+_youth dependency ratio_: 71.3 (2025 est.)<br>
+_elderly dependency ratio_: 4.5 (2025 est.)<br>
+_potential support ratio_: 22.3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 19 years (2025 est.)<br>
@@ -583,8 +583,8 @@ _total subscriptions_: 81,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21.2 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 99 (2022 est.)<br>
+_total subscriptions_: 23.2 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 109 (2024 est.)<br>
 
 **Broadcast media**<br>
 47 state-controlled and private TV stations; state-owned Zambia National Broadcasting Corporation (ZNBC) has 2 TV channels, controls 1, and owns shares in 2 more; 137 radio stations, with 133 private and 4 state-owned (2019)<br>

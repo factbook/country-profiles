@@ -79,9 +79,9 @@ landlocked; highest point, Qullai Ismoili Somoni (formerly Communism Peak), was 
 ## People and Society
 
 **Population**<br>
-_total_: 10,394,063 (2024 est.)<br>
-_male_: 5,221,818<br>
-_female_: 5,172,245<br>
+_total_: 10,593,876 (2025 est.)<br>
+_male_: 5,322,920<br>
+_female_: 5,270,956<br>
 
 **Nationality**<br>
 _noun_: Tajikistani(s)<br>
@@ -104,10 +104,10 @@ _15-64 years_: 59.3% (male 3,086,964/female 3,071,642)<br>
 _65 years and over_: 3.9% (2024 est.) (male 181,382/female 223,411)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 68.8 (2024 est.)<br>
-_youth dependency ratio_: 62.2 (2024 est.)<br>
-_elderly dependency ratio_: 6.6 (2024 est.)<br>
-_potential support ratio_: 15.2 (2024 est.)<br>
+_total dependency ratio_: 68.5 (2025 est.)<br>
+_youth dependency ratio_: 61.5 (2025 est.)<br>
+_elderly dependency ratio_: 6.9 (2025 est.)<br>
+_potential support ratio_: 14.5 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 22.8 years (2025 est.)<br>
@@ -597,8 +597,8 @@ _total subscriptions_: 502,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 5 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11.6 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 119 (2021 est.)<br>
+_total subscriptions_: 7.92 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 119 (2023 est.)<br>
 
 **Broadcast media**<br>
 state-run broadcaster has 9 national TV and 10 radio stations, and 4 regional stations; 31 independent TV and 20 independent radio stations broadcast locally and regionally; Russian and other foreign stations available via cable and satellite (2016)<br>
@@ -631,7 +631,7 @@ _broad gauge_: 680 km (2014) 1.520-m gauge<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Tajikistan: Ground Forces, Mobile Forces, Air and Air Defense Forces<br><br>Tajik National Guard (TNG); Ministry of Internal Affairs: Internal Troops of Tajikistan; State Committee on National Security: Border Troops (aka Border Service) (2025)<br>
+Armed Forces of the Republic of Tajikistan: Ground Forces, Mobile Forces, Air and Air Defense Forces<br><br>Tajik National Guard (TNG); Ministry of Internal Affairs: Internal Troops of Tajikistan; State Committee on National Security: Border Troops (aka Tajik Border Service) (2025)<br>
 <strong>note 1: </strong>the Mobile Forces are the airborne, air assault, mountain, and rapid reaction troops of the Armed Forces<br><br><strong>note 2:</strong> the Tajik National Guard, formerly the Presidential Guard, is a paramilitary force under direct authority of the President; it is tasked with ensuring public safety and security, similar to the tasks of the Internal Troops; it also has ceremonial duties<br>
 
 **Military expenditures**<br>
@@ -648,11 +648,11 @@ estimated 10,000 active Armed Forces; estimated 5-10,000 active paramilitary Nat
 the military is equipped with mostly older Russian and Soviet-era armaments; it also has smaller amounts of items from suppliers such as China, T&uuml;rkiye, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory (men only) or voluntary (men and women) military service; 24-month conscript service obligation or 12 months for those with a higher education (2024)<br>
-<strong>note:</strong> in August 2021, the Tajik Government removed an exemption for university graduates but began allowing men to pay a fee in order to avoid conscription, although there is a cap on the number of individuals who can take advantage of this exemption<br>
+18-27 years of age for compulsory (men only) or voluntary (men and women) military service; up to a 24-month service obligation for conscripts based on education level (2025)<br>
+<strong>note 1:</strong> in addition to the Armed Forces, conscripts are assigned to Tajikistan's other security agencies <br><br><strong>note 2:</strong> those called up to perform military service can participate in just one month of military training instead of fulfilling the full service obligation for a fee of about the equivalent of $2,200 USD<br>
 
 **Military - note**<br>
-the military's primary concerns are terrorism, border security, territorial defense, and regional security, particularly in neighboring Afghanistan; Russia is traditionally Tajikistan’s most important security partner and thousands of Russian troops are stationed in the country, primarily at the 201st military base, which is leased until at least 2042; Russia and Tajikistan have a joint air defense system and they conduct periodic joint exercises; Tajikistan has been a member of the Russian-led Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force; Tajikistan also cooperates on security matters with China, including joint military training<br><br>Tajikistan is the only former Soviet republic that did not form its armed forces from old Soviet Army units following the collapse of the USSR in 1991; rather, Russia retained command of the Soviet units there while the Tajik government raised a military from scratch; the first ground forces were officially created in 1993 from groups that fought for the government during the Tajik Civil War (2025)<br>
+the military's primary concerns are terrorism, border security, territorial defense, and regional security, particularly in neighboring Afghanistan; Russia is traditionally Tajikistan’s most important security partner and thousands of Russian troops are stationed in the country, primarily at the 201st military base, which Moscow has leased until at least 2042; Russia and Tajikistan have a joint air defense system, and they conduct periodic joint exercises; Tajikistan has been a member of the Russian-led Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force; Tajikistan also cooperates on security matters with China, including joint military training<br><br>Tajikistan is the only former Soviet republic that did not form its armed forces from old Soviet Army units following the collapse of the USSR in 1991; rather, Russia retained command of the Soviet units there while the Tajik government raised a military from scratch; the first ground forces were officially created in 1993 from groups that fought for the government during the Tajik Civil War (2025)<br>
 
 ## Terrorism
 

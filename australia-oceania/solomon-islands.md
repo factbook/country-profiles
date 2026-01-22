@@ -74,9 +74,9 @@ strategic location on sea routes between the South Pacific Ocean, the Solomon Se
 ## People and Society
 
 **Population**<br>
-_total_: 726,799 (2024 est.)<br>
-_male_: 370,970<br>
-_female_: 355,829<br>
+_total_: 738,774 (2025 est.)<br>
+_male_: 377,067<br>
+_female_: 361,707<br>
 
 **Nationality**<br>
 _noun_: Solomon Islander(s)<br>
@@ -97,10 +97,10 @@ _15-64 years_: 64.2% (male 238,708/female 227,636)<br>
 _65 years and over_: 5.3% (2024 est.) (male 18,016/female 20,173)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.9 (2024 est.)<br>
-_youth dependency ratio_: 47.7 (2024 est.)<br>
-_elderly dependency ratio_: 8.2 (2024 est.)<br>
-_potential support ratio_: 12.2 (2024 est.)<br>
+_total dependency ratio_: 55.1 (2025 est.)<br>
+_youth dependency ratio_: 46.7 (2025 est.)<br>
+_elderly dependency ratio_: 8.4 (2025 est.)<br>
+_potential support ratio_: 12 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 25.5 years (2025 est.)<br>
@@ -524,8 +524,8 @@ _total subscriptions_: 7,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 474,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 67 (2021 est.)<br>
+_total subscriptions_: 485,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 62 (2022 est.)<br>
 
 **Broadcast media**<br>
 multi-channel pay-TV is available; Solomon Islands Broadcasting Corporation (SIBC) operates 2 national radio stations and 2 provincial stations; 2 local commercial radio stations; Radio Australia is available via satellite (2019)<br>

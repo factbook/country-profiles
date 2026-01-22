@@ -77,9 +77,9 @@ Azores and Madeira Islands occupy strategic locations along western sea approach
 ## People and Society
 
 **Population**<br>
-_total_: 10,207,177 (2024 est.)<br>
-_male_: 4,835,763<br>
-_female_: 5,371,414<br>
+_total_: 10,194,277 (2025 est.)<br>
+_male_: 4,831,166<br>
+_female_: 5,363,111<br>
 
 **Nationality**<br>
 _noun_: Portuguese (singular and plural)<br>
@@ -101,10 +101,10 @@ _15-64 years_: 65% (male 3,264,766/female 3,371,087)<br>
 _65 years and over_: 22.3% (2024 est.) (male 908,578/female 1,369,043)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.8 (2024 est.)<br>
-_youth dependency ratio_: 19.5 (2024 est.)<br>
-_elderly dependency ratio_: 34.3 (2024 est.)<br>
-_potential support ratio_: 2.9 (2024 est.)<br>
+_total dependency ratio_: 54.3 (2025 est.)<br>
+_youth dependency ratio_: 19.3 (2025 est.)<br>
+_elderly dependency ratio_: 35 (2025 est.)<br>
+_potential support ratio_: 2.9 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 46.8 years (2025 est.)<br>
@@ -588,8 +588,8 @@ _total subscriptions_: 5.505 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 53 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12.8 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 125 (2022 est.)<br>
+_total subscriptions_: 12.9 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 124 (2024 est.)<br>
 
 **Broadcast media**<br>
 Radio e Televisao de Portugal, the publicly owned TV broadcaster, operates 4 domestic channels and external service channels to Africa;&nbsp; roughly 40 domestic TV stations; widespread access to international broadcasters, with more than half of households connected to multi-channel cable or satellite TV systems; publicly owned radio operates 3 national networks and provides regional and external services; several privately owned national radio stations and about 300 regional and local commercial radio stations<br>

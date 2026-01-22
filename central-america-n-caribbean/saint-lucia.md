@@ -74,9 +74,9 @@ the twin Pitons (Gros Piton and Petit Piton), striking cone-shaped peaks south o
 ## People and Society
 
 **Population**<br>
-_total_: 168,038 (2024 est.)<br>
-_male_: 81,517<br>
-_female_: 86,521<br>
+_total_: 168,462 (2025 est.)<br>
+_male_: 81,678<br>
+_female_: 86,784<br>
 
 **Nationality**<br>
 _noun_: Saint Lucian(s)<br>
@@ -97,10 +97,10 @@ _15-64 years_: 66.7% (male 54,260/female 57,747)<br>
 _65 years and over_: 15.4% (2024 est.) (male 11,752/female 14,167)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 50 (2024 est.)<br>
-_youth dependency ratio_: 26.9 (2024 est.)<br>
-_elderly dependency ratio_: 23.1 (2024 est.)<br>
-_potential support ratio_: 4.3 (2024 est.)<br>
+_total dependency ratio_: 50.9 (2025 est.)<br>
+_youth dependency ratio_: 26.6 (2025 est.)<br>
+_elderly dependency ratio_: 24.3 (2025 est.)<br>
+_potential support ratio_: 4.1 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 40.4 years (2025 est.)<br>
@@ -548,7 +548,7 @@ _subscriptions per 100 inhabitants_: 17 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 176,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 96 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 99 (2022 est.)<br>
 
 **Broadcast media**<br>
 3 privately owned TV stations; 1 public TV station on a cable network; multi-channel cable TV service available; mix of state-owned and privately owned radio broadcasters with about 25 stations, including repeater transmission stations (2019)<br>

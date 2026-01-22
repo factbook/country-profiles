@@ -73,9 +73,9 @@ important location along the Mona Passage, a key shipping lane to the Panama Can
 ## People and Society
 
 **Population**<br>
-_total_: 3,019,450 (2024 est.)<br>
-_male_: 1,418,753<br>
-_female_: 1,600,697<br>
+_total_: 2,984,841 (2025 est.)<br>
+_male_: 1,400,771<br>
+_female_: 1,584,070<br>
 
 **Nationality**<br>
 _noun_: Puerto Rican(s) (US citizens)<br>
@@ -98,10 +98,10 @@ _15-64 years_: 62.6% (male 904,406/female 986,778)<br>
 _65 years and over_: 24.9% (2024 est.) (male 322,698/female 429,322)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 59.7 (2024 est.)<br>
-_youth dependency ratio_: 19.9 (2024 est.)<br>
-_elderly dependency ratio_: 39.8 (2024 est.)<br>
-_potential support ratio_: 2.5 (2024 est.)<br>
+_total dependency ratio_: 60.7 (2025 est.)<br>
+_youth dependency ratio_: 19.4 (2025 est.)<br>
+_elderly dependency ratio_: 41.2 (2025 est.)<br>
+_potential support ratio_: 2.4 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 46.7 years (2025 est.)<br>
@@ -483,8 +483,8 @@ _total subscriptions_: 758,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 23 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.04 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 120 (2022 est.)<br>
+_total subscriptions_: 4.1 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 126 (2024 est.)<br>
 
 **Broadcast media**<br>
 more than 30 TV stations; cable TV subscription services are available; roughly 125 radio stations<br>

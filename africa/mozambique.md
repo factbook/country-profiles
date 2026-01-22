@@ -83,9 +83,9 @@ the Zambezi River flows through the north-central and most fertile part of the c
 ## People and Society
 
 **Population**<br>
-_total_: 33,350,954 (2024 est.)<br>
-_male_: 16,449,734<br>
-_female_: 16,901,220<br>
+_total_: 34,206,144 (2025 est.)<br>
+_male_: 16,880,529<br>
+_female_: 17,325,615<br>
 
 **Nationality**<br>
 _noun_: Mozambican(s)<br>
@@ -106,10 +106,10 @@ _15-64 years_: 52.4% (male 8,428,457/female 9,061,065)<br>
 _65 years and over_: 2.9% (2024 est.) (male 473,030/female 490,143)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 90.7 (2024 est.)<br>
-_youth dependency ratio_: 85.2 (2024 est.)<br>
-_elderly dependency ratio_: 5.5 (2024 est.)<br>
-_potential support ratio_: 18.2 (2024 est.)<br>
+_total dependency ratio_: 89.2 (2025 est.)<br>
+_youth dependency ratio_: 83.7 (2025 est.)<br>
+_elderly dependency ratio_: 5.5 (2025 est.)<br>
+_potential support ratio_: 18.3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 17.4 years (2025 est.)<br>
@@ -330,9 +330,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Daniel Francisco CHAPO (since 15 January 2025)<br>
 _head of government_: Prime Minister Maria Benvinda Delfina LEVI (since 17 January 2025)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_election/appointment process_: president elected directly by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for 2 consecutive terms); election last held on 9 October 2024 (next to be held by October 2029); prime minister appointed by the president<br>
+_election/appointment process_: president elected directly by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for 2 consecutive terms); prime minister appointed by the president<br>
 _most recent election date_: 9 October 2024<br>
 _election results_: <em><br>2024</em>: Daniel CHAPO elected president in first round; percent of vote - Daniel CHAPO (FRELIMO) 65.2%, Venâncio MONDLANE (PODEMOS) 24.2%, Ossufo MOMADE (RENAMO) 6.6%<br>
+_expected date of next election_: October 2029<br>
 
 **Legislative branch**<br>
 _legislature name_: Assembly of the Republic (Assembleia da Republica)<br>

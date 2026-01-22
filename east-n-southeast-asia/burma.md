@@ -83,9 +83,9 @@ strategic location near major Indian Ocean shipping lanes; the north-south flowi
 ## People and Society
 
 **Population**<br>
-_total_: 57,527,139 (2024 est.)<br>
-_male_: 28,387,831<br>
-_female_: 29,139,308<br>
+_total_: 57,931,718 (2025 est.)<br>
+_male_: 28,591,467<br>
+_female_: 29,340,251<br>
 
 **Nationality**<br>
 _noun_: Burmese (singular and plural)<br>
@@ -110,10 +110,10 @@ _15-64 years_: 68.5% (male 19,420,361/female 19,998,625)<br>
 _65 years and over_: 7.1% (2024 est.) (male 1,770,293/female 2,296,804)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 45.9 (2024 est.)<br>
-_youth dependency ratio_: 35.6 (2024 est.)<br>
-_elderly dependency ratio_: 10.3 (2024 est.)<br>
-_potential support ratio_: 9.7 (2024 est.)<br>
+_total dependency ratio_: 45.7 (2025 est.)<br>
+_youth dependency ratio_: 35 (2025 est.)<br>
+_elderly dependency ratio_: 10.7 (2025 est.)<br>
+_potential support ratio_: 9.3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 31.1 years (2025 est.)<br>
@@ -593,11 +593,11 @@ _Total energy consumption per capita 2023_: 8.384 million Btu/person (2023 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 588,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2023 est.) less than 1<br>
+_total subscriptions_: 559,000 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 65,516,900 (2023 est.)<br>
+_total subscriptions_: 62.3 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 114 (2024 est.)<br>
 
 **Broadcast media**<br>

@@ -76,9 +76,9 @@ within Bosnia and Herzegovina's recognized borders, the country is divided into 
 ## People and Society
 
 **Population**<br>
-_total_: 3,798,671 (2024 est.)<br>
-_male_: 1,852,164<br>
-_female_: 1,946,507<br>
+_total_: 3,653,499 (2025 est.)<br>
+_male_: 1,778,548<br>
+_female_: 1,874,951<br>
 
 **Nationality**<br>
 _noun_: Bosnian(s), Herzegovinian(s)<br>
@@ -101,10 +101,10 @@ _15-64 years_: 68.3% (male 1,305,271/female 1,290,920)<br>
 _65 years and over_: 18.6% (2024 est.) (male 289,449/female 415,378)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 43.5 (2024 est.)<br>
-_youth dependency ratio_: 16.8 (2024 est.)<br>
-_elderly dependency ratio_: 26.7 (2024 est.)<br>
-_potential support ratio_: 3.7 (2024 est.)<br>
+_total dependency ratio_: 44.5 (2025 est.)<br>
+_youth dependency ratio_: 16.7 (2025 est.)<br>
+_elderly dependency ratio_: 27.8 (2025 est.)<br>
+_potential support ratio_: 3.6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 45.7 years (2025 est.)<br>
@@ -579,11 +579,11 @@ _Total energy consumption per capita 2023_: 91.227 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 614,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 19 (2023 est.)<br>
+_total subscriptions_: 583,000 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 18 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,749,900 (2023 est.)<br>
+_total subscriptions_: 3.84 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 121 (2024 est.)<br>
 
 **Broadcast media**<br>

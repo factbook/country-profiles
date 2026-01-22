@@ -72,9 +72,9 @@ focal point for Southeast Asian sea routes; consists of about 60 islands, the la
 ## People and Society
 
 **Population**<br>
-_total_: 6,028,459 (2024 est.)<br>
-_male_: 3,013,630<br>
-_female_: 3,014,829<br>
+_total_: 6,080,545 (2025 est.)<br>
+_male_: 3,040,862<br>
+_female_: 3,039,683<br>
 
 **Nationality**<br>
 _noun_: Singaporean(s)<br>
@@ -98,10 +98,10 @@ _15-64 years_: 71.1% (male 2,157,441/female 2,126,799)<br>
 _65 years and over_: 14.3% (2024 est.) (male 400,653/female 463,061)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 40.7 (2024 est.)<br>
-_youth dependency ratio_: 20.6 (2024 est.)<br>
-_elderly dependency ratio_: 20.2 (2024 est.)<br>
-_potential support ratio_: 5 (2024 est.)<br>
+_total dependency ratio_: 41.6 (2025 est.)<br>
+_youth dependency ratio_: 20.5 (2025 est.)<br>
+_elderly dependency ratio_: 21.2 (2025 est.)<br>
+_potential support ratio_: 4.7 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 39.8 years (2025 est.)<br>
@@ -564,8 +564,8 @@ _total subscriptions_: 1.912 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 33 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 9.65 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 156 (2022 est.)<br>
+_total subscriptions_: 9.96 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 171 (2024 est.)<br>
 
 **Broadcast media**<br>
 state-controlled broadcast media; 6 domestic TV stations operated by state-owned MediaCorp; broadcasts from Malaysian and Indonesian stations available; satellite dishes banned; multi-channel cable TV services available; 19 domestic radio stations, including 11 for MediaCorp, 5 for state-linked Singapore Press Holdings, 2 for Singapore Armed Forces Reservists Association, and 1 for BBC Radio; Malaysian and Indonesian radio stations available (2019)<br>

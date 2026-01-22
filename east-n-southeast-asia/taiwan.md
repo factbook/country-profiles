@@ -74,9 +74,9 @@ strategic location adjacent to both the Taiwan Strait and the Luzon Strait<br>
 ## People and Society
 
 **Population**<br>
-_total_: 23,595,274 (2024 est.)<br>
-_male_: 11,606,491<br>
-_female_: 11,988,783<br>
+_total_: 23,600,776 (2025 est.)<br>
+_male_: 11,596,835<br>
+_female_: 12,003,941<br>
 
 **Nationality**<br>
 _noun_: Taiwan (singular and plural)<br>
@@ -100,10 +100,10 @@ _15-64 years_: 69% (male 8,132,356/female 8,155,582)<br>
 _65 years and over_: 18.8% (2024 est.) (male 2,002,076/female 2,442,170)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 44.9 (2024 est.)<br>
-_youth dependency ratio_: 17.6 (2024 est.)<br>
-_elderly dependency ratio_: 27.3 (2024 est.)<br>
-_potential support ratio_: 3.7 (2024 est.)<br>
+_total dependency ratio_: 46.5 (2025 est.)<br>
+_youth dependency ratio_: 17.7 (2025 est.)<br>
+_elderly dependency ratio_: 28.7 (2025 est.)<br>
+_potential support ratio_: 3.5 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 45.1 years (2025 est.)<br>
@@ -457,8 +457,8 @@ _total subscriptions_: 10 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 43 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 30 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 128 (2023 est.)<br>
+_total subscriptions_: 29.8 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 128 (2024 est.)<br>
 
 **Broadcast media**<br>
 5 national TV networks with about 22 stations; over 300 satellite TV channels available; about half of households use multi-channel cable TV; almost all subscribe to digital cable TV; national and regional radio networks with about 171 radio stations (2023)<br>
@@ -523,8 +523,8 @@ approximately 170,000 active duty Armed Forces (2025)<br>
 the military's inventory is a mix of domestically produced and foreign-supplied armaments, mostly from the US either as secondhand or direct acquisitions; Taiwan's domestic defense industry produces weapons systems such as aircraft, armored vehicles, missiles, and naval platforms (2025)<br>
 
 **Military service age and obligation**<br>
-men 18-36 years of age may volunteer or must complete 12 months of compulsory military service; civil service can be substituted for military service in some cases; women may enlist but are restricted to noncombat roles in most cases (2024)<br>
-<strong>note 1: </strong>in January 2024, Taiwan extended compulsory service from 4 to 12 months for men born in 2005 and thereafter<strong><br><br>note 2:</strong> as of 2023, women made up about 15% of the active-duty military<br>
+men 18-36 years of age may volunteer or must complete 12 months of compulsory military service; civil service can be substituted for military service in some cases; women can volunteer (2025)<br>
+<strong>note: </strong>in January 2024, Taiwan extended compulsory service from 4 to 12 months for men born in 2005 and thereafter<br>
 
 **Military - note**<br>
 the military&rsquo;s primary responsibility is external security, including the defense and protection of the country&rsquo;s air space, maritime claims, sea lines of communications, sovereignty, and territory; its main focus is the challenge posed by the People&rsquo;s Republic of China (2025)<br>

@@ -82,9 +82,9 @@ strategic location at the head of the Gulf of Aqaba; the Arab country that share
 ## People and Society
 
 **Population**<br>
-_total_: 11,174,024 (2024 est.)<br>
-_male_: 5,844,979<br>
-_female_: 5,329,045<br>
+_total_: 11,312,507 (2025 est.)<br>
+_male_: 5,908,853<br>
+_female_: 5,403,654<br>
 
 **Nationality**<br>
 _noun_: Jordanian(s)<br>
@@ -107,10 +107,10 @@ _15-64 years_: 64.9% (male 3,844,575/female 3,409,164)<br>
 _65 years and over_: 4.2% (2024 est.) (male 228,564/female 241,703)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 54 (2024 est.)<br>
-_youth dependency ratio_: 47.6 (2024 est.)<br>
-_elderly dependency ratio_: 6.5 (2024 est.)<br>
-_potential support ratio_: 15.4 (2024 est.)<br>
+_total dependency ratio_: 53.3 (2025 est.)<br>
+_youth dependency ratio_: 46.6 (2025 est.)<br>
+_elderly dependency ratio_: 6.7 (2025 est.)<br>
+_potential support ratio_: 14.9 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 25.4 years (2025 est.)<br>
@@ -607,8 +607,8 @@ _total subscriptions_: 451,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.73 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 68 (2022 est.)<br>
+_total subscriptions_: 8.05 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 70 (2024 est.)<br>
 
 **Broadcast media**<br>
 radio and TV dominated by the government-owned Jordan Radio and Television Corporation (JRTV) that operates a main network, a sports network, a film network, and a satellite channel; first independent TV broadcaster aired in 2007; international satellite TV and Israeli and Syrian TV broadcasts are available; roughly 30 radio stations; transmissions of multiple international radio broadcasters are available<br>

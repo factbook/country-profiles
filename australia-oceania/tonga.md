@@ -73,9 +73,9 @@ the western islands (making up the Tongan Volcanic Arch) are all of volcanic ori
 ## People and Society
 
 **Population**<br>
-_total_: 104,889 (2024 est.)<br>
-_male_: 52,606<br>
-_female_: 52,283<br>
+_total_: 104,519 (2025 est.)<br>
+_male_: 52,421<br>
+_female_: 52,098<br>
 
 **Nationality**<br>
 _noun_: Tongan(s)<br>
@@ -97,10 +97,10 @@ _15-64 years_: 63.2% (male 33,445/female 32,867)<br>
 _65 years and over_: 7.4% (2024 est.) (male 3,534/female 4,274)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 58.2 (2024 est.)<br>
-_youth dependency ratio_: 46.4 (2024 est.)<br>
-_elderly dependency ratio_: 11.8 (2024 est.)<br>
-_potential support ratio_: 8.5 (2024 est.)<br>
+_total dependency ratio_: 57.2 (2025 est.)<br>
+_youth dependency ratio_: 45.2 (2025 est.)<br>
+_elderly dependency ratio_: 11.9 (2025 est.)<br>
+_potential support ratio_: 8.4 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 26.4 years (2025 est.)<br>
@@ -551,8 +551,8 @@ _total subscriptions_: 11,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 64,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 61 (2021 est.)<br>
+_total subscriptions_: 64,800 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 62 (2022 est.)<br>
 
 **Broadcast media**<br>
 1 state-owned TV station and 3 privately owned TV stations; satellite and cable TV services available; 1 state-owned and 5 privately owned radio stations; Radio Australia available via satellite (2019)<br>
@@ -607,7 +607,7 @@ approximately 600 active Armed Forces (2025)<br>
 the military's inventory consists of light weapons, as well as some naval patrol vessels acquired from Australia (2025)<br>
 
 **Military service age and obligation**<br>
-voluntary military service for men and women 18-25; no conscription (2023)<br>
+16-25 years of age for men and women to apply for trainee soldier; no conscription (2025)<br>
 
 **Military - note**<br>
 the military's primary missions are defending Tonga's sovereignty, providing maritime security, and protecting the King; it is also responsible for humanitarian assistance and disaster relief, search and rescue operations, monitoring against illegal fishing, and delivering supplies to the outer islands; the military has contributed limited numbers of personnel to multinational military operations in Afghanistan, Iraq, and the Solomon Islands; Australia, New Zealand, and the US are key partners <br><br>Tonga has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Tonga's designated exclusive economic zone (EEZ) or on the high seas<br><br>Tonga participated in World War I as part of the New Zealand Expeditionary Force, but the Tonga Defense Force (TDF) was not established until 1939 at the beginning of World War II; in 1943, New Zealand helped train about 2,000 Tongan troops who saw action in the Solomon Islands; the TDF was disbanded at the end of the war, but was reactivated in 1946 as the Tonga Defense Services (TDS); in 2013, the name of the TDS was changed to His Majesty’s Armed Forces of Tonga (HMAF) (2025)<br>

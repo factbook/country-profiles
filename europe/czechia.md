@@ -79,9 +79,9 @@ flooding<br>
 ## People and Society
 
 **Population**<br>
-_total_: 10,837,890 (2024 est.)<br>
-_male_: 5,335,737<br>
-_female_: 5,502,153<br>
+_total_: 10,838,703 (2025 est.)<br>
+_male_: 5,337,128<br>
+_female_: 5,501,575<br>
 
 **Nationality**<br>
 _noun_: Czech(s)<br>
@@ -105,10 +105,10 @@ _15-64 years_: 63.8% (male 3,542,298/female 3,373,127)<br>
 _65 years and over_: 20.5% (2024 est.) (male 922,136/female 1,302,130)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 56.7 (2024 est.)<br>
-_youth dependency ratio_: 24.6 (2024 est.)<br>
-_elderly dependency ratio_: 32.2 (2024 est.)<br>
-_potential support ratio_: 3.1 (2024 est.)<br>
+_total dependency ratio_: 56.5 (2025 est.)<br>
+_youth dependency ratio_: 24.3 (2025 est.)<br>
+_elderly dependency ratio_: 32.2 (2025 est.)<br>
+_potential support ratio_: 3.1 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 44.4 years (2025 est.)<br>
@@ -604,11 +604,11 @@ _Total energy consumption per capita 2023_: 136.306 million Btu/person (2023 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.197 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 11 (2023 est.)<br>
+_total subscriptions_: 1.16 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 13,620,800 (2023 est.)<br>
+_total subscriptions_: 13.6 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 127 (2024 est.)<br>
 
 **Broadcast media**<br>

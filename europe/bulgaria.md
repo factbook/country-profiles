@@ -81,9 +81,9 @@ strategic location near Turkish Straits; controls key land routes from Europe to
 ## People and Society
 
 **Population**<br>
-_total_: 6,782,659 (2024 est.)<br>
-_male_: 3,303,491<br>
-_female_: 3,479,168<br>
+_total_: 6,737,997 (2025 est.)<br>
+_male_: 3,281,215<br>
+_female_: 3,456,782<br>
 
 **Nationality**<br>
 _noun_: Bulgarian(s)<br>
@@ -106,10 +106,10 @@ _15-64 years_: 65.2% (male 2,250,962/female 2,171,279)<br>
 _65 years and over_: 21% (2024 est.) (male 572,943/female 854,466)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.4 (2024 est.)<br>
-_youth dependency ratio_: 21.1 (2024 est.)<br>
-_elderly dependency ratio_: 32.3 (2024 est.)<br>
-_potential support ratio_: 3.1 (2024 est.)<br>
+_total dependency ratio_: 53.3 (2025 est.)<br>
+_youth dependency ratio_: 20.7 (2025 est.)<br>
+_elderly dependency ratio_: 32.7 (2025 est.)<br>
+_potential support ratio_: 3.1 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 45.5 years (2025 est.)<br>
@@ -601,11 +601,11 @@ _Total energy consumption per capita 2023_: 102.171 million Btu/person (2023 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 619,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 9 (2023 est.)<br>
+_total subscriptions_: 552,000 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 8 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,014,470 (2023 est.)<br>
+_total subscriptions_: 7.98 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 118 (2024 est.)<br>
 
 **Broadcast media**<br>

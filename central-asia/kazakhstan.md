@@ -84,9 +84,9 @@ world's largest landlocked country and one of only two landlocked countries in t
 ## People and Society
 
 **Population**<br>
-_total_: 20,260,006 (2024 est.)<br>
-_male_: 9,817,172<br>
-_female_: 10,442,834<br>
+_total_: 20,432,662 (2025 est.)<br>
+_male_: 9,902,303<br>
+_female_: 10,530,359<br>
 
 **Nationality**<br>
 _noun_: Kazakhstani(s)<br>
@@ -109,10 +109,10 @@ _15-64 years_: 62.8% (male 6,233,881/female 6,486,019)<br>
 _65 years and over_: 9.6% (2024 est.) (male 700,091/female 1,244,043)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 59.3 (2024 est.)<br>
-_youth dependency ratio_: 44 (2024 est.)<br>
-_elderly dependency ratio_: 15.3 (2024 est.)<br>
-_potential support ratio_: 6.5 (2024 est.)<br>
+_total dependency ratio_: 59.4 (2025 est.)<br>
+_youth dependency ratio_: 43.6 (2025 est.)<br>
+_elderly dependency ratio_: 15.8 (2025 est.)<br>
+_potential support ratio_: 6.3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 32.1 years (2025 est.)<br>
@@ -619,8 +619,8 @@ _total subscriptions_: 2.574 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 13 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 25.8 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 130 (2022 est.)<br>
+_total subscriptions_: 26.2 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 127 (2024 est.)<br>
 
 **Broadcast media**<br>
 the state owns nearly all radio and TV transmission facilities and operates national TV and radio networks; there are 96 TV channels, and 4 state-run radio stations; some former state-owned media outlets have been privatized; households with satellite dishes have access to foreign media; small number of commercial radio stations; all media outlets have to register with the government (2018)<br>

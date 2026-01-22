@@ -75,9 +75,9 @@ world's fourth-largest island; strategic location along Mozambique Channel; desp
 ## People and Society
 
 **Population**<br>
-_total_: 29,452,714 (2024 est.)<br>
-_male_: 14,760,501<br>
-_female_: 14,692,213<br>
+_total_: 31,345,040 (2025 est.)<br>
+_male_: 15,647,362<br>
+_female_: 15,697,678<br>
 
 **Nationality**<br>
 _noun_: Malagasy (singular and plural)<br>
@@ -99,10 +99,10 @@ _15-64 years_: 59.1% (male 8,720,012/female 8,673,880)<br>
 _65 years and over_: 3.9% (2024 est.) (male 532,642/female 617,782)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 69.3 (2024 est.)<br>
-_youth dependency ratio_: 62.7 (2024 est.)<br>
-_elderly dependency ratio_: 6.6 (2024 est.)<br>
-_potential support ratio_: 15.1 (2024 est.)<br>
+_total dependency ratio_: 73.4 (2025 est.)<br>
+_youth dependency ratio_: 66.9 (2025 est.)<br>
+_elderly dependency ratio_: 6.5 (2025 est.)<br>
+_potential support ratio_: 15.3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 20.5 years (2025 est.)<br>
@@ -340,7 +340,7 @@ _term in office_: 5 years<br>
 _most recent election date_: 5/29/2024<br>
 _parties elected and seats per party_: IRMAR (10); MALAGASY MIARA-MIAINGA (2)<br>
 _percentage of women in chamber_: 11.1%<br>
-_expected date of next election_: December 2025<br>
+_expected date of next election_: 31 December 2026<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supr&ecirc;me (consists of 11 members; addresses judicial administration issues only); High Constitutional Court or Haute Cour Constitutionnelle (consists of 9 members); High Court of Justice (consists of 11 members; addresses cases brought against the president of Madagascar and senior officials for high treason, grave violations of the Constitution, or breach of duties incompatible with the exercise of the presidential mandate)<br>
@@ -573,8 +573,8 @@ _total subscriptions_: 3,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 25.4 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 70 (2022 est.)<br>
+_total subscriptions_: 23.5 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 76 (2023 est.)<br>
 
 **Broadcast media**<br>
 state-owned Radio Nationale Malagasy (RNM) and Television Malagasy (TVM) have an extensive national network reach; privately owned radio and TV broadcasters in cities and major towns; state-run radio dominates in rural areas; relays of 2 international broadcasters are available in Antananarivo (2019)<br>

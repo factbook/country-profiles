@@ -72,9 +72,9 @@ consists of a mainland area (the New Territories) and over 200 islands<br>
 ## People and Society
 
 **Population**<br>
-_total_: 7,297,821 (2024 est.)<br>
-_male_: 3,367,812<br>
-_female_: 3,930,009<br>
+_total_: 7,305,556 (2025 est.)<br>
+_male_: 3,367,222<br>
+_female_: 3,938,334<br>
 
 **Nationality**<br>
 _noun_: Chinese/Hong Konger<br>
@@ -98,10 +98,10 @@ _15-64 years_: 64.8% (male 2,123,216/female 2,609,102)<br>
 _65 years and over_: 21.9% (2024 est.) (male 738,878/female 860,951)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 54.2 (2024 est.)<br>
-_youth dependency ratio_: 20.4 (2024 est.)<br>
-_elderly dependency ratio_: 33.8 (2024 est.)<br>
-_potential support ratio_: 3 (2024 est.)<br>
+_total dependency ratio_: 56.7 (2025 est.)<br>
+_youth dependency ratio_: 20.8 (2025 est.)<br>
+_elderly dependency ratio_: 35.8 (2025 est.)<br>
+_potential support ratio_: 2.8 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 47.6 years (2025 est.)<br>
@@ -495,8 +495,8 @@ _total subscriptions_: 3.487 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 47 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 23.8 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 292 (2022 est.)<br>
+_total subscriptions_: 27.1 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 365 (2024 est.)<br>
 
 **Broadcast media**<br>
 34 commercial terrestrial TV networks, each with multiple stations; multi-channel satellite and cable TV systems available; 3 licensed broadcasters, one of which is government-funded, operate about 12 radio stations (2019)<br>

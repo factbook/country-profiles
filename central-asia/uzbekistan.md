@@ -82,9 +82,9 @@ along with Liechtenstein, one of the only two doubly landlocked countries in the
 ## People and Society
 
 **Population**<br>
-_total_: 36,520,593 (2024 est.)<br>
-_male_: 18,324,813<br>
-_female_: 18,195,780<br>
+_total_: 37,015,151 (2025 est.)<br>
+_male_: 18,576,048<br>
+_female_: 18,439,103<br>
 
 **Nationality**<br>
 _noun_: Uzbekistani<br>
@@ -107,10 +107,10 @@ _15-64 years_: 63.7% (male 11,649,017/female 11,617,411)<br>
 _65 years and over_: 6.7% (2024 est.) (male 1,077,849/female 1,364,966)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 57 (2024 est.)<br>
-_youth dependency ratio_: 46.5 (2024 est.)<br>
-_elderly dependency ratio_: 10.5 (2024 est.)<br>
-_potential support ratio_: 9.5 (2024 est.)<br>
+_total dependency ratio_: 57.3 (2025 est.)<br>
+_youth dependency ratio_: 46.3 (2025 est.)<br>
+_elderly dependency ratio_: 11.1 (2025 est.)<br>
+_potential support ratio_: 9 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 29.2 years (2025 est.)<br>
@@ -619,8 +619,8 @@ _total subscriptions_: 6.147 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 17 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 37.5 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 103 (2022 est.)<br>
+_total subscriptions_: 40.2 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 1,110 (2024 est.)<br>
 
 **Broadcast media**<br>
 state-controlled media; 17 state-owned broadcasters, including 13 TV and 4 radio, with national service; about 20 privately owned TV stations, overseen by local officials, broadcast locally; privately owned TV stations required to lease transmitters from state-owned Republic TV and Radio Industry Corporation (2019)<br>
@@ -670,8 +670,8 @@ limited available information; estimated 50,000 active Armed Forces (2025)<br>
 the Uzbek Armed Forces use mainly Russian or Soviet-era armaments with smaller quantities of items from suppliers such as China, T&uuml;rkiye, and the US; Uzbekistan has a small defense industry, which is involved in repairing and maintaining aircraft and armored vehicles, as well as producing light armored vehicles, unmanned aerial vehicles/drones, and other military items (2025)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory military service for men; 12-month service obligation (those conscripted have the option of paying for a shorter service of one month while remaining in the reserves until the age of 27) (2024)<br>
-<strong>note:</strong> Uzbek citizens who have completed their service terms in the armed forces have privileges in employment and admission to higher educational institutions<br>
+18-30 for voluntary/contract service for men and women; 18-27 years of age for compulsory military service for men with a 12-month service obligation (2025)<br>
+<strong>note:</strong> those conscripted have the option of paying for a shorter service of one month while remaining in the reserves until the age of 27; Uzbek citizens who have completed their service terms in the armed forces have privileges in employment and admission to higher educational institutions<br>
 
 **Military - note**<br>
 the military&rsquo;s responsibilities include ensuring the country&rsquo;s sovereignty and territorial integrity, securing its borders, and assisting with internal security; regional security and international terrorism are areas of concern; Uzbekistan joined the Russian-sponsored Collective Security Treaty Organization (CSTO) in the 1990s but withdrew in 1999; it returned in 2006 but left again in 2012; although not part of CSTO, Uzbekistan continues to maintain defense ties with Russia, including joint military exercises and defense industrial cooperation; it also has defense ties with other regional countries, including Azerbaijan, China, India, Kazakhstan, Pakistan, and Turkey; it is part of the Shanghai Cooperation Organization (SCO) and participates in SCO training exercises (2025)<br>

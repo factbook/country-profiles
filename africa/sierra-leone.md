@@ -79,9 +79,9 @@ rainfall along the coast can reach 495 cm (195 in) a year, making it one of the 
 ## People and Society
 
 **Population**<br>
-_total_: 9,121,049 (2024 est.)<br>
-_male_: 4,515,726<br>
-_female_: 4,605,323<br>
+_total_: 9,331,203 (2025 est.)<br>
+_male_: 4,620,638<br>
+_female_: 4,710,565<br>
 
 **Nationality**<br>
 _noun_: Sierra Leonean(s)<br>
@@ -102,10 +102,10 @@ _15-64 years_: 57.4% (male 2,557,715/female 2,675,418)<br>
 _65 years and over_: 2.5% (2024 est.) (male 114,405/female 117,601)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 74.3 (2024 est.)<br>
-_youth dependency ratio_: 69.9 (2024 est.)<br>
-_elderly dependency ratio_: 4.4 (2024 est.)<br>
-_potential support ratio_: 22.6 (2024 est.)<br>
+_total dependency ratio_: 72.7 (2025 est.)<br>
+_youth dependency ratio_: 68.4 (2025 est.)<br>
+_elderly dependency ratio_: 4.4 (2025 est.)<br>
+_potential support ratio_: 22.9 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 19.7 years (2025 est.)<br>
@@ -561,8 +561,8 @@ _total subscriptions_: 0 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8.23 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 98 (2021 est.)<br>
+_total subscriptions_: 8.93 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 108 (2022 est.)<br>
 
 **Broadcast media**<br>
 1 state-owned TV station; 3 private TV stations; 1 pay-TV service; 1 state-owned national radio station; about 24 private radio stations; transmissions of several international broadcasters available (2019)<br>

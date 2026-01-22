@@ -85,9 +85,9 @@ second-smallest South American country (after Suriname); most of the low-lying l
 ## People and Society
 
 **Population**<br>
-_total_: 3,425,330 (2024 est.)<br>
-_male_: 1,660,132<br>
-_female_: 1,765,198<br>
+_total_: 3,449,444 (2025 est.)<br>
+_male_: 1,678,419<br>
+_female_: 1,771,025<br>
 
 **Nationality**<br>
 _noun_: Uruguayan(s)<br>
@@ -110,10 +110,10 @@ _15-64 years_: 65.4% (male 1,112,622/female 1,128,418)<br>
 _65 years and over_: 15.7% (2024 est.) (male 218,242/female 318,855)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 49.1 (2024 est.)<br>
-_youth dependency ratio_: 26.9 (2024 est.)<br>
-_elderly dependency ratio_: 22.2 (2024 est.)<br>
-_potential support ratio_: 4.5 (2024 est.)<br>
+_total dependency ratio_: 48.7 (2025 est.)<br>
+_youth dependency ratio_: 26.2 (2025 est.)<br>
+_elderly dependency ratio_: 22.5 (2025 est.)<br>
+_potential support ratio_: 4.4 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 37.4 years (2025 est.)<br>
@@ -613,8 +613,8 @@ _total subscriptions_: 1.205 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 36 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.8 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 139 (2022 est.)<br>
+_total subscriptions_: 4.93 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 146 (2024 est.)<br>
 
 **Broadcast media**<br>
 mix of privately owned and state-run broadcast media; over 100 commercial radio stations and about 20 TV channels; cable TV is available; many community radio and TV stations; adopted the hybrid Japanese/Brazilian HDTV standard (ISDB-T) in 2010 (2019)<br>
@@ -677,8 +677,7 @@ approximately 23,000 active-duty Armed Forces (15,000 Army; 5,000 Navy; 3,000 Ai
 the military's inventory includes a variety of mostly older or secondhand equipment originating from a range of suppliers, including Brazil, Germany, Russia/former Soviet Union, South Korea, and the US (2025)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age (18-22 years of age for Navy) for voluntary military service for men and women; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2025)<br>
-<strong>note:</strong> as of 2023, women comprised nearly 20% of the active military<br>
+generally 18-30 years of age (up to 22 for the Navy and up to 40 for some specialist positions) for voluntary military service for men and women; initial 24-month service obligation (2025)<br>
 
 **Military deployments**<br>
 630 Democratic Republic of the Congo (MONUSCO); 210 Golan Heights (UNDOF) (2025)<br>

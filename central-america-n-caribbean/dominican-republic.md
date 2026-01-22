@@ -80,9 +80,9 @@ shares island of Hispaniola with Haiti (eastern two-thirds makes up the Dominica
 ## People and Society
 
 **Population**<br>
-_total_: 10,815,857 (2024 est.)<br>
-_male_: 5,465,776<br>
-_female_: 5,350,081<br>
+_total_: 10,899,292 (2025 est.)<br>
+_male_: 5,506,679<br>
+_female_: 5,392,613<br>
 
 **Nationality**<br>
 _noun_: Dominican(s)<br>
@@ -105,10 +105,10 @@ _15-64 years_: 66.9% (male 3,667,584/female 3,563,848)<br>
 _65 years and over_: 7.6% (2024 est.) (male 395,345/female 427,400)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 49.6 (2024 est.)<br>
-_youth dependency ratio_: 38.2 (2024 est.)<br>
-_elderly dependency ratio_: 11.4 (2024 est.)<br>
-_potential support ratio_: 8.8 (2024 est.)<br>
+_total dependency ratio_: 49.6 (2025 est.)<br>
+_youth dependency ratio_: 37.8 (2025 est.)<br>
+_elderly dependency ratio_: 11.8 (2025 est.)<br>
+_potential support ratio_: 8.5 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 29.6 years (2025 est.)<br>
@@ -604,11 +604,11 @@ _Total energy consumption per capita 2023_: 39.329 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.144 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 10 (2023 est.)<br>
+_total subscriptions_: 1.15 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,409,800 (2023 est.)<br>
+_total subscriptions_: 10.7 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 94 (2024 est.)<br>
 
 **Broadcast media**<br>

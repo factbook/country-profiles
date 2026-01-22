@@ -80,9 +80,9 @@ severe earthquakes; active volcanism; tsunamis <br><br><strong>volcanism:</stron
 ## People and Society
 
 **Population**<br>
-_total_: 18,664,652 (2024 est.)<br>
-_male_: 9,169,736<br>
-_female_: 9,494,916<br>
+_total_: 19,091,343 (2025 est.)<br>
+_male_: 9,379,883<br>
+_female_: 9,711,460<br>
 
 **Nationality**<br>
 _noun_: Chilean(s)<br>
@@ -105,10 +105,10 @@ _15-64 years_: 67.3% (male 6,274,620/female 6,278,467)<br>
 _65 years and over_: 13.6% (2024 est.) (male 1,072,208/female 1,464,921)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 44.9 (2024 est.)<br>
-_youth dependency ratio_: 24.8 (2024 est.)<br>
-_elderly dependency ratio_: 20 (2024 est.)<br>
-_potential support ratio_: 5 (2024 est.)<br>
+_total dependency ratio_: 45 (2025 est.)<br>
+_youth dependency ratio_: 24.1 (2025 est.)<br>
+_elderly dependency ratio_: 20.9 (2025 est.)<br>
+_potential support ratio_: 4.8 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 38.9 years (2025 est.)<br>
@@ -602,11 +602,11 @@ _Total energy consumption per capita 2023_: 71.42 million Btu/person (2023 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.978 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 10 (2023 est.)<br>
+_total subscriptions_: 1.74 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 8 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 26,710,700 (2023 est.)<br>
+_total subscriptions_: 26.2 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 133 (2024 est.)<br>
 
 **Broadcast media**<br>

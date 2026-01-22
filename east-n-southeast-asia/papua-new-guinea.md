@@ -79,9 +79,9 @@ active volcanism; frequent and sometimes severe earthquakes; mud slides; tsunami
 ## People and Society
 
 **Population**<br>
-_total_: 10,046,233 (2024 est.)<br>
-_male_: 5,092,262<br>
-_female_: 4,953,971<br>
+_total_: 10,273,996 (2025 est.)<br>
+_male_: 5,206,211<br>
+_female_: 5,067,785<br>
 
 **Nationality**<br>
 _noun_: Papua New Guinean(s)<br>
@@ -104,10 +104,10 @@ _15-64 years_: 58.9% (male 2,991,479/female 2,923,410)<br>
 _65 years and over_: 4% (2024 est.) (male 198,511/female 205,090)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 69.8 (2024 est.)<br>
-_youth dependency ratio_: 63 (2024 est.)<br>
-_elderly dependency ratio_: 6.8 (2024 est.)<br>
-_potential support ratio_: 14.7 (2024 est.)<br>
+_total dependency ratio_: 69.4 (2025 est.)<br>
+_youth dependency ratio_: 62.4 (2025 est.)<br>
+_elderly dependency ratio_: 7 (2025 est.)<br>
+_potential support ratio_: 14.2 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 21.9 years (2025 est.)<br>
@@ -573,8 +573,8 @@ _total subscriptions_: 166,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.82 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 48 (2021 est.)<br>
+_total subscriptions_: 4.1 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 39 (2024 est.)<br>
 
 **Broadcast media**<br>
 5 TV stations: 1 commercial (TV Wan), 2 state-run (National Broadcasting Corporation and EMTV); 1 digital free-to-view network, and 1 satellite network (Click TV or PNGTV); the state-run NBC operates 3 radio networks with multiple repeaters and about 20 provincial stations; several commercial radio stations with multiple transmission points as well as several community stations; transmissions of several international broadcasters are accessible (2023)<br>

@@ -76,9 +76,9 @@ most of the country is composed of fertile low-lying plains with some hills in t
 ## People and Society
 
 **Population**<br>
-_total_: 1,801,246 (2024 est.)<br>
-_male_: 836,982<br>
-_female_: 964,264<br>
+_total_: 1,888,439 (2025 est.)<br>
+_male_: 876,654<br>
+_female_: 1,011,785<br>
 
 **Nationality**<br>
 _noun_: Latvian(s)<br>
@@ -101,10 +101,10 @@ _15-64 years_: 63% (male 562,754/female 572,850)<br>
 _65 years and over_: 22.2% (2024 est.) (male 137,746/female 262,922)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.6 (2024 est.)<br>
-_youth dependency ratio_: 23.5 (2024 est.)<br>
-_elderly dependency ratio_: 32.1 (2024 est.)<br>
-_potential support ratio_: 3.1 (2024 est.)<br>
+_total dependency ratio_: 56.2 (2025 est.)<br>
+_youth dependency ratio_: 23.3 (2025 est.)<br>
+_elderly dependency ratio_: 33 (2025 est.)<br>
+_potential support ratio_: 3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 43.8 years (2025 est.)<br>
@@ -570,8 +570,8 @@ _total subscriptions_: 142,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 8 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2.26 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 117 (2022 est.)<br>
+_total subscriptions_: 2.27 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 121 (2024 est.)<br>
 
 **Broadcast media**<br>
 several national and regional commercial TV stations are foreign-owned, 2 national TV stations are publicly owned; system supplemented by privately owned regional and local TV stations; cable and satellite multi-channel TV services with domestic and foreign broadcasts available; publicly owned broadcaster operates 4 radio networks with dozens of stations; dozens of private broadcasters also operate radio stations<br>

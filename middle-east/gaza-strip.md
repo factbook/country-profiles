@@ -72,9 +72,9 @@ once a strategic strip of land along Mideast-North African trade routes<br>
 ## People and Society
 
 **Population**<br>
-_total_: 2,141,643 (2024 est.)<br>
-_male_: 1,086,340<br>
-_female_: 1,055,303<br>
+_total_: 2,184,652 (2025 est.)<br>
+_male_: 1,108,222<br>
+_female_: 1,076,430<br>
 
 **Ethnic groups**<br>
 Palestinian Arab<br>
@@ -93,10 +93,10 @@ _15-64 years_: 58.3% (male 627,235/female 620,903)<br>
 _65 years and over_: 2.9% (2024 est.) (male 31,655/female 30,112)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 71.6 (2024 est.)<br>
-_youth dependency ratio_: 66.6 (2024 est.)<br>
-_elderly dependency ratio_: 4.9 (2024 est.)<br>
-_potential support ratio_: 20.2 (2024 est.)<br>
+_total dependency ratio_: 69.6 (2025 est.)<br>
+_youth dependency ratio_: 64.5 (2025 est.)<br>
+_elderly dependency ratio_: 5.1 (2025 est.)<br>
+_potential support ratio_: 19.7 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 19.9 years (2025 est.)<br>
@@ -432,9 +432,9 @@ _Total energy consumption per capita 2023_: 14.991 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 384,000 (2023 est.)<br>
+_total subscriptions_: 383,653 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 7 (2023 est.)<br>
-<b>note:</b> entry includes the West Bank and the Gaza Strip<br>
+<strong>note:</strong> entry includes the West Bank and the Gaza Strip<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 4,148,420 (2023 est.)<br>

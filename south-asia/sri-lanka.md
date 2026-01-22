@@ -75,9 +75,9 @@ strategic location near major Indian Ocean sea lanes; Adam's Bridge is a chain o
 ## People and Society
 
 **Population**<br>
-_total_: 21,982,608 (2024 est.)<br>
-_male_: 10,642,043<br>
-_female_: 11,340,565<br>
+_total_: 22,050,561 (2025 est.)<br>
+_male_: 10,668,528<br>
+_female_: 11,382,033<br>
 
 **Nationality**<br>
 _noun_: Sri Lankan(s)<br>
@@ -99,10 +99,10 @@ _15-64 years_: 65% (male 6,954,869/female 7,336,897)<br>
 _65 years and over_: 12.4% (2024 est.) (male 1,149,256/female 1,580,053)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.8 (2024 est.)<br>
-_youth dependency ratio_: 34.7 (2024 est.)<br>
-_elderly dependency ratio_: 19.1 (2024 est.)<br>
-_potential support ratio_: 5.2 (2024 est.)<br>
+_total dependency ratio_: 53.9 (2025 est.)<br>
+_youth dependency ratio_: 34.2 (2025 est.)<br>
+_elderly dependency ratio_: 19.7 (2025 est.)<br>
+_potential support ratio_: 5.1 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 34.2 years (2025 est.)<br>
@@ -583,8 +583,8 @@ _total subscriptions_: 1.707 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 7 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 30 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 143 (2022 est.)<br>
+_total subscriptions_: 30.6 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 133 (2024 est.)<br>
 
 **Broadcast media**<br>
 government operates 5 TV channels and 19 radio channels; multi-channel satellite and cable TV subscription services available; 25 private TV stations and about 43 radio stations; 6 non-profit TV stations and 4 radio stations<br>

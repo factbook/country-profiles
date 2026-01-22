@@ -79,9 +79,9 @@ landlocked savanna cut by the three principal rivers, the Black, Red, and White 
 ## People and Society
 
 **Population**<br>
-_total_: 23,042,199 (2024 est.)<br>
-_male_: 11,297,749<br>
-_female_: 11,744,450<br>
+_total_: 23,490,300 (2025 est.)<br>
+_male_: 11,529,979<br>
+_female_: 11,960,321<br>
 
 **Nationality**<br>
 _noun_: Burkinabe (singular and plural)<br>
@@ -102,10 +102,10 @@ _15-64 years_: 55.1% (male 6,116,674/female 6,590,775)<br>
 _65 years and over_: 3.2% (2024 est.) (male 312,587/female 426,359)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 80.7 (2024 est.)<br>
-_youth dependency ratio_: 74.9 (2024 est.)<br>
-_elderly dependency ratio_: 5.8 (2024 est.)<br>
-_potential support ratio_: 17.2 (2024 est.)<br>
+_total dependency ratio_: 79 (2025 est.)<br>
+_youth dependency ratio_: 73.2 (2025 est.)<br>
+_elderly dependency ratio_: 5.8 (2025 est.)<br>
+_potential support ratio_: 17.3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 19 years (2025 est.)<br>
@@ -328,7 +328,7 @@ _expected date of next election_: were to be held by July 2024, but were delayed
 **Legislative branch**<br>
 _legislature name_: Parliament (Parlement)<br>
 _legislative structure_: unicameral<br>
-_chamber name_: Transitional Legislative Assembly (Assemblée législative de la transition)<br>
+_chamber name_: Transitional Legislative Assembly (Assembl&eacute;e l&eacute;gislative de la transition)<br>
 _number of seats_: 71<br>
 _electoral system_: proportional representation<br>
 _most recent election date_: 11/11/2022<br>
@@ -572,12 +572,12 @@ _Total energy consumption per capita 2023_: 3.481 million Btu/person (2023 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 81,000 (2021 est.)<br>
+_total subscriptions_: 72,700 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 26,889,900 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 120 (2022 est.)<br>
+_total subscriptions_: 26.9 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 119 (2022 est.)<br>
 
 **Broadcast media**<br>
 14 digital TV channels, of which 2 are state-owned; over 140 national radio stations (commercial, religious, community), including a national and regional state-owned network; state-owned Radio Burkina and private Radio Omega are among the most widely available and broadcast in both French and local languages (2019)<br>

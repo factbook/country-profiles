@@ -81,9 +81,9 @@ most of the inhabitants live along the sandy coastal region; apart from the capi
 ## People and Society
 
 **Population**<br>
-_total_: 29,981,758 (2024 est.)<br>
-_male_: 15,040,032<br>
-_female_: 14,941,726<br>
+_total_: 31,855,971 (2025 est.)<br>
+_male_: 15,992,906<br>
+_female_: 15,863,065<br>
 
 **Nationality**<br>
 _noun_: Ivoirian(s)<br>
@@ -106,10 +106,10 @@ _15-64 years_: 60.9% (male 9,200,957/female 9,060,748)<br>
 _65 years and over_: 3% (2024 est.) (male 401,967/female 490,196)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 73.6 (2024 est.)<br>
-_youth dependency ratio_: 68.8 (2024 est.)<br>
-_elderly dependency ratio_: 4.7 (2024 est.)<br>
-_potential support ratio_: 21.1 (2024 est.)<br>
+_total dependency ratio_: 72.2 (2025 est.)<br>
+_youth dependency ratio_: 67.5 (2025 est.)<br>
+_elderly dependency ratio_: 4.7 (2025 est.)<br>
+_potential support ratio_: 21.2 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 20 years (2025 est.)<br>
@@ -601,11 +601,11 @@ _Total energy consumption per capita 2023_: 8.489 million Btu/person (2023 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 244,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2023 est.) less than 1<br>
+_total subscriptions_: 245,000 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: (2024 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 53,601,500 (2023 est.)<br>
+_total subscriptions_: 58.7 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 184 (2024 est.)<br>
 
 **Broadcast media**<br>

@@ -77,9 +77,9 @@ landlocked; highlands are main recharge area for Israel's coastal aquifers (2017
 ## People and Society
 
 **Population**<br>
-_total_: 3,243,369 (2024 est.)<br>
-_male_: 1,648,450<br>
-_female_: 1,594,919<br>
+_total_: 3,310,554 (2025 est.)<br>
+_male_: 1,682,493<br>
+_female_: 1,628,061<br>
 <strong>note:</strong> approximately 468,300 Israeli settlers live in the West Bank (2022); approximately 236,600 Israeli settlers live in East Jerusalem (2021)<br>
 
 **Ethnic groups**<br>
@@ -98,10 +98,10 @@ _15-64 years_: 59.5% (male 979,719/female 949,746)<br>
 _65 years and over_: 3.9% (2024 est.) (male 59,234/female 65,946)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 68.1 (2024 est.)<br>
-_youth dependency ratio_: 61.6 (2024 est.)<br>
-_elderly dependency ratio_: 6.5 (2024 est.)<br>
-_potential support ratio_: 15.4 (2024 est.)<br>
+_total dependency ratio_: 68.2 (2025 est.)<br>
+_youth dependency ratio_: 61.4 (2025 est.)<br>
+_elderly dependency ratio_: 6.8 (2025 est.)<br>
+_potential support ratio_: 14.8 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 22 years (2025 est.)<br>
@@ -449,14 +449,14 @@ _Total energy consumption per capita 2023_: 14.991 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 384,000 (2023 est.)<br>
+_total subscriptions_: 383,653 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 7 (2023 est.)<br>
-<b>note:</b> entry includes the West Bank and the Gaza Strip<br>
+<strong>note:</strong> entry includes the West Bank and the Gaza Strip<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.15 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 78 (2021 est.)<br>
-<b>note:</b> entry includes the West Bank and the Gaza Strip<br>
+_total subscriptions_: 4,148,420 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 77 (2023 est.)<br>
+<strong>note:</strong> entry includes the West Bank and the Gaza Strip<br>
 
 **Broadcast media**<br>
 the Palestinian Authority operates 1 TV and 1 radio station; about 20 private TV and 40 radio stations; Jordanian TV and satellite TV accessible<br>

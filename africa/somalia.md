@@ -77,9 +77,9 @@ strategic location on Horn of Africa along southern approaches to Bab el Mandeb 
 ## People and Society
 
 **Population**<br>
-_total_: 13,017,273 (2024 est.)<br>
-_male_: 6,546,312<br>
-_female_: 6,470,961<br>
+_total_: 20,324,160 (2025 est.)<br>
+_male_: 10,170,863<br>
+_female_: 10,153,297<br>
 
 **Nationality**<br>
 _noun_: Somali(s)<br>
@@ -101,10 +101,10 @@ _15-64 years_: 55.8% (male 3,699,721/female 3,568,163)<br>
 _65 years and over_: 2.8% (2024 est.) (male 157,505/female 208,426)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 100.9 (2024 est.)<br>
-_youth dependency ratio_: 97.6 (2024 est.)<br>
-_elderly dependency ratio_: 3.2 (2024 est.)<br>
-_potential support ratio_: 30.8 (2024 est.)<br>
+_total dependency ratio_: 100.5 (2025 est.)<br>
+_youth dependency ratio_: 97.1 (2025 est.)<br>
+_elderly dependency ratio_: 3.3 (2025 est.)<br>
+_potential support ratio_: 29.9 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 15.7 years (2025 est.)<br>
@@ -529,8 +529,8 @@ _total subscriptions_: 91,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8.84 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 50 (2022 est.)<br>
+_total subscriptions_: 9.91 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 54 (2023 est.)<br>
 
 **Broadcast media**<br>
 2 private TV stations rebroadcast Al-Jazeera and CNN; 1 state-operated TV station and 1 private TV station; state-operated Radio Mogadishu; 1 SW and roughly 10 private FM radio stations in Mogadishu; several radio stations in central and southern regions; transmissions of at least 2 international broadcasters available (2019)<br>

@@ -73,9 +73,9 @@ landlocked; almost completely surrounded by South Africa<br>
 ## People and Society
 
 **Population**<br>
-_total_: 1,138,089 (2024 est.)<br>
-_male_: 538,600<br>
-_female_: 599,489<br>
+_total_: 1,137,268 (2025 est.)<br>
+_male_: 557,204<br>
+_female_: 580,064<br>
 
 **Nationality**<br>
 _noun_: liSwati (singular), emaSwati (plural); note - former term, Swazi(s), still used among English speakers<br>
@@ -96,10 +96,10 @@ _15-64 years_: 64.3% (male 341,298/female 390,884)<br>
 _65 years and over_: 4% (2024 est.) (male 16,974/female 28,765)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.4 (2024 est.)<br>
-_youth dependency ratio_: 49.2 (2024 est.)<br>
-_elderly dependency ratio_: 6.2 (2024 est.)<br>
-_potential support ratio_: 16 (2024 est.)<br>
+_total dependency ratio_: 52.2 (2025 est.)<br>
+_youth dependency ratio_: 44.7 (2025 est.)<br>
+_elderly dependency ratio_: 7.5 (2025 est.)<br>
+_potential support ratio_: 13.3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 24.8 years (2025 est.)<br>
@@ -572,11 +572,11 @@ _Total energy consumption per capita 2023_: 18.823 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 42,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
+_total subscriptions_: 35,600 (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,579,960 (2023 est.)<br>
+_total subscriptions_: 1.74 million (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 140 (2024 est.)<br>
 
 **Broadcast media**<br>

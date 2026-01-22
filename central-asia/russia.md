@@ -93,9 +93,9 @@ permafrost over much of Siberia is a major impediment to development; volcanic a
 ## People and Society
 
 **Population**<br>
-_total_: 140,820,810 (2024 est.)<br>
-_male_: 65,496,805<br>
-_female_: 75,324,005<br>
+_total_: 140,134,279 (2025 est.)<br>
+_male_: 65,166,555<br>
+_female_: 74,967,724<br>
 
 **Nationality**<br>
 _noun_: Russian(s)<br>
@@ -120,10 +120,10 @@ _15-64 years_: 65.7% (male 45,007,073/female 47,518,221)<br>
 _65 years and over_: 17.8% (2024 est.) (male 8,533,448/female 16,491,955)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 52.2 (2024 est.)<br>
-_youth dependency ratio_: 25.2 (2024 est.)<br>
-_elderly dependency ratio_: 27 (2024 est.)<br>
-_potential support ratio_: 3.7 (2024 est.)<br>
+_total dependency ratio_: 52.6 (2025 est.)<br>
+_youth dependency ratio_: 24.7 (2025 est.)<br>
+_elderly dependency ratio_: 27.9 (2025 est.)<br>
+_potential support ratio_: 3.6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 42.3 years (2025 est.)<br>
@@ -651,8 +651,8 @@ _total subscriptions_: 20,816,300 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 15 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 245 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 169 (2021 est.)<br>
+_total subscriptions_: 270 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 186 (2024 est.)<br>
 
 **Broadcast media**<br>
 13 national TV stations: the federal government owns 1 and controls a second, state-owned Gazprom controls 2, state-affiliated Bank Rossiya controls 2, Moscow city administration runs 1, the Russian Orthodox Church owns 1, and the Russian military owns 1; around 3,300 national, regional, and local TV stations, with over two-thirds completely or partially state-controlled; satellite TV available; 2 state-run national radio networks, with a third majority-owned by Gazprom; around 2,400 public and commercial radio stations<br>

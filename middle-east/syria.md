@@ -82,9 +82,9 @@ the capital of Damascus is located at an oasis fed by the Barada River and is th
 ## People and Society
 
 **Population**<br>
-_total_: 23,865,423 (2024 est.)<br>
-_male_: 11,981,578<br>
-_female_: 11,883,845<br>
+_total_: 24,261,882 (2025 est.)<br>
+_male_: 12,183,128<br>
+_female_: 12,078,754<br>
 
 **Nationality**<br>
 _noun_: Syrian(s)<br>
@@ -107,10 +107,10 @@ _15-64 years_: 62.8% (male 7,475,355/female 7,522,797)<br>
 _65 years and over_: 4.2% (2024 est.) (male 468,730/female 532,271)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 59.1 (2024 est.)<br>
-_youth dependency ratio_: 52.4 (2024 est.)<br>
-_elderly dependency ratio_: 6.7 (2024 est.)<br>
-_potential support ratio_: 15 (2024 est.)<br>
+_total dependency ratio_: 58.1 (2025 est.)<br>
+_youth dependency ratio_: 51.2 (2025 est.)<br>
+_elderly dependency ratio_: 6.9 (2025 est.)<br>
+_potential support ratio_: 14.5 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 24.5 years (2025 est.)<br>
@@ -541,8 +541,8 @@ _total subscriptions_: 2.816 million (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 12 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 15.1 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 80 (2021 est.)<br>
+_total subscriptions_: 17.6 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 71 (2024 est.)<br>
 
 **Broadcast media**<br>
 state-run TV has 2 networks and 5 satellite channels; roughly two-thirds of homes have a satellite dish with access to foreign TV; 3 state-run radio channels; first private radio station launched in 2005; private radio broadcasters prohibited from transmitting news or political content (2018)<br>
@@ -605,7 +605,7 @@ not available<br>
 the military forces of Syria are equipped with Russian and Soviet-era armaments (2025)<br>
 
 **Military service age and obligation**<br>
-prior to the fall of the ASAD regime in December 2024, men 18-42 were obligated to perform military service; compulsory service obligation was up to 30 months; women were not conscripted but could volunteer to serve, including in combat arms (2024)<br>
+under Bashar al-ASAD, Syrian men aged 18-38 were required to serve 18-21 months in the military; conscription continued until ASAD's fall when the interim government announced that mandatory conscription to Syria&rsquo;s armed forces would be abolished and only be reinstated in extreme cases, such as national emergencies relating to war (2025)<br>
 
 **Military - note**<br>
 as of September 2025, the government did not exercise control over all of Syria; areas of the northeast were under the control of ethnic Kurdish-led forces and areas south of the capital Damascus were controlled by members of the Druze religious minority; Turkish forces remained in parts of the north, while Israeli forces had moved into formerly demilitarized areas between Syria and Israel and into some Syrian territory near the frontier<br><br>the UN Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; UNDOF has about 1,300 personnel (2025)<br>

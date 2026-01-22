@@ -82,9 +82,9 @@ landslides; avalanches; earthquakes<br>
 ## People and Society
 
 **Population**<br>
-_total_: 8,967,982 (2024 est.)<br>
-_male_: 4,392,898<br>
-_female_: 4,575,084<br>
+_total_: 9,174,390 (2025 est.)<br>
+_male_: 4,471,802<br>
+_female_: 4,702,588<br>
 
 **Nationality**<br>
 _noun_: Austrian(s)<br>
@@ -108,10 +108,10 @@ _15-64 years_: 64.7% (male 2,904,587/female 2,898,339)<br>
 _65 years and over_: 21.2% (2024 est.) (male 839,672/female 1,060,411)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.4 (2024 est.)<br>
-_youth dependency ratio_: 21.7 (2024 est.)<br>
-_elderly dependency ratio_: 31.7 (2024 est.)<br>
-_potential support ratio_: 3.2 (2024 est.)<br>
+_total dependency ratio_: 54.3 (2025 est.)<br>
+_youth dependency ratio_: 21.8 (2025 est.)<br>
+_elderly dependency ratio_: 32.5 (2025 est.)<br>
+_potential support ratio_: 3.1 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 44.5 years (2025 est.)<br>
@@ -593,12 +593,12 @@ _Total energy consumption per capita 2023_: 120.211 million Btu/person (2023 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3.604 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 40 (2023 est.)<br>
+_total subscriptions_: 3.48 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 38 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11.116 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 125 (2024 est.)<br>
+_total subscriptions_: 11.4 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 124 (2024 est.)<br>
 
 **Broadcast media**<br>
 public broadcaster, Oesterreichischer Rundfunk (ORF), is a major player in the TV and radio markets; private broadcasters, cable, and satellite TV are available in most homes are widely used; some German stations carry programs for Austrian viewers; national and regional newspapers compete fiercely for readers; the print media are owned by a handful of mostly Austrian and German media groups (2023)<br>

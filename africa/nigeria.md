@@ -88,9 +88,9 @@ the Niger River enters the country in the northwest and flows southward through 
 ## People and Society
 
 **Population**<br>
-_total_: 236,747,130 (2024 est.)<br>
-_male_: 119,514,449<br>
-_female_: 117,232,681<br>
+_total_: 244,344,065 (2025 est.)<br>
+_male_: 123,511,557<br>
+_female_: 120,832,508<br>
 
 **Nationality**<br>
 _noun_: Nigerian(s)<br>
@@ -112,10 +112,10 @@ _15-64 years_: 56.2% (male 66,897,900/female 66,187,584)<br>
 _65 years and over_: 3.4% (2024 est.) (male 3,759,943/female 4,274,287)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 77.9 (2024 est.)<br>
-_youth dependency ratio_: 71.9 (2024 est.)<br>
-_elderly dependency ratio_: 6 (2024 est.)<br>
-_potential support ratio_: 16.6 (2024 est.)<br>
+_total dependency ratio_: 78 (2025 est.)<br>
+_youth dependency ratio_: 72.2 (2025 est.)<br>
+_elderly dependency ratio_: 5.9 (2025 est.)<br>
+_potential support ratio_: 17 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 19.4 years (2025 est.)<br>
@@ -606,8 +606,8 @@ _total subscriptions_: 112,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: (2023 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 224 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 102 (2022 est.)<br>
+_total subscriptions_: 165 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 71 (2024 est.)<br>
 
 **Broadcast media**<br>
 nearly 70 federal government-controlled national and regional TV stations; all 36 states operate TV stations; several private TV stations; cable and satellite TV subscription services are available; network of federal government-controlled national, regional, and state radio stations; roughly 40 state government-owned radio stations; about 20 private radio stations; transmissions of international broadcasters are available; transition to digital completed in three states in 2018 (2019)<br>

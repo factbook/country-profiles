@@ -70,9 +70,9 @@ Pago Pago has one of the best natural deepwater harbors in the South Pacific Oce
 ## People and Society
 
 **Population**<br>
-_total_: 43,895 (2024 est.)<br>
-_male_: 21,804<br>
-_female_: 22,091<br>
+_total_: 43,268 (2025 est.)<br>
+_male_: 21,478<br>
+_female_: 21,790<br>
 
 **Nationality**<br>
 _noun_: American Samoan(s) (US nationals)<br>
@@ -95,10 +95,10 @@ _15-64 years_: 66% (male 14,291/female 14,679)<br>
 _65 years and over_: 8.7% (2024 est.) (male 1,775/female 2,025)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 51.5 (2024 est.)<br>
-_youth dependency ratio_: 38.4 (2024 est.)<br>
-_elderly dependency ratio_: 13.1 (2024 est.)<br>
-_potential support ratio_: 7.6 (2024 est.)<br>
+_total dependency ratio_: 51.3 (2025 est.)<br>
+_youth dependency ratio_: 37.5 (2025 est.)<br>
+_elderly dependency ratio_: 13.8 (2025 est.)<br>
+_potential support ratio_: 7.2 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 30.6 years (2025 est.)<br>
@@ -354,7 +354,7 @@ _Total energy consumption per capita 2019_: 89.105 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 10,000 (2021 est.)<br>
+_total subscriptions_: 9,690 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 20 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>

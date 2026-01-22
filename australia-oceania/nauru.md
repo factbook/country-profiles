@@ -73,9 +73,9 @@ Nauru is the third-smallest country in the world behind the Holy See (Vatican Ci
 ## People and Society
 
 **Population**<br>
-_total_: 9,892 (2024 est.)<br>
-_male_: 4,856<br>
-_female_: 5,036<br>
+_total_: 9,930 (2025 est.)<br>
+_male_: 4,874<br>
+_female_: 5,056<br>
 
 **Nationality**<br>
 _noun_: Nauruan(s)<br>
@@ -97,10 +97,10 @@ _15-64 years_: 66% (male 3,220/female 3,309)<br>
 _65 years and over_: 4.4% (2024 est.) (male 143/female 294)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 51.5 (2024 est.)<br>
-_youth dependency ratio_: 44.8 (2024 est.)<br>
-_elderly dependency ratio_: 6.7 (2024 est.)<br>
-_potential support ratio_: 14.9 (2024 est.)<br>
+_total dependency ratio_: 50.7 (2025 est.)<br>
+_youth dependency ratio_: 43.7 (2025 est.)<br>
+_elderly dependency ratio_: 7 (2025 est.)<br>
+_potential support ratio_: 14.4 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 28.2 years (2025 est.)<br>
@@ -451,8 +451,8 @@ _total subscriptions_: 0 (2019 est.) 0<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 80 (2021 est.)<br>
+_total subscriptions_: 10,300 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 87 (2022 est.)<br>
 
 **Broadcast media**<br>
 1 state-owned TV station broadcasting programs from New Zealand; 1 state-owned radio station, broadcasting on AM and FM, uses Australian and British programs (2019)<br>

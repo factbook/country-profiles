@@ -92,9 +92,9 @@ frequent typhoons (about five per year along southern and eastern coasts); damag
 ## People and Society
 
 **Population**<br>
-_total_: 1,416,043,270 (2024 est.)<br>
-_male_: 722,201,504<br>
-_female_: 693,841,766<br>
+_total_: 1,407,181,209 (2025 est.)<br>
+_male_: 716,908,592<br>
+_female_: 690,272,617<br>
 
 **Nationality**<br>
 _noun_: Chinese (singular and plural)<br>
@@ -118,10 +118,10 @@ _15-64 years_: 69.3% (male 505,412,555/female 476,599,793)<br>
 _65 years and over_: 14.4% (2024 est.) (male 94,144,838/female 109,315,797)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 43.9 (2024 est.)<br>
-_youth dependency ratio_: 23.2 (2024 est.)<br>
-_elderly dependency ratio_: 20.7 (2024 est.)<br>
-_potential support ratio_: 4.8 (2024 est.)<br>
+_total dependency ratio_: 43.4 (2025 est.)<br>
+_youth dependency ratio_: 22.4 (2025 est.)<br>
+_elderly dependency ratio_: 21 (2025 est.)<br>
+_potential support ratio_: 4.8 (2025 est.)<br>
 <strong>note:</strong> data do not include Hong Kong, Macau, and Taiwan<br>
 
 **Median age**<br>
@@ -629,11 +629,11 @@ _Total energy consumption per capita 2023_: 113.805 million Btu/person (2023 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 173.326 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 12 (2023 est.)<br>
+_total subscriptions_: 167 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 12 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.82 billion (2023 est.)<br>
+_total subscriptions_: 1.87 billion (2024 est.)<br>
 _subscriptions per 100 inhabitants_: 132 (2024 est.)<br>
 
 **Broadcast media**<br>

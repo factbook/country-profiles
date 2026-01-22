@@ -78,9 +78,9 @@ strategic location along Danish Straits linking Baltic and North Seas; Sweden ha
 ## People and Society
 
 **Population**<br>
-_total_: 10,589,835 (2024 est.)<br>
-_male_: 5,332,701<br>
-_female_: 5,257,134<br>
+_total_: 10,643,745 (2025 est.)<br>
+_male_: 5,360,755<br>
+_female_: 5,282,990<br>
 
 **Nationality**<br>
 _noun_: Swede(s)<br>
@@ -105,10 +105,10 @@ _15-64 years_: 62.1% (male 3,365,754/female 3,208,248)<br>
 _65 years and over_: 20.8% (2024 est.) (male 1,032,279/female 1,168,576)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 61.1 (2024 est.)<br>
-_youth dependency ratio_: 27.6 (2024 est.)<br>
-_elderly dependency ratio_: 33.5 (2024 est.)<br>
-_potential support ratio_: 3 (2024 est.)<br>
+_total dependency ratio_: 60.9 (2025 est.)<br>
+_youth dependency ratio_: 27.3 (2025 est.)<br>
+_elderly dependency ratio_: 33.6 (2025 est.)<br>
+_potential support ratio_: 3 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 41.2 years (2025 est.)<br>
@@ -596,8 +596,8 @@ _total subscriptions_: 898,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 9 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 14.8 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 125 (2022 est.)<br>
+_total subscriptions_: 14.9 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 141 (2024 est.)<br>
 
 **Broadcast media**<br>
 publicly owned TV broadcaster has 2 terrestrial networks plus regional stations; multiple privately owned TV broadcasters operating nationally, regionally, and locally; about 50 local TV stations; widespread access to pan-Nordic and international broadcasters through multi-channel cable and satellite TV; publicly owned radio broadcaster has 3 national stations and a network of 25 regional channels; roughly 100 privately owned local radio stations, with some consolidating into near-national networks; an estimated 900 community and neighborhood radio stations broadcast intermittently<br>
@@ -660,8 +660,7 @@ approximately 25,000 active military personnel; approximately 21,000 Home GuardÂ
 the SAF's inventory is comprised of mostly domestically produced armaments alongside smaller amounts of imported Western systems; Sweden's defense industry produces a range of air, land, and naval systems, including armored vehicles, combat aircraft, and submarines; it also produces weapons systems jointly with other countries (2025)<br>
 
 **Military service age and obligation**<br>
-18-47 years of age for voluntary military service for men and women; service obligation: 7-15 months (Army), 7-15 months (Navy), 8-12 months (Air Force); after completing initial service, soldiers have a reserve commitment until age 47; compulsory military service, abolished in 2010, was reinstated in January 2018; conscription is selective, includes both men and women (age 18), and requires 6-15 months of service (2024)<br>
-<strong>note 1: </strong>Sweden conscripts about 5,500 men and women each year; it plans to increase this number to 8,000 by 2025; conscientious objectors in Sweden have the right to apply for alternative service (called vapenfri tjÃ¤nst); after completing alternative service, the conscript then belongs to the civilian reserve<br><br><strong>note 2: </strong>as of 2024, women made nearly 25% of the military's personnel<br>
+18 years of age for voluntary and selective conscripted service for men and women; conscript service obligation typically 9-15 months depending on the branch of service and position, with a reserve commitment up to age 45 (2026)<br>
 
 **Military deployments**<br>
 approximately 600 Latvia (NATO) (2025)<br>

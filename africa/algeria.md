@@ -82,9 +82,9 @@ largest country in Africa but 80% desert; canyons and caves in the southern Hogg
 ## People and Society
 
 **Population**<br>
-_total_: 47,022,473 (2024 est.)<br>
-_male_: 23,854,821<br>
-_female_: 23,167,652<br>
+_total_: 47,735,685 (2025 est.)<br>
+_male_: 24,219,668<br>
+_female_: 23,516,017<br>
 
 **Nationality**<br>
 _noun_: Algerian(s)<br>
@@ -107,10 +107,10 @@ _15-64 years_: 62.3% (male 14,846,102/female 14,441,034)<br>
 _65 years and over_: 6.9% (2024 est.) (male 1,597,382/female 1,663,824)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 60.6 (2024 est.)<br>
-_youth dependency ratio_: 49.4 (2024 est.)<br>
-_elderly dependency ratio_: 11.1 (2024 est.)<br>
-_potential support ratio_: 9 (2024 est.)<br>
+_total dependency ratio_: 60.5 (2025 est.)<br>
+_youth dependency ratio_: 48.9 (2025 est.)<br>
+_elderly dependency ratio_: 11.5 (2025 est.)<br>
+_potential support ratio_: 8.7 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 29.3 years (2025 est.)<br>
@@ -592,12 +592,12 @@ _Total energy consumption per capita 2023_: 61.843 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6.324 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 14 (2023 est.)<br>
+_total subscriptions_: 6.93 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 15 (2024 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,152,210 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 116 (2024 est.)<br>
+_total subscriptions_: 54.1 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 115 (2024 est.)<br>
 
 **Broadcast media**<br>
 Radio Alg&eacute;rienne is the state-run radio broadcast; the National Company of Television (Entreprise Nationale de T&eacute;l&eacute;vision (ENTV)) is the primary state-run public TV station (2024)<br>
@@ -676,7 +676,7 @@ none; note - in 1947, Algeria began hosting a French military rocket test site k
 has a national space policy and space research program with stated goals of supporting internal development, managing resources, mastering space technology, and reinforcing national sovereignty; builds and operates communications and remote sensing (RS) satellites; researching and developing a range of space-related capabilities, including satellites and satellite payloads, communications, RS, instrumentation, image processing, and geo-spatial information; works with a variety of foreign space agencies and industries, including Argentina, China, France, Germany, India, Russia, Slovenia, Ukraine, the UK, and other African countries; member of the African Space Agency and the Arab Space Coordination Group (2025)<br>
 
 **Key space-program milestones**<br>
-2002 - first remote sensing (RS) satellite (Alsat-1A) built jointly with the UK and launched by Russia<br><br>2006 - announced a national space program<br><br>2010 and 2016 - first Algerian-designed and -built RS satellites (Alsat-2A and 2B) launched by India<br><br>2017 - first communications satellite (Alcomsat-1) built jointly with and launched by China; announced a 2040 national space plan<br>
+2002 - first remote sensing (RS) satellite (Alsat-1A) built jointly with the UK and launched by Russia<br><br>2006 - announced a national space program<br><br>2010 and 2016 - first Algerian-designed and -built RS satellites (Alsat-2A and 2B) launched by India<br><br>2017 - first communications satellite (Alcomsat-1) built jointly with and launched by China; announced a 2040 national space plan<br><br>2026 - RS satellite (AlSat-3A) launched by China<br>
 
 ## Terrorism
 

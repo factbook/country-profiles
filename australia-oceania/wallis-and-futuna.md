@@ -70,9 +70,9 @@ both island groups have fringing reefs; Wallis contains several prominent crater
 ## People and Society
 
 **Population**<br>
-_total_: 15,964 (2024 est.)<br>
-_male_: 8,201<br>
-_female_: 7,763<br>
+_total_: 15,998 (2025 est.)<br>
+_male_: 8,217<br>
+_female_: 7,781<br>
 
 **Nationality**<br>
 _noun_: Wallisian(s), Futunan(s), or Wallis and Futuna Islanders<br>
@@ -93,10 +93,10 @@ _15-64 years_: 67.5% (male 5,535/female 5,247)<br>
 _65 years and over_: 12.7% (2024 est.) (male 1,023/female 1,005)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 48.1 (2024 est.)<br>
-_youth dependency ratio_: 29.3 (2024 est.)<br>
-_elderly dependency ratio_: 18.8 (2024 est.)<br>
-_potential support ratio_: 5.3 (2024 est.)<br>
+_total dependency ratio_: 48.7 (2025 est.)<br>
+_youth dependency ratio_: 29 (2025 est.)<br>
+_elderly dependency ratio_: 19.7 (2025 est.)<br>
+_potential support ratio_: 5.1 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 36.9 years (2025 est.)<br>
@@ -326,8 +326,8 @@ _total subscriptions_: 3,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 26 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 0 (2018)<br>
-_subscriptions per 100 inhabitants_: 0 (2019)<br>
+_total subscriptions_: 12,200 (2023)<br>
+_subscriptions per 100 inhabitants_: 107 (2023)<br>
 
 **Broadcast media**<br>
 publicly owned French Overseas Network (RFO), which broadcasts to France's overseas departments, collectivities, and territories, is carried on the RFO Wallis and Fortuna TV and radio stations (2019)<br>

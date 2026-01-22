@@ -78,9 +78,9 @@ strategic location near world's busiest shipping lanes and close to Arabian oilf
 ## People and Society
 
 **Population**<br>
-_total_: 994,974 (2024 est.)<br>
-_male_: 450,796<br>
-_female_: 544,178<br>
+_total_: 1,013,703 (2025 est.)<br>
+_male_: 458,988<br>
+_female_: 554,715<br>
 
 **Nationality**<br>
 _noun_: Djiboutian(s)<br>
@@ -101,10 +101,10 @@ _15-64 years_: 67.4% (male 290,654/female 379,778)<br>
 _65 years and over_: 4.2% (2024 est.) (male 18,313/female 23,704)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 48.4 (2024 est.)<br>
-_youth dependency ratio_: 42.1 (2024 est.)<br>
-_elderly dependency ratio_: 6.3 (2024 est.)<br>
-_potential support ratio_: 16 (2024 est.)<br>
+_total dependency ratio_: 48.1 (2025 est.)<br>
+_youth dependency ratio_: 41.7 (2025 est.)<br>
+_elderly dependency ratio_: 6.4 (2025 est.)<br>
+_potential support ratio_: 15.7 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 26.7 years (2025 est.)<br>
@@ -304,7 +304,7 @@ _election results_: <em><br>2021:</em> Ismail Omar GUELLEH reelected president f
 _expected date of next election_: April 2026<br>
 
 **Legislative branch**<br>
-_legislature name_: National Assembly (Assemblée nationale)<br>
+_legislature name_: National Assembly (Assembl&eacute;e nationale)<br>
 _legislative structure_: unicameral<br>
 _number of seats_: 65 (all directly elected)<br>
 _electoral system_: mixed system<br>
@@ -546,11 +546,11 @@ _Total energy consumption per capita 2023_: 10.428 million Btu/person (2023 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 29,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
+_total subscriptions_: 28,700 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 558,607 (2023 est.)<br>
+_total subscriptions_: 559,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 49 (2023 est.)<br>
 
 **Broadcast media**<br>

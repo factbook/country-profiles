@@ -226,6 +226,9 @@ _Currency_: New Zealand dollars (NZD) per US dollar -<br>
 
 ## Communications
 
+**Telephones - mobile cellular**<br>
+No traditional public cellular network. Satellite-based internet (Starlink) and VoIP apps (WhatsApp, Viber) are available.<br>
+
 **Broadcast media**<br>
 satellite TV from Fiji-based Sky Pacific offering a wide range of international channels<br>
 

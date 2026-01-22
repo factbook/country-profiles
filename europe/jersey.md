@@ -72,9 +72,9 @@ largest and southernmost of Channel Islands; about 30% of population concentrate
 ## People and Society
 
 **Population**<br>
-_total_: 103,387 (2024 est.)<br>
-_male_: 51,028<br>
-_female_: 52,359<br>
+_total_: 103,944 (2025 est.)<br>
+_male_: 51,317<br>
+_female_: 52,627<br>
 
 **Nationality**<br>
 _noun_: Channel Islander(s)<br>
@@ -96,10 +96,10 @@ _15-64 years_: 64.6% (male 33,840/female 32,989)<br>
 _65 years and over_: 18.3% (2024 est.) (male 8,106/female 10,840)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 54.7 (2024 est.)<br>
-_youth dependency ratio_: 26.4 (2024 est.)<br>
-_elderly dependency ratio_: 28.3 (2024 est.)<br>
-_potential support ratio_: 3.5 (2024 est.)<br>
+_total dependency ratio_: 56 (2025 est.)<br>
+_youth dependency ratio_: 26.8 (2025 est.)<br>
+_elderly dependency ratio_: 29.2 (2025 est.)<br>
+_potential support ratio_: 3.4 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 38.5 years (2025 est.)<br>
@@ -356,12 +356,12 @@ _electrification - total population_: 100% (2022 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 48,122 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 47 (2021 est.)<br>
+_total subscriptions_: 48,223 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 47 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 124,083 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 120 (2021 est.)<br>
+_total subscriptions_: 129,368 (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 125 (2023 est.)<br>
 
 **Broadcast media**<br>
 multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey; satellite packages available; BBC Radio Jersey and 1 other radio station operating<br>

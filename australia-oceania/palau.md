@@ -74,9 +74,9 @@ westernmost archipelago in the Caroline chain, consists of six island groups tot
 ## People and Society
 
 **Population**<br>
-_total_: 21,864 (2024 est.)<br>
-_male_: 11,235<br>
-_female_: 10,629<br>
+_total_: 21,947 (2025 est.)<br>
+_male_: 11,257<br>
+_female_: 10,690<br>
 
 **Nationality**<br>
 _noun_: Palauan(s)<br>
@@ -98,10 +98,10 @@ _15-64 years_: 71.3% (male 8,647/female 6,935)<br>
 _65 years and over_: 11.2% (2024 est.) (male 612/female 1,845)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 40.3 (2024 est.)<br>
-_youth dependency ratio_: 24.5 (2024 est.)<br>
-_elderly dependency ratio_: 15.8 (2024 est.)<br>
-_potential support ratio_: 6.3 (2024 est.)<br>
+_total dependency ratio_: 41.6 (2025 est.)<br>
+_youth dependency ratio_: 24.9 (2025 est.)<br>
+_elderly dependency ratio_: 16.7 (2025 est.)<br>
+_potential support ratio_: 6 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 35.5 years (2025 est.)<br>
@@ -489,7 +489,7 @@ _subscriptions per 100 inhabitants_: 45 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 24,000 (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 133 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 135 (2023 est.)<br>
 
 **Broadcast media**<br>
 no broadcast TV stations; a cable TV network covers the major islands and provides access to 4 local cable stations, rebroadcasts (on a delayed basis) of a number of US stations, as well as access to a number of real-time satellite TV channels; about a half dozen radio stations (1 government-owned) (2019)<br>

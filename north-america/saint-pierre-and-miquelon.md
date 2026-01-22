@@ -73,9 +73,9 @@ vegetation scanty; the islands are part of the northern Appalachians, along with
 ## People and Society
 
 **Population**<br>
-_total_: 5,132 (2024 est.)<br>
-_male_: 2,476<br>
-_female_: 2,656<br>
+_total_: 5,070 (2025 est.)<br>
+_male_: 2,442<br>
+_female_: 2,628<br>
 
 **Nationality**<br>
 _noun_: Frenchman(men), Frenchwoman(women)<br>
@@ -97,10 +97,10 @@ _15-64 years_: 61.6% (male 1,559/female 1,600)<br>
 _65 years and over_: 25.3% (2024 est.) (male 571/female 728)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 62.5 (2024 est.)<br>
-_youth dependency ratio_: 21.3 (2024 est.)<br>
-_elderly dependency ratio_: 41.1 (2024 est.)<br>
-_potential support ratio_: 2.4 (2024 est.)<br>
+_total dependency ratio_: 63.3 (2025 est.)<br>
+_youth dependency ratio_: 21 (2025 est.)<br>
+_elderly dependency ratio_: 42.3 (2025 est.)<br>
+_potential support ratio_: 2.4 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 51.8 years (2025 est.)<br>

@@ -88,9 +88,9 @@ dominates South Asian subcontinent; near important Indian Ocean trade routes; Ka
 ## People and Society
 
 **Population**<br>
-_total_: 1,409,128,296 (2024 est.)<br>
-_male_: 725,784,825<br>
-_female_: 683,343,471<br>
+_total_: 1,419,316,933 (2025 est.)<br>
+_male_: 730,902,574<br>
+_female_: 688,414,359<br>
 
 **Nationality**<br>
 _noun_: Indian(s)<br>
@@ -113,10 +113,10 @@ _15-64 years_: 68.7% (male 500,568,593/female 467,593,781)<br>
 _65 years and over_: 6.8% (2024 est.) (male 44,101,180/female 52,102,662)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 45.5 (2024 est.)<br>
-_youth dependency ratio_: 35.6 (2024 est.)<br>
-_elderly dependency ratio_: 9.9 (2024 est.)<br>
-_potential support ratio_: 10.1 (2024 est.)<br>
+_total dependency ratio_: 45 (2025 est.)<br>
+_youth dependency ratio_: 35 (2025 est.)<br>
+_elderly dependency ratio_: 10 (2025 est.)<br>
+_potential support ratio_: 10 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 30.1 years (2025 est.)<br>
@@ -337,10 +337,10 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Droupadi MURMU (since 25 July 2022)<br>
 _head of government_: Prime Minister Narendra MODI (since 26 May 2014)<br>
 _cabinet_: Union Council of Ministers recommended by the prime minister, appointed by the president<br>
-_election/appointment process_: president indirectly elected for a 5-year term (no term limits) by an electoral college consisting of elected members of both houses of Parliament; vice president indirectly elected for a 5-year term (no term limits) by an electoral college consisting of elected members of both houses of Parliament; following legislative elections, the prime minister is elected by Lok Sabha members of the majority party<br>
-_most recent election date_: <em>president: </em>18 July 2022<br><br><em>vice president: </em>5 August 2022<br>
+_election/appointment process_: president indirectly elected for a 5-year term (no term limits) by an electoral college consisting of elected members of both houses of Parliament<br>
+_most recent election date_: 18 July 2022<br>
 _election results_: <br><em>2022:</em> Droupadi MURMU elected president; percent of electoral college vote - Droupadi MURMU (BJP) 64%, Yashwant SINHA (AITC) 35.9%; Jagdeep DHANKHAR elected vice president; percent of electoral college vote - Jagdeep DHANKHAR (BJP) 74.4%, Margaret ALVA (INC) 25.6%<br>
-_expected date of next election_: <em>president: </em>July 2027<br><br><em>vice president: </em>August 2027<br>
+_expected date of next election_: July 2027<br>
 
 **Legislative branch**<br>
 _legislature name_: Parliament (Sansad)<br>
@@ -636,8 +636,8 @@ _total subscriptions_: 27.455 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.14 billion (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 81 (2022 est.)<br>
+_total subscriptions_: 1.15 billion (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 79 (2024 est.)<br>
 
 **Broadcast media**<br>
 Doordarshan, India's public TV network, has a monopoly on terrestrial broadcasting and operates about 20 national, regional, and local services; a large number of privately owned TV stations are distributed by cable and satellite service providers; cable and satellite TV offer over 850 TV channels; government controls AM radio, with All India Radio operating domestic and external networks; news broadcasts via radio are limited to the All India Radio Network; since 2000, privately owned FM stations have been permitted and have increased rapidly (2020)<br>

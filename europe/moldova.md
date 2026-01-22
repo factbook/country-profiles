@@ -79,9 +79,9 @@ landlocked; has many types of sedimentary rocks and minerals, including sand, gr
 ## People and Society
 
 **Population**<br>
-_total_: 3,599,528 (2024 est.)<br>
-_male_: 1,698,249<br>
-_female_: 1,901,279<br>
+_total_: 3,578,930 (2025 est.)<br>
+_male_: 1,687,496<br>
+_female_: 1,891,434<br>
 
 **Nationality**<br>
 _noun_: Moldovan(s)<br>
@@ -104,10 +104,10 @@ _15-64 years_: 70.2% (male 1,225,535/female 1,300,640)<br>
 _65 years and over_: 15% (2024 est.) (male 206,221/female 334,473)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 42.5 (2024 est.)<br>
-_youth dependency ratio_: 21.1 (2024 est.)<br>
-_elderly dependency ratio_: 21.4 (2024 est.)<br>
-_potential support ratio_: 4.7 (2024 est.)<br>
+_total dependency ratio_: 43 (2025 est.)<br>
+_youth dependency ratio_: 20.8 (2025 est.)<br>
+_elderly dependency ratio_: 22.2 (2025 est.)<br>
+_potential support ratio_: 4.5 (2025 est.)<br>
 
 **Median age**<br>
 _total_: 40.4 years (2025 est.)<br>
@@ -308,11 +308,11 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Maia SANDU (since 24 December 2020)<br>
-_head of government_: Prime Minister Dorin RECEAN (since 16 February 2023)<br>
+_head of government_: Prime Minister Alexandru MUNTEANU (since 1 November 2025)<br>
 _cabinet_: Cabinet proposed by the prime minister-designate, nominated by the president, approved through a vote of confidence in Parliament<br>
 _election/appointment process_: president directly elected for a 4-year term (eligible for a second term); prime minister designated by the president in consultation with Parliament; within 15 days from designation, the prime minister-designate must request a vote of confidence for his/her proposed work program from the Parliament<br>
 _most recent election date_: 3 November 2024<br>
-_election results_: <em><br>2024: </em>In the second round of presidential elections, incumbent Maia SANDU (PAS) wins 55.4% of the vote, Alexandr STOIANOGLO (PSRM) 44.6; turnout is 54.3%<em><br><br>2020:</em> Maia SANDU elected president in second round; percent of vote in second round - Maia SANDU (PAS) 57.7%, Igor DODON (PSRM) 42.3%<br><br><em>2016</em>: Igor DODON elected president in second round; percent of vote - Igor DODON (PSRM) 52.1%, Maia SANDU (PAS) 47.9%<br>
+_election results_: <em><br>2024: </em>In the second round of presidential elections, incumbent Maia SANDU (PAS) wins 55.4% of the vote, Alexandr STOIANOGLO (PSRM) 44.6; turnout is 54.3%<em><br><br>2020:</em> Maia SANDU elected president in second round; percent of vote in second round - Maia SANDU (PAS) 57.7%, Igor DODON (PSRM) 42.3%<br>
 _expected date of next election_: 2028<br>
 
 **Legislative branch**<br>
@@ -580,8 +580,8 @@ _total subscriptions_: 847,000 (2023 est.)<br>
 _subscriptions per 100 inhabitants_: 28 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.01 million (2023 est.)<br>
-_subscriptions per 100 inhabitants_: 127 (2022 est.)<br>
+_total subscriptions_: 3.64 million (2024 est.)<br>
+_subscriptions per 100 inhabitants_: 120 (2024 est.)<br>
 
 **Broadcast media**<br>
 state-owned national radio-TV broadcaster operates 1 TV and 1 radio station; total of nearly 70 terrestrial TV channels and about 50 radio stations; Russian and Romanian channels are available (2019)<br>
